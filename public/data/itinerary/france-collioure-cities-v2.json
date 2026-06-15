@@ -160,6 +160,196 @@
         "hu": "A séta Collioure történelmi látványosságainál kezdődik, felfedezve a régi mosóházat és a helyi református templom nyugodt környezetét.\n\nDélben a fenséges királyi kastély a fő attrakció, amelyet a modern művészeti múzeum lenyűgöző és színes kiállításai követnek.\n\nA délután látványos kilátást kínál a híres harangtoronyra, mielőtt tovább folytatná a festői partszakasz felfedezését.\n\nA nap a természetes környezetben ér véget, ahol Collioure partjainál megpihenve élvezheti a tengerpart esti, romantikus varázsát.",
         "ro": "Plimbarea începe cu atracțiile istorice din Collioure. Veți vizita vechea spălătorie și mediul liniștit al bisericii reformate.\n\nLa prânz, atracția principală este castelul regal maiestuos, urmat de expozițiile fascinante și colorate ale muzeului de artă modernă.\n\nDupă-amiaza oferă vederi spectaculoase asupra celebrului turn al bisericii, înainte de a continua explorarea coastei pitorești.\n\nZiua se încheie în mediul natural din Collioure, unde vă puteți relaxa pe coastă și vă puteți bucura de magia romantică a serii.",
         "en": "The walk through Collioure starts at the historic landmarks. You will explore the old washhouse and the peaceful setting of the reformed church.\n\nAt midday, the majestic royal castle takes center stage, followed by an inspiring journey through the colorful exhibits of the modern art museum.\n\nThe afternoon offers spectacular views of the famous bell tower before you continue to explore the picturesque coastline of the town.\n\nThe day ends with a relaxing stay in the natural surroundings of Collioure, where you can enjoy the romantic evening charm of the seaside."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen sammeln sich dunkle Wolken über dem alten Waschhaus, Schutz finden wir hinter den dicken Mauern der Kirche und der Burg. Mittags bietet das Museum für moderne Kunst einen farbenfrohen Zufluchtsort im Grau. Am Nachmittag beobachten wir die Meereswellen von den Burgmauern, und am Abend beschließt ein Spaziergang mit Regenschirm auf den nassen Kieseln den Tag unter den Lichtern.",
+            "hu": "Reggel az ódon mosóház felett sötét fellegek gyülekeznek, az eső elől a templom és a vár vastag falai közé húzódunk. Délben a modern művészeti múzeum kínál színes menedéket a szürkeségben. Délután a várfokokról figyeljük a tenger hullámait, majd este egy esernyős séta zárja a napot a nedves kavicsokon, ahol a kikötő fényei megcsillannak a csúszós tócsákban.",
+            "ro": "Dimineața, nori întunecați se adună deasupra vechii spălătorii, căutăm adăpost între zidurile groase ale bisericii și ale castelului. La prânz, muzeul de artă modernă oferă un refugiu colorat în griul de afară. După-amiaza observăm valurile mării de pe zidurile castelului, iar seara o plimbare cu umbrela pe pietrele umede încheie ziua sub luminile sclipitoare ale portului.",
+            "en": "In the morning, dark clouds gather over the old washhouse, and we seek shelter within the thick walls of the church and the castle. At noon, the modern art museum offers a colorful refuge from the grey weather. In the afternoon, we watch the sea waves from the castle ramparts, and in the evening, an umbrella walk on the wet pebbles ends the day as harbor lights shimmer."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ancien lavoir",
+                "hu": "Ancien lavoir",
+                "ro": "Ancien lavoir",
+                "en": "Ancien lavoir"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Steinbecken; achten Sie auf das vom Dach fließende Wasser und nutzen Sie den Überhang als schnellen Schutz bei einem Schauer.",
+                "hu": "Csodálja meg a kőmedencéket; figyeljen a tetőről lecsorgó vízre, és használja az ereszt gyors menedékként egy hirtelen zápor esetén.",
+                "ro": "Admirați bazinele de piatră; atenție la apa care se scurge de pe acoperiș și folosiți streașina ca adăpost rapid în caz de aversă.",
+                "en": "Admire the stone basins; watch for water pouring off the roof and use the overhang as a quick shelter during a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Église reformée de France",
+                "hu": "Église reformée de France",
+                "ro": "Église reformée de France",
+                "en": "Église reformée de France"
+              },
+              "tip_5lang": {
+                "de": "Das schlichte Interieur strahlt Ruhe aus; es ist der perfekte trockene Hafen während eines Regengusses mit seinen dichten Steinmauern.",
+                "hu": "Az egyszerű belső tér nyugalmat áraszt; a vastag kőfalak között tökéletes, száraz menedéket talál egy intenzív felhőszakadás idején.",
+                "ro": "Interiorul simplu emană liniște; este refugiul uscat perfect în timpul unei ploi torențiale datorită zidurilor sale groase de piatră.",
+                "en": "The simple interior radiates peace; it is the perfect dry haven during a heavy downpour with its thick and protective stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Royal de Collioure",
+                "hu": "Château Royal de Collioure",
+                "ro": "Château Royal de Collioure",
+                "en": "Château Royal de Collioure"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die riesigen Hallen; die Innenausstellungen bieten reichlich Schutz vor Wind, während draußen der Regen gegen die Mauern peitscht.",
+                "hu": "Fedezze fel a hatalmas termeket; a belső kiállítások bőséges védelmet nyújtanak a szél ellen, miközben kint az eső veri a várfalakat.",
+                "ro": "Explorați sălile uriașe; expozițiile interioare oferă mult adăpost împotriva vântului, în timp ce afară ploaia bate în zidurile vechi.",
+                "en": "Explore the massive halls; the indoor exhibits offer plenty of protection from the wind while the rain lashes against the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Le musée d’Art Moderne de Collioure",
+                "hu": "Le musée d’Art Moderne de Collioure",
+                "ro": "Le musée d’Art Moderne de Collioure",
+                "en": "Le musée d’Art Moderne de Collioure"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie den Fauvismus; verbringen Sie hier mehr Zeit, während der Regen auf die Oberlichter trommelt und eine gemütliche Atmosphäre schafft.",
+                "hu": "Fedezze fel a fauvizmust; töltsön itt több időt, miközben az eső a tetőablakokon kopog, különleges, meghitt hangulatot árasztva.",
+                "ro": "Descoperiți fovismul; petreceți mai mult timp aici în timp ce ploaia bate în luminatoare, creând o atmosferă interioară caldă și plăcută.",
+                "en": "Discover Fauvism; spend extra time here as the rain drums on the skylights, creating a cozy and reflective atmosphere for art lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue n°7 - Sur le clocher de Collioure",
+                "hu": "Point de vue n°7 - Sur le clocher de Collioure",
+                "ro": "Point de vue n°7 - Sur le clocher de Collioure",
+                "en": "Point de vue n°7 - Sur le clocher de Collioure"
+              },
+              "tip_5lang": {
+                "de": "Der Himmel wirkt über dem Meer dramatisch; seien Sie vorsichtig auf den nassen, rutschigen Stufen, die zum Aussichtspunkt führen.",
+                "hu": "Az égbolt drámai látványt nyújt a tenger felett; legyen nagyon óvatos a kilátóhoz vezető nedves és rendkívül csúszós lépcsőkön.",
+                "ro": "Cerul arată dramatic deasupra mării; aveți mare grijă pe treptele umede și alunecoase care duc spre punctul de observație panoramic.",
+                "en": "The sky looks dramatic over the sea; be extremely careful on the wet and slippery steps leading up to the scenic viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Collioure",
+                "hu": "Collioure",
+                "ro": "Collioure",
+                "en": "Collioure"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie mit dem Schirm an der Bucht spazieren; das Grau des Mittelmeers hat heute eine einzigartige, melancholische Schönheit.",
+                "hu": "Sétáljon esernyővel az öböl mentén; a Földközi-tenger szürke árnyalatai ma egyedülálló, melankolikus szépséget kölcsönöznek a tájnak.",
+                "ro": "Plimbați-vă cu umbrela de-a lungul golfului; griul Mediteranei are astăzi o frumusețe unică, melancolică și plină de mister.",
+                "en": "Walk along the bay with an umbrella; the grey colors of the Mediterranean have a unique, melancholic beauty under the rainy sky."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Meeresbrise ist schneidend, aber der Anblick des Waschhauses lohnt das Zwiebelprinzip bei der Kleidung. Mittags suchen wir Schutz vor dem Wind hinter den Burgmauern und wärmen uns im Museum auf. Am Nachmittag bewundern wir den frühen Sonnenuntergang, bevor es gegen 17:00 Uhr dunkel wird. Am Abend empfängt uns die authentische Atmosphäre der stillen Gassen.",
+            "hu": "A reggeli tengeri szél metsző, de a mosóház látványa megéri a réteges öltözködést. Délben a vár falaiban keresünk enyhülést a szél elől, majd a múzeum melegében időzünk. Délután a kilátópontról csodáljuk a korai naplementét, mielőtt 17:00 körül leszáll az éj. Este a csendes utcák autentikus hangulata fogad, érdemes meleg sálat viselni.",
+            "ro": "Briza matinală a mării este tăioasă, dar vederea spălătoriei merită hainele groase. La prânz căutăm adăpost împotriva vântului în zidurile castelului și ne încălzim în muzeu. După-amiaza admirăm apusul timpuriu înainte ca întunericul să se lase în jur de ora 17:00. Seara ne întâmpină atmosfera autentică a străzilor liniștite și răcoroase.",
+            "en": "The morning sea breeze is biting, but the sight of the washhouse is worth wearing layers. At noon, we find relief from the wind within the castle walls and linger in the warmth of the museum. In the afternoon, we admire the early sunset before darkness falls around 17:00. In the evening, the authentic atmosphere of the quiet streets greets us."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ancien lavoir",
+                "hu": "Ancien lavoir",
+                "ro": "Ancien lavoir",
+                "en": "Ancien lavoir"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstruktur wirkt kalt; tragen Sie Handschuhe, da die Feuchtigkeit des Baches die Luft im Winter noch beißender erscheinen lässt.",
+                "hu": "A kőszerkezet hidegnek hat; viseljen kesztyűt, mivel a patak felőli pára télen még metszőbbé teszi a levegőt ezen a ponton.",
+                "ro": "Structura de piatră pare rece; purtați mănuși, deoarece umiditatea pârâului face ca aerul de iarnă să pară și mai tăios aici.",
+                "en": "The stone structure feels cold; wear gloves as the humidity from the stream makes the winter air feel even sharper at this spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Église reformée de France",
+                "hu": "Église reformée de France",
+                "ro": "Église reformée de France",
+                "en": "Église reformée de France"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zur Besinnung; der Mangel an Menschenmassen im Winter macht die Akustik der kleinen Kirche noch beeindruckender.",
+                "hu": "Csendes hely az elmélyüléshez; a téli tömeg hiánya még lenyűgözőbbé teszi a kis templom akusztikáját és meghitt belső terét.",
+                "ro": "Un loc liniștit pentru reflecție; lipsa mulțimilor de iarnă face ca acustica micii biserici să fie și mai impresionantă și solemnă.",
+                "en": "A quiet spot for reflection; the lack of crowds in winter makes the acoustics of the small church even more impressive and serene."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Royal de Collioure",
+                "hu": "Château Royal de Collioure",
+                "ro": "Château Royal de Collioure",
+                "en": "Château Royal de Collioure"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie auf den Festungsmauern für klare Ausblicke auf die Pyrenäen; das Winterlicht ist perfekt für Fotos ohne Dunst.",
+                "hu": "Sétáljon a várfalakon, ahonnan tiszta kilátás nyílik a Pireneusokra; a téli fény tökéletes a fotózáshoz a nyári pára nélkül.",
+                "ro": "Plimbați-vă pe zidurile cetății pentru vederi clare spre Pirinei; lumina de iarnă este perfectă pentru fotografii fără pâclă.",
+                "en": "Walk the ramparts for crisp views of the snow-capped Pyrenees; the winter light is perfect for photography without the summer haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Le musée d’Art Moderne de Collioure",
+                "hu": "Le musée d’Art Moderne de Collioure",
+                "ro": "Le musée d’Art Moderne de Collioure",
+                "en": "Le musée d’Art Moderne de Collioure"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich zwischen den farbenfrohen Gemälden auf; die Galerie ist ein gemütlicher Rückzugsort vor dem beißenden Wind draußen.",
+                "hu": "Melegedjen fel a színes festmények között; a galéria barátságos menedék a kinti csípős szél és a hűvös tengerparti levegő elől.",
+                "ro": "Încălziți-vă printre picturile colorate; galeria este un refugiu primitor împotriva vântului tăios de afară și a aerului rece.",
+                "en": "Warm up among the colorful paintings; the gallery is a cozy retreat from the biting tramontane wind and the cold air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue n°7 - Sur le clocher de Collioure",
+                "hu": "Point de vue n°7 - Sur le clocher de Collioure",
+                "ro": "Point de vue n°7 - Sur le clocher de Collioure",
+                "en": "Point de vue n°7 - Sur le clocher de Collioure"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang; um diese Jahreszeit trifft das orangefarbene Leuchten den Kirchturm perfekt gegen 16 Uhr.",
+                "hu": "Figyelje a korai naplementét; az évnek ebben a szakaszában a narancssárga fény délután négy körül tökéletesen világítja meg a tornyot.",
+                "ro": "Observați apusul timpuriu; în această perioadă a anului, strălucirea portocalie lovește perfect turnul bisericii în jurul orei 16.",
+                "en": "Watch the sunset early; at this time of year, the orange glow hits the church tower perfectly around four in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Collioure",
+                "hu": "Collioure",
+                "ro": "Collioure",
+                "en": "Collioure"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die leeren Gassen, bevor die Sonne hinter den Hügeln verschwindet und die Temperatur rapide sinkt.",
+                "hu": "Élvezze az üres utcákat, mielőtt a nap eltűnik a dombok mögött, és a hőmérséklet hirtelen és jelentősen csökkenni kezd.",
+                "ro": "Bucurați-vă de străzile goale înainte ca soarele să dispară după dealuri și temperatura să scadă rapid și drastic.",
+                "en": "Enjoy the empty streets before the sun dips below the hills and the temperature starts to drop rapidly in the early evening."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A kerékpártúra a városközpontban kezdődik a református templom megtekintésével, mielőtt felfedezné a királyi kastély hatalmas falait.\n\nA múzeumban tett látogatás után felteker a történelmi malomhoz, amely gyönyörű kilátást nyújt a környező mediterrán tájra.\n\nEgy kissé nagyobb kihívást jelentő út az impozáns Fort Saint-Elme-hez vezet, ahol elmerülhet a régió gazdag katonai múltjában.\n\nAz útvonal a festői La Balette öbölben ér véget, amely tökéletes hely a kikapcsolódásra és a hullámok hangjának élvezetére a tekerés után.",
         "ro": "Turul cu bicicleta începe în centrul orașului cu o vizită la biserica reformată, înainte de a explora zidurile masive ale castelului regal.\n\nDupă vizita la muzeu, pedalați până la moara istorică, care oferă o primă priveliște frumoasă asupra peisajului mediteranean înconjurător.\n\nO plimbare mai provocatoare vă duce la impresionantul Fort Saint-Elme, unde vă puteți scufunda în trecutul militar bogat al regiunii.\n\nTraseul se termină în pitorescul golf La Balette, locul perfect pentru a vă relaxa și a vă bucura de sunetul valurilor după pedalat.",
         "en": "The bike tour begins in the city center with a visit to the reformed church before you explore the massive walls of the royal castle.\n\nAfter taking in the art at the museum, you pedal up to the historic mill, which offers a beautiful first look at the surrounding Mediterranean landscape.\n\nA slightly more challenging ride brings you to the impressive Fort Saint-Elme, where you can delve into the region's rich military past.\n\nThe route concludes at the picturesque La Balette cove, the perfect spot to relax and enjoy the soothing sound of the waves after riding."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln durch den Nieselregen, wir konzentrieren uns auf die gepflasterten Wege. Die Burg und das Museum bieten lange Pausen vom Nass. Kurze Fahrt zur Mühle am Mittag. Am Nachmittag geht es zum Fort unter wolkenverhangenem Himmel, und am Abend kehren wir vorsichtig zum Hafen zurück, während der Regen auf die Meeresoberfläche prasselt.",
+            "hu": "Biciklizés a szemerkélő esőben, a kikövezett utakra koncentrálva. A vár és a múzeum hosszú szünetet biztosít a nedvesség ellen. Délben rövid tekerés a malomhoz. Délután a várkastély felé vesszük az irányt a ködös időben, este pedig óvatosan térünk vissza a kikötőbe, miközben az eső kopog a tenger felszínén.",
+            "ro": "Mersul pe bicicletă prin burniță, concentrându-ne pe drumurile pavate. Castelul și muzeul oferă pauze lungi de la umezeală. La prânz, o scurtă plimbare până la moară. După-amiaza ne îndreptăm spre fort sub cerul acoperit, iar seara revenim cu grijă în port în timp ce ploaia bate în mare.",
+            "en": "Biking through the drizzle, we focus on the paved paths. The castle and museum provide long breaks from the wet weather. A short ride to the mill at noon. In the afternoon, we head to the fort under cloudy skies, and in the evening, we return carefully to the port as rain taps on the sea surface."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église reformée de France",
+                "hu": "Église reformée de France",
+                "ro": "Église reformée de France",
+                "en": "Église reformée de France"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in der Nähe des Portals; das Innere bietet eine ruhige und trockene Umgebung, um Ihre Beine während eines Schauers auszuruhen.",
+                "hu": "Parkoljon a bejárat közelében; a belső tér nyugodt és száraz környezetet kínál, ahol megpihentetheti lábait egy hirtelen zápor alatt.",
+                "ro": "Parcați bicicleta lângă intrare; interiorul oferă un mediu liniștit și uscat unde vă puteți odihni picioarele în timpul unei averse.",
+                "en": "Park your bike near the porch; the interior offers a serene and dry environment to rest your legs during a passing rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Royal de Collioure",
+                "hu": "Château Royal de Collioure",
+                "ro": "Château Royal de Collioure",
+                "en": "Château Royal de Collioure"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Räder am Eingang ab; die Hofsteine können bei Nässe sehr rutschig sein, seien Sie beim Gehen vorsichtig.",
+                "hu": "Zárja le a kerékpárokat a bejáratnál; az udvar kövei vizesen nagyon csúszósak lehetnek, legyen óvatos a gyalogos felfedezéskor.",
+                "ro": "Încuiați bicicletele la intrare; pietrele din curte pot fi foarte alunecoase când sunt ude, deci fiți atenți când mergeți pe jos.",
+                "en": "Lock the bikes at the entrance and explore on foot; the courtyard stones can be very slippery when wet, so watch your step carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Le musée d’Art Moderne de Collioure",
+                "hu": "Le musée d’Art Moderne de Collioure",
+                "ro": "Le musée d’Art Moderne de Collioure",
+                "en": "Le musée d’Art Moderne de Collioure"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Zwischenstopp im Innenbereich; stellen Sie sicher, dass Ihr Licht für die kurze Fahrt durch die nebligen Küstenstraßen an ist.",
+                "hu": "Kiváló fedett megálló; győződjön meg róla, hogy a lámpái égnek a ködös partmenti utcákon való rövid visszatekerés során.",
+                "ro": "O oprire interioară excelentă; asigurați-vă că luminile bicicletei sunt aprinse pentru scurta plimbare prin străzile de coastă cețoase.",
+                "en": "A great indoor stop; ensure your bike lights are on for the short ride back through the misty and potentially dim coastal streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin",
+                "hu": "Moulin",
+                "ro": "Moulin",
+                "en": "Moulin"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Mühle ist kurz, kann aber schlammig sein; prüfen Sie Ihre Bremsen, bevor Sie den Abhang zum Zentrum hinunterfahren.",
+                "hu": "A malomhoz vezető út rövid, de sáros lehet; ellenőrizze a fékeit, mielőtt elindulna a lejtőn vissza a városközpont irányába.",
+                "ro": "Drumul spre moară este scurt, dar poate fi noroios; verificați frânele înainte de a coborî panta spre centrul orașului.",
+                "en": "The path to the mill is short but can be muddy; check your brakes before descending the incline back towards the town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Saint-Elme",
+                "hu": "Fort Saint-Elme",
+                "ro": "Fort Saint-Elme",
+                "en": "Fort Saint-Elme"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen herausfordernd; belohnen Sie sich mit der nebligen Aussicht, während Sie unter dem Tor Schutz suchen.",
+                "hu": "Az emelkedő esőben kihívást jelent; kárpótolja magát a ködös kilátással, miközben a várkapu alatt keres ideiglenes menedéket.",
+                "ro": "Urcarea este provocatoare pe ploaie; răsplătiți-vă cu vederea cețoasă în timp ce căutați adăpost sub poarta mare a fortului.",
+                "en": "The climb is challenging in the rain; reward yourself with the misty view of the coast while seeking cover under the fort's main gate."
+              }
+            },
+            {
+              "name": {
+                "de": "La Balette",
+                "hu": "La Balette",
+                "ro": "La Balette",
+                "en": "La Balette"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig am nassen Kai entlang; das Geräusch des Regens, der auf das Meer trifft, bildet eine rhythmische Kulisse.",
+                "hu": "Tekerjen óvatosan a nedves rakparton; a tengerbe csapódó eső hangja ritmikus hátteret biztosít az utolsó megállóhoz.",
+                "ro": "Mergeți cu atenție pe cheiul umed; sunetul ploii care lovește marea creează un fundal ritmic pentru ultima oprire a zilei.",
+                "en": "Ride carefully along the wet quay; the sound of the rain hitting the sea creates a rhythmic and calming backdrop for your final stop."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht die Fahrt bergauf zum Fort erfrischend. Schichtkleidung ist unerlässlich. Das Museum ist am Mittag ein warmer Höhepunkt. Am Nachmittag leuchten die Olivenbäume silbern im Winterlicht. Die Sonne verschwindet früh hinter den Bergen, und am Abend funkeln die Lichter der Stadt im kalten, stillen Wasser des Hafens.",
+            "hu": "A friss téli levegő felfrissíti a felfelé tekerést a várig. A réteges öltözködés elengedhetetlen. Délben a múzeum meleg pont a napban. Délután az olajfák ezüstösen csillognak a téli fényben. A nap korán eltűnik a hegyek mögött, este pedig a város fényei szikráznak a kikötő hideg, mozdulatlan vizében.",
+            "ro": "Aerul curat de iarnă face urcarea spre fort revigorantă. Îmbrăcămintea stratificată este esențială. Muzeul este un punct cald la prânz. După-amiaza, măslinii strălucesc argintiu în lumina iernii. Soarele dispare devreme după munți, iar seara luminile orașului scânteiază în apa rece și liniștită a portului.",
+            "en": "The crisp winter air makes the uphill ride to the fort refreshing. Layered clothing is essential for the descent. The museum is a warm highlight at noon. In the afternoon, olive trees look silver in the winter light. The sun sets behind the mountains early, and in the evening, city lights sparkle in the cold harbor water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église reformée de France",
+                "hu": "Église reformée de France",
+                "ro": "Église reformée de France",
+                "en": "Église reformée de France"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier Ihre kalte Fahrt; die dicken Mauern bieten einen kurzen Windschutz, bevor es zum exponierten Schloss geht.",
+                "hu": "Itt kezdje a hideg tekerést; a vastag falak rövid szélvédelmet nyújtanak, mielőtt a nyitottabb vár felé venné az irányt.",
+                "ro": "Începeți plimbarea rece aici; zidurile groase oferă un scurt paravan împotriva vântului înainte de a merge spre castelul expus.",
+                "en": "Start your cold ride here; the thick walls provide a brief windbreak before you head towards the more exposed areas near the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Royal de Collioure",
+                "hu": "Château Royal de Collioure",
+                "ro": "Château Royal de Collioure",
+                "en": "Château Royal de Collioure"
+              },
+              "tip_5lang": {
+                "de": "Die Festung wirkt imposant gegen den klaren Winterhimmel; der Wind auf den Mauern kann stark sein, behalten Sie die Mütze auf.",
+                "hu": "Az erőd impozánsan fest a tiszta téli égbolt előtt; a szél erős lehet a várfalakon, ezért tartsa a fején a sapkáját.",
+                "ro": "Cetatea pare impunătoare pe cerul senin de iarnă; vântul pe ziduri poate fi puternic, așa că păstrați-vă căciula pe cap.",
+                "en": "The fortress looks imposing against the clear winter sky; the wind can be strong on the walls, so keep your hat and scarf on."
+              }
+            },
+            {
+              "name": {
+                "de": "Le musée d’Art Moderne de Collioure",
+                "hu": "Le musée d’Art Moderne de Collioure",
+                "ro": "Le musée d’Art Moderne de Collioure",
+                "en": "Le musée d’Art Moderne de Collioure"
+              },
+              "tip_5lang": {
+                "de": "Der beste Ort, um das Gefühl in den Fingern zurückzugewinnen; die lebendige Kunst bietet einen warmen Kontrast zum grauen Wintermeer.",
+                "hu": "A legjobb hely, hogy visszanyerje érzékelését az ujjaiban; az élénk művészet meleg kontrasztot ad a szürke téli tengernek.",
+                "ro": "Cel mai bun loc pentru a vă recăpăta simțul în degete; arta vibrantă oferă un contrast cald cu marea cenușie de iarnă.",
+                "en": "The best place to regain feeling in your fingers; the vibrant art provides a warm and colorful contrast to the grey winter sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin",
+                "hu": "Moulin",
+                "ro": "Moulin",
+                "en": "Moulin"
+              },
+              "tip_5lang": {
+                "de": "Die Olivenbäume wirken im Winterlicht silbern; machen Sie ein Foto, bevor die Temperatur am späten Nachmittag deutlich sinkt.",
+                "hu": "Az olajfák ezüstösnek tűnnek a téli fényben; készítsen egy gyors fotót, mielőtt a hőmérséklet késő délután jelentősen leesik.",
+                "ro": "Măslinii par argintii în lumina iernii; faceți o fotografie rapidă înainte ca temperatura să scadă semnificativ după-amiaza.",
+                "en": "The surrounding olive trees look silver in the winter light; take a quick photo before the temperature starts to drop significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Saint-Elme",
+                "hu": "Fort Saint-Elme",
+                "ro": "Fort Saint-Elme",
+                "en": "Fort Saint-Elme"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick reicht bis zu den verschneiten Gipfeln; der Aufstieg wärmt Sie, aber die Abfahrt wird sehr kühl sein.",
+                "hu": "A panoráma a távoli havas csúcsokig ér; a felfelé tekerés felmelegíti, de a lefelé vezető út nagyon hűvös lesz a szélben.",
+                "ro": "Panorama ajunge până la vârfurile înzăpezite; urcarea vă va încălzi, dar coborârea va fi foarte răcoroasă din cauza vitezei.",
+                "en": "The panoramic view includes the distant snowy peaks; the climb will keep you warm, but the descent will feel very chilly in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "La Balette",
+                "hu": "La Balette",
+                "ro": "La Balette",
+                "en": "La Balette"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, wenn das Licht verblasst; die Lichter der Stadt spiegeln sich wunderschön im kalten, stillen Wasser.",
+                "hu": "Zárja a túrát, ahogy fogynak a fények; a város fényei gyönyörűen tükröződnek a kikötő hideg, tükörsima vizében.",
+                "ro": "Încheiați turul pe măsură ce lumina scade; luminile orașului se reflectă frumos în apa rece și liniștită a portului.",
+                "en": "Finish your tour as the light fades; the town lights start to twinkle early, reflecting beautifully in the cold and still harbor water."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Az autós túra a fenséges királyi kastélynál indul, majd egy festői utazás következik a hegyekbe, a békés Notre-Dame remetelakhoz.\n\nA történelmi felfedezést a Fort Dugommier romjainál folytatja, amely mély bepillantást enged a régió stratégiai jelentőségébe és múltjába.\n\nDélután a lenyűgöző Fort Saint-Elme-hez vezet az út, ahonnan páratlan panorámás kilátás nyílik a teljes partszakaszra és a tengerre.\n\nA kirándulás a békés Plage du Racou strandon ér véget, ahol egy csodálatos tengerparti sétával nyugodtan zárhatja le az élménydús napot.",
         "ro": "Călătoria cu mașina începe la maiestuosul castel regal, urmată de un drum pitoresc în munți către pașnicul schit Notre-Dame.\n\nContinuarea explorării istorice se face la ruinele Fortului Dugommier, care oferă o perspectivă profundă asupra importanței strategice a regiunii.\n\nDupă-amiaza vă îndreptați spre impresionantul Fort Saint-Elme, de unde aveți o vedere panoramică inegalabilă asupra întregii coaste.\n\nExcursia se încheie la liniștita Plage du Racou, unde vă puteți încheia ziua în liniște cu o minunată plimbare pe plaja Mării Mediterane.",
         "en": "The drive begins with the majestic royal castle, followed by a scenic journey into the mountains to the peaceful Notre-Dame hermitage.\n\nYou continue the historical exploration at the ruins of Fort Dugommier, providing a deep dive into the strategic significance of the region.\n\nIn the afternoon, you drive to the striking Fort Saint-Elme, which affords an unparalleled panoramic view across the entire coastline.\n\nThe trip concludes at the relaxing Plage du Racou, where you can peacefully end the day with a wonderful walk along the Mediterranean beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahrt zwischen dem Schloss und der Einsiedelei, das Auto bietet einen mobilen Unterschlupf. Mittags erkunden wir die Kapelle im grünen Tal. Am Nachmittag geht es zu den Forts mit toller Aussicht trotz der Wolken. Am Abend beobachten wir den Regen am Strand vom Fenster aus, während die Wellen gegen die Küste schlagen und eine dramatische Atmosphäre schaffen.",
+            "hu": "Autózás a vár és a remetelak között, a kocsi mobil menedéket nyújt. Délben a zöld völgyben fekvő kápolnát fedezzük fel az esőben. Délután a várakat látogatjuk meg, ahonnan a felhők ellenére is pazar a kilátás. Este az autó ablakából figyeljük a tengerparti esőt, miközben a hullámok a parthoz verődnek.",
+            "ro": "Conducem între castel și schit, mașina oferind un adăpost mobil. La prânz explorăm capela din valea verde pe ploaie. După-amiaza mergem la forturi cu vederi superbe în ciuda norilor. Seara observăm ploaia pe plajă de la fereastra mașinii, în timp ce valurile se izbesc de țărm creând o atmosferă dramatică.",
+            "en": "Driving between the castle and the hermitage, the car provides a mobile shelter. At noon, we explore the chapel in the lush valley during the rain. In the afternoon, we visit the forts with great views despite the clouds. In the evening, we watch the rain on the beach from the window as waves crash against the shore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château Royal de Collioure",
+                "hu": "Château Royal de Collioure",
+                "ro": "Château Royal de Collioure",
+                "en": "Château Royal de Collioure"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang; die massiven Steinräume eignen sich hervorragend, um trocken zu bleiben und Geschichte zu erleben.",
+                "hu": "Parkoljon a bejárathoz közel; a masszív kőtermek kiválóak ahhoz, hogy szárazon maradva ismerkedjen meg a mallorcai királyok történetével.",
+                "ro": "Parcați aproape de intrare; sălile masive de piatră sunt excelente pentru a rămâne uscați în timp ce învățați despre istoria regilor.",
+                "en": "Park close to the entrance; the massive stone rooms are excellent for staying dry while learning about the history of the Kings of Majorca."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermitage de Notre-Dame de Consolation",
+                "hu": "Ermitage de Notre-Dame de Consolation",
+                "ro": "Ermitage de Notre-Dame de Consolation",
+                "en": "Ermitage de Notre-Dame de Consolation"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt das Tal hinauf ist bei Regen üppig grün; die Kapelle bietet ein friedliches, überdachtes Heiligtum in der Natur.",
+                "hu": "A völgybe vezető út esőben burjánzóan zöld; a kápolna békés, fedett szentélyt nyújt a természet lágy ölén a záporok idején is.",
+                "ro": "Drumul spre vale este luxuriant pe ploaie; capela oferă un sanctuar liniștit și acoperit, înconjurat de natura proaspătă.",
+                "en": "The drive up the valley is lush and green in the rain; the chapel provides a peaceful, roofed sanctuary surrounded by nature."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Dugommier",
+                "hu": "Fort Dugommier",
+                "ro": "Fort Dugommier",
+                "en": "Fort Dugommier"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Ruinen vom Auto aus oder machen Sie einen kurzen Sprint; der nasse Stein wirkt sehr atmosphärisch und alt.",
+                "hu": "Figyelje meg a romokat az autóból, vagy tegyen egy rövid sétát esernyővel; a nedves kő rendkívül hangulatos és ódon látványt nyújt.",
+                "ro": "Observați ruinele din mașină sau faceți un scurt sprint cu umbrela; piatra umedă creează un aspect foarte atmosferic și vechi.",
+                "en": "Observe the ruins from the car or take a quick dash with an umbrella; the wet stone creates a very atmospheric and ancient look."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Saint-Elme",
+                "hu": "Fort Saint-Elme",
+                "ro": "Fort Saint-Elme",
+                "en": "Fort Saint-Elme"
+              },
+              "tip_5lang": {
+                "de": "Die Straße nach oben ist schmal; dort angekommen bietet das Fort Schutz und einen dramatischen Blick auf die stürmischen Wellen.",
+                "hu": "A felfelé vezető út keskeny; a csúcsra érve az erőd védelmet és drámai kilátást nyújt a viharos mediterrán hullámokra.",
+                "ro": "Drumul spre vârf este îngust; odată ajunși, fortul oferă adăpost și o vedere dramatică asupra valurilor furtunoase ale Mediteranei.",
+                "en": "The road to the top is narrow; once there, the fort offers shelter and a dramatic view of the stormy Mediterranean waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Racou",
+                "hu": "Plage du Racou",
+                "ro": "Plage du Racou",
+                "en": "Plage du Racou"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen auf dem Sand von einem Café aus; das Ufer wirkt unter dem grauen Himmel wild und kraftvoll.",
+                "hu": "Figyelje a homokra hulló esőt egy tengerparti kávézóból; a part vadnak és erőteljesnek tűnik a szürke téli égbolt alatt.",
+                "ro": "Priviți ploaia pe nisip de la o cafenea de pe malul mării; țărmul pare sălbatic și puternic sub cerul gri de iarnă.",
+                "en": "Watch the rain hit the sand from the comfort of a seaside cafe; the shore looks wild and powerful under the grey winter sky."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Bergluft bei der Einsiedelei am Morgen, die Autoheizung ist Ihr bester Freund. Mittags genießen wir die Geschichte im Schloss. Am Nachmittag bieten die Forts klare Sicht über die winterliche Landschaft. Die Sonne sinkt früh, und am Abend machen wir einen kurzen Spaziergang am einsamen Strand, um die Meeresbrise zu spüren, bevor wir uns im Wagen aufwärmen.",
+            "hu": "Hideg hegyi levegő a remetelaknál reggel, az autó fűtése a legjobb barátja lesz. Délben a várban élvezzük a történelmet. Délután a várakból tiszta kilátás nyílik a téli tájra. A nap korán lebukik, este pedig teszünk egy rövid sétát a néptelen strandon, hogy érezzük a tengeri szelet, mielőtt visszatérnénk a kocsiba.",
+            "ro": "Aer rece de munte la schit dimineața, încălzirea mașinii va fi cea mai bună prietenă. La prânz ne bucurăm de istorie în castel. După-amiaza, forturile oferă o vedere clară asupra peisajului de iarnă. Soarele apune devreme, iar seara facem o scurtă plimbare pe plaja pustie pentru a simți briza mării.",
+            "en": "Cold mountain air at the hermitage in the morning; the car heater is your best friend. At noon, we enjoy history inside the castle. In the afternoon, the forts offer clear views over the frozen-looking landscape. The sun sets early, and in the evening, we take a short walk on the deserted beach before warming up in the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château Royal de Collioure",
+                "hu": "Château Royal de Collioure",
+                "ro": "Château Royal de Collioure",
+                "en": "Château Royal de Collioure"
+              },
+              "tip_5lang": {
+                "de": "Die Geschichte wirkt ohne den Sommerlärm intimer; die Seebrise ist scharf, nutzen Sie das Auto zum Aufwärmen zwischendurch.",
+                "hu": "A történelem bensőségesebbnek hat a nyári zaj nélkül; a tengeri szellő éles, használja az autót a megállók közötti felmelegedéshez.",
+                "ro": "Istoria pare mai intimă fără zgomotul verii; briza mării este ascuțită, folosiți mașina pentru a vă încălzi între opriri.",
+                "en": "History feels more intimate without the summer noise; the sea breeze is sharp, so use the car to warm up between outdoor walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermitage de Notre-Dame de Consolation",
+                "hu": "Ermitage de Notre-Dame de Consolation",
+                "ro": "Ermitage de Notre-Dame de Consolation",
+                "en": "Ermitage de Notre-Dame de Consolation"
+              },
+              "tip_5lang": {
+                "de": "Die Bergluft ist hier viel kälter; die ruhigen Gärten sind in ihrer winterlichen Ruhe unter der blassen Sonne wunderschön.",
+                "hu": "A hegyi levegő itt sokkal hidegebb; a csendes kertek gyönyörűek a téli nyugalomban a sápadt napsütés alatt.",
+                "ro": "Aerul de munte este mult mai rece aici; grădinile liniștite sunt frumoase în repausul lor de iarnă sub soarele palid.",
+                "en": "The mountain air is much colder here; the quiet gardens are beautiful in their winter dormancy under the pale winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Dugommier",
+                "hu": "Fort Dugommier",
+                "ro": "Fort Dugommier",
+                "en": "Fort Dugommier"
+              },
+              "tip_5lang": {
+                "de": "Das scharfe Winterlicht hebt jedes Detail hervor; es ist ein kurzer, aber schöner Stopp, bevor die Sonne untergeht.",
+                "hu": "Az éles téli fény a falazat minden részletét kiemeli; ez egy rövid, de látványos megálló, mielőtt a nap korán nyugovóra térne.",
+                "ro": "Lumina ascuțită de iarnă evidențiază fiecare detaliu al zidăriei; este o oprire scurtă, dar pitorească înainte ca soarele să apună.",
+                "en": "The sharp winter light highlights every detail of the masonry; it is a quick but scenic stop before the sun begins to set early."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Saint-Elme",
+                "hu": "Fort Saint-Elme",
+                "ro": "Fort Saint-Elme",
+                "en": "Fort Saint-Elme"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Pyrenäen ist heute atemberaubend klar; kommen Sie vor 16:30 Uhr an, um das beste Licht zu erwischen.",
+                "hu": "A kilátás a Pireneusokra ma lélegzetelállítóan tiszta; érkezzen meg 16:30 előtt, hogy elcsípje a legszebb aranyórát.",
+                "ro": "Vederea spre Pirinei este uluitor de clară astăzi; asigurați-vă că ajungeți înainte de 16:30 pentru a prinde cea mai bună lumină.",
+                "en": "The views of the Pyrenees are breathtakingly clear today; make sure to arrive before 16:30 to catch the best golden hour light."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Racou",
+                "hu": "Plage du Racou",
+                "ro": "Plage du Racou",
+                "en": "Plage du Racou"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist verlassen und friedlich; machen Sie einen kurzen Spaziergang im Sand, um die Gischt der Wintersee zu spüren.",
+                "hu": "A strand elhagyatott és békés; tegyen egy rövid, élénkítő sétát a homokban, hogy érezze a téli tenger sós permetét.",
+                "ro": "Plaja este pustie și liniștită; faceți o scurtă plimbare pe nisip pentru a simți spray-ul mării de iarnă pe față.",
+                "en": "The beach is deserted and serene; take a short, brisk walk on the sand to feel the winter sea spray before heading back home."
+              }
+            }
+          ]
+        }
       }
     }
   }

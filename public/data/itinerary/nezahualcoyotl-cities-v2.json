@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot kulturális élményekkel az El Castillito központban, majd fedezze fel a közeli történelmi helyszínt. Délben a séta a Marbet negyedbe vezet, ahol elmerülhet a helyi atmoszférában. Délután az Auditorio la Salle várja további érdekességekkel. Az estét lazán, az El Pulpo Acuatico látványosságánál zárhatja.",
         "ro": "Începeți ziua cu o experiență culturală la Centro Cultural El Castillito, înainte de a explora situl istoric din apropiere. La prânz, plimbarea vă duce la Marbet, unde vă puteți cufunda în atmosfera locală. După-amiaza, Auditorio la Salle vă așteaptă cu perspective noi. Seara se încheie relaxant la reperul El Pulpo Acuatico.",
         "en": "Start your day with culture at Centro Cultural El Castillito before exploring the nearby historical site. At noon, your walk takes you to Marbet, where you can immerse yourself in the local atmosphere. In the afternoon, Auditorio la Salle awaits with further cultural insights. The evening ends nicely at the El Pulpo Acuatico landmark."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt bewölkt, ideal für einen Besuch im geschützten El Castillito. Mittags setzt der Regen ein, sodass wir in den Innenräumen der Sor Juana Ines Zuflucht suchen. Am Nachmittag verstärken sich die Schauer, während wir die Galerien des Auditorio erkunden. Abends erreichen wir mit Schirm die beleuchteten, nassen Straßen am Pulpo Acuatico.",
+            "hu": "A reggel borongósan indul, kiváló az El Castillito fedett tereinek felfedezéséhez. Délben elered az eső, így a Sor Juana belső kiállításai nyújtanak menedéket. Délutánra a zápor felerősödik, az Auditorio galériáiban maradunk szárazon. Estére a kivilágított vizes utcákon, esernyővel érkezünk meg az utolsó látványossághoz.",
+            "ro": "Dimineața începe înnorată, ideală pentru o vizită în spațiile protejate de la El Castillito. La prânz începe ploaia, așa că ne adăpostim în interiorul Sor Juana Ines. După-amiaza, aversele se intensifică în timp ce explorăm galeriile de la Auditorio. Seara ajungem cu umbrela pe străzile ude și luminate de la Pulpo Acuatico.",
+            "en": "The morning starts cloudy, ideal for visiting the sheltered El Castillito. At noon, the rain sets in, so we seek refuge in the interior spaces of Sor Juana Ines. In the afternoon, showers intensify while we explore the Auditorio galleries. In the evening, we reach the illuminated, wet streets of Pulpo Acuatico with an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Cultural \"El Castillito\"",
+                "hu": "Centro Cultural \"El Castillito\"",
+                "ro": "Centro Cultural \"El Castillito\"",
+                "en": "Centro Cultural \"El Castillito\""
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren dieses schlossähnlichen Gebäudes; es bietet den perfekten Schutz vor plötzlichen Schauern in historischem Ambiente.",
+                "hu": "Nézd meg a belső kiállításokat ebben a kastélyszerű épületben; tökéletes védelmet nyújt a hirtelen záporok elől a történelmi falak között.",
+                "ro": "Vizitați expozițiile din interiorul acestei clădiri asemănătoare unui castel; oferă protecția perfectă împotriva averselor bruște într-un ambient istoric.",
+                "en": "Visit the exhibitions inside this castle-like building; it offers the perfect protection from sudden showers within a historical atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Sor Juana Ines de la Cruz",
+                "hu": "Sor Juana Ines de la Cruz",
+                "ro": "Sor Juana Ines de la Cruz",
+                "en": "Sor Juana Ines de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich, um die Statue zu bewundern; die umliegenden historischen Informationstafeln sind auch bei Regen gut lesbar.",
+                "hu": "Használd a fedett részeket a szobor megcsodálásához; a környező történelmi információs táblák esőben is kényelmesen tanulmányozhatóak.",
+                "ro": "Folosiți zona acoperită pentru a admira statuia; panourile informative istorice din jur pot fi studiate confortabil chiar și pe ploaie.",
+                "en": "Use the covered areas to admire the statue; the surrounding historical information boards can be studied comfortably even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Marbet",
+                "hu": "Marbet",
+                "ro": "Marbet",
+                "en": "Marbet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturellen Darbietungen in diesem geschlossenen Zentrum; es ist ein warmer Rückzugsort, wenn es draußen ungemütlich und nass wird.",
+                "hu": "Élvezd a kulturális előadásokat ebben a zárt központban; ez egy meleg és száraz menedék, amikor odakint barátságtalanra fordul az idő.",
+                "ro": "Bucurați-vă de spectacolele culturale în acest centru închis; este un refugiu cald și uscat atunci când vremea de afară devine neprietenoasă.",
+                "en": "Enjoy the cultural performances in this enclosed center; it is a warm and dry retreat when the weather outside turns unfriendly and wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio la Salle",
+                "hu": "Auditorio la Salle",
+                "ro": "Auditorio la Salle",
+                "en": "Auditorio la Salle"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Architektur bietet großzügige Foyers zum Verweilen; ideal, um das Regenwetter auszusitzen und gleichzeitig moderne Kunst zu genießen.",
+                "hu": "A modern építészet tágas előcsarnokokat kínál a várakozáshoz; ideális hely az eső átvészelésére, miközben modern művészetet látsz.",
+                "ro": "Arhitectura modernă oferă foaiere spațioase pentru relaxare; este locul ideal pentru a aștepta trecerea ploii admirând arta modernă.",
+                "en": "The modern architecture offers spacious foyers to linger in; an ideal spot to wait out the rain while enjoying contemporary art pieces."
+              }
+            },
+            {
+              "name": {
+                "de": "EL PULPO ACUATICO",
+                "hu": "EL PULPO ACUATICO",
+                "ro": "EL PULPO ACUATICO",
+                "en": "EL PULPO ACUATICO"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Skulptur aus der Ferne unter einem Vordach; der Regen verleiht der Tentakel-Optik einen besonders realistischen, nassen Glanz.",
+                "hu": "Szemléld a szobrot távolabbról, egy közeli előtető alól; az eső különlegesen élethű, vizes csillogást kölcsönöz a polip csápjainak.",
+                "ro": "Admirați sculptura de la distanță sub o copertină; ploaia conferă tentaculelor o strălucire umedă deosebit de realistă și interesantă.",
+                "en": "View the sculpture from a distance under a canopy; the rain gives the tentacles a particularly realistic, wet sheen that looks great."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen lädt zum zügigen Gehen nach El Castillito ein. Mittags wärmt die Sonne leicht, doch in den Gassen bleibt es kühl. Am Nachmittag sinken die Temperaturen schnell, was uns in die beheizten Säle des Auditorio führt. Der Abend endet früh bei Sonnenuntergang gegen 17:00 Uhr in der winterlich beleuchteten Stadt.",
+            "hu": "A friss téli reggel gyors sétára ösztönöz az El Castillito felé. Délben a nap ereje kellemes, de az árnyékos utcákon már érezhető a hűvös. Délután a hőmérséklet gyorsan esik, így az Auditorio fűtött termeibe húzódunk. Az este korán, a 17:00 körüli naplementével köszönt be a kivilágított városban.",
+            "ro": "O dimineață răcoroasă de iarnă îndeamnă la o plimbare alertă spre El Castillito. La prânz soarele încălzește ușor, dar pe străzi rămâne răcoare. După-amiaza temperaturile scad rapid, ducându-ne în sălile încălzite de la Auditorio. Seara începe devreme, odată cu apusul de la ora 17:00, în orașul luminat.",
+            "en": "A crisp winter morning invites a brisk walk to El Castillito. At noon, the sun warms slightly, but it remains cool in the alleys. In the afternoon, temperatures drop quickly, leading us into the heated halls of the Auditorio. The evening ends early with sunset around 17:00 in the illuminated winter city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Cultural \"El Castillito\"",
+                "hu": "Centro Cultural \"El Castillito\"",
+                "ro": "Centro Cultural \"El Castillito\"",
+                "en": "Centro Cultural \"El Castillito\""
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innenräume, um der morgendlichen Kälte zu entkommen; die dicken Mauern halten die Wärme und sorgen für ein gemütliches Erlebnis.",
+                "hu": "Látogasd meg a belső tereket, hogy elkerüld a reggeli hideget; a vastag falak jól tartják a meleget a kényelmes nézelődéshez.",
+                "ro": "Vizitați interioarele pentru a scăpa de frigul dimineții; zidurile groase mențin căldura și asigură o experiență de vizitare foarte plăcută.",
+                "en": "Visit the interiors to escape the morning cold; the thick walls retain heat well and ensure a very cozy viewing experience for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Sor Juana Ines de la Cruz",
+                "hu": "Sor Juana Ines de la Cruz",
+                "ro": "Sor Juana Ines de la Cruz",
+                "en": "Sor Juana Ines de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal in der Mittagssonne; tragen Sie Schichten, da der Wind in dieser offenen Gegend im Winter recht schneidend sein kann.",
+                "hu": "Csodáld meg az emlékművet a déli napsütésben; öltözz rétegesen, mert a szél ezen a nyitott területen télen elég metsző lehet.",
+                "ro": "Admirați monumentul în soarele de la amiază; purtați straturi de haine, deoarece vântul în această zonă deschisă poate fi destul de tăios iarna.",
+                "en": "Admire the monument in the midday sun; wear layers as the wind in this open area can be quite biting during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Marbet",
+                "hu": "Marbet",
+                "ro": "Marbet",
+                "en": "Marbet"
+              },
+              "tip_5lang": {
+                "de": "Ideal für den späten Nachmittag, wenn es draußen abkühlt; das Zentrum bietet ein abwechslungsreiches Programm in einer warmen, geschützten Umgebung.",
+                "hu": "Ideális a késő délutáni órákra, amikor odakint lehűl az idő; a központ változatos programokat kínál meleg, védett környezetben.",
+                "ro": "Ideal pentru orele târzii ale după-amiezii când se răcește afară; centrul oferă programe variate într-un mediu cald și protejat.",
+                "en": "Ideal for late afternoon when it cools down outside; the center offers a diverse program in a warm, protected indoor environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio la Salle",
+                "hu": "Auditorio la Salle",
+                "ro": "Auditorio la Salle",
+                "en": "Auditorio la Salle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Abendveranstaltungen im gut temperierten Saal; die moderne Heizungsanlage macht den Aufenthalt auch bei Wintertemperaturen sehr angenehm.",
+                "hu": "Élvezd az esti előadásokat a jól temperált teremben; a modern fűtési rendszer a téli hőmérséklet mellett is nagyon kellemessé teszi a látogatást.",
+                "ro": "Bucurați-vă de evenimentele de seară în sala bine temperată; sistemul modern de încălzire face vizita foarte plăcută chiar și la temperaturi de iarnă.",
+                "en": "Enjoy the evening events in the well-tempered hall; the modern heating system makes the stay very pleasant even during winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "EL PULPO ACUATICO",
+                "hu": "EL PULPO ACUATICO",
+                "ro": "EL PULPO ACUATICO",
+                "en": "EL PULPO ACUATICO"
+              },
+              "tip_5lang": {
+                "de": "Die Skulptur ist nach Sonnenuntergang gegen 17:00 Uhr wunderschön beleuchtet; ein kurzer Halt reicht aus, bevor Sie sich wieder ins Warme begeben.",
+                "hu": "A szobor a 17:00 körüli naplemente után gyönyörűen ki van világítva; egy rövid megálló is elég, mielőtt visszatérnél a melegbe.",
+                "ro": "Sculptura este frumos iluminată după apusul de la ora 17:00; o oprire scurtă este suficientă înainte de a vă întoarce la căldură.",
+                "en": "The sculpture is beautifully lit after the 17:00 sunset; a short stop is enough to see it before heading back into the warmth."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggel sportosan indul a tágas Parque del Pueblo zöld területein. Ezután a városközpont kulturális és történelmi látványosságai felé kerekezik. A délután folyamán a jellegzetes El Pulpo Acuatico és az Irving Alvarez emlékmű következik. A napot a Balneario Elba fürdőjében pihenheti ki kellemesen.",
         "ro": "Dimineața începe sportiv în spațiosul Parque del Pueblo, cu zonele sale verzi. Apoi pedalați spre atracțiile culturale și istorice din centru. După-amiaza vă oferă o plimbare spre impresionantul El Pulpo Acuatico și monumentul Irving Alvarez. Puteți încheia ziua relaxându-vă plăcut la Balneario Elba.",
         "en": "The morning starts sportily in the spacious Parque del Pueblo with its many green areas. You then cycle to cultural and historical highlights in the center. The afternoon offers a ride to the striking El Pulpo Acuatico and the Irving Alvarez monument. End your day with a relaxing visit to the Balneario Elba."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen radeln wir vorsichtig zum Parque del Pueblo, die Wege können rutschig sein. Mittags suchen wir Schutz im El Castillito, während ein kurzer Schauer vorbeizieht. Nachmittags sind wasserfeste Ponchos bei der Fahrt zum Pulpo Acuatico unerlässlich. Der Abend endet mit einer achtsamen Rückfahrt auf den glänzenden, nassen Straßen der Stadt.",
+            "hu": "Reggel óvatosan tekerünk a Parque del Pueblo felé, az utak csúszósak lehetnek. Délben az El Castillito épületénél pihenünk, amíg egy gyors zápor elvonul. Délután a vízálló poncsó elengedhetetlen a Pulpo Acuatico felé vezető úton. Az este figyelmes hazatekeréssel zárul a város csillogó, vizes aszfaltján.",
+            "ro": "Dimineața pedalăm cu grijă spre Parque del Pueblo, drumurile pot fi alunecoase. La prânz căutăm adăpost la El Castillito în timp ce trece o aversă scurtă. După-amiaza, ponchourile impermeabile sunt esențiale în drum spre Pulpo Acuatico. Seara se încheie cu o întoarcere atentă pe străzile ude ale orașului.",
+            "en": "In the morning, we cycle carefully to Parque del Pueblo as the paths can be slippery. At noon, we rest at El Castillito while a quick shower passes by. In the afternoon, waterproof ponchos are essential for the ride to Pulpo Acuatico. The evening ends with a mindful ride back on the city's glistening, wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque del pueblo",
+                "hu": "Parque del pueblo",
+                "ro": "Parque del pueblo",
+                "en": "Parque del pueblo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf matschige Wege in den Grünanlagen; nutzen Sie die befestigten Pfade und stellen Sie Ihr Rad an einem überdachten Platz unter.",
+                "hu": "Vigyázz a sáros utakra a zöldterületeken; használd a burkolt ösvényeket, és parkold le a biciklidet egy fedett tárolónál.",
+                "ro": "Atenție la potecile noroioase din zonele verzi; folosiți căile pavate și parcați bicicleta într-un loc acoperit dacă plouă.",
+                "en": "Watch out for muddy paths in the green areas; stick to the paved walkways and park your bike in a covered spot if it starts raining."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural \"El Castillito\"",
+                "hu": "Centro Cultural \"El Castillito\"",
+                "ro": "Centro Cultural \"El Castillito\"",
+                "en": "Centro Cultural \"El Castillito\""
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher am Eingang; im Inneren können Sie die Kleidung trocknen, während Sie die kulturellen Schätze des Schlosses bewundern.",
+                "hu": "Parkold le biztonságosan a biciklit a bejáratnál; bent megszáríthatod a ruháidat, miközben a kastély kulturális kincseit csodálod.",
+                "ro": "Parcați bicicleta în siguranță la intrare; în interior vă puteți usca hainele în timp ce admirați comorile culturale ale castelului.",
+                "en": "Park your bike safely at the entrance; inside, you can dry your gear while admiring the cultural treasures of the castle building."
+              }
+            },
+            {
+              "name": {
+                "de": "Sor Juana Ines de la Cruz",
+                "hu": "Sor Juana Ines de la Cruz",
+                "ro": "Sor Juana Ines de la Cruz",
+                "en": "Sor Juana Ines de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Die gepflasterten Flächen um das Denkmal können bei Nässe extrem rutschig sein; steigen Sie für die Besichtigung besser vom Fahrrad ab.",
+                "hu": "A szobor körüli kövezett részek nedvesen rendkívül csúszósak lehetnek; a nézelődés idejére érdemesebb leszállni a kerékpárról.",
+                "ro": "Zonele pavate din jurul monumentului pot fi extrem de alunecoase când sunt ude; este mai bine să coborâți de pe bicicletă pentru vizitare.",
+                "en": "The paved areas around the monument can be extremely slippery when wet; it is better to dismount from your bike for the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "EL PULPO ACUATICO",
+                "hu": "EL PULPO ACUATICO",
+                "ro": "EL PULPO ACUATICO",
+                "en": "EL PULPO ACUATICO"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz für ein Foto an, aber meiden Sie tiefe Pfützen am Straßenrand; der Abfluss kann hier bei starkem Regen eingeschränkt sein.",
+                "hu": "Állj meg egy rövid fotóra, de kerüld a mély tócsákat az út szélén; heves esőzéskor a vízelvezetés ezen a részen lassabb lehet.",
+                "ro": "Opriți scurt pentru o fotografie, dar evitați bălțile adânci de la marginea drumului; scurgerea apei poate fi limitată aici în timpul ploii.",
+                "en": "Stop briefly for a photo, but avoid deep puddles at the road edge; drainage can be limited here during heavy rainfall events."
+              }
+            },
+            {
+              "name": {
+                "de": "Irving Alvarez",
+                "hu": "Irving Alvarez",
+                "ro": "Irving Alvarez",
+                "en": "Irving Alvarez"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter nahen Bäumen oder Vordächern Schutz; prüfen Sie Ihre Bremsen, da nasse Felgen den Bremsweg beim Radfahren deutlich verlängern.",
+                "hu": "Keress menedéket a közeli fáknál vagy tetőknél; ellenőrizd a fékeidet, mert a vizes felnik jelentősen meghosszabbítják a fékutat.",
+                "ro": "Căutați adăpost sub copacii sau acoperișurile din apropiere; verificați frânele, deoarece jantele ude prelungesc considerabil distanța de frânare.",
+                "en": "Seek shelter under nearby trees or eaves; check your brakes, as wet rims significantly increase the braking distance while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Balneario Elba",
+                "hu": "Balneario Elba",
+                "ro": "Balneario Elba",
+                "en": "Balneario Elba"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Regen ist erfrischend, aber achten Sie auf rutschige Fliesen am Beckenrand; warme Duschen helfen nach der nassen Radtour.",
+                "hu": "Az esőben tett látogatás frissítő, de vigyázz a csúszós csempékre a medence szélén; a vizes bringázás után jól fog esni egy meleg zuhany.",
+                "ro": "O vizită pe ploaie este revigorantă, dar atenție la gresia alunecoasă de lângă piscină; un duș cald vă va prinde bine după drumul ud.",
+                "en": "A visit in the rain is refreshing, but watch out for slippery tiles by the pool; warm showers will feel great after the wet bike ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit Handschuhen gegen den kalten Wind starten wir unsere Radtour im Parque del Pueblo. Mittags genießen wir die klare Winterluft bei der Fahrt durch Neza. Am Nachmittag werfen die Gebäude lange Schatten, und es kühlt merklich ab. Da die Sonne gegen 17:00 Uhr untergeht, planen wir unsere letzte Station am Balneario für die frühen Abendstunden.",
+            "hu": "A hideg szél ellen kesztyűben indulunk a Parque del Pueblo felé. Délben a tiszta téli levegőt élvezzük, miközben áttekerünk Neza utcáin. Délután az épületek hosszú árnyékot vetnek, és érezhetően hűl a levegő. Mivel a nap 17:00 körül lebukik, az utolsó állomást a Balneariónál a kora esti órákra időzítjük.",
+            "ro": "Pornim plimbarea cu bicicleta în Parque del Pueblo cu mănuși împotriva vântului rece. La prânz ne bucurăm de aerul curat de iarnă prin Neza. După-amiaza clădirile lasă umbre lungi și se răcește vizibil. Deoarece soarele apune în jur de 17:00, planificăm ultima oprire la Balneario pentru prima parte a serii.",
+            "en": "Starting with gloves against the cold wind, we begin our ride at Parque del Pueblo. At noon, we enjoy the clear winter air while cycling through Neza. In the afternoon, buildings cast long shadows, and it cools down noticeably. Since the sun sets around 17:00, we plan our last stop at Balneario for early evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque del pueblo",
+                "hu": "Parque del pueblo",
+                "ro": "Parque del pueblo",
+                "en": "Parque del pueblo"
+              },
+              "tip_5lang": {
+                "de": "Die Wege im Park sind im Winter trocken und fest; ideal für eine zügige Runde, um den Kreislauf am kühlen Morgen in Schwung zu bringen.",
+                "hu": "A park ösvényei télen szárazak és kemények; ideálisak egy gyors körre, hogy a hűvös reggelen felpörgesd a keringésedet.",
+                "ro": "Potecile din parc sunt uscate și ferme iarna; ideale pentru o tură rapidă pentru a vă pune sângele în mișcare în dimineața răcoroasă.",
+                "en": "The park paths are dry and firm in winter; ideal for a quick lap to get your circulation going on a cool morning start."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural \"El Castillito\"",
+                "hu": "Centro Cultural \"El Castillito\"",
+                "ro": "Centro Cultural \"El Castillito\"",
+                "en": "Centro Cultural \"El Castillito\""
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Zwischenstopp zum Aufwärmen; nutzen Sie die Zeit drinnen, um Ihre Muskeln zu lockern, bevor Sie die Fahrt durch den kühlen Wind fortsetzen.",
+                "hu": "Kiváló megálló a bemelegedéshez; használd az időt a pihenésre és izomlazításra, mielőtt folytatnád az utat a hűvös szélben.",
+                "ro": "O oprire excelentă pentru încălzire; folosiți timpul în interior pentru a vă relaxa mușchii înainte de a continua drumul prin vântul rece.",
+                "en": "An excellent stop for warming up; use the time indoors to relax your muscles before continuing the ride through the cool winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sor Juana Ines de la Cruz",
+                "hu": "Sor Juana Ines de la Cruz",
+                "ro": "Sor Juana Ines de la Cruz",
+                "en": "Sor Juana Ines de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich in der Sonne auf, um die Statue zu betrachten; der Platz bietet wenig Windschutz, daher ist warme Kleidung für Radfahrer wichtig.",
+                "hu": "Maradj a napon, amíg a szobrot nézed; a tér kevés szélvédelmet nyújt, ezért a bringásoknak fontos a megfelelő meleg öltözet.",
+                "ro": "Stați la soare în timp ce admirați statuia; piața oferă puțină protecție împotriva vântului, așa că hainele groase sunt importante pentru bicicliști.",
+                "en": "Stay in the sun while viewing the statue; the square offers little wind protection, so warm clothing is vital for cyclists in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "EL PULPO ACUATICO",
+                "hu": "EL PULPO ACUATICO",
+                "ro": "EL PULPO ACUATICO",
+                "en": "EL PULPO ACUATICO"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann beim Fahren blenden; tragen Sie eine Sonnenbrille, um die Details der Skulptur auch bei grellem Licht zu sehen.",
+                "hu": "Az alacsonyan járó téli nap elvakíthat menet közben; viselj napszemüveget, hogy az éles fényben is jól lásd a szobor részleteit.",
+                "ro": "Soarele de iarnă aflat jos poate fi orbitor în timpul mersului; purtați ochelari de soare pentru a vedea detaliile sculpturii chiar și în lumină puternică.",
+                "en": "The low winter sun can be blinding while riding; wear sunglasses to see the sculpture's details clearly even in the harsh bright light."
+              }
+            },
+            {
+              "name": {
+                "de": "Irving Alvarez",
+                "hu": "Irving Alvarez",
+                "ro": "Irving Alvarez",
+                "en": "Irving Alvarez"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für einen warmen Tee aus der Thermoskanne; am Nachmittag wird die Luft trockener, trinken Sie genug während der Tour.",
+                "hu": "Használd ki a megállót egy meleg teára a termoszból; délutánra a levegő szárazabbá válik, figyelj a megfelelő folyadékpótlásra.",
+                "ro": "Profită de oprire pentru un ceai cald din termos; după-amiaza aerul devine mai uscat, așa că hidratează-te corespunzător în timpul turei.",
+                "en": "Take advantage of the stop for a warm tea from your thermos; as the air gets drier in the afternoon, keep yourself well hydrated."
+              }
+            },
+            {
+              "name": {
+                "de": "Balneario Elba",
+                "hu": "Balneario Elba",
+                "ro": "Balneario Elba",
+                "en": "Balneario Elba"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, bevor es nach 17:00 Uhr richtig kalt wird; die warmen Thermalbecken sind der ideale Lohn für die winterliche Radreise.",
+                "hu": "Fejezd be a túrát, mielőtt 17:00 után nagyon lehűlne az idő; a meleg vizes medencék tökéletes jutalmat jelentenek a téli bringázás után.",
+                "ro": "Încheiați tura înainte să se răcească tare după ora 17:00; bazinele cu apă caldă sunt recompensa ideală după drumul de iarnă.",
+                "en": "Finish the tour before it gets very cold after 17:00; the warm pools are the perfect reward after your winter cycling journey."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Reggel kényelmesen utazzon el a Balneario Elba fürdőbe, majd élvezze a természetet a Parque del Pueblo-ban. Délben az autó gyorsan eljuttatja az El Castillito és a Marbet kulturális központokhoz. A délután egy nyugodt autózásé a város nyugati részébe. Ott a helyi uszodák felkeresése teszi teljessé a kirándulást.",
         "ro": "Conduceți confortabil dimineața la Balneario Elba și apoi bucurați-vă de natură în Parque del Pueblo. La prânz, mașina vă duce rapid la centrele culturale El Castillito și Marbet. După-amiaza este rezervată pentru o plimbare relaxantă spre vestul orașului. Acolo, vizitele la piscinele locale completează perfect excursia.",
         "en": "Drive comfortably to Balneario Elba in the morning and then enjoy nature in Parque del Pueblo. At noon, the car quickly takes you to the cultural centers of El Castillito and Marbet. The afternoon is reserved for a relaxing drive to the west of the city. There, visits to the local swimming pools round off the trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Fahrt am Balneario, während erste Tropfen auf die Windschutzscheibe fallen. Mittags navigieren wir vorsichtig durch den dichten Verkehr im Regen zum Parque del Pueblo. Nachmittags bieten die Kulturzentren perfekte trockene Stopps bei heftigen Güssen. Der Abend endet gemütlich im Auto, während wir die beleuchtete Stadt durch die nassen Scheiben betrachten.",
+            "hu": "A Balneariónál kezdjük az utat, miközben az első cseppek a szélvédőre hullanak. Délben óvatosan navigálunk a sűrű esőben a Parque del Pueblo felé. Délután a kulturális központok tökéletes száraz megállókat kínálnak a heves záporok idején. Az este kényelmesen zárul az autóban, nézve a kivilágított várost a vizes ablakokon át.",
+            "ro": "Începem drumul la Balneario în timp ce primii stropi cad pe parbriz. La prânz navigăm cu grijă prin traficul dens pe ploaie spre Parque del Pueblo. După-amiaza centrele culturale oferă opriri uscate perfecte în timpul averselor abundente. Seara se încheie confortabil în mașină, privind orașul luminat prin geamurile ude.",
+            "en": "We start the drive at Balneario as the first drops hit the windshield. At noon, we navigate carefully through dense traffic in the rain toward Parque del Pueblo. In the afternoon, cultural centers provide perfect dry stops during heavy downpours. The evening ends comfortably in the car, viewing the lit city through wet windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Balneario Elba",
+                "hu": "Balneario Elba",
+                "ro": "Balneario Elba",
+                "en": "Balneario Elba"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um schnell ins Trockene zu kommen; das Schwimmen im Regen ist in den beheizten Bereichen ein besonderes Erlebnis.",
+                "hu": "Használd a közeli parkolót, hogy gyorsan száraz helyre érj; az esőben való úszás a fűtött részeken különleges élményt nyújt.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge rapid la adăpost; înotul pe ploaie în zonele încălzite este o experiență deosebită.",
+                "en": "Use the nearby parking to get to shelter quickly; swimming in the rain in the heated areas is a very unique and enjoyable experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque del pueblo",
+                "hu": "Parque del pueblo",
+                "ro": "Parque del pueblo",
+                "en": "Parque del pueblo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Zufahrtsstraßen, da sich Pfützen bilden können; genießen Sie das satte Grün des Parks bequem vom Auto aus.",
+                "hu": "Vezess lassan a bekötőutakon, mert tócsák alakulhatnak ki; élvezd a park élénkzöld színeit kényelmesen, az autóból figyelve.",
+                "ro": "Conduceți încet pe drumurile de acces deoarece se pot forma bălți; admirați verdele intens al parcului confortabil din mașină.",
+                "en": "Drive slowly on the access roads as puddles may form; enjoy the vibrant green of the park comfortably while watching from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural \"El Castillito\"",
+                "hu": "Centro Cultural \"El Castillito\"",
+                "ro": "Centro Cultural \"El Castillito\"",
+                "en": "Centro Cultural \"El Castillito\""
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei starkem Regen; parken Sie in der Nähe des Eingangs, um die Ausstellungen ohne nass zu werden zu besuchen.",
+                "hu": "Ideális megálló heves esőzés idején; parkolj a bejárat közelében, hogy elázás nélkül látogathasd meg a belső kiállításokat.",
+                "ro": "O oprire ideală în timpul ploii abundente; parcați aproape de intrare pentru a vizita expozițiile fără a vă uda prea tare.",
+                "en": "An ideal stop during heavy rain; park near the entrance to visit the indoor exhibitions without getting soaked by the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Marbet",
+                "hu": "Marbet",
+                "ro": "Marbet",
+                "en": "Marbet"
+              },
+              "tip_5lang": {
+                "de": "Das Kulturzentrum bietet Schutz vor dem Wetter; prüfen Sie die Scheibenwischer, da die Sicht in den Straßenschluchten bei Regen abnimmt.",
+                "hu": "A kulturális központ védelmet nyújt az időjárás elől; ellenőrizd az ablaktörlőket, mert esőben a látási viszonyok romolhatnak a szűkebb utcákon.",
+                "ro": "Centrul cultural oferă protecție împotriva vremii; verificați ștergătoarele, deoarece vizibilitatea pe străzi scade considerabil pe timp de ploaie.",
+                "en": "The cultural center offers protection from the elements; check your wipers as visibility in the streets decreases during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca Portátil",
+                "hu": "Alberca Portátil",
+                "ro": "Alberca Portátil",
+                "en": "Alberca Portátil"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die überdachten Becken; achten Sie beim Aussteigen auf rutschige Gehwege und halten Sie einen Regenschirm griffbereit im Wagen.",
+                "hu": "Látogasd meg a fedett medencéket; kiszálláskor vigyázz a csúszós járdákra, és tartsd az esernyőt mindig kéznél az autóban.",
+                "ro": "Vizitați piscinele acoperite; atenție la trotuarele alunecoase la coborârea din mașină și păstrați umbrela la îndemână în vehicul.",
+                "en": "Visit the covered pools; watch out for slippery sidewalks when getting out of the car and keep an umbrella handy in the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Baños Puerto Vallarta",
+                "hu": "Baños Puerto Vallarta",
+                "ro": "Baños Puerto Vallarta",
+                "en": "Baños Puerto Vallarta"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss eines Regentages; entspannen Sie in den heißen Dampfbädern, während es draußen kühl und nass gegen die Scheiben trommelt.",
+                "hu": "Tökéletes befejezése egy esős napnak; lazíts a forró gőzfürdőben, miközben odakint hűvös van és az eső kopog az ablakokon.",
+                "ro": "Finalul perfect pentru o zi ploioasă; relaxați-vă în băile cu aburi fierbinți în timp ce afară este răcoare și plouă torențial.",
+                "en": "The perfect end to a rainy day; relax in the hot steam baths while it is cool outside and the rain drums against the windows."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im vorgewärmten Auto starten wir die Tour am Balneario, um die morgendliche Kälte zu meiden. Mittags nutzen wir die klare Sicht für die Fahrt durch die Stadt zum Parque del Pueblo. Am Nachmittag genießen wir die tiefstehende Sonne im Rückspiegel. Da es nach 17:00 Uhr schnell dunkel und kalt wird, schätzen wir die Heizung auf dem Weg zu den Dampfbädern.",
+            "hu": "Az előmelegített autóban kezdjük a túrát a Balneariónál, elkerülve a reggeli csípős hideget. Délben kihasználjuk a tiszta látási viszonyokat a városi autózáshoz. Délután élvezzük az alacsonyan járó nap sugarait. Mivel 17:00 után gyorsan sötétedik és hűl az idő, értékelni fogod a fűtést a gőzfürdő felé vezető úton.",
+            "ro": "Pornim turul în mașina preîncălzită la Balneario pentru a evita frigul tăios al dimineții. La prânz profităm de vizibilitatea bună pentru drumul prin oraș. După-amiaza ne bucurăm de razele soarelui aflat jos. Deoarece se întunecă repede după 17:00, veți aprecia căldura din mașină spre băile cu aburi.",
+            "en": "Starting in a pre-warmed car at Balneario, we avoid the biting morning cold. At noon, we take advantage of the clear visibility for the city drive. In the afternoon, we enjoy the low sun rays. Since it gets dark and cold quickly after 17:00, you will appreciate the heater on the way to the steam baths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Balneario Elba",
+                "hu": "Balneario Elba",
+                "ro": "Balneario Elba",
+                "en": "Balneario Elba"
+              },
+              "tip_5lang": {
+                "de": "Die Thermalbecken sind im Winter besonders wohltuend; parken Sie direkt am Gelände, um den Temperaturunterschied beim Verlassen des Wassers gering zu halten.",
+                "hu": "A termálvizes medencék télen különösen jól esnek; parkolj közvetlenül a bejáratnál, hogy minimalizáld a kinti hideg hatását a fürdőzés után.",
+                "ro": "Bazinele termale sunt deosebit de plăcute iarna; parcați direct lângă incintă pentru a minimiza impactul frigului după ce ieșiți din apă.",
+                "en": "The thermal pools are especially pleasant in winter; park right by the entrance to minimize the impact of the cold after leaving the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque del pueblo",
+                "hu": "Parque del pueblo",
+                "ro": "Parque del pueblo",
+                "en": "Parque del pueblo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang in der klaren Winterluft belebt die Sinne; das Auto bleibt in der Sonne geparkt ein warmer Rückzugsort für zwischendurch.",
+                "hu": "Egy rövid séta a tiszta téli levegőn felfrissíti az érzékeket; a napon parkoló autó meleg menedék marad a két séta közötti pihenéshez.",
+                "ro": "O scurtă plimbare în aerul curat de iarnă vă va revigora; mașina parcată la soare rămâne un refugiu cald pentru pauzele dintre vizite.",
+                "en": "A short walk in the clear winter air will invigorate your senses; the car parked in the sun remains a warm retreat for breaks in between."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural \"El Castillito\"",
+                "hu": "Centro Cultural \"El Castillito\"",
+                "ro": "Centro Cultural \"El Castillito\"",
+                "en": "Centro Cultural \"El Castillito\""
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss zur Mittagszeit, wenn die Sonne die Außenmauern erwärmt; drinnen ist es angenehm temperiert für eine ausgiebige Tour.",
+                "hu": "Látogasd meg a kastélyt délidőben, amikor a nap felmelegíti a külső falakat; bent kellemes a hőmérséklet egy hosszabb nézelődéshez is.",
+                "ro": "Vizitați castelul la amiază, când soarele încălzește zidurile exterioare; în interior este o temperatură plăcută pentru un tur detaliat.",
+                "en": "Visit the castle at noon when the sun warms the outer walls; inside, the temperature is pleasant enough for an extensive and relaxed tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Marbet",
+                "hu": "Marbet",
+                "ro": "Marbet",
+                "en": "Marbet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine kulturelle Pause im Warmen; am Nachmittag steht die Sonne tief, achten Sie auf Blendungen während der Weiterfahrt.",
+                "hu": "Használd ki a megállót egy kulturális pihenőre a melegben; délután alacsonyan jár a nap, figyelj a vakító fényre a továbbhaladáskor.",
+                "ro": "Profită de oprire pentru o pauză culturală la căldură; după-amiaza soarele este jos, atenție la reflexiile orbitoare în timpul condusului.",
+                "en": "Take advantage of the stop for a cultural break in the warmth; in the afternoon the sun is low, so watch out for glare while driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca Portátil",
+                "hu": "Alberca Portátil",
+                "ro": "Alberca Portátil",
+                "en": "Alberca Portátil"
+              },
+              "tip_5lang": {
+                "de": "Wählen Sie die beheizten Innenbecken für ein angenehmes Schwimmvergnügen; halten Sie warme Handtücher im Auto bereit, um sich nach dem Bad aufzuwärmen.",
+                "hu": "Válaszd a fűtött belső medencéket a kellemes úszáshoz; tarts meleg törölközőket az autóban, hogy fürdés után gyorsan felmelegedhess.",
+                "ro": "Alegeți piscinele interioare încălzite pentru o baie plăcută; păstrați prosoape calde în mașină pentru a vă încălzi rapid după înot.",
+                "en": "Choose the heated indoor pools for a pleasant swim; keep warm towels in the car to warm up quickly after you finish your bathing session."
+              }
+            },
+            {
+              "name": {
+                "de": "Baños Puerto Vallarta",
+                "hu": "Baños Puerto Vallarta",
+                "ro": "Baños Puerto Vallarta",
+                "en": "Baños Puerto Vallarta"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Abschluss nach Sonnenuntergang; die heißen Bäder bereiten Sie perfekt auf den kühlen Abend in der winterlichen Stadt vor.",
+                "hu": "Ideális befejezés naplemente után; a forró fürdők tökéletesen felkészítenek a hűvös estére a téli hangulatú városban.",
+                "ro": "Finalul ideal după apusul soarelui; băile fierbinți vă pregătesc perfect pentru seara răcoroasă în orașul cu atmosferă de iarnă.",
+                "en": "The ideal finish after sunset; the hot baths prepare you perfectly for the cool evening ahead in the city's winter atmosphere."
+              }
+            }
+          ]
+        }
       }
     }
   }

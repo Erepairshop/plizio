@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját a csendes délnyugati negyedben, felfedezve azokat a szerény imatereket, amelyek a helyi közösség alapját jelentik.\n\nFolytassa útját a történelmi SUMUR AGUNG kúthoz, a múlt egy fontos műemlékéhez, mielőtt megpihenne a Masjid Assyauroh mecsetnél.\n\nA délután egy kényelmes sétára csábít a közeli vallási nevezetességek körül, befogadva a nyugodt lakóövezeti hangulatot és a barátságos mosolyokat.\n\nFejezze be kulturális sétáját a Musholla Al Barokah-nál az aranyórában, elgondolkodva az anyeri mindennapi élet békés spirituális ritmusán.",
         "ro": "Începeți plimbarea în cartierul liniștit din sud-vest, explorând spații modeste de rugăciune care reprezintă inima acestei comunități locale.\n\nContinuați spre fântâna istorică SUMUR AGUNG, un monument vital al trecutului, înainte de a vă odihni picioarele la liniștita Masjid Assyauroh.\n\nDupă-amiaza invită la o plimbare relaxantă pe lângă reperele religioase din apropiere, absorbind atmosfera rezidențială senină și zâmbetele calde.\n\nÎncheiați plimbarea culturală la Musholla Al Barokah în lumina apusului, reflectând asupra ritmului spiritual pașnic al vieții de zi cu zi din Anyer.",
         "en": "Start your walking tour in the quiet southwestern neighborhood, exploring humble prayer spaces like Musholla Baiturrohman that ground the community.\n\nContinue towards the historic SUMUR AGUNG well, a vital monument of the past, before resting your feet and observing local faith at Masjid Assyauroh.\n\nThe afternoon invites a leisurely stroll around the nearby religious landmarks, absorbing the serene residential atmosphere and friendly smiles.\n\nConclude your cultural walk at Musholla Al Barokah as the golden hour settles, reflecting on the peaceful spiritual rhythm of daily life in Anyer."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Dach der Musholla Baiturrohman, während der Regen leise klopft. Mittags führt der Weg schnell zwischen den Moscheen hindurch, geschützt durch große Schirme. Am Nachmittag wirkt der Sumur Agung im Regen besonders mystisch und friedlich. Der Abend klingt bei gedämpftem Licht und dem Duft von frischem Regen auf den Straßen von Anyer ruhig aus.",
+            "hu": "A reggel a Musholla Baiturrohman fedett tornácán indul, ahol az eső kopogása ad megnyugtató ritmust. Délben a mecsetek között gyors léptekkel, ernyők alatt haladunk tovább Anyer utcáin. Délután a Sumur Agung történelmi helyszíne ködbe burkolózik a trópusi esőben. Az este a vizes aszfalton megcsillanó lámpafények és a friss, párás levegő kíséretében ér véget a városban.",
+            "ro": "Dimineața începe sub acoperișul protector al Musholla Baiturrohman, în timp ce ploaia bate ușor în ferestre. La prânz, drumul continuă rapid între moschei, protejați de umbrele mari pe străzile din Anyer. După-amiaza, Sumur Agung capătă o aură mistică și liniștită sub ploaia tropicală. Seara se încheie calm, cu reflexiile luminilor stradale în bălțile de pe asfaltul umed.",
+            "en": "The morning begins under the protective porch of Musholla Baiturrohman as the rain taps a rhythmic beat. By noon, we move quickly between the mosques of Anyer, shielded by large umbrellas. In the afternoon, the historical Sumur Agung feels mystical and serene amidst the tropical downpour. The evening winds down with the city lights reflecting beautifully on the rain-slicked streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musholla Baiturrohman",
+                "hu": "Musholla Baiturrohman",
+                "ro": "Musholla Baiturrohman",
+                "en": "Musholla Baiturrohman"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachte Veranda der Moschee, um das kunstvolle Design trocken zu bewundern; tragen Sie wasserfeste Schuhe für den Weg zum Eingang.",
+                "hu": "Használja ki a mecset fedett tornácát az építészeti részletek megcsodálásához; az bejárathoz vezető úton viseljen vízálló cipőt a sár ellen.",
+                "ro": "Folosiți pridvorul acoperit al moscheii pentru a admira detaliile arhitecturale fără a vă uda; purtați încălțăminte impermeabilă pentru acces.",
+                "en": "Utilize the mosque's covered porch to admire the architectural details while staying dry; wear waterproof shoes for the walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Iman",
+                "hu": "Masjid Nurul Iman",
+                "ro": "Masjid Nurul Iman",
+                "en": "Masjid Nurul Iman"
+              },
+              "tip_5lang": {
+                "de": "Die hellen Innenräume bieten einen hellen Rückzugsort vor dem grauen Regenwetter; achten Sie auf den glatten Boden im Eingangsbereich der Moschee.",
+                "hu": "A világos belső terek kellemes menedéket nyújtanak a szürke eső elől; ügyeljen a bejáratnál a nedvességtől esetlegesen csúszóssá váló burkolatra.",
+                "ro": "Interioarele luminoase oferă un refugiu plăcut împotriva vremii gri și ploioase; aveți grijă la podeaua care poate fi alunecoasă la intrare.",
+                "en": "The bright interiors provide a cheerful refuge from the grey rain; watch your step at the entrance as the floor may become slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "SUMUR AGUNG",
+                "hu": "SUMUR AGUNG",
+                "ro": "SUMUR AGUNG",
+                "en": "SUMUR AGUNG"
+              },
+              "tip_5lang": {
+                "de": "Der heilige Brunnen wirkt im Regen besonders atmosphärisch, aber die Steine sind rutschig; halten Sie sich an den Handläufen fest, falls vorhanden.",
+                "hu": "A szent kút az esőben különleges hangulatot áraszt, de a kövek ilyenkor csúszósak; óvatosan közlekedjen és használja az ernyőt a nyitott részeken.",
+                "ro": "Fântâna sfântă este foarte atmosferică pe ploaie, dar pietrele devin alunecoase; mergeți cu grijă și folosiți umbrela în zonele fără acoperiș.",
+                "en": "The sacred well feels incredibly atmospheric in the rain, but the stones are slippery; walk carefully and use an umbrella in the open areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Assyauroh",
+                "hu": "Masjid Assyauroh",
+                "ro": "Masjid Assyauroh",
+                "en": "Masjid Assyauroh"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist ideal für eine kurze Rast im Trockenen, bevor es weitergeht; verstauen Sie Ihren nassen Schirm in einer Plastiktüte vor dem Eintreten.",
+                "hu": "Ez a hely tökéletes egy rövid, száraz pihenőre a továbbindulás előtt; a bejárati részen rázza le alaposan az ernyőjét a belső tér védelmében.",
+                "ro": "Acest loc este ideal pentru un scurt popas la adăpost înainte de a continua; scuturați bine umbrela la intrare pentru a păstra interiorul uscat.",
+                "en": "This spot is ideal for a short dry break before moving on; be sure to shake your umbrella thoroughly at the entrance to keep the interior dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Musholla Al Barokah",
+                "hu": "Musholla Al Barokah",
+                "ro": "Musholla Al Barokah",
+                "en": "Musholla Al Barokah"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Herabregnen vom Dach bei einer ruhigen Meditation; ein Paar Ersatzsocken im Rucksack hält Ihre Füße nach dem Rundgang warm.",
+                "hu": "Figyelje a tetőről lecsorgó esővizet egy nyugodt meditáció közben; egy pár pótzokni a táskájában aranyat érhet a séta végén a vizes lábaknak.",
+                "ro": "Urmăriți ploaia căzând de pe acoperiș în timpul unei meditații liniștite; o pereche de șosete de schimb va fi utilă după finalizarea plimbării.",
+                "en": "Watch the rain cascading from the roof during a quiet meditation; a spare pair of socks in your bag will be a lifesaver after the wet walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgenwind weht durch die Gassen von Anyer, perfekt für einen erfrischenden Spaziergang. Mittags steht die Sonne tiefer und taucht die Moscheen in ein weiches, goldenes Licht. Am Nachmittag genießen wir die klare Luft beim Besuch des Sumur Agung. Da die Sonne bereits um 17:00 Uhr untergeht, endet der Tag früh in der gemütlichen Atmosphäre der beleuchteten Musholla.",
+            "hu": "Hűvös reggeli szellő lengedez Anyer utcáin, frissítő indítást adva a sétának. Délben az alacsonyabban járó nap lágy, aranyló fénybe vonja a mecsetek homlokzatát. Délután a tiszta, téli levegőben látogatjuk meg a Sumur Agungot. Mivel a nap korán, 17:00 körül nyugszik, a napot Anyer fényeiben és a mecsetek esti nyugalmában zárjuk.",
+            "ro": "O briză răcoroasă de dimineață străbate străzile din Anyer, perfectă pentru o plimbare revigorantă. La prânz, soarele coborât pe cer scaldă moscheile într-o lumină aurie blândă. După-amiaza, vizităm Sumur Agung profitând de aerul curat. Deoarece soarele apune devreme, în jur de ora 17:00, ziua se încheie în liniștea serii luminate.",
+            "en": "A cool morning breeze drifts through the alleys of Anyer, making for a refreshing start. By noon, the low winter sun bathes the mosques in a soft, golden glow. In the afternoon, enjoy the crisp air while visiting Sumur Agung. With the sun setting early around 17:00, the day concludes early amidst the cozy, lit-up atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musholla Baiturrohman",
+                "hu": "Musholla Baiturrohman",
+                "ro": "Musholla Baiturrohman",
+                "en": "Musholla Baiturrohman"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht den Besuch angenehm; tragen Sie eine leichte Jacke, da es im Schatten der Gebäude noch recht frisch sein kann.",
+                "hu": "A hűvös reggeli levegő kellemessé teszi a látogatást; viseljen könnyű kabátot, mert az épületek árnyékában ilyenkor még hűvös van.",
+                "ro": "Aerul răcoros de dimineață face vizita foarte plăcută; purtați o jachetă ușoară, deoarece la umbra clădirilor poate fi destul de frig.",
+                "en": "The cool morning air makes the visit pleasant; wear a light jacket as it can be quite chilly in the shadows of the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Iman",
+                "hu": "Masjid Nurul Iman",
+                "ro": "Masjid Nurul Iman",
+                "en": "Masjid Nurul Iman"
+              },
+              "tip_5lang": {
+                "de": "Das sanfte Mittagslicht hebt die feinen Ornamente besonders gut hervor; nutzen Sie die sonnigen Plätze vor der Moschee zum Aufwärmen.",
+                "hu": "A szelíd déli napfény szépen kiemeli az apró díszítéseket; használja ki a mecset előtti napsütötte részeket egy kis melegedésre.",
+                "ro": "Lumina blândă de la prânz scoate în evidență ornamentele fine; profitați de locurile însorite din fața moscheii pentru a vă încălzi.",
+                "en": "The gentle midday sun highlights the fine ornaments beautifully; take advantage of the sunny spots in front of the mosque to warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "SUMUR AGUNG",
+                "hu": "SUMUR AGUNG",
+                "ro": "SUMUR AGUNG",
+                "en": "SUMUR AGUNG"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Brunnen am frühen Nachmittag, um die besten Fotos im klaren Winterlicht zu machen, bevor die langen Schatten kommen.",
+                "hu": "A kora délutáni órákban látogassa meg a kutat, hogy a legjobb fotókat készíthesse a tiszta fényekben, mielőtt a hosszú árnyékok megjelennének.",
+                "ro": "Vizitați fântâna la începutul după-amiezii pentru a face cele mai bune fotografii în lumina clară, înainte de apariția umbrelor lungi.",
+                "en": "Visit the well in the early afternoon to capture the best photos in the clear light before the long shadows of evening arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Assyauroh",
+                "hu": "Masjid Assyauroh",
+                "ro": "Masjid Assyauroh",
+                "en": "Masjid Assyauroh"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Atmosphäre lädt zum Verweilen ein; denken Sie daran, dass es nach Sonnenuntergang um 17 Uhr merklich kühler wird.",
+                "hu": "A nyugodt légkör maradásra hív; ne feledje, hogy a 17 órai naplemente után a levegő hirtelen jelentősen lehűlhet a városban.",
+                "ro": "Atmosfera liniștită vă invită să zăboviți; nu uitați că după apusul soarelui de la ora 17, temperatura scade simțitor în oraș.",
+                "en": "The peaceful atmosphere invites you to linger; remember that after the 17:00 sunset, the temperature will drop noticeably."
+              }
+            },
+            {
+              "name": {
+                "de": "Musholla Al Barokah",
+                "hu": "Musholla Al Barokah",
+                "ro": "Musholla Al Barokah",
+                "en": "Musholla Al Barokah"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang pünktlich zum frühen Sonnenuntergang; das warme Kunstlicht der Musholla bietet einen behaglichen Abschluss.",
+                "hu": "Fejezze be a sétáját pontosan a korai naplementére; a mecset meleg mesterséges fényei barátságos lezárást nyújtanak a napnak.",
+                "ro": "Încheiați plimbarea exact la ora apusului devreme; luminile artificiale calde ale moscheii oferă un final de zi primitor.",
+                "en": "Finish your walk right in time for the early sunset; the warm artificial lights of the mosque provide a cozy conclusion to the day."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen Anyer reggeli szellőjében, a tágas Masjid Nurul Falah mecsetnél kezdve, és szívja magába a város barátságos spirituális hangulatát.\n\nLátogasson el az ősi SUMUR AGUNG kúthoz egy kis történelemért, mielőtt a Pantai Mandalika Anyer frissítő tengerparti kilátásai felé venné az irányt.\n\nÉlvezze a tengeri szellőt és a homokos partszakaszokat, bőséges időt szánva a pihenésre a történelmi utcákon való tekerés után.\n\nFejezze be kerékpáros útját a modern At Taubah mecsetnél, ahol a békés légkör tökéletesen kiegészíti a két keréken töltött élményekkel teli napot.",
         "ro": "Porniți la drum prin briza dimineții din Anyer, începând de la Masjid Nurul Falah și bucurându-vă de ambianța spirituală primitoare a orașului.\n\nVizitați fântâna antică SUMUR AGUNG pentru o lecție de istorie, înainte de a pedala spre priveliștile de coastă răcoritoare de la Pantai Mandalika Anyer.\n\nBucurați-vă de briza mării și de plajă, acordându-vă timp amplu pentru a vă relaxa și a vă reîncărca după plimbarea pe străzile istorice.\n\nÎncheiați-vă călătoria cu bicicleta la moscheea modernă At Taubah, unde atmosfera pașnică completează perfect o zi plină de satisfacții.",
         "en": "Pedal your way through Anyer's morning breeze, starting at the spacious Masjid Nurul Falah and soaking in the town's welcoming spiritual ambiance.\n\nVisit the ancient SUMUR AGUNG well to touch a piece of history before biking towards the refreshing coastal views of Pantai Mandalika Anyer.\n\nEnjoy the sea breeze and sandy stretches at the beach, taking ample time to relax and refuel after your ride through the historical streets.\n\nEnd your cycling journey at the modern At Taubah mosque, where the peaceful atmosphere perfectly complements a fulfilling day on two wheels."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer vorsichtigen Fahrt durch den warmen Regen von Anyer. Mittags suchen wir Schutz unter den Vordächern der Moscheen, während die Reifen auf dem nassen Asphalt singen. Am Nachmittag radeln wir zur Küste, wo der Wind die Gischt mit dem Regen vermischt. Der Abend endet mit einer gemütlichen Heimfahrt durch die beleuchtete, nasse Stadtlandschaft.",
+            "hu": "A nap óvatos kerékpározással indul Anyer meleg esőjében. Délben a mecsetek ereszei alatt pihenünk meg, miközben a gumi halkan zúg a vizes aszfalton. Délután a tengerpart felé tekerünk, ahol a szél és az eső sós párája keveredik a levegőben. Az este egy lassú, városi tekeréssel zárul a csillogóan nedves utcák és fények között.",
+            "ro": "Ziua începe cu o plimbare prudentă cu bicicleta prin ploaia caldă din Anyer. La prânz, ne adăpostim sub streșinile moscheilor, în timp ce pneurile foșnesc pe asfaltul ud. După-amiaza pedalăm spre coastă, unde vântul amestecă stropii de ploaie cu vaporii sărați. Seara se încheie cu o tură relaxată prin peisajul urban luminat și umed.",
+            "en": "The day starts with a cautious ride through the warm rain of Anyer. By noon, we rest under the mosque eaves while tires hum on the wet asphalt. In the afternoon, we pedal towards the coast where the wind blends rain with salty sea spray. The evening ends with a gentle city ride through the glistening wet streets and city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Nurul Falah",
+                "hu": "Masjid Nurul Falah",
+                "ro": "Masjid Nurul Falah",
+                "en": "Masjid Nurul Falah"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem überdachten Platz; prüfen Sie Ihre Bremsen gründlich, da die nassen Straßen den Bremsweg verlängern.",
+                "hu": "Parkolja le kerékpárját fedett helyen; alaposan ellenőrizze a fékeket, mert a vizes útfelületen jelentősen megnő a féktávolság.",
+                "ro": "Parcați bicicleta într-un loc acoperit; verificați frânele cu atenție, deoarece carosabilul umed mărește distanța de frânare.",
+                "en": "Park your bike in a covered spot; check your brakes thoroughly as wet roads significantly increase your stopping distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Ikhlas",
+                "hu": "Masjid Al Ikhlas",
+                "ro": "Masjid Al Ikhlas",
+                "en": "Masjid Al Ikhlas"
+              },
+              "tip_5lang": {
+                "de": "Ein Regenponcho ist beim Radfahren praktischer als ein Schirm; nutzen Sie die Pause, um das Visier Ihres Helms zu reinigen.",
+                "hu": "Kerékpározáshoz az esőponcsó praktikusabb az ernyőnél; használja ki a megállót, hogy megtisztítsa a szemüvegét vagy a sisakrostélyát.",
+                "ro": "O pelerină de ploaie este mai practică decât umbrela pe bicicletă; profitați de oprire pentru a vă șterge ochelarii sau viziera.",
+                "en": "A rain poncho is more practical than an umbrella while cycling; use this stop to clean your glasses or helmet visor for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "SUMUR AGUNG",
+                "hu": "SUMUR AGUNG",
+                "ro": "SUMUR AGUNG",
+                "en": "SUMUR AGUNG"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Parken schlammige Stellen; tragen Sie wasserfeste Überschuhe, um Ihre Füße beim Laufen um den Brunnen trocken zu halten.",
+                "hu": "Kerülje el a sáros részeket a parkolásnál; viseljen vízálló kamáslit, hogy a kút körüli séta során is száraz maradjon a lába.",
+                "ro": "Evitați zonele noroioase când parcați; purtați protecții impermeabile pentru încălțăminte ca să vă păstrați picioarele uscate la fântână.",
+                "en": "Avoid muddy spots when parking; wear waterproof shoe covers to keep your feet dry while walking around the historical well area."
+              }
+            },
+            {
+              "name": {
+                "de": "Musholla Al Barokah",
+                "hu": "Musholla Al Barokah",
+                "ro": "Musholla Al Barokah",
+                "en": "Musholla Al Barokah"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Fliesen können extrem glatt sein; steigen Sie frühzeitig vom Rad ab und schieben Sie es vorsichtig zum Abstellplatz.",
+                "hu": "A vizes járólapok rendkívül csúszósak lehetnek; szálljon le időben a kerékpárról és óvatosan tolja azt a kijelölt tárolóhoz.",
+                "ro": "Gresia umedă poate fi extrem de alunecoasă; coborâți de pe bicicletă din timp și împingeți-o cu grijă până la locul de parcare.",
+                "en": "Wet tiles can be extremely slippery; dismount your bike early and push it carefully to the designated parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Mandalika Anyer",
+                "hu": "Pantai Mandalika Anyer",
+                "ro": "Pantai Mandalika Anyer",
+                "en": "Pantai Mandalika Anyer"
+              },
+              "tip_5lang": {
+                "de": "Starker Wind am Strand erschwert das Treten; suchen Sie sich einen geschützten Unterstand, um das wilde Meer im Regen zu beobachten.",
+                "hu": "A tengerparti erős szél nehezítheti a tekerést; keressen egy fedett beállót, ahonnan megcsodálhatja a haragos, esős tengert.",
+                "ro": "Vântul puternic de pe plajă poate îngreuna pedalatul; căutați un adăpost acoperit pentru a admira marea agitată sub ploaie.",
+                "en": "Strong coastal winds can make pedaling difficult; find a covered shelter to enjoy the view of the wild, rainy sea safely."
+              }
+            },
+            {
+              "name": {
+                "de": "At Taubah",
+                "hu": "At Taubah",
+                "ro": "At Taubah",
+                "en": "At Taubah"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel vor der Abfahrt trocken; reflektierende Kleidung ist bei der schlechten Sicht im Regen lebenswichtig.",
+                "hu": "Indulás előtt törölje szárazra a nyerget; a rossz látási viszonyok miatt a fényvisszaverő ruházat életmentő lehet az esős estében.",
+                "ro": "Ștergeți șaua înainte de plecare; îmbrăcămintea reflectorizantă este esențială pe ploaie din cauza vizibilității reduse de seară.",
+                "en": "Wipe your seat dry before departing; reflective clothing is vital for safety in the poor visibility of a rainy tropical evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Brise am Morgen macht das Radfahren in Anyer zu einem reinen Vergnügen. Mittags genießen wir die milde Sonne, die perfekt für längere Strecken ist. Am Nachmittag erreichen wir den Strand, wo die Luft klar und erfrischend ist. Da es um 17:00 Uhr dunkel wird, schalten wir die Lichter früh ein und genießen die kühle Abendfahrt.",
+            "hu": "A hűvös reggeli szellő Anyer utcáin igazi élménnyé teszi a kerékpározást. Délben a lágy napsütés éppen ideális a hosszabb távok megtételéhez. Délután a tengerparton a levegő tiszta és frissítő. Mivel 17:00-kor már sötétedik, korán felkapcsoljuk a lámpákat és élvezzük a hűvös esti suhanást.",
+            "ro": "Briză răcoroasă de dimineață face ca pedalatul prin Anyer să fie o adevărată plăcere. La prânz, soarele blând este perfect pentru parcurgerea distanțelor mai lungi. După-amiaza ajungem la plajă, unde aerul este curat și revigorant. Fiindcă se întunecă la ora 17, aprindem luminile devreme pentru tura de seară.",
+            "en": "The cool morning breeze makes cycling through Anyer a total joy. At noon, the mild sun is perfect for covering longer distances without overheating. In the afternoon, the beach air is crisp and refreshing. Since it gets dark by 17:00, we turn on our lights early and enjoy the cool evening breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Nurul Falah",
+                "hu": "Masjid Nurul Falah",
+                "ro": "Masjid Nurul Falah",
+                "en": "Masjid Nurul Falah"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Luft am Morgen erfordert Handschuhe für die Fahrt; nutzen Sie die erste Pause, um Ihre Muskeln kurz aufzuwärmen.",
+                "hu": "A hűvös reggeli levegő miatt érdemes kerékpáros kesztyűt viselni; az első megállónál szánjon pár percet az izmai bemelegítésére.",
+                "ro": "Aerul rece de dimineață necesită mănuși pentru drum; folosiți prima oprire pentru a vă încălzi puțin mușchii după tura de start.",
+                "en": "The cool morning air calls for cycling gloves; use this first stop to do a quick warm-up for your muscles before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Ikhlas",
+                "hu": "Masjid Al Ikhlas",
+                "ro": "Masjid Al Ikhlas",
+                "en": "Masjid Al Ikhlas"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die UV-Strahlung trotz Kühle stark; tragen Sie Sonnencreme auf, besonders wenn Sie viel im offenen Gelände radeln.",
+                "hu": "Télen a hűvös ellenére is erős lehet az UV-sugárzás; használjon fényvédőt, különösen ha sokat teker nyílt terepen Anyer körül.",
+                "ro": "Iarna, radiațiile UV pot fi puternice în ciuda răcorii; folosiți cremă de protecție solară, mai ales în zonele deschise ale traseului.",
+                "en": "Even in winter, UV radiation can be strong; apply sunscreen, especially when cycling in open areas around Anyer during midday."
+              }
+            },
+            {
+              "name": {
+                "de": "SUMUR AGUNG",
+                "hu": "SUMUR AGUNG",
+                "ro": "SUMUR AGUNG",
+                "en": "SUMUR AGUNG"
+              },
+              "tip_5lang": {
+                "de": "Die Wege zum Brunnen sind trocken und griffig; nutzen Sie die klare Sicht für Panoramafotos von Ihrem geparkten Fahrrad aus.",
+                "hu": "A kúthoz vezető utak szárazak és jól tapadnak; használja ki a tiszta látási viszonyokat egy látványos panorámaképhez a bicikli mellől.",
+                "ro": "Drumurile spre fântână sunt uscate și au aderență bună; profitați de vizibilitatea clară pentru fotografii panoramice lângă bicicletă.",
+                "en": "The paths to the well are dry and provide good grip; take advantage of the clear visibility for panoramic photos from your bike spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Musholla Al Barokah",
+                "hu": "Musholla Al Barokah",
+                "ro": "Musholla Al Barokah",
+                "en": "Musholla Al Barokah"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie ein warmes Getränk in einer Thermoskanne mit; eine kurze Teepause im Schatten der Moschee wirkt im Winter Wunder.",
+                "hu": "Vigyen magával meleg italt egy termosztban; egy rövid teaszünet a mecset árnyékában télen csodákra képes a komfortérzetnek.",
+                "ro": "Luați o băutură caldă într-un termos; o scurtă pauză de ceai la umbra moscheii face minuni pentru confort în timpul iernii.",
+                "en": "Carry a warm drink in a thermos; a short tea break in the shade of the mosque works wonders for your comfort during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Mandalika Anyer",
+                "hu": "Pantai Mandalika Anyer",
+                "ro": "Pantai Mandalika Anyer",
+                "en": "Pantai Mandalika Anyer"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Strand kann im Winter eisig sein; ziehen Sie eine winddichte Schicht an, bevor Sie die Küstenstraße weiterfahren.",
+                "hu": "A tengerparti szél télen metsző lehet; vegyen fel egy szélálló réteget, mielőtt továbbhajtana a parti út mentén.",
+                "ro": "Vântul de pe plajă poate fi tăios iarna; puneți-vă un strat rezistent la vânt înainte de a continua pe drumul de coastă.",
+                "en": "The beach wind can be biting in winter; put on a windproof layer before you continue cycling along the coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "At Taubah",
+                "hu": "At Taubah",
+                "ro": "At Taubah",
+                "en": "At Taubah"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll geladen ist; nach 17 Uhr wird es schlagartig dunkel auf den Straßen.",
+                "hu": "Győződjön meg róla, hogy a kerékpár lámpái fel vannak töltve; 17 óra után Anyer utcáin hirtelen és teljesen besötétedik.",
+                "ro": "Asigurați-vă că luminile bicicletei sunt încărcate; după ora 17, se întunecă brusc și total pe străzile din Anyer.",
+                "en": "Ensure your bike lights are fully charged; after 17:00, it gets dark very suddenly on the streets of Anyer during winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen kényelmesen Anyerben, a SUMUR AGUNG történelmi és vallási helyszíneivel kezdve, hogy megértse a helyi kulturális örökséget.\n\nNavigáljon a gyönyörű Pantai Mandalika Anyer felé, megszakítva az autós túrát egy hosszú sétával a napfényes trópusi tengerparton.\n\nFolytassa útját a parti utakon, megállva az olyan monumentális nevezetességeknél, mint a Masjid Alhamdulillah, hogy értékelje az építészetet.\n\nParkoljon le a nagyszerű Masjid Alfurqon mecsetnél az este közeledtével, és figyelje, ahogy az égbolt megváltoztatja színeit a tengerparti város felett.",
         "ro": "Conduceți confortabil prin Anyer, începând cu situri religioase și istorice fundamentale precum SUMUR AGUNG pentru a înțelege moștenirea locală.\n\nNavigați spre frumoasa Pantai Mandalika Anyer, întrerupând turul auto cu o plimbare prelungită de-a lungul coastei tropicale însorite.\n\nContinuați pe drumurile de coastă, oprindu-vă la repere monumentale precum Masjid Alhamdulillah pentru a aprecia arhitectura comunitară.\n\nParcați la marea Masjid Alfurqon pe măsură ce se apropie seara, privind cum cerul își schimbă culorile deasupra orașului de coastă liniștit.",
         "en": "Drive comfortably through Anyer, beginning with its foundational religious and historical sites like SUMUR AGUNG to understand local heritage.\n\nNavigate towards the beautiful Pantai Mandalika Anyer, breaking up the driving tour with an extended stroll along the sunlit tropical shoreline.\n\nContinue cruising along the coastal roads, stopping at monumental landmarks such as Masjid Alhamdulillah to appreciate community architecture.\n\nPark up at the grand Masjid Alfurqon as evening approaches, watching the sky change colors over the tranquil coastal town before heading back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen trommelt gemütlich auf das Autodach, während wir trocken durch Anyer fahren. Mittags bietet das Auto den perfekten Rückzugsort zwischen den Moscheebesuchen. Am Nachmittag gleiten wir entlang der Küste, wo die Scheibenwischer den Blick auf das graue Meer freigeben. Der Abend endet entspannt bei einer Fahrt durch die neblige, tropische Nacht.",
+            "hu": "Az eső dobolása az autó tetőjén megnyugtató háttérzaj, miközben szárazon suhanunk Anyer utcáin. Délben a gépkocsi tökéletes menedéket nyújt a mecsetek látogatása között. Délután a parti úton haladunk, ahol az ablaktörlők mögül figyeljük a szürke tengert. Az este a párás, trópusi éjszakában tett lassú autózással zárul.",
+            "ro": "Ropotul ploii pe plafonul mașinii este un sunet relaxant în timp ce traversăm Anyer la adăpost. La prânz, vehiculul oferă refugiul perfect între vizitele la moschei. După-amiaza rulăm pe drumul de coastă, privind marea cenușie prin parbrizul umed. Seara se încheie cu o plimbare liniștită prin noaptea tropicală cețoasă.",
+            "en": "The rain drumming on the car roof is a soothing backdrop as we travel through Anyer in dry comfort. At noon, the car provides the perfect refuge between mosque visits. In the afternoon, we glide along the coast, watching the grey sea through the wipers. The evening concludes with a relaxed drive through the misty, tropical night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musholla Baiturrohman",
+                "hu": "Musholla Baiturrohman",
+                "ro": "Musholla Baiturrohman",
+                "en": "Musholla Baiturrohman"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; halten Sie einen Schirm griffbereit im Türfach bereit.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az elázást; tartson egy ernyőt kéznél az autó ajtózsebében.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; țineți o umbrelă la îndemână în buzunarul portierei mașinii.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; keep an umbrella handy in the car's door pocket for quick access."
+              }
+            },
+            {
+              "name": {
+                "de": "SUMUR AGUNG",
+                "hu": "SUMUR AGUNG",
+                "ro": "SUMUR AGUNG",
+                "en": "SUMUR AGUNG"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben zu verhindern; parken Sie auf festem Grund, um nicht im Schlamm steckenzubleiben.",
+                "hu": "Használja a légkondicionálót a szélvédő párátlanítására; szilárd talajon parkoljon, hogy elkerülje a sárba ragadást a kútnál.",
+                "ro": "Folosiți aerul condiționat pentru a dezaburi parbrizul; parcați pe teren solid pentru a nu rămâne blocat în noroi la fântână.",
+                "en": "Use the air conditioning to defog the windows; ensure you park on solid ground to avoid getting stuck in the mud near the well."
+              }
+            },
+            {
+              "name": {
+                "de": "Masid Al Ikhlas",
+                "hu": "Masjid Al Ikhlas",
+                "ro": "Masjid Al Ikhlas",
+                "en": "Masjid Al Ikhlas"
+              },
+              "tip_5lang": {
+                "de": "Legen Sie eine Gummimatte in den Fußraum, um das Auto vor Nässe zu schützen; die Sicht beim Einparken kann durch den Regen eingeschränkt sein.",
+                "hu": "Helyezzen gumiszőnyeget a lábtérbe, hogy megvédje az autót a víztől; a parkolásnál a látási viszonyok korlátozottak lehetnek az eső miatt.",
+                "ro": "Puneți un covoraș de cauciuc pentru a proteja interiorul de apă; vizibilitatea la parcare poate fi redusă din cauza ploii torențiale.",
+                "en": "Place a rubber mat in the footwell to protect the car from moisture; be extra careful when parking as visibility is reduced by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Mandalika Anyer",
+                "hu": "Pantai Mandalika Anyer",
+                "ro": "Pantai Mandalika Anyer",
+                "en": "Pantai Mandalika Anyer"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Meer direkt aus dem Auto, wenn es zu stark regnet; die Gischt kann das Salz auf den Lack treiben.",
+                "hu": "Élvezze a tengerre néző kilátást közvetlenül az autóból, ha túl erősen esik; a sós pára rárakódhat a karosszériára a part közelében.",
+                "ro": "Bucurați-vă de vederea la mare direct din mașină dacă plouă prea tare; vaporii sărați se pot depune pe vopseaua mașinii lângă țărm.",
+                "en": "Enjoy the sea view directly from your car if the rain is too heavy; sea spray can leave salt deposits on the car's paintwork."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Alhamdulillah",
+                "hu": "Masjid Alhamdulillah",
+                "ro": "Masjid Alhamdulillah",
+                "en": "Masjid Alhamdulillah"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie tiefe Pfützen auf der Straße, um Aquaplaning zu verhindern; schalten Sie bei starkem Regen das Abblendlicht ein.",
+                "hu": "Kerülje a mély tócsákat az úton az aquaplaning elkerülése érdekében; erős esőben mindig kapcsolja fel a tompított fényszórót.",
+                "ro": "Evitați bălțile adânci pentru a preveni acvaplanarea; aprindeți faza scurtă în timpul ploii abundente pentru a fi vizibil în trafic.",
+                "en": "Avoid deep puddles on the road to prevent aquaplaning; always turn on your low-beam headlights during heavy tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Musholla Al-Jami",
+                "hu": "Musholla Al-Jami",
+                "ro": "Musholla Al-Jami",
+                "en": "Musholla Al-Jami"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Wasserstand an Straßenrändern beim Parken; nasse Kleidung trocknet am besten bei eingeschalteter Heizung während der Fahrt.",
+                "hu": "Ellenőrizze a vízmélységet az út szélén parkoláskor; a nedves ruhák leggyorsabban a bekapcsolt fűtéssel száradnak meg menet közben.",
+                "ro": "Verificați adâncimea apei la marginea drumului când parcați; hainele umede se usucă cel mai bine cu căldura pornită în timpul mersului.",
+                "en": "Check the water depth at the roadside when parking; wet clothes dry fastest with the car heater on during the drive between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Alfurqon",
+                "hu": "Masjid Alfurqon",
+                "ro": "Masjid Alfurqon",
+                "en": "Masjid Alfurqon"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Check der Wischerblätter sorgt für eine sichere Heimfahrt; genießen Sie die beleuchtete Moschee im Scheinwerferlicht.",
+                "hu": "Az ablaktörlő lapátok utolsó ellenőrzése garantálja a biztonságos hazautat; csodálja meg a kivilágított mecsetet a fényszórók fényében.",
+                "ro": "O ultimă verificare a ștergătoarelor asigură un drum spre casă sigur; admirați moscheea luminată în fasciculul farurilor.",
+                "en": "A final check of the wiper blades ensures a safe drive home; admire the illuminated mosque beautifully caught in your headlights."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen in Anyer lässt sich am besten im beheizten Auto beginnen. Mittags sorgt die klare Sicht für wunderbare Ausblicke auf die Architektur der Moscheen. Am Nachmittag fahren wir entspannt zum Strand, um die frische Meeresluft zu genießen. Da die Sonne um 17:00 Uhr untergeht, leuchten die Stadtlichter früh und weisen uns den Weg.",
+            "hu": "A hűvös anyeri téli reggelt a legkellemesebb egy fűtött autóban indítani. Délben a tiszta látási viszonyok csodás rálátást biztosítanak a mecsetek építészetére. Délután kényelmesen autózunk a tengerpartra a friss levegőért. Mivel a nap 17:00-kor nyugszik, a város fényei korán felgyúlnak, mutatva az utat.",
+            "ro": "O dimineață răcoroasă de iarnă în Anyer începe cel mai bine în confortul mașinii. La prânz, vizibilitatea clară oferă perspective superbe asupra moscheilor. După-amiaza conducem relaxat spre plajă pentru aerul proaspăt. Deoarece soarele apune la ora 17, luminile orașului se aprind devreme și ne ghidează drumul.",
+            "en": "A cool winter morning in Anyer is best started in the warmth of your car. At noon, the clear visibility provides wonderful views of the mosque architecture. In the afternoon, we take a relaxed drive to the beach for the fresh sea air. Since the sun sets at 17:00, the city lights sparkle early to guide our way home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musholla Baiturrohman",
+                "hu": "Musholla Baiturrohman",
+                "ro": "Musholla Baiturrohman",
+                "en": "Musholla Baiturrohman"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz warmlaufen, bevor Sie losfahren; das klare Winterlicht am Morgen ist ideal für scharfe Fassadenfotos.",
+                "hu": "Hagyja a motort egy rövid ideig melegedni indulás előtt; a tiszta reggeli téli fények ideálisak a tűéles fotókhoz a homlokzatról.",
+                "ro": "Lăsați motorul să se încălzească puțin înainte de plecare; lumina clară de iarnă este ideală pentru fotografii clare ale fațadei.",
+                "en": "Let the engine warm up for a moment before starting; the clear winter morning light is ideal for taking sharp photos of the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "SUMUR AGUNG",
+                "hu": "SUMUR AGUNG",
+                "ro": "SUMUR AGUNG",
+                "en": "SUMUR AGUNG"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze am Brunnen sind im Winter trocken und leicht befahrbar; nutzen Sie die niedrige Sonne für dramatische Schattenbilder.",
+                "hu": "A kút körüli parkolók télen szárazak és könnyen megközelíthetőek; használja ki az alacsony napállást a drámai árnyékos képekhez.",
+                "ro": "Parcările de la fântână sunt uscate și ușor accesibile iarna; profitați de soarele jos pentru fotografii cu umbre dramatice.",
+                "en": "The parking areas near the well are dry and easy to navigate in winter; use the low sun to take photos with dramatic shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Masid Al Ikhlas",
+                "hu": "Masjid Al Ikhlas",
+                "ro": "Masjid Al Ikhlas",
+                "en": "Masjid Al Ikhlas"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie beim Aussteigen eine Weste, da der Temperaturunterschied zur Autoklimaanlage im Winter spürbar sein kann.",
+                "hu": "Kiszálláskor vegyen fel egy mellényt, mert az autó belső hőmérséklete és a kinti hűvös levegő közötti különbség jelentős lehet.",
+                "ro": "Puneți-vă o vestă când coborâți, deoarece diferența de temperatură față de interiorul mașinii poate fi resimțită iarna.",
+                "en": "Put on a vest when getting out, as the temperature difference between the car's interior and the cool air can be significant."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Mandalika Anyer",
+                "hu": "Pantai Mandalika Anyer",
+                "ro": "Pantai Mandalika Anyer",
+                "en": "Pantai Mandalika Anyer"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Sonnenuntergang; da es bereits um 17 Uhr dunkel wird, haben Sie so den besten Logenplatz im Warmen.",
+                "hu": "Parkoljon a naplemente felé fordulva; mivel már 17 órakor sötétedik, így lesz a legjobb helye a meleg autóból nézni a látványt.",
+                "ro": "Parcați cu fața spre apus; deoarece se întunecă deja la ora 17, veți avea cel mai bun loc de vizionare din confortul mașinii.",
+                "en": "Park facing the sunset; since it gets dark by 17:00, you'll have the best seat in the house from the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Alhamdulillah",
+                "hu": "Masjid Alhamdulillah",
+                "ro": "Masjid Alhamdulillah",
+                "en": "Masjid Alhamdulillah"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie den Reifendruck, da dieser bei kühleren Temperaturen leicht sinken kann; die Straßen sind trocken und sicher.",
+                "hu": "Ellenőrizze a gumiabroncsok nyomását, mert a hűvösebb időben az kissé lecsökkenhet; az utak ilyenkor szárazak és biztonságosak.",
+                "ro": "Verificați presiunea în pneuri, deoarece aceasta poate scădea la temperaturi scăzute; drumurile sunt uscate și sigure iarna.",
+                "en": "Check your tire pressure, as it can drop slightly in cooler temperatures; the roads are generally dry and safe for driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Musholla Al-Jami",
+                "hu": "Musholla Al-Jami",
+                "ro": "Musholla Al-Jami",
+                "en": "Musholla Al-Jami"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das frühe Abendlicht für stimmungsvolle Außenaufnahmen der Moschee; im Auto bleibt es während der kurzen Pause angenehm warm.",
+                "hu": "Használja ki a korai esti fényeket a mecset hangulatos fotózásához; az autó a rövid megálló alatt is kellemesen meleg marad.",
+                "ro": "Profitați de lumina serii devreme pentru fotografii exterioare reușite; mașina rămâne plăcut de caldă în timpul pauzei scurte.",
+                "en": "Take advantage of the early evening light for atmospheric photos; the car will stay pleasantly warm during this short stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Alfurqon",
+                "hu": "Masjid Alfurqon",
+                "ro": "Masjid Alfurqon",
+                "en": "Masjid Alfurqon"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie die Scheinwerfer rechtzeitig ein, um in der frühen Dämmerung gut gesehen zu werden; die Parkplätze sind abends hell beleuchtet.",
+                "hu": "Kapcsolja fel időben a fényszórókat, hogy a korai szürkületben is jól látható maradjon; a parkolók este jól megvilágítottak Anyerben.",
+                "ro": "Aprindeți farurile din timp pentru a fi vizibil în amurgul devreme; parcările sunt bine iluminate seara în Anyer.",
+                "en": "Turn on your headlights early to remain visible in the early twilight; the parking areas are well-lit in Anyer during the evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

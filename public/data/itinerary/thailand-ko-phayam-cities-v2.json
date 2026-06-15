@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját a sziget szívében, a Happy House-nál egy nyugodt reggelért. Ezután induljon északnyugat felé az Ao Khao Kwai South békés partjaihoz. Ahogy közeledik a dél, fedezze fel a Hin Talu egyedülálló sziklaívét és a közeli csendes strandokat. Töltse a délutánt az öböl északi szakaszán sétálva. Fejezze be a napját egy csendes estével a tengernél a lágy szellő kíséretében.",
         "ro": "Începeți turul de plimbare în inima insulei la Happy House pentru o dimineață relaxantă. Apoi, mergeți spre țărmurile din Ao Khao Kwai South. Pe măsură ce se apropie amiaza, descoperiți arcul de stâncă Hin Talu și plajele liniștite. Petreceți-vă după-amiaza plimbându-vă de-a lungul întinderii nordice a golfului. Încheiați-vă ziua cu o seară calmă și relaxantă lângă marea tropicală.",
         "en": "Start your walking tour in the heart of the island at Happy House for a relaxed morning. Next, head northwest to the peaceful shores of Ao Khao Kwai South. As midday approaches, discover the unique rock arch of Hin Talu and nearby quiet beaches. Spend your afternoon strolling along the northern stretch of the bay, soaking up the tropical sun. Conclude your day with a calm evening by the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Dach des Happy House, während der Regen auf die Tropenwälder prasselt. Mittags bietet die Bucht von Ao Khao Kwai einen mystischen Anblick im Nebel. Am Nachmittag trotzen wir den Wellen am Hin Talu Bogen. Der Abend klingt an der Nordküste aus, wo die Fischerhütten gemütlichen Unterschlupf vor dem warmen Monsunregen bieten.",
+            "hu": "A reggel a Happy House védelmező eresze alatt indul, miközben a trópusi eső dobol a leveleken. Délben az Ao Khao Kwai öböl ködös, misztikus arcát mutatja. Délután a Hin Talu sziklakapu alatt keresünk menedéket a hullámok elől. Az estét az északi parton zárjuk, ahol a parti bárok fedett teraszai meleg menedéket nyújtanak a zivatarban.",
+            "ro": "Dimineața începe sub acoperișul primitor de la Happy House, în timp ce ploaia tropicală bate în frunze. La prânz, golful Ao Khao Kwai oferă o priveliște mistică prin ceață. După-amiaza explorăm Hin Talu sub protecția stâncilor. Seara se încheie pe plaja de nord, unde terasele acoperite oferă un refugiu cald împotriva ploii musonice.",
+            "en": "Morning starts under the protective porch of Happy House as tropical rain drums on the leaves. At noon, Ao Khao Kwai Bay reveals a mystic side through the mist. Afternoon is spent at the Hin Talu arch, watching the dramatic waves. The evening concludes at the north coast, where beach bars provide a dry sanctuary against the warm monsoon rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Happy House",
+                "hu": "Happy House",
+                "ro": "Happy House",
+                "en": "Happy House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachte Veranda, um den ersten Guss abzuwarten; wasserfeste Trekkingsandalen sind ideal für den schlammigen Boden.",
+                "hu": "Használd a fedett verandát az első zápor kivárásához; a sár miatt a vízálló túraszandál a legpraktikusabb választás itt.",
+                "ro": "Folosiți veranda acoperită pentru a aștepta trecerea primei averse; sandalele de trekking impermeabile sunt ideale pentru solul noroios.",
+                "en": "Use the covered veranda to wait out the first downpour; waterproof trekking sandals are ideal for the muddy ground here."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Khao Kwai Beach (South)",
+                "hu": "Ao Khao Kwai Beach (South)",
+                "ro": "Ao Khao Kwai Beach (South)",
+                "en": "Ao Khao Kwai Beach (South)"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt bei Regen besonders dramatisch; schützen Sie Ihre Kamera in einem Dry-Bag vor der hohen Luftfeuchtigkeit.",
+                "hu": "Az öböl esőben különösen drámai látványt nyújt; érdemes száraz zsákot használni az elektronikai eszközök védelmére a pára ellen.",
+                "ro": "Golful arată dramatic în timpul ploii; protejați-vă aparatul foto într-un dry-bag împotriva umidității ridicate de pe mal.",
+                "en": "The bay looks particularly dramatic in the rain; keep your camera in a dry-bag to protect it from the high humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Hin Talu",
+                "hu": "Hin Talu",
+                "ro": "Hin Talu",
+                "en": "Hin Talu"
+              },
+              "tip_5lang": {
+                "de": "Der natürliche Felsbogen bietet zwar Schutz, aber die Steine sind extrem rutschig; treten Sie vorsichtig auf und meiden Sie Algen.",
+                "hu": "A természetes sziklakapu védelmet nyújt az eső elől, de a kövek csúszósak; lépkedj óvatosan és kerüld az algás részeket.",
+                "ro": "Arcul natural de stâncă oferă adăpost, dar pietrele sunt extrem de alunecoase; pășiți cu grijă și evitați zonele cu alge.",
+                "en": "The natural rock arch provides shelter from rain, but the stones are extremely slippery; step carefully and avoid algae patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Nudist Beach",
+                "hu": "Nudist Beach",
+                "ro": "Nudist Beach",
+                "en": "Nudist Beach"
+              },
+              "tip_5lang": {
+                "de": "Diese abgelegene Stelle bietet wenig Schutz; bei starkem Wind sollten Sie sich eher im landeinwärts gelegenen Gebüsch unterstellen.",
+                "hu": "Ez az eldugott hely kevés menedéket nyújt; erős szél esetén inkább a beljebb lévő bozótos sűrűjében keress szélvédett pontot.",
+                "ro": "Acest loc izolat oferă puțin adăpost; în caz de vânt puternic, căutați refugiu în vegetația mai densă dinspre interiorul insulei.",
+                "en": "This secluded spot offers little shelter; in case of strong wind, look for cover in the denser bushes further inland."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Khao Kwai Beach (North)",
+                "hu": "Ao Khao Kwai Beach (North)",
+                "ro": "Ao Khao Kwai Beach (North)",
+                "en": "Ao Khao Kwai Beach (North)"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in einem der Strandbungalows; die Regenponchos der Einheimischen sind hier effektiver als jeder Schirm.",
+                "hu": "Zárd a napot a parti bungalók egyikében; a helyi esőponcsók itt sokkal többet érnek, mint bármilyen hagyományos esernyő.",
+                "ro": "Încheiați ziua într-unul dintre bungalourile de pe plajă; pelerinele locale de ploaie sunt mai eficiente aici decât orice umbrelă.",
+                "en": "End the day in one of the beach bungalows; local rain ponchos are far more effective here than any standard umbrella."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen auf Ko Phayam lädt zum Wandern ein. Mittags genießen wir die milde Sonne an der Ao Khao Kwai Bucht, ohne die extreme Sommerhitze. Der Nachmittag gehört den goldenen Felsen von Hin Talu. Da die Sonne bereits gegen 17:00 Uhr hinter dem Horizont verschwindet, suchen wir uns früh ein gemütliches Plätzchen für den kühlen Abendwind.",
+            "hu": "A friss téli reggel Ko Phayamon tökéletes a gyalogláshoz. Délben az Ao Khao Kwai öbölben élvezzük a lágy napsütést a tikkasztó hőség nélkül. A délután a Hin Talu aranybarna szikláié. Mivel a nap már 17:00 körül nyugodni kezd, korán keressünk egy védett helyet az estére felerősödő hűvös tengeri szél elől.",
+            "ro": "O dimineață răcoroasă de iarnă în Ko Phayam este perfectă pentru drumeții. La prânz, ne bucurăm de soarele blând în golful Ao Khao Kwai, fără căldura extremă. După-amiaza aparține stâncilor aurii de la Hin Talu. Deoarece soarele apune deja în jur de ora 17:00, căutăm devreme un loc ferit de vântul serii.",
+            "en": "A crisp winter morning on Ko Phayam is perfect for hiking. At noon, enjoy the mild sun at Ao Khao Kwai Bay without the sweltering heat. Afternoon belongs to the golden rocks of Hin Talu. As the sun sets around 17:00, find a cozy spot early to stay protected from the cooling evening sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Happy House",
+                "hu": "Happy House",
+                "ro": "Happy House",
+                "en": "Happy House"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, um die kühle Morgenluft zu nutzen; eine leichte Strickjacke schützt Sie vor der frischen Brise im Schatten.",
+                "hu": "Indulj korán, hogy kihasználd a hűvös reggeli levegőt; egy vékony kardigán jól jön az árnyékos részeken a friss szélben.",
+                "ro": "Porniți devreme pentru a profita de aerul răcoros al dimineții; un cardigan subțire vă va proteja de briza rece la umbră.",
+                "en": "Start early to take advantage of the cool morning air; a light cardigan helps in shaded areas against the fresh breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Khao Kwai Beach (South)",
+                "hu": "Ao Khao Kwai Beach (South)",
+                "ro": "Ao Khao Kwai Beach (South)",
+                "en": "Ao Khao Kwai Beach (South)"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter kristallklar; die milderen Temperaturen machen den langen Strandspaziergang besonders angenehm.",
+                "hu": "A víz télen kristálytiszta; a mérsékeltebb hőmérséklet miatt a hosszú tengerparti séta most kifejezetten pihentető és kellemes.",
+                "ro": "Apa este cristalină în timpul iernii; temperaturile mai blânde fac plimbarea lungă pe plajă deosebit de plăcută și relaxantă.",
+                "en": "The water is crystal clear in winter; milder temperatures make the long beach stroll exceptionally pleasant and relaxing."
+              }
+            },
+            {
+              "name": {
+                "de": "Hin Talu",
+                "hu": "Hin Talu",
+                "ro": "Hin Talu",
+                "en": "Hin Talu"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16 Uhr, da der tiefe Sonnenstand lange Schatten wirft; die Felsen speichern die letzte Tageswärme.",
+                "hu": "Látogass el ide délután 4 előtt, mert az alacsony napállás miatt gyorsan nőnek az árnyékok; a sziklák jól tárolják a nap melegét.",
+                "ro": "Vizitați acest loc înainte de ora 16, deoarece soarele jos creează umbre lungi; stâncile păstrează bine ultima căldură a zilei.",
+                "en": "Visit before 4 PM as the low sun creates long shadows quickly; the rocks retain the last warmth of the day beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Nudist Beach",
+                "hu": "Nudist Beach",
+                "ro": "Nudist Beach",
+                "en": "Nudist Beach"
+              },
+              "tip_5lang": {
+                "de": "Die geringe Luftfeuchtigkeit macht den Aufstieg leichter; bringen Sie trotzdem genug Wasser mit, da die Wintersonne täuscht.",
+                "hu": "Az alacsony páratartalom miatt könnyebb a túra; de ne felejts el vizet vinni, mert a téli napsütés ereje csalóka lehet.",
+                "ro": "Umiditatea scăzută face urcarea mai ușoară; totuși, aduceți destulă apă, deoarece puterea soarelui de iarnă poate fi înșelătoare.",
+                "en": "The low humidity makes the hike easier; still, bring plenty of water as the winter sun's strength can be deceiving."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Khao Kwai Beach (North)",
+                "hu": "Ao Khao Kwai Beach (North)",
+                "ro": "Ao Khao Kwai Beach (North)",
+                "en": "Ao Khao Kwai Beach (North)"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang beginnt bereits um 17 Uhr; suchen Sie sich rechtzeitig einen windgeschützten Platz für das Abendessen.",
+                "hu": "A naplemente már délután 5-kor elkezdődik; keress időben egy szélvédett helyet a vacsorához a hűvösödő esti partfalnál.",
+                "ro": "Apusul începe deja la ora 17:00; căutați din timp un loc ferit de vânt pentru cină pe măsură ce seara devine răcoroasă.",
+                "en": "Sunset starts as early as 5 PM; find a wind-sheltered spot for dinner in time as the evening air cools down quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpáros utazását a lenyűgöző Tengeri Templomnál a reggeli fényekben. Guruljon el a központi móló mellett, és ebéd előtt élvezze a csendes keleti strandok sorát. Délután pedálozzon le a híres Ao Yai Beach-re, élvezve a hatalmas homokos partszakaszt. Fejezze be a napot a Tree Beach Resortban pihenve egy trópusi itallal a kezében, miközben a lemenő napot figyeli.",
         "ro": "Începeți călătoria cu bicicleta la uimitorul Templu din Mare în lumina dimineții. Treceți pe lângă debarcader și bucurați-vă de plajele estice înainte de prânz. După-amiaza, pedalați până la faimoasa plajă Ao Yai, bucurându-vă de întinderea vastă de nisip. Încheiați ziua relaxându-vă la Tree Beach Resort cu o băutură tropicală în mână, ascultând valurile oceanului.",
         "en": "Kick off your cycling journey at the stunning Temple in the Sea as the morning light hits the water. Roll past the central pier and enjoy a sequence of serene eastern beaches before lunch. In the afternoon, pedal your way down to the famous Ao Yai Beach, taking in the vast expanse of sand and surf. End the day relaxing at the Tree Beach Resort with a tropical drink in hand."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig zum Bot Klang Thale Tempel, der im Regen fast mystisch über dem Meer schwebt. Mittags bietet der Muelle-Kai eine kurze Pause unter dem Vordach. Der Nachmittag führt uns an die wilden Strände im Westen. Trotz nasser Straßen genießen wir die Kühle, bis wir uns abends im Tree Beach Resort in die trockenen Kissen fallen lassen.",
+            "hu": "Reggel óvatosan tekerünk a Bot Klang Thale templomhoz, amely az esőben szinte misztikusan lebeg a víz felett. Délben a kikötő mólójának eresze alatt pihenünk meg. A délután a nyugati part vad hullámaié. A vizes utak ellenére élvezzük a hűvöset, amíg este a Tree Beach Resort fedett teraszán meg nem pihenünk.",
+            "ro": "Dimineața pedalăm cu grijă spre templul Bot Klang Thale, care pare să plutească mistic deasupra apei prin ploaie. La prânz, debarcaderul oferă un scurt popas sub acoperiș. După-amiaza aparține valurilor sălbatice din vest. În ciuda drumurilor ude, ne bucurăm de răcoare până la odihna de seară la Tree Beach Resort.",
+            "en": "Morning starts with a careful ride to Bot Klang Thale temple, floating mystically over the water in the rain. Noon brings a brief rest under the pier's roof at Muelle. Afternoon is for the wild waves of the west coast. Despite wet roads, we enjoy the cool air until resting at the covered Tree Beach Resort in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bot Klang Thale",
+                "hu": "Bot Klang Thale",
+                "ro": "Bot Klang Thale",
+                "en": "Bot Klang Thale"
+              },
+              "tip_5lang": {
+                "de": "Die Fliesen des schwimmenden Tempels sind bei Nässe extrem rutschig; lassen Sie die Schuhe am Eingang, aber gehen Sie sehr achtsam.",
+                "hu": "A lebegő templom padlólapjai esőben rendkívül csúszósak; hagyd a cipődet a bejáratnál, de haladj nagyon óvatosan bent.",
+                "ro": "Plăcile templului plutitor sunt extrem de alunecoase când sunt ude; lăsați încălțămintea la intrare, dar pășiți cu mare atenție.",
+                "en": "The tiles of the floating temple are extremely slippery when wet; leave your shoes at the entrance but walk very carefully inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Muelle",
+                "hu": "Muelle",
+                "ro": "Muelle",
+                "en": "Muelle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Betonpier auf tiefe Pfützen; parken Sie das Fahrrad unter den Verkaufsständen, um den Sattel trocken zu halten.",
+                "hu": "Vigyázz a mély tócsákra a betonmólón; a biciklit parkold az árusok bódéi alá, hogy az ülés száraz maradjon a következő szakaszig.",
+                "ro": "Atenție la bălțile adânci de pe debarcaderul de beton; parcați bicicleta sub tarabele vânzătorilor pentru a păstra șaua uscată.",
+                "en": "Watch out for deep puddles on the concrete pier; park your bike under the vendor stalls to keep the seat dry for the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Chedi Loi Nam Beach",
+                "hu": "Chedi Loi Nam Beach",
+                "ro": "Chedi Loi Nam Beach",
+                "en": "Chedi Loi Nam Beach"
+              },
+              "tip_5lang": {
+                "de": "Der graue Himmel verleiht dem Tempel eine feierliche Aura; ein wasserfester Poncho schützt Sie vor der salzigen Gischt und dem Regen.",
+                "hu": "A szürke égbolt ünnepélyes hangulatot ad a templomnak; egy vízálló poncsó megvéd a sós permettől és a hideg esőtől is.",
+                "ro": "Cerul gri oferă templului o aură solemnă; o pelerină impermeabilă vă protejează de spray-ul sărat al mării și de ploaie.",
+                "en": "The grey sky gives the temple a solemn aura; a waterproof poncho protects you from both the salty sea spray and the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Mae Mai Beach",
+                "hu": "Ao Mae Mai Beach",
+                "ro": "Ao Mae Mai Beach",
+                "en": "Ao Mae Mai Beach"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Wege zum Strand können aufgeweicht sein; fahren Sie langsam, um Schlammspritzer auf Ihrer Kleidung zu vermeiden.",
+                "hu": "A strandra vezető keskeny utak felázhatnak; haladj lassabban, hogy elkerüld a sárfelverődést a ruhádra tekerés közben.",
+                "ro": "Potecile înguste spre plajă pot fi noroioase; pedalați încet pentru a evita stropirea hainelor cu noroi în timpul deplasării.",
+                "en": "The narrow paths to the beach can be soggy; ride slowly to avoid mud splashes on your clothes while cycling between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Muk Beach",
+                "hu": "Ao Muk Beach",
+                "ro": "Ao Muk Beach",
+                "en": "Ao Muk Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Mangrovenwälder wirken bei Regen besonders grün und lebendig; prüfen Sie Ihre Bremsen, bevor Sie die nassen Gefälle befahren.",
+                "hu": "A mangrovék esőben különösen zöldek és élettel telik; ellenőrizd a fékeket, mielőtt nekivágnál a vizes lejtőknek a parton.",
+                "ro": "Mangrovele par deosebit de verzi și vii în timpul ploii; verificați frânele înainte de a coborî pantele ude spre țărm.",
+                "en": "The mangroves look especially green and vibrant in the rain; check your brakes before tackling the wet slopes to the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Yai Beach",
+                "hu": "Ao Yai Beach",
+                "ro": "Ao Yai Beach",
+                "en": "Ao Yai Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Brandung ist bei Monsunregen massiv und beeindruckend; bleiben Sie mit dem Fahrrad auf den befestigten Pfaden hinter der Düne.",
+                "hu": "A hullámverés hatalmas és lenyűgöző monszun idején; maradj a biciklivel a dűnék mögötti kövezett utakon a biztonság kedvéért.",
+                "ro": "Valurile sunt masive și impresionante în timpul musonului; rămâneți cu bicicleta pe potecile pavate din spatele dunelor.",
+                "en": "The surf is massive and impressive during monsoon rain; stay with your bike on the paved paths behind the dunes for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Tree Beach Resort",
+                "hu": "Tree Beach Resort",
+                "ro": "Tree Beach Resort",
+                "en": "Tree Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Lounge-Bereich, um den Tag Revue passieren zu lassen; warme Getränke helfen gegen die feuchte Kälte.",
+                "hu": "Használd a fedett közösségi teret a nap lezárásához; a meleg italok segítenek elűzni a nedves hűvösség érzetét az eső után.",
+                "ro": "Folosiți zona de lounge acoperită pentru a reflecta asupra zilei; băuturile calde ajută la alungarea senzației de umezeală.",
+                "en": "Use the covered lounge area to wrap up your day; warm drinks help chase away the damp chill after a rainy ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Winterbrise macht das Radfahren auf Ko Phayam zum Vergnügen. Morgens besuchen wir den Tempel bei strahlend blauem Himmel. Mittags bietet der Muelle-Pier perfekte Fotomotive ohne Hitzeflimmern. Der Nachmittag führt uns zu den einsamen Buchten im Süden. Wegen des frühen Sonnenuntergangs um 17:00 Uhr radeln wir rechtzeitig zum Resort zurück, bevor die Luft spürbar abkühlt.",
+            "hu": "A hűvös téli szellő élménnyé teszi a biciklizést Ko Phayamon. Reggel a templomot látogatjuk meg ragyogó kék ég alatt. Délben a kikötő tökéletes fotótémákat kínál hőségpára nélkül. A délután a déli öblök felfedezéséé. A korai, 17:00-ás naplemente miatt időben visszatekerünk a szállásra, mielőtt a levegő lehűlne.",
+            "ro": "Briza răcoroasă de iarnă face pedalatul în Ko Phayam o plăcere. Dimineața vizităm templul sub un cer albastru senin. La prânz, debarcaderul oferă oportunități foto perfecte. După-amiaza explorăm golfurile din sud. Din cauza apusului devreme de la ora 17:00, revenim la resort înainte ca aerul să se răcească brusc.",
+            "en": "The cool winter breeze makes cycling on Ko Phayam a true joy. In the morning, visit the temple under brilliant blue skies. Noon offers perfect photo ops at the pier without the heat haze. Afternoon is for exploring southern bays. Due to the early 5 PM sunset, we cycle back early before the air temperature drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bot Klang Thale",
+                "hu": "Bot Klang Thale",
+                "ro": "Bot Klang Thale",
+                "en": "Bot Klang Thale"
+              },
+              "tip_5lang": {
+                "de": "Das Morgenlicht auf dem weißen Tempel ist im Winter besonders klar; die kühle Meeresbrise macht den Aufenthalt sehr angenehm.",
+                "hu": "A fehér templomra eső reggeli fény télen különösen tiszta; a hűvös tengeri szellő miatt most a legkellemesebb itt időzni.",
+                "ro": "Lumina dimineții pe templul alb este deosebit de clară iarna; briza răcoroasă a mării face șederea foarte plăcută.",
+                "en": "The morning light on the white temple is exceptionally clear in winter; the cool sea breeze makes staying here very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Muelle",
+                "hu": "Muelle",
+                "ro": "Muelle",
+                "en": "Muelle"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Zeit für Fotos vom geschäftigen Treiben am Kai; tragen Sie eine Sonnenbrille, da die Wintersonne tief über dem Meer steht.",
+                "hu": "Tökéletes időpont a kikötői nyüzsgés fotózásához; viselj napszemüveget, mert a téli nap alacsonyan jár a víz felett.",
+                "ro": "Moment perfect pentru a fotografia agitația de pe debarcader; purtați ochelari de soare, deoarece soarele de iarnă este jos.",
+                "en": "Perfect time for photos of the pier's bustle; wear sunglasses as the winter sun hangs low over the shimmering water."
+              }
+            },
+            {
+              "name": {
+                "de": "Chedi Loi Nam Beach",
+                "hu": "Chedi Loi Nam Beach",
+                "ro": "Chedi Loi Nam Beach",
+                "en": "Chedi Loi Nam Beach"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Wintermeer lädt zum Verweilen ein; die Temperaturen sind ideal, um das Fahrrad am Strand stehen zu lassen und zu spazieren.",
+                "hu": "A nyugodt téli tenger hívogató; a hőmérséklet ideális ahhoz, hogy a biciklit a parton hagyva tegyél egy nagyobb sétát.",
+                "ro": "Marea liniștită de iarnă vă invită la relaxare; temperaturile sunt ideale pentru a lăsa bicicleta și a vă plimba pe plajă.",
+                "en": "The calm winter sea is inviting; temperatures are ideal for leaving your bike on the shore and taking a longer walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Mae Mai Beach",
+                "hu": "Ao Mae Mai Beach",
+                "ro": "Ao Mae Mai Beach",
+                "en": "Ao Mae Mai Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Luftfeuchtigkeit ist niedrig, was die Radtour weniger anstrengend macht; genießen Sie die Sonne, solange sie mittags hoch steht.",
+                "hu": "A páratartalom alacsony, így a tekerés kevésbé fárasztó; élvezd a napsütést, amíg délben még magasan jár a horizont felett.",
+                "ro": "Umiditatea este scăzută, ceea ce face pedalatul mai puțin obositor; bucurați-vă de soare cât timp este sus pe cer la prânz.",
+                "en": "Humidity is low, making the ride less exhausting; enjoy the sunshine while it is still high in the sky during midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Muk Beach",
+                "hu": "Ao Muk Beach",
+                "ro": "Ao Muk Beach",
+                "en": "Ao Muk Beach"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die schattigen Pfade hinter dem Strand; eine leichte Windjacke schützt Sie bei der Fahrt durch die kühleren Mangroven.",
+                "hu": "Fedezd fel a part mögötti árnyas ösvényeket; egy vékony szélkabát jól jön, amikor a hűvösebb mangrove erdőkön tekersz át.",
+                "ro": "Explorați potecile umbrite din spatele plajeji; o jachetă ușoară vă protejează în timp ce pedalați prin mangrovele răcoroase.",
+                "en": "Explore the shaded paths behind the beach; a light windbreaker is useful when cycling through the cooler mangrove areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Yai Beach",
+                "hu": "Ao Yai Beach",
+                "ro": "Ao Yai Beach",
+                "en": "Ao Yai Beach"
+              },
+              "tip_5lang": {
+                "de": "Der weitläufige Strand ist im Winter fest und ideal zum Befahren; beachten Sie, dass das Licht bereits ab 16:30 Uhr golden wird.",
+                "hu": "A hatalmas strand homokja télen kemény és ideális a tekeréshez; figyelj rá, hogy a fények már délután fél 5-től aranyszínűre váltanak.",
+                "ro": "Nisipul plajei întinse este tare și ideal pentru bicicletă iarna; rețineți că lumina devine aurie încă de la ora 16:30.",
+                "en": "The vast beach sand is firm and ideal for cycling in winter; note that the light turns golden as early as 4:30 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Tree Beach Resort",
+                "hu": "Tree Beach Resort",
+                "ro": "Tree Beach Resort",
+                "en": "Tree Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz für den frühen Sonnenuntergang; nach 17:30 Uhr benötigen Sie eine zusätzliche Schicht Kleidung gegen die Kühle.",
+                "hu": "Keress helyet a korai naplementéhez; fél 6 után már szükséged lesz egy plusz réteg ruhára a hűvös tengeri levegő ellen.",
+                "ro": "Găsiți un loc pentru apusul devreme; după ora 17:30 veți avea nevoie de un strat suplimentar de haine împotriva răcorii.",
+                "en": "Find a spot for the early sunset; after 5:30 PM, you will need an extra layer of clothing against the cooling sea air."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Fedezze fel Ko Phayamot, kezdve az Ao Hin Khao zord északi öblénél. Cirkáljon le a Buffalo-öbölbe, és álljon meg a Hin Talu szikláknál déli felfedezésre. Délután haladjon a festői utakon az Ao Yai Beach hatalmas partjaihoz napozni és szörfözni. Fejezze be szigeti körútját a legdélibb csücsökben, átölelve a naturista hely érintetlen, vad természetét a lemenő napfényben.",
         "ro": "Explorați insula Ko Phayam, începând de la golful nordic accidentat Ao Hin Khao. Mergeți cu scuterul până la Buffalo Bay și opriți-vă la stâncile Hin Talu la amiază. După-amiaza, parcurgeți potecile pitorești până la țărmurile din Ao Yai Beach pentru soare și plajă. Încheiați excursia rutieră la extremitatea sudică, îmbrățișând natura neîmblânzită și complet sălbatică.",
         "en": "Explore the full scope of Ko Phayam starting at the rugged northern bay of Ao Hin Khao. Cruise down to Buffalo Bay and stop by the iconic Hin Talu rocks for midday exploration. In the afternoon, ride the scenic paths down to the sweeping shores of Ao Yai Beach for sun and surf. Conclude your island road trip at the very southern tip, embracing the untamed nature of the nudist spot."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Taxi oder Golfwagen erkunden wir sicher die Insel im Regen. Morgens fasziniert die dramatische Küste von Ao Hin Khao. Mittags beobachten wir die Tropenschauer von den überdachten Rastplätzen im Norden. Nachmittags besuchen wir die Felsböden von Hin Talu, bevor wir uns abends an einen geschützten Ort im Süden zurückziehen, während der Regen auf das Wagendach trommelt.",
+            "hu": "Taxival vagy golfkocsival biztonságosan fedezzük fel a szigetet esőben is. Reggel Ao Hin Khao drámai partvonala nyűgöz le minket. Délben az északi pihenőhelyek teteje alól figyeljük a trópusi záport. Délután Hin Talu szikláit látogatjuk meg, majd este egy védett déli pontra vonulunk vissza, miközben az eső kopog a kocsi tetején.",
+            "ro": "Explorăm insula în siguranță cu taxiul sau mașinuța de golf chiar și pe ploaie. Dimineața, coasta dramatică de la Ao Hin Khao ne fascinează. La prânz, urmărim aversa tropicală de sub adăposturile din nord. După-amiaza vizităm stâncile Hin Talu, apoi ne retragem într-un loc ferit în sud, în sunetul ploii.",
+            "en": "We safely explore the island by taxi or golf cart even in the rain. In the morning, the dramatic coastline of Ao Hin Khao fascinates us. At noon, we watch the tropical downpour from covered northern rest areas. Afternoon is for Hin Talu's rocks, then we retreat to a sheltered southern spot as rain drums on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Hin Khao",
+                "hu": "Ao Hin Khao",
+                "ro": "Ao Hin Khao",
+                "en": "Ao Hin Khao"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die weißen Felsen direkt aus dem Fahrzeug; der Kontrast zum grauen Himmel ist ein tolles Fotomotiv.",
+                "hu": "Élvezd a fehér sziklák látványát közvetlenül a járműből; a szürke égbolttal alkotott kontraszt kiváló fotótémát nyújt.",
+                "ro": "Bucurați-vă de vederea stâncilor albe direct din vehicul; contrastul cu cerul gri oferă o oportunitate foto excelentă.",
+                "en": "Enjoy the view of the white rocks directly from the vehicle; the contrast with the grey sky provides an excellent photo op."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Khao Kwai Beach (North)",
+                "hu": "Ao Khao Kwai Beach (North)",
+                "ro": "Ao Khao Kwai Beach (North)",
+                "en": "Ao Khao Kwai Beach (North)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter den großen Bäumen nahe der Straße; der dichte Blätterwald hält den ersten Regen beim kurzen Aussteigen ab.",
+                "hu": "Parkolj az út menti nagy fák alá; a sűrű lombkorona felfogja az eső javát, amíg kiszállsz egy rövid nézelődésre.",
+                "ro": "Parcați sub copacii mari de lângă drum; coronamentul des va opri prima ploaie când coborâți pentru o scurtă vizită.",
+                "en": "Park under the large trees near the road; the dense canopy will catch the first rain when you step out for a quick look."
+              }
+            },
+            {
+              "name": {
+                "de": "Hin Talu",
+                "hu": "Hin Talu",
+                "ro": "Hin Talu",
+                "en": "Hin Talu"
+              },
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz zum Felsbogen kann schlammig sein; bleiben Sie auf den grasbewachsenen Rändern, um nicht auszurutschen.",
+                "hu": "A parkolótól a szikláig vezető út sáros lehet; maradj a füves széleken, hogy elkerüld a megcsúszást a vizes agyagon.",
+                "ro": "Drumul de la parcare la stâncă poate fi noroios; rămâneți pe marginile înierbate pentru a evita alunecarea pe solul ud.",
+                "en": "The path from the parking area to the rock can be muddy; stay on the grassy edges to avoid slipping on the wet clay."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Khao Kwai Beach (South)",
+                "hu": "Ao Khao Kwai Beach (South)",
+                "ro": "Ao Khao Kwai Beach (South)",
+                "en": "Ao Khao Kwai Beach (South)"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Fenster im Wagen nur einen Spalt offen; die hohe Luftfeuchtigkeit lässt die Scheiben im Inneren schnell beschlagen.",
+                "hu": "Csak egy résnyire hagyd nyitva a kocsi ablakát; a magas páratartalom miatt az üvegek belülről gyorsan bepárásodhatnak.",
+                "ro": "Lăsați geamurile mașinii doar puțin deschise; umiditatea ridicată va face ca geamurile să se aburească rapid la interior.",
+                "en": "Leave the vehicle windows only slightly open; high humidity will cause the glass to fog up quickly on the inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Yai Beach",
+                "hu": "Ao Yai Beach",
+                "ro": "Ao Yai Beach",
+                "en": "Ao Yai Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam am Strandweg entlang; der starke Wind kann Sand und Gischt gegen das Fahrzeug peitschen, halten Sie Abstand.",
+                "hu": "Haladj lassan a parti úton; az erős szél homokot és sós permetet verhet a járműhöz, tarts nagyobb oldaltávolságot.",
+                "ro": "Mergeți încet pe drumul de coastă; vântul puternic poate arunca nisip și spray sărat spre vehicul, păstrați distanța.",
+                "en": "Drive slowly along the coastal road; strong winds can lash sand and salt spray against the vehicle, keep your distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturist spot",
+                "hu": "Naturist spot",
+                "ro": "Naturist spot",
+                "en": "Naturist spot"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des Ortes geschützt im Wagen; das Prasseln des Regens auf das Dach hat eine sehr beruhigende Wirkung.",
+                "hu": "Élvezd a hely magányát a kocsiban ülve; az eső kopogása a tetőn nagyon megnyugtató hangulatot áraszt a nap végén.",
+                "ro": "Bucurați-vă de izolarea locului stând în mașină; sunetul ploii pe acoperiș are un efect foarte relaxant la final de zi.",
+                "en": "Enjoy the solitude of the spot from the safety of your car; the drumming of rain on the roof is very soothing at day's end."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Inseltour im offenen Wagen ist im Winter besonders angenehm. Morgens glitzert das Meer bei Ao Hin Khao in der klaren Luft. Mittags besuchen wir die nördlichen Buchten ohne die drückende Hitze. Der Nachmittag führt uns zu den ikonischen Felsformationen. Da die Sonne bereits um 17:00 Uhr untergeht, planen wir den letzten Stopp früh ein, bevor der kühle Fahrtwind spürbar wird.",
+            "hu": "A nyitott járművel tett szigettúra télen a legkellemesebb. Reggel a tenger Ao Hin Khaónál ragyog a tiszta levegőben. Délben az északi öblöket látogatjuk meg a tikkasztó hőség nélkül. A délután az ikonikus sziklaformációké. Mivel a nap már 17:00-kor nyugszik, az utolsó megállót koránra tervezzük a hűvös menetszél miatt.",
+            "ro": "Turul insulei cu un vehicul deschis este cel mai plăcut iarna. Dimineața, marea la Ao Hin Khao strălucește în aerul curat. La prânz vizităm golfurile din nord fără căldura sufocantă. După-amiaza aparține formațiunilor stâncoase iconice. Deoarece soarele apune la ora 17:00, planificăm ultima oprire devreme din cauza brizei reci.",
+            "en": "An island tour in an open vehicle is most pleasant in winter. Morning sea at Ao Hin Khao sparkles in the clear air. At noon, visit northern bays without the stifling heat. Afternoon is for the iconic rock formations. As the sun sets at 5 PM, plan the last stop early due to the cooling breeze while driving."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Hin Khao",
+                "hu": "Ao Hin Khao",
+                "ro": "Ao Hin Khao",
+                "en": "Ao Hin Khao"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die benachbarten Inseln ist im Winter am besten; die tiefstehende Sonne betont die Strukturen der weißen Felsen.",
+                "hu": "A távoli kilátás a szomszédos szigetekre télen a legtisztább; az alacsonyan járó nap kiemeli a fehér sziklák különleges erezetét.",
+                "ro": "Vizibilitatea spre insulele vecine este cea mai bună iarna; soarele jos scoate în evidență structura stâncilor albe.",
+                "en": "Visibility towards neighboring islands is best in winter; the low sun emphasizes the unique textures of the white rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Khao Kwai Beach (North)",
+                "hu": "Ao Khao Kwai Beach (North)",
+                "ro": "Ao Khao Kwai Beach (North)",
+                "en": "Ao Khao Kwai Beach (North)"
+              },
+              "tip_5lang": {
+                "de": "Ideal für ein Picknick am Wagen; die Temperaturen sind mild, aber die UV-Strahlung bleibt hoch, vergessen Sie den Sonnenschutz nicht.",
+                "hu": "Ideális helyszín egy kocsma melletti piknikhez; a hőmérséklet enyhe, de az UV-sugárzás erős marad, ne feledd a fényvédőt.",
+                "ro": "Loc ideal pentru un picnic lângă mașină; temperaturile sunt blânde, dar radiația UV rămâne ridicată, nu uitați protecția solară.",
+                "en": "Ideal spot for a picnic by the car; temperatures are mild but UV radiation remains high, don't forget your sun protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Hin Talu",
+                "hu": "Hin Talu",
+                "ro": "Hin Talu",
+                "en": "Hin Talu"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Spaziergang vom Wagen ist bei der geringen Luftfeuchtigkeit sehr angenehm; die Felsen sind im Winter trocken und griffig.",
+                "hu": "A rövid séta a kocsitól a szikláig a keringésnek is jobb az alacsony páratartalomban; a kövek télen szárazak és nem csúsznak.",
+                "ro": "Scurta plimbare de la mașină este foarte plăcută datorită umidității scăzute; stâncile sunt uscate și sigure pentru explorat iarna.",
+                "en": "The short walk from the car is very pleasant in low humidity; the rocks are dry and provide good grip for exploring in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Khao Kwai Beach (South)",
+                "hu": "Ao Khao Kwai Beach (South)",
+                "ro": "Ao Khao Kwai Beach (South)",
+                "en": "Ao Khao Kwai Beach (South)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden für ein Bad im ruhigen Meer; das Wasser speichert die Wärme besser als die nun kühlere Luft.",
+                "hu": "Használd ki a délutáni órákat egy fürdőzésre a nyugodt tengerben; a víz jobban tartja a meleget, mint az egyre hűvösebb levegő.",
+                "ro": "Profitați de orele amiezii pentru o baie în marea liniștită; apa păstrează căldura mai bine decât aerul care devine răcoros.",
+                "en": "Take advantage of the afternoon hours for a dip in the calm sea; the water retains warmth better than the cooling air."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Yai Beach",
+                "hu": "Ao Yai Beach",
+                "ro": "Ao Yai Beach",
+                "en": "Ao Yai Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang beginnt gegen 17 Uhr; parken Sie direkt am Strand, um das Farbspiel geschützt vor der Abendbrise zu genießen.",
+                "hu": "A naplemente már 5-kor indul; parkolj közvetlenül a parton, hogy az esti szellőtől védve élvezhesd a színek játékát az égen.",
+                "ro": "Apusul începe în jur de ora 17:00; parcați direct pe plajă pentru a vă bucura de culori, fiind protejați de briza serii.",
+                "en": "Sunset starts around 5 PM; park right on the beach to enjoy the colors while staying protected from the rising evening breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturist spot",
+                "hu": "Naturist spot",
+                "ro": "Naturist spot",
+                "en": "Naturist spot"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie für die Rückfahrt im offenen Wagen eine leichte Jacke mit; sobald die Sonne weg ist, kühlt es auf der Insel merklich ab.",
+                "hu": "Vigyél magaddal egy könnyű kabátot a nyitott kocsival való visszautúthoz; amint lemegy a nap, a sziget érezhetően lehűl.",
+                "ro": "Aduceți o jachetă ușoară pentru drumul de întoarcere în vehiculul deschis; imediat ce soarele apune, insula se răcește vizibil.",
+                "en": "Bring a light jacket for the return trip in the open vehicle; as soon as the sun sets, the island cools down noticeably."
+              }
+            }
+          ]
+        }
       }
     }
   }

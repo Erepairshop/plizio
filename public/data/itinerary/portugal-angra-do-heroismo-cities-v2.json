@@ -183,6 +183,224 @@
         "hu": "Kezdje a napot a történelmi Praça Velha téren, majd látogassa meg a közeli Sé katedrálist. A délelőtt folyamán fedezze fel a Főkapitányok Palotáját. Délben a Duque da Terceira Kert zöldellő árnyéka kínál felfrissülést. Délután merüljön el a helyi múzeum kiállításaiban, és csodálja meg a Misericórdia templomot. Este lazítson a bájos Prainha városi strandon, figyelve a hullámokat.",
         "ro": "Începeți ziua în istorica Praça Velha și vizitați Catedrala Sé. Dimineața vă poartă apoi către Palatul Căpitanilor Generali. La prânz, Grădina Duque da Terceira oferă o pauză verde perfectă. După-amiaza vă scufundați în istorie la Muzeul din Angra și admirați Biserica Misericórdia. Seara vă puteți relaxa pe mica plajă urbană Prainha, ascultând valurile oceanului.",
         "en": "Start your day in the historic Praça Velha before visiting the nearby Sé Cathedral. The morning continues at the impressive Palace of the Captains General. By midday, the Duque da Terceira Garden provides a lush, green retreat. Spend your afternoon diving into history at the Angra do Heroísmo Museum and the Misericórdia Church. Unwind in the evening by the calm waters of Prainha beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den schützenden Arkaden der Praça Velha. Die Kathedrale und der Palast bieten ideale, trockene Zufluchtsorte, um die reiche Geschichte zu bewundern. Am Nachmittag glänzt der botanische Garten im Regen besonders kräftig, während das Museum Sie vor schweren Güssen schützt. Der Tag endet am Hafen, wo der Nebel dem Atlantik eine mystische Atmosphäre verleiht.",
+            "hu": "Kezdje a napot a Praça Velha védett árkádjai alatt. A katedrális és a palota ideális, száraz menedéket nyújt a történelem felfedezéséhez. Délután a botanikus kert színei mélyebbek az esőben, a múzeum pedig megvédi a nagyobb záporoktól. A nap a kikötőben zárul, ahol a felszálló pára misztikus hangulatot kölcsönöz az Atlanti-óceánnak a szürke égbolt alatt.",
+            "ro": "Începeți ziua sub arcadele protectoare din Praça Velha. Catedrala și Palatul oferă refugii ideale și uscate pentru a admira istoria bogată. După-amiaza, grădina botanică strălucește intens în ploaie, în timp ce muzeul vă protejează de aversele puternice. Ziua se încheie în port, unde ceața conferă Atlanticului o atmosferă mistică sub cerul plumburiu.",
+            "en": "Start your day under the protective arcades of Praça Velha. The Cathedral and the Palace provide ideal, dry havens to admire the rich history. In the afternoon, the botanical garden glows vibrantly in the rain, while the museum shields you from heavier downpours. The day ends at the harbor, where the mist gives the Atlantic a mystical atmosphere under the grey skies."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praça Velha",
+                "hu": "Praça Velha",
+                "ro": "Praça Velha",
+                "en": "Praça Velha"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als Unterschlupf; beobachten Sie das Regenwetter bei einem Kaffee in einem der umliegenden Cafés.",
+                "hu": "Használja a városháza árkádjait menedékként; figyelje az esőt egy forró kávé mellett a tér egyik hangulatos kávézójában.",
+                "ro": "Folosiți arcadele primăriei ca adăpost; observați ploaia la o cafea caldă într-una dintre cafenelele primitoare din piață.",
+                "en": "Use the town hall arcades as shelter; watch the rainy weather over a hot coffee in one of the cozy cafes around the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Sé Kathedrale von Angra do Heroísmo",
+                "hu": "Sé katedrális (Angra do Heroísmo)",
+                "ro": "Catedrala Sé din Angra do Heroísmo",
+                "en": "Sé Cathedral of Angra do Heroísmo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die vergoldeten Holzschnitzereien im trockenen Innenraum; achten Sie auf die rutschigen Steinstufen am Kircheneingang.",
+                "hu": "Csodálja meg az aranyozott fafaragásokat a száraz belső térben; vigyázzon a templom bejáratánál lévő csúszós lépcsőkre.",
+                "ro": "Admirați sculpturile în lemn aurit în interiorul uscat; aveți grijă la treptele de piatră alunecoase de la intrarea în biserică.",
+                "en": "Admire the gilded wood carvings in the dry interior; be careful of the slippery stone steps at the church entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast der Generalkapitäne",
+                "hu": "A Főkapitányok Palotája",
+                "ro": "Palatul Căpitanilor Generali",
+                "en": "Palace of the Captains General"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufigen Innenräume bieten stundenlangen Schutz vor Regen; erkunden Sie die königlichen Säle ohne nass zu werden.",
+                "hu": "A tágas belső terek órákon át tartó védelmet nyújtanak az eső ellen; fedezze fel a királyi termeket anélkül, hogy megázna.",
+                "ro": "Spațiile interioare vaste oferă ore de protecție împotriva ploii; explorați sălile regale fără a vă uda deloc.",
+                "en": "The vast interior spaces provide hours of protection from the rain; explore the regal halls without getting wet at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Duque da Terceira Garten",
+                "hu": "Duque da Terceira Kert",
+                "ro": "Grădina Duque da Terceira",
+                "en": "Duque da Terceira Garden"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den gepflasterten Hauptwegen, um Schlamm zu vermeiden; die exotischen Pflanzen wirken im Regen besonders grün.",
+                "hu": "Maradjon a kövezett főutakon a sár elkerülése érdekében; az egzotikus növények az esőben különösen élénkzöldnek tűnnek.",
+                "ro": "Rămâneți pe aleile principale pavate pentru a evita noroiul; plantele exotice par deosebit de verzi în timpul ploii.",
+                "en": "Stay on the paved main paths to avoid mud; the exotic plants look especially vibrant green in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Angra do Heroísmo Museum",
+                "hu": "Angra do Heroísmo Múzeum",
+                "ro": "Muzeul Angra do Heroísmo",
+                "en": "Angra do Heroísmo Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort für einen starken Wolkenbruch; vertiefen Sie sich in die Seefahrtsgeschichte in den trockenen Galerien.",
+                "hu": "Ez a legjobb hely egy erős felhőszakadás idején; merüljön el a tengerészeti történelemben a száraz kiállítótermekben.",
+                "ro": "Acesta este cel mai bun loc în timpul unei averse puternice; cufundați-vă în istoria maritimă în galeriile uscate.",
+                "en": "This is the best place during a heavy downpour; immerse yourself in maritime history within the dry galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Misericórdia-Kirche",
+                "hu": "Misericórdia templom",
+                "ro": "Biserica Misericórdia",
+                "en": "Misericórdia Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den nebligen Hafen von der überdachten Veranda aus; die blauen Kacheln leuchten bei grauem Licht.",
+                "hu": "Élvezze a ködös kikötő látványát a fedett tornácról; a kék csempék különösen szépen ragyognak a szürke fényben.",
+                "ro": "Bucurați-vă de vederea portului încețoșat de pe veranda acoperită; plăcile albastre strălucesc frumos în lumina gri.",
+                "en": "Enjoy the view of the misty harbor from the covered porch; the blue tiles glow beautifully in the grey light."
+              }
+            },
+            {
+              "name": {
+                "de": "Prainha",
+                "hu": "Prainha",
+                "ro": "Prainha",
+                "en": "Prainha"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am Ufer zeigt die Kraft des Meeres; halten Sie eine windfeste Regenjacke für die Gischt bereit.",
+                "hu": "Egy rövid séta a parton megmutatja a tenger erejét; viseljen szélálló esőkabátot a sós permet ellen.",
+                "ro": "O scurtă plimbare pe mal arată puterea mării; purtați o jachetă impermeabilă rezistentă la vânt pentru stropii de apă.",
+                "en": "A short walk on the shore shows the power of the sea; wear a windproof raincoat against the salt spray."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Winterluft in den historischen Gassen. Die Vormittage sind ideal für Kirchenbesuche, die natürliche Wärme bieten. Nach einem Mittagessen im Freien, solange die Wintersonne scheint, bietet das Museum am Nachmittag einen gemütlichen Rückzugsort. Da die Sonne bereits gegen 17:00 Uhr untergeht, hüllt die Abenddämmerung die Stadt früh in ein warmes, künstliches Licht.",
+            "hu": "Élje át a friss téli levegőt a történelmi utcákon. A délelőttök ideálisak a templomlátogatáshoz, amelyek természetes meleget nyújtanak. A téli napsütésben elköltött ebéd után a múzeum délután kellemes menedéket kínál. Mivel a nap már 17:00 körül lemegy, az alkonyat korán meleg, mesterséges fénybe öltözteti a várost, tökéletes hangulatot teremtve.",
+            "ro": "Experimentați aerul proaspăt de iarnă pe străzile istorice. Diminețile sunt ideale pentru vizitarea bisericilor care oferă căldură naturală. După un prânz la soarele blând de iarnă, muzeul oferă după-amiaza un refugiu confortabil. Deoarece soarele apune deja în jurul orei 17:00, amurgul îmbracă orașul devreme într-o lumină caldă și primitoare.",
+            "en": "Experience the fresh winter air in the historic streets. Mornings are ideal for visiting churches that offer natural warmth. After a lunch in the mild winter sun, the museum provides a cozy retreat in the afternoon. Since the sun sets around 17:00, the twilight covers the city early in a warm, artificial glow, creating a perfect atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praça Velha",
+                "hu": "Praça Velha",
+                "ro": "Praça Velha",
+                "en": "Praça Velha"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Morgenatmosphäre ohne die Sommerhitze; die Cafés servieren lokale Spezialitäten zum Aufwärmen.",
+                "hu": "Élvezze a nyugodt reggeli hangulatot a nyári hőség nélkül; a kávézók helyi különlegességeket kínálnak a felmelegedéshez.",
+                "ro": "Bucurați-vă de atmosfera liniștită de dimineață fără canicula verii; cafenelele servesc specialități locale pentru încălzire.",
+                "en": "Enjoy the calm morning atmosphere without the summer heat; the cafes serve local specialties to warm you up."
+              }
+            },
+            {
+              "name": {
+                "de": "Sé Kathedrale von Angra do Heroísmo",
+                "hu": "Sé katedrális (Angra do Heroísmo)",
+                "ro": "Catedrala Sé din Angra do Heroísmo",
+                "en": "Sé Cathedral of Angra do Heroísmo"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Restwärme; ein friedlicher Ort, um dem kühlen Winterwind für einen Moment zu entkommen.",
+                "hu": "A vastag falak megtartják a belső meleget; békés hely, ahol egy pillanatra elmenekülhet a hűvös téli szél elől.",
+                "ro": "Zidurile groase rețin căldura interioară; un loc liniștit pentru a scăpa pentru o clipă de vântul rece de iarnă.",
+                "en": "The thick walls retain the interior warmth; a peaceful place to escape the cool winter wind for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast der Generalkapitäne",
+                "hu": "A Főkapitányok Palotája",
+                "ro": "Palatul Căpitanilor Generali",
+                "en": "Palace of the Captains General"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht für die Besichtigung der Prunkräume; im Winter ist der Palast weniger überlaufen und sehr intim.",
+                "hu": "Használja ki a nappali fényt a dísztermek megtekintéséhez; télen a palota kevésbé zsúfolt és meghittebb élményt nyújt.",
+                "ro": "Profită de lumina zilei pentru a vizita sălile de gală; iarna palatul este mai puțin aglomerat și oferă o experiență intimă.",
+                "en": "Take advantage of the daylight to visit the state rooms; in winter, the palace is less crowded and offers an intimate experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Duque da Terceira Garten",
+                "hu": "Duque da Terceira Kert",
+                "ro": "Grădina Duque da Terceira",
+                "en": "Duque da Terceira Garden"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Garten zur Mittagszeit für das meiste Licht; viele Pflanzen blühen auch im milden azoreanischen Winter.",
+                "hu": "Látogasson el a kertbe délidőben a legtöbb fényért; sok növény az enyhe azori téli időben is virágzik.",
+                "ro": "Vizitați grădina la prânz pentru cea mai multă lumină; multe plante înfloresc chiar și în iarna blândă a Azorelor.",
+                "en": "Visit the garden at noon for the most light; many plants bloom even in the mild Azorean winter weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Angra do Heroísmo Museum",
+                "hu": "Angra do Heroísmo Múzeum",
+                "ro": "Muzeul Angra do Heroísmo",
+                "en": "Angra do Heroísmo Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den späten Nachmittag; die Ausstellungen halten Sie warm, während es draußen langsam abkühlt.",
+                "hu": "Tökéletes hely a késő délutáni órákban; a kiállítások melegen tartják, miközben kint lassan hűlni kezd az idő.",
+                "ro": "Locul perfect pentru orele târzii ale după-amiezii; expozițiile vă țin de cald în timp ce afară începe să se răcească.",
+                "en": "The perfect place for the late afternoon hours; the exhibits keep you warm while it slowly starts to cool down outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Misericórdia-Kirche",
+                "hu": "Misericórdia templom",
+                "ro": "Biserica Misericórdia",
+                "en": "Misericórdia Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade im klaren Winterlicht; der Innenraum ist klein, aber sehr einladend und windgeschützt.",
+                "hu": "Csodálja meg a homlokzatot a tiszta téli fényben; a belső tér kicsi, de nagyon hívogató és védett a széltől.",
+                "ro": "Admirați fațada în lumina clară de iarnă; interiorul este mic, dar foarte primitor și protejat de vânt.",
+                "en": "Admire the facade in the clear winter light; the interior is small but very inviting and protected from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Prainha",
+                "hu": "Prainha",
+                "ro": "Prainha",
+                "en": "Prainha"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang um 17:00 Uhr am Strand; die frische Meeresluft ist belebend, ziehen Sie sich warm an.",
+                "hu": "Élje át az 17:00 órai naplementét a tengerparton; a friss tengeri levegő élénkítő, de öltözzön fel melegen.",
+                "ro": "Experimentați apusul de la ora 17:00 pe plajă; aerul proaspăt de mare este revigorant, dar îmbrăcați-vă gros.",
+                "en": "Experience the 17:00 sunset at the beach; the fresh sea air is invigorating, but be sure to dress warmly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Induljon a város szívéből, a Praça Velháról, és tekerjen el a történelmi katedrálishoz. Ezután az út a Hospital da Boa Novához vezet. Délben érje el az impozáns São João Baptista erődöt. Délután kerekezzen fel a Monte Brasilra a látványos kilátásért. Az estét töltse pihenéssel és frissítő fürdőzéssel a Silveira mélytengeri medencéjében.",
         "ro": "Începeți în inima orașului, în Praça Velha, și pedalați către Catedrala Sé, apoi către Spitalul Boa Nova. La prânz veți ajunge la impozantul Fort São João Baptista. După-amiaza este rezervată urcării pe Monte Brasil pentru priveliști spectaculoase. Seara se încheie cu o baie revigorantă în piscina oceanică adâncă din zona Silveira.",
         "en": "Begin in the heart of the city at Praça Velha and pedal to the majestic Sé Cathedral, then on to the Hospital da Boa Nova. By midday, you'll reach the imposing Fort of São João Baptista. The afternoon features an energetic ride up Monte Brasil for sweeping views. Finish your active day with a refreshing ocean swim at the deep waters of Silveira."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem Kopfsteinpflaster von Angra. Starten Sie an der Praça Velha und fahren Sie vorsichtig zum Fort, wo die Festungsmauern Schutz bieten. Die Steigung zum Monte Brasil ist anstrengend, aber die Bäume spenden etwas Schirm. Beenden Sie die Tour an der Küste, wo die stürmische See ein beeindruckendes Schauspiel bietet.",
+            "hu": "Az esős biciklizés óvatosságot igényel Angra macskakövein. Kezdjen a Praça Velhánál, majd tekerjen az erődhöz, ahol a vastag falak védelmet nyújtanak. A Monte Brasil emelkedője nehéz, de a fák némi fedezéket adnak. Zárja a túrát a parton, ahol a viharos tenger látványa lenyűgöző élményt nyújt a frissítő esőben.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe pavajul din Angra. Începeți la Praça Velha, apoi pedalați spre fortăreață, unde zidurile groase oferă protecție. Urcarea pe Monte Brasil este grea, dar copacii oferă puțin adăpost. Încheiați turul pe coastă, unde vederea mării învolburate este o experiență uluitoare în ploaia revigorantă.",
+            "en": "A bike ride in the rain requires caution on Angra's cobblestones. Start at Praça Velha and pedal carefully to the fort, where the thick walls offer protection. The climb up Monte Brasil is challenging, but the trees provide some cover. End the tour at the coast, where the sight of the stormy sea is a breathtaking experience in the refreshing rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praça Velha",
+                "hu": "Praça Velha",
+                "ro": "Praça Velha",
+                "en": "Praça Velha"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start; das nasse Kopfsteinpflaster auf dem Platz kann sehr rutschig sein.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; a téren lévő nedves macskakő nagyon csúszós lehet az esőben.",
+                "ro": "Verificați frânele înainte de plecare; pavajul umed din piață poate fi foarte alunecos pe ploaie.",
+                "en": "Check your brakes before starting; the wet cobblestones in the square can be very slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sé Kathedrale von Angra do Heroísmo",
+                "hu": "Sé katedrális (Angra do Heroísmo)",
+                "ro": "Catedrala Sé din Angra do Heroísmo",
+                "en": "Sé Cathedral of Angra do Heroísmo"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einen Vorsprung und nutzen Sie die Kirche für eine kurze, trockene Pause.",
+                "hu": "Támassza le a biciklit egy eresz alá, és használja a templomot egy rövid, száraz pihenőre.",
+                "ro": "Parcați bicicleta sub o streașină și folosiți biserica pentru o scurtă pauză uscată.",
+                "en": "Park your bike under an overhang and use the church for a short, dry break."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospital da Boa Nova",
+                "hu": "Hospital da Boa Nova",
+                "ro": "Spitalul Boa Nova",
+                "en": "Hospital da Boa Nova"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort bietet eine gute Gelegenheit, drinnen zu verweilen, während ein schwerer Schauer vorbeizieht.",
+                "hu": "Ez a hely jó lehetőséget kínál a benti tartózkodásra, amíg egy nehezebb zápor elvonul a környékről.",
+                "ro": "Acest loc oferă o oportunitate bună de a sta în interior până când trece o aversă mai grea prin zonă.",
+                "en": "This place offers a good opportunity to stay inside until a heavier shower passes through the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort von São João Baptista",
+                "hu": "São João Baptista erőd",
+                "ro": "Fortăreața São João Baptista",
+                "en": "Fort of São João Baptista"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern bieten Windschutz; tragen Sie neonfarbene Regenkleidung, um im Nebel sichtbar zu bleiben.",
+                "hu": "A történelmi falak szélvédelmet nyújtanak; viseljen neon színű esőruhát, hogy látható maradjon a ködben.",
+                "ro": "Zidurile istorice oferă protecție împotriva vântului; purtați haine de ploaie neon pentru a fi vizibil în ceață.",
+                "en": "The historic walls provide wind protection; wear neon rain gear to stay visible in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Brasil",
+                "hu": "Monte Brasil",
+                "ro": "Monte Brasil",
+                "en": "Monte Brasil"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bergab besonders langsam; die bewaldeten Straßen können im Regen nasses Laub und Äste aufweisen.",
+                "hu": "Lefelé menet tekerjen nagyon lassan; az erdős utakon nedves levelek és ágak nehezíthetik a közlekedést.",
+                "ro": "Pedalați foarte încet la coborâre; pe drumurile împădurite, frunzele și crengile ude pot îngreuna deplasarea.",
+                "en": "Ride very slowly downhill; on the forested roads, wet leaves and branches can make the path tricky."
+              }
+            },
+            {
+              "name": {
+                "de": "Silveira",
+                "hu": "Silveira",
+                "ro": "Silveira",
+                "en": "Silveira"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und spüren Sie die frische Gischt; ein Handtuch zum Abtrocknen des Sattels ist unverzichtbar.",
+                "hu": "Parkolja le biztonságosan a biciklit, és élvezze a sós permetet; egy törölköző a nyereg megszárításához elengedhetetlen.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de stropii sărați; un prosop pentru uscarea șeii este esențial.",
+                "en": "Park your bike safely and enjoy the salt spray; a towel to dry the saddle is essential for the ride back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Angra ist erfrischend und hält Sie warm. Die kühle Brise an der Praça Velha weckt Ihre Geister, bevor Sie zum Fort hinauffahren. Der Aufstieg zum Monte Brasil bietet ein natürliches Workout gegen die Kälte und belohnt mit klarer Fernsicht. Achten Sie auf den frühen Sonnenuntergang um 17:00 Uhr, um sicher vor der Dunkelheit zurückzukehren.",
+            "hu": "A téli biciklizés Angrában frissítő és melegen tartja a testet. A hűvös szellő a Praça Velhánál felébreszti, mielőtt feltekerne az erődhöz. A Monte Brasil emelkedője természetes edzés a hideg ellen, és tiszta kilátással jutalmazza. Ügyeljen a korai, 17:00-s naplementére, hogy még sötétedés előtt biztonságban visszaérjen a városba.",
+            "ro": "Ciclismul de iarnă în Angra este revigorant și vă menține corpul cald. Briza rece de la Praça Velha vă trezește înainte de a pedala spre fortăreață. Urcarea pe Monte Brasil este un antrenament natural împotriva frigului și vă răsplătește cu o vedere clară. Aveți grijă la apusul devreme de la ora 17:00 pentru a reveni în siguranță.",
+            "en": "Winter cycling in Angra is refreshing and keeps your body warm. The cool breeze at Praça Velha wakes you up before you pedal towards the fort. The climb up Monte Brasil is a natural workout against the cold and rewards you with clear views. Watch out for the early 17:00 sunset to return safely to the city before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praça Velha",
+                "hu": "Praça Velha",
+                "ro": "Praça Velha",
+                "en": "Praça Velha"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit Schichten; die Luft ist morgens kühl, aber das Treten wird Sie schnell aufwärmen.",
+                "hu": "Kezdje réteges öltözködéssel; a levegő reggel hűvös, de a tekerés gyorsan felmelegíti majd.",
+                "ro": "Începeți cu îmbrăcăminte în straturi; aerul este rece dimineața, dar pedalatul vă va încălzi rapid.",
+                "en": "Start with layered clothing; the air is cool in the morning, but pedaling will warm you up quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Sé Kathedrale von Angra do Heroísmo",
+                "hu": "Sé katedrális (Angra do Heroísmo)",
+                "ro": "Catedrala Sé din Angra do Heroísmo",
+                "en": "Sé Cathedral of Angra do Heroísmo"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause im Inneren, um sich in der windstillen Atmosphäre der Kathedrale zu regenerieren.",
+                "hu": "Tartson egy rövid szünetet bent, hogy regenerálódjon a katedrális szélvédett, nyugodt légkörében.",
+                "ro": "Faceți o scurtă pauză în interior pentru a vă regenera în atmosfera ferită de vânt a catedralei.",
+                "en": "Take a short break inside to regenerate in the wind-protected, calm atmosphere of the cathedral."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospital da Boa Nova",
+                "hu": "Hospital da Boa Nova",
+                "ro": "Spitalul Boa Nova",
+                "en": "Hospital da Boa Nova"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren, um die Hände während der Tour kurzzeitig aufzuwärmen.",
+                "hu": "Látogassa meg a benti kiállításokat, hogy a túra közben egy kicsit felmelegítse a kezeit.",
+                "ro": "Vizitați expozițiile din interior pentru a vă încălzi puțin mâinile în timpul turului.",
+                "en": "Visit the exhibits inside to warm up your hands for a while during the bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort von São João Baptista",
+                "hu": "São João Baptista erőd",
+                "ro": "Fortăreața São João Baptista",
+                "en": "Fort of São João Baptista"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie entlang der Festungsmauern; die Wintersonne steht tief und bietet dramatisches Licht für Fotos.",
+                "hu": "Tekerjen végig az erőd falai mentén; a téli nap alacsonyan jár, drámai fényt adva a fotókhoz.",
+                "ro": "Pedalați de-a lungul zidurilor cetății; soarele de iarnă este jos pe cer, oferind o lumină dramatică pentru fotografii.",
+                "en": "Ride along the fortress walls; the winter sun is low in the sky, providing dramatic light for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Brasil",
+                "hu": "Monte Brasil",
+                "ro": "Monte Brasil",
+                "en": "Monte Brasil"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Ihren Kreislauf in Schwung; oben angekommen, schützt ein Windstopper vor der kühlen Brise.",
+                "hu": "Az emelkedő mozgásban tartja a keringését; felérve egy szélkabát jól jön majd a hűvös fuvallat ellen.",
+                "ro": "Urcarea vă menține circulația activă; odată ajuns sus, o jachetă de vânt va fi utilă împotriva adierii reci.",
+                "en": "The climb keeps your circulation going; once at the top, a windbreaker will be useful against the cool breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Silveira",
+                "hu": "Silveira",
+                "ro": "Silveira",
+                "en": "Silveira"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückfahrt vor 17:00 Uhr ein, da die Sicht auf den Küstenstraßen bei Dämmerung schnell abnimmt.",
+                "hu": "Tervezze meg a visszautat 17:00 előtt, mivel a látótávolság a parti utakon alkonyatkor gyorsan csökken.",
+                "ro": "Planificați-vă întoarcerea înainte de ora 17:00, deoarece vizibilitatea pe drumurile de coastă scade rapid la amurg.",
+                "en": "Plan your ride back before 17:00, as visibility on the coastal roads decreases rapidly at twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje a napot az Outeiro da Memória emlékműnél, élvezve a kilátást. Ezután hajtson a Duque da Terceira Kerthez, majd az Angra do Heroísmo Múzeumhoz. Délben látogassa meg a São Francisco kolostort. Délután egy rövid autózás visz el a vidéki hangulatú Museu da Ribeirinha-hoz. A napot a Monte Brasil lenyűgöző panorámájával zárja az alkonyatban.",
         "ro": "Începeți cu o priveliște minunată de la Outeiro da Memória. Conduceți apoi spre Grădina Duque da Terceira și Muzeul Angra do Heroísmo pentru o doză de cultură. La prânz, vizitați Mănăstirea São Francisco. După-amiaza, un scurt drum vă duce la Muzeul Ribeirinha, plin de tradiții rurale. Încheiați ziua admirând panorama uluitoare de pe Monte Brasil la apus.",
         "en": "Start your day taking in the vistas from Outeiro da Memória. Drive down to the Duque da Terceira Garden and the Angra do Heroísmo Museum for cultural insights. Midday is spent exploring the Convent of São Francisco. In the afternoon, take a short drive to the rural Museu da Ribeirinha. End your day soaking in the breathtaking sunset panorama from Monte Brasil."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist der ideale Begleiter für einen regnerischen Tag auf Terceira. Starten Sie mit einem nebligen Panorama am Outeiro da Memória, bevor Sie bequem zwischen den verschiedenen Museen pendeln. Die Fahrt nach Ribeirinha führt durch grüne, nasse Landschaften, während Sie im Wagen trocken bleiben. Beenden Sie den Tag auf dem Monte Brasil, wo Sie den Blick auf den stürmischen Atlantik genießen können.",
+            "hu": "Az autó az ideális társ egy esős naphoz Terceira szigetén. Kezdjen a ködös panorámával az Outeiro da Memóriánál, majd kényelmesen közlekedjen a múzeumok között. A Ribeirinha felé vezető út zöld, esőáztatta tájakon visz keresztül, miközben Ön száraz marad a kocsiban. Zárja a napot a Monte Brasilon, ahol az autóból csodálhatja a viharos óceánt.",
+            "ro": "Mașina este partenerul ideal pentru o zi ploioasă în Terceira. Începeți cu o panoramă încețoșată la Outeiro da Memória, apoi circulați confortabil între muzee. Drumul spre Ribeirinha trece prin peisaje verzi și umede, în timp ce rămâneți uscat în mașină. Încheiați ziua pe Monte Brasil, unde puteți admira oceanul învolburat direct din vehicul.",
+            "en": "The car is the ideal companion for a rainy day on Terceira. Start with a misty panorama at Outeiro da Memória, then commute comfortably between the museums. The drive to Ribeirinha takes you through green, rain-soaked landscapes while you stay dry in the car. End the day at Monte Brasil, where you can admire the stormy ocean from the comfort of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Outeiro da Memória",
+                "hu": "Outeiro da Memória",
+                "ro": "Outeiro da Memória",
+                "en": "Outeiro da Memória"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkplatz direkt am Denkmal; so können Sie den Blick bei Regenpausen schnell genießen.",
+                "hu": "Vezessen egészen az emlékmű melletti parkolóig; így az esőszünetekben gyorsan kiszállhat megcsodálni a kilátást.",
+                "ro": "Conduceți până la parcarea de lângă monument; astfel puteți ieși rapid să admirați vederea în pauzele de ploaie.",
+                "en": "Drive right up to the parking lot by the monument; this way you can quickly hop out to see the view during rain breaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Duque da Terceira Garten",
+                "hu": "Duque da Terceira Kert",
+                "ro": "Grădina Duque da Terceira",
+                "en": "Duque da Terceira Garden"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des oberen Eingangs; nutzen Sie die überdachten Pavillons im Garten für trockene Momente.",
+                "hu": "Parkoljon a felső bejárat közelében; használja a kertben lévő fedett pavilonokat a száraz pillanatokhoz.",
+                "ro": "Parcați lângă intrarea de sus; folosiți pavilioanele acoperite din grădină pentru momentele uscate.",
+                "en": "Park near the upper entrance; use the covered pavilions in the garden for dry moments during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Angra do Heroísmo Museum",
+                "hu": "Angra do Heroísmo Múzeum",
+                "ro": "Muzeul Angra do Heroísmo",
+                "en": "Angra do Heroísmo Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Auto ermöglicht es Ihnen, direkt vor dem Museum zu halten, was den Zugang bei starkem Regen erleichtert.",
+                "hu": "Az autó lehetővé teszi, hogy közvetlenül a múzeum előtt álljon meg, megkönnyítve a bejutást erős esőben.",
+                "ro": "Mașina vă permite să opriți direct în fața muzeului, facilitând accesul în timpul unei ploi puternice.",
+                "en": "The car allows you to stop right in front of the museum, making entry easy during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster São Francisco",
+                "hu": "São Francisco kolostor",
+                "ro": "Mănăstirea São Francisco",
+                "en": "Convent of São Francisco"
+              },
+              "tip_5lang": {
+                "de": "Kombinieren Sie diesen Besuch mit dem Museum; der Komplex bietet viel überdachten Platz zum Erkunden.",
+                "hu": "Kombinálja ezt a látogatást a múzeummal; a komplexum bőséges fedett teret kínál a felfedezéshez.",
+                "ro": "Combinați această vizită cu muzeul; complexul oferă spații acoperite generoase pentru explorare.",
+                "en": "Combine this visit with the museum; the complex offers plenty of covered space for exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu da Ribeirinha",
+                "hu": "Museu da Ribeirinha",
+                "ro": "Muzeul Ribeirinha",
+                "en": "Museu da Ribeirinha"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch die ländliche Umgebung; die Scheibenwischer bieten einen gerahmten Blick auf die Küste.",
+                "hu": "Élvezze a vidéki autózást; az ablaktörlők keretezett kilátást nyújtanak az esőáztatta tengerpartra.",
+                "ro": "Bucurați-vă de condusul prin mediul rural; ștergătoarele oferă o vedere înrămată asupra coastei umede.",
+                "en": "Enjoy the rural drive; the windshield wipers provide a framed view of the rain-soaked coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Brasil",
+                "hu": "Monte Brasil",
+                "ro": "Monte Brasil",
+                "en": "Monte Brasil"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Wind im Auto; die Aussichtspunkte sind auch vom Fahrersitz aus beeindruckend.",
+                "hu": "Erős szélben maradjon a kocsiban; a kilátópontok a vezetőülésből is lenyűgöző látványt nyújtanak.",
+                "ro": "Rămâneți în mașină în caz de vânt puternic; punctele de belvedere oferă o vedere impresionantă și din interior.",
+                "en": "Stay in the car during strong winds; the viewpoints offer an impressive sight even from the driver's seat."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Angra im Winter ganz entspannt mit dem Auto. Beginnen Sie mit der klaren Aussicht vom Outeiro da Memória, bevor Sie die gut klimatisierten Museen der Stadt besuchen. Die Fahrt nach Ribeirinha zeigt die ruhige Seite der Insel abseits der Touristenströme. Beenden Sie den Tag rechtzeitig zum Sonnenuntergang um 17:00 Uhr auf dem Monte Brasil, um das goldene Winterlicht einzufangen.",
+            "hu": "Fedezze fel Angrát télen kényelmesen, autóval. Kezdjen a tiszta kilátással az Outeiro da Memóriánál, majd látogassa meg a város jól temperált múzeumait. A Ribeirinha felé vezető út megmutatja a sziget nyugodt arcát a turistaáradaton kívül. Zárja a napot időben a 17:00-s naplementéhez a Monte Brasilon, elcsípve az aranyló téli fényeket.",
+            "ro": "Descoperiți Angra iarna confortabil, cu mașina. Începeți cu vederea clară de la Outeiro da Memória, apoi vizitați muzeele bine climatizate ale orașului. Drumul spre Ribeirinha arată fața liniștită a insulei, departe de aglomerație. Încheiați ziua la timp pentru apusul de la ora 17:00 pe Monte Brasil, surprinzând lumina aurie de iarnă.",
+            "en": "Discover Angra in winter comfortably by car. Start with the clear views from Outeiro da Memória, then visit the city's well-tempered museums. The drive to Ribeirinha shows the quiet side of the island away from the tourist crowds. End the day in time for the 17:00 sunset on Monte Brasil, catching the golden winter light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Outeiro da Memória",
+                "hu": "Outeiro da Memória",
+                "ro": "Outeiro da Memória",
+                "en": "Outeiro da Memória"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft ist sehr klar; nutzen Sie den frühen Morgen für die beste Sicht über die gesamte Bucht.",
+                "hu": "A téli levegő nagyon tiszta; használja ki a kora reggelt a legjobb kilátáshoz az egész öbölre.",
+                "ro": "Aerul de iarnă este foarte clar; profitați de dimineața devreme pentru cea mai bună vedere asupra întregului golf.",
+                "en": "The winter air is very clear; take advantage of the early morning for the best views over the entire bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Duque da Terceira Garten",
+                "hu": "Duque da Terceira Kert",
+                "ro": "Grădina Duque da Terceira",
+                "en": "Duque da Terceira Garden"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am oberen Ende für einen kurzen Weg zum Monument; die Wintersonne wärmt den Garten zur Mittagszeit angenehm auf.",
+                "hu": "Parkoljon a felső végén az emlékműhöz vezető rövid úthoz; a téli nap délidőben kellemesen felmelegíti a kertet.",
+                "ro": "Parcați la capătul de sus pentru un drum scurt spre monument; soarele de iarnă încălzește plăcut grădina la prânz.",
+                "en": "Park at the upper end for a short walk to the monument; the winter sun warms the garden pleasantly at midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Angra do Heroísmo Museum",
+                "hu": "Angra do Heroísmo Múzeum",
+                "ro": "Muzeul Angra do Heroísmo",
+                "en": "Angra do Heroísmo Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet einen hervorragenden Schutz gegen kühle Winde; verbringen Sie hier die kühleren Stunden des Nachmittags.",
+                "hu": "A múzeum kiváló védelmet nyújt a hűvös szelek ellen; töltse itt a délután hűvösebb óráit a kiállítások között.",
+                "ro": "Muzeul oferă o protecție excelentă împotriva vântului rece; petreceți aici orele mai răcoroase ale după-amiezii.",
+                "en": "The museum offers excellent protection against cool winds; spend the cooler afternoon hours here among the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster São Francisco",
+                "hu": "São Francisco kolostor",
+                "ro": "Mănăstirea São Francisco",
+                "en": "Convent of São Francisco"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am Nachmittag; die Wintersonne beleuchtet die Details der Fassade besonders schön.",
+                "hu": "Látogassa meg a templomot délután; a téli napfény különösen szépen világítja meg a homlokzat részleteit.",
+                "ro": "Vizitați biserica după-amiaza; lumina soarelui de iarnă luminează detaliile fațadei deosebit de frumos.",
+                "en": "Visit the church in the afternoon; the winter sun illuminates the details of the facade especially beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu da Ribeirinha",
+                "hu": "Museu da Ribeirinha",
+                "ro": "Muzeul Ribeirinha",
+                "en": "Museu da Ribeirinha"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt über die Küstenstraßen ist im Winter ruhig und entspannt; halten Sie Ausschau nach rauen Wellen.",
+                "hu": "A parti utakon való autózás télen csendes és nyugodt; figyelje a partot csapkodó hatalmas hullámokat.",
+                "ro": "Condusul pe drumurile de coastă este liniștit și relaxat iarna; urmăriți valurile mari care se sparg de țărm.",
+                "en": "The drive along the coastal roads is quiet and relaxed in winter; watch out for the rough waves crashing on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Brasil",
+                "hu": "Monte Brasil",
+                "ro": "Monte Brasil",
+                "en": "Monte Brasil"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:45 Uhr an, um den Sonnenuntergang über dem Atlantik vom Parkplatz aus bequem zu beobachten.",
+                "hu": "Érkezzen 16:45 előtt, hogy kényelmesen, a parkolóból nézhesse végig az óceán feletti téli naplementét.",
+                "ro": "Sosiți înainte de ora 16:45 pentru a urmări confortabil, din parcare, apusul de iarnă peste ocean.",
+                "en": "Arrive before 16:45 to comfortably watch the winter sunset over the ocean from the parking lot."
+              }
+            }
+          ]
+        }
       }
     }
   }

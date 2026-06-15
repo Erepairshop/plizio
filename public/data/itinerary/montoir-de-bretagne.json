@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a történelmi központban, a hangulatos Saint-Étienne templom környékén. Délben merüljön el a helyi tengerészeti múzeum gazdag örökségében. A délután folyamán kényelmes sétával érinti a kulturális központot és a családi tereket. Az este egy északi sétával zárul, hogy megcsodálja az ősi menhírt a csendes mezőkön.",
         "ro": "Începeți dimineața explorând inima istorică în jurul pitoreștii biserici Saint-Étienne. La prânz, descoperiți patrimoniul maritim local la muzeul de profil. După-amiaza aduce o plimbare relaxantă spre sala culturală și zonele prietenoase cu familiile. Seara se încheie cu o drumeție spre nord pentru a admira anticul menhir în liniștea naturii.",
         "en": "Start your morning exploring the historic heart around the quaint Saint-Étienne church. At midday, dive into local heritage at the maritime museum. The afternoon brings a leisurely stroll to the cultural hall and family-friendly spaces. Evening concludes with a brisk walk north to witness the ancient standing stone amidst quiet fields."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen geschützt in der Kirche und im maritimen Museum. Mittags bieten die Kulturhalle und Le Béluga eine wunderbare Zuflucht vor dem Regen. Am Nachmittag trotzen Sie dem Nieselregen, um den beeindruckenden Menhir zu sehen. Tragen Sie wasserfeste Schuhe und nehmen Sie einen stabilen Regenschirm für die kurzen Wege zwischen den Gebäuden mit.",
+            "hu": "Kezdje a reggelt a templom és a különleges tengerészeti múzeum védelmében. Délben a kulturális központ és a Le Béluga nyújt kiváló beltéri menedéket az eső elől. Délután dacoljon a szitáló esővel, hogy megnézze a lenyűgöző Menhir de Pierre Blanche-t. Viseljen vízálló cipőt és vigyen magával egy masszív esernyőt a rövid sétákhoz ezen fedett helyszínek között.",
+            "ro": "Începeți dimineața la adăpostul bisericii și al fascinantului muzeu maritim. La prânz, sala culturală și Le Béluga oferă un refugiu excelent de ploaie. După-amiaza, înfruntați burnița pentru a vedea impresionantul Menhir de Pierre Blanche. Purtați încălțăminte impermeabilă și luați o umbrelă rezistentă pentru scurtelor plimbări dintre aceste evadări la interior.",
+            "en": "Start your morning seeking shelter in the historic church and the fascinating wooden marine museum. Midday brings you to the cultural hall and Le Béluga, offering great indoor respites from the rain. In the afternoon, brave the drizzle to see the striking Menhir de Pierre Blanche. Wear waterproof shoes and carry a sturdy umbrella for the short walks between these indoor escapes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Étienne",
+                "hu": "Église Saint-Étienne",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster, deren Farben im Regen leuchten. Ein trockener Start; lassen Sie den nassen Schirm am besten im Vorraum.",
+                "hu": "Csodálja meg a szürke égbolt által felerősített ólomüvegek színeit. Száraz kezdet; a nedves esernyőt hagyja a tornácon, mielőtt belép.",
+                "ro": "Admirați vitraliile ale căror culori sunt amplificate de cerul gri. Un început uscat; lăsați umbrela udă la intrare înainte de a vizita.",
+                "en": "Admire the stained glass colors amplified by the gray skies. A perfect dry start to your walk; stash your wet umbrella in the porch before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la marine en bois du Brivet",
+                "hu": "Musée de la marine en bois du Brivet",
+                "ro": "Muzeul de Marină din Lemn Brivet",
+                "en": "Brivet Wooden Marine Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das hölzerne Bootserbe drinnen im Trockenen. Die Holzböden am Eingang können durch Nässe rutschig werden, treten Sie vorsichtig auf.",
+                "hu": "Fedezze fel a fahajók örökségét bent, miközben kint zuhog. A bejárat melletti fapadló csúszós lehet a nedvességtől, ezért lépjen óvatosan.",
+                "ro": "Descoperiți patrimoniul ambarcațiunilor din lemn în interior. Podelele de la intrare pot deveni alunecoase din cauza ploii, pășiți cu grijă.",
+                "en": "Discover the rich wooden boat heritage indoors while the rain pours outside. The wooden floors can get slippery near the entrance, so step carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Polyvalente La Bonne Fontaine",
+                "hu": "Salle Polyvalente La Bonne Fontaine",
+                "ro": "Sala Polivalentă La Bonne Fontaine",
+                "en": "La Bonne Fontaine Multi-purpose Hall"
+              },
+              "tip_5lang": {
+                "de": "Pausieren Sie hier, um lokale Ausstellungen zu sehen. Diese vielseitige Halle bietet einen geräumigen, trockenen Schutz bei starken Schauern.",
+                "hu": "Tartson szünetet az esőben, és nézzen meg egy helyi kiállítást. Ez a sokoldalú csarnok tágas és száraz menedéket nyújt a záporok idején.",
+                "ro": "Faceți o pauză de la ploaie pentru a vedea expozițiile locale. Această sală versatilă oferă un adăpost spațios și uscat la averse puternice.",
+                "en": "Take a break from the showers to check out local events or exhibitions in this hall. It is a spacious, dry shelter during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Béluga",
+                "hu": "Le Béluga",
+                "ro": "Le Béluga",
+                "en": "Le Béluga"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie familienfreundliche Unterhaltung im Trockenen. Lassen Sie die nassen Mäntel an der Tür und erleben Sie eine regenfriedliche Pause.",
+                "hu": "Élvezze a családbarát szórakozást és pihenjen bent. Hagyja a csöpögő kabátokat az ajtónál, és töltsön el egy vidám, esőmentes déli pihenőt.",
+                "ro": "Bucurați-vă de divertisment în familie și relaxați-vă în interior. Lăsați hainele ude la ușă și bucurați-vă de o pauză de prânz uscată.",
+                "en": "Enjoy family-friendly entertainment and relax indoors. Leave your dripping coats at the door and settle in for a fun, completely rain-free midday break."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Pierre Blanche",
+                "hu": "Menhir de Pierre Blanche",
+                "ro": "Menhir de Pierre Blanche",
+                "en": "Menhir de Pierre Blanche"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen alten Stein, der im Regen glänzt. Das umliegende Gras ist wahrscheinlich sehr schlammig, tragen Sie wasserfeste Stiefel.",
+                "hu": "Csodálja meg ezt a lenyűgöző ősi követ, mely nedvesen csillog az esőben. A környező fű valószínűleg nagyon saras, viseljen vízálló bakancsot.",
+                "ro": "Admirați această piatră antică, strălucind umedă sub ploaie. Iarba din jur este probabil foarte noroioasă, purtați cizme impermeabile solide.",
+                "en": "Behold this impressive ancient stone, glowing vividly wet under the rain. The surrounding grass is likely very muddy, so wear sturdy, waterproof boots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den klaren Wintermorgen in der ruhigen Kirche und im maritimen Museum. Mittags können Sie sich in der Kulturhalle aufwärmen und die Atmosphäre im Le Béluga genießen. Beenden Sie den Nachmittag frühzeitig mit einem Spaziergang zum alten Menhir, bevor die Sonne gegen 17 Uhr untergeht. Tragen Sie warme Schichten gegen die kühle Brise.",
+            "hu": "Indítsa a fagyos téli reggelt a csendes templom és a beltéri múzeum felfedezésével. Délben melegedjen fel a kulturális teremben, és élvezze a Le Béluga hangulatát. Zárja a délutánt korán egy frissítő sétával a Menhir de Pierre Blanche-hoz, mielőtt a nap 17:00 óra körül lemenne. Öltözzön meleg, réteges ruházatba, és viseljen sálat a parti szél ellen.",
+            "ro": "Începeți dimineața geroasă de iarnă explorând biserica liniștită și muzeul maritim interior. La prânz, încălziți-vă în sala culturală și bucurați-vă de atmosfera primitoare de la Le Béluga. Încheiați după-amiaza devreme cu o plimbare revigorantă până la Menhir, înainte de apusul de la ora 17:00. Îmbrăcați-vă cu straturi groase și purtați un fular.",
+            "en": "Kick off your crisp winter morning exploring the quiet church and the indoor marine museum. At noon, warm up in the vibrant cultural hall and enjoy the cozy atmosphere at Le Béluga. Wrap up your afternoon early with a brisk walk to the ancient Menhir de Pierre Blanche before the sun sets around 5 PM. Dress in warm layers and wear a scarf for the chilly breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Étienne",
+                "hu": "Église Saint-Étienne",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Atmosphäre in diesem historischen Gebäude. Ziehen Sie sich warm an, alte Steinkirchen sind im Winter recht kühl.",
+                "hu": "Élvezze a békés, hűvös reggeli hangulatot ezen a történelmi helyen. Öltözzön melegen, a régi kőtemplomok télen elég hidegek lehetnek.",
+                "ro": "Bucurați-vă de atmosfera pașnică a dimineții în această clădire. Îmbrăcați-vă gros, bisericile vechi din piatră pot fi reci iarna.",
+                "en": "Enjoy the peaceful, chilly morning atmosphere inside this historic building. Wrap up warmly, as old stone churches can feel quite cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la marine en bois du Brivet",
+                "hu": "Musée de la marine en bois du Brivet",
+                "ro": "Muzeul de Marină din Lemn Brivet",
+                "en": "Brivet Wooden Marine Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in diesem gemütlichen Raum in die Geschichte ein. Ein fantastischer Ort, um dem eisigen Wind zu entfliehen und sich aufzuwärmen.",
+                "hu": "Merüljön el a tengerészeti történelemben ezen a barátságos helyen. Remek pont, hogy elmeneküljön a fagyos szél elől és felmelegedjen.",
+                "ro": "Pătrundeți în istoria maritimă în acest spațiu primitor. Este un loc fantastic pentru a scăpa de vântul înghețat și a vă încălzi.",
+                "en": "Delve into maritime history in this cozy indoor space. It's a fantastic spot to escape the freezing wind and warm your hands while learning."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Polyvalente La Bonne Fontaine",
+                "hu": "Salle Polyvalente La Bonne Fontaine",
+                "ro": "Sala Polivalentă La Bonne Fontaine",
+                "en": "La Bonne Fontaine Multi-purpose Hall"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie ein Event oder genießen Sie die lebhafte Atmosphäre. Die beheizte Halle ist nach dem Spaziergang in der Kälte sehr einladend.",
+                "hu": "Vegyen részt egy eseményen, vagy csak élvezze a benti nyüzsgést. A fűtött terem hihetetlenül hívogató a fagyos hidegben tett séta után.",
+                "ro": "Participați la un eveniment sau bucurați-vă de atmosfera plină de viață. Sala încălzită este incredibil de primitoare după frigul de afară.",
+                "en": "Catch a community event or simply soak in the lively indoor atmosphere. The heated hall is incredibly welcoming after walking in the crisp cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Béluga",
+                "hu": "Le Béluga",
+                "ro": "Le Béluga",
+                "en": "Le Béluga"
+              },
+              "tip_5lang": {
+                "de": "Stürzen Sie sich in die Aktivitäten und trinken Sie etwas Heißes. Ein perfekt beheizter Ort, um vor dem kühlen Nachmittagsspaziergang aufzutanken.",
+                "hu": "Vesse bele magát a vidám tevékenységekbe és igyon egy forró italt. Tökéletes fűtött hely, hogy feltöltődjön a hideg délutáni séta előtt.",
+                "ro": "Explorați activitățile distractive și luați o băutură caldă. Este locul perfect încălzit pentru a vă reîncărca înainte de plimbarea răcoroasă.",
+                "en": "Dive into the fun activities and grab a hot beverage. It is the perfect heated spot to recharge your energy before the chilly afternoon walk ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Pierre Blanche",
+                "hu": "Menhir de Pierre Blanche",
+                "ro": "Menhir de Pierre Blanche",
+                "en": "Menhir de Pierre Blanche"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den alten Menhir in der winterlichen Dämmerung. Besuchen Sie ihn vor 17 Uhr, da die frühe Dunkelheit den Weg schwer erkennbar macht.",
+                "hu": "Csodálja meg az ősi menhir zord szépségét a téli szürkületben. Érjen ide 17:00 óra előtt, mivel a korai sötétedés megnehezíti a tájékozódást.",
+                "ro": "Admirați frumusețea austeră a menhirului antic în amurgul iernii. Vizitați-l înainte de ora 17:00, deoarece întunericul timpuriu ascunde poteca.",
+                "en": "Admire the stark beauty of the ancient menhir standing solitary in the winter twilight. Visit before 5 PM, as early dusk makes the path hard to see."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Délelőtt kerékpározzon Montoir központjában, megtekintve a templomot és a fa hajózás történelmét. A dél a lenyűgöző Menhir de Pierre Blanche felé vezető tekeréssel telik. Délután kerekezzen a Brière mocsarak felé, hogy felfedezze a helyi hagyományokat a Maison de la Brière-ben. Zárja napját a hatalmas természeti park békés tájain.",
         "ro": "Pedalați prin centrul Montoir în această dimineață, admirând biserica și istoria maritimă a lemnului. Prânzul aduce o cursă spre nord către impresionantul Menhir de Pierre Blanche. După-amiaza mergeți spre mlaștinile Brière pentru a descoperi tradițiile la Maison de la Brière. Încheiați ziua bucurându-vă de peisajul liniștit al parcului natural.",
         "en": "Pedal through Montoir's center this morning, taking in the church and intricate wooden marine history. Midday brings a ride north to the striking Menhir de Pierre Blanche. Spend the afternoon cycling towards the Brière marshes to discover local traditions at Maison de la Brière. End your day enjoying the serene, expansive natural park landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens zur Kirche und zum Holzmuseum und genießen Sie die ruhigen, regnerischen Straßen. Mittags passieren Sie den Menhir und suchen Schutz im Maison de la Brière. Nachmittags wirkt der nasse Naturpark herrlich wild. Tragen Sie auffällige, wasserdichte Kleidung und bremsen Sie vorsichtig, da die Wege rutschig sind.",
+            "hu": "Kerékpározzon ki korán a templomhoz és a fahajó múzeumhoz a csendes, esős utcákon. Délben a menhir érintésével a Maison de la Brière-ben találhat menedéket. Délután fedezze fel a fenséges Natúrparkot; a nedves táj csodálatosan vadnak hat. Viseljen feltűnő vízálló ruházatot, és fékezzen óvatosan a csúszós utakon.",
+            "ro": "Pedalați dimineața spre biserică și muzeul bărcilor, bucurându-vă de străzile ploioase. La prânz, treceți de menhir și adăpostiți-vă la Maison de la Brière. După-amiaza, explorați Parcul Natural, al cărui peisaj umed este sălbatic. Purtați haine impermeabile vizibile și frânați ușor, drumurile pot fi foarte alunecoase.",
+            "en": "Cycle out early to the church and wooden boat museum, enjoying the quiet rainy streets. Midday takes you past the standing stone before seeking shelter at Maison de la Brière. In the afternoon, explore the majestic Natural Park; its wet landscape feels wonderfully wild. Wear a bright, waterproof suit and brake gently on slippery paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Étienne",
+                "hu": "Église Saint-Étienne",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie im Hauptschiff Zuflucht vor dem stärksten Regen. Halten Sie Ihren Fahrradsattel draußen mit einer wasserfesten Haube trocken.",
+                "hu": "Keresse menedéket a hajóban, amíg eláll a legnehezebb eső. Tartsa szárazon a kerékpárnyerget, takarja le kint egy vízálló huzattal.",
+                "ro": "Căutați refugiu în naos pentru a aștepta ploaia grea. Păstrați șaua bicicletei uscată acoperind-o afară cu o husă impermeabilă.",
+                "en": "Seek temporary refuge in the nave while waiting out the heaviest rain. Keep your bike saddle dry by covering it with a waterproof cap outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la marine en bois du Brivet",
+                "hu": "Musée de la marine en bois du Brivet",
+                "ro": "Muzeul de Marină din Lemn Brivet",
+                "en": "Brivet Wooden Marine Museum"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie im Trockenen mehr über die maritimen Traditionen. Nasse Radkleidung ist okay, aber achten Sie auf den rutschigen Holzboden.",
+                "hu": "Ismerje meg a tengerészeti hagyományokat teljesen szárazon. A nedves bringás felszerelés itt rendben van, de lépjen óvatosan a fapadlón.",
+                "ro": "Învățați despre tradițiile maritime stând complet uscat. Echipamentul umed este permis, dar călcați cu grijă pe podeaua din lemn.",
+                "en": "Learn about maritime traditions while keeping perfectly dry. Your wet cycling gear is fine here, but step carefully on the polished wooden flooring."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Pierre Blanche",
+                "hu": "Menhir de Pierre Blanche",
+                "ro": "Menhir de Pierre Blanche",
+                "en": "Menhir de Pierre Blanche"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den Monolithen bei stürmischem Wetter. Bremsen Sie langsam ab; der schlammige Weg um den Stein ist rutschig für Fahrradreifen.",
+                "hu": "Nézze meg a viharos időben drámaian magasodó monolitot. Fékezzen lassan a közeledéskor; a kő körüli saras ösvény csúszós a gumiknak.",
+                "ro": "Vedeți monolitul înălțându-se dramatic în furtună. Frânați încet la apropiere; poteca noroioasă din jurul pietrei alunecă pentru roți.",
+                "en": "See the monolith towering dramatically in the stormy weather. Brake slowly as you approach; the muddy path around the stone is slick for bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de la Brière",
+                "hu": "Maison de la Brière",
+                "ro": "Maison de la Brière",
+                "en": "Maison de la Brière"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort zum Trocknen. Entdecken Sie die Ökologie des Parks und genießen Sie den Schutz vor dem bretonischen Regen.",
+                "hu": "Hangulatos, informatív benti menedék, ahol teljesen megszáradhat. Fedezze fel a park ökológiáját, miközben védelmet lel a breton eső elől.",
+                "ro": "O evadare interioară confortabilă pentru a vă usca. Descoperiți ecologia parcului bucurându-vă de adăpost împotriva ploii bretone.",
+                "en": "A cozy, informative indoor escape to dry off completely. Discover the park's ecology while enjoying shelter from the relentless Brittany rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Brière Regional Natural Park",
+                "hu": "Brière Regionális Természeti Park",
+                "ro": "Parcul Natural Regional Brière",
+                "en": "Brière Regional Natural Park"
+              },
+              "tip_5lang": {
+                "de": "Die Sumpflandschaft wirkt im Nebel und Regen mystisch. Bleiben Sie auf den befestigten Radwegen, da die Naturpfade extrem sumpfig sind.",
+                "hu": "A mocsárvidék misztikusnak tűnik a ködben és esőben. Maradjon a fő burkolt utakon, mivel a mocsári ösvények rendkívül vizenyősek lesznek.",
+                "ro": "Mlaștinile par mistice învăluite în ceață și ploaie. Rămâneți pe pistele asfaltate, deoarece potecile vor fi extrem de noroioase.",
+                "en": "The marshlands look mystical draped in mist and rain. Stick to the main paved cycling paths, as the unpaved marsh trails will be extremely boggy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihre frostige Fahrt beginnt bei der Kirche und dem Meeresmuseum. Mittags radeln Sie zügig zum Menhir, um warm zu bleiben. Der Nachmittag bietet kulturelle Wärme im Maison de la Brière, bevor Sie den rauen Naturpark besuchen. Tragen Sie isolierte Handschuhe und beenden Sie die Tour wegen des frühen Sonnenuntergangs bis 17 Uhr.",
+            "hu": "A fagyos reggeli túra a helyi templomnál és a tengerészeti múzeumnál indul. Délben tekerjen fürgén a Menhirhez, hogy felpörgesse a vérkeringését. A délután kulturális meleget kínál a Maison de la Brière-ben, majd a deres Natúrparkkal zárul. Viseljen bélelt kesztyűt, és tervezzen úgy, hogy a korai sötétedés miatt 17:00-kor végezzen.",
+            "ro": "Plimbarea geroasă începe la biserică și muzeul maritim. La prânz, pedalați rapid spre Menhir pentru a vă încălzi. După-amiaza oferă căldură culturală la Maison de la Brière, terminând în frumosul Parc Natural acoperit de brumă. Purtați mănuși izolate termic și planificați să încheiați tura până la ora 17:00, din cauza apusului.",
+            "en": "Your frosty morning ride starts with history at the local church and the marine museum. Around noon, pedal briskly to the Menhir, keeping your blood pumping. The afternoon offers cultural warmth at Maison de la Brière before ending in the starkly beautiful, frost-covered Natural Park. Wear insulated gloves and finish by 5 PM due to early dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Étienne",
+                "hu": "Église Saint-Étienne",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie mit einem Moment der Ruhe im kühlen Steininneren. Schließen Sie das Rad an, aber behalten Sie die Handschuhe drinnen an.",
+                "hu": "Kezdje a napot egy kis csendes elmélkedéssel a hűvös templomban. Zárja le a biciklit, de a kesztyűt hagyja magán bent is a melegért.",
+                "ro": "Începeți cu un moment de reflecție în interiorul rece de piatră. Legați bine bicicleta, dar păstrați mănușile în interior pentru căldură.",
+                "en": "Start with a moment of quiet reflection in the chilly stone interior. Lock your bike securely, but keep your cycling gloves on inside to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la marine en bois du Brivet",
+                "hu": "Musée de la marine en bois du Brivet",
+                "ro": "Muzeul de Marină din Lemn Brivet",
+                "en": "Brivet Wooden Marine Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in dieser faszinierenden Holzausstellung auf. Ein toller Ort, um aufzutauen, bevor Sie wieder auf das kalte Rad steigen.",
+                "hu": "Melegítse fel magát ezen a lenyűgöző fa kiállításon. Remek helyszín az arc és az ujjak felolvasztására a fagyos biciklizés előtt.",
+                "ro": "Încălziți-vă în interiorul acestei expoziții fascinante. Este un loc excelent pentru a vă dezgheța mâinile înainte de a urca iar pe bicicletă.",
+                "en": "Warm your core inside this fascinating wooden exhibit. It's a great spot to thaw your face and fingers before getting back on your frosty bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Pierre Blanche",
+                "hu": "Menhir de Pierre Blanche",
+                "ro": "Menhir de Pierre Blanche",
+                "en": "Menhir de Pierre Blanche"
+              },
+              "tip_5lang": {
+                "de": "Die Winterlandschaft betont das Geheimnis dieses Menhirs. Auf dem offenen Feld kann es sehr windig sein, ziehen Sie die Jacke ganz hoch.",
+                "hu": "A zord téli táj kiemeli a menhir ősi rejtélyét. A nyílt mezőn rendkívül szeles lehet az idő, húzza fel teljesen a kerékpáros kabátját.",
+                "ro": "Peisajul de iarnă subliniază misterul antic al menhirului. Câmpul deschis poate fi intens bătut de vânt, închideți complet geaca.",
+                "en": "The stark winter landscape highlights the ancient mystery of this menhir. The open field can be intensely windy, so zip up your cycling jacket fully."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de la Brière",
+                "hu": "Maison de la Brière",
+                "ro": "Maison de la Brière",
+                "en": "Maison de la Brière"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie lokales Erbe in einer warmen Umgebung in sich auf. Passen Sie hier Ihre Kleidung an und trinken Sie etwas Warmes.",
+                "hu": "Szívja magába a helyi örökséget csodálatosan fűtött környezetben. Használja ezt a megállót a rétegek igazítására az utolsó szakasz előtt.",
+                "ro": "Descoperiți patrimoniul local într-un mediu minunat încălzit. Ajustați-vă hainele și beți ceva cald înainte de cursa finală.",
+                "en": "Absorb local heritage in a wonderfully heated environment. Use this stop to adjust your layers and drink something warm before the final nature ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Brière Regional Natural Park",
+                "hu": "Brière Regionális Természeti Park",
+                "ro": "Parcul Natural Regional Brière",
+                "en": "Brière Regional Natural Park"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die gefrorene Schönheit der Feuchtgebiete. Da es früh dunkel wird, stellen Sie sicher, dass Ihre Fahrradlichter geladen sind.",
+                "hu": "Tapasztalja meg a vizes élőhelyek csendes, fagyott szépségét. Mivel télen korán sötétedik, gondoskodjon a biciklilámpák bekapcsolásáról.",
+                "ro": "Experimentați frumusețea înghețată a zonelor umede. Deoarece se întunecă devreme, asigurați-vă că luminile bicicletei sunt aprinse.",
+                "en": "Experience the quiet, frozen beauty of the wetlands. Since dusk falls early in winter, ensure your bike lights are fully charged and turned on."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autózzon reggel a városközpontba a Le Béluga családi hangulatáért és a múzeum gazdag tengerészeti örökségéért. A dél festői utazást kínál délre, hogy megcsodálja az ősi Dolmen des Mottes-t. Délután induljon északra a Brière mocsarakhoz a helyi kultúra megismeréséért. Zárja a napot egy esti sétával a lenyűgöző regionális természeti parkban.",
         "ro": "Conduceți dimineața în centrul orașului pentru atmosfera de la Le Béluga și patrimoniul maritim al muzeului. Prânzul oferă o plimbare pitorească spre sud pentru a admira anticul Dolmen des Mottes. După-amiaza, mergeți spre nord la mlaștinile Brière pentru cultură la casa locală. Încheiați cu o plimbare de seară în superbul parc regional natural.",
         "en": "Drive into the town center this morning for family-friendly vibes at Le Béluga and rich maritime heritage at the museum. Midday offers a scenic drive south to marvel at the ancient Dolmen des Mottes. In the afternoon, head north to the Brière marshes for cultural insights at the local house. Conclude with an evening walk in the stunning regional park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an diesem nassen Morgen sicher: Start im Le Béluga, dann ins Holzmuseum. Mittags fahren Sie vorsichtig zum Dolmen des Mottes. Nachmittags bleiben Sie im Maison de la Brière trocken, bevor Sie die verregneten Sümpfe aus dem Auto bewundern. Nutzen Sie bei starkem Regen die Nebelscheinwerfer und achten Sie auf tiefe Pfützen.",
+            "hu": "Vezessen biztonságosan ezen a nedves reggelen: kezdjen a Le Bélugában, majd irány a fahajó múzeum. Délben óvatosan navigáljon a vizes utakon a Dolmen des Mottes-hoz. Délután szárazon tanulhat a Maison de la Brière-ben, majd autójából csodálhatja a mocsárvidéket. Erős esőben használja a ködlámpát, és vigyázzon a mély tócsákkal.",
+            "ro": "Conduceți în siguranță în această dimineață umedă, începând la Le Béluga și muzeul maritim. La prânz, navigați atent pe drumurile ude spre Dolmen des Mottes. După-amiaza, stați la adăpost la Maison de la Brière, înainte de a admira mlaștinile din mașină. Folosiți farurile de ceață și fiți atenți la bălțile adânci pe drumurile rurale.",
+            "en": "Drive safely this wet morning starting with indoor fun at Le Béluga, then head to the wooden marine museum. By noon, carefully navigate the wet roads to see the Dolmen des Mottes. In the afternoon, stay dry learning at Maison de la Brière, before admiring the rainy marshlands from your car at the Natural Park. Use fog lights in heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Béluga",
+                "hu": "Le Béluga",
+                "ro": "Le Béluga",
+                "en": "Le Béluga"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Start drinnen. Laufen Sie mit dem Schirm schnell vom Auto zum Eingang, um den Spaß regenfrei zu halten.",
+                "hu": "Tökéletes benti kezdés egy esős napon. Siessen az autótól a bejáratig esernyővel, hogy a szórakozás teljesen esőmentes maradjon.",
+                "ro": "Un început perfect de interior. Fugiți de la mașină la intrare cu umbrela pentru a vă asigura o distracție fără pic de ploaie.",
+                "en": "A perfect indoor start for a rainy day. Dash from your parked car to the entrance with an umbrella to keep the fun entirely rain-free."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la marine en bois du Brivet",
+                "hu": "Musée de la marine en bois du Brivet",
+                "ro": "Muzeul de Marină din Lemn Brivet",
+                "en": "Brivet Wooden Marine Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Bootsgeschichte ein, ohne nass zu werden. Der Parkplatz könnte tiefe Pfützen haben, tragen Sie wasserfeste Schuhe.",
+                "hu": "Merüljön el a hajózás történetében anélkül, hogy elázna. A parkolóban mély tócsák lehetnek, ezért viseljen vízálló cipőt.",
+                "ro": "Aprofundați istoria bărcilor fără a vă uda. Parcarea ar putea avea bălți adânci, așa că asigurați-vă că purtați pantofi impermeabili.",
+                "en": "Delve into the rich boating history without getting soaked. The parking area might have deep puddles, so wear waterproof shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen des Mottes",
+                "hu": "Dolmen des Mottes",
+                "ro": "Dolmen des Mottes",
+                "en": "Dolmen des Mottes"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie dieses prähistorische Grab im Regen. Nehmen Sie einen Schirm mit, da es bei den alten Steinen keinen Unterstand gibt.",
+                "hu": "Csodálja meg az esőben is dacoló történelem előtti sírt. Hozzon esernyőt az autóból, mivel az ősi kövek közelében egyáltalán nincs menedék.",
+                "ro": "Minunați-vă de acest mormânt preistoric rezistent în ploaie. Luați o umbrelă din mașină, nu există adăpost lângă pietrele antice.",
+                "en": "Marvel at this prehistoric tomb standing resilient in the rain. Bring an umbrella from the car, as there is zero shelter near the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de la Brière",
+                "hu": "Maison de la Brière",
+                "ro": "Maison de la Brière",
+                "en": "Maison de la Brière"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie in diesem spannenden Zentrum. Ein toller Abstecher nach drinnen, um dem starken Regen zu entgehen.",
+                "hu": "Száradjon meg teljesen ebben a lebilincselő látogatóközpontban. Csodálatos benti kitérő, hogy elkerülje a heves záporokat.",
+                "ro": "Uscați-vă complet în acest centru de interpretare captivant. Un ocol minunat la interior pentru a evita ploile torențiale.",
+                "en": "Dry off completely in this engaging interpretation center. It is a wonderful indoor detour to learn about the marshlands while avoiding the heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Brière Regional Natural Park",
+                "hu": "Brière Regionális Természeti Park",
+                "ro": "Parcul Natural Regional Brière",
+                "en": "Brière Regional Natural Park"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die überfluteten Feuchtgebiete aus dem warmen Auto. Parken Sie vorsichtig, da die Ränder extrem schlammig werden.",
+                "hu": "Csodálja meg a drámaian hangulatos vizes élőhelyeket autója melegéből. Parkoljon óvatosan a kijelölt helyeken, mert a szélek nagyon sarasak.",
+                "ro": "Admirați zonele umede inundate direct din căldura mașinii. Parcați cu atenție în locurile desemnate, marginile devin foarte noroioase.",
+                "en": "Admire the flooded, dramatically moody wetlands directly from the warmth of your car. Park carefully at the designated spots as the edges get extremely muddy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wärmen Sie das Auto für einen frostigen Morgen auf: Start im Le Béluga und im Meeresmuseum. Mittags warm anziehen für den Dolmen des Mottes. Verbringen Sie den Nachmittag zum Auftauen im Maison de la Brière und sehen Sie die eisige Natur. Beenden Sie die Fahrt bis 17 Uhr, um vereiste Landstraßen zu vermeiden.",
+            "hu": "Melegítse elő autóját a fagyos reggelen, kezdve a Le Bélugában és a tengerészeti múzeumban. Délben öltözzön be a Dolmen des Mottes gyors, hűvös megtekintéséhez. A délutánt a Maison de la Brière-ben töltheti, majd megnézheti a jégbe fagyott Natúrparkot. Fejezze be az utat 17:00-ig, hogy elkerülje a jeges, sötét utakat.",
+            "ro": "Încălziți mașina pentru o dimineață geroasă, începând la Le Béluga și muzeul maritim. La prânz, înfofoliți-vă pentru a vizita vechiul Dolmen des Mottes. Petreceți după-amiaza încălzindu-vă la Maison de la Brière înainte de a vedea parcul înghețat. Încheiați drumul până la 17:00 pentru a evita drumurile rurale înghețate.",
+            "en": "Warm up your car for a frosty morning starting at Le Béluga and the indoor marine museum. At noon, bundle up for a quick, chilly walk to the ancient Dolmen des Mottes. Spend your afternoon thawing out at Maison de la Brière before catching the icy beauty of the Natural Park. Finish driving by 5 PM to avoid icy roads in darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Béluga",
+                "hu": "Le Béluga",
+                "ro": "Le Béluga",
+                "en": "Le Béluga"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie beheizte Aktivitäten, während draußen Frost liegt. Der Parkplatz kann morgens glatt sein, steigen Sie vorsichtig aus.",
+                "hu": "Élvezze a fűtött benti programokat, miközben kint dér fedi a világot. A parkoló reggel csúszós lehet a jégtől, szálljon ki óvatosan.",
+                "ro": "Bucurați-vă de activitățile interioare încălzite în timp ce bruma acoperă totul afară. Parcarea poate fi alunecoasă dimineața, coborâți cu grijă.",
+                "en": "Enjoy the heated indoor activities while frost covers the outside world. The parking lot can be slippery with morning ice, so step out carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la marine en bois du Brivet",
+                "hu": "Musée de la marine en bois du Brivet",
+                "ro": "Muzeul de Marină din Lemn Brivet",
+                "en": "Brivet Wooden Marine Museum"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie das gemütliche Holzmuseum. Lassen Sie die Heizung kurz laufen, um die Scheiben abzutauen, während Sie hier sind.",
+                "hu": "Lépjen be a hangulatos famúzeumba. Míg itt van, járassa kicsit az autó fűtését, hogy leolvassza az ablakokat a következő útra.",
+                "ro": "Pășiți în muzeul primitor pentru a învăța despre patrimoniul local. Păstrați căldura mașinii pornită pentru a dezgheța geamurile.",
+                "en": "Step inside the cozy wooden museum to learn about local maritime heritage. Keep your car's heating running a bit to defrost the windows while here."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen des Mottes",
+                "hu": "Dolmen des Mottes",
+                "ro": "Dolmen des Mottes",
+                "en": "Dolmen des Mottes"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den mysteriösen Dolmen in der klaren Winterlandschaft. Knöpfen Sie den Mantel zu, der Wind weht hier scharf.",
+                "hu": "Figyelje meg a titokzatos dolment a zord téli tájban. Gombozza be teljesen a télikabátot, mivel a szél élesen vág át a nyílt terepen.",
+                "ro": "Observați dolmenul misterios în peisajul aspru de iarnă. Închideți bine geaca de iarnă, deoarece vântul taie tăios pe câmpul deschis.",
+                "en": "Observe the mysterious dolmen in the crisp, stark winter landscape. Button up your winter coat fully, as the wind cuts sharply across the open fields."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de la Brière",
+                "hu": "Maison de la Brière",
+                "ro": "Maison de la Brière",
+                "en": "Maison de la Brière"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf und entdecken Sie das Herz der Region. Ein perfekter beheizter Halt vor dem schwindenden Nachmittagslicht.",
+                "hu": "Melegítse fel fagyos kezeit, és fedezze fel a régió kulturális szívét. Tökéletes fűtött megálló a késő délutáni fogyó fény előtt.",
+                "ro": "Încălziți-vă mâinile înghețate și descoperiți inima culturală a regiunii. O oprire perfectă la căldură înainte de lumina slabă a după-amiezii.",
+                "en": "Warm your freezing hands and discover the cultural heart of the region. A perfect heated stop before braving the fading light of the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Brière Regional Natural Park",
+                "hu": "Brière Regionális Természeti Park",
+                "ro": "Parcul Natural Regional Brière",
+                "en": "Brière Regional Natural Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die eisige Schönheit der winterlichen Sümpfe. Fahren Sie vor 17 Uhr heim, da es hier keine Straßenlaternen gibt und sich Eis bildet.",
+                "hu": "Élvezze a téli mocsár zord, jeges szépségét. Induljon haza 17:00 előtt, mivel a park útjain nincs közvilágítás és gyorsan jég képződik.",
+                "ro": "Bucurați-vă de frumusețea înghețată a mlaștinilor. Porniți spre casă înainte de 17:00, drumurile rurale nu au iluminat și se formează rapid gheață.",
+                "en": "Enjoy the stark, icy beauty of the winter marshlands. Head back home before 5 PM, as the rural park roads lack streetlights and ice forms rapidly."
+              }
+            }
+          ]
+        }
       }
     }
   }

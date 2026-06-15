@@ -183,6 +183,224 @@
         "hu": "Huskvarna felfedezése egy csodás sétával indul az Equmeniakyrkan-tól, majd a Mjölkafållan park nyugalmában folytatódik. Délben a kulturális színház és a történelmi Huskvarna templom nyújt lelki és szellemi feltöltődést. Délután a híres Husqvarna Gyármúzeum ipartörténeti csodáit járjuk végig. Az este Smedbyn hangulatos házai között és az Utsikten lenyűgöző panorámájával zárul, ami felejthetetlen élmény.",
         "ro": "O plimbare minunată prin Huskvarna începe cu arhitectura modernă a Equmeniakyrkan și continuă în liniștea parcului Mjölkafållan. La prânz, explorăm teatrul și biserica clasică Huskvarna, o oază de spiritualitate. După-amiaza este dedicată faimosului Muzeu al Fabricii Husqvarna, plin de istorie industrială. Seara se încheie în cartierul pitoresc Smedbyn și cu panorama spectaculoasă de la Utsikten.",
         "en": "A wonderful walk through Huskvarna begins with the modern architecture of the Equmeniakyrkan, followed by the peaceful Mjölkafållan park. At noon, we stroll to the cultural theater and the classic Huskvarna church, a place of deep tranquility. The afternoon is dedicated to exploring the rich industrial history at the Husqvarna Factory Museum. The evening ends charmingly in Smedbyn and with the panoramic view from Utsikten."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt geschützt in der modernen Equmeniakyrkan. Mittags führt der Weg durch den Mjölkafållan-Park, wo Regenschirme unverzichtbar sind. Am Nachmittag bieten das Fabrikmuseum und die historischen Smedbyn-Häuser ideale Rückzugsorte vor dem nassen Wetter. Der Abend endet am Aussichtspunkt Utsikten, der bei Regen eine dramatisch-mystische Sicht auf den Vättern-See bietet.",
+            "hu": "A reggel az Equmeniakyrkan modern falai között indul, menedéket nyújtva az eső elől. Délben a Mjölkafållan parkon át vágunk át a városi templomig, ügyelve a vizes ösvényekre. Délután a Gyármúzeum és Smedbyn fedett kiállításai tökéletesek a csapadékos időben. Az estét az Utsikten kilátópontnál zárjuk, ahol a ködös táj és a tó látványa különleges hangulatot áraszt.",
+            "ro": "Ziua începe la adăpost în moderna Equmeniakyrkan. La prânz, traversăm parcul Mjölkafållan, unde umbrela este indispensabilă pe aleile umede. După-amiaza, Muzeul Fabricii și casele istorice din Smedbyn oferă refugiul perfect împotriva ploii. Seara se încheie la punctul de observație Utsikten, care oferă o vedere mistică asupra lacului Vättern sub cerul înnorat.",
+            "en": "The day starts sheltered within the modern Equmeniakyrkan. At noon, we walk through Mjölkafållan park, where umbrellas are essential on the wet paths. Afternoon is best spent inside the Factory Museum and Smedbyn's historic buildings to stay dry. The evening concludes at the Utsikten viewpoint, offering a dramatic and misty vista of Lake Vättern during the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Equmeniakyrkan Huskvarna",
+                "hu": "Equmeniakyrkan Huskvarna",
+                "ro": "Equmeniakyrkan Huskvarna",
+                "en": "Equmeniakyrkan Huskvarna"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur im Trockenen und nutzen Sie den ruhigen Raum als idealen Unterschlupf vor dem ersten Regenschauer des Tages.",
+                "hu": "Csodálja meg a modern építészetet szárazon, és használja a csendes belső teret ideális menedékként a nap első esőzései elől.",
+                "ro": "Admirați arhitectura modernă la adăpost și folosiți spațiul liniștit ca refugiu ideal împotriva primei ploi a zilei.",
+                "en": "Admire the modern architecture while staying dry and use the peaceful interior as an ideal shelter from the day's first rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Mjölkafållan",
+                "hu": "Mjölkafållan",
+                "ro": "Mjölkafållan",
+                "en": "Mjölkafållan"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang durch das frische Grün; nutzen Sie die Pavillons als Unterstand und tragen Sie festes Schuhwerk für die nassen Wege.",
+                "hu": "Rövid séta a friss zöldben; használja a pavilonokat menedékként, és viseljen vízálló cipőt a vizes ösvények miatt.",
+                "ro": "O scurtă plimbare prin verdeața proaspătă; folosiți pavilioanele ca adăpost și purtați încălțăminte adecvată pentru potecile umede.",
+                "en": "A short walk through the fresh greenery; use the pavilions for shelter and wear waterproof shoes for the damp park paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Huskvarna teater och kulturskola",
+                "hu": "Huskvarna színház és kultúriskola",
+                "ro": "Teatrul și școala de cultura Huskvarna",
+                "en": "Huskvarna theater and culture school"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die markante Fassade kurz von außen und suchen Sie bei starkem Regen Schutz unter dem Vordach des kulturellen Zentrums.",
+                "hu": "Tekintse meg a jellegzetes homlokzatot kívülről, heves esőzés esetén pedig keressen menedéket a kulturális központ előtetője alatt.",
+                "ro": "Observați fațada distinctivă de afară, iar în caz de ploaie torențială, căutați adăpost sub streașina centrului cultural.",
+                "en": "View the striking facade briefly from outside, and in case of heavy rain, seek shelter under the canopy of the cultural center."
+              }
+            },
+            {
+              "name": {
+                "de": "Huskvarna kyrka",
+                "hu": "Huskvarna templom",
+                "ro": "Biserica Huskvarna",
+                "en": "Huskvarna church"
+              },
+              "tip_5lang": {
+                "de": "Die Holzkirche bietet eine warme, trockene Atmosphäre; genießen Sie die Stille im Inneren, während der Regen sanft auf das Dach prasselt.",
+                "hu": "A fatemplom meleg, száraz légkört áraszt; élvezze a belső csendet, miközben az eső halkan kopog a tetőn.",
+                "ro": "Biserica de lemn oferă o atmosferă caldă și uscată; bucurați-vă de liniștea din interior în timp ce ploaia bate ușor în acoperiș.",
+                "en": "The wooden church offers a warm, dry atmosphere; enjoy the silence inside while the rain taps gently on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Husqvarna Fabriksmuseum",
+                "hu": "Husqvarna Gyármúzeum",
+                "ro": "Muzeul Fabricii Husqvarna",
+                "en": "Husqvarna Factory Museum"
+              },
+              "tip_5lang": {
+                "de": "Die perfekte Indoor-Aktivität bei Regen; erkunden Sie stundenlang die Technikgeschichte, ohne nass zu werden. Planen Sie hier mehr Zeit ein.",
+                "hu": "A tökéletes fedett program esőben; fedezze fel órákon át a technikai történelmet anélkül, hogy megázna. Töltsön itt több időt.",
+                "ro": "Activitatea perfectă de interior pe ploaie; explorați istoria tehnicii timp de ore întregi fără să vă udați. Planificați mai mult timp aici.",
+                "en": "The perfect indoor activity for rainy days; explore technical history for hours without getting wet. Plan for extra time here."
+              }
+            },
+            {
+              "name": {
+                "de": "Smedbyn",
+                "hu": "Smedbyn",
+                "ro": "Smedbyn",
+                "en": "Smedbyn"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie durch die Gassen mit Schirm und besuchen Sie die kleinen Ateliers, um dem Regen für einen Moment zu entkommen.",
+                "hu": "Sétáljon az utcákon esernyővel, és látogasson el a kis műhelyekbe, hogy egy pillanatra elmeneküljön az eső elől.",
+                "ro": "Plimbați-vă pe străduțe cu umbrela și vizitați micile ateliere pentru a scăpa de ploaie pentru o clipă.",
+                "en": "Stroll through the alleys with an umbrella and visit the small studios to escape the rain for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Utsikten",
+                "hu": "Utsikten",
+                "ro": "Utsikten",
+                "en": "Utsikten"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Pfaden; der Blick auf den nebligen See ist jedoch besonders stimmungsvoll. Halten Sie sich am Geländer fest.",
+                "hu": "Vigyázzon a csúszós ösvényeken; a ködös tó látványa azonban különösen hangulatos. Erősen kapaszkodjon a korlátba.",
+                "ro": "Atenție la potecile alunecoase; totuși, vederea asupra lacului cețos este extrem de atmosferică. țineți-vă bine de balustradă.",
+                "en": "Be careful on the slippery paths; however, the view of the misty lake is particularly atmospheric. Hold onto the railings firmly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt in der geheizten Equmeniakyrkan. Mittags führt ein kurzer Spaziergang durch den verschneiten Park zur warmen Stadtkirche. Der Nachmittag gehört der faszinierenden Technik im Fabriksmuseum, einem idealen Ort zum Aufwärmen. Da es gegen 17 Uhr dunkel wird, bietet der Aussichtspunkt Utsikten zum Abschluss ein funkelndes Lichtermeer der Stadt im Schnee.",
+            "hu": "A fagyos reggel a fűtött Equmeniakyrkanban indul. Délben egy rövid séta a havas parkon át vezet a meleg városi templomhoz. A délután a technika vívmányaié a Gyármúzeumban, ami tökéletes hely a felmelegedéshez. Mivel 17 óra körül sötétedik, az Utsikten kilátópontról zárásként a város hófödte, csillogó fényeit csodálhatjuk meg.",
+            "ro": "O dimineață geroasă începe în Equmeniakyrkan încălzită. La prânz, o scurtă plimbare prin parcul înzăpezit duce spre biserica caldă a orașului. După-amiaza este dedicată tehnologiei la Muzeul Fabricii, un loc ideal pentru încălzire. Deoarece se întunecă în jurul orei 17:00, punctul Utsikten oferă la final o mare de lumini sclipitoare ale orașului în zăpadă.",
+            "en": "A frosty morning starts in the heated Equmeniakyrkan. At noon, a short walk through the snowy park leads to the warm town church. The afternoon is dedicated to fascinating technology at the Factory Museum, an ideal spot to warm up. Since it gets dark around 5 PM, the Utsikten viewpoint offers a final view of the city's sparkling lights in the snow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Equmeniakyrkan Huskvarna",
+                "hu": "Equmeniakyrkan Huskvarna",
+                "ro": "Equmeniakyrkan Huskvarna",
+                "en": "Equmeniakyrkan Huskvarna"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Stille und die angenehme Wärme im Inneren dieser modernen Kirche, während draußen der frostige Wind weht.",
+                "hu": "Élvezze a békés csendet és a kellemes meleget a modern templom belsejében, miközben kint fagyos szél fúj.",
+                "ro": "Bucurați-vă de liniștea deplină și de căldura plăcută din interiorul acestei biserici moderne, în timp ce afară suflă vântul înghețat.",
+                "en": "Enjoy the peaceful silence and pleasant warmth inside this modern church while the frosty wind blows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mjölkafållan",
+                "hu": "Mjölkafållan",
+                "ro": "Mjölkafållan",
+                "en": "Mjölkafållan"
+              },
+              "tip_5lang": {
+                "de": "Der Park verwandelt sich in ein Winterwunderland; tragen Sie warme Schichten für den Spaziergang durch den glitzernden Schnee.",
+                "hu": "A park téli csodaországgá változik; öltözzön rétegesen a csillogó hóban való sétához, és ügyeljen a jeges szakaszokra.",
+                "ro": "Parcul se transformă într-un tărâm de iarnă; purtați haine groase pentru plimbarea prin zăpada sclipitoare.",
+                "en": "The park transforms into a winter wonderland; wear warm layers for the walk through the glistening snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Huskvarna teater och kulturskola",
+                "hu": "Huskvarna színház és kultúriskola",
+                "ro": "Teatrul și școala de cultura Huskvarna",
+                "en": "Huskvarna theater and culture school"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp an diesem markanten Gebäude, bevor Sie wieder ins Warme flüchten; die rote Fassade kontrastiert toll mit dem Schnee.",
+                "hu": "Gyors fotómegálló ennél a jellegzetes épületnél, mielőtt újra meleg helyre menne; a piros homlokzat remekül mutat a hóban.",
+                "ro": "O oprire rapidă pentru poze la această clădire distinctivă înainte de a reveni la căldură; fațada roșie contrastează frumos cu zăpada.",
+                "en": "A quick photo stop at this striking building before heading back to the warmth; the red facade contrasts beautifully with the snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Huskvarna kyrka",
+                "hu": "Huskvarna templom",
+                "ro": "Biserica Huskvarna",
+                "en": "Huskvarna church"
+              },
+              "tip_5lang": {
+                "de": "Die hölzerne Architektur wirkt im Winter besonders gemütlich; treten Sie ein, um sich aufzuwärmen und die besinnliche Ruhe zu genießen.",
+                "hu": "A faépítészet télen különösen otthonosnak tűnik; térjen be felmelegedni és élvezze az áhítatos csendet.",
+                "ro": "Arhitectura din lemn pare deosebit de primitoare iarna; intrați pentru a vă încălzi și pentru a vă bucura de liniștea contemplativă.",
+                "en": "The wooden architecture feels especially cozy in winter; step inside to warm up and enjoy the contemplative silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Husqvarna Fabriksmuseum",
+                "hu": "Husqvarna Gyármúzeum",
+                "ro": "Muzeul Fabricii Husqvarna",
+                "en": "Husqvarna Factory Museum"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für den kalten Nachmittag; tauchen Sie tief in die Geschichte ein und genießen Sie die behagliche Wärme der Ausstellungsräume.",
+                "hu": "Ideális helyszín a hideg délutánra; merüljön el a történelemben, és élvezze a kiállítótermek kellemes melegét.",
+                "ro": "Locul ideal pentru o după-amiază rece; scufundați-vă în istorie și bucurați-vă de căldura confortabilă a sălilor de expoziție.",
+                "en": "The ideal place for a cold afternoon; dive deep into history and enjoy the cozy warmth of the exhibition halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Smedbyn",
+                "hu": "Smedbyn",
+                "ro": "Smedbyn",
+                "en": "Smedbyn"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Häuser sehen mit Schneehauben wie aus einem Märchen aus; besuchen Sie die Kunsthandwerker in ihren beheizten Werkstätten.",
+                "hu": "A hófödte történelmi házak olyanok, mint egy mesében; látogassa meg a kézműveseket fűtött műhelyeikben.",
+                "ro": "Casele istorice cu acoperișuri înzăpezite par desprinse din basme; vizitați artizanii în atelierele lor încălzite.",
+                "en": "The historic houses look like something from a fairy tale with their snow caps; visit the craftsmen in their heated workshops."
+              }
+            },
+            {
+              "name": {
+                "de": "Utsikten",
+                "hu": "Utsikten",
+                "ro": "Utsikten",
+                "en": "Utsikten"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang gegen 16:30 Uhr; der Blick auf die beleuchtete Stadt im Schnee ist atemberaubend schön.",
+                "hu": "Élje át a korai naplementét 16:30 körül; a kivilágított város látványa a hóban lélegzetelállítóan szép.",
+                "ro": "Experimentați apusul timpuriu în jurul orei 16:30; vederea asupra orașului iluminat în zăpadă este de o frumusețe uluitoare.",
+                "en": "Experience the early sunset around 4:30 PM; the view of the illuminated city in the snow is breathtakingly beautiful."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Bringatúránkat a történelmi Rumlaborg erőd romjainál kezdjük, majd az Equmeniakyrkan felé pedálozunk a friss levegőn. Délben a Mjölkafållan park zöldjében pihenünk, mielőtt a helyi történelmet őrző Kruthuset múzeumot fedezzük fel. Délután a híres Husqvarna Gyármúzeum gépeit és innovációit csodáljuk meg egy alapos séta során. A napot a Smedbyn vörös faházai közötti hangulatos tekeréssel zárjuk.",
         "ro": "Turul pe bicicletă începe la ruinele istorice Rumlaborg și continuă cu o oprire relaxantă la Equmeniakyrkan. La prânz, parcul Mjölkafållan oferă o oază verde, înainte de a explora fascinantul muzeu Kruthuset, plin de istorie locală. După-amiaza este rezervată celebrului Muzeu al Fabricii Husqvarna, unde tehnologia prinde viață. Turul se încheie cu o plimbare idilică prin pitorescul cartier Smedbyn.",
         "en": "Our bike tour starts at the historic Rumlaborg ruins, before pedaling easily to the modern Equmeniakyrkan. At midday, the Mjölkafållan park offers a green oasis, followed by an exploration of the fascinating Kruthuset, which is full of local history. The afternoon belongs to the famous Husqvarna Factory Museum, where industrial innovation comes to life. We conclude the day by rolling through the idyllic red cottages of Smedbyn."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt an der historischen Stätte Rumlaborg. Mittags bietet die Equmeniakyrkan eine trockene Pause, bevor es durch den nassen Mjölkafållan-Park geht. Der Nachmittag steht im Zeichen der Indoor-Kultur im Kruthuset und Fabriksmuseum, wo das Rad sicher geparkt werden kann. Vorsicht auf den rutschigen Straßen von Smedbyn am Abend.",
+            "hu": "Az esős kerékpáros nap Rumlaborg történelmi helyszínén indul. Délben az Equmeniakyrkan nyújt száraz pihenőt, mielőtt a vizes Mjölkafållan parkon át tekernénk. A délután a fedett kultúráé a Kruthusetben és a Gyármúzeumban, ahol a bicikli biztonságban leparkolható. Este vigyázzon Smedbyn csúszós utcáin.",
+            "ro": "O zi ploioasă pe bicicletă începe la situl istoric Rumlaborg. La prânz, Equmeniakyrkan oferă o pauză uscată înainte de a traversa parcul umed Mjölkafållan. După-amiaza este dedicată culturii de interior la Kruthuset și Muzeul Fabricii. Atenție la străzile alunecoase din Smedbyn pe seară.",
+            "en": "A rainy cycling day starts at the historical site of Rumlaborg. At noon, Equmeniakyrkan provides a dry break before riding through the wet Mjölkafållan park. The afternoon focuses on indoor culture at Kruthuset and the Factory Museum, where bikes can be safely parked. Be careful on the slippery streets of Smedbyn in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rumlaborg",
+                "hu": "Rumlaborg",
+                "ro": "Rumlaborg",
+                "en": "Rumlaborg"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade können schlammig sein; genießen Sie die historische Aussicht kurz und tragen Sie eine gute Regenjacke beim Treten.",
+                "hu": "Az ösvények sárgaek lehetnek; élvezze rövid ideig a történelmi kilátást, és viseljen jó esőkabátot tekerés közben.",
+                "ro": "Potecile pot fi noroioase; bucurați-vă scurt de vederea istorică și purtați o jachetă de ploaie bună în timp ce pedalați.",
+                "en": "Paths can be muddy; enjoy the historical view briefly and wear a good rain jacket while pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Equmeniakyrkan Huskvarna",
+                "hu": "Equmeniakyrkan Huskvarna",
+                "ro": "Equmeniakyrkan Huskvarna",
+                "en": "Equmeniakyrkan Huskvarna"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften und die moderne Architektur im Trockenen zu bewundern, bevor es weitergeht.",
+                "hu": "Ideális hely az esőruházat rövid szellőztetésére és a modern építészet szárazon történő megcsodálására a továbbhaladás előtt.",
+                "ro": "Un loc ideal pentru a aerisi scurt hainele de ploaie și pentru a admira arhitectura modernă la adăpost înainte de a pleca mai departe.",
+                "en": "An ideal place to air out rain gear briefly and admire the modern architecture while dry before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Mjölkafållan",
+                "hu": "Mjölkafållan",
+                "ro": "Mjölkafållan",
+                "en": "Mjölkafållan"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Wegen und nutzen Sie die Bäume als natürlichen Schutz vor leichtem Nieselregen.",
+                "hu": "Hajtson óvatosan a vizes utakon, és használja a fákat természetes menedékként a könnyű szemerkélő eső elől.",
+                "ro": "Conduceți cu atenție pe drumurile umede și folosiți copacii ca adăpost natural împotriva burniței ușoare.",
+                "en": "Ride carefully on the wet paths and use the trees as natural shelter from light drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kruthuset",
+                "hu": "Kruthuset",
+                "ro": "Kruthuset",
+                "en": "Kruthuset"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter und erkunden Sie dieses historische Gebäude; es bietet einen perfekten Schutz vor einem kräftigen Schauer.",
+                "hu": "Parkolja le a biciklit fedett helyre, és fedezze fel ezt a történelmi épületet; tökéletes védelmet nyújt egy kiadós zápor elől.",
+                "ro": "Parcați bicicleta la adăpost și explorați această clădire istorică; oferă o protecție perfectă împotriva unei ploi torențiale.",
+                "en": "Park your bike under cover and explore this historic building; it offers perfect protection from a heavy shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Husqvarna Fabriksmuseum",
+                "hu": "Husqvarna Gyármúzeum",
+                "ro": "Muzeul Fabricii Husqvarna",
+                "en": "Husqvarna Factory Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Abstellplätze direkt am Eingang und gönnen Sie sich eine lange Pause in den trockenen, faszinierenden Ausstellungshallen.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő tárolókat, és engedjen magának egy hosszú szünetet a száraz, lenyűgöző kiállítótermekben.",
+                "ro": "Folosiți locurile de parcare direct de la intrare și acordați-vă o pauză lungă în sălile de expoziție uscate și fascinante.",
+                "en": "Use the parking spots right at the entrance and treat yourself to a long break in the dry, fascinating exhibition halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Smedbyn",
+                "hu": "Smedbyn",
+                "ro": "Smedbyn",
+                "en": "Smedbyn"
+              },
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster kann bei Nässe sehr rutschig sein; schieben Sie Ihr Rad lieber durch die malerischen Gassen der Handwerkersiedlung.",
+                "hu": "A macskakő nedvesen nagyon csúszós lehet; inkább tolja a biciklit a kézműves település festői utcáin.",
+                "ro": "Pavelele pot fi foarte alunecoase când sunt ude; mai bine împingeți bicicleta pe străduțele pitorești ale așezării artizanilor.",
+                "en": "The cobblestones can be very slippery when wet; it's better to push your bike through the picturesque alleys of the artisan settlement."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet erfrischend in Rumlaborg. Mittags bieten die Kirchen des Zentrums dringend benötigte Wärme. Der Nachmittag führt zum Kruthuset und dem Fabriksmuseum, wo man die kalten Finger bei Technikgeschichte auftauen kann. Achten Sie auf Glatteis auf den Radwegen. Da die Sonne früh untergeht, endet die Tour in der stimmungsvoll beleuchteten Smedbyn.",
+            "hu": "A téli túra frissítően indul Rumlaborgban. Délben a központ templomai nyújtanak égetően szükséges meleget. A délután a Kruthusethez és a Gyármúzeumhoz vezet, ahol a technika története közben felmelegíthetjük ujjainkat. Ügyeljen a jegesedésre a kerékpárutakon. Mivel a nap korán nyugszik, a túra a hangulatosan megvilágított Smedbynben ér véget.",
+            "ro": "Turul de iarnă începe revigorant la Rumlaborg. La prânz, bisericile din centru oferă căldura mult necesară. După-amiaza duce spre Kruthuset și Muzeul Fabricii, unde vă puteți încălzi degetele reci. Atenție la gheață pe pistele de biciclete. Deoarece soarele apune devreme, turul se încheie în Smedbyn iluminat.",
+            "en": "The winter tour starts refreshingly in Rumlaborg. At noon, the central churches provide much-needed warmth. The afternoon leads to Kruthuset and the Factory Museum, where you can thaw cold fingers while exploring technical history. Watch out for black ice on bike paths. As the sun sets early, the tour ends in the atmospherically lit Smedbyn."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rumlaborg",
+                "hu": "Rumlaborg",
+                "ro": "Rumlaborg",
+                "en": "Rumlaborg"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung; die Erhebung bietet einen tollen Blick auf die verschneite Umgebung, ist aber dem kalten Wind ausgesetzt.",
+                "hu": "Viseljen szélálló ruházatot; a magaslatról remek kilátás nyílik a havas környékre, de ki van téve a hideg szélnek.",
+                "ro": "Purtați haine rezistente la vânt; colina oferă o vedere excelentă asupra împrejurimilor înzăpezite, dar este expusă vântului rece.",
+                "en": "Wear windproof clothing; the elevation offers a great view of the snowy surroundings but is exposed to the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Equmeniakyrkan Huskvarna",
+                "hu": "Equmeniakyrkan Huskvarna",
+                "ro": "Equmeniakyrkan Huskvarna",
+                "en": "Equmeniakyrkan Huskvarna"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme der Kirche für eine kurze Pause und wärmen Sie Ihre Hände auf, bevor es wieder in den frostigen Fahrtwind geht.",
+                "hu": "Használja ki a templom melegét egy rövid szünetre, és melegítse fel kezeit, mielőtt újra a fagyos menetszélbe indulna.",
+                "ro": "Folosiți căldura bisericii pentru o scurtă pauză și încălziți-vă mâinile înainte de a porni din nou în vântul rece.",
+                "en": "Use the church's warmth for a short break and warm up your hands before heading back into the frosty wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mjölkafållan",
+                "hu": "Mjölkafållan",
+                "ro": "Mjölkafållan",
+                "en": "Mjölkafållan"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da die Wege unter dem glitzernden Schnee vereist sein können; genießen Sie die winterliche Stille des Parks.",
+                "hu": "Hajtson óvatosan, mert a csillogó hó alatt az utak jegesek lehetnek; élvezze a park téli csendjét.",
+                "ro": "Conduceți cu atenție, deoarece potecile pot fi înghețate sub zăpada sclipitoare; bucurați-vă de liniștea hivernală a parcului.",
+                "en": "Ride carefully as paths may be icy under the glistening snow; enjoy the wintery silence of the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Kruthuset",
+                "hu": "Kruthuset",
+                "ro": "Kruthuset",
+                "en": "Kruthuset"
+              },
+              "tip_5lang": {
+                "de": "Ein geschichtsträchtiger Stopp zum Aufwärmen; die dicken Mauern schützen gut vor dem eisigen Winterwind.",
+                "hu": "Történelmi megálló a felmelegedéshez; a vastag falak jól védenek a jeges téli szél ellen.",
+                "ro": "O oprire plină de istorie pentru încălzire; zidurile groase oferă o protecție bună împotriva vântului înghețat de iarnă.",
+                "en": "A history-rich stop to warm up; the thick walls provide good protection against the icy winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Husqvarna Fabriksmuseum",
+                "hu": "Husqvarna Gyármúzeum",
+                "ro": "Muzeul Fabricii Husqvarna",
+                "en": "Husqvarna Factory Museum"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier eine lange Pause ein, um dem Frost komplett zu entkommen; das Museum ist im Winter ein echtes Highlight.",
+                "hu": "Tervezzen ide hosszú szünetet, hogy teljesen elmeneküljön a fagy elől; a múzeum télen igazi fénypont.",
+                "ro": "Planificați o pauză lungă aici pentru a scăpa complet de ger; muzeul este un adevărat punct forte iarna.",
+                "en": "Plan a long break here to completely escape the frost; the museum is a real highlight in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Smedbyn",
+                "hu": "Smedbyn",
+                "ro": "Smedbyn",
+                "en": "Smedbyn"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Beleuchtung in der Dämmerung; schieben Sie das Rad auf den oft rutschigen historischen Gassen.",
+                "hu": "Élvezze a hangulatos világítást a szürkületben; tolja a biciklit a gyakran csúszós történelmi utcákon.",
+                "ro": "Bucurați-vă de iluminatul primitor la amurg; împingeți bicicleta pe străduțele istorice deseori alunecoase.",
+                "en": "Enjoy the cozy lighting at dusk; push your bike on the often slippery historical alleys."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Ez az autós útvonal Huskvarna sokoldalúságát mutatja be, az Öxnehagakyrkan-tól a népszerű Sannabadet fürdőig haladva. Délben a Kruthuset történelmi fegyvergyűjteményét és a Strutsabacken lenyűgöző kilátását élvezzük. Délután a Brunstorpsbadet mellett elhaladva a híres Husqvarna Gyármúzeumban mélyedünk el az ipartörténetben. A tökéletes befejezés az Utsikten kilátóból elénk táruló panoráma az alkonyatban.",
         "ro": "Acest traseu auto arată diversitatea orașului Huskvarna, începând de la Öxnehagakyrkan și popularul Sannabadet. La prânz, descoperim armele istorice de la Kruthuset și ne bucurăm de priveliștile uimitoare de la Strutsabacken. După-amiaza ne duce la Brunstorpsbadet și apoi la istoria industrială captivantă din Muzeul Fabricii Husqvarna. Finalul perfect este priveliștea panoramică de la Utsikten în lumina amurgului.",
         "en": "This driving tour showcases the versatility of Huskvarna, starting at the Öxnehagakyrkan and the popular Sannabadet for a fresh morning. At midday, we discover historical artifacts at the Kruthuset and enjoy the stunning views from Strutsabacken. The afternoon takes us past Brunstorpsbadet to the captivating industrial history at the Husqvarna Factory Museum. The perfect finale is the sweeping view from Utsikten at dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Regentag im Auto startet an der Öxnehagakyrkan. Mittags bieten das Sannabadet und das Kruthuset beste Indoor-Unterhaltung. Der Nachmittag gehört dem großen Fabriksmuseum, während draußen der Regen fällt. Die Aussichtspunkte Strutsabacken und Utsikten lassen sich bequem vom trockenen Auto aus genießen, bevor der Tag gemütlich endet.",
+            "hu": "Az esős nap az autóban kényelmesen indul az Öxnehagakyrkannál. Délben a Sannabadet és a Kruthuset kínál remek fedett szórakozást. A délután a nagy Gyármúzeumé, miközben kint esik az eső. A Strutsabacken és Utsikten kilátópontokat a száraz autóból is élvezheti, mielőtt a nap kényelmesen véget érne.",
+            "ro": "O zi relaxată de ploaie cu mașina începe la Öxnehagakyrkan. La prânz, Sannabadet și Kruthuset oferă divertisment de interior excelent. După-amiaza aparține marelui Muzeu al Fabricii. Punctele de observație Strutsabacken și Utsikten pot fi savurate confortabil din mașină, înainte ca ziua să se încheie.",
+            "en": "A relaxed rainy day by car starts at Öxnehagakyrkan. At noon, Sannabadet and Kruthuset offer great indoor entertainment. The afternoon is dedicated to the large Factory Museum while the rain falls outside. Viewpoints like Strutsabacken and Utsikten can be enjoyed comfortably from the dry car before the day ends."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Öxnehagakyrkan",
+                "hu": "Öxnehagakyrkan",
+                "ro": "Öxnehagakyrkan",
+                "en": "Öxnehagakyrkan"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und bewundern Sie die moderne Architektur dieser Kirche, während Sie vor dem Regen geschützt sind.",
+                "hu": "Parkoljon közel a bejárathoz, és csodálja meg a templom modern építészetét, miközben védve van az esőtől.",
+                "ro": "Parcați aproape de intrare și admirați arhitectura modernă a acestei biserici, fiind protejat de ploaie.",
+                "en": "Park close to the entrance and admire the modern architecture of this church while being protected from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sannabadet",
+                "hu": "Sannabadet",
+                "ro": "Sannabadet",
+                "en": "Sannabadet"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Rückzugsort bei Regen; springen Sie ins warme Wasser oder genießen Sie die Hallenatmosphäre fernab des nassen Wetters.",
+                "hu": "Ideális menedék esőben; ugorjon a meleg vízbe, vagy élvezze a fedett uszoda hangulatát távol a vizes időjárástól.",
+                "ro": "Refugiul ideal pe ploaie; săriți în apa caldă sau bucurați-vă de atmosfera de interior departe de vremea umedă.",
+                "en": "The ideal retreat in the rain; jump into the warm water or enjoy the indoor pool atmosphere away from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kruthuset",
+                "hu": "Kruthuset",
+                "ro": "Kruthuset",
+                "en": "Kruthuset"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Gebäude bietet eine faszinierende Ausstellung im Trockenen; nutzen Sie den Parkplatz in direkter Nähe.",
+                "hu": "Ez a történelmi épület lenyűgöző kiállítást kínál fedett helyen; használja a közvetlen közelben lévő parkolót.",
+                "ro": "Această clădire istorică oferă o expoziție fascinantă la adăpost; folosiți parcarea din imediata apropiere.",
+                "en": "This historic building offers a fascinating exhibition indoors; use the parking lot in direct proximity."
+              }
+            },
+            {
+              "name": {
+                "de": "Strutsabacken",
+                "hu": "Strutsabacken",
+                "ro": "Strutsabacken",
+                "en": "Strutsabacken"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick direkt aus dem Auto, wenn der Regen zu stark wird; die Sicht auf den Vättern ist trotzdem spektakulär.",
+                "hu": "Élvezze a panorámát közvetlenül az autóból, ha túl erősen esne; a kilátás a Vättern-tóra így is látványos.",
+                "ro": "Bucurați-vă de panorama direct din mașină dacă ploaia devine prea puternică; vederea asupra lacului Vättern este oricum spectaculoasă.",
+                "en": "Enjoy the panoramic view directly from the car if the rain gets too heavy; the view of Lake Vättern is still spectacular."
+              }
+            },
+            {
+              "name": {
+                "de": "Brunstorpsbadet",
+                "hu": "Brunstorpsbadet",
+                "ro": "Brunstorpsbadet",
+                "en": "Brunstorpsbadet"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Blick auf den See vom Parkplatz aus; bei Regen ist die Gegend oft menschenleer und wirkt sehr friedlich.",
+                "hu": "Rövid pillantás a tóra a parkolóból; esőben a környék gyakran néptelen és nagyon békés hatást kelt.",
+                "ro": "O privire scurtă spre lac din parcare; pe ploaie, zona este adesea pustie și pare foarte liniștită.",
+                "en": "A quick look at the lake from the parking lot; in the rain, the area is often deserted and feels very peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Husqvarna Fabriksmuseum",
+                "hu": "Husqvarna Gyármúzeum",
+                "ro": "Muzeul Fabricii Husqvarna",
+                "en": "Husqvarna Factory Museum"
+              },
+              "tip_5lang": {
+                "de": "Die beste Adresse für einen regnerischen Nachmittag; tauchen Sie stundenlang in die Technikgeschichte ein, ohne nass zu werden.",
+                "hu": "A legjobb cím egy esős délutánra; merüljön el órákon át a technikai történelemben anélkül, hogy megázna.",
+                "ro": "Cea mai bună destinație pentru o după-amiază ploioasă; scufundați-vă în istoria tehnicii timp de ore întregi fără să vă udați.",
+                "en": "The best place for a rainy afternoon; dive into technical history for hours without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Utsikten",
+                "hu": "Utsikten",
+                "ro": "Utsikten",
+                "en": "Utsikten"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Regenwetter über dem See bequem vom Fahrersitz aus; die Stimmung ist bei grauem Himmel besonders eindrucksvoll.",
+                "hu": "Figyelje az esős időt a tó felett kényelmesen a vezetőülésből; a hangulat szürke égbolt mellett különösen hatásos.",
+                "ro": "Observați vremea ploioasă deasupra lacului confortabil de la volan; atmosfera este deosebit de impresionantă sub cerul gri.",
+                "en": "Watch the rainy weather over the lake comfortably from the driver's seat; the mood is especially impressive under grey skies."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag im Auto beginnt angenehm temperiert an der Öxnehagakyrkan. Mittags laden das Sannabadet zum Schwimmen und das Kruthuset zur Geschichte ein. Der Nachmittag gehört dem Fabriksmuseum, wo man die Kälte draußen vergisst. Besuchen Sie die Aussichtspunkte Strutsabacken und Utsikten in der frühen Dämmerung gegen 16 Uhr, um das verschneite Huskvarna im Lichterglanz zu sehen.",
+            "hu": "A téli nap az autóban kellemes hőmérsékletben indul az Öxnehagakyrkannál. Délben a Sannabadet úszásra, a Kruthuset pedig történelmi kalandozásra hív. A délután a Gyármúzeumé, ahol elfelejtheti a kinti hideget. Látogasson el a Strutsabacken és Utsikten kilátópontokhoz a korai szürkületben, 16 óra körül, hogy lássa a hófödte, kivilágított várost.",
+            "ro": "Ziua de iarnă cu mașina începe la o temperatură plăcută la Öxnehagakyrkan. La prânz, Sannabadet vă invită la înot, iar Kruthuset la istorie. După-amiaza aparține Muzeului Fabricii, unde uitați de frigul de afară. Vizitați punctele Strutsabacken și Utsikten la amurgul timpuriu, în jurul orei 16, pentru a vedea Huskvarna înzăpezită sub lumini.",
+            "en": "The winter day by car starts in a comfortably heated vehicle at Öxnehagakyrkan. At noon, Sannabadet invites you for a swim and Kruthuset for history. The afternoon is spent at the Factory Museum, where you'll forget the cold outside. Visit the Strutsabacken and Utsikten viewpoints in the early twilight around 4 PM to see snowy Huskvarna glowing with lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Öxnehagakyrkan",
+                "hu": "Öxnehagakyrkan",
+                "ro": "Öxnehagakyrkan",
+                "en": "Öxnehagakyrkan"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Architektur wirkt im Winterlicht besonders klar; genießen Sie die Wärme im Inneren vor der Weiterfahrt.",
+                "hu": "A modern építészet a téli fényben különösen letisztultnak hat; élvezze a belső meleget a továbbindulás előtt.",
+                "ro": "Arhitectura modernă pare deosebit de clară în lumina iernii; bucurați-vă de căldura din interior înainte de a pleca mai departe.",
+                "en": "The modern architecture looks especially clear in the winter light; enjoy the warmth inside before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Sannabadet",
+                "hu": "Sannabadet",
+                "ro": "Sannabadet",
+                "en": "Sannabadet"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im beheizten Schwimmbad auf – ein perfekter Kontrast zu den eisigen Außentemperaturen.",
+                "hu": "Melegedjen fel a fűtött uszodában – tökéletes kontraszt a jeges kinti hőmérséklethez képest.",
+                "ro": "Încălziți-vă în piscina încălzită – un contrast perfect cu temperaturile exterioare înghețate.",
+                "en": "Warm up in the heated swimming pool – a perfect contrast to the icy outdoor temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Kruthuset",
+                "hu": "Kruthuset",
+                "ro": "Kruthuset",
+                "en": "Kruthuset"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor und erkunden Sie die Geschichte; die dicken Mauern halten die Kälte gut ab.",
+                "hu": "Parkoljon közvetlenül előtte, és fedezze fel a történelmet; a vastag falak jól távol tartják a hideget.",
+                "ro": "Parcați chiar în față și explorați istoria; zidurile groase țin frigul la distanță.",
+                "en": "Park right in front and explore the history; the thick walls keep the cold out well."
+              }
+            },
+            {
+              "name": {
+                "de": "Strutsabacken",
+                "hu": "Strutsabacken",
+                "ro": "Strutsabacken",
+                "en": "Strutsabacken"
+              },
+              "tip_5lang": {
+                "de": "Die verschneite Piste und der Blick auf den See sind im Winter ein Traum; bleiben Sie für das Panorama kurz im warmen Auto.",
+                "hu": "A havas pálya és a tó látványa télen álomszerű; maradjon a panoráma kedvéért egy rövid ideig a meleg autóban.",
+                "ro": "Pârtia înzăpezită și vederea spre lac sunt de vis iarna; rămâneți în mașina caldă pentru o scurtă privire asupra panoramei.",
+                "en": "The snowy slopes and the lake view are a dream in winter; stay in the warm car for a short time to enjoy the panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Brunstorpsbadet",
+                "hu": "Brunstorpsbadet",
+                "ro": "Brunstorpsbadet",
+                "en": "Brunstorpsbadet"
+              },
+              "tip_5lang": {
+                "de": "Der zugefrorene See am Ufer bietet eine faszinierende Kulisse; ein schneller Stopp für ein Winterfoto lohnt sich.",
+                "hu": "A partnál befagyott tó lenyűgöző kulisszát kínál; egy gyors megálló egy téli fotóért megéri.",
+                "ro": "Lacul înghețat la mal oferă un decor fascinant; merită o oprire rapidă pentru o fotografie de iarnă.",
+                "en": "The frozen lake at the shore offers a fascinating backdrop; a quick stop for a winter photo is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Husqvarna Fabriksmuseum",
+                "hu": "Husqvarna Gyármúzeum",
+                "ro": "Muzeul Fabricii Husqvarna",
+                "en": "Husqvarna Factory Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Nachmittag in den warmen Ausstellungsräumen und erfahren Sie alles über die weltbekannte Marke im Winterquartier.",
+                "hu": "Élvezze a délutánt a meleg kiállítótermekben, és tudjon meg mindent a világhírű márkáról a téli szálláson.",
+                "ro": "Bucurați-vă de după-amiază în sălile de expoziție calde și aflați totul despre marca renumită mondial în cartierul de iarnă.",
+                "en": "Enjoy the afternoon in the warm exhibition halls and learn all about the world-famous brand in its winter quarters."
+              }
+            },
+            {
+              "name": {
+                "de": "Utsikten",
+                "hu": "Utsikten",
+                "ro": "Utsikten",
+                "en": "Utsikten"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für die blaue Stunde; das Lichtermeer von Huskvarna im Schnee ist vom Aussichtspunkt aus magisch.",
+                "hu": "A tökéletes hely a 'kék órához'; Huskvarna fényei a hóban varázslatosak a kilátópontról.",
+                "ro": "Locul perfect pentru ora albastră; marea de lumini din Huskvarna în zăpadă este magică de la punctul de observație.",
+                "en": "The perfect spot for the blue hour; the sea of lights from Huskvarna in the snow is magical from the viewpoint."
+              }
+            }
+          ]
+        }
       }
     }
   }

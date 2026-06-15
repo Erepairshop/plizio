@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját L'Arbresle spirituális szívében, a központi templomnál. Délben fedezze fel a festői utcák rejtett történelmi kincseit. A délután további vallási emlékművekhez és építészeti látványosságokhoz vezet. Késő délután pedig zárja a napot Le Corbusier zseniális építészeti remekművével.",
         "ro": "Începeți plimbarea în inima spirituală din L'Arbresle, la biserica sa centrală. La prânz, descoperiți comorile istorice ascunse pe străzile pitorești. După-amiaza vă conduce către alte monumente religioase și puncte de atracție arhitecturale. Spre seară, încheiați ziua cu capodopera lui Le Corbusier.",
         "en": "Begin your walking tour in the spiritual heart of L'Arbresle at the central church. At midday, discover the hidden historical treasures in the picturesque streets. The afternoon leads you to additional religious monuments and structural highlights. By late afternoon, round off the day at Le Corbusier's masterpiece."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang in der Kirche Saint-Jean-Baptiste, um im Trockenen zu starten. Mittags erkunden Sie die Porte und Kirchen mit griffbereitem Regenschirm. Nachmittags geht es zur Glacière und zur Sainte-Marie de La Tourette, die im Regen besonders wirkt. Beenden Sie den Spaziergang sicher und achten Sie auf rutschiges Kopfsteinpflaster.",
+            "hu": "Kezdje a sétát az eső elől menedéket nyújtó Saint-Jean-Baptiste templomnál. Délben fedezze fel a Portét és a közeli templomokat, esernyővel a kézben. Délután a Glacière és az ikonikus Sainte-Marie de La Tourette következik, melyek esőben is lenyűgözőek. Este óvatosan fejezze be az utat, ügyelve a csúszós macskakövekre.",
+            "ro": "Începeți plimbarea ploioasă la Biserica Saint-Jean-Baptiste pentru adăpost. La prânz, explorați Porte și bisericile din apropiere, cu umbrela pregătită. După-amiaza vă duce spre Glacière și emblematica Sainte-Marie de La Tourette, care are o atmosferă deosebită pe ploaie. Încheiați în siguranță, atenți la piatra cubică alunecoasă.",
+            "en": "Start your rainy walk at Saint-Jean-Baptiste Church for early shelter. Midday, explore the historic Porte and nearby churches, keeping an umbrella handy. The afternoon takes you towards the Glacière and the iconic Sainte-Marie de La Tourette, which offers a striking atmosphere in the rain. End your walk safely, watching for slippery cobblestones in the historic center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Jean-Baptiste Church",
+                "hu": "Saint-Jean-Baptiste Church",
+                "ro": "Saint-Jean-Baptiste Church",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bunten Fenster von drinnen und finden Sie Schutz vor dem Regen, während Sie die Architektur genießen.",
+                "hu": "Csodálja meg az ólomüveg ablakokat bentről, menedéket találva az eső elől, miközben élvezi a történelmi építészetet.",
+                "ro": "Admirați vitraliile din interior, găsind adăpost de ploaie în timp ce vă bucurați de arhitectura istorică.",
+                "en": "Admire the stained glass from inside, finding shelter from the rain while enjoying the historic architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de l'église de la Madeleine",
+                "hu": "Porte de l'église de la Madeleine",
+                "ro": "Porte de l'église de la Madeleine",
+                "en": "Porte de l'église de la Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto unter dem Schirm; der historische Steinbogen ist bei Nässe rutschig, treten Sie vorsichtig auf.",
+                "hu": "Készítsen egy gyors fotót az esernyő alól; a történelmi kőív nedvesen csúszós, ezért lépjen nagyon óvatosan.",
+                "ro": "Faceți o fotografie rapidă sub umbrelă; arcul istoric de piatră este alunecos când e ud, pășiți cu mare grijă.",
+                "en": "Take a quick photo under your umbrella; the historic stone arch is slippery when wet, so step carefully here."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in dieser ruhigen Kirche Zuflucht vor Regenschauern und bewundern Sie das gedämpfte Licht im Inneren.",
+                "hu": "Keressen menedéket a záporok elől ebben a csendes templomban, és csodálja meg a belső tér eső tompította fényeit.",
+                "ro": "Căutați refugiu din ploaie în această biserică liniștită și admirați lumina sumbră a interiorului în zilele ploioase.",
+                "en": "Seek refuge from showers inside this quiet church and marvel at the somber, rain-muted lighting of the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Glacière du XVIIIe siècle",
+                "hu": "Glacière du XVIIIe siècle",
+                "ro": "Glacière du XVIIIe siècle",
+                "en": "Glacière du XVIIIe siècle"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zu diesem Eiskeller aus dem 18. Jahrhundert kann schlammig sein; tragen Sie feste, wasserdichte Schuhe.",
+                "hu": "A 18. századi jégveremhez vezető út sáros lehet; viseljen masszív, vízálló cipőt a rövid kinti sétához.",
+                "ro": "Calea spre această ghețărie din secolul 18 poate fi noroioasă; purtați pantofi impermeabili pentru scurta plimbare.",
+                "en": "The path to this 18th-century ice house can be muddy; wear sturdy waterproof shoes for the short walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Marie de La Tourette",
+                "hu": "Sainte-Marie de La Tourette",
+                "ro": "Sainte-Marie de La Tourette",
+                "en": "Sainte-Marie de La Tourette"
+              },
+              "tip_5lang": {
+                "de": "Le Corbusiers Beton-Meisterwerk wirkt unter grauen Himmeln dramatisch; suchen Sie drinnen Schutz zur Erkundung.",
+                "hu": "Le Corbusier beton remekműve drámaian fest a szürke ég alatt; keressen menedéket bent, hogy felfedezze az építészetet.",
+                "ro": "Capodopera de beton a lui Le Corbusier arată dramatic sub cerul gri; intrați pentru a explora arhitectura fascinantă.",
+                "en": "Le Corbusier's concrete masterpiece looks dramatic under grey skies; take cover inside to explore the architecture."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für den winterlichen Spaziergang ab der Kirche Saint-Jean-Baptiste. Mittags erkunden Sie die Porte und Saint-Pierre an der frischen Winterluft. Nachmittags bieten die Glacière und Sainte-Marie de La Tourette frostige Ausblicke. Beenden Sie den Spaziergang vor dem frühen Sonnenuntergang um 17 Uhr und wärmen Sie sich auf.",
+            "hu": "Öltözzön melegen a téli séta kezdetén a Saint-Jean-Baptiste templomnál. Délben élvezze a csípős levegőt a Porte és a Saint-Pierre templom felfedezése közben. Délután a Glacière és a Sainte-Marie de La Tourette fagyos, békés látványt nyújt. Fejezze be a sétát a korai, 17 óra körüli sötétedés előtt, és keressen egy meleg helyet.",
+            "ro": "Îmbrăcați-vă gros pentru plimbarea de iarnă începând de la Biserica Saint-Jean-Baptiste. La prânz, explorați Porte și Saint-Pierre în aerul rece de iarnă. După-amiaza, Glacière și Sainte-Marie de La Tourette oferă priveliști înghețate și liniștite. Terminați plimbarea înainte de apusul de la ora 17:00, căutând un loc călduros.",
+            "en": "Wrap up warmly to start your winter walk at the historic Saint-Jean-Baptiste Church. Midday, explore the Porte and Saint-Pierre, enjoying the crisp winter air. In the afternoon, the Glacière and Sainte-Marie de La Tourette offer peaceful, frosty views. Finish your walk before the early sunset around 5 PM, heading somewhere cozy to warm up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Jean-Baptiste Church",
+                "hu": "Saint-Jean-Baptiste Church",
+                "ro": "Saint-Jean-Baptiste Church",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Das steinerne Innere kann im Winter kühl sein, behalten Sie Ihren Mantel an, während Sie das beeindruckende Kirchenschiff betrachten.",
+                "hu": "A kőbelső télen hűvös lehet, ezért tartsa magán meleg kabátját, miközben a lenyűgöző történelmi hajót nézi.",
+                "ro": "Interiorul de piatră poate fi răcoros iarna, așa că păstrați-vă haina caldă în timp ce priviți naosul impresionant.",
+                "en": "The stone interior can be chilly in winter, so keep your warm coat on while viewing the impressive historic nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de l'église de la Madeleine",
+                "hu": "Porte de l'église de la Madeleine",
+                "ro": "Porte de l'église de la Madeleine",
+                "en": "Porte de l'église de la Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Die frische Winterluft hebt das mittelalterliche Mauerwerk hervor; tragen Sie warme Handschuhe beim Betrachten der Details.",
+                "hu": "A csípős téli levegő kiemeli a középkori kőmunkát; viseljen meleg kesztyűt, miközben közelről vizsgálja a részleteket.",
+                "ro": "Aerul rece de iarnă evidențiază zidăria medievală; purtați mănuși calde în timp ce examinați detaliile antice.",
+                "en": "The crisp winter air highlights the medieval stonework; wear warm gloves while examining the ancient details closely."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Halt an einem kalten Wintertag; treten Sie ein, um dem eisigen Wind für einen Moment der Ruhe zu entkommen.",
+                "hu": "Békés megálló egy hideg téli napon; lépjen be, hogy elmeneküljön a metsző szél elől néhány pillanatnyi nyugalomra.",
+                "ro": "O oprire pașnică într-o zi rece de iarnă; intrați pentru a scăpa de vântul tăios pentru câteva momente de liniște.",
+                "en": "A peaceful stop on a cold winter day; step inside to escape the biting wind for a few moments of quiet reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Glacière du XVIIIe siècle",
+                "hu": "Glacière du XVIIIe siècle",
+                "ro": "Glacière du XVIIIe siècle",
+                "en": "Glacière du XVIIIe siècle"
+              },
+              "tip_5lang": {
+                "de": "Ein passender Winterort; stellen Sie sich die historische Eislagerung vor, während Sie sich warm einpacken.",
+                "hu": "Illő téli helyszín; képzelje el a történelmi jégtárolást, miközben kényelmesen bebugyolálja magát a fagy ellen.",
+                "ro": "Un loc potrivit de iarnă; imaginați-vă depozitarea istorică a gheții, înfofolit confortabil împotriva gerului.",
+                "en": "A fitting winter site; imagine the historic ice storage while bundled up comfortably against the afternoon frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Marie de La Tourette",
+                "hu": "Sainte-Marie de La Tourette",
+                "ro": "Sainte-Marie de La Tourette",
+                "en": "Sainte-Marie de La Tourette"
+              },
+              "tip_5lang": {
+                "de": "Der nackte Beton kontrastiert schön mit der Winterlandschaft; stellen Sie sicher, dass Sie vor 17 Uhr fertig sind.",
+                "hu": "A csupasz beton gyönyörűen kontrasztos a téli tájjal; ügyeljen arra, hogy még a korai, 17 órai naplemente előtt végezzen.",
+                "ro": "Betonul brut contrastează frumos cu peisajul de iarnă; asigurați-vă că terminați înainte de apusul de la ora 17:00.",
+                "en": "The stark concrete contrasts beautifully with a winter landscape; ensure you finish before the early 5 PM sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Indítsa kerékpártúráját L'Arbresle főtemplománál, és szívja magába a reggeli hangulatot. Délben tekerjen át a történelmi központon további gyönyörű templomok felé. Délután látogasson el a híres La Tourette kolostorhoz. Végül fejezze be a napot a Sain-Bel lenyűgöző középkori várromjainál, ahonnan csodás a kilátás.",
         "ro": "Începeți turul cu bicicleta la biserica principală din L'Arbresle și bucurați-vă de atmosfera dimineții. La prânz, pedalați prin centrul istoric către alte biserici frumoase. După-amiaza, mergeți la faimoasa mănăstire La Tourette. Încheiați ziua relaxându-vă la impresionantele ruine ale castelului Sain-Bel.",
         "en": "Start your bike tour at the main church of L'Arbresle and soak in the fresh morning atmosphere. Around noon, ride through the historic center towards other beautiful churches. In the afternoon, pedal to the famous monastery of La Tourette. Finally, end your active day at the impressive castle ruins of Sain-Bel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre nasse Radtour bei Saint-Jean-Baptiste und achten Sie auf feuchte Straßen. Mittags radeln Sie mit wasserfester Kleidung zur Porte und Saint-Joseph. Die Nachmittagsfahrt zur Sainte-Marie de La Tourette und zum Château de Sain-Bel erfordert Vorsicht. Beenden Sie die Tour früh, da nasse Bremsen und rutschige Wege abends gefährlich sind.",
+            "hu": "Kezdje az esős biciklitúrát a Saint-Jean-Baptiste-nál, vigyázva a nedves utakon. Délben tekerjen a Porte és a Saint-Joseph felé, megfelelő vízálló ruházatban. A délutáni út a Sainte-Marie de La Tourette és a Sain-Bel kastély felé óvatosságot igényel. Fejezze be korán, mert a nedves fékek és csúszós utak este veszélyesek lehetnek.",
+            "ro": "Începeți turul cu bicicleta pe ploaie la Saint-Jean-Baptiste, atenți la drumurile umede. La prânz, pedalați spre Porte și Saint-Joseph cu echipament impermeabil. Plimbarea de după-amiază spre Sainte-Marie de La Tourette și Château de Sain-Bel necesită prudență. Încheiați devreme, deoarece frânele umede și căile alunecoase sunt riscante.",
+            "en": "Start your wet bike tour at Saint-Jean-Baptiste, taking care on the damp roads. Midday, pedal past the Porte and Saint-Joseph, wearing proper waterproof gear. The afternoon ride to Sainte-Marie de La Tourette and Château de Sain-Bel is beautiful, but requires caution. End early, as wet brakes and slippery paths make evening riding tricky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Jean-Baptiste Church",
+                "hu": "Saint-Jean-Baptiste Church",
+                "ro": "Saint-Jean-Baptiste Church",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad vorsichtig, da der nasse Pflasterstein nahe der Kirche bei Regen sehr rutschig sein kann.",
+                "hu": "Óvatosan parkolja le a biciklit, mert a templom melletti nedves burkolat hirtelen felhőszakadáskor nagyon csúszós lehet.",
+                "ro": "Parcați bicicleta cu grijă, deoarece pavajul umed de lângă biserică poate fi foarte alunecos în timpul ploilor abundente.",
+                "en": "Park your bike carefully, as the wet pavement near the church can be very slippery during sudden heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de l'église de la Madeleine",
+                "hu": "Porte de l'église de la Madeleine",
+                "ro": "Porte de l'église de la Madeleine",
+                "en": "Porte de l'église de la Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bei der Annäherung langsamer; das historische Kopfsteinpflaster um das Tor ist bei Regen ziemlich glatt.",
+                "hu": "Lassítson a megközelítéskor; a történelmi macskakövek ezen az ősi kapunál meglehetősen csúszósak, amikor esik az eső.",
+                "ro": "Încetiniți la apropiere; piatra cubică istorică din jurul acestei porți vechi este destul de alunecoasă când plouă.",
+                "en": "Slow down on your approach; the historic cobblestones around this ancient gate are quite slick when it is raining."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Joseph",
+                "hu": "Église Saint-Joseph",
+                "ro": "Église Saint-Joseph",
+                "en": "Église Saint-Joseph"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort zum kurzen Trocknen; machen Sie eine Pause vom Radfahren im Regen, um das friedliche Innere zu bewundern.",
+                "hu": "Remek hely egy kis száradásra; tartson egy rövid szünetet az esőben való tekerés után, hogy megcsodálja a békés belsőt.",
+                "ro": "Un loc excelent pentru a vă usca momentan; luați o scurtă pauză de la pedalat în ploaie pentru a admira interiorul senin.",
+                "en": "A great place to dry off momentarily; take a short break from cycling in the rain to admire the serene interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Marie de La Tourette",
+                "hu": "Sainte-Marie de La Tourette",
+                "ro": "Sainte-Marie de La Tourette",
+                "en": "Sainte-Marie de La Tourette"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Straßen zu diesem Architekturwunder erfordern gute Bremsen; genießen Sie die trockene Führung sicher.",
+                "hu": "Az ezen építészeti csodához vezető nedves utak jó fékeket igényelnek; élvezze biztonságosan a száraz beltéri túrát.",
+                "ro": "Drumurile umede spre această minune arhitecturală necesită frâne bune; bucurați-vă în siguranță de turul interior uscat.",
+                "en": "The wet roads leading up to this architectural marvel require good brakes; enjoy the dry indoor guided tour safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Sain-Bel",
+                "hu": "Château de Sain-Bel",
+                "ro": "Château de Sain-Bel",
+                "en": "Château de Sain-Bel"
+              },
+              "tip_5lang": {
+                "de": "Das Schlossgelände wird sehr schlammig, bleiben Sie auf befestigten Wegen und genießen Sie die Aussicht im Regen.",
+                "hu": "A kastély területe nagyon sáros lehet, maradjon a burkolt utakon, és élvezze biztonságosan a középkori kilátást esőben.",
+                "ro": "Terenul castelului devine foarte noroios, așa că rămâneți pe căile pavate și bucurați-vă de priveliștile medievale pe ploaie.",
+                "en": "The castle's grounds get very muddy, so stick to paved paths and enjoy the robust medieval views safely in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warme Schichten an für eine frische Winterradtour ab Saint-Jean-Baptiste. Mittags radeln Sie durch die kühlen Straßen zur Porte und Saint-Joseph. Der Nachmittag bringt frostige Ausblicke bei Sainte-Marie de La Tourette und Château de Sain-Bel. Beenden Sie die Tour bis 17 Uhr, um der Dunkelheit und Kälte zuvorzukommen.",
+            "hu": "Öltözzön termikus rétegekbe a frissítő téli bringázáshoz a Saint-Jean-Baptiste-tól. Délben tekerjen a hideg utcákon a Porte és a Saint-Joseph felé. A délután fagyos kilátást hoz a Sainte-Marie de La Tourette és a Sain-Bel kastélynál. Érjen célba 17:00 óráig, elkerülve a zuhanó hőmérsékletet és a korai sötétedést.",
+            "ro": "Îmbrăcați straturi termice pentru o plimbare revigorantă cu bicicleta începând la Saint-Jean-Baptiste. La prânz, pedalați pe străzile reci spre Porte și Saint-Joseph. După-amiaza aduce priveliști înghețate la Sainte-Marie de La Tourette și Château de Sain-Bel. Terminați până la 17:00 pentru a evita temperaturile scăzute și întunericul.",
+            "en": "Gear up in thermal layers for a brisk winter bike ride starting at Saint-Jean-Baptiste. Midday, cycle through the chilled streets to the Porte and Saint-Joseph. The afternoon brings frosty views at Sainte-Marie de La Tourette and Château de Sain-Bel. Aim to finish by 5 PM to avoid dropping temperatures and the early winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Jean-Baptiste Church",
+                "hu": "Saint-Jean-Baptiste Church",
+                "ro": "Saint-Jean-Baptiste Church",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad schnell mit warmen Handschuhen ab; der kalte Winterwind lässt die Steinfassade noch kälter wirken.",
+                "hu": "Zárja le gyorsan a kerékpárt meleg kesztyűben; a csípős téli szél miatt a történelmi kőhomlokzat még hidegebbnek hat.",
+                "ro": "Blocați-vă bicicleta rapid cu mănuși calde; vântul tăios de iarnă face ca fațada istorică de piatră să pară și mai rece.",
+                "en": "Lock your bike quickly with warm gloves; the brisk winter wind makes the historic stone facade feel even colder."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de l'église de la Madeleine",
+                "hu": "Porte de l'église de la Madeleine",
+                "ro": "Porte de l'église de la Madeleine",
+                "en": "Porte de l'église de la Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Das historische Tor hebt sich vom blassen Winterhimmel ab; tragen Sie exzellente Thermokleidung für die Fahrt hierher.",
+                "hu": "A történelmi kapu élesen emelkedik ki a halvány téli égboltból; viseljen kiváló termikus rétegeket az ideúthoz.",
+                "ro": "Poarta istorică se distinge pe cerul palid de iarnă; îmbrăcați-vă în straturi termice excelente pentru plimbarea până aici.",
+                "en": "The historic gateway stands stark against the pale winter sky; dress in excellent thermal layers for the ride here."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Joseph",
+                "hu": "Église Saint-Joseph",
+                "ro": "Église Saint-Joseph",
+                "en": "Église Saint-Joseph"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie ab, dehnen Sie sich und wärmen Sie Ihre Hände in dieser einladenden Kirche, bevor die Kälte richtig einsetzt.",
+                "hu": "Szálljon le a kerékpárról, nyújtózzon és melegítse meg a kezét ebben a barátságos templomban, mielőtt beáll a mélyebb hideg.",
+                "ro": "Coborâți de pe bicicletă pentru a vă încălzi mâinile în această biserică primitoare, înainte să se instaleze frigul serios.",
+                "en": "Step off your bike to stretch and warm your hands inside this welcoming church before the deeper cold sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Marie de La Tourette",
+                "hu": "Sainte-Marie de La Tourette",
+                "ro": "Sainte-Marie de La Tourette",
+                "en": "Sainte-Marie de La Tourette"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg wird Sie aufwärmen, aber wegen der winterlichen Kälte ab 16 Uhr sollten Sie nicht zu lange draußen bleiben.",
+                "hu": "Az emelkedő felmelegíti, de a 16 óra körül ereszkedő téli hideg miatt ne időzzön túl sokat a szabadban.",
+                "ro": "Urcarea vă va încălzi, dar frigul de iarnă care coboară în jurul orei 16:00 înseamnă că nu ar trebui să zăboviți afară.",
+                "en": "The uphill climb will warm you up, but the descending winter chill around 4 PM means you should not linger outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Sain-Bel",
+                "hu": "Château de Sain-Bel",
+                "ro": "Château de Sain-Bel",
+                "en": "Château de Sain-Bel"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss auf dem Hügel fängt die eisigen Winterwinde ein; sichern Sie Ihr Rad und gehen Sie schnell hinein.",
+                "hu": "A hegytetőn lévő kastély közvetlenül fogja fel a csípős téli szeleket; rögzítse a biciklit, és gyorsan menjen be.",
+                "ro": "Castelul de pe deal prinde vânturile aspre de iarnă; asigurați-vă bicicleta și intrați rapid pentru a explora.",
+                "en": "The hilltop castle catches the brisk winter winds directly; secure your bike and quickly head inside to explore."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Utazása a magasan fekvő óváros hangulatos középkori utcáin veszi kezdetét. Délben fedezze fel a környék bájos és kiválóan megőrzött vallási helyszíneit. Délután autózzon el a világhírű Sainte-Marie de La Tourette kolostorhoz. Az estét a Sain-Bel fenséges várromjának lenyűgöző látványával koronázhatja meg.",
         "ro": "Călătoria dumneavoastră începe pe străzile medievale ale orașului vechi așezat la înălțime. La prânz, explorați siturile religioase fermecătoare și bine conservate din împrejurimi. După-amiaza, conduceți la celebra mănăstire Sainte-Marie de La Tourette. Seara se încheie cu o vizită la castelul maiestuos din Sain-Bel.",
         "en": "Your scenic drive begins in the medieval streets of the elevated old town area. At midday, explore the charming and well-preserved religious sites located nearby. In the afternoon, drive out to the world-famous Sainte-Marie de La Tourette monastery. Conclude your evening with a visit to the majestic castle of Sain-Bel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Fahrt in der Altstadt mit einsatzbereiten Scheibenwischern. Mittags besuchen Sie Église Saint-Germain und Saint-Jean-Baptiste mit Regenschirm für kurze Wege. Nachmittags parken Sie bei Sainte-Marie de La Tourette und Château de Sain-Bel. Fahren Sie abends vorsichtig, da der Regen die Sicht auf lokalen Straßen einschränkt.",
+            "hu": "Kezdje az esős autózást az óvárosban, használja gyakran az ablaktörlőt. Délben látogassa meg az Église Saint-Germain és Saint-Jean-Baptiste templomokat, esernyővel a rövid sétákhoz. Délután parkoljon a Sainte-Marie de La Tourette és a Sain-Bel kastély közelében. Este vezessen óvatosan, mert az eső korlátozza a látási viszonyokat a helyi utakon.",
+            "ro": "Începeți plimbarea cu mașina pe ploaie în Orașul Vechi. La prânz, vizitați Église Saint-Germain și Saint-Jean-Baptiste, luând o umbrelă pentru plimbările scurte. După-amiaza, parcați lângă Sainte-Marie de La Tourette și Château de Sain-Bel pentru adăpost. Conduceți cu atenție seara, deoarece ploaia reduce vizibilitatea pe drumurile locale.",
+            "en": "Begin your rainy drive at the Old Town, keeping your windshield wipers ready. Midday, visit Église Saint-Germain and Saint-Jean-Baptiste, bringing an umbrella for short walks. In the afternoon, park near Sainte-Marie de La Tourette and Château de Sain-Bel, taking shelter inside. Drive carefully in the evening as rain limits visibility on local roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Old Town (Vieux Bourg)",
+                "hu": "Old Town (Vieux Bourg)",
+                "ro": "Old Town (Vieux Bourg)",
+                "en": "Old Town (Vieux Bourg)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie zentrumsnah und nehmen Sie einen großen Schirm, um die feuchten Gassen ohne Eile zu erkunden.",
+                "hu": "Parkoljon a központ közelében, és vigyen nagy esernyőt, hogy rohanás nélkül fedezze fel a hangulatos, nedves utcákat.",
+                "ro": "Parcați aproape de centru și luați o umbrelă mare pentru a explora străzile umede și pitorești fără a vă grăbi.",
+                "en": "Park near the center and bring a large umbrella to explore the quaint, wet streets without rushing through the puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Germain",
+                "hu": "Église Saint-Germain",
+                "ro": "Église Saint-Germain",
+                "en": "Église Saint-Germain"
+              },
+              "tip_5lang": {
+                "de": "Ein praktischer Stopp, wo Sie sehr nah parken können; treten Sie schnell ein, um nicht vom Regen durchnässt zu werden.",
+                "hu": "Kényelmes történelmi megálló, ahol nagyon közel parkolhat; lépjen be gyorsan, hogy elkerülje a bőrig ázást az esőben.",
+                "ro": "O oprire istorică convenabilă unde puteți parca foarte aproape; intrați rapid pentru a evita să vă udați complet.",
+                "en": "A convenient historic stop where you can park very close by; step quickly inside to avoid getting soaked by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jean-Baptiste Church",
+                "hu": "Saint-Jean-Baptiste Church",
+                "ro": "Saint-Jean-Baptiste Church",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die bunten Fenster im trüben Regenlicht; achten Sie am nassen Eingang sorgfältig auf Ihre Schritte.",
+                "hu": "Élvezze a gyönyörű ólomüveget a borús esős fényben; óvatosan figyeljen a lépéseire a nedves bejáratnál.",
+                "ro": "Bucurați-vă de vitraliile iluminate de lumina ploioasă și înnorată; fiți atenți la pașii dumneavoastră pe intrarea udă.",
+                "en": "Enjoy the beautiful stained glass illuminated by the overcast rainy light; carefully watch your step on the wet entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Marie de La Tourette",
+                "hu": "Sainte-Marie de La Tourette",
+                "ro": "Sainte-Marie de La Tourette",
+                "en": "Sainte-Marie de La Tourette"
+              },
+              "tip_5lang": {
+                "de": "Die ikonische brutalistische Architektur ist im Regen beeindruckend; nutzen Sie den Parkplatz und laufen Sie ins Trockene.",
+                "hu": "Az ikonikus brutalista építészet lenyűgöző esőben; használja a közeli parkolót, és siessen be a bőséges menedékért.",
+                "ro": "Arhitectura brutalistă emblematică este izbitoare pe ploaie; folosiți parcarea din apropiere și alergați înăuntru la adăpost.",
+                "en": "The iconic brutalist architecture is striking in the rain; utilize the nearby parking and run inside for ample shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Sain-Bel",
+                "hu": "Château de Sain-Bel",
+                "ro": "Château de Sain-Bel",
+                "en": "Château de Sain-Bel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt mit dieser Festung; nutzen Sie die Innenräume, um trocken zu bleiben, während es draußen regnet.",
+                "hu": "Zárja autózását ezzel az erődítménnyel; használja a beltéri kiállításokat, hogy száraz maradjon, miközben kint esik.",
+                "ro": "Încheiați-vă traseul cu această fortăreață; folosiți expozițiile interioare pentru a rămâne uscat cât timp afară plouă.",
+                "en": "End your drive with this fortress; use the indoor exhibits to stay perfectly dry while the rain falls on the outer walls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Winterfahrt in der Altstadt mit enteisten Scheiben. Mittags machen Sie kurze Spaziergänge zur Église Saint-Germain und Saint-Jean-Baptiste. Der Nachmittag bietet tolle Ausblicke bei Sainte-Marie de La Tourette und Château de Sain-Bel. Fahren Sie abends sicher und achten Sie auf Glatteis nach Sonnenuntergang um 17 Uhr.",
+            "hu": "Kezdje a téli utazást az óvárosban, miután leolvasztotta az autó ablakait. Délben tegyen rövid sétákat az Église Saint-Germain és Saint-Jean-Baptiste templomokhoz. A délután lenyűgöző kilátást nyújt a Sainte-Marie de La Tourette és a Sain-Bel kastély felé. Este vezessen biztonságosan, vigyázva a fekete jégre a 17 órai naplemente után.",
+            "ro": "Începeți traseul de iarnă în Orașul Vechi, asigurându-vă că geamurile sunt dezghețate. La prânz, faceți plimbări scurte spre Église Saint-Germain și Saint-Jean-Baptiste. După-amiaza oferă priveliști frumoase la Sainte-Marie de La Tourette și Château de Sain-Bel. Conduceți cu grijă seara, atenți la gheața neagră după apusul de la 17:00.",
+            "en": "Start your winter drive in the Old Town, ensuring your car is properly defrosted. Midday, take short, crisp walks to Église Saint-Germain and Saint-Jean-Baptiste. The afternoon provides stark, beautiful views at Sainte-Marie de La Tourette and Château de Sain-Bel. Drive safely in the evening, watching for black ice after the sun sets at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Old Town (Vieux Bourg)",
+                "hu": "Old Town (Vieux Bourg)",
+                "ro": "Old Town (Vieux Bourg)",
+                "en": "Old Town (Vieux Bourg)"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den Morgen in den historischen Gassen, aber ziehen Sie sich warm an, da die Steinwege den Wind bündeln.",
+                "hu": "Kezdje a reggelt a történelmi utcák felfedezésével, de öltözzön fel melegen, mert a szűk kőösvények felerősítik a szelet.",
+                "ro": "Începeți dimineața explorând străzile istorice, dar îmbrăcați-vă gros, deoarece aleile înguste atrag vântul rece de iarnă.",
+                "en": "Start your morning exploring the historic streets, but dress warmly as the narrow stone alleys funnel the cold winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Germain",
+                "hu": "Église Saint-Germain",
+                "ro": "Église Saint-Germain",
+                "en": "Église Saint-Germain"
+              },
+              "tip_5lang": {
+                "de": "Die Autoheizung wird nach dem Besuch dieser schönen mittelalterlichen Kirche in der frostigen Luft sehr willkommen sein.",
+                "hu": "Az autó fűtése nagyon jól fog esni, miután meglátogatta ezt a szép középkori templomot a csípős, fagyos levegőn.",
+                "ro": "Încălzirea mașinii va fi foarte binevenită după vizitarea acestei frumoase biserici medievale în aerul rece și geros.",
+                "en": "The car's internal heater will be very welcome after visiting this lovely medieval church in the crisp, frosty air."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jean-Baptiste Church",
+                "hu": "Saint-Jean-Baptiste Church",
+                "ro": "Saint-Jean-Baptiste Church",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Weg vom Auto; knöpfen Sie den Mantel zu, da das steinerne Kircheninnere die Winterkälte lange speichert.",
+                "hu": "Egy gyors séta a parkoló autótól; gombolja be a kabátját, mivel a kőtemplom belseje erősen megőrzi a téli hideget.",
+                "ro": "O scurtă plimbare de la mașină; încheiați-vă haina, deoarece interiorul bisericii de piatră păstrează frigul de iarnă.",
+                "en": "A quick walk from your parked car; button up your coat securely as the stone church interior retains the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Marie de La Tourette",
+                "hu": "Sainte-Marie de La Tourette",
+                "ro": "Sainte-Marie de La Tourette",
+                "en": "Sainte-Marie de La Tourette"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang an, um die brutalen Linien des Gebäudes am blassen Winterhimmel zu sehen.",
+                "hu": "Érkezzen a korai naplemente előtt, hogy teljes mértékben értékelje az épület zord vonalait a halvány téli égbolton.",
+                "ro": "Ajungeți înainte de apusul devreme pentru a aprecia liniile brutaliste ale clădirii pe cerul palid de iarnă.",
+                "en": "Arrive before the early sunset to fully appreciate the building's stark brutalist lines against the pale winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Sain-Bel",
+                "hu": "Château de Sain-Bel",
+                "ro": "Château de Sain-Bel",
+                "en": "Château de Sain-Bel"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss ist ein toller Abschluss; beenden Sie Ihren Besuch vor 17 Uhr, um sicher zurückzufahren, bevor Eis entsteht.",
+                "hu": "A kastély pompás utolsó megálló; fejezze be látogatását 17 óra előtt, hogy biztonságosan visszavezessen a fagyás előtt.",
+                "ro": "Castelul este o oprire finală splendidă; terminați vizita înainte de ora 17 pentru a conduce înapoi înainte de a se forma gheața.",
+                "en": "The castle is a splendid final stop; finish your visit before 5 PM to safely drive back before hazardous ice forms."
+              }
+            }
+          ]
+        }
       }
     }
   }

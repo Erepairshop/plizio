@@ -160,6 +160,196 @@
         "hu": "A délelőtt Elbeuf gazdag ipari és kulturális múltjának elmélyült felfedezésével indul izgalmas múzeumi látogatásokkal.\n\nA dél a város spirituális oldala felé mozdul el, megtekintve a békés templomot és az egyedülálló, egykori fürdőből kialakított színházat.\n\nA délután a nyüzsgő városközpont és annak építészeti gyöngyszemeinek, köztük a híres körszínháznak a felfedezésének van szentelve.\n\nAz este a történelmi városháza és a fenséges Saint-Jean templom körüli pihentető sétával zárja utazását.",
         "ro": "Dimineața începe cu o incursiune profundă în trecutul industrial și cultural bogat al orașului Elbeuf, explorând muzee fascinante.\n\nLa prânz accentul se mută pe latura spirituală a orașului, cu o vizită la biserica liniștită și la teatrul unic amenajat într-o fostă baie publică.\n\nDupă-amiaza este dedicată explorării centrului vibrant al orașului și a punctelor sale de atracție arhitecturale, inclusiv faimosul teatru circular.\n\nSeara vă încheie călătoria cu o plimbare relaxantă în jurul primăriei istorice și a maiestuoasei biserici Saint-Jean.",
         "en": "Morning begins with a deep dive into Elbeuf's rich industrial and cultural past, thoroughly exploring fascinating local museums.\n\nMidday shifts the focus to the city's spiritual side with a visit to a peaceful church and the highly unique former bathhouse theater.\n\nThe afternoon is dedicated to exploring the vibrant town center and its architectural highlights, including the famous circular theater.\n\nEvening wraps up your journey with a relaxing stroll around the historical town hall and the majestic Saint-Jean Church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Morgenstunden verbringen wir in den warmen Hallen der Museen. Mittags bieten die Kirchen von Elbeuf einen trockenen und besinnlichen Rückzugsort. Am Nachmittag lassen wir uns vom Kulturprogramm in überdachten Theatern verzaubern. Den Abend genießen wir bei einem kurzen Spaziergang unter dem Regenschirm, während sich die Lichter in den Pfützen spiegeln.",
+            "hu": "Az esős reggelt Elbeuf fűtött múzeumi tereiben indítjuk, távol a víztől. Délben a város patinás templomai nyújtanak száraz menedéket a látogatóknak. Délután a színházak zárt világa gondoskodik a szórakozásról és a kényelemről. Este egy rövid, esernyős séta zárja a napot, megcsodálva a vizes macskaköveken megcsillanó városi fényeket.",
+            "ro": "Dimineața ploioasă o petrecem în sălile primitoare ale muzeelor locale. La prânz, bisericile din Elbeuf oferă un refugiu uscat și liniștit în fața intemperiilor. După-amiaza ne bucurăm de evenimente culturale în teatre acoperite, departe de umezeală. Seara se încheie cu o scurtă plimbare sub umbrelă, admirând reflexiile luminoase în bălțile de pe străzi.",
+            "en": "Spend the rainy morning inside the warm and dry halls of local museums. At noon, Elbeuf's historic churches provide a perfect indoor sanctuary from the downpour. In the afternoon, enjoy cultural performances in sheltered theaters away from the damp air. The evening concludes with a brief umbrella walk, watching the city lights dance on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée de la fabrique des savoirs",
+                "hu": "Musée de la fabrique des savoirs",
+                "ro": "Musée de la fabrique des savoirs",
+                "en": "Musée de la fabrique des savoirs"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Ort, um die Industriegeschichte im Trockenen zu erkunden; achten Sie auf die rutschigen Stufen am Eingangsbereich.",
+                "hu": "Ez a múzeum tökéletes hely az ipartörténet felfedezéséhez esőben is; vigyázzon a bejáratnál lévő lépcsőkre, mert nedvesen csúszósak lehetnek.",
+                "ro": "Acest muzeu este locul ideal pentru a explora istoria industrială la adăpost; aveți grijă la treptele de la intrare care pot fi alunecoase.",
+                "en": "This museum is the ideal place to explore industrial history while staying dry; watch out for slippery steps at the entrance during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Immaculée-Conception",
+                "hu": "Église de l'Immaculée-Conception",
+                "ro": "Église de l'Immaculée-Conception",
+                "en": "Église de l'Immaculée-Conception"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvollen Glasfenster wirken bei Regen besonders atmosphärisch; nutzen Sie den Innenraum als ruhigen Zufluchtsort vor dem prasselnden Wetter.",
+                "hu": "A pompás üvegablakok esős időben különleges hangulatot árasztanak; használja a belső teret csendes menedékként a kopogó eső elől.",
+                "ro": "Vitraliile superbe capătă o atmosferă aparte pe timp de ploaie; folosiți interiorul ca pe un refugiu liniștit în fața vremii neprielnice.",
+                "en": "The magnificent stained glass windows look especially atmospheric in the rain; use the interior as a quiet sanctuary from the pouring weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre des Bains Douches",
+                "hu": "Théâtre des Bains Douches",
+                "ro": "Théâtre des Bains Douches",
+                "en": "Théâtre des Bains Douches"
+              },
+              "tip_5lang": {
+                "de": "Ein kulturelles Highlight in einem Gebäude, das Sie vor jedem Schauer schützt; prüfen Sie das Programm für eine trockene Nachmittagsvorstellung.",
+                "hu": "Kulturális csúcspont egy épületben, amely minden zápor ellen védelmet nyújt; ellenőrizze a műsort egy száraz délutáni előadás kedvéért.",
+                "ro": "Un punct de atracție culturală într-o clădire care vă protejează de orice aversă; verificați programul pentru un spectacol de după-amiază.",
+                "en": "A cultural highlight in a building that keeps you safe from any shower; check the schedule for a dry afternoon performance or exhibit."
+              }
+            },
+            {
+              "name": {
+                "de": "Cirque-théâtre",
+                "hu": "Cirque-théâtre",
+                "ro": "Cirque-théâtre",
+                "en": "Cirque-théâtre"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie diese einzigartige Architektur geschützt unter dem riesigen Dach; ideal, um die Wartezeit bis zum Ende des Regens zu überbrücken.",
+                "hu": "Tekintse meg ezt az egyedülálló építészetet a hatalmas tető védelmében; ideális hely az időtöltésre, amíg eláll az eső a városban.",
+                "ro": "Vizitați această arhitectură unică protejați sub acoperișul imens; este locul ideal pentru a aștepta până când ploaia se mai domolește.",
+                "en": "Visit this unique architecture protected under its massive roof; it is the perfect spot to wait out the rain while enjoying the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie d'Elbeuf",
+                "hu": "Mairie d'Elbeuf",
+                "ro": "Mairie d'Elbeuf",
+                "en": "Mairie d'Elbeuf"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade aus dem Schutz eines nahen Bogengangs; der Regen lässt den Vorplatz in einem ganz besonderen Glanz erstrahlen.",
+                "hu": "Csodálja meg a homlokzatot egy közeli árkád oltalmából; az eső különleges csillogást kölcsönöz a városháza előtti díszes térnek.",
+                "ro": "Admirați fațada de la adăpostul unei arcade din apropiere; ploaia face ca piața din față să strălucească într-un mod cu totul special.",
+                "en": "Admire the facade from the shelter of a nearby archway; the rain gives the square out front a very special and reflective glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jean Church",
+                "hu": "Saint-Jean Church",
+                "ro": "Saint-Jean Church",
+                "en": "Saint-Jean Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im stillen Gebet oder bei einer Besichtigung; schütteln Sie Ihren Regenschirm gut aus, bevor Sie den historischen Raum betreten.",
+                "hu": "Zárja a napot csendes elmélyüléssel vagy városnézéssel; alaposan rázza ki az esernyőjét, mielőtt belépne a történelmi egyházi térbe.",
+                "ro": "Încheiați ziua cu o vizită liniștită; scuturați bine umbrela înainte de a intra în spațiul istoric pentru a menține interiorul curat.",
+                "en": "End your day with a quiet visit; make sure to shake your umbrella thoroughly before entering the historic sacred space."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am frostigen Wintermorgen suchen wir Wärme in den geheizten Ausstellungsräumen der Stadt. Mittags bieten die dicken Kirchenmauern Schutz vor dem schneidenden Wind. Da es bereits gegen 17:00 Uhr dunkel wird, nutzen wir das letzte Tageslicht für die Denkmäler. Der Abend wird gemütlich, wenn die Straßenlaternen den winterlichen Dunst in ein goldenes Licht tauchen.",
+            "hu": "A fagyos téli reggelen a város fűtött kiállítótermeiben keresünk menedéket a hideg elől. Délben a templomok vastag falai védenek meg a metsző széltől. Mivel 17 óra körül már sötétedik, a délutánt a kivilágított épületek megcsodálásának szenteljük. Az este korán érkezik, arany fénybe vonva a téli ködös utcákat.",
+            "ro": "În dimineața geroasă de iarnă căutăm căldură în sălile de expoziție încălzite ale orașului. La prânz, zidurile groase ale bisericilor ne protejează de vântul tăios. Deoarece se întunecă deja în jur de ora 17:00, profităm de ultima lumină pentru monumente. Seara devine primitoare când felinarele luminează ceața iernatică.",
+            "en": "On a frosty winter morning, find warmth inside the city's heated exhibition rooms. At noon, the thick church walls offer a safe haven from the biting winds outside. Since it gets dark around 5 PM, catch the last rays of daylight for the monuments. The evening turns cozy as streetlamps illuminate the winter mist in gold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée de la fabrique des savoirs",
+                "hu": "Musée de la fabrique des savoirs",
+                "ro": "Musée de la fabrique des savoirs",
+                "en": "Musée de la fabrique des savoirs"
+              },
+              "tip_5lang": {
+                "de": "Die gut geheizten Galerien sind ein Segen an kalten Tagen; tragen Sie eine warme Mütze für den Weg zwischen den Museumsgebäuden.",
+                "hu": "A jól fűtött galériák valóságos áldást jelentenek a hideg napokon; viseljen meleg sapkát a múzeum épületei közötti séta alatt.",
+                "ro": "Galeriile bine încălzite sunt o binecuvântare în zilele reci; purtați o căciulă călduroasă pentru drumul dintre clădirile muzeului.",
+                "en": "The well-heated galleries are a blessing on cold days; wear a warm hat for the walk between the museum's different sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Immaculée-Conception",
+                "hu": "Église de l'Immaculée-Conception",
+                "ro": "Église de l'Immaculée-Conception",
+                "en": "Église de l'Immaculée-Conception"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz aufzuwärmen; die winterliche Stille im Inneren verleiht der Kirche eine besonders andächtige Atmosphäre.",
+                "hu": "Csendes hely egy rövid felmelegedéshez; a belső tér téli nyugalma különlegesen áhítatos hangulatot kölcsönöz a templomnak.",
+                "ro": "Un loc liniștit pentru a vă încălzi puțin; liniștea iernatică din interior conferă bisericii o atmosferă deosebit de pioasă.",
+                "en": "A quiet place to warm up briefly; the winter silence inside gives the church a particularly solemn and peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre des Bains Douches",
+                "hu": "Théâtre des Bains Douches",
+                "ro": "Théâtre des Bains Douches",
+                "en": "Théâtre des Bains Douches"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie Kultur in gemütlicher Wärme; denken Sie daran, Ihre dicke Winterjacke an der Garderobe abzugeben, um sich frei zu bewegen.",
+                "hu": "Élvezze a kultúrát kellemes melegben; ne felejtse el leadni a vastag téli kabátját a ruhatárban a szabadabb mozgás érdekében.",
+                "ro": "Bucurați-vă de cultură la o căldură plăcută; nu uitați să lăsați haina groasă de iarnă la garderobă pentru a vă mișca în voie.",
+                "en": "Enjoy culture in cozy warmth; remember to leave your heavy winter coat at the cloakroom to move around more comfortably inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cirque-théâtre",
+                "hu": "Cirque-théâtre",
+                "ro": "Cirque-théâtre",
+                "en": "Cirque-théâtre"
+              },
+              "tip_5lang": {
+                "de": "Das beeindruckende Gebälk wirkt im Winterlicht besonders rustikal; achten Sie auf festes Schuhwerk für den Weg über das kopfsteingepflasterte Areal.",
+                "hu": "A lenyűgöző tartószerkezet a téli fényben különösen rusztikusnak hat; viseljen stabil cipőt a macskaköves területen való közlekedéshez.",
+                "ro": "Structura impresionantă pare deosebit de rustică în lumina iernii; purtați încălțăminte solidă pentru drumul prin zona cu pavaj.",
+                "en": "The impressive timber structure looks especially rustic in the winter light; wear sturdy boots for walking across the cobbled area."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie d'Elbeuf",
+                "hu": "Mairie d'Elbeuf",
+                "ro": "Mairie d'Elbeuf",
+                "en": "Mairie d'Elbeuf"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht vor dem frühen Sonnenuntergang gegen 17:00 Uhr für Fotos von diesem prächtigen Verwaltungsbau im Winterkleid.",
+                "hu": "Használja ki a nappali fényt a korai, 17:00 körüli naplemente előtt, hogy fotókat készíthessen erről a pompás téli épületről.",
+                "ro": "Profitați de lumina zilei înainte de apusul devreme de la ora 17:00 pentru a fotografia această clădire administrativă superbă.",
+                "en": "Make the most of the daylight before the early 5 PM sunset to take photos of this grand administrative building in its winter setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jean Church",
+                "hu": "Saint-Jean Church",
+                "ro": "Saint-Jean Church",
+                "en": "Saint-Jean Church"
+              },
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Abschluss des Tages in der frühen Dunkelheit; die Beleuchtung der Kirche hebt die gotischen Details im Winternebel hervor.",
+                "hu": "Hangulatos zárása a napnak a korai sötétségben; a templom kivilágítása kiemeli a gótikus részleteket a téli ködben.",
+                "ro": "O încheiere plină de atmosferă a zilei în întunericul timpuriu; iluminarea bisericii scoate în evidență detaliile gotice în ceața iernii.",
+                "en": "An atmospheric end to your day in the early darkness; the church lighting highlights Gothic details through the winter mist."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +550,252 @@
         "hu": "A kerékpáros nap a város kiemelkedő múzeumainak átfogó meglátogatásával kezdődik, amelyek Elbeuf ipari gyökereit mutatják be.\n\nDélben kényelmesen tekerhet a vallási helyszínek között, megcsodálva a gyönyörű templomok építészetét és a történelmi látnivalókat.\n\nA délután meghívja Önt, hogy felfedezze a nyüzsgő városháza negyedet és a figyelemre méltó építészeti remekművet, a körszínházat.\n\nEgy kora esti kiruccanás a központból egy lenyűgöző villához vezet, ahol naplementekor élvezheti a külvárosi tájat.",
         "ro": "Ziua de ciclism începe cu o vizită cuprinzătoare la muzeele remarcabile ale orașului, care prezintă rădăcinile industriale ale orașului Elbeuf.\n\nLa prânz veți pedala pe îndelete între locurile religioase, admirând arhitectura bisericilor frumoase și a siturilor istorice.\n\nDupă-amiaza vă invită să descoperiți cartierul vibrant al primăriei și remarcabila capodoperă arhitecturală, teatrul circular.\n\nO scurtă plimbare de seară în afara centrului vă va duce la o vilă uimitoare, permițându-vă să vă bucurați de peisajul suburban la apus.",
         "en": "The cycling day begins with a comprehensive visit to the city's outstanding museums, showcasing Elbeuf's industrial roots.\n\nMidday has you pedaling leisurely between religious sites, admiring the architecture of beautiful churches and historic venues.\n\nThe afternoon invites you to discover the vibrant town hall district and the remarkable architectural masterpiece that is the circular theater.\n\nAn early evening ride out of the center takes you to a stunning villa, letting you enjoy the suburban scenery at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrrad erkunden wir Elbeuf trotz Regen, wobei wir uns auf die gut ausgebauten, asphaltierten Wege konzentrieren. Mittags pausieren wir in der Nähe der großen Kirchen, die Schutz bieten. Am Nachmittag nutzen wir die kurzen Distanzen zwischen den Museen, um schnell wieder ins Trockene zu kommen. Den Abend lassen wir bei einer vorsichtigen Fahrt durch die glitzernden Straßen ausklingen.",
+            "hu": "Kerékpárral fedezzük fel Elbeuföt az eső ellenére, a jól kiépített aszfaltozott utakra koncentrálva. Délben a nagy templomok közelében tartunk pihenőt, amelyek védelmet nyújtanak. Délután kihasználjuk a múzeumok közötti rövid távolságokat, hogy gyorsan fedett helyre érjünk. Az estét egy óvatos tekeréssel zárjuk a csillogó utcákon.",
+            "ro": "Explorăm Elbeuf cu bicicleta în ciuda ploii, concentrându-ne pe pistele bine întreținute. La prânz luăm o pauză lângă bisericile mari care oferă protecție. După-amiaza profităm de distanțele scurte dintre muzee pentru a ajunge rapid la adăpost. Încheiem seara cu o plimbare atentă pe străzile strălucitoare sub ploaie.",
+            "en": "Explore Elbeuf by bike despite the rain, focusing on well-paved paths for safety. At noon, take breaks near large churches that offer a dry spot for you and your gear. In the afternoon, take advantage of short distances between museums to quickly get back indoors. End the evening with a cautious ride through the glittering, wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fabrique des Savoirs",
+                "hu": "Fabrique des Savoirs",
+                "ro": "Fabrique des Savoirs",
+                "en": "Fabrique des Savoirs"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher im überdachten Bereich; bringen Sie eine wasserfeste Sattelabdeckung mit, damit Sie später trocken weiterfahren können.",
+                "hu": "Parkolja le kerékpárját biztonságosan a fedett részen; használjon vízálló nyeregvédőt, hogy később is szárazon folytathassa az utat.",
+                "ro": "Parcați bicicleta în siguranță într-o zonă acoperită; folosiți o protecție impermeabilă pentru șa pentru a rămâne uscat la plecare.",
+                "en": "Park your bike safely in a covered area; use a waterproof saddle cover so you can continue your ride dry later on."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la fabrique des savoirs",
+                "hu": "Musée de la fabrique des savoirs",
+                "ro": "Musée de la fabrique des savoirs",
+                "en": "Musée de la fabrique des savoirs"
+              },
+              "tip_5lang": {
+                "de": "Ideal, um die Ausrüstung kurz zu trocknen; achten Sie beim Abbiegen zum Museum auf die bei Nässe glatten Schienen in der Nähe.",
+                "hu": "Ideális hely a felszerelés rövid szárításához; a múzeumnál való kanyarodáskor ügyeljen a vizesen csúszós közeli sínekre.",
+                "ro": "Loc ideal pentru a vă usca scurt echipamentul; aveți grijă la șinele din apropiere care devin alunecoase pe timp de ploaie.",
+                "en": "A great spot to dry your gear briefly; watch out for slippery tram tracks nearby when turning towards the museum in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Immaculée-Conception",
+                "hu": "Église de l'Immaculée-Conception",
+                "ro": "Église de l'Immaculée-Conception",
+                "en": "Église de l'Immaculée-Conception"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem Vordach Schutz; prüfen Sie Ihre Bremsen vor der Abfahrt, da die Bremswege auf nassem Asphalt deutlich länger sind.",
+                "hu": "Keressen oltalmat az előtető alatt; indulás előtt ellenőrizze a fékeket, mivel a fékút nedves aszfalton jelentősen meghosszabbodik.",
+                "ro": "Căutați adăpost sub copertină; verificați frânele înainte de plecare, deoarece distanța de frânare crește pe asfaltul ud.",
+                "en": "Seek shelter under the overhang; check your brakes before departing, as stopping distances are much longer on wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Cirque-théâtre",
+                "hu": "Cirque-théâtre",
+                "ro": "Cirque-théâtre",
+                "en": "Cirque-théâtre"
+              },
+              "tip_5lang": {
+                "de": "Die großen Tore bieten guten Schutz vor Windböen; tragen Sie eine helle Regenjacke, um im trüben Wetter für Autofahrer gut sichtbar zu sein.",
+                "hu": "A nagy kapuk jó védelmet nyújtanak a széllökések ellen; viseljen világos esőkabátot, hogy jól látható maradjon az autósok számára.",
+                "ro": "Porțile mari oferă o bună protecție împotriva vântului; purtați o pelerină reflectorizantă pentru a fi vizibil în traficul pe ploaie.",
+                "en": "The large gates offer good protection from wind gusts; wear a bright rain jacket to stay visible to drivers in the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie d'Elbeuf",
+                "hu": "Mairie d'Elbeuf",
+                "ro": "Mairie d'Elbeuf",
+                "en": "Mairie d'Elbeuf"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Befahren von Bodenmarkierungen auf dem Platz, da diese extrem rutschig sind; ein kurzer Halt im Trockenen lohnt sich.",
+                "hu": "Kerülje a felfestett útburkolati jeleken való tekerést a téren, mert rendkívül csúszósak; egy rövid megálló a fedett részen megéri.",
+                "ro": "Evitați să circulați pe marcajele rutiere din piață, deoarece sunt extrem de alunecoase; o scurtă pauză la adăpost este binevenită.",
+                "en": "Avoid riding directly on painted road markings in the square, as they are extremely slippery; a short break in the dry is worthwhile."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jean Church",
+                "hu": "Saint-Jean Church",
+                "ro": "Saint-Jean Church",
+                "en": "Saint-Jean Church"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Tour zu reflektieren; stellen Sie sicher, dass Ihre Fahrradbeleuchtung bei Regen auch tagsüber eingeschaltet ist.",
+                "hu": "Csendes hely a túra átgondolásához; győződjön meg róla, hogy a kerékpár lámpái esőben nappal is be vannak-e kapcsolva a biztonságért.",
+                "ro": "Un loc liniștit pentru a reflecta asupra turului; asigurați-vă că luminile bicicletei sunt aprinse chiar și în timpul zilei pe ploaie.",
+                "en": "A quiet spot to reflect on your tour; make sure your bike lights are switched on even during the day for safety in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Étienne",
+                "hu": "Église Saint-Étienne",
+                "ro": "Église Saint-Étienne",
+                "en": "Église Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Befahren Sie die Kopfsteinpflasterwege hier nur mit niedriger Geschwindigkeit; die historische Umgebung ist bei Regen besonders reizvoll.",
+                "hu": "A macskaköves utakon csak lassú tempóban haladjon itt; a történelmi környezet esőben különleges, nosztalgikus látványt nyújt.",
+                "ro": "Circulați cu viteză redusă pe pavajul de aici; împrejurimile istorice au un farmec aparte atunci când sunt spălate de ploaie.",
+                "en": "Ride at a low speed on the cobblestone paths here; the historic surroundings are particularly charming when washed by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa du Buquet",
+                "hu": "Villa du Buquet",
+                "ro": "Villa du Buquet",
+                "en": "Villa du Buquet"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihre Felgen nach der Fahrt ab, um die Bremsleistung zu erhalten; genießen Sie den Blick auf die Villa durch den Regenschleier.",
+                "hu": "Törölje le a felniket a túra után a fékteljesítmény megőrzéséhez; élvezze a villa látványát az esőfüggönyön keresztül.",
+                "ro": "Ștergeți jantele după cursă pentru a menține eficiența frânelor; admirați vederea vilei prin perdeaua de ploaie de la distanță.",
+                "en": "Wipe down your rims after the ride to maintain braking performance; enjoy the view of the villa through the veil of rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren erfordert warme Kleidung und Vorsicht vor Glätte auf den Radwegen Elbeufs. Vormittags nutzen wir die klare Luft für eine Fahrt entlang der historischen Fassaden. Mittags wärmen wir uns in den Kirchengebäuden auf. Ab 16:30 Uhr bereiten wir uns auf die Dämmerung vor. Der Abend endet bei frostigen Temperaturen, während wir die festlich beleuchtete Stadt durchqueren.",
+            "hu": "A téli kerékpározás meleg ruházatot és óvatosságot igényel az elbeufi utakon a csúszásveszély miatt. Délelőtt kihasználjuk a friss levegőt a történelmi falak között. Délben a templomokban melegszünk fel. 16:30-tól már készülünk a sötétedésre. Az este fagyos hőmérséklettel zárul, miközben áttekerünk az ünnepi fényekkel díszített városon.",
+            "ro": "Ciclismul de iarnă necesită îmbrăcăminte călduroasă și atenție la porțiunile înghețate de pe piste. Dimineața profităm de aerul curat pentru o cursă pe lângă fațadele istorice. La prânz ne încălzim în interiorul bisericilor. De la 16:30 ne pregătim de amurg. Seara se încheie cu temperaturi scăzute, traversând orașul iluminat festiv.",
+            "en": "Winter cycling requires warm layers and caution against ice on Elbeuf’s bike paths. In the morning, enjoy the crisp air while riding past historic facades. At noon, take time to warm up inside the thick church walls. From 4:30 PM, prepare for the early twilight. The evening ends in freezing temperatures as we ride through the festively lit city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fabrique des Savoirs",
+                "hu": "Fabrique des Savoirs",
+                "ro": "Fabrique des Savoirs",
+                "en": "Fabrique des Savoirs"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie gefütterte Handschuhe, um Ihre Finger bei der Fahrt warm zu halten; parken Sie das Rad windgeschützt an der Gebäudewand.",
+                "hu": "Viseljen bélelt kesztyűt, hogy ujjai melegek maradjanak tekerés közben; parkolja a kerékpárt szélvédett helyre az épület fala mellett.",
+                "ro": "Purtați mănuși căptușite pentru a vă menține degetele calde în timpul cursei; parcați bicicleta la ferit de vânt lângă peretele clădirii.",
+                "en": "Wear lined gloves to keep your fingers warm during the ride; park your bike in a wind-sheltered spot next to the building wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la fabrique des savoirs",
+                "hu": "Musée de la fabrique des savoirs",
+                "ro": "Musée de la fabrique des savoirs",
+                "en": "Musée de la fabrique des savoirs"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause im Warmen; prüfen Sie den Reifendruck, da dieser bei Kälte oft leicht sinkt.",
+                "hu": "Ideális hely egy hosszabb, melegben töltött pihenőhöz; ellenőrizze a gumiabroncsok nyomását, mert a hidegben gyakran csökkenhet.",
+                "ro": "Un loc ideal pentru o pauză lungă la căldură; verificați presiunea în pneuri, deoarece aceasta scade adesea din cauza frigului.",
+                "en": "An ideal spot for a longer break in the warmth; check your tire pressure, as it often drops slightly in cold temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Immaculée-Conception",
+                "hu": "Église de l'Immaculée-Conception",
+                "ro": "Église de l'Immaculée-Conception",
+                "en": "Église de l'Immaculée-Conception"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Stille im Inneren; achten Sie auf Raureif auf den Fahrradwegen, wenn Sie sich der Kirche nähern.",
+                "hu": "Csodálja meg a belső csendet; ügyeljen a kerékpárutakon kialakuló zúzmarára, amikor a templomhoz közeledik a korai órákban.",
+                "ro": "Admirați liniștea din interior; aveți grijă la chiciura de pe pistele de biciclete când vă apropiați de biserică dimineața.",
+                "en": "Admire the silence inside; watch out for hoarfrost on the bike paths as you approach the church in the early morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Cirque-théâtre",
+                "hu": "Cirque-théâtre",
+                "ro": "Cirque-théâtre",
+                "en": "Cirque-théâtre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Sonnenlicht für Fotos der markanten Struktur; reflektierende Elemente an Ihrer Kleidung erhöhen die Sicherheit in der Dämmerung.",
+                "hu": "Használja ki az utolsó fénysugarakat a különleges szerkezet fotózásához; a ruházaton lévő fényvisszaverők növelik a biztonságot szürkületkor.",
+                "ro": "Folosiți ultima lumină pentru poze cu structura marcantă; elementele reflectorizante pe haine sporesc siguranța în amurg.",
+                "en": "Use the last bits of sunlight for photos of the striking structure; reflective elements on your clothing will increase safety at dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie d'Elbeuf",
+                "hu": "Mairie d'Elbeuf",
+                "ro": "Mairie d'Elbeuf",
+                "en": "Mairie d'Elbeuf"
+              },
+              "tip_5lang": {
+                "de": "Die festliche Beleuchtung macht diesen Ort ab 17:00 Uhr besonders sehenswert; fahren Sie langsam über den gepflasterten Vorplatz.",
+                "hu": "Az ünnepi kivilágítás 17:00 után különösen látványossá teszi ezt a helyet; haladjon lassan a macskaköves városházi téren.",
+                "ro": "Iluminatul festiv face acest loc deosebit după ora 17:00; circulați încet pe pavajul din fața primăriei pentru siguranță.",
+                "en": "The festive lighting makes this spot especially worth seeing after 5 PM; ride slowly across the cobbled square in front of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jean Church",
+                "hu": "Saint-Jean Church",
+                "ro": "Saint-Jean Church",
+                "en": "Saint-Jean Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier Schutz vor dem kalten Abendwind; stellen Sie sicher, dass Ihre Batterie für das Licht bei Kälte noch genug Kapazität hat.",
+                "hu": "Keressen itt oltalmat a hideg esti szél elől; győződjön meg róla, hogy a lámpák akkumulátora bírja-e a fagyos hőmérsékletet.",
+                "ro": "Căutați adăpost aici împotriva vântului rece de seară; asigurați-vă că bateria pentru lumini are suficientă capacitate la frig.",
+                "en": "Seek shelter here from the cold evening wind; ensure your light's battery has enough capacity to last in freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Étienne",
+                "hu": "Église Saint-Étienne",
+                "ro": "Église Saint-Étienne",
+                "en": "Église Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Steinmauern wirken im Winternebel mystisch; achten Sie auf gefrorenes Laub auf den Wegen rund um die Kirche.",
+                "hu": "A sötét kőfalak misztikusan hatnak a téli ködben; ügyeljen a lefagyott levelekre a templom körüli utakon a csúszásveszély miatt.",
+                "ro": "Zidurile de piatră închisă par mistice în ceața iernii; aveți grijă la frunzele înghețate de pe drumurile din jurul bisericii.",
+                "en": "The dark stone walls look mystical in the winter mist; watch out for frozen leaves on the paths around the church to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa du Buquet",
+                "hu": "Villa du Buquet",
+                "ro": "Villa du Buquet",
+                "en": "Villa du Buquet"
+              },
+              "tip_5lang": {
+                "de": "Ein frostiger, aber lohnenswerter Abschluss der Tour; ein Thermosbecher mit warmem Tee ist der perfekte Begleiter für diese letzte Etappe.",
+                "hu": "Fagyos, de megéri a túra végén; egy termosz meleg teával a tökéletes társ erre az utolsó, hideg szakaszra.",
+                "ro": "O încheiere geroasă, dar care merită, pentru acest tur; un termos cu ceai cald este partenerul perfect pentru această ultimă etapă.",
+                "en": "A frosty but rewarding end to the tour; a thermos with warm tea is the perfect companion for this last, chilly stretch of the ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "Az autóval történő utazás megkönnyíti a kezdést az elegáns, központon kívüli villánál, majd gyorsan Elbeuf történelmi szívébe visz.\n\nDélben a kiválóan gondozott múzeumok révén mélyen elmerülhet a város ipartörténetének gazdag örökségében.\n\nA délután ötvözi a szokatlan egykori fürdőszínház meglátogatását a lenyűgöző templomi építészettel.\n\nAz este a híres körszínházhoz vezeti, ami nagyszerű építészeti befejezést nyújt ennek az eseménydús napnak.",
         "ro": "Conducerea face ușoară începerea la vila elegantă din afara centrului, aducându-vă rapid în inima istorică a orașului Elbeuf.\n\nLa prânz vă adânciți în bogata moștenire a istoriei industriale a orașului prin muzee excelent organizate.\n\nDupă-amiaza combină o vizită la teatrul neobișnuit din fosta baie cu arhitectura impresionantă a bisericilor.\n\nSeara vă ghidează către faimosul teatru circular, oferind o încheiere arhitecturală grandioasă a unei zile pline de evenimente.",
         "en": "Driving makes it easy to begin at the elegant villa outside the center, bringing you swiftly into the historical heart of Elbeuf.\n\nMidday finds you delving deep into the rich heritage of the town's industrial history through excellently curated museums.\n\nThe afternoon combines a visit to the unusual former bathhouse theater with some impressive church architecture.\n\nYour evening guides you to the famous circular theater, providing a grand architectural conclusion to an eventful day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Elbeuf bequem und trocken, egal wie stark es regnet. Vormittags besuchen wir die weiter entfernten Sehenswürdigkeiten, ohne nass zu werden. Mittags parken wir direkt vor den großen Kirchen für einen kurzen, trockenen Weg. Der Nachmittag gehört den kulturellen Zentren der Stadt. Den Abend genießen wir bei einer Fahrt durch das hell erleuchtete, regennasse Zentrum.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel Elbeuföt, függetlenül attól, mennyire esik az eső. Délelőtt a távolabbi látnivalókat látogatjuk meg anélkül, hogy eláznánk. Délben közvetlenül a nagy templomok előtt parkolunk a rövid út érdekében. A délután a város kulturális központjaié. Az estét a fényesen kivilágított, esőtől ázott központban töltjük.",
+            "ro": "Cu mașina explorăm Elbeuf confortabil și uscați, indiferent cât de tare plouă. Dimineața vizităm atracțiile mai îndepărtate fără a ne uda. La prânz parcăm chiar în fața bisericilor mari pentru un drum scurt. După-amiaza aparține centrelor culturale ale orașului. Seara ne bucurăm de o plimbare prin centrul luminat și ud de ploaie.",
+            "en": "Explore Elbeuf comfortably and stay dry in your car, no matter how hard it rains. In the morning, visit the more distant sights without getting soaked. At noon, park right in front of the large churches for a short, dry walk to the entrance. The afternoon is dedicated to the city's cultural centers. Enjoy the evening driving through the brightly lit, rain-washed center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa du Buquet",
+                "hu": "Villa du Buquet",
+                "ro": "Villa du Buquet",
+                "en": "Villa du Buquet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um den Weg im Regen kurz zu halten; die Villa wirkt in der trüben Witterung besonders majestätisch.",
+                "hu": "Használja a közeli parkolót, hogy lerövidítse az esőben megtett utat; a villa különösen fenséges látványt nyújt a borús időben.",
+                "ro": "Folosiți parcarea din apropiere pentru a scurta drumul prin ploaie; vila pare deosebit de maiestuoasă în atmosfera mohorâtă.",
+                "en": "Use the nearby parking to keep your walk in the rain short; the villa looks particularly majestic and moody in the overcast weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Étienne",
+                "hu": "Église Saint-Étienne",
+                "ro": "Église Saint-Étienne",
+                "en": "Église Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig in den engen Gassen rund um die Kirche; der Innenraum bietet perfekten Schutz vor plötzlichen Regenschauern.",
+                "hu": "Vezessen óvatosan a templom körüli szűk utcákban; a belső tér tökéletes védelmet nyújt a hirtelen lezúduló záporok ellen.",
+                "ro": "Conduceți cu atenție pe străzile înguste din jurul bisericii; interiorul oferă o protecție perfectă împotriva averselor bruște.",
+                "en": "Drive carefully through the narrow streets around the church; the interior provides perfect shelter from sudden rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Fabrique des Savoirs",
+                "hu": "Fabrique des Savoirs",
+                "ro": "Fabrique des Savoirs",
+                "en": "Fabrique des Savoirs"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, da das Gebäude viele Innenaktivitäten bietet; prüfen Sie die Scheibenwischer Ihres Autos für eine gute Sicht im Stadtverkehr.",
+                "hu": "Ideális megálló, mivel az épület sok benti tevékenységet kínál; ellenőrizze az ablaktörlőket a jó látási viszonyok érdekében a városban.",
+                "ro": "O oprire ideală, deoarece clădirea oferă multe activități în interior; verificați ștergătoarele pentru o vizibilitate bună în traficul urban.",
+                "en": "An ideal stop as the building offers many indoor activities; check your wipers for clear visibility while navigating city traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre des Bains Douches",
+                "hu": "Théâtre des Bains Douches",
+                "ro": "Théâtre des Bains Douches",
+                "en": "Théâtre des Bains Douches"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am besten in den Seitenstraßen; das Theater ist ein wunderbarer Ort, um die Zeit bis zum Ende des Regens zu genießen.",
+                "hu": "Parkoljon lehetőleg az oldalsó utcákban; a színház csodálatos hely, hogy élvezze az időt, amíg eláll az eső a városban.",
+                "ro": "Parcați de preferință pe străzile laterale; teatrul este un loc minunat pentru a vă bucura de timp până când ploaia se oprește.",
+                "en": "It is best to park in the side streets; the theater is a wonderful place to enjoy your time while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la fabrique des savoirs",
+                "hu": "Musée de la fabrique des savoirs",
+                "ro": "Musée de la fabrique des savoirs",
+                "en": "Musée de la fabrique des savoirs"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre nasse Jacke einfach im Auto; der kurze Weg vom Parkplatz ins Museum schont Ihre restliche Kleidung vor Nässe.",
+                "hu": "Hagyja a vizes kabátját az autóban; a parkolótól a múzeumig tartó rövid út megóvja a többi ruházatát az elázástól.",
+                "ro": "Lăsați haina udă în mașină; drumul scurt de la parcare la muzeu vă va proteja restul hainelor de umezeală.",
+                "en": "Leave your wet jacket in the car; the short walk from the parking lot to the museum will save the rest of your clothes from getting damp."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jean Church",
+                "hu": "Saint-Jean Church",
+                "ro": "Saint-Jean Church",
+                "en": "Saint-Jean Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz direkt vor dem Haupteingang; der Regen lässt die neugotische Fassade besonders dramatisch wirken.",
+                "hu": "Keressen parkolóhelyet közvetlenül a főbejáratnál; az eső különösen drámaivá teszi a neogótikus homlokzat látványát.",
+                "ro": "Căutați un loc de parcare chiar în fața intrării principale; ploaia face ca fațada neogotică să pară deosebit de dramatică.",
+                "en": "Look for a parking spot right in front of the main entrance; the rain makes the Neo-Gothic facade look particularly dramatic."
+              }
+            },
+            {
+              "name": {
+                "de": "Cirque-théâtre",
+                "hu": "Cirque-théâtre",
+                "ro": "Cirque-théâtre",
+                "en": "Cirque-théâtre"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Abschluss im Trockenen; genießen Sie die beleuchtete Kuppel aus dem Autofenster, bevor Sie aussteigen.",
+                "hu": "Látványos zárás fedett helyen; csodálja meg a kivilágított kupolát az autó ablakából, mielőtt kiszállna a vizes utcára.",
+                "ro": "O încheiere spectaculoasă la adăpost; admirați cupola iluminată de pe geamul mașinii înainte de a coborî în ploaie.",
+                "en": "A spectacular conclusion indoors; admire the illuminated dome from the car window before stepping out into the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto ist die winterliche Erkundung Elbeufs besonders angenehm. Vormittags nutzen wir die gute Erreichbarkeit der Denkmäler am Stadtrand. Mittags parken wir nah an den Kirchen, um der Kälte schnell zu entfliehen. Nachmittags besuchen wir die warmen Museen. Den Abend lassen wir bei einer Fahrt durch das stimmungsvoll beleuchtete, früh dunkle Zentrum ausklingen.",
+            "hu": "A fűtött autóban különösen kellemes Elbeuf téli felfedezése. Délelőtt a város szélén található emlékművek könnyű elérhetőségét használjuk ki. Délben a templomok közelében parkolunk, hogy gyorsan elmeneküljünk a hideg elől. Délután a meleg múzeumokat látogatjuk meg. Az estét a hangulatosan kivilágított, korán sötétedő központban zárjuk.",
+            "ro": "Într-o mașină încălzită, explorarea hibernală a orașului Elbeuf este deosebit de plăcută. Dimineața profităm de accesibilitatea monumentelor de la periferie. La prânz parcăm aproape de biserici pentru a scăpa rapid de frig. După-amiaza vizităm muzeele primitoare. Seara se încheie cu o plimbare prin centrul iluminat festiv care se întunecă devreme.",
+            "en": "Winter exploration of Elbeuf is especially pleasant in a heated car. In the morning, take advantage of how easily you can reach monuments on the outskirts. At noon, park close to the churches to quickly escape the biting cold. In the afternoon, visit the warm museums. End the evening driving through the atmospheric, festively lit center that darkens early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa du Buquet",
+                "hu": "Villa du Buquet",
+                "ro": "Villa du Buquet",
+                "en": "Villa du Buquet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Villa, während die Autoheizung läuft; der winterliche Reif auf den Wiesen rundherum ist ein tolles Fotomotiv.",
+                "hu": "Élvezze a villa látványát járó motor mellett a fűtött autóból; a környező réteken lévő téli zúzmara remek fotótéma.",
+                "ro": "Admirați vederea vilei în timp ce căldura merge în mașină; chiciura de pe pajiștile din jur este un subiect excelent pentru fotografii.",
+                "en": "Enjoy the view of the villa while the car heater is running; the winter frost on the surrounding meadows makes for a great photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Étienne",
+                "hu": "Église Saint-Étienne",
+                "ro": "Église Saint-Étienne",
+                "en": "Église Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte gut ab; prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage für die Weiterfahrt durch die kalte Stadt.",
+                "hu": "A vastag falak jól kint tartják a hideget; ellenőrizze a fagyállót a szélvédőmosóban a hideg városban való további közlekedéshez.",
+                "ro": "Zidurile groase țin bine frigul la distanță; verificați antigelul din lichidul de parbriz pentru continuarea drumului prin orașul rece.",
+                "en": "The thick walls keep the cold out effectively; check the antifreeze in your windshield washer fluid for the drive through the cold city."
+              }
+            },
+            {
+              "name": {
+                "de": "Fabrique des Savoirs",
+                "hu": "Fabrique des Savoirs",
+                "ro": "Fabrique des Savoirs",
+                "en": "Fabrique des Savoirs"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar geheizter Ort für kalte Vormittage; nutzen Sie die Parkmöglichkeiten in der Nähe, um den kalten Wind zu vermeiden.",
+                "hu": "Csodálatosan fűtött hely a hideg délelőttökhöz; használja a közeli parkolási lehetőségeket, hogy elkerülje a metsző téli szelet.",
+                "ro": "Un loc minunat de încălzit pentru diminețile reci; folosiți parcările din apropiere pentru a evita vântul tăios de iarnă.",
+                "en": "A wonderfully heated place for cold mornings; use the nearby parking options to avoid spending too much time in the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre des Bains Douches",
+                "hu": "Théâtre des Bains Douches",
+                "ro": "Théâtre des Bains Douches",
+                "en": "Théâtre des Bains Douches"
+              },
+              "tip_5lang": {
+                "de": "Die warme Atmosphäre im Inneren lässt den Winter vergessen; achten Sie auf glatte Stellen beim Aussteigen aus dem Auto.",
+                "hu": "A belső tér meleg hangulata feledteti a telet; ügyeljen a jeges foltokra, amikor kiszáll az autóból a színház előtt.",
+                "ro": "Atmosfera caldă din interior vă face să uitați de iarnă; aveți grijă la porțiunile alunecoase când coborâți din mașină.",
+                "en": "The warm atmosphere inside makes you forget the winter; watch out for icy patches when getting out of your car near the theater."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la fabrique des savoirs",
+                "hu": "Musée de la fabrique des savoirs",
+                "ro": "Musée de la fabrique des savoirs",
+                "en": "Musée de la fabrique des savoirs"
+              },
+              "tip_5lang": {
+                "de": "Idealer Stopp zum Aufwärmen zwischen den Fahrten; tragen Sie festes Schuhwerk für den kurzen, eventuell glatten Weg zum Eingang.",
+                "hu": "Ideális megálló a felmelegedéshez két út között; viseljen stabil cipőt a bejáratig tartó rövid, esetlegesen csúszós úton.",
+                "ro": "Oprire ideală pentru încălzire între drumuri; purtați încălțăminte solidă pentru drumul scurt și eventual alunecos spre intrare.",
+                "en": "An ideal stop to warm up between drives; wear sturdy shoes for the short and potentially slippery walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jean Church",
+                "hu": "Saint-Jean Church",
+                "ro": "Saint-Jean Church",
+                "en": "Saint-Jean Church"
+              },
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Kirche in der frühen Dunkelheit ist ein Highlight; lassen Sie den Motor nicht unnötig laufen, während Sie den Anblick genießen.",
+                "hu": "A templom kivilágítása a korai sötétségben igazi fénypont; ne járassa feleslegesen a motort, miközben a látványban gyönyörködik.",
+                "ro": "Iluminatul bisericii în întunericul timpuriu este un punct culminant; nu lăsați motorul pornit inutil în timp ce admirați priveliștea.",
+                "en": "The church's lighting in the early darkness is a real highlight; don't leave your engine idling while enjoying the beautiful view."
+              }
+            },
+            {
+              "name": {
+                "de": "Cirque-théâtre",
+                "hu": "Cirque-théâtre",
+                "ro": "Cirque-théâtre",
+                "en": "Cirque-théâtre"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Abschluss bei frostigen Temperaturen; die Heizung im Auto sorgt für eine angenehme Rückfahrt nach diesem kulturellen Erlebnis.",
+                "hu": "Kellemes zárás fagyos hőmérséklet mellett; az autó fűtése gondoskodik a kényelmes hazautazásról a kulturális élmény után.",
+                "ro": "O încheiere plăcută la temperaturi scăzute; căldura din mașină asigură un drum de întoarcere confortabil după această experiență.",
+                "en": "A pleasant conclusion in freezing temperatures; the car's heater will ensure a comfortable drive home after this cultural experience."
+              }
+            }
+          ]
+        }
       }
     }
   }

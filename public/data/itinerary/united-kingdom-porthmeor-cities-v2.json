@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje a napot a Bosigran kohó drámai tengerparti romjainak felfedezésével, mielőtt a szárazföld belseje felé venné az irányt.\n\nMidday: Túrázzon a zord terepen a Carn Galver bányához, majd mássza meg a Watch Croftot a panorámás kilátásért.\n\nAfternoon: Merüljön el a lápvidék misztikus történelmében az ősi Mên Scryfa állókő meglátogatásával.\n\nEvening: Zárja sétáját az ikonikus Mên-an-Tolnál, elmerülve a késő délutáni napsütésben és az ősi legendákban.",
         "ro": "Morning: Începeți ziua explorând ruinele dramatice de coastă ale topitoriei Bosigran înainte de a vă îndrepta spre interior.\n\nMidday: Faceți o drumeție pe terenul accidentat până la Mina Carn Galver și urcați pe Watch Croft pentru priveliști panoramice.\n\nAfternoon: Pătrundeți în istoria mistică a mlaștinilor vizitând antica piatră verticală Mên Scryfa.\n\nEvening: Încheiați plimbarea la emblematica piatră Mên-an-Tol, bucurându-vă de soarele târziu al după-amiezii și de legende.",
         "en": "Morning: Start your day by exploring the dramatic coastal ruins of Bosigran Smelting Works before heading inland.\n\nMidday: Hike across the rugged terrain to Carn Galver Mine and ascend Watch Croft for panoramic views.\n\nAfternoon: Delve into the mystical history of the moors by visiting the ancient Mên Scryfa standing stone.\n\nEvening: Conclude your walk at the iconic Mên-an-Tol, soaking in the late afternoon sun and ancient legends."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen erkunden wir die nebelverhangenen Industrieruinen, während der Regen die raue Geschichte der Küste betont.\n\nMittags wandern wir durch das feuchte Heidekraut der Hochmoore und genießen trotz des Windes die Einsamkeit.\n\nAm Nachmittag erleben wir die mystische Aura der alten Megalithen, die im Regen wie dunkles Glas schimmern.\n\nAm Abend suchen wir nach der nassen Tour Schutz und lassen den Tag bei dem Rauschen der Wellen ausklingen.",
+            "hu": "Reggel a ködös part menti romoknál kezdünk, ahol az eső kiemeli az ipari múlt nyers erejét.\n\nDélben a hangafűvel borított dombokon gázolunk át a szitáló esőben, a szél ellenére is élvezve a magányt.\n\nDélután az ősi kövek misztikus auráját élvezzük a nedves szürkületben, ahogy a víztől csillognak a gránittömbök.\n\nEstére a vizes túra után a tenger morajlása kísér minket a menedék felé, miközben a felszerelésünket szárítjuk.",
+            "ro": "Dimineața explorăm ruinele industriale sub nori grei, unde ploaia scoate în evidență trecutul dur al coastei.\n\nLa prânz traversăm mlaștinile umede printre tufe de iarbă neagră, savurând liniștea în ciuda vântului tăios.\n\nDupă-amiaza simțim aura mistică a megaliților care strălucesc sub ploaie ca niște blocuri de sticlă întunecată.\n\nSeara ne retragem la căldură ascultând vuietul mării și uscându-ne echipamentul impermeabil după o zi umedă.",
+            "en": "Morning begins among misty coastal ruins, where the rain emphasizes the raw industrial history of the cliffs.\n\nNoon finds us trekking through damp heather on the high moors, embracing the solitude despite the driving wind.\n\nAfternoon brings us to ancient megaliths that shimmer like dark glass under the grey, rain-soaked Cornish sky.\n\nEvening concludes with a retreat from the damp elements, listening to the waves while drying our waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bosigran Smelting Works",
+                "hu": "Bosigran Smelting Works",
+                "ro": "Bosigran Smelting Works",
+                "en": "Bosigran Smelting Works"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Steinruinen, aber achten Sie auf den rutschigen Boden; der Regen lässt die Industriegeschichte noch rauer und atmosphärischer wirken.",
+                "hu": "Fedezd fel a kőromokat, de ügyelj a csúszós aljzatra; az eső még nyersebbé és hangulatosabbá teszi ezt az egykori ipari területet a sziklás parton.",
+                "ro": "Explorează ruinele de piatră, dar fii atent la solul alunecos; ploaia face ca istoria industrială să pară și mai aspră și plină de atmosferă în acest loc.",
+                "en": "Explore the stone ruins while keeping an eye on the slippery floor; the rain makes the industrial history feel even more rugged and atmospheric."
+              }
+            },
+            {
+              "name": {
+                "de": "Carn Galver Mine",
+                "hu": "Carn Galver Mine",
+                "ro": "Carn Galver Mine",
+                "en": "Carn Galver Mine"
+              },
+              "tip_5lang": {
+                "de": "Das Maschinenhaus sieht vor dem grauen Atlantiknebel dramatisch aus; tragen Sie wasserfeste Stiefel, da der Weg hier bei Regen sehr schlammig wird.",
+                "hu": "A bánya gépháza drámai látványt nyújt a szürke atlanti ködben; viselj vízálló bakancsot, mert az út itt kifejezetten sárossá és csúszóssá válik.",
+                "ro": "Casa mașinilor arată dramatic în ceața cenușie a Atlanticului; poartă bocanci impermeabili, deoarece poteca devine foarte noroioasă și alunecoasă aici.",
+                "en": "The engine house looks dramatic against the grey Atlantic mist; wear sturdy waterproof boots as the path becomes quite muddy and slick in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Watch Croft",
+                "hu": "Watch Croft",
+                "ro": "Watch Croft",
+                "en": "Watch Croft"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Punkt bietet eine neblige Aussicht auf die Küste; halten Sie die Kapuze oben und seien Sie vorsichtig auf den glatten Felsen am Gipfel.",
+                "hu": "A legmagasabb pontról ködös kilátás nyílik a partra; húzd fel a kapucnit és vigyázz a sziklás részeken, amik a csapadéktól most nagyon csúsznak.",
+                "ro": "Cel mai înalt punct oferă o vedere cețoasă asupra coastei; ține gluga ridicată și ai mare grijă pe porțiunile stâncoase care sunt extrem de alunecoase.",
+                "en": "The highest point offers a misty view of the coastline; keep your hood up and be careful on the rocky sections which are very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Mên Scryfa",
+                "hu": "Mên Scryfa",
+                "ro": "Mên Scryfa",
+                "en": "Mên Scryfa"
+              },
+              "tip_5lang": {
+                "de": "Dieser beschriftete Stein steht einsam im Platzregen; durch die nasse Oberfläche sind die alten Gravuren von der Seite betrachtet besser zu erkennen.",
+                "hu": "Ez a feliratos kő magányosan áll a felhőszakadásban; a vizes felületen az ősi faragványok oldalról nézve talán még jobban kivehetőek a látogatók számára.",
+                "ro": "Această piatră inscripționată stă solitară în ploaie; suprafața umedă face ca sculpturile vechi să fie mai ușor de descifrat dacă sunt privite din lateral.",
+                "en": "This inscribed stone stands solitary in the downpour; the wet surface makes the ancient carvings slightly easier to see if viewed from a low side angle."
+              }
+            },
+            {
+              "name": {
+                "de": "Mên-an-Tol",
+                "hu": "Mên-an-Tol",
+                "ro": "Mên-an-Tol",
+                "en": "Mên-an-Tol"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie durch den legendären Lochstein, aber achten Sie auf die Pfützen; der nasse Granit leuchtet im Regen mit einer ganz eigenen, dunklen Intensität.",
+                "hu": "Bújj át a legendás lyukas kövön, de vigyázz a körülötte kialakuló pocsolyákra; a nedves gránit különleges, sötét fénnyel ragyog a szürke esőben.",
+                "ro": "Trece prin legendara piatră cu gaură, dar evită bălțile mari formate în jur; granitul umed strălucește cu o intensitate întunecată unică sub ploaie.",
+                "en": "Walk through the legendary holed stone but watch out for the large puddles forming around it; the wet granite glows with a unique, dark intensity."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen starten wir in der klaren, kalten Atlantikluft entlang der felsigen Küste, wo der Frost die Gräser silbern färbt.\n\nMittags genießen wir bei tiefstehender Wintersonne das Panorama von den Hügelkuppen über das weite, schlafende Moor.\n\nAm Nachmittag erreichen wir die Megalithen, bevor die frühe Dunkelheit und die Kälte über das karge Land hereinbrechen.\n\nNach dem Sonnenuntergang um 17 Uhr ziehen wir uns vor der beißenden Kälte zurück und genießen die absolute winterliche Stille.",
+            "hu": "Reggel a friss, csípős tengeri levegőn indulunk a sziklás part mentén, ahol a zúzmara ezüstre festi a fűszálakat.\n\nDélben a dombtetőkön a téli nap alacsony állása mellett csodáljuk meg a panorámát a távolba nyúló lápvidék felett.\n\nDélután az ősi megalitokhoz érünk, mielőtt a korai sötétség és a fagyos szél leszállna a kietlen vidékre.\n\nEstére a 17 órai naplemente után a téli hideg elől visszahúzódunk, átadva a terepet a tengeri szélnek és a csendnek.",
+            "ro": "Dimineața începem în aerul rece și proaspăt al Atlanticului, unde promoroaca colorează iarba în nuanțe argintii pe malul mării.\n\nLa prânz admirăm panorama de pe culmi sub soarele jos de iarnă, privind peste mlaștina întinsă care pare că doarme.\n\nDupă-amiaza ajungem la megaliți înainte ca întunericul timpuriu și gerul să cuprindă acest ținut sălbatic și auster.\n\nDupă apusul de la ora 17:00, ne retragem din calea frigului tăios, lăsând pustietatea în grija vântului și a liniștii.",
+            "en": "Morning begins in the crisp, cold Atlantic air as frost paints the coastal grasses in shimmering shades of silver.\n\nNoon brings us to the high ridges where the low winter sun casts long shadows over the vast, dormant moorland.\n\nAfternoon is spent among the ancient stones before the early winter dusk and freezing winds sweep across the landscape.\n\nBy the 5 PM sunset, we retreat from the biting cold to find warmth, leaving the silent moors to the winter night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bosigran Smelting Works",
+                "hu": "Bosigran Smelting Works",
+                "ro": "Bosigran Smelting Works",
+                "en": "Bosigran Smelting Works"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie bei klarem Winterhimmel durch die Ruinen; ohne die Sommervegetation heben sich die Steinstrukturen besonders deutlich von den Hügeln ab.",
+                "hu": "Kalandozz a romok között a tiszta téli égbolt alatt; a megritkult növényzet miatt a kőszerkezetek élesen kirajzolódnak a kopár domboldalban.",
+                "ro": "Plimbă-te prin ruine sub un cer senin de iarnă; lipsa vegetației face ca structurile de piatră să iasă clar în evidență pe fundalul dealurilor.",
+                "en": "Wander through the ruins under a crisp winter sky; the lack of vegetation makes the stone structures stand out clearly against the rugged hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Carn Galver Mine",
+                "hu": "Carn Galver Mine",
+                "ro": "Carn Galver Mine",
+                "en": "Carn Galver Mine"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Silhouette des Schornsteins gegen die tiefe Wintersonne; der kalte Seewind lässt jedes historische Detail scharf hervortreten.",
+                "hu": "Nézd meg a bánya kéményének sziluettjét az alacsonyan járó téli napnál; a tenger felől fújó hideg szél élessé teszi a történelmi részleteket.",
+                "ro": "Admiră silueta coșului minei pe fundalul soarelui jos de iarnă; vântul rece de mare face ca fiecare detaliu istoric să pară foarte tăios și clar.",
+                "en": "Witness the silhouette of the mine chimney against the low winter sun; the cold wind from the sea makes every historic detail feel sharp and vivid."
+              }
+            },
+            {
+              "name": {
+                "de": "Watch Croft",
+                "hu": "Watch Croft",
+                "ro": "Watch Croft",
+                "en": "Watch Croft"
+              },
+              "tip_5lang": {
+                "de": "Trotzen Sie dem schneidenden Wind für ein weites Winterpanorama; der gefrorene Boden bietet oft einen festeren Halt beim Aufstieg als der übliche Schlamm.",
+                "hu": "Dacold a metsző széllel a tiszta téli panorámáért; a fagyott talaj biztosabb járást tesz lehetővé a felfelé vezető úton, mint a megszokott sár.",
+                "ro": "Înfruntă vântul tăios pentru o panoramă de iarnă senină; solul înghețat oferă o aderență mai bună la urcare comparativ cu noroiul alunecos obișnuit.",
+                "en": "Brave the biting wind for a clear winter panorama; the frozen ground provides a firmer footing on the climb compared to the usual muddy tracks."
+              }
+            },
+            {
+              "name": {
+                "de": "Mên Scryfa",
+                "hu": "Mên Scryfa",
+                "ro": "Mên Scryfa",
+                "en": "Mên Scryfa"
+              },
+              "tip_5lang": {
+                "de": "Dieses antike Monument wirkt inmitten der winterlichen Heide besonders streng; das tiefe Licht wirft lange, dramatische Schatten über das weite Moor.",
+                "hu": "Ez az ősi emlékmű különösen szikáran fest a téli hangafűben; az alacsony fények hosszú, drámai árnyékokat vetnek a lápvidék magányos köveire.",
+                "ro": "Acest monument antic arată deosebit de auster printre tufele de iarbă neagră; lumina joasă creează umbre lungi și dramatice pe mlaștina întinsă.",
+                "en": "This ancient monument looks particularly stark against the dormant winter heather; the low light creates long, dramatic shadows across the moorland."
+              }
+            },
+            {
+              "name": {
+                "de": "Mên-an-Tol",
+                "hu": "Mên-an-Tol",
+                "ro": "Mên-an-Tol",
+                "en": "Mên-an-Tol"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Steine kurz vor dem Sonnenuntergang um 17 Uhr; das Winterlicht färbt den Granit in warme Orangetöne, bevor die bittere Kälte kommt.",
+                "hu": "Érkezz az ikonikus kövekhez közvetlenül az 17 órai naplemente előtt; a téli fény narancssárgára festi a gránitot a fagyos este beállta előtt.",
+                "ro": "Ajungi la aceste pietre iconice chiar înainte de apusul de la ora 17:00; lumina de iarnă pictează granitul în tonuri calde de portocaliu.",
+                "en": "Arrive at these iconic stones just before the 5 PM sunset; the winter light paints the granite in warm orange tones before the evening chill sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Morning: Kerekezzen el a Bosigran sziklái mellett, és csodálja meg a Carn Galver bánya magasba törő gépházát.\n\nMidday: Tegye le a kerékpárt egy rövid túrára a Watch Croftra, majd folytassa útját az ősi Mên Scryfa felé.\n\nAfternoon: Tekerjen tovább a Mên-an-Tol és a lápvidéken fekvő, részben helyreállított Boskednan kőkör felfedezéséhez.\n\nEvening: Fejezze be hosszú útját a Ding Dong bánya gépházánál, és nézze végig a naplementét a történelmi táj felett.",
         "ro": "Morning: Pedalați pe lângă stâncile de coastă de la Bosigran și admirați clădirea impunătoare a mașinii de la Mina Carn Galver.\n\nMidday: Lăsați bicicleta pentru o scurtă drumeție pe Watch Croft, apoi continuați drumul spre Mên Scryfa.\n\nAfternoon: Pedalați mai departe pentru a explora Mên-an-Tol și cercul de piatră parțial restaurat Boskednan de peste mlaștini.\n\nEvening: Terminați-vă călătoria la Ding Dong Mine, privind apusul soarelui peste acest peisaj de importanță istorică.",
         "en": "Morning: Cycle past the coastal cliffs at Bosigran and marvel at the towering Carn Galver Mine engine house.\n\nMidday: Park your bike for a brief hike up Watch Croft, then continue your ride to the ancient Mên Scryfa.\n\nAfternoon: Pedal further to explore Mên-an-Tol and the partially restored Boskednan stone circle across the moors.\n\nEvening: Finish your long ride at the Engine House of Ding Dong Mine, watching the sunset over the historical landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen radeln wir durch den Küstennebel, während der Regen und die salzige Gischt uns auf dem Weg zu den Ruinen begleiten.\n\nMittags erklimmen wir die Hügelkuppen und kämpfen gegen den Wind, aber die Aussicht auf das Moor entschädigt für jede Anstrengung.\n\nAm Nachmittag navigieren wir auf den rutschigen Pfaden zu den Megalithen und achten auf den längeren Bremsweg auf nassem Untergrund.\n\nAm Abend suchen wir nach der anstrengenden und nassen Tour endlich Schutz und lassen den Tag bei einem warmen Getränk ausklingen.",
+            "hu": "Reggel a ködös part menti utakon tekerünk, ahol az eső és a sós pára permete kíséri utunkat a romok felé.\n\nDélben a dombtetők felé kapaszkodunk, küzdve a széllel, de a kilátás a mocsárvidékre kárpótol minden erőfeszítésért.\n\nDélután a csúszós ösvényeken navigálunk az ősi megalitokhoz, figyelve a biztonságos féktávra a nedves talajon.\n\nEstére a fárasztó és áztató tekerés után végre menedékbe vonulunk, ahol meleg ital mellett pihentetjük elfáradt izmainkat.",
+            "ro": "Dimineața pedalăm prin ceața de coastă, în timp ce ploaia și vaporii sărați ne însoțesc în drumul spre ruinele industriale.\n\nLa prânz urcăm spre culmile dealurilor luptându-ne cu vântul, dar panorama asupra mlaștinii merită orice efort depus.\n\nDupă-amiaza navigăm pe potecile alunecoase spre megaliți, fiind atenți la distanța de frânare pe solul umed și periculos.\n\nSeara, după o tură obositoare și udă, ne retragem în sfârșit la adăpost, unde ne odihnim mușchii cu o băutură caldă.",
+            "en": "Morning finds us cycling through coastal mist, with rain and salt spray accompanying our journey toward the historic ruins.\n\nNoon is spent climbing toward the moorland ridges, battling the headwind for rewarding views over the atmospheric landscape.\n\nAfternoon requires careful navigation on slick paths to reach the megaliths, keeping a safe braking distance on the wet terrain.\n\nEvening brings a welcome end to a challenging, rain-soaked ride as we find shelter and warm up with a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bosigran Smelting Works",
+                "hu": "Bosigran Smelting Works",
+                "ro": "Bosigran Smelting Works",
+                "en": "Bosigran Smelting Works"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher und achten Sie auf die rutschigen Metallteile; der Regen macht die Industrieruinen besonders stimmungsvoll und wild.",
+                "hu": "Parkold le biztonságosan a biciklit, és ügyelj a csúszós fémalkatrészekre; az eső különösen hangulatossá és vadregényessé teszi az ipari romokat.",
+                "ro": "Parchează bicicleta în siguranță și fii atent la elementele metalice alunecoase; ploaia face ruinele industriale deosebit de atmosferice și sălbatice.",
+                "en": "Park your bike securely and watch out for slippery metal remnants; the rain makes these industrial ruins feel exceptionally atmospheric and wild."
+              }
+            },
+            {
+              "name": {
+                "de": "Carn Galver Mine",
+                "hu": "Carn Galver Mine",
+                "ro": "Carn Galver Mine",
+                "en": "Carn Galver Mine"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Mine ist bei Regen steinig und glatt; prüfen Sie Ihre Bremsen, bevor Sie den Abstieg zurück zur Hauptstraße wagen.",
+                "hu": "A bányához vezető út esőben köves és sima; ellenőrizd a fékeidet, mielőtt nekivágnál a főútra visszavezető lejtős szakasznak.",
+                "ro": "Drumul spre mină este pietros și alunecos pe ploaie; verifică frânele înainte de a începe coborârea înapoi spre drumul principal.",
+                "en": "The track to the mine is stony and slick in the rain; check your brakes before attempting the descent back toward the main coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Watch Croft",
+                "hu": "Watch Croft",
+                "ro": "Watch Croft",
+                "en": "Watch Croft"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad unten ab, da der Gipfelpfad bei Nässe zu gefährlich zum Fahren ist; genießen Sie den windigen Ausblick in Regenkleidung.",
+                "hu": "Zárd le a biciklit lent, mert a csúcsra vezető ösvény túl veszélyes a tekeréshez; élvezd a szeles kilátást megfelelő esőfelszerelésben.",
+                "ro": "Încuie bicicleta jos, deoarece poteca spre vârf este prea periculoasă pentru pedalat pe ploaie; admiră vederea în echipament impermeabil.",
+                "en": "Lock your bike at the bottom as the summit path is too treacherous to ride when wet; enjoy the windy panoramic view in full rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Mên Scryfa",
+                "hu": "Mên Scryfa",
+                "ro": "Mên Scryfa",
+                "en": "Mên Scryfa"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch das hohe, nasse Gras; der Stein steht exponiert und bietet keinen Schutz vor dem Regen, ist aber ein tolles Fotomotiv.",
+                "hu": "Tekerj óvatosan a magas, nedves fűben; a kő teljesen védtelen a csapadéktól, de a vizes felülete miatt kiváló fotótéma a borús időben.",
+                "ro": "Pedalează cu atenție prin iarba înaltă și udă; piatra este expusă și nu oferă adăpost, dar este un subiect foto excelent pe vreme ploioasă.",
+                "en": "Cycle carefully through the tall, wet grass; the stone is completely exposed and offers no shelter, but its wet surface makes for a great photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Mên-an-Tol",
+                "hu": "Mên-an-Tol",
+                "ro": "Mên-an-Tol",
+                "en": "Mên-an-Tol"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefe Pfützen auf dem Zufahrtsweg; die Granitsteine wirken im Regen fast schwarz und strahlen eine uralte Kraft aus.",
+                "hu": "Ügyelj a mély pocsolyákra a bekötőúton; a gránitkövek az esőben szinte feketének tűnnek, és ősi erőt árasztanak a magányos lápon.",
+                "ro": "Atenție la bălțile adânci de pe drumul de acces; pietrele de granit par aproape negre pe ploaie și emană o forță străveche în mlaștină.",
+                "en": "Watch out for deep puddles on the access track; the granite stones appear almost black in the rain, radiating an ancient power on the moor."
+              }
+            },
+            {
+              "name": {
+                "de": "Boskednan stone circle",
+                "hu": "Boskednan stone circle",
+                "ro": "Boskednan stone circle",
+                "en": "Boskednan stone circle"
+              },
+              "tip_5lang": {
+                "de": "Der abgelegene Steinkreis ist Wind und Regen ausgeliefert; fahren Sie vorsichtig, da nasses Gras und Schlamm hier sehr tückisch sind.",
+                "hu": "A távoli kőkör teljesen ki van téve a szélnek és esőnek; tekerj óvatosan, mert a fű és a sár rendkívül csalóka és csúszós ezen a szakaszon.",
+                "ro": "Cercul de piatră este expus vântului și ploii; pedalează cu atenție, deoarece iarba și noroiul pot fi foarte înșelătoare și alunecoase aici.",
+                "en": "The remote circle is exposed to wind and rain; cycle carefully on the moorland tracks as the grass and mud can be very treacherous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Engine House (Ding Dong Mine)",
+                "hu": "Engine House (Ding Dong Mine)",
+                "ro": "Engine House (Ding Dong Mine)",
+                "en": "Engine House (Ding Dong Mine)"
+              },
+              "tip_5lang": {
+                "de": "Diese hochgelegene Ruine bietet kaum Schutz; nutzen Sie die dicken Steinmauern als Windschutz, während Sie Ihre Fahrradkarte kontrollieren.",
+                "hu": "Ez a magasan fekvő rom kevés menedéket nyújt a felhőszakadás ellen; használd a vastag kőfalakat szélfogóként a rövid pihenő alatt.",
+                "ro": "Această ruină aflată la înălțime oferă puțin adăpost; folosește zidurile groase de piatră ca paravan împotriva vântului în timp ce te odihnești.",
+                "en": "This high-altitude ruin offers little shelter from the downpour; use the thick stone walls as a windbreak while you check your cycling map."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen radeln wir in der klaren, kalten Winterluft entlang der Küste, während der Frost auf den Straßen glitzert.\n\nMittags genießen wir bei tiefstehender Sonne das Panorama von den Hügeln, wobei die Anstrengung uns warm hält.\n\nAm Nachmittag erreichen wir die Steinkreise, bevor die frühe Dunkelheit und die Kälte über das karge Land hereinbrechen.\n\nNach dem Sonnenuntergang um 17 Uhr beenden wir unsere Tour und suchen schnell die Wärme eines Kamins, bevor der Frost anzieht.",
+            "hu": "Reggel a friss, csípős téli levegőben tekerünk a part mentén, miközben a zúzmara szikrázik az utakon.\n\nDélben a dombtetőkön a téli nap alacsony állása mellett csodáljuk meg a panorámát; a kapaszkodás melegen tart minket.\n\nDélután az ősi kőkörökhöz érünk, mielőtt a korai sötétség és a fagyos szél leszállna a lápvidékre.\n\nAz 17 órai naplemente után befejezzük a túrát, és gyorsan egy kandalló melegét keressük, mielőtt a fagy végleg átveszi az uralmat.",
+            "ro": "Dimineața pedalăm în aerul rece și proaspăt de iarnă de-a lungul coastei, în timp ce promoroaca sclipește pe drumuri.\n\nLa prânz admirăm panorama de pe culmi sub soarele jos de iarnă; efortul depus la urcare ne ajută să ne menținem temperatura corpului.\n\nDupă-amiaza ajungem la cercurile de piatră înainte ca întunericul timpuriu și gerul să cuprindă mlaștina.\n\nDupă apusul de la ora 17:00, încheiem tura și căutăm rapid căldura unui șemineu înainte ca înghețul să se instaleze definitiv.",
+            "en": "Morning finds us cycling in the crisp, cold winter air along the coast, with frost sparkling on the quiet roads.\n\nNoon is spent enjoying the panoramas from the ridges under the low sun; the physical effort keeps our bodies warm.\n\nAfternoon brings us to the ancient stone circles before the early winter dusk and freezing winds sweep across the moor.\n\nFollowing the 5 PM sunset, we conclude our ride and seek the warmth of a fireplace before the night frost takes over."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bosigran Smelting Works",
+                "hu": "Bosigran Smelting Works",
+                "ro": "Bosigran Smelting Works",
+                "en": "Bosigran Smelting Works"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie bei klarem Winterhimmel durch die Ruinen; die Steinstrukturen heben sich ohne Laub besonders deutlich von den Hügeln ab.",
+                "hu": "Kalandozz a romok között a tiszta téli égbolt alatt; a kőszerkezetek a növényzet hiánya miatt élesen kirajzolódnak a domboldalban.",
+                "ro": "Plimbă-te prin ruine sub un cer senin de iarnă; structurile de piatră ies clar în evidență pe fundalul dealurilor golașe.",
+                "en": "Wander through the ruins under a crisp winter sky; the stone structures stand out clearly against the hills without the summer greenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Carn Galver Mine",
+                "hu": "Carn Galver Mine",
+                "ro": "Carn Galver Mine",
+                "en": "Carn Galver Mine"
+              },
+              "tip_5lang": {
+                "de": "Der kalte Seewind lässt jedes historische Detail scharf hervortreten; tragen Sie winddichte Kleidung für den Aufenthalt am Berg.",
+                "hu": "A tenger felől fújó hideg szél élessé teszi a történelmi részleteket; viselj szélálló ruházatot a nyitott bányaterületen való tartózkodáshoz.",
+                "ro": "Vântul rece de mare face ca fiecare detaliu istoric să pară foarte clar; poartă haine rezistente la vânt pentru vizita la mină.",
+                "en": "The cold wind from the sea makes every historic detail feel sharp; wear windproof layers while exploring the exposed mine site."
+              }
+            },
+            {
+              "name": {
+                "de": "Watch Croft",
+                "hu": "Watch Croft",
+                "ro": "Watch Croft",
+                "en": "Watch Croft"
+              },
+              "tip_5lang": {
+                "de": "Der gefrorene Boden bietet einen festeren Halt beim Aufstieg; genießen Sie die klare Sicht, aber bereiten Sie sich auf beißende Kälte vor.",
+                "hu": "A fagyott talaj biztosabb járást tesz lehetővé a felfelé vezető úton; élvezd a tiszta kilátást, de készülj fel a metsző hidegre.",
+                "ro": "Solul înghețat oferă o aderență mai bună la urcare; bucură-te de vizibilitatea clară, dar pregătește-te pentru un frig pătrunzător pe vârf.",
+                "en": "The frozen ground provides a firmer footing on the climb; enjoy the clear visibility, but prepare for the biting cold at the summit."
+              }
+            },
+            {
+              "name": {
+                "de": "Mên Scryfa",
+                "hu": "Mên Scryfa",
+                "ro": "Mên Scryfa",
+                "en": "Mên Scryfa"
+              },
+              "tip_5lang": {
+                "de": "Dieses antike Monument wirkt inmitten der winterlichen Heide besonders streng; das tiefe Licht wirft lange, dramatische Schatten über das Moor.",
+                "hu": "Ez az ősi emlékmű különösen szikáran fest a téli hangafűben; az alacsony fények hosszú, drámai árnyékokat vetnek a lápvidék köveire.",
+                "ro": "Acest monument antic arată deosebit de auster printre tufele de iarbă neagră; lumina joasă creează umbre lungi și dramatice pe mlaștină.",
+                "en": "This ancient monument looks particularly stark against the dormant winter heather; the low light creates long, dramatic shadows across the moor."
+              }
+            },
+            {
+              "name": {
+                "de": "Mên-an-Tol",
+                "hu": "Mên-an-Tol",
+                "ro": "Mên-an-Tol",
+                "en": "Mên-an-Tol"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Steine kurz vor dem Sonnenuntergang um 17 Uhr; das Winterlicht färbt den Granit in warme Orangetöne, bevor die Nacht kommt.",
+                "hu": "Érkezz az ikonikus kövekhez közvetlenül az 17 órai naplemente előtt; a téli fény narancssárgára festi a gránitot a fagyos éjszaka előtt.",
+                "ro": "Ajungi la aceste pietre iconice chiar înainte de apusul de la ora 17:00; lumina de iarnă pictează granitul în tonuri calde de portocaliu.",
+                "en": "Arrive at these iconic stones just before the 5 PM sunset; the winter light paints the granite in warm orange tones before the night frost sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Boskednan stone circle",
+                "hu": "Boskednan stone circle",
+                "ro": "Boskednan stone circle",
+                "en": "Boskednan stone circle"
+              },
+              "tip_5lang": {
+                "de": "Die Steine stehen stumm in der kalten Winterluft; die tiefstehende Sonne betont den Granit, aber die Rückfahrt wird nach Sonnenuntergang frostig.",
+                "hu": "A kövek némán állnak a hideg téli levegőben; az alacsony napfény kiemeli a gránitot, de a visszavezető út fagyos lesz a naplemente után.",
+                "ro": "Pietrele stau tăcute în aerul rece de iarnă; soarele jos scoate în evidență granitul, dar drumul de întoarcere va fi înghețat după apus.",
+                "en": "The stones stand silent in the cold winter air; the low sun highlights the lichen-covered granite, but the ride back will be chilly after sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Engine House (Ding Dong Mine)",
+                "hu": "Engine House (Ding Dong Mine)",
+                "ro": "Engine House (Ding Dong Mine)",
+                "en": "Engine House (Ding Dong Mine)"
+              },
+              "tip_5lang": {
+                "de": "Eines der ältesten Minengebäude sieht im Winterlicht fantastisch aus; der steile Anstieg wärmt Sie auf, aber ziehen Sie sich vor der Abfahrt an.",
+                "hu": "Az egyik legrégebbi bányépület lenyűgözően fest a téli fényben; a meredek emelkedő felmelegít, de vegyél fel plusz réteget a lejtmenet előtt.",
+                "ro": "Una dintre cele mai vechi clădiri miniere arată uimitor în lumina iernii; urcarea abruptă te va încălzi, dar pune-ți o haină înainte de a coborî.",
+                "en": "One of the oldest mine buildings looks stunning in the winter light; the steep climb will warm you up, but put on a layer before you descend."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Morning: Vezessen a tengerpart szélére, hogy megnézze a Bosigran kohót, mielőtt felmenne a Carn Galver bányához.\n\nMidday: Tegyen egy festői utazást a Watch Croft lábához, majd álljon meg egy rövid időre a titokzatos Mên Scryfánál.\n\nAfternoon: Folytassa útját a legendás Mên-an-Tolhoz és a hangulatos Boskednan kőkörhöz, amelyek igazán különlegesek.\n\nEvening: Zárja a napot a Bodrifty vaskori falu és a rejtett Bosporthennis szent kút ősi romjainak felfedezésével.",
         "ro": "Morning: Conduceți până la marginea coastei pentru a vedea topitoria Bosigran înainte de a urca la Mina Carn Galver.\n\nMidday: Faceți o plimbare pitorească până la baza Watch Croft, urmată de o scurtă oprire la misterioasa Mên Scryfa.\n\nAfternoon: Continuați călătoria către legendara Mên-an-Tol și cercul de piatră atmosferic Boskednan din apropiere.\n\nEvening: Încheiați ziua descoperind satul din Epoca Fierului Bodrifty și Fântâna Sacră Bosporthennis, un loc cu adevărat ascuns.",
         "en": "Morning: Drive to the edge of the coast to see Bosigran Smelting Works before heading up to the Carn Galver Mine.\n\nMidday: Take a scenic drive to the base of Watch Croft, followed by a short stop at the mysterious Mên Scryfa.\n\nAfternoon: Continue your road trip to the legendary Mên-an-Tol and the atmospheric Boskednan stone circle.\n\nEvening: Wrap up the day by discovering the Bodrifty Iron Age Village and the hidden Bosporthennis Sacred Well."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen fahren wir bequem auf den gewundenen Küstenstraßen, während die Scheibenwischer rhythmisch die Sicht auf die nebligen Ruinen klären.\n\nMittags unternehmen wir kurze Spaziergänge von den Parkplätzen zu den Aussichtspunkten und kehren immer wieder in das trockene Auto zurück.\n\nAm Nachmittag besuchen wir die Megalithen und nutzen das windgeschützte Innere des Wagens für Pausen, während es draußen in Strömen regnet.\n\nAm Abend erreichen wir trotz des stürmischen Wetters bequem unser Ziel und genießen die Heizung nach den nassen Küstenabschnitten.",
+            "hu": "Reggel kényelmesen autózunk a kanyargós parti utakon, miközben az ablaktörlők ütemesen tisztítják a kilátást a ködös romokra.\n\nDélben rövidebb sétákat teszünk a parkolókból a kilátópontokhoz, mindig visszatérve a gépkocsi száraz és meleg biztonságába.\n\nDélután a megalitokat látogatjuk meg, kihasználva a szélvédett belső teret a rövid pihenők során, miközben kint szakad az eső.\n\nEstére a viharos időjárás ellenére is kényelemben érjük el úticélunkat, élvezve a fűtést a nedves tengerparti szakaszok után.",
+            "ro": "Dimineața conducem confortabil pe drumurile șerpuite de coastă, în timp ce ștergătoarele curăță ritmic vederea spre ruinele cețoase.\n\nLa prânz facem scurte plimbări de la parcări spre punctele de belvedere, revenind mereu în siguranța uscată a mașinii.\n\nDupă-amiaza vizităm megaliții, profitând de interiorul ferit de vânt pentru scurte pauze în timp ce afară plouă torențial.\n\nSeara, în ciuda vremii furtunoase, ajungem confortabil la destinație, savurând căldura din mașină după episoadele umede de pe coastă.",
+            "en": "Morning finds us driving comfortably along winding coastal roads, with wipers rhythmically clearing the view of the misty, atmospheric ruins.\n\nNoon consists of short walks from car parks to viewpoints, always returning to the dry and warm sanctuary of the vehicle.\n\nAfternoon is for visiting the ancient megaliths, utilizing the wind-sheltered car interior for breaks while the rain pours outside.\n\nEvening concludes our journey in comfort despite the stormy weather, enjoying the heater after exploring the damp, windswept coastline."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bosigran Smelting Works",
+                "hu": "Bosigran Smelting Works",
+                "ro": "Bosigran Smelting Works",
+                "en": "Bosigran Smelting Works"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher in der Nähe und bereiten Sie sich auf einen nassen Weg vor; der Regen lässt die Industrieruinen besonders wild und verlassen wirken.",
+                "hu": "Parkolj le biztonságosan a közelben, és készülj fel egy áztató sétára; az eső különösen vadregényessé és elhagyatottá teszi az ipari romokat.",
+                "ro": "Parchează în siguranță în apropiere și pregătește-te pentru o plimbare udă; ploaia face ruinele industriale să pară deosebit de sălbatice și părăsite.",
+                "en": "Park safely nearby and prepare for a wet walk to the ruins; the rain makes these industrial remains feel exceptionally wild and desolate."
+              }
+            },
+            {
+              "name": {
+                "de": "Carn Galver Mine",
+                "hu": "Carn Galver Mine",
+                "ro": "Carn Galver Mine",
+                "en": "Carn Galver Mine"
+              },
+              "tip_5lang": {
+                "de": "Das Maschinenhaus sieht im Nebel dramatisch aus; nutzen Sie die kurzen Regenpausen für Besichtigungen und tragen Sie feste, wasserdichte Schuhe.",
+                "hu": "A bánya gépháza drámai látványt nyújt a ködben; használd ki a rövid esőszüneteket a nézelődésre, és viselj masszív, vízálló cipőt.",
+                "ro": "Casa mașinilor arată dramatic în ceață; profită de scurtele pauze de ploaie pentru vizitare și poartă încălțăminte rezistentă și impermeabilă.",
+                "en": "The engine house looks dramatic in the mist; take advantage of short breaks in the rain for viewing and wear sturdy, waterproof footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Watch Croft",
+                "hu": "Watch Croft",
+                "ro": "Watch Croft",
+                "en": "Watch Croft"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg vom Parkplatz kann bei Regen sehr rutschig sein; genießen Sie die neblige Aussicht und kehren Sie dann ins warme Auto zurück.",
+                "hu": "A parkolótól vezető emelkedő esőben nagyon csúszós lehet; élvezd a ködös panorámát a csúcsról, majd térj vissza a kocsi melegébe.",
+                "ro": "Urcarea de la parcare poate fi foarte alunecoasă pe ploaie; bucură-te de panorama cețoasă de pe vârf, apoi revino la căldura mașinii.",
+                "en": "The climb from the parking area can be very slippery in the rain; enjoy the misty summit views and then return to the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Mên Scryfa",
+                "hu": "Mên Scryfa",
+                "ro": "Mên Scryfa",
+                "en": "Mên Scryfa"
+              },
+              "tip_5lang": {
+                "de": "Der Stein steht einsam im Regen; die feuchte Oberfläche hebt die Inschriften hervor, die von der Seite betrachtet besser lesbar sind.",
+                "hu": "A kő magányosan áll az esőben; a nedves felület kiemeli a feliratokat, amelyek oldalról nézve sokkal jobban olvashatóak a látogatók számára.",
+                "ro": "Piatra stă solitară în ploaie; suprafața umedă scoate în evidență inscripțiile, care sunt mai ușor de citit dacă sunt privite din lateral.",
+                "en": "The stone stands solitary in the rain; the damp surface highlights the ancient inscriptions, which are easier to read from a side angle."
+              }
+            },
+            {
+              "name": {
+                "de": "Mên-an-Tol",
+                "hu": "Mên-an-Tol",
+                "ro": "Mên-an-Tol",
+                "en": "Mên-an-Tol"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Weg zu den Steinen; der nasse Granit glänzt im Regen und verleiht diesem magischen Ort eine düstere Kraft.",
+                "hu": "Vigyázz a pocsolyákra a kövekhez vezető ösvényen; a nedves gránit csillog az esőben, és komor erőt kölcsönöz ennek a mágikus helyszínnek.",
+                "ro": "Atenție la bălțile de pe poteca spre pietre; granitul umed strălucește sub ploaie și oferă o forță sumbră acestui loc magic.",
+                "en": "Watch out for puddles on the path to the stones; the wet granite glimmers in the rain, lending a somber power to this ancient, magical site."
+              }
+            },
+            {
+              "name": {
+                "de": "Boskednan stone circle",
+                "hu": "Boskednan stone circle",
+                "ro": "Boskednan stone circle",
+                "en": "Boskednan stone circle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher und bereiten Sie sich auf einen nassen Spaziergang vor; der Regen erzeugt an dieser Stätte eine dramatisch einsame Stimmung.",
+                "hu": "Parkolj le biztonságosan, és készülj fel egy áztató sétára; az eső drámai és magányos hangulatot áraszt ezen a történelem előtti helyszínen.",
+                "ro": "Parchează în siguranță și pregătește-te pentru o plimbare prin ploaie; stropii de apă creează o atmosferă dramatică și solitară în acest loc.",
+                "en": "Park securely and prepare for a short, wet walk to the stones; the rain creates a dramatic, lonely atmosphere at this prehistoric site."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodrifty Iron Age Village",
+                "hu": "Bodrifty Iron Age Village",
+                "ro": "Bodrifty Iron Age Village",
+                "en": "Bodrifty Iron Age Village"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Fundamente der alten Hütten; die Pfützen in den Steinbasen vermitteln ein Gefühl für das raue Klima, das hier einst herrschte.",
+                "hu": "Fedezd fel az ősi kunyhók alapjait; a kőalapokban összegyűlő pocsolyák érzékeltessé teszik, milyen zord lehetett itt egykor a mindennapi élet.",
+                "ro": "Explorând fundațiile acestor colibe străvechi, bălțile care se adună în bazele de piatră oferă o imagine a climatului aspru de aici.",
+                "en": "Explore the foundations of these ancient huts; the puddles filling the circular stone bases give a vivid sense of the harsh climate here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bosporthennis Sacred Well",
+                "hu": "Bosporthennis Sacred Well",
+                "ro": "Bosporthennis Sacred Well",
+                "en": "Bosporthennis Sacred Well"
+              },
+              "tip_5lang": {
+                "de": "Der steinbedeckte Brunnen bietet ein wenig natürlichen Schutz; achten Sie auf den moosigen Steinen auf Ihre Schritte, da diese extrem glatt sind.",
+                "hu": "A kővel fedett kút egy aprócska természetes menedéket nyújt; vigyázz a lépteidre a mohás köveken, amelyek rendkívül csúszósak az esőben.",
+                "ro": "Puțul acoperit cu piatră oferă un mic adăpost natural; ai mare grijă la pașii tăi pe pietrele cu mușchi, care sunt extrem de alunecoase.",
+                "en": "The stone-covered well provides a tiny bit of natural shelter; watch your step on the mossy stones which are extremely slick in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen fahren wir in der klaren, kalten Luft entlang der Küstenstraße, während der Frost die karge Landschaft silbern überzieht.\n\nMittags genießen wir bei tiefstehender Wintersonne das Panorama von den Parkplätzen aus und unternehmen kurze, belebende Spaziergänge.\n\nAm Nachmittag erreichen wir die Megalithen, bevor die frühe Dunkelheit um 17 Uhr über das Moor hereinbricht und die Temperaturen sinken.\n\nNach dem Sonnenuntergang beenden wir unsere Tour und genießen die wohlige Wärme der Autoheizung auf dem Rückweg zu unserer Unterkunft.",
+            "hu": "Reggel a friss, csípős levegőben autózunk a parti úton, miközben a zúzmara ezüstre festi a kopár lápvidéket az ablakon túl.\n\nDélben a téli nap alacsony állása mellett csodáljuk meg a panorámát a parkolók közelében, rövid, élénkítő sétákat téve a hidegben.\n\nDélután az ősi megalitokhoz érünk, mielőtt a korai, 17 órai sötétség leszállna a lápra, és a hőmérséklet hirtelen zuhanni kezdene.\n\nAz 17 órai naplemente után befejezzük a túrát, és a kocsi fűtését élvezzük a szállásunk felé vezető úton a fagyos éjszakában.",
+            "ro": "Dimineața conducem în aerul rece și proaspăt de-a lungul drumului de coastă, în timp ce promoroaca argintează peisajul golaș al mlaștinii.\n\nLa prânz admirăm panorama sub soarele jos de iarnă din apropierea parcărilor, făcând scurte plimbări revigorante în frigul de afară.\n\nDupă-amiaza ajungem la megaliții antici înainte ca întunericul timpuriu de la ora 17:00 să cuprindă mlaștina și temperaturile să scadă.\n\nDupă apusul de la ora 17:00, încheiem turul și savurăm căldura din mașină pe drumul de întoarcere spre cazare prin noaptea înghețată.",
+            "en": "Morning finds us driving in the crisp, cold air along the coast, with frost painting the barren moorland landscape in silver tones.\n\nNoon is spent enjoying panoramas from parking areas under the low winter sun, taking short, bracing walks in the frigid environment.\n\nAfternoon brings us to the ancient megaliths before the early 5 PM dusk settles over the moor and temperatures begin to drop rapidly.\n\nFollowing the 5 PM sunset, we conclude our journey and enjoy the cozy warmth of the car heater on the drive back to our accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bosigran Smelting Works",
+                "hu": "Bosigran Smelting Works",
+                "ro": "Bosigran Smelting Works",
+                "en": "Bosigran Smelting Works"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie bei klarem Winterhimmel durch die Ruinen; die Steinstrukturen heben sich ohne Laub besonders deutlich von der Landschaft ab.",
+                "hu": "Kalandozz a romok között a tiszta téli égbolt alatt; a kőszerkezetek a növényzet hiánya miatt élesen kirajzolódnak a domboldalban.",
+                "ro": "Plimbă-te prin ruine sub un cer senin de iarnă; structurile de piatră ies clar în evidență pe fundalul peisajului golaș.",
+                "en": "Wander through the ruins under a crisp winter sky; the stone structures stand out clearly against the hills without the summer greenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Carn Galver Mine",
+                "hu": "Carn Galver Mine",
+                "ro": "Carn Galver Mine",
+                "en": "Carn Galver Mine"
+              },
+              "tip_5lang": {
+                "de": "Der kalte Seewind lässt jedes historische Detail scharf hervortreten; nutzen Sie die Wärme des Wagens zwischen den Besichtigungen der Ruinen.",
+                "hu": "A tenger felől fújó hideg szél élessé teszi a történelmi részleteket; használd ki a kocsi melegét a romok megtekintése közötti szünetekben.",
+                "ro": "Vântul rece de mare face ca fiecare detaliu istoric să pară foarte clar; profită de căldura mașinii între vizitele la ruinele minei.",
+                "en": "The cold wind from the sea makes every historic detail feel sharp; utilize the car's warmth between short explorations of the mine ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Watch Croft",
+                "hu": "Watch Croft",
+                "ro": "Watch Croft",
+                "en": "Watch Croft"
+              },
+              "tip_5lang": {
+                "de": "Der gefrorene Boden bietet einen festeren Halt beim Aufstieg vom Parkplatz; bereiten Sie sich auf beißende Kälte am Gipfel vor.",
+                "hu": "A fagyott talaj biztosabb járást tesz lehetővé a parkolótól felfelé; készülj fel a metsző hidegre a csúcson, viselj meleg kiegészítőket.",
+                "ro": "Solul înghețat oferă o aderență mai bună la urcare de la parcare; pregătește-te pentru un frig pătrunzător pe vârf, poartă haine groase.",
+                "en": "The frozen ground provides a firmer footing on the short climb from the parking area; prepare for the biting cold at the open summit."
+              }
+            },
+            {
+              "name": {
+                "de": "Mên Scryfa",
+                "hu": "Mên Scryfa",
+                "ro": "Mên Scryfa",
+                "en": "Mên Scryfa"
+              },
+              "tip_5lang": {
+                "de": "Dieses Monument wirkt in der winterlichen Heide besonders streng; das tiefe Licht wirft lange, dramatische Schatten über das kahle Moor.",
+                "hu": "Ez az emlékmű különösen szikáran fest a téli hangafűben; az alacsony fények hosszú, drámai árnyékokat vetnek a kopár lápvidékre.",
+                "ro": "Acest monument arată deosebit de auster printre tufele de iarbă neagră; lumina joasă creează umbre lungi și dramatice pe mlaștina golașă.",
+                "en": "This ancient monument looks particularly stark against the dormant winter heather; the low light creates long, dramatic shadows across the moor."
+              }
+            },
+            {
+              "name": {
+                "de": "Mên-an-Tol",
+                "hu": "Mên-an-Tol",
+                "ro": "Mên-an-Tol",
+                "en": "Mên-an-Tol"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Steine kurz vor dem Sonnenuntergang um 17 Uhr; das Winterlicht färbt den Granit in warme Orangetöne, bevor die Kälte kommt.",
+                "hu": "Érkezz az ikonikus kövekhez közvetlenül az 17 órai naplemente előtt; a téli fény narancssárgára festi a gránitot a hűvös este beállta előtt.",
+                "ro": "Ajungi la aceste pietre iconice chiar înainte de apusul de la ora 17:00; lumina de iarnă pictează granitul în tonuri calde de portocaliu.",
+                "en": "Arrive at these iconic stones just before the 5 PM sunset; the winter light paints the granite in warm orange tones before the evening chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Boskednan stone circle",
+                "hu": "Boskednan stone circle",
+                "ro": "Boskednan stone circle",
+                "en": "Boskednan stone circle"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang führt zu diesem frostigen Steinkreis; die Zeit vor 17 Uhr ist perfekt, um die Steine im goldenen Licht zu fotografieren.",
+                "hu": "Az úttól rövid séta vezet ehhez a zúzmarás kőkörhöz; az 17 óra előtti aranyóra tökéletes a történelem előtti kövek fotózásához a hidegben.",
+                "ro": "O scurtă plimbare de la drum duce la acest cerc înghețat; ora de dinainte de 17:00 este perfectă pentru a fotografia pietrele în lumina aurie.",
+                "en": "A short walk from the road leads to this frosty circle; the golden hour just before 5 PM is perfect for photographing the prehistoric stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodrifty Iron Age Village",
+                "hu": "Bodrifty Iron Age Village",
+                "ro": "Bodrifty Iron Age Village",
+                "en": "Bodrifty Iron Age Village"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Winterlicht offenbart den Grundriss des Dorfes; ziehen Sie sich warm an, da der Wind über den ungeschützten Hügel fegt.",
+                "hu": "Az alacsony téli fény feltárja a falu bonyolult elrendezését; öltözz rétegesen, mert a szél szabadon söpör végig a nyitott domboldalon.",
+                "ro": "Lumina joasă de iarnă dezvăluie aspectul complex al satului; poartă haine groase, deoarece vântul suflă puternic pe panta expusă a dealului.",
+                "en": "The low winter light reveals the intricate layout of the village; wear warm layers as the wind sweeps across the exposed moorland hillside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bosporthennis Sacred Well",
+                "hu": "Bosporthennis Sacred Well",
+                "ro": "Bosporthennis Sacred Well",
+                "en": "Bosporthennis Sacred Well"
+              },
+              "tip_5lang": {
+                "de": "Diese antike Quelle wirkt in der Kälte wie ein verstecktes Heiligtum; das Wasser bleibt klar und still und spiegelt den blassen Himmel wider.",
+                "hu": "Ez az ősi forrás rejtett szentélynek tűnik a hidegben; a vize tiszta és mozdulatlan marad, tükrözve a sápadt téli égboltot a kövek között.",
+                "ro": "Această fântână antică pare un sanctuar ascuns în frig; apa rămâne limpede și nemișcată, reflectând cerul palid de iarnă de deasupra.",
+                "en": "This ancient spring feels like a hidden sanctuary in the cold; the water remains clear and still, reflecting the pale winter sky above."
+              }
+            }
+          ]
+        }
       }
     }
   }

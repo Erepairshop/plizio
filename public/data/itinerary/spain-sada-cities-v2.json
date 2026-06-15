@@ -160,6 +160,196 @@
         "hu": "A reggel a vízparton kezdődik, megcsodálva az ikonikus A Terazát. A dél felé közeledve Sada kulturális szívében találjuk magunkat, a helyi művészeteket felfedezve. A délutánt a történelmi kúriáknak és a tengerre néző ősi castróknak szenteljük. Az este egy békés sétát hoz a védett vizes élőhelyeken.",
         "ro": "Dimineața începe lângă apă, admirând emblematica A Terraza. La prânz, vizitați inima culturală a orașului Sada, explorând artele locale la Pintor Llorens. După-amiaza este dedicată conacelor istorice și vechilor castre. Seara aduce o plimbare pașnică prin zonele umede protejate de la Brañas de Sada.",
         "en": "Morning begins by the water, admiring the iconic A Terraza and walking along Praia Nova. Midday takes you into the cultural heart of Sada, exploring local arts at Pintor Llorens. Afternoon is dedicated to historic manors and ancient castros overlooking the sea. Evening brings a peaceful stroll through the protected wetlands of Brañas de Sada."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Schutz der eleganten A Terraza, während der Regen auf das Glas prasselt. Mittags bieten die Casa da Cultura und historische Pazos trockene Rückzugsorte. Am Nachmittag erkunden Sie die archäologischen Stätten, wobei festes Schuhwerk auf den rutschigen Pfaden wichtig ist. Der Abend endet an den mystischen Brañas de Sada, die im Regen besonders lebendig wirken.",
+            "hu": "Kezdje a napot az A Terraza védelmében, figyelve az öbölre hulló esőt. Délben a művelődési ház és a történelmi paloták kínálnak fedett menedéket a séták között. Délután a castrók régészeti leleteit fedezheti fel, de vigyázzon a csúszós ösvényekkel. Az este a Brañas de Sada vizes élőhelyeinél zárul, amely esőben különösen misztikus arcát mutatja, mielőtt behúzódna egy meleg helyre.",
+            "ro": "Începeți ziua sub protecția eleganta a clădirii A Terraza, admirând ploaia peste golf. La prânz, centrele culturale și palatele oferă refugiu uscat între vizite. După-amiază, explorați siturile arheologice, unde încălțămintea impermeabilă este esențială pe potecile alunecoase. Seara se încheie la Brañas de Sada, unde zonele umede par mistice în ploaie, înainte de a vă retrage la căldură.",
+            "en": "Start your day sheltered by the elegant A Terraza while watching the rain over the bay. At noon, the cultural center and historic pazos offer dry retreats between your walks. In the afternoon, explore the archaeological sites, where waterproof boots are essential on the slippery paths. The evening ends at the Brañas de Sada wetlands, which look mystical in the rain, before heading indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "A Terraza",
+                "hu": "A Terraza",
+                "ro": "A Terraza",
+                "en": "A Terraza"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Jugendstilarchitektur von innen, während der Regen gegen die Fenster prasselt; ein perfekter, trockener Start in den Tag mit Blick auf das Meer.",
+                "hu": "Csodálja meg a szecessziós épület üvegablakait belülről, miközben az eső kopog a tetőn; ez a legjobb hely, hogy szárazon indítsa a napot és élvezze a kilátást.",
+                "ro": "Admirați arhitectura art nouveau din interior în timp ce ploaia bate în geamuri; un început de zi perfect și uscat, cu o vedere superbă spre portul local.",
+                "en": "Admire the Art Nouveau architecture from the inside while the rain patters against the glass; it is a perfect, dry start to the day with a great sea view."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Nova",
+                "hu": "Praia Nova",
+                "ro": "Praia Nova",
+                "en": "Praia Nova"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen sehr dramatisch; nutzen Sie die befestigte Promenade für einen Spaziergang, um nasse Füße im tiefen Sand zu vermeiden.",
+                "hu": "Az esőben a tenger látványa rendkívül drámai; maradjon a kövezett sétányon, hogy elkerülje a vizes homokot, de érezze a friss, sós és ózonos tengeri levegőt.",
+                "ro": "Plaja arată dramatic în timpul ploii; folosiți faleza pavată pentru o plimbare revigorantă ca să evitați nisipul ud și să vă bucurați de briza sărată.",
+                "en": "The beach looks very dramatic in the rain; stick to the paved promenade for a walk to avoid wet feet in the deep sand while enjoying the fresh sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Cultura Pintor Llorens",
+                "hu": "Casa da Cultura Pintor Llorens",
+                "ro": "Casa da Cultura Pintor Llorens",
+                "en": "Casa da Cultura Pintor Llorens"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Zufluchtsort vor dem Wetter; erkunden Sie die lokalen Kunstausstellungen im warmen Inneren, während es draußen regnet und windet.",
+                "hu": "Ideális búvóhely a rossz idő elől; fedezze fel a helyi művészeti kiállításokat a meleg belső terekben, miközben kint esik az eső és fúj a szél.",
+                "ro": "Un refugiu ideal împotriva vremii nefavorabile; explorați expozițiile locale de artă în interiorul cald în timp ce afară plouă și vântul bate cu putere.",
+                "en": "An ideal shelter from the weather; explore the local art exhibitions in the warm interior while it rains and winds outside. Perfect for staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo de Oreiro",
+                "hu": "Pazo de Oreiro",
+                "ro": "Pazo de Oreiro",
+                "en": "Pazo de Oreiro"
+              },
+              "tip_5lang": {
+                "de": "Die alten Mauern bieten etwas Schutz vor dem Wind; achten Sie auf die rutschigen Steinpfade im Garten und tragen Sie unbedingt festes, griffiges Schuhwerk.",
+                "hu": "A régi falak némi védelmet nyújtanak a szél ellen; ügyeljen a kert csúszós kőösvényeire, és mindenképpen viseljen stabil, tapadós talpú túracipőt.",
+                "ro": "Zidurile vechi oferă protecție împotriva vântului; atenție la potecile de piatră alunecoase din grădină și purtați neapărat încălțăminte cu talpă aderentă.",
+                "en": "The old walls provide some shelter from the wind; watch out for slippery stone paths in the garden and make sure to wear sturdy, high-grip footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro do Tarabelo",
+                "hu": "Castro do Tarabelo",
+                "ro": "Castro do Tarabelo",
+                "en": "Castro do Tarabelo"
+              },
+              "tip_5lang": {
+                "de": "Die archäologische Stätte ist bei Regen oft menschenleer; wasserfeste Kleidung ist hier wegen des exponierten, schlammigen Geländes absolut unerlässlich.",
+                "hu": "A régészeti lelőhely esőben gyakran teljesen néptelen; a vízálló ruházat itt elengedhetetlen a nyitott és sáros terep miatt, de a látvány megéri.",
+                "ro": "Situl arheologic este adesea pustiu pe ploaie; îmbrăcămintea impermeabilă este esențială aici din cauza terenului expus și noroios de pe colină.",
+                "en": "The archaeological site is often deserted in the rain; waterproof clothing is absolutely essential here due to the exposed and muddy terrain uphill."
+              }
+            },
+            {
+              "name": {
+                "de": "ENIL Brañas de Sada",
+                "hu": "ENIL Brañas de Sada",
+                "ro": "ENIL Brañas de Sada",
+                "en": "ENIL Brañas de Sada"
+              },
+              "tip_5lang": {
+                "de": "Die Feuchtgebiete blühen bei Regen förmlich auf; bleiben Sie auf den Holzwegen, um den Schlamm zu umgehen und seltene Wasservögel in Ruhe zu beobachten.",
+                "hu": "A vizes élőhelyek esőben valósággal felélednek; maradjon a fapadlókon, hogy elkerülje a sarat, és figyelje meg a ritka vízimadarakat a csendben.",
+                "ro": "Zonele umede prind viață în timpul ploii; rămâneți pe podinele de lemn pentru a evita noroiul și pentru a observa păsările acvatice în liniște.",
+                "en": "The wetlands literally come alive in the rain; stay on the wooden boardwalks to avoid the mud and observe rare water birds in the peaceful silence."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Charme von Sada mit einer frischen Brise am Morgen an der A Terraza. Besuchen Sie mittags die kulturellen Sehenswürdigkeiten, um sich aufzuwärmen. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Außenbereiche und das Pazo am frühen Nachmittag besuchen. Der Abend lädt zu einem gemütlichen Spaziergang durch die beleuchteten Straßen ein.",
+            "hu": "Fedezze fel Sada téli báját a friss tengeri szélben az A Terrazánál. Délben látogasson el a kulturális helyszínekre, hogy felmelegedjen a látnivalók között. Mivel a nap már 17:00 körül lemegy, a szabadtéri castrókat és a palotát kora délutánra tervezze. Az este a kivilágított utcák barátságos hangulatával várja egy rövid séta erejéig.",
+            "ro": "Descoperiți farmecul iernii în Sada cu o briză proaspătă dimineața la A Terraza. La prânz, vizitați obiectivele culturale pentru a vă încălzi între vizite. Deoarece soarele apune în jur de ora 17:00, planificați vizitarea siturilor exterioare și a palatului devreme. Seara vă invită la o plimbare primitoare pe străzile luminate ale orașului.",
+            "en": "Experience the winter charm of Sada with a fresh breeze in the morning at A Terraza. At noon, visit the cultural sites to warm up between attractions. Since the sun sets around 17:00, plan your visits to the outdoor castros and the pazo for early afternoon. The evening invites you for a cozy walk through the illuminated streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "A Terraza",
+                "hu": "A Terraza",
+                "ro": "A Terraza",
+                "en": "A Terraza"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die winterliche Bucht von einem Platz am Fenster; die tiefstehende Sonne sorgt für ein wunderschönes Licht im historischen Saal.",
+                "hu": "Élvezze a téli öböl látványát az ablak melletti asztaltól; az alacsonyan járó nap gyönyörű fényekkel tölti meg a patinás, történelmi nagytermet.",
+                "ro": "Bucurați-vă de vederea golfului hibernal de la o masă lângă fereastră; soarele palid de iarnă creează o lumină superbă în interiorul sălii istorice.",
+                "en": "Enjoy the view of the winter bay from a window seat; the low winter sun creates beautiful light effects inside the historic and grand hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Nova",
+                "hu": "Praia Nova",
+                "ro": "Praia Nova",
+                "en": "Praia Nova"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Winterspaziergang am Ufer ist sehr erfrischend; tragen Sie einen winddichten Mantel und einen Schal gegen die kalte Meeresbrise.",
+                "hu": "Egy tempós téli séta a parton rendkívül felfrissítő; viseljen szélálló kabátot és sálat a fagyos tengeri szellő ellen, ami télen igen metsző lehet.",
+                "ro": "O plimbare rapidă de iarnă pe mal este foarte revigorantă; purtați o haină rezistentă la vânt și un fular împotriva brizelor reci ale oceanului.",
+                "en": "A brisk winter walk along the shore is very refreshing; wear a windproof coat and a warm scarf against the cold sea breeze, which can be sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Cultura Pintor Llorens",
+                "hu": "Casa da Cultura Pintor Llorens",
+                "ro": "Casa da Cultura Pintor Llorens",
+                "en": "Casa da Cultura Pintor Llorens"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich bei frostigen Temperaturen aufzuwärmen; nutzen Sie die Zeit für die Ausstellungen, bevor es draußen früh dunkel wird.",
+                "hu": "A tökéletes hely a felmelegedésre fagyos hőmérséklet esetén; használja ki az időt a kiállításokra, mielőtt kint korán sötétedni kezdene a téli napon.",
+                "ro": "Locul perfect pentru a vă încălzi când temperaturile scad; profitați de timp pentru a vedea expozițiile înainte de a se întuneca afară, foarte devreme.",
+                "en": "The perfect place to warm up when temperatures drop; use the time to explore the exhibitions before it starts getting dark outside early in the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo de Oreiro",
+                "hu": "Pazo de Oreiro",
+                "ro": "Pazo de Oreiro",
+                "en": "Pazo de Oreiro"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur des Pazos wirkt im klaren Winterlicht besonders eindrucksvoll; besuchen Sie den Ort rechtzeitig vor dem Sonnenuntergang um 17 Uhr.",
+                "hu": "A palota építészete a tiszta téli fényben különösen lenyűgöző; látogasson el ide időben, jóval a korai, délután 5 órai naplemente előtt.",
+                "ro": "Arhitectura palatului arată impresionant în lumina clară a iernii; vizitați locația din timp, înainte de apusul soarelui care are loc în jur de ora 17.",
+                "en": "The architecture of the pazo looks particularly impressive in the clear winter light; visit the site well before the early sunset at 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro do Tarabelo",
+                "hu": "Castro do Tarabelo",
+                "ro": "Castro do Tarabelo",
+                "en": "Castro do Tarabelo"
+              },
+              "tip_5lang": {
+                "de": "Vom Hügel aus haben Sie im Winter eine klare Fernsicht; da es oben windig und kalt sein kann, ist warme Thermo-Kleidung unbedingt zu empfehlen.",
+                "hu": "A dombról télen kiváló a távoli kilátás a tiszta levegőben; mivel fent szeles és hideg lehet, a meleg termo-ruházat viselése erősen ajánlott.",
+                "ro": "De pe deal aveți o vizibilitate excelentă la distanță iarna; deoarece sus poate fi vântos și frig, se recomandă purtarea hainelor termice groase.",
+                "en": "From the hill, you have excellent distant visibility in winter; since it can be windy and cold at the top, warm thermal clothing is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "ENIL Brañas de Sada",
+                "hu": "ENIL Brañas de Sada",
+                "ro": "ENIL Brañas de Sada",
+                "en": "ENIL Brañas de Sada"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die im Winter hier rastenden Zugvögel; da es in den Feuchtgebieten kühler ist, sollten Sie sich für den Abendbesuch warm anziehen.",
+                "hu": "Figyelje meg az itt pihenő téli vándormadarakat; mivel a vizes élőhelyeken jóval hűvösebb az idő, öltözzön rétegesen az esti látogatáshoz.",
+                "ro": "Observați păsările migratoare care poposesc aici iarna; deoarece în zonele umede este mult mai răcoare, îmbrăcați-vă bine pentru vizita de seară.",
+                "en": "Observe the wintering migratory birds resting here; as it is much cooler in the wetlands, make sure to dress warmly for your late afternoon visit."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a tekerést a Brañas de Sada élénk növényzete között, mielőtt a Samoedo településre kerékpározna. A dél ideális a Casa Barrié megcsodálására. A délutáni pedálozás a rejtett Riovao castróhoz és az Oreiro pazóhoz vezet. Az este meghívja Önt, hogy pihenjen a Praia Nova lágy hullámainál.",
         "ro": "Începeți plimbarea printre flora de la Brañas de Sada înainte de a pedala spre așezarea Samoedo. Prânzul este perfect pentru a admira Casa Barrié. După-amiaza, pedalatul vă duce la castrul ascuns Riovao și la Pazo de Oreiro. Seara vă invită să vă relaxați lângă valurile blânde de la Praia Nova.",
         "en": "Start your ride amidst the lively flora of Brañas de Sada before cycling to the ancient Samoedo settlement. Midday is perfect for admiring the grandeur of Casa Barrié. Afternoon pedaling leads you to the hidden Riovao castro and the historic Pazo de Oreiro. Evening invites you to relax by the gentle waves of Praia Nova."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Sada im Regen erfordert Vorsicht auf den Küstenwegen. Starten Sie bei den Brañas de Sada, wo der Boden weich sein kann. Mittags bieten die historischen Castros interessante Stopps, doch die Abfahrten sind bei Nässe rutschig. Am Nachmittag radeln Sie zum Pazo de Oreiro und beenden den Tag entspannt an der Praia Nova, während Sie den Regen über dem Meer beobachten.",
+            "hu": "Az esőben tett kerékpározás Sada part menti útjain óvatosságot igényel. Kezdjen a Brañas de Sada területén, ahol a talaj sáros lehet. Délben a történelmi castrók érdekes megállókat kínálnak, de a lejtőkön vigyázzon a csúszós útburkolattal. Délután tekerjen el az Oreiro palotához, majd zárja a napot a Praia Novánál, figyelve a tenger feletti esőfüggönyt.",
+            "ro": "O plimbare cu bicicleta prin Sada pe ploaie necesită prudență pe drumurile de coastă. Începeți la Brañas de Sada, unde terenul poate fi moale. La prânz, castrele istorice oferă opriri interesante, dar coborârile sunt alunecoase pe ud. După-amiază, pedalați spre Pazo de Oreiro și încheiați ziua relaxat la Praia Nova, admirând ploaia deasupra mării.",
+            "en": "Cycling through Sada in the rain requires caution on the coastal paths. Start at Brañas de Sada, where the ground can be soft. At noon, the historic castros offer interesting stops, but be careful on slippery descents. In the afternoon, cycle to Pazo de Oreiro and end your day relaxed at Praia Nova while watching the rain fall over the ocean."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "ENIL Brañas de Sada",
+                "hu": "ENIL Brañas de Sada",
+                "ro": "ENIL Brañas de Sada",
+                "en": "ENIL Brañas de Sada"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können bei Regen matschig sein; nutzen Sie Schutzbleche an Ihrem Fahrrad, um sich vor Spritzwasser und Schlamm aus den Feuchtgebieten zu schützen.",
+                "hu": "Az ösvények esőben sárosak lehetnek; használjon sárvédőt a kerékpárján, hogy megvédje magát a felverődő víztől és a mocsaras terület sarával szemben.",
+                "ro": "Potecile pot fi noroioase pe ploaie; folosiți aripi la bicicletă pentru a vă proteja de stropii de apă și noroiul din zonele umede ale rezervației.",
+                "en": "The paths can be muddy in the rain; use mudguards on your bike to protect yourself from water splashes and mud from the wetland areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Samoedo",
+                "hu": "Castro de Samoedo",
+                "ro": "Castro de Samoedo",
+                "en": "Castro de Samoedo"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Castro ist bei Regen anstrengend und rutschig; prüfen Sie vor der Abfahrt unbedingt Ihre Bremsen auf ihre Wirksamkeit bei Nässe.",
+                "hu": "A castróhoz vezető emelkedő esőben fárasztó és csúszós; leereszkedés előtt feltétlenül ellenőrizze a fékek hatékonyságát a vizes úton.",
+                "ro": "Urcarea spre castru este obositoare și alunecoasă pe ploaie; înainte de coborâre, verificați neapărat eficiența frânelor pe carosabilul umed.",
+                "en": "The climb to the castro is tiring and slippery in the rain; be sure to check your brakes for effectiveness on wet roads before starting the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Barrié de la Maza",
+                "hu": "Casa Barrié de la Maza",
+                "ro": "Casa Barrié de la Maza",
+                "en": "Casa Barrié de la Maza"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach des Gebäudes für eine kurze Regenpause; wasserdichte Handschuhe halten Ihre Hände beim Radfahren warm und griffig am Lenker.",
+                "hu": "Használja az épület előtetőjét egy rövid pihenőre az esőben; a vízálló kesztyűk melegen tartják a kezét tekerés közben, és biztos fogást adnak.",
+                "ro": "Folosiți streașina clădirii pentru o scurtă pauză de ploaie; mănușile impermeabile vă vor menține mâinile calde și vor asigura o aderență bună pe ghidon.",
+                "en": "Use the building's overhang for a short rain break; waterproof gloves will keep your hands warm while cycling and ensure a steady grip on the bars."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Riovao",
+                "hu": "Castro de Riovao",
+                "ro": "Castro de Riovao",
+                "en": "Castro de Riovao"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefe Löcher verbergen könnten; tragen Sie eine helle Regenjacke mit Reflektoren, um bei schlechter Sicht besser gesehen zu werden.",
+                "hu": "Ügyeljen a pocsolyákra, amelyek mély kátyúkat rejthetnek; viseljen fényvisszaverős esőkabátot, hogy a rossz látási viszonyok között is észrevehető maradjon.",
+                "ro": "Atenție la bălțile care ar putea ascunde gropi adânci; purtați o pelerină reflectorizantă pentru a fi mai vizibil în condiții de vizibilitate redusă.",
+                "en": "Watch out for puddles that might hide deep potholes; wear a bright raincoat with reflectors to be more visible during poor weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo de Oreiro",
+                "hu": "Pazo de Oreiro",
+                "ro": "Pazo de Oreiro",
+                "en": "Pazo de Oreiro"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um das Pazo kann sehr weich sein; parken Sie Ihr Rad auf festem Grund und achten Sie beim Gehen auf den glatten Steinplatten auf festen Stand.",
+                "hu": "A palota környékén a talaj nagyon felázhat; parkolja le kerékpárját szilárd talajon, és vigyázzon a sima kőlapokon való gyalogláskor.",
+                "ro": "Terenul din jurul palatului poate fi foarte moale; parcați bicicleta pe un teren solid și aveți grijă la mersul pe plăcile de piatră lustruite.",
+                "en": "The ground around the pazo can be very soft; park your bike on solid ground and watch your step on the smooth stone slabs when walking around."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Nova",
+                "hu": "Praia Nova",
+                "ro": "Praia Nova",
+                "en": "Praia Nova"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour an der Promenade; eine heiße Dusche oder ein trockenes Handtuch sind nach dieser nassen Fahrt jetzt genau das Richtige.",
+                "hu": "Zárja a túrát a sétányon; egy forró zuhany vagy egy száraz törölköző lesz a legjobb befejezés ez után a vizes és kalandos tekerés után.",
+                "ro": "Încheiați turul pe faleză; un duș fierbinte sau un prosop uscat sunt exact ce aveți nevoie după această plimbare umedă prin oraș.",
+                "en": "Finish your tour at the promenade; a hot shower or a dry towel is exactly what you need now after this wet and adventurous ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die klaren Wintertage für eine Radtour rund um Sada. Starten Sie morgens in den Brañas, wenn der Frost die Landschaft verzaubert. Mittags erkunden Sie die Castros in der wärmenden Wintersonne. Planen Sie Ihre Route so, dass Sie vor dem frühen Sonnenuntergang um 17:00 Uhr wieder im Zentrum sind. Die kühle Luft macht die Anstiege zu den historischen Stätten angenehm erfrischend.",
+            "hu": "Használja ki a tiszta téli napokat egy kerékpártúrára Sada körül. Kezdjen reggel a Brañas területén, amikor a zúzmara varázslatossá teszi a tájat. Délben fedezze fel a castrókat a melengető téli napsütésben. Úgy tervezze az útvonalat, hogy a korai, 17:00-ás naplemente előtt visszaérjen a központba. A hűvös levegő felfrissíti majd a történelmi dombokra való felkapaszkodás közben.",
+            "ro": "Profitați de zilele senine de iarnă pentru o plimbare cu bicicleta în jurul orașului Sada. Începeți dimineața în Brañas, când chiciura face peisajul magic. La prânz, explorați castrele sub soarele blând de iarnă. Planificați ruta astfel încât să reveniți în centru înainte de apusul devreme de la ora 17:00. Aerul rece face urcările spre siturile istorice plăcute și revigorante.",
+            "en": "Take advantage of the clear winter days for a bike tour around Sada. Start in the morning at the Brañas when frost makes the landscape magical. At noon, explore the castros in the warming winter sun. Plan your route to be back in the center before the early sunset at 17:00. The cool air makes the climbs to the historical sites pleasantly refreshing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "ENIL Brañas de Sada",
+                "hu": "ENIL Brañas de Sada",
+                "ro": "ENIL Brañas de Sada",
+                "en": "ENIL Brañas de Sada"
+              },
+              "tip_5lang": {
+                "de": "Morgens kann es auf den Holzwegen reifglatt sein; fahren Sie vorsichtig und tragen Sie mehrere Schichten Kleidung gegen den kalten Fahrtwind.",
+                "hu": "Reggelente a fapadlók zúzmarásak és csúszósak lehetnek; tekerjen óvatosan, és viseljen több réteg ruhát a hideg menetszél ellen.",
+                "ro": "Dimineața, podinele de lemn pot fi înghețate și alunecoase; pedalați cu atenție și purtați mai multe straturi de haine împotriva vântului rece.",
+                "en": "In the morning, the wooden paths can be frosty and slippery; cycle carefully and wear multiple layers of clothing against the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Samoedo",
+                "hu": "Castro de Samoedo",
+                "ro": "Castro de Samoedo",
+                "en": "Castro de Samoedo"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, doch für die Abfahrt sollten Sie eine winddichte Jacke anziehen, um nicht durch den kalten Winterwind auszukühlen.",
+                "hu": "Az emelkedő melegen tartja, de a lejtmenethez vegyen fel szélálló kabátot, hogy ne fázzon meg a metsző téli szélben a dombról lefelé.",
+                "ro": "Urcarea vă va ține de cald, dar pentru coborâre puneți o jachetă rezistentă la vânt ca să nu răciți din cauza vântului tăios de iarnă.",
+                "en": "The climb will keep you warm, but for the descent, put on a windproof jacket to avoid getting chilled by the sharp winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Barrié de la Maza",
+                "hu": "Casa Barrié de la Maza",
+                "ro": "Casa Barrié de la Maza",
+                "en": "Casa Barrié de la Maza"
+              },
+              "tip_5lang": {
+                "de": "Ein sonniger Platz an der Hauswand bietet Schutz vor dem Wind; ideal für eine kurze Trinkpause aus der Thermoskanne mit warmem Tee.",
+                "hu": "Egy napos hely a ház fala mentén védelmet nyújt a szél ellen; ideális egy rövid teapauzához a meleg teával teli termoszból.",
+                "ro": "Un loc însorit lângă peretele clădirii oferă protecție contra vântului; ideal pentru o scurtă pauză cu ceai cald din termos.",
+                "en": "A sunny spot by the house wall provides shelter from the wind; ideal for a short break with some warm tea from your thermos."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Riovao",
+                "hu": "Castro de Riovao",
+                "ro": "Castro de Riovao",
+                "en": "Castro de Riovao"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Licht für Fotos der Ausgrabungen; achten Sie darauf, dass Ihre Fahrradlampe für den Rückweg bei früher Dämmerung funktioniert.",
+                "hu": "Élvezze a tiszta fényeket a régészeti fotókhoz; ügyeljen rá, hogy a kerékpárlámpa működjön, mert a szürkület télen már korán beköszönt.",
+                "ro": "Bucurați-vă de lumina clară pentru fotografii ale sitului; asigurați-vă că farul bicicletei funcționează pentru drumul de întoarcere pe amurg.",
+                "en": "Enjoy the clear light for photos of the excavations; make sure your bike light is working for the return trip in the early winter dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo de Oreiro",
+                "hu": "Pazo de Oreiro",
+                "ro": "Pazo de Oreiro",
+                "en": "Pazo de Oreiro"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie den Garten am frühen Nachmittag, solange die Sonne noch wärmt; Handschuhe sind beim Schalten und Bremsen im Winter ein Muss.",
+                "hu": "Kora délután nézze meg a kertet, amíg még süt a nap; a kesztyű télen elengedhetetlen a váltáshoz és a fékezéshez a hideg kormányon.",
+                "ro": "Vizitați grădina devreme după-amiaza cât încă mai este soare; mănușile sunt obligatorii iarna pentru a putea schimba vitezele și frâna.",
+                "en": "Visit the garden in the early afternoon while the sun is still out; gloves are a must in winter for shifting gears and braking safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Nova",
+                "hu": "Praia Nova",
+                "ro": "Praia Nova",
+                "en": "Praia Nova"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt rechtzeitig vor 17 Uhr; der Blick auf die beleuchtete Promenade ist ein schöner Abschluss für diese sportliche Wintertour.",
+                "hu": "Fejezze be a túrát időben, 17 óra előtt; a kivilágított sétány látványa remek lezárása ennek a sportos és frissítő téli tekerésnek.",
+                "ro": "Încheiați plimbarea la timp, înainte de ora 17; vederea falezei iluminate este un final frumos pentru acest tur sportiv de iarnă.",
+                "en": "Finish your ride well before 5 PM; the view of the illuminated promenade is a great ending to this active and brisk winter tour."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje egy kávéval a lenyűgöző A Terraza pavilon közelében, mielőtt a csendes Riovao terület felé venné az irányt. A dél a Meirás régióra összpontosít, a híres palotás pazo köré. A délután szomszédos történelmi köveken és vidéki birtokokon ível át. Fejezze be egy festői utazással a magasan fekvő Castro do Castelóhoz.",
         "ro": "Începeți cu o cafea lângă impresionantul pavilion A Terraza înainte de a conduce spre situl liniștit Riovao. Prânzul se concentrează pe regiunea dramatică Meirás, în jurul celebrului pazo palatial. După-amiaza străbate pietre istorice vecine și moșii rurale grandioase. Încheiați cu o conducere scenică spre Castro do Castelo.",
         "en": "Kick off with coffee near the stunning A Terraza pavilion before driving towards the quiet Riovao site. Midday focuses deeply on the dramatic Meirás region, centered on its famous palatial pazo. Afternoon weaves through neighboring historic stones and grand rural estates. Conclude with a scenic drive down to the elevated Castro do Castelo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Sada und seine Umgebung auch bei Regen bequem. Starten Sie an der A Terraza und genießen Sie die Aussicht aus dem Trockenen. Die Fahrt führt Sie zu den historischen Castros und Pazos von Meirás, wo Sie direkt vor den Sehenswürdigkeiten parken können. Achten Sie auf die eingeschränkte Sicht und die nassen Straßen während der Fahrt durch die Hügel.",
+            "hu": "Autóval Sada és környéke esőben is kényelmesen felfedezhető. Kezdjen az A Terrazánál, élvezve a kilátást a száraz utastérből. Az út a történelmi castrókhoz és Meirás palotáihoz vezet, ahol közvetlenül a látnivalók közelében parkolhat. Vezessen óvatosan a dombok között a korlátozott látási viszonyok és a vizes, néhol csúszós aszfalt miatt.",
+            "ro": "Cu mașina, explorați Sada și împrejurimile confortabil chiar și pe ploaie. Începeți la A Terraza și admirați vederea din interiorul uscat. Traseul vă duce la castrele istorice și palatele din Meirás, unde puteți parca aproape de obiective. Atenție la vizibilitatea redusă și la drumurile umede în timp ce conduceți prin zona de deal.",
+            "en": "By car, you can comfortably explore Sada and its surroundings even in the rain. Start at A Terraza and enjoy the view from the dry interior. The drive takes you to the historic castros and pazos of Meirás, where you can park close to the sights. Watch out for limited visibility and wet roads while driving through the coastal hills."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "A Terraza",
+                "hu": "A Terraza",
+                "ro": "A Terraza",
+                "en": "A Terraza"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Promenade; so kommen Sie fast trocken in das wunderschöne Gebäude und können den Regen bei einem Kaffee beobachten.",
+                "hu": "Parkoljon közvetlenül a sétányon; így szinte szárazon juthat be a gyönyörű épületbe, és egy kávé mellett nézheti az öböl feletti esőt.",
+                "ro": "Parcați direct pe faleză; astfel veți ajunge aproape uscat în clădirea superbă și veți putea privi ploaia la o cafea caldă.",
+                "en": "Park directly on the promenade; this way you can get into the beautiful building almost dry and watch the rain over a cup of coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Riovao",
+                "hu": "Castro de Riovao",
+                "ro": "Castro de Riovao",
+                "en": "Castro de Riovao"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei starkem Regen rutschig sein; schalten Sie das Abblendlicht ein, um auf den schmalen Straßen besser gesehen zu werden.",
+                "hu": "A felvezető út heves esőben csúszós lehet; kapcsolja be a tompított fényszórót, hogy a szűk utakon is jobban észrevehető maradjon.",
+                "ro": "Accesul poate fi alunecos în caz de ploaie torențială; aprindeți faza scurtă pentru a fi mai vizibil pe drumurile înguste din zonă.",
+                "en": "The access road can be slippery during heavy rain; turn on your low beam headlights to be more visible on the narrow local roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo de Meirás",
+                "hu": "Pazo de Meirás",
+                "ro": "Pazo de Meirás",
+                "en": "Pazo de Meirás"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regenschirm für den kurzen Weg vom Parkplatz zum Tor; die historischen Mauern wirken im Regen besonders ehrfurchtgebietend.",
+                "hu": "Használja az esernyőt a parkolótól a kapuig tartó rövid úton; a történelmi falak esőben különösen tiszteletparancsoló és komor látványt nyújtanak.",
+                "ro": "Folosiți umbrela pentru drumul scurt de la parcare la poartă; zidurile istorice par deosebit de impunătoare și sobre în timpul ploii.",
+                "en": "Use an umbrella for the short walk from the parking lot to the gate; the historic walls look particularly imposing and somber in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Meirás",
+                "hu": "Castro de Meirás",
+                "ro": "Castro de Meirás",
+                "en": "Castro de Meirás"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher in den unbefestigten Parkbereichen; bleiben Sie bei starkem Regen im Auto und genießen Sie den Ausblick auf die Küste.",
+                "hu": "Ügyeljen a kátyúkra a ki nem épített parkolókban; heves esőben maradjon az autóban, és onnan csodálja meg a partvonalra nyíló panorámát.",
+                "ro": "Atenție la gropile din zonele de parcare neamenajate; în caz de ploaie puternică, rămâneți în mașină și admirați panorama coastei de acolo.",
+                "en": "Watch out for potholes in the unpaved parking areas; stay in the car during heavy rain and enjoy the panoramic views of the coast from there."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Grande de Meirás",
+                "hu": "Casa Grande de Meirás",
+                "ro": "Casa Grande de Meirás",
+                "en": "Casa Grande de Meirás"
+              },
+              "tip_5lang": {
+                "de": "Die Parkmöglichkeiten sind begrenzt; nutzen Sie die kurzen Regenpausen für Fotos der beeindruckenden Fassade dieses herrschaftlichen Anwesens.",
+                "hu": "A parkolási lehetőségek korlátozottak; használja ki a rövid esőszüneteket, hogy lefotózza ennek az impozáns úri birtoknak a lenyűgöző homlokzatát.",
+                "ro": "Locurile de parcare sunt limitate; profitați de scurtele pauze de ploaie pentru a fotografia fațada impresionantă a acestei proprietăți nobiliare.",
+                "en": "Parking options are limited; take advantage of short breaks in the rain to photograph the impressive facade of this grand manor house."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro do Castelo",
+                "hu": "Castro do Castelo",
+                "ro": "Castro do Castelo",
+                "en": "Castro do Castelo"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen zum Castro sind kurvenreich und bei Nässe glatt; fahren Sie langsam und vorsichtig, um sicher zum Aussichtspunkt zu gelangen.",
+                "hu": "A castróhoz vezető utak kanyargósak és nedvesen csúszósak; vezessen lassan és körültekintően, hogy biztonságban érjen fel a kilátóponthoz.",
+                "ro": "Drumurile spre castru sunt sinuoase și alunecoase pe ud; conduceți încet și cu atenție pentru a ajunge în siguranță la punctul de belvedere.",
+                "en": "The roads to the castro are winding and slippery when wet; drive slowly and carefully to reach the viewpoint safely in these conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Umgebung von Sada bequem mit dem Auto an einem klaren Wintertag. Starten Sie bei der A Terraza und fahren Sie dann zu den historischen Stätten von Meirás. Das Auto bietet einen warmen Rückzugsort zwischen den Besichtigungen der windigen Castros. Da es früh dunkel wird, sollten Sie die Route so planen, dass Sie den Sonnenuntergang gegen 17:00 Uhr an einem Aussichtspunkt genießen.",
+            "hu": "Fedezze fel Sada környékét kényelmesen, autóval egy tiszta téli napon. Kezdjen az A Terrazánál, majd induljon Meirás történelmi helyszínei felé. Az autó meleg menedéket nyújt a szeles castrók és paloták látogatása között. Mivel korán sötétedik, úgy tervezze az útvonalat, hogy a 17:00 körüli naplementét már egy szép kilátópontnál érje el.",
+            "ro": "Explorați împrejurimile orașului Sada confortabil cu mașina într-o zi senină de iarnă. Începeți la A Terraza și apoi mergeți spre siturile istorice din Meirás. Mașina oferă un refugiu cald între vizitele la castrele vântoase. Deoarece se întunecă devreme, planificați ruta astfel încât să prindeți apusul de la ora 17:00 la un punct de belvedere.",
+            "en": "Explore the surroundings of Sada comfortably by car on a clear winter day. Start at A Terraza and then drive towards the historic sites of Meirás. The car provides a warm retreat between visits to the windy castros. Since it gets dark early, plan your route to enjoy the sunset around 17:00 at a scenic viewpoint."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "A Terraza",
+                "hu": "A Terraza",
+                "ro": "A Terraza",
+                "en": "A Terraza"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie die Sitzheizung für die Fahrt ein; der Blick auf die ruhige, winterliche Bucht beim Losfahren ist besonders entspannend.",
+                "hu": "Kapcsolja be az ülésfűtést az induláshoz; a nyugodt, téli öböl látványa a parkolóból indulva különösen pihentető és hangulatos.",
+                "ro": "Porniți încălzirea în scaune pentru drum; vederea golfului liniștit de iarnă la plecare este deosebit de relaxantă și plăcută.",
+                "en": "Turn on the seat heating for the drive; the view of the quiet, winter bay as you start your journey is particularly relaxing and scenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Riovao",
+                "hu": "Castro de Riovao",
+                "ro": "Castro de Riovao",
+                "en": "Castro de Riovao"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und kann blenden; halten Sie Ihre Sonnenbrille griffbereit für die Fahrt auf den Hügelketten rund um Sada.",
+                "hu": "A téli nap alacsonyan jár és elvakíthatja; tartsa kéznél a napszemüvegét a Sada körüli dombokon és gerinceken való vezetés közben.",
+                "ro": "Soarele de iarnă este jos și vă poate orbi; țineți ochelarii de soare la îndemână pentru condusul pe dealurile din jurul orașului Sada.",
+                "en": "The winter sun is low and can be blinding; keep your sunglasses handy for the drive along the ridges and hills around Sada."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo de Meirás",
+                "hu": "Pazo de Meirás",
+                "ro": "Pazo de Meirás",
+                "en": "Pazo de Meirás"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Stopp vor 16 Uhr ein, um das Pazo noch im Tageslicht zu sehen; die kalte Winterluft lässt die Steinfassaden klarer wirken.",
+                "hu": "Tervezze a megállót délután 4 óra elé, hogy még nappali fényben lássa a palotát; a hideg téli levegőben a kőhomlokzatok élesebbnek tűnnek.",
+                "ro": "Planificați oprirea înainte de ora 16 pentru a vedea palatul la lumina zilei; aerul rece de iarnă face ca fațadele de piatră să pară mai clare.",
+                "en": "Plan your stop before 4 PM to see the manor house in daylight; the cold winter air makes the stone facades appear sharper and clearer."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Meirás",
+                "hu": "Castro de Meirás",
+                "ro": "Castro de Meirás",
+                "en": "Castro de Meirás"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie eine tolle Fernsicht; nutzen Sie die Wärme des Autos für eine kurze Aufwärmpause nach dem Rundgang im Wind.",
+                "hu": "A parkolóból kiváló a távoli kilátás; használja az autó melegét egy rövid felmelegedésre a szeles dombtetőn tett körséta után.",
+                "ro": "Din parcare aveți o vizibilitate excelentă la distanță; folosiți căldura mașinii pentru o scurtă încălzire după plimbarea prin vântul de pe deal.",
+                "en": "From the parking lot, you have great distant views; use the warmth of the car for a short break after your walk in the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Grande de Meirás",
+                "hu": "Casa Grande de Meirás",
+                "ro": "Casa Grande de Meirás",
+                "en": "Casa Grande de Meirás"
+              },
+              "tip_5lang": {
+                "de": "In der frühen Dämmerung wirkt das Anwesen sehr mystisch; achten Sie beim Parken auf den schmalen Zufahrten auf entgegenkommende Fahrzeuge.",
+                "hu": "A korai szürkületben a birtok rendkívül misztikusnak tűnik; parkoláskor ügyeljen a szűk bevezetőkön az esetlegesen szembejövő járművekre.",
+                "ro": "În amurgul devreme, proprietatea pare foarte mistică; atenție la vehiculele care vin din sens opus când parcați pe drumurile de acces înguste.",
+                "en": "In the early dusk, the estate looks very mystical; watch out for oncoming vehicles when parking on the narrow access roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro do Castelo",
+                "hu": "Castro do Castelo",
+                "ro": "Castro do Castelo",
+                "en": "Castro do Castelo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang um 17 Uhr direkt vom Auto aus; die Heizung sorgt für Komfort, während der Himmel sich verfärbt.",
+                "hu": "Élvezze az 5 órai naplementét közvetlenül az autóból; a fűtés biztosítja a kényelmet, miközben az égbolt látványos színekben játszik.",
+                "ro": "Bucurați-vă de apusul de la ora 17 direct din mașină; încălzirea vă va oferi confort în timp ce cerul capătă culori spectaculoase.",
+                "en": "Enjoy the 5 PM sunset directly from your car; the heater ensures comfort while you watch the sky change into spectacular winter colors."
+              }
+            }
+          ]
+        }
       }
     }
   }

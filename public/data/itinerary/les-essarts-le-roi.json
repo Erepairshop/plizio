@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Les Essarts-le-Roi központjában, megcsodálva a városházát és a főtemplomot. Délben csendes lakóutcákon át sétál a déli peremvidék felé a helyi történelemért. Délután kelet felé indul, hogy felfedezzen egy békés tájon megbúvó rejtett kápolnát. Az este csendes elmélkedéssel zárul az Yvette perjelség közelében, ami kellemes lezárása a gyalogos túrának.",
         "ro": "Începeți dimineața în centrul localității Les Essarts-le-Roi, admirând centrul civic și biserica principală. La prânz, mergeți pe străzile liniștite spre periferia sudică pentru puțină istorie locală. După-amiaza, vă veți aventura spre est pentru a descoperi capele ascunse în peisaje senine. Seara se încheie cu o reflecție liniștită în apropierea prioratului Yvette.",
         "en": "Begin your morning in the heart of Les Essarts-le-Roi, admiring the civic center before a peaceful stop at the main church. Midday leads you through quiet residential streets towards the southern outskirts for a touch of local history. In the afternoon, you'll venture eastward to discover hidden chapels nestled in serene landscapes. The evening concludes with quiet reflection near the Yvette priory."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen am Rathaus mit einem guten Regenschirm. Mittags bieten die historischen Kirchen perfekten Schutz vor starken Schauern. Nachmittags spazieren Sie vorsichtig über die nassen Wege zwischen den Kapellen. Wenn der Abend hereinbricht, spiegeln die regnerischen Straßen das Licht wider; tragen Sie wasserdichte Schuhe.",
+            "hu": "Kezdje a reggelt a városházánál egy masszív esernyővel a kézben. Délben a történelmi templomok tökéletes menedéket nyújtanak a záporok elől. Délután óvatosan sétáljon a nedves ösvényeken a kápolnák között. Estére a vizes macskakövek csúszóssá válhatnak, így a vízálló cipő elengedhetetlen a kényelmes felfedezéshez.",
+            "ro": "Începeți dimineața la primărie cu o umbrelă rezistentă. La prânz, bisericile istorice oferă un adăpost perfect împotriva ploii. După-amiaza, plimbați-vă cu grijă pe cărările umede dintre capele. Pe măsură ce se lasă seara, străzile ploioase devin alunecoase, așa că purtați încălțăminte impermeabilă adecvată.",
+            "en": "Start your morning at the town hall with a sturdy umbrella. By midday, the historic churches provide perfect shelter from heavy showers. In the afternoon, navigate the wet paths between local chapels carefully. As evening falls, the rainy streets of Les Essarts-le-Roi turn reflective and slick, so wear waterproof boots."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Les Essarts-le-Roi",
+                "hu": "Rathaus von Les Essarts-le-Roi",
+                "ro": "Rathaus von Les Essarts-le-Roi",
+                "en": "Rathaus von Les Essarts-le-Roi"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur vom überdachten Eingang aus; halten Sie Ihren Regenschirm für den nassen Platz bereit.",
+                "hu": "Csodálja meg az építészetet a fedett bejárat alól; tartsa kéznél az esernyőjét a vizes téren.",
+                "ro": "Admirați arhitectura de la intrarea acoperită; țineți umbrela la îndemână pentru piațeta umedă.",
+                "en": "Admire the architecture from the covered entrance; keep your umbrella handy for the wet square."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "hu": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "ro": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "en": "Kirche Saint-Corneille-et-Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das Kirchenschiff ein, um dem Regen zu entkommen und die schönen Buntglasfenster im Trockenen zu betrachten.",
+                "hu": "Lépjen be a hajóba, hogy menedéket találjon az eső elől, és szárazon csodálja meg az ólomüveg ablakokat.",
+                "ro": "Pășiți în navă pentru a scăpa de ploaie și a admira vitraliile într-un mediu uscat și liniștit.",
+                "en": "Step inside the nave to escape the rain and admire the beautiful stained glass windows in a dry setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-André",
+                "hu": "Église Saint-André",
+                "ro": "Église Saint-André",
+                "en": "Église Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig auf den nassen Pfaden, die zu dieser ruhigen Kirche führen, wo Sie sich aufwärmen können.",
+                "hu": "Sétáljon óvatosan a csendes templomhoz vezető nedves ösvényeken, ahol végre megszáradhat.",
+                "ro": "Mergeți cu grijă pe cărările umede care duc spre această biserică liniștită, un loc bun pentru a vă usca.",
+                "en": "Walk carefully on the wet paths leading to this quiet church, which offers a great spot to dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-des-Layes",
+                "hu": "Chapelle Notre-Dame-des-Layes",
+                "ro": "Chapelle Notre-Dame-des-Layes",
+                "en": "Chapelle Notre-Dame-des-Layes"
+              },
+              "tip_5lang": {
+                "de": "Die umliegenden Bäume tropfen stark; nutzen Sie das Vordach der Kapelle als vorübergehenden Unterstand.",
+                "hu": "A környező fákról csepeg az eső; használja a kápolna tornácát átmeneti menedékként a záporban.",
+                "ro": "Copacii din jur picură abundent; folosiți pridvorul capelei ca adăpost temporar în timpul averselor.",
+                "en": "The surrounding trees drip heavily with rain; use the chapel porch for temporary shelter during showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Prieuré de l'Yvette",
+                "hu": "Chapelle du Prieuré de l'Yvette",
+                "ro": "Chapelle du Prieuré de l'Yvette",
+                "en": "Chapelle du Prieuré de l'Yvette"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang in der Kapelle und lauschen Sie dem beruhigenden Regen auf dem alten Dach.",
+                "hu": "Zárja sétáját a kápolnában, és hallgassa a régi tetőn doboló eső megnyugtató hangját.",
+                "ro": "Încheiați-vă plimbarea explorând interiorul capelei în timp ce ascultați ploaia pe acoperișul vechi.",
+                "en": "End your walk exploring the chapel's interior while listening to the soothing rain on the old roof."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klare Morgenluft erwartet Sie am Rathaus. Mittags wärmen Sie sich in der Hauptkirche auf. Die Nachmittagsschatten werden an den örtlichen Kapellen schnell länger. Planen Sie Ihren Spaziergang so, dass Sie vor dem frühen Sonnenuntergang gegen 17:00 Uhr fertig sind; ziehen Sie sich warm an.",
+            "hu": "Csípős reggeli levegő fogadja a városházánál. Délben a főtemplomban melegedhet fel egy kicsit. A délutáni árnyékok hamar megnyúlnak a helyi kápolnáknál. Úgy tervezze a sétát, hogy a korai, 17:00 óra körüli naplemente előtt végezzen; öltözzön meleg, réteges ruházatba.",
+            "ro": "Un aer dimineață proaspăt vă așteaptă la primărie. La prânz, încălziți-vă în biserica principală. Umbrele după-amiezii devin lungi lângă capelele locale. Planificați-vă plimbarea astfel încât să terminați înainte de apusul de la ora 17:00; purtați straturi groase.",
+            "en": "Crisp morning air greets you at the town hall. Noon brings you to the main church to warm up. Afternoon shadows grow long near the local chapels. Plan your walk to finish before the early 17:00 sunset, dressing in warm layers for the increasingly chilly evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Les Essarts-le-Roi",
+                "hu": "Rathaus von Les Essarts-le-Roi",
+                "ro": "Rathaus von Les Essarts-le-Roi",
+                "en": "Rathaus von Les Essarts-le-Roi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Morgenfassade; tragen Sie dicke Handschuhe, da der Platz ziemlich windig ist.",
+                "hu": "Élvezze a friss reggeli homlokzat látványát; viseljen vastag kesztyűt, mert a tér meglehetősen szeles.",
+                "ro": "Bucurați-vă de fațada dimineții geroase; purtați mănuși groase, deoarece piațeta este destul de vântoasă.",
+                "en": "Enjoy the crisp morning facade; wear thick gloves as the open square can get quite windy and cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "hu": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "ro": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "en": "Kirche Saint-Corneille-et-Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Winterkälte, aber es ist ein friedlicher Ort vor dem Sonnenuntergang.",
+                "hu": "A vastag kőfalak tartják a téli hideget, de rendkívül békés hely a kora esti naplemente előtt.",
+                "ro": "Pereții groși de piatră mențin frigul iernii, dar este un loc liniștit înainte de lăsarea întunericului.",
+                "en": "The thick stone walls hold a winter chill, but it's a wonderfully peaceful spot before the sun sets."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-André",
+                "hu": "Église Saint-André",
+                "ro": "Église Saint-André",
+                "en": "Église Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang hält Sie warm, bevor Sie das ruhige, historische Innere in der Kälte erkunden.",
+                "hu": "Egy tempós séta melegen tartja, mielőtt felfedezné a csendes, történelmi belső teret a hidegben.",
+                "ro": "O plimbare alertă vă menține cald înainte de a explora interiorul liniștit și istoric în frig.",
+                "en": "A brisk walk keeps you warm before exploring the quiet, historical interior in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-des-Layes",
+                "hu": "Chapelle Notre-Dame-des-Layes",
+                "ro": "Chapelle Notre-Dame-des-Layes",
+                "en": "Chapelle Notre-Dame-des-Layes"
+              },
+              "tip_5lang": {
+                "de": "Umgeben von kahlen Winterbäumen bietet die Kapelle einen markanten, aber kalten Nachmittagsanblick.",
+                "hu": "A kopasz téli fákkal körülvett kápolna lenyűgöző, bár meglehetősen hűvös délutáni látványt nyújt.",
+                "ro": "Înconjurată de copaci goi de iarnă, capela oferă o priveliște de după-amiază izbitoare, dar rece.",
+                "en": "Surrounded by bare winter trees, the chapel offers a stark, beautiful afternoon sight in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Prieuré de l'Yvette",
+                "hu": "Chapelle du Prieuré de l'Yvette",
+                "ro": "Chapelle du Prieuré de l'Yvette",
+                "en": "Chapelle du Prieuré de l'Yvette"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor der Dämmerung um 17:00 Uhr an, um das friedliche Gelände im Winterlicht zu schätzen.",
+                "hu": "Érkezzen a 17:00 órás szürkület előtt, hogy teljes mértékben értékelni tudja a békés területet a téli fényekben.",
+                "ro": "Ajungeți înainte de amurgul de la ora 17:00 pentru a aprecia pe deplin terenurile liniștite în lumina iernii.",
+                "en": "Arrive before the 17:00 twilight to fully appreciate the peaceful grounds in the fading winter light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpártúrát a városházánál, majd gyorsan tekerjen a közeli templomhoz a reggeli nyugalomért. Dél körül pedálozzon északra az ősi Hautes-Bruyères perjelséghez. A délután egy festői körútra visz az Yvette és a Layes kápolnák mellett, élvezve a csendet. A kora esti órákban fejezze be túráját a történelmi Église Saint-André-nél, mielőtt hazatérne pihenni.",
         "ro": "Începeți călătoria cu bicicleta la primărie, trecând rapid la biserica din apropiere pentru a vă bucura de liniștea dimineții. La prânz, pedalați spre nord până la vechiul priorat Hautes-Bruyères. După-amiaza vă duce într-o buclă pitorească pe lângă capelele Yvette și Layes. Terminați plimbarea la începutul serii la istorica Église Saint-André înainte de a pleca acasă.",
         "en": "Start your cycling journey at the town hall, swiftly moving to the nearby church to soak in the morning tranquility. By midday, pedal northwards to the ancient Hautes-Bruyères priory, enjoying the fresh breeze and open roads. The afternoon takes you on a scenic loop past the Yvette and Layes chapels. Finish your ride in the early evening at the historic Église Saint-André before heading home."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit guter Regenkleidung. Mittags ist am historischen Priorat Vorsicht auf nassem Laub geboten. Nachmittags bietet die Fahrt zwischen den Kapellen stimmungsvolle Ausblicke. Stellen Sie sicher, dass Ihre Fahrradlichter funktionieren, da die Sicht im Regen stark abnimmt.",
+            "hu": "Kezdje az utat megfelelő esőruházatban. Délben a történelmi perjelségnél óvatosan tekerjen a nedves faleveleken. A délutáni kerékpározás a kápolnák között hangulatos látványt nyújt. Ellenőrizze a kerékpárlámpákat, mert az esőben jelentősen romlik a látási viszony.",
+            "ro": "Începeți traseul cu echipament bun de ploaie. La prânz, fiți atenți la frunzele ude lângă stăreția istorică. Ciclismul de după-amiază între capele oferă priveliști melancolice. Asigurați-vă că luminile bicicletei funcționează, deoarece vizibilitatea scade în ploaie.",
+            "en": "Start the ride equipped with solid rain gear. Midday cycling near the historic priory demands caution on wet leaves. Afternoon pedaling between chapels offers moody views. Ensure your bike lights work perfectly as visibility drops significantly in the heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Les Essarts-le-Roi",
+                "hu": "Rathaus von Les Essarts-le-Roi",
+                "ro": "Rathaus von Les Essarts-le-Roi",
+                "en": "Rathaus von Les Essarts-le-Roi"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie Ihre Bremsen bei Nässe, bevor Sie den regnerischen Rathausplatz verlassen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a nedves úton, mielőtt elhagyja az esős városháza teret.",
+                "ro": "Verificați frânele pe teren umed înainte de a părăsi piața ploioasă a primăriei.",
+                "en": "Double-check your brakes in the wet conditions before departing the rainy civic square."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "hu": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "ro": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "en": "Kirche Saint-Corneille-et-Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter den Bäumen und treten Sie ein, um sich vom Nieselregen abzutrocknen.",
+                "hu": "Parkolja le a kerékpárt a fák alá, és lépjen be a templomba, hogy megszáradjon a szitáló esőből.",
+                "ro": "Parcați bicicleta sub copaci și intrați pentru a vă usca de burniță.",
+                "en": "Park your bike under the shelter of trees and step inside to dry off from the persistent drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Prieuré des Hautes-Bruyères (ancien)",
+                "hu": "Prieuré des Hautes-Bruyères (ancien)",
+                "ro": "Prieuré des Hautes-Bruyères (ancien)",
+                "en": "Prieuré des Hautes-Bruyères (ancien)"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Ruinen wirken im Regen dramatisch; achten Sie auf sehr schlammige Wege auf dem Weg dorthin.",
+                "hu": "Az ősi romok drámaiak az esőben; vigyázzon a nagyon sáros kerékpárutakra a megközelítéskor.",
+                "ro": "Ruinele antice arată dramatic în ploaie; aveți grijă la traseele noroioase de pe drum.",
+                "en": "The ancient ruins look dramatic in the rain; watch out for very muddy cycle trails on the approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Prieuré de l'Yvette",
+                "hu": "Chapelle du Prieuré de l'Yvette",
+                "ro": "Chapelle du Prieuré de l'Yvette",
+                "en": "Chapelle du Prieuré de l'Yvette"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in der Kapelle Zuflucht und lassen Sie die schwersten Regenschauer vorüberziehen.",
+                "hu": "Keressen menedéket a kápolnában, és várja meg, amíg a leghevesebb záporok elvonulnak.",
+                "ro": "Căutați adăpost în capelă și lăsați ploile grele să treacă.",
+                "en": "Seek shelter inside the historic chapel and let the heaviest rain showers safely pass over."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-des-Layes",
+                "hu": "Chapelle Notre-Dame-des-Layes",
+                "ro": "Chapelle Notre-Dame-des-Layes",
+                "en": "Chapelle Notre-Dame-des-Layes"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem, nassem Laub auf dem Radweg, der sich dieser kleinen Kapelle nähert.",
+                "hu": "Legyen nagyon óvatos a kápolnához vezető kerékpárúton lévő csúszós, nedves falevelek miatt.",
+                "ro": "Atenție la frunzele ude și alunecoase de pe pista de biciclete care se apropie de această capelă.",
+                "en": "Be extremely cautious of slippery, wet leaves on the cycle path approaching this small chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-André",
+                "hu": "Église Saint-André",
+                "ro": "Église Saint-André",
+                "en": "Église Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Fahrt hier; die robuste Kirche bietet eine letzte Zuflucht vor dem Regen.",
+                "hu": "Zárja le vizes útját itt; a masszív templom egy utolsó, száraz menedéket nyújt az eső elől.",
+                "ro": "Încheiați-vă plimbarea umedă aici; biserica robustă oferă un ultim refugiu împotriva ploii.",
+                "en": "Conclude your wet ride here; the sturdy church offers a final refuge from the steady drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt beginnt am Zentrum. Die Mittagssonne wärmt am antiken Priorat. Nachmittags erfordert die Route Thermohandschuhe. Beenden Sie die Fahrt vor 17:00 Uhr, bevor der Frost einsetzt und die winterliche Dunkelheit auf die Radwege fällt.",
+            "hu": "Frissítő tekerés indul a központból. A déli napfény kissé felmelegít az ősi perjelségnél. A délutáni útvonalhoz thermo kesztyű szükséges. Fejezze be az utat 17:00 óra előtt, mielőtt leszáll a fagy és a téli sötétség a kerékpárutakra.",
+            "ro": "O plimbare revigorantă începe în centru. Soarele de prânz vă încălzește la stăreția antică. Traseul de după-amiază necesită mănuși termice. Terminați plimbarea înainte de 17:00, înainte ca înghețul și întunericul de iarnă să cadă pe piste.",
+            "en": "A refreshing morning ride begins at the civic center. Midday sun briefly warms you at the ancient priory. The afternoon cycle route strongly requires thermal gloves. Finish the ride by 17:00 before the frost settles and winter darkness falls on the paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Les Essarts-le-Roi",
+                "hu": "Rathaus von Les Essarts-le-Roi",
+                "ro": "Rathaus von Les Essarts-le-Roi",
+                "en": "Rathaus von Les Essarts-le-Roi"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Fahrt zügig, um sich aufzuwärmen; die eisige Morgenluft ist hier sehr schneidend.",
+                "hu": "Kezdje az utat tempósan, hogy felmelegedjen; a jeges reggeli levegő itt nagyon metsző lehet.",
+                "ro": "Începeți plimbarea rapid pentru a vă încălzi; aerul înghețat al dimineții este foarte tăios aici.",
+                "en": "Start your ride briskly to warm up; the icy morning air in the open square is extremely sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "hu": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "ro": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "en": "Kirche Saint-Corneille-et-Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um das frostige Dach zu bewundern, bevor Sie Ihre kühle Radtour fortsetzen.",
+                "hu": "Rövid megálló a fagyos tetőzet megcsodálására, mielőtt folytatná a csípős kerékpártúrát.",
+                "ro": "O scurtă oprire pentru a admira acoperișul înghețat înainte de a continua plimbarea rece.",
+                "en": "A quick stop to admire the beautifully frosted roof before continuing your chilly cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Prieuré des Hautes-Bruyères (ancien)",
+                "hu": "Prieuré des Hautes-Bruyères (ancien)",
+                "ro": "Prieuré des Hautes-Bruyères (ancien)",
+                "en": "Prieuré des Hautes-Bruyères (ancien)"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Steine sind wunderschön vereist; Thermoschichten sind hier unerlässlich.",
+                "hu": "A történelmi kövek gyönyörűen zúzmarásak; a thermo rétegek viselése itt elengedhetetlen.",
+                "ro": "Pietrele istorice sunt frumos înghețate; straturile termice sunt esențiale aici.",
+                "en": "The historical stones are beautifully frosted; wearing thermal layers is absolutely essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Prieuré de l'Yvette",
+                "hu": "Chapelle du Prieuré de l'Yvette",
+                "ro": "Chapelle du Prieuré de l'Yvette",
+                "en": "Chapelle du Prieuré de l'Yvette"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft lange Schatten; bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "A téli nap hosszú árnyékokat vet a kápolnára; maradjon mozgásban, hogy melegen tartsa magát.",
+                "ro": "Soarele de iarnă aruncă umbre lungi; continuați să vă mișcați pentru a rămâne la căldură.",
+                "en": "The low winter sun casts long shadows over the chapel; keep moving to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-des-Layes",
+                "hu": "Chapelle Notre-Dame-des-Layes",
+                "ro": "Chapelle Notre-Dame-des-Layes",
+                "en": "Chapelle Notre-Dame-des-Layes"
+              },
+              "tip_5lang": {
+                "de": "Die kahle Winterlandschaft um diese Kapelle ist markant, aber auf dem Fahrrad sehr kalt.",
+                "hu": "A kápolna körüli kopár téli táj lenyűgöző, de kerékpáron a nyílt terep miatt nagyon hideg.",
+                "ro": "Peisajul dezolant de iarnă din jurul acestei capele este izbitor, dar foarte rece pe bicicletă.",
+                "en": "The desolate winter landscape around this chapel is striking but leaves you exposed to the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-André",
+                "hu": "Église Saint-André",
+                "ro": "Église Saint-André",
+                "en": "Église Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie an, wenn die Sonne untergeht; schalten Sie Ihre Lichter für die dunkle Rückfahrt ein.",
+                "hu": "Érkezzen naplementekor; feltétlenül kapcsolja fel a lámpákat a sötét, hideg visszaútra.",
+                "ro": "Ajungeți chiar la apusul soarelui; asigurați-vă că aprindeți luminile pentru întoarcerea întunecată.",
+                "en": "Arrive just as the sun sets; make sure your bike lights are turned on for the dark return journey."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje az autós túrát a központi városházánál és a lenyűgöző Saint-Corneille templomnál. A déli kaland egy rövid északi utazást foglal magában a lenyűgöző perjelség és a hatalmas Rambouillet erdő felfedezésére. Délután autózzon délre a bájos kápolna és a kiterjedt Yveline park meglátogatásához. Az utazás a gyönyörű Saint-André templomnál ér nyugodt véget.",
         "ro": "Începeți turul cu mașina la primăria centrală și la biserica impresionantă Saint-Corneille. Aventura de la prânz implică o plimbare scurtă spre nord pentru a explora prioratul și vasta pădure Rambouillet. După-amiaza, conduceți spre sud pentru a descoperi capela fermecătoare și parcul întins Yveline. Excursia se încheie la frumoasa biserică Saint-André.",
         "en": "Kick off your driving tour at the central town hall and the striking Saint-Corneille church. Your midday adventure involves a quick drive north to explore the fascinating historical priory and the vast Rambouillet forest. In the afternoon, cruise south to discover the charming priory chapel and the expansive Yveline park. Your road trip winds down at the beautiful Saint-André church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Autofahrt beginnt am Rathaus. Mittags achten Sie auf nasse Waldwege in Rambouillet. Die Nachmittagsfahrt zwischen den Kapellen ist aus dem Auto heraus komfortabel. Schalten Sie abends die Scheinwerfer ein, da die lokalen Straßen bei Regen schwer einsehbar sind.",
+            "hu": "Kényelmes reggeli autózás indul a városházától. Délben ügyeljen a mély tócsákra a Rambouillet erdei utakon. A délutáni autózás a kápolnák között meleg és kényelmes. Este mindenképp használja a fényszórókat, mert a vidéki utak nagyon sötétek az esőben.",
+            "ro": "O plimbare confortabilă cu mașina începe la primărie. La prânz, atenție la drumurile forestiere umede din Rambouillet. Condusul de după-amiază este confortabil. Folosiți farurile seara, deoarece drumurile locale sunt greu de văzut în ploaie.",
+            "en": "A comfortable morning drive begins at the town hall. By midday, watch for wet forest roads and deep puddles in Rambouillet. The afternoon drive between rural chapels is cozy from the car. Use your headlights in the evening, as local roads get very dark in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Les Essarts-le-Roi",
+                "hu": "Rathaus von Les Essarts-le-Roi",
+                "ro": "Rathaus von Les Essarts-le-Roi",
+                "en": "Rathaus von Les Essarts-le-Roi"
+              },
+              "tip_5lang": {
+                "de": "Spurten Sie vom Parkplatz mit einem Regenschirm, um das städtische Gebäude zu bewundern.",
+                "hu": "Szaladjon át a parkolóból egy esernyővel, hogy szárazon csodálhassa meg a városi épületet.",
+                "ro": "Alergați din parcare cu o umbrelă pentru a admira clădirea civică.",
+                "en": "Make a quick dash from the parking spot with an umbrella to admire the civic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "hu": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "ro": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "en": "Kirche Saint-Corneille-et-Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das nahe Parken und suchen Sie Zuflucht im majestätischen Kirchenschiff.",
+                "hu": "Élvezze a közeli parkolás előnyét, és keressen menedéket az eső elől a fenséges hajóban.",
+                "ro": "Bucurați-vă de parcarea din apropiere și refugiați-vă în nava maiestuoasă a bisericii.",
+                "en": "Enjoy the close parking options and take refuge from the rain inside the majestic nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Prieuré des Hautes-Bruyères (ancien)",
+                "hu": "Prieuré des Hautes-Bruyères (ancien)",
+                "ro": "Prieuré des Hautes-Bruyères (ancien)",
+                "en": "Prieuré des Hautes-Bruyères (ancien)"
+              },
+              "tip_5lang": {
+                "de": "Die schlammigen Zufahrtswege erfordern vorsichtiges Fahren; betrachten Sie die Ruinen vom Rand.",
+                "hu": "A sáros bekötőutak óvatos vezetést igényelnek; érdemes a romokat az út széléről megtekinteni.",
+                "ro": "Drumurile noroioase necesită o conducere atentă; priviți ruinele de pe margine.",
+                "en": "The muddy access roads require careful driving; safely view the ancient ruins from the edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Rambouillet",
+                "hu": "Wald von Rambouillet",
+                "ro": "Wald von Rambouillet",
+                "en": "Wald von Rambouillet"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Panoramarouten, da die Waldwege bei Regen sehr schlammig werden.",
+                "hu": "Maradjon a burkolt panorámautakon, mert a mély erdei földutak sárban járhatatlanok.",
+                "ro": "Rămâneți pe rutele pitorești asfaltate, deoarece drumurile forestiere devin foarte noroioase.",
+                "en": "Stay strictly on the paved scenic routes as the internal forest tracks get very muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Prieuré de l'Yvette",
+                "hu": "Chapelle du Prieuré de l'Yvette",
+                "ro": "Chapelle du Prieuré de l'Yvette",
+                "en": "Chapelle du Prieuré de l'Yvette"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist ein toller Stopp; lauschen Sie dem Echo der Regentropfen im trockenen Inneren.",
+                "hu": "A kápolna kiváló esős megálló; hallgassa az esőcseppek visszhangját a száraz belső térben.",
+                "ro": "Capela este o oprire excelentă pe ploaie; ascultați ecoul picăturilor de ploaie înăuntru.",
+                "en": "The chapel is a great rainy stop; safely listen to the raindrops echo from the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de l'Yveline",
+                "hu": "Parc de l'Yveline",
+                "ro": "Parc de l'Yveline",
+                "en": "Parc de l'Yveline"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang mit Gummistiefeln ist möglich, oder genießen Sie die Landschaft aus dem Auto.",
+                "hu": "Egy rövid séta gumicsizmában lehetséges, vagy csak élvezze a vizes tájat a fűtött kocsiból.",
+                "ro": "O scurtă plimbare cu cizme de cauciuc este posibilă, sau bucurați-vă de peisaj din mașină.",
+                "en": "A quick walk with waterproof boots is possible, or simply enjoy the wet landscape from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-André",
+                "hu": "Église Saint-André",
+                "ro": "Église Saint-André",
+                "en": "Église Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag sicher; die nassen lokalen Straßen zurück zum Zentrum erfordern volle Konzentration.",
+                "hu": "Fejezze be a napot biztonságosan; a központba visszavezető nedves utak teljes figyelmet igényelnek.",
+                "ro": "Încheiați ziua în siguranță; drumurile locale umede înapoi spre centru necesită concentrare.",
+                "en": "End the day safely; the wet local roads back to the town center require your full driving focus."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Motor früh. Mittags offenbaren Waldwege wunderschöne kahle Äste. Der Nachmittagsbesuch im Park erfordert eine dicke Jacke. Planen Sie das Ende der Route für 17:00 Uhr, da Winterstraßen nach Einbruch der Dunkelheit schnell gefrieren.",
+            "hu": "Indítsa be a motort korán. Délben az erdei utak gyönyörű, zúzmarás ágakat tárnak fel. A délutáni parklátogatáshoz vastag kabát kell. Úgy tervezze, hogy 17:00-ra végezzen, mert a téli utak sötétedés után nagyon gyorsan lefagynak.",
+            "ro": "Porniți motorul devreme. La prânz, drumurile forestiere dezvăluie ramuri goale superbe. Vizita de după-amiază necesită o haină groasă. Planificați să terminați la 17:00, deoarece drumurile îngheață rapid după lăsarea întunericului.",
+            "en": "Start the engine early. Midday forest drives reveal beautiful bare branches. The afternoon park visit absolutely requires a heavy coat. Plan to finish the route by 17:00, as rural winter roads quickly freeze solid after dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Les Essarts-le-Roi",
+                "hu": "Rathaus von Les Essarts-le-Roi",
+                "ro": "Rathaus von Les Essarts-le-Roi",
+                "en": "Rathaus von Les Essarts-le-Roi"
+              },
+              "tip_5lang": {
+                "de": "Die Autoheizung ist Ihr bester Freund nach einem kurzen morgendlichen Rundgang über den Platz.",
+                "hu": "Az autófűtés lesz a legjobb barátja, miután tesz egy rövid, csípős reggeli sétát a téren.",
+                "ro": "Încălzirea mașinii este cel mai bun prieten după o scurtă plimbare matinală prin piață.",
+                "en": "The car heater is your best friend right after a brief, frosty morning walk around the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "hu": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "ro": "Kirche Saint-Corneille-et-Saint-Cyprien",
+                "en": "Kirche Saint-Corneille-et-Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Die Steinfassade ist im Winterlicht atemberaubend, aber das Innere ist ziemlich kalt.",
+                "hu": "A kőhomlokzat lenyűgöző a téli fényben, de készüljön fel, hogy a templom belseje rendkívül hideg.",
+                "ro": "Fațada de piatră este uimitoare în lumina iernii, dar interiorul este destul de friguros.",
+                "en": "The stone facade is stunning in the clear winter light, but the interior can be quite cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Prieuré des Hautes-Bruyères (ancien)",
+                "hu": "Prieuré des Hautes-Bruyères (ancien)",
+                "ro": "Prieuré des Hautes-Bruyères (ancien)",
+                "en": "Prieuré des Hautes-Bruyères (ancien)"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind magisch mit Frost; tragen Sie warme Stiefel für den kurzen Weg vom Auto.",
+                "hu": "Az ősi romok varázslatosak a dértől; viseljen meleg csizmát az autótól vezető rövid sétához.",
+                "ro": "Ruinele sunt magice cu îngheț; purtați cizme călduroase pentru scurta plimbare de la mașină.",
+                "en": "The ancient priory ruins are magical with frost; wear warm boots for the short walk from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Rambouillet",
+                "hu": "Wald von Rambouillet",
+                "ro": "Wald von Rambouillet",
+                "en": "Wald von Rambouillet"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da sich in den Nachmittagsschatten des Waldes schnell Eisflächen bilden.",
+                "hu": "Vezessen nagyon óvatosan, mert az erdő délutáni árnyékaiban gyorsan jégfoltok képződnek.",
+                "ro": "Conduceți cu atenție prin pădure, deoarece petele de gheață se formează rapid în umbrele după-amiezii.",
+                "en": "Drive carefully through the forest as invisible ice patches form quickly in the afternoon shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Prieuré de l'Yvette",
+                "hu": "Chapelle du Prieuré de l'Yvette",
+                "ro": "Chapelle du Prieuré de l'Yvette",
+                "en": "Chapelle du Prieuré de l'Yvette"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie am späten Nachmittag hier, um das goldene Licht auf den alten Steinen einzufangen.",
+                "hu": "Álljon meg itt a késő délutáni órákban, hogy elkapja az arany óra fényeit a régi köveken.",
+                "ro": "Opriți-vă aici la sfârșitul după-amiezii pentru a prinde lumina aurie pe pietrele vechi.",
+                "en": "Stop here in the late afternoon to catch the stunning golden hour light on the old stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de l'Yveline",
+                "hu": "Parc de l'Yveline",
+                "ro": "Parc de l'Yveline",
+                "en": "Parc de l'Yveline"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist ruhig und kalt; genießen Sie einen kurzen Spaziergang, bevor Sie ins warme Auto zurückkehren.",
+                "hu": "A park csendes és hideg; tegyen egy rövid sétát, mielőtt gyorsan visszavonulna a fűtött kocsiba.",
+                "ro": "Parcul este liniștit și rece; bucurați-vă de o scurtă plimbare înainte de a vă retrage în mașină.",
+                "en": "The park is quiet and freezing; enjoy a brisk, short walk before retreating to your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-André",
+                "hu": "Église Saint-André",
+                "ro": "Église Saint-André",
+                "en": "Église Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie genau zum Sonnenuntergang (17:00 Uhr) an; der dunkle Winterabend senkt sich schnell.",
+                "hu": "Érkezzen pont naplementekor (kb. 17:00); a sötét téli este rendkívül gyorsan leszáll a templomra.",
+                "ro": "Ajungeți chiar la apus (~17:00); seara întunecată de iarnă se lasă repede peste biserică.",
+                "en": "Arrive right at sunset (~17:00); the dark winter evening settles extremely quickly over the church."
+              }
+            }
+          ]
+        }
       }
     }
   }

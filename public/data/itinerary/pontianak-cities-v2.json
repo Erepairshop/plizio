@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Szent József-katedrális részleteinek megcsodálásával, majd sétáljon végig Pontianak nyüzsgő utcáin. Délben élvezze a Stella Maris katolikus templom és a békés Vihara Bodhisatva Karaniya Metta nyugalmát. Délután merüljön el a helyi örökségben a csodálatos Kadriah-palotában. A napot a Masjid Nurul Huda közelében, nyugodt környezetben zárhatja.",
         "ro": "Începeți dimineața admirând detaliile Catedralei Sf. Iosif înainte de a vă plimba pe străzile vibrante din Pontianak. La prânz, bucurați-vă de atmosfera senină de la Biserica Stella Maris și de liniștitul Vihara Bodhisatva. După-amiaza, descoperiți moștenirea locală la magnificul Palat Kadriah. Încheiați-vă ziua cu o seară calmă în apropiere de Masjid Nurul Huda.",
         "en": "Start your morning admiring the intricate details of St. Joseph Cathedral before strolling through the vibrant streets of Pontianak. By midday, take in the serene atmosphere at Gereja Katolik Stella Maris and the peaceful Vihara Bodhisatva Karaniya Metta. In the afternoon, dive into local heritage at the magnificent Kadriah Palace. Conclude your day with a calm evening near Masjid Nurul Huda."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt unter grauem Himmel, doch die Kathedrale bietet sofort Schutz. Mittags führt der Weg durch regennasse Straßen zu den Tempeln, wobei Pfützen den Pfad säumen. Am Nachmittag wird der Besuch des Kadriah-Palastes zu einer Zeitreise im Trockenen. Abends lauschen wir dem Prasseln des Regens am Flussufer, geschützt unter den Vordächern der Moschee.",
+            "hu": "A nap szürke égbolt alatt indul, de a katedrális azonnal menedéket nyújt az eső elől. Délben a templomok felé vesszük az irányt, kerülgetve a vizes aszfalton kialakuló tócsákat. Délután a Kadriah-palota fa tetőszerkezete alatt merülünk el a történelemben. Este a mecset eresze alól figyeljük a trópusi eső áztatta Kapuas-folyót.",
+            "ro": "Ziua începe sub un cer gri, dar catedrala oferă imediat adăpost împotriva ploii. La prânz, ne îndreptăm spre temple, evitând bălțile de pe străzile umede. După-amiaza, vizita la Palatul Kadriah devine o incursiune istorică la adăpost. Seara, ascultăm ropotul ploii pe malul râului, protejați de arcadele moscheii.",
+            "en": "The day begins under gray skies, but the cathedral offers immediate shelter from the rain. At noon, we head towards the temples, navigating the puddles on the wet streets. In the afternoon, the wooden roof of Kadriah Palace provides a historic dry haven. In the evening, we watch the rain over the Kapuas river from the mosque's porch."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Joseph Kathedrale",
+                "hu": "Szent József-katedrális",
+                "ro": "Catedrala Sf. Iosif",
+                "en": "St.Joseph Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gewaltige Architektur im Trockenen; der weitläufige Innenraum bietet perfekten Schutz vor dem ersten kräftigen Regenschauer des Tages.",
+                "hu": "Csodálja meg a monumentális építészetet belülről; a hatalmas belső tér tökéletes védelmet nyújt a nap első intenzív trópusi felhőszakadása elől.",
+                "ro": "Admirați arhitectura monumentală din interior; spațiul generos oferă protecție perfectă împotriva primei averse tropicale intense a zilei.",
+                "en": "Admire the monumental architecture from inside; the vast interior provides perfect shelter from the day's first intense tropical downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Katolik Stella Maris",
+                "hu": "Gereja Katolik Stella Maris",
+                "ro": "Gereja Katolik Stella Maris",
+                "en": "Gereja Katolik Stella Maris"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Regenpausen für den Weg zur Kirche und halten Sie Ihren Regenschirm für die ungeschützten Abschnitte bereit.",
+                "hu": "Használja ki a rövid esőszüneteket a templomhoz való eljutáshoz, és tartsa készenlétben az esernyőjét a nyitottabb útszakaszokon.",
+                "ro": "Profită de scurtele pauze de ploaie pentru a ajunge la biserică și ține umbrela pregătită pentru secțiunile de drum neprotejate.",
+                "en": "Take advantage of short breaks in the rain to reach the church and keep your umbrella ready for the more exposed sections of the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Vihara Bodhisatva Karaniya Metta",
+                "hu": "Vihara Bodhisatva Karaniya Metta",
+                "ro": "Vihara Bodhisatva Karaniya Metta",
+                "en": "Vihara Bodhisatva Karaniya Metta"
+              },
+              "tip_5lang": {
+                "de": "Die Farben des Tempels wirken im Regen besonders satt; achten Sie auf den glatten Fliesenboden im Eingangsbereich des Heiligtums.",
+                "hu": "A templom színei még élénkebbek az esőben; ügyeljen a csúszós járólapokra a szentély bejáratánál, ahol a víz könnyen megállhat.",
+                "ro": "Culorile templului par și mai vii în ploaie; aveți grijă la gresia alunecoasă de la intrarea în sanctuar unde apa se poate acumula.",
+                "en": "The temple's colors look especially vibrant in the rain; watch out for slippery tiles at the sanctuary entrance where water tends to pool."
+              }
+            },
+            {
+              "name": {
+                "de": "Kadriah-Palast",
+                "hu": "Kadriah-palota",
+                "ro": "Palatul Kadriah",
+                "en": "Kadriah Palace Kesultanan Pontianak"
+              },
+              "tip_5lang": {
+                "de": "Der historische Holzpalast verströmt bei Feuchtigkeit einen einzigartigen Duft; genießen Sie den Blick auf den vernebelten Fluss von der Veranda.",
+                "hu": "A történelmi fapalota egyedi illatot áraszt a párás időben; élvezze a kilátást a ködös folyóra a palota fedett verandájáról.",
+                "ro": "Palatul istoric din lemn emană un parfum unic pe vreme umedă; bucurați-vă de vederea spre râul încețoșat de pe veranda acoperită.",
+                "en": "The historic wooden palace exudes a unique scent in the humid weather; enjoy the view of the misty river from the covered veranda."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Huda Tanjung Hilir",
+                "hu": "Masjid Nurul Huda Tanjung Hilir",
+                "ro": "Masjid Nurul Huda Tanjung Hilir",
+                "en": "Masjid Nurul Huda Tanjung Hilir"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Rundgang in dieser friedlichen Moschee, wo das Trommeln des Regens auf dem Dach eine meditative Atmosphäre schafft.",
+                "hu": "Zárja a túrát ebben a békés mecsetben, ahol a tetőn doboló eső hangja különlegesen meditatív és megnyugtató atmoszférát teremt.",
+                "ro": "Încheiați turul în această moschee liniștită, unde sunetul ploii bătând în acoperiș creează o atmosferă meditativă și calmantă.",
+                "en": "End your tour in this peaceful mosque, where the sound of rain drumming on the roof creates a meditative and calming atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühlerer Wintermorgen lädt zu einem erfrischenden Spaziergang zur Kathedrale ein. Mittags suchen wir die angenehme Kühle der religiösen Stätten auf. Am Nachmittag tauchen wir in die Geschichte des Palastes ein, bevor die Sonne bereits gegen 17:00 Uhr zu sinken beginnt. Den Abend lassen wir bei den sanften Lichtern der Moschee in der frühen Dämmerung ausklingen.",
+            "hu": "A hűvösebb téli reggel frissítő sétára hív a katedrális felé. Délben a vallási helyszínek kellemes hűvösében pihenünk meg. Délután a palota történetében merülünk el, figyelve, ahogy a nap már 17:00 körül ereszkedni kezd. Az estét a mecset fényeinek korai kigyúlása mellett, a téli szürkületben zárjuk.",
+            "ro": "O dimineață răcoroasă de iarnă invită la o plimbare revigorantă spre catedrală. La prânz, ne odihnim în răcoarea plăcută a lăcașurilor de cult. După-amiaza explorăm istoria palatului, observând cum soarele apune deja în jur de ora 17:00. Încheiem seara sub luminile moscheii, în amurgul timpuriu.",
+            "en": "A cooler winter morning invites a refreshing walk towards the cathedral. At noon, we rest in the pleasant shade of religious sites. In the afternoon, we explore the palace history as the sun begins to set early around 17:00. We end the evening under the mosque's lights in the early winter twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Joseph Kathedrale",
+                "hu": "Szent József-katedrális",
+                "ro": "Catedrala Sf. Iosif",
+                "en": "St.Joseph Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht am Morgen für Fotos der Fassade; im Inneren ist es jetzt angenehm temperiert und weniger schwül.",
+                "hu": "Használja ki a tiszta téli reggeli fényeket a homlokzat fotózásához; belül ilyenkor kellemes a hőmérséklet és kevésbé fülledt a levegő.",
+                "ro": "Profită de lumina clară a dimineții de iarnă pentru a fotografia fațada; în interior, temperatura este plăcută și aerul mai puțin sufocant.",
+                "en": "Take advantage of the clear winter morning light to photograph the facade; inside, the temperature is pleasant and the air less humid."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Katolik Stella Maris",
+                "hu": "Gereja Katolik Stella Maris",
+                "ro": "Gereja Katolik Stella Maris",
+                "en": "Gereja Katolik Stella Maris"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang zur Kirche ist bei den milden Wintertemperaturen weitaus angenehmer als in der Sommerhitze.",
+                "hu": "A templomhoz vezető élénk séta a mérsékelt téli hőmérsékletben sokkal élvezetesebb, mint a nyári hőség idején lenne.",
+                "ro": "O plimbare vioaie spre biserică în temperaturile moderate de iarnă este mult mai plăcută decât în timpul caniculei de vară.",
+                "en": "A brisk walk to the church in the moderate winter temperatures is much more enjoyable than during the peak summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Vihara Bodhisatva Karaniya Metta",
+                "hu": "Vihara Bodhisatva Karaniya Metta",
+                "ro": "Vihara Bodhisatva Karaniya Metta",
+                "en": "Vihara Bodhisatva Karaniya Metta"
+              },
+              "tip_5lang": {
+                "de": "Der Duft der Räucherstäbchen wirkt in der kühleren Winterluft intensiver; genießen Sie die spirituelle Ruhe dieses Ortes.",
+                "hu": "A füstölők illata intenzívebbnek tűnik a hűvösebb téli levegőben; élvezze a hely spirituális nyugalmát a korai szürkület előtt.",
+                "ro": "Parfumul bețișoarelor parfumate pare mai intens în aerul răcoros de iarnă; bucurați-vă de liniștea spirituală înainte de amurg.",
+                "en": "The scent of incense sticks seems more intense in the cooler winter air; enjoy the spiritual peace of the site before the early dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kadriah-Palast",
+                "hu": "Kadriah-palota",
+                "ro": "Palatul Kadriah",
+                "en": "Kadriah Palace Kesultanan Pontianak"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Palast rechtzeitig vor 16:30 Uhr, um die Details der Schnitzereien noch im Tageslicht bewundern zu können.",
+                "hu": "Látogassa meg a palotát időben, 16:30 előtt, hogy a fafaragások részleteit még teljes nappali fényben csodálhassa meg.",
+                "ro": "Vizitați palatul din timp, înainte de ora 16:30, pentru a admira detaliile sculpturilor în lemn în plină lumină a zilei.",
+                "en": "Visit the palace in time, before 16:30, to admire the details of the wood carvings in full daylight before the sun sets."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Huda Tanjung Hilir",
+                "hu": "Masjid Nurul Huda Tanjung Hilir",
+                "ro": "Masjid Nurul Huda Tanjung Hilir",
+                "en": "Masjid Nurul Huda Tanjung Hilir"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Moschee vor dem frühen Sonnenuntergang gegen 17:00 Uhr, um das Farbspiel am Himmel über dem Kapuas zu erleben.",
+                "hu": "Érjen a mecsethez a korai, 17:00 körüli naplemente előtt, hogy láthassa az égbolt színeinek játékát a Kapuas-folyó felett.",
+                "ro": "Ajungeți la moschee înainte de apusul timpuriu de la ora 17:00, pentru a vedea spectacolul culorilor cerului peste râul Kapuas.",
+                "en": "Reach the mosque before the early sunset around 17:00 to witness the play of colors in the sky over the Kapuas River."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a Tugu Digulis emlékműnél, amely megadja a nap alaphangját. A delet a régió történelmének felfedezésével töltheti a Tartományi Múzeumban és a lenyűgöző Betang Longhouse-ban. Délután tekintse meg a Galeri Hasil Hutan erdészeti csodáit, mielőtt észak felé indulna. Zárja az estét a belváros kivilágított vallási műemlékeinek megcsodálásával.",
         "ro": "Începeți turul cu bicicleta la Tugu Digulis, un monument iconic care dă tonul zilei. Petreceți prânzul explorând istoria regiunii la Muzeul Provincial și la fascinanta Casă Tradițională Betang. După-amiaza, descoperiți minunile forestiere la Galeri Hasil Hutan înainte de a pedala spre nord. Încheiați seara admirând reperele religioase frumos iluminate din centrul orașului.",
         "en": "Kick off your cycling tour at Tugu Digulis, an iconic monument setting the tone for the day. Spend your midday exploring deep into the region's history at the Provincial Museum and the fascinating Betang Longhouse. As the afternoon rolls in, discover forestry marvels at Galeri Hasil Hutan before riding north. Wind down your evening admiring the beautifully illuminated religious landmarks of the city center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt spritzig am Digulis-Denkmal, doch bald suchen wir Schutz im Museum. Mittags nutzen wir die überdachten Galerien, um trocken zu bleiben. Nachmittags fordern uns nasse Straßen auf dem Weg zur Kathedrale heraus. Den Abend beenden wir gemütlich am Tempel, während der Regen die Stadt in einen silbrigen Glanz hüllt.",
+            "hu": "A bringatúra frissítően indul a Digulis-emlékműnél, de hamarosan a múzeum falai közé húzódunk az eső elől. Délben a galériák fedett tereit használjuk ki. Délután a vizes aszfalton óvatosabban tekerünk a katedrális felé. Az estét a templomnál zárjuk, miközben az eső ezüstös fénybe vonja a várost.",
+            "ro": "Turul cu bicicleta începe energic la monumentul Digulis, dar curând ne adăpostim în muzeu din cauza ploii. La prânz, profităm de spațiile acoperite ale galeriilor. După-amiaza, pedalăm cu grijă pe asfaltul ud spre catedrală. Încheiem seara la templu, în timp ce ploaia oferă orașului o strălucire argintie.",
+            "en": "The bike tour starts energetically at the Digulis monument, but we soon seek shelter in the museum. At noon, we take advantage of the galleries' covered spaces. In the afternoon, we pedal carefully on wet roads toward the cathedral. We end the evening at the temple as the rain wraps the city in a silvery glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Digulis",
+                "hu": "Tugu Digulis",
+                "ro": "Tugu Digulis",
+                "en": "Tugu Digulis"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp reicht hier völlig aus; halten Sie Ausschau nach herannahenden Wolken, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Egy gyors fotómegálló itt bőven elég; figyelje a közeledő viharfelhőket, mielőtt folytatná az utat a következő fedett állomásig.",
+                "ro": "O oprire rapidă pentru poze este suficientă; monitorizați norii de furtună înainte de a porni spre următoarea destinație acoperită.",
+                "en": "A quick photo stop is plenty here; keep an eye on approaching storm clouds before continuing your ride to the next sheltered spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Provinzmuseum West-Kalimantan",
+                "hu": "Nyugat-Kalimantani Tartományi Múzeum",
+                "ro": "Muzeul Provincial Kalimantanul de Vest",
+                "en": "West Kalimantan Provincial Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab und nutzen Sie die ausgiebige Zeit im Museum, um einen Regenschauer abzuwarten.",
+                "hu": "Parkolja le a biciklit az előtető alatt, és használja ki a múzeumi időt egy kiadós zápor átvészelésére a száraz kiállítótermekben.",
+                "ro": "Parcați bicicleta sub copertină și folosiți timpul petrecut în muzeu pentru a aștepta trecerea unei averse în sălile de expoziție.",
+                "en": "Park your bike under the overhang and use your time in the museum to wait out a heavy shower in the dry exhibition halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Betang Longhouse",
+                "hu": "Betang Longhouse",
+                "ro": "Casa Tradițională Betang",
+                "en": "Betang Longhouse"
+              },
+              "tip_5lang": {
+                "de": "Das Langhaus bietet exzellenten Schutz; erkunden Sie die traditionelle Architektur, während es draußen in Strömen regnet.",
+                "hu": "A hosszúház kiváló menedéket nyújt; fedezze fel a tradicionális építészetet, miközben odakint szakad az eső.",
+                "ro": "Casa lungă oferă un adăpost excelent; explorați arhitectura tradițională în timp ce afară plouă torențial.",
+                "en": "The longhouse provides excellent shelter; explore the traditional architecture while it's pouring rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeri Hasil Hutan Provinsi Kalimantan Barat",
+                "hu": "Nyugat-Kalimantani Erdészeti Galéria",
+                "ro": "Galeri Hasil Hutan Provinsi Kalimantan Barat",
+                "en": "Galeri Hasil Hutan Provinsi Kalimantan Barat"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren der Galerie bleiben Sie trocken und erfahren Spannendes über die Wälder der Region; ideal für regnerische Nachmittage.",
+                "hu": "A galéria belsejében szárazon maradhat, miközben izgalmas dolgokat tudhat meg a régió erdeiről; ideális menedék esős délutánokra.",
+                "ro": "În interiorul galeriei veți rămâne uscați în timp ce aflați lucruri fascinante despre pădurile regiunii; refugiu ideal pentru după-amiezi ploioase.",
+                "en": "Inside the gallery, you'll stay dry while learning fascinating facts about the region's forests; an ideal refuge for rainy afternoons."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Joseph Kathedrale",
+                "hu": "Szent József-katedrális",
+                "ro": "Catedrala Sf. Iosif",
+                "en": "St.Joseph Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg hierher auf rutschige Markierungen auf der Fahrbahn; die Kathedrale ist ein sicherer Hafen zum Verschnaufen.",
+                "hu": "Az idevezető úton figyeljen a csúszós útburkolati jelekre; a katedrális biztonságos kikötő egy kis pihenéshez az esőben.",
+                "ro": "Aveți grijă la marcajele rutiere alunecoase în drum spre catedrală; aceasta este un port sigur pentru o scurtă odihnă pe ploaie.",
+                "en": "Watch out for slippery road markings on your way here; the cathedral is a safe haven for a short rest during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Vihara Bodhisatva Karaniya Metta",
+                "hu": "Vihara Bodhisatva Karaniya Metta",
+                "ro": "Vihara Bodhisatva Karaniya Metta",
+                "en": "Vihara Bodhisatva Karaniya Metta"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour hier ab; die nassen Straßen reflektieren die Lichter des Tempels wunderschön in der Abenddämmerung.",
+                "hu": "Zárja itt a túrát; a vizes aszfalt csodásan tükrözi vissza a templom fényeit az esti szürkületben.",
+                "ro": "Încheiați turul aici; asfaltul umed reflectă minunat luminile templului în amurgul serii.",
+                "en": "Wrap up your tour here; the wet asphalt beautifully reflects the temple lights in the evening twilight."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein milder Wintermorgen bietet perfekte Bedingungen für eine Radtour zum Denkmal. Mittags genießen wir die kühlen Innenräume der Museen. Am Nachmittag radeln wir durch die angenehm temperierte Stadt zur Kathedrale. Da es bereits um 17:00 Uhr dunkel wird, beenden wir unsere Fahrt beim Tempel unter dem ersten Sternenhimmel.",
+            "hu": "A mérsékelt téli reggel tökéletes feltételeket kínál a bringázáshoz az emlékműig. Délben a múzeumok hűvös belső tereit élvezzük. Délután a kellemes hőmérsékletű városban tekerünk a katedrálisig. Mivel 17:00-kor már sötétedik, a túrát a templomnál zárjuk az első csillagok alatt.",
+            "ro": "Dimineața blândă de iarnă oferă condiții perfecte pentru ciclism până la monument. La prânz, ne bucurăm de interioarele răcoroase ale muzeelor. După-amiaza pedalăm prin orașul cu temperatură plăcută spre catedrală. Deoarece se întunecă la ora 17:00, încheiem turul la templu.",
+            "en": "The mild winter morning offers perfect conditions for cycling to the monument. At noon, we enjoy the museums' cool interiors. In the afternoon, we pedal through the pleasantly tempered city to the cathedral. Since it gets dark by 17:00, we finish the tour at the temple."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Digulis",
+                "hu": "Tugu Digulis",
+                "ro": "Tugu Digulis",
+                "en": "Tugu Digulis"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Morgenbrise am Denkmal; im Winter ist die Luft hier am frühen Vormittag besonders klar und belebend.",
+                "hu": "Élvezze a friss reggeli szellőt az emlékműnél; télen a levegő itt kora délelőtt különösen tiszta és élénkítő a bringások számára.",
+                "ro": "Bucurați-vă de briza proaspătă a dimineții la monument; iarna, aerul de aici este deosebit de clar și revigorant pentru bicicliști.",
+                "en": "Enjoy the fresh morning breeze at the monument; in winter, the air here in the early forenoon is especially clear and invigorating for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Provinzmuseum West-Kalimantan",
+                "hu": "Nyugat-Kalimantani Tartományi Múzeum",
+                "ro": "Muzeul Provincial Kalimantanul de Vest",
+                "en": "West Kalimantan Provincial Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet eine willkommene Pause von der Fahrt; die kühlen Hallen sind ideal, um sich für die nächste Etappe zu regenerieren.",
+                "hu": "A múzeum kellemes pihenőt kínál a tekerés közben; a hűvös csarnokok ideálisak a regenerálódáshoz a következő szakasz előtt.",
+                "ro": "Muzeul oferă o pauză binevenită în timpul pedalatului; sălile răcoroase sunt ideale pentru recuperare înainte de următoarea etapă.",
+                "en": "The museum offers a welcome break from the ride; the cool halls are ideal for regenerating before the next leg of your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Betang Longhouse",
+                "hu": "Betang Longhouse",
+                "ro": "Casa Tradițională Betang",
+                "en": "Betang Longhouse"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Langhaus im milden Nachmittagslicht; die Holzkonstruktion speichert im Winter eine angenehme Kühle.",
+                "hu": "Fedezze fel a hosszúházat a lágy délutáni fényben; a faszerkezet télen is kellemes hűvöst áraszt a látogatók számára.",
+                "ro": "Explorați casa lungă în lumina blândă a după-amiezii; structura de lemn emană o răcoare plăcută chiar și în timpul iernii.",
+                "en": "Explore the longhouse in the soft afternoon light; the wooden structure radiates a pleasant coolness even in winter for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeri Hasil Hutan Provinsi Kalimantan Barat",
+                "hu": "Nyugat-Kalimantani Erdészeti Galéria",
+                "ro": "Galeri Hasil Hutan Provinsi Kalimantan Barat",
+                "en": "Galeri Hasil Hutan Provinsi Kalimantan Barat"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Stopp vor der letzten Etappe; die Ausstellungen sind ein guter Ort, um die Mittagshitze im Winter zu vermeiden.",
+                "hu": "Egy pihentető megálló az utolsó szakasz előtt; a kiállítások remek helyszínt biztosítanak a téli délutáni meleg elkerülésére.",
+                "ro": "O oprire relaxantă înainte de ultima etapă; expozițiile sunt un loc excelent pentru a evita căldura de la amiază chiar și iarna.",
+                "en": "A relaxing stop before the last leg; the exhibitions are a great place to avoid the midday warmth even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Joseph Kathedrale",
+                "hu": "Szent József-katedrális",
+                "ro": "Catedrala Sf. Iosif",
+                "en": "St.Joseph Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um die Architektur im letzten Tageslicht zu bewundern, bevor die Winterdämmerung einsetzt.",
+                "hu": "Érkezzen 16:30 előtt, hogy még az utolsó nappali fényben csodálhassa meg az építészetet, mielőtt a téli szürkület beállna.",
+                "ro": "Sosiți înainte de ora 16:30 pentru a admira arhitectura în ultima lumină a zilei, înainte de lăsarea amurgului de iarnă.",
+                "en": "Arrive before 16:30 to admire the architecture in the last daylight before the winter twilight sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Vihara Bodhisatva Karaniya Metta",
+                "hu": "Vihara Bodhisatva Karaniya Metta",
+                "ro": "Vihara Bodhisatva Karaniya Metta",
+                "en": "Vihara Bodhisatva Karaniya Metta"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da es nach dem Besuch des Tempels bereits dunkel sein wird.",
+                "hu": "Győződjön meg róla, hogy a kerékpár lámpái működnek, mivel a templomlátogatás után már sötétben kell majd tekernie.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționegează, deoarece după vizitarea templului va trebui să pedalați deja pe întuneric.",
+                "en": "Make sure your bike lights are working, as it will already be dark by the time you finish your visit to the temple."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kényelmes utazása a buja Tugu Mangrove-nál kezdődik, amely tökéletesen ötvözi a természetet a történelemmel. Délben utazzon el a Tugu Digulis-hoz, és tekintse meg a Tartományi Múzeum kiterjedt gyűjteményeit. Délután szívja magába a királyi történelmet a Kadriah-palotában, mielőtt átautózna a keleti negyedeken. A napot a helyi mecsetek nyugodt légkörében zárja a lemenő nap fényében.",
         "ro": "Călătoria confortabilă începe la luxuriantul Tugu Mangrove, îmbinând perfect natura cu importanța istorică. La prânz, mergeți la Tugu Digulis și vizitați colecțiile vaste de la Muzeul Provincial. După-amiaza, absorbiți istoria regală la Palatul Kadriah înainte de a conduce prin districtele estice. Încheiați ziua vizitând moscheile locale pașnice în timp ce soarele apune.",
         "en": "Your comfortable drive begins at the lush Tugu Mangrove, perfectly blending nature with historical significance. By midday, cruise to Tugu Digulis and delve into the expansive collections at the West Kalimantan Provincial Museum. In the afternoon, soak up royal history at the Kadriah Palace before driving through the eastern districts. End the day visiting peaceful local mosques as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem und trocken starten wir die Fahrt zum Mangroven-Denkmal, während der Regen gegen die Scheiben trommelt. Mittags gleiten wir sicher durch die überfluteten Straßen zu den Museen. Nachmittags besuchen wir den Palast und die Moscheen, ohne nass zu werden. Abends genießen wir die Lichter der Stadt, die sich in den glänzenden Straßen spiegeln.",
+            "hu": "Kényelmesen és szárazon indulunk a Mangrove-emlékműhöz, miközben az eső a szélvédőn kopog. Délben biztonságban suhanunk át a vizes utakon a múzeumok felé. Délután a palotát és a mecseteket látogatjuk meg anélkül, hogy megáznánk. Este a város fényeit élvezzük, amelyek megcsillannak a vizes aszfalton.",
+            "ro": "Pornim confortabil și uscați spre monumentul Mangrove, în timp ce ploaia bate în parbriz. La prânz, trecem în siguranță prin străzile inundate spre muzee. După-amiaza vizităm palatul și moscheile fără a ne uda. Seara ne bucurăm de luminile orașului care sclipesc pe asfaltul umed.",
+            "en": "We start comfortably and dry towards the Mangrove monument while rain taps on the windshield. At noon, we glide safely through wet streets towards the museums. In the afternoon, we visit the palace and mosques without getting wet. In the evening, we enjoy the city lights shimmering on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Mangrove",
+                "hu": "Tugu Mangrove",
+                "ro": "Tugu Mangrove",
+                "en": "Tugu Mangrove"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Mangroven direkt aus dem Auto; der Regen verleiht der Küstenlandschaft eine mystische Atmosphäre.",
+                "hu": "Élvezze a kilátást a mangroveerdőre közvetlenül az autóból; az eső misztikus és különleges atmoszférát kölcsönöz a parti tájnak.",
+                "ro": "Bucurați-vă de vederea spre mangrove direct din mașină; ploaia conferă peisajului de coastă o atmosferă mistică și specială.",
+                "en": "Enjoy the view of the mangroves directly from your car; the rain lends a mystical and special atmosphere to the coastal landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Digulis",
+                "hu": "Tugu Digulis",
+                "ro": "Tugu Digulis",
+                "en": "Tugu Digulis"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt für ein Foto; dank des Autos bleiben Sie bis zum nächsten Ziel vollkommen trocken und geschützt.",
+                "hu": "Csak egy rövid megálló egy fotóra; az autónak köszönhetően teljesen szárazon és védetten juthat el a következő fedett úticélig.",
+                "ro": "Doar o scurtă oprire pentru o fotografie; datorită mașinii, veți ajunge complet uscați și protejați la următoarea destinație acoperită.",
+                "en": "Just a short stop for a photo; thanks to the car, you'll stay completely dry and protected on your way to the next indoor destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Provinzmuseum West-Kalimantan",
+                "hu": "Nyugat-Kalimantani Tartományi Múzeum",
+                "ro": "Muzeul Provincial Kalimantanul de Vest",
+                "en": "West Kalimantan Provincial Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Eingang, um schnell ins Trockene zu kommen und die umfangreichen Exponate zu bewundern.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolót, hogy gyorsan száraz helyre érjen és megcsodálhassa a gazdag kiállítási anyagot.",
+                "ro": "Folosiți parcarea de lângă intrare pentru a ajunge rapid la adăpost și pentru a admira colecțiile bogate ale muzeului.",
+                "en": "Use the parking lot right by the entrance to quickly get indoors and admire the extensive exhibits while the rain pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kadriah-Palast",
+                "hu": "Kadriah-palota",
+                "ro": "Palatul Kadriah",
+                "en": "Kadriah Palace Kesultanan Pontianak"
+              },
+              "tip_5lang": {
+                "de": "Der Palast bietet ein wunderbares Indoor-Erlebnis; achten Sie beim Aussteigen auf tiefere Pfützen auf dem unebenen Boden.",
+                "hu": "A palota remek fedett élményt nyújt; kiszálláskor ügyeljen a mélyebb tócsákra, amelyek az egyenetlen talajon kialakulhatnak.",
+                "ro": "Palatul oferă o experiență acoperită excelentă; la coborâre, aveți grijă la bălțile adânci care se pot forma pe terenul denivelat.",
+                "en": "The palace provides a great indoor experience; watch out for deeper puddles that may form on uneven ground when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Huda Tanjung Hilir",
+                "hu": "Masjid Nurul Huda Tanjung Hilir",
+                "ro": "Masjid Nurul Huda Tanjung Hilir",
+                "en": "Masjid Nurul Huda Tanjung Hilir"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort für einen regnerischen Nachmittag; die Moschee ist leicht mit dem Wagen erreichbar und bietet viel Schutz.",
+                "hu": "Békés helyszín egy esős délutánra; a mecset könnyen megközelíthető autóval, és tágas fedett tereket kínál a látogatóknak.",
+                "ro": "O locație liniștită pentru o după-amiază ploioasă; moscheea este ușor accesibilă cu mașina și oferă spații acoperite generoase.",
+                "en": "A peaceful location for a rainy afternoon; the mosque is easily accessible by car and offers spacious covered areas for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Surau Muhajirin",
+                "hu": "Surau Muhajirin",
+                "ro": "Surau Muhajirin",
+                "en": "Surau Muhajirin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren, während draußen der Regen fällt; ideal für einen kurzen, trockenen Zwischenstopp auf Ihrer Route.",
+                "hu": "Élvezze a belső nyugalmat, miközben odakint esik; ideális egy rövid, száraz megállóhoz az autós útvonal mentén.",
+                "ro": "Bucurați-vă de liniștea interioară în timp ce afară plouă; ideal pentru o scurtă oprire uscată de-a lungul traseului auto.",
+                "en": "Enjoy the inner peace while it rains outside; ideal for a short, dry stop along your driving route."
+              }
+            },
+            {
+              "name": {
+                "de": "Mushola Babuljanah",
+                "hu": "Mushola Babuljanah",
+                "ro": "Mushola Babuljanah",
+                "en": "Mushola Babuljanah"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier; das Auto hält Sie auf dem Rückweg zum Hotel sicher und trocken vor dem abendlichen Gewitter.",
+                "hu": "Zárja itt a túrát; az autó biztonságban és szárazon viszi majd vissza a szálláshelyére az esti viharok idején is.",
+                "ro": "Încheiați turul aici; mașina vă va duce în siguranță și uscați înapoi la hotel, chiar și în timpul furtunilor de seară.",
+                "en": "End your tour here; the car will take you back to your hotel safely and dry, even during the evening storms."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt an einem klaren Wintermorgen am Mangroven-Denkmal. Dank der Klimaanlage im Auto bleibt die Temperatur den ganzen Tag über angenehm. Nachmittags besuchen wir den Palast im sanften Licht der frühen Wintersonne. Da die Dämmerung bereits gegen 17:00 Uhr einsetzt, beenden wir unsere Tour bei der Mushola im warmen Abendlicht.",
+            "hu": "A túra tiszta téli reggelen indul a Mangrove-emlékműnél. Az autó légkondicionálója révén a hőmérséklet egész nap tökéletes marad. Délután a palotát látogatjuk meg a korai téli napfényben. Mivel a szürkület már 17:00 körül elkezdődik, az utat a Musholánál zárjuk a meleg esti fényekben.",
+            "ro": "Turul începe într-o dimineață clară de iarnă la monumentul Mangrove. Datorită aerului condiționat din mașină, temperatura rămâne perfectă toată ziua. După-amiaza vizităm palatul în lumina timpurie a soarelui de iarnă. Deoarece amurgul începe la ora 17:00, încheiem turul la Mushola.",
+            "en": "The tour starts on a clear winter morning at the Mangrove monument. Thanks to the car's air conditioning, the temperature remains perfect all day. In the afternoon, we visit the palace in the early winter sunlight. Since twilight begins around 17:00, we end the journey at the Mushola."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Mangrove",
+                "hu": "Tugu Mangrove",
+                "ro": "Tugu Mangrove",
+                "en": "Tugu Mangrove"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht am Morgen ist ideal für weite Panoramablicke über das Küstengebiet und die Mangrovenwälder.",
+                "hu": "A tiszta téli reggeli fények ideálisak a parti területre és a mangroveerdőkre nyíló széles panoráma megtekintéséhez.",
+                "ro": "Lumina clară a dimineții de iarnă este ideală pentru a vedea panorama largă asupra zonei de coastă și a pădurilor de mangrove.",
+                "en": "The clear winter morning light is ideal for viewing the wide panorama over the coastal area and the mangrove forests."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Digulis",
+                "hu": "Tugu Digulis",
+                "ro": "Tugu Digulis",
+                "en": "Tugu Digulis"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp am Denkmal; nutzen Sie die kühleren Winterstunden für einen kurzen Spaziergang um das Monument.",
+                "hu": "Gyors megálló az emlékműnél; használja ki a hűvösebb téli órákat egy rövid sétára az impozáns monumentum körül.",
+                "ro": "O oprire rapidă la monument; profită de orele mai răcoroase de iarnă pentru o scurtă plimbare în jurul monumentului impunător.",
+                "en": "A quick stop at the monument; take advantage of the cooler winter hours for a short walk around the impressive site."
+              }
+            },
+            {
+              "name": {
+                "de": "Provinzmuseum West-Kalimantan",
+                "hu": "Nyugat-Kalimantani Tartományi Múzeum",
+                "ro": "Muzeul Provincial Kalimantanul de Vest",
+                "en": "West Kalimantan Provincial Museum"
+              },
+              "tip_5lang": {
+                "de": "Die klimatisierten Räume des Museums bieten im Winter eine konstante und angenehme Umgebung für die Erkundung der Geschichte.",
+                "hu": "A múzeum klimatizált termei télen is állandó és kellemes környezetet biztosítanak a történelem felfedezéséhez.",
+                "ro": "Sălile climatizate ale muzeului oferă un mediu constant și plăcut pentru explorarea istoriei chiar și în timpul iernii.",
+                "en": "The museum's air-conditioned halls provide a constant and pleasant environment for exploring history even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kadriah-Palast",
+                "hu": "Kadriah-palota",
+                "ro": "Palatul Kadriah",
+                "en": "Kadriah Palace Kesultanan Pontianak"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Palast am frühen Nachmittag, um die prachtvollen Details noch vor dem frühen Sonnenuntergang zu sehen.",
+                "hu": "Látogassa meg a palotát kora délután, hogy még a korai naplemente előtt teljes pompájában láthassa a díszes részleteket.",
+                "ro": "Vizitați palatul la începutul după-amiezii pentru a vedea detaliile ornamentate în toată splendoarea lor înainte de apusul timpuriu.",
+                "en": "Visit the palace in the early afternoon to see the ornate details in all their glory before the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Masid Nurul Huda Tanjung Hilir",
+                "hu": "Masjid Nurul Huda Tanjung Hilir",
+                "ro": "Masjid Nurul Huda Tanjung Hilir",
+                "en": "Masjid Nurul Huda Tanjung Hilir"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht der tiefstehenden Wintersonne verleiht der Moschee am späten Nachmittag einen besonderen Glanz.",
+                "hu": "Az alacsonyan járó téli nap meleg fényei különleges ragyogást kölcsönöznek a mecsetnek a késő délutáni órákban.",
+                "ro": "Luminile calde ale soarelui de iarnă conferă o strălucire deosebită moscheii în orele târzii ale după-amiezii.",
+                "en": "The warm lights of the low winter sun give a special glow to the mosque in the late afternoon hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Surau Muhajirin",
+                "hu": "Surau Muhajirin",
+                "ro": "Surau Muhajirin",
+                "en": "Surau Muhajirin"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Stopp vor 16:45 Uhr, um die friedliche Atmosphäre noch bei ausreichendem Tageslicht zu erleben.",
+                "hu": "Érkezzen meg ehhez a megállóhoz 16:45 előtt, hogy még elegendő nappali fénynél tapasztalhassa meg a békés hangulatot.",
+                "ro": "Ajungeți la această oprire înainte de ora 16:45 pentru a experimenta atmosfera liniștită încă în lumină naturală suficientă.",
+                "en": "Arrive at this stop before 16:45 to experience the peaceful atmosphere while there's still enough daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Mushola Babuljanah",
+                "hu": "Mushola Babuljanah",
+                "ro": "Mushola Babuljanah",
+                "en": "Mushola Babuljanah"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frühen Sonnenuntergang gegen 17:00 Uhr; das Auto bringt Sie danach sicher durch die bereits einsetzende Dunkelheit.",
+                "hu": "Élvezze a korai, 17:00 körüli naplementét; az autó ezután biztonságban viszi tovább a már beálló téli sötétségben.",
+                "ro": "Bucurați-vă de apusul timpuriu de la ora 17:00; mașina vă va purta în siguranță mai departe prin întunericul iernii deja așternut.",
+                "en": "Enjoy the early sunset around 17:00; the car will then carry you safely forward through the already falling winter darkness."
+              }
+            }
+          ]
+        }
       }
     }
   }

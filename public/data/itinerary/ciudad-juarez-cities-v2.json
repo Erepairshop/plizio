@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Centro Municipal de las Artes kulturális örökségével, majd fedezze fel a régi vasútállomást. Délben tisztelegjen Mexikó legendás alakjai előtt Guerrero és Benito Juárez emlékműveinél. A délután nevetést és nosztalgiát hoz a Tin Tan Múzeumban. Az este sétára csábít a nyüzsgő belvárosi utcákon, ahol élvezheti a helyi atmoszférát.",
         "ro": "Începeți dimineața explorând patrimoniul cultural bogat la Centro Municipal de las Artes înainte de a descoperi vechea gară. La prânz, onorați figurile legendare ale Mexicului la monumentele lui Guerrero și Benito Juárez. După-amiaza aduce râsete și nostalgie la Muzeul Tin Tan. Seara vă invită să vă plimbați pe străzile pline de viață ale centrului, savurând atmosfera locală.",
         "en": "Start your morning exploring the rich cultural heritage at the Centro Municipal de las Artes before discovering the industrial past at the old railway station. By midday, honor Mexico's legendary figures at the monuments of General Guerrero and Benito Juárez. Your afternoon brings laughter and nostalgia at the Tin Tan Museum. The evening invites you to stroll through the lively downtown streets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Kunstzentrum Schutz vor dem Regen. Mittags erkunden wir die überdachten Waggons des Eisenbahnmuseums. Nachmittags besuchen wir die Monumente, wobei Vorsicht auf glatten Wegen geboten ist. Der Tag endet gemütlich im Tin Tan Museum, fernab vom grauen Wetter.",
+            "hu": "Reggel a művészeti központ falai között indul a nap az eső elől menekülve. Délben a vasúti múzeum fedett kiállításai nyújtanak menedéket. Délután az emlékművek felé vesszük az irányt, vigyázva a csúszós kövezetre. Az estét a Tin Tan múzeum vidám, zárt tárlataival zárjuk a borús időben.",
+            "ro": "Dimineața începe la centrul de artă, feriți de ploaie. La prânz, vagoanele acoperite ale muzeului feroviar oferă un adăpost excelent. După-amiaza vizităm monumentele istorice, atenți la pavajul alunecos. Seara se încheie la muzeul Tin Tan, un refugiu cultural perfect împotriva vremii de afară.",
+            "en": "Start your morning inside the arts center to stay dry. At noon, the railway museum's covered exhibits provide great shelter from the rain. In the afternoon, visit the monuments, but watch out for slippery tiles. The day ends at the Tin Tan museum, a perfect indoor escape from the drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Municipal de las Artes",
+                "hu": "Centro Municipal de las Artes",
+                "ro": "Centro Municipal de las Artes",
+                "en": "Centro Municipal de las Artes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie lokale Kunst in den trockenen Galerien; ein stabiler Regenschirm ist für den Weg zum nächsten Ziel dennoch unerlässlich.",
+                "hu": "Élvezd a helyi művészetet a száraz galériákban; egy strapabíró esernyő elengedhetetlen a következő megállóig tartó rövid sétához.",
+                "ro": "Bucurați-vă de arta locală în galeriile uscate; o umbrelă rezistentă este totuși esențială pentru drumul scurt până la următoarea oprire.",
+                "en": "Enjoy local art in the dry galleries; a sturdy umbrella is essential for the short walk to the next destination despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferrocarril Central 1884",
+                "hu": "Ferrocarril Central 1884",
+                "ro": "Ferrocarril Central 1884",
+                "en": "Ferrocarril Central 1884"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Lokomotiven stehen teilweise unter Dach; nutzen Sie die überdachten Bereiche, um die Industriegeschichte trocken zu erleben.",
+                "hu": "A történelmi mozdonyok részben tető alatt állnak; használd a fedett részeket az ipari múlt felfedezéséhez, miközben kint esik az eső.",
+                "ro": "Locomotivele istorice sunt parțial sub acoperiș; folosiți zonele protejate pentru a explora istoria industrială fără a vă uda prea tare.",
+                "en": "The historic locomotives are partially under cover; use the sheltered areas to explore industrial history while staying mostly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "General Vicente Guerrero",
+                "hu": "General Vicente Guerrero",
+                "ro": "General Vicente Guerrero",
+                "en": "General Vicente Guerrero"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im Regen besonders dramatisch; achten Sie beim Fotografieren auf die rutschigen Stufen rund um die Statue.",
+                "hu": "Az emlékmű drámai látványt nyújt az esőben; a fotózás közben figyelj a szobor körüli lépcsőkre, mert rendkívül csúszósak lehetnek.",
+                "ro": "Monumentul arată dramatic în ploaie; aveți grijă la treptele alunecoase din jurul statuii atunci când faceți fotografii de aproape.",
+                "en": "The monument looks dramatic in the rain; be careful on the slippery steps around the statue when taking photos between showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Benito Juárez",
+                "hu": "Monumento a Benito Juárez",
+                "ro": "Monumento a Benito Juárez",
+                "en": "Monumento a Benito Juárez"
+              },
+              "tip_5lang": {
+                "de": "Die Marmorflächen auf dem Platz werden bei Nässe sehr glatt; tragen Sie Schuhe mit gutem Profil für diesen geschichtsträchtigen Halt.",
+                "hu": "A tér márványfelületei vizesen nagyon csúszóssá válnak; viselj jó tapadású cipőt ennél a történelmi megállónál az esőben is.",
+                "ro": "Suprafețele de marmură din piață devin foarte lucioase când sunt ude; purtați încălțăminte cu talpă aderentă pentru această oprire.",
+                "en": "The marble surfaces in the plaza become very slick when wet; wear shoes with good grip for this historical stop during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Germán Valdéz Tin Tan",
+                "hu": "Museo Germán Valdéz Tin Tan",
+                "ro": "Museo Germán Valdéz Tin Tan",
+                "en": "Museo Germán Valdéz Tin Tan"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Ort, um den Tag im Trockenen ausklingen zu lassen; tauchen Sie ein in die goldene Ära des mexikanischen Kinos.",
+                "hu": "Ez a múzeum ideális hely a nap száraz befejezéséhez; merülj el a mexikói mozi aranykorában, miközben kint dobol az eső az ablakon.",
+                "ro": "Acest muzeu este locul ideal pentru a încheia ziua la uscat; scufundați-vă în epoca de aur a cinematografiei mexicane în timp ce plouă.",
+                "en": "This museum is the ideal place to end the day in the dry; dive into the golden age of Mexican cinema while the rain beats outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in der Wüste ist kühl, ideal für Museen. Mittags wärmt die schwache Sonne bei den Denkmälern. Da es bereits gegen 17:00 Uhr dunkel wird, legen wir den Nachmittagsschwerpunkt auf das Stadtzentrum. Der Abend gehört dem gemütlich beheizten Tin Tan Museum.",
+            "hu": "A sivatagi tél hűvös reggelén a fűtött galériákban kezdünk. Délben a gyenge napsütésben sétálunk az emlékművek között. Mivel 17:00 körül már sötétedik, a délutánt a központban töltjük. Az estét a kellemes hőmérsékletű Tin Tan múzeumban zárjuk a korai naplemente után.",
+            "ro": "Dimineața rece de iarnă în deșert este perfectă pentru muzee încălzite. La prânz, soarele slab ne însoțește printre monumente. Deoarece se întunecă în jurul orei 17:00, prioritizăm centrul. Seara se încheie la muzeul Tin Tan, feriți de frigul nopții.",
+            "en": "The crisp winter morning is perfect for heated museum galleries. At noon, the weak sun warms our walk between historic monuments. Since it gets dark around 17:00, we stay in the central areas. The evening ends warmly inside the Tin Tan museum after the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Municipal de las Artes",
+                "hu": "Centro Municipal de las Artes",
+                "ro": "Centro Municipal de las Artes",
+                "en": "Centro Municipal de las Artes"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie in den beheizten Innenräumen, um der morgendlichen Wüstenkälte zu entgehen; die Galerien sind im Winter angenehm temperiert.",
+                "hu": "Kezdj a fűtött belső terekben, hogy elkerüld a reggeli sivatagi hideget; a galériák télen is kellemesen melegek a látogatók számára.",
+                "ro": "Începeți în interiorul încălzit pentru a evita frigul dimineții de deșert; galeriile sunt menținute la o temperatură plăcută iarna.",
+                "en": "Start in the heated indoor spaces to avoid the morning desert chill; the galleries are kept at a pleasant temperature during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferrocarril Central 1884",
+                "hu": "Ferrocarril Central 1884",
+                "ro": "Ferrocarril Central 1884",
+                "en": "Ferrocarril Central 1884"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Zwiebelprinzip-Kleidung, da die Temperaturunterschiede zwischen den Ausstellungsgebäuden und dem Außenbereich im Winter groß sind.",
+                "hu": "Öltözz rétegesen, mert a téli időszakban nagy a hőmérséklet-különbség a kiállítótermek és a külső udvar között a múzeumlátogatás alatt.",
+                "ro": "Îmbrăcați-vă în straturi, deoarece diferențele de temperatură între clădirile expoziționale și exterior sunt mari în timpul iernii.",
+                "en": "Dress in layers as the temperature differences between the exhibition buildings and the outdoors can be significant during winter visits."
+              }
+            },
+            {
+              "name": {
+                "de": "General Vicente Guerrero",
+                "hu": "General Vicente Guerrero",
+                "ro": "General Vicente Guerrero",
+                "en": "General Vicente Guerrero"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos vom Monument, bevor die Sonne am frühen Nachmittag bereits tiefer am Horizont steht.",
+                "hu": "Használd ki a tiszta téli fényeket az emlékmű fotózásához, mielőtt a nap már kora délután alacsonyabban állna a horizont felett.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii cu monumentul înainte ca soarele să coboare prea jos la orizont după-amiaza.",
+                "en": "Take advantage of the clear winter light for photos of the monument before the sun starts to dip low in the early afternoon sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Benito Juárez",
+                "hu": "Monumento a Benito Juárez",
+                "ro": "Monumento a Benito Juárez",
+                "en": "Monumento a Benito Juárez"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Brise auf dem offenen Platz kann beißend sein; eine warme Mütze und Handschuhe machen den Aufenthalt hier viel angenehmer.",
+                "hu": "A nyitott téren fújó hűvös szél metsző lehet; egy meleg sapka és kesztyű sokkal kellemesebbé teszi az itt tartózkodást a téli napon.",
+                "ro": "Vântul rece din piața deschisă poate fi tăios; o căciulă caldă și mănuși vor face șederea mult mai plăcută în această zi de iarnă.",
+                "en": "The cool breeze in the open plaza can be biting; a warm hat and gloves will make your stay much more comfortable on a winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Germán Valdéz Tin Tan",
+                "hu": "Museo Germán Valdéz Tin Tan",
+                "ro": "Museo Germán Valdéz Tin Tan",
+                "en": "Museo Germán Valdéz Tin Tan"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier vor 17:00 Uhr, um den plötzlichen Temperatursturz nach Sonnenuntergang in der Wüste zu vermeiden.",
+                "hu": "Fejezd be a túrát itt 17:00 előtt, hogy elkerüld a sivatagi naplemente utáni hirtelen és jelentős hőmérséklet-zuhanást a városban.",
+                "ro": "Încheiați turul aici înainte de ora 17:00 pentru a evita scăderea bruscă a temperaturii în deșert imediat după apusul soarelui.",
+                "en": "Finish your tour here before 17:00 to avoid the sudden and sharp temperature drop in the desert right after the winter sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Indítsa a napot Tin Tan ragadós humorával, mielőtt eltekerne a lenyűgöző Benito Juárez emlékműhöz. Délben az útvonal a polgári központhoz és annak különleges dizájnjához vezet. Délután fedezze fel a kortárs Művészeti Múzeum modern kiállításait. Fejezze be az utazást egy békés kerékpározással az El Chamizal park zöldellő területein.",
         "ro": "Începeți ziua pedalând cu umorul molipsitor al lui Tin Tan, înainte de a merge la impresionantul monument Benito Juárez. La prânz, traseul vă duce la centrul civic. După-amiaza, descoperiți expozițiile de ultimă oră de la Muzeul de Artă Contemporană. Încheiați cursa cu o plimbare liniștită prin întinderile verzi ale parcului El Chamizal.",
         "en": "Pedal into your day with the infectious humor of Tin Tan before cycling to the grand Benito Juárez Monument. Around midday, your route takes you to the civic center and its distinct mid-century design. In the afternoon, discover cutting-edge exhibits at the contemporary Art Museum. Conclude your ride with a peaceful cycle through the green expanses of El Chamizal park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Juárez bei Regen erfordert Vorsicht auf den nassen Straßen. Wir starten am Tin Tan Museum. Mittags machen wir am Juárez-Denkmal halt. Nachmittags bietet das Kunstmuseum einen trockenen Hafen. Der Tag endet im Chamizal Park, wo wir auf den befestigten Wegen bleiben müssen.",
+            "hu": "A biciklizés Juárezben esőben óvatosságot igényel a csúszós aszfalton. A Tin Tan múzeumnál kezdünk. Délben a Juárez-emlékműnél pihenünk meg. Délután a művészeti múzeum nyújt száraz menedéket. A nap a Chamizal parkban zárul, ahol szigorúan csak a kikövezett utakon érdemes haladni.",
+            "ro": "Mersul pe bicicletă în Juárez pe ploaie necesită prudență pe străzile ude. Începem la muzeul Tin Tan. La prânz oprim la monumentul Juárez. După-amiaza, muzeul de artă oferă un refugiu uscat. Ziua se termină în parcul Chamizal, rămânând pe aleile asfaltate.",
+            "en": "Cycling in Juárez in the rain requires caution on the wet streets. We start at the Tin Tan museum. At noon, we stop by the Juárez monument. In the afternoon, the art museum offers a dry haven. The day ends at Chamizal Park, where we must stick to the paved paths to avoid mud."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Germán Valdéz Tin Tan",
+                "hu": "Museo Germán Valdéz Tin Tan",
+                "ro": "Museo Germán Valdéz Tin Tan",
+                "en": "Museo Germán Valdéz Tin Tan"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad an einem überdachten Ort, während Sie die humorvolle Ausstellung im Inneren besuchen; achten Sie auf nasse Pedale.",
+                "hu": "Zárd le a kerékpárod egy fedett helyen, amíg bent nézed a humoros kiállítást; ügyelj a vizes pedálokra az induláskor.",
+                "ro": "Asigurați bicicleta într-un loc acoperit în timp ce vizitați expoziția din interior; atenție la pedalele ude la plecare.",
+                "en": "Lock your bike in a covered spot while you visit the humorous indoor exhibition; watch out for slippery pedals when you set off."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Benito Juárez",
+                "hu": "Monumento a Benito Juárez",
+                "ro": "Monumento a Benito Juárez",
+                "en": "Monumento a Benito Juárez"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig vor dem Denkmal, da der Bodenbelag hier bei Regen extrem rutschig ist; Schieben ist die sicherere Wahl.",
+                "hu": "Fékezz időben az emlékmű előtt, mert a burkolat itt esőben rendkívül csúszós; a kerékpár tolása itt biztonságosabb választás.",
+                "ro": "Frânați din timp înainte de monument, deoarece pavajul este extrem de alunecos pe ploaie; împinsul bicicletei este mai sigur aici.",
+                "en": "Brake early before the monument as the pavement here is extremely slippery in the rain; walking your bike is a safer choice here."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Cívico Municipal Lic. Benito Juárez",
+                "hu": "Auditorio Cívico Municipal Lic. Benito Juárez",
+                "ro": "Auditorio Cívico Municipal Lic. Benito Juárez",
+                "en": "Auditorio Cívico Municipal Lic. Benito Juárez"
+              },
+              "tip_5lang": {
+                "de": "Das Vordach des Auditoriums bietet einen guten Platz für eine kurze Verschnaufpause im Trockenen, bevor Sie zum Museum weiterfahren.",
+                "hu": "Az auditórium előteteje remek hely egy rövid, száraz pihenőre, mielőtt továbbindulnál a következő múzeumi megálló felé az esőben.",
+                "ro": "Copertina auditoriului oferă un loc bun pentru o scurtă pauză la uscat înainte de a continua spre muzeu prin ploaie.",
+                "en": "The auditorium's overhang provides a good spot for a quick break in the dry before you continue to the art museum in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte de Ciudad Juárez",
+                "hu": "Museo de Arte de Ciudad Juárez",
+                "ro": "Museo de Arte de Ciudad Juárez",
+                "en": "Museo de Arte de Ciudad Juárez"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um Ihre Regenbekleidung kurz auszuschütteln; die moderne Kunst lenkt perfekt vom Wetter ab.",
+                "hu": "Használd ki az időt a múzeumban, hogy lerázd az esőt a ruhádról; a modern művészet tökéletesen eltereli a figyelmed a rossz időről.",
+                "ro": "Folosiți timpul în muzeu pentru a vă scutura hainele de ploaie; arta modernă vă va face să uitați de vremea mohorâtă de afară.",
+                "en": "Use your time in the museum to shake off your rain gear; the modern art is a perfect distraction from the gloomy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Público Federal El Chamizal",
+                "hu": "Parque Público Federal El Chamizal",
+                "ro": "Parque Público Federal El Chamizal",
+                "en": "Parque Público Federal El Chamizal"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Hauptwegen, um Schlamm zu vermeiden; die Bäume bieten zwar etwas Schutz, aber Pfützen lauern überall.",
+                "hu": "Maradj az aszfaltozott főutakon, hogy elkerüld a sarat; a fák nyújtanak némi védelmet, de a tócsák mindenütt ott vannak.",
+                "ro": "Rămâneți pe aleile principale asfaltate pentru a evita noroiul; copacii oferă puțină protecție, dar bălțile sunt peste tot.",
+                "en": "Stick to the main asphalt paths to avoid the mud; the trees offer some cover, but puddles are lurking everywhere in the park."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein zügiges Tempo hilft, am kalten Wintermorgen warm zu bleiben. Wir starten im Stadtzentrum. Mittags radeln wir durch die klare Wüstenluft. Da die Sonne früh untergeht, planen wir den Chamizal Park für den frühen Nachmittag ein. Abends lockt die Wärme der kulturellen Gebäude.",
+            "hu": "A gyors tempó segít melegen maradni a hideg téli reggelen. A központból indulunk. Délben a tiszta sivatagi levegőn tekerünk. Mivel a nap korán nyugszik, a Chamizal parkot kora délutánra időzítjük. Este a kulturális épületek fűtött terei csábítanak pihenésre.",
+            "ro": "Un ritm rapid ajută la menținerea căldurii în dimineața rece de iarnă. Pornim din centru. La prânz pedalăm prin aerul curat. Deoarece apusul e devreme, vizităm parcul Chamizal la prima oră a amiezii. Seara căutăm căldura muzeelor.",
+            "en": "A brisk pace helps you stay warm on a cold winter morning. We start in the center. At noon, we cycle through the clear desert air. Since the sun sets early, we visit Chamizal Park in the early afternoon. The evening belongs to the warmth of indoor cultural sites."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Germán Valdéz Tin Tan",
+                "hu": "Museo Germán Valdéz Tin Tan",
+                "ro": "Museo Germán Valdéz Tin Tan",
+                "en": "Museo Germán Valdéz Tin Tan"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf; die Fahrt hierher kann im frostigen Morgenwind von Juárez recht frisch sein.",
+                "hu": "Melegedj fel a kiállítótermekben; az idevezető út a reggeli fagyos szélben elég csípős lehet egy kerékpáros számára.",
+                "ro": "Încălziți-vă în sălile de expoziție; drumul până aici poate fi destul de rece în vântul înghețat al dimineții din Juárez.",
+                "en": "Warm up in the exhibition rooms; the ride here in the frosty morning wind of Juárez can be quite biting for a cyclist."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Benito Juárez",
+                "hu": "Monumento a Benito Juárez",
+                "ro": "Monumento a Benito Juárez",
+                "en": "Monumento a Benito Juárez"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie Ihre Handschuhe bei diesem kurzen Halt an; der Metalllenker kühlt in der Winterluft extrem schnell aus.",
+                "hu": "Tartsd magadon a kesztyűt ennél a rövid megállónál is; a fém kormány rendkívül gyorsan lehűl a téli sivatagi levegőben.",
+                "ro": "Păstrați-vă mănușile chiar și în timpul acestei scurte opriri; ghidonul metalic se răcește extrem de repede în aerul iernii.",
+                "en": "Keep your gloves on during this short stop; the metal handlebars cool down extremely fast in the cold winter desert air."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Cívico Municipal Lic. Benito Juárez",
+                "hu": "Auditorio Cívico Municipal Lic. Benito Juárez",
+                "ro": "Auditorio Cívico Municipal Lic. Benito Juárez",
+                "en": "Auditorio Cívico Municipal Lic. Benito Juárez"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine kurze Trinkpause, aber achten Sie darauf, dass Ihr Wasser nicht zu kalt geworden ist; bewegen Sie sich weiter, um warm zu bleiben.",
+                "hu": "Használd ki a megállót egy gyors frissítésre, de ügyelj, hogy a vized ne hűljön le túlságosan; mozogj tovább, hogy megőrizd a testhőd.",
+                "ro": "Folosiți oprirea pentru o scurtă hidratare, dar aveți grijă ca apa să nu fie prea rece; continuați să vă mișcați pentru a rămâne calzi.",
+                "en": "Use the stop for a quick hydration break, but ensure your water hasn't become too cold; keep moving to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte de Ciudad Juárez",
+                "hu": "Museo de Arte de Ciudad Juárez",
+                "ro": "Museo de Arte de Ciudad Juárez",
+                "en": "Museo de Arte de Ciudad Juárez"
+              },
+              "tip_5lang": {
+                "de": "Die gut beheizten Galerien sind ein Segen für Radfahrer im Winter; nehmen Sie sich Zeit, um die Kunst und die Wärme zu genießen.",
+                "hu": "A jól fűtött galériák valóságos áldást jelentenek télen a bicikliseknek; szánj időt a művészet és a meleg élvezetére egyaránt.",
+                "ro": "Galeriile bine încălzite sunt o binecuvântare pentru bicicliști iarna; acordați-vă timp pentru a vă bucura de artă și de căldură.",
+                "en": "The well-heated galleries are a true blessing for cyclists in winter; take your time to enjoy both the art and the indoor warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Público Federal El Chamizal",
+                "hu": "Parque Público Federal El Chamizal",
+                "ro": "Parque Público Federal El Chamizal",
+                "en": "Parque Público Federal El Chamizal"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückfahrt so, dass Sie vor Sonnenuntergang (ca. 17:00 Uhr) den Park verlassen, wenn die Kälte schlagartig zunimmt.",
+                "hu": "Tervezd úgy a visszautat, hogy még naplemente előtt (kb. 17:00) elhagyd a parkot, amikor a hideg hirtelen és erősen visszatér.",
+                "ro": "Planificați drumul de întoarcere astfel încât să părăsiți parcul înainte de apus (aprox. 17:00), când frigul revine brusc.",
+                "en": "Plan your return ride to leave the park before sunset (around 17:00), when the desert cold returns suddenly and sharply."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje a határon átnyúló autós túrát a történelmi El Chamizal parkban a Juárez oldalon, majd látogassa meg a helyi sport dicsőségcsarnokot. Délben lépje át a határt El Pasóba, és csodálja meg a Művészeti Múzeum remekműveit. A délutánt a helyi örökség felfedezésére szánjuk a Történeti Múzeumban. Zárja ezt a mélyreható napot a Holokauszt Múzeumban.",
         "ro": "Începeți turul transfrontalier la istoricul parc El Chamizal din Juárez, înainte de a vizita panteonul sportului local. La prânz, treceți granița în El Paso pentru a admira capodoperele de la Muzeul de Artă. După-amiaza este rezervată descoperirii patrimoniului local la Muzeul de Istorie. Încheiați această zi profundă cu o reflecție la Muzeul Holocaustului.",
         "en": "Begin your cross-border driving tour at the historic El Chamizal park on the Juárez side before visiting the local sports hall of fame. By midday, safely cross the border into downtown El Paso to admire remarkable Southwestern masterpieces at the Art Museum. The afternoon is reserved for uncovering local heritage at the History Museum. Conclude your profound day with moving reflection at the Holocaust Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto erkunden wir Juárez und El Paso sicher vor dem Regen. Wir starten im Chamizal Park. Mittags besuchen wir die Sport-Ruhmeshalle. Nachmittags überqueren wir die Grenze zu den Kunstmuseen in El Paso. Der Abend endet trocken in den historischen Ausstellungen.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel Juárez és El Paso környékét. A Chamizal parkban kezdünk. Délben a sport hírességek csarnokát látogatjuk meg. Délután átkelünk a határon az el pasói művészeti múzeumokhoz. Az estét a történelmi kiállítások zárják, védve az esőtől.",
+            "ro": "Cu mașina explorăm Juárez și El Paso feriți de ploaie. Începem în parcul Chamizal. La prânz vizităm muzeul sportului. După-amiaza traversăm granița către muzeele de artă din El Paso. Seara se încheie la adăpostul expozițiilor istorice.",
+            "en": "By car, we explore Juárez and El Paso safe from the rain. We start at Chamizal Park. At noon, we visit the sports hall of fame. In the afternoon, we cross the border to the art museums in El Paso. The evening ends dry inside the historical exhibitions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Público Federal El Chamizal",
+                "hu": "Parque Público Federal El Chamizal",
+                "ro": "Parque Público Federal El Chamizal",
+                "en": "Parque Público Federal El Chamizal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkwege, um die Denkmäler vom Auto aus zu sehen; parken Sie direkt bei den überdachten Infotafeln im Park.",
+                "hu": "Használd a park útjait az emlékművek megtekintéséhez az autóból; parkolj közvetlenül a fedett információs táblák közelében.",
+                "ro": "Folosiți aleile parcului pentru a vedea monumentele din mașină; parcați direct lângă panourile de informare acoperite din parc.",
+                "en": "Use the park roads to see the monuments from your car; park directly near the covered info points to avoid getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Salón de la fama del deportista juarense",
+                "hu": "Salón de la fama del deportista juarense",
+                "ro": "Salón de la fama del deportista juarense",
+                "en": "Salón de la fama del deportista juarense"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem nahen Parkplatz, um den Fußweg im Regen kurz zu halten; die sportlichen Erfolge im Inneren inspirieren auch bei Schmuddelwetter.",
+                "hu": "Parkolj a közeli parkolóban, hogy lerövidítsd az esőben megtett utat; a benti sportsikerek borús időben is inspirálóak lesznek.",
+                "ro": "Parcați în parcarea apropiată pentru a scurta drumul prin ploaie; succesele sportive din interior vă vor inspira și pe vreme rea.",
+                "en": "Park in the nearby lot to keep the walk in the rain short; the sporting achievements inside are inspiring even in gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "El Paso Museum of Art",
+                "hu": "El Paso Museum of Art",
+                "ro": "El Paso Museum of Art",
+                "en": "El Paso Museum of Art"
+              },
+              "tip_5lang": {
+                "de": "Rechnen Sie bei Regen mit längeren Wartezeiten an der Grenze; das Museum bietet nach der Fahrt eine wunderbare, trockene Atmosphäre.",
+                "hu": "Számolj hosszabb várakozási idővel a határon az eső miatt; a múzeum csodálatos, száraz környezetet kínál az autózás után.",
+                "ro": "Anticipați timpi mai mari de așteptare la graniță din cauza ploii; muzeul oferă o atmosferă minunată și uscată după drum.",
+                "en": "Expect longer wait times at the border due to the rain; the museum offers a wonderful, dry environment after your car journey."
+              }
+            },
+            {
+              "name": {
+                "de": "El Paso Museum of History",
+                "hu": "El Paso Museum of History",
+                "ro": "El Paso Museum of History",
+                "en": "El Paso Museum of History"
+              },
+              "tip_5lang": {
+                "de": "Parkhäuser in der Nähe sind ideal, um trocken ins Museum zu gelangen; die interaktive Digitalwand ist ein Highlight für regnerische Nachmittage.",
+                "hu": "A közeli parkolóházak ideálisak, hogy szárazon juss a múzeumba; az interaktív digitális fal remek szórakozás esős délutánokon.",
+                "ro": "Parcările etajate din apropiere sunt ideale pentru a ajunge uscat la muzeu; peretele digital interactiv este perfect pentru ploaie.",
+                "en": "Nearby parking garages are ideal for reaching the museum dry; the interactive digital wall is a highlight for rainy afternoons."
+              }
+            },
+            {
+              "name": {
+                "de": "El Paso Holocaust Museum",
+                "hu": "El Paso Holocaust Museum",
+                "ro": "El Paso Holocaust Museum",
+                "en": "El Paso Holocaust Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses wichtige Museum bietet einen stillen, geschützten Ort zur Reflexion, während draußen der Regen auf das Dach prasselt.",
+                "hu": "Ez a fontos múzeum csendes, védett helyet kínál az elmélkedésre, miközben kint az eső kopog a tetőn az este közeledtével.",
+                "ro": "Acest muzeu important oferă un spațiu liniștit și protejat pentru reflecție, în timp ce ploaia bate în geam la lăsarea serii.",
+                "en": "This important museum offers a quiet, sheltered space for reflection while the rain beats on the roof as evening approaches."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto ist der frostige Wüstenwinter gut zu meistern. Morgens starten wir im Chamizal Park. Mittags geht es zur Sport-Ruhmeshalle. Da die Sonne bereits um 17:00 Uhr untergeht, überqueren wir die Grenze frühzeitig für die Museen in El Paso. Der Abend endet in wohliger Wärme.",
+            "hu": "A fűtött autóban a fagyos sivatagi tél is könnyen elviselhető. Reggel a Chamizal parkban kezdünk. Délben a sport hírességek csarnoka felé vesszük az irányt. Mivel a nap 17:00-kor nyugszik, korán átlépünk a határon az el pasói múzeumokhoz. Az estét melegben zárjuk.",
+            "ro": "În mașina încălzită, iarna geroasă de deșert este ușor de parcurs. Dimineața începem în parcul Chamizal. La prânz mergem la muzeul sportului. Deoarece soarele apune la 17:00, trecem granița devreme pentru muzeele din El Paso. Seara se încheie la căldură.",
+            "en": "The heated car makes the frosty desert winter very manageable. We start at Chamizal Park in the morning. At noon, we head to the sports hall of fame. Since the sun sets at 17:00, we cross the border early for the El Paso museums. The evening ends in cozy warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Público Federal El Chamizal",
+                "hu": "Parque Público Federal El Chamizal",
+                "ro": "Parque Público Federal El Chamizal",
+                "en": "Parque Público Federal El Chamizal"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Winterlandschaft des Parks durch das Autofenster; steigen Sie nur kurz für Fotos bei den wichtigsten Monumenten aus.",
+                "hu": "Élvezd a park tágas téli táját az autó ablakából; csak rövid időre szállj ki fotózni a legfontosabb emlékműveknél a hidegben.",
+                "ro": "Bucurați-vă de peisajul vast de iarnă al parcului din mașină; coborâți doar scurt pentru fotografii la monumentele principale.",
+                "en": "Enjoy the park's vast winter landscape from your car window; only step out briefly for photos at the main monuments in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Salón de la fama del deportista juarense",
+                "hu": "Salón de la fama del deportista juarense",
+                "ro": "Salón de la fama del deportista juarense",
+                "en": "Salón de la fama del deportista juarense"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung Ihres Autos zwischen den Stopps; das Innere der Ruhmeshalle ist gut temperiert und bietet Schutz vor dem Wind.",
+                "hu": "Használd ki az autó fűtését a megállók között; a hírességek csarnokának belseje jól fűtött, és védelmet nyújt a téli szél ellen.",
+                "ro": "Folosiți încălzirea mașinii între opriri; interiorul muzeului sportului este bine încălzit și oferă protecție împotriva vântului.",
+                "en": "Make the most of your car's heater between stops; the interior of the hall of fame is well-tempered and offers shelter from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "El Paso Museum of Art",
+                "hu": "El Paso Museum of Art",
+                "ro": "El Paso Museum of Art",
+                "en": "El Paso Museum of Art"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie genügend Zeit für den Grenzübertritt ein, bevor die Sonne untergeht; das Museum ist im Winter ein warmer, einladender Ort.",
+                "hu": "Tervezz elegendő időt a határátlépésre, még mielőtt a nap lenyugodna; a múzeum télen is meleg és hívogató hely a látogatóknak.",
+                "ro": "Planificați suficient timp pentru trecerea graniței înainte de apus; muzeul este un loc cald și primitor în timpul iernii.",
+                "en": "Plan enough time for the border crossing before the sun sets; the museum is a warm and welcoming place during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "El Paso Museum of History",
+                "hu": "El Paso Museum of History",
+                "ro": "El Paso Museum of History",
+                "en": "El Paso Museum of History"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um die Winterkälte draußen zu lassen; die digitalen Ausstellungen sind perfekt für kühle Nachmittage.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz, hogy elkerüld a téli hideget; a digitális kiállítások tökéletesek a hűvös délutánokra.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita frigul iernii; expozițiile digitale sunt perfecte pentru amiezile răcoroase.",
+                "en": "Park as close as possible to the entrance to avoid the winter chill; the digital exhibitions are perfect for cool winter afternoons."
+              }
+            },
+            {
+              "name": {
+                "de": "El Paso Holocaust Museum",
+                "hu": "El Paso Holocaust Museum",
+                "ro": "El Paso Holocaust Museum",
+                "en": "El Paso Holocaust Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum schließt oft früh; beenden Sie Ihren Besuch vor Einbruch der Dunkelheit, wenn die Temperaturen in der Wüste stark sinken.",
+                "hu": "A múzeum gyakran korán zár; fejezd be a látogatást sötétedés előtt, amikor a sivatagi hőmérséklet hirtelen és jelentősen lecsökken.",
+                "ro": "Muzeul se închide adesea devreme; finalizați vizita înainte de lăsarea întunericului, când temperaturile din deșert scad brusc.",
+                "en": "The museum often closes early; finish your visit before dark, when the desert temperatures drop sharply and significantly."
+              }
+            }
+          ]
+        }
       }
     }
   }

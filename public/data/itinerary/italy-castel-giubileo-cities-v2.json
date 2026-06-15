@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a helyi modern közösségi élet felfedezésével a helyi plébánián. A délelőtt folyamán térjen vissza az időben, hogy megcsodálja a lenyűgöző római villaromokat és egy vaskori kunyhó alapjait. Délután tapasztalja meg egy kortárs templom spirituális csendjét, mielőtt a Castel Giubileo nagyszerű középkori romjainál fejezné be sétáját.",
         "ro": "Începeți ziua explorând viața parohiei moderne locale. Pe parcursul dimineții, faceți un salt în timp pentru a descoperi fascinantele ruine ale unei vile romane și ale unei colibe preistorice. După-amiaza, treceți la liniștea spirituală a unei biserici contemporane, înainte de a vă încheia călătoria la grandioasele rămășițe medievale ale Castelului Giubileo.",
         "en": "Start the day exploring modern neighborhood life at the lively parish. As the morning progresses, step back centuries in time to uncover fascinating ancient Roman villa ruins and the foundations of a proto-historic hut. By afternoon, transition to the spiritual quiet of a contemporary church before finishing your journey at the grand medieval remnants of Castel Giubileo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der Kirche, um dem ersten Regen zu entgehen. Mittags fordern die schlammigen Wege bei den Ruinen Ihre Aufmerksamkeit, aber die historische Atmosphäre ist im Nebel greifbar. Am Nachmittag bietet die rekonstruierte Hütte einen trockenen Zufluchtsort. Den Abend verbringen Sie geschützt in der Burg, während der Regen gegen die alten Mauern peitscht.",
+            "hu": "Reggel a templom védelmében kezdjük a napot a zápor elől. Délben a romoknál a sár nehezíti a haladást, de a ködös táj misztikus hangulatot áraszt. Délután a kunyhó nyújt menedéket a szakadó esőben, végül a vár falai között zárjuk a túrát. Az este folyamán keressük a fedett átjárókat és élvezzük a vizes aszfalton megcsillanó fényeket.",
+            "ro": "Începeți ziua în biserică pentru a evita prima ploaie. La prânz, potecile noroioase de lângă ruine necesită atenție, dar atmosfera istorică este palpabilă în ceață. După-amiaza, coliba oferă un adăpost uscat. Seara se petrece la adăpostul castelului, în timp ce ploaia bate în zidurile vechi, oferind o perspectivă dramatică asupra colinei.",
+            "en": "Start the day inside the church to escape the initial rain. At noon, the muddy paths near the ruins require focus, but the historical atmosphere is palpable in the mist. In the afternoon, the hut provides a dry sanctuary from the downpour. Spend the evening sheltered within the castle walls as the rain creates a dramatic backdrop over the Tiber valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Santa Felicita und die Märtyrersöhne",
+                "hu": "Szent Felicitász és Vértanú Fiai Templom",
+                "ro": "Biserica Sfânta Felicitas și Fiii Martiri",
+                "en": "Church of Santa Felicita and the Martyr Sons"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fresken im trockenen Innenraum, während es draußen regnet; halten Sie Ihren Regenschirm am Eingang bereit.",
+                "hu": "Csodálja meg a belső freskókat a száraz templomtérben, amíg kint esik; készítse elő esernyőjét a kijárathoz.",
+                "ro": "Admirați frescele în interiorul uscat în timp ce afară plouă; pregătiți umbrela la ieșirea spre restul traseului.",
+                "en": "Admire the interior frescoes in the dry church space while it rains outside; have your umbrella ready at the exit."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen der römischen Villa",
+                "hu": "Római villa romjai",
+                "ro": "Ruinele vilei romane",
+                "en": "Roman Villa Ruins"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Mauern wirken im Regen besonders düster; tragen Sie wasserfeste Schuhe wegen des matschigen Untergrunds.",
+                "hu": "Az ősi falak esőben különösen drámai látványt nyújtanak; viseljen vízálló cipőt a saras talaj miatt a területen.",
+                "ro": "Zidurile antice par dramatice sub ploaie; purtați încălțăminte impermeabilă din cauza terenului noroios din sit.",
+                "en": "The ancient walls look particularly dramatic in the rain; wear waterproof shoes due to the muddy ground in the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Protohistorische Hütte",
+                "hu": "Vaskori kunyhó",
+                "ro": "Coliba preistorică",
+                "en": "Proto-historic Hut"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das rekonstruierte Dach als Unterstand während eines Schauers; beobachten Sie, wie das Wasser vom Stroh abläuft.",
+                "hu": "Használja a rekonstruált tetőt menedékként egy zápor alatt; figyelje meg, hogyan vezeti le a vizet a nádfedél.",
+                "ro": "Folosiți acoperișul reconstituit ca adăpost în timpul unei averse; observați cum se scurge apa de pe stuful colibei.",
+                "en": "Use the reconstructed roof as shelter during a shower; observe how the thatched roof naturally drains the rainwater."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Giovanni della Croce",
+                "hu": "Keresztes Szent János Templom",
+                "ro": "Biserica Sfântul Ioan al Crucii",
+                "en": "Church of San Giovanni della Croce"
+              },
+              "tip_5lang": {
+                "de": "Dieser moderne Raum ist ideal, um sich nach dem Fußmarsch abzutrocknen; genießen Sie die Stille fernab des prasselnden Regens.",
+                "hu": "Ez a modern tér ideális a megszáradáshoz a gyaloglás után; élvezze a csendet távol a kopogó esőtől.",
+                "ro": "Acest spațiu modern este ideal pentru a vă usca după mersul pe jos; bucurați-vă de liniște departe de ploaie.",
+                "en": "This modern space is ideal for drying off after your walk; enjoy the silence away from the pattering rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Castel Giubileo",
+                "hu": "Castel Giubileo",
+                "ro": "Castelul Giubileo",
+                "en": "Castel Giubileo"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf den Tiber ist auch bei grauem Himmel spektakulär; suchen Sie Schutz unter den massiven Torbögen.",
+                "hu": "A kilátás a Tiberisre borús égbolt mellett is lenyűgöző; keressen menedéket a masszív kapualjak és boltívek alatt.",
+                "ro": "Vederea spre Tibru este spectaculoasă chiar și sub cerul gri; căutați adăpost sub arcadele masive ale porților.",
+                "en": "The view over the Tiber is spectacular even under grey skies; seek shelter under the massive gateways and arches."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kalte Wintermorgen beginnt in der Wärme der Kirche Santa Felicita. Mittags bietet die offene Landschaft der Ruinen einen weiten Blick unter der tiefstehenden Sonne, aber der Wind kann beißend sein. Der Nachmittag führt durch die kühle Luft zur Burg. Da es bereits gegen 17:00 Uhr dunkel wird, endet der Tag früh mit einem stimmungsvollen Blick auf die Lichter von Rom.",
+            "hu": "A hideg téli reggel a Santa Felicita templom melegében indul. Délben a romok nyílt terepén a szél metsző lehet, de a téli napfényben messzire ellátni. Délután a kunyhó és a vár felé vesszük az irányt a friss levegőn. Mivel 17:00 körül sötétedik, a napot korán zárjuk, élvezve a dombtetőről feltáruló esti fényeket.",
+            "ro": "Dimineața rece de iarnă începe în căldura bisericii Santa Felicita. La prânz, peisajul deschis al ruinelor oferă vederi largi sub soarele palid, dar vântul poate fi tăios. După-amiaza duce prin aerul rece spre castel. Deoarece se întunecă în jurul orei 17:00, ziua se termină devreme cu o vedere atmosferică asupra luminilor Romei.",
+            "en": "The cold winter morning starts in the warmth of Santa Felicita church. At noon, the open landscape of the ruins offers wide views under the low sun, but the wind can be biting. The afternoon leads through the crisp air toward the castle. As it gets dark around 17:00, the day ends early with an atmospheric view of Rome's lights from the hilltop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Santa Felicita und die Märtyrersöhne",
+                "hu": "Szent Felicitász és Vértanú Fiai Templom",
+                "ro": "Biserica Sfânta Felicitas și Fiii Martiri",
+                "en": "Church of Santa Felicita and the Martyr Sons"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern eine gewisse Grundwärme; nutzen Sie den ruhigen Morgen für eine Besichtigung ohne die Sommerhitze.",
+                "hu": "A vastag falak megtartanak némi alaphőt; használja ki a csendes reggelt a látogatásra a nyári hőség nélkül.",
+                "ro": "Zidurile groase păstrează o anumită căldură de bază; profitați de dimineața liniștită pentru vizită fără arșița verii.",
+                "en": "The thick walls retain some base warmth; take advantage of the quiet morning for a visit without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen der römischen Villa",
+                "hu": "Római villa romjai",
+                "ro": "Ruinele vilei romane",
+                "en": "Roman Villa Ruins"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, da die Ruinen auf einer Anhöhe liegen; die tiefstehende Sonne betont die Textur der alten Steine.",
+                "hu": "Viseljen szélálló ruházatot, mivel a romok dombtetőn vannak; az alacsony napállás kiemeli az ősi kövek textúráját.",
+                "ro": "Purtați haine rezistente la vânt, deoarece ruinele sunt pe deal; soarele jos subliniază textura pietrelor antice.",
+                "en": "Wear windproof clothing as the ruins are on a hilltop; the low winter sun highlights the texture of the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Protohistorische Hütte",
+                "hu": "Vaskori kunyhó",
+                "ro": "Coliba preistorică",
+                "en": "Proto-historic Hut"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich vor, wie die Ureinwohner hier im Winter überlebten; verbringen Sie nur kurz Zeit im unbedachten Außenbereich.",
+                "hu": "Képzelje el, hogyan éltek itt az őslakosok télen; csak rövid időt töltsön a fedetlen kültéri részeken a hideg miatt.",
+                "ro": "Imaginați-vă cum supraviețuiau aici localnicii iarna; petreceți doar puțin timp în zonele exterioare din cauza frigului.",
+                "en": "Imagine how the early inhabitants survived here in winter; spend only a short time in unroofed areas due to the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Giovanni della Croce",
+                "hu": "Keresztes Szent János Templom",
+                "ro": "Biserica Sfântul Ioan al Crucii",
+                "en": "Church of San Giovanni della Croce"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Heizung macht diesen Ort zu einem idealen Aufwärmstopp; genießen Sie das bunte Licht der Glasfenster.",
+                "hu": "A modern fűtés ideális felmelegedési ponttá teszi ezt a helyet; élvezze az üvegablakokon beszűrődő színes fényeket.",
+                "ro": "Încălzirea modernă face din acest loc un punct ideal de încălzire; bucurați-vă de lumina colorată a vitraliilor.",
+                "en": "The modern heating makes this an ideal warming-up spot; enjoy the colorful light filtering through the glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Castel Giubileo",
+                "hu": "Castel Giubileo",
+                "ro": "Castelul Giubileo",
+                "en": "Castel Giubileo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang gegen 16:45 Uhr vom Hügel aus; die klare Winterluft bietet die weiteste Fernsicht des Jahres.",
+                "hu": "Nézze meg a naplementét 16:45 körül a dombról; a tiszta téli levegő biztosítja az év legtávolabbi kilátását.",
+                "ro": "Urmăriți apusul în jurul orei 16:45 de pe deal; aerul curat de iarnă oferă cea mai bună vizibilitate la distanță din an.",
+                "en": "Watch the sunset around 16:45 from the hill; the clear winter air provides the farthest visibility of the year."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen át a történelmen egy lenyűgöző ókori ciszterna megtekintésével indulva. Ahogy észak felé halad, fedezze fel a területen szétszórt római régészeti leleteket. Délben megérkezik a Castel Giubileo impozáns magaslataira, majd az ikonikus hídon át egy titokzatos ókori mauzóleumnál fejezi be ezt a felejthetetlen kétkerekes kirándulást.",
         "ro": "Pedalați prin istorie, începând cu o impresionantă cisternă antică. Pe măsură ce mergeți spre nord, explorați remarcabile vestigii arheologice romane. La prânz, ajungeți pe înălțimile impunătoare ale Castelului Giubileo, urmate de o plimbare revigorantă pe podul iconic și o oprire finală memorabilă la un mausoleu antic enigmatic de lângă râu.",
         "en": "Pedal through history starting with an impressive ancient Roman cistern. As you cycle north, explore remarkable proto-historic and Roman archaeological remains scattered across the area. Midday brings you to the imposing heights of Castel Giubileo, before an exhilarating ride across the iconic bridge and a final, memorable stop at an enigmatic ancient mausoleum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig auf den nassen Straßen zur Zisterne. Mittags sind die Wege zu den Ruinen schlammig, was eine gute Beherrschung des Fahrrads erfordert. Ein kurzer Stopp bei der Burg bietet Schutz, bevor Sie die Tiberbrücke überqueren. Achten Sie auf rutschiges Kopfsteinpflaster in den Kurven und planen Sie mehr Zeit für die Bremswege ein.",
+            "hu": "Óvatosan tekerjen a vizes utakon a ciszternáig. Délben a romokhoz vezető utak sarasak, ami jó kerékpáros ügyességet igényel. Egy rövid megálló a várnál menedéket nyújt, mielőtt átkelne a Tiberis hídján. Figyeljen a csúszós macskakövekre a kanyarokban, és tervezzen hosszabb féktávokat az esőben.",
+            "ro": "Pedalați cu atenție pe drumurile ude spre cisternă. La prânz, potecile spre ruine sunt noroioase, necesitând stăpânire bună a bicicletei. O oprire scurtă la castel oferă adăpost înainte de a traversa podul peste Tibru. Atenție la pavajul alunecos în curbe și planificați distanțe de frânare mai mari.",
+            "en": "Cycle carefully on wet roads towards the cistern. At noon, paths to the ruins are muddy, requiring good bike handling skills. A short stop at the castle provides shelter before crossing the Tiber bridge. Watch out for slippery cobblestones in curves and allow for longer braking distances in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Römische Zisterne der Villa Spada",
+                "hu": "Villa Spada római ciszterna",
+                "ro": "Cisterna romană de la Villa Spada",
+                "en": "Roman Cistern at Villa Spada"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdische Lage bietet perfekten Schutz vor plötzlichen Schauern; stellen Sie Ihr Rad an einem überdachten Ort ab.",
+                "hu": "A föld alatti elhelyezkedés tökéletes védelmet nyújt a záporok elől; parkolja le kerékpárját egy fedett részen.",
+                "ro": "Locația subterană oferă protecție perfectă împotriva averselor; parcați bicicleta într-un loc acoperit.",
+                "en": "The underground location offers perfect protection from sudden showers; park your bike in a covered spot nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Protohistorische Hütte",
+                "hu": "Vaskori kunyhó",
+                "ro": "Coliba preistorică",
+                "en": "Proto-historic Hut"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit dem Rad direkt auf das Gelände zu fahren, da der Boden aufweicht; nutzen Sie die Hütte als kurzen Rastplatz.",
+                "hu": "Kerülje a behajtást közvetlenül a területre, mert a talaj felázott; használja a kunyhót rövid pihenőhelyként az esőben.",
+                "ro": "Evitați să intrați cu bicicleta direct pe teren, deoarece solul este moale; folosiți coliba ca scurt loc de odihnă.",
+                "en": "Avoid cycling directly onto the site as the ground is soaked; use the hut as a quick resting spot away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen der römischen Villa",
+                "hu": "Római villa romjai",
+                "ro": "Ruinele vilei romane",
+                "en": "Roman Villa Ruins"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Nässe rutschig sein; schieben Sie Ihr Fahrrad das letzte Stück, um Stürze auf dem Gras zu vermeiden.",
+                "hu": "A feljáró vizesen csúszós lehet; tolja a kerékpárt az utolsó szakaszon, hogy elkerülje az elesést a füves részeken.",
+                "ro": "Urcarea poate fi alunecoasă pe timp ploios; împingeți bicicleta pe ultima porțiune pentru a evita căzăturile pe iarbă.",
+                "en": "The access path can be slippery when wet; push your bike on the final stretch to avoid falls on the grassy areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Castel Giubileo",
+                "hu": "Castel Giubileo",
+                "ro": "Castelul Giubileo",
+                "en": "Castel Giubileo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Mauern als Wind- und Regenschutz für eine Pause; prüfen Sie Ihre Bremsbeläge vor der Abfahrt.",
+                "hu": "Használja a masszív falakat szél- és esővédelemként a pihenőhöz; ellenőrizze a fékbetéteket a lejtő előtt.",
+                "ro": "Folosiți zidurile masive ca protecție împotriva vântului și ploii; verificați plăcuțele de frână înainte de coborâre.",
+                "en": "Use the massive walls as wind and rain protection for a break; check your brake pads before the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Brücke von Castel Giubileo",
+                "hu": "Castel Giubileo híd",
+                "ro": "Podul Castel Giubileo",
+                "en": "Castel Giubileo Bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Metallboden der Brücke kann extrem glatt sein; fahren Sie langsam und vermeiden Sie hastiges Lenken.",
+                "hu": "A híd fémfelülete rendkívül csúszós lehet; haladjon lassan, és kerülje a hirtelen kormánymozdulatokat.",
+                "ro": "Suprafața metalică a podului poate fi extrem de alunecoasă; circulați încet și evitați virajele bruște.",
+                "en": "The bridge's surface can be extremely slick; ride slowly and avoid sudden steering movements over the metal joints."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Mausoleum",
+                "hu": "Ókori mauzóleum",
+                "ro": "Mausoleul Antic",
+                "en": "Ancient Mausoleum"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die Struktur zu bewundern; tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit im Verkehr.",
+                "hu": "Egy rövid megálló elég a szerkezet megcsodálásához; viseljen élénk esőruhát a jobb láthatóságért a forgalomban.",
+                "ro": "O oprire scurtă e suficientă pentru a admira structura; purtați haine reflectorizante pentru vizibilitate în trafic.",
+                "en": "A short stop is enough to admire the structure; wear high-visibility rain gear for safety in the traffic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie gut eingepackt in die winterliche Radtour. Die kalte Luft bei der Zisterne weckt die Lebensgeister, während die Mittagssonne die Ruinen in warmes Licht taucht. Nachmittags fordern die Anstiege zur Burg Ihre Kondition und halten Sie warm. Beenden Sie die Tour beim Mausoleum, bevor die Kälte nach Sonnenuntergang um 17:00 Uhr spürbar anzieht.",
+            "hu": "Kezdje jól felöltözve a téli kerékpártúrát. A hideg levegő a ciszternánál felfrissít, míg a déli napsütés meleg fénybe vonja a romokat. Délután a vár felé vezető emelkedők megizzasztják, ami segít a testhő megőrzésében. Fejezze be a túrát a mauzóleumnál, mielőtt a naplemente utáni hideg 17:00-kor beköszönt.",
+            "ro": "Începeți tura de iarnă bine echipat. Aerul rece de la cisternă vă va înviora, în timp ce soarele de prânz scaldă ruinele în lumină caldă. După-amiaza, urcările spre castel vă vor solicita și vă vor ține cald. Încheiați tura la mausoleu înainte ca frigul de după apus să se simtă la ora 17:00.",
+            "en": "Start your winter bike tour well-dressed. The crisp air at the cistern will wake you up, while the midday sun bathes the ruins in warm light. In the afternoon, the climbs toward the castle will keep you warm through exertion. Finish the tour at the mausoleum before the post-sunset chill sets in at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Römische Zisterne der Villa Spada",
+                "hu": "Villa Spada római ciszterna",
+                "ro": "Cisterna romană de la Villa Spada",
+                "en": "Roman Cistern at Villa Spada"
+              },
+              "tip_5lang": {
+                "de": "Die Temperatur unter der Erde ist oft milder als draußen; nutzen Sie den Stopp, um Ihre Handschuhe kurz auszuziehen.",
+                "hu": "A föld alatti hőmérséklet gyakran enyhébb, mint kint; használja ki a megállót, hogy rövid időre levegye a kesztyűjét.",
+                "ro": "Temperatura subterană este adesea mai blândă decât afară; folosiți oprirea pentru a vă scoate puțin mănușile.",
+                "en": "The underground temperature is often milder than outside; take the chance to briefly take off your gloves here."
+              }
+            },
+            {
+              "name": {
+                "de": "Protohistorische Hütte",
+                "hu": "Vaskori kunyhó",
+                "ro": "Coliba preistorică",
+                "en": "Proto-historic Hut"
+              },
+              "tip_5lang": {
+                "de": "Die hölzerne Struktur wirkt im Winterfrost besonders archaisch; bleiben Sie in Bewegung, um nicht auszukühlen.",
+                "hu": "A faszerkezet a téli fagyban különösen archaikusnak hat; maradjon mozgásban a kunyhó körül, hogy ne hűljön ki.",
+                "ro": "Structura de lemn pare deosebit de arhaică în gerul iernii; rămâneți în mișcare pentru a nu vă răci corpul.",
+                "en": "The wooden structure looks especially archaic in the winter frost; keep moving around the hut to maintain body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen der römischen Villa",
+                "hu": "Római villa romjai",
+                "ro": "Ruinele vilei romane",
+                "en": "Roman Villa Ruins"
+              },
+              "tip_5lang": {
+                "de": "Das verdorrte Wintergras gibt den Blick auf verborgene Fundamente frei; achten Sie auf glatte Stellen auf den Wegen.",
+                "hu": "A kiszáradt téli fű láthatóvá teszi a rejtett alapfalakat; ügyeljen a jeges vagy csúszós foltokra az ösvényeken.",
+                "ro": "Iarba uscată de iarnă lasă la vedere fundațiile ascunse; atenție la porțiunile înghețate de pe poteci.",
+                "en": "The withered winter grass reveals hidden foundations; watch out for icy or slippery patches on the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Castel Giubileo",
+                "hu": "Castel Giubileo",
+                "ro": "Castelul Giubileo",
+                "en": "Castel Giubileo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie eine sonnige Stelle an der Burgmauer für eine kurze Trinkpause; die klare Sicht reicht bis zu den Sabiner Bergen.",
+                "hu": "Keressen egy napos helyet a várfalnál egy rövid ital szünethez; a tiszta kilátás egészen a Sabini-hegyekig ellát.",
+                "ro": "Căutați un loc însorit lângă zidul castelului pentru o scurtă pauză; vederea clară ajunge până la Munții Sabini.",
+                "en": "Find a sunny spot by the castle wall for a short hydration break; the clear view reaches all the way to the Sabine Hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Brücke von Castel Giubileo",
+                "hu": "Castel Giubileo híd",
+                "ro": "Podul Castel Giubileo",
+                "en": "Castel Giubileo Bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann sehr kalt sein; ziehen Sie Ihren Halsschutz hoch, bevor Sie den Fluss überqueren.",
+                "hu": "A szél a hídon nagyon hideg lehet; húzza fel a nyakvédőjét, mielőtt átkelne a folyó felett.",
+                "ro": "Vântul pe pod poate fi foarte rece; ridicați protecția pentru gât înainte de a traversa râul.",
+                "en": "The wind on the bridge can be very cold; pull up your neck warmer before crossing over the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Mausoleum",
+                "hu": "Ókori mauzóleum",
+                "ro": "Mausoleul Antic",
+                "en": "Ancient Mausoleum"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihre Fahrradbeleuchtung frühzeitig ein; die Dämmerung setzt im Dezember bereits vor 17:00 Uhr ein.",
+                "hu": "Kapcsolja be korán a kerékpáros lámpákat; a szürkület decemberben már 17:00 előtt beköszönt.",
+                "ro": "Aprindeți luminile bicicletei din timp; amurgul se lasă în decembrie deja înainte de ora 17:00.",
+                "en": "Turn on your bike lights early; dusk sets in before 17:00 in December, making visibility essential."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje a napot a római templom lenyűgöző építészetével és modern külvárosi templomokkal. A délután folyamán a távolabbi történelem felé halad, meglátogatva egy helyi parkban elrejtett ókori római ciszternát. Végül vezessen a Tiberis felé, hogy felfedezze a Castel Giubileo parancsnoki várát és egy folyóparti mauzóleumot.",
         "ro": "Începeți cu arhitectura templului din Roma și o serie de biserici suburbane moderne unice. După-amiaza face o tranziție lină către istoria antică, aducându-vă la o cisternă romană ascunsă într-un parc. În cele din urmă, conduceți spre Tibru pentru a explora fortăreața medievală Castel Giubileo și un mausoleu impunător situat pe malul râului.",
         "en": "Begin with the striking architecture of the Rome Italy Temple and a series of unique modern suburban churches. The afternoon smoothly transitions into deep history, bringing you to an ancient Roman cistern hidden in a local park. Finally, drive towards the Tiber river to explore the commanding medieval fortress of Castel Giubileo and an imposing riverside mausoleum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Tour im trockenen Auto, beginnend beim Tempel. Mittags besuchen Sie die Kirchen des Viertels, die idealen Schutz vor den Regengüssen bieten. Die Fahrt zur Zisterne und zur Burg ist komfortabel, auch wenn die Sicht durch die nassen Scheiben eingeschränkt sein kann. Parken Sie stets nah an den Eingängen, um die Gehwege im Regen kurz zu halten.",
+            "hu": "Élvezze a túrát a száraz autóban, a templomnál kezdve. Délben a negyed templomait látogatjuk meg, amelyek ideális védelmet nyújtanak a záporok elől. Az autóút a ciszternához és a várhoz kényelmes, még ha a látási viszonyok korlátozottak is a vizes szélvédő miatt. Parkoljon mindig közel a bejáratokhoz, hogy rövidre fogja a sétát az esőben.",
+            "ro": "Bucurați-vă de tur în mașina uscată, începând de la templu. La prânz, vizitați bisericile cartierului, care oferă protecție ideală împotriva ploii. Drumul spre cisternă și castel este confortabil, chiar dacă vizibilitatea este redusă. Parcați întotdeauna aproape de intrări pentru a scurta mersul pe jos prin ploaie.",
+            "en": "Enjoy the tour from the comfort of your dry car, starting at the temple. At noon, visit the neighborhood churches, which provide ideal shelter from the downpours. The drive to the cistern and the castle is comfortable, even if visibility is limited by wet windows. Always park close to the entrances to keep walking stretches in the rain short."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rom-Tempel in Italien",
+                "hu": "Római Olaszország Templom",
+                "ro": "Templul din Roma, Italia",
+                "en": "Rome Italy Temple"
+              },
+              "tip_5lang": {
+                "de": "Das weitläufige Gelände ist im Regen sehr ruhig; nutzen Sie den großen Parkplatz direkt am Eingang des Besucherzentrums.",
+                "hu": "A tágas terület esőben nagyon csendes; használja a látogatóközpont bejáratánál lévő nagy parkolót.",
+                "ro": "Incinta spațioasă este foarte liniștită pe ploaie; folosiți parcarea mare de la intrarea centrului pentru vizitatori.",
+                "en": "The spacious grounds are very quiet in the rain; use the large parking lot right at the visitor center entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sant'Alberto Magno",
+                "hu": "Nagy Szent Albert Templom",
+                "ro": "Biserica Sfântul Albert cel Mare",
+                "en": "Church of Sant'Alberto Magno"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner, heller Innenraum, der auch an grauen Regentagen einladend wirkt; achten Sie auf Pfützen auf dem Parkplatz.",
+                "hu": "Modern, világos belső tér, amely borús esős napokon is hívogató; ügyeljen a tócsákra a templom melletti parkolóban.",
+                "ro": "Un interior modern și luminos, primitor chiar și în zilele gri; atenție la bălțile din parcarea de lângă biserică.",
+                "en": "A modern, bright interior that remains inviting even on grey rainy days; watch out for puddles in the nearby parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria della Speranza",
+                "hu": "A Reménység Szűz Máriája Templom",
+                "ro": "Biserica Sfânta Maria a Speranței",
+                "en": "Church of Santa Maria della Speranza"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause während eines starken Schauers; der Zugang von der Straße ist kurz und unkompliziert.",
+                "hu": "Csendes hely egy pihenőre egy erős zápor alatt; az utcáról való bejutás rövid és egyszerű, alig kell áznia.",
+                "ro": "Un loc liniștit pentru o pauză în timpul unei averse puternice; accesul de la stradă este scurt și simplu.",
+                "en": "A quiet place for a break during a heavy shower; the access from the street is short and straightforward."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sant'Ugo",
+                "hu": "Szent Hugó Templom",
+                "ro": "Biserica Sfântul Ugo",
+                "en": "Church of Sant'Ugo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur vom Trockenen aus; nutzen Sie die Zeit für eine Innenbesichtigung, bis der Regen nachlässt.",
+                "hu": "Csodálja meg a modern építészetet a szárazból; használja az időt belső látogatásra, amíg alábbhagy az eső.",
+                "ro": "Admirați arhitectura modernă la adăpost; folosiți timpul pentru o vizită interioară până când ploaia se mai potolește.",
+                "en": "Admire the modern architecture from the dry interior; use the time for an indoor visit until the rain eases up."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Felicita und die Märtyrersöhne",
+                "hu": "Szent Felicitász és Vértanú Fiai Templom",
+                "ro": "Biserica Sfânta Felicitas și Fiii Martiri",
+                "en": "Church of Santa Felicita and the Martyr Sons"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche ist ein Juwel bei schlechtem Wetter; parken Sie vorsichtig in den engen Gassen der Umgebung.",
+                "hu": "A kis templom igazi ékszerdoboz rossz időben; parkoljon óvatosan a környék szűkebb utcáiban az eső miatt.",
+                "ro": "Mica biserică este o bijuterie pe vreme rea; parcați cu atenție pe străzile înguste din jur din cauza ploii.",
+                "en": "The small church is a gem in bad weather; park carefully in the narrow surrounding streets during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Zisterne der Villa Spada",
+                "hu": "Villa Spada római ciszterna",
+                "ro": "Cisterna romană de la Villa Spada",
+                "en": "Roman Cistern at Villa Spada"
+              },
+              "tip_5lang": {
+                "de": "Ein absolut wetterfester Stopp, da die Besichtigung unterirdisch stattfindet; die Luftfeuchtigkeit im Inneren ist bei Regen hoch.",
+                "hu": "Teljesen időjárásálló megálló, mivel a látogatás a föld alatt zajlik; esőben a benti páratartalom magasabb lehet.",
+                "ro": "O oprire complet protejată de vreme, vizita fiind subterană; umiditatea interioară poate fi mai ridicată pe ploaie.",
+                "en": "A completely weather-proof stop as the visit is underground; the humidity inside might be higher when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Castel Giubileo",
+                "hu": "Castel Giubileo",
+                "ro": "Castelul Giubileo",
+                "en": "Castel Giubileo"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Burg ist bei Regen steil und kurvig; genießen Sie das Panorama sicher aus dem Auto, falls es zu stark regnet.",
+                "hu": "A vár felé vezető út esőben meredek és kanyargós; élvezze a panorámát az autóból, ha túl erősen esne.",
+                "ro": "Drumul spre castel este abrupt și sinuos pe ploaie; bucurați-vă de panoramă din mașină dacă plouă prea tare.",
+                "en": "The road to the castle is steep and winding in the rain; enjoy the panorama from your car if it rains too heavily."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Mausoleum",
+                "hu": "Ókori mauzóleum",
+                "ro": "Mausoleul Antic",
+                "en": "Ancient Mausoleum"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Bauwerk im Vorbeifahren oder bei einem kurzen Halt; die Straßenbeleuchtung spiegelt sich malerisch im nassen Asphalt.",
+                "hu": "Tekintse meg az építményt elhaladva vagy egy rövid megállóval; az utcai fények festőien tükröződnek a vizes aszfalton.",
+                "ro": "Vedeți structura din mers sau la o oprire scurtă; luminile stradale se reflectă pitoresc pe asfaltul ud.",
+                "en": "View the structure while passing or with a short stop; streetlights reflect picturesquely on the wet asphalt."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt beim strahlend weißen Tempel. Mittags klappern Sie die modernen Kirchen ab, deren Heizsysteme für wohlige Wärme sorgen. Die Fahrt auf den Hügel von Castel Giubileo bietet bei klarer Winterluft die besten Fotomotive. Da die Sonne früh untergeht, planen Sie die Burgbesichtigung vor 16:30 Uhr ein, um den Ausblick im Tageslicht zu genießen.",
+            "hu": "A téli autós túra a ragyogó fehér templomnál kezdődik. Délben sorra vesszük a modern templomokat, amelyek fűtése kellemes meleget nyújt. Az út a Castel Giubileo dombjára a tiszta téli levegőben a legjobb fotótémákat kínálja. Mivel a nap korán nyugszik, tervezze a vár látogatását 16:30 előttre a nappali fényekért.",
+            "ro": "Turul de iarnă cu mașina începe la templul alb strălucitor. La prânz, vizitați bisericile moderne, ale căror sisteme de încălzire oferă căldură plăcută. Drumul spre dealul Castel Giubileo oferă cele mai bune oportunități foto în aerul clar. Deoarece soarele apune devreme, planificați vizita la castel înainte de 16:30.",
+            "en": "The winter car tour starts at the brilliant white temple. At noon, visit the modern churches where heating systems provide cozy warmth. The drive up the hill of Castel Giubileo offers the best photo opportunities in the clear winter air. As the sun sets early, plan your castle visit before 16:30 to enjoy the daylight views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rom-Tempel in Italien",
+                "hu": "Római Olaszország Templom",
+                "ro": "Templul din Roma, Italia",
+                "en": "Rome Italy Temple"
+              },
+              "tip_5lang": {
+                "de": "Das weiße Marmorgestein wirkt im harten Winterlicht besonders edel; die Gartenanlagen sind auch im Winter gepflegt.",
+                "hu": "A fehér márvány a kemény téli fényben különösen nemes hatást kelt; a kertek télen is gondozottak és szépek.",
+                "ro": "Marmura albă pare deosebit de nobilă în lumina aspră de iarnă; grădinile sunt îngrijite și frumoase chiar și acum.",
+                "en": "The white marble looks especially noble in the crisp winter light; the gardens remain well-kept and beautiful even now."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sant'Alberto Magno",
+                "hu": "Nagy Szent Albert Templom",
+                "ro": "Biserica Sfântul Albert cel Mare",
+                "en": "Church of Sant'Alberto Magno"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze Meditation am Vormittag; die großen Fenster lassen die spärliche Wintersonne gut herein.",
+                "hu": "Meleg hely egy rövid délelőtti meditációhoz; a nagy ablakok jól beeresztik a kevés téli napsütést is.",
+                "ro": "Un loc cald pentru o scurtă meditație de dimineață; ferestrele mari lasă să intre bine puținul soare de iarnă.",
+                "en": "A warm spot for a brief morning meditation; the large windows let in plenty of the sparse winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria della Speranza",
+                "hu": "A Reménység Szűz Máriája Templom",
+                "ro": "Biserica Sfânta Maria a Speranței",
+                "en": "Church of Santa Maria della Speranza"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum, um sich aufzuwärmen; die Akustik ist im Winter bei weniger Besuchern besonders klar.",
+                "hu": "Használja a fűtött belső teret a felmelegedéshez; az akusztika télen, kevesebb látogató mellett, különösen tiszta.",
+                "ro": "Folosiți interiorul încălzit pentru a vă încălzi; acustica este deosebit de clară iarna, cu mai puțini vizitatori.",
+                "en": "Use the heated interior to warm up; the acoustics are particularly clear in winter with fewer visitors around."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sant'Ugo",
+                "hu": "Szent Hugó Templom",
+                "ro": "Biserica Sfântul Ugo",
+                "en": "Church of Sant'Ugo"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im klaren Winterlicht fast skulptural; wärmen Sie sich kurz auf, bevor Sie zum Hügel weiterfahren.",
+                "hu": "Az építészet szinte szoborszerű a tiszta téli fényben; melegedjen fel röviden, mielőtt továbbhajtana a domb felé.",
+                "ro": "Arhitectura pare aproape sculpturală în lumina clară de iarnă; încălziți-vă scurt înainte de a continua spre deal.",
+                "en": "The architecture looks almost sculptural in the clear winter light; warm up briefly before driving on towards the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Felicita und die Märtyrersöhne",
+                "hu": "Szent Felicitász és Vértanú Fiai Templom",
+                "ro": "Biserica Sfânta Felicitas și Fiii Martiri",
+                "en": "Church of Santa Felicita and the Martyr Sons"
+              },
+              "tip_5lang": {
+                "de": "Ein charmanter Stopp im historischen Kern; die tiefstehende Sonne sorgt für lange Schatten in den Gassen.",
+                "hu": "Bájos megálló a történelmi magban; az alacsonyan járó nap hosszú árnyékokat vet a szűk utcákban.",
+                "ro": "O oprire fermecătoare în nucleul istoric; soarele jos proiectează umbre lungi pe străzile înguste.",
+                "en": "A charming stop in the historical core; the low winter sun casts long, atmospheric shadows in the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Zisterne der Villa Spada",
+                "hu": "Villa Spada római ciszterna",
+                "ro": "Cisterna romană de la Villa Spada",
+                "en": "Roman Cistern at Villa Spada"
+              },
+              "tip_5lang": {
+                "de": "Die konstante Erdwärme macht diesen Ort im Winter angenehm; parken Sie das Auto sicher am Straßenrand.",
+                "hu": "A konstans földhő miatt ez a hely télen kellemes; parkoljon le biztonságosan az út szélén a látogatáshoz.",
+                "ro": "Căldura constantă a pământului face acest loc plăcut iarna; parcați mașina în siguranță la marginea drumului.",
+                "en": "The constant ground heat makes this place pleasant in winter; park your car safely at the roadside for the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Castel Giubileo",
+                "hu": "Castel Giubileo",
+                "ro": "Castelul Giubileo",
+                "en": "Castel Giubileo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fernsicht bis zum Monte Soratte; bleiben Sie bei starkem Wind für den Ausblick lieber im Auto.",
+                "hu": "Élvezze a messzire nyúló kilátást egészen a Soratte-hegyig; erős szél esetén inkább az autóból nézelődjön.",
+                "ro": "Bucurați-vă de vederea până la Muntele Soratte; în caz de vânt puternic, admirați priveliștea din mașină.",
+                "en": "Enjoy the far-reaching view all the way to Mount Soratte; in case of strong winds, stay in the car for the vista."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Mausoleum",
+                "hu": "Ókori mauzóleum",
+                "ro": "Mausoleul Antic",
+                "en": "Ancient Mausoleum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier bei Einbruch der Dunkelheit; die antike Ruine ist im Scheinwerferlicht des Verkehrs gut sichtbar.",
+                "hu": "Fejezze be itt a túrát sötétedéskor; az ősi rom jól látható a forgalom fényeiben az út mellett.",
+                "ro": "Încheiați turul aici la lăsarea întunericului; ruina antică este bine vizibilă în luminile traficului.",
+                "en": "Finish your tour here at nightfall; the ancient ruin is clearly visible in the headlights of the passing traffic."
+              }
+            }
+          ]
+        }
       }
     }
   }

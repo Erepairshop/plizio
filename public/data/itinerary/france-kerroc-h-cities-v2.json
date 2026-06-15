@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Kerroc'h-ban egy időutazással a lenyűgöző Menhir de Kerroc'h-nál. A hűvös reggeli szellő ezután az Ar Roc'h történelmi helyszínéhez kíséri, ahol az ősi kövek mesélnek.\n\nDélben sétáljon tovább Caudric felé, hogy elmerüljön a régió mélyebb múltjában. Az itteni ösvények csendesek és tökéletes hátteret biztosítanak egy pihentető, elmélyült sétához a természetben.\n\nA délután a Plage du Pérello partjára vezeti. Élvezze a hullámok zúgását, mielőtt elérné a part közelében fenségesen magasodó Menhir du Fort du Talut ősi kőoszlopát.\n\nE csodálatos nap lezárásaként látogasson el a Chapelle Notre-Dame de la Garde kápolnába. A lemenő nap lágy fényében ez a hitnek szentelt hely különleges, békés atmoszférát sugároz mindenki számára.",
         "ro": "Începeți ziua în Kerroc'h cu o călătorie în timp la impresionantul Menhir de Kerroc'h. Briza răcoroasă a dimineții vă însoțește apoi spre situl istoric Ar Roc'h, unde pietrele vechi spun povești.\n\nLa prânz, mergeți spre Caudric pentru a vă scufunda în trecutul mai profund al regiunii. Potecile de aici sunt liniștite și oferă un cadru perfect pentru o plimbare relaxantă și contemplativă.\n\nDupă-amiaza vă poartă spre Plage du Pérello. Bucurați-vă de sunetul valurilor înainte de a ajunge la Menhir du Fort du Talut, care se înalță maiestuos în apropierea coastei stâncoase.\n\nPentru a încheia această zi minunată, vizitați Chapelle Notre-Dame de la Garde. În lumina blândă a soarelui de seară, acest lăcaș de cult emană o atmosferă cu totul specială și pașnică.",
         "en": "Start your day in Kerroc'h with a journey back in time at the impressive Menhir de Kerroc'h. The cool morning breeze then accompanies you to the historical site of Ar Roc'h, where ancient stones tell stories.\n\nAt midday, walk further to Caudric to delve into the deeper past of the region. The paths here are quiet and provide the perfect backdrop for a relaxing, contemplative pause.\n\nThe afternoon takes you to Plage du Pérello. Enjoy the soothing sound of the waves before reaching the Menhir du Fort du Talut, which stands majestically just a short distance from the coastline.\n\nTo conclude this wonderful day, visit the charming Chapelle Notre-Dame de la Garde. In the soft evening sun, this place of faith radiates a very special, profoundly peaceful atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens wirken die Menhire im Regen besonders mystisch, wenn das Wasser die alten Steine dunkel färbt. Mittags führen die Pfade entlang der Küste, wo man auf den rutschigen Abschnitten festes Schuhwerk braucht. Nachmittags bietet die raue Atlantikküste ein dramatisches Schauspiel aus Wellen und grauen Wolken. Abends findet man an der Kapelle einen Moment der Ruhe, während der Regen leise gegen die historischen Mauern trommelt.",
+            "hu": "Reggel a ködös megalitok között kezdünk, ahol az esőben sötétlő kövek ősi titkokat suttognak a szürke ég alatt. Délben a sziklás part mentén haladunk, vigyázva a csúszós ösvényekre és a sárra a hangásban. Délután a Pérello-parton a tenger morajlása és az eső kopogása teremt magányos, meditatív hangulatot. Este a kápolna falaiba kapaszkodó szél mellett zárjuk a napot, élvezve a viharos óceán látványát.",
+            "ro": "Dimineața, menhirele par deosebit de mistice în ploaie, când apa întunecă pietrele vechi sub cerul cenușiu. La prânz, potecile de coastă necesită atenție sporită din cauza noroiului și a porțiunilor alunecoase. După-amiaza, plaja oferă un spectacol dramatic al valurilor, fiind ideală pentru o plimbare reflexivă sub umbrelă. Seara se încheie la capelă, unde sunetul ploii pe acoperișul vechi creează o atmosferă liniștitoare.",
+            "en": "In the morning, the menhirs appear particularly mystical in the rain as the water darkens the ancient stones. At noon, the coastal paths require sturdy waterproof boots due to muddy and slippery sections. In the afternoon, the Atlantic coast offers a dramatic display of waves and grey clouds over the empty beaches. The evening concludes at the chapel, where the sound of rain against the historic walls creates a peaceful, reflective mood."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Menhir de Kerroc'h",
+                "hu": "Menhir de Kerroc'h",
+                "ro": "Menhir de Kerroc'h",
+                "en": "Menhir de Kerroc'h"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die tiefdunkle Farbe des Granits im Regen; tragen Sie eine wasserfeste Kapuze, da der Wind hier auf dem offenen Feld oft sehr böig weht.",
+                "hu": "Csodáld meg a gránit sötét tónusait az esőben; viselj kapucnis esőkabátot, mert a nyílt terepen a szél könnyen kifordíthatja az esernyőt a kezedből.",
+                "ro": "Admirați nuanța închisă a granitului ud; purtați o pelerină cu glugă, deoarece vântul de pe câmpul deschis poate face umbrelele greu de utilizat.",
+                "en": "Admire the deep dark tones of the wet granite; wear a waterproof hood as the wind on this open field often makes umbrellas quite impractical to hold."
+              }
+            },
+            {
+              "name": {
+                "de": "Ar Roc'h",
+                "hu": "Ar Roc'h",
+                "ro": "Ar Roc'h",
+                "en": "Ar Roc'h"
+              },
+              "tip_5lang": {
+                "de": "Diese Felsformation bietet bei leichtem Schauer natürlichen Schutz; achten Sie auf den bemoosten Boden, der bei Nässe extrem rutschig sein kann.",
+                "hu": "Ez a sziklaalakzat természetes menedéket nyújt kisebb zápor idején; vigyázz a mohás talajra, amely nedvesen rendkívül csúszóssá és veszélyessé válik.",
+                "ro": "Această formațiune stâncoasă oferă adăpost natural în caz de aversă; atenție la solul acoperit cu mușchi, care devine extrem de alunecos la umezeală.",
+                "en": "This rock formation provides natural shelter during light showers; watch your step on the mossy ground, which becomes extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Caudric",
+                "hu": "Caudric",
+                "ro": "Caudric",
+                "en": "Caudric"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen zwischen den Regentropfen; die alten Mauern wirken im grauen Licht besonders geschichtsträchtig und bieten kleine windstille Ecken.",
+                "hu": "Fedezd fel a romokat az esőcseppek között; a régi falak a szürke fényben még történelmibbnek tűnnek, és apró, szélvédett sarkokat kínálnak a pihenéshez.",
+                "ro": "Explorați ruinele printre picăturile de ploaie; zidurile vechi par pline de istorie în lumina cenușie și oferă mici colțuri ferite de vântul tăios.",
+                "en": "Explore the ruins between raindrops; the old walls look even more historic in the grey light and offer small, wind-sheltered corners for a quick break."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Pérello",
+                "hu": "Plage du Pérello",
+                "ro": "Plage du Pérello",
+                "en": "Plage du Pérello"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Strand unter Ihrem Regenschirm; der nasse Sand ist fester zum Laufen, ideal für einen kurzen, erfrischenden Uferspaziergang.",
+                "hu": "Élvezd a strand magányát az esernyőd alatt; a vizes homok keményebb és könnyebben járható, ami ideális egy frissítő parti sétához a viharos tenger mellett.",
+                "ro": "Bucurați-vă de singurătatea plajei sub umbrelă; nisipul ud este mai compact și mai ușor de parcurs, ideal pentru o scurtă plimbare revigorantă la mal.",
+                "en": "Enjoy the solitude of the beach under your umbrella; the wet sand is firmer and easier to walk on, perfect for a refreshing stroll by the crashing waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir du Fort du Talut",
+                "hu": "Menhir du Fort du Talut",
+                "ro": "Menhir du Fort du Talut",
+                "en": "Menhir du Fort du Talut"
+              },
+              "tip_5lang": {
+                "de": "Der einsame Stein trotzt den Elementen; halten Sie Abstand zur Klippenkante, da die Grasflächen bei Regen sehr weich und tückisch glatt werden können.",
+                "hu": "A magányos kő dacol az elemekkel; tarts távolságot a sziklaszélétől, mert a füves terület az esőben felázik és váratlanul csúszóssá válhat.",
+                "ro": "Piatra singuratică sfidează elementele; păstrați distanța față de marginea falezei, deoarece iarba devine foarte moale și trădător de alunecoasă pe ploaie.",
+                "en": "The lonely stone braves the elements; keep a safe distance from the cliff edge as the grassy areas can become very soft and treacherously slick in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de la Garde",
+                "hu": "Chapelle Notre-Dame de la Garde",
+                "ro": "Chapelle Notre-Dame de la Garde",
+                "en": "Chapelle Notre-Dame de la Garde"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich als letzten Zufluchtsort; die Stille im Inneren ist der perfekte Abschluss für einen verregneten Wandertag an der Küste.",
+                "hu": "Használd a fedett bejáratot utolsó menedékként; a belső csend tökéletes lezárása egy esős, tengerparti túrának, ahol végre megszárítkozhatsz kicsit.",
+                "ro": "Folosiți pridvorul acoperit ca ultim refugiu; liniștea din interior este finalul perfect pentru o zi de drumeție ploioasă pe coasta atlantică.",
+                "en": "Use the sheltered porch area as a final refuge; the silence inside is the perfect conclusion to a rainy coastal hike, allowing you to dry off and reflect."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen begrüßt Sie an den Menhiren, wo das erste Licht lange Schatten über das gefrorene Gras wirft. Mittags sorgt der schneidende Winterwind vom Atlantik für eine klare Sicht bis zum Horizont. Nachmittags taucht die tiefstehende Sonne die Küstenlandschaft in ein goldenes, kaltes Licht, bevor es früh dämmert. Den Abend verbringt man am besten in der Nähe der schützenden Kapellenmauern, bevor die Dunkelheit gegen 17:00 Uhr einsetzt.",
+            "hu": "A jeges reggeli szélben a menhirek hosszú árnyékot vetnek a dérlepte mezőre, miközben a tiszta levegő minden hangot felerősít. Délben a parti sziklák között sétálva a téli nap ereje kevés, de a látvány kristálytiszta. Délután a korai szürkületben a régi romok misztikus fénybe öltöznek a hideg alkonyat előtt. Este még a korai, 17 órai naplemente előtt elérjük a kápolnát, élvezve a téli égbolt színeit.",
+            "ro": "O dimineață geroasă vă întâmpină la menhire, unde lumina palidă aruncă umbre lungi peste iarba înghețată. La prânz, vântul tăios al Atlanticului curăță cerul, oferind o vizibilitate perfectă spre orizont. După-amiaza, soarele jos scaldă coasta într-o lumină aurie și rece, înainte de amurgul timpuriu. Seara se lasă repede, în jur de ora 17:00, făcând din capelă un punct final simbolic al zilei.",
+            "en": "A frosty morning greets you at the menhirs, where the low winter sun casts long, dramatic shadows across the frozen heath. At noon, the biting Atlantic wind ensures crystal-clear views all the way to the horizon. In the afternoon, the landscape is bathed in a cold, golden glow before the early twilight sets in. Evening comes quickly around 5 PM, making the sheltered chapel walls a welcome sight before total darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Menhir de Kerroc'h",
+                "hu": "Menhir de Kerroc'h",
+                "ro": "Menhir de Kerroc'h",
+                "en": "Menhir de Kerroc'h"
+              },
+              "tip_5lang": {
+                "de": "Das Sonnenlicht steht flach und betont die Textur des Steins; tragen Sie windfeste Kleidung, da es auf der Anhöhe im Winter extrem zugig sein kann.",
+                "hu": "A laposan érkező napfény kiemeli a kő textúráját; viselj szélálló ruházatot, mert a dombtetőn télen rendkívül metsző és hideg tud lenni a szél.",
+                "ro": "Lumina solară joasă subliniază textura pietrei; purtați haine rezistente la vânt, deoarece pe colină poate fi extrem de curent și rece în timpul iernii.",
+                "en": "The low-angled sunlight emphasizes the stone's ancient texture; wear windproof layers as it can be extremely drafty and cold on this ridge in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ar Roc'h",
+                "hu": "Ar Roc'h",
+                "ro": "Ar Roc'h",
+                "en": "Ar Roc'h"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie auf der windabgewandten Seite des Felsens Schutz; im Winter sind die Flechten oft mit Reif überzogen, was ein wunderschönes Fotomotiv ergibt.",
+                "hu": "Keress menedéket a szikla szélvédett oldalán; télen a zuzmókat gyakran dér borítja, ami csodálatos és ritka fotótémát kínál a természetjáróknak.",
+                "ro": "Căutați adăpost pe partea ferită de vânt a stâncii; iarna, lichenii sunt adesea acoperiți de chiciură, oferind un subiect fotografic deosebit de frumos.",
+                "en": "Seek shelter on the leeward side of the rock; in winter, the lichens are often covered in frost, providing a beautiful and unique photographic subject."
+              }
+            },
+            {
+              "name": {
+                "de": "Caudric",
+                "hu": "Caudric",
+                "ro": "Caudric",
+                "en": "Caudric"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken in der winterlichen Kahlheit fast wie ein Skelett der Geschichte; eine Thermoskanne mit Tee ist hier für eine kurze Aufwärmpause ideal.",
+                "hu": "A romok a téli kopárságban szinte a történelem csontvázaként hatnak; egy termosz forró tea ideális társ itt egy rövid, testet melengető pihenőhöz.",
+                "ro": "Ruinele par scheletul istoriei în goliciunea iernii; un termos cu ceai fierbinte este ideal aici pentru o scurtă pauză de încălzire în aer liber.",
+                "en": "The ruins look like a skeleton of history in the winter barrenness; a thermos of hot tea is perfect here for a short, warming break amidst the stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Pérello",
+                "hu": "Plage du Pérello",
+                "ro": "Plage du Pérello",
+                "en": "Plage du Pérello"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das raue Wintermeer aus sicherer Entfernung; die Gischt sprüht bei starkem Wind hoch auf und gefriert manchmal an den obersten Felskanten.",
+                "hu": "Figyeld a haragos téli tengert biztonságos távolságból; az erős szélben felcsapó sós permet néha ráfagy a legfelső sziklák peremére, látványos jeget alkotva.",
+                "ro": "Observați marea agitată de iarnă de la o distanță sigură; spuma valurilor este purtată de vânt și uneori îngheață pe marginile superioare ale stâncilor.",
+                "en": "Observe the rough winter sea from a safe distance; the salt spray blows high in strong winds and sometimes freezes on the very top edges of the rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir du Fort du Talut",
+                "hu": "Menhir du Fort du Talut",
+                "ro": "Menhir du Fort du Talut",
+                "en": "Menhir du Fort du Talut"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag ist hier einzigartig; beeilen Sie sich, da die Sonne im Winter bereits gegen 17:00 Uhr hinter dem Horizont verschwindet.",
+                "hu": "A késő délutáni fények itt egyedülállóak; siess a megtekintéssel, mert télen a nap már 17 óra körül eltűnik a látóhatár mögött, sötétségbe vonva a partot.",
+                "ro": "Luminile de după-amiază târzie sunt unice aici; grăbiți-vă, deoarece soarele apune după orizont în jurul orei 17:00 în timpul iernii.",
+                "en": "The late afternoon light is unique here; be quick with your visit as the winter sun disappears behind the horizon as early as 5 PM, bringing total darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de la Garde",
+                "hu": "Chapelle Notre-Dame de la Garde",
+                "ro": "Chapelle Notre-Dame de la Garde",
+                "en": "Chapelle Notre-Dame de la Garde"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Kapelle vor der frühen Dunkelheit; die massive Bauweise bietet einen guten Windschutz, während Sie auf den winterlichen Sonnenuntergang warten.",
+                "hu": "Érd el a kápolnát a korai sötétedés előtt; a vaskos falak kiváló szélvédelmet nyújtanak, miközben a téli naplemente utolsó színeiben gyönyörködsz.",
+                "ro": "Ajungeți la capelă înainte de lăsarea întunericului; structura masivă oferă protecție bună împotriva vântului în timp ce așteptați apusul de iarnă.",
+                "en": "Reach the chapel before the early onset of darkness; its massive construction provides great wind protection while you watch the final colors of the winter sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpáros kalandja az északi, békés Chapelle Saint-Léonard kápolnánál kezdődik. A friss levegő felfrissíti a közeli, hatalmas Menhir de Courégant-hoz vezető rövid út során a reggeli órákban.\n\nDélben tekerjen el a Fortin de Kerloës-hoz, ahol élvezheti a kilátást, majd folytassa útját a Menhir de Kerroc'h felé, miközben a part menti táj varázslatos látványa kíséri utazását.\n\nDélután érezze a szelet az arcán, miközben a Menhir du Fort du Talut felé tart. A tengerparti ösvények ideálisak arra, hogy a nyeregből fedezze fel a nyers breton táj lenyűgöző szépségét.\n\nAz este a Chapelle Notre-Dame de la Garde kápolnához vezeti. Támassza le kerékpárját, vegyen egy mély lélegzetet, és hagyja, hogy a nap élményei a csendes szürkületben lecsengjenek.",
         "ro": "Aventura pe bicicletă începe la liniștita Chapelle Saint-Léonard din nord. Aerul proaspăt vă înviorează pentru scurta plimbare spre masivul Menhir de Courégant din apropiere, în lumina dimineții.\n\nLa prânz, pedalați spre Fortin de Kerloës, unde vă puteți bucura de priveliște înainte de a continua spre Menhir de Kerroc'h, traversând peisaje costiere minunate și pline de istorie.\n\nDupă-amiaza, simțiți vântul în față în timp ce mergeți spre Menhir du Fort du Talut. Traseele de coastă sunt ideale pentru a experimenta peisajul breton aspru și frumos direct din șa.\n\nSeara vă duce la Chapelle Notre-Dame de la Garde. Sprijiniți-vă bicicleta, respirați adânc și lăsați experiențele acestei zile active să răsune în liniștea plăcută a amurgului.",
         "en": "Your cycling adventure begins at the peaceful Chapelle Saint-Léonard in the north. The fresh air invigorates you for the short ride to the massive Menhir de Courégant nearby in the morning light.\n\nAt midday, pedal to the Fortin de Kerloës, where you can enjoy the sweeping views before continuing to the Menhir de Kerroc'h, passing through lovely coastal scenery along the way.\n\nIn the afternoon, feel the wind on your face as you ride towards the Menhir du Fort du Talut. The coastal trails are ideal for experiencing the rugged Breton landscape right from your saddle.\n\nThe evening leads you to the Chapelle Notre-Dame de la Garde. Lean your bike against a wall, take a deep breath, and let the active day's experiences linger in the quiet, calming twilight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der Kapelle unter grauem Himmel, wobei die nassen Straßen volle Konzentration beim Bremsen erfordern. Mittags führt die Route durch das Hinterland, wo Pfützen und Schlamm das Radfahren zu einer kleinen Herausforderung machen. Nachmittags erreicht man die Küstenabschnitte; die salzige Meeresluft mischt sich mit dem Regen zu einer erfrischenden Atmosphäre. Abends endet die Tour an der Küstenkapelle, wo man unter dem Vordach Schutz findet.",
+            "hu": "A nap a kápolnánál kezdődik szürke ég alatt, ahol a vizes aszfalt teljes koncentrációt igényel a fékezésnél. Délben a belső utakon haladunk, ahol a tócsák és a sár miatt a biciklizés igazi kihívássá válik. Délután érjük el a parti szakaszokat; a sós tengeri levegő és az eső keveréke frissítő élményt nyújt. Este a túra a tengerparti kápolnánál ér véget, ahol az előtető alatt végre megpihenhetünk.",
+            "ro": "Ziua începe la capelă sub un cer plumburiu, străzile ude necesitând concentrare maximă la frânare. La prânz, ruta trece prin interior, unde bălțile și noroiul transformă pedalatul într-o mică provocare sportivă. După-amiaza se ajunge la secțiunile de coastă; aerul sărat se amestecă cu ploaia într-o atmosferă revigorantă. Seara, turul se încheie la capela de pe mal, unde pridvorul oferă un adăpost binevenit.",
+            "en": "The day begins at the chapel under grey skies, where wet roads demand full concentration during braking. At noon, the route leads through the hinterland, where puddles and mud turn cycling into a small, adventurous challenge. In the afternoon, you reach the coastal sections; the salt air mixes with the rain for a refreshing atmosphere. The tour ends in the evening at the coastal chapel, where the porch provides a dry spot to rest."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Léonard",
+                "hu": "Chapelle Saint-Léonard",
+                "ro": "Chapelle Saint-Léonard",
+                "en": "Chapelle Saint-Léonard"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen im Trockenen unter dem Dach; der Kirchplatz bietet einen guten Startpunkt, um die Regenbekleidung noch einmal festzuziehen.",
+                "hu": "Ellenőrizd a fékeidet száraz helyen, az ereszek alatt; a templomkert jó kiindulópont az esőruházat utolsó igazításához az indulás előtt.",
+                "ro": "Verificați frânele la adăpostul streșinii; curtea bisericii este un punct de pornire bun pentru a vă ajusta echipamentul de ploaie înainte de drum.",
+                "en": "Check your brakes in a dry spot under the eaves; the churchyard is a good starting point to tighten your rain gear one last time before setting off."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Courégant",
+                "hu": "Menhir de Courégant",
+                "ro": "Menhir de Courégant",
+                "en": "Menhir de Courégant"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad auf festem Untergrund, um Einsinken im Schlamm zu vermeiden; der nasse Menhir reflektiert das diffuse Licht auf faszinierende Weise.",
+                "hu": "Parkold a biciklit szilárd talajon, hogy ne süllyedjen a sárba; a vizes menhir lenyűgöző módon tükrözi vissza a szórt, szürkés fényt a mezőn.",
+                "ro": "Parcați bicicleta pe teren solid pentru a evita scufundarea în noroi; menhirul ud reflectă lumina difuză într-un mod fascinant și neobișnuit.",
+                "en": "Park your bike on firm ground to avoid it sinking into the mud; the wet menhir reflects the diffuse light in a fascinating way across the field."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortin de Kerloës",
+                "hu": "Fortin de Kerloës",
+                "ro": "Fortin de Kerloës",
+                "en": "Fortin de Kerloës"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern bieten Schutz vor seitlichem Schlagregen; nutzen Sie die kurzen Pausen zwischen den Schauern, um die Festungsanlage zu umrunden.",
+                "hu": "A vaskos falak jó védelmet nyújtanak az oldalról érkező záporok ellen; használd ki a szüneteket két eső között az erődítmény gyors körbejárására.",
+                "ro": "Zidurile masive oferă protecție împotriva ploii laterale; profitați de scurtele pauze între averse pentru a face un tur rapid al fortificației.",
+                "en": "The massive walls offer good protection against driving side rain; use the short breaks between showers to cycle around or explore the fortification."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Kerroc'h",
+                "hu": "Menhir de Kerroc'h",
+                "ro": "Menhir de Kerroc'h",
+                "en": "Menhir de Kerroc'h"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können sehr rutschig sein; drosseln Sie das Tempo und genießen Sie den Anblick des einsamen Steins im prasselnden Regen.",
+                "hu": "A bekötőutak nagyon csúszósak lehetnek; lassíts a tempón, és élvezd a magányos kő látványát a kopogó esőben, távol a forgalmasabb utaktól.",
+                "ro": "Drumurile de acces pot fi foarte alunecoase; reduceți viteza și bucurați-vă de vederea pietrei solitare sub ploaia care răpăie pe cască.",
+                "en": "The access paths can be very slippery; slow down your pace and enjoy the sight of the lonely stone in the pattering rain, away from busier roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir du Fort du Talut",
+                "hu": "Menhir du Fort du Talut",
+                "ro": "Menhir du Fort du Talut",
+                "en": "Menhir du Fort du Talut"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf starke Windböen von der Seeseite, die Ihr Rad erfassen könnten; die Küstenstraße ist bei Regen oft menschenleer und sehr atmosphärisch.",
+                "hu": "Figyelj a tenger felől érkező erős széllökésekre, amelyek belekaphatnak a biciklibe; a parti út esőben gyakran teljesen néptelen és vadregényes.",
+                "ro": "Atenție la rafalele puternice de vânt dinspre mare care vă pot dezechilibra; drumul de coastă este adesea pustiu și foarte atmosferic pe ploaie.",
+                "en": "Watch out for strong gusts from the sea that could catch your bike; the coastal road is often deserted and very atmospheric during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de la Garde",
+                "hu": "Chapelle Notre-Dame de la Garde",
+                "ro": "Chapelle Notre-Dame de la Garde",
+                "en": "Chapelle Notre-Dame de la Garde"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Sattel und Kette nach der Ankunft kurz trocken; das Vordach der Kapelle bietet einen perfekten Platz, um das Rad sicher abzustellen.",
+                "hu": "Érkezés után töröld szárazra a nyerget és a láncot; a kápolna előtetője tökéletes hely a bicikli biztonságos és fedett leállításához a túra végén.",
+                "ro": "Ștergeți șaua și lanțul după sosire; pridvorul capelei oferă un loc perfect pentru a lăsa bicicleta în siguranță și la uscat la finalul zilei.",
+                "en": "Wipe down your saddle and chain briefly upon arrival; the chapel's porch provides a perfect spot to park your bike safely and dryly at the end of the trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Morgen beginnt an der Kapelle, wobei Handschuhe für die Abfahrten unerlässlich sind. Mittags rollt man durch die friedliche Winterlandschaft der Bretagne, wo der Reif auf den Feldern glitzert. Nachmittags erreicht man die Küstenfelsen, während die tiefe Sonne das Meer in ein silbriges Licht taucht. Die Tour endet am späten Nachmittag, wenn die Kälte spürbar zunimmt und die Sonne früh untergeht.",
+            "hu": "Tiszta, hideg reggel indul a kápolnánál, ahol a lejtőkön a kesztyű elengedhetetlen a fagyos menetszél ellen. Délben a békés téli bretagne-i tájon tekerünk, ahol a dér csillog a mezőkön a halovány napsütésben. Délután érjük el a parti sziklákat, miközben a mélyen járó nap ezüstös fénybe vonja a tengert. A túra késő délután ér véget, ahogy a hideg fokozódik.",
+            "ro": "O dimineață senină și rece începe la capelă, mănușile fiind esențiale pentru coborârile în vântul tăios. La prânz, pedalați prin peisajul liniștit de iarnă al Bretaniei, unde chiciura strălucește pe câmpuri. După-amiaza se ajunge la stâncile de coastă, în timp ce soarele jos scaldă marea într-o lumină argintie. Turul se încheie înainte de lasarea frigului intens de seară.",
+            "en": "A clear, cold morning starts at the chapel, where gloves are essential for the chilly descents. At noon, you roll through the peaceful winter landscape of Brittany, where frost glistens on the fields. In the afternoon, you reach the coastal rocks as the low sun bathes the sea in a silvery light. The tour ends in the late afternoon, as the temperature drops sharply and the sun sets early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Léonard",
+                "hu": "Chapelle Saint-Léonard",
+                "ro": "Chapelle Saint-Léonard",
+                "en": "Chapelle Saint-Léonard"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände kurz an einer Thermoskanne, bevor Sie losfahren; der Kirchplatz liegt morgens oft noch im kühlen Schatten der Bäume.",
+                "hu": "Melegítsd fel a kezed egy termosz forró teával indulás előtt; a templomkert reggelente gyakran még a fák hűvös és sötét árnyékában fekszik.",
+                "ro": "Încălziți-vă mâinile cu un termos înainte de plecare; curtea bisericii se află adesea în umbra rece a copacilor în primele ore ale dimineții.",
+                "en": "Warm your hands briefly with a thermos before setting off; the churchyard is often still in the cool shadow of the trees during winter mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Courégant",
+                "hu": "Menhir de Courégant",
+                "ro": "Menhir de Courégant",
+                "en": "Menhir de Courégant"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe auf den schattigen Feldwegen; der Stein speichert die Kälte und wirkt in der Wintersonne besonders imposant.",
+                "hu": "Vigyázz a lefagyott tócsákra az árnyékos dűlőutakon; a kő magába zárja a hideget, és a téli napsütésben különösen impozáns látványt nyújt a mezőn.",
+                "ro": "Atenție la porțiunile înghețate de pe drumurile de câmp umbrite; piatra înmagazinează frigul și pare deosebit de impunătoare în lumina iernii.",
+                "en": "Watch out for black ice on shaded farm tracks; the stone stores the cold and looks particularly imposing against the pale winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortin de Kerloës",
+                "hu": "Fortin de Kerloës",
+                "ro": "Fortin de Kerloës",
+                "en": "Fortin de Kerloës"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne erreicht die Südseite der Festung mittags am besten; nutzen Sie das direkte Licht für eine kurze Pause an den windgeschützten Mauern.",
+                "hu": "A nap délben éri el legjobban az erőd déli oldalát; használd ki a közvetlen fényt egy rövid pihenőre a szélvédett, napsütötte falak tövében.",
+                "ro": "Soarele atinge cel mai bine latura de sud a fortăreței la prânz; profitați de lumina directă pentru o scurtă pauză lângă zidurile ferite de vânt.",
+                "en": "The sun hits the south side of the fortress best at noon; use the direct light for a short break by the wind-sheltered walls to warm up a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Kerroc'h",
+                "hu": "Menhir de Kerroc'h",
+                "ro": "Menhir de Kerroc'h",
+                "en": "Menhir de Kerroc'h"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Bewegung aufrecht, um nicht auszukühlen; die klare Winterluft ermöglicht oft eine weite Sicht über die umliegenden Gehöfte.",
+                "hu": "Maradj mozgásban, hogy ne hűlj ki a megálló alatt; a tiszta téli levegőben messzire ellátsz a környező tanyák és a tengerpart irányába is.",
+                "ro": "Mențineți mișcarea pentru a nu vă răci; aerul clar de iarnă permite adesea o vizibilitate extinsă peste fermele și dealurile din împrejurimi.",
+                "en": "Keep moving to avoid getting too cold during the stop; the clear winter air often allows for far-reaching views over the surrounding farmsteads."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir du Fort du Talut",
+                "hu": "Menhir du Fort du Talut",
+                "ro": "Menhir du Fort du Talut",
+                "en": "Menhir du Fort du Talut"
+              },
+              "tip_5lang": {
+                "de": "Der Wind an der Klippe kann die gefühlte Temperatur drastisch senken; stellen Sie sicher, dass Ihr Nackenschutz beim Fahren gut sitzt.",
+                "hu": "A sziklaparton a szél drasztikusan csökkentheti a hőérzetet; győződj meg róla, hogy a nyakvédőd és a füleid jól takarva vannak tekerés közben.",
+                "ro": "Vântul de pe faleză poate scădea drastic temperatura resimțită; asigurați-vă că protecția pentru gât și urechi este bine fixată în timpul mersului.",
+                "en": "The wind at the cliff can drastically lower the perceived temperature; make sure your neck and ear protection is well-secured while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de la Garde",
+                "hu": "Chapelle Notre-Dame de la Garde",
+                "ro": "Chapelle Notre-Dame de la Garde",
+                "en": "Chapelle Notre-Dame de la Garde"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, bevor der Frost am Abend die Straßen wieder gefährlich macht; die Kapelle ist der ideale Wendepunkt für den Rückweg.",
+                "hu": "Fejezd be a túrát, mielőtt az esti fagy újra veszélyessé teszi az utakat; a kápolna ideális fordulópont a biztonságos hazatérés megkezdéséhez.",
+                "ro": "Încheiați turul înainte ca înghețul de seară să facă drumurile periculoase; capela este punctul ideal de cotitură pentru drumul de întoarcere.",
+                "en": "End the tour before the evening frost makes the roads dangerous again; the chapel is the ideal turning point for a safe return journey."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "A nap egy kényelmes utazással indul az ősi Tuchenn Pol felé, ahol a történelem magával ragadja. Ezt követően vezessen tovább a közeli, fenséges Menhir de Courégant lenyűgöző kőoszlopához.\n\nDélben látogassa meg a csendes Chapelle Saint-Léonard kápolnát, majd vegye az irányt a Fortin de Kerloës felé. Autóval rugalmasan és kényelmesen fedezheti fel ezeket a történelmi helyszíneket.\n\nDélután az útvonal az Ar Roc'h-on keresztül a Plage du Pérello strandhoz vezet. Parkolja le autóját, és tegyen egy hosszú sétát a parton, hogy mélyen belélegezze a sós tengeri levegőt.\n\nA tökéletes befejezést a Chapelle Notre-Dame de la Garde jelenti. Az esti csendben itt még egyszer, utoljára átadhatja magát Kerroc'h régió varázslatos, tengeri hangulatának és békéjének.",
         "ro": "Ziua începe cu un drum confortabil spre anticul Tuchenn Pol, unde lăsați istoria să vă captiveze. Apoi, conduceți mai departe către maiestuosul Menhir de Courégant pentru a admira grandoarea sa.\n\nÎn jurul prânzului, vizitați liniștita Chapelle Saint-Léonard și îndreptați-vă spre Fortin de Kerloës. Cu mașina, aceste locuri istorice diverse pot fi explorate flexibil, într-un ritm foarte relaxat.\n\nDupă-amiaza, traseul trece prin Ar Roc'h spre Plage du Pérello. Parcați mașina în apropiere și bucurați-vă de o plimbare lungă pe plajă pentru a respira aerul sărat și proaspăt al mării.\n\nFinalul perfect este la Chapelle Notre-Dame de la Garde. În liniștea serii, puteți lăsa din nou impresiile maritime ale frumoasei regiuni Kerroc'h să vă învăluie într-o atmosferă de pace.",
         "en": "The day starts with a comfortable drive to the ancient Tuchenn Pol, where you can let history captivate you. Afterward, drive on to see the majestic Menhir de Courégant in all its striking glory.\n\nAround midday, visit the quiet Chapelle Saint-Léonard and then head for the Fortin de Kerloës. Traveling by car allows you to explore these distinct historical locations flexibly and comfortably.\n\nIn the afternoon, the route leads past Ar Roc'h directly to Plage du Pérello. Park your car nearby and enjoy a long, relaxing walk on the beach to deeply breathe in the fresh, salty sea air.\n\nThe perfect conclusion is found at the Chapelle Notre-Dame de la Garde. In the absolute quiet of the evening, you can once again let the rich maritime impressions of the Kerroc'h region sink in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie gemütlich im trockenen Auto zu den historischen Stätten, während der Regen gegen die Scheiben peitscht. Mittags erkunden Sie die Festungsanlagen, wobei das Auto als perfekter Rückzugsort zwischen den Besichtigungen dient. Nachmittags genießen Sie die dramatische Aussicht auf den verregneten Strand vom Parkplatz aus. Abends endet die Fahrt an der Kapelle, wo die beleuchteten Fenster im Regen einen warmen Schein verbreiten.",
+            "hu": "Indulj kényelmesen, a száraz autóból a történelmi helyszínek felé, miközben az eső a szélvédőt mossa. Délben az erődítményeket fedezzük fel, ahol az autó tökéletes menedéket nyújt a két megálló közötti záporokban. Délután a parkolóból élvezheted a drámai kilátást az eső áztatta strandra. Este a túra a kápolnánál ér véget, ahol a fények meleg csillogást adnak a vizes falaknak.",
+            "ro": "Porniți confortabil în mașina uscată spre siturile istorice, în timp ce ploaia bate în parbriz. La prânz, explorați fortificațiile, mașina fiind refugiul perfect între vizite pentru a rămâne uscați. După-amiaza, admirați vederea dramatică asupra plajei plouate direct din parcare. Seara se încheie la capelă, unde ferestrele luminate creează o reflexie caldă pe pietrele ude.",
+            "en": "Start comfortably in your dry car towards the historic sites as the rain lashes against the windshield. At noon, explore the fortifications, with the car serving as a perfect refuge between stops to stay dry. In the afternoon, enjoy dramatic views of the rain-soaked beach from the parking area. The drive ends at the chapel, where the lights cast a warm, welcoming glow on the wet stones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tuchenn Pol",
+                "hu": "Tuchenn Pol",
+                "ro": "Tuchenn Pol",
+                "en": "Tuchenn Pol"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Zugangsweg; nutzen Sie eine Regen-App, um ein kurzes trockenes Fenster für die Besichtigung des Hügels abzupassen.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz; használj időjárás-appot, hogy elcsípj egy rövid csapadékmentes időszakot a domb gyors megtekintéséhez.",
+                "ro": "Parcați cât mai aproape de calea de acces; folosiți o aplicație meteo pentru a găsi o fereastră scurtă fără ploaie pentru a vizita colina.",
+                "en": "Park as close as possible to the access path; use a weather app to catch a short dry window for viewing the hill without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Courégant",
+                "hu": "Menhir de Courégant",
+                "ro": "Menhir de Courégant",
+                "en": "Menhir de Courégant"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Sitzheizung an, um nach dem kurzen Gang zum Stein schnell wieder warm zu werden; der nasse Granit glänzt wunderschön im Scheinwerferlicht.",
+                "hu": "Hagyd bekapcsolva az ülésfűtést, hogy a kőhöz tett rövid séta után gyorsan felmelegedj; a vizes gránit csodásan csillog a fényszórók fényében.",
+                "ro": "Lăsați încălzirea în scaune pornită pentru a vă încălzi rapid după scurta vizită la piatră; granitul ud strălucește frumos în lumina farurilor.",
+                "en": "Keep the seat heating on to warm up quickly after the short walk to the stone; the wet granite shines beautifully in the reflected headlight glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Léonard",
+                "hu": "Chapelle Saint-Léonard",
+                "ro": "Chapelle Saint-Léonard",
+                "en": "Chapelle Saint-Léonard"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft etwas schlammig; achten Sie beim Aussteigen auf Pfützen direkt neben der Wagentür, um trockene Füße zu behalten.",
+                "hu": "A parkoló gyakran sáros és vizes; kiszálláskor figyelj az autó ajtaja melletti tócsákra, hogy a cipőd száraz maradjon a kápolnába menet.",
+                "ro": "Parcarea este adesea noroioasă; atenție la bălțile de lângă portieră la coborâre pentru a vă păstra încălțămintea uscată până la capelă.",
+                "en": "The parking area is often muddy; watch out for puddles right next to the car door when getting out to keep your feet dry for the chapel visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortin de Kerloës",
+                "hu": "Fortin de Kerloës",
+                "ro": "Fortin de Kerloës",
+                "en": "Fortin de Kerloës"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Festung durch die Panoramascheibe, falls der Regen zu stark wird; die Anlage wirkt bei Unwetter besonders trutzig.",
+                "hu": "Élvezd az erőd látványát a szélvédőn keresztül, ha túl erősen esne; az építmény viharos időben különösen dacosnak és bevehetetlennek tűnik.",
+                "ro": "Admirați vederea asupra fortului prin parbriz dacă ploaia devine prea densă; structura pare deosebit de sfidătoare pe timp de furtună.",
+                "en": "Enjoy the view of the fort through the panoramic windshield if the rain is too heavy; the structure looks particularly defiant in stormy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Ar Roc'h",
+                "hu": "Ar Roc'h",
+                "ro": "Ar Roc'h",
+                "en": "Ar Roc'h"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Regenschirm im Kofferraum griffbereit; der Weg vom Parkplatz zum Felsen ist kurz, aber ungeschützt vor dem Wind.",
+                "hu": "Tartsd az esernyőt az utastérben, könnyen elérhető helyen; a parkolótól a szikláig vezető út rövid, de teljesen védtelen a széllel szemben.",
+                "ro": "Țineți umbrela la îndemână în mașină; drumul de la parcare la stâncă este scurt, dar complet expus vântului și ploii laterale.",
+                "en": "Keep your umbrella handy in the passenger seat; the path from the parking lot to the rock is short but completely unprotected from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Pérello",
+                "hu": "Plage du Pérello",
+                "ro": "Plage du Pérello",
+                "en": "Plage du Pérello"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für ein Picknick im Auto mit Blick auf das stürmische Meer; die Wellen schlagen bei Regen oft spektakulär gegen die Felsen.",
+                "hu": "Ideális hely egy autóban elfogyasztott uzsonnához a viharos tenger mellett; a hullámok esőben gyakran látványosan csapódnak a parti szikláknak.",
+                "ro": "Un loc ideal pentru o gustare în mașină cu vedere la marea agitată; valurile se izbesc spectaculos de stânci în timpul ploilor torențiale.",
+                "en": "An ideal spot for a car picnic with a view of the stormy sea; the waves often crash spectacularly against the rocks during heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de la Garde",
+                "hu": "Chapelle Notre-Dame de la Garde",
+                "ro": "Chapelle Notre-Dame de la Garde",
+                "en": "Chapelle Notre-Dame de la Garde"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt an der Kapelle für einen schnellen Zugang; das warme Licht im Inneren bietet einen gemütlichen Ausklang des Tages.",
+                "hu": "Használd a kápolna közvetlen közelében lévő parkolót a gyors bejutáshoz; a belső tér meghitt hangulata remek lezárása az esős napnak.",
+                "ro": "Folosiți parcarea de lângă capelă pentru acces rapid; atmosfera caldă din interior oferă o încheiere confortabilă pentru o zi ploioasă.",
+                "en": "Use the parking lot right next to the chapel for quick access; the warm atmosphere inside provides a cozy end to a rainy day of touring."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frostigen Tag mit einer Fahrt durch die glitzernde Winterlandschaft zu den ersten Menhiren. Mittags wärmt Sie die Klimaanlage zwischen den Stopps an geschichtsträchtigen Kapellen und Festungen. Nachmittags bietet die tiefstehende Sonne fantastische Fotomöglichkeiten an der Küstenstraße. Die Tour endet bei Einbruch der Dunkelheit an der Kapelle, wenn die winterliche Kälte draußen am stärksten spürbar wird.",
+            "hu": "Indítsd a fagyos napot egy autózással a csillogó téli tájon keresztül az első menhirek felé. Délben a fűtés melenget a megállók között, miközben történelmi kápolnákat és erődöket látogatunk. Délután a laposan járó nap fantasztikus fotótémákat kínál a parti út mentén. A túra a sötétség beálltakor ér véget a kápolnánál, amikor kint már metsző a hideg.",
+            "ro": "Începeți ziua geroasă cu o plimbare prin peisajul sclipitor de iarnă către primele menhire. La prânz, sistemul de încălzire vă va menține confortul între vizitele la capele și fortificații. După-amiaza, soarele jos oferă oportunități fantastice de fotografiere de-a lungul drumului de coastă. Turul se încheie la lăsarea întunericului, când frigul de iarnă devine cel mai intens afară.",
+            "en": "Start the frosty day with a drive through the glistening winter landscape towards the first menhirs. At noon, the car's heater keeps you warm between stops at historic chapels and fortifications. In the afternoon, the low sun provides fantastic photo opportunities along the coastal road. The tour ends at nightfall by the chapel, just as the winter cold outside becomes most intense."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tuchenn Pol",
+                "hu": "Tuchenn Pol",
+                "ro": "Tuchenn Pol",
+                "en": "Tuchenn Pol"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck bei Kälte, bevor Sie den Hügel anfahren; die Sicht ist im Winter oft so klar, dass man die gesamte Küstenlinie sieht.",
+                "hu": "Ellenőrizd a guminyomást a hidegben az indulás előtt; a látótávolság télen gyakran olyan nagy, hogy az egész partvonalat tisztán látni a dombról.",
+                "ro": "Verificați presiunea în pneuri pe ger înainte de a porni; vizibilitatea iarna este adesea atât de clară încât puteți vedea întreaga linie a coastei.",
+                "en": "Check your tire pressure in the cold before heading to the hill; visibility in winter is often so clear that you can see the entire coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Courégant",
+                "hu": "Menhir de Courégant",
+                "ro": "Menhir de Courégant",
+                "en": "Menhir de Courégant"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des Ortes, der im Winter fast menschenleer ist; das Auto bietet einen warmen Rückzugsort direkt nach der Besichtigung.",
+                "hu": "Élvezd a hely csendjét, amely télen szinte teljesen néptelen; az autó meleg menedéket nyújt rögtön a kő megtekintése után a fagyos mezőn.",
+                "ro": "Bucurați-vă de liniștea locului, care este aproape pustiu iarna; mașina oferă un refugiu cald imediat după vizitarea pietrei pe câmpul înghețat.",
+                "en": "Enjoy the silence of the site, which is almost deserted in winter; the car provides a warm retreat immediately after viewing the stone in the field."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Léonard",
+                "hu": "Chapelle Saint-Léonard",
+                "ro": "Chapelle Saint-Léonard",
+                "en": "Chapelle Saint-Léonard"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter vereisten Ästen; die Kapelle wirkt im klaren Winterlicht besonders friedlich und lädt zu einem kurzen Moment der Einkehr ein.",
+                "hu": "Kerüld a parkolást a jeges ágak alatt; a kápolna a tiszta téli fényben különösen békésnek tűnik, és tökéletes hely egy rövid elmélyüléshez.",
+                "ro": "Evitați parcarea sub crengile înghețate; capela pare deosebit de liniștită în lumina clară de iarnă, fiind un loc ideal pentru un moment de reculegere.",
+                "en": "Avoid parking under icy branches; the chapel looks particularly peaceful in the clear winter light and is a perfect spot for a brief moment of reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortin de Kerloës",
+                "hu": "Fortin de Kerloës",
+                "ro": "Fortin de Kerloës",
+                "en": "Fortin de Kerloës"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter oft abgeschlossen, aber von außen im tiefen Sonnenlicht beeindruckend; nutzen Sie den Parkplatz für einen kurzen Rundumblick.",
+                "hu": "Az erőd télen gyakran zárva van, de kívülről, a súroló napfényben is lenyűgöző; használd a parkolót egy gyors körpanorámás nézelődéshez.",
+                "ro": "Fortul este adesea închis iarna, dar arată impresionant din exterior în lumina soarelui; folosiți parcarea pentru o privire rapidă de jur împrejur.",
+                "en": "The fort is often closed in winter, but it looks impressive from the outside in the low sunlight; use the parking area for a quick panoramic view."
+              }
+            },
+            {
+              "name": {
+                "de": "Ar Roc'h",
+                "hu": "Ar Roc'h",
+                "ro": "Ar Roc'h",
+                "en": "Ar Roc'h"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Straßenglätte auf dem kleinen Parkplatz; die Felsformation wirkt bei frostigen Temperaturen besonders schroff und urzeitlich.",
+                "hu": "Vigyázz az út jegesedésére a kis parkolóban; a sziklaalakzat a fagyos hőmérsékletben különösen zordnak és őskorinak hat a parti úton.",
+                "ro": "Atenție la poleiul din mica parcare; formațiunea stâncoasă pare deosebit de aspră și primordială la temperaturi sub pragul de îngheț.",
+                "en": "Watch out for icy patches in the small parking lot; the rock formation looks particularly rugged and primeval in the freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Pérello",
+                "hu": "Plage du Pérello",
+                "ro": "Plage du Pérello",
+                "en": "Plage du Pérello"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne spiegelt sich grell im Meer; halten Sie Ihre Sonnenbrille im Auto bereit, um die blendende Aussicht voll genießen zu können.",
+                "hu": "A téli nap erősen tükröződik a tengeren; tartsd készenlétben a napszemüvegedet az autóban, hogy zavartalanul élvezhesd a vakító kilátást.",
+                "ro": "Soarele de iarnă se reflectă puternic în mare; țineți ochelarii de soare la îndemână în mașină pentru a vă bucura de vederea orbitoare.",
+                "en": "The winter sun reflects brightly off the sea; keep your sunglasses ready in the car to fully enjoy the dazzling view without any discomfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de la Garde",
+                "hu": "Chapelle Notre-Dame de la Garde",
+                "ro": "Chapelle Notre-Dame de la Garde",
+                "en": "Chapelle Notre-Dame de la Garde"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang bequem vom Fahrersitz aus; die Kapelle ist der perfekte Ort, um den Tag sicher vor der Kälte geschützt zu beenden.",
+                "hu": "Nézd végig a naplementét kényelmesen a vezetőülésből; a kápolna környéke tökéletes hely a nap lezárásához, biztonságban a kinti hidegtől.",
+                "ro": "Urmăriți apusul confortabil de pe scaunul șoferului; zona capelei este locul perfect pentru a încheia ziua, fiind protejat de frigul de afară.",
+                "en": "Watch the sunset comfortably from the driver's seat; the chapel area is the perfect spot to end the day while staying safely protected from the cold."
+              }
+            }
+          ]
+        }
       }
     }
   }

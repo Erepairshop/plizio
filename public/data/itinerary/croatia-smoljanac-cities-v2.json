@@ -137,6 +137,168 @@
         "hu": "A reggelt egy hagyományos vízimalomnál kezdjük, ahol a víz csobogása tökéletes alaphangot ad. Ezt követően egy látványos, folyóra néző kilátóhoz sétálunk. / Délben elérjük a történelmi Drežnik várát, ahol felfedezzük a középkori építészetet és megcsodáljuk a völgy feletti lenyűgöző, stratégiai elhelyezkedését. / A délután a békés Szarvas-völgybe vezet minket, amely különleges természetközeli élményt nyújt. Innen továbbsétálunk a szelíd, zöldellő tájakon keresztül. / Estefelé felérünk az erdős Hrastovi vrh csúcsára. Itt a lenyűgöző kilátás és a természet teljes nyugalma mellett pihenjük ki az egész napos séta fáradalmait.",
         "ro": "Dimineața începe relaxant la o moară tradițională, unde sunetul apei ne oferă fundalul perfect. Apoi ne plimbăm spre un punct de belvedere spectaculos. / La prânz ajungem la cetatea istorică Drežnik, unde explorăm arhitectura medievală și admirăm locația strategică deasupra văii înverzite. / După-amiaza ne duce în pașnica Vale a Cerbilor, o experiență deosebită în mijlocul naturii. De aici continuăm drumeția prin peisajele blânde. / Spre seară ajungem pe vârful împădurit Hrastovi vrh. Aici încheiem ziua bucurându-ne de o priveliște minunată și de liniștea deplină a naturii.",
         "en": "Our morning begins smoothly at a traditional watermill, where the rushing river provides the perfect soundtrack. From there, we stroll to a spectacular riverside viewpoint. / By midday, we reach the historical Drežnik fortress. We explore the imposing medieval architecture and admire its strategic, commanding position above the canyon. / The afternoon leads us to the peaceful Deer Valley, offering a unique chance to connect with local wildlife. We continue our scenic hike through the gentle, green landscapes. / As evening approaches, we conquer the forested peak of Hrastovi vrh. We wrap up our long day of walking with a magnificent view and the profound silence of untouched nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am rauschenden Mlin, wo das Regenwasser die Korana kraftvoll antreibt. Ein mystischer Nebel hängt über dem Flussbett, während Sie den ersten Anstieg bewältigen.\n\nMittags bietet die Burg Drežnik einen willkommenen Schutz vor den Schauern. Von den dicken Mauern aus beobachten Sie das graue Wolkenspiel über der Schlucht, bevor es weiter in Richtung Hirschtal geht.\n\nNachmittags wirken die Wälder im Regen besonders lebendig, und die Tiere im Tal suchen oft Schutz unter den dichten Baumkronen. Der Aufstieg zum Hrastovi vrh erfordert nun Trittsicherheit auf den weichen Pfaden.\n\nAm Abend senkt sich die Dunkelheit früh über die feuchte Landschaft. Die Wanderung endet mit dem beruhigenden Geräusch des Regens, der auf das dichte Blätterdach des Waldes trommelt.",
+            "hu": "A reggel a zúgó malomnál indul, ahol a csapadék még látványosabbá teszi a Korana sodrását. A ködös pára különleges, misztikus hangulatot áraszt a vízpart mentén.\n\nDélben Drežnik vára nyújt menedéket a záporok elől, ahol a masszív falak között pihenve csodálhatjuk meg a völgy felett átvonuló viharfelhőket.\n\nDélután a Szarvas-völgyben az állatok a fák alá húzódnak, a nedves erdő illata pedig átjárja a túraútvonalat. A Hrastovi vrh csúcsa felé haladva ügyeljünk a sáros szakaszokra.\n\nEste a sötétség és az eső kopogása zárja a napot. Érdemes korán visszatérni a szállásra, hiszen a látótávolság ilyenkor jelentősen lecsökken a völgyben.",
+            "ro": "Dimineața începe la moara Mlin, unde ploaia intensifică vuietul râului Korana. O ceață mistică plutește deasupra albiei, oferind un decor dramatic pentru primii pași ai drumeției.\n\nLa prânz, Cetatea Drežnik oferă un adăpost binevenit împotriva rafalelor. De la înălțimea zidurilor, puteți observa spectacolul norilor deasupra canionului înainte de a continua spre Valea Cerbilor.\n\nDupă-amiaza, pădurea pare plină de viață sub ploaie, iar animalele din vale caută adăpost sub coroanele dese. Urcarea spre Hrastovi vrh necesită atenție sporită pe potecile devenite alunecoase.\n\nSeara, întunericul se lasă devreme peste peisajul umed. Drumeția se încheie cu sunetul liniștitor al ploii care bate în frunzișul des al pădurii, invitând la odihnă într-un loc călduros.",
+            "en": "The morning starts at the roaring Mlin mill, where rainwater powerfully drives the Korana's flow. A mystical mist hangs over the riverbed as you navigate the first ascent.\n\nAt noon, Drežnik Old Town provides a welcome shelter from the showers. From the thick walls, watch the grey clouds dance over the canyon before heading towards Deer Valley.\n\nIn the afternoon, the forests feel alive in the rain, and the animals in the valley often seek cover under the dense canopy. The climb to Hrastovi vrh now requires steady footing on the softened trails.\n\nBy evening, darkness falls early over the damp landscape. The hike ends with the soothing sound of rain drumming on the forest canopy, signaling a time for indoor warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mlin",
+                "hu": "Mlin",
+                "ro": "Mlin",
+                "en": "Mlin Watermill"
+              },
+              "tip_5lang": {
+                "de": "Das Wasserrad dreht sich bei Regen besonders imposant; nutzen Sie das Vordach der Mühle als Regenschutz und tragen Sie feste Wanderschuhe für die rutschigen Stege.",
+                "hu": "A malomkerék esőben még látványosabban pörög a megáradt víztől; használja a malom eresze alatti részt menedékként, és viseljen vízálló bakancsot a csúszós pallókon.",
+                "ro": "Roata morii se învârte impunător când plouă; folosiți streașina morii ca adăpost și purtați bocanci impermeabili pentru a naviga în siguranță pe podețele alunecoase.",
+                "en": "The waterwheel turns impressively fast during rain; use the mill's overhang for shelter and wear waterproof boots to handle the slippery wooden walkways safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Korana-Blick",
+                "hu": "Korana-kilátó",
+                "ro": "Priveliștea Korana",
+                "en": "Korana View"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die graue Schlucht ist im Regen dramatisch; halten Sie Ihre Kamera unter einem Schirm geschützt, da der Wind hier oben oft peitschende Böen mitbringt.",
+                "hu": "A szürke kanyon látványa esőben rendkívül drámai; tartsa a fényképezőgépet ernyő alatt, mivel a szél itt gyakran erősen befújja a csapadékot a kilátópontra.",
+                "ro": "Vedere asupra canionului este dramatică sub ploaie; protejați camera sub o umbrelă, deoarece vântul de pe creastă poate aduce rafale neașteptate de precipitații.",
+                "en": "The view of the grey canyon is incredibly dramatic in the rain; keep your camera protected under an umbrella as wind here often brings lashing gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Drežnik",
+                "hu": "Drežnik vára",
+                "ro": "Cetatea Drežnik",
+                "en": "Drežnik Old Town"
+              },
+              "tip_5lang": {
+                "de": "Der restaurierte Turm bietet den perfekten trockenen Rückzugsort; erkunden Sie die Innenausstellung ausführlich, während draußen der Regen gegen die alten Steinmauern prasselt.",
+                "hu": "A felújított torony tökéletes száraz menedék a túra közben; fedezze fel a belső kiállítást alaposan, amíg odakint az eső kopog a régi kőfalakon.",
+                "ro": "Turnul restaurat oferă refugiul perfect împotriva ploii; explorați expoziția interioară în detaliu în timp ce precipitațiile bat în zidurile vechi de piatră.",
+                "en": "The restored tower offers a perfect dry retreat during your hike; explore the interior exhibition thoroughly while rain patters against the ancient stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Hirschtal",
+                "hu": "Szarvas-völgy",
+                "ro": "Valea Cerbilor",
+                "en": "Deer Valley"
+              },
+              "tip_5lang": {
+                "de": "Die Tiere sind bei leichtem Regen oft sehr aktiv, verstecken sich aber bei Gewitter; bringen Sie eine gute Regenjacke mit, um die Fütterung im Freien genießen zu können.",
+                "hu": "Az állatok enyhe esőben aktívak maradnak, de zivatarban elvonulnak; hozzon magával jó esőkabátot, hogy a szabadban történő etetést kényelmesen élvezhesse.",
+                "ro": "Animalele sunt active pe ploaie ușoară, dar se ascund în timpul furtunilor; aduceți o pelerină de ploaie bună pentru a vă bucura de hrănirea lor în aer liber.",
+                "en": "Animals are often active during light rain but hide during storms; bring a high-quality raincoat to enjoy the outdoor feeding session comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Hrastovi vrh",
+                "hu": "Hrastovi vrh",
+                "ro": "Hrastovi vrh",
+                "en": "Hrastovi vrh"
+              },
+              "tip_5lang": {
+                "de": "Der Gipfelpfad wird bei Nässe sehr schlammig und rutschig; nutzen Sie Wanderstöcke für zusätzliche Stabilität und rechnen Sie mit eingeschränkter Sicht durch tief hängende Wolken.",
+                "hu": "A csúcsra vezető út nedvesen sáros és csúszós; használjon túrabotot a stabilitásért, és számítson rá, hogy a felhők miatt a kilátás ilyenkor korlátozott.",
+                "ro": "Poteca spre vârf devine noroioasă și alunecoasă; folosiți bețe de trekking pentru stabilitate și așteptați-vă la vizibilitate redusă din cauza norilor joși.",
+                "en": "The summit path gets muddy and slippery when wet; use trekking poles for stability and expect limited views due to low-hanging rain clouds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen glitzert der Raureif auf den Überresten der Mlin-Mühle. Die kalte Luft der Korana-Schlucht ist erfrischend, während Sie gut eingepackt den gefrorenen Boden betreten.\n\nMittags erreichen Sie die Burg Drežnik, deren Steine im fahlen Winterlicht leuchten. Nach einer kurzen Pause in der Kälte ziehen Sie weiter, um die winterliche Stille des Tals zu genießen.\n\nNachmittags steht das Hirschtal im Fokus, wo sich das Wild im dichten Winterfell zeigt. Der Aufstieg zum Hrastovi vrh sollte zügig erfolgen, da die Sonne bereits tief steht und die Temperaturen schnell sinken.\n\nGegen 17:00 Uhr verschwindet das letzte Tageslicht. Die Wanderung endet in der blauen Stunde, wenn der Frost die Landschaft fest im Griff hat und die ersten Lichter im Dorf Smoljanac angehen.",
+            "hu": "Reggel zúzmara borítja a malom maradványait, a levegő pedig friss és csípős a Korana mentén. A megfagyott talajon lépkedve indul a téri kaland a völgyben.\n\nDélben Drežnik vára magasodik a táj fölé, falai között ilyenkor különleges csend honol. A téli nap alacsonyan jár, hosszú árnyékokat vetve a történelmi romokra.\n\nDélután a Szarvas-völgyben az állatok téli bundájukban pompáznak a hóban. A Hrastovi vrh megmászását időzítsük korábbra, mert a hőmérséklet naplemente közeledtével hirtelen zuhan.\n\nEste 17:00 körül a nap gyorsan lebukik a horizont alá. A túra a kék órában ér véget, amikor a falu fényei hívogató melegséget ígérnek a fagyos túra után.",
+            "ro": "Dimineața, chiciura strălucește pe resturile morii Mlin. Aerul rece al canionului Korana este revigorant în timp ce pășiți pe pământul înghețat, bine echipați pentru iarnă.\n\nLa prânz ajungeți la Cetatea Drežnik, ale cărei ziduri lucesc în lumina palidă a iernii. După o scurtă pauză în frig, continuați drumul pentru a savura liniștea deplină a văii înghețate.\n\nDupă-amiaza este dedicată Văii Cerbilor, unde animalele pot fi văzute în blana lor groasă de iarnă. Urcarea spre Hrastovi vrh trebuie făcută rapid, deoarece soarele apune devreme.\n\nÎn jurul orei 17:00, ultima lumină a zilei dispare. Drumeția se încheie în „ora albastră”, când gerul pune stăpânire pe peisaj și primele lumini se aprind în satul Smoljanac.",
+            "en": "In the morning, hoarfrost glistens on the remnants of the Mlin mill. The crisp air of the Korana canyon is refreshing as you step onto the frozen ground, well-bundled for the cold.\n\nAt noon, you reach Drežnik Old Town, its stones glowing in the pale winter light. After a short break in the cold, move on to enjoy the wintry silence of the valley.\n\nIn the afternoon, Deer Valley takes center stage, where wildlife appears in thick winter coats. The ascent to Hrastovi vrh should be brisk, as the sun hangs low and temperatures drop fast.\n\nBy 5:00 PM, the last daylight vanishes. The hike concludes during the blue hour, as frost takes hold of the landscape and the first lights flicker on in Smoljanac village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mlin",
+                "hu": "Mlin",
+                "ro": "Mlin",
+                "en": "Mlin Watermill"
+              },
+              "tip_5lang": {
+                "de": "Eiszapfen am Wasserrad bilden im Winter wunderschöne Fotomotive; tragen Sie Thermosocken, da die Feuchtigkeit am Fluss die Kälte hier besonders intensiv spürbar macht.",
+                "hu": "A malomkeréken lógó jégcsapok gyönyörű fotótémát kínálnak télen; viseljen termozoknit, mert a folyóparti pára miatt a hideg itt sokkal metszőbb.",
+                "ro": "Țurțurii de gheață de pe roata morii oferă subiecte foto superbe iarna; purtați șosete termice, deoarece umiditatea de lângă râu face frigul mult mai pătrunzător.",
+                "en": "Icicles on the waterwheel create beautiful photo opportunities in winter; wear thermal socks as the river's humidity makes the cold feel much more intense here."
+              }
+            },
+            {
+              "name": {
+                "de": "Korana-Blick",
+                "hu": "Korana-kilátó",
+                "ro": "Priveliștea Korana",
+                "en": "Korana View"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist durch die klare Winterluft oft exzellent; achten Sie auf glatte Stellen am Felsrand und schützen Sie Ihr Gesicht mit einem Schal vor dem kalten Wind.",
+                "hu": "A tiszta téli levegőben a kilátás gyakran kiváló; figyeljen a sziklaperem jeges foltjaira, és védje arcát sállal a metsző széllel szemben a kilátóponton.",
+                "ro": "Vizibilitatea este adesea excelentă datorită aerului rece și clar; atenție la porțiunile înghețate de pe marginea stâncii și protejați-vă fața cu un fular împotriva vântului.",
+                "en": "Visibility is often excellent through the clear winter air; watch for icy spots on the cliff edge and protect your face with a scarf against the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Drežnik",
+                "hu": "Drežnik vára",
+                "ro": "Cetatea Drežnik",
+                "en": "Drežnik Old Town"
+              },
+              "tip_5lang": {
+                "de": "Der Turm ist im Winter oft nicht beheizt, bietet aber Windschutz; nutzen Sie die Zeit für eine heiße Tasse Tee aus Ihrer Thermoskanne, bevor Sie die Ruinen erkunden.",
+                "hu": "A torony télen nincs fűtve, de szélvédett helyet biztosít; használja ki az időt egy forró teára a termoszból, mielőtt alaposabban körülnézne a romok között.",
+                "ro": "Turnul nu este încălzit iarna, dar oferă protecție împotriva vântului; profitați de moment pentru un ceai fierbinte din termos înainte de a explora ruinele.",
+                "en": "The tower is not heated in winter but provides wind protection; use the time for a hot cup of tea from your thermos before exploring the ruins further."
+              }
+            },
+            {
+              "name": {
+                "de": "Hirschtal",
+                "hu": "Szarvas-völgy",
+                "ro": "Valea Cerbilor",
+                "en": "Deer Valley"
+              },
+              "tip_5lang": {
+                "de": "Besuche im Winter müssen im Voraus gebucht werden, da die Zeiten verkürzt sind; füttern Sie die Tiere zügig, damit Sie vor dem frühen Einbruch der Dunkelheit weiterziehen.",
+                "hu": "A téli látogatáshoz előzetes bejelentkezés szükséges a rövidített nyitvatartás miatt; az etetés után induljon tovább időben, hogy ne sötétedjen önre az erdőben.",
+                "ro": "Vizitele de iarnă trebuie rezervate în avans din cauza programului scurt; hrăniți animalele eficient pentru a putea pleca înainte de lăsarea timpurie a întunericului.",
+                "en": "Winter visits must be booked in advance due to shortened hours; feed the animals promptly so you can move on before the early sunset catches you in the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Hrastovi vrh",
+                "hu": "Hrastovi vrh",
+                "ro": "Hrastovi vrh",
+                "en": "Hrastovi vrh"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist am Gipfel oft tiefgefroren oder verschneit; steigen Sie spätestens um 16:00 Uhr ab, um den Rückweg sicher im Restlicht des Tages zu bewältigen.",
+                "hu": "A talaj a csúcson gyakran fagyott vagy havas; legkésőbb 16:00-kor induljon el lefelé, hogy a maradék nappali fényben biztonságosan visszaérjen a faluba.",
+                "ro": "Solul de pe vârf este adesea înghețat sau înzăpezit; coborâți cel târziu la ora 16:00 pentru a parcurge drumul de întoarcere în siguranță pe lumină.",
+                "en": "The ground at the summit is often frozen solid or snowy; begin your descent by 4:00 PM at the latest to navigate the path safely in the remaining daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kényelmes tempóban kezdjük a reggeli kerékpározást, és hamarosan elérjük a smaragdzöld Korana folyó feletti lélegzetelállító kilátót, amely azonnal elvarázsol. / Délre megérkezünk Drežnik várának romjaihoz. A történelmi felfedezőút után dombos tájakon keresztül tekerünk tovább dél felé. / A délután elvisz minket a Hrastovi vrh csúcsához, majd onnan legurulunk az első tavakhoz, ahol Novakovića brod kristálytiszta vize vár ránk. / Az estét a Plitvicei-tavak alsó szakaszánál töltjük. A Kaluđerovac és a Milanovac vízeséseinél uralkodó varázslatos hangulat egy életre szóló élmény marad.",
         "ro": "Începem dimineața pedalând relaxat și ajungem rapid la un punct de belvedere uimitor deasupra râului de smarald Korana, care impresionează instantaneu. / Până la prânz ajungem la ruinele Cetății Drežnik. După o incursiune în istorie, continuăm să mergem pe bicicletă spre sud, prin peisajele deluroase. / După-amiaza ne aduce la Hrastovi vrh și apoi coborâm rapid spre primele lacuri, unde ne așteaptă apele cristaline de la Novakovića brod. / Ne petrecem seara mergând pe lângă lacurile inferioare Plitvice. Atmosfera magică de la cascadele Kaluđerovac și Milanovac este absolut de neuitat.",
         "en": "We start our ride at a relaxed pace, quickly reaching a breathtaking viewpoint over the emerald green Korana river that will instantly captivate you. / By midday, we arrive at the ruins of Drežnik Fortress. After uncovering its medieval history, we pedal further south through beautiful rolling countryside. / The afternoon brings us to Hrastovi vrh, followed by an exhilarating descent toward the first lakes, where the crystal-clear waters of Novakovića brod await. / We spend the evening cycling smoothly past the lower Plitvice Lakes. The magical twilight atmosphere around Kaluđerovac and Milanovac is truly unforgettable."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag startet am Korana-Blick, wo der aufgewirbelte Regenstaub die Sicht auf den Fluss vernebelt. Die Wege sind fordernd, aber die kühle Luft sorgt für Ausdauer.\n\nMittags erreichen Sie die Burg Drežnik. Nutzen Sie die historischen Mauern, um die Fahrräder kurz abzustellen und trockene Kleidung anzuziehen, bevor Sie zum Hrastovi vrh aufbrechen.\n\nNachmittags führt die Route durch dichte Wälder und vorbei an den Plitvicer Seen. Das Wasser in den Seen wirkt im Regen tiefgrün und die Wasserfälle Novakovića brod stürzen mit doppelter Kraft hinab.\n\nAm Abend endet die Tour an den Ufern des Milanovac-Sees. Das Licht der Dämmerung verschmilzt mit dem Grau des Regens und schafft eine stille, fast meditative Atmosphäre zum Abschluss.",
+            "hu": "A kerékpáros nap a Korana-kilátónál indul, ahol a szitáló eső fátyolba burkolja a folyót. Az utak nagyobb odafigyelést igényelnek, de a friss levegő segíti a tempót.\n\nDélben Drežnik vára tűnik fel, ahol a falak védelmében rendezhetjük felszerelésünket. A Hrastovi vrh felé vezető kaptató esőben igazi kihívás, de a kilátás kárpótol.\n\nDélután a Plitvicei-tavak mentén haladunk, ahol a Novakovića brod vízesés zúgása felerősödik. A Kaluđerovac és Milanovac tavak színe ilyenkor mélyebb, sötétebb árnyalatot ölt.\n\nEste a Milanovac-tónál zárul a túra. A lemenő nap fénye és az esőfüggöny találkozása különleges hangulatot áraszt a vízparton, mielőtt visszatérnénk a kiindulópontra.",
+            "ro": "Ziua de ciclism începe la Priveliștea Korana, unde burnița acoperă râul cu un văl fin. Traseele sunt solicitante, dar aerul răcoros vă ajută să mențineți un ritm constant.\n\nLa prânz ajungeți la Cetatea Drežnik. Folosiți zidurile istorice pentru a parca bicicletele și a vă schimba hainele înainte de a porni spre Hrastovi vrh pe poteci umede.\n\nDupă-amiaza, ruta trece prin păduri dese și pe lângă lacurile Plitvice. Cascadele de la Novakovića brod curg cu forță dublă, iar lacurile Kaluđerovac și Milanovac par de un verde smarald profund.\n\nSeara, turul se încheie pe malul lacului Milanovac. Lumina crepusculului se contopește cu cenușiul ploii, creând o atmosferă liniștită și meditativă la finalul traseului.",
+            "en": "The bike day starts at Korana View, where misty rain veils the river below. The paths are demanding due to the mud, but the cool air keeps your energy levels high.\n\nAt noon, you reach Drežnik Old Town. Use the historic walls to park your bikes and dry off before tackling the ascent to Hrastovi vrh on softened forest tracks.\n\nIn the afternoon, the route takes you past Plitvice's lakes. The Novakovića brod waterfalls crash down with double power, and Lakes Kaluđerovac and Milanovac look deep green in the rain.\n\nBy evening, the tour ends at the shores of Lake Milanovac. The twilight light merges with the grey rain, creating a silent, almost meditative atmosphere to conclude your ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Korana-Blick",
+                "hu": "Korana-kilátó",
+                "ro": "Priveliștea Korana",
+                "en": "Korana View"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt vom Aussichtspunkt ist bei Nässe extrem rutschig; prüfen Sie Ihre Bremsen vor dem Start und tragen Sie eine Brille gegen den spritzenden Schlamm.",
+                "hu": "A kilátótól induló lejtő nedvesen nagyon csúszós; ellenőrizze a fékeket indulás előtt, és viseljen szemüveget a felverődő sár ellen a biztonságos haladáshoz.",
+                "ro": "Coborârea de la punctul de belvedere este extrem de alunecoasă pe ploaie; verificați frânele înainte de pornire și purtați ochelari împotriva noroiului împroșcat.",
+                "en": "The descent from the viewpoint is extremely slippery when wet; check your brakes before starting and wear glasses to protect against splashing mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Drežnik",
+                "hu": "Drežnik vára",
+                "ro": "Cetatea Drežnik",
+                "en": "Drežnik Old Town"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich der Burg, um die Kette nachzuölen; Regen wäscht das Schmiermittel schnell ab, was den Aufstieg zum Hrastovi vrh erschwert.",
+                "hu": "Használja a vár fedett bejáratát a lánc újrahúzáshoz; az eső gyorsan lemossa a kenőanyagot, ami megnehezíti a Hrastovi vrh felé vezető emelkedő leküzdését.",
+                "ro": "Folosiți intrarea acoperită a cetății pentru a unge lanțul; ploaia spală repede lubrifiantul, îngreunând urcarea spre Hrastovi vrh pe teren accidentat.",
+                "en": "Use the castle's covered entrance to re-oil your chain; rain washes off lubricant quickly, making the climb to Hrastovi vrh much harder on the gears."
+              }
+            },
+            {
+              "name": {
+                "de": "Hrastovi vrh",
+                "hu": "Hrastovi vrh",
+                "ro": "Hrastovi vrh",
+                "en": "Hrastovi vrh"
+              },
+              "tip_5lang": {
+                "de": "Der steinige Weg zum Gipfel kann bei Regen tückisch sein; fahren Sie mit geringerem Reifendruck für besseren Grip auf den nassen Felsen und Wurzeln.",
+                "hu": "A csúcsra vezető köves út esőben csalóka lehet; használjon alacsonyabb guminyomást a jobb tapadás érdekében a vizes sziklákon és gyökereken.",
+                "ro": "Drumul pietros spre vârf poate fi înșelător pe ploaie; folosiți o presiune mai mică în anvelope pentru o aderență mai bună pe stâncile și rădăcinile ude.",
+                "en": "The stony path to the summit can be treacherous in the rain; ride with lower tire pressure for better grip on wet rocks and exposed roots."
+              }
+            },
+            {
+              "name": {
+                "de": "Novakovića brod",
+                "hu": "Novakovića brod",
+                "ro": "Novakovića brod",
+                "en": "Novakovića brod"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall sprüht bei Regen zusätzliche Feuchtigkeit auf den Weg; parken Sie das Rad sicher am Rand und gehen Sie zu Fuß zu den besten Fotopunkten.",
+                "hu": "A vízesés esőben extra párát permetez az útra; parkolja le a bringát biztonságosan az út szélén, és gyalog közelítse meg a legjobb fotópontokat.",
+                "ro": "Cascada pulverizează umiditate suplimentară pe drum când plouă; parcați bicicleta în siguranță și mergeți pe jos spre cele mai bune puncte de observație.",
+                "en": "The waterfall sprays extra moisture onto the path during rain; park your bike safely at the edge and walk to the best photo spots to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaluđerovac-See",
+                "hu": "Kaluđerovac-tó",
+                "ro": "Lacul Kaluđerovac",
+                "en": "Lake Kaluđerovac"
+              },
+              "tip_5lang": {
+                "de": "Die Uferwege sind oft schmal und bei Regen schlammig; achten Sie auf Fußgänger mit Regenschirmen, die Ihnen auf den engen Passagen entgegenkommen könnten.",
+                "hu": "A parti utak gyakran szűkek és esőben sárosak; figyeljen az esernyős gyalogosokra, akikkel a keskeny szakaszokon szembe találkozhat a tó mentén.",
+                "ro": "Potecile de pe mal sunt adesea înguste și noroioase; fiți atenți la pietonii cu umbrele pe care i-ați putea întâlni pe secțiunile înguste din jurul lacului.",
+                "en": "Shore paths are often narrow and muddy during rain; watch out for pedestrians with umbrellas who might appear suddenly on tight lake-side sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Milanovac-See",
+                "hu": "Milanovac-tó",
+                "ro": "Lacul Milanovac",
+                "en": "Lake Milanovac"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel bietet im Regen eine düstere Schönheit; trocknen Sie Ihre Bremsflanken nach der Tour ab, um Korrosion durch das kalkhaltige Seewasser zu vermeiden.",
+                "hu": "A tó esőben komor szépséget áraszt; a túra után törölje szárazra a felniket és a fékeket, hogy megelőzze a mésztartalmú víz okozta korróziót.",
+                "ro": "Destinația oferă o frumusețe sobră pe ploaie; ștergeți jantele și frânele după tur pentru a preveni coroziunea cauzată de apa calcaroasă a lacului.",
+                "en": "The destination offers a moody beauty in the rain; dry off your rims and brakes after the tour to prevent corrosion from the lime-rich lake water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start erwartet Sie am Korana-Blick, wo der Wind über die kargen Felsen fegt. Die kalte Luft beißt in die Wangen, während Sie die ersten Kilometer auf hartgefrorenen Wegen zurücklegen.\n\nMittags dient die Burg Drežnik als kurzer Windstopp. Die winterliche Einsamkeit ist hier oben greifbar, bevor Sie die Auffahrt zum Hrastovi vrh in Angriff nehmen, um warm zu bleiben.\n\nNachmittags erreichen Sie die Plitvicer Unterseen. Eiskristalle an den Ufern von Kaluđerovac und Milanovac glitzern in der tiefstehenden Sonne, während Novakovića brod teilweise in Eis erstarrt ist.\n\nUm 17:00 Uhr beginnt die Dämmerung und die Kälte zieht sofort an. Das Ende der Tour am Milanovac-See ist geprägt von der Stille des Winters, bevor Sie schnell zum Ausgangspunkt zurückkehren müssen.",
+            "hu": "Fagyos kezdés vár a Korana-kilátónál, ahol a szél végigsöpör a kopár sziklákon. A csípős hidegben a keményre fagyott utakon gyorsabban haladhatunk az első kilométereken.\n\nDélben Drežnik vára nyújt rövid szélvédelmet. A téli magány kézzelfogható a romoknál, mielőtt nekivágnánk a Hrastovi vrh emelkedőjének, hogy mozgással tartsuk magunkat melegen.\n\nDélután a Plitvicei alsó tavakhoz érünk. A jégkristályok a Kaluđerovac és Milanovac tavak partján szikráznak az alacsony napfényben, a vízesések pedig részben jégbe fagytak.\n\nEste 17:00 körül a szürkület beálltával a hideg hirtelen fokozódik. A Milanovac-tónál záruló túra után érdemes sietve visszatérni a fűtött szállásra a fagyos sötétben.",
+            "ro": "Un început geros vă așteaptă la Priveliștea Korana, unde vântul mătură stâncile golașe. Aerul rece vă ciupește obrajii în timp ce parcurgeți primii kilometri pe drumuri înghețate.\n\nLa prânz, Cetatea Drežnik servește ca scurt adăpost împotriva vântului. Singurătatea iernii este palpabilă aici înainte de a începe urcarea spre Hrastovi vrh pentru a vă menține căldura corporală.\n\nDupă-amiaza ajungeți la lacurile inferioare din Plitvice. Cristalele de gheață de pe malurile lacurilor Kaluđerovac și Milanovac sclipesc în soarele palid, iar cascada este parțial înghețată.\n\nLa ora 17:00 începe amurgul și frigul devine tăios. Finalul turului la lacul Milanovac este marcat de liniștea iernii, necesitând o întoarcere rapidă la punctul de plecare.",
+            "en": "A frosty start awaits at Korana View, where wind sweeps across the barren rocks. The biting air stings your cheeks as you cover the first kilometers on hard-frozen trails.\n\nAt noon, Drežnik Old Town serves as a brief windbreak. The winter solitude is palpable here before you tackle the ascent to Hrastovi vrh to keep your body heat up through movement.\n\nIn the afternoon, you reach the lower Plitvice lakes. Ice crystals on the shores of Kaluđerovac and Milanovac glisten in the low sun, while Novakovića brod is partially frozen.\n\nBy 5:00 PM, twilight sets in and the cold intensifies immediately. The end of the tour at Lake Milanovac is marked by winter silence, requiring a quick return to your starting point."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Korana-Blick",
+                "hu": "Korana-kilátó",
+                "ro": "Priveliștea Korana",
+                "en": "Korana View"
+              },
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist hier oben extrem; tragen Sie winddichte Handschuhe und eine Sturmhaube unter dem Helm, um keine Erfrierungen an den exponierten Stellen zu riskieren.",
+                "hu": "A szélérzet itt rendkívül alacsony; viseljen szélálló kesztyűt és maszkot a sisak alatt, hogy megvédje arcát a fagyos széltől a kilátóponton.",
+                "ro": "Efectul de răcire al vântului este extrem aici; purtați mănuși rezistente la vânt și o cagulă sub cască pentru a proteja fața de îngheț în zonele expuse.",
+                "en": "The wind chill effect is extreme up here; wear windproof gloves and a balaclava under your helmet to prevent frostbite on exposed areas while viewing the canyon."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Drežnik",
+                "hu": "Drežnik vára",
+                "ro": "Cetatea Drežnik",
+                "en": "Drežnik Old Town"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor herabfallenden Eiszapfen an den Burgmauern; halten Sie Abstand zu den Rändern und bewegen Sie sich ständig, um die Blutzirkulation in den Füßen aufrechtzuerhalten.",
+                "hu": "Vigyázzon a várfalakról lehulló jégcsapokra; tartson távolságot a peremektől, és mozogjon folyamatosan, hogy fenntartsa a vérkeringést a lábaiban a hidegben.",
+                "ro": "Atenție la țurțurii care pot cădea de pe zidurile cetății; păstrați distanța de margini și mișcați-vă continuu pentru a menține circulația sângelui în picioare.",
+                "en": "Watch out for falling icicles from the castle walls; keep your distance from the edges and stay active to maintain blood circulation in your feet during the stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Hrastovi vrh",
+                "hu": "Hrastovi vrh",
+                "ro": "Hrastovi vrh",
+                "en": "Hrastovi vrh"
+              },
+              "tip_5lang": {
+                "de": "Gefrorener Matsch bildet im Winter tiefe, harte Furchen auf dem Weg; fahren Sie konzentriert und halten Sie den Lenker fest, um Stürze auf dem unebenen Boden zu vermeiden.",
+                "hu": "A fagyott sár mély, kemény barázdákat alkot az úton; vezessen koncentráltan és fogja szorosan a kormányt, hogy elkerülje az eséseket az egyenetlen talajon.",
+                "ro": "Noroiul înghețat formează șanțuri adânci și dure pe drum; pedalați cu atenție și țineți bine ghidonul pentru a evita căzăturile pe terenul accidentat.",
+                "en": "Frozen mud creates deep, hard ruts on the trail in winter; stay focused and grip your handlebars firmly to avoid crashes on the uneven, rock-hard ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Novakovića brod",
+                "hu": "Novakovića brod",
+                "ro": "Novakovića brod",
+                "en": "Novakovića brod"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt des Wasserfalls gefriert sofort auf dem Boden und den Stegen; steigen Sie vom Rad ab und schieben Sie es vorsichtig, da die Glätte hier extrem tückisch ist.",
+                "hu": "A vízesés permete azonnal ráfagy a talajra és a pallókra; szálljon le a bringáról és tolja óvatosan, mert a jegesedés itt rendkívül csalóka és veszélyes.",
+                "ro": "Vaporii de apă ai cascadei îngheață instantaneu pe sol și podețe; coborâți de pe bicicletă și mergeți cu grijă, deoarece gheața este extrem de înșelătoare aici.",
+                "en": "The waterfall's spray freezes instantly on the ground and walkways; dismount your bike and push it carefully, as the black ice here is extremely treacherous."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaluđerovac-See",
+                "hu": "Kaluđerovac-tó",
+                "ro": "Lacul Kaluđerovac",
+                "en": "Lake Kaluđerovac"
+              },
+              "tip_5lang": {
+                "de": "Der See ist im Winter oft teilweise zugefroren; bleiben Sie auf den markierten Wegen und betreten Sie unter keinen Umständen das Eis, auch wenn es stabil erscheint.",
+                "hu": "A tó télen gyakran részben befagy; maradjon a kijelölt utakon, és semmilyen körülmények között ne lépjen a jégre, még ha vastagnak is tűnik a part közelében.",
+                "ro": "Lacul este adesea parțial înghețat iarna; rămâneți pe traseele marcate și nu călcați sub nicio formă pe gheață, chiar dacă pare solidă lângă mal.",
+                "en": "The lake is often partially frozen in winter; stay on marked paths and do not step on the ice under any circumstances, even if it appears thick near the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Milanovac-See",
+                "hu": "Milanovac-tó",
+                "ro": "Lacul Milanovac",
+                "en": "Lake Milanovac"
+              },
+              "tip_5lang": {
+                "de": "Gegen Ende der Tour wird die Kälte durch die Seenähe intensiver; sorgen Sie dafür, dass Sie für die letzte Etappe noch eine trockene Schicht Kleidung zum Überziehen haben.",
+                "hu": "A túra végén a tó közelsége miatt a hideg intenzívebbé válik; ügyeljen rá, hogy az utolsó szakaszra legyen egy száraz réteg ruhája, amit magára vehet.",
+                "ro": "Spre finalul turului, frigul devine mai intens lângă lac; asigurați-vă că aveți un strat de haine uscat de rezervă pentru ultima etapă a traseului.",
+                "en": "Towards the end of the tour, the cold becomes more intense near the water; ensure you have a dry layer of clothing to put on for the final stretch back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az autós túránk a Szarvas-völgyben indul, ahol a reggeli órákban békésen legelésző állatokat figyelhetjük meg. Ezután a közeli Drežnik várához hajtunk. / Délben belépünk a nemzeti park területére, és megcsodáljuk az olyan kristálytiszta tavakat, mint a Novakovića brod és a halakban gazdag Gavanovac. / A délután a hatalmas Kozjak-tóé. Kiszállunk az autóból, és egy hajókázás során a vízről élvezzük a lélegzetelállító környezetet. / Este az utolsó tócsoportokhoz, a Gradinsko és a Burget felé vesszük az irányt. A mésztufa gátakon megcsillanó lágy fény tökéletes befejezése a napnak.",
         "ro": "Excursia noastră cu mașina începe cu o vizită în Valea Cerbilor, unde observăm animalele pașnice de dimineață. Apoi mergem la Cetatea Drežnik din apropiere. / La prânz intrăm în zona parcului național și admirăm primele lacuri limpezi, precum Novakovića brod și Gavanovac, pline de pești. / După-amiaza este dedicată uriașului lac Kozjak. Părăsim mașina pentru o plimbare cu barca și ne bucurăm de natura uluitoare de pe apă. / Seara conducem spre ultimele grupuri de lacuri, Gradinsko și Burget. Lumina moale a asfințitului reflectată pe barierele de travertin încheie perfect ziua.",
         "en": "Our road trip kicks off with a morning visit to Deer Valley, quietly observing the peaceful animals before making a short drive over to Drežnik Fortress. / Around midday, we drive down into the national park area. We marvel at the pristine lower lakes like Novakovića brod and the fish-filled waters of Gavanovac. / The afternoon is dedicated to the massive Lake Kozjak. We leave the car behind to enjoy a scenic boat ride, taking in the breathtaking views from the water. / In the evening, we cruise toward the final lake clusters, Gradinsko and Burget. The soft twilight reflecting off the travertine barriers makes a perfect finale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt entspannt mit der Fahrt zum Hirschtal. Aus dem warmen Auto beobachten Sie den Regen, bevor Sie für die Tierfütterung kurz ins Freie treten.\n\nMittags führt die kurze Fahrt zur Burg Drežnik. Der Parkplatz ist nah, sodass Sie den Schauern schnell entkommen und im Inneren des Turms die Geschichte der Region trocken erkunden können.\n\nNachmittags steuern Sie die Plitvicer Seen an. Von den Parkplätzen aus erreichen Sie Novakovića brod und die Seen Gavanovac und Kozjak, die im Regen eine mystische, türkisfarbene Leuchtkraft entwickeln.\n\nAm Abend endet die Tour an den Burget-Seen. Die Rückfahrt nach Smoljanac erfolgt durch den dichten Nebel der Wälder, während die Scheibenwischer den Rhythmus eines erlebnisreichen Regentages vorgeben.",
+            "hu": "A nap kényelmesen indul a Szarvas-völgybe menet. Az autóból figyelhetjük az esőfüggönyt, majd egy rövid séta keretében vehetünk részt az állatok etetésén.\n\nDélben a közeli Drežnik várához autózunk. A parkoló közel van, így gyorsan fedett helyre kerülhetünk, és a torony belsejében szárazon ismerkedhetünk meg a környék múltjával.\n\nDélután a Plitvicei-tavak következnek. A Novakovića brod vízesés és a Gavanovac-tó esőben is lenyűgöző, a türkiz víz színe ilyenkor különleges kontrasztot alkot a szürke éggel.\n\nEste a Burget-tavaknál zárjuk a napot. A visszaút Smoljanacba a ködös erdőkön keresztül vezet, az autó biztonságából csodálva a természet eső áztatta nyugalmát.",
+            "ro": "Ziua începe relaxat cu un drum spre Valea Cerbilor. Din mașina caldă puteți observa ploaia înainte de a ieși scurt pentru a hrăni animalele în aer liber.\n\nLa prânz, un drum scurt vă duce la Cetatea Drežnik. Parcarea este aproape, așa că puteți scăpa rapid de rafale și puteți explora istoria regiunii la adăpostul turnului.\n\nDupă-amiaza vă îndreptați spre lacurile Plitvice. De la parcări ajungeți ușor la Novakovića brod și lacurile Gavanovac și Kozjak, care capătă o luminozitate turcoaz mistică pe ploaie.\n\nSeara, turul se încheie la lacurile Burget. Drumul de întoarcere spre Smoljanac trece prin ceața densă a pădurilor, oferind o perspectivă sigură asupra peisajului umed din interiorul mașinii.",
+            "en": "The day begins relaxed with a drive to Deer Valley. From the warm car, watch the rain fall before stepping out briefly for the animal feeding session.\n\nAt noon, a short drive leads to Drežnik Old Town. The parking is close by, so you can escape the showers quickly and explore the local history inside the dry tower.\n\nIn the afternoon, head towards the Plitvice lakes. From the parking areas, easily reach Novakovića brod and Lakes Gavanovac and Kozjak, which develop a mystical turquoise glow in the rain.\n\nBy evening, the tour concludes at the Burget Lakes. The drive back to Smoljanac through the dense forest mist provides a cozy end to an eventful rainy day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hirschtal",
+                "hu": "Szarvas-völgy",
+                "ro": "Valea Cerbilor",
+                "en": "Deer Valley"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich am Eingang für die Einweisung; Gummistiefel sind im Auto ratsam, da die Weiden im Tal bei Regen schnell sehr matschig werden.",
+                "hu": "Használja a bejáratnál lévő fedett részt az eligazításhoz; tartsunk gumicsizmát az autóban, mert a völgy legelői esőben gyorsan nagyon sárossá válnak.",
+                "ro": "Folosiți zona acoperită de la intrare pentru instruire; este recomandat să aveți cizme de cauciuc în mașină, deoarece pășunile devin foarte noroioase pe ploaie.",
+                "en": "Use the covered area at the entrance for the briefing; keeping rubber boots in the car is wise as the valley pastures turn very muddy quickly during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Drežnik",
+                "hu": "Drežnik vára",
+                "ro": "Cetatea Drežnik",
+                "en": "Drežnik Old Town"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur 200m entfernt; sprinten Sie zum Turm, um trocken zu bleiben, und genießen Sie den Panoramablick auf die Korana durch die schützenden Glasfenster.",
+                "hu": "A parkoló mindössze 200 méterre van; siessen a toronyhoz, hogy száraz maradjon, és élvezze a panorámát a Korana-völgyre a védett üvegablakokon keresztül.",
+                "ro": "Parcarea este la doar 200 de metri; mergeți rapid spre turn pentru a rămâne uscați și admirați panorama văii Korana prin ferestrele de sticlă protectoare.",
+                "en": "The parking lot is only 200m away; dash to the tower to stay dry and enjoy the panoramic views of the Korana through the protective glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Novakovića brod",
+                "hu": "Novakovića brod",
+                "ro": "Novakovića brod",
+                "en": "Novakovića brod"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt vermischt sich mit dem Regen zu einer feuchten Wand; halten Sie ein Mikrofasertuch bereit, um die Autoscheiben nach der Besichtigung schnell zu entnebeln.",
+                "hu": "A vízesés permete és az eső közös párát alkot; tartsunk mikroszálas kendőt az autóban, hogy a látogatás után gyorsan páramentesíthessük a szélvédőt.",
+                "ro": "Vaporii cascadei se amestecă cu ploaia într-un zid de umiditate; aveți o lavetă de microfibră în mașină pentru a dezaburi rapid geamurile după vizită.",
+                "en": "The waterfall's spray mixes with rain into a wall of moisture; keep a microfiber cloth handy to quickly defog your car windows after returning from the falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Gavanovac-See",
+                "hu": "Gavanovac-tó",
+                "ro": "Lacul Gavanovac",
+                "en": "Lake Gavanovac"
+              },
+              "tip_5lang": {
+                "de": "Der See liegt in einer Senke, wo sich oft Nebel sammelt; fahren Sie mit eingeschaltetem Abblendlicht zwischen den Parkplätzen, um die Sichtbarkeit im Dunst zu erhöhen.",
+                "hu": "A tó egy mélyedésben fekszik, ahol gyakran megül a köd; közlekedjen bekapcsolt tompított fényszóróval a parkolók között a jobb láthatóság érdekében.",
+                "ro": "Lacul se află într-o depresiune unde ceața se adună des; conduceți cu faza scurtă aprinsă între parcări pentru a crește vizibilitatea în atmosfera densă.",
+                "en": "The lake sits in a hollow where mist often collects; drive with dipped headlights between parking areas to increase your visibility in the damp haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Kozjak-See",
+                "hu": "Kozjak-tó",
+                "ro": "Lacul Kozjak",
+                "en": "Lake Kozjak"
+              },
+              "tip_5lang": {
+                "de": "Das Elektroboot auf dem See ist überdacht und bietet eine trockene Überfahrt; nutzen Sie diese bequeme Möglichkeit, um die Seelandschaft ohne nass zu werden zu erleben.",
+                "hu": "A tavon közlekedő elektromos hajó fedett, így szárazon kelhetünk át; használja ezt a kényelmes lehetőséget a tóvidék felfedezésére esőben is.",
+                "ro": "Barca electrică de pe lac este acoperită, oferind o traversare uscată; profitați de această opțiune confortabilă pentru a vedea lacul fără a vă uda.",
+                "en": "The electric boat on the lake is covered, offering a dry crossing; use this comfortable option to experience the lakeside scenery without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Gradinsko-See",
+                "hu": "Gradinsko-tó",
+                "ro": "Lacul Gradinsko",
+                "en": "Lake Gradinsko"
+              },
+              "tip_5lang": {
+                "de": "Die Wege rund um den See sind teilweise mit Holzplanken befestigt; parken Sie am P2 und wählen Sie die kürzeste Route zu den Aussichtspunkten, um Schauern auszuweichen.",
+                "hu": "A tó körüli utak részben fapallókkal burkoltak; parkoljon a P2-nél, és válassza a legrövidebb utat a kilátókhoz, hogy elkerülje a nagyobb záporokat.",
+                "ro": "Potecile din jurul lacului sunt parțial amenajate cu scânduri; parcați la P2 și alegeți cea mai scurtă rută spre punctele de belvedere pentru a evita ploaia.",
+                "en": "Paths around the lake are partially boardwalked; park at P2 and choose the shortest route to the viewpoints to minimize time spent in heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Burget-Seen",
+                "hu": "Burget-tavak",
+                "ro": "Lacurile Burget",
+                "en": "Burget Lakes"
+              },
+              "tip_5lang": {
+                "de": "Diese kleineren Seen sind im Regen besonders ruhig; genießen Sie den Anblick kurz vom Ufer aus und nutzen Sie die Sitzheizung auf dem Rückweg für maximalen Komfort.",
+                "hu": "Ezek a kisebb tavak esőben rendkívül csendesek; csodálja meg őket a partról, majd használja az ülésfűtést a hazaúton a maximális komfort érdekében.",
+                "ro": "Aceste lacuri mai mici sunt extrem de liniștite pe ploaie; admirați-le scurt de pe mal și folosiți încălzirea în scaune la întoarcere pentru confort maxim.",
+                "en": "These smaller lakes are exceptionally quiet in the rain; enjoy the view briefly from the shore and then use your seat heaters on the drive back for maximum comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt mit einer Fahrt durch das verschneite Lika-Hochland zum Hirschtal. Die Heizung läuft, während draußen die Rehe im weißen Feld nach Futter suchen.\n\nMittags erreichen Sie die Burg Drežnik. Der kurze Spaziergang vom Auto zum Turm ist erfrischend kalt, und der Ausblick auf die gefrorene Korana-Schlucht ist im Winterlicht einmalig.\n\nNachmittags erkunden Sie die Plitvicer Seen mit dem Wagen. Die Parkplätze sind leerer als im Sommer, was einen entspannten Besuch der eisigen Wasserfälle und der stillen Seen Kozjak und Gradinsko ermöglicht.\n\nAb 16:30 Uhr sinkt die Sonne und taucht die Burget-Seen in ein tiefes Blau. Die Rückfahrt erfolgt bei einbrechender Dunkelheit über geräumte, aber kalte Straßen zurück nach Smoljanac.",
+            "hu": "A téli nap autózással indul a havas tájon keresztül a Szarvas-völgybe. A fűtött utastérből csodálhatjuk a fehér mezőket, ahol az állatok téli bundájukban keresgélnek.\n\nDélben Drežnik vára a cél, ahol a parkolóból egy rövid, frissítő séta vezet a romokhoz. A fagyott Korana-kanyon látványa a téli napfényben felejthetetlen élmény.\n\nDélután a Plitvicei-tavakat keressük fel autóval. A tömeg hiánya miatt nyugodtan csodálhatjuk meg a befagyott vízeséseket és a Gradinsko-tó jeges partjait.\n\nEste 16:30-kor a nap már lebukik, a Burget-tavakat kék árnyékok borítják. A visszaút a falu fényei felé biztonságos és kényelmes az autó melegében.",
+            "ro": "Ziua de iarnă începe cu un drum prin peisajul înzăpezit spre Valea Cerbilor. Căldura din mașină face contrast cu câmpurile albe unde căprioarele caută hrană în zăpadă.\n\nLa prânz ajungeți la Cetatea Drežnik. Scurta plimbare de la mașină la turn este revigorant de rece, iar vederea canionului Korana înghețat este unică în lumina iernii.\n\nDupă-amiaza explorați lacurile Plitvice cu mașina. Parcarea este mult mai liberă, permițând o vizită relaxată la cascadele înghețate și lacurile Kozjak și Gradinsko tăcute.\n\nDe la ora 16:30, soarele apune, scufundând lacurile Burget în umbre albastre. Întoarcerea spre Smoljanac se face pe drumurile curățate, dar reci, în timp ce se lasă întunericul.",
+            "en": "The winter day begins with a drive through the snowy Lika highlands to Deer Valley. The heater hums as you watch deer foraging in the white fields from the car windows.\n\nAt noon, you reach Drežnik Old Town. The short walk from the car to the tower is refreshingly cold, and the view of the frozen Korana canyon is unique in the winter light.\n\nIn the afternoon, explore the Plitvice lakes by car. Parking areas are emptier than in summer, allowing for a relaxed visit to icy waterfalls and the silent Kozjak and Gradinsko lakes.\n\nBy 4:30 PM, the sun sets, dipping the Burget Lakes into deep blue shadows. The drive back to Smoljanac takes place as darkness falls over the cleared but chilly winter roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hirschtal",
+                "hu": "Szarvas-völgy",
+                "ro": "Valea Cerbilor",
+                "en": "Deer Valley"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Öffnungszeiten im Winter vorab; nehmen Sie eine Decke für das Auto mit, um sich nach der Fütterung auf der Weiterfahrt schnell wieder aufzuwärmen.",
+                "hu": "Ellenőrizze a téli nyitvatartást előre; vigyen takarót az autóba, hogy az etetés utáni továbbúton gyorsan felmelegedhessen az utasülésben.",
+                "ro": "Verificați programul de iarnă în prealabil; luați o pătură în mașină pentru a vă încălzi rapid pe drumul spre următoarea oprire după vizita în vale.",
+                "en": "Check winter opening hours in advance; bring a blanket for the car to help warm up quickly during the drive after spending time outdoors with the animals."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Drežnik",
+                "hu": "Drežnik vára",
+                "ro": "Cetatea Drežnik",
+                "en": "Drežnik Old Town"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz und dem kurzen Fußweg; lassen Sie den Motor nicht unnötig laufen und nutzen Sie die klare Sicht für Fotos vom Turm aus.",
+                "hu": "Ügyeljen a jegesedésre a parkolóban és a rövid sétaúton; ne járassa feleslegesen a motort, és használja ki a tiszta látási viszonyokat a toronyból készített fotókhoz.",
+                "ro": "Atenție la polei în parcare și pe drumul scurt spre cetate; nu lăsați motorul pornit inutil și profitați de claritatea aerului pentru fotografii din turn.",
+                "en": "Watch out for black ice in the parking lot and on the short path; avoid idling the engine and use the clear winter visibility for photos from the tower top."
+              }
+            },
+            {
+              "name": {
+                "de": "Novakovića brod",
+                "hu": "Novakovića brod",
+                "ro": "Novakovića brod",
+                "en": "Novakovića brod"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Wasserfälle sind ein Highlight; stellen Sie sicher, dass Ihr Wischwasser frostgeschützt ist, da die Gischt auf der Windschutzscheibe sofort gefrieren kann.",
+                "hu": "A befagyott vízesések lenyűgözőek; ellenőrizze, hogy fagyálló-e a szélvédőmosó folyadék, mert a permet azonnal ráfagyhat az üvegre a parkoló környékén.",
+                "ro": "Cascadele înghețate sunt spectaculoase; asigurați-vă că lichidul de parbriz este rezistent la îngheț, deoarece vaporii de apă pot îngheța instantaneu pe geam.",
+                "en": "The frozen waterfalls are a winter highlight; ensure your windshield fluid is frost-resistant as the spray can freeze instantly on your glass near the falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Gavanovac-See",
+                "hu": "Gavanovac-tó",
+                "ro": "Lacul Gavanovac",
+                "en": "Lake Gavanovac"
+              },
+              "tip_5lang": {
+                "de": "Der Zugang kann bei starkem Schneefall eingeschränkt sein; nutzen Sie den Parkplatz P1 und genießen Sie die Stille der weißen Seelandschaft vom oberen Aussichtspunkt.",
+                "hu": "Erős havazás esetén a hozzáférés korlátozott lehet; használja a P1 parkolót, és csodálja meg a fehér táj csendjét a felső kilátópontról.",
+                "ro": "Accesul poate fi limitat în caz de ninsoare abundentă; folosiți parcarea P1 și bucurați-vă de liniștea peisajului alb de la punctul de belvedere superior.",
+                "en": "Access might be limited during heavy snowfall; use parking P1 and enjoy the silence of the white lakeside landscape from the upper panoramic viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Kozjak-See",
+                "hu": "Kozjak-tó",
+                "ro": "Lacul Kozjak",
+                "en": "Lake Kozjak"
+              },
+              "tip_5lang": {
+                "de": "Die Bootsfahrt findet im Winter nur nach Bedarf oder bei gutem Wetter statt; tragen Sie mehrere Schichten Kleidung, da es auf dem Wasser extrem kalt wird.",
+                "hu": "A hajókázás télen csak igény szerint vagy jó időben indul; öltözzön rétegesen, mert a nyílt vízen a hideg sokkal intenzívebben érezhető.",
+                "ro": "Plimbarea cu barca are loc doar la cerere sau pe vreme bună iarna; îmbrăcați-vă în straturi, deoarece pe apă frigul devine mult mai tăios.",
+                "en": "Boat trips in winter operate only on demand or in good weather; wear multiple layers of clothing as it gets extremely cold on the open water."
+              }
+            },
+            {
+              "name": {
+                "de": "Gradinsko-See",
+                "hu": "Gradinsko-tó",
+                "ro": "Lacul Gradinsko",
+                "en": "Lake Gradinsko"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne erzeugt wunderschöne Lichtreflexe auf dem Eis; halten Sie die Besichtigung kurz, um vor dem Temperatursturz am späten Nachmittag im Auto zu sein.",
+                "hu": "Az alacsonyan járó nap csodás fényeket vet a jégre; tartsa röviden a látogatást, hogy a késő délutáni fagy beállta előtt már az autó melegében lehessen.",
+                "ro": "Soarele palid creează reflexii superbe pe gheață; vizitați scurt pentru a vă întoarce la căldura mașinii înainte de scăderea drastică a temperaturii de seară.",
+                "en": "The low sun creates beautiful light reflections on the ice; keep your visit brief to be back in the warm car before the late afternoon temperature drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Burget-Seen",
+                "hu": "Burget-tavak",
+                "ro": "Lacurile Burget",
+                "en": "Burget Lakes"
+              },
+              "tip_5lang": {
+                "de": "Am späten Nachmittag herrscht hier eine andächtige Winterruhe; prüfen Sie Ihre Scheinwerfer vor der Abfahrt, da die Straßen im Wald nun schnell dunkel werden.",
+                "hu": "Késő délután ünnepélyes téli csend honol itt; ellenőrizze a fényszórókat indulás előtt, mert az erdei utakon ilyenkor már gyorsan sötétedik.",
+                "ro": "După-amiaza târziu aici domină o liniște deplină; verificați farurile înainte de plecare, deoarece drumurile prin pădure devin obscure foarte rapid.",
+                "en": "In the late afternoon, a solemn winter silence reigns here; check your headlights before departing as the forest roads darken very quickly at this hour."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Reggel: Kingsteigntoni sétánkat a történelmi Szent Mihály-templomnál kezdjük, majd az Oakford Lawn nyílt zöldterületeire indulunk, hogy élvezzük a friss, ropogós reggeli levegőt.\nDél: A dél közeledtével megcsodáljuk a városháza klasszikus építészetét, elmerülve a közösség polgári történelmében, mielőtt tovább indulnánk dél felé, a természet ölelésébe.\nDélután: A délutánt a békés Hackney Marshes-nek szenteljük, ahol teljesen elmerülhetünk a helyi növény- és állatvilágban, néhány órára magunk mögött hagyva a város zaját.\nEste: Sétatúránkat a történelmi Teigngrace-csatornánál zárjuk, a régió gazdag ipari múltján merengve, miközben a nap lassan lenyugszik a szelíd víztükör felett.",
         "ro": "Dimineața: Începem plimbarea noastră la biserica istorică St Michael, stabilind un ton liniștit, înainte de a ne îndrepta spre spațiile verzi deschise din Oakford Lawn pentru a ne relaxa.\nAmiaza: Pe măsură ce se apropie prânzul, admirăm arhitectura oficială a Primăriei, reflectând la istoria civică a comunității înainte de a ne îndrepta mai spre sud în natură.\nDupă-amiaza: După-amiaza este dedicată mlaștinilor pașnice Hackney, unde ne putem cufunda în flora și fauna locală, evadând din agitația urbană pentru câteva ore liniștite.\nSeara: Încheiem turul nostru pietonal la istoricul Canal Teigngrace, reflectând la trecutul industrial al regiunii în timp ce soarele începe să apună peste apele blânde.",
         "en": "Morning: We begin our Kingsteignton stroll at the historic St Michael's Church, setting a tranquil tone before heading to the open green spaces of Oakford Lawn to enjoy the morning air.\nMidday: As noon approaches, we admire the formal architecture of the Kingsteignton Town Hall, reflecting on the community's civic history before heading further south into nature.\nAfternoon: The afternoon is dedicated to the peaceful Hackney Marshes, where we can immerse ourselves in the local flora and fauna, escaping the urban bustle for a few peaceful hours.\nEvening: We conclude our walking tour at the historic Teigngrace Canal, reflecting on the region's industrial past as the sun begins to set over the gentle waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt geschützt in der historischen Kirche. Mittags führt der Weg durch das Stadtzentrum, wo die Architektur unter grauem Himmel glänzt. Nachmittags fordern die aufgeweichten Pfade der Marschgebiete festes Schuhwerk und einen guten Regenschirm. Der Abend klingt ruhig aus, während die Tropfen auf das Wasser des Kanals trommeln.",
+            "hu": "Az esős reggel a történelmi templom oltalmában indul. Délben a városközpont felé vesszük az irányt, ahol az épületek komor fényben tündökölnek. Délután a mocsaras vidék felázott ösvényei vízálló lábbelit és esernyőt igényelnek. Az este békésen zárul, miközben az esőcseppek ritmikusan kopognak a csatorna felszínén.",
+            "ro": "O dimineață ploioasă începe la adăpost în biserica istorică. La prânz, drumul duce spre centrul orașului, unde arhitectura strălucește sub cerul gri. După-amiaza, potecile noroioase din mlaștini necesită încălțăminte impermeabilă și o umbrelă solidă. Seara se încheie liniștit, în timp ce picăturile de ploaie bat în suprafața canalului.",
+            "en": "A rainy morning starts sheltered within the historic church. At noon, head towards the town center where the civic buildings gleam under grey skies. In the afternoon, the softened paths of the marshes demand waterproof boots and a sturdy umbrella. The evening concludes peacefully as raindrops drum rhythmically on the canal's surface."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Michael's Church",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica St Michael",
+                "en": "St Michael's Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die mittelalterliche Architektur im trockenen Innenraum und nutzen Sie die Stille für eine besinnliche Pause bei prasselndem Regen.",
+                "hu": "Csodálja meg a középkori építészetet a száraz belső térben, és használja ki a csendet egy elmélkedő pihenőre a kinti eső kopogása közben.",
+                "ro": "Admirați arhitectura medievală în interiorul uscat și profitați de liniște pentru o pauză de reflecție în timp ce ploaia bate în geamuri.",
+                "en": "Admire the medieval architecture in the dry interior and use the silence for a reflective break while the rain patters outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Oakford Lawn",
+                "hu": "Oakford Lawn",
+                "ro": "Oakford Lawn",
+                "en": "Oakford Lawn"
+              },
+              "tip_5lang": {
+                "de": "Die Rasenflächen sind bei Nässe sehr rutschig; bleiben Sie auf den befestigten Wegen und genießen Sie das satte Grün der Bäume im Regen.",
+                "hu": "A gyep vizesen nagyon csúszós; maradjon a kövezett utakon, és élvezze a fák mélyzöld színét az eső áztatta parkban.",
+                "ro": "Gazonul este foarte alunecos când este ud; rămâneți pe aleile pavate și bucurați-vă de verdele crud al copacilor sub ploaie.",
+                "en": "The lawns are very slippery when wet; stick to the paved paths and enjoy the deep green of the trees in the rain-soaked park."
+              }
+            },
+            {
+              "name": {
+                "de": "Kingsteignton Town Hall",
+                "hu": "Kingsteignton Városháza",
+                "ro": "Primăria Kingsteignton",
+                "en": "Kingsteignton Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie kurz Schutz unter den Dachvorsprüngen des Rathauses und betrachten Sie die viktorianischen Details dieses bürgerlichen Zentrums.",
+                "hu": "Keressen rövid menedéket a városháza ereszei alatt, és figyelje meg a polgári központ viktoriánus részleteit a szürkületben.",
+                "ro": "Căutați un scurt adăpost sub streșinile primăriei și observați detaliile victoriene ale acestui centru civic în timp ce vă feriți de ploaie.",
+                "en": "Seek brief shelter under the town hall's eaves and observe the Victorian details of this civic center while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Hackney Marshes",
+                "hu": "Hackney Marshes",
+                "ro": "Hackney Marshes",
+                "en": "Hackney Marshes"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen und Schlamm; Gummistiefel sind hier unerlässlich, um die mystische Atmosphäre der feuchten Feuchtgebiete zu erleben.",
+                "hu": "Vigyázzon a mély tócsákkal és a sárral; a gumicsizma itt elengedhetetlen, hogy átélje a nedves mocsárvidék misztikus hangulatát.",
+                "ro": "Atenție la bălțile adânci și noroi; cizmele de gumă sunt esențiale aici pentru a experimenta atmosfera mistică a zonelor umede.",
+                "en": "Watch out for deep puddles and mud; wellies are essential here to experience the mystical atmosphere of the damp wetlands."
+              }
+            },
+            {
+              "name": {
+                "de": "Teigngrace Canal",
+                "hu": "Teigngrace-csatorna",
+                "ro": "Canalul Teigngrace",
+                "en": "Teigngrace Canal"
+              },
+              "tip_5lang": {
+                "de": "Der Leinpfad kann matschig sein, bietet aber dramatische Spiegelungen im Wasser; ein großer Schirm schützt Sie auf diesem historischen Pfad.",
+                "hu": "A vontatóút saras lehet, de drámai tükröződéseket kínál a vízen; egy nagy esernyő megvédi Önt ezen a történelmi ösvényen.",
+                "ro": "Poteca de tractiune poate fi noroioasă, dar oferă reflexii dramatice în apă; o umbrelă mare vă va proteja pe acest traseu istoric.",
+                "en": "The towpath can be muddy but offers dramatic reflections in the water; a large umbrella will protect you on this historical trail."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt in der kühlen Stille der Kirche. Mittags wärmt die tiefstehende Sonne den Weg zum Rathaus. Da es bereits gegen 17:00 Uhr dunkel wird, sollten die Marschgebiete und der Kanal am frühen Nachmittag besucht werden, wenn Reif die Landschaft in Weiß taucht. Der Abend endet bei Einbruch der Dunkelheit gemütlich im Stadtkern.",
+            "hu": "A fagyos téli reggel a templom hűvös csendjében indul. Délben az alacsonyan járó nap sugarai melegítik az utat a városháza felé. Mivel 17:00 körül már sötétedik, a mocsarat és a csatornát kora délután érdemes felkeresni, amikor a zúzmara fehérbe öltözteti a tájat. Az este a sötétség beálltával a városközpontban zárul.",
+            "ro": "O dimineață geroasă de iarnă începe în liniștea răcoroasă a bisericii. La prânz, soarele palid încălzește drumul spre primărie. Deoarece se întunecă în jur de ora 17:00, mlaștinile și canalul trebuie vizitate devreme, când chiciura îmbracă totul în alb. Seara se încheie confortabil în centrul orașului odată cu lăsarea întunericului.",
+            "en": "A frosty winter morning starts in the cool silence of the church. At noon, the low sun warms the path to the town hall. Since it gets dark around 17:00, visit the marshes and canal in the early afternoon when frost coats the landscape in white. The evening ends cozily in the town center as darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Michael's Church",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica St Michael",
+                "en": "St Michael's Church"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da Steinkirchen im Winter sehr kühl sind; bewundern Sie das sanfte Winterlicht in den bunten Glasfenstern.",
+                "hu": "Öltözzön rétegesen, mert a kőtemplomok télen nagyon hűvösek; csodálja meg a lágy téli fényt a színes üvegablakokon keresztül.",
+                "ro": "Purtați haine groase, deoarece bisericile de piatră sunt răcoroase iarna; admirați lumina palidă de iarnă prin vitraliile colorate.",
+                "en": "Wear warm layers as stone churches are very cool in winter; admire the soft winter light filtering through the stained-glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Oakford Lawn",
+                "hu": "Oakford Lawn",
+                "ro": "Oakford Lawn",
+                "en": "Oakford Lawn"
+              },
+              "tip_5lang": {
+                "de": "Der gefrorene Rasen knirscht unter den Füßen; achten Sie auf glatte Stellen auf den Gehwegen während Ihres kurzen Winterspaziergangs.",
+                "hu": "A fagyott gyep ropog a talpa alatt; ügyeljen a járdák csúszós foltjaira a rövid, frissítő téli séta során.",
+                "ro": "Gazonul înghețat trosnește sub picioare; atenție la porțiunile alunecoase de pe alei în timpul scurte plimbări de iarnă.",
+                "en": "The frozen lawn crunches underfoot; watch out for icy patches on the walkways during your brisk winter stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Kingsteignton Town Hall",
+                "hu": "Kingsteignton Városháza",
+                "ro": "Primăria Kingsteignton",
+                "en": "Kingsteignton Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die rote Backsteinfassade bildet einen schönen Kontrast zum grauen Winterhimmel; ideal für ein schnelles Foto vor der frühen Dämmerung.",
+                "hu": "A vörös téglafalak szép kontrasztot alkotnak a szürke téli éggel; ideális helyszín egy gyors fotóhoz a korai szürkület előtt.",
+                "ro": "Fațada din cărămidă roșie oferă un contrast frumos cu cerul gri de iarnă; ideal pentru o fotografie rapidă înainte de amurgul timpuriu.",
+                "en": "The red brick facade contrasts beautifully with the grey winter sky; ideal for a quick photo before the early dusk sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Hackney Marshes",
+                "hu": "Hackney Marshes",
+                "ro": "Hackney Marshes",
+                "en": "Hackney Marshes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare, kalte Luft und den Blick auf gefrorene Tümpel; kehren Sie vor 16:30 Uhr zurück, bevor das Licht schnell schwindet.",
+                "hu": "Élvezze a tiszta, hideg levegőt és a fagyott mocsári tavak látványát; induljon vissza 16:30 előtt, mielőtt a fény hirtelen elfogyna.",
+                "ro": "Bucurați-vă de aerul rece și curat și de vederea bălților înghețate; întoarceți-vă înainte de 16:30, înainte ca lumina să scadă brusc.",
+                "en": "Enjoy the crisp, cold air and views of frozen marsh pools; head back before 16:30 before the light fades rapidly."
+              }
+            },
+            {
+              "name": {
+                "de": "Teigngrace Canal",
+                "hu": "Teigngrace-csatorna",
+                "ro": "Canalul Teigngrace",
+                "en": "Teigngrace Canal"
+              },
+              "tip_5lang": {
+                "de": "Der Kanal wirkt im Winterschlaf besonders friedlich; tragen Sie eine Mütze gegen den Wind, der über das offene Wasser weht.",
+                "hu": "A csatorna téli álmában különösen békésnek tűnik; viseljen sapkát a nyílt víz felett fújó hideg szél ellen.",
+                "ro": "Canalul pare deosebit de liniștit în somnul de iarnă; purtați o căciulă împotriva vântului care suflă peste apa deschisă.",
+                "en": "The canal looks especially peaceful in its winter slumber; wear a hat against the cold wind blowing across the open water."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Reggel: Pattanjon nyeregbe egy festői reggeli bringázáshoz! A Városházától indulunk, és hamarosan a történelmi Szent Mihály-templomhoz érünk, hogy magunkba szívjuk a kora reggeli békét.\nDél: Folytatva utunkat, megpihenünk a tágas Oakford Lawn parkban, majd a Teigngrace-csatornához pedálozunk, hogy kövessük a térség egykori virágzó agyagiparának történelmi útvonalait.\nDélután: Az utazás aktívabbá válik, ahogy elhaladunk a Jetty Marsh tinédzser részleg mellett, majd átkerekezünk a gyönyörű Hackney Marshes természetes, vadregényes vizes élőhelyein.\nEste: A kétkeréken töltött napot a Courtney Park játszóterénél fejezzük be, amely tökéletes hely a kikapcsolódásra és a fáradt lábak pihentetésére a csendes, elnyúló esti árnyékokban.",
         "ro": "Dimineața: Pregătiți-vă pentru o plimbare matinală cu bicicleta, începând de la Primărie și îndreptându-vă rapid spre istorica Biserică St Michael pentru a absorbi atmosfera liniștită.\nAmiaza: Continuând traseul, ne relaxăm la spațiosul Oakford Lawn înainte de a pedala spre Canalul Teigngrace pentru a urmări rutele istorice ale industriei locale a argilei.\nDupă-amiaza: Călătoria devine mai activă trecând prin Zona pentru Tineri Jetty Marsh, apoi ne croim drum prin potecile naturale și pitorești ale zonelor umede din Hackney Marshes.\nSeara: Ne încheiem ziua pe două roți la terenul de joacă Courtney Park, un loc perfect pentru a ne relaxa și a ne odihni picioarele în timp ce umbrele serii se întind peste cartier.",
         "en": "Morning: Saddle up for a scenic morning ride through Kingsteignton, starting at the Town Hall and quickly moving to the historic St Michael's Church to absorb the peaceful early atmosphere.\nMidday: Continuing our cycle, we relax at the spacious Oakford Lawn before pedaling out to the Teigngrace Canal to trace the historic routes of the area's booming clay industry.\nAfternoon: The journey becomes more active as we pass the Jetty Marsh Teenage Area, then weave our way through the natural wetland paths of the beautiful Hackney Marshes.\nEvening: We finish our day on two wheels at the Courtney Park playground, a perfect spot to wind down and rest our legs as the evening shadows stretch across the neighborhood."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour erfordert volle Konzentration auf den glatten Straßen. Vormittags bieten Gebäude im Zentrum kurzen Schutz. Mittags geht es entlang des Kanals, wo Schutzbleche Gold wert sind. Nachmittags sind die Pfade in den Marschgebieten eine Herausforderung; bremsen Sie vorsichtig. Der Tag endet bei stürmischem Wetter sicher zurück im Stadtgebiet.",
+            "hu": "A vizes kerékpártúra teljes koncentrációt igényel a csúszós utakon. Délelőtt a központ épületei nyújtanak rövid oltalmat. Délben a csatorna mentén haladunk, ahol a sárvédő aranyat ér. Délután a mocsaras ösvények tartogatnak kihívást; fékezzen óvatosan. A nap viharos időben, biztonságosan ér véget a városban.",
+            "ro": "O tură cu bicicleta pe ploaie necesită concentrare maximă pe drumurile alunecoase. Dimineața, clădirile din centru oferă scurte momente de adăpost. La prânz, mergem de-a lungul canalului, unde apărătorile sunt esențiale. După-amiaza, potecile din mlaștini sunt o provocare; frânați cu prudență. Ziua se încheie în siguranță în oraș.",
+            "en": "A wet bike ride requires full concentration on the slippery roads. In the morning, central buildings offer brief shelter. At noon, cycle along the canal where mudguards are invaluable. In the afternoon, the marsh paths are a challenge; brake cautiously. The day ends safely back in the town area during stormy weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kingsteignton Town Hall",
+                "hu": "Kingsteignton Városháza",
+                "ro": "Primăria Kingsteignton",
+                "en": "Kingsteignton Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und prüfen Sie Ihre Bremsen, bevor Sie die Fahrt auf den nassen Straßen fortsetzen.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és ellenőrizze a fékeit, mielőtt folytatná az utat a vizes aszfalton.",
+                "ro": "Parcați bicicleta într-un loc ferit și verificați frânele înainte de a continua drumul pe străzile ude.",
+                "en": "Park your bike in a sheltered spot and check your brakes before continuing your ride on the wet streets."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michael's Church",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica St Michael",
+                "en": "St Michael's Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang, um kurz die Regenjacke zu richten; der Steinboden im Außenbereich kann bei Nässe glatt sein.",
+                "hu": "Használja a templom bejáratát az esőkabát igazítására; a külső kőburkolat nedvesen rendkívül csúszós lehet.",
+                "ro": "Folosiți intrarea bisericii pentru a vă ajusta pelerina de ploaie; pavajul exterior de piatră poate fi alunecos când este ud.",
+                "en": "Use the church entrance to adjust your rain gear; the exterior stone flooring can be very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Oakford Lawn",
+                "hu": "Oakford Lawn",
+                "ro": "Oakford Lawn",
+                "en": "Oakford Lawn"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit dem Rad über den nassen Rasen zu fahren, um tiefen Matsch zu vermeiden; bleiben Sie auf den Asphaltwegen.",
+                "hu": "Kerülje a vizes gyepen való kerékpározást, hogy elkerülje a mély sarat; maradjon végig az aszfaltozott utakon.",
+                "ro": "Evitați să mergeți cu bicicleta pe gazonul ud pentru a nu crea noroi adânc; rămâneți pe aleile asfaltate.",
+                "en": "Avoid cycling across the wet lawn to prevent deep mud; stick strictly to the asphalt paths throughout the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Teigngrace Canal",
+                "hu": "Teigngrace-csatorna",
+                "ro": "Canalul Teigngrace",
+                "en": "Teigngrace Canal"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die Schlaglöcher verbergen könnten; der Uferweg ist schmal und bei Regen besonders rutschig.",
+                "hu": "Ügyeljen a kátyúkat elrejtő tócsákra; a part menti út keskeny és esőben különösen csúszós, tekerjen lassabban.",
+                "ro": "Atenție la bălțile care pot ascunde gropi; poteca de pe mal este îngustă și deosebit de alunecoasă pe ploaie.",
+                "en": "Watch out for puddles that might hide potholes; the canal path is narrow and especially slippery in the rain, cycle slowly."
+              }
+            },
+            {
+              "name": {
+                "de": "Jetty Marsh Teenage Area",
+                "hu": "Jetty Marsh Tinédzser Zóna",
+                "ro": "Zona pentru Tineri Jetty Marsh",
+                "en": "Jetty Marsh Teenage Area"
+              },
+              "tip_5lang": {
+                "de": "Die Rampen und Oberflächen sind bei Nässe gefährlich glatt; nutzen Sie den Bereich nur für eine kurze Pause im Stehen.",
+                "hu": "A rámpák és felületek vizesen veszélyesen csúszósak; a területet csak egy rövid, állva eltöltött pihenőre használja.",
+                "ro": "Rampele și suprafețele sunt periculos de alunecoase când sunt ude; folosiți zona doar pentru o scurtă pauză în picioare.",
+                "en": "The ramps and surfaces are dangerously slick when wet; use the area only for a brief standing break."
+              }
+            },
+            {
+              "name": {
+                "de": "Hackney Marshes",
+                "hu": "Hackney Marshes",
+                "ro": "Hackney Marshes",
+                "en": "Hackney Marshes"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich auf schlammige Reifen ein; der lockere Untergrund erfordert eine gute Radbeherrschung bei diesem Wetter.",
+                "hu": "Készüljön fel a sáros gumiabroncsokra; a laza talaj jó kerékpárkezelést igényel ebben az esős időben.",
+                "ro": "Pregătiți-vă pentru anvelope pline de noroi; terenul moale necesită un control bun al bicicletei pe acest tip de vreme.",
+                "en": "Be prepared for muddy tires; the loose ground requires good bike handling in this rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Courtney park playground",
+                "hu": "Courtney Park Játszótér",
+                "ro": "Teren de Joacă Courtney Park",
+                "en": "Courtney park playground"
+              },
+              "tip_5lang": {
+                "de": "Die Spielgeräte sind nass und unbenutzbar; nutzen Sie den Park für eine letzte Umrundung, bevor Sie sich ins Trockene flüchten.",
+                "hu": "A játékok vizesek és használhatatlanok; tegyen egy utolsó kört a parkban, mielőtt száraz helyre vonulna az eső elől.",
+                "ro": "Echipamentele de joacă sunt ude și inutilizabile; folosiți parcul pentru o ultimă tură înainte de a vă adăposti la uscat.",
+                "en": "The playground equipment is wet and unusable; use the park for one last lap before heading somewhere dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour startet bei klirrender Kälte. Vormittags wärmt die Bewegung auf dem Weg zum Rathaus. Mittags glitzert der Frost am Kanalufer. Wichtig: Schalten Sie ab 16:00 Uhr Ihr Licht ein, da die Dämmerung früh einsetzt. Nachmittags fordern die gefrorenen Wege in der Marsch Vorsicht. Der Abend endet sportlich, bevor die Temperaturen unter den Gefrierpunkt fallen.",
+            "hu": "A téli kerékpártúra metsző hidegben indul. Délelőtt a mozgás segít bemelegedni a városháza felé. Délben zúzmara csillog a csatornaparton. Fontos: 16:00-tól kapcsolja be a lámpákat, mert korán sötétedik. Délután a fagyott mocsári utak óvatosságot igényelnek. A nap sportosan ér véget, mielőtt a hőmérséklet fagypont alá süllyed.",
+            "ro": "O tură cu bicicleta iarna începe în frig pătrunzător. Dimineața, mișcarea vă ajută să vă încălziți spre primărie. La prânz, chiciura sclipește pe malul canalului. Important: aprindeți luminile de la ora 16:00, deoarece se întunecă devreme. După-amiaza, drumurile înghețate necesită prudență. Ziua se încheie sportiv înainte de îngheț.",
+            "en": "A winter bike ride starts in biting cold. In the morning, the movement helps you warm up on the way to the town hall. At noon, frost glistens on the canal banks. Important: turn on your lights from 16:00 as dusk sets in early. In the afternoon, frozen marsh paths require caution. The day ends actively before temperatures drop below freezing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kingsteignton Town Hall",
+                "hu": "Kingsteignton Városháza",
+                "ro": "Primăria Kingsteignton",
+                "en": "Kingsteignton Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind bei Minustemperaturen besonders an den Händen beißt.",
+                "hu": "Viseljen szélálló kesztyűt, mert a menetszél mínusz fokokban különösen élesnek érződik a kezeken.",
+                "ro": "Purtați mănuși rezistente la vânt, deoarece curentul de aer la temperaturi negative este foarte tăios pentru mâini.",
+                "en": "Wear windproof gloves, as the headwind in freezing temperatures feels particularly sharp on your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michael's Church",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica St Michael",
+                "en": "St Michael's Church"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um die friedliche Winterstille auf dem Friedhofsgelände zu genießen; achten Sie auf eisige Steinplatten.",
+                "hu": "Álljon meg egy pillanatra, hogy élvezze a békés téli csendet a templomkertben; ügyeljen a jeges kövekre.",
+                "ro": "Opriți-vă un moment pentru a vă bucura de liniștea iernii în curtea bisericii; atenție la plăcile de piatră înghețate.",
+                "en": "Stop for a moment to enjoy the peaceful winter silence in the churchyard; watch out for icy stone slabs."
+              }
+            },
+            {
+              "name": {
+                "de": "Oakford Lawn",
+                "hu": "Oakford Lawn",
+                "ro": "Oakford Lawn",
+                "en": "Oakford Lawn"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten wenig Windschutz; halten Sie das Tempo hoch, um bei der Fahrt durch den offenen Park warm zu bleiben.",
+                "hu": "A kopasz fák kevés szélfogót jelentenek; tartsa a tempót, hogy melegen tartsa magát a nyitott parkon való áthaladás közben.",
+                "ro": "Copacii golași oferă puțină protecție împotriva vântului; mențineți ritmul pentru a vă păstra căldura în timp ce traversați parcul.",
+                "en": "The bare trees offer little wind protection; keep up a steady pace to stay warm while cycling through the open park."
+              }
+            },
+            {
+              "name": {
+                "de": "Teigngrace Canal",
+                "hu": "Teigngrace-csatorna",
+                "ro": "Canalul Teigngrace",
+                "en": "Teigngrace Canal"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten der Bäume; der Kanalweg kann im Winter tückisch glatt sein.",
+                "hu": "Ügyeljen a fák árnyékában megfagyó nedvességre; a csatorna menti út télen csalókán csúszós lehet.",
+                "ro": "Atenție la porțiunile înghețate la umbra copacilor; drumul de-a lungul canalului poate fi înșelător de alunecos iarna.",
+                "en": "Watch out for black ice in the shade of the trees; the canal path can be treacherously slippery in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Jetty Marsh Teenage Area",
+                "hu": "Jetty Marsh Tinédzser Zóna",
+                "ro": "Zona pentru Tineri Jetty Marsh",
+                "en": "Jetty Marsh Teenage Area"
+              },
+              "tip_5lang": {
+                "de": "Der Metall- und Betonuntergrund speichert die Kälte; machen Sie nur eine kurze Pause, um nicht auszukühlen.",
+                "hu": "A fém- és betonfelületek ontják a hideget; csak rövid pihenőt tartsunk, nehogy túlságosan lehűljön a testünk.",
+                "ro": "Suprafețele de metal și beton rețin frigul; faceți doar o scurtă pauză pentru a nu vă răci prea tare.",
+                "en": "The metal and concrete surfaces retain the cold; take only a brief break to avoid getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Hackney Marshes",
+                "hu": "Hackney Marshes",
+                "ro": "Hackney Marshes",
+                "en": "Hackney Marshes"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist oft hart gefroren, was das Fahren erleichtert, aber Unebenheiten betont; prüfen Sie vor der Rückfahrt Ihre Lichter.",
+                "hu": "A talaj gyakran keményre fagyott, ami megkönnyíti a haladást, de rázósabbá teszi az utat; ellenőrizze a lámpáit visszaindulás előtt.",
+                "ro": "Pământul este adesea înghețat, ceea ce ușurează înaintarea, dar accentuează denivelările; verificați luminile înainte de plecare.",
+                "en": "The ground is often frozen hard, making cycling easier but bumpier; check your lights before heading back."
+              }
+            },
+            {
+              "name": {
+                "de": "Courtney park playground",
+                "hu": "Courtney Park Játszótér",
+                "ro": "Teren de Joacă Courtney Park",
+                "en": "Courtney park playground"
+              },
+              "tip_5lang": {
+                "de": "Das Licht wird gegen 16:30 Uhr sehr schwach; beenden Sie Ihre Tour hier zügig, um sicher im Dunkeln nach Hause zu kommen.",
+                "hu": "A fény 16:30 körül már nagyon kevés; fejezze be itt gyorsan a túrát, hogy biztonságban hazaérjen a sötétedés előtt.",
+                "ro": "Lumina devine foarte slabă în jurul orei 16:30; încheiați rapid tura aici pentru a ajunge acasă în siguranță pe întuneric.",
+                "en": "Light becomes very dim around 16:30; finish your tour quickly here to get home safely before it gets too dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Reggel: Autós túránkat a Kingsteigntoni agyagbányák hatalmas ipari tájainak felfedezésével indítjuk, feltárva a helyi gazdaság történelmi gyökereit, mielőtt bevetnénk magunkat a városba.\nDél: A központ közelében parkolva megcsodáljuk az impozáns Városházát és a történelmi Szent Mihály-templomot, majd teszünk egy könnyű sétát a közeli Oakford Lawn körül.\nDélután: Visszapattanva az autóba, a történelmi Teigngrace-csatorna felé vesszük az irányt, hogy szemtanúi lehessünk a 19. századi közlekedési hálózatok izgalmas maradványainak.\nEste: Autós utazásunk egy festői autózással zárul a Teign folyóhoz, ahol leparkolhatunk, és megfigyelhetjük az esti szürkület táncoló tükröződéseit a csendes tölcsértorkolat felszínén.",
         "ro": "Dimineața: Începem turul auto explorând peisajele industriale masive ale carierelor de argilă din Kingsteignton, descoperind rădăcinile economiei locale înainte de a intra în oraș.\nAmiaza: Parcând aproape de centru, admirăm Primăria impunătoare și biserica istorică St Michael, bucurându-ne de o plimbare ușoară în jurul Oakford Lawn pentru a întrerupe condusul.\nDupă-amiaza: Urcând din nou în mașină, navigăm spre istoricul Canal Teigngrace pentru a vedea rămășițele rețelelor de transport din secolul al XIX-lea care au dominat acest peisaj.\nSeara: Călătoria se încheie cu un drum pitoresc până la Râul Teign, unde putem parca și privi cum reflexiile amurgului dansează pe suprafața apelor blânde ale estuarului vestic.",
         "en": "Morning: We kick off our driving tour exploring the massive industrial landscapes of the Kingsteignton Clay Pits, uncovering the roots of the local economy before heading into town.\nMidday: Parking near the center, we admire the stately Town Hall and the historic St Michael's Church, enjoying a light stroll around the nearby Oakford Lawn to break up the drive.\nAfternoon: Hopping back in the car, we navigate toward the historic Teigngrace Canal to witness the remnants of 19th-century transport networks that once dominated this landscape.\nEvening: Our road trip concludes with a scenic drive out to the River Teign, where we can park and watch the twilight reflections dance on the surface of the estuary's gentle waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag lässt sich im Auto am bequemsten bewältigen. Vormittags erkunden Sie die Lehmgruben, während die Wischer unermüdlich arbeiten. Mittags bieten Rathaus und Kirche trockene Stopps. Nachmittags ist die Fahrt zum Kanal und Fluss entspannt, auch wenn die Sicht eingeschränkt ist. Der Abend endet trocken im Fahrzeug, während der Regen gegen das Autodach trommelt.",
+            "hu": "Az esős napot autóval a legkényelmesebb átvészelni. Délelőtt az agyagbányákat fedezzük fel, miközben az ablaktörlők serényen dolgoznak. Délben a városháza és a templom kínál száraz megállókat. Délután a csatornához és a folyóhoz vezető út pihentető, még korlátozott látási viszonyok mellett is. Az este szárazon, a járműben zárul.",
+            "ro": "O zi ploioasă este cel mai confortabil de parcurs cu mașina. Dimineața explorați carierele de argilă în timp ce ștergătoarele lucrează neîncetat. La prânz, primăria și biserica oferă opriri uscate. După-amiaza, drumul spre canal și râu este relaxant, chiar dacă vizibilitatea este redusă. Seara se încheie la adăpost în mașină.",
+            "en": "A rainy day is most comfortably managed by car. In the morning, explore the clay pits while the wipers work tirelessly. At noon, the town hall and church provide dry stops. In the afternoon, the drive to the canal and river is relaxing, even if visibility is limited. The evening ends dry inside the vehicle while rain drums on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kingsteignton Clay Pits",
+                "hu": "Kingsteigntoni Agyagbányák",
+                "ro": "Carierele de Argilă Kingsteignton",
+                "en": "Kingsteignton Clay Pits"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Industrielandschaft vom Autofenster aus; die Gruben füllen sich bei starkem Regen mit dramatischen Wasseransammlungen.",
+                "hu": "Szemlélje az ipari tájat az autóablakból; az agyagbányákban heves esőzéskor drámai víztükrök alakulnak ki.",
+                "ro": "Observați peisajul industrial de la geamul mașinii; carierele se umplu cu acumulări dramatice de apă în timpul ploilor abundente.",
+                "en": "Observe the industrial landscape from your car window; the pits fill with dramatic water pools during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kingsteignton Town Hall",
+                "hu": "Kingsteignton Városháza",
+                "ro": "Primăria Kingsteignton",
+                "en": "Kingsteignton Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor für einen schnellen Blick auf die Architektur, ohne völlig durchnässt zu werden.",
+                "hu": "Parkoljon le közvetlenül az épület előtt egy gyors építészeti szemlére, így elkerülheti, hogy teljesen elázzon az esőben.",
+                "ro": "Parcați chiar în față pentru o privire rapidă asupra arhitecturii, fără a vă uda complet în ploaia torențială.",
+                "en": "Park directly in front for a quick look at the architecture without getting completely soaked in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michael's Church",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica St Michael",
+                "en": "St Michael's Church"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Fußweg vom Parkplatz zur Kirche ist mit einem Schirm gut machbar; genießen Sie das prasselnde Geräusch auf dem Kirchendach.",
+                "hu": "A parkolótól a templomig tartó rövid séta esernyővel könnyen megoldható; élvezze a templomtetőn kopogó eső hangját.",
+                "ro": "Scurta plimbare de la parcare la biserică este ușoară cu o umbrelă; bucurați-vă de sunetul ploii care bate în acoperișul bisericii.",
+                "en": "The short walk from the car park to the church is easy with an umbrella; enjoy the sound of rain drumming on the church roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Oakford Lawn",
+                "hu": "Oakford Lawn",
+                "ro": "Oakford Lawn",
+                "en": "Oakford Lawn"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Rand des Parks reicht aus, um die regennasse Grünanlage zu bewundern; die Wege können sehr matschig sein.",
+                "hu": "A park szélén tett rövid megálló is elég, hogy megcsodálja az esőtől csillogó zöldet; az ösvények ilyenkor nagyon sárosak lehetnek.",
+                "ro": "O scurtă oprire la marginea parcului este suficientă pentru a admira spațiul verde ud; aleile pot fi foarte noroioase.",
+                "en": "A brief stop at the edge of the park is enough to admire the rain-soaked greenery; the paths can be very muddy now."
+              }
+            },
+            {
+              "name": {
+                "de": "Teigngrace Canal",
+                "hu": "Teigngrace-csatorna",
+                "ro": "Canalul Teigngrace",
+                "en": "Teigngrace Canal"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Parkplatz mit Blick auf das Wasser; der Kanal wirkt bei grauem Wetter besonders melancholisch und ruhig.",
+                "hu": "Keressen egy parkolóhelyet kilátással a vízre; a csatorna szürke időben különösen melankolikusnak és békésnek tűnik.",
+                "ro": "Căutați un loc de parcare cu vedere la apă; canalul pare deosebit de melancolic și liniștit pe vreme gri.",
+                "en": "Find a parking spot with a view of the water; the canal looks particularly melancholic and peaceful in grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "River Teign",
+                "hu": "Teign folyó",
+                "ro": "Râul Teign",
+                "en": "River Teign"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf erhöhtes Wasseraufkommen am Flussufer; genießen Sie die wilde Natur vom warmen Innenraum Ihres Autos aus.",
+                "hu": "Ügyeljen a folyó megemelkedett vízszintjére a part mentén; élvezze a vad természetet az autó meleg utasteréből.",
+                "ro": "Atenție la nivelul crescut al apei pe malul râului; bucurați-vă de natura sălbatică din interiorul cald al mașinii.",
+                "en": "Watch out for high water levels along the riverbanks; enjoy the wild nature from the warm interior of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour führt Sie sicher durch die frostige Umgebung. Vormittags glänzen die Lehmgruben im hellen Frost. Mittags sind die kurzen Wege im Zentrum bei der Kälte angenehm. Da es gegen 17:00 Uhr dunkel wird, sollten Sie die Naturstopps am Fluss rechtzeitig ansteuern. Der Abend klingt bei eingeschalteter Heizung entspannt aus, während draußen die Temperatur sinkt.",
+            "hu": "A téli autós kirándulás biztonságosan vezet át a fagyos tájon. Délelőtt az agyagbányák csillognak a zúzmarában. Délben a központ rövid sétái a hidegben is elviselhetőek. Mivel 17:00 körül sötétedik, a folyóparti természetet időben keressük fel. Az este a fűtést feltekerve, békésen zárul, miközben odakint tovább hűl a levegő.",
+            "ro": "O plimbare cu mașina iarna vă poartă în siguranță prin peisajul înghețat. Dimineața, carierele de argilă sclipesc în chiciură. La prânz, scurtele plimbări în centru sunt plăcute chiar și în frig. Deoarece se întunecă la 17:00, vizitați malul râului din timp. Seara se încheie relaxat cu căldura pornită în timp ce afară îngheață.",
+            "en": "A winter drive takes you safely through the frosty surroundings. In the morning, the clay pits glisten in the bright frost. At noon, short walks in the center are pleasant despite the cold. Since it gets dark around 17:00, visit the river nature spots in good time. The evening ends relaxingly with the heater on while temperatures drop outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kingsteignton Clay Pits",
+                "hu": "Kingsteigntoni Agyagbányák",
+                "ro": "Carierele de Argilă Kingsteignton",
+                "en": "Kingsteignton Clay Pits"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Grubenwände bieten eine faszinierende Optik; halten Sie kurz für ein Foto an, bevor die Kälte zu beißend wird.",
+                "hu": "A fagyott bányafalak lenyűgöző látványt nyújtanak; álljon meg egy rövid fotóra, mielőtt a hideg túl metszővé válna.",
+                "ro": "Pereții înghețați ai carierei oferă un aspect fascinant; opriți-vă scurt pentru o fotografie înainte ca frigul să fie prea tăios.",
+                "en": "The frozen pit walls offer a fascinating look; stop briefly for a photo before the cold becomes too biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Kingsteignton Town Hall",
+                "hu": "Kingsteignton Városháza",
+                "ro": "Primăria Kingsteignton",
+                "en": "Kingsteignton Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als warme Basis zwischen den Besichtigungen; das Backsteingebäude sieht im klaren Winterlicht toll aus.",
+                "hu": "Használja az autót meleg bázisként a megállók között; a téglaépület remekül mutat a tiszta, téli napsütésben.",
+                "ro": "Folosiți mașina ca bază caldă între vizite; clădirea din cărămidă arată grozav în lumina clară de iarnă.",
+                "en": "Use the car as a warm base between stops; the brick building looks great in the clear winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michael's Church",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica St Michael",
+                "en": "St Michael's Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Vormittag, wenn die Sonne tief durch die Fenster scheint; achten Sie auf glatte Parkplatzflächen.",
+                "hu": "Látogassa meg a templomot késő délelőtt, amikor a nap mélyen besüt az ablakokon; ügyeljen a parkoló csúszós felületeire.",
+                "ro": "Vizitați biserica spre sfârșitul dimineții, când soarele pătrunde prin ferestre; atenție la suprafețele alunecoase din parcare.",
+                "en": "Visit the church in the late morning when the sun shines low through the windows; watch out for icy patches in the car park."
+              }
+            },
+            {
+              "name": {
+                "de": "Oakford Lawn",
+                "hu": "Oakford Lawn",
+                "ro": "Oakford Lawn",
+                "en": "Oakford Lawn"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Spaziergang über den gefrorenen Rasen weckt die Lebensgeister, bevor es zurück ins warme Auto geht.",
+                "hu": "Egy rövid, frissítő séta a fagyott gyepen felpezsdíti az embert, mielőtt visszatérne a fűtött autóba.",
+                "ro": "O scurtă plimbare revigorantă pe gazonul înghețat vă va trezi simțurile înainte de a vă întoarce în mașina încălzită.",
+                "en": "A short, refreshing walk across the frozen lawn will invigorate you before you head back to the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Teigngrace Canal",
+                "hu": "Teigngrace-csatorna",
+                "ro": "Canalul Teigngrace",
+                "en": "Teigngrace Canal"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das oft teilweise gefrorene Wasser; die Winterruhe hier ist ideal für einen Moment der Entspannung.",
+                "hu": "Élvezze a látványt a gyakran részben befagyott víztükörre; a téli nyugalom itt ideális a teljes kikapcsolódáshoz.",
+                "ro": "Bucurați-vă de vederea apei adesea parțial înghețate; liniștea iernii de aici este ideală pentru un moment de relaxare.",
+                "en": "Enjoy the view of the often partially frozen water; the winter tranquility here is ideal for a moment of relaxation."
+              }
+            },
+            {
+              "name": {
+                "de": "River Teign",
+                "hu": "Teign folyó",
+                "ro": "Râul Teign",
+                "en": "River Teign"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Fluss ist vor Sonnenuntergang um 16:45 Uhr spektakulär; bleiben Sie im Auto, um die Aussicht ohne Frieren zu genießen.",
+                "hu": "A folyómenti fények látványosak a 16:45-ös naplemente előtt; maradjon az autóban, és élvezze a kilátást fázás nélkül.",
+                "ro": "Lumina de pe râu este spectaculoasă înainte de apusul de la 16:45; rămâneți în mașină pentru a admira priveliștea fără a îngheța.",
+                "en": "The light by the river is spectacular before the 16:45 sunset; stay in the car to enjoy the view without freezing."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a történelmi tölgyfánál, amely a baszk szabadság szimbóluma. Délben a békemúzeum mély betekintést nyújt a múltba. A délutánt szánja az építészeti remekművek és a történelmi színház felfedezésére. Fejezze be az estét az Astra modern kulturális központban, és elmélkedjen a város figyelemre méltó történelmi rugalmasságán és megújulásán.",
         "ro": "Începeți dimineața la stejarul istoric care simbolizează libertatea bască. La prânz, muzeul păcii oferă o perspectivă profundă asupra trecutului. Petreceți după-amiaza explorând capodopere arhitecturale și teatrul istoric. Încheiați seara la centrul cultural modern Astra, reflectând asupra rezilienței remarcabile și renașterii acestei frumoase comunități.",
         "en": "Start your morning at the historic oak tree that symbolizes Basque freedom. Midday brings a deep dive into local history at the renowned peace museum. Spend your afternoon discovering architectural masterpieces and the historic theater. End your evening at the modern Astra cultural center, reflecting on the city's remarkable resilience and continuous rebirth."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter der historischen Eiche, deren Krone Schutz vor dem Nieselregen bietet. Mittags finden wir Zuflucht im Friedensmuseum, während der Regen draußen die Atmosphäre vertieft. Am Nachmittag ist das Lizeo Antzokia ein idealer kultureller Rückzugsort im Trockenen. Den Abend verbringen wir in der Astra-Fabrik, deren Industriecharme perfekt zum glänzenden Asphalt der Stadt passt.",
+            "hu": "Reggel az emblematikus tölgyfa alatt keresünk menedéket a szemerkélő baszk esőben. Délben a Békemúzeum falai között mélyedünk el a történelemben, ahol az eső kopogása csak fokozza a hangulatot. Délután a Lizeo Antzokia kulturális oázisában várakozunk, míg csendesedik a vihar. Estére az Astra ipari terei nyújtanak száraz élményt, miközben odakint az utcák csillognak a nedvességtől.",
+            "ro": "Dimineața începe sub stejarul istoric, unde coroana bogată oferă adăpost împotriva burniței. La prânz găsim refugiu în Muzeul Păcii, unde atmosfera este amplificată de sunetul ploii. După-amiaza explorăm Lizeo Antzokia, un refugiu cultural ideal pentru vreme umedă. Seara ne retragem în spațiul industrial Astra, un loc vibrant și uscat, în timp ce străzile din Gernika sclipesc sub ploaie.",
+            "en": "Morning begins under the historic oak, where the canopy offers respite from the Basque drizzle. By noon, we find sanctuary in the Peace Museum, letting history resonate as rain hits the windows. Afternoon is spent indoors at Lizeo Antzokia, a perfect cultural refuge. As evening falls, Astra's industrial charm provides a dry, vibrant space while the wet streets of Gernika glisten outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gernikako Arbola",
+                "hu": "Gernikako Arbola",
+                "ro": "Gernikako Arbola",
+                "en": "Gernikako Arbola"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Symbol der Freiheit von den Arkaden aus; bei Regen wirken die Farben des Stammes tiefer, aber der Boden kann rutschig sein.",
+                "hu": "Tekintse meg a baszk szabadság szimbólumát az árkádok védelméből; az esőben a törzs színei mélyebbek, de az udvar kövezete csúszóssá válhat.",
+                "ro": "Admirați simbolul libertății de sub arcade; în ploaie, culorile trunchiului par mai profunde, dar pavajul curții poate deveni alunecos.",
+                "en": "Admire the symbol of freedom from the arcades; in the rain, the trunk's colors appear deeper, but the courtyard pavement can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Gure Aitaren Etxea",
+                "hu": "Gure Aitaren Etxea",
+                "ro": "Gure Aitaren Etxea",
+                "en": "Gure Aitaren Etxea"
+              },
+              "tip_5lang": {
+                "de": "Chillidas Skulptur erhält im Regen durch den dunklen Beton eine besondere Textur; nutzen Sie den nahegelegenen Unterstand bei starken Güssen.",
+                "hu": "Chillida szobra az esőben kapja meg igazi textúráját, ahogy a beton sötétedik; erős zápor esetén használja a közeli fedett részeket menedékként.",
+                "ro": "Sculptura lui Chillida capătă o textură deosebită în ploaie datorită betonului întunecat; folosiți adăpostul din apropiere în caz de averse.",
+                "en": "Chillida's sculpture gains a special texture in the rain as the concrete darkens; use the nearby shelter as a refuge during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Paz de Gernika",
+                "hu": "Museo de la Paz de Gernika",
+                "ro": "Museo de la Paz de Gernika",
+                "en": "Museo de la Paz de Gernika"
+              },
+              "tip_5lang": {
+                "de": "Idealer Zufluchtsort vor dem Wetter, um die Geschichte der Stadt im Trockenen zu erleben; nutzen Sie die Garderobe für nasse Kleidung.",
+                "hu": "Ideális menedék az időjárás elől, ahol szárazon ismerheti meg a város történelmét; használja a ruhatárat a nedves kabátok és esernyők számára.",
+                "ro": "Refugiu ideal împotriva vremii pentru a învăța istoria orașului la adăpost; folosiți garderoba pentru hainele ude și umbrele.",
+                "en": "Ideal refuge from the weather to learn about the city's history in the dry; use the cloakroom for your wet coats and umbrellas."
+              }
+            },
+            {
+              "name": {
+                "de": "Lizeo Antzokia",
+                "hu": "Lizeo Antzokia",
+                "ro": "Lizeo Antzokia",
+                "en": "Lizeo Antzokia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das kulturelle Ambiente im geschützten Innenraum, während es draußen regnet; die Lobby bietet einen warmen Platz zum Verweilen.",
+                "hu": "Élvezze a kulturális miliőt a védett belső térben, miközben odakint esik; a lobby kényelmes és meleg helyet kínál a várakozáshoz.",
+                "ro": "Bucurați-vă de ambianța culturală în interiorul protejat în timp ce afară plouă; holul oferă un loc cald pentru a petrece timpul.",
+                "en": "Enjoy the cultural ambiance in the protected interior while it rains outside; the lobby offers a warm and comfortable place to linger."
+              }
+            },
+            {
+              "name": {
+                "de": "Astra Kultur Espazioa",
+                "hu": "Astra Kultur Espazioa",
+                "ro": "Astra Kultur Espazioa",
+                "en": "Astra Kultur Espazioa"
+              },
+              "tip_5lang": {
+                "de": "Die weiten Industriehallen halten Sie trocken, während Sie Kunst entdecken; achten Sie auf Wassertropfen im Eingangsbereich durch Schuhe.",
+                "hu": "A tágas ipari csarnokok szárazon tartják, miközben a helyi művészetet fedezi fel; ügyeljen a bejáratnál a vizes cipők miatti csúszásveszélyre.",
+                "ro": "Halele industriale vaste vă mențin uscat în timp ce descoperiți arta; atenție la riscul de alunecare la intrare din cauza apei de pe pantofi.",
+                "en": "The vast industrial halls keep you dry while exploring local art; be careful of the slip hazard at the entrance caused by wet footwear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frostigen Wintermorgen begrüßt uns die würdevolle Eiche. Mittags wärmen wir uns in den beheizten Räumen des Friedensmuseums auf und vertiefen uns in die Dokumente. Da es früh dunkel wird, zieht uns das Licht des Lizeo Antzokia am Nachmittag an. Den Abend verbringen wir im Astra, wo die Gemeinschaft die Kälte und die frühe Dämmerung draußen vergessen lässt.",
+            "hu": "A hideg téli reggelen a kopár, de méltóságteljes Gernikako Arbola fogad minket. Délben a Békemúzeum fűtött termeiben melegszünk fel, alaposan megismerve a város sorsát. Délután, ahogy korán sötétedik, a Lizeo Antzokia fénye vonz be minket egy kis kultúrára. Az estét az Astra falai között zárjuk, ahol a közösségi pezsgés feledteti a kinti fagyos szellőt.",
+            "ro": "Într-o dimineață geroasă de iarnă, stejarul demn ne întâmpină. La prânz ne încălzim în sălile Muzeului Păcii, aprofundând istoria orașului la căldură. Pe măsură ce se întunecă devreme, lumina de la Lizeo Antzokia ne atrage spre cultură. Seara o petrecem la Astra, unde atmosfera comunitară ne face să uităm de vântul înghețat și de amurgul timpuriu.",
+            "en": "On a frosty winter morning, the dignified oak tree greets us. At noon, we warm up in the heated rooms of the Peace Museum, diving deep into history. As darkness falls early, the lights of Lizeo Antzokia draw us in for the afternoon. We end the evening inside Astra, where the community spirit makes us forget the freezing wind and early twilight outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gernikako Arbola",
+                "hu": "Gernikako Arbola",
+                "ro": "Gernikako Arbola",
+                "en": "Gernikako Arbola"
+              },
+              "tip_5lang": {
+                "de": "Die Eiche wirkt im Winterlicht besonders majestätisch; kleiden Sie sich warm für den zugigen Außenbereich des Parlamentsgebäudes.",
+                "hu": "A tölgyfa a téli fényben különösen fenségesnek tűnik; öltözzön melegen a parlament épületének huzatos külső részeihez.",
+                "ro": "Stejarul pare deosebit de maiestuos în lumina iernii; îmbrăcați-vă gros pentru zonele exterioare expuse vântului ale parlamentului.",
+                "en": "The oak tree looks particularly majestic in the winter light; dress warmly for the drafty outdoor areas of the parliament building."
+              }
+            },
+            {
+              "name": {
+                "de": "Gure Aitaren Etxea",
+                "hu": "Gure Aitaren Etxea",
+                "ro": "Gure Aitaren Etxea",
+                "en": "Gure Aitaren Etxea"
+              },
+              "tip_5lang": {
+                "de": "Der monumentale Beton wirkt in der kühlen Winterluft noch imposanter; ein kurzer Besuch reicht aus, um das Werk ohne Erfrierungen zu sehen.",
+                "hu": "A monumentális beton a hűvös téli levegőben még impozánsabbnak hat; egy rövid látogatás is elég, hogy fagyoskodás nélkül megcsodálja a szobrot.",
+                "ro": "Betonul monumental pare și mai impunător în aerul rece; o vizită scurtă este suficientă pentru a admira sculptura fără a îngheța.",
+                "en": "The monumental concrete looks even more imposing in the cool winter air; a short visit is enough to admire the sculpture without freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Paz de Gernika",
+                "hu": "Museo de la Paz de Gernika",
+                "ro": "Museo de la Paz de Gernika",
+                "en": "Museo de la Paz de Gernika"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekt beheizter Ort, um der Winterkälte zu entfliehen und in Dokumente einzutauchen; planen Sie hier viel Zeit zum Aufwärmen ein.",
+                "hu": "Tökéletesen fűtött helyszín a téli hideg elől való meneküléshez és az elmélyedéshez; szánjon ide sok időt a teljes felmelegedésre.",
+                "ro": "Locație perfect încălzită pentru a scăpa de frigul iernii și a aprofunda istoria; rezervați-vă mult timp aici pentru a vă încălzi.",
+                "en": "A perfectly heated venue to escape the winter cold and delve into history; schedule plenty of time here to warm up thoroughly."
+              }
+            },
+            {
+              "name": {
+                "de": "Lizeo Antzokia",
+                "hu": "Lizeo Antzokia",
+                "ro": "Lizeo Antzokia",
+                "en": "Lizeo Antzokia"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie eine Nachmittagsvorstellung, um das frühe Dunkelwerden zu umgehen; die gemütliche Bestuhlung lädt zum Verweilen im Warmen ein.",
+                "hu": "Látogasson el egy délutáni előadásra, hogy elkerülje a korai sötétedést; a kényelmes székek hívogatóak a melegben való pihenéshez.",
+                "ro": "Vizitați un spectacol de după-amiază pentru a evita întunericul timpuriu; scaunele confortabile sunt primitoare pentru relaxare la căldură.",
+                "en": "Visit an afternoon performance to avoid the early darkness; the comfortable seating is inviting for relaxing in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Astra Kultur Espazioa",
+                "hu": "Astra Kultur Espazioa",
+                "ro": "Astra Kultur Espazioa",
+                "en": "Astra Kultur Espazioa"
+              },
+              "tip_5lang": {
+                "de": "Die lebendige Atmosphäre vertreibt den Winterblues; ziehen Sie eine zusätzliche Schicht an, da die großen Hallen kühl sein können.",
+                "hu": "A belső tér pezsgő hangulata elűzi a téli melankóliát; vegyen fel egy plusz réteget, mert a nagy csarnokok néha hűvösek lehetnek.",
+                "ro": "Atmosfera vibrantă din interior alungă melancolia iernii; purtați un strat suplimentar, deoarece halele mari pot fi răcoroase.",
+                "en": "The vibrant atmosphere inside dispels the winter blues; wear an extra layer as the large halls can sometimes be chilly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel fedezze fel a városközpont érzelmileg megható történelmét. Délben pattanjon kerékpárra, és érezze a tölgyfa történelmi energiáját. A délután kiviszi a buja természetbe és a középkori erődítményekhez. Élvezze a kora estét a lélegzetelállító kilátással a széles bioszféra-rezervátum felett.",
         "ro": "Dimineața explorați istoria emoționantă din centrul orașului. La prânz, urcați pe bicicletă și simțiți energia istorică a stejarului. După-amiaza vă poartă în natura luxuriantă și spre fortărețele medievale. Bucurați-vă de seară cu o priveliște uluitoare asupra vastei rezervații a biosferei.",
         "en": "In the morning, explore the emotionally touching history in the city center. At midday, hop on your bike and feel the historical energy of the oak tree. The afternoon takes you out into lush nature and towards medieval fortifications. Enjoy the evening with a breathtaking view over the biosphere reserve."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten im Museum, um den ersten Regenguss abzuwarten. Später an der Eiche ist Vorsicht auf dem nassen Asphalt geboten, Schutzbleche sind hier wichtig. Nachmittags zeigt sich das Biosphärenreservat neblig und mystisch, auch wenn die Reifen rutschen können. Am Abend radeln wir bei schlechter Sicht zurück, Pfützen auf dem Weg immer im Blick.",
+            "hu": "A múzeumban kezdünk, megvárva a nagyobb zápor elvonulását. Később a tölgyfánál a sárvédők fontosságát értékeljük a nedves aszfalton, ahol óvatosan kell kanyarodni. Délután a rezervátum ködös, misztikus arcát látjuk, bár a gumik csúszhatnak a vizes leveleken. Estére korlátozott látási viszonyok mellett tekerünk vissza, figyelve a tócsákra.",
+            "ro": "Începem la muzeu, așteptând ca prima rafală de ploaie să treacă. Mai târziu, la stejar, este necesară prudență pe asfaltul umed, aripile fiind esențiale. După-amiaza, rezervația apare cețoasă și mistică, deși anvelopele pot aluneca pe frunze. Seara pedalăm înapoi cu prudență din cauza vizibilității reduse, fiind atenți la bălți.",
+            "en": "We start at the museum to wait out the initial heavy downpour. Later at the oak, caution is needed on the wet asphalt; mudguards are essential here. In the afternoon, the biosphere reserve appears misty and mystical, though tires might slip on wet leaves. In the evening, we cycle back cautiously in low visibility, watching for deep puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de la Paz de Gernika",
+                "hu": "Museo de la Paz de Gernika",
+                "ro": "Museo de la Paz de Gernika",
+                "en": "Museo de la Paz de Gernika"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad überdacht ab, um den Sattel trocken zu halten; nutzen Sie den Besuch, um die Regenkleidung auszuschütteln.",
+                "hu": "Parkoljon le a fedett helyeken, hogy a nyereg száraz maradjon; használja ki a látogatást az esőruházat lerázására és megszárítására.",
+                "ro": "Parcați bicicleta în locurile acoperite pentru a menține șaua uscată; profitați de vizită pentru a vă usca echipamentul de ploaie.",
+                "en": "Park your bike in covered spots to keep the saddle dry; use the visit to shake off and dry your rain gear properly."
+              }
+            },
+            {
+              "name": {
+                "de": "Gernikako Arbola",
+                "hu": "Gernikako Arbola",
+                "ro": "Gernikako Arbola",
+                "en": "Gernikako Arbola"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über das nasse Kopfsteinpflaster; die Bäume bieten nur minimalen Schutz vor plötzlichem starkem Regen.",
+                "hu": "Közlekedjen óvatosan a parlament környéki nedves macskakövön; a fák csak minimális védelmet nyújtanak az erős eső ellen.",
+                "ro": "Circulați cu prudență pe pavajul umed; copacii oferă doar o protecție minimă împotriva unei ploi torențiale bruște.",
+                "en": "Ride carefully on the wet cobblestones around the area; the trees offer only minimal protection against sudden heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Santa Ana",
+                "hu": "Ermita de Santa Ana",
+                "ro": "Ermita de Santa Ana",
+                "en": "Ermita de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Nässe rutschig sein, achten Sie auf den Grip; die Aussicht ist auch bei Regenwolken sehr stimmungsvoll.",
+                "hu": "Az emelkedő nedves időben csúszós lehet, ügyeljen a gumik tapadására; a kilátás az esőfelhőkkel együtt is nagyon hangulatos.",
+                "ro": "Urcarea poate fi alunecoasă pe vreme umedă, atenție la aderență; priveliștea este foarte atmosferică chiar și printre nori.",
+                "en": "The climb can be slippery in wet weather, pay attention to tire grip; the view is very atmospheric even with heavy rain clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Urdaibaiko Biosfera Erreserba",
+                "hu": "Urdaibaiko Biosfera Erreserba",
+                "ro": "Urdaibaiko Biosfera Erreserba",
+                "en": "Urdaibaiko Biosfera Erreserba"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können schlammig sein, breite Reifen helfen; genießen Sie die frische, saubere Luft nach dem Regenschauer.",
+                "hu": "A burkolatlan utak sárosak lehetnek, a szélesebb gumik itt előnyt jelentenek; élvezze a friss, tiszta levegőt a zápor után.",
+                "ro": "Potecile neasfaltate pot fi noroioase, anvelopele late fiind un avantaj; bucurați-vă de aerul proaspăt și curat după aversă.",
+                "en": "Unpaved paths can be muddy, wider tires are an advantage here; enjoy the incredibly fresh, clean air right after a rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Urdaibai",
+                "hu": "Torre de Urdaibai",
+                "ro": "Torre de Urdaibai",
+                "en": "Torre de Urdaibai"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei der Anfahrt auf tiefe Pfützen, die Löcher verbergen könnten; der Turm wirkt im Regen besonders trutzig und stark.",
+                "hu": "Az idevezető úton ügyeljen a mély tócsákra, amelyek kátyúkat rejthetnek; a történelmi torony az esőben különösen zordnak hat.",
+                "ro": "Atenție la bălțile adânci care pot ascunde gropi pe drum; turnul istoric pare deosebit de impunător și sumbru în ploaie.",
+                "en": "Watch out for deep puddles that might hide potholes on the way; the historic tower looks particularly strong and grim in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "San Kristobal",
+                "hu": "San Kristobal",
+                "ro": "San Kristobal",
+                "en": "San Kristobal"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihr Licht ein, da Gischt die Sicht verschlechtern kann; ein kurzer Halt bietet einen Blick über das nasse, grüne Tal.",
+                "hu": "Kapcsolja be a világítást, mert az autók által felvert vízpermet rontja a láthatóságot; a megálló széles kilátást nyújt a vizes völgyre.",
+                "ro": "Aprindeți luminile deoarece stropii aruncați de mașini reduc vizibilitatea; o scurtă oprire oferă o vedere largă asupra văii umede.",
+                "en": "Turn on your lights as the spray from cars can reduce visibility; a short stop offers a wide view over the beautiful wet valley."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt kühl im Museum, bevor wir uns zur Eiche wagen. Die kalte Luft bei der Fahrt zur Ermita erfordert warme Handschuhe und Schichten. Nachmittags bietet das Reservat klare, frostige Ausblicke, doch das frühe Dunkel mahnt zur Eile. Den Tag lassen wir ruhig ausklingen, bevor die eisige Nacht die Straßen fest im Griff hat.",
+            "hu": "A téli reggel hűvösen indul a múzeumban, mielőtt a tölgyfához merészkednénk. A Santa Ana remetetemplom felé vezető úton a csípős szél miatt meleg kesztyű és réteges öltözet kötelező. Délután a rezervátum fagyos panorámát nyújt, de a korai sötétedés miatt sietnünk kell. A napot nyugodtan zárjuk a város központjában.",
+            "ro": "Dimineața de iarnă începe răcoros la muzeu înainte de a porni spre stejar. Aerul rece în drum spre Ermita necesită mănuși calde și haine stratificate. După-amiaza, rezervația oferă vederi clare, dar amurgul timpuriu ne îndeamnă la grabă. Încheiem ziua liniștiți înainte ca noaptea geroasă să se instaleze peste oraș.",
+            "en": "The winter morning starts cool at the museum before we venture out to the oak. The biting air on the ride to the Ermita requires warm gloves and layers. In the afternoon, the reserve offers clear, frosty views, but the early twilight urges us to hurry. We end the day quietly before the icy night takes full hold of the streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de la Paz de Gernika",
+                "hu": "Museo de la Paz de Gernika",
+                "ro": "Museo de la Paz de Gernika",
+                "en": "Museo de la Paz de Gernika"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier, um sich aufzuwärmen, bevor Sie in den kalten Wind gehen; die dicke Winterkleidung kann in der Garderobe bleiben.",
+                "hu": "Kezdjen itt, hogy felmelegedjen, mielőtt a hideg menetszélbe indulna; a vastag téli ruházatot a ruhatárban hagyhatja a látogatás idejére.",
+                "ro": "Începeți aici pentru a vă încălzi înainte de a porni în vântul rece; puteți lăsa hainele groase la garderobă pe durata vizitei.",
+                "en": "Start here to warm up well before heading into the cold wind; you can leave thick winter clothing in the cloakroom during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Gernikako Arbola",
+                "hu": "Gernikako Arbola",
+                "ro": "Gernikako Arbola",
+                "en": "Gernikako Arbola"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Äste lassen mehr Wintersonne auf den Platz durch; achten Sie auf eventuelle Eisglätte auf den schattigen Wegabschnitten.",
+                "hu": "A tölgyfa kopasz ágai több téli napsütést engednek át az előtérre; ügyeljen az esetleges jegesedésre az árnyékosabb útszakaszokon.",
+                "ro": "Ramurile golașe permit soarelui de iarnă să pătrundă mai mult; atenție la posibila gheață pe porțiunile de drum umbrite.",
+                "en": "The bare branches of the oak allow more winter sun through to the forecourt; watch out for possible icy patches on shaded path sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Santa Ana",
+                "hu": "Ermita de Santa Ana",
+                "ro": "Ermita de Santa Ana",
+                "en": "Ermita de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Der Wind weht hier oben im Winter kräftig, ein Windstopper ist nötig; die klare Luft garantiert eine Sicht bis zu den Pyrenäen.",
+                "hu": "Itt fent télen erősen fúj a szél, egy szélálló dzseki nélkülözhetetlen; a tiszta levegő garantálja a kilátást egészen a Pireneusokig.",
+                "ro": "Vântul bate puternic aici sus iarna, o jachetă rezistentă fiind indispensabilă; aerul curat garantează vizibilitatea până la Pirinei.",
+                "en": "The wind blows strongly up here in winter, a windbreaker is essential; the clear air guarantees visibility all the way to the Pyrenees."
+              }
+            },
+            {
+              "name": {
+                "de": "Urdaibaiko Biosfera Erreserba",
+                "hu": "Urdaibaiko Biosfera Erreserba",
+                "ro": "Urdaibaiko Biosfera Erreserba",
+                "en": "Urdaibaiko Biosfera Erreserba"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Wintervögel, die im Schilf Schutz suchen; fahren Sie zügig, um den Körper bei niedrigen Temperaturen warm zu halten.",
+                "hu": "Figyelje meg a téli madarakat a fagyos nádasban; tekerjen tempósan, hogy testhőmérsékletét magasan tartsa a csípős hidegben.",
+                "ro": "Observați păsările de iarnă care caută adăpost în trestii; pedalați vioi pentru a vă menține temperatura corpului ridicată în frig.",
+                "en": "Observe winter birds seeking refuge in the frosty reeds; pedal briskly to keep your body temperature up in the low temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Urdaibai",
+                "hu": "Torre de Urdaibai",
+                "ro": "Torre de Urdaibai",
+                "en": "Torre de Urdaibai"
+              },
+              "tip_5lang": {
+                "de": "Das Mauerwerk strahlt im Winter Kälte ab, bleiben Sie in Bewegung; nutzen Sie das schräge Sonnenlicht für dramatische Fotos des Turms.",
+                "hu": "A régi falak ontják magukból a hideget, maradjon mozgásban; használja ki a lapos téli napsütést a toronyról készülő fotókhoz.",
+                "ro": "Zidurile vechi emană frig, rămâneți în mișcare; profitați de lumina piezișă a soarelui de iarnă pentru fotografii dramatice cu turnul.",
+                "en": "The old walls radiate cold in winter, stay in motion; take advantage of the low winter sunlight for dramatic photos of the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "San Kristobal",
+                "hu": "San Kristobal",
+                "ro": "San Kristobal",
+                "en": "San Kristobal"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour vor Sonnenuntergang gegen 17 Uhr; die Winterdämmerung über dem Tal ist kurz aber farblich sehr intensiv.",
+                "hu": "Fejezze be a túrát naplemente előtt, 17 óra körül, hogy elkerülje a fagyot; a téli szürkület a völgy felett rövid, de intenzív.",
+                "ro": "Încheiați turul înainte de apusul soarelui, în jur de ora 17; amurgul de iarnă peste vale este scurt, dar intens colorat.",
+                "en": "Finish your tour before sunset, around 5 PM, to avoid the frost; the winter twilight over the valley is short but brings intense colors."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "A délelőtt a történelmi gyökereknek és a megemlékezés kultúrájának van szentelve a városközpontban. Dél körül kényelmesen kivezet a bioszféra-rezervátum hatalmas természetébe. A délután az ókori felfedezések jegyében telik a római romoknál. A tökéletes autós kirándulást Forua történelmi épületeinek esti megtekintése zárja le.",
         "ro": "Dimineața este dedicată rădăcinilor istorice și culturii comemorării în centrul orașului. În jurul prânzului, conduceți confortabil în natura vastă a rezervației biosferei. După-amiaza se concentrează pe descoperirile antice la ruinele romane. O vizită relaxantă de seară la clădirile istorice din Forua completează excursia auto perfectă.",
         "en": "The morning is dedicated to the historical roots and memorial culture in the city center. Around midday, drive comfortably out into the vast nature of the biosphere reserve. The afternoon is all about ancient discoveries at the Roman ruins. A relaxing evening visit to historic buildings in Forua rounds off the perfect road trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im gemütlichen Auto ist der Regen nur eine atmosphärische Kulisse. Zwischen dem Museum und dem Reservat bietet der beheizte Innenraum Schutz vor dem Wetter. Nachmittags halten wir nur kurz an den römischen Ruinen und nutzen parkplatznahe Wege. Der Abend am Rathaus besticht durch Lichter, die sich malerisch in den nassen Straßen spiegeln.",
+            "hu": "A kényelmes autóban az eső csak hangulatos háttérzaj a gernikai reggelhez. A múzeum és a rezervátum között a fűtött utastér nyújt tökéletes védelmet a kinti szürkeség ellen. Délután a foruai római romoknál csak rövid időre szállunk ki, kihasználva a közeli ösvényeket. Az estét a városházánál zárjuk a csillogó fényekben.",
+            "ro": "În mașina confortabilă, ploaia este doar un fundal atmosferic. Între muzeu și rezervație, interiorul încălzit oferă protecție perfectă împotriva vremii gri. După-amiaza oprim scurt la ruinele romane, folosind potecile din apropierea parcării. Seara la primărie impresionează prin luminile care se reflectă pitoresc în străzile umede.",
+            "en": "In the comfort of the car, the rain is just an atmospheric backdrop to the morning. Between the museum and the reserve, the heated interior provides perfect protection against the gray weather. In the afternoon, we stop briefly at the Roman ruins, using paths near the parking lot. The evening at the town hall features lights reflecting picturesquely on wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gernikako Arbola",
+                "hu": "Gernikako Arbola",
+                "ro": "Gernikako Arbola",
+                "en": "Gernikako Arbola"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt am Gelände, um den Weg im Regen kurz zu halten; die feuchten Steine glänzen schön im Scheinwerferlicht.",
+                "hu": "Használja a parlament melletti parkolókat, hogy lerövidítse az esőben megtett utat; a nedves kövek szépen csillognak a fényszórókban.",
+                "ro": "Folosiți parcările de lângă parlament pentru a scurta drumul prin ploaie; pietrele umede sclipesc frumos în lumina farurilor mașinii.",
+                "en": "Use the parking lots right next to the parliament to shorten the walk in the rain; the wet stones glisten beautifully in the car's headlights."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Paz de Gernika",
+                "hu": "Museo de la Paz de Gernika",
+                "ro": "Museo de la Paz de Gernika",
+                "en": "Museo de la Paz de Gernika"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus im Zentrum, um trockenen Fußes zum Eingang zu gelangen; im Inneren finden Sie Ausstellungen zum Verweilen.",
+                "hu": "Parkoljon a központi parkolóházban, hogy száraz lábbal érje el a múzeum bejáratát; odabent interaktív kiállítások várják az elidőzéshez.",
+                "ro": "Parcați în parcarea centrală pentru a ajunge cu picioarele uscate la intrare; în interior vă așteaptă expoziții unde puteți zăbovi.",
+                "en": "Park in the central parking garage to reach the museum entrance with dry feet; inside, interactive exhibits await where you can linger comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Urdaibaiko Biosfera Erreserba",
+                "hu": "Urdaibaiko Biosfera Erreserba",
+                "ro": "Urdaibaiko Biosfera Erreserba",
+                "en": "Urdaibaiko Biosfera Erreserba"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem Auto, wenn der Regen zu stark ist; die Scheibenwischer geben den Blick auf das Marschland frei.",
+                "hu": "Élvezze a kilátást az autóból, ha az eső túl erős egy sétához; az ablaktörlők mögül tiszta rálátás nyílik a lápvidékre és a tájra.",
+                "ro": "Bucurați-vă de priveliște din mașină dacă ploaia este prea puternică; ștergătoarele oferă o vedere clară asupra mlaștinilor rezervației.",
+                "en": "Enjoy the view from the car if the rain is too heavy for a walk; the wipers reveal a clear view of the marshlands and the wildlife."
+              }
+            },
+            {
+              "name": {
+                "de": "Yacimiento romano de Forua",
+                "hu": "Yacimiento romano de Forua",
+                "ro": "Yacimiento romano de Forua",
+                "en": "Yacimiento romano de Forua"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungen sind teilweise überdacht, was den Besuch bei Schauern ermöglicht; parken Sie direkt am Rand des archäologischen Parks.",
+                "hu": "Az ásatások részben fedettek, ami lehetővé teszi a látogatást záporok idején is; parkoljon közvetlenül a régészeti park szélén a kényelemért.",
+                "ro": "Săpăturile sunt parțial acoperite, permițând vizitarea în timpul averselor; parcați chiar la marginea parcului arheologic pentru confort.",
+                "en": "The excavations are partially covered, allowing for a visit even during showers; park right at the edge of the archaeological park for convenience."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourseko Done Martie",
+                "hu": "Tourseko Done Martie",
+                "ro": "Tourseko Done Martie",
+                "en": "Tourseko Done Martie"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine ruhige, trockene Atmosphäre; achten Sie beim Aussteigen auf Pfützen auf dem unebenen Platz vor dem Portal.",
+                "hu": "A templom csendes, száraz környezetet biztosít az elcsendesedéshez; kiszálláskor ügyeljen a tócsákra a templom előtti egyenetlen talajon.",
+                "ro": "Biserica oferă un mediu liniștit și uscat pentru reculegere; la coborâre, atenție la bălțile de pe terenul denivelat din fața bisericii.",
+                "en": "The church provides a quiet, dry environment for reflection; when getting out, watch out for puddles on the uneven ground in front of the portal."
+              }
+            },
+            {
+              "name": {
+                "de": "Foruko udaletxea",
+                "hu": "Foruko udaletxea",
+                "ro": "Foruko udaletxea",
+                "en": "Foruko udaletxea"
+              },
+              "tip_5lang": {
+                "de": "Das Rathausviertel ist bei Regen gut beleuchtet; genießen Sie die Architektur durch die regennassen Scheiben Ihres Fahrzeugs.",
+                "hu": "A városháza környéke esőben is jól kivilágított és autóval biztonságosan megközelíthető; csodálja meg az építészetet az esőáztatta üvegek mögül.",
+                "ro": "Zona primăriei este bine iluminată și accesibilă în siguranță; admirați arhitectura prin geamurile udate de ploaie ale mașinii.",
+                "en": "The town hall area is well-lit and safely accessible by car even in rain; admire the architecture through the rain-streaked windows of the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start an der Eiche wird durch die Sitzheizung schnell vergessen. Das Friedensmuseum bietet mittags wohlige Wärme, bevor die Fahrt durch das winterliche Reservat führt. Nachmittags erreichen wir Forua im letzten Tageslicht, wo die Ruinen glitzern. Der Abend an der Foruko udaletxea ist kurz, da die Dunkelheit die Architektur früh einhüllt.",
+            "hu": "A fagyos kezdést a tölgyfánál az autó fűtése hamar elfeledteti velünk. A Békemúzeum délben kellemes meleget ad, mielőtt az Urdaibai-rezervátum téli tájain autóznánk keresztül. Délután az utolsó fényeknél érjük el Foruát, ahol a romok csillognak a dértől. Az este a városházánál rövid, mivel a sötétség korán beköszönt.",
+            "ro": "Un început înghețat la stejar este uitat rapid datorită încălzirii din mașină. Muzeul Păcii oferă căldură plăcută la prânz înainte de a conduce prin rezervația Urdaibai. După-amiaza ajungem la Forua în ultima lumină a zilei, unde ruinele sclipesc. Seara la primăria din Forua este scurtă, deoarece întunericul acoperă devreme arhitectura.",
+            "en": "A frosty start at the oak is quickly forgotten thanks to the car's heating. The Peace Museum offers cozy warmth at noon before driving through the wintry landscape of the Urdaibai reserve. In the afternoon, we reach Forua in the last light of day, where the ruins glisten with frost. The evening at Forua town hall is short as darkness early shrouds the architecture."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gernikako Arbola",
+                "hu": "Gernikako Arbola",
+                "ro": "Gernikako Arbola",
+                "en": "Gernikako Arbola"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht im Winter aus, um den Baum zu sehen; nutzen Sie die Standheizung beim Warten auf die anderen am Parlament.",
+                "hu": "Télen egy rövid megálló is elég, hogy megnézze a pihenő fát; használja az autó fűtését, miközben a többiekre vár a parlamentnél.",
+                "ro": "Iarna, o scurtă oprire este suficientă pentru a vedea copacul; folosiți încălzirea mașinii în timp ce îi așteptați pe ceilalți la parlament.",
+                "en": "In winter, a short stop is enough to see the resting tree; use the car's heater while waiting for the others at the parliament area."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Paz de Gernika",
+                "hu": "Museo de la Paz de Gernika",
+                "ro": "Museo de la Paz de Gernika",
+                "en": "Museo de la Paz de Gernika"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein willkommener Wärmepunkt; stellen Sie sicher, dass Ihre Scheiben für die Weiterfahrt durch das Tal eisfrei sind.",
+                "hu": "A múzeum hívogató meleg pontja a túrának; győződjön meg róla, hogy az autó szélvédői jégmentesek a völgyön át vezető további út előtt.",
+                "ro": "Muzeul este un punct cald binevenit; asigurați-vă că parbrizul este dezghețat pentru drumul prin vale care urmează în itinerar.",
+                "en": "The museum is a welcome warm spot on your tour; make sure your car windows are ice-free for the continued drive through the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Urdaibaiko Biosfera Erreserba",
+                "hu": "Urdaibaiko Biosfera Erreserba",
+                "ro": "Urdaibaiko Biosfera Erreserba",
+                "en": "Urdaibaiko Biosfera Erreserba"
+              },
+              "tip_5lang": {
+                "de": "Die Winterlandschaft wirkt vom Fahrersitz aus fast wie ein Gemälde; achten Sie auf glatte Stellen auf den Nebenstraßen am Wasser.",
+                "hu": "A rezervátum téli tája a vezetőülésből nézve szinte festményszerű; ügyeljen a jeges foltokra a vízpart menti mellékutakon és kanyarokban.",
+                "ro": "Peisajul de iarnă al rezervației pare aproape un tablou văzut de la volan; atenție la porțiunile înghețate de pe drumurile secundare de lângă apă.",
+                "en": "The winter landscape of the reserve looks almost like a painting from the driver's seat; watch out for icy patches on side roads near the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Yacimiento romano de Forua",
+                "hu": "Yacimiento romano de Forua",
+                "ro": "Yacimiento romano de Forua",
+                "en": "Yacimiento romano de Forua"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind weniger Besucher hier, was Ruhe schafft; ziehen Sie festes Schuhwerk an, da der Boden zwischen den Ruinen gefroren sein kann.",
+                "hu": "Télen kevesebb a látogató, ami exkluzív hangulatot teremt; húzzon strapabíró cipőt, mert a talaj a romok között fagyos és kemény lehet.",
+                "ro": "Iarna sunt mai puțini vizitatori, ceea ce creează o atmosferă specială; purtați încălțăminte rezistentă deoarece solul poate fi înghețat.",
+                "en": "There are fewer visitors in winter, creating an exclusive atmosphere; wear sturdy shoes as the ground among the ruins can be frozen and hard."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourseko Done Martie",
+                "hu": "Tourseko Done Martie",
+                "ro": "Tourseko Done Martie",
+                "en": "Tourseko Done Martie"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte lange, bleiben Sie warm angezogen; das Licht im Inneren ist im Winter besonders stimmungsvoll.",
+                "hu": "A templom vastag falai sokáig tartják a hideget, maradjon melegen felöltözve; a belső világítás télen különösen meghitt hangulatot áraszt.",
+                "ro": "Zidurile groase ale bisericii rețin frigul mult timp, rămâneți bine îmbrăcat; iluminatul interior creează o atmosferă intimă iarna.",
+                "en": "The thick walls of the church hold the cold for a long time, stay warmly dressed; the interior lighting creates a particularly cozy atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Foruko udaletxea",
+                "hu": "Foruko udaletxea",
+                "ro": "Foruko udaletxea",
+                "en": "Foruko udaletxea"
+              },
+              "tip_5lang": {
+                "de": "Da es um 17 Uhr dunkel wird, sehen Sie hier die festliche Beleuchtung; beenden Sie Ihre Fahrt im sicheren, künstlich beleuchteten Stadtgebiet.",
+                "hu": "Mivel 17 órakor sötétedik, ez remek helyszín az ünnepi fények megcsodálására; itt fejezze be az autózást a biztonságos városi környezetben.",
+                "ro": "Deoarece se întunecă la ora 17, acesta este un loc minunat pentru lumini festive; încheiați aici călătoria în zona urbană sigură.",
+                "en": "Since it gets dark at 5 PM, this is a great spot to admire the festive lights; finish your drive here in the safe, well-lit urban area."
+              }
+            }
+          ]
+        }
       }
     }
   }

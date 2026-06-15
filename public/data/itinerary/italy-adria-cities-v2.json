@@ -130,6 +130,196 @@
         "hu": "A nap a város régészeti múltjának lenyűgöző bemutatásával kezdődik, majd egy ősi bazilika nyugalmát élvezheti. Délben a Városháza környékén a helyi polgári élet ritmusát és a kulturális színteret fedezheti fel. A délután a majestikus dóm és annak lenyűgöző szakrális építészetének jegyében telik. Az estét az Auditorium környékén zártuk le békésen.",
         "ro": "Ziua începe cu o perspectivă fascinantă asupra trecutului arheologic, urmată de liniștea unei bazilici antice. La prânz, veți experimenta centrul civic și ritmurile culturale în Piața Primăriei. După-amiaza este caracterizată de arhitectura sacră impresionantă a domului maiestuos. Vă puteți încheia seara confortabil la Auditorium.",
         "en": "The day begins with a fascinating glimpse into the city's archaeological past, followed by the tranquility of an ancient basilica. At midday, you will experience the civic heart and cultural rhythms around the Town Hall square. The afternoon is characterized by impressive sacred architecture at the majestic Duomo. You end the evening with a relaxing stroll near the Auditorium."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im archäologischen Museum, um dem Regen zu entfliehen. Mittags führen kurze Wege zwischen den historischen Gebäuden durch die Arkaden. Am Nachmittag bieten das Kino und der Dom trockene Zufluchtsorte. Abends genießen Sie die Lichter der Stadt, die sich auf dem nassen Pflaster spiegeln, während Sie zum Auditorium spazieren.",
+            "hu": "Kezdje a napot a régészeti múzeumban, ahol fedett helyen ismerkedhet a múlttal. Délben a történelmi épületek közti rövid séták során használja az esernyőt. Délután a mozi és a dóm nyújt menedéket a záporok elől. Este az Auditóriumban zárul a program, miközben a vizes aszfalton megcsillannak az utcai fények.",
+            "ro": "Începeți ziua la muzeul de arheologie pentru a evita ploaia. La prânz, deplasările scurte între clădirile istorice vă permit să rămâneți uscat. După-amiaza, cinematograful și domul oferă adăpost excelent. Seara, bucurați-vă de luminile orașului reflectate în bălți în timp ce vă îndreptați spre auditorium.",
+            "en": "Start your morning at the archaeological museum to stay dry while exploring history. At noon, take short dashes between historical sites with your umbrella ready. In the afternoon, the cinema and the cathedral provide perfect indoor retreats. End your evening at the auditorium, enjoying the atmospheric reflections on the wet cobblestones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Adria",
+                "hu": "Museo Archeologico Nazionale di Adria",
+                "ro": "Museo Archeologico Nazionale di Adria",
+                "en": "Museo Archeologico Nazionale di Adria"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die etruskischen Funde im beheizten Innenraum; nutzen Sie die Garderobe für Ihre nassen Regenschirme und Mäntel.",
+                "hu": "Fedezze fel az etruszk leleteket a fűtött belső terekben; használja a ruhatárat a vizes esernyők és kabátok leadására.",
+                "ro": "Explorați vestigiile etrusce în interiorul încălzit; folosiți garderoba pentru a lăsa umbrelele și hainele ude la intrare.",
+                "en": "Explore the Etruscan finds in the heated interior; use the cloakroom to store your wet umbrellas and heavy coats comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Assunta della Tomba",
+                "hu": "Chiesa di Santa Maria Assunta della Tomba",
+                "ro": "Chiesa di Santa Maria Assunta della Tomba",
+                "en": "Chiesa di Santa Maria Assunta della Tomba"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das alte Taufbecken im trockenen Kirchenschiff; achten Sie auf die rutschigen Steinstufen am Kircheneingang.",
+                "hu": "Csodálja meg az ősi keresztelőkutat a száraz hajóban; vigyázzon a templom bejáratánál lévő csúszós kőlépcsőkre.",
+                "ro": "Admirați cristelnița veche în nava uscată a bisericii; atenție la treptele de piatră de la intrare care pot fi alunecoase.",
+                "en": "Admire the ancient baptismal font in the dry nave; watch out for the slippery stone steps at the church entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Comune di Adria",
+                "hu": "Comune di Adria",
+                "ro": "Comune di Adria",
+                "en": "Comune di Adria"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Architektur von den umliegenden Arkaden aus; so bleiben Sie trocken, während Sie das Rathaus von außen bewundern.",
+                "hu": "Tekintse meg az építészetet a környező árkádok alól; így szárazon maradhat, miközben kívülről csodálja a városházát.",
+                "ro": "Observați arhitectura de sub arcadele din apropiere; astfel veți rămâne uscat în timp ce admirați primăria din exterior.",
+                "en": "View the architecture from the nearby arcades; this keeps you dry while you admire the town hall from the outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Circolo del Cinema Carlo Mazzacurati Adria",
+                "hu": "Circolo del Cinema Carlo Mazzacurati Adria",
+                "ro": "Circolo del Cinema Carlo Mazzacurati Adria",
+                "en": "Circolo del Cinema Carlo Mazzacurati Adria"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kulturelle Pause im Trockenen; genießen Sie die warme Atmosphäre dieses lokalen Treffpunkts während eines Schauers.",
+                "hu": "Ideális hely egy kulturális szünetre a szárazban; élvezze a helyi közösségi tér meleg hangulatát egy kiadós zápor alatt.",
+                "ro": "Un loc ideal pentru o pauză culturală la adăpost; bucurați-vă de atmosfera caldă a acestui centru local în timpul ploii.",
+                "en": "An ideal spot for a cultural break indoors; enjoy the warm atmosphere of this local community space during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Adria",
+                "hu": "Duomo di Adria",
+                "ro": "Duomo di Adria",
+                "en": "Duomo di Adria"
+              },
+              "tip_5lang": {
+                "de": "Die majestätische Kathedrale bietet perfekten Schutz; nutzen Sie die Zeit für eine detaillierte Innenbesichtigung der Kunstwerke.",
+                "hu": "A fenséges katedrális tökéletes védelmet nyújt; használja ki az időt a belső műalkotások részletes megtekintésére.",
+                "ro": "Catedrala maiestuoasă oferă protecție perfectă; profitați de timp pentru o vizită detaliată a operelor de artă din interior.",
+                "en": "The majestic cathedral offers perfect protection; use the time for a detailed indoor tour of the religious artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorium Mecenati",
+                "hu": "Auditorium Mecenati",
+                "ro": "Auditorium Mecenati",
+                "en": "Auditorium Mecenati"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag bei einer Indoor-Veranstaltung; prüfen Sie das Abendprogramm, um den Regen bei Musik oder Theater zu vergessen.",
+                "hu": "Zárja a napot egy beltéri előadással; ellenőrizze az esti programot, hogy zenével vagy színházzal felejtse el a kinti esőt.",
+                "ro": "Încheiați ziua cu un eveniment în interior; verificați programul de seară pentru a uita de ploaie cu muzică sau teatru.",
+                "en": "End your day with an indoor performance; check the evening schedule to forget the rain with music or theatre."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die hellen Morgenstunden für den Museumsbesuch. Mittags wärmt ein kurzer Spaziergang durch die historische Altstadt. Da es bereits gegen 17:00 Uhr dunkel wird, verlegen Sie die Besichtigungen am Nachmittag in die beheizten Kirchen. Abends erstrahlt Adria in winterlicher Beleuchtung, ideal für einen kurzen Gang zum Auditorium.",
+            "hu": "Használja ki a világos reggelt a múzeumlátogatásra. Délben egy rövid séta a történelmi óvárosban segít felmelegedni. Mivel 17:00 körül sötétedik, a délutáni látogatásokat tegye a fűtött templomokba. Este Adria téli díszkivilágításban pompázik, ami tökéletes egy rövid sétához az Auditóriumig.",
+            "ro": "Profită de dimineața luminoasă pentru a vizita muzeul. La prânz, o scurtă plimbare prin centrul istoric te va încălzi. Deoarece se întunecă în jur de ora 17:00, mutați vizitele de după-amiază în bisericile încălzite. Seara, Adria strălucește sub iluminatul de iarnă, ideal pentru o scurtă plimbare.",
+            "en": "Make the most of the bright morning for museum visits. At noon, a brisk walk through the historic center helps keep you warm. Since it gets dark around 17:00, plan afternoon visits to heated churches. In the evening, Adria glows under winter lights, perfect for a short stroll to the auditorium."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Adria",
+                "hu": "Museo Archeologico Nazionale di Adria",
+                "ro": "Museo Archeologico Nazionale di Adria",
+                "en": "Museo Archeologico Nazionale di Adria"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison im beheizten Museum; ideal, um die Kälte des frühen Morgens draußen zu lassen.",
+                "hu": "Élvezze a holtszezon nyugalmát a fűtött múzeumban; ideális hely, hogy elkerülje a kora reggeli hideget.",
+                "ro": "Bucurați-vă de liniștea extra-sezonului în muzeul încălzit; un loc ideal pentru a evita frigul dimineții devreme.",
+                "en": "Enjoy the off-season peace in the heated museum; an ideal place to escape the early morning winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Assunta della Tomba",
+                "hu": "Chiesa di Santa Maria Assunta della Tomba",
+                "ro": "Chiesa di Santa Maria Assunta della Tomba",
+                "en": "Chiesa di Santa Maria Assunta della Tomba"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen vor Wind; tragen Sie dennoch mehrere Schichten, da es in großen Kirchenschiffen kühl sein kann.",
+                "hu": "A vastag falak védenek a széltől; viseljen réteges öltözetet, mert a tágas templomhajóban hűvös lehet.",
+                "ro": "Zidurile groase vă protejează de vânt; purtați totuși haine stratificate, deoarece în nava bisericii poate fi răcoare.",
+                "en": "The thick walls protect you from the wind; wear layered clothing as the spacious church nave can be quite cool."
+              }
+            },
+            {
+              "name": {
+                "de": "Comune di Adria",
+                "hu": "Comune di Adria",
+                "ro": "Comune di Adria",
+                "en": "Comune di Adria"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade im klaren Winterlicht; ein schneller Fotostopp ist perfekt, bevor Sie wieder ins Warme gehen.",
+                "hu": "Csodálja meg a homlokzatot a tiszta téli fényben; egy gyors fotómegálló tökéletes, mielőtt visszatérne a melegbe.",
+                "ro": "Admirați fațada în lumina clară de iarnă; o oprire rapidă pentru poze este perfectă înainte de a intra la căldură.",
+                "en": "Admire the facade in the crisp winter light; a quick photo stop is perfect before heading back into the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Circolo del Cinema Carlo Mazzacurati Adria",
+                "hu": "Circolo del Cinema Carlo Mazzacurati Adria",
+                "ro": "Circolo del Cinema Carlo Mazzacurati Adria",
+                "en": "Circolo del Cinema Carlo Mazzacurati Adria"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich am Nachmittag in diesem kulturellen Treffpunkt auf; ein gemütlicher Ort, um der Winterkälte kurz zu entfliehen.",
+                "hu": "Melegedjen fel délután ebben a kulturális közösségi térben; barátságos hely, hogy rövid időre elmeneküljön a téli hideg elől.",
+                "ro": "Încălziți-vă după-amiaza în acest centru cultural; un loc primitor pentru a scăpa scurt de frigul iernii.",
+                "en": "Warm up in the afternoon at this cultural hub; a welcoming spot to escape the winter cold for a short while."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Adria",
+                "hu": "Duomo di Adria",
+                "ro": "Duomo di Adria",
+                "en": "Duomo di Adria"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Dom vor Sonnenuntergang um 17 Uhr; das goldene Licht der tiefstehenden Wintersonne beleuchtet den Innenraum wunderschön.",
+                "hu": "Látogasson el a dómba a 17 órai naplemente előtt; az alacsonyan járó téli nap arany fénye gyönyörűen világítja meg a belső teret.",
+                "ro": "Vizitați domul înainte de apusul de la ora 17; lumina aurie a soarelui de iarnă luminează superb interiorul.",
+                "en": "Visit the cathedral before the 17:00 sunset; the golden low winter sun lights up the interior beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorium Mecenati",
+                "hu": "Auditorium Mecenati",
+                "ro": "Auditorium Mecenati",
+                "en": "Auditorium Mecenati"
+              },
+              "tip_5lang": {
+                "de": "Ein behaglicher Abschluss des Wintertages; genießen Sie die hervorragende Akustik in einem gut beheizten Veranstaltungssaal.",
+                "hu": "Meghitt lezárása a téli napnak; élvezze a kiváló akusztikát egy jól fűtött előadóteremben.",
+                "ro": "Un final primitor pentru o zi de iarnă; bucurați-vă de acustica excelentă într-o sală de spectacole bine încălzită.",
+                "en": "A cozy conclusion to your winter day; enjoy the excellent acoustics in a well-heated concert hall."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -272,6 +462,224 @@
         "hu": "Kezdje a napot aktívan a helyi uszodában, mielőtt belevetné magát a római történelembe. A déli órákat a történelmi templomok és a nyüzsgő városháza tér közötti kerékpározással töltheti. Délután a központ további műemlékeit fedezheti fel, majd továbbteker. A túra a város szélén, a Septem Mària Múzeumban ér véget.",
         "ro": "Începeți activ cu o vizită de dimineață la piscina locală înainte de a vă dedica istoriei romane. Veți petrece prânzul cu bicicleta între bisericile istorice și piața animată a Primăriei. După-amiaza veți explora alte monumente din centru înainte de a merge mai departe. Turul se încheie la marginea orașului la Muzeul Septem Mària.",
         "en": "Start actively with a morning visit to the local pool before diving into Roman history. You will spend midday cycling between historic churches and the lively Town Hall square. In the afternoon, you will explore further monuments in the center before pedaling on. The tour concludes on the outskirts of the city at the Septem Mària Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Schwimmbad, da die Straßen rutschig sein können. Mittags bieten Museen lange Pausen im Trockenen. Achten Sie nachmittags auf Pfützen auf dem Weg zum Monument. Die letzte Etappe zum Septem Mària Museum führt entlang des Kanals, wo bei Regen besondere Vorsicht geboten ist.",
+            "hu": "Kezdje óvatosan a napot az uszodánál, mivel az utak csúszósak lehetnek. Délben a múzeumok hosszú, száraz pihenőt kínálnak. Délután figyeljen a tócsákra az emlékmű felé vezető úton. A Septem Mària múzeumhoz vezető utolsó szakasz a csatorna mentén esőben fokozott figyelmet igényel.",
+            "ro": "Începeți ziua cu prudență la piscină, deoarece drumurile pot fi alunecoase. La prânz, muzeele oferă pauze lungi la uscat. După-amiaza, atenție la bălți în drum spre monument. Ultima etapă spre muzeul Septem Mària, de-a lungul canalului, necesită atenție sporită pe ploaie.",
+            "en": "Start cautiously at the pool as roads might be slippery. At noon, museums offer long, dry breaks from the weather. In the afternoon, watch out for puddles on your way to the monument. The final leg to the Septem Mària Museum along the canal requires extra care in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscina Comunale di Adria",
+                "hu": "Piscina Comunale di Adria",
+                "ro": "Piscina Comunale di Adria",
+                "en": "Piscina Comunale di Adria"
+              },
+              "tip_5lang": {
+                "de": "Ein Indoor-Start ist ideal; nutzen Sie die Umkleiden, um Ihre Regenbekleidung für die Weiterfahrt optimal zu richten.",
+                "hu": "A fedett kezdés ideális; használja az öltözőket, hogy megfelelően beállítsa esőfelszerelését a továbbindulás előtt.",
+                "ro": "Un început în interior este ideal; folosiți vestiarele pentru a vă ajusta echipamentul de ploaie înainte de plecare.",
+                "en": "An indoor start is ideal; use the changing rooms to properly adjust your rain gear before heading back out."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Adria",
+                "hu": "Museo Archeologico Nazionale di Adria",
+                "ro": "Museo Archeologico Nazionale di Adria",
+                "en": "Museo Archeologico Nazionale di Adria"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem geschützten Ort; im Museum können Sie in Ruhe trocknen, während Sie die Funde besichtigen.",
+                "hu": "Parkolja le kerékpárját védett helyen; a múzeumban nyugodtan megszáradhat, miközben a leleteket böngészi.",
+                "ro": "Parcați bicicleta într-un loc protejat; în muzeu vă puteți usca în liniște în timp ce vizitați expozițiile.",
+                "en": "Park your bike in a sheltered spot; the museum is a great place to dry off while you browse the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Assunta della Tomba",
+                "hu": "Chiesa di Santa Maria Assunta della Tomba",
+                "ro": "Chiesa di Santa Maria Assunta della Tomba",
+                "en": "Chiesa di Santa Maria Assunta della Tomba"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Absteigen die glatten Markierungen auf der Straße; die Kirche bietet eine willkommene kurze Pause im Trockenen.",
+                "hu": "Leszálláskor kerülje a csúszós útburkolati jeleket; a templom szívesen látott rövid, száraz pihenőt nyújt.",
+                "ro": "Evitați marcajele rutiere alunecoase la coborâre; biserica oferă o scurtă pauză binevenită la adăpost.",
+                "en": "Avoid slippery road markings when dismounting; the church offers a welcome short break from the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Comune di Adria",
+                "hu": "Comune di Adria",
+                "ro": "Comune di Adria",
+                "en": "Comune di Adria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden in der Nähe des Rathauses, um Ihr Fahrrad kurz unterzustellen und die Architektur zu bewundern.",
+                "hu": "Használja a városháza közeli árkádokat, hogy rövid időre fedett helyre tegye a biciklit, amíg az épületet nézi.",
+                "ro": "Folosiți arcadele de lângă primărie pentru a lăsa bicicleta la adăpost scurt timp în timp ce admirați clădirea.",
+                "en": "Use the arcades near the town hall to keep your bike sheltered for a moment while you admire the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Adria",
+                "hu": "Duomo di Adria",
+                "ro": "Duomo di Adria",
+                "en": "Duomo di Adria"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad und nutzen Sie den Dom für eine ausgiebige Regenpause; die monumentale Größe beeindruckt auch bei grauem Wetter.",
+                "hu": "Zárja le a gépét és használja a dómot egy kiadós esőpihenőre; a monumentális méretek szürke időben is lenyűgözőek.",
+                "ro": "Securizați bicicleta și folosiți domul pentru o pauză lungă de ploaie; dimensiunile monumentale impresionează și pe vreme gri.",
+                "en": "Lock your bike and use the cathedral for an extended rain break; its monumental scale is impressive even in grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Chiarato",
+                "hu": "Monumento a Chiarato",
+                "ro": "Monumento a Chiarato",
+                "en": "Monumento a Chiarato"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg hierher auf rutschiges Laub oder nasses Kopfsteinpflaster; ein kurzer Halt reicht bei diesem Wetter aus.",
+                "hu": "Figyeljen a csúszós levelekre vagy a vizes macskakőre idefelé; esőben egy rövid megálló is bőven elég itt.",
+                "ro": "Atenție la frunzele alunecoase sau pavajul umed în drum spre aici; pe ploaie, o oprire scurtă este suficientă.",
+                "en": "Watch out for slippery leaves or wet cobblestones on your way; a quick stop is enough in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Septem Mària Museum",
+                "hu": "Septem Mària Museum",
+                "ro": "Septem Mària Museum",
+                "en": "Septem Mària Museum"
+              },
+              "tip_5lang": {
+                "de": "Die letzte Strecke ist oft windanfällig; im Museum erwartet Sie eine faszinierende Ausstellung über die Wasserwelt im Trockenen.",
+                "hu": "Az utolsó szakasz gyakran szeles; a múzeumban a vizek világáról szóló lenyűgöző kiállítás várja Önt, biztonságos fedél alatt.",
+                "ro": "Ultima porțiune este adesea vântoasă; în muzeu vă așteaptă o expoziție fascinantă despre lumea apelor, la adăpost.",
+                "en": "The final stretch is often windy; inside the museum, a fascinating exhibition about the world of water awaits you, safely indoors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag aktiv im Schwimmbad, um den Kreislauf in Schwung zu bringen. Mittags wärmen die Museumsbesuche auf, während Sie zwischen den Stopps zügig radeln, um warm zu bleiben. Beachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr und tragen Sie reflektierende Kleidung für die Rückfahrt vom Septem Mària Museum.",
+            "hu": "Kezdje a napot aktívan az uszodában, hogy beindítsa a keringését. Délben a múzeumlátogatások felmelegítik, a megállók között pedig tekerjen tempósan. Figyeljen a korai, 17:00 körüli naplementére, és viseljen fényvisszaverő ruházatot a Septem Mària múzeumból visszafelé.",
+            "ro": "Începeți ziua activ la piscină pentru a vă pune sângele în mișcare. La prânz, vizitele la muzee vă vor încălzi, iar între opriri pedalați susținut. Atenție la apusul devreme de la ora 17:00 și purtați haine reflectorizante pentru drumul de întoarcere.",
+            "en": "Start your day actively at the pool to boost your circulation. At noon, museum visits will warm you up; cycle briskly between stops to stay warm. Mind the early sunset around 17:00 and wear reflective clothing for the ride back from the Septem Mària Museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscina Comunale di Adria",
+                "hu": "Piscina Comunale di Adria",
+                "ro": "Piscina Comunale di Adria",
+                "en": "Piscina Comunale di Adria"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Wasser auf, bevor Sie in die Winterluft hinausradeln; trocknen Sie Ihre Haare gründlich ab.",
+                "hu": "Melegedjen fel a vízben, mielőtt kikerékpározna a téli levegőre; alaposan szárítsa meg a haját indulás előtt.",
+                "ro": "Încălziți-vă în apă înainte de a ieși cu bicicleta în aerul de iarnă; uscați-vă bine părul înainte de plecare.",
+                "en": "Warm up in the water before cycling out into the winter air; make sure to dry your hair thoroughly before leaving."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Adria",
+                "hu": "Museo Archeologico Nazionale di Adria",
+                "ro": "Museo Archeologico Nazionale di Adria",
+                "en": "Museo Archeologico Nazionale di Adria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Ausstellungsräume für eine längere Pause; das Museum ist ein perfekter Ort, um die Winterkälte zu vergessen.",
+                "hu": "Használja a fűtött kiállítótereket egy hosszabb pihenőre; a múzeum tökéletes hely, hogy elfelejtse a téli hideget.",
+                "ro": "Folosiți sălile de expoziție încălzite pentru o pauză mai lungă; muzeul este locul perfect pentru a uita de frigul iernii.",
+                "en": "Use the heated exhibition rooms for a longer break; the museum is a perfect place to forget the winter chill for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Assunta della Tomba",
+                "hu": "Chiesa di Santa Maria Assunta della Tomba",
+                "ro": "Chiesa di Santa Maria Assunta della Tomba",
+                "en": "Chiesa di Santa Maria Assunta della Tomba"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer kultureller Halt; ziehen Sie Handschuhe und Mütze erst im Inneren aus, um die Körperwärme zu halten.",
+                "hu": "Rövid kulturális megálló; a kesztyűt és sapkát csak bent vegye le, hogy megőrizze testhőmérsékletét.",
+                "ro": "O scurtă oprire culturală; scoateți mănușile și căciula doar în interior pentru a vă menține căldura corporală.",
+                "en": "A brief cultural stop; keep your gloves and hat on until you're inside to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Comune di Adria",
+                "hu": "Comune di Adria",
+                "ro": "Comune di Adria",
+                "en": "Comune di Adria"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Rathaus im klaren Licht der Wintersonne; das zügige Radeln hält Sie zwischen den Besichtigungen warm.",
+                "hu": "Tekintse meg a városházát a téli nap tiszta fényében; a tempós kerékpározás melegen tartja a látnivalók között.",
+                "ro": "Admirați primăria în lumina clară a soarelui de iarnă; pedalatul susținut vă va menține cald între vizite.",
+                "en": "View the town hall in the crisp light of the winter sun; brisk cycling will keep you warm between the sights."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Adria",
+                "hu": "Duomo di Adria",
+                "ro": "Duomo di Adria",
+                "en": "Duomo di Adria"
+              },
+              "tip_5lang": {
+                "de": "Die Kathedrale bietet Schutz vor dem kalten Winterwind; genießen Sie die sakrale Stille im imposanten, kühlen Innenraum.",
+                "hu": "A katedrális védelmet nyújt a hideg téli szél ellen; élvezze a szakrális csendet az impozáns, hűvös belső térben.",
+                "ro": "Catedrala oferă protecție împotriva vântului rece de iarnă; bucurați-vă de liniștea sacră în interiorul impunător.",
+                "en": "The cathedral provides shelter from the cold winter wind; enjoy the sacred silence in the imposing, cool interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Chiarato",
+                "hu": "Monumento a Chiarato",
+                "ro": "Monumento a Chiarato",
+                "en": "Monumento a Chiarato"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto und radeln Sie weiter, um nicht auszukühlen; die Winterluft ist hier oft sehr frisch.",
+                "hu": "Készítsen egy gyors fotót, és tekerjen tovább, hogy ne hűljön ki; a téli levegő itt gyakran nagyon friss.",
+                "ro": "Faceți o poză rapidă și pedalați mai departe pentru a nu vă răci; aerul de iarnă este adesea foarte proaspăt aici.",
+                "en": "Take a quick photo and keep cycling to avoid getting cold; the winter air here is often very crisp."
+              }
+            },
+            {
+              "name": {
+                "de": "Septem Mària Museum",
+                "hu": "Septem Mària Museum",
+                "ro": "Septem Mària Museum",
+                "en": "Septem Mària Museum"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit um 17 Uhr; die Heizung im Museum ist eine Wohltat nach der Fahrt.",
+                "hu": "Tervezze meg a visszautat a 17 órai sötétedés előtt; a múzeumi fűtés igazi áldás a tekerés után.",
+                "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului la ora 17; încălzirea din muzeu este o binecuvântare.",
+                "en": "Plan your return trip before darkness falls at 17:00; the museum's heating is a blessing after the ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -396,6 +804,196 @@
         "hu": "A reggel izgalmas utazást kínál a Septem Mària Múzeumba, majd a Régészeti Múzeum felfedezésével folytatódik. Délben a csendesebb negyedekbe hajt egy modern templomhoz, majd a történelmi központba. A délután az impozáns dóm és egy pihentető séta jegyében telik. Az útvonal méltóságteljesen ér véget a történelmi Chiarato emlékműnél.",
         "ro": "Dimineața oferă o călătorie captivantă la Muzeul Septem Mària, urmată de perspective profunde la Muzeul Arheologic. La prânz, conduceți în cartierele mai liniștite către o biserică modernă și centrul istoric. După-amiaza este dominată de domul impunător și de plimbări relaxate. Traseul se termină la monumentul istoric Chiarato.",
         "en": "The morning offers a captivating drive to the Septem Mària Museum, followed by deep insights at the Archaeological Museum. At midday, you drive to the quieter neighborhoods to see a modern church and the historic center. The afternoon is dominated by the imposing Duomo and relaxing walks. The route ends gracefully at the historic Chiarato Monument."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Adria bei Regen bequem zu erkunden. Parken Sie nahe an den Eingängen der Museen. Mittags bieten die Fahrten zwischen den Stopps trockene Erholung. Am Nachmittag lassen sich Kirchen und Denkmäler trotz Schauern gut besichtigen. Abends parken Sie im Zentrum für einen kurzen Gang zum Dom.",
+            "hu": "Autóval kényelmesen felfedezhető Adria esőben is. Parkoljon a múzeumi bejáratok közelében. Napközben a megállók közötti autózás száraz pihenőt nyújt. Délután a templomok és emlékművek a záporok ellenére is jól látogathatók. Este parkoljon a központban egy rövid sétához a dómig.",
+            "ro": "Cu mașina, Adria este ușor de explorat chiar și pe ploaie. Parcați aproape de intrările muzeelor. În timpul zilei, deplasările oferă o pauză uscată. După-amiaza, bisericile și monumentele pot fi vizitate ușor în ciuda ploii. Seara, parcați în centru pentru o scurtă plimbare la dom.",
+            "en": "Exploring Adria by car is convenient even in the rain. Park close to museum entrances to minimize exposure. During the day, driving between stops provides a dry sanctuary. In the afternoon, churches and monuments remain easily accessible. In the evening, park centrally for a short walk to the cathedral."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Septem Mària Museum",
+                "hu": "Septem Mària Museum",
+                "ro": "Septem Mària Museum",
+                "en": "Septem Mària Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den museumseigenen Parkplatz; so gelangen Sie fast trocken direkt in die Ausstellung über die Wasserwege.",
+                "hu": "Használja a múzeum saját parkolóját; így szinte szárazon juthat be közvetlenül a vízi utakról szóló kiállításra.",
+                "ro": "Folosiți parcarea muzeului; astfel veți ajunge aproape uscat direct la expoziția despre căile navigabile.",
+                "en": "Use the museum's own parking lot; this allows you to reach the waterway exhibition almost completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Adria",
+                "hu": "Museo Archeologico Nazionale di Adria",
+                "ro": "Museo Archeologico Nazionale di Adria",
+                "en": "Museo Archeologico Nazionale di Adria"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze in der Nähe; lassen Sie Ihren Regenschirm im Auto, falls es beim Aussteigen nur leicht nieselt.",
+                "hu": "A közelben több parkoló is található; hagyja az esernyőt az autóban, ha kiszálláskor csak szemerkél az eső.",
+                "ro": "Există parcări în apropiere; lăsați umbrela în mașină dacă plouă doar slab când coborâți.",
+                "en": "There are parking spaces nearby; leave your umbrella in the car if it's only drizzling when you get out."
+              }
+            },
+            {
+              "name": {
+                "de": "chiesa di Nostro Signore Gesù Cristo Divino Lavoratore",
+                "hu": "chiesa di Nostro Signore Gesù Cristo Divino Lavoratore",
+                "ro": "chiesa di Nostro Signore Gesù Cristo Divino Lavoratore",
+                "en": "chiesa di Nostro Signore Gesù Cristo Divino Lavoratore"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner Bau mit gutem Zugang; nutzen Sie den Besuch für eine trockene Pause und bewundern Sie die Glasfenster.",
+                "hu": "Modern épület jó megközelíthetőséggel; használja ki a látogatást egy száraz pihenőre, és csodálja meg az üvegablakokat.",
+                "ro": "O construcție modernă cu acces facil; profitați de vizită pentru o pauză la uscat și admirați vitraliile.",
+                "en": "A modern building with easy access; use the visit for a dry break and admire the stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Comune di Adria",
+                "hu": "Comune di Adria",
+                "ro": "Comune di Adria",
+                "en": "Comune di Adria"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz mit Blick auf den Platz; so können Sie das Rathaus auch bei starkem Regen kurz vom Auto aus sehen.",
+                "hu": "Keressen parkolót rálátással a térre; így erős esőben is megtekintheti a városházát rövid ideig az autóból.",
+                "ro": "Căutați un loc de parcare cu vedere spre piață; astfel puteți vedea primăria scurt timp din mașină chiar și pe ploaie torențială.",
+                "en": "Find a parking spot with a view of the square; this way you can see the town hall from your car even during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Adria",
+                "hu": "Duomo di Adria",
+                "ro": "Duomo di Adria",
+                "en": "Duomo di Adria"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in den umliegenden Straßen; der kurze Weg zum Eingang lohnt sich, um den prachtvollen, trockenen Innenraum zu erleben.",
+                "hu": "Parkoljon a környező utcákban; a bejáratig tartó rövid út megéri, hogy megtapasztalja a pompás, száraz belső teret.",
+                "ro": "Parcați pe străzile din jur; drumul scurt până la intrare merită pentru a experimenta interiorul splendid și uscat.",
+                "en": "Park in the surrounding streets; the short walk to the entrance is worth it to experience the grand, dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Chiarato",
+                "hu": "Monumento a Chiarato",
+                "ro": "Monumento a Chiarato",
+                "en": "Monumento a Chiarato"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie direkt zum Denkmal; bei Regen reicht eine kurze Betrachtung aus dem Autofenster oder ein schneller Ausstieg.",
+                "hu": "Hajtson közvetlenül az emlékműhöz; esőben elég egy rövid pillantás az autó ablakából vagy egy gyors kiszállás.",
+                "ro": "Conduceți direct la monument; pe ploaie, o scurtă privire de pe geamul mașinii sau o coborâre rapidă este suficientă.",
+                "en": "Drive directly to the monument; in the rain, a quick glance from the car window or a rapid exit is sufficient."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto den besten Schutz vor der Kälte zwischen den Sehenswürdigkeiten. Starten Sie morgens am Septem Mària Museum. Mittags genießen Sie die geheizte Fahrt zum Stadtzentrum. Beachten Sie, dass die Dämmerung gegen 17:00 Uhr einsetzt; planen Sie Ihre Besichtigungen im Freien für die helleren Stunden davor.",
+            "hu": "Télen az autó nyújtja a legjobb védelmet a hideg ellen a látnivalók között. Kezdje a reggelt a Septem Mària múzeumnál. Délben élvezze a fűtött utazást a városközpont felé. Vegye figyelembe, hogy 17:00 körül alkonyodik; a szabadtéri látnivalókat tervezze a világosabb órákra.",
+            "ro": "Iarna, mașina oferă cea mai bună protecție împotriva frigului între obiective. Începeți dimineața la muzeul Septem Mària. La prânz, bucurați-vă de drumul încălzit spre centru. Rețineți că amurgul începe în jur de ora 17:00; planificați vizitele în aer liber înainte.",
+            "en": "In winter, the car provides the best protection from the cold between sights. Start your morning at the Septem Mària Museum. At noon, enjoy the heated drive toward the city center. Note that dusk begins around 17:00; plan your outdoor viewings for the brighter hours before then."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Septem Mària Museum",
+                "hu": "Septem Mària Museum",
+                "ro": "Septem Mària Museum",
+                "en": "Septem Mària Museum"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier, wenn es draußen am kältesten ist; das Museum ist gut beheizt und bietet faszinierende Einblicke.",
+                "hu": "Kezdjen itt, amikor kint a leghidegebb van; a múzeum jól fűtött és lenyűgöző látnivalókat kínál.",
+                "ro": "Începeți aici când este cel mai frig afară; muzeul este bine încălzit și oferă perspective fascinante.",
+                "en": "Start here when it's coldest outside; the museum is well-heated and offers fascinating insights into local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Adria",
+                "hu": "Museo Archeologico Nazionale di Adria",
+                "ro": "Museo Archeologico Nazionale di Adria",
+                "en": "Museo Archeologico Nazionale di Adria"
+              },
+              "tip_5lang": {
+                "de": "Dank der kurzen Wege vom Parkplatz zum Museum minimieren Sie die Zeit in der Winterkälte; genießen Sie die etruskische Kunst.",
+                "hu": "A parkolótól a múzeumig tartó rövid útnak köszönhetően minimalizálhatja a hidegben töltött időt; élvezze az etruszk művészetet.",
+                "ro": "Datorită distanței scurte de la parcare la muzeu, minimizați timpul petrecut în frig; bucurați-vă de arta etruscă.",
+                "en": "Thanks to the short walk from the parking lot, you minimize time in the cold; enjoy the Etruscan art in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "chiesa di Nostro Signore Gesù Cristo Divino Lavoratore",
+                "hu": "chiesa di Nostro Signore Gesù Cristo Divino Lavoratore",
+                "ro": "chiesa di Nostro Signore Gesù Cristo Divino Lavoratore",
+                "en": "chiesa di Nostro Signore Gesù Cristo Divino Lavoratore"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Halt; die moderne Heizung macht den Besuch auch an frostigen Tagen sehr angenehm.",
+                "hu": "Rövid, meghitt megálló; a modern fűtés a fagyos napokon is nagyon kellemessé teszi a látogatást.",
+                "ro": "O scurtă oprire contemplativă; încălzirea modernă face vizita foarte plăcută chiar și în zilele geroase.",
+                "en": "A short, contemplative stop; modern heating makes the visit very pleasant even on frosty winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Comune di Adria",
+                "hu": "Comune di Adria",
+                "ro": "Comune di Adria",
+                "en": "Comune di Adria"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus erstrahlt im klaren Winterlicht; parken Sie kurz für ein Foto, bevor Sie die Heizung im Auto wieder genießen.",
+                "hu": "A városháza tündököl a tiszta téli fényben; parkoljon le egy fotóra, mielőtt újra élvezné az autó fűtését.",
+                "ro": "Primăria strălucește în lumina clară de iarnă; parcați scurt pentru o fotografie înainte de a reveni la căldura mașinii.",
+                "en": "The town hall shines in the crisp winter light; park briefly for a photo before enjoying the car's heater again."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di Adria",
+                "hu": "Duomo di Adria",
+                "ro": "Duomo di Adria",
+                "en": "Duomo di Adria"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den imposanten Dom vor der frühen Dämmerung; die winterliche Stille im Inneren ist besonders eindrucksvoll.",
+                "hu": "Látogasson el az impozáns dómba a korai szürkület előtt; a benti téli csend különösen hatásos.",
+                "ro": "Vizitați domul impunător înainte de amurgul timpuriu; liniștea de iarnă din interior este deosebit de impresionantă.",
+                "en": "Visit the imposing cathedral before the early dusk; the winter silence inside is particularly atmospheric."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Chiarato",
+                "hu": "Monumento a Chiarato",
+                "ro": "Monumento a Chiarato",
+                "en": "Monumento a Chiarato"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp am Denkmal; nutzen Sie das Tageslicht bis 17 Uhr optimal aus, bevor es merklich abkühlt.",
+                "hu": "Gyors megálló az emlékműnél; használja ki a nappali fényt 17 óráig, mielőtt érezhetően lehűl az idő.",
+                "ro": "O oprire rapidă la monument; profitați de lumina zilei până la ora 17, înainte de a se răci simțitor.",
+                "en": "A quick stop at the monument; make the most of the daylight until 17:00 before the temperature drops significantly."
+              }
+            }
+          ]
+        }
       }
     }
   }

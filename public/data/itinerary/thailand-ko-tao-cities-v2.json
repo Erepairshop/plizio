@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy megnyugtató jógaórával, mielőtt elindulna a déli parti sétára. Délben felfedezheti Ao Thian csendes homokját és Ao Hin Ngam egyedülálló kavicsos partjait. A délután egy frissítő úszásra csábít Ao Luek mély vizében. Végül fejezze be a napot a Cindy Tornyához vezető mászással, ahonnan csodálatos kilátás nyílik a dzsungelre és a tengerre.",
         "ro": "Începeți dimineața cu o sesiune de yoga liniștitoare înainte de a porni într-o plimbare pe coasta de sud. Până la prânz, veți descoperi nisipurile liniștite din Ao Thian și țărmurile unice cu pietriș din Ao Hin Ngam. După-amiaza vă invită la o baie revigorantă în apele adânci din Ao Luek. Încheiați-vă ziua urcând la Turnul lui Cindy pentru o priveliște impresionantă asupra junglei.",
         "en": "Start your morning with a calming yoga session before embarking on a southern coastal walk. By midday, you'll discover the quiet sands of Ao Thian and the unique pebble shores of Ao Hin Ngam. The afternoon invites a refreshing swim in the deep waters of Ao Luek. Finally, end your day climbing up to Cindy's Tower for a sweeping panoramic view of the vibrant jungle and the surrounding sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen-Yoga im Trockenen. Mittags Wanderung mit Regenponcho zu den Buchten; Pfade können schlammig sein. Nachmittags Schnorcheln im warmen Regen bei Ao Luek. Abends Rückzug unter ein festes Dach.",
+            "hu": "Reggeli jóga fedett helyen. Délben túra az öblököz esőköpenyben; az utak sarasak lehetnek. Délután sznorkelezés a meleg esőben Ao Lueknél. Este korai pihenő egy védett teraszon.",
+            "ro": "Yoga de dimineață la adăpost. La prânz, drumeție spre golfuri cu pelerină; potecile pot fi noroioase. După-amiaza, snorkeling în ploaia caldă la Ao Luek. Seara, retragere sub un acoperiș sigur.",
+            "en": "Morning yoga indoors. At noon, hike to the bays with a poncho; paths can be muddy. Afternoon snorkeling in the warm rain at Ao Luek. Evening retreat to a covered terrace early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ocean Sound Yoga",
+                "hu": "Ocean Sound Jóga",
+                "ro": "Ocean Sound Yoga",
+                "en": "Ocean Sound Yoga"
+              },
+              "tip_5lang": {
+                "de": "Die überdachte Shala bietet perfekten Schutz vor tropischen Güssen während der Praxis; nutzen Sie die beruhigenden Regengeräusche zur tiefen Entspannung.",
+                "hu": "A fedett jógaiskola tökéletes menedéket nyújt a trópusi záporok elől; használja az eső megnyugtató kopogását a mélyebb ellazuláshoz.",
+                "ro": "Shala acoperită oferă protecție perfectă împotriva averselor tropicale; folosiți sunetul calmant al ploii pentru o relaxare profundă în timpul practicii.",
+                "en": "The covered yoga shala provides perfect shelter from tropical downpours; use the soothing sound of rain to enhance your deep relaxation."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Thian",
+                "hu": "Ao Thian",
+                "ro": "Ao Thian",
+                "en": "Ao Thian"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt bei Regen mystisch; tragen Sie rutschfeste Sandalen für die nassen Küstenfelsen und verstauen Sie Elektronik in Dry-Bags.",
+                "hu": "Az öböl misztikus hangulatú esőben; viseljen csúszásmentes szandált a vizes sziklákon és használjon vízhatlan táskát az értékeihez.",
+                "ro": "Golful are o atmosferă mistică pe ploaie; purtați sandale antiderapante pentru stâncile ude și folosiți pungi impermeabile pentru electronice.",
+                "en": "The bay feels mystical in the rain; wear non-slip sandals for the wet coastal rocks and keep electronics in dry bags."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hin Ngam",
+                "hu": "Ao Hin Ngam",
+                "ro": "Ao Hin Ngam",
+                "en": "Ao Hin Ngam"
+              },
+              "tip_5lang": {
+                "de": "Die glatten Steine glänzen wunderschön im Regen; achten Sie auf den Tritt, da die Felsen extrem rutschig werden können.",
+                "hu": "A sima kövek gyönyörűen csillognak az esőben; vigyázzon minden lépésre, mert a sziklák rendkívül csúszóssá válnak.",
+                "ro": "Pietrele netede strălucesc frumos în ploaie; aveți grijă la fiecare pas, deoarece stâncile devin extrem de alunecoase.",
+                "en": "The smooth stones glisten beautifully in the rain; watch your step carefully as the rocks become extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Luek",
+                "hu": "Ao Luek",
+                "ro": "Ao Luek",
+                "en": "Ao Luek"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser bleibt auch bei Regen warm zum Schnorcheln; suchen Sie danach Schutz in einem der strandnahen überdachten Restaurants.",
+                "hu": "A víz esőben is meleg marad a sznorkelezéshez; utána keressen menedéket a tengerparti fedett éttermek egyikében.",
+                "ro": "Apa rămâne caldă pentru snorkeling chiar și pe ploaie; după aceea, adăpostiți-vă într-unul dintre restaurantele acoperite de pe plajă.",
+                "en": "The water remains warm for snorkeling even during rain; seek shelter afterward in one of the covered beachfront restaurants."
+              }
+            },
+            {
+              "name": {
+                "de": "Cindy's Tower",
+                "hu": "Cindy Tornya",
+                "ro": "Turnul lui Cindy",
+                "en": "Cindy's Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht kann wolkenverhangen sein, was dramatische Fotos ermöglicht; steigen Sie bei starkem Gewitter nicht auf exponierte Felsen.",
+                "hu": "A kilátás felhős lehet, ami drámai fotókat eredményez; erős vihar esetén ne másszon fel a szabadon lévő sziklákra.",
+                "ro": "Vederea poate fi cețoasă, oferind cadre dramatice; nu urcați pe stâncile expuse dacă se apropie o furtună cu descărcări electrice.",
+                "en": "The view might be cloudy, creating dramatic photo opportunities; avoid climbing exposed rocks if a thunderstorm is approaching."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Brise beim Morgen-Yoga. Mittags angenehme Wanderung zu den Ostbuchten unter klarer Sonne. Nachmittags Aufstieg zum Aussichtsturm vor dem frühen Sonnenuntergang gegen 17:00 Uhr. Abends kühlt es leicht ab.",
+            "hu": "Friss szellő a reggeli jógához. Délben kellemes túra a keleti öblökhöz a tiszta napsütésben. Délután irány a kilátó a korai, 17:00 órai naplemente előtt. Este enyhén lehűl a levegő.",
+            "ro": "Briză proaspătă la yoga de dimineață. La prânz, drumeție plăcută spre golfurile estice sub soarele clar. După-amiaza, urcare la turn înainte de apusul devreme de la ora 17:00. Seara se răcorește ușor.",
+            "en": "Fresh breeze for morning yoga. At noon, pleasant hike to the eastern bays under clear skies. Afternoon ascent to the tower before the early 5 PM sunset. Evenings bring a slight, refreshing chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ocean Sound Yoga",
+                "hu": "Ocean Sound Jóga",
+                "ro": "Ocean Sound Yoga",
+                "en": "Ocean Sound Yoga"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Morgentemperaturen im Winter sind ideal für eine intensivere Praxis; bringen Sie ein leichtes Tuch für die Endentspannung mit.",
+                "hu": "A hűvösebb téli reggeli hőmérséklet ideális az intenzív gyakorláshoz; hozzon egy könnyű kendőt a végső relaxációhoz.",
+                "ro": "Temperaturile matinale mai scăzute de iarnă sunt ideale pentru o practică intensă; aduceți un șal ușor pentru relaxarea finală.",
+                "en": "The cooler winter morning temperatures are ideal for an intense practice; bring a light shawl for the final relaxation."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Thian",
+                "hu": "Ao Thian",
+                "ro": "Ao Thian",
+                "en": "Ao Thian"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das kristallklare Wasser bei niedriger Luftfeuchtigkeit; die Sonne ist dennoch stark, nutzen Sie riff-freundlichen Sonnenschutz.",
+                "hu": "Élvezze a kristálytiszta vizet az alacsony páratartalom mellett; a nap még így is erős, használjon korallbarát fényvédőt.",
+                "ro": "Bucurați-vă de apa cristalină și umiditatea scăzută; soarele este totuși puternic, folosiți protecție solară prietenoasă cu reciful.",
+                "en": "Enjoy the crystal-clear water and low humidity; the sun is still strong, so apply reef-friendly sunscreen."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hin Ngam",
+                "hu": "Ao Hin Ngam",
+                "ro": "Ao Hin Ngam",
+                "en": "Ao Hin Ngam"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die Felsformationen perfekt zur Geltung; idealer Zeitpunkt für Fotos, bevor der Schatten am frühen Nachmittag einfällt.",
+                "hu": "A téli napsütés tökéletesen kiemeli a sziklaalakzatokat; ideális időpont a fotózáshoz, mielőtt kora délután megnyúlnának az árnyékok.",
+                "ro": "Soarele de iarnă evidențiază perfect formațiunile stâncoase; moment ideal pentru fotografii înainte ca umbrele să se lungească după-amiaza.",
+                "en": "The winter sun highlights the rock formations perfectly; it is an ideal time for photos before shadows lengthen in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Luek",
+                "hu": "Ao Luek",
+                "ro": "Ao Luek",
+                "en": "Ao Luek"
+              },
+              "tip_5lang": {
+                "de": "Die Sichtweite unter Wasser ist im Winter am besten; planen Sie das Schnorcheln vor 15:30 Uhr, wenn das Licht am stärksten ist.",
+                "hu": "A víz alatti látótávolság télen a legjobb; tervezze a sznorkelezést 15:30 előttre, amikor a legerősebbek a fények.",
+                "ro": "Vizibilitatea sub apă este optimă iarna; planificați sesiunea de snorkeling înainte de ora 15:30, când lumina este cea mai puternică.",
+                "en": "Underwater visibility is at its best in winter; schedule your snorkeling before 3:30 PM when the light is strongest."
+              }
+            },
+            {
+              "name": {
+                "de": "Cindy's Tower",
+                "hu": "Cindy Tornya",
+                "ro": "Turnul lui Cindy",
+                "en": "Cindy's Tower"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Gipfel spätestens um 16:45 Uhr, um das goldene Licht vor dem frühen Sonnenuntergang zu erleben; Taschenlampe für den Abstieg einpacken.",
+                "hu": "Érjen fel a csúcsra legkésőbb 16:45-re az aranyórához a korai naplemente előtt; vigyen zseblámpát a sötétedő lefelé úthoz.",
+                "ro": "Ajungeți în vârf până la 16:45 pentru a prinde lumina aurie înainte de apusul devreme; luați o lanternă pentru coborârea pe întuneric.",
+                "en": "Reach the summit by 4:45 PM for the golden hour before the early sunset; bring a flashlight for the darkening descent."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpáros kaland a lélegzetelállító Love Koh Tao kilátónál kezdődik, majd a dzsungel ösvényein halad a Tanote-csúcsig. Délben az Ao Tanot várja egy kis sznorkelezéssel a színes zátonyok között. Délután tekerjen el Laem Thian lenyűgöző sziklaalakzataihoz. Az utazás az elszigetelt Mao-öbölben ér véget, amely tökéletes nyugalmat kínál a szürkület beállta előtt.",
         "ro": "Aventura dvs. pe bicicletă începe la punctul de belvedere uluitor Love Koh Tao, urmat de trasee prin junglă către Vârful Tanote. La prânz veți ajunge la Ao Tanot pentru snorkeling de clasă mondială. După-amiaza, pedalați spre formațiunile stâncoase impresionante din Laem Thian. Călătoria se încheie în izolatul Golf Mao, oferind o liniște perfectă înainte de lăsarea serii.",
         "en": "Your cycling adventure kicks off at the breathtaking Love Koh Tao viewpoint, followed by jungle trails to Tanote Peak. Midday brings you down to Ao Tanot for world-class snorkeling among vibrant reefs. In the afternoon, pedal your way to the striking rock formations of the abandoned Laem Thian. The journey concludes at the secluded Mao Bay, offering perfect tranquility before dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsichtige Fahrt zu den Aussichtspunkten; Straßen sind extrem rutschig. Mittags Stopp an überdachten Viewpoints. Nachmittags Abfahrt zur Tanote Bay, da Küstenstraßen sicherer sind als Bergpfade. Abends früh zurück.",
+            "hu": "Óvatos gurulás a kilátókhoz; az utak rendkívül csúszósak. Délben pihenő a fedett kilátópontokon. Délután irány a Tanote-öböl, a parti utak biztonságosabbak az erdei ösvényeknél. Este korai visszatérés.",
+            "ro": "Ciclism prudent spre punctele de belvedere; drumurile sunt extrem de alunecoase. La prânz, oprire la puncte acoperite. După-amiaza, coborâre spre Tanote Bay, drumurile de coastă fiind mai sigure. Seara, retragere timpurie.",
+            "en": "Cautious riding to viewpoints; roads are extremely slippery. Noon break at covered viewpoint spots. Afternoon descent to Tanote Bay as coastal roads are safer than jungle trails. Return early in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Love Koh Tao viewpoint",
+                "hu": "Love Koh Tao kilátó",
+                "ro": "Punctul de belvedere Love Koh Tao",
+                "en": "Love Koh Tao viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Das Café bietet Schutz vor dem Regen; genießen Sie den Ausblick auf die stürmische See bei einem warmen Tee.",
+                "hu": "A kilátó kávézója védelmet nyújt az eső elől; élvezze a viharos tenger látványát egy forró tea mellett.",
+                "ro": "Cafeneaua oferă adăpost împotriva ploii; bucurați-vă de vederea mării învolburate cu un ceai cald.",
+                "en": "The viewpoint cafe offers shelter from the rain; enjoy the view of the stormy sea with a hot tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Tanote Peak",
+                "hu": "Tanote-csúcs",
+                "ro": "Vârful Tanote",
+                "en": "Tanote Peak"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Gipfel ist steil und bei Regen sehr gefährlich; fahren Sie extrem langsam und prüfen Sie Ihre Bremsen vorab.",
+                "hu": "A csúcsra vezető út meredek és esőben nagyon veszélyes; haladjon rendkívül lassan, és ellenőrizze a fékeket indulás előtt.",
+                "ro": "Drumul spre vârf este abrupt și foarte periculos pe ploaie; conduceți extrem de încet și verificați frânele înainte de plecare.",
+                "en": "The road to the peak is steep and very dangerous in the rain; ride extremely slowly and check your brakes beforehand."
+              }
+            },
+            {
+              "name": {
+                "de": "Point of view",
+                "hu": "Point of view (Kilátópont)",
+                "ro": "Point of view",
+                "en": "Point of view"
+              },
+              "tip_5lang": {
+                "de": "Nebel kann die Sicht einschränken, bietet aber eine mystische Atmosphäre; tragen Sie eine helle Regenjacke für bessere Sichtbarkeit im Verkehr.",
+                "hu": "A köd korlátozhatja a kilátást, de misztikus hangulatot áraszt; viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+                "ro": "Ceața poate limita vizibilitatea, dar oferă o atmosferă mistică; purtați o pelerină reflectorizantă pentru a fi vizibili în trafic.",
+                "en": "Mist may limit the view but offers a mystical atmosphere; wear a bright raincoat for better visibility to other drivers."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Tanot",
+                "hu": "Ao Tanot",
+                "ro": "Ao Tanot",
+                "en": "Ao Tanot"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad auf festem Untergrund, da Sand und Schlamm im Regen nachgeben können; die Bucht bietet viele überdachte Plätze.",
+                "hu": "A motort szilárd talajon parkolja le, mert a homok és sár felázhat; az öbölben sok fedett beülő található.",
+                "ro": "Parcați bicicleta pe teren solid, deoarece nisipul și noroiul se pot înmuia; golful oferă multe locuri acoperite pentru relaxare.",
+                "en": "Park your bike on solid ground as sand and mud can soften in the rain; the bay has many covered spots to wait out showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Laem Thian",
+                "hu": "Laem Thian",
+                "ro": "Laem Thian",
+                "en": "Laem Thian"
+              },
+              "tip_5lang": {
+                "de": "Der Wanderweg hierher wird extrem matschig; lassen Sie das Rad oben und gehen Sie nur mit gutem Profil weiter.",
+                "hu": "Az ide vezető ösvény rendkívül sarassá válik; hagyja fent a motort, és csak jó tapadású cipőben induljon tovább.",
+                "ro": "Poteca spre acest loc devine extrem de noroioasă; lăsați bicicleta sus și continuați doar dacă aveți încălțăminte cu aderență bună.",
+                "en": "The trail here gets extremely muddy; leave your bike at the main road and proceed only with good treaded shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Mao Bay - Ao Mamuang",
+                "hu": "Mao-öböl (Ao Mamuang)",
+                "ro": "Golful Mao - Ao Mamuang",
+                "en": "Mao Bay - Ao Mamuang"
+              },
+              "tip_5lang": {
+                "de": "Starke Regenfälle können Sturzbäche auf den Wegen verursachen; kehren Sie um, wenn das Wasser über den Pfad fließt.",
+                "hu": "A heves esőzés vízátfolyásokat okozhat az utakon; forduljon vissza, ha a víz mélyen átömlik az ösvényen.",
+                "ro": "Ploile torențiale pot crea torenți pe poteci; întoarceți-vă dacă apa curge cu putere peste drum.",
+                "en": "Heavy rains can cause flash runoff on trails; turn back if water is flowing deeply across the path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Perfektes Bikewetter bei moderaten Temperaturen. Mittags Tour über die Gipfel zum Tanote Peak. Nachmittags Strandzeit und Schnorcheln in den Ostbuchten. Da es um 17:00 Uhr dämmert, achten Sie auf funktionierende Scheinwerfer für die Heimfahrt.",
+            "hu": "Tökéletes motoros idő mérsékelt hőmérséklettel. Délben túra a csúcsokon át a Tanote-csúcsig. Délután strandolás a keleti öblökben. Mivel 17:00-kor szürkül, ellenőrizze a fényszórókat a hazatéréshez.",
+            "ro": "Vreme perfectă pentru motocicletă la temperaturi moderate. La prânz, tur peste vârfuri până la Tanote Peak. După-amiaza, plajă în golfurile estice. Fiindcă se întunecă la ora 17:00, verificați farurile pentru drumul de întoarcere.",
+            "en": "Ideal riding weather with moderate heat. Noon tour over the ridges to Tanote Peak. Afternoon beach time in eastern bays. As it gets dark by 5 PM, ensure your headlights work for the ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Love Koh Tao viewpoint",
+                "hu": "Love Koh Tao kilátó",
+                "ro": "Punctul de belvedere Love Koh Tao",
+                "en": "Love Koh Tao viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet Fernsichten bis nach Koh Phangan; kommen Sie früh am Morgen für das beste Licht auf dem Meer.",
+                "hu": "A tiszta téli levegőben ellátni akár Koh Phanganig is; jöjjön kora reggel a legszebb tengeri fényekért.",
+                "ro": "Aerul clar de iarnă oferă vizibilitate până la Koh Phangan; veniți dimineața devreme pentru cea mai frumoasă lumină asupra mării.",
+                "en": "Clear winter air offers views as far as Koh Phangan; arrive early in the morning for the best light over the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Tanote Peak",
+                "hu": "Tanote-csúcs",
+                "ro": "Vârful Tanote",
+                "en": "Tanote Peak"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt ist schweißtreibend, aber der kühle Wind oben belohnt Sie; idealer Ort für eine Trinkpause im Schatten der Bäume.",
+                "hu": "A felfelé út izzasztó, de a fenti hűvös szél kárpótolja; ideális hely egy frissítő szünethez a fák árnyékában.",
+                "ro": "Urcarea este solicitantă, dar vântul răcoros de sus vă va răsplăti; loc ideal pentru o pauză de hidratare la umbra copacilor.",
+                "en": "The climb is strenuous, but the cool breeze at the top rewards you; an ideal spot for a water break in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Point of view",
+                "hu": "Point of view (Kilátópont)",
+                "ro": "Point of view",
+                "en": "Point of view"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den niedrigen Sonnenstand für kontrastreiche Panoramaaufnahmen; achten Sie auf den trockenen, staubigen Untergrund beim Parken.",
+                "hu": "Használja ki az alacsony napállást a kontrasztos panorámákhoz; ügyeljen a száraz, poros talajra a motor leállításakor.",
+                "ro": "Profitate de soarele jos pentru panorame contrastante; atenție la solul uscat și prăfos când parcați motocicleta.",
+                "en": "Take advantage of the low sun for high-contrast panoramas; watch out for dry, dusty ground when parking your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Tanot",
+                "hu": "Ao Tanot",
+                "ro": "Ao Tanot",
+                "en": "Ao Tanot"
+              },
+              "tip_5lang": {
+                "de": "Die Brandung ist im Winter meist ruhig, ideal zum Anlegen mit dem Kajak; schnorcheln Sie am großen Felsen im Zentrum der Bucht.",
+                "hu": "A hullámzás télen általában nyugodt, ideális kajakozáshoz; sznorkelezzen az öböl közepén található hatalmas sziklánál.",
+                "ro": "Valurile sunt de obicei calme iarna, ideal pentru caiac; faceți snorkeling la stânca mare din centrul golfului.",
+                "en": "The surf is usually calm in winter, ideal for kayaking; snorkel around the large rock in the center of the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Laem Thian",
+                "hu": "Laem Thian",
+                "ro": "Laem Thian",
+                "en": "Laem Thian"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Zeit für Klippenspringen, da der Wasserstand im Winter oft hoch ist; kalkulieren Sie 45 Minuten für den Rückweg vor Sonnenuntergang ein.",
+                "hu": "Tökéletes időpont a sziklaugráshoz, mivel a vízszint télen gyakran magas; számoljon 45 percet a visszatérésre naplemente előtt.",
+                "ro": "Moment perfect pentru sărituri de pe stânci, nivelul apei fiind adesea ridicat iarna; alocați 45 de minute pentru întoarcere înainte de apus.",
+                "en": "Perfect time for cliff jumping as water levels are often high in winter; allow 45 minutes for the return trek before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Mao Bay - Ao Mamuang",
+                "hu": "Mao-öböl (Ao Mamuang)",
+                "ro": "Golful Mao - Ao Mamuang",
+                "en": "Mao Bay - Ao Mamuang"
+              },
+              "tip_5lang": {
+                "de": "Die abgeschiedene Lage ist ideal für die ruhige Winterstimmung; verlassen Sie die Bucht spätestens um 16:30 Uhr, um nicht im Dunkeln zu fahren.",
+                "hu": "Az elszigetelt fekvés ideális a nyugodt téli hangulathoz; hagyja el az öblöt legkésőbb 16:30-kor, hogy ne sötétben kelljen motoroznia.",
+                "ro": "Locația izolată este ideală pentru atmosfera liniștită de iarnă; plecați din golf cel târziu la 16:30 pentru a nu conduce pe întuneric.",
+                "en": "The isolated location is ideal for a quiet winter mood; leave the bay by 4:30 PM at the latest to avoid riding in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje a túrát egy kis reggeli jógával, majd guruljon el a látványos Ao Luek öbölhöz. Délben panorámás kilátás nyílik a Love Koh Tao kilátóból, majd egy merülés következik az Ao Tanot víz alatti csodáiba. A délutáni út magasra visz, a Point of view és a Top of the rock felé. Fejezze be szigeti expedícióját a békés és távoli Ao Mao-ban.",
         "ro": "Începeți turul cu puțină yoga dimineața, apoi conduceți către golful spectaculos Ao Luek. La prânz aveți parte de vederi panoramice de la punctul de belvedere Love Koh Tao și o scufundare în minunile subacvatice din Ao Tanot. Conducerea de după-amiază vă duce sus la Point of view și Top of the rock. Încheiați-vă expediția pe insulă în pașnicul Ao Mao.",
         "en": "Kickstart the tour with some morning yoga, then cruise smoothly to the spectacular bay of Ao Luek. Midday features panoramic vistas from the Love Koh Tao viewpoint and a deep dive into the underwater wonders of Ao Tanot. The afternoon drive takes you high up to the Point of view and Top of the rock. Conclude your island expedition at the serene and remote Ao Mao."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Komfortable Fahrt trotz Regen. Vormittags Yoga, danach Fahrt zur Ao Luek im trockenen Auto. Mittags Lunch mit Meerblick unter festem Dach. Nachmittags Aussichtspunkte; Schlamm auf Straßen ist im Allradwagen kein Problem. Abends entspanntes Dinner.",
+            "hu": "Kényelmes utazás az eső ellenére. Délelőtt jóga, majd autózás az Ao Luek-öbölhöz szárazon. Délben ebéd tengeri kilátással egy fedett étteremben. Délután kilátók; a sár nem akadály az autóval. Este pihentető vacsora.",
+            "ro": "Călătorie confortabilă în ciuda ploii. Dimineața yoga, apoi drum spre Ao Luek la adăpost în mașină. La prânz, prânz cu vedere la mare sub un acoperiș solid. După-amiaza, puncte de belvedere. Seara, cină relaxată.",
+            "en": "Comfortable travel despite the rain. Morning yoga, then drive to Ao Luek staying dry. Noon lunch with a sea view under a solid roof. Afternoon viewpoints; mud is no issue for the car. Relaxing dinner in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ocean Sound Yoga",
+                "hu": "Ocean Sound Jóga",
+                "ro": "Ocean Sound Yoga",
+                "en": "Ocean Sound Yoga"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Schuhe am Eingang der Shala; die Fahrt im Auto schützt Ihre Yogamatte vor dem Durchweichen im tropischen Regen.",
+                "hu": "A vizes cipőket hagyja a jógaiskola bejáratánál; az autó megvédi a jógamatracot az átázástól a trópusi esőben.",
+                "ro": "Lăsați încălțămintea udă la intrarea în shala; mașina vă protejează salteaua de yoga împotriva umezelii în timpul ploii tropicale.",
+                "en": "Leave wet shoes at the entrance of the shala; using a car protects your yoga mat from getting soaked in the tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Luek",
+                "hu": "Ao Luek",
+                "ro": "Ao Luek",
+                "en": "Ao Luek"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Strandzugang, um den Weg im Regen kurzzuhalten; das vorgelagerte Riff schützt die Bucht vor zu hohen Wellen.",
+                "hu": "Parkoljon közvetlenül a strandbejáratnál, hogy minimalizálja az esőben töltött időt; a külső zátony védi az öblöt a nagy hullámoktól.",
+                "ro": "Parcați direct la intrarea pe plajă pentru a scurta drumul prin ploaie; reciful exterior protejează golful de valurile prea mari.",
+                "en": "Park right by the beach entrance to minimize time spent in the rain; the outer reef protects the bay from large swells."
+              }
+            },
+            {
+              "name": {
+                "de": "Love Koh Tao viewpoint",
+                "hu": "Love Koh Tao kilátó",
+                "ro": "Punctul de belvedere Love Koh Tao",
+                "en": "Love Koh Tao viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Sitzbereich für Fotos; der Regen wäscht den Staub aus der Luft und macht die Farben der Vegetation intensiver.",
+                "hu": "Használja a fedett ülőhelyeket a fotózáshoz; az eső lemossa a port a levegőből, így a növényzet színei sokkal élénkebbek lesznek.",
+                "ro": "Folosiți zona de relaxare acoperită pentru fotografii; ploaia spală praful din aer, făcând culorile vegetației mult mai intense.",
+                "en": "Utilize the covered seating area for photos; rain washes dust from the air, making the colors of the vegetation much more intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Tanot",
+                "hu": "Ao Tanot",
+                "ro": "Ao Tanot",
+                "en": "Ao Tanot"
+              },
+              "tip_5lang": {
+                "de": "Die steile Zufahrt ist für Autos bei Regen sicherer als für Zweiräder; achten Sie dennoch auf herabfallende Äste auf der Fahrbahn.",
+                "hu": "A meredek levezető út autóval biztonságosabb esőben, mint motorral; azért figyeljen az útra hullott faágakra.",
+                "ro": "Drumul abrupt de acces este mai sigur pentru mașini decât pentru motociclete pe ploaie; totuși, atenție la crengile căzute pe carosabil.",
+                "en": "The steep access road is safer for cars than bikes in the rain; however, watch out for fallen branches on the road surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Point of view",
+                "hu": "Point of view",
+                "ro": "Point of view",
+                "en": "Point of view"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Aussichtspunkt genügt für den Blick; bei starkem Wind bleiben Sie besser im schützenden Fahrzeug.",
+                "hu": "Egy rövid futás az autótól a kilátópontig elég a látványhoz; erős szélben jobb a védelmet nyújtó járműben maradni.",
+                "ro": "Un sprint scurt de la mașină la punctul de belvedere este suficient; în caz de vânt puternic, e mai bine să rămâneți în mașină.",
+                "en": "A short sprint from the car to the viewpoint is enough for the view; in case of strong winds, stay inside the protective vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Top of the rock",
+                "hu": "A szikla teteje",
+                "ro": "Vârful stâncii",
+                "en": "Top of the rock"
+              },
+              "tip_5lang": {
+                "de": "Der Fels ist bei Nässe tückisch; genießen Sie das Panorama lieber von der Basis aus, wenn der Aufstieg zu rutschig erscheint.",
+                "hu": "A szikla vizesen csalóka; élvezze a panorámát inkább a szikla aljáról, ha a felmászás túl csúszósnak tűnik.",
+                "ro": "Stânca este înșelătoare când e udă; bucurați-vă de panoramă de la bază dacă urcarea vi se pare prea alunecoasă.",
+                "en": "The rock is treacherous when wet; enjoy the panorama from the base instead if the climb seems too slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Mao",
+                "hu": "Ao Mao",
+                "ro": "Ao Mao",
+                "en": "Ao Mao"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, bis der schlimmste Schauer vorbei ist; die Bucht bietet ein dramatisches Schauspiel bei aufziehenden Regenfronten.",
+                "hu": "Maradjon az autóban, amíg elvonul a legnagyobb zápor; az öböl drámai látványt nyújt a közeledő esőfrontokkal.",
+                "ro": "Rămâneți în mașină până trece aversa cea mai puternică; golful oferă un spectacol dramatic când se apropie fronturile de ploaie.",
+                "en": "Stay in the car until the heaviest shower passes; the bay offers a dramatic spectacle with approaching rain fronts."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beste Reisezeit für Inselerkundungen mit dem Wagen. Morgens Yoga bei kühler Luft. Mittags entspannte Fahrt zu den Panorama-Gipfeln. Nachmittags Schnorchelstopps an verschiedenen Buchten. Da es um 17:00 Uhr dunkel wird, nutzen Sie den klimatisierten Komfort für die Rückfahrt.",
+            "hu": "A legjobb időszak a sziget felfedezésére autóval. Reggel jóga a hűvös levegőn. Délben kényelmes autózás a panorámás csúcsokra. Délután sznorkelezés több öbölben. Mivel 17:00-kor sötétedik, élvezze a légkondicionált kényelmet a hazatéréskor.",
+            "ro": "Cea mai bună perioadă pentru explorarea insulei cu mașina. Dimineața yoga în aer răcoros. La prânz, drum relaxat spre vârfurile panoramice. După-amiaza, snorkeling în diverse golfuri. Fiindcă se întunecă la 17:00, profitați de confortul mașinii.",
+            "en": "The best time for exploring the island by car. Morning yoga in the cool air. Noon relaxed drive to the panoramic peaks. Afternoon snorkeling stops at various bays. As it gets dark by 5 PM, enjoy the air-conditioned comfort on the way back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ocean Sound Yoga",
+                "hu": "Ocean Sound Jóga",
+                "ro": "Ocean Sound Yoga",
+                "en": "Ocean Sound Yoga"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Startzeit für die kühlsten Stunden des Tages; verstauen Sie Ihre Ausrüstung sicher im Kofferraum für den restlichen Tag.",
+                "hu": "Tökéletes kezdés a nap leghűvösebb óráiban; tárolja felszerelését biztonságosan a csomagtartóban a nap hátralévő részére.",
+                "ro": "Început perfect în cele mai răcoroase ore ale zilei; depozitați echipamentul în siguranță în portbagaj pentru restul zilei.",
+                "en": "A perfect start during the coolest hours of the day; store your gear safely in the trunk for the rest of your trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Luek",
+                "hu": "Ao Luek",
+                "ro": "Ao Luek",
+                "en": "Ao Luek"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter extrem klar; nutzen Sie die Vormittagssonne für die besten Lichtverhältnisse beim Schnorcheln am Riff.",
+                "hu": "A víz télen rendkívül tiszta; használja ki a délelőtti napsütést a legjobb fényviszonyokhoz a zátonynál való sznorkelezéshez.",
+                "ro": "Apa este extrem de clară iarna; profitați de soarele dimineții pentru cele mai bune condiții de lumină la snorkeling.",
+                "en": "The water is extremely clear in winter; use the morning sun for the best light conditions while snorkeling at the reef."
+              }
+            },
+            {
+              "name": {
+                "de": "Love Koh Tao viewpoint",
+                "hu": "Love Koh Tao kilátó",
+                "ro": "Punctul de belvedere Love Koh Tao",
+                "en": "Love Koh Tao viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter oft voll; kommen Sie vor 11:00 Uhr, um Stress zu vermeiden und die weite Sicht in Ruhe zu genießen.",
+                "hu": "A parkoló télen gyakran megtelik; érkezzen 11:00 előtt, hogy elkerülje a tömeget és nyugodtan élvezze a távoli kilátást.",
+                "ro": "Parcarea este adesea plină iarna; veniți înainte de ora 11:00 pentru a evita aglomerația și a vă bucura de priveliștea largă în liniște.",
+                "en": "The parking lot is often full in winter; arrive before 11 AM to avoid stress and enjoy the long-distance views in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Tanot",
+                "hu": "Ao Tanot",
+                "ro": "Ao Tanot",
+                "en": "Ao Tanot"
+              },
+              "tip_5lang": {
+                "de": "Ideale Bucht zum Entspannen im Winter, da der Wind hier meist ablandig weht und das Wasser spiegelglatt macht.",
+                "hu": "Ideális öböl a téli pihenéshez, mivel a szél itt általában a part felől fúj, így a víz tükörsima marad.",
+                "ro": "Golf ideal pentru relaxare iarna, deoarece vântul suflă de obicei dinspre uscat, lăsând apa netedă ca oglinda.",
+                "en": "An ideal bay for relaxing in winter as the wind usually blows offshore here, keeping the water mirror-smooth."
+              }
+            },
+            {
+              "name": {
+                "de": "Point of view",
+                "hu": "Point of view",
+                "ro": "Point of view",
+                "en": "Point of view"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Chance auf wolkenlose Panoramafotos am größten; halten Sie Ihre Kamera für den weiten Horizont bereit.",
+                "hu": "Télen a legnagyobb az esély a felhőtlen panorámaképekre; tartsa készenlétben a fényképezőgépét a tiszta horizonthoz.",
+                "ro": "Iarna aveți cele mai mari șanse pentru fotografii panoramice fără nori; pregătiți camera pentru orizontul vast și senin.",
+                "en": "Winter offers the best chance for cloudless panorama photos; keep your camera ready for the vast, clear horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Top of the rock",
+                "hu": "A szikla teteje",
+                "ro": "Vârful stâncii",
+                "en": "Top of the rock"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen heizen sich in der Wintersonne weniger stark auf; dennoch ist festes Schuhwerk für den kurzen Aufstieg ratsam.",
+                "hu": "A sziklák kevésbé forrósodnak fel a téli napsütésben; ettől függetlenül zárt cipő ajánlott a rövid felfelé úthoz.",
+                "ro": "Stâncile se încing mai puțin sub soarele de iarnă; totuși, încălțămintea închisă este recomandată pentru urcarea scurtă.",
+                "en": "The rocks absorb less heat in the winter sun; nonetheless, sturdy shoes are recommended for the short ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Mao",
+                "hu": "Ao Mao",
+                "ro": "Ao Mao",
+                "en": "Ao Mao"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch vor 16:30 Uhr; die Fahrt durch den Dschungel ist im Winter bei Tageslicht wesentlich entspannter.",
+                "hu": "Fejezze be a látogatást 16:30 előtt; a dzsungelen átvezető autóút télen, nappali fénynél sokkal pihentetőbb.",
+                "ro": "Încheiați vizita înainte de 16:30; drumul prin junglă cu mașina este mult mai relaxant iarna, pe lumina zilei.",
+                "en": "Finish your visit before 4:30 PM; driving through the jungle is much more relaxed in winter while it is still daylight."
+              }
+            }
+          ]
+        }
       }
     }
   }

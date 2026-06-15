@@ -183,6 +183,224 @@
         "hu": "A Doué-en-Anjou-i napja a városközpontban, az elegáns Église Saint-Pierre templomnál kezdődik, mielőtt elindulna felfedezni a régió egyedülálló, kőbe vájt geológiai kincseit.\n\nA késő délelőtt folyamán elmerülhet a barlanglakók lenyűgöző világában. A különleges Arènes-től a hiteles troglodita házakig minden a tufakő gazdag örökségéről mesél.\n\nA délutánt a lenyűgöző földalatti világoknak szenteljük. Bejárja a Les Perrières gigantikus mészkőboltozatait, majd a Mystère des Faluns varázslatos fényjátékában tehet időutazást.\n\nA nap végén ősi szarkofágműhelyeket fedezhet fel, ahol a letűnt korok néma tanúi tökéletesen zárják ezt a felejthetetlen, földalatti kirándulást.",
         "ro": "Ziua dumneavoastră în Doué-en-Anjou începe în centrul orașului la eleganta Église Saint-Pierre, înainte de a porni să descoperiți geologia unică, sculptată în piatră a regiunii.\n\nSpre sfârșitul dimineții, vă scufundați în lumea fascinantă a locuitorilor peșterilor. De la neobișnuitele Arènes la casele troglodite autentice, moștenirea tufului calcaros se dezvăluie.\n\nDupă-amiaza este dedicată lumilor subterane impresionante. Veți traversa bolțile gigantice de la Les Perrières și veți trăi o călătorie magică în timp prin Mystère des Faluns.\n\nLa finalul zilei, explorați ateliere antice de sarcofage, unde martorii tăcuți ai epocilor trecute completează perfect această excursie subterană de neuitat.",
         "en": "Your day in Doué-en-Anjou begins in the city center at the elegant Église Saint-Pierre, before setting off to discover the unique, stone-carved geological treasures of the region.\n\nBy late morning, you will dive deeply into the fascinating world of cave dwellers. From the highly unusual Arènes to authentic troglodyte houses, the heritage of tuffeau stone is fully revealed.\n\nThe afternoon is entirely dedicated to the impressive underground worlds. You will traverse the gigantic vaults of Les Perrières and experience a magical journey through time at Mystère des Faluns.\n\nAs the day concludes, explore ancient sarcophagus workshops, where the silent witnesses of past eras perfectly round off this unforgettable trip into the subterranean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen in der Kirche Saint-Pierre und nutzen Sie den Regenschirm bei den Arènes. Mittags finden Sie in den unterirdischen Höhlen von Les Perrières und Mystère des Faluns perfekten Schutz. Nachmittags erkunden Sie trockenen Fußes die Troglodyten und Saint-Maurice. Beenden Sie den Spaziergang vor den abendlichen Schauern.",
+            "hu": "Kezdje az esős reggelt a Szent Péter-templomban, majd nyisson esernyőt az Arénákhoz. Délben keressen menedéket a föld alatt a Les Perrières és a Mystère des Faluns barlangjaiban. A délutánt a száraz troglodita járatokban és a Szent Móric-templomban töltheti. Kora este, a záporok erősödése előtt fejezze be sétáját.",
+            "ro": "Începeți dimineața ploioasă la Biserica Saint-Pierre, apoi luați umbrela spre Les Arènes. La prânz, refugiați-vă în subteran la Les Perrières și Mystère des Faluns, unde ploaia nu vă poate atinge. După-amiaza explorați peșterile troglodite uscate și biserica Saint-Maurice. Încheiați plimbarea înainte ca averselor de seară să se întețească.",
+            "en": "Start your rainy morning at the Saint-Pierre Church before grabbing your umbrella for Les Arènes. By noon, take refuge underground at Les Perrières and the Mystère des Faluns where the rain can't reach you. Spend the afternoon exploring the fascinating dry troglodyte caves and Saint-Maurice. End your walk safely before the evening showers intensify."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die markante Architektur dieser historischen Kirche und bleiben Sie im riesigen Kirchenschiff völlig trocken; ein idealer, geschützter Start.",
+                "hu": "Csodálja meg a történelmi templom lenyűgöző építészetét, és maradjon teljesen szárazon a hatalmas főhajóban; ideális, esőtől védett kezdés a naphoz.",
+                "ro": "Admirați arhitectura remarcabilă a acestei biserici istorice și rămâneți perfect uscați în interiorul navei sale vaste; un început ideal și protejat de ploaie.",
+                "en": "Admire the striking architecture of this historic church and stay perfectly dry inside its vast nave; an ideal, sheltered start to your rainy day exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Arènes",
+                "hu": "Les Arènes",
+                "ro": "Les Arènes",
+                "en": "Les Arènes"
+              },
+              "tip_5lang": {
+                "de": "Dieses antike Freiluft-Amphitheater wird bei Regen recht nass und rutschig; tragen Sie Schuhe mit exzellentem Halt und nutzen Sie einen robusten Regenschirm.",
+                "hu": "Ez az ősi szabadtéri amfiteátrum esőben meglehetősen vizes és csúszós lesz; mindenképpen viseljen kiváló tapadású cipőt, és használjon strapabíró esernyőt.",
+                "ro": "Acest amfiteatru antic în aer liber devine destul de ud și alunecos pe ploaie; asigurați-vă că purtați încălțăminte cu aderență excelentă și folosiți o umbrelă.",
+                "en": "This ancient outdoor amphitheater gets quite wet and slippery in the rain; be sure to wear shoes with excellent grip and use a sturdy umbrella as you walk around."
+              }
+            },
+            {
+              "name": {
+                "de": "Troglodytenhäuser",
+                "hu": "Troglodita házak",
+                "ro": "Case Troglodite",
+                "en": "Troglodyte Houses"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie diese faszinierenden Höhlenwohnungen, die teilweisen Schutz vor dem Regen bieten und zeigen, wie die Einheimischen hier einst komfortabel lebten.",
+                "hu": "Fedezze fel ezeket a lenyűgöző barlanglakásokat, amelyek részleges menedéket nyújtanak az eső elől, és megmutatják, hogyan éltek itt kényelmesen a helyiek.",
+                "ro": "Explorați aceste case-peșteră fascinante care oferă un adăpost parțial de ploaie, arătând modul în care localnicii trăiau confortabil în aceste structuri.",
+                "en": "Explore these fascinating cave homes which offer partial shelter from the falling rain, showing how locals lived surprisingly comfortably in these rock walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Perrières",
+                "hu": "Les Perrières",
+                "ro": "Les Perrières",
+                "en": "Les Perrières"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie tief in diese kathedralenartigen unterirdischen Räume ein, völlig geschützt vor den starken Regengüssen und den grauen Wolken an der Oberfläche.",
+                "hu": "Lépjen be mélyen ezekbe a katedrális méretű földalatti terekbe, amelyek teljesen védettek a felszíni heves felhőszakadásoktól és a szürke fellegektől.",
+                "ro": "Pășiți adânc în aceste spații subterane spectaculoase asemănătoare unor catedrale, complet protejate de ploile torențiale și de norii gri de la suprafață.",
+                "en": "Step deep into these massive, cathedral-like underground spaces, remaining completely protected from the heavy downpours and grey clouds on the surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Mystère des Faluns",
+                "hu": "Mystère des Faluns",
+                "ro": "Mystère des Faluns",
+                "en": "Mystère des Faluns"
+              },
+              "tip_5lang": {
+                "de": "Die immersiven Lichtshows in den dunklen Höhlen sind faszinierend; dies ist eine fantastische und trockene Indoor-Aktivität für einen nassen Nachmittag.",
+                "hu": "A sötét barlangokban lévő immerzív fényshow-k lenyűgözőek; ez egy fantasztikus és száraz beltéri programlehetőség egy kifejezetten esős délutánra.",
+                "ro": "Spectacolele imersive de lumini din peșterile întunecate sunt fascinante; aceasta este o activitate de interior fantastică și uscată pentru o după-amiază ploioasă.",
+                "en": "The immersive light shows projected in the dark caverns are mesmerizing; this is a fantastic and perfectly dry indoor activity for a wet, dreary afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maurice",
+                "hu": "Szent Móric-templom",
+                "ro": "Biserica Saint-Maurice",
+                "en": "Saint-Maurice Church"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich in dieser historischen Kirche kurz ab; ihr ruhiges, überdachtes Inneres ist ein sehr friedlicher Rückzugsort vor dem ungemütlichen Wetter.",
+                "hu": "Száradjon meg röviden ebben a történelmi templomban; a csendes, fedett belső tér rendkívül békés menedék a kinti barátságtalan, nedves időjárás elől.",
+                "ro": "Uscați-vă rapid în interiorul acestei biserici istorice; spațiul său liniștit și acoperit este un refugiu extrem de pașnic din calea vremii neplăcute de afară.",
+                "en": "Dry off quickly inside this historic church; its quiet, covered interior provides a very peaceful and calming retreat from the unpleasant wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Troglodytes et Sarcophages",
+                "hu": "Trogloditák és Szarkofágok",
+                "ro": "Troglodiți și Sarcofage",
+                "en": "Troglodytes and Sarcophagi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren verregneten Tag im unterirdischen Steinbruch der Sarkophage, der eine völlig trockene und isolierte Umgebung für die letzte Tour bietet.",
+                "hu": "Zárja az esős napot a szarkofágok földalatti kőfejtőjében, amely teljesen száraz és a csapadéktól elszigetelt környezetet biztosít az utolsó túrához.",
+                "ro": "Încheiați ziua ploioasă explorând cariera subterană de sarcofage, care oferă un mediu complet uscat și izolat de precipitații pentru ultimul tur al zilei.",
+                "en": "End your rainy day exploring the vast underground quarry of the sarcophagi, providing a completely dry and rain-insulated environment for your final tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frischen Wintermorgen warm eingepackt in der Kirche Saint-Pierre. Mittags bieten die unterirdischen Höhlen von Les Perrières und Mystère des Faluns eine erstaunlich milde Konstanztemperatur. Nachmittags bewundern Sie die alten Troglodytenwohnungen. Beenden Sie die Tour gegen 17:00 Uhr, wenn die Dunkelheit über die historischen Straßen hereinbricht.",
+            "hu": "Kezdje a fagyos téli reggelt a Szent Péter-templomban, melegen felöltözve. Délben a Les Perrières és a Mystère des Faluns földalatti barlangjai meglepően enyhe, állandó hőmérsékletet nyújtanak. A délutánt az ősi troglodita lakások felfedezésével töltheti. Sétáját délután 5 óra körül fejezze be, ahogy a sötétség leszáll a történelmi utcákra.",
+            "ro": "Începeți dimineața de iarnă la Biserica Saint-Pierre, bine îmbrăcați. La prânz, cavernele subterane de la Les Perrières și Mystère des Faluns oferă o temperatură constantă și surprinzător de blândă. După-amiaza, admirați vechile locuințe troglodite. Încheiați turul pe jos în jurul orei 17:00, când întunericul se lasă peste străzile istorice.",
+            "en": "Start your crisp winter morning at Saint-Pierre Church, bundled up against the cold. By noon, the underground caverns of Les Perrières and Mystère des Faluns offer a surprisingly mild and constant temperature. Spend the afternoon marveling at the ancient troglodyte dwellings. Wrap up your walking tour by 17:00 as darkness falls over the historic streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Das steinerne Innere dieser großen Kirche ist im Winter spürbar kalt, behalten Sie daher Ihren dicken Mantel und Schal bei der Besichtigung des Altars an.",
+                "hu": "A nagy templom kőbelseje télen érezhetően hideg, ezért mindenképpen tartsa magán a vastag téli kabátot és a sálat az oltár megtekintése közben.",
+                "ro": "Interiorul din piatră al acestei mari biserici este vizibil rece iarna, așa că păstrați haina groasă de iarnă și fularul în timp ce vizitați altarul principal.",
+                "en": "The stone interior of this grand church is noticeably cold in winter, so be sure to keep your heavy winter coat and scarf on while viewing the main altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Arènes",
+                "hu": "Les Arènes",
+                "ro": "Les Arènes",
+                "en": "Les Arènes"
+              },
+              "tip_5lang": {
+                "de": "Der Winterfrost hebt die antiken Steinstrukturen wunderschön hervor, aber achten Sie besonders in den schattigen Bereichen auf tückische eisige Stellen.",
+                "hu": "A téli fagy gyönyörűen kiemeli az ősi kőszerkezeteket, de járás közben nagyon ügyeljen a trükkös jeges foltokra, különösen az árnyékosabb területeken.",
+                "ro": "Înghețul de iarnă evidențiază superb structurile antice din piatră, dar fiți foarte atenți la porțiunile cu gheață ascunsă, mai ales în zonele umbrite.",
+                "en": "The winter frost highlights the ancient stone structures beautifully, but watch out carefully for tricky icy patches walking around, especially in shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Troglodytenhäuser",
+                "hu": "Troglodita házak",
+                "ro": "Case Troglodite",
+                "en": "Troglodyte Houses"
+              },
+              "tip_5lang": {
+                "de": "Diese einzigartigen Höhlenwohnungen blockieren den beißenden Winterwind brillant; sehen Sie, wie sie vor Jahrhunderten auf natürliche Weise Wärme speicherten.",
+                "hu": "Ezek az egyedi barlanglakások zseniálisan felfogják a metsző téli szelet; figyelje meg, hogyan őrizték meg a hőt természetes módon évszázadokkal ezelőtt.",
+                "ro": "Aceste case-peșteră unice blochează perfect vântul tăios de iarnă; observați cum aceste locuințe subterane conservau căldura în mod natural acum secole.",
+                "en": "These unique cave homes brilliantly block the biting winter wind; take time to appreciate how these dwellings naturally conserved heat centuries ago."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Perrières",
+                "hu": "Les Perrières",
+                "ro": "Les Perrières",
+                "en": "Les Perrières"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das stabile unterirdische Klima in diesen Gewölben, das eine sehr willkommene und milde Pause von den frostigen Außentemperaturen darstellt.",
+                "hu": "Élvezze a stabil földalatti klímát ezekben a boltozatokban, amely rendkívül üdvözölt és enyhe felüdülés a felszíni fagyos, dermesztő hőmérsékletek után.",
+                "ro": "Bucurați-vă de climatul subteran stabil din aceste bolți, o pauză extrem de binevenită și blândă de la temperaturile de îngheț și gerul de la suprafață.",
+                "en": "Enjoy the stable underground climate in these towering vaults, providing a very welcome and mild respite from the freezing winter temperatures above ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Mystère des Faluns",
+                "hu": "Mystère des Faluns",
+                "ro": "Mystère des Faluns",
+                "en": "Mystère des Faluns"
+              },
+              "tip_5lang": {
+                "de": "Die konstanten 12-14°C der Höhle fühlen sich im eiskalten Winter erstaunlich warm an; genießen Sie die magischen Lichtprojektionen hier ganz komfortabel.",
+                "hu": "A barlang állandó 12-14°C-os hőmérséklete a fagyos télen meglepően melegnek hat; élvezze kényelmesen a falakra vetített varázslatos fényjátékokat.",
+                "ro": "Temperatura constantă de 12-14°C a peșterii pare uimitor de caldă în iarna geroasă; bucurați-vă confortabil de proiecțiile magice de lumini de pe pereți.",
+                "en": "The cave's constant 12-14°C temperature feels surprisingly warm in the freezing winter; enjoy the magical projection mapping on the walls comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maurice",
+                "hu": "Szent Móric-templom",
+                "ro": "Biserica Saint-Maurice",
+                "en": "Saint-Maurice Church"
+              },
+              "tip_5lang": {
+                "de": "Wickeln Sie den Schal eng um, da historische Steinkirchen zugig sind, aber die gotische Architektur ist im tief stehenden Winterlicht einfach atemberaubend.",
+                "hu": "Húzza szorosra a sálját, mert a régi kőtemplomok meglehetősen huzatosak, de a gótikus építészet egyszerűen lenyűgöző az alacsony szögű téli fényben.",
+                "ro": "Strângeți bine fularul, bisericile vechi din piatră sunt adesea reci, dar arhitectura gotică este pur și simplu uimitoare în lumina joasă a soarelui de iarnă.",
+                "en": "Wrap your scarf tightly as historic stone churches are quite drafty, but the gothic architecture is simply stunning in the low-angled winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Troglodytes et Sarcophages",
+                "hu": "Trogloditák és Szarkofágok",
+                "ro": "Troglodiți și Sarcofage",
+                "en": "Troglodytes and Sarcophagi"
+              },
+              "tip_5lang": {
+                "de": "Tief unter der Erde bemerken Sie den frühen Sonnenuntergang überhaupt nicht; zudem ist die kühle Konstanztemperatur angenehmer als der strenge Winterfrost.",
+                "hu": "Mélyen a föld alatt egyáltalán nem fogja észrevenni a korai sötétedést; ráadásul az állandó hűvös hőmérséklet sokkal kellemesebb, mint a kinti kemény fagy.",
+                "ro": "Adânc în subteran nu veți observa deloc apusul timpuriu; în plus, temperatura constant răcoroasă este mult mai plăcută decât gerul aspru de afară.",
+                "en": "Deep underground, you won't notice the early sunset at all; plus, the constant cool temperature is actually more pleasant than the harsh winter chill outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "A Doué-en-Anjou-i napja a városközpontban, az elegáns Église Saint-Pierre templomnál kezdődik, mielőtt elindulna felfedezni a régió egyedülálló, kőbe vájt geológiai kincseit.\n\nA késő délelőtt folyamán elmerülhet a barlanglakók lenyűgöző világában. A különleges Arènes-től a hiteles troglodita házakig minden a tufakő gazdag örökségéről mesél.\n\nA délutánt a lenyűgöző földalatti világoknak szenteljük. Bejárja a Les Perrières gigantikus mészkőboltozatait, majd a Mystère des Faluns varázslatos fényjátékában tehet időutazást.\n\nA nap végén elkerekezik a hatalmas rózsakertekbe, ahol a virágok finom illata tökéletesen zárja ezt a felejthetetlen kirándulást.",
         "ro": "Ziua dumneavoastră în Doué-en-Anjou începe în centrul orașului la eleganta Église Saint-Pierre, înainte de a porni să descoperiți geologia unică, sculptată în piatră a regiunii.\n\nSpre sfârșitul dimineții, vă scufundați în lumea fascinantă a locuitorilor peșterilor. De la neobișnuitele Arènes la casele troglodite autentice, moștenirea tufului calcaros se dezvăluie pas cu pas.\n\nDupă-amiaza este dedicată lumilor subterane impresionante. Veți traversa bolțile gigantice de la Les Perrières și veți trăi o călătorie magică în timp prin Mystère des Faluns.\n\nLa finalul zilei, pedalați spre grădinile întinse de trandafiri, unde parfumul delicat al florilor completează perfect această excursie de neuitat.",
         "en": "Your day in Doué-en-Anjou begins in the city center at the elegant Église Saint-Pierre, before setting off to discover the unique, stone-carved geological treasures of the region.\n\nBy late morning, you will dive deeply into the fascinating world of cave dwellers. From the highly unusual Arènes to authentic troglodyte houses, the heritage of tuffeau stone is fully revealed.\n\nThe afternoon is entirely dedicated to the impressive underground worlds. You will traverse the gigantic vaults of Les Perrières and experience a magical journey through time at Mystère des Faluns.\n\nAs the day concludes, cycle out to the expansive rose gardens, where the gentle fragrance of thousands of blooms perfectly rounds off this unforgettable trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig auf rutschigen Straßen ab Saint-Pierre. Mittags machen Sie lange Indoor-Pausen bei Les Perrières und Mystère des Faluns, um dem Regen zu entkommen. Die Nachmittagsroute führt zu den Sarkophagen. Beenden Sie die nasse Fahrt vor der Dämmerung und nutzen Sie starke Lichter bei den Rosengärten.",
+            "hu": "Óvatosan pedálozzon a csúszós utakon ezen a reggelen a Szent Péter-templomtól. Délben tartson hosszabb beltéri szüneteket a Les Perrières és a Mystère des Faluns barlangjaiban az eső elől. A délutáni útvonal a szarkofágokhoz vezet. Sötétedés előtt fejezze be a túrát, erős lámpákat használva a rózsakerteknél.",
+            "ro": "Pedați cu atenție pe drumurile alunecoase dimineața, de la Saint-Pierre. La amiază, luați pauze lungi la interior la Les Perrières și Mystère des Faluns, scăpând de ploaie. Traseul de după-amiază duce la peșterile sarcofagelor. Încheiați cursa înainte de întuneric, folosind faruri puternice la grădina de trandafiri.",
+            "en": "Pedal carefully on slippery roads this morning starting at Saint-Pierre. By midday, take long indoor breaks at Les Perrières and Mystère des Faluns, escaping the rain. The afternoon route leads to the sarcophagi caves. Wrap up your wet ride before dusk, ensuring your bike lights cut through the rain at the rose gardens."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die markante Architektur dieser historischen Kirche und bleiben Sie im riesigen Kirchenschiff völlig trocken; ein idealer Start.",
+                "hu": "Csodálja meg a történelmi templom lenyűgöző építészetét, és maradjon teljesen szárazon a hatalmas főhajóban; ideális, védett kezdés.",
+                "ro": "Admirați arhitectura remarcabilă a acestei biserici istorice și rămâneți perfect uscați în interiorul navei sale vaste; un început ideal.",
+                "en": "Admire the striking architecture of this historic church and stay perfectly dry inside its vast nave; an ideal, sheltered start to your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Arènes",
+                "hu": "Les Arènes",
+                "ro": "Les Arènes",
+                "en": "Les Arènes"
+              },
+              "tip_5lang": {
+                "de": "Dieses antike Amphitheater ist bei Regen rutschig; steigen Sie vom Fahrrad ab, tragen Sie Schuhe mit gutem Halt und nutzen Sie einen Regenschirm.",
+                "hu": "Ez az ősi amfiteátrum esőben nagyon csúszós; szálljon le a kerékpárról, viseljen jó tapadású cipőt, és sétáljon óvatosan az esernyő alatt.",
+                "ro": "Acest amfiteatru antic este alunecos pe ploaie; descălecați de pe bicicletă, purtați încălțăminte cu aderență și folosiți o umbrelă.",
+                "en": "This ancient amphitheater is slippery in the rain; dismount your bike, wear shoes with solid grip, and walk carefully with your umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Troglodytenhäuser",
+                "hu": "Troglodita házak",
+                "ro": "Case Troglodite",
+                "en": "Troglodyte Houses"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und erkunden Sie diese Höhlenwohnungen, die teilweisen Schutz vor dem Regen bieten und die lokale Geschichte veranschaulichen.",
+                "hu": "Parkolja le kerékpárját, és fedezze fel ezeket a barlanglakásokat, amelyek részleges menedéket nyújtanak az eső elől a történelmi séta során.",
+                "ro": "Parcați bicicleta și explorați aceste case-peșteră care oferă adăpost parțial de ploaie și ilustrează istoria și modul de viață local.",
+                "en": "Park your bike safely and explore these cave homes which offer partial shelter from the falling rain while illustrating rich local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Perrières",
+                "hu": "Les Perrières",
+                "ro": "Les Perrières",
+                "en": "Les Perrières"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Fahrrad draußen an und treten Sie in diese riesigen unterirdischen Räume ein, völlig geschützt vor den starken Regengüssen.",
+                "hu": "Zárja le a biciklijét kint, és lépjen be ezekbe a hatalmas földalatti terekbe, amelyek teljesen védettek a kinti heves felhőszakadásoktól.",
+                "ro": "Legați bicicleta afară și pășiți în aceste spații subterane uriașe, unde veți fi complet protejați de ploile torențiale de la suprafață.",
+                "en": "Lock your bike outside and step into these massive underground spaces, finding yourself completely protected from the heavy downpours above."
+              }
+            },
+            {
+              "name": {
+                "de": "Mystère des Faluns",
+                "hu": "Mystère des Faluns",
+                "ro": "Mystère des Faluns",
+                "en": "Mystère des Faluns"
+              },
+              "tip_5lang": {
+                "de": "Die immersiven Lichtshows in den dunklen Höhlen sind faszinierend; nutzen Sie diese lange Indoor-Pause, um Ihre Regenkleidung abtropfen zu lassen.",
+                "hu": "A sötét barlangok fényshow-jai lenyűgözőek; használja ki ezt a hosszú beltéri pihenőt arra, hogy a kerékpáros esőruhája kissé lecsöpögjön.",
+                "ro": "Spectacolele de lumini din peșterile întunecate sunt fascinante; folosiți această pauză lungă la interior pentru a scurge pelerina de ploaie.",
+                "en": "The immersive light shows in the dark caverns are mesmerizing; use this long indoor break to let your cycling waterproofs drip dry for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Troglodytes et Sarcophages",
+                "hu": "Trogloditák és Szarkofágok",
+                "ro": "Troglodiți și Sarcofage",
+                "en": "Troglodytes and Sarcophagi"
+              },
+              "tip_5lang": {
+                "de": "Setzen Sie Ihre nasse Fahrt hier aus; dieser unterirdische Steinbruch bietet eine völlig trockene und isolierte Umgebung für die letzte Höhlentour.",
+                "hu": "Szakítsa meg itt a nedves tekerést; ez a földalatti kőfejtő teljesen száraz és esőtől elszigetelt környezetet biztosít az utolsó barlangtúrához.",
+                "ro": "Pauză de la cursa umedă aici; această carieră subterană oferă un mediu complet uscat și izolat pentru ultimul tur al peșterilor.",
+                "en": "Take a break from your wet ride here; this underground quarry provides a completely dry and isolated environment for your final cave tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosengärten",
+                "hu": "Rózsa ösvények",
+                "ro": "Grădinile de Trandafiri",
+                "en": "Rose Gardens"
+              },
+              "tip_5lang": {
+                "de": "Die Rosenwege sind bei Regen extrem schlammig; behalten Sie die Regenkleidung an, fahren Sie vorsichtig und genießen Sie den Duft feuchter Erde.",
+                "hu": "A rózsaösvények esőben rendkívül sárosak; tartsa magán az esőruhát, tekerjen nagyon óvatosan, és élvezze a nedves termőföld friss illatát.",
+                "ro": "Cărările sunt extrem de noroioase pe ploaie; păstrați hainele impermeabile, pedalați cu prudență și savurați parfumul pământului ud.",
+                "en": "The rose paths are extremely muddy in the rain; keep your waterproofs on, cycle with immense caution, and enjoy the distinct scent of wet soil."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für eine frostige Morgenfahrt ab Saint-Pierre warm ein. Mittags wärmen Sie Ihre Hände in den riesigen Höhlenkomplexen von Les Perrières auf. Nachmittags erkunden Sie die Sarkophage. Da die Sonne im Winter früh um 17:00 Uhr untergeht, sorgen Sie für eine starke Fahrradbeleuchtung an den ruhenden Rosengärten.",
+            "hu": "Öltözzön fel melegen a fagyos reggeli kerékpározáshoz a templomtól. Délben melegítse fel kezét a Les Perrières és a Mystère des Faluns hatalmas barlangjaiban. Délután fedezze fel a szarkofágokat. Mivel a nap már 17:00 órakor lenyugszik, legyen kivilágítva a bicikli a téli rózsakertek mellett elhaladva.",
+            "ro": "Îmbrăcați-vă gros pentru o cursă de dimineață geroasă de la Saint-Pierre. La prânz, încălziți-vă mâinile în complexele subterane masive Les Perrières. După-amiaza explorați sarcofagele. Apusul fiind devreme, la 17:00, asigurați-vă că bicicleta este bine luminată trecând pe la grădinile de trandafiri adormite.",
+            "en": "Bundle up for a frosty morning ride starting at Saint-Pierre. Around noon, warm your hands in the massive underground complexes of Les Perrières. In the afternoon, explore the troglodyte sarcophagi site. With sunset arriving early at 17:00, ensure your bike is well-lit as you pass the dormant winter rose gardens."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Das steinerne Innere dieser großen Kirche ist spürbar kalt, behalten Sie daher Ihre dicken Radhandschuhe und den Mantel bei der Besichtigung an.",
+                "hu": "A nagy templom kőbelseje érezhetően hideg, ezért mindenképpen tartsa magán a vastag kerékpáros kesztyűt és a kabátot a megtekintés közben.",
+                "ro": "Interiorul din piatră al acestei mari biserici este vizibil rece, așa că păstrați mănușile groase de ciclism și haina în timpul vizitei.",
+                "en": "The stone interior of this grand church is noticeably cold, so be sure to keep your heavy cycling gloves and winter coat on while viewing it."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Arènes",
+                "hu": "Les Arènes",
+                "ro": "Les Arènes",
+                "en": "Les Arènes"
+              },
+              "tip_5lang": {
+                "de": "Der Winterfrost hebt die antiken Steine wunderschön hervor, aber achten Sie besonders beim Schieben des Rades auf tückische eisige Stellen am Boden.",
+                "hu": "A téli fagy gyönyörűen kiemeli az ősi köveket, de nagyon ügyeljen a trükkös jeges foltokra, különösen, amikor a kerékpárt tolja az arénában.",
+                "ro": "Înghețul de iarnă evidențiază superb pietrele antice, dar fiți atenți la porțiunile cu gheață ascunsă, mai ales când împingeți bicicleta.",
+                "en": "The winter frost highlights the ancient stones beautifully, but watch out carefully for tricky icy patches, especially while pushing your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Troglodytenhäuser",
+                "hu": "Troglodita házak",
+                "ro": "Case Troglodite",
+                "en": "Troglodyte Houses"
+              },
+              "tip_5lang": {
+                "de": "Diese einzigartigen Höhlenwohnungen blockieren den eisigen Fahrtwind brillant; sehen Sie, wie sie vor Jahrhunderten auf natürliche Weise Wärme speicherten.",
+                "hu": "Ezek a barlanglakások zseniálisan felfogják a jeges menetszelet; figyelje meg, hogyan őrizték meg a hőt természetes módon évszázadokkal ezelőtt.",
+                "ro": "Aceste case-peșteră blochează perfect vântul înghețat resimțit pe bicicletă; observați cum conservau căldura în mod natural acum secole.",
+                "en": "These unique cave homes brilliantly block the freezing wind you feel on the bike; appreciate how they naturally conserved heat centuries ago."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Perrières",
+                "hu": "Les Perrières",
+                "ro": "Les Perrières",
+                "en": "Les Perrières"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad draußen und genießen Sie das stabile unterirdische Klima; eine perfekte Gelegenheit, Ihre gefrorenen Finger wieder aufzuwärmen.",
+                "hu": "Parkoljon kint, és élvezze a stabil földalatti klímát ezekben a boltozatokban; ez egy tökéletes alkalom a fagyos ujjainak felmelegítésére.",
+                "ro": "Parcați bicicleta afară și bucurați-vă de climatul subteran stabil; o oportunitate perfectă pentru a vă încălzi degetele înghețate de frig.",
+                "en": "Park your bike outside and enjoy the stable underground climate in these vaults; it is a perfect opportunity to warm your freezing fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Mystère des Faluns",
+                "hu": "Mystère des Faluns",
+                "ro": "Mystère des Faluns",
+                "en": "Mystère des Faluns"
+              },
+              "tip_5lang": {
+                "de": "Die konstanten 12-14°C der Höhle fühlen sich nach der frostigen Radfahrt erstaunlich warm an; genießen Sie die magischen Projektionen komfortabel.",
+                "hu": "A barlang 12-14°C-os hőmérséklete a fagyos tekerés után meglepően melegnek hat; élvezze kényelmesen a falakra vetített varázslatos fényjátékokat.",
+                "ro": "Temperatura de 12-14°C a peșterii pare uimitor de caldă după cursa geroasă; bucurați-vă confortabil de proiecțiile magice de lumini.",
+                "en": "The cave's constant 12-14°C feels surprisingly warm after a frosty cycling stint; enjoy the magical projection mapping on the walls comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Troglodytes et Sarcophages",
+                "hu": "Trogloditák és Szarkofágok",
+                "ro": "Troglodiți și Sarcofage",
+                "en": "Troglodytes and Sarcophagi"
+              },
+              "tip_5lang": {
+                "de": "Tief unter der Erde bemerken Sie den frühen Sonnenuntergang nicht; die kühle Konstanztemperatur ist nachmittags angenehmer als der strenge Winterfrost.",
+                "hu": "Mélyen a föld alatt nem fogja észrevenni a korai sötétedést; a hűvös hőmérséklet délután kellemesebb, mint a kinti kemény kerékpáros fagy.",
+                "ro": "Adânc în subteran nu veți observa apusul timpuriu; temperatura răcoroasă constantă e mai plăcută după-amiaza decât gerul aspru de afară.",
+                "en": "Deep underground, you won't notice the early sunset; the constant cool temperature is actually more pleasant than the harsh winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosengärten",
+                "hu": "Rózsa ösvények",
+                "ro": "Grădinile de Trandafiri",
+                "en": "Rose Gardens"
+              },
+              "tip_5lang": {
+                "de": "Die Rosen ruhen und die Wege sind oft eisig; radeln Sie extrem vorsichtig und schalten Sie unbedingt das Licht ein, bevor es abends komplett dunkel wird.",
+                "hu": "A rózsák nyugalmi állapotban vannak, az utak jegesek; tekerjen rendkívül óvatosan, és kapcsolja be a lámpát, mielőtt teljesen besötétedik.",
+                "ro": "Trandafirii sunt în repaus și cărările sunt adesea înghețate; pedalați cu mare atenție și aprindeți farurile înainte să se întunece complet.",
+                "en": "The roses are dormant and paths are frequently icy; cycle with extreme caution and be absolutely sure to turn on your lights before it gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -560,6 +996,252 @@
         "hu": "A Doué-en-Anjou-i napja a városközpontban, az elegáns Église Saint-Pierre templomnál kezdődik, mielőtt elindulna felfedezni a régió egyedülálló, kőbe vájt geológiai kincseit.\n\nA késő délelőtt folyamán elmerülhet a barlanglakók lenyűgöző világában. A különleges Arènes-től a hiteles troglodita házakig minden a tufakő gazdag örökségéről mesél.\n\nA délutánt a lenyűgöző földalatti világoknak szenteljük. Bejárja a Les Perrières gigantikus mészkőboltozatait, majd a Mystère des Faluns varázslatos fényjátékában tehet időutazást.\n\nA nap végén autóba ül, és felfedezi a hatalmas rózsakerteket, ahol a virágok finom illata tökéletesen zárja ezt a felejthetetlen kirándulást.",
         "ro": "Ziua dumneavoastră în Doué-en-Anjou începe în centrul orașului la eleganta Église Saint-Pierre, înainte de a porni să descoperiți geologia unică, sculptată în piatră a regiunii.\n\nSpre sfârșitul dimineții, vă scufundați în lumea fascinantă a locuitorilor peșterilor. De la neobișnuitele Arènes la casele troglodite autentice, moștenirea tufului calcaros se dezvăluie pas cu pas.\n\nDupă-amiaza este dedicată lumilor subterane impresionante. Veți traversa bolțile gigantice de la Les Perrières și veți trăi o călătorie magică în timp prin Mystère des Faluns.\n\nLa finalul zilei, conduceți spre grădinile întinse de trandafiri, unde parfumul delicat al florilor completează perfect această excursie de neuitat.",
         "en": "Your day in Doué-en-Anjou begins in the city center at the elegant Église Saint-Pierre, before setting off to discover the unique, stone-carved geological treasures of the region.\n\nBy late morning, you will dive deeply into the fascinating world of cave dwellers. From the highly unusual Arènes to authentic troglodyte houses, the heritage of tuffeau stone is fully revealed.\n\nThe afternoon is entirely dedicated to the impressive underground worlds. You will traverse the gigantic vaults of Les Perrières and experience a magical journey through time at Mystère des Faluns.\n\nAs the day concludes, drive out to the expansive rose gardens, where the gentle fragrance of thousands of blooms perfectly rounds off this unforgettable trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem durch den regnerischen Morgen und nutzen Sie den Schirm bei den Arènes. Mittags parken Sie nahe der Höhlen für stundenlange, trockene Erkundungen unter Tage. Nachmittags besuchen Sie Saint-Maurice und die Sarkophage, alles nur kurze Fahrten. Beenden Sie den Tag in den nassen Rosengärten und kehren Sie zügig ins warme Auto zurück.",
+            "hu": "Vezessen kényelmesen az esős reggelen a Szent Péter-templom és az Arénák között, esernyővel a kézben. Délben parkoljon közel a barlangokhoz, és élvezze a száraz, földalatti felfedezést. Délután látogassa meg a Szent Móric-templomot és a szarkofágokat. Zárja a napot a rózsakerteknél, majd térjen vissza fűtött autójába.",
+            "ro": "Conduceți confortabil în dimineața ploioasă între Saint-Pierre și Les Arènes, având umbrela la îndemână. La amiază, parcați aproape de peșteri pentru explorare subterană uscată. După-amiaza, vizitați Saint-Maurice și sarcofagele cu drumuri scurte. Încheiați la grădinile de trandafiri umede, întorcându-vă rapid la mașina caldă.",
+            "en": "Drive comfortably through the rainy morning, hopping between Saint-Pierre and Les Arènes with your umbrella handy. At noon, park close to Les Perrières and Mystère des Faluns for hours of dry, underground exploration. In the afternoon, easily visit Saint-Maurice and the sarcophagi caves. End at the wet rose gardens before returning to your heated car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Kirche, bewundern Sie die markante Architektur und bleiben Sie im riesigen Kirchenschiff vor dem Morgenregen völlig trocken.",
+                "hu": "Parkoljon közvetlenül a templomnál, csodálja meg az építészetet, és maradjon teljesen szárazon a hatalmas főhajóban a reggeli eső elől.",
+                "ro": "Parcați chiar la biserică, admirați arhitectura remarcabilă și rămâneți perfect uscați în interiorul navei vaste, feriți de ploaia de dimineață.",
+                "en": "Park right by the church, admire the striking architecture, and stay perfectly dry inside its vast nave, shielded from the morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Arènes",
+                "hu": "Les Arènes",
+                "ro": "Les Arènes",
+                "en": "Les Arènes"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto stehen und gehen Sie mit Schirm; das antike Amphitheater wird rutschig, tragen Sie daher unbedingt Schuhe mit exzellentem Halt.",
+                "hu": "Hagyja az autót a parkolóban, és menjen esernyővel; az ősi amfiteátrum nagyon csúszós lesz, így mindenképpen viseljen jó tapadású cipőt.",
+                "ro": "Lăsați mașina și mergeți cu umbrela; amfiteatrul antic devine alunecos pe ploaie, așa că purtați obligatoriu încălțăminte cu aderență excelentă.",
+                "en": "Leave the car parked and walk with an umbrella; the ancient amphitheater gets slippery, so be absolutely sure to wear shoes with excellent grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Troglodytenhäuser",
+                "hu": "Troglodita házak",
+                "ro": "Case Troglodite",
+                "en": "Troglodyte Houses"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie ein kurzes Stück und erkunden Sie diese Höhlenwohnungen, die auf der regnerischen Autotour hervorragenden teilweisen Schutz bieten.",
+                "hu": "Vezessen egy rövid szakaszt, majd fedezze fel ezeket a barlanglakásokat, amelyek kiváló részleges menedéket nyújtanak az esős autós túrán.",
+                "ro": "Conduceți pe o distanță scurtă și explorați aceste case-peșteră, care oferă un adăpost parțial excelent în timpul turului auto ploios.",
+                "en": "Drive a short distance to explore these fascinating cave homes, which offer excellent partial shelter from the downpours during your car tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Perrières",
+                "hu": "Les Perrières",
+                "ro": "Les Perrières",
+                "en": "Les Perrières"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen nahen Parkplatz und treten Sie tief in diese kathedralenartigen Räume ein, völlig geschützt vor den starken Regengüssen am Mittag.",
+                "hu": "Keressen egy közeli parkolót, és lépjen be a katedrális méretű terekbe, amelyek teljesen védettek a déli heves felhőszakadásoktól.",
+                "ro": "Căutați o parcare apropiată și pășiți în aceste spații asemănătoare unor catedrale, complet protejate de ploile torențiale de la amiază.",
+                "en": "Find a close parking spot and step deep into these massive, cathedral-like spaces, remaining completely protected from the heavy midday downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Mystère des Faluns",
+                "hu": "Mystère des Faluns",
+                "ro": "Mystère des Faluns",
+                "en": "Mystère des Faluns"
+              },
+              "tip_5lang": {
+                "de": "Die immersiven Lichtshows in den dunklen Höhlen sind faszinierend; dies ist eine bequeme, komplett trockene Aktivität auf Ihrer Autoreise.",
+                "hu": "A sötét barlangokban lévő fényshow-k lenyűgözőek; ez egy rendkívül kényelmes, teljesen száraz programlehetőség az autós kirándulás során.",
+                "ro": "Spectacolele imersive de lumini din peșterile întunecate sunt fascinante; o activitate confortabilă și complet uscată în timpul călătoriei auto.",
+                "en": "The immersive light shows projected in the dark caverns are mesmerizing; this is a highly convenient and completely dry activity on your car trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Troglodytes et Sarcophages",
+                "hu": "Trogloditák és Szarkofágok",
+                "ro": "Troglodiți și Sarcofage",
+                "en": "Troglodytes and Sarcophagi"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zum unterirdischen Steinbruch der Sarkophage, der eine völlig trockene und vom Regen isolierte Umgebung für die nächste Tour bietet.",
+                "hu": "Vezessen el a szarkofágok kőfejtőjéhez, amely teljesen száraz és a csapadéktól elszigetelt környezetet biztosít a következő izgalmas túrához.",
+                "ro": "Conduceți la cariera subterană de sarcofage, care oferă un mediu complet uscat și izolat de ploaie pentru următorul tur spectaculos.",
+                "en": "Drive to the underground quarry of the sarcophagi, providing a completely dry and rain-insulated environment for your next fascinating tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maurice",
+                "hu": "Szent Móric-templom",
+                "ro": "Biserica Saint-Maurice",
+                "en": "Saint-Maurice Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie schnell um und trocknen Sie sich in dieser historischen Kirche kurz ab; ihr ruhiges Inneres ist ein friedlicher Rückzugsort vor dem Regen.",
+                "hu": "Parkoljon át gyorsan, és száradjon meg ebben a történelmi templomban; a csendes, fedett belső tér békés menedék a kinti csapadék elől.",
+                "ro": "Mutați rapid mașina și uscați-vă în această biserică istorică; interiorul său liniștit este un refugiu extrem de pașnic de vremea ploioasă.",
+                "en": "Quickly reposition your car and dry off inside this historic church; its quiet, covered interior provides a peaceful retreat from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosengärten",
+                "hu": "Rózsa ösvények",
+                "ro": "Grădinile de Trandafiri",
+                "en": "Rose Gardens"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe für einen kurzen Spaziergang mit Schirm; die nassen Rosen duften erdig. Danach geht es direkt zurück ins trockene, warme Auto.",
+                "hu": "Parkoljon közel, és tegyen egy gyors sétát esernyővel; a nedves föld illata remek. Utána egyenesen visszatérhet a száraz, kényelmes autóba.",
+                "ro": "Parcați aproape pentru o scurtă plimbare cu umbrela; trandafirii uzi au un parfum pământiu. Apoi vă întoarceți direct în mașina uscată și caldă.",
+                "en": "Park nearby for a quick stroll with an umbrella; the wet gardens have a distinct, earthy fragrance. Afterward, retreat straight to your dry car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihr beheiztes Auto ist ein Segen an diesem eisigen Wintermorgen. Mittags tauschen Sie die frostige Natur gegen die temperierten unterirdischen Welten der Höhlen. Fahren Sie nachmittags sicher mit dem Wagen zu den Sarkophagen und Saint-Maurice. Um 17:00 Uhr wird es dunkel, navigieren Sie dann vorsichtig auf vereisten Straßen nahe den Rosengärten.",
+            "hu": "A fűtött autó áldás ezen a fagyos téli reggelen a Szent Péter-templomnál. Délben cserélje le a fagyos külvilágot a barlangok mérsékelt földalatti világára. Délután biztonságosan vezessen a szarkofágokhoz és a Szent Móric-templomhoz. A nap 17:00-kor lenyugszik, így óvatosan navigáljon a jeges utakon a rózsakertek közelében.",
+            "ro": "Mașina încălzită este o binecuvântare în această dimineață geroasă la Saint-Pierre. La prânz, schimbați exteriorul înghețat cu lumile subterane temperate din peșteri. Conduceți prudent după-amiaza la sarcofage și biserică. Apusul este la 17:00, deci navigați cu atenție pe drumurile înghețate lângă grădinile de trandafiri.",
+            "en": "Your heated car is a blessing on this freezing winter morning starting at Saint-Pierre. By midday, swap the frosty outdoors for the temperate underground worlds of Les Perrières and Mystère des Faluns. Drive safely in the afternoon to the sarcophagi and Saint-Maurice. Sunset hits by 17:00, so carefully navigate the icy roads near the rose gardens."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Nach dem warmen Auto ist das steinerne Innere der Kirche spürbar kalt; behalten Sie Ihren dicken Wintermantel bei der kurzen Besichtigung unbedingt an.",
+                "hu": "A meleg autó után a templom kőbelseje érezhetően hideg; mindenképpen tartsa magán a vastag téli kabátot a rövid belső megtekintés közben.",
+                "ro": "După mașina caldă, interiorul din piatră al bisericii pare vizibil rece; păstrați neapărat haina groasă de iarnă pe durata vizitei scurte.",
+                "en": "After leaving the warm car, the stone interior of the church is noticeably cold; be sure to keep your heavy winter coat on during the short visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Arènes",
+                "hu": "Les Arènes",
+                "ro": "Les Arènes",
+                "en": "Les Arènes"
+              },
+              "tip_5lang": {
+                "de": "Der Winterfrost hebt die antiken Steine wunderschön hervor, aber achten Sie auf dem kurzen Weg vom Parkplatz besonders auf tückische eisige Stellen.",
+                "hu": "A téli fagy gyönyörűen kiemeli az ősi köveket, de a parkolótól vezető rövid úton nagyon ügyeljen a trükkös, csúszós jeges foltokra.",
+                "ro": "Înghețul de iarnă evidențiază superb pietrele antice, dar pe drumul scurt de la parcare fiți foarte atenți la porțiunile cu gheață ascunsă.",
+                "en": "The winter frost highlights the ancient stones beautifully, but on the short walk from the parking lot, watch out carefully for tricky icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Troglodytenhäuser",
+                "hu": "Troglodita házak",
+                "ro": "Case Troglodite",
+                "en": "Troglodyte Houses"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie aus dem warmen Wagen und sehen Sie, wie diese Höhlenwohnungen den Winterwind blockieren und vor Jahrhunderten Wärme speicherten.",
+                "hu": "Szálljon ki a meleg autóból, és nézze meg, hogyan fogják fel a barlanglakások a téli szelet, és hogyan őrizték meg a hőt évszázadokkal ezelőtt.",
+                "ro": "Coborâți din mașina caldă și observați cum aceste case-peșteră blochează vântul de iarnă și conservau căldura în mod natural acum secole.",
+                "en": "Step out of your heated car and observe how these unique cave homes block the biting winter wind and naturally conserved heat centuries ago."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Perrières",
+                "hu": "Les Perrières",
+                "ro": "Les Perrières",
+                "en": "Les Perrières"
+              },
+              "tip_5lang": {
+                "de": "Verlassen Sie die frostige Luft und genießen Sie das stabile, milde Höhlenklima in diesen Gewölben; ein angenehmer Kontrast zur Winterkälte.",
+                "hu": "Hagyja maga mögött a fagyos levegőt, és élvezze a stabil, enyhe barlangi klímát ezekben a boltozatokban; kellemes kontraszt a téli hideghez képest.",
+                "ro": "Lăsați în urmă aerul înghețat și bucurați-vă de climatul stabil și blând din aceste bolți; un contrast foarte plăcut cu frigul aspru de iarnă.",
+                "en": "Leave the frosty air behind and enjoy the remarkably stable, mild underground climate in these towering vaults; a pleasant contrast to the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Mystère des Faluns",
+                "hu": "Mystère des Faluns",
+                "ro": "Mystère des Faluns",
+                "en": "Mystère des Faluns"
+              },
+              "tip_5lang": {
+                "de": "Die konstanten 12-14°C der Höhle fühlen sich im Vergleich zum eiskalten Winter draußen warm an; genießen Sie die magischen Lichtprojektionen.",
+                "hu": "A barlang 12-14°C-os hőmérséklete a kinti fagyos télhez képest melegnek hat; élvezze kényelmesen a falakra vetített varázslatos fényjátékokat.",
+                "ro": "Temperatura de 12-14°C a peșterii pare caldă comparativ cu iarna geroasă de afară; bucurați-vă confortabil de proiecțiile magice de lumini.",
+                "en": "The cave's constant 12-14°C feels surprisingly warm compared to the freezing winter outside; comfortably enjoy the magical projection mapping."
+              }
+            },
+            {
+              "name": {
+                "de": "Troglodytes et Sarcophages",
+                "hu": "Trogloditák és Szarkofágok",
+                "ro": "Troglodiți și Sarcofage",
+                "en": "Troglodytes and Sarcophagi"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie kurz weiter. Tief unter der Erde bemerken Sie den frühen Sonnenuntergang nicht; zudem ist es hier wärmer als im strengen Winterfrost draußen.",
+                "hu": "Vezessen tovább. Mélyen a föld alatt nem fogja észrevenni a korai sötétedést; ráadásul itt sokkal melegebb van, mint a kinti kemény téli fagyban.",
+                "ro": "Conduceți mai departe. În subteran nu veți observa deloc apusul timpuriu; în plus, este mult mai cald aici decât în gerul aspru de afară.",
+                "en": "Drive slightly further. Deep underground, you won't notice the early sunset at all; plus, it is notably warmer here than in the harsh winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maurice",
+                "hu": "Szent Móric-templom",
+                "ro": "Biserica Saint-Maurice",
+                "en": "Saint-Maurice Church"
+              },
+              "tip_5lang": {
+                "de": "Wickeln Sie den Schal nach dem Aussteigen eng um, da historische Kirchen zugig sind. Die Architektur ist im tief stehenden Winterlicht jedoch atemberaubend.",
+                "hu": "Kiszállás után húzza szorosra a sálját, mert a történelmi templomok huzatosak. A gótikus építészet viszont lenyűgöző a téli fényben.",
+                "ro": "După ce coborâți, strângeți bine fularul, bisericile vechi pot fi reci. Totuși, arhitectura gotică este pur și simplu uimitoare în lumina iernii.",
+                "en": "Wrap your scarf tightly after exiting the car, as historic churches are drafty. The gothic architecture, however, is simply stunning in winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosengärten",
+                "hu": "Rózsa ösvények",
+                "ro": "Grădinile de Trandafiri",
+                "en": "Rose Gardens"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten sind frostig und die Wege vereist; machen Sie einen flotten, vorsichtigen Spaziergang, bevor Sie in der frühen Dämmerung ins warme Auto flüchten.",
+                "hu": "A kertek fagyosak és az utak jegesek; tegyen egy gyors, óvatos sétát, hogy kinyújtóztassa a lábát, mielőtt a kora esti sötétben a meleg autóba menekül.",
+                "ro": "Grădinile sunt înghețate și cărările pot fi alunecoase; faceți o plimbare vioaie și atentă înainte de a vă retrage în mașina caldă la lăsarea serii.",
+                "en": "The gardens are stark and frosty with icy paths; enjoy a brisk, careful walk to stretch your legs before retreating to the warm car in the early dusk."
+              }
+            }
+          ]
+        }
       }
     }
   }

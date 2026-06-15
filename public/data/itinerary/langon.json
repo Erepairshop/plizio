@@ -137,6 +137,168 @@
         "hu": "Reggel: Kezdje a napját Langonban a gyönyörű Saint-Gervais templom felfedezésével, miközben elmerül a városközpont történelmi hangulatában.\nDél: Tegyen egy frissítő sétát a Parc des Vergers buja zöldjében, amely tökéletes hely a pihenésre, mielőtt továbbindulna Toulenne felé.\nDélután: Fedezze fel a helyi örökséget a Mairie de Toulenne-nél és a bájos Église Saint-Saturnin-nél, élvezve a kisváros csendes, békés légkörét.\nEste: Zárja a gyalogtúrát egy kis aktív szórakozással a New Jump központban, amely nagyszerű lehetőséget kínál a maradék energia levezetésére.",
         "ro": "Dimineață: Începeți ziua în Langon explorând frumoasa Biserică Saint-Gervais, absorbind ambianța istorică a centrului orașului în ritmul propriu.\nPrânz: Bucurați-vă de o plimbare revigorantă prin verdeața luxuriantă din Parc des Vergers, un loc perfect pentru relaxare înainte de a continua.\nDupă-amiază: Descoperiți moștenirea locală la Mairie de Toulenne și fermecătoarea Biserică Saint-Saturnin, bucurându-vă de atmosfera liniștită.\nSeară: Încheiați-vă turul pietonal cu puțină distracție activă la New Jump, oferind o modalitate excelentă de a elibera energia rămasă.",
         "en": "Morning: Start your day in Langon by exploring the beautiful Church of Saint-Gervais, taking in the historical ambiance of the city center.\nMidday: Enjoy a refreshing stroll through the lush greenery of Parc des Vergers, a perfect spot to relax before heading out to Toulenne.\nAfternoon: Discover the local heritage at Mairie de Toulenne and the charming Église Saint-Saturnin, soaking in the quiet atmosphere of the town.\nEvening: Conclude your walking tour with some active fun at New Jump, offering a great way to release remaining energy before dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in der historischen Kirche Saint-Gervais, perfekt um dem frühen Regen zu entfliehen. Mittags machen Sie einen flotten Spaziergang mit Regenschirm durch den Parc des Vergers. Der Nachmittag bietet einen geschützten Besuch der Église Saint-Saturnin, um trocken zu bleiben. Beenden Sie den Regentag abends überdacht im New Jump.",
+            "hu": "Kezdje a reggelt a történelmi Saint-Gervais templomban, amely remek menedék a korai záporok elől. Délben tegyen egy gyors, esernyős sétát a Parc des Vergers-ben, mielőtt Toulenne-be indul. A délutánt a száraz Église Saint-Saturnin védelmében töltheti. Az esős napot este a New Jump fedett trambulinparkjában zárhatja le.",
+            "ro": "Începeți dimineața explorând biserica istorică Saint-Gervais, perfectă pentru a scăpa de ploile timpurii. La prânz, faceți o scurtă plimbare cu umbrela prin Parc des Vergers. După-amiaza oferă o vizită adăpostită la Église Saint-Saturnin pentru a rămâne uscat. Încheiați ziua ploioasă consumând energie la interior la New Jump, pe măsură ce se lasă seara.",
+            "en": "Start your morning exploring the historic Church of Saint-Gervais, perfect for escaping the early showers. By noon, take a brisk, umbrella-covered stroll through Parc des Vergers before heading to Toulenne. The afternoon features a sheltered visit to Église Saint-Saturnin to stay dry. Conclude your rainy day burning energy indoors at New Jump as the evening sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Church of Saint-Gervais",
+                "hu": "Church of Saint-Gervais",
+                "ro": "Church of Saint-Gervais",
+                "en": "Church of Saint-Gervais"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster an grauen Tagen, aber bringen Sie eine wasserdichte Schirmtasche für den Innenraum mit.",
+                "hu": "Csodálja meg az ólomüveg ablakokat, de hozzon vízálló tasakot az esernyőjének a történelmi belső térben.",
+                "ro": "Admirați vitraliile care luminează în zilele gri, dar aduceți o pungă impermeabilă pentru umbrelă în interior.",
+                "en": "Admire the stained glass lighting up even on gray days, but bring a wet umbrella bag to protect the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Vergers",
+                "hu": "Parc des Vergers",
+                "ro": "Parc des Vergers",
+                "en": "Parc des Vergers"
+              },
+              "tip_5lang": {
+                "de": "Die Wege werden bei Regen schnell schlammig, tragen Sie daher robuste, wasserdichte Stiefel für Ihren Spaziergang.",
+                "hu": "Az ösvények esőben gyorsan sarassá válnak, ezért viseljen strapabíró, vízálló csizmát a séta során.",
+                "ro": "Aleile devin repede noroioase pe ploaie, purtați cizme impermeabile în timp ce admirați frunzișul ud.",
+                "en": "The paths turn muddy quickly during rain, so wear sturdy waterproof boots while enjoying the wet foliage."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Toulenne",
+                "hu": "Mairie de Toulenne",
+                "ro": "Mairie de Toulenne",
+                "en": "Mairie de Toulenne"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die klassische Architektur unter den Vordächern des Gebäudes, um bei Regengüssen trocken zu bleiben.",
+                "hu": "Figyelje meg a klasszikus építészetet az épület kiugró tetői alól, hogy teljesen száraz maradjon a záporok alatt.",
+                "ro": "Observați arhitectura clasică de sub streșinile clădirii pentru a rămâne complet uscat în timpul ploilor torențiale.",
+                "en": "Observe the classic architecture from under the building's overhangs to stay completely dry during downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Saturnin",
+                "hu": "Église Saint-Saturnin",
+                "ro": "Église Saint-Saturnin",
+                "en": "Église Saint-Saturnin"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie drinnen Schutz, um die Altardetails zu sehen und den plötzlichen Nachmittagsschauern zu entgehen.",
+                "hu": "Keressen menedéket bent, és csodálja meg az oltár részleteit, miközben elmenekül a hirtelen délutáni záporok elől.",
+                "ro": "Căutați adăpost înăuntru pentru a vedea detaliile altarului, scăpând de aversele bruște de după-amiază.",
+                "en": "Seek shelter inside to view the intricate altar details while escaping the sudden afternoon showers."
+              }
+            },
+            {
+              "name": {
+                "de": "New Jump",
+                "hu": "New Jump",
+                "ro": "New Jump",
+                "en": "New Jump"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Indoor-Aktivität für einen Regentag; tragen Sie rutschfeste Socken für die sichere Nutzung der Trampoline.",
+                "hu": "Tökéletes benti program esős napra; viseljen csúszásgátló zoknit a trambulinok és játékok biztonságos élvezetéhez.",
+                "ro": "Activitate perfectă de interior pe ploaie; purtați șosete antiderapante pentru a vă bucura în siguranță de trambuline.",
+                "en": "Perfect indoor activity for a rainy day; wear non-slip socks to safely enjoy the trampolines and games."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frostigen Morgen in der Kirche Saint-Gervais. Mittags packen Sie sich warm ein für einen Spaziergang durch den Parc des Vergers. Das frühe Nachmittagslicht beleuchtet die Mairie de Toulenne und Église Saint-Saturnin perfekt, bevor die Sonne gegen 17:00 Uhr untergeht. Verbringen Sie den kalten Abend drinnen beim Aufwärmen im New Jump.",
+            "hu": "Kezdje a fagyos reggelt a gyönyörű Saint-Gervais templomban. Délben öltözzön fel melegen egy frissítő sétához a Parc des Vergers csupasz fái között. A kora délutáni fény tökéletesen megvilágítja a Mairie de Toulenne-t és az Église Saint-Saturnin-t, mielőtt 17:00 körül lemenne a nap. A hideg, sötét estét töltse a New Jump benti trambulinjaival melegedve.",
+            "ro": "Începeți dimineața geroasă la frumoasa biserică Saint-Gervais. La prânz, îmbrăcați-vă gros pentru o plimbare prin Parc des Vergers. Lumina de la începutul după-amiezii iluminează perfect Mairie de Toulenne și Église Saint-Saturnin înainte ca soarele să apună în jur de 17:00. Petreceți seara rece și întunecată încălzindu-vă la interior la New Jump.",
+            "en": "Kick off your frosty morning at the beautiful Church of Saint-Gervais. At noon, bundle up for a crisp, quiet walk through the bare trees of Parc des Vergers. The early afternoon light perfectly illuminates the Mairie de Toulenne and Église Saint-Saturnin before the sun sets around 17:00. Spend your cold, dark evening warming up with indoor action at New Jump."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Church of Saint-Gervais",
+                "hu": "Church of Saint-Gervais",
+                "ro": "Church of Saint-Gervais",
+                "en": "Church of Saint-Gervais"
+              },
+              "tip_5lang": {
+                "de": "Das steinerne Innere wird im Winter ziemlich kühl, behalten Sie also Ihre Thermokleidung an, während Sie das Schiff bewundern.",
+                "hu": "A kőbelső télen meglehetősen hűvös, ezért tartsa magán a meleg rétegeket, miközben a főhajót csodálja.",
+                "ro": "Interiorul de piatră este destul de rece iarna, așa că păstrați straturile termice în timp ce admirați naosul.",
+                "en": "The stone interior gets quite chilly in winter, so keep your thermal layers on while admiring the nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Vergers",
+                "hu": "Parc des Vergers",
+                "ro": "Parc des Vergers",
+                "en": "Parc des Vergers"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Frost an den Zweigen, aber tragen Sie gut isolierte Stiefel, da der Boden extrem kalt wird.",
+                "hu": "Élvezze a békés deret az ágakon, de viseljen jól szigetelt csizmát, mivel a talaj rendkívül hideg lesz.",
+                "ro": "Bucurați-vă de gerul de pe ramuri, dar purtați cizme bine izolate, deoarece pământul devine extrem de rece.",
+                "en": "Enjoy the peaceful frost on the branches, but wear well-insulated boots as the ground gets extremely cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Toulenne",
+                "hu": "Mairie de Toulenne",
+                "ro": "Mairie de Toulenne",
+                "en": "Mairie de Toulenne"
+              },
+              "tip_5lang": {
+                "de": "Erwischen Sie das Licht der goldenen Stunde um 15:30 Uhr auf der Fassade vor dem frühen winterlichen Sonnenuntergang.",
+                "hu": "Kapja el az épület homlokzatát megvilágító aranyórás fényeket 15:30-kor a korai téli naplemente előtt.",
+                "ro": "Prindeți lumina orei de aur pe fațadă la 15:30 înainte ca apusul timpuriu de iarnă să întunece orașul.",
+                "en": "Catch the golden hour light hitting the facade at 15:30 before the early winter sunset darkens the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Saturnin",
+                "hu": "Église Saint-Saturnin",
+                "ro": "Église Saint-Saturnin",
+                "en": "Église Saint-Saturnin"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem beißenden Winterwind zu entkommen und die still erhaltene religiöse Architektur zu bewundern.",
+                "hu": "Lépjen be, hogy elmeneküljön a metsző téli szél elől, és csodálja meg a csendes, megőrzött építészetet.",
+                "ro": "Intrați pentru a scăpa de vântul tăios de iarnă și admirați arhitectura religioasă liniștită și bine conservată.",
+                "en": "Step inside to escape the biting winter wind and marvel at the quiet, preserved religious architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "New Jump",
+                "hu": "New Jump",
+                "ro": "New Jump",
+                "en": "New Jump"
+              },
+              "tip_5lang": {
+                "de": "Eine großartige Möglichkeit, die Körpertemperatur an einem kalten Abend zu erhöhen; tragen Sie atmungsaktive Schichten.",
+                "hu": "Remek módja a testhőmérséklet növelésének egy hideg sötét estén; viseljen légáteresztő rétegeket az ugráláshoz.",
+                "ro": "O modalitate excelentă de a vă încălzi într-o seară rece; purtați straturi respirabile pentru sărituri.",
+                "en": "A great way to raise your body temperature on a cold dark evening; dress in breathable layers for jumping."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel: Kezdje kerékpáros utazását Toulenne felé, megcsodálva a helyi Mairie polgári szépségét és az Église Saint-Saturnin megnyugtató csendjét.\nDél: Tekerjen vissza Langon szívébe, hogy meglátogassa a fenséges Saint-Gervais templomot, és álljon meg értékelni építészeti nagyszerűségét.\nDélután: Kerékpározzon a kiterjedt Parc des Vergers felé egy pihentető szünetre, amelyet magas fák és a természet békés hangjai vesznek körül.\nEste: Zárja az utat Saint-Pierre-de-Mons-ban, felfedezve a Mairie-t és a nyugodt Église Saint-Pierre-t, ahogy a nap lassan elkezd lenyugodni.",
         "ro": "Dimineață: Începeți-vă călătoria cu bicicleta spre Toulenne, admirând frumusețea civică a Primăriei locale și calmul Bisericii Saint-Saturnin.\nPrânz: Pedalați înapoi în inima orașului Langon pentru a vizita maiestuoasa Biserică Saint-Gervais, oprindu-vă pentru a aprecia grandoarea ei arhitecturală.\nDupă-amiază: Mergeți spre extinsul Parc des Vergers pentru o pauză relaxantă, înconjurat de copaci înalți și de sunetele pașnice ale naturii locale.\nSeară: Încheiați excursia în Saint-Pierre-de-Mons, explorând Primăria sa și liniștita Biserică Saint-Pierre în timp ce soarele începe încet să apună.",
         "en": "Morning: Kick off your cycling journey heading towards Toulenne, admiring the civic beauty of its local Mairie and the calm of Église Saint-Saturnin.\nMidday: Pedal back into Langon's heart to visit the majestic Church of Saint-Gervais, pausing to appreciate its architectural grandeur.\nAfternoon: Ride towards the expansive Parc des Vergers for a relaxing break, surrounded by tall trees and the peaceful sounds of nature.\nEvening: Conclude the trip in Saint-Pierre-de-Mons, exploring its Mairie and the tranquil Église Saint-Pierre as the sun begins to set."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Radtour an der Mairie de Toulenne und achten Sie auf rutschige Straßen. Mittags finden Sie Schutz in der Kirche Saint-Gervais, bevor Sie dem Regen im Parc des Vergers trotzen. Die Nachmittagsfahrt zur Mairie de Saint-Pierre-de-Mons erfordert gute Regenkleidung. Beenden Sie die Tour geschützt in der Église Saint-Pierre.",
+            "hu": "Kezdje a nedves reggeli tekerést a Mairie de Toulenne-nél, vigyázva a csúszós utakon. Dél körül keressen menedéket a Saint-Gervais templomban, majd dacoljon az esővel a Parc des Vergers-ben. A délutáni Saint-Pierre-de-Mons-i szakaszhoz jó esőkabát kell. Zárja az esős kerékpározást az Église Saint-Pierre oltalma alatt.",
+            "ro": "Începeți dimineața umedă pe bicicletă la Mairie de Toulenne, având grijă pe drumurile alunecoase. La prânz, adăpostiți-vă în uimitoarea biserică Saint-Gervais înainte de a înfrunta ploaia din Parc des Vergers. Pedalarea de după-amiază spre Saint-Pierre-de-Mons necesită o pelerină bună. Încheiați cursa ploioasă refugiindu-vă la Église Saint-Pierre.",
+            "en": "Begin your wet morning cycle at Mairie de Toulenne and Église Saint-Saturnin, taking care on slick roads. Around midday, find shelter inside the stunning Church of Saint-Gervais before braving the rain in Parc des Vergers. The afternoon pedal to Mairie de Saint-Pierre-de-Mons requires a good raincoat. Wrap up your rainy ride taking refuge at Église Saint-Pierre."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Toulenne",
+                "hu": "Mairie de Toulenne",
+                "ro": "Mairie de Toulenne",
+                "en": "Mairie de Toulenne"
+              },
+              "tip_5lang": {
+                "de": "Die gepflasterten Wege in der Nähe werden bei Nässe sehr rutschig, also steigen Sie ab und schieben Sie Ihr Fahrrad.",
+                "hu": "A közeli macskaköves utak nedvesen nagyon csúszóssá válnak, ezért szálljon le, és tolja a kerékpárt az épületnél.",
+                "ro": "Căile pietruite devin foarte alunecoase când sunt ude, așa că descălecați și împingeți bicicleta pentru a vedea clădirea.",
+                "en": "The cobblestone paths nearby get very slippery when wet, so dismount and walk your bike to view the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Saturnin",
+                "hu": "Église Saint-Saturnin",
+                "ro": "Église Saint-Saturnin",
+                "en": "Église Saint-Saturnin"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter Bäumen und gehen Sie hinein, um sich aufzuwärmen und den Altar zu betrachten.",
+                "hu": "Parkolja le kerékpárját a közeli fák alatt, és menjen be melegedni és megszáradni, miközben az oltárt nézi.",
+                "ro": "Parcați bicicleta sub copaci și intrați pentru a vă încălzi și usca în timp ce priviți altarul.",
+                "en": "Park your bike under nearby trees and head inside to warm up and dry off while viewing the altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of Saint-Gervais",
+                "hu": "Church of Saint-Gervais",
+                "ro": "Church of Saint-Gervais",
+                "en": "Church of Saint-Gervais"
+              },
+              "tip_5lang": {
+                "de": "Ein massiver Raum mit hervorragender Akustik bei starkem Regen; bringen Sie ein Handtuch für Ihren Sattel mit.",
+                "hu": "Hatalmas tér, amely kiváló akusztikai élményt nyújt heves esőben; hozzon egy mikroszálas törölközőt az üléshez.",
+                "ro": "Un spațiu masiv oferind o acustică excelentă în timpul ploilor torențiale; aduceți un prosop pentru șa.",
+                "en": "A massive space offering an excellent acoustic experience during heavy rain; bring a microfibre towel for your seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Vergers",
+                "hu": "Parc des Vergers",
+                "ro": "Parc des Vergers",
+                "en": "Parc des Vergers"
+              },
+              "tip_5lang": {
+                "de": "Die Radwege werden voller Pfützen sein, verwenden Sie also Schutzbleche und fahren Sie langsam, um Spritzer zu vermeiden.",
+                "hu": "A kerékpárutak tele lesznek tócsákkal, ezért használjon sárvédőt és lassítson, hogy elkerülje a felcsapódó vizet.",
+                "ro": "Pistele de biciclete vor fi pline de bălți, folosiți apărători de noroi și încetiniți pentru a evita stropirea.",
+                "en": "The cycling paths will be dotted with puddles, so use mudguards and slow down to avoid splashing."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Saint-Pierre-de-Mons",
+                "hu": "Mairie de Saint-Pierre-de-Mons",
+                "ro": "Mairie de Saint-Pierre-de-Mons",
+                "en": "Mairie de Saint-Pierre-de-Mons"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto der Fassade und prüfen Sie Ihre Bremsen bei nassem Wetter, bevor Sie weiterfahren.",
+                "hu": "Készítsen egy gyors fotót a homlokzatról, és ellenőrizze a fékeket a nedves időben, mielőtt továbbtekerne.",
+                "ro": "Faceți o fotografie rapidă a fațadei și verificați-vă frânele pe vreme umedă înainte de a continua cursa.",
+                "en": "Snap a quick photo of the facade and check your brakes in the wet weather before continuing the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich in das ruhige Schiff zurück, um den Nachmittagsschauern zu entgehen, bevor Sie zurückradeln.",
+                "hu": "Húzódjon be a csendes főhajóba, hogy elmeneküljön a délutáni záporok elől, mielőtt visszatekerne a bázisra.",
+                "ro": "Retrageți-vă în naosul liniștit pentru a scăpa de aversele de după-amiază înainte de a pedala înapoi.",
+                "en": "Retreat into the quiet nave to escape the afternoon downpours before cycling back to your base."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihre frostige Morgenfahrt beginnt an der Mairie de Toulenne, warm eingepackt gegen den Wind. Mittags erreichen Sie die Kirche Saint-Gervais und radeln durch den Parc des Vergers. Wenn die Schatten nachmittags länger werden, erreichen Sie Mairie de Saint-Pierre-de-Mons. Beenden Sie die Tour bis 17:00 Uhr in der Église Saint-Pierre vor Einbruch der Dunkelheit.",
+            "hu": "A fagyos reggeli tekerés a Mairie de Toulenne-nél kezdődik, melegen bebugyolálva a szél ellen. A dél a Saint-Gervais templomhoz és egy frissítő szakaszhoz visz a Parc des Vergers-ben. Ahogy a délutáni árnyékok gyorsan nyúlnak, érje el Saint-Pierre-de-Mons-t. Fejezze be a túrát 17:00 előtt az Église Saint-Pierre-nél a sötétedés előtt.",
+            "ro": "Cursa matinală geroasă începe la Mairie de Toulenne, îmbrăcați bine împotriva vântului. Prânzul vă aduce la biserica Saint-Gervais și la o pedalare revigorantă prin Parc des Vergers. Pe măsură ce umbrele se lungesc, ajungeți la Mairie de Saint-Pierre-de-Mons. Terminați până la 17:00 la Église Saint-Pierre înainte de a se întuneca.",
+            "en": "Your frosty morning ride kicks off at Mairie de Toulenne and Église Saint-Saturnin, wrapped up warmly against the wind. Midday brings you to the grand Church of Saint-Gervais and a brisk pedal through Parc des Vergers. As afternoon shadows lengthen quickly, reach Mairie de Saint-Pierre-de-Mons. Finish by 17:00 at Église Saint-Pierre before darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Toulenne",
+                "hu": "Mairie de Toulenne",
+                "ro": "Mairie de Toulenne",
+                "en": "Mairie de Toulenne"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft ist beißend, tragen Sie dicke Handschuhe am Lenker, während Sie das Rathaus bewundern.",
+                "hu": "A téli reggeli levegő metsző, ezért viseljen vastag kesztyűt a kormány fogásához, miközben a városházát csodálja.",
+                "ro": "Aerul dimineții de iarnă este tăios, purtați mănuși groase pe ghidon în timp ce admirați primăria.",
+                "en": "Winter morning air is biting, so wear thick gloves while handling your handlebars and admiring the town hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Saturnin",
+                "hu": "Église Saint-Saturnin",
+                "ro": "Église Saint-Saturnin",
+                "en": "Église Saint-Saturnin"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie ab und wärmen Sie Ihre Hände in dieser historischen Kirche, um sich vom eisigen Gegenwind zu erholen.",
+                "hu": "Szálljon le a nyeregből, és melegítse meg a kezét ebben a történelmi templomban a fagyos szembeszél után.",
+                "ro": "Coborâți din șa și încălziți-vă mâinile în această biserică istorică pentru a vă recupera după vântul înghețat.",
+                "en": "Step off the saddle and warm your hands inside this historical church to recover from the freezing headwinds."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of Saint-Gervais",
+                "hu": "Church of Saint-Gervais",
+                "ro": "Church of Saint-Gervais",
+                "en": "Church of Saint-Gervais"
+              },
+              "tip_5lang": {
+                "de": "Die beeindruckenden Steinmauern speichern die Kälte; behalten Sie Ihre Thermoradkleidung bei der Besichtigung an.",
+                "hu": "A lenyűgöző kőfalak megtartják a hideget; tartsa magán a termo kerékpáros ruházatot a belső tér felfedezésekor.",
+                "ro": "Zidurile impresionante de piatră rețin frigul; păstrați echipamentul termic de ciclism în timp ce explorați interiorul.",
+                "en": "The impressive stone walls retain cold; keep your thermal cycling gear on as you explore the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Vergers",
+                "hu": "Parc des Vergers",
+                "ro": "Parc des Vergers",
+                "en": "Parc des Vergers"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten freie Sicht, aber achten Sie auf versteckte Eisflächen auf schattigen Radwegen.",
+                "hu": "A csupasz téli fák akadálytalan kilátást nyújtanak, de ügyeljen a rejtett jégfoltokra az árnyékos kerékpárutakon.",
+                "ro": "Copacii goi de iarnă oferă vederi neobstrucționate, dar atenție la peticele ascunse de gheață de pe pistele umbrite.",
+                "en": "The bare winter trees offer unobstructed views, but watch out for hidden ice patches on the shaded cycle paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Saint-Pierre-de-Mons",
+                "hu": "Mairie de Saint-Pierre-de-Mons",
+                "ro": "Mairie de Saint-Pierre-de-Mons",
+                "en": "Mairie de Saint-Pierre-de-Mons"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Nachmittagslicht fällt um 15:30 Uhr perfekt; stellen Sie sicher, dass Ihre Fahrradlichter bereit sind.",
+                "hu": "Az arany délutáni fény tökéletesen esik 15:30 körül; gondoskodjon róla, hogy a kerékpárlámpák készen álljanak.",
+                "ro": "Lumina aurie a după-amiezii cade perfect în jur de 15:30; asigurați-vă că luminile bicicletei sunt pregătite.",
+                "en": "The golden afternoon light hits perfectly around 15:30; ensure your bike lights are ready for dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die ruhige Winteratmosphäre im Inneren und schalten Sie Ihre Lichter vor der Dämmerung um 17:00 Uhr ein.",
+                "hu": "Fedezze fel a csendes téli hangulatot bent, és kapcsolja be a lámpákat a korai, 17:00 órai szürkület előtt.",
+                "ro": "Explorați atmosfera liniștită de iarnă din interior și aprindeți luminile bicicletei înainte de amurgul de la 17:00.",
+                "en": "Explore the quiet winter atmosphere inside and turn on your bike lights before the early 17:00 twilight hits."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Reggel: Kezdje festői autózását Langon központjában, a Saint-Gervais templomnál, amelyet egy gyors séta követ a gyönyörű Parc des Vergers-ben.\nDél: Vezessen kényelmesen Saint-Pierre-de-Mons felé, ahol a közelben parkolhat, és megcsodálhatja az Église Saint-Pierre történelmi jelentőségét.\nDélután: Autózzon a lenyűgöző Château de Respide felé, elmerülve a régió gazdag történelmében és gyönyörű, gondozott szőlőskertjeinek látványában.\nEste: Zárja autós túráját a Sictom modern természetvédelmi területének meglátogatásával, amely egyedülálló perspektívát nyújt a környezetvédelmi erőfeszítésekre.",
         "ro": "Dimineață: Începeți plimbarea pitorească chiar în centrul orașului Langon, la Biserica Saint-Gervais, urmată de o scurtă plimbare în frumosul Parc des Vergers.\nPrânz: Conduceți confortabil până la Saint-Pierre-de-Mons, unde puteți parca în apropiere și admira importanța istorică a Bisericii Saint-Pierre.\nDupă-amiază: Îndreptați-vă spre uimitorul Château de Respide, cufundându-vă în istoria bogată și în peisajele frumoase ale podgoriilor din regiune.\nSeară: Terminați turul cu mașina vizitând rezervația naturală modernă de la Sictom, oferind o perspectivă unică asupra eforturilor ecologice actuale.",
         "en": "Morning: Start your scenic drive right in the center of Langon at the Church of Saint-Gervais, followed by a quick walk in the beautiful Parc des Vergers.\nMidday: Drive comfortably to Saint-Pierre-de-Mons, where you can park nearby and admire the historical and religious significance of Église Saint-Pierre.\nAfternoon: Cruise towards the stunning Château de Respide, immersing yourself in the rich history and beautiful vineyard landscapes of the region.\nEvening: Finish your driving tour by visiting the modern natural reserve area at Sictom, offering a unique perspective on environmental efforts."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Fahrt zur Kirche Saint-Gervais und eilen Sie mit Schirm zur Tür. Mittags trotzen Sie dem Nieselregen im Parc des Vergers vor der sicheren Fahrt zur Église Saint-Pierre. Der Nachmittag bietet einen nassen Blick auf das Château de Respide. Beenden Sie den Abend sicher am Bassin-Rückhaltebecken.",
+            "hu": "Kezdje az esős autózást a Saint-Gervais templomnál, esernyővel sietve a bejárathoz. Délben dacoljon a szitálással a Parc des Vergers-ben, majd vezessen biztonságosan az Église Saint-Pierre-hez. A délután a Château de Respide fenséges, eső áztatta látványát kínálja. Zárja az estét a Bassin víztározó óvatos megközelítésével.",
+            "ro": "Începeți plimbarea ploioasă conducând spre biserica Saint-Gervais, grăbindu-vă cu umbrela. La prânz, înfruntați burnița din Parc des Vergers înainte de a conduce spre Église Saint-Pierre. După-amiaza oferă o vedere ploioasă a Château de Respide. Încheiați seara navigând în siguranță spre bazinul de retenție.",
+            "en": "Start your rainy drive heading to the Church of Saint-Gervais, rushing from car to door with an umbrella. At noon, brave the drizzle in Parc des Vergers before driving safely to Église Saint-Pierre. The afternoon features a majestic, rain-soaked view of Château de Respide. Conclude your evening safely navigating to the Bassin retention site."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Church of Saint-Gervais",
+                "hu": "Church of Saint-Gervais",
+                "ro": "Church of Saint-Gervais",
+                "en": "Church of Saint-Gervais"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um Regen zu vermeiden, und bringen Sie einen Schirmständer mit, um das Auto trocken zu halten.",
+                "hu": "Parkoljon közel a bejárathoz, hogy minimalizálja az esőt, és vigyen vízálló tokot, hogy az autó száraz maradjon.",
+                "ro": "Parcați aproape de intrare pentru a minimiza expunerea la ploaie și aduceți o pungă pentru umbrelă pentru a menține mașina uscată.",
+                "en": "Park close to the entrance to minimize rain exposure and bring a wet umbrella stand to keep the car dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Vergers",
+                "hu": "Parc des Vergers",
+                "ro": "Parc des Vergers",
+                "en": "Parc des Vergers"
+              },
+              "tip_5lang": {
+                "de": "Bewahren Sie wasserdichte Stiefel im Kofferraum auf, um die schlammigen Wege zu erkunden, ohne die Fußmatten zu ruinieren.",
+                "hu": "Tartson egy pár vízálló csizmát a csomagtartóban, hogy sármentesen fedezze fel az utakat, védve az autószőnyegeket.",
+                "ro": "Păstrați o pereche de cizme impermeabile în portbagaj pentru a explora rapid aleile noroioase fără a strica covorașele mașinii.",
+                "en": "Keep a pair of waterproof boots in the trunk to quickly swap and explore the muddy paths without ruining car mats."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch die engen, nassen Straßen und suchen Sie Zuflucht im Schiff, wenn starke Schauer aufziehen.",
+                "hu": "Vezessen óvatosan a szűk nedves utcákon, és keressen menedéket a csendes főhajóban a heves záporok idején.",
+                "ro": "Conduceți cu grijă pe străzile înguste și ude și căutați refugiu în naosul liniștit pe măsură ce trec aversele grele.",
+                "en": "Drive carefully around the narrow wet streets and seek refuge in the quiet nave as heavy showers pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Respide",
+                "hu": "Château de Respide",
+                "ro": "Château de Respide",
+                "en": "Château de Respide"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Steine und nebligen Weinberge sehen fantastisch aus; kurbeln Sie das Fenster für ein Foto herunter.",
+                "hu": "A nedves kő és a ködös szőlőbirtok lenyűgözően néz ki; húzza le az ablakot egy fotóhoz anélkül, hogy elázna.",
+                "ro": "Piatra udă și fundalul cețos al podgoriei arată incredibil; coborâți geamul pentru o fotografie fără a vă uda.",
+                "en": "The wet stone and foggy vineyard backdrop look incredible; roll down the window for a photo without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Bassin retention eau plateforme compostage Sictom Sud Gironde",
+                "hu": "Bassin retention eau plateforme compostage Sictom Sud Gironde",
+                "ro": "Bassin retention eau plateforme compostage Sictom Sud Gironde",
+                "en": "Bassin retention eau plateforme compostage Sictom Sud Gironde"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen können große Wasserlachen aufweisen, fahren Sie langsam, um Aquaplaning im Dunkeln zu vermeiden.",
+                "hu": "A megközelítési utakon nagy tócsák alakulhatnak ki, vezessen lassan, hogy elkerülje az aquaplaninget a sötétben.",
+                "ro": "Drumurile de acces pot avea bălți mari de apă, așa că conduceți încet pentru a evita acvaplanarea pe întuneric.",
+                "en": "The approach roads can get heavily pooled with water, so drive slowly to avoid aquaplaning in the dark."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Winterfahrt beginnt an der großen Kirche Saint-Gervais. Mittags spazieren Sie kalt durch den Parc des Vergers, bevor Sie im geheizten Auto zur Église Saint-Pierre fahren. Verbringen Sie den kurzen Nachmittag am majestätischen Château de Respide. Wenn es um 17:00 Uhr dunkel wird, fahren Sie vorsichtig zum Rückhaltebecken.",
+            "hu": "A fagyos téli autózás a fenséges Saint-Gervais templomnál indul. A dél egy friss, hideg sétát kínál a Parc des Vergers-ben, mielőtt a fűtött autóval az Église Saint-Pierre felé venné az irányt. A rövid délutánt a Château de Respide csodálatával töltheti. Ahogy 17:00 körül sötétedik, vezessen óvatosan a Bassin víztározóhoz.",
+            "ro": "O plimbare geroasă de iarnă începe la biserica Saint-Gervais. Prânzul oferă o plimbare rece prin Parc des Vergers înainte de a vă retrage la căldura mașinii spre Église Saint-Pierre. Petreceți scurta după-amiază admirând maiestuosul Château de Respide. Pe măsură ce se întunecă în jur de 17:00, conduceți cu atenție spre bazinul de retenție.",
+            "en": "A frosty winter drive starts at the grand Church of Saint-Gervais. Midday offers a brisk, cold walk through Parc des Vergers before retreating to the car's heater and heading to Église Saint-Pierre. Spend the short afternoon admiring the majestic Château de Respide. As darkness falls around 17:00, carefully drive to the Bassin retention site."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Church of Saint-Gervais",
+                "hu": "Church of Saint-Gervais",
+                "ro": "Church of Saint-Gervais",
+                "en": "Church of Saint-Gervais"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie Ihren dicken Wintermantel an, wenn Sie das Auto verlassen, da dem großen Kirchenschiff die Heizung fehlt.",
+                "hu": "Tartsa magán a vastag télikabátot, amikor elhagyja a meleg autót, mivel a hatalmas templombelsőből hiányzik a fűtés.",
+                "ro": "Păstrați paltonul gros de iarnă când părăsiți mașina, deoarece vastul interior al bisericii nu are încălzire centrală.",
+                "en": "Keep your thick winter coat on when leaving the warm car, as the vast church interior lacks central heating."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Vergers",
+                "hu": "Parc des Vergers",
+                "ro": "Parc des Vergers",
+                "en": "Parc des Vergers"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gefrorenen Baumreihen, aber halten Sie eine Thermoskanne mit heißem Tee im Auto bereit, um sich aufzuwärmen.",
+                "hu": "Élvezze a fagyott fasorokat, de várja egy termosz forró tea az autóban, hogy utána felmelegítse a kezét.",
+                "ro": "Bucurați-vă de rândurile de copaci înghețați, dar lăsați un termos cu ceai în mașină pentru a vă încălzi mâinile după.",
+                "en": "Enjoy the frosted tree lines, but have a thermos of hot tea waiting in the car to warm up your hands afterward."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie an frostigen Morgen auf Glatteis auf den ländlichen Straßen und parken Sie an sonnigen Plätzen.",
+                "hu": "Fagyos reggeleken ügyeljen a fekete jégre a környező vidéki utakon, és próbáljon napos helyen parkolni.",
+                "ro": "Atenție la gheața neagră de pe drumurile rurale în timpul dimineților geroase și parcați în locuri însorite.",
+                "en": "Watch out for black ice on the surrounding rural roads during freezing mornings and park in sunny spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Respide",
+                "hu": "Château de Respide",
+                "ro": "Château de Respide",
+                "en": "Château de Respide"
+              },
+              "tip_5lang": {
+                "de": "Die winterlichen Weinberge wirken wunderschön kahl; besuchen Sie sie vor 16:00 Uhr, um das Nachmittagslicht für Fotos einzufangen.",
+                "hu": "A téli szőlőbirtokok gyönyörűen csupaszok; látogasson el 16:00 előtt, hogy elkapja a halványuló délutáni fényt a fotózáshoz.",
+                "ro": "Podgoriile de iarnă arată frumos și auster; vizitați înainte de 16:00 pentru a prinde lumina slabă a după-amiezii pentru poze.",
+                "en": "The winter vineyards look beautifully stark; visit before 16:00 to catch the fading afternoon light for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Bassin retention eau plateforme compostage Sictom Sud Gironde",
+                "hu": "Bassin retention eau plateforme compostage Sictom Sud Gironde",
+                "ro": "Bassin retention eau plateforme compostage Sictom Sud Gironde",
+                "en": "Bassin retention eau plateforme compostage Sictom Sud Gironde"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht sinkt nach Sonnenuntergang um 17:00 Uhr stark; nutzen Sie das Fernlicht auf leeren Zufahrtsstraßen sicher.",
+                "hu": "A látótávolság 17:00 után meredeken csökken; használja biztonságosan a távolsági fényszórókat az üres megközelítési utakon.",
+                "ro": "Vizibilitatea scade brusc după apusul de la 17:00; folosiți faza lungă în siguranță pe drumurile de acces goale.",
+                "en": "Visibility drops sharply after the 17:00 winter sunset; use high beams on empty approach roads safely."
+              }
+            }
+          ]
+        }
       }
     }
   }

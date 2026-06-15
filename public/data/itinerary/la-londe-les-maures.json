@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a nyüzsgő Miramar kikötőben. Kövesse a part menti ösvényeket a tágas l'Argentière strandig. Délben a csendes Plage des Salins kínál remek pihenési lehetőséget. A délutánt a Plage du Pentagone felfedezésével töltheti. Zárja a napot egy kellemes naplementés sétával a Plage du Mérou békés homokján.",
         "ro": "Începeți dimineața în portul animat Miramar. Urmați potecile de coastă spre est până la plaja l'Argentière. La prânz, ajungeți la liniștita Plage des Salins pentru o odihnă binemeritată. Petreceți după-amiaza explorând Plage du Pentagone. Încheiați ziua cu o plimbare relaxantă la apus pe nisipurile pașnice de la Plage du Mérou.",
         "en": "Start your morning at the bustling Port de Miramar. Follow the scenic coastal paths east to the expansive Plage de l'Argentière. Midday brings you to the tranquil Plage des Salins for a well-deserved rest. Spend the afternoon exploring Plage du Pentagone. Conclude your day with a relaxing sunset walk along the peaceful sands of Plage du Mérou."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Hafen, wo die überdachten Arkaden Schutz vor dem Nieselregen bieten. Mittags folgen wir dem Küstenpfad; achten Sie auf rutschige Steine und die Gischt der stürmischen See. Am Nachmittag zeigen sich die Strände in mystischem Grau, ideal für wetterfeste Entdecker. Der Abend klingt gemütlich in Stadtnähe aus, während der Regen die Pinienwälder intensiv duften lässt.",
+            "hu": "A reggel a kikötőben indul, ahol a vízparti kávézók teraszai nyújtanak menedéket a szemerkélő eső elől. Délben a part menti ösvényen haladunk tovább, figyelve a csúszós szakaszokra és a tenger morajlására. Délután a homokos partok vadregényes arcukat mutatják a szürke ég alatt. Az estére visszatérünk a városba, ahogy az eső áztatja a pálmákat; a tenger illata ilyenkor a legintenzívebb.",
+            "ro": "Dimineața începe în port, unde arcadele acoperite oferă adăpost împotriva burniței. La prânz urmăm poteca de coastă; atenție la pietrele alunecoase și la spuma mării agitate. După-amiaza, plajele își arată fața mistică sub cerul gri, ideală pentru exploratorii echipați corespunzător. Seara se încheie plăcut aproape de oraș, în timp ce ploaia face ca pădurile de pini să miroasă intens.",
+            "en": "The morning starts at the harbor, where covered walkways provide shelter from the drizzle. At noon, we follow the coastal path; watch out for slippery sections and the spray of the stormy sea. In the afternoon, the beaches show their wild side under the grey sky, perfect for waterproof explorers. The evening ends cozily near town as the rain makes the pine forests smell incredibly fresh."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port de Miramar",
+                "hu": "Port de Miramar",
+                "ro": "Port de Miramar",
+                "en": "Port de Miramar"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie das Treiben der Boote vom Schutz der Hafenmauer aus; tragen Sie rutschfeste Schuhe, da die Kais bei Regen sehr glatt werden können.",
+                "hu": "Figyelje a hajók táncát a kikötői móló védett részeiről; viseljen csúszásmentes lábbelit, mert a rakpart kövei az esőtől rendkívül síkossá válnak.",
+                "ro": "Observați mișcarea barcii din protecția zidului portului; purtați încălțăminte antiderapantă, deoarece cheiurile pot deveni foarte alunecoase la ploaie.",
+                "en": "Watch the boat traffic from the shelter of the harbor walls; wear non-slip shoes as the quays can become very slippery when wet from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de l'Argentière",
+                "hu": "Plage de l'Argentière",
+                "ro": "Plage de l'Argentière",
+                "en": "Plage de l'Argentière"
+              },
+              "tip_4lang": {
+                "de": "Ein Spaziergang am Flutsaum ist jetzt besonders belebend; nutzen Sie einen stabilen Regenschirm, da der Wind hier an der offenen Küste stark wehen kann.",
+                "hu": "A part menti séta most különösen frissítő; használjon strapabíró esernyőt, mert a nyílt parton a szél könnyen belekaphat a gyengébb szerkezetekbe.",
+                "ro": "O plimbare pe malul mării este acum revigorantă; folosiți o umbrelă rezistentă, deoarece vântul poate sufla cu putere aici, pe coasta deschisă.",
+                "en": "A walk along the shoreline is particularly invigorating now; use a sturdy umbrella as the wind can blow quite strongly here on the open coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Salins",
+                "hu": "Plage des Salins",
+                "ro": "Plage des Salins",
+                "en": "Plage des Salins"
+              },
+              "tip_4lang": {
+                "de": "Die Salzpfannen wirken bei Regen fast unwirklich; halten Sie die Kamera unter einer Schutzhülle, um die dramatische Lichtstimmung sicher einzufangen.",
+                "hu": "A sólepárlók látványa esőben egészen földöntúli; tartsa a fényképezőgépet tokban, hogy biztonságban örökíthesse meg a drámai szürke fényeket.",
+                "ro": "Salinele par aproape ireale în ploaie; păstrați camera sub o husă de protecție pentru a surprinde în siguranță atmosfera dramatică a luminii.",
+                "en": "The salt marshes look almost ethereal in the rain; keep your camera under a protective cover to safely capture the dramatic lighting conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Pentagone",
+                "hu": "Plage du Pentagone",
+                "ro": "Plage du Pentagone",
+                "en": "Plage du Pentagone"
+              },
+              "tip_4lang": {
+                "de": "Suchen Sie unter den Pinien kurzzeitig Schutz bei stärkeren Güssen; die dichten Nadeln wirken wie ein natürliches Dach gegen den warmen Sommerregen.",
+                "hu": "Erősebb zápor esetén keressen menedéket a fenyők alatt; a sűrű tűlevelek természetes tetőként védenek az áztató, mégis meleg nyári eső elől.",
+                "ro": "Căutați adăpost sub pini în timpul averselor mai puternice; acele dese acționează ca un acoperiș natural împotriva ploii calde de vară.",
+                "en": "Seek temporary shelter under the pine trees during heavier showers; the dense needles act as a natural roof against the warm summer rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Mérou",
+                "hu": "Plage du Mérou",
+                "ro": "Plage du Mérou",
+                "en": "Plage du Mérou"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die Einsamkeit am Strandende; eine hochwertige Regenjacke ist hier Pflicht, um die raue Schönheit der Natur trocken zu erleben.",
+                "hu": "Élvezze a strandvégi magányt a viharos tenger mellett; egy jó esőkabát kötelező, hogy szárazon élvezhesse a természet vad és nyers szépségét.",
+                "ro": "Bucurați-vă de singurătatea de la capătul plajei; o jachetă de ploaie de calitate este obligatorie pentru a experimenta frumusețea naturii.",
+                "en": "Enjoy the solitude at the end of the beach; a high-quality raincoat is a must here to experience the raw beauty of nature while staying dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Winterluft empfängt uns am Hafen, wo die tiefstehende Sonne das Wasser glitzern lässt. Mittags wandern wir an den windgeschützten Dünen entlang; die milde Wärme ist perfekt für eine Rast. Am Nachmittag erleben wir die Stille der leeren Strände in goldenem Licht. Da es gegen 17:00 Uhr dunkel wird, beenden wir den Tag früh bei einem wärmenden Getränk im Ortskern.",
+            "hu": "Friss, tiszta téli levegő fogad a kikötőben, a napsütés ellenére szükség lesz a meleg kabátra. Délben a dűnék között sétálunk, ahol a szélvédett részeken kellemes a pihenés. Délután a kihalt strandok végtelen nyugalmat árasztanak a súroló fényekben. Mivel öt óra körül sötétedik, a napot korán, egy forró ital mellett zárjuk a faluban.",
+            "ro": "Aerul proaspăt de iarnă ne întâmpină în port, unde soarele de joasă altitudine face apa să sclipească. La prânz ne plimbăm de-a lungul dunelor ferite de vânt. După-amiaza experimentăm liniștea plajelor goale în lumina aurie. Deoarece se întunecă în jurul orei 17:00, încheiem ziua devreme cu o băutură caldă în centrul orașului.",
+            "en": "Crisp winter air greets us at the harbor, where the low sun makes the water sparkle beautifully. At noon, we hike along the wind-sheltered dunes; the mild warmth is perfect for a break. In the afternoon, we experience the silence of the empty beaches in golden light. As it gets dark around 17:00, we end the day early with a warming drink in the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port de Miramar",
+                "hu": "Port de Miramar",
+                "ro": "Port de Miramar",
+                "en": "Port de Miramar"
+              },
+              "tip_4lang": {
+                "de": "Die klare Winterluft bietet Fernsicht bis zu den Inseln; tragen Sie eine winddichte Schicht, da die Brise vom Meer her empfindlich kühl sein kann.",
+                "hu": "A tiszta téli levegőben ellátni egészen a távoli szigetekig; viseljen szélálló réteget, mert a tenger felől érkező fuvallat meglepően hűvös lehet.",
+                "ro": "Aerul limpede de iarnă oferă vizibilitate până la insule; purtați un strat rezistent la vânt, deoarece briza mării poate fi destul de rece.",
+                "en": "The clear winter air offers views all the way to the islands; wear a windproof layer as the breeze from the sea can be quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de l'Argentière",
+                "hu": "Plage de l'Argentière",
+                "ro": "Plage de l'Argentière",
+                "en": "Plage de l'Argentière"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie das milde Mittagslicht für Fotos ohne Touristenmassen; eine Thermoskanne mit Tee macht die Pause im Sand zu einem warmen Highlight.",
+                "hu": "Használja ki a lágy déli fényeket a tömeg nélküli fotózáshoz; egy termosz meleg tea igazi fényponttá teszi a homokban töltött pihenőt.",
+                "ro": "Profită de lumina blândă de la prânz pentru fotografii fără turiști; un termos cu ceai face pauza pe nisip un moment cu adevărat călduros.",
+                "en": "Take advantage of the mild midday light for photos without the crowds; a thermos of tea makes your break on the sand a warm highlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Salins",
+                "hu": "Plage des Salins",
+                "ro": "Plage des Salins",
+                "en": "Plage des Salins"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie die Wintervögel, die in den ruhigen Gewässern rasten; bringen Sie ein Fernglas mit und schützen Sie Ihre Hände mit dünnen Handschuhen.",
+                "hu": "Figyelje meg a csendes vizeken pihenő téli madárvilágot; hozzon magával távcsövet, és védje kezeit vékony kesztyűvel a hideg szél ellen.",
+                "ro": "Observați păsările de iarnă care se odihnesc în apele liniștite; aduceți binoclu și protejați-vă mâinile cu mănuși subțiri împotriva vântului.",
+                "en": "Observe the winter birds resting in the calm waters; bring binoculars and protect your hands with thin gloves against the biting breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Pentagone",
+                "hu": "Plage du Pentagone",
+                "ro": "Plage du Pentagone",
+                "en": "Plage du Pentagone"
+              },
+              "tip_4lang": {
+                "de": "Die tiefstehende Sonne zaubert lange Schatten auf den Strand; planen Sie Ihren Besuch vor 16:00 Uhr, um die letzte natürliche Wärme zu genießen.",
+                "hu": "A lemenő nap hosszú árnyékokat fest a homokba; tervezze látogatását délután négy előtt, hogy kiélvezhesse az utolsó természetes melengető sugarakat.",
+                "ro": "Soarele de joasă altitudine creează umbre lungi pe plajă; planifică vizita înainte de ora 16:00 pentru a te bucura de ultima căldură naturală.",
+                "en": "The low sun casts long shadows on the beach; plan your visit before 16:00 to enjoy the last bit of natural warmth from the sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Mérou",
+                "hu": "Plage du Mérou",
+                "ro": "Plage du Mérou",
+                "en": "Plage du Mérou"
+              },
+              "tip_4lang": {
+                "de": "Erleben Sie den Sonnenuntergang am Horizont; kehren Sie zügig um, sobald die Sonne weg ist, da die Temperaturen im Winter dann rapide sinken.",
+                "hu": "Csodálja meg a horizonton lebukó napot; amint eltűnik a fény, induljon vissza, mert télen ilyenkor percek alatt bezuhan a hőmérséklet.",
+                "ro": "Experimentați apusul la orizont; întoarceți-vă rapid imediat ce soarele apune, deoarece temperaturile scad brusc iarna în acele momente.",
+                "en": "Experience the sunset on the horizon; turn back quickly once the sun is gone, as winter temperatures drop very rapidly after dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a trópusi állatkertnél. Tekerjen a Miramar kikötőhöz egy rövid pihenőre. Délre eléri a l'Argentière strand széles homokját. Haladjon nyugatra a festői Plage des Salins felé. A délutánt a csendes Plage de la Marquise felé tekerve tölti, végül a bájos Plage de l'Ayguade közelében fejezi be a túrát.",
         "ro": "Începeți turul cu bicicleta la grădina zoologică tropicală. Pedalați ușor spre portul Miramar pentru o pauză plăcută. Până la prânz veți ajunge la plaja l'Argentière. Mergeți spre vest pe coastă până la pitoreasca Plage des Salins. După-amiaza continuă spre liniștita Plage de la Marquise, terminând călătoria la Plage de l'Ayguade.",
         "en": "Kick off your cycling tour at the tropical zoo. Pedal smoothly to Port de Miramar for a lovely harbor break. By midday, you'll reach the wide sands of Plage de l'Argentière. Ride west along the coast to the scenic Plage des Salins. Your afternoon continues towards the quiet Plage de la Marquise, ending the journey near the charming Plage de l'Ayguade."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet im Tropengarten, der ein perfektes grünes Dach bietet. Danach geht es über befestigte Wege am Hafen vorbei, wo wir die Gischt spüren. Mittags radeln wir vorsichtig entlang der Salzwiesen; die Wege können schlammig sein. Am Nachmittag suchen wir Schutz in Küstennähe, bevor wir die Tour im Regen beenden. Tragen Sie unbedingt eine Regenhose.",
+            "hu": "A biciklitúra a trópusi kertben indul, melynek buja növényzete természetes esővédőként szolgál. Ezután aszfaltozott utakon haladunk a kikötő felé. Délben óvatosan tekerünk a sólepárlók mellett, ahol az utak sarasabbak lehetnek. Délután a part menti fedett részeken pihenünk, majd az esőben fejezzük be a kört. Vízálló nadrág használata erősen ajánlott.",
+            "ro": "Turul cu bicicleta începe în grădina tropicală, care oferă un acoperiș verde perfect. Apoi mergem pe poteci pavate pe lângă port. La prânz pedalăm cu atenție de-a lungul mlaștinilor sărate; potecile pot fi noroioase. După-amiaza căutăm adăpost lângă coastă înainte de a termina turul în ploaie. Purtați neapărat pantaloni de ploaie.",
+            "en": "The bike tour starts at the tropical garden, which offers a perfect green canopy. Then we ride on paved paths past the harbor, feeling the sea spray. At noon, we pedal carefully along the salt marshes; paths can be muddy. In the afternoon, we seek shelter near the coast before finishing the tour in the rain. Make sure to wear waterproof trousers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tropischer Zoologischer Garten",
+                "hu": "Trópusi Állatkert",
+                "ro": "Grădina Zoologică Tropicală",
+                "en": "Tropical Zoological Garden"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die dichte Vegetation als natürlichen Schirm; stellen Sie Ihr Fahrrad unter einem Vordach ab, um den Sattel für die Weiterfahrt trocken zu halten.",
+                "hu": "Használja a sűrű növényzetet természetes ernyőként; parkoljon fedett helyre, hogy a nyereg száraz maradjon a túra következő szakaszára.",
+                "ro": "Folosiți vegetația densă ca umbrelă naturală; parcați bicicleta sub o copertină pentru a păstra șaua uscată pentru continuarea drumului.",
+                "en": "Use the dense vegetation as a natural umbrella; park your bike under a canopy to keep the saddle dry for the rest of your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Miramar",
+                "hu": "Port de Miramar",
+                "ro": "Port de Miramar",
+                "en": "Port de Miramar"
+              },
+              "tip_4lang": {
+                "de": "Vorsicht beim Fahren auf Holzstegen oder Kopfsteinpflaster; testen Sie Ihre Bremsen regelmäßig, da Nässe den Bremsweg Ihres Rades erheblich verlängert.",
+                "hu": "Vigyázzon a fa pallókon és a macskakövön; tesztelje gyakran a féket, mert a nedvesség jelentősen megnöveli a megálláshoz szükséges utat.",
+                "ro": "Atenție când mergeți pe pasarele de lemn sau pavaj; testați frânele regulat, deoarece umiditatea prelungește considerabil distanța de frânare.",
+                "en": "Be careful when riding on wooden boardwalks or cobblestones; test your brakes regularly, as wetness significantly increases your braking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de l'Argentière",
+                "hu": "Plage de l'Argentière",
+                "ro": "Plage de l'Argentière",
+                "en": "Plage de l'Argentière"
+              },
+              "tip_4lang": {
+                "de": "Meiden Sie tiefe Pfützen, da diese Schlaglöcher verbergen können; ein Satz Schutzbleche am Rad verhindert, dass Schmutzwasser Ihre Kleidung durchnässt.",
+                "hu": "Kerülje a mély tócsákat, mert kátyúkat rejthetnek; a sárvédő használata elengedhetetlen, hogy a felcsapódó víz ne áztassa el teljesen a ruháját.",
+                "ro": "Evitați bălțile adânci, deoarece pot ascunde gropi; un set de aripi la bicicletă previne ca apa murdară să vă ude complet hainele.",
+                "en": "Avoid deep puddles as they can hide potholes; a set of mudguards on your bike will prevent dirty water from soaking your clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Salins",
+                "hu": "Plage des Salins",
+                "ro": "Plage des Salins",
+                "en": "Plage des Salins"
+              },
+              "tip_4lang": {
+                "de": "Der Wind weht hier bei Regen oft böig; halten Sie den Lenker fest umschlossen und verringern Sie das Tempo in Kurven, um nicht wegzurutschen.",
+                "hu": "A szél esőben itt gyakran lökésszerű; fogja szorosan a kormányt, és lassítson a kanyarokban, hogy elkerülje a megcsúszást a nedves talajon.",
+                "ro": "Vântul suflă adesea în rafale aici în timpul ploii; țineți ghidonul strâns și reduceți viteza în curbe pentru a evita alunecarea.",
+                "en": "The wind often blows in gusts here during rain; keep a firm grip on the handlebars and slow down in corners to avoid sliding."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Marquise",
+                "hu": "Plage de la Marquise",
+                "ro": "Plage de la Marquise",
+                "en": "Plage de la Marquise"
+              },
+              "tip_4lang": {
+                "de": "Suchen Sie bei starkem Guss Schutz in den kleinen Strandpavillons; reflektierende Kleidung ist wichtig, damit Autofahrer Sie im Regen besser sehen.",
+                "hu": "Heves esőben húzódjon be a kis strandpavilonok alá; viseljen fényvisszaverő kiegészítőket, hogy az autósok időben észrevegyék a szürkületben.",
+                "ro": "Căutați adăpost în pavilioanele mici de pe plajă în caz de ploaie torențială; hainele reflectorizante sunt importante pentru vizibilitate.",
+                "en": "Seek shelter in the small beach pavilions during heavy downpours; reflective clothing is important so that drivers can see you better in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de l'Ayguade",
+                "hu": "Plage de l'Ayguade",
+                "ro": "Plage de l'Ayguade",
+                "en": "Plage de l'Ayguade"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie die Tour zügig und trocknen Sie Ihre Kette direkt nach der Fahrt ab, um Rostbildung durch das salzhaltige Regenwasser zu vermeiden.",
+                "hu": "A túra után minél előbb törölje szárazra a kerékpárláncot, hogy megelőzze a sós esővíz okozta rozsdásodást és az alkatrészek károsodását.",
+                "ro": "Încheiați turul rapid și uscați lanțul imediat după cursă pentru a evita ruginirea cauzată de apa de ploaie sărată de la malul mării.",
+                "en": "Finish the tour promptly and dry your chain immediately after the ride to prevent rust caused by the salty rainwater from the sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten die Wintertour am Tropengarten, wo die Gewächshäuser angenehm warm sind. Auf dem Radweg am Meer entlang weht eine frische Brise, die warme Handschuhe nötig macht. Mittags genießen wir die Sonne an den geschützten Strandabschnitten. Nachmittags radeln wir durch die Pinienwälder, während das Licht golden wird. Beenden Sie die Tour vor 17:00 Uhr, bevor es frostig wird.",
+            "hu": "A téli túrát a trópusi kertnél kezdjük, ahol az üvegházak kellemesen melegek. A tengerparti úton friss szél fúj, így a meleg kesztyű elengedhetetlen. Délben a szélvédett strandokon élvezzük a napsütést. Délután a fenyőerdőkön keresztül tekerünk az aranyló fényekben. A túrát fejezze be délután öt előtt, mielőtt a levegő hirtelen lehűlne.",
+            "ro": "Începem turul de iarnă la grădina tropicală, unde serele sunt plăcut de calde. Pe pista de biciclete de-a lungul mării suflă o briză proaspătă. La prânz ne bucurăm de soare pe secțiunile protejate de plajă. După-amiaza pedalăm prin pădurile de pini, în timp ce lumina devine aurie. Încheiați turul înainte de ora 17:00.",
+            "en": "We start the winter tour at the tropical garden, where the greenhouses are pleasantly warm. Along the seaside bike path, a fresh breeze blows, making warm gloves necessary. At noon, we enjoy the sun at the sheltered beach sections. In the afternoon, we cycle through the pine forests as the light turns golden. Finish the tour before 17:00 before it gets frosty."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tropischer Zoologischer Garten",
+                "hu": "Trópusi Állatkert",
+                "ro": "Grădina Zoologică Tropicală",
+                "en": "Tropical Zoological Garden"
+              },
+              "tip_4lang": {
+                "de": "Wärmen Sie sich in den Tropenhäusern auf, bevor Sie losfahren; die hohe Luftfeuchtigkeit bereitet Ihre Atemwege gut auf die kalte Fahrtluft vor.",
+                "hu": "Melegedjen át a trópusi házakban indulás előtt; a magas páratartalom felkészíti a légutakat a kinti hideg menetszéllel való találkozásra.",
+                "ro": "Încălziți-vă în serele tropicale înainte de a pleca; umiditatea ridicată vă pregătește bine căile respiratorii pentru aerul rece de afară.",
+                "en": "Warm up in the tropical houses before you set off; the high humidity prepares your airways well for the cold air during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Miramar",
+                "hu": "Port de Miramar",
+                "ro": "Port de Miramar",
+                "en": "Port de Miramar"
+              },
+              "tip_4lang": {
+                "de": "Die Cafés am Hafen sind im Winter ruhige Oasen; nutzen Sie die Pause für ein warmes Getränk, um die Körperkerntemperatur stabil zu halten.",
+                "hu": "A kikötői kávézók télen a nyugalom szigetei; használja ki a szünetet egy forró italra, hogy testhőmérsékletét egyensúlyban tartsa a tekeréshez.",
+                "ro": "Cafenelele din port sunt oaze de liniște iarna; folosiți pauza pentru o băutură caldă pentru a menține temperatura corpului stabilă.",
+                "en": "The harbor cafes are oases of peace in winter; use the break for a warm drink to keep your core body temperature stable during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de l'Argentière",
+                "hu": "Plage de l'Argentière",
+                "ro": "Plage de l'Argentière",
+                "en": "Plage de l'Argentière"
+              },
+              "tip_4lang": {
+                "de": "Der Mistral-Wind kann hier stark von der Seite kommen; fahren Sie vorausschauend und halten Sie das Rad stabil gegen plötzliche Böen.",
+                "hu": "A Mistral szél itt gyakran oldalról fúj; tekerjen előrelátóan, és tartsa stabilan a kormányt a hirtelen érkező széllökésekkel szemben.",
+                "ro": "Vântul Mistral poate veni puternic din lateral aici; mergeți cu atenție și țineți bicicleta stabilă împotriva rafalelor bruște.",
+                "en": "The Mistral wind can blow strongly from the side here; ride defensively and keep the bike stable against sudden gusts of winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Salins",
+                "hu": "Plage des Salins",
+                "ro": "Plage des Salins",
+                "en": "Plage des Salins"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf Raureif auf den Wegen am frühen Morgen; im Winter ist der Reifendruck etwas zu senken, um mehr Grip auf glatten Flächen zu haben.",
+                "hu": "Kora reggel figyeljen a zúzmarára az utakon; télen érdemes kicsit lejjebb engedni a guminyomást a jobb tapadás érdekében a csúszós részeken.",
+                "ro": "Atenție la chiciura de pe poteci dimineața devreme; iarna este bine să reduceți puțin presiunea pneurilor pentru o aderență mai bună.",
+                "en": "Watch out for frost on the paths early in the morning; in winter, slightly lower your tire pressure to get more grip on slippery surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Marquise",
+                "hu": "Plage de la Marquise",
+                "ro": "Plage de la Marquise",
+                "en": "Plage de la Marquise"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne steht tief und kann blenden; eine Sonnenbrille ist auch im Winter wichtig, um Hindernisse auf dem Radweg rechtzeitig zu sehen.",
+                "hu": "A téli nap alacsonyan jár és erősen vakíthat; a napszemüveg ilyenkor is fontos, hogy időben észrevegye az úthibákat vagy akadályokat.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor; ochelarii de soare sunt importanți și iarna pentru a vedea obstacolele de pe pistă.",
+                "en": "The winter sun is low and can be blinding; sunglasses are important even in winter to see obstacles on the bike path in time."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de l'Ayguade",
+                "hu": "Plage de l'Ayguade",
+                "ro": "Plage de l'Ayguade",
+                "en": "Plage de l'Ayguade"
+              },
+              "tip_4lang": {
+                "de": "Nach Sonnenuntergang wird es schlagartig kalt; sorgen Sie für eine funktionierende Beleuchtung, falls Sie erst in der Dämmerung zurückkommen.",
+                "hu": "Napnyugta után hirtelen lehűl a levegő; győződjön meg róla, hogy a lámpák jól működnek, ha a szürkületben érne vissza a szálláshelyre.",
+                "ro": "După apusul soarelui se face brusc frig; asigurați-vă că aveți iluminare funcțională dacă vă întoarceți abia la amurg.",
+                "en": "It gets cold suddenly after sunset; ensure your lights are working properly if you happen to return during the winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autózzon fel a Dolmen de Gaoutabry ősi emlékművéhez a csodás reggeli kilátásért. Ezután látogasson el a tekintélyes Château Sainte-Marguerite-be. A delet a trópusi állatkert egzotikus növényeinek és állatainak megcsodálásával töltheti. Később sétáljon a Miramar kikötőben, majd vezessen délre a La Capte partjaihoz, és a Plage Peno-n zárja a napot.",
         "ro": "Conduceți la vechiul Dolmen de Gaoutabry pentru o panoramă matinală uimitoare. Vizitați apoi prestigiul Château Sainte-Marguerite. Prânzul este petrecut admirând flora și fauna exotică la grădina zoologică tropicală. Mai târziu, faceți o plimbare în portul Miramar înainte de a conduce spre plaja La Capte și a termina la Plage Peno.",
         "en": "Drive up to the ancient Dolmen de Gaoutabry for breathtaking morning views. Next, visit the prestigious Château Sainte-Marguerite for a brief stop. Midday is spent admiring exotic flora and fauna at the tropical zoo. Later, take a stroll at Port de Miramar before driving south to the shallow waters of Plage de la Capte, wrapping up at Plage Peno."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour führt uns morgens zu den Dolmen, wo der Wald herrlich nach Regen duftet. Mittags bietet das Weingut Château Sainte-Marguerite den perfekten überdachten Aufenthalt bei einer Verkostung. Nachmittags besuchen wir den Tropengarten, ein ideales Ziel bei Schmuddelwetter. Der Tag endet am Hafen, wo man das Meer bequem aus dem trockenen Auto oder einem Café beobachten kann.",
+            "hu": "Az autós túra reggel a dolmenekhez vezet, ahol az erdő illata esőben a legintenzívebb. Délben a Château Sainte-Marguerite borászat kínál tökéletes fedett programot a borkóstolóval. Délután a trópusi kertet látogatjuk meg, ami ideális célpont borongós időben. A nap a kikötőben zárul, ahol a száraz autóból vagy egy kávézóból csodálhatjuk a vizet.",
+            "ro": "Turul cu mașina ne duce dimineața la dolmene, unde pădurea miroase minunat după ploaie. La prânz, crama Château Sainte-Marguerite oferă sejurul acoperit perfect cu o degustare. După-amiaza vizităm grădina tropicală, o destinație ideală pe vreme urâtă. Ziua se încheie în port, unde puteți urmări marea confortabil din mașina uscată.",
+            "en": "The car tour leads us to the dolmens in the morning, where the forest smells wonderful in the rain. At noon, the Château Sainte-Marguerite winery offers the perfect indoor stay for a tasting. In the afternoon, we visit the tropical garden, an ideal destination for rainy weather. The day ends at the harbor, where you can watch the sea comfortably from your dry car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dolmen de Gaoutabry",
+                "hu": "Dolmen de Gaoutabry",
+                "ro": "Dolmen de Gaoutabry",
+                "en": "Dolmen de Gaoutabry"
+              },
+              "tip_4lang": {
+                "de": "Die unbefestigte Zufahrt kann bei starkem Regen matschig sein; parken Sie etwas unterhalb und nutzen Sie den kurzen Fußweg mit festen Wanderschuhen.",
+                "hu": "A burkolatlan bekötőút heves esőben saras lehet; parkoljon kicsit távolabb, és a rövid sétához húzzon stabil, sárálló túrabakancsot.",
+                "ro": "Accesul neasfaltat poate fi noroios în ploaie; parcați puțin mai jos și folosiți poteca scurtă cu bocanci de munte rezistenți.",
+                "en": "The unpaved access road can be muddy in heavy rain; park a bit further down and use the short footpath with sturdy hiking boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Sainte-Marguerite",
+                "hu": "Château Sainte-Marguerite",
+                "ro": "Château Sainte-Marguerite",
+                "en": "Château Sainte-Marguerite"
+              },
+              "tip_4lang": {
+                "de": "Der perfekte Ort, um einen Schauer abzuwarten; genießen Sie die Kellerführung im Trockenen und lassen Sie sich die preisgekrönten Weine erklären.",
+                "hu": "Tökéletes helyszín egy nagyobb zápor átvészelésére; élvezze a pincetúrát fedett helyen, és ismerje meg a díjnyertes borok készítésének titkait.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse; bucurați-vă de turul cramei la adăpost și aflați despre vinurile premiate.",
+                "en": "The perfect place to wait out a downpour; enjoy the cellar tour indoors and learn about the award-winning wines of the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Tropischer Zoologischer Garten",
+                "hu": "Trópusi Állatkert",
+                "ro": "Grădina Zoologică Tropicală",
+                "en": "Tropical Zoological Garden"
+              },
+              "tip_4lang": {
+                "de": "Besuchen Sie die Vogelvolieren und Gewächshäuser, die auch bei Regen gut zugänglich sind; die tropische Wärme lässt das Wetter draußen vergessen.",
+                "hu": "Látogassa meg a madárröptéket és az üvegházakat, melyek esőben is jól körbejárhatók; a trópusi melegben hamar elfelejti a kinti borongós időt.",
+                "ro": "Vizitați volierele și serele, care sunt ușor accesibile chiar și în ploaie; căldura tropicală vă face să uitați de vremea de afară.",
+                "en": "Visit the bird aviaries and greenhouses, which are easily accessible even in the rain; the tropical warmth makes you forget the weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Miramar",
+                "hu": "Port de Miramar",
+                "ro": "Port de Miramar",
+                "en": "Port de Miramar"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Parkplätze direkt am Kai, um die stürmische See zu beobachten; im Regen wirken die Wellenbrecher besonders imposant.",
+                "hu": "Használja a közvetlenül a rakpart melletti parkolókat a viharos tenger megfigyeléséhez; esőben a hullámtörők látványa rendkívül látványos.",
+                "ro": "Folosiți locurile de parcare direct de pe chei pentru a observa marea agitată; în ploaie, digurile par deosebit de impunătoare.",
+                "en": "Use the parking spaces right on the quay to watch the stormy sea; in the rain, the breakwaters look particularly impressive from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Capte",
+                "hu": "Plage de la Capte",
+                "ro": "Plage de la Capte",
+                "en": "Plage de la Capte"
+              },
+              "tip_4lang": {
+                "de": "Die Fahrt auf der Landzunge ist bei Regen sehr dramatisch; achten Sie auf Aquaplaning-Gefahr auf der schmalen Straße zwischen den Gewässern.",
+                "hu": "A földnyelven való autózás esőben drámai látvány; figyeljen az aquaplaning veszélyére a vizek közötti keskeny és vizes aszfalton.",
+                "ro": "Condusul pe fâșia de pământ este foarte dramatic în ploaie; atenție la riscul de acvaplanare pe drumul îngust dintre ape.",
+                "en": "Driving along the spit is very dramatic in the rain; watch out for hydroplaning risks on the narrow road between the bodies of water."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Peno",
+                "hu": "Plage Peno",
+                "ro": "Plage Peno",
+                "en": "Plage Peno"
+              },
+              "tip_4lang": {
+                "de": "Ein letzter Blick auf die Bucht von Hyères durch die beschlagenen Scheiben; die Heizung im Auto sorgt für ein gemütliches Ende dieses Regentages.",
+                "hu": "Utolsó pillantás a Hyères-i öbölre a párás szélvédő mögül; az autó fűtése gondoskodik a kényelmes és meleg befejezésről a nap végén.",
+                "ro": "O ultimă privire asupra golfului Hyères prin geamurile aburite; încălzirea din mașină asigură un sfârșit confortabil acestei zile ploioase.",
+                "en": "A final look at the Bay of Hyères through the misty windows; the car's heater ensures a cozy and warm end to this rainy day trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter führt die Tour morgens zu den Dolmen in den Hügeln, wo die Luft klar und weitläufig ist. Mittags wärmen wir uns im Château bei einer Verkostung auf. Der Nachmittag gehört dem Tropengarten und dem malerischen Hafen. Da die Sonne gegen 17:00 Uhr untergeht, genießen wir den Sonnenuntergang bequem von der Küstenstraße aus, bevor wir zum Abendessen einkehren.",
+            "hu": "Télen a túra reggel a dombok közötti dolmenekhez vezet, ahol a levegő kristálytiszta. Délben a Château borászatban melegedünk fel egy borkóstoló mellett. A délutánt a trópusi kertre és a festői kikötőre szánjuk. Mivel a nap ötkor nyugszik, a naplementét kényelmesen, a tengerparti útról csodáljuk meg, mielőtt vacsorázni indulnánk.",
+            "ro": "Iarna, turul duce dimineața la dolmenele din dealuri, unde aerul este limpede. La prânz ne încălzim la Château cu o degustare. După-amiaza aparține grădinii tropicale și portului pitoresc. Deoarece soarele apune în jurul orei 17:00, ne bucurăm de apus confortabil de pe drumul de coastă.",
+            "en": "In winter, the tour starts at the dolmens in the hills, where the air is crystal clear. At noon, we warm up at the Château with a tasting. The afternoon is dedicated to the tropical garden and the picturesque harbor. Since the sun sets around 17:00, we enjoy the sunset comfortably from the coastal road before dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dolmen de Gaoutabry",
+                "hu": "Dolmen de Gaoutabry",
+                "ro": "Dolmen de Gaoutabry",
+                "en": "Dolmen de Gaoutabry"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne beleuchtet die Steine am Morgen besonders schön; nutzen Sie die Windstille im Wald für einen kurzen, erfrischenden Spaziergang.",
+                "hu": "A téli reggeli napfény különösen szépen világítja meg a köveket; használja ki a szélcsendet az erdőben egy rövid, frissítő téli sétára.",
+                "ro": "Soarele de dimineață luminează pietrele deosebit de frumos; profită de lipsa vântului din pădure pentru o plimbare scurtă și revigorantă.",
+                "en": "The winter morning sun illuminates the stones beautifully; take advantage of the lack of wind in the forest for a short, refreshing walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Sainte-Marguerite",
+                "hu": "Château Sainte-Marguerite",
+                "ro": "Château Sainte-Marguerite",
+                "en": "Château Sainte-Marguerite"
+              },
+              "tip_4lang": {
+                "de": "Im Winter sind die Weingüter weniger besucht; genießen Sie die persönliche Beratung und nehmen Sie eine Flasche als Souvenir für kalte Abende mit.",
+                "hu": "Télen a borászatok kevésbé zsúfoltak; élvezze a személyes tanácsadást, és vigyen magával egy palack bort szuvenírként a hideg estékre.",
+                "ro": "Iarna cramele sunt mai puțin vizitate; bucurați-vă de sfaturile personalizate și luați o sticlă cadou pentru serile reci de iarnă.",
+                "en": "Wineries are less crowded in winter; enjoy the personalized attention and take a bottle home as a souvenir for cold winter evenings."
+              }
+            },
+            {
+              "name": {
+                "de": "Tropischer Zoologischer Garten",
+                "hu": "Trópusi Állatkert",
+                "ro": "Grădina Zoologică Tropicală",
+                "en": "Tropical Zoological Garden"
+              },
+              "tip_4lang": {
+                "de": "Die exotischen Pflanzen blühen teilweise auch im Winter; nutzen Sie die Gewächshäuser, um zwischendurch richtig durchzuwärmen.",
+                "hu": "Az egzotikus növények egy része télen is virágzik; használja ki az üvegházak melegét, hogy két program között alaposan átmelegedjen.",
+                "ro": "Unele plante exotice înfloresc și iarna; folosiți căldura serelor pentru a vă încălzi bine între celelalte activități de pe parcursul zilei.",
+                "en": "Some of the exotic plants bloom even in winter; use the warmth of the greenhouses to thoroughly warm up between your outdoor stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Miramar",
+                "hu": "Port de Miramar",
+                "ro": "Port de Miramar",
+                "en": "Port de Miramar"
+              },
+              "tip_4lang": {
+                "de": "Das Licht am Nachmittag ist ideal für Hafenpanoramen; die Cafés bieten Decken an, falls Sie den Kaffee doch draußen genießen möchten.",
+                "hu": "A délutáni súroló fények ideálisak a kikötői panoráma fotózásához; a kávézók gyakran kínálnak takarót a kinti teraszokon is.",
+                "ro": "Lumina de după-amiază este ideală pentru panoramele portului; cafenelele oferă pături dacă doriți să vă savurați cafeaua afară.",
+                "en": "The afternoon light is ideal for harbor panoramas; many cafes offer blankets if you still want to enjoy your coffee on the terrace."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Capte",
+                "hu": "Plage de la Capte",
+                "ro": "Plage de la Capte",
+                "en": "Plage de la Capte"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie Kitesurfer, die oft auch im Winter auf dem Wasser sind; im Auto bleibt es dabei angenehm warm, während draußen der Wind weht.",
+                "hu": "Figyelje meg a kiteszörfösöket, akik télen is gyakran kint vannak a vízen; az autóban ülve melegben élvezheti a látványos sportolást.",
+                "ro": "Observați kitesurferii care sunt adesea pe apă chiar și iarna; în mașină rămâne plăcut și cald în timp ce afară vântul suflă puternic.",
+                "en": "Watch the kitesurfers who are often out on the water even in winter; you can stay warm in the car while enjoying the spectacular view."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Peno",
+                "hu": "Plage Peno",
+                "ro": "Plage Peno",
+                "en": "Plage Peno"
+              },
+              "tip_4lang": {
+                "de": "Der perfekte Ort für den Sonnenuntergang; bleiben Sie im Auto sitzen, um das Farbspiel am Himmel bis zum Ende ohne Frieren zu erleben.",
+                "hu": "Tökéletes helyszín a naplemente megtekintéséhez; maradjon az autóban, így fázás nélkül élvezheti az égbolt színeinek játékát a végéig.",
+                "ro": "Locul perfect pentru apus; rămâneți în mașină pentru a experimenta jocul de culori de pe cer până la sfârșit fără să vă fie frig.",
+                "en": "The perfect spot for sunset; stay in the car to experience the play of colors in the sky until the very end without getting cold."
+              }
+            }
+          ]
+        }
       }
     }
   }

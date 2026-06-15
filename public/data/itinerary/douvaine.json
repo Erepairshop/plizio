@@ -137,6 +137,168 @@
         "hu": "A reggel a történelmi központot fedezi fel, békésen indulva a Saint-Loup templomnál. Délben a Manoir Chapuis és a Château de Troches fenséges építészetében merülhet el. A délután a robusztus Maison forte de Chilly-hez vezet. Az estét a helyi mozimúzeum különleges kincseinek felfedezése zárja.",
         "ro": "Dimineața explorează centrul istoric, începând liniștit la Saint-Loup. La prânz vă adânciți în arhitectura maiestuoasă de la Manoir Chapuis și Château de Troches. După-amiaza vă duce la robusta Maison forte de Chilly. Seara se încheie frumos cu descoperiri rare la muzeul cinematografiei.",
         "en": "Morning explores the central historic core, starting quietly at Saint-Loup. Midday delves into the majestic architecture of Manoir Chapuis and Château de Troches. Afternoon wanders past the robust Maison forte de Chilly. Evening concludes beautifully with rare finds at the local cinema museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem Spaziergang zur Kirche unter dem Regenschirm, während Douvaine in friedlicher Stille liegt. Mittags bieten die historischen Mauern der Herrenhäuser und Schlösser einen gewissen Schutz vor dem Nieselregen. Den Nachmittag verbringen wir im trockenen Kinomuseum, einem Paradies für Filmfans. Der Abend endet gemütlich, wenn sich die Lichter der Stadt malerisch auf dem nassen Asphalt spiegeln.",
+            "hu": "A reggeli órákban a Szent Farkas-templom felé vesszük az irányt, az esernyőnk alatt élvezve Douvaine csendjét. Délben a Manoir Chapuis és a kastélyok falai mentén haladunk, keresve a fedett részeket. Délután a mozimúzeum kínál tökéletes, száraz menedéket a fokozódó eső elől. Az estét a városközpont fényeiben zárjuk, ahol a vizes utcák csillogása különleges, tükröződő hangulatot áraszt.",
+            "ro": "Dimineața începe cu o plimbare spre biserică sub umbrelă, bucurându-ne de liniștea străzilor din Douvaine. La prânz, zidurile conacelor și castelelor oferă un adăpost parțial împotriva burniței. După-amiaza este rezervată muzeului cinematografiei, un refugiu uscat pentru pasionații de film. Seara se încheie confortabil, cu luminile orașului reflectându-se frumos pe asfaltul umed.",
+            "en": "Morning starts with a walk to the church under an umbrella, enjoying the quiet streets of Douvaine. Midday takes us past historic manors and castles where the stone walls offer some shelter from the drizzle. Afternoon is best spent at the Cinema Museum, a perfect dry haven for film enthusiasts. Evening brings a cozy end to the day as city lights reflect beautifully on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Loup",
+                "hu": "Église Saint-Loup",
+                "ro": "Église Saint-Loup",
+                "en": "Église Saint-Loup"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innendekoration der Kirche, während der Regen auf das Dach prasselt; seien Sie vorsichtig am Eingang, da der nasse Steinboden rutschig sein kann.",
+                "hu": "Csodálja meg a templom belső díszítését, miközben az eső kint kopog a tetőn; a bejáratnál ügyeljen a vizes kőpadlóra, ami ilyenkor rendkívül csúszós lehet.",
+                "ro": "Admirați decorațiunile interioare ale bisericii în timp ce ploaia bate în acoperiș; aveți grijă la intrare, deoarece podeaua de piatră udă poate fi foarte alunecoasă.",
+                "en": "Admire the church's interior decorations while the rain taps on the roof; be careful at the entrance as the wet stone floor can be very slippery today."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir Chapuis",
+                "hu": "Manoir Chapuis",
+                "ro": "Manoir Chapuis",
+                "en": "Manoir Chapuis"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern wirken bei Regen besonders atmosphärisch; meiden Sie die unbefestigten Wege im Garten, um nicht im nassen Schlamm stecken zu bleiben.",
+                "hu": "A történelmi falak esőben is méltóságteljesek; kerülje el a kertben a füves részeket, mert a felázott talajon könnyen besüppedhet a cipője a sárba.",
+                "ro": "Zidurile istorice par pline de atmosferă pe ploaie; evitați potecile neamenajate din grădină pentru a nu vă murdări pe încălțăminte în noroiul umed.",
+                "en": "The historic walls look atmospheric in the rain; avoid the unpaved paths in the garden to prevent your shoes from getting stuck in the wet mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Troches",
+                "hu": "Château de Troches",
+                "ro": "Château de Troches",
+                "en": "Château de Troches"
+              },
+              "tip_5lang": {
+                "de": "Die Silhouette der Burg wirkt im Nebel fast mystisch; nutzen Sie den Dachüberstand am Tor für eine kurze Pause und um Ihre Regenkleidung kurz zu richten.",
+                "hu": "A kastély sziluettje szinte misztikus a párás esőben; használja a kapualj belső részét egy rövid pihenőre, ahol megigazíthatja vizes esőkabátját.",
+                "ro": "Silueta castelului pare aproape mistică în ploaia cețoasă; folosiți gangul porții pentru o scurtă pauză și pentru a vă aranja pelerina de ploaie.",
+                "en": "The castle's silhouette looks almost mystical in the misty rain; use the gateway area for a short break to adjust your raincoat away from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison forte de Chilly",
+                "hu": "Maison forte de Chilly",
+                "ro": "Maison forte de Chilly",
+                "en": "Maison forte de Chilly"
+              },
+              "tip_5lang": {
+                "de": "Dieses massive Gebäude bietet einen guten Schutz vor dem Wind; treten Sie nah an die Fassade heran, um den schlimmsten Regengüssen kurzzeitig zu entgehen.",
+                "hu": "Ez a masszív épület remek védelmet nyújt a szél elől; álljon közel a vastag kőfalakhoz, hogy menedéket találjon a hirtelen lezúduló záporok idején.",
+                "ro": "Această clădire masivă oferă o protecție excelentă împotriva vântului; stați aproape de zidurile groase pentru a găsi adăpost în timpul averselor bruște.",
+                "en": "This massive building provides great protection from the wind; stay close to the thick stone walls to find shelter during sudden heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Cinéma Philippe Piccot",
+                "hu": "Musée du Cinéma Philippe Piccot",
+                "ro": "Musée du Cinéma Philippe Piccot",
+                "en": "Musée du Cinéma Philippe Piccot"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für einen regnerischen Nachmittag; nutzen Sie die Garderobe, um Ihre nassen Sachen abzugeben und die Ausstellung trocken zu genießen.",
+                "hu": "A tökéletes helyszín egy esős délutánra; használja a ruhatárat a vizes kabátok és esernyők elhelyezésére, hogy kényelmesen nézhesse végig a tárlatot.",
+                "ro": "Locul perfect pentru o după-amiază ploioasă; folosiți garderoba pentru a lăsa hainele și umbrelele ude, bucurându-vă de expoziție în confort.",
+                "en": "The ultimate spot for a rainy afternoon; use the cloakroom to leave your wet coats and umbrellas so you can browse the collection comfortably."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft begleitet uns am Morgen zur Kirche, deren Innenraum eine willkommene Wärme bietet. Mittags erkunden wir die historischen Stätten, solange es noch hell ist, und suchen windgeschützte Plätze. Der Nachmittag gehört dem Kinomuseum, wo wir uns in beheizten Räumen aufwärmen können. Da es früh dunkel wird, endet der Tag im stimmungsvollen Licht der winterlichen Straßen von Douvaine.",
+            "hu": "A csípős reggeli levegőben a templom belső nyugalma melengető élményt nyújt a séta kezdetén. Napközben a történelmi épületek között haladunk, figyelve a korai sötétedésre, így a kastélyokat még világosban keressük fel. Délután a mozimúzeum fűtött termeiben bújunk el a hideg elől. Estére a téli Douvaine fényei kísérik utunkat a korai alkonyatban.",
+            "ro": "Aerul proaspăt de iarnă ne însoțește dimineața spre biserică, al cărei interior oferă o căldură primitoare. La prânz explorăm siturile istorice cât încă este lumină, căutând locuri ferite de vânt. După-amiaza aparține muzeului, unde ne putem încălzi în sălile climatizate. Deoarece se întunecă devreme, ziua se încheie în lumina caldă a străzilor de iarnă.",
+            "en": "The crisp morning air makes the warmth of the church interior even more welcoming as we begin our tour. Midday exploration focuses on the historic manors while it is still light, looking for spots sheltered from the wind. Afternoon provides a perfect excuse to visit the museum's heated rooms. The day ends early as evening lights illuminate the winter charm of Douvaine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Loup",
+                "hu": "Église Saint-Loup",
+                "ro": "Église Saint-Loup",
+                "en": "Église Saint-Loup"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die relative Wärme im Inneren der Kirche; ein idealer Ort, um sich kurz aufzuwärmen, bevor der Spaziergang im Freien weitergeht.",
+                "hu": "Élvezze a csendet és a templom belsejének relatív melegét; ideális hely egy rövid felmelegedésre, mielőtt folytatná a sétát a hűvös téli levegőn.",
+                "ro": "Bucurați-vă de liniștea și căldura relativă din interiorul bisericii; este un loc ideal pentru a vă încălzi puțin înainte de a continua plimbarea în aerul rece.",
+                "en": "Enjoy the silence and the relative warmth inside the church; it's an ideal spot to warm up briefly before continuing your walk in the cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir Chapuis",
+                "hu": "Manoir Chapuis",
+                "ro": "Manoir Chapuis",
+                "en": "Manoir Chapuis"
+              },
+              "tip_5lang": {
+                "de": "Die alten Mauern speichern die Kälte; tragen Sie unbedingt Handschuhe, wenn Sie die Details am steinernen Torrahmen genauer betrachten möchten.",
+                "hu": "A régi falak ontják magukból a hideget; mindenképpen viseljen kesztyűt, ha közelebbről is meg szeretné vizsgálni a kőkeretes kapu faragott részleteit.",
+                "ro": "Zidurile vechi emană frig; purtați neapărat mănuși dacă doriți să examinați mai îndeaproape detaliile sculptate ale porții cu ancadrament de piatră.",
+                "en": "The old walls radiate cold; make sure to wear gloves if you want to take a closer look at the carved stone details of the historic gateway."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Troches",
+                "hu": "Château de Troches",
+                "ro": "Château de Troches",
+                "en": "Château de Troches"
+              },
+              "tip_5lang": {
+                "de": "Die Burg sieht im winterlichen Licht sehr markant aus; achten Sie auf mögliche vereiste Stellen auf dem Weg, besonders dort, wo der Boden schattig bleibt.",
+                "hu": "A kastély markánsan emelkedik ki a téli fényben; ügyeljen az úton az esetleges jeges foltokra, különösen az árnyékosabb, északi fekvésű szakaszokon.",
+                "ro": "Castelul se evidențiază clar în lumina iernii; aveți grijă la eventualele porțiuni înghețate de pe drum, în special în zonele umbrite dinspre nord.",
+                "en": "The castle stands out strikingly in the winter light; watch out for possible icy patches on the path, especially in the shaded northern sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison forte de Chilly",
+                "hu": "Maison forte de Chilly",
+                "ro": "Maison forte de Chilly",
+                "en": "Maison forte de Chilly"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Denkmal am frühen Nachmittag, um das schwindende Tageslicht zu nutzen, bevor die Kälte bei Sonnenuntergang deutlich zunimmt.",
+                "hu": "Látogassa meg ezt az emléket kora délután, hogy kihasználja a maradék napfényt, mielőtt a hideg a naplemente közeledtével érezhetően fokozódna.",
+                "ro": "Vizitați acest monument la începutul după-amiezii pentru a profita de lumina zilei, înainte ca frigul să se intensifice odată cu apusul soarelui.",
+                "en": "Visit this monument in the early afternoon to make the most of the daylight before the cold intensifies significantly as the sun starts to set."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Cinéma Philippe Piccot",
+                "hu": "Musée du Cinéma Philippe Piccot",
+                "ro": "Musée du Cinéma Philippe Piccot",
+                "en": "Musée du Cinéma Philippe Piccot"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss für einen kalten Tag; die beheizten Ausstellungsräume lassen Sie die Kälte vergessen, während Sie in die Filmwelt eintauchen.",
+                "hu": "Tökéletes befejezés egy hideg napra; a fűtött kiállítóterek segítenek elfelejteni a kinti fagyot, miközben elmerül a filmművészet különleges világában.",
+                "ro": "Un final perfect pentru o zi rece; spațiile de expoziție încălzite vă vor ajuta să uitați de gerul de afară în timp ce explorați universul cinematografic.",
+                "en": "A perfect ending to a cold day; the heated exhibition spaces will help you forget the frost outside as you dive into the unique world of cinema."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggeli kerékpározás lazán indul a Saint-Loup templomnál és az elegáns Manoir Chapuis-nál. Délben a festői árvaházi kápolnához és a masszív Château de Troches-hoz teker. A délután elviszi a mozimúzeumhoz. Az este egy gyönyörű naplemente körüli tekeréssel zárul a Château de Thénières közelében.",
         "ro": "Plimbarea matinală cu bicicleta începe relaxat la Saint-Loup și elegantul Manoir Chapuis. La prânz pedalați spre pitoreasca capelă a orfelinatului și masivul Château de Troches. După-amiaza vă duce rapid la muzeul cinematografiei. Seara se termină cu o cursă plăcută la Château de Thénières.",
         "en": "Morning pedal begins comfortably at Saint-Loup and the elegant Manoir Chapuis. Midday takes you out to the scenic orphanage chapel and the massive Château de Troches. Afternoon speeds up toward the cinema museum. Evening finishes with a wonderful ride near the grounds of Château de Thénières."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour durch Douvaine ihren Reiz, sofern man wasserfest gekleidet ist. Am Vormittag radeln wir vorsichtig auf den nassen Straßen zu den ersten Kapellen. Mittags suchen wir Schutz in der Nähe der Schlossmauern, während die Regenwolken vorbeiziehen. Nachmittags ist das Kinomuseum der ideale Ort zum Aufwärmen und Trocknen. Der Tag endet mit einer kurzen, erfrischenden Fahrt zurück im sanften Abendlicht.",
+            "hu": "Az eső ellenére a kerékpározás Douvaine körül különleges élmény, ha megfelelő vízálló öltözékkel készülünk. Délelőtt óvatosan pedálozunk a vizes aszfalton a templomok felé. Délben a kastélyfalak közelében keresünk menedéket a záporok elől. Délután a mozimúzeum kínál száraz és meleg pihenőt. A napot egy frissítő, rövid tekeréssel zárjuk a városi fények alatt, ügyelve a csúszós útviszonyokra.",
+            "ro": "În ciuda ploii, turul cu bicicleta prin Douvaine are farmecul său, cu condiția să aveți echipament impermeabil. Dimineața pedalăm cu atenție spre primele capele. La prânz căutăm adăpost lângă zidurile castelelor în timp ce norii trec. După-amiaza, muzeul cinematografiei este locul ideal pentru a ne încălzi. Ziua se încheie cu o scurtă plimbare revigorantă sub luminile orașului.",
+            "en": "Despite the rain, cycling around Douvaine is a unique experience if you have proper waterproof gear. In the morning, we pedal carefully on wet roads towards the churches. Midday is spent seeking shelter near castle walls as showers pass. Afternoon at the Cinema Museum offers a warm, dry break. The day ends with a refreshing short ride under city lights, being mindful of the slippery conditions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Loup",
+                "hu": "Église Saint-Loup",
+                "ro": "Église Saint-Loup",
+                "en": "Église Saint-Loup"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter einem Baum oder Vordach ab; nutzen Sie den Besuch, um kurz zu verschnaufen und Ihre Regenjacke wieder fest zuzuziehen.",
+                "hu": "Parkoljon le egy fa vagy előtető alatt; használja ki a látogatást, hogy kifújja magát és szorosabbra húzza az esőkabátját a következő szakasz előtt.",
+                "ro": "Parcați bicicleta sub un copac sau o copertină; profitați de vizită pentru a vă trage sufletul și pentru a vă strânge pelerina înainte de următoarea etapă.",
+                "en": "Park your bike under a tree or canopy; use the visit to catch your breath and tighten your raincoat before heading out for the next cycling stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir Chapuis",
+                "hu": "Manoir Chapuis",
+                "ro": "Manoir Chapuis",
+                "en": "Manoir Chapuis"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf den nassen Boden; die historischen Steine vor dem Herrenhaus können für Fahrradschuhe besonders glatt sein.",
+                "hu": "Ügyeljen a leszálláskor a vizes talajra; a kastély előtti történelmi kövezet kerékpáros cipőben kifejezetten csúszós lehet az esőben.",
+                "ro": "Aveți grijă la coborâre pe solul umed; pavajul istoric din fața conacului poate fi extrem de alunecos pentru încălțămintea de ciclism pe ploaie.",
+                "en": "Be careful when dismounting on the wet ground; the historic pavement in front of the manor can be very slippery for cycling shoes in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de l'orphelinat d'Aubonne",
+                "hu": "Chapelle de l'orphelinat d'Aubonne",
+                "ro": "Chapelle de l'orphelinat d'Aubonne",
+                "en": "Chapelle de l'orphelinat d'Aubonne"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Zwischenstopp abseits der Hauptstraße; prüfen Sie hier kurz Ihre Bremsen, da die Nässe die Bremswirkung der Felgen verringern kann.",
+                "hu": "Csendes megálló a főúttól távol; ellenőrizze itt rövid pihenőként a fékeit, mivel a vizes felniken a fékhatás néha jelentősen lecsökkenhet.",
+                "ro": "O oprire liniștită departe de drumul principal; verificați-vă frânele aici, deoarece jantele ude pot reduce uneori semnificativ eficiența frânării.",
+                "en": "A quiet stop away from the main road; use this break to check your brakes, as wet rims can sometimes significantly reduce braking performance."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Troches",
+                "hu": "Château de Troches",
+                "ro": "Château de Troches",
+                "en": "Château de Troches"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg zur Burg für ein gleichmäßiges Tempo; meiden Sie Pfützen, da diese tiefe Löcher im unebenen Untergrund verbergen könnten.",
+                "hu": "Tartson egyenletes tempót a kastélyhoz vezető úton; kerülje a mélyebb tócsákat, mert azok váratlan kátyúkat rejthetnek az egyenetlen talajon.",
+                "ro": "Mențineți un ritm constant pe drumul spre castel; evitați bălțile mai adânci, deoarece acestea pot ascunde gropi neașteptate în terenul denivelat.",
+                "en": "Keep a steady pace on the road to the castle; avoid deeper puddles as they might hide unexpected potholes in the uneven ground surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Cinéma Philippe Piccot",
+                "hu": "Musée du Cinéma Philippe Piccot",
+                "ro": "Musée du Cinéma Philippe Piccot",
+                "en": "Musée du Cinéma Philippe Piccot"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Fahrrad sicher abzustellen und eine längere Pause im Trockenen zu machen, während man die Filmsammlung erkundet.",
+                "hu": "Tökéletes hely a kerékpár biztonságos leállítására és egy hosszabb, száraz pihenőre, miközben felfedezi a filmművészeti gyűjteményt.",
+                "ro": "Locul perfect pentru a lăsa bicicleta în siguranță și pentru o pauză lungă și uscată în timp ce explorați colecția cinematografică.",
+                "en": "The perfect place to safely park your bike and take a longer dry break while you explore the fascinating cinema history collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Thénières",
+                "hu": "Château de Thénières",
+                "ro": "Château de Thénières",
+                "en": "Château de Thénières"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Stopp erfordert noch einmal Konzentration; die umliegenden Wege können bei Regen schlammig sein, fahren Sie daher besonders vorsichtig.",
+                "hu": "Az utolsó megálló fokozott figyelmet igényel; a környező utak esőben sarasak lehetnek, ezért haladjon lassabban az utolsó métereken.",
+                "ro": "Ultima oprire necesită o atenție sporită; drumurile din jur pot fi noroioase pe ploaie, așa că mergeți mai încet pe ultimii metri.",
+                "en": "The final stop requires extra attention; the surrounding paths can get muddy in the rain, so proceed more slowly during these last few meters."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Douvaine erfordert gute Handschuhe und warme Kleidung gegen den Fahrtwind. Morgens ist die Luft klar und frisch, ideal für den Weg zur Kirche. Mittags nutzen wir die Sonnenstunden für die Fahrt zwischen den Schlössern. Am Nachmittag wärmen wir uns im Kinomuseum auf, bevor die Kälte bei Sonnenuntergang zunimmt. Die Tour endet am frühen Abend, wenn die Stadt in winterliche Dunkelheit taucht.",
+            "hu": "A téli kerékpározás Douvaine környékén jó kesztyűt és meleg öltözetet igényel a menetszél ellen. Reggel a levegő tiszta és friss, ideális a templom felé vezető úthoz. Délben kihasználjuk a napos órákat a kastélyok közötti tekeréshez. Délután a mozimúzeumban melegszünk fel, mielőtt a hideg a naplementével fokozódna. A túra kora este ér véget, ahogy a város téli sötétségbe borul.",
+            "ro": "O plimbare de iarnă cu bicicleta prin Douvaine necesită mănuși bune și haine groase împotriva curentului. Dimineața aerul este clar, ideal pentru drumul spre biserică. La prânz profităm de orele cu soare pentru traseul dintre castele. După-amiaza ne încălzim în muzeul cinematografiei înainte ca gerul să se intensifice. Turul se încheie devreme, când orașul este cuprins de întunericul iernii.",
+            "en": "A winter bike ride around Douvaine requires good gloves and warm layers against the wind chill. In the morning the air is clear and fresh, ideal for the ride to the church. Midday offers the best sunlight for cycling between the castles. In the afternoon, we warm up at the Cinema Museum before the cold intensifies at sunset. The tour ends in the early evening as winter darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Loup",
+                "hu": "Église Saint-Loup",
+                "ro": "Église Saint-Loup",
+                "en": "Église Saint-Loup"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um Ihre Finger aufzuwärmen; die Kirche bietet einen windgeschützten Ort, bevor Sie sich wieder dem kalten Fahrtwind aussetzen.",
+                "hu": "Használja ki a megállót az ujjai felmelegítésére; a templom szélvédett helyet kínál, mielőtt újra kitenné magát a hideg menetszélnek.",
+                "ro": "Profitați de oprire pentru a vă încălzi degetele; biserica oferă un loc ferit de vânt înainte de a vă expune din nou curentului rece de pe drum.",
+                "en": "Use this stop to warm up your fingers; the church provides a wind-sheltered spot before you expose yourself to the cold wind chill again."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir Chapuis",
+                "hu": "Manoir Chapuis",
+                "ro": "Manoir Chapuis",
+                "en": "Manoir Chapuis"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf dem Kopfsteinpflaster; die winterliche Glätte kann das Manövrieren mit dem Fahrrad auf engem Raum erschweren.",
+                "hu": "Ügyeljen a zúzmarára a macskaköveken; a téli csúszósság nehézzé teheti a kerékpárral való manőverezést a kastély előtti szűkebb részeken.",
+                "ro": "Atenție la chiciura de pe pavaj; poleiul de iarnă poate îngreuna manevrarea bicicletei în spațiile înguste din fața conacului.",
+                "en": "Watch out for frost on the cobblestones; winter slipperiness can make maneuvering your bike difficult in the tighter spaces in front of the manor."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de l'orphelinat d'Aubonne",
+                "hu": "Chapelle de l'orphelinat d'Aubonne",
+                "ro": "Chapelle de l'orphelinat d'Aubonne",
+                "en": "Chapelle de l'orphelinat d'Aubonne"
+              },
+              "tip_5lang": {
+                "de": "Bewegen Sie Ihre Füße bei diesem Stopp, um die Durchblutung zu fördern; die Kapelle ist ein friedlicher Ort für eine kurze, aktive Pause im Kalten.",
+                "hu": "Mozgassa át a lábait ennél a megállónál, hogy javítsa a keringést; a kápolna békés hely egy rövid, aktív pihenőre a hidegben.",
+                "ro": "Mișcați-vă picioarele la această oprire pentru a îmbunătăți circulația; capela este un loc liniștit pentru o scurtă pauză activă în frig.",
+                "en": "Keep your feet moving during this stop to boost circulation; the chapel is a peaceful spot for a brief, active break in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Troches",
+                "hu": "Château de Troches",
+                "ro": "Château de Troches",
+                "en": "Château de Troches"
+              },
+              "tip_5lang": {
+                "de": "Die Burg wirkt im tiefstehenden Winterlicht sehr majestätisch; fahren Sie vorsichtig, da schattige Waldabschnitte auf dem Weg noch gefroren sein können.",
+                "hu": "A kastély fenségesen fest az alacsony téli napfényben; pedálozzon óvatosan, mert az árnyékosabb erdei útszakaszok még fagyottak lehetnek.",
+                "ro": "Castelul arată maiestuos în lumina joasă a iernii; pedalați cu atenție, deoarece porțiunile umbrite de pădure pot fi încă înghețate.",
+                "en": "The castle looks majestic in the low winter sunlight; pedal carefully as shaded forest sections along the path might still be frozen solid."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Cinéma Philippe Piccot",
+                "hu": "Musée du Cinéma Philippe Piccot",
+                "ro": "Musée du Cinéma Philippe Piccot",
+                "en": "Musée du Cinéma Philippe Piccot"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für diesen Besuch; die Wärme im Inneren ist die perfekte Belohnung nach der frostigen Radfahrt durch Douvaine.",
+                "hu": "Szánjon bőven időt erre a látogatásra; a benti meleg tökéletes jutalom a Douvaine körüli fagyos kerékpározás után.",
+                "ro": "Acordați-vă timp suficient pentru această vizită; căldura din interior este recompensa perfectă după tura geroasă cu bicicleta prin Douvaine.",
+                "en": "Take plenty of time for this visit; the warmth inside is the perfect reward after your frosty bike ride through the Douvaine area."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Thénières",
+                "hu": "Château de Thénières",
+                "ro": "Château de Thénières",
+                "en": "Château de Thénières"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne bereits tief steht, wird es schnell kühler; ziehen Sie Ihre windfeste Schicht für den Rückweg fest an, bevor Sie losfahren.",
+                "hu": "Mivel a nap már alacsonyan jár, gyorsan hűl a levegő; húzza szorosra a szélálló réteget a hazaúthoz, mielőtt újra nyeregbe szállna.",
+                "ro": "Deoarece soarele este deja jos, aerul se răcește rapid; strângeți bine stratul rezistent la vânt pentru drumul de întoarcere înainte de plecare.",
+                "en": "As the sun is already low, the air cools down quickly; tighten your windproof layer for the return journey before getting back in the saddle."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A reggeli vezetés délen, a békés Saint-Affre és Saint-Étienne templomoknál kezdődik. Délben a Chilly és Troches lenyűgöző központi erődítményeihez navigál. A délután zökkenőmentesen vált át a központi templom és múzeum látogatására. Az este egy rövid északi úttal zárul a Saint-Jean-Baptiste templomhoz.",
         "ro": "Condusul de dimineață începe în sud la pașnicele biserici Saint-Affre și Saint-Étienne. La prânz navigați către fortificațiile centrale din Chilly și Troches. După-amiaza trece fără efort la biserica centrală și muzeu. Seara se încheie cu un scurt drum spre nord la Saint-Jean-Baptiste.",
         "en": "Morning driving starts in the south at the peaceful Saint-Affre and Saint-Étienne churches. Midday navigates the impressive central fortifications of Chilly and Troches. Afternoon transitions smoothly to the central church and cinema museum. Evening winds down with a short drive north to Saint-Jean-Baptiste."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch Douvaine ist bei Regen die komfortabelste Wahl. Vormittags besuchen wir die charmanten Kirchen und genießen den Blick auf die regennasse Landschaft. Mittags bieten die historischen Stätten kurze, interessante Stopps, während wir im Auto trocken bleiben. Der Nachmittag im Kinomuseum lässt uns den Regen völlig vergessen. Den Tag lassen wir mit einer entspannten Fahrt durch die beleuchteten, nassen Straßen der Stadt ausklingen.",
+            "hu": "Az autós túra Douvaine környékén a legkényelmesebb választás esős időben. Délelőtt a bájos templomokat látogatjuk meg, élvezve a kilátást a vizes tájra az ablakból. Napközben a történelmi helyszínek rövid, érdekes megállókat kínálnak, miközben az autóban szárazon maradunk. A délutáni mozimúzeum segít elfelejteni a kinti esőt. A napot egy nyugodt autózással zárjuk a kivilágított, vizes utcákon.",
+            "ro": "Un tur cu mașina prin Douvaine este cea mai confortabilă alegere pe ploaie. Dimineața vizităm bisericile fermecătoare, admirând peisajul ud prin geam. În timpul zilei, siturile istorice oferă opriri scurte și interesante, în timp ce rămânem uscați în mașină. După-amiaza la muzeu ne face să uităm complet de ploaie. Ziua se încheie cu o plimbare relaxantă pe străzile luminate și umede.",
+            "en": "A car tour around Douvaine is the most comfortable choice in rainy weather. In the morning, we visit the charming churches, enjoying the view of the wet landscape from the windows. During the day, historic sites offer short, interesting stops while we stay dry in the car. The afternoon at the Cinema Museum makes us forget the rain outside. The day ends with a relaxed drive through the lit, wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Affre",
+                "hu": "Église Saint-Affre",
+                "ro": "Église Saint-Affre",
+                "en": "Église Saint-Affre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; nutzen Sie den Schirm für den kurzen Weg zur Kirche, um nicht nass zu werden.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; használjon esernyőt a templomig tartó rövid úton, hogy ne ázzon meg a záporban.",
+                "ro": "Parcați cât mai aproape de intrare; folosiți o umbrelă pentru drumul scurt până la biserică, pentru a nu vă uda în timpul aversei.",
+                "en": "Park as close to the entrance as possible; use an umbrella for the short walk to the church to avoid getting wet in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Étienne",
+                "hu": "Église Saint-Étienne",
+                "ro": "Église Saint-Étienne",
+                "en": "Église Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf Pfützen auf dem Parkplatz; die Kirche bietet einen ruhigen, trockenen Ort für eine kurze Besinnung.",
+                "hu": "Ügyeljen a leszálláskor a parkolóban lévő tócsákra; a templom belseje csendes és száraz helyszínt kínál egy rövid elmélyüléshez.",
+                "ro": "Aveți grijă la bălțile din parcare când coborâți din mașină; interiorul bisericii oferă un spațiu liniștit și uscat pentru un moment de reculegere.",
+                "en": "Watch out for puddles in the parking lot when getting out; the church interior offers a quiet and dry place for a brief moment of reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison forte de Chilly",
+                "hu": "Maison forte de Chilly",
+                "ro": "Maison forte de Chilly",
+                "en": "Maison forte de Chilly"
+              },
+              "tip_5lang": {
+                "de": "Das massive Bauwerk lässt sich gut vom Auto aus betrachten, falls der Regen zu stark ist; ein kurzer Sprint zum Tor lohnt sich dennoch.",
+                "hu": "A masszív épület jól megfigyelhető az autóból is, ha túl erősen esne; egy rövid sprint a kapuig azonban megéri a látványért.",
+                "ro": "Clădirea masivă poate fi observată bine și din mașină dacă plouă prea tare; totuși, un scurt sprint până la poartă merită pentru priveliște.",
+                "en": "The massive building can be well observed from the car if the rain is too heavy; however, a short sprint to the gate is worth the effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Troches",
+                "hu": "Château de Troches",
+                "ro": "Château de Troches",
+                "en": "Château de Troches"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der schmalen Zufahrt; die nassen Blätter am Wegesrand können die Straße bei Regen rutschig machen.",
+                "hu": "Hajtson óvatosan a keskeny bekötőúton; az út menti vizes falevelek az esőben csúszóssá tehetik az aszfaltot a kastély közelében.",
+                "ro": "Conduceți cu prudență pe drumul îngust de acces; frunzele umede de pe marginea drumului pot face asfaltul alunecos în apropierea castelului.",
+                "en": "Drive carefully on the narrow access road; the wet leaves along the roadside can make the asphalt slippery in the rain near the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Loup",
+                "hu": "Église Saint-Loup",
+                "ro": "Église Saint-Loup",
+                "en": "Église Saint-Loup"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine kurze Pause vom Fahren; im Inneren der Kirche hört man das beruhigende Prasseln des Regens auf dem Dach.",
+                "hu": "Használja ki a megállót egy rövid pihenőre a vezetés után; a templom belsejében hallgathatja az eső megnyugtató kopogását a tetőn.",
+                "ro": "Profitați de oprire pentru o scurtă pauză de la condus; în interiorul bisericii puteți asculta sunetul relaxant al ploii pe acoperiș.",
+                "en": "Use this stop for a brief break from driving; inside the church, you can listen to the soothing sound of the rain tapping on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Cinéma Philippe Piccot",
+                "hu": "Musée du Cinéma Philippe Piccot",
+                "ro": "Musée du Cinéma Philippe Piccot",
+                "en": "Musée du Cinéma Philippe Piccot"
+              },
+              "tip_5lang": {
+                "de": "Hier können Sie längere Zeit im Trockenen verbringen; parken Sie Ihren Wagen sicher und tauchen Sie in die Geschichte des Films ein.",
+                "hu": "Itt hosszabb időt tölthet el szárazon; parkoljon le biztonságosan, és merüljön el a filmművészet történetének lenyűgöző világában.",
+                "ro": "Aici puteți petrece mai mult timp la adăpost; parcați mașina în siguranță și scufundați-vă în istoria fascinantă a cinematografiei.",
+                "en": "You can spend a longer time here staying dry; park your car safely and immerse yourself in the fascinating history of cinema world."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean-Baptiste",
+                "hu": "Église Saint-Jean-Baptiste",
+                "ro": "Église Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss der Tour; achten Sie bei der Rückfahrt auf die Gischt anderer Autos und halten Sie einen größeren Sicherheitsabstand.",
+                "hu": "A túra szép befejezése; a visszaúton ügyeljen a többi autó által felvert vízpermetre, és tartson a szokásosnál nagyobb követési távolságot.",
+                "ro": "Un final frumos al turului; la întoarcere, aveți grijă la apa pulverizată de celelalte mașini și păstrați o distanță de siguranță mai mare.",
+                "en": "A lovely end to the tour; on the drive back, watch out for road spray from other cars and maintain a larger following distance than usual."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Douvaine bietet Wärme und Flexibilität. Morgens besuchen wir die historischen Kirchen und genießen die klare Winterlandschaft aus dem beheizten Wagen. Mittags erkunden wir die Herrenhäuser, bevor die Kälte bei Sonnenuntergang spürbar zunimmt. Der Nachmittag im Kinomuseum ist der perfekte Ort zum Aufwärmen. Da es früh dunkel wird, endet der Tag mit einer stimmungsvollen Fahrt durch das beleuchtete Douvaine.",
+            "hu": "A téli autós túra Douvaine környékén meleg és rugalmas választás. Reggel a történelmi templomokat keressük fel, élvezve a tiszta téli tájat a fűtött utastérből. Napközben a kastélyokat fedezzük fel, mielőtt a hideg a naplemente közeledtével felerősödne. A délutáni mozimúzeum tökéletes helyszín a felmelegedésre. A nap korán véget ér, ahogy a téli fények kigyúlnak a városban.",
+            "ro": "O călătorie de iarnă cu mașina prin Douvaine oferă căldură și flexibilitate. Dimineața vizităm bisericile istorice, admirând peisajul clar de iarnă din mașina încălzită. În timpul zilei explorăm conacele înainte ca frigul să se intensifice la apus. După-amiaza la muzeu este locul perfect pentru încălzire. Ziua se încheie devreme, odată cu aprinderea luminilor de iarnă în oraș.",
+            "en": "A winter car trip through Douvaine offers warmth and flexibility. In the morning we visit the historic churches, enjoying the clear winter landscape from the heated cabin. During the day we explore the manors before the cold intensifies as sunset approaches. The afternoon at the Cinema Museum is the perfect place to warm up. The day ends early as the winter lights come on in town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Affre",
+                "hu": "Église Saint-Affre",
+                "ro": "Église Saint-Affre",
+                "en": "Église Saint-Affre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Besuch; der kurze Weg von der Kirche zum Auto kann bei winterlichen Temperaturen sehr erfrischend sein.",
+                "hu": "Használja az ülésfűtést a látogatás után; a templomtól az autóig tartó rövid út a téli hőmérsékletben igen frissítő lehet a szervezetnek.",
+                "ro": "Folosiți încălzirea în scaune după vizită; drumul scurt de la biserică până la mașină poate fi foarte revigorant la temperaturile de iarnă.",
+                "en": "Use the seat heating after your visit; the short walk from the church back to the car can be quite refreshing in the winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Étienne",
+                "hu": "Église Saint-Étienne",
+                "ro": "Église Saint-Étienne",
+                "en": "Église Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisflächen auf dem Parkplatz; die Kirche bietet einen ruhigen Ort, um sich kurz von der winterlichen Kälte zu erholen.",
+                "hu": "Ügyeljen az esetleges jegesedésre a parkolóban; a templom belseje csendes helyszínt kínál, hogy rövid időre megpihenjen a téli hideg elől.",
+                "ro": "Atenție la posibilele zone cu gheață din parcare; interiorul bisericii oferă un loc liniștit pentru a vă odihni scurt timp de frigul iernii.",
+                "en": "Watch out for potential icy spots in the parking lot; the church interior offers a quiet place to rest briefly away from the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison forte de Chilly",
+                "hu": "Maison forte de Chilly",
+                "ro": "Maison forte de Chilly",
+                "en": "Maison forte de Chilly"
+              },
+              "tip_5lang": {
+                "de": "Das massive Gebäude wirkt im klaren Winterlicht besonders beeindruckend; lassen Sie den Motor nicht unnötig laufen, während Sie Fotos machen.",
+                "hu": "A masszív épület különösen lenyűgöző a tiszta téli fényben; ne járassa feleslegesen a motort, amíg kiszáll egy-két gyors fénykép elkészítéséhez.",
+                "ro": "Clădirea masivă arată impresionant în lumina clară a iernii; nu lăsați motorul pornit inutil cât timp coborâți pentru câteva fotografii rapide.",
+                "en": "The massive building looks especially impressive in the clear winter light; don't leave the engine idling while you step out for a few quick photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Troches",
+                "hu": "Château de Troches",
+                "ro": "Château de Troches",
+                "en": "Château de Troches"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße kann bei Frost tückisch sein; fahren Sie langsam und vorausschauend, besonders in den schattigen Kurven zum Schloss.",
+                "hu": "A keskeny út fagyban csalóka lehet; vezessen lassan és körültekintően, különösen a kastélyhoz vezető árnyékosabb kanyarokban.",
+                "ro": "Drumul îngust poate fi înșelător pe timp de îngheț; conduceți încet și cu atenție, mai ales în curbele umbrite spre castel.",
+                "en": "The narrow road can be deceptive in freezing weather; drive slowly and carefully, especially in the shaded bends leading up to the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Loup",
+                "hu": "Église Saint-Loup",
+                "ro": "Église Saint-Loup",
+                "en": "Église Saint-Loup"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze Pause im Warmen; genießen Sie die Ruhe im Inneren, bevor Sie die Fahrt durch das winterliche Douvaine fortsetzen.",
+                "hu": "Ideális helyszín egy rövid, benti pihenőre; élvezze a templom nyugalmát, mielőtt folytatná az autózást a téli Douvaine környékén.",
+                "ro": "Un loc ideal pentru o scurtă pauză în interior; bucurați-vă de liniștea bisericii înainte de a continua drumul prin Douvaine de iarnă.",
+                "en": "An ideal spot for a short indoor break; enjoy the tranquility of the church before continuing your drive through the wintery Douvaine area."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Cinéma Philippe Piccot",
+                "hu": "Musée du Cinéma Philippe Piccot",
+                "ro": "Musée du Cinéma Philippe Piccot",
+                "en": "Musée du Cinéma Philippe Piccot"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier den kühleren Nachmittag; das Museum ist gut beheizt und bietet eine faszinierende Flucht vor der winterlichen Kälte draußen.",
+                "hu": "Töltse itt a hűvösebb délutánt; a múzeum jól fűtött, és lenyűgöző menekülést kínál a kinti téli hideg elől a filmek világába.",
+                "ro": "Petreceți aici după-amiaza mai răcoroasă; muzeul este bine încălzit și oferă o evadare fascinantă de frigul iernii de afară.",
+                "en": "Spend the cooler afternoon here; the museum is well-heated and offers a fascinating escape from the winter cold outside into the world of film."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean-Baptiste",
+                "hu": "Église Saint-Jean-Baptiste",
+                "ro": "Église Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Da es bereits dämmert, prüfen Sie Ihre Scheinwerfer; die Rückfahrt im winterlichen Halbdunkel erfordert volle Konzentration auf den Verkehr.",
+                "hu": "Mivel már alkonyodik, ellenőrizze a fényszórókat; a téli szürkületben való visszaút fokozott koncentrációt igényel a sofőrtől.",
+                "ro": "Deoarece se înserează deja, verificați farurile; drumul de întoarcere în amurgul iernii necesită o concentrare sporită din partea șoferului.",
+                "en": "As dusk is already falling, check your headlights; the return drive in the winter twilight requires increased concentration from the driver."
+              }
+            }
+          ]
+        }
       }
     }
   }

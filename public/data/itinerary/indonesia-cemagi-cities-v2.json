@@ -183,6 +183,224 @@
         "hu": "Kezdje a napot a Labyrinth Arts Centre művészi hangulatában, majd tegyen egy békés sétát az Odyssey Garden felé.\n\nFolytassa útját a buja Gardenia kertjében, majd csodálja meg a Funky Place különleges építészetét kényelmes sétatempóban haladva.\n\nTöltsön el egy kellemes délutánt a Nuanu Park szobrokkal tarkított, hatalmas kiterjedésű, művészetet és természetet ötvöző zöldterületein.\n\nZárja gyalogos útját a Lumeira látványos elemeinél, majd koronázza meg a napot a Pacha Alpaca szelíd lakóival való vidám találkozással.",
         "ro": "Începeți ziua scufundați în ambianța artistică de la Labyrinth Arts Centre, urmată de o plimbare liniștită spre Odyssey Garden.\n\nContinuați la luxurianta Gardenia înainte de a descoperi arhitectura ciudată de la Funky Place, bucurându-vă de împrejurimile tropicale.\n\nPetreceți o după-amiază relaxantă explorând Nuanu Park, unde instalațiile creative se îmbină perfect cu frumusețea naturală captivantă.\n\nÎncheiați-vă călătoria pe jos la Lumeira, urmată de o întâlnire interactivă și veselă cu rezidenții blânzi de la Pacha Alpaca.",
         "en": "Start your day immersed in the artistic ambiance of the Labyrinth Arts Centre. Let the intricate designs inspire you before a peaceful stroll towards Odyssey Garden.\n\nContinue the garden theme at the lush Gardenia before encountering the delightfully odd architecture of the Funky Place. Enjoy the vibrant tropical surroundings at a relaxed walking pace.\n\nSpend a leisurely afternoon wandering the vast, sculpture-dotted expanses of Nuanu Park. The seamless blend of creative installations and natural beauty is truly captivating.\n\nConclude your walking journey by the striking displays of Lumeira, followed by a lighthearted, interactive encounter with the gentle residents of Pacha Alpaca to cap off a wonderful day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir im geschützten Labyrinth Arts Centre, um den ersten Güssen zu entgehen. Mittags spazieren wir mit Schirm durch den Odyssey Garden, wobei wir auf die rutschigen Pfade achten. Nachmittags bieten die Pavillons im Nuanu Park perfekten Schutz vor den tropischen Schauern. Abends lassen wir den Tag bei den Alpakas ausklingen, während der Regen sanft auf die Dächer prasselt.",
+            "hu": "Reggel a Labyrinth Arts Centre fedett termeiben kezdünk, elkerülve az első záporokat. Délben az Odyssey Garden buja, de csúszós ösvényein haladunk, esernyővel a kézben. Délután a Nuanu Park modern pavilonjai között keresünk menedéket a trópusi zápor elől. Este a Pacha Alpaca fedett részeinél zárjuk a napot, élvezve az eső megnyugtató kopogását a tetőkön, miközben szárazon maradunk.",
+            "ro": "Dimineața începem la adăpostul Labyrinth Arts Centre, evitând primele averse. La prânz ne plimbăm prin Odyssey Garden cu umbrela, fiind atenți la potecile ce pot deveni alunecoase. După-amiaza, pavilioanele din Nuanu Park oferă refugiul perfect împotriva ploilor tropicale. Seara încheiem ziua la Pacha Alpaca, ascultând ropotul ploii pe acoperiș în timp ce stăm la loc uscat și confortabil.",
+            "en": "Morning starts at the sheltered Labyrinth Arts Centre to avoid the first downpours. At noon, we stroll through Odyssey Garden with umbrellas, being careful of the slippery stone paths. Afternoon brings tropical showers, but Nuanu Park's pavilions offer great cover for visitors. Evening concludes at the covered areas of Pacha Alpaca, enjoying the rhythmic sound of rain on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Labyrinth Arts Centre",
+                "hu": "Labyrinth Arts Centre",
+                "ro": "Labyrinth Arts Centre",
+                "en": "Labyrinth Arts Centre"
+              },
+              "tip_5lang": {
+                "de": "Entdecke lokale Kunst in den großzügigen Innenräumen, die perfekten Schutz vor Regen bieten; nutze die Zeit für eine ausführliche Besichtigung der Galerien.",
+                "hu": "Fedezd fel a helyi művészetet a tágas belső terekben, amelyek tökéletes menedéket nyújtanak az eső elől; szánj időt a galériák alapos megtekintésére a vihar alatt.",
+                "ro": "Descoperă arta locală în spațiile interioare generoase care oferă protecție perfectă împotriva ploii; profită de timp pentru o vizită detaliată a galeriilor de artă.",
+                "en": "Explore local art in the spacious indoor galleries that provide perfect shelter from the rain; use the downpour time for a thorough viewing of the exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Odyssey Garden",
+                "hu": "Odyssey Garden",
+                "ro": "Odyssey Garden",
+                "en": "Odyssey Garden"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten wirken im Regen besonders mystisch, aber Vorsicht auf den Steinterrassen; trage unbedingt rutschfeste Schuhe für den Spaziergang durch das Grün.",
+                "hu": "A kertek esőben különösen misztikus látványt nyújtanak, de vigyázz a kőteraszokon; viselj csúszásmentes lábbelit a buja növényzet közötti sétához a nedves úton.",
+                "ro": "Grădinile par mistice în timpul ploii, dar atenție sporită pe terasele de piatră; poartă încălțăminte aderentă pentru plimbarea prin vegetația luxuriantă.",
+                "en": "The gardens look especially mystical in the rain, but be careful on the stone terraces; wear non-slip shoes for the walk through the lush, wet greenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Gardenia",
+                "hu": "Gardenia",
+                "ro": "Gardenia",
+                "en": "Gardenia"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort bietet charmante überdachte Ecken, um die Flora zu bewundern; halte dein Handy in einer wasserdichten Hülle bereit für stimmungsvolle Regenfotos.",
+                "hu": "Ez a hely bájos fedett sarkokat kínál a flóra megcsodálásához; tartsd a telefonodat vízálló tokban a hangulatos esős fotók készítéséhez a kert mélyén.",
+                "ro": "Acest loc oferă colțuri acoperite fermecătoare pentru a admira flora; păstrează telefonul într-o husă impermeabilă pentru fotografii de atmosferă în ploaie.",
+                "en": "This spot offers charming covered corners to admire the flora; keep your phone in a waterproof case for atmospheric rainy photos deep in the garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Funky Place",
+                "hu": "Funky Place",
+                "ro": "Funky Place",
+                "en": "Funky Place"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Treffpunkt, um eine Pause im Trockenen einzulegen und die Atmosphäre zu genießen; nimm ein Heißgetränk, während du auf das Ende des Schauers wartest.",
+                "hu": "Ideális találkozóhely egy száraz szünethez, ahol élvezheted a helyi hangulatot; igyál egy forró italt, miközben várod, hogy elálljon a trópusi zápor.",
+                "ro": "Un loc de întâlnire ideal pentru o pauză la uscat unde poți savura atmosfera; comandă o băutură caldă în timp ce aștepți să treacă aversa tropicală.",
+                "en": "An ideal meeting spot for a dry break where you can enjoy the local vibe; grab a hot drink while waiting for the tropical downpour to subside."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuanu Park",
+                "hu": "Nuanu Park",
+                "ro": "Nuanu Park",
+                "en": "Nuanu Park"
+              },
+              "tip_5lang": {
+                "de": "Die modernen Installationen bieten oft Schutz, doch der Weg dazwischen ist offen; ein großer Regenschirm ist hier dein wichtigster Begleiter im weiten Gelände.",
+                "hu": "A modern installációk gyakran védelmet nyújtanak, de az utak nyitottak; egy nagy esernyő itt a legfontosabb társad a hatalmas park felfedezése közben.",
+                "ro": "Instalațiile moderne oferă adesea protecție, dar căile dintre ele sunt deschise; o umbrelă mare este cel mai important accesoriu în acest parc vast.",
+                "en": "The modern installations often provide cover, but the paths are open; a large umbrella is your most important companion while exploring this vast park."
+              }
+            },
+            {
+              "name": {
+                "de": "Lumeira",
+                "hu": "Lumeira",
+                "ro": "Lumeira",
+                "en": "Lumeira"
+              },
+              "tip_5lang": {
+                "de": "Lichtspiele wirken bei grauem Himmel besonders intensiv und stimmungsvoll; achte auf Pfützen rund um die Außenskulpturen während deiner Besichtigung.",
+                "hu": "A fények játéka szürke égbolt alatt különösen intenzív és hangulatos látványt nyújt; ügyelj a tócsákra a kültéri szobrok környékén a látogatásod során.",
+                "ro": "Jocurile de lumini sub cerul gri par deosebit de intense și pline de atmosferă; atenție la bălțile din jurul sculpturilor exterioare în timpul vizitei.",
+                "en": "The light displays under grey skies look particularly intense and atmospheric; watch out for puddles around the outdoor sculptures during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Pacha Alpaca",
+                "hu": "Pacha Alpaca",
+                "ro": "Pacha Alpaca",
+                "en": "Pacha Alpaca"
+              },
+              "tip_5lang": {
+                "de": "Besuche die Tiere in ihren gemütlichen Unterständen, wo es trocken und warm ist; das weiche Fell der Alpakas ist der beste Trost an einem verregneten Tag.",
+                "hu": "Látogasd meg az állatokat a barátságos istállókban, ahol száraz és meleg a környezet; az alpakák puha gyapja a legjobb vigasz egy esős délutánon.",
+                "ro": "Vizitează animalele în adăposturile lor primitoare, unde este cald și uscat; lâna moale a alpacalor este cea mai bună consolare într-o zi ploioasă.",
+                "en": "Visit the animals in their cozy shelters where it stays dry and warm; the soft wool of the alpacas is the best comfort on a rainy afternoon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die frische Brise im Labyrinth Arts Centre, bevor wir uns in den Galerien aufwärmen. Mittags nutzen wir das sanfte Sonnenlicht für einen Spaziergang im Odyssey Garden. Da die Sonne bereits um 17:00 Uhr untergeht, beeilen wir uns im Nuanu Park, um alles zu sehen. Abends suchen wir die Wärme bei Pacha Alpaca, während die kühle Nacht über Cemagi hereinbricht.",
+            "hu": "Reggel frissítő szellőben indulunk a Labyrinth Arts Centre-től, majd felmelegedünk a galériákban. Délben a szelíd napsütést élvezzük az Odyssey Garden ösvényein, réteges öltözetben. Mivel a nap korán, 17:00-kor nyugszik, a Nuanu Parkot még világosban járjuk be. Este a Pacha Alpaca melegében keresünk menedéket a hűvös éjszaka elől.",
+            "ro": "Dimineața savurăm briza proaspătă la Labyrinth Arts Centre înainte de a ne încălzi în galerii. La prânz profităm de lumina blândă a soarelui în Odyssey Garden, purtând haine stratificate. Deoarece soarele apune devreme, la ora 17:00, grăbim vizita în Nuanu Park. Seara căutăm căldura la Pacha Alpaca pe măsură ce noaptea răcoroasă coboară peste Cemagi.",
+            "en": "Morning brings a refreshing breeze at Labyrinth Arts Centre before warming up inside the galleries. At noon, we enjoy the gentle sunlight in Odyssey Garden with layered clothing. Since sunset is early at 17:00, we prioritize seeing Nuanu Park while it is still light. Evening finds us seeking warmth at Pacha Alpaca as the cool winter night falls over Cemagi."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Labyrinth Arts Centre",
+                "hu": "Labyrinth Arts Centre",
+                "ro": "Labyrinth Arts Centre",
+                "en": "Labyrinth Arts Centre"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume sind angenehm temperiert und bieten einen Rückzugsort vor dem kühlen Wind; trage eine leichte Jacke für den Übergang zwischen den Gebäuden.",
+                "hu": "A belső terek kellemes hőmérsékletűek, védelmet nyújtva a hűvös szél ellen; viselj könnyű kabátot az épületek közötti átmenetek idején.",
+                "ro": "Spațiile interioare au o temperatură plăcută, oferind refugiu împotriva vântului răcoros; poartă o jachetă ușoară pentru tranzitul între clădiri.",
+                "en": "The indoor spaces are comfortably warm, offering a retreat from the cool wind; wear a light jacket for the transitions between buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Odyssey Garden",
+                "hu": "Odyssey Garden",
+                "ro": "Odyssey Garden",
+                "en": "Odyssey Garden"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt die Pflanzen in sanften Farben erstrahlen, perfekt für Fotos; nutze die Mittagsstunden, wenn die Sonne am höchsten und wärmsten steht.",
+                "hu": "A téli fények lágy színekkel árasztják el a növényeket, ami tökéletes a fotózáshoz; használd ki a déli órákat, amikor a nap a legmelegebben süt.",
+                "ro": "Lumina de iarnă scoate în evidență plantele în culori calde, perfect pentru poze; profită de orele amiezii când soarele este cel mai puternic.",
+                "en": "The winter light makes the plants glow in soft colors, perfect for photos; take advantage of the noon hours when the sun is at its warmest."
+              }
+            },
+            {
+              "name": {
+                "de": "Gardenia",
+                "hu": "Gardenia",
+                "ro": "Gardenia",
+                "en": "Gardenia"
+              },
+              "tip_5lang": {
+                "de": "Ein geschützter Platz, der auch bei tiefer stehender Sonne hell und freundlich wirkt; beachte, dass die Schatten hier am Nachmittag sehr lang werden.",
+                "hu": "Védett hely, amely alacsonyabb napállás mellett is világos és barátságos marad; ügyelj rá, hogy a délutáni árnyékok itt nagyon hamar megnyúlnak.",
+                "ro": "Un loc adăpostit care rămâne luminos și primitor chiar și cu soarele jos; reține că umbrele devin foarte lungi aici în cursul după-amiezii.",
+                "en": "A sheltered spot that stays bright and friendly even with the lower sun; notice how the afternoon shadows grow very long here quite quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Funky Place",
+                "hu": "Funky Place",
+                "ro": "Funky Place",
+                "en": "Funky Place"
+              },
+              "tip_5lang": {
+                "de": "Genieße die gemütliche Atmosphäre in den Innenbereichen bei einem warmen Tee; die Dekoration wirkt in der frühen Dämmerung besonders einladend.",
+                "hu": "Élvezd a hangulatos belső tereket egy csésze meleg teával a kezedben; a dekoráció a korai szürkületben különösen barátságos látványt nyújt.",
+                "ro": "Bucură-te de interiorul primitor cu un ceai cald în mână; decorațiunile par deosebit de atractive în lumina crepusculului timpuriu.",
+                "en": "Enjoy the cozy indoor atmosphere with a cup of warm tea; the decorations look especially inviting in the early winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuanu Park",
+                "hu": "Nuanu Park",
+                "ro": "Nuanu Park",
+                "en": "Nuanu Park"
+              },
+              "tip_5lang": {
+                "de": "Plane deinen Rundgang so, dass du vor 17:00 Uhr fertig bist, bevor es schlagartig dunkel wird; die kühle Abendluft erfordert nun eine wärmere Schicht.",
+                "hu": "Tervezd úgy a sétát, hogy 17:00 előtt végezz, mielőtt hirtelen besötétedik; a hűvös esti levegő miatt most már szükséged lesz egy meleg rétegre.",
+                "ro": "Planifică vizita astfel încât să termini înainte de ora 17:00, când se întunecă brusc; aerul rece de seară necesită acum un strat de haine groase.",
+                "en": "Plan your walk to finish before 17:00, as it gets dark very suddenly; the cool evening air now requires an extra warm layer of clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Lumeira",
+                "hu": "Lumeira",
+                "ro": "Lumeira",
+                "en": "Lumeira"
+              },
+              "tip_5lang": {
+                "de": "Die Lichtinstallationen kommen in der frühen Dunkelheit fantastisch zur Geltung; achte auf die Temperaturunterschiede zwischen Drinnen und Draußen.",
+                "hu": "A fényinstallációk a korai sötétedésben fantasztikusan érvényesülnek; ügyelj a kinti és benti hőmérséklet közötti jelentős különbségekre.",
+                "ro": "Instalațiile luminoase arată fantastic în întunericul instalat devreme; atenție la diferențele de temperatură dintre interior și exterior.",
+                "en": "The light installations look fantastic in the early winter darkness; be mindful of the significant temperature differences between inside and outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pacha Alpaca",
+                "hu": "Pacha Alpaca",
+                "ro": "Pacha Alpaca",
+                "en": "Pacha Alpaca"
+              },
+              "tip_5lang": {
+                "de": "Die Alpakas sind in der kühleren Jahreszeit besonders aktiv und flauschig; triff sie am späten Nachmittag für das beste Licht und weiches Fell.",
+                "hu": "Az alpakák a hűvösebb évszakban különösen aktívak és bolyhosak; látogasd meg őket késő délután a legjobb fények és a puha gyapjú élvezetéhez.",
+                "ro": "Alpacele sunt deosebit de active și pufoase în sezonul răcoros; vizitează-le după-amiaza târziu pentru cea mai bună lumină și lână moale.",
+                "en": "The alpacas are especially active and fluffy during the cooler season; visit them in the late afternoon for the best light and soft wool."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje kerékpáros kalandját a Nuanu Park tágas ösvényein, majd tekerjen át a Labyrinth Arts Centre lenyűgöző kiállításainak megcsodálására.\n\nTekerjen el a békés Odyssey Gardenbe egy kis feltöltődésre. Az árnyékos ösvények tökéletes menedéket nyújtanak a déli napsütés elől.\n\nBiciklizzen a part felé, hogy a Sunset kilátóból lenyűgöző panorámában és a távoli Tanah Lot templom fenséges sziluettjében gyönyörködjön.\n\nZárja a napot a Seseh Beach hűsítő szellőjében, miközben végignézi, ahogy a hatalmas helyi sárkányok kecsesen szállnak a szomszédos strand felett.",
         "ro": "Începeți aventura pe bicicletă la Nuanu Park, bucurându-vă de traseele extinse înainte de a explora expozițiile impresionante de la Labyrinth Arts Centre.\n\nPedalați până la liniștita Odyssey Garden pentru a vă reîncărca, unde potecile umbrite oferă o pauză perfectă de la soarele amiezii.\n\nMergeți spre coastă pentru a admira priveliștile panoramice de la punctul de belvedere Sunset, observând silueta templului Tanah Lot în depărtare.\n\nÎncheiați cu briza răcoroasă de la Seseh Beach, privind zmeiele masive care zboară grațios deasupra plajei locale alăturate.",
         "en": "Kickstart your cycling adventure at Nuanu Park, enjoying the expansive trails before heading over to marvel at the impressive exhibits of the Labyrinth Arts Centre.\n\nPedal your way to the peaceful Odyssey Garden to recharge. The shaded pathways and lush greenery offer a perfect break from riding in the midday sunshine.\n\nRide towards the coast to catch stunning panoramic ocean views from the Sunset viewpoint, observing the majestic silhouette of Tanah Lot Temple in the distance.\n\nFinish up with a cooling breeze down at Seseh Beach, ending your ride by watching massive local kites soar gracefully above the neighboring kite beach sands."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig zum Nuanu Park, immer bereit, bei einem Schauer unterzustehen. Mittags bietet das Labyrinth Arts Centre den perfekten trockenen Stopp für Kunstliebhaber. Nachmittags führen wir unsere Tour zum Tanah Lot Aussichtspunkt fort, wobei wir Matsch auf den Wegen meiden. Abends erreichen wir die Strände, wo der stürmische Ozean eine dramatische Kulisse bildet.",
+            "hu": "Reggel óvatosan tekerünk a Nuanu Park felé, készen arra, hogy bármikor fedezékbe vonuljunk az eső elől. Délben a Labyrinth Arts Centre tökéletes száraz megálló a művészet kedvelőinek. Délután folytatjuk utunkat a Tanah Lot kilátóhoz, kerülve a saras szakaszokat. Este érjük el a strandokat, ahol a viharos óceán és a szürke égbolt drámai látványt nyújt.",
+            "ro": "Dimineața pedalăm cu grijă spre Nuanu Park, gata să ne adăpostim la orice semn de ploaie. La prânz, Labyrinth Arts Centre este oprirea perfectă la uscat pentru iubitorii de artă. După-amiaza continuăm spre punctul de observație Tanah Lot, evitând zonele cu noroi. Seara ajungem la plaje, unde oceanul agitat și cerul gri oferă un spectacol dramatic.",
+            "en": "Morning finds us cycling carefully toward Nuanu Park, ready to take cover from sudden showers. At noon, Labyrinth Arts Centre provides the perfect dry stop for art enthusiasts. Afternoon continues toward the Tanah Lot viewpoint, avoiding muddy path sections. Evening ends at the beaches, where the stormy ocean and grey skies create a dramatic backdrop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuanu Park",
+                "hu": "Nuanu Park",
+                "ro": "Nuanu Park",
+                "en": "Nuanu Park"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind bei Nässe rutschig, fahre daher langsam und vorausschauend; nutze die Kunstpavillons als trockene Unterstände bei Bedarf.",
+                "hu": "Az aszfaltozott utak nedvesen csúszósak, ezért tekerj lassan és előrelátóan; használd a művészeti pavilonokat száraz menedékként, ha eleredne az eső.",
+                "ro": "Drumurile asfaltate sunt alunecoase când sunt ude, deci pedalează încet; folosește pavilioanele de artă ca adăposturi uscate dacă începe ploaia.",
+                "en": "The paved paths are slippery when wet, so cycle slowly and carefully; use the art pavilions as dry shelters if the rain starts to fall heavily."
+              }
+            },
+            {
+              "name": {
+                "de": "Labyrinth Arts Centre",
+                "hu": "Labyrinth Arts Centre",
+                "ro": "Labyrinth Arts Centre",
+                "en": "Labyrinth Arts Centre"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um das Fahrrad sicher abzustellen und die Regenpause für Kultur zu nutzen; die überdachten Galerien halten dich garantiert trocken.",
+                "hu": "Kiváló hely a kerékpár biztonságos leállításához és az esőszünet kulturális kihasználásához; a fedett galériák garantáltan szárazon tartanak téged.",
+                "ro": "Un loc excelent pentru a lăsa bicicleta în siguranță și a folosi pauza de ploaie pentru cultură; galeriile acoperite te vor ține cu siguranță la uscat.",
+                "en": "An excellent place to safely park your bike and use the rain break for culture; the covered galleries are guaranteed to keep you completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Odyssey Garden",
+                "hu": "Odyssey Garden",
+                "ro": "Odyssey Garden",
+                "en": "Odyssey Garden"
+              },
+              "tip_5lang": {
+                "de": "Achte auf weichen Boden an den Wegrändern, um mit dem Rad nicht einzusinken; die dichte Vegetation bietet nur bedingt Schutz vor starken Güssen.",
+                "hu": "Ügyelj az út szélén a felázott talajra, nehogy elsüllyedj a biciklivel; a sűrű növényzet csak részben nyújt védelmet az erős trópusi záporok elől.",
+                "ro": "Atenție la solul moale de pe marginea drumului pentru a nu te scufunda cu bicicleta; vegetația deasă oferă doar protecție parțială împotriva ploii.",
+                "en": "Watch out for soft ground at the edges of the path so your bike doesn't sink; the dense vegetation provides only limited shelter from heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset viewpoint on Tanah Lot Temple",
+                "hu": "Sunset viewpoint on Tanah Lot Temple",
+                "ro": "Sunset viewpoint on Tanah Lot Temple",
+                "en": "Sunset viewpoint on Tanah Lot Temple"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die aufpeitschende See ist bei Regen gewaltig, aber halte Abstand zur Klippe; ein Cape schützt dich beim Fotografieren vor dem Wind.",
+                "hu": "Az ostromló tenger látványa esőben lenyűgöző, de tarts biztonságos távolságot a sziklaszéltől; egy esőponcsó megvéd a széltől fotózás közben.",
+                "ro": "Vederea mării agitate este impresionantă pe ploaie, dar păstrează distanța de marginea falezei; o pelerină te va proteja de vânt în timp ce faci poze.",
+                "en": "The view of the crashing sea is powerful in the rain, but keep a safe distance from the cliff edge; a rain poncho will protect you from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "seseh beach",
+                "hu": "seseh beach",
+                "ro": "seseh beach",
+                "en": "seseh beach"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist bei Regen fest, aber das Radeln kann mühsam sein; suche Schutz in einem der nahen Cafés, wenn die Blitze am Horizont zucken.",
+                "hu": "A homok esőben keményebb, de a tekerés így is fárasztó lehet; keress menedéket a közeli kávézókban, ha villámlást látsz a horizonton a tenger felett.",
+                "ro": "Nisipul este mai tare pe ploaie, dar pedalatul poate fi obositor; caută adăpost în cafenelele apropiate dacă vezi fulgere la orizont deasupra mării.",
+                "en": "The sand is firmer in the rain, but cycling can still be tiring; seek shelter in nearby cafes if you see lightning on the horizon over the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Local kite beach",
+                "hu": "Local kite beach",
+                "ro": "Local kite beach",
+                "en": "Local kite beach"
+              },
+              "tip_5lang": {
+                "de": "Drachensteigen ist bei Regen nicht möglich, doch die raue Natur ist ein Erlebnis; achte auf Treibholz am Strand, das bei Flut angespült wird.",
+                "hu": "Sárkányeregetés esőben nem lehetséges, de a vad természet látványa élmény; ügyelj a partra vetett uszadékfára, amit a dagály és a vihar hoz ki.",
+                "ro": "Înălțarea zmeielor nu este posibilă pe ploaie, dar natura sălbatică este o experiență; atenție la resturile aduse de flux și furtună pe plajă.",
+                "en": "Kite flying isn't possible in the rain, but the raw nature is quite an experience; watch out for driftwood washed up on the beach by the tide."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen wir die kühle Luft für eine sportliche Fahrt zum Nuanu Park. Mittags wärmen wir uns im Labyrinth Arts Centre bei einer Ausstellung auf. Nachmittags radeln wir zügig zum Tanah Lot, um den Sonnenuntergang um 17:00 Uhr nicht zu verpassen. Abends genießen wir die frische Meeresbrise am Seseh Beach, bevor die kühle Winternacht uns zur Heimkehr mahnt.",
+            "hu": "Reggel a hűvös levegőt kihasználva sportos tempóban tekerünk a Nuanu Parkba. Délben a Labyrinth Arts Centre galériáiban melegedünk fel egy kiállítás mellett. Délután sietünk a Tanah Lot-hoz, hogy ne késsük le a 17:00-kor kezdődő naplementét. Este a Seseh Beach friss szellőjét élvezzük, mielőtt a hűvös téli éjszaka hazaindulásra késztet minket.",
+            "ro": "Dimineața profităm de aerul răcoros pentru o cursă sportivă spre Nuanu Park. La prânz ne încălzim în galeriile Labyrinth Arts Centre admirând o expoziție. După-amiaza pedalăm rapid spre Tanah Lot pentru a nu rata apusul de la ora 17:00. Seara savurăm briza mării la Seseh Beach înainte ca noaptea rece să ne trimită spre casă.",
+            "en": "Morning takes advantage of the cool air for a brisk ride toward Nuanu Park. At noon, we warm up inside the Labyrinth Arts Centre while viewing an exhibition. Afternoon requires fast cycling to Tanah Lot to catch the early 17:00 sunset. Evening finds us enjoying the fresh breeze at Seseh Beach before the cool winter night prompts our return."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuanu Park",
+                "hu": "Nuanu Park",
+                "ro": "Nuanu Park",
+                "en": "Nuanu Park"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft ist perfekt für weite Erkundungen mit dem Rad; trage Windkleidung, da es auf den offenen Flächen des Parks recht zugig sein kann.",
+                "hu": "A hűvös reggeli levegő tökéletes a park kerékpáros felfedezéséhez; viselj szélvédő ruházatot, mert a nyitott területeken erősen fújhat a szél.",
+                "ro": "Aerul răcoros de dimineață este perfect pentru explorarea parcului cu bicicleta; poartă haine de vânt, deoarece pe spațiile deschise poate sufla tare.",
+                "en": "The cool morning air is perfect for exploring the park by bike; wear windproof clothing as it can be quite breezy in the open areas of the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Labyrinth Arts Centre",
+                "hu": "Labyrinth Arts Centre",
+                "ro": "Labyrinth Arts Centre",
+                "en": "Labyrinth Arts Centre"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Etappen aufzuwärmen und Kunst zu genießen; beachte, dass die Lichtverhältnisse im Winter drinnen sehr gemütlich sind.",
+                "hu": "Ideális hely a felmelegedéshez két tekerés között, miközben élvezed a művészetet; a téli fényviszonyok bent nagyon barátságos hangulatot teremtenek.",
+                "ro": "Un loc ideal pentru a te încălzi între etape în timp ce te bucuri de artă; lumina de iarnă creează o atmosferă foarte primitoare în interior.",
+                "en": "An ideal place to warm up between cycling stages while enjoying art; the winter lighting conditions inside create a very cozy and warm atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Odyssey Garden",
+                "hu": "Odyssey Garden",
+                "ro": "Odyssey Garden",
+                "en": "Odyssey Garden"
+              },
+              "tip_5lang": {
+                "de": "Die Farben der Gärten wirken im tiefen Sonnenstand besonders warm und golden; nutze die Zeit vor 15:00 Uhr für die besten Naturfotos mit dem Rad.",
+                "hu": "A kertek színei az alacsony napállásnál különösen melegnek és aranyszínűnek tűnnek; használd ki a 15:00 előtti időt a legjobb természetfotókhoz.",
+                "ro": "Culorile grădinilor par deosebit de calde și aurii la apus; profită de timpul înainte de ora 15:00 pentru cele mai bune fotografii cu natura.",
+                "en": "The garden colors look especially warm and golden with the low sun; use the time before 15:00 for the best nature photos along the cycling route."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset viewpoint on Tanah Lot Temple",
+                "hu": "Sunset viewpoint on Tanah Lot Temple",
+                "ro": "Sunset viewpoint on Tanah Lot Temple",
+                "en": "Sunset viewpoint on Tanah Lot Temple"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sinkt die Sonne bereits um 17:00 Uhr ins Meer, sei also pünktlich; die klare Luft bietet oft eine weite Sicht bis zum Horizont.",
+                "hu": "Télen a nap már 17:00-kor az óceánba bukik, ezért érkezz időben; a tiszta levegő gyakran messzi kilátást tesz lehetővé egészen a horizontig.",
+                "ro": "Iarna soarele apune deja la ora 17:00 în ocean, deci fii punctual; aerul curat oferă adesea o vizibilitate excelentă până la orizont.",
+                "en": "In winter, the sun drops into the ocean as early as 17:00, so be punctual; the clear air often allows for distant views all the way to the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "seseh beach",
+                "hu": "seseh beach",
+                "ro": "seseh beach",
+                "en": "seseh beach"
+              },
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang kühlt es am Strand merklich ab, eine Jacke ist nun Pflicht; die Ruhe am Abend ist perfekt für eine entspannte Fahrt zurück.",
+                "hu": "Naplemente után a parton érezhetően lehűl a levegő, a kabát most már kötelező; az esti csend tökéletes egy nyugodt kerékpáros hazatéréshez.",
+                "ro": "După apus, aerul de pe plajă se răcește vizibil, jacheta este obligatorie; liniștea serii este perfectă pentru o cursă relaxată spre casă.",
+                "en": "After sunset, the air on the beach cools down noticeably, so a jacket is mandatory; the evening quiet is perfect for a relaxed ride back home."
+              }
+            },
+            {
+              "name": {
+                "de": "Local kite beach",
+                "hu": "Local kite beach",
+                "ro": "Local kite beach",
+                "en": "Local kite beach"
+              },
+              "tip_5lang": {
+                "de": "Die Winterwinde sind stetig, ideal für Profi-Kiter am späten Nachmittag; beobachte das Spektakel, bevor die Dunkelheit um 17:00 Uhr hereinbricht.",
+                "hu": "A téli szelek állandóak, ideálisak a profi sárkányosoknak késő délután; nézd meg a látványt, mielőtt 17:00-kor teljesen ránk sötétedik a parton.",
+                "ro": "Vânturile de iarnă sunt constante, ideale pentru profesioniștii cu zmeie; admiră spectacolul înainte de lăsarea întunericului la ora 17:00.",
+                "en": "Winter winds are steady, ideal for pro kite flyers in the late afternoon; watch the spectacle before darkness falls completely at 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Vezessen a környék kulturális szívébe, és kezdje útját a Labyrinth Arts Centre-ben, majd tegyen egy vidám látogatást a Pacha Alpaca állatainál.\n\nTegyen egy festői autózást a híres Sunset kilátóhoz még az esti csúcsforgalom előtt, élvezve a drámai tengerparti sziklák nappali látványát.\n\nAutózzon le a Pererenan Beach dinamikus partjaihoz, sétáljon a homokon, és nézze a hullámokat meglovagoló szörfösöket a trópusi délutánon.\n\nZárja tengerparti autós túráját a helyi sárkányos strandnál, ahol színes égi bemutatók várják, majd pihenjen meg a nyugodt Seseh Beachen.",
         "ro": "Conduceți spre inima culturală a zonei, începând cu Labyrinth Arts Centre, urmată de o vizită veselă la animalele de la Pacha Alpaca.\n\nFaceți o plimbare pitorească spre celebrul punct de belvedere Sunset înainte de aglomerația serii, bucurându-vă de priveliștile dramatice de coastă.\n\nNavigați spre țărmurile dinamice de la Pererenan Beach, plimbându-vă pe nisip și urmărind surferii pe valuri în după-amiaza tropicală caldă.\n\nÎncheiați turul de coastă parcând lângă plaja locală de zmeie pentru a vedea spectacole colorate pe cer, terminând la serena Seseh Beach.",
         "en": "Drive to the cultural heart of the area, starting your journey at the Labyrinth Arts Centre. Afterwards, hop over for a cheerful visit to the animals at Pacha Alpaca.\n\nTake a scenic drive to the famous Sunset viewpoint area ahead of the evening rush. Enjoy sweeping daytime views of the dramatic coastal cliffs and the temple structure.\n\nNavigate down to the dynamic shores of Pererenan Beach. Take a relaxing walk along the sand, watching surfers ride the crashing waves in the warm tropical afternoon.\n\nWrap up your coastal driving tour where the local traditions shine. Park near the local kite beach to see colorful displays in the sky, concluding at the serene Seseh Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir den Komfort des Autos auf dem Weg zum Labyrinth Arts Centre. Mittags besuchen wir die Alpakas, wobei wir direkt vor den Unterständen parken können. Nachmittags fahren wir zum Tanah Lot, wo wir die raue See sicher aus dem Wagen beobachten können. Abends touren wir entlang der Küstenstrände, geschützt vor dem prasselnden Regen hinter den Scheiben.",
+            "hu": "Reggel élvezzük az autó kényelmét és szárazságát a Labyrinth Arts Centre felé menet. Délben meglátogatjuk az alpakákat, közvetlenül a fedett karámok mellett parkolva. Délután a Tanah Lot-hoz hajtunk, ahol a viharos tengert biztonságban, az autóból is megcsodálhatjuk. Este a tengerparti utakon kalandozunk, védve a szélvédőre kopogó heves trópusi esőtől.",
+            "ro": "Dimineața ne bucurăm de confortul mașinii în drum spre Labyrinth Arts Centre. La prânz vizităm alpacele, parcând chiar lângă adăposturile acoperite. După-amiaza conducem spre Tanah Lot, unde putem admira marea agitată în siguranță direct din mașină. Seara explorăm drumurile de coastă, protejați de ploaia torențială care bate în parbriz.",
+            "en": "Morning finds us enjoying the car's comfort and dryness on the way to Labyrinth Arts Centre. At noon, we visit the alpacas, parking right next to their covered shelters. Afternoon takes us to Tanah Lot, where the stormy sea can be safely admired from inside the vehicle. Evening involves cruising along coastal roads, protected from the heavy tropical rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Labyrinth Arts Centre",
+                "hu": "Labyrinth Arts Centre",
+                "ro": "Labyrinth Arts Centre",
+                "en": "Labyrinth Arts Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutze den nahen Parkplatz, um fast trocken in das Gebäude zu gelangen; drinnen kannst du das schlechte Wetter bei moderner Kunst einfach vergessen.",
+                "hu": "Használd a közeli parkolót, hogy szinte teljesen szárazon juss be az épületbe; bent a modern művészetek között könnyen elfelejtheted a kinti rossz időt.",
+                "ro": "Folosește parcarea apropiată pentru a intra aproape uscat în clădire; în interior, printre operele de artă modernă, vei uita de vremea urâtă de afară.",
+                "en": "Use the nearby parking lot to enter the building almost completely dry; inside, you can easily forget the bad weather among the modern art pieces."
+              }
+            },
+            {
+              "name": {
+                "de": "Pacha Alpaca",
+                "hu": "Pacha Alpaca",
+                "ro": "Pacha Alpaca",
+                "en": "Pacha Alpaca"
+              },
+              "tip_5lang": {
+                "de": "Das Auto ist ein idealer Rückzugsort, falls der Regen während der Fütterung stärker wird; halte Tücher bereit, um deine Schuhe nach dem Besuch zu reinigen.",
+                "hu": "Az autó tökéletes menedék, ha az eső etetés közben erősödne fel; tarts a kocsiban törlőkendőt, hogy megtisztíthasd a cipődet a látogatás után.",
+                "ro": "Mașina este refugiul perfect dacă ploaia se întețește în timpul hrănirii; păstrează șervețele în mașină pentru a-ți curăța încălțămintea după vizită.",
+                "en": "The car is a perfect retreat if the rain intensifies during feeding; keep wipes in the vehicle to clean your shoes after the muddy outdoor visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset viewpoint on Tanah Lot Temple",
+                "hu": "Sunset viewpoint on Tanah Lot Temple",
+                "ro": "Sunset viewpoint on Tanah Lot Temple",
+                "en": "Sunset viewpoint on Tanah Lot Temple"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus hat man teils Sicht auf die Küste, perfekt bei starkem Guss; achte beim Aussteigen auf tiefe Pfützen und rutschigen Untergrund.",
+                "hu": "A parkolóból is részleges kilátás nyílik a partra, ami tökéletes szakadó esőben; kiszálláskor ügyelj a mély tócsákra és a csúszós útpadkára.",
+                "ro": "Din parcare ai o vedere parțială asupra coastei, perfectă în caz de ploaie torențială; la coborâre, atenție la bălțile adânci și la acostamentul alunecos.",
+                "en": "Partial coastal views are available from the parking lot, perfect during heavy rain; watch out for deep puddles and slippery edges when exiting the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Pererenan Beach",
+                "hu": "Pererenan Beach",
+                "ro": "Pererenan Beach",
+                "en": "Pererenan Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen können bei Flut und Regen teilweise überschwemmt sein; fahre vorsichtig durch das Wasser und genieße die Sicht auf die Brandung.",
+                "hu": "A hozzávezető utak dagálykor és esőben részben elöntöttek lehetnek; hajts óvatosan a vizen át, és élvezd a hatalmas hullámok látványát a kocsiból.",
+                "ro": "Drumurile de acces pot fi parțial inundate la flux și ploaie; condu cu atenție prin apă și admiră spectacolul valurilor uriașe din interiorul mașinii.",
+                "en": "Access roads may be partially flooded during high tide and rain; drive carefully through water and enjoy the view of the huge waves from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Local kite beach",
+                "hu": "Local kite beach",
+                "ro": "Local kite beach",
+                "en": "Local kite beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Strandrand ist auch bei Regen lohnenswert für die Atmosphäre; bleib im Wagen und beobachte die Gischt, die vom Wind verweht wird.",
+                "hu": "Egy rövid megálló a strand szélén esőben is megéri a különleges hangulat miatt; maradj a kocsiban, és figyeld a szél által hordott tengeri permetet.",
+                "ro": "O scurtă oprire la marginea plajei merită chiar și pe ploaie pentru atmosferă; rămâi în mașină și observă spuma mării purtată de vântul puternic.",
+                "en": "A short stop at the beach edge is worth it even in rain for the atmosphere; stay in the car and watch the sea spray being blown by the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "seseh beach",
+                "hu": "seseh beach",
+                "ro": "seseh beach",
+                "en": "seseh beach"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen ruhigen Abschluss des Tages, während die Scheibenwischer den Takt angeben; genieße die Melancholie des Meeres im trockenen Innenraum.",
+                "hu": "Ideális a nap nyugodt lezárásához, miközben az ablaktörlők adják az ütemet; élvezd a tenger melankóliáját az autó biztonságos és száraz belső teréből.",
+                "ro": "Ideal pentru a încheia ziua liniștit în timp ce ștergătoarele dau ritmul; bucură-te de melancolia mării din interiorul sigur și uscat al mașinii.",
+                "en": "Ideal for a quiet end to the day while the wipers set the rhythm; enjoy the sea's melancholy from the safe and dry interior of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir beheizt zum Labyrinth Arts Centre, um den kühlen Wind zu meiden. Mittags besuchen wir Pacha Alpaca und nutzen die milde Wintersonne für Fotos. Nachmittags steuern wir zügig Tanah Lot an, da die Sonne um 17:00 Uhr untergeht. Abends touren wir zu den Stränden und genießen die klare Nachtsicht, bevor es im Wagen zurück in die Wärme geht.",
+            "hu": "Reggel a fűtött autóban indulunk a Labyrinth Arts Centre-be, elkerülve a hűvös kinti szelet. Délben meglátogatjuk a Pacha Alpacát, kihasználva az enyhe téli napsütést a fotózáshoz. Délután gyorsan a Tanah Lot felé vesszük az irányt, mert 17:00-kor már naplemente van. Este a strandokhoz hajtunk, élvezve a tiszta éjszakai kilátást a kocsiból.",
+            "ro": "Dimineața plecăm cu mașina încălzită spre Labyrinth Arts Centre, evitând vântul răcoros de afară. La prânz vizităm Pacha Alpaca, profitând de soarele blând de iarnă pentru poze. După-amiaza ne îndreptăm rapid spre Tanah Lot, deoarece la ora 17:00 apune soarele. Seara mergem spre plaje, admirând cerul senin de iarnă din mașină.",
+            "en": "Morning finds us driving in a heated car to Labyrinth Arts Centre to avoid the cool outside wind. At noon, we visit Pacha Alpaca, taking advantage of the mild winter sun for photos. Afternoon requires a prompt departure for Tanah Lot, as sunset is at 17:00. Evening involves driving to the beaches to enjoy the clear night views from the vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Labyrinth Arts Centre",
+                "hu": "Labyrinth Arts Centre",
+                "ro": "Labyrinth Arts Centre",
+                "en": "Labyrinth Arts Centre"
+              },
+              "tip_5lang": {
+                "de": "Die Klimaanlage im Auto lässt sich perfekt auf die Außentemperatur einstellen; verbringe den Vormittag gemütlich in den gut beheizten Galerien.",
+                "hu": "Az autó klímája tökéletesen beállítható a kinti hűvöshöz képest; töltsd a délelőttöt kényelmesen a jól temperált, meleg galériák falai között.",
+                "ro": "Climatizarea mașinii poate fi reglată perfect față de răcoarea de afară; petrece dimineața confortabil în galeriile bine încălzite ale centrului.",
+                "en": "The car's climate control can be perfectly adjusted for the cool weather; spend the morning comfortably inside the well-tempered gallery walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Pacha Alpaca",
+                "hu": "Pacha Alpaca",
+                "ro": "Pacha Alpaca",
+                "en": "Pacha Alpaca"
+              },
+              "tip_5lang": {
+                "de": "Parke so, dass du den Windschatten des Wagens beim Aussteigen nutzt; die Tiere sind im Winter besonders kuschelig und freuen sich auf Besucher.",
+                "hu": "Parkolj úgy, hogy kiszálláskor kihasználhasd az autó szélárnyékát; az állatok télen különösen bújósak, és örömmel fogadják a látogatókat a karámban.",
+                "ro": "Parchează astfel încât să folosești adăpostul mașinii împotriva vântului la coborâre; animalele sunt foarte drăgăstoase iarna și așteaptă vizitatori.",
+                "en": "Park so that you can use the car's windbreak when exiting; the animals are especially cuddly in winter and welcome visitors warmly to their pens."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset viewpoint on Tanah Lot Temple",
+                "hu": "Sunset viewpoint on Tanah Lot Temple",
+                "ro": "Sunset viewpoint on Tanah Lot Temple",
+                "en": "Sunset viewpoint on Tanah Lot Temple"
+              },
+              "tip_5lang": {
+                "de": "Komm vor 16:30 Uhr an, um einen Parkplatz mit bester Sicht auf den frühen Sonnenuntergang zu ergattern; im Wagen bleibt es dabei angenehm warm.",
+                "hu": "Érkezz 16:30 előtt, hogy jó kilátással rendelkező parkolóhelyet találj a korai naplementéhez; az autóban ülve közben kellemes melegben maradhatsz.",
+                "ro": "Sosește înainte de ora 16:30 pentru a găsi un loc de parcare cu vedere bună la apusul timpuriu; din mașină poți admira totul stând la căldură.",
+                "en": "Arrive before 16:30 to secure a parking spot with a great view of the early sunset; you can stay pleasantly warm while watching from inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Pererenan Beach",
+                "hu": "Pererenan Beach",
+                "ro": "Pererenan Beach",
+                "en": "Pererenan Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt ist im Winter unkompliziert, da weniger Verkehr herrscht; genieße die klare Sicht auf die fernen Berge direkt vom Fahrersitz aus.",
+                "hu": "A lejutás télen egyszerűbb, mivel kisebb a forgalom az utakon; élvezd a tiszta kilátást a távoli hegyekre közvetlenül a vezetőülés kényelméből.",
+                "ro": "Accesul este mai simplu iarna, deoarece traficul este mai redus; bucură-te de vederea clară spre munții îndepărtați direct din scaunul șoferului.",
+                "en": "Getting here is easier in winter as there is less traffic on the roads; enjoy the clear view of the distant mountains directly from the driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Local kite beach",
+                "hu": "Local kite beach",
+                "ro": "Local kite beach",
+                "en": "Local kite beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachte die Drachen im Wind, ohne den kalten Luftzug am Strand spüren zu müssen; das Abendlicht um 17:00 Uhr ist hier im Winter magisch.",
+                "hu": "Figyeld a szélben táncoló sárkányokat anélkül, hogy éreznéd a parti hideg huzatot; az esti fények 17:00-kor itt télen egészen mágikusak.",
+                "ro": "Observă zmeiele care dansează în vânt fără a simți curentul rece de pe plajă; lumina serii la ora 17:00 este de-a dreptul magică aici iarna.",
+                "en": "Watch the kites dancing in the wind without having to feel the cold beach breeze; the evening light at 17:00 is absolutely magical here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "seseh beach",
+                "hu": "seseh beach",
+                "ro": "seseh beach",
+                "en": "seseh beach"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für einen nächtlichen Blick auf die Sterne durch das Schiebedach; die trockene Winterluft garantiert eine glasklare Sicht zum Himmel.",
+                "hu": "Tökéletes hely a csillagok éjszakai megfigyeléséhez a tetőablakon keresztül; a száraz téli levegő garantálja a kristálytiszta kilátást az égre.",
+                "ro": "Un loc perfect pentru a observa stelele noaptea prin trapa mașinii; aerul uscat de iarnă garantează o vizibilitate de cristal spre cerul înstelat.",
+                "en": "A perfect spot for observing the stars at night through the sunroof; the dry winter air guarantees a crystal-clear view of the night sky."
+              }
+            }
+          ]
+        }
       }
     }
   }

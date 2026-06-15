@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a monumentális Kálváriánál és múzeumánál, elmerülve a helyi spirituális örökségben.\n\nDélben fedezze fel a történelmi Bodio birtokot és a régió múltját.\n\nDélután irány a városközpont, ahol a békés Église Saint-Martin és nyüzsgő kulturális terek várják.\n\nEste pihenjen meg a festői Moulin de Brignand malom közelében, tökéletesen lezárva ezt a változatos napot.",
         "ro": "Începeți dimineața la monumentalul Calvar și muzeul său, descoperind moștenirea spirituală.\n\nLa prânz, explorați moșii istorice precum Bodio pentru a simți istoria regiunii.\n\nDupă-amiaza, mergeți în centru pentru a vedea Église Saint-Martin și spațiile culturale vibrante.\n\nSeara, relaxați-vă lângă repere pitorești precum Moulin de Brignand, încheind ziua într-o atmosferă calmă.",
         "en": "Start your morning at the monumental Calvaire and its museum, diving into local spiritual heritage.\n\nBy midday, explore historical estates like Bodio or Coislin, depending on your route.\n\nIn the afternoon, head to the town center to discover the peaceful Église Saint-Martin and vibrant cultural hubs.\n\nAs evening falls, relax near picturesque landmarks like the Moulin de Brignand to unwind."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen am Kalvarienberg mit Schirm und festem Schuhwerk. Mittags bietet das Museum einen trockenen Schutz. Nachmittags erwarten Sie nasse, glänzende Pfade am Schloss und eine trockene, ruhige Kirche. Beenden Sie den feuchten Abend gemütlich im komplett überdachten P.I.A.F.",
+            "hu": "A reggelt esernyővel és vízálló cipőben kezdjük a Kálváriánál. Délben a száraz múzeumban találunk kiváló menedéket. Délután esős, borongós hangulat vár a kastélynál, majd a templom nyújt védelmet. Az estét a P.I.A.F fedett kulturális terében zárjuk kényelmesen, távol a záporoktól.",
+            "ro": "Începeți dimineața ploioasă la Calvar cu o umbrelă și încălțăminte adecvată. La prânz, adăpostiți-vă în muzeul uscat. După-amiaza aduce vederi melancolice la castel și un refugiu cald în biserică. Seara umedă se încheie confortabil în spațiul cultural complet acoperit P.I.A.F.",
+            "en": "Start your morning with an umbrella at the striking Calvary. By noon, take shelter in the warm, dry museum. The afternoon brings wet, moody views at Bodio Castle and a dry refuge in Saint-Martin Church. End the damp evening comfortably indoors at the P.I.A.F cultural space."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kalvarienberg von Pontchâteau",
+                "hu": "Pontchâteau-i Kálvária",
+                "ro": "Calvarul din Pontchâteau",
+                "en": "Calvary of Pontchâteau"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie feste, wasserdichte Schuhe, da die Außenwege und Stufen bei starkem Regen sehr schlammig und extrem rutschig werden können.",
+                "hu": "Viseljen strapabíró, vízálló cipőt a biztonságos sétához, mivel a szabadtéri ösvények és lépcsők esőben nagyon csúszósak és sarasak lehetnek.",
+                "ro": "Purtați încălțăminte impermeabilă, deoarece cărările și treptele exterioare pot deveni foarte noroioase și alunecoase pe ploaie abundentă.",
+                "en": "Wear sturdy waterproof shoes to explore safely, as the monumental outdoor paths and steps can get muddy and very slippery during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalvarienberg-Museum",
+                "hu": "Kálvária Múzeum",
+                "ro": "Muzeul Calvarului",
+                "en": "Calvary Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses gemütliche Museum ist der perfekte trockene Rückzugsort. Genießen Sie die Ausstellungen, während Sie den stärksten Regen draußen abwarten.",
+                "hu": "Ez a hangulatos múzeum tökéletes száraz menedék. Szánjon időt a kiállításokra, amíg kint a legrosszabb esőzéseket kényelmesen átvészeli.",
+                "ro": "Acest muzeu confortabil este un refugiu uscat perfect. Bucurați-vă de expozițiile istorice în timp ce așteptați să treacă ploaia torențială.",
+                "en": "This cozy indoor museum is the perfect dry retreat. Take your time enjoying the historical exhibits while waiting out the heaviest rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bodio",
+                "hu": "Bodio Kastély",
+                "ro": "Castelul Bodio",
+                "en": "Bodio Castle"
+              },
+              "tip_5lang": {
+                "de": "Die nasse Steinfassade wirkt im Regen unglaublich dramatisch. Bleiben Sie auf den gepflasterten Wegen, um tiefen Schlamm auf den Wiesen zu vermeiden.",
+                "hu": "A nedves kőhomlokzat hihetetlenül drámai az esőben. Maradjon a birtok kövezett szélein, hogy elkerülje a füves területeken lévő mély sarat.",
+                "ro": "Fațada de piatră umedă arată dramatic în ploaie. Rămâneți pe marginile pavate ale domeniului pentru a evita noroiul adânc de pe iarbă.",
+                "en": "The wet stone facade looks incredibly dramatic in the rain. Stick to the paved edges of the estate to avoid the deep mud on the grassy grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie dieses ruhige Heiligtum, um dem Regenguss zu entkommen. Das Prasseln des Regens an den Fenstern schafft eine friedliche Atmosphäre.",
+                "hu": "Lépjen be ebbe a csendes szentélybe, hogy elmeneküljön a zápor elől. Az ablakokon kopogó eső hangja mélyen békés hangulatot teremt.",
+                "ro": "Pășiți în acest sanctuar liniștit pentru a scăpa de ploaie. Sunetul ploii lovind vitraliile adaugă o atmosferă profund pașnică.",
+                "en": "Step inside this quiet sanctuary to escape the downpour. The sound of rain against the stained glass windows adds a deeply peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "P.I.A.F",
+                "hu": "P.I.A.F",
+                "ro": "P.I.A.F",
+                "en": "P.I.A.F"
+              },
+              "tip_5lang": {
+                "de": "Ein überdachter Kulturraum, ideal für einen regnerischen Spätnachmittag. Trocknen Sie Ihre Kleidung, während Sie lokale Kunst ansehen.",
+                "hu": "Teljesen fedett kulturális tér, ideális egy esős késő délutánra. Szárítsa meg ruháit, miközben a helyi művészeti kiállításokat böngészi.",
+                "ro": "Un spațiu cultural complet acoperit, ideal pentru o după-amiază ploioasă. Uscați-vă hainele în timp ce explorați expozițiile artistice locale.",
+                "en": "A fully sheltered cultural space ideal for a rainy late afternoon. Dry your clothes completely while browsing the engaging local artistic displays."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für den frostigen Morgen am Kalvarienberg. Wärmen Sie sich mittags im gemütlichen Museum auf. Der kalte Nachmittag bietet wunderschöne Winterblicke aufs Schloss und eine beheizte Kirche. Suchen Sie vor dem frühen Sonnenuntergang um 17:00 Uhr Schutz im warmen P.I.A.F.",
+            "hu": "Öltözzön melegen a fagyos reggeli Kálvária-sétához. Délben melegedjen fel a fűtött múzeumban. A hideg délután a kastély téli arcát és egy kellemesen meleg templomot tartogat. Kora este, még a 17:00 órai sötétedés előtt a P.I.A.F melegébe húzódunk.",
+            "ro": "Îmbrăcați-vă gros pentru o dimineață geroasă la Calvar. Încălziți-vă la prânz în muzeul confortabil. După-amiaza rece aduce vederi de iarnă la castel și o biserică încălzită. Refugiați-vă de frig la P.I.A.F înainte de apusul soarelui de la ora 17:00.",
+            "en": "Wrap up in warm layers for a brisk morning at the Calvary. Thaw your hands at noon in the cozy museum. The cold afternoon features stark castle views and a quiet, heated church. By early evening, before the 17:00 sunset, find refuge from the dark inside the warm P.I.A.F."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kalvarienberg von Pontchâteau",
+                "hu": "Pontchâteau-i Kálvária",
+                "ro": "Calvarul din Pontchâteau",
+                "en": "Calvary of Pontchâteau"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie mehrere warme Schichten und einen Schal an, da die erhöhten Wege dieses Denkmals den beißenden Winterwinden voll ausgesetzt sind.",
+                "hu": "Öltözzön vastag, meleg rétegekbe és hozzon sálat, mivel a műemlék magaslati ösvényei teljesen ki vannak téve a metsző téli szélnek.",
+                "ro": "Îmbrăcați-vă în straturi calde, deoarece cărările ridicate ale acestui monument sunt complet expuse vânturilor tăioase de iarnă.",
+                "en": "Wrap up in multiple warm layers and bring a thick scarf, as the elevated paths of this striking monument are fully exposed to biting winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalvarienberg-Museum",
+                "hu": "Kálvária Múzeum",
+                "ro": "Muzeul Calvarului",
+                "en": "Calvary Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar beheizter Innenraum, um eisige Finger aufzutauen. Tauchen Sie in die lokale Geschichte ein und entfliehen Sie der Winterkälte.",
+                "hu": "Csodálatosan fűtött beltéri helyszín a fagyos ujjak felmelegítésére. Merüljön el a helyi történelemben, elmenekülve a téli hideg elől.",
+                "ro": "Un spațiu interior minunat încălzit pentru a vă dezgheța degetele. Explorați istoria locală în timp ce scăpați de temperaturile aspre de iarnă.",
+                "en": "A wonderfully heated indoor space to thaw your freezing fingers. Dive deep into the rich local history while escaping the harsh winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bodio",
+                "hu": "Bodio Kastély",
+                "ro": "Castelul Bodio",
+                "en": "Bodio Castle"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten freie Sicht auf das Schloss. Passen Sie auf, da der Morgenfrost die Steinwege sehr rutschig machen kann.",
+                "hu": "A kopasz téli fák akadálytalan kilátást nyújtanak a kastélyra. Vigyázzon a lépéseire, mivel a fagy csúszóssá teheti a kőösvényeket.",
+                "ro": "Copacii golași de iarnă oferă vederi clare asupra castelului. Aveți grijă la pași, deoarece înghețul poate face cărările de piatră alunecoase.",
+                "en": "The barren winter trees offer unobstructed views of the castle architecture. Watch your step, as the frost can make the stone paths slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Diese beheizte Kirche bietet eine dringend benötigte warme Pause. Sitzen Sie ruhig und bewundern Sie die Architektur abseits der Kälte.",
+                "hu": "Ez a fűtött templom egy nagyon is szükséges meleg pihenőt biztosít. Üljön le csendben, és csodálja meg az építészetet a kinti fagy elől.",
+                "ro": "Această biserică încălzită oferă o pauză caldă mult dorită. Așezați-vă liniștit și admirați arhitectura, departe de temperaturile de îngheț.",
+                "en": "This heated church provides a much-needed warm break. Sit quietly and admire the architecture while resting from the freezing outdoor temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "P.I.A.F",
+                "hu": "P.I.A.F",
+                "ro": "P.I.A.F",
+                "en": "P.I.A.F"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne schon um 17:00 Uhr untergeht, ist dieser helle, warme Ort ideal, um Ihre frostigen Nachmittagserkundungen angenehm zu beenden.",
+                "hu": "Mivel a nap már 17:00 körül lenyugszik, ez a világos, meleg belső tér tökéletes hely a csípős délutáni felfedezések kényelmes lezárására.",
+                "ro": "Cu soarele apunând în jur de 17:00, acest spațiu interior cald este locul perfect pentru a încheia confortabil explorările reci de după-amiază.",
+                "en": "With the sun setting around 17:00, this bright, warm indoor venue is the perfect place to comfortably conclude your chilly afternoon explorations."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a reggelt a monumentális Kálváriánál és múzeumánál, elmerülve a helyi spirituális örökségben.\n\nDélben fedezze fel a történelmi Bodio birtokot és a régió múltját.\n\nDélután irány a városközpont, ahol a békés Église Saint-Martin és nyüzsgő kulturális terek várják.\n\nEste pihenjen meg a festői Moulin de Brignand malom közelében, tökéletesen lezárva ezt a változatos napot.",
         "ro": "Începeți dimineața la monumentalul Calvar și muzeul său, descoperind moștenirea spirituală.\n\nLa prânz, explorați moșii istorice precum Bodio pentru a simți istoria regiunii.\n\nDupă-amiaza, mergeți în centru pentru a vedea Église Saint-Martin și spațiile culturale vibrante.\n\nSeara, relaxați-vă lângă repere pitorești precum Moulin de Brignand, încheind ziua într-o atmosferă calmă.",
         "en": "Start your morning at the monumental Calvaire and its museum, diving into local spiritual heritage.\n\nBy midday, explore historical estates like Bodio or Coislin, depending on your route.\n\nIn the afternoon, head to the town center to discover the peaceful Église Saint-Martin and vibrant cultural hubs.\n\nAs evening falls, relax near picturesque landmarks like the Moulin de Brignand to unwind."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Morgenfahrt zum Kalvarienberg erfordert gute Regenkleidung. Trocknen Sie sich mittags im Museum. Nachmittags ist extreme Vorsicht auf rutschigen Wegen zu Schloss und Kirche geboten. Beenden Sie die Tour im überdachten P.I.A.F und betrachten Sie die Mühle im Regen.",
+            "hu": "Esős reggeli tekerés a Kálváriához, megfelelő vízálló ruha kell. Délben a múzeumban szárítkozhatunk. Délután óvatosan a csúszós utakon a kastélyhoz és a templomhoz. Az esős napot a fedett P.I.A.F-nál pihenve, végül a nedves malmot megnézve zárjuk.",
+            "ro": "O pedalare umedă dimineața la Calvar necesită pelerină de ploaie. Uscați-vă la prânz în muzeu. Ciclismul de după-amiază cere mare atenție pe drumurile alunecoase. Terminați ziua cu o oprire la P.I.A.F și vizitând moara pe ploaie.",
+            "en": "A wet morning ride to the Calvary requires good waterproof gear. Dry off at noon in the museum. Afternoon cycling demands caution on slippery paths to the castle and church. Finish the damp ride with a sheltered stop at P.I.A.F and view the windmill in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kalvarienberg von Pontchâteau",
+                "hu": "Pontchâteau-i Kálvária",
+                "ro": "Calvarul din Pontchâteau",
+                "en": "Calvary of Pontchâteau"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie einen gut sichtbaren Regenponcho. Der Weg zu den Denkmälern ist für Reifen rutschig; schieben Sie Ihr Rad bei starkem Regen lieber.",
+                "hu": "Viseljen látható esőponcsót. A műemlékekhez vezető út csúszós lehet a gumiknak, ezért heves esőben inkább tolja a kerékpárt biztonságosan.",
+                "ro": "Purtați un poncho de ploaie vizibil. Drumul spre monumente poate fi alunecos pentru anvelope, așa că mergeți pe lângă bicicletă dacă plouă tare.",
+                "en": "Wear a highly visible rain poncho. The path up to the monuments can be slippery for bike tires, so carefully walk your bike if the rain is heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalvarienberg-Museum",
+                "hu": "Kálvária Múzeum",
+                "ro": "Muzeul Calvarului",
+                "en": "Calvary Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad überdacht und trocknen Sie sich drinnen. Dieses warme Museum ist perfekt, um die Nachmittagsschauer abzuwarten.",
+                "hu": "Parkoljon fedett helyen, és szárítkozzon meg bent. Ez a meleg, száraz múzeum tökéletes a délutáni esőzések átvészelésére a tekerés közben.",
+                "ro": "Parcați bicicleta la adăpost și uscați-vă înăuntru. Acest muzeu cald este perfect pentru a aștepta trecerea averselor de după-amiază.",
+                "en": "Park your bike under a nearby shelter and dry off inside. This warm, dry museum is perfect for waiting out the passing afternoon rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bodio",
+                "hu": "Bodio Kastély",
+                "ro": "Castelul Bodio",
+                "en": "Bodio Castle"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie früh, da die schlammigen Pfade um das Schloss rutschig sind. Die nasse Atmosphäre verleiht den Steinmauern einen mystischen Charme.",
+                "hu": "Fékezzen korán, mivel a kastély körüli saras ösvények csúszósak. A borongós, nedves atmoszféra titokzatos varázst kölcsönöz a kőfalaknak.",
+                "ro": "Frânați devreme, deoarece traseele noroioase sunt alunecoase. Atmosfera umedă și melancolică oferă zidurilor de piatră un farmec misterios.",
+                "en": "Brake early as the muddy trails around the castle estate are quite slippery. The moody, wet atmosphere gives the stone walls a mysterious charm."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter trockener Zufluchtsort. Treten Sie ein, um sich aufzuwärmen und die ruhige Stille fernab des prasselnden Regens zu genießen.",
+                "hu": "Tökéletes száraz menedék tekerés közben. Lépjen be melegedni, szárítani a felszerelést, és élvezze a békés csendet a kinti doboló eső elől.",
+                "ro": "Un refugiu uscat perfect la mijlocul traseului. Intrați pentru a vă încălzi și a aprecia liniștea senină, departe de ploaia zgomotoasă.",
+                "en": "A perfect dry refuge mid-ride. Step inside to warm up and dry your gear while appreciating the serene silence away from the drumming rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "P.I.A.F",
+                "hu": "P.I.A.F",
+                "ro": "P.I.A.F",
+                "en": "P.I.A.F"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das nasse Rad draußen und genießen Sie diesen trockenen Kulturhub. Ein exzellenter Ort, um sich bei strömendem Regen zu entspannen.",
+                "hu": "Hagyja kint a vizes kerékpárt, és élvezze ezt a száraz kulturális központot. Kiváló hely a pihenésre, amíg kint szakad az eső.",
+                "ro": "Lăsați bicicleta udă afară și bucurați-vă de acest centru cultural uscat. Este un loc excelent pentru a vă relaxa cât timp plouă torențial.",
+                "en": "Leave your wet bike outside and enjoy this dry cultural hub. It is an excellent spot to relax and read up on local arts while the rain pours down."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle von Brignand",
+                "hu": "Brignand Malom",
+                "ro": "Moara Brignand",
+                "en": "Brignand Windmill"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den festen, gepflasterten Radwegen, da der grasbewachsene Hügel um die Mühle bei Nässe gefährlich rutschig und schlammig wird.",
+                "hu": "Maradjon a szilárd burkolatú kerékpárutakon, mivel a malmot körülvevő füves domb nedves időben veszélyesen csúszóssá és sarassá válik.",
+                "ro": "Rămâneți pe pistele de biciclete pavate, deoarece dealul cu iarbă din jurul morii devine periculos de alunecos și noroios în condiții de umezeală.",
+                "en": "Stay on the solid paved cycle paths nearby, as the grassy hill surrounding the windmill becomes dangerously slippery and muddy in wet conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Fahrt zum Kalvarienberg erfordert dicke Handschuhe. Tauen Sie mittags im Museum auf. Die kalte Nachmittagsfahrt führt zum Schloss und zur warmen Kirche. Beenden Sie die Tour wegen der frühen Dunkelheit zwingend vor 17:00 Uhr am P.I.A.F und der Mühle.",
+            "hu": "A fagyos reggeli tekeréshez vastag kesztyű és sapka kell. Délben engedjen fel a múzeumban. A délutáni kerékpározás a fagyos kastélyhoz és a fűtött templomhoz vezet. Zárja a napot 17:00 előtt a P.I.A.F-nál és a malomnál, mielőtt besötétedik.",
+            "ro": "O pedalare înghețată dimineața la Calvar necesită mănuși groase. Încălziți-vă la prânz în muzeu. Ciclismul de după-amiază vă duce la castelul rece și biserica caldă. Terminați obligatoriu înainte de 17:00 la P.I.A.F și moară pentru a evita întunericul.",
+            "en": "A frosty morning pedal to the Calvary requires thick gloves. Thaw out at noon inside the museum. The brisk afternoon cycle takes you to the frozen castle grounds and warm church. End early before the 17:00 sunset at P.I.A.F and the windmill to beat the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kalvarienberg von Pontchâteau",
+                "hu": "Pontchâteau-i Kálvária",
+                "ro": "Calvarul din Pontchâteau",
+                "en": "Calvary of Pontchâteau"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermohandschuhe und eine winddichte Jacke. Die Fahrt zu den Denkmälern ist eisig, aber die klaren Winterblicke sind sehr lohnend.",
+                "hu": "Viseljen termokesztyűt és szélálló kabátot. A műemlékekhez vezető tekerés keservesen hideg, de a letisztult téli kilátás kárpótol érte.",
+                "ro": "Purtați mănuși termice și o jachetă rezistentă la vânt. Drumul spre monumente este extrem de rece, dar vederile de iarnă sunt uimitoare.",
+                "en": "Wear thermal gloves and a windproof jacket. The exposed cycle up to the monuments is bitterly cold, but the stark winter views are highly rewarding."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalvarienberg-Museum",
+                "hu": "Kálvária Múzeum",
+                "ro": "Muzeul Calvarului",
+                "en": "Calvary Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender beheizter Stopp, um eingefrorene Zehen aufzutauen. Verbringen Sie hier eine gute Stunde, bevor Sie wieder in die Kälte radeln.",
+                "hu": "Kiváló fűtött megálló a fagyos lábujjak és ujjak felmelegítésére. Töltsön itt egy jó órát, mielőtt újra dacolna a téli hideggel a nyeregben.",
+                "ro": "O oprire excelentă, încălzită, pentru a vă dezgheța. Petreceți o oră bună aici explorând istoria locală înainte de a înfrunta din nou frigul.",
+                "en": "A superb heated stop to thaw your frozen toes and fingers. Spend a good hour here exploring local history before braving the winter chill again."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bodio",
+                "hu": "Bodio Kastély",
+                "ro": "Castelul Bodio",
+                "en": "Bodio Castle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Wegen zum Schloss. Das frostbedeckte Gelände schafft eine atemberaubende, magische Landschaft zum Fotografieren.",
+                "hu": "Vigyázzon a tükörjégre a kastélyhoz vezető utakon. A fagylepte terület lenyűgöző, varázslatos tájat alkot, amely tökéletes a fotózáshoz.",
+                "ro": "Atenție la poleiul de pe cărările spre castel. Terenul acoperit de îngheț creează un peisaj magic, uimitor, perfect pentru fotografie.",
+                "en": "Watch out for black ice on the paths approaching the castle. The frost-covered grounds create a stunning, magical landscape perfect for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie vom Rad und betreten Sie dieses beheizte Heiligtum. Es bietet eine dringend benötigte warme Pause vom beißenden Fahrtwind.",
+                "hu": "Szálljon le a kerékpárról, és lépjen be ebbe a fűtött szentélybe. Békés és nagyon is szükséges meleg pihenőt nyújt a kerékpározás metsző szele elől.",
+                "ro": "Coborâți de pe bicicletă în acest sanctuar încălzit. Oferă o pauză caldă și pașnică, foarte necesară de la vânturile tăioase ale traseului.",
+                "en": "Step off your bike and into this heated sanctuary. It provides a peaceful and much-needed warm break from the biting winds of your winter cycle."
+              }
+            },
+            {
+              "name": {
+                "de": "P.I.A.F",
+                "hu": "P.I.A.F",
+                "ro": "P.I.A.F",
+                "en": "P.I.A.F"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, ist dieser helle und beheizte Kulturraum der perfekte Rückzugsort am späten Nachmittag, um sich aufzuwärmen.",
+                "hu": "Mivel korán sötétedik, ez a világos és fűtött kulturális tér tökéletes késő délutáni menedék a fagyos szabadtéri tekerés lezárásához.",
+                "ro": "Odată cu întunericul care se lasă devreme, acest spațiu cultural luminos și încălzit este refugiul perfect pentru a încheia activitățile reci.",
+                "en": "With the dark setting in early, this bright and heated cultural space is the perfect late afternoon retreat to end your freezing outdoor activities."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle von Brignand",
+                "hu": "Brignand Malom",
+                "ro": "Moara Brignand",
+                "en": "Brignand Windmill"
+              },
+              "tip_5lang": {
+                "de": "Versuchen Sie, bis 16:30 Uhr hier zu sein. Die schwindende Wintersonne verleiht der Mühle einen wunderschönen Glanz vor Einbruch der Nacht.",
+                "hu": "Törekedjen arra, hogy 16:30-ra ideérjen. A halványuló téli nap gyönyörű fényt vet a malomra, így tökéletes utolsó megálló kora este előtt.",
+                "ro": "Încercați să ajungeți aici până la 16:30. Soarele palid de iarnă aruncă o strălucire frumoasă asupra morii, făcând-o o oprire finală perfectă.",
+                "en": "Aim to arrive here by 16:30. The fading winter sun casts a beautiful glow on the windmill, making it a perfect final stop before early nightfall."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje a reggelt a monumentális Kálváriánál és múzeumánál, elmerülve a helyi spirituális örökségben.\n\nDélben fedezze fel a történelmi Bodio birtokot és a régió múltját.\n\nDélután irány a városközpont, ahol a békés Église Saint-Martin és nyüzsgő kulturális terek várják.\n\nEste pihenjen meg a festői Moulin de Brignand malom közelében, tökéletesen lezárva ezt a változatos napot.",
         "ro": "Începeți dimineața la monumentalul Calvar și muzeul său, descoperind moștenirea spirituală.\n\nLa prânz, explorați moșii istorice precum Bodio pentru a simți istoria regiunii.\n\nDupă-amiaza, mergeți în centru pentru a vedea Église Saint-Martin și spațiile culturale vibrante.\n\nSeara, relaxați-vă lângă repere pitorești precum Moulin de Brignand, încheind ziua într-o atmosferă calmă.",
         "en": "Start your morning at the monumental Calvaire and its museum, diving into local spiritual heritage.\n\nBy midday, explore historical estates like Bodio or Coislin, depending on your route.\n\nIn the afternoon, head to the town center to discover the peaceful Église Saint-Martin and vibrant cultural hubs.\n\nAs evening falls, relax near picturesque landmarks like the Moulin de Brignand to unwind."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Fahrt zum Schloss Coislin bietet stimmungsvolle Ausblicke. Mittags finden Sie in der Kirche und im Museum perfekten Schutz. Der nasse Nachmittag wird mit Regenschirm am Schloss Bodio verbracht. Die Fahrt endet an der Mühle, die Sie bequem aus dem Auto betrachten können.",
+            "hu": "Esős autózás a Coislin kastélyhoz kifejezetten borongós látvánnyal. Délben a templom és a Kálvária Múzeum ad száraz menedéket. A nedves délutánt a Bodio kastélynál töltjük esernyővel a kézben. Az utat a malomnál egy gyors, autóból élvezhető esős megállóval zárjuk.",
+            "ro": "O plimbare ploioasă matinală spre Castelul Coislin oferă priveliști melancolice. La prânz, adăpostiți-vă în biserică și muzeu. După-amiaza umedă o petrecem la Castelul Bodio cu o umbrelă mare. Încheiați traseul cu o oprire la moară, admirată direct din mașină.",
+            "en": "A rainy morning drive to Coislin Castle offers moody views. At noon, seek dry shelter in the church and Calvary Museum. The wet afternoon is spent admiring Bodio Castle from under an umbrella. End the drive with a quick, damp stop at the windmill, easily viewed from your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Coislin",
+                "hu": "Coislin Kastély",
+                "ro": "Castelul Coislin",
+                "en": "Coislin Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Schönheit des regnerischen Schlosses vom Auto aus oder bringen Sie einen großen Schirm für Fotos mit.",
+                "hu": "Élvezze az eső áztatta kastély melankolikus szépségét egyenesen az autóból, vagy hozzon egy nagy esernyőt, ha kiszállna fényképezni.",
+                "ro": "Admirați frumusețea melancolică a castelului plouat direct din mașină, sau aduceți o umbrelă mare dacă ieșiți pentru a face fotografii.",
+                "en": "Admire the melancholic beauty of the rain-swept castle right from your car, or bring a large sturdy umbrella if you step out to take photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich, um dem Platzregen zu entgehen. Drinnen bietet die trockene Stille einen schönen Kontrast zum nassen Wetter.",
+                "hu": "Parkoljon a lehető legközelebb a zápor elkerülése végett. Odabent a száraz, csendes légkör gyönyörű kontrasztot nyújt a zord esős idővel.",
+                "ro": "Parcați cât mai aproape posibil pentru a evita ploaia torențială. Odată înăuntru, atmosfera uscată și liniștită oferă un contrast frumos.",
+                "en": "Park as close as possible to avoid the downpour. Once inside, the dry, quiet atmosphere offers a beautiful contrast to the harsh rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalvarienberg von Pontchâteau",
+                "hu": "Pontchâteau-i Kálvária",
+                "ro": "Calvarul din Pontchâteau",
+                "en": "Calvary of Pontchâteau"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie wasserfestes Schuhwerk mit. Der Regen verleiht den Denkmälern Dramatik, aber die Steinstufen können überraschend rutschig sein.",
+                "hu": "Hozzon vízálló lábbelit. Az eső drámai hangulatot kölcsönöz e vallási műemlékeknek, de a kőlépcsők nagyon nedvesen meglepően csúszósak lehetnek.",
+                "ro": "Aduceți încălțăminte impermeabilă. Ploaia adaugă un aer dramatic monumentelor, dar treptele de piatră pot fi surprinzător de alunecoase.",
+                "en": "Bring waterproof footwear. The rain adds dramatic flair to these religious monuments, but the stone steps can be surprisingly slippery when very wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalvarienberg-Museum",
+                "hu": "Kálvária Múzeum",
+                "ro": "Muzeul Calvarului",
+                "en": "Calvary Museum"
+              },
+              "tip_5lang": {
+                "de": "Die ideale trockene Flucht. Sie können in der Nähe parken und viel Zeit drinnen verbringen, ohne sich um den starken Regen sorgen zu müssen.",
+                "hu": "Az ideális száraz menedék. Parkolhat a közelben, és sok időt tölthet bent a régió megismerésével, anélkül, hogy a heves esőzés miatt aggódna.",
+                "ro": "Evadarea uscată ideală. Puteți parca în apropiere și petrece mult timp înăuntru învățând despre regiune, fără să vă faceți griji de ploaie.",
+                "en": "The ideal dry escape. You can park nearby and spend extensive time indoors learning about the region without having to worry about the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bodio",
+                "hu": "Bodio Kastély",
+                "ro": "Castelul Bodio",
+                "en": "Bodio Castle"
+              },
+              "tip_5lang": {
+                "de": "Die nasse Steinfassade sieht fantastisch aus, aber vermeiden Sie es, auf den schlammigen Grasflächen zu parken oder zu gehen. Bleiben Sie auf Wegen.",
+                "hu": "A nedves kőhomlokzat hihetetlenül néz ki, de kerülje az autózást vagy a sétát a birtok saras, füves szélein. Szigorúan maradjon a kövezett utakon.",
+                "ro": "Fațada din piatră umedă arată incredibil, dar evitați să conduceți sau să mergeți pe marginile cu iarbă noroioasă ale domeniului.",
+                "en": "The wet stone facade looks incredible, but avoid driving or walking on the muddy grassy edges of the estate. Stick strictly to the paved pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle von Brignand",
+                "hu": "Brignand Malom",
+                "ro": "Moara Brignand",
+                "en": "Brignand Windmill"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Scheibenwischer an und genießen Sie den Blick auf die Mühle aus dem warmen Auto, da die Felder im Regen sehr schlammig werden.",
+                "hu": "Hagyja bekapcsolva az ablaktörlőt, és élvezze a malom látványát a meleg autóból, mivel a környező földek esőben nagyon saras mocsárrá válnak.",
+                "ro": "Lăsați ștergătoarele pornite și bucurați-vă de vederea morii din mașina caldă, deoarece câmpurile din jur devin o mlaștină foarte noroioasă.",
+                "en": "Keep the wipers on and enjoy the view of the windmill from your warm car, as the surrounding fields turn into a very muddy swamp during the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine kalte Morgenfahrt nach Coislin genießt man am besten im geheizten Auto. Mittags wärmen Kirche und Museum. Verbringen Sie den kühlen Nachmittag am Schloss Bodio und spazieren Sie kurz. Erleben Sie die Mühle im goldenen Winterlicht unbedingt vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A hideg reggeli autózás a Coislinhoz a fűtött kocsiból a legjobb. Délben a templom és a múzeum nyújt melegséget. A hűvös délutánt a Bodio birtokon tett rövid sétával töltjük. Csípje el a malmot a téli aranyórában, még a 17:00 órai korai sötétedés előtt.",
+            "ro": "O conducere rece dimineața spre Coislin este perfectă cu mașina bine încălzită. Căutați căldură la prânz în biserică și muzeu. Petreceți după-amiaza răcoroasă la Castelul Bodio. Vedeți moara în lumina aurie de iarnă înainte de apusul de la ora 17:00.",
+            "en": "A cold morning drive to Coislin is best with a well-heated car. Seek warmth at noon in the church and the cozy museum. Spend the chilly afternoon wandering the quiet Bodio estate. Catch the windmill bathed in golden winter light before an early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Coislin",
+                "hu": "Coislin Kastély",
+                "ro": "Castelul Coislin",
+                "en": "Coislin Castle"
+              },
+              "tip_5lang": {
+                "de": "Die blattlosen Winterbäume bieten eine klarere Sicht auf das Schloss. Genießen Sie das geheizte Innere Ihres Autos oder treten Sie kurz in die Kälte.",
+                "hu": "A lombtalan téli fák sokkal tisztább kilátást nyújtanak a kastélyra. Élvezze a fűtött autó belső terét, vagy lépjen ki egy pillanatra a fagyos levegőre.",
+                "ro": "Copacii de iarnă fără frunze oferă o vedere mai clară asupra castelului. Bucurați-vă de interiorul încălzit al mașinii sau ieșiți scurt în aerul rece.",
+                "en": "The leafless winter trees offer a much clearer view of the castle. Enjoy the heated car interior, or step out briefly into the crisp, freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar beheizter Halt. Nach einer kalten Fahrt bietet der warme Innenraum dieser Kirche einen tief tröstlichen und friedlichen Winterrückzug.",
+                "hu": "Csodálatosan fűtött megálló. Egy hideg autózás után a templom meleg hajójába lépve mélyen megnyugtató és békés téli menedéket talál.",
+                "ro": "O oprire minunat de caldă. După un drum rece, pășirea în naosul cald al acestei biserici oferă un refugiu de iarnă profund reconfortant.",
+                "en": "A wonderfully heated stop. After a cold drive, stepping into the warm nave of this church provides a deeply comforting and peaceful winter retreat."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalvarienberg von Pontchâteau",
+                "hu": "Pontchâteau-i Kálvária",
+                "ro": "Calvarul din Pontchâteau",
+                "en": "Calvary of Pontchâteau"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich sehr warm an, bevor Sie das Auto verlassen. Die offene Landschaft um die Denkmäler ist eisigen Winterwinden extrem ausgesetzt.",
+                "hu": "Öltözzön nagyon meleg rétegekbe, mielőtt kiszállna az autóból. A műemlékek körüli nyitott táj rendkívül ki van téve a zord és fagyos téli szeleknek.",
+                "ro": "Îmbrăcați-vă în straturi foarte calde înainte de a părăsi mașina. Peisajul deschis este extrem de expus vânturilor aspre și înghețate de iarnă.",
+                "en": "Dress in very warm layers before leaving the car. The open landscape around the monuments is extremely exposed to harsh and freezing winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalvarienberg-Museum",
+                "hu": "Kálvária Múzeum",
+                "ro": "Muzeul Calvarului",
+                "en": "Calvary Museum"
+              },
+              "tip_5lang": {
+                "de": "Eine exzellent beheizte Innenattraktion. Verbringen Sie eine gemütliche Stunde hier, um aufzutauen und die Ausstellungen abseits der Kälte zu erkunden.",
+                "hu": "Kiválóan fűtött beltéri látványosság. Töltsön itt egy kényelmes órát, hogy felengedjen, és a fagyos hőmérséklettől távol fedezze fel a kiállításokat.",
+                "ro": "O atracție interioară excelent încălzită. Petreceți o oră confortabilă aici dezghețându-vă și explorând expozițiile departe de temperaturile de îngheț.",
+                "en": "An excellently heated indoor attraction. Spend a comfortable hour here thawing out and exploring the exhibits away from the freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bodio",
+                "hu": "Bodio Kastély",
+                "ro": "Castelul Bodio",
+                "en": "Bodio Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Frost auf dem Gelände ist wunderschön. Seien Sie vorsichtig beim Aussteigen, da die gepflasterten Flächen verstecktes Eis haben können.",
+                "hu": "A fagy a birtokon gyönyörű. Legyen nagyon óvatos, amikor kiszáll az autóból, mivel a kastély körüli kövezett területeken rejtett jég is lehet.",
+                "ro": "Înghețul de pe domeniu este frumos. Fiți foarte atent când ieșiți din mașină, deoarece zonele pavate din jurul castelului ar putea avea gheață ascunsă.",
+                "en": "The frost on the estate grounds is beautiful. Be very careful stepping out of your car, as the paved areas around the castle might have hidden ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle von Brignand",
+                "hu": "Brignand Malom",
+                "ro": "Moara Brignand",
+                "en": "Brignand Windmill"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Fahrt so, dass Sie gegen 16:30 Uhr ankommen. Beobachten Sie den atemberaubenden Wintersonnenuntergang aus dem warmen Auto.",
+                "hu": "Időzítse az autózást úgy, hogy 16:30 körül érkezzen. Fűtött autójából kényelmesen nézheti, ahogy a lenyűgöző téli naplemente megvilágítja a malmot.",
+                "ro": "Calculați timpul pentru a ajunge în jur de 16:30. Puteți sta în mașina încălzită în timp ce priviți apusul uimitor de iarnă iluminând moara istorică.",
+                "en": "Time your drive to arrive around 16:30. You can stay in your heated car while watching the stunning winter sunset illuminate the historic windmill."
+              }
+            }
+          ]
+        }
       }
     }
   }

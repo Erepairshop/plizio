@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a város melletti nyüzsgő Tsigouri strandon. Délben folytassa útját Portokalin keresztül a széles Livadi partra. A délután a csendesebb öblöké, kezdve a festői Phountanával. Zárja a túrát nyugodtan Pori tengerpartján, ahol a tenger az esti fényben csillog.",
         "ro": "Începeți ziua la plaja animată Tsigouri de lângă oraș. La prânz continuați prin Portokali până la plaja largă Livadi. După-amiaza aparține golfurilor mai liniștite, începând cu pitoreasca Phountana. Încheiați turul relaxat la Pori, unde marea strălucește în lumina serii.",
         "en": "Start your day at the lively Tsigouri beach near the main town. By midday, make your way past the tiny Portokali to the broad sands of Livadi. The afternoon belongs to quieter coves, beginning with the highly picturesque Phountana. End your walking tour relaxing at Pori as the evening light shimmers on the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Tsigouri beginnt mit einer nebligen Brise. Mittags suchen Sie Schutz bei Livadi, wenn der Regen zunimmt. Der Nachmittag in Phountana bietet einen dramatischen Blick auf die graue Ägäis. Der Abend in Pori ist ruhig, mit dem Rhythmus des Regens auf dem Wasser. Wege können schlammig sein; tragen Sie wasserfeste Kleidung und genießen Sie die seltene, stimmungsvolle Einsamkeit.",
+            "hu": "A reggel a Tsigouri-parton ködös széllel indul. Délben keressen menedéket Livadinál, ahogy az eső erősödik. Délután Phountana drámai kilátást nyújt a szürke Égei-tengerre. Az este Pori-nál nyugodt, az eső ritmikus kopogásával a vízen. Az utak sárosak és csúszósak lehetnek; viseljen vízálló ruhát, és élvezze a sziget ritka, borongós hangulatát a teljes magányban.",
+            "ro": "Dimineața la Tsigouri începe cu o briză cețoasă. La prânz, căutați adăpost la Livadi pe măsură ce ploaia se intensifică. După-amiaza la Phountana oferă o vedere dramatică a Egeei gri. Seara la Pori este calmă, cu sunetul ploii pe apă. Potecile pot fi noroioase și alunecoase; purtați echipament impermeabil și bucurați-vă de atmosfera rară și melancolică a insulei în solitudine.",
+            "en": "Morning at Tsigouri starts with a misty breeze. At noon, seek shelter at Livadi as the rain intensifies. Afternoon at Phountana offers a dramatic view of the grey Aegean. Evening at Pori is calm, with the rhythmic sound of rain on the water. Paths may be muddy and rocks slippery; wear waterproof gear and enjoy the island's rare, moody atmosphere in complete solitude."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tsigouri beach",
+                "hu": "Tsigouri beach",
+                "ro": "Tsigouri beach",
+                "en": "Tsigouri beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen von einer überdachten Terrasse aus; bringen Sie einen stabilen Regenschirm für den starken Küstenwind mit.",
+                "hu": "Figyelje a hullámokat egy fedett teraszról; vigyen magával egy erős esernyőt a part menti erős szél miatt.",
+                "ro": "Priviți valurile de pe o terasă acoperită; aduceți o umbrelă rezistentă pentru vântul puternic de pe coastă.",
+                "en": "Watch the waves from a covered terrace; bring a sturdy umbrella for the strong coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Portokali",
+                "hu": "Portokali",
+                "ro": "Portokali",
+                "en": "Portokali"
+              },
+              "tip_5lang": {
+                "de": "Die roten Felsen wirken im Regen noch lebendiger; tragen Sie wasserfeste Wanderschuhe für den rutschigen Pfad.",
+                "hu": "A vörös sziklák még élénkebbek az esőben; viseljen vízálló túracipőt a csúszós ösvényen.",
+                "ro": "Stâncile roșii par și mai vibrante în ploaie; purtați pantofi de trekking impermeabili pentru poteca alunecoasă.",
+                "en": "The red rocks look even more vibrant in the rain; wear waterproof hiking shoes for the slippery path."
+              }
+            },
+            {
+              "name": {
+                "de": "Livadi",
+                "hu": "Livadi",
+                "ro": "Livadi",
+                "en": "Livadi"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht in einem lokalen Café; die salzige Luft ist auch im Regen erfrischend und belebend.",
+                "hu": "Keressen menedéket egy helyi kávézóban; a sós levegő az esőben is frissítő és élénkítő.",
+                "ro": "Căutați refugiu într-o cafenea locală; aerul sărat este revigorant și tonifiant chiar și pe ploaie.",
+                "en": "Seek refuge in a local cafe; the salty air is refreshing and invigorating even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Phountana",
+                "hu": "Phountana",
+                "ro": "Phountana",
+                "en": "Phountana"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort, um dem Sturm zuzusehen; bewahren Sie Ihre Elektronik in einer wasserdichten Tasche auf.",
+                "hu": "Békés hely a vihar elvonulásának megfigyelésére; tartsa az elektronikát vízhatlan táskában.",
+                "ro": "Un loc liniștit pentru a privi furtuna trecând; păstrați dispozitivele electronice într-o geantă impermeabilă.",
+                "en": "A peaceful spot to watch the storm pass; keep your electronics in a dry bag."
+              }
+            },
+            {
+              "name": {
+                "de": "Pori beach",
+                "hu": "Pori beach",
+                "ro": "Pori beach",
+                "en": "Pori beach"
+              },
+              "tip_5lang": {
+                "de": "Die weite Bucht wirkt im Nebel mystisch; ein langer Regenmantel ist für diesen ungeschützten Abschnitt unerlässlich.",
+                "hu": "A széles öböl misztikusnak tűnik a ködben; egy hosszú esőkabát elengedhetetlen ezen a nyitott szakaszon.",
+                "ro": "Golful larg pare mistic în ceață; o pelerină lungă de ploaie este esențială pentru această porțiune expusă.",
+                "en": "The wide bay looks mystical in the mist; a long raincoat is essential for this exposed stretch."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Morgen am Tsigouri mit erfrischender Meeresbrise. Mittags ist Livadi ideal für einen strammen Spaziergang in der milden Wintersonne. Der Nachmittag in Phountana zeigt die grünenden Hügel der Insel. Der Tag endet früh mit einem sanften Sonnenuntergang in Pori gegen 17:00 Uhr. Kleiden Sie sich warm, da die Temperaturen nach Sonnenuntergang sehr schnell sinken.",
+            "hu": "Friss reggel a Tsigouri-parton, élénkítő tengeri szellővel. A dél a Livadi-öbölben tökéletes egy tempós sétához az enyhe téli napsütésben. Délután Phountana megmutatja a sziget zöldellő dombjait. A nap korán ér véget, 17:00 körül lágy naplementével Pori-nál. Öltözzön rétegesen, mert a hőmérséklet gyorsan leesik, amint a nap eltűnik a szomszédos szigetek mögött.",
+            "ro": "Dimineață crocantă la Tsigouri, cu o briză marină revigorantă. Prânzul la Livadi este perfect pentru o plimbare sub soarele blând de iarnă. După-amiaza la Phountana dezvăluie dealurile înverzite. Ziua se termină devreme, cu un apus moale la Pori în jur de 17:00. Îmbrăcați-vă în straturi groase, deoarece temperatura scade rapid odată ce soarele dispare după insule.",
+            "en": "Crisp morning at Tsigouri with a refreshing sea breeze. Noon at Livadi is perfect for a brisk walk under the mild winter sun. Afternoon at Phountana reveals the island's greening hills. The day ends early with a soft sunset at Pori around 17:00. Dress in warm layers as the temperature drops quickly once the sun disappears behind the neighboring islands."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tsigouri beach",
+                "hu": "Tsigouri beach",
+                "ro": "Tsigouri beach",
+                "en": "Tsigouri beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Stille der Nebensaison; tragen Sie eine Windjacke, um den kalten Nordwind abzuhalten.",
+                "hu": "Élvezze a holtszezon abszolút csendjét; viseljen szélkabátot a hideg északi szél ellen.",
+                "ro": "Bucurați-vă de liniștea absolută a extrasezonului; purtați o jachetă de vânt pentru a bloca vântul rece de nord.",
+                "en": "Enjoy the absolute silence of the off-season; wear a windbreaker to block the cold North wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Portokali",
+                "hu": "Portokali",
+                "ro": "Portokali",
+                "en": "Portokali"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne erzeugt wunderschöne lange Schatten auf den Klippen; ideal für die Fotografie.",
+                "hu": "Az alacsony téli nap gyönyörű, hosszú árnyékokat vet a sziklákra; tökéletes alkalom a fotózáshoz.",
+                "ro": "Soarele slab de iarnă creează umbre lungi și frumoase pe stânci; moment perfect pentru fotografie.",
+                "en": "The low winter sun creates long, beautiful shadows on the cliffs; perfect for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Livadi",
+                "hu": "Livadi",
+                "ro": "Livadi",
+                "en": "Livadi"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Zeitpunkt für einen ruhigen Spaziergang am leeren Strand; Handschuhe halten Ihre Hände bei der Brise warm.",
+                "hu": "Ideális időpont egy csendes sétához az üres tengerparton; a kesztyű melegen tartja a kezét a szélben.",
+                "ro": "Un moment ideal pentru o plimbare liniștită pe plaja goală; mănușile vă vor ține mâinile calde în briză.",
+                "en": "A great time for a quiet walk on the empty beach; gloves will keep your hands warm in the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Phountana",
+                "hu": "Phountana",
+                "ro": "Phountana",
+                "en": "Phountana"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die natürlichen Quellen der Insel, die im Winter am vollsten sind; die Luft ist heute unglaublich klar.",
+                "hu": "Figyelje meg a sziget természetes forrásait, amelyek télen a legteltebbek; a levegő ma hihetetlenül tiszta.",
+                "ro": "Observați izvoarele naturale ale insulei la capacitate maximă iarna; aerul este incredibil de clar astăzi.",
+                "en": "Observe the island's natural springs at their fullest in winter; the air is incredibly clear today."
+              }
+            },
+            {
+              "name": {
+                "de": "Pori beach",
+                "hu": "Pori beach",
+                "ro": "Pori beach",
+                "en": "Pori beach"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den frühen Sonnenuntergang über der Ägäis; bringen Sie eine Thermoskanne mit heißem Tee mit, um warm zu bleiben.",
+                "hu": "Csodálja meg a korai naplementét az Égei-tenger felett; vigyen magával forró teát tartalmazó termoszt, hogy ne fázzon.",
+                "ro": "Admirați apusul timpuriu peste Marea Egee; aduceți un termos cu ceai fierbinte pentru a vă menține căldura.",
+                "en": "Watch the early sunset over the Aegean; bring a thermos with hot tea to stay warm as the light fades."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpártúra a népszerű Tsigouritól indul, és hamar eléri Portokali és Livadi strandjait. Dél körül tekerjen el a Paralia Lioliou sekély vizéhez. Délután Phountana érintetlen természete várja. A nap fénypontja a Psili Ammos finom homokja lesz az alkonyati fényekben pompázva.",
         "ro": "Turul cu bicicleta începe la popularul Tsigouri și vă duce rapid la plajele Portokali și Livadi. În jurul prânzului, pedalați spre apele puțin adânci de la Paralia Lioliou. După-amiaza vă așteaptă natura neatinsă la Phountana. Punctul culminant este nisipul fin de la Psili Ammos în amurg.",
         "en": "Your bike tour kicks off at the popular Tsigouri before quickly rolling to Portokali and Livadi beaches. Around midday, pedal to the shallow, family-friendly waters of Paralia Lioliou. Unspoiled nature awaits at Phountana in the afternoon. The grand finale is the fine sand of Psili Ammos under the setting sun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrt zum Tsigouri auf nassen Straßen erfordert Vorsicht. Mittags bringt Livadi den frischen Duft feuchter Kräuter. Der Nachmittag in Phountana ist unter schweren Wolken dramatisch. Der Abend am Psili Ammos bietet totale Isolation. Bremsen Sie vorsichtig auf rutschigem Asphalt und meiden Sie unbefestigte Wege, die zu Schlamm werden. Ein Regenponcho ist Ihr bester Freund.",
+            "hu": "A reggeli tekerés a Tsigouri felé vizes utakon óvatosságot igényel. A dél Livadiban a nedves gyógynövények friss illatát hozza. A délután Phountanában drámai a nehéz felhők alatt. Az este Psili Ammosnál teljes elszigeteltséget kínál. Fékezzen óvatosan a csúszós aszfalton, és kerülje a sárral teli földutakat. Egy esőponcsó a legjobb barátja lesz.",
+            "ro": "Călătoria de dimineață spre Tsigouri pe drumuri ude necesită prudență. Prânzul la Livadi aduce mirosul proaspăt de ierburi umede. După-amiaza la Phountana este dramatică sub nori grei. Seara la Psili Ammos oferă izolare totală. Frânați ușor pe asfaltul alunecos și evitați drumurile de pământ care devin noroioase. O pelerină de ploaie este cel mai bun prieten.",
+            "en": "Morning ride to Tsigouri on wet roads requires caution. Noon at Livadi brings the fresh scent of damp herbs. Afternoon at Phountana is dramatic under heavy clouds. Evening at Psili Ammos offers total isolation. Use your brakes gently on the slippery asphalt and avoid unpaved paths that turn into mud. A high-quality rain poncho is your best friend during this adventurous island tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tsigouri beach",
+                "hu": "Tsigouri beach",
+                "ro": "Tsigouri beach",
+                "en": "Tsigouri beach"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg ist steil, nutzen Sie Ihre Bremsen sanft auf der nassen Fahrfläche; halten Sie den Regenponcho fest.",
+                "hu": "Az ereszkedés meredek, óvatosan használja a fékeket a nedves útfelületen; tartsa szorosan az esőponcsót.",
+                "ro": "Coborârea este abruptă, folosiți frânele cu blândețe pe suprafața umedă; țineți pelerina de ploaie bine fixată.",
+                "en": "The descent is steep, use your brakes gently on the wet surface; keep your rain poncho tight."
+              }
+            },
+            {
+              "name": {
+                "de": "Portokali",
+                "hu": "Portokali",
+                "ro": "Portokali",
+                "en": "Portokali"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um das aufgewühlte Meer zu bewundern; stellen Sie sicher, dass Ihr Fahrrad ordentliche Schutzbleche hat.",
+                "hu": "Rövid megálló a felkorbácsolt tenger megcsodálására; győződjön meg róla, hogy a kerékpárján vannak sárvédők.",
+                "ro": "O oprire scurtă pentru a admira marea agitată; asigurați-vă că bicicleta are aripi de protecție adecvate.",
+                "en": "A quick stop to admire the churning sea; make sure your bike has proper mudguards."
+              }
+            },
+            {
+              "name": {
+                "de": "Livadi",
+                "hu": "Livadi",
+                "ro": "Livadi",
+                "en": "Livadi"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist durch den Regen fest gepresst, was das Schieben erleichtert; prüfen Sie Ihren Reifendruck bei der Kälte.",
+                "hu": "A homokot az eső keményre döngölte, ami megkönnyíti a kerékpár tolását; ellenőrizze a guminyomást a hidegben.",
+                "ro": "Nisipul este tasat de ploaie, facilitând mersul pe lângă bicicletă; verificați presiunea în pneuri la frig.",
+                "en": "The sand is packed hard by the rain, making it easier to walk with your bike; check your tire pressure in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Lioliou",
+                "hu": "Paralia Lioliou",
+                "ro": "Paralia Lioliou",
+                "en": "Paralia Lioliou"
+              },
+              "tip_5lang": {
+                "de": "Ein abgelegener Ort, an dem der Regen wie eine private Show wirkt; trinken Sie trotz des kühlen Wetters genug Wasser.",
+                "hu": "Távoli hely, ahol az eső privát előadásnak tűnik; a hűvös idő ellenére is igyon elég vizet.",
+                "ro": "Un loc izolat unde ploaia pare un spectacol privat; hidratați-vă corespunzător în ciuda vremii răcoroase.",
+                "en": "A remote spot where the rain feels like a private show; stay hydrated despite the cool weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Phountana",
+                "hu": "Phountana",
+                "ro": "Phountana",
+                "en": "Phountana"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation ist üppig und grün; achten Sie auf Pfützen, die tiefe Schlaglöcher im Weg verbergen könnten.",
+                "hu": "A vegetáció dús és zöldellő; vigyázzon a tócsákkal, amelyek mély kátyúkat rejthetnek az úton.",
+                "ro": "Vegetația este luxuriantă și verde; atenție la bălțile care ar putea ascunde gropi adânci în drum.",
+                "en": "The vegetation is lush and greening; watch out for puddles that might hide deep holes in the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Psili Ammos",
+                "hu": "Psili Ammos",
+                "ro": "Psili Ammos",
+                "en": "Psili Ammos"
+              },
+              "tip_5lang": {
+                "de": "Der am weitesten entfernte Punkt der Fahrt; kehren Sie um, bevor die schweren Wolken die Sicht zu stark einschränken.",
+                "hu": "A túra legtávolabbi pontja; induljon vissza, mielőtt a nehéz felhők túlságosan korlátozzák a látási viszonyokat.",
+                "ro": "Cel mai îndepărtat punct al traseului; întoarceți-vă înainte ca norii grei să limiteze prea mult vizibilitatea.",
+                "en": "The most remote point of the ride; start heading back before the heavy clouds limit visibility too much."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgendliches Radfahren in der scharfen, belebenden Luft. Mittags am Paralia Lioliou ist es ruhig und sonnig. Der Nachmittag erreicht Phountana, wenn die tiefstehende Sonne lange Schatten wirft. Kehren Sie vor dem Sonnenuntergang um 17:00 Uhr ins Dorf zurück. Tragen Sie Handschuhe und windfeste Schichten. Die Straßen sind leer und erlauben es, die friedliche Landschaft zu genießen.",
+            "hu": "Reggeli kerékpározás a csípős, élénkítő levegőben. A dél a Paralia Lioliou-nál csendes és napos. Délután érkezés Phountanába, amikor az alacsony nap hosszú árnyékokat vet. Térjen vissza a faluba az 17:00 órai naplemente előtt. Viseljen kesztyűt és szélálló rétegeket. Az utak üresek, így zavartalanul élvezheti a sziget békés tájait.",
+            "ro": "Ciclism de dimineață în aerul ascuțit și revigorant. Prânzul la Paralia Lioliou este liniștit și însorit. După-amiaza ajungeți la Phountana în timp ce soarele slab creează umbre lungi. Întoarceți-vă în sat înainte de apusul de la 17:00. Purtați mănuși și straturi rezistente la vânt. Drumurile sunt goale, permițându-vă să vă bucurați de peisaje.",
+            "en": "Morning cycling in the sharp, invigorating air. Noon at Paralia Lioliou is quiet and sunny. Afternoon reaches Phountana as the low sun creates long shadows. Return to the village before the 17:00 sunset. Wear gloves and windproof layers to maintain body heat. The roads are empty, allowing you to enjoy the island's peaceful landscapes at your own pace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tsigouri beach",
+                "hu": "Tsigouri beach",
+                "ro": "Tsigouri beach",
+                "en": "Tsigouri beach"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft ist erfrischend, aber halten Sie Ihre Ohren gegen den scharfen Meltemi-Wind bedeckt.",
+                "hu": "A hideg levegő frissítő, de tartsa fedve a fülét az éles Meltemi szél ellen.",
+                "ro": "Aerul rece este revigorant, dar păstrați urechile acoperite împotriva vântului tăios Meltemi.",
+                "en": "The cold air is refreshing, but keep your ears covered against the sharp Meltemi wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Portokali",
+                "hu": "Portokali",
+                "ro": "Portokali",
+                "en": "Portokali"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die felsige Küste ohne die Sommermassen; der Weg ist trocken und fest für das Fahrrad.",
+                "hu": "Fedezze fel a sziklás partvonalat a nyári tömeg nélkül; az út száraz és szilárd a kerékpár számára.",
+                "ro": "Explorați coasta stâncoasă fără mulțimile de vară; poteca este uscată și fermă pentru bicicletă.",
+                "en": "Explore the rocky coastline without the summer crowds; the path is dry and firm for the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Livadi",
+                "hu": "Livadi",
+                "ro": "Livadi",
+                "en": "Livadi"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist ideal für einen Moment der Besinnung; tragen Sie Handschuhe, um Ihre Hände warm zu halten.",
+                "hu": "A tengerpart ideális egy csendes elmélyülésre; viseljen kesztyűt, hogy melegen tartsa a kezét tekerés közben.",
+                "ro": "Plaja este ideală pentru un moment de reflecție; purtați mănuși pentru a vă menține mâinile calde în timp ce pedalați.",
+                "en": "The beach is ideal for a quiet moment of reflection; wear gloves to keep your hands warm while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Lioliou",
+                "hu": "Paralia Lioliou",
+                "ro": "Paralia Lioliou",
+                "en": "Paralia Lioliou"
+              },
+              "tip_5lang": {
+                "de": "Einer der sonnigsten Plätze auch im Winter; genießen Sie die Einsamkeit der völlig leeren Küste.",
+                "hu": "Az egyik legnaposabb hely még télen is; élvezze a teljesen üres partvonal magányát.",
+                "ro": "Unul dintre cele mai însorite locuri chiar și iarna; bucurați-vă de solitudinea coastei complet goale.",
+                "en": "One of the sunniest spots even in winter; enjoy the solitude of the completely empty coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Phountana",
+                "hu": "Phountana",
+                "ro": "Phountana",
+                "en": "Phountana"
+              },
+              "tip_5lang": {
+                "de": "Ein geschützter Ort im Landesinneren, der sich wärmer anfühlt; halten Sie Ausschau nach frühen Winterblumen.",
+                "hu": "Védett belső terület, amely melegebbnek érződik a partnál; keressen korai téli virágokat.",
+                "ro": "Un loc adăpostit în interiorul insulei care pare mai cald; căutați flori timpurii de iarnă.",
+                "en": "A sheltered inland spot that feels warmer than the coast; look for early winter blooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Psili Ammos",
+                "hu": "Psili Ammos",
+                "ro": "Psili Ammos",
+                "en": "Psili Ammos"
+              },
+              "tip_5lang": {
+                "de": "Die Nordküste kann windig sein, treten Sie kräftig in die Pedale; verpassen Sie nicht den Sonnenuntergang um 17:00 Uhr.",
+                "hu": "Az északi part szeles lehet, tekerjen erősen a testhő megőrzéséért; ne késse le az 17:00 órai naplementét.",
+                "ro": "Coasta de nord poate fi vântoasă, pedalați tare pentru a vă menține căldura; nu ratați apusul de la ora 17:00.",
+                "en": "The north coast can be windy, pedal hard to maintain body heat; don't miss the 17:00 sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Használja az autót a távoli gyöngyszemek, mint Gerolimnionas és a csendes Phukio felfedezésére reggel. Délben a Psili Ammos finom homokja hívogat, majd Phountana következik. Késő délután fedezze fel Porit és Paralia Lioliout. A napot végül Livadi széles strandján zárhatja pihentetően.",
         "ro": "Folosiți mașina pentru a vizita bijuterii izolate precum Gerolimnionas și liniștitul Phukio dimineața. La prânz, nisipul fin de la Psili Ammos vă atrage, urmat de Phountana. După-amiaza târziu explorați Pori și Paralia Lioliou. Ziua se încheie minunat pe plaja largă și primitoare de la Livadi.",
         "en": "Take advantage of the car to reach remote gems like Gerolimnionas and quiet Phukio in the early morning. Midday brings the fine sand dunes of Psili Ammos, followed closely by idyllic Phountana. In the late afternoon, explore Pori and Paralia Lioliou. Finish your island road trip lounging on the broad sands of Livadi."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrt in den rauen Norden, während Regen gegen das Glas peitscht. Mittags bei Psili Ammos bietet sich ein Blick auf türkisfarbenes Wasser unter grauem Himmel. Der Nachmittag am Pori ist perfekt, um Wellen aus der trockenen Kabine zu beobachten. Abend bei Livadi. Fahren Sie langsam auf engen Straßen; das Auto bietet einen perfekten mobilen Schutz vor dem Wetter.",
+            "hu": "Reggeli autózás a vad északra, miközben az eső veri az üveget. Délben Psili Ammosnál türkizkék víz látszik a szürke ég alatt. A délután Pori-nál tökéletes a hullámok megfigyelésére a száraz utastérből. Az este Livadi csendes öblében ér véget. Vezessen lassan a szűk utakon; az autó tökéletes mozgó menedéket nyújt a borongós szépség felfedezéséhez.",
+            "ro": "Călătorie de dimineață spre nordul accidentat în timp ce ploaia lovește geamurile. Prânzul la Psili Ammos oferă o vedere a apelor turcoaz sub cerul gri. După-amiaza la Pori este perfectă pentru a privi valurile din cabina uscată. Seara se încheie la Livadi. Conduceți încet pe drumurile înguste; mașina oferă un adăpost mobil perfect contra ploii.",
+            "en": "Morning drive to the rugged north as rain hits the glass. Noon at Psili Ammos offers a view of turquoise waters under grey skies. Afternoon at Pori is perfect for watching waves from the dry cabin. Evening ends at Livadi's calm bay. Drive slowly on narrow roads; the car provides a perfect mobile shelter to explore the island's moody beauty."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gerolimnionas",
+                "hu": "Gerolimnionas",
+                "ro": "Gerolimnionas",
+                "en": "Gerolimnionas"
+              },
+              "tip_5lang": {
+                "de": "Die raue Nordküste wirkt im Regen dramatisch; lassen Sie für bessere Sicht auf engen Wegen das Abblendlicht an.",
+                "hu": "A vad északi part drámainak tűnik az esőben; a jobb láthatóság érdekében tartsa bekapcsolva a tompított fényszórót.",
+                "ro": "Coasta de nord accidentată pare dramatică în ploaie; țineți farurile aprinse pentru o mai bună vizibilitate pe drumuri.",
+                "en": "The rugged north coast looks dramatic in the rain; keep your headlights on for better visibility on narrow roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Phukio",
+                "hu": "Phukio",
+                "ro": "Phukio",
+                "en": "Phukio"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um die Brandung an den Felsen zu sehen; das Auto bietet den perfekten trockenen Schutzraum.",
+                "hu": "Rövid megálló a sziklákon megtörő hullámok megtekintésére; az autó tökéletes száraz menedéket nyújt.",
+                "ro": "O oprire scurtă pentru a vedea valurile spărgându-se de stânci; mașina oferă adăpostul uscat perfect.",
+                "en": "A quick stop to see the waves crashing against the rocks; the car provides the perfect dry shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Psili Ammos",
+                "hu": "Psili Ammos",
+                "ro": "Psili Ammos",
+                "en": "Psili Ammos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Strand, um die Aussicht zu genießen, ohne nass zu werden; der Boden kann an den Rändern weich sein.",
+                "hu": "Parkoljon közel a parthoz, hogy elázás nélkül élvezhesse a kilátást; a talaj puha lehet a széleken.",
+                "ro": "Parcați aproape de plajă pentru a vă bucura de priveliște fără să vă udați; solul poate fi moale la margini.",
+                "en": "Park close to the beach to enjoy the view without getting soaked; the ground can be soft near the edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Phountana",
+                "hu": "Phountana",
+                "ro": "Phountana",
+                "en": "Phountana"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt durch das Inselinnere zeigt eine andere, grünere Seite; achten Sie auf kleine Steine auf der Fahrbahn.",
+                "hu": "Az utazás a sziget belsején egy másfajta, zöldebb arcot mutat; ügyeljen az úton lévő apró kövekre.",
+                "ro": "Călătoria prin inima insulei arată o latură diferită, mai verde; atenție la pietrele mici de pe carosabil.",
+                "en": "The drive through the island's heart shows a different, greener side; watch for small rocks on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Pori beach",
+                "hu": "Pori beach",
+                "ro": "Pori beach",
+                "en": "Pori beach"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt im Nebel weit und stimmungsvoll; ideal für einen Kaffee aus der Thermoskanne bei Regen.",
+                "hu": "Az öböl hatalmasnak és hangulatosnak tűnik a ködben; ideális hely egy termoszos kávéhoz az esőben.",
+                "ro": "Golful este vast și melancolic în ceață; un loc excelent pentru o cafea din termos în timp ce plouă.",
+                "en": "The bay is vast and moody in the mist; a great spot for a thermos coffee while watching the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Lioliou",
+                "hu": "Paralia Lioliou",
+                "ro": "Paralia Lioliou",
+                "en": "Paralia Lioliou"
+              },
+              "tip_5lang": {
+                "de": "Die Straße ist asphaltiert, kann aber durch Regen und Salz glatt sein; fahren Sie langsam und genießen Sie die Stille.",
+                "hu": "Az út aszfaltozott, de az esőtől és a sótól csúszós lehet; vezessen lassan, és élvezze a kietlen szépséget.",
+                "ro": "Drumul este asfaltat, dar poate fi alunecos din cauza ploii și sării; conduceți încet și bucurați-vă de liniște.",
+                "en": "The road is paved but can be slick with rain and salt; drive slowly and enjoy the desolate beauty."
+              }
+            },
+            {
+              "name": {
+                "de": "Livadi",
+                "hu": "Livadi",
+                "ro": "Livadi",
+                "en": "Livadi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag an einem gemütlichen Ort; der kurze Weg vom Auto lohnt sich für die frische, regenreine Luft.",
+                "hu": "Zárja a napot egy hangulatos helyen; a rövid séta az autótól megéri a friss, eső mossa levegőért.",
+                "ro": "Încheiați ziua într-un loc primitor; scurta plimbare de la mașină merită pentru aerul proaspăt spălat de ploaie.",
+                "en": "End the day at a cozy spot; the short walk from the car is worth it for the fresh, rain-washed air."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die schlafende Insel bequem vom Auto aus. Morgen am Gerolimnionas zeigt die wilde Ägäis. Mittag am Psili Ammos ist hell und klar. Nachmittag taucht Pori und Lioliou in goldenes Licht. Der Tag endet in Livadi vor der frühen Dunkelheit um 17:00 Uhr. Die Heizung macht die Erkundung gemütlich. Genießen Sie die kristallklare Sicht und die absolute Stille des Winters.",
+            "hu": "Fedezze fel az alvó szigetet autója kényelméből. A reggel Gerolimnionasnál a vad Égei-tengert mutatja. A dél Psili Ammosnál ragyogó és tiszta. A délután Pori-t és Lioliou-t aranyfénybe öltözteti. A nap Livadiban ér véget a korai sötétedés előtt 17:00-kor. A fűtés otthonossá teszi a felfedezést. Élvezze a kristálytiszta látási viszonyokat és a tél abszolút csendjét.",
+            "ro": "Explorați insula adormită în confortul mașinii. Dimineața la Gerolimnionas arată Egeea sălbatică. Prânzul la Psili Ammos este luminos și senin. După-amiaza scaldă Pori și Lioliou în lumină aurie. Ziua se încheie la Livadi înainte de întunericul de la 17:00. Căldura din mașină face explorarea confortabilă. Bucurați-vă de vizibilitatea clară și liniștea absolută.",
+            "en": "Explore the sleeping island in the comfort of your car. Morning at Gerolimnionas shows the wild Aegean. Noon at Psili Ammos is bright and clear. Afternoon covers Pori and Lioliou in golden light. The day concludes at Livadi before the early darkness at 17:00. The heater makes exploration cozy. Enjoy the crystal-clear visibility and the absolute silence of winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gerolimnionas",
+                "hu": "Gerolimnionas",
+                "ro": "Gerolimnionas",
+                "en": "Gerolimnionas"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die wilde Seite von Schinoussa im Winter; die Heizung im Auto macht die Erkundung angenehm warm.",
+                "hu": "Tapasztalja meg Schinoussa vad oldalát télen; az autó fűtése kényelmessé és meleggé teszi a felfedezést.",
+                "ro": "Experimentați latura sălbatică a insulei iarna; încălzirea din mașină face explorarea confortabilă și caldă.",
+                "en": "Experience the wild side of Schinoussa in winter; the heater in the car makes the exploration comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Phukio",
+                "hu": "Phukio",
+                "ro": "Phukio",
+                "en": "Phukio"
+              },
+              "tip_5lang": {
+                "de": "Der klare Winterhimmel bietet Sicht bis nach Amorgos; bringen Sie ein Fernglas für den Horizont mit.",
+                "hu": "A tiszta téli égbolt egészen Amorgoszig kínál kilátást; vigyen távcsövet a horizont kémleléséhez.",
+                "ro": "Cerul senin de iarnă oferă priveliști până la Amorgos; aduceți un binoclu pentru a privi orizontul.",
+                "en": "The clear winter sky offers views all the way to Amorgos; bring binoculars for the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Psili Ammos",
+                "hu": "Psili Ammos",
+                "ro": "Psili Ammos",
+                "en": "Psili Ammos"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Rückzugsort, an dem Sie den Strand allein begehen können; tragen Sie einen warmen Mantel für die Brise.",
+                "hu": "Békés menedék, ahol egyedül sétálhat végig a parton; viseljen meleg kabátot a tengeri szél miatt.",
+                "ro": "Un refugiu liniștit unde puteți parcurge întreaga plajă singur; purtați o haină groasă pentru briza mării.",
+                "en": "A peaceful retreat where you can walk the entire beach alone; wear a warm coat for the coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Phountana",
+                "hu": "Phountana",
+                "ro": "Phountana",
+                "en": "Phountana"
+              },
+              "tip_5lang": {
+                "de": "Die traditionelle Architektur hebt sich von den grünen Hügeln ab; parken und machen Sie einen kurzen Spaziergang.",
+                "hu": "A hagyományos építészet kiemelkedik a zöldellő dombok közül; parkoljon le és tegyen egy rövid, frissítő sétát.",
+                "ro": "Arhitectura tradițională se evidențiază pe fundalul dealurilor verzi; parcați și faceți o scurtă plimbare.",
+                "en": "The traditional architecture stands out against the green hills; park and take a short, brisk walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Pori beach",
+                "hu": "Pori beach",
+                "ro": "Pori beach",
+                "en": "Pori beach"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist ein perfekter Ort, um auf die Farben des frühen Abends zu warten; die Luft ist kristallklar.",
+                "hu": "Az öböl tökéletes hely a kora esti színek megvárására; a levegő ilyenkor kristálytiszta és friss.",
+                "ro": "Golful este un loc perfect pentru a aștepta culorile serii timpurii; aerul este proaspăt și extrem de clar.",
+                "en": "The bay is a perfect spot to wait for the early evening colors; the air is crisp and clean."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Lioliou",
+                "hu": "Paralia Lioliou",
+                "ro": "Paralia Lioliou",
+                "en": "Paralia Lioliou"
+              },
+              "tip_5lang": {
+                "de": "Die Südspitze ist im Winter oft der wärmste Ort; genießen Sie die milde Sonne durch die Fensterscheiben.",
+                "hu": "A déli csücsök gyakran a legmelegebb hely télen; élvezze az enyhe napsütést az ablaküvegen keresztül.",
+                "ro": "Vârful sudic este adesea cel mai cald loc iarna; bucurați-vă de soarele blând prin geamurile mașinii.",
+                "en": "The southern tip is often the warmest place on the island in winter; enjoy the sun through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Livadi",
+                "hu": "Livadi",
+                "ro": "Livadi",
+                "en": "Livadi"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss eines Wintertages; das Dorf ist friedlich und die Tavernen bieten einen warmen Empfang.",
+                "hu": "Tökéletes befejezése egy téli napnak; a falu békés, és a helyi tavernák meleg fogadtatást kínálnak.",
+                "ro": "Finalul perfect pentru o zi de iarnă; satul este liniștit, iar tavernele locale oferă o primire călduroasă.",
+                "en": "The perfect end to a winter day; the village is peaceful and local tavernas offer a warm welcome."
+              }
+            }
+          ]
+        }
       }
     }
   }

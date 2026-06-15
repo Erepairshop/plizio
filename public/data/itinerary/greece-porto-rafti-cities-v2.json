@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját a Kalos Gialos frissítő partjainál, és élvezze a reggeli tengeri szellőt. Délben haladjon el az ikonikus világítótorony és a nyugodt Szent Szpiridon strand mellett. Délután fedezze fel a helyi folklórt a Tanítónő Házában, majd az ókeresztény bazilika történelmét. Töltsön el egy békés estét az ősi romok történelmi atmoszférájának elmélkedésével.",
         "ro": "Începeți turul de-a lungul coastelor revigorante de la Kalos Gialos, respirând briza mării. La prânz veți trece pe lângă farul emblematic și plaja liniștită a Sfântului Spiridon. După-amiaza, explorați folclorul local la Căsuța Învățătoarei și istoria la Bazilica Paleocreștină. Bucurați-vă de o seară pașnică contemplând ruinele antice la lumina apusului.",
         "en": "Start your walking tour along the refreshing shores of Kalos Gialos, breathing in the fresh morning sea breeze. Midday brings you past the iconic lighthouse and the tranquil beach of Saint Spyridon. By afternoon, explore local folklore at the Teacher's House and delve into ancient history at the Early Christian Basilica. Enjoy a peaceful evening contemplating the ruins."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen an der Küste beginnt erfrischend, erfordert aber gute Regenbekleidung. Mittags suchen wir Schutz in der Nähe der historischen Ruinen, wo der Stein im Regen glänzt. Am Nachmittag bietet der Hafen eine dramatische Kulisse mit aufpeitschenden Wellen. Der Abend endet gemütlich in einer trockenen Taverne, während draußen der Regen sanft auf das Dach trommelt.",
+            "hu": "Az esős reggel frissítően indul a parton, de vízálló öltözetet igényel. Délben a történelmi romok közelében keresünk menedéket, ahol a kövek fényesen csillognak a csapadékban. Délután a kikötő drámai látványt nyújt a felcsapó hullámokkal. Az este egy száraz taverna melegében ér véget, miközben kint az eső halkan kopog a tetőn.",
+            "ro": "O dimineață ploioasă pe coastă începe revigorant, dar necesită echipament impermeabil. La prânz, căutăm adăpost lângă ruinele istorice, unde piatra strălucește sub ploaie. După-amiaza, portul oferă un cadru dramatic cu valuri care se sparg de țărm. Seara se încheie confortabil într-o tavernă uscată, în timp ce ploaia bate ușor în acoperiș.",
+            "en": "A rainy morning on the coast starts refreshingly but requires good waterproof gear. At noon, we seek shelter near the historical ruins where the stones glisten in the rain. In the afternoon, the harbor provides a dramatic backdrop with crashing waves. The evening ends cozily in a dry tavern while the rain drums softly on the roof outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paralia Kalos Gialos",
+                "hu": "Paralia Kalos Gialos",
+                "ro": "Paralia Kalos Gialos",
+                "en": "Paralia Kalos Gialos"
+              },
+              "tip_5lang": {
+                "de": "Die Kieselsteine leuchten im Regen besonders farbenfroh; tragen Sie rutschfeste Schuhe, da die nassen Felsen am Ufer sehr glatt sein können.",
+                "hu": "A kavicsok különösen színesek az esőben; viselj csúszásmentes cipőt, mert a parti sziklák nagyon síkosak lehetnek a nedvességtől.",
+                "ro": "Pietrele de pe plajă sunt deosebit de colorate în ploaie; purtați încălțăminte antiderapantă, deoarece stâncile umede pot fi foarte alunecoase.",
+                "en": "The pebbles glow colorfully in the rain; wear non-slip shoes as the wet rocks near the shoreline can be very slippery from the moisture."
+              }
+            },
+            {
+              "name": {
+                "de": "Pharos Porto Raphte",
+                "hu": "Pharos Porto Raphte",
+                "ro": "Pharos Porto Raphte",
+                "en": "Pharos Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm wirkt im Nebel mystisch; halten Sie Ihre Kapuze fest, da der Wind hier bei Regen oft stark vom offenen Meer her weht.",
+                "hu": "A világítótorony misztikus látvány a ködben; fogd szorosan a kapucnidat, mert esőben gyakran fúj erős szél a nyílt tenger felől.",
+                "ro": "Farul pare mistic în ceață; țineți bine gluga, deoarece vântul suflă adesea cu putere dinspre marea liberă atunci când plouă.",
+                "en": "The lighthouse looks mystical in the mist; hold your hood tight as the wind often blows strongly from the open sea during rainy spells."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Agiou Spuridona",
+                "hu": "Paralia Agiou Spuridona",
+                "ro": "Paralia Agiou Spuridona",
+                "en": "Paralia Agiou Spuridona"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die raue See aus der Ferne; die Vordächer der nahen Cafés bieten einen guten trockenen Platz für eine kurze Pause.",
+                "hu": "Figyeld a haragos tengert távolról; a közeli kávézók előtetői jó száraz helyet kínálnak egy rövid pihenőre az eső elől.",
+                "ro": "Observați marea agitată de la distanță; copertinele cafenelelor din apropiere oferă un loc uscat bun pentru o scurtă pauză.",
+                "en": "Watch the angry sea from a distance; the awnings of nearby cafes offer a good dry spot for a short break away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "To Spitaki tes Daskalas",
+                "hu": "To Spitaki tes Daskalas",
+                "ro": "To Spitaki tes Daskalas",
+                "en": "To Spitaki tes Daskalas"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im grauen Licht sehr nostalgisch; achten Sie auf tiefe Pfützen in den engen Gassen rund um das Gebäude.",
+                "hu": "Az építészet nagyon nosztalgikus a szürke fényben; ügyelj a mély tócsákra az épület körüli szűk utcákban.",
+                "ro": "Arhitectura pare foarte nostalgică în lumina gri; atenție la bălțile adânci de pe străzile înguste din jurul clădirii.",
+                "en": "The architecture looks very nostalgic in the gray light; watch out for deep puddles in the narrow streets around the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhristianike Basilike Porto Raphte",
+                "hu": "Palaiokhristianike Basilike Porto Raphte",
+                "ro": "Palaiokhristianike Basilike Porto Raphte",
+                "en": "Palaiokhristianike Basilike Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine glänzen herrlich, sind aber tückisch; benutzen Sie einen stabilen Regenschirm, da das Gelände völlig offen ist.",
+                "hu": "Az ősi kövek gyönyörűen csillognak, de csalókák; használj stabil esernyőt, mivel a terep teljesen nyitott és nincs fedezék.",
+                "ro": "Pietrele antice strălucesc frumos, dar sunt înșelătoare; folosiți o umbrelă stabilă, deoarece terenul este complet deschis.",
+                "en": "The ancient stones glisten beautifully but are treacherous; use a sturdy umbrella as the site is completely open with no cover."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zu einem zügigen Spaziergang ein, bevor die Meeresbrise zu kalt wird. Mittags steht die Sonne tief und taucht die Bucht in ein goldenes, weiches Licht. Da es bereits gegen 17:00 Uhr dunkel wird, nutzen wir den Nachmittag für die Ruinen. Der Abend wird früh eingeläutet und wir genießen die Stille des fast menschenleeren Ortes.",
+            "hu": "A tiszta téli reggel élénk sétára hív, mielőtt a tengeri szél túl hideggé válna. Délben a nap alacsonyan jár, és aranyló, lágy fénybe öltözteti az öblöt. Mivel 17:00 körül sötétedik, a délutánt a romok felfedezésére szánjuk. Az este korán kezdődik, mi pedig élvezzük a szinte néptelen város csendjét.",
+            "ro": "O dimineață senină de iarnă invită la o plimbare vioaie înainte ca briza mării să devină prea rece. La prânz, soarele este jos și scaldă golful într-o lumină aurie și moale. Deoarece se întunecă în jurul orei 17:00, folosim după-amiaza pentru ruine. Seara începe devreme și ne bucurăm de liniștea locului aproape pustiu.",
+            "en": "A clear winter morning invites a brisk walk before the sea breeze becomes too cold. At noon, the sun is low, bathing the bay in a golden, soft light. Since it gets dark around 17:00, we use the afternoon for the ruins. The evening sets in early, and we enjoy the silence of the almost deserted coastal town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paralia Kalos Gialos",
+                "hu": "Paralia Kalos Gialos",
+                "ro": "Paralia Kalos Gialos",
+                "en": "Paralia Kalos Gialos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Strand; die Luft ist extrem klar, aber der Windchill ist hoch, also tragen Sie eine windfeste Jacke.",
+                "hu": "Élvezd a magányt a tengerparton; a levegő rendkívül tiszta, de a szél hűtőhatása erős, ezért viselj szélálló kabátot.",
+                "ro": "Bucurați-vă de singurătatea de pe plajă; aerul este extrem de clar, dar vântul este rece, așa că purtați o jachetă rezistentă.",
+                "en": "Enjoy the solitude on the beach; the air is extremely clear, but the wind chill is high, so wear a windproof jacket for protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Pharos Porto Raphte",
+                "hu": "Pharos Porto Raphte",
+                "ro": "Pharos Porto Raphte",
+                "en": "Pharos Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Leuchtturm ist ideal für Fotos; kommen Sie vor 16:00 Uhr, um das letzte warme Sonnenlicht auf den Felsen einzufangen.",
+                "hu": "A világítótoronynál a fények ideálisak a fotózáshoz; érkezz 16:00 előtt, hogy elcsípd az utolsó meleg napsugarakat a sziklákon.",
+                "ro": "Lumina de la far este ideală pentru fotografii; veniți înainte de ora 16:00 pentru a surprinde ultima lumină caldă a soarelui pe stânci.",
+                "en": "The light at the lighthouse is ideal for photos; arrive before 16:00 to catch the last warm sunlight hitting the rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Agiou Spuridona",
+                "hu": "Paralia Agiou Spuridona",
+                "ro": "Paralia Agiou Spuridona",
+                "en": "Paralia Agiou Spuridona"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter spiegelglatt; nutzen Sie die windgeschützten Ecken an den Mauern für eine kurze Teepause aus der Thermoskanne.",
+                "hu": "Az öböl télen tükörsima; használd a falak menti szélvédett sarkokat egy rövid teaszünethez a termoszból.",
+                "ro": "Golful este neted ca o oglindă iarna; folosiți colțurile ferite de vânt de lângă ziduri pentru o scurtă pauză de ceai din termos.",
+                "en": "The bay is mirror-smooth in winter; use the wind-sheltered corners by the walls for a short tea break from your thermos."
+              }
+            },
+            {
+              "name": {
+                "de": "To Spitaki tes Daskalas",
+                "hu": "To Spitaki tes Daskalas",
+                "ro": "To Spitaki tes Daskalas",
+                "en": "To Spitaki tes Daskalas"
+              },
+              "tip_5lang": {
+                "de": "Das historische Haus wirkt ohne die Sommerhitze viel einladender; die Sonne wärmt hier mittags die traditionellen Steinmauern auf.",
+                "hu": "A történelmi ház a nyári hőség nélkül sokkal hívogatóbb; a nap délben szépen felmelegíti itt a hagyományos kőfalakat.",
+                "ro": "Casa istorică pare mult mai primitoare fără căldura verii; soarele încălzește frumos zidurile tradiționale de piatră la prânz.",
+                "en": "The historic house is much more inviting without the summer heat; the sun warms up the traditional stone walls here at midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhristianike Basilike Porto Raphte",
+                "hu": "Palaiokhristianike Basilike Porto Raphte",
+                "ro": "Palaiokhristianike Basilike Porto Raphte",
+                "en": "Palaiokhristianike Basilike Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen zügig, da es im Schatten der Mauern schnell kühl wird; beenden Sie den Rundgang vor Sonnenuntergang um 17:00.",
+                "hu": "Látogasd meg gyorsan az ásatásokat, mert a falak árnyékában hamar lehűl a levegő; fejezd be a kört a 17:00-s naplemente előtt.",
+                "ro": "Vizitați săpăturile rapid, deoarece se răcește repede la umbra zidurilor; terminați turul înainte de apusul soarelui de la ora 17:00.",
+                "en": "Visit the excavations briskly as it cools down fast in the shadows; finish your tour before the 17:00 sunset to avoid the chill."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpáros kalandja a tágas Aulaki strandon kezdődik, amely tökéletes egy reggeli tengerparti tekeréshez. Haladjon északra a Kalos Gialos és a világítótorony felé a déli napsütésben. Délután történelmi helyszínek, például a Tanítónő Háza és az ősi bazilikák várják. Zárja a kerékpározást az Erotospelia nevű öbölnél, pihenve a Szerelem Barlangjának nyugodt partjainál.",
         "ro": "Aventura cu bicicleta începe la plaja spațioasă Aulaki, perfectă pentru o pedalare matinală. Mergeți spre nord spre Kalos Gialos și far, bucurându-vă de soarele de la prânz reflectat pe apă. După-amiaza vă poartă prin locuri istorice precum Căsuța Învățătoarei și Bazilici antice. Încheiați cursa la Erotospelia, relaxându-vă seara la Peștera Dragostei.",
         "en": "Your cycling adventure begins at the spacious Aulaki beach, perfect for a quick morning pedal along the coast. Ride northwards towards Kalos Gialos and the lighthouse, enjoying the vibrant midday sun reflecting off the water. The afternoon takes you through historical spots like the Teacher's House and ancient Basilicas. Finish your ride at Erotospelia, relaxing at the 'Cave of Love'."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen verlangt volle Konzentration auf die rutschigen Straßen. Morgens spritzt das Wasser von den Reifen, während wir die Küste entlangfahren. Mittags machen wir längere Pausen unter Vordächern, um die Bremsen zu prüfen. Nachmittags wird die Fahrt durch die Hügel anstrengender, aber die Aussicht bleibt grandios. Der Tag endet mit der Reinigung der Ausrüstung an einem warmen Ort.",
+            "hu": "A bringázás esőben teljes koncentrációt igényel a csúszós utak miatt. Reggel a víz felcsap a kerekekről, miközben a parton haladunk. Délben hosszabb szüneteket tartunk az előtetők alatt a fékek ellenőrzésére. Délután a dombok közötti tekerés fárasztóbb, de a kilátás maradandó. A nap a felszerelés letisztításával zárul egy meleg helyen.",
+            "ro": "O tură cu bicicleta pe ploaie necesită concentrare maximă pe drumurile alunecoase. Dimineața, apa sare de pe roți în timp ce mergem pe coastă. La prânz, facem pauze mai lungi sub copertine pentru a verifica frânele. După-amiaza, drumul prin dealuri este mai obositor, dar priveliștea rămâne grandioasă. Ziua se încheie cu curățarea echipamentului într-un loc cald.",
+            "en": "Cycling in the rain demands full concentration on the slippery roads. In the morning, water sprays from the tires as we ride along the coast. At noon, we take longer breaks under awnings to check the brakes. In the afternoon, the ride through the hills is more tiring, but the view remains grand. The day ends with cleaning the gear in a warm spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porto Raphte Paralia Aulaki",
+                "hu": "Porto Raphte Paralia Aulaki",
+                "ro": "Porto Raphte Paralia Aulaki",
+                "en": "Porto Raphte Paralia Aulaki"
+              },
+              "tip_5lang": {
+                "de": "Der Asphalt am Strand kann bei Nässe sehr glatt sein; bremsen Sie vorsichtig und vorausschauend vor den Kurven am Hafen.",
+                "hu": "Az aszfalt a strandnál nagyon síkos lehet nedvesen; fékezz óvatosan és előrelátóan a kikötő környéki kanyarok előtt.",
+                "ro": "Asfaltul de lângă plajă poate fi foarte alunecos când este ud; frânați cu atenție și anticipați curbele din zona portului.",
+                "en": "The asphalt near the beach can be very slick when wet; brake carefully and look ahead before taking the harbor-side turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Kalos Gialos",
+                "hu": "Paralia Kalos Gialos",
+                "ro": "Paralia Kalos Gialos",
+                "en": "Paralia Kalos Gialos"
+              },
+              "tip_5lang": {
+                "de": "Der Wind drückt hier stark gegen die Fahrtrichtung; halten Sie den Lenker fest und achten Sie auf tiefe Pfützen am Straßenrand.",
+                "hu": "A szél itt erősen szembe fújhat; fogd szorosan a kormányt, és ügyelj az út szélén lévő mély tócsákra.",
+                "ro": "Vântul poate sufla cu putere din față aici; țineți bine ghidonul și aveți grijă la bălțile adânci de pe marginea drumului.",
+                "en": "The wind can push hard against you here; keep a firm grip on the handlebars and watch out for deep puddles at the road's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Pharos Porto Raphte",
+                "hu": "Pharos Porto Raphte",
+                "ro": "Pharos Porto Raphte",
+                "en": "Pharos Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Starke Böen können Ihr Rad versetzen; stellen Sie das Fahrrad stabil ab und nutzen Sie die Hafenmauern als Windschutz für eine Pause.",
+                "hu": "Az erős lökések arrébb tolhatják a bringát; támaszd le stabilan a gépet, és használd a kikötői falakat szélfogónak pihenéskor.",
+                "ro": "Rafalele puternice pot muta bicicleta; parcați-o stabil și folosiți zidurile portului ca paravan împotriva vântului în timpul pauzei.",
+                "en": "Strong gusts can shift your bike; park it stably and use the harbor walls as a windbreak while you take a quick rest."
+              }
+            },
+            {
+              "name": {
+                "de": "To Spitaki tes Daskalas",
+                "hu": "To Spitaki tes Daskalas",
+                "ro": "To Spitaki tes Daskalas",
+                "en": "To Spitaki tes Daskalas"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hier hilft gegen das Frösteln im Regen; achten Sie beim Bergabfahren auf nasses Laub oder Schlamm auf der Fahrbahn.",
+                "hu": "Az emelkedő segít felmelegedni az esőben; lejtmenetben figyelj a nedves levelekre vagy a sárra az úttesten.",
+                "ro": "Urcarea vă va ajuta să vă încălziți în ploaie; la coborâre, aveți grijă la frunzele ude sau la noroiul de pe carosabil.",
+                "en": "The climb will help you warm up in the rain; when descending, watch out for wet leaves or mud washed onto the roadway."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhristianike Basilike Porto Raphte",
+                "hu": "Palaiokhristianike Basilike Porto Raphte",
+                "ro": "Palaiokhristianike Basilike Porto Raphte",
+                "en": "Palaiokhristianike Basilike Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Die gepflasterten Wege rund um die Basilika sind extrem rutschig; steigen Sie lieber ab und schieben Sie das Rad über die nassen Steine.",
+                "hu": "A bazilika körüli köves utak rendkívül csúszósak; inkább szállj le, és told a bringát a nedves köveken a biztonság kedvéért.",
+                "ro": "Drumurile pietruite din jurul bazilicii sunt extrem de alunecoase; mai bine coborâți și împingeți bicicleta peste pietrele ude.",
+                "en": "The cobbled paths around the basilica are extremely slippery; it is better to dismount and push your bike over the wet stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+                "hu": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+                "ro": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+                "en": "Usteromukenaiko Nekrotapheio Perates Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Friedhof kann aufgeweicht sein; vermeiden Sie schlammige Abschnitte, um nicht mit den Reifen im weichen Boden stecken zu bleiben.",
+                "hu": "A temetőhöz vezető út felázhat; kerüld a sáros részeket, nehogy a kerék beleragadjon a felpuhult talajba az eső után.",
+                "ro": "Drumul spre cimitir poate fi înmuiat; evitați porțiunile noroioase pentru a nu rămâne cu roțile blocate în solul moale.",
+                "en": "The path to the cemetery can get waterlogged; avoid muddy sections to prevent your tires from sinking into the soft ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Erotospelia",
+                "hu": "Erotospelia",
+                "ro": "Erotospelia",
+                "en": "Erotospelia"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel ist erreicht, aber die Treppen sind nass; sichern Sie Ihr Rad oben und gehen Sie vorsichtig zum Strand hinunter.",
+                "hu": "A cél közel van, de a lépcsők vizesek; zárd le a bringát fent, és óvatosan sétálj le a partra a csúszós fokokon.",
+                "ro": "Destinația este aproape, dar treptele sunt ude; asigurați bicicleta sus și coborâți cu atenție spre plajă pe treptele umede.",
+                "en": "The goal is near, but the steps are wet; lock your bike at the top and walk down carefully to the beach on the slippery steps."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren erfordert warme Schichten und gute Beleuchtung. Morgens ist die Luft beißend kalt, aber die leeren Straßen bieten viel Platz. Mittags nutzen wir die Kraft der Sonne für die steileren Abschnitte. Da es bereits um 17:00 Uhr dunkel wird, müssen wir den Zeitplan strikt einhalten. Der Abend endet mit dem Check der Fahrradleuchten für die Rückfahrt im Dunkeln.",
+            "hu": "A téli bringázáshoz meleg rétegek és jó világítás szükséges. Reggel a levegő harapósan hideg, de az üres utak sok helyet adnak. Délben a nap erejét használjuk a meredekebb szakaszokhoz. Mivel már 17:00-kor sötétedik, a menetrendet szigorúan tartanunk kell. Az este a lámpák ellenőrzésével zárul a sötétben való hazatérés előtt.",
+            "ro": "Ciclismul de iarnă necesită straturi calde și iluminare bună. Dimineața aerul este tăios de rece, dar drumurile goale oferă mult spațiu. La prânz folosim puterea soarelui pentru porțiunile mai abrupte. Deoarece se întunecă deja la ora 17:00, trebuie să respectăm strict programul. Seara se încheie cu verificarea luminilor pentru întoarcerea pe întuneric.",
+            "en": "Winter cycling requires warm layers and excellent lighting. In the morning, the air is biting cold, but the empty roads offer plenty of space. At noon, we use the sun's warmth for the steeper sections. Since it gets dark by 17:00, we must strictly follow the schedule. The evening ends with checking bike lights before the dark ride home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porto Raphte Paralia Aulaki",
+                "hu": "Porto Raphte Paralia Aulaki",
+                "ro": "Porto Raphte Paralia Aulaki",
+                "en": "Porto Raphte Paralia Aulaki"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit Handschuhen; der Fahrtwind am frühen Morgen ist hier am Meer besonders frostig, auch wenn die Sonne scheint.",
+                "hu": "Indulj kesztyűben; a kora reggeli menetszél itt a tengerparton különösen fagyos tud lenni, még ha süt is a nap.",
+                "ro": "Porniți la drum cu mănuși; vântul de dimineață este deosebit de rece aici la malul mării, chiar dacă soarele strălucește.",
+                "en": "Start with gloves; the early morning wind chill here by the sea is particularly frosty, even if the sun is out."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Kalos Gialos",
+                "hu": "Paralia Kalos Gialos",
+                "ro": "Paralia Kalos Gialos",
+                "en": "Paralia Kalos Gialos"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter fantastisch; halten Sie kurz an, um den Horizont zu bewundern, aber bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "A látótávolság télen fantasztikus; állj meg egy pillanatra megcsodálni a horizontot, de maradj mozgásban, hogy ne fázz meg.",
+                "ro": "Vizibilitatea este fantastică iarna; opriți-vă un moment pentru a admira orizontul, dar rămâneți în mișcare pentru a vă menține căldura.",
+                "en": "The visibility is fantastic in winter; stop for a moment to admire the horizon, but stay in motion to keep your body temperature up."
+              }
+            },
+            {
+              "name": {
+                "de": "Pharos Porto Raphte",
+                "hu": "Pharos Porto Raphte",
+                "ro": "Pharos Porto Raphte",
+                "en": "Pharos Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Hafen ist im Winter unerbittlich; suchen Sie sich eine geschützte Stelle für den Check Ihrer Ausrüstung vor der Weiterfahrt.",
+                "hu": "A kikötői szél télen könyörtelen; keress egy védett helyet a felszerelésed ellenőrzéséhez a továbbhaladás előtt.",
+                "ro": "Vântul din port este necruțător iarna; găsiți un loc adăpostit pentru a vă verifica echipamentul înainte de a porni mai departe.",
+                "en": "The harbor wind is relentless in winter; find a sheltered spot to check your gear before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "To Spitaki tes Daskalas",
+                "hu": "To Spitaki tes Daskalas",
+                "ro": "To Spitaki tes Daskalas",
+                "en": "To Spitaki tes Daskalas"
+              },
+              "tip_5lang": {
+                "de": "Die Steigung bringt den Kreislauf in Schwung; die klare Winterluft macht das Atmen bei der Anstrengung hier besonders angenehm.",
+                "hu": "Az emelkedő beindítja a keringést; a tiszta téli levegő különösen kellemessé teszi a légzést a megerőltetés közben.",
+                "ro": "Urcarea vă pune sângele în mișcare; aerul curat de iarnă face respirația deosebit de plăcută în timpul efortului depus aici.",
+                "en": "The climb will get your circulation going; the crisp winter air makes breathing during the exertion here very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhristianike Basilike Porto Raphte",
+                "hu": "Palaiokhristianike Basilike Porto Raphte",
+                "ro": "Palaiokhristianike Basilike Porto Raphte",
+                "en": "Palaiokhristianike Basilike Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Mittagslicht für die Ruinen; die Steine speichern keine Wärme, daher sollten Sie nicht zu lange im Sitzen pausieren.",
+                "hu": "Használd ki a déli fényt a romoknál; a kövek nem tartják a meleget, ezért ne tarts túl hosszú ülő pihenőt ezen a helyen.",
+                "ro": "Profitați de lumina amiezii pentru ruine; pietrele nu rețin căldura, așa că nu faceți pauze lungi stând jos în acest loc.",
+                "en": "Take advantage of the midday light at the ruins; the stones don't hold heat, so avoid taking long seated breaks here."
+              }
+            },
+            {
+              "name": {
+                "de": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+                "hu": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+                "ro": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+                "en": "Usteromukenaiko Nekrotapheio Perates Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp vor 16:30 Uhr ein; die Schatten werden lang und es wird schlagartig kälter, sobald die Sonne hinter den Hügeln sinkt.",
+                "hu": "Tervezd ezt a megállót 16:30 elé; az árnyékok meghosszabbodnak és hirtelen lehűl az idő, amint a nap a dombok mögé bukik.",
+                "ro": "Planificați această oprire înainte de ora 16:30; umbrele devin lungi și se face brusc mai frig imediat ce soarele apune după dealuri.",
+                "en": "Plan this stop before 16:30; shadows grow long and it gets suddenly colder as soon as the sun dips behind the hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Erotospelia",
+                "hu": "Erotospelia",
+                "ro": "Erotospelia",
+                "en": "Erotospelia"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Abschluss des Tages; schalten Sie jetzt Ihre Fahrradbeleuchtung ein, da der Rückweg sicher bereits im Halbdunkel stattfindet.",
+                "hu": "A nap csendes lezárása; kapcsold be a bringalámpákat, mivel a visszavezető út már biztosan szürkületben telik majd.",
+                "ro": "O încheiere liniștită a zilei; aprindeți acum luminile bicicletei, deoarece drumul de întoarcere va fi cu siguranță pe semi-întuneric.",
+                "en": "A quiet end to the day; turn on your bike lights now as the return journey will definitely be in the twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +917,280 @@
         "hu": "A Porto Rafti-i autózás egy kellemes reggellel indul az Aulaki strandon és a Kekropoula sziget látványával. Délben kocsikázzon a világítótoronyhoz és a nyüzsgő északi strandokhoz. Töltse a délutánt az ókeresztény és mükénéi történelmi emlékek felfedezésével a régió szívében. Zárja a napot egy romantikus estével az eldugott Erotospelia öböl festői környezetében.",
         "ro": "Condusul prin Porto Rafti începe cu o dimineață plăcută la plaja Aulaki și o priveliște pitorească a insulei Kekropoula. La prânz, conduceți către far și plajele nordice. Petreceți după-amiaza descoperind istoria profundă la siturile paleocreștine și miceniene. Încheiați cu o seară romantică la golful izolat Erotospelia, bucurându-vă de peisajul litoralului grecesc.",
         "en": "Driving through Porto Rafti starts with a pleasant morning at Aulaki beach and a scenic view of Kekropoula island. By midday, cruise to the lighthouse and the lively northern beaches to grab a quick bite. Spend your afternoon uncovering deep history at the early Christian and Mycenaean sites. Conclude with a romantic evening at the secluded Erotospelia bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich Porto Rafti auch bei starkem Regen entspannt erkunden. Morgens genießen wir die Aussicht auf die stürmische See durch die Windschutzscheibe. Mittags fahren wir nah an die Sehenswürdigkeiten heran, um nur kurze Wege im Freien zu haben. Nachmittags sind die Straßen leerer, aber Vorsicht vor Aquaplaning. Der Abend endet mit einer sicheren Fahrt zurück zur Unterkunft.",
+            "hu": "Autóval Porto Rafti erős esőben is kényelmesen felfedezhető. Reggel a szélvédőn keresztül élvezzük a viharos tenger látványát. Délben közel hajtunk a látnivalókhoz, hogy csak keveset kelljen a szabadban áznunk. Délután az utak üresebbek, de vigyázzunk a vízátfolyásokra. Az este biztonságos hazavezetéssel zárul a szálláshelyre.",
+            "ro": "Cu mașina, Porto Rafti poate fi explorat relaxat chiar și în condiții de ploaie puternică. Dimineața admirăm marea agitată prin parbriz. La prânz parcăm aproape de obiective pentru a merge cât mai puțin prin ploaie. După-amiaza drumurile sunt mai libere, dar atenție la acvaplanare. Seara se încheie cu un drum sigur înapoi spre cazare.",
+            "en": "By car, Porto Rafti can be explored comfortably even in heavy rain. In the morning, we enjoy the view of the stormy sea through the windshield. At noon, we drive close to the sights to minimize time spent outdoors. In the afternoon, the roads are emptier, but watch out for aquaplaning. The evening ends with a safe drive back to the accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porto Raphte Paralia Aulaki",
+                "hu": "Porto Raphte Paralia Aulaki",
+                "ro": "Porto Raphte Paralia Aulaki",
+                "en": "Porto Raphte Paralia Aulaki"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz; bei Regen können die unbefestigten Flächen am Rand schnell zu schlammigen Fallen werden.",
+                "hu": "Használd a szilárd burkolatú parkolót; esőben a széleken lévő burkolatlan területek könnyen sáros csapdává válhatnak.",
+                "ro": "Folosiți parcarea asfaltată; pe ploaie, zonele neamenajate de pe margine pot deveni rapid capcane noroioase.",
+                "en": "Use the paved parking lot; during rain, the unpaved areas at the edges can quickly turn into muddy traps."
+              }
+            },
+            {
+              "name": {
+                "de": "Nesida Kekropoula",
+                "hu": "Nesida Kekropoula",
+                "ro": "Nesida Kekropoula",
+                "en": "Nesida Kekropoula"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist ideal für Fotos aus dem Auto; die Insel wirkt im Regen und Nebel besonders geheimnisvoll und abgelegen.",
+                "hu": "A kilátópont ideális az autóból való fotózáshoz; a sziget az esőben és ködben különösen titokzatosnak és távolinak tűnik.",
+                "ro": "Punctul de belvedere este ideal pentru fotografii din mașină; insula pare deosebit de misterioasă și izolată în ploaie și ceață.",
+                "en": "The viewpoint is ideal for taking photos from the car; the island looks particularly mysterious and remote in the rain and mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Kalos Gialos",
+                "hu": "Paralia Kalos Gialos",
+                "ro": "Paralia Kalos Gialos",
+                "en": "Paralia Kalos Gialos"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Klimaanlage auf Entfrostung eingestellt; die Feuchtigkeit im Auto steigt schnell an, wenn man mit nassen Jacken einsteigt.",
+                "hu": "Tartsd a légkondicionálót páramentesítő módban; a nedvesség gyorsan megnő az autóban, ha vizes kabátban szállsz be.",
+                "ro": "Țineți aerul condiționat pe modul dezaburire; umiditatea din mașină crește rapid când intrați cu jachete ude.",
+                "en": "Keep the air conditioning on defrost mode; humidity inside the car rises quickly when getting in with wet jackets."
+              }
+            },
+            {
+              "name": {
+                "de": "Pharos Porto Raphte",
+                "hu": "Pharos Porto Raphte",
+                "ro": "Pharos Porto Raphte",
+                "en": "Pharos Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie im Hafenbereich langsam; bei starkem Regen können Wellen über die Kaimauer spritzen und die Sicht plötzlich einschränken.",
+                "hu": "Vezess lassan a kikötő környékén; heves esőzéskor a hullámok átcsaphatnak a rakparton, hirtelen korlátozva a látótávolságot.",
+                "ro": "Conduceți încet în zona portului; în timpul ploilor abundente, valurile pot trece peste chei, limitând brusc vizibilitatea.",
+                "en": "Drive slowly in the harbor area; during heavy rain, waves can splash over the quay wall, suddenly limiting your visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Agiou Spuridona",
+                "hu": "Paralia Agiou Spuridona",
+                "ro": "Paralia Agiou Spuridona",
+                "en": "Paralia Agiou Spuridona"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um das Meer aus dem geschützten Wagen zu beobachten; achten Sie beim Aussteigen auf tiefe Wasserläufe in den Rinnen.",
+                "hu": "Remek hely a tenger megfigyelésére a védett autóból; kiszálláskor ügyelj a mély vízelvezető árkokra az út mentén.",
+                "ro": "Un loc excelent pentru a observa marea din mașina protejată; la coborâre, atenție la șuvoaiele adânci de apă din rigole.",
+                "en": "A great spot to watch the sea from the sheltered car; when getting out, watch out for deep water runoff in the gutters."
+              }
+            },
+            {
+              "name": {
+                "de": "To Spitaki tes Daskalas",
+                "hu": "To Spitaki tes Daskalas",
+                "ro": "To Spitaki tes Daskalas",
+                "en": "To Spitaki tes Daskalas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie kurz am Straßenrand für einen schnellen Blick; die engen Straßen können bei Regen durch abfließendes Wasser rutschig sein.",
+                "hu": "Parkolj le rövid időre az út szélén egy gyors nézelődésre; a szűk utcák a lefolyó víz miatt csúszósak lehetnek esőben.",
+                "ro": "Parcați scurt pe marginea drumului pentru o privire rapidă; străzile înguste pot fi alunecoase din cauza apei care se scurge.",
+                "en": "Park briefly at the roadside for a quick look; the narrow streets can be slippery due to runoff water during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhristianike Basilike Porto Raphte",
+                "hu": "Palaiokhristianike Basilike Porto Raphte",
+                "ro": "Palaiokhristianike Basilike Porto Raphte",
+                "en": "Palaiokhristianike Basilike Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann überschwemmt sein; suchen Sie sich die höchste Stelle zum Parken, um nicht in eine tiefe Pfütze zu treten.",
+                "hu": "A bevezető út elárasztott lehet; keress egy magasabb pontot a parkoláshoz, hogy ne lépj mély tócsába kiszálláskor.",
+                "ro": "Drumul de acces poate fi inundat; căutați cel mai înalt punct pentru parcare pentru a nu călca într-o baltă adâncă la coborâre.",
+                "en": "The access path may be flooded; find the highest spot for parking to avoid stepping into a deep puddle when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+                "hu": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+                "ro": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+                "en": "Usteromukenaiko Nekrotapheio Perates Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie die unbefestigten Wege direkt am Friedhof; der Boden wird dort sehr weich und das Wenden kann schwierig werden.",
+                "hu": "Kerüld a közvetlenül a temetőnél lévő burkolatlan utakat; a talaj ott nagyon felpuhul, és a megfordulás nehézkessé válhat.",
+                "ro": "Evitați drumurile neasfaltate direct de lângă cimitir; solul devine foarte moale acolo și întoarcerea poate fi dificilă.",
+                "en": "Avoid the unpaved roads directly by the cemetery; the ground gets very soft there and turning around can become difficult."
+              }
+            },
+            {
+              "name": {
+                "de": "Erotospelia",
+                "hu": "Erotospelia",
+                "ro": "Erotospelia",
+                "en": "Erotospelia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Trommeln des Regens auf dem Autodach; der Parkplatz bietet eine tolle Aussicht, ohne dass man nass werden muss.",
+                "hu": "Élvezd az eső kopogását az autótetőn; a parkolóból remek kilátás nyílik a tengerre anélkül, hogy eláznál.",
+                "ro": "Bucurați-vă de ropoteul ploii pe plafonul mașinii; parcarea oferă o vedere excelentă spre mare fără a fi nevoie să vă udați.",
+                "en": "Enjoy the drumming of the rain on the car roof; the parking area offers a great view of the sea without needing to get wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist Porto Rafti ein ruhiger Rückzugsort, den man am besten mit dem Auto erkundet. Morgens wärmt die Heizung schnell auf, während wir die leeren Küstenstraßen abfahren. Mittags ist das Licht perfekt für Panoramafotos ohne den sommerlichen Dunst. Da die Sonne gegen 17:00 Uhr untergeht, planen wir die letzte Station frühzeitig ein. Der Abend bietet eine entspannte Rückfahrt im warmen Wagen.",
+            "hu": "Télen Porto Rafti egy csendes menedék, amit autóval a legkönnyebb felfedezni. Reggel a fűtés hamar bemelegszik, miközben az üres parti utakon haladunk. Délben a fények tökéletesek a panorámafotókhoz a nyári pára nélkül. Mivel a nap 17:00 körül lebukik, az utolsó állomást időben tervezzük. Az este pihentető visszavezetést kínál a meleg autóban.",
+            "ro": "Iarna, Porto Rafti este un refugiu liniștit, cel mai bine explorat cu mașina. Dimineața căldura se simte rapid în timp ce parcurgem drumurile pustii de pe coastă. La prânz lumina este perfectă pentru fotografii panoramice fără negura verii. Deoarece soarele apune în jur de ora 17:00, planificăm ultima oprire din timp. Seara oferă un drum relaxat înapoi în mașina caldă.",
+            "en": "In winter, Porto Rafti is a quiet retreat best explored by car. In the morning, the heater warms up quickly as we cruise the empty coastal roads. At noon, the light is perfect for panoramic photos without the summer haze. Since the sun sets around 17:00, we plan the last stop early. The evening offers a relaxed drive back in the warm vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porto Raphte Paralia Aulaki",
+                "hu": "Porto Raphte Paralia Aulaki",
+                "ro": "Porto Raphte Paralia Aulaki",
+                "en": "Porto Raphte Paralia Aulaki"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter kein Problem; nutzen Sie die Zeit für einen kurzen Spaziergang an der herrlich klaren Seeluft.",
+                "hu": "A parkolás télen egyáltalán nem probléma; használd ki az időt egy rövid sétára a csodálatosan tiszta tengeri levegőn.",
+                "ro": "Găsirea unui loc de parcare nu este o problemă iarna; profitați de timp pentru o scurtă plimbare în aerul marin minunat de curat.",
+                "en": "Finding parking is no problem at all in winter; take the time for a short walk in the wonderfully clear sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Nesida Kekropoula",
+                "hu": "Nesida Kekropoula",
+                "ro": "Nesida Kekropoula",
+                "en": "Nesida Kekropoula"
+              },
+              "tip_5lang": {
+                "de": "Das tiefstehende Sonnenlicht bietet dramatische Kontraste auf der Insel; ideal für scharfe Landschaftsfotografien direkt vom Wegrand.",
+                "hu": "Az alacsonyan járó nap drámai kontrasztokat hoz létre a szigeten; ideális az éles tájfotókhoz közvetlenül az út széléről.",
+                "ro": "Lumina joasă a soarelui oferă contraste dramatice pe insulă; ideal pentru fotografii de peisaj clare direct de pe marginea drumului.",
+                "en": "The low sun creates dramatic contrasts on the island; ideal for sharp landscape photography directly from the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Kalos Gialos",
+                "hu": "Paralia Kalos Gialos",
+                "ro": "Paralia Kalos Gialos",
+                "en": "Paralia Kalos Gialos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den leeren Strand; die Heizung im Auto sorgt für Gemütlichkeit, während Sie den Winterwind draußen beobachten.",
+                "hu": "Élvezd az üres strand látványát; az autó fűtése gondoskodik a kényelemről, miközben kint a téli szelet figyeled.",
+                "ro": "Bucurați-vă de vederea spre plaja goală; căldura din mașină asigură confortul în timp ce observați vântul de iarnă de afară.",
+                "en": "Enjoy the view of the empty beach; the car's heater ensures comfort while you watch the winter wind blowing outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pharos Porto Raphte",
+                "hu": "Pharos Porto Raphte",
+                "ro": "Pharos Porto Raphte",
+                "en": "Pharos Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt im Winterlicht viel weiter; bleiben Sie für Panoramaaufnahmen im Wagen, wenn der Wind am Hafen zu stark weht.",
+                "hu": "Az öböl a téli fényben sokkal tágasabbnak tűnik; maradj az autóban a panorámaképekhez, ha a kikötői szél túl erős lenne.",
+                "ro": "Golful pare mult mai vast în lumina iernii; rămâneți în mașină pentru fotografii panoramice dacă vântul din port este prea puternic.",
+                "en": "The bay looks much wider in the winter light; stay in the car for panoramic shots if the harbor wind is too strong."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Agiou Spuridona",
+                "hu": "Paralia Agiou Spuridona",
+                "ro": "Paralia Agiou Spuridona",
+                "en": "Paralia Agiou Spuridona"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Kaffeepause im Auto mit Blick auf die Wellen; die Küstenstraße ist ohne die sommerlichen Staus sehr entspannt.",
+                "hu": "Ideális hely egy kávészünethez az autóban, nézve a hullámokat; a parti út a nyári dugók nélkül nagyon pihentető.",
+                "ro": "Un loc ideal pentru o pauză de cafea în mașină privind valurile; drumul de pe coastă este foarte relaxant fără ambuteiajele de vară.",
+                "en": "An ideal spot for a coffee break in the car while watching the waves; the coastal road is very relaxing without the summer traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "To Spitaki tes Daskalas",
+                "hu": "To Spitaki tes Daskalas",
+                "ro": "To Spitaki tes Daskalas",
+                "en": "To Spitaki tes Daskalas"
+              },
+              "tip_5lang": {
+                "de": "Die traditionelle Architektur kommt im klaren Winterlicht gut zur Geltung; Sie können fast direkt vor dem Gebäude parken.",
+                "hu": "A hagyományos építészet jól érvényesül a tiszta téli fényben; szinte közvetlenül az épület előtt tudsz leparkolni.",
+                "ro": "Arhitectura tradițională este bine pusă în evidență în lumina clară a iernii; puteți parca aproape direct în fața clădirii.",
+                "en": "The traditional architecture stands out well in the clear winter light; you can park almost directly in front of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhristianike Basilike Porto Raphte",
+                "hu": "Palaiokhristianike Basilike Porto Raphte",
+                "ro": "Palaiokhristianike Basilike Porto Raphte",
+                "en": "Palaiokhristianike Basilike Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschichtsträchtigen Ort zur wärmsten Mittagszeit; die Ruinen sind dem Wind schutzlos ausgeliefert.",
+                "hu": "Látogasd meg ezt a történelmi helyet a legmelegebb déli órákban; a romok védtelenül vannak kitéve a szélnek.",
+                "ro": "Vizitați acest loc istoric în cele mai calde ore ale amiezii; ruinele sunt expuse vântului fără nicio protecție.",
+                "en": "Visit this historic site during the warmest midday hours; the ruins are completely exposed to the cold winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+                "hu": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+                "ro": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+                "en": "Usteromukenaiko Nekrotapheio Perates Porto Raphte"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp früh am Nachmittag ein; die Hügel werfen ab 16:00 Uhr lange, kalte Schatten über das Ausgrabungsgelände.",
+                "hu": "Tervezd ezt a megállót kora délutánra; a dombok 16:00-tól hosszú, hideg árnyékokat vetnek az ásatási területre.",
+                "ro": "Planificați această oprire la începutul după-amiezii; dealurile aruncă umbre lungi și reci peste situl arheologic începând cu ora 16:00.",
+                "en": "Plan this stop for early afternoon; the hills cast long, cold shadows over the excavation site starting from 16:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Erotospelia",
+                "hu": "Erotospelia",
+                "ro": "Erotospelia",
+                "en": "Erotospelia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier vor dem frühen Sonnenuntergang um 17:00; der Blick auf das ruhige Wintermeer ist absolut lohnenswert.",
+                "hu": "Zárd itt a napot a korai, 17:00-s naplemente előtt; a tekintet a nyugodt téli tengerre abszolút megéri a látogatást.",
+                "ro": "Încheiați ziua aici înainte de apusul devreme de la ora 17:00; vederea spre marea liniștită de iarnă merită din plin vizita.",
+                "en": "End the day here before the early 17:00 sunset; the view of the calm winter sea is absolutely worth the visit."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a túrát a Parc Clément Aderben. Ezután látogasson el a középkori Saint-Jacques templomba.\n\nA dél a Clément Ader Múzeumé. Ezután fedezze fel a Grands Hommes múzeumot.\n\nTartson egy pihentető szünetet a Jean Jaurès Park árnyékos sétányain.\n\nZárja a napot az Église Saint-Jeanban, és csodálja meg történelmi ólomüveg ablakait.",
         "ro": "Începeți turul la Parc Clément Ader. Apoi, vizitați Biserica medievală Saint-Jacques.\n\nAmiaza este pentru Muzeul Clément Ader. După aceea, explorați muzeul Grands Hommes.\n\nFaceți o pauză de relaxare pe aleile umbrite ale Parcului Jean Jaurès.\n\nÎncheiați-vă ziua la Église Saint-Jean pentru a admira vitraliile sale istorice.",
         "en": "Start your tour at Parc Clément Ader. Next, visit the medieval Saint-Jacques Church.\n\nMidday is for the Clément Ader Museum. Then, explore the Grands Hommes museum.\n\nTake a relaxing break in the shaded alleys of Jean Jaurès Park.\n\nEnd your day at Église Saint-Jean to admire its historic stained glass."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den tropfenden Bäumen des Parc Clément Ader; halten Sie den Regenschirm bereit. Mittags bieten die Saint-Jacques-Kirche und die Museen trockene Zufluchtsorte für historische Erkundungen. Der Nachmittag bringt einen nebligen Spaziergang durch den Jean-Jaurès-Park. Am Abend bietet die Église Saint-Jean einen friedlichen Abschluss, während der Regen draußen stetig fällt.",
+            "hu": "A reggel a Parc Clément Ader csöpögő fái alatt indul; tartsa készenlétben az esernyőt a nedves ösvényeken. Délben a Saint-Jacques templom és a múzeumok nyújtanak száraz menedéket a felfedezéshez. A délutáni séta a Jean Jaurès parkban párás és mélabús. Este az Église Saint-Jean falai között zárjuk a napot, miközben kint az eső dobol a macskaköveken.",
+            "ro": "Dimineața începe sub copacii umezi din Parc Clément Ader; pregătiți umbrela pentru potecile ude. La prânz, Biserica Saint-Jacques și muzeele oferă un refugiu uscat pentru explorări istorice. După-amiaza aduce o plimbare cețoasă prin Parcul Jean Jaurès. Seara, Église Saint-Jean oferă o încheiere liniștită sub acoperiș, în timp ce ploaia cade constant afară.",
+            "en": "Morning starts under the dripping trees of Parc Clément Ader; keep your umbrella ready for the damp paths. At noon, the Saint-Jacques Church and museums offer dry sanctuary for historical exploration. Afternoon brings a misty walk through Jean Jaurès Park. By evening, the Église Saint-Jean provides a peaceful, roofed conclusion as the rain continues to fall outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc Clément Ader",
+                "hu": "Parc Clément Ader",
+                "ro": "Parc Clément Ader",
+                "en": "Parc Clément Ader"
+              },
+              "tip_5lang": {
+                "de": "Der Park wirkt im Regen romantisch, aber die Wege sind schlammig; tragen Sie wasserfeste Stiefel, um das Grün ohne nasse Füße zu genießen.",
+                "hu": "A park esőben is romantikus, de a földutak sárosak; viseljen vízálló bakancsot a kényelmes séta és a dús növényzet élvezete érdekében.",
+                "ro": "Parcul este romantic pe ploaie, dar potecile sunt noroioase; purtați cizme impermeabile pentru a vă bucura de verdeață fără a vă uda la picioare.",
+                "en": "The park remains romantic in the rain, but paths are muddy; wear waterproof boots to enjoy the lush greenery without getting wet feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jacques Church",
+                "hu": "Saint-Jacques Church",
+                "ro": "Saint-Jacques Church",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche ist ein perfekter Zufluchtsort vor dem Guss; bewundern Sie den Altarraum, während Sie im Trockenen auf das Ende des Schauers warten.",
+                "hu": "A templom tökéletes búvóhely a zápor elől; csodálja meg a belső teret és az oltárt, amíg a száraz falak között várja az eső elálltát.",
+                "ro": "Această biserică este un refugiu perfect împotriva ploii; admirați interiorul și altarul în timp ce așteptați la adăpost trecerea aversei.",
+                "en": "This church is a perfect sanctuary from the downpour; admire the altar and interior while waiting for the shower to pass in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Clément Ader Museum",
+                "hu": "Clément Ader Museum",
+                "ro": "Clément Ader Museum",
+                "en": "Clément Ader Museum"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Wetter in die Welt der Luftfahrtpioniere; die Innenausstellung ist ideal, um die Kleidung wieder zu trocknen.",
+                "hu": "Meneküljön az időjárás elől a repülés úttörőinek világába; a benti kiállítás ideális helyszín, hogy közben a ruházata is megszáradjon.",
+                "ro": "Evadați de vremea urâtă în lumea pionierilor aviației; expoziția interioară este ideală pentru a vă usca hainele în timpul vizitei.",
+                "en": "Escape the weather into the world of aviation pioneers; the indoor exhibition is ideal for letting your gear dry out while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Clément Ader & Les Grands Hommes",
+                "hu": "Musée Clément Ader & Les Grands Hommes",
+                "ro": "Musée Clément Ader & Les Grands Hommes",
+                "en": "Musée Clément Ader & Les Grands Hommes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regentag für eine tiefe kulturelle Erfahrung; die überdachten Räume schützen Sie vor dem Wind und der Nässe draußen.",
+                "hu": "Használja ki az esős napot egy mély kulturális élményre; a fedett termek tökéletesen megvédik Önt a kinti széltől és a nedvességtől.",
+                "ro": "Folosiți ziua ploioasă pentru o experiență culturală profundă; sălile acoperite vă protejează excelent de vântul și umezeala de afară.",
+                "en": "Take advantage of the rainy day for a deep cultural experience; the covered halls protect you perfectly from the wind and wet outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Jean Jaurès Park",
+                "hu": "Jean Jaurès Park",
+                "ro": "Jean Jaurès Park",
+                "en": "Jean Jaurès Park"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen duften die Pflanzen intensiver; bleiben Sie auf den gepflasterten Abschnitten, da der Rasen sehr wassergesättigt sein kann.",
+                "hu": "Esőben a növények illata sokkal intenzívebb; maradjon a kövezett részeken, mert a pázsit ilyenkor teljesen átázott és süppedős lehet.",
+                "ro": "Pe ploaie, mirosul plantelor este mai intens; rămâneți pe secțiunile pavate, deoarece peluza poate fi saturată cu apă și instabilă.",
+                "en": "In the rain, the plant scents are more intense; stay on the paved sections as the lawn can be very waterlogged and muddy now."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean",
+                "hu": "Église Saint-Jean",
+                "ro": "Église Saint-Jean",
+                "en": "Église Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in dieser historischen Kirche; die dicken Mauern bieten Wärme und Stille vor dem prasselnden Regen im Freien.",
+                "hu": "Zárja a túrát ebben a történelmi templomban; a vastag falak meleget és csendet nyújtanak a kinti kopogó esővel szemben.",
+                "ro": "Încheiați turul în această biserică istorică; zidurile groase oferă căldură și liniște în fața ploii care bate afară.",
+                "en": "End your tour in this historic church; the thick walls provide warmth and silence against the rhythmic drumming of the rain outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen im Parc Clément Ader verlangt nach warmer Kleidung. Mittags laden die Kirchen und Museen ein, sich in beheizten Räumen aufzuwärmen, während man die lokale Geschichte studiert. Der Nachmittag im Park ist kurz, da die Sonne gegen 17:00 Uhr untergeht. Der Tag endet in der stimmungsvollen Dämmerung bei der Église Saint-Jean.",
+            "hu": "A Parc Clément Ader zúzmarás reggele réteges öltözködést igényel. Délben a templomok és múzeumok fűtött terei hívogatnak melegedésre a helyi történelem tanulmányozása mellett. A délután a parkban rövid, mivel a nap 17:00 körül lebukik. A nap az Église Saint-Jean esti fényeiben, a csípős hidegben ér véget.",
+            "ro": "O dimineață geroasă în Parc Clément Ader necesită haine groase. La prânz, bisericile și muzeele vă invită să vă încălziți în spații încălzite în timp ce studiați istoria locală. După-amiaza în parc este scurtă, soarele apunând în jur de ora 17:00. Ziua se încheie în amurgul atmosferic de la Église Saint-Jean.",
+            "en": "A frosty morning in Parc Clément Ader requires warm layers. At noon, the churches and museums invite you to warm up in heated spaces while studying local history. Afternoon in the park is short as the sun sets around 17:00. The day ends in the atmospheric dusk near Église Saint-Jean as the winter chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc Clément Ader",
+                "hu": "Parc Clément Ader",
+                "ro": "Parc Clément Ader",
+                "en": "Parc Clément Ader"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten weite Sichtachsen; tragen Sie Thermokleidung, da der Wind im offenen Gelände des Parks recht beißend sein kann.",
+                "hu": "A kopasz fák messzi kilátást engednek; viseljen hőtartó ruházatot, mert a park nyitott részein a téli szél igen metsző lehet.",
+                "ro": "Copacii golași oferă perspective largi; purtați haine termice, deoarece vântul poate fi destul de tăios în zonele deschise ale parcului.",
+                "en": "The bare trees offer long sightlines; wear thermal layers as the winter wind can be quite biting in the open areas of the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jacques Church",
+                "hu": "Saint-Jacques Church",
+                "ro": "Saint-Jacques Church",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist oft wärmer als die Außenluft; nutzen Sie die Stille für eine besinnliche Pause und um Ihre Hände aufzuwärmen.",
+                "hu": "A templom belseje gyakran melegebb a kinti levegőnél; használja ki a csendet egy békés pihenőre és a kezei felmelegítésére.",
+                "ro": "Interiorul bisericii este adesea mai cald decât aerul de afară; folosiți liniștea pentru o pauză de reflecție și pentru a vă încălzi.",
+                "en": "The church interior is often warmer than the outside air; use the silence for a reflective break and to warm up your cold hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Clément Ader Museum",
+                "hu": "Clément Ader Museum",
+                "ro": "Clément Ader Museum",
+                "en": "Clément Ader Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Kälte für eine Stunde zu entkommen; die Exponate sind in der winterlichen Ruhe besonders gut zu betrachten.",
+                "hu": "Ideális hely, hogy egy órára elmeneküljön a fagy elől; a kiállítási tárgyak a téli nyugalomban különösen jól megfigyelhetőek.",
+                "ro": "Un loc ideal pentru a scăpa de frig timp de o oră; exponatele pot fi observate foarte bine în liniștea specifică iernii.",
+                "en": "An ideal spot to escape the cold for an hour; the exhibits can be observed particularly well in the quiet of the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Clément Ader & Les Grands Hommes",
+                "hu": "Musée Clément Ader & Les Grands Hommes",
+                "ro": "Musée Clément Ader & Les Grands Hommes",
+                "en": "Musée Clément Ader & Les Grands Hommes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lokale Geschichte im Warmen; planen Sie den Besuch für den frühen Nachmittag, um die kälteste Tageszeit drinnen zu verbringen.",
+                "hu": "Élvezze a helyi történelmet a melegben; tervezze a látogatást kora délutánra, hogy a nap leghidegebb óráit bent tölthesse.",
+                "ro": "Bucurați-vă de istoria locală la căldură; programați vizita pentru începutul după-amiezii pentru a sta la interior în orele reci.",
+                "en": "Enjoy local history in the warmth; plan your visit for the early afternoon to spend the coldest part of the day indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Jean Jaurès Park",
+                "hu": "Jean Jaurès Park",
+                "ro": "Jean Jaurès Park",
+                "en": "Jean Jaurès Park"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Wegen; die tiefstehende Wintersonne wirft lange, malerische Schatten durch die Äste.",
+                "hu": "Ügyeljen az ösvények jeges foltjaira; az alacsonyan járó téli nap festői hosszú árnyékokat vet a fák csupasz ágai között.",
+                "ro": "Atenție la porțiunile înghețate de pe poteci; soarele de iarnă proiectează umbre lungi și pitorești printre ramurile golașe.",
+                "en": "Watch out for icy patches on the paths; the low winter sun casts long, picturesque shadows through the bare branches."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean",
+                "hu": "Église Saint-Jean",
+                "ro": "Église Saint-Jean",
+                "en": "Église Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Da es um 17 Uhr dunkel wird, wirkt die Kirche nachts besonders eindrucksvoll; beeilen Sie sich, um noch das letzte Tageslicht zu sehen.",
+                "hu": "Mivel 17 órakor sötétedik, a templom kivilágítva lenyűgöző; siessen, ha még látni szeretné az épületet az utolsó nappali fényben.",
+                "ro": "Deoarece se întunecă la ora 17, biserica este impresionantă luminată; grăbiți-vă pentru a vedea clădirea în ultima lumină a zilei.",
+                "en": "Since it gets dark by 17:00, the church is stunning when lit up; hurry if you want to see the exterior in the last daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje dinamikusan a buja Parc Clément Aderben. Egy rövid tekerés elviszi a Saint-Jacques templomhoz.\n\nDélben merüljön el a korai repülésben a Clément Ader Múzeumban. Ezután kerekezzen az Église Saint-Jeanhoz.\n\nA délután a lenyűgöző Château de Rudelle-hez viszi.\n\nFejezze be a túrát a Lac du Four de Louge-nál, a vízparton pihenve, ahogy közeledik az este.",
         "ro": "Începeți dinamic în luxuriantul Parc Clément Ader. O scurtă pedalare vă aduce la Biserica Saint-Jacques.\n\nLa amiază, pătrundeți în istoria aviației la Muzeul Clément Ader. Apoi, mergeți la Église Saint-Jean.\n\nDupă-amiaza vă duce la uimitorul castel istoric Château de Rudelle.\n\nÎncheiați pedalând spre Lac du Four de Louge, relaxându-vă lângă apă spre seară.",
         "en": "Start dynamically at the lush Parc Clément Ader. A quick pedal brings you to the Saint-Jacques Church.\n\nAt midday, delve into early flight at the Clément Ader Museum. Then, ride to Église Saint-Jean.\n\nYour afternoon takes you outside the center to the stunning Château de Rudelle.\n\nFinish pedaling to Lac du Four de Louge, relaxing by the water as the evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf rutschigen Wegen im Parc Clément Ader. Mittags bieten Kirchen und Museen trockene Haltepunkte. Nachmittags führt die Route zum Château de Rudelle durch nasse Landschaften. Der Tag endet am nebligen Lac du Four de Louge, wo der Regen eine mystische Atmosphäre schafft.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a Parc Clément Ader csúszós útjain. Délben a templomok és múzeumok kínálnak száraz megállókat. Délután az út a Château de Rudelle-hez vizes tájakon át vezet. A nap a ködös Lac du Four de Louge-nál ér véget, ahol az eső misztikus hangulatot áraszt.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile alunecoase din Parc Clément Ader. La prânz, bisericile și muzeele oferă puncte de oprire uscate. După-amiaza, ruta către Château de Rudelle trece prin peisaje ude. Ziua se încheie la Lac du Four de Louge, unde ploaia creează o atmosferă mistică.",
+            "en": "Cycling in the rain requires caution on the slippery paths of Parc Clément Ader. At noon, churches and museums offer dry stopping points. Afternoon leads the route to Château de Rudelle through wet landscapes. The day ends at the misty Lac du Four de Louge, where the rain creates a truly mystical atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc Clément Ader",
+                "hu": "Parc Clément Ader",
+                "ro": "Parc Clément Ader",
+                "en": "Parc Clément Ader"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Kurven auf nassem Laub; der Park ist im Regen ruhig, aber die Wege können für Reifen tückisch glatt sein.",
+                "hu": "Kerülje az éles kanyarokat a nedves leveleken; a park esőben csendes, de az utak a gumik számára csalókán csúszósak lehetnek.",
+                "ro": "Evitați virajele strânse pe frunzele ude; parcul este liniștit pe ploaie, dar drumurile pot fi înșelător de alunecoase pentru anvelope.",
+                "en": "Avoid sharp turns on wet leaves; the park is quiet in the rain, but the paths can be treacherously slippery for bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jacques Church",
+                "hu": "Saint-Jacques Church",
+                "ro": "Saint-Jacques Church",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie den Besuch, um sich abzutrocknen; die Kirche bietet eine friedliche Pause vom Wind.",
+                "hu": "Parkolja le biztonságosan a kerékpárját, és használja a látogatást a száradásra; a templom békés pihenőt nyújt a szél elől.",
+                "ro": "Parcați bicicleta în siguranță și folosiți vizita pentru a vă usca; biserica oferă o pauză liniștită departe de vântul de afară.",
+                "en": "Park your bike securely and use the visit to dry off; the church interior offers a peaceful break from the driving wind and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Clément Ader Museum",
+                "hu": "Clément Ader Museum",
+                "ro": "Clément Ader Museum",
+                "en": "Clément Ader Museum"
+              },
+              "tip_5lang": {
+                "de": "Eine großartige Gelegenheit, die Radkleidung kurz zu lüften, während Sie drinnen die Luftfahrtgeschichte im Trockenen erkunden.",
+                "hu": "Nagyszerű lehetőség a kerékpáros ruházat rövid átszellőztetésére, miközben bent a repüléstörténetet fedezi fel szárazon.",
+                "ro": "O ocazie excelentă de a vă aerisi puțin echipamentul de ciclism în timp ce explorați istoria aviației la interior, la adăpost.",
+                "en": "A great opportunity to let your cycling gear air out briefly while you explore aviation history indoors in the dry warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean",
+                "hu": "Église Saint-Jean",
+                "ro": "Église Saint-Jean",
+                "en": "Église Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche liegt direkt an der Route; nutzen Sie die Architektur als Regenschutz, bevor Sie die Fahrt zum Schloss fortsetzen.",
+                "hu": "A templom közvetlenül az útvonalon fekszik; használja az épületet eső elleni védelemként, mielőtt folytatná az utat a kastély felé.",
+                "ro": "Biserica este situată direct pe rută; folosiți arhitectura ca protecție împotriva ploii înainte de a continua spre castel.",
+                "en": "The church is right on the route; use the architecture as rain cover for a few minutes before continuing your ride to the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Rudelle",
+                "hu": "Château de Rudelle",
+                "ro": "Château de Rudelle",
+                "en": "Château de Rudelle"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um das Schloss kann sehr weich sein; stellen Sie das Rad auf festem Untergrund ab, um Schlamm am Antrieb zu vermeiden.",
+                "hu": "A kastély körüli talaj nagyon felázhat; állítsa le a kerékpárt szilárd felületen, hogy elkerülje a sár felverődését a láncra.",
+                "ro": "Terenul din jurul castelului poate fi moale; parcați bicicleta pe o suprafață solidă pentru a evita noroiul pe transmisie.",
+                "en": "The ground around the castle can be very soft; park your bike on a solid surface to avoid getting mud into the drivetrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Four de Louge",
+                "hu": "Lac du Four de Louge",
+                "ro": "Lac du Four de Louge",
+                "en": "Lac du Four de Louge"
+              },
+              "tip_5lang": {
+                "de": "Der Uferweg ist bei Regen oft matschig; fahren Sie langsam, um Spritzer zu minimieren, und genießen Sie die dunstige Seesicht.",
+                "hu": "A tóparti út esőben gyakran sáros; haladjon lassan a fröccsenések minimalizálása érdekében, és élvezze a párás kilátást.",
+                "ro": "Drumul de pe malul lacului este adesea noroios; mergeți încet pentru a minimiza stropirea și bucurați-vă de vederea cețoasă.",
+                "en": "The lakeside path is often muddy in rain; ride slowly to minimize splashes and enjoy the atmospheric, hazy view of the water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Muret erfordert gute Handschuhe gegen den kalten Fahrtwind. Nach Besuchen in Museen und Kirchen am Vormittag führt die Route durch die kahle Winterlandschaft. Das Château de Rudelle wirkt im Frost majestätisch. Beenden Sie die Tour am Lac du Four de Louge vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A téli kerékpározás Muret-ben jó kesztyűt igényel a hideg menetszél ellen. A múzeumi és templomi látogatások után az út a kopár téli tájon át vezet. A Château de Rudelle fenséges a zúzmarában. Fejezze be a túrát a Lac du Four de Louge-nál a korai, 17:00 órai naplemente előtt.",
+            "ro": "Ciclismul de iarnă în Muret necesită mănuși bune împotriva vântului rece. După vizitele la muzee și biserici, ruta trece prin peisajul golaș de iarnă. Château de Rudelle pare maiestuos în îngheț. Încheiați turul la Lac du Four de Louge înainte de apusul devreme de la ora 17:00.",
+            "en": "Winter cycling in Muret requires good gloves against the cold wind. After visiting museums and churches in the morning, the route leads through the stark winter landscape. Château de Rudelle looks majestic in the frost. Finish your tour at Lac du Four de Louge before the early sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc Clément Ader",
+                "hu": "Parc Clément Ader",
+                "ro": "Parc Clément Ader",
+                "en": "Parc Clément Ader"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können morgens glatt sein; prüfen Sie den Reifendruck, um auf den winterlichen Pfaden des Parks besseren Halt zu haben.",
+                "hu": "Az ösvények reggel jegesek lehetnek; ellenőrizze a guminyomást, hogy jobb tapadást érjen el a park téli útvonalain.",
+                "ro": "Potecile pot fi înghețate dimineața; verificați presiunea anvelopelor pentru o aderență mai bună pe drumurile de iarnă ale parcului.",
+                "en": "Paths can be icy in the morning; check your tire pressure for better grip on the park's winter trails during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jacques Church",
+                "hu": "Saint-Jacques Church",
+                "ro": "Saint-Jacques Church",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Kirchenmauern halten die Wärme; ein kurzer Stopp hilft, die Finger für die Weiterfahrt wieder beweglich zu machen.",
+                "hu": "A templom vastag falai tartják a meleget; egy rövid megálló segít, hogy ujjai újra mozghatóak legyenek a folytatáshoz.",
+                "ro": "Zidurile groase ale bisericii rețin căldura; o scurtă oprire vă va ajuta să vă recăpătați mobilitatea degetelor pentru drum.",
+                "en": "The thick church walls retain warmth; a short stop here helps to get your fingers moving again for the rest of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Clément Ader Museum",
+                "hu": "Clément Ader Museum",
+                "ro": "Clément Ader Museum",
+                "en": "Clément Ader Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; im Winter sind weniger Besucher da, was eine ruhige Besichtigung ermöglicht.",
+                "hu": "Használja a múzeumlátogatást melegedő szünetként; télen kevesebb a látogató, ami nyugodt nézelődést tesz lehetővé.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire; iarna sunt mai puțini vizitatori, ceea ce permite o vizionare liniștită.",
+                "en": "Use the museum visit as a warming break; there are fewer visitors in winter, allowing for a quiet and peaceful viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean",
+                "hu": "Église Saint-Jean",
+                "ro": "Église Saint-Jean",
+                "en": "Église Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für ein schnelles Foto im Winterlicht; achten Sie beim Absteigen auf eventuelle Froststellen auf dem Vorplatz.",
+                "hu": "Szép hely egy gyors fotóhoz a téli fényben; leszálláskor ügyeljen az esetleges fagyos foltokra a templom előtti téren.",
+                "ro": "Un loc frumos pentru o fotografie rapidă în lumina iernii; la coborâre, atenție la eventualele pete de gheață din fața bisericii.",
+                "en": "A beautiful spot for a quick photo in the winter light; be careful when dismounting for any icy patches in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Rudelle",
+                "hu": "Château de Rudelle",
+                "ro": "Château de Rudelle",
+                "en": "Château de Rudelle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt in der kargen Landschaft besonders markant; ziehen Sie eine zusätzliche Schicht an, bevor Sie die Abfahrt beginnen.",
+                "hu": "A kastély a kopár tájban különösen markánsnak tűnik; vegyen fel egy plusz réteget, mielőtt megkezdené a visszafelé vezető utat.",
+                "ro": "Castelul pare deosebit de proeminent în peisajul golaș; puneți-vă un strat suplimentar de haine înainte de a pleca mai departe.",
+                "en": "The castle looks particularly striking in the barren landscape; put on an extra layer before starting the return journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Four de Louge",
+                "hu": "Lac du Four de Louge",
+                "ro": "Lac du Four de Louge",
+                "en": "Lac du Four de Louge"
+              },
+              "tip_5lang": {
+                "de": "Am See ist es im Winter oft deutlich kälter; kommen Sie vor 16:30 Uhr an, um den See noch im restlichen Tageslicht zu erleben.",
+                "hu": "A tónál télen gyakran jóval hidegebb van; érkezzen 16:30 előtt, hogy a tavat még a maradék nappali fényben láthassa.",
+                "ro": "La lac este adesea mult mai frig iarna; sosiți înainte de 16:30 pentru a vedea lacul în lumina rămasă a zilei.",
+                "en": "It is often much colder by the lake in winter; arrive before 16:30 to see the water in the remaining daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje autós útját az Église Notre-Dame-nál. Vezessen a központba a Saint-Jacques templomhoz.\n\nMerüljön el a repülés történetében a Musée Clément Ader & Les Grands Hommes-ban.\n\nInduljon tovább a lenyűgöző Château de Rudelle felé. Tegyen egy rövid utat a Lac du Four de Louge-hoz.\n\nZárja autós túráját a történelmi Château de Cadeilhac-nál a csendes külvárosban.",
         "ro": "Începeți excursia la Église Notre-Dame. Conduceți în centrul orașului la Biserica Saint-Jacques.\n\nCufundați-vă în istoria aviației la Musée Clément Ader & Les Grands Hommes.\n\nPorniți din nou la drum spre impresionantul Château de Rudelle. Conduceți până la Lac du Four de Louge.\n\nÎncheiați turul la istoricul Château de Cadeilhac, în suburbiile liniștite.",
         "en": "Kick off your road trip at Église Notre-Dame. Drive into the city center to visit Saint-Jacques Church.\n\nImmerse yourself in aviation lore at the Musée Clément Ader & Les Grands Hommes.\n\nHit the road again towards the impressive Château de Rudelle. Take a short drive to Lac du Four de Louge.\n\nEnd your driving tour at the historic Château de Cadeilhac on the quiet outskirts."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt ist die bequemste Art, Muret im Regen zu erkunden. Besuchen Sie morgens die Église Notre-Dame, während die Scheibenwischer den Takt angeben. Mittags bieten Museen trockene Kulturpausen. Die Fahrt zu den Schlössern am Nachmittag führt durch die malerisch-nasse Gascogne. Der Tag endet sicher und trocken am Lac du Four de Louge.",
+            "hu": "Az autós túra a legkényelmesebb módja Muret felfedezésének esőben. Reggel látogasson el az Église Notre-Dame-hoz, miközben az ablaktörlők adják az ütemet. Délben a múzeumok száraz kulturális szünetet kínálnak. A délutáni kastélylátogatás a vizes Gascogne tájain át vezet. A nap biztonságban és szárazon ér véget a tónál.",
+            "ro": "Un tur cu mașina este cel mai confortabil mod de a explora Muret pe ploaie. Dimineața vizitați Église Notre-Dame în timp ce ștergătoarele dau ritmul. La prânz, muzeele oferă pauze culturale uscate. Vizita la castele trece prin peisajele ude din Gascogne. Ziua se încheie în siguranță și la adăpost la lac.",
+            "en": "A car tour is the most comfortable way to explore Muret in the rain. Visit Église Notre-Dame in the morning as the wipers set the beat. At noon, museums offer dry cultural breaks. The afternoon drive to the local castles leads through the picturesque, wet Gascogne landscape. The day ends safely and dry at the lake."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang; die Kirche ist ein prachtvoller Ort, um den Regen draußen für eine Weile zu vergessen.",
+                "hu": "Használja a bejárathoz közeli parkolót; a templom pompás helyszín, hogy egy időre elfelejtse a kinti szürke, esős időt.",
+                "ro": "Folosiți parcarea de lângă intrare; biserica este un loc splendid pentru a uita pentru o vreme de ploaia de afară.",
+                "en": "Use the parking lot closest to the entrance; the church is a splendid place to forget the gray, rainy weather for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jacques Church",
+                "hu": "Saint-Jacques Church",
+                "ro": "Saint-Jacques Church",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Im Stadtzentrum kann Parken bei Regen schwierig sein; suchen Sie ein Parkhaus, um trocken zum Eingang der Kirche zu gelangen.",
+                "hu": "A városközpontban az esőben nehéz lehet a parkolás; keressen egy közeli helyet, hogy minél kevesebbet kelljen áznia a bejáratig.",
+                "ro": "În centrul orașului parcarea poate fi dificilă pe ploaie; căutați un loc apropiat pentru a vă uda cât mai puțin până la intrare.",
+                "en": "In the city center, parking can be tricky in the rain; find a nearby spot to minimize your time walking in the downpour to the door."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Clément Ader & Les Grands Hommes",
+                "hu": "Musée Clément Ader & Les Grands Hommes",
+                "ro": "Musée Clément Ader & Les Grands Hommes",
+                "en": "Musée Clément Ader & Les Grands Hommes"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp für Regentage; die umfangreiche Sammlung im Inneren bietet Schutz und Bildung zugleich fernab der Nässe.",
+                "hu": "Tökéletes megálló esős napokra; a benti gazdag gyűjtemény egyszerre kínál védelmet és művelődést a nedvességtől távol.",
+                "ro": "O oprire perfectă pentru zilele ploioase; colecția bogată de interior oferă protecție și educație departe de umezeală.",
+                "en": "A perfect stop for rainy days; the extensive indoor collection provides both shelter and education away from the wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Rudelle",
+                "hu": "Château de Rudelle",
+                "ro": "Château de Rudelle",
+                "en": "Château de Rudelle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des Schlosses bequem aus dem Auto; der Weg zum Tor kann bei starkem Regen sehr schlammig sein.",
+                "hu": "Élvezze a kastély látványát kényelmesen az autóból; a kapuhoz vezető út erős esőben nagyon sáros és vizes lehet.",
+                "ro": "Bucurați-vă de vederea castelului din confortul mașinii; drumul către poartă poate fi foarte noroios în caz de ploaie puternică.",
+                "en": "Enjoy the view of the castle from the comfort of your car; the path to the gate can be very muddy during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Four de Louge",
+                "hu": "Lac du Four de Louge",
+                "ro": "Lac du Four de Louge",
+                "en": "Lac du Four de Louge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den unbefestigten Zufahrten; der neblige See bietet vom Uferparkplatz aus ein dramatisches Fotomotiv.",
+                "hu": "Vezessen óvatosan a nem aszfaltozott bejárókon; a ködös tó a parkolóból nézve is drámai fotótémát kínál az esőben.",
+                "ro": "Conduceți cu prudență pe drumurile de acces neasfaltate; lacul cețos oferă un subiect foto dramatic chiar și din parcare.",
+                "en": "Drive carefully on unpaved access roads; the misty lake offers a dramatic photo subject even viewed from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Cadeilhac",
+                "hu": "Château de Cadeilhac",
+                "ro": "Château de Cadeilhac",
+                "en": "Château de Cadeilhac"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einer Panoramafahrt um das Anwesen; die Lichter des Schlosses spiegeln sich wunderschön in den Pfützen.",
+                "hu": "Zárja a napot egy panorámaautózással a birtok körül; a kastély fényei gyönyörűen tükröződnek vissza a vizes aszfalton.",
+                "ro": "Încheiați ziua cu o plimbare panoramică în jurul domeniului; luminile castelului se reflectă frumos în bălțile de pe drum.",
+                "en": "End the day with a scenic drive around the estate; the castle lights reflect beautifully in the puddles on the road."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dank der Heizung ist die winterliche Tour durch Muret sehr angenehm. Beginnen Sie morgens an der Église Notre-Dame und genießen Sie die klare Luft. Mittags bieten Museen eine willkommene Aufwärmpause. Die Schlösser wirken im winterlichen Licht besonders edel. Da es um 17:00 Uhr dunkel wird, bietet die Rückfahrt stimmungsvolle Ausblicke auf beleuchtete Monumente.",
+            "hu": "A fűtésnek köszönhetően a téli túra Muret-ben nagyon kellemes. Kezdje a reggelt az Église Notre-Dame-nál, élvezve a tiszta levegőt. Délben a múzeumok kínálnak melegedő szünetet. A kastélyok a téli fényben különösen előkelőek. Mivel 17:00-kor sötétedik, a visszaút hangulatos kilátást nyújt a kivilágított műemlékekre.",
+            "ro": "Datorită căldurii din mașină, turul de iarnă în Muret este foarte plăcut. Începeți dimineața la Église Notre-Dame, bucurându-vă de aerul curat. La prânz, muzeele oferă o pauză de încălzire. Castelele par nobile în lumina iernii. Deoarece se întunecă la ora 17:00, drumul de întoarcere oferă vederi atmosferice asupra monumentelor iluminate.",
+            "en": "Thanks to the car's heater, the winter tour through Muret is very pleasant. Start at Église Notre-Dame in the morning and enjoy the crisp air. At noon, museums offer a welcome warming break. The castles look particularly noble in the winter light. As it gets dark by 17:00, the drive back offers atmospheric views of lit monuments."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter oft ruhig; genießen Sie die friedliche Atmosphäre drinnen, bevor Sie wieder ins warme Auto steigen.",
+                "hu": "A templom télen gyakran csendes; élvezze a benti békés hangulatot, mielőtt visszaszállna a fűtött, kényelmes autóba.",
+                "ro": "Biserica este adesea liniștită iarna; bucurați-vă de atmosfera pașnică din interior înainte de a reveni în mașina caldă.",
+                "en": "The church is often quiet in winter; enjoy the peaceful indoor atmosphere before getting back into your warm, heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jacques Church",
+                "hu": "Saint-Jacques Church",
+                "ro": "Saint-Jacques Church",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für einen kurzen Spaziergang im Zentrum ein; die kühle Luft belebt, und die Kirche ist ein warmer Rückzugsort.",
+                "hu": "Tervezzen időt egy rövid sétára a központban; a hűvös levegő frissítő, a templom pedig meleg menedéket nyújt a hideg ellen.",
+                "ro": "Planificați timp pentru o scurtă plimbare în centru; aerul rece este revigorant, iar biserica oferă un refugiu cald de frig.",
+                "en": "Plan time for a short walk in the center; the cool air is invigorating, and the church provides a warm sanctuary from the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Clément Ader & Les Grands Hommes",
+                "hu": "Musée Clément Ader & Les Grands Hommes",
+                "ro": "Musée Clément Ader & Les Grands Hommes",
+                "en": "Musée Clément Ader & Les Grands Hommes"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um die kälteste Mittagszeit drinnen zu verbringen; die Exponate sind im Winterlicht gut ausgeleuchtet.",
+                "hu": "Kiváló helyszín a leghidegebb déli órák eltöltésére; a kiállítási tárgyak a téli fényben is jól láthatóak a benti térben.",
+                "ro": "Un loc excelent pentru a petrece cele mai reci ore ale amiezii; exponatele sunt bine luminate în interior chiar și iarna.",
+                "en": "An excellent place to spend the coldest midday hours indoors; the exhibits are well-lit and fascinating in the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Rudelle",
+                "hu": "Château de Rudelle",
+                "ro": "Château de Rudelle",
+                "en": "Château de Rudelle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im kahlen Wintergarten besonders imposant; halten Sie kurz für ein Foto, aber lassen Sie den Motor nicht zu lange laufen.",
+                "hu": "A kastély a kopár téli kertben különösen impozáns; álljon meg egy fotóra, de ne hagyja túl sokáig járni a motort a hidegben.",
+                "ro": "Castelul pare impunător în grădina golașă de iarnă; opriți pentru o fotografie, dar nu lăsați motorul pornit prea mult timp.",
+                "en": "The castle looks imposing in the bare winter garden; stop for a photo, but don't leave the engine idling for too long in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Four de Louge",
+                "hu": "Lac du Four de Louge",
+                "ro": "Lac du Four de Louge",
+                "en": "Lac du Four de Louge"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne glitzert wunderschön auf dem Wasser; kommen Sie frühzeitig an, bevor der Frost am späten Nachmittag anzieht.",
+                "hu": "Az alacsonyan járó nap gyönyörűen csillog a vízen; érkezzen időben, mielőtt a késő délutáni fagy komolyabban megérkezne a tóhoz.",
+                "ro": "Soarele jos strălucește frumos pe apă; sosiți din timp, înainte ca gerul de după-amiază târzie să devină mai tăios la lac.",
+                "en": "The low winter sun glitters beautifully on the water; arrive early before the late afternoon frost becomes more severe by the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Cadeilhac",
+                "hu": "Château de Cadeilhac",
+                "ro": "Château de Cadeilhac",
+                "en": "Château de Cadeilhac"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour pünktlich zum Sonnenuntergang um 17 Uhr; die Silhouette des Schlosses gegen den Abendhimmel ist unvergesslich.",
+                "hu": "Zárja a túrát pontosan a 17 órai naplementekor; a kastély sziluettje az esti égen felejthetetlen látványt nyújt a hidegben.",
+                "ro": "Încheiați turul la apusul de la ora 17; silueta castelului pe cerul serii este o priveliște de neuitat în aerul rece de iarnă.",
+                "en": "End your tour right at the 17:00 sunset; the silhouette of the castle against the evening sky is an unforgettable winter sight."
+              }
+            }
+          ]
+        }
       }
     }
   }

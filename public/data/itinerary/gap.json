@@ -160,6 +160,196 @@
         "hu": "Reggel: Gap történelmi szívében, a Városházánál és a nyüzsgő Place Jean Marcellin téren kezdünk.\n\nDél: A figyelem a lenyűgöző Saint-Arnoux katedrálisra és az ősi Rue Colonel Roux utcára irányul.\n\nDélután: A Hautes-Alpes Megyei Múzeumban mélyedünk el a helyi hegyvidéki történelemben.\n\nEste: A napot egy pihentető esti sétával zárjuk a gyönyörű Parc de la Pépinière árnyas fái között.",
         "ro": "Dimineața: Începem în inima istorică a orașului Gap la Primărie și în vibranta Place Jean Marcellin.\n\nPrânz: Ne concentrăm pe impunătoarea Catedrală Saint-Arnoux și pe o plimbare pe vechea Rue Colonel Roux.\n\nDupă-amiaza: Aprofundăm istoria montană locală la Muzeul Departamental Hautes-Alpes.\n\nSeara: Ziua se încheie cu o plimbare de seară relaxantă în frumosul Parc de la Pépinière.",
         "en": "Morning: We begin in the historical heart of Gap at the City Hall and the vibrant Place Jean Marcellin.\n\nMidday: The focus shifts to the towering Saint-Arnoux Cathedral and a stroll down the ancient Rue Colonel Roux.\n\nAfternoon: We delve into local mountain history at the Hautes-Alpes Departmental Museum.\n\nEvening: The day concludes with a relaxing evening walk in the beautiful Parc de la Pépinière."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens glänzt das Rathaus im Regen; die Arkaden bieten ersten Schutz. Mittags ist die Kathedrale der ideale trockene Rückzugsort, um die neugotische Pracht zu bestaunen. Nachmittags lädt das Museum zu einer Zeitreise im Trockenen ein. Abends sorgt der neblige Parc de la Pépinière für eine mystische Atmosphäre, sofern man einen festen Regenschirm und wasserfeste Schuhe dabei hat.",
+            "hu": "Reggel a városháza vizes homlokzata csillog; az árkádok alatt keressünk menedéket. Délben a katedrális nyújt fenséges és száraz nyugalmat az eső elől. Délután a megyei múzeum tárlatai kínálnak tartalmas beltéri programot. Este a ködös park hűvös levegője frissítő, de a csúszós utak miatt viseljünk tapadós talpú cipőt és vigyünk magunkkal egy erős esernyőt a városi sétához.",
+            "ro": "Dimineața, primăria strălucește sub ploaie; folosiți arcadele pentru adăpost. La prânz, catedrala oferă un refugiu uscat și impunător pentru a admira detaliile neogotice. După-amiaza este rezervată muzeului, unde istoria locală vă ferește de umezeală. Seara se încheie cu o plimbare mistică prin parcul cețos, recomandându-se încălțăminte impermeabilă și o pelerină de ploaie rezistentă.",
+            "en": "Morning sees the city hall facade glisten in the rain; use the nearby archways for cover. At noon, the cathedral provides a grand, dry sanctuary to admire its neo-gothic interior. Afternoon is best spent inside the museum, staying warm and dry while exploring local history. Evening ends with a misty stroll in the park; the air is fresh, but waterproof shoes and a umbrella are essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "City Hall (Hôtel de Ville)",
+                "hu": "City Hall (Hôtel de Ville)",
+                "ro": "City Hall (Hôtel de Ville)",
+                "en": "City Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die elegante Architektur vom Schutz der gegenüberliegenden Portale aus; die nassen Pflastersteine vor dem Eingang können bei Regen sehr rutschig sein.",
+                "hu": "Csodálja meg az elegáns épületet a szemközti kapualjak védelméből; a bejárat előtti nedves macskakő esőben rendkívül csúszós lehet, óvatosan lépkedjen.",
+                "ro": "Admirați arhitectura elegantă din protecția portalurilor de vis-a-vis; pavajul umed din fața intrării poate fi foarte alunecos pe ploaie, mergeți cu grijă.",
+                "en": "Admire the elegant architecture from the shelter of the opposite portals; the wet cobblestones in front of the entrance can be very slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Jean Marcellin",
+                "hu": "Place Jean Marcellin",
+                "ro": "Place Jean Marcellin",
+                "en": "Place Jean Marcellin"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Markisen der umliegenden Cafés für eine kurze Pause; die bunten Fassaden wirken im grauen Regenlicht besonders kontrastreich und fotogen.",
+                "hu": "Használja ki a környező kávézók napellenzőit egy rövid pihenőre; a színes homlokzatok a szürke esőben különösen kontrasztosak és fotogének, érdemes megállni.",
+                "ro": "Folosiți copertinele cafenelelor din jur pentru o scurtă pauză; fațadele colorate par deosebit de contrastante și fotogenice în lumina cenușie de ploaie.",
+                "en": "Use the awnings of the surrounding cafes for a quick break; the colorful facades look particularly contrasted and photogenic in the gray rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Arnoux Cathedral",
+                "hu": "Saint-Arnoux Cathedral",
+                "ro": "Saint-Arnoux Cathedral",
+                "en": "Saint-Arnoux Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und Trockenheit im Inneren der monumentalen Kirche; die bunten Glasfenster leuchten auch bei bewölktem Himmel in tiefen Farben.",
+                "hu": "Élvezze a csendet és a szárazságot a monumentális templom belsejében; a színes üvegablakok felhős égbolt mellett is mély színekben ragyognak a félhomályban.",
+                "ro": "Bucurați-vă de liniștea și uscăciunea din interiorul bisericii monumentale; vitraliile colorate strălucesc în culori profunde chiar și sub cerul noros.",
+                "en": "Enjoy the silence and dryness inside the monumental church; the stained glass windows glow in deep colors even under a cloudy sky in the dim light."
+              }
+            },
+            {
+              "name": {
+                "de": "Rue Colonel Roux",
+                "hu": "Rue Colonel Roux",
+                "ro": "Rue Colonel Roux",
+                "en": "Rue Colonel Roux"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie nah an den Hauswänden entlang, um dem direkten Regen zu entgehen; die schmale Gasse leitet das Wasser bei starkem Guss wie ein kleiner Kanal ab.",
+                "hu": "Sétáljon közel a falakhoz, hogy elkerülje a közvetlen esőt; a szűk utca erős felhőszakadáskor kis csatornaként vezeti le a vizet, figyeljen a lába elé.",
+                "ro": "Mergeți aproape de pereții clădirilor pentru a evita ploaia directă; strada îngustă drenează apa ca un mic canal în timpul unei averse puternice, fiți atent.",
+                "en": "Walk close to the walls to avoid the direct rain; the narrow street drains water like a small channel during a heavy downpour, so watch your step carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Hautes-Alpes Departmental Museum",
+                "hu": "Hautes-Alpes Departmental Museum",
+                "ro": "Hautes-Alpes Departmental Museum",
+                "en": "Hautes-Alpes Departmental Museum"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie länger bei den archäologischen Funden, während es draußen regnet; nutzen Sie die Garderobe, um Ihre nassen Sachen bequem abzulegen.",
+                "hu": "Időzzön hosszabban a régészeti leletek között, amíg kint esik; használja a ruhatárat, hogy nedves kabátjától megszabadulva, kényelmesen nézelődhessen.",
+                "ro": "Zăboviți mai mult printre descoperirile arheologice în timp ce afară plouă; folosiți garderoba pentru a vă lăsa hainele umede și a vizita confortabil.",
+                "en": "Stay longer among the archaeological finds while it rains outside; use the cloakroom to leave your wet gear and browse the exhibits comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Pépinière",
+                "hu": "Parc de la Pépinière",
+                "ro": "Parc de la Pépinière",
+                "en": "Parc de la Pépinière"
+              },
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten teilweisen Schutz vor leichtem Regen; meiden Sie die unbefestigten Wege, da diese schnell schlammig und rutschig werden.",
+                "hu": "A sűrű lombkoronák részleges védelmet nyújtanak szemerkélő esőben; kerülje a fövenyes utakat, mert azok hamar sárossá és csúszóssá válhatnak a víz miatt.",
+                "ro": "Coroanele dese ale copacilor oferă protecție parțială împotriva ploii ușoare; evitați potecile neamenajate, deoarece devin rapid noroioase și alunecoase.",
+                "en": "The dense tree canopies offer partial protection from light rain; avoid the unpaved paths, as they quickly become muddy and slippery in the wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Gap beginnt am kühlen Rathaus; warme Kleidung ist Pflicht. Mittags bietet die Kathedrale einen Ort der Stille, auch wenn es innen kühl bleibt. Nachmittags ist das Museum der perfekte Ort zum Aufwärmen bei lokaler Geschichte. Da die Sonne gegen 17:00 Uhr untergeht, sollte man den Parkbesuch früh planen, um das restliche Tageslicht über den Gipfeln zu genießen.",
+            "hu": "A friss téli reggel a városházánál indul; a hegyi levegő csípős, öltözzön rétegesen. Délben a katedrális falai között a csendé a főszerep, de a kőpadlón hideg lehet. Délután a múzeum fűtött tereiben melegedhetünk fel a kulturális élmények közben. Mivel 17:00 körül már sötétedik, a parkba érjünk ki időben, hogy lássuk a havas csúcsok feletti utolsó fényeket.",
+            "ro": "O dimineață răcoroasă de iarnă începe la primărie; aerul montan este tăios, deci îmbrăcați-vă în straturi. La prânz, liniștea catedralei este primitoare, deși interiorul rămâne rece. După-amiaza, muzeul este locul perfect pentru a vă încălzi explorând istoria locală. Deoarece soarele apune în jur de 17:00, planificați vizita în parc devreme pentru lumină.",
+            "en": "A crisp winter morning in Gap starts at the city hall; the mountain air is biting, so layer up. At noon, the cathedral offers a quiet retreat, though the stone interior remains chilly. Afternoon is the perfect time to warm up inside the museum while exploring regional history. Since sunset is around 5 PM, reach the park early to catch the fading light over the snowy peaks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "City Hall (Hôtel de Ville)",
+                "hu": "City Hall (Hôtel de Ville)",
+                "ro": "City Hall (Hôtel de Ville)",
+                "en": "City Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Treppenstufen am frühen Morgen; das massive Steingebäude wirkt im klaren Winterlicht besonders imposant und scharf gezeichnet.",
+                "hu": "Figyeljen a reggeli zúzmarára a lépcsőfokokon; a masszív kőépület a tiszta téli fényben különösen impozánsnak és éles kontúrúnak tűnik a téren.",
+                "ro": "Atenție la chiciura de pe trepte dimineața devreme; clădirea masivă de piatră pare deosebit de impunătoare în lumina clară de iarnă de pe piață.",
+                "en": "Watch out for morning frost on the steps; the massive stone building looks particularly imposing and sharp-edged in the clear winter light of the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Jean Marcellin",
+                "hu": "Place Jean Marcellin",
+                "ro": "Place Jean Marcellin",
+                "en": "Place Jean Marcellin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Atmosphäre bei einem heißen Getränk in einem der Cafés; die tiefstehende Sonne beleuchtet die Fassaden am späten Vormittag perfekt.",
+                "hu": "Élvezze a téli hangulatot egy forró itallal valamelyik kávézóban; a délelőtti alacsony napállás tökéletesen megvilágítja a színes homlokzatokat.",
+                "ro": "Bucurați-vă de atmosfera de iarnă cu o băutură caldă la una dintre cafenele; soarele de dimineață luminează perfect fațadele colorate ale pieței.",
+                "en": "Enjoy the winter atmosphere with a hot drink in one of the cafes; the low morning sun illuminates the colorful facades of the square perfectly."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Arnoux Cathedral",
+                "hu": "Saint-Arnoux Cathedral",
+                "ro": "Saint-Arnoux Cathedral",
+                "en": "Saint-Arnoux Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur, aber behalten Sie den Mantel an, da die hohen Gewölbe die Kälte speichern; die Akustik ist im Winter oft besonders klar.",
+                "hu": "Csodálja meg az építészetet, de tartsa magán a kabátját, mert a magas boltozatok tartják a hideget; az akusztika télen gyakran különösen tisztának hat.",
+                "ro": "Admirați arhitectura, dar păstrați haina pe dvs., deoarece bolțile înalte rețin frigul; acustica este adesea deosebit de clară în timpul iernii.",
+                "en": "Admire the architecture but keep your coat on, as the high vaults retain the cold; the acoustics often feel particularly clear during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Rue Colonel Roux",
+                "hu": "Rue Colonel Roux",
+                "ro": "Rue Colonel Roux",
+                "en": "Rue Colonel Roux"
+              },
+              "tip_5lang": {
+                "de": "In dieser schmalen Gasse erreicht die Sonne den Boden kaum, es ist deutlich kühler; halten Sie Ausschau nach kleinen Handwerksläden für lokale Souvenirs.",
+                "hu": "Ebben a szűk utcában a nap alig éri el az utcakövet, így sokkal hűvösebb van; keressen apró kézműves boltokat a meleg belső terekben egy kis nézelődésre.",
+                "ro": "Pe această stradă îngustă, soarele abia ajunge la nivelul solului, fiind mult mai răcoare; căutați mici magazine de artizanat în spațiile interioare calde.",
+                "en": "In this narrow street, the sun barely reaches the ground, making it much cooler; look for small craft shops in the warm interiors for a bit of browsing."
+              }
+            },
+            {
+              "name": {
+                "de": "Hautes-Alpes Departmental Museum",
+                "hu": "Hautes-Alpes Departmental Museum",
+                "ro": "Hautes-Alpes Departmental Museum",
+                "en": "Hautes-Alpes Departmental Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; die Ausstellungen zur alpinen Kultur sind besonders im Winter relevant, wenn die Berge schneebedeckt sind.",
+                "hu": "Használja a múzeumlátogatást melegedő pihenőként; az alpesi kultúráról szóló kiállítások különösen aktuálisak télen, amikor a hegyeket hó borítja.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire; expozițiile despre cultura alpină sunt deosebit de relevante iarna, când munții sunt acoperiți de zăpadă.",
+                "en": "Use the museum visit as a warm-up break; the exhibits on Alpine culture are particularly relevant in winter, when the surrounding mountains are snow-capped."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Pépinière",
+                "hu": "Parc de la Pépinière",
+                "ro": "Parc de la Pépinière",
+                "en": "Parc de la Pépinière"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die schneebedeckten Gipfel durch die kahlen Äste; beeilen Sie sich, da es nach 16:30 Uhr merklich dunkler und kälter wird.",
+                "hu": "Élvezze a kilátást a hófödte csúcsokra a csupasz ágak között; siessen, mert 16:30 után észrevehetően sötétebb és hidegebb lesz a park sétányain.",
+                "ro": "Bucurați-vă de vederea culmilor înzăpezite printre ramurile goale; grăbiți-vă, deoarece după ora 16:30 devine vizibil mai întunecat și mai frig în parc.",
+                "en": "Enjoy the view of the snow-capped peaks through the bare branches; hurry, as it becomes noticeably darker and colder in the park after 4:30 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Reggel: Kezdje a kerékpártúrát a pasztellszínű Place Jean Marcellin téren, majd tekerjen el a csodálatos Saint-Arnoux katedrálishoz.\n\nDél: Tekerjen át a Theatre La passerelle-hez, majd folytassa az útját a modern Le Quattro felé.\n\nDélután: Térjen vissza a városközpontba egy békés pihenőre a Parc de la Pépinière zöldellő fái közé.\n\nEste: Fejezze be a túrát egy festői és kissé megerőltető tekeréssel a fenséges Domaine de Charance-hoz.",
         "ro": "Dimineața: Începeți turul cu bicicleta în Place Jean Marcellin, înainte de a vă îndrepta spre magnifica Catedrală Saint-Arnoux.\n\nPrânz: Pedalați spre Theatre La passerelle și apoi mergeți spre moderna sală Le Quattro.\n\nDupă-amiaza: Întoarceți-vă spre centrul orașului pentru o pauză liniștită în verdeața din Parc de la Pépinière.\n\nSeara: Terminați plimbarea cu o excursie pitorească până la grandiosul Domaine de Charance.",
         "en": "Morning: Kick off your cycling tour at the pastel-colored Place Jean Marcellin before heading to the magnificent Saint-Arnoux Cathedral.\n\nMidday: Pedal over to Theatre La passerelle to admire its modern cultural footprint, then ride out to Le Quattro.\n\nAfternoon: Return towards the city center for a peaceful break amidst the greenery of Parc de la Pépinière.\n\nEvening: Finish your ride with a scenic and slightly demanding trip up to the grand Domaine de Charance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem Kopfsteinpflaster im Zentrum. Mittags bietet die Kathedrale eine lange Pause im Trockenen. Nachmittags führen moderne Wege zum Le Quattro, wo man unter Vordächern halten kann. Die Tour endet am Domaine de Charance, wo der Nebel über dem See eine mystische Stimmung erzeugt; gute Regenbekleidung und Schutzbleche sind hier unerlässlich.",
+            "hu": "Az esős biciklizés óvatosságot igényel a belvárosi macskaköveken. Délben a katedrálisnál tarthatunk hosszabb, száraz pihenőt. Délután modern utakon tekerhetünk a Le Quattro felé, ahol tágas előterek védenek. A túra a Domaine de Charance-nál zárul, ahol a tó feletti köd különleges látvány; jó esőruha és sárvédő elengedhetetlen a hegyi szakaszhoz.",
+            "ro": "O tură cu bicicleta prin ploaie necesită prudență pe pavajul din centru. La prânz, catedrala oferă o pauză lungă și uscată. După-amiaza, traseul continuă spre Le Quattro pe drumuri moderne cu zone acoperite. Turul se încheie la Domaine de Charance, unde ceața de deasupra lacului creează o atmosferă aparte; pelerina și aripile sunt esențiale.",
+            "en": "Cycling in the rain requires caution on the city center cobblestones. At noon, the cathedral offers a long, dry break for your muscles. Afternoon routes lead to Le Quattro, where modern overhangs provide shelter. The tour ends at Domaine de Charance, where mist over the lake creates a unique mood; good rain gear and mudguards are essential for the climb."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Jean Marcellin",
+                "hu": "Place Jean Marcellin",
+                "ro": "Place Jean Marcellin",
+                "en": "Place Jean Marcellin"
+              },
+              "tip_5lang": {
+                "de": "Bremse frühzeitig auf dem nassen Kopfsteinpflaster; parke dein Rad unter einem Vordach, um den Sattel für die Weiterfahrt trocken zu halten.",
+                "hu": "Fékezzen időben a nedves macskakövön; parkolja le a kerékpárt egy előtető alatt, hogy az ülés száraz maradjon a következő szakaszra.",
+                "ro": "Frânați din timp pe pavajul umed; parcați bicicleta sub o copertină pentru a păstra șaua uscată pentru următoarea etapă a traseului.",
+                "en": "Brake early on the wet cobblestones; park your bike under an overhang to keep the saddle dry for the next leg of your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Arnoux Cathedral",
+                "hu": "Saint-Arnoux Cathedral",
+                "ro": "Saint-Arnoux Cathedral",
+                "en": "Saint-Arnoux Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutze die massiven Mauern als Wind- und Regenschutz beim Abstellen; im Inneren kannst du dich in Ruhe aufwärmen und die nasse Ausrüstung richten.",
+                "hu": "Használja a vaskos falakat szél- és esővédelemnek a leálláskor; bent nyugodtan felmelegedhet és megigazíthatja az ázott felszerelését.",
+                "ro": "Folosiți zidurile groase ca protecție împotriva vântului și ploii; în interior vă puteți încălzi și vă puteți aranja echipamentul ud în liniște.",
+                "en": "Use the thick walls as wind and rain protection when parking; inside, you can warm up and adjust your wet gear in peace and quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre La passerelle",
+                "hu": "Theatre La passerelle",
+                "ro": "Theatre La passerelle",
+                "en": "Theatre La passerelle"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Architektur bietet viele überdachte Bereiche für Radfahrer; prüfe kurz das Programm im Eingangsbereich, während es draußen regnet.",
+                "hu": "A modern épület számos fedett résszel várja a bicikliseket; ellenőrizze a programot a bejáratnál, amíg kint szakad az eső, és pihenjen egyet.",
+                "ro": "Arhitectura modernă oferă multe zone acoperite pentru bicicliști; verificați programul la intrare în timp ce afară plouă și luați o pauză.",
+                "en": "The modern architecture offers many covered areas for cyclists; check the program at the entrance while it rains outside and take a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Quattro",
+                "hu": "Le Quattro",
+                "ro": "Le Quattro",
+                "en": "Le Quattro"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Wendepunkt mit viel Platz zum Unterstehen; achte auf die Fahrbahnmarkierungen in der Nähe, die bei Nässe extrem rutschig sein können.",
+                "hu": "Ideális fordulópont tágas fedett helyekkel; ügyeljen az útfestésekre a közelben, mert nedvesen rendkívül csúszósak lehetnek a kerekek alatt.",
+                "ro": "Un punct de întoarcere ideal cu spații acoperite generoase; atenție la marcajele rutiere din apropiere, care pot fi extrem de alunecoase pe ud.",
+                "en": "An ideal turning point with generous covered spaces; watch out for road markings nearby, as they can be extremely slippery under your tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Pépinière",
+                "hu": "Parc de la Pépinière",
+                "ro": "Parc de la Pépinière",
+                "en": "Parc de la Pépinière"
+              },
+              "tip_5lang": {
+                "de": "Fahre nur auf den asphaltierten Hauptwegen, um Schlamm zu vermeiden; die Bäume bremsen den Wind, was die Fahrt bei Regen angenehmer macht.",
+                "hu": "Csak az aszfaltozott főutakon tekerjen, hogy elkerülje a sarat; a fák felfogják a szelet, ami esőben kellemesebbé teszi az áthaladást.",
+                "ro": "Mergeți doar pe pistele asfaltate principale pentru a evita noroiul; copacii opresc vântul, făcând deplasarea prin ploaie mai plăcută.",
+                "en": "Ride only on the main paved paths to avoid mud; the trees block the wind, making your transit through the rain much more pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Domaine de Charance",
+                "hu": "Domaine de Charance",
+                "ro": "Domaine de Charance",
+                "en": "Domaine de Charance"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Regen anstrengend sein; genieße die Aussicht auf die wolkenverhangenen Berge und achte bei der Abfahrt auf verlässliche Bremsen.",
+                "hu": "Az emelkedő esőben megterhelő lehet; élvezze a kilátást a felhőkbe burkolózó hegyekre, és a lejtőn lefelé ügyeljen a biztos fékezésre a vizes úton.",
+                "ro": "Urcarea poate fi solicitantă pe ploaie; bucurați-vă de vederea munților învăluiți în nori și atenție la frâne pe coborârea pe drumul ud.",
+                "en": "The climb can be demanding in the rain; enjoy the view of the cloud-wrapped mountains, and pay close attention to your brakes on the wet descent."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Gap erfordert Thermokleidung gegen den kalten Fahrtwind. Mittags ist die Kathedrale ein imposanter Halt im fahlen Winterlicht. Nachmittags geht es zügig zum Le Quattro, bevor die Temperaturen sinken. Da die Sonne gegen 17:00 Uhr untergeht, sollte man den Anstieg zum Domaine de Charance früh starten, um die verschneite Alpenlandschaft noch im Hellen zu erleben.",
+            "hu": "A téli biciklizés Gap környékén meleg technikai ruházatot igényel a menetszél ellen. Délben a katedrális monumentális látvány a sápadt téli fényben. Délután tekerjünk tempósan a Le Quattro felé, mielőtt a hőmérséklet hirtelen esni kezd. Mivel 17:00 körül sötétedik, a Charance-i emelkedőt kezdjük el korán, hogy még világosban lássuk a havas tájat.",
+            "ro": "Ciclismul de iarnă în Gap necesită haine termice împotriva vântului rece de mișcare. La prânz, catedrala este o oprire impunătoare în lumina palidă de iarnă. După-amiaza, pedalați spre Le Quattro înainte ca temperaturile să scadă brusc. Deoarece apusul este la 17:00, urcați spre Charance devreme pentru a vedea peisajul înzăpezit.",
+            "en": "Winter cycling in Gap requires thermal layers to combat the freezing wind chill. At noon, the cathedral stands as an imposing stop in the pale winter light. Afternoon rides should be brisk towards Le Quattro before temperatures drop. Since sunset is around 5 PM, start the climb to Domaine de Charance early to witness the snowy Alpine scenery in daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Jean Marcellin",
+                "hu": "Place Jean Marcellin",
+                "ro": "Place Jean Marcellin",
+                "en": "Place Jean Marcellin"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierender Nässe in den Schattenbereichen des Platzes; trage warme Handschuhe, um die Bremsen auch bei Kälte sicher bedienen zu können.",
+                "hu": "Vigyázzon a fagyott foltokra a tér árnyékos részein; viseljen meleg kesztyűt, hogy a hidegben is biztosan tudja kezelni a fékkarokat és a váltót.",
+                "ro": "Atenție la zonele înghețate din porțiunile umbrite ale pieței; purtați mănuși groase pentru a putea acționa frânele în siguranță pe frig.",
+                "en": "Watch out for frozen patches in the shaded areas of the square; wear warm gloves to ensure you can safely operate the brakes in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Arnoux Cathedral",
+                "hu": "Saint-Arnoux Cathedral",
+                "ro": "Saint-Arnoux Cathedral",
+                "en": "Saint-Arnoux Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Ein majestätischer Anblick im Winter; parke dein Rad sicher und nutze die Innenbesichtigung, um dich kurz vor dem Wind zu schützen.",
+                "hu": "Fenséges látvány télen; parkolja le biztonságosan a biciklit, és használja a belső látogatást rövid szélvédett pihenőként a túra közben.",
+                "ro": "O vedere maiestuoasă iarna; parcați bicicleta în siguranță și folosiți vizita în interior ca un scurt popas ferit de vânt în timpul turei.",
+                "en": "A majestic sight in winter; park your bike securely and use the interior visit as a short wind-sheltered rest during your cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre La passerelle",
+                "hu": "Theatre La passerelle",
+                "ro": "Theatre La passerelle",
+                "en": "Theatre La passerelle"
+              },
+              "tip_5lang": {
+                "de": "Die Glasfront reflektiert das klare Winterlicht; halte nur kurz, um nicht auszukühlen, und bewege dich weiter, um die Körperwärme zu halten.",
+                "hu": "Az üveghomlokzat visszaveri a tiszta téli fényt; csak rövid ideig álljon meg, nehogy kihűljön, és tekerjen tovább a testhőmérséklet megtartásához.",
+                "ro": "Fațada de sticlă reflectă lumina clară de iarnă; opriți-vă doar scurt pentru a nu vă răci și continuați deplasarea pentru a menține căldura.",
+                "en": "The glass facade reflects the clear winter light; stop only briefly to avoid getting cold, and keep moving to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Quattro",
+                "hu": "Le Quattro",
+                "ro": "Le Quattro",
+                "en": "Le Quattro"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Anlage ist auch im Winter gut erreichbar; nutze die flachen Wege hier, um dich vor dem anstrengenden Anstieg nach Charance einzufahren.",
+                "hu": "A modern épület télen is jól megközelíthető; használja az itteni sík utakat a bemelegítéshez a Charance felé vezető megerőltető emelkedő előtt.",
+                "ro": "Complexul modern este ușor accesibil și iarna; folosiți drumurile plate de aici pentru încălzire înainte de urcarea solicitantă spre Charance.",
+                "en": "The modern complex is easily accessible even in winter; use the flat paths here to warm up before the strenuous climb towards Charance."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Pépinière",
+                "hu": "Parc de la Pépinière",
+                "ro": "Parc de la Pépinière",
+                "en": "Parc de la Pépinière"
+              },
+              "tip_5lang": {
+                "de": "Achte auf Eisplatten auf den Wegen; die tiefstehende Sonne kann dich blenden, trage daher eine Sonnenbrille für eine sichere Fahrt durch den Park.",
+                "hu": "Ügyeljen a jeges foltokra az utakon; az alacsonyan járó nap elvakíthatja, ezért viseljen napszemüveget a biztonságos áthaladáshoz a parkon át.",
+                "ro": "Atenție la porțiunile de gheață de pe poteci; soarele jos vă poate orbi, așa că purtați ochelari de soare pentru o deplasare sigură prin parc.",
+                "en": "Watch out for ice patches on the paths; the low sun can dazzle you, so wear sunglasses for a safe ride through the park's wintry avenues."
+              }
+            },
+            {
+              "name": {
+                "de": "Domaine de Charance",
+                "hu": "Domaine de Charance",
+                "ro": "Domaine de Charance",
+                "en": "Domaine de Charance"
+              },
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit dem Panoramablick auf die verschneiten Alpen; starten Sie die Abfahrt rechtzeitig, bevor es dunkel und die Straße spiegelglatt wird.",
+                "hu": "Jutalmazza meg magát a havas Alpok panorámájával; kezdje el a leereszkedést időben, mielőtt besötétedik és az út tükörsima jéggé fagy az erdőben.",
+                "ro": "Răsplătiți-vă cu panorama Alpilor înzăpeziți; începeți coborârea la timp, înainte de lăsarea întunericului și înghețarea drumului prin pădure.",
+                "en": "Reward yourself with the panoramic view of the snowy Alps; start your descent in good time before dark, as the road can freeze into slippery ice."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Reggel: Az autós túra a Saint-Arnoux katedrális építészeti csodájánál kezdődik, majd a Megyei Múzeum lenyűgöző leleteinél folytatódik.\n\nDél: Hajtson ki a külvárosba, hogy megnézze a Le Quattro előadóterem feltűnő dizájnját.\n\nDélután: Irány a dombvidék, ahol felfedezheti a Domaine de Charance hatalmas területét és a közeli Alpesi Botanikus Kertet.\n\nEste: Vezessen le egy kis családi szórakozással és pihenéssel a Bassin plongeoirs vízi központban.",
         "ro": "Dimineața: Călătoria dvs. începe chiar la minunea arhitecturală a Catedralei Saint-Arnoux, trecând rapid la artefactele Muzeului Departamental.\n\nPrânz: Conduceți la periferie pentru a vedea designul izbitor al sălii de spectacole Le Quattro.\n\nDupă-amiaza: Mergeți spre dealuri pentru a explora vastele terenuri de la Domaine de Charance și Conservatorul Botanic Alpin din apropiere.\n\nSeara: Relaxați-vă cu puțină distracție în familie la centrul acvatic Bassin plongeoirs.",
         "en": "Morning: Your drive starts right at the architectural marvel of Saint-Arnoux Cathedral, moving quickly to the artifacts of the Departmental Museum.\n\nMidday: Drive to the outskirts to see the striking design of the Le Quattro performance hall.\n\nAfternoon: Head up into the hills to explore the vast grounds of the Domaine de Charance and the nearby Alpine Botanical Conservatory.\n\nEvening: Wind down with some family fun and relaxation at the Bassin plongeoirs aquatic center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Gap auch bei starkem Regen komfortabel erkunden. Vormittags bietet das Museum eine spannende Flucht ins Trockene. Mittags ist das moderne Le Quattro bequem erreichbar. Die Fahrt hinauf zum Domaine de Charance belohnt mit dramatischen Wolkenformationen über den Alpengipfeln; parken Sie nah an den Eingängen und genießen Sie die Aussicht aus dem warmen Fahrzeug.",
+            "hu": "Autóval Gap még szakadó esőben is kényelmesen felfedezhető. Délelőtt a múzeum kínál izgalmas menekülést a szárazba. Délben a modern Le Quattro könnyen megközelíthető és parkolható. A Charance-ba vezető út során drámai felhőket láthatunk az alpesi csúcsok felett; parkoljon közel a bejáratokhoz, és élvezze a látványt a fűtött utastérből.",
+            "ro": "Cu mașina, Gap poate fi explorat confortabil chiar și pe ploaie torențială. Dimineața, muzeul oferă o evadare interesantă la adăpost. La prânz, complexul modern Le Quattro este ușor accesibil. Drumul spre Charance oferă priveliști cu nori dramatici deasupra culmilor alpine; parcați aproape de intrări și admirați peisajul din vehiculul cald.",
+            "en": "By car, Gap can be comfortably explored even during heavy rain. In the morning, the museum offers an exciting escape into the dry. At noon, the modern Le Quattro is easily accessible with convenient parking. The drive up to Charance rewards you with dramatic cloud formations over the Alpine peaks; park close to entrances and enjoy the views from the warm interior."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Arnoux Cathedral",
+                "hu": "Saint-Arnoux Cathedral",
+                "ro": "Saint-Arnoux Cathedral",
+                "en": "Saint-Arnoux Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im nahegelegenen Parkhaus, um trocken zur Kathedrale zu gelangen; die beleuchtete Fassade wirkt im Regen besonders atmosphärisch.",
+                "hu": "Parkoljon a közeli mélygarázsban, hogy szárazon jusson a katedrálishoz; a kivilágított homlokzat az esőben különleges hangulatot áraszt a városközpontban.",
+                "ro": "Parcați în parcarea subterană din apropiere pentru a ajunge uscat la catedrală; fațada iluminată are o atmosferă deosebită pe timp de ploaie.",
+                "en": "Park in the nearby underground lot to reach the cathedral dry; the illuminated facade looks particularly atmospheric during a rain shower in the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Hautes-Alpes Departmental Museum",
+                "hu": "Hautes-Alpes Departmental Museum",
+                "ro": "Hautes-Alpes Departmental Museum",
+                "en": "Hautes-Alpes Departmental Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Museum für einen kurzen Weg ins Innere; perfekt für einen längeren Aufenthalt während eines heftigen Regenschauers.",
+                "hu": "Használja a közvetlenül a múzeum melletti parkolót a gyors bejutáshoz; tökéletes helyszín egy hosszabb tartózkodásra egy heves felhőszakadás idején.",
+                "ro": "Folosiți parcarea de lângă muzeu pentru un acces rapid în interior; este locul perfect pentru o vizită lungă în timpul unei averse torențiale.",
+                "en": "Use the parking lot right next to the museum for quick access; it is the perfect spot for a longer stay during a heavy downpour in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Quattro",
+                "hu": "Le Quattro",
+                "ro": "Le Quattro",
+                "en": "Le Quattro"
+              },
+              "tip_5lang": {
+                "de": "Dank der guten Erreichbarkeit mit dem Auto ist dies ein idealer Stopp; bewundern Sie die Glasarchitektur, während der Regen an die Scheiben prasselt.",
+                "hu": "A jó autós megközelíthetőségnek köszönhetően ez egy ideális megálló; csodálja meg az üvegarchitektúrát, miközben az eső a hatalmas ablakokon kopog.",
+                "ro": "Datorită accesibilității auto bune, aceasta este o oprire ideală; admirați arhitectura de sticlă în timp ce ploaia bate în ferestrele mari.",
+                "en": "Thanks to excellent car accessibility, this is an ideal stop; admire the glass architecture while the rain drums against the massive window panes."
+              }
+            },
+            {
+              "name": {
+                "de": "Domaine de Charance",
+                "hu": "Domaine de Charance",
+                "ro": "Domaine de Charance",
+                "en": "Domaine de Charance"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet tolle Ausblicke auf Gap im Regen; parken Sie am See und genießen Sie die mystische Stimmung der wolkenverhangenen Berge.",
+                "hu": "A felvezető út remek kilátást nyújt az esős Gapre; parkoljon le a tónál, és élvezze a felhőkbe burkolózó hegycsúcsok misztikus látványát.",
+                "ro": "Drumul de urcare oferă vederi excelente spre Gap pe ploaie; parcați lângă lac și bucurați-vă de vederea mistică a vârfurilor învăluite în nori.",
+                "en": "The drive up offers great views of rainy Gap; park by the lake and enjoy the mystical sight of the mountain peaks shrouded in heavy gray clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "National Alpine Botanical Conservatory",
+                "hu": "National Alpine Botanical Conservatory",
+                "ro": "National Alpine Botanical Conservatory",
+                "en": "National Alpine Botanical Conservatory"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Herbarium oder die Innenbereiche, wenn es draußen schüttet; die Wege im Garten können bei Nässe etwas aufgeweicht sein.",
+                "hu": "Látogassa meg a herbáriumot vagy a belső tereket, ha kint szakad az eső; a kertben az utak esőben kissé felázottak és csúszósak lehetnek.",
+                "ro": "Vizitați ierbarul sau spațiile interioare dacă afară plouă torențial; potecile din grădină pot fi ușor noroioase și instabile pe timp de ploaie.",
+                "en": "Visit the herbarium or the indoor sections if it is pouring outside; the garden paths can be slightly muddy and unstable during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bassin plongeoirs",
+                "hu": "Bassin plongeoirs",
+                "ro": "Bassin plongeoirs",
+                "en": "Bassin plongeoirs"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht im Regen aus; beobachten Sie das Spiel der Regentropfen auf der Wasseroberfläche vom komfortablen Auto aus.",
+                "hu": "Egy rövid fotómegálló is elég az esőben; figyelje a víztükrön táncoló esőcseppeket a kényelmes autóból, mielőtt visszatérne a szállására.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă pe ploaie; observați picăturile de ploaie pe suprafața apei din confortul mașinii dvs.",
+                "en": "A quick photo stop is enough in the rain; watch the raindrops dancing on the water surface from the comfort of your car before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto führt durch die klare Luft der Hautes-Alpes. Vormittags beeindruckt die Kathedrale im winterlichen Stadtbild. Mittags bietet das Museum eine angenehme Wärme. Die Panoramafahrt zum Domaine de Charance ist das Highlight, mit spektakulären Blicken auf die schneebedeckten Gipfel. Da es gegen 17:00 Uhr dunkel wird, endet der Tag früh bei einem warmen Getränk im Zentrum.",
+            "hu": "Az autós téli túra a Hautes-Alpes tiszta levegőjén vezet keresztül. Délelőtt a katedrális lenyűgöző látvány a téli városképben. Délben a múzeum nyújt kellemes meleget. A panorámaút a Charance-hoz a nap fénypontja, ahonnan látványos kilátás nyílik a havas csúcsokra. Mivel 17:00 körül sötétedik, a napot korán fejezze be egy forró itallal a belvárosban.",
+            "ro": "Turul de iarnă cu mașina trece prin aerul curat din Hautes-Alpes. Dimineața, catedrala este o vedere impresionantă în peisajul urban de iarnă. La prânz, muzeul oferă o căldură plăcută. Drumul panoramic spre Charance este punctul culminant, cu vederi spre culmile înzăpezite. Deoarece se întunecă la 17:00, încheiați ziua devreme în centru.",
+            "en": "The winter car tour takes you through the clear air of the Hautes-Alpes. In the morning, the cathedral is an impressive sight in the wintry cityscape. At noon, the museum provides a pleasant warmth. The panoramic drive to Charance is the highlight, offering spectacular views of the snow-capped peaks. Since it gets dark around 5 PM, finish your day early with a hot drink downtown."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Arnoux Cathedral",
+                "hu": "Saint-Arnoux Cathedral",
+                "ro": "Saint-Arnoux Cathedral",
+                "en": "Saint-Arnoux Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Glätte auf dem Vorplatz; die Kathedrale wirkt im klaren, tiefstehenden Winterlicht besonders majestätisch und erhaben.",
+                "hu": "Ügyeljen az esetleges jegesedésre az előtéren; a katedrális a tiszta, alacsony téli napfényben különösen fenségesnek és emelkedettnek hat.",
+                "ro": "Atenție la posibilele porțiuni înghețate din fața catedralei; clădirea pare deosebit de maiestuoasă în lumina clară de iarnă de dimineață.",
+                "en": "Watch out for potential icy patches on the forecourt; the cathedral looks particularly majestic and sublime in the clear, low winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Hautes-Alpes Departmental Museum",
+                "hu": "Hautes-Alpes Departmental Museum",
+                "ro": "Hautes-Alpes Departmental Museum",
+                "en": "Hautes-Alpes Departmental Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich bei frostigen Außentemperaturen aufzuwärmen; die Ausstellungen vermitteln ein tiefes Verständnis für das alpine Leben im Winter.",
+                "hu": "Tökéletes helyszín a felmelegedésre a kinti fagyos hőmérséklet után; a kiállítások mélyebb betekintést nyújtanak az alpesi téli életmódba.",
+                "ro": "Locul perfect pentru a vă încălzi după temperaturile înghețate de afară; expozițiile oferă o înțelegere profundă a vieții alpine pe timp de iarnă.",
+                "en": "The perfect spot to warm up after the freezing outdoor temperatures; the exhibits provide a deep understanding of Alpine life during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Quattro",
+                "hu": "Le Quattro",
+                "ro": "Le Quattro",
+                "en": "Le Quattro"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die Winterveranstaltungen in diesem modernen Zentrum; die Architektur wirkt in der verschneiten Umgebung sehr modern und schick.",
+                "hu": "Ellenőrizze előre a téli eseményeket ebben a modern központban; az építészet a havas környezetben nagyon modernnek és elegánsnak hat a város szélén.",
+                "ro": "Verificați din timp evenimentele de iarnă din acest centru modern; arhitectura pare foarte modernă și elegantă în contextul peisajului înzăpezit.",
+                "en": "Check the winter events in this modern center in advance; the architecture looks very contemporary and chic set against the snowy surrounding landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Domaine de Charance",
+                "hu": "Domaine de Charance",
+                "ro": "Domaine de Charance",
+                "en": "Domaine de Charance"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt wird bei Schnee geräumt, dennoch sind Winterreifen Pflicht; genießen Sie das spektakuläre Panorama über das schneebedeckte Gap-Becken.",
+                "hu": "A felvezető utat takarítják, de a téli gumi kötelező; élvezze a látványos panorámát a hófödte Gap-medencére és a környező hatalmas hegyekre.",
+                "ro": "Drumul de urcare este curățat, dar anvelopele de iarnă sunt obligatorii; bucurați-vă de panorama spectaculoasă asupra depresiunii Gap înzăpezite.",
+                "en": "The access road is cleared of snow, but winter tires are mandatory; enjoy the spectacular panorama over the snow-covered Gap basin and the peaks."
+              }
+            },
+            {
+              "name": {
+                "de": "National Alpine Botanical Conservatory",
+                "hu": "National Alpine Botanical Conservatory",
+                "ro": "National Alpine Botanical Conservatory",
+                "en": "National Alpine Botanical Conservatory"
+              },
+              "tip_5lang": {
+                "de": "Die alpine Flora ruht unter dem Schnee; konzentrieren Sie sich auf die architektonischen Details der Gartenanlage und die Ruhe der Winterlandschaft.",
+                "hu": "Az alpesi flóra a hó alatt pihen; koncentráljon a kertépítészeti részletekre és a téli táj különleges nyugalmára ebben a magasságban.",
+                "ro": "Flora alpină se odihnește sub zăpadă; concentrați-vă pe detaliile arhitecturale ale grădinii și pe liniștea peisajului de iarnă la această altitudine.",
+                "en": "The Alpine flora rests under the snow; focus on the architectural details of the gardens and the unique tranquility of the winter landscape here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bassin plongeoirs",
+                "hu": "Bassin plongeoirs",
+                "ro": "Bassin plongeoirs",
+                "en": "Bassin plongeoirs"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser wirkt im Winter eisig und klar; genießen Sie den Blick auf die umliegenden weißen Berge, bevor Sie die Heizung im Auto wieder aufdrehen.",
+                "hu": "A víz télen fagyosnak és kristálytisztának tűnik; élvezze a kilátást a környező fehér hegyekre, mielőtt visszatérne a fűtött utastér melegébe.",
+                "ro": "Apa pare înghețată și cristalină iarna; bucurați-vă de vederea munților albi din jur înainte de a reveni la căldura interiorului mașinii.",
+                "en": "The water looks icy and crystal clear in winter; enjoy the view of the surrounding white mountains before returning to the warmth of your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Auterive szívében, az Église de la Madeleine-nél, és élvezze a csendes hangulatot. Csak egy rövid sétára várja az Allégora kulturális központ.\nEgy frissítő déli szünet után sétáljon az ikonikus Auterive híd felé, hogy megcsodálja annak lenyűgöző téglafalazatát.\nFolytassa a délutánt a Régi Eszközök Múzeumának felfedezésével, hogy megismerje a regionális kézművesség történetét.\nA napot a közeli békés Saint-Paul templomnál fejezheti be, hagyva, hogy a történelmi hangulat lezárja a hangulatos sétát.",
         "ro": "Începeți dimineața în inima orașului Auterive la Église de la Madeleine, bucurându-vă de atmosfera liniștită. La doar o scurtă plimbare, descoperiți centrul cultural Allégora.\nDupă o pauză revigorantă la prânz, mergeți spre faimosul pod Auterive pentru a admira arhitectura sa din cărămidă.\nContinuați după-amiaza explorând fascinantul Muzeu al Uneltelor Vechi pentru a afla despre meșteșugurile regionale.\nÎncheiați ziua foarte aproape, la biserica pașnică Saint-Paul, lăsând ambianța istorică să vă completeze perfect turul la pas.",
         "en": "Start your morning in the heart of Auterive at the beautiful Église de la Madeleine, soaking in the quiet atmosphere. Just a short stroll away, dive into contemporary local life at the Allégora cultural center.\nAfter a refreshing midday break, walk towards the iconic Auterive Bridge to admire its striking brickwork.\nContinue your afternoon by exploring the fascinating Old Tools Museum to learn about regional craftsmanship.\nFinish the day a stone's throw away at the peaceful Saint-Paul Church, letting the historic ambiance round off your walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen trocken in der Madeleine-Kirche. Genießen Sie mittags die Ausstellungen im Allégora. Nachmittags geht es vorsichtig über die rutschige Brücke zum Museum. Der Abend endet im sicheren Unterstand von Saint-Paul. Nehmen Sie einen Schirm mit!",
+            "hu": "Kezdje az esős reggelt a Madeleine templom száraz menedékében. Délben élvezze az Allégora beltéri kiállításait. Délután óvatosan keljen át a csúszós hídon a múzeum felé. Az estét a Saint-Paul falai között zárja. Vízálló cipő és esernyő kötelező a sétához!",
+            "ro": "Începeți dimineața ploioasă la biserica Madeleine. La prânz, explorați expozițiile interioare de la Allégora. După-amiaza traversați cu grijă podul alunecos spre muzeu. Seara se încheie la adăpostul uscat din Saint-Paul. Purtați încălțăminte impermeabilă!",
+            "en": "Start your wet morning sheltered in the Madeleine church. At noon, enjoy the indoor exhibits at Allégora. The afternoon brings a careful dash across the slippery bridge to the museum. Evening ends safely under the roof of Saint-Paul. Waterproof shoes are a must!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église de la Madeleine",
+                "hu": "Église de la Madeleine",
+                "ro": "Église de la Madeleine",
+                "en": "Église de la Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innenarchitektur und suchen Sie Schutz vor dem Regen; halten Sie Ihren Schirm für den Ausgang bereit.",
+                "hu": "Csodálja meg a belső teret, miközben menedéket talál az eső elől; tartson kéznél esernyőt a kilépéshez.",
+                "ro": "Admirați arhitectura interioară în timp ce vă adăpostiți de ploaie; țineți o umbrelă la îndemână pentru ieșire.",
+                "en": "Admire the interior architecture while sheltering from the rain; keep an umbrella handy for your exit."
+              }
+            },
+            {
+              "name": {
+                "de": "Allégora",
+                "hu": "Allégora",
+                "ro": "Allégora",
+                "en": "Allégora"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in diesem trockenen, überdachten Raum in die lokale Kultur ein; perfekt, um schwere Schauer abzuwarten.",
+                "hu": "Merüljön el a helyi kultúrában ebben a fedett térben; tökéletes helyszín a heves záporok átvészelésére.",
+                "ro": "Scufundați-vă în cultura locală în acest spațiu acoperit; perfect pentru a aștepta trecerea averselor.",
+                "en": "Dive into local culture in this dry, covered space; perfect for waiting out heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Auterive-Brücke",
+                "hu": "Auterive híd",
+                "ro": "Podul Auterive",
+                "en": "Auterive Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf den Fluss ist dramatisch, aber achten Sie auf Ihre Schritte auf der nassen Brückenoberfläche.",
+                "hu": "A megáradt folyó látványa drámai, de nagyon ügyeljen a lépéseire a csúszós és vizes hídon.",
+                "ro": "Vederile asupra râului sunt dramatice pe ploaie, dar fiți atenți la pașii pe suprafața alunecoasă a podului.",
+                "en": "The river views are dramatic in the rain, but watch your step closely on the wet and slippery bridge surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für alte Werkzeuge",
+                "hu": "Régi Eszközök Múzeuma",
+                "ro": "Muzeul Uneltelor Vechi",
+                "en": "Old Tools Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie eine gemütliche Zeit im Haus und entdecken Sie alte Werkzeuge, während es draußen regnet.",
+                "hu": "Töltsön el egy hosszú, hangulatos időt bent a régi eszközök felfedezésével, miközben kint esik az eső.",
+                "ro": "Petreceți timp confortabil înăuntru descoperind unelte vechi în timp ce plouă afară.",
+                "en": "Spend a cozy time indoors discovering ancient tools while the rain continuously falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Paul-Kirche",
+                "hu": "Saint-Paul templom",
+                "ro": "Biserica Saint-Paul",
+                "en": "Saint-Paul Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang in diesem trockenen Heiligtum; das trübe Regenlicht schafft eine mystische Atmosphäre.",
+                "hu": "Zárja sétáját ebben a csendes, száraz szentélyben; a tompa esős fény misztikus hangulatot teremt bent.",
+                "ro": "Încheiați plimbarea în acest sanctuar uscat; lumina ploioasă creează o atmosferă mistică în interior.",
+                "en": "Conclude your walk in this quiet, dry sanctuary; the dim rainy light creates a mystical atmosphere inside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen an der Kirche. Mittags lockt das warme Allégora. Nachmittags geht es über die windige Brücke zum beheizten Museum. Gegen 17:00 Uhr beleuchtet der frühe Sonnenuntergang Saint-Paul. Ziehen Sie sich warm an!",
+            "hu": "Friss téli reggel a templomnál. Délben meleg kulturális élmény az Allégorában. Délután séta a szeles hídon át a fűtött múzeumhoz. Késő délután, 17:00 körül a korai naplemente megvilágítja a Saint-Paul-t. Öltözzön rétegesen!",
+            "ro": "O dimineață de iarnă geroasă la biserică. La prânz, încălziți-vă la Allégora. După-amiaza faceți o plimbare pe podul vânturos spre muzeu. Seara, în jur de 17:00, apusul timpuriu luminează Saint-Paul. Îmbrăcați-vă gros!",
+            "en": "Crisp winter morning at the church. Midday offers a warm cultural immersion at Allégora. Afternoon stroll across the breezy bridge to the heated museum. By 17:00, the early sunset illuminates Saint-Paul. Bundle up tightly!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église de la Madeleine",
+                "hu": "Église de la Madeleine",
+                "ro": "Église de la Madeleine",
+                "en": "Église de la Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Atmosphäre im Inneren dieser historischen Kirche, um dem Morgenfrost zu entkommen.",
+                "hu": "Élvezze a meleg atmoszférát a történelmi templom belsejében, hogy elmeneküljön a reggeli fagy elől.",
+                "ro": "Bucurați-vă de atmosfera caldă din interiorul acestei biserici istorice pentru a scăpa de gerul dimineții.",
+                "en": "Enjoy the warm atmosphere inside this historic church to gently escape the biting morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Allégora",
+                "hu": "Allégora",
+                "ro": "Allégora",
+                "en": "Allégora"
+              },
+              "tip_5lang": {
+                "de": "Eine beheizte kulturelle Oase, in der Sie Ihre Hände aufwärmen können, während Sie lokale Kunst erkunden.",
+                "hu": "Fűtött kulturális menedék, ahol felmelegítheti a kezeit, miközben felfedezi a helyi művészeteket.",
+                "ro": "Un refugiu cultural încălzit pentru a vă încălzi mâinile în timp ce explorați artele locale.",
+                "en": "A heated cultural haven to warm up your freezing hands while taking your time exploring the local arts."
+              }
+            },
+            {
+              "name": {
+                "de": "Auterive-Brücke",
+                "hu": "Auterive híd",
+                "ro": "Podul Auterive",
+                "en": "Auterive Bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind über dem Fluss kann eisig sein; wickeln Sie sich einen dicken Schal um den Hals.",
+                "hu": "A folyó felett fújó téli szél rendkívül metsző lehet, tekerjen vastag sálat a nyakába az átkeléshez.",
+                "ro": "Vântul de iarnă deasupra râului poate fi tăios, așa că înfășurați-vă un fular gros în jurul gâtului.",
+                "en": "The winter wind over the river can be quite biting, so be sure to wrap a thick scarf around your neck."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für alte Werkzeuge",
+                "hu": "Régi Eszközök Múzeuma",
+                "ro": "Muzeul Uneltelor Vechi",
+                "en": "Old Tools Museum"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekt beheizte Indoor-Aktivität, bei der Sie viel über traditionelles Winterhandwerk lernen können.",
+                "hu": "Tökéletesen fűtött beltéri program, ahol sokat tanulhat a hagyományos téli vidéki mesterségekről.",
+                "ro": "O activitate de interior perfect încălzită unde puteți învăța despre meșteșugurile tradiționale de iarnă.",
+                "en": "A perfectly heated indoor activity where you can learn fascinating details about traditional winter crafts."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Paul-Kirche",
+                "hu": "Saint-Paul templom",
+                "ro": "Biserica Saint-Paul",
+                "en": "Saint-Paul Church"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die Buntglasfenster, wenn die frühe Wintersonne gegen 17 Uhr untergeht; behalten Sie den Mantel an.",
+                "hu": "Nézze meg az üvegablakokat, ahogy a korai téli nap 17 óra körül lemenőben van; a kabátot tartsa magán.",
+                "ro": "Vedeți vitraliile cum soarele de iarnă apune devreme în jur de ora 17; păstrați-vă haina pe dumneavoastră.",
+                "en": "See the beautiful stained glass as the early winter sun sets around 5 PM; keep your winter coat on inside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros napot a Régi Eszközök Múzeumában, elmerülve a helyi örökségben. Egy rövid tekeréssel elérheti a Saint-Paul templomot.\nDél körül látogasson el az Église de la Madeleine-hez, mielőtt átkelne a folyóra néző ikonikus Auterive téglahídon.\nDélután induljon el délre a központtól, hogy felfedezze a gyönyörűen parkosított Parc du Secourieu-t.\nZárja le a festői kerékpározást a Château de Secourieu külsejének megcsodálásával, ahogy az esti fény megvilágítja a klasszikus francia homlokzatot.",
         "ro": "Începeți ziua de ciclism la Muzeul Uneltelor Vechi, pătrunzând în patrimoniul local. O scurtă pedalare vă duce la Biserica Saint-Paul.\nÎn jurul prânzului, mergeți la Église de la Madeleine înainte de a traversa podul iconic Auterive pentru priveliști uluitoare.\nDupă-amiaza, îndreptați-vă spre sud din centru pentru a descoperi frumosul și vastul Parc du Secourieu.\nÎncheiați plimbarea scenică admirând exteriorul Château de Secourieu, privind cum lumina serii cade pe fațada sa clasică.",
         "en": "Kick off your cycling day at the Old Tools Museum, immersing yourself in local heritage. A quick pedal takes you to Saint-Paul Church.\nAround midday, ride to Église de la Madeleine before crossing the iconic brick Auterive Bridge for stunning river views.\nIn the afternoon, head south away from the center to discover the beautifully landscaped Parc du Secourieu.\nConclude your scenic ride by admiring the exterior of the Château de Secourieu, watching the evening light hit its classic French facade."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens Fahrt zum Museum in Regenkleidung. Mittags kurze Stopps an Kirchen und der nassen Brücke. Nachmittags radeln Sie zum schlammigen Secourieu. Abends brauchen Sie gute Fahrradlichter. Vorsicht vor rutschigem Laub!",
+            "hu": "Reggeli tekerés a múzeumhoz vízálló ruhában. Délben rövid megállók a templomoknál és a vizes hídon. Délután pedálozás a saras Secourieu birtok felé. Estére elengedhetetlen a jó kerékpárlámpa. Vigyázzon a csúszós utakkal!",
+            "ro": "Dimineața plimbare spre muzeu în haine de ploaie. La prânz opriri scurte la biserici și podul ud. După-amiaza pedalați spre domeniul noroios Secourieu. Seara aveți nevoie de lumini bune. Atenție la drumurile alunecoase!",
+            "en": "Morning ride to the museum in waterproof gear. Noon brings quick stops at churches and the wet bridge. Afternoon pedaling to the muddy Secourieu estate. Evening requires excellent bike lights. Beware of slippery roads!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für alte Werkzeuge",
+                "hu": "Régi Eszközök Múzeuma",
+                "ro": "Muzeul Uneltelor Vechi",
+                "en": "Old Tools Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und trocknen Sie sich drinnen ab, während Sie die rustikale Sammlung erkunden.",
+                "hu": "Parkolja le a bringát és száradjon meg odabent, miközben a lenyűgöző rusztikus gyűjteményt vizsgálja.",
+                "ro": "Parcați bicicleta și uscați-vă înăuntru în timp ce explorați colecția fascinantă de unelte rustice.",
+                "en": "Park your bike and dry off inside while exploring the fascinating collection of rustic rural tools."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Paul-Kirche",
+                "hu": "Saint-Paul templom",
+                "ro": "Biserica Saint-Paul",
+                "en": "Saint-Paul Church"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Zufluchtsort im Trockenen, um Ihr Visier abzuwischen und die ruhige Architektur zu bewundern.",
+                "hu": "Gyors beltéri menedék, ahol letörölheti a sisakplexit és megcsodálhatja a békés vallási építészetet.",
+                "ro": "Un refugiu rapid în interior pentru a vă șterge viziera și a admira arhitectura religioasă pașnică.",
+                "en": "A quick indoor refuge to wipe your visor and admire the peaceful religious architecture out of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Madeleine",
+                "hu": "Église de la Madeleine",
+                "ro": "Église de la Madeleine",
+                "en": "Église de la Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem Nieselregen zu entkommen und das historische Kirchenschiff in Ruhe zu genießen.",
+                "hu": "Lépjen be, hogy elmeneküljön a szitáló eső elől, és csendes magányban értékelje a történelmi hajót.",
+                "ro": "Pășiți înăuntru pentru a scăpa de burniță și pentru a aprecia nava istorică în singurătate liniștită.",
+                "en": "Step inside to easily escape the drizzle and appreciate the historic nave in complete quiet solitude."
+              }
+            },
+            {
+              "name": {
+                "de": "Auterive-Brücke",
+                "hu": "Auterive híd",
+                "ro": "Podul Auterive",
+                "en": "Auterive Bridge"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie ab, wenn die Brücke zu rutschig ist, und genießen Sie sicher den Blick auf den Fluss.",
+                "hu": "Szálljon le a nyeregből, ha a híd felülete túl csúszós, és élvezze biztonságosan a megduzzadt folyót.",
+                "ro": "Descălecați dacă suprafața podului este prea alunecoasă și bucurați-vă în siguranță de râul umflat.",
+                "en": "Dismount if the bridge surface is too slippery, and enjoy the swelling river views safely on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Secourieu mit seinen Ornamenten",
+                "hu": "Parc du Secourieu díszítéseivel",
+                "ro": "Parcul Secourieu și ornamentele sale",
+                "en": "Parc du Secourieu and its ornaments"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf asphaltierten Wegen, um Schlamm zu vermeiden, und tragen Sie volle Regenkleidung.",
+                "hu": "Maradjon a burkolt ösvényeken, hogy elkerülje a sarat; a nedves díszekhez teljes esőruházat ajánlott.",
+                "ro": "Rămâneți pe cărările pavate pentru a evita noroiul și purtați echipament complet de ploaie.",
+                "en": "Stick to the paved paths to avoid thick mud, and wear full rain gear to enjoy the dripping ornaments."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Secourieu",
+                "hu": "Château de Secourieu",
+                "ro": "Castelul Secourieu",
+                "en": "Château de Secourieu"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Regen stimmungsvoll; suchen Sie Schutz am Eingang und sichern Sie das nasse Rad.",
+                "hu": "A kastély borongós időben is lenyűgöző; keressen menedéket a bejáratnál és rögzítse a vizes biciklit.",
+                "ro": "Castelul arată dramatic în ploaie; căutați adăpost lângă intrare și asigurați-vă bicicleta udă.",
+                "en": "The castle looks moody in the rain; take shelter near the entrance and securely lock your wet bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Morgenfahrt zum warmen Museum. Die Mittagssonne hilft bei den Kirchen. Nachmittags in Secourieu brauchen Sie Thermokleidung. Abends (17:00 Uhr) fordert die frühe Dämmerung Reflektoren. Genießen Sie die klare Luft!",
+            "hu": "Frissítő reggeli tekerés a meleg múzeumhoz. A déli nap segít a templomoknál. Délután Secourieu-ban termórétegre lesz szükség. Estére (17:00) a korai sötétedés miatt fényvisszaverő kötelező. Szívja magába a friss levegőt!",
+            "ro": "Plimbare matinală revigorantă spre muzeul cald. Soarele amiezii ajută la biserici. După-amiaza la Secourieu necesită haine termice. Seara (17:00) întunericul timpuriu cere veste reflectorizante. Bucurați-vă de aerul curat!",
+            "en": "Brisk morning ride to the warm museum. Midday sun helps during the church visits. Afternoon at Secourieu requires thermal layers. By evening (17:00), early dusk demands reflective gear. Enjoy the crisp winter air!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für alte Werkzeuge",
+                "hu": "Régi Eszközök Múzeuma",
+                "ro": "Muzeul Uneltelor Vechi",
+                "en": "Old Tools Museum"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie drinnen, um sich aufzuwärmen, bevor Sie richtig losradeln; eine sehr gemütliche Umgebung.",
+                "hu": "Kezdjen bent, hogy felmelegítse magát a nagyobb tekerés előtt; a rusztikus eszközök otthonosak.",
+                "ro": "Începeți înăuntru pentru a vă încălzi înainte de plimbarea principală; uneltele rustice sunt confortabile.",
+                "en": "Start indoors to warm your core before the main ride; the rustic tools provide a very cozy sight."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Paul-Kirche",
+                "hu": "Saint-Paul templom",
+                "ro": "Biserica Saint-Paul",
+                "en": "Saint-Paul Church"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Wintermorgenlicht hebt das alte Mauerwerk der Kirche wunderschön hervor.",
+                "hu": "A csendes téli délelőtti fény gyönyörűen kiemeli a templom ősi kőművesmunkáját a hidegben.",
+                "ro": "Lumina liniștită a dimineții de iarnă scoate în evidență frumos zidăria veche a bisericii.",
+                "en": "The quiet winter morning light beautifully highlights the church's ancient stonework in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Madeleine",
+                "hu": "Église de la Madeleine",
+                "ro": "Église de la Madeleine",
+                "en": "Église de la Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Stopp, um Ihre Finger aufzutauen und das klassische lokale Erbe zu bewundern.",
+                "hu": "Békés megálló, ahol kiolvaszthatja ujjait a kesztyűben, és megcsodálhatja a helyi örökséget.",
+                "ro": "O oprire pașnică pentru a vă dezgheța degetele și a admira patrimoniul local clasic.",
+                "en": "A peaceful stop to defrost your freezing fingers and fully admire the classic local heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Auterive-Brücke",
+                "hu": "Auterive híd",
+                "ro": "Podul Auterive",
+                "en": "Auterive Bridge"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Radweg, während der kalte Wind über den Fluss weht.",
+                "hu": "Vigyázzon a jeges foltokra a kerékpársávon, ahogy a hideg szél végigsöpör a folyó felett.",
+                "ro": "Atenție la peticele de gheață de pe pista de biciclete în timp ce vântul rece bate peste râu.",
+                "en": "Watch out carefully for icy patches on the bike lane as the cold wind sweeps across the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Secourieu mit seinen Ornamenten",
+                "hu": "Parc du Secourieu díszítéseivel",
+                "ro": "Parcul Secourieu și ornamentele sale",
+                "en": "Parc du Secourieu and its ornaments"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf Ornamente frei; bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "A csupasz fák felfedik az eddig rejtett díszeket; maradjon mozgásban, hogy melegen tartsa magát.",
+                "ro": "Copacii goi dezvăluie ornamente ascunse; continuați să vă mișcați pentru a vă menține cald.",
+                "en": "The bare winter trees reveal hidden ornaments; keep moving consistently to stay warm in the air."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Secourieu",
+                "hu": "Château de Secourieu",
+                "ro": "Castelul Secourieu",
+                "en": "Château de Secourieu"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor der frühen Dämmerung an; tragen Sie für die Rückfahrt dicke Thermohandschuhe.",
+                "hu": "Érkezzen a korai sötétedés előtt, hogy napfényben lássa; a visszaútra vastag termókesztyű kell.",
+                "ro": "Ajungeți înainte de amurgul timpuriu; purtați mănuși termice groase pentru drumul de întoarcere.",
+                "en": "Arrive before the early dusk to see the estate in daylight; wear thermal gloves for the ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós túráját egy reggeli látogatással a modern Allégora központban. Innen tegyen egy rövid utat a csodálatos Auterive hídhoz.\nDélben térjen vissza a központ felé, hogy felfedezze a Régi Eszközök Múzeumában őrzött lenyűgöző regionális történelmet.\nA délutánt töltse azzal, hogy délre vezet, és megcsodálja a Château de Secourieu-t, valamint a szomszédos történelmi parkot.\nEgy békés estéért vezessen a Lac de Cintegabelle-hez, ahol megnézheti a naplementét a víz felett, mielőtt visszatérne.",
         "ro": "Începeți turul cu mașina printr-o vizită matinală la centrul modern Allégora. De acolo, conduceți scurt până la magnificul pod Auterive.\nLa prânz, întoarceți-vă spre centru pentru a explora istoria regională fascinantă păstrată în Muzeul Uneltelor Vechi.\nPetreceți după-amiaza conducând spre sud pentru a admira Château de Secourieu și parcul istoric fermecător adiacent.\nPentru o seară senină, conduceți până la Lac de Cintegabelle, unde puteți privi apusul soarelui peste apă înainte de a vă întoarce.",
         "en": "Begin your driving tour with a morning visit to the modern Allégora center. From there, take a brief drive to the magnificent Auterive Bridge.\nAt midday, head back towards the center to explore the fascinating regional history preserved inside the Old Tools Museum.\nSpend your afternoon driving south to marvel at the Château de Secourieu and wandering the adjacent charming historic park.\nFor a serene evening, drive out to the Lac de Cintegabelle, where you can watch the sunset over the water before heading back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit Indoor-Kultur im Allégora. Fahren Sie mittags über die Brücke zum trockenen Museum. Nachmittags erwartet Sie ein schlammiger, aber mystischer Schlosspark. Abends am nebligen See. Der beheizte Wagen ist heute Ihr bester Freund!",
+            "hu": "Kezdje a napot az Allégora beltéri kultúrájával. Délben guruljon át a hídon a száraz múzeumhoz. Délután egy saras, de misztikus kastélypark várja. Estét a ködös tónál zárja. A fűtött autó ma a legjobb barátja, de tartson esernyőt a csomagtartóban!",
+            "ro": "Începeți cu cultură de interior la Allégora. Conduceți la prânz peste pod spre muzeul uscat. După-amiaza vă așteaptă un parc de castel noroios dar mistic. Seara la lacul cețos. Mașina încălzită este cel mai bun prieten azi!",
+            "en": "Start with indoor culture at Allégora. Drive over the wet bridge to the dry museum at noon. Afternoon features a muddy but atmospheric castle park. Evening ends at the misty lake. The heated car is your best friend today, keep an umbrella handy!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Allégora",
+                "hu": "Allégora",
+                "ro": "Allégora",
+                "en": "Allégora"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und rennen Sie hinein, um Kultur zu genießen, ohne nass zu werden.",
+                "hu": "Parkoljon a közelben és rohanjon be, hogy anélkül élvezze a kultúrát, hogy elázna a reggeli esőben.",
+                "ro": "Parcați aproape și grăbiți-vă înăuntru pentru a vă bucura de cultură fără a vă uda de ploaie.",
+                "en": "Park nearby and dash inside to enjoy local culture without getting soaked by the morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Auterive-Brücke",
+                "hu": "Auterive híd",
+                "ro": "Podul Auterive",
+                "en": "Auterive Bridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, um den vom Regen geschwollenen Fluss bequem aus dem Auto zu bewundern.",
+                "hu": "Hajtson át lassan a hídon, hogy az autó kényelméből csodálja meg az esőtől megduzzadt folyót.",
+                "ro": "Conduceți încet pentru a admira râul umflat de ploaie din confortul mașinii dumneavoastră.",
+                "en": "Drive slowly over the bridge to safely admire the rain-swollen river from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für alte Werkzeuge",
+                "hu": "Régi Eszközök Múzeuma",
+                "ro": "Muzeul Uneltelor Vechi",
+                "en": "Old Tools Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Rückzugsort bei Regen; nehmen Sie sich Zeit für die historischen Artefakte.",
+                "hu": "Kiváló menedék esős napokon; szánjon extra időt a történelmi leletek beltéri tanulmányozására.",
+                "ro": "Un refugiu excelent pentru zile ploioase; acordați-vă timp suplimentar pentru artefactele istorice.",
+                "en": "An excellent rainy day retreat; spend extra time examining the historical artifacts indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Secourieu",
+                "hu": "Château de Secourieu",
+                "ro": "Castelul Secourieu",
+                "en": "Château de Secourieu"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen stabilen Schirm für den kurzen Weg vom Auto zu den dramatischen Schlossmauern mit.",
+                "hu": "Hozzon masszív esernyőt a parkolótól a drámai megjelenésű kastélyfalakig tartó rövid sétához.",
+                "ro": "Aduceți o umbrelă rezistentă pentru plimbarea scurtă de la mașină la zidurile dramatice ale castelului.",
+                "en": "Bring a sturdy umbrella for the short walk from the car to see the dramatic, rain-soaked castle walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Secourieu mit seinen Ornamenten",
+                "hu": "Parc du Secourieu díszítéseivel",
+                "ro": "Parcul Secourieu și ornamentele sale",
+                "en": "Parc du Secourieu and its ornaments"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf Kieswegen, damit Ihre Schuhe im nassen Wetter nicht zu schlammig werden.",
+                "hu": "Maradjon a kavicsos ösvényeken, hogy a cipője ne legyen teljesen saras a nedves, vizes időben.",
+                "ro": "Rămâneți pe cărările de pietriș pentru ca pantofii să nu se umple de noroi pe vremea umedă.",
+                "en": "Stick strictly to gravel paths so your shoes don't get terribly muddy in the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Cintegabelle",
+                "hu": "Lac de Cintegabelle",
+                "ro": "Lac de Cintegabelle",
+                "en": "Lac de Cintegabelle"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf dem See am besten aus der trockenen Wärme Ihres geparkten Autos.",
+                "hu": "A tavon táncoló esőcseppeket a legjobb a leparkolt autó száraz melegéből megfigyelni.",
+                "ro": "Priviți picăturile de ploaie dansând pe lac din căldura uscată a mașinii dumneavoastră parcate.",
+                "en": "Watch the heavy raindrops dance on the lake surface from the dry warmth of your parked vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gemütliche Fahrt zum Allégora am Morgen. Mittags überqueren Sie die Brücke zum beheizten Museum. Nachmittags warten Schloss und Park in der klaren Luft. Das Finale am See sollte vor dem Sonnenuntergang um 17:00 Uhr sein. Genießen Sie die Heizung!",
+            "hu": "Kényelmes, fűtött autózás az Allégorához reggel. Délben átkelés a hídon a meleg múzeumhoz. Délután a kastély és a park várja a friss, fagyos levegőn. A tónál fejezze be a napot a 17:00 órai naplemente előtt. Használjon téli gumit!",
+            "ro": "Plimbare confortabilă spre Allégora dimineața. La prânz traversați podul spre muzeul încălzit. După-amiaza castelul și parcul vă așteaptă în aerul rece. Finalul la lac trebuie să fie înaintea apusului de la 17:00. Bucurați-vă de căldură!",
+            "en": "Cozy morning drive to Allégora. Midday crossing of the bridge to the heated museum. Afternoon castle and park visit in the crisp air. Finish at the lake just before the early 17:00 sunset. Use winter tires and enjoy the car heater!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Allégora",
+                "hu": "Allégora",
+                "ro": "Allégora",
+                "en": "Allégora"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekt beheizter Ausgangspunkt, um an einem frostigen Wintermorgen in das lokale Erbe einzutauchen.",
+                "hu": "Tökéletesen fűtött kiindulópont, hogy egy fagyos téli reggelen elmerüljön a helyi örökségben.",
+                "ro": "Un punct de plecare perfect încălzit pentru a vă scufunda în patrimoniul local într-o dimineață geroasă.",
+                "en": "A perfectly heated starting point to comfortably dive into local heritage on a chilly winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Auterive-Brücke",
+                "hu": "Auterive híd",
+                "ro": "Podul Auterive",
+                "en": "Auterive Bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Frost kann die Brücke rutschig machen, aber die winterliche Aussicht auf den Fluss ist atemberaubend.",
+                "hu": "A dér csúszóssá teheti a hidat, de a folyóra nyíló tiszta téli kilátás egyenesen lenyűgöző.",
+                "ro": "Înghețul poate face podul alunecos, dar vederea de iarnă asupra râului este uimitoare.",
+                "en": "The frost may make the bridge slippery, but the clear winter view of the river is truly stunning."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für alte Werkzeuge",
+                "hu": "Régi Eszközök Múzeuma",
+                "ro": "Muzeul Uneltelor Vechi",
+                "en": "Old Tools Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf und lernen Sie, wie die Einheimischen früher raue Winter überlebten.",
+                "hu": "Melegedjen fel odabent, és tanulja meg, hogyan élték túl a helyiek a zord teleket ezekkel az eszközökkel.",
+                "ro": "Încălziți-vă și învățați cum localnicii supraviețuiau iernilor aspre folosind aceste unelte.",
+                "en": "Warm up inside and learn how locals historically survived harsh winters using these antique implements."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Secourieu",
+                "hu": "Château de Secourieu",
+                "ro": "Castelul Secourieu",
+                "en": "Château de Secourieu"
+              },
+              "tip_5lang": {
+                "de": "Das Wintersonnenlicht verleiht dem Schloss einen magischen Glanz; ziehen Sie sich warm an für den Fußweg.",
+                "hu": "A téli napfény varázslatos ragyogást ad a kastélynak; öltözzön fel melegen a parkolóból tartó sétához.",
+                "ro": "Lumina soarelui de iarnă dă castelului o strălucire magică; îmbrăcați-vă gros pentru drumul pe jos.",
+                "en": "The low winter sunlight gives the castle a magical glow; dress warmly for the short walk from the lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Secourieu mit seinen Ornamenten",
+                "hu": "Parc du Secourieu díszítéseivel",
+                "ro": "Parcul Secourieu și ornamentele sale",
+                "en": "Parc du Secourieu and its ornaments"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Äste bieten freie Sicht auf die Ornamente; wickeln Sie sich in einen dicken Mantel.",
+                "hu": "A csupasz ágak szabad kilátást biztosítanak a park díszeire; burkolózzon egy nagyon vastag kabátba.",
+                "ro": "Ramurile goale oferă vederi clare asupra ornamentelor parcului; înfășurați-vă într-o haină groasă.",
+                "en": "The bare branches offer clear views of the park's ornaments; wrap up securely in a thick winter coat."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Cintegabelle",
+                "hu": "Lac de Cintegabelle",
+                "ro": "Lac de Cintegabelle",
+                "en": "Lac de Cintegabelle"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den spektakulären Wintersonnenuntergang über dem Wasser zu erleben.",
+                "hu": "Érkezzen délután fél 5 körül, hogy elcsípje a lenyűgöző téli naplementét a fagyos vizek felett.",
+                "ro": "Ajungeți înainte de 17:00 pentru a prinde spectaculosul apus de iarnă peste apele înghețate.",
+                "en": "Arrive by 4:30 PM to catch the spectacular early winter sunset reflecting over the icy waters."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Barrika központjának felfedezésével, majd sétáljon el a lenyűgöző helyi strandra. Délben barangoljon el a Muriola öbölhöz, és élvezze annak filmes varázsát. Délután vegye az irányt Plentzia felé, és csodálja meg a városháza történelmi építészetét. A sétával töltött napot a placentiai strand puha homokján pihenve zárja le.",
         "ro": "Începeți dimineața explorând centrul civic din Barrika înainte de a vă plimba spre plaja locală uimitoare. La amiază, mergeți către faimosul golf Muriola pentru a admira farmecul său de film. După-amiază, îndreptați-vă spre Plentzia pentru a vedea arhitectura istorică a primăriei. Încheiați ziua relaxându-vă pe nisipul fin al plajei Plentzia.",
         "en": "Start your morning exploring Barrika's civic heart before strolling to the majestic flysch-lined local beach. By midday, wander over to the iconic Muriola cove to relish its cinematic coastal charm. In the afternoon, head toward Plentzia to admire the historical architecture of its town hall. Conclude your walking day unwinding on the soft sands of Plentzia beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Rathaus von Barrika, wo der Regen die Steinfassaden dunkler färbt. Ein Schirm ist unerlässlich für den Weg zu den Klippen.\n\nMittags suchen wir Schutz in den engen Gassen von Plentzia. Die salzige Luft vermischt sich mit dem Prasseln des Regens auf das Kopfsteinpflaster.\n\nAm Nachmittag bietet der Strand von Plentzia einen dramatischen Anblick unter grauen Wolken. Der Boden kann auf den Küstenpfaden sehr rutschig sein.\n\nAbends spiegeln sich die Lichter des Hafens in den Pfützen. Die feuchte Kälte zieht ein, während wir den Tag im Schutz der Gebäude ausklingen lassen.",
+            "hu": "A nap a városházánál indul, ahol az eső mélyebb tónust ad a régi falaknak. Az óceáni pára és a szemerkélés miatt vízálló öltözet kötelező.\n\nDélben Plentzia óvárosának védettebb részei felé vesszük az irányt. A kikötő környékén a vízparti sétány ilyenkor különösen mélabús és szép.\n\nDélután a strand homokja megtelik tócsákkal, az Atlanti-óceán hullámai pedig vadabbul csapkodják a partot. Vigyázzunk a sárral a dűnék között.\n\nEste a vizes aszfalton megcsillannak az utcai lámpák fényei. A napot a tenger morajlása és az eső kopogása zárja a kikötő közelében.",
+            "ro": "Ziua începe la primăria din Barrika, unde ploaia accentuează culorile pietrei vechi. O umbrelă rezistentă la vânt este esențială pentru faleză.\n\nLa prânz, ne adăpostim pe străzile înguste din Plentzia. Aerul sărat și sunetul picăturilor pe acoperișuri creează o atmosferă intimă.\n\nDupă-amiaza, plaja Plentzia oferă un spectacol dramatic sub cerul plumburiu. Atenție sporită pe potecile de coastă, care devin foarte noroioase.\n\nSeara, luminile portului se oglindesc în bălți, oferind cadre fotografice unice. Încheiem plimbarea rapid din cauza umezelii pătrunzătoare.",
+            "en": "The day starts at Barrika's town hall, where the rain deepens the colors of the stone. A windproof umbrella is essential for the cliffside path.\n\nAt noon, we seek shelter in the narrow streets of Plentzia. The salty air mixes with the sound of rain hitting the cobblestones.\n\nIn the afternoon, Plentzia beach offers a dramatic view under heavy clouds. Be careful on the coastal trails, as they become quite slippery.\n\nIn the evening, harbor lights reflect beautifully in the puddles. The damp cold sets in, making the shelter of the village very welcoming."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Barrika",
+                "hu": "Ayuntamiento de Barrika",
+                "ro": "Ayuntamiento de Barrika",
+                "en": "Ayuntamiento de Barrika"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter dem Schutz des Portikus, um trocken zu bleiben, während Sie die Aussicht auf den nebligen Küstenort genießen.",
+                "hu": "Csodálja meg az épületet az árkádok alól, így szárazon maradhat, miközben a ködös, eső áztatta partvidéki település látványát élvezi.",
+                "ro": "Admirați arhitectura de sub protecția porticului pentru a rămâne uscat în timp ce priviți satul de coastă învăluit în ceața de dimineață.",
+                "en": "Admire the architecture from the safety of the portico to stay dry while enjoying the view of the misty, rain-soaked coastal village."
+              }
+            },
+            {
+              "name": {
+                "de": "Barrikako hondartza",
+                "hu": "Barrikako hondartza",
+                "ro": "Barrikako hondartza",
+                "en": "Barrikako hondartza"
+              },
+              "tip_5lang": {
+                "de": "Die Klippen wirken bei Regen besonders wild; tragen Sie festes Schuhwerk, da die Treppen zum Strand extrem rutschig und schlammig sein können.",
+                "hu": "A sziklák esőben különösen vadregényesek; viseljen tapadós talpú cipőt, mert a partra vezető lépcsők ilyenkor rendkívül csúszósak lehetnek.",
+                "ro": "Faleza pare extrem de sălbatică pe ploaie; purtați încălțăminte cu aderență bună, deoarece scările spre plajă pot fi foarte alunecoase.",
+                "en": "The cliffs look especially wild in the rain; wear sturdy boots as the stairs leading down to the beach can be extremely slippery and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Muriola",
+                "hu": "Muriola",
+                "ro": "Muriola",
+                "en": "Muriola"
+              },
+              "tip_5lang": {
+                "de": "Dieser geschützte Strand bietet auch bei Schietwetter eine raue Schönheit; nutzen Sie die Felsvorsprünge als natürlichen Unterstand vor den Schauern.",
+                "hu": "Ez a védett öböl esős időben is nyers szépséget áraszt; használja a sziklakiszögelléseket természetes menedékként a hirtelen záporok elől.",
+                "ro": "Această plajă protejată oferă o frumusețe brută chiar și pe vreme rea; folosiți proeminențele stâncoase ca adăpost natural împotriva ploii.",
+                "en": "This sheltered cove offers raw beauty even in bad weather; use the rocky overhangs as natural cover from the passing rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Plentziako Uri Udala",
+                "hu": "Plentziako Uri Udala",
+                "ro": "Plentziako Uri Udala",
+                "en": "Plentziako Uri Udala"
+              },
+              "tip_5lang": {
+                "de": "Die Altstadt bietet viele überdachte Durchgänge; nutzen Sie die Zeit für eine detaillierte Betrachtung der historischen Wappen an den Fassaden.",
+                "hu": "Az óváros számos fedett átjárót kínál; használja ki az időt a homlokzatokon található történelmi címerek részletes megtekintésére.",
+                "ro": "Orașul vechi are multe pasaje acoperite; profitați de timp pentru a examina detaliat blazoanele istorice de pe fațadele clădirilor.",
+                "en": "The old town offers many covered passages; take the opportunity to examine the historic coats of arms on the facades while staying out of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plentzia beach",
+                "hu": "Plentzia beach",
+                "ro": "Plentzia beach",
+                "en": "Plentzia beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen von der Uferpromenade aus; die Cafés in der Nähe bieten den perfekten Ort, um sich nach dem Spaziergang aufzuwärmen.",
+                "hu": "Figyelje a hullámokat a parti sétányról; a közeli kávézók tökéletes helyet kínálnak az átmelegedéshez egy kiadós esős séta után.",
+                "ro": "Observați valurile de pe faleza pietonală; cafenelele din apropiere sunt locul ideal pentru a vă încălzi după o plimbare lungă prin ploaie.",
+                "en": "Watch the crashing waves from the promenade; the nearby cafes provide the perfect spot to warm up after your rainy coastal walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Rathaus. Die Luft ist beißend kalt, aber die Sonne lässt die baskische Küste in einem harten, schönen Licht erstrahlen.\n\nMittags wandern wir entlang der Klippen. Der Wind ist kräftig, daher sind mehrere Kleidungsschichten und eine Mütze absolut notwendig.\n\nAm Nachmittag erreichen wir den Strand, während die Sonne bereits tief steht. Das goldene Licht auf dem Sand ist magisch, aber die Wärme schwindet schnell.\n\nGegen 17:00 Uhr geht die Sonne unter. Die Dämmerung ist kurz, und wir beenden unsere Tour in der gemütlichen, beleuchteten Altstadt von Plentzia.",
+            "hu": "Friss téli reggel a városházánál. A levegő csípős, de a felkelő nap éles fénybe öltözteti a baszk partvidéket, ami látványos fotótémát kínál.\n\nDélben a sziklák mentén sétálunk. Az óceáni szél ilyenkor fagyos lehet, ezért a réteges öltözködés és a szélálló kabát elengedhetetlen.\n\nDélután a strand homokján a lemenő nap hosszú árnyékokat vet. A látvány lenyűgöző, de a hőmérséklet gyorsan zuhanni kezd a parton.\n\n17:00 körül a nap már eltűnik a horizont alatt. A sötétedés gyors, így az utolsó megállókat már az esti fényekben, a falu melegét keresve érjük el.",
+            "ro": "O dimineață senină de iarnă la primărie. Aerul este tăios, dar soarele luminează coasta bască într-o lumină rece și clară, foarte frumoasă.\n\nLa prânz, parcurgem potecile de pe faleză. Vântul este puternic, așa că straturile termice și o căciulă sunt absolut necesare pentru confort.\n\nDupă-amiaza, ajungem la plajă când soarele este deja jos. Lumina aurie pe nisip este magică, dar căldura dispare rapid odată cu umbrele lungi.\n\nÎn jurul orei 17:00 soarele apune deja. Crepusculul este scurt, iar noi încheiem traseul în centrul luminat și primitor al orașului Plentzia.",
+            "en": "A crisp winter morning at the town hall. The air is biting, but the sun illuminates the Basque coast in a harsh, beautiful light.\n\nAt noon, we hike along the cliffs. The wind is strong, so wearing multiple thermal layers and a hat is absolutely necessary for comfort.\n\nIn the afternoon, we reach the beach while the sun is already low. The golden light on the sand is magical, but the warmth fades quickly.\n\nAround 17:00, the sun sets. The twilight is short, and we finish our tour in the cozy, well-lit old town of Plentzia as the cold sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Barrika",
+                "hu": "Ayuntamiento de Barrika",
+                "ro": "Ayuntamiento de Barrika",
+                "en": "Ayuntamiento de Barrika"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die Architektur; im Winter sind die Details der Steinarbeiten ohne störendes Laub an den umliegenden Bäumen besser sichtbar.",
+                "hu": "Élvezze az épület tiszta látványát; télen a kőfaragások részletei sokkal jobban látszanak a környező fák lombkoronája nélkül.",
+                "ro": "Bucurați-vă de vizibilitatea clară asupra arhitecturii; iarna, detaliile sculptate în piatră sunt mai vizibile fără frunzișul copacilor din jur.",
+                "en": "Enjoy the clear views of the architecture; in winter, the stone carvings are more visible without the dense foliage of the surrounding trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Barrikako hondartza",
+                "hu": "Barrikako hondartza",
+                "ro": "Barrikako hondartza",
+                "en": "Barrikako hondartza"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne erzeugt fantastische Schatten an den Klippen; bringen Sie Handschuhe mit, da das Geländer an der Treppe im Winter eiskalt ist.",
+                "hu": "A laposan beeső napfény fantasztikus árnyékokat vet a sziklákon; hozzon kesztyűt, mert a lépcső korlátja télen jéghideg lehet.",
+                "ro": "Soarele de iarnă creează umbre fantastice pe stânci; aduceți mănuși, deoarece balustrada scărilor este extrem de rece în acest sezon.",
+                "en": "The low sun creates fantastic shadows on the cliffs; bring gloves as the metal railings on the stairs can be freezing cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Muriola",
+                "hu": "Muriola",
+                "ro": "Muriola",
+                "en": "Muriola"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für winterliche Einsamkeit; der Wind kann hier schneidend sein, daher ist ein windfester Schal für den Aufenthalt am Ufer wichtig.",
+                "hu": "A téli magány nyugodt helyszíne; a szél itt metsző lehet, ezért egy szélálló sál elengedhetetlen a parton való tartózkodáshoz.",
+                "ro": "Un loc liniștit pentru solitudine hibernală; vântul poate fi tăios aici, deci o eșarfă groasă este necesară pentru a sta pe mal.",
+                "en": "A peaceful spot for winter solitude; the wind can be biting here, so a windproof scarf is essential for staying comfortable by the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Plentziako Uri Udala",
+                "hu": "Plentziako Uri Udala",
+                "ro": "Plentziako Uri Udala",
+                "en": "Plentziako Uri Udala"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für einen kurzen Stopp in einem warmen Café; die historische Fassade wirkt im grauen Winterlicht besonders ehrwürdig.",
+                "hu": "Használja ki a látogatást egy rövid pihenőre egy közeli meleg kávézóban; a történelmi homlokzat méltóságteljes a téli fényben.",
+                "ro": "Profitați de vizită pentru o scurtă oprire într-o cafenea încălzită; fațada istorică pare foarte sobră în lumina rece de iarnă.",
+                "en": "Combine your visit with a quick stop at a warm cafe; the historic facade looks particularly venerable in the cool winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Plentzia beach",
+                "hu": "Plentzia beach",
+                "ro": "Plentzia beach",
+                "en": "Plentzia beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang gegen 17:00 Uhr direkt am Meer; die weite Sandfläche reflektiert die letzten Farben des Tages wunderschön.",
+                "hu": "Élje át a korai, 17:00 körüli naplementét közvetlenül a parton; a széles homokos part csodásan tükrözi a nap utolsó színeit.",
+                "ro": "Experimentați apusul timpuriu în jurul orei 17:00 chiar pe plajă; întinderea de nisip reflectă superb ultimele culori ale zilei.",
+                "en": "Experience the early sunset around 17:00 right on the beach; the vast expanse of sand beautifully reflects the final colors of the day."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Tekerjen ki Barrika történelmi városházájától a Barrikako hondartza sziklái felé. Délben pedálozzon el a látványos Muriola strandhoz, mielőtt Plentzia elegáns utcáira érne. A délután sima utazást kínál a part mentén, összekötve Plentzia pezsgő homokját a Gorliz-öböllel. Zárja a kerékpározást Astondo nyugodt partjainak közelében.",
         "ro": "Pedalați de la primăria istorică din Barrika către stâncile abrupte care străjuiesc Barrikako hondartza. La prânz, mergeți spre spectaculoasa plajă Muriola, înainte de a intra în Plentzia. După-amiaza oferă o plimbare lină pe coastă, conectând nisipurile din Plentzia cu golful Gorliz. Terminați-vă traseul lângă țărmurile liniștite din Astondo.",
         "en": "Cycle out from Barrika's historic town hall towards the rugged cliffs guarding Barrikako hondartza. By midday, pedal to the spectacular Muriola beach before heading into the elegant streets of Plentzia. The afternoon offers a smooth ride along the coast, connecting the vibrant sands of Plentzia with the wide bay of Gorliz. Finish your ride near the tranquil shores of Astondo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Start erfolgt bei Nieselregen am Rathaus. Die Straßen sind rutschig, daher ist eine vorsichtige Fahrweise bergab zur Küste erforderlich.\n\nMittags erreichen wir Muriola. Das Bremsen auf nassen Wegen dauert länger, achten Sie besonders auf Schlamm in den Kurven der Küstenpfade.\n\nAm Nachmittag führt die Route entlang der Strände von Gorliz und Astondo. Der Wind peitscht den Regen von der Seite, gute Regenbekleidung ist ein Muss.\n\nAbends kehren wir mit schlammbespritzten Rädern zurück. Die Sicht wird durch den Regen eingeschränkt, funktionierende Lichter am Fahrrad sind lebenswichtig.",
+            "hu": "Szemerkélő esőben indulunk a városházától. Az utak csúszósak, ezért a tengerpart felé vezető lejtőkön óvatos fékezésre van szükség.\n\nDélben érjük el Muriolát. A nedves talajon a féktávolság megnő, figyeljünk a sárfoltokra a partmenti ösvények kanyarjaiban.\n\nDélután Gorliz és Astondo strandjai mentén tekerünk. Az óceáni szél oldalról fújja az esőt, a vízhatlan öltözet és a sárvédő aranyat ér.\n\nEste sárfoltos bringákkal érünk célba. A látási viszonyok a csapadék miatt romlanak, ezért a jó világítás elengedhetetlen a biztonsághoz.",
+            "ro": "Pornim de la primărie pe o ploaie ușoară. Șoselele sunt alunecoase, deci este necesară o prudență sporită pe coborârile spre coastă.\n\nLa prânz ajungem la Muriola. Distanța de frânare crește pe asfaltul ud; atenție la petele de noroi din curbele potecilor de coastă.\n\nDupă-amiaza pedalăm de-a lungul plajelor Gorliz și Astondo. Vântul suflă ploaia din lateral, așa că echipamentul impermeabil este vital.\n\nSeara ne întoarcem cu bicicletele pline de noroi. Vizibilitatea scade din cauza precipitațiilor, deci luminile funcționale sunt obligatorii.",
+            "en": "We set off from the town hall in drizzling rain. The roads are slippery, so extra caution is needed on the descents towards the coast.\n\nAt noon, we reach Muriola. Braking takes longer on wet paths; watch out for mud patches in the corners of the coastal trails.\n\nIn the afternoon, the route follows the beaches of Gorliz and Astondo. The wind blows rain from the side, so waterproof gear is a must.\n\nIn the evening, we finish with mud-splattered bikes. Visibility decreases with the rain, making working bike lights vital for your safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Barrika",
+                "hu": "Ayuntamiento de Barrika",
+                "ro": "Ayuntamiento de Barrika",
+                "en": "Ayuntamiento de Barrika"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen im Schutz des Gebäudes; die Abfahrt zum Strand ist steil und bei Nässe besonders anspruchsvoll für Radfahrer.",
+                "hu": "Ellenőrizze a fékeit az épület védelmében; a part felé vezető lejtő meredek és esőben különösen nagy kihívást jelent a kerékpárosoknak.",
+                "ro": "Verificați frânele sub protecția clădirii; coborârea spre plajă este abruptă și devine solicitantă pentru bicicliști pe timp de ploaie.",
+                "en": "Check your brakes under the shelter of the building; the descent to the beach is steep and challenging for cyclists when the road is wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Barrikako hondartza",
+                "hu": "Barrikako hondartza",
+                "ro": "Barrikako hondartza",
+                "en": "Barrikako hondartza"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Befahren der nassen Holzstege; parken Sie das Rad fest und genießen Sie den Blick auf die tosenden Wellen aus sicherer Entfernung.",
+                "hu": "Kerülje a nedves fapallókon való kerékpározást; parkoljon le biztos helyen, és csodálja a tajtékzó hullámokat biztonságos távolságból.",
+                "ro": "Evitați să pedalați pe pasarelele de lemn umede; parcați bicicleta sigur și admirați valurile înfuriate de la o distanță sigură.",
+                "en": "Avoid cycling on the wet wooden walkways; park your bike securely and enjoy the view of the crashing waves from a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Muriola",
+                "hu": "Muriola",
+                "ro": "Muriola",
+                "en": "Muriola"
+              },
+              "tip_5lang": {
+                "de": "Der Bodenweg hierher kann sehr schlammig sein; fahren Sie langsam, um ein Wegrutschen der Reifen in den weichen Abschnitten zu verhindern.",
+                "hu": "Az ide vezető földút nagyon sáros lehet; haladjon lassan, hogy elkerülje a kerekek megcsúszását a felázott, puha szakaszokon.",
+                "ro": "Drumul de pământ până aici poate fi foarte noroios; pedalați încet pentru a preveni deraparea roților pe porțiunile moi și umede.",
+                "en": "The dirt path leading here can be very muddy; ride slowly to prevent your tires from slipping in the soft, waterlogged sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Plentziako Uri Udala",
+                "hu": "Plentziako Uri Udala",
+                "ro": "Plentziako Uri Udala",
+                "en": "Plentziako Uri Udala"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster der Altstadt; parken Sie das Fahrrad unter einem Dachvorsprung, während Sie die Kirche besichtigen.",
+                "hu": "Vigyázzon az óváros nedves macskakövein; parkolja le a bringát egy eresz alatt, amíg megtekinti a templomot és a környéket.",
+                "ro": "Atenție pe piatra cubică umedă din centrul vechi; parcați bicicleta sub o streașină în timp ce vizitați biserica și împrejurimile.",
+                "en": "Be careful on the wet cobblestones of the old town; park your bike under an eave while you explore the church and nearby buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Plentzia beach",
+                "hu": "Plentzia beach",
+                "ro": "Plentzia beach",
+                "en": "Plentzia beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Radweg entlang der Bucht; der Wind kann stark sein, halten Sie den Lenker bei Böen besonders fest.",
+                "hu": "Használja az öböl menti kiépített kerékpárutat; a szél erős lehet, ezért a széllökéseknél fogja különösen szorosan a kormányt.",
+                "ro": "Folosiți pista de biciclete amenajată de-a lungul golfului; vântul poate fi puternic, deci țineți bine de ghidon în timpul rafalelor.",
+                "en": "Use the paved bike path along the bay; the wind can be strong here, so keep a firm grip on your handlebars during sudden gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Gorliz beach",
+                "hu": "Gorliz beach",
+                "ro": "Gorliz beach",
+                "en": "Gorliz beach"
+              },
+              "tip_5lang": {
+                "de": "Der breite Gehweg bietet viel Platz; achten Sie auf Pfützen, die tiefer sein könnten, als sie aussehen, um nasse Füße zu vermeiden.",
+                "hu": "A széles sétányon sok a hely; ügyeljen a tócsákra, amelyek mélyebbek lehetnek, mint amilyennek látszanak, kerülje el a beázást.",
+                "ro": "Faleza lată oferă mult spațiu; atenție la bălțile care pot fi mai adânci decât par, pentru a evita udarea picioarelor.",
+                "en": "The wide promenade offers plenty of space; watch out for puddles that might be deeper than they look to avoid getting soaked feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Astondo beach",
+                "hu": "Astondo beach",
+                "ro": "Astondo beach",
+                "en": "Astondo beach"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein guter Umkehrpunkt bei starkem Regen; die Cafés hinter dem Strand bieten einen warmen Platz zum Trocknen der Kleidung.",
+                "hu": "Ez egy jó visszafordulási pont heves esőben; a strand mögötti kávézók meleg helyet kínálnak a ruhák megszárításához.",
+                "ro": "Acesta este un punct bun de întoarcere în caz de ploaie torențială; cafenelele de lângă plajă oferă un loc cald pentru uscare.",
+                "en": "This is a good turning point during heavy rain; the cafes behind the beach offer a warm place to dry off and have a break."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Tour startet frostig am Rathaus. Thermohandschuhe sind für die Abfahrt zur Küste unerlässlich, da der Fahrtwind die Hände schnell auskühlt.\n\nMittags radeln wir an den Klippen entlang. Die Sonne steht tief und blendet oft, eine Sonnenbrille ist trotz der Kälte sehr hilfreich.\n\nAm Nachmittag erreichen wir die Strände von Gorliz. Der Sand ist hart gefroren und die Luft ist kristallklar, was weite Fernsichten ermöglicht.\n\nUm 17:00 Uhr beginnt die Dämmerung. Wir müssen das Tempo anziehen, um vor der totalen Dunkelheit und der nächtlichen Kälte zurück zu sein.",
+            "hu": "Fagyos indulás a városházától. A tengerparti lejtőn a menetszél gyorsan kihűti az embert, ezért a thermo-kesztyű és a maszk kötelező.\n\nDélben a sziklák mentén tekerünk. A nap alacsonyan jár és gyakran vakít, ezért a napszemüveg a hideg ellenére is nagyon hasznos kiegészítő.\n\nDélután Gorliz strandjaihoz érünk. A homok keményre fagyott, a levegő pedig kristálytiszta, ami rendkívül távoli kilátást tesz lehetővé.\n\n17:00-kor megkezdődik a szürkület. Fel kell gyorsítanunk a tempót, hogy a teljes sötétség és az éjszakai fagy beállta előtt visszaérjünk.",
+            "ro": "Pornim de la primărie pe un ger ușor. Mănușile termice sunt esențiale pentru coborârea spre coastă, deoarece vântul răcește rapid mâinile.\n\nLa prânz pedalăm pe lângă stânci. Soarele este jos și adesea orbitor, deci ochelarii de soare sunt utili în ciuda temperaturilor scăzute.\n\nDupă-amiaza ajungem la plajele din Gorliz. Nisipul este înghețat, iar aerul este deosebit de clar, permițând vederi panoramice spectaculoase.\n\nLa ora 17:00 începe amurgul. Trebuie să mărim ritmul pentru a ne întoarce înainte de întunericul total și de gerul nopții care se instalează.",
+            "en": "The tour starts frostily at the town hall. Thermal gloves are essential for the descent to the coast, as the wind chill cools hands quickly.\n\nAt noon, we cycle along the cliffs. The sun is low and often blinding, so sunglasses are very helpful despite the cold temperatures.\n\nIn the afternoon, we reach the beaches of Gorliz. The sand is frozen hard and the air is crystal clear, allowing for incredibly far views.\n\nAround 17:00, twilight begins. we need to pick up the pace to get back before total darkness and the nightly freezing temperatures set in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Barrika",
+                "hu": "Ayuntamiento de Barrika",
+                "ro": "Ayuntamiento de Barrika",
+                "en": "Ayuntamiento de Barrika"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz auf, bevor Sie losfahren; die kalte Morgenluft am Rathaus erfordert eine gute Vorbereitung der Muskulatur.",
+                "hu": "Melegítsen be röviden indulás előtt; a városházánál lévő hideg reggeli levegőben az izmoknak szüksége van a felkészülésre.",
+                "ro": "Încălziți-vă puțin înainte de a pleca; aerul rece de dimineață de la primărie necesită o pregătire bună a musculaturii picioarelor.",
+                "en": "Warm up briefly before setting off; the cold morning air at the town hall requires good muscle preparation for the first segment."
+              }
+            },
+            {
+              "name": {
+                "de": "Barrikako hondartza",
+                "hu": "Barrikako hondartza",
+                "ro": "Barrikako hondartza",
+                "en": "Barrikako hondartza"
+              },
+              "tip_5lang": {
+                "de": "Die Felsformationen sehen im Winterlicht plastischer aus; achten Sie auf Glatteis auf den schattigen Abschnitten des Weges.",
+                "hu": "A sziklaalakzatok a téli fényben még látványosabbak; ügyeljen a jegesedésre az út árnyékosabb, nedvesen maradt szakaszain.",
+                "ro": "Formațiunile stâncoase par mai reliefate în lumina iernii; atenție la gheață pe porțiunile umbrite ale drumului spre plajă.",
+                "en": "The rock formations look more defined in the winter light; watch out for black ice on the shaded sections of the coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Muriola",
+                "hu": "Muriola",
+                "ro": "Muriola",
+                "en": "Muriola"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer; nutzen Sie die Stille für ein schnelles Foto, bevor die Kälte in die Finger kriecht.",
+                "hu": "A strand télen szinte teljesen néptelen; használja ki a csendet egy gyors fotóra, mielőtt a hideg átjárná az ujjait a parton.",
+                "ro": "Plaja este aproape pustie iarna; profitați de liniște pentru o fotografie rapidă înainte ca gerul să vă amorțească degetele.",
+                "en": "The beach is almost deserted in winter; enjoy the silence for a quick photo before the cold starts creeping into your fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Plentziako Uri Udala",
+                "hu": "Plentziako Uri Udala",
+                "ro": "Plentziako Uri Udala",
+                "en": "Plentziako Uri Udala"
+              },
+              "tip_5lang": {
+                "de": "Die Steinmauern strahlen im Winter eine besondere Ruhe aus; ein heißes Getränk am Marktplatz gibt Energie für die Weiterfahrt.",
+                "hu": "A kőfalak télen különleges nyugalmat árasztanak; egy forró ital a főtéren erőt ad a túra hátralévő, szelesebb szakaszaihoz.",
+                "ro": "Zidurile de piatră emană o liniște aparte iarna; o băutură caldă în piața centrală vă va oferi energia necesară pentru drum.",
+                "en": "The stone walls emanate a special calm in winter; a hot drink at the market square will boost your energy for the rest of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Plentzia beach",
+                "hu": "Plentzia beach",
+                "ro": "Plentzia beach",
+                "en": "Plentzia beach"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind an der Bucht kann heftig sein; fahren Sie in einer aerodynamischen Position, um weniger Widerstand zu haben.",
+                "hu": "Az öbölnél a téli szél heves lehet; tekerjen aerodinamikusabb testhelyzetben, hogy csökkentse a hideg szembeszél ellenállását.",
+                "ro": "Vântul de iarnă în golf poate fi violent; pedalați într-o poziție aerodinamică pentru a reduce rezistența vântului rece.",
+                "en": "The winter wind at the bay can be fierce; ride in a more aerodynamic position to reduce the resistance of the cold headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Gorliz beach",
+                "hu": "Gorliz beach",
+                "ro": "Gorliz beach",
+                "en": "Gorliz beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite, klare Sicht über den Ozean; im Winter ist die Luftfeuchtigkeit geringer, was die Farben intensiver macht.",
+                "hu": "Élvezze a tiszta kilátást az óceánra; télen a levegő páratartalma alacsonyabb, ami miatt a színek sokkal élénkebbnek tűnnek.",
+                "ro": "Bucurați-vă de vederea clară asupra oceanului; iarna umiditatea este mai scăzută, ceea ce face culorile să pară mai intense.",
+                "en": "Enjoy the wide, clear views over the ocean; in winter, the humidity is lower, making the coastal colors appear more intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Astondo beach",
+                "hu": "Astondo beach",
+                "ro": "Astondo beach",
+                "en": "Astondo beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Aufenthalt vor Sonnenuntergang um 17:00 Uhr; das Licht am Ende der Bucht ist im Winter spektakulär für Panoramaaufnahmen.",
+                "hu": "Fejezze be a nézelődést a 17:00-s naplemente előtt; az öböl végén a fények télen lenyűgözőek a panorámafotókhoz.",
+                "ro": "Încheiați vizita înainte de apusul de la ora 17:00; lumina de la capătul golfului este spectaculoasă pentru fotografii panoramice.",
+                "en": "Finish your visit before the 17:00 sunset; the light at the end of the bay is spectacular for panoramic winter shots."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +917,280 @@
         "hu": "Vezessen Barrika történelmi központjából egyenesen a helyi strand lenyűgöző flis képződményeihez. Kora délután haladjon Plentzia felé, fedezze fel a városháza terét és a népszerű tengerpartot. Délután kényelmesen végigautózhat Gorliz és Astondo strandjai mellett. Az este a történelmi erődromoknál és az Antekera kilátónál csúcsosodik ki egy lenyűgöző panorámával.",
         "ro": "Conduceți din centrul istoric al Barrikăi spre impresionantele formațiuni de fliș de pe plaja locală. Spre amiază, navigați în Plentzia pentru a descoperi primăria și faleza populară. După-amiaza vă permite să treceți confortabil pe lângă plajele din Gorliz și Astondo. Seara culminează la ruinele fortăreței de coastă și la punctul de belvedere natural din Antekera.",
         "en": "Drive from the historical center of Barrika directly to the impressive flysch formations on the local beach. As midday approaches, navigate into Plentzia to discover its elegant civic plaza and popular seafront. The afternoon allows you to comfortably cruise past the long stretches of Gorliz and Astondo, taking time to admire the petrified dunes. Your evening culminates at the historic coastal fortress ruins and the striking natural vantage point of Antekera."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten gemütlich im trockenen Auto am Rathaus. Die Scheibenwischer arbeiten ununterbrochen, während wir die Küstenstraße entlangfahren.\n\nMittags machen wir Halt in Plentzia. Ein kurzer Sprint mit dem Schirm vom Parkplatz zur Altstadt bewahrt uns vor der größten Nässe.\n\nAm Nachmittag besuchen wir das Fort von Askorriagako. Der Blick aus dem Autofenster auf den stürmischen Ozean ist sicher und beeindruckend.\n\nAbends erreichen wir Antekera. Der Regen peitscht gegen die Scheiben, während wir die dramatische Brandung in der Dunkelheit beobachten.",
+            "hu": "Kényelmesen, a száraz autóban indulunk a városházától. Az ablaktörlők folyamatosan dolgoznak, miközben a látványos partmenti úton haladunk.\n\nDélben Plentziában állunk meg. Egy rövid sprint az esernyővel a parkolótól az óvárosig, és már élvezhetjük is a fedett részek nyugalmát.\n\nDélután az Askorriagako erődöt keressük fel. Az autó ablakából nézve a viharos óceán látványa egyszerre biztonságos és lenyűgöző.\n\nEste érkezünk Antekerához. Az eső veri az ablakokat, miközben a sötétben a hatalmas hullámok fehéren tajtékzó tarajait figyeljük a partnál.",
+            "ro": "Pornim confortabil în mașina uscată de la primărie. Ștergătoarele lucrează continuu în timp ce conducem pe drumul spectaculos de coastă.\n\nLa prânz ne oprim în Plentzia. Un sprint scurt cu umbrela de la parcare până în centrul vechi ne ferește de umezeala cea mai mare.\n\nDupă-amiaza vizităm fortul Askorriagako. Privit de pe geamul mașinii, oceanul furtunos oferă un spectacol impresionant și sigur.\n\nSeara ajungem la Antekera. Ploaia izbește parbrizul în timp ce observăm valurile dramatice care se sparg de stânci în întuneric.",
+            "en": "We start comfortably in the dry car at the town hall. The wipers work continuously as we drive along the scenic coastal road.\n\nAt noon, we stop in Plentzia. A short sprint with an umbrella from the parking lot to the old town keeps us dry from the worst rain.\n\nIn the afternoon, we visit the Askorriagako Fort. Watching the stormy ocean from the car window is both safe and deeply impressive.\n\nIn the evening, we reach Antekera. Rain lashes against the windows while we observe the dramatic white surf crashing in the darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Barrika",
+                "hu": "Ayuntamiento de Barrika",
+                "ro": "Ayuntamiento de Barrika",
+                "en": "Ayuntamiento de Barrika"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Rathausplatz; die Architektur lässt sich auch gut durch die Seitenscheiben des Wagens bewundern.",
+                "hu": "Parkoljon közvetlenül a városháza terén; az épület építészeti részletei az autó oldalsó ablakaiból is jól megfigyelhetőek.",
+                "ro": "Parcați direct în piața primăriei; arhitectura poate fi admirată foarte bine și prin geamurile laterale ale mașinii.",
+                "en": "Park directly in the town hall square; you can admire the architectural details of the building even from the side windows of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Barrikako hondartza",
+                "hu": "Barrikako hondartza",
+                "ro": "Barrikako hondartza",
+                "en": "Barrikako hondartza"
+              },
+              "tip_5lang": {
+                "de": "Vom oberen Parkplatz aus hat man einen tollen Panoramablick; bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht.",
+                "hu": "A felső parkolóból nagyszerű panoráma nyílik; heves esőben maradjon az autóban, és onnan élvezze a drámai tengerparti kilátást.",
+                "ro": "Din parcarea de sus aveți o vedere panoramică excelentă; în caz de ploaie torențială, rămâneți în mașină și admirați coasta.",
+                "en": "The upper parking lot offers a great panoramic view; in case of heavy rain, stay inside the car and enjoy the dramatic coastal scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Plentziako Uri Udala",
+                "hu": "Plentziako Uri Udala",
+                "ro": "Plentziako Uri Udala",
+                "en": "Plentziako Uri Udala"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe, um trockenen Fußes in die Altstadt zu gelangen; die schmalen Gassen bieten guten Schutz vor Wind.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz lábbal jusson az óvárosba; a szűk utcák jó védelmet nyújtanak az erős partmenti szél ellen.",
+                "ro": "Folosiți parcarea acoperită din apropiere pentru a ajunge în centrul vechi fără a vă uda; străzile înguste oferă protecție contra vântului.",
+                "en": "Use a nearby covered parking area to reach the old town dry-shod; the narrow streets offer good protection from the coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Plentzia beach",
+                "hu": "Plentzia beach",
+                "ro": "Plentzia beach",
+                "en": "Plentzia beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die Uferstraße entlang; es gibt viele Parkmöglichkeiten mit direktem Blick auf das stürmische Meer und die Bucht.",
+                "hu": "Hajtson végig a parti úton; számos parkolóhely van, ahonnan közvetlen kilátás nyílik a viharos tengerre és az öbölre.",
+                "ro": "Conduceți pe drumul de coastă; există multe locuri de parcare cu vedere directă spre marea învolburată și spre întregul golf.",
+                "en": "Drive along the coastal road; there are many parking spots offering a direct view of the stormy sea and the entire bay area."
+              }
+            },
+            {
+              "name": {
+                "de": "Gorliz beach",
+                "hu": "Gorliz beach",
+                "ro": "Gorliz beach",
+                "en": "Gorliz beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Strand ist ideal; so können Sie schnell aussteigen, ein Foto machen und sofort wieder ins Trockene zurückkehren.",
+                "hu": "A közvetlenül a parton lévő parkoló ideális; így gyorsan kiszállhat egy fotóra, majd azonnal visszatérhet a száraz autóba.",
+                "ro": "Parcarea direct de pe plajă este ideală; astfel puteți coborî rapid pentru o poză și vă puteți întoarce imediat la adăpost.",
+                "en": "The parking lot directly on the beach is ideal; it allows you to hop out for a quick photo and return to the dry car immediately."
+              }
+            },
+            {
+              "name": {
+                "de": "Astondo beach",
+                "hu": "Astondo beach",
+                "ro": "Astondo beach",
+                "en": "Astondo beach"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der windigste Teil der Bucht; prüfen Sie beim Öffnen der Autotür den Windwiderstand, um Schäden am Fahrzeug zu vermeiden.",
+                "hu": "Ez az öböl legszelesebb része; az ajtó nyitásakor ellenőrizze a szél erejét, nehogy a hirtelen lökés kárt tegyen az autóban.",
+                "ro": "Aceasta este cea mai vântoasă parte a golfului; verificați rezistența vântului când deschideți portiera pentru a evita daunele.",
+                "en": "This is the windiest part of the bay; check the wind strength before opening your car door to prevent any damage to the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Astondoko Dunak",
+                "hu": "Astondoko Dunak",
+                "ro": "Astondoko Dunak",
+                "en": "Astondoko Dunak"
+              },
+              "tip_5lang": {
+                "de": "Die versteinerten Dünen wirken bei Regen dunkler und plastischer; betrachten Sie dieses Naturwunder gemütlich durch die Windschutzscheibe.",
+                "hu": "A megkövesedett dűnék esőben sötétebbek és karakteresebbek; tekintse meg ezt a természeti csodát kényelmesen a szélvédő mögül.",
+                "ro": "Dunele pietrificate par mai întunecate și mai definite pe ploaie; observați acest miracol natural din confortul mașinii.",
+                "en": "The fossilized dunes look darker and more defined in the rain; observe this natural wonder comfortably through your windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Askorriagako Gotortokia",
+                "hu": "Askorriagako Gotortokia",
+                "ro": "Askorriagako Gotortokia",
+                "en": "Askorriagako Gotortokia"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Fort kann schlammig sein; parken Sie so nah wie möglich am Eingang, um den Aufenthalt im Regen kurz zu halten.",
+                "hu": "Az erődhöz vezető út sáros lehet; parkoljon a lehető legközelebb a bejárathoz, hogy minimalizálja az esőben töltött időt.",
+                "ro": "Drumul spre fort poate fi noroios; parcați cât mai aproape de intrare pentru a scurta timpul petrecut afară în ploaie.",
+                "en": "The path to the fort can get muddy; park as close to the entrance as possible to minimize your time spent out in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Antekera",
+                "hu": "Antekera",
+                "ro": "Antekera",
+                "en": "Antekera"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Ort, um den Sturm zu beobachten; die Scheinwerfer des Autos können helfen, die Felsen in der Dunkelheit zu beleuchten.",
+                "hu": "Látványos hely a vihar megfigyelésére; az autó fényszórói segíthetnek megvilágítani a közeli sziklákat a sötétben.",
+                "ro": "Un loc spectaculos pentru a observa furtuna; farurile mașinii pot ajuta la iluminarea stâncilor în întunericul serii.",
+                "en": "A spectacular spot to watch the storm; your car's headlights can help illuminate the nearby rocks in the evening darkness."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den Tag mit eingeschalteter Sitzheizung am Rathaus von Barrika. Die winterliche Küstenlandschaft zieht wie ein Film an uns vorbei.\n\nMittags genießen wir die weiten Ausblicke von den Parkplätzen oberhalb der Klippen. Die Sonne wärmt durch das Glas, während es draußen eiskalt ist.\n\nAm Nachmittag erkunden wir die Dünen von Astondo. Das goldene Winterlicht lässt die versteinerten Formationen in warmen Farben leuchten.\n\nUm 17:00 Uhr erleben wir den Sonnenuntergang direkt vom Kap aus. Danach schalten wir die Nebelscheinwerfer ein und fahren sicher durch die kalte Nacht zurück.",
+            "hu": "A napot bekapcsolt ülésfűtéssel indítjuk a barrikai városházánál. A téli tengerparti táj mint egy film pereg le előttünk az ablakon át.\n\nDélben a sziklák feletti parkolókból élvezzük a tágas kilátást. A nap az üvegen át kellemesen melegít, miközben odakint fagyos a levegő.\n\nDélután az astondói dűnéket fedezzük fel. Az aranyló téli fények meleg színekbe öltöztetik a megkövesedett homokalakzatokat.\n\n17:00-kor a naplementét közvetlenül a fokról nézzük végig. Ezután felkapcsoljuk a ködfényszórókat, és biztonságban autózunk vissza a hideg éjszakában.",
+            "ro": "Începem ziua cu încălzirea în scaune activată la primăria din Barrika. Peisajul hibernal de coastă trece prin fața noastră ca un film.\n\nLa prânz ne bucurăm de vederile largi din parcările de deasupra stâncilor. Soarele încălzește prin geam, în timp ce afară aerul este înghețat.\n\nDupă-amiaza explorăm dunele din Astondo. Lumina aurie de iarnă face ca formațiunile pietrificate să strălucească în culori calde.\n\nLa ora 17:00 admirăm apusul direct de pe promontoriu. Apoi aprindem proiectoarele și conducem în siguranță prin noaptea rece de iarnă.",
+            "en": "We start the day with the seat heating on at Barrika's town hall. The winter coastal landscape rolls past us like a movie through the window.\n\nAt noon, we enjoy the wide views from the parking lots above the cliffs. The sun warms us through the glass while the air outside is freezing.\n\nIn the afternoon, we explore the Astondo dunes. The golden winter light makes the fossilized formations glow in surprisingly warm colors.\n\nAround 17:00, we watch the sunset directly from the cape. Afterwards, we switch on the fog lights and drive back safely through the cold night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Barrika",
+                "hu": "Ayuntamiento de Barrika",
+                "ro": "Ayuntamiento de Barrika",
+                "en": "Ayuntamiento de Barrika"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz für einen schnellen Fotostopp; die klare Winterluft lässt das Rathaus besonders scharf auf Bildern erscheinen.",
+                "hu": "Használja a parkolót egy gyors fotómegállóra; a tiszta téli levegőben a városháza különösen élesen és részletgazdagon mutat a képeken.",
+                "ro": "Folosiți parcarea pentru o oprire foto rapidă; aerul clar de iarnă face ca primăria să apară foarte clară și definită în fotografii.",
+                "en": "Use the parking lot for a quick photo stop; the clear winter air makes the town hall appear especially sharp and detailed in pictures."
+              }
+            },
+            {
+              "name": {
+                "de": "Barrikako hondartza",
+                "hu": "Barrikako hondartza",
+                "ro": "Barrikako hondartza",
+                "en": "Barrikako hondartza"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Klippen vom beheizten Fahrzeug aus; der Parkplatz bietet eine der besten Aussichten der gesamten Region.",
+                "hu": "Élvezze a sziklákra nyíló kilátást a fűtött autóból; ez a parkoló kínálja a régió egyik legszebb tengerparti panorámáját.",
+                "ro": "Bucurați-vă de vederea spre stânci din vehiculul încălzit; această parcare oferă una dintre cele mai bune priveliști din întreaga regiune.",
+                "en": "Enjoy the view of the cliffs from your heated vehicle; this parking lot offers one of the best coastal panoramas in the entire region."
+              }
+            },
+            {
+              "name": {
+                "de": "Plentziako Uri Udala",
+                "hu": "Plentziako Uri Udala",
+                "ro": "Plentziako Uri Udala",
+                "en": "Plentziako Uri Udala"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie zentral und machen Sie einen kurzen Spaziergang; die Steinbauten speichern die Kälte, aber der Anblick ist im Winterlicht einzigartig.",
+                "hu": "Parkoljon a központban és tegyen egy rövid sétát; a kőépületek ontják a hideget, de a látvány a téli fényekben megismételhetetlen.",
+                "ro": "Parcați central și faceți o scurtă plimbare; clădirile de piatră emană frig, dar priveliștea în lumina iernii este unică.",
+                "en": "Park centrally and take a short walk; the stone buildings hold the cold, but the sight in the winter light is truly unique."
+              }
+            },
+            {
+              "name": {
+                "de": "Plentzia beach",
+                "hu": "Plentzia beach",
+                "ro": "Plentzia beach",
+                "en": "Plentzia beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Ende der Promenade; im Winter gibt es mehr freie Parkplätze mit direktem Blick auf den menschenleeren Strand.",
+                "hu": "Hajtson el a sétány végéig; télen sokkal több a szabad parkolóhely, ahonnan közvetlen kilátás nyílik a néptelen, tágas strandra.",
+                "ro": "Conduceți până la capătul falezei; iarna există mai multe locuri de parcare libere cu vedere directă spre plaja pustie.",
+                "en": "Drive to the end of the promenade; in winter, there are plenty of free parking spots with a direct view of the deserted beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Gorliz beach",
+                "hu": "Gorliz beach",
+                "ro": "Gorliz beach",
+                "en": "Gorliz beach"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Kaffeepause im Auto mit Meerblick; die Wintersonne glitzert herrlich auf den sanften Wellen der Bucht.",
+                "hu": "Ideális hely egy autós kávészünethez tengeri kilátással; a téli napfény csodásan csillog az öböl szelíd hullámain.",
+                "ro": "Locul ideal pentru o pauză de cafea în mașină cu vedere la mare; soarele de iarnă strălucește superb pe valurile golfului.",
+                "en": "An ideal spot for a coffee break in the car with a sea view; the winter sun glitters beautifully on the gentle waves of the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Astondo beach",
+                "hu": "Astondo beach",
+                "ro": "Astondo beach",
+                "en": "Astondo beach"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Meeresbrise ist hier besonders frisch; nutzen Sie den Parkplatz als windgeschützte Basis für kurze Erkundungstouren am Ufer.",
+                "hu": "A hideg tengeri fuvallat itt különösen friss; használja a parkolót szélvédett bázisként a parti felfedező utakhoz.",
+                "ro": "Briza rece a mării este foarte revigorantă aici; folosiți parcarea ca bază protejată de vânt pentru scurte explorări pe mal.",
+                "en": "The cold sea breeze is especially fresh here; use the parking lot as a wind-sheltered base for short explorations along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Astondoko Dunak",
+                "hu": "Astondoko Dunak",
+                "ro": "Astondoko Dunak",
+                "en": "Astondoko Dunak"
+              },
+              "tip_5lang": {
+                "de": "Im Winterlicht treten die Konturen der Dünen stärker hervor; bleiben Sie im Auto, um die geologischen Formationen in Ruhe zu studieren.",
+                "hu": "A téli fényben a dűnék kontúrjai erősebben kirajzolódnak; maradjon az autóban, hogy nyugodtan tanulmányozhassa a formákat.",
+                "ro": "În lumina iernii, contururile dunelor ies mai mult în evidență; rămâneți în mașină pentru a studia în liniște formele geologice.",
+                "en": "In the winter light, the contours of the dunes stand out more; stay in the car to study the unique geological formations in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Askorriagako Gotortokia",
+                "hu": "Askorriagako Gotortokia",
+                "ro": "Askorriagako Gotortokia",
+                "en": "Askorriagako Gotortokia"
+              },
+              "tip_5lang": {
+                "de": "Das Fort wirkt im Winterlicht besonders wehrhaft; die Zufahrtsstraße bietet großartige Ausblicke auf die zerklüftete Nordküste.",
+                "hu": "Az erőd a téli fényben különösen zordnak és erősnek hat; a bekötőút nagyszerű kilátást nyújt a csipkézett északi partvidékre.",
+                "ro": "Fortul pare foarte impunător în lumina rece; drumul de acces oferă vederi superbe asupra coastei de nord zimțate.",
+                "en": "The fort looks particularly imposing in the winter light; the access road offers great views of the rugged northern coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Antekera",
+                "hu": "Antekera",
+                "ro": "Antekera",
+                "en": "Antekera"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für den Sonnenuntergang gegen 17:00 Uhr; die Heizung sorgt für Wohlbefinden, während der Himmel in Purpurfarben versinkt.",
+                "hu": "Tökéletes hely a 17:00 körüli naplementéhez; az autó fűtése biztosítja a kényelmet, miközben az ég bíbor színekben pompázik.",
+                "ro": "Locul perfect pentru apusul de la ora 17:00; căldura din mașină vă oferă confort în timp ce cerul se colorează în nuanțe de purpură.",
+                "en": "Perfect spot for the 17:00 sunset; the car's heater keeps you comfortable while the sky turns into stunning shades of purple."
+              }
+            }
+          ]
+        }
       }
     }
   }

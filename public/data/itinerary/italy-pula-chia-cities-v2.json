@@ -160,6 +160,196 @@
         "hu": "Morning: Kezdje a napot a szardíniai tengerpart ősi gyökereinek felfedezésével. Barangoljon a történelmi romok között a hűs és frissítő tengeri szellőben, elmerülve a gazdag mediterrán múltban.\nMidday: Ahogy a nap egyre feljebb hág, látogasson el az ikonikus parti kilátókhoz és a történelmi őrtornyokhoz. A csillogó türkizkék tenger tökéletes hátteret biztosít az emlékezetes panorámafotókhoz.\nAfternoon: A délután a kikapcsolódásé az érintetlen, aranyhomokos strandokon. Sétáljon a rejtett öblök és a kiterjedt dűnék között, és találja meg a tökéletes helyet egy kristálytiszta vizes csobbanásra.\nEvening: Zárja utazását, amint a parti fények lágy naplementébe fordulnak. Idézze fel a nap természeti és történelmi csodáit egy csendes öbölből, élvezve a Földközi-tenger hullámainak nyugodt ritmusát.",
         "ro": "Morning: Începeți ziua descoperind rădăcinile antice ale coastei Sardiniei. Explorați ruinele istorice și scufundați-vă în bogatul trecut mediteranean în timp ce briza mării rămâne răcoroasă și plăcută.\nMidday: Pe măsură ce soarele urcă, îndreptați-vă către punctele de belvedere emblematice și turnurile de veghe. Marea turcoaz strălucitoare oferă fundalul perfect pentru fotografii panoramice memorabile.\nAfternoon: După-amiaza este dedicată relaxării pe plajele aurii și imaculate. Plimbați-vă printre golfurile ascunse și dunele întinse, găsind locul perfect pentru a înota în apele cristaline de smarald.\nEvening: Încheiați-vă călătoria în timp ce lumina coastei se transformă într-un apus blând. Reflectați la minunile naturale și istorice ale zilei dintr-un golf senin, bucurându-vă de ritmul valurilor.",
         "en": "Morning: Start your day uncovering the ancient roots of the Sardinian coast. Explore historical ruins and immerse yourself in the rich Mediterranean past while the coastal breeze remains cool and refreshing.\nMidday: As the sun climbs higher, transition towards the iconic coastal viewpoints and historic watchtowers. The shimmering turquoise sea presents the perfect backdrop for memorable panoramic photographs.\nAfternoon: The afternoon is dedicated to relaxation along pristine, golden beaches. Wander between hidden coves and expansive dunes, finding the perfect spot to swim in the crystal-clear emerald waters.\nEvening: Conclude your journey as the coastal light softens into sunset. Reflect on the day's natural and historical wonders from a serene bay, enjoying the tranquil rhythm of the Mediterranean waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an den Ruinen von Bithia, wo der Regen eine mystische Atmosphäre schafft; feste Schuhe sind für die aufgeweichten Pfade unerlässlich. Mittags bietet die Küste dramatische Ausblicke auf das graue Meer, während man unter den Vordächern der geschlossenen Strandbars Schutz suchen kann. Am Nachmittag führt der Weg entlang der Klippen, wo die Brandung gegen die Felsen peitscht. Der Abend endet bei kühler, feuchter Luft, während die Lichter von Chia im Regen schimmern.",
+            "hu": "A reggel Bithia romjai között indul, ahol az eső misztikus hangulatot áraszt; a sár miatt elengedhetetlen a vízálló cipő. Délben a tengerpart drámai látványt nyújt a szürke hullámokkal, miközben a zárva tartó büfék ereszei alatt kereshetünk menedéket. Délután a sziklák mentén haladunk, ahol a tajtékzó tenger hangja kíséri utunkat. Az este hűvös és párás levegővel zárul, miközben Chia fényei megcsillannak a vizes aszfalton.",
+            "ro": "Dimineața începe printre ruinele din Bithia, unde ploaia creează o atmosferă mistică; încălțămintea impermeabilă este esențială pentru potecile noroioase. La prânz, coasta oferă vederi dramatice asupra mării cenușii, în timp ce vă puteți adăposti sub streșinile teraselor de pe plajă. După-amiaza, drumul continuă de-a lungul stâncilor, cu sunetul valurilor care se sparg cu putere. Seara se încheie cu aer umed și răcoros, în timp ce luminile din Chia sclipesc în ploaie.",
+            "en": "The morning starts at the ruins of Bithia, where the rain creates a mystical atmosphere; waterproof shoes are essential for the muddy paths. At noon, the coast offers dramatic views of the grey sea, and you can find temporary shelter under the eaves of beach bars. In the afternoon, the walk follows the cliffs as the surf crashes against the rocks. The evening ends with cool, damp air as the lights of Chia shimmer through the falling rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bithia",
+                "hu": "Bithia",
+                "ro": "Bithia",
+                "en": "Bithia"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die antiken Ruinen unter einem großen Schirm und achten Sie auf die extrem rutschigen Steinplatten am Eingang.",
+                "hu": "Látogassa meg az ókori romokat egy nagy esernyővel, és ügyeljen a bejáratnál található, esőben rendkívül csúszós kőlapokra.",
+                "ro": "Vizitați ruinele antice cu o umbrelă mare și aveți grijă la plăcile de piatră de la intrare, care devin foarte alunecoase.",
+                "en": "Visit the ancient ruins with a large umbrella and be careful of the stone slabs at the entrance, which become very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Chia",
+                "hu": "Spiaggia di Chia",
+                "ro": "Spiaggia di Chia",
+                "en": "Spiaggia di Chia"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Flamingos in der Lagune, die im Regen oft aktiver sind, und tragen Sie unbedingt windfeste Regenkleidung.",
+                "hu": "Figyelje meg a lagúnában élő flamingókat, akik esőben gyakran aktívabbak, és viseljen szélálló esőkabátot a parton.",
+                "ro": "Observați flamingo din lagună, care sunt adesea mai activi pe ploaie, și purtați neapărat o pelerină de ploaie rezistentă.",
+                "en": "Observe the flamingos in the lagoon, who are often more active in the rain, and be sure to wear windproof rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Chia Tower",
+                "hu": "Chia Tower",
+                "ro": "Chia Tower",
+                "en": "Chia Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Turm bietet trotz Regen eine fantastische Sicht auf das aufgewühlte Meer; halten Sie sich am Geländer fest.",
+                "hu": "A toronyhoz vezető út az eső ellenére is fantasztikus kilátást nyújt a felkorbácsolt tengerre; kapaszkodjon a korlátba.",
+                "ro": "Urcarea spre turn oferă o vedere fantastică asupra mării agitate, în ciuda ploii; folosiți balustrada pentru siguranță.",
+                "en": "The climb to the tower offers a fantastic view of the turbulent sea despite the rain; make sure to hold onto the railing."
+              }
+            },
+            {
+              "name": {
+                "de": "Sa Colonia",
+                "hu": "Sa Colonia",
+                "ro": "Sa Colonia",
+                "en": "Sa Colonia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der menschenleeren Bucht und suchen Sie Schutz unter den Felsvorsprüngen am nördlichen Ende des Strandes.",
+                "hu": "Élvezze a néptelen öböl látványát, és keressen menedéket a strand északi végén található sziklakiszögellések alatt.",
+                "ro": "Bucurați-vă de priveliștea golfului pustiu și căutați adăpost sub formațiunile stâncoase de la capătul nordic al plajei.",
+                "en": "Enjoy the sight of the deserted bay and seek shelter under the rocky overhangs at the northern end of the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala del morto",
+                "hu": "Cala del morto",
+                "ro": "Cala del morto",
+                "en": "Cala del morto"
+              },
+              "tip_5lang": {
+                "de": "Der schmale Pfad hierher kann bei Regen sehr schlammig sein; nutzen Sie Trekkingstöcke für besseren Halt auf dem nassen Boden.",
+                "hu": "Az ide vezető keskeny ösvény esőben nagyon sáros lehet; használjon túrabotot a jobb tapadás érdekében a vizes talajon.",
+                "ro": "Poteca îngustă spre acest loc poate fi foarte noroioasă pe ploaie; folosiți bețe de trekking pentru stabilitate pe solul ud.",
+                "en": "The narrow path here can be very muddy in the rain; use trekking poles for better grip on the wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Campana",
+                "hu": "Campana",
+                "ro": "Campana",
+                "en": "Campana"
+              },
+              "tip_5lang": {
+                "de": "Die hohen Dünen bieten im Regen einen dramatischen Kontrast zum Himmel; bleiben Sie auf den Holzstegen, um nicht einzusinken.",
+                "hu": "A magas dűnék esőben drámai kontrasztot alkotnak az éggel; maradjon a fapallókon, hogy ne süllyedjen el a homokban.",
+                "ro": "Dunele înalte oferă un contrast dramatic cu cerul pe timp de ploaie; rămâneți pe pasarelele de lemn pentru a nu vă afunda.",
+                "en": "The high dunes offer a dramatic contrast with the sky in the rain; stay on the wooden walkways to avoid sinking."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist mild, aber die kühle Meeresbrise erfordert eine warme Jacke für die Erkundung der einsamen Ruinen. Mittags steht die Sonne tief und taucht die Dünen in ein goldenes Licht, während man die Ruhe am fast menschenleeren Strand genießt. Am Nachmittag sollte man den Rückweg antreten, da die Temperaturen sinken, sobald die Sonne hinter den Hügeln verschwindet. Gegen 17:00 Uhr setzt die Dämmerung ein und die Küste versinkt in friedlicher Stille.",
+            "hu": "A téli reggel enyhe, de a hűvös tengeri szél miatt meleg kabát szükséges a magányos romok felfedezéséhez. Délben a nap alacsonyan jár, aranyló fénybe vonva a dűnéket, miközben kiélvezhetjük a szinte üres tengerpart nyugalmát. Délután érdemes elindulni visszafelé, mert a hőmérséklet gyorsan esik, amint a nap eltűnik a dombok mögött. 17:00 óra körül leszáll az alkony, és a partvidék békés csendbe burkolózik.",
+            "ro": "Dimineața de iarnă este blândă, dar briza răcoroasă a mării necesită o jachetă groasă pentru explorarea ruinelor singuratice. La prânz, soarele este jos pe cer, scăldând dunele într-o lumină aurie în timp ce vă bucurați de liniștea plajei pustii. După-amiaza trebuie începută întoarcerea, deoarece temperaturile scad rapid odată ce soarele dispare după dealuri. În jurul orei 17:00 se lasă amurgul, iar coasta se scufundă într-o tăcere deplină.",
+            "en": "The winter morning is mild, but the cool sea breeze requires a warm jacket for exploring the lonely ruins. At noon, the low sun bathes the dunes in golden light while you enjoy the peace of the nearly deserted beach. In the afternoon, start heading back as temperatures drop quickly once the sun hides behind the hills. Around 17:00, dusk sets in, and the coastline sinks into a peaceful, winter silence."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bithia",
+                "hu": "Bithia",
+                "ro": "Bithia",
+                "en": "Bithia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die archäologische Stätte ganz ohne Touristenströme; tragen Sie eine Mütze gegen den oft starken Winterwind.",
+                "hu": "Élvezze a régészeti lelőhelyet turisták nélkül; viseljen sapkát a télen gyakran erős tengeri szél ellen.",
+                "ro": "Bucurați-vă de situl arheologic fără mulțimi de turiști; purtați o căciulă împotriva vântului de iarnă adesea puternic.",
+                "en": "Enjoy the archaeological site without the tourist crowds; wear a hat against the often strong winter sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Chia",
+                "hu": "Spiaggia di Chia",
+                "ro": "Spiaggia di Chia",
+                "en": "Spiaggia di Chia"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen langen Spaziergang am Flutsaum; die Wintersonne ist perfekt für Fotos ohne harte Schatten.",
+                "hu": "Tegyen egy hosszú sétát a parton; a téli napsütés tökéletes a fotózáshoz, mivel nincsenek erős, zavaró árnyékok.",
+                "ro": "Faceți o plimbare lungă pe malul mării; soarele de iarnă este perfect pentru fotografii fără umbre dure.",
+                "en": "Take a long walk along the shoreline; the winter sun is perfect for photos without harsh, distracting shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Chia Tower",
+                "hu": "Chia Tower",
+                "ro": "Chia Tower",
+                "en": "Chia Tower"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie rechtzeitig vor 16:30 Uhr hinauf, um das magische goldene Licht kurz vor dem frühen Sonnenuntergang zu erleben.",
+                "hu": "Másszon fel időben, 16:30 előtt, hogy láthassa a varázslatos aranyló fényeket közvetlenül a korai naplemente előtt.",
+                "ro": "Urcați la timp, înainte de 16:30, pentru a vedea lumina aurie magică chiar înainte de apusul devreme al soarelui.",
+                "en": "Climb up in time, before 16:30, to see the magical golden light just before the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Sa Colonia",
+                "hu": "Sa Colonia",
+                "ro": "Sa Colonia",
+                "en": "Sa Colonia"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort, um Muscheln zu sammeln, die nach den Winterstürmen oft in großer Zahl an den Strand gespült werden.",
+                "hu": "Ez a legjobb hely kagylógyűjtésre, amelyeket a téli viharok után gyakran nagy számban mos partra a tenger.",
+                "ro": "Acesta este cel mai bun loc pentru a colecta scoici, care sunt adesea aduse la mal în număr mare după furtunile de iarnă.",
+                "en": "This is the best place to collect seashells, which are often washed ashore in large numbers after winter storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala del morto",
+                "hu": "Cala del morto",
+                "ro": "Cala del morto",
+                "en": "Cala del morto"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Bucht bietet im Winter exzellenten Windschutz; ideal für ein Picknick mit einer Thermoskanne heißem Tee.",
+                "hu": "A kis öböl télen kiváló szélvédettséget biztosít; ideális egy piknikhez egy termosz forró teával kiegészítve.",
+                "ro": "Micul golf oferă o protecție excelentă împotriva vântului iarna; ideal pentru un picnic cu un termos de ceai fierbinte.",
+                "en": "The small cove provides excellent wind protection in winter; ideal for a picnic with a thermos of hot tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Campana",
+                "hu": "Campana",
+                "ro": "Campana",
+                "en": "Campana"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Farbspiel des Himmels nach Sonnenuntergang; nehmen Sie eine Taschenlampe für den Rückweg im Dunkeln mit.",
+                "hu": "Figyelje meg az ég színjátékát naplemente után; vigyen magával zseblámpát a sötétben való visszatéréshez.",
+                "ro": "Observați jocul de culori al cerului după apus; luați o lanternă pentru drumul de întoarcere pe întuneric.",
+                "en": "Observe the play of colors in the sky after sunset; bring a flashlight for the return walk in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Morning: Kezdje a napot a szardíniai tengerpart ősi gyökereinek felfedezésével. Barangoljon a történelmi romok között a hűs és frissítő tengeri szellőben, elmerülve a gazdag mediterrán múltban.\nMidday: Ahogy a nap egyre feljebb hág, látogasson el az ikonikus parti kilátókhoz és a történelmi őrtornyokhoz. A csillogó türkizkék tenger tökéletes hátteret biztosít az emlékezetes panorámafotókhoz.\nAfternoon: A délután a kikapcsolódásé az érintetlen, aranyhomokos strandokon. Sétáljon a rejtett öblök és a kiterjedt dűnék között, és találja meg a tökéletes helyet egy kristálytiszta vizes csobbanásra.\nEvening: Zárja utazását, amint a parti fények lágy naplementébe fordulnak. Idézze fel a nap természeti és történelmi csodáit egy csendes öbölből, élvezve a Földközi-tenger hullámainak nyugodt ritmusát.",
         "ro": "Morning: Începeți ziua descoperind rădăcinile antice ale coastei Sardiniei. Explorați ruinele istorice și scufundați-vă în bogatul trecut mediteranean în timp ce briza mării rămâne răcoroasă și plăcută.\nMidday: Pe măsură ce soarele urcă, îndreptați-vă către punctele de belvedere emblematice și turnurile de veghe. Marea turcoaz strălucitoare oferă fundalul perfect pentru fotografii panoramice memorabile.\nAfternoon: După-amiaza este dedicată relaxării pe plajele aurii și imaculate. Plimbați-vă printre golfurile ascunse și dunele întinse, găsind locul perfect pentru a înota în apele cristaline de smarald.\nEvening: Încheiați-vă călătoria în timp ce lumina coastei se transformă într-un apus blând. Reflectați la minunile naturale și istorice ale zilei dintr-un golf senin, bucurându-vă de ritmul valurilor.",
         "en": "Morning: Start your day uncovering the ancient roots of the Sardinian coast. Explore historical ruins and immerse yourself in the rich Mediterranean past while the coastal breeze remains cool and refreshing.\nMidday: As the sun climbs higher, transition towards the iconic coastal viewpoints and historic watchtowers. The shimmering turquoise sea presents the perfect backdrop for memorable panoramic photographs.\nAfternoon: The afternoon is dedicated to relaxation along pristine, golden beaches. Wander between hidden coves and expansive dunes, finding the perfect spot to swim in the crystal-clear emerald waters.\nEvening: Conclude your journey as the coastal light softens into sunset. Reflect on the day's natural and historical wonders from a serene bay, enjoying the tranquil rhythm of the Mediterranean waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer feuchten Fahrt zum Nuraghe Baccu Idda; die Wege können rutschig sein, fahren Sie vorsichtig bergab. Mittags radelt man durch das Dorf Chia, wo man in kleinen Cafés kurz verschnaufen und die Kleidung trocknen kann. Am Nachmittag führt die Route zu den Dünen, wobei der nasse Sand den Widerstand erhöht und die Fahrt anstrengender macht. Der Abend endet mit der Rückkehr zum Ausgangspunkt, während der Regen langsam in feinen Sprühnebel übergeht.",
+            "hu": "A nap párás tekeréssel indul a Nuraghe Baccu Idda felé; az utak csúszósak lehetnek, óvatosan ereszkedjen le a lejtőkön. Délben Chia faluján keresztül vezet az út, ahol a kis kávézókban rövid pihenőt tarthat és megszáríthatja ruháit. Délután az útvonal a dűnékhez visz, ahol a vizes homok megnehezíti a haladást és nagyobb erőkifejtést igényel. Az este a kiindulópontra való visszatéréssel zárul, miközben az eső finom szitálássá szelídül.",
+            "ro": "Ziua începe cu o tură umedă spre Nuraghe Baccu Idda; drumurile pot fi alunecoase, deci coborâți pantele cu prudență. La prânz, pedalați prin satul Chia, unde vă puteți opri scurt în cafenele pentru a vă odihni și a vă usca hainele. După-amiaza, traseul duce spre dune, unde nisipul ud îngreunează înaintarea și necesită mai mult efort. Seara se încheie cu revenirea la punctul de plecare, în timp ce ploaia se transformă într-o burniță fină.",
+            "en": "The day starts with a damp ride to Nuraghe Baccu Idda; the paths can be slippery, so descend hills carefully. At noon, cycle through the village of Chia, where you can take a quick break in small cafes to dry your clothes. In the afternoon, the route leads to the dunes, where the wet sand increases resistance and makes riding more strenuous. The evening ends with the return to the starting point as the rain slowly turns into a fine mist."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuraghe Baccu Idda",
+                "hu": "Nuraghe Baccu Idda",
+                "ro": "Nuraghe Baccu Idda",
+                "en": "Nuraghe Baccu Idda"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Betreten der nassen Steine des Nuraghe und parken Sie Ihr Fahrrad auf festem Untergrund, um Einsinken zu vermeiden.",
+                "hu": "Kerülje a nuraghe vizes köveire való fellépést, és parkolja a kerékpárt szilárd talajon, hogy elkerülje az elsüllyedést.",
+                "ro": "Evitați să călcați pe pietrele umede ale nuraghei și parcați bicicleta pe un teren solid pentru a evita scufundarea.",
+                "en": "Avoid stepping on the wet stones of the nuraghe and park your bike on firm ground to avoid it sinking into the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Bithia",
+                "hu": "Bithia",
+                "ro": "Bithia",
+                "en": "Bithia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Regenpausen für Fotos der antiken Mauern; achten Sie auf Pfützen in den tiefer gelegenen Bereichen.",
+                "hu": "Használja ki a rövid esőszüneteket az ókori falak fotózására; ügyeljen a tócsákra az alacsonyabban fekvő területeken.",
+                "ro": "Profitați de pauzele scurte de ploaie pentru a fotografia zidurile antice; atenție la bălțile din zonele mai joase.",
+                "en": "Take advantage of short breaks in the rain to photograph the ancient walls; watch out for puddles in the lower areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Chia Tower",
+                "hu": "Chia Tower",
+                "ro": "Chia Tower",
+                "en": "Chia Tower"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad sicher am Fuß des Hügels an; der Weg nach oben ist bei Nässe nur zu Fuß sicher begehbar.",
+                "hu": "Zárja le biztonságosan a biciklit a domb alján; a felfelé vezető út esőben csak gyalogosan járható biztonságosan.",
+                "ro": "Încuiați bicicleta în siguranță la baza dealului; drumul spre vârf este practicabil în siguranță doar pe jos când e ud.",
+                "en": "Lock your bike securely at the base of the hill; the path up is only safely accessible on foot when it is wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Campana",
+                "hu": "Campana",
+                "ro": "Campana",
+                "en": "Campana"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf befestigten Wegen; der Regen macht den Sand sehr schwergängig für Standard-Fahrradreifen.",
+                "hu": "Csak a kijelölt utakon haladjon; az eső miatt a homok nagyon nehézzé válik a normál kerékpárgumik számára.",
+                "ro": "Circulați doar pe drumurile amenajate; ploaia face nisipul foarte greu de parcurs pentru anvelopele standard de bicicletă.",
+                "en": "Ride only on paved paths; the rain makes the sand very heavy and difficult for standard bicycle tires to navigate."
+              }
+            },
+            {
+              "name": {
+                "de": "Su Giudeu",
+                "hu": "Su Giudeu",
+                "ro": "Su Giudeu",
+                "en": "Su Giudeu"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen vor der Küste wirken im Regen besonders imposant; tragen Sie helle Kleidung, um im grauen Licht sichtbar zu bleiben.",
+                "hu": "A part előtti sziklák esőben különösen impozánsak; viseljen élénk színű ruhát, hogy látható maradjon a szürkületben.",
+                "ro": "Stâncile din larg par deosebit de impunătoare pe ploaie; purtați haine reflectorizante pentru a fi vizibili în lumina gri.",
+                "en": "The rocks offshore look particularly imposing in the rain; wear bright clothing to stay visible in the grey light."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Cipolla",
+                "hu": "Cala Cipolla",
+                "ro": "Cala Cipolla",
+                "en": "Cala Cipolla"
+              },
+              "tip_5lang": {
+                "de": "Das letzte Stück ist holprig; prüfen Sie Ihre Bremsen, bevor Sie die letzte Abfahrt zur geschützten Bucht antreten.",
+                "hu": "Az utolsó szakasz göröngyös; ellenőrizze a fékeket, mielőtt megkezdi az utolsó ereszkedést a védett öböl felé.",
+                "ro": "Ultima porțiune este accidentată; verificați frânele înainte de a începe ultima coborâre spre golful protejat.",
+                "en": "The last section is bumpy; check your brakes before starting the final descent towards the sheltered cove."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen beginnt mit einer erfrischenden Fahrt bergauf zum Nuraghe; die klare Luft bietet eine weite Sicht über das Hinterland. Mittags radelt man entlang der Küstenstraße, wo die milde Sonne den Asphalt wärmt und der Verkehr minimal ist. Am Nachmittag laden die leeren Strände zu einer kurzen Pause ein, bevor die Sonne tiefer sinkt und es spürbar kühler wird. Gegen 17:00 Uhr endet die Tour, wenn das letzte Tageslicht die Lagunen in violette Farben taucht.",
+            "hu": "A hűvös téli reggel frissítő tekeréssel indul felfelé a nuraghe irányába; a tiszta levegő messzi kilátást enged a hátországra. Délben a part menti úton haladunk, ahol az enyhe napsütés felmelegíti az aszfaltot és a forgalom minimális. Délután az üres strandok rövid pihenőre csábítanak, mielőtt a nap lejjebb süllyed és érezhetően hűvösebb lesz. 17:00 körül zárul a túra, amikor az utolsó fények lilára festik a lagúnákat.",
+            "ro": "Dimineața răcoroasă de iarnă începe cu o tură revigorantă în urcare spre nuraghe; aerul curat oferă o vizibilitate largă asupra interiorului insulei. La prânz, pedalați pe drumul de coastă, unde soarele blând încălzește asfaltul, iar traficul este minim. După-amiaza, plajele pustii vă invită la o scurtă pauză înainte ca soarele să apună și să se facă vizibil mai frig. În jurul orei 17:00 turul se încheie, când lumina serii colorează lagunele în nuanțe de violet.",
+            "en": "The cool winter morning starts with a refreshing uphill ride to the nuraghe; the clear air offers far-reaching views over the hinterland. At noon, cycle along the coastal road where the mild sun warms the asphalt and traffic is minimal. In the afternoon, the empty beaches invite you for a short break before the sun sinks lower and it gets noticeably cooler. Around 17:00, the tour ends as the last daylight paints the lagoons in shades of violet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuraghe Baccu Idda",
+                "hu": "Nuraghe Baccu Idda",
+                "ro": "Nuraghe Baccu Idda",
+                "en": "Nuraghe Baccu Idda"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm; oben angekommen sollten Sie sofort eine Windjacke überziehen, um nicht auszukühlen.",
+                "hu": "A felfelé út melegen tartja; amint felért, azonnal vegyen fel szélkabátot, hogy ne fázzon meg a pihenő alatt.",
+                "ro": "Urcarea vă va ține de cald; odată ajunși sus, puneți-vă imediat o jachetă de vânt pentru a nu răci.",
+                "en": "The ride up will keep you warm; once at the top, put on a windbreaker immediately to avoid catching a chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Bithia",
+                "hu": "Bithia",
+                "ro": "Bithia",
+                "en": "Bithia"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist das Licht flach und ideal für Architekturfotos der Mauern ohne die harten Kontraste des Sommers.",
+                "hu": "Télen a fények lágyabbak, így ideális az ókori falak fotózására a nyári erős kontrasztok nélkül.",
+                "ro": "Iarna lumina este blândă și ideală pentru fotografii de arhitectură ale zidurilor, fără contrastele dure ale verii.",
+                "en": "In winter, the light is flat and ideal for architectural photos of the walls without the harsh contrasts of summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Chia Tower",
+                "hu": "Chia Tower",
+                "ro": "Chia Tower",
+                "en": "Chia Tower"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick; die Fernsicht ist im Winter oft besser als an heißen, dunstigen Sommertagen.",
+                "hu": "Élvezze a panorámát; a kilátás télen gyakran sokkal tisztább, mint a forró, párás nyári napokon.",
+                "ro": "Bucurați-vă de panorama oferită; vizibilitatea la distanță este adesea mai bună iarna decât în zilele de vară.",
+                "en": "Enjoy the panoramic view; the visibility is often much better in winter than on hot, hazy summer days."
+              }
+            },
+            {
+              "name": {
+                "de": "Campana",
+                "hu": "Campana",
+                "ro": "Campana",
+                "en": "Campana"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist im Winter fester; ein kurzer Spaziergang am Wasser ist eine tolle Abwechslung zum Radfahren.",
+                "hu": "A homok télen tömörödöttebb; egy rövid séta a vízparton remek kikapcsolódás a kerékpározás után.",
+                "ro": "Nisipul este mai compact iarna; o scurtă plimbare pe malul apei este o schimbare plăcută după ciclism.",
+                "en": "The sand is firmer in winter; a short walk by the water is a great break from cycling to stretch your legs."
+              }
+            },
+            {
+              "name": {
+                "de": "Su Giudeu",
+                "hu": "Su Giudeu",
+                "ro": "Su Giudeu",
+                "en": "Su Giudeu"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen windgeschützten Platz in den Dünen für eine kurze Pause und genießen Sie die warme Wintersonne.",
+                "hu": "Keressen egy szélvédett helyet a dűnék között egy rövid pihenőre, és élvezze a melengető téli napsütést.",
+                "ro": "Căutați un loc ferit de vânt în dune pentru o scurtă pauză și bucurați-vă de soarele cald de iarnă.",
+                "en": "Find a wind-sheltered spot in the dunes for a short break and enjoy the warming winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Cipolla",
+                "hu": "Cala Cipolla",
+                "ro": "Cala Cipolla",
+                "en": "Cala Cipolla"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 16:45 Uhr, damit Sie den steilen Rückweg noch bei ausreichendem Tageslicht bewältigen können.",
+                "hu": "Zárja le a túrát 16:45 előtt, hogy a meredek visszautat még elegendő nappali fénynél tudja megtenni.",
+                "ro": "Încheiați turul înainte de 16:45, astfel încât să puteți parcurge drumul abrupt de întoarcere pe lumină.",
+                "en": "Finish the tour before 16:45 so you can manage the steep return path with enough daylight remaining."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Morning: Kezdje a napot a szardíniai tengerpart ősi gyökereinek felfedezésével. Barangoljon a történelmi romok között a hűs és frissítő tengeri szellőben, elmerülve a gazdag mediterrán múltban.\nMidday: Ahogy a nap egyre feljebb hág, látogasson el az ikonikus parti kilátókhoz és a történelmi őrtornyokhoz. A csillogó türkizkék tenger tökéletes hátteret biztosít az emlékezetes panorámafotókhoz.\nAfternoon: A délután a kikapcsolódásé az érintetlen, aranyhomokos strandokon. Sétáljon a rejtett öblök és a kiterjedt dűnék között, és találja meg a tökéletes helyet egy kristálytiszta vizes csobbanásra.\nEvening: Zárja utazását, amint a parti fények lágy naplementébe fordulnak. Idézze fel a nap természeti és történelmi csodáit egy csendes öbölből, élvezve a Földközi-tenger hullámainak nyugodt ritmusát.",
         "ro": "Morning: Începeți ziua descoperind rădăcinile antice ale coastei Sardiniei. Explorați ruinele istorice și scufundați-vă în bogatul trecut mediteranean în timp ce briza mării rămâne răcoroasă și plăcută.\nMidday: Pe măsură ce soarele urcă, îndreptați-vă către punctele de belvedere emblematice și turnurile de veghe. Marea turcoaz strălucitoare oferă fundalul perfect pentru fotografii panoramice memorabile.\nAfternoon: După-amiaza este dedicată relaxării pe plajele aurii și imaculate. Plimbați-vă printre golfurile ascunse și dunele întinse, găsind locul perfect pentru a înota în apele cristaline de smarald.\nEvening: Încheiați-vă călătoria în timp ce lumina coastei se transformă într-un apus blând. Reflectați la minunile naturale și istorice ale zilei dintr-un golf senin, bucurându-vă de ritmul valurilor.",
         "en": "Morning: Start your day uncovering the ancient roots of the Sardinian coast. Explore historical ruins and immerse yourself in the rich Mediterranean past while the coastal breeze remains cool and refreshing.\nMidday: As the sun climbs higher, transition towards the iconic coastal viewpoints and historic watchtowers. The shimmering turquoise sea presents the perfect backdrop for memorable panoramic photographs.\nAfternoon: The afternoon is dedicated to relaxation along pristine, golden beaches. Wander between hidden coves and expansive dunes, finding the perfect spot to swim in the crystal-clear emerald waters.\nEvening: Conclude your journey as the coastal light softens into sunset. Reflect on the day's natural and historical wonders from a serene bay, enjoying the tranquil rhythm of the Mediterranean waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt sicher im trockenen Auto Richtung Nuraghe; achten Sie auf Aquaplaning auf der gewundenen Küstenstraße. Mittags können Sie die Aussicht auf das Meer bequem vom Fahrzeug aus genießen, während der Regen gegen die Scheiben trommelt. Am Nachmittag führt die Route zu verschiedenen Aussichtspunkten, wobei kurze Wege vom Parkplatz aus ideal sind. Der Abend klingt gemütlich aus, während Sie durch die regennassen Gassen von Pula zurückfahren.",
+            "hu": "Az út biztonságosan, a száraz autóban indul a nuraghe felé; ügyeljen a vízátfolyásokra a kanyargós parti utakon. Délben a tenger látványát kényelmesen, a járműből élvezheti, miközben az eső kopog a szélvédőn. Délután az útvonal különböző kilátópontokhoz vezet, ahol a parkolótól csak rövid sétákat kell tenni. Az este hangulatosan zárul, miközben az esőtől csillogó pulai utcákon keresztül autózik vissza.",
+            "ro": "Călătoria începe în siguranță în mașina uscată spre nuraghe; atenție la acvaplanare pe drumurile de coastă șerpuite. La prânz, puteți savura priveliștea mării confortabil din vehicul, în timp ce ploaia bate în parbriz. După-amiaza, traseul duce la diverse puncte de belvedere, unde sunt necesare doar plimbări scurte de la parcare. Seara se încheie plăcut, conducând înapoi prin străzile din Pula strălucind de ploaie.",
+            "en": "The journey starts safely in the dry car towards the nuraghe; watch out for hydroplaning on the winding coastal roads. At noon, you can enjoy the sea view comfortably from the vehicle while the rain drums against the windows. In the afternoon, the route leads to various viewpoints where only short walks from the parking lot are needed. The evening ends cozily as you drive back through the rain-slicked streets of Pula."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuraghe Baccu Idda",
+                "hu": "Nuraghe Baccu Idda",
+                "ro": "Nuraghe Baccu Idda",
+                "en": "Nuraghe Baccu Idda"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am Straßenrand; der Boden neben dem Asphalt kann bei Regen sehr weich und tückisch sein.",
+                "hu": "Parkoljon óvatosan az út szélén; az aszfalt melletti padka esőben nagyon felázhat és csalóka lehet.",
+                "ro": "Parcați cu atenție pe marginea drumului; solul de lângă asfalt poate fi foarte moale și înșelător pe ploaie.",
+                "en": "Park carefully on the roadside; the ground next to the asphalt can become very soft and treacherous in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bithia",
+                "hu": "Bithia",
+                "ro": "Bithia",
+                "en": "Bithia"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Wertsachen nicht sichtbar im Auto und nutzen Sie den befestigten Parkplatz in der Nähe des Eingangs.",
+                "hu": "Ne hagyjon értéktárgyakat látható helyen az autóban, és használja a bejárathoz közeli, szilárd burkolatú parkolót.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină și folosiți parcarea pavată din apropierea intrării.",
+                "en": "Do not leave valuables visible in the car and use the paved parking lot near the entrance to stay out of the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Chia Tower",
+                "hu": "Chia Tower",
+                "ro": "Chia Tower",
+                "en": "Chia Tower"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz am Fuße des Turms hat man auch aus dem Auto eine gute Sicht, falls der Regen zu stark für den Aufstieg ist.",
+                "hu": "A torony lábánál lévő parkolóból az autóból is jó a kilátás, ha az eső túl erős lenne a gyalogos feljutáshoz.",
+                "ro": "Din parcarea de la baza turnului aveți o vedere bună chiar și din mașină, în caz că ploaia este prea puternică pentru urcare.",
+                "en": "From the parking lot at the base of the tower, you have a good view even from the car if the rain is too heavy for the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Su Giudeu",
+                "hu": "Su Giudeu",
+                "ro": "Su Giudeu",
+                "en": "Su Giudeu"
+              },
+              "tip_5lang": {
+                "de": "Der große Parkplatz ist im Regen oft leer; nutzen Sie die Gelegenheit für Fotos direkt von der Fahrertür aus.",
+                "hu": "A nagy parkoló esőben gyakran üres; használja ki a lehetőséget a fotózásra közvetlenül a nyitott ajtóból.",
+                "ro": "Parcarea mare este adesea goală pe ploaie; profitați de ocazie pentru a face fotografii direct din portiera mașinii.",
+                "en": "The large parking lot is often empty in the rain; take the opportunity to snap photos directly from your car door."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Cipolla",
+                "hu": "Cala Cipolla",
+                "ro": "Cala Cipolla",
+                "en": "Cala Cipolla"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigte Zufahrt kann Pfützen haben; fahren Sie langsam, um keine Steine aufzuwirbeln oder stecken zu bleiben.",
+                "hu": "A nem aszfaltozott úton tócsák lehetnek; hajtson lassan, hogy elkerülje a kövek felverődését vagy az elakadást.",
+                "ro": "Drumul neasfaltat poate avea bălți; conduceți încet pentru a evita împroșcarea cu pietre sau blocarea în noroi.",
+                "en": "The unpaved access road may have deep puddles; drive slowly to avoid kicking up stones or getting stuck."
+              }
+            },
+            {
+              "name": {
+                "de": "Antoni Areddu",
+                "hu": "Antoni Areddu",
+                "ro": "Antoni Areddu",
+                "en": "Antoni Areddu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto, um wieder warm zu werden, bevor Sie den Abend in einem Restaurant in Pula ausklingen lassen.",
+                "hu": "Használja az autó fűtését, hogy átmelegedjen, mielőtt lezárná az estét egy kellemes pulai étteremben.",
+                "ro": "Folosiți încălzirea mașinii pentru a vă încălzi înainte de a încheia seara într-un restaurant din Pula.",
+                "en": "Use the car's heater to warm up before ending your evening at a cozy restaurant in the town of Pula."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist ideal für eine Panoramatour entlang der Küste, während die milde Sonne die Landschaft erhellt. Mittags können Sie an verschiedenen Stränden halten, die im Winter eine ganz eigene, friedliche Atmosphäre ausstrahlen. Am Nachmittag führt die Fahrt zu abgelegenen Buchten, wo Sie den Sonnenuntergang bequem vom Auto aus beobachten können. Gegen 17:00 Uhr kehrt man in das belebtere Pula zurück, wo die Abendlichter eine gemütliche Stimmung verbreiten.",
+            "hu": "A téli reggel ideális egy panorámás autózáshoz a part mentén, miközben az enyhe napfény megvilágítja a tájat. Délben különböző strandoknál állhat meg, amelyek télen sajátos, békés hangulatot árasztanak. Délután az út távoli öblökhöz vezet, ahol a naplementét kényelmesen, az autóból is megcsodálhatja. 17:00 óra körül térhet vissza a nyüzsgőbb Pulába, ahol az esti fények barátságos hangulatot árasztanak.",
+            "ro": "Dimineața de iarnă este ideală pentru o tură panoramică de-a lungul coastei, în timp ce soarele blând luminează peisajul. La prânz, puteți opri la diverse plaje, care iarna emană o atmosferă proprie, foarte liniștită. După-amiaza, drumul duce spre golfuri izolate, unde puteți admira apusul confortabil din mașină. În jurul orei 17:00 reveniți în Pula, unde luminile serii creează o atmosferă primitoare.",
+            "en": "The winter morning is ideal for a panoramic drive along the coast while the mild sun illuminates the landscape. At noon, you can stop at various beaches that radiate a unique, peaceful atmosphere in winter. In the afternoon, the drive leads to secluded bays where you can admire the sunset comfortably from the car. Around 17:00, return to the livelier Pula, where the evening lights create a warm and cozy mood."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuraghe Baccu Idda",
+                "hu": "Nuraghe Baccu Idda",
+                "ro": "Nuraghe Baccu Idda",
+                "en": "Nuraghe Baccu Idda"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht vom Parkplatz aus einen weiten Blick bis zum Capo Spartivento und dem Meer.",
+                "hu": "A tiszta téli levegő a parkolóból messzi kilátást enged egészen a Capo Spartivento fokig és a nyílt tengerig.",
+                "ro": "Aerul curat de iarnă permite din parcare o vedere largă până la Capo Spartivento și marea deschisă.",
+                "en": "The clear winter air allows for a far-reaching view from the parking lot all the way to Capo Spartivento and the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Bithia",
+                "hu": "Bithia",
+                "ro": "Bithia",
+                "en": "Bithia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Winter, um die archäologische Stätte in Ruhe zu erkunden, ohne die Hitze des sardischen Sommers.",
+                "hu": "Használja ki a telet, hogy nyugodtan fedezze fel a régészeti területet a szardíniai nyár hősége nélkül.",
+                "ro": "Profitați de iarnă pentru a explora situl arheologic în liniște, fără arșița verii sardiniene.",
+                "en": "Take advantage of the winter to explore the archaeological site in peace, without the intense heat of the Sardinian summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Chia Tower",
+                "hu": "Chia Tower",
+                "ro": "Chia Tower",
+                "en": "Chia Tower"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie oben am Hügel, wenn die Schranke offen ist; das goldene Licht um 16:00 Uhr ist perfekt für Panoramafotos.",
+                "hu": "Parkoljon a domb tetején, ha a sorompó nyitva van; a 16:00 körüli aranyló fények tökéletesek a panorámafotókhoz.",
+                "ro": "Parcați în vârful dealului dacă bariera este deschisă; lumina aurie de la ora 16:00 este perfectă pentru fotografii panoramice.",
+                "en": "Park at the top of the hill if the gate is open; the golden light around 16:00 is perfect for panoramic winter photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Su Giudeu",
+                "hu": "Su Giudeu",
+                "ro": "Su Giudeu",
+                "en": "Su Giudeu"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie ein paar Schritte zum Ufer; im Winter sind die Lagunen oft voll mit überwinternden Flamingos.",
+                "hu": "Sétáljon pár lépést a part felé; télen a lagúnák gyakran tele vannak az itt telelő flamingókkal.",
+                "ro": "Mergeți câțiva pași spre malul apei; iarna, lagunele sunt adesea pline de flamingo care iernează aici.",
+                "en": "Walk a few steps towards the shore; in winter, the lagoons are often filled with flamingos spending the season here."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Cipolla",
+                "hu": "Cala Cipolla",
+                "ro": "Cala Cipolla",
+                "en": "Cala Cipolla"
+              },
+              "tip_5lang": {
+                "de": "Da es früher dunkel wird, sollten Sie diesen Ort spätestens um 16:30 Uhr verlassen, um sicher zurückzufahren.",
+                "hu": "Mivel korábban sötétedik, érdemes legkésőbb 16:30-kor elindulni innen, hogy biztonságban érjen vissza.",
+                "ro": "Deoarece se întunecă mai devreme, ar trebui să plecați de aici cel târziu la 16:30 pentru a conduce în siguranță.",
+                "en": "As it gets dark earlier, you should leave this location by 16:30 at the latest to ensure a safe drive back."
+              }
+            },
+            {
+              "name": {
+                "de": "Antoni Areddu",
+                "hu": "Antoni Areddu",
+                "ro": "Antoni Areddu",
+                "en": "Antoni Areddu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die raue Wintersee vom geschützten Auto aus, bevor Sie die Scheinwerfer für die Rückfahrt einschalten.",
+                "hu": "Élvezze a haragos téli tenger látványát a védett autóból, mielőtt felkapcsolná a fényszórókat a visszúthoz.",
+                "ro": "Bucurați-vă de priveliștea mării agitate de iarnă din mașina protejată înainte de a aprinde farurile pentru întoarcere.",
+                "en": "Enjoy the view of the rough winter sea from the protected car before switching on your headlights for the drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

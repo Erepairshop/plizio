@@ -137,6 +137,168 @@
         "hu": "A reggel a festői Luka öbölben indul, élvezve a friss adriai levegőt. Ezután látogasson el a múzeumba a tengerészeti örökség felfedezéséhez. Délben a part menti történelmi Tunera halásztornyokhoz sétál. Délután élvezze a békés sétát a nyugodt Tiha partjaira. Zárja a napot a Slatina strandon egy frissítő esti úszással és a naplemente látványával.",
         "ro": "Dimineața începe în pitorescul golf Luka, savurând aerul proaspăt al Adriaticii. Apoi vizitați muzeul local pentru a descoperi moștenirea maritimă. La prânz mergeți spre turnurile istorice de pescuit Tunera. După-amiaza, bucurați-vă de o plimbare liniștită spre Tiha pentru relaxare. Încheiați-vă ziua la Slatina, cu o baie răcoroasă de seară.",
         "en": "Morning begins at the picturesque Luka bay, soaking in the fresh Adriatic air. Next, visit the local museum to uncover the maritime heritage. Midday takes you to the historic Tunera fishing towers along the coast. In the afternoon, enjoy a peaceful stroll to Tiha for ultimate relaxation. Conclude your day at Slatina, enjoying a refreshing evening swim."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen am Hafen mit einem Regenschirm.\n\nMittags finden Sie im lokalen Museum einen trockenen Zufluchtsort.\n\nVerbringen Sie den Nachmittag damit, im Regen an den dramatischen Buchten und historischen Stätten vorbeizuspazieren.\n\nSuchen Sie sich abends einen geschützten Platz in der Nähe des Strandes.",
+            "hu": "Kezdje a nedves reggelt a hangulatos kikötőben egy erős esernyővel.\n\nDélben keressen menedéket a helyi múzeumban, hogy száraz maradjon.\n\nDélután tegyen egy sétát a drámai, eső áztatta öblök és történelmi emlékek mentén.\n\nEste keressen egy fedett helyet a part közelében, miközben hallgatja az esőcseppeket.",
+            "ro": "Începeți dimineața ploioasă la portul pitoresc cu o umbrelă robustă.\n\nLa prânz, adăpostiți-vă în muzeul local pentru a rămâne uscați.\n\nPetreceți-vă după-amiaza plimbându-vă pe lângă golfurile bătute de ploaie și structurile istorice.\n\nSeara, căutați un loc ferit lângă plajă pentru a privi marea pe timp de ploaie.",
+            "en": "Start your wet morning at the moody harbor with a sturdy umbrella.\n\nBy noon, take refuge in the local museum to stay dry and learn.\n\nSpend your afternoon walking by the dramatic, rain-swept bays and historical structures.\n\nIn the evening, seek a sheltered spot near the beach as the rain continues to fall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Luka Martinšćica",
+                "hu": "Luka Martinšćica",
+                "ro": "Luka Martinšćica",
+                "en": "Luka Martinšćica"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die stimmungsvolle Atmosphäre des Hafens bei Regen; tragen Sie unbedingt rutschfeste, wasserdichte Schuhe für Ihre Sicherheit.",
+                "hu": "Élvezze a kikötő hangulatos atmoszféráját, ahogy az eső ráhull az Adriára; a biztonság érdekében feltétlenül viseljen csúszásmentes vízálló cipőt.",
+                "ro": "Bucurați-vă de atmosfera portului în timp ce ploaia cade pe mare; asigurați-vă că purtați încălțăminte impermeabilă și antiderapantă pentru siguranță.",
+                "en": "Enjoy the moody atmosphere of the harbor as the rain falls on the Adriatic; make sure to wear sturdy, non-slip waterproof shoes for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Muzej Andrije Linardića",
+                "hu": "Muzej Andrije Linardića",
+                "ro": "Muzej Andrije Linardića",
+                "en": "Muzej Andrije Linardića"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Zufluchtsort im Innenbereich; schütteln Sie Ihren Regenschirm ab und genießen Sie eine trockene, lehrreiche Pause vom strömenden Regen.",
+                "hu": "Tökéletes fedett menedék a helyi tengerészeti történelem felfedezéséhez; rázza le esernyőjét, és élvezze a száraz, tanulságos szünetet a kinti esőből.",
+                "ro": "Un refugiu perfect în interior pentru a explora istoria maritimă; scuturați-vă umbrela și bucurați-vă de o pauză uscată și educativă de ploaia de afară.",
+                "en": "A perfect indoor refuge to explore the local maritime history; shake off your umbrella and enjoy a dry, educational break from the pouring rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunera",
+                "hu": "Tunera",
+                "ro": "Tunera",
+                "en": "Tunera"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den historischen Fischerposten vor einem grauen Himmel; gehen Sie vorsichtig, da die Felsen und Holzelemente bei Nässe extrem rutschig sind.",
+                "hu": "Figyelje meg a történelmi halászposztot a drámai szürke égbolt előtt; óvatosan lépkedjen, mert a környező sziklák és faelemek nedvesen nagyon csúszósak.",
+                "ro": "Observați postul istoric de pescuit pe un cer gri dramatic; mergeți cu grijă, deoarece stâncile și elementele din lemn devin foarte alunecoase la umezeală.",
+                "en": "Observe the historic fishing post against a dramatic grey sky; walk carefully as the surrounding rocks and wooden elements get extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiha",
+                "hu": "Tiha",
+                "ro": "Tiha",
+                "en": "Tiha"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht sieht im Regen wunderschön verlassen aus; bringen Sie einen winddichten Regenschirm mit, da die Küstenbrise den Regen kälter wirken lässt.",
+                "hu": "Az öböl gyönyörűen kietlennek tűnik az esőben; hozzon egy erős, szélálló esernyőt, mivel a parti szél miatt a felhőszakadás sokkal hidegebbnek érződik.",
+                "ro": "Golful arată superb în ploaie; aduceți o umbrelă rezistentă la vânt, deoarece briza de coastă poate face ca ploaia să se simtă mult mai rece și grea.",
+                "en": "The bay looks beautifully desolate in the rain; bring a strong windproof umbrella as the coastal breeze can make the downpour feel much colder and heavier."
+              }
+            },
+            {
+              "name": {
+                "de": "Slatina",
+                "hu": "Slatina",
+                "ro": "Slatina",
+                "en": "Slatina"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren nassen Spaziergang und beobachten Sie die Regentropfen auf dem Meer; suchen Sie sich einen überdachten Platz, um sich leicht abzutrocknen.",
+                "hu": "Fejezze be a sétát, figyelve az esőcseppek táncát a tengeren; keressen egy közeli fedett részt, hogy egy kicsit megszáradjon, mielőtt visszatérne.",
+                "ro": "Încheiați-vă plimbarea umedă privind picăturile de ploaie pe mare; căutați un loc ferit în apropiere pentru a vă usca ușor înainte de a vă întoarce.",
+                "en": "End your wet walk watching the raindrops dance on the sea surface; seek a nearby sheltered overhang to dry off slightly before heading back to your base."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren klaren Wintermorgen am ruhigen Hafen.\n\nWärmen Sie sich gegen Mittag im faszinierenden Heimatmuseum auf.\n\nDer Nachmittag bietet einen flotten Spaziergang entlang der Küstenwege in der frischen Luft.\n\nBeenden Sie den Tag frühzeitig, da die Sonne um 17:00 Uhr untergeht und es schnell kalt wird.",
+            "hu": "Kezdje a csípős téli reggelt a békés és csendes kikötőben.\n\nDél körül melegedjen fel a lenyűgöző helyi múzeumban.\n\nA délután frissítő sétát kínál a parti ösvényeken és a történelmi látnivalóknál a tiszta levegőn.\n\nFejezze be a napot korán, mivel a nap 17:00 körül lenyugszik, és az este gyorsan lehűl.",
+            "ro": "Începeți dimineața de iarnă geroasă la portul liniștit.\n\nÎncălziți-vă la prânz în interiorul fascinantului muzeu local.\n\nDupă-amiaza vă invită la o plimbare revigorantă pe cărările de coastă în aerul curat.\n\nÎncheiați-vă ziua devreme, deoarece soarele apune rapid în jurul orei 17:00, aducând o seară rece.",
+            "en": "Begin your crisp winter morning at the peaceful, quiet harbor.\n\nWarm up around noon inside the fascinating local museum.\n\nThe afternoon offers a brisk walk along the coastal paths and historical spots in the clear air.\n\nEnd your day early as the sun sets rapidly around 17:00, bringing a cold evening breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Luka Martinšćica",
+                "hu": "Luka Martinšćica",
+                "ro": "Luka Martinšćica",
+                "en": "Luka Martinšćica"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die winterliche Ruhe des Hafens mit kristallklarer Aussicht; kleiden Sie sich in dicke, warme Schichten, um die eisige Meeresbrise abzuhalten.",
+                "hu": "Tapasztalja meg a kikötő békés téli nyugalmát a kristálytiszta kilátással; öltözzön vastag, meleg rétegekbe, hogy kivédje a tengeri szél metsző hidegét.",
+                "ro": "Experimentați calmul de iarnă al portului cu vederi clare; îmbrăcați-vă în straturi groase și calde pentru a bloca frigul pătrunzător al brizei marine.",
+                "en": "Experience the peaceful winter calm of the harbor with crystal clear views; dress in thick, warm layers to block the biting chill of the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Muzej Andrije Linardića",
+                "hu": "Muzej Andrije Linardića",
+                "ro": "Muzej Andrije Linardića",
+                "en": "Muzej Andrije Linardića"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem faszinierenden Heimatmuseum auf; es ist der perfekte Ort, um die Finger aufzutauen und gleichzeitig die Kultur kennenzulernen.",
+                "hu": "Melegedjen fel ebben a lenyűgöző helytörténeti múzeumban; tökéletes hely az ujjai kiolvasztására, miközben megismeri a sziget egyedülálló kultúráját.",
+                "ro": "Încălziți-vă în acest fascinant muzeu local; este locul perfect pentru a vă dezgheța degetele în timp ce învățați despre cultura unică a insulei.",
+                "en": "Warm up inside this fascinating local heritage museum; it is the perfect spot to defrost your fingers while learning about the island's unique culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunera",
+                "hu": "Tunera",
+                "ro": "Tunera",
+                "en": "Tunera"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Winterlicht ist fantastisch, um diese historische hölzerne Fischerleiter zu fotografieren; achten Sie auf den morgendlichen Frost auf dem Holz.",
+                "hu": "Az alacsony téli napfény fantasztikus a történelmi fa halászlétrák fotózásához; vigyázzon a kora reggeli dérre a faszerkezeteken, nehogy megcsússzon.",
+                "ro": "Lumina soarelui de iarnă este fantastică pentru fotografierea acestei scări istorice din lemn; aveți grijă la bruma dimineții pe structurile din lemn.",
+                "en": "The low winter sunlight is fantastic for photographing this historical wooden fishing ladder; watch out for early morning frost on the wooden structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiha",
+                "hu": "Tiha",
+                "ro": "Tiha",
+                "en": "Tiha"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen flotten Winterspaziergang an der ruhigen Bucht; eine Thermoskanne mit heißem Tee ist sehr zu empfehlen, um sich tagsüber warm zu halten.",
+                "hu": "Tegyen egy frissítő téli sétát a csendes öböl mentén; egy forró teával teli termosz erősen ajánlott, hogy melegen tartsa magát az alacsony hőmérsékletben.",
+                "ro": "Faceți o plimbare revigorantă pe timp de iarnă; un termos cu ceai fierbinte este recomandat pentru a vă încălzi, deoarece temperaturile rămân destul de scăzute.",
+                "en": "Take a brisk winter walk along the quiet bay; a thermos filled with hot tea is highly recommended to keep you warm as temperatures stay quite low all day."
+              }
+            },
+            {
+              "name": {
+                "de": "Slatina",
+                "hu": "Slatina",
+                "ro": "Slatina",
+                "en": "Slatina"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen winterlichen Sonnenuntergang um 16:30 Uhr; wickeln Sie sich gut in Schal und Mütze ein, da es nach Einbruch der Dunkelheit friert.",
+                "hu": "Nézze meg a lenyűgöző kora téli naplementét 16:30 körül; burkolózzon sálba és sapkába, mert alkonyat után azonnal fagyossá válik a levegő.",
+                "ro": "Priviți uimitorul apus de iarnă peste Marea Adriatică în jurul orei 16:30; înfășurați-vă bine în fular, deoarece devine foarte frig imediat după lăsarea serii.",
+                "en": "Watch the stunning early winter sunset over the Adriatic around 16:30; wrap up tightly in your scarf and hat as it gets freezing immediately after dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpározást a bájos Luka öbölben, majd merüljön el a helyi történelemben a múzeumban. Délben tekerjen a gyönyörű Slatina és Tiha strandokhoz a tengerparti kilátásért. Délután fedezze fel a lenyűgöző fa Tunera építményeket a festői útvonalon. Fejezze be kerékpáros kalandját a történelmi Sveti Kristofor romjainál szürkületkor.",
         "ro": "Începeți prin a pedala prin fermecătorul golf Luka înainte de a vă scufunda în istoria locală la muzeu. La prânz, mergeți cu bicicleta spre plajele Slatina și Tiha. După-amiaza, explorați structurile fascinante din lemn Tunera de-a lungul traseului. Terminați aventura cu bicicleta la ruinele istorice Sveti Kristofor la lăsarea serii.",
         "en": "Start by pedaling through the charming Luka bay before diving into local history at the museum. Midday brings a breezy ride to the beautiful Slatina and Tiha beaches for coastal views. In the afternoon, explore the fascinating wooden Tunera structures along the scenic path. Finish your cycling adventure at the historical Sveti Kristofor ruins at dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine feuchte Morgenfahrt beginnt am stimmungsvollen Hafen.\n\nSuchen Sie mittags im Museum Schutz vor dem Regen.\n\nNachmittags ist auf den rutschigen Küstenwegen besondere Vorsicht geboten.\n\nKehren Sie abends sicher zurück, bevor der Regen zunimmt.",
+            "hu": "Egy nyirkos reggeli tekerés a hangulatos kikötőnél kezdődik.\n\nDélben keressen menedéket a múzeumban, hogy megszáradjon.\n\nA délutáni kerékpározás különös óvatosságot igényel a csúszós parti utakon.\n\nTérjen vissza biztonságban este, mielőtt az eső felerősödik.",
+            "ro": "O plimbare umedă de dimineață începe la portul plin de atmosferă.\n\nLa prânz, căutați adăpost la muzeu pentru a vă usca.\n\nCiclismul de după-amiază necesită prudență pe cărările de coastă alunecoase.\n\nÎntoarceți-vă seara înainte ca ploaia să se întețească.",
+            "en": "A damp morning ride starts by the atmospheric harbor.\n\nSeek shelter at the museum by noon to dry off.\n\nAfternoon cycling requires extra caution on slippery, wet coastal paths.\n\nReturn safely in the evening before the rain intensifies."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Luka Martinšćica",
+                "hu": "Luka Martinšćica",
+                "ro": "Luka Martinšćica",
+                "en": "Luka Martinšćica"
+              },
+              "tip_5lang": {
+                "de": "Radfahren am regnerischen Hafen schafft eine stimmungsvolle Atmosphäre; tragen Sie eine gut sichtbare wasserdichte Jacke, da die Sicht schlecht ist.",
+                "hu": "A esős kikötő melletti tekerés hangulatos légkört teremt; gondoskodjon láthatósági, vízálló dzsekiről, mivel az esőben rosszak a látási viszonyok.",
+                "ro": "Ciclismul prin portul ploios creează o atmosferă deosebită; asigurați-vă că purtați o jachetă impermeabilă vizibilă, deoarece vizibilitatea este redusă.",
+                "en": "Cycling by the rainy port creates a moody atmosphere; ensure you are wearing a high-visibility waterproof jacket as visibility is poor in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Muzej Andrije Linardića",
+                "hu": "Muzej Andrije Linardića",
+                "ro": "Muzej Andrije Linardića",
+                "en": "Muzej Andrije Linardića"
+              },
+              "tip_5lang": {
+                "de": "Ein toller trockener Hafen für Radfahrer; parken Sie Ihr Fahrrad draußen und genießen Sie die faszinierenden maritimen Ausstellungen, um dem Regen zu entfliehen.",
+                "hu": "Kiváló száraz menedék a bringásoknak; parkolja le a kerékpárt, és élvezze a lenyűgöző beltéri tengerészeti kiállításokat, elmenekülve a felhőszakadás elől.",
+                "ro": "Un refugiu uscat excelent pentru bicicliști; parcați bicicleta afară și bucurați-vă de expozițiile maritime fascinante din interior, scăpând de ploaie.",
+                "en": "A great dry haven for cyclists; park your bike safely outside and enjoy exploring the fascinating indoor maritime exhibits while escaping the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Slatina",
+                "hu": "Slatina",
+                "ro": "Slatina",
+                "en": "Slatina"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Regen herrlich leer; radeln Sie langsam und achten Sie auf tiefe, rutschige Pfützen auf dem Küstenschotterweg, um Unfälle zu vermeiden.",
+                "hu": "A strand csodálatosan üres az esőben; tekerjen lassan, és figyeljen a mély, csúszós tócsákra a parti kavicsos úton, hogy elkerülje a baleseteket.",
+                "ro": "Plaja este goală în mod plăcut pe ploaie; pedalați încet și fiți atenți la bălțile adânci și alunecoase de pe poteca de coastă pentru a evita accidentele.",
+                "en": "The beach is delightfully empty in the rain; cycle slowly and watch out for deep slippery puddles on the coastal gravel path to avoid any accidents."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiha",
+                "hu": "Tiha",
+                "ro": "Tiha",
+                "en": "Tiha"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine schnelle Regenfahrt durch diese Bucht; die Verwendung von Schutzblechen am Fahrrad wird sehr empfohlen, um sich vor Schlamm zu schützen.",
+                "hu": "Tegyen egy gyors, esős kört ebben a gyönyörű öbölben; a sárvédők használata erősen ajánlott, hogy tisztán tartsa a hátát a felcsapódó sártól.",
+                "ro": "Faceți o plimbare rapidă prin acest golf frumos; utilizarea apărătorilor de noroi este recomandată pentru a vă menține spatele curat de stropi.",
+                "en": "Take a quick rainy ride through this beautiful bay; using mudguards on your bike is highly recommended to keep your back clean from the splashing mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunera",
+                "hu": "Tunera",
+                "ro": "Tunera",
+                "en": "Tunera"
+              },
+              "tip_5lang": {
+                "de": "Der alte Aussichtspunkt sieht bei grauem Wetter markant aus; bremsen Sie sanft und steigen Sie bei Bedarf ab, da die nasse Zufahrtsstraße rutschig sein kann.",
+                "hu": "A régi kilátó lenyűgözően néz ki a szürke időben; fékezzen finoman és szálljon le, ha szükséges, mert a nedves bekötőút veszélyesen csúszós lehet.",
+                "ro": "Vechiul punct de observație arată impresionant pe vreme gri; frânați ușor și descălecați dacă este nevoie, deoarece drumul umed poate fi foarte alunecos.",
+                "en": "The old lookout looks striking in grey weather; brake gently and dismount if needed, as the wet access road leading up to it can be dangerously slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Sveti Kristofor",
+                "hu": "Sveti Kristofor",
+                "ro": "Sveti Kristofor",
+                "en": "Sveti Kristofor"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie eine stimmungsvolle Atmosphäre an dieser Kapelle; der steinige Weg nach oben ist im Regen extrem rutschig, daher ist Absteigen am sichersten.",
+                "hu": "Tapasztalja meg a történelmi kápolna hangulatos atmoszféráját; a felfelé vezető köves ösvény esőben rendkívül csúszós, ezért a leszállás a legbiztonságosabb.",
+                "ro": "Experimentați o atmosferă unică la această capelă; poteca pietroasă este extrem de alunecoasă pe ploaie, deci descălecarea este cea mai sigură opțiune.",
+                "en": "Experience a moody, atmospheric vibe at this historic chapel; the stony path up is extremely slippery in the rain, so dismounting is the safest option."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für eine kühle Fahrt zum ruhigen Hafen am Morgen.\n\nWärmen Sie mittags Ihre Finger im Museum auf.\n\nGenießen Sie nachmittags die frische Brise an den einsamen Buchten.\n\nFahren Sie vor dem frühen Sonnenuntergang um 17:00 Uhr zurück.",
+            "hu": "Öltözzön fel melegen a hűvös reggeli tekeréshez a csendes kikötőbe.\n\nDélben olvassza ki az ujjait a múzeumban.\n\nÉlvezze a friss délutáni szellőt a gyönyörű, elhagyatott öblök mentén.\n\nInduljon vissza kora este, mielőtt a 17:00 órás naplemente lehűti a levegőt.",
+            "ro": "Îmbrăcați-vă gros pentru o pedalare matinală răcoroasă spre port.\n\nÎncălziți-vă mâinile la muzeu în jurul prânzului.\n\nBucurați-vă de briza proaspătă de după-amiază de-a lungul golfurilor pustii.\n\nÎntoarceți-vă la lăsarea serii, înainte ca apusul de la 17:00 să aducă frigul.",
+            "en": "Bundle up for a chilly morning pedal to the quiet port.\n\nDefrost your fingers at the museum around noon.\n\nEnjoy the crisp afternoon breeze while riding along the beautiful deserted bays.\n\nHead back early evening before the 17:00 sunset drops the temperature."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Luka Martinšćica",
+                "hu": "Luka Martinšćica",
+                "ro": "Luka Martinšćica",
+                "en": "Luka Martinšćica"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ist erfrischend am Hafen; tragen Sie hochwertige Thermo-Radhandschuhe, um Ihre Hände warm zu halten und die Bremskontrolle zu behalten.",
+                "hu": "A friss téli levegő üdítő, ahogy elteker a kikötő mellett; viseljen minőségi termo kerékpáros kesztyűt, hogy melegen tartsa a kezét és biztonságosan fékezzen.",
+                "ro": "Aerul rece de iarnă este revigorant în port; purtați mănuși termice de ciclism de calitate pentru a vă menține mâinile calde și a controla frânele.",
+                "en": "The crisp winter air is refreshing as you pedal by the harbor; wear high-quality thermal cycling gloves to keep your hands warm and maintain brake control."
+              }
+            },
+            {
+              "name": {
+                "de": "Muzej Andrije Linardića",
+                "hu": "Muzej Andrije Linardića",
+                "ro": "Muzej Andrije Linardića",
+                "en": "Muzej Andrije Linardića"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Stopp, um sich vollständig aufzutauen; verbringen Sie Zeit drinnen mit der lokalen Geschichte und erholen Sie sich von der winterlichen Kälte.",
+                "hu": "Kiváló megálló a teljes felmelegedéshez; töltsön időt bent a gazdag helytörténet élvezetével, miközben teste regenerálódik a téli hideg után.",
+                "ro": "O oprire excelentă pentru a vă dezgheța complet; petreceți timp în interior bucurându-vă de istoria locală, lăsând corpul să se recupereze după frig.",
+                "en": "A great stop to defrost entirely; spend time indoors enjoying the rich local history while giving your body a chance to recover from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Slatina",
+                "hu": "Slatina",
+                "ro": "Slatina",
+                "en": "Slatina"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Radfahren am verlassenen Winterstrand; eine winddichte Radjacke ist hier unerlässlich, da die kalte Meeresbrise leicht durchdringt.",
+                "hu": "Élvezze a tekerést az elhagyatott téli strandon; a szélálló kerékpáros dzseki itt elengedhetetlen, mivel a hideg tengeri szél könnyen átfúj a ruhán.",
+                "ro": "Bucurați-vă de ciclism pe plaja pustie de iarnă; o jachetă rezistentă la vânt este esențială aici, deoarece briza rece a mării poate fi foarte pătrunzătoare.",
+                "en": "Enjoy cycling along the deserted winter beach; a windproof cycling jacket is essential here as the cold sea breeze can easily cut right through you."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiha",
+                "hu": "Tiha",
+                "ro": "Tiha",
+                "en": "Tiha"
+              },
+              "tip_5lang": {
+                "de": "Die tief stehende Wintersonne spiegelt sich auf dem Wasser; halten Sie Ihr Tempo gleichmäßig, um die Körperwärme zu erhalten, ohne kalt zu schwitzen.",
+                "hu": "Az alacsony téli nap gyönyörűen tükröződik az öböl vizén; tartson egyenletes tempót, hogy megőrizze a testhőmérsékletét, de ne izzadjon le a hidegben.",
+                "ro": "Soarele de iarnă se reflectă frumos pe apă; mențineți un ritm constant pentru a vă păstra căldura corpului, evitând transpirația rece.",
+                "en": "The low winter sun reflects beautifully on the bay's water; keep your cycling pace steady to maintain your body heat without breaking into a cold sweat."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunera",
+                "hu": "Tunera",
+                "ro": "Tunera",
+                "en": "Tunera"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die historische hölzerne Fischerleiter vor winterlicher Kulisse; achten Sie auf vereiste Stellen an den schattigen Teilen des Zugangsweges.",
+                "hu": "Látogassa meg a történelmi fa halászlétrát a zord, gyönyörű téli háttérrel; vigyázzon a jégfoltokra a megközelítési út árnyékos részein.",
+                "ro": "Vizitați scara istorică din lemn cu un fundal frumos de iarnă; aveți grijă la porțiunile înghețate de pe părțile umbrite ale drumului de acces.",
+                "en": "Visit the historic wooden fishing ladder with a stark, beautiful winter backdrop; watch out for icy patches on the shaded parts of the approach path."
+              }
+            },
+            {
+              "name": {
+                "de": "Sveti Kristofor",
+                "hu": "Sveti Kristofor",
+                "ro": "Sveti Kristofor",
+                "en": "Sveti Kristofor"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht von dieser Kapelle ist im Winter unglaublich klar; planen Sie, Ihre Fahrt bald danach zu beenden, da es um 17:00 Uhr völlig dunkel wird.",
+                "hu": "A kilátás a kápolnából hihetetlenül tiszta télen; tervezze úgy, hogy ezután hamarosan befejezi az utat, mivel 17:00 óra körül teljesen besötétedik.",
+                "ro": "Vederile de la această capelă sunt incredibil de clare iarna; planificați să vă întoarceți curând după aceea, deoarece se întunecă complet pe la 17:00.",
+                "en": "The views from this chapel are incredibly crisp in winter; plan to finish your ride and head back soon after, as it gets completely dark around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A reggeli autózás a múzeumhoz vezet, majd egy pihentető megálló következik a Luka öbölben. Délben a régi Tunera és az ősi Sveti Kristofor romjainak meglátogatása a program. Délután tegyen egy festői utazást az érintetlen Vransko jezerohoz és a lenyűgöző Kék Barlanghoz. Zárja autós kirándulását a Slatina strandon a naplemente fényében.",
         "ro": "Dimineața conduceți la muzeul local, urmat de o oprire relaxantă la golful Luka. Prânzul include vizite la vechea Tunera și la ruinele antice Sveti Kristofor. După-amiaza, bucurați-vă de o călătorie pitorească la lacul neatins Vransko jezero și uimitoarea Peșteră Albastră. Încheiați călătoria relaxându-vă pe plaja Slatina la apus.",
         "en": "Morning driving takes you to the local museum for heritage insights, followed by a relaxing stop at Luka bay. Midday features visits to the old Tunera and the ancient Sveti Kristofor ruins. In the afternoon, enjoy a scenic drive to the pristine Vransko jezero and the stunning Blue Grotto. End your road trip unwinding on Slatina beach at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie drinnen im Museum, während der Morgenregen fällt.\n\nFahren Sie mittags zum stimmungsvollen Hafen.\n\nVerbringen Sie den Nachmittag sicher bei historischen Stätten und am regnerischen See.\n\nParken Sie abends in Strandnähe, um die stürmischen Wellen zu beobachten.",
+            "hu": "Kezdjen bent a múzeumban, amíg a reggeli eső esik.\n\nDélben vezessen le a hangulatos kikötőbe.\n\nDélután biztonságosan látogassa meg a történelmi helyeket és az eső áztatta tavat.\n\nEste parkoljon le a part közelében, hogy a kocsiból nézze a viharos hullámokat.",
+            "ro": "Începeți în interior vizitând muzeul în timp ce plouă de dimineață.\n\nConduceți la prânz spre portul pitoresc.\n\nPetreceți-vă după-amiaza vizitând în siguranță situri istorice și lacul ploios.\n\nSeara, parcați lângă plajă pentru a privi valurile furtunoase.",
+            "en": "Start indoors exploring the museum's history while the morning rain falls.\n\nDrive down to the moody harbor by noon.\n\nSpend your afternoon safely visiting historical sites and the rain-swept lake.\n\nPark near the beach in the evening to watch the stormy waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Muzej Andrije Linardića",
+                "hu": "Muzej Andrije Linardića",
+                "ro": "Muzej Andrije Linardića",
+                "en": "Muzej Andrije Linardića"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Start bei Regen; parken Sie in der Nähe und betreten Sie dieses warme, trockene Museum, um in die faszinierende maritime Geschichte einzutauchen.",
+                "hu": "Ideális esős kezdés; parkoljon a közelben, és lépjen be ebbe a meleg, száraz múzeumba, hogy elmerüljön a helyi lenyűgöző tengerészeti történelemben.",
+                "ro": "Un început ploios ideal; parcați în apropiere și intrați direct în acest muzeu cald și uscat pentru a explora istoria maritimă fascinantă a zonei.",
+                "en": "An ideal rainy start; park nearby and step straight into this warm, dry museum to dive deep into the fascinating maritime history of the local area."
+              }
+            },
+            {
+              "name": {
+                "de": "Luka Martinšćica",
+                "hu": "Luka Martinšćica",
+                "ro": "Luka Martinšćica",
+                "en": "Luka Martinšćica"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den starken Regen direkt aus Ihrem warmen Auto oder steigen Sie kurz mit einem Regenschirm aus, um die frische Sturmluft zu spüren.",
+                "hu": "Nézze, ahogy a heves eső a viharos tengerbe csapódik a meleg autó kényelméből, vagy lépjen ki egy rövid időre esernyővel a friss vihari levegőért.",
+                "ro": "Priviți ploaia grea lovind marea agitată din confortul mașinii dvs. calde, sau ieșiți scurt cu o umbrelă pentru a simți aerul proaspăt de furtună.",
+                "en": "Watch the heavy rain hit the turbulent sea directly from the comfort of your warm car, or step out briefly with an umbrella to feel the fresh storm air."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunera",
+                "hu": "Tunera",
+                "ro": "Tunera",
+                "en": "Tunera"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Halt, um den ikonischen Fischereiausguck zu sehen; tragen Sie wasserdichte Stiefel, da der kurze Weg vom Parkplatz sehr schlammig wird.",
+                "hu": "Tartson egy rövid szünetet esőben az ikonikus halászkilátónál; viseljen vízálló csizmát, mivel a parkolóból vezető rövid séta rendkívül saras lehet.",
+                "ro": "Faceți o scurtă oprire pe ploaie pentru a vedea punctul de observație; purtați cizme impermeabile, deoarece drumul scurt de la parcare devine foarte noroios.",
+                "en": "Make a quick stop in the rain to see the iconic fishing lookout; wear waterproof boots as the short walk from the parking area gets extremely muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Sveti Kristofor",
+                "hu": "Sveti Kristofor",
+                "ro": "Sveti Kristofor",
+                "en": "Sveti Kristofor"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Straßen zu diesem Ort; die Kapelle bietet einen etwas geschützten Aussichtspunkt, um die regnerische Landschaft zu fotografieren.",
+                "hu": "Vezessen óvatosan a nedves, kanyargós utakon ide; a kápolna egy rövid, kissé védett kilátópontot nyújt a szürke, esős táj fotózásához.",
+                "ro": "Conduceți cu atenție pe drumurile ude până la acest loc; capela oferă un punct de belvedere parțial protejat pentru a fotografia peisajul ploios.",
+                "en": "Drive carefully on the wet, winding roads up to this spot; the chapel offers a brief, somewhat sheltered viewpoint to photograph the grey, rainy landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Vransko jezero",
+                "hu": "Vransko jezero",
+                "ro": "Vransko jezero",
+                "en": "Vransko jezero"
+              },
+              "tip_5lang": {
+                "de": "Der See sieht umgeben von dunklen Regenwolken dramatisch aus; bleiben Sie unbedingt auf den gepflasterten Aussichtswegen, um nicht im Schlamm stecken zu bleiben.",
+                "hu": "A tó drámaian fest a sötét esőfelhők ölelésében; maradjon szigorúan a burkolt kilátóutakon, hogy elkerülje a csúszós sárba való beragadást.",
+                "ro": "Lacul arată remarcabil de dramatic înconjurat de nori de ploaie; rămâneți strict pe potecile pavate de belvedere pentru a evita blocarea în noroi.",
+                "en": "The lake looks remarkably dramatic surrounded by dark rain clouds; stay strictly on the paved viewpoint paths to avoid getting stuck in the slippery mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaža Plava Grota",
+                "hu": "Plaža Plava Grota",
+                "ro": "Plaža Plava Grota",
+                "en": "Plaža Plava Grota"
+              },
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann bei starken Regengüssen teilweise weggespült werden; genießen Sie die wilde Küstenaussicht, während Sie in einen stabilen Regenmantel gehüllt sind.",
+                "hu": "A kavicsos megközelítési utat részben kimoshatja a heves esőzés; élvezze a vad, viharos parti kilátást egy erős esőkabátba burkolózva.",
+                "ro": "Drumul de acces cu pietriș poate fi parțial spălat de ploi abundente; bucurați-vă de vederea sălbatică a coastei înfășurat într-o pelerină de ploaie robustă.",
+                "en": "The gravel access path can be partially washed out during heavy downpours; enjoy the wild, turbulent coastal view while wrapped inside a sturdy raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Slatina",
+                "hu": "Slatina",
+                "ro": "Slatina",
+                "en": "Slatina"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie hier Ihre regnerische Fahrt; finden Sie einen überdachten Platz in Strandnähe oder öffnen Sie leicht die Autofenster, um dem Regen zu lauschen.",
+                "hu": "Fejezze be esős festői autózását itt; keressen egy fedett helyet a part közelében, vagy résnyire húzza le az ablakot, hogy hallgassa az esőt a hullámokon.",
+                "ro": "Încheiați-vă aici plimbarea pitorească ploioasă; găsiți un loc acoperit lângă plajă sau pur și simplu deschideți ușor ferestrele pentru a asculta ploaia.",
+                "en": "Finish your rainy scenic drive here; find a nice covered spot near the beach or just crack the car windows slightly to listen to the soothing rain on the waves."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt gemütlich im Kulturmuseum.\n\nFahren Sie mittags zum malerischen Hafen.\n\nDie Nachmittagsfahrten bieten atemberaubende Winterlandschaften rund um den See.\n\nErreichen Sie den Strand pünktlich zum winterlichen Sonnenuntergang um 16:30 Uhr.",
+            "hu": "A csípős téli reggel kényelmesen, a kulturális múzeumban indul.\n\nDélben hajtson a festői kikötőhöz egy hűvös kilátásért.\n\nA délutáni autózás lenyűgöző téli tájakat kínál a tó és a romok körül.\n\nÉrjen a partra pontban a 16:30-as gyönyörű téli naplementére.",
+            "ro": "O dimineață geroasă de iarnă începe confortabil în muzeul cultural.\n\nConduceți la prânz spre portul pitoresc.\n\nPlimbările de după-amiază oferă peisaje de iarnă uimitoare în jurul lacului.\n\nAjungeți la plajă exact la timp pentru apusul de iarnă de la ora 16:30.",
+            "en": "A crisp winter morning starts comfortably inside the cultural museum.\n\nDrive to the scenic harbor for a chilly noon view.\n\nAfternoon drives offer stunning winter landscapes around the historic sites and lake.\n\nArrive at the beach just in time for the 16:30 winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Muzej Andrije Linardića",
+                "hu": "Muzej Andrije Linardića",
+                "ro": "Muzej Andrije Linardića",
+                "en": "Muzej Andrije Linardića"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher und warmer Start in Ihren Winter-Roadtrip; tauchen Sie in die reiche lokale maritime Kultur ein und genießen Sie die Heizung im Gebäude.",
+                "hu": "Hangulatos és meleg kezdése a téli autós kirándulásnak; merüljön el a gazdag helyi tengerészeti kultúrában, miközben élvezi a benti fűtést.",
+                "ro": "Un început confortabil și cald pentru excursia dvs. de iarnă cu mașina; scufundați-vă în bogata cultură maritimă locală în timp ce vă bucurați de încălzire.",
+                "en": "A cozy and incredibly warm start to your winter road trip; immerse yourself in the rich local maritime culture while enjoying the indoor heating."
+              }
+            },
+            {
+              "name": {
+                "de": "Luka Martinšćica",
+                "hu": "Luka Martinšćica",
+                "ro": "Luka Martinšćica",
+                "en": "Luka Martinšćica"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Luft am Winterhafen; packen Sie sich warm ein für den kurzen, frostigen Spaziergang vom beheizten Auto zum Wasser.",
+                "hu": "Élvezze a rendkívül friss levegőt a téli kikötőben; öltözzön fel melegen még arra a rövid, fagyos sétára is a fűtött autótól a vízpartig.",
+                "ro": "Bucurați-vă de aerul extrem de proaspăt la portul de iarnă; asigurați-vă că vă înfofoliți bine pentru scurta plimbare de la mașina încălzită până la malul apei.",
+                "en": "Enjoy the remarkably crisp air at the winter harbor; make sure to bundle up warmly just for the short, freezing walk from the heated car to the waterfront."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunera",
+                "hu": "Tunera",
+                "ro": "Tunera",
+                "en": "Tunera"
+              },
+              "tip_5lang": {
+                "de": "Fangen Sie das klare Winterlicht an diesem historischen Thunfisch-Angelplatz ein; das Aussteigen fühlt sich hier wegen des Küstenwindes extrem kalt an.",
+                "hu": "Örökítse meg a lenyűgöző, tiszta téli fényeket ennél a történelmi halászpontnál; a kiszállás a parti szél miatt itt rendkívül hidegnek érződik.",
+                "ro": "Surprindeți lumina uimitoare de iarnă la acest punct istoric de pescuit a tonului; ieșirea afară aici se simte extrem de rece din cauza vântului.",
+                "en": "Capture the absolutely stunning, clear winter light at this historical tuna fishing point; stepping out here feels extremely cold due to the coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sveti Kristofor",
+                "hu": "Sveti Kristofor",
+                "ro": "Sveti Kristofor",
+                "en": "Sveti Kristofor"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann im Schatten rutschigen Morgenfrost aufweisen; fahren Sie vorsichtig und genießen Sie den winterlichen Panoramablick von der Kapelle.",
+                "hu": "A bekötőút árnyékos részein csúszós reggeli dér lehet; vezessen óvatosan, és élvezze a hatalmas téli panorámát a kápolna fennsíkjáról.",
+                "ro": "Drumul de apropiere poate conține brumă alunecoasă de dimineață la umbră; conduceți cu atenție și bucurați-vă de vederile panoramice vaste de la capelă.",
+                "en": "The approach road might contain slippery morning frost in the shade; drive carefully and enjoy the vast panoramic winter views from the chapel plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Vransko jezero",
+                "hu": "Vransko jezero",
+                "ro": "Vransko jezero",
+                "en": "Vransko jezero"
+              },
+              "tip_5lang": {
+                "de": "Die karge Winterlandschaft rund um den See ist atemberaubend schön; achten Sie auf gefährliches Glatteis auf den umliegenden Beobachtungspfaden.",
+                "hu": "A tó körüli zord téli táj lélegzetelállítóan szép; vigyázzon a potenciálisan veszélyes ónos esőre vagy tükörjégre a környező megfigyelő ösvényeken.",
+                "ro": "Peisajul auster de iarnă din jurul lacului este uluitor de frumos; aveți grijă la gheața neagră potențial periculoasă de pe cărările de observație.",
+                "en": "The stark winter landscape around the lake is breathtakingly beautiful; watch out for potentially dangerous black ice on the surrounding observation paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaža Plava Grota",
+                "hu": "Plaža Plava Grota",
+                "ro": "Plaža Plava Grota",
+                "en": "Plaža Plava Grota"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, isolierter und schöner Winterstopp; tragen Sie mehrere warme Schichten, um die durchdringend kalte Meeresbrise an den Klippen effektiv zu bekämpfen.",
+                "hu": "Csendes, teljesen elszigetelt és gyönyörű téli megálló; öltözzön több meleg rétegbe, hogy hatékonyan felvegye a harcot a sziklák peremén fújó metsző tengeri széllel.",
+                "ro": "O oprire de iarnă liniștită, complet izolată și frumoasă; îmbrăcați-vă în mai multe straturi calde pentru a combate eficient briza rece a mării pe marginea stâncilor.",
+                "en": "A quiet, completely isolated and beautiful winter stop; dress in multiple warm layers to effectively combat the piercing cold sea breeze along the cliff edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Slatina",
+                "hu": "Slatina",
+                "ro": "Slatina",
+                "en": "Slatina"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie hier den spektakulären frühen winterlichen Sonnenuntergang um 16:30 Uhr; packen Sie sich warm ein, bevor Sie das Auto verlassen, um tolle Fotos zu machen.",
+                "hu": "Kapja el a látványos kora téli naplementét 16:30 körül egyenesen innen; öltözzön fel melegen, mielőtt kiszállna az autóból fantasztikus fotókat készíteni.",
+                "ro": "Prindeți spectaculosul apus de iarnă devreme, în jurul orei 16:30, direct de aici; înfofoliți-vă bine înainte de a părăsi mașina pentru a face fotografii fantastice.",
+                "en": "Catch the spectacular early winter sunset around 16:30 directly from here; wrap up warmly before leaving the car to snap some fantastic golden hour photos."
+              }
+            }
+          ]
+        }
       }
     }
   }

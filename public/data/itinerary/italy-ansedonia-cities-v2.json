@@ -160,6 +160,196 @@
         "hu": "M: A zord tengerparton kezdünk, felfedezzük a Portus Cosanus ősi kikötőjét és a Villa Marittima della Tagliata hihetetlen mérnöki munkáját.\nMD: A dombra felfelé haladva a középkori őrtornyoktól a Cosa Nemzeti Régészeti Múzeumában őrzött gazdag történelem felé vesszük az irányt.\nA: A délutánt Cosa és a Capitolium monumentális romjai között sétálva töltjük.\nE: Sétánkat az ősi fennsíkról nyíló pazar kilátással zárjuk, hagyva, hogy a tenger feletti naplemente színei megkoronázzák történelmi utunkat.",
         "ro": "M: Începem pe coasta accidentată, explorând vechiul port Portus Cosanus și incredibila inginerie a Vilei Marittima della Tagliata.\nMD: Urcând pe deal, trecem de la turnurile de veghe medievale la istoria bogată păstrată în Muzeul Arheologic Național din Cosa.\nA: După-amiaza este petrecută plimbându-ne printre ruinele monumentale din Cosa și Capitolium.\nE: Ne încheiem plimbarea cu o panoramă superbă de pe platoul antic, lăsând culorile apusului peste Marea Tireniană să încheie o călătorie istorică.",
         "en": "M: We start on the rugged coastline, exploring the ancient harbor of Portus Cosanus and the incredible engineering of Villa Marittima della Tagliata.\nMD: Climbing up the hill, we transition from medieval watchtowers to the rich history preserved inside the National Archaeological Museum of Cosa.\nA: The afternoon is spent walking among the monumental ruins of Cosa and the Capitolium.\nE: We end our walk with a sweeping view from the ancient plateau, letting the sunset colors over the Tyrrhenian Sea conclude a historical journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "(Morgen) Wir beginnen den Tag am Hafen von Ansedonia, wo der Regen die antiken Ruinen in einen mystischen Nebel hüllt. (Mittag) In den Mauern des Museums suchen wir Schutz vor dem Schauer und tauchen in die reiche Geschichte von Cosa ein. (Nachmittag) Mit dem Regenschirm wandern wir durch die Akropolis und achten auf die rutschigen Steine des Capitoliums. (Abend) Wir beenden den Tag an den Klippen beim Regen.",
+            "hu": "(Reggel) Ansedonia portjában kezdjük a napot, ahol az eső misztikus ködbe burkolja az ókori romokat. (Délben) A múzeum falai között keresünk menedéket a zápor elől, elmélyedve Cosa gazdag történelmében. (Délután) Az akropolisz kövei között esernyővel sétálva fedezzük fel a Capitoliumot, vigyázva a csúszós utakra. (Este) A napot a tengerparti sziklák felett zárjuk, hallgatva az eső kopogását.",
+            "ro": "(Dimineață) Începem ziua în portul Ansedonia, unde ploaia învăluie ruinele antice într-o ceață mistică. (Prânz) Căutăm adăpost între zidurile muzeului, aprofundând istoria bogată a orașului Cosa. (După-amiază) Ne plimbăm cu umbrela prin cetate, explorând Capitoliumul și având grijă la pietrele alunecoase. (Seară) Încheiem ziua deasupra stâncilor, ascultând sunetul picăturilor de ploaie pe apă.",
+            "en": "(Morning) We start the day at the port of Ansedonia, where the rain wraps the ancient ruins in a mystical mist. (Noon) We seek shelter within the museum walls, diving into the rich history of Cosa while staying dry. (Afternoon) Walking with an umbrella through the acropolis, we explore the Capitolium, being careful of slippery stones. (Evening) We end the day by the seaside cliffs in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Portus Cosanus",
+                "hu": "Portus Cosanus",
+                "ro": "Portus Cosanus",
+                "en": "Portus Cosanus"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antiken Hafenanlagen unter dem Regenhimmel; tragen Sie unbedingt wasserfeste Wanderschuhe für die feuchten Pfade.",
+                "hu": "Csodáld meg az ókori kikötő maradványait az esős égbolt alatt; a nedves ösvények miatt mindenképpen vízálló túrabakancsot viselj.",
+                "ro": "Admirați rămășițele vechiului port sub cerul ploios; purtați neapărat bocanci de drumeție impermeabili pentru potecile umede.",
+                "en": "Admire the remains of the ancient port under the rainy sky; be sure to wear waterproof hiking boots for the damp pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Marittima della Tagliata",
+                "hu": "Villa Marittima della Tagliata",
+                "ro": "Villa Marittima della Tagliata",
+                "en": "Villa Marittima della Tagliata"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen der Küstenvilla, während die Wellen bei Regen dramatischer wirken; Vorsicht vor den sehr rutschigen Felsen am Wasser.",
+                "hu": "Fedezd fel a tengerparti villa romjait, miközben a hullámok drámaiabbak az esőben; vigyázz a vízparti sziklák nagyon csúszós felületére.",
+                "ro": "Explorați ruinele vilei de la malul mării în timp ce valurile par mai dramatice pe ploaie; atenție la stâncile foarte alunecoase de lângă apă.",
+                "en": "Explore the ruins of the seaside villa as the waves look more dramatic in the rain; watch out for the very slippery rocks near the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di San Biagio",
+                "hu": "Torre di San Biagio",
+                "ro": "Torre di San Biagio",
+                "en": "Torre di San Biagio"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen historischen Turm als schnellen Fotostopp im Regen; ein stabiler Windschutz ist hier bei auflandigem Wind ratsam.",
+                "hu": "Tekintsd meg ezt a történelmi tornyot egy gyors esős fotó erejéig; a tengeri szél miatt egy stabil szélvédő kabát ajánlott itt.",
+                "ro": "Vedeți acest turn istoric pentru o oprire rapidă de fotografii pe ploaie; o jachetă rezistentă la vânt este recomandată din cauza brizei.",
+                "en": "View this historical tower for a quick rainy photo stop; a sturdy windbreaker is recommended here due to the onshore winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Cosa",
+                "hu": "Museo Archeologico Nazionale di Cosa",
+                "ro": "Museo Archeologico Nazionale di Cosa",
+                "en": "Museo Archeologico Nazionale di Cosa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als perfekte überdachte Zuflucht vor dem Regen und studieren Sie die Funde von Cosa in aller Ruhe im Trockenen.",
+                "hu": "Használd a múzeumot tökéletes fedett menedékként az eső elől, és tanulmányozd Cosa leleteit teljes nyugalomban a száraz épületben.",
+                "ro": "Folosiți muzeul ca un adăpost acoperit perfect împotriva ploii și studiați vestigiile din Cosa în liniște, la adăpost de umezeală.",
+                "en": "Use the museum as a perfect covered refuge from the rain and study the artifacts of Cosa in total peace inside the dry building."
+              }
+            },
+            {
+              "name": {
+                "de": "Capitolium of Cosa",
+                "hu": "Capitolium of Cosa",
+                "ro": "Capitolium of Cosa",
+                "en": "Capitolium of Cosa"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie den majestätischen Tempelbereich mit einem großen Regenschirm; die antiken Pflastersteine können bei Nässe extrem glatt sein.",
+                "hu": "Látogasd meg a fenséges templomkörzetet egy nagy esernyővel; az ókori macskakövek rendkívül csúszósak lehetnek a nedvességtől.",
+                "ro": "Vizitați zona maiestuoasă a templului cu o umbrelă mare; pietrele antice de pavaj pot fi extrem de alunecoase din cauza umidității.",
+                "en": "Visit the majestic temple area with a large umbrella; the ancient paving stones can be extremely slippery from the moisture."
+              }
+            },
+            {
+              "name": {
+                "de": "Cosa",
+                "hu": "Cosa",
+                "ro": "Cosa",
+                "en": "Cosa"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das gesamte Ausgrabungsgelände trotz Regen für eine mystische Atmosphäre; halten Sie sich an die befestigten Wege.",
+                "hu": "Fedezd fel a teljes ásatási területet az eső ellenére a misztikus hangulatért; mindenképpen maradj a kijelölt, stabilabb utakon.",
+                "ro": "Explorați întregul sit arheologic în ciuda ploii pentru o atmosferă mistică; rămâneți neapărat pe potecile marcate și mai stabile.",
+                "en": "Explore the entire excavation site despite the rain for a mystical atmosphere; be sure to stick to the designated, stable paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "(Morgen) Wir erkunden den antiken Hafen im frischen Winterwind, wenn die Landschaft fast menschenleer ist. (Mittag) In den geheizten Räumen des Museums wärmen wir uns auf, während wir den römischen Alltag studieren. (Nachmittag) Im Licht der tiefstehenden Sonne wandern wir zu den Ruinen von Cosa. (Abend) Nach 17 Uhr genießen wir die stille Ruhe der winterlichen Maremma.",
+            "hu": "(Reggel) A friss téli szélben fedezzük fel az ókori kikötőt, ahol ilyenkor szinte csak miénk a táj. (Délben) A múzeum fűtött tereiben melegedünk fel, miközben a római mindennapokat tanulmányozzuk. (Délután) A lemenő nap fényében sétálunk fel Cosa romjaihoz a korai sötétedés előtt. (Este) 17 óra után a szürkületben élvezzük a téli Maremma csendes nyugalmát.",
+            "ro": "(Dimineață) Explorăm portul antic în vântul proaspăt de iarnă, când peisajul este aproape pustiu. (Prânz) Ne încălzim în spațiile muzeului, studiind viața cotidiană a romanilor în timp ce afară este răcoare. (După-amiază) Ne plimbăm spre ruinele din Cosa în lumina soarelui care apune. (Seară) După ora 17:00, ne bucurăm de liniștea profundă a regiunii Maremma iarna.",
+            "en": "(Morning) We explore the ancient port in the crisp winter wind, when the landscape is almost entirely ours. (Noon) We warm up in the heated spaces of the museum while studying Roman daily life and artifacts. (Afternoon) In the glow of the setting sun, we walk up to the ruins of Cosa before sunset. (Evening) After 5 PM, we enjoy the quiet winter peace of the Maremma coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Portus Cosanus",
+                "hu": "Portus Cosanus",
+                "ro": "Portus Cosanus",
+                "en": "Portus Cosanus"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft am alten Hafen; eine winddichte Jacke ist wegen der kühlen Meeresbrise absolut notwendig.",
+                "hu": "Élvezd a tiszta téli levegőt a régi kikötőnél; a hűvös tengeri szél miatt egy szélálló dzseki elengedhetetlen a séta során.",
+                "ro": "Bucurați-vă de aerul curat de iarnă la vechiul port; o jachetă rezistentă la vânt este esențială din cauza brizei reci a mării.",
+                "en": "Enjoy the clear winter air at the old port; a windproof jacket is essential during the walk due to the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Marittima della Tagliata",
+                "hu": "Villa Marittima della Tagliata",
+                "ro": "Villa Marittima della Tagliata",
+                "en": "Villa Marittima della Tagliata"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Küstenruinen bei klarem Winterlicht für tolle Fotos; tragen Sie mehrere Schichten Kleidung gegen die Kälte am Meer.",
+                "hu": "Látogasd meg a tengerparti romokat a tiszta téli fényben a remek fotókért; viselj több réteg ruhát a tengerparti hideg ellen.",
+                "ro": "Vizitați ruinele de la malul mării în lumina clară de iarnă pentru fotografii grozave; purtați mai multe straturi de haine contra frigului.",
+                "en": "Visit the seaside ruins in the clear winter light for great photos; wear multiple layers of clothing against the coastal cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di San Biagio",
+                "hu": "Torre di San Biagio",
+                "ro": "Torre di San Biagio",
+                "en": "Torre di San Biagio"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den markanten Turm vor dem tiefblauen Winterhimmel; warme Handschuhe sind für den Aufenthalt an der exponierten Küste ratsam.",
+                "hu": "Nézd meg a jellegzetes tornyot a mélykék téli égbolt előtt; meleg kesztyű ajánlott a kitett tengerparti szakaszokon.",
+                "ro": "Vedeți turnul distinctiv pe fundalul cerului albastru intens de iarnă; mănușile călduroase sunt recomandate pe coasta expusă.",
+                "en": "See the distinctive tower against the deep blue winter sky; warm gloves are recommended on the exposed coastal sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Cosa",
+                "hu": "Museo Archeologico Nazionale di Cosa",
+                "ro": "Museo Archeologico Nazionale di Cosa",
+                "en": "Museo Archeologico Nazionale di Cosa"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Museum auf, während Sie die antiken Schätze betrachten; planen Sie den Besuch für die kälteste Mittagszeit ein.",
+                "hu": "Melegedj fel a múzeumban, miközben az ókori kincseket nézed; tervezd a látogatást a leghidegebb déli órákra.",
+                "ro": "Încălziți-vă în muzeu în timp ce priviți comorile antice; planificați vizita pentru cele mai reci ore ale amiezii.",
+                "en": "Warm up in the museum while viewing the ancient treasures; plan your visit for the coldest midday hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Capitolium of Cosa",
+                "hu": "Capitolium of Cosa",
+                "ro": "Capitolium of Cosa",
+                "en": "Capitolium of Cosa"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie den Tempel vor dem frühen Sonnenuntergang um 17 Uhr; die tiefstehende Sonne wirft lange, fotogene Schatten auf die Steine.",
+                "hu": "Nézd meg a templomot a korai, 17 órai naplemente előtt; az alacsonyan járó nap hosszú, fotogén árnyékokat vet a kövekre.",
+                "ro": "Vizitați templul înainte de apusul timpuriu de la ora 17:00; soarele jos proiectează umbre lungi și fotogenice pe pietre.",
+                "en": "See the temple before the early 5 PM sunset; the low sun casts long, photogenic shadows on the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Cosa",
+                "hu": "Cosa",
+                "ro": "Cosa",
+                "en": "Cosa"
+              },
+              "tip_5lang": {
+                "de": "Erwandern Sie das Gelände zügig, um warm zu bleiben, und beenden Sie die Tour, bevor es um 17 Uhr dunkel wird.",
+                "hu": "Sétáld körbe tempósan a területet, hogy melegen tartsd magad, és fejezd be a túrát, mielőtt 17 órakor besötétedik.",
+                "ro": "Plimbați-vă în ritm alert prin sit pentru a vă menține căldura și terminați turul înainte de lăsarea întunericului la ora 17:00.",
+                "en": "Walk around the site briskly to keep yourself warm and finish your tour before it gets dark at 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "M: Utunk a nyugati védőtoronynál indul, majd felkapaszkodunk a római település magaslataira, hogy felfedezzük a Casa di Diana jó állapotú romjait.\nMD: A múzeum és a Capitolium déli látogatása mély bepillantást enged az ókori telepesek mindennapi életébe és vallási gyakorlataiba.\nA: Gyorsan lekerékpározunk a partra, megtekintve az ősi kikötő lenyűgöző maradványait.\nE: Az útvonal a szabadstrandon ér véget, ahol megpihentetheti lábait a homokban, és élvezheti a hűsítő tengeri szellőt, ahogy a nap lassan véget ér.",
         "ro": "M: Plimbarea noastră începe lângă turnul defensiv vestic, înainte de a urca spre înălțimile așezării romane pentru a explora Casa di Diana.\nMD: O vizită la amiază la muzeu și la Capitolium oferă o perspectivă profundă asupra vieții cotidiene a coloniștilor antici.\nA: Pedalăm rapid înapoi spre coastă, admirând ruinele impresionante ale vechiului port scăldate în soarele după-amiezii.\nE: Traseul se termină la plaja publică, unde vă puteți odihni picioarele pe nisip și vă puteți bucura de briza mării în timp ce ziua se încheie.",
         "en": "M: Our ride kicks off near the western defensive tower before ascending to the heights of the Roman settlement to explore the well-preserved Casa di Diana.\nMD: A midday visit to the museum and the Capitolium provides deep insight into the daily life and religious practices of the ancient colonists.\nA: We cycle swiftly down towards the coast, taking in impressive ruins of the old port.\nE: The route finishes at the public beach, where you can rest your legs on the sand and enjoy the cooling sea breeze as the day slowly winds down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "(Morgen) Mit Regenkleidung radeln wir zum Turm und trotzen dem feuchten Wetter der Maremma. (Mittag) Im Museum finden wir eine trockene Pause, um uns aufzuwärmen und die Räder sicher abzustellen. (Nachmittag) Wir erkunden die Ruinen von Cosa vorsichtig auf zwei Rädern trotz des Regens. (Abend) Die Rückfahrt erfolgt auf nassen, aber stimmungsvollen Küstenwegen.",
+            "hu": "(Reggel) Esőruházatban tekerünk a toronyhoz, dacolva a Maremma nedves időjárásával. (Délben) A múzeumban száraz pihenőt tartunk, hogy felmelegedjünk és biztonságban lelakatoljuk a gépeket. (Délután) Óvatosan fedezzük fel Cosa romjait két keréken az eső ellenére is. (Este) A visszautat vizes, de hangulatos tengerparti utakon tesszük meg.",
+            "ro": "(Dimineață) Pedalăm spre turn echipați cu haine de ploaie, sfidând vremea umedă din Maremma. (Prânz) Luăm o pauză uscată la muzeu pentru a ne încălzi și a lăsa bicicletele în siguranță. (După-amiază) Explorăm cu atenție ruinele din Cosa pe două roți, în ciuda ploii persistente. (Seară) Drumul de întoarcere are loc pe trasee de coastă ude, dar pline de atmosferă.",
+            "en": "(Morning) We cycle to the tower in rain gear, braving the wet weather of the Maremma coast. (Noon) We take a dry break at the museum to warm up and securely park our bikes. (Afternoon) We carefully explore the ruins of Cosa on two wheels despite the persistent rain. (Evening) The return journey takes place on wet but atmospheric coastal paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre di San Pancrazio",
+                "hu": "Torre di San Pancrazio",
+                "ro": "Torre di San Pancrazio",
+                "en": "Torre di San Pancrazio"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den Turm im Regen; achten Sie beim Radfahren auf matschige Stellen und rutschiges Laub auf dem Zufahrtsweg.",
+                "hu": "Tekintsd meg a tornyot az esőben; kerékpározás közben ügyelj a sáros részekre és a csúszós levelekre a bekötőúton.",
+                "ro": "Vedeți turnul pe ploaie; în timp ce pedalați, aveți grijă la porțiunile cu noroi și la frunzele alunecoase de pe drum.",
+                "en": "View the tower in the rain; while cycling, watch out for muddy patches and slippery leaves on the access road."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa di Diana",
+                "hu": "Casa di Diana",
+                "ro": "Casa di Diana",
+                "en": "Casa di Diana"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die antike Wohnstätte mit wasserfester Ausrüstung; die Steinstufen können bei Nässe für Radschuhe sehr glatt sein.",
+                "hu": "Látogasd meg az ókori lakóházat vízálló felszerelésben; a kőlépcsők nedvesen nagyon csúszósak lehetnek kerékpáros cipőben.",
+                "ro": "Vizitați vechea locuință cu echipament impermeabil; treptele de piatră pot fi foarte alunecoase pentru pantofii de ciclism.",
+                "en": "Visit the ancient dwelling with waterproof gear; the stone steps can be very slippery when wet for cycling shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Cosa",
+                "hu": "Museo Archeologico Nazionale di Cosa",
+                "ro": "Museo Archeologico Nazionale di Cosa",
+                "en": "Museo Archeologico Nazionale di Cosa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um im Trockenen neue Energie zu tanken; prüfen Sie Ihre Bremsen vor der Weiterfahrt im Regen.",
+                "hu": "Használd a múzeumi látogatást a szárazban való feltöltődésre; ellenőrizd a fékeket az esőben való továbbindulás előtt.",
+                "ro": "Folosiți vizita la muzeu pentru a vă reîncărca în uscat; verificați frânele înainte de a continua drumul prin ploaie.",
+                "en": "Use the museum visit to recharge in the dry; check your brakes before continuing your journey through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Capitolium of Cosa",
+                "hu": "Capitolium of Cosa",
+                "ro": "Capitolium of Cosa",
+                "en": "Capitolium of Cosa"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie den Tempelbereich zu Fuß, nachdem Sie die Räder sicher abgestellt haben; die nassen Pflastersteine sind tückisch.",
+                "hu": "Fedezd fel a templomkörzetet gyalog, miután biztonságosan lezártad a bringákat; a nedves macskakövek csalókák lehetnek.",
+                "ro": "Explorați zona templului pe jos după ce ați parcat bicicletele; pietrele de pavaj umede pot fi înșelătoare și alunecoase.",
+                "en": "Explore the temple area on foot after safely locking your bikes; the wet paving stones can be treacherous and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di San Biagio",
+                "hu": "Torre di San Biagio",
+                "ro": "Torre di San Biagio",
+                "en": "Torre di San Biagio"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Turm bietet dramatische Ausblicke aufs graue Meer; achten Sie auf starken Seitenwind beim Radeln an der Küste.",
+                "hu": "Egy rövid megálló a toronynál drámai kilátást nyújt a szürke tengerre; ügyelj az erős oldalszélre a parton tekerve.",
+                "ro": "O scurtă oprire la turn oferă vederi dramatice spre marea cenușie; atenție la vântul lateral puternic când pedalați pe coastă.",
+                "en": "A short stop at the tower offers dramatic views of the gray sea; watch out for strong crosswinds while cycling on the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Portus Cosanus",
+                "hu": "Portus Cosanus",
+                "ro": "Portus Cosanus",
+                "en": "Portus Cosanus"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie vorsichtig zum alten Hafen; vermeiden Sie plötzliches Bremsen auf den nassen, sandigen Oberflächen in Meeresnähe.",
+                "hu": "Tekerj óvatosan a régi kikötőhöz; kerüld a hirtelen fékezést a tengerpart közeli nedves, homokos felületeken.",
+                "ro": "Pedalați cu atenție spre vechiul port; evitați frânările bruște pe suprafețele umede și nisipoase de lângă mare.",
+                "en": "Cycle carefully to the old port; avoid sudden braking on the wet, sandy surfaces near the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera",
+                "hu": "Spiaggia libera",
+                "ro": "Spiaggia libera",
+                "en": "Spiaggia libera"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das aufgewühlte Meer vom Strand aus; bleiben Sie mit den Rädern auf dem festen Weg, um nicht im nassen Sand einzusinken.",
+                "hu": "Nézd meg a felkorbácsolt tengert a strandról; maradj a bringával a szilárd úton, hogy ne süllyedj el a vizes homokban.",
+                "ro": "Priviți marea agitată de pe plajă; rămâneți cu bicicletele pe drumul solid pentru a nu vă scufunda în nisipul ud.",
+                "en": "Watch the turbulent sea from the beach; stay with your bikes on the solid path to avoid sinking into the wet sand."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "(Morgen) Wir starten unsere winterliche Radtour zum Turm bei klarer, kalter Luft. (Mittag) Das Museum bietet eine willkommene Aufwärmpause in der Mittagszeit. (Nachmittag) Wir radeln durch die antiken Ruinen von Cosa und genießen die weite Sicht. (Abend) Wir beenden die Tour pünktlich vor 17 Uhr, bevor die winterliche Dunkelheit über der Küste hereinbricht.",
+            "hu": "(Reggel) Tiszta, hideg levegőben indítjuk téli bringatúránkat a toronyhoz. (Délben) A múzeum szívesen látott felmelegedési lehetőséget kínál a déli órákban. (Délután) Végigtekerünk Cosa antik romjai között, élvezve a téli táj messzi kilátásait. (Este) Pontosan 17 óra előtt fejezzük be a túrát, mielőtt a téli sötétség leszállna a partvidékre.",
+            "ro": "(Dimineață) Începem turul de iarnă cu bicicleta spre turn în aerul rece și curat. (Prânz) Muzeul oferă o ocazie binevenită de încălzire în timpul prânzului. (După-amiază) Pedalăm printre ruinele antice din Cosa, bucurându-ne de vizibilitatea excelentă. (Seară) Terminăm turul exact înainte de ora 17:00, înainte ca întunericul să se lase peste coastă.",
+            "en": "(Morning) We start our winter bike tour to the tower in the clear, cold air. (Noon) The museum offers a welcome warming break during the midday hours. (Afternoon) We cycle through the ancient ruins of Cosa, enjoying the expansive winter views. (Evening) We finish the tour promptly before 5 PM, before the winter darkness falls over the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre di San Pancrazio",
+                "hu": "Torre di San Pancrazio",
+                "ro": "Torre di San Pancrazio",
+                "en": "Torre di San Pancrazio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick vom Turm; tragen Sie warme Radhandschuhe, da der Fahrtwind im Winter sehr beißend sein kann.",
+                "hu": "Élvezd a panorámát a toronytól; viselj meleg kerékpáros kesztyűt, mert a menetszél télen nagyon metsző lehet.",
+                "ro": "Bucurați-vă de panorama de la turn; purtați mănuși de ciclism călduroase, deoarece vântul poate fi foarte tăios iarna.",
+                "en": "Enjoy the panorama from the tower; wear warm cycling gloves, as the wind chill can be very piercing in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa di Diana",
+                "hu": "Casa di Diana",
+                "ro": "Casa di Diana",
+                "en": "Casa di Diana"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen der Casa di Diana im klaren Licht; achten Sie auf schattige Stellen, wo der Boden länger gefroren sein kann.",
+                "hu": "Fedezd fel a Casa di Diana romjait a tiszta fényben; ügyelj az árnyékos részekre, ahol a talaj tovább maradhat fagyos.",
+                "ro": "Explorați ruinele din Casa di Diana în lumina clară; atenție la zonele umbrite, unde solul poate rămâne înghețat mai mult timp.",
+                "en": "Explore the ruins of Casa di Diana in the clear light; watch out for shaded areas where the ground may stay frozen longer."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Cosa",
+                "hu": "Museo Archeologico Nazionale di Cosa",
+                "ro": "Museo Archeologico Nazionale di Cosa",
+                "en": "Museo Archeologico Nazionale di Cosa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen; trinken Sie einen heißen Tee aus Ihrer Thermoskanne, bevor Sie weiterfahren.",
+                "hu": "Használd a múzeumi látogatást a felmelegedésre; igyál egy forró teát a termosztodból, mielőtt továbbindulnál a hidegben.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi; beți un ceai fierbinte din termos înainte de a continua drumul prin frig.",
+                "en": "Use the museum visit to warm up; drink some hot tea from your thermos before continuing your ride in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Capitolium of Cosa",
+                "hu": "Capitolium of Cosa",
+                "ro": "Capitolium of Cosa",
+                "en": "Capitolium of Cosa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Tempelbereich im goldenen Nachmittagslicht; tragen Sie eine Mütze unter dem Helm gegen den Wärmeverlust am Kopf.",
+                "hu": "Látogasd meg a templomkörzetet az aranyló délutáni fényben; viselj sapkát a sisak alatt a fejmeleg megtartása érdekében.",
+                "ro": "Vizitați zona templului în lumina aurie a amiezii; purtați o căciulă sub cască pentru a preveni pierderea căldurii prin cap.",
+                "en": "Visit the temple area in the golden afternoon light; wear a thin hat under your helmet to prevent heat loss from your head."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di San Biagio",
+                "hu": "Torre di San Biagio",
+                "ro": "Torre di San Biagio",
+                "en": "Torre di San Biagio"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Silhouette des Turms gegen die tiefstehende Wintersonne; halten Sie den Stopp kurz, um nicht auszukühlen.",
+                "hu": "Csodáld meg a torony sziluettjét az alacsonyan járó téli nappal szemben; tartsd rövidre a megállót, hogy ne hűlj ki.",
+                "ro": "Admirați silueta turnului în lumina soarelui de iarnă; faceți o oprire scurtă pentru a nu vă răci prea tare în briza mării.",
+                "en": "Admire the silhouette of the tower against the low winter sun; keep the stop brief to avoid getting too chilled in the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Portus Cosanus",
+                "hu": "Portus Cosanus",
+                "ro": "Portus Cosanus",
+                "en": "Portus Cosanus"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zum Hafen und genießen Sie die klare Sicht bis zum Horizont; achten Sie auf den kalten Wind am Meeresufer.",
+                "hu": "Tekerj le a kikötőhöz és élvezd a tiszta kilátást a horizontig; ügyelj a hideg szélre közvetlenül a tengerparton.",
+                "ro": "Pedalați până la port și bucurați-vă de vederea clară spre orizont; atenție la vântul rece direct de pe malul mării.",
+                "en": "Cycle down to the port and enjoy the clear view to the horizon; watch out for the cold wind directly on the seashore."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera",
+                "hu": "Spiaggia libera",
+                "ro": "Spiaggia libera",
+                "en": "Spiaggia libera"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Strandspaziergang im Winter ist herrlich; kehren Sie pünktlich vor 17 Uhr zurück, bevor es schlagartig dunkel wird.",
+                "hu": "Egy magányos strandlátogatás télen csodálatos; indulj vissza pontosan 17 óra előtt, mielőtt hirtelen besötétedik.",
+                "ro": "O vizită solitară pe plajă iarna este minunată; întorceți-vă exact înainte de ora 17:00, înainte de a se întuneca brusc.",
+                "en": "A lonely beach visit in winter is wonderful; head back exactly before 5 PM before it suddenly gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "M: A nyugati peremeken autózva felfedezünk egy rejtett római villát, mielőtt megállnánk egy nyugodt, autentikus toszkán ebédre egy helyi kedvencnél.\nMD: Felhajtunk Cosa régészeti parkjába, felfedezzük kiterjedt romjait és a dedikált múzeumban őrzött lenyűgöző ősi műtárgyakat.\nA: Visszafelé a keleti partra tartva megállunk a középkori őrtoronynál és a híres római tengerparti villánál.\nE: Az autózás a festői Villa delle Colonne közelében ér véget, amely az ókori pompa utolsó pillanatait kínálja a sötétedő tenger hátterében.",
         "ro": "M: Conducând pe marginile vestice, descoperim o vilă romană ascunsă înainte de a ne opri pentru un prânz toscan autentic la un local popular.\nMD: Urcăm cu mașina până la parcul arheologic din Cosa, explorând ruinele sale vaste și artefactele fascinante adăpostite în muzeul dedicat.\nA: Îndreptându-ne înapoi spre coasta de est, ne oprim la turnul de veghe medieval și la ruinele maritime.\nE: Călătoria se încheie lângă pitoreasca Villa delle Colonne, oferind o ultimă privire a opulenței antice pe fundalul mării ce se întunecă.",
         "en": "M: Driving along the western edges, we discover a hidden Roman villa before stopping for a relaxed, authentic Tuscan lunch at a popular local establishment.\nMD: We drive up to the archaeological park of Cosa, exploring its sprawling ruins and the fascinating artifacts housed within the dedicated museum.\nA: Heading back towards the eastern coastline, we stop by the medieval watchtower and the famous Roman cutting at the Tagliata cliffside.\nE: The drive concludes near the picturesque Villa delle Colonne, offering a final glimpse of ancient opulence against the backdrop of the darkening sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "(Morgen) Wir fahren bequem im Regen zur römischen Villa und bleiben im Auto trocken. (Mittag) Das Museum bietet eine exzellente überdachte Pause vom Dauerregen in der Maremma. (Nachmittag) Wir erkunden die antiken Ruinen von Cosa mit kurzen Wegen zwischen Auto und Sehenswürdigkeit. (Abend) Wir beenden den Tag mit einer entspannten Fahrt über nasse Küstenstraßen.",
+            "hu": "(Reggel) Kényelmesen, az esőtől védve autózunk a római villához, szárazon maradva a kocsiban. (Délben) A múzeum kiváló fedett pihenőt nyújt a Maremma tartós esőzései elől. (Délután) Cosa antik romjait fedezzük fel, rövid sétákat téve az autó és a látnivalók között. (Este) A napot egy pihentető autózással zárjuk a vizes tengerparti utakon.",
+            "ro": "(Dimineață) Conducem confortabil prin ploaie spre vila romană, rămânând uscați în mașină. (Prânz) Muzeul oferă o pauză acoperită excelentă împotriva ploilor persistente din Maremma. (După-amiază) Explorăm ruinele antice din Cosa, făcând plimbări scurte între mașină și obiective. (Seară) Încheiem ziua cu o plimbare relaxantă cu mașina pe drumurile ude de coastă.",
+            "en": "(Morning) We drive comfortably in the rain to the Roman villa, staying dry inside the car. (Noon) The museum provides an excellent covered break from the persistent Maremma rains. (Afternoon) We explore the ancient ruins of Cosa, taking short walks between the car and the sights. (Evening) We end the day with a relaxing drive along the wet coastal roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "villa romana",
+                "hu": "villa romana",
+                "ro": "villa romana",
+                "en": "villa romana"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich und nutzen Sie einen Regenschirm für den kurzen Weg zu den Mosaiken der Villa.",
+                "hu": "Parkolj a lehető legközelebb, és használj esernyőt a villa mozaikjaihoz vezető rövid séta során.",
+                "ro": "Parcați cât mai aproape posibil și folosiți o umbrelă pentru scurta plimbare spre mozaicurile vilei.",
+                "en": "Park as close as possible and use an umbrella for the short walk to the mosaics of the villa."
+              }
+            },
+            {
+              "name": {
+                "de": "Al Cartello",
+                "hu": "Al Cartello",
+                "ro": "Al Cartello",
+                "en": "Al Cartello"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Blick vom Parkplatz aus reicht bei starkem Regen; genießen Sie die Aussicht aus dem trockenen Fahrzeug.",
+                "hu": "Heves esőben egy gyors pillantás a parkolóból is elég; élvezd a kilátást a száraz jármű ablakából.",
+                "ro": "O privire rapidă din parcare este suficientă în caz de ploaie torențială; admirați peisajul din mașina uscată.",
+                "en": "A quick look from the parking lot is enough in heavy rain; enjoy the view from the dry vehicle window."
+              }
+            },
+            {
+              "name": {
+                "de": "Cosa",
+                "hu": "Cosa",
+                "ro": "Cosa",
+                "en": "Cosa"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen der Oberstadt; achten Sie auf Pfützen auf den unbefestigten Parkplätzen am Eingang.",
+                "hu": "Fedezd fel a felsőváros romjait; ügyelj a tócsákra a bejáratnál található burkolatlan parkolóhelyeken.",
+                "ro": "Explorați ruinele orașului de sus; atenție la bălțile din parcările neasfaltate de la intrarea în sit.",
+                "en": "Explore the ruins of the upper city; watch out for puddles in the unpaved parking areas at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Cosa",
+                "hu": "Museo Archeologico Nazionale di Cosa",
+                "ro": "Museo Archeologico Nazionale di Cosa",
+                "en": "Museo Archeologico Nazionale di Cosa"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um dem Regen länger zu entfliehen; das Parken direkt am Museum ist sehr komfortabel.",
+                "hu": "Ez az ideális hely, hogy hosszabb időre elmenekülj az eső elől; a parkolás közvetlenül a múzeumnál nagyon kényelmes.",
+                "ro": "Acesta este locul ideal pentru a scăpa de ploaie mai mult timp; parcarea direct lângă muzeu este foarte confortabilă.",
+                "en": "This is the ideal place to escape the rain for a longer time; parking directly by the museum is very convenient."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di San Biagio",
+                "hu": "Torre di San Biagio",
+                "ro": "Torre di San Biagio",
+                "en": "Torre di San Biagio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des Turms im Regen; bleiben Sie auf festen Straßen, da Randstreifen bei Nässe weich sein können.",
+                "hu": "Élvezd a torony látványát az esőben; maradj a szilárd utakon, mert az útpadka nedvesen felpuhulhat.",
+                "ro": "Bucurați-vă de vederea turnului pe ploaie; rămâneți pe drumurile solide, deoarece marginile pot fi moi când sunt ude.",
+                "en": "Enjoy the view of the tower in the rain; stay on solid roads as the shoulders can become soft when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Marittima della Tagliata",
+                "hu": "Villa Marittima della Tagliata",
+                "ro": "Villa Marittima della Tagliata",
+                "en": "Villa Marittima della Tagliata"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang vom Auto zum Meeresufer lohnt sich trotz Regen für die tosende Brandung an den Ruinen.",
+                "hu": "Egy rövid séta az autótól a tengerpartig megéri az eső ellenére is a romoknál dübörgő hullámok látványáért.",
+                "ro": "O scurtă plimbare de la mașină la țărm merită în ciuda ploii pentru vederea valurilor izbindu-se de ruine.",
+                "en": "A short walk from the car to the shore is worth it despite the rain for the sight of waves crashing against the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa delle Colonne",
+                "hu": "Villa delle Colonne",
+                "ro": "Villa delle Colonne",
+                "en": "Villa delle Colonne"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie diese Villa als letzten Stopp; halten Sie einen Regenschirm bereit für den Weg zwischen den archäologischen Sektoren.",
+                "hu": "Látogasd meg ezt a villát utolsó állomásként; tarts készenlétben egy esernyőt a régészeti szektorok közötti sétaúthoz.",
+                "ro": "Vizitați această vilă ca ultimă oprire; țineți o umbrelă la îndemână pentru traseul dintre sectoarele arheologice.",
+                "en": "Visit this villa as your last stop; keep an umbrella ready for the path between the archaeological sectors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "(Morgen) Im beheizten Auto fahren wir zur römischen Villa und genießen die klare Winterlandschaft. (Mittag) Das Museum bietet eine angenehme Wärmepause während des kältesten Teils des Tages. (Nachmittag) Wir besuchen die Ruinen von Cosa und nutzen das optimale Licht vor dem frühen Sonnenuntergang. (Abend) Wir beenden unsere Wintertour vor 17 Uhr bei einsetzender Dämmerung.",
+            "hu": "(Reggel) A fűtött autóban utazunk a római villához, élvezve a tiszta téli tájat az ablakból. (Délben) A múzeum kellemes melegedőhelyet kínál a nap leghidegebb óráiban. (Délután) Meglátogatjuk Cosa romjait, kihasználva az optimális fényeket a korai naplemente előtt. (Este) Téli túránkat 17 óra előtt fejezzük be, ahogy elkezdődik az alkony a tenger felett.",
+            "ro": "(Dimineață) Călătorim în mașina încălzită spre vila romană, admirând peisajul clar de iarnă. (Prânz) Muzeul oferă un loc plăcut de încălzire în timpul celor mai reci ore ale zilei. (După-amiază) Vizităm ruinele din Cosa, profitând de lumina optimă înainte de apusul timpuriu. (Seară) Terminăm turul de iarnă înainte de ora 17:00, odată cu instalarea amurgului.",
+            "en": "(Morning) We travel in the heated car to the Roman villa, admiring the clear winter landscape. (Noon) The museum offers a pleasant warming spot during the coldest hours of the day. (Afternoon) We visit the ruins of Cosa, taking advantage of the optimal light before the early sunset. (Evening) We finish our winter tour before 5 PM as the twilight begins over the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "villa romana",
+                "hu": "villa romana",
+                "ro": "villa romana",
+                "en": "villa romana"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Villa im scharfen Winterlicht; die Heizung im Auto sorgt nach dem Rundgang schnell wieder für Wärme.",
+                "hu": "Nézd meg a villát az éles téli fényben; a séta után az autó fűtése gyorsan újra felmelegít majd.",
+                "ro": "Vizitați vila în lumina puternică de iarnă; după plimbare, încălzirea din mașină vă va oferi rapid confortul necesar.",
+                "en": "Visit the villa in the sharp winter light; after the walk, the car's heater will quickly warm you up again."
+              }
+            },
+            {
+              "name": {
+                "de": "Al Cartello",
+                "hu": "Al Cartello",
+                "ro": "Al Cartello",
+                "en": "Al Cartello"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht vom Aussichtspunkt; im Winter ist die Fernsicht über das Meer oft besonders klar und beeindruckend.",
+                "hu": "Élvezd a tágas kilátást a kilátópontról; télen a tenger feletti távoli kilátás gyakran különösen tiszta és lenyűgöző.",
+                "ro": "Bucurați-vă de vederea vastă de la punctul de observație; iarna, vizibilitatea spre mare este adesea deosebit de clară și impresionantă.",
+                "en": "Enjoy the expansive view from the lookout point; in winter, the distant view over the sea is often particularly clear and impressive."
+              }
+            },
+            {
+              "name": {
+                "de": "Cosa",
+                "hu": "Cosa",
+                "ro": "Cosa",
+                "en": "Cosa"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie Cosa ohne die Sommerhitze; parken Sie direkt am Eingang, um die Zeit im Freien vor Sonnenuntergang zu maximieren.",
+                "hu": "Fedezd fel Cosát a nyári hőség nélkül; parkolj közvetlenül a bejáratnál, hogy maximalizáld a kinti időt a naplemente előtt.",
+                "ro": "Explorați situl Cosa fără căldura verii; parcați chiar la intrare pentru a profita la maximum de timpul afară înainte de apus.",
+                "en": "Explore Cosa without the summer heat; park right at the entrance to maximize your time outside before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Cosa",
+                "hu": "Museo Archeologico Nazionale di Cosa",
+                "ro": "Museo Archeologico Nazionale di Cosa",
+                "en": "Museo Archeologico Nazionale di Cosa"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier einen längeren Aufenthalt ein, um sich aufzuwärmen; die Exponate sind im Winterlicht besonders gut zu betrachten.",
+                "hu": "Tervezz ide hosszabb tartózkodást a felmelegedéshez; a kiállítási tárgyak a téli fényben különösen jól megfigyelhetők.",
+                "ro": "Planificați o ședere mai lungă aici pentru a vă încălzi; exponatele sunt deosebit de bine puse în valoare de lumina de iarnă.",
+                "en": "Plan a longer stay here to warm up; the exhibits are particularly well-lit and visible in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di San Biagio",
+                "hu": "Torre di San Biagio",
+                "ro": "Torre di San Biagio",
+                "en": "Torre di San Biagio"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp am Turm bei tiefstehender Sonne; achten Sie auf glatte Stellen auf den Zufahrtsstraßen im Schatten.",
+                "hu": "Egy gyors fotómegálló a toronynál az alacsonyan járó napnál; ügyelj a csúszós foltokra az árnyékos bekötőutakon.",
+                "ro": "O oprire rapidă pentru fotografii la turn în lumina soarelui jos; atenție la porțiunile alunecoase de pe drumurile umbrite.",
+                "en": "A quick photo stop at the tower with the low sun; watch out for slippery patches on shaded access roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Marittima della Tagliata",
+                "hu": "Villa Marittima della Tagliata",
+                "ro": "Villa Marittima della Tagliata",
+                "en": "Villa Marittima della Tagliata"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Küstenruinen bei klarem Winterwetter; ziehen Sie sich warm an für den windigen Spaziergang am Wasser.",
+                "hu": "Fedezd fel a tengerparti romokat tiszta téli időben; öltözz fel melegen a vízparti szeles sétához.",
+                "ro": "Explorați ruinele de la malul mării pe vreme senină de iarnă; îmbrăcați-vă bine pentru plimbarea vântoasă de lângă apă.",
+                "en": "Explore the seaside ruins in clear winter weather; dress warmly for the windy walk by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa delle Colonne",
+                "hu": "Villa delle Colonne",
+                "ro": "Villa delle Colonne",
+                "en": "Villa delle Colonne"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die archäologische Stätte vor 17 Uhr; das Auto wartet am Ende mit einer angenehmen Temperatur auf Sie.",
+                "hu": "Látogasd meg a régészeti helyszínt 17 óra előtt; az autó a végén kellemes hőmérséklettel vár majd rád.",
+                "ro": "Vizitați situl arheologic înainte de ora 17:00; mașina vă va aștepta la final cu o temperatură plăcută în interior.",
+                "en": "Visit the archaeological site before 5 PM; the car will be waiting for you at the end with a pleasant temperature."
+              }
+            }
+          ]
+        }
       }
     }
   }

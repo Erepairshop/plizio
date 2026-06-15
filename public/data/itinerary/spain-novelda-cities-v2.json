@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a Casa Museo Modernista építészeti szépségének felfedezésével, amely egy igazi helyi gyöngyszem.\nDélben tekintse meg a Fundación Jorge Juan tudományos kiállításait, majd tartson egy csendes pihenőt az iglesia de San Roque templomban.\nDélutánját töltse az Auditorio Municipal élénk helyi művészeti színterének megismerésével.\nZárja a napot a Centre civic i social épületében, ahol Novelda közösségének igazi, mindennapi szelleme kel életre.",
         "ro": "Începeți ziua scufundându-vă în frumusețea arhitecturală a Casei Museo Modernista, o adevărată bijuterie locală.\nLa prânz, treceți la realizările științifice de la Fundación Jorge Juan, urmate de o reflecție liniștită la iglesia de San Roque.\nPetreceți-vă după-amiaza bucurându-vă de scena artistică locală vibrantă la Auditorio Municipal din centrul orașului.\nÎncheiați ziua mergând la Centre civic i social, unde spiritul de zi cu zi al comunității din Novelda prinde viață.",
         "en": "Begin your day immersing yourself in the architectural beauty of Casa Museo Modernista, a true local gem.\nBy midday, transition into the scientific achievements celebrated at Fundación Jorge Juan, followed by a quiet reflection at iglesia de San Roque.\nSpend your afternoon enjoying the vibrant local arts scene at Auditorio Municipal, right in the city center.\nConclude the day walking to the Centre civic i social, where the true everyday spirit of Novelda's community comes alive."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren nassen Morgen mit der Erkundung des Modernismus im Trockenen, um dem Regen auszuweichen. Mittags bietet sich eine historische Tour unter dem Regenschirm an. Der Nachmittag umfasst eine gemütliche Kirche und ein überdachtes Auditorium. Beenden Sie den Tag entspannt im trockenen, warmen Gemeindezentrum, fernab vom schlechten Wetter.",
+            "hu": "Kezdje az esős reggelt a lenyűgöző modernizmus zárt téri felfedezésével. A délidő történelmi kalandokat kínál egy jó vízálló kabátban. Délután egy hangulatos templom és egy fedett auditórium várja. A napot a száraz és barátságos közösségi házban zárhatja, kényelmesen elrejtőzve a kinti felhőszakadás elől.",
+            "ro": "Începeți dimineața ploioasă explorând modernismul la interior, feriți de picături. Prânzul aduce explorări istorice sub umbrelă, pe străzile ude. După-amiaza include o biserică primitoare și un auditoriu acoperit. Încheiați ziua relaxându-vă în centrul civic uscat, departe de vremea rea de afară.",
+            "en": "Begin your wet morning exploring stunning indoor modernism, dodging the raindrops. Midday brings historical exploration safely under an umbrella. Afternoon features a cozy church and a covered auditorium stop. End your day relaxing in the warm, dry civic center, comfortably away from the persistent downpour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Museo Modernista",
+                "hu": "Casa Museo Modernista",
+                "ro": "Casa Museo Modernista",
+                "en": "Casa Museo Modernista"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Jugendstil-Innenräume im Trockenen. Dieses überdachte Museum ist ideal, um dem Morgenregen zu entfliehen und komplett trocken zu bleiben.",
+                "hu": "Csodálja meg a szecessziós belső tereket teljesen szárazon. Ez a fedett múzeum ideális hely arra, hogy elmeneküljön a reggeli eső elől.",
+                "ro": "Admirați interioarele art nouveau la adăpost. Acest muzeu acoperit este un loc ideal pentru a scăpa de ploaia matinală și a vă păstra hainele uscate.",
+                "en": "Admire the beautiful art nouveau interiors perfectly dry. This covered museum is an ideal spot to escape the morning rain and keep your clothes waterproofed."
+              }
+            },
+            {
+              "name": {
+                "de": "Fundación Jorge Juan",
+                "hu": "Fundación Jorge Juan",
+                "ro": "Fundación Jorge Juan",
+                "en": "Fundación Jorge Juan"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungen über den berühmten Seefahrer drinnen. Es ist ein perfektes, lehrreiches Refugium an einem verregneten Mittag.",
+                "hu": "Fedezze fel a híres tengerészről szóló kiállítást a fedél alatt, amely tökéletes, száraz és informatív menedékként szolgál az esős délidőben.",
+                "ro": "Explorați expozițiile despre faimosul marinar la interior, transformând vizita într-un refugiu educativ perfect pentru o zi ploioasă.",
+                "en": "Explore exhibits about the famous mariner indoors, making this foundation a perfect and dry educational refuge during a rainy midday walk."
+              }
+            },
+            {
+              "name": {
+                "de": "iglesia de San Roque",
+                "hu": "iglesia de San Roque",
+                "ro": "iglesia de San Roque",
+                "en": "iglesia de San Roque"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese gemütliche Kirche ein, um den Regenschirm zu schließen und die friedliche Atmosphäre abseits der nassen Straßen zu genießen.",
+                "hu": "Lépjen be ebbe a hangulatos templomba megszáradni egy kicsit, miközben nyugodtan élvezi a békés légkört és a csapadékmentes építészetet.",
+                "ro": "Pășiți în această biserică primitoare pentru a vă usca, apreciind atmosfera liniștită departe de străzile reci și ude.",
+                "en": "Step inside this cozy church to dry off for a moment, appreciating the peaceful atmosphere and beautiful architecture away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Municipal",
+                "hu": "Auditorio Municipal",
+                "ro": "Auditorio Municipal",
+                "en": "Auditorio Municipal"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lokale Kultur in diesem komplett überdachten Raum, der eine sehr komfortable Pause von den nassen Spazierwegen bietet.",
+                "hu": "Élvezze a helyi kultúrát ebben a fedett térben, amely rendkívül kényelmes és száraz pihenőt nyújt a nedves utcákon való gyaloglás után.",
+                "ro": "Bucurați-vă de cultura locală în acest spațiu complet acoperit, oferind o pauză foarte confortabilă de la traseul pietonal ud.",
+                "en": "Enjoy local culture in this fully covered space, offering a very comfortable and dry break from navigating the wet city streets on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre civic i social",
+                "hu": "Centre civic i social",
+                "ro": "Centre civic i social",
+                "en": "Centre civic i social"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren nassen Spaziergang in diesem lebhaften Innenraum und wärmen Sie sich auf, während draußen der Regen weiterfällt.",
+                "hu": "Zárja esős sétáját ebben a zárt, meleg közösségi térben, kényelmesen elvegyülve és megszáradva, míg kint tovább esik az eső.",
+                "ro": "Încheiați plimbarea ploioasă în acest centru comunitar interior, relaxându-vă la adăpost în timp ce afară ploaia continuă să cadă.",
+                "en": "Finish your rainy walk relaxing in this indoor community hub, mingling and drying out completely while the bad weather persists outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kühler Wintermorgen beginnt im beheizten Museum. Mittags gibt es Historisches; kleiden Sie sich im Zwiebellook. Nachmittags werden die Schatten an der Kirche schnell länger. Der Abend bricht früh herein; Sie schließen den Tag im gemütlichen Gemeindezentrum ab, bevor es gegen 17:00 Uhr dunkel wird.",
+            "hu": "Egy csípős téli reggel indul a fűtött múzeumnál. A délidő történelmi felfedezést hoz, réteges öltözet javasolt. Délután a templom körül gyorsan nőnek az árnyékok a lemenő napfényben. Az este korán, 17:00 körül leszáll, így a napot egy kellemesen meleg közösségi központban zárhatja.",
+            "ro": "Dimineața rece de iarnă începe la muzeul încălzit. Prânzul aduce istorie; îmbrăcați-vă în straturi. După-amiaza, umbrele se lungesc rapid la biserică sub soarele palid. Seara cade devreme, încheind ziua la centrul civic călduros înainte de ora 17:00.",
+            "en": "A crisp winter morning starts comfortably at the heated modernist museum. Midday brings historical exploration; wearing warm layers is key. Afternoon shadows lengthen quickly around the church. Evening falls early, wrapping up the day at the heated civic center just before the 5:00 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Museo Modernista",
+                "hu": "Casa Museo Modernista",
+                "ro": "Casa Museo Modernista",
+                "en": "Casa Museo Modernista"
+              },
+              "tip_5lang": {
+                "de": "Die warmen Holzelemente und die angenehme Heizung bieten einen gemütlichen Start in Ihren kühlen Wintermorgen in der Stadt.",
+                "hu": "A meleg fa részletek és a belső fűtés otthonos, kellemes kezdést nyújtanak ezen a fagyos, csípős téli reggelen.",
+                "ro": "Detaliile calde din lemn și interiorul încălzit oferă un început primitor și confortabil pentru dimineața rece de iarnă.",
+                "en": "The intricate wooden details and heated interior offer a remarkably cozy start to your chilly winter morning exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Fundación Jorge Juan",
+                "hu": "Fundación Jorge Juan",
+                "ro": "Fundación Jorge Juan",
+                "en": "Fundación Jorge Juan"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Gebäude auf und entdecken Sie das maritime Erbe – ein hervorragender Rückzugsort vor dem eisigen Winterwind.",
+                "hu": "Melegedjen fel a benti kiállításon a tengerészeti örökség felfedezése közben, amely kiváló menedék a jeges téli szél elől.",
+                "ro": "Încălziți-vă la interior descoperind moștenirea maritimă, un refugiu excelent și educativ din calea vântului tăios de iarnă.",
+                "en": "Warm up indoors while discovering local maritime legacy, providing an excellent and fascinating retreat from the brisk winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "iglesia de San Roque",
+                "hu": "iglesia de San Roque",
+                "ro": "iglesia de San Roque",
+                "en": "iglesia de San Roque"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Innere bietet einen geschützten, warmen Halt, wenn die Wintersonne bereits am frühen Nachmittag tief am Himmel steht.",
+                "hu": "A csendes belső tér nyugodt, széltől védett megállót kínál, ahogy a téli nap már kora délután egyre lejjebb ereszkedik.",
+                "ro": "Interiorul liniștit oferă un popas adăpostit și cald pe măsură ce soarele de iarnă începe să coboare pe cer la începutul după-amiezii.",
+                "en": "The quiet interior provides a serene, wind-sheltered stop as the pale winter sun begins its early descent in the afternoon sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Municipal",
+                "hu": "Auditorio Municipal",
+                "ro": "Auditorio Municipal",
+                "en": "Auditorio Municipal"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das beheizte Auditorium, ein perfekter Halt auf Ihrem Spaziergang, wenn die Außentemperaturen nachmittags spürbar fallen.",
+                "hu": "Látogasson el a fűtött auditóriumba, ami tökéletes megálló a sétában, amikor a délutáni hőmérséklet drasztikusan csökkenni kezd.",
+                "ro": "Vizitați auditoriul încălzit, o oprire perfectă în plimbarea dvs. pe măsură ce temperaturile exterioare scad vizibil după-amiaza.",
+                "en": "Step into the heated auditorium for a cultural break, a perfect walking stop as the outdoor temperatures noticeably drop late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre civic i social",
+                "hu": "Centre civic i social",
+                "ro": "Centre civic i social",
+                "en": "Centre civic i social"
+              },
+              "tip_5lang": {
+                "de": "Ein beheizter, einladender Raum, um den Spaziergang aufzuwärmen, bevor der frühe Sonnenuntergang gegen 17:00 Uhr die Kälte bringt.",
+                "hu": "Fűtött, barátságos tér a séta lezárásához és felmelegedéshez, mielőtt a korai, 17:00 órai naplemente sötétséget és fagyot hozna.",
+                "ro": "Un spațiu încălzit și primitor pentru a vă încheia plimbarea, exact înainte ca apusul de la ora 17:00 să aducă frigul nopții.",
+                "en": "A heated, welcoming space to conclude your walking tour and warm up before the early 5:00 PM sunset plunges the city into darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpározást a látványos Casa Museo Modernista épületénél, mielőtt kelet felé, a nyüzsgő Piscina municipal felé venné az irányt.\nTekerjen vissza a központba egy déli történelemórára a Fundación Jorge Juanhoz, és egy békés megállóra az iglesia de San Roque-hoz.\nA délután hívogatja, hogy kerékpárral fedezze fel az Auditorio Parque del Oeste nyitott tereit.\nFejezze be kerékpáros kalandját a María Auxiliadora templom békés esti hangulatával.",
         "ro": "Începeți plimbarea la spectaculoasa Casa Museo Modernista înainte de a pedala spre est până la Piscina municipal.\nÎntoarceți-vă spre centru pentru o doză de istorie la amiază la Fundación Jorge Juan și o oprire pașnică la iglesia de San Roque.\nDupă-amiaza vă invită să explorați spațiile deschise ale Auditorio Parque del Oeste pe bicicletă.\nTerminați-vă aventura pe bicicletă cu ambianța senină de seară de la biserica María Auxiliadora.",
         "en": "Kick off your ride at the spectacular Casa Museo Modernista before cycling east to the lively Piscina municipal.\nPedal back towards the center for a midday dose of history at Fundación Jorge Juan and a peaceful stop at iglesia de San Roque.\nThe afternoon invites you to explore the open spaces of the Auditorio Parque del Oeste on your bike.\nFinish your cycling adventure with the serene evening ambiance at the María Auxiliadora church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie Ihre Regenkleidung für eine nasse Fahrt an. Der Morgen beginnt trocken im Museum, gefolgt von einem vorsichtigen Blick aufs Schwimmbad. Nachmittags radeln Sie zu historischen Orten. Seien Sie extrem vorsichtig auf rutschigen Straßen in Parknähe, bevor Sie die Fahrt beenden.",
+            "hu": "Vegye fel a vízálló felszerelést a nedves tekeréshez. A reggel zárt térben indul, majd egy gyors vizit az uszodánál. Délután történelmi és vallási helyszínek jönnek. Rendkívül óvatosan fékezzen a parkok körüli csúszós utakon, mielőtt befejezi a túrát!",
+            "ro": "Puneți-vă echipamentul de ploaie pentru o cursă udă. Dimineața începe la interior, urmată de o vizită rapidă la piscină. După-amiaza pedalați spre locuri istorice. Fiți extrem de atenți pe drumurile alunecoase de lângă parc înainte de a încheia plimbarea.",
+            "en": "Put on your best waterproof gear for a wet ride. Morning starts indoors, then a quick, damp visit to the pool area. Afternoon pedal to historical spots. Brake gently and be extremely careful on slippery roads near the parks before safely ending your cycling tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Museo Modernista",
+                "hu": "Casa Museo Modernista",
+                "ro": "Casa Museo Modernista",
+                "en": "Casa Museo Modernista"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher und schütteln Sie den Regenmantel ab, um die spektakuläre, trockene Architektur im Inneren zu genießen.",
+                "hu": "Parkolja le a bringát, rázza le az esőkabátot, és élvezze a látványos, száraz építészetet a múzeum meleg belső terében.",
+                "ro": "Parcați bicicleta și scuturați-vă pelerina de ploaie pentru a vă bucura de arhitectura spectaculoasă și uscată din interior.",
+                "en": "Park your bike safely, shake off your rain gear, and step inside to enjoy the spectacular, completely dry modernist architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina municipal",
+                "hu": "Piscina municipal",
+                "ro": "Piscina municipal",
+                "en": "Piscina municipal"
+              },
+              "tip_5lang": {
+                "de": "Werfen Sie nur einen kurzen Blick auf das Gelände. Seien Sie sehr vorsichtig beim Aufsteigen, da die nassen Wege hier extrem rutschig sind.",
+                "hu": "Bár a kinti úszás kizárt, nézze meg az uszodát. Legyen nagyon óvatos a nyeregbe pattanáskor, mert a vizes burkolat errefelé csúszik.",
+                "ro": "Aruncați o privire scurtă asupra zonei. Fiți foarte atenți când vă urcați înapoi pe bicicletă, deoarece aleile ude sunt extrem de alunecoase.",
+                "en": "View the pool area briefly from the outside. Be extremely careful getting back on your bike, as the wet surrounding paths are very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Fundación Jorge Juan",
+                "hu": "Fundación Jorge Juan",
+                "ro": "Fundación Jorge Juan",
+                "en": "Fundación Jorge Juan"
+              },
+              "tip_5lang": {
+                "de": "Ein einladender Unterstand, in dem Sie Ihre Fahrradausrüstung etwas trocknen können, während Sie in die lokale Geschichte eintauchen.",
+                "hu": "Kiváló fedett menedék, ahol egy kicsit megszáradhat a kerékpáros felszerelése, miközben elmerül a helyi tengerészeti történelemben.",
+                "ro": "Un adăpost primitor unde vă puteți usca parțial echipamentul de ciclism în timp ce descoperiți istoria locală.",
+                "en": "A welcoming indoor shelter where you can dry off your cycling gear a bit while diving deep into the fascinating local maritime history."
+              }
+            },
+            {
+              "name": {
+                "de": "iglesia de San Roque",
+                "hu": "iglesia de San Roque",
+                "ro": "iglesia de San Roque",
+                "en": "iglesia de San Roque"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie kurz Zuflucht in dieser historischen Kirche, um sich aufzuwärmen, bevor Sie sich wieder auf die nassen Straßen wagen.",
+                "hu": "Keressen egy rövid menedéket ebben a történelmi templomban, hogy felmelegedjen, mielőtt újra kimerészkedik a vizes, esős utakra.",
+                "ro": "Refugiați-vă scurt în această biserică istorică pentru a vă încălzi înainte de a înfrunta din nou străzile ude.",
+                "en": "Take a brief refuge inside this historic church to warm up and dry off before braving the wet and rainy cycling route once again."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Parque del Oeste",
+                "hu": "Auditorio Parque del Oeste",
+                "ro": "Auditorio Parque del Oeste",
+                "en": "Auditorio Parque del Oeste"
+              },
+              "tip_5lang": {
+                "de": "Die Parkwege sind bei Regen tückisch und schlammig. Bremsen Sie sanft und bleiben Sie auf befestigten Wegen in der Nähe des Auditoriums.",
+                "hu": "A parki utak esőben sarasak és trükkösek lehetnek. Fékezzen óvatosan, és maradjon a burkolt utakon az auditórium megközelítésekor.",
+                "ro": "Aleile parcului sunt noroioase pe ploaie. Frânați ușor și rămâneți pe drumurile pavate când vă apropiați de auditoriu.",
+                "en": "Park paths can be treacherous and muddy in the rain. Brake very gently and stick to paved surfaces when approaching the auditorium area."
+              }
+            },
+            {
+              "name": {
+                "de": "María Auxiliadora",
+                "hu": "María Auxiliadora",
+                "ro": "María Auxiliadora",
+                "en": "María Auxiliadora"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Radtour im Inneren dieser friedlichen Kirche, die ein ruhiges und vor allem trockenes Heiligtum bietet.",
+                "hu": "Fejezze be a nedves kerékpártúrát e békés templom belsejében, amely csendes, és ami a legfontosabb, teljesen száraz menedéket kínál.",
+                "ro": "Încheiați turul umed cu bicicleta în interiorul acestei biserici pașnice, oferind un sanctuar liniștit și, mai presus de toate, uscat.",
+                "en": "End your wet cycling tour safely inside this peaceful church, offering a quiet and, most importantly, completely dry sanctuary."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für eine klare Winterradtour. Die Morgensonne wärmt am Museum. Mittags fahren Sie zur historischen Stiftung und Kirche. Die Nachmittagsschatten werden schnell länger; radeln Sie zügig und vorsichtig zum Park, da es früh um 17:00 Uhr dunkel und kalt wird.",
+            "hu": "Öltözzön fel vastagon egy csípős téli kerékpározáshoz. A reggeli napfény a múzeumnál melegít. Délidőben jön a történelmi alapítvány és a templom. A délutáni árnyékok gyorsan nőnek; tekerjen óvatosan a park felé, mert 17:00-kor korán sötétedik és hirtelen lehűl a levegő.",
+            "ro": "Îmbrăcați-vă gros pentru o cursă de iarnă. Soarele dimineții vă încălzește la muzeu. La prânz pedalați spre fundație și biserică. Umbrele se lungesc rapid; pedalați cu atenție spre parc, deoarece se întunecă devreme la ora 17:00 și aerul devine rece.",
+            "en": "Bundle up securely for a crisp winter cycling tour. Morning sun warms you at the museum. Midday ride hits historical and religious indoor spots. Afternoon shadows lengthen fast; cycle cautiously to the park as early dusk hits around 5:00 PM, bringing a sudden chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Museo Modernista",
+                "hu": "Casa Museo Modernista",
+                "ro": "Casa Museo Modernista",
+                "en": "Casa Museo Modernista"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre kühle Radtour, indem Sie sich in diesem architektonischen Juwel aufwärmen und die Holzarbeiten ohne dicke Handschuhe bewundern.",
+                "hu": "Kezdje a fagyos bringatúrát úgy, hogy felmelegszik ebben az építészeti gyöngyszemben, leveheti a vastag kesztyűt is odabent.",
+                "ro": "Începeți cursa rece încălzindu-vă în această bijuterie arhitecturală, admirând detaliile din lemn fără mănușile groase de ciclism.",
+                "en": "Start your chilly bike ride by warming up inside this architectural gem, taking off your heavy gloves to admire the intricate woodwork."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina municipal",
+                "hu": "Piscina municipal",
+                "ro": "Piscina municipal",
+                "en": "Piscina municipal"
+              },
+              "tip_5lang": {
+                "de": "Die Außenanlagen sind im Winter frostig. Bleiben Sie in Bewegung, um warm zu bleiben, während Sie sich das Freizeitgelände ansehen.",
+                "hu": "A szabadtéri területek télen fagyosak lehetnek. Maradjon mozgásban a kerékpáron, hogy ne hűljön ki a szabadidős park megtekintése közben.",
+                "ro": "Zonele exterioare sunt geroase iarna. Rămâneți în mișcare pe bicicletă pentru a vă menține căldura în timp ce vizualizați terenurile.",
+                "en": "The outdoor areas will be brisk in winter. Keep moving on your bike to stay warm while briefly viewing the recreational grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Fundación Jorge Juan",
+                "hu": "Fundación Jorge Juan",
+                "ro": "Fundación Jorge Juan",
+                "en": "Fundación Jorge Juan"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie Ihre dicke Radjacke aus und genießen Sie das beheizte Innere, während Sie in die lokale Geschichte eintauchen.",
+                "hu": "Vegye le a vastag kerékpáros dzsekit, és élvezze a fűtött belső teret, miközben elmerül a helyi történelem izgalmas részleteiben.",
+                "ro": "Dați jos geaca groasă de ciclism și bucurați-vă de interiorul încălzit în timp ce explorați istoria maritimă locală.",
+                "en": "Take off your heavy cycling jacket and enjoy the deeply heated interior while exploring fascinating local maritime history."
+              }
+            },
+            {
+              "name": {
+                "de": "iglesia de San Roque",
+                "hu": "iglesia de San Roque",
+                "ro": "iglesia de San Roque",
+                "en": "iglesia de San Roque"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus dem kalten Fahrtwind in die ruhige, windgeschützte Umgebung dieses wunderschönen religiösen Gebäudes.",
+                "hu": "Lépjen ki a metsző, hideg menetszélből, és találjon menedéket ennek a gyönyörű vallási épületnek a szélvédett, nyugodt falai között.",
+                "ro": "Pășiți din vântul rece de pe bicicletă în mediul liniștit și ferit de curenți al acestei frumoase clădiri religioase.",
+                "en": "Step out of the cold cycling headwind and into the serene, wind-sheltered environment of this beautiful historic religious building."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Parque del Oeste",
+                "hu": "Auditorio Parque del Oeste",
+                "ro": "Auditorio Parque del Oeste",
+                "en": "Auditorio Parque del Oeste"
+              },
+              "tip_5lang": {
+                "de": "Radfahren Sie vorsichtig, da sich in den schattigen Parkbereichen oft Frost bildet. Genießen Sie die klare, sehr kalte Winterluft hier.",
+                "hu": "Tekerjen nagyon óvatosan, mert az árnyékos parki részeken délutánra dér képződhet. Készüljön fel a nagyon hideg téli levegőre.",
+                "ro": "Pedalați cu prudență, deoarece bruma se formează adesea în zonele umbrite ale parcului. Aerul de iarnă este foarte rece aici.",
+                "en": "Cycle cautiously as frost can quickly form in the shaded park areas late in the day. Brace for the crisp, very cold winter air here."
+              }
+            },
+            {
+              "name": {
+                "de": "María Auxiliadora",
+                "hu": "María Auxiliadora",
+                "ro": "María Auxiliadora",
+                "en": "María Auxiliadora"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt hier, genau dann, wenn die frühe Winterdämmerung gegen 17:00 Uhr einsetzt, und machen Sie eine letzte warme Pause.",
+                "hu": "Fejezze be a túrát itt, épp amikor a korai téli alkonyat 17:00 körül beköszönt, és tartson egy utolsó, felmelegítő pihenőt odabent.",
+                "ro": "Încheiați cursa aici, exact când amurgul devreme de iarnă se lasă în jur de ora 17:00, luând o ultimă pauză caldă înăuntru.",
+                "en": "Finish your ride here just as the early winter dusk sets in tightly around 5:00 PM, taking a final, well-deserved warm break inside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje az utazást a híres Casa Museo Modernista épületénél, majd tegyen egy gyors kitérőt a Piscina municipal környékére.\nNavigáljon vissza a történelmi központba, hogy meglátogassa a Fundación Jorge Juant és a közeli iglesia de San Roque-t.\nKésőbb vezessen a város nyugati része felé, hogy élvezze az Auditorio Parque del Oeste természeti szépségeit.\nParkoljon le a María Auxiliadora közelében a nap végén, és élvezze ennek a déli nevezetességnek a békés hangulatát.",
         "ro": "Începeți condusul la renumita Casa Museo Modernista, urmată de o scurtă excursie la zona Piscina municipal.\nNavigați înapoi în centrul istoric pentru a vizita Fundación Jorge Juan și biserica din apropiere iglesia de San Roque.\nMai târziu, conduceți spre partea de vest a orașului pentru a vă bucura de frumusețea naturală a Auditorio Parque del Oeste.\nParcați lângă María Auxiliadora la închiderea zilei, bucurându-vă de atmosfera liniștită a acestui reper sudic.",
         "en": "Start your drive at the renowned Casa Museo Modernista, followed by a quick trip to the Piscina municipal area.\nNavigate back to the historical core to visit the engaging Fundación Jorge Juan and the nearby iglesia de San Roque.\nLater, drive towards the western side of town to enjoy the architectural and natural beauty of Auditorio Parque del Oeste.\nPark near María Auxiliadora as the day closes, enjoying the peaceful atmosphere of this southern landmark."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem durch die nassen Straßen von Novelda. Der Morgen beginnt am Museum, gefolgt von einem schnellen Blick aufs Schwimmbad. Fahren Sie sicher zu den Kirchen und zum Park und genießen Sie die Autoheizung zwischen den kurzen, nassen Fußwegen nach draußen.",
+            "hu": "Vezessen kényelmesen Novelda vizes utcáin. A reggel a múzeumban indul, majd a medence következik. Vezessen biztonságosan a templomokhoz és a parkhoz, és élvezze az autó kellemes fűtését a kinti esős, esernyős séták között.",
+            "ro": "Conduceți confortabil pe străzile ude. Dimineața începe la muzeu, urmată de o privire la piscină. Conduceți în siguranță spre biserici și parc, bucurându-vă de căldura mașinii între scultele plimbări ploioase pe afară.",
+            "en": "Drive comfortably and stay dry navigating the wet streets. Morning starts at the museum, followed by a quick look at the pool. Drive safely to the churches and park, enjoying the car's heater between your brief, rainy outdoor excursions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Museo Modernista",
+                "hu": "Casa Museo Modernista",
+                "ro": "Casa Museo Modernista",
+                "en": "Casa Museo Modernista"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen Regenschirm für den kurzen Weg vom Parkplatz mit, um die völlig trockene, spektakuläre Architektur im Museum zu bewundern.",
+                "hu": "Vigyen magával esernyőt a parkolótól tartó rövid sétára, hogy bent teljesen szárazon élvezhesse a látványos építészetet.",
+                "ro": "Luați o umbrelă pentru scurta plimbare de la mașină, pentru a admira arhitectura spectaculoasă și uscată din muzeu.",
+                "en": "Bring a sturdy umbrella for the short walk from your car to admire the spectacular, completely dry modernist architecture inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina municipal",
+                "hu": "Piscina municipal",
+                "ro": "Piscina municipal",
+                "en": "Piscina municipal"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Gelände bequem aus dem Auto oder unter einem Schirm, da das nasse Wetter die Aktivitäten im Freien stark einschränkt.",
+                "hu": "Nézze meg a területet kényelmesen az autóból vagy egy esernyő alól, mivel a nedves, esős időjárás jelentősen korlátozza a kinti programokat.",
+                "ro": "Priviți zona rapid din confortul mașinii sau sub o umbrelă, deoarece vremea ploioasă limitează mult recreerea în aer liber.",
+                "en": "View the grounds quickly from the comfort of your car or under an umbrella, as the rainy weather limits any outdoor recreation here."
+              }
+            },
+            {
+              "name": {
+                "de": "Fundación Jorge Juan",
+                "hu": "Fundación Jorge Juan",
+                "ro": "Fundación Jorge Juan",
+                "en": "Fundación Jorge Juan"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und betreten Sie diesen einladenden Unterstand, um trockenen Fußes mehr über Noveldas berühmten Sohn zu erfahren.",
+                "hu": "Parkoljon a közelben, és lépjen be ebbe a hívogató, fedett menedékbe, hogy száraz lábbal tanulhasson Novelda híres szülöttjéről.",
+                "ro": "Parcați aproape și pășiți în acest adăpost primitor pentru a învăța despre fiul faimos al orașului Novelda, departe de ploaie.",
+                "en": "Park nearby and step quickly into this welcoming indoor shelter to learn about Novelda's famous son completely away from the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "iglesia de San Roque",
+                "hu": "iglesia de San Roque",
+                "ro": "iglesia de San Roque",
+                "en": "iglesia de San Roque"
+              },
+              "tip_5lang": {
+                "de": "Die kurze Autofahrt hält Sie trocken, bevor Sie diese historische Kirche für einen sehr friedlichen, regengeschützten Besuch betreten.",
+                "hu": "A rövid autóút szárazon tartja, mielőtt belépne ebbe a történelmi templomba egy rendkívül békés, esőtől védett látogatásra.",
+                "ro": "Scurtul drum cu mașina vă ține uscat înainte de a păși în această biserică istorică pentru o vizită pașnică, ferită de ploaie.",
+                "en": "The short, comfortable drive keeps you perfectly dry before stepping into this historic church for a peaceful, rain-free interior visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Parque del Oeste",
+                "hu": "Auditorio Parque del Oeste",
+                "ro": "Auditorio Parque del Oeste",
+                "en": "Auditorio Parque del Oeste"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist jetzt nass und schlammig. Bleiben Sie auf befestigten Wegen oder betrachten Sie das Auditorium aus der Ferne von Ihrem Auto aus.",
+                "hu": "A park területe nedves és saras. Maradjon a burkolt utakon, vagy tekintse meg az auditórium szerkezetét biztonságos távolságból, az autóból.",
+                "ro": "Parcul este ud și noroios. Rămâneți pe aleile pavate sau vizualizați structura auditoriului de la distanță, eventual din mașină.",
+                "en": "The park area is heavily wet and muddy. Stick firmly to the paved paths or view the auditorium structure safely from a distance."
+              }
+            },
+            {
+              "name": {
+                "de": "María Auxiliadora",
+                "hu": "María Auxiliadora",
+                "ro": "María Auxiliadora",
+                "en": "María Auxiliadora"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regen zu vermeiden, und beenden Sie Ihren Tag in der ruhigen, absolut trockenen Umgebung der Kirche.",
+                "hu": "Parkoljon közel a bejárathoz az eső elkerülése végett, és fejezze be a napot a templom csendes, tökéletesen száraz szentélyében.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia și încheiați-vă ziua în sanctuarul liniștit și complet uscat al acestei biserici.",
+                "en": "Park as close to the entrance as possible to avoid the rain, ending your day safely in the quiet, completely dry sanctuary of this church."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine beheizte Fahrt zwischen den Sehenswürdigkeiten an einem Wintertag. Die morgendlichen Besuche sind warm. Mittags bieten historische und religiöse Stopps gemütliche Innenräume. Schließen Sie den Tag am Park und in der letzten Kirche ab, bevor es gegen 17:00 Uhr rasch dunkel wird.",
+            "hu": "Élvezze a fűtött autózást a látnivalók között ezen a csípős téli napon. A reggeli látogatások kényelmesek. Délidőben a történelmi és vallási megállók otthonos belső tereket kínálnak. Zárja a napot a parknál és az utolsó templomnál, mielőtt 17:00 körül hirtelen besötétedik.",
+            "ro": "Bucurați-vă de o cursă încălzită între obiective într-o zi rece de iarnă. Vizitele matinale sunt confortabile. La prânz aveți opriri istorice și religioase la interior. Încheiați la parc și ultima biserică înainte de apusul rapid de la ora 17:00.",
+            "en": "Enjoy a heavily heated drive between sights on a crisp winter day. Morning visits are perfectly comfortable. Midday historical and religious stops offer delightfully warm interiors. Wrap up at the park and final church just before the early winter sunset darkens everything around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Museo Modernista",
+                "hu": "Casa Museo Modernista",
+                "ro": "Casa Museo Modernista",
+                "en": "Casa Museo Modernista"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie aus dem warmen Auto und genießen Sie sofort das beheizte Innere dieses architektonischen Juwels an diesem kalten Morgen.",
+                "hu": "Szálljon ki a meleg autóból, és azonnal élvezze ennek az építészeti gyöngyszemnek a fűtött belső terét ezen a fagyos téli reggelen.",
+                "ro": "Ieșiți din mașina caldă și bucurați-vă imediat de interiorul încălzit al acestei bijuterii arhitecturale în această dimineață rece.",
+                "en": "Step out of your heated car and immediately enjoy the cozy, warm interior of this architectural gem on a crisp winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina municipal",
+                "hu": "Piscina municipal",
+                "ro": "Piscina municipal",
+                "en": "Piscina municipal"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp an der frostigen Winterluft; Sie werden es sehr schätzen, nach der Besichtigung wieder ins beheizte Auto zu steigen.",
+                "hu": "Egy rövid megálló a csípős téli levegőn; nagyon fogja értékelni, amikor a nézelődés után visszapattanhat a fűtött, meleg autóba.",
+                "ro": "O scurtă oprire în aerul rece de iarnă; veți aprecia enorm să vă urcați înapoi în mașina încălzită după vizualizarea terenurilor.",
+                "en": "A quick outdoor stop in the brisk winter air; you'll strongly appreciate hopping back into your heated car after viewing the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Fundación Jorge Juan",
+                "hu": "Fundación Jorge Juan",
+                "ro": "Fundación Jorge Juan",
+                "en": "Fundación Jorge Juan"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierenden Ausstellungen über Jorge Juan in einer gemütlichen, warmen Umgebung abseits der kalten Winterbrise.",
+                "hu": "Fedezze fel a Jorge Juanról szóló lenyűgöző kiállítást egy barátságos, meleg környezetben, távol a metsző, hideg téli széltől.",
+                "ro": "Explorați expozițiile fascinante despre Jorge Juan într-un mediu confortabil și cald, departe de briza rece de iarnă.",
+                "en": "Explore the fascinating maritime exhibits in a cozy, exceptionally warm environment well away from the biting outside winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "iglesia de San Roque",
+                "hu": "iglesia de San Roque",
+                "ro": "iglesia de San Roque",
+                "en": "iglesia de San Roque"
+              },
+              "tip_5lang": {
+                "de": "Verlassen Sie die klare Winterluft und betreten Sie die ruhige, windgeschützte Umgebung dieses wunderschönen religiösen Gebäudes.",
+                "hu": "Hagyja maga mögött a hideg téli levegőt, és lépjen be ennek a gyönyörű vallási épületnek a szélvédett, rendkívül csendes terébe.",
+                "ro": "Lăsați în urmă aerul rece de iarnă și pășiți în mediul liniștit, ferit de curenți al acestei frumoase clădiri religioase.",
+                "en": "Leave the crisp winter air behind and step comfortably into the serene, draft-sheltered environment of this beautiful religious building."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Parque del Oeste",
+                "hu": "Auditorio Parque del Oeste",
+                "ro": "Auditorio Parque del Oeste",
+                "en": "Auditorio Parque del Oeste"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an für den kurzen Weg vom Parkplatz, da der Park am späten Nachmittag ohne Sonnenschein sehr frostig wird.",
+                "hu": "Öltözzön fel melegen a parkolótól tartó rövid sétára, mert a park a késő délutáni órákban a napsütés hiánya miatt rendkívül fagyossá válik.",
+                "ro": "Îmbrăcați-vă gros pentru scurta plimbare de la parcare, deoarece parcul devine foarte friguros după-amiaza târziu fără soare.",
+                "en": "Dress warmly for the short walk from your parking spot, as the large park gets incredibly chilly as the afternoon sun fades away."
+              }
+            },
+            {
+              "name": {
+                "de": "María Auxiliadora",
+                "hu": "María Auxiliadora",
+                "ro": "María Auxiliadora",
+                "en": "María Auxiliadora"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Auto-Tour hier, genau dann, wenn die frühe Winterdämmerung um 17:00 Uhr einsetzt, und machen Sie eine warme Pause im Inneren.",
+                "hu": "Zárja az autós túrát itt, épp amikor a korai téli alkonyat 17:00-kor leszáll a városra, és tartson egy utolsó, felmelegítő pihenőt odabent.",
+                "ro": "Încheiați turul cu mașina aici, exact când amurgul devreme se lasă la ora 17:00, luând o ultimă pauză caldă și relaxantă înăuntru.",
+                "en": "Wrap up your driving tour here just as the early winter dusk tightly sets in around 5:00 PM, taking a final warm and relaxing break inside."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A reggel a kikötő közelében, a Terme del Porto történelmi romjainál indul, majd a La Punzesa öböl nyugodt vizénél folytatódik egy pihentető szünettel. Délben a híres Rena Bianca városi strand várja, ahol a hófehér homokban gyönyörködhet. Délután egy kellemes séta vezet a festői Santa Reparata öbölhöz, majd a napot a Rena di levante védett partján zárja a lemenő nap fényeiben.",
         "ro": "Dimineața începe lângă port la Terme del Porto, unde istoria întâlnește briza mării, urmată de o pauză relaxantă la La Punzesa. La amiază, plaja faimoasă a orașului, Rena Bianca, vă așteaptă cu nisipul său alb și strălucitor. După-amiaza faceți o drumeție scurtă către golful pitoresc Santa Reparata. Ziua se încheie liniștit pe plaja protejată Rena di levante, sub razele blânde ale soarelui.",
         "en": "Your morning starts near the harbor at Terme del Porto, blending history with a sea breeze, followed by a relaxed break at La Punzesa. At midday, the famous Rena Bianca awaits with its stunning white sands and clear waters. In the afternoon, you'll hike a bit further to reach the picturesque bay of Santa Reparata. The day concludes peacefully at the sheltered shores of Rena di levante."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Hafen bieten die Cafés Schutz vor dem ersten Regenschauer, während die Fähren im Dunst ankommen. Mittags laden die überdachten Arkaden im Zentrum zum Verweilen ein, fernab der nassen Straßen. Am Nachmittag erleben Sie die raue Küste in einem dramatischen Graublau, ideal für kurze Spaziergänge mit Schirm. Abends spiegelt sich das warme Licht der Laternen malerisch in den Pfützen.",
+            "hu": "Reggel a kikötőben a sűrű felhők drámai hangulatot árasztanak, érdemes vízhatlan cipőben és esőkabáttal indulni. Délben a városka szűk utcáin keresünk menedéket a hangulatos trattoriák fedett teraszai alatt. Délután a tengerparti sziklák között az eső illata frissítő, de a köveken fokozottan vigyázzunk. Estére a kikötői fények megcsillannak a vizes aszfalton, tökéletes lezárása a napnak.",
+            "ro": "Dimineața în port, cafenelele oferă adăpost împotriva ploii, în timp ce feriboturile sosesc prin ceață. La prânz, arcadele din centru sunt ideale pentru a evita străzile ude. După-amiaza, coasta sălbatică capătă o nuanță dramatică de albastru-gri, perfectă pentru plimbări scurte cu umbrela. Seara, luminile calde ale felinarelor se oglindesc pitoresc în bălțile de pe străzile pavate.",
+            "en": "In the morning, the harbor cafes provide shelter from the first showers as ferries arrive through the mist. At noon, the covered walkways in the center invite you to linger away from the wet streets. In the afternoon, experience the rugged coast in a dramatic gray-blue, ideal for short umbrella walks. By evening, the warm streetlights reflect picturesquely in the puddles on the ground."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Terme del Porto",
+                "hu": "Terme del Porto",
+                "ro": "Terme del Porto",
+                "en": "Terme del Porto"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer vom geschützten Hafenbecken aus; die Brandung gegen die Mole ist bei Regen besonders beeindruckend und fotogen.",
+                "hu": "Figyelje meg a viharos tengert a védett kikötői medencéből; a gátnak csapódó hullámok esőben különösen látványosak és fotogének a szürke ég alatt.",
+                "ro": "Observați marea învolburată din bazinul protejat al portului; valurile care se sparg de dig sunt deosebit de impresionante și fotogenice pe ploaie.",
+                "en": "Watch the stormy sea from the protected harbor basin; the waves crashing against the pier are particularly impressive and photogenic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "La Punzesa",
+                "hu": "La Punzesa",
+                "ro": "La Punzesa",
+                "en": "La Punzesa"
+              },
+              "tip_5lang": {
+                "de": "Die Granitfelsen leuchten bei Nässe in tiefen Farben; nutzen Sie die kurzen Regenpausen für einen Blick auf das Meer, aber Vorsicht vor Rutschgefahr.",
+                "hu": "A gránitsziklák nedvesen mély színekben tündökölnek; használja ki a rövid esőszüneteket a panorámához, de ügyeljen a rendkívül csúszós felületekre.",
+                "ro": "Stâncile de granit strălucesc în culori intense când sunt ude; profitați de pauzele scurte de ploaie pentru panoramă, dar atenție la suprafețele alunecoase.",
+                "en": "The granite rocks glow in deep colors when wet; take advantage of short breaks in the rain for views, but be careful of very slippery surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena Bianca",
+                "hu": "Rena Bianca",
+                "ro": "Rena Bianca",
+                "en": "Rena Bianca"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Sand wirkt bei Regen fast mystisch; genießen Sie die Aussicht von der nahen Bar aus, um trocken zu bleiben und die Brandung zu sehen.",
+                "hu": "A fehér homok esőben szinte misztikus látványt nyújt; élvezze a kilátást a közeli bárból, hogy szárazon maradva csodálhassa a tajtékzó hullámokat.",
+                "ro": "Nisipul alb pare aproape mistic în ploaie; bucurați-vă de priveliște de la barul din apropiere pentru a rămâne uscat în timp ce priviți valurile.",
+                "en": "The white sand looks almost mystical in the rain; enjoy the view from the nearby bar to stay dry while watching the churning white waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Reparata",
+                "hu": "Santa Reparata",
+                "ro": "Santa Reparata",
+                "en": "Santa Reparata"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet einen spirituellen Zufluchtsort vor dem Wind; lauschen Sie dem Prasseln des Regens auf das alte Dach in völliger Stille.",
+                "hu": "A kis kápolna spirituális menedéket nyújt a szél elől; hallgassa az eső kopogását a régi tetőn a teljes csendben, messze a város zajától.",
+                "ro": "Mica capelă oferă un refugiu spiritual împotriva vântului; ascultați ropotul ploii pe acoperișul vechi în liniște deplină, departe de agitație.",
+                "en": "The small chapel offers a spiritual refuge from the wind; listen to the patter of rain on the old roof in complete silence, far from the crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena di levante",
+                "hu": "Rena di levante",
+                "ro": "Rena di levante",
+                "en": "Rena di levante"
+              },
+              "tip_5lang": {
+                "de": "Die Ostküste zeigt sich bei Regen wild und ungezähmt; ein kurzer Gang zum Ufer lohnt sich für die frische, salzige Luft unter festem Schutz.",
+                "hu": "A keleti part esőben vad és zabolátlan arcát mutatja; egy rövid séta a part mentén megéri a friss, sós levegőért, de legyen kéznél erős esernyő.",
+                "ro": "Coasta de est își arată latura sălbatică în ploaie; o scurtă plimbare pe țărm merită pentru aerul proaspăt și sărat, dar folosiți o umbrelă rezistentă.",
+                "en": "The east coast shows its wild and untamed side in the rain; a short walk along the shore is worth it for the fresh, salty air under good cover."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch mit einer klaren Brise vom Meer, die die Sinne weckt. Mittags wärmt die tiefstehende Sonne die Granitfelsen und lädt zu einem ausgiebigen Essen in einer gemütlichen Taverne ein. Der Nachmittag gehört der stillen Natur, wenn das Licht golden wird. Da die Sonne bereits gegen 17:00 Uhr untergeht, endet der Tag früh bei einem Glas Rotwein am Kamin.",
+            "hu": "A téli reggel friss, tiszta tengeri széllel indul, amely felébreszti az érzékeket a kikötőben. Délben az alacsonyan járó nap melegíti a gránitsziklákat, ideális idő egy hosszú ebédhez egy fűtött trattoriában. A délután a csendes természeté, amikor a fények aranyszínűvé válnak a parton. Mivel 17:00 körül sötétedik, a nap korán, egy pohár vörösbor mellett ér véget.",
+            "ro": "Dimineața de iarnă începe proaspăt, cu o briză marină limpede care trezește simțurile în port. La prânz, soarele blând încălzește stâncile de granit, fiind momentul ideal pentru un prânz lung. După-amiaza este dedicată naturii liniștite, când lumina devine aurie pe țărm. Deoarece soarele apune în jur de ora 17:00, ziua se încheie devreme cu un vin roșu.",
+            "en": "The winter morning starts fresh with a clear sea breeze that awakens the senses at the harbor. At noon, the low sun warms the granite rocks, ideal for a long lunch in a cozy tavern. The afternoon belongs to quiet nature as the light turns golden on the shore. Since the sun sets around 17:00, the day ends early with a glass of red wine by a fireplace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Terme del Porto",
+                "hu": "Terme del Porto",
+                "ro": "Terme del Porto",
+                "en": "Terme del Porto"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und die freie Sicht auf Korsika; eine warme Windjacke ist hier unerlässlich, da die Brise im Winter recht schneidend ist.",
+                "hu": "Élvezze a tiszta téli levegőt és a zavartalan kilátást Korzikára; egy meleg széldzseki itt elengedhetetlen, mert a tengeri szél ilyenkor metsző lehet.",
+                "ro": "Bucurați-vă de aerul curat de iarnă și de vederea clară spre Corsica; o jachetă călduroasă este esențială, deoarece briza poate fi tăioasă în acest sezon.",
+                "en": "Enjoy the crisp winter air and the unobstructed view of Corsica; a warm windbreaker is essential here as the sea breeze can be quite biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "La Punzesa",
+                "hu": "La Punzesa",
+                "ro": "La Punzesa",
+                "en": "La Punzesa"
+              },
+              "tip_5lang": {
+                "de": "Die Granitlandschaft wirkt im Winterlicht besonders plastisch; nutzen Sie die Mittagssonne für Fotos, bevor die Schatten am frühen Nachmittag länger werden.",
+                "hu": "A gránit táj a téli fényben különösen plasztikusnak tűnik; használja ki a déli napsütést a fotózáshoz, mielőtt a kora délutáni árnyékok megnyúlnának.",
+                "ro": "Peisajul de granit pare deosebit de sculptural în lumina iernii; profitați de soarele de la prânz pentru fotografii înainte ca umbrele să se lungească.",
+                "en": "The granite landscape looks particularly sculptural in the winter light; take advantage of the midday sun for photos before shadows lengthen early."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena Bianca",
+                "hu": "Rena Bianca",
+                "ro": "Rena Bianca",
+                "en": "Rena Bianca"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen einsamen Strandspaziergang auf dem kühlen Sand; die Ruhe ohne Sommertouristen ist magisch, aber tragen Sie Schichten gegen die Kälte.",
+                "hu": "Tegyen egy magányos sétát a hűvös homokos parton; a nyári turisták nélküli csend varázslatos, de viseljen több réteg ruhát a hűvös szél ellen.",
+                "ro": "Faceți o plimbare solitară pe nisipul rece; liniștea fără turiștii de vară este magică, dar purtați straturi de haine împotriva vântului răcoros.",
+                "en": "Take a solitary walk on the cool sandy beach; the silence without summer tourists is magical, but wear layers to protect against the chilly breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Reparata",
+                "hu": "Santa Reparata",
+                "ro": "Santa Reparata",
+                "en": "Santa Reparata"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche ist im Winter ein Ort tiefer Stille; ideal für einen Moment der Einkehr, bevor die frühe Dämmerung die Bucht in Blau taucht.",
+                "hu": "A kis templom télen a mély csend szigete; ideális hely az elcsendesedéshez, mielőtt a korai szürkület kékbe öltöztetné az egész öblöt.",
+                "ro": "Mica biserică este un loc de liniște profundă iarna; ideal pentru un moment de reflexie înainte ca amurgul timpuriu să scalde golful în albastru.",
+                "en": "The small church is a place of deep silence in winter; ideal for a moment of reflection before the early twilight bathes the bay in blue hues."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena di levante",
+                "hu": "Rena di levante",
+                "ro": "Rena di levante",
+                "en": "Rena di levante"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie hier den Sonnenuntergang gegen 17:00 Uhr; die winterlichen Pastellfarben am Himmel sind spektakulär und bieten ein tolles Panorama.",
+                "hu": "Nézze meg itt a naplementét 17:00 körül; a téli pasztellszínek az égen lenyűgözőek és látványos panorámát nyújtanak a nap zárásaként.",
+                "ro": "Urmăriți apusul aici în jurul orei 17:00; culorile pastelate de iarnă ale cerului sunt spectaculoase și oferă o panoramă superbă la final de zi.",
+                "en": "Watch the sunset here around 17:00; the winter pastel colors in the sky are spectacular and offer a great panorama to end your day walk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpárral gyorsan eléri a La Punzesa öblöt, majd a népszerű Rena Bianca strandra teker, hogy megcsodálja a türkizkék vizet. Délben a Santa Reparata öbölhöz ér, amely kiváló hely egy hosszabb pihenőre. Délután felfedezi a földszoros mindkét strandját, a Rena di ponentét és a Rena di levantét. Este visszatér a központ felé, és a túrát a történelmi kikötőnél, a Terme del Porto mellett fejezi be.",
         "ro": "Cu bicicleta porniți rapid spre La Punzesa și apoi spre populara Rena Bianca pentru a admira apa turcoaz. La amiază pedalați către Santa Reparata, un loc excelent pentru o pauză mai lungă. După-amiaza explorați ambele plaje ale istmului, Rena di ponente și Rena di levante. Seara vă întoarceți spre centru, încheind turul lângă portul istoric la Terme del Porto.",
         "en": "Set off on your bike to La Punzesa and then ride to the popular Rena Bianca to admire its striking turquoise waters. Midday brings you to Santa Reparata, an excellent spot for a longer rest. In the afternoon, explore both sweeping beaches of the isthmus, Rena di ponente and Rena di levante. As evening falls, pedal back towards the center, finishing your tour near the historic port area."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer vorsichtigen Fahrt auf feuchten Straßen, wobei die Bremsen geprüft werden sollten. Mittags bietet die hügelige Landschaft mit tief hängenden Wolken ein mystisches Panorama, perfekt für kurze Stopps unter Vordächern. Am Nachmittag intensiviert der Regen den Duft der Macchia, während Sie zu den Küstenpunkten radeln. Den Abend lassen Sie bei einem heißen Getränk ausklingen.",
+            "hu": "A nap óvatos tekeréssel indul a nedves utakon, érdemes előtte ellenőrizni a fékeket a csúszós aszfalt miatt. Délben a dombos táj az alacsonyan szálló felhőkkel misztikus panorámát nyújt, jó alkalom egy fedett kávézó felkeresésére. Délután az eső felerősíti a mediterrán növények illatát a parton. Az estét egy forró ital mellett, fedett helyen zárjuk.",
+            "ro": "Ziua începe cu o plimbare precaută pe străzile umede, verificând frânele pentru asfaltul alunecos. La prânz, peisajul deluros cu nori joși oferă o panoramă mistică, perfectă pentru opriri scurte sub adăpost. După-amiaza, ploaia intensifică mirosul vegetației mediteraneene în timp ce pedalați spre coastă. Încheiați seara cu o băutură caldă la interior.",
+            "en": "The day begins with a cautious ride on damp roads, making sure to check your brakes for slippery asphalt. At noon, the hilly landscape with low-hanging clouds offers a mystical panorama, perfect for short stops under cover. In the afternoon, the rain intensifies the scent of the macchia as you cycle to the coast. End the evening with a hot drink indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Punzesa",
+                "hu": "La Punzesa",
+                "ro": "La Punzesa",
+                "en": "La Punzesa"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf rutschige Granitplatten; der Ausblick auf das stürmische Meer ist jedoch jede Anstrengung im Regen wert.",
+                "hu": "Vigyázzon a csúszós gránitlapokra a kerékpárról leszállva; a viharos tenger látványa azonban minden küzdelmet megér az esőben tekerve.",
+                "ro": "Atenție la plăcile de granit alunecoase când coborâți de pe bicicletă; vederea mării învolburate merită însă orice efort depus prin ploaie.",
+                "en": "Watch out for slippery granite slabs when dismounting; however, the view of the stormy sea is worth every bit of effort in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena Bianca",
+                "hu": "Rena Bianca",
+                "ro": "Rena Bianca",
+                "en": "Rena Bianca"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher im Ort und laufen Sie kurz zum Strand; der Kontrast zwischen weißem Sand und grauem Himmel ist einzigartig.",
+                "hu": "Parkolja le biztonságosan a biciklit a városban, és sétáljon le a partra; a fehér homok és a szürke ég kontrasztja egyedülálló látvány.",
+                "ro": "Parcați bicicleta în siguranță în oraș și mergeți puțin până la plajă; contrastul dintre nisipul alb și cerul gri este cu totul unic.",
+                "en": "Park your bike safely in town and walk down to the beach for a moment; the contrast between white sand and gray sky is truly unique."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Reparata",
+                "hu": "Santa Reparata",
+                "ro": "Santa Reparata",
+                "en": "Santa Reparata"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße zur Bucht kann bei Regen tückisch sein; fahren Sie langsam und nutzen Sie den Kirchvorplatz als trockenen Rastplatz.",
+                "hu": "Az öbölbe vezető keskeny út esőben trükkös lehet; hajtson lassan, és használja a templom előterét száraz pihenőhelyként a továbbindulás előtt.",
+                "ro": "Drumul îngust spre golf poate fi înșelător pe ploaie; conduceți încet și folosiți pridvorul bisericii ca loc de odihnă uscat înainte de plecare.",
+                "en": "The narrow road to the bay can be tricky in the rain; ride slowly and use the church porch as a dry resting spot before continuing your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena di ponente",
+                "hu": "Rena di ponente",
+                "ro": "Rena di ponente",
+                "en": "Rena di ponente"
+              },
+              "tip_5lang": {
+                "de": "Der Wind weht hier bei Regen oft stark von Westen; suchen Sie Schutz hinter den Felsen, um das tosende Meer sicher zu beobachten.",
+                "hu": "A szél itt esőben gyakran erősen fúj nyugat felől; keressen szélvédett helyet a sziklák mögött a dühöngő tenger biztonságos megfigyeléséhez.",
+                "ro": "Vântul bate adesea cu putere dinspre vest în timpul ploii; căutați adăpost după stânci pentru a observa în siguranță marea agitată.",
+                "en": "The wind often blows strongly from the west here during rain; find shelter behind the rocks to safely observe the raging sea nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena di levante",
+                "hu": "Rena di levante",
+                "ro": "Rena di levante",
+                "en": "Rena di levante"
+              },
+              "tip_5lang": {
+                "de": "Diese Seite ist oft etwas geschützter; nutzen Sie den Stopp für einen schnellen Snack unter Ihrem Regenponcho, bevor es zurückgeht.",
+                "hu": "Ez az oldal gyakran valamivel védettebb; használja ki a megállót egy gyors snackre az esőponchó alatt, mielőtt visszaindulna a városba.",
+                "ro": "Această parte este adesea ceva mai protejată; profitați de oprire pentru o gustare rapidă sub pelerină înainte de a porni înapoi spre oraș.",
+                "en": "This side is often slightly more sheltered; use the stop for a quick snack under your rain poncho before heading back to the main town."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme del Porto",
+                "hu": "Terme del Porto",
+                "ro": "Terme del Porto",
+                "en": "Terme del Porto"
+              },
+              "tip_5lang": {
+                "de": "Nach der Tour im Regen bietet der Hafen viele Möglichkeiten, sich aufzuwärmen; stellen Sie Ihr Rad unter und gönnen Sie sich einen heißen Kakao.",
+                "hu": "Az esős túra után a kikötő számos lehetőséget kínál a felmelegedésre; támassza le a biciklit fedett helyre, és igyon egy forró csokoládét.",
+                "ro": "După tura prin ploaie, portul oferă multe locuri pentru a vă încălzi; lăsați bicicleta la adăpost și răsfățați-vă cu o ciocolată caldă.",
+                "en": "After the rainy ride, the harbor offers many places to warm up; park your bike under cover and treat yourself to a delicious hot cocoa."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen auf dem Rad erfordert warme Handschuhe, bietet aber leere Straßen für Genießer. Mittags strahlt die Sonne eine milde Wärme aus, perfekt für die Auffahrten zu den Aussichtspunkten ohne Hitze. Am Nachmittag taucht das tiefe Licht die Küste in dramatische Farben, während Sie die frische Meeresluft einatmen. Da es früh dunkel wird, planen Sie die Rückkehr für 16:30 Uhr ein.",
+            "hu": "A hűvös reggeli tekeréshez meleg kesztyű kell, de az üres utak kárpótolják a kerékpárosokat. Délben a nap enyhe meleget áraszt, így az emelkedők kényelmesen, izzadás nélkül leküzdhetők a panorámáért. Délután az alacsony napfény drámai színekbe öltözteti a partot. Mivel korán sötétedik, tervezze a visszaérkezést 16:30-ra.",
+            "ro": "O dimineață răcoroasă pe bicicletă necesită mănuși calde, dar oferă drumuri goale pentru entuziaști. La prânz, soarele blând permite urcările spre punctele panoramice fără disconfortul căldurii. După-amiaza, lumina joasă scaldă coasta în culori dramatice. Deoarece se întunecă devreme, planificați întoarcerea pentru ora 16:30.",
+            "en": "A cool morning on the bike requires warm gloves but offers empty roads for cycling enthusiasts. At noon, the mild sun allows for climbs to the viewpoints without the discomfort of heat. In the afternoon, the low light bathes the coast in dramatic colors. Since it gets dark early, plan to be back by 16:30."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Punzesa",
+                "hu": "La Punzesa",
+                "ro": "La Punzesa",
+                "en": "La Punzesa"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht ist im Winter oft glasklar; blicken Sie weit über die Meerenge von Bonifacio, während die kühle Brise Ihr Gesicht erfrischt.",
+                "hu": "A látótávolság télen gyakran kristálytiszta; lásson el egészen a Bonifacio-szorosig, miközben a hűvös szél frissíti az arcát a dombtetőn.",
+                "ro": "Vizibilitatea este adesea cristalină iarna; priviți departe peste strâmtoarea Bonifacio în timp ce briza rece vă împrospătează chipul pe deal.",
+                "en": "Visibility is often crystal clear in winter; look far across the Strait of Bonifacio while the cool breeze refreshes your face on the hilltop."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena Bianca",
+                "hu": "Rena Bianca",
+                "ro": "Rena Bianca",
+                "en": "Rena Bianca"
+              },
+              "tip_5lang": {
+                "de": "Der menschenleere Strand bietet im Winter eine seltene Ruhe; parken Sie das Rad und genießen Sie den Moment der Stille am kristallklaren Wasser.",
+                "hu": "Az embermentes strand télen ritka nyugalmat áraszt; támassza le a biciklit, és élvezze a csend pillanatát a kristálytiszta víz partján.",
+                "ro": "Plaja pustie oferă o liniște rară iarna; parcați bicicleta și bucurați-vă de un moment de tăcere lângă apa de un albastru ireal.",
+                "en": "The deserted beach offers a rare tranquility in winter; park your bike and enjoy a moment of silence by the crystal-clear water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Reparata",
+                "hu": "Santa Reparata",
+                "ro": "Santa Reparata",
+                "en": "Santa Reparata"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor dem kühlen Nordwind; nutzen Sie die sonnige windstille Ecke für eine kurze Pause und einen warmen Tee aus der Thermoskanne.",
+                "hu": "A templom védelmet nyújt a hűvös északi szél ellen; használja a napos, szélvédett sarkot egy rövid pihenőre és egy meleg teára a termoszból.",
+                "ro": "Biserica oferă protecție împotriva vântului rece din nord; folosiți colțul însorit și ferit pentru o scurtă pauză și un ceai cald din termos.",
+                "en": "The church provides protection from the cool north wind; use the sunny, sheltered corner for a short break and some warm tea from your thermos."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena di ponente",
+                "hu": "Rena di ponente",
+                "ro": "Rena di ponente",
+                "en": "Rena di ponente"
+              },
+              "tip_5lang": {
+                "de": "Die Brandung ist im Winter oft kraftvoller; ein toller Ort für Fotos der wilden Natur, aber halten Sie Abstand zum nassen Uferbereich.",
+                "hu": "A hullámverés télen gyakran erőteljesebb; remek hely a vad természet fotózásához, de tartson biztonságos távolságot a nedves parti résztől.",
+                "ro": "Valurile sunt adesea mai puternice iarna; un loc minunat pentru fotografii cu natura sălbatică, dar păstrați distanța de zona umedă de mal.",
+                "en": "The surf is often more powerful in winter; a great spot for photographing wild nature, but keep a safe distance from the wet shoreline area."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena di levante",
+                "hu": "Rena di levante",
+                "ro": "Rena di levante",
+                "en": "Rena di levante"
+              },
+              "tip_5lang": {
+                "de": "Das späte Nachmittagslicht lässt die Granitfelsen golden leuchten; perfekt für den letzten Stopp, bevor Sie die Rückfahrt im Tageslicht antreten.",
+                "hu": "A késő délutáni fények aranyba borítják a gránitsziklákat; tökéletes utolsó állomás, mielőtt még nappali fényben megkezdené a visszautat.",
+                "ro": "Lumina de după-amiază târzie face stâncile de granit să strălucească auriu; stop final perfect înainte de a porni înapoi pe lumină.",
+                "en": "The late afternoon light makes the granite rocks glow golden; a perfect final stop before you head back while there is still daylight left."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme del Porto",
+                "hu": "Terme del Porto",
+                "ro": "Terme del Porto",
+                "en": "Terme del Porto"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im Hafen, wenn die Lichter der Stadt angehen; die winterliche Abendstimmung hier ist sehr gemütlich und einladend.",
+                "hu": "Zárja a túrát a kikötőben, amikor kigyúlnak a város fényei; a téli esti hangulat itt rendkívül barátságos és hívogató a fáradt bringásoknak.",
+                "ro": "Încheiați turul în port când se aprind luminile orașului; atmosfera de seară de iarnă aici este extrem de primitoare pentru bicicliști.",
+                "en": "End your tour at the harbor as the town lights come on; the winter evening atmosphere here is very cozy and welcoming for tired cyclists."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Az autós túra a keleti La Marmoratina eldugott öblében kezdődik, majd délelőtt a Porto Quadro finom homokos strandjainál folytatódik. Dél körül megérkezik a Piscina L'Uddastri lenyűgöző sziklamedencéihez. Délután álljon meg a híres Rena Bianca strandnál, majd haladjon tovább a Rena di ponente földszorosához. A nap a Santa Reparata gyönyörű öblének nyugalmában ér véget.",
         "ro": "Turul cu mașina începe în est, la plaja izolată La Marmoratina, continuând dimineața spre nisipurile fine de la Porto Quadro. La prânz ajungeți la impresionantele piscine naturale din stâncă de la Piscina L'Uddastri. După-amiaza faceți o oprire la celebra Rena Bianca și apoi conduceți spre istmul de la Rena di ponente. Ziua se încheie relaxant în frumosul golf Santa Reparata.",
         "en": "Your driving tour begins in the east at the secluded La Marmoratina, continuing to the sandy stretches of Porto Quadro in the morning. Around midday, arrive at the impressive natural rock pools of Piscina L'Uddastri. In the afternoon, stop by the famous Rena Bianca beach before heading to the sweeping isthmus at Rena di ponente. The day ends perfectly relaxing in the beautiful bay of Santa Reparata."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt sicher im trockenen Auto, während der Regen gegen die Scheiben trommelt. Mittags steuern Sie versteckte Buchten an, wo Sie das Meer direkt vom Wagen aus beobachten können. Am Nachmittag bietet die Fahrt über die Küstenstraßen dramatische Ausblicke auf die aufgewühlte See. Der Abend endet in einem gemütlichen Restaurant mit Blick auf den beleuchteten Hafen von Santa Teresa.",
+            "hu": "A nap kényelmesen indul a száraz autóban, miközben az eső veri a szélvédőt. Délben rejtett öblöket keresünk fel, ahol közvetlenül az autóból csodálhatjuk a tajtékzó tengert. Délután a part menti utak drámai kilátást nyújtanak a felkorbácsolt vízre a meleg utastérből. Az este egy hangulatos étteremben ér véget, rálátással Santa Teresa kivilágított kikötőjére.",
+            "ro": "Ziua începe confortabil în mașina uscată, în timp ce ploaia bate în parbriz. La prânz, vizitați golful ascunse unde puteți admira marea direct din mașină. După-amiaza, drumurile de coastă oferă vederi dramatice asupra apei învolburate din interiorul cald. Seara se încheie la un restaurant primitor, cu vedere spre portul iluminat din Santa Teresa.",
+            "en": "The day begins comfortably in the dry car while the rain drums against the windshield. At noon, head to hidden bays where you can admire the churning sea directly from your vehicle. In the afternoon, the coastal roads offer dramatic views of the turbulent water from the warm interior. The evening ends at a cozy restaurant overlooking the illuminated harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Marmoratina",
+                "hu": "La Marmoratina",
+                "ro": "La Marmoratina",
+                "en": "La Marmoratina"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Strand, um die Wellen bequem aus dem Auto zu beobachten; die raue See wirkt bei Regen besonders wild und imposant.",
+                "hu": "Parkoljon közel a parthoz, hogy kényelmesen, az autóból figyelhesse a hullámokat; a zord tenger esőben különösen vadnak és impozánsnak hat.",
+                "ro": "Parcați aproape de plajă pentru a observa valurile confortabil din mașină; marea aspră pare deosebit de sălbatică și impunătoare pe ploaie.",
+                "en": "Park close to the beach to watch the waves comfortably from the car; the rough sea looks particularly wild and imposing in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Quadro",
+                "hu": "Porto Quadro",
+                "ro": "Porto Quadro",
+                "en": "Porto Quadro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz für einen Panoramablick; die Felsformationen leuchten bei Regen in dunklen Farben und bieten ein tolles Fotomotiv.",
+                "hu": "Használja ki a parkolót a panorámához; a sziklaalakzatok esőben sötét színekben tündökölnek, és remek fotótémát kínálnak a szélvédő mögül is.",
+                "ro": "Folosiți parcarea pentru o vedere panoramică; formațiunile stâncoase strălucesc în culori închise pe ploaie, fiind un subiect foto excelent.",
+                "en": "Use the parking lot for a panoramic view; the rock formations glow in dark colors when wet, offering a great photo subject from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina L'Uddastri",
+                "hu": "Piscina L'Uddastri",
+                "ro": "Piscina L'Uddastri",
+                "en": "Piscina L'Uddastri"
+              },
+              "tip_5lang": {
+                "de": "Der Weg kann bei Regen matschig sein; bleiben Sie auf den befestigten Parkflächen und genießen Sie die Aussicht auf die Granitbecken im Regen.",
+                "hu": "Az út esőben sáros lehet; maradjon a szilárd parkolófelületeken, és onnan csodálja a gránitmedencék látványát a szakadó esőben.",
+                "ro": "Drumul poate fi noroios pe ploaie; rămâneți în zonele de parcare asfaltate și admirați bazinele de granit direct din confortul mașinii.",
+                "en": "The path can be muddy in the rain; stay on the paved parking surfaces and enjoy the view of the granite pools through the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena Bianca",
+                "hu": "Rena Bianca",
+                "ro": "Rena Bianca",
+                "en": "Rena Bianca"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie einen Parkplatz mit Meerblick im oberen Teil des Ortes; so können Sie den Strand und die Gischt sehen, ohne nass zu werden.",
+                "hu": "Keressen tengerre néző parkolóhelyet a város felső részén; így anélkül láthatja a partot és a tajtékot, hogy elázna a kiszálláskor.",
+                "ro": "Găsiți un loc de parcare cu vedere la mare în partea de sus a orașului; astfel puteți vedea plaja și spuma valurilor fără a vă uda deloc.",
+                "en": "Find a parking spot with a sea view in the upper part of town; this way you can see the beach and the spray without getting wet at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena di ponente",
+                "hu": "Rena di ponente",
+                "ro": "Rena di ponente",
+                "en": "Rena di ponente"
+              },
+              "tip_5lang": {
+                "de": "Das Auto bietet Schutz vor dem starken Westwind; beobachten Sie das Schauspiel der Wellen, die gegen die Landzunge peitschen, ganz entspannt.",
+                "hu": "Az autó tökéletes védelmet nyújt az erős nyugati szél ellen; figyelje a félszigetnek csapódó hullámok játékát teljes kényelemben, melegben.",
+                "ro": "Mașina oferă protecție perfectă împotriva vântului puternic de vest; urmăriți spectacolul valurilor care lovesc istmul în deplin confort.",
+                "en": "The car provides perfect protection from the strong west wind; watch the spectacle of waves crashing against the isthmus in total comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Reparata",
+                "hu": "Santa Reparata",
+                "ro": "Santa Reparata",
+                "en": "Santa Reparata"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt bei Regen friedlich und isoliert; ein kurzer Moment des Innehaltens im Wagen, bevor Sie zurück in den belebten Ort fahren.",
+                "hu": "Az öböl esőben békésnek és elszigeteltnek tűnik; tartson egy rövid pihenőt a kocsiban, mielőtt visszatérne a pezsgő városközpontba.",
+                "ro": "Golful pare pașnic și izolat pe ploaie; bucurați-vă de un scurt moment de liniște în mașină înainte de a reveni în centrul animat.",
+                "en": "The bay looks peaceful and isolated in the rain; enjoy a short moment of pause in the car before heading back to the lively town center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag im Auto beginnt mit einer Panoramafahrt entlang der glitzernden Küste bei frischen Temperaturen. Mittags genießen Sie die Sonne, die durch die Fenster wärmt, während Sie von Parkplatz zu Parkplatz die Aussicht wechseln. Am Nachmittag erleben Sie die Granitfelsen im tiefstehenden Licht, das perfekte Motive für Fotos bietet. Da die Dämmerung gegen 17:00 Uhr einsetzt, kehren Sie früh zurück.",
+            "hu": "A téli nap panorámaautózással indul a csillogó part mentén, friss, de tiszta időben. Délben élvezze az ablakon át melengető napot, miközben parkolóról parkolóra váltva csodálja a különböző kilátópontokat. Délután az alacsonyan járó nap fényeiben tündöklő gránitsziklák remek fotótémát kínálnak. Mivel 17:00 körül sötétedik, tervezze a korai visszaérkezést a városba.",
+            "ro": "Ziua de iarnă începe cu o plimbare panoramică de-a lungul coastei sclipitoare, în condiții de temperaturi scăzute dar cer senin. La prânz, bucurați-vă de soarele care încălzește prin geamuri în timp ce schimbați punctele de observație. După-amiaza, stâncile de granit oferă cadre foto superbe în lumina joasă. Deoarece se întunecă în jur de ora 17:00, reveniți devreme.",
+            "en": "The winter day begins with a panoramic drive along the sparkling coast in crisp but clear conditions. At noon, enjoy the sun warming through the windows as you move from viewpoint to viewpoint. In the afternoon, the granite rocks in the low light offer perfect photo opportunities. Since twilight sets in around 17:00, plan for an early return to the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Marmoratina",
+                "hu": "La Marmoratina",
+                "ro": "La Marmoratina",
+                "en": "La Marmoratina"
+              },
+              "tip_5lang": {
+                "de": "Die Klarheit der Luft im Winter macht Korsika zum Greifen nah; nutzen Sie die Parkmöglichkeit direkt am Wasser für den besten Fernblick.",
+                "hu": "A téli levegő tisztasága miatt Korzika szinte karnyújtásnyira tűnik; használja a közvetlen vízparti parkolót a legjobb távoli kilátásért.",
+                "ro": "Claritatea aerului de iarnă face Corsica să pară foarte aproape; folosiți parcarea de lângă apă pentru cea mai bună vedere la distanță.",
+                "en": "The clarity of the winter air makes Corsica seem within arm's reach; use the parking right by the water for the best distant views."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Quadro",
+                "hu": "Porto Quadro",
+                "ro": "Porto Quadro",
+                "en": "Porto Quadro"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wilde Einsamkeit ohne den Sommertrubel; das Auto hält Sie warm, während Sie die unberührte Natur der Bucht bewundern.",
+                "hu": "Élvezze a vad magányt a nyári tömeg nélkül; az autó melegen tartja, miközben az öböl érintetlen természetében gyönyörködik a szélvédőn át.",
+                "ro": "Bucurați-vă de singurătatea sălbatică fără aglomerația de vară; mașina vă ține de cald în timp ce admirați natura virgină a golfului.",
+                "en": "Enjoy the wild solitude without the summer crowds; the car keeps you warm while you admire the untouched nature of the bay from inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina L'Uddastri",
+                "hu": "Piscina L'Uddastri",
+                "ro": "Piscina L'Uddastri",
+                "en": "Piscina L'Uddastri"
+              },
+              "tip_5lang": {
+                "de": "Im Winter füllen sich die Granitbecken oft mit frischem Regenwasser; ein toller Kontrast zum blauen Meer, den Sie direkt vom Fahrersitz sehen.",
+                "hu": "Télen a gránitmedencék gyakran megtelnek friss esővízzel; remek kontraszt a kék tengerrel, amit közvetlenül a vezetőülésből is megcsodálhat.",
+                "ro": "Iarna, bazinele de granit se umplu adesea cu apă proaspătă; un contrast superb cu marea albastră, vizibil direct de pe scaunul șoferului.",
+                "en": "In winter, the granite pools often fill with fresh rainwater; a great contrast with the blue sea, visible directly from the driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena Bianca",
+                "hu": "Rena Bianca",
+                "ro": "Rena Bianca",
+                "en": "Rena Bianca"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz oberhalb des Strandes bietet die perfekte Bühne für den weiten Blick auf das winterliche Meer bei angenehmer Wärme im Wagen.",
+                "hu": "A strand feletti parkoló tökéletes helyszínt biztosít a téli tenger széles körű megfigyeléséhez az autó kellemes melegéből nézelődve.",
+                "ro": "Parcarea de deasupra plajei oferă locul perfect pentru a observa marea de iarnă în timp ce stați în căldura plăcută a mașinii.",
+                "en": "The parking lot above the beach provides the perfect stage for wide views of the winter sea while staying in the pleasant warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Rena di ponente",
+                "hu": "Rena di ponente",
+                "ro": "Rena di ponente",
+                "en": "Rena di ponente"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter hier besonders intensiv; parken Sie rechtzeitig vor 17:00 Uhr, um das Farbspiel sicher zu genießen.",
+                "hu": "A naplemente télen itt különösen intenzív színekben pompázik; parkoljon le időben 17:00 előtt, hogy kényelmesen élvezhesse a fényjátékot.",
+                "ro": "Apusul este deosebit de intens aici iarna; parcați la timp înainte de ora 17:00 pentru a vă bucura de jocul de culori în siguranță.",
+                "en": "The sunset is particularly intense here in winter; park in time before 17:00 to safely enjoy the play of colors from your warm car seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Reparata",
+                "hu": "Santa Reparata",
+                "ro": "Santa Reparata",
+                "en": "Santa Reparata"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Stopp in der stillen Bucht vor der Rückfahrt; das winterliche Blau des Wassers ist hier bei Dämmerung fast unwirklich schön.",
+                "hu": "Egy utolsó megálló a csendes öbölben a visszaindulás előtt; a víz téli kékje alkonyatkor itt szinte hihetetlenül szép a gránitsziklák között.",
+                "ro": "O ultimă oprire în golful liniștit înainte de întoarcere; albastrul de iarnă al apei este aproape ireal de frumos aici la amurg.",
+                "en": "A final stop in the quiet bay before heading back; the winter blue of the water here at twilight is almost unreal against the granite rocks."
+              }
+            }
+          ]
+        }
       }
     }
   }

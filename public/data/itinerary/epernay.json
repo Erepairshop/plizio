@@ -160,6 +160,196 @@
         "hu": "A reggel a történelmi Saint-Martin kapuval és az elegáns Gabrielle-Dorziat Színházzal kezdődik. Délben a pezsgővidék szívébe érkezik az ikonikus Moët & Chandon házba. Délután élvezze a Notre-Dame csendes áhítatát, mielőtt végigsétál a pazar Avenue de Champagne-on. Az este a Mercier Házban ér véget egy látványos fináléval.",
         "ro": "Dimineața începe cu istoricul Portal Saint-Martin și elegantul Teatru Gabrielle-Dorziat. La prânz ajungeți în inima ținutului șampaniei cu o vizită la celebra Casă Moët & Chandon. După-amiază, bucurați-vă de reverența tăcută de la Notre-Dame înainte de a vă plimba pe opulenta Avenue de Champagne. Seara se încheie la Casa Mercier.",
         "en": "Morning begins with the historic Saint-Martin Portal and the elegant Gabrielle-Dorziat Theater. Midday brings you to the heart of champagne country with a visit to the iconic Moët & Chandon House. In the afternoon, enjoy the quiet reverence of Notre-Dame before strolling the opulent Avenue de Champagne. The evening wraps up at the Mercier House for a spectacular finish."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen am Portal mit einem festen Regenschirm. Suchen Sie mittags im Theater Schutz vor der Nässe. Verbringen Sie den verregneten Nachmittag in den tiefen, trockenen Champagnerkellern. Gehen Sie abends vorsichtig über das rutschige Pflaster.",
+            "hu": "Kezdje az esős reggelt a történelmi kapunál, masszív esernyővel a kézben. Délben húzódjon be az elegáns színházba száradni és melegedni. Az esős délutánt töltse lenn a száraz pezsgőpincék mélyén. Este óvatosan sétáljon a csúszós macskaköveken.",
+            "ro": "Începeți dimineața ploioasă la portalul istoric, cu o umbrelă robustă. La prânz, adăpostiți-vă în teatrul elegant pentru a vă usca. Petreceți după-amiaza umedă explorând pivnițele adânci de șampanie. Seara, mergeți cu grijă pe pietrele alunecoase.",
+            "en": "Start your wet morning at the portal, holding your umbrella tight. By noon, take shelter inside the grand theater and dry off. Spend the rainy afternoon exploring deep underground champagne cellars. End the evening safely, avoiding slippery cobblestones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Martin Portal",
+                "hu": "Saint-Martin kapu",
+                "ro": "Portalul Saint-Martin",
+                "en": "Saint-Martin Portal"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Schnitzereien unter einem Schirm; die Steine werden bei Nässe sehr rutschig.",
+                "hu": "Esernyő alól csodálja meg a faragványokat; vigyázzon a nedves, csúszós kövekre.",
+                "ro": "Admirați detaliile sculptate sub umbrelă; pietrele devin alunecoase când plouă.",
+                "en": "Admire the carved details under an umbrella; the stone gets slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Gabrielle-Dorziat Theater",
+                "hu": "Gabrielle-Dorziat Színház",
+                "ro": "Teatrul Gabrielle-Dorziat",
+                "en": "Gabrielle-Dorziat Theater"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Zufluchtsort im Innenbereich, um der Nässe zu entkommen und die Decke zu bewundern.",
+                "hu": "Tökéletes beltéri menedék a felhőszakadás elől, ahol szárazon megcsodálhatja a díszes mennyezetet.",
+                "ro": "Un refugiu interior perfect pentru a admira tavanul opulent în timp ce scăpați de ploaie.",
+                "en": "A perfect indoor refuge to marvel at the opulent ceiling while escaping the heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Moët & Chandon Haus",
+                "hu": "Moët & Chandon Ház",
+                "ro": "Casa Moët & Chandon",
+                "en": "Moët & Chandon House"
+              },
+              "tip_5lang": {
+                "de": "Die riesigen unterirdischen Keller bieten einen trockenen und faszinierenden Schutz vor Regen.",
+                "hu": "A hatalmas földalatti pincék teljesen száraz, lenyűgöző menedéket nyújtanak az eső elől.",
+                "ro": "Cramele subterane vaste oferă o evadare complet uscată și fascinantă din ploaie.",
+                "en": "The vast underground cellars offer a completely dry, fascinating escape from the persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im Kirchenschiff und beobachten Sie die dunkleren Buntglasfenster bei Regen.",
+                "hu": "Keressen menedéket a hajóban, és nézze, ahogy az ólomüveg ablakok elsötétülnek a felhőktől.",
+                "ro": "Căutați adăpost în naos și priviți cum vitraliile se întunecă din cauza norilor de ploaie.",
+                "en": "Seek shelter in the nave and watch the stained glass windows darken with the rain clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Avenue de Champagne",
+                "hu": "Avenue de Champagne",
+                "ro": "Avenue de Champagne",
+                "en": "Avenue de Champagne"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm fest; die Avenue bietet wenig Schutz, aber tolle Spiegelungen im Nassen.",
+                "hu": "Fogja szorosan az esernyőt, a széles utcán kevés a fedél, de a kastélyok szépen tükröződnek a tócsákban.",
+                "ro": "Țineți bine umbrela; bulevardul oferă puțin adăpost, dar conacele se reflectă frumos pe asfaltul ud.",
+                "en": "Hold your umbrella tight; the wide avenue offers little cover, but the mansions reflect beautifully on wet days."
+              }
+            },
+            {
+              "name": {
+                "de": "Mercier Champagnerhaus",
+                "hu": "Mercier Pezsgőház",
+                "ro": "Casa de șampanie Mercier",
+                "en": "Mercier Champagne House"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt mit dem kleinen Zug durch die Keller ist ein idealer, regensicherer Ausflug.",
+                "hu": "A pincékben közlekedő beltéri kisvonat ideális, teljesen esőbiztos és kényelmes élményt kínál.",
+                "ro": "Turul cu trenul interior prin crame este o experiență ideală, complet ferită de ploaie.",
+                "en": "The indoor train tour through the cellars is an ideal, entirely rain-proof and comfortable experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für einen frischen Morgen am Portal. Entfliehen Sie mittags der Winterkälte im eleganten Theater. Der Nachmittag eignet sich perfekt für windgeschützte Kellertouren. Bewundern Sie abends die frühen Lichter der Avenue, da es gegen 17:00 Uhr dunkel wird.",
+            "hu": "Öltözzön melegen a csípős reggeli sétához a kapu körül. Délben meneküljön a téli hideg elől a lenyűgöző színházba. A délután ideális a szélvédett, állandó hőmérsékletű pincék felfedezésére. Csodálja meg a kora esti fényeket a sugárúton, mivel 17 óra körül sötétedik.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală rece lângă portal. La prânz, vizitați teatrul elegant pentru a scăpa de frigul iernii. După-amiaza este perfectă pentru a explora cramele ferite de vânt. Admirați luminile timpurii de seară pe bulevard, soarele apunând la 17:00.",
+            "en": "Wrap up warm for a crisp morning walk by the historic portal. At noon, enjoy the elegant theater to escape the winter chill. The afternoon is perfect for exploring the consistently cool, but wind-free cellars. Admire the Avenue's early evening lights as the sun sets by 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Martin Portal",
+                "hu": "Saint-Martin kapu",
+                "ro": "Portalul Saint-Martin",
+                "en": "Saint-Martin Portal"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Portal im Winterlicht, aber tragen Sie dicke Handschuhe gegen den kalten Wind.",
+                "hu": "Figyelje meg a kapu szépségét a téli fényben, de viseljen kesztyűt a nyitott téren fújó csípős szél miatt.",
+                "ro": "Observați frumusețea portalului în lumina iernii, dar purtați mănuși din cauza vântului rece.",
+                "en": "Notice the portal's stark beauty in the winter light, but wear thick gloves as the wind bites."
+              }
+            },
+            {
+              "name": {
+                "de": "Gabrielle-Dorziat Theater",
+                "hu": "Gabrielle-Dorziat Színház",
+                "ro": "Teatrul Gabrielle-Dorziat",
+                "en": "Gabrielle-Dorziat Theater"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in dieses beheizte architektonische Juwel ein, um sich in der Pause richtig aufzuwärmen.",
+                "hu": "Lépjen be ebbe a fűtött építészeti csodába, hogy alaposan felmelegedjen a fagyos séta után.",
+                "ro": "Intrați în această bijuterie arhitecturală încălzită pentru a vă încălzi înainte de a continua plimbarea.",
+                "en": "Step inside this comfortably heated architectural gem to warm your hands before exploring further."
+              }
+            },
+            {
+              "name": {
+                "de": "Moët & Chandon Haus",
+                "hu": "Moët & Chandon Ház",
+                "ro": "Casa Moët & Chandon",
+                "en": "Moët & Chandon House"
+              },
+              "tip_5lang": {
+                "de": "Die Keller haben ganzjährig 10-12°C; behalten Sie Ihre Winterjacke während der langen Tour besser an.",
+                "hu": "A pincék egész évben 10-12°C-osak, így érdemes magán tartani a télikabátot a mélyben tett túra során.",
+                "ro": "Cramele au 10-12°C tot anul, așa că păstrați-vă haina de iarnă pentru turul subteran destul de răcoros.",
+                "en": "Cellars stay around 10-12°C all year, so definitely keep your thick winter coat on for the chilly tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern speichern die Winterkälte sehr lang; behalten Sie Ihren Schal beim Altar an.",
+                "hu": "A vastag kőfalak magukban tartják a téli hideget, így sálban érdemes megcsodálni a lenyűgöző oltárt.",
+                "ro": "Zidurile groase de piatră mențin frigul mult timp, deci păstrați-vă fularul în timp ce admirați altarul.",
+                "en": "The thick stone walls hold the deep winter cold, so keep your scarf wrapped tight while admiring the altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Avenue de Champagne",
+                "hu": "Avenue de Champagne",
+                "ro": "Avenue de Champagne",
+                "en": "Avenue de Champagne"
+              },
+              "tip_5lang": {
+                "de": "Die Avenue erstrahlt nach 17:00 Uhr in winterlichen Lichtern, perfekt für einen flotten, kühlen Spaziergang.",
+                "hu": "A sugárút 17:00 után csodás kora téli fényekben szikrázik, ami tökéletes egy frissítő, tempós sétához.",
+                "ro": "Bulevardul strălucește de lumini de iarnă după ora 17:00, decorul fiind perfect pentru o plimbare rapidă.",
+                "en": "The avenue sparkles with early winter illuminations after 17:00, perfect for a brisk, atmospheric stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Mercier Champagnerhaus",
+                "hu": "Mercier Pezsgőház",
+                "ro": "Casa de șampanie Mercier",
+                "en": "Mercier Champagne House"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Zugfahrt durch die Keller, aber Ihre warme Winterjacke wird dennoch benötigt.",
+                "hu": "Élvezze a kisvonatozást a hűvös pincékben, de ne feledje, a vastag télikabátra odalent is szükség lesz.",
+                "ro": "Bucurați-vă de plimbarea cu trenul prin cramele răcoroase, dar jacheta groasă de iarnă este totuși necesară.",
+                "en": "Enjoy the train ride through the cool cellars, but remember your warm winter jacket is still highly necessary."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a reggelt a Bassin sportifnál, mielőtt a történelmi Saint-Martin kapuhoz kerékpározna. Délben fedezze fel a vallási központot a Notre-Dame templomnál és a Moët & Chandon luxusát. Délután tekerjen a Castellane toronyhoz a lenyűgöző kilátásért. Az este egy laza túrával zárul a híres Mercier Pezsgőházhoz.",
         "ro": "Începeți dimineața la Bazinul sportiv înainte de a pedala spre istoricul Portal Saint-Martin. La prânz descoperiți inima religioasă la Biserica Notre-Dame și luxul de la Moët & Chandon. După-amiază, pedalați până la Turnul Castellane pentru priveliști uimitoare. Seara se încheie cu o plimbare spre faimoasa Casă Mercier.",
         "en": "Start the morning with a refreshing vibe at the Bassin sportif before cycling to the historic Saint-Martin Portal. Midday sees you discovering the religious heart at Notre-Dame Church and the luxury of Moët & Chandon. In the afternoon, pedal up to the Castellane Tower for stunning views. The evening concludes with a relaxed ride to the famous Mercier Champagne House."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit einem Schwimmbadbesuch, um dem Morgenregen zu entgehen. Radeln Sie mittags vorsichtig auf nassen Straßen zu den Sehenswürdigkeiten. Verbringen Sie den Nachmittag in trockenen Champagnerkellern. Fahren Sie abends langsam und achten Sie auf rutschige Straßen.",
+            "hu": "Kezdje a napot egy benti úszással, elkerülve a reggeli esőt. Délben óvatosan tekerjen a nedves utakon a történelmi látnivalók felé. Az esős délutánt a hatalmas, száraz pezsgőpincékben töltse. Este lassan haladjon, figyelve a csúszós útfelületekre és a tócsákra.",
+            "ro": "Începeți cu o baie interioară pentru a evita ploaia de dimineață. La prânz, pedalați cu grijă pe drumurile umede spre atracții. Petreceți după-amiaza ploioasă în cramele uscate de șampanie. Întoarceți-vă încet seara, atenți la suprafețele foarte alunecoase.",
+            "en": "Start with an indoor swim to escape the morning rain. By noon, cycle carefully on wet roads towards the historical sights. Spend the wet afternoon exploring the massive, dry champagne cellars. Ride back slowly in the evening, watching out for slippery surfaces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sportbecken",
+                "hu": "Sportmedence",
+                "ro": "Bazin sportiv",
+                "en": "Sports Pool"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer, komplett überdachter Start in den Tag, bis die stärksten Regenschauer sicher vorbei sind.",
+                "hu": "Meleg, teljesen fedett kezdése a napnak, amíg megvárja, hogy a reggeli intenzív záporok alábbhagyjanak.",
+                "ro": "Un început de zi cald, complet în interior, în timp ce așteptați să treacă ploile puternice de dimineață.",
+                "en": "A warm, entirely indoor start to your day while you wait for the heavy morning showers to safely pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Portal",
+                "hu": "Saint-Martin kapu",
+                "ro": "Portalul Saint-Martin",
+                "en": "Saint-Martin Portal"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie mit dem Rad Abstand; die steinernen Flächen um das Portal sind bei Nässe extrem rutschig.",
+                "hu": "Kerékpárral tartson távolságot; a kapu körüli kövezett területek nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Păstrați distanța cu bicicleta; suprafețele de piatră din jurul portalului sunt extrem de alunecoase ud.",
+                "en": "Keep a safe distance with your bike; the stone surfaces around the portal are extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Fahrrad geschützt ab und suchen Sie im trockenen Kirchenschiff Unterschlupf vor dem Regen.",
+                "hu": "Támassza le a kerékpárt védett helyen, és keressen száraz menedéket a tágas hajóban az eső elől.",
+                "ro": "Lăsați bicicleta într-un loc ferit și căutați un adăpost uscat în interiorul naosului spațios.",
+                "en": "Park your bike in a sheltered spot and seek a dry refuge from the rain inside the spacious nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Moët & Chandon Haus",
+                "hu": "Moët & Chandon Ház",
+                "ro": "Casa Moët & Chandon",
+                "en": "Moët & Chandon House"
+              },
+              "tip_5lang": {
+                "de": "Die riesigen unterirdischen Keller bieten einen trockenen und faszinierenden Schutz vor dem Radfahr-Regen.",
+                "hu": "A hatalmas földalatti pincék teljesen száraz, lenyűgöző menedéket nyújtanak a nedves kerékpározás után.",
+                "ro": "Cramele subterane vaste oferă o evadare complet uscată și fascinantă după un drum ploios cu bicicleta.",
+                "en": "The vast underground cellars offer a completely dry, fascinating escape from cycling in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castellane Turm",
+                "hu": "Castellane torony",
+                "ro": "Turnul Castellane",
+                "en": "Castellane Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Treppen können klamm sein, aber der Turm hält trocken und bietet eine mystische Aussicht auf die nasse Stadt.",
+                "hu": "A lépcsők nedvesek lehetnek, de a torony megvéd az esőtől, és párás, hangulatos kilátást nyújt a városra.",
+                "ro": "Scările pot fi umede, dar turnul vă protejează de ploaie și oferă o priveliște cețoasă asupra orașului.",
+                "en": "The stairs can be damp, but climbing the tower keeps you dry and offers a moody, misty view of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Mercier Champagnerhaus",
+                "hu": "Mercier Pezsgőház",
+                "ro": "Casa de șampanie Mercier",
+                "en": "Mercier Champagne House"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das nasse Fahrrad draußen; die Fahrt mit dem kleinen Zug im Keller ist ideal und regensicher.",
+                "hu": "Hagyja kint a vizes kerékpárt; a pincékben közlekedő beltéri kisvonat ideális és teljesen esőbiztos.",
+                "ro": "Lăsați bicicleta udă afară; plimbarea cu trenul interior prin crame este ideală și complet ferită de ploaie.",
+                "en": "Leave the wet bike outside; the indoor train tour through the cellars is an ideal, rain-proof experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wärmen Sie sich morgens im Schwimmbad auf, bevor Sie in die Kälte hinausgehen. Fahren Sie mittags gut eingepackt zum Portal. Bleiben Sie nachmittags zwischen den Kellertouren in Bewegung, um warm zu bleiben. Beenden Sie die Fahrt bis 17:00 Uhr, da es danach extrem schnell kalt wird.",
+            "hu": "Melegedjen be egy reggeli úszással a hideg levegő előtt. Délben réteges ruházatban tekerjen a történelmi kapuhoz. Délután maradjon lendületben a pincelátogatások között, hogy ne fázzon. Fejezze be a túrát 17:00 óráig, mert sötétedés után hirtelen és drasztikusan lehűl a levegő.",
+            "ro": "Încălziți-vă cu o înot matinal înainte de aerul rece. La prânz, purtați straturi groase pentru a pedala spre portal. Mențineți-vă în mișcare după-amiaza între vizitele la crame. Terminați traseul până la 17:00, deoarece temperatura scade rapid și drastic după lăsarea întunericului.",
+            "en": "Warm up with a morning swim before facing the cold air. By noon, wrap up in thick layers to cycle to the portal. Keep moving in the afternoon to stay warm between cellar tours. Plan to finish riding by 17:00 as the temperature drops very quickly after the early winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sportbecken",
+                "hu": "Sportmedence",
+                "ro": "Bazin sportiv",
+                "en": "Sports Pool"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in das beheizte Becken ein, um sich aufzuwärmen, bevor Sie sich aufs eiskalte Rad schwingen.",
+                "hu": "Csobbanjon a fűtött medencébe, hogy teljesen felmelegedjen, mielőtt nyeregbe pattan a téli hidegben.",
+                "ro": "Scufundați-vă în piscina încălzită pentru a vă încălzi complet înainte de a pedala în frigul iernii.",
+                "en": "Plunge into the heated pool to thaw out and warm up entirely before hopping on your bike in the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Portal",
+                "hu": "Saint-Martin kapu",
+                "ro": "Portalul Saint-Martin",
+                "en": "Saint-Martin Portal"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Portal, aber behalten Sie Ihre winddichten Fahrradhandschuhe gegen die Kälte besser an.",
+                "hu": "Figyelje meg a kaput, de tartsa magán a szélálló kerékpáros kesztyűt a nyitott téren fújó fagyos szél miatt.",
+                "ro": "Admirați portalul, dar păstrați-vă mănușile de ciclism rezistente la vânt pentru a evita frigul aspru.",
+                "en": "Admire the portal, but keep your windproof cycling gloves on to protect your hands from the biting cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern speichern die Kälte; behalten Sie Ihren Schal an, während Sie von der Fahrt verschnaufen.",
+                "hu": "A vastag kőfalak tartják a hideget; maradjon sálban, miközben kifújja magát a tekerés után az oltárnál.",
+                "ro": "Zidurile groase mențin frigul; păstrați-vă fularul în timp ce vă trageți sufletul după pedalat, la altar.",
+                "en": "The thick stone walls hold the cold; keep your scarf on while you catch your breath from the ride by the altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Moët & Chandon Haus",
+                "hu": "Moët & Chandon Ház",
+                "ro": "Casa Moët & Chandon",
+                "en": "Moët & Chandon House"
+              },
+              "tip_5lang": {
+                "de": "Die Keller haben konstant 10-12°C; legen Sie die Radjacke für die lange und kühle Führung nicht ab.",
+                "hu": "A pincék egész évben 10-12°C-osak, így ne vegye le a kerékpáros kabátot a hosszas, hűvös túra során.",
+                "ro": "Cramele au constant 10-12°C; nu vă dați jos jacheta de ciclism în timpul turului lung și destul de răcoros.",
+                "en": "Cellars stay firmly around 10-12°C; do not take off your cycling jacket during the long and chilly tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Castellane Turm",
+                "hu": "Castellane torony",
+                "ro": "Turnul Castellane",
+                "en": "Castellane Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform ist extrem windig; ziehen Sie den Reißverschluss ganz hoch, bevor Sie hinaustreten.",
+                "hu": "A torony kilátója télen rendkívül szeles; húzza fel a cipzárt állig, mielőtt kilép a nyitott teraszra.",
+                "ro": "Platforma turnului este extrem de vântoasă iarna; închideți fermoarul complet înainte de a ieși afară.",
+                "en": "The observation deck is intensely windy in winter; zip your jacket all the way up before stepping outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mercier Champagnerhaus",
+                "hu": "Mercier Pezsgőház",
+                "ro": "Casa de șampanie Mercier",
+                "en": "Mercier Champagne House"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Zugfahrt durch die Keller, aber behalten Sie Ihre warmen Radklamotten an, bevor es dunkel wird.",
+                "hu": "Élvezze a kisvonatozást a hűvös pincékben, de maradjon meleg bringás ruhában a sötétedés előtti hazaútra.",
+                "ro": "Bucurați-vă de trenul din crame, dar păstrați hainele groase de ciclism pentru drumul de întoarcere pe întuneric.",
+                "en": "Enjoy the train ride in the cellars, but keep your warm cycling gear on for the freezing ride back after dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A nap a Bassin sportifhoz vezető úttal kezdődik, majd a Gabrielle-Dorziat Színház következik. Délben az ősi Saint-Martin kapu és a legendás Moët & Chandon pincék várják. A délután a Castellane toronyból nyíló pazar kilátásé. Ahogy leszáll az est, autózzon végig a csodálatos Avenue de Champagne-on.",
         "ro": "Ziua începe cu o plimbare spre Bazinul sportiv, urmată de Teatrul Gabrielle-Dorziat. La prânz treceți de vechiul Portal Saint-Martin spre cramele Moët & Chandon. După-amiaza este rezervată pentru priveliștile de la Turnul Castellane. Spre seară, conduceți pe superba Avenue de Champagne pentru a încheia turul.",
         "en": "The day starts with a drive to the Bassin sportif, followed by the architectural beauty of the Gabrielle-Dorziat Theater. Midday takes you past the ancient Saint-Martin Portal to the legendary Moët & Chandon cellars. The afternoon is reserved for sweeping views from the Castellane Tower. As evening falls, cruise the magnificent Avenue de Champagne to complete your grand tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie für einen trockenen Morgenstart zum Schwimmbad. Parken Sie mittags nah am Theater, um den Regen zu meiden. Verbringen Sie den Nachmittag in den geschützten, unterirdischen Champagnerkellern. Fahren Sie abends sehr vorsichtig über die nasse, beleuchtete Avenue.",
+            "hu": "Vezessen az uszodához egy esőmentes reggeli kezdéshez. Délben parkoljon a színház közelében, hogy minél kevesebbet kelljen az esőben sétálnia. A délutánt a védett, földalatti pezsgőpincékben töltse. Este óvatosan vezessen a kivilágított, de csúszós macskaköves sugárúton.",
+            "ro": "Conduceți la bazinul sportiv pentru un început de dimineață uscat. La prânz, parcați aproape de teatru pentru a evita ploaia. Petreceți după-amiaza explorând cramele subterane adăpostite. Seara, conduceți cu mare grijă pe bulevardul iluminat, dar foarte alunecos.",
+            "en": "Drive to the sports pool for a completely dry morning start. By noon, park near the theater to minimize walking in the rain. Spend the wet afternoon exploring the sheltered underground champagne cellars. In the evening, drive very carefully along the wet, illuminated avenue."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sportbecken",
+                "hu": "Sportmedence",
+                "ro": "Bazin sportiv",
+                "en": "Sports Pool"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor für einen komplett überdachten Start in den Tag, bis die ärgsten Schauer vorbei sind.",
+                "hu": "Parkoljon közvetlenül az épület előtt egy teljesen fedett napkezdéshez, amíg a legnagyobb záporok elvonulnak.",
+                "ro": "Parcați chiar în față pentru un început de zi complet acoperit, până trec cele mai grele averse de ploaie.",
+                "en": "Park right outside for a completely indoor start to your day, staying cozy until the heaviest morning showers pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Gabrielle-Dorziat Theater",
+                "hu": "Gabrielle-Dorziat Színház",
+                "ro": "Teatrul Gabrielle-Dorziat",
+                "en": "Gabrielle-Dorziat Theater"
+              },
+              "tip_5lang": {
+                "de": "Nach einer kurzen Strecke vom Auto ist dies ein perfekter Zufluchtsort, um der Nässe elegant zu entkommen.",
+                "hu": "Az autótól tett rövid séta után ez egy tökéletes elegáns menedék, ahol szárazon megcsodálhatja az épületet.",
+                "ro": "După o scurtă plimbare de la mașină, acesta este un refugiu perfect și elegant pentru a scăpa complet de ploaie.",
+                "en": "After a short dash from the car, this is a perfectly elegant indoor refuge to completely escape the heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Portal",
+                "hu": "Saint-Martin kapu",
+                "ro": "Portalul Saint-Martin",
+                "en": "Saint-Martin Portal"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie kurz mit dem Schirm aus; das Pflaster rund um das historische Portal ist bei Regen extrem rutschig.",
+                "hu": "Csak rövid időre szálljon ki esernyővel; a történelmi kapu körüli kövezet esőben rendkívül csúszóssá válik.",
+                "ro": "Coborâți scurt cu umbrela; pavajul din jurul portalului istoric devine extrem de alunecos pe timp de ploaie.",
+                "en": "Step out briefly with your umbrella; the cobblestones around the historical portal become extremely slick in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Moët & Chandon Haus",
+                "hu": "Moët & Chandon Ház",
+                "ro": "Casa Moët & Chandon",
+                "en": "Moët & Chandon House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz und tauchen Sie in die riesigen, trockenen Keller ein, um dem Regen zu entfliehen.",
+                "hu": "Használja a közeli parkolót, és merüljön el a hatalmas, teljesen száraz pincékben, elmenekülve az eső elől.",
+                "ro": "Folosiți parcarea din apropiere și scufundați-vă în cramele vaste și uscate pentru a scăpa definitiv de ploaie.",
+                "en": "Use the nearby parking and dive into the massive, entirely dry underground cellars to escape the persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castellane Turm",
+                "hu": "Castellane torony",
+                "ro": "Turnul Castellane",
+                "en": "Castellane Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Turmtreppen können klamm sein, bieten aber ein tolles, trockenes Erlebnis mit Blick auf die verregnete Stadt.",
+                "hu": "A lépcsők nedvesek lehetnek, de a torony esőtől védett élményt és párás, hangulatos kilátást nyújt a városra.",
+                "ro": "Scările turnului pot fi umede, dar oferă o experiență uscată cu o priveliște cețoasă asupra orașului ploios.",
+                "en": "The tower stairs can be damp, but it offers a dry experience with a wonderfully moody, misty view of the wet city."
+              }
+            },
+            {
+              "name": {
+                "de": "Avenue de Champagne",
+                "hu": "Avenue de Champagne",
+                "ro": "Avenue de Champagne",
+                "en": "Avenue de Champagne"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie gemütlich im Auto und bewundern Sie die funkelnden Spiegelungen der Villen auf der nassen Straße.",
+                "hu": "Maradjon kényelmesen a száraz autóban, és csodálja meg a villák gyönyörű tükröződését a vizes, csillogó aszfalton.",
+                "ro": "Rămâneți confortabil în mașina uscată și admirați reflexiile strălucitoare ale vilelor pe drumul ud și pitoresc.",
+                "en": "Stay cozy in your dry car and slowly drive by to admire the beautiful reflections of the mansions on the wet road."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Wintermorgen warm im Hallenbad. Fahren Sie mittags im beheizten Auto zum eleganten Theater. Verbringen Sie den Nachmittag bei Kellerführungen abseits des eisigen Windes. Genießen Sie die winterlichen Lichter aus dem Auto, wenn es gegen 17:00 Uhr rasch dunkel wird.",
+            "hu": "Kezdje a téli reggelt kellemes melegben a fedett uszodában. Délben vezessen a színházhoz, élvezve a fűtött autót. A délutánt töltse vezetett túrákon a pincékben, távol a metsző széltől. Élvezze az ünnepi fényeket az autóból, miközben 17:00 óra körül gyorsan sötétedik.",
+            "ro": "Începeți dimineața de iarnă la căldură, în bazinul acoperit. La prânz, conduceți spre teatru, bucurându-vă de mașina încălzită. Petreceți după-amiaza în crame, departe de vântul tăios. Admirați luminile de iarnă din mașină, deoarece se întunecă foarte devreme, în jur de ora 17:00.",
+            "en": "Start your winter morning warmly at the indoor sports pool. By noon, drive to the elegant theater, enjoying your heated car. Spend the afternoon taking guided tours in the cellars away from the biting wind. Enjoy the holiday lights from your car as it gets dark rapidly by 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sportbecken",
+                "hu": "Sportmedence",
+                "ro": "Bazin sportiv",
+                "en": "Sports Pool"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in das beheizte Becken ein, um sich aufzuwärmen, bevor Sie sich dem frostigen Wintertag stellen.",
+                "hu": "Csobbanjon a fűtött medencébe, hogy teljesen felmelegedjen, mielőtt szembenézne a kinti téli faggyal és széllel.",
+                "ro": "Scufundați-vă în piscina încălzită pentru a vă încălzi complet înainte de a înfrunta gerul și vântul de iarnă.",
+                "en": "Plunge into the comfortably heated pool to completely thaw out and warm up before facing the harsh winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Gabrielle-Dorziat Theater",
+                "hu": "Gabrielle-Dorziat Színház",
+                "ro": "Teatrul Gabrielle-Dorziat",
+                "en": "Gabrielle-Dorziat Theater"
+              },
+              "tip_5lang": {
+                "de": "Verlassen Sie das warme Auto kurz, um dieses beheizte architektonische Juwel komfortabel von innen zu bewundern.",
+                "hu": "Hagyja el a fűtött autót egy rövid időre, hogy kényelmes melegben csodálhassa meg ezt az építészeti csodát.",
+                "ro": "Părăsiți mașina încălzită pentru scurt timp pentru a admira din interior această bijuterie arhitecturală caldă.",
+                "en": "Leave the warm car briefly to comfortably step inside and admire this beautifully heated architectural gem."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Portal",
+                "hu": "Saint-Martin kapu",
+                "ro": "Portalul Saint-Martin",
+                "en": "Saint-Martin Portal"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht völlig; der Wind um das freistehende Portal ist im Winter oft unangenehm beißend.",
+                "hu": "Egy gyors fotómegálló bőven elegendő; a szabadon álló kapu körül télen gyakran rendkívül kellemetlenül metsző a szél.",
+                "ro": "O oprire scurtă pentru poze e de ajuns; vântul din jurul portalului este adesea extrem de tăios în timpul iernii.",
+                "en": "A quick photo stop is plenty; the wind whipping around the exposed, freestanding portal is often painfully biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Moët & Chandon Haus",
+                "hu": "Moët & Chandon Ház",
+                "ro": "Casa Moët & Chandon",
+                "en": "Moët & Chandon House"
+              },
+              "tip_5lang": {
+                "de": "Die Keller haben ganzjährig 10-12°C; behalten Sie die dicke Winterjacke nach dem Aussteigen aus dem Auto an.",
+                "hu": "A pincék egész évben 10-12°C-osak, így a fűtött autóból kiszállva mindenképp tartsa magán a vastag télikabátot.",
+                "ro": "Cramele au 10-12°C tot anul; păstrați jacheta groasă de iarnă pe dumneavoastră după ce ieșiți din mașina caldă.",
+                "en": "Cellars stay firmly at 10-12°C all year; definitely keep your thick winter jacket on after leaving the heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Castellane Turm",
+                "hu": "Castellane torony",
+                "ro": "Turnul Castellane",
+                "en": "Castellane Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform ist im Winter sehr windig; wickeln Sie sich warm ein, bevor Sie das Auto verlassen.",
+                "hu": "A torony kilátója télen nagyon szeles; öltözzön fel jó melegen és vegyen sálat, mielőtt elhagyja a járművet.",
+                "ro": "Platforma turnului este foarte vântoasă iarna; înfofoliți-vă bine înainte de a părăsi confortul mașinii.",
+                "en": "The observation deck is intensely windy in winter; wrap yourself up very warmly before you even leave the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Avenue de Champagne",
+                "hu": "Avenue de Champagne",
+                "ro": "Avenue de Champagne",
+                "en": "Avenue de Champagne"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nach 17:00 Uhr langsam durch die Avenue und genießen Sie die frühen Winterlichter aus dem warmen Auto.",
+                "hu": "Vezessen lassan a sugárúton 17:00 óra után, és élvezze a csodás kora téli fényeket a fűtött, kényelmes autóból.",
+                "ro": "Conduceți încet pe bulevard după 17:00 și bucurați-vă de luminile timpurii de iarnă din mașina confortabilă și caldă.",
+                "en": "Drive slowly down the avenue after 17:00 to fully enjoy the early winter holiday lights from your comfortably heated car."
+              }
+            }
+          ]
+        }
       }
     }
   }

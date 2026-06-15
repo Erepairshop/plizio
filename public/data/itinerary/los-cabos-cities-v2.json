@@ -137,6 +137,168 @@
         "hu": "A reggel történelmi elmélkedéssel kezdődik, mielőtt elmerülne a természetrajzban. Délben felfedezheti a nyüzsgő kikötőt, fotózva a színes városi táblánál. A délután elhozza a partvidék varázsát, miközben luxus üdülőhelyeket és központokat fedez fel. A nap egy felejthetetlen estével zárul, elmerülve a vibráló Cabo-i naplementében.",
         "ro": "Dimineața începe cu istorie în centrul orașului înainte de a explora științele naturii. La prânz explorați zona animată a portului pentru fotografii la panoul colorat. După-amiaza aduce farmecul coastei, descoperind stațiuni de lux și centre marine. Ziua se încheie cu o seară de neuitat, admirând apusul vibrant din Cabo.",
         "en": "Morning begins with historical reflection in the city's heart before exploring natural history. Midday invites you to the bustling marina for iconic photos at the colorful sign. Afternoon brings coastal charm as you discover luxury resorts and lively marine centers. The day concludes with an unforgettable evening soaking in the vibrant Cabo sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Denkmal mit einem Schirm. Mittags bietet das Naturkundemuseum den perfekten trockenen Zufluchtsort vor dem tropischen Regen. Am Nachmittag spazieren Sie unter den schützenden Arkaden der Marina. Beenden Sie den Tag bei den Delfinen und beobachten Sie, wie die Regentropfen auf das Hafenbecken fallen, während Sie im Trockenen stehen.",
+            "hu": "Reggel az emlékműnél kezdünk, érdemes esernyőt hozni a fák alatti sétához. Délben a Természettudományi Múzeum nyújt tökéletes fedett menedéket a zápor elől. Délután a marina mentén, az árkádok alatt haladunk tovább a hajók felé. Este a delfineknél zárjuk a napot, figyelve a tenger feletti esőfüggönyt és a kikötő nyugodt fényeit a párás időben.",
+            "ro": "Începeți dimineața la monument cu o umbrelă pregătită. La prânz, Muzeul de Istorie Naturală oferă adăpostul perfect împotriva ploii tropicale. După-amiaza, plimbați-vă pe sub arcadele marinei pentru a rămâne uscați în drum spre port. Seara se încheie la delfinariu, unde puteți admira spectacolul ploii peste ocean de sub acoperișul protector.",
+            "en": "Start your morning at the monument with an umbrella in hand. By noon, the Natural History Museum provides the perfect indoor escape from the tropical showers. In the afternoon, stroll along the marina's covered walkways to stay dry. End the day at the dolphin center, watching the rain dance on the harbor water from a sheltered viewpoint."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a la madre",
+                "hu": "Monumento a la madre",
+                "ro": "Monumento a la madre",
+                "en": "Monumento a la madre"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Statue zwischen den Regenschauern; die umliegenden Bäume bieten begrenzten Schutz, aber ein stabiler Schirm ist für die offenen Wege unerlässlich.",
+                "hu": "Csodálja meg a szobrot a záporok között; a környező fák korlátozott védelmet nyújtanak, ezért egy stabil esernyő elengedhetetlen a nyitott ösvényeken.",
+                "ro": "Admirați statuia între reprizele de ploaie; copacii din jur oferă protecție limitată, așa că o umbrelă rezistentă este esențială pentru aleile deschise.",
+                "en": "Admire the statue between rain showers; the surrounding trees offer limited cover, so a sturdy umbrella is essential for the open paths around the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Natural History in Cabo San Lucas",
+                "hu": "Museum of Natural History in Cabo San Lucas",
+                "ro": "Museum of Natural History in Cabo San Lucas",
+                "en": "Museum of Natural History in Cabo San Lucas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenzeit für die Innenräume; die Ausstellungen zur Meeresbiologie sind faszinierend und halten Sie garantiert den ganzen Mittag über trocken.",
+                "hu": "Használja ki az esős időt a belső terek felfedezésére; a tengerbiológiai kiállítások lenyűgözőek, és garantáltan szárazon tartják Önt egész délben.",
+                "ro": "Profită de ploaie pentru a explora interiorul; expozițiile despre biologia marină sunt fascinante și te vor menține uscat pe tot parcursul prânzului.",
+                "en": "Take advantage of the rain to explore the indoors; the marine biology exhibits are fascinating and guaranteed to keep you dry throughout the midday showers."
+              }
+            },
+            {
+              "name": {
+                "de": "#CABO sign",
+                "hu": "#CABO sign",
+                "ro": "#CABO sign",
+                "en": "#CABO sign"
+              },
+              "tip_5lang": {
+                "de": "Die Buchstaben können bei Nässe rutschig sein; machen Sie ein schnelles Foto und suchen Sie dann Schutz in den nahegelegenen Geschäften der Marina.",
+                "hu": "A betűk nedvesen csúszósak lehetnek; készítsen egy gyors fotót, majd keressen menedéket a marina közeli üzleteinek fedett árkádjai alatt.",
+                "ro": "Literele pot fi alunecoase când sunt ude; faceți o fotografie rapidă și apoi căutați adăpost sub arcadele magazinelor din apropierea marinei.",
+                "en": "The letters can be slippery when wet; take a quick photo and then seek shelter under the covered walkways of the nearby marina shops."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Fiesta Resort & Spa",
+                "hu": "Marina Fiesta Resort & Spa",
+                "ro": "Marina Fiesta Resort & Spa",
+                "en": "Marina Fiesta Resort & Spa"
+              },
+              "tip_5lang": {
+                "de": "Die Hotellobby bietet einen luxuriösen Blick auf den Hafen im Regen; genießen Sie die Atmosphäre bei einem warmen Getränk im überdachten Barbereich.",
+                "hu": "A szálloda lobbyja luxus kilátást nyújt az esős kikötőre; élvezze a hangulatot egy meleg ital mellett a resort fedett bárjában.",
+                "ro": "Lobby-ul hotelului oferă o vedere luxoasă asupra portului pe ploaie; bucurați-vă de atmosferă cu o băutură caldă în zona de bar acoperită.",
+                "en": "The hotel lobby offers a luxury view of the rainy harbor; enjoy the atmosphere with a warm drink in the resort's covered bar area."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabo Dolphins",
+                "hu": "Cabo Dolphins",
+                "ro": "Cabo Dolphins",
+                "en": "Cabo Dolphins"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Delfine von den überdachten Tribünen aus; das Wasser wirkt bei Regen besonders mystisch, und Sie bleiben während der Vorführung trocken.",
+                "hu": "Figyelje a delfineket a fedett lelátókról; a víz különösen misztikusnak tűnik esőben, és Ön száraz marad a bemutató alatt.",
+                "ro": "Urmăriți delfinii din tribunele acoperite; apa pare deosebit de mistică pe ploaie, iar dumneavoastră veți rămâne uscat în timpul demonstrației.",
+                "en": "Watch the dolphins from the covered grandstands; the water looks especially mystical in the rain, and you will stay dry during the presentation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milde Winterluft bei einem morgendlichen Spaziergang am Denkmal. Mittags wärmen Sie sich in den angenehm temperierten Räumen des Museums auf. Der Nachmittag an der Marina bietet das beste Licht für Fotos ohne die Sommerhitze. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie rechtzeitig für die Abendstimmung bei den Delfinen ankommen.",
+            "hu": "Élvezze a lágy téli levegőt a reggeli sétán az emlékműnél. Délben melegedjen fel a múzeum kellemesen temperált termeiben, felfedezve a múltat. A délutáni marina séta a legjobb fényeket kínálja a fotózáshoz a nyári hőség nélkül. Mivel a nap 17:00 körül nyugszik, érkezzen időben a delfinekhez az esti fényekre.",
+            "ro": "Bucurați-vă de aerul blând de iarnă la o plimbare matinală lângă monument. La prânz, încălziți-vă în sălile muzeului, explorând istoria locală. După-amiaza la marină oferă cea mai bună lumină pentru fotografii, fără canicula verii. Deoarece soarele apune în jur de 17:00, ajungeți la timp pentru atmosfera de seară la delfini.",
+            "en": "Enjoy the mild winter air during a morning walk by the monument. At noon, warm up in the pleasantly tempered museum halls while exploring local history. An afternoon stroll at the marina offers the best light for photos without the summer heat. Since the sun sets around 17:00, arrive early at the dolphins to catch the evening glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a la madre",
+                "hu": "Monumento a la madre",
+                "ro": "Monumento a la madre",
+                "en": "Monumento a la madre"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne im Winter ist ideal für Fotos ohne harte Schatten; tragen Sie eine leichte Strickjacke gegen die kühle Brise vom Meer.",
+                "hu": "A téli reggeli napsütés ideális fotózáshoz éles árnyékok nélkül; viseljen egy könnyű kardigánt a tenger felől érkező hűvös szél ellen.",
+                "ro": "Soarele de dimineață iarna este ideal pentru fotografii fără umbre dure; purtați un cardigan ușor împotriva brizei răcoroase dinspre mare.",
+                "en": "Winter morning sun is ideal for photos without harsh shadows; wear a light cardigan against the cool breeze coming off the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Natural History in Cabo San Lucas",
+                "hu": "Museum of Natural History in Cabo San Lucas",
+                "ro": "Museum of Natural History in Cabo San Lucas",
+                "en": "Museum of Natural History in Cabo San Lucas"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort zur Mittagszeit; nutzen Sie die Zeit, um die Wale zu studieren, die im Winter oft vor der Küste von Cabo zu sehen sind.",
+                "hu": "Kellemes menedék délidőben; használja ki az időt a bálnák tanulmányozására, amelyek télen gyakran láthatóak Cabo partjai előtt.",
+                "ro": "Un refugiu confortabil la ora prânzului; profită de timp pentru a studia balenele, care sunt adesea văzute iarna în largul coastei Cabo.",
+                "en": "A cozy retreat at midday; use the time to study the whales, which are often seen off the coast of Cabo during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "#CABO sign",
+                "hu": "#CABO sign",
+                "ro": "#CABO sign",
+                "en": "#CABO sign"
+              },
+              "tip_5lang": {
+                "de": "Das warme Nachmittagslicht im Winter lässt die Farben des Schildes leuchten; die Luft ist klarer als im Sommer, was perfekte Fernsicht ermöglicht.",
+                "hu": "A téli délutáni meleg fény ragyogóvá teszi a felirat színeit; a levegő tisztább, mint nyáron, ami tökéletes távoli kilátást tesz lehetővé.",
+                "ro": "Lumina caldă de după-amiază iarna face culorile semnului să strălucească; aerul este mai clar decât vara, permițând o vizibilitate perfectă.",
+                "en": "The warm afternoon light in winter makes the sign's colors glow; the air is clearer than in summer, allowing for perfect long-distance views."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Fiesta Resort & Spa",
+                "hu": "Marina Fiesta Resort & Spa",
+                "ro": "Marina Fiesta Resort & Spa",
+                "en": "Marina Fiesta Resort & Spa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee auf der Terrasse; die Wintersonne ist sanft genug, um ohne Schirm draußen zu sitzen und die Jachten zu beobachten.",
+                "hu": "Élvezzen egy kávét a teraszon; a téli nap elég gyengéd ahhoz, hogy napernyő nélkül üljön kint és figyelje a jachtokat.",
+                "ro": "Savurați o cafea pe terasă; soarele de iarnă este destul de blând pentru a sta afară fără umbrelă și pentru a urmări iahturile.",
+                "en": "Enjoy a coffee on the terrace; the winter sun is gentle enough to sit outside without an umbrella and watch the yachts in the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabo Dolphins",
+                "hu": "Cabo Dolphins",
+                "ro": "Cabo Dolphins",
+                "en": "Cabo Dolphins"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, ist die spätere Vorführung oft stimmungsvoll beleuchtet; bringen Sie eine Weste für den kühlen Abend am Wasser mit.",
+                "hu": "Mivel korán sötétedik, a későbbi bemutató gyakran hangulatosan van megvilágítva; hozzon egy mellényt a vízparti hűvös estéhez.",
+                "ro": "Deoarece se întunecă devreme, demonstrația târzie este adesea iluminată ambiental; aduceți o vestă pentru seara răcoroasă de lângă apă.",
+                "en": "Since it gets dark early, the later presentation is often atmospherically lit; bring a vest for the cool evening by the water's edge."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggel történelmi elmélkedéssel kezdődik, mielőtt elmerülne a természetrajzban. Délben felfedezheti a nyüzsgő kikötőt, fotózva a színes városi táblánál. A délután elhozza a partvidék varázsát, miközben luxus üdülőhelyeket és központokat fedez fel. A nap egy felejthetetlen estével zárul, elmerülve a vibráló Cabo-i naplementében.",
         "ro": "Dimineața începe cu istorie în centrul orașului înainte de a explora științele naturii. La prânz explorați zona animată a portului pentru fotografii la panoul colorat. După-amiaza aduce farmecul coastei, descoperind stațiuni de lux și centre marine. Ziua se încheie cu o seară de neuitat, admirând apusul vibrant din Cabo.",
         "en": "Morning begins with historical reflection in the city's heart before exploring natural history. Midday invites you to the bustling marina for iconic photos at the colorful sign. Afternoon brings coastal charm as you discover luxury resorts and lively marine centers. The day concludes with an unforgettable evening soaking in the vibrant Cabo sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Achten Sie bei Regen auf rutschige Straßen beim Denkmal. Mittags bietet das Museum eine willkommene Pause vom nassen Sattel. Am Nachmittag radeln Sie vorsichtig entlang der Küste zu den Resorts, wo Sie unter Vordächern parken können. Beenden Sie die Tour bei den Solmar Resorts, wo Sie den Regen auf dem Meer von einer geschützten Veranda aus genießen können.",
+            "hu": "Esőben figyeljen a csúszós utakra az emlékműnél. Délben a múzeum üdvözlendő szünetet nyújt a vizes nyereg után a belső tereiben. Délután tekerjen óvatosan a part mentén a resortokhoz, ahol fedett helyen parkolhat. A túrát a Solmar Resortsnál zárja, élvezve a tenger feletti esőt egy védett veranda biztonságából.",
+            "ro": "Aveți grijă la drumurile alunecoase lângă monument când plouă. La prânz, muzeul oferă o pauză binevenită de la șaua umedă în interiorul său. După-amiaza, pedalați cu atenție de-a lungul coastei spre stațiuni, unde puteți parca sub acoperiș. Încheiați turul la Solmar Resorts, admirând ploaia pe mare de pe o verandă protejată.",
+            "en": "Watch out for slippery roads near the monument during rain. At noon, the museum offers a welcome break from the wet saddle in its indoor galleries. In the afternoon, cycle carefully along the coast to the resorts where you can park under cover. End your tour at Solmar Resorts, enjoying the rain over the sea from the safety of a sheltered veranda."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a la madre",
+                "hu": "Monumento a la madre",
+                "ro": "Monumento a la madre",
+                "en": "Monumento a la madre"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Bremsen auf den gepflasterten Wegen plötzliche Manöver; ein Regenponcho schützt Sie und Ihren Rucksack während der Fahrt.",
+                "hu": "Kerülje a hirtelen fékezést a kövezett utakon; egy esőponcsó megvédi Önt és a hátizsákját is a tekerés közben.",
+                "ro": "Evitați frânările bruște pe aleile pavate; o pelerină de ploaie vă va proteja pe dumneavoastră și rucsacul în timpul deplasării.",
+                "en": "Avoid sudden braking on the paved paths; a rain poncho will protect both you and your backpack during the ride between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Natural History in Cabo San Lucas",
+                "hu": "Museum of Natural History in Cabo San Lucas",
+                "ro": "Museum of Natural History in Cabo San Lucas",
+                "en": "Museum of Natural History in Cabo San Lucas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem Dachvorsprung; nutzen Sie den trockenen Stopp, um Ihre Ausrüstung zu ordnen und die Exponate in Ruhe zu besuchen.",
+                "hu": "Parkolja a kerékpárt az ereszkedő tető alá; használja ki a száraz megállót a felszerelés rendezésére és a kiállítások nyugodt megtekintésére.",
+                "ro": "Parcați bicicleta sub streșina acoperișului; folosiți oprirea pentru a vă organiza echipamentul și pentru a vizita expozițiile în liniște.",
+                "en": "Park your bike under the roof overhang; use this dry stop to organize your gear and visit the exhibits in a calm, rain-free environment."
+              }
+            },
+            {
+              "name": {
+                "de": "#CABO sign",
+                "hu": "#CABO sign",
+                "ro": "#CABO sign",
+                "en": "#CABO sign"
+              },
+              "tip_5lang": {
+                "de": "Die Umgebung des Schildes kann bei Regen matschig sein; bleiben Sie auf dem asphaltierten Bereich und tragen Sie Schutzbleche an Ihrem Fahrrad.",
+                "hu": "A felirat környéke sáros lehet esőben; maradjon az aszfaltozott részen, és érdemes sárvédőt használni a kerékpáron a felverődés ellen.",
+                "ro": "Zona din jurul semnului poate fi noroioasă; rămâneți pe porțiunea asfaltată și este recomandat să aveți apărători la bicicletă.",
+                "en": "The area around the sign can be muddy in the rain; stay on the paved portion and ensure your bike has mudguards to prevent splashes."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Dorada Los Cabos Resort & Spa",
+                "hu": "Casa Dorada Los Cabos Resort & Spa",
+                "ro": "Casa Dorada Los Cabos Resort & Spa",
+                "en": "Casa Dorada Los Cabos Resort & Spa"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am Haupteingang ab; die Bar bietet einen perfekten Blick auf die regnerische Bucht, während Sie sich kurz abtrocknen können.",
+                "hu": "Tegye le a bringát a főbejáratnál; a bár tökéletes kilátást nyújt az esős öbölre, miközben Ön egy rövid időre megszárítkozhat.",
+                "ro": "Lăsați bicicleta la intrarea principală; barul oferă o vedere perfectă spre golful ploios, permițându-vă să vă uscați pentru scurt timp.",
+                "en": "Drop your bike at the main entrance; the bar offers a perfect view of the rainy bay while you take a moment to dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabo Adventures",
+                "hu": "Cabo Adventures",
+                "ro": "Cabo Adventures",
+                "en": "Cabo Adventures"
+              },
+              "tip_5lang": {
+                "de": "Viele Abenteuer finden auch bei Regen statt; fragen Sie nach wasserfester Ausrüstung oder genießen Sie die Indoor-Aktivitäten des Zentrums.",
+                "hu": "Sok kaland esőben is folytatódik; kérjen vízálló felszerelést, vagy élvezze a központ fedett belső tevékenységeit a záporok alatt.",
+                "ro": "Multe aventuri continuă și pe ploaie; cereți echipament impermeabil sau bucurați-vă de activitățile interioare ale centrului.",
+                "en": "Many adventures continue even in the rain; ask for waterproof gear or enjoy the center's indoor activities during the downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Solmar Resorts",
+                "hu": "Solmar Resorts",
+                "ro": "Solmar Resorts",
+                "en": "Solmar Resorts"
+              },
+              "tip_5lang": {
+                "de": "Der Strandabschnitt ist bei Sturm dramatisch; beobachten Sie die Wellen vom sicheren, überdachten Hotelbereich aus, bevor Sie die Heimreise antreten.",
+                "hu": "A tengerparti szakasz drámai viharos időben; figyelje a hullámokat a szálloda biztonságos, fedett részéről, mielőtt elindulna haza.",
+                "ro": "Porțiunea de plajă este dramatică pe furtună; urmăriți valurile din zona sigură și acoperită a hotelului înainte de a pleca spre casă.",
+                "en": "The beachfront is dramatic during stormy weather; watch the waves from the hotel's safe, covered area before heading back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie die Tour bei angenehmen Wintertemperaturen am Denkmal. Mittags bietet das Museum eine kulturelle Pause in kühlen Räumen. Radeln Sie am Nachmittag entspannt an der Küste entlang, während die Sonne tiefer steht. Achten Sie auf den frühen Sonnenuntergang um 17:00 Uhr bei den Solmar Resorts, um die beste Aussicht zu genießen.",
+            "hu": "Kezdje a túrát kellemes téli hőmérsékletben az emlékműnél. Délben a múzeum kulturális szünetet nyújt a hűvösebb termekben. Délután tekerjen kényelmesen a part mentén, élvezve az alacsonyabban járó nap sugártestét. Figyeljen a korai, 17:00 körüli naplementére a Solmar Resortsnál a legjobb kilátásért.",
+            "ro": "Începeți turul la temperaturi plăcute de iarnă lângă monument. La prânz, muzeul oferă o pauză culturală în sălile mai răcoroase. După-amiaza, pedalați relaxat de-a lungul coastei, bucurându-vă de soarele blând. Atenție la apusul devreme, în jur de ora 17:00, la Solmar Resorts pentru cea mai bună priveliște.",
+            "en": "Start your tour in pleasant winter temperatures at the monument. At noon, the museum provides a cultural break in its cooler halls. In the afternoon, cycle comfortably along the coast, enjoying the low-hanging sun. Be mindful of the early sunset around 17:00 at Solmar Resorts for the best possible view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a la madre",
+                "hu": "Monumento a la madre",
+                "ro": "Monumento a la madre",
+                "en": "Monumento a la madre"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenbrise ist ideal für Radfahrer; eine leichte Windjacke schützt Sie, während Sie das Denkmal im weichen Winterlicht besuchen.",
+                "hu": "A hűvös reggeli szellő ideális a kerékpárosoknak; egy könnyű széldzseki megvédi Önt, miközben az emlékművet nézi a lágy téli fényben.",
+                "ro": "Briza răcoroasă de dimineață este ideală pentru bicicliști; o jachetă ușoară de vânt vă va proteja în timp ce vizitați monumentul.",
+                "en": "The cool morning breeze is ideal for cycling; a light windbreaker will protect you while visiting the monument in the soft winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Natural History in Cabo San Lucas",
+                "hu": "Museum of Natural History in Cabo San Lucas",
+                "ro": "Museum of Natural History in Cabo San Lucas",
+                "en": "Museum of Natural History in Cabo San Lucas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Mittagsstopp, um sich im Inneren aufzuwärmen, falls der Wind auffrischt; das Museum bietet spannende Einblicke in Cabo's Wintergäste: die Wale.",
+                "hu": "Használja ki a déli megállót a belső melegedésre, ha feltámadna a szél; a múzeum izgalmas betekintést nyújt Cabo téli vendégeibe, a bálnákba.",
+                "ro": "Folosiți oprirea de prânz pentru a vă încălzi în interior dacă vântul se intensifică; muzeul oferă detalii despre balene, oaspeții de iarnă ai orașului.",
+                "en": "Use the midday stop to warm up indoors if the wind picks up; the museum offers exciting insights into Cabo's winter guests: the whales."
+              }
+            },
+            {
+              "name": {
+                "de": "#CABO sign",
+                "hu": "#CABO sign",
+                "ro": "#CABO sign",
+                "en": "#CABO sign"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht am frühen Nachmittag perfekt für ein Selfie ohne Blendung; die klare Luft sorgt für brillante Farben auf Ihren Fotos.",
+                "hu": "A téli nap kora délután tökéletesen áll egy szelfihez vakítás nélkül; a tiszta levegő ragyogó színeket biztosít a fotókon.",
+                "ro": "Soarele de iarnă este perfect poziționat după-amiaza devreme pentru un selfie fără reflexii; aerul clar asigură culori strălucitoare în poze.",
+                "en": "The winter sun is perfectly positioned in the early afternoon for a selfie without glare; the clear air ensures brilliant colors in your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Dorada Los Cabos Resort & Spa",
+                "hu": "Casa Dorada Los Cabos Resort & Spa",
+                "ro": "Casa Dorada Los Cabos Resort & Spa",
+                "en": "Casa Dorada Los Cabos Resort & Spa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Strand bei angenehmen 20 Grad; die Wintersonne ist perfekt für eine Pause im Freien, bevor der Abend kühler wird.",
+                "hu": "Élvezze a kilátást a tengerpartra kellemes 20 fokban; a téli nap tökéletes egy szabadtéri pihenőhöz, mielőtt az este hűvösebbé válna.",
+                "ro": "Bucurați-vă de vederea spre plajă la o temperatură plăcută de 20 de grade; soarele de iarnă este perfect pentru o pauză în aer liber.",
+                "en": "Enjoy the beach view in pleasant 20-degree weather; the winter sun is perfect for an outdoor break before the evening turns cooler."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabo Adventures",
+                "hu": "Cabo Adventures",
+                "ro": "Cabo Adventures",
+                "en": "Cabo Adventures"
+              },
+              "tip_5lang": {
+                "de": "Winter ist die Hauptsaison für Touren; planen Sie Ihren Besuch so, dass Sie vor Sonnenuntergang zurück sind, um sicher im Hellen zu radeln.",
+                "hu": "A tél a túrák főszezonja; tervezze úgy a látogatást, hogy naplemente előtt érjen vissza, így biztonságosan, világosban bringázhat.",
+                "ro": "Iarna este sezonul de vârf pentru tururi; planificați vizita astfel încât să vă întoarceți înainte de apus, pentru a pedala în siguranță pe lumină.",
+                "en": "Winter is peak season for tours; plan your visit to ensure you are back before sunset to cycle safely while it is still light outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Solmar Resorts",
+                "hu": "Solmar Resorts",
+                "ro": "Solmar Resorts",
+                "en": "Solmar Resorts"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den spektakulären Sonnenuntergang bereits gegen 17:00 Uhr; die Winterfarben am Himmel sind oft intensiver als im Sommer.",
+                "hu": "Élje át a látványos naplementét már 17:00 körül; a téli színek az égen gyakran sokkal intenzívebbek, mint a nyári időszakban.",
+                "ro": "Experimentați apusul spectaculos deja în jurul orei 17:00; culorile de iarnă de pe cer sunt adesea mai intense decât vara.",
+                "en": "Experience the spectacular sunset as early as 17:00; the winter colors in the sky are often more intense than during the summer months."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A reggel történelmi elmélkedéssel kezdődik, mielőtt elmerülne a természetrajzban. Délben felfedezheti a nyüzsgő kikötőt, fotózva a színes városi táblánál. A délután elhozza a partvidék varázsát, miközben luxus üdülőhelyeket és központokat fedez fel. A nap egy felejthetetlen estével zárul, elmerülve a vibráló Cabo-i naplementében.",
         "ro": "Dimineața începe cu istorie în centrul orașului înainte de a explora științele naturii. La prânz explorați zona animată a portului pentru fotografii la panoul colorat. După-amiaza aduce farmecul coastei, descoperind stațiuni de lux și centre marine. Ziua se încheie cu o seară de neuitat, admirând apusul vibrant din Cabo.",
         "en": "Morning begins with historical reflection in the city's heart before exploring natural history. Midday invites you to the bustling marina for iconic photos at the colorful sign. Afternoon brings coastal charm as you discover luxury resorts and lively marine centers. The day concludes with an unforgettable evening soaking in the vibrant Cabo sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig zum Denkmal, da die Straßen bei Regen rutschig sind. Mittags parken Sie bequem am Museum für einen trockenen Aufenthalt. Am Nachmittag genießen Sie die Fahrt entlang der Küste zu den Beach Resorts mit herrlichem Blick aus dem Autofenster. Beenden Sie den Tag bei den Pools, die auch bei Regen eine entspannte, überdachte Atmosphäre bieten.",
+            "hu": "Reggel vezessen óvatosan az emlékműhöz, az utak csúszósak lehetnek az esőtől. Délben parkoljon kényelmesen a múzeumnál a száraz látogatás érdekében. Délután élvezze a kocsikázást a part mentén a resortokhoz, gyönyörködve a kilátásban az autó ablakából. A napot a medencéknél zárja, amelyek esőben is pihentető, fedett környezetet kínálnak.",
+            "ro": "Conduceți cu atenție dimineața spre monument, deoarece drumurile sunt alunecoase de la ploaie. La prânz, parcați confortabil la muzeu pentru o vizită uscată. După-amiaza, bucurați-vă de drumul de-a lungul coastei spre stațiuni, admirând priveliștea de la fereastra mașinii. Încheiați ziua la piscine, care oferă o atmosferă relaxată și acoperită.",
+            "en": "Drive carefully to the monument in the morning, as roads are slippery from the rain. At noon, park conveniently at the museum for a completely dry visit. In the afternoon, enjoy the drive along the coast to the beach resorts with great views from your car window. End the day at the pools, which offer a relaxed, covered atmosphere even during the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a la madre",
+                "hu": "Monumento a la madre",
+                "ro": "Monumento a la madre",
+                "en": "Monumento a la madre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Denkmal; nutzen Sie die kurzen Regenpausen für ein schnelles Foto, bevor Sie zurück ins trockene Auto schlüpfen.",
+                "hu": "Parkoljon minél közelebb az emlékműhöz; használja ki a rövid esőszüneteket egy gyors fotóra, mielőtt visszabújna a száraz autóba.",
+                "ro": "Parcați cât mai aproape de monument; profitați de scurtele pauze de ploaie pentru o poză rapidă înainte de a vă întoarce în mașina uscată.",
+                "en": "Park as close as possible to the monument; use short breaks in the rain for a quick photo before ducking back into your dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "#CABO sign",
+                "hu": "#CABO sign",
+                "ro": "#CABO sign",
+                "en": "#CABO sign"
+              },
+              "tip_5lang": {
+                "de": "Das Schild ist direkt von der Straße aus sichtbar; machen Sie das Foto aus dem Auto heraus, wenn es zu stark regnet, um auszusteigen.",
+                "hu": "A felirat közvetlenül az útról is látható; készítse el a fotót az autóból, ha túl erősen esne az eső a kiszálláshoz.",
+                "ro": "Semnul este vizibil direct din stradă; faceți fotografia din mașină dacă plouă prea tare pentru a coborî la monument.",
+                "en": "The sign is visible directly from the road; take the photo from inside the car if it is raining too hard to step out comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Natural History in Cabo San Lucas",
+                "hu": "Museum of Natural History in Cabo San Lucas",
+                "ro": "Museum of Natural History in Cabo San Lucas",
+                "en": "Museum of Natural History in Cabo San Lucas"
+              },
+              "tip_5lang": {
+                "de": "Das Museum hat einen überdachten Eingang; ideal, um trocken vom Parkplatz ins Gebäude zu gelangen und den ganzen Mittag drinnen zu verbringen.",
+                "hu": "A múzeumnak fedett bejárata van; ideális, hogy szárazon jusson be a parkolóból, és az egész délidőt a belső térben töltse.",
+                "ro": "Muzeul are o intrare acoperită; ideal pentru a intra uscat din parcare în clădire și pentru a petrece tot prânzul în interior.",
+                "en": "The museum has a covered entrance; ideal for getting from the parking lot into the building dry and spending the whole midday indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Terrasol Beach Resort",
+                "hu": "Terrasol Beach Resort",
+                "ro": "Terrasol Beach Resort",
+                "en": "Terrasol Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Valet-Parkservice, um nicht nass zu werden; die Lobby bietet einen spektakulären Blick auf den peitschenden Regen am Strand.",
+                "hu": "Használja a valet parkolást, hogy ne ázzon el; a lobby látványos kilátást nyújt a tengerparton verő esőre és a hullámokra.",
+                "ro": "Folosiți serviciul de valet parking pentru a nu vă uda; lobby-ul oferă o vedere spectaculoasă asupra ploii de pe plajă.",
+                "en": "Use the valet parking service to avoid getting wet; the lobby offers a spectacular view of the lashing rain and waves on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "El Arch of Cabo San Lucas",
+                "hu": "El Arch of Cabo San Lucas",
+                "ro": "El Arch of Cabo San Lucas",
+                "en": "El Arch of Cabo San Lucas"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht oft neblig und mystisch; beobachten Sie den Bogen von einem geschützten Aussichtspunkt am Hafen aus Ihrem Auto.",
+                "hu": "Esőben a kilátás gyakran ködös és misztikus; figyelje a sziklát egy védett kikötői kilátópontról, akár az autója kényelméből.",
+                "ro": "Pe ploaie, vederea este adesea cețoasă și mistică; urmăriți arcul dintr-un punct de observație protejat din port, chiar din mașină.",
+                "en": "In the rain, the view is often misty and mystical; watch the arch from a sheltered harbor viewpoint, even from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Jacuzzi",
+                "hu": "Jacuzzi",
+                "ro": "Jacuzzi",
+                "en": "Jacuzzi"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Jacuzzi ist bei Regen besonders entspannend; suchen Sie sich eine überdachte Anlage, um das warme Wasser trotz der kühlen Tropfen zu genießen.",
+                "hu": "Egy meleg jacuzzi különösen pihentető esőben; keressen egy fedett részt, hogy élvezhesse a meleg vizet a hűvös esőcseppek ellenére.",
+                "ro": "Un jacuzzi cald este deosebit de relaxant pe ploaie; căutați o facilitate acoperită pentru a vă bucura de apa caldă în ciuda picăturilor reci.",
+                "en": "A warm jacuzzi is especially relaxing in the rain; find a covered facility to enjoy the warm water despite the cool raindrops falling outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Margarita Pool",
+                "hu": "Margarita Pool",
+                "ro": "Margarita Pool",
+                "en": "Margarita Pool"
+              },
+              "tip_5lang": {
+                "de": "Viele Resort-Pools haben überdachte Barbereiche; beenden Sie den Tag trocken mit einem Drink, während Sie dem Rauschen des Regens lauschen.",
+                "hu": "Sok resort-medencének van fedett bárrésze; fejezze be a napot szárazon egy itallal, miközben az eső kopogását hallgatja a tetőn.",
+                "ro": "Multe piscine din stațiuni au zone de bar acoperite; încheiați ziua la adăpost cu o băutură, ascultând sunetul ploii pe acoperiș.",
+                "en": "Many resort pools have covered bar areas; end your day dry with a drink while listening to the sound of the rain drumming on the roof."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt zum Denkmal bei klarer Winterluft. Mittags ist das Museum ein idealer Ort für eine kulturelle Pause abseits der direkten Sonne. Der Nachmittag am Strand bietet angenehme Temperaturen für kurze Stopps am Arch. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie die Jacuzzi- und Poolzeit für den späten Nachmittag ein.",
+            "hu": "Élvezze az autózást az emlékműhöz a tiszta téli levegőben. Délben a múzeum ideális helyszín egy kulturális szünetre a közvetlen napsütés elől. A délután a parton kellemes hőmérsékletet kínál a sziklák megtekintéséhez. Mivel a nap 17:00 körül nyugszik, tervezze a jacuzzi és medence idejét késő délutánra.",
+            "ro": "Bucurați-vă de drumul spre monument în aerul clar de iarnă. La prânz, muzeul este un loc ideal pentru o pauză culturală departe de soarele direct. După-amiaza la plajă oferă temperaturi plăcute pentru opriri scurte la faimosul arc. Deoarece soarele apune în jur de 17:00, planificați timpul la piscină spre seară.",
+            "en": "Enjoy the drive to the monument in the clear winter air. At noon, the museum is an ideal spot for a cultural break away from the direct sun. The afternoon at the beach offers pleasant temperatures for short stops at the arch. Since the sun sets around 17:00, plan your jacuzzi and pool time for the late afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a la madre",
+                "hu": "Monumento a la madre",
+                "ro": "Monumento a la madre",
+                "en": "Monumento a la madre"
+              },
+              "tip_5lang": {
+                "de": "Die klare Wintermorgensonne bietet die beste Beleuchtung für das Denkmal; die Klimaanlage im Auto sorgt für konstante Wohlfühltemperatur.",
+                "hu": "A tiszta téli reggeli napsütés biztosítja a legjobb megvilágítást az emlékműnek; az autó klímája pedig állandó kellemes hőérzetet nyújt.",
+                "ro": "Soarele clar de dimineață iarna oferă cea mai bună iluminare pentru monument; climatizarea mașinii asigură o temperatură constantă.",
+                "en": "The clear winter morning sun provides the best lighting for the monument; your car's climate control will ensure a consistent comfortable temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "#CABO sign",
+                "hu": "#CABO sign",
+                "ro": "#CABO sign",
+                "en": "#CABO sign"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Mittagshitze, auch im Winter; das Licht ist am frühen Vormittag am weichsten für das perfekte Foto am Stadteingang.",
+                "hu": "Kerülje a déli napsütést télen is; a fények kora délelőtt a leglágyabbak a tökéletes fotóhoz a város bejáratánál.",
+                "ro": "Evitați soarele puternic de la prânz chiar și iarna; lumina este cea mai blândă dimineața devreme pentru fotografia perfectă la intrare.",
+                "en": "Avoid the midday sun even in winter; the light is softest in the early morning for that perfect photo at the city entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Natural History in Cabo San Lucas",
+                "hu": "Museum of Natural History in Cabo San Lucas",
+                "ro": "Museum of Natural History in Cabo San Lucas",
+                "en": "Museum of Natural History in Cabo San Lucas"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp zur Mittagszeit; erfahren Sie mehr über die Wale, die im Winter Cabo besuchen, bevor Sie Ihre Tour fortsetzen.",
+                "hu": "Kiváló megálló délidőben; tudjon meg többet a bálnákról, amelyek télen látogatják meg Cabót, mielőtt folytatná az autós túrát.",
+                "ro": "O oprire excelentă la prânz; aflați mai multe despre balenele care vizitează Cabo iarna înainte de a vă continua turul cu mașina.",
+                "en": "An excellent stop at midday; learn more about the whales that visit Cabo in the winter before continuing your driving tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Terrasol Beach Resort",
+                "hu": "Terrasol Beach Resort",
+                "ro": "Terrasol Beach Resort",
+                "en": "Terrasol Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten; die Wintersonne ist am Nachmittag immer noch kräftig genug, um den Strand ohne die Schwüle des Sommers zu genießen.",
+                "hu": "Parkoljon árnyékban; a téli nap délután még mindig elég erős ahhoz, hogy élvezze a partot a nyári fülledtség nélkül.",
+                "ro": "Parcați la umbră; soarele de iarnă este încă suficient de puternic după-amiaza pentru a vă bucura de plajă fără zăpușeala verii.",
+                "en": "Park in the shade; the winter sun is still strong enough in the afternoon to enjoy the beach without the oppressive humidity of summer."
+              }
+            },
+            {
+              "name": {
+                "de": "El Arch of Cabo San Lucas",
+                "hu": "El Arch of Cabo San Lucas",
+                "ro": "El Arch of Cabo San Lucas",
+                "en": "El Arch of Cabo San Lucas"
+              },
+              "tip_5lang": {
+                "de": "Die Wintermonate bieten oft die ruhigsten Gewässer für Fotos vom Bogen; das Licht ist um 15:00 Uhr am dramatischsten für die Felsformationen.",
+                "hu": "A téli hónapok gyakran a legnyugodtabb vizet kínálják a szikla fotózásához; a fény 15:00 körül a legdrámaibb a sziklaalakzatokon.",
+                "ro": "Lunile de iarnă oferă adesea cele mai liniștite ape pentru fotografii; lumina este cea mai dramatică în jur de ora 15:00.",
+                "en": "Winter months often offer the calmest waters for photos of the arch; the light is most dramatic on the rock formations around 15:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Jacuzzi",
+                "hu": "Jacuzzi",
+                "ro": "Jacuzzi",
+                "en": "Jacuzzi"
+              },
+              "tip_5lang": {
+                "de": "Der späte Nachmittag ist perfekt für den Jacuzzi; wenn die Luft kühler wird, ist das warme Wasser die ideale Belohnung des Tages.",
+                "hu": "A késő délután tökéletes a jacuzzihoz; ahogy a levegő hűl, a meleg víz az ideális jutalom a nap végén.",
+                "ro": "După-amiaza târziu este perfectă pentru jacuzzi; pe măsură ce aerul se răcește, apa caldă este recompensa ideală a zilei.",
+                "en": "Late afternoon is perfect for the jacuzzi; as the air begins to cool, the warm water is the ideal reward at the end of your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Margarita Pool",
+                "hu": "Margarita Pool",
+                "ro": "Margarita Pool",
+                "en": "Margarita Pool"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang um 17:00 Uhr vom Pool aus; bringen Sie ein Handtuch oder einen Bademantel für den Weg zurück zum Auto mit.",
+                "hu": "Élje át a naplementét 17:00-kor a medencéből; hozzon törölközőt vagy köntöst az autóhoz való visszatéréshez a hűvös esti levegőben.",
+                "ro": "Experimentați apusul la ora 17:00 din piscină; aduceți un prosop sau un halat pentru drumul înapoi spre mașină în aerul răcoros.",
+                "en": "Experience the sunset at 17:00 from the pool; bring a towel or robe for the walk back to the car in the cool evening air."
+              }
+            }
+          ]
+        }
       }
     }
   }

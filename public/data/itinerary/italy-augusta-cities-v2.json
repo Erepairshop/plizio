@@ -160,6 +160,196 @@
         "hu": "A nap a történelmi Porta Santo Stefano kapunál kezdődik, amely az óvárosba vezet. Ezután a fenséges Castello Svevo várát csodáljuk meg, majd a Belvedere teraszán pihenünk. Délben az impozáns városházát nézzük meg, mielőtt a szakrális helyszíneket járjuk be. A délután a Ricetta di Malta történelmi falai között ér véget békésen.",
         "ro": "Ziua începe la istorica Porta Santo Stefano, intrarea în orașul vechi. Apoi admirăm maiestuosul Castello Svevo și ne bucurăm de briza mării la Belvedere. La prânz explorăm impunătoarea Primărie, înainte de a vizita lăcașurile spirituale ale orașului. După-amiaza se încheie relaxant la istorica Ricetta di Malta.",
         "en": "The day starts at the historic Porta Santo Stefano, gateway to the old town. We then explore the mighty Castello Svevo before enjoying the ocean breeze at the Belvedere. At midday, we admire the impressive Town Hall and delve into local spiritual heritage. The afternoon wraps up peacefully at the historic Ricetta di Malta."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am historischen Tor im Regen, doch das Castello Svevo bietet mittags idealen Schutz in seinen dicken Mauern. Am Nachmittag erkunden wir das Rathaus und die Kirchen von innen, um den nassen Gassen zu entkommen. Der Abend endet gemütlich in einem überdachten Lokal am Hafen, während man dem beruhigenden Prasseln des Regens auf das Mittelmeer lauscht.",
+            "hu": "A reggel a monumentális kapunál ér minket az esőben, de a Castello Svevo falai védelmet nyújtanak délidőben. Délután a városháza és a templomok belső tereiben kalandozunk, elkerülve a vizes utcákat. Az estét egy hangulatos, fedett helyen zárjuk a kikötő közelében, hallgatva a tenger morajlását és az eső kopogását a háztetőkön.",
+            "ro": "Dimineața începe la poarta istorică sub ploaie, dar Castelul Svevo oferă adăpostul perfect la prânz între zidurile sale groase. După-amiaza explorăm interiorul primăriei și al bisericilor pentru a evita străzile ude și alunecoase. Seara se încheie într-un loc primitor lângă port, ascultând ploaia care cade peste Marea Mediterană.",
+            "en": "The morning starts at the historic gate as rain falls, making the stones glisten. By noon, the massive Svevo Castle offers a perfect shelter to explore history away from the wet. In the afternoon, we seek the indoor beauty of the town hall and local churches. Evening concludes in a cozy, covered spot, watching the rain dance on the Mediterranean harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porta Santo Stefano",
+                "hu": "Porta Santo Stefano",
+                "ro": "Porta Santo Stefano",
+                "en": "Porta Santo Stefano"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocken Details unter dem Schutz Ihres Regenschirms und achten Sie auf die rutschigen Steinplatten am Eingang.",
+                "hu": "Csodálja meg a barokk részleteket az esernyője alól, és ügyeljen a bejáratnál lévő, esőtől csúszóssá vált kőlapokra.",
+                "ro": "Admirați detaliile baroce sub protecția umbrelei și aveți grijă la dalele de piatră de la intrare care devin alunecoase la ploaie.",
+                "en": "Admire the baroque details from under your umbrella and watch out for the stone slabs at the entrance which become slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Svevo",
+                "hu": "Castello Svevo",
+                "ro": "Castello Svevo",
+                "en": "Castello Svevo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Innenräume der Festung als perfekten Zufluchtsort vor dem Wetter und erkunden Sie die überdachten Gänge.",
+                "hu": "Használja ki az erőd masszív belső tereit tökéletes menedékként az időjárás elől, és fedezze fel a vár fedett folyosóit.",
+                "ro": "Folosiți interioarele masive ale cetății ca refugiu perfect împotriva vremii și explorați coridoarele acoperite ale castelului.",
+                "en": "Use the massive interiors of the fortress as a perfect refuge from the weather and explore the covered corridors of the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Badiazza",
+                "hu": "Belvedere Badiazza",
+                "ro": "Belvedere Badiazza",
+                "en": "Belvedere Badiazza"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf das stürmische Meer nur kurz und suchen Sie danach Schutz in einem nahegelegenen Café.",
+                "hu": "Élvezze a viharos tenger drámai látványát csak egy rövid ideig, majd keressen menedéket egy közeli hangulatos kávézóban.",
+                "ro": "Bucurați-vă de vederea dramatică a mării învolburate doar pentru scurt timp, apoi căutați adăpost într-o cafenea primitoare din apropiere.",
+                "en": "Enjoy the dramatic view of the stormy sea only briefly, then seek shelter in a nearby cozy café to dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Augusta",
+                "hu": "Municipio di Augusta",
+                "ro": "Municipio di Augusta",
+                "en": "Municipio di Augusta"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus ist ein idealer Ort, um die lokale Geschichte im Trockenen zu bewundern; betrachten Sie die prunkvollen Säle im Inneren.",
+                "hu": "A városháza ideális hely a helyi történelem megismerésére szárazon; tekintse meg a belső terek lenyűgöző díszítését.",
+                "ro": "Primăria este un loc ideal pentru a admira istoria locală la adăpost; vizitați sălile decorate somptuos din interior.",
+                "en": "The town hall is an ideal place to admire local history while staying dry; view the impressively decorated halls inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Andrea Apostolo",
+                "hu": "Chiesa di Sant'Andrea Apostolo",
+                "ro": "Chiesa di Sant'Andrea Apostolo",
+                "en": "Chiesa di Sant'Andrea Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Die spirituelle Stille und die kunstvollen Altäre bieten eine wunderbare Pause vom Regen; genießen Sie die trockene, andächtige Atmosphäre.",
+                "hu": "A spirituális csend és a művészi oltárok csodás pihenőt nyújtanak az eső elől; élvezze a száraz, áhítatos hangulatot.",
+                "ro": "Liniștea spirituală și altarele artistice oferă o pauză minunată de ploaie; bucurați-vă de atmosfera uscată și pioasă.",
+                "en": "The spiritual silence and artistic altars offer a wonderful break from the rain; enjoy the dry, prayerful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Ricetta di Malta",
+                "hu": "Ricetta di Malta",
+                "ro": "Ricetta di Malta",
+                "en": "Ricetta di Malta"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Ort bietet interessante Nischen zum Unterstellen; entdecken Sie die Geschichte des Malteserordens wettergeschützt.",
+                "hu": "Ez a történelmi helyszín érdekes fülkéket kínál az eső elől; fedezze fel a Máltai Lovagrend történetét védett helyen.",
+                "ro": "Acest loc istoric oferă nișe interesante pentru adăpost; descoperiți istoria Ordinului de Malta fiind protejat de vreme.",
+                "en": "This historic site offers interesting niches for shelter; discover the history of the Order of Malta while protected from the weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Stadttor erfordert heute warme Kleidung gegen die Meeresbrise. Mittags wärmt uns die Geschichte im Schloss auf, bevor wir den frühen Sonnenuntergang gegen 17:00 Uhr am Belvedere genießen. Da es früh dunkel wird, lassen wir den Tag zeitig bei einem Heißgetränk in den gemütlichen Gassen der Altstadt ausklingen.",
+            "hu": "A hűvös téli reggelen friss tengeri szél fogad a városkapunál, így jól jön a réteges öltözet. A déli napfény megvilágítja a várat, de délutánra már érezhető a lehűlés, így a belső tereket keressük. Mivel 17 óra körül sötétedik, a napot korán, egy meleg tea vagy kávé mellett fejezzük be a központban.",
+            "ro": "O dimineață răcoroasă de iarnă ne întâmpină la poarta orașului, unde briza mării necesită haine groase. Prânzul este dedicat castelului, iar la apusul devreme de la ora 17:00 căutăm căldura interioarelor istorice. Ziua se încheie devreme cu o băutură caldă în centrul vechi, sub stelele clare ale iernii.",
+            "en": "A crisp winter morning invites us to the city gate, where the air is sharp and clear. Noon is spent exploring the castle's heights, though the sea breeze requires warm layers today. As the sun sets early around 17:00, we move to find the warmth of the historical center. The day ends early with a warm drink as the winter stars appear over Augusta."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porta Santo Stefano",
+                "hu": "Porta Santo Stefano",
+                "ro": "Porta Santo Stefano",
+                "en": "Porta Santo Stefano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für fantastische Fotos des Tores, aber tragen Sie einen Schal gegen den kühlen Wind vom Meer.",
+                "hu": "Használja ki a tiszta téli fényt a kapu fotózásához, de viseljen sálat a tengerről fújó hűvös szél ellen.",
+                "ro": "Folosiți lumina clară de iarnă pentru fotografii fantastice ale porții, dar purtați o eșarfă împotriva vântului rece dinspre mare.",
+                "en": "Take advantage of the clear winter light for fantastic photos of the gate, but wear a scarf against the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Svevo",
+                "hu": "Castello Svevo",
+                "ro": "Castello Svevo",
+                "en": "Castello Svevo"
+              },
+              "tip_5lang": {
+                "de": "Auf den hohen Mauern kann es im Winter sehr windig sein; suchen Sie nach der Besichtigung die windgeschützten Bereiche im Innenhof auf.",
+                "hu": "A magas falakon télen nagyon szeles lehet az idő; a kilátás után keresse a belső udvar szélvédettebb részeit.",
+                "ro": "Pe zidurile înalte poate fi foarte vânt iarna; după vizitarea panoramei, căutați zonele ferite de vânt din curtea interioară.",
+                "en": "It can be very windy on the high walls in winter; after enjoying the view, seek out the sheltered areas in the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Badiazza",
+                "hu": "Belvedere Badiazza",
+                "ro": "Belvedere Badiazza",
+                "en": "Belvedere Badiazza"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort für den frühen Wintersonnenuntergang; kommen Sie gegen 16:30 Uhr hierher, um das beste Licht zu erleben.",
+                "hu": "Ez a legjobb hely a korai téli naplemente megtekintéséhez; érkezzen 16:30 körül a legszebb fényekért.",
+                "ro": "Acesta este cel mai bun loc pentru a vedea apusul devreme de iarnă; veniți aici în jurul orei 16:30 pentru cea mai bună lumină.",
+                "en": "This is the best spot for the early winter sunset; arrive here around 16:30 to experience the most beautiful light."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Augusta",
+                "hu": "Municipio di Augusta",
+                "ro": "Municipio di Augusta",
+                "en": "Municipio di Augusta"
+              },
+              "tip_5lang": {
+                "de": "Die prächtigen Innenräume bieten eine willkommene Aufwärmpause von der Kälte im Freien; bewundern Sie die historische Architektur.",
+                "hu": "A pompás belső terek kellemes felmelegedést nyújtanak a kinti hideg után; csodálja meg a történelmi építészetet.",
+                "ro": "Interioarele somptuoase oferă o pauză de încălzire binevenită după frigul de afară; admirați arhitectura istorică.",
+                "en": "The magnificent interiors offer a welcome warming break from the cold outside; admire the grand historical architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Andrea Apostolo",
+                "hu": "Chiesa di Sant'Andrea Apostolo",
+                "ro": "Chiesa di Sant'Andrea Apostolo",
+                "en": "Chiesa di Sant'Andrea Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag, wenn das sanfte Winterlicht durch die Fenster fällt und eine magische Atmosphäre schafft.",
+                "hu": "Látogassa meg a templomot késő délután, amikor a lágy téli fény beszűrődik az ablakokon, varázslatos hangulatot árasztva.",
+                "ro": "Vizitați biserica după-amiaza târziu, când lumina blândă de iarnă trece prin ferestre, creând o atmosferă magică.",
+                "en": "Visit the church in the late afternoon when the soft winter light filters through the windows, creating a magical atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Ricetta di Malta",
+                "hu": "Ricetta di Malta",
+                "ro": "Ricetta di Malta",
+                "en": "Ricetta di Malta"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihren Rundgang hier ab, bevor es ganz dunkel wird, und nutzen Sie die Nähe zu warmen Cafés in der Altstadt.",
+                "hu": "Zárja itt a körutat, mielőtt teljesen besötétedik, és használja ki a közeli óvárosi kávézók melegét.",
+                "ro": "Încheiați turul aici înainte de a se întuneca complet și profitați de apropierea cafenelelor calde din centrul vechi.",
+                "en": "Finish your tour here before it gets completely dark and take advantage of the nearby warm cafés in the old town."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Reggel a Chiesa di Santa Lucia felé kerekezünk, majd a Porta Santo Stefano történetébe merülünk. Ezt követően a Gesù e Maria egykori templomát fedezzük fel. Délután lazán pedálozunk további gyönyörű templomokhoz, megcsodálva a helyi építészetet. A napot a tengerparti Lido della Marina Militare kilátásával zárjuk.",
         "ro": "Dimineața pedalăm spre Chiesa di Santa Lucia și descoperim istoria Porții Santo Stefano. Mai târziu explorăm fosta biserică Gesù e Maria. După-amiaza o petrecem relaxant vizitând alte biserici mici, admirând arhitectura locală inedită. Ziua se încheie la malul mării, la Lido della Marina Militare, cu o priveliște superbă.",
         "en": "In the morning, we cycle to Chiesa di Santa Lucia and soak up the history of Porta Santo Stefano. Next, we explore the former church of Gesù e Maria. The afternoon features a leisurely ride to charming local churches, admiring the architecture. Finally, we head to the seaside Lido della Marina Militare for great coastal views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den glatten Straßen von Augusta. Wir starten morgens an der Kirche und suchen mittags Schutz in den historischen Gebäuden des Zentrums. Am Nachmittag radeln wir vorsichtig an der Küste entlang, wobei wir oft unter überdachten Arkaden halten. Der Abend endet mit dem Abstellen der Räder an einem trockenen, sicheren Ort.",
+            "hu": "A kerékpározás esőben óvatosságot igényel Augusta csúszós utcáin. Reggel a templomnál kezdünk, délben pedig a központ történelmi épületeiben keresünk menedéket. Délután óvatosan tekerünk a tengerpart mentén, gyakran megállva fedett árkádok alatt. A napot a biciklik száraz, biztonságos helyre tételével zárjuk.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile alunecoase din Augusta. Începem dimineața la biserică și căutăm adăpost la prânz în clădirile istorice din centru. După-amiaza pedalăm cu grijă de-a lungul coastei, oprindu-ne des sub arcade acoperite. Seara se încheie prin parcarea bicicletelor într-un loc uscat și sigur.",
+            "en": "A bike tour in the rain requires caution on the slippery streets of Augusta. We start at the church in the morning and seek shelter in the historic buildings of the center at noon. In the afternoon, we cycle carefully along the coast, stopping often under covered arcades. The evening ends by parking the bikes in a dry, secure spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Santa Lucia",
+                "hu": "Chiesa di Santa Lucia",
+                "ro": "Chiesa di Santa Lucia",
+                "en": "Chiesa di Santa Lucia"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem geschützten Ort und genießen Sie die spirituelle Ruhe im trockenen Inneren der Kirche.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és élvezze a spirituális nyugalmat a templom száraz belső terében.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de liniștea spirituală în interiorul uscat al bisericii.",
+                "en": "Park your bike in a sheltered spot and enjoy the spiritual peace inside the dry interior of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Santo Stefano",
+                "hu": "Porta Santo Stefano",
+                "ro": "Porta Santo Stefano",
+                "en": "Porta Santo Stefano"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Durchfahren des Tores auf die nassen Pflastersteine, die besonders für Fahrradreifen rutschig sein können.",
+                "hu": "A kapun való áthaladáskor ügyeljen a nedves macskakövekre, amelyek különösen csúszósak lehetnek a kerékpárgumik számára.",
+                "ro": "Aveți grijă la trecerea prin poartă la pietrele umede, care pot fi deosebit de alunecoase pentru anvelopele bicicletei.",
+                "en": "Be careful when riding through the gate as the wet cobblestones can be particularly slippery for bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Ex chiesa di Gesù e Maria",
+                "hu": "Ex chiesa di Gesù e Maria",
+                "ro": "Ex chiesa di Gesù e Maria",
+                "en": "Ex chiesa di Gesù e Maria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen geschichtsträchtigen Ort für eine längere Pause im Trockenen, während Sie die Architektur bewundern.",
+                "hu": "Használja ki ezt a történelmi helyszínt egy hosszabb száraz pihenőre, miközben az építészetet csodálja.",
+                "ro": "Folosiți acest loc istoric pentru o pauză lungă la uscat, în timp ce admirați arhitectura clădirii.",
+                "en": "Take advantage of this historic site for a longer dry break while admiring the architecture of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna delle Grazie",
+                "hu": "Chiesa della Madonna delle Grazie",
+                "ro": "Chiesa della Madonna delle Grazie",
+                "en": "Chiesa della Madonna delle Grazie"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um sich aufzuwärmen und den Regen abzuwarten; betrachten Sie die religiöse Kunst im Inneren.",
+                "hu": "Tökéletes megálló a felmelegedéshez és az eső kivárásához; tekintse meg a benti vallási művészeti alkotásokat.",
+                "ro": "O oprire perfectă pentru a vă încălzi și a aștepta trecerea ploii; admirați arta religioasă din interior.",
+                "en": "A perfect stop to warm up and wait out the rain; view the religious artworks inside the sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Soccorso",
+                "hu": "Chiesa del Soccorso",
+                "ro": "Chiesa del Soccorso",
+                "en": "Chiesa del Soccorso"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet Zuflucht und Stille; prüfen Sie vor der Weiterfahrt den Zustand der Bremsen Ihres Fahrrads bei Nässe.",
+                "hu": "A templom menedéket és csendet kínál; a továbbindulás előtt ellenőrizze kerékpárja fékjeit a nedves úton való használathoz.",
+                "ro": "Biserica oferă refugiu și liniște; înainte de a pleca, verificați starea frânelor bicicletei pentru drumul umed.",
+                "en": "The church offers refuge and silence; before moving on, check your bike's brakes for use on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Sottufficiali Marina Militare Punta Izzo",
+                "hu": "Lido Sottufficiali Marina Militare Punta Izzo",
+                "ro": "Lido Sottufficiali Marina Militare Punta Izzo",
+                "en": "Lido Sottufficiali Marina Militare Punta Izzo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das wilde Meer von einem überdachten Bereich aus; die Radfahrt hierher ist bei Wind anstrengend.",
+                "hu": "Élvezze a vad tenger látványát egy fedett területről; a szeles időben ide vezető kerékpározás fárasztó lehet.",
+                "ro": "Bucurați-vă de vederea mării sălbatice dintr-o zonă acoperită; pedalatul până aici pe vânt poate fi obositor.",
+                "en": "Enjoy the view of the wild sea from a covered area; the bike ride here can be tiring in windy conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Augusta bietet klare Sicht, aber erfordert Schutz gegen den kalten Wind. Wir starten morgens an der Küste und nutzen das Tageslicht bis zum frühen Nachmittag voll aus. Mittags wärmen wir uns in den Kirchen der Stadt auf. Da die Sonne gegen 17:00 Uhr untergeht, planen wir unsere Rückkehr rechtzeitig vor Einbruch der Dunkelheit.",
+            "hu": "A téli kerékpározás Augustában tiszta látási viszonyokat kínál, de védelmet igényel a hideg szél ellen. Reggel a tengerpartnál kezdünk, és kora délutánig teljesen kihasználjuk a nappali fényt. Napközben a város templomaiban melegszünk fel. Mivel a nap 17 óra körül nyugszik, a visszatérést még sötétedés előttre tervezzük.",
+            "ro": "O tură cu bicicleta iarna în Augusta oferă vizibilitate clară, dar necesită protecție împotriva vântului rece. Începem dimineața pe coastă și profităm din plin de lumina zilei până după-amiaza devreme. La prânz ne încălzim în bisericile orașului. Deoarece soarele apune la ora 17:00, planificăm întoarcerea înainte de lăsarea întunericului.",
+            "en": "A winter bike tour in Augusta offers clear views but requires protection against the cold wind. We start along the coast in the morning, making full use of daylight until early afternoon. At noon, we warm up in the city's churches. Since the sun sets around 17:00, we plan our return well before darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Santa Lucia",
+                "hu": "Chiesa di Santa Lucia",
+                "ro": "Chiesa di Santa Lucia",
+                "en": "Chiesa di Santa Lucia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den ersten Stopp, um sich aufzuwärmen; die klare Winterluft bietet eine tolle Sicht auf die Umgebung der Kirche.",
+                "hu": "Használja az első megállót a felmelegedéshez; a tiszta téli levegő remek kilátást nyújt a templom környékére.",
+                "ro": "Folosiți prima oprire pentru a vă încălzi; aerul clar de iarnă oferă o vedere excelentă asupra împrejurimilor bisericii.",
+                "en": "Use the first stop to warm up; the clear winter air offers a great view of the church surroundings."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Santo Stefano",
+                "hu": "Porta Santo Stefano",
+                "ro": "Porta Santo Stefano",
+                "en": "Porta Santo Stefano"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz für ein Foto im weichen Winterlicht; achten Sie auf Böen, die durch das Tor ziehen können.",
+                "hu": "Álljon meg egy rövid fotóra a lágy téli fényben; ügyeljen a kapun átsuhanó széllökésekre.",
+                "ro": "Opriți-vă scurt pentru o fotografie în lumina blândă de iarnă; aveți grijă la rafalele de vânt care pot trece prin poartă.",
+                "en": "Stop briefly for a photo in the soft winter light; watch out for gusts of wind that can blow through the gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Ex chiesa di Gesù e Maria",
+                "hu": "Ex chiesa di Gesù e Maria",
+                "ro": "Ex chiesa di Gesù e Maria",
+                "en": "Ex chiesa di Gesù e Maria"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause im Windschatten der historischen Mauern; genießen Sie die friedliche Atmosphäre.",
+                "hu": "Ideális hely egy pihenőre a történelmi falak szélárnyékában; élvezze a békés, téli hangulatot.",
+                "ro": "Un loc ideal pentru o pauză la adăpostul zidurilor istorice; bucurați-vă de atmosfera liniștită de iarnă.",
+                "en": "An ideal place for a break in the wind shadow of the historic walls; enjoy the peaceful winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna delle Grazie",
+                "hu": "Chiesa della Madonna delle Grazie",
+                "ro": "Chiesa della Madonna delle Grazie",
+                "en": "Chiesa della Madonna delle Grazie"
+              },
+              "tip_5lang": {
+                "de": "Die Innentemperatur der Kirche ist angenehm; nehmen Sie sich Zeit, die Details der religiösen Kunst zu studieren.",
+                "hu": "A templom belső hőmérséklete kellemes; szánjon időt a vallási művészeti részletek alapos tanulmányozására.",
+                "ro": "Temperatura interioară a bisericii este plăcută; acordați-vă timp pentru a studia detaliile artei religioase.",
+                "en": "The interior temperature of the church is pleasant; take your time to study the details of the religious art."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Soccorso",
+                "hu": "Chiesa del Soccorso",
+                "ro": "Chiesa del Soccorso",
+                "en": "Chiesa del Soccorso"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier auf, bevor Sie die letzte Etappe Ihrer Radtour antreten; die Wintersonne steht bereits tief.",
+                "hu": "Melegedjen fel itt, mielőtt megkezdi kerékpártúrája utolsó szakaszát; a téli nap már alacsonyan jár.",
+                "ro": "Încălziți-vă aici înainte de a începe ultima etapă a turei; soarele de iarnă este deja jos pe cer.",
+                "en": "Warm up here before starting the last leg of your bike tour; the winter sun is already low in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Sottufficiali Marina Militare Punta Izzo",
+                "hu": "Lido Sottufficiali Marina Militare Punta Izzo",
+                "ro": "Lido Sottufficiali Marina Militare Punta Izzo",
+                "en": "Lido Sottufficiali Marina Militare Punta Izzo"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das winterliche Meer ist spektakulär; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
+                "hu": "A téli tenger látványa látványos; győződjön meg róla, hogy kerékpárja világítása működik a hazafelé úthoz.",
+                "ro": "Vederea mării iarna este spectaculoasă; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
+                "en": "The view of the winter sea is spectacular; make sure your bike lights are working for the ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A nap lenyűgözően indul a hatalmas léghajóhangárnál, amely igazi különlegesség. Később a városba autózunk a Castello Svevo várához, és élvezzük a Belvedere panorámáját. Délben a hangulatos városházát és egy régi templomot fedezünk fel. A kirándulás az Auditorium kulturális élményével zárul kellemesen.",
         "ro": "Ziua începe spectaculos la imensul hangar de dirijabile, o comoară ascunsă. Apoi conducem spre oraș pentru a vedea Castello Svevo și admirăm priveliștea de la Belvedere. La prânz vizităm primăria fermecătoare și o biserică istorică. Excursia se termină cu o vizită culturală relaxantă la Auditoriul local.",
         "en": "The day kicks off spectacularly at the massive airship hangar, a true hidden gem. We then drive into town for the Castello Svevo and enjoy panoramic views from the Belvedere. At midday, we tour the charming Town Hall and a historic church. The journey concludes with a relaxing cultural visit to the local Auditorium."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute das beste Transportmittel, um Augusta bei Regen trocken zu erkunden. Wir starten am beeindruckenden Hangar und fahren mittags zur Festung, wobei wir direkt an den Sehenswürdigkeiten parken. Nachmittags besuchen wir das Rathaus und die Kirchen, während draußen der Regen fällt. Der Abend endet komfortabel in einem Auditorium mit kulturellem Programm.",
+            "hu": "Az autó ma a legjobb választás Augusta esős felfedezéséhez. Az impozáns Hangárnál kezdünk, délben pedig a várhoz hajtunk, közvetlenül a látnivalóknál parkolva. Délután a városházát és a templomokat látogatjuk meg, miközben odakint esik. Az estét kényelmesen, egy kulturális programmal zárjuk az auditóriumban.",
+            "ro": "Mașina este cea mai bună alegere astăzi pentru a explora Augusta pe ploaie. Începem la hangarul impresionant și conducem la prânz spre cetate, parcând direct lângă obiective. După-amiaza vizităm primăria și bisericile în timp ce afară plouă. Seara se încheie confortabil cu un program cultural la auditorium.",
+            "en": "The car is the best choice today for exploring Augusta in the rain while staying dry. We start at the impressive Hangar and drive to the fortress at noon, parking right next to the sights. In the afternoon, we visit the town hall and churches while the rain falls outside. The evening ends comfortably with a cultural program at the auditorium."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hangar per dirigibili",
+                "hu": "Hangar per dirigibili",
+                "ro": "Hangar per dirigibili",
+                "en": "Hangar per dirigibili"
+              },
+              "tip_5lang": {
+                "de": "Dieses gigantische Bauwerk bietet einen massiven Schutz vor Regen; parken Sie so nah wie möglich am Eingangsbereich.",
+                "hu": "Ez a gigantikus építmény hatalmas védelmet nyújt az eső elől; parkoljon a lehető legközelebb a bejárati részhez.",
+                "ro": "Această structură gigantică oferă o protecție masivă împotriva ploii; parcați cât mai aproape de zona de intrare.",
+                "en": "This gigantic structure offers massive protection from the rain; park as close as possible to the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Svevo",
+                "hu": "Castello Svevo",
+                "ro": "Castello Svevo",
+                "en": "Castello Svevo"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Festungsmauern halten den Regen ab; nutzen Sie den Besuch, um die Innenräume der Burg ausführlich zu erkunden.",
+                "hu": "A vastag várfalak felfogják az esőt; használja ki a látogatást a vár belső tereinek alapos felfedezésére.",
+                "ro": "Zidurile groase ale cetății opresc ploaia; profitați de vizită pentru a explora în detaliu interioarele castelului.",
+                "en": "The thick fortress walls keep the rain out; take advantage of the visit to explore the castle's interiors in detail."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Badiazza",
+                "hu": "Belvedere Badiazza",
+                "ro": "Belvedere Badiazza",
+                "en": "Belvedere Badiazza"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Meer direkt aus dem Auto heraus, wenn der Regen zu stark für einen Spaziergang ist.",
+                "hu": "Élvezze a tengeri kilátást közvetlenül az autóból, ha az eső túl erős egy rövid sétához a kilátónál.",
+                "ro": "Bucurați-vă de vederea la mare direct din mașină, dacă ploaia este prea puternică pentru o plimbare la belvedere.",
+                "en": "Enjoy the sea view directly from your car if the rain is too heavy for a short walk at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Augusta",
+                "hu": "Municipio di Augusta",
+                "ro": "Municipio di Augusta",
+                "en": "Municipio di Augusta"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiger Stopp im Trockenen; bewundern Sie die Architektur und die historischen Ausstellungsstücke im Inneren des Gebäudes.",
+                "hu": "Pompás megálló száraz helyen; csodálja meg az építészetet és a történelmi kiállítási tárgyakat az épület belsejében.",
+                "ro": "O oprire superbă la uscat; admirați arhitectura și obiectele istorice expuse în interiorul clădirii primăriei.",
+                "en": "A magnificent dry stop; admire the architecture and historical exhibits inside the town hall building."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Francesco di Paola",
+                "hu": "Chiesa di San Francesco di Paola",
+                "ro": "Chiesa di San Francesco di Paola",
+                "en": "Chiesa di San Francesco di Paola"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine ruhige, trockene Atmosphäre; ideal, um die religiöse Kunst zu bewundern, während es draußen regnet.",
+                "hu": "A templom csendes, száraz légkört biztosít; ideális a vallási művészet megcsodálására, miközben kint esik.",
+                "ro": "Biserica oferă o atmosferă liniștită și uscată; ideal pentru a admira arta religioasă în timp ce afară plouă.",
+                "en": "The church provides a quiet, dry atmosphere; ideal for admiring religious art while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorium comunale Giuseppe Amato",
+                "hu": "Auditorium comunale Giuseppe Amato",
+                "ro": "Auditorium comunale Giuseppe Amato",
+                "en": "Auditorium comunale Giuseppe Amato"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss für einen Regentag; genießen Sie eine Veranstaltung in der komfortablen, trockenen Umgebung des Auditoriums.",
+                "hu": "Tökéletes lezárása egy esős napnak; élvezzen egy előadást az auditórium kényelmes, száraz környezetében.",
+                "ro": "Finalul perfect pentru o zi ploioasă; bucurați-vă de un eveniment în mediul confortabil și uscat al auditoriului.",
+                "en": "The perfect end to a rainy day; enjoy an event in the comfortable, dry environment of the auditorium."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto ideal, um schnell zwischen den Sehenswürdigkeiten von Augusta zu wechseln und sich zwischendurch aufzuwärmen. Wir besuchen morgens den Hangar und mittags die Festung im klaren Licht. Da die Sonne bereits um 17:00 Uhr untergeht, nutzen wir den späten Nachmittag für Museums- und Kirchenbesuche. Der Abend klingt warm und gemütlich im Auditorium aus.",
+            "hu": "Télen az autó ideális, hogy gyorsan váltsunk Augusta látnivalói között, és közben felmelegedjünk. Reggel a Hangárt, délben pedig a várat látogatjuk meg a tiszta téli fényben. Mivel a nap már 17 órakor nyugszik, a késő délutánt múzeum- és templomlátogatásra használjuk. Az estét melegben, az auditóriumban zárjuk.",
+            "ro": "Iarna, mașina este ideală pentru a schimba rapid între obiectivele din Augusta și pentru a ne încălzi între timp. Vizităm hangarul dimineața și cetatea la prânz în lumina clară. Deoarece soarele apune deja la ora 17:00, folosim după-amiaza târziu pentru vizite la muzee și biserici. Seara se încheie la căldură în auditorium.",
+            "en": "In winter, the car is ideal for quickly switching between Augusta's sights and warming up in between. We visit the Hangar in the morning and the fortress at noon in the clear light. Since the sun sets as early as 17:00, we use the late afternoon for museum and church visits. The evening ends warmly and comfortably in the auditorium."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hangar per dirigibili",
+                "hu": "Hangar per dirigibili",
+                "ro": "Hangar per dirigibili",
+                "en": "Hangar per dirigibili"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft macht die Dimensionen des Hangars noch beeindruckender; tragen Sie eine warme Jacke für die Besichtigung.",
+                "hu": "A tiszta téli levegő még lenyűgözőbbé teszi a Hangár méreteit; viseljen meleg kabátot a látogatáshoz.",
+                "ro": "Aerul clar de iarnă face dimensiunile hangarului și mai impresionante; purtați o jachetă groasă pentru vizitare.",
+                "en": "The clear winter air makes the Hangar's dimensions even more impressive; wear a warm jacket for the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Svevo",
+                "hu": "Castello Svevo",
+                "ro": "Castello Svevo",
+                "en": "Castello Svevo"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss bietet Schutz vor dem kalten Meereswind; genießen Sie die Aussicht von den geschützten Stellen der Festung.",
+                "hu": "A vár védelmet nyújt a hideg tengeri szél ellen; élvezze a kilátást az erőd szélvédett pontjairól.",
+                "ro": "Castelul oferă protecție împotriva vântului rece de mare; bucurați-vă de priveliște din punctele adăpostite ale cetății.",
+                "en": "The castle offers protection from the cold sea wind; enjoy the views from the sheltered spots of the fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Badiazza",
+                "hu": "Belvedere Badiazza",
+                "ro": "Belvedere Badiazza",
+                "en": "Belvedere Badiazza"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie pünktlich zum Sonnenuntergang gegen 16:30 Uhr; Sie können die Aussicht bequem aus Ihrem beheizten Auto genießen.",
+                "hu": "Érkezzen pontosan a naplementére 16:30 körül; a kilátást kényelmesen, a fűtött autóból is megcsodálhatja.",
+                "ro": "Veniți exact pentru apus în jurul orei 16:30; puteți admira vederea confortabil din mașina încălzită.",
+                "en": "Arrive in time for the sunset around 16:30; you can comfortably enjoy the view from your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Augusta",
+                "hu": "Municipio di Augusta",
+                "ro": "Municipio di Augusta",
+                "en": "Municipio di Augusta"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp im Rathaus, um sich gründlich aufzuwärmen, während Sie die prunkvolle Innenausstattung bewundern.",
+                "hu": "Használja ki a városházi megállót a teljes felmelegedéshez, miközben a pompás belső berendezést csodálja.",
+                "ro": "Folosiți oprirea la primărie pentru a vă încălzi bine în timp ce admirați decorul interior somptuos.",
+                "en": "Take advantage of the stop at the town hall to warm up thoroughly while admiring the grand interior decor."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Francesco di Paola",
+                "hu": "Chiesa di San Francesco di Paola",
+                "ro": "Chiesa di San Francesco di Paola",
+                "en": "Chiesa di San Francesco di Paola"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine andächtige, warme Umgebung; betrachten Sie die Kunstwerke im sanften Licht des frühen Winterabends.",
+                "hu": "A templom áhítatos, meleg környezetet biztosít; tekintse meg a műalkotásokat a kora téli este lágy fényében.",
+                "ro": "Biserica oferă un mediu pios și cald; admirați operele de artă în lumina blândă a serii timpurii de iarnă.",
+                "en": "The church provides a prayerful, warm environment; view the artworks in the soft light of the early winter evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorium comunale Giuseppe Amato",
+                "hu": "Auditorium comunale Giuseppe Amato",
+                "ro": "Auditorium comunale Giuseppe Amato",
+                "en": "Auditorium comunale Giuseppe Amato"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag im Warmen zu beenden; informieren Sie sich vorab über das aktuelle winterliche Kulturprogramm.",
+                "hu": "Tökéletes hely a nap melegben való lezárásához; tájékozódjon előre az aktuális téli kulturális programokról.",
+                "ro": "Locul perfect pentru a încheia ziua la căldură; informați-vă din timp despre programul cultural actual de iarnă.",
+                "en": "The perfect place to end the day in the warmth; check the current winter cultural program in advance."
+              }
+            }
+          ]
+        }
       }
     }
   }

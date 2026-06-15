@@ -160,6 +160,196 @@
         "hu": "A délelőtt a történelmi Tugu AMD-nél indul, bemutatva Balikpapan örökségét. Délben az élénk Antasari negyed helyi kultúráját ismerheti meg. A délután folyamán a Monumen Perjuangan Rakyat hősies múltjával és a Pantai Monpera tengeri szellőjével találkozik. Az estét a Kemala Beach pihentető hangulata és a Rumah Panggung hagyományos házai zárják.",
         "ro": "Dimineața începe la istoricul Tugu AMD, introducând patrimoniul orașului Balikpapan. La prânz explorăm cartierul vibrant Antasari, bogat în cultură locală. După-amiaza este dedicată onorării eroilor la Monumen Perjuangan Rakyat și brizei de la Pantai Monpera. Seara se încheie pe plaja Kemala și cu admirarea caselor tradiționale Rumah Panggung.",
         "en": "Morning begins at the historic Tugu AMD, introducing Balikpapan's heritage. Midday moves through the vibrant Antasari district, rich in local culture. Afternoon is dedicated to honoring heroes at Monumen Perjuangan Rakyat and enjoying the sea breeze at Pantai Monpera. The evening wraps up with a relaxing stroll on Kemala Beach and viewing the unique Rumah Panggung houses."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Tugu AMD erfordert einen Schirm, da das Denkmal auf offenem Gelände steht. Mittags bietet das Viertel Antasari Schutz in kleinen Cafés und überdachten kulturellen Nischen. Am Nachmittag wirken das Monpera-Denkmal und der Strand unter dem grauen Himmel dramatisch; die Wege können rutschig sein. Den Abend lassen wir im Rumah Panggung ausklingen, wo das Holzdach vor dem Regen schützt.",
+            "hu": "A reggeli kezdés a Tugu AMD-nél esernyőt igényel, mivel az emlékmű nyílt terepen áll. Délben az Antasari negyed kis kávézói és fedett kulturális szegletei nyújtanak menedéket. Délután a Monpera és a tengerpart drámai látványt nyújt a szürke égbolt alatt; az utak csúszósak lehetnek. Az estét a Rumah Panggung cölöpházainál zárjuk, ahol a fatetők biztonságos menedéket adnak az eső elől.",
+            "ro": "Dimineața la Tugu AMD necesită o umbrelă, deoarece monumentul se află în teren deschis. La prânz, cartierul Antasari oferă adăpost în cafenele mici și nișe culturale acoperite. După-amiaza, monumentul Monpera și plaja oferă o priveliște dramatică sub cerul gri; potecile pot fi alunecoase. Seara se încheie la Rumah Panggung, unde acoperișul de lemn oferă protecție împotriva ploii tropicale.",
+            "en": "Morning at Tugu AMD requires an umbrella as the monument stands in an open area. By noon, the Antasari district offers shelter in small cafes and covered cultural niches. In the afternoon, the Monpera monument and the beach look dramatic under the grey sky; paths can be slippery. We end the evening at Rumah Panggung, where the traditional wooden roof provides a cozy refuge from the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu AMD",
+                "hu": "Tugu AMD",
+                "ro": "Tugu AMD",
+                "en": "Tugu AMD"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal trotz des Regens; tragen Sie wasserfeste Schuhe, da die Bodenplatten bei Nässe extrem rutschig werden können.",
+                "hu": "Csodálja meg az emlékművet az eső ellenére is; viseljen vízálló cipőt, mert a burkolat nedvesen rendkívül csúszóssá válhat.",
+                "ro": "Admirați monumentul în ciuda ploii; purtați încălțăminte impermeabilă, deoarece plăcile de pavaj pot deveni extrem de alunecoase când sunt ude.",
+                "en": "Admire the monument despite the rain; wear waterproof shoes as the paving slabs can become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Antasari",
+                "hu": "Antasari",
+                "ro": "Antasari",
+                "en": "Antasari"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Passagen der lokalen Geschäfte, um die Atmosphäre zu genießen, ohne direkt im starken Tropenregen stehen zu müssen.",
+                "hu": "Használja a helyi üzletek fedett folyosóit a hangulat élvezetéhez anélkül, hogy közvetlenül a heves trópusi esőben kellene állnia.",
+                "ro": "Folosiți pasajele acoperite ale magazinelor locale pentru a vă bucura de atmosferă fără a fi nevoie să stați direct în ploaia tropicală densă.",
+                "en": "Use the covered walkways of local shops to enjoy the atmosphere without having to stand directly in the heavy tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Perjuangan Rakyat Balikpapan",
+                "hu": "Monumen Perjuangan Rakyat Balikpapan",
+                "ro": "Monumen Perjuangan Rakyat Balikpapan",
+                "en": "Monumen Perjuangan Rakyat Balikpapan"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt bei Regen besonders majestätisch; suchen Sie unter den nahen Bäumen oder Vorsprüngen kurzzeitig Schutz vor Windböen.",
+                "hu": "Az emlékmű esőben különösen fenséges; keressen rövid ideig menedéket a közeli fák vagy kiszögelések alatt a hirtelen széllökések elől.",
+                "ro": "Monumentul pare deosebit de maiestuos în ploaie; căutați adăpost pe termen scurt sub copacii din apropiere sau sub cornișe împotriva vântului.",
+                "en": "The monument looks particularly majestic in the rain; seek short-term shelter under nearby trees or ledges against sudden wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Monpera",
+                "hu": "Pantai Monpera",
+                "ro": "Pantai Monpera",
+                "en": "Pantai Monpera"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung aus sicherer Entfernung; der nasse Sand ist fest, aber die Sicht kann durch den starken Nebel eingeschränkt sein.",
+                "hu": "Figyelje a hullámverést biztonságos távolságból; a nedves homok kemény, de a látótávolság a sűrű köd miatt korlátozott lehet.",
+                "ro": "Observați valurile de la o distanță sigură; nisipul umed este ferm, dar vizibilitatea poate fi limitată de ceața densă a ploii.",
+                "en": "Observe the surf from a safe distance; the wet sand is firm, but visibility may be limited by the dense rain mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Kemala Beach",
+                "hu": "Kemala Beach",
+                "ro": "Kemala Beach",
+                "en": "Kemala Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Strandpavillons bieten einen trockenen Platz für den Blick aufs Meer; bringen Sie eine leichte Jacke gegen die feuchte Brise mit.",
+                "hu": "A tengerparti pavilonok száraz helyet biztosítanak a kilátáshoz; hozzon egy könnyű dzsekit a nedves és hűvös szél ellen.",
+                "ro": "Pavilioanele de pe plajă oferă un loc uscat pentru priveliștea la mare; aduceți o jachetă ușoară împotriva brizei umede și reci.",
+                "en": "The beach pavilions provide a dry spot for the sea view; bring a light jacket against the damp and chilly breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumah Panggung",
+                "hu": "Rumah Panggung",
+                "ro": "Rumah Panggung",
+                "en": "Rumah Panggung"
+              },
+              "tip_5lang": {
+                "de": "Das Trommeln des Regens auf dem Dach sorgt für eine authentische Atmosphäre; achten Sie auf den hölzernen Treppen auf festen Halt.",
+                "hu": "Az eső kopogása a tetőn autentikus hangulatot áraszt; ügyeljen a biztos léptekre a nedves fa lépcsőkön és pallókon.",
+                "ro": "Ropotul ploii pe acoperiș creează o atmosferă autentică; aveți grijă la pașii pe scările și platformele de lemn umede.",
+                "en": "The patter of rain on the roof creates an authentic atmosphere; ensure steady footing on the wet wooden stairs and platforms."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am frühen Morgen ist die Luft am Tugu AMD angenehm kühl. Mittags bietet Antasari schattige Plätze, um die mildere Mittagssonne zu genießen. Der Nachmittag führt zum Monpera-Denkmal, wo man sich beeilen sollte: Die Sonne geht bereits gegen 17:00 Uhr unter. Den Abend verbringen wir am Kemala Beach, wo die frühe Dunkelheit eine romantische Beleuchtung und kühlere Meeresbrisen bringt.",
+            "hu": "Kora reggel a levegő a Tugu AMD-nél kellemesen hűvös. Délben az Antasari negyed árnyékos helyein élvezhetjük a szelídebb napsütést. A délután a Monpera emlékműhöz vezet, ahol érdemes sietni: a nap már 17:00 körül lenyugszik. Az estét a Kemala strandon töltjük, ahol a korai sötétedés romantikus fényeket és hűvösebb tengeri szellőt hoz.",
+            "ro": "Dimineața devreme, aerul la Tugu AMD este plăcut de răcoros. La prânz, cartierul Antasari oferă locuri umbrite pentru a vă bucura de soarele mai blând. După-amiaza duce la monumentul Monpera, unde ar trebui să vă grăbiți: soarele apune deja în jur de ora 17:00. Seara o petrecem la Kemala Beach, unde întunericul timpuriu aduce lumini romantice și brize marine mai reci.",
+            "en": "In the early morning, the air at Tugu AMD is pleasantly cool. At noon, the Antasari district offers shaded spots to enjoy the milder midday sun. The afternoon leads to the Monpera monument, where you should hurry: the sun sets as early as 17:00. We spend the evening at Kemala Beach, where the early darkness brings romantic lighting and cooler sea breezes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu AMD",
+                "hu": "Tugu AMD",
+                "ro": "Tugu AMD",
+                "en": "Tugu AMD"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Morgenbrise an diesem offenen Ort; ein leichtes Langarmshirt schützt vor der ersten Frische des Tages.",
+                "hu": "Élvezze a hűvös reggeli szellőt ezen a nyitott helyen; egy könnyű hosszú ujjú felső megvéd a nap első frissességétől.",
+                "ro": "Bucurați-vă de briza răcoroasă de dimineață în acest loc deschis; o bluză ușoară cu mânecă lungă vă protejează de răcoarea zilei.",
+                "en": "Enjoy the cool morning breeze at this open location; a light long-sleeved shirt protects against the day's first freshness."
+              }
+            },
+            {
+              "name": {
+                "de": "Antasari",
+                "hu": "Antasari",
+                "ro": "Antasari",
+                "en": "Antasari"
+              },
+              "tip_5lang": {
+                "de": "Die milderen Temperaturen machen den Spaziergang durch die Kulturstraßen angenehm; nutzen Sie das weiche Mittagslicht für Fotos.",
+                "hu": "A szelídebb hőmérséklet kellemessé teszi a sétát a kulturális utcákban; használja ki a lágy déli fényt a fotózáshoz.",
+                "ro": "Temperaturile mai blânde fac plimbarea prin străzile culturale plăcută; profitați de lumina blândă de la amiază pentru fotografii.",
+                "en": "The milder temperatures make the walk through the cultural streets pleasant; take advantage of the soft midday light for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Perjuangan Rakyat Balikpapan",
+                "hu": "Monumen Perjuangan Rakyat Balikpapan",
+                "ro": "Monumen Perjuangan Rakyat Balikpapan",
+                "en": "Monumen Perjuangan Rakyat Balikpapan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal vor 16:30 Uhr, um die Details im Tageslicht zu sehen, bevor die Dämmerung um 17:00 Uhr rasch einsetzt.",
+                "hu": "Látogassa meg az emlékművet 16:30 előtt, hogy nappali fényben lássa a részleteket, mielőtt 17:00-kor hirtelen leszáll az alkonyat.",
+                "ro": "Vizitați monumentul înainte de ora 16:30 pentru a vedea detaliile la lumina zilei, înainte ca amurgul să se lase rapid la ora 17:00.",
+                "en": "Visit the monument before 16:30 to see the details in daylight before dusk sets in rapidly at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Monpera",
+                "hu": "Pantai Monpera",
+                "ro": "Pantai Monpera",
+                "en": "Pantai Monpera"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang direkt am Meer; bringen Sie eine Decke mit, da es nach 17:00 Uhr am Wasser schnell abkühlt.",
+                "hu": "Élje át a korai naplementét közvetlenül a tengerparton; hozzon egy takarót, mert 17:00 után a vízparton gyorsan lehűl a levegő.",
+                "ro": "Experimentați apusul timpuriu direct pe malul mării; aduceți o pătură, deoarece după ora 17:00 aerul se răcește rapid lângă apă.",
+                "en": "Experience the early sunset right on the seafront; bring a blanket as the air cools down quickly by the water after 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Kemala Beach",
+                "hu": "Kemala Beach",
+                "ro": "Kemala Beach",
+                "en": "Kemala Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Abendlichter spiegeln sich wunderschön im dunklen Wasser; genießen Sie ein warmes Getränk in einem der Strandcafés bei Kerzenschein.",
+                "hu": "Az esti fények gyönyörűen tükröződnek a sötét vízben; élvezzen egy meleg italt az egyik tengerparti kávézóban gyertyafény mellett.",
+                "ro": "Luminile de seară se reflectă frumos în apa întunecată; savurați o băutură caldă la una dintre cafenelele de pe plajă, la lumina lumânărilor.",
+                "en": "The evening lights reflect beautifully in the dark water; enjoy a warm drink at one of the beach cafes by candlelight."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumah Panggung",
+                "hu": "Rumah Panggung",
+                "ro": "Rumah Panggung",
+                "en": "Rumah Panggung"
+              },
+              "tip_5lang": {
+                "de": "In der Dunkelheit wirkt das beleuchtete Stelzenhaus besonders gemütlich; eine Taschenlampe hilft auf den unbeleuchteten Außenwegen.",
+                "hu": "A sötétben a megvilágított cölöpház különösen otthonos; egy zseblámpa segíthet a kivilágítatlan külső ösvényeken való tájékozódásban.",
+                "ro": "În întuneric, casa pe piloni iluminată pare deosebit de primitoare; o lanternă vă poate ajuta să navigați pe potecile exterioare neiluminate.",
+                "en": "In the dark, the illuminated stilt house looks especially cozy; a flashlight can help you navigate the unlit outdoor paths."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A tekerés a város kőolajipari múltjával indul a Dahor Heritage-ben, majd a Kodam VI hadtörténetével folytatódik. Délben dél felé vesszük az irányt a Tugu AMD-hez. A délután hazafias megállót kínál a Monumen Perjuangan Rakyatnál a tengerpart előtt. Az este tökéletes tengerparti lezárást nyújt a Pantai Monpera és a Kemala Beach festői szakaszain.",
         "ro": "Plimbarea începe explorând trecutul petrolier la Dahor Heritage și istoria militară la Kodam VI. La prânz pedalați spre sud către istoricul Tugu AMD. După-amiaza oferă o pauză patriotică la impresionantul Monumen Perjuangan Rakyat înainte de a ajunge pe coastă. Seara asigură un final perfect la malul mării, la Pantai Monpera și Kemala Beach.",
         "en": "The ride starts by delving into the city's oil boom past at Dahor Heritage and military history at Kodam VI. Midday cycling takes you south towards the historic Tugu AMD. The afternoon offers a patriotic pause at the prominent Monumen Perjuangan Rakyat before hitting the coast. Evening provides a perfect seaside finish at the scenic stretches of Pantai Monpera and Kemala Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt im Dahor Heritage, wo die alten Häuser Schutz vor dem Morgenregen bieten. Mittags im Museum Kodam bleiben Mensch und Rad trocken. Nachmittags fordern Tugu AMD und das Monpera-Denkmal Vorsicht bei nassen Straßen. Die Tour endet am Kemala Beach, wo man unter den überdachten Pavillons das rhythmische Rauschen des Regens auf den Wellen genießen kann.",
+            "hu": "A kerékpártúra a Dahor Heritage-nél indul, ahol a régi házak védelmet nyújtanak a reggeli eső elől. Délben a Museum Kodam falai között az ember és a gép is száraz marad. Délután a Tugu AMD és a Monpera környékén óvatosságra van szükség a vizes utakon. A túra a Kemala strandon zárul, ahol a fedett pavilonok alatt élvezhetjük az eső ritmikus kopogását a hullámokon.",
+            "ro": "Turul cu bicicleta începe la Dahor Heritage, unde casele vechi oferă protecție împotriva ploii de dimineață. La prânz, în Muzeul Kodam, atât omul cât și bicicleta rămân uscate. După-amiaza, Tugu AMD și monumentul Monpera necesită prudență pe drumurile umede. Turul se încheie la plaja Kemala, unde sub pavilioanele acoperite puteți savura sunetul ritmic al ploii pe valuri.",
+            "en": "The bike tour starts at Dahor Heritage, where the old houses provide protection from the morning rain. At noon in Museum Kodam, both rider and bike stay dry. In the afternoon, Tugu AMD and the Monpera monument require caution on wet roads. The tour ends at Kemala Beach, where you can enjoy the rhythmic sound of rain on the waves under the covered pavilions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dahor Heritage Balikpapan",
+                "hu": "Dahor Heritage Balikpapan",
+                "ro": "Dahor Heritage Balikpapan",
+                "en": "Dahor Heritage Balikpapan"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter den Dachvorsprüngen der historischen Häuser, um die Ausstellungen im Trockenen erkunden zu können.",
+                "hu": "Parkolja le kerékpárját a történelmi házak ereszei alatt, hogy szárazon fedezhesse fel a kiállításokat.",
+                "ro": "Parcați bicicleta sub streșinile caselor istorice pentru a putea explora expozițiile la adăpost de ploaie.",
+                "en": "Park your bike under the eaves of the historic houses so you can explore the exhibits while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Kodam VI/MLW",
+                "hu": "Museum Kodam VI/MLW",
+                "ro": "Museum Kodam VI/MLW",
+                "en": "Museum Kodam VI/MLW"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Pause, bis der schwerste Schauer vorbeizieht; der Innenbereich ist komplett wetterfest.",
+                "hu": "Használja ki a múzeumlátogatást egy hosszabb pihenőre, amíg a hevesebb zápor elvonul; a belső tér teljesen időjárásálló.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză mai lungă până când trece cea mai grea aversă; interiorul este complet protejat de intemperii.",
+                "en": "Use the museum visit for a longer break until the heaviest shower passes; the interior is completely weatherproof."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu AMD",
+                "hu": "Tugu AMD",
+                "ro": "Tugu AMD",
+                "en": "Tugu AMD"
+              },
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit auf dem Weg hierher, da das Metall und der Asphalt bei Regen sehr glatt werden können.",
+                "hu": "Csökkentse a sebességet idefelé, mivel a fémfelületek és az aszfalt esőben nagyon csúszóssá válhatnak.",
+                "ro": "Reduceți viteza în drum spre aici, deoarece suprafețele metalice și asfaltul pot deveni foarte alunecoase în ploaie.",
+                "en": "Reduce your speed on the way here, as metal surfaces and asphalt can become very slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Perjuangan Rakyat Balikpapan",
+                "hu": "Monumen Perjuangan Rakyat Balikpapan",
+                "ro": "Monumen Perjuangan Rakyat Balikpapan",
+                "en": "Monumen Perjuangan Rakyat Balikpapan"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf den gepflasterten Flächen rund um das Denkmal; halten Sie Abstand zu tiefen Pfützen.",
+                "hu": "Kerülje az éles fékezést az emlékmű körüli kövezett területeken; tartson biztonságos távolságot a mélyebb tócsáktól.",
+                "ro": "Evitați frânarea bruscă pe zonele pavate din jurul monumentului; păstrați distanța față de bălțile adânci.",
+                "en": "Avoid sharp braking on the paved areas around the monument; keep a safe distance from deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Monpera",
+                "hu": "Pantai Monpera",
+                "ro": "Pantai Monpera",
+                "en": "Pantai Monpera"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den sandigen Wegen, da nasser Sand den Grip der Reifen verändern kann; genießen Sie den Blick vom Radweg.",
+                "hu": "Hajtson óvatosan a homokos ösvényeken, mivel a nedves homok megváltoztathatja a gumi tapadását; élvezze a kilátást a bicikliútról.",
+                "ro": "Conduceți cu prudență pe potecile cu nisip, deoarece nisipul umed poate schimba aderența anvelopelor; admirați vederea de pe pistă.",
+                "en": "Ride carefully on sandy paths, as wet sand can change tire grip; enjoy the view from the dedicated bike path."
+              }
+            },
+            {
+              "name": {
+                "de": "Kemala Beach",
+                "hu": "Kemala Beach",
+                "ro": "Kemala Beach",
+                "en": "Kemala Beach"
+              },
+              "tip_5lang": {
+                "de": "Nach der Tour sollten Sie Kette und Bremsen Ihres Fahrrads vom Salz und Sand reinigen, die durch den Regen aufgewirbelt wurden.",
+                "hu": "A túra után érdemes megtisztítani a kerékpár láncát és fékeit a sós homoktól, amit az eső felvert az útról.",
+                "ro": "După tur, este recomandat să curățați lanțul și frânele bicicletei de nisipul sărat ridicat de ploaie de pe drum.",
+                "en": "After the tour, it's a good idea to clean your bike chain and brakes from the salty sand kicked up by the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Kühle im Dahor Heritage ist ideal für Radfahrer. Mittags bietet das Museum Kodam eine willkommene Pause in temperierten Räumen. Am Nachmittag radeln wir zügig über Tugu AMD zum Monpera-Denkmal, um das Tageslicht vor 17:00 Uhr zu nutzen. Das Ziel ist der Kemala Beach, wo wir die Radtour pünktlich zum frühen Sonnenuntergang und zur aufkommenden Abendkühle beenden.",
+            "hu": "A reggeli hűvös a Dahor Heritage-nél ideális a kerékpárosoknak. Délben a Museum Kodam kellemes pihenőt kínál a mérsékelt hőmérsékletű termekben. Délután tempósan tekerünk a Tugu AMD-n át a Monpera emlékműig, hogy kihasználjuk a nappali fényt 17:00 előtt. A cél a Kemala strand, ahol pontosan a korai naplementére és az esti hűvösre érkezünk meg.",
+            "ro": "Răcoarea dimineții la Dahor Heritage este ideală pentru bicicliști. La prânz, Muzeul Kodam oferă o pauză binevenită în săli cu temperatură controlată. După-amiaza pedalăm rapid prin Tugu AMD spre monumentul Monpera pentru a profita de lumină înainte de ora 17:00. Destinația este plaja Kemala, unde ajungem exact pentru apusul timpuriu.",
+            "en": "The morning cool at Dahor Heritage is ideal for cyclists. At noon, Museum Kodam offers a welcome break in temperature-controlled rooms. In the afternoon, we pedal briskly through Tugu AMD to the Monpera monument to use the daylight before 17:00. The destination is Kemala Beach, arriving just in time for the early sunset and evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dahor Heritage Balikpapan",
+                "hu": "Dahor Heritage Balikpapan",
+                "ro": "Dahor Heritage Balikpapan",
+                "en": "Dahor Heritage Balikpapan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die frische Morgenluft für eine Erkundung der historischen Häuser; die Wege sind fest und ideal für schmale Reifen.",
+                "hu": "Használja ki a friss reggeli levegőt a történelmi házak felfedezéséhez; az utak szilárdak és ideálisak a keskeny gumikhoz is.",
+                "ro": "Profitați de aerul proaspăt de dimineață pentru a explora casele istorice; drumurile sunt ferme și ideale pentru anvelope înguste.",
+                "en": "Take advantage of the fresh morning air to explore the historic houses; the paths are firm and ideal even for narrow tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Kodam VI/MLW",
+                "hu": "Museum Kodam VI/MLW",
+                "ro": "Museum Kodam VI/MLW",
+                "en": "Museum Kodam VI/MLW"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten der Bäume; das Museum bietet eine gute Gelegenheit, sich aufzuwärmen oder vor der intensiven Mittagssonne zu schützen.",
+                "hu": "Parkoljon a fák árnyékában; a múzeum jó lehetőséget kínál a felfrissülésre vagy a déli erős napsütés elöli menedékre.",
+                "ro": "Parcați la umbra copacilor; muzeul oferă o oportunitate bună de a vă reîmprospăta sau de a vă proteja de soarele puternic de la amiază.",
+                "en": "Park in the shade of the trees; the museum offers a good opportunity to refresh or seek shelter from the intense midday sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu AMD",
+                "hu": "Tugu AMD",
+                "ro": "Tugu AMD",
+                "en": "Tugu AMD"
+              },
+              "tip_5lang": {
+                "de": "Geben Sie auf dem Weg hierher Gas, um rechtzeitig vor der frühen Dämmerung anzukommen; die Beleuchtung am Denkmal ist abends spärlich.",
+                "hu": "Hajtson tempósabban idefelé, hogy időben megérkezzen a korai szürkület előtt; az emlékmű világítása este hiányos lehet.",
+                "ro": "Pedalați mai alert spre acest punct pentru a ajunge înainte de amurgul timpuriu; iluminatul la monument poate fi slab seara.",
+                "en": "Ride at a brisker pace here to arrive in time before the early dusk; the lighting at the monument can be sparse in the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Perjuangan Rakyat Balikpapan",
+                "hu": "Monumen Perjuangan Rakyat Balikpapan",
+                "ro": "Monumen Perjuangan Rakyat Balikpapan",
+                "en": "Monumen Perjuangan Rakyat Balikpapan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das weiche Licht der tiefstehenden Wintersonne für Ihre Fotos; ein Windbreaker hilft gegen die kühler werdende Seebrise.",
+                "hu": "Élvezze a téli alacsony napállás lágy fényeit a fotózáshoz; egy széldzseki segít a hűvösödő tengeri szél ellen.",
+                "ro": "Bucurați-vă de lumina blândă a soarelui de iarnă pentru fotografii; o jachetă de vânt ajută împotriva brizei marine care se răcește.",
+                "en": "Enjoy the soft light of the low winter sun for your photos; a windbreaker helps against the increasingly chilly sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Monpera",
+                "hu": "Pantai Monpera",
+                "ro": "Pantai Monpera",
+                "en": "Pantai Monpera"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Fahrrad Licht hat, falls Sie länger am Strand bleiben; nach 17:00 Uhr wird es auf den Wegen schnell dunkel.",
+                "hu": "Győződjön meg róla, hogy van világítás a biciklijén, ha tovább maradna a parton; 17:00 után gyorsan sötétedik az utakon.",
+                "ro": "Asigurați-vă că aveți lumini la bicicletă dacă rămâneți mai mult pe plajă; după ora 17:00 se întunecă rapid pe drumuri.",
+                "en": "Make sure your bike has lights if you plan to stay on the beach longer; after 17:00, it gets dark quickly on the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Kemala Beach",
+                "hu": "Kemala Beach",
+                "ro": "Kemala Beach",
+                "en": "Kemala Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einem Blick auf den Sternenhimmel über dem Meer; die kühle Luft ist nach dem Radeln sehr erfrischend.",
+                "hu": "Zárja a túrát a csillagos égbolt látványával a tenger felett; a hűvös levegő nagyon frissítő a kerékpározás után.",
+                "ro": "Încheiați turul cu vederea cerului înstelat deasupra mării; aerul răcoros este foarte revigorant după pedalat.",
+                "en": "End the tour with a view of the starry sky over the sea; the cool air is very refreshing after cycling."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +917,280 @@
         "hu": "Kezdje a túrát a katonai és kőolajipari örökség felfedezésével a Kodam VI és a Dahor Heritage múzeumokban. Délben a Griya Mulya Kost és a Tugu AMD következik. A délután az élénk Antasari negyedbe és a Monumen Perjuangan Rakyat emlékműhöz vezet. Ahogy leszáll az este, autózzon a parton a Pantai Monperától a Kemala Beachig, végül a Rumah Panggungnál zárva a napot.",
         "ro": "Începeți cu patrimoniul militar și petrolier la Kodam VI și Dahor Heritage. La prânz treceți pe lângă Griya Mulya Kost și reflectați la Tugu AMD. După-amiaza se mută în zona vibrantă Antasari și la grandiosul Monumen Perjuangan Rakyat. Odată cu lăsarea serii, conduceți de-a lungul coastei de la Pantai Monpera la Kemala Beach, încheind la casele Rumah Panggung.",
         "en": "Kick off the drive exploring military and oil heritage at Kodam VI and Dahor Heritage. By midday, you'll pass the Griya Mulya Kost landmark and reflect at Tugu AMD. Afternoon shifts to the vibrant Antasari area and the grand Monumen Perjuangan Rakyat. As evening falls, cruise along the coast from Pantai Monpera to Kemala Beach, finishing near the traditional Rumah Panggung."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt im Museum Kodam und Dahor Heritage, wo man das Auto nah am Eingang parken kann, um trocken zu bleiben. Mittags bietet Griya Mulya Kost einen kurzen Stopp, bevor es zum Tugu AMD geht. Nachmittags erkunden wir Antasari und das Monpera-Denkmal aus dem Komfort des Autos heraus. Den Abend beschließen wir an den Stränden Pantai Monpera und Kemala, wo man den Regen sicher vom Wagen aus beobachten kann.",
+            "hu": "Az út a Museum Kodamnál és a Dahor Heritage-nél indul, ahol az autóval közel parkolhatunk a bejárathoz, hogy szárazak maradjunk. Délben a Griya Mulya Kost kínál rövid megállót, mielőtt a Tugu AMD-hez mennénk. Délután az Antasari és a Monpera környékét az autó kényelméből fedezzük fel. Az estét a Pantai Monpera és Kemala strandokon zárjuk, ahol a kocsi biztonságából figyelhetjük az esőt.",
+            "ro": "Călătoria începe la Muzeul Kodam și Dahor Heritage, unde puteți parca aproape de intrare pentru a rămâne uscați. La prânz, Griya Mulya Kost oferă o oprire scurtă înainte de a merge la Tugu AMD. După-amiaza explorăm Antasari și monumentul Monpera din confortul mașinii. Seara o încheiem la plajele Monpera și Kemala, unde puteți observa ploaia în siguranță din interiorul vehiculului.",
+            "en": "The drive starts at Museum Kodam and Dahor Heritage, where you can park close to the entrance to stay dry. At noon, Griya Mulya Kost offers a quick stop before heading to Tugu AMD. In the afternoon, we explore Antasari and the Monpera monument from the comfort of the car. We conclude the evening at Monpera and Kemala beaches, watching the rain safely from inside the vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Kodam VI/MLW",
+                "hu": "Museum Kodam VI/MLW",
+                "ro": "Museum Kodam VI/MLW",
+                "en": "Museum Kodam VI/MLW"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Parkplatz, falls vorhanden; das Museum ist ideal für Regentage, da alle Exponate im Innenraum geschützt sind.",
+                "hu": "Használja a fedett parkolót, ha elérhető; a múzeum ideális esős napokra, mivel minden kiállítási tárgy védett belső térben van.",
+                "ro": "Folosiți parcarea acoperită dacă este disponibilă; muzeul este ideal pentru zilele ploioase, deoarece toate exponatele sunt protejate la interior.",
+                "en": "Use the covered parking if available; the museum is ideal for rainy days as all exhibits are protected indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Dahor Heritage Balikpapan",
+                "hu": "Dahor Heritage Balikpapan",
+                "ro": "Dahor Heritage Balikpapan",
+                "en": "Dahor Heritage Balikpapan"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig in die schmalen Zufahrtswege ein; der Regen kann die Sicht auf die historischen Details der Fassaden einschränken.",
+                "hu": "Hajtson óvatosan a szűkebb bekötőutakon; az eső korlátozhatja a látási viszonyokat a homlokzatok történelmi részleteinek megfigyelésekor.",
+                "ro": "Conduceți cu atenție pe drumurile de acces înguste; ploaia poate limita vizibilitatea detaliilor istorice de pe fațade.",
+                "en": "Drive carefully on the narrow access roads; rain can limit visibility when observing the historical details of the facades."
+              }
+            },
+            {
+              "name": {
+                "de": "Griya Mulya Kost",
+                "hu": "Griya Mulya Kost",
+                "ro": "Griya Mulya Kost",
+                "en": "Griya Mulya Kost"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp aus dem Autofenster reicht hier völlig aus, um den Regenpausen keine unnötige Zeit zu opfern.",
+                "hu": "Egy rövid fotómegálló az autó ablakából itt teljesen elegendő, hogy ne pazaroljunk felesleges időt az esőmentes szünetekből.",
+                "ro": "O scurtă oprire pentru fotografii de la fereastra mașinii este suficientă aici pentru a nu irosi timp prețios în pauzele dintre ploi.",
+                "en": "A short photo stop from the car window is quite enough here to avoid wasting unnecessary time during rain-free breaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu AMD",
+                "hu": "Tugu AMD",
+                "ro": "Tugu AMD",
+                "en": "Tugu AMD"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf tiefe Wasseransammlungen am Straßenrand; das Denkmal ist gut von der Straße aus zu sehen.",
+                "hu": "Kiszálláskor ügyeljen az útmenti mélyebb vízfelgyülemlésekre; az emlékmű jól látható közvetlenül az út mellől is.",
+                "ro": "Aveți grijă la bălțile adânci de la marginea drumului când coborâți din mașină; monumentul este vizibil direct de lângă drum.",
+                "en": "Watch out for deep puddles at the roadside when getting out; the monument is clearly visible directly from the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Antasari",
+                "hu": "Antasari",
+                "ro": "Antasari",
+                "en": "Antasari"
+              },
+              "tip_5lang": {
+                "de": "Der Verkehr in Antasari kann bei Regen stocken; nutzen Sie die Zeit, um das bunte Treiben der Einheimischen unter ihren Schirmen zu beobachten.",
+                "hu": "Az Antasari forgalma esőben lelassulhat; használja ki az időt a helyiek színes esernyős nyüzsgésének megfigyelésére a kocsiból.",
+                "ro": "Traficul în Antasari se poate bloca în timpul ploii; profitați de timp pentru a observa agitația localnicilor cu umbrele colorate.",
+                "en": "Traffic in Antasari can slow down in the rain; take the time to observe the colorful bustle of locals with umbrellas from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Perjuangan Rakyat Balikpapan",
+                "hu": "Monumen Perjuangan Rakyat Balikpapan",
+                "ro": "Monumen Perjuangan Rakyat Balikpapan",
+                "en": "Monumen Perjuangan Rakyat Balikpapan"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze in Meeresnähe sind oft ungeschützt; halten Sie einen stabilen Regenschirm für den kurzen Weg zum Monument bereit.",
+                "hu": "A tengerközeli parkolók gyakran nyitottak; tartson kéznél egy stabil esernyőt a monumentumhoz vezető rövid úthoz.",
+                "ro": "Parcările de lângă mare sunt adesea expuse; aveți la îndemână o umbrelă stabilă pentru scurta plimbare spre monument.",
+                "en": "The parking lots near the sea are often exposed; keep a sturdy umbrella ready for the short walk to the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Monpera",
+                "hu": "Pantai Monpera",
+                "ro": "Pantai Monpera",
+                "en": "Pantai Monpera"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Wind lieber im Fahrzeug; die Gischt der Wellen kann bei Regen sehr salzig und intensiv sein.",
+                "hu": "Erős szélben maradjon inkább a járműben; a hullámok permete esőben nagyon sós és intenzív lehet a parton.",
+                "ro": "În caz de vânt puternic, rămâneți mai degrabă în vehicul; vaporii valurilor pot fi foarte sărați și intenși pe plajă.",
+                "en": "In case of strong wind, stay in the vehicle; the sea spray can be very salty and intense on the beach during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kemala Beach",
+                "hu": "Kemala Beach",
+                "ro": "Kemala Beach",
+                "en": "Kemala Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Strandbar-Besitzer helfen oft mit Schirmen beim Weg vom Auto zum überdachten Sitzplatz; ein warmes Essen wärmt von innen.",
+                "hu": "A strandbárok tulajdonosai gyakran segítenek esernyővel az autótól a fedett ülőhelyig; egy meleg étel belülről is felmelegít.",
+                "ro": "Proprietarii barurilor de pe plajă ajută adesea cu umbrele de la mașină până la locul acoperit; o mâncare caldă vă va încălzi.",
+                "en": "Beach bar owners often help with umbrellas from the car to the covered seating; a warm meal will heat you up from the inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumah Panggung",
+                "hu": "Rumah Panggung",
+                "ro": "Rumah Panggung",
+                "en": "Rumah Panggung"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher, die durch Regenpfützen verdeckt sein könnten, während Sie durch die traditionellen Gassen navigieren.",
+                "hu": "Ügyeljen a kátyúkra, amiket az esővizes tócsák elfedhetnek, miközben a tradicionális szűkebb utcákon navigál.",
+                "ro": "Aveți grijă la gropile care ar putea fi ascunse de bălțile de ploaie în timp ce navigați pe străzile tradiționale mai înguste.",
+                "en": "Watch out for potholes that could be hidden by rain puddles while navigating through the narrower traditional streets."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit Besuchen im Museum Kodam und Dahor Heritage, wo die AC-Heizung für Komfort sorgt. Über Griya Mulya Kost geht es zum Tugu AMD. Mittags erkunden wir das kulturelle Antasari. Der Nachmittag gehört dem Monpera-Denkmal, bevor die Sonne gegen 17:00 Uhr untergeht. Die Tour endet an den Stränden Pantai Monpera und Kemala sowie am Rumah Panggung in der frühen, kühlen Abenddämmerung.",
+            "hu": "A nap a Museum Kodam és a Dahor Heritage látogatásával indul, ahol az autó fűtése kényelmet biztosít. A Griya Mulya Koszt érintve haladunk a Tugu AMD felé. Délben a kulturális Antasari negyedet fedezzük fel. A délután a Monpera emlékműé, mielőtt a nap 17:00 körül lenyugszik. A túra a Pantai Monpera és Kemala strandokon, valamint a Rumah Panggungnál zárul a korai hűvös alkonyatban.",
+            "ro": "Ziua începe cu vizite la Muzeul Kodam și Dahor Heritage, unde încălzirea mașinii oferă confort. Trecând pe la Griya Mulya Kost, ne îndreptăm spre Tugu AMD. La prânz explorăm cartierul cultural Antasari. După-amiaza aparține monumentului Monpera, înainte ca soarele să apună în jur de ora 17:00. Turul se încheie la plajele Monpera și Kemala și la Rumah Panggung în amurgul timpuriu.",
+            "en": "The day begins with visits to Museum Kodam and Dahor Heritage, where the car's heater provides comfort. Passing Griya Mulya Kost, we head towards Tugu AMD. At noon, we explore the cultural Antasari district. The afternoon belongs to the Monpera monument before the sun sets around 17:00. The tour ends at Monpera and Kemala beaches and Rumah Panggung in the early, cool dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Kodam VI/MLW",
+                "hu": "Museum Kodam VI/MLW",
+                "ro": "Museum Kodam VI/MLW",
+                "en": "Museum Kodam VI/MLW"
+              },
+              "tip_5lang": {
+                "de": "Die temperierten Innenräume sind ideal, um der morgendlichen Feuchtigkeit zu entgehen; parken Sie direkt auf dem Museumsgelände.",
+                "hu": "A mérsékelt hőmérsékletű belső terek ideálisak a reggeli pára elkerülésére; parkoljon közvetlenül a múzeum területén.",
+                "ro": "Interioarele cu temperatură controlată sunt ideale pentru a evita umiditatea dimineții; parcați direct în incinta muzeului.",
+                "en": "The temperature-controlled interiors are ideal for avoiding morning humidity; park directly on the museum grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Dahor Heritage Balikpapan",
+                "hu": "Dahor Heritage Balikpapan",
+                "ro": "Dahor Heritage Balikpapan",
+                "en": "Dahor Heritage Balikpapan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Architektur im weichen Licht des Vormittags; das Auto bietet Schutz vor dem noch kühlen Wind.",
+                "hu": "Élvezze a történelmi építészetet a délelőtti lágy fényben; az autó védelmet nyújt a még hűvös szél ellen.",
+                "ro": "Bucurați-vă de arhitectura istorică în lumina blândă a dimineții; mașina oferă protecție împotriva vântului încă rece.",
+                "en": "Enjoy the historical architecture in the soft morning light; the car provides protection from the still chilly wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Griya Mulya Kost",
+                "hu": "Griya Mulya Kost",
+                "ro": "Griya Mulya Kost",
+                "en": "Griya Mulya Kost"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt für ein Foto; die winterliche Mittagssonne ist hier weniger intensiv und angenehmer für kurze Spaziergänge.",
+                "hu": "Egy gyors megálló egy fotóra; a téli déli napsütés itt kevésbé intenzív és kellemesebb a rövid sétákhoz.",
+                "ro": "O oprire rapidă pentru o fotografie; soarele de iarnă de la amiază este mai puțin intens aici și mai plăcut pentru plimbări scurte.",
+                "en": "A quick stop for a photo; the winter midday sun is less intense here and more pleasant for short walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu AMD",
+                "hu": "Tugu AMD",
+                "ro": "Tugu AMD",
+                "en": "Tugu AMD"
+              },
+              "tip_5lang": {
+                "de": "Die Sichtbarkeit ist bei der klaren Winterluft hervorragend; halten Sie kurz an, um das Denkmal im vollen Sonnenlicht zu bewundern.",
+                "hu": "A láthatóság a tiszta téli levegőben kiváló; álljon meg egy pillanatra, hogy teljes napfényben csodálhassa meg az emlékművet.",
+                "ro": "Vizibilitatea în aerul curat de iarnă este excelentă; opriți-vă pentru un moment pentru a admira monumentul în lumina deplină a soarelui.",
+                "en": "Visibility in the clear winter air is excellent; stop for a moment to admire the monument in full sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Antasari",
+                "hu": "Antasari",
+                "ro": "Antasari",
+                "en": "Antasari"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die angenehmen Außentemperaturen für einen kurzen Bummel, bevor Sie die Fahrt im beheizten Auto fortsetzen.",
+                "hu": "Használja ki a kellemes kinti hőmérsékletet egy rövid sétára, mielőtt folytatná az utat a fűtött autóban.",
+                "ro": "Profitați de temperaturile exterioare plăcute pentru o scurtă plimbare înainte de a continua drumul în mașina încălzită.",
+                "en": "Take advantage of the pleasant outside temperatures for a short stroll before continuing your journey in the heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Perjuangan Rakyat Balikpapan",
+                "hu": "Monumen Perjuangan Rakyat Balikpapan",
+                "ro": "Monumen Perjuangan Rakyat Balikpapan",
+                "en": "Monumen Perjuangan Rakyat Balikpapan"
+              },
+              "tip_5lang": {
+                "de": "Beeilen Sie sich beim Besuch des Denkmals; die Sonne nähert sich bereits dem Horizont und die Schatten werden länger.",
+                "hu": "Igyekezzen az emlékmű meglátogatásával; a nap már közelít a horizonthoz, és az árnyékok egyre hosszabbak lesznek.",
+                "ro": "Grăbiți-vă să vizitați monumentul; soarele se apropie deja de orizont și umbrele devin tot mai lungi.",
+                "en": "Hurry with your visit to the monument; the sun is already approaching the horizon and shadows are getting longer."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Monpera",
+                "hu": "Pantai Monpera",
+                "ro": "Pantai Monpera",
+                "en": "Pantai Monpera"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer, um den Sonnenuntergang um 17:00 Uhr gemütlich aus dem Wagen heraus zu erleben.",
+                "hu": "Parkoljon a tengerre néző kilátással, hogy a 17:00-s naplementét kényelmesen, az autóból élhesse át.",
+                "ro": "Parcați cu vedere la mare pentru a experimenta apusul de la ora 17:00 confortabil din interiorul mașinii.",
+                "en": "Park with a sea view to experience the 17:00 sunset comfortably from inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kemala Beach",
+                "hu": "Kemala Beach",
+                "ro": "Kemala Beach",
+                "en": "Kemala Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Abenddämmerung setzt früh ein; genießen Sie die stimmungsvolle Beleuchtung des Strandes vom Parkplatz aus.",
+                "hu": "Az alkonyat korán beköszönt; élvezze a tengerpart hangulatos megvilágítását közvetlenül a parkolóból.",
+                "ro": "Amurgul se instalează devreme; bucurați-vă de iluminarea atmosferică a plajei direct din parcare.",
+                "en": "Dusk sets in early; enjoy the atmospheric lighting of the beach directly from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumah Panggung",
+                "hu": "Rumah Panggung",
+                "ro": "Rumah Panggung",
+                "en": "Rumah Panggung"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fernlichter Ihres Autos in den dunkleren Gassen nach 17:00 Uhr; das Haus wirkt bei Nacht besonders imposant.",
+                "hu": "Használja autója távolsági fényszóróit a sötétebb utcákban 17:00 után; a ház éjszaka különösen impozáns látványt nyújt.",
+                "ro": "Folosiți faza lungă a mașinii pe străzile mai întunecate după ora 17:00; casa pare deosebit de impunătoare noaptea.",
+                "en": "Use your car's high beams in the darker streets after 17:00; the house looks particularly imposing at night."
+              }
+            }
+          ]
+        }
       }
     }
   }

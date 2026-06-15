@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy sétával a történelmi Villa Ramacca felé, élvezve a kora reggeli fényeket. Délben merüljön el a sziget lelkében a Museo Guttuso és a kortárs művészeti obszervatórium kiállításain. Délután élvezze a Cavea Evelina Buttitta kulturális terének nyugalmát. Zárja gyalogtúráját a Villa San Cataldo szobrokkal díszített, békés kertjében.",
         "ro": "Începeți dimineața cu o plimbare relaxantă spre istorica Vilă Ramacca, bucurându-vă de lumină. La amiază, pătrundeți în sufletul insulei la Museo Guttuso și la observatorul de artă contemporană. După-amiaza, relaxați-vă în spațiul cultural liniștit Cavea Evelina Buttitta. Încheiați turul pietonal printre statuile și grădinile senine de la Villa San Cataldo.",
         "en": "Start your morning with a relaxing stroll to the historic Villa Ramacca, embracing the early light. By midday, dive into the island's soul at Museo Guttuso and the nearby contemporary art observatory. In the afternoon, enjoy the quiet cultural space of Cavea \"Evelina Buttitta\". Conclude your walking tour with the serene, statuesque gardens of Villa San Cataldo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Spaziergang durch Aspra bietet eine melancholische Schönheit. Wir starten bei den Villen, die im Regen glänzen. Mittags suchen wir Schutz in den großartigen Museen von Bagheria. Am Nachmittag schlendern wir unter Arkaden und Vordächern weiter. Der Abend endet in der Nähe des Meeres, wo die Wellen kraftvoll gegen die Küste schlagen.",
+            "hu": "Az esős Aspra melankolikus, mégis lenyűgöző arcát mutatja. A sétát a villák között kezdjük, ahol a fák védelmet nyújtanak. Délben a múzeumok belső tereiben húzódunk meg a zápor elől. Délután a nedves aszfalton csillogó fények között haladunk tovább. Az este a tengerpart közelében ér minket, ahol a viharos tenger morajlása kíséri lépteinket.",
+            "ro": "O plimbare ploioasă prin Aspra dezvăluie o frumusețe melancolică. Începem printre vilele care strălucesc sub stropi. La prânz, ne adăpostim în muzeele impresionante din Bagheria. După-amiaza continuăm pe sub streșini și arcade, evitând bălțile. Seara se încheie lângă mare, unde valurile se sparg cu putere de țărmul stâncos sub cerul cenușiu.",
+            "en": "A rainy walk in Aspra offers a melancholic yet beautiful atmosphere. We begin among the villas, which glisten under the drops. At noon, we find shelter within the grand museums of Bagheria. In the afternoon, we continue under eaves and archways, enjoying the petrichor. The evening ends near the sea, watching the powerful waves hit the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Ramacca",
+                "hu": "Villa Ramacca",
+                "ro": "Villa Ramacca",
+                "en": "Villa Ramacca"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Barockfassade, die im Regen besonders dramatisch wirkt; nutzen Sie die großen Bäume im Garten als natürlichen Regenschutz.",
+                "hu": "Csodáld meg a barokk homlokzatot, amely esőben még drámaibb látvány; használd a kert hatalmas fáit természetes esővédőként a séta során.",
+                "ro": "Admirați fațada barocă ce pare dramatică sub ploaie; folosiți copacii mari din grădină ca adăpost natural în timp ce observați detaliile arhitecturale.",
+                "en": "Admire the baroque facade that looks particularly dramatic in the rain; use the large garden trees as natural shelter while exploring the exterior."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Guttuso",
+                "hu": "Museo Guttuso",
+                "ro": "Museo Guttuso",
+                "en": "Museo Guttuso"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der perfekte Rückzugsort bei starkem Regen; genießen Sie Guttusos Farbenpracht im trockenen Inneren der prächtigen Villa Cattolica.",
+                "hu": "Ez a múzeum tökéletes menedék heves esőzés idején; élvezd Guttuso színgazdag alkotásait a pompás Villa Cattolica száraz belső tereiben.",
+                "ro": "Acest muzeu este refugiul perfect în caz de ploaie torențială; bucurați-vă de culorile lui Guttuso în interiorul uscat al splendidei Villa Cattolica.",
+                "en": "This museum is the perfect sanctuary during heavy rain; enjoy Guttuso's vibrant colors inside the dry and magnificent halls of Villa Cattolica."
+              }
+            },
+            {
+              "name": {
+                "de": "MUSEUM Osservatorio dell'arte contemporanea in Sicilia",
+                "hu": "MUSEUM Szicíliai Kortárs Művészeti Obszervatórium",
+                "ro": "MUSEUM Observatorul de artă contemporană",
+                "en": "MUSEUM Observatory of Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie moderne sizilianische Kunst in einer wetterfesten Umgebung; ideal, um den Regenschauer bei inspirierenden Installationen abzuwarten.",
+                "hu": "Fedezd fel a modern szicíliai művészetet időjárásálló környezetben; ideális hely az eső kivárására az inspiráló kortárs installációk között.",
+                "ro": "Explorați arta siciliană modernă într-un mediu protejat de intemperii; este locul ideal pentru a aștepta trecerea ploii printre instalații creative.",
+                "en": "Explore modern Sicilian art in a weatherproof environment; the ideal spot to wait out the rain shower among inspiring contemporary installations."
+              }
+            },
+            {
+              "name": {
+                "de": "Cavea \"Evelina Buttitta\"",
+                "hu": "Cavea \"Evelina Buttitta\"",
+                "ro": "Cavea \"Evelina Buttitta\"",
+                "en": "Cavea \"Evelina Buttitta\""
+              },
+              "tip_5lang": {
+                "de": "Der Stein kann bei Nässe rutschig sein, seien Sie vorsichtig auf den Stufen; betrachten Sie die Akustik, während die Regentropfen auf den Fels fallen.",
+                "hu": "A kőfelületek nedvesen csúszósak lehetnek, légy óvatos a lépcsőkön; figyeld meg az akusztikát, ahogy az esőcseppek a kőre hullanak.",
+                "ro": "Suprafețele de piatră pot fi alunecoase când sunt ude, fiți atenți pe trepte; ascultați acustica deosebită în timp ce ploaia cade pe stâncă.",
+                "en": "The stone surfaces can be slippery when wet, so be careful on the steps; observe the unique acoustics as raindrops fall on the hard rock."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa San Cataldo",
+                "hu": "Villa San Cataldo",
+                "ro": "Villa San Cataldo",
+                "en": "Villa San Cataldo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Kreuzgang für einen überdachten Blick auf den Garten; die feuchte Erde intensiviert den Duft der Zitrusbäume im Park.",
+                "hu": "Látogasd meg a kerengőt a kertre nyíló fedett kilátásért; a nedves föld és a citrusfák illata ilyenkor még intenzívebb az ódon parkban.",
+                "ro": "Vizitați cloistern-ul pentru o vedere protejată spre grădină; pământul umed intensifică parfumul citricilor din parcul istoric al vilei.",
+                "en": "Visit the cloister for a sheltered view of the garden; the damp earth intensifies the scent of the citrus trees in the historic park."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Aspra ist mild und erfrischend. Wir beginnen den Morgen mit einer kühlen Brise am Meer. Mittags genießen wir die wärmende Sonne in geschützten Innenhöfen. Der Nachmittag gehört den historischen Villen, deren Gärten nun besonders ruhig sind. Da die Sonne gegen 17:00 Uhr untergeht, planen wir einen gemütlichen Abschluss in der Dämmerung.",
+            "hu": "A tél Aspra környékén enyhe és frissítő. A reggelt a tenger felől érkező hűvös szellővel indítjuk. Délben a védett udvarokon élvezzük a bágyadt napsütést. A délután a történelmi villáké, melyek kertjei ilyenkor különösen csendesek. Mivel 17:00 körül sötétedik, a programot egy hangulatos, korai alkonnyal zárjuk.",
+            "ro": "Iarna în Aspra este blândă și revigorantă. Începem dimineața cu o briză răcoroasă de la mare. La prânz, profităm de soarele blând în curțile interioare protejate. După-amiaza este dedicată vilelor istorice, ale căror grădini sunt acum foarte liniștite. Deoarece soarele apune spre ora 17:00, planificăm un final plăcut la amurg.",
+            "en": "Winter in Aspra is mild and refreshing. We start the morning with a cool breeze from the sea. At noon, we enjoy the gentle sun in sheltered courtyards. The afternoon is dedicated to historic villas, whose gardens are exceptionally quiet now. Since the sun sets around 5 PM, we plan a cozy conclusion at dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Ramacca",
+                "hu": "Villa Ramacca",
+                "ro": "Villa Ramacca",
+                "en": "Villa Ramacca"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Ausblicke auf das Meer; tragen Sie eine warme Jacke für die schattigen Bereiche des weitläufigen Parks.",
+                "hu": "A tiszta téli levegő távoli kilátást enged a tengerre; viselj meleg kabátot a hatalmas park árnyékosabb, hűvösebb részeihez.",
+                "ro": "Aerul curat de iarnă permite vederi clare spre mare; purtați o jachetă groasă pentru zonele umbrite ale parcului vast al vilei.",
+                "en": "The crisp winter air allows for clear distant views of the sea; wear a warm jacket for the shaded sections of the expansive park."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Guttuso",
+                "hu": "Museo Guttuso",
+                "ro": "Museo Guttuso",
+                "en": "Museo Guttuso"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich aufzuwärmen, während man Meisterwerke betrachtet; das weiche Winterlicht beleuchtet die Fresken auf ganz besondere Weise.",
+                "hu": "Ideális hely a felmelegedésre a mesterművek nézegetése közben; a lágy téli fény egészen különleges módon világítja meg a freskókat.",
+                "ro": "Un loc ideal pentru a vă încălzi în timp ce admirați capodopere; lumina blândă de iarnă luminează frescele într-un mod unic.",
+                "en": "An ideal place to warm up while admiring masterpieces; the soft winter light illuminates the frescoes in a very special way."
+              }
+            },
+            {
+              "name": {
+                "de": "MUSEUM Osservatorio dell'arte contemporanea in Sicilia",
+                "hu": "MUSEUM Szicíliai Kortárs Művészeti Obszervatórium",
+                "ro": "MUSEUM Observatorul de artă contemporană",
+                "en": "MUSEUM Observatory of Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison in dieser Galerie; die Innenräume bieten Schutz vor dem kühlen Wind, der oft vom Meer her weht.",
+                "hu": "Élvezd a holtszezon nyugalmát ebben a galériában; a belső terek védelmet nyújtanak a tenger felől gyakran fújó hűvös szél ellen.",
+                "ro": "Bucurați-vă de liniștea din extrasezon în această galerie; interioarele oferă protecție împotriva vântului rece care bate dinspre mare.",
+                "en": "Enjoy the off-season tranquility in this gallery; the interior spaces provide shelter from the cool wind that often blows from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Cavea \"Evelina Buttitta\"",
+                "hu": "Cavea \"Evelina Buttitta\"",
+                "ro": "Cavea \"Evelina Buttitta\"",
+                "en": "Cavea \"Evelina Buttitta\""
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort zur Mittagszeit, wenn die Sonne am höchsten steht; der Stein speichert ein wenig Restwärme für eine kurze Rast.",
+                "hu": "Látogasd meg ezt a helyet délidőben, amikor a legmagasabb a nap állása; a kőfelületek ilyenkor elraktároznak némi hőt a pihenéshez.",
+                "ro": "Vizitați acest loc la prânz, când soarele este cel mai sus; piatra înmagazinează puțină căldură reziduală pentru un scurt popas.",
+                "en": "Visit this spot at midday when the sun is at its highest; the stone surfaces store a bit of residual heat for a short rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa San Cataldo",
+                "hu": "Villa San Cataldo",
+                "ro": "Villa San Cataldo",
+                "en": "Villa San Cataldo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang hier vor Einbruch der Dunkelheit um 17:00 Uhr; die Wintersonne taucht die Gartenmauern in ein goldenes Licht.",
+                "hu": "Fejezd be a körutadat itt a sötétedés beállta előtt 17:00-kor; a téli naplemente arany fénybe vonja a kert öreg kőfalait.",
+                "ro": "Încheiați turul aici înainte de lăsarea întunericului, în jur de ora 17:00; soarele de iarnă scaldă zidurile grădinii într-o lumină aurie.",
+                "en": "Finish your tour here before darkness sets in around 5 PM; the winter sun bathes the garden walls in a beautiful golden light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros napot a lélegzetelállító Arco Azzurro-nál, ahonnan csodás kilátás nyílik a tengerre. Délben pihenjen meg a Spiaggia dei francesi-n, és tekerjen át Palermo zöldövezetein. A délutánt a Villa Ramacca és a Museo Guttuso művészeti kincseinek szentelje. Zárja a túrát a Villa San Cataldo lenyűgöző kertjeinek nyugodt hangulatával.",
         "ro": "Începeți ziua de ciclism la uimitorul Arco Azzurro, cu vedere la marea vibrantă. Amiaza aduce o pauză pe Spiaggia dei francesi și o plimbare pitorească prin natura de la periferia orașului Palermo. Petreceți după-amiaza admirând moștenirea Vilei Ramacca și comorile artistice de la Museo Guttuso. Încheiați plimbarea la frumoasa Vilă San Cataldo.",
         "en": "Kick off your cycling day at the breathtaking Arco Azzurro, overlooking the vibrant sea. Midday brings a refreshing break at Spiaggia dei francesi and a scenic ride through the natural beauty of Palermo's outskirts. Spend your afternoon admiring the heritage of Villa Ramacca and the artistic treasures of Museo Guttuso. End the ride at Villa San Cataldo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht, bietet aber eine dynamische Perspektive auf die Küste. Wir starten an den Klippen und spüren die Gischt. Mittags radeln wir zu den schützenden Villen im Landesinneren. Am Nachmittag besuchen wir Museen, um uns zu trocknen. Der Abend endet mit einer vorsichtigen Fahrt auf den glänzenden Straßen von Aspra.",
+            "hu": "A kerékpározás esőben óvatosságot igényel, de dinamikus látványt nyújt a tengerparton. A szikláknál kezdünk, ahol érezni a tenger permetét. Délben a szárazföld belseje felé, a védettebb villákhoz tekerünk. Délután múzeumlátogatással pihenjük ki az ázást. Az este óvatos tekeréssel zárul Aspra csillogó utcáin.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență, dar oferă o perspectivă dinamică asupra coastei. Începem la stânci, simțind spray-ul mării. La prânz, pedalăm spre vilele protejate din interior. După-amiaza vizităm muzee pentru a ne usca. Seara se încheie cu o plimbare atentă pe străzile lucioase din Aspra.",
+            "en": "Cycling in the rain requires caution but offers a dynamic perspective of the coast. We start at the cliffs, feeling the sea spray. At noon, we pedal toward the sheltered villas inland. In the afternoon, we visit museums to dry off. The evening ends with a careful ride through the glistening streets of Aspra."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arco Azzurro",
+                "hu": "Arco Azzurro",
+                "ro": "Arco Azzurro",
+                "en": "Arco Azzurro"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den Felsbogen ist bei grauem Himmel sehr dramatisch; achten Sie beim Abstellen des Rades auf rutschigen Untergrund am Aussichtspunkt.",
+                "hu": "A sziklaív látványa szürke égbolt mellett rendkívül drámai; a bicikli leállításakor ügyelj a csúszós talajra a kilátópontnál.",
+                "ro": "Vederea arcului de piatră este foarte dramatică sub cerul gri; atenție la terenul alunecos când parcați bicicleta la punctul de observație.",
+                "en": "The view of the rock arch is very dramatic under grey skies; be careful of the slippery ground when parking your bike at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia dei francesi",
+                "hu": "Spiaggia dei francesi",
+                "ro": "Spiaggia dei francesi",
+                "en": "Spiaggia dei francesi"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen auf das Meer trifft; bleiben Sie auf den befestigten Wegen, da die Pfade zum Strand schlammig sein können.",
+                "hu": "Figyeld meg, ahogy az esőcseppek a tengerbe hullanak; maradj a szilárd burkolatú utakon, mert a partra vezető ösvények sárgásak lehetnek.",
+                "ro": "Observați cum ploaia se întâlnește cu marea; rămâneți pe drumurile pavate, deoarece potecile spre plajă pot deveni noroioase.",
+                "en": "Watch the rain meet the sea from above; stick to paved roads as the paths down to the beach can become quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Palermo Natur",
+                "hu": "Palermo Természet",
+                "ro": "Natura Palermo",
+                "en": "Palermo"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet spektakuläre Ausblicke auf die aufgewühlte See; tragen Sie wasserfeste Kleidung gegen den Wind und die Gischt.",
+                "hu": "A part menti út látványos kilátást nyújt a felkorbácsolt tengerre; viselj vízálló ruházatot a szél és a sós permet ellen.",
+                "ro": "Drumul de coastă oferă vederi spectaculoase spre marea agitată; purtați haine impermeabile împotriva vântului și a stropilor de apă sărată.",
+                "en": "The coastal road offers spectacular views of the rough sea; wear waterproof clothing to protect against the wind and sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Ramacca",
+                "hu": "Villa Ramacca",
+                "ro": "Villa Ramacca",
+                "en": "Villa Ramacca"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Auffahrt zur Villa für einen kurzen Stopp unter Bäumen; die Reifenspuren im nassen Kies erfordern beim Bremsen etwas Vorsicht.",
+                "hu": "Használd a villa felhajtóját egy rövid pihenőre a fák alatt; a nedves kavicson való fékezéskor legyél különösen óvatos a biciklivel.",
+                "ro": "Folosiți aleea vilei pentru un scurt popas sub copaci; frânarea pe pietrișul umed necesită atenție sporită pentru a evita derapajele.",
+                "en": "Use the villa's driveway for a short break under the trees; braking on wet gravel requires extra caution to avoid skidding."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Guttuso",
+                "hu": "Museo Guttuso",
+                "ro": "Museo Guttuso",
+                "en": "Museo Guttuso"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für eine längere Pause im Trockenen; parken Sie Ihr Rad an einem geschützten Ort und genießen Sie die Kunstausstellung.",
+                "hu": "Ideális hely egy hosszabb, száraz pihenőre; parkold le a biciklit védett helyen, és élvezd a művészeti kiállítást a falak között.",
+                "ro": "Locul ideal pentru o pauză lungă la adăpost; parcați bicicleta într-un loc protejat și bucurați-vă de expoziția de artă din interior.",
+                "en": "The ideal spot for a long, dry break; park your bike in a sheltered spot and enjoy the art exhibition inside the historic walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa San Cataldo",
+                "hu": "Villa San Cataldo",
+                "ro": "Villa San Cataldo",
+                "en": "Villa San Cataldo"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der letzten Etappe; der Regen lässt die Farben des historischen Gartens besonders satt und leuchtend erscheinen.",
+                "hu": "Ellenőrizd a fékeket az utolsó szakasz előtt; az eső miatt a történelmi kert színei különösen telítettnek és élénknek tűnnek.",
+                "ro": "Verificați frânele înainte de ultima etapă; ploaia face ca culorile grădinii istorice să pară extrem de saturate și vibrante.",
+                "en": "Check your brakes before the final leg; the rain makes the colors of the historic garden appear exceptionally rich and vibrant."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter bei Aspra ist dank des milden Klimas angenehm. Wir starten am kühlen Morgen entlang der Küste. Mittags wärmt uns die Sonne auf den Wegen nach Bagheria. Am Nachmittag erkunden wir die Villen ohne die Sommerhitze. Planen Sie das Ende der Tour gegen 17:00 Uhr ein, bevor es empfindlich kühl wird.",
+            "hu": "A téli kerékpározás Aspra környékén a hűvös, de enyhe klíma miatt kellemes. A reggelt a part menti friss levegőn indítjuk. Délben a nap ereje felmelegít minket a Bagheria felé vezető úton. Délután a villákat fedezzük fel, messze a nyári hőségtől. A túrát fejezd be 17:00 körül, mielőtt jelentősen lehűl az idő.",
+            "ro": "Ciclismul de iarnă lângă Aspra este plăcut datorită climei blânde. Începem dimineața în aerul proaspăt de-a lungul coastei. La prânz, soarele ne încălzește pe drumul spre Bagheria. După-amiaza explorăm vilele fără arșița verii. Planificați finalul turului în jurul orei 17:00, înainte să se răcească semnificativ.",
+            "en": "Winter cycling around Aspra is pleasant thanks to the cool but mild climate. We start the morning in the fresh air along the coast. At noon, the sun warms us on the way to Bagheria. In the afternoon, we explore the villas without the summer heat. Plan to finish the tour around 5 PM before it gets chilly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arco Azzurro",
+                "hu": "Arco Azzurro",
+                "ro": "Arco Azzurro",
+                "en": "Arco Azzurro"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und beleuchtet den Felsen perfekt; tragen Sie Handschuhe gegen den kühlen Fahrtwind an der Küste.",
+                "hu": "A téli nap alacsonyan jár és tökéletesen megvilágítja a sziklát; viselj kesztyűt a tengerparti hűvös menetszél ellen.",
+                "ro": "Soarele de iarnă este jos și luminează perfect stânca; purtați mănuși împotriva vântului rece de pe coastă în timp ce pedalați.",
+                "en": "The winter sun is low and illuminates the rock perfectly; wear gloves to protect against the cool coastal wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia dei francesi",
+                "hu": "Spiaggia dei francesi",
+                "ro": "Spiaggia dei francesi",
+                "en": "Spiaggia dei francesi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den leeren Strand in der absoluten Stille des Winters; die kühle Brise ist erfrischend nach dem ersten Anstieg mit dem Rad.",
+                "hu": "Élvezd az üres tengerpartot a tél abszolút csendjében; a hűvös szellő frissítő az első kerékpáros emelkedő után.",
+                "ro": "Bucurați-vă de plaja goală în liniștea deplină a iernii; briza rece este revigorantă după prima urcare cu bicicleta.",
+                "en": "Enjoy the empty beach in the absolute silence of winter; the cool breeze is refreshing after the first climb on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Palermo Natur",
+                "hu": "Palermo Természet",
+                "ro": "Natura Palermo",
+                "en": "Palermo"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die Berge Palermos ist im Winter am besten; halten Sie kurz an, um das Panorama in der klaren Luft zu fotografieren.",
+                "hu": "A kilátás Palermo hegyeire télen a legtisztább; állj meg egy rövid fotószünetre, hogy megörökítsd a panorámát a tiszta levegőben.",
+                "ro": "Vederea spre munții din Palermo este cea mai clară iarna; opriți-vă pentru o scurtă pauză foto pentru a surprinde panorama în aerul curat.",
+                "en": "The view of the Palermo mountains is clearest in winter; stop for a short photo break to capture the panorama in the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Ramacca",
+                "hu": "Villa Ramacca",
+                "ro": "Villa Ramacca",
+                "en": "Villa Ramacca"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt zwischen den kahleren Bäumen noch imposanter; nutzen Sie die sonnigen Abschnitte des Gartens für eine Pause.",
+                "hu": "Az épület még impozánsabbnak tűnik a kopárabb fák között; a kert naposabb részeit használd pihenésre a tekerés közben.",
+                "ro": "Arhitectura pare și mai impunătoare printre copacii desfrunziți; folosiți secțiunile însorite ale grădinii pentru o pauză de odihnă.",
+                "en": "The architecture looks even more imposing among the sparser trees; use the sunnier sections of the garden for a rest during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Guttuso",
+                "hu": "Museo Guttuso",
+                "ro": "Museo Guttuso",
+                "en": "Museo Guttuso"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf; im Winter sind kaum Touristen hier, was eine sehr private Besichtigung ermöglicht.",
+                "hu": "Melegedj fel a kiállítótermekben; télen alig vannak turisták, így szinte privát tárlatvezetésben lehet részed a múzeumban.",
+                "ro": "Încălziți-vă în sălile de expoziție; iarna sunt foarte puțini turiști, ceea ce permite o vizită foarte liniștită și privată.",
+                "en": "Warm up in the exhibition rooms; there are very few tourists in winter, allowing for a very quiet and private visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa San Cataldo",
+                "hu": "Villa San Cataldo",
+                "ro": "Villa San Cataldo",
+                "en": "Villa San Cataldo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Ende des Tages gegen 17:00 Uhr; die kühle Abendluft erinnert daran, dass es Zeit für den Rückweg ist.",
+                "hu": "Figyeld meg a nap végét 17:00 körül; a hűvös esti levegő jelzi, hogy ideje elindulni a szállás felé.",
+                "ro": "Urmăriți sfârșitul zilei în jurul orei 17:00; aerul rece de seară vă reamintește că este timpul să porniți spre casă.",
+                "en": "Observe the end of the day around 5 PM; the cool evening air serves as a reminder that it's time to head back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Vezessen a Spiaggia della Crucicchia-hoz egy frissítő, vízparti reggeli kezdésért. A dél megnyitja a panorámát a Monte Catalfano hegyéről, majd tegyen egy sétát Palermo közeli természetvédelmi területein. Később fotózzon az Arco Azzurro-nál és hűsöljön a Spiaggia dei francesi-n. Fejezze be autós túráját a híres Museo Guttuso kulturális gazdagságával.",
         "ro": "Conduceți spre Spiaggia della Crucicchia pentru un început de dimineață revigorant. Amiaza oferă vederi panoramice de pe Monte Catalfano și o plimbare în rezervațiile naturale din Palermo. Mai târziu, fotografiați Arco Azzurro și relaxați-vă la Spiaggia dei francesi. Încheiați călătoria cu mașina explorând cultura profundă la celebrul Museo Guttuso.",
         "en": "Drive to Spiaggia della Crucicchia for a breezy morning start by the water. Midday offers expansive panoramic views from Monte Catalfano and a refreshing walk in the nearby Palermo natural reserves. Later, capture photos at Arco Azzurro and dip your toes at Spiaggia dei francesi. Finish your road trip deeply immersed in culture at the renowned Museo Guttuso."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt ist die komfortabelste Art, Aspra im Regen zu erkunden. Wir fahren entlang der Küste und genießen den Blick auf die tosende See. Mittags steuern wir das Naturreservat an, wo wir aus dem Fenster die Landschaft bewundern. Am Nachmittag bietet das Guttuso-Museum trockenen Kulturgenuss. Der Abend endet mit einer stimmungsvollen Fahrt durch das verregnete Bagheria.",
+            "hu": "Az autós túra a legkényelmesebb módja Aspra felfedezésének esőben. A part mentén haladunk, élvezve a tajtékzó tenger látványát. Délben a természetvédelmi terület felé vesszük az irányt, ahol az ablakból csodáljuk a tájat. Délután a Guttuso-múzeum nyújt száraz kulturális élményt. Az este hangulatos autózással zárul a kivilágított, esős Bagheriában.",
+            "ro": "O călătorie cu mașina este cel mai confortabil mod de a explora Aspra pe ploaie. Conducem de-a lungul coastei, admirând marea învolburată. La prânz, ne îndreptăm spre rezervația naturală, observând peisajul de pe fereastră. După-amiaza, Muzeul Guttuso oferă delicii culturale la adăpost. Seara se încheie cu o plimbare atmosferică prin Bagheria ploioasă.",
+            "en": "A car trip is the most comfortable way to explore Aspra in the rain. We drive along the coast, enjoying the view of the churning sea. At noon, we head towards the nature reserve, admiring the landscape from the window. In the afternoon, the Guttuso Museum offers dry cultural enjoyment. The evening ends with an atmospheric drive through rainy Bagheria."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia della Crucicchia",
+                "hu": "Spiaggia della Crucicchia",
+                "ro": "Spiaggia della Crucicchia",
+                "en": "Spiaggia della Crucicchia"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Wetterspiel über dem Meer direkt aus dem parkenden Auto; die Wellen schlagen bei Regen oft spektakulär an den Strand.",
+                "hu": "Figyeld meg az időjárás játékát a tenger felett közvetlenül a parkoló autóból; az esőben a hullámok gyakran látványosan csapkodnak a partra.",
+                "ro": "Observați jocul vremii deasupra mării direct din mașina parcată; valurile se sparg adesea spectaculos pe plajă în timpul ploii.",
+                "en": "Watch the weather patterns over the sea directly from your parked car; the waves often crash spectacularly on the beach during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Catalfano",
+                "hu": "Monte Catalfano",
+                "ro": "Monte Catalfano",
+                "en": "Monte Catalfano"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den serpentinenreichen Straßen nach oben; die Aussichtspunkte bieten auch bei Regen ein dramatisches Panorama.",
+                "hu": "Vezess óvatosan a szerpentines utakon felfelé; a kilátópontok esőben is drámai panorámát nyújtanak a ködbe burkolózó partvidékre.",
+                "ro": "Conduceți cu atenție pe drumurile șerpuite spre vârf; punctele de observație oferă o panoramă dramatică chiar și pe timp de ploaie.",
+                "en": "Drive carefully on the winding roads to the top; the viewpoints offer a dramatic panorama even in the rain as mist rolls over the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Palermo",
+                "hu": "Palermo",
+                "ro": "Palermo",
+                "en": "Palermo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wilde Natur der Küste vom Schutz des Fahrzeugs aus; ein kurzer Halt am Straßenrand offenbart die Kraft der Elemente.",
+                "hu": "Élvezd a partvidék vad természetét a gépjármű védelméből; egy rövid megálló az út mentén megmutatja az elemek erejét.",
+                "ro": "Bucurați-vă de natura sălbatică a coastei din protecția vehiculului; o scurtă oprire pe marginea drumului relevă forța elementelor.",
+                "en": "Enjoy the wild nature of the coast from the protection of your vehicle; a short stop by the roadside reveals the power of the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco Azzurro",
+                "hu": "Arco Azzurro",
+                "ro": "Arco Azzurro",
+                "en": "Arco Azzurro"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Bogen lohnt sich für das Foto; der nasse Fels leuchtet in tiefen Blautönen unter dem grauen Himmel.",
+                "hu": "Egy rövid sprint a parkolóból az ívhez megéri egy fotóért; a nedves szikla mélykék árnyalatokban ragyog a szürke ég alatt.",
+                "ro": "Un scurt sprint de la parcare la arc merită pentru o fotografie; stânca umedă strălucește în nuanțe de albastru închis sub cerul gri.",
+                "en": "A short sprint from the parking lot to the arch is worth it for a photo; the wet rock glows in deep blue tones under the grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia dei francesi",
+                "hu": "Spiaggia dei francesi",
+                "ro": "Spiaggia dei francesi",
+                "en": "Spiaggia dei francesi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie oberhalb der Bucht für einen Panoramablick; im Regen wirkt dieser versteckte Ort besonders geheimnisvoll und verlassen.",
+                "hu": "Parkolj az öböl felett a panorámás kilátásért; esőben ez a rejtett hely különösen titokzatosnak és elhagyatottnak tűnik.",
+                "ro": "Parcați deasupra golfului pentru o vedere panoramică; pe ploaie, acest loc ascuns pare deosebit de misterios și părăsit.",
+                "en": "Park above the bay for a panoramic view; in the rain, this hidden spot appears especially mysterious and deserted."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Guttuso",
+                "hu": "Museo Guttuso",
+                "ro": "Museo Guttuso",
+                "en": "Museo Guttuso"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Villa Cattolica und verbringen Sie den Nachmittag im Trockenen; die Kunstwerke leuchten hell gegen das Grau draußen.",
+                "hu": "Parkolj közvetlenül a Villa Cattolica mellett, és töltsd a délutánt szárazon; a műalkotások élénken ragyognak a kinti szürkeséggel szemben.",
+                "ro": "Parcați direct lângă Villa Cattolica și petreceți după-amiaza la uscat; operele de artă strălucesc intens în contrast cu griul de afară.",
+                "en": "Park directly by Villa Cattolica and spend the afternoon in the dry; the artworks glow brightly against the grey weather outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Panoramen und milde Temperaturen machen diese Autofahrt ideal. Wir starten am sonnigen Strand von Crucicchia. Mittags fahren wir auf den Monte Catalfano für eine klare Fernsicht. Der Nachmittag führt uns zu den versteckten Buchten der Küste. Da es früh dunkel wird, nutzen wir die goldene Stunde ab 16:00 Uhr für die schönsten Fotos am Museum.",
+            "hu": "A téli panorámák és az enyhe hőmérséklet ideálissá teszik ezt az autós kirándulást. A napsütötte Crucicchia-parton kezdünk. Délben felhajtunk a Monte Catalfanóra a tiszta tálati kilátásért. A délután a part rejtett öbleihez vezet. Mivel korán sötétedik, a 16:00 utáni arany órát használjuk a legszebb fotókhoz a múzeumnál.",
+            "ro": "Panoramele de iarnă și temperaturile blânde fac această călătorie cu mașina ideală. Începem pe plaja însorită Crucicchia. La prânz, urcăm pe Monte Catalfano pentru vederi clare la distanță. După-amiaza ne poartă spre golfurile ascunse. Deoarece se întunecă devreme, folosim ora de aur de la 16:00 pentru poze la muzeu.",
+            "en": "Winter panoramas and mild temperatures make this car trip ideal. We start at the sunny Crucicchia beach. At noon, we drive up Monte Catalfano for clear distant views. The afternoon leads us to the coast's hidden bays. Since it gets dark early, we use the golden hour from 4 PM for the best photos at the museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia della Crucicchia",
+                "hu": "Spiaggia della Crucicchia",
+                "ro": "Spiaggia della Crucicchia",
+                "en": "Spiaggia della Crucicchia"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne ist perfekt für einen kurzen Strandspaziergang; die Luft ist frisch, also halten Sie die Heizung im Auto bereit.",
+                "hu": "A téli napsütés tökéletes egy rövid parti sétához; a levegő friss, ezért tartsd készenlétben az autó fűtését a visszatéréshez.",
+                "ro": "Soarele de iarnă este perfect pentru o scurtă plimbare pe plajă; aerul este proaspăt, deci pregătiți încălzirea în mașină.",
+                "en": "The winter sun is perfect for a short beach walk; the air is fresh, so keep the car's heater ready for when you return."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Catalfano",
+                "hu": "Monte Catalfano",
+                "ro": "Monte Catalfano",
+                "en": "Monte Catalfano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze für einen Panoramablick ohne Anstrengung; im Winter ist die Sicht auf das Meer oft bis zum Horizont ungetrübt.",
+                "hu": "Használd a parkolókat a panorámás kilátáshoz megerőltetés nélkül; télen a tengeri kilátás gyakran a látóhatárig teljesen zavartalan.",
+                "ro": "Folosiți parcările pentru o vedere panoramică fără efort; iarna, vizibilitatea spre mare este adesea perfectă până la orizont.",
+                "en": "Use the parking areas for a panoramic view without effort; in winter, the view over the sea is often clear all the way to the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Palermo",
+                "hu": "Palermo",
+                "ro": "Palermo",
+                "en": "Palermo"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist im Winter fast leer, genießen Sie die Fahrt; das tiefe Blau des Meeres kontrastiert herrlich mit den grauen Felsen.",
+                "hu": "A part menti út télen szinte üres, élvezd a zavartalan autózást; a tenger mélykékje csodás kontrasztot alkot a szürke sziklákkal.",
+                "ro": "Drumul de coastă este aproape pustiu iarna, bucurați-vă de condus; albastrul profund al mării contrastează superb cu stâncile gri.",
+                "en": "The coastal road is almost empty in winter, enjoy the smooth drive; the deep blue of the sea contrasts beautifully with the grey rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco Azzurro",
+                "hu": "Arco Azzurro",
+                "ro": "Arco Azzurro",
+                "en": "Arco Azzurro"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Bogen am frühen Nachmittag für das beste Licht; die kühle Meeresbrise ist belebend für einen kurzen Fotostopp.",
+                "hu": "Látogasd meg az ívet kora délután a legjobb fényviszonyokért; a hűvös tengeri szellő élénkítő egy rövid fotószünet idejére.",
+                "ro": "Vizitați arcul după-amiaza devreme pentru cea mai bună lumină; briza rece a mării este revigorantă pentru un scurt popas foto.",
+                "en": "Visit the arch in the early afternoon for the best lighting; the cool sea breeze is invigorating for a quick photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia dei francesi",
+                "hu": "Spiaggia dei francesi",
+                "ro": "Spiaggia dei francesi",
+                "en": "Spiaggia dei francesi"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Aussichtspunkt vom Auto aus in der kühlen Winterluft; genießen Sie die Einsamkeit an diesem sonst so belebten Ort.",
+                "hu": "Ideális kilátópont az autóból a hűvös téli levegőben; élvezd a magányt ezen az egyébként rendkívül forgalmas és népszerű helyen.",
+                "ro": "Un punct de observație ideal din mașină în aerul rece de iarnă; bucurați-vă de singurătate în acest loc de altfel foarte aglomerat.",
+                "en": "An ideal viewpoint from the car in the cool winter air; enjoy the solitude in this otherwise very busy and popular location."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Guttuso",
+                "hu": "Museo Guttuso",
+                "ro": "Museo Guttuso",
+                "en": "Museo Guttuso"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier gegen 17:00 Uhr bei Sonnenuntergang; das warme Licht des Abends beleuchtet die Skulpturen im Garten perfekt.",
+                "hu": "Zárd itt a napot 17:00 körül naplementekor; az este meleg fényei tökéletesen megvilágítják a kertben található szobrokat.",
+                "ro": "Încheiați ziua aici în jurul orei 17:00, la apus; lumina caldă a serii luminează perfect sculpturile din grădina muzeului.",
+                "en": "End your day here around 5 PM at sunset; the warm evening light perfectly illuminates the sculptures in the museum garden."
+              }
+            }
+          ]
+        }
       }
     }
   }

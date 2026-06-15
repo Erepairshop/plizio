@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Biville történelmi központjában.\nFedezze fel az ősi templomot és a pompás udvarházat.\nDélután túrázzon át a lenyűgöző homokdűnéken.\nZárja a napot egy pihentető sétával a végtelen tengerparton.",
         "ro": "Începeți-vă ziua în centrul istoric al orașului Biville.\nDescoperiți vechea biserică și magnificul conac.\nDupă-amiaza, faceți o drumeție prin impresionantul peisaj de dune de nisip.\nÎncheiați ziua cu o plimbare relaxantă pe plaja nesfârșită.",
         "en": "Start your day in the historic center of Biville.\nDiscover the ancient church and the magnificent manor house.\nIn the afternoon, hike through the impressive sand dunes.\nEnd the day with a relaxing walk on the endless beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Biville beginnt geschützt im Rathaus. Mittags bietet die Kirche eine trockene Zuflucht vor den Schauern der Normandie. Am Nachmittag verwandelt der Nebel die Dünen in eine mystische, wenn auch rutschige Landschaft. Der Abend am Strand ist windig; wasserfeste Kleidung und festes Schuhwerk sind unerlässlich, um die dramatische Gischt sicher zu genießen.",
+            "hu": "A reggel Biville-ben esősen indul, így az önkormányzat épülete nyújt menedéket. Délben a templom vastag falai között bújunk el a zápor elől. Délután a dűnék közt a köd misztikus, de csúszós világot teremt, a tengerparti szél pedig felerősödik. Az este gyorsan sötétedik a felhők miatt, a vízhatlan réteges öltözet és a csúszásmentes bakancs elengedhetetlen a parti sétához.",
+            "ro": "O dimineață ploioasă în Biville începe la adăpost în primărie. La prânz, biserica oferă un refugiu uscat împotriva averselor normande. După-amiaza, ceața transformă dunele într-un peisaj mistic, deși potecile devin alunecoase. Seara pe plajă este vântoasă; îmbrăcămintea impermeabilă și încălțămintea aderentă sunt esențiale pentru a admira în siguranță valurile dramatice.",
+            "en": "A rainy morning in Biville starts sheltered in the town hall. At noon, the church provides a dry sanctuary from the Norman showers. In the afternoon, the mist turns the dunes into a mystical, albeit slippery, landscape. The evening at the beach is windy; waterproof clothing and sturdy boots are essential to safely enjoy the dramatic sea spray and the grey horizon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie déléguée de Biville",
+                "hu": "Mairie déléguée de Biville",
+                "ro": "Mairie déléguée de Biville",
+                "en": "Mairie déléguée de Biville"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt im Rathaus, um lokale Chroniken zu lesen, während es draußen regnet. Ein großer Regenschirm ist für den kurzen Weg zur nächsten Station ratsam.",
+                "hu": "Használja ki az önkormányzati épület védelmét a helyi történelem megismerésére, amíg kint esik. Egy nagyméretű esernyő jól jön a következő megállóig tartó rövid úton.",
+                "ro": "Profitați de adăpostul primăriei pentru a consulta cronicile locale în timp ce plouă afară. O umbrelă mare este recomandată pentru drumul scurt până la următoarea oprire.",
+                "en": "Take advantage of the town hall's shelter to study local history while it rains outside. A large umbrella is advisable for the short walk to the next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche Atmosphäre und Schutz vor dem Wind. Achten Sie auf die Steinstufen am Eingang, die bei Nässe extrem rutschig sein können.",
+                "hu": "A templom békés hangulatot és tökéletes szélvédelmet biztosít. Ügyeljen a bejárati kőlépcsőkre, amelyek az esőtől rendkívül csúszóssá válhatnak a látogatáskor.",
+                "ro": "Biserica oferă o atmosferă liniștită și protecție împotriva vântului. Atenție la treptele de piatră de la intrare, care pot fi extrem de alunecoase când sunt ude.",
+                "en": "The church offers a peaceful atmosphere and perfect protection from the wind. Watch out for the stone steps at the entrance, which can be very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Grand'Cour",
+                "hu": "Manoir de la Grand'Cour",
+                "ro": "Manoir de la Grand'Cour",
+                "en": "Manoir de la Grand'Cour"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Herrenhauses von der Straße aus; die unbefestigten Wege rundherum können bei Regen sehr schlammig werden. Gamaschen sind hier hilfreich.",
+                "hu": "Csodálja meg a kúria építészetét az útról, mert a környező földutak sárban úszhatnak az esőzés miatt. A kamásli viselése sokat segíthet a sár elleni védekezésben.",
+                "ro": "Admirați arhitectura conacului de la drum; potecile neasfaltate din jur pot deveni foarte noroioase din cauza ploii. Parazăpezile sunt utile în această zonă.",
+                "en": "Admire the manor's architecture from the road; the unpaved paths around it can become very muddy during rain. Wearing gaiters is highly recommended for this section."
+              }
+            },
+            {
+              "name": {
+                "de": "Dunes de Biville",
+                "hu": "Dunes de Biville",
+                "ro": "Dunes de Biville",
+                "en": "Dunes de Biville"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Sand ist fester zum Laufen, aber der Wind ist stark. Eine winddichte Regenjacke ist ein Muss, um die weite Aussicht auf den Ozean ohne Frieren zu genießen.",
+                "hu": "A nedves homok keményebb és könnyebben járható, de a szél metsző. Egy szélálló esőkabát kötelező, hogy fázás nélkül élvezhesse a hatalmas óceáni kilátást.",
+                "ro": "Nisipul umed este mai compact pentru mers, dar vântul este puternic. O jachetă de ploaie rezistentă la vânt este obligatorie pentru a vedea oceanul fără a îngheța.",
+                "en": "The wet sand is firmer for walking, but the wind is biting. A windproof raincoat is a must to enjoy the vast ocean views without getting chilled to the bone."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Biville",
+                "hu": "Plage de Biville",
+                "ro": "Plage de Biville",
+                "en": "Plage de Biville"
+              },
+              "tip_5lang": {
+                "de": "Das graue Meer bei Regen wirkt gewaltig; bleiben Sie fern von der Brandung. Ein Handtuch im Rucksack hilft, sich nach dem windigen Spaziergang schnell abzutrocknen.",
+                "hu": "A szürke tenger esőben fenséges látvány, de maradjon távol a hullámveréstől. Egy törölköző a hátizsákban jól jön, hogy a szeles séta után gyorsan megszárítkozzon.",
+                "ro": "Marea gri pe ploaie arată impresionant; stați departe de zona unde se sparg valurile. Un prosop în rucsac ajută la uscarea rapidă după plimbarea vântoasă.",
+                "en": "The grey sea during rain looks powerful; stay well back from the breaking waves. Keep a towel in your backpack to dry off quickly after the windy stroll."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Biville ist frisch und belebend. Vormittags wärmt man sich kurz in der Kirche auf, bevor man mittags das historische Herrenhaus besucht. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollte man die Dünen am frühen Nachmittag erkunden. Der Tag endet mit einem frostigen, aber wunderschönen Sonnenuntergang am Strand, der warme Kleidung erfordert.",
+            "hu": "A téli reggel Biville-ben friss és élénkítő, a városháza környéke csendes. Délelőtt a templomban keressük a belső nyugalmat, délben pedig a kúria téli fényeit csodáljuk. Mivel a nap 17:00 körül már lemegy, a dűnéket kora délután érdemes bejárni. A nap egy fagyos, de gyönyörű tengerparti naplementével zárul, amihez elengedhetetlen a réteges öltözet.",
+            "ro": "O dimineață senină de iarnă în Biville este proaspătă și revigorantă. Înainte de prânz ne încălzim în biserică, apoi vizităm conacul istoric. Deoarece soarele apune deja în jur de ora 17:00, explorează dunele la începutul după-amiezii. Ziua se încheie cu un apus înghețat, dar superb, pe plajă, care necesită haine foarte groase.",
+            "en": "A crisp winter morning in Biville is fresh and invigorating. Warm up briefly in the church before visiting the historic manor at noon. Since the sun sets around 17:00, be sure to explore the dunes in the early afternoon. The day ends with a freezing but beautiful sunset at the beach, which requires high-quality thermal layers and a hat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie déléguée de Biville",
+                "hu": "Mairie déléguée de Biville",
+                "ro": "Mairie déléguée de Biville",
+                "en": "Mairie déléguée de Biville"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Rundgang zügig, um das Tageslicht optimal zu nutzen. Thermounterwäsche ist für die steife Brise am Morgen in der Küstennähe sehr zu empfehlen.",
+                "hu": "Kezdje korán a túrát, hogy a rövid nappali világítást maximálisan kihasználja. A hőtartó aláöltözet erősen ajánlott a reggeli tengerparti hideg szél ellen.",
+                "ro": "Începeți turul rapid pentru a profita la maximum de lumina zilei. Lenjeria termică este foarte recomandată pentru briza tăioasă de dimineață de lângă coastă.",
+                "en": "Start your tour promptly to make the most of the limited daylight. Thermal base layers are highly recommended for the stiff morning breeze near the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kälter als draußen; behalten Sie Mantel und Handschuhe an. Die Ruhe im Inneren ist perfekt für eine kurze meditative Pause im Winter.",
+                "hu": "A templom belseje gyakran hidegebb, mint a kinti levegő, ne vegye le a kabátját. A belső csend tökéletes egy rövid, meditatív téli pihenőhöz a séta során.",
+                "ro": "În interiorul bisericii este adesea mai frig decât afară; păstrați haina și mănușile. Liniștea din interior este perfectă pentru o scurtă pauză meditativă de iarnă.",
+                "en": "The church interior is often colder than the outside air; keep your coat and gloves on. The silence inside is perfect for a short, meditative winter break."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Grand'Cour",
+                "hu": "Manoir de la Grand'Cour",
+                "ro": "Manoir de la Grand'Cour",
+                "en": "Manoir de la Grand'Cour"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf die Details des Herrenhauses frei. Tragen Sie dicke Socken, da die Kälte vom Boden her schnell durch die Schuhsohlen zieht.",
+                "hu": "A kopár fák miatt télen jobban látszanak a kúria építészeti részletei. Viseljen vastag zoknit, mert a talaj felőli hideg gyorsan áthatol a cipőtalpon.",
+                "ro": "Copacii desfrunziți permit o vedere mai bună asupra detaliilor conacului. Purtați șosete groase, deoarece frigul de la sol pătrunde rapid prin tălpile pantofilor.",
+                "en": "The bare trees allow for a clearer view of the manor's architectural details. Wear thick socks, as the cold from the frozen ground can quickly seep through boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Dunes de Biville",
+                "hu": "Dunes de Biville",
+                "ro": "Dunes de Biville",
+                "en": "Dunes de Biville"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht sorgt für fantastische Schatten in den Sanddünen. Da die Wege gefroren sein können, sollten Sie auf Unebenheiten und gefrorene Pfützen achten.",
+                "hu": "A téli fények fantasztikus árnyékokat vetnek a homokdűnékre. Mivel az utak fagyottak lehetnek, ügyeljen az egyenetlen talajra és a jeges tócsákra a dűnék között.",
+                "ro": "Lumina de iarnă creează umbre fantastice în dunele de nisip. Deoarece potecile pot fi înghețate, atenție la denivelări și la bălțile înghețate din zonă.",
+                "en": "The low winter sun creates fantastic shadows across the sand dunes. As paths may be frozen, watch out for uneven ground and icy patches along the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Biville",
+                "hu": "Plage de Biville",
+                "ro": "Plage de Biville",
+                "en": "Plage de Biville"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr, aber verlassen Sie den Strand sofort danach. Eine Stirnlampe ist für den Rückweg in der Dämmerung sehr nützlich.",
+                "hu": "Élvezze a naplementét 17:00 körül, de utána azonnal induljon vissza. Egy fejlámpa rendkívül hasznos lehet a gyorsan sötétedő tengerparti visszaúton.",
+                "ro": "Bucurați-vă de apus în jur de ora 17:00, dar plecați imediat după. O lanternă frontală este utilă pentru drumul de întoarcere în amurgul care vine repede.",
+                "en": "Enjoy the sunset around 17:00, but head back immediately afterwards. A headlamp is very useful for navigating the return path in the rapidly fading light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpártúrát Biville történelmi faluközpontjában.\nTekerjen el a régi templom mellett a látványos dűnevidékek és a történelmi bunkerek felé.\nKerékpározzon fel a kilátópontra a hihetetlen tengerparti panorámáért.\nPihenjen a békés természetvédelmi területen, és figyelje meg a gazdag madárvilágot szürkületkor.",
         "ro": "Începeți turul cu bicicleta în centrul istoric al satului Biville.\nMergeți pe lângă vechea biserică spre peisajele spectaculoase de dune și buncărele istorice.\nUrcați cu bicicleta până la punctul de belvedere pentru panorame de coastă incredibile.\nRelaxați-vă în rezervația naturală pașnică, urmărind păsările la asfințit.",
         "en": "Start your cycling tour in Biville's historic village center.\nRide past the old church towards the spectacular dune landscapes and historical bunkers.\nCycle up to the viewpoint for incredible coastal panoramas.\nRelax at the peaceful nature reserve watching the rich birdlife at dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag in Biville erfordert Vorsicht auf den nassen Straßen. Nach dem Start im Rathaus führt der Weg zur Kirche, die einen trockenen Halt bietet. Die Fahrt zu den Dünen ist im Regen anstrengend, aber die Aussicht im Nebel belohnt die Mühe. Nach dem Bunker und dem Aussichtspunkt endet die Tour im Naturschutzgebiet, wobei wasserdichte Packtaschen für Ihre Ausrüstung wichtig sind.",
+            "hu": "Az esős biciklis nap Biville-ben óvatosságot igényel a vizes utakon. A városházi kezdés után a templom nyújt fedett pihenőt. A dűnék felé tartó tekerés esőben fárasztó, de a ködös kilátás kárpótol. A bunkert és a kilátót érintve a túra a természetvédelmi területen zárul; a vízhatlan túratáska elengedhetetlen a felszerelés védelmében.",
+            "ro": "O zi de ciclism ploioasă în Biville necesită prudență pe drumurile ude. După pornirea de la primărie, traseul duce la biserică pentru o oprire uscată. Drumul spre dune este obositor pe ploaie, dar priveliștea în ceață merită efortul. După buncăr și belvedere, turul se încheie în rezervație; gențile de bicicletă impermeabile sunt vitale.",
+            "en": "A rainy cycling day in Biville requires extra caution on wet roads. After starting at the town hall, the route leads to the church for a dry break. Pedaling towards the dunes in the rain is tiring, but the misty views are rewarding. Passing the blockhouse and viewpoint, the tour ends at the reserve; waterproof panniers are vital for your gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie déléguée de Biville",
+                "hu": "Mairie déléguée de Biville",
+                "ro": "Mairie déléguée de Biville",
+                "en": "Mairie déléguée de Biville"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen und den Reifendruck vor der Abfahrt im Regen. Ein Schutzblech am Hinterrad verhindert, dass Schmutzwasser Ihren Rücken durchnässt.",
+                "hu": "Indulás előtt ellenőrizze a fékeket és a keréknyomást az esőben. A hátsó sárvédő megakadályozza, hogy a felcsapódó víz teljesen eláztassa a hátát a tekeréskor.",
+                "ro": "Verificați frânele și presiunea pneurilor înainte de a pleca pe ploaie. O apărătoare la roata din spate va preveni stropirea spatelui cu apă murdară de pe drum.",
+                "en": "Check your brakes and tire pressure before setting off in the rain. A rear mudguard is essential to prevent road spray from soaking your back while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem geschützten Ort und wärmen Sie sich kurz auf. Nutzen Sie die Pause, um Ihr Visier oder Ihre Brille von Regentropfen zu befreien.",
+                "hu": "Parkolja le a kerékpárt egy védettebb helyen, és melegedjen fel bent. Használja ki a pihenőt, hogy megtisztítsa szemüvegét vagy sisakrostélyát az esőcseppektől.",
+                "ro": "Parcați bicicleta într-un loc protejat și încălziți-vă puțin în interior. Folosiți pauza pentru a curăța picăturile de ploaie de pe ochelari sau vizieră.",
+                "en": "Park your bike in a sheltered spot and warm up inside for a few minutes. Use this break to clear raindrops from your cycling glasses or helmet visor."
+              }
+            },
+            {
+              "name": {
+                "de": "Dunes de Biville",
+                "hu": "Dunes de Biville",
+                "ro": "Dunes de Biville",
+                "en": "Dunes de Biville"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann hier weich und rutschig sein; schieben Sie das Rad gegebenenfalls. Eine neongelbe Regenjacke erhöht Ihre Sichtbarkeit bei grauem Regenwetter enorm.",
+                "hu": "A talaj itt felázott és csúszós lehet, szükség esetén tolja a biciklit. Egy neon sárga esőkabát drasztikusan javítja a láthatóságát a szürke, esős időben.",
+                "ro": "Solul poate fi moale și alunecos aici; împingeți bicicleta dacă este necesar. O jachetă de ploaie neon vă va spori enorm vizibilitatea pe vreme gri și ploioasă.",
+                "en": "The ground can be soft and slippery here; push your bike if necessary. A neon yellow raincoat will drastically improve your visibility in grey, rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Blockhaus",
+                "hu": "Blockhaus",
+                "ro": "Blockhaus",
+                "en": "Blockhaus"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Betonwände des Bunkers bieten einen exzellenten Wind- und Regenschutz. Achten Sie auf Pfützen am Eingang, die tiefer sein könnten, als sie auf den ersten Blick aussehen.",
+                "hu": "A bunker vastag betonfalai kiváló védelmet nyújtanak a szél és az eső ellen. Ügyeljen a bejáratnál a tócsákra, amelyek mélyebbek lehetnek, mint aminek látszanak.",
+                "ro": "Pereții groși de beton ai buncărului oferă un adăpost excelent contra vântului. Atenție la bălțile de la intrare, care pot fi mai adânci decât par la prima vedere.",
+                "en": "The bunker's thick concrete walls provide excellent shelter from wind and rain. Watch out for puddles at the entrance, which might be deeper than they look."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère du Thot",
+                "hu": "Belvédère du Thot",
+                "ro": "Belvédère du Thot",
+                "en": "Belvédère du Thot"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist dem Wind sehr ausgesetzt; halten Sie den Lenker gut fest. Bei starkem Regen kann die Sicht eingeschränkt sein, was der Küste ein raues Flair verleiht.",
+                "hu": "A kilátóhely erősen kitett a szélnek, stabilan fogja a kormányt megálláskor is. Erős esőben a látótávolság csökkenhet, ami zord, de vad partvidéki hangulatot ad.",
+                "ro": "Punctul de belvedere este foarte expus vântului; țineți bine ghidonul. Pe ploaie torențială, vizibilitatea poate fi redusă, oferind coastei un aer sălbatic.",
+                "en": "The viewpoint is very exposed to the wind; keep a firm grip on your handlebars. In heavy rain, visibility may be limited, giving the coast a raw, rugged feel."
+              }
+            },
+            {
+              "name": {
+                "de": "Réserve naturelle de la mare de Vauville",
+                "hu": "Réserve naturelle de la mare de Vauville",
+                "ro": "Réserve naturelle de la mare de Vauville",
+                "en": "Réserve naturelle de la mare de Vauville"
+              },
+              "tip_5lang": {
+                "de": "Die Wege im Reservat können sehr matschig sein; breitere Reifen sind hier von Vorteil. Nach der Tour sollten Sie Kette und Schaltung gründlich von Sand und Schlamm reinigen.",
+                "hu": "A rezervátum útjai nagyon sárosak lehetnek, a szélesebb gumik itt előnyt jelentenek. A túra után alaposan tisztítsa meg a láncot a ráragadt homoktól és sártól.",
+                "ro": "Potecile din rezervație pot fi foarte noroioase; anvelopele mai late sunt un avantaj. După tur, curățați bine lanțul și transmisia de nisipul și noroiul acumulate.",
+                "en": "The reserve's paths can be very muddy; wider tires are an advantage here. After the ride, thoroughly clean your chain and gears of any accumulated sand and mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag auf dem Rad in Biville bietet klare Luft und weite Sichten. Starten Sie morgens am Rathaus und besuchen Sie die Kirche, um die Kälte abzuschütteln. Mittags geht es zu den Dünen, wo das flache Licht lange Schatten wirft. Vorbei am Bunker und dem windigen Belvédère erreichen Sie das Naturschutzgebiet. Da es um 17:00 Uhr dunkel wird, ist eine funktionierende Beleuchtung für den Rückweg absolut lebensnotwendig.",
+            "hu": "A téli biciklis nap Biville-ben friss levegőt és tiszta távlatokat kínál. Induljon a városházától, majd a templomban melegedjen fel egy kicsit. Délben a dűnék közt a lapos téli fények hosszú árnyékokat vetnek. A bunkert és a szeles kilátót érintve jut el a rezervátumig. Mivel 17:00-kor sötétedik, a kifogástalan világítás elengedhetetlen a biztonságos hazatéréshez.",
+            "ro": "O zi de iarnă pe bicicletă în Biville oferă aer curat și orizonturi largi. Pornind de la primărie, vizitați biserica pentru a scăpa de frig. La prânz, lumina joasă creează umbre lungi în dune. Trecând pe la buncăr și belvedere, ajungeți în rezervație. Deoarece se întunecă la ora 17:00, luminile funcționale sunt vitale pentru întoarcere.",
+            "en": "A winter's day on a bike in Biville offers crisp air and far-reaching views. Start at the town hall and visit the church to shake off the morning chill. At noon, the low winter sun casts long shadows over the dunes. After the blockhouse and windy viewpoint, you'll reach the reserve. Since it gets dark by 17:00, working lights are absolutely vital for the return."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie déléguée de Biville",
+                "hu": "Mairie déléguée de Biville",
+                "ro": "Mairie déléguée de Biville",
+                "en": "Mairie déléguée de Biville"
+              },
+              "tip_5lang": {
+                "de": "Die Batterien von Fahrradlichtern und GPS entladen sich in der Kälte schneller; nehmen Sie eine Powerbank mit. Tragen Sie winddichte Handschuhe, um Ihre Finger beweglich zu halten.",
+                "hu": "A lámpák és a GPS elemei gyorsabban merülnek a hidegben, vigyen magával powerbankot. Viseljen szélálló kesztyűt, hogy ujjai mozgékonyak maradjanak a váltáshoz.",
+                "ro": "Bateriile luminilor și ale GPS-ului se descarcă mai repede la frig; luați o baterie externă. Purtați mănuși rezistente la vânt pentru a vă păstra degetele mobile.",
+                "en": "Bike light and GPS batteries drain faster in the cold; bring a power bank. Wear windproof gloves to keep your fingers nimble for braking and shifting gears."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um etwas Warmes aus Ihrer Thermoskanne zu trinken. Achten Sie beim Wiederaufsteigen auf Eisplatten, die sich im Schatten der Kirchenmauern bilden können.",
+                "hu": "Használja ki a megállót, hogy igyon valami meleget a termoszból. Újrainduláskor figyeljen a jégfoltokra, amelyek a templom falainak árnyékában könnyen kialakulnak.",
+                "ro": "Folosiți oprirea pentru a bea ceva cald din termos. La plecare, atenție la porțiunile cu gheață care se pot forma la umbra zidurilor bisericii.",
+                "en": "Take this opportunity to have a hot drink from your thermos. When restarting, watch out for patches of ice that can form in the shadow of the church walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Dunes de Biville",
+                "hu": "Dunes de Biville",
+                "ro": "Dunes de Biville",
+                "en": "Dunes de Biville"
+              },
+              "tip_5lang": {
+                "de": "Die Wege durch die Dünen können bei Frost sehr hart und uneben sein. Eine Sturmhaube unter dem Helm schützt Ihr Gesicht vor dem eisigen Fahrtwind in Küstennähe.",
+                "hu": "A dűnék közti utak fagyos időben nagyon kemények és egyenetlenek lehetnek. A sisak alá vett vékony maszk megvédi arcát a jeges menetszéltől a part közelében.",
+                "ro": "Potecile prin dune pot fi foarte dure și denivelate pe timp de îngheț. O cagulă sub cască vă va proteja fața de vântul înghețat de pe coastă.",
+                "en": "The paths through the dunes can be very hard and uneven in freezing weather. A balaclava under your helmet will protect your face from the icy wind near the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Blockhaus",
+                "hu": "Blockhaus",
+                "ro": "Blockhaus",
+                "en": "Blockhaus"
+              },
+              "tip_5lang": {
+                "de": "Der Bunker bietet einen guten Schutz vor dem schneidenden Winterwind. Nutzen Sie den Betonbau als Windschatten für einen kurzen Snack-Stopp zur Energiezufuhr.",
+                "hu": "A bunker jó védelmet nyújt a metsző téli szél ellen. Használja a betonépítményt szélárnyékként egy gyors energiaszelet elfogyasztásához a hidegben.",
+                "ro": "Buncărul oferă o protecție bună împotriva vântului tăios de iarnă. Folosiți construcția de beton ca paravan pentru o scurtă pauză de gustare necesară energiei.",
+                "en": "The bunker provides great protection against the cutting winter wind. Use the concrete structure as a windbreak for a quick snack stop to boost your energy."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère du Thot",
+                "hu": "Belvédère du Thot",
+                "ro": "Belvédère du Thot",
+                "en": "Belvédère du Thot"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft besser, aber die Kälte am Aussichtspunkt ist extrem. Halten Sie die Aufenthaltsdauer kurz, um ein Auskühlen der Muskeln zu vermeiden.",
+                "hu": "A látótávolság télen gyakran jobb, de a hideg a kilátónál extrém lehet. Tartsa röviden a pihenőt, hogy elkerülje az izmai teljes lehűlését a szélben.",
+                "ro": "Vizibilitatea este adesea mai bună iarna, dar frigul la belvedere este extrem. Nu stați mult timp pentru a evita răcirea excesivă a mușchilor în vânt.",
+                "en": "Visibility is often better in winter, but the cold at the viewpoint is extreme. Keep your stay short to prevent your muscles from cooling down too much."
+              }
+            },
+            {
+              "name": {
+                "de": "Réserve naturelle de la mare de Vauville",
+                "hu": "Réserve naturelle de la mare de Vauville",
+                "ro": "Réserve naturelle de la mare de Vauville",
+                "en": "Réserve naturelle de la mare de Vauville"
+              },
+              "tip_5lang": {
+                "de": "Im Winter lassen sich hier oft Zugvögel beobachten; ein Fernglas ist lohnenswert. Beenden Sie Ihren Besuch rechtzeitig, damit Sie vor 17:00 Uhr sicher zurückradeln.",
+                "hu": "Télen gyakran láthatók itt vándormadarak, érdemes távcsövet hozni. Fejezze be időben a látogatást, hogy még a 17:00-s sötétedés előtt biztonságban hazaérjen.",
+                "ro": "Iarna pot fi observate adesea păsări migratoare; merită să aveți un binoclu. Încheiați vizita la timp pentru a pedala înapoi în siguranță înainte de ora 17:00.",
+                "en": "In winter, migratory birds are often spotted here; a pair of binoculars is worth bringing. Finish your visit in time to cycle back safely before 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Vezessen át a város történelmi szívén, egészen az ősi Cromlechhez.\nTérjen vissza, hogy megcsodálja a pompás udvarházat és az egyedülálló, hullámzó dűnéket.\nKocsikázzon végig a festői tengerparti utakon, fel a magaslati kilátóponthoz.\nZárja autós utazását a békés vauville-i természetvédelmi területen.",
         "ro": "Conduceți prin inima istorică a orașului și până la vechiul Cromlech.\nÎntoarceți-vă pentru a admira magnificul conac și dunele unice, în continuă schimbare.\nMergeți de-a lungul drumurilor pitorești de coastă până la punctul de belvedere ridicat.\nÎncheiați-vă excursia cu mașina în rezervația naturală pașnică din Vauville.",
         "en": "Drive through the historic heart of the town and out to the ancient Cromlech.\nReturn to admire the grand manor and the unique rolling dunes.\nCruise along the scenic coastal roads up to the elevated viewpoint.\nConclude your road trip at the peaceful Vauville nature reserve."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch das regnerische Biville bietet Komfort und Schutz vor dem Wetter. Nach dem Start geht es zum Cromlech von Vasteville, wo man die Megalithen bei Schauern schnell besichtigen kann. Das Herrenhaus und die Dünen lassen sich bequem anfahren, wobei man die Aussicht oft direkt aus dem Wagen genießen kann. Der Tag endet sicher im Naturschutzgebiet, trotz nasser Fahrbahnen und Küstennebel.",
+            "hu": "Az autós túra az esős Biville-ben kényelmet és védelmet nyújt az elemekkel szemben. A kezdés után a vasteville-i cromlech megtekintése következik, ahol az esőben is gyorsan kiszállhatunk. A kúria és a dűnék kényelmesen megközelíthetők, a kilátást gyakran közvetlenül az autóból is élvezhetjük. A nap a rezervátumnál zárul, biztonságban a vizes utaktól és a ködtől.",
+            "ro": "O călătorie cu mașina prin Biville-ul ploios oferă confort și protecție împotriva vremii. După pornire, vizităm cromlech-ul din Vasteville, unde megaliții pot fi văzuți rapid între reprizele de ploaie. Conacul și dunele sunt ușor accesibile, priveliștea putând fi admirată adesea direct din vehicul. Ziua se încheie în siguranță la rezervație, în ciuda carosabilului umed.",
+            "en": "A car trip through rainy Biville offers comfort and shelter from the elements. After starting, head to the Vasteville cromlech, where you can quickly see the megaliths between showers. The manor and dunes are easily accessible by car, often allowing you to enjoy the views directly from your seat. The day ends safely at the reserve, despite wet roads and coastal mist."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie déléguée de Biville",
+                "hu": "Mairie déléguée de Biville",
+                "ro": "Mairie déléguée de Biville",
+                "en": "Mairie déléguée de Biville"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Gebäude, um im Trockenen auszusteigen. Prüfen Sie den Zustand Ihrer Scheibenwischer, da die Sicht an der Küste bei Regen schnell abnehmen kann.",
+                "hu": "Parkoljon közvetlenül az épület előtt, hogy szárazon szállhasson ki. Ellenőrizze az ablaktörlők állapotát, mert a látótávolság esőben hirtelen lecsökkenhet a parton.",
+                "ro": "Parcați chiar în fața clădirii pentru a coborî la adăpost de ploaie. Verificați starea ștergătoarelor, deoarece vizibilitatea pe coastă poate scădea rapid pe ploaie.",
+                "en": "Park directly in front of the building to disembark without getting wet. Check your windshield wipers, as visibility on the coast can drop suddenly during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromlech de Vasteville",
+                "hu": "Cromlech de Vasteville",
+                "ro": "Cromlech de Vasteville",
+                "en": "Cromlech de Vasteville"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage liegt auf freiem Feld; ein kurzer Sprint vom Auto zu den Steinen ist bei Regen nötig. Tragen Sie wasserfeste Schuhe, da das Gras rund um die Steine sehr nass sein wird.",
+                "hu": "A lelőhely nyílt terepen van, egy gyors vágta az autótól a kövekig szükséges esőben. Viseljen vízálló cipőt, mert a kövek körüli fű ilyenkor nagyon tocsogós.",
+                "ro": "Situl este în câmp deschis; un scurt sprint de la mașină la pietre este necesar pe ploaie. Purtați pantofi impermeabili, deoarece iarba din jurul pietrelor va fi foarte udă.",
+                "en": "The site is in an open field; a quick dash from the car to the stones is necessary when it rains. Wear waterproof shoes, as the grass around the stones will be very wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Grand'Cour",
+                "hu": "Manoir de la Grand'Cour",
+                "ro": "Manoir de la Grand'Cour",
+                "en": "Manoir de la Grand'Cour"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen Pfützen bilden; achten Sie beim Aussteigen auf den Untergrund. Bewundern Sie das Herrenhaus im Schutze Ihres Schirms vom Tor aus.",
+                "hu": "A parkolóban nagy tócsák alakulhatnak ki esőben, figyeljen kiszálláskor a lába elé. Csodálja meg a kúria épületét az esernyője védelmében a kerítés mellől.",
+                "ro": "Parcarea poate avea bălți mari la ploaie torențială; atenție la sol când coborâți. Admirați clădirea conacului de la poartă, sub protecția umbrelei dumneavoastră.",
+                "en": "The parking area can have large puddles during heavy rain; watch your step when exiting. Admire the manor house from the gate under the protection of your umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Dunes de Biville",
+                "hu": "Dunes de Biville",
+                "ro": "Dunes de Biville",
+                "en": "Dunes de Biville"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz an den Dünen hat man auch im Auto eine gute Sicht, falls der Regen zu stark ist. Legen Sie Gummimatten in den Fußraum, um den nassen Sand nicht im Auto zu verteilen.",
+                "hu": "A dűnék melletti parkolóból akkor is jó a kilátás, ha az eső túl erős a kiszálláshoz. Használjon gumi lábtörlőt az autóban, hogy ne hordja szét a vizes homokot az utastérben.",
+                "ro": "Din parcarea de lângă dune aveți o vedere bună chiar și din mașină dacă plouă prea tare. Folosiți covorașe de cauciuc pentru a nu împrăștia nisipul ud în interior.",
+                "en": "The parking lot near the dunes offers good views even from inside the car if the rain is too heavy. Use rubber floor mats to avoid spreading wet sand throughout the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère du Thot",
+                "hu": "Belvédère du Thot",
+                "ro": "Belvédère du Thot",
+                "en": "Belvédère du Thot"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie direkt auf das Meer blicken können; der Wind ist hier oben im Regen sehr rau. Ein schnelles Foto aus dem Fenster reicht oft aus, um die Stimmung einzufangen.",
+                "hu": "Parkoljon úgy, hogy közvetlenül a tengerre lásson, mert a szél itt nagyon zord az esőben. Egy gyors fotó az ablakból gyakran elég a drámai hangulat megörökítéséhez.",
+                "ro": "Parcați astfel încât să priviți direct spre mare; vântul este foarte tăios aici pe ploaie. O fotografie rapidă de pe fereastră este adesea suficientă pentru a surprinde atmosfera.",
+                "en": "Park so you can look directly at the sea, as the wind is very harsh up here in the rain. A quick photo from the window is often enough to capture the dramatic mood."
+              }
+            },
+            {
+              "name": {
+                "de": "Réserve naturelle de la mare de Vauville",
+                "hu": "Réserve naturelle de la mare de Vauville",
+                "ro": "Réserve naturelle de la mare de Vauville",
+                "en": "Réserve naturelle de la mare de Vauville"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei Regen schmal und rutschig sein; fahren Sie besonders vorsichtig. Ein Fernglas im Auto ermöglicht die Vogelbeobachtung, ohne nass zu werden.",
+                "hu": "A rezervátumhoz vezető út esőben szűk és csúszós lehet, vezessen fokozott óvatossággal. Egy távcsővel az autóból is megfigyelheti a madarakat anélkül, hogy megázna.",
+                "ro": "Drumul de acces poate fi îngust și alunecos pe ploaie; conduceți cu prudență sporită. Un binoclu în mașină vă permite să observați păsările fără a vă uda.",
+                "en": "The access road can be narrow and slippery in the rain; drive with extra caution. Binoculars kept in the car allow for birdwatching without getting soaked outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Biville zeigt die Küste in klarem, frostigem Licht. Nach dem Besuch der Megalithen wärmt man sich im Auto auf dem Weg zum Herrenhaus wieder auf. Die Dünen und der Aussichtspunkt bieten im tiefstehenden Sonnenlicht spektakuläre Fotomotive. Da es um 17:00 Uhr dunkel wird, genießt man den Abschluss im Naturschutzgebiet bei Sonnenuntergang und fährt dann im Warmen zurück.",
+            "hu": "A téli autós túra Biville-ben tiszta, fagyos fényekben mutatja meg a partvidéket. A megalitok megtekintése után az autóban melegedhetünk fel a kúria felé vezető úton. A dűnék és a kilátó a lapos napfényben látványos fotótémákat kínálnak. Mivel 17:00-kor sötétedik, a rezervátumnál élvezzük a naplementét, majd a fűtött utastérben indulunk haza.",
+            "ro": "O plimbare de iarnă cu mașina prin Biville dezvăluie coasta în lumină clară și rece. După vizitarea megaliților, vă puteți încălzi în mașină spre conacul istoric. Dunele și punctul de belvedere oferă oportunități foto spectaculoase în lumina joasă a soarelui. Deoarece se întunecă la 17:00, savurați apusul la rezervație și apoi întoarceți-vă la căldură.",
+            "en": "A winter drive through Biville showcases the coast in clear, frosty light. After visiting the megaliths, warm up in the car on the way to the historic manor. The dunes and viewpoint offer spectacular photo opportunities in the low-lying sunlight. As it gets dark by 17:00, enjoy the sunset at the reserve and then head home in the warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie déléguée de Biville",
+                "hu": "Mairie déléguée de Biville",
+                "ro": "Mairie déléguée de Biville",
+                "en": "Mairie déléguée de Biville"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, aber nutzen Sie die Sitzheizung für einen komfortablen Start. Achten Sie auf mögliche Glätte auf dem Rathausplatz am frühen Morgen.",
+                "hu": "Ne járassa feleslegesen a motort, de használja az ülésfűtést a komfortos kezdéshez. Figyeljen az esetleges jegesedésre a városháza előtti téren a kora reggeli órákban.",
+                "ro": "Nu lăsați motorul pornit inutil, dar folosiți încălzirea în scaune pentru un start confortabil. Atenție la posibila polei în piața primăriei dimineața devreme.",
+                "en": "Don't idle the engine unnecessarily, but do use the seat heaters for a comfortable start. Watch out for potential black ice in the town hall square early in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromlech de Vasteville",
+                "hu": "Cromlech de Vasteville",
+                "ro": "Cromlech de Vasteville",
+                "en": "Cromlech de Vasteville"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um die Megalithen kann gefroren sein; tragen Sie Schuhe mit gutem Profil. Das weiche Winterlicht lässt die alten Steine besonders eindrucksvoll und mystisch wirken.",
+                "hu": "A megalitok körüli talaj fagyos lehet, viseljen jó tapadású talppal rendelkező cipőt. A lágy téli fények az ősi köveket különösen hatásossá és misztikussá teszik.",
+                "ro": "Solul din jurul megaliților poate fi înghețat; purtați pantofi cu talpă aderentă. Lumina blândă de iarnă face ca pietrele vechi să pară deosebit de impresionante și mistice.",
+                "en": "The ground around the megaliths may be frozen; wear shoes with good tread. The soft winter light makes the ancient stones look particularly impressive and mystical."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Grand'Cour",
+                "hu": "Manoir de la Grand'Cour",
+                "ro": "Manoir de la Grand'Cour",
+                "en": "Manoir de la Grand'Cour"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Weiterfahrt den Frostschutz in Ihrer Scheibenwaschanlage. Die Architektur des Herrenhauses wirkt im klaren Winterhimmel besonders scharf und fotogen.",
+                "hu": "A továbbindulás előtt ellenőrizze a fagyállót a szélvédőmosóban. A kúria építészete a tiszta téli égbolt alatt különösen éles kontúrokkal és fotogén módon jelenik meg.",
+                "ro": "Verificați antigelul din lichidul de parbriz înainte de a pleca mai departe. Arhitectura conacului arată deosebit de clară și fotogenă sub cerul senin de iarnă.",
+                "en": "Check the antifreeze levels in your windshield washer fluid before continuing. The manor's architecture looks particularly sharp and photogenic against a clear winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Dunes de Biville",
+                "hu": "Dunes de Biville",
+                "ro": "Dunes de Biville",
+                "en": "Dunes de Biville"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie rückwärts ein, um beim Losfahren eine freie Sicht zu haben, falls die Scheiben beschlagen. Ein kurzer Spaziergang im Sand regt den Kreislauf in der Kälte an.",
+                "hu": "Parkoljon tolatva, hogy induláskor tiszta kilátása legyen, ha az ablakok bepárásodnának. Egy rövid séta a homokban felpezsdíti a vérkeringést a nagy hidegben.",
+                "ro": "Parcați cu spatele pentru a avea vizibilitate bună la plecare dacă se aburesc geamurile. O scurtă plimbare prin nisip stimulează circulația în frigul de afară.",
+                "en": "Park in reverse to ensure clear visibility when leaving if the windows fog up. A short brisk walk in the sand will help stimulate your circulation in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère du Thot",
+                "hu": "Belvédère du Thot",
+                "ro": "Belvédère du Thot",
+                "en": "Belvédère du Thot"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei Frost gefährlich sein; fahren Sie langsam in den Kurven. Genießen Sie den Panoramablick aus dem beheizten Auto, um sich vor dem Wind zu schützen.",
+                "hu": "A tengerparti út fagyban veszélyes lehet, lassan haladjon a kanyarokban. Élvezze a panorámát a fűtött autóból, hogy megvédje magát a metsző parti széltől.",
+                "ro": "Drumul de coastă poate fi periculos pe timp de îngheț; conduceți încet în curbe. Bucurați-vă de panoramă din mașina încălzită pentru a vă proteja de vântul tăios.",
+                "en": "The coastal road can be hazardous in freezing conditions; take corners slowly. Enjoy the panoramic view from your heated car to shield yourself from the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Réserve naturelle de la mare de Vauville",
+                "hu": "Réserve naturelle de la mare de Vauville",
+                "ro": "Réserve naturelle de la mare de Vauville",
+                "en": "Réserve naturelle de la mare de Vauville"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückkehr vor 17:00 Uhr, da unbeleuchtete Landstraßen im Winter riskant sind. Eine Decke im Auto sorgt für Gemütlichkeit während der Wartezeit auf Vögel.",
+                "hu": "Tervezze meg a visszautat 17:00 előtt, mert a kivilágítatlan utak télen kockázatosak. Egy takaró az autóban fokozza a kényelmet, amíg a madarakra vár a rezervátumban.",
+                "ro": "Plănuiți întoarcerea înainte de ora 17:00, deoarece drumurile neluminate sunt riscante iarna. O pătură în mașină oferă confort în timp ce așteptați să vedeți păsările.",
+                "en": "Plan your return before 17:00, as unlit country roads can be risky in winter. Keep a blanket in the car for extra coziness while waiting for birds in the reserve."
+              }
+            }
+          ]
+        }
       }
     }
   }

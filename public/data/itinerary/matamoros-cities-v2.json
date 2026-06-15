@@ -160,6 +160,196 @@
         "hu": "Délelőtt: Kezdje a napot a történelmi Museo Casamatában, hogy megértse Matamoros katonai múltját. Sétáljon a falak között, majd merüljön el a Galería Gallardo kortárs regionális művészeti kiállításaiban.\nDél: A Teatro de la Reforma építészete lenyűgöző látványt nyújt. Szánjon időt a homlokzat és a központi terek hangulatának élvezetére, mielőtt mélyebbre ásna a város gazdag kulturális örökségében.\nDélután: Rövid séta vezet a Museo IRBAM és a Museo del ferrocarril épületeihez. Itt a finom képzőművészetet és a régió ipari fejlődését is felfedezheti a szépen megőrzött vasúti emlékeken keresztül.\nEste: A nap a lenyűgöző Puente Internacionalnál ér véget. Figyelje a nyüzsgő határforgalmat az alkonyati fényekben, és tapasztalja meg a két ország közötti egyedülálló, dinamikus kapcsolatot.",
         "ro": "Dimineața: Începeți ziua la istoricul Museo Casamata pentru a înțelege trecutul militar al orașului Matamoros. Plimbați-vă prin incintă și apoi cufundați-vă în expozițiile de artă locală de la Galería Gallardo.\nPrânz: Arhitectura Teatrului de la Reforma este o priveliște impresionantă. Făceți-vă timp pentru a vă bucura de fațadă și de atmosfera piețelor centrale înainte de a explora patrimoniul cultural bogat.\nDupă-amiaza: O scurtă plimbare vă duce la Museo IRBAM și Museo del ferrocarril. Aici veți descoperi artele plastice rafinate și dezvoltarea industrială care a modelat întreaga regiune de frontieră.\nSeara: Ziua se încheie la impresionantul Puente Internacional. Observați agitația de la graniță în lumina serii și reflectați asupra dinamicii binare unice care definește acest spațiu vibrant.",
         "en": "Morning: Start the day at the historic Museo Casamata to understand the military past of Matamoros. Stroll through the grounds and then immerse yourself in local art exhibitions at Galería Gallardo.\nMidday: The architecture of the Teatro de la Reforma is an impressive sight. Take time to enjoy the facade and the atmosphere of the central plazas before exploring more of the city's rich heritage.\nAfternoon: A short walk takes you to Museo IRBAM and the Museo del ferrocarril. Here you will discover fine arts and the industrial development that has shaped the entire border region over the years.\nEvening: The day ends at the impressive Puente Internacional. Observe the bustling border traffic in the fading daylight and reflect on the unique binational dynamic that defines this vibrant area."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in den dicken Mauern der Casamata, sicher vor dem Regen. Mittags bieten Galerie und Theater trockene kulturelle Zufluchtsorte. Den Nachmittag verbringen wir im Museumsviertel, während Regentropfen auf die Dächer trommeln. Der Abend endet mit einem stimmungsvollen Blick auf die Brückenlichter unter dem Regenschirm.",
+            "hu": "Reggel a Casamata hűvös falai között kezdünk, elkerülve az égi áldást. Délben a galéria és a színház kínál fedezéket. Délután a múzeumok negyedében kalandozunk, ahol a vasút története elevenedik meg a kopogó esőben. Este a nemzetközi híd fényeit csodáljuk meg az ernyőnk alól a párás levegőben.",
+            "ro": "Dimineața începe între zidurile groase de la Casamata, feriți de ploaie. La prânz, galeria și teatrul oferă refugii culturale uscate. După-amiaza explorăm istoria feroviară în cartierul muzeelor, în timp ce ploaia bate în geamuri. Seara se încheie cu o vedere atmosferică asupra luminilor podului de sub umbrelă.",
+            "en": "Morning starts inside the thick walls of Casamata, safe from the rain. At noon, the gallery and theater provide dry cultural havens. Afternoon is spent exploring the museum district's rail history as raindrops drum on roofs. Evening concludes with a misty, atmospheric view of the international bridge lights under an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Casamata",
+                "hu": "Museo Casamata",
+                "ro": "Museo Casamata",
+                "en": "Museo Casamata"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungen im Inneren der Festung, die einen trockenen Zufluchtsort bieten; tragen Sie wasserfeste Schuhe für die kurzen Wege zwischen den Gebäuden.",
+                "hu": "Fedezze fel az erőd belső kiállításait, amelyek száraz menedéket nyújtanak az eső elől; érdemes vízálló cipőben érkezni a múzeumi épületek közötti rövid sétákhoz.",
+                "ro": "Explorați expozițiile din interiorul cetății care oferă un refugiu uscat; purtați încălțăminte impermeabilă pentru scurte plimbări între clădirile muzeului.",
+                "en": "Explore the fortress interior exhibits which provide a dry sanctuary from the rain; wear waterproof shoes for the short walks between the museum buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Galería Gallardo",
+                "hu": "Galería Gallardo",
+                "ro": "Galería Gallardo",
+                "en": "Galería Gallardo"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie ist der perfekte Ort, um den Regenschauer zu überdauern und lokale Kunst zu bewundern; prüfen Sie die Dachvorsprünge am Eingang für einen trockenen Zutritt.",
+                "hu": "A galéria tökéletes hely a zápor átvészelésére és a helyi művészet csodálatára; keresse az épület bejárata feletti ereszt a száraz bejutás érdekében.",
+                "ro": "Galeria este locul perfect pentru a aștepta trecerea ploii și a admira arta locală; verificați streașina de la intrare pentru un acces cât mai uscat în clădire.",
+                "en": "The gallery is the perfect spot to wait out the rain while admiring local art; check for the building's overhangs at the entrance for a dry arrival."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro de la Reforma",
+                "hu": "Teatro de la Reforma",
+                "ro": "Teatro de la Reforma",
+                "en": "Teatro de la Reforma"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die prachtvolle Innenarchitektur des Theaters fernab der nassen Straßen; nutzen Sie die Garderobe, um nasse Mäntel vor der Besichtigung abzugeben.",
+                "hu": "Élvezze a színház pompás belső építészetét távol a vizes utcáktól; használja a ruhatárat a vizes kabátok leadására a belső terek megtekintése előtt.",
+                "ro": "Bucurați-vă de arhitectura interioară splendidă a teatrului, departe de străzile ude; folosiți garderoba pentru a lăsa hainele ude înainte de vizitarea interiorului.",
+                "en": "Enjoy the theater's splendid interior architecture far from the wet streets; use the cloakroom to leave wet coats before touring the indoor halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo IRBAM",
+                "hu": "Museo IRBAM",
+                "ro": "Museo IRBAM",
+                "en": "Museo IRBAM"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum bietet hervorragenden Schutz vor dem Wetter, während Sie Exponate studieren; achten Sie auf rutschige Böden in der Nähe der Eingangsbereiche.",
+                "hu": "Ez a múzeum kiváló védelmet nyújt az időjárás ellen a kiállítások tanulmányozása közben; ügyeljen a csúszós padlóra a bejárati részek közelében a beázások miatt.",
+                "ro": "Acest muzeu oferă o protecție excelentă împotriva vremii în timp ce studiați exponatele; atenție la podelele alunecoase din apropierea zonelor de intrare.",
+                "en": "This museum provides excellent shelter from the weather while you study the exhibits; watch for slippery floors near the entrance areas due to rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del ferrocarril",
+                "hu": "Museo del ferrocarril",
+                "ro": "Museo del ferrocarril",
+                "en": "Museo del ferrocarril"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die alten Waggons unter den Bahnsteigdächern, die Sie trocken halten; bringen Sie eine Taschenlampe mit, um dunkle Ecken bei bewölktem Licht zu sehen.",
+                "hu": "Csodálja meg a régi vagonokat a perontetők alatt, amelyek szárazon tartják; vigyen magával egy kis lámpát a sötétebb sarkokhoz a felhős idő miatti gyenge fényben.",
+                "ro": "Admirați vagoanele vechi sub acoperișurile peroanelor care vă țin uscat; aduceți o lanternă mică pentru colțurile întunecate din cauza luminii slabe de afară.",
+                "en": "Admire the old railway cars under the platform roofs that keep you dry; bring a small light for dark corners in the dim natural light of a cloudy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Internacional Brownsville-Matamoros",
+                "hu": "Puente Internacional Brownsville-Matamoros",
+                "ro": "Puente Internacional Brownsville-Matamoros",
+                "en": "Puente Internacional Brownsville-Matamoros"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht der Brücke bei Nacht einen besonderen Glanz, aber der Wind ist stark; halten Sie Ihren Regenschirm gut fest oder nutzen Sie eine Regenjacke.",
+                "hu": "Az eső éjszaka különleges csillogást ad a hídnak, de a szél erős lehet; fogja szorosan az esernyőjét vagy használjon inkább kapucnis esőkabátot.",
+                "ro": "Ploaia oferă o strălucire deosebită podului pe timp de noapte, dar vântul este puternic; țineți umbrela strâns sau folosiți o pelerină de ploaie cu glugă.",
+                "en": "The rain adds a special shimmer to the bridge at night, but winds can be strong; hold your umbrella firmly or use a hooded raincoat for better protection."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die dicken Mauern der Casamata schützen uns vor dem kalten Morgenwind. Mittags wärmen wir uns in den Galerien und im Theater auf. Der Nachmittag gehört der Eisenbahngeschichte, bevor die Sonne gegen 17:00 Uhr untergeht. Den Abend verbringen wir an der Brücke und beobachten die Grenzlichter in der Dämmerung.",
+            "hu": "A Casamata vastag falai reggel megvédenek a hideg széltől. Délben a beltéri galériákban és a színházban melegszünk fel. Délután a vasúti múzeum gőzmozdonyai között sétálunk, mielőtt 17:00 körül lemegy a nap. Este a hídon búcsúzunk a várostól, ahol a téli szürkületben gyúlnak ki a határ fényei.",
+            "ro": "Zidurile groase de la Casamata ne protejează de vântul rece de dimineață. La prânz, ne încălzim în galeriile interioare și la teatru. După-amiaza explorăm muzeul căilor ferate înainte ca soarele să apună în jur de ora 17:00. Seara ne găsește la pod, privind luminile frontierei aprinzându-se în amurg.",
+            "en": "Casamata's thick walls shield us from the cold morning wind. At noon, we warm up in the indoor galleries and the theater. Afternoon is for the railway museum's history before the sun sets early at 17:00. Evening finds us at the bridge, watching border lights flicker on in the winter dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Casamata",
+                "hu": "Museo Casamata",
+                "ro": "Museo Casamata",
+                "en": "Museo Casamata"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Winterkälte draußen, sodass die Innenbesichtigung sehr angenehm ist; tragen Sie dennoch eine leichte Mütze gegen den Zugwind.",
+                "hu": "A masszív falak kint tartják a téli hideget, így a belső látogatás nagyon kellemes; viseljen vékony sapkát a folyosókon tapasztalható huzat ellen.",
+                "ro": "Zidurile masive țin frigul de iarnă afară, făcând vizita în interior foarte plăcută; purtați totuși o căciulă subțire împotriva curentului din holuri.",
+                "en": "The massive walls keep the winter chill outside, making the indoor visit very pleasant; wear a thin hat against the drafts often felt in the corridors."
+              }
+            },
+            {
+              "name": {
+                "de": "Galería Gallardo",
+                "hu": "Galería Gallardo",
+                "ro": "Galería Gallardo",
+                "en": "Galería Gallardo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den hellen Vormittag für die Galerie, bevor das Licht schwächer wird; die warme Innenbeleuchtung schafft eine gemütliche Atmosphäre für Kunst.",
+                "hu": "Használja ki a világos délelőttöt a galériában, mielőtt gyengülne a fény; a meleg belső világítás barátságos hangulatot áraszt a műalkotások megtekintéséhez.",
+                "ro": "Profitați de dimineața luminoasă la galerie înainte ca lumina să scadă; iluminatul cald de interior creează o atmosferă primitoare pentru artă.",
+                "en": "Take advantage of the bright morning at the gallery before the light fades; the warm indoor lighting creates a cozy atmosphere for viewing the artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro de la Reforma",
+                "hu": "Teatro de la Reforma",
+                "ro": "Teatro de la Reforma",
+                "en": "Teatro de la Reforma"
+              },
+              "tip_5lang": {
+                "de": "Das Theater bietet eine hervorragende Zuflucht vor der kühlen Mittagsluft; bewundern Sie die vergoldeten Details, die im warmen Kunstlicht besonders glänzen.",
+                "hu": "A színház kiváló menedéket nyújt a hűvös déli levegő elől; csodálja meg az aranyozott részleteket, amelyek a meleg műfényben különösen szépen ragyognak.",
+                "ro": "Teatrul oferă un refugiu excelent împotriva aerului răcoros de la prânz; admirați detaliile aurite care strălucesc frumos în lumina artificială caldă.",
+                "en": "The theater provides an excellent sanctuary from the cool midday air; admire the gilded details which shine beautifully in the warm artificial light."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo IRBAM",
+                "hu": "Museo IRBAM",
+                "ro": "Museo IRBAM",
+                "en": "Museo IRBAM"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die kältesten Stunden des Nachmittags in den gut beheizten Ausstellungsräumen; ein warmer Schal ist ideal für den Weg zum nächsten Stopp.",
+                "hu": "Töltse itt a délután leghidegebb óráit a jól fűtött kiállítótermekben; egy meleg sál ideális lesz a következő megállóhoz vezető rövid sétához.",
+                "ro": "Petreceți aici cele mai reci ore ale după-amiezii în sălile bine încălzite; un fular călduros este ideal pentru drumul scurt către următoarea oprire.",
+                "en": "Spend the coldest hours of the afternoon here in the well-heated exhibition halls; a warm scarf is ideal for the short walk to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del ferrocarril",
+                "hu": "Museo del ferrocarril",
+                "ro": "Museo del ferrocarril",
+                "en": "Museo del ferrocarril"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die alten Gleise, was ideal für Fotos ist; beenden Sie den Besuch, bevor die Dämmerung einsetzt.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a régi sínekre, ami ideális fotózáshoz; fejezze be a látogatást, mielőtt beállna a korai szürkület.",
+                "ro": "Soarele de iarnă aflat jos aruncă umbre lungi pe șinele vechi, fiind ideal pentru fotografii; încheiați vizita înainte de lăsarea amurgului timpuriu.",
+                "en": "The low winter sun casts long shadows on the old tracks, ideal for photography; finish your visit before the early dusk starts to settle in."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Internacional Brownsville-Matamoros",
+                "hu": "Puente Internacional Brownsville-Matamoros",
+                "ro": "Puente Internacional Brownsville-Matamoros",
+                "en": "Puente Internacional Brownsville-Matamoros"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Lichter bei Sonnenuntergang gegen 17:00 Uhr; ziehen Sie sich warm an, da der Wind über dem Fluss im Winter sehr schneidend sein kann.",
+                "hu": "Csodálja meg a fényeket a korai, 17:00 körüli naplementében; öltözzön melegen, mert a folyó felett fújó téli szél estére metszővé válhat.",
+                "ro": "Admirați luminile la apusul timpuriu de la ora 17:00; îmbrăcați-vă gros, deoarece vântul de peste râu poate deveni tăios odată cu lăsarea serii.",
+                "en": "Admire the lights during the early sunset around 17:00; dress warmly as the winter wind over the river can become biting by the evening."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Délelőtt: Kerékpártúrája a történelmi C. Benito Juarez negyedben kezdődik. Élvezze a csendes reggeli levegőt és csodálja meg a hagyományos építészetet, mielőtt továbbteker az El Chapoteadero felé.\nDél: Az El Chapoteadero vizeinél nagyszerűen lehűtheti magát. Ezután tekerjen a Museo Casamatához, ahol a régió lenyűgöző katonai múltját és megőrzött építészeti emlékeit fedezheti fel.\nDélután: Haladjon tovább a fenséges Teatro de la Reforma és a Museo del ferrocarril felé. A távolságok rövidek, a történelmi terek pedig kiváló fotótémákat és kellemes pihenőhelyeket kínálnak.\nEste: Fejezze be a túrát a Puente Internacional közelében. Az esti hangulat lágy fénybe burkolja a határokon átnyúló infrastruktúrát, amely tökéletes egy pihentető, elgondolkodtató napzáráshoz.",
         "ro": "Dimineața: Turul cu bicicleta începe în cartierul istoric C. Benito Juarez. Bucurați-vă de aerul liniștit al dimineții și admirați arhitectura tradițională înainte de a pedala spre El Chapoteadero.\nPrânz: La apele de la El Chapoteadero vă puteți răcori minunat. Apoi pedalați spre Museo Casamata, unde explorați artefactele militare impresionante și istoria fascinantă a regiunii de frontieră.\nDupă-amiaza: Continuați spre maiestuosul Teatro de la Reforma și Museo del ferrocarril. Distanțele sunt scurte, iar piețele istorice oferă oportunități excelente pentru fotografii și momente de respiro.\nSeara: Încheiați turul în apropierea Puente Internacional. Atmosfera de seară scaldă infrastructura transfrontalieră într-o lumină blândă, ideală pentru o încheiere relaxantă a unei zile active.",
         "en": "Morning: Your bike tour begins in the historic C. Benito Juarez neighborhood. Enjoy the quiet morning air and admire the traditional architecture before pedaling onward to El Chapoteadero.\nMidday: The waters at El Chapoteadero offer a wonderful chance to cool down. Afterward, cycle to the Museo Casamata, where you will explore the impressive military artifacts and history of the region.\nAfternoon: Continue to the majestic Teatro de la Reforma and the Museo del ferrocarril. The distances are short, and the historic plazas offer excellent photo opportunities and pleasant resting spots.\nEvening: Conclude the tour near the Puente Internacional. The evening atmosphere bathes the cross-border infrastructure in a soft light, providing an ideal and relaxing end to an active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt auf nassen Straßen, wo Vorsicht beim Bremsen geboten ist. Mittags suchen wir Schutz in der Casamata, während der Regen auf die Festung trommelt. Nachmittags erkunden wir die Museen per Rad, wobei die Wege durch Pfützen führen. Der Abend endet an der Brücke, wo sich die Lichter im nassen Asphalt spiegeln.",
+            "hu": "A nap vizes utakon kezdődik, ahol óvatos fékezésre van szükség a csúszós aszfalton. Délben a Casamata vastag falaiban keresünk menedéket a zápor elől. Délután kerékpárral járjuk be a múzeumokat, tócsákat kerülgetve az utakon. Az este a hídnál ér véget, ahol a fények megcsillannak a vizes aszfalton.",
+            "ro": "Ziua începe pe străzi ude, unde este necesară prudență la frânare pe asfaltul alunecos. La prânz căutăm adăpost între zidurile de la Casamata în timp ce plouă. După-amiaza explorăm muzeele cu bicicleta, evitând bălțile de pe drum. Seara se încheie la pod, unde luminile se reflectă în asfaltul ud.",
+            "en": "The day begins on wet streets requiring cautious braking on slippery asphalt. At noon, we seek shelter within Casamata's thick walls while the rain falls. Afternoon involves cycling between museums, dodging puddles along the way. Evening ends at the bridge, where lights reflect beautifully on the wet road surface."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "C. Benito Juarez",
+                "hu": "C. Benito Juarez",
+                "ro": "C. Benito Juarez",
+                "en": "C. Benito Juarez"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das Kopfsteinpflaster, das bei Regen extrem rutschig wird; fahren Sie langsam und nutzen Sie Beleuchtung für bessere Sichtbarkeit im Grau.",
+                "hu": "Ügyeljen a macskaköves szakaszokra, amelyek esőben rendkívül csúszóssá válnak; hajtson lassan és használjon világítást a jobb láthatóság érdekében a szürkületben.",
+                "ro": "Atenție la porțiunile cu piatră cubică, care devin extrem de alunecoase pe ploaie; mergeți încet și folosiți luminile pentru o vizibilitate mai bună în griul zilei.",
+                "en": "Watch out for cobblestone sections which become extremely slippery when wet; ride slowly and use lights for better visibility in the overcast weather."
+              }
+            },
+            {
+              "name": {
+                "de": "El Chapoteadero",
+                "hu": "El Chapoteadero",
+                "ro": "El Chapoteadero",
+                "en": "El Chapoteadero"
+              },
+              "tip_5lang": {
+                "de": "Die Wege im Park können schlammig sein; ein Schutzblech an Ihrem Fahrrad ist hier unerlässlich, um Ihre Kleidung vor aufspritzendem Wasser zu schützen.",
+                "hu": "A park ösvényei sárosak lehetnek az esőzés miatt; a sárvédő használata itt elengedhetetlen, hogy megvédje ruházatát a felverődő víztől és sártól.",
+                "ro": "Potecile din parc pot fi noroioase din cauza ploii; utilizarea unei apărători este esențială aici pentru a vă proteja hainele de apă și noroi.",
+                "en": "The park paths can be muddy due to the rainfall; using mudguards is essential here to protect your clothing from splashing water and dirt."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casamata",
+                "hu": "Museo Casamata",
+                "ro": "Museo Casamata",
+                "en": "Museo Casamata"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihr Fahrrad kurz abzustellen; die dicken Mauern bieten einen idealen Ort, um sich kurz abzutrocknen.",
+                "hu": "Használja a fedett bejárati részeket a kerékpár rövid leállításához; a vastag falak ideális helyet biztosítanak, hogy egy kicsit megszáradjon a kiállítás előtt.",
+                "ro": "Folosiți zonele de intrare acoperite pentru a parca scurt bicicleta; zidurile groase oferă un loc ideal pentru a vă usca puțin înainte de vizită.",
+                "en": "Use the covered entrance areas to briefly park your bike; the thick walls provide an ideal place to dry off a bit before exploring the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro de la Reforma",
+                "hu": "Teatro de la Reforma",
+                "ro": "Teatro de la Reforma",
+                "en": "Teatro de la Reforma"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der Nähe des Haupteingangs, um den Weg im Regen zu minimieren; im Inneren erwartet Sie eine warme und trockene Pracht.",
+                "hu": "Keressen parkolót a főbejárat közelében, hogy minimalizálja az esőben megtett utat; odabent meleg és száraz pompa várja a kulturális pihenőhöz.",
+                "ro": "Căutați un loc de parcare aproape de intrarea principală pentru a minimiza drumul prin ploaie; în interior vă așteaptă o splendoare caldă și uscată.",
+                "en": "Look for a parking spot near the main entrance to minimize the distance walked in the rain; inside, warm and dry splendor awaits for a cultural break."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del ferrocarril",
+                "hu": "Museo del ferrocarril",
+                "ro": "Museo del ferrocarril",
+                "en": "Museo del ferrocarril"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über die nassen Gleisreste in der Umgebung; die überdachten Bahnsteige bieten Schutz für eine entspannte Pause ohne nass zu werden.",
+                "hu": "Hajtson óvatosan a környéken található vizes sínmaradványokon; a fedett peronok kiváló védelmet nyújtanak egy pihenőhöz anélkül, hogy tovább ázna.",
+                "ro": "Mergeți cu atenție peste resturile de șine ude din zonă; peroanele acoperite oferă o protecție excelentă pentru o pauză fără a vă uda mai tare.",
+                "en": "Ride carefully over wet track remains in the area; the covered platforms offer great shelter for a rest without getting further soaked by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Internacional Brownsville-Matamoros",
+                "hu": "Puente Internacional Brownsville-Matamoros",
+                "ro": "Puente Internacional Brownsville-Matamoros",
+                "en": "Puente Internacional Brownsville-Matamoros"
+              },
+              "tip_5lang": {
+                "de": "Die Brückenauffahrt kann bei Wind und Regen anstrengend sein; tragen Sie eine gute Regenjacke und achten Sie auf den Verkehr bei schlechter Sicht.",
+                "hu": "A hídhoz vezető emelkedő megterhelő lehet szélben és esőben; viseljen jó esőkabátot és figyeljen a forgalomra a korlátozott látási viszonyok között.",
+                "ro": "Urcarea spre pod poate fi solicitantă în vânt și ploaie; purtați o pelerină bună și fiți atenți la trafic în condiții de vizibilitate redusă.",
+                "en": "The climb towards the bridge can be challenging in wind and rain; wear a good raincoat and stay alert to traffic in limited visibility conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgenwind weht durch die historischen Gassen. Mittags suchen wir die Wärme der Museen auf, während wir zügig in die Pedale treten. Die Wintersonne steht tief und lässt den Nachmittag kurz erscheinen, mit einem frühen Sonnenuntergang um 17:00 Uhr. Den Tag beenden wir gut eingepackt an der Grenze.",
+            "hu": "A fagyos reggeli szél átfúj a történelmi utcákon, így gyorsabb tekerésre késztet. Délben a múzeumok melegében keresünk enyhülést a hideg ellen. A téli nap alacsonyan jár, a délután pedig rövid, hiszen 17:00-kor már sötétedik. A napot jól felöltözve zárjuk a határ menti hídnál.",
+            "ro": "Vântul înghețat de dimineață suflă pe străzile istorice, îndemnându-ne la un pedalat mai rapid. La prânz căutăm căldura muzeelor pentru a ne dezmorți. Soarele de iarnă e jos, iar după-amiaza e scurtă, întunecându-se deja la ora 17:00. Încheiem ziua bine înfofoliți la podul de la frontieră.",
+            "en": "The frosty morning wind blows through the historical streets, encouraging faster cycling. At noon, we seek warmth in the museums to thaw out. The winter sun is low and the afternoon brief, with darkness falling by 17:00. We end the day well-wrapped against the cold at the border bridge."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "C. Benito Juarez",
+                "hu": "C. Benito Juarez",
+                "ro": "C. Benito Juarez",
+                "en": "C. Benito Juarez"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind die Hände am Lenker schnell auskühlt; die historische Kulisse ist im klaren Winterlicht besonders scharf.",
+                "hu": "Viseljen szélálló kesztyűt, mert a menetszél hamar lehűti a kezeit a kormányon; a történelmi környezet a tiszta téli fényben különösen éles kontúrokat kap.",
+                "ro": "Purtați mănuși rezistente la vânt, deoarece curentul răcește rapid mâinile pe ghidon; cadrul istoric are contururi foarte clare în lumina curată de iarnă.",
+                "en": "Wear windproof gloves as the wind chill quickly cools your hands on the handlebars; the historical setting is particularly sharp in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "El Chapoteadero",
+                "hu": "El Chapoteadero",
+                "ro": "El Chapoteadero",
+                "en": "El Chapoteadero"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Winter ruhig und leer; nutzen Sie die Bewegung, um Ihren Körper warm zu halten, bevor Sie zur nächsten Innenbesichtigung fahren.",
+                "hu": "A park télen csendes és üres; használja ki a mozgást, hogy melegen tartsa testét, mielőtt továbbindulna a következő beltéri múzeumi látogatásra.",
+                "ro": "Parcul este liniștit și pustiu iarna; profitați de mișcare pentru a vă menține corpul cald înainte de a pleca spre următoarea vizită în interior.",
+                "en": "The park is quiet and empty in winter; use the physical exertion to keep your body warm before heading to the next indoor museum visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casamata",
+                "hu": "Museo Casamata",
+                "ro": "Museo Casamata",
+                "en": "Museo Casamata"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Festungsmauern bieten einen hervorragenden Schutz vor dem kalten Winterwind; genießen Sie die warme Atmosphäre in den Ausstellungsräumen.",
+                "hu": "Az erőd vastag falai kiváló védelmet nyújtanak a hideg téli szél ellen; élvezze a kiállítótermek nyugodt és viszonylag meleg atmoszféráját.",
+                "ro": "Zidurile groase ale cetății oferă o protecție excelentă împotriva vântului rece de iarnă; bucurați-vă de atmosfera caldă din sălile de expoziție.",
+                "en": "The thick fortress walls provide excellent protection from the cold winter wind; enjoy the warm atmosphere within the exhibition rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro de la Reforma",
+                "hu": "Teatro de la Reforma",
+                "ro": "Teatro de la Reforma",
+                "en": "Teatro de la Reforma"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im prachtvollen Innenraum auf, bevor Sie die nächste Etappe antreten; achten Sie auf die frühe Dämmerung nach dem Verlassen des Gebäudes.",
+                "hu": "Melegedjen fel a pompás belső térben, mielőtt megkezdené a következő etapot; ügyeljen a korai szürkületre, amikor kijön az épületből a délutáni órákban.",
+                "ro": "Încălziți-vă în interiorul somptuos înainte de a începe următoarea etapă; atenție la amurgul timpuriu când ieșiți din clădire în orele după-amiezii.",
+                "en": "Warm up in the magnificent interior before starting the next stage; watch for the early dusk when you leave the building in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del ferrocarril",
+                "hu": "Museo del ferrocarril",
+                "ro": "Museo del ferrocarril",
+                "en": "Museo del ferrocarril"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Züge zügig, da die Metallwaggons im Winter sehr kalt sein können; das Licht der untergehenden Sonne ist perfekt für atmosphärische Bilder.",
+                "hu": "Tekintse meg gyorsan a vonatokat, mivel a fémvagonok télen nagyon hidegek lehetnek; a lemenő nap fénye tökéletes az atmoszférikus fotók készítéséhez.",
+                "ro": "Vizitați rapid trenurile, deoarece vagoanele de metal pot fi foarte reci iarna; lumina soarelui la apus este perfectă pentru fotografii de atmosferă.",
+                "en": "View the trains quickly as the metal carriages can be very cold in winter; the light of the setting sun is perfect for atmospheric photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Internacional Brownsville-Matamoros",
+                "hu": "Puente Internacional Brownsville-Matamoros",
+                "ro": "Puente Internacional Brownsville-Matamoros",
+                "en": "Puente Internacional Brownsville-Matamoros"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke ist am Abend sehr windig; tragen Sie eine Mütze unter dem Helm und beenden Sie Ihre Tour, bevor es nach 17:00 Uhr komplett dunkel wird.",
+                "hu": "A híd környéke este nagyon szeles; viseljen vékony sapkát a sisak alatt, és fejezze be a túrát, mielőtt 17:00 után teljesen besötétedne.",
+                "ro": "Zona podului este foarte vântoasă seara; purtați o căciulă subțire sub cască și încheiați turul înainte de a se întuneca complet după ora 17:00.",
+                "en": "The bridge area is very windy in the evening; wear a thin cap under your helmet and finish your tour before it gets completely dark after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Délelőtt: A nap nyugodtan indul az Albercas Atlantis vízi központjában a város szélén. Élvezze a vizet, majd autózzon be a városközpontba a történelmi C. Benito Juarez sugárút környékére.\nDél: Fedezze fel az El Pilar Centralt, és merüljön el a város történelmében a Museo Casamatában. Autóval ezek a fontos látnivalók kényelmesen és gyorsan megközelíthetők a forgalmas nap során.\nDélután: Hajtson a határ felé, a Puente Internacionalhoz, majd keljen át, hogy meglátogassa a Gladys Porter Zoot. A változatos vadvilág és a tágas park minden utazó számára igazi fénypont.\nEste: Az állatkertben töltött eseménydús nap után a Sam's Memorial Pool tökéletes hátteret biztosít a kikapcsolódáshoz. Zárja az estét egy békés sétával és a környék csendjének élvezetével.",
         "ro": "Dimineața: Ziua începe relaxant la Albercas Atlantis, la periferia orașului. Bucurați-vă de peisajul acvatic înainte de a conduce spre centrul orașului, la istorica C. Benito Juarez.\nPrânz: Descoperiți El Pilar Central și aprofundați istoria orașului la Museo Casamata. Cu mașina, aceste obiective turistice importante pot fi conectate confortabil și rapid în timpul zilei.\nDupă-amiaza: Conduceți spre graniță, la Puente Internacional, și traversați pentru a vizita Gladys Porter Zoo. Fauna diversă este un punct de atracție major pentru orice călător entuziast.\nSeara: După o zi plină de evenimente la grădina zoologică, Sam's Memorial Pool oferă cadrul perfect pentru relaxare. Încheiați seara cu o plimbare liniștită în împrejurimile calmante.",
         "en": "Morning: The day begins relaxingly at the Albercas Atlantis on the outskirts. Enjoy the aquatic landscape before driving into the city center to explore the historic C. Benito Juarez avenue.\nMidday: Discover El Pilar Central and dive deep into the city's history at the Museo Casamata. By car, these important sights can be connected comfortably and quickly throughout the busy day.\nAfternoon: Drive towards the border at the Puente Internacional and cross over to visit the Gladys Porter Zoo. The diverse wildlife and spacious park are a major highlight for any traveler.\nEvening: After an eventful day exploring the zoo, Sam's Memorial Pool provides the perfect setting for relaxation. End the evening with a peaceful walk and enjoy the calm surroundings."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer entspannten Fahrt zwischen den Stopps, während der Regen gegen die Scheiben prasselt. Mittags genießen wir die trockene Wärme des Autos auf dem Weg zum Museum. Nachmittags erkunden wir kulturelle Highlights, wobei wir Pfützen bequem umfahren. Der Abend endet mit einem Blick auf die nassen Straßen und Brückenlichter.",
+            "hu": "A nap kényelmes autózással indul a helyszínek között, miközben az eső a szélvédőn kopog. Délben élvezzük az autó száraz melegét a múzeum felé vezető úton. Délután a kulturális látnivalókat fedezzük fel, kikerülve az utcai tócsákat. Az este a vizes utakra és a híd csillogó fényeire nyíló kilátással zárul.",
+            "ro": "Ziua începe cu o plimbare confortabilă cu mașina între locații, în timp ce ploaia bate în parbriz. La prânz ne bucurăm de căldura uscată a mașinii în drum spre muzeu. După-amiaza descoperim atracțiile culturale, evitând bălțile de pe străzi. Seara se încheie cu o vedere asupra străzilor ude și a luminilor podului.",
+            "en": "The day begins with a comfortable drive between locations as rain taps on the windshield. At noon, we enjoy the dry warmth of the car while heading to the museum. Afternoon is for discovering cultural highlights while easily avoiding puddles. Evening concludes with a view of wet streets and shimmering bridge lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Albercas Atlantis",
+                "hu": "Albercas Atlantis",
+                "ro": "Albercas Atlantis",
+                "en": "Albercas Atlantis"
+              },
+              "tip_5lang": {
+                "de": "Die Außenbecken sind bei Regen weniger einladend, aber die Anlage bietet oft überdachte Bereiche zum Verweilen und Beobachten des Regens.",
+                "hu": "A kültéri medencék esőben kevésbé hívogatóak, de a létesítmény gyakran kínál fedett részeket a pihenéshez és az esőzés megfigyeléséhez.",
+                "ro": "Piscinele exterioare sunt mai puțin primitoare pe ploaie, dar locația oferă adesea zone acoperite pentru relaxare și observarea ploii.",
+                "en": "The outdoor pools are less inviting in the rain, but the facility often offers covered areas for relaxing and watching the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "C. Benito Juarez",
+                "hu": "C. Benito Juarez",
+                "ro": "C. Benito Juarez",
+                "en": "C. Benito Juarez"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den historischen Straßen, da das Kopfsteinpflaster glatt sein kann; parken Sie so nah wie möglich an Ihrem Zielpunkt.",
+                "hu": "Hajtson óvatosan a történelmi utcákon, mert a burkolat csúszós lehet az esőtől; parkoljon a lehető legközelebb a célpontjához a kényelem érdekében.",
+                "ro": "Conduceți cu atenție pe străzile istorice, deoarece pavajul poate fi alunecos de la ploaie; parcați cât mai aproape de destinație pentru confort.",
+                "en": "Drive carefully on the historical streets as the pavement can be slick from rain; park as close to your destination as possible for convenience."
+              }
+            },
+            {
+              "name": {
+                "de": "El Pilar Central",
+                "hu": "El Pilar Central",
+                "ro": "El Pilar Central",
+                "en": "El Pilar Central"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal bequem vom Auto aus, falls es stark regnet; nutzen Sie die kurzen Regenpausen für ein schnelles Foto vor Ort.",
+                "hu": "Tekintse meg az emlékművet kényelmesen az autóból, ha erősen esne; használja ki a rövid esőszüneteket egy gyors fotó elkészítéséhez a helyszínen.",
+                "ro": "Vizualizați monumentul confortabil din mașină dacă plouă torențial; profitați de scurtele pauze de ploaie pentru o fotografie rapidă la fața locului.",
+                "en": "View the monument comfortably from the car if it rains heavily; take advantage of short breaks in the rain for a quick photo at the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casamata",
+                "hu": "Museo Casamata",
+                "ro": "Museo Casamata",
+                "en": "Museo Casamata"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Museum, um trocken ins Innere zu gelangen; die dicken Mauern sind der perfekte Ort, um den Schauer zu überstehen.",
+                "hu": "Használja a közvetlenül a múzeumnál található parkolót, hogy szárazon jusson be; a vastag falak tökéletes helyszínt biztosítanak a zápor átvészeléséhez.",
+                "ro": "Folosiți parcarea direct de la muzeu pentru a intra uscat; zidurile groase sunt locul perfect pentru a aștepta trecerea unei averse puternice.",
+                "en": "Use the parking lot right at the museum to enter dry; the thick walls are the perfect location to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Internacional Brownsville-Matamoros",
+                "hu": "Puente Internacional Brownsville-Matamoros",
+                "ro": "Puente Internacional Brownsville-Matamoros",
+                "en": "Puente Internacional Brownsville-Matamoros"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Scheibenwischer bereit für die Überquerung; der Blick auf den Fluss im Regen ist durch das Autofenster besonders atmosphärisch.",
+                "hu": "Készítse fel az ablaktörlőket az áthaladáshoz; a folyóra nyíló kilátás az esőben különösen hangulatos az autó ablakán keresztül szemlélve.",
+                "ro": "Pregătiți ștergătoarele pentru traversare; vederea spre râu pe ploaie este deosebit de atmosferică privită prin geamul mașinii.",
+                "en": "Get your wipers ready for the crossing; the view of the river in the rain is particularly atmospheric when seen through the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Gladys Porter Zoo",
+                "hu": "Gladys Porter Zoo",
+                "ro": "Gladys Porter Zoo",
+                "en": "Gladys Porter Zoo"
+              },
+              "tip_5lang": {
+                "de": "Viele Tiere sind bei Regen aktiv und die Wege sind weniger belebt; bringen Sie einen Regenschirm mit, um zwischen den Pavillons zu wechseln.",
+                "hu": "Sok állat aktívabb esőben, és az ösvények ilyenkor kevésbé zsúfoltak; vigyen magával esernyőt a pavilonok közötti kényelmes közlekedéshez.",
+                "ro": "Multe animale sunt active pe ploaie, iar aleile sunt mai puțin aglomerate; aduceți o umbrelă pentru a circula confortabil între pavilioane.",
+                "en": "Many animals are active in the rain and the paths are less crowded; bring an umbrella for comfortable movement between the animal pavilions."
+              }
+            },
+            {
+              "name": {
+                "de": "Sam's Memorial Pool",
+                "hu": "Sam's Memorial Pool",
+                "ro": "Sam's Memorial Pool",
+                "en": "Sam's Memorial Pool"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die Öffnungszeiten bei schlechtem Wetter; die Anlage bietet oft überdachte Plätze, um den Tag entspannt ausklingen zu lassen.",
+                "hu": "Ellenőrizze előre a nyitvatartást rossz idő esetén; a létesítmény gyakran kínál fedett helyeket, ahol nyugodtan lezárhatja a napot.",
+                "ro": "Verificați programul în caz de vreme rea; locația oferă adesea locuri acoperite unde puteți încheia ziua într-un mod relaxat.",
+                "en": "Check the opening hours in advance for bad weather; the facility often offers covered spots where you can end the day in a relaxed manner."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit der wohligen Wärme der Autoheizung gegen den Morgenfrost. Mittags besuchen wir historische Orte, wobei wir die kurzen Wege im Freien genießen. Da die Sonne bereits um 17:00 Uhr untergeht, planen wir den Zoobesuch frühzeitig ein. Den Abend verbringen wir bei einer gemütlichen Fahrt entlang der beleuchteten Grenze.",
+            "hu": "A nap az autó fűtésének kellemes melegével indul a reggeli fagy ellen. Délben történelmi helyszíneket látogatunk meg, élvezve a rövid kinti sétákat. Mivel a nap már 17:00-kor lemegy, a loatkertet korábban ejtjük útba. Az estét kényelmes autózással zárjuk a kivilágított határ mentén.",
+            "ro": "Ziua începe cu căldura plăcută a mașinii împotriva gerului de dimineață. La prânz vizităm locații istorice, profitând de scurtele plimbări afară. Deoarece soarele apune deja la ora 17:00, planificăm vizita la zoo mai devreme. Încheiem ziua cu o plimbare relaxantă cu mașina de-a lungul frontierei iluminate.",
+            "en": "The day starts with the cozy warmth of the car's heater against the morning frost. At noon, we visit historical sites, taking advantage of short outdoor walks. Since the sun sets as early as 17:00, we schedule the zoo visit earlier. We end the evening with a comfortable drive along the illuminated border."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Albercas Atlantis",
+                "hu": "Albercas Atlantis",
+                "ro": "Albercas Atlantis",
+                "en": "Albercas Atlantis"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser könnte im Winter kühl sein, aber die Anlage ist für einen Spaziergang in der Wintersonne dennoch sehenswert; halten Sie die Heizung im Auto bereit.",
+                "hu": "A víz télen hűvös lehet, de a létesítmény a téli napsütésben egy sétára így is érdemes; tartsa készenlétben az autó fűtését a visszatéréshez.",
+                "ro": "Apa poate fi rece iarna, dar locația merită vizitată pentru o plimbare în soarele de iarnă; aveți căldura mașinii pregătită pentru întoarcere.",
+                "en": "The water might be chilly in winter, but the facility is still worth a walk in the winter sun; have the car's heater ready for your return."
+              }
+            },
+            {
+              "name": {
+                "de": "C. Benito Juarez",
+                "hu": "C. Benito Juarez",
+                "ro": "C. Benito Juarez",
+                "en": "C. Benito Juarez"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die historischen Fassaden aus dem warmen Auto heraus; für kurze Fotostopps ist eine warme Jacke wegen des Windes ratsam.",
+                "hu": "Élvezze a történelmi homlokzatok látványát a meleg autóból; a rövid fotómegállókhoz a szél miatt meleg kabát használata tanácsos.",
+                "ro": "Bucurați-vă de vederea fațadelor istorice din mașina caldă; pentru scurte opriri foto, este recomandată o jachetă groasă din cauza vântului.",
+                "en": "Enjoy the view of the historical facades from the warm car; for short photo stops, a warm jacket is advisable due to the wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "El Pilar Central",
+                "hu": "El Pilar Central",
+                "ro": "El Pilar Central",
+                "en": "El Pilar Central"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im klaren Winterlicht besonders eindrucksvoll; nutzen Sie die Parkmöglichkeiten in der Nähe für einen schnellen, frischen Rundgang.",
+                "hu": "Az emlékmű a tiszta téli fényben különösen hatásos; használja ki a közeli parkolási lehetőségeket egy gyors, frissítő körsétához a szobor körül.",
+                "ro": "Monumentul arată deosebit de impresionant în lumina curată de iarnă; folosiți locurile de parcare din apropiere pentru o scurtă plimbare revigorantă.",
+                "en": "The monument looks particularly impressive in the clear winter light; take advantage of nearby parking for a quick, refreshing walk around the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casamata",
+                "hu": "Museo Casamata",
+                "ro": "Museo Casamata",
+                "en": "Museo Casamata"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Wärme der Innenräume gut; parken Sie direkt davor, um die Zeit an der kalten Winterluft so kurz wie möglich zu halten.",
+                "hu": "A vastag falak jól tartják a benti meleget; parkoljon közvetlenül előtte, hogy a lehető legkevesebb időt kelljen a hideg téli levegőn töltenie.",
+                "ro": "Zidurile groase rețin bine căldura în interior; parcați chiar în față pentru a petrece cât mai puțin timp posibil în aerul rece de iarnă.",
+                "en": "The thick walls retain indoor heat well; park directly in front to keep the time spent in the cold winter air as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Internacional Brownsville-Matamoros",
+                "hu": "Puente Internacional Brownsville-Matamoros",
+                "ro": "Puente Internacional Brownsville-Matamoros",
+                "en": "Puente Internacional Brownsville-Matamoros"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das bunte Treiben an der Grenze aus dem geschützten Auto; die Lichterkette der Brücke ist in der frühen Dunkelheit nach 17:00 Uhr sehr schön.",
+                "hu": "Figyelje meg a határmenti nyüzsgést a védett autóból; a híd fénysora az 17:00 utáni korai sötétségben különösen látványos és hangulatos.",
+                "ro": "Observați agitația de la graniță din mașina protejată; luminile podului sunt foarte frumoase în întunericul timpuriu de după ora 17:00.",
+                "en": "Observe the border activity from the protection of your car; the bridge's lights are very beautiful in the early darkness after 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Gladys Porter Zoo",
+                "hu": "Gladys Porter Zoo",
+                "ro": "Gladys Porter Zoo",
+                "en": "Gladys Porter Zoo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Zoo am frühen Nachmittag, solange es noch hell ist; einige Tiere sind bei den kühleren Temperaturen deutlich lebhafter als im Sommer.",
+                "hu": "Látogasson el az állatkertbe kora délután, amíg még világos van; néhány állat a hűvösebb hőmérsékleten sokkal élénkebb, mint a nyári hőségben.",
+                "ro": "Vizitați grădina zoologică la începutul după-amiezii cât încă este lumină; unele animale sunt mult mai vioaie la temperaturi scăzute decât vara.",
+                "en": "Visit the zoo in the early afternoon while it is still light; some animals are much more active in cooler temperatures than in the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Sam's Memorial Pool",
+                "hu": "Sam's Memorial Pool",
+                "ro": "Sam's Memorial Pool",
+                "en": "Sam's Memorial Pool"
+              },
+              "tip_5lang": {
+                "de": "Der Poolbereich ist im Winter ruhig und bietet eine schöne Kulisse für den Tagesabschluss; genießen Sie den Rückweg mit voll aufgedrehter Autoheizung.",
+                "hu": "A medence környéke télen csendes, és szép díszletet ad a nap lezárásához; élvezze a hazautat a maximumra tekert fűtéssel az autóban.",
+                "ro": "Zona piscinei este liniștită iarna și oferă un cadru frumos pentru încheierea zilei; bucurați-vă de drumul de întoarcere cu căldura la maximum în mașină.",
+                "en": "The pool area is quiet in winter and provides a nice backdrop for ending the day; enjoy the drive back with the car's heater turned up high."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Sétánkat Bouffémont szívében, a békés Szent György-templomnál kezdjük, amely nyugodt alaphangot ad a napnak.\nDélelőtt a város történelmi gyökerei felé vesszük az irányt, erdei ösvényeken haladva, hogy felfedezzük az ősi Polissoir de Sainte-Radegonde-ot.\nEbéd után a történelmi utazás a Tour du Plumet felé folytatódik, majd a Nid d'Aigle biológiai rezervátum természetében merülünk el.\nNyugati irányban a Szent Miklós-templomnál zárjuk a túrát, amely csendes pillanatot nyújt a hazatérés előtt.",
         "ro": "Începem plimbarea noastră în inima orașului Bouffémont la biserica pașnică Sfântul Gheorghe, stabilind un ton liniștit pentru zi.\nPână la mijlocul dimineții, ne îndreptăm spre rădăcinile istorice, mergând pe poteci de pădure pentru a descoperi vechiul Polissoir de Sainte-Radegonde.\nDupă prânz, călătoria istorică continuă la Tour du Plumet, urmată de o imersiune în natură la rezervația biologică Nid d'Aigle.\nÎncheiem drumeția în vest la Biserica Sfântul Nicolae, oferind un moment liniștit de reflecție înainte de a pleca.",
         "en": "We start our walk in the heart of Bouffémont at the serene Saint-Georges Church, setting a peaceful tone for the day.\nBy mid-morning, we transition towards the town's historical roots, walking through forested trails to uncover the ancient Polissoir de Sainte-Radegonde.\nAfter lunch, the historical journey continues to the Tour du Plumet, followed by immersing ourselves in nature at the Nid d'Aigle biological reserve.\nWe conclude our day hike in the west at Église Saint-Nicolas, offering a quiet moment of reflection before heading home."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Saint-Georges-Kirche Schutz vor dem Nieselregen. Mittags führt der Weg durch den feuchten Wald zum Polissoir, wobei die Bäume natürlichen Schirm bieten. Nachmittags besuchen Sie den Plumet-Turm und das Reservat, wo die Luft nach Regen duftet. Abends kehren Sie zur Saint-Nicolas-Kirche zurück, während sich die Lichter des Dorfes in den nassen Straßen spiegeln.",
+            "hu": "Reggel a Szent György-templom nyújt menedéket a szemerkélő esőben. Délben a párás erdőn át vezet az út a csiszolókőhöz, a lombok természetes ernyőként védenek. Délután a Plumet-torony és a rezervátum következik, ahol friss esőillat száll. Este a Szent Miklós-templom felé vegye az irányt, miközben a falu fényei megcsillannak a vizes aszfalton.",
+            "ro": "Dimineața, Biserica Sfântul Gheorghe oferă adăpost împotriva burniței. La prânz, drumul duce prin pădurea umedă către piatra de șlefuit, copacii oferind un paravan natural. După-amiaza vizitați Turnul Plumet și rezervația, unde aerul miroase a ploaie proaspătă. Seara reveniți la Biserica Sfântul Nicolae, în timp ce luminile satului se oglindesc pe străzile ude.",
+            "en": "In the morning, Saint-Georges Church offers shelter from the drizzle. At noon, the path leads through the damp forest to the polishing stone, with trees acting as a natural umbrella. In the afternoon, visit the Plumet Tower and the reserve, where the air smells of fresh rain. In the evening, head to Saint-Nicolas Church as the village lights reflect on the wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Georgs-Kirche",
+                "hu": "Szent György-templom",
+                "ro": "Biserica Sfântul Gheorghe",
+                "en": "Saint-Georges Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bunten Glasfenster, während der Regen gegen die Scheiben trommelt; ein idealer, trockener Ort für Besinnlichkeit und um trocken zu bleiben.",
+                "hu": "Csodálja meg a színes üvegablakokat, miközben az eső kopog; tökéletes fedett menedék az elmélyüléshez és a szárazon maradáshoz a túra kezdetén.",
+                "ro": "Admirați vitraliile în timp ce ploaia bate în geamuri; un refugiu ideal și uscat pentru momente de liniște și reflecție în timpul drumeției.",
+                "en": "Admire the stained glass windows while the rain drums against the glass; an ideal dry refuge for quiet contemplation and staying dry during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Polierstein von Sainte-Radegonde",
+                "hu": "Sainte-Radegonde csiszolókő",
+                "ro": "Piatra de șlefuit Sainte-Radegonde",
+                "en": "Polissoir de Sainte-Radegonde"
+              },
+              "tip_5lang": {
+                "de": "Der Waldpfad kann rutschig sein; tragen Sie festes Schuhwerk, um diesen neolithischen Schatz im feuchten Wald sicher zu erreichen.",
+                "hu": "Az erdei út csúszós lehet; viseljen bakancsot, hogy biztonságban megtekinthesse ezt a neolitikus kincset a párás, nedves és mély erdőben.",
+                "ro": "Poteca prin pădure poate fi alunecoasă; purtați încălțăminte aderentă pentru a vedea această comoară neolitică în siguranță deplină prin pădure.",
+                "en": "The forest path can be slippery; wear sturdy boots to safely reach this Neolithic treasure in the damp and humid woods today."
+              }
+            },
+            {
+              "name": {
+                "de": "Plumet-Turm",
+                "hu": "Plumet torony",
+                "ro": "Turnul Plumet",
+                "en": "Tour du Plumet"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt am Fuße des Turms bietet einen dramatischen Blick auf den wolkenverhangenen Wald; halten Sie Ihren Schirm fest bereit.",
+                "hu": "Rövid megálló a toronynál, ahonnan drámai kilátás nyílik a felhős erdőre; tartsa szorosan az esernyőt az élénk és friss szélben.",
+                "ro": "O oprire scurtă la baza turnului oferă o vedere dramatică asupra pădurii înnorate; țineți umbrela bine în caz de vânt puternic la înălțime.",
+                "en": "A short stop at the base of the tower offers a dramatic view of the cloud-covered forest; hold your umbrella tight in the fresh wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Biologisches Reservat Nid d'Aigle",
+                "hu": "Nid d'Aigle biológiai rezervátum",
+                "ro": "Rezervația Biologică Nid d'Aigle",
+                "en": "Nid d'Aigle Biological Reserve"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen den Wald belebt; die dichten Bäume bieten zwar etwas Schutz, aber wasserfeste Kleidung ist hier Pflicht.",
+                "hu": "Figyelje meg, ahogy az eső életre kelti az erdőt; a sűrű fák adnak némi védélyt, de a vízálló ruházat elengedhetetlen a természetben.",
+                "ro": "Observați cum ploaia trezește pădurea la viață; copacii deși oferă adăpost, dar hainele impermeabile sunt obligatorii aici pentru confort.",
+                "en": "Observe how the rain brings the forest to life; the dense trees offer some shelter, but waterproof clothing is mandatory here for comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Nikolaus-Kirche",
+                "hu": "Szent Miklós-templom",
+                "ro": "Biserica Sfântul Nicolae",
+                "en": "Saint-Nicolas Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Schutz des Kirchenschiffs; die ruhige Atmosphäre ist der perfekte Abschluss für einen verregneten Wandertag.",
+                "hu": "Zárja a napot a templomhajó védelmében; a nyugodt környezet tökéletes befejezés egy esős és borús túranap végén a faluban.",
+                "ro": "Încheiați ziua sub protecția navei bisericii; atmosfera liniștită este finalul perfect pentru o zi ploioasă de drumeție prin Bouffémont.",
+                "en": "Finish the day protected by the church nave; the peaceful atmosphere is the perfect end to a rainy and gloomy day of hiking here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erleben Sie die klare Winterluft an der Saint-Georges-Kirche. Mittags wandern Sie zum Polissoir, wobei der kahle Wald weite Ausblicke ermöglicht. Nachmittags erreichen Sie den Plumet-Turm rechtzeitig vor dem frühen Sonnenuntergang um 17 Uhr. Abends bietet die Saint-Nicolas-Kirche einen friedlichen Rückzugsort, bevor die frostige Dunkelheit das Dorf Bouffémont einhüllt.",
+            "hu": "Reggel élvezze a friss téli levegőt a Szent György-templomnál. Délben túrázzon a csiszolókőhöz, a kopár erdő ilyenkor messzi kilátást enged. Délután érjen a Plumet-toronyhoz a korai, 17 órai naplemente előtt. Este a Szent Miklós-templom nyújt békés menedéket, mielőtt a fagyos sötétség teljesen beborítaná a tájat.",
+            "ro": "Dimineața simțiți aerul rece de iarnă la Biserica Sfântul Gheorghe. La prânz mergeți către piatra de șlefuit, pădurea golașă oferind vederi largi. După-amiaza ajungeți la Turnul Plumet înainte de apusul timpuriu de la ora 17. Seara, Biserica Sfântul Nicolae oferă un refugiu liniștit înainte ca întunericul înghețat să cuprindă satul.",
+            "en": "In the morning, experience the crisp winter air at Saint-Georges Church. At noon, hike to the polishing stone, where the bare forest allows for wide views. In the afternoon, reach the Plumet Tower before the early 5 PM sunset. In the evening, Saint-Nicolas Church provides a peaceful retreat before the frosty darkness envelops the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Georgs-Kirche",
+                "hu": "Szent György-templom",
+                "ro": "Biserica Sfântul Gheorghe",
+                "en": "Saint-Georges Church"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Stille der Kirche wirkt im Winter besonders feierlich; tragen Sie eine warme Mütze gegen den kalten Luftzug im Inneren.",
+                "hu": "A templom hűvös csendje télen különösen ünnepélyes; viseljen meleg sapkát a benti huzat és a beszökő hideg ellen a régi falak között.",
+                "ro": "Liniștea răcoroasă a bisericii pare solemnă iarna; purtați o căciulă caldă împotriva curentului rece din interiorul vechi al clădirii.",
+                "en": "The cool silence of the church feels especially solemn in winter; wear a warm hat against the cold drafts inside the old building."
+              }
+            },
+            {
+              "name": {
+                "de": "Polierstein von Sainte-Radegonde",
+                "hu": "Sainte-Radegonde csiszolókő",
+                "ro": "Piatra de șlefuit Sainte-Radegonde",
+                "en": "Polissoir de Sainte-Radegonde"
+              },
+              "tip_5lang": {
+                "de": "Der gefrorene Boden erleichtert den Zugang zum Stein; genießen Sie die klare Luft und die weite Sicht durch die blattlosen Bäume.",
+                "hu": "A fagyott talaj megkönnyíti az utat a kőhöz; élvezze a friss levegőt és a tiszta kilátást a kopasz fák ágai között a téli napon.",
+                "ro": "Solul înghețat ușurează accesul la piatră; bucurați-vă de aerul curat și de vizibilitatea sporită printre copacii fără frunze de iarnă.",
+                "en": "The frozen ground makes the path to the stone easier; enjoy the crisp air and the clear views through the leafless tree branches."
+              }
+            },
+            {
+              "name": {
+                "de": "Plumet-Turm",
+                "hu": "Plumet torony",
+                "ro": "Turnul Plumet",
+                "en": "Tour du Plumet"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Turm vor Sonnenuntergang um 17 Uhr; das goldene Winterlicht auf den Feldern bietet ein fantastisches Fotomotiv.",
+                "hu": "Érjen a toronyhoz a 17 órai naplemente előtt; a mezőkre vetülő arany téli fény fantasztikus fotótémát kínál a látogatóknak.",
+                "ro": "Ajungeți la turn înainte de apusul de la ora 17; lumina aurie de iarnă peste câmpuri oferă un subiect foto fantastic vizitatorilor.",
+                "en": "Reach the tower before the 5 PM sunset; the golden winter light across the fields provides a fantastic photo opportunity for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Biologisches Reservat Nid d'Aigle",
+                "hu": "Nid d'Aigle biológiai rezervátum",
+                "ro": "Rezervația Biologică Nid d'Aigle",
+                "en": "Nid d'Aigle Biological Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die kahle Natur hat ihren eigenen Reiz; achten Sie auf die kurzen Tageslichtstunden und planen Sie Ihren Rückweg rechtzeitig ein.",
+                "hu": "A kopár természetnek megvan a maga varázsa; figyeljen a rövid nappalokra, és tervezze meg időben a biztonságos visszautat a faluba.",
+                "ro": "Natura golașă are propriul farmec; atenție la orele puține de lumină și planificați drumul de întoarcere din timp pentru siguranță.",
+                "en": "The bare nature has its own charm; watch the short daylight hours and plan your return journey in good time for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Nikolaus-Kirche",
+                "hu": "Szent Miklós-templom",
+                "ro": "Biserica Sfântul Nicolae",
+                "en": "Saint-Nicolas Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht in der Wärme der Kirche, bevor die Nacht hereinbricht; die beleuchtete Fassade weist Ihnen den Weg im Dunkeln.",
+                "hu": "Keressen menedéket a templom melegében, mielőtt leszáll az éj; a kivilágított homlokzat mutatja az utat a sötétedő téli faluban.",
+                "ro": "Căutați refugiu în căldura bisericii înainte de lăsarea nopții; fațada iluminată vă ghidează drumul prin satul care se întunecă.",
+                "en": "Seek refuge in the warmth of the church before night falls; the illuminated facade guides your way through the darkening winter village."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros utunk a Szent György-templomnál kezdődik, ahol bemelegítünk, miközben megcsodáljuk a város központi építészeti szépségeit.\nÉszak felé pedálozva az útvonal gyorsan elvisz minket a Szent Márton-templomhoz, majd a régi Glacière lenyűgöző történelmi helyszínéhez.\nKora délután nyugat felé kerékpározunk a Szent Miklós-templomhoz, festői utcákon haladva, mielőtt a biológiai rezervátum felé vennénk az irányt.\nAz utazás az erdős ösvényeken ér véget az ősi Polissoir de Sainte-Radegonde-nál, amely tökéletes befejezése az aktív napnak.",
         "ro": "Călătoria noastră cu bicicleta începe la Biserica Sf. Gheorghe, permițându-ne să ne încălzim în timp ce admirăm frumusețea arhitecturală centrală.\nPedalând spre nord, traseul ne aduce rapid la Biserica Sfântul Martin și apoi la fascinantul sit istoric al vechii Glacière.\nDupă-amiaza devreme pedalăm spre vest, spre Biserica Sf. Nicolae, parcurgând străzi pitorești înainte de a ne îndrepta spre rezervația biologică.\nPlimbarea se termină adânc în potecile împădurite de la vechiul Polissoir de Sainte-Radegonde, un final perfect și retras al zilei.",
         "en": "Our cycling journey kicks off at Saint-Georges Church, allowing us to warm up as we take in the town's central architectural beauty.\nPedaling north, the route brings us quickly to Église Saint-Martin and then to the fascinating historical site of the old Glacière.\nEarly afternoon sees us cycling west toward Église Saint-Nicolas, taking scenic residential roads before heading to the biological reserve.\nThe ride finishes deep in the wooded trails by the ancient Polissoir de Sainte-Radegonde, a perfect, secluded end to an active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie vorsichtig zur Saint-Georges-Kirche, da die Straßen rutschig sind. Mittags bietet die St. Martinskirche und der Eiskeller Schutz vor plötzlichen Schauern. Nachmittags erkunden Sie das Reservat und den Polissoir; Schutzbleche sind heute unerlässlich. Abends beenden Sie die Tour an der Saint-Nicolas-Kirche, während der Regen langsam nachlässt.",
+            "hu": "Reggel óvatosan kerekezzen a Szent György-templomhoz a csúszós utak miatt. Délben a Szent Márton-templom és a jégverem nyújt menedéket a záporok elől. Délután a rezervátum és a csiszolókő a cél; a sárvédő ma elengedhetetlen. Este a Szent Miklós-templomnál zárja a túrát, miközben az eső fokozatosan alábbhagy.",
+            "ro": "Dimineața pedalați cu atenție către Biserica Sfântul Gheorghe, drumurile fiind alunecoase. La prânz, Biserica Sfântul Martin și ghețăria oferă adăpost contra averselor. După-amiaza explorați rezervația și piatra de șlefuit; apărătorile de noroi sunt esențiale azi. Seara încheiați turul la Biserica Sfântul Nicolae, ploaia domolindu-se.",
+            "en": "In the morning, cycle carefully to Saint-Georges Church as the roads are slippery. At noon, Saint-Martin Church and the Ice House offer shelter from sudden showers. In the afternoon, explore the reserve and the polishing stone; mudguards are essential today. In the evening, finish the tour at Saint-Nicolas Church as the rain gradually subsides."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Georgs-Kirche",
+                "hu": "Szent György-templom",
+                "ro": "Biserica Sfântul Gheorghe",
+                "en": "Saint-Georges Church"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Bremsen auf nassen Pflastersteinen plötzliche Manöver; die Kirche bietet einen trockenen Ort für eine erste Pause.",
+                "hu": "Kerülje a hirtelen fékezést a nedves macskaköveken; a templom száraz helyet biztosít az első pihenőhöz az esős út során.",
+                "ro": "Evitați frânările bruște pe pavajul umed; biserica oferă un loc uscat pentru o primă pauză în timpul traseului de azi prin sat.",
+                "en": "Avoid sudden braking on wet cobblestones; the church provides a dry place for a first break during today's journey through town."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Martinskirche",
+                "hu": "Szent Márton-templom",
+                "ro": "Biserica Sfântul Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Regenbekleidung zu richten, bevor Sie die schlichte Schönheit des Inneren bewundern.",
+                "hu": "Használja a fedett bejáratot az esőruházat megigazításához, mielőtt megcsodálná a templombelső letisztult szépségét a szürkeségben.",
+                "ro": "Folosiți intrarea acoperită pentru a vă ajusta echipamentul de ploaie înainte de a admira frumusețea simplă a interiorului în liniște.",
+                "en": "Use the covered entrance to adjust your rain gear before admiring the simple beauty of the interior in the gray weather today."
+              }
+            },
+            {
+              "name": {
+                "de": "Eiskeller",
+                "hu": "Jégverem",
+                "ro": "Ghețărie",
+                "en": "Ice House"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Ort liegt etwas abseits; achten Sie auf schlammige Wege und nutzen Sie den Waldrand als natürlichen Regenschutz.",
+                "hu": "Ez a történelmi hely kicsit félreesik; ügyeljen a sáros utakra, és használja az erdőszélt természetes esővédőként a megállónál.",
+                "ro": "Acest loc istoric este puțin retras; atenție la drumurile noroioase și folosiți marginea pădurii ca paravan natural contra ploii.",
+                "en": "This historical site is a bit off the path; watch out for muddy tracks and use the forest edge as natural rain protection here."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Nikolaus-Kirche",
+                "hu": "Szent Miklós-templom",
+                "ro": "Biserica Sfântul Nicolae",
+                "en": "Saint-Nicolas Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und genießen Sie die Stille der Kirche, während draußen der Regen die Straßen reinigt.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és élvezze a templom csendjét, miközben odakint az eső mossa az utcákat és a tájat.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de liniștea bisericii în timp ce afară ploaia spală străzile și peisajul local.",
+                "en": "Park your bike in a protected spot and enjoy the silence of the church while outside the rain washes the streets and landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Biologisches Reservat Nid d'Aigle",
+                "hu": "Nid d'Aigle biológiai rezervátum",
+                "ro": "Rezervația Biologică Nid d'Aigle",
+                "en": "Nid d'Aigle Biological Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege können sehr rutschig sein; reduzieren Sie den Reifendruck leicht für besseren Grip auf dem nassen und weichen Waldboden.",
+                "hu": "Az erdei utak nagyon csúszósak lehetnek; csökkentse kissé a guminyomást a jobb tapadás érdekében a vizes, puha talajon tekerve.",
+                "ro": "Potecile din pădure pot fi foarte alunecoase; reduceți ușor presiunea în pneuri pentru o aderență mai bună pe solul umed și moale.",
+                "en": "Forest paths can be very slippery; reduce tire pressure slightly for better grip on the wet, soft ground during your ride today."
+              }
+            },
+            {
+              "name": {
+                "de": "Polierstein von Sainte-Radegonde",
+                "hu": "Sainte-Radegonde csiszolókő",
+                "ro": "Piatra de șlefuit Sainte-Radegonde",
+                "en": "Polissoir de Sainte-Radegonde"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Regen verleiht diesem mystischen Stein eine besondere Atmosphäre; wischen Sie den Sattel vor der Weiterfahrt gut trocken.",
+                "hu": "Az esős látogatás különleges hangulatot kölcsönöz e misztikus kőnek; törölje szárazra a nyerget a továbbindulás előtt a vizes úton.",
+                "ro": "O vizită pe ploaie oferă o atmosferă deosebită acestei pietre mistice; ștergeți bine șaua înainte de a pleca mai departe pe traseu.",
+                "en": "A visit in the rain lends a special atmosphere to this mystical stone; wipe your saddle dry before continuing your journey on the road."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens beginnt die Tour frostig an der Saint-Georges-Kirche; Thermobekleidung ist ein Muss. Mittags radeln Sie über gefrorene Wege zum Eiskeller und zur St. Martinskirche. Nachmittags durchqueren Sie das Reservat, wo der Raureif die Bäume verzaubert. Abends erreichen Sie den Polissoir, bevor das Tageslicht um 17 Uhr schwindet und die Kälte merklich zunimmt.",
+            "hu": "Reggel fagyosan indul a túra a Szent György-templomnál; a hőtartó ruházat kötelező. Délben fagyott utakon tekerjen a jégveremhez és a Szent Márton-templomhoz. Délután a rezervátumon át vezet az út, ahol a zúzmara ékesíti a fákat. Este érje el a csiszolókövet, mielőtt 17 órakor elfogy a fény és felerősödik a fagy.",
+            "ro": "Dimineața turul începe geros la Biserica Sfântul Gheorghe; îmbrăcămintea termică este obligatorie. La prânz pedalați pe drumuri înghețate către ghețărie și Biserica Sfântul Martin. După-amiaza traversați rezervația, unde chiciura împodobește copacii. Seara ajungeți la piatra de șlefuit înainte ca lumina să dispară la ora 17.",
+            "en": "In the morning, the tour starts frostily at Saint-Georges Church; thermal clothing is a must. At noon, cycle over frozen paths to the Ice House and Saint-Martin Church. In the afternoon, cross the reserve where hoarfrost enchants the trees. In the evening, reach the polishing stone before daylight fades at 5 PM and the cold intensifies."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Georgs-Kirche",
+                "hu": "Szent György-templom",
+                "ro": "Biserica Sfântul Gheorghe",
+                "en": "Saint-Georges Church"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Vorplatz; die Kirche bietet einen kurzen Moment der Windstille vor der weiteren Fahrt.",
+                "hu": "Ügyeljen a jeges foltokra a templom előtti téren; az épület rövid szélcsendes pihenőt kínál a további tekerés előtt a nagy hidegben.",
+                "ro": "Atenție la porțiunile înghețate din fața bisericii; clădirea oferă un scurt moment de adăpost contra vântului înainte de drumul lung.",
+                "en": "Watch out for icy patches in front of the church; the building offers a brief moment of shelter from the wind before riding on today."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Martinskirche",
+                "hu": "Szent Márton-templom",
+                "ro": "Biserica Sfântul Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände kurz im Inneren auf; die klare Wintersonne bringt die Architektur der Kirche wunderbar zur Geltung.",
+                "hu": "Melegítse fel a kezeit egy pillanatra bent; a tiszta téli napsütés csodásan kiemeli a templom építészeti részleteit és a formákat.",
+                "ro": "Încălziți-vă mâinile pentru o clipă în interior; soarele clar de iarnă scoate în evidență minunat detaliile arhitecturale și formele.",
+                "en": "Warm your hands for a moment inside; the clear winter sun brings out the architectural details of the church beautifully in the light."
+              }
+            },
+            {
+              "name": {
+                "de": "Eiskeller",
+                "hu": "Jégverem",
+                "ro": "Ghețărie",
+                "en": "Ice House"
+              },
+              "tip_5lang": {
+                "de": "Der Name ist heute Programm; besichtigen Sie dieses Relikt vergangener Zeiten und spüren Sie die natürliche Kälte des Ortes.",
+                "hu": "A név ma különösen találó; nézze meg a múlt ezen ereklyéjét, és érezze a hely természetes, mély hidegét ezen a téli napon.",
+                "ro": "Numele este foarte potrivit azi; vizitați această relicvă a trecutului și simțiți răceala naturală a locului într-o zi de iarnă.",
+                "en": "The name is very fitting today; visit this relic of the past and feel the natural deep cold of the site on a crisp winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Nikolaus-Kirche",
+                "hu": "Szent Miklós-templom",
+                "ro": "Biserica Sfântul Nicolae",
+                "en": "Saint-Nicolas Church"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne sorgt für lange Schatten am Radweg zur Kirche; prüfen Sie Ihre Beleuchtung für den Rückweg in der Dämmerung.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat vet a templomhoz vezető úton; ellenőrizze a világítást a szürkületi visszautat megelőzően.",
+                "ro": "Soarele jos creează umbre lungi pe drumul către biserică; verificați sistemul de iluminare pentru drumul de întoarcere la amurgul rece.",
+                "en": "The low sun casts long shadows on the path to the church; check your lights for the return journey in the deepening winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Biologisches Reservat Nid d'Aigle",
+                "hu": "Nid d'Aigle biológiai rezervátum",
+                "ro": "Rezervația Biologică Nid d'Aigle",
+                "en": "Nid d'Aigle Biological Reserve"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über gefrorenes Laub; der Wald wirkt im Winterschlaf besonders friedlich und bietet klare Sichtachsen.",
+                "hu": "Tekerjen óvatosan a fagyott leveleken; a téli álmot alvó erdő különösen békés és ilyenkor messzebb ellátni a fák ágai között.",
+                "ro": "Pedalați cu atenție pe frunzele înghețate; pădurea în somnul de iarnă este foarte liniștită și oferă perspective clare vizitatorilor.",
+                "en": "Ride carefully over frozen leaves; the forest in its winter sleep is especially peaceful and offers clear vistas through the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Polierstein von Sainte-Radegonde",
+                "hu": "Sainte-Radegonde csiszolókő",
+                "ro": "Piatra de șlefuit Sainte-Radegonde",
+                "en": "Polissoir de Sainte-Radegonde"
+              },
+              "tip_5lang": {
+                "de": "Der Stein wirkt im Frost wie aus einer anderen Welt; treten Sie zügig in die Pedale, um vor der Dunkelheit wieder im Dorf zu sein.",
+                "hu": "A kő a fagyban olyan, mintha egy másik világból jött volna; tekerjen tempósan, hogy sötétedés előtt visszaérjen a fűtött házak közé.",
+                "ro": "Piatra pare din altă lume în îngheț; pedalați vioi pentru a ajunge înapoi în sat înainte de lăsarea întunericului rece de seară.",
+                "en": "The stone looks otherworldly in the frost; pedal briskly to get back to the village before the cold evening darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Motoros túránkat egy frissítő reggeli megállóval kezdjük a hatalmas Montmorency-erdőben, amely tökéletes egy korai sétához az indulás előtt.\nA sűrű erdőből a középkori Tour du Plumet és a közeli őskori csiszolókő felé hajtunk, összekapcsolódva az ősi történelemmel.\nDélben visszautazunk a központ felé a Szent György-templomhoz, majd északra a fenséges Notre-Dame de France szoborhoz látogatunk el.\nAutós kirándulásunk a régi Glacière felfedezésével zárul, egy lenyűgöző történelmi ereklyével, amely tökéletes utolsó állomása utunknak.",
         "ro": "Începem turul nostru motorizat cu o oprire matinală revigorantă la vasta Pădure Montmorency, perfectă pentru o plimbare înainte de a porni.\nDin pădurea deasă, conducem spre medievalul Tour du Plumet și spre piatra de șlefuit preistorică din apropiere, conectându-ne cu istoria.\nLa prânz ne întoarcem spre centru pentru a vedea Biserica Sf. Gheorghe, urmată de maiestuoasa statuie Notre-Dame de France în nord.\nExcursia noastră se încheie cu explorarea vechii Glacière, o relicvă istorică fascinantă care servește ca o oprire finală perfectă.",
         "en": "We start our motorized tour with a refreshing morning stop at the vast Montmorency Forest, perfect for an early walk before hitting the road.\nFrom the deep woods, we drive to the medieval Tour du Plumet and the nearby prehistoric polishing stone, connecting with ancient history.\nMidday involves driving back towards the center to see Saint-Georges Church, followed by the majestic Notre-Dame de France statue up north.\nOur road trip concludes by exploring the old Glacière, a fascinating historical relic that serves as the perfect final stop for our long itinerary."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie zum Wald von Montmorency, wo Sie die Regenschauer gemütlich vom Auto aus beobachten können. Mittags besuchen Sie den Plumet-Turm und den Polissoir mit kurzen Sprints im Freien. Nachmittags bieten die Kirchen von Bouffémont und Baillet ideale trockene Stopps. Abends endet die Tour am Eiskeller, während die nassen Straßen das Licht Ihrer Scheinwerfer reflektieren.",
+            "hu": "Reggel a Montmorency-erdőbe látogasson el, ahol az autó kényelméből figyelheti az esőt. Délben a Plumet-torony és a csiszolókő következik gyors kinti megállókkal. Délután Bouffémont és Baillet templomai nyújtanak száraz menedéket. Este a jégveremnél zárul a nap, miközben a vizes utak visszatükrözik a fényszórók sugarait.",
+            "ro": "Dimineața conduceți către pădurea Montmorency, unde puteți observa ploaia din confortul mașinii. La prânz vizitați Turnul Plumet și piatra de șlefuit cu scurte ieșiri afară. După-amiaza, bisericile din Bouffémont și Baillet sunt opriri ideale și uscate. Seara turul se încheie la ghețărie, drumurile ude reflectând farurile mașinii.",
+            "en": "In the morning, drive to Montmorency Forest, where you can watch the rain from the comfort of your car. At noon, visit the Plumet Tower and the polishing stone with quick outdoor sprints. In the afternoon, the churches of Bouffémont and Baillet offer ideal dry stops. In the evening, the tour ends at the Ice House as the wet roads reflect your headlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wald von Montmorency",
+                "hu": "Montmorency-erdő",
+                "ro": "Pădurea Montmorency",
+                "en": "Montmorency Forest"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Parkplatz mit schöner Aussicht; genießen Sie die mystische Stimmung des nebligen Waldes bei einer Tasse warmem Tee im Auto.",
+                "hu": "Keressen egy kilátással bíró parkolót; élvezze a ködös erdő misztikus hangulatát egy csésze meleg teával az autó biztonságában és melegében.",
+                "ro": "Căutați un loc de parcare cu vedere frumoasă; bucurați-vă de atmosfera mistică a pădurii cețoase cu un ceai cald în mașina primitoare.",
+                "en": "Find a parking spot with a nice view; enjoy the mystical mood of the foggy forest with a cup of warm tea inside the cozy car."
+              }
+            },
+            {
+              "name": {
+                "de": "Plumet-Turm",
+                "hu": "Plumet torony",
+                "ro": "Turnul Plumet",
+                "en": "Tour du Plumet"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Turm für ein schnelles Foto; der Regen lässt die alten Steine in einem tiefen, dramatischen Grau erscheinen.",
+                "hu": "Parkoljon a torony közelében egy gyors fotó erejéig; az eső mély, drámai szürke színt kölcsönöz a régi köveknek a borús és vizes időben.",
+                "ro": "Parcați aproape de turn pentru o fotografie rapidă; ploaia face ca pietrele vechi să pară de un gri închis și dramatic sub norii grei.",
+                "en": "Park close to the tower for a quick photo; the rain makes the old stones appear in a deep, dramatic gray under the cloudy winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Polierstein von Sainte-Radegonde",
+                "hu": "Sainte-Radegonde csiszolókő",
+                "ro": "Piatra de șlefuit Sainte-Radegonde",
+                "en": "Polissoir de Sainte-Radegonde"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Spaziergang führt Sie zu diesem Zeugnis der Urgeschichte; halten Sie ein Handtuch im Auto bereit, um sich danach abzutrocknen.",
+                "hu": "Rövid, vizes séta vezet ehhez az őskori emlékhez; tartson egy törölközőt az autóban, hogy utána gyorsan megszárítkozhasson a fűtés mellett.",
+                "ro": "O scurtă plimbare prin ploaie vă duce la acest vestigiu preistoric; țineți un prosop în mașină pentru a vă usca rapid după vizita umedă.",
+                "en": "A short, wet walk leads you to this prehistoric monument; keep a towel in the car to dry off quickly after your visit in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Georgs-Kirche",
+                "hu": "Szent György-templom",
+                "ro": "Biserica Sfântul Gheorghe",
+                "en": "Saint-Georges Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirche als trockenen Rückzugsort vor dem Regen; die Akustik im Inneren ist besonders eindrucksvoll, wenn es draußen stürmt.",
+                "hu": "Használja a templomot száraz menedékként az eső elől; a benti akusztika különösen lenyűgöző, amikor odakint viharos és vizes az idő.",
+                "ro": "Folosiți biserica ca refugiu uscat contra ploii; acustica din interior este impresionantă mai ales când afară este furtună și plouă tare.",
+                "en": "Use the church as a dry retreat from the rain; the acoustics inside are especially impressive when it's stormy and wet outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de France",
+                "hu": "Notre-Dame de France",
+                "ro": "Notre-Dame de France",
+                "en": "Notre-Dame de France"
+              },
+              "tip_5lang": {
+                "de": "Dieser Stopp in Baillet-en-France ist leicht erreichbar; bewundern Sie die Architektur vom Auto aus oder flüchten Sie schnell ins Trockene.",
+                "hu": "Ez a megálló Baillet-en-France-ban könnyen elérhető; csodálja meg az épületet az autóból, vagy szaladjon be gyorsan a védett, száraz belsőbe.",
+                "ro": "Această oprire în Baillet-en-France este ușor accesibilă; admirați clădirea din mașină sau intrați rapid la adăpost de ploaia de afară.",
+                "en": "This stop in Baillet-en-France is easily accessible; admire the building from the car or run quickly into the dry interior for a visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Eiskeller",
+                "hu": "Jégverem",
+                "ro": "Ghețărie",
+                "en": "Ice House"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am Straßenrand; der kurze Weg zum Eiskeller kann heute rutschig sein, bietet aber einen spannenden Einblick in die Geschichte.",
+                "hu": "Parkoljon óvatosan az út szélén; a jégveremhez vezető rövid út ma csúszós lehet, de izgalmas betekintést nyújt a múltba a vizes napon.",
+                "ro": "Parcați cu grijă pe marginea drumului; drumul scurt spre ghețărie poate fi alunecos azi, dar oferă o perspectivă istorică unică vizitatorului.",
+                "en": "Park carefully on the roadside; the short path to the Ice House can be slippery today but offers a unique historical insight for the visitor."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie durch den frostigen Wald von Montmorency, dessen Bäume oft mit Raureif bedeckt sind. Mittags besuchen Sie den Plumet-Turm und den Polissoir; die Heizung im Auto macht die kurzen Ausflüge angenehm. Nachmittags erkunden Sie die Kirchen, bevor die Dunkelheit früh einsetzt. Abends erreichen Sie den Eiskeller unter einem klaren, kalten Sternenhimmel.",
+            "hu": "Reggel hajtson át a fagyos Montmorency-erdőn, ahol a fákat gyakran zúzmara borítja. Délben a Plumet-torony és a csiszolókő következik; az autó fűtése kellemessé teszi a rövid kinti megállókat. Délután a templomokat látogassa meg, mielőtt korán leszáll a sötét. Este érje el a jégvermet a tiszta, hideg csillagos égbolt alatt.",
+            "ro": "Dimineața conduceți prin pădurea înghețată Montmorency, unde copacii sunt adesea acoperiți de chiciură. La prânz vizitați Turnul Plumet și piatra de șlefuit; căldura din mașină face scurte ieșiri plăcute. După-amiaza explorați bisericile înainte de lăsarea timpurie a serii. Seara ajungeți la ghețărie sub cerul senin și rece.",
+            "en": "In the morning, drive through the frosty Montmorency Forest, where trees are often covered in hoarfrost. At noon, visit the Plumet Tower and the polishing stone; the car heater makes short outdoor stops pleasant. In the afternoon, explore the churches before darkness sets in early. In the evening, reach the Ice House under a clear, cold starry sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wald von Montmorency",
+                "hu": "Montmorency-erdő",
+                "ro": "Pădurea Montmorency",
+                "en": "Montmorency Forest"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Winterwunderland vom warmen Auto aus; die kahlen Zweige bieten weite Durchblicke in das Herz des Waldes an einem frostigen Tag.",
+                "hu": "Élvezze a téli tájat a meleg autóból; a kopár ágak messzi kilátást engednek az erdő mélyére a fagyos, tiszta időben tett autózás során.",
+                "ro": "Bucurați-vă de peisajul de iarnă din mașina caldă; ramurile golașe oferă vederi largi spre inima pădurii în ziua geroasă de iarnă.",
+                "en": "Enjoy the winter wonderland from the warm car; the bare branches offer wide views into the heart of the forest on a frosty winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Plumet-Turm",
+                "hu": "Plumet torony",
+                "ro": "Turnul Plumet",
+                "en": "Tour du Plumet"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet den Turm ideal für Fotos; halten Sie den Motor kurz an und genießen Sie die Stille der frostigen Felder.",
+                "hu": "Az alacsony téli nap tökéletesen megvilágítja a tornyot a fotókhoz; állítsa le a motort egy pillanatra, és élvezze a fagyos mezők csendjét.",
+                "ro": "Soarele jos de iarnă luminează turnul perfect pentru fotografii; opriți motorul o clipă și bucurați-vă de liniștea câmpurilor înghețate.",
+                "en": "The low winter sun illuminates the tower perfectly for photos; stop the engine for a moment and enjoy the silence of the frosty fields."
+              }
+            },
+            {
+              "name": {
+                "de": "Polierstein von Sainte-Radegonde",
+                "hu": "Sainte-Radegonde csiszolókő",
+                "ro": "Piatra de șlefuit Sainte-Radegonde",
+                "en": "Polissoir de Sainte-Radegonde"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie rutschfeste Schuhe für den Weg vom Parkplatz; der Stein wirkt im Winterlicht besonders archaisch und beeindruckend in der Kälte.",
+                "hu": "Viseljen csúszásmentes cipőt a parkolótól vezető úton; a kő a téli fényben különösen archaikusnak és lenyűgözőnek hat a hidegben.",
+                "ro": "Purtați încălțăminte antiderapantă pentru drumul de la parcare; piatra pare deosebit de arhaică și impresionantă în lumina rece a iernii.",
+                "en": "Wear non-slip shoes for the walk from the parking area; the stone looks especially archaic and impressive in the cold winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Georgs-Kirche",
+                "hu": "Szent György-templom",
+                "ro": "Biserica Sfântul Gheorghe",
+                "en": "Saint-Georges Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Platz und wärmen Sie sich kurz in der Kirche auf; die dicken Mauern bieten Schutz vor dem schneidenden Winterwind draußen.",
+                "hu": "Parkoljon a téren, és melegedjen fel egy kicsit a templomban; a vastag falak védelmet nyújtanak a metsző téli szél ellen odakint.",
+                "ro": "Parcați în piață și încălziți-vă puțin în biserică; zidurile groase oferă protecție împotriva vântului tăios de iarnă de afară.",
+                "en": "Park in the square and warm up for a bit in the church; the thick walls offer protection from the biting winter wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de France",
+                "hu": "Notre-Dame de France",
+                "ro": "Notre-Dame de France",
+                "en": "Notre-Dame de France"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp in Baillet, bevor die Dämmerung einsetzt; die künstliche Beleuchtung der Fassade beginnt im Winter schon früh zu leuchten.",
+                "hu": "Gyors megálló Baillet-ben, mielőtt beáll a szürkület; a homlokzat mesterséges megvilágítása télen már korán felgyullad a látogatóknak.",
+                "ro": "O oprire rapidă în Baillet înainte de amurg; iluminatul artificial al fațadei începe să strălucească devreme pe timpul iernii geroase.",
+                "en": "A quick stop in Baillet before twilight sets in; the artificial lighting of the facade starts to glow early during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Eiskeller",
+                "hu": "Jégverem",
+                "ro": "Ghețărie",
+                "en": "Ice House"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier; achten Sie beim Fahren auf mögliche Glätte auf den Nebenstraßen rund um Bouffémont in der kalten, dunklen Nacht.",
+                "hu": "Itt zárja a napot; vezetés közben ügyeljen az esetleges jegesedésre a Bouffémont körüli mellékutakon a hideg és sötét téli éjszakában.",
+                "ro": "Încheiați ziua aici; atenție la posibila polei pe drumurile secundare din jurul Bouffémont în timpul nopții reci și întunecate de iarnă.",
+                "en": "End your day here; watch out for possible icy patches on the side roads around Bouffémont during the cold and dark winter night drive."
+              }
+            }
+          ]
+        }
       }
     }
   }

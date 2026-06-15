@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Revin központjában, elmerülve a helyi történelemben és kultúrában. Délben sétáljon végig a hangulatos utcákon további kulturális kincseket keresve. Délután a zöldellő park nyújt kellemes és frissítő pihenést. A napot egy rövid túrával zárja a folyóra néző lenyűgöző kilátópontnál.",
         "ro": "Începeți dimineața cu o incursiune profundă în istoria și cultura locală în centrul orașului Revin. La amiază, plimbați-vă pe străzile pline de viață spre alte atracții culturale. După-amiaza, parcul oferă o pauză verde și binevenită. Încheiați ziua cu o scurtă ascensiune către un punct de belvedere impresionant.",
         "en": "Start the morning by diving deep into local history and culture right in the center of Revin. By midday, stroll through the charming streets to discover more cultural gems. In the afternoon, the leafy park offers a welcome and refreshing green break. Conclude your day with a short hike to a striking viewpoint overlooking the winding river."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im Trockenen des Spanischen Hauses. Suchen Sie mittags Zuflucht in der majestätischen Notre-Dame Kirche und im Saal Jean Vilar. Der Nachmittagsspaziergang durch den Park Rocheteaux erfordert wasserfeste Kleidung, da die Wege schlammig werden. Beenden Sie die Tour am Mintch-Felsen; achten Sie abends auf die rutschigen Steine.",
+            "hu": "Kezdje az esős reggelt a Spanyol ház kiállításainak száraz kényelmében. Délben keressen menedéket a fenséges Notre-Dame templomban és a Jean Vilar Teremben. A délutáni séta a Rocheteaux Parkban vízálló felszerelést igényel, mivel az ösvények sarasak lehetnek. Kora este óvatosan közelítse meg a Mintch-sziklát, a vizes kövek rendkívül csúszósak.",
+            "ro": "Începeți dimineața ploioasă explorând expozițiile interioare de la Casa Spaniolă. La prânz, adăpostiți-vă în maiestuoasa Biserică Notre-Dame și în Sala Jean Vilar. Plimbarea de după-amiază prin Parcul Rocheteaux necesită echipament impermeabil. Încheiați la Stânca Mintch; aveți grijă la pietrele alunecoase odată cu lăsarea serii ploioase.",
+            "en": "Start your wet morning exploring the indoor exhibits at the Spanish House, escaping the rain. Midday, seek shelter in the majestic Notre-Dame Church and the Jean Vilar Hall. The afternoon walk through Rocheteaux Park requires good waterproof gear, as paths get muddy. Conclude safely at Mintch Rock; watch your step on the slick stones as the evening rain sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spanisches Haus",
+                "hu": "Spanyol ház",
+                "ro": "Casa Spaniolă",
+                "en": "The Spanish House"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das lokale Erbe im Trockenen; lassen Sie Ihren nassen Schirm einfach am Eingang stehen und entspannen Sie sich drinnen.",
+                "hu": "Csodálja meg a helyi örökséget a száraz beltérben; a csöpögő esernyőt hagyja nyugodtan a bejáratnál, és élvezze a fűtött kiállítást.",
+                "ro": "Admirați patrimoniul local la adăpost; lăsați umbrela udă la intrare și bucurați-vă de liniștea expoziției pe această vreme umedă.",
+                "en": "Admire the local heritage safely indoors, making it the perfect dry start to your day; simply leave your dripping umbrella at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die Buntglasfenster, während Sie dem Regen entfliehen; achten Sie jedoch darauf, dass die historischen Steinböden rutschig sein können.",
+                "hu": "Meneküljön a zápor elől a lenyűgöző ólomüveg ablakok alá; vigyázzon, a bejárat körüli régi kőpadló nedvesen nagyon csúszhat.",
+                "ro": "Refugiați-vă de ploaie admirând vitraliile superbe; aveți mare grijă la intrare, deoarece podelele din piatră pot deveni foarte alunecoase.",
+                "en": "Marvel at the stained glass arches while completely escaping the downpour; do be cautious as the historic stone floors can be quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Saal Jean Vilar",
+                "hu": "Jean Vilar Terem",
+                "ro": "Sala Jean Vilar",
+                "en": "Jean Vilar Hall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturellen Ausstellungen im Trockenen; ein idealer und gemütlicher Ort, um sich an einem nassen Nachmittag aufzuwärmen.",
+                "hu": "Élvezze a beltéri kulturális kiállításokat, melyek tökéletes menedéket nyújtanak az eső elől; remek hely egy kis megszáradásra és pihenésre.",
+                "ro": "Bucurați-vă de expoziții culturale la interior, feriți de vremea rea; este un loc excelent și relaxant pentru a vă usca hainele.",
+                "en": "Enjoy the local cultural exhibits perfectly sheltered from the wet weather; it is an excellent and engaging spot to dry off and relax."
+              }
+            },
+            {
+              "name": {
+                "de": "Park Rocheteaux",
+                "hu": "Rocheteaux Park",
+                "ro": "Parcul Rocheteaux",
+                "en": "Rocheteaux Park"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das vom Regen erfrischte Grün des Parks, aber tragen Sie unbedingt feste Gummistiefel, da die unbefestigten Wege sehr schlammig werden.",
+                "hu": "A növényzet gyönyörű a frissítő esőben, de feltétlenül viseljen vízálló bakancsot a mély tócsák és a saras erdei ösvények miatt.",
+                "ro": "Vegetația este vibrantă în ploaie, dar purtați neapărat cizme impermeabile solide, deoarece aleile de pământ devin noroioase.",
+                "en": "Experience the vibrant greenery enhanced by the rain, but ensure you wear sturdy waterproof boots as the dirt paths will turn into thick mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Mintch-Felsen",
+                "hu": "Mintch-szikla",
+                "ro": "Stânca Mintch",
+                "en": "Mintch Rock"
+              },
+              "tip_5lang": {
+                "de": "Die neblige Aussicht ist hochdramatisch, aber bleiben Sie unbedingt vom Rand fern, da die nassen, moosigen Felsen extrem tückisch sind.",
+                "hu": "A ködös, drámai panoráma felejthetetlen, de maradjon távol a szikla peremétől, mert a nedves, mohás felület rendkívül csúszós és balesetveszélyes.",
+                "ro": "Priveliștea încețoșată este absolut dramatică, dar stați departe de margine, deoarece stâncile ude și pline de mușchi sunt extrem de alunecoase.",
+                "en": "The dramatic misty view is spectacular, but stay well back from the edge since the wet, moss-covered rocks are incredibly treacherous."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den klaren Wintermorgen im beheizten Spanischen Haus. Bewundern Sie mittags die frostige Schönheit rund um die Notre-Dame Kirche und den Saal Jean Vilar. Genießen Sie nachmittags einen zügigen Spaziergang durch den verschneiten Park Rocheteaux. Erreichen Sie den Mintch-Felsen vor dem frühen Sonnenuntergang um 17:00 Uhr für einen tollen Blick.",
+            "hu": "Indítsa a csípős téli reggelt a meleg Spanyol házban. Félidőben csodálja meg a Notre-Dame templom és a Jean Vilar Terem körüli csendes, deres tájat. Délután tegyen egy frissítő sétát a hóval borított Rocheteaux Parkban. Érjen a Mintch-sziklához a korai, 17:00 órás naplemente előtt, hogy láthassa a fagyos völgyre vetülő utolsó fényeket.",
+            "ro": "Începeți dimineața de iarnă în confortul încălzit al Casei Spaniole. La prânz, admirați frumusețea înghețată din jurul Bisericii Notre-Dame și a Sălii Jean Vilar. După-amiaza, faceți o plimbare prin Parcul Rocheteaux acoperit de zăpadă. Ajungeți la Stânca Mintch înainte de apusul timpuriu de la 17:00 pentru a vedea lumina de iarnă peste vale.",
+            "en": "Kick off a crisp winter morning inside the warmly heated Spanish House. By noon, admire the quiet, frosty beauty around the Notre-Dame Church and the cultural Jean Vilar Hall. During the afternoon, enjoy a brisk walk in the snow-dusted Rocheteaux Park. Reach Mintch Rock before the early 17:00 sunset to catch the fading winter light over the icy valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spanisches Haus",
+                "hu": "Spanyol ház",
+                "ro": "Casa Spaniolă",
+                "en": "The Spanish House"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Geschichte der Region in diesem gut beheizten Fachwerkhaus; ein idealer Ort, um gefrorene Finger schnell wieder aufzutauen.",
+                "hu": "Fedezze fel a régió történelmét ebben a fűtött, favázas épületben; tökéletes és hangulatos hely a fagyos ujjak felmelegítésére a séta elején.",
+                "ro": "Descoperiți istoria regiunii în această clădire istorică bine încălzită; un loc excelent pentru a vă dezgheța mâinile în dimineața rece.",
+                "en": "Discover the region's rich history in this warmly heated timber-framed building; it is a fantastic place to thaw your frozen fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Innere bietet einen zugluftfreien Rückzugsort, um die Architektur in aller Stille und abseits des eisigen Winterwindes zu bewundern.",
+                "hu": "A csendes belső tér huzatmentes menedéket nyújt, ahol a metsző kinti szél nélkül csodálhatja meg a hatalmas boltíveket és az üvegablakokat.",
+                "ro": "Interiorul liniștit oferă un refugiu fără curenți de aer, perfect pentru a admira arhitectura impresionantă departe de vântul tăios de iarnă.",
+                "en": "The quiet interior offers a peaceful, draft-free retreat to admire the gorgeous historic architecture entirely away from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Saal Jean Vilar",
+                "hu": "Jean Vilar Terem",
+                "ro": "Sala Jean Vilar",
+                "en": "Jean Vilar Hall"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine wohlverdiente Pause in diesem gemütlichen Kulturzentrum, um der Kälte zu entkommen, bevor es zurück in den Schnee geht.",
+                "hu": "Tartson egy jól megérdemelt pihenőt ebben a hangulatos és meleg kulturális központban, mielőtt visszatérne a havas utcákra sétálni.",
+                "ro": "Faceți o pauză bine meritată în acest centru cultural primitor și călduros pentru a scăpa de frigul aspru înainte de a ieși din nou în zăpadă.",
+                "en": "Take a well-deserved cultural break in this cozy center to completely escape the cold temperatures before heading back out into the deep snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Park Rocheteaux",
+                "hu": "Rocheteaux Park",
+                "ro": "Parcul Rocheteaux",
+                "en": "Rocheteaux Park"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch ein zauberhaftes Winterwunderland aus vereisten Bäumen; tragen Sie dicke Schichten gegen die bitteren Minusgrade.",
+                "hu": "Sétáljon a deres fák varázslatos téli csodaországában; feltétlenül öltözzön meleg rétegekbe a fagypont alatti metsző hideg ellen.",
+                "ro": "Plimbați-vă printre copacii înghețați ca într-o poveste; îmbrăcați-vă în straturi groase de lână pentru a rezista temperaturilor scăzute.",
+                "en": "Walk through a magical winter wonderland of frosted trees; make absolutely sure to dress in thick warm layers to combat the freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Mintch-Felsen",
+                "hu": "Mintch-szikla",
+                "ro": "Stânca Mintch",
+                "en": "Mintch Rock"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um den winterlichen Sonnenuntergang über der Maas zu sehen; packen Sie sich warm ein, der Wind-Chill ist eisig.",
+                "hu": "Érkezzen 16:30 előtt, hogy lássa a lenyűgöző téli naplementét a Meuse folyó felett; öltözzön fel nagyon jól, mert a szélhőmérséklet itt dermesztő.",
+                "ro": "Ajungeți înainte de 16:30 pentru a vedea apusul superb de iarnă peste râul Meuse; înfofoliți-vă bine, deoarece vântul de sus este foarte rece.",
+                "en": "Arrive before 16:30 to catch the stunning winter sunset over the Meuse river; bundle up securely as the wind chill at this elevation is severe."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a reggelt a történelmi központban, felfedezve a legfontosabb templomokat és múzeumokat. Délben tekerjen fel a hegyre a lenyűgöző sziklaképződményekhez. A délutánt az erdős hegycsúcsról nyíló panoráma határozza meg. Befejezésül guruljon le kényelmesen a város szélén található látványos gáthoz.",
         "ro": "Începeți dimineața în centrul istoric, explorând pe îndelete principalele biserici și muzee. La amiază, pedalați pe deal spre formațiuni stâncoase impresionante. După-amiaza este marcată de priveliștile panoramice de pe muntele împădurit. La final, coborâți relaxat spre barajul spectaculos de la marginea orașului.",
         "en": "Start your morning in the historic center, effortlessly exploring the main churches and local museums. At midday, pedal up the rolling hills to discover impressive rocky formations. The afternoon is defined by the panoramic views from the forested mountain peak. Finally, cruise down to the spectacular dam at the edge of the city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Radtour mit Besuchen der Notre-Dame Kirche und des Spanischen Hauses. Fahren Sie mittags vorsichtig auf nassen Wegen zum Mintch-Felsen und zum Berg Malgré-Tout. Die Nachmittagsfahrt erfordert gute Regenkleidung. Beenden Sie die Tour am Staudamm, der im abendlichen Nieselregen besonders imposant wirkt.",
+            "hu": "Kezdje esős kerékpártúráját a Notre-Dame templom és a Spanyol ház beltéri felfedezésével. Délben óvatosan haladjon a vizes utakon a Mintch-szikla és a Malgré-Tout hegy felé. A délutáni tekeréshez elengedhetetlen az esőruha és a sárvédő. Este fejezze be útját a Vízerőmű gátnál, amely lenyűgöző a szitáló esőben.",
+            "ro": "Începeți turul ploios cu bicicleta vizitând Biserica Notre-Dame și Casa Spaniolă. La prânz, pedalați cu grijă pe drumurile umede spre Stânca Mintch și Muntele Malgré-Tout. Plimbarea de după-amiază necesită pelerine de ploaie. Încheiați la Barajul hidroelectric, care arată impresionant în burnița serii.",
+            "en": "Start your rainy cycling tour with brief indoor visits to Notre-Dame Church and the Spanish House. Midday, navigate the wet paths carefully towards Mintch Rock and Mount Malgré-Tout, where misty valleys await. The afternoon ride requires solid rain gear and mudguards. Finish at the impressive Hydroelectric Dam, feeling the powerful evening drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Eine schnelle Zuflucht, um Ihre Ausrüstung zu trocknen; seien Sie besonders vorsichtig, wenn Sie mit Radschuhen auf den feuchten Steinböden gehen.",
+                "hu": "Gyors menedék a kerékpáros felszerelés szárítására; nagyon óvatosan lépkedjen a kemény stoplis cipőben a nedves, csúszós történelmi kőpadlón.",
+                "ro": "Un refugiu rapid pentru a vă usca echipamentul ud; aveți mare grijă cum pășiți cu încălțămintea de ciclism pe podelele istorice umede.",
+                "en": "A quick and dry refuge to wipe down your cycling gear; take special care when walking in cleats on the damp, historic stone floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Spanisches Haus",
+                "hu": "Spanyol ház",
+                "ro": "Casa Spaniolă",
+                "en": "The Spanish House"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr nasses Rad draußen ab und genießen Sie die trockenen Ausstellungen, während Sie den stärksten Regenschauer abwarten.",
+                "hu": "Zárja le a bringát kint az esőben, és élvezze a teljesen száraz kiállítást, amíg a legdurvább záporok biztonságosan elvonulnak a város felett.",
+                "ro": "Legați bicicleta afară și bucurați-vă de expozițiile calde și uscate în timp ce așteptați să treacă în siguranță ploaia torențială.",
+                "en": "Securely lock your wet bike outside and enjoy the dry, informative exhibits indoors while waiting out the heaviest midday rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Mintch-Felsen",
+                "hu": "Mintch-szikla",
+                "ro": "Stânca Mintch",
+                "en": "Mintch Rock"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie auf der feuchten Anfahrt frühzeitig; die Aussicht auf das neblige Tal ist fantastisch, aber die rutschigen Wege verlangen volle Konzentration.",
+                "hu": "Fékezzen időben a vizes lejtőkön; a ködös völgy látványa fantasztikus, de az erdei ösvény nagyon csúszik a kerékpár vékony gumija alatt.",
+                "ro": "Frânați devreme la coborârea umedă; priveliștile văii în ceață sunt incredibile, dar traseele sunt foarte alunecoase pentru biciclete.",
+                "en": "Brake early on the wet approach; the panoramic views of the mist-filled valley are incredible, but the cycling trails are undeniably slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Berg Malgré-Tout",
+                "hu": "Malgré-Tout hegy",
+                "ro": "Muntele Malgré-Tout",
+                "en": "Mount Malgré-Tout"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht den bewaldeten Gipfeln Dramatik; nutzen Sie unbedingt Ihre Schutzbleche, um sicher über das schlammige Terrain zu kommen.",
+                "hu": "Az eső drámaivá teszi a hegyvidéki erdőt; a sárvédő és a jó bordázatú gumi elengedhetetlen a sáros, csúszós terep biztonságos leküzdéséhez.",
+                "ro": "Ploaia adaugă dramatism pădurilor montane; folosiți neapărat apărători de noroi pentru a naviga în siguranță pe terenul alunecos și moale.",
+                "en": "The continuous rain adds drama to the forested peaks; rely heavily on your mudguards and wide tires to navigate the sloppy terrain safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm",
+                "hu": "Vízerőmű gát",
+                "ro": "Barajul hidroelectric",
+                "en": "Hydroelectric Dam"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfluss ist bei starken Regenfällen am spektakulärsten; tragen Sie gut sichtbare Regenkleidung, da die Sicht gegen Abend drastisch sinkt.",
+                "hu": "A vízáramlás heves esőzések idején a leglátványosabb; feltétlenül viseljen élénk, láthatósági esőruhát, mert a szürkületben a látótávolság lecsökken.",
+                "ro": "Debitul apei este de-a dreptul spectaculos pe ploaie; purtați pelerine reflectorizante, deoarece vizibilitatea scade periculos odată cu seara.",
+                "en": "The roaring water flow is most spectacular during heavy rains; ensure you wear high-vis waterproofs as road visibility drops sharply towards evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Morgenfahrt beginnt an der Notre-Dame Kirche und dem Spanischen Haus, um sich aufzuwärmen. Meistern Sie mittags die eisigen Anstiege zum Mintch-Felsen und zum Berg Malgré-Tout. Halten Sie nachmittags ein zügiges Tempo, um der Kälte zu trotzen. Erreichen Sie den Staudamm vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A fagyos reggeli tekerés a Notre-Dame templomnál és a Spanyol háznál indul, hogy átmelegedjen. Délben küzdjön meg a jeges emelkedőkkel a Mintch-szikla és a Malgré-Tout hegy felé. Délután tartson egyenletes tempót a hideg ellen. Érjen a gáthoz a 17:00 órás naplemente előtt, és ügyeljen a fekete jégre.",
+            "ro": "O dimineață geroasă începe la Biserica Notre-Dame și Casa Spaniolă pentru a vă încălzi. La prânz, urcați pantele înghețate spre Stânca Mintch și Muntele Malgré-Tout. După-amiaza, mențineți un ritm constant pentru a vă proteja de frig. Ajungeți la Baraj înainte de apusul de la 17:00, atenție la gheața neagră.",
+            "en": "A frosty morning ride begins at Notre-Dame Church and the Spanish House to keep your core warm. Around midday, tackle the crisp, icy ascents to Mintch Rock and Mount Malgré-Tout for clear, snowy views. During the afternoon, keep a steady pace to fend off the cold. Reach the Hydroelectric Dam before the 17:00 sunset, watching out for black ice."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kurz ein, um dem eisigen Fahrtwind zu entkommen, bevor Sie wieder in den Sattel steigen; die Stille hier ist sehr beruhigend.",
+                "hu": "Lépjen be egy percre a fagyos menetszél elől, mielőtt újra a hideg nyeregbe pattan; a benti fenséges csend nagyon megnyugtató a túra elején.",
+                "ro": "Intrați pentru scurt timp pentru a scăpa de vântul înghețat înainte de a vă urca din nou în șa; liniștea din interior este extrem de calmantă.",
+                "en": "Step quickly inside to escape the freezing wind chill before hopping back onto your saddle; the absolute quiet inside is quite calming."
+              }
+            },
+            {
+              "name": {
+                "de": "Spanisches Haus",
+                "hu": "Spanyol ház",
+                "ro": "Casa Spaniolă",
+                "en": "The Spanish House"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Stopp am Vormittag zum Aufwärmen; trinken Sie in der Nähe etwas Heißes, bevor Sie sich wieder auf den eiskalten Fahrradrahmen setzen.",
+                "hu": "Remek délelőtti megálló az alapos felmelegedésre; igyon egy forró teát a közelben, mielőtt visszaülne a jéghideg kerékpárra a hosszú mászás előtt.",
+                "ro": "O oprire excelentă dimineața pentru a vă încălzi bine; beți ceva fierbinte în apropiere înainte de a vă întoarce pe bicicleta rece ca gheața.",
+                "en": "A highly recommended mid-morning stop to thaw out; grab a warm drink nearby before braving the elements and getting back onto your cold bike frame."
+              }
+            },
+            {
+              "name": {
+                "de": "Mintch-Felsen",
+                "hu": "Mintch-szikla",
+                "ro": "Stânca Mintch",
+                "en": "Mintch Rock"
+              },
+              "tip_5lang": {
+                "de": "Der frostige Aufstieg wird Sie ins Schwitzen bringen; ziehen Sie sich oben jedoch blitzschnell warm an, um in der Winterluft nicht auszukühlen.",
+                "hu": "A jeges és meredek mászás megizzasztja, de a tetőre érve öltözzön fel gyorsan, hogy elkerülje az izzadt test hirtelen lehűlését a téli szélben.",
+                "ro": "Urcușul greu și geros vă va face să transpirați, dar îmbrăcați-vă rapid odată ajunși sus pentru a nu răci deloc în aerul tăios de iarnă.",
+                "en": "The rigorous frosty climb will make you sweat, but bundle up quickly at the exposed top to completely avoid chilling in the bitter winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Berg Malgré-Tout",
+                "hu": "Malgré-Tout hegy",
+                "ro": "Muntele Malgré-Tout",
+                "en": "Mount Malgré-Tout"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei der steilen Abfahrt auf gefährliches Blitzeis in schattigen Kurven; die schneebedeckten Bäume bieten ein unberührtes Panorama.",
+                "hu": "Lefelé fokozottan vigyázzon a fekete jégre az árnyékos kanyarokban; cserébe a hófedte fák csodálatos, érintetlen téli panorámát nyújtanak.",
+                "ro": "Atenție mare la gheața neagră din curbele umbrite în timpul coborârii; copacii înzăpeziți vă oferă o panoramă pură și extrem de satisfăcătoare.",
+                "en": "Watch closely for invisible black ice on shaded corners during the descent; the snow-capped trees offer a highly rewarding, pristine panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm",
+                "hu": "Vízerőmű gát",
+                "ro": "Barajul hidroelectric",
+                "en": "Hydroelectric Dam"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft unbedingt bis 15:30 Uhr vor der Dämmerung; die industrielle Architektur wirkt im kalten Zwielicht absolut beeindruckend.",
+                "hu": "Tervezzen 15:30-as érkezést a rendkívül korai sötétedés előtt; a masszív ipari építészet lenyűgöző és kissé rideg a kék téli alkonyatban.",
+                "ro": "Ajungeți neapărat până la 15:30, înainte de lăsarea timpurie a serii; arhitectura industrială masivă arată uimitor în crepusculul rece de iarnă.",
+                "en": "Plan to arrive confidently by 15:30 before the early dusk settles; the massive industrial architecture looks striking against the blue winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "A nap kényelmesen indul a városközpontban, a lenyűgöző múzeum és a történelmi templom meglátogatásával. Délben autózzon fel az Ardennekbe a lélegzetelállító természeti élményekért. Délután fedezzen fel egy eldugott templomot a külvárosban. A tökéletes befejezést a gát hatalmas mérnöki csodájának látványa nyújtja.",
         "ro": "Ziua începe confortabil în centrul orașului cu o vizită la muzeul fascinant și biserica istorică. La amiază, conduceți sus în Ardeni pentru experiențe naturale uluitoare. După-amiaza, descoperiți o biserică ascunsă în suburbii. Finalul perfect este oferit de vederea asupra ingineriei masive a barajului în lumina după-amiezii.",
         "en": "Your day begins comfortably in the town core with visits to the fascinating local museum and historic church. By midday, drive up into the Ardennes for breathtaking natural experiences. In the afternoon, discover a quiet, hidden church in the suburbs. The perfect ending is the sight of the massive dam engineering in the late light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Fahrt mit den Innenräumen des Spanischen Hauses. Parken Sie mittags nahe der Notre-Dame Kirche und dem Berg Malgré-Tout und genießen Sie die neblige Szenerie aus dem trockenen Auto. Erkunden Sie nachmittags die St. Peter Kirche. Beenden Sie den Tag am Staudamm und beobachten Sie den vom Regen angeschwollenen Fluss.",
+            "hu": "Kezdje esős autós túráját a Spanyol ház beltéri kiállításainál. Délben parkoljon le a Notre-Dame templom és a Malgré-Tout hegy közelében, és élvezze a ködös tájat a száraz autóból. Délután fedezze fel a Szent Péter templomot, amely tökéletes menedék. Este csodálja meg a gátnál a megáradt, hömpölygő folyót.",
+            "ro": "Începeți traseul ploios vizitând interiorul Casei Spaniole. La prânz, parcați lângă Biserica Notre-Dame și Muntele Malgré-Tout, admirând peisajul cețos din confortul mașinii. După-amiaza, explorați Biserica Sfântul Petru, un adăpost perfect. Seara, încheiați la Baraj, observând râul umflat de ploi.",
+            "en": "Start your rainy drive by visiting the indoor exhibits at the Spanish House. By noon, park near the Notre-Dame Church and Mount Malgré-Tout, enjoying the dramatic misty scenery from the dry comfort of your car. In the afternoon, explore the Saint-Pierre Church, a perfect shelter. Conclude the evening at the Hydroelectric Dam, witnessing the powerful, rain-swollen river."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spanisches Haus",
+                "hu": "Spanyol ház",
+                "ro": "Casa Spaniolă",
+                "en": "The Spanish House"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich und huschen Sie schnell hinein, um die historischen Displays zu genießen, ohne völlig durchnässt zu werden.",
+                "hu": "Parkoljon minél közelebb, és siessen befelé az ajtón, hogy elázás nélkül, kényelmesen élvezhesse a gazdag helyi történelmi tárlatot.",
+                "ro": "Parcați cât mai aproape posibil și fugiți repede înăuntru pentru a vă bucura de exponatele istorice fără a vă uda complet hainele.",
+                "en": "Park as closely as possible and safely dash inside to enjoy the detailed historical displays without getting entirely soaked by the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen großen Regenschirm im Kofferraum bereit für den kurzen, aber oft nassen Weg vom Parkplatz zu diesem schönen Heiligtum.",
+                "hu": "Tartson egy nagy esernyőt a csomagtartóban a parkolótól a gyönyörű kőtemplomig tartó rövid, de a nyílt téren garantáltan vizes sétához.",
+                "ro": "Păstrați o umbrelă mare la îndemână în portbagaj pentru scurta plimbare de la zona de parcare până la acest frumos sanctuar din piatră.",
+                "en": "Keep a large umbrella handy in your trunk for the short, exposed walk from the parking lot directly to this beautifully preserved stone sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Berg Malgré-Tout",
+                "hu": "Malgré-Tout hegy",
+                "ro": "Muntele Malgré-Tout",
+                "en": "Mount Malgré-Tout"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den rutschigen Bergstraßen; der Blick aus dem warmen Auto über das stark vernebelte Tal ist stimmungsvoll und sicher.",
+                "hu": "Vezessen nagyon óvatosan a kanyargós, csúszós hegyi utakon; a gomolygó ködös völgy látványa a fűtött, száraz autóból nézve felejthetetlen.",
+                "ro": "Conduceți cu multă grijă pe drumurile montane alunecoase; priveliștea văii cețoase admirată din siguranța mașinii calde este cu adevărat superbă.",
+                "en": "Drive carefully on the winding, slick mountain roads; the dramatic view from the warm, dry car over the fog-filled valley is safely moody."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Peter Kirche",
+                "hu": "Szent Péter templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus dem Regen in das trockene, friedliche Kirchenschiff, um die Kunst zu bewundern; wischen Sie Ihre nassen Schuhe am Eingang gut ab.",
+                "hu": "Lépjen be a szakadó esőből a száraz, békés hajóba a műalkotásokért; gondosan törölje le nedves cipőjét a bejáratnál található lábtörlőn.",
+                "ro": "Refugiați-vă din ploaie în naosul uscat și liniștit pentru a admira arta interioară; ștergeți-vă cu atenție încălțămintea udă direct la intrare.",
+                "en": "Step completely out of the rain into the dry, peaceful nave to admire the artwork; please wipe your wet shoes thoroughly at the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm",
+                "hu": "Vízerőmű gát",
+                "ro": "Barajul hidroelectric",
+                "en": "Hydroelectric Dam"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den beeindruckenden, vom Regen genährten Wasserablass bequem und trocken direkt vom Parkplatz aus, um schlammige Wege zu meiden.",
+                "hu": "Figyelje meg az esőtől duzzadó, hatalmas erejű vízkibocsátást egyenesen a kényelmes parkolóból, teljesen elkerülve a saras parti ösvényeket.",
+                "ro": "Observați debitul impresionant al apei alimentate de ploaie direct și confortabil din zona de parcare, evitând astfel complet aleile noroioase.",
+                "en": "Safely observe the highly impressive, rain-fed water release right from the comfort of the paved parking area, completely avoiding the muddy pathways."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Winter-Roadtrip am Spanischen Haus. Drehen Sie mittags die Heizung auf, während Sie zwischen der Notre-Dame Kirche und den verschneiten Gipfeln des Malgré-Tout fahren. Verbringen Sie den Nachmittag in der St. Peter Kirche. Erreichen Sie den Staudamm bis 16:30 Uhr, bevor der Sonnenuntergang die Straßen gefrieren lässt.",
+            "hu": "Indítsa a téli autózást a fűtött Spanyol háznál. Délben tekerje fel a fűtést, miközben a Notre-Dame templom és a Malgré-Tout hegy havas csúcsai között vezet. A délutánt töltse a csendes Szent Péter templomban. Érjen a gáthoz 16:30-ra, jóval a korai sötétedés és az utak lejegesedése előtt.",
+            "ro": "Începeți excursia de iarnă la Casa Spaniolă. La prânz, porniți căldura în mașină conducând între Biserica Notre-Dame și vârfurile înzăpezite ale Muntelui Malgré-Tout. După-amiaza, vizitați Biserica Sfântul Petru. Ajungeți la Baraj până la 16:30, înainte ca drumurile să înghețe odată cu apusul.",
+            "en": "Kick off your winter road trip at the beautifully preserved Spanish House. Midday, turn up the car heater as you drive between the Notre-Dame Church and the snowy peaks of Mount Malgré-Tout. Spend the afternoon admiring the quiet beauty of Saint-Pierre Church. Ensure you reach the Hydroelectric Dam by 16:30, well before the early sunset freezes the roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spanisches Haus",
+                "hu": "Spanyol ház",
+                "ro": "Casa Spaniolă",
+                "en": "The Spanish House"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar warmer erster Stopp; stellen Sie sicher, dass Ihre Frontscheibe vollständig abgetaut ist, bevor Sie auf den frostigen Straßen fahren.",
+                "hu": "Csodásan meleg első megálló; indulás előtt mindenképpen győződjön meg róla, hogy az autó szélvédője teljesen jégmentes a fagyos reggeli utakon.",
+                "ro": "O primă oprire extrem de caldă și plăcută; asigurați-vă că parbrizul este complet dezghețat înainte de a porni la drum pe străzile înghețate.",
+                "en": "A wonderfully warm and historic first stop; critically ensure your windshield is fully defrosted before driving onto the frosty morning roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist recht kühl, behalten Sie Ihre dicke Winterjacke an; parken Sie nach Möglichkeit in der Sonne, um das Auto angenehm warm zu halten.",
+                "hu": "A belső tér meglehetősen hűvös, így hagyja magán a vastag télikabátot; ha lehet, parkoljon napos helyen, hogy a jármű utastere meleg maradjon.",
+                "ro": "Interiorul este destul de răcoros, deci păstrați haina groasă de iarnă pe dumneavoastră; dacă e posibil, parcați la soare pentru a menține mașina caldă.",
+                "en": "The grand interior is very chilly, so absolutely keep your winter coat on; try to park in a sunny spot if possible to keep the car's cabin warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Berg Malgré-Tout",
+                "hu": "Malgré-Tout hegy",
+                "ro": "Muntele Malgré-Tout",
+                "en": "Mount Malgré-Tout"
+              },
+              "tip_5lang": {
+                "de": "Winterreifen sind für diesen verschneiten Aufstieg unerlässlich; genießen Sie die majestätischen, frostigen Bäume aus der Sicherheit Ihres beheizten Autos.",
+                "hu": "A havas emelkedőn a téli gumi használata elengedhetetlen; csodálja meg a fenséges, deres fákat a maximálisan fűtött járműve kényelméből.",
+                "ro": "Anvelopele de iarnă sunt absolut esențiale pentru acest urcuș; admirați copacii majestuoși și înghețați din siguranța mașinii dumneavoastră încălzite.",
+                "en": "High-quality winter tires are absolutely essential for this snowy ascent; boldly enjoy the majestic, frost-covered trees from your safely heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Peter Kirche",
+                "hu": "Szent Péter templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das vereiste Pflaster, das direkt zum Eingang führt; die stille winterliche Atmosphäre im Inneren ist im Anschluss tief entspannend.",
+                "hu": "Nagyon vigyázzon a fekete jéggel a bejárathoz vezető rövid járdán; a benti csendes, védett téli hangulat cserébe rendkívül megnyugtató lesz.",
+                "ro": "Atenție mare la gheața de pe trotuarul care duce exact spre intrare; atmosfera liniștită și solemnă de iarnă din interior este profund relaxantă.",
+                "en": "Carefully watch your step on the icy pavement leading directly to the entrance; the uniquely quiet winter atmosphere inside is deeply relaxing."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm",
+                "hu": "Vízerőmű gát",
+                "ro": "Barajul hidroelectric",
+                "en": "Hydroelectric Dam"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Ort vor dem Sonnenuntergang um 17:00 Uhr; der eisige Stausee ist toll, aber die schattigen Zufahrtsstraßen werden schnell spiegelglatt.",
+                "hu": "Látogasson el ide a 17:00 órás sötétedés előtt; a jeges víztározó lenyűgöző látvány, de a meredek bekötőutak alkonyatkor életveszélyesen csúsznak.",
+                "ro": "Vizitați neapărat înainte de apusul de la 17:00; lacul de acumulare înghețat este superb, dar drumurile de acces pot deveni foarte alunecoase la crepuscul.",
+                "en": "Plan to visit well before the 17:00 sunset; the icy reservoir looks stunning, but the shaded access roads can get dangerously slippery at dusk."
+              }
+            }
+          ]
+        }
       }
     }
   }

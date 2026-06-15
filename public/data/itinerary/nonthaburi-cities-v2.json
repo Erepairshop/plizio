@@ -137,6 +137,168 @@
         "hu": "A reggel a nyüzsgő, kereskedelemmel teli Nonthaburi piacon kezdődik.\n\nEzután a békés Wat Bang Kwang templomhoz látogatunk a szép kontrasztért.\n\nDélben felfedezzük a Wat Thinnakorn Nimit lenyűgöző falfestményeit.\n\nDélután a Wat Bang Phreak Tai felé sétálunk, majd a díszes Wat Bang Phreak Naue templomnál zárjuk utunkat.",
         "ro": "Dimineața începe la animata Piață Nonthaburi, plină de comerț local.\n\nApoi vizităm pașnicul Wat Bang Kwang pentru un contrast relaxant.\n\nLa prânz, explorăm picturile murale magnifice de la Wat Thinnakorn Nimit.\n\nDupă-amiaza ne plimbăm spre Wat Bang Phreak Tai și încheiem la frumosul și ornamentatul Wat Bang Phreak Naue.",
         "en": "Morning starts at the bustling Nonthaburi Market, alive with local commerce.\n\nWe then visit Wat Bang Kwang for a peaceful contrast.\n\nMidday shifts to exploring the beautiful murals of Wat Thinnakorn Nimit.\n\nIn the afternoon, we stroll towards Wat Bang Phreak Tai and conclude at the beautifully ornate Wat Bang Phreak Naue."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie auf den überdachten Märkten, während der Regen fällt. Besuchen Sie mittags die Tempel und suchen Sie bei Schauern Schutz in den Gebetshallen. Genießen Sie nachmittags den dramatischen Himmel beim Spaziergang zwischen den restlichen Anlagen. Bringen Sie einen Regenschirm mit und tragen Sie rutschfeste Schuhe für die nassen Wege.",
+            "hu": "Kezdje a napot a piac fedett részein, miközben esik az eső. Délben látogassa meg a templomokat, és húzódjon be az imatermekbe a záporok elől. Délután élvezze a drámai eget és a friss levegőt a megmaradt szentélyek közötti sétán. Hozzon magával esernyőt, és viseljen csúszásmentes cipőt a vizes járdák miatt.",
+            "ro": "Începeți la părțile acoperite ale pieței în timp ce plouă. Vizitați templele la prânz, refugiindu-vă în sălile de rugăciune în timpul averselor. După-amiaza, bucurați-vă de cerul dramatic și de aerul proaspăt plimbându-vă între temple. Luați o umbrelă și purtați încălțăminte antiderapantă pentru pavajele umede.",
+            "en": "Start at the covered parts of the market while the rain falls. Visit the temples around noon, taking refuge in the prayer halls during heavy showers. In the afternoon, enjoy the dramatic skies and fresh air as you walk between the remaining temples. Bring an umbrella and wear slip-resistant shoes for the wet pavements."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nonthaburi Market",
+                "hu": "Nonthaburi Piac",
+                "ro": "Piața Nonthaburi",
+                "en": "Nonthaburi Market"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die überdachten Bereiche, um trocken zu bleiben, und tragen Sie rutschfeste Schuhe.",
+                "hu": "Fedezze fel a fedett részeket, hogy száraz maradjon, és mindenképp csúszásmentes cipőt viseljen.",
+                "ro": "Explorați secțiunile acoperite pentru a rămâne uscat și purtați pantofi cu talpă antiderapantă.",
+                "en": "Explore the vibrant covered sections to stay dry while observing local life, and wear non-slip shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Kwang",
+                "hu": "Wat Bang Kwang",
+                "ro": "Wat Bang Kwang",
+                "en": "Wat Bang Kwang"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details im Inneren, die einen ruhigen und trockenen Rückzugsort vor Schauern bieten.",
+                "hu": "Csodálja meg a belső részleteket, amelyek békés és száraz menedéket nyújtanak a záporok elől.",
+                "ro": "Admirați detaliile interioare care oferă un refugiu pașnic și uscat departe de ploaia bruscă.",
+                "en": "Admire the temple's intricate interior details, which offer a peaceful and dry retreat from showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Thinnakorn Nimit",
+                "hu": "Wat Thinnakorn Nimit",
+                "ro": "Wat Thinnakorn Nimit",
+                "en": "Wat Thinnakorn Nimit"
+              },
+              "tip_5lang": {
+                "de": "Konzentrieren Sie sich auf die Schreine im Inneren und lauschen Sie dem beruhigenden Regen.",
+                "hu": "Fókuszáljon a gyönyörű beltéri szentélyekre, és hallgassa a megnyugtató esőcseppeket odabent.",
+                "ro": "Concentrați-vă pe altarele interioare și meditați în timp ce ascultați sunetul ploii liniștitoare.",
+                "en": "Focus on the beautiful indoor shrines, taking time to meditate while listening to the soothing rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Phreak Tai",
+                "hu": "Wat Bang Phreak Tai",
+                "ro": "Wat Bang Phreak Tai",
+                "en": "Wat Bang Phreak Tai"
+              },
+              "tip_5lang": {
+                "de": "Die Nässe lässt die Farben leuchten; halten Sie den Schirm bereit, wenn Sie die Gebäude wechseln.",
+                "hu": "A vizes talaj kiemeli a színeket; tartsa kéznél az esernyőt, amíg az épületek között sétál.",
+                "ro": "Pământul umed accentuează culorile; țineți umbrela la îndemână mișcându-vă între clădiri.",
+                "en": "The wet grounds make the temple colors pop, so keep an umbrella handy while moving between buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Phreak Naue",
+                "hu": "Wat Bang Phreak Naue",
+                "ro": "Wat Bang Phreak Naue",
+                "en": "Wat Bang Phreak Naue"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Spaziergang in der Haupthalle und entspannen Sie sich im Trockenen.",
+                "hu": "Fejezze be a sétát a főcsarnokban, ahol kényelemben pihenhet, mielőtt újra kilépne az esőbe.",
+                "ro": "Încheiați plimbarea în sala principală, unde puteți reflecta în confort ferit de ploaie.",
+                "en": "Conclude your walk in the main hall, where you can reflect in comfort before heading out of the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen kühlen Morgen auf dem Markt. Mittags machen milde Temperaturen die Tempeltour angenehm. Nachmittags wirft das frühe Licht einen goldenen Schimmer auf die Stätten. Beenden Sie die Tour vor 17 Uhr, da es früher dunkel wird, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Élvezze a hűvös reggeli sétát a nyüzsgő piacon. Délben az enyhe hőmérséklet kényelmessé teszi a templomlátogatást. A délutáni fények korán lágyulnak, aranyos árnyalatot vetve a szent helyekre. Fejezze be a túrát 17:00 előtt a korai sötétedés miatt, és hozzon egy könnyű kabátot.",
+            "ro": "Bucurați-vă de o dimineață răcoroasă prin piață. La prânz, temperaturile blânde fac vizitarea templelor confortabilă. Lumina după-amiezii se înmoaie devreme. Terminați turul înainte de ora 17:00 deoarece se întunecă mai repede și luați o jachetă ușoară la dumneavoastră.",
+            "en": "Enjoy a cool morning walk through the bustling market. By noon, the mild temperatures make temple hopping comfortable. The afternoon light softens early, casting a golden hue over the religious sites. Finish your tour before 5 PM as it gets dark earlier, bringing a light jacket just in case."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nonthaburi Market",
+                "hu": "Nonthaburi Piac",
+                "ro": "Piața Nonthaburi",
+                "en": "Nonthaburi Market"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht das Erkunden der Stände angenehm, aber bringen Sie einen Pullover mit.",
+                "hu": "A friss reggeli levegő kellemessé teszi a kinti standok felfedezését, de hozzon egy pulóvert.",
+                "ro": "Aerul proaspăt al dimineții face explorarea tarabelor plăcută, dar luați un pulover subțire.",
+                "en": "The crisp morning air makes exploring the outdoor stalls enjoyable, but bring a light sweater."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Kwang",
+                "hu": "Wat Bang Kwang",
+                "ro": "Wat Bang Kwang",
+                "en": "Wat Bang Kwang"
+              },
+              "tip_5lang": {
+                "de": "Das milde Winterwetter ermöglicht einen gemütlichen Spaziergang durch die Außenhöfe des Tempels.",
+                "hu": "Az enyhe téli időjárás kényelmes sétát tesz lehetővé a templom gyönyörű szabadtéri udvarain.",
+                "ro": "Vremea blândă de iarnă permite o plimbare confortabilă prin curțile exterioare ale templului.",
+                "en": "The mild winter weather allows for a comfortable stroll around the temple's outdoor courtyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Thinnakorn Nimit",
+                "hu": "Wat Thinnakorn Nimit",
+                "ro": "Wat Thinnakorn Nimit",
+                "en": "Wat Thinnakorn Nimit"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Brise in den offenen Bereichen, bevor die Nachmittagsschatten länger werden.",
+                "hu": "Élvezze a hűvös szellőt a komplexum nyitott részein, mielőtt a délutáni árnyékok megnyúlnak.",
+                "ro": "Bucurați-vă de briza răcoroasă în zonele deschise înainte ca umbrele după-amiezii să se lungească.",
+                "en": "Enjoy the cool breeze in the open areas of the complex before the afternoon shadows lengthen."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Phreak Tai",
+                "hu": "Wat Bang Phreak Tai",
+                "ro": "Wat Bang Phreak Tai",
+                "en": "Wat Bang Phreak Tai"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die angenehmen Temperaturen, um die aufwendige Außenarchitektur zu erkunden.",
+                "hu": "Használja ki a kellemes hőmérsékletet a bonyolult külső építészeti részletek felfedezésére.",
+                "ro": "Profitați de temperaturile plăcute pentru a explora arhitectura exterioară complicată fără căldură.",
+                "en": "Take advantage of the pleasant temperatures to explore the intricate exterior architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Phreak Naue",
+                "hu": "Wat Bang Phreak Naue",
+                "ro": "Wat Bang Phreak Naue",
+                "en": "Wat Bang Phreak Naue"
+              },
+              "tip_5lang": {
+                "de": "Der frühe Sonnenuntergang schafft eine ruhige Atmosphäre für die letzten Momente Ihres Spaziergangs.",
+                "hu": "A korai naplemente békés atmoszférát teremt, ami tökéletes a séta utolsó pillanataihoz.",
+                "ro": "Apusul timpuriu creează o atmosferă senină aici, perfectă pentru momentele finale ale plimbării.",
+                "en": "The early sunset creates a serene atmosphere here, perfect for the final moments of your walk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpártúránk a nyüzsgő Nonthaburi piacról indul.\n\nA közeli Wat Bang Kwang és Wat Thinnakorn Nimit felé tekerünk.\n\nDélben megnézzük a folyóparti Wat Lannaboon templomot és észak felé haladunk a Wat Bang Phreak Naue felé.\n\nAz estét a Wat Samon Kot után a nyüzsgő Owl Market finom ételei koronázzák meg.",
         "ro": "Plimbarea cu bicicleta începe la Piața Nonthaburi.\n\nPedalăm spre Wat Bang Kwang și Wat Thinnakorn Nimit aflate în apropiere.\n\nLa prânz explorăm Wat Lannaboon de pe râu și mergem spre nord către Wat Bang Phreak Naue.\n\nSeara ne aduce prin Wat Samon Kot la Piața Owl pentru o masă stradală binemeritată.",
         "en": "Our bike ride starts at the vibrant Nonthaburi Market.\n\nWe pedal to the nearby Wat Bang Kwang and Wat Thinnakorn Nimit.\n\nMidday sees us exploring the riverside Wat Lannaboon and heading north to Wat Bang Phreak Naue.\n\nEvening brings us via Wat Samon Kot to the lively Owl Market for well-deserved street food."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig zum Markt und achten Sie auf Pfützen. Radeln Sie mittags zwischen den Tempeln und nutzen Sie die Hallen als Schutz. Die Nachmittagsroute bleibt trotz Regen lebhaft; nutzen Sie Ihr Fahrradlicht. Besuchen Sie abends die überdachten Stände auf dem Nachtmarkt.",
+            "hu": "Óvatosan tekerjen a piacra reggel, figyelve a csúszós tócsákra. Délben biciklizzen a templomok között, és használja az imatermeket menedékként. A délutáni útvonal az eső ellenére is élénk, csak használjon lámpát. Este érkezzen az éjszakai piacra, fókuszálva a fedett standokra.",
+            "ro": "Pedalați cu grijă dimineața spre piață, atenție la bălți. La prânz, mergeți între temple și folosiți sălile ca adăpost. Traseul de după-amiază rămâne vibrant, dar folosiți luminile bicicletei. Ajungeți la piața de noapte seara, axându-vă pe tarabele acoperite.",
+            "en": "Ride carefully to the market this morning, watching out for slippery puddles. By noon, cycle between the temples and use the prayer halls as quick shelters. The afternoon route remains vibrant despite the rain, just use your bike lights for visibility. Arrive at the night market in the evening, focusing on covered food stalls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nonthaburi Market",
+                "hu": "Nonthaburi Piac",
+                "ro": "Piața Nonthaburi",
+                "en": "Nonthaburi Market"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und durchstöbern Sie die überdachten Gänge, um dem Regen zu entgehen.",
+                "hu": "Parkolja le biztonságosan a kerékpárt, és bújjon be a fedett sorokra az eső elől.",
+                "ro": "Parcați bicicleta în siguranță și intrați pe culoarele acoperite pentru a evita ploaia.",
+                "en": "Park your bike safely and dive into the covered aisles to browse goods while dodging the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Kwang",
+                "hu": "Wat Bang Kwang",
+                "ro": "Wat Bang Kwang",
+                "en": "Wat Bang Kwang"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause im trockenen Hauptheiligtum und bewundern Sie die buddhistische Kunst.",
+                "hu": "Tartson szünetet a tekerésben a száraz főszentélyben, és csodálja meg a buddhista művészetet.",
+                "ro": "Luați o pauză de la pedalat în sanctuarul uscat și admirați măiestria tradițională budistă.",
+                "en": "Take a break from riding inside the dry main sanctuary and admire the traditional Buddhist artistry."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Thinnakorn Nimit",
+                "hu": "Wat Thinnakorn Nimit",
+                "ro": "Wat Thinnakorn Nimit",
+                "en": "Wat Thinnakorn Nimit"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf rutschige Fliesen und gehen Sie dann hinein, um die Ruhe zu genießen.",
+                "hu": "Parkoláskor ügyeljen a csúszós csempékre az udvaron, majd menjen be élvezni a nyugalmat.",
+                "ro": "Atenție la gresia alunecoasă când parcați, apoi mergeți înăuntru pentru a vă bucura de calm.",
+                "en": "Be mindful of slippery tiles in the courtyard as you park, then head inside to enjoy the calm."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Lannaboon",
+                "hu": "Wat Lannaboon",
+                "ro": "Wat Lannaboon",
+                "en": "Wat Lannaboon"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die breiten Vordächer des Tempels als Schutz, falls Sie ein plötzlicher Schauer überrascht.",
+                "hu": "Használja a templom széles, kinyúló tetőit menedékként, ha hirtelen zápor csapna le parkolás közben.",
+                "ro": "Folosiți acoperișurile late ale templului pentru adăpost dacă vă prinde o ploaie bruscă.",
+                "en": "Use the temple's wide overhanging roofs for shelter if a sudden shower hits while parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Phreak Naue",
+                "hu": "Wat Bang Phreak Naue",
+                "ro": "Wat Bang Phreak Naue",
+                "en": "Wat Bang Phreak Naue"
+              },
+              "tip_5lang": {
+                "de": "Der Regen bringt eine ruhige Atmosphäre und bietet eine entspannende Pause während der Fahrt.",
+                "hu": "Az eső csendes hangulatot kölcsönöz a templomnak, pihentető beltéri szünetet nyújtva.",
+                "ro": "Ploaia aduce o ambianță liniștită aici, oferind o pauză de relaxare în interior.",
+                "en": "The rain brings a quiet ambiance to this temple, offering a relaxing indoor break during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Samon Kot",
+                "hu": "Wat Samon Kot",
+                "ro": "Wat Samon Kot",
+                "en": "Wat Samon Kot"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Wegen hierher und trocknen Sie sich drinnen ab.",
+                "hu": "Tekerjen óvatosan az ide vezető vizes utakon, és száradjon meg odabent a szobrokat nézve.",
+                "ro": "Pedalați cu grijă pe cărările umede până aici și uscați-vă înăuntru privind statuile.",
+                "en": "Cycle carefully on the wet paths leading here, and dry off inside while observing the statues."
+              }
+            },
+            {
+              "name": {
+                "de": "The Owl Market",
+                "hu": "The Owl Market",
+                "ro": "The Owl Market",
+                "en": "The Owl Market"
+              },
+              "tip_5lang": {
+                "de": "Konzentrieren Sie sich auf die Zeltbereiche und tragen Sie einen Regenmantel in der Abendmenge.",
+                "hu": "Fókuszáljon a sátras részekre a szárazságért, és viseljen esőkabátot a tömegben.",
+                "ro": "Concentrați-vă pe zonele cu corturi pentru a rămâne uscat și purtați pelerină de ploaie.",
+                "en": "Focus on the tented areas to stay dry, and wear a raincoat as you navigate the evening crowds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine kühle Morgenbrise macht die Radfahrt zum Markt erfrischend. Mittags können Sie ohne die übliche tropische Hitze radeln. Am späten Nachmittag sorgt die frühe goldene Stunde für schönes Licht. Erreichen Sie den Nachtmarkt in der Dämmerung gegen 17 Uhr mit einer zusätzlichen Schicht.",
+            "hu": "A friss reggeli szellő hihetetlenül frissítővé teszi a biciklizést a piacra. Délben a trópusi hőség nélkül, kényelmesen tekerhet. Késő délután az aranyóra korán érkezik, gyönyörű fényeket adva az útnak. Érkezzen az éjszakai piacra 17:00 körül egy extra réteg ruhában.",
+            "ro": "Briza proaspătă face plimbarea matinală cu bicicleta revigorantă. La prânz, puteți pedala fără epuizarea tropicală obișnuită. După-amiaza târziu, ora de aur ajunge devreme, oferind lumină frumoasă. Ajungeți la piața de noapte în jur de ora 17:00 cu o haină mai groasă.",
+            "en": "A crisp morning breeze makes the bike ride to the market incredibly refreshing. Around midday, you can comfortably cycle without the usual tropical exhaustion. In the late afternoon, the golden hour arrives early, providing beautiful lighting for your route. Reach the night market as dusk settles around 5 PM, wearing an extra layer."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nonthaburi Market",
+                "hu": "Nonthaburi Piac",
+                "ro": "Piața Nonthaburi",
+                "en": "Nonthaburi Market"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Fahrt in der erfrischenden Kühle, so lassen sich die Stände gut erkunden.",
+                "hu": "Kezdje a túrát a frissítő reggeli hűvösben, így könnyen navigálhat a forgalmas standok között.",
+                "ro": "Începeți plimbarea în răcoarea dimineții, facilitând navigarea printre tarabele aglomerate.",
+                "en": "Start your ride in the refreshing morning coolness, making it easy to navigate the busy stalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Kwang",
+                "hu": "Wat Bang Kwang",
+                "ro": "Wat Bang Kwang",
+                "en": "Wat Bang Kwang"
+              },
+              "tip_5lang": {
+                "de": "Das milde Wetter ist ideal, um das Rad stehen zu lassen und die Außendekorationen zu erkunden.",
+                "hu": "Az enyhe időjárás ideális arra, hogy letéve a biciklit felfedezze a külső dekorációkat.",
+                "ro": "Vremea blândă este ideală pentru a lăsa bicicleta și a explora decorațiunile exterioare.",
+                "en": "The mild weather is ideal for leaving your bike to explore the temple's detailed exterior decorations."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Thinnakorn Nimit",
+                "hu": "Wat Thinnakorn Nimit",
+                "ro": "Wat Thinnakorn Nimit",
+                "en": "Wat Thinnakorn Nimit"
+              },
+              "tip_5lang": {
+                "de": "Das Radfahren ist heute schweißfrei, also nehmen Sie sich Zeit für die friedlichen Höfe.",
+                "hu": "A biciklizés ma izzadtságmentes, ezért szánjon időt a békés udvarok bejárására.",
+                "ro": "Ciclismul e fără transpirație azi, așa că luați-vă timp plimbându-vă prin curțile pașnice.",
+                "en": "Cycling here is sweat-free today, so take your time walking through the peaceful courtyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Lannaboon",
+                "hu": "Wat Lannaboon",
+                "ro": "Wat Lannaboon",
+                "en": "Wat Lannaboon"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die angenehmen Außentemperaturen, während Sie die Architektur bewundern.",
+                "hu": "Élvezze a kellemes kinti hőmérsékletet, miközben megcsodálja a hagyományos építészetet.",
+                "ro": "Bucurați-vă de temperaturile exterioare plăcute în timp ce admirați arhitectura tradițională.",
+                "en": "Enjoy the pleasant outdoor temperatures as you admire the traditional architecture and grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Phreak Naue",
+                "hu": "Wat Bang Phreak Naue",
+                "ro": "Wat Bang Phreak Naue",
+                "en": "Wat Bang Phreak Naue"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Nachmittagsluft macht die Weiterreise bei weichem Sonnenlicht sehr angenehm.",
+                "hu": "A hűvösebb délutáni levegő élvezetessé teszi a továbbútat a lágy napfényben.",
+                "ro": "Aerul mai rece de după-amiază face călătoria foarte plăcută, cu lumina blândă a soarelui.",
+                "en": "The cooler afternoon air makes the onward journey highly enjoyable, with soft sunlight lighting the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Samon Kot",
+                "hu": "Wat Samon Kot",
+                "ro": "Wat Samon Kot",
+                "en": "Wat Samon Kot"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie an, wenn das frühe Abendlicht schwindet und dem Tempel eine magische Atmosphäre verleiht.",
+                "hu": "Érkezzen, amikor a korai esti fények halványulni kezdenek, varázslatos hangulatot teremtve.",
+                "ro": "Ajungeți când lumina de seară timpurie începe să dispară, adăugând o atmosferă magică templului.",
+                "en": "Arrive as the early evening light begins to fade, adding a magical atmosphere to the temple."
+              }
+            },
+            {
+              "name": {
+                "de": "The Owl Market",
+                "hu": "The Owl Market",
+                "ro": "The Owl Market",
+                "en": "The Owl Market"
+              },
+              "tip_5lang": {
+                "de": "Durch den frühen Sonnenuntergang erwacht der Markt früher; bringen Sie eine leichte Jacke mit.",
+                "hu": "A korai naplemente miatt az éjszakai piac hamarabb életre kel, hozzon egy könnyű kabátot.",
+                "ro": "Apusul devreme înseamnă că piața se animă mai repede, luați o jachetă pentru răcoare.",
+                "en": "The early sunset means the night market comes alive sooner, so bring a light jacket for the chill."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Az autós túra a Wat Phuttha Panya templomnál indul, majd a Wat Lannaboon felé megyünk.\n\nDélben a Wat Thinnakorn Nimit és a Nonthaburi piac következik.\n\nDélután a Wat Bang Kwang, a Wat Bang Phreak Naue és a Wat Samon Kot vár ránk.\n\nSötétedéskor érkezünk a hatalmas Owl Marketbe egy ízletes vacsorára és vásárlásra.",
         "ro": "Începem la Wat Phuttha Panya și conducem la Wat Lannaboon.\n\nLa prânz vizităm Wat Thinnakorn Nimit și istorica Piață Nonthaburi.\n\nDupă-amiaza ne duce la Wat Bang Kwang, Wat Bang Phreak Naue și Wat Samon Kot.\n\nLa lăsarea serii, ajungem la imensa Piață Owl pentru a ne bucura de cumpărături și de o cină delicioasă.",
         "en": "We kick off at the serene Wat Phuttha Panya and drive to Wat Lannaboon.\n\nMidday features visits to Wat Thinnakorn Nimit and the historic Nonthaburi Market.\n\nThe afternoon takes us to Wat Bang Kwang, Wat Bang Phreak Naue, and Wat Samon Kot.\n\nAs dusk falls, we arrive at the sprawling Owl Market for shopping and dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens bequem durch Regenschauer zu den Tempeln. Parken Sie mittags nahe den Eingängen und nutzen Sie einen Regenschirm. Die Nachmittagsfahrt durch regengewaschene Straßen ist malerisch, auch wenn der Verkehr langsamer ist. Beenden Sie den Tag auf dem Nachtmarkt in den überdachten Bereichen.",
+            "hu": "Vezessen kényelmesen a reggeli záporokban az első beltéri templomi látogatásokhoz. Délben parkoljon közel a bejáratokhoz, és használjon esernyőt az autó és a csarnokok között. A délutáni autózás festői a mocsoktalanított utcákon, bár a forgalom lassabb lehet. Zárjon az éjszakai piac fedett részein.",
+            "ro": "Conduceți confortabil prin ploile de dimineață către primele temple. La prânz, parcați aproape de intrări și folosiți o umbrelă până la sălile sacre. Plimbarea de după-amiază este pitorească pe străzile spălate de ploaie, deși traficul e lent. Încheiați la piața de noapte în zonele acoperite.",
+            "en": "Drive comfortably through the morning showers to your first indoor temple visits. At noon, park close to the entrances and use an umbrella to transition between your car and the sacred halls. The afternoon drive is scenic with rain-washed streets, though traffic might be slower. Conclude at the night market's covered zones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Phuttha Panya",
+                "hu": "Wat Phuttha Panya",
+                "ro": "Wat Phuttha Panya",
+                "en": "Wat Phuttha Panya"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nahe dem Eingang, um trocken zu bleiben, und bewundern Sie die ruhige Gebetshalle.",
+                "hu": "Parkoljon a bejárat közelében, hogy száraz maradjon, és egyből az imatermet csodálja meg.",
+                "ro": "Parcați aproape de intrare pentru a rămâne uscat și admirați sala de rugăciune senină.",
+                "en": "Park near the entrance to stay dry and head straight inside to admire the serene prayer hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Lannaboon",
+                "hu": "Wat Lannaboon",
+                "ro": "Wat Lannaboon",
+                "en": "Wat Lannaboon"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Regenschirm für den kurzen Weg zum Hauptgebäude bereit.",
+                "hu": "Tartson esernyőt az autóban a főépülethez vezető rövid sétához, amely száraz menedéket nyújt.",
+                "ro": "Păstrați o umbrelă în mașină pentru scurta plimbare spre clădirea principală uscată.",
+                "en": "Keep an umbrella in your car for the short walk to the main building, which offers a dry retreat."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Thinnakorn Nimit",
+                "hu": "Wat Thinnakorn Nimit",
+                "ro": "Wat Thinnakorn Nimit",
+                "en": "Wat Thinnakorn Nimit"
+              },
+              "tip_5lang": {
+                "de": "Das Geräusch des Regens auf dem Dach verstärkt die friedliche Atmosphäre im Inneren.",
+                "hu": "Az eső kopogása a tetőn fokozza a békés hangulatot, miközben odabent felfedez.",
+                "ro": "Sunetul ploii pe acoperișul templului sporește atmosfera pașnică explorând interiorul.",
+                "en": "The sound of rain on the temple roof enhances the peaceful atmosphere while you explore inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Nonthaburi Market",
+                "hu": "Nonthaburi Piac",
+                "ro": "Piața Nonthaburi",
+                "en": "Nonthaburi Market"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie nahegelegene Parkplätze und konzentrieren Sie sich auf die überdachten Marktbereiche.",
+                "hu": "Használja a közeli parkolót, és fókuszáljon a fedett piaci részekre a záporok elkerüléséért.",
+                "ro": "Folosiți parcarea din apropiere și concentrați-vă pe secțiunile acoperite pentru a evita ploaia.",
+                "en": "Utilize the nearby parking and focus on the deep, covered market sections to avoid heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Kwang",
+                "hu": "Wat Bang Kwang",
+                "ro": "Wat Bang Kwang",
+                "en": "Wat Bang Kwang"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort Ihres Autos, bevor Sie aussteigen, um die Wandmalereien zu sehen.",
+                "hu": "Élvezze a száraz autó kényelmét, mielőtt kiszállna megnézni a bonyolult beltéri falfestményeket.",
+                "ro": "Bucurați-vă de confortul mașinii înainte de a ieși să vedeți picturile murale interioare.",
+                "en": "Enjoy the comfort of your dry car before stepping out to see the intricate indoor murals here."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Phreak Naue",
+                "hu": "Wat Bang Phreak Naue",
+                "ro": "Wat Bang Phreak Naue",
+                "en": "Wat Bang Phreak Naue"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit im Hauptheiligtum und lassen Sie den Regen vor der Weiterfahrt vorüberziehen.",
+                "hu": "Szánjon időt a főszentélyre, és várja meg, amíg az eső eláll a továbbindulás előtt.",
+                "ro": "Luați-vă timp în sanctuarul principal lăsând ploaia să treacă înainte de a conduce mai departe.",
+                "en": "Take your time inside the main sanctuary, letting the rain pass before driving to the next spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Samon Kot",
+                "hu": "Wat Samon Kot",
+                "ro": "Wat Samon Kot",
+                "en": "Wat Samon Kot"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Böden spiegeln sich schön; Vorsicht vor rutschigen Stufen beim Aussteigen.",
+                "hu": "A vizes talaj gyönyörűen tükröződik; csak vigyázzon a csúszós lépcsőkkel kiszálláskor.",
+                "ro": "Pământul umed reflectă frumos; aveți grijă la treptele alunecoase când ieșiți din mașină.",
+                "en": "The wet grounds reflect beautifully; just be careful of slippery steps when exiting your car."
+              }
+            },
+            {
+              "name": {
+                "de": "The Owl Market",
+                "hu": "The Owl Market",
+                "ro": "The Owl Market",
+                "en": "The Owl Market"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz und bleiben Sie in den Zeltzonen, um die Atmosphäre zu genießen.",
+                "hu": "Keressen jó parkolóhelyet, és maradjon a nagy sátras zónákban, hogy élvezze a hangulatot.",
+                "ro": "Găsiți o parcare bună și rămâneți în zonele cu corturi pentru a vă bucura de atmosferă.",
+                "en": "Find a good parking spot and stick to the large tented zones to enjoy the vibrant atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Fahrt bei angenehm kühlem Wetter. Mittags können Sie die Außenbereiche bei milden Temperaturen ohne Überhitzung erkunden. Am späten Nachmittag geht die Sonne früh unter und wirft lange Schatten. Erreichen Sie den Nachtmarkt gegen 17 Uhr mit einer warmen Jacke im Auto.",
+            "hu": "Kezdje az autózást kellemesen hűvös időben. A dél enyhe hőmérsékletet kínál, így túlhevülés nélkül fedezheti fel a kinti részeket. Késő délután a nap korán lenyugszik, hosszú árnyékokat vetve. Érkezzen az éjszakai piacra 17:00 körül, tartson meleg ruhát az autóban.",
+            "ro": "Începeți condusul matinal pe o vreme plăcut răcoroasă. Prânzul oferă temperaturi blânde pentru explorarea fără supraîncălzire a zonelor exterioare. După-amiaza soarele apune devreme, aruncând umbre lungi. Ajungeți la piața de noapte pe la 17:00, păstrând o haină în mașină.",
+            "en": "Begin your morning drive in pleasantly cool weather, perfect for stepping out. Midday offers mild temperatures, allowing you to comfortably explore outdoor areas without overheating. In the late afternoon, the sun sets early, casting long shadows across the grounds. Arrive at the night market around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Phuttha Panya",
+                "hu": "Wat Phuttha Panya",
+                "ro": "Wat Phuttha Panya",
+                "en": "Wat Phuttha Panya"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht den kurzen Weg vom Auto zum Tempeleingang sehr erfrischend.",
+                "hu": "A friss reggeli levegő frissítővé teszi a rövid sétát az autótól a templom bejáratáig.",
+                "ro": "Aerul proaspăt al dimineții face scurta plimbare de la mașină la intrare foarte revigorantă.",
+                "en": "The crisp morning air makes the short walk from your car to the temple entrance quite refreshing."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Lannaboon",
+                "hu": "Wat Lannaboon",
+                "ro": "Wat Lannaboon",
+                "en": "Wat Lannaboon"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das angenehme Winterklima bei einem Spaziergang durch die sonst heißen Höfe.",
+                "hu": "Élvezze a kellemes téli klímát, miközben a normálisan forró szabadtéri udvarokon sétál.",
+                "ro": "Bucurați-vă de climatul plăcut de iarnă în timp ce vă plimbați prin curțile de obicei fierbinți.",
+                "en": "Enjoy the pleasant winter climate as you stroll around the normally hot, open-air courtyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Thinnakorn Nimit",
+                "hu": "Wat Thinnakorn Nimit",
+                "ro": "Wat Thinnakorn Nimit",
+                "en": "Wat Thinnakorn Nimit"
+              },
+              "tip_5lang": {
+                "de": "Das kühlere Wetter ist perfekt, um die detaillierte Außenarchitektur zu erkunden.",
+                "hu": "A hűvösebb idő tökéletes a részletes külső építészet felfedezésére parkolás után.",
+                "ro": "Vremea mai rece este perfectă pentru a explora arhitectura exterioară detaliată.",
+                "en": "The cooler weather is perfect for exploring the detailed exterior architecture from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Nonthaburi Market",
+                "hu": "Nonthaburi Piac",
+                "ro": "Piața Nonthaburi",
+                "en": "Nonthaburi Market"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto stehen und durchstöbern Sie die Stände ohne die starke Mittagshitze.",
+                "hu": "Hagyja hátra az autót, és kényelmesen böngésszen a kinti standoknál a déli hőség nélkül.",
+                "ro": "Lăsați mașina și navigați confortabil pe la tarabele exterioare fără căldura intensă a prânzului.",
+                "en": "Leave the car behind and comfortably browse the outdoor stalls without the intense midday heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Kwang",
+                "hu": "Wat Bang Kwang",
+                "ro": "Wat Bang Kwang",
+                "en": "Wat Bang Kwang"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den milden Nachmittag, um auf dem Gelände zu schlendern, bevor Sie zum Auto zurückkehren.",
+                "hu": "Használja ki az enyhe délutánt a templomkert bejárására, mielőtt visszatérne az autóhoz.",
+                "ro": "Profitați de după-amiaza blândă pentru a rătăci prin curtea templului înainte de a reveni la mașină.",
+                "en": "Take advantage of the mild afternoon to wander the temple grounds before returning to the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bang Phreak Naue",
+                "hu": "Wat Bang Phreak Naue",
+                "ro": "Wat Bang Phreak Naue",
+                "en": "Wat Bang Phreak Naue"
+              },
+              "tip_5lang": {
+                "de": "Die goldene Stunde beginnt heute früh und sorgt für atemberaubendes Licht für Fotos.",
+                "hu": "Az aranyóra ma korán kezdődik, lenyűgöző fényeket biztosítva az épületek fotózásához.",
+                "ro": "Ora de aur începe devreme, oferind o iluminare uimitoare pentru fotografiile clădirilor.",
+                "en": "The golden hour starts early today, providing stunning lighting for photos of the structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Samon Kot",
+                "hu": "Wat Samon Kot",
+                "ro": "Wat Samon Kot",
+                "en": "Wat Samon Kot"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie genau zur frühen Abenddämmerung an, die der Stätte eine majestätische Atmosphäre verleiht.",
+                "hu": "Érkezzen pont az egyre sötétedő alkonyatkor, ami fenséges hangulatot ad a helynek.",
+                "ro": "Ajungeți exact când se instalează amurgul timpuriu, aducând o atmosferă liniștită și maiestuoasă.",
+                "en": "Arrive just as the early dusk settles, bringing a tranquil and majestic atmosphere to the site."
+              }
+            },
+            {
+              "name": {
+                "de": "The Owl Market",
+                "hu": "The Owl Market",
+                "ro": "The Owl Market",
+                "en": "The Owl Market"
+              },
+              "tip_5lang": {
+                "de": "Durch den frühen Sonnenuntergang erstrahlen die Lichter früher, perfekt für ein Abendessen im Freien.",
+                "hu": "A korai naplemente hamarabb előhozza a piac fényeit, ami tökéletes a kinti vacsorához.",
+                "ro": "Apusul devreme scoate în evidență luminile pieței mai repede, perfect pentru o cină în aer liber.",
+                "en": "The early sunset brings out the market lights sooner, perfect for an evening of outdoor dining."
+              }
+            }
+          ]
+        }
       }
     }
   }

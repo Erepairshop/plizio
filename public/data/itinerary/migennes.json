@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a forgalmas Laroche-Migennes állomáson, amely a város mély vasúti gyökereit tükrözi. Délben merüljön el a helyi popkultúra történetében a Cabaret L'Escale-ban. Délután csodálja meg az Église du Christ-Roi modern vonalait, és sétáljon el a Le Pont du tacot mellett. A napot a Migennes Plage-en pihenve zárja.",
         "ro": "Începeți dimineața în aglomerata gară Laroche-Migennes, care reflectă rădăcinile feroviare ale orașului. La prânz, pătrundeți în istoria culturii pop la Cabaret L'Escale. După-amiaza, admirați liniile bisericii Église du Christ-Roi și plimbați-vă pe lângă Le Pont du tacot. Terminați ziua relaxându-vă lângă apă la Migennes Plage.",
         "en": "Start your morning at the bustling Laroche-Migennes Station, reflecting the town's deep railway roots. Midday finds you diving into local pop-culture history at Cabaret L'Escale. In the afternoon, marvel at the modern lines of Église du Christ-Roi and stroll past Le Pont du tacot. Finish the day relaxing by the water at Migennes Plage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen am Bahnhof mit einem robusten Regenschirm. Mittags finden Sie ein trockenes Refugium im historischen Cabaret und in der imposanten Kirche. Der Nachmittagsspaziergang zur alten Brücke erfordert wegen der Pfützen wasserdichte Schuhe. Beenden Sie den Tag am Strandbereich und beobachten Sie den vom Regen gepeitschten Fluss sicher unter einem Vordach.",
+            "hu": "Kezdje az esős reggelt az állomáson egy masszív esernyővel. Délben keressen száraz menedéket a történelmi Cabaret-ban és a lenyűgöző templomban. A délutáni séta a régi hídhoz vízálló cipőt igényel a saras tócsák miatt. Zárja a napot a strand környékén, és figyelje a folyót egy biztonságos, fedett helyről.",
+            "ro": "Începeți dimineața ploioasă la gară cu o umbrelă robustă. La prânz, găsiți un refugiu uscat în istoricul Cabaret și în biserica impunătoare. Plimbarea de după-amiază spre podul vechi necesită încălțăminte impermeabilă din cauza bălților. Încheiați ziua lângă plajă, privind râul sub o copertină.",
+            "en": "Start your rainy morning at the station with a sturdy umbrella. At midday, find a dry refuge exploring the historic Cabaret and the striking church. The afternoon walk to the old bridge requires waterproof shoes due to muddy puddles. End the day near the beach area, safely watching the rain-swept river from under a canopy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Laroche-Migennes",
+                "hu": "Laroche-Migennes vasútállomás",
+                "ro": "Gara Laroche-Migennes",
+                "en": "Laroche-Migennes Station"
+              },
+              "tip_5lang": {
+                "de": "Die überdachten Bahnsteige bieten einen trockenen Start; prüfen Sie die Fahrpläne im Trockenen, während Sie den stärksten Schauer abwarten.",
+                "hu": "A fedett peronok száraz kezdést biztosítanak; nézze meg a menetrendeket odabent, amíg a legrosszabb eső elvonul a környékről.",
+                "ro": "Peroanele acoperite oferă un început uscat; verificați mersul trenurilor înăuntru în timp ce așteptați să treacă ploaia torențială.",
+                "en": "The covered platforms offer a dry start; check the schedules inside while waiting for the heaviest rain showers to pass over."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabaret L'Escale",
+                "hu": "Cabaret L'Escale",
+                "ro": "Cabaret L'Escale",
+                "en": "Cabaret L'Escale"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem Nieselregen zu entkommen, und entdecken Sie die reiche Kulturgeschichte in einer angenehm trockenen Umgebung.",
+                "hu": "Lépjen be, hogy elmeneküljön a szitáló eső elől, és fedezze fel a gazdag kulturális történelmet egy kellemesen száraz környezetben.",
+                "ro": "Intrați pentru a scăpa de burniță și descoperiți istoria culturală bogată într-un mediu confortabil și complet uscat.",
+                "en": "Step inside to escape the drizzle and discover its rich cultural history in a highly comfortable, perfectly dry indoor environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Krisztus Király-templom",
+                "ro": "Biserica Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Betonarchitektur wirkt auch im Regen; genießen Sie die trockene, ruhige Atmosphäre im Inneren dieses massiven Bauwerks.",
+                "hu": "A modern betonépítészet esőben is lenyűgöző; élvezze a hatalmas épület belső, száraz és csendes, védett atmoszféráját.",
+                "ro": "Arhitectura modernă este impresionantă și pe ploaie; bucurați-vă de atmosfera uscată și liniștită din interiorul clădirii masive.",
+                "en": "The modern concrete architecture is striking even in rain; enjoy the dry, quiet sanctuary inside this massive, sheltering structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Pont du tacot",
+                "hu": "Le Pont du tacot",
+                "ro": "Le Pont du tacot",
+                "en": "Le Pont du tacot"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher kann sehr schlammig sein; tragen Sie wasserdichte Stiefel und halten Sie Ihren Schirm fest gegen den Wind.",
+                "hu": "Az idevezető út rendkívül sáros lehet; viseljen vízálló csizmát, és tartsa erősen az esernyőjét a folyóparti széllel szemben.",
+                "ro": "Calea spre pod poate fi noroioasă; purtați cizme impermeabile și țineți umbrela strâns împotriva vântului de pe râu.",
+                "en": "The path here can be very muddy; wear sturdy waterproof boots and hold your umbrella tight against the sudden riverside gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Migennes Plage",
+                "hu": "Migennes Plage",
+                "ro": "Migennes Plage",
+                "en": "Migennes Plage"
+              },
+              "tip_5lang": {
+                "de": "Obwohl es ein Strand ist, wirkt der Fluss im Regen dramatisch; suchen Sie sich ein überdachtes Plätzchen in der Nähe für die Aussicht.",
+                "hu": "Bár ez egy strand, a folyó esőben drámai arcát mutatja; keressen egy közeli fedett helyet, ahonnan élvezheti a víz látványát.",
+                "ro": "Deși este o plajă, râul arată dramatic în ploaie; găsiți un loc acoperit în apropiere pentru a admira priveliștea apei.",
+                "en": "Though it's a beach, the river looks highly dramatic in the rain; find a nearby covered spot to peacefully watch the falling water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am Bahnhof. Kleiden Sie sich in warmen Schichten. Mittags bieten das legendäre Cabaret und die Kirche warme Pausen vor der Kälte. Der Nachmittagsspaziergang zur Brücke ist erfrischend unter dem Winterhimmel. Beenden Sie die Tour am Strandbereich, bevor der frühe Sonnenuntergang gegen 17:00 Uhr die Luft stark abkühlt.",
+            "hu": "Egy csípős téli reggel az állomáson kezdődik, öltözzön meleg rétegekbe. Délben a legendás Cabaret és a templom meleg menedéket nyújt a hideg elől. A délutáni séta a hídhoz frissítő a téli égbolt alatt. Fejezze be a túrát a strandnál, mielőtt a korai, 17:00 órai naplemente miatt erősen lehűlne a levegő.",
+            "ro": "O dimineață de iarnă începe la gară; îmbrăcați-vă gros. La prânz, legendarul Cabaret și biserica oferă pauze calde. Plimbarea de după-amiază spre pod este revigorantă sub cerul de iarnă. Încheiați turul la plajă înainte ca apusul devreme, în jur de ora 17:00, să aducă un frig pătrunzător.",
+            "en": "A crisp winter morning begins at the station, so dress in warm layers. Midday brings visits to the Cabaret and church, offering warm respites from the cold. The afternoon stroll to the bridge is brisk under the winter sky. Wrap up your walk near the beach before the early 5 PM sunset brings a severe chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Laroche-Migennes",
+                "hu": "Laroche-Migennes vasútállomás",
+                "ro": "Gara Laroche-Migennes",
+                "en": "Laroche-Migennes Station"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich in der Nähe ein Heißgetränk, bevor Sie in die frostige Morgenluft hinausgehen, um Ihren kalten Spaziergang zu beginnen.",
+                "hu": "Vegyél egy forró italt a közelben, mielőtt kilépnél a fagyos reggeli levegőre, hogy energiával telve kezdd meg a sétát.",
+                "ro": "Luați o băutură caldă din apropiere înainte de a ieși în aerul înghețat al dimineții pentru a vă începe plimbarea pe jos.",
+                "en": "Grab a hot drink nearby before heading out into the frosty morning air to begin your brisk and refreshing winter walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabaret L'Escale",
+                "hu": "Cabaret L'Escale",
+                "ro": "Cabaret L'Escale",
+                "en": "Cabaret L'Escale"
+              },
+              "tip_5lang": {
+                "de": "Der historische Ort ist ein gemütlicher Zwischenstopp, an dem Sie sich aufwärmen und etwas über legendäre Künstler erfahren können.",
+                "hu": "A történelmi helyszín egy hangulatos megálló, ahol felmelegedhet, miközben legendás francia előadókról tanulhat a hideg elől bújva.",
+                "ro": "Locația istorică este o oprire confortabilă unde vă puteți încălzi în timp ce aflați despre artiști legendari din trecut.",
+                "en": "The historic venue is a incredibly cozy stop where you can properly warm up while learning about legendary French performers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Krisztus Király-templom",
+                "ro": "Biserica Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Die Glasfenster wirken in der tiefstehenden Wintersonne wunderschön; treten Sie ein, um dem eisigen Wind zu entfliehen.",
+                "hu": "Az ólomüveg ablakok gyönyörűek a lapos téli napsütésben; lépjen be, hogy menedéket találjon a fagyos, metsző szél elől.",
+                "ro": "Vitraliile arată superb în soarele blând de iarnă; intrați pentru a scăpa pentru câteva momente de vântul înghețat de afară.",
+                "en": "The stained glass windows look stunning in the low winter sun; step inside to easily escape the freezing, biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Pont du tacot",
+                "hu": "Le Pont du tacot",
+                "ro": "Le Pont du tacot",
+                "en": "Le Pont du tacot"
+              },
+              "tip_5lang": {
+                "de": "Frost kann den alten Brückenweg rutschig machen; gehen Sie vorsichtig, während Sie die karge Winterlandschaft genießen.",
+                "hu": "A fagy csúszóssá teheti a régi híd útját; lépkedjen óvatosan, miközben a kopár, de gyönyörű téli tájban gyönyörködik.",
+                "ro": "Înghețul poate face calea podului vechi alunecoasă; pășiți cu grijă în timp ce admirați peisajul de iarnă golaș și spectaculos.",
+                "en": "Frost can make the old bridge path highly slippery; tread very carefully while enjoying the stark, beautiful winter landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Migennes Plage",
+                "hu": "Migennes Plage",
+                "ro": "Migennes Plage",
+                "en": "Migennes Plage"
+              },
+              "tip_5lang": {
+                "de": "Die Flussbrise ist jetzt beißend kalt; machen Sie einen flotten Spaziergang, bevor Sie sich vor der Dämmerung ins Warme begeben.",
+                "hu": "A folyami szél ilyenkor harapósan hideg; tegyen egy gyors, frissítő sétát, mielőtt a sötétedés beálltával meleg helyre megy.",
+                "ro": "Briza râului este tăioasă în această perioadă; faceți o plimbare scurtă înainte de a vă retrage la căldură înainte de lăsarea serii.",
+                "en": "The river breeze is incredibly biting this time of year; take a brisk walk before immediately heading indoors as dusk falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "A kerékpározás a történelmi Église Saint-Pancrace-nál kezdődik, mielőtt az Église du Christ-Roihoz gurulna. Délben fedezze fel a Cabaret L'Escale-t és a vasútállomást. A délutáni túra a Le Pont du tacot mellett a szomszédos Cheny-be vezet, és a csendes Église Saint-Pierre-aux-Liens-nél ér véget.",
         "ro": "O pedalare energică începe la istorica Église Saint-Pancrace înainte de a coborî spre impresionanta Église du Christ-Roi. Până la prânz, explorați Cabaret L'Escale și gara. Plimbarea de după-amiază vă duce pe lângă Le Pont du tacot în Cheny, încheindu-se la liniștita Église Saint-Pierre-aux-Liens.",
         "en": "A brisk pedal begins at the historic Église Saint-Pancrace before rolling down to the striking Église du Christ-Roi. By midday, you're exploring Cabaret L'Escale and checking out the local train station. The afternoon ride takes you past Le Pont du tacot into neighboring Cheny, concluding with the tranquil Église Saint-Pierre-aux-Liens."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Radtour an der alten Kirche in gut sichtbarer Regenkleidung. Mittags fahren Sie zwischen historischen Stätten umher; achten Sie auf rutschiges Laub. Nachmittags geht es über den Fluss nach Cheny; nutzen Sie Ihre Schutzbleche. Beenden Sie die feuchte Fahrt, indem Sie in den lokalen Kirchen Schutz suchen, um etwas zu trocknen.",
+            "hu": "Kezdje esős kerékpártúráját a régi templomnál, jól látható vízálló ruhában. Délben történelmi helyszínek között teker; vigyázzon a csúszós falevelekre. Délután a folyón át Cheny-be vezet az út, a sárvédő elengedhetetlen. Zárja a nedves utat a helyi templomokban menedéket keresve, hogy egy kicsit megszáradjon.",
+            "ro": "Începeți traseul ploios cu bicicleta la vechea biserică, purtând echipament impermeabil vizibil. La prânz pedalați între situri istorice; atenție la frunzele alunecoase. După-amiaza treceți râul spre Cheny; folosiți apărătoarele de noroi. Încheiați cursa umedă căutând adăpost în bisericile locale pentru a vă usca.",
+            "en": "Begin your rainy cycling route at the old church, wearing highly visible waterproof gear. Midday involves riding between historic sites; watch for slippery wet leaves. The afternoon takes you across the river to Cheny; make sure your mudguards are ready. Conclude your damp ride by finding shelter in the local churches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pancrace",
+                "hu": "Szent Pongrác-templom",
+                "ro": "Biserica Saint-Pancrace",
+                "en": "Église Saint-Pancrace"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Bäumen und suchen Sie im historischen Kirchenschiff Zuflucht vor dem morgendlichen Regenguss.",
+                "hu": "Parkolja le kerékpárját a fák alatt, és keressen menedéket a történelmi főhajóban a kora reggeli, sűrű felhőszakadás elől.",
+                "ro": "Parcați bicicleta sub copaci și căutați refugiu în naosul istoric pentru a scăpa de ploaia torențială de dimineață.",
+                "en": "Park your bike safely under the trees and seek refuge inside the historic nave from the heavy morning downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Krisztus Király-templom",
+                "ro": "Biserica Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Straßen rund um die Kirche erfordern vorsichtiges Bremsen; bewundern Sie die regengewaschene Betonfassade.",
+                "hu": "A templom körüli nedves utak óvatos fékezést igényelnek; csodálja meg az eső áztatta, különleges betonhomlokzatot.",
+                "ro": "Drumurile ude din jurul bisericii necesită frânare atentă; admirați fațada masivă din beton spălată de ploaie.",
+                "en": "The wet roads around the church demand very careful braking; stop to admire the impressively rain-washed concrete facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabaret L'Escale",
+                "hu": "Cabaret L'Escale",
+                "ro": "Cabaret L'Escale",
+                "en": "Cabaret L'Escale"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte Pause im Trockenen, um Ihre Radkleidung zu trocknen und das reiche musikalische Erbe der Region zu erkunden.",
+                "hu": "Tökéletes beltéri pihenő, ahol megszáríthatja kerékpáros felszerelését, miközben felfedezi a régió zenei örökségét.",
+                "ro": "O pauză perfectă la interior pentru a vă usca echipamentul de ciclism explorând în același timp moștenirea muzicală.",
+                "en": "A perfect indoor break to slightly dry your cycling gear while fully exploring the rich musical heritage of the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Laroche-Migennes",
+                "hu": "Laroche-Migennes vasútállomás",
+                "ro": "Gara Laroche-Migennes",
+                "en": "Laroche-Migennes Station"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause unter dem riesigen Vordach des Bahnhofs, um Ihre Reifen zu prüfen und plötzliche Schauer abzuwarten.",
+                "hu": "Tartson egy rövid pihenőt az állomás hatalmas előtetője alatt, hogy ellenőrizze a gumikat és kivárja a hirtelen záporokat.",
+                "ro": "Faceți o scurtă pauză sub copertina masivă a gării pentru a vă verifica anvelopele și a aștepta trecerea averselor.",
+                "en": "Take a brief pause under the station's massive canopy to check your slippery tires and wait out sudden, heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Pont du tacot",
+                "hu": "Le Pont du tacot",
+                "ro": "Le Pont du tacot",
+                "en": "Le Pont du tacot"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Holz- und Steinelemente sind sehr rutschig; steigen Sie ab und schieben Sie Ihr Fahrrad sicher über die Brücke.",
+                "hu": "A nedves fa- és kőelemek rendkívül csúszósak; szálljon le, és tolja át biztonságosan a kerékpárt az öreg hídon.",
+                "ro": "Elementele din lemn și piatră ude sunt foarte alunecoase; descălecați și împingeți bicicleta în siguranță pe pod.",
+                "en": "The wet wooden and stone elements are incredibly slick; dismount entirely and walk your bike across the structure safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Cheny",
+                "hu": "Cheny Városháza",
+                "ro": "Primăria din Cheny",
+                "en": "Mairie de Cheny"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefe Pfützen vor dem Rathaus; das klassische Gebäude bietet ein schnelles, schönes Fotomotiv im Regen.",
+                "hu": "Ügyeljen a városháza előtti mély tócsákra; a klasszikus épület gyors, de szép fotótémát kínál a szitáló esőben is.",
+                "ro": "Atenție la bălțile adânci din fața primăriei; clădirea clasică oferă o oportunitate rapidă pentru o fotografie în ploaie.",
+                "en": "Keep a close eye out for deep puddles in front of the town hall; the building offers a quick, atmospheric photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-aux-Liens",
+                "hu": "Saint-Pierre-aux-Liens templom",
+                "ro": "Biserica Saint-Pierre-aux-Liens",
+                "en": "Église Saint-Pierre-aux-Liens"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre feuchte Reise, indem Sie in diese ruhige Kirche treten und Ihre Regenkleidung im Vorbau abtropfen lassen.",
+                "hu": "Zárja a nedves utazást ebbe a békés templomba lépve, és hagyja, hogy vízálló ruhája lecsepegjen az előtérben.",
+                "ro": "Încheiați călătoria umedă intrând în această biserică liniștită, lăsând pelerina să se scurgă în pridvorul protejat.",
+                "en": "End your wet journey by stepping into this peaceful church, letting your waterproofs drip dry in the sheltered porch."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre frostige Winterfahrt an der alten Kirche mit Thermohandschuhen. Die Fahrt am Mittag ist klar und perfekt für historische Sehenswürdigkeiten. Am Nachmittag erfordert die Fahrt nach Cheny Vorsicht auf Eisflächen. Beenden Sie Ihre Tour bis 16:00 Uhr, da die frühe Dämmerung die Temperaturen dramatisch sinken lässt.",
+            "hu": "Kezdje a fagyos téli utat az öreg templomnál, termálkesztyűvel és meleg sapkával. A déli tekerés tiszta, tökéletes a látnivalókhoz. A délutáni út Cheny-be óvatosságot igényel a jeges foltok miatt. Fejezze be a túrát 16:00-ig, mivel a korai szürkület drasztikusan csökkenti a hőmérsékletet.",
+            "ro": "Începeți cursa geroasă la vechea biserică cu mănuși termice. Plimbarea de prânz este senină, perfectă pentru repere istorice. După-amiaza spre Cheny necesită precauție pe porțiunile cu gheață. Terminați turul până la ora 16:00, deoarece amurgul timpuriu scade dramatic temperaturile.",
+            "en": "Start your frosty winter ride at the old church, wearing thermal gloves. Midday riding is crisp, perfect for historic landmarks. The afternoon pedal to Cheny requires caution on icy road patches. Finish your tour by 4 PM, as the early twilight drops temperatures drastically."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pancrace",
+                "hu": "Szent Pongrác-templom",
+                "ro": "Biserica Saint-Pancrace",
+                "en": "Église Saint-Pancrace"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost macht den Kirchhof malerisch, aber extrem eisig; schieben Sie Ihr Fahrrad nahe dem Eingang.",
+                "hu": "A reggeli dér festőivé, de rendkívül jegessé teszi a templomkertet; tolja a kerékpárt a bejárat közelében.",
+                "ro": "Înghețul dimineții face curtea bisericii pitorească, dar foarte alunecoasă; împingeți bicicleta lângă intrare.",
+                "en": "The morning frost makes the churchyard picturesque but extremely icy; safely walk your bike near the stone entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Krisztus Király-templom",
+                "ro": "Biserica Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das helle, niedrige Wintersonnenlicht auf der Architektur; der Innenraum bietet ein schnelles Aufwärmen.",
+                "hu": "Élvezze, ahogy a fényes, lapos téli napfény megvilágítja az építészetet; a belső tér gyors felmelegedést biztosít.",
+                "ro": "Bucurați-vă de lumina strălucitoare a soarelui de iarnă pe arhitectură; interiorul oferă o încălzire rapidă.",
+                "en": "Enjoy the bright, low winter sunlight hitting the unique architecture; the interior provides a very quick warm-up."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabaret L'Escale",
+                "hu": "Cabaret L'Escale",
+                "ro": "Cabaret L'Escale",
+                "en": "Cabaret L'Escale"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie hier eine längere Pause, um Ihre frierenden Finger aufzutauen und in die Musikgeschichte einzutauchen.",
+                "hu": "Tartson itt egy hosszabb pihenőt, hogy felengedjenek fagyott ujjai, és merüljön el a francia zenetörténelemben.",
+                "ro": "Faceți o pauză mai lungă aici pentru a vă dezgheța degetele și a vă cufunda în istoria muzicală franceză.",
+                "en": "Take a longer break here to properly thaw your frozen fingers and immerse yourself in mid-century music history."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Laroche-Migennes",
+                "hu": "Laroche-Migennes vasútállomás",
+                "ro": "Gara Laroche-Migennes",
+                "en": "Laroche-Migennes Station"
+              },
+              "tip_5lang": {
+                "de": "Das geschäftige Bahnhofsgelände ist gut von Schnee geräumt; ein guter Ort für einen warmen Snack zur Stärkung.",
+                "hu": "A forgalmas állomás környéke jól meg van tisztítva a hótól; remek hely egy meleg harapnivaló beszerzésére.",
+                "ro": "Zona aglomerată a gării este bine curățată de zăpadă; un loc bun pentru a lua o gustare caldă pentru energie.",
+                "en": "The busy station area is well-cleared of snow and ice; it's a great place to quickly grab a warm snack for energy."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Pont du tacot",
+                "hu": "Le Pont du tacot",
+                "ro": "Le Pont du tacot",
+                "en": "Le Pont du tacot"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Blitzeis an den Brückenauffahrten; die kahlen Winterbäume bieten eine großartige, weite Aussicht.",
+                "hu": "Vigyázzon a híd felhajtóinál lévő ónos esőre; a kopasz téli fák nagyszerű, akadálytalan kilátást biztosítanak.",
+                "ro": "Atenție la gheața neagră de pe căile de acces spre pod; copacii goi de iarnă oferă priveliști excelente.",
+                "en": "Watch out for dangerous black ice on the bridge approaches; the bare winter trees offer great, unobstructed views."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Cheny",
+                "hu": "Cheny Városháza",
+                "ro": "Primăria din Cheny",
+                "en": "Mairie de Cheny"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus sieht mit Frost bestäubt bezaubernd aus; halten Sie Ihr Tempo gleichmäßig, um auf dem Rad warm zu bleiben.",
+                "hu": "A városháza bájosan fest dérrel borítva; tartsa egyenletesen a tempót, hogy mozgásban maradva melegen tartsa magát.",
+                "ro": "Primăria arată fermecător presărată cu brumă; mențineți un ritm constant pentru a vă păstra căldura corporală.",
+                "en": "The town hall looks charming lightly dusted in frost; keep your cycling pace steady to easily stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-aux-Liens",
+                "hu": "Saint-Pierre-aux-Liens templom",
+                "ro": "Biserica Saint-Pierre-aux-Liens",
+                "en": "Église Saint-Pierre-aux-Liens"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte, aber es ist ein friedlicher Ort, um die Fahrt vor der Dämmerung zu beenden.",
+                "hu": "A vastag kőfalak tartják a hideget, de gyönyörű, csendes hely a túra befejezésére még a sötétedés előtt.",
+                "ro": "Zidurile groase de piatră mențin frigul, dar este un loc frumos pentru a vă încheia plimbarea înainte de lăsarea serii.",
+                "en": "The thick stone walls heavily hold the cold, but it's a beautiful, quiet spot to conclude your ride before dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje az Église Saint-Pancrace rusztikus bájával, majd vezessen a modern Église du Christ-Roihoz. A delet töltse a legendás Cabaret L'Escale-ban. Délután autózzon el a Le Pont du tacot mellett Cheny-be, hogy megcsodálja a városházát és a templomot. Zárja átfogó túráját egy békés estével a Migennes Plage-en.",
         "ro": "Începeți cu farmecul rustic al Église Saint-Pancrace, apoi conduceți spre moderna Église du Christ-Roi. Petreceți-vă prânzul explorând legendarul Cabaret L'Escale. După-amiaza, treceți pe lângă Le Pont du tacot spre Cheny pentru a admira primăria și biserica. Încheiați turul la apus, la Migennes Plage.",
         "en": "Begin with the rustic charm of Église Saint-Pancrace before driving to the modern Église du Christ-Roi. Spend your midday delving into the legendary Cabaret L'Escale. In the afternoon, cruise past Le Pont du tacot to Cheny to admire its Mairie and church. Conclude your comprehensive tour with a peaceful evening at Migennes Plage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem durch den regnerischen Morgen und parken Sie nah an der Kirche. Mittags bieten die Kulturstationen trockene Zufluchtsorte, während Ihr Auto Sie wärmt. Am Nachmittag navigieren Sie vorsichtig auf nassen Straßen nach Cheny. Beenden Sie den Tag am Strand, wo Sie den Regen auf dem Fluss vom warmen Auto aus beobachten können.",
+            "hu": "Vezessen kényelmesen az esős reggelen, és parkoljon közel a templomhoz. Délben a kulturális állomások száraz menedéket nyújtanak. Délután óvatosan navigáljon a nedves utakon Cheny felé. Zárja a napot a strandon, ahonnan az autó melegéből nézheti az esőt a folyón.",
+            "ro": "Conduceți confortabil în dimineața ploioasă, parcând aproape de biserică. La prânz, opririle culturale oferă adăpost uscat, în timp ce mașina vă încălzește. După-amiaza navigați cu atenție pe drumurile ude spre Cheny. Încheiați la plajă, privind ploaia pe râu din mașina caldă.",
+            "en": "Drive comfortably through the rainy morning, parking close to the church. Midday brings cultural stops offering dry havens, while your car keeps you warm between visits. In the afternoon, navigate the wet roads towards Cheny cautiously. Conclude at the beach, watching the rain hit the river from your warm vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pancrace",
+                "hu": "Szent Pongrác-templom",
+                "ro": "Biserica Saint-Pancrace",
+                "en": "Église Saint-Pancrace"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen Regenschirm für den kurzen Weg von Ihrem Auto zum Eingang dieses historischen Denkmals mit.",
+                "hu": "Hozzon magával esernyőt az autóból a történelmi műemlék bejáratáig tartó rövid, de esős sétához.",
+                "ro": "Aduceți o umbrelă pentru scurta plimbare de la mașina dumneavoastră până la intrarea acestui monument istoric.",
+                "en": "Bring an umbrella for the short, wet walk from your comfortably parked car to the entrance of this monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Krisztus Király-templom",
+                "ro": "Biserica Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Das Parken ist hier einfach; huschen Sie hinein, um zu sehen, wie das trübe Regenlicht die Innenstimmung verändert.",
+                "hu": "A parkolás itt általában egyszerű; siessen be, hogy lássa, hogyan változtatja meg a tompa esős fény a belső hangulatot.",
+                "ro": "Parcarea este ușoară aici; grăbiți-vă înăuntru pentru a vedea cum lumina ploioasă schimbă atmosfera interioară.",
+                "en": "Parking is usually easy here; dash inside quickly to see how the dim, rainy light dramatically changes the mood."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabaret L'Escale",
+                "hu": "Cabaret L'Escale",
+                "ro": "Cabaret L'Escale",
+                "en": "Cabaret L'Escale"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren nassen Mantel im Auto und betreten Sie diesen Ort für eine trockene und faszinierende historische Tour.",
+                "hu": "Hagyja vizes kabátját az autóban, és lépjen be erre a legendás helyszínre egy száraz és lenyűgöző túrára.",
+                "ro": "Lăsați haina udă în mașină și pășiți în această locație legendară pentru un tur istoric uscat și fascinant.",
+                "en": "Leave your wet coat in the car and step directly into this legendary venue for a dry, fascinating historical tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Pont du tacot",
+                "hu": "Le Pont du tacot",
+                "ro": "Le Pont du tacot",
+                "en": "Le Pont du tacot"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen nahe der Brücke können leicht überfluten; parken Sie sicher und betrachten Sie die Struktur aus der Ferne.",
+                "hu": "A híd körüli utak enyhén elárasztottak lehetnek; parkoljon biztonságosan, és nézze meg a szerkezetet tisztes távolságból.",
+                "ro": "Drumurile de lângă pod se pot inunda ușor; parcați în siguranță și priviți structura de la o distanță uscată.",
+                "en": "The roads near the bridge can temporarily flood; park safely and view the historic structure from a completely dry distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Cheny",
+                "hu": "Cheny Városháza",
+                "ro": "Primăria din Cheny",
+                "en": "Mairie de Cheny"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie Ihre Scheibenwischer, um die Sicht auf das Gebäude zu klären, ohne bei Regen aussteigen zu müssen.",
+                "hu": "Használja az ablaktörlőket, hogy tisztán lássa ezt a klasszikus épületet, anélkül, hogy ki kellene szállnia a zuhogó esőben.",
+                "ro": "Folosiți ștergătoarele pentru a elibera vederea asupra clădirii fără a fi nevoie să ieșiți în ploaia torențială.",
+                "en": "Use your windshield wipers to easily clear the view of this classic building without needing to step outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-aux-Liens",
+                "hu": "Saint-Pierre-aux-Liens templom",
+                "ro": "Biserica Saint-Pierre-aux-Liens",
+                "en": "Église Saint-Pierre-aux-Liens"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor; die Kirche bietet ein ruhiges, trockenes Refugium abseits des anhaltenden Regens.",
+                "hu": "Parkoljon közvetlenül előtte; a templom csendes, száraz menedéket kínál a kitartó esőzéstől távol.",
+                "ro": "Parcați chiar în față; biserica oferă un sanctuar liniștit și uscat, departe de ploaia persistentă de afară.",
+                "en": "Park right out front; the old church offers a highly quiet, dry sanctuary completely away from the persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Migennes Plage",
+                "hu": "Migennes Plage",
+                "ro": "Migennes Plage",
+                "en": "Migennes Plage"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im geparkten Auto mit eingeschalteter Heizung und genießen Sie die dramatische Aussicht auf den Regenfluss.",
+                "hu": "Maradjon kényelmesen a parkoló autóban bekapcsolt fűtéssel, és élvezze az eső áztatta folyó drámai látványát.",
+                "ro": "Rămâneți confortabil în mașina parcată cu căldura pornită, bucurându-vă de priveliștea dramatică a râului bătut de ploaie.",
+                "en": "Stay incredibly cozy in your parked car with the heater on, enjoying the dramatic, rain-swept views of the waterway."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen lässt sich am besten im beheizten Auto verbringen. Die Mittagspausen im Cabaret und in der Kirche sind komfortabel, da Sie schnell zwischen warmen Orten wechseln. Die Nachmittagsfahrt nach Cheny zeigt frostige Landschaften. Beenden Sie die Tour vor 17:00 Uhr am Fluss, da die frühe Dunkelheit die Straßen vereist.",
+            "hu": "Egy hideg téli reggelt a legjobb fűtött autóban tölteni. A déli megállók a Cabaret-ban és a templomban kényelmesek a meleg helyszínek miatt. A délutáni út Cheny-be fagyos tájakat mutat be. Fejezze be a túrát 17:00 előtt a folyónál, mivel a korai sötétség miatt az utak veszélyesen jegesek lesznek.",
+            "ro": "O dimineață rece de iarnă e mai bine petrecută cu căldura pornită. Opririle de prânz la Cabaret și biserică sunt confortabile, sărind între locații calde. Drumul de după-amiază spre Cheny arată peisaje înghețate. Terminați la râu înainte de ora 17:00, deoarece întunericul timpuriu face drumurile periculoase.",
+            "en": "A cold winter morning is best spent driving with the heater on. Midday stops at the Cabaret and church are comfortable as you hop between warm locations. The afternoon drive to Cheny showcases stark, frosty landscapes. Finish at the riverside before 5 PM, as early darkness makes roads icy and hazardous."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pancrace",
+                "hu": "Szent Pongrác-templom",
+                "ro": "Biserica Saint-Pancrace",
+                "en": "Église Saint-Pancrace"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz, bevor Sie die alten, winterkalten Steine der Kirche bewundern.",
+                "hu": "Vigyázzon a parkoló jeges foltjaira, mielőtt megcsodálná a templom ősi, téli hideg által átjárt köveit.",
+                "ro": "Atenție la porțiunile cu gheață din parcare înainte de a admira pietrele antice și reci ale bisericii.",
+                "en": "Be highly careful of icy patches in the parking area before walking to admire the church's ancient, winter-chilled stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Krisztus Király-templom",
+                "ro": "Biserica Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Ihre Autoheizung wird sehr willkommen sein, nachdem Sie diese unbeheizte, monumentale Kirche in der Kälte besucht haben.",
+                "hu": "Az autó fűtése nagyon jól fog esni, miután meglátogatta ezt a fűtetlen, monumentális beton templomot a hidegben.",
+                "ro": "Căldura mașinii va fi binevenită după ce vizitați această biserică monumentală și neîncălzită în frigul de iarnă.",
+                "en": "Your car heater will be highly welcome after visiting this entirely unheated, monumental concrete church in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabaret L'Escale",
+                "hu": "Cabaret L'Escale",
+                "ro": "Cabaret L'Escale",
+                "en": "Cabaret L'Escale"
+              },
+              "tip_5lang": {
+                "de": "Eine wunderbar beheizte Innenattraktion, in der Sie sich entspannen und die musikalische Vergangenheit Frankreichs lernen können.",
+                "hu": "Egy csodálatosan fűtött beltéri látványosság, ahol nyugodtan ellazulhat, és megismerheti Franciaország zenei múltját.",
+                "ro": "O atracție interioară minunat încălzită unde vă puteți relaxa și învăța despre trecutul muzical al Franței.",
+                "en": "A wonderfully heated indoor attraction where you can relax completely and learn about France's vibrant musical past."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Pont du tacot",
+                "hu": "Le Pont du tacot",
+                "ro": "Le Pont du tacot",
+                "en": "Le Pont du tacot"
+              },
+              "tip_5lang": {
+                "de": "Die Winterszenerie ist wunderschön, aber die Zufahrtsstraße kann durch Frost rutschig sein; fahren Sie sehr vorsichtig.",
+                "hu": "A téli táj gyönyörű, de a megközelítési út a fagy miatt csúszós lehet; vezessen ide rendkívül óvatosan.",
+                "ro": "Peisajul de iarnă este superb, dar drumul de acces poate fi alunecos din cauza înghețului; conduceți cu multă prudență.",
+                "en": "The winter scenery is beautiful, but the approach road can be slippery with heavy frost; drive with extreme caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Cheny",
+                "hu": "Cheny Városháza",
+                "ro": "Primăria din Cheny",
+                "en": "Mairie de Cheny"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Fassade ist sehr fotogen; fahren Sie sicher rechts ran, um die klare Winteratmosphäre einzufangen.",
+                "hu": "A deres homlokzat rendkívül fotogén; húzódjon le biztonságosan, hogy megörökítse a tiszta, ropogós téli hangulatot.",
+                "ro": "Fațada înghețată este foarte fotogenică; trageți pe dreapta în siguranță pentru a surprinde atmosfera clară de iarnă.",
+                "en": "The frosty facade is highly photogenic; safely pull your car over to quickly capture the crisp, clear winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-aux-Liens",
+                "hu": "Saint-Pierre-aux-Liens templom",
+                "ro": "Biserica Saint-Pierre-aux-Liens",
+                "en": "Église Saint-Pierre-aux-Liens"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die Glasfenster perfekt; machen Sie einen kurzen, flotten Spaziergang vom Auto.",
+                "hu": "A lapos téli napfény tökéletesen megvilágítja az ólomüveg ablakokat; tegyen egy rövid, fürge sétát az autótól.",
+                "ro": "Soarele blând de iarnă iluminează vitraliile perfect; faceți o plimbare scurtă și rapidă din mașina încălzită.",
+                "en": "The low winter sun illuminates the stained glass perfectly; take a very short, brisk walk from your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Migennes Plage",
+                "hu": "Migennes Plage",
+                "ro": "Migennes Plage",
+                "en": "Migennes Plage"
+              },
+              "tip_5lang": {
+                "de": "Die Flussufer frieren jetzt zu; genießen Sie die ruhige, eisige Wasserlandschaft aus der Wärme Ihres Fahrersitzes.",
+                "hu": "A folyópartok már fagynak; élvezze a békés, jeges vízi tájat a fűtött vezetőülés kényelméből és melegéből.",
+                "ro": "Malurile râului îngheață acum; bucurați-vă de peisajul acvatic senin și înghețat din căldura scaunului șoferului.",
+                "en": "The riverbanks are freezing now; simply enjoy the serene, icy waterscape right from the warmth of your driver's seat."
+              }
+            }
+          ]
+        }
       }
     }
   }

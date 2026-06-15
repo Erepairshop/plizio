@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a bájos vasútállomáson, majd sétáljon a központba. Csodálja meg az Église Notre-Dame-ot és a General de Gaulle tér nyüzsgését. A történelmi Tour à diables izgalmas bepillantást nyújt a múltba. Zárja sétáját a déli régi magánmalomnál.",
         "ro": "Începeți ziua la gara fermecătoare și plimbați-vă spre centru. Admirați Église Notre-Dame și agitația din Piața General de Gaulle. Istoricul Tour à diables oferă o incursiune fascinantă în trecut. Încheiați turul la vechea moară privată din sud.",
         "en": "Start your day at the charming railway station and stroll into the center. Admire the Église Notre-Dame and the lively General de Gaulle Square. The historic Tour à diables offers fascinating insights into the past. End your walking tour at the old private mill down south."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit Regenschirm am Bahnhof. Die Notre-Dame-Kirche bietet trockenen Schutz. Das Pflaster am Platz kann rutschig sein. Der historische Turm wirkt im Regen besonders dramatisch, bevor die Tour an der alten Mühle endet.",
+            "hu": "Kezdjük a sétát a vasútállomásnál, esernyővel felszerelkezve. A Notre-Dame templom tökéletes menedéket nyújt. A főtér macskakövei csúszhatnak az esőben. Az Ördögtorony esőben különösen drámai, mielőtt a régi malomhoz érnénk.",
+            "ro": "Începeți la gară, echipați cu o umbrelă. Biserica Notre-Dame oferă un adăpost uscat excelent. Pavajul pieței poate fi alunecos, deci pășiți cu grijă. Turnul istoric arată dramatic în ploaie, înainte de a termina la vechea moară.",
+            "en": "Start at the station with an umbrella. The Notre-Dame Church offers a great dry shelter. The square's paving can be slippery, so walk carefully. The historic tower looks dramatic in the rain, before ending near the old mill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Orchies",
+                "hu": "Orchies Vasútállomás",
+                "ro": "Gara Orchies",
+                "en": "Orchies Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Bahnhofs vom überdachten Eingang aus. Ein stabiler Regenschirm ist heute auf jeden Fall unverzichtbar.",
+                "hu": "Csodálja meg az állomás építészetét a fedett bejárat alól, mielőtt kilépne az esőbe. Használjon ma egy igazán masszív esernyőt.",
+                "ro": "Admirați arhitectura gării din intrarea acoperită înainte de a ieși în ploaie. Folosiți o umbrelă mare și rezistentă la vânt astăzi.",
+                "en": "Admire the station's architecture from the covered entrance before stepping out into the rain. Use a sturdy windproof umbrella today."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame Templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die schönen Buntglasfenster; ein perfekter trockener Zufluchtsort vor dem Regen, während Sie alte Geschichte atmen.",
+                "hu": "Gyönyörködjön a csodás ólomüveg ablakokban idebent; tökéletes száraz menedék a záporok elől, miközben magába szívja a történelmet.",
+                "ro": "Admirați vitraliile frumoase înăuntru; un adăpost uscat perfect pentru a scăpa de ploaie în timp ce absorbiți istoria bogată.",
+                "en": "Marvel at the beautiful stained glass inside; it's a perfect dry shelter to escape the heavy showers while soaking in the rich history."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Général de Gaulle",
+                "hu": "General de Gaulle Tér",
+                "ro": "Piața General de Gaulle",
+                "en": "General de Gaulle Square"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die historischen Fassaden am Platz. Das Kopfsteinpflaster wird bei Nässe sehr rutschig, tragen Sie rutschfestes Schuhwerk.",
+                "hu": "Figyelje meg a tér körüli történelmi homlokzatokat. A macskakövek nedvesen nagyon csúsznak, ezért viseljen jól tapadó cipőt.",
+                "ro": "Observați fațadele istorice din jurul pieței. Piatra cubică devine foarte alunecoasă, așa că purtați încălțăminte cu aderență bună.",
+                "en": "Notice the historical facades around the square. The cobblestones get quite slippery when wet, so wear walking shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour à diables",
+                "hu": "Tour à diables",
+                "ro": "Tour à diables",
+                "en": "Tour à diables"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die mittelalterlichen Mauern des Teufelsturms. Machen Sie rasch Fotos und suchen Sie bei starkem Regen Schutz unter Bäumen.",
+                "hu": "Nézze meg az Ördögtorony impozáns középkori falait. Készítsen gyorsan fotókat, és keressen menedéket a fák alatt, ha nagyon szakad.",
+                "ro": "Vedeți zidurile medievale impunătoare ale Turnului Diavolului. Faceți poze rapid și găsiți adăpost sub copaci dacă toarnă puternic.",
+                "en": "View the imposing medieval walls of the Devil's Tower. Take photos quickly and find shelter under nearby trees if it really pours down."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle (privat)",
+                "hu": "Öreg Malom (magán)",
+                "ro": "Vechea moară (privată)",
+                "en": "Old Mill (private)"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das rustikale Äußere der alten Mühle. Da sie privat ist, betrachten Sie sie bei Regen vorsichtig vom schlammigen Weg aus.",
+                "hu": "Figyelje meg ennek a régi malomnak a rusztikus külsejét. Mivel magánterület, az esős, sáros útról óvatosan és kellő távolságból nézze.",
+                "ro": "Observați exteriorul rustic al acestei vechi mori. Fiind privată, priviți-o cu prudență de pe drumul noroios în zilele ploioase.",
+                "en": "Observe the rustic exterior of this private old mill. Since it's private property, view it cautiously from the muddy road in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich am Bahnhof warm an. Die Kirche ist kalt, blockiert aber den eisigen Wind. Genießen Sie den flotten Spaziergang über den Hauptplatz. Der Turm wirkt vor dem Winterhimmel markant, bevor Sie die alte Mühle erreichen.",
+            "hu": "Öltözzön melegen a vasútállomáson. A templom hideg, de remekül véd a jeges széltől. Élvezze a frissítő sétát a főtéren. Az ősi torony lenyűgöző a téli égbolt előtt, mielőtt megérkezne a régi malomhoz.",
+            "ro": "Îmbrăcați-vă gros la gară. Biserica este rece, dar blochează vântul înghețat. Bucurați-vă de o plimbare revigorantă prin piață. Turnul antic arată impresionant pe cerul de iarnă înainte de a ajunge la moara veche.",
+            "en": "Wrap up warmly at the station. The church interior is cold but blocks the icy wind perfectly. Enjoy a brisk walk across the main square. The ancient tower looks striking against the winter sky before reaching the old mill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Orchies",
+                "hu": "Orchies Vasútállomás",
+                "ro": "Gara Orchies",
+                "en": "Orchies Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie das solide Mauerwerk des Bahnhofs. Schließen Sie den Mantel und ziehen Sie den Schal gegen die Winterkälte eng zu.",
+                "hu": "Figyelje meg az állomásépület masszív téglafalazatát. Gombolja be a kabátját és húzza meg a sálját a csípős téli hideg ellen.",
+                "ro": "Observați zidăria solidă a clădirii gării. Închideți-vă haina și strângeți fularul ferm împotriva frigului tăios de iarnă.",
+                "en": "Notice the solid brickwork of the station building. Fasten your coat and wrap your scarf tight against the crisp winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame Templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um das friedliche Kirchenschiff zu sehen. Es ist unbeheizt, behalten Sie Handschuhe an, aber es blockiert den Eiswind.",
+                "hu": "Lépjen be a békés főhajóba. Nincs fűtve, így tartsa magán a kesztyűt, de ez a hatalmas tér remekül felfogja a jeges téli szeleket.",
+                "ro": "Intrați pentru a vedea naosul liniștit. Este neîncălzit, așa că păstrați mănușile, dar blochează excelent vânturile aspre și înghețate.",
+                "en": "Step inside to view the peaceful nave. It's unheated, so keep your gloves on, but it brilliantly blocks the harsh, icy winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Général de Gaulle",
+                "hu": "General de Gaulle Tér",
+                "ro": "Piața General de Gaulle",
+                "en": "General de Gaulle Square"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das zentrale Denkmal und die Gebäude. Achten Sie an Frosttagen auf versteckte Eisflächen auf den Pflastersteinen.",
+                "hu": "Csodálja meg a központi emlékművet és az épületeket. Fagyos napokon ügyeljen a térköveken megbúvó alattomos jégfoltokra sétáláskor.",
+                "ro": "Admirați monumentul central și clădirile din jur. Atenție la peticele de gheață ascunse pe pavaj în timpul zilelor geroase de iarnă.",
+                "en": "Admire the central monument and civic buildings. Watch out for hidden ice patches on the paving stones during heavily freezing days."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour à diables",
+                "hu": "Tour à diables",
+                "ro": "Tour à diables",
+                "en": "Tour à diables"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Architektur dieses alten Turms. Die kahlen Winterbäume bieten eine fantastische, freie Sicht für tolle Fotos.",
+                "hu": "Fedezze fel ezen ősi torony védelmi építészetét. A csupasz téli fák fantasztikus, akadálytalan kilátást nyújtanak a jó fotózáshoz.",
+                "ro": "Explorați arhitectura defensivă a acestui turn antic. Copacii golași de iarnă oferă o priveliște fantastică, neobstrucționată pentru poze.",
+                "en": "Explore the defensive architecture of this ancient tower. The bare winter trees offer a fantastic, unobstructed view for clear photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle (privat)",
+                "hu": "Öreg Malom (magán)",
+                "ro": "Vechea moară (privată)",
+                "en": "Old Mill (private)"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die historische Mühle vom Straßenrand an. Der frühe Sonnenuntergang um 17 Uhr wirft ein goldenes Licht auf die Ziegel.",
+                "hu": "Nézze meg a történelmi malmot az út széléről. A korai, 17 órai naplemente gyönyörű aranyló téli fényt vet az öreg téglákra.",
+                "ro": "Vedeți structura istorică a morii de pe marginea drumului. Apusul devreme la ora 17 aruncă o strălucire aurie de iarnă pe cărămizi.",
+                "en": "See the historic mill structure from the roadside. The early 5 PM sunset casts a beautiful golden winter glow on the aged bricks."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen a vasútállomástól Orchies szívébe. Fedezze fel az Église Notre-Dame szakrális művészetét, és pihenjen egyet a főtéren. A lenyűgöző Tour à diables után az útvonal a vidékies dél felé vezet a két történelmi malomhoz.",
         "ro": "Bicicliți de la gară direct în inima orașului Orchies. Descoperiți arta sacră de la Église Notre-Dame și bucurați-vă de o pauză în piața principală. După impresionantul Tour à diables, traseul continuă spre sudul rural către cele două mori istorice.",
         "en": "Cycle from the station straight into the heart of Orchies. Discover sacred art at the Église Notre-Dame and enjoy a break at the main square. After exploring the impressive Tour à diables, your route heads to the rural south to visit the two historic mills."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Rüsten Sie Ihr Fahrrad mit Schutzblechen aus. Die Fahrt zur Kirche erfordert Vorsicht auf nassen Straßen. Machen Sie Pausen unter den Markisen am Platz. Die Fahrt zu den Mühlen ist abenteuerlich, achten Sie auf nasses Laub.",
+            "hu": "Szereljen fel sárvédőt a kerékpárra. Az állomástól a templomig tartó út óvatosságot igényel a vizes aszfalton. Tartson szünetet a főtér árkádjai alatt. A malmokhoz tekerni kalandos, de vigyázzon a csúszós falevelekre.",
+            "ro": "Echipati-vă bicicleta cu apărători. Drumul spre biserică necesită prudență pe asfaltul umed. Faceți pauze sub copertinele din piață. Ciclismul spre mori este aventuros, dar atenție la frunzele alunecoase.",
+            "en": "Equip your bike with mudguards. The ride from the station to the church requires caution on wet roads. Take breaks under awnings near the square. Cycling to the mills in the rain is adventurous but watch for slippery leaves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Orchies",
+                "hu": "Orchies Vasútállomás",
+                "ro": "Gara Orchies",
+                "en": "Orchies Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie hier die Bremsen. Die nasse Backsteinumgebung wirkt atmosphärisch, aber rutschige Reifen erfordern große Vorsicht beim Start.",
+                "hu": "Indulás előtt ellenőrizze a fékeket. A nedves téglaépületek hangulatosak, de a csúszós gumik miatt rendkívül óvatos kerékpározás javasolt.",
+                "ro": "Verificați frânele aici înainte de a pleca. Cărămizile umede arată pline de atmosferă, dar anvelopele alunecoase cer mare prudență.",
+                "en": "Check your brakes here before setting off. The wet brick surroundings look atmospheric, but slick tires require cautious riding from the start."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame Templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und trocknen Sie sich drinnen ab. Die Steinarbeiten sind schön, ein toller Ort, um starke Schauer abzuwarten.",
+                "hu": "Parkolja le a bringát és menjen be megszáradni. A kőfaragások gyönyörűek, és ez a hely remek arra, hogy kivárja a felhőszakadásokat.",
+                "ro": "Parcați bicicleta și intrați pentru a vă usca. Detaliile din piatră sunt frumoase și e un loc excelent pentru a aștepta trecerea ploii.",
+                "en": "Park your bike and step inside to dry off. The intricate stonework is beautiful, and it's a great spot to comfortably wait out heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Général de Gaulle",
+                "hu": "General de Gaulle Tér",
+                "ro": "Piața General de Gaulle",
+                "en": "General de Gaulle Square"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam über den historischen Platz. Das nasse Pflaster verringert die Bodenhaftung drastisch, vermeiden Sie scharfe Kurven.",
+                "hu": "Lassan tekerjen a történelmi téren. A vizes macskakövek jelentősen rontják a tapadást, ezért mindenképpen kerülje az éles kanyarokat.",
+                "ro": "Pedalați încet în jurul pieței. Piatra cubică umedă reduce semnificativ tracțiunea, așa că evitați complet virajele strânse în ploaie.",
+                "en": "Ride slowly around the historic square. The wet cobblestones reduce traction significantly, so firmly avoid any sharp turns in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour à diables",
+                "hu": "Tour à diables",
+                "ro": "Tour à diables",
+                "en": "Tour à diables"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die mittelalterlichen Mauern. Halten Sie die Regenjacke gut geschlossen; hier kann es sehr windig und nass werden.",
+                "hu": "Csodálja meg a robusztus középkori falakat. Húzza fel jól az esőkabátját; a torony körüli nyitott tér kifejezetten szeles és nedves lehet.",
+                "ro": "Admirați zidurile medievale robuste. Țineți pelerina de ploaie bine închisă; spațiul deschis din jurul turnului poate fi extrem de vântos.",
+                "en": "Admire the robust medieval walls. Keep your raincoat zipped tight; the wide open space around the tower can get quite windy and wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle (privat)",
+                "hu": "Öreg Malom (magán)",
+                "ro": "Vechea moară (privată)",
+                "en": "Old Mill (private)"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die charmante private Mühle vom Weg aus. Achten Sie auf tiefe, schlammige Pfützen auf dem Weg zu diesem Ort.",
+                "hu": "Nézze meg a bájos magánmalmot az útról. Ügyeljen az idáig vezető vidéki úton kialakuló mély pocsolyákra a folyamatos esőzés miatt.",
+                "ro": "Vedeți fermecătoarea moară privată de pe potecă. Feriți-vă de bălțile adânci care se formează pe drumul rural noroios spre acest loc.",
+                "en": "View the charming private mill from the path. Beware of deep muddy puddles forming on the rural road leading up to this scenic spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle Buret",
+                "hu": "Buret Malom",
+                "ro": "Moara Buret",
+                "en": "Moulin Buret"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie an dieser zweiten Mühle. Ihre Schutzbleche werden Sie hier retten, da das letzte Stück bei Regen unglaublich schlammig ist.",
+                "hu": "Álljon meg ennél a második ikonikus malomnál is. A sárvédő itt életmentő lesz, mivel ez az utolsó szakasz nagyon sárossá válik.",
+                "ro": "Opriți-vă pentru a aprecia a doua moară. Apărătorile vă vor salva aici, deoarece ultima porțiune devine incredibil de noroioasă.",
+                "en": "Stop to appreciate this second iconic mill. Your mudguards will save you here, as the final dirt stretch gets incredibly muddy in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Tragen Sie Thermokleidung und gute Handschuhe. Die klare Luft am Bahnhof macht wach. Achten Sie auf Eisflächen nahe der Kirche. Die Fahrt zu den Mühlen ist schön, aber kehren Sie vor dem frühen Sonnenuntergang um 17 Uhr zurück.",
+            "hu": "Viseljen termo rétegeket és jó kesztyűt. A csípős levegő felfrissíti az állomásnál. Vigyázzon a jeges foltokra a templom és a főtér körül. A malmokhoz vezető út gyönyörű, de érjen vissza a korai, 17 órai sötétedés előtt.",
+            "ro": "Purtați haine termice și mănuși. Aerul rece vă trezește lângă gară. Atenție la peticele de gheață pe lângă biserică și piață. Plimbarea spre mori e frumoasă, dar întoarceți-vă înainte de lăsarea întunericului la ora 17:00.",
+            "en": "Wear thermal layers and good gloves. The crisp air awakes you near the station. Watch for icy patches near the church and square. The afternoon ride to the mills is beautiful, but return before the early 5 PM winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Orchies",
+                "hu": "Orchies Vasútállomás",
+                "ro": "Gara Orchies",
+                "en": "Orchies Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre Fahrt an der Bahnhofsfassade. Tragen Sie dicke Thermohandschuhe; der eisige Fahrtwind wird heute extrem intensiv sein.",
+                "hu": "Kezdje a tekerést az állomás homlokzatának megcsodálásával. Viseljen vastag termokesztyűt; a hideg menetszél nagyon fagyos lesz.",
+                "ro": "Începeți plimbarea admirând fațada gării. Purtați mănuși termice groase; frigul tăios al vântului în timpul mersului va fi intens.",
+                "en": "Start your brisk ride by admiring the station's facade. Wear thick thermal gloves; the icy wind chill while riding will be quite intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame Templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die gotischen Details. Eine kurze Pause drinnen hilft den Fingern beim Auftauen, auch wenn es drinnen nicht beheizt ist.",
+                "hu": "Figyelje meg a gótikus részleteket. Egy rövid pihenő odabent segít felolvasztani az ujjait, még akkor is, ha a templom nincs fűtve.",
+                "ro": "Observați detaliile gotice. O scurtă pauză înăuntru ajută degetele să se dezghețe rapid, chiar dacă biserica nu e deloc încălzită.",
+                "en": "Observe the gothic details. Taking a short break inside helps your numb fingers thaw, even if the grand church itself isn't actively heated."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Général de Gaulle",
+                "hu": "General de Gaulle Tér",
+                "ro": "Piața General de Gaulle",
+                "en": "General de Gaulle Square"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die Denkmäler an. Frost auf den Steinen des Platzes kann unsichtbar und tückisch für Fahrradreifen sein, fahren Sie sanft.",
+                "hu": "Nézze meg a köztéri emlékműveket. A térköveken lévő zúzmara láthatatlan és veszélyes lehet a vékony gumikra, tekerjen nagyon óvatosan.",
+                "ro": "Priviți monumentele civice. Bruma de pe pietrele pieței poate fi invizibilă și periculoasă pentru anvelopele subțiri, pedalați cu grijă.",
+                "en": "Look at the civic monuments. Frost on the square's stones can be perfectly invisible and treacherous for bike tires, so ride cautiously."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour à diables",
+                "hu": "Tour à diables",
+                "ro": "Tour à diables",
+                "en": "Tour à diables"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den Backsteinturm. Die tiefstehende Wintersonne wirft lange, dramatische Schatten, perfekt für ein schnelles Erinnerungsfoto.",
+                "hu": "Nézze meg a félelmetes téglatornyot. Az alacsonyan járó téli nap hosszú, drámai árnyékokat vet, ami tökéletes egy gyors fotózáshoz.",
+                "ro": "Vedeți turnul formidabil din cărămidă. Soarele scăzut de iarnă creează umbre lungi și dramatice, perfect pentru o fotografie rapidă.",
+                "en": "See the formidable brick tower. The exceptionally low winter sun creates long, dramatic shadows here, perfect for a quick photography stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle (privat)",
+                "hu": "Öreg Malom (magán)",
+                "ro": "Vechea moară (privată)",
+                "en": "Old Mill (private)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Mühle. Die ländliche Umgebung wirkt im Winter wunderbar einsam, radeln Sie zügig weiter, um warm zu bleiben.",
+                "hu": "Élvezze a rusztikus malom látványát. A vidéki környezet csodásan elhagyatottnak tűnik télen, de tekerjen tovább, hogy melegen maradjon.",
+                "ro": "Bucurați-vă de priveliștea morii rustice. Împrejurimile se simt minunat de pustii iarna, dar continuați să pedalați pentru a vă încălzi.",
+                "en": "Enjoy the view of the rustic mill. The rural surroundings feel wonderfully desolate in winter, but keep pedaling briskly to stay fully warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle Buret",
+                "hu": "Buret Malom",
+                "ro": "Moara Buret",
+                "en": "Moulin Buret"
+              },
+              "tip_5lang": {
+                "de": "Schätzen Sie die große Holzstruktur. Schalten Sie Ihr Fahrradlicht rechtzeitig ein, da die Dämmerung auf den Feldern sehr schnell hereinbricht.",
+                "hu": "Csodálja meg a hatalmas faszerkezetet. Kapcsolja be a kerékpárlámpákat, mert a kietlen mezőkön délután 17 óra körül nagyon gyorsan besötétedik.",
+                "ro": "Apreciați structura masivă din lemn. Asigurați-vă că luminile bicicletei sunt aprinse, deoarece amurgul se lasă brusc pe câmpuri la 17:00.",
+                "en": "Appreciate the grand wooden structure. Ensure your bike lights are fully on, as twilight sets in incredibly rapidly around 5 PM out in the fields."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Egy kényelmes autós túra lehetővé teszi Orchies teljes környékének felfedezését. Kezdjen nyugaton az Église Sainte-Berthe-nél, majd látogassa meg a központi műemlékeket. Vezessen tovább az északi és déli látnivalókhoz, és zárja a napot lazán a keleti részen.",
         "ro": "Un tur confortabil cu mașina vă permite să explorați toate împrejurimile orașului Orchies. Începeți în vest, la Église Sainte-Berthe, înainte de a vizita monumentele centrale. Continuați spre obiectivele nordice și sudice și încheiați relaxant în est.",
         "en": "A comfortable driving tour allows you to explore the entire surroundings of Orchies. Start in the west at Église Sainte-Berthe before visiting central monuments like Tour à diables. Continue to the northern and southern sights, ending your day with a relaxing stop in the east."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Auto ist ideal für Regentage. Fahren Sie zwischen den Kirchen und lassen Sie die Scheibenwischer arbeiten. Der mittelalterliche Turm wirkt stimmungsvoll. Laufen Sie mit Schirm zu den Mühlen, um trocken zu bleiben.",
+            "hu": "Az autó tökéletes az esős napokra. Vezessen a templomok között, miközben az ablaktörlők dolgoznak. A középkori torony hangulatos az esőben. Szaladjon esernyővel a kocsiból a malmokhoz, hogy egész nap száraz maradjon.",
+            "ro": "Mașina este perfectă pentru zilele ploioase. Conduceți între biserici cu ștergătoarele pornite. Turnul medieval este plin de atmosferă în ploaie. Fugiți cu umbrela de la mașină la mori pentru a rămâne uscat toată ziua.",
+            "en": "A car is perfect for rainy days. Drive between the churches and enjoy the wipers clearing the view. The medieval tower looks moody in the rain. Dash from the car to the mills with an umbrella to stay dry all day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Sainte-Berthe",
+                "hu": "Sainte-Berthe Templom",
+                "ro": "Biserica Sainte-Berthe",
+                "en": "Sainte-Berthe Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur aus dem Auto oder huschen Sie mit Schirm hinaus. Die schützende Veranda bietet einen perfekten, trockenen Fotoplatz.",
+                "hu": "Csodálja meg az építészetet az autóból, vagy szaladjon ki egy esernyővel. A tornác száraz menedéket kínál az épület fotózásához.",
+                "ro": "Admirați arhitectura fermecătoare din mașină sau ieșiți rapid cu umbrela. Pridvorul oferă un loc complet uscat pentru fotografii.",
+                "en": "Admire the charming architecture from inside your car or dash out with an umbrella. The porch offers a perfectly dry spot for your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour à diables",
+                "hu": "Tour à diables",
+                "ro": "Tour à diables",
+                "en": "Tour à diables"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den bedrohlichen Turm. Sie können einfach das Fenster für ein Foto herunterkurbeln, ohne direkt in den Regen treten zu müssen.",
+                "hu": "Nézze meg a fenyegető középkori tornyot. Könnyedén leengedheti az ablakot egy gyors fotóhoz anélkül, hogy kilépne a szakadó esőbe.",
+                "ro": "Vedeți turnul medieval amenințător. Puteți coborî pur și simplu geamul pentru o fotografie fără a face niciun pas în ploaia torențială.",
+                "en": "View the menacing medieval tower. You can easily roll down the car window for a quick photo without stepping out into the heavy pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Général de Gaulle",
+                "hu": "General de Gaulle Tér",
+                "ro": "Piața General de Gaulle",
+                "en": "General de Gaulle Square"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie um das historische Zentrum. Wenn Sie parken, nehmen Sie einen Schirm mit, da der offene Platz überhaupt keinen Regenschutz bietet.",
+                "hu": "Vezessen körbe a történelmi központban. Ha leparkol, feltétlenül vigyen esernyőt, mivel a tágas téren nincs semmilyen fedett menedék.",
+                "ro": "Conduceți prin centrul istoric. Dacă parcați, luați neapărat o umbrelă mare, deoarece piața larg deschisă nu oferă deloc acoperiș.",
+                "en": "Drive around the historic center. If you safely park to explore, bring an umbrella as the wide open square offers absolutely zero rain cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame Templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die Größe der Kirche. Es ist sehr zu empfehlen, hineinzugehen; ein trockener Zufluchtsort mit atemberaubenden Buntglasfenstern.",
+                "hu": "Figyelje meg a templom hatalmas méreteit. Érdemes bemenni; ez egy csodálatos száraz menedék lenyűgöző ólomüveg ablakokkal az esőben.",
+                "ro": "Observați dimensiunea grandioasă a bisericii. Intrați înăuntru; este un refugiu uscat genial cu vitralii absolut uimitoare și relaxante.",
+                "en": "Notice the grand scale of the church. It's highly recommended to step inside; it’s a brilliant dry haven adorned with stunning stained glass."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Schätzen Sie die Details der Fassade. Das Parken ist nah, also machen Sie nur einen kurzen, nassen Sprint in das trockene, einladende Innere.",
+                "hu": "Csodálja meg a homlokzat bonyolult részleteit. A parkoló szerencsére közel van, így csak egy gyors futás az esőben a száraz belső térig.",
+                "ro": "Apreciați detaliile complicate ale fațadei. Parcarea e aproape, deci e doar o fugă rapidă prin ploaie spre interiorul foarte uscat și primitor.",
+                "en": "Appreciate the intricate details of the facade. Parking is close by, so it’s just a quick, wet dash to the wonderfully dry, welcoming interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle (privat)",
+                "hu": "Öreg Malom (magán)",
+                "ro": "Vechea moară (privată)",
+                "en": "Old Mill (private)"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die alte Mühle aus dem bequemen, trockenen Auto. Die Straße hier kann extrem schlammig werden, fahren Sie also sehr vorsichtig.",
+                "hu": "Nézze meg a rusztikus régi malmot a száraz autó kényelméből. A közeli út extrém saras lehet az esőtől, ezért vezessen itt lassan és óvatosan.",
+                "ro": "Priviți moara veche rustică din confortul mașinii uscate. Drumul din apropiere poate deveni extrem de noroios, deci conduceți cu foarte multă grijă.",
+                "en": "Look at the rustic old mill from the complete comfort of your dry car. The road nearby can get quite muddy, so drive carefully over the puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle Buret",
+                "hu": "Buret Malom",
+                "ro": "Moara Buret",
+                "en": "Moulin Buret"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diese zweite Mühle. Der anhaltende Regen macht die umliegende grüne Landschaft durch die Windschutzscheibe unglaublich lebendig.",
+                "hu": "Csodálja meg ezt a lenyűgöző második malmot. Az eső miatt a környező zöld táj hihetetlenül élénk a vizes szélvédőn keresztül nézve.",
+                "ro": "Admirați această a doua moară impresionantă. Ploaia continuă face peisajul verde incredibil de vibrant privit direct prin parbrizul cald.",
+                "en": "Admire this impressive second mill. The heavy rain makes the surrounding lush green landscape incredibly vibrant when viewed from the windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Mariä-Himmelfahrt-Kirche",
+                "hu": "Nagyboldogasszony Templom",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Notre-Dame-de-l'Assomption Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt an dieser großen Kirche. Der massive, ruhige Innenraum ist eine perfekte letzte Flucht vor dem feuchten Regenwetter draußen.",
+                "hu": "Zárja autós útját ennél a hatalmas templomnál. Belső tere egy tökéletes végső menedék a kinti nyirkos, esős időjárás elől.",
+                "ro": "Încheiați-vă plimbarea la această biserică măreață. Interiorul masiv este o evadare finală perfectă din vremea ploioasă și umedă de afară.",
+                "en": "Conclude your relaxing drive at this grand church. Its massive interior is a completely perfect final escape from the damp, rainy weather outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Sitzheizung auf dieser Wintertour. Die alten Kirchen sehen im Frost majestätisch aus. Planen Sie den Besuch der fernen Mühlen und der großen Kirche ein, bevor die frühe Dämmerung um 17 Uhr einsetzt.",
+            "hu": "Élvezze a fűtött üléseket ezen a téli úton. Az ősi templomok fenségesek a zúzmarában. A főtéren könnyű navigálni. Tervezze be a távoli malmok és a nagy templom meglátogatását még a korai, 17 órai szürkület előtt.",
+            "ro": "Bucurați-vă de scaunele încălzite iarna. Bisericile antice arată maiestuos înconjurate de brumă. Piața este ușor de parcurs. Planificați să vedeți morile și marea biserică înainte de lăsarea devreme a serii la ora 17:00.",
+            "en": "Enjoy the heated car seats on this winter trip. The ancient churches look majestic surrounded by frost. The square is easy to navigate. Plan to see the distant mills and the grand church before the early 5 PM dusk settles in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Sainte-Berthe",
+                "hu": "Sainte-Berthe Templom",
+                "ro": "Biserica Sainte-Berthe",
+                "en": "Sainte-Berthe Church"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die elegante Turmspitze im Winterhimmel. Genießen Sie die Heizung, bevor Sie kurz aussteigen, um den frostigen Stein zu fotografieren.",
+                "hu": "Nézze meg a téli égbe nyúló elegáns tornyot. Élvezze az autó fűtését, mielőtt röviden kiszállna lefotózni a csodás deres köveket.",
+                "ro": "Vedeți turla elegantă pe cerul de iarnă. Bucurați-vă de căldura mașinii înainte de a ieși scurt pentru a poza piatra acoperită de brumă densă.",
+                "en": "See the elegant spire rising into the winter sky. Enjoy the car's heater before stepping out briefly to photograph the beautiful frost-covered stone."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour à diables",
+                "hu": "Tour à diables",
+                "ro": "Tour à diables",
+                "en": "Tour à diables"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die imposanten Festungsreste. Die karge Winterlandschaft passt absolut perfekt zu den dunklen mittelalterlichen Ziegeln des Turms.",
+                "hu": "Figyelje meg az impozáns erődítmény maradványait. A zord téli táj tökéletesen kiegészíti a torony sötét, középkori tégláinak látványát.",
+                "ro": "Observați rămășițele impunătoare ale fortăreței. Peisajul aspru de iarnă completează perfect cărămizile întunecate și medievale ale turnului.",
+                "en": "Observe the imposing fortress remains. The stark winter landscape perfectly complements the incredibly dark, medieval bricks of the round tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Général de Gaulle",
+                "hu": "General de Gaulle Tér",
+                "ro": "Piața General de Gaulle",
+                "en": "General de Gaulle Square"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Stadtzentrum. Parken Sie vorsichtig, da die gepflasterten Flächen durch unsichtbares Blitzeis trügerisch glatt sein können.",
+                "hu": "Fedezze fel a városközpontot. Parkoljon nagyon óvatosan, mivel a tér körüli macskaköves felületek a fekete jégtől megtévesztően csúszósak lehetnek.",
+                "ro": "Explorați centrul civic. Parcați cu mare grijă, deoarece suprafețele pietruite din jurul pieței pot fi înșelător de alunecoase de la gheața neagră.",
+                "en": "Explore the civic center. Park carefully, as the intricately cobbled surfaces around the square can be deceptively slick with invisible black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame Templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die Architektur. Ein Besuch drinnen lohnt sich kulturell sehr, aber behalten Sie den dicken Wintermantel an, da es dort kühl bleibt.",
+                "hu": "Csodálja meg a nagyszerű építészetet. A belső tér kulturálisan gazdagító, de tartsa magán a télikabátot, mert az óriási térben bent is hűvös van.",
+                "ro": "Admirați arhitectura grandioasă. O vizită înăuntru e plină de cultură, dar păstrați haina groasă de iarnă, deoarece aerul rămâne destul de rece.",
+                "en": "Marvel at the grand architecture. A quick visit inside is culturally rewarding, but keep your warm winter coat firmly on as it remains quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie das robuste Design dieser Kirche. Die karge Winterkulisse verleiht dem majestätischen Gebäude eine tief friedliche, stille Atmosphäre.",
+                "hu": "Figyelje meg a templom masszív kialakítását. A zord téli háttér mélyen békés és csendes atmoszférát kölcsönöz a történelmi, masszív épületnek.",
+                "ro": "Observați designul robust al bisericii. Fundalul sumbru de iarnă oferă structurii istorice masive o atmosferă profund pașnică și foarte tăcută.",
+                "en": "Notice the sturdy design of this church. The bleak winter backdrop simply gives the historical structure a profoundly peaceful and quiet atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle (privat)",
+                "hu": "Öreg Malom (magán)",
+                "ro": "Vechea moară (privată)",
+                "en": "Old Mill (private)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick dieser abgelegenen Mühle. Die Wärme des Autos ist ein wahrer Luxus bei der Betrachtung ländlicher Orte an einem Frosttag.",
+                "hu": "Élvezze a félreeső malom látványát. Az autó melege igazi luxus, miközben fagyos, hideg napokon nézegeti a havas, vidéki nevezetességeket.",
+                "ro": "Bucurați-vă de vederea acestei mori izolate. Căldura mașinii e un adevărat lux în timp ce vedeți repere rurale într-o zi absolut geroasă.",
+                "en": "Enjoy the sight of this secluded mill. The generous warmth of the car is a true luxury while viewing rural landmarks on a freezing, icy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle Buret",
+                "hu": "Buret Malom",
+                "ro": "Moara Buret",
+                "en": "Moulin Buret"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die Holzdetails der Mühle. Besuchen Sie diesen Ort rechtzeitig, bevor der frühe Wintersonnenuntergang um 17 Uhr die Felder komplett verdunkelt.",
+                "hu": "Nézze meg a malom bonyolult fa részleteit. Feltétlenül érjen ide, mielőtt a korai, 17 órai téli naplemente elsötétíti a kivilágítatlan mezőket.",
+                "ro": "Vedeți detaliile din lemn ale morii. Asigurați-vă că vizitați locul înainte ca apusul devreme de iarnă de la ora 17 să întunece rapid câmpurile.",
+                "en": "See the intricate wooden details of the mill. Make strictly sure to visit this spot before the early 5 PM winter sunset darkens the unlit fields."
+              }
+            },
+            {
+              "name": {
+                "de": "Mariä-Himmelfahrt-Kirche",
+                "hu": "Nagyboldogasszony Templom",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Notre-Dame-de-l'Assomption Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre lange Reise an dieser Kirche. Wenn das Tageslicht um 17 Uhr weicht, ist ihre schöne, beleuchtete Fassade ein wunderbarer Anblick.",
+                "hu": "Zárja útját ennek az impozáns templomnak a megcsodálásával. Mivel 17 órakor sötétedik, a kivilágított homlokzat a hideg téli éjszakában gyönyörű.",
+                "ro": "Încheiați călătoria admirând această biserică. Odată cu dispariția luminii la ora 17:00, fațada iluminată magnific în noaptea de iarnă e superbă.",
+                "en": "End your trip admiring this imposing church. With daylight fully fading by 5 PM, its brightly illuminated facade against the cold winter night is beautiful."
+              }
+            }
+          ]
+        }
       }
     }
   }

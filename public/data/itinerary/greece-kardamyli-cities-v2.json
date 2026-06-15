@@ -137,6 +137,168 @@
         "hu": "A napja Kardamyli történelmi szívében kezdődik, ahol feltárja a Mani zord örökségét a Mourtzinos-toronynál, majd még messzebbre utazik az időben a legendás sziklasíroknál. A délelőtt tökéletes átmenetet képez a kulturális felfedezésből a tenger megnyugtató közelségébe.\n\nAhogy a déli nap felmelegíti a partot, visszavonulhat a Salio strand frissítő kavicsos partjaira. A kristálytiszta víz tökéletes pihenést nyújt, lehetővé téve, hogy ússzon és élvezze a Messzéniai-öbölbe ereszkedő Tajgetosz-hegység fenséges látványát.\n\nA tengerparti felfrissülés után a délután arra csábít, hogy a sekély vízen átkeljen Meropi erődített szigetére. E lenyűgöző parti romok felfedezése igazi tengeri kalandot kínál, mielőtt dél felé venné az irányt Görögország egyik leghíresebb irodalmi menedékéhez.\n\nAhogy közeledik az este, eléri Patrick Leigh Fermor ikonikus otthonát, egy olajfaligetek között megbúvó építészeti remekművet. A nap egy inspiráló sétával zárul a gyönyörű mediterrán kertekben, amelyet a lemenő görög nap meleg, aranyló fénye fürdet.",
         "ro": "Ziua dumneavoastră începe în inima istorică din Kardamyli, descoperind moștenirea dură a regiunii Mani la Turnul Mourtzinos, înainte de a păși și mai departe în timp la mormintele legendare. Dimineața oferă o tranziție perfectă de la cultură la sunetul mării.\n\nPe măsură ce soarele amiezii încălzește coasta, vă veți retrage pe malurile răcoroase ale plajei Salio. Apele cristaline oferă un răgaz perfect, permițându-vă să vă relaxați, să înotați și să absorbiți priveliștea munților Taygetos care coboară dramatic în golf.\n\nRevigorați după plajă, după-amiaza vă invită să traversați apele puțin adânci către insulița fortificată Meropi. Explorarea acestor ruine fascinante oferă un sentiment de aventură maritimă înainte de a continua spre sud, către un faimos refugiu literar.\n\nOdată cu lăsarea serii, veți ajunge la casa emblematică a lui Patrick Leigh Fermor, o capodoperă ascunsă printre măslini. Ziua se încheie cu o plimbare inspirată prin grădinile sale mediteraneene superbe, scăldate în lumina caldă a asfințitului grecesc.",
         "en": "Your day begins in the historic heart of Kardamyli, uncovering the fierce heritage of the Mani at Mourtzinos Tower before stepping back further in time at the legendary rock-cut tombs. The morning transitions perfectly from cultural exploration to the soothing sounds of the sea.\n\nAs the midday sun warms the Peloponnese coastline, you'll retreat to the refreshing pebble shores of Salio Beach. The crystal-clear waters provide a perfect respite, allowing you to relax, swim, and soak in the majestic views of the Taygetos mountains plunging into the Messenian Gulf.\n\nRefreshed from the beach, the afternoon invites you to wade across the shallow waters to the island Fortification of Meropi. Exploring these fascinating coastal ruins offers a sense of maritime adventure before continuing south toward one of Greece's most famous literary hideaways.\n\nAs evening approaches, you'll reach the iconic home of Patrick Leigh Fermor, an architectural masterpiece hidden amidst olive groves. The day concludes with an inspiring stroll through its beautiful Mediterranean gardens, bathed in the warm, golden light of the setting Greek sun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der Altstadt von Kardamyli, wo der Mourtzinos-Turm Schutz vor dem Regen bietet. Mittags führt ein kurzer Spaziergang zu den Dioskouron-Gräbern, wobei man auf den glitschigen Steinen vorsichtig sein sollte. Nachmittags ist das Patrick Leigh Fermor Museum die ideale trockene Zuflucht. Der Abend endet gemütlich in den beleuchteten Gassen des Dorfes, wenn der Regen nachlässt.",
+            "hu": "A reggel az óvárosban indul, ahol a Mourtzinos-torony falai között találunk menedéket az eső elől. Délben rövid séta vezet a Dioszkuroszok sírjaihoz, ahol a vizes kövek csúszósak lehetnek. Délután a Patrick Leigh Fermor Múzeum kínál tökéletes, fedett kulturális programot. Az este a falu fényeiben, a nedves macskaköveken sétálva ér véget, miközben az eső csendesedik.",
+            "ro": "Dimineața începe în orașul vechi, unde Turnul Mourtzinos oferă adăpost împotriva ploii. La prânz, o scurtă plimbare spre mormintele Dioscurilor necesită atenție pe pietrele alunecoase. După-amiaza, Muzeul Patrick Leigh Fermor este refugiul ideal și uscat. Seara se încheie plăcut pe străzile luminate ale satului, în timp ce ploaia se domolește pe caldarâm.",
+            "en": "The morning starts in Old Kardamyli, where the Mourtzinos Tower provides solid shelter from the rain. At midday, a short walk leads to the Dioskouron tombs; exercise caution on the slippery ancient stones. In the afternoon, the Patrick Leigh Fermor Museum serves as a perfect dry sanctuary. The evening concludes cozily in the village streets as the rain reflects the soft streetlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mourtzinos-Turm",
+                "hu": "Mourtzinos-torony",
+                "ro": "Turnul Mourtzinos",
+                "en": "Mourtzinos Tower"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Innenräume des Wehrturms, um trocken zu bleiben; die dicken Mauern bieten hervorragenden Schutz vor Küstenstürmen.",
+                "hu": "Fedezze fel a védőtorony belső tereit, hogy száraz maradjon; a vastag falak kiváló menedéket nyújtanak a tengerparti viharok elől.",
+                "ro": "Explorați interiorul turnului fortificat pentru a rămâne uscat; zidurile groase oferă un adăpost excelent împotriva furtunilor de coastă.",
+                "en": "Explore the interior of the fortified tower to stay dry; the thick stone walls provide excellent shelter from coastal storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Taphoi Dioskouron",
+                "hu": "Taphoi Dioskouron",
+                "ro": "Taphoi Dioskouron",
+                "en": "Taphoi Dioskouron"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die antiken Gräber aus kurzer Distanz; tragen Sie festes Schuhwerk, da der Pfad bei Regen sehr schlammig und rutschig wird.",
+                "hu": "Tekintse meg az antik sírokat közelről; viseljen tapadós talpú cipőt, mert az út esőben sárossá és rendkívül csúszóssá válik.",
+                "ro": "Vizualizați mormintele antice de la mică distanță; purtați încălțăminte aderentă, deoarece poteca devine noroioasă și alunecoasă pe ploaie.",
+                "en": "View the ancient tombs from a short distance; wear high-traction shoes as the path becomes muddy and very slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Salio Strand",
+                "hu": "Salio strand",
+                "ro": "Plaja Salio",
+                "en": "Salio Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die aufgewühlte See von einem überdachten Punkt aus; die grauen Wellen bieten ein dramatisches Fotomotiv bei Regenwetter.",
+                "hu": "Figyelje a felkorbácsolt tengert egy fedett pontról; a szürke hullámok drámai fotótémát kínálnak az esős, viharos időben.",
+                "ro": "Observați marea agitată dintr-un punct acoperit; valurile cenușii oferă un subiect foto dramatic pe vreme ploioasă.",
+                "en": "Observe the churning sea from a sheltered spot; the grey waves provide a dramatic photo opportunity during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Befestigung von Meropi",
+                "hu": "Meropi erődítménye",
+                "ro": "Fortificația Meropi",
+                "en": "Fortification of Meropi"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im Nebel besonders mystisch; halten Sie sich an die befestigten Wege, um nicht im nassen Gras auszurutschen.",
+                "hu": "A romok a ködben különösen misztikusnak tűnnek; maradjon a kövezett utakon, hogy elkerülje az elcsúszást a vizes füvön.",
+                "ro": "Ruinele par deosebit de mistice în ceață; rămâneți pe potecile pavate pentru a evita alunecarea pe iarba udă.",
+                "en": "The ruins look particularly mystical in the mist; stick to the paved sections to avoid slipping on the wet grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Patrick Leigh Fermor Museum",
+                "hu": "Patrick Leigh Fermor",
+                "ro": "Patrick Leigh Fermor",
+                "en": "Patrick Leigh Fermor"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für einen ausführlichen Besuch der Innenräume; dieses Haus ist der perfekte Ort, um trocken in Literatur und Geschichte einzutauchen.",
+                "hu": "Használja ki az esőt a ház belső tereinek alapos felfedezésére; ez a tökéletes hely, hogy szárazon merüljön el az irodalomban és történelemben.",
+                "ro": "Profitați de ploaie pentru o vizită detaliată în interior; această casă este locul perfect pentru a descoperi literatura și istoria la adăpost.",
+                "en": "Take advantage of the rain for an extensive indoor visit; this house is the perfect place to immerse in literature and history while dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht die Sicht auf die Mani-Berge am Morgen spektakulär. Mittags wärmt die tiefstehende Sonne die Steine des Mourtzinos-Turms. Da es bereits gegen 17:00 Uhr dunkel wird, sollte der Besuch im Patrick Leigh Fermor Museum am frühen Nachmittag erfolgen. Der Abend lädt zu einem Wein in einer der beheizten Tavernen am Hafen ein.",
+            "hu": "A tiszta téli levegő reggel látványos panorámát nyújt a Mani-hegységre. Délben az alacsonyan járó nap melegíti a Mourtzinos-torony köveit. Mivel 17:00 körül sötétedik, a múzeumlátogatást kora délutánra érdemes időzíteni. Az este egy pohár bor mellett, a kikötő egyik fűtött tavernájában a leghangulatosabb.",
+            "ro": "Aerul curat de iarnă face ca vederea spre munții Mani să fie spectaculoasă dimineața. La prânz, soarele blând încălzește pietrele turnului. Deoarece se întunecă în jurul orei 17:00, planificați vizita la muzeu devreme. Seara vă invită la un pahar de vin într-o tavernă încălzită din port.",
+            "en": "The crisp winter air makes the morning views of the Mani mountains spectacular. At midday, the low sun warms the ancient stones of the tower. Since it gets dark around 17:00, schedule the museum visit for the early afternoon. The evening is best spent with a glass of wine in a heated tavern by the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mourtzinos-Turm",
+                "hu": "Mourtzinos-torony",
+                "ro": "Turnul Mourtzinos",
+                "en": "Mourtzinos Tower"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm vormittags, wenn die Wintersonne die Fassade beleuchtet; ziehen Sie sich warm an, da es in den Gängen zugig sein kann.",
+                "hu": "Látogassa meg a tornyot délelőtt, amikor a téli nap megvilágítja a homlokzatot; öltözzön rétegesen, mert a folyosók huzatosak lehetnek.",
+                "ro": "Vizitați turnul dimineața, când soarele de iarnă luminează fațada; îmbrăcați-vă gros, deoarece coridoarele pot fi răcoroase.",
+                "en": "Visit the tower in the morning when the winter sun illuminates the facade; dress warmly as the stone corridors can be drafty."
+              }
+            },
+            {
+              "name": {
+                "de": "Taphoi Dioskouron",
+                "hu": "Taphoi Dioskouron",
+                "ro": "Taphoi Dioskouron",
+                "en": "Taphoi Dioskouron"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Luft macht den kurzen Aufstieg angenehm; genießen Sie die Stille der Nebensaison ohne die üblichen Touristenmassen.",
+                "hu": "A hűvös levegő kellemessé teszi a rövid felfelé utat; élvezze a főszezonon kívüli csendet a szokásos turistaáradat nélkül.",
+                "ro": "Aerul rece face urcușul scurt foarte plăcut; bucurați-vă de liniștea din afara sezonului, fără mulțimile obișnuite de turiști.",
+                "en": "The cool air makes the short climb pleasant; enjoy the off-season silence without the usual crowds of tourists."
+              }
+            },
+            {
+              "name": {
+                "de": "Salio Strand",
+                "hu": "Salio strand",
+                "ro": "Plaja Salio",
+                "en": "Salio Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Strandspaziergang ist im Winter besonders erfrischend; bringen Sie eine Thermoskanne mit Tee für eine Pause am Meer mit.",
+                "hu": "Egy magányos tengerparti séta télen különösen frissítő; vigyen magával egy termosz teát a parton tartott rövid pihenőhöz.",
+                "ro": "O plimbare solitară pe plajă este revigorantă iarna; aduceți un termos cu ceai pentru o pauză relaxantă lângă mare.",
+                "en": "A solitary beach walk is especially refreshing in winter; bring a thermos of tea for a peaceful break by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Befestigung von Meropi",
+                "hu": "Meropi erődítménye",
+                "ro": "Fortificația Meropi",
+                "en": "Fortification of Meropi"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klare Fernsicht über den Messenischen Golf; im Winter ist die Luft oft viel klarer als im heißen, dunstigen Sommer.",
+                "hu": "Csodálja meg a tiszta kilátást a Messzéniai-öbölre; télen a levegő sokkal áttetszőbb, mint a forró, párás nyári napokon.",
+                "ro": "Admirați vederea clară peste Golful Messinian; iarna, aerul este adesea mult mai limpede decât în zilele fierbinți de vară.",
+                "en": "Admire the clear views across the Messinian Gulf; in winter, the air is often much sharper than during the hazy summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Patrick Leigh Fermor Museum",
+                "hu": "Patrick Leigh Fermor",
+                "ro": "Patrick Leigh Fermor",
+                "en": "Patrick Leigh Fermor"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch am frühen Nachmittag ist ideal, um das goldene Winterlicht in den Räumen zu erleben, bevor die Sonne früh hinter den Bergen verschwindet.",
+                "hu": "A kora délutáni látogatás ideális, hogy lássa az aranyló téli fényeket a szobákban, mielőtt a nap korán eltűnik a hegyek mögött.",
+                "ro": "O vizită după-amiaza devreme este ideală pentru a vedea lumina aurie de iarnă în camere, înainte ca soarele să apună după munți.",
+                "en": "An early afternoon visit is ideal to witness the golden winter light in the rooms before the sun disappears behind the mountains."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpáros kalandját a Mourtzinos-toronynál, felfedezve a helyi vezetők masszív kőépítményeit. Egy rövid tekerés a Taphoi Dioskouronhoz vezet, ahol a történelem visszhangzik az olajfák között, megadva a tengerparti utazás mély és kulturális alaphangját.\n\nTekerjen le Paralia Ritsa kavicsos partjaira, majd guruljon át a Salio strandra. A déli napsütés tökéletes arra, hogy felváltva élvezze a nyerget és a csillogó azúrkék vizet, miközben teljesen magába szívja a Mani-félsziget látványos, hegyekkel övezett tengerparti táját.\n\nA délutáni pedálozás Meropi lenyűgöző erődjéhez visz, ahol hátrahagyva a bringát átkelhet a sekély vízen. Tovább délre felfedezheti a szeretett Patrick Leigh Fermor birtokot, amely bizonyítja a régió művészekre és írókra gyakorolt varázslatos és tartós vonzerejét.\n\nA kerékpáros utazás lágyan ér véget a Kalamitsi strandon. E védett öböl nyugodt, smaragd vize a tökéletes esti kikapcsolódást nyújtja. Pihentesse meg lábait a meleg kavicsokon, és figyelje, ahogy az ég színei megváltoznak a békés Messzéniai-öböl felett naplementekor.",
         "ro": "Începeți aventura pe bicicletă la Turnul Mourtzinos, explorând structurile de piatră. O scurtă pedalare vă duce la anticele morminte Taphoi Dioskouron, unde istoria răsună printre măslini, stabilind un ton profund și cultural pentru călătoria dumneavoastră pe coastă.\n\nCoborâți spre malurile cu pietriș de la Paralia Ritsa și apoi mergeți agale spre Plaja Salio. Soarele amiezii este perfect pentru a alterna între șa și apele azurii, permițându-vă să absorbiți peisajul spectaculos de coastă al faimoasei peninsule grecești Mani.\n\nPedalarea de după-amiază vă aduce la impresionanta fortificație Meropi, unde lăsați bicicleta pentru a traversa prin apă. Mai la sud, veți descoperi domeniul lui Patrick Leigh Fermor, o dovadă a atracției magice pe care regiunea a exercitat-o mereu asupra artiștilor.\n\nCălătoria se încheie liniștit la Plaja Kalamitsi. Apele de smarald ale acestui golf ferit oferă relaxarea supremă de seară. Vă puteți odihni picioarele pe pietrișul cald și puteți privi cum cerul își schimbă culorile deasupra golfului Messenian pe măsură ce ziua se încheie.",
         "en": "Start your cycling adventure at the Mourtzinos Tower, exploring the sturdy stonework of local chieftains. A short pedal takes you to the ancient Taphoi Dioskouron, where history echoes through the olive trees, setting a profound tone for your coastal journey.\n\nRide down to the expansive pebble shores of Paralia Ritsa and then gently cruise to Salio Beach. The midday sun is perfect for alternating between the saddle and the sparkling azure waters, letting you fully absorb the spectacular coastal scenery of the Mani peninsula.\n\nYour afternoon pedals bring you to the impressive Fortification of Meropi, where you can leave the bike and cross the shallows. Continuing south, you'll discover the beloved Patrick Leigh Fermor estate, a testament to the region's enchanting pull on artists and writers.\n\nThe bike journey concludes smoothly at Kalamitsi Beach. The calm, emerald waters of this sheltered cove provide the ultimate evening relaxation. You can rest your legs on the warm pebbles and watch the sky change colors over the tranquil Messenian Gulf as the day ends."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht auf den Küstenstraßen, bietet aber eine erfrischende Perspektive auf die Mani. Morgens erkunden wir den Mourtzinos-Turm. Mittags radeln wir vorsichtig zu den Stränden, wo die Cafés Schutz bieten. Nachmittags ist das Museum ein Muss, um trocken zu bleiben. Der Abend endet bei einer heißen Schokolade im Dorf.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a parti utakon, de frissítő perspektívát nyújt Manira. Reggel a Mourtzinos-torony vár. Délben óvatosan tekerünk a strandok felé, ahol a kávézókban találunk menedéket. Délután a múzeum kötelező program a szárazon maradáshoz. Az este egy forró csokoládé mellett ér véget a faluban.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile de coastă, dar oferă o perspectivă proaspătă asupra zonei Mani. Dimineața explorăm Turnul Mourtzinos. La prânz pedalăm cu grijă spre plaje, unde cafenelele oferă adăpost. După-amiaza, muzeul este obligatoriu pentru a rămâne uscat. Seara se încheie cu o ciocolată caldă în sat.",
+            "en": "Cycling in the rain requires caution on the coastal roads but offers a refreshing perspective of Mani. Morning is spent at the Mourtzinos Tower. Midday, pedal carefully to the beaches where cafes provide cover. In the afternoon, the museum is a must to stay dry. The evening concludes with a hot chocolate in the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mourtzinos-Turm",
+                "hu": "Mourtzinos-torony",
+                "ro": "Turnul Mourtzinos",
+                "en": "Mourtzinos Tower"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Torbogen ab; nutzen Sie den Besuch, um die Regenkleidung zu richten und die historischen Hallen zu erkunden.",
+                "hu": "Parkolja le kerékpárját a boltív alatt; használja ki a látogatást az esőruházat megigazítására és a történelmi csarnokok felfedezésére.",
+                "ro": "Parcați bicicleta sub arcadă; profitați de vizită pentru a vă ajusta echipamentul de ploaie și pentru a explora sălile istorice.",
+                "en": "Park your bike under the archway; use the visit to adjust your rain gear and explore the historic halls in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Taphoi Dioskouron",
+                "hu": "Taphoi Dioskouron",
+                "ro": "Taphoi Dioskouron",
+                "en": "Taphoi Dioskouron"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist hier sehr rutschig; steigen Sie vom Fahrrad ab und gehen Sie das letzte Stück zu den Gräbern zu Fuß.",
+                "hu": "A talaj itt nagyon csúszós; szálljon le a kerékpárról, és az utolsó szakaszt a sírokhoz tegye meg gyalogosan.",
+                "ro": "Solul este foarte alunecos aici; coborâți de pe bicicletă și parcurgeți ultima porțiune spre morminte pe jos.",
+                "en": "The ground is very slippery here; dismount from your bike and walk the last stretch to the tombs on foot for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Ritsa 3e",
+                "hu": "Paralia Ritsa 3e",
+                "ro": "Paralia Ritsa 3e",
+                "en": "Paralia Ritsa 3e"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Weg zum Strand; ein kurzes Foto der dramatischen Wolken lohnt sich trotz des nassen Wetters.",
+                "hu": "Ügyeljen a tócsákra a strand felé vezető úton; a drámai felhőkről készített gyors fotó megéri a vizes út ellenére is.",
+                "ro": "Atenție la bălți pe drumul spre plajă; o fotografie rapidă a norilor dramatici merită efortul în ciuda vremii umede.",
+                "en": "Watch out for puddles on the way to the beach; a quick photo of the dramatic clouds is worth it despite the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Salio Strand",
+                "hu": "Salio strand",
+                "ro": "Plaja Salio",
+                "en": "Salio Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Strand; die nassen Kieselsteine und der Asphalt können die Bremswege verlängern.",
+                "hu": "Ellenőrizze a fékeket a strand felé tartó lejtő előtt; a vizes kavicsok és az aszfalt megnövelhetik a féktávolságot.",
+                "ro": "Verificați frânele înainte de coborârea spre plajă; pietrișul ud și asfaltul pot mări distanța de frânare.",
+                "en": "Check your brakes before heading down to the beach; wet pebbles and asphalt can significantly increase braking distances."
+              }
+            },
+            {
+              "name": {
+                "de": "Befestigung von Meropi",
+                "hu": "Meropi erődítménye",
+                "ro": "Fortificația Meropi",
+                "en": "Fortification of Meropi"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen können bei Nässe extrem tückisch sein; bewundern Sie die Festung lieber von der Straße aus, um Stürze zu vermeiden.",
+                "hu": "A sziklák rendkívül csalókák lehetnek nedvesen; csodálja az erődöt inkább az út felől, hogy elkerülje az eséseket.",
+                "ro": "Stâncile pot fi extrem de înșelătoare când sunt ude; admirați fortăreața mai degrabă de pe drum pentru a evita căzăturile.",
+                "en": "The rocks can be extremely treacherous when wet; admire the fortress from the road instead to avoid any potential falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Patrick Leigh Fermor Museum",
+                "hu": "Patrick Leigh Fermor",
+                "ro": "Patrick Leigh Fermor",
+                "en": "Patrick Leigh Fermor"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen überdachten Platz für Ihr Rad; der Museumsbesuch bietet die perfekte Pause, um sich nach der Fahrt aufzuwärmen.",
+                "hu": "Keressen fedett helyet a kerékpárjának; a múzeumlátogatás tökéletes szünetet biztosít, hogy felmelegedjen a tekerés után.",
+                "ro": "Căutați un loc acoperit pentru bicicletă; vizita la muzeu oferă pauza perfectă pentru a vă încălzi după drum.",
+                "en": "Find a covered spot for your bike; the museum visit provides the perfect break to dry off and warm up after your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalamitsi Strand",
+                "hu": "Kalamitsi strand",
+                "ro": "Plaja Kalamitsi",
+                "en": "Kalamitsi Beach"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht auf die Bucht oft mystisch verschwommen; fahren Sie vorsichtig zurück zum Dorf, bevor es ganz dunkel wird.",
+                "hu": "Esőben az öbölre nyíló kilátás gyakran misztikusan homályos; tekerjen vissza óvatosan a faluba, mielőtt teljesen besötétedik.",
+                "ro": "Pe ploaie, vederea spre golf este adesea mistic de încețoșată; pedalați înapoi spre sat cu grijă înainte de lăsarea întunericului.",
+                "en": "In the rain, the view of the bay is often mystically blurred; bike back to the village carefully before it gets completely dark."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Kardamyli bietet kühle Brisen und leere Wege. Morgens ist die Besichtigung des Turms ideal, um in Bewegung zu kommen. Mittags genießen wir die Sonne an den einsamen Stränden von Ritsa und Salio. Wegen des frühen Sonnenuntergangs gegen 17:00 Uhr radeln wir rechtzeitig zum Museum. Der Abend klingt bei Kaminfeuer im Dorf aus.",
+            "hu": "A téli kerékpározás Kardamyliben hűvös szellőket és üres utakat kínál. Reggel a torony látogatása ideális a bemelegítéshez. Délben élvezzük a napsütést Ritsa és Salio magányos strandjain. A korai, 17:00-s napnyugta miatt időben tekerünk a múzeumhoz. Az este a falu egyik kandallós tavernájában zárul.",
+            "ro": "Ciclismul de iarnă în Kardamyli oferă brize răcoroase și drumuri libere. Dimineața, vizitarea turnului este ideală pentru a vă pune în mișcare. La prânz ne bucurăm de soare pe plajele pustii Ritsa și Salio. Din cauza apusului devreme, la ora 17:00, pedalăm spre muzeu din timp. Seara se încheie lângă șemineu în sat.",
+            "en": "Winter cycling in Kardamyli offers cool breezes and empty paths. In the morning, visiting the tower is ideal to get moving. At midday, enjoy the sun on the lonely beaches of Ritsa and Salio. Due to the early sunset at 17:00, head to the museum in good time. The evening ends by a fireplace in the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mourtzinos-Turm",
+                "hu": "Mourtzinos-torony",
+                "ro": "Turnul Mourtzinos",
+                "en": "Mourtzinos Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Steinmauern speichern die Kälte; tragen Sie winddichte Handschuhe für die Weiterfahrt nach der Besichtigung.",
+                "hu": "A kőfalak tartják a hideget; viseljen szélálló kesztyűt a látogatás utáni továbbhaladáshoz a hűvös menetszélben.",
+                "ro": "Zidurile de piatră păstrează frigul; purtați mănuși rezistente la vânt pentru continuarea drumului după vizită.",
+                "en": "The stone walls retain the cold; wear windproof gloves for the continued ride after your visit in the cool air."
+              }
+            },
+            {
+              "name": {
+                "de": "Taphoi Dioskouron",
+                "hu": "Taphoi Dioskouron",
+                "ro": "Taphoi Dioskouron",
+                "en": "Taphoi Dioskouron"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Weg oft von frischem Grün bewachsen; genießen Sie den kurzen Stopp, um die Muskeln kurz auszuruhen.",
+                "hu": "Télen az utat gyakran friss zöld növényzet borítja; élvezze a rövid megállót, hogy kicsit pihentesse az izmait.",
+                "ro": "Iarna, poteca este adesea acoperită de verdeață proaspătă; bucurați-vă de oprirea scurtă pentru a vă odihni puțin mușchii.",
+                "en": "In winter, the path is often covered in fresh greenery; enjoy the short stop to give your muscles a brief rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Ritsa 3e",
+                "hu": "Paralia Ritsa 3e",
+                "ro": "Paralia Ritsa 3e",
+                "en": "Paralia Ritsa 3e"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer; nutzen Sie die Weite für ein paar tiefe Atemzüge der sauberen Meeresluft.",
+                "hu": "A strand télen teljesen néptelen; használja ki a tágas teret néhány mély lélegzetvételre a tiszta tengeri levegőből.",
+                "ro": "Plaja este pustie iarna; profitați de spațiul generos pentru câteva respirații adânci de aer marin curat.",
+                "en": "The beach is deserted in winter; take advantage of the wide-open space for some deep breaths of clean sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Salio Strand",
+                "hu": "Salio strand",
+                "ro": "Plaja Salio",
+                "en": "Salio Beach"
+              },
+              "tip_5lang": {
+                "de": "Der tiefe Sonnenstand sorgt für langes Licht am Wasser; ideal für Landschaftsfotos ohne die Sommerhitze.",
+                "hu": "Az alacsony napállás hosszan tartó fényeket biztosít a víznél; ideális tájfotókhoz a nyári hőség nélkül.",
+                "ro": "Soarele jos oferă o lumină prelungită lângă apă; ideal pentru fotografii de peisaj fără arșița verii.",
+                "en": "The low sun provides long-lasting light by the water; ideal for landscape photos without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Befestigung von Meropi",
+                "hu": "Meropi erődítménye",
+                "ro": "Fortificația Meropi",
+                "en": "Fortification of Meropi"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben im Winter stark wehen; achten Sie beim Abstellen des Rades auf einen sicheren Stand.",
+                "hu": "A szél itt fent télen erősen fújhat; ügyeljen a kerékpár stabil leállítására a várfalak közelében.",
+                "ro": "Vântul poate sufla puternic aici sus iarna; asigurați-vă că parcați bicicleta într-un loc stabil lângă ziduri.",
+                "en": "The wind can blow strongly up here in winter; ensure your bike is parked securely near the fortress walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Patrick Leigh Fermor Museum",
+                "hu": "Patrick Leigh Fermor",
+                "ro": "Patrick Leigh Fermor",
+                "en": "Patrick Leigh Fermor"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Haus, bevor die Dämmerung einsetzt; das warme Ambiente im Inneren ist im Winter besonders einladend.",
+                "hu": "Látogassa meg a házat a szürkület beállta előtt; a belső terek meleg hangulata télen különösen hívogató.",
+                "ro": "Vizitați casa înainte de lăsarea serii; ambianța caldă din interior este deosebit de primitoare în timpul iernii.",
+                "en": "Visit the house before dusk sets in; the warm interior ambiance is particularly inviting during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalamitsi Strand",
+                "hu": "Kalamitsi strand",
+                "ro": "Plaja Kalamitsi",
+                "en": "Kalamitsi Beach"
+              },
+              "tip_5lang": {
+                "de": "Der frühe Sonnenuntergang färbt die Bucht in sanfte Töne; radeln Sie zügig zurück, da die Temperaturen danach schnell sinken.",
+                "hu": "A korai napnyugta lágy tónusokba öltözteti az öblöt; tekerjen vissza gyorsan, mert utána a hőmérséklet hirtelen leesik.",
+                "ro": "Apusul devreme colorează golful în tonuri calde; pedalați înapoi rapid, deoarece temperatura scade brusc după aceea.",
+                "en": "The early sunset paints the bay in soft tones; bike back quickly as temperatures drop rapidly once the sun is down."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Az autóval elsőként elérheti M. Likaki magaslati nyugalmát, majd leereszkedhet az impozáns Mourtzinos-toronyhoz. A délelőtt egy rövid sétával zárul a Taphoi Dioskouron mitikus, sziklába vájt struktúráihoz, ahol elmerülhet a hely történelmi és legendás atmoszférájában.\n\nGuruljon el kényelmesen Paralia Ritsa tágas partvidékére és a szomszédos öblökhöz. Az autó megkönnyíti a felszerelés tárolását, miközben egy kiadós déli úszást élvez, és a drámai hegyek árnyékában, a tiszta fehér kavicsokon sütkérezik a ragyogó mediterrán napsütésben.\n\nEgy rövid dél felé tartó út Meropi sekély vizéhez vezet, ahol ősi romok várják. Ezután parkoljon le a Patrick Leigh Fermor ház közelében, és merüljön el abban az irodalmi és építészeti eleganciában, amely Kardamylit világszerte oly népszerű és szeretett hellyé tette.\n\nAz utolsó állomáshoz vezessen a rövid távolságra lévő Kalamitsi strandra. Ez a tökéletes védett öböl egy hosszú kirándulós nap lezárására. Élvezze a naplementét a kristálytiszta vizen, mielőtt visszaindulna, magával víve a csodás Mani-félsziget vad, érintetlen szépségét.",
         "ro": "Cu mașina ajungeți mai întâi la liniștea înălțimilor de la M. Likaki, oferind contemplare înainte de a coborî la impozantul Turn Mourtzinos. Dimineața se încheie cu o scurtă plimbare către structurile mitice tăiate în stâncă ale monumentului antic Taphoi Dioskouron.\n\nConduceți fără efort spre întinderea Plajei Ritsa. Având mașină, este ușor să vă depozitați lucrurile în timp ce vă bucurați de o sesiune prelungită de înot la prânz, stând la soare pe pietricelele albe, cu munții dramatici profilându-se maiestuos în fundal.\n\nO scurtă călătorie spre sud vă duce la apele liniștite de la Meropi, unde ruinele fortificate invită la explorare. Apoi parcați lângă casa lui Patrick Leigh Fermor, scufundându-vă în eleganța literară și arhitecturală care a făcut Kardamyli atât de faimos în toată lumea.\n\nPentru ultima oprire, conduceți spre Plaja Kalamitsi. Este golful perfect protejat pentru a încheia o zi plină. Bucurați-vă de apusul reflectat pe apele cristaline înainte de a vă întoarce, luând cu dumneavoastră toată această frumusețe sălbatică a peninsulei Mani.",
         "en": "Driving allows you to reach the elevated serenity of M. Likaki first, offering quiet contemplation before descending to the imposing Mourtzinos Tower. The morning wraps up with a short walk to the mythical rock-cut structures of Taphoi Dioskouron.\n\nCruise effortlessly to the expansive stretch of Paralia Ritsa and its neighboring coves. Having a car makes it easy to stow your gear while you enjoy an extended midday swimming session, basking on the pristine white pebbles with the dramatic mountains looming behind.\n\nA short drive south brings you to the shallows of Meropi, where ancient fortified ruins invite coastal exploration. Afterwards, park near the Patrick Leigh Fermor house, diving deep into the literary and architectural elegance that has made Kardamyli globally beloved.\n\nFor the final stop, drive the short distance to Kalamitsi Beach. It is the perfect sheltered bay to end an extensive day of touring. Enjoy the sunset reflecting off the tranquil, crystal-clear water before heading back, carrying the wild beauty of the Mani with you."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch die Mani bietet dramatische Ausblicke auf wolkenverhangene Berge. Morgens besuchen wir die abgelegene Likaki-Kirche. Mittags steuern wir den Mourtzinos-Turm und die Gräber an, während wir zwischen den Schauern das Auto verlassen. Nachmittags ist das Museum der perfekte trockene Rückzugsort. Der Abend endet bei einer gemütlichen Fahrt entlang der Küste.",
+            "hu": "Az esős autózás Manin keresztül drámai kilátást nyújt a felhőkbe burkolózott hegyekre. Reggel a távoli Likaki-templomot látogatjuk meg. Délben a Mourtzinos-toronyhoz és a sírokhoz hajtunk, az esőszüneteket kihasználva a nézelődésre. Délután a múzeum a tökéletes száraz menedék. Az este egy hangulatos parti kocsikázással zárul.",
+            "ro": "O plimbare cu mașina prin Mani pe ploaie oferă vederi dramatice asupra munților înveliți în nori. Dimineața vizităm biserica izolată Likaki. La prânz mergem la Turnul Mourtzinos și la morminte, profitând de pauzele dintre averse. După-amiaza, muzeul este refugiul perfect. Seara se încheie cu o plimbare relaxantă de-a lungul coastei.",
+            "en": "A rainy drive through Mani offers dramatic views of cloud-draped mountains. In the morning, we visit the remote Likaki church. At midday, head to the Mourtzinos Tower and tombs, using gaps between showers for sightseeing. In the afternoon, the museum is the perfect dry retreat. The evening concludes with a cozy coastal drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "M. Likaki",
+                "hu": "M. Likaki",
+                "ro": "M. Likaki",
+                "en": "M. Likaki"
+              },
+              "tip_5lang": {
+                "de": "Die Bergstraße kann bei Regen rutschig sein; genießen Sie die mystische Stille der kleinen Kapelle im Nebel.",
+                "hu": "A hegyi út esőben csúszós lehet; élvezze a kis kápolna misztikus csendjét a ködös, párás időben.",
+                "ro": "Drumul de munte poate fi alunecos pe ploaie; bucurați-vă de liniștea mistică a micii capele în ceață.",
+                "en": "The mountain road can be slippery in the rain; enjoy the mystical silence of the small chapel amidst the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Mourtzinos-Turm",
+                "hu": "Mourtzinos-torony",
+                "ro": "Turnul Mourtzinos",
+                "en": "Mourtzinos Tower"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang des alten Viertels; der Turm bietet viele überdachte Bereiche zur Erkundung bei Regen.",
+                "hu": "Parkoljon közel az ónegyed bejáratához; a torony számos fedett részt kínál a felfedezéshez az esős időben is.",
+                "ro": "Parcați aproape de intrarea în cartierul vechi; turnul oferă multe zone acoperite pentru explorare pe timp de ploaie.",
+                "en": "Park close to the entrance of the old quarter; the tower offers many covered areas for exploration during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Taphoi Dioskouron",
+                "hu": "Taphoi Dioskouron",
+                "ro": "Taphoi Dioskouron",
+                "en": "Taphoi Dioskouron"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus; bleiben Sie auf den festen Wegen, da das Gelände rund um die Gräber aufweicht.",
+                "hu": "Egy rövid megálló is elég; maradjon a kövezett utakon, mert a sírok körüli terep esőben felázik.",
+                "ro": "O oprire scurtă este suficientă; rămâneți pe drumurile pavate, deoarece terenul din jurul mormintelor se înmoaie pe ploaie.",
+                "en": "A short stop is sufficient; stay on the paved paths as the terrain around the tombs becomes soggy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Ritsa",
+                "hu": "Paralia Ritsa",
+                "ro": "Paralia Ritsa",
+                "en": "Paralia Ritsa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer aus dem Auto; die Brandung ist bei schlechtem Wetter beeindruckend.",
+                "hu": "Élvezze a viharos tenger látványát az autóból; a hullámtörés rossz időben rendkívül lenyűgöző látványt nyújt.",
+                "ro": "Bucurați-vă de vederea mării înfuriate din mașină; spargerea valurilor este impresionantă pe vreme rea.",
+                "en": "Enjoy the view of the stormy sea from the car; the surf is particularly impressive during bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Ritsa 2e",
+                "hu": "Paralia Ritsa 2e",
+                "ro": "Paralia Ritsa 2e",
+                "en": "Paralia Ritsa 2e"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer Fotostopp für Wellenjäger; der Regen verleiht der Küstenlandschaft eine melancholische, schöne Atmosphäre.",
+                "hu": "Újabb fotómegálló a hullámvadászoknak; az eső melankolikus, de szép hangulatot kölcsönöz a tengerparti tájnak.",
+                "ro": "O altă oprire foto pentru iubitorii de valuri; ploaia conferă peisajului de coastă o atmosferă melancolică și frumoasă.",
+                "en": "Another photo stop for wave chasers; the rain lends a melancholic yet beautiful atmosphere to the coastal landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Befestigung von Meropi",
+                "hu": "Meropi erődítménye",
+                "ro": "Fortificația Meropi",
+                "en": "Fortification of Meropi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher am Straßenrand; die dunklen Steinmauern heben sich bei Regen markant vom grauen Himmel ab.",
+                "hu": "Parkoljon biztonságosan az út szélén; a sötét kőfalak esőben élesen elválnak a szürke égbolttól.",
+                "ro": "Parcați în siguranță pe marginea drumului; zidurile de piatră întunecată se detașează net pe cerul gri în timpul ploii.",
+                "en": "Park safely on the roadside; the dark stone walls stand out sharply against the grey sky during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Patrick Leigh Fermor Museum",
+                "hu": "Patrick Leigh Fermor",
+                "ro": "Patrick Leigh Fermor",
+                "en": "Patrick Leigh Fermor"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist die beste Wahl für einen längeren Aufenthalt im Trockenen; genießen Sie die Architektur und die Exponate ohne Eile.",
+                "hu": "A múzeum a legjobb választás egy hosszabb szárazföldi programhoz; élvezze az építészetet és a kiállítást sietség nélkül.",
+                "ro": "Muzeul este cea mai bună alegere pentru a sta la adăpost; bucurați-vă de arhitectură și exponate fără grabă.",
+                "en": "The museum is the best choice for an extended stay in the dry; enjoy the architecture and exhibits without any rush."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalamitsi Strand",
+                "hu": "Kalamitsi strand",
+                "ro": "Plaja Kalamitsi",
+                "en": "Kalamitsi Beach"
+              },
+              "tip_5lang": {
+                "de": "Die kurze Fahrt zurück nach Kardamyli ist im Regen stimmungsvoll; achten Sie auf kleine Steinschläge nach starkem Niederschlag.",
+                "hu": "A rövid út vissza Kardamylibe esőben is hangulatos; ügyeljen az apró kőomlásokra a heves esőzések utáni kanyarokban.",
+                "ro": "Drumul scurt înapoi spre Kardamyli este atmosferic pe ploaie; atenție la micile căderi de pietre după precipitații abundente.",
+                "en": "The short drive back to Kardamyli is atmospheric in the rain; watch out for small rockfalls after heavy precipitation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour mit dem Auto bietet Komfort und maximale Flexibilität. Morgens erkunden wir die Likaki-Kirche in der kühlen Bergluft. Mittags besuchen wir die historischen Stätten in Kardamyli, wenn die Sonne am höchsten steht. Da die Dämmerung gegen 17:00 Uhr einsetzt, ist das Museum der Höhepunkt des Nachmittags. Der Abend wird in einer warmen Taverne verbracht.",
+            "hu": "A téli autós túra kényelmet és maximális rugalmasságot kínál. Reggel a Likaki-templomot fedezzük fel a hűvös hegyi levegőn. Délben Kardamyli történelmi helyszíneit látogatjuk meg, amikor a nap a legmagasabban jár. Mivel 17:00 körül sötétedik, a múzeum a délután fénypontja. Az este egy meleg tavernában telik.",
+            "ro": "Un tur de iarnă cu mașina oferă confort și flexibilitate maximă. Dimineața explorăm biserica Likaki în aerul rece de munte. La prânz vizităm locurile istorice din Kardamyli, când soarele este sus. Deoarece amurgul vine la 17:00, muzeul este punctul culminant. Seara este petrecută într-o tavernă călduroasă.",
+            "en": "A winter car tour offers comfort and maximum flexibility. In the morning, explore the Likaki church in the cool mountain air. At midday, visit the historical sites in Kardamyli when the sun is highest. As dusk arrives around 17:00, the museum is the afternoon highlight. The evening is spent in a warm tavern."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "M. Likaki",
+                "hu": "M. Likaki",
+                "ro": "M. Likaki",
+                "en": "M. Likaki"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet weite Panoramablicke von der Bergstraße aus; parken Sie vorsichtig am Rand für ein schnelles Foto.",
+                "hu": "A tiszta téli levegő távoli panorámát kínál a hegyi útról; parkoljon óvatosan az út szélén egy gyors fotó erejéig.",
+                "ro": "Aerul curat de iarnă oferă panorame vaste de pe drumul de munte; parcați cu grijă pe margine pentru o fotografie rapidă.",
+                "en": "The clear winter air offers vast panoramic views from the mountain road; park carefully on the side for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Mourtzinos-Turm",
+                "hu": "Mourtzinos-torony",
+                "ro": "Turnul Mourtzinos",
+                "en": "Mourtzinos Tower"
+              },
+              "tip_5lang": {
+                "de": "In der Nebensaison finden Sie leicht einen Parkplatz; nutzen Sie die ruhige Atmosphäre, um die Anlage ohne Eile zu bewundern.",
+                "hu": "A főszezonon kívül könnyen talál parkolóhelyet; használja ki a nyugodt hangulatot az épületegyüttes zavartalan megcsodálására.",
+                "ro": "În afara sezonului veți găsi ușor loc de parcare; profitați de atmosfera liniștită pentru a admira complexul fără grabă.",
+                "en": "In the off-season, you'll easily find a parking spot; take advantage of the quiet atmosphere to admire the complex at leisure."
+              }
+            },
+            {
+              "name": {
+                "de": "Taphoi Dioskouron",
+                "hu": "Taphoi Dioskouron",
+                "ro": "Taphoi Dioskouron",
+                "en": "Taphoi Dioskouron"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Winterspaziergang zu den Gräbern ist belebend; die tiefstehende Sonne erzeugt dramatische Schatten an den Felswänden.",
+                "hu": "Egy rövid téli séta a sírokhoz frissítő; az alacsonyan járó nap drámai árnyékokat vet a sziklafalakra.",
+                "ro": "O scurtă plimbare de iarnă spre morminte este revigorantă; soarele jos creează umbre dramatice pe pereții de stâncă.",
+                "en": "A short winter walk to the tombs is invigorating; the low sun casts dramatic shadows on the rock faces."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Ritsa",
+                "hu": "Paralia Ritsa",
+                "ro": "Paralia Ritsa",
+                "en": "Paralia Ritsa"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Winter weit und unberührt; genießen Sie den Anblick der ruhigen See direkt vom Fahrersitz aus.",
+                "hu": "A strand télen tágasnak és érintetlennek tűnik; élvezze a nyugodt tenger látványát közvetlenül a vezetőülésből.",
+                "ro": "Plaja pare vastă și neatinsă iarna; bucurați-vă de vederea mării liniștite direct de la volan.",
+                "en": "The beach looks vast and untouched in winter; enjoy the sight of the calm sea directly from your driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Ritsa 2e",
+                "hu": "Paralia Ritsa 2e",
+                "ro": "Paralia Ritsa 2e",
+                "en": "Paralia Ritsa 2e"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen Stopp an der Küste; die frische Meeresbrise weckt die Lebensgeister vor der Weiterfahrt.",
+                "hu": "Ideális egy rövid parti megállóhoz; a friss tengeri szellő felébreszti az érzékeket a továbbindulás előtt.",
+                "ro": "Ideal pentru o scurtă oprire pe coastă; briza marină proaspătă vă va revigora înainte de a pleca mai departe.",
+                "en": "Ideal for a short coastal stop; the fresh sea breeze will invigorate your senses before you continue driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Befestigung von Meropi",
+                "hu": "Meropi erődítménye",
+                "ro": "Fortificația Meropi",
+                "en": "Fortification of Meropi"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist das Licht hier besonders klar; die Festungsruinen bieten ein hervorragendes Motiv vor dem blauen Winterhimmel.",
+                "hu": "Télen a fények itt különösen tiszták; az erődromok kiváló témát szolgáltatnak a kék téli égbolt előtt.",
+                "ro": "Iarna, lumina este deosebit de clară aici; ruinele fortăreței oferă un subiect excelent sub cerul albastru de iarnă.",
+                "en": "In winter, the light is exceptionally clear here; the fortress ruins provide an excellent subject against the blue winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Patrick Leigh Fermor Museum",
+                "hu": "Patrick Leigh Fermor",
+                "ro": "Patrick Leigh Fermor",
+                "en": "Patrick Leigh Fermor"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem in der Nähe des Museums; die warme Atmosphäre des Hauses ist an kühlen Wintertagen ein wahrer Genuss.",
+                "hu": "Parkoljon kényelmesen a múzeum közelében; a ház meleg atmoszférája a hűvös téli napokon igazi élvezet.",
+                "ro": "Parcați confortabil lângă muzeu; atmosfera caldă a casei este o adevărată plăcere în zilele reci de iarnă.",
+                "en": "Park conveniently near the museum; the house's warm atmosphere is a true delight on cool winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalamitsi Strand",
+                "hu": "Kalamitsi strand",
+                "ro": "Plaja Kalamitsi",
+                "en": "Kalamitsi Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang über dem Golf vom Strand aus, bevor Sie die Heizung im Auto wieder aufdrehen.",
+                "hu": "Nézze meg a naplementét az öböl felett a partról, mielőtt újra felcsavarná a fűtést az autóban.",
+                "ro": "Urmăriți apusul peste golf de pe plajă, înainte de a porni din nou căldura în mașină.",
+                "en": "Watch the sunset over the gulf from the beach before turning the heater back up in your car for the ride home."
+              }
+            }
+          ]
+        }
       }
     }
   }

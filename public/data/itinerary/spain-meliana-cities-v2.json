@@ -137,6 +137,168 @@
         "hu": "A reggel Meliana szívében, a helyi templomnál indul, majd egy rövid sétával a Palauet Nolla kerámiamozaikjait csodálhatja meg.\n\nDélben a város szélére barangol, hogy felfedezze a gazdag mezőgazdasági hagyományokat a Museu de l'Horta kiállításain.\n\nA délután egyedülálló lehetőséget kínál a Lladró fivérek szülőházának meglátogatására, feltárva híres porcelánjuk szerény eredetét.\n\nAhogy közeledik az este, tegyen egy pihentető sétát a csendes Ermita del Pilar felé, amely tökéletes hely a nap felfedezéseinek átgondolására.",
         "ro": "Dimineața începe în inima Melianei la biserica locală, înainte de o scurtă plimbare pentru a admira mozaicurile ceramice de la Palauet Nolla.\n\nLa amiază, vă veți plimba spre marginea orașului pentru a explora tradițiile agricole bogate expuse la Museu de l'Horta.\n\nDupă-amiaza oferă o oportunitate unică de a vizita casa natală a fraților Lladró, descoperind originile modestului lor porțelan.\n\nPe măsură ce se apropie seara, faceți o plimbare relaxantă până la liniștitul Ermita del Pilar, un loc perfect pentru a reflecta asupra zilei.",
         "en": "The morning begins in the heart of Meliana at the local church, before taking a short walk to marvel at the intricate ceramic mosaics of Palauet Nolla.\n\nBy midday, you will wander towards the edge of town to explore the rich agricultural traditions showcased at the Museu de l'Horta.\n\nThe afternoon offers a unique opportunity to visit the birthplace of the Lladró brothers, uncovering the humble origins of their famous porcelain.\n\nAs evening approaches, take a relaxing stroll to the quiet Ermita del Pilar, a perfect spot to reflect on the day's cultural discoveries."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der schützenden Kirche. Mittags bieten die Museen trockene Zuflucht vor dem Regen. Nachmittags spazieren Sie mit Schirm zwischen den historischen Gebäuden. Der Abend endet gemütlich im Ortskern bei sanftem Regenklang.",
+            "hu": "Kezdje a napot a templom védelmében. Délben a múzeumok kínálnak száraz menedéket az eső elől. Délután esernyővel sétáljon a történelmi épületek között. Az este meghitt hangulatban zárul a falu központjában, a lágy esőkopogás mellett.",
+            "ro": "Începeți ziua la adăpostul bisericii. La prânz, muzeele oferă un refugiu uscat împotriva ploii. După-amiaza, plimbați-vă cu umbrela printre clădirile istorice. Seara se încheie confortabil în centrul satului, sub sunetul blând al ploii.",
+            "en": "Start the day under the church's protection. At noon, museums offer dry refuge from the rain. In the afternoon, walk with an umbrella between historical buildings. The evening ends cozily in the village center with the gentle sound of rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església dels Sants Joans",
+                "hu": "Església dels Sants Joans",
+                "ro": "Església dels Sants Joans",
+                "en": "Església dels Sants Joans"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das barocke Interieur im Trockenen und achten Sie auf die rutschigen Stufen am Kircheneingang bei Nässe.",
+                "hu": "Csodálja meg a barokk belső teret a szárazban, és ügyeljen a templom bejáratánál lévő csúszós lépcsőkre esős időben.",
+                "ro": "Admirați interiorul baroc la adăpost și aveți grijă la treptele alunecoase de la intrarea în biserică pe vreme umedă.",
+                "en": "Admire the baroque interior in the dry and watch out for the slippery steps at the church entrance in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Palauet Nolla",
+                "hu": "Palauet Nolla",
+                "ro": "Palauet Nolla",
+                "en": "Palauet Nolla"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die berühmten Mosaike im Inneren des Palastes, wo Sie perfekt vor den Schauern geschützt sind; wasserfeste Schuhe sind ratsam.",
+                "hu": "Fedezze fel a palota híres mozaikjait odabent, ahol tökéletes védelmet kap a záporok elől; a vízálló cipő ajánlott a kertben.",
+                "ro": "Explorați faimoasele mozaicuri din interiorul palatului, unde sunteți protejat de averse; încălțămintea impermeabilă este recomandată.",
+                "en": "Explore the famous mosaics inside the palace where you are perfectly sheltered from showers; waterproof shoes are advised for the garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de l'Horta",
+                "hu": "Museu de l'Horta",
+                "ro": "Museu de l'Horta",
+                "en": "Museu de l'Horta"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie das bäuerliche Leben in den überdachten Ausstellungsräumen kennen und nutzen Sie die Vordächer als Unterstand bei Regen.",
+                "hu": "Ismerje meg a vidéki életet a fedett kiállítóterekben, és használja az ereszeket menedékként, ha eleredne az eső.",
+                "ro": "Aflați despre viața rurală în spațiile de expoziție acoperite și folosiți streșinile ca adăpost dacă începe ploaia.",
+                "en": "Learn about rural life in the covered exhibition spaces and use the eaves as shelter if it starts to rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Natalícia Germans Lladró",
+                "hu": "Casa Natalícia Germans Lladró",
+                "ro": "Casa Natalícia Germans Lladró",
+                "en": "Casa Natalícia Germans Lladró"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Welt des Porzellans in diesem warmen Museum; ideal, um den stärksten Regengüssen des Tages zu entfliehen.",
+                "hu": "Merüljön el a porcelánok világában ebben a meleg múzeumban; ideális helyszín a nap legerősebb záporai elől való meneküléshez.",
+                "ro": "Cufundați-vă în lumea porțelanului în acest muzeu călduros; locul ideal pentru a scăpa de cele mai puternice averse ale zilei.",
+                "en": "Immerse yourself in the world of porcelain in this warm museum; the ideal location to escape the strongest showers of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Pilar",
+                "hu": "Ermita del Pilar",
+                "ro": "Ermita del Pilar",
+                "en": "Ermita del Pilar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille dieser kleinen Kapelle als trockenen Abschluss Ihrer Tour; Vorsicht auf den unebenen Wegen bei Nässe.",
+                "hu": "Élvezze e kis kápolna csendjét túrája száraz lezárásaként; óvatosan közlekedjen az egyenetlen utakon nedves időben.",
+                "ro": "Bucurați-vă de liniștea acestei mici capele ca final uscat al turului; circulați cu atenție pe drumurile denivelate pe vreme umedă.",
+                "en": "Enjoy the silence of this small chapel as a dry conclusion to your tour; walk carefully on uneven paths in wet weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an der Kirche. Mittags wärmen Sie sich in den kunstvollen Museen auf. Der Nachmittag bietet klares Licht für Fotos, bevor die Sonne früh gegen 17 Uhr sinkt. Der Abend ist kühl und ruhig.",
+            "hu": "Friss téli reggel kezdődik a templomnál. Délben melegedjen fel a művészeti múzeumokban. A délután tiszta fényeket kínál a fotózáshoz, mielőtt a nap korán, 17 óra körül lebukik. Az este hűvös és csendes.",
+            "ro": "O dimineață răcoroasă de iarnă începe la biserică. La prânz, încălziți-vă în muzeele de artă. După-amiaza oferă lumină clară pentru fotografii, înainte ca soarele să apună devreme, în jurul orei 17. Seara este răcoroasă.",
+            "en": "A crisp winter morning begins at the church. At noon, warm up in the art museums. The afternoon offers clear light for photos before the sun sets early around 5 PM. The evening is cool and quiet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església dels Sants Joans",
+                "hu": "Església dels Sants Joans",
+                "ro": "Església dels Sants Joans",
+                "en": "Església dels Sants Joans"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die morgendliche Stille im windgeschützten Kirchenschiff und tragen Sie eine warme Schicht für den kühlen Innenraum.",
+                "hu": "Használja ki a reggeli csendet a szélvédett templomhajóban, és viseljen meleg réteget a hűvös belső tér miatt.",
+                "ro": "Profitați de liniștea dimineții în nava bisericii protejată de vânt și purtați haine groase pentru interiorul răcoros.",
+                "en": "Take advantage of the morning silence in the wind-protected nave and wear a warm layer for the cool interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Palauet Nolla",
+                "hu": "Palauet Nolla",
+                "ro": "Palauet Nolla",
+                "en": "Palauet Nolla"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die Mosaikböden im weichen Winterlicht; die historischen Räume bieten einen guten Schutz vor dem kalten Wind.",
+                "hu": "Csodálja meg a mozaikpadlókat a lágy téli fényben; a történelmi termek jó védelmet nyújtanak a hideg szél ellen.",
+                "ro": "Admirați podelele de mozaic în lumina blândă a iernii; sălile istorice oferă o protecție bună împotriva vântului rece.",
+                "en": "Admire the mosaic floors in the soft winter light; the historical rooms provide good protection against the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de l'Horta",
+                "hu": "Museu de l'Horta",
+                "ro": "Museu de l'Horta",
+                "en": "Museu de l'Horta"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die lokale Landwirtschaft in den Ausstellungen; der Aufenthalt im Freien sollte wegen der Kälte kurz gehalten werden.",
+                "hu": "Ismerje meg a helyi mezőgazdaságot a kiállításokon; a szabadban tartózkodást a hideg miatt érdemes rövidebbre fogni.",
+                "ro": "Aflați mai multe despre agricultura locală la expoziții; durata șederii în aer liber ar trebui scurtată din cauza frigului.",
+                "en": "Learn more about local agriculture at the exhibitions; outdoor stays should be kept short due to the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Natalícia Germans Lladró",
+                "hu": "Casa Natalícia Germans Lladró",
+                "ro": "Casa Natalícia Germans Lladró",
+                "en": "Casa Natalícia Germans Lladró"
+              },
+              "tip_5lang": {
+                "de": "Die feine Porzellankunst lässt sich in der angenehmen Wärme des Museums am besten genießen, bevor die frühe Dämmerung einsetzt.",
+                "hu": "A finom porcelánművészet a múzeum kellemes melegében élvezhető a legjobban, még a korai sötétedés beállta előtt.",
+                "ro": "Arta fină a porțelanului poate fi savurată cel mai bine în căldura plăcută a muzeului, înainte de lăsarea timpurie a serii.",
+                "en": "Fine porcelain art is best enjoyed in the pleasant warmth of the museum before the early darkness sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Pilar",
+                "hu": "Ermita del Pilar",
+                "ro": "Ermita del Pilar",
+                "en": "Ermita del Pilar"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang gegen 17 Uhr an der Kapelle; denken Sie an Handschuhe für den Rückweg in der Kälte.",
+                "hu": "Nézze meg a naplementét 17 óra körül a kápolnánál; ne felejtsen el kesztyűt húzni a hideg esti visszaútra.",
+                "ro": "Priviți apusul de soare în jurul orei 17 la capelă; nu uitați mănușile pentru drumul de întoarcere prin frig.",
+                "en": "Watch the sunset around 5 PM at the chapel; don't forget gloves for the return journey in the cold."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját északon a középkori Castell d'Albalat dels Sorells és a szomszédos templom megcsodálásával.\n\nDélben élvezze a kellemes utat délre, Meliana központjába, hogy megnézze a főplébániát és a Palauet Nolla történelmi csempéit.\n\nA délután a környező termőföldek felfedezéséről és a helyi földművelés megismeréséről szól a Museu de l'Horta múzeumban.\n\nA nap egy festői utazással zárul a La Llar nyüzsgő kulturális központjához, ahol magába szívhatja a helyi közösség hangulatát.",
         "ro": "Începeți aventura pe bicicletă la nord, admirând medievalul Castell d'Albalat dels Sorells și biserica sa învecinată.\n\nLa amiază, bucurați-vă de o plimbare plăcută spre sud, în centrul Melianei, pentru a vedea parohia principală și Palauet Nolla.\n\nDupă-amiaza este dedicată explorării terenurilor agricole din jur și învățării despre cultivarea locală la Museu de l'Horta.\n\nZiua se încheie cu o plimbare pitorească până la La Llar, un centru cultural vibrant unde vă puteți bucura de atmosfera locală.",
         "en": "Start your cycling adventure up north by admiring the medieval Castell d'Albalat dels Sorells and its neighboring church.\n\nBy midday, enjoy a pleasant ride south to Meliana's center to see the main parish and the stunning historic tiles of Palauet Nolla.\n\nThe afternoon is dedicated to exploring the surrounding farmlands and learning about local cultivation at the Museu de l'Horta.\n\nYour day concludes with a scenic ride to La Llar, a vibrant cultural hub where you can soak up the local community atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Schloss bei nassem Asphalt. Mittags radeln Sie zügig zwischen den Kirchen, um trocken zu bleiben. Der Nachmittag im Museum bietet Erholung. Abends glänzen die Gassen im Regenlicht.",
+            "hu": "Induljon óvatosan a kastélytól a nedves aszfalton. Délben tekerjen gyorsan a templomok között, hogy száraz maradjon. A délutáni múzeumlátogatás pihenést nyújt. Este a sikátorok csillognak az esőben.",
+            "ro": "Porniți cu prudență de la castel pe asfaltul umed. La prânz, pedalați rapid între biserici pentru a rămâne uscat. Vizita la muzeu oferă relaxare. Seara, aleile strălucesc în lumina ploii.",
+            "en": "Start carefully from the castle on the wet asphalt. At noon, cycle quickly between churches to stay dry. The afternoon museum visit offers relaxation. In the evening, the alleys shine in the rain light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell d'Albalat dels Sorells",
+                "hu": "Castell d'Albalat dels Sorells",
+                "ro": "Castell d'Albalat dels Sorells",
+                "en": "Castell d'Albalat dels Sorells"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Schlossinnenhof als kurzen Schutz vor Schauern und achten Sie auf rutschiges Kopfsteinpflaster beim Parken der Räder.",
+                "hu": "Használja a kastély udvarát rövid menedékként a záporok elől, és figyeljen a csúszós macskakőre a biciklik leparkolásakor.",
+                "ro": "Folosiți curtea castelului ca scurt adăpost împotriva averselor și atenție la pavajul alunecos când parcați bicicletele.",
+                "en": "Use the castle courtyard as a short shelter from showers and watch out for slippery cobblestones when parking the bikes."
+              }
+            },
+            {
+              "name": {
+                "de": "Església dels Sants Reis",
+                "hu": "Església dels Sants Reis",
+                "ro": "Església dels Sants Reis",
+                "en": "Església dels Sants Reis"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für Kultur und Trockenheit; prüfen Sie Ihre Bremsen, da nasse Felgen den Bremsweg verlängern.",
+                "hu": "Gyors megálló a kultúráért és a szárazságért; ellenőrizze a fékeket, mert a nedves felnik növelik a féktávot.",
+                "ro": "O oprire rapidă pentru cultură și adăpost; verificați frânele, deoarece jantele umede măresc distanța de frânare.",
+                "en": "A quick stop for culture and dryness; check your brakes as wet rims increase the braking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Església dels Sants Joans",
+                "hu": "Església dels Sants Joans",
+                "ro": "Església dels Sants Joans",
+                "en": "Església dels Sants Joans"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das gotische Bauwerk, während es draußen regnet; Schutzbleche am Fahrrad sind heute unverzichtbar.",
+                "hu": "Látogassa meg a gótikus építményt, amíg odakint esik; a sárvédő ma elengedhetetlen a kerékpáron.",
+                "ro": "Vizitați structura gotică în timp ce afară plouă; apărătorile de noroi sunt indispensabile astăzi pe bicicletă.",
+                "en": "Visit the gothic structure while it rains outside; mudguards are indispensable on your bike today."
+              }
+            },
+            {
+              "name": {
+                "de": "Palauet Nolla",
+                "hu": "Palauet Nolla",
+                "ro": "Palauet Nolla",
+                "en": "Palauet Nolla"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Keramikkunst im geschützten Innenraum und wischen Sie den Sattel vor der Weiterfahrt gründlich trocken.",
+                "hu": "Csodálja meg a kerámiaművészetet a védett belső térben, és alaposan törölje szárazra a nyerget a továbbindulás előtt.",
+                "ro": "Admirați arta ceramicii în interiorul protejat și ștergeți bine șaua înainte de a pleca mai departe.",
+                "en": "Admire the ceramic art in the protected interior and wipe the saddle thoroughly dry before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de l'Horta",
+                "hu": "Museu de l'Horta",
+                "ro": "Museu de l'Horta",
+                "en": "Museu de l'Horta"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Geschichte der Horta im Trockenen und meiden Sie die unbefestigten Feldwege bei starkem Regen.",
+                "hu": "Fedezze fel a Horta történetét a szárazban, és kerülje a burkolatlan mezei utakat erős esőzés idején.",
+                "ro": "Descoperiți istoria zonei Horta la adăpost și evitați drumurile de câmp neasfaltate în timpul ploilor abundente.",
+                "en": "Discover the history of the Horta in the dry and avoid unpaved field paths during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "La Llar",
+                "hu": "La Llar",
+                "ro": "La Llar",
+                "en": "La Llar"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour in diesem Kulturzentrum; die warme Atmosphäre ist der perfekte Ort, um nasse Kleidung zu lüften.",
+                "hu": "Zárja a túrát ebben a kulturális központban; a meleg légkör tökéletes hely a nedves ruhák megszárítására.",
+                "ro": "Încheiați turul la acest centru cultural; atmosfera caldă este locul perfect pentru a vă usca hainele umede.",
+                "en": "End your tour at this cultural center; the warm atmosphere is the perfect place to air out wet clothes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Schloss erfordert warme Handschuhe. Mittags radeln Sie durch die winterliche Horta. Der Nachmittag bei Nolla bietet Kultur im Warmen. Beenden Sie die Fahrt vor 17 Uhr, wenn es schnell dunkel wird.",
+            "hu": "A kastélynál tett fagyos kezdéshez meleg kesztyű kell. Délben tekerjen át a téli Hortán. A délutáni Nolla-palota kultúrát kínál a melegben. Fejezze be a túrát 17 óra előtt, mert hamar sötétedik.",
+            "ro": "Un început geros la castel necesită mănuși groase. La prânz, pedalați prin zona Horta iarna. După-amiaza la Palauet Nolla oferă cultură la căldură. Terminați tura înainte de ora 17, când se întunecă repede.",
+            "en": "A frosty start at the castle requires warm gloves. At noon, cycle through the winter Horta. The afternoon at Palauet Nolla offers culture in the warm. Finish your ride before 5 PM as it gets dark quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell d'Albalat dels Sorells",
+                "hu": "Castell d'Albalat dels Sorells",
+                "ro": "Castell d'Albalat dels Sorells",
+                "en": "Castell d'Albalat dels Sorells"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des Palastschlosses in der klaren Winterluft und tragen Sie einen Windstopper beim Radfahren.",
+                "hu": "Élvezze a palotakastély látványát a tiszta téli levegőben, és viseljen szélálló ruházatot kerékpározás közben.",
+                "ro": "Bucurați-vă de vederea castelului-palat în aerul curat de iarnă și purtați haine rezistente la vânt în timp ce pedalați.",
+                "en": "Enjoy the sight of the palace-castle in the clear winter air and wear a windbreaker while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Església dels Sants Reis",
+                "hu": "Església dels Sants Reis",
+                "ro": "Església dels Sants Reis",
+                "en": "Església dels Sants Reis"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer kultureller Stopp; achten Sie auf tiefstehende Sonne, die Sie beim Radfahren blenden könnte.",
+                "hu": "Rövid kulturális megálló; ügyeljen az alacsonyan járó napra, amely elvakíthatja kerékpározás közben.",
+                "ro": "O scurtă oprire culturală; atenție la soarele jos care vă poate orbi în timp ce pedalați.",
+                "en": "A short cultural stop; watch out for the low sun which might blind you while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Església dels Sants Joans",
+                "hu": "Església dels Sants Joans",
+                "ro": "Església dels Sants Joans",
+                "en": "Església dels Sants Joans"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz im Inneren der Kirche auf und genießen Sie die friedliche Atmosphäre an diesem Wintertag.",
+                "hu": "Melegedjen fel egy kicsit a templom belsejében, és élvezze a békés hangulatot ezen a téli napon.",
+                "ro": "Încălziți-vă puțin în interiorul bisericii și bucurați-vă de atmosfera pașnică în această zi de iarnă.",
+                "en": "Warm up for a bit inside the church and enjoy the peaceful atmosphere on this winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Palauet Nolla",
+                "hu": "Palauet Nolla",
+                "ro": "Palauet Nolla",
+                "en": "Palauet Nolla"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die prachtvollen Mosaike und nutzen Sie die Räume, um sich vor dem kühlen Fahrtwind zu erholen.",
+                "hu": "Tekintse meg a pompás mozaikokat, és használja a termeket a hűvös menetszél utáni pihenésre.",
+                "ro": "Vizitați mozaicurile splendide și folosiți sălile pentru a vă odihni după vântul rece de pe drum.",
+                "en": "View the splendid mosaics and use the rooms to rest after the cool headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de l'Horta",
+                "hu": "Museu de l'Horta",
+                "ro": "Museu de l'Horta",
+                "en": "Museu de l'Horta"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die Winterernte in der Region und denken Sie an eine Mütze unter dem Helm gegen den Wärmeverlust.",
+                "hu": "Tudjon meg többet a régió téli betakarításáról, és tegyen sapkát a sisak alá a hőveszteség ellen.",
+                "ro": "Aflați mai multe despre recolta de iarnă din regiune și purtați o căciulă sub cască împotriva pierderii de căldură.",
+                "en": "Learn more about the region's winter harvest and put a cap under your helmet to prevent heat loss."
+              }
+            },
+            {
+              "name": {
+                "de": "La Llar",
+                "hu": "La Llar",
+                "ro": "La Llar",
+                "en": "La Llar"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für das Tourende im Warmen; schalten Sie für die Rückfahrt in der Dämmerung unbedingt das Licht ein.",
+                "hu": "Ideális hely a túra melegben való lezárásához; a szürkületi visszaúthoz mindenképpen kapcsolja be a világítást.",
+                "ro": "Locul ideal pentru a încheia tura la căldură; porniți neapărat luminile pentru drumul de întoarcere pe înserat.",
+                "en": "The ideal place to end the tour in the warm; be sure to turn on your lights for the return trip at dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós túrája a Castell d'Albalat dels Sorells-nél kezdődik, majd egy gyors megállóval folytatódik egy történelmi helyi malomnál.\n\nDélben a szomszédos Foios és Meliana lenyűgöző templomai között ingázik, végül pedig ellátogat a gyönyörű Palauet Nolla kúriához.\n\nDélután egy rövid autóúttal elmerülhet a valenciai régió mezőgazdasági gyökereiben az átfogó Museu de l'Horta kiállításain.\n\nZárja utazását egy inspiráló esti látogatással a Casa Natalícia Germans Lladró épületében, ahol a globális porcelánbirodalom indult.",
         "ro": "Turul cu mașina începe cu Castell d'Albalat dels Sorells și o scurtă oprire la o moară istorică locală.\n\nLa amiază, veți călători între bisericile mărețe din Foios și Meliana, culminând cu o vizită la superbul Palauet Nolla.\n\nDupă-amiaza, faceți o scurtă plimbare pentru a aprofunda rădăcinile agricole ale regiunii Valencia la Museu de l'Horta.\n\nÎncheiați călătoria cu o vizită de seară plină de inspirație la Casa Natalícia Germans Lladró, unde a început un imperiu al porțelanului.",
         "en": "Your driving tour starts with the imposing Castell d'Albalat dels Sorells and a quick stop at a historic local mill.\n\nBy midday, you will hop between the grand churches of neighboring Foios and Meliana, culminating in a visit to the gorgeous Palauet Nolla.\n\nIn the afternoon, take a short drive to delve into the agricultural roots of the Valencia region at the comprehensive Museu de l'Horta.\n\nWrap up your journey with an inspiring evening visit to the Casa Natalícia Germans Lladró, where a global porcelain empire began."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine entspannte Fahrt zwischen den Sehenswürdigkeiten bei Regen. Mittags besuchen Sie die geschützten Kirchen. Der Nachmittag in den Museen bietet faszinierende Einblicke ohne nass zu werden. Abends reflektieren die Pfützen das Licht.",
+            "hu": "Élvezze a kényelmes autózást a látnivalók között esős időben is. Délben látogassa meg a védett templomokat. A délutáni múzeumok lenyűgöző betekintést nyújtanak anélkül, hogy megázna. Este a tócsák visszaverik a fényeket.",
+            "ro": "Bucurați-vă de o plimbare relaxată cu mașina între obiective, chiar și pe ploaie. La prânz, vizitați bisericile protejate. Muzeele de după-amiază oferă perspective fascinante fără să vă udați. Seara, bălțile reflectă luminile.",
+            "en": "Enjoy a relaxed drive between the sights even in rainy weather. At noon, visit the protected churches. Afternoon museums offer fascinating insights without getting wet. In the evening, the puddles reflect the lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell d'Albalat dels Sorells",
+                "hu": "Castell d'Albalat dels Sorells",
+                "ro": "Castell d'Albalat dels Sorells",
+                "en": "Castell d'Albalat dels Sorells"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regenweg kurz zu halten, und bewundern Sie die Architektur des Schlosses im Trockenen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az esőben megtett utat, és csodálja meg a kastély építészetét a szárazban.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie și admirați arhitectura castelului la adăpost.",
+                "en": "Park close to the entrance to shorten the walk in the rain and admire the castle's architecture in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí",
+                "hu": "Molí",
+                "ro": "Molí",
+                "en": "Molí"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die alte Mühle unter Dach; achten Sie beim Aussteigen auf tiefe Pfützen auf den unbefestigten Flächen.",
+                "hu": "Tekintse meg a régi malmot fedett helyen; kiszálláskor ügyeljen a mély tócsákra a burkolatlan területeken.",
+                "ro": "Vizitați moara veche la adăpost; la coborâre, atenție la bălțile adânci de pe suprafețele neasfaltate.",
+                "en": "View the old mill under cover; watch out for deep puddles on unpaved areas when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de l'Assumpció de Nostra Senyora",
+                "hu": "Església de l'Assumpció de Nostra Senyora",
+                "ro": "Església de l'Assumpció de Nostra Senyora",
+                "en": "Església de l'Assumpció de Nostra Senyora"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Zufluchtsort vor dem Dauerregen; nutzen Sie die Zeit, um die sakrale Kunst im Inneren in aller Ruhe zu studieren.",
+                "hu": "Csendes menedék a tartós eső elől; használja ki az időt a belső szakrális művészet nyugodt tanulmányozására.",
+                "ro": "Un refugiu liniștit împotriva ploii persistente; folosiți timpul pentru a studia în liniște arta sacră din interior.",
+                "en": "A quiet refuge from persistent rain; use the time to study the sacred art inside in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Església dels Sants Joans",
+                "hu": "Església dels Sants Joans",
+                "ro": "Església dels Sants Joans",
+                "en": "Església dels Sants Joans"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche im Ortszentrum; bei Regen sind die Straßen eng, fahren Sie daher besonders vorsichtig.",
+                "hu": "Látogassa meg a falu központjában lévő templomot; esőben az utcák szűkek, ezért vezessen különösen óvatosan.",
+                "ro": "Vizitați biserica din centrul satului; pe ploaie străzile sunt înguste, deci conduceți cu deosebită prudență.",
+                "en": "Visit the church in the village center; the streets are narrow in the rain, so drive with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Palauet Nolla",
+                "hu": "Palauet Nolla",
+                "ro": "Palauet Nolla",
+                "en": "Palauet Nolla"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Mosaikkultur in diesem historischen Juwel, das einen perfekten Schutz vor den Regengüssen bietet.",
+                "hu": "Tapasztalja meg a mozaikkultúrát ebben a történelmi ékszerdobozban, amely tökéletes védelmet nyújt a záporok ellen.",
+                "ro": "Experimentați cultura mozaicului în această bijuterie istorică ce oferă o protecție perfectă împotriva averselor.",
+                "en": "Experience the mosaic culture in this historical gem that offers perfect protection against the showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de l'Horta",
+                "hu": "Museu de l'Horta",
+                "ro": "Museu de l'Horta",
+                "en": "Museu de l'Horta"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen regnerischen Nachmittag; die Ausstellungsstücke sind sicher und trocken in den Gebäuden untergebracht.",
+                "hu": "Ideális helyszín egy esős délutánra; a kiállítási tárgyak biztonságban és szárazon vannak az épületekben.",
+                "ro": "Locul ideal pentru o după-amiază ploioasă; obiectele de expoziție sunt adăpostite în siguranță și la uscat în clădiri.",
+                "en": "The ideal location for a rainy afternoon; the exhibits are housed safely and dry inside the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Natalícia Germans Lladró",
+                "hu": "Casa Natalícia Germans Lladró",
+                "ro": "Casa Natalícia Germans Lladró",
+                "en": "Casa Natalícia Germans Lladró"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie den Tag in der Welt des feinen Porzellans ab; die Parkplätze direkt am Museum erleichtern den Besuch bei Regen.",
+                "hu": "Zárja a napot a finom porcelánok világában; a közvetlenül a múzeumnál lévő parkolók megkönnyítik a látogatást esőben.",
+                "ro": "Încheiați ziua în lumea porțelanului fin; parcările direct de la muzeu facilitează vizita pe timp de ploaie.",
+                "en": "End the day in the world of fine porcelain; parking directly at the museum makes visiting easier in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintertag bequem im beheizten Auto. Mittags erkunden Sie die historischen Kirchen der Region. Der Nachmittag bietet kulturelle Highlights in den Museen bei angenehmen Innentemperaturen. Der Abend endet bei kühler, klarer Luft.",
+            "hu": "Kezdje a téli napot kényelmesen a fűtött autóban. Délben fedezze fel a régió történelmi templomait. A délután kulturális élményeket kínál a múzeumokban, kellemes belső hőmérséklet mellett. Az este hűvös, tiszta levegővel zárul.",
+            "ro": "Începeți ziua de iarnă confortabil în mașina încălzită. La prânz, descoperiți bisericile istorice ale regiunii. După-amiaza oferă experiențe culturale în muzee, la temperaturi interioare plăcute. Seara se încheie cu aer rece și curat.",
+            "en": "Start your winter day comfortably in a heated car. At noon, discover the historical churches of the region. The afternoon offers cultural highlights in the museums with pleasant indoor temperatures. The evening ends with cool, clear air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell d'Albalat dels Sorells",
+                "hu": "Castell d'Albalat dels Sorells",
+                "ro": "Castell d'Albalat dels Sorells",
+                "en": "Castell d'Albalat dels Sorells"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Schlossfassade im klaren Winterlicht und nutzen Sie die Heizung im Auto zwischen den kurzen Fotostopps.",
+                "hu": "Csodálja meg a kastély homlokzatát a tiszta téli fényben, és használja az autó fűtését a rövid fotómegállók között.",
+                "ro": "Admirați fațada castelului în lumina clară a iernii și folosiți încălzirea mașinii între scurtul popas pentru fotografii.",
+                "en": "Admire the castle facade in the clear winter light and use the car's heater between short photo stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí",
+                "hu": "Molí",
+                "ro": "Molí",
+                "en": "Molí"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die historische Mühle; tragen Sie feste Schuhe, da der Boden im Winter oft feucht und kühl ist.",
+                "hu": "Látogassa meg a történelmi malmot; viseljen zárt cipőt, mert a talaj télen gyakran nyirkos és hideg.",
+                "ro": "Vizitați moara istorică; purtați încălțăminte solidă, deoarece solul este adesea umed și rece iarna.",
+                "en": "Visit the historical mill; wear sturdy shoes as the ground is often damp and cool in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de l'Assumpció de Nostra Senyora",
+                "hu": "Església de l'Assumpció de Nostra Senyora",
+                "ro": "Església de l'Assumpció de Nostra Senyora",
+                "en": "Església de l'Assumpció de Nostra Senyora"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im Kircheninneren; achten Sie auf tiefstehende Sonne beim Fahren durch die engen Gassen.",
+                "hu": "Élvezze a csendet a templom belsejében; ügyeljen az alacsonyan járó napra a szűk utcákon való vezetéskor.",
+                "ro": "Bucurați-vă de liniște în interiorul bisericii; atenție la soarele jos când conduceți pe străzile înguste.",
+                "en": "Enjoy the silence inside the church; watch out for the low sun when driving through narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Església dels Sants Joans",
+                "hu": "Església dels Sants Joans",
+                "ro": "Església dels Sants Joans",
+                "en": "Església dels Sants Joans"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Dorfzentrum; parken Sie etwas außerhalb, um einen kurzen, erfrischenden Winterspaziergang zur Kirche zu machen.",
+                "hu": "Látogatás a falu központjában; parkoljon kicsit távolabb, hogy tegyen egy rövid, frissítő téli sétát a templomig.",
+                "ro": "O vizită în centrul satului; parcați puțin mai departe pentru o scurtă plimbare revigorantă de iarnă până la biserică.",
+                "en": "A visit to the village center; park a bit further away for a short, refreshing winter walk to the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Palauet Nolla",
+                "hu": "Palauet Nolla",
+                "ro": "Palauet Nolla",
+                "en": "Palauet Nolla"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvollen Fliesenmosaike sind in den geschlossenen Räumen auch an kalten Tagen ein lohnendes Ziel.",
+                "hu": "A pompás mozaikpadlók a zárt termekben a hideg napokon is hálás úti célt jelentenek.",
+                "ro": "Mozaicurile splendide de pe podele sunt o destinație utilă în sălile închise, chiar și în zilele reci.",
+                "en": "The magnificent mosaic floors in the closed rooms are a worthwhile destination even on cold days."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de l'Horta",
+                "hu": "Museu de l'Horta",
+                "ro": "Museu de l'Horta",
+                "en": "Museu de l'Horta"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die lokale Kultur im Warmen; die Winterlandschaft der Horta lässt sich gut aus dem Autofenster beobachten.",
+                "hu": "Tudjon meg többet a helyi kultúráról a melegben; a Horta téli tája jól megfigyelhető az autó ablakából is.",
+                "ro": "Aflați mai multe despre cultura locală la căldură; peisajul de iarnă din Horta poate fi observat bine de la fereastra mașinii.",
+                "en": "Learn more about local culture in the warm; the winter landscape of the Horta can be well observed from the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Natalícia Germans Lladró",
+                "hu": "Casa Natalícia Germans Lladró",
+                "ro": "Casa Natalícia Germans Lladró",
+                "en": "Casa Natalícia Germans Lladró"
+              },
+              "tip_5lang": {
+                "de": "Ein glanzvoller Abschluss im geheizten Museum; denken Sie an das frühe Einschalten der Scheinwerfer ab 17 Uhr.",
+                "hu": "Ragyogó lezárás a fűtött múzeumban; ne felejtse el korán, már 17 órától bekapcsolni a fényszórókat.",
+                "ro": "Un final strălucitor în muzeul încălzit; nu uitați să aprindeți farurile devreme, încă de la ora 17.",
+                "en": "A brilliant conclusion in the heated museum; remember to turn on your headlights early, from 5 PM onwards."
+              }
+            }
+          ]
+        }
       }
     }
   }

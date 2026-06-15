@@ -183,6 +183,224 @@
         "hu": "A sciacca-i nap a Palazzo Steripinto lenyűgöző építészetével indul, majd szűk utcákon át a San Francesco di Paola templom felé vesszük az irányt. \n\nDélben a Casa Museo Francesco Scaglione történelmi termeiben elmélyülünk az arisztokrata múltban, megismerve a régi korok fényűző életmódját. \n\nDélután felfedezzük a hangulatos Via Perollót, és leereszkedünk a híres cikkcakkos lépcsőkön. A sétát a San Pietro Apostolo templom látogatása egészíti ki. \n\nAz estét a Museo del Giocattolo nosztalgikus játékgyűjteménye aranyozza be. Ezzel a békés és varázslatos élménnyel zárjuk az óvárosi kalandozást.",
         "ro": "Ziua în Sciacca începe cu arhitectura fascinantă a Palazzo Steripinto, continuând apoi pe străduțele înguste către liniștita biserică San Francesco. \n\nLa prânz, explorăm Casa Museo Francesco Scaglione, unde încăperile istorice ne poartă într-o călătorie prin viața aristocratică a secolelor trecute. \n\nDupă-amiaza, ne plimbăm pe fermecătoarea Via Perollo și coborâm scările în zigzag. O vizită la biserica San Pietro Apostolo completează perfect traseul. \n\nSeara este dedicată nostalgiei la Museo del Giocattolo. Această colecție fermecătoare de jucării vechi încheie o plimbare memorabilă prin centru.",
         "en": "Our day in Sciacca begins with the striking architecture of Palazzo Steripinto before wandering through narrow streets to the tranquil San Francesco church. \n\nAt midday, we step back in time at the Casa Museo Francesco Scaglione, exploring elegantly furnished rooms that reveal the region's aristocratic past. \n\nThe afternoon invites us to stroll along Via Perollo and descend the famous zigzag stairs. A quick visit to the San Pietro Apostolo church adds a historical touch. \n\nEvening falls with a nostalgic visit to the Museo del Giocattolo. Surrounded by charming vintage toys, we conclude our delightful walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Palazzo Steripinto, dessen Diamantquader bei Regen besonders dramatisch wirken. Mittags bieten Kirchen und das Museo Scaglione trockene Zuflucht voller Kultur. Nachmittags fordern die glitschigen Stufen der Zick-Zack-Treppe Vorsicht, bevor das Spielzeugmuseum den Tag im Trockenen abschließt. Abends sorgt der Nebel über dem Hafen für eine mystische, ruhige Stimmung.",
+            "hu": "Kezdje a napot a Palazzo Steripinto gyémántmintás falai között, melyek esőben különleges fényben úsznak. Délben a templomok és a Scaglione múzeum nyújtanak fedett menedéket a záporok elől. Délután a Scalinata a Zig Zag lépcsőin fokozott figyelemmel közlekedjen a csúszásveszély miatt. Az estét a játékmúzeum melegében zárhatja, miközben kint a kikötői köd telepszik a városra.",
+            "ro": "Începeți ziua la Palazzo Steripinto, unde fațada geometrică capătă reflexii argintii sub ploaie. La prânz, bisericile și muzeul Scaglione oferă un refugiu cultural uscat și primitor. După-amiaza, treptele în zig-zag pot fi alunecoase, deci pășiți cu grijă spre muzeul jucăriilor. Seara, ceața deasupra portului creează o atmosferă melancolică și liniștită în centrul istoric.",
+            "en": "Start your day at Palazzo Steripinto, where the diamond-point facade looks striking under the rain. At noon, the churches and Scaglione Museum provide perfect indoor sanctuaries from the showers. In the afternoon, watch your step on the slippery Zig Zag stairs before finishing at the cozy Toy Museum. By evening, the misty harbor view offers a serene and moody end to your walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Steripinto",
+                "hu": "Palazzo Steripinto",
+                "ro": "Palazzo Steripinto",
+                "en": "Palazzo Steripinto"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die markante Fassade von der gegenüberliegenden Überdachung aus und achten Sie auf das glänzende Gestein bei Nässe.",
+                "hu": "Csodálja meg a különleges homlokzatot a szemközti árkádok alól, és figyelje meg, hogyan csillannak meg az ékkövek az esővíztől.",
+                "ro": "Admirați fațada distinctivă de sub streșinile clădirilor de vizavi și observați cum piatra strălucește în reflexiile ploii.",
+                "en": "Admire the unique facade from the shelter of nearby balconies and watch how the stone points glisten when wet by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Francesco di Paola",
+                "hu": "Chiesa di San Francesco di Paola",
+                "ro": "Chiesa di San Francesco di Paola",
+                "en": "Chiesa di San Francesco di Paola"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenraum als spirituellen Zufluchtsort vor dem Regen und bewundern Sie in Ruhe die sakralen Kunstwerke im Inneren.",
+                "hu": "Használja ki a templom nyugalmát eső elleni menedékként, és fedezze fel a belső tér művészeti kincseit a záporok idején.",
+                "ro": "Folosiți interiorul bisericii ca refugiu spiritual împotriva ploii și admirați în liniște detaliile operelor de artă sacră.",
+                "en": "Use the church interior as a peaceful sanctuary from the rain while you admire the sacred artworks and baroque decorations."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Francesco Scaglione",
+                "hu": "Casa Museo Francesco Scaglione",
+                "ro": "Casa Museo Francesco Scaglione",
+                "en": "Casa Museo Francesco Scaglione"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist ideal für Regentage; verbringen Sie viel Zeit in den reich dekorierten Räumen ohne nass zu werden.",
+                "hu": "Ez a múzeum tökéletes esős időre; töltsön el hosszabb időt a gazdagon díszített termekben, távol a kinti nedvességtől.",
+                "ro": "Acest muzeu este ideal pentru zilele ploioase; petreceți mult timp în camerele bogat decorate, feriți de umezeala de afară.",
+                "en": "This museum is perfect for rainy weather; spend extended time exploring the richly decorated rooms while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Via Perollo",
+                "hu": "Via Perollo",
+                "ro": "Via Perollo",
+                "en": "Via Perollo"
+              },
+              "tip_5lang": {
+                "de": "Laufen Sie unter den schmalen Balkonen entlang, um trocken zu bleiben, und genießen Sie den Anblick der glänzenden Keramikdekorationen.",
+                "hu": "Haladjon a szűk erkélyek védelmében, hogy száraz maradjon, és élvezze a vizes kerámiadíszek élénk színeit az utca mentén.",
+                "ro": "Mergeți pe sub balcoanele înguste pentru a rămâne uscați și bucurați-vă de culorile vii ale decorațiunilor ceramice ude.",
+                "en": "Walk under the overhang of narrow balconies to stay dry and enjoy the vibrant colors of the wet ceramic decorations along the street."
+              }
+            },
+            {
+              "name": {
+                "de": "Scalinata a Zig Zag",
+                "hu": "Scalinata a Zig Zag",
+                "ro": "Scalinata a Zig Zag",
+                "en": "Scalinata a Zig Zag"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig, da die Keramikstufen bei Regen extrem rutschig werden; nutzen Sie unbedingt den Handlauf beim Abstieg.",
+                "hu": "Legyen óvatos, mert a kerámiaberakásos lépcsők esőben rendkívül csúszósak; mindenképpen kapaszkodjon a korlátba lefelé menet.",
+                "ro": "Fiți precauți deoarece treptele cu ceramică devin extrem de alunecoase pe ploaie; folosiți neapărat balustrada la coborâre.",
+                "en": "Exercise caution as the ceramic-tiled steps become extremely slippery in the rain; be sure to use the handrail while descending."
+              }
+            },
+            {
+              "name": {
+                "de": "chiesa di San Pietro Apostolo",
+                "hu": "chiesa di San Pietro Apostolo",
+                "ro": "chiesa di San Pietro Apostolo",
+                "en": "chiesa di San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer trockener Stopp mit schöner Akustik, an dem das Trommeln des Regens auf das Dach eine besondere Atmosphäre schafft.",
+                "hu": "Újabb fedett állomás kiváló akusztikával, ahol a tetőn kopogó eső zaja különleges, megnyugtató hangulatot áraszt.",
+                "ro": "O altă oprire ferită de ploaie cu o acustică deosebită, unde sunetul stropilor pe acoperiș creează o atmosferă aparte.",
+                "en": "Another sheltered stop with great acoustics where the sound of rain drumming on the roof creates a unique, cozy atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Giocattolo",
+                "hu": "Museo del Giocattolo",
+                "ro": "Museo del Giocattolo",
+                "en": "Museo del Giocattolo"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour in diesem beheizten Innenraum ab und lassen Sie Ihre Regenschirme am Eingang gut abtropfen.",
+                "hu": "Zárja a túrát ebben a barátságos belső térben, és ne felejtse el a bejáratnál hagyni a vizes esernyőt száradni.",
+                "ro": "Încheiați turul în acest spațiu interior primitor și nu uitați să lăsați umbrela la intrare pentru a se scurge apa.",
+                "en": "End your tour in this delightful indoor setting; remember to leave your wet umbrella at the entrance to dry properly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milde Wintersonne am Palazzo Steripinto ohne die Hitze des Sommers. Mittags wärmen die Museen und Kirchen Herz und Körper auf. Da es gegen 17:00 Uhr dunkel wird, liegen die Nachmittagsstopps in Via Perollo im goldenen Licht der tiefstehenden Sonne. Der Abend am Hafen ist kühl, aber die festliche Beleuchtung der Stadt entschädigt für die niedrigen Temperaturen.",
+            "hu": "Élvezze a Palazzo Steripinto látványát a lágy téli napsütésben, a nyári hőség nélkül. Napközben a múzeumok és templomok kellemes felmelegedést nyújtanak. Mivel 17:00 körül sötétedik, a délutáni Via Perollo sétát az aranyló, alacsony napállás teszi különlegessé. Az este hűvös a kikötőben, de a város fényei ilyenkor a legszebbek.",
+            "ro": "Bucurați-vă de soarele blând de iarnă la Palazzo Steripinto fără canicula verii. La prânz, muzeele și bisericile oferă un refugiu călduros. Deoarece se întunecă în jur de ora 17:00, plimbarea de după-amiază pe Via Perollo este scăldată în lumină aurie. Seara în port este răcoroasă, dar luminile orașului creează un decor festiv.",
+            "en": "Enjoy the mild winter sun at Palazzo Steripinto without the summer heat. During midday, the museums and churches offer a warm escape from the breeze. Since it gets dark around 17:00, the afternoon walk on Via Perollo is bathed in golden light. The evening at the harbor is chilly, but the city lights create a beautiful, festive atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Steripinto",
+                "hu": "Palazzo Steripinto",
+                "ro": "Palazzo Steripinto",
+                "en": "Palazzo Steripinto"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Fassade, da die Schatten der Diamantquader jetzt besonders lang und scharf sind.",
+                "hu": "Használja ki a tiszta téli fényeket a homlokzat fotózásához, mert a gyémántminták árnyékai ilyenkor a legélesebbek.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii, deoarece umbrele proeminențelor de piatră sunt acum foarte lungi și ascuțite.",
+                "en": "Take advantage of the crisp winter light for photos, as the shadows on the diamond facade are particularly sharp and dramatic now."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Francesco di Paola",
+                "hu": "Chiesa di San Francesco di Paola",
+                "ro": "Chiesa di San Francesco di Paola",
+                "en": "Chiesa di San Francesco di Paola"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Restwärme; ein idealer Ort, um kurz zur Ruhe zu kommen und sich vom Wind zu erholen.",
+                "hu": "A vastag falak megőrzik a belső hőt; ideális hely egy rövid pihenőre, hogy távol maradjon a kinti téli széltől.",
+                "ro": "Zidurile groase păstrează căldura reziduală; un loc ideal pentru o scurtă pauză și pentru a vă adăposti de vântul rece.",
+                "en": "The thick walls retain some residual warmth; an ideal place for a brief rest to escape the chilly winter wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Francesco Scaglione",
+                "hu": "Casa Museo Francesco Scaglione",
+                "ro": "Casa Museo Francesco Scaglione",
+                "en": "Casa Museo Francesco Scaglione"
+              },
+              "tip_5lang": {
+                "de": "Die gemütliche Atmosphäre des Herrenhauses wirkt im Winter besonders einladend; bewundern Sie die antiken Heizvorrichtungen.",
+                "hu": "A nemesi ház otthonos hangulata télen különösen hívogató; figyelje meg a kiállított antik fűtőeszközöket a termekben.",
+                "ro": "Atmosfera primitoare a conacului este foarte îmbietoare iarna; admirați vechile sisteme de încălzire expuse în camere.",
+                "en": "The cozy atmosphere of this noble home is very inviting in winter; look for the antique heating braziers displayed in the rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Via Perollo",
+                "hu": "Via Perollo",
+                "ro": "Via Perollo",
+                "en": "Via Perollo"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie diesen Spaziergang vor 16:30 Uhr, um die lebhaften Farben der Keramiken noch im Tageslicht genießen zu können.",
+                "hu": "Tegye meg ezt a sétát 16:30 előtt, hogy a kerámiák élénk színeit még természetes nappali fényben élvezhesse.",
+                "ro": "Faceți această plimbare înainte de ora 16:30 pentru a vă bucura de culorile vii ale ceramicelor încă în lumina zilei.",
+                "en": "Complete this walk before 16:30 to enjoy the vibrant colors of the ceramics while there is still natural daylight available."
+              }
+            },
+            {
+              "name": {
+                "de": "Scalinata a Zig Zag",
+                "hu": "Scalinata a Zig Zag",
+                "ro": "Scalinata a Zig Zag",
+                "en": "Scalinata a Zig Zag"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg bietet einen tollen Blick auf das Meer, das im Winter oft tiefblau und wild wirkt; ziehen Sie sich windfest an.",
+                "hu": "A lépcsősorról remek kilátás nyílik a télen gyakran mélykék és viharos tengerre; öltözzön szélállóan a tengerparti szélben.",
+                "ro": "Coborârea oferă o vedere excelentă spre marea care iarna este adesea albastru închis; purtați haine rezistente la vânt.",
+                "en": "The descent offers a great view of the sea, which often looks deep blue and wild in winter; wear a windproof jacket here."
+              }
+            },
+            {
+              "name": {
+                "de": "chiesa di San Pietro Apostolo",
+                "hu": "chiesa di San Pietro Apostolo",
+                "ro": "chiesa di San Pietro Apostolo",
+                "en": "chiesa di San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Die frühen Sonnenuntergänge tauchen das Kirchenschiff durch die Fenster oft in ein wunderschönes violettes Licht.",
+                "hu": "A korai naplemente fényei az ablakokon keresztül gyakran gyönyörű lila árnyalatokba öltöztetik a templom hajóját.",
+                "ro": "Lumina apusului timpuriu care pătrunde prin ferestre îmbracă adesea naosul bisericii în nuanțe superbe de violet.",
+                "en": "The light from the early winter sunset often filters through the windows, bathing the nave in beautiful violet tones."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Giocattolo",
+                "hu": "Museo del Giocattolo",
+                "ro": "Museo del Giocattolo",
+                "en": "Museo del Giocattolo"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort zum Aufwärmen am späten Nachmittag; die nostalgischen Exponate wecken warme Kindheitserinnerungen.",
+                "hu": "Tökéletes hely a felmelegedésre késő délután; a nosztalgikus kiállítási tárgyak meleg gyermekkori emlékeket ébresztenek.",
+                "ro": "Un loc perfect pentru a vă încălzi după-amiaza târziu; exponatele nostalgice trezesc amintiri calde din copilărie.",
+                "en": "A perfect place to warm up in the late afternoon; the nostalgic exhibits are sure to awaken warm childhood memories."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kerékpáros utunk a fenséges Santa Maria delle Giummare templomnál kezdődik, melynek normann stílusa azonnal magával ragadja a látogatót. \n\nDélben kényelmesen eltekerünk a történelmi Via Perollo felé. A középkori hangulatú utcán át a kikötő nyüzsgése irányába vesszük az irányt. \n\nA délután a tenger jegyében telik: a tengerészek emlékműve után a Museo del Mare izgalmas kiállításain ismerjük meg Sciacca hajózási múltját. \n\nAz estét a jellegzetes cikkcakkos lépcsőnél fotózással kezdjük, végül a nap utolsó sugarainál csodáljuk meg a Palazzo Steripinto egyedi homlokzatát.",
         "ro": "Traseul nostru cu bicicleta începe la maiestuoasa biserică Santa Maria delle Giummare, unde arhitectura normandă ne întâmpină cu o atmosferă liniștită. \n\nLa prânz, pedalăm relaxat spre istorica Via Perollo. Aici simțim farmecul medieval al orașului înainte de a ne îndrepta spre portul animat. \n\nDupă-amiaza este dedicată mării: vizităm monumentul marinarilor și apoi aprofundăm istoria navală a regiunii la fascinantul Museo del Mare. \n\nSeara facem o oprire foto la scările în zigzag, iar la apus admirăm fațada unică, cu bosaje în formă de diamant, a faimosului Palazzo Steripinto.",
         "en": "Our cycling adventure starts at the majestic Santa Maria delle Giummare, where the robust Norman architecture provides a peaceful morning atmosphere. \n\nBy midday, we casually pedal towards the historic Via Perollo. We absorb the medieval vibes before making our way down to the bustling harbor. \n\nThe afternoon is entirely devoted to the sea. We visit the striking sailors' monument, followed by a deep dive into local maritime history at the Museo del Mare. \n\nEvening approaches with a photo stop at the iconic zigzag stairs, ending our ride as the setting sun illuminates the facade of Palazzo Steripinto."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf Sciaccas Pflastersteinen. Beginnen Sie an der Kirche Giummare und nutzen Sie Via Perollo für eine zügige Fahrt zwischen trockenen Unterständen. Das Meeresmuseum bietet eine lange Pause im Warmen. Nachmittags sind die Keramikstufen rutschig – schieben Sie das Rad lieber. Der Abend am Hafen ist feucht, aber die Luft riecht herrlich nach Salz.",
+            "hu": "Az esős bringázás óvatosságot igényel Sciacca macskakövein. Kezdje a Giummare templomnál, majd a Via Perollón haladjon gyorsan a fedett megállók között. A tengerészeti múzeum bőséges időt ad a száradásra. Délután a kerámialépcsőknél inkább tolja a biciklit a csúszásveszély miatt. Az este nyirkos a kikötőben, de a levegő sós illata ilyenkor a legintenzívebb.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe pavajul din Sciacca. Începeți la biserica Giummare și folosiți Via Perollo pentru o deplasare rapidă între adăposturi. Muzeul Mării oferă o pauză lungă și uscată. După-amiaza, treptele de ceramică sunt alunecoase – mai bine împingeți bicicleta. Seara în port este umedă, dar aerul sărat este revigorant.",
+            "en": "Cycling in the rain requires caution on Sciacca's stone streets. Start at Giummare Church and use Via Perollo to move quickly between sheltered spots. The Maritime Museum offers a long, dry break. In the afternoon, the ceramic stairs are slippery, so it's better to push your bike. The evening at the harbor is damp, but the salt air smells wonderful after the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria delle Giummare",
+                "hu": "Chiesa di Santa Maria delle Giummare",
+                "ro": "Chiesa di Santa Maria delle Giummare",
+                "en": "Chiesa di Santa Maria delle Giummare"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach und nutzen Sie den Besuch, um Ihre Regenbekleidung für die Weiterfahrt zu richten.",
+                "hu": "Parkolja le a kerékpárt az előtető alatt, és használja ki az időt az esőruházat megigazítására a továbbindulás előtt.",
+                "ro": "Parcați bicicleta sub streșină și profitați de vizită pentru a vă ajusta echipamentul de ploaie înainte de a pleca mai departe.",
+                "en": "Park your bike under the overhang and use this visit to adjust your rain gear before continuing your coastal ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Via Perollo",
+                "hu": "Via Perollo",
+                "ro": "Via Perollo",
+                "en": "Via Perollo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, da die nassen Keramikteile in der Straße rutschig sein können; genießen Sie die glänzenden Oberflächen.",
+                "hu": "Hajtson lassan, mert az útba épített nedves kerámiadíszek csúszhatnak; élvezze a vizes felületek csillogását.",
+                "ro": "Pedalați încet, deoarece elementele ceramice ude de pe stradă pot fi alunecoase; admirați reflexiile de pe pavaj.",
+                "en": "Ride slowly as the wet ceramic inserts in the street can be slippery; enjoy the glossy reflections on the pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti del Mare",
+                "hu": "Monumento ai Caduti del Mare",
+                "ro": "Monumento ai Caduti del Mare",
+                "en": "Monumento ai Caduti del Mare"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, exponierter Stopp; halten Sie sich nicht zu lange im Regen auf und bewundern Sie das Denkmal zügig.",
+                "hu": "Rövid, nyitott megálló; ne időzzön túl sokat az esőben, tekintse meg gyorsan az emlékművet a tengerparton.",
+                "ro": "O oprire scurtă și expusă; nu stați prea mult în ploaie și admirați monumentul rapid înainte de a căuta adăpost.",
+                "en": "A brief, exposed stop; don't linger too long in the rain, take a quick look at the monument before finding cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Rad sicher abzustellen und sich im Inneren gründlich aufzuwärmen und abzutrocknen.",
+                "hu": "Tökéletes hely a kerékpár biztonságos leállítására, miközben Ön bent alaposan felmelegszik és megszárad.",
+                "ro": "Locul perfect pentru a lăsa bicicleta în siguranță, în timp ce vă încălziți și vă uscați bine în interiorul muzeului.",
+                "en": "The perfect place to leave your bike safely outside while you thoroughly warm up and dry off inside the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Scalinata a Zig Zag",
+                "hu": "Scalinata a Zig Zag",
+                "ro": "Scalinata a Zig Zag",
+                "en": "Scalinata a Zig Zag"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie vom Rad ab und schieben Sie es vorsichtig; die nassen Kacheln sind für Reifen eine echte Herausforderung.",
+                "hu": "Szálljon le a nyeregből és tolja óvatosan a bringát; a vizes csempék komoly kihívást jelentenek a gumiknak.",
+                "ro": "Coborâți de pe bicicletă și împingeți-o cu grijă; plăcile ceramice ude sunt o adevărată provocare pentru anvelope.",
+                "en": "Dismount and push your bike carefully; the wet ceramic tiles are a real challenge for bicycle tires to grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Steripinto",
+                "hu": "Palazzo Steripinto",
+                "ro": "Palazzo Steripinto",
+                "en": "Palazzo Steripinto"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Eingangsbereich als letzten trockenen Unterstand, bevor Sie Ihre Tour beenden.",
+                "hu": "Használja a széles bejárati részt utolsó fedett menedékként, mielőtt befejezné a mai kerékpáros túráját.",
+                "ro": "Folosiți zona largă de la intrare ca ultim adăpost uscat înainte de a vă încheia turul cu bicicleta de astăzi.",
+                "en": "Use the wide entrance area as your final dry shelter before concluding today's rainy cycling tour of Sciacca."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Winterradeln in Sciacca ist dank der milden Temperaturen sehr angenehm. Starten Sie bei Giummare im klaren Licht der Morgensonne. Mittags bietet das Meeresmuseum eine ideale Pause, um den kühlen Seewind zu vermeiden. Da es früh dunkelt, sollten Sie die Zig-Zag-Treppe im letzten Tageslicht erreichen. Abends leuchtet der Palazzo Steripinto festlich und bildet einen glänzenden Abschluss.",
+            "hu": "A téli bringázás Sciaccában a lágy hőmérsékletnek köszönhetően igen kellemes. Kezdjen a Giummare templomnál a tiszta reggeli fényben. Délben a tengerészeti múzeum ideális pihenő a hűvös tengeri szél elől. Mivel korán sötétedik, a Zig-Zag lépcsőt még az utolsó nappali fényben érje el. Este a Palazzo Steripinto díszkivilágítása méltó zárása a napnak.",
+            "ro": "Ciclismul de iarnă în Sciacca este plăcut datorită temperaturilor blânde. Începeți la Giummare în lumina clară a dimineții. La prânz, Muzeul Mării oferă o pauză ideală pentru a evita vântul răcoros al mării. Deoarece se întunecă devreme, ajungeți la treptele în zig-zag pe lumină. Seara, Palazzo Steripinto iluminat festiv oferă un final strălucitor.",
+            "en": "Winter cycling in Sciacca is very pleasant thanks to the mild temperatures. Start at Giummare in the crisp morning sun. At noon, the Maritime Museum is an ideal stop to escape the cool sea breeze. As darkness falls early, reach the Zig Zag stairs while there is still some daylight. In the evening, the festive lighting of Palazzo Steripinto is a perfect finale."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria delle Giummare",
+                "hu": "Chiesa di Santa Maria delle Giummare",
+                "ro": "Chiesa di Santa Maria delle Giummare",
+                "en": "Chiesa di Santa Maria delle Giummare"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Morgen; im Winter ist dieser Ort besonders friedlich und das Licht für Fotos ideal.",
+                "hu": "Élvezze a reggeli csendet; télen ez a hely különösen békés, a fények pedig tökéletesek a templom fotózásához.",
+                "ro": "Bucurați-vă de liniștea dimineții; iarna acest loc este foarte pașnic, iar lumina este ideală pentru fotografii.",
+                "en": "Enjoy the morning silence; in winter this spot is particularly peaceful and the light is perfect for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Via Perollo",
+                "hu": "Via Perollo",
+                "ro": "Via Perollo",
+                "en": "Via Perollo"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und bringt die bunten Fassaden zum Leuchten; ideal für eine entspannte Fahrt ohne Touristenmassen.",
+                "hu": "Az alacsony napállás ragyogóvá teszi a színes homlokzatokat; ideális egy nyugodt tekeréshez tömeg nélkül.",
+                "ro": "Soarele jos face fațadele colorate să strălucească; ideal pentru o plimbare relaxată fără mulțimi de turiști.",
+                "en": "The low sun makes the colorful facades glow beautifully; ideal for a relaxed ride without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti del Mare",
+                "hu": "Monumento ai Caduti del Mare",
+                "ro": "Monumento ai Caduti del Mare",
+                "en": "Monumento ai Caduti del Mare"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich eine Schicht mehr an, da der Wind hier am Denkmal direkt vom offenen Meer weht und kühl sein kann.",
+                "hu": "Vegyen fel egy extra réteget, mert itt az emlékműnél a szél közvetlenül a nyílt tenger felől fúj és hűvös lehet.",
+                "ro": "Mai puneți o haină pe voi, deoarece vântul de aici de la monument bate direct dinspre mare și poate fi rece.",
+                "en": "Wear an extra layer here as the wind at the monument blows directly from the open sea and can feel quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie die kälteste Zeit des Tages in den Ausstellungsräumen und lassen Sie sich von der Meeresgeschichte wärmen.",
+                "hu": "Töltse a nap leghűvösebb óráit a kiállítótermekben, és hagyja, hogy a tengeri történelem elvarázsolja a melegben.",
+                "ro": "Petreceți cele mai reci ore ale zilei în sălile de expoziție și lăsați-vă purtați de istoria marină la căldură.",
+                "en": "Spend the coolest hours of the day inside the exhibition rooms and let the maritime history warm your spirits."
+              }
+            },
+            {
+              "name": {
+                "de": "Scalinata a Zig Zag",
+                "hu": "Scalinata a Zig Zag",
+                "ro": "Scalinata a Zig Zag",
+                "en": "Scalinata a Zig Zag"
+              },
+              "tip_5lang": {
+                "de": "Das Keramikdekor wirkt im sanften Winterlicht besonders edel; perfekt für einen Stopp vor dem frühen Sonnenuntergang.",
+                "hu": "A kerámiadíszítés a lágy téli fényben különösen elegáns; tökéletes megálló a korai naplemente előtt.",
+                "ro": "Decorul ceramic arată foarte rafinat în lumina blândă de iarnă; oprirea perfectă înainte de apusul timpuriu.",
+                "en": "The ceramic decor looks particularly elegant in the soft winter light; a perfect stop before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Steripinto",
+                "hu": "Palazzo Steripinto",
+                "ro": "Palazzo Steripinto",
+                "en": "Palazzo Steripinto"
+              },
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung hebt die 3D-Struktur der Fassade hervor; ein magischer Anblick in der klaren, kühlen Winternacht.",
+                "hu": "Az esti kivilágítás kiemeli a homlokzat 3D szerkezetét; varázslatos látvány a tiszta, hűvös téli éjszakában.",
+                "ro": "Iluminatul de seară scoate în evidență structura 3D a fațadei; o priveliște magică în noaptea clară de iarnă.",
+                "en": "The evening lighting highlights the 3D structure of the facade; a magical sight in the clear, cool winter night."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Autós túránk a város szélén, a gótikus Chiesa della Raccomandata templomnál indul. Csendes és történelmi atmoszféra fogad minket ezen a reggelen. \n\nDél körül a Belvedere Cosimo Aleo kilátóhoz hajtunk. A tengerpartra és a városra nyíló lenyűgöző panoráma tökéletes hátteret nyújt a fotózáshoz. \n\nDélután a belvárost vesszük célba: a játékos Museo del Giocattolo után a kikötőben a tengerészek emlékműve és a tengerészeti múzeum vár ránk. \n\nA napot a gyönyörű Lido Sovareto strandon zárjuk. A finom homokban pihenve, a tenger morajlását hallgatva emlékszünk vissza az élményekre.",
         "ro": "Turul auto începe la periferie, la biserica gotică Chiesa della Raccomandata. Un punct de plecare liniștit, plin de farmec istoric și natură. \n\nSpre prânz conducem la Belvedere Cosimo Aleo. Priveliștea uimitoare asupra coastei și a orașului oferă panorama perfectă pentru fotografii de neuitat. \n\nDupă-amiaza explorăm centrul: de la jucăușul Museo del Giocattolo ajungem în port, unde ne așteaptă monumentul marinarilor și Museo del Mare. \n\nZiua se încheie relaxant pe plaja Lido Sovareto. Pe nisipul fin, în sunetul valurilor, recapitulăm toate impresiile minunate adunate în Sciacca.",
         "en": "Our driving tour kicks off on the outskirts at the Gothic Chiesa della Raccomandata, offering a quiet start surrounded by history and lovely nature. \n\nAround midday, we drive up to Belvedere Cosimo Aleo. The breathtaking panoramic views over the coastline and town provide perfect photo opportunities. \n\nIn the afternoon, we dive into culture: from the playful Museo del Giocattolo we head to the port to explore the sailors' monument and maritime museum. \n\nWe wrap up the day unwinding at Lido Sovareto. Relaxing on the soft sand to the sound of the waves is the perfect way to end our time in Sciacca."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr bester Freund gegen den Regen. Starten Sie trocken bei der Kirche Raccomandata. Die Aussicht vom Belvedere genießen Sie am besten aus dem Wageninneren. Das Spielzeug- und Meeresmuseum bieten stundenlangen Schutz vor den Schauern. Am späten Nachmittag ist die Fahrt zum Lido Sovareto entspannt, da Sie die wilden Wellen geschützt durch die Scheibe beobachten können.",
+            "hu": "Az autó ma a legjobb barátja az eső elleni védekezésben. Kezdje szárazon a Raccomandata templomnál. A belvedere kilátást élvezze inkább a kocsiból. A játék- és tengerészeti múzeum órákra menedéket ad a záporok elől. Késő délután a Lido Sovareto felé vezető út nyugodt, a vad hullámokat pedig a szélvédő védelméből csodálhatja meg.",
+            "ro": "Mașina este astăzi cel mai bun prieten împotriva ploii. Începeți la biserica Raccomandata. Bucurați-vă de vederea de la Belvedere direct din interiorul vehiculului. Muzeul jucăriilor și cel al mării oferă ore de adăpost. După-amiaza târziu, drumul spre Lido Sovareto este relaxant, putând observa valurile mării protejați de parbriz.",
+            "en": "The car is your best friend today against the rain. Start dry at the Raccomandata Church. Enjoy the view from the Belvedere from the comfort of your car. The Toy and Maritime Museums offer hours of shelter from the showers. In the late afternoon, the drive to Lido Sovareto is relaxing as you can watch the wild waves through the windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Raccomandata",
+                "hu": "Chiesa della Raccomandata",
+                "ro": "Chiesa della Raccomandata",
+                "en": "Chiesa della Raccomandata"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor der Tür, um den Weg im Regen so kurz wie möglich zu halten.",
+                "hu": "Használja a közvetlenül a bejárat előtti parkolót, hogy az esőben megtett utat a lehető legrövidebbre fogja.",
+                "ro": "Folosiți parcarea direct din fața intrării pentru a scurta la maximum drumul prin ploaie până în biserică.",
+                "en": "Use the parking lot directly in front of the door to keep your walk in the rain as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Cosimo Aleo",
+                "hu": "Belvedere Cosimo Aleo",
+                "ro": "Belvedere Cosimo Aleo",
+                "en": "Belvedere Cosimo Aleo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama bequem vom Fahrersitz aus; die Regentropfen auf der Scheibe geben Fotos einen künstlerischen Touch.",
+                "hu": "Élvezze a panorámát kényelmesen a vezetőülésből; az üvegen lévő esőcseppek művészi hatást adnak a fotóknak.",
+                "ro": "Bucurați-vă de panoramă confortabil de pe scaunul șoferului; stropii de pe geam dau fotografiilor o notă artistică.",
+                "en": "Enjoy the panorama comfortably from the driver's seat; rain droplets on the glass add an artistic touch to your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Giocattolo",
+                "hu": "Museo del Giocattolo",
+                "ro": "Museo del Giocattolo",
+                "en": "Museo del Giocattolo"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre nassen Jacken im Auto und betreten Sie das Museum nur mit dem Nötigsten, um trocken zu bleiben.",
+                "hu": "Hagyja a vizes kabátokat az autóban, és csak a legszükségesebbekkel menjen be a múzeumba, hogy száraz maradjon.",
+                "ro": "Lăsați haina udă în mașină și intrați în muzeu doar cu strictul necesar pentru a rămâne cât mai uscați.",
+                "en": "Leave your wet jackets in the car and enter the museum with only the essentials to keep your visit dry and easy."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti del Mare",
+                "hu": "Monumento ai Caduti del Mare",
+                "ro": "Monumento ai Caduti del Mare",
+                "en": "Monumento ai Caduti del Mare"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto; parken Sie so nah wie möglich am Denkmal und achten Sie auf Pfützen beim Aussteigen.",
+                "hu": "Gyors megálló egy fotó erejéig; parkoljon minél közelebb az emlékműhöz, és ügyeljen a tócsákra kiszálláskor.",
+                "ro": "O oprire rapidă pentru o poză; parcați cât mai aproape de monument și atenție la bălți când coborâți din mașină.",
+                "en": "A quick stop for a photo; park as close as possible to the monument and watch out for puddles when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine ausgiebige Pause vom Fahren im Regen; die Ausstellungen sind komplett überdacht.",
+                "hu": "Használja ki a látogatást egy alapos pihenőre az esős vezetés után; a kiállítások teljesen fedettek és tágasak.",
+                "ro": "Profitați de vizită pentru o pauză lungă de la condusul pe ploaie; expozițiile sunt complet acoperite și spațioase.",
+                "en": "Take advantage of the visit for an extended break from driving in the rain; the exhibits are completely indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Sovareto",
+                "hu": "Lido Sovareto",
+                "ro": "Lido Sovareto",
+                "en": "Lido Sovareto"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer aus der Sicherheit Ihres Wagens; die Brandung ist bei Regen besonders beeindruckend.",
+                "hu": "Figyelje a viharos tengert az autó biztonságából; a hullámtörés esős időben különösen látványos a parton.",
+                "ro": "Observați marea agitată din siguranța mașinii; spectacolul valurilor pe ploaie este cu adevărat impresionant.",
+                "en": "Watch the stormy sea from the safety of your car; the breaking waves are particularly impressive in rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Sciacca bietet klare Sicht und leere Straßen. Vormittags ist das Licht an der Raccomandata-Kirche und am Belvedere brillant. Die Museen bieten mittags eine angenehme Wärme. Da die Sonne gegen 17:00 Uhr untergeht, erreichen Sie das Lido Sovareto rechtzeitig zur blauen Stunde. Der Abend endet bei kühler Meeresbrise, aber mit der Heizung im Auto ist alles komfortabel.",
+            "hu": "Egy téli autós körút Sciaccában tiszta látási viszonyokat és üres utakat kínál. Délelőtt a fények a Raccomandata templomnál és a Belvedere kilátónál ragyogóak. A múzeumok délben kellemes meleget adnak. Mivel a nap 17:00 körül nyugszik, a Lido Sovaretót még a kék órában elérheti. Az este hűvös tengeri széllel zárul, de a kocsiban fűtve ez nem akadály.",
+            "ro": "O plimbare cu mașina prin Sciacca iarna oferă vizibilitate clară și străzi libere. Dimineața, lumina la biserica Raccomandata și la Belvedere este briliantă. Muzeele oferă o căldură plăcută la prânz. Deoarece soarele apune în jur de ora 17:00, ajungeți la Lido Sovareto la timp pentru ora albastră. Seara se încheie cu o briză răcoroasă, dar în mașină e confortabil.",
+            "en": "A winter drive through Sciacca offers clear views and empty streets. In the morning, the light at Raccomandata Church and Belvedere is brilliant. The museums provide a cozy warmth during midday. Since the sun sets around 17:00, you will reach Lido Sovareto just in time for the blue hour. The evening ends with a cool sea breeze, but with the car's heater, it's perfectly comfortable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Raccomandata",
+                "hu": "Chiesa della Raccomandata",
+                "ro": "Chiesa della Raccomandata",
+                "en": "Chiesa della Raccomandata"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Winter; oft haben Sie dieses historische Kleinod ganz für sich allein.",
+                "hu": "Élvezze a téli csendet; ilyenkor gyakran teljesen egyedül fedezheti fel ezt a történelmi gyöngyszemet.",
+                "ro": "Bucurați-vă de liniștea iernii; adesea veți avea această bijuterie istorică doar pentru dumneavoastră.",
+                "en": "Enjoy the winter tranquility; you will often have this historical gem all to yourself during the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Cosimo Aleo",
+                "hu": "Belvedere Cosimo Aleo",
+                "ro": "Belvedere Cosimo Aleo",
+                "en": "Belvedere Cosimo Aleo"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft besser als im Sommer; bei klarer Luft können Sie weit über die Küste blicken.",
+                "hu": "A távoli kilátás télen gyakran jobb, mint nyáron; a tiszta levegőben messzire elláthat a part mentén.",
+                "ro": "Vizibilitatea la distanță este adesea mai bună iarna decât vara; în aerul curat puteți vedea departe de-a lungul coastei.",
+                "en": "Long-distance visibility is often better in winter than summer; in the clear air, you can see far along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Giocattolo",
+                "hu": "Museo del Giocattolo",
+                "ro": "Museo del Giocattolo",
+                "en": "Museo del Giocattolo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagswärme im Museum; die nostalgische Sammlung ist im Winter ein besonders herzlicher Ort.",
+                "hu": "Használja ki a múzeum déli melegét; a nosztalgikus gyűjtemény télen különösen szívet melengető helyszín.",
+                "ro": "Profitați de căldura de la prânz în muzeu; colecția nostalgică este un loc foarte primitor în timpul iernii.",
+                "en": "Take advantage of the midday warmth in the museum; the nostalgic collection is a heartwarming place in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti del Mare",
+                "hu": "Monumento ai Caduti del Mare",
+                "ro": "Monumento ai Caduti del Mare",
+                "en": "Monumento ai Caduti del Mare"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne sorgt für tolle Lichtreflexe auf dem Denkmal und dem Meer; ideal für stimmungsvolle Fotos.",
+                "hu": "Az alacsony napállás remek fényreflexiókat hoz létre az emlékművön és a tengeren; ideális hangulatos fotókhoz.",
+                "ro": "Soarele jos creează reflexii de lumină superbe pe monument și pe mare; ideal pentru fotografii pline de atmosferă.",
+                "en": "The low sun creates beautiful light reflections on the monument and the sea; ideal for atmospheric winter photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Zwischenstopp, um der kühler werdenden Außenluft am Nachmittag zu entfliehen.",
+                "hu": "Kiváló köztes megálló, hogy elmeneküljön a délutáni, egyre hűvösebbé váló kültéri levegő elől.",
+                "ro": "O oprire intermediară excelentă pentru a scăpa de aerul exterior care devine tot mai rece după-amiaza.",
+                "en": "An excellent intermediate stop to escape the afternoon air, which starts to get noticeably cooler at this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Sovareto",
+                "hu": "Lido Sovareto",
+                "ro": "Lido Sovareto",
+                "en": "Lido Sovareto"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den winterlichen Strand bei Sonnenuntergang; das Licht ist weich und die Atmosphäre absolut ruhig.",
+                "hu": "Tapasztalja meg a téli tengerpartot naplementekor; a fények lágyak, a hangulat pedig teljesen nyugodt.",
+                "ro": "Experimentați plaja de iarnă la apus; lumina este caldă, iar atmosfera este de o liniște absolută.",
+                "en": "Experience the winter beach at sunset; the light is soft and the atmosphere is one of absolute tranquility."
+              }
+            }
+          ]
+        }
       }
     }
   }

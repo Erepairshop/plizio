@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggeli sétát Gouvieux hangulatos városházájánál és történelmi templománál. Délben pihenjen meg egy kicsit a zöldterületen a hintáknál. A délutánt a Manoir de la Tour gazdag történelme határozza meg. A napot elegánsan a fenséges Montvillargenne kastély parkjában zárhatja le.",
         "ro": "Începeți plimbarea de dimineață la fermecătoarea primărie și la biserica istorică din Gouvieux. La prânz, relaxați-vă în zona verde cu leagăne. După-amiaza este marcată de istoria bogată a Manoir de la Tour. Încheiați ziua elegant în parcul majestuosului Château de Montvillargenne.",
         "en": "Begin your morning walk at the charming town hall and the historic church of Gouvieux. Around midday, take a relaxing break at the green swing area. The afternoon is defined by the rich history at the Manoir de la Tour. End your day elegantly in the majestic park of Château de Montvillargenne."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den regnerischen Morgen im Zentrum mit einem Schirm. Mittags spazieren wir zum Schloss, Vorsicht auf nassen, rutschigen Wegen. Nachmittags bieten die dichten Bäume etwas Schutz vor den Schauern. Abends entspannen wir uns bei einem warmen Getränk drinnen nach dem nassen Spaziergang.",
+            "hu": "Reggel a központban kezdünk, esernyővel a kézben. Délben a kastély felé vesszük az irányt, vigyázva a csúszós falevelekre. Délután a fák nyújtanak némi menedéket a záporok elől. Estére egy meleg kávé mellett, fedett helyen pihenhetjük ki a vizes sétát.",
+            "ro": "Începem dimineața ploioasă în centru, sub umbrele. La prânz ne îndreptăm spre castel, atenție la drumul alunecos și frunzele ude. După-amiaza copacii mari oferă un oarecare adăpost. Seara ne relaxăm cu o băutură caldă la interior după plimbarea umedă.",
+            "en": "We start the rainy morning in the center with a sturdy umbrella. At noon we head to the castle, watching out for slippery paths. In the afternoon, the large trees provide some shelter from the showers. In the evening, we relax indoors with a warm drink after our wet walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Gouvieux",
+                "hu": "Mairie de Gouvieux",
+                "ro": "Mairie de Gouvieux",
+                "en": "Mairie de Gouvieux"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Rathauses unter dem Regenschirm; die historische Fassade wirkt im starken Regen überraschend poetisch und dramatisch.",
+                "hu": "Csodálja meg a városháza építészetét az esernyője alól; a történelmi homlokzat meglepően költői és drámai látványt nyújt a heves esőzésben.",
+                "ro": "Admirați arhitectura primăriei de sub umbrelă; fațada istorică arată surprinzător de poetic și dramatic în timpul ploilor abundente de astăzi.",
+                "en": "Admire the beautiful architecture of the town hall from under your umbrella; the historic facade looks surprisingly poetic and dramatic in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Geniève",
+                "hu": "Église Sainte-Geniève",
+                "ro": "Église Sainte-Geniève",
+                "en": "Église Sainte-Geniève"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche ist ein perfekter Zufluchtsort vor dem Regen; bewundern Sie die Buntglasfenster und bleiben Sie dabei vollkommen trocken.",
+                "hu": "Ez a templom tökéletes beltéri menedék az eső elől; csodálja meg az ólomüveg ablakokat, miközben teljesen szárazon tartja magát.",
+                "ro": "Această biserică este un refugiu perfect din calea ploii; admirați vitraliile colorate, păstrându-vă în același timp complet uscați.",
+                "en": "This peaceful church is a perfect indoor escape from the rain; admire the colorful stained glass windows while keeping yourself completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Balançoires",
+                "hu": "Balançoires",
+                "ro": "Balançoires",
+                "en": "Balançoires"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserdichte Stiefel; der grasbewachsene Spielplatzboden kann bei starken Regenschauern ziemlich schlammig und rutschig werden.",
+                "hu": "Mindenképpen viseljen vízálló csizmát; a füves játszótér talaja a heves esőzések során meglehetősen sarassá és csúszóssá válhat.",
+                "ro": "Asigurați-vă că purtați cizme impermeabile rezistente; terenul cu iarbă poate deveni destul de noroios și alunecos pe timp de ploaie.",
+                "en": "Make sure you wear sturdy waterproof boots here; the grassy playground ground can become quite muddy and slippery during heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Tour",
+                "hu": "Manoir de la Tour",
+                "ro": "Manoir de la Tour",
+                "en": "Manoir de la Tour"
+              },
+              "tip_5lang": {
+                "de": "Die historische Steinfassade ist bei Nässe beeindruckend; bringen Sie eine gute Regenjacke mit, um die Details auch im Nieselregen zu betrachten.",
+                "hu": "A történelmi kőhomlokzat lenyűgöző, amikor nedves; hozzon magával egy jó esőkabátot, hogy kényelmesen megcsodálhassa a külső részleteket.",
+                "ro": "Fațada din piatră este incredibil de impresionantă când este udă; aduceți o haină de ploaie bună pentru a admira detaliile exterioare confortabil.",
+                "en": "The historical stone facade is incredibly striking when wet; bring a high-quality raincoat to comfortably admire the exterior details in the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montvillargenne",
+                "hu": "Château de Montvillargenne",
+                "ro": "Château de Montvillargenne",
+                "en": "Château de Montvillargenne"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in diesem Grandhotel Zuflucht; genießen Sie ein warmes Getränk in der Lobby und beobachten Sie den romantischen Regen durch die Fenster.",
+                "hu": "Keressen menedéket ebben a nagyszerű szállodában; élvezzen egy meleg italt a lobbiban, és nézze a romantikus esőzést a nagy ablakokon keresztül.",
+                "ro": "Găsiți adăpost în acest hotel grandios; savurați o băutură caldă în holul elegant și priviți ploaia romantică prin ferestrele mari.",
+                "en": "Take welcome shelter inside this grand hotel; enjoy a warm drink in the elegant lobby and watch the romantic rainfall through the large windows."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen im Zentrum erwartet uns. Mittags genießen wir die winterliche Landschaft auf kurzen, zügigen Wegen. Nachmittags wirken die Schlösser im frühen Sonnenuntergang magisch. Abends, nach der frühen Dunkelheit gegen 17 Uhr, leuchten die frostigen Straßen hell.",
+            "hu": "Reggel friss, csípős levegő fogad a központban. Délben a téli táj szépségét élvezhetjük a rövid séták alatt. Délután a kastélyok varázslatosak a lemenő nap fényében. Este, a korai, 17 óra körüli sötétedés után, élvezzük a kivilágított, zúzmarás utcákat.",
+            "ro": "O dimineață rece ne așteaptă în centru. La prânz ne bucurăm de peisajul de iarnă pe trasee scurte. După-amiaza, castelele par magice în lumina apusului timpuriu. Seara, odată cu întunericul devreme, străzile luminate sunt superbe de explorat.",
+            "en": "A crisp winter morning awaits in the center. At noon, we enjoy the frosty landscape on short, brisk paths. In the afternoon, the castles look magical in the early sunset. In the evening, after the early dark around 5 PM, the illuminated streets are beautiful to walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Gouvieux",
+                "hu": "Mairie de Gouvieux",
+                "ro": "Mairie de Gouvieux",
+                "en": "Mairie de Gouvieux"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich warm ein, um den frostigen Charme des Rathauses am frühen Morgen in der klaren Winterluft zu bewundern.",
+                "hu": "Öltözzön melegen, hogy megcsodálhassa a városháza zúzmarás báját kora reggel a tiszta téli levegőben, mielőtt tovább indulna.",
+                "ro": "Îmbrăcați-vă gros pentru a admira farmecul înghețat al primăriei dimineața devreme, în aerul curat de iarnă, înainte de a continua.",
+                "en": "Wrap up warm in thick layers to admire the civic center's frosty charm early in the morning in the crisp and clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Geniève",
+                "hu": "Église Sainte-Geniève",
+                "ro": "Église Sainte-Geniève",
+                "en": "Église Sainte-Geniève"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um sich aufzuwärmen und zu sehen, wie das sanfte Winterlicht wunderschön durch das historische Glas fällt.",
+                "hu": "Lépjen be, hogy felmelegedjen, és megnézze, ahogy a lágy téli fény gyönyörűen átszűrődik a történelmi üvegablakokon.",
+                "ro": "Intrați pentru a vă încălzi și pentru a vedea cum lumina blândă a iernii filtrează frumos prin sticla istorică a bisericii.",
+                "en": "Step inside the nave to warm up your hands and see the beautiful, low-angled winter light filter through the historic stained glass."
+              }
+            },
+            {
+              "name": {
+                "de": "Balançoires",
+                "hu": "Balançoires",
+                "ro": "Balançoires",
+                "en": "Balançoires"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie den Kindern dicke Handschuhe an; die Metallschaukeln sind heute sehr kalt. Die frostige Wiese glitzert im Sonnenlicht.",
+                "hu": "Adjon vastag kesztyűt a gyerekekre; a fém hinták ma nagyon hidegek lesznek. A zúzmarás rét gyönyörűen csillog a napsütésben.",
+                "ro": "Puneți mănuși groase copiilor; leagănele din metal vor fi foarte reci la atingere astăzi. Pajiștea înghețată strălucește în soare.",
+                "en": "Bundle up the kids with thick gloves; the metal swings will be very cold to the touch today. The frosty grass sparkles beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Tour",
+                "hu": "Manoir de la Tour",
+                "ro": "Manoir de la Tour",
+                "en": "Manoir de la Tour"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten eine völlig freie Sicht auf dieses historische Herrenhaus; ein perfektes Fotomotiv in der Kälte.",
+                "hu": "A csupasz téli fák teljesen zavartalan kilátást nyújtanak erre a történelmi kúriára; tökéletes fotótéma a ropogós hidegben.",
+                "ro": "Copacii golași de iarnă oferă o vedere complet neobstrucționată a acestui conac istoric; o oportunitate foto perfectă în frig.",
+                "en": "The bare winter trees offer a completely unobstructed view of this historic manor, making it a perfect photo opportunity in the crisp cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montvillargenne",
+                "hu": "Château de Montvillargenne",
+                "ro": "Château de Montvillargenne",
+                "en": "Château de Montvillargenne"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang und wärmen Sie sich am Kamin in dieser luxuriösen Schlosskulisse auf, wenn es draußen dunkel wird.",
+                "hu": "Fejezze be a sétát, és melegedjen fel egy kandalló mellett ebben a fényűző kastélyi környezetben, ahogy kint sötétedni kezd.",
+                "ro": "Încheiați-vă plimbarea încălzindu-vă la un șemineu în acest cadru luxos de castel, exact când începe să se întunece afară.",
+                "en": "End your winter walk warming up by a cozy fireplace in this luxurious castle setting, just as the early evening darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Indítsa kerékpártúráját Gouvieux központjában, majd tekerjen el a lenyűgöző barlanglakásokhoz. Délben a Base de Loisirs tökéletes helyszínt biztosít a felfrissülésre. Délután felfedezheti a történelmi Manoir de la Tour-t. Az este két pompás kastélyhoz vezet, ahol a nap fenségesen ér véget.",
         "ro": "Începeți turul cu bicicleta în centrul orașului Gouvieux, înainte de a pedala spre fascinantele locuințe rupestre. La prânz, Base de Loisirs oferă locul perfect pentru odihnă. După-amiaza explorați istoricul Manoir de la Tour. Seara vă duce la două castele magnifice, unde ziua se încheie maiestuos.",
         "en": "Start your cycling tour in the center of Gouvieux before riding to the fascinating cave dwellings. At noon, the Base de Loisirs provides the perfect spot for a break. In the afternoon, explore the historic Manoir de la Tour. The evening takes you to two magnificent castles, ending the day majestically."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig durch das regnerische Zentrum. Mittags bieten die Höhlendörfer Schutz vor den Tropfen. Nachmittags fahren wir in Regenkleidung am See vorbei. Abends erfordert die nasse Straße beim Bremsen volle Konzentration.",
+            "hu": "Reggel óvatosan pedálozunk az esős központban. Délben a barlanglakások nyújtanak száraz menedéket. Délután vízálló felszerelésben tekerünk a tóparton. Estére a vizes utakon, hosszabb fékúttal fokozott figyelemmel érünk célba.",
+            "ro": "Dimineața pedalăm cu grijă prin centrul ploios. La prânz satele troglodite oferă un adăpost perfect uscat. După-amiaza mergem cu pelerine de ploaie pe lângă lac. Seara, drumurile ude necesită frânare lentă și atenție sporită.",
+            "en": "Morning biking requires extra care on wet central streets. At noon, the troglodyte dwellings offer a fascinating dry shelter. In the afternoon, we cycle past the lake in waterproof gear. Evening demands high focus and early braking on slippery roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Gouvieux",
+                "hu": "Mairie de Gouvieux",
+                "ro": "Mairie de Gouvieux",
+                "en": "Mairie de Gouvieux"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre regnerische Fahrt hier; stellen Sie sicher, dass Ihre Fahrradlichter für maximale Sichtbarkeit im Grau eingeschaltet sind.",
+                "hu": "Kezdje itt az esős utat; győződjön meg róla, hogy a kerékpár lámpái be vannak kapcsolva a maximális láthatóság érdekében a szürkeségben.",
+                "ro": "Începeți plimbarea ploioasă aici; asigurați-vă că luminile bicicletei sunt aprinse pentru vizibilitate maximă în vremea gri.",
+                "en": "Start your rainy ride here; make sure your bike lights are fully switched on for maximum visibility in the grey, drizzly weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Geniève",
+                "hu": "Église Sainte-Geniève",
+                "ro": "Église Sainte-Geniève",
+                "en": "Église Sainte-Geniève"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und gehen Sie hinein, um sich abzutrocknen, während Sie das friedliche Kirchenschiff betrachten.",
+                "hu": "Parkolja le a kerékpárját, és lépjen be, hogy megszáradjon egy kicsit, miközben megcsodálja a békés templomhajót.",
+                "ro": "Parcați bicicleta și intrați pentru a vă usca puțin, în timp ce admirați naosul liniștit al bisericii departe de ploaie.",
+                "en": "Park your wet bike outside and step indoors to dry off a bit while admiring the peaceful nave away from the heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Village Troglodyte",
+                "hu": "Village Troglodyte",
+                "ro": "Village Troglodyte",
+                "en": "Village Troglodyte"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei Regen; erkunden Sie diese einzigartigen, in den Fels gehauenen Häuser, während Sie komplett trocken bleiben.",
+                "hu": "Tökéletes esős megálló; fedezze fel ezeket az egyedi, sziklába vájt otthonokat, miközben teljesen száraz marad az eső elől védve.",
+                "ro": "O oprire perfectă pe ploaie; explorați aceste case unice sculptate în stâncă, în timp ce rămâneți complet uscați la interior.",
+                "en": "A highly perfect rainy-day stop; explore these unique rock-carved homes while staying completely dry and sheltered from the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+                "hu": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+                "ro": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+                "en": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent"
+              },
+              "tip_5lang": {
+                "de": "Die Wege rund um den See können sehr rutschig sein; fahren Sie langsamer, bremsen Sie sanft und tragen Sie eine hochwertige Regenjacke.",
+                "hu": "A tó körüli ösvények nagyon csúszósak lehetnek; lassítson, fékezzen óvatosan, és viseljen jó minőségű esőkabátot a pedálozáshoz.",
+                "ro": "Potecile din jurul lacului pot fi foarte alunecoase; încetiniți, frânați ușor și purtați o haină de ploaie de înaltă calitate.",
+                "en": "The unpaved paths around the lake can be very muddy and slippery; slow down significantly, brake gently, and wear a high-quality raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Tour",
+                "hu": "Manoir de la Tour",
+                "ro": "Manoir de la Tour",
+                "en": "Manoir de la Tour"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die regendurchtränkten Steinmauern vom Radweg aus; achten Sie auf tiefen Schlamm in der Nähe der alten Tore.",
+                "hu": "Nézze meg az esőtől áztatott kőfalakat a kerékpárútról; ügyeljen a mély sárra és a pocsolyákra a régi kapuk közelében.",
+                "ro": "Priviți zidurile de piatră îmbibate de ploaie de pe pista de biciclete; aveți grijă la noroiul adânc din apropierea porților vechi.",
+                "en": "View the moody, rain-soaked stone walls right from the bike path; keep a close eye out for deep mud puddles near the old estate gates."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montvillargenne",
+                "hu": "Château de Montvillargenne",
+                "ro": "Château de Montvillargenne",
+                "en": "Château de Montvillargenne"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine gemütliche Pause vom Radfahren im Regen in diesem majestätischen Hotel; wärmen Sie sich mit einem heißen Tee auf.",
+                "hu": "Tartson egy kényelmes szünetet az esőben való tekerés után ebben a fenséges szállodában; melegedjen fel egy forró teával a bárban.",
+                "ro": "Faceți o pauză confortabilă de la ciclismul prin ploaie în acest hotel maiestuos; încălziți-vă cu un ceai fierbinte la interior.",
+                "en": "Take a very cozy break from cycling in the cold rain inside this majestic hotel; warm your body back up with a hot tea in the lounge."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Aiglemont",
+                "hu": "Château d'Aiglemont",
+                "ro": "Château d'Aiglemont",
+                "en": "Château d'Aiglemont"
+              },
+              "tip_5lang": {
+                "de": "Das große Finale im Nieselregen; bremsen Sie früh und sanft auf der nassen, rutschigen Abfahrt zum Schloss hinunter.",
+                "hu": "A nagy finálé a szitáló esőben; fékezzen korán és finoman a kastélyhoz vezető nedves, csúszós ereszkedőn, hogy elkerülje az esést.",
+                "ro": "Marea finală în ploaie; frânați devreme și ușor pe coborârea umedă și alunecoasă care duce spre acest castel impresionant.",
+                "en": "The grand finale in the constant drizzle; ensure you brake early and gently on the wet, slippery descent down to the castle grounds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten den kühlen Morgen in Schichten gekleidet. Mittags radeln wir in der tief stehenden Wintersonne zum See. Nachmittags wird der Fahrtwind frisch. Abends, wegen der frühen Dunkelheit um 17 Uhr, sind gute Fahrradlichter absolute Pflicht.",
+            "hu": "Reggel réteges öltözetben vágunk neki a csípős levegőnek. Délben a téli napsütésben tekerünk a tóhoz. Délután a kastélyok árnyékában hűvös lesz a menetszél. Estére, a korai sötétedés miatt, elengedhetetlen az erős kerékpárlámpa.",
+            "ro": "Începem dimineața rece îmbrăcați în straturi. La prânz pedalăm sub soarele de iarnă spre lac. După-amiaza vântul devine tăios la viteză. Seara, din cauza întunericului de la ora 17, luminile puternice pentru bicicletă sunt obligatorii.",
+            "en": "We start the chilly morning firmly dressed in layers. At noon, we cycle to the lake in the low winter sun. In the afternoon, the windchill gets sharp. In the evening, due to the 5 PM darkness, extremely bright bike lights are an absolute must."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Gouvieux",
+                "hu": "Mairie de Gouvieux",
+                "ro": "Mairie de Gouvieux",
+                "en": "Mairie de Gouvieux"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre winddichten Handschuhe an; bewundern Sie die klare Winteratmosphäre rund um das Rathaus, bevor Sie losradeln.",
+                "hu": "Hagyja magán a szélálló kesztyűt; csodálja meg a tiszta téli atmoszférát a városháza körül, mielőtt elkezdené a pedálozást.",
+                "ro": "Păstrați mănușile rezistente la vânt pe mâini; admirați atmosfera clară de iarnă din jurul primăriei înainte de a pedala.",
+                "en": "Keep your windproof cycling gloves securely on; admire the crisp, clear winter atmosphere around the town hall before hitting the pedals."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Geniève",
+                "hu": "Église Sainte-Geniève",
+                "ro": "Église Sainte-Geniève",
+                "en": "Église Sainte-Geniève"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Hände nach der ersten Etappe aufzuwärmen und die frostige Stille des Wintermorgens drinnen zu genießen.",
+                "hu": "Csendes hely, ahol felmelegítheti a kezét az első szakasz után, és élvezheti a téli reggel fagyos csendjét a belső térben.",
+                "ro": "Un loc liniștit pentru a vă încălzi mâinile după prima etapă și pentru a vă bucura de liniștea dimineții de iarnă în interior.",
+                "en": "A perfectly quiet place to warm your stiff hands after the first cycling leg and enjoy the serene winter atmosphere safely inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Village Troglodyte",
+                "hu": "Village Troglodyte",
+                "ro": "Village Troglodyte",
+                "en": "Village Troglodyte"
+              },
+              "tip_5lang": {
+                "de": "Die Felsenhöhlen bleiben relativ isoliert; ein großartiger Ort, um dem beißenden Winterwind auf dem Fahrrad für eine Weile zu entfliehen.",
+                "hu": "A sziklabarlangok viszonylag szigeteltek maradnak; nagyszerű hely arra, hogy egy időre elmeneküljön a metsző téli szél elől.",
+                "ro": "Peșterile din stâncă rămân relativ izolate; un loc minunat pentru a bloca vântul tăios de iarnă pentru un timp, coborând de pe bicicletă.",
+                "en": "The solid stone caves stay relatively insulated; a great spot to park your bike and effectively block the biting winter wind for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+                "hu": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+                "ro": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+                "en": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Ränder des Sees sind wunderschön anzusehen, aber achten Sie auf gefährliche Eisflächen auf den Radwegen.",
+                "hu": "A tó befagyott szélei gyönyörű látványt nyújtanak, de mindenképpen ügyeljen a kerékpárutakon kialakult veszélyes jégfoltokra.",
+                "ro": "Marginile înghețate ale lacului sunt frumoase de privit, dar fiți foarte atenți la peticele periculoase de gheață de pe pistele de biciclete.",
+                "en": "The frozen edges of the lake are simply stunning to look at, but keep a very sharp eye out for dangerous black ice on the shaded bike paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Tour",
+                "hu": "Manoir de la Tour",
+                "ro": "Manoir de la Tour",
+                "en": "Manoir de la Tour"
+              },
+              "tip_5lang": {
+                "de": "Die blattlosen Winterbäume bieten vom Sattel aus eine klare, beeindruckende Sicht auf dieses historische und imposante Herrenhaus.",
+                "hu": "A levéltelen téli fák a nyeregből tiszta, lenyűgöző kilátást nyújtanak erre a történelmi és impozáns kúriára útközben.",
+                "ro": "Copacii golași de iarnă oferă o vedere clară și izbitoare a acestui conac istoric direct din șaua bicicletei, în timpul mersului.",
+                "en": "The leafless winter trees provide a perfectly clear, striking view of this historic manor right from your bicycle saddle as you ride by."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montvillargenne",
+                "hu": "Château de Montvillargenne",
+                "ro": "Château de Montvillargenne",
+                "en": "Château de Montvillargenne"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um abzusteigen, ein heißes Getränk zu sich zu nehmen und Ihre frierenden Finger am warmen Kaminfeuer aufzuwärmen.",
+                "hu": "Tökéletes hely a leszállásra, egy forró ital elfogyasztására és a fagyos ujjak felmelegítésére a meleg kandalló tüze mellett.",
+                "ro": "Un loc perfect pentru a coborî de pe bicicletă, a lua o băutură caldă și a vă încălzi degetele înghețate la un șemineu confortabil.",
+                "en": "A perfect spot to dismount your bike, grab a hot drink indoors, and thoroughly warm up your freezing fingers by a cozy log fire."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Aiglemont",
+                "hu": "Château d'Aiglemont",
+                "ro": "Château d'Aiglemont",
+                "en": "Château d'Aiglemont"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie unbedingt vor dem Sonnenuntergang um 17 Uhr an, um das Schloss im goldenen Winterlicht leuchten zu sehen; schalten Sie danach das Licht ein.",
+                "hu": "Mindenképpen érkezzen meg a 17 órai naplemente előtt, hogy lássa a kastélyt a ragyogó téli fényben; utána azonnal kapcsoljon lámpát.",
+                "ro": "Asigurați-vă că ajungeți înainte de apusul de la ora 17 pentru a vedea castelul strălucind în lumina iernii; aprindeți luminile imediat după.",
+                "en": "Make sure to pedal hard to arrive before the 5 PM sunset to catch the castle glowing in golden winter light; turn your bike lights on immediately after."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kirándulása aktívan indul a nagy szabadidőközpontnál és a titokzatos barlanglakásoknál. Délben a központba hajt, hogy megcsodálja a templomot és a városházát. A délután a történelemé, a Manoir de la Tour meglátogatásával. Este a két lenyűgöző kastély teszi teljessé a felejthetetlen élményt.",
         "ro": "Excursia dvs. începe activ la marele centru de agrement și la misterioasele locuințe rupestre. La prânz, conduceți spre centru pentru a admira biserica și primăria. După-amiaza este dedicată istoriei, cu o vizită la Manoir de la Tour. Seara, cele două castele impresionante completează experiența.",
         "en": "Your trip starts actively at the large recreation center and the mystical cave dwellings. Around noon, drive into the center to admire the church and the town hall. The afternoon is dedicated to history with a visit to the Manoir de la Tour. In the evening, two impressive castles perfectly round off the experience."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen am See und beobachten den heftigen Regen aus dem trockenen Auto. Mittags fahren wir zu den Höhlenwohnungen. Nachmittags geht es sehr vorsichtig auf nassen Straßen zu den Schlössern. Abends fahren wir bequem im Warmen zurück.",
+            "hu": "Reggel a tónál kezdünk, a fűtött autóból figyelve az esőt. Délben a barlanglakások felé vesszük az irányt, ahol szárazak maradhatunk. Délután a kastélyokhoz autózunk, óvatosan a vizes utakon. Este a kényelmes autóban érünk a végállomásra.",
+            "ro": "Începem la lac, privind ploaia din confortul mașinii. La prânz mergem spre locuințele troglodite. După-amiaza conducem spre castele, cu maximă grijă pe drumurile ude. Seara ne întoarcem la căldură, într-o conducere relaxantă.",
+            "en": "We start at the lake, securely watching the heavy rain from the dry car. At noon we drive to the cave dwellings. In the afternoon we navigate to the castles, extra careful on completely wet roads. Evening brings a cozy and warm drive back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+                "hu": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+                "ro": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+                "en": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die stimmungsvolle, regnerische Aussicht auf den großen See bequem und sicher aus der Wärme Ihres geparkten Autos.",
+                "hu": "Élvezze a nagy tó hangulatos, esős látványát kényelmesen és biztonságosan a parkoló autója melegéből, anélkül hogy megázna.",
+                "ro": "Bucurați-vă de priveliștile ploioase ale marelui lac din confortul și căldura mașinii parcate, ascultând ploaia pe acoperiș.",
+                "en": "Enjoy the wonderfully moody, rainy views of the large lake entirely from the comfort and dry warmth of your securely parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Village Troglodyte",
+                "hu": "Village Troglodyte",
+                "ro": "Village Troglodyte",
+                "en": "Village Troglodyte"
+              },
+              "tip_5lang": {
+                "de": "Ein brillanter Stopp an Regentagen; parken Sie in der Nähe und erkunden Sie diese faszinierenden Felsenwohnungen, während Sie trocken bleiben.",
+                "hu": "Ragyogó esős napi megálló; parkoljon a közelben, és fedezze fel ezeket a lenyűgöző sziklalakásokat, miközben teljesen száraz marad.",
+                "ro": "O oprire strălucitoare pentru o zi ploioasă; parcați aproape și explorați aceste locuințe fascinante în stâncă, în timp ce rămâneți uscați.",
+                "en": "A truly brilliant rainy-day stop; park close by and thoroughly explore these fascinating rock dwellings while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Geniève",
+                "hu": "Église Sainte-Geniève",
+                "ro": "Église Sainte-Geniève",
+                "en": "Église Sainte-Geniève"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang und huschen Sie schnell hinein, um das trockene, ruhige Innere vor dem Regen zu bewundern.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, és szaladjon be, hogy megcsodálja a száraz, nyugodt belső teret az eső elől védve.",
+                "ro": "Parcați cât mai aproape de intrare și fugiți repede înăuntru pentru a admira interiorul calm și uscat, feriți de ploaia de afară.",
+                "en": "Park your car as close to the entrance as allowed and dash quickly inside to admire the calm, totally dry interior away from the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Gouvieux",
+                "hu": "Mairie de Gouvieux",
+                "ro": "Mairie de Gouvieux",
+                "en": "Mairie de Gouvieux"
+              },
+              "tip_5lang": {
+                "de": "Rollen Sie das Fenster nur kurz herunter, um ein tolles Foto vom regengewaschenen Rathausplatz direkt vom Fahrersitz aus zu machen.",
+                "hu": "Csak röviden tekerje le az ablakot, hogy egy remek fotót készítsen az eső áztatta városháza teréről közvetlenül a vezetőülésből.",
+                "ro": "Coborâți fereastra doar pentru scurt timp pentru a face o fotografie grozavă a pieței primăriei spălate de ploaie direct de pe scaunul șoferului.",
+                "en": "Roll down the car window just briefly to snap a quick, moody photo of the heavily rain-washed town hall square directly from the driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Tour",
+                "hu": "Manoir de la Tour",
+                "ro": "Manoir de la Tour",
+                "en": "Manoir de la Tour"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam an dieser historischen Stätte vorbei; der nasse Stein sieht im strömenden Regen unglaublich dramatisch und alt aus.",
+                "hu": "Vezessen lassan el e történelmi helyszín mellett; a nedves kő hihetetlenül drámainak és réginek tűnik a szakadó esőben az útról.",
+                "ro": "Conduceți încet pe lângă acest sit istoric; piatra udă arată incredibil de dramatic și vechi în ploaia torențială văzută de pe drum.",
+                "en": "Drive slowly past this ancient historic site; the wet stone architecture looks incredibly dramatic and cinematic in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montvillargenne",
+                "hu": "Château de Montvillargenne",
+                "ro": "Château de Montvillargenne",
+                "en": "Château de Montvillargenne"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Valet-Parkservice, falls verfügbar, um dem Regen zu entgehen, und genießen Sie drinnen einen luxuriösen, trockenen Nachmittagstee.",
+                "hu": "Használja a parkolószolgálatot, ha elérhető, hogy elkerülje az esőt, és élvezzen egy fényűző, száraz délutáni teát a belső terekben.",
+                "ro": "Folosiți serviciul de valet parking, dacă este disponibil, pentru a evita ploaia complet și bucurați-vă de un ceai de după-amiază luxos la interior.",
+                "en": "Use valet parking if possible to entirely dodge the rain, and seamlessly enjoy a highly luxurious, dry afternoon tea indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Aiglemont",
+                "hu": "Château d'Aiglemont",
+                "ro": "Château d'Aiglemont",
+                "en": "Château d'Aiglemont"
+              },
+              "tip_5lang": {
+                "de": "Die regnerische Kulisse verleiht diesem Schloss eine sehr mysteriöse Atmosphäre; seien Sie besonders vorsichtig auf der nassen Auffahrt.",
+                "hu": "Az esős háttér nagyon titokzatos hangulatot kölcsönöz ennek a kastélynak; legyen különösen óvatos a csúszós, nedves felhajtón az autóval.",
+                "ro": "Fundalul ploios conferă acestui castel o atmosferă foarte misterioasă; fiți extrem de prudenți pe aleea de acces umedă cu mașina.",
+                "en": "The dark, rainy backdrop gives this castle a mysterious vibe; just ensure you are extra careful driving on the wet, slippery estate driveway."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bewundern wir den frostigen See aus dem vorgeheizten Auto. Mittags erkunden wir die Höhlen im klaren Winterlicht. Nachmittags fahren wir zu den Schlössern im goldenen Licht. Abends, nach der frühen Dunkelheit, leuchten uns die Scheinwerfer den Weg.",
+            "hu": "Reggel a fűtött autóból csodáljuk a zúzmarás tavat. Délben a téli napfényben fedezzük fel a barlangokat. Délután a kastélyok környékén autózunk a délutáni fényeket élvezve. Estére, a korai sötétedés után, a fényszórók mutatják az utat haza.",
+            "ro": "Dimineața admirăm lacul înghețat din mașina bine încălzită. La prânz explorăm peșterile în lumina clară de iarnă. După-amiaza conducem pe lângă castele în lumina aurie. Seara, după apusul devreme, farurile puternice ne ghidează drumul.",
+            "en": "Morning lets us deeply admire the frosty lake from a thoroughly heated car. At noon we explore the caves in crisp winter light. In the afternoon we drive by the castles in golden light. In the evening, after the early sunset, headlights guide our way."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+                "hu": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+                "ro": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent",
+                "en": "Base de Loisirs Intercommunale de Saint-Leu-D'Esserent"
+              },
+              "tip_5lang": {
+                "de": "Der frostige See ist im Winter atemberaubend; lassen Sie die Autoheizung nach dem kurzen Aussteigen für schnelle Aufwärmphasen laufen.",
+                "hu": "A fagyos tó télen lenyűgöző; hagyja bekapcsolva az autó fűtését, hogy gyorsan felmelegedjen a rövid, hideg séták után a parton.",
+                "ro": "Lacul înghețat este uimitor iarna; lăsați încălzirea mașinii pornită pentru a vă încălzi rapid după plimbările scurte în aerul rece.",
+                "en": "The frosty lake is visually stunning in winter; simply keep the car heater running on high for quick warm-ups after stepping out for a photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Village Troglodyte",
+                "hu": "Village Troglodyte",
+                "ro": "Village Troglodyte",
+                "en": "Village Troglodyte"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie und gehen Sie schnell hinein; der dicke Stein isoliert auf natürliche Weise hervorragend gegen die raue Winterkälte draußen.",
+                "hu": "Parkoljon le, és menjen be gyorsan; a vastag kő természetes módon kiválóan szigetel a kinti zord, csípős téli hideg ellen.",
+                "ro": "Parcați și intrați repede; piatra groasă izolează natural foarte bine împotriva frigului aspru de iarnă de afară.",
+                "en": "Park up and step inside quickly; the thick rock naturally and effectively insulates against the extremely harsh winter cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Geniève",
+                "hu": "Église Sainte-Geniève",
+                "ro": "Église Sainte-Geniève",
+                "en": "Église Sainte-Geniève"
+              },
+              "tip_5lang": {
+                "de": "Nur ein kurzer Spaziergang vom frostigen Parkplatz entfernt; treten Sie ein, um sich im friedlichen, stillen Kirchenschiff aufzuwärmen.",
+                "hu": "Csak egy rövid sétára van a fagyos parkolótól; lépjen be, hogy gyorsan felmelegedjen a békés, csendes templomhajóban.",
+                "ro": "Doar o scurtă plimbare de la parcarea înghețată; intrați pentru a vă încălzi rapid în naosul pașnic și liniștit.",
+                "en": "Only a very short, brisk walk from the frosty parking lot; step right inside to comfortably warm up in the completely peaceful nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Gouvieux",
+                "hu": "Mairie de Gouvieux",
+                "ro": "Mairie de Gouvieux",
+                "en": "Mairie de Gouvieux"
+              },
+              "tip_5lang": {
+                "de": "Der frostbedeckte Platz ist wunderschön anzusehen, aber achten Sie beim Aussteigen aus dem Auto auf tückische Eisflächen am Boden.",
+                "hu": "A dérlepte tér gyönyörű látványt nyújt, de az autóból kiszállva nagyon ügyeljen az alattomos, csúszós jégfoltokra a lába alatt.",
+                "ro": "Piața acoperită de îngheț este frumoasă, dar aveți mare grijă la peticele înșelătoare de gheață când coborâți din mașina caldă.",
+                "en": "The frost-covered square is beautiful from the window, but watch out carefully for completely clear, icy patches when stepping out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Tour",
+                "hu": "Manoir de la Tour",
+                "ro": "Manoir de la Tour",
+                "en": "Manoir de la Tour"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winteräste geben vom Fenster Ihres langsam fahrenden Autos aus die volle architektonische Schönheit dieses Herrenhauses preis.",
+                "hu": "A kopasz téli ágak a lassan mozgó autója ablakából teljes egészében feltárják ennek a nagyszerű kúriának az építészeti szépségét.",
+                "ro": "Ramurile golașe de iarnă dezvăluie întreaga frumusețe arhitecturală a acestui conac direct de la fereastra mașinii dumneavoastră.",
+                "en": "The bare winter branches vividly reveal the full architectural beauty of this grand manor right from the window of your slowly cruising car."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montvillargenne",
+                "hu": "Château de Montvillargenne",
+                "ro": "Château de Montvillargenne",
+                "en": "Château de Montvillargenne"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor der Tür und kehren Sie auf einen heißen Kakao in die elegante Lounge ein, um der Winterkälte vollends zu entfliehen.",
+                "hu": "Parkoljon közvetlenül az ajtó előtt, és térjen be egy forró kakaóra az elegáns társalgóba, hogy teljesen elmeneküljön a téli hideg elől.",
+                "ro": "Parcați chiar la ușă și intrați pentru o ciocolată caldă în lounge-ul elegant pentru a scăpa complet de frigul aspru al iernii.",
+                "en": "Park right by the main doors and quickly pop in for a deeply warming hot cocoa in the elegant lounge to escape the biting winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Aiglemont",
+                "hu": "Château d'Aiglemont",
+                "ro": "Château d'Aiglemont",
+                "en": "Château d'Aiglemont"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Sie vor dem Sonnenuntergang um 17 Uhr parken, um das Schloss im sanften Tageslicht zu erleben, bevor es dunkel wird.",
+                "hu": "Ügyeljen arra, hogy a 17 órai naplemente előtt leparkoljon, hogy láthassa a kastélyt a lágy nappali fényben, mielőtt teljesen besötétedik.",
+                "ro": "Asigurați-vă că parcați înainte de apusul de la ora 17 pentru a prinde castelul în lumina blândă a zilei, chiar înainte de a se întuneca.",
+                "en": "Make absolutely sure to arrive and park before the early 5 PM sunset to brilliantly catch the grand castle fully illuminated in daylight."
+              }
+            }
+          ]
+        }
       }
     }
   }

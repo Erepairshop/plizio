@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot az élénk központban a Teatro Comunale-nál, mielőtt felfedezné a helyi akvárium víz alatti világát. Délben pihenjen és élvezze a napsütést a festői Galleria strandon. A délután folyamán látogasson el a kulturális Teatro del Grillo-hoz. Zárja a napot a modern amfiteátrumban, miközben elmerül a csodálatos tengerparti atmoszférában.",
         "ro": "Începeți ziua în centrul vibrant la Teatro Comunale, înainte de a pătrunde în lumea subacvatică a acvariului local. La prânz, relaxați-vă și bucurați-vă de soare pe superba plajă Galleria. După-amiaza vă poartă către culturalul Teatro del Grillo. Încheiați ziua la amfiteatrul modern, savurând atmosfera minunată de pe coasta mării Ionice.",
         "en": "Start your day in the vibrant center at the Municipal Theater before diving into the underwater world of the local aquarium. At midday, relax and soak up the sun on the beautiful Galleria Beach. The afternoon takes you to the cultural Teatro del Grillo. Conclude your walking tour at the modern amphitheater, soaking in the wonderful coastal atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt trocken im Theater und Aquarium. Mittags erfordert der Strandspaziergang gute Regenkleidung, da der Wind auffrischt. Nachmittags bietet das Theater perfekten Schutz. Der Abend endet am nassen Amphitheater; Regenschirm nicht vergessen!",
+            "hu": "A reggel szárazon indul a színházban és az akváriumban. Délben a tengerparti sétához esőkabát kell, ahogy a szél feltámad. Délután a színház tökéletes menedéket nyújt. Az este a vizes amfiteátrumnál ér véget; az esernyőt ne hagyd otthon!",
+            "ro": "Dimineața începe la adăpost în teatru și acvariu. La prânz, plimbarea pe plajă necesită pelerină de ploaie, deoarece vântul se întețește. După-amiaza teatrul oferă un refugiu perfect. Seara se încheie la amfiteatru; nu uita umbrela!",
+            "en": "Morning starts dry indoors at the theater and aquarium. Midday walk to the beach requires a good raincoat as the wind picks up. Afternoon theater visit offers perfect shelter. Evening wraps up at the wet amphitheater; keep your umbrella handy!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stadttheater",
+                "hu": "Városi Színház",
+                "ro": "Teatrul Municipal",
+                "en": "Municipal Theater"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Trockenen; nehmen Sie einen Schirm für den kurzen Weg mit.",
+                "hu": "Csodáld meg az építészetet szárazon; a rövid kinti sétához vigyél magaddal esernyőt.",
+                "ro": "Admirați arhitectura la adăpost; luați o umbrelă pentru scurta plimbare de afară.",
+                "en": "Admire the architecture while staying dry; bring an umbrella for the short walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium",
+                "hu": "Akvárium",
+                "ro": "Acvariu",
+                "en": "Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich ab, während Sie die bunte Meereswelt betrachten; ein perfekter Zufluchtsort vor dem Regen.",
+                "hu": "Fedezd fel a tengeri élővilágot bent; nagyszerű menedék az eső elől és izgalmas tanulás.",
+                "ro": "Descoperiți viața marină în interior; o evadare perfectă din ploaie, în timp ce explorați marea.",
+                "en": "Dive into marine life indoors; it's a great escape from the rain while exploring local sea life."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Galleria",
+                "hu": "Galleria strand",
+                "ro": "Plaja Galleria",
+                "en": "Galleria Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die stürmischen Wellen von einem überdachten Platz; wasserfeste Schuhe sind hier Pflicht.",
+                "hu": "Nézd a viharos hullámokat egy fedett helyről; a vízálló csizma itt nagyon ajánlott.",
+                "ro": "Priviți valurile furtunoase dintr-un loc acoperit; cizmele impermeabile sunt foarte recomandate.",
+                "en": "Watch stormy waves crash from a covered spot; waterproof boots are highly recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del Grillo",
+                "hu": "Teatro del Grillo",
+                "ro": "Teatro del Grillo",
+                "en": "Teatro del Grillo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die warme, trockene Atmosphäre dieses intimen Ortes; ein perfekter Rückzugsort bei Nässe.",
+                "hu": "Élvezd a meghitt hely meleg, száraz hangulatát; tökéletes kulturális menedék a vizes időben.",
+                "ro": "Bucurați-vă de atmosfera caldă și uscată; un refugiu perfect când vremea devine ploioasă.",
+                "en": "Enjoy the warm, dry ambiance of this intimate venue; a perfect retreat when it gets wet outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine wirken nass sehr beeindruckend, aber der Boden ist extrem rutschig; Vorsicht!",
+                "hu": "Az ókori kövek vizesen is lenyűgözőek, de a talaj csúszik; lépkedj nagyon óvatosan.",
+                "ro": "Pietrele antice arată uimitor când sunt ude, dar solul este alunecos; pășiți cu mare grijă.",
+                "en": "Ancient stones look striking when wet, but the ground is slippery; step carefully today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Morgenluft ist ideal für den Spaziergang zu Theater und Aquarium. Mittags am Strand genießt man die einsame Ruhe. Nachmittags leuchten die Theater im milden Licht. Die Sonne geht um 17:00 Uhr unter, ziehen Sie sich abends warm an.",
+            "hu": "A csípős reggeli levegő tökéletes a színházba és akváriumba vezető sétához. Délben a tengerpart csendes nyugalmát élvezhetjük. Délután a színházak meleg menedéket adnak. A nap már 17:00-kor lenyugszik, estére öltözz jó melegen.",
+            "ro": "Aerul rece al dimineții este ideal pentru o plimbare spre teatru și acvariu. La prânz, plaja oferă o liniște pustie. După-amiaza, teatrele oferă o primire călduroasă. Soarele apune devreme pe la 17:00, așa că îmbracă-te gros seara.",
+            "en": "Crisp morning air is perfect for a brisk walk to the theater and aquarium. Noon at the beach offers peaceful, empty shores. Afternoon light beautifully illuminates the theaters. Sunset comes early around 17:00, so wrap up warm for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stadttheater",
+                "hu": "Városi Színház",
+                "ro": "Teatrul Municipal",
+                "en": "Municipal Theater"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die elegante Halle fernab der Morgenkälte; tragen Sie warme Schichten für den Spaziergang.",
+                "hu": "Csodáld meg az elegáns termet a csípős hideg elől bújva; viselj kényelmes, meleg rétegeket.",
+                "ro": "Admirați sala elegantă feriți de frigul dimineții; purtați straturi groase pentru plimbare.",
+                "en": "Admire the elegant hall out of the crisp morning cold; wear comfortable warm layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium",
+                "hu": "Akvárium",
+                "ro": "Acvariu",
+                "en": "Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, während Sie die bunten Fische beobachten; eine gemütliche Winteraktivität.",
+                "hu": "Melegedj fel a színes halak társaságában bent; hangulatos és tanulságos téli program.",
+                "ro": "Încălziți-vă privind peștii colorați; o activitate matinală de iarnă relaxantă și educativă.",
+                "en": "Warm up inside watching colorful fish; a cozy and educational winter morning activity."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Galleria",
+                "hu": "Galleria strand",
+                "ro": "Plaja Galleria",
+                "en": "Galleria Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die einsame Winterküste; die Meeresbrise ist eisig, ein dicker Schal ist unerlässlich.",
+                "hu": "Élvezd a part téli magányát és szépségét; a tengeri szél fagyos, a vastag sál kötelező.",
+                "ro": "Bucurați-vă de frumusețea solitară a coastei; briza mării este înghețată, luați un fular gros.",
+                "en": "Enjoy the solitary winter beauty of the coast; the sea breeze is freezing, bring a thick scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del Grillo",
+                "hu": "Teatro del Grillo",
+                "ro": "Teatro del Grillo",
+                "en": "Teatro del Grillo"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Theatergeschichte im Warmen; ideal, um Ihre frierenden Hände aufzuwärmen.",
+                "hu": "Fedezd fel a színházi múltat egy barátságos, meleg helyen; jó alkalom felmelegedni a séta során.",
+                "ro": "Descoperiți istoria teatrului într-un mediu primitor; excelent pentru a vă încălzi mâinile.",
+                "en": "Discover theatrical history in a snug environment; great for warming your freezing hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Die goldene Stunde kommt früh; besuchen Sie es vor 16:30 Uhr und tragen Sie eine dicke Jacke.",
+                "hu": "Az aranyóra korán érkezik; gyere 16:30 előtt a legjobb fényekért, vastag kabátban.",
+                "ro": "Ora de aur sosește devreme; vizitați înainte de 16:30 pentru lumină bună, purtați o geacă groasă.",
+                "en": "Golden hour arrives early; visit before 16:30 for best light and bring a heavy winter jacket."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpártúrája a Városi Színháznál indul, majd gyorsan az Akváriumhoz vezet. Élvezze a hosszú déli pihenőt a Galleria strandon. Délután tekerjen el az amfiteátrumhoz, majd az intim Teatro del Grillo-hoz. A nap a Maria Santissima Addolorata templomnál ér véget, ahol megcsodálhat egy igazi reneszánsz mesterművet.",
         "ro": "Turul pe bicicletă începe la Teatrul Municipal și vă duce rapid la Acvariu. Bucurați-vă de o pauză relaxantă la prânz pe plaja Galleria. După-amiaza, pedalați spre amfiteatru și mai departe către intimul Teatro del Grillo. Ziua se încheie la Biserica Maria Santissima Addolorata, unde puteți admira o adevărată capodoperă renascentistă.",
         "en": "Your bike tour starts at the Municipal Theater, taking you quickly to the Aquarium. Enjoy a relaxing midday break on the Galleria Beach. In the afternoon, pedal to the amphitheater and on to the intimate Teatro del Grillo. The day ends at the Church of Maria Santissima Addolorata, where you can admire a true Renaissance masterpiece."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren am Morgen erfordert wasserfeste Kleidung. Mittags erschwert der Küstenwind die Fahrt am Strand. Nachmittags bieten historische Stätten Regenpausen. Abends auf rutschiges Kopfsteinpflaster bei der Kirche achten.",
+            "hu": "A reggeli tekerés vízálló felszerelést igényel a színház és akvárium között. Délben a parti szél nehezíti a haladást. Délután a műemlékek nyújtanak menedéket. Estefelé vigyázz a csúszós macskakövekre a templomnál.",
+            "ro": "Mersul pe bicicletă dimineața cere echipament impermeabil. La prânz, vântul de coastă îngreunează traseul pe plajă. După-amiaza, siturile istorice oferă pauze de ploaie. Seara, atenție la pietrele cubice alunecoase.",
+            "en": "Morning cycling requires waterproof gear for short trips between indoor sites. Midday coastal winds make the beach ride challenging. Afternoon historical sites offer rain breaks. Watch out for slippery cobblestones by evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stadttheater",
+                "hu": "Városi Színház",
+                "ro": "Teatrul Municipal",
+                "en": "Municipal Theater"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad sicher ab und genießen Sie das Trockene; tragen Sie einen wasserfesten Poncho.",
+                "hu": "Zárd le a bringát és élvezd a száraz belső teret; a tekeréshez viselj feltűnő esőponcsót.",
+                "ro": "Securizați bicicleta și bucurați-vă de interiorul uscat; purtați o pelerină impermeabilă.",
+                "en": "Secure your bike and enjoy the dry interior; wear a highly visible, waterproof poncho for the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium",
+                "hu": "Akvárium",
+                "ro": "Acvariu",
+                "en": "Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich beim Anblick der Fische ab; eine perfekte Pause vom starken Dauerregen.",
+                "hu": "Száradj meg a színes halak nézegetése közben; tökéletes beltéri pihenő a heves esőzésben.",
+                "ro": "Uscați-vă admirând viața marină; o pauză perfectă la interior de la ploaia puternică.",
+                "en": "Dry off while watching colorful sea life; a perfect indoor break from the heavy persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Galleria",
+                "hu": "Galleria strand",
+                "ro": "Plaja Galleria",
+                "en": "Galleria Beach"
+              },
+              "tip_5lang": {
+                "de": "Die stürmischen Wellen sind schön, aber der Radweg ist glatt; fahren Sie langsam und vorsichtig.",
+                "hu": "A viharos hullámok gyönyörűek, de a parti bringaút csúszik; tekerj lassan és nagyon óvatosan.",
+                "ro": "Valurile furtunoase sunt frumoase, dar pista e alunecoasă; pedalați încet și cu atenție.",
+                "en": "The stormy waves are beautiful, but the coastal bike path is slick; ride slowly and carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Regen macht die Ruinen stimmungsvoll, aber die Steine sind extrem rutschig; Licht am Rad einschalten.",
+                "hu": "Az eső hangulatossá teszi a romokat, de a kövek nagyon csúsznak; a bringalámpát kapcsold fel.",
+                "ro": "Ploaia dă farmec ruinelor, dar pietrele sunt alunecoase; țineți farul bicicletei aprins.",
+                "en": "Rain makes ruins atmospheric, but stones are extremely slippery; keep bike lights on in the gloom."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del Grillo",
+                "hu": "Teatro del Grillo",
+                "ro": "Teatro del Grillo",
+                "en": "Teatro del Grillo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie drinnen Schutz und kulturelle Bereicherung; ideal, um einen Schauer abzuwarten.",
+                "hu": "Keress menedéket és kulturális élményt bent; kényelmes hely kivárni egy nagyobb záport.",
+                "ro": "Căutați adăpost și cultură înăuntru; un loc confortabil pentru a aștepta trecerea ploii.",
+                "en": "Seek shelter and cultural enrichment inside; a cozy place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Maria Santissima Addolorata",
+                "hu": "Maria Santissima Addolorata templom",
+                "ro": "Biserica Maria Santissima Addolorata",
+                "en": "Church of Maria Santissima Addolorata"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunst im Trockenen; bremsen Sie sanft auf dem nassen Kopfsteinpflaster davor.",
+                "hu": "Csodáld meg a művészetet szárazon; a bejárat előtti vizes macskakövön nagyon óvatosan fékezz.",
+                "ro": "Admirați arta într-un mediu uscat; frânați ușor pe piatra cubică udă de la intrare.",
+                "en": "Admire the art in a dry setting; brake gently on the wet cobblestones near the entrance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die kühle Morgenfahrt gut eingepackt. Mittags ist das Radeln an der Küste frisch und sonnig. Nachmittags schwindet das Licht an den historischen Stätten schnell. Ab 17:00 Uhr wird es an der Kirche eisig.",
+            "hu": "Kezdd a csípős reggeli tekerést meleg rétegekben. Délben a tengerparti bringázás frissítő és napos. Délután a fények gyorsan halványulnak a műemlékeknél. 17:00 órára a templomnál már erősen lehűl a levegő.",
+            "ro": "Începe pedalarea răcoroasă de dimineață bine îmbrăcat. La prânz, traseul pe coastă este revigorant. După-amiaza lumina scade rapid la siturile istorice. Așteaptă-te la o scădere a temperaturii spre 17:00.",
+            "en": "Start your chilly morning ride with thermal layers. Midday coastal cycling is brisk with clear skies. Afternoon light fades fast around historical sites. Expect temperatures to drop sharply by 17:00 at the church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stadttheater",
+                "hu": "Városi Színház",
+                "ro": "Teatrul Municipal",
+                "en": "Municipal Theater"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände in diesem kulturellen Juwel; tragen Sie Thermokleidung für die Weiterfahrt.",
+                "hu": "Melegítsd fel a kezeidet ebben a kulturális gyöngyszemben; viselj termo ruházatot a tekeréshez.",
+                "ro": "Încălziți-vă mâinile în această bijuterie culturală; purtați haine termice pentru pedalat.",
+                "en": "Warm your hands inside this cultural gem; dress in thermal layers for the crisp cycling ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium",
+                "hu": "Akvárium",
+                "ro": "Acvariu",
+                "en": "Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Umgebung; eine willkommene Pause vom eisigen Wintergegenwind.",
+                "hu": "Élvezd a meleg, barátságos környezetet; szívesen látott pihenő a fagyos téli ellenszélben.",
+                "ro": "Bucurați-vă de mediul interior primitor; o pauză binevenită de la vântul înghețat de iarnă.",
+                "en": "Enjoy the cozy indoor environment; it's a very welcome break from the freezing winter headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Galleria",
+                "hu": "Galleria strand",
+                "ro": "Plaja Galleria",
+                "en": "Galleria Beach"
+              },
+              "tip_5lang": {
+                "de": "Leere Winterstrände bieten atemberaubende Ausblicke; winddichte Handschuhe sind unerlässlich.",
+                "hu": "Az üres téli partok lenyűgöző látványt nyújtanak; a szélálló kerékpáros kesztyű elengedhetetlen.",
+                "ro": "Plaja pustie de iarnă oferă priveliști uimitoare; purtați mănuși rezistente la vânt.",
+                "en": "Empty winter shores offer stunning views; wear windproof cycling gloves to protect your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft lange Schatten; kommen Sie früh, um der nahenden Abendkälte zu entgehen.",
+                "hu": "A téli nap hosszú árnyékokat vet; érkezz kora délután, hogy elkerüld az alkonyati fagyot.",
+                "ro": "Soarele de iarnă lasă umbre lungi; vizitați devreme pentru a evita frigul serii care se apropie.",
+                "en": "Winter sun casts long shadows; visit early afternoon to avoid the fast-approaching dusk chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del Grillo",
+                "hu": "Teatro del Grillo",
+                "ro": "Teatro del Grillo",
+                "en": "Teatro del Grillo"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um aufzutauen und die lokale Kunstszene zu genießen, bevor die Sonne untergeht.",
+                "hu": "Lépj be felengedni és élvezni a helyi művészeteket, mielőtt a nap végleg lebukna a horizonton.",
+                "ro": "Intrați să vă dezghețați și să vă bucurați de arta locală înainte ca soarele să apună.",
+                "en": "Step inside to thaw out and enjoy the local arts scene before the sun begins to definitively set."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Maria Santissima Addolorata",
+                "hu": "Maria Santissima Addolorata templom",
+                "ro": "Biserica Maria Santissima Addolorata",
+                "en": "Church of Maria Santissima Addolorata"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Ruhe verleiht Ehrfurcht; sorgen Sie für gutes Licht für die dunkle Rückfahrt.",
+                "hu": "A téli csend fokozza az áhítatot; ellenőrizd a bringalámpákat a teljesen sötét hazautazáshoz.",
+                "ro": "Liniștea iernii adaugă reverență; asigurați-vă că aveți lumini bune pentru drumul de întoarcere.",
+                "en": "Quiet winter atmosphere adds reverence; ensure your bike has working lights for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje a túrát Soverato Vecchia romjainál, majd látogassa meg a Maria Santissima Addolorata templomot. Délben autózzon le a központba a Teatro del Grillo-hoz és az amfiteátrumhoz. Délután lazítson a Galleria strandon, majd fedezze fel a helyi akváriumot. A napot a modern San Roberto Bellarmino templomnál zárhatja.",
         "ro": "Începeți sus, printre ruinele din Soverato Vecchia, urmate de Biserica Maria Santissima Addolorata. Conduceți la prânz spre centru la Teatro del Grillo și amfiteatrul impresionant. Relaxați-vă după-amiaza pe plaja Galleria și explorați acvariul. Încheiați traseul auto extins la moderna Biserică San Roberto Bellarmino.",
         "en": "Start high up in the ruins of Old Soverato, followed by the Church of Maria Santissima Addolorata. Drive down to the center at midday to see the Teatro del Grillo and the amphitheater. Relax in the afternoon at the Galleria Beach and explore the aquarium. Finish your extensive driving tour at the modern Church of San Roberto Bellarmino."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt zur Altstadt erfordert Vorsicht auf nassen Straßen. Mittags bieten Theater tolle Zufluchtsorte. Nachmittags kann das Parken am Strand schlammig sein. Abends ist es im Auto gemütlich, aber Regenschauer behindern die Sicht.",
+            "hu": "A reggeli vezetés az óvárosba óvatosságot igényel a vizes utakon. Délben a színházak kiváló beltéri menedékek. Délután a tengerparti parkolás saras lehet. Az esti autózás kényelmes, de a látási viszonyok rosszak.",
+            "ro": "Condusul spre orașul vechi necesită prudență pe drumurile umede. La prânz, teatrele oferă adăpost excelent. După-amiaza, parcarea la plajă poate fi noroioasă. Seara e confortabil în mașină, cu ștergătoarele pornite.",
+            "en": "Morning drive to the old town needs caution on wet roads. Midday theater stops provide excellent indoor escapes. Afternoon parking near the beach might be muddy. Evening driving is cozy, but keep your wipers on high speed."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt Soverato",
+                "hu": "Soverato óvárosa",
+                "ro": "Orașul vechi Soverato",
+                "en": "Old Soverato"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die nassen Ruinen vorsichtig, sie sind sehr rutschig; wasserfeste Schuhe sind Pflicht.",
+                "hu": "Óvatosan fedezd fel, a vizes romok nagyon csúsznak; az erős, vízálló bakancs itt kötelező.",
+                "ro": "Explorați cu grijă, ruinele ude sunt alunecoase; încălțămintea impermeabilă este obligatorie.",
+                "en": "Explore cautiously as wet ruins are very slippery; sturdy waterproof boots are a must today."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Maria Santissima Addolorata",
+                "hu": "Maria Santissima Addolorata templom",
+                "ro": "Biserica Maria Santissima Addolorata",
+                "en": "Church of Maria Santissima Addolorata"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist ein perfektes Regensanktuarium; nutzen Sie gepflasterte Parkplätze gegen Schlamm.",
+                "hu": "A belső tér tökéletes menedék az eső elől; használj burkolt parkolót, hogy elkerüld a sarat.",
+                "ro": "Interiorul este un sanctuar perfect pe timp de ploaie; folosiți parcări pavate pentru a evita noroiul.",
+                "en": "Serene interior is a perfect rain sanctuary; use paved parking lots to avoid muddy puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del Grillo",
+                "hu": "Teatro del Grillo",
+                "ro": "Teatro del Grillo",
+                "en": "Teatro del Grillo"
+              },
+              "tip_5lang": {
+                "de": "Ein trockener Kulturstopp; halten Sie einen Schirm für den kurzen Sprint vom Auto bereit.",
+                "hu": "Száraz kulturális megálló; tarts egy esernyőt a kocsiban a parkolóból való gyors átfutáshoz.",
+                "ro": "O oprire culturală uscată; țineți o umbrelă în mașină pentru sprintul scurt din parcare.",
+                "en": "Enjoy a dry cultural stop; keep an umbrella in the car for the short dash from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen durch den Nebel; der Boden wird sumpfig, bleiben Sie auf den Wegen.",
+                "hu": "Nézd meg a romokat a ködön át; a talaj mocsarasodhat, maradj a fő, burkolt ösvényeken.",
+                "ro": "Priviți ruinele prin ceață; pământul devine mlăștinos, rămâneți pe cărările principale pavate.",
+                "en": "View ancient structures through the mist; ground gets boggy, so strictly stay on paved paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Galleria",
+                "hu": "Galleria strand",
+                "ro": "Plaja Galleria",
+                "en": "Galleria Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Stürme bequem aus dem Auto oder Café; fahren Sie langsam auf überfluteten Straßen.",
+                "hu": "Figyeld a vihart az autóból vagy egy fedett kávézóból; vezess lassan az elárasztott parti utakon.",
+                "ro": "Priviți furtuna din mașină sau o cafenea acoperită; conduceți încet pe drumurile inundate.",
+                "en": "Watch dramatic storms from your car or a covered café; drive slowly on flooded coastal roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadttheater",
+                "hu": "Városi Színház",
+                "ro": "Teatrul Municipal",
+                "en": "Municipal Theater"
+              },
+              "tip_5lang": {
+                "de": "Ein tolles Erlebnis drinnen, um dem Guss zu entkommen; parken Sie vorsichtig bei viel Wasser.",
+                "hu": "Nagyszerű beltéri élmény a felhőszakadás elől menekülve; az utcák vizesek, parkolj körültekintően.",
+                "ro": "O experiență grozavă la interior pentru a scăpa de ploaie; străzile se inundă, parcați cu grijă.",
+                "en": "Grand indoor experience to escape the downpour; streets get waterlogged, so park carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium",
+                "hu": "Akvárium",
+                "ro": "Acvariu",
+                "en": "Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Regenaktivität; die Meeresausstellungen sind lebendig, warm und komplett trocken.",
+                "hu": "Tökéletes esős program; a tengeri kiállítások lenyűgözőek, melegek és teljesen szárazak.",
+                "ro": "Activitate perfectă pe ploaie; expozițiile marine sunt vibrante, calde și complet uscate.",
+                "en": "Perfect rainy day activity; indoor marine exhibits are vibrant, warm, and completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Roberto Bellarmino",
+                "hu": "San Roberto Bellarmino templom",
+                "ro": "Biserica San Roberto Bellarmino",
+                "en": "Church of San Roberto Bellarmino"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den nassen Tag in dieser ruhigen Kirche; die abendlichen Straßen sind sehr glatt.",
+                "hu": "Zárd a vizes napot ebben a csendes templomban; az esti esőben az utak csúsznak, vezess óvatosan.",
+                "ro": "Încheiați ziua ploioasă în această biserică liniștită; drumurile pot fi alunecoase seara.",
+                "en": "Conclude in this quiet church; roads may be very slick in the evening rain, so drive safely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Morgenfahrt zur Altstadt bietet klare Ausblicke. Mittags wärmen die kulturellen Stätten. Nachmittags zeigt der Strand eine raue Schönheit. Sonnenuntergang ist gegen 17:00 Uhr, der letzte Kirchenbesuch findet im Dunkeln statt.",
+            "hu": "A reggeli autózás az óvárosba tiszta kilátást nyújt. Délben a kulturális helyszínek melegen tartanak. Délután a part rideg szépséget kínál. A nap 17:00 körül nyugszik, így az utolsó templomlátogatás már sötétben telik.",
+            "ro": "Condusul matinal spre orașul vechi oferă priveliști clare. La prânz, opririle culturale te încălzesc. După-amiaza, plaja oferă un peisaj auster. Apusul este pe la 17:00, lăsând ultima vizită pe întuneric.",
+            "en": "Morning drive to the old town offers clear, crisp views. Midday hopping between cultural sites keeps you warm. Afternoon at the beach provides stark scenery. Sunset is around 17:00, making the final church visit dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt Soverato",
+                "hu": "Soverato óvárosa",
+                "ro": "Orașul vechi Soverato",
+                "en": "Old Soverato"
+              },
+              "tip_5lang": {
+                "de": "Klare Luft macht die Erkundung erfrischend; ziehen Sie sich dick an, da es hier oben sehr windig ist.",
+                "hu": "A tiszta levegő frissítővé teszi a sétát; öltözz vastagon, mert ez a magaslati rész nagyon szeles.",
+                "ro": "Aerul rece face explorarea revigorantă; îmbrăcați-vă gros deoarece zona înaltă este foarte vântoasă.",
+                "en": "Crisp air makes exploring refreshing; dress in thick layers as the elevated historic area is windy."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Maria Santissima Addolorata",
+                "hu": "Maria Santissima Addolorata templom",
+                "ro": "Biserica Maria Santissima Addolorata",
+                "en": "Church of Maria Santissima Addolorata"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Kirchenschiff auf; das winterliche Morgenlicht durch die Fenster ist toll.",
+                "hu": "Melegedj fel a békés hajóban; az ablakokon átszűrődő téli reggeli fény egyszerűen lenyűgöző.",
+                "ro": "Încălziți-vă în nava liniștită; lumina dimineții de iarnă prin ferestre este spectaculoasă.",
+                "en": "Warm up in the peaceful nave; the low winter morning light through the windows is spectacular."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del Grillo",
+                "hu": "Teatro del Grillo",
+                "ro": "Teatro del Grillo",
+                "en": "Teatro del Grillo"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort; die Autoheizung ist eine willkommene Erleichterung zwischen den Stopps.",
+                "hu": "Hangulatos kulturális menedék; az autó fűtése igazi megváltás lesz a rövid megállók között.",
+                "ro": "Un refugiu confortabil de cultură; încălzirea din mașină e o ușurare între opririle scurte.",
+                "en": "Cozy retreat for local culture; the car heater will be a welcome relief between these short stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne beleuchtet die Ruinen wunderschön; besuchen Sie sie vor dem Abendfrost.",
+                "hu": "Az alacsony téli nap csodásan világítja meg az épületet; látogasd meg az esti fagyok beállta előtt.",
+                "ro": "Soarele jos de iarnă evidențiază frumos ruinele; vizitați înainte de instalarea frigului de seară.",
+                "en": "Low winter sun highlights the architecture beautifully; visit early before the evening chill sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Galleria",
+                "hu": "Galleria strand",
+                "ro": "Plaja Galleria",
+                "en": "Galleria Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Strandspaziergang; eine winddichte Jacke gegen die Brise ist essenziell.",
+                "hu": "Tegyél egy frissítő sétát az elhagyatott homokon; egy vastag szélkabát kötelező a tengeri szél ellen.",
+                "ro": "Faceți o plimbare rapidă pe nisipul pustiu; o geacă groasă e esențială împotriva brizei mării.",
+                "en": "Take a brisk walk on deserted sands; a heavy windproof jacket is essential against the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadttheater",
+                "hu": "Városi Színház",
+                "ro": "Teatrul Municipal",
+                "en": "Municipal Theater"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus der Kälte in diesen eleganten Ort; das Parken ist in der ruhigen Wintersaison leicht.",
+                "hu": "Lépj be a hidegből ebbe az elegáns térbe; a parkolás sokkal könnyebb a csendes téli szezonban.",
+                "ro": "Pășiți din frig în acest centru elegant; parcarea este mult mai ușoară în sezonul liniștit de iarnă.",
+                "en": "Step out of the cold into this elegant hub; parking is much easier in the quiet winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium",
+                "hu": "Akvárium",
+                "ro": "Acvariu",
+                "en": "Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Eine wunderbar warme Umgebung, um exotische Fische zu sehen, wenn die Temperatur draußen sinkt.",
+                "hu": "Csodálatosan meleg környezet egzotikus tengeri élőlényekkel, miközben a kinti hőmérséklet zuhan.",
+                "ro": "Un mediu minunat de cald pentru a vedea viața marină pe măsură ce temperatura scade afară.",
+                "en": "Wonderfully warm environment to view exotic sea life as the outdoor evening temperature drops."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Roberto Bellarmino",
+                "hu": "San Roberto Bellarmino templom",
+                "ro": "Biserica San Roberto Bellarmino",
+                "en": "Church of San Roberto Bellarmino"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die ruhige Abendatmosphäre; nach dem Sonnenuntergang um 17:00 Uhr können Straßen vereisen.",
+                "hu": "Éld át a békés esti hangulatot; a 17:00 órás naplemente után az utak lefagyhatnak, vezess lassan.",
+                "ro": "Experimentați atmosfera liniștită; drumurile îngheață după apusul de la 17:00, conduceți cu grijă.",
+                "en": "Experience serene evening atmosphere; roads can get icy after the 17:00 sunset, drive with care."
+              }
+            }
+          ]
+        }
       }
     }
   }

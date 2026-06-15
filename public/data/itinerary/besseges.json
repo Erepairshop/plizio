@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Templom nyugodt légkörének befogadásával, majd látogasson el a gyönyörű Szeplőtelen Fogantatás templomába.\n\nDélben másszon fel a domboldalon a Chapelle de la Côte-hoz, ahol a völgyre nyíló pazar kilátás tökéletes hátteret biztosít a csendes pihenéshez.\n\nDélután merüljön el a régió ipari örökségében a kiterjedt Bányászati Múzeumban.\n\nZárja gyalogtúráját egy frissítő pihenővel a nyilvános uszodában, és lazítson, ahogy a nap lemenni készül a Cévennes felett.",
         "ro": "Începeți dimineața absorbind atmosfera liniștită a Templului înainte de a vizita frumoasa Biserică a Imaculatei Concepții.\n\nLa amiază, urcați dealul până la Chapelle de la Côte, unde priveliștile ample ale văii oferă fundalul perfect pentru o pauză.\n\nDupă-amiaza, scufundați-vă în patrimoniul industrial al regiunii la impresionantul Muzeu al Mineritului.\n\nÎncheiați-vă plimbarea cu o pauză răcoritoare la Piscina Publică, relaxându-vă în timp ce soarele apune peste Cévennes.",
         "en": "Start your morning absorbing the tranquil atmosphere of the Temple before moving on to the beautiful Church of the Immaculate Conception.\n\nBy midday, ascend the hillside to the Chapelle de la Côte, where sweeping valley views make the perfect backdrop for a quiet pause.\n\nIn the afternoon, dive into the region's industrial heritage at the expansive Mining Museum.\n\nConclude your walking tour with a refreshing break at the Public Swimming Pool, unwinding as the sun begins to set over the Cévennes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Bessèges beginnt am besten unter dem schützenden Dach des Tempels. Mittags bieten die Kirchen der Stadt trockene Zufluchtsorte für kulturelle Entdeckungen. Am Nachmittag ist das Bergbaumuseum die ideale Wahl, um der Nässe für längere Zeit zu entfliehen. Der Abend klingt entspannt im Hallenbad aus, wo die Feuchtigkeit draußen keine Rolle mehr spielt.",
+            "hu": "Az esős reggel Bessèges-ben a Templom fedett részei alatt indul, védve minket a záporoktól. Délben a város templomai nyújtanak száraz menedéket és csendes helyet az elmélyüléshez. Délután a Bányászati Múzeum belső tárlata a legjobb menedék a tartós eső ellen. Az estét a városi uszodában zárjuk, ahol a benti meleg feledteti a kinti barátságtalan, vizes időjárást.",
+            "ro": "O dimineață ploioasă în Bessèges începe cel mai bine sub acoperișul protector al Templului. La prânz, bisericile orașului oferă refugii uscate pentru explorări culturale liniștite. După-amiaza, Muzeul Mineritului este alegerea ideală pentru a scăpa de umezeală pentru o perioadă mai lungă. Seara se încheie relaxant la piscina acoperită, unde ploaia de afară nu mai contează deloc.",
+            "en": "A rainy morning in Bessèges is best started under the protective roof of the Temple. At noon, the town's churches provide dry havens for quiet cultural discovery and shelter. In the afternoon, the Mining Museum is the perfect choice to escape the wet weather for an extended period. The evening ends prepfectly at the indoor pool, where the outdoor dampness is easily forgotten."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tempel",
+                "hu": "Templom",
+                "ro": "Templul",
+                "en": "Temple"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich des Tempels, um den Regen abzuwarten, und bewundern Sie die schlichte Architektur; ein fester Regenschirm ist für den Weg unerlässlich.",
+                "hu": "Használja a templom fedett bejárati részét az eső elleni védekezésre, miközben megcsodálja az épületet; a további úthoz egy erős esernyő elengedhetetlen kellék lesz.",
+                "ro": "Folosiți zona de intrare acoperită a templului pentru a aștepta oprirea ploii și admirați arhitectura simplă; o umbrelă rezistentă este esențială pentru continuarea drumului.",
+                "en": "Use the covered entrance area of the temple to wait out the passing rain while admiring the architecture; a sturdy umbrella is essential for the walk ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás temploma",
+                "ro": "Biserica Imaculatei Concepții",
+                "en": "Church of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Kirche bietet perfekten Schutz vor der Nässe und besticht durch kunstvolle Details; achten Sie beim Eintreten auf rutschige Fliesen im Eingangsbereich.",
+                "hu": "A templom belső tere tökéletes védelmet nyújt a nedvesség ellen és lenyűgöző részletekkel vár; belépéskor ügyeljen a bejárati rész csúszós padlólapjaira.",
+                "ro": "Interiorul bisericii oferă protecție perfectă împotriva umezelii și impresionează prin detaliile artistice; atenție la gresia alunecoasă din zona de intrare când intrați.",
+                "en": "The interior of the church provides perfect protection from the wet weather and features artistic details; watch out for slippery tiles at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Côte",
+                "hu": "Côte-kápolna",
+                "ro": "Capela de la Côte",
+                "en": "Chapelle de la Côte"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zur Kapelle kann bei Regen schlammig und rutschig sein; tragen Sie wasserfeste Wanderschuhe mit gutem Profil und eine winddichte Regenjacke für den Ausblick.",
+                "hu": "A kápolnához vezető út esőben sáros és csúszós lehet; viseljen jó tapadású, vízálló túrabakancsot és szélálló esőkabátot a panoráma megtekintéséhez.",
+                "ro": "Urcarea spre capelă poate fi noroioasă și alunecoasă pe ploaie; purtați ghete de drumeție impermeabile cu aderență bună și o jachetă de ploaie pentru priveliște.",
+                "en": "The climb to the chapel can be muddy and slippery in the rain; wear waterproof hiking boots with good grip and a windproof rain jacket for the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergbaumuseum",
+                "hu": "Bányászati Múzeum",
+                "ro": "Muzeul Mineritului",
+                "en": "Mining Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort bei Dauerregen, da Sie hier Stunden im Trockenen verbringen können; nutzen Sie die Garderobe, um Ihre nassen Sachen bequem abzulegen.",
+                "hu": "Tartós esőben ez a legjobb helyszín, mivel órákat tölthet el szárazon; használja a ruhatárat a vizes kabátok és esernyők kényelmes tárolására a látogatás alatt.",
+                "ro": "Acesta este cel mai bun loc în caz de ploaie continuă, deoarece puteți petrece ore întregi la adăpost; folosiți garderoba pentru a lăsa hainele ude confortabil.",
+                "en": "This is the best place during continuous rain as you can spend hours in the dry; use the cloakroom to conveniently leave your wet items during the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Öffentliches Schwimmbad",
+                "hu": "Nyilvános uszoda",
+                "ro": "Piscina publică",
+                "en": "Public Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Hallenbad lässt Sie den Regen vergessen; bringen Sie ein großes, trockenes Handtuch und Flip-Flops mit, um auf den nassen Böden im Inneren sicher zu gehen.",
+                "hu": "Az uszodalátogatás során teljesen elfelejtheti a kinti esőt; hozzon magával nagy, száraz törölközőt és papucsot a benti vizes felületeken való biztonságos közlekedéshez.",
+                "ro": "O vizită la piscină vă va face să uitați de ploaie; aduceți un prosop mare uscat și papuci pentru a merge în siguranță pe podelele umede din interior.",
+                "en": "A visit to the indoor pool will make you forget the rain; bring a large dry towel and flip-flops to walk safely on the wet surfaces inside the facility."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Spaziergang in Bessèges erfordert warme Kleidung gegen den Wind im Cèze-Tal. Die Vormittagsstunden in den Kirchen bieten eine ruhige Atmosphäre, auch wenn es innen kühl sein kann. Nachmittags ist das beheizte Bergbaumuseum der perfekte Ort zum Aufwärmen. Da es bereits gegen 17:00 Uhr dunkel wird, endet der Tag gemütlich im beleuchteten Schwimmbad.",
+            "hu": "A téli séta Bessèges-ben réteges öltözködést igényel a Cèze-völgy hűvös szele miatt. A délelőtti templomlátogatások során csendes, meghitt hangulat fogad, de a belső terek hűvösek lehetnek. Délután a fűtött Bányászati Múzeum kiváló hely az átmelegedésre. Mivel 17:00 körül már sötétedik, a napot a kivilágított uszoda melegében fejezzük be.",
+            "ro": "O plimbare de iarnă în Bessèges necesită haine groase împotriva vântului din valea Cèze. Orele dimineții în biserici oferă o atmosferă liniștită, chiar dacă interiorul poate fi răcoros. După-amiaza, Muzeul Mineritului încălzit este locul perfect pentru a vă dezmorți. Deoarece se întunecă deja în jurul orei 17:00, ziua se încheie confortabil la piscină.",
+            "en": "A winter walk in Bessèges requires warm clothing against the wind in the Cèze valley. The morning hours in the churches offer a quiet atmosphere, even if it can be chilly inside. In the afternoon, the heated Mining Museum is the perfect place to warm up. Since it gets dark around 5:00 PM, the day ends comfortably at the well-lit indoor pool."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tempel",
+                "hu": "Templom",
+                "ro": "Templul",
+                "en": "Temple"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Schönheit des Tempels wirkt im klaren Winterlicht besonders friedlich; ziehen Sie sich warm an, da das Gebäude im Winter oft recht kühl bleibt.",
+                "hu": "A templom letisztult szépsége a tiszta téli fényben különösen békés; öltözzön melegen, mivel az épület belső tere télen gyakran hűvös marad.",
+                "ro": "Frumusețea simplă a templului pare deosebit de liniștită în lumina clară de iarnă; îmbrăcați-vă gros, deoarece clădirea rămâne adesea răcoroasă iarna.",
+                "en": "The simple beauty of the temple feels especially peaceful in the clear winter light; dress warmly as the building often remains quite cool in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás temploma",
+                "ro": "Biserica Imaculatei Concepții",
+                "en": "Church of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur in der Stille des Winters; behalten Sie Ihren Mantel während der Besichtigung an, da die Steinmauern die Kälte speichern.",
+                "hu": "Csodálja meg az építészetet a tél csendjében; a látogatás alatt tartsa magán a kabátját, mivel a kőfalak télen erősen tartják a hideget.",
+                "ro": "Admirați arhitectura în liniștea iernii; păstrați haina pe dvs. în timpul vizitei, deoarece zidurile de piatră păstrează frigul pătrunzător.",
+                "en": "Admire the architecture in the silence of winter; keep your coat on during the visit as the stone walls tend to store the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Côte",
+                "hu": "Côte-kápolna",
+                "ro": "Capela de la Côte",
+                "en": "Chapelle de la Côte"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg belohnt Sie mit einer weiten Fernsicht über die kahle Winterlandschaft; tragen Sie eine Mütze und Handschuhe gegen den eisigen Wind auf dem Hügel.",
+                "hu": "A felkapaszkodás jutalma a kopár téli táj feletti távoli panoráma; viseljen sapkát és kesztyűt a dombtetőn süvítő jeges szél ellen.",
+                "ro": "Urcarea vă recompensează cu o vedere panoramică asupra peisajului sterp de iarnă; purtați căciulă și mănuși împotriva vântului înghețat de pe deal.",
+                "en": "The climb rewards you with a vast panoramic view over the barren winter landscape; wear a hat and gloves against the icy wind on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergbaumuseum",
+                "hu": "Bányászati Múzeum",
+                "ro": "Muzeul Mineritului",
+                "en": "Mining Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Ausstellungsräume für eine lange Pause vom Winterfrost; die umfangreichen Sammlungen lassen Sie die Kälte draußen völlig vergessen.",
+                "hu": "Használja ki a fűtött kiállítótermeket egy hosszú szünetre a téli fagy elől; a gazdag gyűjtemény segít teljesen elfelejteni a kinti hideget.",
+                "ro": "Folosiți sălile de expoziție încălzite pentru o pauză lungă de la gerul iernii; colecțiile vaste vă vor face să uitați complet de frigul de afară.",
+                "en": "Use the heated exhibition rooms for a long break from the winter frost; the extensive collections will make you completely forget the cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Öffentliches Schwimmbad",
+                "hu": "Nyilvános uszoda",
+                "ro": "Piscina publică",
+                "en": "Public Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Das warme Wasser ist die beste Belohnung nach einem Tag an der Winterluft; achten Sie auf den Temperaturunterschied beim Verlassen des Gebäudes in die Abendkälte.",
+                "hu": "A meleg víz a legjobb jutalom a téli levegőn töltött nap után; távozáskor ügyeljen a nagy hőmérséklet-különbségre, amikor kilép az esti hidegbe.",
+                "ro": "Apa caldă este cea mai bună recompensă după o zi petrecută în aerul de iarnă; atenție la diferența de temperatură când ieșiți în frigul serii.",
+                "en": "The warm water is the best reward after a day in the winter air; be careful of the temperature drop when leaving the building for the evening cold."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandja a történelmi Église Saint-Andéolnál kezdődik, megadva a nap békés alaphangját, mielőtt leereszkedne a helyi uszodához.\n\nEbédidőre tekerjen vissza a városközpont felé, hogy megcsodálhassa a Templom és a fő katolikus templom méltóságteljes építészetét.\n\nA délután folyamán győzze le az enyhe emelkedőt a Chapelle de la Côte-hoz, hogy lélegzetelállító panorámákban gyönyörködhessen.\n\nVégül guruljon el a Bányászati Múzeumhoz, lenyűgöző helytörténeti emlékekkel körülvéve zárva a napot.",
         "ro": "Aventura pe bicicletă începe la istorica Biserică Saint-Andéol, oferind un ton pașnic zilei înainte de a coborî spre piscina locală.\n\nLa ora prânzului, pedalați înapoi spre centrul orașului pentru a admira arhitectura demnă a Templului și a bisericii catolice principale.\n\nPe măsură ce după-amiaza avansează, cuceriți panta ușoară către Chapelle de la Côte pentru a vă bucura de panorame uluitoare.\n\nÎn cele din urmă, mergeți spre Muzeul Mineritului, încheind ziua înconjurați de o istorie locală fascinantă.",
         "en": "Your cycling adventure starts at the historic Saint-Andéol Church, setting a peaceful tone for the day before gliding down to the local public pool.\n\nBy lunchtime, pedal your way back towards the town center to admire the dignified architecture of the Temple and the main Catholic church.\n\nAs the afternoon progresses, conquer the slight incline to the Chapelle de la Côte to enjoy breathtaking panoramas.\n\nFinally, wheel your way to the Mining Museum, wrapping up the day surrounded by fascinating local history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen in Bessèges erfordert Vorsicht auf den nassen Straßen im Tal. Die Vormittagsstopps in den Kirchen bieten willkommene Trockenpausen. Mittags ist das Bergbaumuseum der ideale Ort, um das Rad sicher abzustellen und längere Zeit im Trockenen zu verbringen. Der Tag endet am besten im Schwimmbad, um sich aufzuwärmen und die nasse Kleidung zu vergessen.",
+            "hu": "Az esős bringázás Bessèges-ben óvatosságot igényel a völgy csúszós útjain. A délelőtti templomi megállók kiváló alkalmat adnak a száradásra. Délben a Bányászati Múzeum ideális hely, ahol biztonságban lezárhatjuk a kerékpárt és órákat tölthetünk fedett helyen. A napot az uszodában fejezzük be, ahol végre teljesen átmelegedhetünk a vizes tekerés után.",
+            "ro": "Ciclismul pe ploaie în Bessèges necesită prudență pe drumurile umede din vale. Opririle de dimineață la biserici oferă pauze de uscare binevenite. La prânz, Muzeul Mineritului este locul ideal pentru a lăsa bicicleta și a petrece timp la adăpost. Ziua se încheie cel mai bine la piscină, pentru a vă încălzi și a uita de hainele ude.",
+            "en": "Cycling in the rain in Bessèges requires caution on the wet roads in the valley. Morning stops at churches provide welcome dry breaks. At noon, the Mining Museum is the ideal place to lock up your bike and spend time indoors. The day ends best at the pool to warm up and forget about the wet clothes after a day of cycling in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Andéol",
+                "hu": "Saint-Andéol templom",
+                "ro": "Biserica Saint-Andéol",
+                "en": "Saint-Andéol Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter einen Baum oder Vorsprung und nutzen Sie die Kirche für eine erste Trockenpause; tragen Sie beim Radfahren unbedingt eine wasserfeste Hose.",
+                "hu": "Parkolja le a bringát egy fa vagy eresz alá, és használja a templomot az első száradásra; a tekeréshez feltétlenül viseljen vízálló nadrágot.",
+                "ro": "Parcați bicicleta sub un copac sau o streașină și folosiți biserica pentru o primă pauză de uscare; purtați neapărat pantaloni impermeabili la ciclism.",
+                "en": "Park your bike under a tree or overhang and use the church for a first dry break; be sure to wear waterproof trousers while cycling in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Öffentliches Schwimmbad",
+                "hu": "Nyilvános uszoda",
+                "ro": "Piscina publică",
+                "en": "Public Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Das Hallenbad ist perfekt, um der Kälte des Regens zu entfliehen; achten Sie darauf, dass Ihre Fahrradschuhe auf den nassen Fliesen im Eingangsbereich nicht rutschen.",
+                "hu": "Az uszoda tökéletes hely az eső okozta lehűlés ellen; ügyeljen arra, hogy a kerékpáros cipője ne csússzon meg a bejárati rész nedves padlólapjain.",
+                "ro": "Piscina este perfectă pentru a scăpa de frigul ploii; aveți grijă ca pantofii de ciclism să nu alunece pe gresia umedă din zona de intrare.",
+                "en": "The pool is perfect for escaping the chill of the rain; make sure your cycling shoes don't slip on the wet tiles in the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel",
+                "hu": "Templom",
+                "ro": "Templul",
+                "en": "Temple"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, trockener Stopp beim Tempel schützt Sie vor dem nächsten Schauer; prüfen Sie Ihre Bremsen, da die Bremswirkung auf nassen Felgen verzögert sein kann.",
+                "hu": "Egy rövid, száraz pihenő a templomnál megvédi a következő záportól; ellenőrizze a fékeket, mert a nedves felniken a fékhatás késleltetett lehet.",
+                "ro": "O scurtă oprire uscată la templu vă protejează de următoarea aversă; verificați frânele, deoarece eficiența lor poate fi redusă pe jantele umede.",
+                "en": "A short dry stop at the temple protects you from the next shower; check your brakes as braking power can be delayed on wet rims."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás temploma",
+                "ro": "Biserica Imaculatei Concepții",
+                "en": "Church of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die sakrale Stille für eine Pause vom prasselnden Regen; tragen Sie eine helle Regenjacke mit Reflektoren für bessere Sichtbarkeit im grauen Wetter.",
+                "hu": "Használja ki a templom csendjét egy pihenőre a kopogó eső elől; viseljen élénk színű, fényvisszaverős esőkabátot a jobb láthatóság érdekében.",
+                "ro": "Folosiți liniștea bisericii pentru o pauză de ploaia torențială; purtați o jachetă de ploaie reflectorizantă pentru o vizibilitate mai bună pe vreme gri.",
+                "en": "Enjoy the sacred silence for a break from the drumming rain; wear a bright rain jacket with reflectors for better visibility in the grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Côte",
+                "hu": "Côte-kápolna",
+                "ro": "Capela de la Côte",
+                "en": "Chapelle de la Côte"
+              },
+              "tip_5lang": {
+                "de": "Die steile Auffahrt kann bei Nässe extrem rutschig sein; schalten Sie in einen niedrigen Gang und fahren Sie besonders vorsichtig in den Kurven bergab.",
+                "hu": "A meredek feljáró nedvesen rendkívül csúszós lehet; váltson alacsony fokozatba, és lefelé jövet legyen különösen óvatos a kanyarokban.",
+                "ro": "Urcarea abruptă poate fi extrem de alunecoasă pe umezeală; schimbați într-o viteză mică și fiți foarte atenți în curbe la coborâre.",
+                "en": "The steep climb can be extremely slippery when wet; shift to a low gear and be extra careful in the corners when cycling back down."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergbaumuseum",
+                "hu": "Bányászati Múzeum",
+                "ro": "Muzeul Mineritului",
+                "en": "Mining Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Abschluss, um das Fahrrad sicher zu parken und sich im warmen Museum gründlich aufzuwärmen und abzutrocknen.",
+                "hu": "Ez az ideális végállomás, ahol biztonságban leparkolhatja a bringát, a meleg múzeumban pedig alaposan átmelegedhet és megszáradhat.",
+                "ro": "Acesta este finalul ideal pentru a parca bicicleta în siguranță și pentru a vă încălzi și usca bine în muzeul primitor.",
+                "en": "This is the ideal final stop to park your bike safely and thoroughly warm up and dry off inside the interesting museum galleries."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Bessèges bietet klare Luft, erfordert aber Schutz vor der Kälte. Der Morgen beginnt frisch an der Saint-Andéol Kirche. Mittags wärmt das Schwimmbad die kalten Muskeln auf. Nachmittags bieten die Kirchen und das Bergbaumuseum wichtige Aufwärmpausen. Beachten Sie, dass es ab 17:00 Uhr dunkel wird; sorgen Sie für eine gute Fahrradbeleuchtung für den Rückweg.",
+            "hu": "A téli kerékpározás Bessèges-ben friss levegőt, de komoly hideg elleni védelmet kínál. A reggel csípősen indul a Saint-Andéol templomnál. Napközben az uszoda melege segít a lemerevedett izmoknak. Délután a templomok és a Bányászati Múzeum nyújtanak szükséges meleg pihenőket. Ügyeljen rá, hogy 17:00 után sötétedik, így legyen jó világítása a bringán.",
+            "ro": "Ciclismul de iarnă în Bessèges oferă aer curat, dar necesită protecție împotriva frigului. Dimineața începe răcoros la biserica Saint-Andéol. La prânz, piscina încălzește mușchii amorțiți. După-amiaza, bisericile și Muzeul Mineritului oferă pauze esențiale de încălzire. Atenție, se întunecă de la ora 17:00; asigurați-vă că aveți lumini bune.",
+            "en": "Winter cycling in Bessèges offers crisp air but requires serious protection from the cold. The morning starts fresh at Saint-Andéol Church. At noon, the pool warms up cold muscles. In the afternoon, churches and the Mining Museum provide essential warming breaks. Note that it gets dark from 5:00 PM; ensure you have good bike lights for the return trip."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Andéol",
+                "hu": "Saint-Andéol templom",
+                "ro": "Biserica Saint-Andéol",
+                "en": "Saint-Andéol Church"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Lage der Kirche ist im Winter besonders stimmungsvoll; tragen Sie winddichte Handschuhe, um Ihre Finger beim Radfahren vor dem Erfrieren zu schützen.",
+                "hu": "A templom csendes fekvése télen különösen hangulatos; viseljen szélálló kesztyűt, hogy megvédje ujjait a fagyos menetszéltől tekerés közben.",
+                "ro": "Locația liniștită a bisericii este deosebit de atmosferică iarna; purtați mănuși rezistente la vânt pentru a vă proteja degetele în timpul ciclismului.",
+                "en": "The quiet location of the church is especially atmospheric in winter; wear windproof gloves to protect your fingers from the cold while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Öffentliches Schwimmbad",
+                "hu": "Nyilvános uszoda",
+                "ro": "Piscina publică",
+                "en": "Public Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das warme Wasser, um Ihre Durchblutung nach der kalten Fahrt zu fördern; trocknen Sie Ihre Haare gründlich föhnen, bevor Sie wieder aufs Rad steigen.",
+                "hu": "Használja a meleg vizet a vérkeringés serkentésére a hideg tekerés után; alaposan szárítsa meg a haját, mielőtt újra nyeregbe szállna a fagyos levegőn.",
+                "ro": "Folosiți apa caldă pentru a stimula circulația după tura răcoroasă; uscați-vă bine părul cu foehnul înainte de a urca din nou pe bicicletă.",
+                "en": "Use the warm water to boost your circulation after the cold ride; make sure to dry your hair thoroughly before getting back on the bike in the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel",
+                "hu": "Templom",
+                "ro": "Templul",
+                "en": "Temple"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt beim Tempel bietet Schutz vor dem beißenden Winterwind; achten Sie auf mögliche Glätte in schattigen Kurven auf dem Weg dorthin.",
+                "hu": "Egy rövid megálló a templomnál védelmet nyújt a metsző téli szél elől; ügyeljen az esetleges jegesedésre az árnyékos kanyarokban az odaúton.",
+                "ro": "O scurtă oprire la templu oferă protecție împotriva vântului tăios de iarnă; atenție la posibila gheață în curbele umbrite de pe traseu.",
+                "en": "A short stop at the temple provides protection from the biting winter wind; watch out for potential icy patches in shaded corners on the way there."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás temploma",
+                "ro": "Biserica Imaculatei Concepții",
+                "en": "Church of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine kurze Aufwärmpause im Inneren; tragen Sie Schichten aus Merinowolle, um auch bei niedrigen Temperaturen warm zu bleiben.",
+                "hu": "Használja ki a megállót egy rövid benti melegedésre; viseljen merinó gyapjú rétegeket, hogy alacsony hőmérsékleten is melegen tartsa a testét.",
+                "ro": "Folosiți oprirea pentru o scurtă pauză de încălzire în interior; purtați straturi de lână merinos pentru a rămâne cald chiar și la temperaturi scăzute.",
+                "en": "Use this stop for a short indoor warm-up break; wear merino wool layers to keep your body warm even in low winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Côte",
+                "hu": "Côte-kápolna",
+                "ro": "Capela de la Côte",
+                "en": "Chapelle de la Côte"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bringt Ihren Kreislauf in Schwung, aber oben kühlt man schnell aus; ziehen Sie für die Abfahrt eine zusätzliche Weste oder Jacke über.",
+                "hu": "A felkapaszkodás felpörgeti a keringést, de fent gyorsan lehűlhet; a lefelé úthoz vegyen fel egy plusz mellényt vagy kabátot a szél ellen.",
+                "ro": "Urcarea vă va pune sângele în mișcare, dar sus vă puteți răci rapid; puneți o vestă sau o jachetă suplimentară pentru coborâre.",
+                "en": "The climb will get your circulation going, but you'll cool down quickly at the top; put on an extra vest or jacket for the descent to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergbaumuseum",
+                "hu": "Bányászati Múzeum",
+                "ro": "Muzeul Mineritului",
+                "en": "Mining Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Radtag im Warmen zu beenden; stellen Sie sicher, dass Ihre Fahrradlampen für die Fahrt in der Dämmerung einsatzbereit sind.",
+                "hu": "Tökéletes helyszín a bringás nap melegben való befejezéséhez; győződjön meg róla, hogy a lámpái készen állnak a szürkületi visszútra.",
+                "ro": "Locul perfect pentru a încheia ziua de ciclism la căldură; asigurați-vă că luminile bicicletei sunt gata de utilizare pentru drumul la amurg.",
+                "en": "The perfect place to end your cycling day in the warm; make sure your bike lights are ready for the ride back in the winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Induljon útnak korán, és csodálja meg a fenséges Église de Peyremale-t, amely inspiráló történelmi alaphangot ad autós felfedezésének.\n\nA dél elhozza Önt a magasan fekvő Chapelle de la Côte-hoz és a központi Szeplőtelen Fogantatás templomához, bemutatva a változatos helyi építészetet.\n\nDélutáni útja a kiterjedt Bányászati Múzeumhoz vezet, hogy felfedezze Bessèges kemény, de büszke ipari gyökereit.\n\nZárja autós kirándulását azzal, hogy elhajt a Le Tomple és a Lavoir des Sagnes nyugodt természeti helyeihez, átölelve a természet báját.",
         "ro": "Porniți la drum devreme și minunați-vă de maiestuoasa Biserică Peyremale, stabilind un ton istoric inspirator pentru explorarea dumneavoastră motorizată.\n\nAmiaza vă duce la Chapelle de la Côte și la centrala Biserică a Imaculatei Concepții, prezentând arhitectura locală variată.\n\nDupă-amiaza, drumul vă duce la imensul Muzeu al Mineritului pentru a descoperi rădăcinile industriale dure, dar mândre ale orașului.\n\nÎncheiați-vă excursia conducând spre locurile naturale liniștite Le Tomple și Lavoir des Sagnes, îmbrățișând farmecul naturii.",
         "en": "Hit the road early and marvel at the majestic Church of Peyremale, setting an inspiring historical tone for your motorized exploration.\n\nMidday brings you to the elevated Chapelle de la Côte and the central Church of the Immaculate Conception, showcasing varied local architecture.\n\nIn the afternoon, your drive takes you to the sprawling Mining Museum to uncover the tough but proud industrial roots of Bessèges.\n\nConclude your road trip by driving out to the serene natural spots of Le Tomple and Lavoir des Sagnes, embracing nature's quiet charm."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch das Umland von Bessèges ist bei Regen die komfortabelste Option. Der Vormittag führt zur abgelegenen Kirche von Peyremale, während Sie im trockenen Auto sitzen. Mittags bietet das Bergbaumuseum ein ausgiebiges Indoor-Programm. Nachmittags erkunden wir Le Tomple und das Waschhaus Sagnes, wo das Wasser ohnehin dazugehört, bevor wir im Regen zurückfahren.",
+            "hu": "Az esős időben a legkényelmesebb opció Bessèges környékének felfedezése autóval. A délelőtt a távoli Peyremale-templomhoz vezet, miközben az autó szárazában ülünk. Délben a Bányászati Múzeum kínál tartalmas beltéri programot. Délután Le Tomple és a Sagnes mosóház környékét keressük fel, ahol a víz látványa amúgy is alapvető, majd esőben autózunk vissza.",
+            "ro": "O plimbare cu mașina prin împrejurimile orașului Bessèges este cea mai confortabilă opțiune pe ploaie. Dimineața duce la biserica izolată din Peyremale, stând la adăpost. La prânz, Muzeul Mineritului oferă un program interior bogat. După-amiaza explorăm Le Tomple și spălătoria Sagnes, unde apa este oricum elementul central, înainte de a ne întoarce pe ploaie.",
+            "en": "A car tour through the surroundings of Bessèges is the most comfortable option in the rain. The morning leads to the remote Church of Peyremale while you stay dry in the car. At noon, the Mining Museum offers an extensive indoor program. In the afternoon, we explore Le Tomple and the Sagnes washhouse, where water is a key feature anyway, before driving back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche von Peyremale",
+                "hu": "Peyremale-templom",
+                "ro": "Biserica Peyremale",
+                "en": "Church of Peyremale"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch das verregnete Tal und parken Sie nah am Eingang; die alte Kirche bietet einen wunderbaren, trockenen Ort für stille Betrachtung.",
+                "hu": "Élvezze az autózást az esős völgyben, és parkoljon közel a bejárathoz; a régi templom csodálatos, száraz helyszínt kínál a csendes nézelődéshez.",
+                "ro": "Bucurați-vă de drumul prin valea ploioasă și parcați aproape de intrare; vechea biserică oferă un loc minunat și uscat pentru contemplare liniștită.",
+                "en": "Enjoy the drive through the rainy valley and park close to the entrance; the old church offers a wonderful, dry location for quiet contemplation."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Côte",
+                "hu": "Côte-kápolna",
+                "ro": "Capela de la Côte",
+                "en": "Chapelle de la Côte"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig die schmale Straße hinauf, da bei Regen Laub auf dem Asphalt rutschig sein kann; die Kapelle bietet Schutz bei plötzlichen Schauern.",
+                "hu": "Vezessen óvatosan a keskeny úton felfelé, mert esőben az aszfalton lévő levelek csúszósak lehetnek; a kápolna jó menedék hirtelen záporok esetén.",
+                "ro": "Conduceți cu atenție pe drumul îngust, deoarece frunzele de pe asfalt pot fi alunecoase pe ploaie; capela oferă adăpost în caz de averse bruște.",
+                "en": "Drive carefully up the narrow road as wet leaves on the asphalt can be slippery; the chapel provides good shelter during sudden rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás temploma",
+                "ro": "Biserica Imaculatei Concepții",
+                "en": "Church of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz für einen schnellen Weg ins Trockene; die prächtige Innenausstattung lässt Sie das graue Wetter draußen schnell vergessen.",
+                "hu": "Használja a közeli parkolót, hogy gyorsan beérjen a szárazra; a pompás belső tér segít gyorsan elfelejteni a kinti szürke és barátságtalan időjárást.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge rapid la adăpost; interiorul somptuos vă va face să uitați repede de vremea gri de afară.",
+                "en": "Use the nearby parking lot for a quick walk into the dry; the magnificent interior will make you quickly forget the grey weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergbaumuseum",
+                "hu": "Bányászati Múzeum",
+                "ro": "Muzeul Mineritului",
+                "en": "Mining Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Museum und verbringen Sie die regenreichste Zeit des Tages in den faszinierenden, gut geschützten Ausstellungsräumen unter Tage.",
+                "hu": "Parkoljon közvetlenül a múzeumnál, és töltse a nap legesősebb részét a lenyűgöző, jól védett benti és föld alatti kiállítóterekben.",
+                "ro": "Parcați chiar lângă muzeu și petreceți cea mai ploioasă parte a zilei în sălile de expoziție fascinante și bine protejate din subteran.",
+                "en": "Park right at the museum and spend the rainiest part of the day in the fascinating, well-protected indoor and underground exhibition areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Tomple",
+                "hu": "Le Tomple",
+                "ro": "Le Tomple",
+                "en": "Le Tomple"
+              },
+              "tip_5lang": {
+                "de": "Die Felsformationen wirken im Regen dramatisch; bleiben Sie für den besten Blick im Auto oder nutzen Sie eine kurze Regenpause für ein schnelles Foto.",
+                "hu": "A sziklaformációk drámai látványt nyújtanak esőben; a legjobb kilátásért maradjon az autóban, vagy használjon ki egy rövid szünetet egy gyors fotóhoz.",
+                "ro": "Formațiunile stâncoase arată dramatic pe ploaie; rămâneți în mașină pentru cea mai bună vedere sau profitați de o scurtă pauză de ploaie pentru o poză.",
+                "en": "The rock formations look dramatic in the rain; stay in the car for the best view or take advantage of a short break in the rain for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Waschhaus Sagnes",
+                "hu": "Sagnes mosóház",
+                "ro": "Spălătoria Sagnes",
+                "en": "Sagnes Washhouse"
+              },
+              "tip_5lang": {
+                "de": "Das historische Waschhaus ist überdacht und bietet einen trockenen Ort, um dem Rauschen des Wassers zuzuhören; achten Sie auf Pfützen auf dem Parkplatz.",
+                "hu": "A történelmi mosóház fedett, így száraz helyet kínál a víz csobogásának hallgatásához; ügyeljen a nagyobb tócsákra a parkoló területén.",
+                "ro": "Spălătoria istorică este acoperită și oferă un loc uscat pentru a asculta susurul apei; atenție la bălțile mari din zona parcării.",
+                "en": "The historic washhouse is covered and offers a dry spot to listen to the rushing water; watch out for large puddles in the parking area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour um Bessèges bietet spektakuläre Ausblicke auf die kahlen Cevennen bei angenehmer Wärme im Fahrzeug. Der Morgen führt zur einsamen Kirche von Peyremale. Nachmittags ist das Bergbaumuseum ein idealer Ort zum Verweilen, bevor es früh dunkel wird. Den späten Nachmittag verbringen wir bei den Naturdenkmälern, bevor wir im Schutz der Scheinwerfer zurückkehren.",
+            "hu": "A téli autós túra Bessèges körül lenyűgöző kilátást nyújt a kopár Cévennekre a jármű kellemes melegéből. A reggel a magányos Peyremale-templomhoz vezet. Délután a Bányászati Múzeum ideális hely a hosszabb időtöltésre, mielőtt korán besötétedik. A késő délutánt a természeti emlékeknél töltjük, mielőtt a fényszórók fényében visszatérnénk.",
+            "ro": "Turul de iarnă cu mașina în jurul orașului Bessèges oferă priveliști spectaculoase asupra munților Cévennes din căldura plăcută a vehiculului. Dimineața duce la biserica solitară din Peyremale. După-amiaza, Muzeul Mineritului este locul ideal înainte de lăsarea serii. Petrecem după-amiaza târzie la monumentele naturii, revenind apoi la lumina farurilor.",
+            "en": "The winter car tour around Bessèges offers spectacular views of the barren Cevennes from the pleasant warmth of your vehicle. The morning leads to the lonely Church of Peyremale. In the afternoon, the Mining Museum is an ideal place to linger before it gets dark early. We spend the late afternoon at the natural landmarks before returning by the light of the headlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche von Peyremale",
+                "hu": "Peyremale-templom",
+                "ro": "Biserica Peyremale",
+                "en": "Church of Peyremale"
+              },
+              "tip_5lang": {
+                "de": "Die abgelegene Kirche wirkt in der winterlichen Einsamkeit sehr majestätisch; lassen Sie die Heizung im Auto laufen, bis Sie direkt vor dem Portal aussteigen.",
+                "hu": "A távoli templom a téli magányban igen fenséges látványt nyújt; hagyja menni a fűtést az autóban, amíg közvetlenül a bejárat előtt ki nem száll.",
+                "ro": "Biserica izolată arată foarte maiestuos în singurătatea iernii; lăsați căldura pornită în mașină până când coborâți direct în fața portalului.",
+                "en": "The remote church looks very majestic in the winter solitude; keep the heater running in the car until you step out right in front of the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Côte",
+                "hu": "Côte-kápolna",
+                "ro": "Capela de la Côte",
+                "en": "Chapelle de la Côte"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das winterliche Tal direkt vom Parkplatz aus; ziehen Sie sich für den kurzen Weg zur Kapelle eine warme Jacke über.",
+                "hu": "Élvezze a téli völgy feletti tágas kilátást közvetlenül a parkolóból; a kápolnához vezető rövid útra vegyen fel egy meleg kabátot a szél ellen.",
+                "ro": "Bucurați-vă de vederea panoramică asupra văii de iarnă direct din parcare; puneți o jachetă groasă pentru drumul scurt până la capelă.",
+                "en": "Enjoy the wide view over the winter valley directly from the parking area; put on a warm jacket for the short walk to the chapel to block the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás temploma",
+                "ro": "Biserica Imaculatei Concepții",
+                "en": "Church of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur ist im harten Winterlicht besonders klar zu sehen; achten Sie beim Parken auf gefrorene Pfützen auf den Nebenstraßen der Stadt.",
+                "hu": "Az építészet a kemény téli fényben különösen tisztán látszik; parkoláskor ügyeljen a befagyott tócsákra a város mellékutcáiban.",
+                "ro": "Arhitectura se vede deosebit de clar în lumina dură de iarnă; atenție la bălțile înghețate când parcați pe străzile secundare ale orașului.",
+                "en": "The architecture is seen particularly clearly in the harsh winter light; watch out for frozen puddles when parking on the town's side streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergbaumuseum",
+                "hu": "Bányászati Múzeum",
+                "ro": "Muzeul Mineritului",
+                "en": "Mining Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der wärmste Stopp des Tages; nutzen Sie die Zeit für eine ausführliche Besichtigung, während die Wintersonne draußen bereits tief sinkt.",
+                "hu": "Ez a nap legmelegebb megállója; használja ki az időt egy alapos látogatásra, miközben a téli nap kint már alacsonyan jár az égen.",
+                "ro": "Aceasta este cea mai călduroasă oprire a zilei; folosiți timpul pentru o vizită detaliată în timp ce soarele de iarnă apune deja afară.",
+                "en": "This is the warmest stop of the day; take your time for a detailed visit while the winter sun is already sinking low outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Tomple",
+                "hu": "Le Tomple",
+                "ro": "Le Tomple",
+                "en": "Le Tomple"
+              },
+              "tip_5lang": {
+                "de": "Die kahle Winterlandschaft lässt die Felsformationen noch imposanter erscheinen; bleiben Sie im warmen Auto, um die Aussicht ohne den kalten Wind zu genießen.",
+                "hu": "A kopár téli táj még impozánsabbá teszi a sziklaformációkat; maradjon a meleg autóban, hogy a hideg szél nélkül élvezhesse a kilátást.",
+                "ro": "Peisajul sterp de iarnă face formațiunile stâncoase și mai impunătoare; rămâneți în mașina caldă pentru a admira vederea fără vântul rece.",
+                "en": "The barren winter landscape makes the rock formations look even more imposing; stay in the warm car to enjoy the view without the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Waschhaus Sagnes",
+                "hu": "Sagnes mosóház",
+                "ro": "Spălătoria Sagnes",
+                "en": "Sagnes Washhouse"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor Einbruch der Dunkelheit; die Scheinwerfer Ihres Autos helfen Ihnen, den Weg zum historischen Waschhaus sicher zu finden.",
+                "hu": "Látogasson el ide röviddel sötétedés előtt; az autó fényszórói segítenek biztonságosan megtalálni az utat a történelmi mosóházhoz.",
+                "ro": "Vizitați acest loc cu puțin timp înainte de lăsarea întunericului; farurile mașinii vă vor ajuta să găsiți drumul spre spălătoria istorică.",
+                "en": "Visit this spot shortly before dark; your car's headlights will help you safely find the path to the historic washhouse in the winter twilight."
+              }
+            }
+          ]
+        }
       }
     }
   }

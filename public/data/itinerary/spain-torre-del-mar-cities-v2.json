@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a múlt megismerésével a Castillo de Torre del Mar-nál, majd sétáljon át a történelmi Faro-hoz, hogy lássa a partvonal változásait. Délben merüljön el a régió ipari örökségében a lenyűgöző Cukorgyár Múzeum meglátogatásával. Délután csodálja meg a magasodó Régi Gyár Kéményét, amely a város virágzó múltjáról tanúskodik. Zárja az estét egy kellemes és pihentető sétával a Playa de Torre del Mar széles homokos partján.",
         "ro": "Începeți dimineața explorând trecutul la Castillo de Torre del Mar, înainte de a vă plimba spre Farul istoric pentru a vedea evoluția coastei. La prânz, scufundați-vă în moștenirea industrială a regiunii vizitând impresionantul Muzeu al Fabricii de Zahăr. După-amiaza, admirați vechiul turn al fabricii, un monument impunător al trecutului prosper al orașului. Încheiați-vă seara cu o plimbare relaxantă și liniștită pe nisipurile întinse ale Playa de Torre del Mar.",
         "en": "Start your morning delving into the past at the Castillo de Torre del Mar before strolling to the historic Faro to see how the coastline has evolved over the centuries. At midday, immerse yourself in the industrial legacy of the region by visiting the impressive Sugar Factory Museum. In the afternoon, marvel at the towering Old Factory Tower, a testament to the town's booming past. Wind down your evening with a leisurely and relaxing stroll along the wide sands of Playa de Torre del Mar."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Burg, einige Bereiche bieten Schutz. Mittags am Leuchtturm kann es windig sein, bleiben Sie nah an den Gebäuden. Der Nachmittag eignet sich perfekt für das Museum, um dem Regen zu entfliehen. Der Abendspaziergang am Fabrikturm ist stimmungsvoll; achten Sie auf Pfützen.",
+            "hu": "Reggel a várnál kezdünk, szerencsére néhány rész fedett. Délben a világítótoronynál szeles lehet, maradjunk az épületek közelében. A délután tökéletes a múzeumra, hogy elmeneküljünk az eső elől. Esti séta a gyárkéménynél hangulatos, de vigyázzunk a tócsákra.",
+            "ro": "Dimineața începe la castel, unde unele zone oferă adăpost. La prânz, lângă far, poate fi vântos, deci stați aproape de clădiri. După-amiaza este perfectă pentru muzeu, pentru a scăpa de ploaie. O plimbare de seară pe lângă turnul fabricii este atmosferică; atenție la bălți.",
+            "en": "Morning starts at the castle, where some areas provide shelter. At noon near the lighthouse it can be windy, so stay close to buildings. The afternoon is perfect for the museum to escape the rain. An evening walk by the factory tower is atmospheric; watch out for puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castillo de Torre del Mar de 1730",
+                "hu": "Castillo de Torre del Mar de 1730",
+                "ro": "Castillo de Torre del Mar de 1730",
+                "en": "Castillo de Torre del Mar de 1730"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Mauern und suchen Sie unter den Bögen Schutz vor dem Regen, während Sie sich die Verteidigung im 18. Jahrhundert vorstellen und auf die glatten Steine achten.",
+                "hu": "Nézzük meg a várfalakat, és keressünk menedéket az árkádok alatt a felhőszakadás elől, miközben a 18. századi védelmet képzeljük el, és figyeljünk a csúszós lépcsőkre.",
+                "ro": "Admirați zidurile vechi și căutați adăpost sub arcade pentru a evita ploaia, imaginându-vă apărarea orașului în secolul al XVIII-lea și având grijă la treptele alunecoase.",
+                "en": "View the old walls and find shelter under the archways to avoid the downpour while imagining the 18th-century defense, and watch out for the slippery stone surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro",
+                "hu": "Faro",
+                "ro": "Faro",
+                "en": "Faro"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm steht stolz unter dem grauen Himmel; halten Sie Ihren Schirm fest, da der Wind in Meeresnähe kräftig sein kann und die Gischt die Sicht etwas einschränkt.",
+                "hu": "A világítótorony büszkén áll a szürke ég alatt; fogjuk erősen az esernyőt, mert a tenger közeli szél igen erős lehet, és a permet miatt a látótávolság is csökkenhet.",
+                "ro": "Farul se înalță mândru sub cerul gri; țineți bine umbrela, deoarece vântul de lângă mare poate fi destul de puternic acum, iar stropii de apă pot reduce vizibilitatea.",
+                "en": "The lighthouse stands tall against the grey sky; keep your umbrella tight as the wind near the sea can be quite strong and the sea spray might limit the visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "hu": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "ro": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "en": "Antigua Fábrica de Azúcar/Museo del Azúcar"
+              },
+              "tip_5lang": {
+                "de": "Die beste Aktivität an Regentagen; erkunden Sie die Industriegeschichte im trockenen, historischen Gebäude mit seinen faszinierenden Maschinen und genießen Sie die Ruhe.",
+                "hu": "A legjobb esős napi program; fedezzük fel az ipari múltat a száraz, patinás épületben a lenyűgöző gépek között, távol a kinti barátságtalan, csapadékos időjárástól.",
+                "ro": "Cea mai bună activitate pentru o zi ploioasă; explorați istoria industrială în interiorul unei clădiri uscate și istorice, printre mașinăriile fascinante de odinioară.",
+                "en": "The best rainy day activity; explore the industrial history inside a dry, historic building with fascinating machinery, safely tucked away from the wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Factory Tower",
+                "hu": "Old Factory Tower",
+                "ro": "Old Factory Tower",
+                "en": "Old Factory Tower"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Blick auf dieses Backstein-Wahrzeichen reicht im Regen aus; das umliegende Pflaster kann bei Nässe rutschig sein, tragen Sie daher Schuhe mit gutem Profil.",
+                "hu": "Egy gyors pillantás is elég erre a tégla-emlékműre az esőben; a környező burkolat vizesen nagyon csúszós lehet, ezért válasszunk megfelelő, jól tapadó lábbelit a sétához.",
+                "ro": "O privire rapidă asupra acestui monument de cărămidă este suficientă pe ploaie; pavajul din jur poate fi alunecos când este ud, deci purtați încălțăminte cu talpă aderentă.",
+                "en": "A quick look at this brick landmark is enough in the rain; the surrounding pavement can be very slippery when wet, so make sure to wear shoes with a good grip for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Torre del Mar",
+                "hu": "Playa de Torre del Mar",
+                "ro": "Playa de Torre del Mar",
+                "en": "Playa de Torre del Mar"
+              },
+              "tip_5lang": {
+                "de": "Die Wellen wirken im Regen dramatisch; spazieren Sie auf der befestigten Promenade, um trockene Füße zu behalten und den tiefen Matsch des nassen Sandes zu vermeiden.",
+                "hu": "A hullámok drámaiak az esőben; sétáljunk a kövezett sétányon, hogy száraz maradjon a cipőnk, és kerüljük a vizes homokot, ami ilyenkor mély és nehezen járható lehet.",
+                "ro": "Valurile arată dramatic în ploaie; plimbați-vă pe faleza pavată pentru a vă păstra încălțămintea uscată și pentru a evita nisipul ud care devine greu de parcurs acum.",
+                "en": "The waves look dramatic in the rain; walk along the paved promenade to keep your shoes dry and avoid the wet sand, which can be messy and difficult to walk on today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Morgen an den Burgmauern. Die Mittagssonne ist angenehm, aber die Luft kühl. Der Museumsbesuch am Nachmittag spendet Wärme, wenn die Sonne zu sinken beginnt. Der Abend am Strand ist kühl; der Sonnenuntergang gegen 17:00 Uhr über dem Mittelmeer ist spektakulär.",
+            "hu": "Friss reggel a várfalaknál. A déli napsütés kellemes, de a levegő hűvös. A délutáni múzeumlátogatás meleget ad, ahogy a nap fogyni kezd. Az este a tengerparton fázós; a 17:00 körüli naplemente látványos a Földközi-tenger felett.",
+            "ro": "Dimineață răcoroasă la zidurile castelului. Soarele de la prânz este plăcut, dar aerul este rece. Vizita la muzeu de după-amiază oferă căldură pe măsură ce soarele apune. Seara la plajă este friguroasă; apusul de soare de pe la ora 17:00 peste Mediterană este spectaculos.",
+            "en": "Crisp morning at the castle walls. Midday sun is pleasant, but the air is cool. Afternoon museum visit provides warmth as the sun starts to dip. Evening by the beach is chilly; the sunset around 17:00 over the Mediterranean is spectacular."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castillo de Torre del Mar de 1730",
+                "hu": "Castillo de Torre del Mar de 1730",
+                "ro": "Castillo de Torre del Mar de 1730",
+                "en": "Castillo de Torre del Mar de 1730"
+              },
+              "tip_5lang": {
+                "de": "Fedezzük fel a várromokat a lágy téli fényben, ami tökéletes fotózáshoz a nyári pára és az erős hőség nélkül; vigyünk magunkkal egy meleg sálat a reggeli hűvösben.",
+                "hu": "Fedezzük fel a várromokat a lágy téli fényben, ami tökéletes fotózáshoz a nyári pára és az erős hőség nélkül; vigyünk magunkkal egy meleg sálat a reggeli hűvösben.",
+                "ro": "Explorați ruinele castelului în lumina blândă de iarnă, perfectă pentru fotografii fără căldura intensă a verii; purtați un fular călduros pentru răcoarea dimineții.",
+                "en": "Explore the castle ruins in the soft winter light, perfect for photos without the summer haze or intense heat; bring a warm scarf for the cool morning temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro",
+                "hu": "Faro",
+                "ro": "Faro",
+                "en": "Faro"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Turm ragt in den klaren Winterhimmel; tragen Sie eine windfeste Jacke, da die Meeresbrise im Winter viel kühler ist als während der Sommermonate.",
+                "hu": "A fehér torony ragyog az alacsony téli napfényben; viseljünk széldzsekit, mert a tengeri szellő ilyenkor sokkal hidegebb, mint amit a nyári hónapokban megszokhattunk.",
+                "ro": "Turnul alb strălucește sub soarele de iarnă; purtați o jachetă rezistentă la vânt, deoarece briza mării este mult mai rece acum decât în timpul lunilor de vară.",
+                "en": "The white tower glows in the low winter sun; wear a windbreaker as the sea breeze is much colder during this season than what you would experience in the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "hu": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "ro": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "en": "Antigua Fábrica de Azúcar/Museo del Azúcar"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Rückzugsort, um die süße Vergangenheit der Stadt zu erkunden, während Sie vor der kühlen Dezemberluft geschützt sind und die Geschichte in Ruhe genießen.",
+                "hu": "Meleg menedék, ahol megismerhetjük a város édes múltját, miközben védve vagyunk a hűvös decemberi levegőtől; a belső terekben kellemesen telik az idő a téli délutánon.",
+                "ro": "Un refugiu călduros unde puteți învăța despre trecutul dulce al orașului, fiind protejați de aerul rece de decembrie în timp ce explorați expozițiile interesante.",
+                "en": "A warm retreat where you can learn about the town's sweet past while staying out of the cool December air; the indoor galleries provide a cozy escape on a winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Factory Tower",
+                "hu": "Old Factory Tower",
+                "ro": "Old Factory Tower",
+                "en": "Old Factory Tower"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Schornstein hebt sich klar vom Winterhimmel ab; besuchen Sie ihn vor 16:30 Uhr, um ihn im Tageslicht zu sehen, bevor es schnell dunkel wird.",
+                "hu": "Ez a történelmi kémény élesen válik el a tiszta téli égbolttól; látogassuk meg 16:30 előtt, hogy még nappali fényben láthassuk, mielőtt a nap hirtelen nyugovóra térne.",
+                "ro": "Acest coș istoric se detașează clar pe cerul de iarnă; vizitați-l înainte de ora 16:30 pentru a-l vedea în lumina zilei, înainte ca întunericul să se lase rapid.",
+                "en": "This historic chimney stands out against the clear winter sky; visit before 16:30 to see it in full daylight before the sun begins to set rapidly in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Torre del Mar",
+                "hu": "Playa de Torre del Mar",
+                "ro": "Playa de Torre del Mar",
+                "en": "Playa de Torre del Mar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen ruhigen Strandspaziergang beim frühen Sonnenuntergang; das Licht der goldenen Stunde ist im Winter hier besonders intensiv und wunderschön.",
+                "hu": "Élvezzük a csendes tengerparti sétát a korai naplementében; a téli aranyóra fényei itt különösen gyönyörűek, és a tömeg hiánya miatt békés a hangulat a parton.",
+                "ro": "Bucurați-vă de o plimbare liniștită pe plajă la apusul timpuriu; lumina de la 'ora de aur' este deosebit de frumoasă iarna aici, oferind un peisaj marin spectaculos.",
+                "en": "Enjoy a quiet walk on the beach as the sun sets early; the golden hour light in winter is exceptionally beautiful here, and the lack of crowds makes it very peaceful."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját egy kis frissítő szórakozással az Aquavelis-ben, mielőtt a Cukorgyár Múzeum felé teker, hogy felfedezze az ipari történelmet. Délben elérkezik a régi Faro-hoz, majd a jelenlegi partvonalon álló modern kék-fehér utódjához. Töltse a délutánt az ősi titkok feltárásával a föníciai romoknál. Zárja a napot egy aranyórás biciklizéssel a rusztikus Torre Vigía Manganeta felé, miközben élvezi a tengerparti kilátást.",
         "ro": "Începeți turul cu bicicleta cu o distracție răcoritoare la Aquavelis, înainte de a pedala spre Muzeul Zahărului pentru a explora istoria industrială. La prânz veți ajunge la vechiul Far din interior, urmat rapid de succesorul său modern de pe coasta actuală. Petreceți după-amiaza descoperind secrete antice la ruinele feniciene. Încheiați ziua cu o plimbare în ora de aur către rusticul Torre Vigía Manganeta, bucurându-vă de priveliști.",
         "en": "Kick off your cycling tour with some refreshing fun at Aquavelis before pedaling toward the Sugar Factory Museum to explore local industrial history. Midday brings you to the old inland Faro, followed swiftly by its modern blue-and-white successor right on the current coastline. Spend your afternoon uncovering ancient secrets at the Phoenician ruins. End the day with a golden hour ride to the rustic Torre Vigía Manganeta, soaking in the beautiful coastal views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrt zum Aquavelis; obwohl es ruhig ist, ist die Gegend gut erreichbar. Mittags im Museum ist eine tolle trockene Pause. Nachmittags Leuchtturmbesuche erfordern Vorsicht auf nassen Straßen. Die Abendfahrt zurück ist mit der richtigen Ausrüstung erfrischend.",
+            "hu": "Reggeli tekerés az Aquavelis-hez; bár csendes, a környék jól megközelíthető. Délben a múzeum remek száraz pihenő. A délutáni világítótorony-látogatás óvatosságot igényel a vizes utakon. Az esti visszaút frissítő, ha megfelelő a felszerelésünk.",
+            "ro": "Plimbare de dimineață spre Aquavelis; deși este liniște, zona este ușor accesibilă. La prânz, muzeul este o pauză uscată excelentă. Vizitele la far de după-amiază necesită prudență pe drumurile ude. Cursa de seară înapoi este revigorantă dacă aveți echipamentul potrivit.",
+            "en": "Morning ride to Aquavelis; though quiet, the area is easily accessible. At noon, the museum is a great dry break. Afternoon lighthouse visits require caution on wet roads. The evening ride back is refreshing if you have the right gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aquavelis",
+                "hu": "Aquavelis",
+                "ro": "Aquavelis",
+                "en": "Aquavelis"
+              },
+              "tip_5lang": {
+                "de": "Auch wenn es ruhig ist, ist das Gebiet leicht erreichbar; achten Sie auf rutschige Stellen auf dem Asphalt am Eingang und bremsen Sie bei Nässe frühzeitig ab.",
+                "hu": "Bár csendes, a terület biciklivel könnyen elérhető; vigyázzunk a csúszós foltokra az aszfalton a bejáratnál, és fékezzünk időben a vizes burkolaton a biztonságunkért.",
+                "ro": "Chiar dacă este liniște, zona este ușor accesibilă; atenție la porțiunile alunecoase de pe asfaltul de la intrare și frânați din timp pentru a evita derapajele.",
+                "en": "Even if quiet, the area is easily reachable by bike; watch out for slick spots on the asphalt near the entrance and remember to brake early on the wet pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "hu": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "ro": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "en": "Antigua Fábrica de Azúcar/Museo del Azúcar"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und trocknen Sie sich drinnen ab, während Sie die Zuckergeschichte in diesem geschützten Museum entdecken und die regnerische Zeit sinnvoll nutzen.",
+                "hu": "Parkoljunk le és szárítkozzunk meg bent, miközben felfedezzük a cukorgyártás történetét ebben a védett múzeumban, hasznosan töltve az időt a heves esőzés alatt.",
+                "ro": "Parcați bicicleta și uscați-vă în interior în timp ce descoperiți istoria zahărului în acest muzeu adăpostit, fiind locul ideal pentru a aștepta trecerea ploii.",
+                "en": "Park your bike and dry off inside while discovering the sugar history in this sheltered museum, making it the perfect spot to wait out a heavy downpour comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro",
+                "hu": "Faro",
+                "ro": "Faro",
+                "en": "Faro"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig zum Leuchtturm; der Küstenweg kann Pfützen haben, halten Sie ein gleichmäßiges Tempo, um Spritzer zu vermeiden und stabil auf dem Rad zu bleiben.",
+                "hu": "Óvatosan tekerjünk a toronyhoz; a parti úton tócsák lehetnek, tartsunk egyenletes tempót a felcsapódó víz elkerülésére és a kerékpár stabil irányításához.",
+                "ro": "Pedalați cu atenție spre far; drumul de coastă poate avea bălți, deci mențineți un ritm constant pentru a evita stropirea și pentru a păstra echilibrul pe bicicletă.",
+                "en": "Cycle carefully to the lighthouse; the coastal path can have puddles, so maintain a steady pace to avoid splashing and to keep your bike stable on the wet surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro Torre del Mar",
+                "hu": "Faro Torre del Mar",
+                "ro": "Faro Torre del Mar",
+                "en": "Faro Torre del Mar"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp an diesem modernen Leuchtturm reicht; der Boden hier kann bei Regen für Reifen sehr rutschig sein, vermeiden Sie daher abrupte Lenkbewegungen.",
+                "hu": "Egy gyors megálló ennél a modern toronynál elég; a talaj itt esőben nagyon csúszós lehet a kerékpárgumiknak, így kerüljük a hirtelen kanyarodást vagy fékezést.",
+                "ro": "O oprire scurtă la acest far modern este suficientă; solul de aici poate fi foarte alunecos pentru pneuri pe timp de ploaie, deci evitați manevrele bruște.",
+                "en": "A quick stop at this modern lighthouse is enough; the ground here can be very slippery for tires during rain, so avoid any sudden turns or sharp braking maneuvers."
+              }
+            },
+            {
+              "name": {
+                "de": "Yacimientos Fenicios",
+                "hu": "Yacimientos Fenicios",
+                "ro": "Yacimientos Fenicios",
+                "en": "Yacimientos Fenicios"
+              },
+              "tip_5lang": {
+                "de": "Diese Ruinen liegen im Freien; prüfen Sie sie kurz und stellen Sie sicher, dass Ihre Bremsen bei Nässe gut funktionieren, da der Bodenbelag hier uneben sein kann.",
+                "hu": "Ezek a romok szabadtériek; nézzük meg őket gyorsan, és ellenőrizzük, hogy a fékek jól fognak-e a vizes úton, mert a területen a talaj egyenetlen és sáros lehet.",
+                "ro": "Aceste ruine sunt în aer liber; vizitați-le rapid și asigurați-vă că frânele funcționează bine pe carosabil ud, având în vedere că terenul poate fi denivelat aici.",
+                "en": "These ruins are outdoors; check them quickly and ensure your brakes are working well in the wet, as the terrain around the archaeological site can be uneven and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vigía Manganeta",
+                "hu": "Torre Vigía Manganeta",
+                "ro": "Torre Vigía Manganeta",
+                "en": "Torre Vigía Manganeta"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Turm könnte matschig sein; bleiben Sie auf befestigten Abschnitten und genießen Sie den regnerischen Meerblick, während Sie auf rutschige Erde achten.",
+                "hu": "A toronyhoz vezető út saras lehet; maradjunk a burkolt részeken, és élvezzük a borongós, esős tengeri kilátást, kerülve a csúszós, földes útszakaszokat a biciklivel.",
+                "ro": "Drumul spre turn ar putea fi noroios; rămâneți pe secțiunile pavate și bucurați-vă de vederea marină melancolică pe ploaie, evitând zonele cu pământ moale.",
+                "en": "The path to the tower might be muddy; stay on paved sections and enjoy the moody, rainy coastal view, making sure to avoid slippery dirt patches with your bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erfrischende morgendliche Radtour an der kühlen Luft. Mittags im Museum kann man sich aufwärmen. Die Nachmittagsfahrt entlang der Küste ist mit der Wintersonne belebend. Der Abend endet früh, da das Licht gegen 17:00 Uhr schnell schwindet.",
+            "hu": "Frissítő reggeli biciklizés a hűvös levegőben. Délben a múzeumban átmelegedhetünk. A délutáni tekerés a parton élénkítő a téli napsütésben. Az este korán véget ér, mivel a fény 17:00 körül gyorsan eltűnik.",
+            "ro": "Ciclism revigorant de dimineață în aerul rece. La prânz, muzeul permite o încălzire. Cursa de după-amiază de-a lungul coastei este revigorantă sub soarele de iarnă. Seara se termină devreme, deoarece lumina scade rapid în jurul orei 17:00.",
+            "en": "Refreshing morning cycle in the cool air. Noon at the museum allows for a warm-up. Afternoon ride along the coast is invigorating with the winter sun. Evening finishes early as the light fades fast by 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aquavelis",
+                "hu": "Aquavelis",
+                "ro": "Aquavelis",
+                "en": "Aquavelis"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hierher ist in der Wintersonne angenehm; ohne Sommermassen ist das Radfahren in dieser Gegend viel sicherer und Sie können die kühle Brise genießen.",
+                "hu": "A tekerés ide kellemes a téli napsütésben; a nyári tömeg hiánya sokkal biztonságosabbá teszi a biciklizést ezen a részen, így nyugodtan élvezhetjük a friss levegőt.",
+                "ro": "Călătoria aici este plăcută sub soarele de iarnă; lipsa aglomerației de vară face ciclismul mult mai sigur în această zonă, permițându-vă să pedalați relaxat.",
+                "en": "The ride here is pleasant in the winter sun; the lack of summer crowds makes cycling much safer in this area, allowing you to enjoy the cool breeze without stress."
+              }
+            },
+            {
+              "name": {
+                "de": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "hu": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "ro": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "en": "Antigua Fábrica de Azúcar/Museo del Azúcar"
+              },
+              "tip_5lang": {
+                "de": "Melegedjen fel nach der kühlen Fahrt in dieser historischen Fabrik und lernen Sie das lokale Erbe in einer gemütlichen und geschützten Umgebung kennen.",
+                "hu": "Melegedjünk át a hűvös tekerés után ebben a gyárépületben, és ismerjük meg a helyi örökséget barátságos, szélvédett környezetben, ami felüdülés lesz a kerékpározás után.",
+                "ro": "Încălziți-vă după plimbarea răcoroasă în această fabrică istorică și învățați despre moștenirea locală într-un mediu primitor și ferit de vântul rece de afară.",
+                "en": "Take a break and warm up from the cool wind inside this historic factory; it's a great place to learn about the local heritage in a cozy and sheltered environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro",
+                "hu": "Faro",
+                "ro": "Faro",
+                "en": "Faro"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zum Leuchtturm bietet an klaren Wintertagen großartige Ausblicke auf die verschneite Sierra Nevada; halten Sie kurz inne, um das Panorama zu bewundern.",
+                "hu": "A világítótoronyhoz vezető út tiszta téli napokon nagyszerű kilátást nyújt a távoli, havas Sierra Nevada csúcsaira; érdemes egy pillanatra megállni a látvány miatt.",
+                "ro": "Călătoria spre far oferă vederi superbe spre Sierra Nevada înzăpezită în zilele senine de iarnă; opriți-vă pentru un moment pentru a admira panorama spectaculoasă.",
+                "en": "The ride to the lighthouse offers great views of the snowy Sierra Nevada in the distance on clear winter days; take a moment to stop and enjoy the crisp mountain views."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro Torre del Mar",
+                "hu": "Faro Torre del Mar",
+                "ro": "Faro Torre del Mar",
+                "en": "Faro Torre del Mar"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die modernen Linien dieses Turms vor dem tiefblauen Winterhimmel fest, bevor die Sonne um fünf untergeht und es für die Weiterfahrt merklich kühler wird.",
+                "hu": "Örökítsük meg a torony modern vonalait a mélykék téli égbolt előtt, mielőtt a nap ötkor lenyugodna, és a levegő hirtelen lehűlne a kerékpározáshoz.",
+                "ro": "Surprindeți liniile moderne ale acestui far pe fundalul cerului albastru de iarnă, înainte ca soarele să apună la ora cinci și temperatura să scadă considerabil.",
+                "en": "Capture the modern lines of this lighthouse against the deep blue winter sky before the sun sets at five, after which the temperature will drop quickly for your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Yacimientos Fenicios",
+                "hu": "Yacimientos Fenicios",
+                "ro": "Yacimientos Fenicios",
+                "en": "Yacimientos Fenicios"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bei mildem Mittagswetter zu diesen phönizischen Stätten; das klare Winterlicht offenbart archäologische Details, die im grellen Sommerlicht oft untergehen.",
+                "hu": "Tekerjünk el ezekhez a föníciai lelőhelyekhez az enyhe déli időben; a tiszta téli fény olyan régészeti részleteket is felfed, amik a nyári napsütésben elvesznének.",
+                "ro": "Pedalați spre aceste situri feniciene pe vremea blândă de la prânz; lumina clară de iarnă dezvăluie detalii arheologice care sunt adesea greu de observat vara.",
+                "en": "Cycle to these Phoenician sites in the mild midday weather; the clear winter light reveals archaeological details that are often washed out by the harsh summer sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vigía Manganeta",
+                "hu": "Torre Vigía Manganeta",
+                "ro": "Torre Vigía Manganeta",
+                "en": "Torre Vigía Manganeta"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt hier, um den frühen Wintersonnenuntergang über dem Meer zu sehen; ziehen Sie für den Rückweg in der Dämmerung unbedingt eine extra Schicht an.",
+                "hu": "Fejezzük be itt a túrát, és nézzük meg a korai téli naplementét a tenger felett; a szürkületi visszaúthoz mindenképpen vegyünk fel egy plusz réteg ruhát.",
+                "ro": "Încheiați plimbarea aici pentru a vedea apusul timpuriu peste mare; puneți-vă un strat în plus de haine pentru drumul de întoarcere pe măsură ce se lasă seara.",
+                "en": "Finish your ride here to watch the early winter sunset over the sea; be sure to put on an extra layer of clothing for the ride back as the twilight chill sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen el az ősi Necròpolis fenicia de Jardin-hoz, hogy a napot mély régészeti jelentőségű környezetben kezdje. Délben kösse össze a történelmi pontokat a Yacimientos Fenicios és az elszigetelt Torre Vigía Manganeta meglátogatásával. Délután élvezze a békés kikapcsolódást a Playa naturista de Almayate hatalmas természetes partjain, majd térjen vissza a Castillo-hoz. Az estéje a város ipari örökségének izgalmas felfedezésével zárul a Cukormúzeumnál.",
         "ro": "Conduceți către antica Necròpolis fenicia de Jardin pentru a vă începe ziua înconjurați de o profundă importanță arheologică. La prânz, faceți legătura istorică vizitând Yacimientos Fenicios și izolatul Torre Vigía Manganeta. După-amiaza, bucurați-vă de o evadare liniștită pe întinderile naturale de la Playa naturista de Almayate înainte de a vedea Castillo. Seara se încheie cu o scufundare fascinantă în moștenirea industrială din zona Muzeului Zahărului.",
         "en": "Drive to the ancient Necròpolis fenicia de Jardin to start your day surrounded by profound archaeological significance. By midday, connect the historical dots with a visit to the nearby Yacimientos Fenicios and the isolated Torre Vigía Manganeta. In the afternoon, enjoy a tranquil escape at the vast natural stretches of Playa naturista de Almayate before heading back into town to see the Castillo. Your evening concludes with a fascinating dive into the town's industrial legacy at the Sugar Museum area."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrt zur Nekropole; bei starken Güssen im Auto bleiben. Mittags Ruinen und Türme am besten durch das Fenster oder mit Schirm besichtigen. Der Museumsbesuch am Nachmittag ist das Highlight. Abendliche Fahrt durch die nebligen Straßen.",
+            "hu": "Reggeli autózás a nekrópoliszhoz; heves záporok idején maradjunk a kocsiban. Délben a romokat és a tornyot leginkább az ablakból vagy esernyővel nézzük meg. A délutáni múzeumlátogatás az esős nap fénypontja. Esti vezetés a ködös utcákon át.",
+            "ro": "Conducere de dimineață spre necropolă; rămâneți în mașină în timpul averselor puternice. La prânz, ruinele și turnul sunt cel mai bine văzute prin geam sau cu umbrela. Vizita la muzeu este punctul culminant. Conducerea de seară prin străzile încețoșate.",
+            "en": "Morning drive to the necropolis; stay in the car during heavy bursts. At noon, the ruins and tower are best seen through the window or with a sturdy umbrella. The afternoon museum visit is the highlight. Evening drive back through the misty streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Necròpolis fenicia de Jardin",
+                "hu": "Necròpolis fenicia de Jardin",
+                "ro": "Necròpolis fenicia de Jardin",
+                "en": "Necròpolis fenicia de Jardin"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diese antiken Gräber bequem vom Auto aus oder werfen Sie einen kurzen Blick darauf, wenn der Regen nachlässt, um nicht völlig durchnässt zu werden.",
+                "hu": "Nézzük meg az ősi sírokat az autónk kényelméből, vagy vessünk rájuk egy gyors pillantást, ha az eső épp alábbhagy kicsit, elkerülve, hogy teljesen elázzunk.",
+                "ro": "Vedeți aceste morminte antice din confortul mașinii sau aruncați o privire rapidă dacă ploaia se mai potolește puțin, pentru a evita să vă udați complet.",
+                "en": "View these ancient tombs from the comfort of your car or take a quick look if the rain eases up slightly to avoid getting completely soaked at this outdoor site."
+              }
+            },
+            {
+              "name": {
+                "de": "Yacimientos Fenicios",
+                "hu": "Yacimientos Fenicios",
+                "ro": "Yacimientos Fenicios",
+                "en": "Yacimientos Fenicios"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich und nutzen Sie einen stabilen Schirm, um die phönizischen Überreste trotz des Regens und der rutschigen Wege sicher besichtigen zu können.",
+                "hu": "Parkoljunk a lehető legközelebb, és használjunk stabil esernyőt, hogy az eső és a csúszós utak ellenére is biztonságosan láthassuk a föníciai romokat.",
+                "ro": "Parcați cât mai aproape și folosiți o umbrelă rezistentă pentru a vedea vestigiile feniciene în ciuda ploii și a potecilor care pot deveni alunecoase acum.",
+                "en": "Park as close as possible and use a sturdy umbrella to see the Phoenician remains despite the rain and the paths that might be slippery underfoot today."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vigía Manganeta",
+                "hu": "Torre Vigía Manganeta",
+                "ro": "Torre Vigía Manganeta",
+                "en": "Torre Vigía Manganeta"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp ist am besten, da die unbefestigte Zufahrtsstraße zum Turm bei starkem Regen schlammig werden kann; bleiben Sie mit dem Wagen lieber auf sicherem Grund.",
+                "hu": "Egy rövid megálló a legjobb, mivel a toronyhoz vezető földút heves esőzés esetén saras és nehezen járható lehet; maradjunk az autóval a szilárdabb burkolaton.",
+                "ro": "O oprire scurtă este cea mai bună, deoarece drumul de acces spre turn poate deveni noroios pe ploaie puternică; păstrați mașina pe zonele cu pavaj sigur.",
+                "en": "A brief stop is best as the access road to the tower can get quite muddy and difficult during heavy rain; try to keep your car on the firmer paved sections nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa naturista de Almayate",
+                "hu": "Playa naturista de Almayate",
+                "ro": "Playa naturista de Almayate",
+                "en": "Playa naturista de Almayate"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Regen menschenleer und bietet vom Autofenster aus einen serenhaften Blick auf das graue Meer und die dramatische Brandung an der Küste.",
+                "hu": "A tengerpart esőben néptelen, így az autó ablakából nyugodt és különleges kilátás nyílik a szürke, haragos tengerre és a partot ostromló hatalmas hullámokra.",
+                "ro": "Plaja este pustie pe ploaie, oferind o vedere senină și dramatică spre marea gri chiar de la fereastra mașinii dumneavoastră, departe de agitația orașului.",
+                "en": "The beach is deserted in the rain, providing a serene and dramatic view of the grey sea and the crashing waves from the warmth and comfort of your car's window."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de Torre del Mar de 1730",
+                "hu": "Castillo de Torre del Mar de 1730",
+                "ro": "Castillo de Torre del Mar de 1730",
+                "en": "Castillo de Torre del Mar de 1730"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und bewundern Sie die Mauern vom Wagen aus; der Regen lässt die Farben der alten Steine viel kräftiger und lebendiger erscheinen als sonst.",
+                "hu": "Parkoljunk a közelben, és csodáljuk meg a falakat az autóból; az eső hatására a régi kövek színei sokkal telítettebbnek és élénkebbnek tűnnek, mint szárazon.",
+                "ro": "Parcați în apropiere și admirați zidurile din mașină; ploaia face ca culorile pietrelor vechi să pară mult mai intense și mai vii decât în zilele însorite.",
+                "en": "Park nearby and admire the walls from your car; the rain brings out the rich, deep colors of the old stones, making them look more vibrant than they do in dry weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "hu": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "ro": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "en": "Antigua Fábrica de Azúcar/Museo del Azúcar"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Zwischenstopp, um einem heftigen Regenschauer zu entgehen und im Inneren des Museums in die lokale Industriegeschichte einzutauchen.",
+                "hu": "Tökéletes fedett megálló, hogy elmeneküljünk a zápor elől, és a múzeum belsejében elmerüljünk a helyi ipartörténeti érdekességekben, amíg eláll az eső.",
+                "ro": "Aceasta este oprirea interioară ideală pentru a scăpa de o ploaie torențială și pentru a vă cufunda în istoria industrială locală în timp ce așteptați să se însenineze.",
+                "en": "This is the perfect indoor stop to escape a heavy downpour and immerse yourself in local industrial history inside the museum while waiting for the weather to clear up."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Factory Tower",
+                "hu": "Old Factory Tower",
+                "ro": "Old Factory Tower",
+                "en": "Old Factory Tower"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Wahrzeichen aus dem Fahrzeug heraus; die Umgebung ist heute besonders anfällig für große Pfützen, was das Aussteigen etwas mühsam machen kann.",
+                "hu": "Nézzük meg ezt a látványosságot az autóból; a környező területen ma nagy tócsák kialakulására kell számítani, ami nehézkessé tenné a gyalogos megközelítést.",
+                "ro": "Vedeți acest punct de reper din vehicul; zona înconjurătoare este predispusă la formarea unor bălți mari astăzi, ceea ce ar putea face coborârea din mașină dificilă.",
+                "en": "View this landmark from your vehicle; the surrounding area is prone to large puddles today, which might make getting out of the car a bit messy and inconvenient."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle morgendliche Fahrt zu den historischen Stätten. Mittags Erkundung der phönizischen Wurzeln in der hellen Sonne. Der Museumsbesuch am Nachmittag ist warm und lehrreich. Abend am Strand und Fabrikturm, wenn die Sonne früh um 17:00 Uhr untergeht.",
+            "hu": "Hűvös reggeli autózás a történelmi helyszínekre. Délben a föníciai gyökerek felfedezése a ragyogó napsütésben. A délutáni múzeumlátogatás meleg és tanulságos. Este a tengerparton és a gyárkéménynél, ahogy a nap korán, 17:00-kor lebukik.",
+            "ro": "Conducere răcoroasă de dimineață spre siturile istorice. La prânz, explorarea rădăcinilor feniciene sub soarele strălucitor. Vizita la muzeu este caldă și educativă. Seara la plajă și la turnul fabricii, pe măsură ce soarele apune devreme, la ora 17:00.",
+            "en": "Cool morning drive to historic sites. Midday exploration of Phoenician roots in the bright sun. Afternoon museum visit is warm and educational. Evening at the beach and factory tower as the sun sets early at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Necròpolis fenicia de Jardin",
+                "hu": "Necròpolis fenicia de Jardin",
+                "ro": "Necròpolis fenicia de Jardin",
+                "en": "Necròpolis fenicia de Jardin"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die alten Steine wunderschön; es ist jetzt viel angenehmer zu erkunden als in der flimmernden, unerträglichen Sommerhitze.",
+                "hu": "Az alacsony téli napfény gyönyörűen világítja meg az ősi köveket; sokkal kellemesebb most felfedezni a területet, mint a nyári hőségben és párában.",
+                "ro": "Soarele jos de iarnă luminează superb pietrele antice; este mult mai confortabil de explorat acum decât în căldura toridă și umiditatea ridicată a verii.",
+                "en": "The low winter sun illuminates the ancient stones beautifully; it is much more comfortable to explore the site now than in the shimmering, unbearable summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Yacimientos Fenicios",
+                "hu": "Yacimientos Fenicios",
+                "ro": "Yacimientos Fenicios",
+                "en": "Yacimientos Fenicios"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese Ruinen in der klaren Morgenluft; die Winteratmosphäre ermöglicht eine hervorragende Sicht auf die gesamte Anlage und die Details der Ausgrabungen.",
+                "hu": "Látogassuk meg a romokat a tiszta reggeli levegőben; a téli atmoszféra kiváló láthatóságot biztosít a teljes régészeti helyszínen és a feltárt részleteken.",
+                "ro": "Vizitați aceste ruine în aerul curat al dimineții; atmosfera clară de iarnă oferă o vizibilitate excelentă asupra întregului sit și a detaliilor excavărilor.",
+                "en": "Visit these ruins in the crisp morning air; the clear winter atmosphere provides excellent visibility of the entire archaeological layout and the excavated details."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vigía Manganeta",
+                "hu": "Torre Vigía Manganeta",
+                "ro": "Torre Vigía Manganeta",
+                "en": "Torre Vigía Manganeta"
+              },
+              "tip_5lang": {
+                "de": "Eine Panoramafahrt zum Turm; die Meeresbrise ist scharf, halten Sie also Ihren Mantel bereit, wenn Sie für Fotos aus dem Wagen steigen, da es am Wasser windig ist.",
+                "hu": "Látványos autózás a toronyhoz; a tengeri szél metsző, ezért tartsuk készenlétben a kabátunkat, ha kiszállunk fotózni, mert a vízparton felerősödik a szél.",
+                "ro": "O plimbare pitorească spre turn; briza iernii este tăioasă, deci țineți haina la îndemână când coborâți pentru fotografii, deoarece lângă apă vântul este puternic.",
+                "en": "A scenic drive to the coastal tower; the winter breeze is sharp, so keep your coat handy when stepping out for photos as the wind is much stronger by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa naturista de Almayate",
+                "hu": "Playa naturista de Almayate",
+                "ro": "Playa naturista de Almayate",
+                "en": "Playa naturista de Almayate"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die herbe Schönheit der Winterküste; ein friedlicher Ort für einen kurzen Spaziergang am Meer, bevor die Temperatur am späten Nachmittag schnell abfällt.",
+                "hu": "Élvezzük a téli partvidék zord szépségét; békés hely egy rövid tengerparti sétához, mielőtt a hőmérséklet a késő délutáni órákban hirtelen lecsökkenne.",
+                "ro": "Bucurați-vă de frumusețea austeră a coastei iarna; este un loc liniștit pentru o scurtă plimbare înainte ca temperatura să scadă brusc spre sfârșitul zilei.",
+                "en": "Enjoy the stark beauty of the winter coastline; it is a peaceful spot for a short walk by the sea before the temperature drops quickly in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de Torre del Mar de 1730",
+                "hu": "Castillo de Torre del Mar de 1730",
+                "ro": "Castillo de Torre del Mar de 1730",
+                "en": "Castillo de Torre del Mar de 1730"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Burgmauern wirken im sanften Nachmittagslicht am besten; das kühle Wetter ist ideal für einen entspannten Rundgang ohne die sommerliche Hitze.",
+                "hu": "A történelmi várfalak a lágy délutáni fényben mutatnak a legjobban; a hűvös idő ideális egy pihentető körsétához a falak mentén, a nyári kánikula nélkül.",
+                "ro": "Zidurile istorice ale castelului arată cel mai bine în lumina blândă a după-amiezii; vremea răcoroasă este ideală pentru o plimbare relaxată fără arșița verii.",
+                "en": "The historic castle walls look best in the soft afternoon light; the cool weather is ideal for a relaxed walk around the fortifications without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "hu": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "ro": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+                "en": "Antigua Fábrica de Azúcar/Museo del Azúcar"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem faszinierenden Museum auf und entdecken Sie die süße Geschichte von Torre del Mar, geschützt vor dem kalten und schneidenden Winterwind.",
+                "hu": "Melegedjünk fel ebben a lenyűgöző múzeumban, és fedezzük fel Torre del Mar édes történetét a téli, metsző szél elől védett, kellemes belső terekben.",
+                "ro": "Încălziți-vă în acest muzeu fascinant și descoperiți istoria dulce a orașului Torre del Mar, fiind feriți de vântul rece și tăios de iarnă în interior.",
+                "en": "Warm up inside this fascinating museum and discover the sweet history of Torre del Mar, safely away from the cold and biting winter wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Factory Tower",
+                "hu": "Old Factory Tower",
+                "ro": "Old Factory Tower",
+                "en": "Old Factory Tower"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie bis 16:45 Uhr hierher, um den Turm silhouettiert gegen die leuchtenden Farben des frühen Wintersonnenuntergangs zu sehen, bevor es dunkel und kalt wird.",
+                "hu": "Érkezzünk ide 16:45-ig, hogy láthassuk a torony sziluettjét a korai téli naplemente vibráló színei előtt, mielőtt teljesen besötétedne és lehűlne a levegő.",
+                "ro": "Ajungeți aici până la ora 16:45 pentru a vedea turnul siluetat pe culorile vibrante ale apusului timpuriu de iarnă, înainte ca frigul serii să se instaleze.",
+                "en": "Arrive here by 16:45 to see the tower silhouetted against the vibrant colors of the early winter sunset before it gets dark and the evening chill sets in."
+              }
+            }
+          ]
+        }
       }
     }
   }

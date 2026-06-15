@@ -206,6 +206,252 @@
         "hu": "Kezdje a reggelt a Vieux Montluçon macskaköves utcáin, majd fedezze fel a Bourbon hercegek várát. A nap közepén csodálja meg a Tizenkét Apostol házát és a Saint-Pierre templomot. Délután merüljön el a MuPop zenei gyűjteményeiben és látogassa meg a Notre-Dame templomot. Az estét a Gabrielle Robinne Színháznál és a lenyűgöző Városházánál zárja.",
         "ro": "Începeți dimineața pe străzile pietruite din Vieux Montluçon, urcând apoi la Castelul Ducilor de Bourbon. La prânz, admirați Casa celor Doisprezece Apostoli și Biserica Saint-Pierre. Petreceți după-amiaza explorând colecțiile muzicale de la MuPop și eleganta Biserică Notre-Dame. Încheiați seara la Teatrul Gabrielle Robinne și la impresionanta Primărie.",
         "en": "Start your morning wandering the cobblestones of Vieux Montluçon before ascending to the grand Castle of the Dukes of Bourbon. Midday features the striking timber frame of the House of the Twelve Apostles and the serene Saint-Pierre Church. Spend the afternoon marveling at the rich musical collections of MuPop and the elegant Notre-Dame Church. End the evening admiring the Gabrielle Robinne Theatre and the Town Hall."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie die mittelalterlichen Gassen, die im Regen glänzen; achten Sie auf rutschiges Kopfsteinpflaster. Mittags bietet die Burg Schutz hinter dicken Mauern. Am Nachmittag ist das MuPop der perfekte Ort, um stundenlang im Trockenen in die Musikgeschichte einzutauchen. Der Tag endet an der Mairie, während die Lichter der Stadt in den Pfützen auf dem Platz reflektieren.",
+            "hu": "Reggel a középkori negyed esőben csillogó utcáit járjuk be, ahol a szűk falak némi védelmet nyújtanak. Délben a vár udvarain keresünk menedéket a zápor elől. Délután a MuPop múzeum kiváló választás, hogy órákig szárazon maradjunk a hangszerek között. Estére a városháza környéki fények és a vizes aszfalt tükröződései zárják a hangulatos, esős városi sétát.",
+            "ro": "Dimineața explorăm străzile medievale care strălucesc în ploaie; atenție la pavajul alunecos din centrul vechi. La prânz, castelul oferă adăpost între zidurile sale groase. După-amiaza, MuPop este locul ideal pentru a petrece ore în șir la adăpost, descoperind istoria muzicii. Ziua se încheie la primărie, unde luminile orașului se reflectă spectaculos în bălțile de pe platoul central.",
+            "en": "Morning explores the medieval alleys shining in the rain; watch out for slippery cobblestones in the old town. At noon, the castle provides shelter within its thick historical walls. Afternoon at MuPop is the perfect indoor escape to enjoy music history for hours. The day ends near the Town Hall, as city lights reflect beautifully on the wet pavement of the main square."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vieux Montluçon",
+                "hu": "Vieux Montluçon",
+                "ro": "Vieux Montluçon",
+                "en": "Vieux Montluçon"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fachwerkhäuser unter dem Regenschirm; die engen Gassen bieten etwas Schutz vor dem Wind, aber das Pflaster ist rutschig.",
+                "hu": "Csodálja meg a fagerendás házakat az esernyő alól; a szűk utcák védenek a széltől, de a nedves macskakő fokozott óvatosságot igényel.",
+                "ro": "Admirați casele cu bârne de lemn sub umbrelă; străzile înguste oferă protecție contra vântului, dar pavajul devine foarte alunecos.",
+                "en": "Admire the timber-framed houses under your umbrella; the narrow streets offer some wind protection, but the wet stones are slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss der Herzöge von Bourbon",
+                "hu": "Bourbon hercegek vára",
+                "ro": "Castelul Ducilor de Bourbon",
+                "en": "Castle of the Dukes of Bourbon"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche der Burgterrasse für den Ausblick; die massiven Mauern halten den Schlagregen effektiv von Ihnen fern.",
+                "hu": "Használja ki a várterasz fedett részeit a kilátáshoz; a masszív falak hatékonyan távol tartják az éles irányú záporokat és a szelet.",
+                "ro": "Folosiți zonele acoperite ale terasei castelului pentru panoramă; zidurile masive vă protejează eficient de ploaia tăioasă și vânt.",
+                "en": "Use the covered areas of the castle terrace for views; the massive walls effectively shield you from driving rain and wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Zwölf Apostel",
+                "hu": "Tizenkét Apostol háza",
+                "ro": "Casa celor Doisprezece Apostoli",
+                "en": "House of the Twelve Apostles"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die kunstvollen Schnitzereien schnell von einem geschützten Hauseingang gegenüber, um die Details ohne nassen Rücken zu sehen.",
+                "hu": "Nézze meg a faragványokat egy szemközti védett kapualjból, így alaposan megfigyelheti a részleteket anélkül, hogy elázna a háta.",
+                "ro": "Observați sculpturile detaliate dintr-un gang protejat de vizavi, pentru a vedea detaliile fără să vă udați hainele în ploaie.",
+                "en": "Observe the intricate carvings from a sheltered doorway opposite to see the details clearly without getting your back soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Dieser ruhige Rückzugsort ist ideal, um einen starken Regenschauer abzuwarten und dabei die romanische Architektur im Trockenen zu bewundern.",
+                "hu": "Ez a csendes menedékhely tökéletes egy erősebb zápor átvészelésére, miközben szárazon csodálhatja meg a román stílusú építészetet.",
+                "ro": "Acest refugiu liniștit este ideal pentru a aștepta trecerea unei averse, admirând arhitectura romanică într-un mediu uscat.",
+                "en": "This quiet sanctuary is ideal for waiting out a heavy downpour while admiring the Romanesque architecture in a dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "MuPop",
+                "hu": "MuPop",
+                "ro": "MuPop",
+                "en": "MuPop"
+              },
+              "tip_5lang": {
+                "de": "Das ultimative Schlechtwetter-Ziel: Tauschen Sie den nassen Mantel gegen Kopfhörer und genießen Sie die interaktive Musikausstellung.",
+                "hu": "A végső tipp rossz időre: cserélje a vizes kabátot fejhallgatóra, és élvezze az interaktív zenei kiállítást a meleg falak között.",
+                "ro": "Destinația supremă pentru vreme rea: schimbați haina udă pe căști și bucurați-vă de expoziția interactivă de muzică la căldură.",
+                "en": "The ultimate rainy day destination: trade your wet coat for headphones and enjoy the interactive music exhibition indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in diesem gotischen Juwel und nutzen Sie das sanfte, gedämpfte Regenlicht für stimmungsvolle Fotos der Glasfenster.",
+                "hu": "Keressen menedéket ebben a gótikus ékszerdobozban; a borús idő lágy fényeiben a színes üvegablakok különleges látványt nyújtanak.",
+                "ro": "Căutați adăpost în această bijuterie gotică; lumina difuză a zilei ploioase oferă o perspectivă unică asupra vitraliilor colorate.",
+                "en": "Seek shelter in this Gothic gem; the soft, muted light of a rainy day provides a unique perspective on the stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Gabrielle Robinne Theater",
+                "hu": "Gabrielle Robinne Színház",
+                "ro": "Teatrul Gabrielle Robinne",
+                "en": "Gabrielle Robinne Theatre"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im Regen besonders dramatisch; stellen Sie sich unter das Vordach, um die architektonischen Details trocken zu betrachten.",
+                "hu": "A homlokzat esőben különösen drámai hatást kelt; álljon az előtető alá, hogy szárazon figyelhesse meg az építészeti részleteket.",
+                "ro": "Fațada arată dramatic în ploaie; stați sub copertina de la intrare pentru a observa detaliile arhitecturale fără a vă uda.",
+                "en": "The facade looks particularly dramatic in the rain; stand under the entrance canopy to observe architectural details while dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour unter den Arkaden in der Nähe, wo Sie geschützt auf ein Taxi oder den Bus warten können, falls es stärker regnet.",
+                "hu": "Zárja a túrát a közeli árkádok alatt, ahol védett helyen várhatja meg a buszt vagy taxit, ha az eső intenzívebbé válna.",
+                "ro": "Încheiați turul sub arcadele din apropiere, unde puteți aștepta autobuzul sau taxiul la adăpost dacă ploaia devine mai intensă.",
+                "en": "End your tour under the nearby arcades, where you can wait for a bus or taxi sheltered if the rain becomes more intense."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Montluçon beginnt frostig; die mittelalterliche Altstadt wirkt in der kalten Luft fast magisch. Mittags wärmen Sie sich in den Kirchen oder im Schloss auf. Der Nachmittag gehört dem MuPop, wo Sie der Kälte entfliehen können. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen Sie die festliche Beleuchtung der Mairie in der frühen Dämmerung.",
+            "hu": "A téli reggel fagyosan indul Montluçonban; az óváros szűk utcái misztikusak a hideg levegőben. Délben a vár és a templomok falai között keresünk enyhülést a metsző szél elől. A délutánt a MuPop melegében töltjük, ami tökéletes búvóhely. Mivel 17:00 körül sötétedik, a városháza fényeit már kora este, ünnepi hangulatban csodálhatjuk meg.",
+            "ro": "Dimineața de iarnă începe geroasă; orașul vechi pare desprins din basme în aerul rece. La prânz, ne încălzim în biserici sau în interiorul castelului. După-amiaza este dedicată MuPop, refugiul perfect contra frigului de afară. Deoarece soarele apune în jur de ora 17:00, profitați de iluminatul festiv al primăriei încă de la începutul serii.",
+            "en": "The winter morning starts frosty; the old town feels mystical in the crisp air. At noon, warm up inside the churches or the castle's interior. The afternoon is best spent in the cozy warmth of MuPop. Since the sun sets around 17:00, you can enjoy the festive lights of the Town Hall and the early evening atmosphere of the city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vieux Montluçon",
+                "hu": "Vieux Montluçon",
+                "ro": "Vieux Montluçon",
+                "en": "Vieux Montluçon"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten und festes Schuhwerk gegen Bodenkälte; die schattigen Gassen der Altstadt können im Winter sehr zugig sein.",
+                "hu": "Öltözzön rétegesen és viseljen hőszigetelt lábbelit; az óváros árnyékos, szűk utcáin télen gyakran felerősödik a hideg huzat.",
+                "ro": "Purtați haine stratificate și încălțăminte izolantă; străzile umbrite ale centrului vechi pot fi foarte reci și curentate iarna.",
+                "en": "Wear warm layers and insulated footwear; the shaded, narrow streets of the old town can be very drafty and cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss der Herzöge von Bourbon",
+                "hu": "Bourbon hercegek vára",
+                "ro": "Castelul Ducilor de Bourbon",
+                "en": "Castle of the Dukes of Bourbon"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die verschneiten Dächer ist herrlich, aber windig; planen Sie die Innenbesichtigung ein, um sich aufzuwärmen.",
+                "hu": "A kilátás a havas tetőkre csodás, de a szél metsző lehet; iktasson be egy belső látogatást a vár termeiben, hogy felmelegedjen.",
+                "ro": "Panorama asupra acoperișurilor ninse este superbă, dar vântul e tăios; vizitați interiorul castelului pentru a vă încălzi puțin.",
+                "en": "The view over snowy rooftops is wonderful but windy; plan an indoor visit to the castle rooms to warm up between walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Zwölf Apostel",
+                "hu": "Tizenkét Apostol háza",
+                "ro": "Casa celor Doisprezece Apostoli",
+                "en": "House of the Twelve Apostles"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details kurz und gehen Sie dann zügig weiter, um in Bewegung zu bleiben und die Körperwärme in der Kälte zu halten.",
+                "hu": "Csodálja meg gyorsan a faragott részleteket, majd haladjon tovább lendületesen, hogy mozgásban maradva megőrizze testhőmérsékletét.",
+                "ro": "Admirați rapid detaliile sculptate, apoi mergeți mai departe în pas vioi pentru a vă menține căldura corporală în aerul rece.",
+                "en": "Admire the carved details briefly and keep moving at a brisk pace to maintain your body heat in the freezing winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern schützen vor dem eisigen Wind; nutzen Sie die Stille für eine meditative Pause im windgeschützten Innenraum.",
+                "hu": "A vastag kőfalak védenek a jeges szél ellen; használja ki a csendet egy meditatív szünetre a szélvédett, nyugodt belső térben.",
+                "ro": "Zidurile groase de piatră vă protejează de vântul înghețat; profitați de liniște pentru o pauză scurtă în interiorul ferit de curent.",
+                "en": "The thick stone walls protect you from the icy wind; use the silence for a meditative break in the wind-sheltered interior."
+              }
+            },
+            {
+              "name": {
+                "de": "MuPop",
+                "hu": "MuPop",
+                "ro": "MuPop",
+                "en": "MuPop"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für den Nachmittag: Die interaktive Welt der Musik ist beheizt und bietet stundenlange Unterhaltung fernab der Kälte.",
+                "hu": "A délután ideális helyszíne: a zene interaktív világa jól fűtött, és órákig tartó szórakozást nyújt, távol a kinti fagyoktól.",
+                "ro": "Locul ideal pentru după-amiază: lumea interactivă a muzicii este bine încălzită și oferă divertisment de calitate departe de ger.",
+                "en": "The ideal afternoon spot: the interactive world of music is well-heated and offers hours of entertainment away from the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "In der frühen Dämmerung wirken die Kerzen im Inneren besonders einladend; ein kurzer Stopp hilft, die Kälte des Nachmittags zu vergessen.",
+                "hu": "A korai szürkületben a belső gyertyafények különösen hívogatóak; egy rövid megálló segít elfeledni a délutáni hideget.",
+                "ro": "În amurgul timpuriu, lumina lumânărilor din interior este primitoare; o scurtă oprire vă ajută să uitați de frigul de afară.",
+                "en": "In the early dusk, the interior candlelight feels especially welcoming; a short stop here helps you forget the afternoon chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Gabrielle Robinne Theater",
+                "hu": "Gabrielle Robinne Színház",
+                "ro": "Teatrul Gabrielle Robinne",
+                "en": "Gabrielle Robinne Theatre"
+              },
+              "tip_5lang": {
+                "de": "Die beleuchtete Fassade bietet ein tolles Motiv für Abendfotos; denken Sie an Handschuhe, um die Kamera bei Frost zu bedienen.",
+                "hu": "A kivilágított homlokzat remek téma az esti fotókhoz; ne felejtsen el kesztyűt húzni, ha a fagyban hosszabban fotózna.",
+                "ro": "Fațada iluminată este un subiect excelent pentru fotografii de seară; nu uitați mănușile pentru a manevra camera în frig.",
+                "en": "The illuminated facade is a great subject for evening photos; remember gloves to operate your camera in the freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Tour endet im Lichterglanz der Stadt; suchen Sie sich danach ein gemütliches Café mit heißer Schokolade in der Nähe auf.",
+                "hu": "A túra a város esti fényeiben ér véget; keressen utána egy közeli hangulatos kávézót egy bögre forró csokoládéra a felmelegedéshez.",
+                "ro": "Turul se încheie sub luminile festive; după aceea, căutați o cafenea primitoare în apropiere pentru o ciocolată caldă.",
+                "en": "The tour ends amidst the city lights; afterwards, seek out a cozy nearby café for a hot chocolate to warm up completely."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +629,224 @@
         "hu": "Élvezze a reggeli tekerést a festői Berry csatorna mentén, és látogassa meg a Saint-Paul templomot. Délben kerekezzen a középkori központba, hogy felfedezze a Bourbon hercegek várát. Délután merüljön el a MuPop múzeum kiállításaiban, és tekintse meg a történelmi Városházát. Zárja a túrát az ipari Glacerie gyaloghídnál.",
         "ro": "Bucurați-vă de o plimbare matinală de-a lungul pitorescului Canal de Berry și vizitați Biserica Saint-Paul. La prânz, pedalați spre centrul medieval pentru a explora Castelul Ducilor de Bourbon. După-amiaza, vizitați muzeul MuPop și admirați Primăria istorică. Încheiați traseul la pasarela industrială Glacerie.",
         "en": "Enjoy a crisp morning ride along the scenic Canal de Berry and visit the peaceful Saint-Paul Church. Around noon, pedal towards the medieval center to explore the imposing Castle of the Dukes of Bourbon and the House of the Twelve Apostles. In the afternoon, dive into the fascinating MuPop museum and view the historic Town Hall. Conclude your ride at the industrial Glacerie Footbridge."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf dem Rad beginnt am Canal de Berry, wo der Asphalt rutschig sein kann. Mittags bieten die Kirchen trockene Pausenstationen. Den Nachmittag verbringen Sie entspannt im MuPop, während Ihr Rad sicher draußen steht. Achten Sie bei der Fahrt zur Glacerie-Brücke auf Pfützen und tragen Sie unbedingt wasserfeste Kleidung für die gesamte Strecke.",
+            "hu": "Az esős bringás nap a Berry-csatornánál indul, ahol a nedves út csúszós lehet. Délben a templomok látogatása kínál száraz pihenőt. A délutánt a MuPop múzeumban töltjük, távol az esőtől. A Glacerie híd felé menet ügyeljen a tócsákra, és mindenképpen viseljen teljes vízhatlan felszerelést, mivel a városi szakaszokon nincs sok fedett rész.",
+            "ro": "O zi ploioasă pe bicicletă începe la Canal de Berry, unde asfaltul umed poate fi alunecos. La prânz, vizitarea bisericilor oferă pauze uscate. După-amiaza o petrecem la MuPop, feriți de ploaie. În drum spre pasarela Glacerie, atenție la bălți și purtați neapărat echipament impermeabil complet pentru tot traseul prin oraș.",
+            "en": "A rainy bike day starts at Canal de Berry, where wet paths require extra caution. At noon, church visits offer dry rest stops. Spend the afternoon at MuPop, safely away from the downpour. Heading towards the Glacerie bridge, watch out for deep puddles and ensure you wear full waterproof gear, as many sections lack overhead cover."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Canal de Berry",
+                "hu": "Berry csatorna",
+                "ro": "Canal de Berry",
+                "en": "Canal de Berry"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Treppelweg; nasses Laub und Schlamm können den Pfad rutschig machen. Schutzbleche am Rad sind heute ein Muss.",
+                "hu": "Vigyázat a vontatóúton; a nedves levelek és a sár csúszóssá tehetik az utat. A sárvédő használata ma elengedhetetlen a bringán.",
+                "ro": "Atenție pe drumul de halaj; frunzele ude și noroiul pot face poteca alunecoasă. Apărătorile de noroi sunt obligatorii astăzi.",
+                "en": "Caution on the towpath; wet leaves and mud can make the path slippery. Fenders on your bike are essential to stay dry today."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Paul",
+                "hu": "Saint-Paul templom",
+                "ro": "Biserica Saint-Paul",
+                "en": "Saint-Paul Church"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine erste Pause; parken Sie das Rad im Windschatten und genießen Sie die Ruhe im trockenen Kirchenschiff.",
+                "hu": "Jó hely az első pihenőre; parkolja le a bringát szélvédett helyen, és élvezze a csendet a templom száraz belső terében.",
+                "ro": "Un loc bun pentru prima pauză; parcați bicicleta într-un loc ferit de vânt și bucurați-vă de liniște în naosul uscat.",
+                "en": "A great spot for your first break; park your bike in a sheltered area and enjoy the peace inside the dry church interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss der Herzöge von Bourbon",
+                "hu": "Bourbon hercegek vára",
+                "ro": "Castelul Ducilor de Bourbon",
+                "en": "Castle of the Dukes of Bourbon"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Burg ist bei Regen anstrengender; achten Sie oben auf der Terrasse auf glatten Boden beim Absteigen vom Rad.",
+                "hu": "A várba vezető emelkedő esőben fárasztóbb; a teraszon ügyeljen a csúszós kőburkolatra, amikor leszáll a kerékpárról.",
+                "ro": "Urcarea spre castel este mai solicitantă pe ploaie; pe terasă, atenție la pavajul alunecos când coborâți de pe bicicletă.",
+                "en": "The climb to the castle is more taxing in the rain; be careful on the terrace as the stones are slippery when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Zwölf Apostel",
+                "hu": "Tizenkét Apostol háza",
+                "ro": "Casa celor Doisprezece Apostoli",
+                "en": "House of the Twelve Apostles"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Stehen; nutzen Sie einen Dachvorsprung in der Nähe, um die Fassade ohne direkten Regen im Gesicht zu bewundern.",
+                "hu": "Gyors megálló; keressen egy közeli ereszaljat, hogy az eső ellenére is nyugodtan megcsodálhassa a díszes homlokzatot.",
+                "ro": "O oprire scurtă; folosiți streașina unei case din apropiere pentru a admira fațada fără ca ploaia să vă bată direct în față.",
+                "en": "A quick stop; use a nearby eave to admire the facade without the rain hitting your face while you check the carvings."
+              }
+            },
+            {
+              "name": {
+                "de": "MuPop",
+                "hu": "MuPop",
+                "ro": "MuPop",
+                "en": "MuPop"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier Ihre längste Pause; das Museum bietet eine ideale Flucht vor dem Wetter, während Ihre Kleidung etwas trocknen kann.",
+                "hu": "Itt tervezze a leghosszabb pihenőt; a múzeum tökéletes menekülést nyújt az időjárás elől, míg a ruházata is kicsit száradhat.",
+                "ro": "Planificați aici cea mai lungă pauză; muzeul oferă refugiul ideal, permițând echipamentului să se usuce puțin la interior.",
+                "en": "Plan your longest break here; the museum is the perfect escape from the weather, allowing your gear to dry off a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Bremsen auf dem Platz Markierungen auf dem Boden, die bei Nässe für Reifen besonders rutschig werden können.",
+                "hu": "Fékezéskor kerülje a téren lévő felfestéseket és sima burkolatokat, amelyek vizesen rendkívül csúszóssá válhatnak a gumik alatt.",
+                "ro": "Evitați marcajele de pe asfalt și zonele foarte lucioase când frânați în piață, deoarece devin extrem de alunecoase pe ploaie.",
+                "en": "Avoid road markings and smooth surfaces when braking in the square, as they become extremely slippery for bike tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Glacerie-Fußgängerbrücke",
+                "hu": "Glacerie gyaloghíd",
+                "ro": "Pasarela Glacerie",
+                "en": "Glacerie Footbridge"
+              },
+              "tip_5lang": {
+                "de": "Der Metallboden der Brücke ist bei Regen extrem tückisch; schieben Sie Ihr Rad lieber sicherheitshalber über das Bauwerk.",
+                "hu": "A híd fémfelülete esőben rendkívül csalóka és veszélyes; a biztonság kedvéért inkább tolja át a kerékpárt a szerkezeten.",
+                "ro": "Suprafața metalică a pasarelei este extrem de înșelătoare pe ploaie; pentru siguranță, mai bine împingeți bicicleta pe pod.",
+                "en": "The metal surface of the bridge is treacherous in the rain; for safety, it is better to walk your bike across the structure."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Montluçon erfordert gute Handschuhe gegen den kalten Fahrtwind am Kanal. Mittags wärmen Sie sich in den historischen Gebäuden der Altstadt auf. Der Nachmittag im MuPop ist die Rettung vor der sinkenden Temperatur. Beenden Sie die Tour frühzeitig an der Glacerie-Brücke, bevor die Dunkelheit gegen 17:00 Uhr und die Bodenkälte einsetzen.",
+            "hu": "A téli bringázáshoz Montluçonban elengedhetetlen a jó kesztyű a csatorna menti hideg szél ellen. Délben az óváros történelmi épületeiben melegedünk fel. A délutáni MuPop látogatás megvéd a csökkenő hőmérséklettől. Fejezze be a túrát időben a Glacerie hídnál, mielőtt a 17:00 körüli sötétedés és az aszfalt lehűlése bekövetkezik.",
+            "ro": "Ciclismul de iarnă în Montluçon necesită mănuși bune contra vântului rece de pe canal. La prânz, ne încălzim în clădirile istorice din centrul vechi. După-amiaza la MuPop este salvarea contra temperaturilor în scădere. Încheiați turul devreme la pasarela Glacerie, înainte ca întunericul de la ora 17:00 și gerul să se instaleze.",
+            "en": "Winter cycling requires excellent gloves against the biting wind along the canal. At noon, take warmth in the historic buildings of the old town. An afternoon at MuPop is a lifesaver as temperatures drop further. Finish your tour at the Glacerie bridge before the 17:00 sunset and the evening frost make riding more difficult."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Canal de Berry",
+                "hu": "Berry csatorna",
+                "ro": "Canal de Berry",
+                "en": "Canal de Berry"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen im Schatten; der Fahrtwind am Wasser ist deutlich kälter als in den geschützten Gassen der Stadt.",
+                "hu": "Vigyázzon az árnyékos részeken megfagyott tócsákkal; a vízparti szél sokkal hidegebb, mint a város védett, szűk utcáiban.",
+                "ro": "Atenție la bălțile înghețate în zonele cu umbră; vântul de pe malul apei este mult mai rece decât pe străzile protejate din oraș.",
+                "en": "Watch out for frozen puddles in shaded areas; the wind along the water is much colder than in the sheltered city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Paul",
+                "hu": "Saint-Paul templom",
+                "ro": "Biserica Saint-Paul",
+                "en": "Saint-Paul Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen; die Kirche bietet Schutz vor dem Wind, aber behalten Sie Ihre Jacke für die Weiterfahrt lieber an.",
+                "hu": "Rövid megálló a felmelegedéshez; a templom védelmet nyújt a szél ellen, de a kabátot tartsa magán a további tekeréshez.",
+                "ro": "O scurtă oprire pentru încălzire; biserica oferă protecție contra vântului, dar păstrați haina pe dvs. pentru continuarea drumului.",
+                "en": "A short stop to warm up; the church offers protection from the wind, but keep your jacket on for the next leg of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss der Herzöge von Bourbon",
+                "hu": "Bourbon hercegek vára",
+                "ro": "Castelul Ducilor de Bourbon",
+                "en": "Castle of the Dukes of Bourbon"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das winterliche Umland ist klar, aber kalt; halten Sie sich nicht zu lange unbeweglich auf der windigen Terrasse auf.",
+                "hu": "A kilátás a téli tájra tiszta, de hideg; ne időzzön túl sokat mozdulatlanul a szeles teraszon, tartsa melegen az izmait.",
+                "ro": "Perspectiva asupra împrejurimilor de iarnă este clară, dar rece; nu stați prea mult nemișcat pe terasa bătută de vânt.",
+                "en": "The winter views are clear but cold; don't spend too much time standing still on the windy terrace to avoid getting a chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Zwölf Apostel",
+                "hu": "Tizenkét Apostol háza",
+                "ro": "Casa celor Doisprezece Apostoli",
+                "en": "House of the Twelve Apostles"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Schnitzereien kurz; die Kälte zieht in den engen Gassen schnell durch die Kleidung, wenn man nicht tritt.",
+                "hu": "Csodálja meg gyorsan a faragványokat; a szűk utcákban a hideg hamar átjárja a ruházatot, ha nem teker aktívan a bringán.",
+                "ro": "Admirați rapid sculpturile; în străzile înguste frigul pătrunde repede prin haine dacă nu pedalați activ pentru a vă încălzi.",
+                "en": "Admire the carvings quickly; in the narrow streets, the cold seeps through your clothes fast if you aren't pedaling actively."
+              }
+            },
+            {
+              "name": {
+                "de": "MuPop",
+                "hu": "MuPop",
+                "ro": "MuPop",
+                "en": "MuPop"
+              },
+              "tip_5lang": {
+                "de": "Die perfekte Winterpause: Tauen Sie bei guter Musik auf und genießen Sie die Wärme, bevor der letzte Teil der Tour im Dunkeln startet.",
+                "hu": "A tökéletes téli pihenő: melegedjen fel jó zene mellett, mielőtt a túra utolsó, sötétedésbe nyúló szakasza elindulna.",
+                "ro": "Pauza perfectă de iarnă: încălziți-vă pe fundal muzical bun înainte de ultima parte a turului care va fi pe întuneric.",
+                "en": "The perfect winter break: thaw out with great music and enjoy the warmth before starting the final leg in the early dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da es nun schnell dunkel wird und die Sichtbarkeit im Verkehr sinkt.",
+                "hu": "Ellenőrizze, hogy a kerékpáros világítás jól működik-e, mert most már gyorsan sötétedik, és romlik a láthatóság a forgalomban.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează bine, deoarece se întunecă rapid și vizibilitatea în trafic scade simțitor.",
+                "en": "Make sure your bike lights are working perfectly, as it gets dark quickly now and visibility in traffic drops significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Glacerie-Fußgängerbrücke",
+                "hu": "Glacerie gyaloghíd",
+                "ro": "Pasarela Glacerie",
+                "en": "Glacerie Footbridge"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann eisig sein; beenden Sie hier zügig Ihre Tour und kehren Sie in eine warme Unterkunft zurück.",
+                "hu": "A szél a hídon metszően hideg lehet; fejezze be itt lendületesen a túrát, és térjen vissza egy jól fűtött szálláshelyre.",
+                "ro": "Vântul pe pasarelă poate fi tăios; încheiați rapid turul aici și retrageți-vă spre un loc de cazare bine încălzit.",
+                "en": "The wind on the bridge can be freezing; finish your tour quickly here and head back to a warm indoor environment."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +1001,196 @@
         "hu": "Kezdje autós túráját a fenséges Château de Bien-Assis-nél, majd irány a Parc des Étangs de la Loue zöldellő parkja. Délben ejtse útba a háborús emlékművet és a történelmi Glacerie gyaloghidat. Délutánját a MuPop zenei múzeumban töltheti. A napot a belvárosban zárja, ahol a naplemente fényében csodálhatja meg a Bourbon hercegek várát.",
         "ro": "Începeți traseul auto la Château de Bien-Assis, îndreptându-vă apoi spre spațiile verzi din Parc des Étangs de la Loue. La prânz, treceți pe la Monumentul Eroilor și pasarela istorică Glacerie. Petreceți după-amiaza descoperind istoria muzicii la MuPop. Încheiați ziua admirând Castelul Ducilor de Bourbon în lumina apusului.",
         "en": "Kick off your driving tour at the majestic Château de Bien-Assis before heading to the green expanse of Parc des Étangs de la Loue. Midday takes you past the towering War Memorial to the historic Glacerie Footbridge. Spend your afternoon diving into French musical history at MuPop. Wrap up the day parking near the center to admire the iconic Castle of the Dukes of Bourbon at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem Regentag ist das Auto die komfortabelste Wahl für Montluçon. Starten Sie beim Château de Bien-Assis und nutzen Sie die kurzen Wege. Mittags im Park reicht ein kurzer Blick vom Parkplatz aus. Der Nachmittag gehört dem MuPop und der Burg, wo Sie die meiste Zeit im Trockenen verbringen. Achten Sie auf schlechte Sicht bei starkem Regen auf den Verbindungsstraßen.",
+            "hu": "Esős napon az autó a legkényelmesebb választás Montluçon felfedezéséhez. Kezdjen a Château de Bien-Assis-nél, kihasználva a közeli parkolást. Délben a parknál elég egy rövid séta vagy kilátás az autóból. A délutánt a MuPop és a vár belső tereiben töltheti szárazon. Erős esőben ügyeljen a korlátozott látási viszonyokra az összekötő utakon.",
+            "ro": "Într-o zi ploioasă, mașina este cea mai confortabilă opțiune pentru Montluçon. Începeți la Château de Bien-Assis, profitând de parcările apropiate. La prânz, o scurtă privire din mașină spre parc este suficientă. După-amiaza aparține MuPop și castelului, unde veți sta la adăpost. Atenție la vizibilitatea redusă pe drumurile de legătură în caz de ploaie torențială.",
+            "en": "On a rainy day, the car is the most comfortable way to explore Montluçon. Start at Château de Bien-Assis, using nearby parking to stay dry. At noon, a quick view of the park is enough before moving to the indoor highlights. Spend the afternoon at MuPop and the Castle, where you are sheltered. Be cautious of limited visibility on connecting roads during heavy downpours."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Bien-Assis",
+                "hu": "Château de Bien-Assis",
+                "ro": "Château de Bien-Assis",
+                "en": "Château de Bien-Assis"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Weg durch den Regen kurz zu halten; die Schlossmauern bieten guten Schutz.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy lerövidítse az utat az esőben; a várfalak között már védett helyen lesz.",
+                "ro": "Parcați cât mai aproape de intrare pentru a scurta drumul prin ploaie; zidurile castelului oferă o protecție foarte bună.",
+                "en": "Park as close to the entrance as possible to shorten your walk through the rain; the castle walls provide excellent shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Étangs de la Loue",
+                "hu": "Parc des Étangs de la Loue",
+                "ro": "Parc des Étangs de la Loue",
+                "en": "Parc des Étangs de la Loue"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Stimmung der Seen vom Auto aus oder machen Sie nur einen ganz kurzen Spaziergang mit einem stabilen Schirm.",
+                "hu": "Élvezze a tavak melankolikus hangulatát az autóból, vagy tegyen csak egy egészen rövid sétát egy stabil, szélálló esernyővel.",
+                "ro": "Bucurați-vă de atmosfera melancolică a lacurilor din mașină sau faceți o plimbare foarte scurtă cu o umbrelă rezistentă.",
+                "en": "Enjoy the melancholic atmosphere of the lakes from the car, or take only a very short walk with a sturdy, windproof umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegerdenkmal",
+                "hu": "Háborús emlékmű",
+                "ro": "Monumentul Eroilor",
+                "en": "War Memorial"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp; das Denkmal lässt sich gut bei einem kurzen Halt betrachten, ohne dass man lange im Regen stehen muss.",
+                "hu": "Gyors megálló; az emlékmű jól látható egy rövid kiszállás alkalmával is, nem kell sokáig az esőben tartózkodnia a megtekintéshez.",
+                "ro": "O oprire rapidă; monumentul poate fi observat ușor dintr-o scurtă oprire, fără a fi nevoie să stați mult timp în ploaie.",
+                "en": "A quick stop; the memorial can be appreciated during a brief halt without needing to spend much time out in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Glacerie-Fußgängerbrücke",
+                "hu": "Glacerie gyaloghíd",
+                "ro": "Pasarela Glacerie",
+                "en": "Glacerie Footbridge"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und gehen Sie nur kurz auf die Brücke; der Metallboden ist bei Nässe sehr rutschig, Vorsicht beim Gehen.",
+                "hu": "Parkoljon a közelben, és csak rövid időre menjen a hídra; a fémfelület vizesen nagyon csúszik, óvatosan lépkedjen rajta.",
+                "ro": "Parcați în apropiere și mergeți doar scurt pe pasarelă; suprafața metalică este foarte alunecoasă pe ploaie, mergeți cu atenție.",
+                "en": "Park nearby and take only a brief walk onto the bridge; the metal surface is very slippery when wet, so watch your step."
+              }
+            },
+            {
+              "name": {
+                "de": "MuPop",
+                "hu": "MuPop",
+                "ro": "MuPop",
+                "en": "MuPop"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie ein Parkhaus im Zentrum, um trockenen Fußes in das Museum zu gelangen und dort den regnerischen Nachmittag zu genießen.",
+                "hu": "Használjon egy központi parkolóházat, hogy száraz lábbal jusson el a múzeumba, és ott élvezze az esős délutánt a hangszerek között.",
+                "ro": "Folosiți o parcare centrală pentru a ajunge cu picioarele uscate la muzeu și bucurați-vă de după-amiaza ploioasă în interior.",
+                "en": "Use a central parking garage to reach the museum with dry feet and enjoy the rainy afternoon surrounded by music history."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss der Herzöge von Bourbon",
+                "hu": "Bourbon hercegek vára",
+                "ro": "Castelul Ducilor de Bourbon",
+                "en": "Castle of the Dukes of Bourbon"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier; das Auto wartet in der Nähe, während Sie die letzten geschichtsträchtigen Ausblicke im Trockenen genießen.",
+                "hu": "Zárja itt a napot; az autó a közelben várja, miközben Ön a vár belső tereiben vagy fedett részein élvezi az utolsó kilátást.",
+                "ro": "Încheiați ziua aici; mașina vă așteaptă în apropiere, în timp ce savurați ultimele panorame istorice de la adăpost.",
+                "en": "End your day here; the car is waiting nearby while you enjoy the final historic views from the sheltered parts of the castle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto wohlige Wärme zwischen den Stopps in Montluçon. Beginnen Sie beim Château de Bien-Assis und genießen Sie die frostige Landschaft. Mittags am Park ist die Aussicht vom beheizten Fahrzeug aus am schönsten. Der Nachmittag im MuPop bietet eine lange Aufwärmpause. Da es ab 17:00 Uhr dunkel wird, erleichtert das Auto den Rückweg bei sinkenden Temperaturen.",
+            "hu": "Télen az autó kellemes meleget nyújt a montluçoni megállók között. Kezdjen a Château de Bien-Assis-nél, csodálva a fagyos tájat. Délben a parknál a fűtött utastérből a legélvezetesebb a kilátás. A délutáni MuPop látogatás kiváló hosszú felmelegedési lehetőség. Mivel 17:00 után sötétedik, az autó megkönnyíti a hazajutást a gyorsan hűlő levegőben.",
+            "ro": "Iarna, mașina oferă căldură primitoare între opririle din Montluçon. Începeți la Château de Bien-Assis, admirând peisajul înghețat. La prânz, panorama parcului este cea mai plăcută din interiorul încălzit al mașinii. Vizita la MuPop de după-amiază este o oportunitate excelentă de încălzire. După ora 17:00, mașina face drumul de întoarcere mult mai ușor.",
+            "en": "In winter, the car provides cozy warmth between your stops in Montluçon. Start at Château de Bien-Assis and admire the frosty landscape. At noon, the park views are best enjoyed from your heated vehicle. The afternoon visit to MuPop is a great chance to warm up thoroughly. Since it gets dark after 17:00, the car makes the return journey much easier as temperatures drop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Bien-Assis",
+                "hu": "Château de Bien-Assis",
+                "ro": "Château de Bien-Assis",
+                "en": "Château de Bien-Assis"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, aber genießen Sie die Sitzheizung nach dem kurzen Rundgang um das winterliche Schloss.",
+                "hu": "Ne járassa feleslegesen a motort, de élvezze az ülésfűtést a téli vár körüli rövid, frissítő séta után, mielőtt továbbhajtana.",
+                "ro": "Nu lăsați motorul pornit inutil, dar bucurați-vă de încălzirea în scaune după scurta plimbare în jurul castelului înghețat.",
+                "en": "Don't idle the engine unnecessarily, but do enjoy the seat heating after a crisp walk around the winter castle grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Étangs de la Loue",
+                "hu": "Parc des Étangs de la Loue",
+                "ro": "Parc des Étangs de la Loue",
+                "en": "Parc des Étangs de la Loue"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Wasser; die gefrorenen Uferbereiche bieten ein tolles Fotomotiv direkt aus dem warmen Autofenster.",
+                "hu": "Parkoljon úgy, hogy rálásson a vízre; a fagyott part menti részek remek fotótémát kínálnak közvetlenül a meleg autóból is.",
+                "ro": "Parcați cu vedere spre apă; malurile înghețate oferă un subiect foto excelent chiar din fereastra caldă a mașinii.",
+                "en": "Park with a view of the water; the frozen shorelines offer a great photo opportunity directly from your warm car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegerdenkmal",
+                "hu": "Háborús emlékmű",
+                "ro": "Monumentul Eroilor",
+                "en": "War Memorial"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr kurzer Stopp reicht aus; halten Sie die Heizung im Auto bereit, damit Sie nach der Besichtigung sofort wieder warm werden.",
+                "hu": "Egy egészen rövid megálló is elég; tartsa készenlétben a fűtést, hogy a megtekintés után azonnal újra felmelegedhessen az autóban.",
+                "ro": "O oprire foarte scurtă este suficientă; mențineți căldura în mașină pentru a vă reîncălzi imediat după vizitarea monumentului.",
+                "en": "A very short stop is enough; keep the car heater ready so you can warm up immediately after stepping back inside from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Glacerie-Fußgängerbrücke",
+                "hu": "Glacerie gyaloghíd",
+                "ro": "Pasarela Glacerie",
+                "en": "Glacerie Footbridge"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf der Brücke; der Metallboden kühlt extrem schnell aus und kann im Winter spiegelglatt und gefährlich sein.",
+                "hu": "Vigyázzon a hídon esetleg előforduló jegesedésre; a fémfelület rendkívül gyorsan lehűl, és télen tükörsima, veszélyes lehet.",
+                "ro": "Atenție la poleiul de pe pasarelă; suprafața metalică se răcește extrem de repede și poate fi foarte alunecoasă iarna.",
+                "en": "Watch out for black ice on the bridge; the metal surface cools down very fast and can be treacherously slippery in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "MuPop",
+                "hu": "MuPop",
+                "ro": "MuPop",
+                "en": "MuPop"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp als Haupterlebnis des Nachmittags; die wohlige Wärme im Inneren lässt Sie die winterliche Kälte draußen vergessen.",
+                "hu": "Használja ezt a megállót a délután fő élményeként; a benti kellemes meleg segít elfelejteni a kinti metsző téli hideget.",
+                "ro": "Folosiți această oprire ca experiență principală a după-amiezii; căldura de la interior vă va face să uitați de gerul de afară.",
+                "en": "Use this stop as your main afternoon highlight; the cozy warmth inside will help you forget the freezing winter air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss der Herzöge von Bourbon",
+                "hu": "Bourbon hercegek vára",
+                "ro": "Castelul Ducilor de Bourbon",
+                "en": "Castle of the Dukes of Bourbon"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die blaue Stunde über der Stadt von der Burg aus; das Auto ermöglicht danach eine schnelle und warme Heimreise.",
+                "hu": "Élvezze a kék órát a város felett a várból; az autó lehetővé teszi, hogy utána gyorsan és melegben érjen vissza a szállására.",
+                "ro": "Bucurați-vă de ora albastră deasupra orașului de la castel; mașina vă permite apoi o întoarcere rapidă și caldă spre cazare.",
+                "en": "Enjoy the blue hour over the city from the castle; the car allows for a quick and warm return journey to your accommodation afterwards."
+              }
+            }
+          ]
+        }
       }
     }
   }

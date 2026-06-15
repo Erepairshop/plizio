@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Palazzo Daniele elegáns építészetének felfedezésével, amely az arisztokrata történelem rejtett gyöngyszeme. A dél a város civil központjába vezet, a Municipio és Vincenzo Ciardo egykori otthonához. Délután tegyen egy kényelmes sétát az ősi Menhir della Croce mellett. A napot a Spiaggia del Ciolo lenyűgöző és drámai szikláinál pihenve zárhatja tökéletesen.",
         "ro": "Începeți dimineața explorând arhitectura elegantă de la Palazzo Daniele, o bijuterie ascunsă a istoriei aristocratice. La amiază ajungeți în inima civică a orașului, descoperind Municipio și casa pictorului Vincenzo Ciardo. După-amiaza, faceți o plimbare pe lângă anticul Menhir della Croce. Încheiați ziua relaxându-vă la stâncile dramatice uimitoare de la Spiaggia del Ciolo.",
         "en": "Start your morning exploring the elegant architecture of Palazzo Daniele, a hidden gem of aristocratic history. Midday brings you to the civic heart of the town, discovering the Municipio and the preserved home of painter Vincenzo Ciardo. In the afternoon, take a leisurely stroll past the ancient Menhir della Croce. End your day relaxing by the stunning dramatic cliffs of Spiaggia del Ciolo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen in den eleganten Hallen des Palazzo Daniele. Mittags navigieren Sie mit Regenschirm durch die feuchten Straßen zum historischen Rathaus und Casa Ciardo. Am Nachmittag trotzen Sie dem Nieselregen beim antiken Menhir. Beenden Sie den Tag an der Spiaggia del Ciolo, wo das stürmische Meer eine dramatische, wenn auch nasse Küstenaussicht bietet.",
+            "hu": "Kezdje a borús reggelt a Palazzo Daniele elegáns termeiben, menedéket lelve az eső elől. Délben esernyővel a kézben fedezze fel a városházát és Ciardo egykori otthonát a vizes utcákon. Délután tegyen egy rövid sétát a Menhirhez a szitáló esőben. A napot a Spiaggia del Ciolo öbölben zárja, ahol a viharos tenger drámai látványt nyújt a szürke égbolt alatt.",
+            "ro": "Începeți dimineața ploioasă explorând sălile elegante de la Palazzo Daniele, feriți de ploaie. La prânz, navigați pe străzile umede spre primăria istorică și casa lui Ciardo cu umbrela. După-amiaza, înfruntați burnița pentru a vedea anticul Menhir. Încheiați la Spiaggia del Ciolo, unde marea agitată oferă o priveliște de coastă dramatică, deși umedă.",
+            "en": "Start your wet morning exploring the elegant halls of Palazzo Daniele, avoiding the heaviest rain. By noon, navigate the damp streets towards the historic municipal buildings and Ciardo's house with your umbrella handy. In the afternoon, brave the drizzle to see the ancient Menhir. Conclude at Spiaggia del Ciolo, where the stormy sea offers a dramatic, albeit wet, coastal view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Daniele",
+                "hu": "Palazzo Daniele",
+                "ro": "Palazzo Daniele",
+                "en": "Palazzo Daniele"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fresken im Trockenen; tragen Sie rutschfeste Schuhe für die glatten Marmorböden.",
+                "hu": "Csodálja meg a belső freskókat és az építészetet teljesen szárazon; viseljen csúszásmentes cipőt a márványpadlón.",
+                "ro": "Admirați arhitectura interioară și frescele stând la uscat; purtați încălțăminte antiderapantă.",
+                "en": "Admire the exquisite indoor architecture and frescoes while staying perfectly dry; wear non-slip shoes for the marble floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Gagliano del Capo",
+                "hu": "Municipio di Gagliano del Capo",
+                "ro": "Municipio di Gagliano del Capo",
+                "en": "Municipio di Gagliano del Capo"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historische Fassade unter einem Regenschirm und nutzen Sie die Eingangshalle als kurzen Schutz vor dem Regen.",
+                "hu": "Nézze meg a történelmi homlokzatot esernyő alól, és húzódjon be az előcsarnokba a hevesebb záporok idején.",
+                "ro": "Priviți fațada istorică sub umbrelă și verificați holul de la intrare pentru un scurt respiro din calea ploii.",
+                "en": "View the historical facade under an umbrella, and check the entrance hall for a brief respite from the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Vincenzo Ciardo",
+                "hu": "Casa Vincenzo Ciardo",
+                "ro": "Casa Vincenzo Ciardo",
+                "en": "Casa Vincenzo Ciardo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Haus des Künstlers von außen; eine wasserdichte Jacke ist wichtig, da es wenig Unterstand gibt.",
+                "hu": "Tekintse meg kívülről a művész egykori otthonát; a vízálló kabát elengedhetetlen, mivel kevés a fedett menedék.",
+                "ro": "Apreciați fosta casă a artistului de afară; jachetele impermeabile sunt esențiale deoarece adăpostul este limitat.",
+                "en": "Appreciate the artist's former home from the outside; waterproof jackets are essential as there is limited shelter around the property."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir della Croce",
+                "hu": "Menhir della Croce",
+                "ro": "Menhir della Croce",
+                "en": "Menhir della Croce"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen antiken Stein zwischen den Schauern; Vorsicht auf dem rutschigen, nassen Gras und Schlamm.",
+                "hu": "Gyorsan nézze meg ezt az ősi követ a záporok között; vigyázzon a csúszós nedves fűre és sárra a környékén.",
+                "ro": "Observați această piatră antică rapid între ploi; aveți grijă la iarba udă și alunecoasă din jurul ei.",
+                "en": "Observe this ancient standing stone quickly between showers; be careful on the slippery wet grass and mud surrounding it."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Ciolo",
+                "hu": "Spiaggia del Ciolo",
+                "ro": "Spiaggia del Ciolo",
+                "en": "Spiaggia del Ciolo"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die wilde Schönheit der brechenden Wellen im Fjord; bringen Sie eine Windjacke mit, da Böen Regenschirme nutzlos machen.",
+                "hu": "Tapasztalja meg a fjordban összecsapó hullámok vad szépségét; hozzon erős széldzsekit, mert a parti szél tönkreteszi az esernyőt.",
+                "ro": "Experimentați frumusețea sălbatică a valurilor; aduceți o jachetă rezistentă la vânt, deoarece rafalele fac umbrelele inutile.",
+                "en": "Experience the wild beauty of waves crashing in the fjord; bring a sturdy windbreaker as coastal gusts make umbrellas useless."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für einen klaren Wintermorgen im Palazzo Daniele. Mittags zeigt der kühle Spaziergang zum Municipio und Casa Ciardo den ruhigen Wintercharme der Stadt. Am Nachmittag besuchen Sie den Menhir im weichen Winterlicht. Erreichen Sie die Spiaggia del Ciolo vor dem frühen Sonnenuntergang um 17:00 Uhr, um die letzten Farben an der Küste zu sehen.",
+            "hu": "Öltözzön melegen a hűvös téli reggelre a Palazzo Daniele nyugodt pompáját élvezve. Délben a városháza és a Casa Ciardo felé tett séta felfedi a város csendes, tömeg nélküli téli báját. Délután a lágy téli fényekben látogassa meg a Menhirt. Érjen a Spiaggia del Ciolo öbölbe a korai, 17:00 órás naplemente előtt, hogy elcsípje a part menti alkonyatot a friss tengeri levegőn.",
+            "ro": "Îmbrăcați-vă călduros pentru o dimineață de iarnă la Palazzo Daniele, bucurându-vă de măreția sa. La prânz, plimbarea rece pe lângă Municipio și Casa Ciardo dezvăluie farmecul liniștit al iernii. După-amiaza, vizitați Menhirul în lumina blândă de iarnă. Ajungeți la Spiaggia del Ciolo înainte de apusul timpuriu de la 17:00 pentru a prinde culorile de coastă.",
+            "en": "Wrap up warmly for a crisp winter morning at Palazzo Daniele, enjoying its quiet grandeur. By noon, the chilly walk past the Municipio and Casa Vincenzo Ciardo reveals the town's uncrowded, peaceful winter charm. In the afternoon, visit the Menhir under the soft winter light. Reach Spiaggia del Ciolo before the early 17:00 sunset to catch the fading coastal colors in the brisk sea air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Daniele",
+                "hu": "Palazzo Daniele",
+                "ro": "Palazzo Daniele",
+                "en": "Palazzo Daniele"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur in der winterlichen Stille; dicke Socken sind ratsam, da die Steinböden sehr kalt werden.",
+                "hu": "Csodálja meg az időtlen építészetet a téli csendben; vastag zokni ajánlott, mert a kőpadló nagyon hideg tud lenni.",
+                "ro": "Minunați-vă de arhitectură în liniștea iernii; se recomandă șosete groase, deoarece podelele din piatră devin reci.",
+                "en": "Marvel at the timeless architecture in the serene winter quiet; thick socks are recommended as the grand stone floors get very cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Gagliano del Capo",
+                "hu": "Municipio di Gagliano del Capo",
+                "ro": "Municipio di Gagliano del Capo",
+                "en": "Municipio di Gagliano del Capo"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang über den Platz; tragen Sie einen warmen Schal gegen den kühlen Winterwind in den Straßen.",
+                "hu": "Tegyen egy frissítő sétát a történelmi téren; öltözzön rétegesen és viseljen meleg sálat a csípős téli szelek ellen.",
+                "ro": "Faceți o plimbare rapidă prin piața orașului; puneți-vă un fular cald pentru a bloca vânturile reci de iarnă de pe străzi.",
+                "en": "Take a brisk walk around the historic town square; layer up with a warm scarf to block the chilly winter winds channeling through the streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Vincenzo Ciardo",
+                "hu": "Casa Vincenzo Ciardo",
+                "ro": "Casa Vincenzo Ciardo",
+                "en": "Casa Vincenzo Ciardo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den freien Winterblick auf die Fassade; behalten Sie die Handschuhe an, während Sie in der kalten Luft Fotos machen.",
+                "hu": "Élvezze a homlokzat zavartalan téli látványát; tartsa magán a kesztyűt, miközben fotóz a csípős, hideg délutáni levegőn.",
+                "ro": "Bucurați-vă de vederea neobstrucționată de iarnă a fațadei; păstrați mănușile în timp ce faceți fotografii în aerul rece.",
+                "en": "Enjoy the unobstructed winter views of the facade; keep your gloves on while taking photos in the crisp, cold afternoon air."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir della Croce",
+                "hu": "Menhir della Croce",
+                "ro": "Menhir della Croce",
+                "en": "Menhir della Croce"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das antike Monument im tiefen Sonnenlicht; tragen Sie isolierte Stiefel für den kalten, harten Boden.",
+                "hu": "Nézze meg az alacsony téli nappal megvilágított ősi emlékművet; viseljen bélelt csizmát a fagyos, kemény talaj miatt.",
+                "ro": "Vedeți monumentul antic luminat de soarele de iarnă, perfect pentru fotografii; purtați cizme izolate pentru pământul rece.",
+                "en": "See the ancient monument lit by the low winter sun, perfect for photography; wear insulated boots for the cold, hard ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Ciolo",
+                "hu": "Spiaggia del Ciolo",
+                "ro": "Spiaggia del Ciolo",
+                "en": "Spiaggia del Ciolo"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie zum Strand hinunter; kommen Sie bis 16:00 Uhr an, um die dramatische Aussicht vor der frühen Dunkelheit sicher zu genießen.",
+                "hu": "Sétáljon le a strandhoz a sziklák miatt; érkezzen meg 16:00-ig, hogy biztonságban élvezze a kilátást a korai sötétedés előtt.",
+                "ro": "Coborâți la plajă pentru a vedea stâncile; încercați să ajungeți până la 16:00 pentru a vă bucura de priveliști înainte de întuneric.",
+                "en": "Hike down to the beach to see the rugged cliffs; aim to arrive by 16:00 to safely enjoy the dramatic views before the early dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpáros kalandját a város északi részén található titokzatos Cripta S. Apollonia meglátogatásával. Délben tekerjen el az ősi Menhir della Croce mellett, és csodálja meg a Palazzo Daniele-t. A délutánt a városháza és a Casa Vincenzo Ciardo felfedezésével töltheti. Az este pedig lenyűgöző naplemente-élménnyel jutalmazza meg a gyönyörű Spiaggia del Ciolo tengerpartján.",
         "ro": "Începeți aventura pe bicicletă vizitând misterioasa Criptă S. Apollonia aflată la nord de oraș. La amiază, pedalați pe lângă Menhir della Croce și admirați grandiosul Palazzo Daniele. Petreceți după-amiaza pe străzi pentru a vedea primăria și Casa Vincenzo Ciardo. Seara vă răsplătește cu o priveliște la apus la superba Spiaggia del Ciolo.",
         "en": "Kick off your cycling adventure by visiting the mysterious underground Cripta S. Apollonia just north of town. By midday, pedal past the ancient Menhir della Croce and admire the grand Palazzo Daniele in the historic center. Spend your afternoon weaving through the streets to see the town hall and Casa Vincenzo Ciardo. Your evening rewards you with a sunset view at the beautiful Spiaggia del Ciolo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre nasse Fahrt beginnt an der Cripta S. Apollonia mit kurzem, trockenem Schutz. Mittags radeln Sie vorsichtig auf rutschigen Straßen zum Menhir und Palazzo Daniele. Nachmittags fahren Sie am Municipio und Casa Ciardo vorbei. Beenden Sie die feuchte Reise an der Spiaggia del Ciolo; bremsen Sie früh auf den nassen Küstenabfahrten und genießen Sie die See.",
+            "hu": "Az esős tekerés a Cripta S. Apolloniánál indul, mely száraz menedéket is nyújt. Délben óvatosan pedálozzon a csúszós utakon a Menhirhez és a Palazzo Danielébe. Délután a városháza és a Casa Ciardo felé folytassa útját a tócsákon át. A napot a Spiaggia del Ciolo öbölnél zárja; fékezzen korán a vizes parti lejtőkön, és élvezze a borongós tengert.",
+            "ro": "Plimbarea umedă începe la Cripta S. Apollonia, oferind un scurt adăpost. La prânz, pedalați cu grijă pe drumurile alunecoase spre Menhir și Palazzo Daniele. După-amiaza, treceți pe lângă Municipio și Casa Ciardo. Terminați călătoria umedă la Spiaggia del Ciolo; frânați devreme pe coborârile umede și bucurați-vă de peisajul marin sumbru.",
+            "en": "Your wet ride starts at Cripta S. Apollonia, offering a brief, dry shelter. By noon, carefully pedal on slippery roads to the Menhir and Palazzo Daniele, taking breaks from the heavy showers. In the afternoon, splash your way past the Municipio and Casa Ciardo. Finish the damp journey at Spiaggia del Ciolo; brake early on the wet coastal descents and enjoy the moody seascape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cripta S. Apollonia",
+                "hu": "Cripta S. Apollonia",
+                "ro": "Cripta S. Apollonia",
+                "en": "Cripta S. Apollonia"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Fresken der Krypta im Trockenen; parken Sie sicher und nutzen Sie einen Sattelüberzug gegen den Regen.",
+                "hu": "Fedezze fel a kripta ősi freskóit, megmenekülve az esőtől; parkolja le biztonságosan a bringát, és tegyen fel nyeregvédőt.",
+                "ro": "Explorați frescele antice ale criptei scăpând de ploaie; parcați bicicleta în siguranță și folosiți o husă pentru șa.",
+                "en": "Explore the crypt's ancient frescoes while escaping the morning rain; park your bike safely and use a saddle cover to keep it dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir della Croce",
+                "hu": "Menhir della Croce",
+                "ro": "Menhir della Croce",
+                "en": "Menhir della Croce"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz am Menhir; bleiben Sie auf dem befestigten Weg und vermeiden Sie scharfes Bremsen auf den schlammigen Stellen.",
+                "hu": "Álljon meg egy percre megcsodálni a követ; maradjon a burkolt úton, és kerülje a hirtelen fékezést a sáros foltokon.",
+                "ro": "Opriți-vă scurt pentru a admira piatra; rămâneți pe calea pavată și evitați frânarea bruscă pe peticele noroioase.",
+                "en": "Pause briefly to admire the standing stone; stay on the paved path and avoid braking sharply on the surrounding muddy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Daniele",
+                "hu": "Palazzo Daniele",
+                "ro": "Palazzo Daniele",
+                "en": "Palazzo Daniele"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie dieses stattliche Haus; es ist klug, hier Ihre Fahrradlichter abzuwischen, bevor der Regen stärker wird.",
+                "hu": "Csodálja meg ezt a tekintélyes, lenyűgöző épületet; érdemes letörölni a kerékpárlámpákat, mielőtt az eső még jobban rákezdené.",
+                "ro": "Minunați-vă de această casă impunătoare; ștergerea luminilor bicicletei este inteligentă înainte ca ploaia să se înrăutățească.",
+                "en": "Marvel at this stately home with its impressive architecture; wiping down your bike lights here is smart before the rain worsens."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Gagliano del Capo",
+                "hu": "Municipio di Gagliano del Capo",
+                "ro": "Municipio di Gagliano del Capo",
+                "en": "Municipio di Gagliano del Capo"
+              },
+              "tip_5lang": {
+                "de": "Observieren Sie das Rathaus in Ihrer Regenkleidung; achten Sie auf tiefe Pfützen, die sich in der Nähe der Bordsteine bilden.",
+                "hu": "Figyelje meg a városközpontot vízálló felszerelésében; vigyázzon a főtér járdaszegélyeinél kialakuló mély tócsákkal.",
+                "ro": "Observați centrul municipal sub echipamentul impermeabil; atenție la bălțile adânci care se formează lângă borduri.",
+                "en": "Observe the municipal center from under your waterproof gear; watch out for deep puddles forming near the curbs of the main square."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Vincenzo Ciardo",
+                "hu": "Casa Vincenzo Ciardo",
+                "ro": "Casa Vincenzo Ciardo",
+                "en": "Casa Vincenzo Ciardo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam an der Residenz vorbei; die Sicht ist bei Regen schlecht, achten Sie auf gut sichtbare Reflektoren.",
+                "hu": "Tekerjen el lassan a történelmi rezidencia mellett; az esőben rosszak a látási viszonyok, legyen jól látható a fényvisszaverője.",
+                "ro": "Treceți încet pe lângă reședința istorică; vizibilitatea poate fi redusă, așa că asigurați-vă că echipamentul reflectorizant este vizibil.",
+                "en": "Cycle past the historic residence slowly; visibility might be low in the rain, so ensure your reflective gear is highly visible."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Ciolo",
+                "hu": "Spiaggia del Ciolo",
+                "ro": "Spiaggia del Ciolo",
+                "en": "Spiaggia del Ciolo"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den aufregenden Anblick der stürmischen Bucht; steigen Sie an der nassen Steigung ab, um gefährliches Rutschen zu vermeiden.",
+                "hu": "Tapasztalja meg a viharos öböl izgalmas látványát; szálljon le a kerékpárról a meredek, nedves lejtőn a megcsúszás elkerülése végett.",
+                "ro": "Experimentați priveliștea golfului furtunos; coborâți de pe bicicletă pe panta abruptă și umedă pentru a preveni derapajele.",
+                "en": "Experience the thrilling sight of the stormy cove; dismount your bike on the steep, wet incline to prevent dangerous skidding."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winterfahrt an der Cripta S. Apollonia mit frischer, kalter Luft. Mittags treten Sie zügig am Menhir und Palazzo Daniele vorbei, um warm zu bleiben. Nachmittags bieten die ruhigen Winterstraßen um das Municipio ungestörtes Radfahren. Erreichen Sie die Spiaggia del Ciolo deutlich vor 17:00 Uhr, um die dunklen Küstenstraßen bei Nacht zu meiden.",
+            "hu": "Kezdje a téli tekerést a Cripta S. Apolloniánál a friss, ébresztő hidegben. Délben tekerjen fürgén a Menhir és a Palazzo Daniele felé, hogy a testét melegen tartsa. Délután a városháza és a Casa Ciardo körüli csendes utcák zavartalan haladást biztosítanak. Érjen a Spiaggia del Ciolo öbölbe jóval 17:00 előtt, hogy elkerülje a sötét, kivilágítatlan parti utakat.",
+            "ro": "Începeți plimbarea de iarnă la Cripta S. Apollonia cu aer rece. La prânz, pedalați rapid pe lângă Menhir și Palazzo Daniele pentru a vă menține cald. După-amiaza, străzile liniștite din jurul Municipio și Casa Ciardo oferă ciclism neîntrerupt. Ajungeți la Spiaggia del Ciolo cu mult înainte de 17:00 pentru a evita drumurile de coastă neluminate.",
+            "en": "Kickstart your winter ride at Cripta S. Apollonia with crisp, cold air waking you up. By noon, pedal briskly past the Menhir and Palazzo Daniele to keep your body warm in the dropping temperatures. In the afternoon, the quiet winter streets around the Municipio and Casa Ciardo offer uninterrupted cycling. Reach Spiaggia del Ciolo well before 17:00 to avoid navigating the steep, unlit coastal roads in pitch darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cripta S. Apollonia",
+                "hu": "Cripta S. Apollonia",
+                "ro": "Cripta S. Apollonia",
+                "en": "Cripta S. Apollonia"
+              },
+              "tip_5lang": {
+                "de": "Admirați arta antică în pace; purtați mănuși de ciclism izolate, deoarece aerul dimineții la criptă este rece.",
+                "hu": "Csodálja meg a sziklába vájt művészetet békében; viseljen bélelt kerékpáros kesztyűt, mert a reggeli levegő a kriptánál metszően hideg.",
+                "ro": "Admirați arta antică în pace; purtați mănuși de ciclism izolate, deoarece aerul dimineții la criptă este rece.",
+                "en": "Admire the ancient rock-hewn art in peace; wear insulated cycling gloves as the morning air inside the crypt area feels biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir della Croce",
+                "hu": "Menhir della Croce",
+                "ro": "Menhir della Croce",
+                "en": "Menhir della Croce"
+              },
+              "tip_5lang": {
+                "de": "Werfen Sie einen kurzen Blick auf den Stein; bleiben Sie in Bewegung, um Ihre Körperwärme gegen die Winterbrise zu halten.",
+                "hu": "Vessen egy gyors pillantást erre a misztikus kőre; maradjon mozgásban, hogy fenntartsa testhőjét a csípős téli széllel szemben.",
+                "ro": "Aruncați o privire rapidă la această piatră; continuați să vă mișcați pentru a vă menține căldura corporală împotriva brizei.",
+                "en": "Take a quick look at this mystical standing stone; keep moving to maintain your core body heat against the brisk winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Daniele",
+                "hu": "Palazzo Daniele",
+                "ro": "Palazzo Daniele",
+                "en": "Palazzo Daniele"
+              },
+              "tip_5lang": {
+                "de": "Schätzen Sie die große Winterästhetik des Palastes; schließen Sie Ihre Thermoschichten, bevor Sie wieder Tempo aufnehmen.",
+                "hu": "Értékelje a palota fenséges téli esztétikáját; húzza fel a thermo rétegeket, mielőtt újra felgyorsítana a nyílt utakon.",
+                "ro": "Apreciați estetica de iarnă a palatului; închideți straturile termice înainte de a prinde din nou viteză pe drumuri.",
+                "en": "Appreciate the grand winter aesthetic of the palace; zip up your thermal layers before picking up speed on the open roads again."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Gagliano del Capo",
+                "hu": "Municipio di Gagliano del Capo",
+                "ro": "Municipio di Gagliano del Capo",
+                "en": "Municipio di Gagliano del Capo"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie über den friedlichen Platz; stellen Sie sicher, dass Ihre Fahrradlichter geladen sind, da Wintertage schnell dunkel werden.",
+                "hu": "Tekerjen át a békés, üres téren; győződjön meg róla, hogy a kerékpárlámpák fel vannak töltve, mert a borús délutánok hamar sötétednek.",
+                "ro": "Pedalați prin piața pașnică; asigurați-vă că luminile bicicletei sunt încărcate, deoarece după-amiezile de iarnă se întunecă rapid.",
+                "en": "Cycle through the peaceful, empty square; ensure your bike lights are fully charged, as the overcast winter afternoons get dark very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Vincenzo Ciardo",
+                "hu": "Casa Vincenzo Ciardo",
+                "ro": "Casa Vincenzo Ciardo",
+                "en": "Casa Vincenzo Ciardo"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Haus im schwindenden Licht; prüfen Sie Ihren Reifendruck, da kalte Luft ihn auf der Fahrt sinken lassen kann.",
+                "hu": "Nézze meg a történelmi otthont a halványuló fényben; ellenőrizze a guminyomást, mert a hideg levegő miatt az váratlanul leeshet a túra során.",
+                "ro": "Vedeți casa istorică în lumina palidă; verificați presiunea anvelopelor, deoarece aerul rece poate cauza o scădere neașteptată.",
+                "en": "View the historic home in the fading light; check your tire pressure as cold air can cause it to drop unexpectedly on your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Ciolo",
+                "hu": "Spiaggia del Ciolo",
+                "ro": "Spiaggia del Ciolo",
+                "en": "Spiaggia del Ciolo"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das majestätische Wintermeer; tragen Sie eine Thermomütze unter dem Helm, um sich vor der Küstenkälte zu schützen.",
+                "hu": "Legyen tanúja a fenséges téli tengernek; viseljen thermo sapkát a sisakja alatt, hogy megvédje magát a part menti hidegtől.",
+                "ro": "Fiți martorii mării maiestuoase de iarnă; purtați o șapcă termică sub cască pentru a vă proteja de frigul de pe coastă.",
+                "en": "Witness the majestic winter sea hitting the cliffs; wear a thermal skull cap under your helmet to protect against the coastal chill."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A festői autózás a történelmi Cripta S. Apollonia ősi csodájánál kezdődik, amely a táj alatt rejtőzik. Délben Castrignano del Capo felé veszi az irányt, felfedezve a Municipio-t és a San Michele-templomot. Délután térjen vissza Gagliano központjába, hogy meglátogassa a város legfontosabb palotáit. A napot a tengerparti kilátás zárja tökéletesen a Spiaggia del Ciolo öbölben.",
         "ro": "Plimbarea scenică începe la istorica Criptă S. Apollonia, o minune antică. La amiază, accentul se mută pe Castrignano del Capo, explorând primăria sa impunătoare și biserica San Michele. După-amiaza, întoarceți-vă spre Gagliano pentru a vizita principalele palate și monumente ale orașului. Ziua se încheie perfect cu o vedere panoramică la mare la Spiaggia del Ciolo.",
         "en": "Your scenic drive begins at the historic Cripta S. Apollonia, an ancient marvel hidden beneath the landscape. Midday shifts your focus to Castrignano del Capo, exploring its stately Municipio and the peaceful Chiesa di San Michele. In the afternoon, head back towards Gagliano to visit the town's key palaces and monuments. The day concludes perfectly with sea views down at Spiaggia del Ciolo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Fahrt sicher an der Cripta S. Apollonia. Mittags fahren Sie vorsichtig durch die glatten Straßen zum Municipio und zur Kirche San Michele, mit dem Auto als warme Basis. Nachmittags machen Sie kurze Regenschirm-Stopps beim Menhir, Palazzo Daniele und Casa Ciardo. Beenden Sie den Tag an der Spiaggia del Ciolo und genießen Sie die stürmische See aus dem Auto.",
+            "hu": "Kezdje az esős autózást a Cripta S. Apolloniánál. Délben vezessen óvatosan a csúszós utcákon a városháza és a San Michele templom felé, kihasználva a meleg autót. Délután tegyen gyors, esernyős megállókat a Menhir, a Palazzo Daniele és a Casa Ciardo közelében. Zárja a napot biztonságban a Spiaggia del Ciolo öbölben, élvezve a viharos tenger látványát a száraz kocsiból.",
+            "ro": "Începeți condusul ploios la Cripta S. Apollonia. La prânz, conduceți cu atenție pe străzile alunecoase spre Municipio și Biserica San Michele, folosind mașina ca bază caldă. După-amiaza, faceți opriri scurte cu umbrela la Menhir, Palazzo Daniele și Casa Ciardo. Încheiați în siguranță la Spiaggia del Ciolo, bucurându-vă de priveliștile mării din interiorul vehiculului.",
+            "en": "Start your rainy drive safely at Cripta S. Apollonia. By noon, drive carefully through the slick streets to the Castrignano Municipio and the Church of San Michele, using your car as a warm, dry base. In the afternoon, make quick umbrella stops at the Menhir, Palazzo Daniele, and Casa Ciardo. Conclude safely at Spiaggia del Ciolo, enjoying the dramatic, stormy sea vistas comfortably from inside your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cripta S. Apollonia",
+                "hu": "Cripta S. Apollonia",
+                "ro": "Cripta S. Apollonia",
+                "en": "Cripta S. Apollonia"
+              },
+              "tip_5lang": {
+                "de": "Parcați aproape de intrare pentru a evita ploaia; aduceți o lanternă puternică, deoarece norii de ploaie fac cripta mai întunecată.",
+                "hu": "Parkoljon a bejárathoz közel az eső miatt; hozzon egy erős zseblámpát, mert a sötét esőfelhők miatt a kripta sötétebb a szokásosnál.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia; aduceți o lanternă puternică, deoarece norii de ploaie fac cripta mai întunecată.",
+                "en": "Park close to the entrance to avoid the downpour; bring a strong flashlight as the gloomy rain clouds make the crypt darker than usual."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Castrignano del Capo",
+                "hu": "Municipio di Castrignano del Capo",
+                "ro": "Municipio di Castrignano del Capo",
+                "en": "Municipio di Castrignano del Capo"
+              },
+              "tip_5lang": {
+                "de": "Observieren Sie die beeindruckende Architektur des Rathauses; stellen Sie sicher, dass Ihre Scheibenwischer gut funktionieren, bevor Sie ins Zentrum fahren.",
+                "hu": "Figyelje meg a városháza lenyűgöző építészetét; győződjön meg az ablaktörlők jó állapotáról, mielőtt a forgalmas központban vezetne.",
+                "ro": "Observați arhitectura impresionantă a primăriei; asigurați-vă că ștergătoarele funcționează perfect înainte de a naviga în centru.",
+                "en": "Observe the impressive municipal architecture; ensure your windshield wipers are fully functioning before navigating the busy center."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Michele Arcangelo",
+                "hu": "Chiesa di San Michele Arcangelo",
+                "ro": "Chiesa di San Michele Arcangelo",
+                "en": "Chiesa di San Michele Arcangelo"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie die Kirche für eine trockene Zuflucht; prüfen Sie Ihre Schuhe auf Schlamm, bevor Sie wieder in Ihr sauberes Auto steigen.",
+                "hu": "Lépjen be a templomba egy békés, száraz menedékért; ellenőrizze, nincs-e sár a cipőjén, mielőtt visszaül a tiszta autójába.",
+                "ro": "Intrați în biserică pentru un refugiu uscat; verificați dacă aveți noroi pe pantofi înainte de a vă urca înapoi în mașină.",
+                "en": "Step inside the church for a peaceful, dry refuge; check for mud on your shoes before stepping back into your clean car."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir della Croce",
+                "hu": "Menhir della Croce",
+                "ro": "Menhir della Croce",
+                "en": "Menhir della Croce"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie diesen antiken Monolithen kurz vom Straßenrand; Vorsicht vor Aquaplaning auf den Pfützen entlang der Landstraßen.",
+                "hu": "Nézze meg ezt az ősi monolitot gyorsan az út széléről; vigyázzon a felúszásra a vidéki utakon kialakuló hatalmas tócsákban.",
+                "ro": "Vedeți acest monolit antic rapid de pe marginea drumului; feriți-vă de acvaplanare pe bălțile de pe drumurile rurale.",
+                "en": "View this ancient monolith quickly from the roadside; beware of hydroplaning on the puddles forming along the rural country lanes."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Daniele",
+                "hu": "Palazzo Daniele",
+                "ro": "Palazzo Daniele",
+                "en": "Palazzo Daniele"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die majestätische Fassade; parken Sie vorsichtig, da starker Regen die engen Parkplätze in der Nähe verdecken kann.",
+                "hu": "Csodálja meg a palota fenséges homlokzatát; parkoljon óvatosan, mert a heves eső erősen korlátozza a kilátást a szűk helyeken.",
+                "ro": "Minunați-vă de fațada maiestuoasă a palatului; parcați cu atenție, deoarece ploaia abundentă poate ascunde locurile de parcare.",
+                "en": "Marvel at the palazzo's majestic facade; park carefully as heavy rain can severely obscure the narrow parking spots nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Vincenzo Ciardo",
+                "hu": "Casa Vincenzo Ciardo",
+                "ro": "Casa Vincenzo Ciardo",
+                "en": "Casa Vincenzo Ciardo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam an der Residenz vorbei; kurbeln Sie das Fenster für ein schnelles Foto herunter, ohne das Fahrzeug zu verlassen.",
+                "hu": "Vezessen lassan el a művész egykori rezidenciája mellett; tekerje le az ablakot egy gyors, esőcseppes fotóért anélkül, hogy kiszállna.",
+                "ro": "Conduceți încet pe lângă reședința artistului; lăsați geamul jos pentru o fotografie rapidă, fără a părăsi vehiculul.",
+                "en": "Drive slowly past the historic artist’s residence; roll down the window for a quick, rain-spotted photo without leaving the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Ciolo",
+                "hu": "Spiaggia del Ciolo",
+                "ro": "Spiaggia del Ciolo",
+                "en": "Spiaggia del Ciolo"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die wilde Majestät des regnerischen Fjords; parken Sie sicher abseits der Klippen, da starker Regen Steinschläge verursachen kann.",
+                "hu": "Tapasztalja meg az esős fjord vad fenségét; parkoljon biztonságosan távol a sziklák szélétől, mert a sok eső kőomlást okozhat.",
+                "ro": "Experimentați măreția fiordului ploios; parcați în siguranță departe de marginile stâncilor, deoarece ploaia poate cauza căderi de pietre.",
+                "en": "Experience the fierce majesty of the rainy fjord; park safely away from cliff edges, as heavy rain can cause localized rockfalls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihre Winterfahrt beginnt warm an der Cripta S. Apollonia. Mittags fahren Sie zum Municipio und zur Kirche San Michele, wobei Sie die Autoheizung genießen. Nachmittags steigen Sie im goldenen Winterlicht kurz beim Menhir, Palazzo Daniele und Casa Ciardo aus. Erreichen Sie die Spiaggia del Ciolo vor dem Sonnenuntergang um 17:00 Uhr für die besten Dämmerungsblicke auf das kalte Meer.",
+            "hu": "A téli autózás melegen indul a Cripta S. Apolloniánál. Délben zökkenőmentesen vezessen a városháza és a San Michele templom felé, élvezve az autó fűtését a megállók között. Délután röviden pattanjon ki a Menhir, a Palazzo Daniele és a Casa Ciardo közelében a lágy téli fényekben. Érjen a Spiaggia del Ciolo öbölbe a 17:00 órás naplemente előtt a legjobb tengeri kilátásért.",
+            "ro": "Condusul de iarnă începe călduros la Cripta S. Apollonia. La prânz, navigați lin spre Municipio și Biserica San Michele, bucurându-vă de încălzirea mașinii. După-amiaza, coborâți scurt la Menhir, Palazzo Daniele și Casa Ciardo în lumina aurie de iarnă. Asigurați-vă că ajungeți la Spiaggia del Ciolo înainte de apusul de la 17:00 pentru cele mai bune priveliști la amurg.",
+            "en": "Your winter drive begins warmly at Cripta S. Apollonia. By noon, smoothly navigate to Castrignano Municipio and the Church of San Michele, enjoying the car's heater between crisp outdoor stops. In the afternoon, briefly hop out at the Menhir, Palazzo Daniele, and Casa Ciardo in the golden winter light. Ensure you reach Spiaggia del Ciolo before the dramatic 17:00 sunset for the best twilight views over the cold sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cripta S. Apollonia",
+                "hu": "Cripta S. Apollonia",
+                "ro": "Cripta S. Apollonia",
+                "en": "Cripta S. Apollonia"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierende Krypta in warmer Kleidung; nutzen Sie die Entfrostung Ihres Autos, bevor Sie sich auf den Weg machen.",
+                "hu": "Fedezze fel a lenyűgöző kriptát téli ruhákba burkolózva; használja az autó ablakfűtését a reggeli fagy eltüntetésére indulás előtt.",
+                "ro": "Explorați cripta fascinantă în haine de iarnă; folosiți degivrarea mașinii pentru a curăța înghețul dimineții înainte de a porni.",
+                "en": "Explore the fascinating crypt wrapped in winter clothes; use your car's defroster to clear the morning frost before hitting the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Castrignano del Capo",
+                "hu": "Municipio di Castrignano del Capo",
+                "ro": "Municipio di Castrignano del Capo",
+                "en": "Municipio di Castrignano del Capo"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang um das Gebäude; halten Sie heißen Tee im Auto bereit, um sich nach dem kühlen Platz aufzuwärmen.",
+                "hu": "Tegyen egy rövid sétát a lenyűgöző középület körül; tartson forró teát a kocsiban, hogy felmelegedjen a fagyos téren tett séta után.",
+                "ro": "Faceți o scurtă plimbare în jurul clădirii civice; păstrați un termos cu ceai fierbinte în mașină pentru a vă încălzi după explorare.",
+                "en": "Take a short walk around the striking civic building; keep a thermos of hot tea in the car to warm up after exploring the chilly square."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Michele Arcangelo",
+                "hu": "Chiesa di San Michele Arcangelo",
+                "ro": "Chiesa di San Michele Arcangelo",
+                "en": "Chiesa di San Michele Arcangelo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Kircheninnere abseits des kalten Windes; parken Sie in der Sonne, um das Auto auf natürliche Weise wärmer zu halten.",
+                "hu": "Csodálja meg a gyönyörű templombelsőt a metsző széltől távol; parkoljon napos helyen, hogy az autó belseje természetesen melegebb maradjon.",
+                "ro": "Admirați interiorul frumos al bisericii departe de vântul tăios; parcați în locuri însorite pentru a menține mașina mai caldă natural.",
+                "en": "Admire the beautiful church interior away from the biting wind; park in sunny spots to keep the car interior naturally warmer."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir della Croce",
+                "hu": "Menhir della Croce",
+                "ro": "Menhir della Croce",
+                "en": "Menhir della Croce"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie sicher ran, um den Stein in der Wintersonne zu sehen; achten Sie auf Glatteis in den schattigen Kurven der Umgebung.",
+                "hu": "Húzódjon le biztonságosan, hogy lássa a történelmi követ a sápadt téli napsütésben; vigyázzon a fekete jégre az árnyékos kanyarokban.",
+                "ro": "Trageți pe dreapta în siguranță pentru a vedea piatra sub soarele palid; atenție la gheața neagră pe curbele rurale umbrite din apropiere.",
+                "en": "Pull over safely to see the historic stone under the pale winter sun; watch for black ice on the shaded rural bends nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Daniele",
+                "hu": "Palazzo Daniele",
+                "ro": "Palazzo Daniele",
+                "en": "Palazzo Daniele"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die elegante Winterfassade; dicke Wintermäntel sind perfekt, da die offenen Bereiche wenig Windschutz bieten.",
+                "hu": "Tekintse meg az elegáns téli homlokzatot; a vastag télikabát itt tökéletes, mivel a palota körüli nagy nyitott terek alig védenek a széltől.",
+                "ro": "Vedeți fațada elegantă de iarnă; hainele groase de iarnă sunt perfecte aici, deoarece zonele deschise oferă puțină protecție împotriva vântului.",
+                "en": "View the elegant winter facade; heavy winter coats are perfect here as the grand open areas around the palazzo offer little wind protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Vincenzo Ciardo",
+                "hu": "Casa Vincenzo Ciardo",
+                "ro": "Casa Vincenzo Ciardo",
+                "en": "Casa Vincenzo Ciardo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Haus an einem ruhigen Winternachmittag; schalten Sie die Scheinwerfer früh ein, da die tiefe Sonne Schatten wirft.",
+                "hu": "Figyelje meg a művész házát a csendes téli délutánon; kapcsolja fel korán a fényszórókat, mert az alacsony nap hosszú árnyékokat vet.",
+                "ro": "Observați casa artistului în după-amiaza liniștită de iarnă; aprindeți farurile devreme, deoarece soarele creează umbre înșelătoare.",
+                "en": "Observe the artist's house in the quiet winter afternoon; turn on your headlights early as the low sun creates long, tricky shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Ciolo",
+                "hu": "Spiaggia del Ciolo",
+                "ro": "Spiaggia del Ciolo",
+                "en": "Spiaggia del Ciolo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Küste; kommen Sie spätestens um 16:30 Uhr an, da die kurvige Küstenstraße im Dunkeln tückisch sein kann.",
+                "hu": "Csodálja meg a drámai partvonalat; érkezzen meg legkésőbb 16:30-ra, mert a meredek parti utakon a sötétben visszavezetni veszélyes lehet.",
+                "ro": "Minunați-vă de coastă; ajungeți nu mai târziu de 16:30, deoarece drumul abrupt pe timp de noapte poate fi periculos.",
+                "en": "Marvel at the dramatic coastline; arrive no later than 16:30, as navigating the steep, winding coastal road back in the dark can be treacherous."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Reggelét Carrara szívében kezdi, ahol a Fontana del Leone friss vízzel várja. Sétáljon el a helyi hősök előtt tisztelgő monumentális, fehér márványból készült alkotások mellett.\n\nA dél a Giuseppe Mazzini örökségének felfedezéséről szól, ahol átérezheti a város történelmi mélységeit. A márvánnyal burkolt utcák természetes módon vezetnek a nagy villák felé.\n\nDélután merüljön el a művészetben és a történelemben a Villa Fabbricottiban található CARMI múzeumban. A kiállítások gyönyörűen részletezik a város és a kő kapcsolatát.\n\nZárja a napot a Belvedere kilátónál, nézve, ahogy a nap lebukik az Apuan-Alpok mögött. Az aranyóra megvilágítja a távoli bányákat, tökéletes búcsút véve a csodás Carrarától.",
         "ro": "Dimineața ta începe în inima orașului Carrara, unde Fontana del Leone te întâmpină cu apă proaspătă. Plimbă-te pe lângă tributurile monumentale de marmură ale eroilor locali.\n\nAmiaza te invită să explorezi moștenirea lui Giuseppe Mazzini, simțind profunzimea istorică. Străzile pavate cu marmură te conduc în mod natural spre vilele mărețe din zonă.\n\nDupă-amiaza, cufundă-te în artă și istorie la muzeul CARMI din interiorul Villa Fabbricotti. Expozițiile detaliază frumos legătura profundă dintre oraș și piatra sa.\n\nÎncheie-ți ziua la punctul de belvedere Belvedere, urmărind soarele apunând în spatele Alpilor Apuani. Ora de aur iluminează carierele îndepărtate, oferind un rămas bun perfect.",
         "en": "Your morning begins in the heart of Carrara, where the Fontana del Leone greets you with fresh water. Stroll past the monumental marble tributes to local heroes.\n\nMidday invites you to explore the legacy of Giuseppe Mazzini, feeling the town's historical depth. The marble-paved streets naturally lead you toward the grand villas.\n\nIn the afternoon, immerse yourself in art and history at the CARMI museum inside Villa Fabbricotti. The exhibits beautifully detail the profound connection between the city and its stone.\n\nConclude your day at the Belvedere viewpoint, watching the sun dip behind the Apuan Alps. The golden hour illuminates the distant quarries, offering a perfect, tranquil farewell to Carrara."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens hüllt der Regen die Marmorstadt in einen mystischen Nebel. Mittags glänzen die nassen Pflastersteine, Vorsicht vor Rutschgefahr auf dem glatten Marmor. Nachmittags bietet die Villa Fabbricotti einen trockenen Rückzugsort voller Kunst. Abends spiegelt sich das warme Licht der Straßenlaternen in den Pfützen der Altstadt wider, während Sie Schutz unter den Torbögen suchen.",
+            "hu": "Reggel a város ködbe vész, az eső áztatja a fehér márványt. Délben a terek kövei csillognak, vigyázzon, mert a vizes márvány rendkívül csúszós. Délután a CARMI múzeum nyújt tökéletes, száraz menedéket a művészetek kedvelőinek. Este a kivilágított, vizes utcák különleges hangulatot árasztanak, érdemes a fedett árkádok alatt sétálni a város szívében.",
+            "ro": "Dimineața, ploaia îmbracă orașul de marmură într-o ceață mistică. La prânz, pavajul umed strălucește, deci atenție la suprafețele alunecoase. După-amiaza, Villa Fabbricotti oferă un refugiu uscat și plin de artă. Seara, lumina felinarelor se reflectă în bălțile din centrul vechi, oferind un cadru perfect pentru o plimbare scurtă sub protecția arcadelor.",
+            "en": "In the morning, rain wraps the marble city in a mystical mist. At noon, the wet stones glisten, but be careful as wet marble surfaces can be very slippery. In the afternoon, the CARMI museum provides a perfect dry sanctuary for art lovers. In the evening, the illuminated wet streets create a unique atmosphere; look for shelter under the historic archways."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fontana del Leone",
+                "hu": "Fontana del Leone",
+                "ro": "Fontana del Leone",
+                "en": "Fontana del Leone"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den wasserspeienden Löwen, der im Regen noch lebendiger wirkt; tragen Sie feste Schuhe, da der Marmorrand bei Nässe glatt ist.",
+                "hu": "Csodálja meg az oroszlános kutat, amely az esőben még látványosabb; viseljen tapadós talpú cipőt, mert a márványperem ilyenkor nagyon csúszik.",
+                "ro": "Admirați fântâna cu leu care pare și mai vie în ploaie; purtați încălțăminte aderentă, deoarece bordura de marmură devine alunecoasă când este udă.",
+                "en": "Admire the lion fountain which looks even more dramatic in the rain; wear shoes with good grip as the marble surround becomes slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di Giuseppe Garibaldi",
+                "hu": "Statua di Giuseppe Garibaldi",
+                "ro": "Statua di Giuseppe Garibaldi",
+                "en": "Statua di Giuseppe Garibaldi"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal ragt grau gegen den Wolkenhimmel empor; nutzen Sie die umliegenden Cafés für eine kurze Pause, um dem stärksten Guss zu entgehen.",
+                "hu": "A szobor komoran magasodik a szürke égbolt előtt; használja a közeli kávézókat rövid pihenőre, hogy megvárja a nagyobb záporok végét.",
+                "ro": "Monumentul se înalță impunător pe fundalul cerului gri; folosiți cafenelele din apropiere pentru o scurtă pauză până trece ropotul de ploaie.",
+                "en": "The statue towers grandly against the grey sky; use the nearby cafes for a quick break to wait out the heaviest showers during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Mazzini",
+                "hu": "Mazzini",
+                "ro": "Mazzini",
+                "en": "Mazzini"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historische Atmosphäre dieses Viertels unter einem stabilen Regenschirm, da die engen Gassen den Wind oft abfangen.",
+                "hu": "Fedezze fel a negyed történelmi hangulatát egy stabil esernyővel, mivel a szűk utcák szerencsére jól felfogják az erős szelet esőben is.",
+                "ro": "Explorați atmosfera istorică a acestui cartier sub o umbrelă solidă, deoarece străzile înguste tind să blocheze vântul în timpul ploii.",
+                "en": "Explore the historical atmosphere of this district under a sturdy umbrella, as the narrow streets fortunately block much of the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "CARMI - Villa Fabbricotti",
+                "hu": "CARMI - Villa Fabbricotti",
+                "ro": "CARMI - Villa Fabbricotti",
+                "en": "CARMI - Villa Fabbricotti"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel an Regentagen; verbringen Sie hier mehr Zeit im Trockenen, um die faszinierende Geschichte des Marmors tiefgehend zu verstehen.",
+                "hu": "Ideális célpont esős időben; töltsön itt több időt a száraz belső terekben, és ismerje meg alaposan a helyi márványbányászat történetét.",
+                "ro": "Destinația ideală pentru zilele ploioase; petreceți mai mult timp în interiorul uscat pentru a înțelege istoria fascinantă a marmurei.",
+                "en": "The perfect destination for a rainy day; spend more time in the dry interiors learning about the fascinating local marble history."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere",
+                "hu": "Belvedere",
+                "ro": "Belvedere",
+                "en": "Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick wirkt im Regen melancholisch und weitläufig; achten Sie auf den unbefestigten Wegen besonders auf Matsch und Pfützen.",
+                "hu": "A panoráma esőben melankolikus, de lenyűgöző látvány; a kiépítetlen ösvényeken ügyeljen a sáros szakaszokra és a mélyebb tócsákra.",
+                "ro": "Panorama pare melancolică dar impresionantă în ploaie; pe potecile neamenajate, aveți grijă la porțiunile cu noroi și la bălți.",
+                "en": "The panoramic view looks melancholic yet vast in the rain; watch out for muddy patches and deep puddles on the unpaved paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Frost auf dem weißen Marmor unter der klaren Wintersonne. Mittags laden die gemütlichen Museen zum Aufwärmen ein. Nachmittags taucht das goldene Licht der tiefstehenden Sonne die Plätze in eine sanfte Atmosphäre. Da die Sonne bereits gegen 17:00 Uhr untergeht, endet der Tag früh in den beleuchteten Gassen der Stadt bei einem heißen Getränk.",
+            "hu": "Reggel a dér csillog a fehér márványon a tiszta téli napsütésben. Délben a hűvös szél elől a múzeumok meleg belső terei nyújtanak menedéket. Délután az alacsonyan járó nap arany fénybe vonja a tereket. Mivel a nap már 17:00 körül lemegy, a város korán kivilágított, meghitt hangulatba vált, ami tökéletes egy forró ital elfogyasztásához.",
+            "ro": "Dimineața, bruma strălucește pe marmura albă sub soarele clar de iarnă. La prânz, muzeele primitoare oferă un refugiu cald împotriva vântului rece. După-amiaza, soarele jos îmbracă piețele într-o lumină aurie. Deoarece soarele apune în jur de ora 17:00, ziua se încheie devreme pe străzile luminate, perfect pentru o băutură caldă.",
+            "en": "In the morning, frost glistens on the white marble under the clear winter sun. At noon, the cozy museums invite you to warm up from the chilly air. In the afternoon, the low sun bathes the squares in a soft golden glow. As the sun sets around 5:00 PM, the city quickly shifts into a cozy, illuminated evening mode, ideal for a warm drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fontana del Leone",
+                "hu": "Fontana del Leone",
+                "ro": "Fontana del Leone",
+                "en": "Fontana del Leone"
+              },
+              "tip_5lang": {
+                "de": "Das eiskalte Wasser der Fontäne glitzert herrlich; halten Sie den Stopp kurz, um nicht auszukühlen, und tragen Sie warme Handschuhe.",
+                "hu": "A szökőkút jéghideg vize gyönyörűen csillog; tartsa röviden a megállót a hideg szél miatt, és ne felejtse otthon a meleg kesztyűjét.",
+                "ro": "Apa înghețată a fântânii strălucește superb; faceți o oprire scurtă pentru a nu îngheța și purtați mănuși groase pentru protecție.",
+                "en": "The fountain's icy water glistens beautifully; keep this stop brief due to the cold wind and make sure to wear warm gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di Giuseppe Garibaldi",
+                "hu": "Statua di Giuseppe Garibaldi",
+                "ro": "Statua di Giuseppe Garibaldi",
+                "en": "Statua di Giuseppe Garibaldi"
+              },
+              "tip_5lang": {
+                "de": "Die Marmorstatue wirkt im klaren Winterlicht besonders scharf; nutzen Sie den freien Platz für Fotos ohne die üblichen Touristenmassen.",
+                "hu": "A márványszobor kontúrjai élesebbek a tiszta téli fényben; használja ki a tömegmentes teret a tökéletes fotók elkészítéséhez.",
+                "ro": "Statuia de marmură pare mai bine definită în lumina clară de iarnă; profitați de absența mulțimilor pentru a face fotografii reușite.",
+                "en": "The marble statue's contours appear sharper in the crisp winter light; take advantage of the lack of crowds for great photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Mazzini",
+                "hu": "Mazzini",
+                "ro": "Mazzini",
+                "en": "Mazzini"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang durch die kühlen Gassen hält warm; kehren Sie zwischendurch in eine Bar ein, um einen echten italienischen Espresso zu genießen.",
+                "hu": "A hűvös utcákon a tempós séta segít melegen maradni; térjen be egy helyi bárba egy forró olasz eszpresszóra a felfrissüléshez.",
+                "ro": "O plimbare alertă prin străzile răcoroase vă va ține de cald; intrați într-un bar local pentru un espresso italian fierbinte.",
+                "en": "A brisk walk through the cool streets helps keep you warm; pop into a local bar for a hot Italian espresso to recharge your energy."
+              }
+            },
+            {
+              "name": {
+                "de": "CARMI - Villa Fabbricotti",
+                "hu": "CARMI - Villa Fabbricotti",
+                "ro": "CARMI - Villa Fabbricotti",
+                "en": "CARMI - Villa Fabbricotti"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Räume der Villa, um sich aufzuwärmen und die Kunstwerke ohne Eile im sanften Winterlicht zu betrachten.",
+                "hu": "Használja ki a villa fűtött termeit a felmelegedésre, és csodálja meg a műalkotásokat kényelmesen a lágy téli fények mellett.",
+                "ro": "Profitați de camerele încălzite ale vilei pentru a vă încălzi și admirați operele de artă pe îndelete în lumina blândă de iarnă.",
+                "en": "Take advantage of the villa's heated rooms to warm up while admiring the artworks at your own pace in the soft winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere",
+                "hu": "Belvedere",
+                "ro": "Belvedere",
+                "en": "Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um den Sonnenuntergang über den Marmorbergen zu erleben, bevor es schlagartig kalt und dunkel wird.",
+                "hu": "Érkezzen meg 16:30 előtt, hogy lássa a naplementét a márványhegyek felett, mielőtt hirtelen lehűlne a levegő és besötétedne.",
+                "ro": "Ajungeți înainte de ora 16:30 pentru a vedea apusul peste munții de marmură, înainte ca aerul să devină brusc foarte rece.",
+                "en": "Arrive before 4:30 PM to catch the sunset over the marble mountains before the temperature drops and it turns dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpáros kalandját a békés Chiesa di San Ceccardo templomnál, élvezve a reggeli nyugalmat. Egy gyors utazás elviszi az élettel teli központba és ikonikus kútjaihoz.\n\nDélben kerekei a Villa Fabbricotti művészeti területére viszik. Itt várja a lenyűgöző CARMI múzeum, amelyet buja kertek vesznek körül, tökéletes egy pihentető szünethez.\n\nDélután pedálozzon a történelmi FMC gőzmozdony felé, amely a város ipari múltjának lenyűgöző emlékműve. Bepillantást enged abba, hogyan szállították egykor a márványt.\n\nZárja utazását egy kellemes tekeréssel a San Martire Genesio felé. Ez a vidéki templom csendes teret kínál az elmélkedésre, miközben a nap lehűl, megkoronázva a napot.",
         "ro": "Începe-ți aventura pe bicicletă la pașnica Chiesa di San Ceccardo, bucurându-te de liniștea dimineții. O plimbare rapidă te aduce în centrul animat al orașului și la fântânile sale.\n\nLa amiază, roțile te poartă în domeniul artistic al Villa Fabbricotti. Aici te așteaptă impresionantul muzeu CARMI, înconjurat de grădini luxuriante, perfecte pentru o pauză.\n\nDupă-amiaza, pedalează spre locomotiva istorică cu abur FMC, un monument izbitor al curajului industrial al orașului. Este o privire fascinantă asupra modului de transport.\n\nÎncheie-ți călătoria cu o plimbare pe îndelete până la San Martire Genesio. Această biserică rurală oferă un spațiu liniștit pentru reflecție pe măsură ce ziua se răcorește ușor.",
         "en": "Start your cycling adventure at the peaceful Chiesa di San Ceccardo, soaking in the morning tranquility. A quick ride brings you to the lively city center and its iconic fountains.\n\nBy midday, your wheels carry you into the artistic domain of Villa Fabbricotti. Here, the impressive CARMI museum awaits, surrounded by lush gardens perfect for a restful pause.\n\nIn the afternoon, pedal toward the historical FMC steam locomotive, a striking monument to the city's industrial grit. It's a fascinating look at how marble was once transported.\n\nEnd your journey with a leisurely ride to San Martire Genesio. This rural church offers a quiet space for reflection as the day cools, rounding off a fulfilling day of exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erfordert die Fahrt auf nassen Straßen volle Konzentration. Mittags glänzt der Asphalt, Vorsicht in den Kurven bei den Marmorbrüchen. Nachmittags bietet die Villa Fabbricotti eine willkommene Pause im Trockenen. Abends ist die Sicht durch den Regen eingeschränkt, daher ist eine gute Beleuchtung am Fahrrad für die Rückfahrt durch Carrara unerlässlich.",
+            "hu": "Reggel a vizes utakon a biciklizés teljes koncentrációt igényel. Délben az aszfalt csillog, legyen óvatos a kanyarokban a márványbányák közelében. Délután a Villa Fabbricotti kínál száraz menedéket és pihenőt. Este a látási viszonyok korlátozottak az eső miatt, ezért a megfelelő világítás elengedhetetlen a biztonságos tekeréshez.",
+            "ro": "Dimineața, mersul pe bicicletă pe drumuri ude necesită concentrare maximă. La prânz, asfaltul strălucește, deci atenție în curbele de lângă cariere. După-amiaza, Villa Fabbricotti oferă o pauză binevenită la adăpost. Seara, vizibilitatea este redusă de ploaie, așa că iluminarea adecvată a bicicletei este esențială.",
+            "en": "In the morning, cycling on wet roads requires full concentration. At noon, the asphalt glistens, so be cautious in turns near the quarries. In the afternoon, Villa Fabbricotti offers a welcome dry break. In the evening, visibility is limited due to the rain, making proper bike lighting essential for a safe ride back through Carrara."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Ceccardo",
+                "hu": "Chiesa di San Ceccardo",
+                "ro": "Chiesa di San Ceccardo",
+                "en": "Chiesa di San Ceccardo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie das Kircheninnere für eine trockene Besichtigung während eines Regenschauers.",
+                "hu": "Parkolja le kerékpárját fedett helyen, és használja ki a templom belső terét egy száraz városnézésre a zápor idején.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți interiorul bisericii pentru o vizită la adăpost în timpul ploii.",
+                "en": "Park your bike in a sheltered spot and take advantage of the church interior for a dry visit during a rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontana del Leone",
+                "hu": "Fontana del Leone",
+                "ro": "Fontana del Leone",
+                "en": "Fontana del Leone"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie nur kurz für ein Foto an; der nasse Marmor auf dem Platz kann für Fahrradreifen tückisch und sehr rutschig sein.",
+                "hu": "Csak rövid időre álljon meg egy fotóra; a tér vizes márványburkolata a kerékpárgumik számára trükkös és nagyon csúszós lehet.",
+                "ro": "Opriți doar scurt pentru o fotografie; marmura udă din piață poate fi înșelătoare și foarte alunecoasă pentru anvelope.",
+                "en": "Stop only briefly for a photo; the wet marble pavement in the square can be tricky and very slippery for bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "CARMI - Villa Fabbricotti",
+                "hu": "CARMI - Villa Fabbricotti",
+                "ro": "CARMI - Villa Fabbricotti",
+                "en": "CARMI - Villa Fabbricotti"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den längeren Aufenthalt hier, um Ihre Kleidung zu trocknen und die beeindruckende Marmorausstellung im Warmen zu genießen.",
+                "hu": "Használja ki az itt töltött hosszabb időt a ruhái szárítására és a lenyűgöző márványkiállítás megtekintésére a melegben.",
+                "ro": "Profitați de șederea prelungită aici pentru a vă usca hainele și pentru a savura expoziția de marmură la căldură.",
+                "en": "Use the longer stay here to dry your clothes and enjoy the impressive marble exhibition in the warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Locomotiva a vapore FMC nº 05",
+                "hu": "Locomotiva a vapore FMC nº 05",
+                "ro": "Locomotiva a vapore FMC nº 05",
+                "en": "Locomotiva a vapore FMC nº 05"
+              },
+              "tip_5lang": {
+                "de": "Die alte Lokomotive glänzt im Regen besonders stark; tragen Sie beim Absteigen eine Regenjacke mit Reflektoren für bessere Sichtbarkeit.",
+                "hu": "A régi mozdony az esőben különösen fényesen csillog; viseljen fényvisszaverős esőkabátot a jobb láthatóság érdekében a megálláskor.",
+                "ro": "Vechea locomotivă strălucește intens în ploaie; purtați o jachetă de ploaie reflectorizantă pentru o mai bună vizibilitate.",
+                "en": "The old locomotive shines intensely in the rain; wear a reflective raincoat for better visibility when stopping to look."
+              }
+            },
+            {
+              "name": {
+                "de": "San Martire Genesio",
+                "hu": "San Martire Genesio",
+                "ro": "San Martire Genesio",
+                "en": "San Martire Genesio"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für das Ende der Tour; wischen Sie den Sattel vor der Weiterfahrt gut ab, um nicht nass zu werden.",
+                "hu": "Csendes hely a túra befejezéséhez; indulás előtt alaposan törölje le a nyerget, hogy ne ázzon el a nadrágja a visszaúton.",
+                "ro": "Un loc liniștit pentru finalul turului; ștergeți bine șaua înainte de a pleca pentru a nu vă uda hainele la întoarcere.",
+                "en": "A quiet place to end the tour; wipe your saddle thoroughly before departing to stay dry on your way back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht ein eisiger Wind durch die Täler, warme Kleidung ist Pflicht. Mittags wärmt die Sonne die historischen Plätze ein wenig auf. Nachmittags sinken die Temperaturen schnell, sobald die Sonne hinter den Bergen verschwindet. Planen Sie Ihre Route so, dass Sie vor 17:00 Uhr zurück sind, um der Dunkelheit und der Kälte auf dem Rad zu entgehen.",
+            "hu": "Reggel jeges szél fúj a völgyekben, a réteges öltözködés kötelező. Délben a nap némileg felmelegíti a történelmi tereket. Délután a hőmérséklet gyorsan csökken, amint a nap eltűnik a hegyek mögött. Tervezze úgy az utat, hogy 17:00 előtt visszaérjen, elkerülve a sötétséget és a kerékpáron fokozottan érződő hideget.",
+            "ro": "Dimineața, un vânt înghețat suflă prin văi, deci hainele groase sunt obligatorii. La prânz, soarele încălzește puțin piețele istorice. După-amiaza, temperaturile scad rapid imediat ce soarele dispare după munți. Planificați traseul pentru a reveni înainte de ora 17:00, evitând întunericul și frigul pe bicicletă.",
+            "en": "In the morning, an icy wind blows through the valleys, so warm clothing is mandatory. At noon, the sun warms the historic squares slightly. In the afternoon, temperatures drop rapidly as the sun disappears behind the mountains. Plan your route to return before 5:00 PM to avoid the darkness and the intensified cold on the bike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Ceccardo",
+                "hu": "Chiesa di San Ceccardo",
+                "ro": "Chiesa di San Ceccardo",
+                "en": "Chiesa di San Ceccardo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch in der Kirche, um Ihre Hände aufzuwärmen; achten Sie beim Losfahren auf eventuelle Froststellen auf dem Boden.",
+                "hu": "Használja ki a templomi látogatást a kezei felmelegítésére; induláskor ügyeljen az esetleges fagyos foltokra az úttesten.",
+                "ro": "Folosiți vizita la biserică pentru a vă încălzi mâinile; la plecare, aveți grijă la eventualele porțiuni înghețate de pe carosabil.",
+                "en": "Use the visit to the church to warm your hands; be cautious of potential icy patches on the ground when starting off again."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontana del Leone",
+                "hu": "Fontana del Leone",
+                "ro": "Fontana del Leone",
+                "en": "Fontana del Leone"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem Platz kann im Winter sehr schneidend sein; tragen Sie einen Schal, um Ihr Gesicht während der Fahrt zu schützen.",
+                "hu": "A téren a szél télen nagyon metsző lehet; viseljen sálat, hogy védje az arcát a hidegtől tekerés közben.",
+                "ro": "Vântul din piață poate fi tăios iarna; purtați un fular pentru a vă proteja fața în timp ce mergeți cu bicicleta.",
+                "en": "The wind in the square can be very biting in winter; wear a scarf to protect your face from the chill while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "CARMI - Villa Fabbricotti",
+                "hu": "CARMI - Villa Fabbricotti",
+                "ro": "CARMI - Villa Fabbricotti",
+                "en": "CARMI - Villa Fabbricotti"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause im Warmen; trinken Sie im Parkcafé einen heißen Tee, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Ideális hely egy hosszabb, melegben töltött szünethez; igyon egy forró teát a park kávézójában a túra folytatása előtt.",
+                "ro": "Un loc ideal pentru o pauză prelungită la căldură; beți un ceai fierbinte la cafeneaua din parc înainte de a continua drumul.",
+                "en": "An ideal spot for a long break in the warm; have a hot tea at the park cafe before continuing your winter cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Locomotiva a vapore FMC nº 05",
+                "hu": "Locomotiva a vapore FMC nº 05",
+                "ro": "Locomotiva a vapore FMC nº 05",
+                "en": "Locomotiva a vapore FMC nº 05"
+              },
+              "tip_5lang": {
+                "de": "Das Metall der Lokomotive ist im Winter eiskalt; berühren Sie es nicht mit bloßen Händen für ein Foto und bleiben Sie in Bewegung.",
+                "hu": "A mozdony fémváza télen jéghideg; ne érjen hozzá puszta kézzel a fotózáskor, és maradjon mozgásban a kihűlés ellen.",
+                "ro": "Metalul locomotivei este înghețat iarna; nu îl atingeți cu mâinile goale pentru fotografii și rămâneți în mișcare continuă.",
+                "en": "The locomotive's metal is freezing in winter; don't touch it with bare hands for photos and keep moving to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "San Martire Genesio",
+                "hu": "San Martire Genesio",
+                "ro": "San Martire Genesio",
+                "en": "San Martire Genesio"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier zügig, da die Kälte bei Sonnenuntergang gegen 17:00 Uhr merklich zunimmt; suchen Sie danach ein warmes Restaurant.",
+                "hu": "Fejezze be gyorsan a túrát, mert a hideg a naplemente közeledtével 17:00 körül fokozódik; keressen utána egy fűtött éttermet.",
+                "ro": "Încheiați turul rapid, deoarece frigul se intensifică odată cu apusul soarelui în jur de ora 17:00; căutați apoi un restaurant cald.",
+                "en": "Finish your tour quickly as the cold intensifies towards sunset at 5:00 PM; head to a heated restaurant immediately after."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Induljon egy autós túrára az ősi Castello di Moneta-tól, ahol a középkori történelem fenségesen uralja a tájat. Ez egy nagyszerű kezdete a varázslatos carrarai felfedezésének.\n\nDélben vezessen lefelé, hogy meglátogassa a békés vallási helyszíneket, köztük a San Giovanni-t és a kulturálisan jelentős Chiesa di San Ceccardo ad Acquas-t a szent forrás felett.\n\nDélutánját töltse el a nagy Villa Fabbricotti felé navigálva. A CARMI múzeum alapvető kontextust biztosít ahhoz a márványhoz, amelyet mindenhol lát, az ókortól napjainkig.\n\nZárja festői autózását a márványmunkások emlékművénél. Ez egy kijózanító, de gyönyörű hely, hogy tisztelegjen azok előtt a generációk előtt, akik a város identitását faragták.",
         "ro": "Pornește într-un tur cu mașina începând de la anticul Castello di Moneta, unde istoria medievală domină peisajul. Este un început maiestuos pentru explorarea ta în Carrara.\n\nLa amiază, condu pentru a vizita site-urile religioase senine, inclusiv San Giovanni și Chiesa di San Ceccardo ad Acquas, semnificativă din punct de vedere cultural.\n\nPetrece-ți după-amiaza navigând spre măreața Villa Fabbricotti. Muzeul CARMI oferă contextul esențial pentru marmura pe care o vezi peste tot, din cele mai vechi timpuri.\n\nÎncheie-ți plimbarea pitorească la Monumentul Muncitorilor în Marmură Căzuți. Este un loc emoționant, dar frumos, pentru a onora generațiile care au sculptat identitatea orașului.",
         "en": "Embark on a driving tour starting at the ancient Castello di Moneta, where medieval history overlooks the landscape. It's a majestic beginning to your Carrara exploration.\n\nBy midday, drive down to visit the serene religious sites, including San Giovanni and the culturally significant Chiesa di San Ceccardo ad Acquas, built over sacred springs.\n\nSpend your afternoon navigating to the grand Villa Fabbricotti. The CARMI museum provides essential context to the marble you see everywhere, from ancient times to modern art.\n\nConclude your scenic drive at the Monument to the Fallen Marble Workers. It's a sobering but beautiful place to honor the generations who carved the city's identity from stone."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens hängen tiefe Wolken über den Marmorbrüchen, was die Fahrt panoramisch, aber neblig macht. Mittags schützt das Auto vor den stärksten Güssen, während Sie von Kirche zu Kirche hüpfen. Nachmittags ist die Villa Fabbricotti der perfekte Ort für Kultur im Trockenen. Abends leuchten die Lichter Carraras in den nassen Straßen besonders hell durch die Windschutzscheibe.",
+            "hu": "Reggel alacsony felhők ülnek a márványbányák felett, ami látványossá, de ködössé teszi az utat. Délben az autó védelmet nyújt a záporok elől, miközben templomról templomra jár. Délután a Villa Fabbricotti a tökéletes helyszín a száraz kulturális feltöltődéshez. Este Carrara fényei a vizes utcákon különösen ragyogóak a szélvédőn keresztül nézve.",
+            "ro": "Dimineața, norii joși acoperă carierele de marmură, făcând drumul panoramic dar cețos. La prânz, mașina vă protejează de ploaie în timp ce vizitați bisericile orașului. După-amiaza, Villa Fabbricotti este locul perfect pentru cultură la adăpost. Seara, luminile din Carrara se reflectă strălucitor pe străzile ude prin parbriz.",
+            "en": "In the morning, low clouds hang over the marble quarries, making the drive scenic but misty. At noon, the car provides shelter from heavy showers as you hop between historic churches. In the afternoon, Villa Fabbricotti is the perfect spot for dry cultural exploration. In the evening, Carrara's lights look especially brilliant on the wet streets through your windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Moneta",
+                "hu": "Castello di Moneta",
+                "ro": "Castello di Moneta",
+                "en": "Castello di Moneta"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen im Nebel wirken geheimnisvoll; parken Sie nah am Eingang und nutzen Sie eine Regenjacke für den kurzen Fußweg zu den Mauern.",
+                "hu": "A romok a ködben titokzatosak; parkoljon közel a bejárathoz, és használjon esőkabátot a falakig tartó rövid sétához.",
+                "ro": "Ruinele par misterioase în ceață; parcați aproape de intrare și folosiți o jachetă de ploaie pentru scurta plimbare până la ziduri.",
+                "en": "The ruins look mysterious in the mist; park close to the entrance and use a raincoat for the short walk to the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giovanni",
+                "hu": "San Giovanni",
+                "ro": "San Giovanni",
+                "en": "San Giovanni"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im trockenen Kirchenschiff; lassen Sie Ihren nassen Regenschirm im Vorraum, um die historischen Böden zu schonen.",
+                "hu": "Élvezze a csendet a száraz templomhajóban; hagyja a vizes esernyőt az előtérben, hogy óvja a történelmi márványpadlót a nedvességtől.",
+                "ro": "Bucurați-vă de liniște în naosul uscat al bisericii; lăsați umbrela udă la intrare pentru a proteja podelele istorice de marmură.",
+                "en": "Enjoy the silence in the dry nave; leave your wet umbrella in the vestibule to protect the historic marble floors from moisture."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Ceccardo ad Acquas",
+                "hu": "Chiesa di San Ceccardo ad Acquas",
+                "ro": "Chiesa di San Ceccardo ad Acquas",
+                "en": "Chiesa di San Ceccardo ad Acquas"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, trockener Stopp; nutzen Sie die Zeit für eine meditative Pause, während der Regen gegen die alten Fenster prasselt.",
+                "hu": "Rövid, száraz megálló; használja ki az időt egy meditatív pihenőre, miközben az eső a régi ablaküvegeken kopog.",
+                "ro": "O oprire scurtă și uscată; profitați de timp pentru o pauză meditativă în timp ce ploaia bate în ferestrele vechi.",
+                "en": "A brief, dry stop; use the time for a meditative break while the rain patters against the ancient stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "CARMI - Villa Fabbricotti",
+                "hu": "CARMI - Villa Fabbricotti",
+                "ro": "CARMI - Villa Fabbricotti",
+                "en": "CARMI - Villa Fabbricotti"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem beschilderten Parkplatz und verbringen Sie den verregneten Nachmittag entspannt zwischen den Marmorexponaten.",
+                "hu": "Parkoljon a kijelölt helyen, és töltse az esős délutánt kényelmesen a márványkiállítások között barangolva a száraz épületben.",
+                "ro": "Parcați în locul special amenajat și petreceți după-amiaza ploioasă relaxându-vă printre exponatele de marmură din interior.",
+                "en": "Park in the designated area and spend the rainy afternoon comfortably exploring the marble exhibits inside the dry building."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento dedicato ai Caduti del Marmo",
+                "hu": "Monumento dedicato ai Caduti del Marmo",
+                "ro": "Monumento dedicato ai Caduti del Marmo",
+                "en": "Monumento dedicato ai Caduti del Marmo"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal kurz vom Auto aus oder unter einem Schirm; der nasse Marmor reflektiert das Stadtlicht auf dramatische Weise.",
+                "hu": "Tekintse meg az emlékművet az autóból vagy esernyő alatt; a vizes márvány drámai módon veri vissza a város fényeit.",
+                "ro": "Admirați monumentul din mașină sau de sub umbrelă; marmura udă reflectă luminile orașului într-un mod dramatic și artistic.",
+                "en": "View the monument from the car or under an umbrella; the wet marble reflects the city lights in a dramatic and artistic way."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das beheizte Auto Komfort, während Sie durch die frostige Marmorlandschaft fahren. Mittags ist das Licht perfekt für klare Aufnahmen der weißen Berge. Nachmittags sinkt das Thermometer, nutzen Sie die warmen Museumsräume für längere Aufenthalte. Da es gegen 17:00 Uhr dunkel wird, genießen Sie die beleuchtete Stadtkulisse bequem von Ihrem Fahrzeug aus.",
+            "hu": "Reggel a fűtött autó kényelmet nyújt, miközben a fagyos márványtájat járja. Délben a fényviszonyok tökéletesek a fehér hegyek tiszta fotózásához. Délután a hőmérő higanyszála süllyed, használja a meleg múzeumi tereket hosszabb időtöltésre. Mivel 17:00 körül sötétedik, élvezze a kivilágított városképet az autó kényelméből.",
+            "ro": "Dimineața, mașina încălzită oferă confort în timp ce parcurgeți peisajul înghețat de marmură. La prânz, lumina este perfectă pentru fotografii clare cu munții albi. După-amiaza, temperaturile scad, deci folosiți muzeele calde pentru vizite prelungite. Deoarece se întunecă în jur de ora 17:00, savurați orașul luminat din confortul vehiculului.",
+            "en": "In the morning, the heated car provides comfort as you drive through the frosty marble landscape. At noon, the light is perfect for clear photos of the white mountains. In the afternoon, temperatures drop, so use the warm museum spaces for longer stays. As it gets dark around 5:00 PM, enjoy the illuminated city scenery from the comfort of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Moneta",
+                "hu": "Castello di Moneta",
+                "ro": "Castello di Moneta",
+                "en": "Castello di Moneta"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im Winterlicht sehr markant; tragen Sie eine dicke Jacke für den kurzen Spaziergang im kalten Bergwind.",
+                "hu": "A romok a téli fényben nagyon látványosak; viseljen vastag kabátot a rövid sétához a hideg hegyi szélben.",
+                "ro": "Ruinele par foarte marcante în lumina de iarnă; purtați o jachetă groasă pentru scurta plimbare în vântul rece de munte.",
+                "en": "The ruins look very striking in the winter light; wear a thick jacket for the short walk in the cold mountain wind."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giovanni",
+                "hu": "San Giovanni",
+                "ro": "San Giovanni",
+                "en": "San Giovanni"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist ein guter Ort, um dem kalten Wind zu entkommen; bewundern Sie die Details der Innenausstattung in aller Ruhe.",
+                "hu": "A templom kiváló hely a hideg szél elöli menekülésre; csodálja meg a belső díszítés részleteit nyugodt, szélvédett környezetben.",
+                "ro": "Biserica este un loc bun pentru a scăpa de vântul rece; admirați detaliile decorului interior în liniște totală.",
+                "en": "The church is a great place to escape the cold wind; admire the details of the interior decoration in a calm, sheltered environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Ceccardo ad Acquas",
+                "hu": "Chiesa di San Ceccardo ad Acquas",
+                "ro": "Chiesa di San Ceccardo ad Acquas",
+                "en": "Chiesa di San Ceccardo ad Acquas"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Winterstopp; achten Sie beim Parken auf Schattenplätze, wo sich Glatteis länger halten kann.",
+                "hu": "Békés téli megálló; parkoláskor ügyeljen az árnyékosabb részekre, ahol a jegesedés tovább megmaradhat az úton.",
+                "ro": "O oprire liniștită de iarnă; la parcare, aveți grijă la locurile umbrite unde gheața poate persista mai mult pe carosabil.",
+                "en": "A peaceful winter stop; when parking, be careful of shaded areas where ice patches may persist longer on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "CARMI - Villa Fabbricotti",
+                "hu": "CARMI - Villa Fabbricotti",
+                "ro": "CARMI - Villa Fabbricotti",
+                "en": "CARMI - Villa Fabbricotti"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum für eine ausgiebige, warme Pause; die Exponate wirken im klaren Winterlicht besonders edel.",
+                "hu": "Használja ki a múzeumot egy kiadós, meleg szünetre; a kiállított tárgyak a tiszta téli fényben különösen elegánsak.",
+                "ro": "Profitați de muzeu pentru o pauză caldă și lungă; exponatele par deosebit de elegante în lumina clară de iarnă.",
+                "en": "Use the museum for a substantial, warm break; the exhibits look particularly elegant in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento dedicato ai Caduti del Marmo",
+                "hu": "Monumento dedicato ai Caduti del Marmo",
+                "ro": "Monumento dedicato ai Caduti del Marmo",
+                "en": "Monumento dedicato ai Caduti del Marmo"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne früh gegen 17:00 Uhr untergeht, ist dies ein schöner Ort, um das beleuchtete Carrara im Winterabend zu sehen.",
+                "hu": "Mivel a nap korán, 17:00 körül lemegy, ez egy szép pont Carrara kivilágított téli esti látványának megtekintéséhez.",
+                "ro": "Deoarece soarele apune devreme, în jur de ora 17:00, acesta este un loc bun pentru a vedea Carrara luminată seara.",
+                "en": "As the sun sets early around 5:00 PM, this is a beautiful spot to view illuminated Carrara in the winter evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

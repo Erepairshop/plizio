@@ -160,6 +160,196 @@
         "hu": "A reggel Loctudy-ban a történelmi román stílusú Saint-Tudy templomnál kezdődik, a város szívében. Nem sokkal később átsétál a Musée Conserverie Le Gall múzeumba, ahol elmerülhet a régió gazdag szardíniahalászati és konzervgyártási örökségében.\nA dél körül a torkolat felé veszi az irányt, hogy megnézze a feltűnő Perdrix jelzőfényt. Innen csak egy rövid séta a Plage de la pointe, ahol a friss tengeri szellő és az Île-Tudy felé nyíló kilátás pihenésre és a tengerparti táj csodálására hívja.\nDélután a part mentén halad tovább, majd megérkezik a festői Langoz világítótoronyhoz. Az öblöt őrző épület tökéletes fotótémát kínál, mielőtt elindulna a legutolsó állomására, egyenesen a vízpart mentén.\nAz este a tágas Plage de Langoz strandon zárul. Puha homokjával és szelíd vizével ideális hely a pihenésre, az Atlanti-óceán feletti égbolt színeinek megfigyelésére, lezárva ezt a csodálatos, gyalogos felfedezéssel töltött napot.",
         "ro": "Dimineața în Loctudy începe la biserica istorică romanică Saint-Tudy, situată în inima orașului. La scurt timp, veți merge la Musée Conserverie Le Gall, explorând profund moștenirea bogată a pescuitului și a fabricării conservelor de sardine din regiune.\nLa amiază, traseul vă duce spre gura estuarului pentru a vedea marcajul impresionant Perdrix. De acolo, o scurtă plimbare vă duce la Plage de la pointe, unde briza proaspătă a mării și vederea către Île-Tudy vă invită să vă relaxați și să admirați peisajul marin.\nPe măsură ce după-amiaza se desfășoară, veți continua pe coastă, ajungând la pitorescul far Langoz. Păzind golful, acesta oferă o oportunitate perfectă de fotografie înainte de a vă îndrepta spre ultima destinație chiar de-a lungul țărmului.\nSeara se încheie la vasta Plage de Langoz. Cu nisipul fin și apa blândă, este locul ideal pentru a vă relaxa, a privi cerul schimbător deasupra Atlanticului și a reflecta la o zi superbă petrecută explorând litoralul breton pe jos.",
         "en": "Morning in Loctudy begins at the historic Romanesque Saint-Tudy church, an architectural jewel right in the town's heart. Soon after, you'll walk to the Musée Conserverie Le Gall, diving deep into the region's rich sardine fishing and canning heritage.\nMidday takes you towards the estuary mouth to see the striking Perdrix marker. From there, it's a short stroll to the Plage de la pointe, where the fresh sea breeze and views across to Île-Tudy invite you to rest and appreciate the maritime scenery.\nAs afternoon unfolds, you'll continue along the coast, arriving at the picturesque Langoz Lighthouse. Standing guard over the bay, it provides a perfect photo opportunity before you head to your final destination just down the shoreline.\nThe evening concludes at the expansive Plage de Langoz. With soft sands and gentle waters, it's the ideal spot to relax, watch the changing sky over the Atlantic, and reflect on a beautiful day spent exploring coastal Brittany on foot."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der schützenden Stille der Kirche, bevor Sie im Museum Zuflucht vor dem bretonischen Regen finden. Mittags bietet die Konservenfabrik ein trockenes Kulturerlebnis. Am Nachmittag erleben Sie die raue Küste unter einem grauen Himmel, wobei die Gischt mit dem Regen verschmilzt. Den Abend lassen Sie bei den Lichtern des Hafens ausklingen, die sich im nassen Asphalt spiegeln.",
+            "hu": "Kezdje a reggelt a templom védelmező csendjében, mielőtt a múzeumban keresne menedéket a breton eső elől. Délben a konzervgyár száraz kulturális élményt nyújt. Délután a zord partvidéket csodálhatja meg a szürke égbolt alatt, ahol a tengeri permet keveredik az esővel. Az estét a kikötő vizes aszfaltján csillogó fények között, egy vízhatlan kabátban sétálva zárhatja.",
+            "ro": "Începeți ziua în liniștea protectoare a bisericii, înainte de a găsi refugiu în muzeu împotriva ploii bretone. La prânz, fosta conservărie oferă o experiență culturală la adăpost. După-amiaza, descoperiți coasta aspră sub un cer gri, unde stropii de mare se confundă cu ploaia. Încheiați seara admirând luminile portului care se reflectă în asfaltul umed, protejat de o pelerină.",
+            "en": "Start your day in the protective silence of the church before finding refuge in the museum from the Breton rain. At noon, the former cannery offers a dry cultural experience. In the afternoon, witness the rugged coast under a grey sky, where sea spray blends with the rain. End your evening among the harbor lights glistening on the wet pavement, protected by a sturdy raincoat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Tudy",
+                "hu": "Église Saint-Tudy",
+                "ro": "Église Saint-Tudy",
+                "en": "Église Saint-Tudy"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie die romanischen Kapitelle im Inneren; die dicken Steinmauern bieten einen perfekten, trockenen Ort, um die Architektur in aller Ruhe zu studieren.",
+                "hu": "Csodálja meg a román stílusú oszlopfőket a belső térben; a vastag kőfalak tökéletes, száraz helyszínt biztosítanak az építészet nyugodt tanulmányozásához.",
+                "ro": "Admirați capitelurile romanice din interior; zidurile groase de piatră oferă un loc uscat și perfect pentru a studia arhitectura în liniște totală.",
+                "en": "Admire the Romanesque capitals inside; the thick stone walls provide a perfect, dry location to study the architecture in complete peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Conserverie Le Gall",
+                "hu": "Musée Conserverie Le Gall",
+                "ro": "Musée Conserverie Le Gall",
+                "en": "Musée Conserverie Le Gall"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie diesen überdachten Stopp, um die industrielle Geschichte der Sardinenfischerei zu erkunden, während draußen der Regen auf das alte Fabrikdach trommelt.",
+                "hu": "Használja ki ezt a fedett megállót a szardíniahalászat ipari múltjának felfedezésére, miközben kint az eső dobol a régi gyárépület tetőzetén.",
+                "ro": "Profitați de această oprire acoperită pentru a explora istoria industrială a pescuitului de sardine, în timp ce ploaia bate în acoperișul vechii fabrici.",
+                "en": "Take advantage of this indoor stop to explore the industrial history of sardine fishing while the rain drums on the old factory roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Perdrix",
+                "hu": "Perdrix",
+                "ro": "Perdrix",
+                "en": "Perdrix"
+              },
+              "tip_4lang": {
+                "de": "Dieser markante Turm wirkt bei Regen besonders dramatisch; machen Sie ein schnelles Foto und achten Sie auf den rutschigen Boden am Hafenbecken.",
+                "hu": "Ez a jellegzetes torony esőben különösen drámai látványt nyújt; készítsen egy gyors fotót, de ügyeljen a kikötőpart csúszós kövezetére.",
+                "ro": "Această turlă distinctivă arată deosebit de dramatic în ploaie; faceți o fotografie rapidă, dar atenție la pavajul alunecos de lângă chei.",
+                "en": "This distinctive turret looks particularly dramatic in the rain; snap a quick photo but watch out for the slippery ground near the harbor edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la pointe",
+                "hu": "Plage de la pointe",
+                "ro": "Plage de la pointe",
+                "en": "Plage de la pointe"
+              },
+              "tip_4lang": {
+                "de": "Erleben Sie die raue Schönheit des Atlantiks; der Regen verstärkt die salzige Meeresbrise, ideal für einen kurzen, erfrischenden Spaziergang in Gummistiefeln.",
+                "hu": "Tapasztalja meg az Atlanti-óceán nyers szépségét; az eső felerősíti a sós tengeri szellőt, ideális egy rövid, frissítő sétához gumicsizmában.",
+                "ro": "Experimentați frumusețea brută a Atlanticului; ploaia intensifică briza sărată, fiind ideală pentru o scurtă plimbare revigorantă în cizme de cauciuc.",
+                "en": "Experience the raw beauty of the Atlantic; the rain intensifies the salty sea breeze, ideal for a short, refreshing walk in rubber boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Langoz Lighthouse",
+                "hu": "Langoz Lighthouse",
+                "ro": "Farul Langoz",
+                "en": "Langoz Lighthouse"
+              },
+              "tip_4lang": {
+                "de": "Der Leuchtturm bietet einen melancholischen Anblick im Nebel; halten Sie Ausschau nach den Schiffssignalen, die bei schlechtem Wetter besonders weit tragen.",
+                "hu": "A világítótorony melankolikus látványt nyújt a ködben; figyelje a hajókürtöket, amelyek rossz időben különösen messzire hallatszanak a tengeren.",
+                "ro": "Farul oferă o vedere melancolică în ceață; ascultați semnalele navelor, care se aud foarte clar pe mare în timpul vremii nefavorabile.",
+                "en": "The lighthouse offers a melancholic sight in the mist; listen for ship signals, which carry particularly far across the sea during bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Langoz",
+                "hu": "Plage de Langoz",
+                "ro": "Plage de Langoz",
+                "en": "Plage de Langoz"
+              },
+              "tip_4lang": {
+                "de": "Sammeln Sie angeschwemmte Schätze am Flutsaum, wo der Regen den Sand fest und gut begehbar macht; suchen Sie danach Schutz in einem nahen Café.",
+                "hu": "Gyűjtsön partra vetett kincseket a dagályvonalnál, ahol az eső tömörré és jól járhatóvá teszi a homokot; utána keressen menedéket egy közeli kávézóban.",
+                "ro": "Colectați comori aduse de valuri la linia fluxului, unde ploaia face nisipul compact și ușor de parcurs; apoi căutați adăpost la o cafenea din apropiere.",
+                "en": "Collect treasures washed up by the tide, where the rain makes the sand firm and easy to walk on; seek shelter at a nearby café afterwards."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare, kalte Winterluft bei einem morgendlichen Besuch der Kirche. Das Museum bietet mittags eine willkommene Aufwärmpause in historischem Ambiente. Die tiefstehende Wintersonne taucht die Küste am Nachmittag in ein magisches Licht, perfekt für Fotos am Leuchtturm. Da die Sonne bereits um 17:00 Uhr untergeht, sollten Sie den frühen Abend gemütlich im Hafenviertel planen.",
+            "hu": "Élvezze a friss, hideg téli levegőt a templom reggeli meglátogatásakor. A múzeum délben kellemes felmelegedési lehetőséget kínál történelmi környezetben. Az alacsonyan járó téli nap délután varázslatos fénybe vonja a partot, ami tökéletes a világítótoronynál készített fotókhoz. Mivel a nap már 17:00-kor nyugovóra tér, a kora estét tervezze a kikötő hangulatos fényei közé.",
+            "ro": "Bucurați-vă de aerul rece și curat de iarnă în timpul vizitei de dimineață la biserică. Muzeul oferă la prânz o pauză de încălzire binevenită într-un cadru istoric. Soarele de iarnă, jos pe cer, scaldă coasta într-o lumină magică după-amiaza. Deoarece soarele apune deja la ora 17:00, planificați seara devreme în zona portului, unde atmosfera este foarte primitoare.",
+            "en": "Enjoy the crisp, cold winter air during a morning visit to the church. The museum offers a welcome warming break at noon in a historical setting. The low winter sun bathes the coast in a magical light in the afternoon, perfect for photos by the lighthouse. Since the sun sets as early as 5 PM, plan your early evening in the cozy atmosphere of the harbor area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Tudy",
+                "hu": "Église Saint-Tudy",
+                "ro": "Église Saint-Tudy",
+                "en": "Église Saint-Tudy"
+              },
+              "tip_4lang": {
+                "de": "Die dicken Mauern speichern die Kühle; tragen Sie warme Schichten, um die Ruhe der romanischen Architektur ohne Frösteln genießen zu können.",
+                "hu": "A vastag falak jól tartják a hideget; viseljen meleg rétegeket, hogy fázás nélkül élvezhesse a román stílusú építészet nyugalmát.",
+                "ro": "Zidurile groase rețin frigul; purtați haine groase în straturi pentru a vă bucura de liniștea arhitecturii romanice fără a tremura de frig.",
+                "en": "The thick walls retain the cold; wear warm layers to enjoy the tranquility of the Romanesque architecture without feeling the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Conserverie Le Gall",
+                "hu": "Musée Conserverie Le Gall",
+                "ro": "Musée Conserverie Le Gall",
+                "en": "Musée Conserverie Le Gall"
+              },
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um sich mittags aufzuwärmen; erkunden Sie die Geschichte der Konservenherstellung in der geschützten Atmosphäre der alten Fabrik.",
+                "hu": "Ideális hely a délbeni felmelegedéshez; fedezze fel a konzervgyártás történetét a régi gyárépület oltalmazó, zárt atmoszférájában.",
+                "ro": "Un loc ideal pentru a vă încălzi la prânz; explorați istoria conservelor în atmosfera protejată a vechii fabrici de pe coastă.",
+                "en": "An ideal place to warm up at noon; explore the history of canning in the protected indoor atmosphere of the old seaside factory."
+              }
+            },
+            {
+              "name": {
+                "de": "Perdrix",
+                "hu": "Perdrix",
+                "ro": "Perdrix",
+                "en": "Perdrix"
+              },
+              "tip_4lang": {
+                "de": "Das klare Winterlicht lässt die schwarz-weißen Muster des Turms besonders scharf hervortreten; perfekt für kontrastreiche Urlaubsfotos am Hafen.",
+                "hu": "A tiszta téli fényben a torony fekete-fehér mintái különösen élesen látszanak; tökéletes helyszín kontrasztos ünnepi fotókhoz a kikötőnél.",
+                "ro": "Lumina clară de iarnă face ca modelele alb-negru ale turnului să iasă în evidență; este un loc perfect pentru fotografii de vacanță cu contrast mare.",
+                "en": "The clear winter light makes the black and white patterns of the turret stand out sharply; it's a perfect spot for high-contrast holiday photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la pointe",
+                "hu": "Plage de la pointe",
+                "ro": "Plage de la pointe",
+                "en": "Plage de la pointe"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die Einsamkeit des winterlichen Strandes; der kräftige Wind erfordert eine winddichte Jacke, belohnt aber mit einer klaren Fernsicht.",
+                "hu": "Élvezze a téli tengerpart magányát; az erős szél szélálló kabátot igényel, de cserébe tiszta, messzire nyúló panorámával ajándékozza meg.",
+                "ro": "Bucurați-vă de singurătatea plajei pe timp de iarnă; vântul puternic necesită o jachetă impermeabilă, dar oferă o vizibilitate clară spre orizont.",
+                "en": "Enjoy the solitude of the winter beach; the strong wind requires a windproof jacket but rewards you with clear, far-reaching views of the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Langoz Lighthouse",
+                "hu": "Langoz Lighthouse",
+                "ro": "Farul Langoz",
+                "en": "Langoz Lighthouse"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie hier den frühen Sonnenuntergang gegen 17:00 Uhr; das warme Licht des Leuchtturms wirkt in der Kälte besonders einladend.",
+                "hu": "Tekintse meg itt a korai naplementét 17:00 körül; a világítótorony meleg fénye a téli hidegben különösen hívogató látványt nyújt.",
+                "ro": "Urmăriți apusul devreme aici, în jurul orei 17:00; lumina caldă a farului pare extrem de primitoare în frigul înțepător al iernii.",
+                "en": "Watch the early sunset here around 5 PM; the warm light of the lighthouse looks particularly inviting against the biting winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Langoz",
+                "hu": "Plage de Langoz",
+                "ro": "Plage de Langoz",
+                "en": "Plage de Langoz"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer, strammer Spaziergang im Sand regt den Kreislauf an; achten Sie auf die Gezeiten, da das Meer im Winter oft unruhiger wirkt.",
+                "hu": "Egy rövid, tempós séta a homokban felpezsdíti a keringést; figyelje az árapályt, mivel a tenger télen gyakran jóval nyugtalanabbnak tűnik.",
+                "ro": "O plimbare scurtă și rapidă pe nisip stimulează circulația; fiți atenți la maree, deoarece marea pare adesea mult mai agitată iarna.",
+                "en": "A short, brisk walk on the sand boosts circulation; keep an eye on the tides as the sea often appears much more restless in the winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Két keréken indul a Saint-Tudy templomtól, mielőtt egy rövid tekeréssel eléri a békés Chapelle Notre-Dame-de-Croaziou-t. Ez a csendes kezdés zökkenőmentesen vált át egy történelmi utazásba a közeli Manoir du Dourdy lenyűgöző birtokánál.\nDélben megérkezik a Musée Conserverie Le Gall múzeumhoz. Itt lerakva a kerékpárt visszaléphet az időben, hogy megismerje a helyi halkonzervipart, amely egykor e büszke tengerészeti közösség gazdasági gerincét alkotta.\nA délután a természetes partszakaszokra fókuszál. Egy kellemes utazás a nyugodt Plage de Kervilzic partra visz, amit a Plage de Lodonnec et Ezer tágas, napfényes homokja követ, amely tökéletes a megfáradt lábak pihentetésére.\nA kerékpározás a késő délutáni fényben, a parányi Chapelle Saint-Oual kápolnánál ér véget. A tenger közelében található épület békés, elmélkedő befejezést kínál az aktív napnak, amit Bretagne történelmi kincsei és lenyűgöző partjai között töltött.",
         "ro": "Porniți pe două roți de la biserica Saint-Tudy, înainte de a pedala puțin spre liniștita capelă Notre-Dame-de-Croaziou. Acest început calm se transformă ușor într-o călătorie istorică la impresionantul conac Manoir du Dourdy din apropiere.\nPână la prânz, ajungeți la Musée Conserverie Le Gall. Lăsând bicicleta, veți face un pas înapoi în timp pentru a descoperi industria locală de conserve de pește, care odinioară reprezenta pilonul economic al acestei comunități maritime.\nDupă-amiaza se concentrează pe superba coastă naturală. O cursă plăcută vă aduce la liniștita Plage de Kervilzic, urmată de nisipurile largi de la Plage de Lodonnec et Ezer, perfecte pentru a vă odihni picioarele obosite.\nTraseul se încheie în lumina blândă a serii la miniaturala capelă Saint-Oual. Situată lângă mare, aceasta oferă un final pașnic și reflexiv unei zile active petrecute pedalând între perlele istorice și plajele nisipoase ale Bretaniei.",
         "en": "Set off on two wheels from the Saint-Tudy church, marveling at its ancient stones, before pedaling a short distance to the serene Chapelle Notre-Dame-de-Croaziou. This quiet start transitions smoothly into a historical journey at the nearby Manoir du Dourdy.\nBy midday, you'll reach the Musée Conserverie Le Gall. Here, parking your bike allows you to step back in time and learn about the local fish canning industry that once formed the economic backbone of this proud maritime community.\nThe afternoon focuses on Loctudy's beautiful natural coastline. A pleasant ride brings you to the tranquil Plage de Kervilzic, followed by the wider, sun-drenched sands of Plage de Lodonnec et Ezer, perfect for resting your cycling legs.\nYour ride concludes in the late afternoon glow at the diminutive Chapelle Saint-Oual. Positioned near the sea, it offers a peaceful, reflective end to an active day spent pedaling between Brittany's historical gems and stunning sandy shores."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Rüsten Sie sich mit wasserfester Kleidung für eine abwechslungsreiche Radtour durch die bretonische Landschaft. Vormittags bieten Kapellen Schutz bei kurzen Schauern, während mittags ein Herrenhaus und ein Museum trockene Aufenthalte versprechen. Achten Sie auf den rutschigen Untergrund bei Küstenabschnitten. Der Abend endet im Schutz des Hafens, wenn die Dämmerung früh einsetzt.",
+            "hu": "Öltözzön vízhatlan ruházatba ehhez a változatos kerékpártúrához a breton tájon. Délelőtt a kápolnák nyújtanak menedéket a záporok elől, délben pedig egy udvarház és a múzeum ígér száraz pihenőt. Ügyeljen a csúszós útviszonyokra a tengerparti szakaszokon. Az este a kikötő biztonságában ér véget, ahogy a szürkület korán leszáll.",
+            "ro": "Echipati-vă cu haine impermeabile pentru acest tur cu bicicleta prin peisajul breton. Dimineața, capelele oferă adăpost în timpul ploilor scurte, iar la prânz un conac și muzeul promit popasuri uscate. Atenție la drumul alunecos pe secțiunile de coastă. Seara se încheie la adăpost în port, pe măsură ce amurgul se lasă devreme.",
+            "en": "Gear up with waterproof clothing for this varied bike tour through the Breton landscape. In the morning, chapels offer shelter during short showers, while at noon, a manor house and the museum promise dry stops. Watch out for slippery surfaces on coastal sections. The evening ends in the safety of the harbor as dusk falls early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Tudy",
+                "hu": "Église Saint-Tudy",
+                "ro": "Église Saint-Tudy",
+                "en": "Église Saint-Tudy"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie den Kirchenraum, um Ihre Ausrüstung zu ordnen, während Sie die beeindruckende Akustik im Regen genießen.",
+                "hu": "Parkolja le biztonságban kerékpárját, és használja a templomteret felszerelése rendezéséhez, miközben élvezi a lenyűgöző akusztikát az esőben.",
+                "ro": "Parcați bicicleta în siguranță și folosiți interiorul bisericii pentru a vă organiza echipamentul în timp ce vă bucurați de acustica impresionantă.",
+                "en": "Park your bike safely and use the church interior to organize your gear while enjoying the impressive acoustics during the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-de-Croaziou",
+                "hu": "Chapelle Notre-Dame-de-Croaziou",
+                "ro": "Chapelle Notre-Dame-de-Croaziou",
+                "en": "Chapelle Notre-Dame-de-Croaziou"
+              },
+              "tip_4lang": {
+                "de": "Diese kleine Kapelle ist ein idealer Unterstand bei einem plötzlichen Schauer; bewundern Sie die schlichte Schönheit, während Sie auf Wetterbesserung warten.",
+                "hu": "Ez a kis kápolna ideális óvóhely egy hirtelen zápor esetén; csodálja meg puritán szépségét, miközben az időjárás jobbra fordulására vár.",
+                "ro": "Această mică chapelă este un adăpost ideal în cazul unei ploi bruște; admirați frumusețea sa simplă în timp ce așteptați ca vremea să se îndrepte.",
+                "en": "This small chapel is an ideal shelter during a sudden shower; admire its simple beauty while waiting for the weather to improve."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir du Dourdy",
+                "hu": "Manoir du Dourdy",
+                "ro": "Manoir du Dourdy",
+                "en": "Manoir du Dourdy"
+              },
+              "tip_4lang": {
+                "de": "Die majestätischen Bäume bieten etwas Schutz vor Wind; nutzen Sie die Auffahrt für einen kurzen Stopp, bevor Sie zum nächsten überdachten Ziel radeln.",
+                "hu": "A fenséges fák némi védelmet nyújtanak a szél ellen; használja a felhajtót egy rövid megállóra, mielőtt a következő fedett célpont felé tekerne.",
+                "ro": "Copacii maiestuoși oferă puțină protecție împotriva vântului; folosiți aleea pentru o scurtă oprire înainte de a pedala spre următoarea țintă acoperită.",
+                "en": "The majestic trees offer some protection from the wind; use the driveway for a short stop before cycling to your next sheltered destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Conserverie Le Gall",
+                "hu": "Musée Conserverie Le Gall",
+                "ro": "Musée Conserverie Le Gall",
+                "en": "Musée Conserverie Le Gall"
+              },
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter und genießen Sie eine ausgiebige, trockene Pause bei der Erkundung der Sardinen-Geschichte in der alten Fabrikhalle.",
+                "hu": "Támassza le kerékpárját egy fedett helyen, és élvezze a kiadós, száraz pihenőt a szardínia-történelem felfedezése közben a régi gyárcsarnokban.",
+                "ro": "Lăsați bicicleta la adăpost și bucurați-vă de o pauză lungă și uscată explorând istoria sardinelor în vechea hală a fabricii.",
+                "en": "Park your bike under cover and enjoy a substantial, dry break while exploring the history of sardines in the old factory hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Kervilzic",
+                "hu": "Plage de Kervilzic",
+                "ro": "Plage de Kervilzic",
+                "en": "Plage de Kervilzic"
+              },
+              "tip_4lang": {
+                "de": "Der Strandweg kann bei Regen matschig sein; radeln Sie vorsichtig und genießen Sie den Anblick der aufgewühlten See unter den grauen Wolken.",
+                "hu": "A strandhoz vezető út esőben sáros lehet; tekerjen óvatosan, és élvezze a felkorbácsolt tenger látványát a szürke felhők alatt.",
+                "ro": "Drumul spre plajă poate fi noroios când plouă; pedalați cu atenție și bucurați-vă de vederea mării agitate sub norii cenușii.",
+                "en": "The beach path can be muddy in the rain; cycle carefully and enjoy the sight of the churned-up sea under the grey clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Lodonnec et Ezer",
+                "hu": "Plage de Lodonnec et Ezer",
+                "ro": "Plage de Lodonnec et Ezer",
+                "en": "Plage de Lodonnec et Ezer"
+              },
+              "tip_4lang": {
+                "de": "Suchen Sie bei starkem Regen Schutz unter den Ufermauern; die feuchte Meeresluft ist erfrischend, erfordert aber gute Funktionskleidung auf dem Rad.",
+                "hu": "Heves esőben keressen menedéket a partfalak mentén; a párás tengeri levegő frissítő, de jó technikai ruházatot igényel a kerékpáron.",
+                "ro": "Căutați adăpost lângă zidurile de pe țărm în caz de ploaie torențială; aerul umed al mării este revigorant, dar necesită haine tehnice pe bicicletă.",
+                "en": "Seek shelter along the sea walls during heavy rain; the humid sea air is refreshing but requires good technical clothing while on the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Oual",
+                "hu": "Chapelle Saint-Oual",
+                "ro": "Chapelle Saint-Oual",
+                "en": "Chapelle Saint-Oual"
+              },
+              "tip_4lang": {
+                "de": "Ein friedlicher Abschluss; die Kapelle bietet Schutz, um sich vor der letzten Etappe abzutrocknen und die spirituelle Ruhe zu genießen.",
+                "hu": "Békés befejezés; a kápolna védelmet nyújt, ahol megszárítkozhat az utolsó szakasz előtt, és élvezheti a spirituális nyugalmat.",
+                "ro": "Un final liniștit; capela oferă protecție pentru a vă usca înainte de ultima etapă a traseului și pentru a vă bucura de liniștea spirituală.",
+                "en": "A peaceful finish; the chapel provides shelter where you can dry off before the final leg of your journey and enjoy the spiritual calm."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Handschuhe und gute Schichten gegen den Fahrtwind. Vormittags besuchen Sie historische Kapellen, die Schutz vor der Kälte bieten. Mittags dient das Museum als perfekter Ort zum Aufwärmen. Genießen Sie die tiefstehende Sonne an den Stränden, bevor die Kälte gegen 17:00 Uhr mit dem Sonnenuntergang zunimmt. Den Abend verbringen Sie am besten in einer gemütlichen Unterkunft.",
+            "hu": "A téli kerékpártúrához meleg kesztyű és jó réteges öltözet szükséges a menetszél ellen. Délelőtt a hideg elől védelmet nyújtó történelmi kápolnákat látogassa meg. Délben a múzeum tökéletes hely a felmelegedéshez. Élvezze az alacsonyan járó nap fényét a strandokon, mielőtt a hideg 17:00-kor a naplementével fokozódna. Az estét töltse egy barátságos szálláson.",
+            "ro": "Un tur de iarnă cu bicicleta necesită mănuși groase și straturi bune de haine împotriva vântului. Dimineața, vizitați capelele istorice care oferă protecție împotriva frigului. La prânz, muzeul servește ca loc perfect pentru încălzire. Bucurați-vă de soarele palid pe plaje înainte ca gerul să se intensifice odată cu apusul de la ora 17:00.",
+            "en": "A winter bike tour requires warm gloves and good layers against the wind chill. In the morning, visit historical chapels that offer protection from the cold. At noon, the museum serves as a perfect spot to warm up. Enjoy the low sun on the beaches before the cold intensifies with the sunset around 5 PM. Spend the evening in a cozy accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Tudy",
+                "hu": "Église Saint-Tudy",
+                "ro": "Église Saint-Tudy",
+                "en": "Église Saint-Tudy"
+              },
+              "tip_4lang": {
+                "de": "Die dicken Mauern halten den Frost draußen; eine gute Gelegenheit, das Rad kurz stehen zu lassen und die romanische Kunst im Stillen zu bewundern.",
+                "hu": "A vastag falak kívül tartják a fagyot; jó alkalom, hogy rövid időre letegye a kerékpárt, és csendben megcsodálja a román stílusú művészetet.",
+                "ro": "Zidurile groase țin gerul la distanță; o ocazie bună de a lăsa bicicleta puțin și de a admira arta romanică în liniște deplină.",
+                "en": "The thick walls keep the frost out; it's a good opportunity to leave your bike for a short while and admire the Romanesque art in silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-de-Croaziou",
+                "hu": "Chapelle Notre-Dame-de-Croaziou",
+                "ro": "Chapelle Notre-Dame-de-Croaziou",
+                "en": "Chapelle Notre-Dame-de-Croaziou"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp in der Kälte; die schlichte Kapelle wirkt im winterlichen Licht sehr andächtig, ideal für einen Moment der inneren Einkehr.",
+                "hu": "Rövid megálló a hidegben; a puritán kápolna a téli fényben nagyon áhítatosnak tűnik, ideális helyszín egy pillanatnyi belső elcsendesedéshez.",
+                "ro": "O oprire scurtă în frig; capela simplă pare foarte pioasă în lumina iernii, fiind ideală pentru un moment de reflecție interioară.",
+                "en": "A short stop in the cold; the simple chapel looks very devout in the winter light, making it an ideal spot for a moment of inner reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir du Dourdy",
+                "hu": "Manoir du Dourdy",
+                "ro": "Manoir du Dourdy",
+                "en": "Manoir du Dourdy"
+              },
+              "tip_4lang": {
+                "de": "Das Herrenhaus wirkt im Winter kahl und majestätisch; radeln Sie durch den Park und genießen Sie die klare Luft unter den hohen Bäumen.",
+                "hu": "Az udvarház télen kopár és fenséges; tekerjen át a parkon, és élvezze a tiszta levegőt a magas fák alatt a téli csendben.",
+                "ro": "Conacul pare golaș și maiestuos iarna; pedalați prin parc și bucurați-vă de aerul curat sub copacii înalți, în liniștea iernii.",
+                "en": "The manor house looks bare and majestic in winter; cycle through the park and enjoy the crisp air under the tall trees in the winter silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Conserverie Le Gall",
+                "hu": "Musée Conserverie Le Gall",
+                "ro": "Musée Conserverie Le Gall",
+                "en": "Musée Conserverie Le Gall"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmstopp; drinnen ist es geschützt vor dem eisigen Küstenwind, perfekt für eine ausgiebige Kulturpause.",
+                "hu": "Használja a múzeumlátogatást felmelegedő állomásként; bent védve van a jeges tengerparti széltől, tökéletes egy alapos kulturális pihenőhöz.",
+                "ro": "Folosiți vizita la muzeu ca punct de încălzire; interiorul este protejat de vântul înghețat de coastă, perfect pentru o pauză culturală lungă.",
+                "en": "Use the museum visit as a warming stop; inside you are protected from the icy coastal wind, perfect for a thorough cultural break."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Kervilzic",
+                "hu": "Plage de Kervilzic",
+                "ro": "Plage de Kervilzic",
+                "en": "Plage de Kervilzic"
+              },
+              "tip_4lang": {
+                "de": "Die verlassene Bucht bietet im Winter eine ruhige Atmosphäre; die Bewegung beim Radeln hält warm, während Sie den Blick auf das Meer genießen.",
+                "hu": "Az elhagyatott öböl télen nyugodt légkört áraszt; a kerékpározás közbeni mozgás melegen tartja, miközben a tengeri kilátást élvezi.",
+                "ro": "Golful părăsit oferă o atmosferă liniștită iarna; mișcarea pe bicicletă vă menține cald în timp ce vă bucurați de priveliștea mării.",
+                "en": "The deserted bay offers a quiet atmosphere in winter; the movement of cycling keeps you warm while you enjoy the ocean view."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Lodonnec et Ezer",
+                "hu": "Plage de Lodonnec et Ezer",
+                "ro": "Plage de Lodonnec et Ezer",
+                "en": "Plage de Lodonnec et Ezer"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie das tiefe Blau des Meeres unter der Wintersonne; halten Sie sich in Bewegung, um nicht auszukühlen, bevor Sie zur nächsten Kapelle fahren.",
+                "hu": "Figyelje meg a tenger mélykék színét a téli napsütésben; maradjon mozgásban, hogy ne hűljön ki, mielőtt a következő kápolnához indulna.",
+                "ro": "Observați albastrul profund al mării sub soarele de iarnă; rămâneți în mișcare pentru a nu vă răci înainte de a pleca spre următoarea chapelă.",
+                "en": "Observe the deep blue of the sea under the winter sun; keep moving to stay warm before heading off to the next chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Oual",
+                "hu": "Chapelle Saint-Oual",
+                "ro": "Chapelle Saint-Oual",
+                "en": "Chapelle Saint-Oual"
+              },
+              "tip_4lang": {
+                "de": "Ein schöner Ort, um kurz vor Sonnenuntergang innezuhalten; die frostige Landschaft um die Kapelle wirkt im schwindenden Licht fast mystisch.",
+                "hu": "Szép hely a megállásra közvetlenül naplemente előtt; a kápolna körüli fagyos táj a fogyatkozó fényben szinte misztikusnak tűnik.",
+                "ro": "Un loc frumos de oprire chiar înainte de apus; peisajul înghețat din jurul capelei pare aproape mistic în lumina care scade.",
+                "en": "A beautiful spot to pause just before sunset; the frosty landscape around the chapel looks almost mystical in the fading light."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Kezdje autós útját a fenséges Manoir de Kerazan-nál, mielőtt egy perc alatt átgurulna az ugyancsak lenyűgöző Manoir du Dourdy-hoz. Ezután tegyen egy rövid látogatást a festői Chapelle Notre-Dame-de-Croaziou kápolnában.\nDélben parkoljon le a Musée Conserverie Le Gall közelében, hogy elmerüljön a helyi halászati múltban. A szardíniakonzerválás rejtelmeinek felfedezése után tegyen egy rövid autózást a Grande Plage du Sillon-hoz egy frissítő tengerparti sétára.\nA délutáni vezetés a part mentén halad, megállva a Langoz világítótoronynál, hogy megcsodálhassa a jellegzetes breton tengerészeti építészetet. Az autó kényelme lehetővé teszi a szétszórt látványosságok hatékony felfedezését.\nZárja a napot a Plage de Lodonnec et Ezer homokos partján. A naplemente megtekintése erről a tágas strandról lélegzetelállító élmény, amely tökéletes befejezést nyújt Loctudy legjobb történelmi és természeti látnivalóinak átfogó túrájához.",
         "ro": "Începeți călătoria cu mașina în măreție la Manoir de Kerazan, explorându-i colecțiile, înainte de a conduce un minut până la fascinantul Manoir du Dourdy. Apoi, vizitați pitoreasca capelă Notre-Dame-de-Croaziou.\nLa amiază, parcați lângă Musée Conserverie Le Gall pentru a vă scufunda în trecutul pescuitului industrial din Loctudy. Apoi, faceți o scurtă plimbare cu mașina până la Grande Plage du Sillon pentru o gură de aer curat pe țărmul oceanului.\nTraseul de după-amiază urmărește linia coastei, oprindu-se la farul Langoz pentru a admira arhitectura maritimă bretonă prin excelență. Confortul mașinii vă permite să surprindeți eficient aceste atracții în timp ce vă bucurați de peisaj.\nÎncheiați ziua parcând la Plage de Lodonnec et Ezer. Privirea apusului de pe aceste nisipuri vaste este o experiență uluitoare, aducând un final perfect turului dumneavoastră cuprinzător al atracțiilor istorice și naturale din Loctudy.",
         "en": "Begin your road trip in grandeur at the Manoir de Kerazan, exploring its art collections, before driving just a minute down the road to the equally fascinating Manoir du Dourdy. Afterwards, visit the quaint Chapelle Notre-Dame-de-Croaziou.\nFor midday, park near the Musée Conserverie Le Gall to immerse yourself in Loctudy's industrial fishing past. After discovering the intricacies of sardine canning, take a short drive to Grande Plage du Sillon for a refreshing walk along the ocean.\nThe afternoon drive traces the coastline, pausing at the Langoz Lighthouse to take in the quintessential Breton maritime architecture. The ease of a car allows you to capture these scattered sights efficiently while enjoying the coastal breeze.\nFinish the day parking at Plage de Lodonnec et Ezer. Watching the sunset from these expansive sands is a breathtaking experience, bringing a perfect close to your comprehensive driving tour of Loctudy's best historical and natural sights."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Bequemlichkeit des Autos, um trocken zwischen den historischen Herrenhäusern und Kapellen zu pendeln. Vormittags erkunden Sie prachtvolle Innenräume, während mittags das Museum eine spannende Zeitreise bietet. Die Küstenbesuche am Nachmittag sind dank des Fahrzeugs als warmer Rückzugsort auch bei starkem Regen angenehm. Der Abend klingt sicher im Hafenviertel aus.",
+            "hu": "Élvezze az autó kényelmét, miközben szárazon közlekedik a történelmi udvarházak és kápolnák között. Délelőtt a pompás belső tereket fedezheti fel, délben pedig a múzeum kínál izgalmas időutazást. A délutáni tengerparti látogatások a járműnek mint meleg menedéknek köszönhetően heves esőben is élvezetesek. Az este biztonságosan zárul a kikötőben.",
+            "ro": "Bucurați-vă de confortul mașinii pentru a naviga uscat între conacele istorice și capele. Dimineața explorați interioarele splendide, iar la prânz muzeul oferă o călătorie fascinantă în timp. Vizitele pe coastă de după-amiază sunt plăcute chiar și în ploaie torențială, având mașina ca refugiu cald. Seara se încheie în siguranță în zona portului.",
+            "en": "Enjoy the comfort of your car to travel dry between historical manors and chapels. In the morning, explore splendid interiors, while at noon, the museum offers an exciting journey through time. Afternoon coastal visits remain enjoyable even in heavy rain, with the vehicle serving as a warm refuge. The evening ends safely in the harbor area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manoir de Kerazan",
+                "hu": "Manoir de Kerazan",
+                "ro": "Manoir de Kerazan",
+                "en": "Manoir de Kerazan"
+              },
+              "tip_4lang": {
+                "de": "Dieses Herrenhaus bietet faszinierende Innenräume; der perfekte Ort, um einen regnerischen Vormittag in prachtvoller und trockener Umgebung zu verbringen.",
+                "hu": "Ez az udvarház lenyűgöző belső terekkel rendelkezik; tökéletes hely egy esős délelőtt eltöltésére pompás és száraz környezetben.",
+                "ro": "Acest conac are interioare fascinante; este locul perfect pentru a petrece o dimineață ploioasă într-un cadru splendid și uscat.",
+                "en": "This manor house features fascinating interiors; the perfect place to spend a rainy morning in a splendid and dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir du Dourdy",
+                "hu": "Manoir du Dourdy",
+                "ro": "Manoir du Dourdy",
+                "en": "Manoir du Dourdy"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Anblick der Architektur vom Auto aus oder unter einem Regenschirm; die nasse Steinfassade wirkt bei diesem Wetter besonders edel.",
+                "hu": "Élvezze az építészet látványát az autóból vagy egy esernyő alól; a nedves kőhomlokzat ebben az időben különösen elegáns hatást kelt.",
+                "ro": "Bucurați-vă de vederea arhitecturii din mașină sau de sub o umbrelă; fațada de piatră umedă arată deosebit de elegantă în acest tip de vreme.",
+                "en": "Enjoy the sight of the architecture from the car or under an umbrella; the wet stone facade looks particularly elegant in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-de-Croaziou",
+                "hu": "Chapelle Notre-Dame-de-Croaziou",
+                "ro": "Chapelle Notre-Dame-de-Croaziou",
+                "en": "Chapelle Notre-Dame-de-Croaziou"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer, besinnlicher Stopp; die Kapelle bietet einen schnellen Schutz vor Schauern, ideal um die bretonische Spiritualität trocken zu erleben.",
+                "hu": "Rövid, meghitt megálló; a kápolna gyors védelmet nyújt a záporok elől, ideális a breton spiritualitás szárazon történő átéléséhez.",
+                "ro": "O oprire scurtă și meditativă; capela oferă un adăpost rapid împotriva ploii, fiind ideală pentru a experimenta spiritualitatea bretonă la uscat.",
+                "en": "A short, contemplative stop; the chapel offers quick protection from showers, ideal for experiencing Breton spirituality while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Conserverie Le Gall",
+                "hu": "Musée Conserverie Le Gall",
+                "ro": "Musée Conserverie Le Gall",
+                "en": "Musée Conserverie Le Gall"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie direkt in der Nähe und tauchen Sie ein in die Geschichte der Konservenfabrik; ein Highlight, das völlig wetterunabhängig Freude macht.",
+                "hu": "Parkoljon közvetlenül a közelben, és merüljön el a konzervgyár történetében; ez a fénypont az időjárástól függetlenül nagyszerű élményt nyújt.",
+                "ro": "Parcați chiar în apropiere și scufundați-vă în istoria fabricii de conserve; un punct culminant care oferă plăcere indiferent de vreme.",
+                "en": "Park right nearby and immerse yourself in the history of the cannery; a highlight that is enjoyable regardless of the weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage du Sillon",
+                "hu": "Grande Plage du Sillon",
+                "ro": "Grande Plage du Sillon",
+                "en": "Grande Plage du Sillon"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie das Schauspiel der Wellen gemütlich aus dem warmen Auto heraus, falls der Regen zu stark für einen Strandspaziergang wird.",
+                "hu": "Figyelje meg a hullámok játékát kényelmesen a meleg autóból, ha az eső túlságosan eleredne egy tengerparti sétához.",
+                "ro": "Urmăriți spectacolul valurilor confortabil din mașina caldă, în cazul în care ploaia devine prea puternică pentru o plimbare pe plajă.",
+                "en": "Watch the spectacle of the waves comfortably from your warm car if the rain becomes too heavy for a walk along the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Langoz Lighthouse",
+                "hu": "Langoz Lighthouse",
+                "ro": "Farul Langoz",
+                "en": "Langoz Lighthouse"
+              },
+              "tip_4lang": {
+                "de": "Der Leuchtturm im Regen ist ein tolles Fotomotiv; nutzen Sie das Auto für einen schnellen Kleiderwechsel oder zum Aufwärmen nach dem Aussteigen.",
+                "hu": "A világítótorony az esőben remek fotótéma; használja az autót egy gyors átöltözéshez vagy felmelegedéshez a kiszállás után.",
+                "ro": "Farul în ploaie este un subiect foto excelent; folosiți mașina pentru o schimbare rapidă de haine sau pentru a vă încălzi după ce coborâți.",
+                "en": "The lighthouse in the rain is a great photo subject; use the car for a quick change of clothes or to warm up after getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Lodonnec et Ezer",
+                "hu": "Plage de Lodonnec et Ezer",
+                "ro": "Plage de Lodonnec et Ezer",
+                "en": "Plage de Lodonnec et Ezer"
+              },
+              "tip_4lang": {
+                "de": "Ein schöner Abschluss der Tour; genießen Sie die maritime Atmosphäre bei einem kurzen Gang am Wasser und kehren Sie dann ins trockene Auto zurück.",
+                "hu": "A túra szép lezárása; élvezze a tengeri hangulatot egy rövid vízparti séta során, majd térjen vissza a száraz autóba.",
+                "ro": "Un final frumos al turului; bucurați-vă de atmosfera maritimă într-o scurtă plimbare pe malul apei, apoi întoarceți-vă în mașina uscată.",
+                "en": "A nice conclusion to the tour; enjoy the maritime atmosphere with a short walk by the water, then return to the dry comfort of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour verbindet gemütliche Wärme mit beeindruckender Geschichte. Vormittags besuchen Sie prachtvolle Herrenhäuser, die auch im Winter ihren Charme behalten. Mittags bietet das Museum einen lehrreichen Aufenthalt im Warmen. Nutzen Sie die Flexibilität des Wagens, um die Strände im klaren Winterlicht zu sehen, bevor es gegen 17:00 Uhr dunkel wird. Der Abend im Hafen ist besonders stimmungsvoll.",
+            "hu": "A téli autós túra ötvözi a kellemes meleget a lenyűgöző történelemmel. Délelőtt pompás udvarházakat látogathat meg, amelyek télen is megőrzik bájaikat. Délben a múzeum tanulságos kikapcsolódást nyújt a melegben. Használja ki az autó rugalmasságát a strandok megtekintéséhez a tiszta téli fényben, mielőtt 17:00 körül besötétedik. A kikötői este ilyenkor különösen hangulatos.",
+            "ro": "Turul de iarnă cu mașina îmbină căldura confortabilă cu istoria impresionantă. Dimineața vizitați conace splendide care își păstrează farmecul și iarna. La prânz, muzeul oferă o ședere educativă la căldură. Folosiți flexibilitatea mașinii pentru a vedea plajele în lumina clară de iarnă înainte de a se întuneca la ora 17:00. Seara în port este deosebit de atmosferică.",
+            "en": "The winter car tour combines cozy warmth with impressive history. In the morning, visit splendid manor houses that retain their charm even in winter. At noon, the museum offers an educational stay in the warm. Use the car's flexibility to see the beaches in the clear winter light before it gets dark around 5 PM. The evening in the harbor is particularly atmospheric."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manoir de Kerazan",
+                "hu": "Manoir de Kerazan",
+                "ro": "Manoir de Kerazan",
+                "en": "Manoir de Kerazan"
+              },
+              "tip_4lang": {
+                "de": "Ein herrschaftlicher Wintermorgen; erkunden Sie die kostbaren Sammlungen im Inneren, wo Sie vor der winterlichen Kälte gut geschützt sind.",
+                "hu": "Fenséges téli délelőtt; fedezze fel a belső terek értékes gyűjteményeit, ahol jól védve van a téli hidegtől.",
+                "ro": "O dimineață de iarnă nobiliară; explorați colecțiile prețioase din interior, unde sunteți bine protejat de frigul iernii.",
+                "en": "A majestic winter morning; explore the precious collections inside, where you are well-protected from the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir du Dourdy",
+                "hu": "Manoir du Dourdy",
+                "ro": "Manoir du Dourdy",
+                "en": "Manoir du Dourdy"
+              },
+              "tip_4lang": {
+                "de": "Das Herrenhaus wirkt im Winterlicht besonders imposant; nutzen Sie die kurzen Wege vom Parkplatz, um die Architektur ohne langes Frieren zu bewundern.",
+                "hu": "Az udvarház a téli fényben különösen impozáns; használja ki a parkolótól vezető rövid utat, hogy fázás nélkül csodálhassa meg az építészetet.",
+                "ro": "Conacul pare deosebit de impunător în lumina iernii; profitați de distanța scurtă de la parcare pentru a admira arhitectura fără a îngheța prea tare.",
+                "en": "The manor house looks particularly imposing in the winter light; take advantage of the short walks from the parking lot to admire the architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-de-Croaziou",
+                "hu": "Chapelle Notre-Dame-de-Croaziou",
+                "ro": "Chapelle Notre-Dame-de-Croaziou",
+                "en": "Chapelle Notre-Dame-de-Croaziou"
+              },
+              "tip_4lang": {
+                "de": "Ein Ort der Stille im Winter; die Kapelle bietet einen ruhigen Moment zum Innehalten, bevor Sie die Fahrt in Ihrem beheizten Auto fortsetzen.",
+                "hu": "A csend helyszíne télen; a kápolna nyugodt pillanatot kínál az elmélyüléshez, mielőtt folytatná útját fűtött autójában.",
+                "ro": "Un loc al liniștii pe timp de iarnă; capela oferă un moment de reculegere înainte de a continua drumul în mașina încălzită.",
+                "en": "A place of silence in winter; the chapel offers a quiet moment for reflection before you continue your journey in your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Conserverie Le Gall",
+                "hu": "Musée Conserverie Le Gall",
+                "ro": "Musée Conserverie Le Gall",
+                "en": "Musée Conserverie Le Gall"
+              },
+              "tip_4lang": {
+                "de": "Perfekt für eine Mittagspause im Warmen; die industrielle Geschichte der Region lässt sich in den geschützten Hallen auch im Winter ideal erkunden.",
+                "hu": "Tökéletes helyszín egy meleg déli pihenőhöz; a régió ipari történelme a védett csarnokokban télen is ideálisan felfedezhető.",
+                "ro": "Perfect pentru o pauză de prânz la căldură; istoria industrială a regiunii poate fi explorată ideal în halele protejate chiar și iarna.",
+                "en": "Perfect for a warm lunch break; the industrial history of the region can be ideally explored in the protected halls even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage du Sillon",
+                "hu": "Grande Plage du Sillon",
+                "ro": "Grande Plage du Sillon",
+                "en": "Grande Plage du Sillon"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den weiten Blick auf den Atlantik; das Auto dient als windgeschützter Aussichtspunkt, falls der Küstenwind im Winter zu scharf bläst.",
+                "hu": "Élvezze a tágas kilátást az Atlanti-óceánra; az autó szélvédett kilátóként szolgál, ha a tengerparti szél télen túl élesen fújna.",
+                "ro": "Bucurați-vă de vederea vastă asupra Atlanticului; mașina servește ca punct de observație protejat de vânt dacă briza mării bate prea tare iarna.",
+                "en": "Enjoy the expansive view of the Atlantic; the car serves as a wind-protected viewpoint if the coastal wind blows too sharply in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Langoz Lighthouse",
+                "hu": "Langoz Lighthouse",
+                "ro": "Farul Langoz",
+                "en": "Langoz Lighthouse"
+              },
+              "tip_4lang": {
+                "de": "Ein Muss für den frühen Sonnenuntergang; das Lichtspiel auf dem Wasser ist im Winter besonders klar und lässt sich hervorragend fotografieren.",
+                "hu": "A korai naplemente kötelező látnivalója; a vízen megcsillanó fények télen különösen tiszták, és kiválóan fotózhatók a világítótoronynál.",
+                "ro": "O vizită obligatorie pentru apusul devreme; jocul de lumini pe apă este deosebit de clar iarna și poate fi fotografiat excelent lângă far.",
+                "en": "A must-see for the early sunset; the play of light on the water is particularly clear in winter and makes for excellent photography near the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Lodonnec et Ezer",
+                "hu": "Plage de Lodonnec et Ezer",
+                "ro": "Plage de Lodonnec et Ezer",
+                "en": "Plage de Lodonnec et Ezer"
+              },
+              "tip_4lang": {
+                "de": "Lassen Sie den Tag bei einem letzten Blick auf das abendliche Meer ausklingen; die winterliche Dämmerung verleiht der Küste eine ganz eigene Ruhe.",
+                "hu": "Zárja a napot az esti tengerre nyíló utolsó pillantással; a téli szürkület egészen különleges nyugalmat kölcsönöz a partvidéknek.",
+                "ro": "Încheiați ziua cu o ultimă privire asupra mării la amurg; crepusculul de iarnă conferă coastei o liniște cu totul aparte.",
+                "en": "End your day with a final look at the evening sea; the winter dusk gives the coastline a very special kind of tranquility."
+              }
+            }
+          ]
+        }
       }
     }
   }

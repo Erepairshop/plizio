@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a helyi büszkeséget jelképező hatalmas Guerrero Chimalli szobornál, majd élvezze a művészetet a közeli előadóteremben. Délben az El Chimalhuache frissítő parkja nyújt pihenést. Délután fedezze fel a régió ősi gyökereit a Los Pochotes romoknál és az Alcomixtli színháznál. A napot a Chimaltonalli Múzeum gazdag helytörténeti kiállításával zárhatja nyugodt környezetben.",
         "ro": "Începeți dimineața la impunătorul Guerrero Chimalli, un simbol al mândriei locale, urmat de artă la auditoriul din apropiere. La prânz, vizitați El Chimalhuache pentru peisaje revigorante și relaxare. După-amiaza, explorați rădăcinile antice la Los Pochotes și teatrul Alcomixtli. Încheiați ziua descoperind moștenirea bogată a zonei la Muzeul Chimaltonalli, plin de istorie locală.",
         "en": "Begin your morning at the towering Guerrero Chimalli, a symbol of local pride, before enjoying local arts at the nearby auditorium. Midday takes you to El Chimalhuache for refreshing park views and a relaxing break. In the afternoon, explore the ancient roots of the region at Los Pochotes and the striking Alcomixtli theater. End your day discovering rich heritage at the Chimaltonalli Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Fuße des Chimalli-Kriegers, wo das Museum Schutz vor dem Nieselregen bietet. Mittags dient das Theater als trockener Rückzugsort für kulturelle Entdeckungen. Am Nachmittag erkunden wir mit Regenschirmen die rutschigen Pfade der archäologischen Zone. Der Abend endet gemütlich im Chimaltonalli-Museum, während draußen der Regen auf die historischen Straßen prasselt.",
+            "hu": "A reggel a hatalmas Chimalli harcos lábánál indul, ahol a múzeum belső terei nyújtanak menedéket az eső elől. Délben a színház fedett épülete tökéletes hely egy száraz pihenőhöz. Délután esernyőkkel felszerelkezve vágunk neki a csúszós régészeti ösvényeknek. Az napot a Chimaltonalli Múzeumban zárjuk, ahol a gazdag kiállítások között vághatjuk ki a kinti zivatart.",
+            "ro": "Dimineața începe la baza uriașului războinic Chimalli, unde muzeul oferă adăpost împotriva burniței. La prânz, teatrul servește ca un refugiu uscat pentru descoperiri culturale. După-amiaza explorăm cu umbrele potecile alunecoase ale zonei arheologice. Seara se încheie confortabil la Muzeul Chimaltonalli, în timp ce afară ploaia bate în străzile istorice.",
+            "en": "Morning begins at the base of the massive Chimalli warrior, where the museum's indoor galleries offer shelter from the drizzle. At noon, the theater's covered space provides a perfect spot for a dry break. Afternoon is spent under umbrellas exploring the slippery archaeological paths. The evening concludes at the Chimaltonalli Museum, where cozy indoor exhibits keep you dry while you explore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Guerrero Chimalli",
+                "hu": "Museo del Guerrero Chimalli",
+                "ro": "Museo del Guerrero Chimalli",
+                "en": "Museo del Guerrero Chimalli"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Aussichtsplattform nur bei Regenpausen und nutzen Sie die Innenräume des Museums, um trocken zu bleiben.",
+                "hu": "A kilátót csak az eső szüneteiben látogassa meg, a köztes időben pedig fedezze fel a szobor belsejében található kiállítást.",
+                "ro": "Vizitați platforma de observare doar în pauzele de ploaie și folosiți interiorul muzeului pentru a rămâne uscat.",
+                "en": "Visit the observation deck only during rain breaks and use the museum's interior galleries to stay dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro-Auditorio Humberto Vidal Mendoza",
+                "hu": "Teatro-Auditorio Humberto Vidal Mendoza",
+                "ro": "Teatro-Auditorio Humberto Vidal Mendoza",
+                "en": "Teatro-Auditorio Humberto Vidal Mendoza"
+              },
+              "tip_5lang": {
+                "de": "Dieses Theater bietet eine hervorragende Akustik und kompletten Schutz vor plötzlichen Regenschauern während Ihrer Tour.",
+                "hu": "Ez a színház kiváló akusztikát és teljes védelmet nyújt a hirtelen záporok ellen a városnéző séta közben.",
+                "ro": "Acest teatru oferă o acustică excelentă și protecție completă împotriva averselor bruște de ploaie în timpul turului.",
+                "en": "This theater offers excellent acoustics and complete protection from sudden rain showers during your walking tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Acuático El Chimalhuache",
+                "hu": "Parque Acuático El Chimalhuache",
+                "ro": "Parque Acuático El Chimalhuache",
+                "en": "Parque Acuático El Chimalhuache"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können bei Nässe extrem rutschig sein; tragen Sie Schuhe mit gutem Profil und nutzen Sie die überdachten Bereiche.",
+                "hu": "A járdák vizesen rendkívül csúszósak lehetnek; viseljen tapadós talpú cipőt és keresse a fedett pihenőhelyeket.",
+                "ro": "Potecile pot fi extrem de alunecoase când sunt ude; purtați pantofi cu aderență bună și folosiți zonele acoperite.",
+                "en": "The walkways can be extremely slippery when wet; wear shoes with good grip and utilize the covered rest areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Arqueológica Los Pochotes",
+                "hu": "Zona Arqueológica Los Pochotes",
+                "ro": "Zona Arqueológica Los Pochotes",
+                "en": "Zona Arqueológica Los Pochotes"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine sind bei Regen sehr glatt; bleiben Sie auf den markierten Wegen und bringen Sie einen stabilen Schirm mit.",
+                "hu": "Az ősi kövek esőben nagyon síkosak; maradjon a kijelölt ösvényeken és hozzon magával egy erős, szélálló esernyőt.",
+                "ro": "Pietrele antice sunt foarte alunecoase pe ploaie; rămâneți pe potecile marcate și aduceți o umbrelă rezistentă.",
+                "en": "The ancient stones are very slick in the rain; stay on the marked paths and bring a sturdy, wind-resistant umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+                "hu": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+                "ro": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+                "en": "Teatro Auditorio Alcomixtli Nezahualcóyotl"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Foyer ist ein idealer Ort, um einen starken Guss abzuwarten, während man die zeitgenössische Architektur bewundert.",
+                "hu": "A modern előcsarnok ideális hely egy nagyobb felhőszakadás kivárására, miközben megcsodálhatja a kortárs építészetet.",
+                "ro": "Foaierul modern este un loc ideal pentru a aștepta trecerea unei ploi torențiale, admirând arhitectura contemporană.",
+                "en": "The modern foyer is an ideal place to wait out a heavy downpour while admiring the contemporary architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Chimaltonalli",
+                "hu": "Museo Chimaltonalli",
+                "ro": "Museo Chimaltonalli",
+                "en": "Museo Chimaltonalli"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen voll überdachten Ort, um die lokale Geschichte in aller Ruhe zu studieren, während es draußen regnet.",
+                "hu": "Használja ki ezt a teljesen fedett helyszínt a helyi történelem nyugodt tanulmányozására, amíg odakint esik az eső.",
+                "ro": "Profită de această locație complet acoperită pentru a studia istoria locală pe îndelete, în timp ce afară plouă.",
+                "en": "Take advantage of this fully indoor location to study local history at your leisure while it rains outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt am monumentalen Krieger. Die Mittagssonne wärmt den Spaziergang durch die archäologische Zone, bevor die Temperaturen spürbar sinken. Am Nachmittag bieten die Theater und Museen wohlige Wärme. Der Tag endet pünktlich zum frühen Sonnenuntergang um 17:00 Uhr, wenn die Kälte über die Stadt hereinbricht.",
+            "hu": "Friss téli reggel indul a monumentális harcosnál. A déli napsütés kellemesen melegíti a régészeti sétát, mielőtt a hőmérséklet hirtelen zuhanni kezdene. Délután a színházak és múzeumok nyújtanak meleg menedéket. A nap az 17:00 órai korai naplemente előtt zárul, amikor a hideg végleg átveszi az uralmat a város felett.",
+            "ro": "O dimineață răcoroasă de iarnă începe la războinicul monumental. Soarele de la prânz încălzește plimbarea prin zona arheologică înainte ca temperaturile să scadă. După-amiaza, teatrele și muzeele oferă o căldură plăcută. Ziua se încheie exact înainte de apusul devreme de la ora 17:00, când frigul cuprinde orașul.",
+            "en": "A crisp winter morning starts at the monumental warrior statue. The midday sun warms the walk through the archaeological zone before temperatures drop. In the afternoon, theaters and museums provide welcome warmth. The day ends just before the early 17:00 sunset, when the winter chill settles over the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Guerrero Chimalli",
+                "hu": "Museo del Guerrero Chimalli",
+                "ro": "Museo del Guerrero Chimalli",
+                "en": "Museo del Guerrero Chimalli"
+              },
+              "tip_5lang": {
+                "de": "Die Höhe macht den Wind am Morgen sehr beißend; tragen Sie eine windfeste Jacke für den Aufstieg zur Plattform.",
+                "hu": "A magasság miatt a reggeli szél igen metsző lehet; viseljen szélálló kabátot, amikor felmegy a kilátóba.",
+                "ro": "Înălțimea face vântul de dimineață foarte tăios; purtați o jachetă rezistentă la vânt pentru urcarea pe platformă.",
+                "en": "The height makes the morning wind quite biting; wear a wind-resistant jacket for the ascent to the platform."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro-Auditorio Humberto Vidal Mendoza",
+                "hu": "Teatro-Auditorio Humberto Vidal Mendoza",
+                "ro": "Teatro-Auditorio Humberto Vidal Mendoza",
+                "en": "Teatro-Auditorio Humberto Vidal Mendoza"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Wärme gut; ein idealer Ort für eine Pause vom kühlen Winterwind draußen.",
+                "hu": "A vastag falak jól tartják a hőt; ideális hely egy kis pihenőre a kinti hűvös téli szél elől.",
+                "ro": "Zidurile groase rețin bine căldura; un loc ideal pentru o pauză de la vântul rece de iarnă de afară.",
+                "en": "The thick walls retain heat well; an ideal spot for a break from the cool winter wind blowing outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Acuático El Chimalhuache",
+                "hu": "Parque Acuático El Chimalhuache",
+                "ro": "Parque Acuático El Chimalhuache",
+                "en": "Parque Acuático El Chimalhuache"
+              },
+              "tip_5lang": {
+                "de": "Auch wenn es zu kalt zum Schwimmen ist, bieten die Wege eine herrliche Wintersonne für einen zügigen Spaziergang.",
+                "hu": "Bár úszáshoz hideg lehet, az ösvények remek téli napsütést kínálnak egy élénkítő sétához a friss levegőn.",
+                "ro": "Chiar dacă e prea frig pentru înot, potecile oferă un soare de iarnă superb pentru o plimbare revigorantă.",
+                "en": "Even if it's too cold for a swim, the paths offer wonderful winter sun for a brisk, refreshing walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Arqueológica Los Pochotes",
+                "hu": "Zona Arqueológica Los Pochotes",
+                "ro": "Zona Arqueológica Los Pochotes",
+                "en": "Zona Arqueológica Los Pochotes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das maximale Tageslicht zur Mittagszeit, da die Ruinen nach 16:00 Uhr schnell im Schatten liegen und auskühlen.",
+                "hu": "Használja ki a déli napsütést, mert a romok 16:00 után gyorsan árnyékba kerülnek és lehűlnek.",
+                "ro": "Profită de lumina maximă a zilei la prânz, deoarece ruinele intră rapid în umbră și se răcesc după ora 16:00.",
+                "en": "Utilize the maximum daylight at noon, as the ruins fall into shadow and cool down quickly after 16:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+                "hu": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+                "ro": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+                "en": "Teatro Auditorio Alcomixtli Nezahualcóyotl"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Theater am späten Nachmittag, um die goldene Stunde vor dem frühen Sonnenuntergang einzufangen.",
+                "hu": "Látogasson el ide késő délután, hogy elkapja az aranyórát a korai, 17:00 órás naplemente előtt.",
+                "ro": "Vizitați teatrul spre seară pentru a surprinde ora de aur înainte de apusul devreme de la ora 17:00.",
+                "en": "Visit the theater in the late afternoon to catch the golden hour before the early 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Chimaltonalli",
+                "hu": "Museo Chimaltonalli",
+                "ro": "Museo Chimaltonalli",
+                "en": "Museo Chimaltonalli"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang hier in den beheizten Innenräumen, wenn die Außentemperaturen gegen Abend stark fallen.",
+                "hu": "Zárja itt a sétát a fűtött belső terekben, amikor az esti hőmérséklet kint már jelentősen visszaesik.",
+                "ro": "Încheiați turul aici, în interiorul încălzit, când temperaturile exterioare scad semnificativ spre seară.",
+                "en": "End your tour here in the heated indoor galleries as outdoor temperatures drop sharply towards the evening."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Tekerjen a monumentális Guerrero Chimalli és a modern Humberto Vidal színház felé a reggel folyamán. Dél körül biciklizzen délre az interaktív farmhoz, és hűsöljön a Chimalhuache víziparkban. A délután a történelemé, a Los Pochotes ősi romjaival és a Chimaltonalli Múzeum leleteivel. Zárja tartalmas kerékpártúráját a tágas Recinto Ferial rendezvényközpont területén.",
         "ro": "Pedalați dimineața spre monumentalul Guerrero Chimalli și modernul teatru Humberto Vidal. La prânz, mergeți spre sud la ferma interactivă și răcoriți-vă la parcul acvatic Chimalhuache. După-amiaza se axează pe istorie, cu ruinele antice Los Pochotes și artefactele fascinante ale Muzeului Chimaltonalli. Încheiați-vă turul cu bicicleta pe spațiosul teren al Recinto Ferial.",
         "en": "Pedal out to the monumental Guerrero Chimalli and the modern Humberto Vidal theater to start your morning. Around midday, ride south to the interactive farm and cool off by the Chimalhuache water park. Your afternoon shifts to history with the ancient ruins of Los Pochotes and the fascinating artifacts of the Chimaltonalli Museum. Cap off your bike tour at the spacious Recinto Ferial."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad erfordert Vorsicht auf nassem Asphalt am Chimalli-Krieger. Kulturelle Stopps bieten trockene Intervalle für die Ausrüstung. Am Nachmittag wird der Weg zur Farm etwas schlammig, aber abenteuerlich. Der Tag endet am Messegelände, während man den Blick auf die regenverhangene Stadt genießt.",
+            "hu": "A kerékpáros reggel óvatosságot igényel a vizes aszfalton a Chimalli harcosnál. A kulturális megállók száraz pihenőt biztosítanak a felszerelésnek. Délután a farm felé vezető út sáros lehet, de kalandos. A nap a vásártéren zárul, ahonnan remek kilátás nyílik az eső áztatta városra.",
+            "ro": "Dimineața pe bicicletă necesită prudență pe asfaltul ud de la războinicul Chimalli. Opririle culturale oferă intervale uscate pentru echipament. După-amiaza, drumul spre fermă devine noroios, dar aventuros. Ziua se încheie la centrul expozițional, admirând orașul sub ploaie.",
+            "en": "Morning on the bike requires caution on wet pavement near the Chimalli warrior. Cultural stops provide dry intervals for your gear. In the afternoon, the path to the farm gets muddy but adventurous. The day ends at the fairgrounds, enjoying views of the rain-washed city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Guerrero Chimalli",
+                "hu": "Museo del Guerrero Chimalli",
+                "ro": "Museo del Guerrero Chimalli",
+                "en": "Museo del Guerrero Chimalli"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie das Museum, um den morgendlichen Regen abzuwarten.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és használja a múzeumot a reggeli eső kivárására.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți muzeul pentru a aștepta trecerea ploii de dimineață.",
+                "en": "Park your bike in a sheltered spot and use the museum galleries to wait out the morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro-Auditorio Humberto Vidal Mendoza",
+                "hu": "Teatro-Auditorio Humberto Vidal Mendoza",
+                "ro": "Teatro-Auditorio Humberto Vidal Mendoza",
+                "en": "Teatro-Auditorio Humberto Vidal Mendoza"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Regenbekleidung zu ordnen, bevor Sie die Kulturprogramme prüfen.",
+                "hu": "Használja a fedett bejáratot az esőruházat elrendezéséhez, mielőtt megnézné a helyi kulturális programokat.",
+                "ro": "Folosiți intrarea acoperită pentru a vă aranja hainele de ploaie înainte de a verifica programele culturale.",
+                "en": "Use the covered entrance area to organize your rain gear before checking out the local cultural schedules."
+              }
+            },
+            {
+              "name": {
+                "de": "Granja Interativa",
+                "hu": "Granja Interativa",
+                "ro": "Granja Interativa",
+                "en": "Granja Interativa"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein; tragen Sie wasserfeste Schuhe und suchen Sie Schutz in den Ställen bei Schauern.",
+                "hu": "Az utak sárosak lehetnek; viseljen vízálló cipőt és keressen menedéket az istállókban a záporok idején.",
+                "ro": "Drumurile pot fi noroioase; purtați încălțăminte impermeabilă și adăpostiți-vă în grajduri în timpul averselor.",
+                "en": "Paths can be muddy; wear waterproof shoes and seek shelter in the animal barns during passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Acuático El Chimalhuache",
+                "hu": "Parque Acuático El Chimalhuache",
+                "ro": "Parque Acuático El Chimalhuache",
+                "en": "Parque Acuático El Chimalhuache"
+              },
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit auf den Radwegen im Park, da Pfützen und nasses Laub die Sturzgefahr erhöhen.",
+                "hu": "Csökkentse a sebességet a parki utakon, mert a tócsák és a vizes levelek növelik a kicsúszás veszélyét.",
+                "ro": "Reduceți viteza pe pistele din parc, deoarece bălțile și frunzele ude cresc riscul de accidentare.",
+                "en": "Reduce your speed on the park paths, as puddles and wet leaves increase the risk of slipping on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Arqueológica Los Pochotes",
+                "hu": "Zona Arqueológica Los Pochotes",
+                "ro": "Zona Arqueológica Los Pochotes",
+                "en": "Zona Arqueológica Los Pochotes"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad am Eingang stehen; die Lehmböden an den Ruinen sind bei Regen für Reifen extrem tückisch.",
+                "hu": "Hagyja a kerékpárt a bejáratnál; a romoknál lévő agyagos talaj esőben rendkívül csalóka és csúszós.",
+                "ro": "Lăsați bicicleta la intrare; solul argilos de lângă ruine este extrem de înșelător pentru anvelope pe ploaie.",
+                "en": "Leave your bike at the entrance; the clay soil around the ruins is extremely treacherous for tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Chimaltonalli",
+                "hu": "Museo Chimaltonalli",
+                "ro": "Museo Chimaltonalli",
+                "en": "Museo Chimaltonalli"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte lange Pause im Trockenen, um die prähistorischen Funde zu bewundern, während die Regenfront abzieht.",
+                "hu": "Tökéletes hosszú pihenő száraz helyen a prahisztorikus leletek megcsodálásához, amíg az esőfront elvonul.",
+                "ro": "O pauză lungă perfectă la uscat pentru a admira vestigiile preistorice în timp ce frontul de ploaie trece.",
+                "en": "A perfect long break in the dry to admire prehistoric finds while waiting for the rain front to pass over."
+              }
+            },
+            {
+              "name": {
+                "de": "Recinto Ferial de Chimalhuacán",
+                "hu": "Recinto Ferial de Chimalhuacán",
+                "ro": "Recinto Ferial de Chimalhuacán",
+                "en": "Recinto Ferial de Chimalhuacán"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Flächen des Messegeländes, um Schlamm zu vermeiden, und suchen Sie Schutz in den Hallen.",
+                "hu": "Használja a vásártér burkolt felületeit a sár elkerülésére, és keressen menedéket a csarnokokban.",
+                "ro": "Folosiți zonele pavate ale târgului pentru a evita noroiul și căutați adăpost în pavilioane dacă plouă.",
+                "en": "Use the paved areas of the fairgrounds to avoid mud and seek shelter in the permanent halls if it pours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger, aber kalter Wintertag auf zwei Rädern. Die klare Morgenluft am Chimalli-Krieger erfordert warme Handschuhe. Mittags genießen wir die wärmenden Strahlen an der Farm und im Park. Die Tour endet früh am Messegelände, bevor der Temperatursturz mit dem Sonnenuntergang um 17:00 Uhr die Weiterfahrt ungemütlich macht.",
+            "hu": "Napsütéses, de hideg téli nap két keréken. A tiszta reggeli levegő a Chimalli harcosnál meleg kesztyűt igényel. Délben élvezzük a melengető napsugarakat a farmon és a parkban. A túra korán ér véget a vásártéren, mielőtt az 17:00 órai naplementével járó fagyos levegő megnehezítené az utat.",
+            "ro": "O zi de iarnă însorită, dar rece pe două roți. Aerul curat de dimineață de la războinicul Chimalli cere mănuși groase. La prânz ne bucurăm de razele calde la fermă și în parc. Turul se termină devreme la târg, înainte ca gerul de după apusul de la 17:00 să facă drumul neplăcut.",
+            "en": "A sunny but cold winter day on two wheels. The clear morning air at the Chimalli warrior requires warm gloves. At noon, enjoy the warming rays at the farm and park. The tour ends early at the fairgrounds before the temperature drop at the 17:00 sunset makes riding uncomfortable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Guerrero Chimalli",
+                "hu": "Museo del Guerrero Chimalli",
+                "ro": "Museo del Guerrero Chimalli",
+                "en": "Museo del Guerrero Chimalli"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist im Winter fantastisch klar, aber halten Sie Ihre Handschuhe für die kalten Lenker bereit.",
+                "hu": "A kilátás télen fantasztikusan tiszta, de tartsa készenlétben a kesztyűjét a hideg kormányfogantyúk miatt.",
+                "ro": "Priveliștea este fantastic de clară iarna, dar pregătiți-vă mănușile pentru mânerele reci ale bicicletei.",
+                "en": "The winter views are fantastically clear, but keep your gloves ready for the cold bike handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro-Auditorio Humberto Vidal Mendoza",
+                "hu": "Teatro-Auditorio Humberto Vidal Mendoza",
+                "ro": "Teatro-Auditorio Humberto Vidal Mendoza",
+                "en": "Teatro-Auditorio Humberto Vidal Mendoza"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um die Hände aufzuwärmen, bevor Sie die Fahrt durch das Viertel bei kühler Luft fortsetzen.",
+                "hu": "Nagyszerű hely a kezek felmelegítésére, mielőtt folytatná a tekerést a negyeden át a hűvös levegőben.",
+                "ro": "Un loc excelent pentru a vă încălzi mâinile înainte de a continua drumul prin cartier în aerul rece.",
+                "en": "A great place to warm up your hands before continuing your ride through the district in the cool air."
+              }
+            },
+            {
+              "name": {
+                "de": "Granja Interativa",
+                "hu": "Granja Interativa",
+                "ro": "Granja Interativa",
+                "en": "Granja Interativa"
+              },
+              "tip_5lang": {
+                "de": "Die Tiere sind bei kühlem Wetter aktiv; genießen Sie die offenen Felder in der direkten Mittagssonne.",
+                "hu": "Az állatok aktívak a hűvösebb időben is; élvezze a nyitott területeket a közvetlen déli napsütésben.",
+                "ro": "Animalele sunt active pe vreme răcoroasă; bucurați-vă de câmpurile deschise în soarele direct de la prânz.",
+                "en": "The animals are active in the cool weather; enjoy the open fields while the direct midday sun is out."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Acuático El Chimalhuache",
+                "hu": "Parque Acuático El Chimalhuache",
+                "ro": "Parque Acuático El Chimalhuache",
+                "en": "Parque Acuático El Chimalhuache"
+              },
+              "tip_5lang": {
+                "de": "Die Wege um die Becken sind ideal für eine zügige Winterfahrt, auch wenn das Wasser zum Baden zu kalt ist.",
+                "hu": "A medencék körüli utak ideálisak egy élénk téli tekeréshez, még ha a víz túl hideg is a fürdéshez.",
+                "ro": "Potecile din jurul piscinelor sunt ideale pentru o tură rapidă de iarnă, chiar dacă apa e prea rece pentru înot.",
+                "en": "The paths around the pools are ideal for a brisk winter ride, even if the water is too cold for swimming."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Arqueológica Los Pochotes",
+                "hu": "Zona Arqueológica Los Pochotes",
+                "ro": "Zona Arqueológica Los Pochotes",
+                "en": "Zona Arqueológica Los Pochotes"
+              },
+              "tip_5lang": {
+                "de": "Der Mangel an Schatten ist im Winter ein Vorteil und bietet natürliche Wärme beim Erkunden der Steinbauten.",
+                "hu": "Az árnyék hiánya télen előny; élvezze a természetes meleget a kőépítmények felfedezése közben.",
+                "ro": "Lipsa umbrei este un avantaj iarna, oferind căldură naturală în timp ce explorați structurile de piatră.",
+                "en": "The lack of shade is a plus in winter, providing natural warmth while you explore the stone structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Chimaltonalli",
+                "hu": "Museo Chimaltonalli",
+                "ro": "Museo Chimaltonalli",
+                "en": "Museo Chimaltonalli"
+              },
+              "tip_5lang": {
+                "de": "Die Galerien sind ein gemütlicher Rückzugsort vor dem Winterwind und bieten tiefe Einblicke in das lokale Leben.",
+                "hu": "A galériák barátságos menedéket nyújtanak a téli szél elől, bemutatva a helyi történelem titkait.",
+                "ro": "Galeriile sunt un refugiu primitor împotriva vântului de iarnă, oferind perspective asupra vieții locale.",
+                "en": "The galleries are a cozy retreat from the winter wind, offering deep insights into local prehistoric life."
+              }
+            },
+            {
+              "name": {
+                "de": "Recinto Ferial de Chimalhuacán",
+                "hu": "Recinto Ferial de Chimalhuacán",
+                "ro": "Recinto Ferial de Chimalhuacán",
+                "en": "Recinto Ferial de Chimalhuacán"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier zügig, um den schnellen Temperatursturz nach dem Sonnenuntergang um 17:00 Uhr zu vermeiden.",
+                "hu": "Fejezze be itt a túrát gyorsan, hogy elkerülje az 17:00 órai naplemente utáni hirtelen lehűlést.",
+                "ro": "Încheiați rapid turul aici pentru a evita scăderea bruscă a temperaturii după apusul de la ora 17:00.",
+                "en": "Finish your tour here quickly to avoid the rapid temperature drop following the 17:00 sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Autózzon az ikonikus Guerrero Chimalli szoborhoz, és indítsa a napot lenyűgöző kilátással. A délben jöhet a családbarát szórakozás az interaktív farmon és az El Chimalhuache medencéinél. A délutánt a történelemnek szentelje a Los Pochotes, az Alcomixtli színház és a Chimaltonalli Múzeum felfedezésével. Este pedig pihenjen egyet a tágas Recinto Ferial és a San Vicente medencéknél.",
         "ro": "Conduceți spre emblematicul Guerrero Chimalli pentru a începe ziua cu priveliști impresionante. Prânzul aduce distracție în familie la ferma interactivă și piscinele El Chimalhuache. Petreceți după-amiaza explorând istoria la Los Pochotes, teatrul Alcomixtli și Muzeul Chimaltonalli. Pe măsură ce se lasă seara, vizitați Recinto Ferial și relaxați-vă la piscinele San Vicente.",
         "en": "Drive to the iconic Guerrero Chimalli to kick off your day with impressive views. Midday brings family-friendly fun as you hop between the interactive farm and the pools of El Chimalhuache. Spend your afternoon diving into history at Los Pochotes, the Alcomixtli theater, and the Chimaltonalli Museum. As evening falls, cruise over to the Recinto Ferial and unwind at the San Vicente pools."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemer Transit zwischen den Sehenswürdigkeiten trotz Regen. Der Morgen im Museum am Chimalli-Krieger bleibt trocken. Stopps an der Farm und im Wasserpark erfordern Regenschirme für kurze Wege. Der Nachmittag bietet im Theater und Museum perfekten Schutz. Der Tag endet entspannt im Thermalbad, während draußen der Regen fällt.",
+            "hu": "Kényelmes utazás a helyszínek között az eső ellenére is. A reggel a Chimalli harcos múzeumában száraz marad. A farmnál és a víziparknál esernyőre lesz szükség a rövid sétákhoz. A délutáni színház- és múzeumlátogatás tökéletes fedett program. A nap a termálfürdőben zárul, miközben odakint dobol az eső.",
+            "ro": "Tranzit confortabil între obiective în ciuda ploii. Dimineața la muzeul războinicului Chimalli rămâne uscată. Opririle la fermă și parcul acvatic cer umbrele pentru drumurile scurte. După-amiaza la teatru și muzeu oferă protecție perfectă. Ziua se încheie relaxant la băile termale, în timp ce afară plouă.",
+            "en": "Comfortable transit between sites despite the weather. Morning at the Chimalli warrior museum stays dry. Farm and water park stops require umbrellas for short walks. The afternoon theater and museum visits offer perfect indoor shelter. The day ends relaxingly at the pools while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Guerrero Chimalli",
+                "hu": "Museo del Guerrero Chimalli",
+                "ro": "Museo del Guerrero Chimalli",
+                "en": "Museo del Guerrero Chimalli"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und gehen Sie direkt ins Innere des Monumentes, um dem Regen zu entkommen.",
+                "hu": "Parkoljon közel a bejárathoz, és menjen egyenesen a monumentum belsejébe, hogy elkerülje az esőt.",
+                "ro": "Parcați aproape de intrare și mergeți direct în interiorul monumentului pentru a scăpa de ploaie.",
+                "en": "Park close to the entrance and head straight inside the monument base to avoid the splashing rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Granja Interativa",
+                "hu": "Granja Interativa",
+                "ro": "Granja Interativa",
+                "en": "Granja Interativa"
+              },
+              "tip_5lang": {
+                "de": "Viele Tiergehege sind überdacht; bringen Sie dennoch einen Regenmantel für den Weg zwischen den Ställen mit.",
+                "hu": "Sok állatkifutó fedett; ennek ellenére hozzon esőkabátot az istállók közötti átvonuláshoz.",
+                "ro": "Multe țarcuri sunt acoperite; totuși, aduceți o pelerină pentru drumul dintre diferitele clădiri.",
+                "en": "Many animal enclosures are covered, but bring a raincoat for the walk between the different barn buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Acuático El Chimalhuache",
+                "hu": "Parque Acuático El Chimalhuache",
+                "ro": "Parque Acuático El Chimalhuache",
+                "en": "Parque Acuático El Chimalhuache"
+              },
+              "tip_5lang": {
+                "de": "Konzentrieren Sie sich auf beheizte Bereiche und seien Sie vorsichtig auf den nassen, gefliesten Gehwegen.",
+                "hu": "Összpontosítson a fűtött részekre, és legyen nagyon óvatos a vizes, csempézett járdákon a csúszásveszély miatt.",
+                "ro": "Concentrați-vă pe zonele încălzite și fiți atenți pe aleile umede și placate cu gresie din parcul acvatic.",
+                "en": "Focus on any heated pool areas and be extra careful on the wet, tiled walkways to prevent slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Arqueológica Los Pochotes",
+                "hu": "Zona Arqueológica Los Pochotes",
+                "ro": "Zona Arqueológica Los Pochotes",
+                "en": "Zona Arqueológica Los Pochotes"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände ist völlig ungeschützt; warten Sie im Auto auf eine Regenpause für einen kurzen Rundgang.",
+                "hu": "A terület teljesen nyitott; várjon az autóban egy esőszünetre a műemlékek gyors megtekintéséhez.",
+                "ro": "Situl este complet expus; așteptați în mașină o pauză de ploaie pentru o plimbare scurtă printre monumente.",
+                "en": "The site is fully exposed; wait in the car for a lull in the rain to take a quick walk through the monuments."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+                "hu": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+                "ro": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+                "en": "Teatro Auditorio Alcomixtli Nezahualcóyotl"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei Regen; genießen Sie die moderne Kunst und Architektur völlig im Trockenen.",
+                "hu": "Tökéletes megálló esőben; élvezze a modern művészetet és építészetet teljesen száraz körülmények között.",
+                "ro": "O oprire perfectă pe ploaie; bucurați-vă de artă și arhitectură modernă fiind complet protejat de apă.",
+                "en": "A perfect rainy-day stop where you can enjoy the architecture and art while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Chimaltonalli",
+                "hu": "Museo Chimaltonalli",
+                "ro": "Museo Chimaltonalli",
+                "en": "Museo Chimaltonalli"
+              },
+              "tip_5lang": {
+                "de": "Die gut beleuchteten Innenräume bieten eine faszinierende Umgebung während eines nachmittäglichen Regengusses.",
+                "hu": "A jól megvilágított belső terek lenyűgöző környezetet nyújtanak egy délutáni kiadós felhőszakadás idejére.",
+                "ro": "Interiorul bine luminat oferă un mediu fascinant în timpul unei averse torențiale de după-amiază.",
+                "en": "The well-lit indoor exhibits provide a fascinating environment during a heavy afternoon downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Recinto Ferial de Chimalhuacán",
+                "hu": "Recinto Ferial de Chimalhuacán",
+                "ro": "Recinto Ferial de Chimalhuacán",
+                "en": "Recinto Ferial de Chimalhuacán"
+              },
+              "tip_5lang": {
+                "de": "Befestigte Parkplätze erleichtern den Zugang bei Regen; bleiben Sie in der Nähe der überdachten Stände.",
+                "hu": "A burkolt parkolók megkönnyítik a bejutást esőben is; maradjon a fedett árusítóhelyek közelében.",
+                "ro": "Parcarea pavată facilitează accesul pe ploaie; rămâneți în apropierea standurilor acoperite ale târgului.",
+                "en": "Paved parking makes it accessible in rain, but stay near the covered stands if the weather turns bad."
+              }
+            },
+            {
+              "name": {
+                "de": "Albercas Ejidales San Vicente",
+                "hu": "Albercas Ejidales San Vicente",
+                "ro": "Albercas Ejidales San Vicente",
+                "en": "Albercas Ejidales San Vicente"
+              },
+              "tip_5lang": {
+                "de": "Der Dampf des warmen Wassers ist bei Regen sehr stimmungsvoll; bewahren Sie Ihre Handtücher im trockenen Spind auf.",
+                "hu": "A meleg víz gőze esőben nagyon hangulatos; tartsa a törölközőit száraz helyen, az öltözőszekrényben.",
+                "ro": "Aburul apei calde este foarte atmosferic pe ploaie; păstrați prosoapele într-un dulap uscat.",
+                "en": "The steam from the warm water is atmospheric in the rain, but keep your towels in a dry locker."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der warme Innenraum des Autos macht den kühlen Wintertag komfortabel. Der Morgen bietet am Chimalli-Krieger eine weite Sicht über das Tal. Die Mittagssonne ist ideal für den Rundgang durch die archäologische Zone. Der Abend klingt entspannt im beheizten Bad aus, bevor die Kälte nach dem frühen Sonnenuntergang um 17:00 Uhr zunimmt.",
+            "hu": "Az autó meleg belső tere kényelmessé teszi a hűvös téli napot. A reggel a Chimalli harcosnál tiszta kilátást nyújt a völgyre. A déli napsütés ideális a régészeti zóna felfedezéséhez. Az este a fűtött fürdőben zárul, mielőtt az 17:00 órai korai naplemente után a fagy végleg beköszönt.",
+            "ro": "Interiorul cald al mașinii face ziua de iarnă confortabilă. Dimineața oferă o priveliște clară de la războinicul Chimalli. Soarele de la prânz este ideal pentru explorarea zonei arheologice. Seara se încheie la băile încălzite, înainte ca gerul să se lase după apusul de la ora 17:00.",
+            "en": "The warm car interior makes the chilly winter day comfortable. Morning at the Chimalli warrior offers clear valley views. The midday sun is ideal for exploring the archaeological zone. The evening ends at the heated pools before the cold intensifies after the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Guerrero Chimalli",
+                "hu": "Museo del Guerrero Chimalli",
+                "ro": "Museo del Guerrero Chimalli",
+                "en": "Museo del Guerrero Chimalli"
+              },
+              "tip_5lang": {
+                "de": "Der klare Winterhimmel bietet die beste Fernsicht von oben, aber der Wind am Gipfel ist sehr beißend.",
+                "hu": "A tiszta téli égbolt kínálja a legjobb kilátást a csúcsról, de a szél odafönt rendkívül metsző lehet.",
+                "ro": "Cerul senin de iarnă oferă cea mai bună vizibilitate de sus, deși vântul la vârf este destul de tăios.",
+                "en": "The clear winter skies offer the best visibility from the top, though the wind at the peak is quite biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Granja Interativa",
+                "hu": "Granja Interativa",
+                "ro": "Granja Interativa",
+                "en": "Granja Interativa"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne macht die Außenanlagen angenehm, aber die Temperatur fällt im Schatten sehr schnell ab.",
+                "hu": "A téli napsütés kellemessé teszi a szabadtéri kifutókat, de az árnyékban a hőmérséklet gyorsan zuhan.",
+                "ro": "Soarele de iarnă face țarcurile exterioare plăcute, dar temperatura scade rapid în zonele cu umbră.",
+                "en": "The winter sun makes the outdoor enclosures pleasant, but the temperature drops quickly in the shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Acuático El Chimalhuache",
+                "hu": "Parque Acuático El Chimalhuache",
+                "ro": "Parque Acuático El Chimalhuache",
+                "en": "Parque Acuático El Chimalhuache"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein sonniges Plätzchen für ein Picknick, da das Wasser ohne direkte Sonne zu kalt sein könnte.",
+                "hu": "Keressen egy napos helyet a pihenéshez, mivel a víz a közvetlen napsütés nélkül túl hideg lehet a fürdéshez.",
+                "ro": "Căutați un loc însorit pentru relaxare, deoarece apa poate fi prea rece fără soare direct.",
+                "en": "Find a sunny spot for a winter picnic, as the water might feel too cold without direct sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Arqueológica Los Pochotes",
+                "hu": "Zona Arqueológica Los Pochotes",
+                "ro": "Zona Arqueológica Los Pochotes",
+                "en": "Zona Arqueológica Los Pochotes"
+              },
+              "tip_5lang": {
+                "de": "Die Steine absorbieren das Sonnenlicht und machen dies zum wärmsten Teil der Tour am frühen Nachmittag.",
+                "hu": "A kövek elnyelik a téli napsütést, így ez a túra legmelegebb része a kora délutáni órákban.",
+                "ro": "Pietrele absorb lumina soarelui, făcând din aceasta cea mai caldă parte a turului în timpul după-amiezii.",
+                "en": "The stones absorb the winter sunlight, making this the warmest part of the tour during the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+                "hu": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+                "ro": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+                "en": "Teatro Auditorio Alcomixtli Nezahualcóyotl"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist gut gegen die Winterkälte isoliert und ideal für einen Besuch am späten Nachmittag.",
+                "hu": "A belső tér jól szigetelt a téli hideg ellen, így ideális helyszín egy késő délutáni látogatáshoz.",
+                "ro": "Interiorul este bine izolat împotriva frigului de iarnă, fiind un loc ideal pentru o vizită după-amiaza.",
+                "en": "The interior is well-insulated against the winter chill, making it a great place for a late afternoon visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Chimaltonalli",
+                "hu": "Museo Chimaltonalli",
+                "ro": "Museo Chimaltonalli",
+                "en": "Museo Chimaltonalli"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Exponate in klimatisierter Umgebung, bevor die Sonne pünktlich um 17:00 Uhr untergeht.",
+                "hu": "Fedezze fel a kiállításokat a kellemes belső térben, mielőtt a nap 17:00-kor végleg lenyugszik.",
+                "ro": "Explorați exponatele într-un cadru climatizat înainte ca soarele să apună la ora 17:00.",
+                "en": "Explore the artifacts in a comfortable indoor setting before the sun starts to set at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Recinto Ferial de Chimalhuacán",
+                "hu": "Recinto Ferial de Chimalhuacán",
+                "ro": "Recinto Ferial de Chimalhuacán",
+                "en": "Recinto Ferial de Chimalhuacán"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht für Fotos; nach dem frühen Sonnenuntergang fällt die Temperatur sofort drastisch.",
+                "hu": "Használja ki a nappali fényt a fotózáshoz; a korai naplemente után a hőmérséklet azonnal drasztikusan zuhan.",
+                "ro": "Profită de lumina zilei pentru fotografii; după apusul devreme, temperatura scade imediat și drastic.",
+                "en": "Enjoy the open air while it's still light, as the temperature will plummet immediately after the 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Albercas Ejidales San Vicente",
+                "hu": "Albercas Ejidales San Vicente",
+                "ro": "Albercas Ejidales San Vicente",
+                "en": "Albercas Ejidales San Vicente"
+              },
+              "tip_5lang": {
+                "de": "Das warme Wasser ist bei kalter Winterluft unglaublich entspannend; ein perfekter Ausklang für den Tag.",
+                "hu": "A meleg víz hihetetlenül pihentető a hideg téli levegőben; tökéletes lezárása a városnéző napnak.",
+                "ro": "Apa caldă este incredibil de relaxantă în aerul rece de iarnă; un final perfect pentru această zi.",
+                "en": "The warm water is incredibly relaxing in the cold winter air, perfect for a soothing end to your day."
+              }
+            }
+          ]
+        }
       }
     }
   }

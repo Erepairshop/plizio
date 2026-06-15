@@ -160,6 +160,196 @@
         "hu": "Morning: Kezdje a napot a nyugodt légkör és a gazdag építészeti örökség befogadásával. A hűvös reggeli levegő tökéletes hátteret biztosít az évszázados kőfalak megcsodálásához.\nMidday: Ahogy a nap eléri a zenitet, térjen át a város művészeti szívére. A helyi múzeumok és a részletgazdag homlokzatok a királyi múltról és a tartós kulturális büszkeségről mesélnek.\nAfternoon: A kényelmes délutáni tempó lehetővé teszi a történelmi mindennapok nyugodt felfedezését. Fedezze fel a hátrahagyott masszív faszerkezeteket és védelmi építményeket.\nEvening: Zárja utazását a nyugodt vízi utakon. Az aranyóra varázslatos tükröződéseket vet a csatornára, így tökéletes és pihentető befejezést kínál a kalandnak.",
         "ro": "Morning: Începeți ziua îmbrățișând atmosfera liniștită și bogata moștenire arhitecturală. Aerul răcoros al dimineții oferă fundalul perfect pentru a admira zidurile seculare de piatră.\nMidday: Pe măsură ce soarele ajunge la apogeu, îndreptați-vă spre inima artistică. Muzeele locale și fațadele detaliate spun povești despre trecutul regal și mândria culturală.\nAfternoon: Ritmul relaxat de după-amiază permite o explorare tihnită a vieții istorice zilnice. Descoperiți construcțiile robuste din lemn și structurile defensive lăsate în urmă.\nEvening: Încheiați-vă călătoria pe căile navigabile senine. Ora de aur aruncă reflexii magice pe canal, oferind un final perfect și relaxant pentru aventura dumneavoastră.",
         "en": "Morning: Start your day embracing the tranquil atmosphere and rich architectural heritage. The cool morning air provides the perfect backdrop to marvel at the centuries-old stone walls.\nMidday: As the sun reaches its peak, transition towards the town's artistic heart. The local museums and detailed facades tell stories of royal pasts and enduring cultural pride.\nAfternoon: The leisurely afternoon pace allows for an unhurried exploration of historic daily life. Uncover the sturdy timber constructions and defensive structures left behind.\nEvening: Conclude your journey tracing the serene waterways. The golden hour casts magical reflections on the canal, offering a picture-perfect and relaxing end to your adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen im Trockenen bei den Kulturstätten Thalia und Musée. Mittags bewundern Sie die nassen Renaissance-Fassaden sicher unter dem Regenschirm. Nachmittags bieten das Waschhaus und das massive Verlies perfekten Schutz vor den Schauern. Beenden Sie den Tag am Loing-Kanal, wo der Regen dem Wasser einen romantischen Glanz verleiht; Vorsicht, die Wege sind schlammig.",
+            "hu": "Kezdje az esős reggelt a Thalia és a helyi múzeum fedett kiállításain. Délben csodálja meg a vizesen is lenyűgöző reneszánsz homlokzatokat esernyő alól. Délután a történelmi mosóház és az öregtorony vastag falai nyújtanak menedéket a záporok elől. Zárja a napot a Loing-csatornánál, ahol az esőcseppek romantikus csillogást adnak a víznek, de készüljön sárra a parti sétányon.",
+            "ro": "Începeți dimineața ploioasă cu expozițiile de la Thalia și muzeul local, la adăpost. La prânz, admirați fațadele renascentiste protejați de umbrelă. După-amiaza, spălătoria istorică și temnița cu ziduri groase oferă un refugiu perfect împotriva averselor. Încheiați ziua cu o plimbare melancolică la canalul Loing, unde ploaia adaugă o strălucire apei, dar atenție la noroiul de pe potecă.",
+            "en": "Start your rainy morning indoors exploring the exhibits at Thalia and the local museum. By noon, admire the wet but striking Renaissance facades under your umbrella. Spend the afternoon taking refuge from showers inside the historic wash house and the thick-walled dungeon. Conclude with a moody stroll along the Loing Canal, where rain adds a glassy shine, though paths may be muddy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thalia",
+                "hu": "Thalia",
+                "ro": "Thalia",
+                "en": "Thalia"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie den morgendlichen Schauern in diesem Kulturzentrum; lassen Sie Ihren nassen Schirm am Eingang und genießen Sie die Ausstellung.",
+                "hu": "Meneküljön a reggeli záporok elől ebbe a kulturális központba; hagyja a csöpögő esernyőt a bejáratnál, és élvezze a száraz programot.",
+                "ro": "Scăpați de aversele matinale în acest centru cultural; lăsați umbrela udă la intrare și bucurați-vă de un tur la uscat.",
+                "en": "Escape the morning showers inside this cultural hub; leave your dripping umbrella at the entrance and enjoy the indoor exhibits safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Municipal",
+                "hu": "Musée Municipal",
+                "ro": "Muzeul Municipal",
+                "en": "Musée Municipal"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Innenaktivität bei starkem Regen; lernen Sie im Trockenen mehr über die lokale Geschichte, während der Schauer vorbeizieht.",
+                "hu": "Tökéletes benti program heves esőzéskor; ismerje meg a helyi történelmet teljesen szárazon, amíg odakint eláll a vihar.",
+                "ro": "Activitate de interior perfectă pentru ploi abundente; descoperiți istoria locală stând complet la uscat până trece furtuna.",
+                "en": "Perfect indoor activity for heavy rain; take your time learning local history while staying completely dry as the worst showers pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Façade François 1er",
+                "hu": "Façade François 1er",
+                "ro": "Fațada François 1er",
+                "en": "Façade François 1er"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Stein bringt die Farben der Schnitzereien zur Geltung; seien Sie jedoch vorsichtig auf dem extrem rutschigen Kopfsteinpflaster.",
+                "hu": "A vizes kő gyönyörűen kiemeli a faragványok gazdag színeit; csak óvatosan lépkedjen az esőben különösen csúszós macskaköveken.",
+                "ro": "Piatra udă scoate în evidență culorile bogate ale sculpturilor; fiți foarte atenți la piatra cubică alunecoasă de pe jos.",
+                "en": "The wet stone brings out rich colors in the historic carvings; just be extremely careful on the slippery cobblestones while looking up."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Waschhaus",
+                "hu": "Történelmi Mosóház",
+                "ro": "Spălătoria istorică",
+                "en": "Historical Wash house"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich unter das historische Holzdach für eine kurze Regenpause; es bietet einen tollen, trockenen Blick auf den nassen Fluss.",
+                "hu": "Álljon be a történelmi fatető alá egy rövid szünetre; ez a nyitott épület száraz menedéket és nagyszerű kilátást nyújt a folyóra.",
+                "ro": "Adăpostiți-vă sub acoperișul istoric din lemn pentru o scurtă pauză; oferă un loc uscat cu o priveliște minunată asupra râului ploios.",
+                "en": "Stand under the historic wooden roof for a quick break from the rain; it offers a totally dry spot with a great view of the wet river."
+              }
+            },
+            {
+              "name": {
+                "de": "Verlies",
+                "hu": "Öregtorony",
+                "ro": "Temnița",
+                "en": "Dungeon"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Wände bieten hervorragenden Schutz vor Platzregen; das düstere Regenwetter verstärkt die mittelalterliche Stimmung perfekt.",
+                "hu": "A masszív falak kiváló menedéket nyújtanak a felhőszakadás elől; a zord esős idő ráadásul fokozza a hely középkori hangulatát.",
+                "ro": "Zidurile masive oferă un adăpost excelent împotriva ploilor torențiale; vremea mohorâtă amplifică perfect atmosfera medievală a locului.",
+                "en": "The massive walls provide excellent shelter from sudden downpours; the gloomy, rainy weather perfectly enhances the medieval vibe."
+              }
+            },
+            {
+              "name": {
+                "de": "Loing-Kanal",
+                "hu": "Loing-csatorna",
+                "ro": "Canalul Loing",
+                "en": "Loing Canal"
+              },
+              "tip_5lang": {
+                "de": "Regen macht den Kanal extrem friedlich; tragen Sie gute wasserfeste Schuhe, da der Uferweg sehr schlammig und nass werden kann.",
+                "hu": "Az eső rendkívül békéssé teszi a csatornát; viseljen vízálló cipőt, mert a parti sétány nagyon saras és csúszós lehet ilyenkor.",
+                "ro": "Ploaia face canalul extrem de liniștit; purtați încălțăminte impermeabilă, deoarece poteca de pe mal poate deveni foarte noroioasă.",
+                "en": "Rain makes the canal extremely peaceful and quiet; wear waterproof boots as the unpaved waterside path can get quite muddy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eiskalter Wintermorgen beginnt am besten in den beheizten Räumen von Thalia und dem Museum. Mittags bewundern Sie die frostüberzogenen Fassaden im klaren Licht. Nachmittags heißt es warm anziehen für das offene Waschhaus und das ungeheizte Verlies, bevor die frühe Dämmerung einsetzt. Spazieren Sie gegen 16:30 Uhr am Loing-Kanal, um das Winterlicht zu fangen, bevor es um 17 Uhr dunkel und klirrend kalt wird.",
+            "hu": "A fagyos téli reggelt a Thalia és a múzeum fűtött termeiben érdemes indítani. Délben a tiszta téli napfényben csodálhatja meg a deres homlokzatokat. Délután öltözzön melegen a nyitott mosóház és a fűtetlen öregtorony felfedezéséhez. Zárja a napot egy gyors sétával a Loing-csatornánál 16:30 körül, hogy még sötétedés és a drasztikus lehűlés előtt lássa a téli tájat.",
+            "ro": "O dimineață de iarnă înghețată începe perfect în sălile încălzite de la Thalia și muzeu. La prânz, admirați fațadele acoperite de chiciură în lumina clară. După-amiaza, îmbrăcați-vă gros pentru spălătoria deschisă și temnița neîncălzită, înainte de lăsarea întunericului. Plimbați-vă pe canalul Loing pe la 16:30 pentru a prinde lumina, deoarece la 17:00 se întunecă și se face foarte frig.",
+            "en": "Start your freezing winter morning comfortably in the heated spaces of Thalia and the museum. By noon, admire the frost-covered Renaissance facades in the crisp air. In the afternoon, bundle up heavily for the drafty wash house and the unheated dungeon before dusk approaches. End with a brisk walk along the Loing Canal around 4:30 PM to catch the beautiful sunset before the freezing 5 PM dark hits."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thalia",
+                "hu": "Thalia",
+                "ro": "Thalia",
+                "en": "Thalia"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort, um Hände und Gesicht aufzuwärmen; die Ausstellungen sind ein gemütlicher Start in einen eiskalten Wintermorgen.",
+                "hu": "Remek hely a kezek és az arc felmelegítésére; a benti kiállítások otthonos és meleg kezdést adnak a fagyos téli reggelnek.",
+                "ro": "Un loc excelent pentru a vă încălzi; expozițiile interioare reprezintă un început confortabil și cald pentru o dimineață înghețată.",
+                "en": "A great spot to warm up your hands and face; the indoor exhibits are a cozy, heated start to a freezing winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Municipal",
+                "hu": "Musée Municipal",
+                "ro": "Muzeul Municipal",
+                "en": "Musée Municipal"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Räume des Museums; wenn Sie hier eine dicke Schicht ablegen, wird der Besuch viel angenehmer.",
+                "hu": "Élvezze a múzeum kellemesen fűtött termeit; egy vastag réteg levétele sokkal kényelmesebbé teszi a kulturális látogatást.",
+                "ro": "Bucurați-vă de camerele bine încălzite ale muzeului; vizita va fi mult mai confortabilă dacă dați jos o haină groasă de iarnă.",
+                "en": "Enjoy the heated rooms of the museum; shedding a heavy winter layer here makes the extended visit much more comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Façade François 1er",
+                "hu": "Façade François 1er",
+                "ro": "Fațada François 1er",
+                "en": "Façade François 1er"
+              },
+              "tip_5lang": {
+                "de": "Die blasse Wintersonne hebt die Fassade wunderschön hervor; bleiben Sie in Bewegung, um auf dem kühlen Platz warm zu bleiben.",
+                "hu": "A halvány téli napfény gyönyörűen kiemeli a homlokzatot; maradjon folyamatosan mozgásban, hogy ne fázzon át a hűvös téren.",
+                "ro": "Soarele palid de iarnă evidențiază frumos fațada; mișcați-vă continuu pentru a vă menține căldura corporală în piața rece.",
+                "en": "The pale winter sun highlights the facade beautifully; keep moving to stay warm as the wind can channel through the chilly town square."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Waschhaus",
+                "hu": "Történelmi Mosóház",
+                "ro": "Spălătoria istorică",
+                "en": "Historical Wash house"
+              },
+              "tip_5lang": {
+                "de": "Am Wasser wird es im Winter extrem zugig; ziehen Sie den Schal enger, während Sie diese offene historische Stätte betrachten.",
+                "hu": "A folyóparton télen nagyon húz a hideg szél; viseljen vastag sálat, miközben ezt a szabadtéri történelmi helyszínt nézi.",
+                "ro": "Lângă apă este un curent foarte rece iarna; purtați un fular gros și ridicați gulerul în timp ce observați acest sit în aer liber.",
+                "en": "It gets very drafty and freezing by the water in winter; wear a thick scarf while observing this fully open-air historic site."
+              }
+            },
+            {
+              "name": {
+                "de": "Verlies",
+                "hu": "Öregtorony",
+                "ro": "Temnița",
+                "en": "Dungeon"
+              },
+              "tip_5lang": {
+                "de": "Der dicke Stein hält die eisige Kälte drinnen; behalten Sie Mütze und Handschuhe unbedingt an, während Sie das Verlies erkunden.",
+                "hu": "A vastag kőfalak bent tartják az éles hideget; hagyja magán a téli sapkát és kesztyűt, amíg felfedezi az ősi öregtornyot.",
+                "ro": "Piatra groasă menține frigul pătrunzător la interior; păstrați căciula și mănușile groase în timp ce explorați temnița medievală.",
+                "en": "The thick stone keeps the bitter cold trapped inside; definitely leave your winter hat and gloves on while exploring the dungeon."
+              }
+            },
+            {
+              "name": {
+                "de": "Loing-Kanal",
+                "hu": "Loing-csatorna",
+                "ro": "Canalul Loing",
+                "en": "Loing Canal"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie vor dem frühen Sonnenuntergang gegen 17 Uhr am Kanal entlang; die frostigen Bäume sind schön, aber es wird schnell klirrend kalt.",
+                "hu": "Sétáljon a csatornánál a korai, 17 óra körüli naplemente előtt; a fagyos fák gyönyörűek, de a hőmérséklet hirtelen és drasztikusan esik.",
+                "ro": "Plimbați-vă pe canal înainte de apusul timpuriu de la ora 17:00; copacii înghețați sunt superbi, dar temperatura scade brusc și agresiv.",
+                "en": "Stroll the canal path before the early 5 PM sunset; the frosty bare trees are beautiful but the outdoor temperature drops extremely fast."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Morning: Kezdje a napot a nyugodt légkör és a gazdag építészeti örökség befogadásával. A hűvös reggeli levegő tökéletes hátteret biztosít az évszázados kőfalak megcsodálásához.\nMidday: Ahogy a nap eléri a zenitet, térjen át a város művészeti szívére. A helyi múzeumok és a részletgazdag homlokzatok a királyi múltról és a tartós kulturális büszkeségről mesélnek.\nAfternoon: A kényelmes délutáni tempó lehetővé teszi a történelmi mindennapok nyugodt felfedezését. Fedezze fel a hátrahagyott masszív faszerkezeteket és védelmi építményeket.\nEvening: Zárja utazását a nyugodt vízi utakon. Az aranyóra varázslatos tükröződéseket vet a csatornára, így tökéletes és pihentető befejezést kínál a kalandnak.",
         "ro": "Morning: Începeți ziua îmbrățișând atmosfera liniștită și bogata moștenire arhitecturală. Aerul răcoros al dimineții oferă fundalul perfect pentru a admira zidurile seculare de piatră.\nMidday: Pe măsură ce soarele ajunge la apogeu, îndreptați-vă spre inima artistică. Muzeele locale și fațadele detaliate spun povești despre trecutul regal și mândria culturală.\nAfternoon: Ritmul relaxat de după-amiază permite o explorare tihnită a vieții istorice zilnice. Descoperiți construcțiile robuste din lemn și structurile defensive lăsate în urmă.\nEvening: Încheiați-vă călătoria pe căile navigabile senine. Ora de aur aruncă reflexii magice pe canal, oferind un final perfect și relaxant pentru aventura dumneavoastră.",
         "en": "Morning: Start your day embracing the tranquil atmosphere and rich architectural heritage. The cool morning air provides the perfect backdrop to marvel at the centuries-old stone walls.\nMidday: As the sun reaches its peak, transition towards the town's artistic heart. The local museums and detailed facades tell stories of royal pasts and enduring cultural pride.\nAfternoon: The leisurely afternoon pace allows for an unhurried exploration of historic daily life. Uncover the sturdy timber constructions and defensive structures left behind.\nEvening: Conclude your journey tracing the serene waterways. The golden hour casts magical reflections on the canal, offering a picture-perfect and relaxing end to your adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre nasse Radtour vorsichtig bei der Mairie und dem Institut. Mittags finden Sie trockene Zuflucht im Thalia und Museum. Nachmittags fahren Sie vorbei an der Renaissance-Fassade zum Verlies, wo dicke Mauern Schutz bieten. Beenden Sie die Fahrt am Loing-Kanal im Regen. Achtung: Bremse sanft, Kopfsteinpflaster und Naturwege sind extrem rutschig!",
+            "hu": "Kezdje nedves biciklitúráját a városházánál és az intézetnél vízálló ruhában. Délben keressen száraz menedéket a Thaliában és a múzeumban. Délután tekerjen el a reneszánsz homlokzat mellett az öregtoronyig, ami védelmet ad a záporoktól. Fejezze be a túrát a Loing-csatornánál. Figyelem: a macskaköves és földi utak esőben rendkívül csúszósak, fékezzen óvatosan!",
+            "ro": "Începeți traseul umed cu bicicleta la primărie și institut, echipați corespunzător. La prânz, refugiați-vă la uscat în Thalia și muzeu. După-amiaza, pedalați pe lângă fațada renascentistă spre temnița protectoare. Încheiați plimbarea de-a lungul canalului Loing. Atenție: frânați ușor, pavajul și potecile sunt extrem de alunecoase pe ploaie!",
+            "en": "Start your wet cycling route properly geared up at the town hall and the peaceful institute. By noon, seek dry refuge in Thalia and the local museum. Afternoon riding takes you past the stunning Renaissance facade to the sheltering dungeon. Finish the damp ride along the Loing Canal. Warning: brake gently as both cobblestones and dirt paths become incredibly slick!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie déléguée de Veneux-les-Sablons",
+                "hu": "Mairie déléguée de Veneux-les-Sablons",
+                "ro": "Primăria Veneux-les-Sablons",
+                "en": "Mairie déléguée de Veneux-les-Sablons"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier Ihre nasse Fahrt; prüfen Sie unbedingt Ihre Bremsen im morgendlichen Regen, bevor Sie weiterradeln.",
+                "hu": "Kezdje itt a nedves túrát; indulás előtt mindenképp ellenőrizze a kerékpár fékjeit a reggeli esőben a biztonság kedvéért.",
+                "ro": "Începeți plimbarea umedă aici; verificați neapărat frânele bicicletei în ploaia matinală înainte de a continua drumul.",
+                "en": "Start your wet morning ride here; be absolutely sure to double-check your bike's brakes in the rain before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Institut Gandèn Ling",
+                "hu": "Institut Gandèn Ling",
+                "ro": "Institutul Gandèn Ling",
+                "en": "Institut Gandèn Ling"
+              },
+              "tip_5lang": {
+                "de": "Die friedliche Atmosphäre wird durch den Regen verstärkt; parken Sie das Rad sicher und nutzen Sie einen wasserfesten Sattelüberzug.",
+                "hu": "A nyugodt légkört csak fokozza az eső kopogása; parkolja le biztonságosan a biciklit, és húzzon vízálló huzatot az ülésre.",
+                "ro": "Atmosfera pașnică este amplificată de ploaie; parcați bicicleta în siguranță și folosiți o husă impermeabilă pentru șa.",
+                "en": "The tranquil atmosphere is surprisingly enhanced by the rain; park safely and use a waterproof seat cover while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Thalia",
+                "hu": "Thalia",
+                "ro": "Thalia",
+                "en": "Thalia"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause vom Radeln im Regen; hängen Sie Ihre nasse Regenjacke an der Garderobe auf, während Sie sich umsehen.",
+                "hu": "Tartson egy kis szünetet a szakadó esőben való tekerésben; akassza fel a vizes esőkabátot a ruhatárban, amíg nézelődik.",
+                "ro": "Luați o pauză de la pedalatul în ploaie; agățați pelerina udă la garderobă în timp ce explorați expozițiile uscate.",
+                "en": "Take a well-deserved break from cycling in the rain; hang your wet raincoat in the cloakroom while you explore the indoor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Municipal",
+                "hu": "Musée Municipal",
+                "ro": "Muzeul Municipal",
+                "en": "Musée Municipal"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf und trocknen Sie sich drinnen ab; es ist ein perfekter mittäglicher Unterschlupf vor den anhaltenden Schauern.",
+                "hu": "Melegedjen fel és száradjon meg odabent; ez a tökéletes déli menedék a kitartóan zuhogó eső és a nyirkos szél elől.",
+                "ro": "Încălziți-vă și uscați-vă la interior; este un adăpost perfect la amiază împotriva averselor persistente și a frigului.",
+                "en": "Warm up and dry off inside the exhibits; it's a perfect midday shelter to recover from the persistent, chilly showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Façade François 1er",
+                "hu": "Façade François 1er",
+                "ro": "Fațada François 1er",
+                "en": "Façade François 1er"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie hier sehr sanft, da das historische Kopfsteinpflaster rund um die Fassade bei Nässe extrem rutschig wird.",
+                "hu": "Fékezzen nagyon finoman, mivel a történelmi homlokzat körüli macskaköves burkolat esőben rendkívül csúszóssá és veszélyessé válik.",
+                "ro": "Frânați foarte ușor aici, deoarece piatra cubică istorică din jurul fațadei devine extrem de alunecoasă când este udă.",
+                "en": "Brake very gently approaching this stop, as the historic cobblestones around the beautiful facade are extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Verlies",
+                "hu": "Öregtorony",
+                "ro": "Temnița",
+                "en": "Dungeon"
+              },
+              "tip_5lang": {
+                "de": "Das Verlies bietet eine trockene Flucht; parken Sie Ihr Rad vorsichtig draußen, da der nasse Boden schlammig sein kann.",
+                "hu": "Az öregtorony száraz menedéket nyújt; óvatosan parkolja le a kerékpárt odakint, mert a felázott talaj nagyon saras lehet.",
+                "ro": "Temnița oferă o evadare uscată; parcați bicicleta cu grijă afară, deoarece pământul ud poate fi foarte noroios.",
+                "en": "The dungeon offers a dry escape from the weather; carefully park your bike outside as the wet historic grounds can be muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Loing-Kanal",
+                "hu": "Loing-csatorna",
+                "ro": "Canalul Loing",
+                "en": "Loing Canal"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem nassen Kanalweg, um nicht ins Rutschen zu kommen; die neblige Aussicht ist unglaublich malerisch.",
+                "hu": "Tekerjen lassan a nedves csatornaparton, nehogy megcsússzon a sárban; a ködös, esős vízi kilátás hihetetlenül festői.",
+                "ro": "Pedalați încet pe poteca umedă a canalului pentru a evita deraparea; priveliștea cețoasă a apei este incredibil de pitorească.",
+                "en": "Ride slowly along the wet canal path to completely avoid skidding; the misty, rain-swept water views are incredibly scenic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre frostige Radtour bei der Mairie und dem friedlichen Institut; Handschuhe sind Pflicht! Mittags tauen Sie in den beheizten Räumen von Museum und Thalia auf. Nachmittags treten Sie kräftig in die Pedale vorbei an der historischen Fassade zum Verlies, um warm zu bleiben. Beenden Sie die Tour am Loing-Kanal unbedingt vor dem frühen Sonnenuntergang um 17 Uhr, da die Temperaturen dann rapide fallen.",
+            "hu": "Kezdje a fagyos bringatúrát a városházánál és a békés intézetnél; a szélálló kesztyű kötelező! Délben engedjen fel a múzeum és a Thalia fűtött tereiben. Délután tekerjen tempósan a történelmi homlokzat és az öregtorony felé, hogy fenntartsa a testhőjét. A Loing-csatornánál mindenképp fejezze be a túrát a korai, 17 órás sötétedés előtt, mert utána drasztikusan lehűl a levegő.",
+            "ro": "Începeți traseul geros cu bicicleta la primărie și institutul pașnic; mănușile groase sunt obligatorii! La prânz, dezghețați-vă în spațiile încălzite ale muzeului și Thalia. După-amiaza, pedalați viguros pe lângă fațada istorică spre temniță pentru a vă menține cald. Încheiați pe canalul Loing neapărat înainte de apusul de la ora 17:00, când temperaturile scad extrem de rapid.",
+            "en": "Kick off your frosty bike ride at the town hall and the peaceful institute; windproof gloves are mandatory! At noon, thaw out in the heated museum and Thalia. In the afternoon, pedal briskly past the historic facade to the dungeon to keep your body heat up. Conclude along the Loing Canal absolutely before the early 5 PM sunset drops temperatures to freezing levels."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie déléguée de Veneux-les-Sablons",
+                "hu": "Mairie déléguée de Veneux-les-Sablons",
+                "ro": "Primăria Veneux-les-Sablons",
+                "en": "Mairie déléguée de Veneux-les-Sablons"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier Ihre frische Winterfahrt; stellen Sie sicher, dass Sie winddichte Handschuhe tragen, damit die Hände beweglich bleiben.",
+                "hu": "Kezdje itt a frissítő téli tekerést; mindenképp viseljen szélálló kesztyűt, hogy az ujjai mozgékonyak maradjanak a fékekhez.",
+                "ro": "Începeți plimbarea revigorantă de iarnă aici; asigurați-vă că purtați mănuși rezistente la vânt pentru a vă putea folosi mâinile.",
+                "en": "Begin your brisk winter ride right here; make strictly sure you wear windproof gloves to keep your hands functional for braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Institut Gandèn Ling",
+                "hu": "Institut Gandèn Ling",
+                "ro": "Institutul Gandèn Ling",
+                "en": "Institut Gandèn Ling"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft macht diesen friedlichen Ort noch klarer; behalten Sie Ihren Helm als zusätzliche Wärmeschicht unbedingt auf.",
+                "hu": "A hideg levegő még élesebbé teszi ezt a békés helyet; tartsa magán a bukósisakot, mint egy extra melegítő réteget a fején.",
+                "ro": "Aerul rece face acest loc pașnic și mai clar; păstrați casca pe cap ca un strat suplimentar excelent de căldură.",
+                "en": "The cold air makes this peaceful site even sharper; keep your bike helmet on your head to serve as an extra layer of warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Thalia",
+                "hu": "Thalia",
+                "ro": "Thalia",
+                "en": "Thalia"
+              },
+              "tip_5lang": {
+                "de": "Tauen Sie Ihre kalten Finger in diesem Kulturzentrum auf; es ist ein willkommener, stark beheizter Stopp auf der frostigen Route.",
+                "hu": "Olvassza fel az átfagyott ujjait ebben a kulturális központban; ez egy rendkívül szívesen látott, fűtött megálló a fagyos úton.",
+                "ro": "Dezghețați-vă degetele reci în acest centru cultural; este o oprire încălzită extrem de binevenită pe traseul înghețat.",
+                "en": "Thaw out your cold cycling fingers inside this cultural center; it's a very welcome, heavily heated stop on your frosty route."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Municipal",
+                "hu": "Musée Municipal",
+                "ro": "Muzeul Municipal",
+                "en": "Musée Municipal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung des Museums voll aus; zusätzliche Zeit hier hilft Ihnen, sich vom eiskalten Fahrtwind zu erholen.",
+                "hu": "Használja ki a múzeum kellemes fűtését; egy kis extra időt eltöltve itt könnyebben magához tér a jéghideg menetszéltől.",
+                "ro": "Profitați din plin de încălzirea muzeului; petrecând timp suplimentar aici vă ajută să vă recuperați după vântul înghețat.",
+                "en": "Take full advantage of the museum's heating; spending extra time here helps you recover completely from the freezing headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Façade François 1er",
+                "hu": "Façade François 1er",
+                "ro": "Fațada François 1er",
+                "en": "Façade François 1er"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrorener Nässe rund um das historische Zentrum; die frostige Fassade bietet ein tolles, schnelles Fotomotiv.",
+                "hu": "Vigyázzon a lefagyott páralecsapódásra a történelmi központban; a deres homlokzat nagyszerű, de gyors fotótémát kínál a hidegben.",
+                "ro": "Atenție la poleiul din jurul centrului istoric; fațada acoperită de chiciură oferă o oportunitate excelentă pentru o poză rapidă.",
+                "en": "Watch out for black ice on the roads around the historic center; the frosty facade is a great, very quick winter photo op."
+              }
+            },
+            {
+              "name": {
+                "de": "Verlies",
+                "hu": "Öregtorony",
+                "ro": "Temnița",
+                "en": "Dungeon"
+              },
+              "tip_5lang": {
+                "de": "Das steinerne Innere ist eiskalt; behalten Sie Ihre thermische Radkleidung unbedingt an, während Sie das Mittelalter-Bauwerk durchqueren.",
+                "hu": "A kőbelső dermesztően hideg; feltétlenül tartsa magán a thermo kerékpáros ruházatot, miközben áthalad a középkori építményen.",
+                "ro": "Interiorul din piatră este înghețat; păstrați neapărat hainele termice de ciclism pe dumneavoastră în timp ce traversați structura.",
+                "en": "The stone interior is freezing cold; keep your thermal cycling layers securely on while walking through the medieval structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Loing-Kanal",
+                "hu": "Loing-csatorna",
+                "ro": "Canalul Loing",
+                "en": "Loing Canal"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt unbedingt, bevor es gegen 17 Uhr dunkel wird; achten Sie auf versteckte Eisflächen nahe der kalten Wasserkante.",
+                "hu": "Feltétlenül fejezze be a tekerést, mielőtt 17 óra körül besötétedik; figyeljen a hideg vízparthoz közeli rejtett jégfoltokra.",
+                "ro": "Încheiați neapărat cursa înainte să se întunece, pe la 17:00; fiți atenți la peticele de gheață ascunse din apropierea apei reci.",
+                "en": "Finish your ride securely before it gets completely dark around 5 PM; watch out for hidden ice patches dangerously near the water."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Morning: Kezdje a napot a nyugodt légkör és a gazdag építészeti örökség befogadásával. A hűvös reggeli levegő tökéletes hátteret biztosít az évszázados kőfalak megcsodálásához.\nMidday: Ahogy a nap eléri a zenitet, térjen át a város művészeti szívére. A helyi múzeumok és a részletgazdag homlokzatok a királyi múltról és a tartós kulturális büszkeségről mesélnek.\nAfternoon: A kényelmes délutáni tempó lehetővé teszi a történelmi mindennapok nyugodt felfedezését. Fedezze fel a hátrahagyott masszív faszerkezeteket és védelmi építményeket.\nEvening: Zárja utazását a nyugodt vízi utakon. Az aranyóra varázslatos tükröződéseket vet a csatornára, így tökéletes és pihentető befejezést kínál a kalandnak.",
         "ro": "Morning: Începeți ziua îmbrățișând atmosfera liniștită și bogata moștenire arhitecturală. Aerul răcoros al dimineții oferă fundalul perfect pentru a admira zidurile seculare de piatră.\nMidday: Pe măsură ce soarele ajunge la apogeu, îndreptați-vă spre inima artistică. Muzeele locale și fațadele detaliate spun povești despre trecutul regal și mândria culturală.\nAfternoon: Ritmul relaxat de după-amiază permite o explorare tihnită a vieții istorice zilnice. Descoperiți construcțiile robuste din lemn și structurile defensive lăsate în urmă.\nEvening: Încheiați-vă călătoria pe căile navigabile senine. Ora de aur aruncă reflexii magice pe canal, oferind un final perfect și relaxant pentru aventura dumneavoastră.",
         "en": "Morning: Start your day embracing the tranquil atmosphere and rich architectural heritage. The cool morning air provides the perfect backdrop to marvel at the centuries-old stone walls.\nMidday: As the sun reaches its peak, transition towards the town's artistic heart. The local museums and detailed facades tell stories of royal pasts and enduring cultural pride.\nAfternoon: The leisurely afternoon pace allows for an unhurried exploration of historic daily life. Uncover the sturdy timber constructions and defensive structures left behind.\nEvening: Conclude your journey tracing the serene waterways. The golden hour casts magical reflections on the canal, offering a picture-perfect and relaxing end to your adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an diesem regnerischen Morgen entspannt zum Institut und zur Mairie. Gegen Mittag parken Sie bequem in der Nähe des Museums und Thalia, um trockene Kultur zu genießen. Nachmittags steigen Sie nur kurz für die Renaissance-Fassade, das schützende Waschhaus und das massive Verlies aus dem Auto. Beenden Sie Ihre Autotour am Loing-Kanal und beobachten Sie die prasselnden Regentropfen aus dem warmen, trockenen Fahrzeug.",
+            "hu": "Vezessen kényelmesen az esős reggelen az intézethez és a városházához. Délben parkoljon le a múzeum és a Thalia közelében, és élvezze a fedett kulturális programokat. Délután csak rövid időre szálljon ki a reneszánsz homlokzatnál, a védett mosóháznál és a vastag falú öregtoronynál. Zárja a napot a Loing-csatorna mellett parkolva, ahol a száraz, meleg autóból nézheti az esőcseppeket.",
+            "ro": "Conduceți relaxat în această dimineață ploioasă spre institut și primărie. La prânz, parcați aproape de muzeu și Thalia pentru o baie de cultură la uscat. După-amiaza, coborâți scurt pentru fațada renascentistă, spălătoria cu acoperiș și temnița masivă. Încheiați turul auto la canalul Loing, privind liniștit picăturile de ploaie din confortul și căldura mașinii dumneavoastră.",
+            "en": "Drive through the rainy morning comfortably to the peaceful institute and town hall. Around noon, park near the museum and Thalia for some totally dry, indoor cultural immersion. In the afternoon, briefly hop out for the stunning Renaissance facade, the sheltered wash house, and the dungeon. End your driving tour parked by the Loing Canal, watching the rainfall from your warm, dry car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Institut Gandèn Ling",
+                "hu": "Institut Gandèn Ling",
+                "ro": "Institutul Gandèn Ling",
+                "en": "Institut Gandèn Ling"
+              },
+              "tip_5lang": {
+                "de": "Der Regen macht diesen spirituellen Ort sehr friedlich; halten Sie einen Regenschirm für den kurzen Weg vom Parkplatz bereit.",
+                "hu": "Az eső nagyon békéssé teszi ezt a spirituális helyet; tartson kéznél egy esernyőt a parkolótól vezető rövid sétához.",
+                "ro": "Ploaia face acest loc spiritual foarte liniștit; păstrați o umbrelă la îndemână pentru scurta plimbare de la parcare.",
+                "en": "The rainfall makes this spiritual spot very serene; keep an umbrella handy for the brief walk from the nearby parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie déléguée de Veneux-les-Sablons",
+                "hu": "Mairie déléguée de Veneux-les-Sablons",
+                "ro": "Primăria Veneux-les-Sablons",
+                "en": "Mairie déléguée de Veneux-les-Sablons"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Rathaus aus der Bequemlichkeit Ihres trockenen Autos, oder laufen Sie schnell mit Schirm für einen näheren Blick.",
+                "hu": "Szemlélje meg a városházát a száraz autó kényelméből, vagy szaladjon oda gyorsan egy esernyővel, ha közelebbről is megnézné.",
+                "ro": "Priviți primăria din confortul mașinii uscate, sau faceți un sprint scurt cu umbrela dacă doriți o privire mai detaliată.",
+                "en": "View the town hall architecture from the comfort of your dry car, or make a very quick dash if you want a much closer look."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Municipal",
+                "hu": "Musée Municipal",
+                "ro": "Muzeul Municipal",
+                "en": "Musée Municipal"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich; dieses Indoor-Museum ist ein idealer, trockener Ort, um einen regnerischen Mittag zu verbringen.",
+                "hu": "Parkoljon a lehető legközelebb; ez a benti múzeum ideális, teljesen száraz hely egy esős délidő tartalmas eltöltésére.",
+                "ro": "Parcați cât mai aproape posibil; acest muzeu de interior este un loc ideal, uscat, pentru a petrece o amiază ploioasă.",
+                "en": "Park as safely close as possible; this indoor museum is an absolutely ideal, dry place to spend a heavy rainy midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Thalia",
+                "hu": "Thalia",
+                "ro": "Thalia",
+                "en": "Thalia"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer hervorragender Zufluchtsort vor dem nassen Wetter; Sie können Ihre nassen Mäntel im Auto lassen bei kurzem Weg.",
+                "hu": "Még egy kiváló benti menedék a nedves időjárás elől; ha sikerül közel parkolni, akár a kocsiban is hagyhatja a vizes kabátokat.",
+                "ro": "Un alt refugiu excelent de interior împotriva vremii umede; puteți lăsa paltoanele ude în mașină dacă plimbarea e scurtă.",
+                "en": "Another excellent indoor refuge from the wet weather; comfortably leave your damp coats in the car if it's just a short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Façade François 1er",
+                "hu": "Façade François 1er",
+                "ro": "Fațada François 1er",
+                "en": "Façade François 1er"
+              },
+              "tip_5lang": {
+                "de": "Sie können die Details der Fassade leicht durch den Regen bewundern; das Aussteigen erfordert Vorsicht auf glatten Straßen.",
+                "hu": "Könnyedén megcsodálhatja a homlokzat részleteit az esőben; a kiszállás azonban nagy óvatosságot igényel a csúszós macskaköveken.",
+                "ro": "Puteți admira cu ușurință detaliile fațadei prin ploaie; coborârea din mașină necesită atenție sporită pe străzile alunecoase.",
+                "en": "You can easily admire the rich facade details through the rain; stepping out requires extreme caution on the very slick streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Waschhaus",
+                "hu": "Történelmi Mosóház",
+                "ro": "Spălătoria istorică",
+                "en": "Historical Wash house"
+              },
+              "tip_5lang": {
+                "de": "Das Dach bietet sofort Schutz bei Ankunft; achten Sie jedoch auf Ihre Schritte auf dem nassen Weg von Ihrem geparkten Auto.",
+                "hu": "A tető azonnal menedéket nyújt az érkezéskor; de nagyon figyeljen a lépteire a parkoló autótól idáig vezető nedves és síkos úton.",
+                "ro": "Acoperișul oferă protecție imediată la sosire; totuși, fiți foarte atenți la pașii dumneavoastră pe drumul ud de la mașina parcată.",
+                "en": "The roof provides total shelter once you arrive; clearly watch your step on the completely wet path walking from your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Verlies",
+                "hu": "Öregtorony",
+                "ro": "Temnița",
+                "en": "Dungeon"
+              },
+              "tip_5lang": {
+                "de": "Flitzen Sie vom Auto zum Verlies, um den Schauern zu entkommen; die dicken Wände halten den gesamten Regen sicher draußen.",
+                "hu": "Szaladjon a kocsitól az öregtoronyig, hogy elkerülje a záporokat; a vastag kőfalak biztosan kint tartják az összes esőt.",
+                "ro": "Fugiți de la mașină la temniță pentru a scăpa de averse; zidurile groase vor ține toată ploaia în siguranță la distanță.",
+                "en": "Dash quickly from the car to the dungeon to easily escape the showers; the immensely thick walls keep all the cold rain out."
+              }
+            },
+            {
+              "name": {
+                "de": "Loing-Kanal",
+                "hu": "Loing-csatorna",
+                "ro": "Canalul Loing",
+                "en": "Loing Canal"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem und genießen Sie den stimmungsvollen, regnerischen Blick auf den Kanal aus dem warmen, trockenen Komfort Ihres Fahrzeugs.",
+                "hu": "Parkoljon le kényelmesen, és élvezze a hangulatos, eső áztatta csatorna látványát a száraz és jó meleg gépjárműve kényelméből.",
+                "ro": "Parcați comod și bucurați-vă de vederea melancolică a canalului bătut de ploaie din confortul cald și uscat al vehiculului.",
+                "en": "Park safely and truly enjoy the moody, rain-swept canal view from the exceptionally warm, dry comfort of your own vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winterfahrt im warmen Auto am Institut und der Mairie. Gegen Mittag genießen Sie die gut beheizten Räume von Museum und Thalia, ideal für klirrende Kälte. Verbringen Sie den Nachmittag mit sehr kurzen Wegen zur historischen Fassade, zum Waschhaus und zum Verlies, bevor Sie schnell ins warme Fahrzeug zurückkehren. Beenden Sie die Tour am Loing-Kanal mit Sitzheizung, genau passend für die frühe Winterdämmerung um 17 Uhr.",
+            "hu": "Kezdje a téli autózást a fűtött kocsiból az intézetnél és a városházánál. Délben élvezze a múzeum és a Thalia jól fűtött tereit, ami ideális a fagyos időben. Délután tegyen nagyon rövid sétákat a történelmi homlokzathoz, a mosóházhoz és az öregtoronyhoz, majd siessen vissza a meleg autóba. Zárja a napot a Loing-csatornánál bekapcsolt ülésfűtéssel, épp a 17 órás korai sötétedés előtt.",
+            "ro": "Începeți traseul de iarnă din mașina încălzită la institut și primărie. La prânz, bucurați-vă de interioarele bine încălzite ale muzeului și Thalia. Petreceți după-amiaza cu plimbări foarte scurte la fațada istorică, spălătorie și temniță, întorcându-vă rapid la căldura mașinii. Încheiați la canalul Loing cu scaunele încălzite pornite, perfect la timp pentru amurgul de la ora 17:00.",
+            "en": "Start your frosty winter drive at the institute and local town hall. By midday, deeply enjoy the well-heated interiors of the museum and Thalia. Spend the afternoon taking extremely short walks to the historic facade, wash house, and dungeon, quickly returning to your warm car. Finish driving at the Loing Canal with heated seats on, just in time for the early 5 PM winter dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Institut Gandèn Ling",
+                "hu": "Institut Gandèn Ling",
+                "ro": "Institutul Gandèn Ling",
+                "en": "Institut Gandèn Ling"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren frostigen Morgen mit einem sehr kurzen Spaziergang um das Institut, bevor Sie ins beheizte Auto zurückkehren.",
+                "hu": "Kezdje a fagyos reggelt egy nagyon rövid sétával az intézet körül, mielőtt gyorsan visszatérne a kellemesen fűtött autóba.",
+                "ro": "Începeți dimineața geroasă cu o plimbare foarte scurtă în jurul institutului înainte de a vă întoarce în mașina încălzită.",
+                "en": "Start your frosty morning with a very brisk, short walk around the institute before quickly returning to the heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie déléguée de Veneux-les-Sablons",
+                "hu": "Mairie déléguée de Veneux-les-Sablons",
+                "ro": "Primăria Veneux-les-Sablons",
+                "en": "Mairie déléguée de Veneux-les-Sablons"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Winterluft ist belebend; parken Sie in der Nähe und lassen Sie den Motor für eine schnelle Abfahrt etwas warm laufen.",
+                "hu": "A csípős téli levegő felvillanyozó; parkoljon le a közelben, és tartsa melegen a motort egy nagyon gyors induláshoz.",
+                "ro": "Aerul rece de iarnă este revigorant; parcați în apropiere și mențineți motorul cald pentru o plecare rapidă după vizită.",
+                "en": "The crisp winter air is invigorating; park close nearby and keep your engine warm enough for a very quick, comfortable departure."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Municipal",
+                "hu": "Musée Municipal",
+                "ro": "Muzeul Municipal",
+                "en": "Musée Municipal"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das komfortabel beheizte Museum; es ist eine großartige mittägliche Pause von den eiskalten Außentemperaturen.",
+                "hu": "Élvezze a kényelmesen fűtött múzeumot; nagyszerű déli szünetet biztosít a kinti fagyos és didergető hőmérséklet elől.",
+                "ro": "Bucurați-vă de muzeul confortabil și încălzit; este o pauză excelentă la amiază de la temperaturile exterioare de îngheț.",
+                "en": "Deeply enjoy the comfortably heated museum; it's a completely great midday break from the freezing outdoor temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Thalia",
+                "hu": "Thalia",
+                "ro": "Thalia",
+                "en": "Thalia"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich gründlich in diesem kulturellen Ort auf; Sie können Ihre schwerste Winterausrüstung getrost im Kofferraum lassen.",
+                "hu": "Melegedjen fel alaposan ezen a kulturális helyszínen; a legvastagabb téli felszerelését akár a csomagtartóban is hagyhatja.",
+                "ro": "Încălziți-vă serios în acest spațiu cultural; puteți lăsa fără grijă cel mai greu echipament de iarnă în portbagaj.",
+                "en": "Warm up thoroughly inside this cultural spot; you can comfortably leave your heaviest, bulkiest winter gear back in the trunk."
+              }
+            },
+            {
+              "name": {
+                "de": "Façade François 1er",
+                "hu": "Façade François 1er",
+                "ro": "Fațada François 1er",
+                "en": "Façade François 1er"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto von der frostbedeckten Fassade und springen Sie sofort wieder ins Auto, bevor die Kälte einzieht.",
+                "hu": "Készítsen egy gyors fotót a deres homlokzatról, és azonnal ugorjon vissza a kocsiba, még mielőtt a hideg a csontjáig hatolna.",
+                "ro": "Faceți o fotografie rapidă a fațadei înghețate și săriți imediat înapoi în mașină înainte ca frigul să vă pătrundă.",
+                "en": "Take a very quick photo of the stunning frost-covered facade and jump straight back into the car before the deep cold sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Waschhaus",
+                "hu": "Történelmi Mosóház",
+                "ro": "Spălătoria istorică",
+                "en": "Historical Wash house"
+              },
+              "tip_5lang": {
+                "de": "Das offene Waschhaus ist im Winter bitterkalt; lassen Sie Ihren Mantel während dieses kurzen, eisigen Stopps komplett geschlossen.",
+                "hu": "A nyitott mosóház télen keservesen hideg; tartsa a kabátját teljesen összehúzva ezen a nagyon rövid, fagyos megállón.",
+                "ro": "Spălătoria deschisă este extrem de rece iarna; păstrați paltonul complet închis în timpul acestei opriri scurte și înghețate.",
+                "en": "The open-air wash house is absolutely bitterly cold in winter; keep your winter coat fully zipped during this short stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Verlies",
+                "hu": "Öregtorony",
+                "ro": "Temnița",
+                "en": "Dungeon"
+              },
+              "tip_5lang": {
+                "de": "Das ungeheizte Verlies aus Stein ist so kalt wie draußen; ein wunderbar warmes Auto wartet direkt danach glücklicherweise auf Sie.",
+                "hu": "A fűtetlen kő öregtorony legalább olyan hideg, mint a külvilág; szerencsére utána egy csodálatosan meleg autó várja Önt.",
+                "ro": "Temnița neîncălzită din piatră este la fel de rece ca afară; din fericire, o mașină foarte caldă vă așteaptă imediat după.",
+                "en": "The completely unheated stone dungeon is just as cold as the outdoors; luckily, a wonderfully warm car waits for you right after."
+              }
+            },
+            {
+              "name": {
+                "de": "Loing-Kanal",
+                "hu": "Loing-csatorna",
+                "ro": "Canalul Loing",
+                "en": "Loing Canal"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie am Kanal entlang, um den Wintersonnenuntergang vor 17 Uhr zu sehen; die Sitzheizung macht die kühle Aussicht noch viel besser.",
+                "hu": "Autózzon a csatorna mentén a 17 óra előtti téli naplementéért; a bekapcsolt ülésfűtés sokkal élvezetesebbé teszi a hűvös kilátást.",
+                "ro": "Conduceți de-a lungul canalului pentru apusul de dinainte de 17:00; scaunele încălzite fac această priveliște mult mai plăcută.",
+                "en": "Drive slowly along the canal to see the beautiful winter sunset before 5 PM; the heated seats make the chilly view much better."
+              }
+            }
+          ]
+        }
       }
     }
   }

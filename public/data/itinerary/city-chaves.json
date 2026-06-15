@@ -183,6 +183,224 @@
         "hu": "Kezdd a reggelt az ikonikus 0. kilométerkőnél, majd tegyél egy pihentető sétát a folyóparti kertben. Délben kelj át a Ponte de Trajano hídon, és fedezd fel a római örökséget a termálfürdőknél és a levéltárnál. Délután vizsgáld meg az öreg vár katonai múzeumának fegyvereit. Este zárd a napot a fenséges Forte de São Francisco erődben, ahol csodálatos naplementében gyönyörködhetsz a város felett.",
         "ro": "Începe dimineața la iconicul KM 0, trecând la o plimbare relaxantă în grădina de pe râu. La prânz, traversează vechiul Ponte de Trajano pentru a explora moștenirea romană la băile termale și la arhivă. După-amiaza, descoperă armamentul istoric în muzeul militar al castelului vechi. Încheie seara pe maiestuosul Forte de São Francisco pentru a admira un apus de soare spectaculos deasupra orașului.",
         "en": "Start your morning at the iconic KM 0, transitioning to a relaxing riverside garden stroll. By midday, cross the ancient Ponte de Trajano to dive into the Roman legacy at the thermal baths and archive site. In the afternoon, explore historic weaponry within the old castle's military museum. End your evening atop the majestic Forte de São Francisco for triumphant sunset views over the city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am EN2-Meilenstein mit einem Regenschirm und suchen Sie bald Schutz im Park unter den dichten Bäumen. Der Mittag gehört den römischen Thermen, wo Sie das prasselnde Wasser im Inneren trocken genießen können. Nachmittags bieten das Historische Archiv und das Militärmuseum perfekten Schutz vor Güssen. Der Tag endet sicher hinter den dicken Mauern der Festung São Francisco.",
+            "hu": "Kezdje a túrát az EN2 mérföldkőnél esernyővel, majd keressen menedéket a park fái alatt. A délutánt töltse a római termák és a hadtörténeti múzeum fedett kiállításai között, ahol garantáltan szárazon marad. Az esti órákban a Forte de São Francisco masszív falai nyújtanak biztonságos lezárást a városnézéshez, miközben az ablakból figyelheti az esőáztatta Chaves ódon háztetőit.",
+            "ro": "Începeți la borna EN2 cu o umbrelă și căutați rapid adăpost sub copacii deși din parcul public. Prânzul aparține termelor romane, unde vă puteți bucura de istorie la adăpost de ploaie. După-amiaza, Arhiva Istorică și Muzeul Militar oferă refugiul perfect împotriva rafalelor. Ziua se încheie în siguranță între zidurile groase ale Cetății São Francisco, admirând orașul umed de la fereastră.",
+            "en": "Start at the EN2 milestone with an umbrella and seek shelter under the park's dense trees. Spend your midday at the Roman baths, enjoying history while staying perfectly dry inside. In the afternoon, the Historical Archive and Military Museum offer ideal protection from the showers. The day concludes safely within the thick walls of the São Francisco Fort, watching the rain over the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "EN2 Km 0",
+                "hu": "EN2 Km 0",
+                "ro": "EN2 Km 0",
+                "en": "EN2 Km 0"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto am legendären Meilenstein und nutzen Sie die nahegelegenen Arkaden, um Ihre Ausrüstung bei Regen trocken zu halten.",
+                "hu": "Készítsen egy gyors fotót a legendás mérföldkőnél, és használja a közeli árkádokat, hogy szárazon tartsa felszerelését az esőben.",
+                "ro": "Faceți o fotografie rapidă la borna legendară și folosiți arcadele din apropiere pentru a vă menține echipamentul uscat în caz de ploaie.",
+                "en": "Take a quick photo at the legendary milestone and use the nearby arcades to keep your gear dry while it is raining."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardim Público de Chaves",
+                "hu": "Jardim Público de Chaves",
+                "ro": "Jardim Público de Chaves",
+                "en": "Jardim Público de Chaves"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Musikpavillon als Unterschlupf und bewundern Sie die grünen Farben, die bei Regen im Park besonders kräftig leuchten.",
+                "hu": "Használja a zenekari pavilont menedékként, és csodálja meg a park zöld színeit, amelyek esőben különösen élénken ragyognak.",
+                "ro": "Folosiți pavilionul muzical ca adăpost și admirați culorile verzi care strălucesc deosebit de intens în parc pe timp de ploaie.",
+                "en": "Use the bandstand as a temporary shelter and admire the green colors that glow particularly vividly in the park during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte de Trajano",
+                "hu": "Ponte de Trajano",
+                "ro": "Ponte de Trajano",
+                "en": "Ponte de Trajano"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig auf dem nassen Kopfsteinpflaster; die antiken Steine der Brücke können bei Regen sehr rutschig werden.",
+                "hu": "Legyen óvatos a nedves macskakövön; a híd ősi kövei esőben nagyon csúszóssá válhatnak, viseljen tapadós talpú cipőt.",
+                "ro": "Aveți grijă pe pavajul umed; pietrele antice ale podului pot deveni foarte alunecoase în ploaie, purtați încălțăminte adecvată.",
+                "en": "Be careful on the wet cobblestones; the ancient stones of the bridge can become very slippery in the rain, wear grippy shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Termas Romanas de Chaves",
+                "hu": "Museu Termas Romanas de Chaves",
+                "ro": "Museu Termas Romanas de Chaves",
+                "en": "Museu Termas Romanas de Chaves"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Zufluchtsort; genießen Sie die unterirdischen römischen Ruinen, während Sie komplett vor dem Wetter geschützt sind.",
+                "hu": "Ez az ideális menedékhely; élvezze a föld alatti római romokat, miközben teljesen védve van a kinti időjárástól.",
+                "ro": "Acesta este refugiul ideal; bucurați-vă de ruinele romane subterane, fiind complet protejat de vremea de afară.",
+                "en": "This is the ideal refuge; enjoy the underground Roman ruins while being completely protected from the weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ínsula do Arquivo Histórico de Chaves",
+                "hu": "Ínsula do Arquivo Histórico de Chaves",
+                "ro": "Ínsula do Arquivo Histórico de Chaves",
+                "en": "Ínsula do Arquivo Histórico de Chaves"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausgrabungen im Innenbereich; es ist ein faszinierender Ort, um die Geschichte der Stadt im Trockenen zu studieren.",
+                "hu": "Fedezze fel a belső ásatásokat; lenyűgöző helyszín a város történelmének tanulmányozására, miközben az eső kint kopog a tetőn.",
+                "ro": "Explorați săpăturile din interior; este un loc fascinant pentru a studia istoria orașului la adăpost de ploaie.",
+                "en": "Explore the indoor excavations; it is a fascinating place to study the city's history while the rain pitter-patters outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Militar",
+                "hu": "Museu Militar",
+                "ro": "Museu Militar",
+                "en": "Museu Militar"
+              },
+              "tip_5lang": {
+                "de": "Der Bergfried bietet dicke Mauern und eine großartige Aussicht, ohne dass Sie im Regen stehen müssen; perfekt für lange Besichtigungen.",
+                "hu": "A várkastély lakótornya vastag falakat és nagyszerű kilátást kínál anélkül, hogy elázna; tökéletes a hosszú, alapos nézelődéshez.",
+                "ro": "Turnul principal oferă ziduri groase și o vedere minunată fără a fi nevoie să stați în ploaie; perfect pentru vizite lungi.",
+                "en": "The keep offers thick walls and great views without having to stand in the rain; perfect for long, detailed sightseeing."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de São Francisco",
+                "hu": "Forte de São Francisco",
+                "ro": "Forte de São Francisco",
+                "en": "Forte de São Francisco"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Hotelbereich des Forts; genießen Sie einen Tee in der Lounge und beobachten Sie den Regen über dem Tal.",
+                "hu": "Zárja a napot az erőd szállodarészlegében; fogyasszon el egy meleg teát a társalgóban, és figyelje az esőt a völgy felett.",
+                "ro": "Încheiați ziua în zona hotelieră a fortului; savurați un ceai în lounge și observați ploaia peste vale.",
+                "en": "End the day in the fort's hotel area; enjoy a hot tea in the lounge and watch the rain fall over the valley."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Winterluft am Morgen beim KM 0 belebt den Geist. Mittags wärmen Sie sich in den römischen Thermen auf, deren feuchte Atmosphäre im Winter besonders angenehm ist. Der Nachmittag wird in den beheizten Museen verbracht, bevor um 17:00 Uhr die Sonne untergeht. Die beleuchtete Festung São Francisco bietet einen magischen, kalten Abschluss Ihres Spaziergangs durch Chaves.",
+            "hu": "A friss téli reggel a KM 0-nál felfrissíti a lelket. Délben melegedjen fel a római termákban, melyek párás légköre télen különösen kellemes. A délutánt töltse a fűtött múzeumokban, mielőtt 17:00-kor lebukik a nap. A kivilágított Forte de São Francisco mágikus, hűvös lezárást nyújt a városi sétához, érdemes rétegesen öltözködni a hideg szél miatt.",
+            "ro": "Aerul proaspăt de iarnă la borna KM 0 revigorează spiritul. La prânz, încălziți-vă în termele romane, a căror atmosferă umedă este deosebit de plăcută iarna. După-amiaza este petrecută în muzeele încălzite înainte ca soarele să apună la ora 17:00. Cetatea São Francisco iluminată oferă un final magic și rece plimbării prin Chaves.",
+            "en": "Fresh winter air at the KM 0 milestone invigorates the spirit. Warm up at midday in the Roman baths, whose humid atmosphere is especially pleasant in winter. Spend the afternoon in heated museums before the sun sets at 5 PM. The illuminated São Francisco Fort provides a magical, chilly conclusion to your walk through Chaves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "EN2 Km 0",
+                "hu": "EN2 Km 0",
+                "ro": "EN2 Km 0",
+                "en": "EN2 Km 0"
+              },
+              "tip_5lang": {
+                "de": "Der Startpunkt ist im Winter oft neblig; tragen Sie helle Kleidung für Fotos, um sich vom grauen Hintergrund abzuheben.",
+                "hu": "A kezdőpont télen gyakran ködös; viseljen élénk színű ruhát a fotókhoz, hogy látványosan kitűnjön a szürke háttérből.",
+                "ro": "Punctul de plecare este adesea cețos iarna; purtați haine viu colorate pentru fotografii pentru a ieși în evidență pe fundalul gri.",
+                "en": "The starting point is often foggy in winter; wear bright clothing for photos to stand out against the grey background."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardim Público de Chaves",
+                "hu": "Jardim Público de Chaves",
+                "ro": "Jardim Público de Chaves",
+                "en": "Jardim Público de Chaves"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang, um warm zu bleiben, und bewundern Sie die winterliche Struktur der laublosen Bäume am Fluss.",
+                "hu": "Sétáljon tempósan, hogy melegen tartsa magát, és csodálja meg a lomb nélküli fák téli sziluettjét a folyóparton.",
+                "ro": "Faceți o plimbare rapidă pentru a vă menține cald și admirați structura hibernală a copacilor fără frunze de lângă râu.",
+                "en": "Take a brisk walk to keep warm and admire the wintry structure of the leafless trees along the river bank."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte de Trajano",
+                "hu": "Ponte de Trajano",
+                "ro": "Ponte de Trajano",
+                "en": "Ponte de Trajano"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den kalten Wind vom Fluss Tâmega, aber achten Sie auf vereiste Stellen auf den antiken Steinplatten am frühen Morgen.",
+                "hu": "Élvezze a Tâmega folyó felől fújó friss szelet, de kora reggel ügyeljen a jeges foltokra az antik kőlapokon.",
+                "ro": "Bucurați-vă de vântul rece de pe râul Tâmega, dar aveți grijă la porțiunile înghețate de pe dalele antice de piatră dimineața devreme.",
+                "en": "Enjoy the cold wind from the Tâmega river, but watch out for icy patches on the ancient stone slabs early in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Termas Romanas de Chaves",
+                "hu": "Museu Termas Romanas de Chaves",
+                "ro": "Museu Termas Romanas de Chaves",
+                "en": "Museu Termas Romanas de Chaves"
+              },
+              "tip_5lang": {
+                "de": "Die natürliche Wärme der Thermalquellen im Inneren macht diesen Ort zum perfekten Ort, um die Winterkälte für eine Weile zu vergessen.",
+                "hu": "A benti hévízforrások természetes hője tökéletes hellyé teszi ezt a múzeumot, hogy egy időre elfelejtse a kinti téli hideget.",
+                "ro": "Căldura naturală a izvoarelor termale din interior face din acest muzeu locul perfect pentru a uita de frigul iernii pentru o vreme.",
+                "en": "The natural heat from the thermal springs inside makes this museum the perfect place to forget the winter cold for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Ínsula do Arquivo Histórico de Chaves",
+                "hu": "Ínsula do Arquivo Histórico de Chaves",
+                "ro": "Ínsula do Arquivo Histórico de Chaves",
+                "en": "Ínsula do Arquivo Histórico de Chaves"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Schutz des Gebäudes vor dem kalten Nordwind und studieren Sie die Ausgrabungen in angenehm temperierter Umgebung.",
+                "hu": "Használja ki az épület védelmét a hideg északi szél elől, és tanulmányozza az ásatásokat kellemesen temperált környezetben.",
+                "ro": "Folosiți protecția clădirii împotriva vântului rece de nord și studiați săpăturile într-un mediu cu temperatură plăcută.",
+                "en": "Take advantage of the building's protection from the cold north wind and study the excavations in a pleasantly tempered environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Militar",
+                "hu": "Museu Militar",
+                "ro": "Museu Militar",
+                "en": "Museu Militar"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Stopp vor Sonnenuntergang, um die Wintersonne tief über den umliegenden Bergen von der Burgmauer aus zu sehen.",
+                "hu": "Látogasson el ide még naplemente előtt, hogy a várfalról láthassa a környező hegyek felett alacsonyan járó téli napot.",
+                "ro": "Vizitați acest punct înainte de apus pentru a vedea soarele de iarnă coborât peste munții din jur de pe zidul cetății.",
+                "en": "Visit this stop before sunset to see the winter sun low over the surrounding mountains from the castle wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de São Francisco",
+                "hu": "Forte de São Francisco",
+                "ro": "Forte de São Francisco",
+                "en": "Forte de São Francisco"
+              },
+              "tip_5lang": {
+                "de": "Das Fort ist abends wunderschön beleuchtet; wärmen Sie sich nach Ihrer Tour am Kamin in der Hotelbar auf.",
+                "hu": "Az erőd este gyönyörűen ki van világítva; a túra után melegedjen fel a szálloda bárjában található kandalló mellett.",
+                "ro": "Fortul este frumos iluminat seara; încălziți-vă după tur lângă șemineul din barul hotelului.",
+                "en": "The fort is beautifully illuminated at night; warm up after your tour by the fireplace in the hotel bar."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Kezdd kerékpártúrádat a kortárs művészetekkel a Nadir Afonso múzeumban, majd tekerj a masszív római híd felé. Látogass el a termálfürdőkbe az ősi titkokért, majd haladj át a Postigo das Caldas kapun. Kerékpározz fel az impozáns Forte de São Francisco erődhöz, és fedezd fel a mozdonyok történetét a múzeumban. Zárd a napot egy kellemes utazással a Forte de São Neutel felé a szürkületben.",
         "ro": "Începe turul cu bicicleta admirând arta contemporană la muzeul Nadir Afonso, apoi pedalează spre podul roman. Mergi la băile termale pentru a descoperi secrete antice, urmat de o trecere rapidă prin poarta Postigo das Caldas. Urcă la impunătorul Forte de São Francisco și explorează istoria feroviară la muzeu. Termină cu o plimbare relaxantă până la Forte de São Neutel în amurg.",
         "en": "Kickstart your cycling tour by admiring contemporary art at the Nadir Afonso museum, then wheel towards the sturdy Roman bridge. Ride to the thermal baths to discover ancient secrets, followed by a quick pass through the Postigo das Caldas gate. Cycle up to the imposing Forte de São Francisco and explore locomotive history at the railway museum. Finish with a steady ride up to Forte de São Neutel at twilight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen beginnt im modernen Nadir-Afonso-Museum, wo Sie im Trockenen Kunst genießen können. Die Wege entlang des Flusses erfordern Vorsicht, besonders auf der Brücke von Trajan. Mittags bieten die Thermen und das Fort São Francisco gute Pausenstationen. Beenden Sie den Tag im Eisenbahnmuseum, bevor Sie zum Schutz vor weiteren Güssen schnell zum Fort São Neutel fahren.",
+            "hu": "Az esős kerékpártúra a modern Nadir Afonso Múzeumban indul, ahol fedett helyen élvezheti a művészetet. A folyó menti utak óvatosságot igényelnek, különösen a Traianus-hídon a csúszásveszély miatt. Délben a termák és az erődök kínálnak jó pihenőpontokat. Zárja a napot a Vasútmúzeumban, majd tekerjen el a São Neutel erődhöz, figyelve a tócsákra az úton.",
+            "ro": "O tură cu bicicleta pe ploaie începe la muzeul modern Nadir Afonso, unde vă puteți bucura de artă la adăpost. Potecile de-a lungul râului necesită prudență, mai ales pe Podul lui Traian. La prânz, termele și forturile oferă puncte bune de oprire. Încheiați ziua la Muzeul Căilor Ferate înainte de a pedala rapid spre Fortul São Neutel pentru a evita ploile.",
+            "en": "A rainy bike tour starts at the modern Nadir Afonso Museum, where you can enjoy art while staying dry. Paths along the river require caution, especially on the Trajan Bridge. At midday, the baths and forts offer good pit stops. End the day at the Railway Museum before cycling quickly to São Neutel Fort, being mindful of puddles along the way."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum of Contemporary Arts Nadir Afonso",
+                "hu": "Museum of Contemporary Arts Nadir Afonso",
+                "ro": "Museum of Contemporary Arts Nadir Afonso",
+                "en": "Museum of Contemporary Arts Nadir Afonso"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad im überdachten Eingangsbereich und nutzen Sie die weitläufigen Galerien, um den ersten Regenschauer abzuwarten.",
+                "hu": "Parkolja le kerékpárját a fedett bejáratnál, és használja a tágas galériákat az első eső zápor kivárására.",
+                "ro": "Parcați bicicleta în zona de intrare acoperită și folosiți galeriile spațioase pentru a aștepta trecerea primei averse.",
+                "en": "Park your bike in the covered entrance area and use the spacious galleries to wait out the first rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte de Trajano",
+                "hu": "Ponte de Trajano",
+                "ro": "Ponte de Trajano",
+                "en": "Ponte de Trajano"
+              },
+              "tip_5lang": {
+                "de": "Reduzieren Sie Ihre Geschwindigkeit auf der Brücke deutlich; die nassen Steine bieten wenig Halt für Fahrradreifen.",
+                "hu": "Jelentősen csökkentse sebességét a hídon; a nedves kövek kevés tapadást biztosítanak a kerékpárgumiknak, fékezzen óvatosan.",
+                "ro": "Reduceți semnificativ viteza pe pod; pietrele umede oferă puțină aderență pentru anvelopele de bicicletă.",
+                "en": "Reduce your speed significantly on the bridge; the wet stones offer little grip for bike tires, brake carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Termas Romanas de Chaves",
+                "hu": "Museu Termas Romanas de Chaves",
+                "ro": "Museu Termas Romanas de Chaves",
+                "en": "Museu Termas Romanas de Chaves"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Regenjacke auszuziehen; das Museum ist klimatisiert und bietet eine trockene Pause von der Tour.",
+                "hu": "Tökéletes hely az esőkabát levételére; a múzeum légkondicionált és száraz pihenőt kínál a kerékpáros túra közben.",
+                "ro": "Un loc perfect pentru a vă da jos pelerina de ploaie; muzeul este climatizat și oferă o pauză uscată în timpul turului.",
+                "en": "A perfect place to take off your raincoat; the museum is climate-controlled and offers a dry break from the cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Postigo das Caldas",
+                "hu": "Postigo das Caldas",
+                "ro": "Postigo das Caldas",
+                "en": "Postigo das Caldas"
+              },
+              "tip_5lang": {
+                "de": "Dieser Torbogen bietet einen kurzen, trockenen Stopp für einen Schluck Wasser, bevor es weiter durch die Altstadt geht.",
+                "hu": "Ez a kapubolt rövid, száraz megállót kínál egy korty vízre, mielőtt továbbhaladna az esős óvároson keresztül.",
+                "ro": "Această poartă oferă o scurtă oprire uscată pentru o gură de apă înainte de a continua prin centrul vechi ploios.",
+                "en": "This archway offers a short, dry stop for a sip of water before continuing through the rainy old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de São Francisco",
+                "hu": "Forte de São Francisco",
+                "ro": "Forte de São Francisco",
+                "en": "Forte de São Francisco"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenhof des Forts zum Schutz und prüfen Sie Ihre Bremsen, bevor Sie die Hügel der Stadt weiter befahren.",
+                "hu": "Használja az erőd belső udvarát menedékként, és ellenőrizze a fékeket, mielőtt továbbhaladna a város dombos utcáin.",
+                "ro": "Folosiți curtea interioară a fortului ca adăpost și verificați frânele înainte de a continua pe dealurile orașului.",
+                "en": "Use the fort's inner courtyard for shelter and check your brakes before continuing through the city's hilly streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo de Chaves do Museu Ferroviário",
+                "hu": "Núcleo de Chaves do Museu Ferroviário",
+                "ro": "Núcleo de Chaves do Museu Ferroviário",
+                "en": "Núcleo de Chaves do Museu Ferroviário"
+              },
+              "tip_5lang": {
+                "de": "Die großen Lokomotivhallen sind komplett überdacht; ideal, um die Fahrräder kurz abzustellen und Technik im Trockenen zu bewundern.",
+                "hu": "A nagy mozdonycsarnokok teljesen fedettek; ideális a kerékpárok rövid leállítására és a technika megcsodálására szárazon.",
+                "ro": "Halele mari de locomotive sunt complet acoperite; ideal pentru a lăsa bicicletele scurt și a admira tehnica la adăpost.",
+                "en": "The large locomotive halls are completely covered; ideal for parking the bikes briefly and admiring the tech while dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de São Neutel",
+                "hu": "Forte de São Neutel",
+                "ro": "Forte de São Neutel",
+                "en": "Forte de São Neutel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour zügig; die Gräben des Forts können bei starkem Regen matschig werden, bleiben Sie auf den Wegen.",
+                "hu": "Zárja le gyorsan a túrát; az erőd árkai heves esőzéskor sárosodhatnak, maradjon a kijelölt aszfaltozott utakon.",
+                "ro": "Încheiați rapid turul; șanțurile fortului pot deveni noroioase în caz de ploaie abundentă, rămâneți pe poteci.",
+                "en": "Finish your tour promptly; the fort's ditches can get muddy during heavy rain, so stay on the paved paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour im Nadir-Afonso-Museum und genießen Sie das klare Licht. Der Wind am Fluss kann schneidig sein, also tragen Sie windfeste Kleidung auf der Brücke. Die Thermen bieten eine warme Pause zur Mitte des Tages. Da es um 17:00 Uhr dunkel wird, beenden Sie Ihren Besuch im Eisenbahnmuseum rechtzeitig, um das Fort São Neutel in der Dämmerung zu erreichen.",
+            "hu": "Kezdje a téli túrát a Nadir Afonso Múzeumban, élvezve a tiszta fényt. A folyóparti szél metsző lehet, ezért viseljen szélálló ruházatot a hídon. A termák meleg pihenőt kínálnak a nap közepén. Mivel 17:00-kor sötétedik, fejezze be időben a Vasútmúzeumban tett látogatást, hogy még szürkületben elérje a São Neutel erődöt.",
+            "ro": "Începeți turul de iarnă la Muzeul Nadir Afonso și bucurați-vă de lumina clară. Vântul de pe râu poate fi tăios, așa că purtați haine rezistente la vânt pe pod. Termele oferă o pauză caldă la mijlocul zilei. Deoarece se întunecă la ora 17:00, terminați vizita la Muzeul Căilor Ferate la timp pentru a ajunge la Fortul São Neutel în amurg.",
+            "en": "Start your winter tour at the Nadir Afonso Museum and enjoy the clear light. The wind by the river can be biting, so wear windproof clothing on the bridge. The baths offer a warm break mid-day. Since it gets dark at 5 PM, finish your Railway Museum visit in time to reach São Neutel Fort during twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum of Contemporary Arts Nadir Afonso",
+                "hu": "Museum of Contemporary Arts Nadir Afonso",
+                "ro": "Museum of Contemporary Arts Nadir Afonso",
+                "en": "Museum of Contemporary Arts Nadir Afonso"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist gut beheizt; wärmen Sie Ihre Hände an der Kaffeemaschine im Foyer auf, bevor Sie aufs Fahrrad steigen.",
+                "hu": "A múzeum jól fűtött; melegítse fel kezeit a kávéautomatánál az előtérben, mielőtt újra a kerékpárra pattanna a hidegben.",
+                "ro": "Muzeul este bine încălzit; încălziți-vă mâinile la aparatul de cafea din foaier înainte de a vă urca pe bicicletă.",
+                "en": "The museum is well-heated; warm your hands at the coffee machine in the foyer before getting back on your bike in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte de Trajano",
+                "hu": "Ponte de Trajano",
+                "ro": "Ponte de Trajano",
+                "en": "Ponte de Trajano"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Vollfingerhandschuhe; der Metalllenker Ihres Fahrrads entzieht Ihren Händen auf der Brücke schnell die Wärme.",
+                "hu": "Viseljen zárt ujjú kesztyűt; a kerékpár fém kormánya a hídon gyorsan elvonja a hőt a kezéből a jeges szélben.",
+                "ro": "Purtați mănuși cu degete întregi; ghidonul metalic al bicicletei vă extrage rapid căldura din mâini pe pod.",
+                "en": "Wear full-finger gloves; the metal handlebars of your bike will quickly draw the heat from your hands on the bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Termas Romanas de Chaves",
+                "hu": "Museu Termas Romanas de Chaves",
+                "ro": "Museu Termas Romanas de Chaves",
+                "en": "Museu Termas Romanas de Chaves"
+              },
+              "tip_5lang": {
+                "de": "Die hohe Luftfeuchtigkeit im Inneren fühlt sich nach der trockenen Winterluft draußen sehr wohltuend auf der Haut an.",
+                "hu": "A benti magas páratartalom nagyon jótékonyan hat a bőrre a kinti száraz, hideg téli levegő után.",
+                "ro": "Umiditatea ridicata din interior se simte foarte benefică pe piele după aerul uscat și rece de iarnă de afară.",
+                "en": "The high humidity inside feels very soothing on the skin after the dry, cold winter air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Postigo das Caldas",
+                "hu": "Postigo das Caldas",
+                "ro": "Postigo das Caldas",
+                "en": "Postigo das Caldas"
+              },
+              "tip_5lang": {
+                "de": "Dieser Stopp ist kurz; halten Sie nur kurz an, um nicht auszukühlen, und nutzen Sie die Wintersonne für ein schnelles Foto.",
+                "hu": "Ez a megálló rövid; csak rövid ideig álljon meg, hogy ne hűljön ki, és használja ki a téli napsütést egy gyors fotóra.",
+                "ro": "Această oprire este scurtă; opriți-vă doar puțin pentru a nu se răci corpul și folosiți soarele de iarnă pentru o poză rapidă.",
+                "en": "This stop is short; only stop briefly to avoid getting chilled, and take advantage of the winter sun for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de São Francisco",
+                "hu": "Forte de São Francisco",
+                "ro": "Forte de São Francisco",
+                "en": "Forte de São Francisco"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem Weg zum Fort; am späten Nachmittag kann die Temperatur fallen und Bodenfrost entstehen.",
+                "hu": "Hajtson óvatosan az erőd felé vezető úton; késő délután a hőmérséklet hirtelen leeshet, és talajmenti fagy alakulhat ki.",
+                "ro": "Conduceți cu atenție spre fort; târziu după-amiaza temperatura poate scădea și se poate forma îngheț la sol.",
+                "en": "Ride carefully on the way to the fort; in the late afternoon, the temperature can drop and ground frost can form."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo de Chaves do Museu Ferroviário",
+                "hu": "Núcleo de Chaves do Museu Ferroviário",
+                "ro": "Núcleo de Chaves do Museu Ferroviário",
+                "en": "Núcleo de Chaves do Museu Ferroviário"
+              },
+              "tip_5lang": {
+                "de": "Die Hallen können im Winter kühl sein; behalten Sie Ihre Jacke während der Besichtigung der alten Züge an.",
+                "hu": "A csarnokok télen hűvösek lehetnek; tartsa magán a kabátját a régi vonatok és mozdonyok megtekintése közben.",
+                "ro": "Halele pot fi răcoroase iarna; păstrați jacheta pe dvs. în timp ce vizitați trenurile vechi.",
+                "en": "The halls can be chilly in winter; keep your jacket on while touring the old trains and locomotives."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de São Neutel",
+                "hu": "Forte de São Neutel",
+                "ro": "Forte de São Neutel",
+                "en": "Forte de São Neutel"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Punkt vor 17:00 Uhr; die Dämmerung macht die Navigation auf den Wegen um das Fort schwierig.",
+                "hu": "Érje el ezt a pontot 17:00 előtt; a szürkület megnehezíti a tájékozódást az erőd körüli ösvényeken, viseljen lámpát.",
+                "ro": "Ajungeți în acest punct înainte de ora 17:00; amurgul face dificilă navigarea pe potecile din jurul fortului.",
+                "en": "Reach this point before 5 PM; the twilight makes it difficult to navigate the paths around the fort, so use a bike light."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "Vezess ki a városból, hogy felfedezd a rejtett római gátat Abobeleirában, az ősi mérnöki munka békés emlékművét. Térj vissza a masszív Forte de São Neutel felfedezéséhez, majd állj meg a kulturális központnál. Keresd fel a Forte de São Francisco-t a hadtörténetért, majd látogasd meg a kastélymúzeumot. Végül vezess délre a csendes, vidéki Capela da Granjinha kápolnához.",
         "ro": "Condu la periferie pentru a descoperi barajul roman ascuns din Abobeleira, o dovadă a ingineriei antice. Întoarce-te pentru a explora masivul Forte de São Neutel înainte de a te opri pentru expoziții la centrul cultural. Navighează spre Forte de São Francisco pentru istorie militară, apoi vizitează muzeul castelului. Încheie conducând spre sud la liniștita și rurala Capela da Granjinha.",
         "en": "Drive to the outskirts to uncover the hidden Roman dam of Abobeleira, a testament to ancient engineering in a serene landscape. Head back to explore the massive Forte de São Neutel before stopping for exhibits at the cultural center. Navigate to Forte de São Francisco for military history, then visit the prominent castle museum. Conclude by driving south to the tranquil, rural Capela da Granjinha."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Abobeleira-Talsperre auch bei Regen gut erreichbar. Nutzen Sie die kurzen Wege vom Parkplatz zu den Sehenswürdigkeiten wie dem Fort São Neutel und dem Kulturzentrum. Mittags bietet das Fort São Francisco einen geschützten Ort für eine Pause. Der Besuch im Militärmuseum und in der Granjinha-Kapelle rundet den Tag im Trockenen ab.",
+            "hu": "Autóval az Abobeleira gát esőben is könnyen elérhető. Használja ki a parkolók és a látnivalók, például a São Neutel erőd és a Kulturális Központ közötti rövid távolságokat. Délben a São Francisco erőd nyújt védett helyet a pihenéshez. A hadtörténeti múzeum és a Granjinha-kápolna látogatása szárazon teszi teljessé a napot.",
+            "ro": "Cu mașina, barajul Abobeleira este ușor accesibil chiar și pe ploaie. Profitați de distanțele scurte de la parcare la obiective precum Fortul São Neutel și Centrul Cultural. La prânz, Fortul São Francisco oferă un loc protejat pentru o pauză. Vizita la Muzeul Militar și Capela Granjinha completează ziua la adăpost.",
+            "en": "By car, the Abobeleira dam is easily accessible even in the rain. Take advantage of the short distances between parking and sights like São Neutel Fort and the Cultural Center. At midday, São Francisco Fort provides a sheltered spot for a break. A visit to the Military Museum and Granjinha Chapel completes your day while staying dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Barragem Romana da Abobeleira",
+                "hu": "Barragem Romana da Abobeleira",
+                "ro": "Barragem Romana da Abobeleira",
+                "en": "Barragem Romana da Abobeleira"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Staudamm; der Weg kann bei Regen schlammig sein, tragen Sie festes Schuhwerk.",
+                "hu": "Parkoljon a lehető legközelebb a gáthoz; az út esőben sáros lehet, viseljen vízálló túrabakancsot.",
+                "ro": "Parcați cât mai aproape de baraj; drumul poate fi noroios în ploaie, purtați încălțăminte solidă.",
+                "en": "Park as close to the dam as possible; the path can be muddy in the rain, so wear sturdy, waterproof footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de São Neutel",
+                "hu": "Forte de São Neutel",
+                "ro": "Forte de São Neutel",
+                "en": "Forte de São Neutel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt vor dem Eingang, um die Zeit im Regen auf dem Weg zum Fort zu minimieren.",
+                "hu": "Használja a közvetlenül a bejárat előtti parkolókat, hogy minimálisra csökkentse az esőben töltött időt az erődhöz menet.",
+                "ro": "Folosiți locurile de parcare direct în fața intrării pentru a minimiza timpul petrecut în ploaie spre fort.",
+                "en": "Use the parking spaces directly in front of the entrance to minimize time spent in the rain on the way to the fort."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural de Chaves",
+                "hu": "Centro Cultural de Chaves",
+                "ro": "Centro Cultural de Chaves",
+                "en": "Centro Cultural de Chaves"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein großartiger Ort für regnerische Tage; die modernen Innenräume bieten Schutz und interessante Ausstellungen.",
+                "hu": "Ez nagyszerű helyszín az esős napokra; a modern belső terek védelmet és érdekes kiállításokat kínálnak a látogatóknak.",
+                "ro": "Acesta este un loc minunat pentru zilele ploioase; interioarele moderne oferă protecție și expoziții interesante.",
+                "en": "This is a great venue for rainy days; the modern interiors offer protection and interesting exhibitions for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de São Francisco",
+                "hu": "Forte de São Francisco",
+                "ro": "Forte de São Francisco",
+                "en": "Forte de São Francisco"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie innerhalb der Mauern, wenn möglich; genießen Sie den Blick auf den Regen im Tal aus den Fenstern des Forts.",
+                "hu": "Parkoljon a falakon belül, ha lehetséges; élvezze a völgyre nyíló kilátást az erőd ablakaiból az esőzés közben.",
+                "ro": "Parcați în interiorul zidurilor, dacă este posibil; admirați vederea ploii în vale de la ferestrele fortului.",
+                "en": "Park inside the walls if possible; enjoy the view of the rain in the valley from the fort's windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Militar",
+                "hu": "Museu Militar",
+                "ro": "Museu Militar",
+                "en": "Museu Militar"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz in der Nähe ist bequem; das Museum bietet eine trockene Umgebung, um stundenlang in die Militärgeschichte einzutauchen.",
+                "hu": "A közelben lévő parkolás kényelmes; a múzeum száraz környezetet biztosít, hogy órákig elmerülhessen a hadtörténelemben.",
+                "ro": "Parcarea din apropiere este convenabilă; muzeul oferă un mediu uscat pentru a vă cufunda ore în șir în istoria militară.",
+                "en": "The nearby parking is convenient; the museum provides a dry environment to immerse yourself in military history for hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela da Granjinha",
+                "hu": "Capela da Granjinha",
+                "ro": "Capela da Granjinha",
+                "en": "Capela da Granjinha"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt neben der Kapelle; der kurze Sprint zum Eingang lohnt sich für die spirituelle Atmosphäre im Regen.",
+                "hu": "Parkoljon közvetlenül a kápolna mellett; a rövid futás a bejáratig megéri a benti spirituális élményért az eső elől menekülve.",
+                "ro": "Parcați chiar lângă capelă; sprintul scurt până la intrare merită pentru atmosfera spirituală din interior pe timp de ploaie.",
+                "en": "Park right next to the chapel; the short sprint to the entrance is worth it for the spiritual atmosphere inside during the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt zur Abobeleira-Talsperre bietet weite Ausblicke auf die kahle Landschaft. Wärmen Sie sich zwischen den Stopps im beheizten Auto auf, während Sie zum Fort São Neutel und zum Kulturzentrum fahren. Die kurze Tageslichtdauer erfordert Pünktlichkeit; besuchen Sie die Kapelle von Granjinha vor 17:00 Uhr, um die letzten Sonnenstrahlen einzufangen.",
+            "hu": "A téli autózás az Abobeleira gáthoz tágas kilátást nyújt a kopár tájra. A megállók között melegedjen fel a fűtött autóban, miközben a São Neutel erőd és a Kulturális Központ felé halad. A rövid nappalok miatt legyen pontos; látogassa meg a Granjinha-kápolnát 17:00 előtt, hogy elkapja az utolsó napsugarakat.",
+            "ro": "O călătorie de iarnă cu mașina la barajul Abobeleira oferă vederi largi ale peisajului golaș. Încălziți-vă în mașina încălzită între opriri în timp ce mergeți spre Fortul São Neutel și Centrul Cultural. Durata scurtă a luminii de zi necesită punctualitate; vizitați Capela Granjinha înainte de ora 17:00.",
+            "en": "A winter drive to the Abobeleira dam offers expansive views of the barren landscape. Warm up in your heated car between stops as you head toward São Neutel Fort and the Cultural Center. The short daylight hours require punctuality; visit Granjinha Chapel before 5 PM to catch the last rays of sun."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Barragem Romana da Abobeleira",
+                "hu": "Barragem Romana da Abobeleira",
+                "ro": "Barragem Romana da Abobeleira",
+                "en": "Barragem Romana da Abobeleira"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Zufahrtswegen zum Staudamm; die ländlichen Straßen können am frühen Morgen gefährlich sein.",
+                "hu": "Ügyeljen a jegesedésre a gáthoz vezető utakon; a vidéki utak kora reggel veszélyesek lehetnek a fagy miatt.",
+                "ro": "Atenție la polei pe drumurile de acces la baraj; drumurile rurale pot fi periculoase dimineața devreme din cauza înghețului.",
+                "en": "Watch out for black ice on the access roads to the dam; rural roads can be dangerous early in the morning due to frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de São Neutel",
+                "hu": "Forte de São Neutel",
+                "ro": "Forte de São Neutel",
+                "en": "Forte de São Neutel"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und bietet dramatisches Licht für Fotos von den Festungswällen; bringen Sie eine warme Mütze mit.",
+                "hu": "A téli nap alacsonyan jár, ami drámai fényeket biztosít az erőd sáncairól készült fotókhoz; hozzon magával meleg sapkát.",
+                "ro": "Soarele de iarnă este jos, oferind o lumină dramatică pentru fotografiile de pe metereze; aduceți o căciulă călduroasă.",
+                "en": "The winter sun is low, providing dramatic lighting for photos from the ramparts; bring a warm hat for the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural de Chaves",
+                "hu": "Centro Cultural de Chaves",
+                "ro": "Centro Cultural de Chaves",
+                "en": "Centro Cultural de Chaves"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte draußen zu lassen; genießen Sie die warme Atmosphäre und lokale Kunstausstellungen.",
+                "hu": "Ideális helyszín, hogy kint hagyja a hideget; élvezze a meleg belső teret és a helyi művészeti kiállításokat.",
+                "ro": "Un loc ideal pentru a lăsa frigul afară; bucurați-vă de atmosfera caldă și de expozițiile de artă locală.",
+                "en": "An ideal place to leave the cold outside; enjoy the warm atmosphere and local art exhibitions during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de São Francisco",
+                "hu": "Forte de São Francisco",
+                "ro": "Forte de São Francisco",
+                "en": "Forte de São Francisco"
+              },
+              "tip_5lang": {
+                "de": "Der Innenhof kann im Winter sehr zugig sein; parken Sie nah am Eingang und verbringen Sie mehr Zeit in den Innenräumen.",
+                "hu": "A belső udvar télen nagyon huzatos lehet; parkoljon közel a bejárathoz, és töltsön több időt a fűtött belső terekben.",
+                "ro": "Curtea interioară poate fi foarte rece iarna; parcați aproape de intrare și petreceți mai mult timp în interior.",
+                "en": "The inner courtyard can be very drafty in winter; park close to the entrance and spend more time in the heated interiors."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Militar",
+                "hu": "Museu Militar",
+                "ro": "Museu Militar",
+                "en": "Museu Militar"
+              },
+              "tip_5lang": {
+                "de": "In den alten Steinhallen ist es kühl; bewegen Sie sich zügig zwischen den Exponaten, um Ihre Körperwärme zu halten.",
+                "hu": "A régi kőcsarnokokban hűvös van; mozogjon tempósan a kiállítási tárgyak között, hogy megőrizze testhőmérsékletét.",
+                "ro": "În halele vechi de piatră este răcoare; mișcați-vă rapid între exponate pentru a vă menține căldura corporală.",
+                "en": "The old stone halls are chilly; move briskly between the exhibits to maintain your body heat during the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela da Granjinha",
+                "hu": "Capela da Granjinha",
+                "ro": "Capela da Granjinha",
+                "en": "Capela da Granjinha"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle rechtzeitig vor der frühen Dunkelheit; die winterliche Dämmerung verleiht diesem abgelegenen Ort Ruhe.",
+                "hu": "Látogasson el a kápolnához még a korai sötétedés előtt; a téli szürkület különleges nyugalmat áraszt ezen az eldugott helyen.",
+                "ro": "Vizitați capela înainte de lăsarea întunericului; amurgul de iarnă conferă o liniște deosebită acestui loc izolat.",
+                "en": "Visit the chapel well before it gets dark; the winter twilight lends a special tranquility to this secluded location."
+              }
+            }
+          ]
+        }
       }
     }
   }

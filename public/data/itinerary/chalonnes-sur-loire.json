@@ -137,6 +137,168 @@
         "hu": "A reggel a Notre-Dame templom pompájával és a Four à Chaux ipari emlékeivel indul. A dél a Saint-Maurille templom lenyűgöző szépségét hozza el. A délután a Coteaux du Layon édes szőlőültetvényei között telik. Az este a Rocher de Rocampaille panorámájával jutalmazza meg a sétát.",
         "ro": "Dimineața începe cu grandoarea bisericii Notre-Dame și cu ecourile industriale de la Four à Chaux. Prânzul vă aduce la frumusețea bisericii Saint-Maurille. După-amiaza se desfășoară printre podgoriile dulci Coteaux du Layon. Seara vă răsplătește plimbarea cu vederi de la Rocher de Rocampaille.",
         "en": "Morning begins with the grandeur of Notre-Dame Church and the industrial echoes of Four à Chaux. Midday brings you to the intricate beauty of Saint-Maurille Church. Afternoon unfolds among the sweet Coteaux du Layon Vineyards. Evening rewards your walk with sweeping views from Rocher de Rocampaille."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in der Kirche Notre-Dame und suchen Sie Schutz vor dem Regen. Mittags erkunden Sie die historischen Kalköfen, achten Sie auf rutschige Wege. Nachmittags geht es durch nasse Weinberge; wasserfeste Kleidung ist Pflicht. Trocknen Sie sich abends gemütlich drinnen auf.",
+            "hu": "Kezdje a reggelt a Notre-Dame templomban, menedéket keresve az eső elől. Délben óvatosan fedezze fel a mészégetőket a csúszós utakon. Délután a nedves szőlőbirtokok és sziklás ösvények következnek, vízálló felszerelés kötelező. Este melegedjen fel egy száraz, fedett helyen.",
+            "ro": "Începeți dimineața la Biserica Notre-Dame, la adăpost de ploaie. La prânz explorați cuptoarele de var, având grijă pe potecile alunecoase. După-amiaza vă duce prin podgorii umede, unde echipamentul impermeabil este esențial. Seara, retrageți-vă la căldură și uscați-vă într-un loc primitor.",
+            "en": "Start your morning seeking shelter in Notre-Dame as rain sets in. By noon, explore the historic kilns, taking care on wet paths. The afternoon brings you to vineyards and rocky trails where waterproof gear is essential. Spend your evening drying off indoors after a wet but rewarding hike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster im Trockenen, aber nehmen Sie einen stabilen Regenschirm mit.",
+                "hu": "Csodálja meg az üvegablakokat szárazon, de vigyen magával egy erős esernyőt a további sétához.",
+                "ro": "Admirați vitraliile la adăpost, dar luați o umbrelă rezistentă pentru restul plimbării.",
+                "en": "Admire the stained glass while staying dry, but bring a sturdy umbrella for the wet walk ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Four à Chaux",
+                "hu": "Four à Chaux",
+                "ro": "Four à Chaux",
+                "en": "Four à Chaux"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Kalköfen sind faszinierend, aber der Boden herum ist bei Regen matschig und rutschig.",
+                "hu": "A történelmi mészégetők lenyűgözőek, de a környékük sár és csúszós az esőben, vigyázzon a lépéseire.",
+                "ro": "Cuptoarele istorice sunt fascinante, dar terenul din jur devine noroios și alunecos pe ploaie.",
+                "en": "The historic lime kilns are fascinating, but the ground around them is muddy and slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Maurille",
+                "hu": "Saint-Maurille templom",
+                "ro": "Biserica Saint-Maurille",
+                "en": "Saint-Maurille Church"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Zufluchtsort, um die Architektur zu bewundern, während Sie den starken Regen abwarten.",
+                "hu": "Tökéletes beltéri menedék, ahol megcsodálhatja az építészetet, amíg elvonul a legnagyobb zápor.",
+                "ro": "Un refugiu perfect la interior pentru a admira arhitectura în timp ce așteptați să treacă ploaia.",
+                "en": "A perfect indoor refuge to admire the historical architecture while waiting out the heaviest showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Weinberge Coteaux du Layon",
+                "hu": "Coteaux du Layon Szőlőültetvények",
+                "ro": "Podgoriile Coteaux du Layon",
+                "en": "Coteaux du Layon Vineyards"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Reben sind schön, aber tragen Sie wasserfeste Schuhe, da die Wege sehr matschig werden.",
+                "hu": "A nedves szőlőtőkék gyönyörűek, de viseljen vízálló cipőt, mert az ösvények nagyon sarasak lesznek.",
+                "ro": "Viile umede sunt frumoase, dar purtați încălțăminte impermeabilă, deoarece potecile devin noroioase.",
+                "en": "The wet vines look beautiful, but wear sturdy waterproof shoes as the paths turn into thick mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocher de Rocampaille",
+                "hu": "Rocher de Rocampaille",
+                "ro": "Rocher de Rocampaille",
+                "en": "Rocher de Rocampaille"
+              },
+              "tip_5lang": {
+                "de": "Die Felsenwege sind bei Nässe tückisch; gehen Sie extrem vorsichtig und tragen Sie rutschfeste Schuhe.",
+                "hu": "A sziklás ösvények esőben veszélyesek; haladjon fokozott óvatossággal és viseljen tapadós túracipőt.",
+                "ro": "Potecile stâncoase sunt periculoase când sunt ude; procedați cu maximă prudență și purtați bocanci.",
+                "en": "The rock paths are treacherous when wet; proceed with extreme caution and wear high-grip hiking boots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Morgenspaziergang zur Kirche erfordert dicke Mäntel. Mittags erkunden Sie die kalten Kalköfen. Die Nachmittagswanderung durch die kahlen Weinberge ist windig, aber schön. Beenden Sie Ihre Tour bis 17:00 Uhr, da der frühe Sonnenuntergang frostige Temperaturen bringt.",
+            "hu": "A frissítő reggeli séta a templomhoz vastag kabátot igényel. Délben hideg szélben csodálhatja meg a mészégetőket. A délutáni túra a csupasz szőlőtőkék között gyönyörű, de szeles. Fejezze be a programot 17:00 óra előtt, mivel a korai sötétedés fagyos hőmérsékletet hoz.",
+            "ro": "O plimbare matinală revigorantă la biserică necesită haine groase. Prânzul aduce o explorare răcoroasă a cuptoarelor. Drumeția de după-amiază prin podgoriile goale este vântoasă, dar frumoasă. Finalizați traseul înainte de ora 17:00, deoarece apusul timpuriu aduce temperaturi de îngheț.",
+            "en": "A brisk morning walk starts at the church, requiring heavy coats. Noon brings a chilly exploration of the industrial kilns. The afternoon hike through bare vineyards is beautiful but windy. Finish your outdoor activities by 17:00 as the early winter sunset brings freezing temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Das steinerne Innere ist im Winter kühl, behalten Sie Ihren dicken Mantel bei der Besichtigung an.",
+                "hu": "A kőbelső télen hűvös, ezért tartsa magán a vastag kabátot a hajó felfedezése közben is.",
+                "ro": "Interiorul din piatră este rece iarna, așa că păstrați haina groasă pe dumneavoastră în timpul vizitei.",
+                "en": "The stone interior is chilly in winter, so keep your heavy coat on while exploring the nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Four à Chaux",
+                "hu": "Four à Chaux",
+                "ro": "Four à Chaux",
+                "en": "Four à Chaux"
+              },
+              "tip_5lang": {
+                "de": "Die Industrieruinen sehen im Winter wunderschön aus; packen Sie sich gegen den beißenden Wind warm ein.",
+                "hu": "Az ipari romok télen is lenyűgözőek; öltözzön fel melegen a metsző hideg szél ellen ezen a helyen.",
+                "ro": "Ruinele industriale arată frumos iarna; îmbrăcați-vă gros pentru a vă proteja de vântul tăios de aici.",
+                "en": "The industrial ruins look stark and beautiful in winter; bundle up against the biting cold wind here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Maurille",
+                "hu": "Saint-Maurille templom",
+                "ro": "Biserica Saint-Maurille",
+                "en": "Saint-Maurille Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Winteratmosphäre, auch wenn das zugige Gebäude warme Kleidung erfordert.",
+                "hu": "Élvezze a csendes téli hangulatot, bár a huzatos történelmi épületben elkél a meleg réteges öltözet.",
+                "ro": "Bucurați-vă de atmosfera liniștită de iarnă, deși clădirea istorică necesită haine călduroase.",
+                "en": "Enjoy the quiet winter atmosphere inside, though the drafty historical building requires warm layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Weinberge Coteaux du Layon",
+                "hu": "Coteaux du Layon Szőlőültetvények",
+                "ro": "Podgoriile Coteaux du Layon",
+                "en": "Coteaux du Layon Vineyards"
+              },
+              "tip_5lang": {
+                "de": "Kahle Winterreben bieten eine einzigartige Landschaft, das offene Gelände erfordert eine Windjacke.",
+                "hu": "A csupasz téli szőlőtőkék egyedi tájat nyújtanak, de a nyílt terep miatt szélálló kabátra van szükség.",
+                "ro": "Viile goale de iarnă oferă un peisaj unic, dar terenul deschis necesită o jachetă rezistentă la vânt.",
+                "en": "Bare winter vines offer a unique landscape, but the open terrain means you need a solid windbreaker."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocher de Rocampaille",
+                "hu": "Rocher de Rocampaille",
+                "ro": "Rocher de Rocampaille",
+                "en": "Rocher de Rocampaille"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Wanderung früh, da es bis 17 Uhr dunkel wird und die Wege eisig werden können.",
+                "hu": "Fejezze be a túrát korán, mert 17 órára sötétedik, és a sziklás ösvények jegesek, veszélyesek lehetnek.",
+                "ro": "Terminați drumeția devreme, deoarece se întunecă la 17:00, iar potecile pot deveni înghețate.",
+                "en": "Finish your hike early as it gets dark by 5 PM, and the rocky paths can become icy and dangerous."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpározást a Notre-Dame templomnál, és tekerjen el a történelmi mészégetőkig. Délben érezze a hűsítő szellőt a nyugodt Loire-parti sétányokon. A délután festői útvonalat kínál a Coteaux du Layon szőlői között. Ahogy közeledik az este, hódítsa meg Montaigu ikercsúcsainak történelmi romjait.",
         "ro": "Începeți-vă plimbarea la biserica Notre-Dame, pedalând rapid spre cuptoarele istorice Four à Chaux. La prânz, simțiți briza pe falezele liniștite ale Loarei. După-amiaza invită la o rută pitorească prin podgoriile Coteaux du Layon. Spre seară, cuceriți vârfurile gemene istorice de la Montaigu.",
         "en": "Kick off your ride at Notre-Dame Church, pedaling swiftly to the historic Four à Chaux kilns. By midday, breeze along the serene Loire River Quays. The afternoon invites a scenic cycling route through the Coteaux du Layon Vineyards. As evening nears, conquer the twin historical peaks of Montaigu."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Morgenfahrt beginnt sicher an der Kirche. Mittags befahren Sie die rutschigen Kais mit Vorsicht. Nachmittags durch die Weinberge brauchen Sie gute Schutzbleche. Die Anstiege zu den Burgen sind glatt; fahren Sie langsam auf befestigten Wegen, bevor Sie den Abend drinnen verbringen.",
+            "hu": "A nedves reggeli kerékpározás a templomnál indul. Délben óvatosan haladjon a csúszós rakpartokon. A délutáni szőlőhegyi túrához jó sárvédő és esőruha kell. A várak felé vezető emelkedők csúsznak, tekerjen lassan, és maradjon a burkolt utakon, mielőtt egy meleg helyre térne be este.",
+            "ro": "O cursă matinală umedă începe la biserică. La prânz, navigați cu prudență pe cheiurile alunecoase. Ciclismul de după-amiază prin podgorii necesită apărători de noroi. Urcușurile spre castele sunt alunecoase; mergeți încet și rămâneți pe drumuri asfaltate înainte de o seară la interior.",
+            "en": "A wet morning ride starts safely at the church. By noon, navigate the slippery quays with caution. Afternoon cycling through vineyards requires good mudguards and rain gear. The medieval castle climbs are slick, so ride slowly and stick to paved routes where possible before an indoor evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad möglichst überdacht und trocknen Sie sich in diesem historischen Heiligtum ab.",
+                "hu": "Ha teheti, parkolja le a bringát fedett helyen, és szárátkozzon meg a történelmi szentélyben.",
+                "ro": "Parcați bicicleta la adăpost dacă este posibil și uscați-vă în acest sanctuar istoric frumos.",
+                "en": "Park your bike under cover if possible and dry off inside this beautiful historic sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Four à Chaux",
+                "hu": "Four à Chaux",
+                "ro": "Four à Chaux",
+                "en": "Four à Chaux"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig; die Wege um die Öfen werden matschig und rutschig für Fahrradreifen.",
+                "hu": "Fékezzen finoman a megközelítéskor; a mészégetők körüli utak sarasak és csúszósak a gumiknak.",
+                "ro": "Frânați ușor la apropiere; potecile din jurul cuptoarelor devin noroioase și alunecoase pentru roți.",
+                "en": "Brake gently on the approach; the paths around the kilns become muddy and slippery for bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Quais der Loire",
+                "hu": "Loire-parti sétány",
+                "ro": "Faleza Râului Loara",
+                "en": "Loire River Quays"
+              },
+              "tip_5lang": {
+                "de": "Die nebligen Flussansichten sind stimmungsvoll, aber achten Sie auf nasses Laub und Pfützen.",
+                "hu": "A ködös folyópart hangulatos, de ügyeljen a csúszós nedves falevelekre és tócsákra az úton.",
+                "ro": "Priveliștile cețoase ale râului sunt atmosferice, dar atenție la frunzele umede și bălțile de pe potecă.",
+                "en": "The misty river views are atmospheric, but watch out for slippery wet leaves and puddles on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Weinberge Coteaux du Layon",
+                "hu": "Coteaux du Layon Szőlőültetvények",
+                "ro": "Podgoriile Coteaux du Layon",
+                "en": "Coteaux du Layon Vineyards"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf asphaltierten Straßen; Feldwege verwandeln sich bei starkem Regen in tiefen Schlamm.",
+                "hu": "Maradjon a kövezett utakon a szőlők körül, mert a földutak sárban járhatatlanná válnak.",
+                "ro": "Rămâneți pe drumurile asfaltate din jurul viilor, deoarece drumurile de pământ devin impracticabile.",
+                "en": "Stick to the paved roads around the vines as dirt tracks turn to thick, unrideable mud in heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Petit Montaigu",
+                "hu": "Petit Montaigu",
+                "ro": "Petit Montaigu",
+                "en": "Petit Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zur Burg ist tückisch; bremsen Sie früh und tragen Sie gut sichtbare Regenkleidung.",
+                "hu": "A vár megközelítése trükkös lehet; fékezzen időben, és viseljen jól látható esőruházatot.",
+                "ro": "Accesul la castel poate fi periculos; frânați devreme și purtați haine de ploaie cu vizibilitate mare.",
+                "en": "The castle approach can be treacherous; brake early and wear high-visibility rain gear for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Montaigu",
+                "hu": "Grand Montaigu",
+                "ro": "Grand Montaigu",
+                "en": "Grand Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Ein majestätischer Anblick im Regen, aber fahren Sie vorsichtig bergab, da nasse Steine sehr glatt sind.",
+                "hu": "Fenséges látvány az esőben, de ereszkedjen le nagyon óvatosan, mert a vizes kövek veszélyesen csúsznak.",
+                "ro": "O priveliște maiestuoasă pe ploaie, dar coborâți cu mare grijă deoarece pietrele umede sunt alunecoase.",
+                "en": "A majestic sight in the rain, but descend very carefully as wet medieval stones are dangerously slick."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiges Radfahren am Morgen erfordert Thermohandschuhe. Mittags am Fluss weht ein kalter Wind. Die nachmittäglichen Anstiege wärmen Sie auf. Achten Sie auf gutes Licht am Fahrrad und beenden Sie die Tour vor dem frühen Sonnenuntergang um 17:00 Uhr, um den Frost zu vermeiden.",
+            "hu": "A fagyos reggeli tekeréshez termokesztyű kell. Délben a folyónál metsző szél fúj. A délutáni emelkedők a szőlők és várak felé felmelegítik. Legyen jó világítás a kerékpáron, és a fagyok elkerülése végett fejezze be az utat a korai, 17:00 órás naplemente előtt.",
+            "ro": "Ciclismul în diminețile geroase necesită mănuși termice. Prânzul pe malul râului aduce vânturi tăioase. Urcușurile de după-amiază vă vor încălzi. Asigurați-vă că bicicleta are lumini bune și terminați cursa înainte de apusul de la ora 17:00 pentru a evita temperaturile de îngheț.",
+            "en": "Frosty morning cycling calls for thermal gloves as you visit the church. Noon by the river brings biting winds. The afternoon climbs to the vineyards and castles will warm you up. Ensure your bike has good lights and finish your ride by the early 17:00 sunset to avoid freezing temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort, um Ihre gefrorenen Hände nach einer kalten Morgenfahrt aufzuwärmen, bevor es weitergeht.",
+                "hu": "Remek hely arra, hogy a fagyos reggeli tekerés után felmelegítse a kezét a folytatás előtt.",
+                "ro": "Un loc excelent pentru a vă încălzi mâinile înghețate după o cursă matinală foarte rece.",
+                "en": "A great place to warm your frozen hands after a freezing morning ride before continuing your route."
+              }
+            },
+            {
+              "name": {
+                "de": "Four à Chaux",
+                "hu": "Four à Chaux",
+                "ro": "Four à Chaux",
+                "en": "Four à Chaux"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Ruinen sind im Winter sehr fotogen; tragen Sie Thermo-Fahrradhandschuhe.",
+                "hu": "A deres romok nagyon fotogének télen; viseljen termo kerékpáros kesztyűt, hogy melegen tartsa a kezét.",
+                "ro": "Ruinele înghețate sunt fotogenice iarna; purtați mănuși termice de ciclism pentru a vă menține căldura.",
+                "en": "The frosty ruins are highly photogenic in winter; wear thermal cycling gloves to keep your hands warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Quais der Loire",
+                "hu": "Loire-parti sétány",
+                "ro": "Faleza Râului Loara",
+                "en": "Loire River Quays"
+              },
+              "tip_5lang": {
+                "de": "Eisige Winde wehen im Winter von der Loire; ein Thermotuch und eine winddichte Jacke sind wichtig.",
+                "hu": "Télen jeges szél fúj a Loire felől, így a termo csősál és a szélálló kabát elengedhetetlen.",
+                "ro": "Vânturile înghețate bat de pe râul Loara iarna, fiind esențiale un fular termic și o jachetă de vânt.",
+                "en": "Icy winds sweep off the Loire River in winter, making a thermal buff and windproof jacket essential."
+              }
+            },
+            {
+              "name": {
+                "de": "Weinberge Coteaux du Layon",
+                "hu": "Coteaux du Layon Szőlőültetvények",
+                "ro": "Podgoriile Coteaux du Layon",
+                "en": "Coteaux du Layon Vineyards"
+              },
+              "tip_5lang": {
+                "de": "Bergauf radeln wärmt Sie schnell auf, aber die offenen Weinberghänge bieten keinen Windschutz.",
+                "hu": "Az emelkedők gyorsan felmelegítik, de a nyitott szőlőhegyi lejtők nem nyújtanak szélvédelmet.",
+                "ro": "Urcatul vă va încălzi rapid, dar pantele expuse ale podgoriilor nu oferă protecție împotriva vântului.",
+                "en": "Cycling uphill will warm you up quickly, but the exposed vineyard slopes offer no wind protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Petit Montaigu",
+                "hu": "Petit Montaigu",
+                "ro": "Petit Montaigu",
+                "en": "Petit Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Kahle Winterbäume bieten freie Sicht auf die Burg; achten Sie jedoch auf Eisflächen in den Kurven.",
+                "hu": "A csupasz fák miatt jobban rálátni a várra, de a kanyarokban fokozottan ügyeljen a jégfoltokra.",
+                "ro": "Copacii goi oferă vederi mai clare ale castelului, dar fiți atenți la peticele de gheață din curbe.",
+                "en": "Bare winter trees offer clearer views of the castle from the road, just watch for ice patches on bends."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Montaigu",
+                "hu": "Grand Montaigu",
+                "ro": "Grand Montaigu",
+                "en": "Grand Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Gipfel vor 17 Uhr für den Sonnenuntergang und fahren Sie vor dem Gefrieren ab.",
+                "hu": "Érjen fel délután 5 előtt, hogy elcsípje a naplementét, és még a teljes fagyás előtt ereszkedjen le.",
+                "ro": "Ajungeți sus înainte de ora 17:00 pentru apus și asigurați-vă că coborâți înainte să înghețe.",
+                "en": "Reach the top before 5 PM to catch the early winter sunset, ensuring you descend before it completely freezes."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Autózzon korán a Loire partjára, majd haladjon a zord mészégetők felé. Délben fedezze fel a város spirituális központjait, a Notre-Dame és Saint-Maurille templomokat. Töltse a délutánt a buja szőlőültetvények helyi örökségének megismerésével. Az esti utazás a Montaigu kastélyok lenyűgöző kilátásaihoz vezet.",
         "ro": "Conduceți devreme spre falezele Loarei, apoi mergeți spre robustul Four à Chaux. Prânzul explorează inimile spirituale la bisericile Notre-Dame și Saint-Maurille. Petreceți-vă după-amiaza degustând patrimoniul local la podgoriile luxuriante. Conducerile de seară duc la panorame ample la castelele Montaigu.",
         "en": "Drive early to the Loire River Quays, then head to the rugged Four à Chaux. Midday explores the spiritual hearts of the city at Notre-Dame and Saint-Maurille churches. Spend your afternoon sampling local heritage at the lush vineyards. Evening drives lead to sweeping vistas at Montaigu castles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine gemütliche Morgenfahrt entlang der nebligen Flussufer. Mittags rennen Sie im Regen zu Kirchen und Öfen. Der Nachmittag bietet malerische, nasse Fahrten durch Weinberge. Bewundern Sie die Burgen bequem aus dem warmen Auto vor einem entspannten Abend drinnen.",
+            "hu": "Élvezze a kényelmes reggeli autózást a ködös folyóparton. Délben gyorsan beszaladhat a templomokba az eső elől. A délután festői, nedves autózást kínál a szőlők között. Csodálja meg a várakat a meleg autóból, majd töltsön el egy pihentető estét a négy fal között.",
+            "ro": "Bucurați-vă de o plimbare matinală cu mașina pe cheiurile cețoase. La prânz vizitați cuptoarele și bisericile cu scurte alergări prin ploaie. După-amiaza oferă plimbări pitorești prin podgorii. Admirați castelele din confortul mașinii calde înainte de o seară relaxantă la interior.",
+            "en": "Enjoy a cozy morning drive along the misty river quays. Noon visits to kilns and churches involve quick dashes in the rain. The afternoon offers scenic, wet drives through vineyards and historical sites. Admire the moody castles from the comfort of your warm car before a relaxing evening indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Quais der Loire",
+                "hu": "Loire-parti sétány",
+                "ro": "Faleza Râului Loara",
+                "en": "Loire River Quays"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die neblige Flusslandschaft bequem vom Auto aus oder treten Sie kurz mit Schirm heraus.",
+                "hu": "Élvezze a ködös folyó látványát a kényelmes autóból, vagy lépjen ki egy percre esernyővel a kezében.",
+                "ro": "Bucurați-vă de priveliștile cețoase ale râului din confortul mașinii sau ieșiți scurt cu o umbrelă.",
+                "en": "Enjoy the moody, misty river views from the comfort of your car, or step out briefly with an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Four à Chaux",
+                "hu": "Four à Chaux",
+                "ro": "Four à Chaux",
+                "en": "Four à Chaux"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an den Öfen, um dem Regen zu entgehen, und tragen Sie wasserfeste Stiefel.",
+                "hu": "Parkoljon a lehető legközelebb a mészégetőkhöz az eső miatt, és viseljen vízálló cipőt a sár ellen.",
+                "ro": "Parcați cât mai aproape de cuptoare pentru a minimiza timpul petrecut în ploaie și purtați cizme.",
+                "en": "Park as close to the kilns as possible to minimize time in the rain, and wear waterproof boots for the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner, trockener Rückzugsort; die historischen Buntglasfenster leuchten auch an trüben Tagen.",
+                "hu": "Gyönyörű, teljesen száraz menedék; a történelmi üvegablakok borús napokon is meglepően élénkek.",
+                "ro": "Un refugiu frumos și uscat; vitraliile istorice arată surprinzător de viu chiar și în zilele înnorate.",
+                "en": "A beautiful, completely dry retreat; the historic stained glass looks surprisingly vivid even on overcast days."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Maurille",
+                "hu": "Saint-Maurille templom",
+                "ro": "Biserica Saint-Maurille",
+                "en": "Saint-Maurille Church"
+              },
+              "tip_5lang": {
+                "de": "Eilen Sie hinein, um den Schauern zu entkommen, und bewundern Sie das friedliche, trockene Innere.",
+                "hu": "Szaladjon be a záporok elől, és csodálja meg ennek a történelmi vallási helynek a békés, száraz belsejét.",
+                "ro": "Alergați înăuntru pentru a scăpa de ploaie și admirați interiorul pașnic și uscat al acestui sit istoric.",
+                "en": "Dash inside to escape the showers and admire the peaceful, dry interior of this historic religious site."
+              }
+            },
+            {
+              "name": {
+                "de": "Weinberge Coteaux du Layon",
+                "hu": "Coteaux du Layon Szőlőültetvények",
+                "ro": "Podgoriile Coteaux du Layon",
+                "en": "Coteaux du Layon Vineyards"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt ist bei Regen perfekt, aber bleiben Sie auf Asphalt, da unbefestigte Parkplätze matschig werden.",
+                "hu": "A festői autózás tökéletes esőben, de maradjon az aszfalton, mert a földes parkolók nagyon sarasak.",
+                "ro": "Plimbarea este perfectă pe ploaie, dar rămâneți pe asfalt, deoarece parcările de pământ devin noroioase.",
+                "en": "The scenic drive is perfect in the rain, but stay on the asphalt road as dirt parking spots get very muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocher de Rocampaille",
+                "hu": "Rocher de Rocampaille",
+                "ro": "Rocher de Rocampaille",
+                "en": "Rocher de Rocampaille"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Felsen sicher von der Straße aus, da das Klettern auf nassen Wegen abgeraten wird.",
+                "hu": "Tekintse meg a sziklaalakzatokat biztonságosan az útról, mivel a nedves ösvényeken mászni nem ajánlott.",
+                "ro": "Vizionați stâncile în siguranță de pe drumul de jos, deoarece urcarea pe potecile ude este nerecomandată.",
+                "en": "View the rock formations safely from the road below, as climbing the wet trails is highly discouraged."
+              }
+            },
+            {
+              "name": {
+                "de": "Petit Montaigu",
+                "hu": "Petit Montaigu",
+                "ro": "Petit Montaigu",
+                "en": "Petit Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Die Burg wirkt vor dunklen Regenwolken dramatisch; bringen Sie einen Regenschirm für den kurzen Weg mit.",
+                "hu": "A vár drámaian fest a sötét esőfelhők előtt; vigyen erős esernyőt az autótól való rövid sétához.",
+                "ro": "Castelul arată dramatic pe fundalul norilor de ploaie; luați o umbrelă pentru scurta plimbare.",
+                "en": "The castle looks dramatic against dark rain clouds; bring a sturdy umbrella for the short walk from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Montaigu",
+                "hu": "Grand Montaigu",
+                "ro": "Grand Montaigu",
+                "en": "Grand Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf nassen, kurvigen Straßen, aber genießen Sie die romantische Atmosphäre oben.",
+                "hu": "Vezessen óvatosan a vizes, kanyargós utakon, de élvezze a romantikus esős hangulatot a csúcsról.",
+                "ro": "Conduceți cu grijă pe drumurile ude și întortocheate, dar bucurați-vă de atmosfera romantică de la parcare.",
+                "en": "Take care driving up the wet, winding roads, but enjoy the romantic, rainy atmosphere from the summit parking."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit einer warmen Morgenfahrt am eiskalten Fluss. Mittags müssen Sie sich für die Öfen warm anziehen. Die Nachmittagsfahrt durch die ruhenden Weinberge zeigt die Winterkönheit. Planen Sie Ihre Ankunft an den Burgen zum frühen Sonnenuntergang um 17:00 Uhr aus dem warmen Auto.",
+            "hu": "Kezdje a napot egy fűtött autózással a fagyos folyó mellett. Délben öltözzön fel vastagon a történelmi helyszínekhez. A délutáni kocsikázás a téli szőlők között lenyűgöző. Időzítse az érkezést a várakhoz a korai, 17:00 órás naplementére, élvezve a látványt a meleg járműből.",
+            "ro": "Începeți cu o plimbare caldă pe lângă râul înghețat. La prânz, vizitele la cuptoare necesită haine groase. Conducerea de după-amiază prin podgorii dezvăluie frumusețea iernii. Programați sosirea la castele pentru apusul de la 17:00, bucurându-vă de priveliști din mașina încălzită.",
+            "en": "Start with a heated morning drive along the freezing river. Noon visits to historic kilns require bundling up. Afternoon cruising through the dormant vineyards reveals stark winter beauty. Time your arrival at the castles for the early 17:00 sunset, enjoying the views from the warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Quais der Loire",
+                "hu": "Loire-parti sétány",
+                "ro": "Faleza Râului Loara",
+                "en": "Loire River Quays"
+              },
+              "tip_5lang": {
+                "de": "Die Flussufer sind im Winter eiskalt; genießen Sie die Panoramaaussicht am besten aus dem beheizten Auto.",
+                "hu": "A folyópart télen fagyos, így a tiszta panorámát leginkább a fűtött autóból érdemes élvezni.",
+                "ro": "Malurile râului sunt înghețate iarna, așa că bucurați-vă de priveliștile panoramice din mașina încălzită.",
+                "en": "The river banks are freezing in winter, so enjoy the crisp panoramic views mostly from your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Four à Chaux",
+                "hu": "Four à Chaux",
+                "ro": "Four à Chaux",
+                "en": "Four à Chaux"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich warm ein, bevor Sie das Auto verlassen, da die historische Stätte der Kälte ausgesetzt ist.",
+                "hu": "Öltözzön fel vastagon, mielőtt kiszállna, mert a történelmi helyszín nagyon ki van téve a téli fagynak.",
+                "ro": "Îmbrăcați-vă gros înainte de a ieși din mașină, deoarece situl istoric este expus la frigul iernii.",
+                "en": "Bundle up before leaving the car, as the historic site is very exposed to freezing winter chills."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie hinein, um die Architektur zu schätzen, aber behalten Sie den Mantel an, da alte Gebäude kalt sind.",
+                "hu": "Lépjen be az építészet megcsodálásához, de tartsa magán a kabátot, mert a régi kőépületek nagyon hidegek.",
+                "ro": "Intrați pentru a aprecia arhitectura, dar păstrați haina, deoarece clădirile vechi din piatră rămân reci.",
+                "en": "Step inside to appreciate the architecture, but keep your coat on as old stone buildings stay very cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Maurille",
+                "hu": "Saint-Maurille templom",
+                "ro": "Biserica Saint-Maurille",
+                "en": "Saint-Maurille Church"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Winterstopp; perfekt für einen kurzen Besuch, bevor Sie schnell ins warme Auto zurückkehren.",
+                "hu": "Csendes, nyugodt téli megálló; tökéletes egy rövid látogatásra, mielőtt visszatérne a meleg járműbe.",
+                "ro": "O oprire liniștită de iarnă; perfectă pentru o scurtă vizită înainte de a vă întoarce la căldura vehiculului.",
+                "en": "A quiet, serene winter stop; perfect for a short visit before quickly returning to the warmth of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Weinberge Coteaux du Layon",
+                "hu": "Coteaux du Layon Szőlőültetvények",
+                "ro": "Podgoriile Coteaux du Layon",
+                "en": "Coteaux du Layon Vineyards"
+              },
+              "tip_5lang": {
+                "de": "Die ruhenden Reben bieten eine schöne Landschaft; fahren Sie vorsichtig, da die Straßen frostig sein könnten.",
+                "hu": "A téli szőlőtőkék lenyűgöző tájat nyújtanak; vezessen óvatosan, mert a helyi utak deresek lehetnek.",
+                "ro": "Viile adormite oferă un peisaj frumos; conduceți cu grijă, deoarece drumurile locale pot fi înghețate.",
+                "en": "The dormant winter vines offer a stark, beautiful landscape; drive carefully as local roads might be frosty."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocher de Rocampaille",
+                "hu": "Rocher de Rocampaille",
+                "ro": "Rocher de Rocampaille",
+                "en": "Rocher de Rocampaille"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet weite Sichten, aber achten Sie auf gefährliches Blitzeis auf den kurzen Wegen.",
+                "hu": "A friss téli levegő tiszta kilátást nyújt, de vigyázzon a veszélyes ónos esőre a rövid túraútvonalakon.",
+                "ro": "Aerul rece de iarnă oferă vederi clare, dar atenție la gheața neagră periculoasă de pe poteci.",
+                "en": "The crisp winter air provides clear views, but watch out for dangerous black ice on the short hiking trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Petit Montaigu",
+                "hu": "Petit Montaigu",
+                "ro": "Petit Montaigu",
+                "en": "Petit Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Die blätterlosen Bäume ermöglichen im Winter viel bessere Fotos der Burg direkt von der Straße aus.",
+                "hu": "A lombtalan téli fák sokkal jobb fotókat tesznek lehetővé a várról közvetlenül az útról, mint nyáron.",
+                "ro": "Copacii fără frunze permit fotografii mult mai bune ale castelului direct de pe drum decât vara.",
+                "en": "The leafless winter trees allow for much better photos of the castle directly from the road than in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Montaigu",
+                "hu": "Grand Montaigu",
+                "ro": "Grand Montaigu",
+                "en": "Grand Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie, am späten Nachmittag anzukommen, um den frühen Wintersonnenuntergang von oben zu beobachten.",
+                "hu": "Célozza meg a késő délutáni érkezést, hogy erről a magaslati pontról nézhesse végig a korai naplementét.",
+                "ro": "Încercați să ajungeți după-amiaza târziu pentru a urmări apusul spectaculos de iarnă din acest punct înalt.",
+                "en": "Aim to arrive by late afternoon to watch the spectacular early winter sunset from this high vantage point."
+              }
+            }
+          ]
+        }
       }
     }
   }

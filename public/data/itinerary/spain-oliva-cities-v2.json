@@ -137,6 +137,168 @@
         "hu": "Olivai sétánk a Néprajzi Múzeumban kezdődik, ahol a történelem már kora reggel szinte tapintható. Dél körül az ókori múlt és az egykori mérnöki munka kincseiben merülünk el. Délután bejárjuk a történelmi macskaköves utcákat. Az estét a helyi színház kulturális légkörének megtapasztalása után zárjuk le.",
         "ro": "Plimbarea noastră prin Oliva începe la muzeul etnologic, unde istoria prinde viață de la prima oră a dimineții. La prânz explorăm trecutul antic și ingineria veche a zonei. După-amiaza ne plimbăm liniștiți pe străzile istorice pitorești. Seara se încheie într-o notă relaxantă și culturală la fermecătorul teatru.",
         "en": "Our walk through Oliva begins at the Ethnological Museum, where history feels tangible right in the morning. Around midday, we dive deeply into the ancient past and historic engineering. In the afternoon, we stroll through historic cobblestone alleys. The evening gently winds down after an inspiring cultural visit to the local theater."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Schutz des Völkerkundemuseums, um dem Regen zu entgehen. Die schmalen Gassen der Altstadt bieten zwar etwas Schutz, aber ein stabiler Regenschirm ist bei den mediterranen Schauern unerlässlich. Mittags locken weitere Museen und historische Gebäude mit trockenen Innenräumen. Der Abend glänzt durch die Reflexionen der Stadtlichter auf dem nassen Pflaster der Straßen.",
+            "hu": "Kezdje a napot az Etnológiai Múzeum oltalmazó falai között, elkerülve az égi áldást. Az óváros szűk utcái némi védelmet nyújtanak, de egy masszív esernyő elengedhetetlen a mediterrán záporok idején. Délben a történelmi épületek belső terei kínálnak száraz menedéket. Az este különleges hangulatot áraszt, ahogy a város fényei megcsillannak a vizes macskaköveken és a fényesre kopott utcákon.",
+            "ro": "Începeți ziua în interiorul Muzeului Etnologic pentru a evita ploaia. Străzile înguste ale centrului vechi oferă o oarecare protecție, dar o umbrelă solidă este esențială în timpul averselor mediteraneene. La prânz, clădirile istorice vă așteaptă cu interioare uscate și fascinante. Seara devine magică datorită reflexiilor luminilor orașului pe pavajul umed al străzilor vechi din Oliva.",
+            "en": "Start your day sheltered within the Ethnological Museum to stay dry. The narrow streets of the old town provide some cover, but a sturdy umbrella is essential during Mediterranean showers. At midday, enjoy the indoor historical sites that offer a dry refuge from the rain. The evening is particularly atmospheric as city lights reflect off the wet cobblestones of the charming streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Etnologico",
+                "hu": "Museo Etnologico",
+                "ro": "Museo Etnologico",
+                "en": "Museo Etnologico"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die faszinierenden lokalen Traditionen in diesem trockenen Refugium und bewundern Sie die historischen Dachziegel im Innenhof ganz entspannt vom geschützten Gang aus.",
+                "hu": "Fedezze fel a lenyűgöző helyi hagyományokat ebben a száraz menedékben, és csodálja meg a történelmi tetőcserepeket a belső udvarban, miközben a fedett folyosó oltalma alatt marad.",
+                "ro": "Explorați tradițiile locale fascinante în acest refugiu uscat și admirați țiglele istorice din curtea interioară, relaxându-vă sub protecția coridorului acoperit al muzeului.",
+                "en": "Explore the fascinating local traditions in this dry haven and admire the historic roof tiles in the courtyard while relaxing under the safety of the museum's sheltered walkway."
+              }
+            },
+            {
+              "name": {
+                "de": "Enginy d'OLIVA",
+                "hu": "Enginy d'OLIVA",
+                "ro": "Enginy d'OLIVA",
+                "en": "Enginy d'OLIVA"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Industriedenkmal bietet festen Boden unter den Füßen; achten Sie beim Eingang aber unbedingt auf rutschige Steinstufen, die bei Nässe sehr tückisch sein können.",
+                "hu": "Ez a történelmi ipari műemlék szilárd talajt kínál a lába alá; a bejáratnál azonban feltétlenül ügyeljen a nedves időben rendkívül csalóka és csúszós kőlépcsőkre.",
+                "ro": "Acest monument industrial istoric oferă un teren solid sub picioare; totuși, aveți mare grijă la intrare la treptele de piatră care pot fi foarte înșelătoare și alunecoase pe ploaie.",
+                "en": "This historic industrial monument offers solid ground underfoot; however, be sure to watch out for the stone steps at the entrance, which can be very treacherous and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo arqueologico",
+                "hu": "Museo arqueologico",
+                "ro": "Museo arqueologico",
+                "en": "Museo arqueologico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für einen ausgiebigen Besuch der wertvollen Ausstellungen im Inneren und lassen Sie nasse Mäntel im Garderobenbereich, um die Exponate trocken zu genießen.",
+                "hu": "Használja ki az eső szünetét az értékes belső kiállítások alapos megtekintésére, a vizes kabátokat pedig hagyja a ruhatárban, hogy szárazon és kényelmesen élvezhesse a látnivalókat.",
+                "ro": "Profită de pauza de ploaie pentru o vizită detaliată a expozițiilor interioare valoroase și lasă haina udă la garderobă pentru a te bucura de exponate într-un mod uscat și confortabil.",
+                "en": "Take advantage of the rain break for an extensive visit to the valuable indoor exhibits and leave your wet coats in the cloakroom area to enjoy the displays in dry comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Calle de la Hoz",
+                "hu": "Calle de la Hoz",
+                "ro": "Calle de la Hoz",
+                "en": "Calle de la Hoz"
+              },
+              "tip_5lang": {
+                "de": "Die überhängenden Balkone in dieser engen Gasse bieten kurzzeitigen Schutz vor Schauern; tragen Sie unbedingt rutschfeste Schuhe für das bei Nässe glatte Pflaster dieser Passage.",
+                "hu": "A szűk utca túlnyúló erkélyei rövid ideig tartó védelmet nyújtanak a hirtelen záporok elől; viseljen csúszásmentes talpú cipőt a nedvesen rendkívül síkos kövezeten.",
+                "ro": "Balcoanele proeminente din această stradă îngustă oferă protecție temporară împotriva averselor; purtați pantofi cu talpă aderentă pentru pavajul care devine alunecos în această zonă.",
+                "en": "The overhanging balconies in this narrow street offer temporary shelter from sudden showers; be sure to wear non-slip shoes for the pavement which becomes very slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre Olímpia",
+                "hu": "Teatre Olímpia",
+                "ro": "Teatre Olímpia",
+                "en": "Teatre Olímpia"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte kulturelle Abschluss im Trockenen; prüfen Sie das aktuelle Programm vorab online, um unnötige Wartezeiten im Freien bei schlechtem Wetter zu vermeiden.",
+                "hu": "Tökéletes kulturális zárás egy száraz, fedett helyszínen; ellenőrizze előre az aktuális programot online, hogy elkerülje a felesleges várakozást a szabadban rossz idő esetén.",
+                "ro": "Finalul cultural perfect într-o locație uscată și acoperită; verificați programul actual online în avans pentru a evita așteptarea inutilă afară în caz de vreme nefavorabilă.",
+                "en": "The perfect cultural conclusion in a dry, indoor venue; check the current program online beforehand to avoid any unnecessary waiting outside in poor weather conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft bei einem Morgenspaziergang durch das historische Viertel. Die milde Sonne Andalusiens wärmt angenehm, doch im Schatten der Museen ist eine warme Jacke ratsam. Nutzen Sie das helle Tageslicht für Fotos in den verwinkelten Gassen, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend klingt gemütlich in den beheizten Kulturstätten der Stadt aus.",
+            "hu": "Élvezze a friss téli levegőt egy reggeli séta során a történelmi negyedben. A lágy téli napsütés kellemes, de a múzeumok hűvös falai között ajánlott a meleg réteges öltözet. Használja ki a nappali világosságot a fotózáshoz a kanyargós utcákban, mielőtt 17:00 körül lemegy a nap. Az este hangulatosan telik a város fűtött kulturális helyszínein.",
+            "ro": "Bucurați-vă de aerul proaspăt de iarnă în timpul unei plimbări matinale prin cartierul istoric. Soarele blând de iarnă este plăcut, dar în interiorul muzeelor se recomandă o jachetă călduroasă. Profitați de lumina zilei pentru fotografii pe străzile întortocheate înainte de apusul de la ora 17:00. Seara se încheie confortabil în spațiile culturale încălzite ale orașului.",
+            "en": "Enjoy the crisp winter air during a morning stroll through the historic district. The mild winter sun is pleasant, but a warm jacket is advised inside the cool museum walls. Make the most of the daylight for photos in the winding streets before the sun sets around 17:00. Spend a cozy evening in the city's heated cultural venues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Etnologico",
+                "hu": "Museo Etnologico",
+                "ro": "Museo Etnologico",
+                "en": "Museo Etnologico"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Ausstellungsstücken aufzuwärmen; die dicken Mauern halten die kühle Winterbrise effektiv draußen und bewahren eine konstante Innentemperatur.",
+                "hu": "Ideális hely a felmelegedésre a kiállítási tárgyak között; a vastag falak hatékonyan kint tartják a hűvös téli szellőket és állandó belső hőmérsékletet biztosítanak.",
+                "ro": "Un loc ideal pentru a vă încălzi printre exponate; pereții groși țin la distanță briza rece de iarnă în mod eficient și mențin o temperatură interioară constantă și plăcută.",
+                "en": "An ideal place to warm up among the exhibits; the thick walls effectively keep out the chilly winter breeze and maintain a constant, comfortable indoor temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Enginy d'OLIVA",
+                "hu": "Enginy d'OLIVA",
+                "ro": "Enginy d'OLIVA",
+                "en": "Enginy d'OLIVA"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese Stätte am späten Vormittag, wenn die Wintersonne den Außenbereich am besten ausleuchtet und für milde, angenehme Wärme bei der Besichtigung sorgt.",
+                "hu": "Látogasson el ide késő délelőtt, amikor a téli nap a legjobban bevilágítja a külső területet, és kellemes, enyhe meleget áraszt a történelmi emlékek megtekintése közben.",
+                "ro": "Vizitați acest loc târziu dimineața, când soarele de iarnă luminează cel mai bine zona exterioară și oferă o căldură blândă și plăcută în timpul vizitării monumentului.",
+                "en": "Visit this site in the late morning when the winter sun best illuminates the outdoor area and provides a touch of mild, pleasant warmth while exploring the historic remains."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo arqueologico",
+                "hu": "Museo arqueologico",
+                "ro": "Museo arqueologico",
+                "en": "Museo arqueologico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit für diesen beheizten Innenstopp; die punktuelle Beleuchtung der Exponate schafft eine besonders behagliche und einladende Winterstimmung im Museum.",
+                "hu": "Használja ki a délidőt erre a fűtött belső megállóra; a tárlók megvilágítása különlegesen meghitt és barátságos téli hangulatot áraszt a múzeum falai között.",
+                "ro": "Profitați de ora prânzului pentru această oprire interioară încălzită; iluminarea exponatelor creează o atmosferă de iarnă deosebit de primitoare și caldă în interiorul muzeului.",
+                "en": "Take advantage of midday for this heated indoor stop; the specific lighting of the exhibits creates a particularly cozy and welcoming winter atmosphere inside the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Calle de la Hoz",
+                "hu": "Calle de la Hoz",
+                "ro": "Calle de la Hoz",
+                "en": "Calle de la Hoz"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die malerische Gasse im weichen Licht der tiefstehenden Wintersonne; halten Sie aber Handschuhe bereit, falls Sie für die perfekte Aufnahme länger warten müssen.",
+                "hu": "Fotózza le a festői utcát az alacsonyan járó téli nap lágy fényében; de legyen kéznél kesztyű arra az esetre, ha a tökéletes felvételhez hosszabb ideig kellene várakoznia.",
+                "ro": "Fotografiați strada pitorească în lumina blândă a soarelui de iarnă; totuși, aveți mănușile pregătite în cazul în care trebuie să așteptați mai mult pentru cadrul perfect.",
+                "en": "Photograph the picturesque street in the soft light of the low winter sun; however, keep gloves ready in case you need to wait longer to capture the perfect shot."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre Olímpia",
+                "hu": "Teatre Olímpia",
+                "ro": "Teatre Olímpia",
+                "en": "Teatre Olímpia"
+              },
+              "tip_5lang": {
+                "de": "Da es bereits früh dunkel wird, bietet das Theater einen warmen und hellen Rückzugsort, um den frühen Winterabend in der Stadt bei kulturellen Darbietungen zu genießen.",
+                "hu": "Mivel már korán sötétedik, a színház meleg és világos menedéket nyújt, hogy kulturális előadásokkal színesítse a korai téli estét a város szívében.",
+                "ro": "Deoarece se întunecă devreme, teatrul oferă un refugiu cald și luminos pentru a vă bucura de seara timpurie de iarnă în oraș prin spectacole culturale deosebite.",
+                "en": "Since it gets dark early, the theater provides a warm and bright sanctuary to enjoy the early winter evening in the city with various cultural performances."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros túránk kora reggel az ősi római kemencénél indul, ahol felfedezzük a város gyökereit. Délben a központ lenyűgöző múzeumai felé tekerünk. A délutánt a Filàs ünnepi és kulturális közege határozza meg. Az estét a helyi uszodában töltjük, ahol kellemesen kipihenjük a nap fáradalmait.",
         "ro": "Turul nostru cu bicicleta începe de dimineață la vechiul cuptor roman, explorând originile orașului. La prânz pedalăm cu entuziasm spre muzeele fascinante din centru. După-amiaza este marcată de cultura festivă autentică de la Filàs. Seara ne relaxăm și ne răcorim la piscina municipală primitoare.",
         "en": "Our bike tour starts early at the old Roman oven, smoothly exploring the city's origins. At noon, we pedal through the streets to the fascinating museums in the center. The afternoon is marked by discovering local festive culture at the historic Filàs. The evening finally offers a wonderful cool-down at the municipal swimming pool."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den glatten Straßen von Oliva. Starten Sie bei den römischen Öfen, die guten Unterstand bieten. Mittags sollten Sie längere Pausen in den Museen einlegen, um abzutrocknen und die Ausrüstung zu prüfen. Achten Sie besonders auf Markierungen und Metallgitter auf dem Boden, da diese bei Nässe extrem rutschig sind. Schließen Sie den Tag indoor ab.",
+            "hu": "Az esős bringázás óvatosságot igényel Oliva csúszós útjain. Kezdjen a római kemencéknél, amelyek jó menedéket nyújtanak. Délben tartson hosszabb szüneteket a múzeumokban, hogy megszáradjon és ellenőrizze a felszerelést. Ügyeljen az útburkolati jelekre és fémrácsokra, mert nedvesen rendkívül csúszósak. A napot érdemes egy fedett helyszínen, például az uszodában zárni.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile alunecoase din Oliva. Începeți la cuptoarele romane, care oferă un adăpost bun. La prânz, faceți pauze lungi în muzee pentru a vă usca și a verifica echipamentul. Atenție sporită la marcajele rutiere și grătarele metalice, care devin extrem de alunecoase pe ud. Încheiați ziua într-o locație acoperită.",
+            "en": "Cycling in the rain requires caution on Oliva's slippery streets. Start at the Roman kilns, which offer good shelter. At midday, take longer breaks in museums to dry off and check your gear. Pay special attention to road markings and metal grates, as they become extremely slippery when wet. Conclude your day at an indoor venue like the municipal pool."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Horno romano",
+                "hu": "Horno romano",
+                "ro": "Horno romano",
+                "en": "Horno romano"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem schützenden Vordach und nutzen Sie diese archäologische Stätte als ersten trockenen Sammelpunkt für Ihre Gruppe bei einsetzendem Regen.",
+                "hu": "Parkolja le a bringát a védelmet nyújtó előtető alatt, és használja ezt a régészeti lelőhelyet első száraz gyülekezőpontként a csoportja számára az esőben.",
+                "ro": "Parcați bicicleta sub copertina protectoare și folosiți acest sit arheologic ca prim punct de întâlnire uscat pentru grupul dumneavoastră pe timp de ploaie.",
+                "en": "Park your bike under the protective overhang and use this archaeological site as the first dry meeting point for your group during the onset of rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo arqueologico",
+                "hu": "Museo arqueologico",
+                "ro": "Museo arqueologico",
+                "en": "Museo arqueologico"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier Schutz vor schweren Schauern; die Innenräume sind perfekt geeignet, um die Regenkleidung kurzzeitig abzulegen und für die Weiterfahrt gut durchzulüften.",
+                "hu": "Keressen itt menedéket a heves záporok elől; a belső terek tökéletesen alkalmasak az esőruházat rövid idejű levételére és alapos kiszellőztetésére a továbbindulás előtt.",
+                "ro": "Căutați adăpost aici împotriva averselor abundente; spațiile interioare sunt perfecte pentru a scoate temporar hainele de ploaie și a le lăsa să se aerisească puțin.",
+                "en": "Seek shelter here from heavy showers; the indoor spaces are perfectly suited for briefly removing and airing out your rain gear before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnologico",
+                "hu": "Museo Etnologico",
+                "ro": "Museo Etnologico",
+                "en": "Museo Etnologico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Museumsbesuch als ausgiebige Trockenpause; achten Sie beim Wiederaufsteigen unbedingt auf nasse Bremsen und die dadurch deutlich verminderte Bremswirkung.",
+                "hu": "Használja ezt a múzeumlátogatást egy alapos száradási szünetnek; induláskor feltétlenül ügyeljen a nedves fékekre és az emiatt jelentősen csökkent fékhatásra a lejtőkön.",
+                "ro": "Folosiți această vizită la muzeu ca o pauză lungă de uscare; la plecare, aveți mare grijă la frânele umede și la eficiența frânării care va fi considerabil redusă.",
+                "en": "Use this museum visit as an extended drying break; when restarting your ride, pay close attention to wet brakes and the significantly reduced braking power on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Enginy d'OLIVA",
+                "hu": "Enginy d'OLIVA",
+                "ro": "Enginy d'OLIVA",
+                "en": "Enginy d'OLIVA"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem geschützten Ort ab und erkunden Sie das Denkmal zu Fuß, um gefährliche Rutschunfälle auf dem bei Nässe glatten Vorplatz zu vermeiden.",
+                "hu": "Helyezze el kerékpárját egy védett helyen, és gyalogosan fedezze fel a műemléket, hogy elkerülje a veszélyes elcsúszásokat a nedves időben síkos előtéren.",
+                "ro": "Lăsați bicicleta într-un loc protejat și explorați monumentul la pas pentru a evita accidentele periculoase prin alunecare pe platforma umedă din față.",
+                "en": "Park your bike in a sheltered spot and explore the monument on foot to avoid dangerous slipping accidents on the wet and slick forecourt area."
+              }
+            },
+            {
+              "name": {
+                "de": "Filà Moriscos Oliva",
+                "hu": "Filà Moriscos Oliva",
+                "ro": "Filà Moriscos Oliva",
+                "en": "Filà Moriscos Oliva"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer kultureller Stopp im Trockenen; wischen Sie den Sattel vor der Weiterfahrt unbedingt gründlich ab, um lästige Nässe an Ihrer Kleidung während der Fahrt zu vermeiden.",
+                "hu": "Rövid kulturális megálló száraz helyen; a továbbindulás előtt feltétlenül törölje le alaposan a nyerget, hogy elkerülje ruházata kellemetlen átnedvesedését tekerés közben.",
+                "ro": "O scurtă oprire culturală la adăpost; ștergeți bine șaua înainte de a pleca pentru a evita umezirea neplăcută a hainelor în timpul deplasării pe bicicletă.",
+                "en": "A brief cultural stop in the dry; be sure to wipe your saddle thoroughly before continuing to avoid getting your clothes uncomfortably wet while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Piscina Municipal",
+                "ro": "Piscina Municipal",
+                "en": "Piscina Municipal"
+              },
+              "tip_5lang": {
+                "de": "Da Sie ohnehin nass geworden sind, sind die warme Dusche und das Hallenbad der ideale Ort, um sich am Ende des anstrengenden Tages im Regen wieder komplett aufzuwärmen.",
+                "hu": "Mivel útközben úgyis megázott, a meleg zuhany és a fedett uszoda ideális hely a nap végi felfrissülésre és a teljes felmelegedésre az esős tekerés után.",
+                "ro": "Deoarece oricum v-a udat ploaia pe drum, dușul cald și piscina acoperită sunt locul ideal pentru a vă relaxa și a vă încălzi complet la finalul zilei.",
+                "en": "Since you got wet anyway, the warm shower and the indoor pool are the ideal places to refresh and fully warm up after a strenuous day of cycling in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Oliva ist bei Sonnenschein herrlich, erfordert aber Windschutz. Beginnen Sie morgens mit Handschuhen und einer windfesten Schicht. Mittags wärmt die Sonne die Küstenstraßen auf, ideal für eine entspannte Fahrt zwischen den Museen. Beenden Sie die Tour am frühen Nachmittag, da die Temperaturen nach Sonnenuntergang um 17:00 Uhr rasch sinken. Die Schwimmhalle bietet danach wohlige Wärme.",
+            "hu": "A téli bringázás Oliva környékén napsütésben remek, de szél elleni védelmet igényel. Kezdjen reggel kesztyűben és szélálló rétegben. Napközben a nap felmelegíti a parti utakat, ami ideális a múzeumok közötti tekeréshez. Fejezze be a túrát kora délután, mert 17:00-kor a naplemente után gyorsan hűl a levegő. Az uszoda utána kellemes meleget kínál.",
+            "ro": "Ciclismul de iarnă în Oliva este minunat pe soare, dar necesită protecție împotriva vântului. Începeți dimineața cu mănuși și un strat rezistent la vânt. La prânz, soarele încălzește drumurile, fiind ideal pentru plimbarea între muzee. Încheiați tura după-amiaza devreme, deoarece temperaturile scad brusc după apusul de la 17:00. Piscina oferă căldură după aceea.",
+            "en": "Winter cycling in Oliva is wonderful in the sun but requires wind protection. Start in the morning with gloves and a windproof layer. At midday, the sun warms the coastal roads, ideal for riding between museums. Finish your tour in the early afternoon, as temperatures drop quickly after the 17:00 sunset. The indoor pool offers welcome warmth afterwards."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Horno romano",
+                "hu": "Horno romano",
+                "ro": "Horno romano",
+                "en": "Horno romano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Windschatten der antiken Mauern für eine kurze Trinkpause; denken Sie daran, dass man im Winter beim Radfahren oft unbemerkt dehydriert.",
+                "hu": "Használja ki az antik falak szélárnyékát egy rövid ivószünetre; ne feledje, hogy télen kerékpározás közben is észrevétlenül dehidratálódhat a szervezete.",
+                "ro": "Folosiți adăpostul oferit de zidurile antice pentru o scurtă pauză de hidratare; nu uitați că iarna vă puteți deshidrata ușor în timp ce mergeți cu bicicleta.",
+                "en": "Use the windbreak provided by the ancient walls for a quick hydration break; remember that in winter, you can often get dehydrated unnoticed while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo arqueologico",
+                "hu": "Museo arqueologico",
+                "ro": "Museo arqueologico",
+                "en": "Museo arqueologico"
+              },
+              "tip_5lang": {
+                "de": "Ein willkommener warmer Zwischenstopp; lassen Sie Helm und Handschuhe am Eingang, um sich in den Museumsräumen frei und ohne schwere Kleidung bewegen zu können.",
+                "hu": "Egy szívesen látott meleg köztes megálló; hagyja a sisakot és a kesztyűt a bejáratnál, hogy szabadon és nehéz ruházat nélkül nézelődhessen a múzeumi terekben.",
+                "ro": "O oprire caldă binevenită; lăsați casca și mănușile la intrare pentru a vă putea mișca liber și fără haine grele prin sălile muzeului în timp ce vă încălziți.",
+                "en": "A welcome warm intermediate stop; leave your helmet and gloves at the entrance to move freely and without heavy clothing through the museum rooms while warming up."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnologico",
+                "hu": "Museo Etnologico",
+                "ro": "Museo Etnologico",
+                "en": "Museo Etnologico"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen bieten idealen Schutz vor dem kühlen Mittagswind; perfekt geeignet, um die Beine nach der Fahrt kurzzeitig zu lockern und angenehm aufzuwärmen.",
+                "hu": "A kiállítások ideális védelmet nyújtanak a hűvös déli szél elől; tökéletesen alkalmas hely a lábak rövid átmozgatására és kellemes felmelegítésére a tekerés után.",
+                "ro": "Expozițiile oferă o protecție ideală împotriva vântului rece de la prânz; locul este perfect pentru a vă relaxa picioarele și a vă încălzi puțin după drumul parcurs.",
+                "en": "The exhibits offer ideal protection from the cool midday wind; it's a perfect spot to briefly stretch your legs and warm up comfortably after your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Enginy d'OLIVA",
+                "hu": "Enginy d'OLIVA",
+                "ro": "Enginy d'OLIVA",
+                "en": "Enginy d'OLIVA"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschichtsträchtigen Ort, während die Sonne noch hoch steht, um das Lichtspiel an der Fassade ohne die kalten Abendschatten voll zu genießen.",
+                "hu": "Látogasson el erre a történelmi helyszínre, amíg a nap még magasan jár, hogy teljes mértékben élvezhesse a homlokzat fényjátékát a hideg esti árnyékok nélkül.",
+                "ro": "Vizitați acest loc încărcat de istorie cât timp soarele este încă sus, pentru a vă bucura pe deplin de jocul de lumini de pe fațadă fără umbrele reci ale serii.",
+                "en": "Visit this historic site while the sun is still high in the sky to fully enjoy the play of light on the facade without the intrusion of cold evening shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Filà Moriscos Oliva",
+                "hu": "Filà Moriscos Oliva",
+                "ro": "Filà Moriscos Oliva",
+                "en": "Filà Moriscos Oliva"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller kultureller Halt; ziehen Sie Ihre Jacke vor der Abfahrt unbedingt wieder fest zu, da der Fahrtwind am Nachmittag nun spürbar kühler wird.",
+                "hu": "Gyors kulturális megálló; indulás előtt feltétlenül húzza fel szorosan a kabátot, mert a menetszél délutánra már érezhetően hűvösebbé válik a nyíltabb szakaszokon.",
+                "ro": "O oprire culturală rapidă; închideți bine jacheta înainte de plecare, deoarece curentul de aer devine acum mult mai rece pe măsură ce după-amiaza înaintează.",
+                "en": "A quick cultural stop; be sure to zip up your jacket tightly before leaving, as the headwind is now becoming noticeably cooler during the later afternoon hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Piscina Municipal",
+                "ro": "Piscina Municipal",
+                "en": "Piscina Municipal"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss: Das beheizte Wasser entspannt Ihre Muskeln nach der kühlen Fahrt perfekt und bereitet Sie optimal auf den restlichen Winterabend vor.",
+                "hu": "A nap méltó zárása: a fűtött víz tökéletesen ellazítja izmait a hűvös tekerés után, és optimálisan felkészíti Önt a téli este további részére a városban.",
+                "ro": "Finalul perfect al zilei: apa încălzită vă relaxează mușchii după tura răcoroasă și vă pregătește optim pentru restul serii de iarnă în oraș.",
+                "en": "The perfect conclusion to your day: the heated water relaxes your muscles after the cool ride and prepares you optimally for the rest of your winter evening in the city."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Először kényelmesen a Tossal Gros felé autózunk, hogy a reggeli napsütésben élvezzük a csodás kilátást. Ezt követően a központba, a történelmi Calle de la Hoz-hoz hajtunk. Délután a helyi múzeumokban és a hagyományos kulturális klubokban fedezzük fel a város múltját. Az estét a nyilvános medence hűsítő vizénél, tökéletes nyugalomban zárjuk.",
         "ro": "Conducem mai întâi confortabil spre Tossal Gros pentru a admira priveliștea spectaculoasă în soarele dimineții. Apoi traseul ne duce în centru la istorica și pitoreasca Calle de la Hoz. După-amiaza explorăm rădăcinile culturale în muzee și la cluburile locale de festival. Seara ne-o petrecem relaxați și revigorați la piscina publică din oraș.",
         "en": "We first drive comfortably to Tossal Gros to enjoy the spectacular scenic view in the clear morning sun. Then the driving route takes us to the historic and picturesque Calle de la Hoz in the center. In the afternoon, we explore cultural roots in museums and local festival clubs. The evening is spent perfectly relaxed and refreshed at the public pool area."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Oliva bei Regen am bequemsten. Starten Sie beim Aussichtspunkt Tossal Gros, aber bleiben Sie bei starkem Guss im Wagen. Mittags bieten die Museen im Zentrum exzellente Parkmöglichkeiten in der Nähe und trockene Kulturräume. Achten Sie auf den Küstenstraßen auf Gischt und Aquaplaning. Der Tag endet entspannt in der überdachten Sportanlage der Stadt.",
+            "hu": "Autóval a legkényelmesebb Oliva felfedezése esőben. Kezdje a Tossal Gros kilátópontnál, de heves zivatar esetén maradjon a kocsiban. Délben a központi múzeumok közelében kiváló parkolási lehetőségek és száraz kulturális terek várják. A parti utakon ügyeljen a vízfelverődésre és a vízenfutásra. A napot nyugodtan zárhatja a város fedett sportlétesítményében.",
+            "ro": "Explorarea orașului Oliva cu mașina este cea mai confortabilă opțiune pe ploaie. Începeți la punctul de belvedere Tossal Gros, dar rămâneți în mașină dacă plouă torențial. La prânz, muzeele centrale oferă parcări bune în apropiere și spații culturale uscate. Atenție la acvaplanare pe drumurile de coastă. Ziua se încheie relaxat la complexul sportiv acoperit al orașului.",
+            "en": "Exploring Oliva by car is the most comfortable option in the rain. Start at the Tossal Gros viewpoint, but stay in the car during heavy downpours. At midday, the central museums offer excellent nearby parking and dry cultural spaces. Watch out for aquaplaning on the coastal roads. The day ends in a relaxed manner at the city's sheltered sports facility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tossal Gros",
+                "hu": "Tossal Gros",
+                "ro": "Tossal Gros",
+                "en": "Tossal Gros"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das weite Panorama direkt und trocken aus dem Auto; die regnerische Atmosphäre verleiht der Küstenlandschaft eine ganz eigene, mystische Note auf Ihren Fotos.",
+                "hu": "Élvezze a tágas panorámát közvetlenül és szárazon az autóból; az esős hangulat egészen sajátos, misztikus jelleget kölcsönöz a tengerparti tájnak a fotókon.",
+                "ro": "Bucurați-vă de panorama vastă direct din confortul mașinii; atmosfera ploioasă oferă peisajului de coastă o notă mistică cu totul aparte în fotografiile dumneavoastră.",
+                "en": "Enjoy the expansive panorama directly and dryly from your car; the rainy atmosphere adds a unique, mystical touch to the coastal landscape in your photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Calle de la Hoz",
+                "hu": "Calle de la Hoz",
+                "ro": "Calle de la Hoz",
+                "en": "Calle de la Hoz"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in einer nahen Nebenstraße und nutzen Sie einen Schirm für den kurzen Weg; das nasse Gestein der Gasse wirkt auf Ihren Aufnahmen farblich besonders intensiv.",
+                "hu": "Parkoljon le egy közeli mellékutcában és használjon esernyőt a rövid sétához; az utca nedves kövei színükben és textúrájukban is nagyon intenzíven mutatnak a felvételeken.",
+                "ro": "Parcați pe o stradă laterală din apropiere și folosiți o umbrelă; piatra umedă a străzii arată extrem de intens ca culoare și textură în fotografiile pe care le veți face.",
+                "en": "Park on a nearby side street and use an umbrella for the short walk; the wet stones of the alley will look particularly intense in color and texture in your shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnologico",
+                "hu": "Museo Etnologico",
+                "ro": "Museo Etnologico",
+                "en": "Museo Etnologico"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um das Auto kurz zu verlassen und trockenes Handwerk zu bestaunen; achten Sie beim Aussteigen direkt vor dem Museum aber unbedingt auf tiefe Pfützen.",
+                "hu": "Tökéletes megálló, hogy rövid időre kiszálljon az autóból és szárazon csodálja a mesterségeket; kiszálláskor közvetlenül a múzeumnál ügyeljen a mélyebb tócsákra az úttest szélén.",
+                "ro": "O oprire perfectă pentru a ieși scurt din mașină și a admira meșteșugurile la uscat; aveți grijă la bălțile adânci de la marginea drumului când coborâți chiar în fața muzeului.",
+                "en": "A perfect stop to briefly leave the car and admire local crafts in the dry; when getting out right in front of the museum, be sure to watch out for deep puddles at the curb."
+              }
+            },
+            {
+              "name": {
+                "de": "Horno romano",
+                "hu": "Horno romano",
+                "ro": "Horno romano",
+                "en": "Horno romano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeit direkt am Eingang, um möglichst wenig Zeit im Regen zu verbringen, während Sie die beeindruckenden antiken Öfen der Ausgrabungsstätte besichtigen.",
+                "hu": "Használja ki a közvetlenül a bejáratnál lévő parkolási lehetőséget, hogy a lehető legkevesebb időt töltse az esőben, miközben a régészeti helyszín antik kemencéit tekinti meg.",
+                "ro": "Folosiți locurile de parcare de lângă intrare pentru a petrece cât mai puțin timp în ploaie în timp ce vizitați cuptoarele antice impresionante ale sitului arheologic.",
+                "en": "Utilize the parking available right at the entrance to spend as little time as possible in the rain while visiting the impressive ancient kilns of the archaeological site."
+              }
+            },
+            {
+              "name": {
+                "de": "Filà Tuareg Oliva",
+                "hu": "Filà Tuareg Oliva",
+                "ro": "Filà Tuareg Oliva",
+                "en": "Filà Tuareg Oliva"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer kultureller Fixpunkt im Trockenen; prüfen Sie unbedingt Ihre Scheibenwischer, da die Sicht in den engen und dunklen Stadtstraßen bei starkem Regen rasch abnimmt.",
+                "hu": "Újabb kulturális pont szárazon; feltétlenül ellenőrizze az ablaktörlőket, mert a látótávolság a szűk és sötétebb városi utcákban heves esőben jelentősen és gyorsan csökkenhet.",
+                "ro": "Încă un punct cultural la uscat; verificați neapărat ștergătoarele, deoarece vizibilitatea pe străzile înguste și întunecate scade rapid în timpul unei ploi torențiale.",
+                "en": "Another cultural highlight in the dry; be sure to check your windshield wipers, as visibility in the narrow and darker city streets can decrease rapidly during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Piscina Municipal",
+                "ro": "Piscina Municipal",
+                "en": "Piscina Municipal"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem direkt auf dem Gelände und genießen Sie die warme Atmosphäre der Schwimmhalle als idealen Gegenpol zum nasskalten Wetter draußen vor der Tür.",
+                "hu": "Parkoljon kényelmesen közvetlenül a területen, és élvezze az uszoda meleg belső klímáját, amely ideális ellenpontja a kinti nyirkos és hideg időjárásnak a nap végén.",
+                "ro": "Parcați confortabil chiar în incintă și bucurați-vă de atmosfera caldă a piscinei ca o contrapondere ideală la vremea rece și umedă de afară la finalul zilei.",
+                "en": "Park conveniently right on the premises and enjoy the warm indoor climate of the pool as an ideal contrast to the damp and cold weather outside at the end of the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto bietet Flexibilität und Wärme. Beginnen Sie morgens beim Tossal Gros, wenn die tiefstehende Sonne die Küste in goldenes Licht taucht. Mittags erreichen Sie bequem die Museen in der Stadt, in denen es angenehm temperiert ist. Beachten Sie, dass das Licht gegen 17:00 Uhr schwindet; planen Sie die Rückfahrt vor Einbruch der Dunkelheit. Die Sportanlage ist ein warmer Ausklang.",
+            "hu": "A téli autós túra rugalmasságot és meleget kínál. Kezdjen reggel a Tossal Grosnál, amikor az alacsonyan járó nap arany fénybe vonja a partot. Délben kényelmesen elérheti a városi múzeumokat, ahol kellemes a hőmérséklet. Vegye figyelembe, hogy 17:00 körül elfogynak a fények, így a visszautat tervezze sötétedés elé. A sportlétesítmény meleg levezetést kínál.",
+            "ro": "Turul de iarnă cu mașina oferă flexibilitate și căldură. Începeți dimineața la Tossal Gros, când soarele jos scaldă coasta în lumină aurie. La prânz ajungeți ușor la muzeele din oraș, unde temperatura este plăcută. Rețineți că lumina dispare în jurul orei 17:00, deci planificați drumul de întoarcere înainte de lăsarea serii. Piscina este un final cald.",
+            "en": "A winter car tour offers flexibility and warmth. Start in the morning at Tossal Gros, when the low sun bathes the coast in golden light. At midday, you can easily reach the city museums, which are pleasantly tempered. Note that daylight fades around 17:00, so plan your return trip before dark. The sports facility provides a warm conclusion to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tossal Gros",
+                "hu": "Tossal Gros",
+                "ro": "Tossal Gros",
+                "en": "Tossal Gros"
+              },
+              "tip_5lang": {
+                "de": "Die Wintermorgensonne bietet oft die klarste Fernsicht des ganzen Jahres; nutzen Sie die Heizung im Auto, während Sie den spektakulären Ausblick in aller Ruhe genießen.",
+                "hu": "A téli reggeli nap kínálja gyakran az egész év legtisztább távoli kilátását; használja nyugodtan az autó fűtését, miközben a látványos panorámában gyönyörködik.",
+                "ro": "Soarele matinal de iarnă oferă adesea cea mai clară vizibilitate la distanță din tot anul; folosiți încălzirea mașinii în timp ce admirați panorama spectaculoasă în liniște.",
+                "en": "The winter morning sun often offers the clearest distant views of the entire year; feel free to use the car heater while you enjoy the spectacular panorama in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Calle de la Hoz",
+                "hu": "Calle de la Hoz",
+                "ro": "Calle de la Hoz",
+                "en": "Calle de la Hoz"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie den Wagen kurz ab; die winterliche Stille in der Gasse ist besonders friedlich, aber ziehen Sie für den Fotostopp unbedingt eine warme Weste oder Jacke über.",
+                "hu": "Állítsa le rövid időre az autót; a téli csend az utcában ilyenkor különösen békés, de a fotózáshoz feltétlenül vegyen fel egy meleg mellényt vagy kabátot a kiszálláskor.",
+                "ro": "Opriți mașina pentru scurt timp; liniștea de iarnă de pe stradă este deosebit de pașnică acum, dar puneți neapărat o vestă sau o jachetă caldă pentru oprirea foto.",
+                "en": "Park the car briefly; the winter silence in the alley is particularly peaceful now, but be sure to put on a warm vest or jacket for your photo stop when you get out."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnologico",
+                "hu": "Museo Etnologico",
+                "ro": "Museo Etnologico",
+                "en": "Museo Etnologico"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragend temperierter Ort für den Mittag; lassen Sie bitte keine Wertsachen sichtbar im Auto liegen, auch wenn es im Winter in der Gegend deutlich ruhiger zugeht.",
+                "hu": "Kiválóan temperált helyszín délidőben; kérjük, ne hagyjon értéktárgyat látható helyen az autóban, még akkor sem, ha télen a környék jóval csendesebb a szokásosnál.",
+                "ro": "O locație cu temperatură excelentă pentru prânz; vă rugăm să nu lăsați obiecte de valoare la vedere în mașină, chiar dacă iarna zona este mult mai liniștită decât de obicei.",
+                "en": "An excellently tempered location for midday; please do not leave any valuables visible in the car, even though the area is much quieter than usual during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Horno romano",
+                "hu": "Horno romano",
+                "ro": "Horno romano",
+                "en": "Horno romano"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabung am Nachmittag; die tiefstehende Wintersonne steht dann ideal für detailreiche Fotos der antiken Strukturen ganz ohne harte Schattenwürfe.",
+                "hu": "Látogassa meg a feltárást délután; az alacsonyan járó téli nap állása ilyenkor ideális az antik struktúrák részletgazdag fotózásához, zavaróan erős árnyékok nélkül.",
+                "ro": "Vizitați situl după-amiaza; poziția soarelui de iarnă este atunci ideală pentru fotografierea detaliată a structurilor antice, fără umbre puternice și deranjante.",
+                "en": "Visit the site in the afternoon; the low winter sun is then ideally positioned for detailed photos of the ancient structures without any distracting harsh shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Filà Tuareg Oliva",
+                "hu": "Filà Tuareg Oliva",
+                "ro": "Filà Tuareg Oliva",
+                "en": "Filà Tuareg Oliva"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie möglichst nah am Eingang, da es zum späten Nachmittag hin bereits spürbar kühler wird; im Inneren erwartet Sie eine angenehm gewärmte Atmosphäre.",
+                "hu": "Parkoljon lehetőleg minél közelebb a bejárathoz, mert késő délutánra már érezhetően hűl a levegő; az épületen belül kellemesen fűtött környezet fogadja majd Önt.",
+                "ro": "Parcați cât mai aproape de intrare, deoarece spre sfârșitul după-amiezii se răcește deja considerabil; în interior vă așteaptă o atmosferă încălzită și plăcută.",
+                "en": "Park as close to the entrance as possible, as it already gets noticeably cooler by late afternoon; inside, a pleasantly heated atmosphere awaits you."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Piscina Municipal",
+                "ro": "Piscina Municipal",
+                "en": "Piscina Municipal"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Abschluss, um die Kälte des Tages endgültig zu vertreiben; Parkplätze sind im Winter meist unkompliziert direkt vor der Tür der Sportanlage zu finden.",
+                "hu": "Ideális zárás, hogy végleg elűzze a nap hűvösségét; parkolóhelyet télen általában teljesen zökkenőmentesen találhat közvetlenül a sportlétesítmény bejárata előtt.",
+                "ro": "Finalul ideal pentru a alunga definitiv frigul zilei; locurile de parcare sunt de obicei ușor de găsit chiar în fața intrării complexului sportiv pe timpul iernii.",
+                "en": "The ideal conclusion to finally chase away the day's chill; you can usually find parking spaces directly in front of the sports facility's entrance without any trouble in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

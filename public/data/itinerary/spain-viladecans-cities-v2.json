@@ -160,6 +160,196 @@
         "hu": "A reggel Viladecans szívében kezdődik, az ikonikus Església de Sant Joan és az impozáns Torre del Baró felfedezésével. Délben egy kellemes séta a történelmi Torre Roja felé tárja fel a város építészeti fejlődését. A délután a kultúrának van szentelve a Teatro Atrium és a nyugodt Església de Santa Maria de Sales meglátogatásával. Az este az Ateneu de les Arts helyi kreativitásának megtekintésével zárul.",
         "ro": "Dimineața începe în inima orașului Viladecans, explorând emblematica Església de Sant Joan și impunătorul Torre del Baró. La amiază, o plimbare plăcută spre istoricul Torre Roja dezvăluie evoluția arhitecturală a orașului. După-amiaza este dedicată culturii la Teatro Atrium și serenei Església de Santa Maria de Sales. Seara se încheie la Ateneu de les Arts, bucurându-vă de creativitatea locală.",
         "en": "Morning starts at the heart of Viladecans, exploring the iconic Església de Sant Joan and the imposing Torre del Baró. Midday invites a pleasant stroll towards the historic Torre Roja, revealing the architectural evolution of the city. Afternoon is dedicated to culture at the Teatro Atrium and the serene Església de Santa Maria de Sales. Evening winds down with a visit to the Ateneu de les Arts, offering a glimpse into local creativity."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der schützenden Stille der Kirche. Mittags erfordern die Außenwege zu den Türmen festes Schuhwerk gegen Rutschgefahr. Am Nachmittag bietet das Atrium-Theater die perfekte trockene Zuflucht. Den Abend verbringen Sie im Ateneu de les Arts, wo Kunst und Kultur Sie vor der nassen Witterung draußen bewahren.",
+            "hu": "Kezdje a napot a templom csendes menedékében az eső elől. Délben a tornyokhoz vezető ösvények csúszósak lehetnek, így óvatosan haladjon. Délután az Atrium színház belső terei kínálnak száraz kikapcsolódást. Az estét töltse az Ateneu de les Arts falai között, ahol a helyi művészet élvezete közben elkerülheti a kinti felhőszakadást.",
+            "ro": "Începeți ziua în liniștea protectoare a bisericii. La prânz, potecile spre turnuri pot fi alunecoase, deci aveți grijă la pași. După-amiaza, teatrul Atrium oferă refugiul perfect și uscat. Seara o veți petrece la Ateneu de les Arts, unde cultura locală vă va face să uitați de ploaia de afară într-un mediu primitor.",
+            "en": "Start your day in the protective silence of the church. At noon, the paths to the towers may be slippery, so walk carefully. In the afternoon, the Atrium Theater provides a perfect dry sanctuary. Spend your evening at the Ateneu de les Arts, where local art and culture keep you sheltered from the wet weather outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església de Sant Joan",
+                "hu": "Església de Sant Joan",
+                "ro": "Església de Sant Joan",
+                "en": "Església de Sant Joan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum dieser historischen Kirche als Zufluchtsort vor dem Regen; bewundern Sie die sakrale Kunst, während Sie im Trockenen auf das Ende des Schauers warten.",
+                "hu": "Használja ki a történelmi templom belső terét menedékként az eső elől; csodálja meg a szakrális művészetet, miközben szárazon várja a zápor végét.",
+                "ro": "Folosiți interiorul acestei biserici istorice ca refugiu împotriva ploii; admirați arta sacră în timp ce așteptați la adăpost încetarea aversei.",
+                "en": "Use the interior of this historic church as a sanctuary from the rain; admire the sacred art while staying dry as you wait for the shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Baró",
+                "hu": "Torre del Baró",
+                "ro": "Torre del Baró",
+                "en": "Torre del Baró"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstufen zum Turm können bei Nässe sehr rutschig sein; halten Sie sich am Geländer fest und genießen Sie den dramatischen Blick auf das wolkenverhangene Delta.",
+                "hu": "A toronyhoz vezető kőlépcsők nedvesen nagyon csúszósak lehetnek; kapaszkodjon a korlátba, és élvezze a drámai kilátást a felhős deltára.",
+                "ro": "Treptele de piatră către turn pot fi foarte alunecoase când sunt ude; țineți-vă de balustradă și bucurați-vă de vederea dramatică asupra deltei înnorate.",
+                "en": "The stone steps to the tower can be very slippery when wet; hold onto the railing and enjoy the dramatic view of the cloudy delta."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Roja",
+                "hu": "Torre Roja",
+                "ro": "Torre Roja",
+                "en": "Torre Roja"
+              },
+              "tip_5lang": {
+                "de": "Die roten Mauern wirken im Regen besonders intensiv; suchen Sie Schutz unter den Torbögen und beobachten Sie, wie das Wasser die Farben des historischen Gesteins vertieft.",
+                "hu": "A vörös falak esőben különösen intenzívnek tűnnek; keressen menedéket a boltívek alatt, és figyelje, ahogy a víz elmélyíti a történelmi kőzet színeit.",
+                "ro": "Zidurile roșii par deosebit de intense în ploaie; căutați adăpost sub arcade și observați cum apa accentuează culorile pietrei istorice.",
+                "en": "The red walls look especially intense in the rain; seek shelter under the archways and watch how the water deepens the colors of the historic stone."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Atrium Viladecans",
+                "hu": "Teatro Atrium Viladecans",
+                "ro": "Teatro Atrium Viladecans",
+                "en": "Teatro Atrium Viladecans"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Kulturzentrum ist der ideale Ort, um dem schlechten Wetter zu entfliehen; prüfen Sie das Tagesprogramm für kurzfristige Indoor-Ausstellungen oder Aufführungen.",
+                "hu": "Ez a modern kulturális központ ideális hely a rossz idő elöli menekülésre; ellenőrizze a napi programot rövid beltéri kiállításokért vagy előadásokért.",
+                "ro": "Acest centru cultural modern este locul ideal pentru a scăpa de vremea rea; verificați programul zilei pentru expoziții sau spectacole de interior.",
+                "en": "This modern cultural center is the ideal spot to escape bad weather; check the daily schedule for short-term indoor exhibitions or performances."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria de Sales",
+                "hu": "Església de Santa Maria de Sales",
+                "ro": "Església de Santa Maria de Sales",
+                "en": "Església de Santa Maria de Sales"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet eine intime und trockene Atmosphäre für eine kurze Pause; bewundern Sie die architektonischen Details, während Sie sich vom Fußweg erholen.",
+                "hu": "A kis kápolna meghitt és száraz légkört biztosít egy rövid pihenőhöz; csodálja meg az építészeti részleteket, miközben kipiheni a gyalogutat.",
+                "ro": "Mica capelă oferă o atmosferă intimă și uscată pentru o scurtă pauză; admirați detaliile arhitecturale în timp ce vă odihniți după mersul pe jos.",
+                "en": "The small chapel provides an intimate and dry atmosphere for a short break; admire the architectural details while resting from the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Ateneu de les Arts",
+                "hu": "Ateneu de les Arts",
+                "ro": "Ateneu de les Arts",
+                "en": "Ateneu de les Arts"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag in diesem lebendigen Kulturraum, der vollständigen Schutz vor Regen bietet; genießen Sie die kreative Energie in den warmen Innenräumen des Gebäudes.",
+                "hu": "Zárja a napot ebben a vibráló kulturális térben, amely teljes védelmet nyújt az eső ellen; élvezze a kreatív energiát az épület meleg belső tereiben.",
+                "ro": "Încheiați ziua în acest spațiu cultural vibrant care oferă protecție completă împotriva ploii; bucurați-vă de energia creativă în interiorul cald al clădirii.",
+                "en": "End your day in this vibrant cultural space that offers full protection from the rain; enjoy the creative energy inside the building's warm interior rooms."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft bei einem morgendlichen Kirchenbesuch. Mittags wärmt die tiefstehende Sonne die historischen Türme auf dem Hügel. Da es gegen 17:00 Uhr bereits dunkel wird, sollten Sie die Außenbesichtigungen rechtzeitig abschließen. Den Abend lassen Sie gemütlich im beheizten Ateneu de les Arts bei lokaler Kunst ausklingen.",
+            "hu": "Élvezze a tiszta téli levegőt a reggeli templomlátogatás során. Délben az alacsonyan járó nap melegíti a dombtetőn lévő történelmi tornyokat. Mivel 17:00 körül már sötétedik, a szabadtéri látnivalókat időben fejezze be. Az estét töltse kellemesen a fűtött Ateneu de les Arts épületében, helyi művészeti programokkal.",
+            "ro": "Bucurați-vă de aerul curat de iarnă în timpul vizitei de dimineață la biserică. La prânz, soarele blând încălzește turnurile istorice de pe deal. Deoarece se întunecă în jurul orei 17:00, finalizați vizitele în aer liber din timp. Încheiați seara confortabil în interiorul încălzit de la Ateneu de les Arts.",
+            "en": "Enjoy the crisp winter air during your morning church visit. At noon, the low sun warms the historic towers on the hill. Since it gets dark around 17:00, finish your outdoor sightseeing in time. End your evening comfortably in the heated Ateneu de les Arts, enjoying local artistic programs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església de Sant Joan",
+                "hu": "Església de Sant Joan",
+                "ro": "Església de Sant Joan",
+                "en": "Església de Sant Joan"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche halten die Kälte draußen; nutzen Sie die morgendliche Stille für eine besinnliche Besichtigung im angenehm temperierten Innenraum.",
+                "hu": "A templom vastag falai kint tartják a hideget; használja ki a reggeli csendet egy elmélyült látogatásra a kellemes hőmérsékletű belső térben.",
+                "ro": "Zidurile groase ale bisericii țin frigul afară; profitați de liniștea dimineții pentru o vizită meditativă în interiorul cu o temperatură plăcută.",
+                "en": "The thick walls of the church keep the cold out; take advantage of the morning silence for a contemplative visit in the pleasantly tempered interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Baró",
+                "hu": "Torre del Baró",
+                "ro": "Torre del Baró",
+                "en": "Torre del Baró"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, da der Wind auf dem Hügel im Winter schneidend sein kann; die klare Sicht bietet dafür ein weites Panorama bis zum schimmernden Meer.",
+                "hu": "Öltözzön rétegesen, mert a dombtetőn a szél télen metsző lehet; a tiszta látási viszonyok viszont cserébe pazar panorámát kínálnak egészen a csillogó tengerig.",
+                "ro": "Îmbrăcați-vă cu haine groase, deoarece vântul de pe deal poate fi tăios iarna; în schimb, vizibilitatea clară oferă o panoramă vastă până la marea sclipitoare.",
+                "en": "Dress in layers, as the wind on the hill can be biting in winter; however, the clear visibility offers a grand panorama all the way to the shimmering sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Roja",
+                "hu": "Torre Roja",
+                "ro": "Torre Roja",
+                "en": "Torre Roja"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort gegen 16:30 Uhr, um die roten Steine im warmen Licht des frühen Sonnenuntergangs zu sehen, bevor die kühle Abenddämmerung einsetzt.",
+                "hu": "Látogasson el ide 16:30 körül, hogy láthassa a vörös köveket a korai naplemente meleg fényében, mielőtt beállna a hűvös esti szürkület.",
+                "ro": "Vizitați acest loc în jurul orei 16:30 pentru a vedea pietrele roșii în lumina caldă a apusului timpuriu, înainte de instalarea amurgului răcoros.",
+                "en": "Visit this spot around 16:30 to see the red stones in the warm light of the early sunset before the cool evening dusk sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Atrium Viladecans",
+                "hu": "Teatro Atrium Viladecans",
+                "ro": "Teatro Atrium Viladecans",
+                "en": "Teatro Atrium Viladecans"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Foyer ist perfekt, um sich zwischen den Spaziergängen aufzuwärmen; genießen Sie die Architektur und entfliehen Sie kurzzeitig der winterlichen Kälte.",
+                "hu": "A modern aula tökéletes hely a felmelegedésre a séták között; élvezze az építészetet, és meneküljön el egy rövid időre a téli hideg elől.",
+                "ro": "Foaierul modern este perfect pentru a vă încălzi între plimbări; bucurați-vă de arhitectură și evadați pentru scurt timp din frigul iernii.",
+                "en": "The modern foyer is perfect for warming up between walks; enjoy the architecture and escape the winter cold for a short while."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria de Sales",
+                "hu": "Església de Santa Maria de Sales",
+                "ro": "Església de Santa Maria de Sales",
+                "en": "Església de Santa Maria de Sales"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den frühen Abend für einen Besuch der beleuchteten Fassade; im Winter wirkt die kleine Kirche besonders feierlich und einladend im Dämmerlicht.",
+                "hu": "Használja ki a kora estét a kivilágított homlokzat megtekintésére; télen a kis templom különösen ünnepélyesnek és hívogatónak tűnik a szürkületben.",
+                "ro": "Profitați de seara devreme pentru a vedea fațada iluminată; iarna, mica biserică pare deosebit de solemnă și primitoare în lumina amurgului.",
+                "en": "Take advantage of the early evening to view the illuminated facade; in winter, the small church looks particularly solemn and inviting in the dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Ateneu de les Arts",
+                "hu": "Ateneu de les Arts",
+                "ro": "Ateneu de les Arts",
+                "en": "Ateneu de les Arts"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour im wohlig warmen Innenraum des Ateneu; es ist der beste Ort, um die dunkle Winterzeit mit kreativen Aktivitäten und Ausstellungen zu füllen.",
+                "hu": "Zárja a túrát az Ateneu kellemesen meleg belső terében; ez a legjobb hely, hogy a sötét téli időt kreatív tevékenységekkel és kiállításokkal töltse meg.",
+                "ro": "Încheiați turul în interiorul confortabil și cald de la Ateneu; este cel mai bun loc pentru a umple seara de iarnă cu activități creative și expoziții.",
+                "en": "End your tour in the cozy and warm interior of the Ateneu; it is the best place to fill the dark winter time with creative activities and exhibitions."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a kerékpáros napot a helytörténeti múzeumban, majd tekerjen a hangulatos Sant Pere templomhoz. A déli utazás a gávai bányák lenyűgöző régészeti parkjához és a Can Guardiola zöldellő oázisához vezet. Délután kényelmes tempóban haladjon a Santa Maria de Sales templom és a fenséges Torre del Baró felé. Utazása az impozáns Torre Roja közelében ér véget, ahogy a nap nyugovóra tér.",
         "ro": "Începeți ziua de ciclism la muzeul de istorie locală pentru a înțelege trecutul bogat, înainte de a vă îndrepta spre biserica Sant Pere. Pedalarea de la amiază vă aduce la parcul arheologic al minelor din Gavà și la oaza verde din Can Guardiola. După-amiaza, navigați ușor spre Santa Maria de Sales și maiestuosul Torre del Baró. Călătoria se încheie lângă impunătorul Torre Roja, la lăsarea serii.",
         "en": "Kick off your cycling day at the local history museum to grasp the area's rich past before heading to the charming Sant Pere church. Midday pedaling brings you to the fascinating archaeological park of the Gavà mines and the green oasis of Can Guardiola. In the afternoon, smoothly navigate towards Santa Maria de Sales and the majestic Torre del Baró. Your journey concludes near the imposing Torre Roja as the sun begins to set."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Geschichtszentrum, wo Sie trocken in den Tag finden. Achten Sie auf rutschige Radwege bei den Parks und tragen Sie unbedingt wasserfeste Kleidung. Die archäologischen Minen bieten mittags einen perfekten unterirdischen Schutz vor Güssen. Beenden Sie Ihre Tour frühzeitig an den historischen Türmen, bevor die Sicht bei starkem Regen zu stark abnimmt.",
+            "hu": "Kezdjen a Történeti Központban, ahol szárazon indul a nap. Ügyeljen a csúszós kerékpárutakra a parkoknál, és viseljen vízálló öltözetet. A régészeti bányák délben tökéletes földalatti védelmet nyújtanak a záporok elől. Fejezze be a túrát időben a történelmi tornyoknál, mielőtt a látási viszonyok az erős esőben túlságosan leromlanának.",
+            "ro": "Începeți la Centrul de Istorie, unde ziua debutează la adăpost. Atenție la pistele de biciclete alunecoase din parcuri și purtați neapărat haine impermeabile. Minele arheologice oferă la prânz un refugiu subteran perfect împotriva averselor. Încheiați turul devreme la turnurile istorice, înainte ca vizibilitatea să scadă prea mult din cauza ploii.",
+            "en": "Start at the History Center, where your day begins in the dry. Watch out for slippery bike paths near the parks and be sure to wear waterproof gear. The archaeological mines offer a perfect underground shelter from showers at noon. Finish your tour early at the historic towers before visibility drops too much in heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centre d'Història de la Ciutat",
+                "hu": "Centre d'Història de la Ciutat",
+                "ro": "Centre d'Història de la Ciutat",
+                "en": "Centre d'Història de la Ciutat"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier, um den ersten Regenschauer im Trockenen zu überbrücken; die Ausstellungen drinnen lassen Sie die Zeit vergessen, während es draußen stürmt.",
+                "hu": "Kezdje itt a napot, hogy az első esőt szárazon vészelje át; a benti kiállítások segítenek elfelejteni a kinti vihart, miközben megismeri a város múltját.",
+                "ro": "Începeți aici pentru a trece peste prima ploaie la adăpost; expozițiile din interior vă vor face să uitați de furtuna de afară în timp ce învățați despre oraș.",
+                "en": "Start here to wait out the first rain in the dry; the indoor exhibitions will make you forget the storm outside as you learn about the city's past."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Pere",
+                "hu": "Església de Sant Pere",
+                "ro": "Església de Sant Pere",
+                "en": "Església de Sant Pere"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab und nutzen Sie die Kirche für eine kurze, trockene Pause, um die sakrale Atmosphäre in Ruhe zu genießen.",
+                "hu": "Parkolja le kerékpárját az előtető alatt, és használja a templomot egy rövid, száraz pihenőre, hogy nyugodtan élvezhesse a szakrális atmoszférát.",
+                "ro": "Parcați bicicleta sub copertină și folosiți biserica pentru o scurtă pauză uscată, pentru a vă bucura în liniște de atmosfera sacră.",
+                "en": "Park your bike under the overhang and use the church for a short, dry break to quietly enjoy the sacred atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Arqueològic Mines de Gavà",
+                "hu": "Parc Arqueològic Mines de Gavà",
+                "ro": "Parc Arqueològic Mines de Gavà",
+                "en": "Parc Arqueològic Mines de Gavà"
+              },
+              "tip_5lang": {
+                "de": "Das Highlight bei Regen: Die Minen sind komplett überdacht und unterirdisch, was Ihnen eine faszinierende und völlig trockene Besichtigung garantiert.",
+                "hu": "A legjobb választás esőben: a bányák teljesen fedettek és a föld alatt találhatók, így garantáltan száraz és lenyűgöző élményben lesz része.",
+                "ro": "Cea mai bună alegere pe ploaie: minele sunt complet acoperite și se află sub pământ, garantând o experiență fascinantă și total uscată.",
+                "en": "The best choice in the rain: the mines are completely covered and underground, ensuring a fascinating and totally dry experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Can Guardiola",
+                "hu": "Parc de Can Guardiola",
+                "ro": "Parc de Can Guardiola",
+                "en": "Parc de Can Guardiola"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Parkwegen, da Schlamm und nasses Laub die Wege rutschig machen; suchen Sie bei Bedarf Schutz unter den großen Bäumen.",
+                "hu": "Kerekezzen óvatosan a park útjain, mert a sár és a vizes levelek csúszóssá teszik az utat; szükség esetén keressen menedéket a nagy fák alatt.",
+                "ro": "Pedalați cu atenție pe aleile parcului, deoarece noroiul și frunzele ude le fac alunecoase; la nevoie, căutați adăpost sub copacii mari.",
+                "en": "Cycle carefully on the park paths, as mud and wet leaves make the way slippery; seek shelter under the large trees if needed."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria de Sales",
+                "hu": "Església de Santa Maria de Sales",
+                "ro": "Església de Santa Maria de Sales",
+                "en": "Església de Santa Maria de Sales"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenjacke kurz zu lüften und die schlichte Schönheit des Innenraums zu bewundern, während Sie sich für die letzte Etappe stärken.",
+                "hu": "Ideális hely az esőkabát rövid kiszellőztetésére és a belső tér egyszerű szépségének megcsodálására, mielőtt nekivágna az utolsó szakasznak.",
+                "ro": "Un loc ideal pentru a aerisi puțin pelerina de ploaie și pentru a admira frumusețea simplă a interiorului înainte de ultima etapă.",
+                "en": "An ideal place to briefly air out your raincoat and admire the simple beauty of the interior before heading out for the final stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Baró",
+                "hu": "Torre del Baró",
+                "ro": "Torre del Baró",
+                "en": "Torre del Baró"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg mit dem Rad ist bei Regen anstrengender; belohnen Sie sich mit einer trockenen Besichtigung im Inneren des Wehrturms.",
+                "hu": "A kerékpáros feljutás esőben fárasztóbb; jutalmazza meg magát egy száraz látogatással az erődített torony belső tereiben.",
+                "ro": "Urcarea cu bicicleta este mai obositoare pe ploaie; răsplătiți-vă cu o vizită uscată în interiorul turnului fortificat.",
+                "en": "Cycling up is more tiring in the rain; reward yourself with a dry visit inside the fortified tower's rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Roja",
+                "hu": "Torre Roja",
+                "ro": "Torre Roja",
+                "en": "Torre Roja"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den Bremsweg auf dem nassen Kopfsteinpflaster rund um den Turm; das Gebäude bietet Schutz, während Sie den Panoramablick genießen.",
+                "hu": "Ügyeljen a féktávolságra a torony körüli nedves macskakövön; az épület védelmet nyújt, miközben élvezi a panorámát.",
+                "ro": "Atenție la distanța de frânare pe pavajul umed din jurul turnului; clădirea oferă protecție în timp ce vă bucurați de panoramă.",
+                "en": "Watch your braking distance on the wet cobblestones around the tower; the building provides shelter while you enjoy the panorama."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour morgens im Geschichtszentrum, um die wärmsten Stunden für die Außenstrecken zu nutzen. Die Minen von Gavà sind im Winter angenehm temperiert und ein Muss am Mittag. Planen Sie Ihre Route so, dass Sie die Aussichtspunkte an den Türmen vor dem Sonnenuntergang um 17:00 Uhr erreichen. Warme Handschuhe sind für die Abfahrten unerlässlich.",
+            "hu": "Kezdje téli túráját reggel a Történeti Központban, hogy a legmelegebb órákat a kültéri szakaszokra használhassa. A Gavà bányái télen is kellemes hőmérsékletűek, így délben kötelező program. Úgy tervezze az útvonalat, hogy a tornyok kilátópontjait a 17:00-s naplemente előtt elérje. A lejtőkhöz meleg kesztyű elengedhetetlen.",
+            "ro": "Începeți turul de iarnă dimineața la Centrul de Istorie pentru a profita de cele mai calde ore în exterior. Minele din Gavà au o temperatură plăcută iarna, fiind un punct obligatoriu la prânz. Planificați traseul astfel încât să ajungeți la turnuri înainte de apusul de la ora 17:00. Mănușile groase sunt esențiale pentru coborâri.",
+            "en": "Start your winter tour in the morning at the History Center to use the warmest hours for outdoor stretches. The Gavà mines are pleasantly tempered even in winter, making them a must at noon. Plan your route to reach the tower viewpoints before the 17:00 sunset. Warm gloves are essential for the descents."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centre d'Història de la Ciutat",
+                "hu": "Centre d'Història de la Ciutat",
+                "ro": "Centre d'Història de la Ciutat",
+                "en": "Centre d'Història de la Ciutat"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch am Morgen, wenn es draußen noch am kältesten ist; die beheizten Räume machen das Lernen über Viladecans sehr angenehm.",
+                "hu": "Használja ki a múzeumlátogatást reggel, amikor kint még a leghidegebb van; a fűtött termekben kényelmesen ismerkedhet meg Viladecans múltjával.",
+                "ro": "Profitați de vizita la muzeu dimineața, când afară este cel mai frig; sălile încălzite fac învățarea despre Viladecans foarte plăcută.",
+                "en": "Take advantage of the museum visit in the morning when it's coldest outside; the heated rooms make learning about Viladecans very comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Pere",
+                "hu": "Església de Sant Pere",
+                "ro": "Església de Sant Pere",
+                "en": "Església de Sant Pere"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze Pause im windgeschützten Innenraum hilft, die Körperwärme zu halten, bevor Sie die Fahrt durch den kühlen Winterwind fortsetzen.",
+                "hu": "Egy rövid szünet a szélvédett belső térben segít megőrizni a testhőmérsékletet, mielőtt folytatná az utat a hűvös téli szélben.",
+                "ro": "O scurtă pauză în interiorul ferit de vânt ajută la menținerea căldurii corporale înainte de a continua drumul prin vântul rece de iarnă.",
+                "en": "A short break in the wind-sheltered interior helps maintain body heat before continuing the ride through the cool winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Arqueològic Mines de Gavà",
+                "hu": "Parc Arqueològic Mines de Gavà",
+                "ro": "Parc Arqueològic Mines de Gavà",
+                "en": "Parc Arqueològic Mines de Gavà"
+              },
+              "tip_5lang": {
+                "de": "In den Minen herrschen das ganze Jahr über konstante Temperaturen; im Winter fühlt es sich hier angenehm warm an im Vergleich zur Außenluft.",
+                "hu": "A bányákban egész évben állandó a hőmérséklet; télen itt kifejezetten kellemes melegnek érzi majd a levegőt a kinti fagyos szélhez képest.",
+                "ro": "În mine temperaturile sunt constante tot anul; iarna, aici se simte plăcut de cald în comparație cu aerul de afară.",
+                "en": "The mines maintain constant temperatures year-round; in winter, it feels pleasantly warm here compared to the frosty outside air."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Can Guardiola",
+                "hu": "Parc de Can Guardiola",
+                "ro": "Parc de Can Guardiola",
+                "en": "Parc de Can Guardiola"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Wintersonne auf den Freiflächen des Parks; die Bewegung hält Sie warm, während Sie die ruhige Naturlandschaft durchqueren.",
+                "hu": "Élvezze a tiszta téli napsütést a park nyitott területein; a mozgás melegen tartja, miközben áthalad a csendes természeti tájon.",
+                "ro": "Bucurați-vă de soarele clar de iarnă în zonele deschise ale parcului; mișcarea vă ține de cald în timp ce traversați peisajul natural liniștit.",
+                "en": "Enjoy the clear winter sun in the open areas of the park; the movement keeps you warm while you cross the quiet natural landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria de Sales",
+                "hu": "Església de Santa Maria de Sales",
+                "ro": "Església de Santa Maria de Sales",
+                "en": "Església de Santa Maria de Sales"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche ist ein guter Ort für eine windstille Rast; bewundern Sie die schlichte Bauweise, bevor die Sonne tiefer sinkt.",
+                "hu": "A kis templom remek hely egy szélcsendes pihenőhöz; csodálja meg az egyszerű építészeti stílust, mielőtt a nap lejjebb süllyedne.",
+                "ro": "Mica biserică este un loc bun pentru o odihnă ferită de vânt; admirați stilul arhitectural simplu înainte ca soarele să apună.",
+                "en": "The small church is a great spot for a windless rest; admire the simple architectural style before the sun sinks lower."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Baró",
+                "hu": "Torre del Baró",
+                "ro": "Torre del Baró",
+                "en": "Torre del Baró"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Punkt vor 16:30 Uhr, um das goldene Winterlicht auf den Feldern zu sehen; oben kann es durch den Wind sehr kühl sein.",
+                "hu": "Érjen ide 16:30 előtt, hogy láthassa a mezőket megvilágító aranybarna téli fényt; fent a szél miatt nagyon hűvös lehet a hőmérséklet.",
+                "ro": "Ajungeți aici înainte de 16:30 pentru a vedea lumina aurie de iarnă pe câmpuri; sus, din cauza vântului, temperatura poate fi foarte scăzută.",
+                "en": "Arrive here before 16:30 to see the golden winter light on the fields; it can be very cool at the top due to the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Roja",
+                "hu": "Torre Roja",
+                "ro": "Torre Roja",
+                "en": "Torre Roja"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier im warmen Licht des Sonnenuntergangs; die historische Anlage wirkt in der klaren Winterdämmerung besonders majestätisch.",
+                "hu": "Zárja itt a túrát a naplemente meleg fényeiben; a történelmi épületegyüttes különösen fenségesnek tűnik a tiszta téli alkonyatban.",
+                "ro": "Încheiați turul aici în culorile calde ale apusului; ansamblul istoric pare deosebit de maiestuos în amurgul clar de iarnă.",
+                "en": "Finish your tour here in the warm sunset colors; the historic complex looks particularly majestic in the clear winter dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "A reggeli autózás lélegzetelállító természeti kilátással kezdődik a Montbaig hegyen, távol a város zajától. Dél körül fedezze fel a Barra de Vinya és a Barraca de Vinya történelmi vidéki építményeit. Délután térjen vissza a város határaihoz, hogy megcsodálja a Torre Roja és a Torre del Baró középkori építészetét. Az este a régészeti parknál és a la Font Groga frissítő állomásánál ér véget.",
         "ro": "Plimbarea de dimineață începe cu priveliști naturale uluitoare la Montbaig, departe de agitația urbană. În jurul prânzului, explorați structurile rurale istorice de la Barra de Vinya și Barraca de Vinya. După-amiaza, reveniți la marginile orașului pentru a admira arhitectura medievală a Torre Roja și Torre del Baró. Seara se încheie la parcul arheologic și o oprire răcoritoare la la Font Groga.",
         "en": "Your morning drive begins with breathtaking natural vistas at Montbaig, far above the urban bustle. Around midday, explore the historic rural structures of Barra de Vinya and Barraca de Vinya, offering a rustic contrast. In the afternoon, return to the city limits to marvel at the medieval architecture of Torre Roja and Torre del Baró. The evening wraps up at the archaeological park and a refreshing stop at la Font Groga."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Komfort des Autos, um zwischen den Sehenswürdigkeiten trocken zu bleiben. Am Montbaig kann die Sicht bei Regen eingeschränkt sein, fahren Sie vorsichtig auf den kurvigen Straßen. Die archäologischen Minen bieten mittags ein perfektes Indoor-Erlebnis. Den Abend verbringen Sie entspannt bei der Font Groga, wo das prasselnde Regenwasser für eine besondere Atmosphäre sorgt.",
+            "hu": "Használja ki az autó kényelmét, hogy szárazon közlekedjen a látnivalók között. A Montbaig-nál esőben korlátozott lehet a látótávolság, óvatosan vezessen a kanyargós utakon. A régészeti bányák délben tökéletes beltéri élményt nyújtanak. Az estét töltse pihentetően a Font Groga-nál, ahol az eső kopogása különleges hangulatot áraszt.",
+            "ro": "Folosiți confortul mașinii pentru a rămâne uscat între obiective. La Montbaig, vizibilitatea poate fi redusă pe ploaie, conduceți cu atenție pe drumurile sinuoase. Minele arheologice oferă la prânz o experiență de interior perfectă. Încheiați seara relaxat la Font Groga, unde sunetul ploii creează o atmosferă deosebită.",
+            "en": "Use the car's comfort to stay dry between sights. At Montbaig, visibility may be limited in the rain, so drive carefully on the winding roads. The archaeological mines offer a perfect indoor experience at noon. Spend a relaxing evening at Font Groga, where the sound of pattering rain creates a unique atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Montbaig",
+                "hu": "Montbaig",
+                "ro": "Montbaig",
+                "en": "Montbaig"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bei starkem Regen vorsichtig den Hügel hinauf; die Wolken, die tief über den Gipfeln hängen, bieten eine mystische und seltene Fotokulisse.",
+                "hu": "Erős esőben vezessen óvatosan fel a dombra; a csúcsok felett alacsonyan lógó felhők misztikus és ritka fotótémát kínálnak a látogatóknak.",
+                "ro": "Conduceți cu atenție pe deal în timpul ploii abundente; norii care plutesc jos deasupra culmilor oferă un cadru fotografic mistic și rar.",
+                "en": "Drive carefully up the hill during heavy rain; the low-hanging clouds over the peaks provide a mystical and rare photo opportunity."
+              }
+            },
+            {
+              "name": {
+                "de": "Barra de Vinya de L'Ermita de Sant Ramon",
+                "hu": "Barra de Vinya de L'Ermita de Sant Ramon",
+                "ro": "Barra de Vinya de L'Ermita de Sant Ramon",
+                "en": "Barra de Vinya de L'Ermita de Sant Ramon"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der Nähe der Eremitage, falls ein Schauer einsetzt; der Panoramablick auf die Küste ist auch bei grauem Himmel beeindruckend.",
+                "hu": "Keressen menedéket a remetelak közelében, ha elered az eső; a tengerparti panoráma még szürke égbolt mellett is lenyűgöző látványt nyújt.",
+                "ro": "Căutați adăpost lângă schit dacă începe ploaia; panorama de pe coastă este impresionantă chiar și sub un cer cenușiu.",
+                "en": "Seek shelter near the hermitage if it starts to rain; the coastal panorama is impressive even under a grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Barraca de Vinya",
+                "hu": "Barraca de Vinya",
+                "ro": "Barraca de Vinya",
+                "en": "Barraca de Vinya"
+              },
+              "tip_5lang": {
+                "de": "Diese kleinen Feldhütten dienten früher als Regenschutz für Weinbauern; nutzen Sie die Gelegenheit, um die historische Architektur aus nächster Nähe zu sehen.",
+                "hu": "Ezek a kis mezei kunyhók régen a szőlőműveseknek nyújtottak védelmet az eső elől; használja ki az alkalmat a történelmi építmények megtekintésére.",
+                "ro": "Aceste mici colibe de câmp serveau odinioară drept adăpost împotriva ploii pentru viticultori; profitați de ocazie pentru a vedea structurile istorice.",
+                "en": "These small field huts once provided rain shelter for vineyard workers; take the opportunity to see the historic structures up close."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Roja",
+                "hu": "Torre Roja",
+                "ro": "Torre Roja",
+                "en": "Torre Roja"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regenweg kurz zu halten; im Inneren des Gebäudes finden Sie spannende historische Informationen im Trockenen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy lerövidítse az utat az esőben; az épület belsejében szárazon ismerkedhet meg a történelemmel.",
+                "ro": "Parcați cât mai aproape de intrare pentru a scurta drumul prin ploaie; în interiorul clădirii puteți afla informații istorice la adăpost.",
+                "en": "Park as close to the entrance as possible to shorten the walk in the rain; inside the building, you can learn about history while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Baró",
+                "hu": "Torre del Baró",
+                "ro": "Torre del Baró",
+                "en": "Torre del Baró"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus den Fenstern des Turms auf die regnerische Landschaft; das massive Mauerwerk vermittelt ein Gefühl von Geborgenheit und Schutz.",
+                "hu": "Élvezze a torony ablakaiból nyíló kilátást az esős tájra; a masszív falak a biztonság és a védettség érzését keltik a látogatóban.",
+                "ro": "Bucurați-vă de vederea prin ferestrele turnului asupra peisajului ploios; zidăria masivă oferă o senzație de siguranță și protecție.",
+                "en": "Enjoy the view from the tower windows over the rainy landscape; the massive stone walls provide a sense of security and shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Arqueològic Mines de Gavà",
+                "hu": "Parc Arqueològic Mines de Gavà",
+                "ro": "Parc Arqueològic Mines de Gavà",
+                "en": "Parc Arqueològic Mines de Gavà"
+              },
+              "tip_5lang": {
+                "de": "Die Minen sind das perfekte Ziel für einen Regentag, da die gesamte Besichtigung unter Tage stattfindet und Sie völlig trocken bleiben.",
+                "hu": "A bányák tökéletes célpontot jelentenek egy esős napon, mivel a teljes látogatás a föld alatt zajlik, így Ön teljesen száraz marad.",
+                "ro": "Minele sunt destinația perfectă pentru o zi ploioasă, deoarece întreaga vizită are loc sub pământ și veți rămâne complet uscat.",
+                "en": "The mines are the perfect destination for a rainy day, as the entire visit takes place underground, ensuring you stay completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "la Font Groga",
+                "hu": "la Font Groga",
+                "ro": "la Font Groga",
+                "en": "la Font Groga"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen die Quelle speist; bleiben Sie im Auto sitzen, um das Naturschauspiel entspannt aus der warmen Fahrgastzelle zu betrachten.",
+                "hu": "Figyelje meg, ahogy az eső táplálja a forrást; maradjon az autóban, hogy kényelmesen, a meleg utastérből csodálhassa meg a természeti jelenséget.",
+                "ro": "Observați cum ploaia alimentează izvorul; rămâneți în mașină pentru a admira fenomenul natural confortabil, din habitaclul cald.",
+                "en": "Watch how the rain feeds the spring; stay in the car to comfortably admire the natural phenomenon from the warm interior."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Autotour morgens am Montbaig, um die klare Fernsicht der Winterluft zu genießen. Die historische Barraca de Vinya lässt sich auch bei kühleren Temperaturen schnell besichtigen. Denken Sie daran, dass die Sonne gegen 17:00 Uhr untergeht – planen Sie die Minen von Gavà für den späten Nachmittag ein. Beenden Sie den Tag gemütlich im warmen Wagen bei der Font Groga.",
+            "hu": "Kezdje autós túráját reggel a Montbaig-nál, hogy élvezhesse a téli levegő tiszta tálati kilátását. A történelmi Barraca de Vinya hűvösebb időben is gyorsan megtekinthető. Ne feledje, hogy a nap 17:00 körül nyugszik, így a Gavà bányáit késő délutánra ütemezze. Zárja a napot kényelmesen a meleg autóban a Font Groga-nál.",
+            "ro": "Începeți turul cu mașina dimineața la Montbaig pentru a profita de vizibilitatea clară a aerului de iarnă. Istorica Barraca de Vinya poate fi vizitată rapid chiar și pe frig. Nu uitați că soarele apune în jurul orei 17:00, deci planificați minele din Gavà pentru după-amiaza târziu. Încheiați ziua confortabil în mașina caldă la Font Groga.",
+            "en": "Start your car tour in the morning at Montbaig to enjoy the clear distant views of the winter air. The historic Barraca de Vinya can be visited quickly even in cooler temperatures. Remember that the sun sets around 17:00, so schedule the Gavà mines for late afternoon. End the day comfortably in your warm car at Font Groga."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Montbaig",
+                "hu": "Montbaig",
+                "ro": "Montbaig",
+                "en": "Montbaig"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft bietet hier oben eine außergewöhnliche Klarheit; genießen Sie den weiten Blick über das verschlafene Delta bequem vom Parkplatz aus.",
+                "hu": "A téli levegő rendkívüli tisztaságot kínál itt fent; élvezze a tágas kilátást az alvó deltára kényelmesen, közvetlenül a parkolóból.",
+                "ro": "Aerul de iarnă oferă o claritate extraordinară aici sus; bucurați-vă de vederea vastă asupra deltei adormite confortabil, direct din parcare.",
+                "en": "The winter air offers exceptional clarity up here; enjoy the wide view over the sleeping delta comfortably, right from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Barra de Vinya de L'Ermita de Sant Ramon",
+                "hu": "Barra de Vinya de L'Ermita de Sant Ramon",
+                "ro": "Barra de Vinya de L'Ermita de Sant Ramon",
+                "en": "Barra de Vinya de L'Ermita de Sant Ramon"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Spaziergang vom Auto zur Eremitage ist bei der tiefstehenden Wintersonne besonders malerisch; nehmen Sie eine Thermoskanne mit warmem Tee mit.",
+                "hu": "Az autótól a remetelakig tartó rövid séta az alacsonyan járó téli napfényben különösen festői; vigyen magával egy termoszt meleg teával.",
+                "ro": "Scurta plimbare de la mașină la schit este deosebit de pitorească în lumina soarelui de iarnă; luați cu voi un termos cu ceai cald.",
+                "en": "The short walk from the car to the hermitage is particularly picturesque in the low winter sun; bring along a thermos with warm tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Barraca de Vinya",
+                "hu": "Barraca de Vinya",
+                "ro": "Barraca de Vinya",
+                "en": "Barraca de Vinya"
+              },
+              "tip_5lang": {
+                "de": "Diese steinernen Zeitzeugen wirken in der kargen Winterlandschaft besonders markant; halten Sie kurz an für ein schnelles Foto in der klaren Luft.",
+                "hu": "Ezek a kőből készült tanújelek a kopár téli tájban különösen hangsúlyosak; álljon meg egy rövid időre egy gyors fotóra a tiszta levegőben.",
+                "ro": "Acești martori de piatră par deosebit de evidenți în peisajul golaș de iarnă; opriți scurt pentru o fotografie rapidă în aerul curat.",
+                "en": "These stone witnesses look particularly striking in the barren winter landscape; stop briefly for a quick photo in the clear air."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Roja",
+                "hu": "Torre Roja",
+                "ro": "Torre Roja",
+                "en": "Torre Roja"
+              },
+              "tip_5lang": {
+                "de": "Die roten Steine speichern tagsüber die Wärme der Wintersonne; nutzen Sie den geschützten Innenhof für eine kurze, sonnige Pause im Freien.",
+                "hu": "A vörös kövek napközben elraktározzák a téli nap melegét; használja ki a védett belső udvart egy rövid, napsütéses szabadtéri pihenőre.",
+                "ro": "Pietrele roșii înmagazinează căldura soarelui de iarnă în timpul zilei; folosiți curtea interioară ferită pentru o scurtă pauză la soare.",
+                "en": "The red stones store the winter sun's warmth during the day; use the sheltered courtyard for a short, sunny outdoor break."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Baró",
+                "hu": "Torre del Baró",
+                "ro": "Torre del Baró",
+                "en": "Torre del Baró"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm kurz vor Sonnenuntergang, wenn das weiche Licht die Landschaft in warme Töne taucht; das Auto wartet direkt nebenan zum Aufwärmen.",
+                "hu": "Látogassa meg a tornyot közvetlenül naplemente előtt, amikor a lágy fények meleg tónusokba öltöztetik a tájat; az autó a közelben várja a felmelegedést.",
+                "ro": "Vizitați turnul chiar înainte de apus, când lumina blândă scaldă peisajul în tonuri calde; mașina vă așteaptă aproape pentru a vă încălzi.",
+                "en": "Visit the tower just before sunset when the soft light bathes the landscape in warm tones; the car is waiting nearby for you to warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Arqueològic Mines de Gavà",
+                "hu": "Parc Arqueològic Mines de Gavà",
+                "ro": "Parc Arqueològic Mines de Gavà",
+                "en": "Parc Arqueològic Mines de Gavà"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort für den späten Nachmittag, da es unter Tage beleuchtet und angenehm temperiert ist, während es draußen bereits dunkel und kühl wird.",
+                "hu": "Kiváló helyszín késő délutánra, mivel a föld alatt kivilágított és kellemes hőmérsékletű helyen lesz, miközben kint már sötétedik és hűl a levegő.",
+                "ro": "Un loc excelent pentru după-amiaza târziu, fiind luminat și cu o temperatură plăcută sub pământ, în timp ce afară se întunecă și se răcește.",
+                "en": "An excellent spot for late afternoon, as it's illuminated and pleasantly tempered underground while it gets dark and cool outside."
+              }
+            },
+            {
+              "name": {
+                "de": "la Font Groga",
+                "hu": "la Font Groga",
+                "ro": "la Font Groga",
+                "en": "la Font Groga"
+              },
+              "tip_5lang": {
+                "de": "Die Quelle wirkt in der winterlichen Stille besonders friedlich; genießen Sie den Moment der Ruhe im warmen Wagen, bevor Sie den Heimweg antreten.",
+                "hu": "A forrás a téli csendben különösen békésnek tűnik; élvezze a nyugalom pillanatát a meleg autóban, mielőtt elindulna hazafelé.",
+                "ro": "Izvorul pare deosebit de liniștit în tăcerea iernii; bucurați-vă de momentul de pace în mașina caldă înainte de a porni spre casă.",
+                "en": "The spring looks particularly peaceful in the winter silence; enjoy a moment of tranquility in your warm car before heading home."
+              }
+            }
+          ]
+        }
       }
     }
   }

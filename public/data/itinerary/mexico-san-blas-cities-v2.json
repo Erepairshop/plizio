@@ -160,6 +160,196 @@
         "hu": "Délelőtt: A titokzatos Piedra Bola-nál kezdünk, mielőtt elmerülnénk a San Basilio erőd lenyűgöző romjaiban, élvezve a korai öbölbeli kilátást.\n\nDélben: San Blas szíve vár ránk, miközben felfedezzük a nyüzsgő helyi tereket, és árnyékos padok között tisztelgünk Mercado és Juárez hősei előtt.\n\nDélután: A vízpart és a legendás San Blas móló felé tartunk, hallgatva a hullámokat és figyelve a visszatérő helyi halászokat.\n\nEste: Sétánk Fray Junípero Serra történelmi emlékművénél ér véget, ahonnan tökéletes helyen lesz, hogy élvezze a friss tenger gyümölcseit a közelben.",
         "ro": "Dimineața: Începem la misterioasa Piedra Bola înainte de a ne adânci în ruinele fascinante ale Fortului San Basilio, bucurându-ne de primele vederi ale golfului.\n\nLa amiază: Inima orașului San Blas ne așteaptă explorând piețele locale pline de viață, onorând eroi precum Mercado și Juárez printre băncile umbrite.\n\nDupă-amiaza: Ne îndreptăm spre malul apei și spre legendarul Debarcader San Blas, ascultând valurile și urmărind pescarii locali care se întorc.\n\nSeara: Turul nostru pietonal se încheie la monumentul istoric al lui Fray Junípero Serra, lăsându-vă perfect plasați pentru a savura fructe de mare proaspete în apropiere.",
         "en": "Morning: We start at the mysterious Piedra Bola before delving into the fascinating ruins of Fuerte de San Basilio, soaking up early bay views.\n\nMidday: The heart of San Blas awaits as we explore the lively local squares, honoring heroes like Mercado and Juárez among shaded benches.\n\nAfternoon: We head towards the waterfront to the legendary Muelle de San Blas, listening to the waves and watching local fishermen return.\n\nEvening: Our walking tour concludes at the historic monument of Fray Junípero Serra, leaving you perfectly placed to enjoy fresh seafood nearby."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Piedra Bola, wo die Gischt mit dem Regen verschmilzt. Ein robuster Schirm ist hier unerlässlich. Mittags bietet die Festung San Basilio Schutz, doch die alten Steine sind bei Nässe tückisch glatt.\n\nNachmittags schlendern Sie durch die Gassen zum Markt und Denkmal. Nutzen Sie die Vordächer der Häuser, um trocken zu bleiben. Der Abend am Pier ist dramatisch, wenn die Wolken tief über dem Pazifik hängen. Suchen Sie sich rechtzeitig ein überdachtes Plätzchen.",
+            "hu": "A reggel a Piedra Bolánál indul, ahol az eső és a tengeri permet összeér; egy szélálló esernyő kötelező. Délben a San Basilio erőd falai között kereshetünk menedéket, de a vizes kőlépcsőkön óvatosan lépkedjünk.\n\nDélután a belvárosi emlékművek felé vesszük az irányt, ahol az épületek ereszei nyújtanak oltalmat. Az este a mólónál zárul, ahol a viharos óceán látványa lenyűgöző. Érdemes egy fedett teraszt keresni a nap végére.",
+            "ro": "Dimineața începe la Piedra Bola, unde stropii de ploaie se amestecă cu briza mării; o umbrelă rezistentă este esențială. La prânz, fortul San Basilio oferă adăpost, dar mare atenție la treptele de piatră care devin alunecoase.\n\nDupă-amiaza, plimbarea continuă spre monumentele centrale, folosind streșinile clădirilor pentru protecție. Seara la debarcader este spectaculoasă, cu nori joși deasupra Pacificului. Încheiați ziua într-un loc acoperit, admirând ploaia.",
+            "en": "The morning starts at Piedra Bola, where rain meets the sea spray; a sturdy umbrella is a must. At noon, the San Basilio Fort provides some shelter, but be very careful as the old stone surfaces become treacherous when wet.\n\nIn the afternoon, stroll towards the central monuments, using the building eaves to stay dry. The evening at the pier is dramatic with low clouds over the Pacific. Finish your walk at a covered spot to enjoy the atmospheric rainy coastal views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piedra Bola de Ahualulco",
+                "hu": "Piedra Bola de Ahualulco",
+                "ro": "Piedra Bola de Ahualulco",
+                "en": "Piedra Bola de Ahualulco"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die markante Steinkugel inmitten der Brandung; tragen Sie wasserfeste Schuhe, da der Boden um das Naturdenkmal bei Regen sehr schlammig wird.",
+                "hu": "Csodálja meg a különleges kőgolyót a morajló hullámok közt; viseljen vízálló cipőt, mert az emlékmű körüli talaj esőben hamar felázik és sárossá válik.",
+                "ro": "Admirați sfera de piatră neobișnuită în mijlocul valurilor; purtați încălțăminte impermeabilă, deoarece terenul din jurul monumentului devine foarte noroios pe ploaie.",
+                "en": "Admire the unique stone sphere amidst the crashing waves; wear waterproof shoes as the ground around the natural monument becomes very muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte de San Basilio",
+                "hu": "San Basilio Erőd",
+                "ro": "Fortul San Basilio",
+                "en": "San Basilio Fort"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Ruinen und suchen Sie unter den Torbögen Schutz; halten Sie sich an den Mauern fest, da die nassen Algen auf dem Stein extrem glatt sind.",
+                "hu": "Fedezze fel a történelmi romokat és keressen menedéket a boltívek alatt; kapaszkodjon meg a falakban, mert a nedves kövek felülete rendkívül csúszós lehet.",
+                "ro": "Explorați ruinele istorice și căutați adăpost sub arcade; sprijiniți-vă de ziduri, deoarece piatra umedă poate fi extrem de alunecoasă în timpul ploii.",
+                "en": "Explore the historic ruins and seek shelter under the stone arches; hold onto the walls as the wet stone surfaces can be extremely slippery during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "José María Mercado",
+                "hu": "José María Mercado",
+                "ro": "José María Mercado",
+                "en": "José María Mercado"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp an der Statue des Unabhängigkeitshelden; nutzen Sie die nahegelegenen Arkaden der Plaza, um das Denkmal ohne nass zu werden zu betrachten.",
+                "hu": "Gyors megálló a függetlenségi hős szobránál; használja a közeli főtér árkádjait, hogy szárazon maradhasson, miközben az emlékművet szemléli.",
+                "ro": "O scurtă oprire la statuia eroului independenței; folosiți arcadele pieței din apropiere pentru a observa monumentul fără a vă uda prea tare.",
+                "en": "A quick stop at the independence hero's statue; use the nearby plaza arcades to observe the monument while staying dry from the tropical drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Benito Juárez Denkmal",
+                "hu": "Benito Juárez Emlékmű",
+                "ro": "Monumentul Benito Juárez",
+                "en": "Benito Juárez Monument"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal im Zentrum; die umliegenden Cafés bieten eine perfekte Gelegenheit für eine Pause, bis der stärkste Regen etwas nachlässt.",
+                "hu": "Látogasson el a központi emlékműhöz; a környékbeli kávézók tökéletes helyszínt biztosítanak egy rövid pihenőre, amíg a hevesebb zápor elvonul.",
+                "ro": "Vizitați monumentul din centru; cafenelele din jur oferă o oportunitate excelentă pentru o pauză până când ploaia torențială se mai domolește puțin.",
+                "en": "Visit the central monument; the surrounding cafes offer a perfect spot for a break until the heaviest rain passes so you can continue your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Muelle de San Blas",
+                "hu": "San Blas Móló",
+                "ro": "Debarcaderul San Blas",
+                "en": "San Blas Pier"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das graue Meer vom Pier aus; bleiben Sie unter den überdachten Bereichen der Hafengebäude, um sich vor dem peitschenden Wind zu schützen.",
+                "hu": "Figyelje a szürke tengert a mólóról; maradjon a kikötői épületek fedett részei alatt, hogy megvédje magát a csapkodó esőtől és a széltől.",
+                "ro": "Observați marea cenușie de pe debarcader; rămâneți sub zonele acoperite ale clădirilor portuare pentru a vă proteja de vântul tăios și ploaie.",
+                "en": "Watch the grey sea from the pier; stay under the covered sections of the harbor buildings to protect yourself from the wind-driven rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fray Junípero Serra",
+                "hu": "Fray Junípero Serra",
+                "ro": "Fray Junípero Serra",
+                "en": "Fray Junípero Serra"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour an diesem geschichtsträchtigen Ort; achten Sie auf die tiefen Pfützen, die sich am Abend oft auf den umliegenden Wegen bilden.",
+                "hu": "Zárja túráját ezen a nagy múltú helyszínen; ügyeljen a mély tócsákra, amelyek az esti órákra gyakran összegyűlnek a környező utakon.",
+                "ro": "Încheiați turul în acest loc plin de istorie; atenție la bălțile adânci care se formează adesea pe potecile din jur spre lăsarea serii.",
+                "en": "End your tour at this historic site; watch out for deep puddles that often accumulate on the surrounding paths by the evening hours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist mild und perfekt für einen Spaziergang zur Piedra Bola. Die Luft ist klar und die Sonne brennt noch nicht. Mittags erklimmen Sie die Festung San Basilio, was bei den kühleren Temperaturen deutlich angenehmer ist als im Sommer.\n\nNachmittags genießen Sie die entspannte Atmosphäre im Ort. Die tiefstehende Wintersonne taucht die Denkmäler in ein warmes Licht. Beachten Sie, dass es gegen 17:00 Uhr bereits dunkel wird. Beenden Sie den Tag rechtzeitig am Pier, bevor die kühle Abendbrise einsetzt.",
+            "hu": "A téli reggel enyhe és tökéletes egy sétához a Piedra Bolánál; a levegő friss, a nap pedig még nem tűz. Délben a San Basilio erőd megmászása sokkal kényelmesebb a hűvösebb időben, mint a nyári hőségben.\n\nDélután élvezze a kisváros nyugodt hangulatát; a lemenő nap fénye aranyba vonja az emlékműveket. Ne feledje, hogy 17:00 körül már sötétedik. Zárja a napot a mólónál, mielőtt a hűvös esti tengeri szél megérkezne.",
+            "ro": "Dimineața de iarnă este blândă, perfectă pentru o plimbare spre Piedra Bola; aerul este curat, iar soarele nu arde încă. La prânz, urcarea spre fortul San Basilio este mult mai confortabilă la aceste temperaturi decât în timpul verii.\n\nDupă-amiaza, bucurați-vă de atmosfera relaxată a orașului; lumina caldă a soarelui pune monumentele într-o lumină superbă. Rețineți că se întunecă în jurul orei 17:00. Încheiați ziua la debarcader înainte să apară briza răcoroasă de seară.",
+            "en": "The winter morning is mild and perfect for a walk to Piedra Bola; the air is fresh and the sun is not yet intense. At noon, climbing to San Basilio Fort is much more comfortable in the cooler temperatures than in the summer heat.\n\nIn the afternoon, enjoy the town's relaxed atmosphere; the low winter sun bathes the monuments in a warm glow. Keep in mind that sunset is around 17:00. Finish your day at the pier before the chilly evening sea breeze kicks in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piedra Bola de Ahualulco",
+                "hu": "Piedra Bola de Ahualulco",
+                "ro": "Piedra Bola de Ahualulco",
+                "en": "Piedra Bola de Ahualulco"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Meeresbrise am Morgen; eine leichte Jacke ist ratsam, da der Wind im Winter direkt an der Küste recht kühl sein kann.",
+                "hu": "Élvezze a friss reggeli tengeri szellőt; egy könnyű dzseki ajánlott, mert a szél télen közvetlenül a parton elég hűvös lehet.",
+                "ro": "Bucurați-vă de briza proaspătă a mării dimineața; o jachetă ușoară este recomandată, deoarece vântul de iarnă poate fi destul de rece chiar pe mal.",
+                "en": "Enjoy the fresh morning sea breeze; a light jacket is recommended as the winter wind directly on the shore can be quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte de San Basilio",
+                "hu": "San Basilio Erőd",
+                "ro": "Fortul San Basilio",
+                "en": "San Basilio Fort"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für fantastische Panoramafotos von der Festung aus; die Sicht auf den Ozean ist zu dieser Jahreszeit am besten.",
+                "hu": "Használja ki a tiszta téli fényeket az erődből nyíló panorámafotókhoz; a látótávolság az óceán felé az év ezen szakaszában a legjobb.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii panoramice superbe de la fort; vizibilitatea spre ocean este cea mai bună în această perioadă a anului.",
+                "en": "Take advantage of the clear winter light for fantastic panoramic photos from the fort; the visibility out to the ocean is best during this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "José María Mercado",
+                "hu": "José María Mercado",
+                "ro": "José María Mercado",
+                "en": "José María Mercado"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Spaziergang zur Statue im milden Sonnenschein; die Mittagshitze ist im Winter kein Hindernis für eine ausführliche Besichtigung.",
+                "hu": "Kellemes séta a szoborhoz a lágy napsütésben; a téli időszakban a délutáni meleg nem akadályozza a város alapos felfedezését.",
+                "ro": "O plimbare relaxantă la statuie sub soarele blând; căldura de la amiază nu este un obstacol pentru o vizitare detaliată în timpul iernii.",
+                "en": "A relaxed stroll to the statue in the mild sunshine; the afternoon heat is not an obstacle for a detailed exploration during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Benito Juárez Denkmal",
+                "hu": "Benito Juárez Emlékmű",
+                "ro": "Monumentul Benito Juárez",
+                "en": "Benito Juárez Monument"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie kurz am Denkmal, bevor die Schatten länger werden; im Winter bietet der Platz eine ruhige und angenehme Atmosphäre ohne Touristenmassen.",
+                "hu": "Időzzön el az emlékműnél, mielőtt megnyúlnának az árnyékok; télen a tér nyugodt és kellemes hangulatot áraszt a turistatömegek nélkül.",
+                "ro": "Zăboviți puțin la monument înainte ca umbrele să se lungească; iarna, piața oferă o atmosferă liniștită și plăcută, fără mulțimile de turiști.",
+                "en": "Linger at the monument before the shadows lengthen; in winter, the plaza offers a calm and pleasant atmosphere without the usual tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Muelle de San Blas",
+                "hu": "San Blas Móló",
+                "ro": "Debarcaderul San Blas",
+                "en": "San Blas Pier"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Pier vor 16:30 Uhr, um den Sonnenuntergang nicht zu verpassen; ziehen Sie sich eine zusätzliche Schicht an, sobald die Sonne sinkt.",
+                "hu": "Érjen a mólóhoz délután fél öt előtt, hogy ne maradjon le a naplementéről; vegyen fel egy plusz réteg ruhát, amint a nap bukni kezd.",
+                "ro": "Ajungeți la debarcader înainte de 16:30 pentru a nu rata apusul; puneți-vă un strat suplimentar de haine imediat ce soarele începe să coboare.",
+                "en": "Reach the pier before 16:30 to make sure you don't miss the sunset; put on an extra layer of clothing as soon as the sun starts to dip."
+              }
+            },
+            {
+              "name": {
+                "de": "Fray Junípero Serra",
+                "hu": "Fray Junípero Serra",
+                "ro": "Fray Junípero Serra",
+                "en": "Fray Junípero Serra"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag an diesem Denkmal; das warme künstliche Licht der Stadt am frühen Abend verleiht dem Ort eine besondere historische Aura.",
+                "hu": "Zárja a napot ennél az emlékműnél; a város korai esti mesterséges fényei különleges, történelmi hangulatot kölcsönöznek a helyszínnek.",
+                "ro": "Încheiați ziua la acest monument; luminile orașului de la începutul serii oferă locului o aură istorică deosebită în timpul iernii.",
+                "en": "End the day at this monument; the city's early evening artificial lights give the site a special historic aura during the winter season."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Délelőtt: Kezdje útját a San Basilio erőd megmászásával, ahonnan panorámás kilátás nyílik, majd guruljon le a titokzatos Piedra Bola felé.\n\nDélben: Tekerjen át történelmi tereken, álljon meg olyan műemlékeknél, mint a Niños Héroes, és ismerje meg San Blas gazdag történelmi örökségét.\n\nDélután: Cirkáljon dél felé a híres El Borrego strandhoz, cserélje le a nyerget a puha homokra, és élvezze a frissítő óceáni szellőt.\n\nEste: Tovább lovagolunk a Hotel Playa Hermosa romjai felé, felfedezve annak elhagyatott nagyszerűségét, miközben a nap lenyugszik az aranyló horizonton.",
         "ro": "Dimineața: Începeți-vă plimbarea urcând la Fortul San Basilio pentru vederi panoramice, apoi coborâți lin către misterioasa Piedra Bola.\n\nLa amiază: Pedalați prin piețe istorice, oprindu-vă la monumente precum Niños Héroes, pentru a surprinde patrimoniul bogat al orașului San Blas.\n\nDupă-amiaza: Călătoriți spre sud către faimoasa plajă El Borrego, schimbând șaua bicicletei pe nisipul moale și bucurându-vă de briza oceanului.\n\nSeara: Ne îndreptăm spre ruinele evocatoare ale Hotelului Playa Hermosa, explorând măreția sa abandonată în timp ce soarele apune peste orizontul auriu.",
         "en": "Morning: Kickstart your ride climbing to Fuerte de San Basilio for panoramic views, then roll smoothly down to the mysterious Piedra Bola.\n\nMidday: Pedal through historic plazas, stopping to reflect at monument sites like the Niños Héroes, capturing the rich heritage of San Blas.\n\nAfternoon: Cruise south to the famous El Borrego beach, swapping your bike saddle for the soft sand and enjoying the refreshing ocean breeze.\n\nEvening: We ride towards the evocative ruins of Hotel Playa Hermosa, exploring its abandoned grandeur as the sun sets over the golden horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht, besonders auf dem Weg zur Festung San Basilio. Die Kopfsteinpflasterstraßen sind extrem rutschig. Starten Sie vorsichtig und prüfen Sie Ihre Bremsen regelmäßig. Mittags erreichen Sie die Piedra Bola, wo die Gischt den Weg zusätzlich nass macht.\n\nNachmittags radeln Sie durch das Zentrum zu den Denkmälern. Meiden Sie tiefe Pfützen, in denen Schlaglöcher lauern könnten. Der Weg zum Strand El Borrego kann schlammig sein. Beenden Sie die Tour am Hotel Playa Hermosa und suchen Sie Schutz unter den Ruinen, bevor es dunkel wird.",
+            "hu": "A kerékpározás esőben óvatosságot igényel, különösen a San Basilio erőd felé vezető úton; a macskaköves utcák rendkívül csúszósak. Indulás előtt ellenőrizze a fékeket. Délben érjük el a Piedra Bolát, ahol a tengeri permet tovább áztatja az utat.\n\nDélután a központon keresztül tekerünk az emlékművekig; kerülje a mély tócsákat a rejtett kátyúk miatt. Az El Borrego strand felé vezető út sáros lehet. A túrát a Hotel Playa Hermosánál zárjuk, ahol a romok alatt kereshetünk menedéket a besötétedés előtt.",
+            "ro": "Ciclismul pe ploaie necesită prudență, mai ales pe drumul spre fortul San Basilio; străzile pietruite sunt extrem de alunecoase. Verificați frânele înainte de plecare. La prânz ajungeți la Piedra Bola, unde briza mării udă suplimentar traseul.\n\nDupă-amiaza pedalați prin centru spre monumente; evitați bălțile adânci din cauza gropilor ascunse. Drumul spre plaja El Borrego poate fi noroios. Încheiați turul la Hotel Playa Hermosa, unde vă puteți adăposti sub ruine înainte de lăsarea serii.",
+            "en": "Cycling in the rain requires caution, especially on the way to San Basilio Fort; the cobblestone streets are extremely slippery. Check your brakes before starting. At noon you reach Piedra Bola, where the sea spray further drenches the path.\n\nIn the afternoon, pedal through the center to the monuments; avoid deep puddles due to hidden potholes. The road to El Borrego beach can be muddy. Finish the tour at Hotel Playa Hermosa, where you can seek shelter under the ruins before it gets dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fuerte de San Basilio",
+                "hu": "San Basilio Erőd",
+                "ro": "Fortul San Basilio",
+                "en": "San Basilio Fort"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie den Hügel langsam hinunter; das nasse Kopfsteinpflaster bietet kaum Grip, nutzen Sie beide Bremsen gleichzeitig für mehr Stabilität.",
+                "hu": "Ereszkedjen le lassan a dombról; a vizes macskakő alig tapad, használja mindkét féket egyszerre a nagyobb stabilitás érdekében.",
+                "ro": "Coborâți dealul încet; piatra cubică umedă nu are aderență, folosiți ambele frâne simultan pentru o stabilitate mai bună pe bicicletă.",
+                "en": "Descend the hill slowly; the wet cobblestones offer very little grip, so use both brakes simultaneously for better stability on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Piedra Bola de Ahualulco",
+                "hu": "Piedra Bola de Ahualulco",
+                "ro": "Piedra Bola de Ahualulco",
+                "en": "Piedra Bola de Ahualulco"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad auf festem Untergrund; der Boden um den Stein wird bei Regen schnell zu einer rutschigen Schlammfalle.",
+                "hu": "Parkolja le kerékpárját szilárd talajon; a kő körüli föld esőben gyorsan csúszós sártengerré változik, ami megnehezíti a közlekedést.",
+                "ro": "Parcați bicicleta pe un teren solid; pământul din jurul pietrei se transformă rapid într-o zonă noroioasă și alunecoasă pe timp de ploaie.",
+                "en": "Park your bike on solid ground; the earth around the stone quickly turns into a slippery mud trap during the rain, making it hard to walk."
+              }
+            },
+            {
+              "name": {
+                "de": "José María Mercado",
+                "hu": "José María Mercado",
+                "ro": "José María Mercado",
+                "en": "José María Mercado"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie im Stadtverkehr besonders auf Markierungen auf der Fahrbahn; weiße Linien sind bei Nässe für Radfahrer wie Schmierseife.",
+                "hu": "A városi forgalomban ügyeljen az útburkolati jelekre; a felfestett fehér vonalak vizesen rendkívül csúszósak a kerékpárgumik számára.",
+                "ro": "În traficul urban, atenție sporită la marcajele rutiere; liniile albe vopsite sunt extrem de alunecoase pentru anvelopele bicicletei când sunt ude.",
+                "en": "In city traffic, pay extra attention to road markings; painted white lines are extremely slippery for bike tires when they are wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Niños Héroes Denkmal",
+                "hu": "Niños Héroes Emlékmű",
+                "ro": "Monumentul Niños Héroes",
+                "en": "Niños Héroes Monument"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zur Besichtigung; halten Sie Ausschau nach überdachten Bäumen am Rand des Parks, um das Rad kurz im Trockenen abzustellen.",
+                "hu": "Rövid megálló a megtekintéshez; keressen sűrűbb lombú fákat a park szélén, hogy a kerékpárt legalább rövid időre szárazon tartsa.",
+                "ro": "O scurtă oprire pentru vizitare; căutați copaci cu frunziș bogat la marginea parcului pentru a lăsa bicicleta la adăpost de ploaie.",
+                "en": "A brief stop for sightseeing; look for dense trees at the edge of the park to keep your bike dry, at least for a short while."
+              }
+            },
+            {
+              "name": {
+                "de": "El Borrego",
+                "hu": "El Borrego Strand",
+                "ro": "Plaja El Borrego",
+                "en": "El Borrego Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist bei Regen fest und gut befahrbar, aber meiden Sie die weichen Stellen; suchen Sie in einer der Strandbars Schutz vor Wind.",
+                "hu": "A homok esőben kemény és jól tekerhető, de kerülje a puha részeket; keressen menedéket az egyik strandbárban a szél ellen.",
+                "ro": "Nisipul este tare și ușor de parcurs pe ploaie, dar evitați zonele moi; căutați adăpost într-unul din barurile de pe plajă împotriva vântului.",
+                "en": "The sand is firm and easy to cycle on in the rain, but avoid soft spots; seek shelter in one of the beach bars to hide from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Hotel Playa Hermosa",
+                "hu": "Hotel Playa Hermosa",
+                "ro": "Hotel Playa Hermosa",
+                "en": "Hotel Playa Hermosa"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel Ihrer Tour; die Ruinen bieten viele überdachte Gänge, in denen Sie Ihr Rad sicher und trocken unterstellen können.",
+                "hu": "A túra végpontja; a romok számos fedett folyosót kínálnak, ahol biztonságban és szárazon tudhatja kerékpárját a nap végén.",
+                "ro": "Punctul final al turului; ruinele oferă multe coridoare acoperite unde vă puteți lăsa bicicleta în siguranță și la uscat la finalul zilei.",
+                "en": "The final point of your tour; the ruins offer many covered corridors where you can keep your bike safe and dry at the end of the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist die beste Zeit zum Radfahren in San Blas. Starten Sie morgens an der Festung San Basilio; die kühle Luft macht die Steigung zum Kinderspiel. Danach geht es bergab zur Piedra Bola, wo Sie die klare Sicht genießen können.\n\nMittags radeln Sie entspannt durch den Ort. Die Sonne ist angenehm warm, aber nicht drückend. Nachmittags geht es zum Strand El Borrego, wo der Wind im Winter stetig weht. Denken Sie an den frühen Sonnenuntergang um 17:00 Uhr. Erreichen Sie das Hotel Playa Hermosa rechtzeitig, um die Ruinen im letzten Tageslicht zu sehen.",
+            "hu": "A tél a legjobb időszak a kerékpározáshoz San Blasban. Kezdje a reggelt a San Basilio erődnél; a hűvös levegő gyerekjátékká teszi az emelkedőt. Ezután guruljon le a Piedra Bolához, ahol élvezheti a tiszta kilátást.\n\nDélben tekerjen kényelmesen a városon keresztül; a nap kellemesen meleg, de nem tikkasztó. Délután irány az El Borrego strand, ahol télen állandó szél fúj. Ne feledkezzen meg a korai, 17:00-s naplementéről; érjen időben a Hotel Playa Hermosához.",
+            "ro": "Iarna este cel mai bun moment pentru ciclism în San Blas. Începeți dimineața la fortul San Basilio; aerul răcoros face urcarea o joacă de copii. Apoi coborâți spre Piedra Bola, unde vă puteți bucura de o vizibilitate clară.\n\nLa prânz, pedalați relaxat prin oraș; soarele este plăcut, nu sufocant. După-amiaza mergeți spre plaja El Borrego, unde vântul de iarnă bate constant. Nu uitați de apusul devreme de la ora 17:00; ajungeți la Hotel Playa Hermosa la timp pentru ultima lumină.",
+            "en": "Winter is the best time for cycling in San Blas. Start your morning at San Basilio Fort; the cool air makes the climb a breeze. Then coast down to Piedra Bola, where you can enjoy the clear coastal views.\n\nAt noon, cycle comfortably through the town; the sun is pleasantly warm but not oppressive. In the afternoon, head to El Borrego beach, where the winter wind blows steadily. Don't forget the early 17:00 sunset; reach Hotel Playa Hermosa in time for the last daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fuerte de San Basilio",
+                "hu": "San Basilio Erőd",
+                "ro": "Fortul San Basilio",
+                "en": "San Basilio Fort"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Aufstieg ohne die sommerliche Luftfeuchtigkeit; das kühle Wetter spart wertvolle Energie für den restlichen Tag auf dem Rad.",
+                "hu": "Élvezze az emelkedőt a nyári páratartalom nélkül; a hűvösebb idő értékes energiát spórol meg a nap hátralévő részére a kerékpáron.",
+                "ro": "Bucurați-vă de urcare fără umiditatea verii; vremea răcoroasă vă ajută să economisiți energie prețioasă pentru restul zilei pe bicicletă.",
+                "en": "Enjoy the climb without the summer humidity; the cooler weather helps save valuable energy for the rest of your day on the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Piedra Bola de Ahualulco",
+                "hu": "Piedra Bola de Ahualulco",
+                "ro": "Piedra Bola de Ahualulco",
+                "en": "Piedra Bola de Ahualulco"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist im Winter staubtrocken und ideal für Tourenräder; nehmen Sie dennoch genug Wasser mit, da die Wintersonne täuschend stark sein kann.",
+                "hu": "A parti út télen porszáraz és ideális a túrakerékpárok számára; azért vigyen elég vizet, mert a téli nap ereje csalóka lehet tekerés közben.",
+                "ro": "Drumul de coastă este foarte uscat iarna și ideal pentru bicicletele de tură; totuși, luați suficientă apă, deoarece soarele de iarnă poate fi înșelător.",
+                "en": "The coastal road is bone dry in winter and ideal for touring bikes; still, take enough water as the winter sun's strength can be deceptive while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "José María Mercado",
+                "hu": "José María Mercado",
+                "ro": "José María Mercado",
+                "en": "José María Mercado"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt im Zentrum; im Winter sind die Straßen weniger verstopft, was das Navigieren mit dem Fahrrad deutlich entspannter macht.",
+                "hu": "Gyors megálló a központban; télen az utcák kevésbé zsúfoltak, ami a kerékpáros navigációt sokkal nyugodtabbá és biztonságosabbá teszi.",
+                "ro": "O oprire rapidă în centru; iarna străzile sunt mai puțin aglomerate, ceea ce face navigarea cu bicicleta mult mai relaxată și sigură.",
+                "en": "A quick stop in the center; in winter, the streets are less crowded, making navigating with a bicycle much more relaxed and safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Niños Héroes Denkmal",
+                "hu": "Niños Héroes Emlékmű",
+                "ro": "Monumentul Niños Héroes",
+                "en": "Niños Héroes Monument"
+              },
+              "tip_5lang": {
+                "de": "Der Park um das Denkmal bietet im Winter angenehmen Halbschatten; ideal für eine kurze Trinkpause, bevor Sie zum Strand weiterfahren.",
+                "hu": "Az emlékmű körüli park télen kellemes félárnyékot nyújt; ideális helyszín egy rövid frissítő szünetre, mielőtt továbbindulna a strand felé.",
+                "ro": "Parcul din jurul monumentului oferă o semiumbră plăcută iarna; este locul ideal pentru o scurtă pauză de hidratare înainte de a pleca spre plajă.",
+                "en": "The park around the monument provides pleasant partial shade in winter; an ideal spot for a short hydration break before continuing to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "El Borrego",
+                "hu": "El Borrego Strand",
+                "ro": "Plaja El Borrego",
+                "en": "El Borrego Beach"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie am Ufer entlang, wo der Sand am festesten ist; achten Sie auf die kühle Brise, die gegen Nachmittag meist deutlich zunimmt.",
+                "hu": "Tekerjen a parton, ahol a legkeményebb a homok; ügyeljen a hűvös szélre, amely délutánra általában jelentősen felerősödik a tenger felől.",
+                "ro": "Pedalați pe malul mării, unde nisipul este cel mai tare; atenție la briza rece care de obicei se intensifică semnificativ spre după-amiază.",
+                "en": "Cycle along the shore where the sand is firmest; be mindful of the cool breeze that usually intensifies significantly towards the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Hotel Playa Hermosa",
+                "hu": "Hotel Playa Hermosa",
+                "ro": "Hotel Playa Hermosa",
+                "en": "Hotel Playa Hermosa"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Ruinen vor der Dämmerung; nach 17:00 Uhr sinkt die Temperatur rasch, sodass Sie für die Rückfahrt eine Jacke benötigen.",
+                "hu": "Érjen a romokhoz szürkület előtt; 17:00 után a hőmérséklet gyorsan süllyed, így a visszaúthoz mindenképpen szüksége lesz egy kabátra.",
+                "ro": "Ajungeți la ruine înainte de amurg; după ora 17:00 temperatura scade rapid, așa că veți avea nevoie de o jachetă pentru drumul de întoarcere.",
+                "en": "Reach the ruins before dusk; after 17:00 the temperature drops rapidly, so you will definitely need a jacket for the ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Délelőtt: Vezessen a Mirador De Las Aves felé a lenyűgöző madármegfigyelésért, majd utazzon el a San Basilio erőd gyarmati romjaihoz a tengerparti kilátásért.\n\nDélben: Parkoljon le a legendás San Blas móló közelében a legjobb fotókért, majd tegyen egy festői autózást a Playa del Rey félreeső homokos partjára.\n\nDélután: Dél felé folytatjuk utunkat a Hotel Playa Hermosa kísértetiesen szép romjaihoz, amelyek egyedülálló bepillantást nyújtanak a múlt csillogásába.\n\nEste: Fejezze be tengerparti autós túráját az El Borrego strandon, élvezve a nyüzsgő hangulatot és egy lélegzetelállító trópusi naplementét a hullámok mellett.",
         "ro": "Dimineața: Conduceți la Mirador De Las Aves pentru o observare spectaculoasă a păsărilor, apoi călătoriți la ruinele coloniale ale Fortului San Basilio.\n\nLa amiază: Parcați lângă legendarul Debarcader San Blas pentru fotografii iconice, urmat de o plimbare pitorească spre nisipurile izolate de la Playa del Rey.\n\nDupă-amiaza: Continuăm spre sud către ruinele obsedant de frumoase ale Hotelului Playa Hermosa, oferind o privire unică asupra trecutului plin de farmec.\n\nSeara: Încheiați călătoria de coastă la El Borrego, bucurându-vă de atmosfera plină de viață a plajei și de un apus de soare tropical uluitor la malul mării.",
         "en": "Morning: Drive to Mirador De Las Aves for spectacular birdwatching, then travel to the colonial ruins of Fuerte de San Basilio for coastal views.\n\nMidday: Park near the legendary Muelle de San Blas to capture iconic photos, followed by a scenic drive to the secluded sands of Playa del Rey.\n\nAfternoon: We continue south to the hauntingly beautiful ruins of Hotel Playa Hermosa, offering a unique glimpse into the region's glamorous past.\n\nEvening: End your coastal road trip at El Borrego, enjoying the lively beach atmosphere and a breathtaking tropical sunset by the crashing waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist San Blas auch bei Regen gut zu erkunden. Starten Sie am Aussichtspunkt Mirador De Las Aves; beobachten Sie die Vögel bequem aus dem trockenen Innenraum. Danach geht es zur Festung San Basilio, wo Sie nah am Eingang parken können, um nicht nass zu werden.\n\nMittags besuchen Sie den Pier und Playa del Rey. Nutzen Sie die Scheibenwischer auf höchster Stufe, da die Sicht bei tropischen Güssen stark eingeschränkt sein kann. Nachmittags führt die Tour zum Hotel Playa Hermosa und zum Strand El Borrego. Bleiben Sie bei starken Schauern im Wagen und genießen Sie die Atmosphäre der stürmischen Küste.",
+            "hu": "Autóval San Blas esőben is kényelmesen felfedezhető. Kezdje a madármegfigyelő kilátónál, ahol a száraz utastérből figyelheti az élővilágot. Ezután irány a San Basilio erőd, ahol érdemes a bejárathoz közel parkolni, hogy elkerülje az ázást.\n\nDélben látogasson el a mólóhoz és a Playa del Rey-hez; a látási viszonyok a heves záporokban korlátozottak lehetnek, vezessen óvatosan. Délután a Hotel Playa Hermosa és az El Borrego strand következik. Erős felhőszakadáskor maradjon a kocsiban, és élvezze a viharos part látványát.",
+            "ro": "Cu mașina, San Blas poate fi explorat confortabil chiar și pe ploaie. Începeți la punctul de observare a păsărilor, unde puteți urmări fauna din interiorul uscat. Apoi mergeți la fortul San Basilio și parcați aproape de intrare pentru a evita ploaia.\n\nLa prânz vizitați debarcaderul și Playa del Rey; vizibilitatea poate fi limitată în timpul averselor tropicale, deci conduceți cu atenție. După-amiaza urmează Hotel Playa Hermosa și plaja El Borrego. În timpul ploilor torențiale, rămâneți în mașină și admirați coasta furtunoasă.",
+            "en": "By car, San Blas can be comfortably explored even in the rain. Start at the birdwatching viewpoint, where you can observe the wildlife from the dry interior. Then head to San Basilio Fort, where it's best to park close to the entrance to avoid getting soaked.\n\nAt noon, visit the pier and Playa del Rey; visibility can be limited during heavy tropical downpours, so drive carefully. In the afternoon, the tour continues to Hotel Playa Hermosa and El Borrego beach. During heavy bursts, stay in the car and enjoy the view of the stormy coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador De Las Aves",
+                "hu": "Madármegfigyelő Kilátó",
+                "ro": "Punctul de Observare a Păsărilor",
+                "en": "Birds Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, auf unbefestigten Seitenstreifen zu parken; der Boden weicht bei Regen schnell auf und Ihr Wagen könnte im Schlamm stecken bleiben.",
+                "hu": "Kerülje a burkolatlan útpadkán való parkolást; a talaj esőben gyorsan felázik, és az autó könnyen elakadhat a mély sárban.",
+                "ro": "Evitați parcarea pe acostamentele neasfaltate; solul se înmoaie rapid pe ploaie, iar mașina se poate bloca ușor în noroiul adânc.",
+                "en": "Avoid parking on unpaved shoulders; the ground softens quickly in the rain, and your car could easily get stuck in the deep mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte de San Basilio",
+                "hu": "San Basilio Erőd",
+                "ro": "Fortul San Basilio",
+                "en": "San Basilio Fort"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die steile Straße zur Festung im niedrigen Gang hoch; die nasse Fahrbahn kann bei Steigungen zu durchdrehenden Reifen führen.",
+                "hu": "Hajtson fel az erődhoz vezető meredek úton alacsony sebességfokozatban; a vizes aszfalton a kerekek könnyen kipöröghetnek az emelkedőn.",
+                "ro": "Urcați pe drumul abrupt spre fort într-o treaptă inferioară; pe asfaltul umed, roțile pot patina ușor în timpul urcării solicitante.",
+                "en": "Drive up the steep road to the fort in a low gear; on wet asphalt, tires can easily spin during the demanding uphill climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Muelle de San Blas",
+                "hu": "San Blas Móló",
+                "ro": "Debarcaderul San Blas",
+                "en": "San Blas Pier"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie rückwärts ein, um bei einem plötzlichen Wolkenbruch schnell wieder abfahren zu können; halten Sie die Fenster wegen der hohen Luftfeuchtigkeit leicht geöffnet.",
+                "hu": "Parkoljon tolatva, hogy egy hirtelen felhőszakadáskor gyorsan távozhasson; tartsa az ablakokat résnyire nyitva a magas páratartalom miatti párásodás ellen.",
+                "ro": "Parcați cu spatele pentru a putea pleca rapid în caz de aversă bruscă; lăsați geamurile întredeschise pentru a preveni aburirea din cauza umidității ridicate.",
+                "en": "Park facing out to be able to leave quickly during a sudden burst; keep the windows slightly cracked to prevent fogging from high humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Rey",
+                "hu": "Playa del Rey",
+                "ro": "Playa del Rey",
+                "en": "Playa del Rey"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Strand kann bei Regen überschwemmt sein; testen Sie die Tiefe von Pfützen vorsichtig, bevor Sie mit dem Wagen hindurchfahren.",
+                "hu": "A strandra vezető út esőben víz alá kerülhet; óvatosan tesztelje a tócsák mélységét, mielőtt autóval áthajtana rajtuk a part felé.",
+                "ro": "Drumul spre plajă poate fi inundat pe timp de ploaie; testați cu prudență adâncimea bălților înainte de a trece cu mașina spre mal.",
+                "en": "The road to the beach can become flooded during rain; cautiously test the depth of puddles before driving through them towards the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Hotel Playa Hermosa",
+                "hu": "Hotel Playa Hermosa",
+                "ro": "Hotel Playa Hermosa",
+                "en": "Hotel Playa Hermosa"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie den Wagen unter den Bäumen ab, wenn der Regen nachlässt; die Ruinen sind vom Parkplatz aus in nur wenigen Schritten erreichbar.",
+                "hu": "Állítsa le az autót a fák alatt, ha alábbhagy az eső; a romok a parkolótól mindössze néhány lépéssel, viszonylag szárazon elérhetőek.",
+                "ro": "Opriți mașina sub copaci când ploaia se mai domolește; ruinele sunt accesibile în doar câțiva pași de la parcare, rămânând relativ uscat.",
+                "en": "Stop the car under the trees when the rain subsides; the ruins are accessible in just a few steps from the parking lot, keeping you relatively dry."
+              }
+            },
+            {
+              "name": {
+                "de": "El Borrego",
+                "hu": "El Borrego Strand",
+                "ro": "Plaja El Borrego",
+                "en": "El Borrego Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf den stürmischen Ozean; nutzen Sie die Standheizung oder Klimaanlage, um die feuchte Kleidung im Auto zu trocknen.",
+                "hu": "Zárja a napot a viharos óceán látványával; használja a fűtést vagy a klímát a nedves ruhák megszárításához az autóban a hazaút előtt.",
+                "ro": "Încheiați ziua cu priveliștea oceanului furtunos; folosiți căldura sau clima pentru a usca hainele umede în mașină înainte de drumul spre casă.",
+                "en": "End your day with the view of the stormy ocean; use the heater or AC to help dry damp clothes in the car before the drive back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermonate bieten ideale Bedingungen für eine Autotour durch San Blas. Starten Sie morgens am Mirador De Las Aves, wenn die Sicht am klarsten ist. Die kühle Morgenluft macht den Stopp an der Festung San Basilio besonders angenehm.\n\nMittags erreichen Sie den Pier und Playa del Rey; genießen Sie die milde Wintersonne, die nicht so intensiv ist wie im Sommer. Nachmittags geht es zum Hotel Playa Hermosa. Denken Sie daran, dass die Sonne gegen 17:00 Uhr untergeht. Schließen Sie den Tag am Strand El Borrego ab und genießen Sie den spektakulären Sonnenuntergang, bevor die kühle Nachtluft einsetzt.",
+            "hu": "A téli hónapok ideális körülményeket biztosítanak egy autós túrához San Blasban. Kezdje a reggelt a madármegfigyelő kilátónál, amikor a legtisztább a látótávolság. A hűvös reggeli levegő különösen kellemessé teszi a San Basilio erőd felkeresését.\n\nDélben látogasson el a mólóhoz és a Playa del Rey-hez; élvezze a lágy téli napsütést, amely nem olyan égető, mint nyáron. Délután a Hotel Playa Hermosa következik. Ne feledje, hogy a nap 17:00 körül nyugszik. Zárja a napot az El Borrego strandon egy látványos naplementével, mielőtt beköszönt a hűvös éjszaka.",
+            "ro": "Lunile de iarnă oferă condiții ideale pentru un tur auto prin San Blas. Începeți dimineața la punctul de observare a păsărilor, când vizibilitatea este maximă. Aerul răcoros de dimineață face vizita la fortul San Basilio deosebit de plăcută.\n\nLa prânz vizitați debarcaderul și Playa del Rey; bucurați-vă de soarele blând de iarnă, care nu este atât de arzător ca vara. După-amiaza urmează Hotel Playa Hermosa. Rețineți că soarele apune în jurul orei 17:00. Încheiați ziua pe plaja El Borrego cu un apus spectaculos înainte de noaptea răcoroasă.",
+            "en": "The winter months offer ideal conditions for a car tour through San Blas. Start your morning at the birdwatching viewpoint when visibility is clearest. The cool morning air makes visiting San Basilio Fort particularly pleasant.\n\nAt noon, visit the pier and Playa del Rey; enjoy the mild winter sun, which is not as scorching as in summer. In the afternoon, head to Hotel Playa Hermosa. Keep in mind that the sun sets around 17:00. Finish your day at El Borrego beach with a spectacular sunset before the cool night air sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador De Las Aves",
+                "hu": "Madármegfigyelő Kilátó",
+                "ro": "Punctul de Observare a Păsărilor",
+                "en": "Birds Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die beste Zeit für Vogelbeobachtungen im klaren Winterlicht; bringen Sie ein Fernglas mit, da die Zugvögel zu dieser Jahreszeit besonders aktiv sind.",
+                "hu": "A legjobb időszak a madármegfigyelésre a tiszta téli fényekben; hozzon távcsövet, mert a költöző madarak ilyenkor a legaktívabbak a mocsaraknál.",
+                "ro": "Cea mai bună perioadă pentru observarea păsărilor în lumina clară de iarnă; aduceți binoclul, deoarece păsările migratoare sunt foarte active acum.",
+                "en": "The best time for birdwatching in the clear winter light; bring binoculars as migratory birds are particularly active in the marshes at this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte de San Basilio",
+                "hu": "San Basilio Erőd",
+                "ro": "Fortul San Basilio",
+                "en": "San Basilio Fort"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten der alten Mauern; auch wenn es Winter ist, kann sich das Wageninnere in der prallen Mittagssonne schnell aufheizen.",
+                "hu": "Parkoljon a régi falak árnyékában; még ha tél is van, az autó utastere a tűző déli napsütésben gyorsan felmelegedhet a parkolóban.",
+                "ro": "Parcați la umbra zidurilor vechi; chiar dacă este iarnă, interiorul mașinii se poate încinge rapid sub soarele puternic de la amiază.",
+                "en": "Park in the shade of the old walls; even if it's winter, the car's interior can heat up quickly under the bright midday sun in the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Muelle de San Blas",
+                "hu": "San Blas Móló",
+                "ro": "Debarcaderul San Blas",
+                "en": "San Blas Pier"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Wasser; nutzen Sie das angenehme Wetter für einen kleinen Spaziergang, bevor Sie zum nächsten Ziel weiterfahren.",
+                "hu": "Rövid megálló a víznél; használja ki a kellemes időt egy kis sétára a mólón, mielőtt továbbhajtana a következő úti célja felé.",
+                "ro": "O scurtă oprire lângă apă; profitați de vremea plăcută pentru o mică plimbare pe debarcader înainte de a pleca spre următoarea destinație.",
+                "en": "A short stop by the water; take advantage of the pleasant weather for a small stroll on the pier before driving to your next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Rey",
+                "hu": "Playa del Rey",
+                "ro": "Playa del Rey",
+                "en": "Playa del Rey"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Zugang zum Strand staubfrei und gut befahrbar; genießen Sie die Ruhe an der Küste weit weg vom touristischen Trubel.",
+                "hu": "Télen a strandra vezető út pormentes és jól járható; élvezze a tengerparti nyugalmat távol a nyári turisztikai forgatagtól.",
+                "ro": "Iarna, accesul la plajă este ușor și fără praf; bucurați-vă de liniștea de pe malul mării, departe de agitația turistică de vară.",
+                "en": "In winter, access to the beach is dust-free and easy to drive; enjoy the seaside tranquility far away from the summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Hotel Playa Hermosa",
+                "hu": "Hotel Playa Hermosa",
+                "ro": "Hotel Playa Hermosa",
+                "en": "Hotel Playa Hermosa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen am späten Nachmittag; das goldene Licht der tiefstehenden Sonne verleiht der alten Architektur einen magischen Glanz.",
+                "hu": "Látogasson el a romokhoz késő délután; az alacsonyan járó nap aranyfénye varázslatos csillogást kölcsönöz a régi épületeknek.",
+                "ro": "Vizitați ruinele la sfârșitul după-amiezii; lumina aurie a soarelui care apune oferă arhitecturii vechi o strălucire magică.",
+                "en": "Visit the ruins in the late afternoon; the golden light of the low-setting sun gives the old architecture a magical glow."
+              }
+            },
+            {
+              "name": {
+                "de": "El Borrego",
+                "hu": "El Borrego Strand",
+                "ro": "Plaja El Borrego",
+                "en": "El Borrego Beach"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückreise direkt nach Sonnenuntergang um 17:00 Uhr; die Temperaturen sinken danach spürbar, schalten Sie die Heizung im Wagen ein.",
+                "hu": "Tervezze meg a visszautat közvetlenül a 17:00-s naplemente után; a hőmérséklet ezután érezhetően csökken, kapcsolja be a fűtést az autóban.",
+                "ro": "Planificați drumul de întoarcere imediat după apusul de la 17:00; temperaturile scad simțitor după aceea, deci porniți căldura în mașină.",
+                "en": "Plan your return trip right after the 17:00 sunset; temperatures drop noticeably after that, so turn on the heater in the car for the drive."
+              }
+            }
+          ]
+        }
       }
     }
   }

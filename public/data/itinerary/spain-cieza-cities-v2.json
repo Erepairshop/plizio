@@ -137,6 +137,168 @@
         "hu": "A reggel a Monumento a la Mudánál indul, majd a Museo de la Semana Santa fenséges alkotásait csodáljuk meg. A dél tökéletes a Museo de Siyâsa mór házrekonstrukcióinak felfedezésére. Délután az eszpartófű-fonás mesterségével ismerkedünk a Museo del Esparto termeiben. Az estét a völgyre nyíló békés kilátás zárja az Ermita del Santo Cristo dombján.",
         "ro": "Dimineața începe la Monumento a la Muda, înainte de a vedea carele maiestuoase la Museo de la Semana Santa. Prânzul este perfect pentru explorarea Museo de Siyâsa cu reconstrucțiile sale maure. După-amiaza vă duce la Museo del Esparto pentru a învăța despre țesut. Seara se încheie cu o priveliște pașnică asupra văii de la Ermita del Santo Cristo.",
         "en": "Morning starts at the Monumento a la Muda, honoring local heritage, before diving into the Museo de la Semana Santa to see majestic floats. Midday is perfect for exploring the Museo de Siyâsa with its stunning Moorish house reconstructions. Afternoon leads to the Museo del Esparto to learn about the grass-weaving trade. Evening concludes with peaceful valley views at Ermita del Santo Cristo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Cieza wird durch die kulturelle Vielfalt der Museen im Zentrum aufgefangen. Mittags bietet das Siyâsa-Museum einen perfekten trockenen Zufluchtsort, um tief in die islamische Geschichte einzutauchen. Am Nachmittag schützt das Esparto-Museum vor den Schauern, während man traditionelles Handwerk bestaunt. Der Abend endet an der Ermita, wo die nassen Pflastersteine im Laternenlicht glänzen.",
+            "hu": "Az esős reggel Ciezában a belvárosi múzeumok fedett falai között is tartalmasan telik. Délben a Siyâsa Múzeum kínál tökéletes menedéket a zivatar elől, miközben az iszlám múlt emlékeit kutatjuk. Délután az Esparto Múzeum száraz illata kárpótol a nedves utcákért és a borús égboltért. Az este az Ermitánál zárul, ahol a vizes kövek drámai fényjátékot tükröznek vissza a város felett.",
+            "ro": "O dimineață ploioasă în Cieza este salvată de bogăția muzeelor din centrul istoric. La prânz, Muzeul Siyâsa oferă adăpostul perfect împotriva stropilor, permițând explorarea fascinantei istorii islamice. După-amiaza, Muzeul Esparto vă ferește de ploaie în timp ce descoperiți meșteșugurile tradiționale. Seara se încheie la Ermita, unde pavajul umed reflectă luminile orașului sub cerul înnorat.",
+            "en": "A rainy morning in Cieza is best spent within the sheltered walls of the downtown museums. At noon, the Siyâsa Museum provides a perfect dry sanctuary to explore the city's rich Islamic heritage. In the afternoon, the Esparto Museum offers protection from the showers while you learn about local crafts. The evening concludes at the Ermita, where wet cobblestones create a dramatic reflected glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a la Muda",
+                "hu": "Monumento a la Muda",
+                "ro": "Monumento a la Muda",
+                "en": "Monumento a la Muda"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Denkmal kurz im Regen; nutzen Sie die umliegenden Arkaden als Unterstand und achten Sie auf die glatten Fliesenoberflächen auf dem Platz.",
+                "hu": "Tekintse meg gyorsan ezt a szobrot az esőben; használja a közeli árkádokat fedett menedékként, és ügyeljen a tér burkolatának csúszós felületeire.",
+                "ro": "Admirați acest monument rapid pe ploaie; folosiți arcadele din apropiere ca adăpost temporar și aveți grijă la suprafețele alunecoase din piață.",
+                "en": "View this monument briefly in the rain; use the nearby arcades for dry shelter and be cautious of the slippery tiled surfaces across the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Semana Santa",
+                "hu": "Museo de la Semana Santa",
+                "ro": "Museo de la Semana Santa",
+                "en": "Museo de la Semana Santa"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist die ideale regenfreie Zone; bewundern Sie die prachtvollen Prozessionswagen im Trockenen und hinterlassen Sie Ihren Schirm im Eingangsbereich.",
+                "hu": "Ez a helyszín ideális esőmentes zóna; csodálja meg a díszes húsvéti kocsikat a száraz belső térben, az esernyőjét pedig hagyja a kijelölt tárolóban.",
+                "ro": "Acest loc este zona ideală fără ploaie; admirați carele alegorice impresionante la adăpost și lăsați umbrela în spațiul special amenajat de la intrare.",
+                "en": "This museum is an ideal rain-free zone; admire the ornate processional floats in the dry interior and leave your umbrella in the designated rack."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Siyâsa",
+                "hu": "Museo de Siyâsa",
+                "ro": "Museo de Siyâsa",
+                "en": "Museo de Siyâsa"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die rekonstruierten Häuser unter einem festen Dach; perfekt, um den stärksten Regengüssen des Tages in einer faszinierenden Umgebung zu entgehen.",
+                "hu": "Fedezze fel a rekonstruált házakat szilárd tető alatt; tökéletes helyszín a nap legnagyobb záporainak átvészelésére ebben a lenyűgöző környezetben.",
+                "ro": "Explorați casele reconstruite sub un acoperiș solid; este locul perfect pentru a evita cele mai puternice averse ale zilei într-un decor fascinant.",
+                "en": "Explore the reconstructed houses under a solid roof; the perfect spot to escape the day's heaviest showers while immersed in a fascinating setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Esparto",
+                "hu": "Museo del Esparto",
+                "ro": "Museo del Esparto",
+                "en": "Museo del Esparto"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Atmosphäre zwischen den Naturfasern; ein hervorragender Rückzugsort, wenn es draußen stürmt, mit viel Raum für ruhige Entdeckungen.",
+                "hu": "Élvezze a száraz atmoszférát a természetes rostok között; kiváló visszavonulási hely, ha kint viharos az idő, tágas terekkel a nyugodt felfedezéshez.",
+                "ro": "Bucurați-vă de atmosfera uscată printre fibrele naturale; un refugiu excelent când afară este furtună, oferind spațiu generos pentru o vizită liniștită.",
+                "en": "Enjoy the dry atmosphere among natural fibers; an excellent retreat if it is stormy outside, with plenty of room for quiet indoor exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Santo Cristo",
+                "hu": "Ermita del Santo Cristo",
+                "ro": "Ermita del Santo Cristo",
+                "en": "Ermita del Santo Cristo"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Nässe rutschig sein; tragen Sie Schuhe mit gutem Profil und genießen Sie den Blick auf den nebligen Fluss Segura vom Portal aus.",
+                "hu": "A felfelé vezető út nedvesen csúszós lehet; viseljen bordázott talpú cipőt, és élvezze a ködös Segura-folyóra nyíló kilátást a templom bejárata alól.",
+                "ro": "Urcarea poate fi alunecoasă pe timp de ploaie; purtați încălțăminte cu talpă aderentă și admirați râul Segura învăluit în ceață de sub portalul porții.",
+                "en": "The walk up can be slippery when wet; wear shoes with good grip and enjoy the view of the misty Segura River from the shelter of the church porch."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Cieza beginnt frisch im Tal des Segura, ideal für einen zügigen Spaziergang. Mittags bieten die Museen angenehme Wärme und Schutz vor dem schneidenden Wind. Am Nachmittag wird die historische Route durch die sanfte Wintersonne beleuchtet. Da die Sonne gegen 17:00 Uhr untergeht, erreichen wir die Ermita gerade rechtzeitig für ein goldenes Panorama über dem Tal.",
+            "hu": "A téli reggel frissen indul a Segura völgyében, ami kedvez a lendületes városi sétának. Délben a múzeumok falai kellemes meleget és védelmet nyújtanak a metsző szél elől. Délután az alacsonyan járó nap különleges fénybe vonja a történelmi utcákat. Mivel a nap 17:00 körül nyugszik, az Ermitához pont időben érünk a völgy feletti aranyló panorámához.",
+            "ro": "Dimineața de iarnă în Cieza începe cu un aer proaspăt în valea Segura, perfect pentru o plimbare revigorantă. La prânz, muzeele oferă căldură plăcută și protecție împotriva vântului tăios. După-amiaza, soarele blând de iarnă luminează traseul istoric într-un mod aparte. Deoarece soarele apune în jur de ora 17:00, ajungem la Ermita exact la timp pentru panorama aurie.",
+            "en": "Winter mornings in Cieza start with a crisp air in the Segura valley, perfect for a brisk walk. At noon, the local museums offer pleasant warmth and shelter from the biting winds. In the afternoon, the low winter sun casts a unique light over the historic streets. As the sun sets around 17:00, we reach the Ermita just in time for a golden panoramic view over the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a la Muda",
+                "hu": "Monumento a la Muda",
+                "ro": "Monumento a la Muda",
+                "en": "Monumento a la Muda"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos ohne die sommerlichen Menschenmassen; die Metalloberfläche des Denkmals fühlt sich am Morgen sehr kalt an.",
+                "hu": "Használja ki a tiszta téli fényeket a fotózáshoz a nyári tömeg nélkül; a szobor fémfelületei reggelente igen hidegek, kerülje az érintésüket kesztyű nélkül.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii fără aglomerația de vară; suprafața metalică a monumentului este foarte rece în diminețile geroase.",
+                "en": "Take advantage of the clear winter light for photos without the summer crowds; the metal surfaces of the monument will be very cold to the touch in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Semana Santa",
+                "hu": "Museo de la Semana Santa",
+                "ro": "Museo de la Semana Santa",
+                "en": "Museo de la Semana Santa"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlich beheizter Ort, um die Wartezeit bis zum Mittagessen zu überbrücken; die detailreichen Skulpturen wirken im warmen Innenlicht besonders lebendig.",
+                "hu": "Kellemesen fűtött helyszín, ahol átmelegedhet az ebédidőig; a részletgazdag szobrok a meleg belső világításban különösen élethűnek és látványosnak tűnnek.",
+                "ro": "Un spațiu încălzit plăcut unde vă puteți dezmorți până la ora prânzului; sculpturile detaliate par extrem de vii în lumina caldă de la interior.",
+                "en": "A wonderfully heated space to warm up before lunchtime; the highly detailed sculptures look particularly lifelike under the warm interior lighting."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Siyâsa",
+                "hu": "Museo de Siyâsa",
+                "ro": "Museo de Siyâsa",
+                "en": "Museo de Siyâsa"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern isolieren gut gegen die Kälte; verbringen Sie hier die kühlsten Stunden des Tages und entdecken Sie die Schätze der maurischen Vergangenheit.",
+                "hu": "A vastag falak jól szigetelnek a kinti hideg ellen; töltse itt a nap leghűvösebb óráit, és fedezze fel a mór múlt kincseit a temperált termekben.",
+                "ro": "Zidurile groase izolează excelent împotriva frigului de afară; petreceți aici cele mai reci ore ale zilei descoperind comorile trecutului maur în confort.",
+                "en": "The thick walls provide excellent insulation against the cold; spend the day's coolest hours here discovering Moorish treasures in a comfortable climate."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Esparto",
+                "hu": "Museo del Esparto",
+                "ro": "Museo del Esparto",
+                "en": "Museo del Esparto"
+              },
+              "tip_5lang": {
+                "de": "Die rustikale Umgebung sorgt für ein gemütliches Gefühl; ideal, um die Traditionen von Cieza kennenzulernen, während draußen der Winterwind durch die Gassen zieht.",
+                "hu": "A rusztikus környezet barátságos érzetet kelt; ideális hely Cieza hagyományainak megismerésére, miközben kint a téli szél fúj az utcákon.",
+                "ro": "Cadrul rustic oferă o senzație de confort; este locul ideal pentru a învăța despre tradițiile din Cieza în timp ce vântul de iarnă suflă pe străzile înguste.",
+                "en": "The rustic setting creates a cozy atmosphere; it is an ideal spot to learn about Cieza's traditions while the winter wind blows through the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Santo Cristo",
+                "hu": "Ermita del Santo Cristo",
+                "ro": "Ermita del Santo Cristo",
+                "en": "Ermita del Santo Cristo"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den Sonnenuntergang zu sehen; ziehen Sie sich warm an, da die Temperatur oben auf dem Hügel nach Sonnenuntergang schnell sinkt.",
+                "hu": "Érkezzen meg 17:00 előtt, hogy lássa a naplementét; öltözzön rétegesen, mert a dombtetőn a napnyugta után hirtelen és jelentősen csökken a hőmérséklet.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a prinde apusul; îmbrăcați-vă gros, deoarece temperatura pe deal scade rapid imediat după dispariția soarelui.",
+                "en": "Arrive before 17:00 to catch the sunset; dress in warm layers as the temperature on the hilltop drops significantly and quickly after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa a napot a Museo Molino de Teodoro felé tekerve, majd álljon meg a Monumento a la Mudánál. Délben a Museo de Siyâsa andalúz történelme várja. A délutáni tekerés a történelmi Puente del Argaz hídon át az interaktív Museo del Esparto múzeumhoz vezet. Az estét az Auditorio Gabriel Celaya lenyűgöző modern építészete teszi teljessé.",
         "ro": "Începeți ziua pedalând la Museo Molino de Teodoro, urmat de o oprire la Monumento a la Muda. Prânzul vă aduce la Museo de Siyâsa pentru a descoperi istoria andaluză. După-amiaza traversați podul istoric Puente del Argaz spre interactivul Museo del Esparto. Seara se relaxează la arhitectura impresionantă a Auditorio Gabriel Celaya.",
         "en": "Kick off the day riding to the restored Museo Molino de Teodoro, followed by a quick stop at Monumento a la Muda. Midday brings you to the expansive Museo de Siyâsa to uncover Andalusian history. Afternoon pedals take you across the historic Puente del Argaz and to the interactive Museo del Esparto. Evening winds down with the striking architecture of the Auditorio Gabriel Celaya."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht am Flussufer des Segura, wo die Wege rutschig sein können. Vormittags bieten die Mühle und das Siyâsa-Museum rettende Unterstände für Radfahrer. Am Nachmittag führt die Route über befestigte Straßen zum Esparto-Museum, um Pfützen zu vermeiden. Der Tag endet im Auditorio, einem modernen Bau, der auch bei grauem Wetter beeindruckt.",
+            "hu": "Az esős kerékpározás óvatosságot igényel a Segura partján, ahol az utak csúszóssá válhatnak. Délelőtt a malom és a Siyâsa Múzeum kínál mentőövet a bringásoknak a záporok elől. Délután az aszfaltozott utakat válasszuk az Esparto Múzeum felé, hogy elkerüljük a sarat. A nap az Auditoriónál zárul, melynek modern formái szürke időben is látványosak.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe malul râului Segura, unde potecile devin alunecoase. Dimineața, moara și Muzeul Siyâsa oferă adăposturi salvatoare pentru bicicliști. După-amiaza, urmați drumurile asfaltate spre Muzeul Esparto pentru a evita noroiul. Ziua se încheie la Auditorio, a cărui arhitectură modernă impresionează și pe timp gri.",
+            "en": "Cycling in the rain requires caution along the Segura riverbanks where paths can become slick. In the morning, the mill and Siyâsa Museum offer saving shelters for cyclists during downpours. In the afternoon, stick to paved roads towards the Esparto Museum to avoid mud. The day ends at the Auditorio, a modern structure that looks impressive even in grey weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Molino de Teodoro",
+                "hu": "Museo Molino de Teodoro",
+                "ro": "Museo Molino de Teodoro",
+                "en": "Museo Molino de Teodoro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Dachvorsprung; drinnen hören Sie das Rauschen des Flusses, der bei Regen besonders kraftvoll wirkt, während Sie trocken bleiben.",
+                "hu": "Parkolja le kerékpárját az ereszhajlat alatt; bentről hallgathatja a folyó zúgását, amely esőben különösen erőteljes, miközben Ön szárazon marad.",
+                "ro": "Parcați bicicleta sub streașină; în interior puteți asculta vuietul râului, care este extrem de puternic pe ploaie, în timp ce rămâneți la adăpost.",
+                "en": "Park your bike under the overhanging roof; inside you can hear the roar of the river, which sounds particularly powerful during rain, while you stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Muda",
+                "hu": "Monumento a la Muda",
+                "ro": "Monumento a la Muda",
+                "en": "Monumento a la Muda"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Pflaster rund um das Denkmal; ein kurzes Foto reicht aus, bevor Sie zum nächsten überdachten Ziel weiterfahren.",
+                "hu": "Vigyázzon a fékezéssel a szobor körüli nedves díszburkolaton; egy gyors fotó bőven elég, mielőtt továbbgurulna a következő fedett állomás felé.",
+                "ro": "Atenție la frânare pe pavajul umed din jurul monumentului; o fotografie rapidă este suficientă înainte de a pedala spre următoarea destinație acoperită.",
+                "en": "Be careful when braking on the wet pavement around the monument; a quick photo is enough before cycling on to the next sheltered destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Siyâsa",
+                "hu": "Museo de Siyâsa",
+                "ro": "Museo de Siyâsa",
+                "en": "Museo de Siyâsa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Pause, um Ihre Kleidung zu trocknen; die Innenräume bieten viel Platz und eine faszinierende Zeitreise.",
+                "hu": "Használja ki a múzeumlátogatást egy hosszabb pihenőre, hogy megszáradjon a ruházata; a belső terek tágasak és lenyűgöző időutazást ígérnek.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză mai lungă pentru a vă usca hainele; spațiile interioare sunt generoase și oferă o călătorie fascinantă în timp.",
+                "en": "Use the museum visit for a longer break to dry off your gear; the interior spaces are spacious and offer a fascinating journey back through time."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente del Argaz",
+                "hu": "Puente del Argaz",
+                "ro": "Puente del Argaz",
+                "en": "Puente del Argaz"
+              },
+              "tip_5lang": {
+                "de": "Die Brückenoberfläche kann extrem rutschig sein; schieben Sie Ihr Rad bei starkem Regen lieber und genießen Sie den Blick auf das aufgewühlte Wasser.",
+                "hu": "A híd felülete rendkívül csúszós lehet; heves esőben inkább tolja a kerékpárt, és közben csodálja meg a Segura felkorbácsolt, zavaros vizét.",
+                "ro": "Suprafața podului poate fi extrem de alunecoasă; pe ploaie torențială mai bine împingeți bicicleta și admirați apele agitate ale râului Segura.",
+                "en": "The bridge surface can be extremely slippery; during heavy rain, it is safer to walk your bike while admiring the churning waters of the Segura."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Esparto",
+                "hu": "Museo del Esparto",
+                "ro": "Museo del Esparto",
+                "en": "Museo del Esparto"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die Regenjacke kurz zu lüften; das Museum ist ein ruhiger Ort, um die lokale Industriegeschichte im Trockenen zu studieren.",
+                "hu": "Tökéletes megálló az esőkabát rövid szellőztetésére; a múzeum nyugodt helyszín a helyi ipartörténet tanulmányozására, messze az eső kopogásától.",
+                "ro": "O oprire perfectă pentru a vă aerisi puțin pelerina de ploaie; muzeul este un loc liniștit pentru a studia istoria industrială locală, la adăpost.",
+                "en": "A perfect stop to briefly air out your raincoat; the museum is a quiet place to study local industrial history, far from the sound of falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Gabriel Celaya",
+                "hu": "Auditorio Gabriel Celaya",
+                "ro": "Auditorio Gabriel Celaya",
+                "en": "Auditorio Gabriel Celaya"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Vordach bietet Schutz für den Abschluss der Tour; beobachten Sie, wie der Regen die Architektur in ein kühles, silbernes Licht taucht.",
+                "hu": "A modern előtető védelmet nyújt a túra végén; figyelje meg, ahogy az eső hűvös, ezüstös fénybe vonja az épület letisztult formavilágát.",
+                "ro": "Copiul modern oferă protecție la finalul traseului; observați cum ploaia îmbracă arhitectura într-o lumină rece, argintie, foarte estetică.",
+                "en": "The modern canopy provides shelter at the end of your tour; observe how the rain bathes the architecture in a cool, silver light that looks striking."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Cieza erfordert warme Handschuhe für die Abfahrten zum Fluss. Am Vormittag liegt oft Nebel über dem Segura, was der Mühle eine mystische Aura verleiht. Mittags wärmen wir uns in den städtischen Museen auf, bevor wir die sonnigen Abschnitte am Nachmittag nutzen. Da die Dämmerung früh einsetzt, ist gute Beleuchtung am Rad für den Rückweg vom Auditorio unerlässlich.",
+            "hu": "A téli kerékpározáshoz Ciezában elengedhetetlen a meleg kesztyű a folyóparti lejtőkön. Délelőtt gyakran köd ül a Segura felett, ami misztikus aurát kölcsönöz a malomnak. Délben a városi múzeumokban melegszünk fel, mielőtt kihasználnánk a délutáni napsütéses szakaszokat. Mivel korán sötétedik, a világítás kötelező az Auditoriótól való visszatekeréshez.",
+            "ro": "Ciclismul de iarnă în Cieza necesită mănuși groase pentru coborârile spre râu. Dimineața, ceața stă adesea peste Segura, oferind morii o aură mistică. La prânz ne încălzim în muzeele orașului înainte de a profita de porțiunile însorite de după-amiază. Deoarece se întunecă devreme, luminile sunt obligatorii pentru drumul de întoarcere de la Auditorio.",
+            "en": "Winter cycling in Cieza requires warm gloves for the descents to the river. In the morning, mist often clings to the Segura, giving the mill a mystical aura. At noon, we warm up in the city museums before making the most of the sunny afternoon stretches. Since it gets dark early, proper bike lights are essential for the ride back from the Auditorio."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Molino de Teodoro",
+                "hu": "Museo Molino de Teodoro",
+                "ro": "Museo Molino de Teodoro",
+                "en": "Museo Molino de Teodoro"
+              },
+              "tip_5lang": {
+                "de": "Die feuchte Kälte am Fluss ist spürbar; wärmen Sie sich im Inneren der Mühle auf und bestaunen Sie die alte Technik in einer behaglichen Umgebung.",
+                "hu": "A folyóparti nyirkos hideg érezhető; melegedjen fel a malom belsejében, és csodálja meg a régi technikát ebben a barátságos, védett környezetben.",
+                "ro": "Frigul umed de lângă râu este pătrunzător; încălziți-vă în interiorul morii și admirați tehnologia veche într-un mediu primitor și protejat.",
+                "en": "The damp cold by the river is noticeable; warm up inside the mill and admire the ancient machinery in a cozy, sheltered environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Muda",
+                "hu": "Monumento a la Muda",
+                "ro": "Monumento a la Muda",
+                "en": "Monumento a la Muda"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt im Sonnenlicht auf dem Platz hilft gegen den Fahrtwind; genießen Sie die klare Winterluft, während Sie die Statuen betrachten.",
+                "hu": "Egy rövid megálló a napsütötte téren segít a menetszél elleni védekezésben; élvezze a tiszta téli levegőt, miközben a szobrokat tanulmányozza.",
+                "ro": "O scurtă oprire la soare în piață ajută împotriva curentului de aer; bucurați-vă de aerul curat de iarnă în timp ce studiați statuile detaliate.",
+                "en": "A brief stop in the sunlight on the square helps counter the wind chill; enjoy the crisp winter air while studying the detailed statues."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Siyâsa",
+                "hu": "Museo de Siyâsa",
+                "ro": "Museo de Siyâsa",
+                "en": "Museo de Siyâsa"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie die temperierten Ausstellungsräume für eine Erholungspause von der winterlichen Außentemperatur.",
+                "hu": "Parkolja le biztonságosan a kerékpárt, és használja ki a temperált kiállítótermeket a téli kinti hőmérséklet utáni regenerálódáshoz.",
+                "ro": "Parcați bicicleta în siguranță și profitați de sălile de expoziție climatizate pentru a vă recupera după temperaturile scăzute de afară.",
+                "en": "Park your bike securely and take advantage of the climate-controlled exhibition rooms to recover from the low winter temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente del Argaz",
+                "hu": "Puente del Argaz",
+                "ro": "Puente del Argaz",
+                "en": "Puente del Argaz"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann eisig sein; ziehen Sie den Reißverschluss Ihrer Jacke hoch und bewundern Sie das klare Winterpanorama des Flusses.",
+                "hu": "A szél a hídon jeges lehet; húzza fel a cipzárt a kabátján, és csodálja meg a folyó tiszta, téli panorámáját erről a különleges pontról.",
+                "ro": "Vântul de pe pod poate fi înghețat; închideți fermoarul la jachetă și admirați panorama clară de iarnă a râului din acest punct special.",
+                "en": "The wind on the bridge can be icy; zip up your jacket and admire the clear winter panorama of the river from this unique vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Esparto",
+                "hu": "Museo del Esparto",
+                "ro": "Museo del Esparto",
+                "en": "Museo del Esparto"
+              },
+              "tip_5lang": {
+                "de": "Das Innere bietet Schutz vor den kühlen Böen; nutzen Sie die Zeit, um das traditionelle Handwerk kennenzulernen, das Cieza einst reich machte.",
+                "hu": "A belső terek védelmet nyújtanak a hűvös széllökések elől; ismerje meg a hagyományos mesterséget, amely egykor gazdaggá tette Ciezát.",
+                "ro": "Spațiile interioare oferă protecție împotriva rafalelor reci de vânt; profitați de timp pentru a învăța despre meșteșugul care a îmbogățit orașul.",
+                "en": "The interior spaces provide shelter from the cool gusts; use the time to learn about the traditional craft that once made Cieza prosperous."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Gabriel Celaya",
+                "hu": "Auditorio Gabriel Celaya",
+                "ro": "Auditorio Gabriel Celaya",
+                "en": "Auditorio Gabriel Celaya"
+              },
+              "tip_5lang": {
+                "de": "Nach 16:30 Uhr sinkt die Temperatur rapide; beenden Sie Ihren Besuch zügig und stellen Sie sicher, dass Ihre Fahrradlichter für die Rückfahrt bereit sind.",
+                "hu": "16:30 után a hőmérséklet gyorsan csökken; fejezze be időben a látogatást, és győződjön meg róla, hogy a kerékpár lámpái készen állnak a hazatérésre.",
+                "ro": "După ora 16:30 temperatura scade brusc; încheiați vizita la timp și asigurați-vă că luminile bicicletei sunt gata pentru drumul de întoarcere.",
+                "en": "After 16:30, the temperature drops sharply; finish your visit on time and ensure your bike lights are ready for the ride back home in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kora reggel hajtson fel Siyâsa ősi romjaihoz és a Castillo de la Atalaya erődhöz egy történelmi kalandra. Délben lélegzetelállító panoráma fogadja a Mirador de la Cruznál, mielőtt leereszkedne. A délután a kultúráé a Museo Molino de Teodoro és a Museo de Siyâsa bejárásával. Az estét az Ermita del Santo Cristo kilátása koronázza meg.",
         "ro": "Conduceți devreme spre ruinele islamice Siyâsa și Castillo de la Atalaya pentru o dimineață istorică. Prânzul vă răsplătește cu panorame uluitoare la Mirador de la Cruz înainte de a coborî. După-amiaza este pentru cultură la Museo Molino de Teodoro și Museo de Siyâsa. Seara se termină frumos la Ermita del Santo Cristo, cu vedere la Cieza.",
         "en": "Drive up early to the ancient Islamic ruins of Siyâsa and the towering Castillo de la Atalaya for a history-filled morning. Midday rewards you with breathtaking panoramas at the Mirador de la Cruz before descending to town. Afternoon is for culture at Museo Molino de Teodoro and Museo de Siyâsa. Evening finishes beautifully at the hilltop Ermita del Santo Cristo overlooking Cieza."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Fahrt zur Siyâsa-Ausgrabung auch bei Regen komfortabel, doch für den Rundgang im Freien ist ein Schirm nötig. Die Burg Atalaya wirkt in den Wolken besonders geheimnisvoll. Mittags bieten die Museen im Tal perfekte trockene Haltestellen. Am Nachmittag genießen wir die Aussicht vom Auto aus, bevor wir den Tag an der Ermita bei sanftem Regen ausklingen lassen.",
+            "hu": "Autóval az út a Siyâsa feltáráshoz esőben is kényelmes, de a szabadtéri körúthoz szükség lesz esernyőre. Az Atalaya vára a felhők között különösen titokzatosnak tűnik. Délben a völgy múzeumai tökéletes száraz megállókat kínálnak. Délután a kocsiból is élvezhetjük a kilátást, mielőtt a napot az Ermitánál zárnánk a csendes esőben.",
+            "ro": "Cu mașina, drumul spre situl Siyâsa este confortabil chiar și pe ploaie, dar veți avea nevoie de umbrelă pentru turul în aer liber. Castelul Atalaya pare misterios printre nori. La prânz, muzeele din vale oferă opriri uscate perfecte. După-amiaza ne bucurăm de priveliști chiar din mașină înainte de a încheia ziua la Ermita în ploaia liniștită.",
+            "en": "By car, the drive to the Siyâsa excavation is comfortable even in the rain, though an umbrella is needed for the outdoor tour. Atalaya Castle looks particularly mysterious shrouded in clouds. At noon, the valley museums offer perfect dry stops. In the afternoon, enjoy the views from the car before ending the day at the Ermita in the gentle rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Siyâsa",
+                "hu": "Siyâsa",
+                "ro": "Siyâsa",
+                "en": "Siyâsa"
+              },
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Ruinen können schlammig sein; tragen Sie festes Schuhwerk und nutzen Sie die Informationstafeln als kleinen Regenschutz.",
+                "hu": "A romok közötti ösvények sárosak lehetnek; viseljen zárt, stabil cipőt, és használja az információs táblákat apró esővédőként a szabadtéri séta során.",
+                "ro": "Potecile dintre ruine pot fi noroioase; purtați încălțăminte închisă și stabilă și folosiți panourile informative ca mici adăposturi în timpul turului.",
+                "en": "The paths between the ruins can be muddy; wear sturdy closed shoes and use the information boards as small shelters during your outdoor walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de la Atalaya",
+                "hu": "Castillo de la Atalaya",
+                "ro": "Castillo de la Atalaya",
+                "en": "Castillo de la Atalaya"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der schmalen, nassen Straße nach oben; der Blick auf das regnerische Cieza vom Auto aus ist sicher und dennoch spektakulär.",
+                "hu": "Vezessen óvatosan a felfelé vezető keskeny, vizes úton; az esős Ciezára nyíló kilátás az autóból nézve is biztonságos és látványos marad.",
+                "ro": "Conduceți cu atenție pe drumul îngust și ud spre castel; priveliștea asupra orașului Cieza pe ploaie rămâne spectaculoasă chiar și din interiorul mașinii.",
+                "en": "Drive carefully on the narrow, wet road up to the castle; the view of rainy Cieza remains safe and spectacular even when viewed from inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Cruz",
+                "hu": "Mirador de la Cruz",
+                "ro": "Mirador de la Cruz",
+                "en": "Mirador de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Fotostopp direkt vom Parkplatz aus; Sie müssen kaum aussteigen, um das Panorama des nebligen Segura-Tals im Regen zu bewundern.",
+                "hu": "Tökéletes fotómegálló közvetlenül a parkolóból; alig kell kiszállnia az autóból, hogy megcsodálja a ködös Segura-völgy panorámáját az esőben.",
+                "ro": "O oprire foto perfectă direct din parcare; abia dacă trebuie să coborâți din mașină pentru a admira panorama văii Segura învăluită în ceață.",
+                "en": "A perfect photo stop directly from the parking area; you barely need to step out to admire the panorama of the misty Segura valley in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Molino de Teodoro",
+                "hu": "Museo Molino de Teodoro",
+                "ro": "Museo Molino de Teodoro",
+                "en": "Museo Molino de Teodoro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang; drinnen ist es trocken und das Geräusch des Regens vermischt sich beruhigend mit dem Mahlen der Mühle.",
+                "hu": "Használja a bejárathoz közeli parkolóhelyet; bent száraz az idő, és az eső kopogása megnyugtatóan keveredik a malom őrlésének hangjával.",
+                "ro": "Folosiți locurile de parcare de lângă intrare; în interior este uscat, iar sunetul ploii se amestecă relaxant cu zgomotul de măcinare al morii.",
+                "en": "Use the parking spaces close to the entrance; inside it is dry, and the sound of the rain mixes soothingly with the grinding noise of the mill."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Siyâsa",
+                "hu": "Museo de Siyâsa",
+                "ro": "Museo de Siyâsa",
+                "en": "Museo de Siyâsa"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Jacken im Auto; das Museum ist gut klimatisiert und bietet eine trockene, lehrreiche Pause von der Fahrt durch die nassen Straßen.",
+                "hu": "Hagyja a vizes kabátokat az autóban; a múzeum jól klimatizált, és száraz, tanulságos pihenőt kínál a nedves utcákon való autózás után.",
+                "ro": "Lăsați jachetele ude în mașină; muzeul este bine climatizat și oferă o pauză uscată și educativă după condusul pe străzile umede.",
+                "en": "Leave your wet jackets in the car; the museum is well-climatized and offers a dry, educational break from driving through the wet streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Santo Cristo",
+                "hu": "Ermita del Santo Cristo",
+                "ro": "Ermita del Santo Cristo",
+                "en": "Ermita del Santo Cristo"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Regen etwas rutschig sein; genießen Sie die stimmungsvolle Atmosphäre der beleuchteten Kirche im Schutz Ihres Regenschirms.",
+                "hu": "A parkoló esőben kissé csúszós lehet; élvezze a kivilágított templom hangulatos atmoszféráját az esernyője védelméből, mielőtt visszatérne az autóba.",
+                "ro": "Parcarea poate fi puțin alunecoasă pe ploaie; bucurați-vă de atmosfera lăcașului de cult iluminat sub protecția umbrelei înainte de plecare.",
+                "en": "The parking area can be slightly slippery in the rain; enjoy the atmospheric mood of the lit church under your umbrella before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt zu den Höhen von Cieza bietet klare Sichten, solange die Heizung im Auto läuft. Am Vormittag erkunden wir Siyâsa in der frischen Bergluft, bevor wir zur Burg Atalaya aufsteigen. Mittags bieten die Museen im Tal eine warme Zuflucht. Der späte Nachmittag gehört der Ermita, wo wir den frühen Sonnenuntergang gegen 17:00 Uhr bequem vom Aussichtspunkt aus beobachten.",
+            "hu": "A téli autózás Cieza magaslataira tiszta kilátást ígér, amíg az autó fűtése dolgozik. Délelőtt a Siyâsa romjait fedezzük fel a friss hegyi levegőn, majd az Atalaya vára felé vesszük az irányt. Délben a völgy múzeumaiban melegszünk fel. A késő délután az Ermitáé, ahol kényelmesen nézhetjük végig a korai, 17:00 körüli naplementét.",
+            "ro": "Drumul de iarnă spre înălțimile din Cieza oferă vederi clare atât timp cât încălzirea din mașină funcționează. Dimineața explorăm ruinele Siyâsa în aerul curat, apoi urcăm la Castelul Atalaya. La prânz, muzeele din vale oferă un refugiu cald. După-amiaza târzie aparține Ermitei, unde urmărim apusul devreme de la ora 17:00.",
+            "en": "The winter drive to Cieza's heights offers clear views as long as the car heater is running. In the morning, we explore the Siyâsa ruins in the fresh mountain air before heading to Atalaya Castle. At noon, the valley museums provide a warm refuge. Late afternoon belongs to the Ermita, where we watch the early sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Siyâsa",
+                "hu": "Siyâsa",
+                "ro": "Siyâsa",
+                "en": "Siyâsa"
+              },
+              "tip_5lang": {
+                "de": "Der Wind oben am Hang kann im Winter beißend sein; tragen Sie eine winddichte Jacke für den Rundgang durch die beeindruckenden archäologischen Reste.",
+                "hu": "A hegyoldalban a szél télen metsző lehet; viseljen szélálló kabátot a lenyűgöző régészeti maradványok közötti, frissítő szabadtéri séta során.",
+                "ro": "Vântul de pe versant poate fi tăios iarna; purtați o jachetă rezistentă la vânt pentru plimbarea printre vestigiile arheologice impresionante.",
+                "en": "The wind on the hillside can be biting in winter; wear a windproof jacket for the walk among the impressive archaeological remains in the fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de la Atalaya",
+                "hu": "Castillo de la Atalaya",
+                "ro": "Castillo de la Atalaya",
+                "en": "Castillo de la Atalaya"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und beleuchtet die alten Mauern wunderschön; nutzen Sie die Wärme des Autos für die Fahrt zum Burgtor, bevor Sie kurz aussteigen.",
+                "hu": "A nap alacsonyan jár és gyönyörűen világítja meg a régi falakat; használja ki az autó melegét a várkapuig, mielőtt egy rövid sétára kiszállna.",
+                "ro": "Soarele apune și luminează superb zidurile vechi; profitați de căldura mașinii până la poarta castelului înainte de a coborî pentru o scurtă vizită.",
+                "en": "The sun is low and illuminates the old walls beautifully; take advantage of the car's warmth up to the castle gate before stepping out for a short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Cruz",
+                "hu": "Mirador de la Cruz",
+                "ro": "Mirador de la Cruz",
+                "en": "Mirador de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterpanorama bietet die beste Fernsicht des Jahres; bleiben Sie im Auto sitzen, wenn die Brise zu kalt ist, und genießen Sie die Aussicht.",
+                "hu": "A tiszta téli panoráma kínálja az év legjobb látótávolságát; maradjon az autóban, ha a szél túl hideg, a kilátás az ablakon át is lenyűgöző.",
+                "ro": "Panorama clară de iarnă oferă cea mai bună vizibilitate din an; rămâneți în mașină dacă briza este prea rece, priveliștea este superbă și prin geam.",
+                "en": "The clear winter panorama offers the best visibility of the year; stay in the car if the breeze is too cold, the view through the window is still stunning."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Molino de Teodoro",
+                "hu": "Museo Molino de Teodoro",
+                "ro": "Museo Molino de Teodoro",
+                "en": "Museo Molino de Teodoro"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich nach den windigen Höhen im Tal aufzuwärmen; die dicken Mauern halten die Winterkälte draußen und sorgen für ein wohliges Gefühl.",
+                "hu": "Ideális hely a völgyben való felmelegedéshez a szeles magaslatok után; a vastag falak kint tartják a téli hideget, meghitt hangulatot árasztva.",
+                "ro": "Un loc ideal pentru a vă încălzi în vale după înălțimile vântoase; zidurile groase țin frigul de iarnă afară, oferind o senzație de confort.",
+                "en": "An ideal place to warm up in the valley after the windy heights; the thick walls keep the winter cold out, creating a cozy and welcoming atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Siyâsa",
+                "hu": "Museo de Siyâsa",
+                "ro": "Museo de Siyâsa",
+                "en": "Museo de Siyâsa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am Nachmittag für maximalen Komfort; die Innenräume sind perfekt temperiert und lassen Sie die winterliche Kälte draußen vergessen.",
+                "hu": "Látogassa meg a múzeumot délután a maximális kényelemért; a belső terek tökéletesen fűtöttek, így könnyen elfelejtheti a kinti téli fagyokat.",
+                "ro": "Vizitați muzeul după-amiaza pentru confort maxim; spațiile interioare sunt încălzite perfect, făcându-vă să uitați de gerul de iarnă de afară.",
+                "en": "Visit the museum in the afternoon for maximum comfort; the interior spaces are perfectly heated, letting you forget the winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Santo Cristo",
+                "hu": "Ermita del Santo Cristo",
+                "ro": "Ermita del Santo Cristo",
+                "en": "Ermita del Santo Cristo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Parkplatz mit Blick nach Westen; genießen Sie den Sonnenuntergang um 17:00 Uhr direkt aus dem Auto, wenn es draußen zu zugig wird.",
+                "hu": "Keressen nyugati fekvésű parkolóhelyet; élvezze a 17:00 körüli naplementét közvetlenül az autóból, ha kint túl erős és hideg lenne a szél.",
+                "ro": "Căutați un loc de parcare cu orientare spre vest; bucurați-vă de apusul de la ora 17:00 direct din mașină dacă afară este prea mult curent.",
+                "en": "Look for a parking spot facing west; enjoy the sunset around 17:00 directly from the comfort of your car if it gets too windy and cold outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

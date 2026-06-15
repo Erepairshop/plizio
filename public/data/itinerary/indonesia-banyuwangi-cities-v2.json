@@ -160,6 +160,196 @@
         "hu": "A Banyuwangi-i séta a helyi történelemben való elmerüléssel kezdődik a Museum Blambangan termeiben. A friss reggeli levegő tökéletes ritmust ad a kiállított ősi leletek és műtárgyak megcsodálásához.\nDélben a Kampung Lukis színes ösvényein sétál, ahol a helyi művészek büszkén mutatják be munkáikat. Ezután a fenséges Masjid Agung mecset építészeti remekművénél tart egy rövid, békés pihenőt.\nA délutánt a lenyűgöző Pendapa Sabha Swagata Blambangan felfedezésével tölti, feltárva annak titkait. Később a nyüzsgő Pasar Banyuwangi piac a hagyományos áruk és illatok igazi kavalkádját kínálja.\nA nap a Tugu Kartini emlékműnél ér véget, miközben az aranyló fények kiemelik a nemzeti hősiesség előtti tisztelgést. Ez a kellemes séta gyönyörűen ötvözi a város kultúráját és mindennapi életét.",
         "ro": "Turul pietonal prin Banyuwangi începe cu o incursiune în istoria locală la Muzeul Blambangan. Aerul proaspăt al dimineții oferă ritmul perfect pentru a aprecia artefactele și relicvele antice expuse.\nLa prânz, veți explora aleile colorate din Kampung Lukis, unde artiștii locali își expun lucrările. Apoi, veți face o pauză la maiestuoasa Masjid Agung pentru a-i admira arhitectura impresionantă.\nDupă-amiaza este dedicată explorării grandiosului Pendapa Sabha Swagata Blambangan, descoperindu-i secretele. Mai târziu, forfota de la Pasar Banyuwangi vă oferă un festin senzorial cu bunuri tradiționale.\nZiua se încheie la monumentul Tugu Kartini, în lumina aurie a serii, omagiind eroismul național. Această plimbare ușoară conectează frumos cultura profundă a orașului cu viața sa cotidiană vibrantă.",
         "en": "Your walking tour of Banyuwangi begins with an immersive dive into local history at the Museum Blambangan. The morning air sets a perfect pace to appreciate the intricate artifacts and ancient relics on display.\nMidday leads you through the colorful paths of Kampung Lukis, where local artists proudly display their work. You will then stop by the grand Masjid Agung for a moment of architectural admiration.\nThe afternoon is spent wandering through the impressive Pendapa Sabha Swagata Blambangan, uncovering its historical secrets. Later, the bustling Pasar Banyuwangi offers a sensory feast of traditional goods.\nYour day wraps up at the Tugu Kartini monument as the golden hour highlights its tribute to national heroism. This gentle walk beautifully connects the city’s profound culture and vibrant daily life."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im Museum, wo Sie vor den ersten Güssen geschützt sind. Mittags bieten die großen Hallen des Pendapa und der Masjid Agung perfekten Unterschlupf vor den tropischen Schauern. Am Nachmittag erkunden Sie den überdachten Markt, der trotz Regen lebendig bleibt. Der Abend schließt mit einem kurzen, erfrischenden Spaziergang zum Denkmal ab, wenn die Luft nach dem Regen klar ist.",
+            "hu": "A napot a múzeumban kezdjük, ahol védve maradunk az első záporoktól. Délben a Pendapa és a Nagymecset hatalmas tetői nyújtanak tökéletes menedéket a trópusi eső elől. Délután a fedett piacon barangolunk, amely esőben is pezseg az élettől. Az estét egy rövid, frissítő séta zárja a Kartini emlékműnél, amikor a zuhé után kitisztul a levegő és lehűl a város.",
+            "ro": "Ziua începe la muzeu, unde sunteți protejați de primele averse. La prânz, acoperișurile mari de la Pendapa și Masjid Agung oferă adăpostul perfect împotriva ploilor tropicale. După-amiaza explorați piața acoperită, care rămâne plină de viață în ciuda vremii. Seara se încheie cu o scurtă plimbare revigorantă spre monument, când aerul devine curat și proaspăt după ploaie.",
+            "en": "The day starts at the museum, keeping you dry during the initial showers. At noon, the massive roofs of Pendapa and the Grand Mosque provide perfect shelter from the tropical downpour. In the afternoon, explore the covered market, which remains vibrant despite the rain. The evening concludes with a short, refreshing walk to the monument as the air clears after the storm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Blambangan",
+                "hu": "Museum Blambangan",
+                "ro": "Museum Blambangan",
+                "en": "Museum Blambangan"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der ideale Zufluchtsort vor dem Regen, um die Geschichte im Trockenen zu erkunden; nutzen Sie die Innenräume für einen längeren Aufenthalt bei Guss.",
+                "hu": "A múzeum tökéletes menedék az eső elől, ahol szárazon fedezheti fel a helyi történelmet; érdemes a belső termekben elidőzni, amíg odakint elvonul a nagyobb zápor.",
+                "ro": "Muzeul este refugiul ideal împotriva ploii pentru a explora istoria la adăpost; profitați de galeriile interioare pentru o vizită prelungită în timpul averselor.",
+                "en": "The museum is the ideal shelter from the rain to explore local history while staying dry; use the indoor galleries for an extended stay during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Kampung Lukis - Painting Village",
+                "hu": "Kampung Lukis - Painting Village",
+                "ro": "Kampung Lukis - Painting Village",
+                "en": "Kampung Lukis - Painting Village"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Gassen bieten teils Schutz unter Vordächern, doch Vorsicht vor glatten Wegen; farbenfrohe Murals leuchten bei bewölktem Himmel besonders intensiv.",
+                "hu": "A szűk utcák vizesen csúszhatnak, de az ereszek alatt sokszor találni menedéket; a színes falfestmények a borús időben is kiváló fotótémát szolgáltatnak.",
+                "ro": "Aleile înguste pot fi alunecoase, dar streșinile caselor oferă adăpost temporar; picturile murale colorate strălucesc intens chiar și sub cerul noros.",
+                "en": "Narrow alleys can be slippery when wet, but house eaves often provide temporary shelter; the colorful murals look vibrant even against a gray, rainy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Agung Banyuwangi",
+                "hu": "Masjid Agung Banyuwangi",
+                "ro": "Masjid Agung Banyuwangi",
+                "en": "Masjid Agung Banyuwangi"
+              },
+              "tip_5lang": {
+                "de": "Diese großzügige Moschee bietet weite überdachte Flächen und eine ruhige Atmosphäre; ideal, um das Ende eines Regenschauers im trockenen Inneren abzuwarten.",
+                "hu": "A tágas mecset hatalmas fedett terei és nyugodt légköre tökéletes hely a pihenésre; maradjon bent a szárazon, amíg a kinti intenzív trópusi eső alábbhagy.",
+                "ro": "Această moschee spațioasă oferă zone acoperite vaste și o atmosferă liniștită; este locul perfect pentru a aștepta oprirea ploii în interiorul uscat.",
+                "en": "This spacious mosque offers vast covered areas and a peaceful atmosphere; it is the perfect spot to wait out a heavy downpour in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendapa Sabha Swagata Blambangan",
+                "hu": "Pendapa Sabha Swagata Blambangan",
+                "ro": "Pendapa Sabha Swagata Blambangan",
+                "en": "Pendapa Sabha Swagata Blambangan"
+              },
+              "tip_5lang": {
+                "de": "Die traditionelle Architektur mit ihrem großen Dach schützt Sie hervorragend vor Nässe; bewundern Sie die Details des hölzernen Pavillons, während es draußen regnet.",
+                "hu": "A tradicionális pavilon hatalmas teteje kiváló védelmet nyújt a csapadék ellen; csodálja meg a faépítészet részleteit a fedél alatt, amíg odakint szakad az eső.",
+                "ro": "Arhitectura tradițională cu acoperișul său mare vă protejează excelent de umiditate; admirați detaliile pavilionului de lemn în timp ce afară plouă torențial.",
+                "en": "The traditional pavilion with its massive roof offers excellent protection from the wet; admire the wooden architectural details under cover while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Banyuwangi",
+                "hu": "Pasar Banyuwangi",
+                "ro": "Pasar Banyuwangi",
+                "en": "Pasar Banyuwangi"
+              },
+              "tip_5lang": {
+                "de": "Der Markt ist weitgehend überdacht, was das Einkaufen auch bei Regen angenehm macht; achten Sie auf die Pfützen in den Gängen und tragen Sie wasserfestes Schuhwerk.",
+                "hu": "A piac nagy része fedett, így esőben is kényelmesen nézelődhet az árusok között; viseljen vízálló cipőt, mert a sorok között könnyen összegyűlhet a víz.",
+                "ro": "Piața este în mare parte acoperită, fiind plăcută pentru vizitat chiar și pe ploaie; purtați încălțăminte impermeabilă deoarece se pot forma bălți între tarabe.",
+                "en": "The market is largely covered, making it pleasant to browse even during rain; wear waterproof shoes as puddles can easily form between the vendor stalls."
+              }
+            },
+            {
+              "name": {
+                "de": "tugu kartini",
+                "hu": "tugu kartini",
+                "ro": "tugu kartini",
+                "en": "tugu kartini"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier bei einer Regenpause für ein schnelles Foto; die umliegenden Bäume bieten nur bedingt Schutz, halten Sie Ihren Schirm stets griffbereit.",
+                "hu": "A túra végén használja ki az esőszünetet egy gyors fotóra az emlékműnél; a fák csak korlátozott védelmet adnak, így az esernyő legyen mindig kéznél.",
+                "ro": "Încheiați turul aici profitând de o pauză de ploaie pentru o fotografie rapidă; copacii oferă protecție limitată, deci păstrați umbrela la îndemână.",
+                "en": "Finish the tour here by taking advantage of a break in the rain for a quick photo; trees offer limited cover, so keep your umbrella ready at all times."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die mildere Morgenluft für einen entspannten Start am Museum. Mittags wärmt die Sonne die historischen Plätze auf, bevor die Temperaturen spürbar sinken. Der späte Nachmittag eignet sich ideal für den Besuch des Marktes, wo Sie warme lokale Köstlichkeiten finden. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie das Kartini-Denkmal frühzeitig erreichen.",
+            "hu": "Élvezze a hűvösebb reggeli levegőt egy kényelmes kezdéshez a múzeumnál. Délben a nap kellemesen melegíti a történelmi tereket, mielőtt a hőmérséklet hirtelen esni kezdene. A késő délután ideális a piaci barangoláshoz, ahol meleg helyi falatokat kóstolhat. Mivel a nap már 17:00 körül nyugovóra tér, az emlékművet még sötétedés előtt látogassa meg.",
+            "ro": "Bucurați-vă de aerul mai răcoros al dimineții pentru un început relaxat la muzeu. La prânz, soarele încălzește piețele istorice înainte ca temperaturile să scadă vizibil. După-amiaza târziu este ideală pentru piață, unde puteți găsi gustări locale calde. Deoarece soarele apune deja în jur de ora 17:00, vizitați monumentul Kartini din timp.",
+            "en": "Enjoy the cooler morning air for a relaxed start at the museum. At noon, the sun warms the historic squares before temperatures dip noticeably. Late afternoon is ideal for browsing the market, where you can find warm local snacks. Since the sun sets early around 5:00 PM, make sure to reach the Kartini monument before dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Blambangan",
+                "hu": "Museum Blambangan",
+                "ro": "Museum Blambangan",
+                "en": "Museum Blambangan"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie früh im Museum, um die kühlen Morgenstunden optimal zu nutzen; die klimatisierten Räume bieten einen angenehmen Start in den Besichtigungstag.",
+                "hu": "Kezdje korán a múzeumban, hogy kihasználja a friss reggeli órákat; a belső terek kellemes klímája tökéletes indítást ad a városnéző napnak.",
+                "ro": "Începeți devreme la muzeu pentru a profita de orele răcoroase ale dimineții; spațiile interioare oferă un start plăcut pentru ziua de vizitare.",
+                "en": "Start early at the museum to make the most of the fresh morning hours; the indoor climate provides a comfortable beginning to your sightseeing day."
+              }
+            },
+            {
+              "name": {
+                "de": "Kampung Lukis - Painting Village",
+                "hu": "Kampung Lukis - Painting Village",
+                "ro": "Kampung Lukis - Painting Village",
+                "en": "Kampung Lukis - Painting Village"
+              },
+              "tip_5lang": {
+                "de": "Das sanfte Winterlicht am Vormittag lässt die Farben der Gemälde besonders weich erscheinen; ein leichter Pullover schützt vor der frischen Brise in den Gassen.",
+                "hu": "A délelőtti lágy téli fényekben a falfestmények színei különlegesen szépek; egy könnyű pulóver elkél a szűk utcákban lengedező hűvösebb szél ellen.",
+                "ro": "Lumina blândă de iarnă din cursul dimineții face culorile picturilor să pară foarte calde; un hanorac subțire vă protejează de briza răcoroasă de pe ulițe.",
+                "en": "The soft winter morning light makes the colors of the murals look particularly beautiful; a light sweater will protect you from the cool breeze in the alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Agung Banyuwangi",
+                "hu": "Masjid Agung Banyuwangi",
+                "ro": "Masjid Agung Banyuwangi",
+                "en": "Masjid Agung Banyuwangi"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist die Moschee ein ruhiger Ort, um die Architektur in der wärmenden Sonne zu bewundern; genießen Sie die friedliche Stimmung vor dem frühen Sonnenuntergang.",
+                "hu": "Délben a mecset csendes pont, ahol a melengető napsütésben csodálhatja meg az építészetet; élvezze a békés hangulatot még a korai sötétedés beállta előtt.",
+                "ro": "La prânz, moscheea este un loc liniștit pentru a admira arhitectura sub soarele blând; bucurați-vă de atmosfera pașnică înainte de apusul devreme.",
+                "en": "At noon, the mosque is a quiet spot to admire the architecture in the warming sun; enjoy the peaceful atmosphere before the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendapa Sabha Swagata Blambangan",
+                "hu": "Pendapa Sabha Swagata Blambangan",
+                "ro": "Pendapa Sabha Swagata Blambangan",
+                "en": "Pendapa Sabha Swagata Blambangan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das helle Tageslicht im offenen Pavillon für detailreiche Fotos; die Luft ist hier am frühen Nachmittag am angenehmsten für eine längere Pause.",
+                "hu": "Használja ki a tiszta nappali fényeket a nyitott pavilonban a részletgazdag fotókhoz; a kora délutáni levegő itt a legkellemesebb egy hosszabb pihenőhöz.",
+                "ro": "Profitați de lumina clară a zilei în pavilionul deschis pentru fotografii detaliate; aerul de după-amiază este cel mai plăcut aici pentru o pauză lungă.",
+                "en": "Take advantage of the clear daylight in the open pavilion for detailed photos; the early afternoon air is most pleasant here for a longer break."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Banyuwangi",
+                "hu": "Pasar Banyuwangi",
+                "ro": "Pasar Banyuwangi",
+                "en": "Pasar Banyuwangi"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie den Markt am späten Nachmittag auf, wenn es kühler wird und die Händler heißen Tee anbieten; ideal, um sich vor dem Abendspaziergang zu stärken.",
+                "hu": "Látogasson el a piacra késő délután, amikor lehűl az idő és az árusok forró teát kínálnak; tökéletes hely a felfrissülésre az esti séta előtt.",
+                "ro": "Vizitați piața după-amiaza târziu, când se răcorește și vânzătorii oferă ceai fierbinte; este locul ideal pentru a vă încălzi înainte de plimbarea de seară.",
+                "en": "Visit the market in the late afternoon as it cools down and vendors offer hot tea; it is the perfect spot to recharge before your evening walk."
+              }
+            },
+            {
+              "name": {
+                "de": "tugu kartini",
+                "hu": "tugu kartini",
+                "ro": "tugu kartini",
+                "en": "tugu kartini"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie das Denkmal vor 17:00 Uhr, um den Sonnenuntergang im Winter zu erleben; danach sinken die Temperaturen schnell, halten Sie eine Jacke bereit.",
+                "hu": "Érkezzen az emlékműhöz 17:00 előtt, hogy elcsípje a téli naplementét; utána a hőmérséklet gyorsan csökken, legyen kéznél egy melegebb réteg.",
+                "ro": "Ajungeți la monument înainte de ora 17:00 pentru a surprinde apusul de iarnă; ulterior, temperaturile scad rapid, deci aveți pregătită o jachetă.",
+                "en": "Reach the monument before 5:00 PM to catch the winter sunset; afterwards, temperatures drop quickly, so have a warm jacket ready."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje kerékpáros kalandját a Patung Kuda Tirtawanginál, ahol a dinamikus lovasszobrok a város szellemét testesítik meg. Egy frissítő tekerés után a Museum Blambangan gazdag kiállításaihoz érkezik.\nDélben a kerekek a Kampung Lukis kreatív szívébe viszik, majd a történelmi Pendapa Sabha Swagata következik. Ezeken a csendes utcákon pedálozva elbűvölő helyi perspektívából láthatja a várost.\nDélután tartson egy kis pihenőt a Tugu Kartininál, mielőtt az élénk kulináris helyszínek felé venné az irányt. A lágy szellő hihetetlenül frissítővé teszi a kulturális gyöngyszemek közötti kerékpározást.\nAz este folyamán kényelmesen gurulhat át a Pasar Pujasera és a Pasar Burung piacokon. Az utcai ételek kóstolása és az élénk piaci energia tökéletes befejezést nyújt az aktív naphoz.",
         "ro": "Începeți aventura pe bicicletă la impresionanta Patung Kuda Tirtawangi, unde statuile dinamice ale cailor întruchipează spiritul orașului. O scurtă plimbare vă aduce la expozițiile Muzeului Blambangan.\nLa prânz, roțile vă poartă în inima creativă din Kampung Lukis, urmată de o explorare a istoricului Pendapa Sabha Swagata. Pedalarea pe aceste străzi liniștite oferă o perspectivă locală fermecătoare.\nDupă-amiaza, faceți o pauză la Tugu Kartini înainte de a vă îndrepta spre zonele culinare. Briza ușoară face ca ciclismul între aceste bijuterii culturale și istorice să fie incredibil de revigorant.\nSeara încetinește ritmul navigând prin Pasar Pujasera și piața de păsări Pasar Burung. Gustarea mâncării stradale și energia vibrantă a pieței reprezintă un final perfect pentru această zi activă.",
         "en": "Kick off your cycling adventure at the striking Patung Kuda Tirtawangi, where the dynamic horse statues embody the spirit of the city. A brisk ride then brings you to the rich exhibits of Museum Blambangan.\nBy midday, your wheels carry you into the creative heart of Kampung Lukis, followed by an exploration of the historical Pendapa Sabha Swagata. Pedaling these quiet streets offers a charming local perspective.\nIn the afternoon, pause to reflect at Tugu Kartini before heading toward the lively culinary scenes. The gentle breeze makes cycling between these cultural and historical gems incredibly refreshing.\nThe evening slows down as you navigate through Pasar Pujasera and the unique Pasar Burung. Tasting street food and absorbing the vibrant market energy provides a perfect finish to your active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag auf zwei Rädern startet am Pferdedenkmal, während Sie auf erste Wolken achten. Vormittags bietet das Museum Schutz vor plötzlichen Güssen. Mittags radeln Sie vorsichtig durch das Malkünstler-Dorf, da die Gassen rutschig sein können. Den Nachmittag verbringen Sie geschützt in den Markthallen, bevor Sie die Tour bei nachlassendem Regen am Vogelmarkt beenden.",
+            "hu": "A kerékpáros nap a ló-szobornál indul, figyelve a gyülekező felhőkre. Délelőtt a múzeum nyújt menedéket a hirtelen záporok elől. Délben óvatosan tekerjen át a festőfalun, mert az utak csúszósak lehetnek. A délutánt töltse a védett piaci csarnokokban, majd zárja a túrát a madárpiacon, amikor a csapadék már alábbhagy.",
+            "ro": "Ziua pe două roți începe la statuia calului, cu ochii pe norii de ploaie. Dimineața, muzeul oferă protecție împotriva averselor bruște. La prânz, pedalați cu atenție prin satul pictorilor, deoarece ulițele pot fi alunecoase. Petreceți după-amiaza în piețele acoperite și încheiați turul la piața de păsări când ploaia se mai potolește.",
+            "en": "The cycling day starts at the horse statue while keeping an eye on gathering clouds. In the morning, the museum provides shelter from sudden showers. At noon, cycle carefully through the painting village as paths may be slippery. Spend the afternoon in protected market halls before finishing the tour at the bird market as the rain eases."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Patung Kuda Tirtawangi",
+                "hu": "Patung Kuda Tirtawangi",
+                "ro": "Patung Kuda Tirtawangi",
+                "en": "Patung Kuda Tirtawangi"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie hier Ihre Bremsen, da die Straßen bei Regen rutschig werden; ein schneller Fotostopp ist möglich, bevor Sie zum nächsten trockenen Ziel eilen.",
+                "hu": "Ellenőrizze a fékeket, mert az utak esőben csúszóssá válnak; egy gyors fotó belefér, mielőtt a következő fedett állomás felé venné az irányt.",
+                "ro": "Verificați frânele aici, deoarece drumurile devin alunecoase pe ploaie; opriți-vă pentru o poză rapidă înainte de a porni spre următoarea destinație acoperită.",
+                "en": "Check your brakes here as roads become slippery in the rain; a quick photo stop is possible before rushing to the next dry destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Blambangan",
+                "hu": "Museum Blambangan",
+                "ro": "Museum Blambangan",
+                "en": "Museum Blambangan"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie das Museum als trockene Basis; ideal, um einen kräftigen tropischen Regenschauer abzuwarten.",
+                "hu": "Parkolja le a kerékpárt egy védett helyen, és használja a múzeumot bázisként; ideális helyszín egy intenzív trópusi zápor biztonságos kivárásához.",
+                "ro": "Parcați bicicleta într-un loc ferit și folosiți muzeul ca bază uscată; este locul ideal pentru a aștepta trecerea unei averse tropicale puternice.",
+                "en": "Park your bike in a sheltered spot and use the museum as a dry base; it is an ideal location to wait out a heavy tropical downpour safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Kampung Lukis - Painting Village",
+                "hu": "Kampung Lukis - Painting Village",
+                "ro": "Kampung Lukis - Painting Village",
+                "en": "Kampung Lukis - Painting Village"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie in den engen Gassen besonders langsam, um Spritzwasser zu vermeiden; die bunten Wände bieten auch bei grauem Himmel tolle Kontraste für Bilder.",
+                "hu": "A szűk utcákban tekerjen lassan, hogy elkerülje a felverődő vizet; a színes falak a borús égbolt alatt is remek kontrasztot adnak a fotózáshoz.",
+                "ro": "Pedalați încet pe ulițele înguste pentru a evita stropirea; pereții colorați oferă un contrast excelent pentru fotografii chiar și sub cerul gri.",
+                "en": "Cycle slowly in the narrow alleys to avoid splashing water; the colorful walls provide great contrast for photos even under a gray sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendapa Sabha Swagata Blambangan",
+                "hu": "Pendapa Sabha Swagata Blambangan",
+                "ro": "Pendapa Sabha Swagata Blambangan",
+                "en": "Pendapa Sabha Swagata Blambangan"
+              },
+              "tip_5lang": {
+                "de": "Der weitläufige überdachte Bereich ist ein Segen für Radfahrer bei Regen; machen Sie eine ausgiebige Pause im Trockenen und bewundern Sie das Holzhandwerk.",
+                "hu": "A hatalmas fedett terület áldás a kerékpárosoknak esőben; tartson egy hosszabb pihenőt a szárazon, és csodálja meg a tradicionális fafaragásokat.",
+                "ro": "Zona acoperită vastă este o binecuvântare pentru bicicliști pe ploaie; luați o pauză prelungită la adăpost și admirați măiestria lemnului tradițional.",
+                "en": "The vast covered area is a blessing for cyclists in the rain; take an extended break in the dry and admire the traditional woodwork details."
+              }
+            },
+            {
+              "name": {
+                "de": "tugu kartini",
+                "hu": "tugu kartini",
+                "ro": "tugu kartini",
+                "en": "tugu kartini"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie nur kurz für ein Foto an, da der Platz kaum Schutz bietet; achten Sie beim Wiederaufsteigen auf nasse Pedale und rutschfesten Halt.",
+                "hu": "Csak rövid időre álljon meg egy fotóra, mert a téren alig van menedék; felszálláskor ügyeljen a vizes pedálokra és a biztos tapadásra.",
+                "ro": "Opriți-vă doar scurt pentru o poză, deoarece piața oferă puțin adăpost; la plecare, atenție la pedalele ude pentru a nu vă aluneca picioarele.",
+                "en": "Stop only briefly for a photo as the square offers little shelter; when restarting, watch out for wet pedals and ensure a firm grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Pujasera",
+                "hu": "Pasar Pujasera",
+                "ro": "Pasar Pujasera",
+                "en": "Pasar Pujasera"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort für eine trockene Rast mit lokalem Essen; parken Sie das Rad nah am Eingang unter dem Vordach, um den Sattel trocken zu halten.",
+                "hu": "Kiváló helyszín egy száraz pihenőhöz és helyi ételekhez; parkoljon az előtető közelében, hogy a kerékpár nyerge száraz maradjon a következő etapig.",
+                "ro": "Un loc excelent pentru un popas uscat cu mâncare locală; parcați bicicleta lângă intrare sub streașină pentru a păstra șaua uscată.",
+                "en": "An excellent spot for a dry rest with local food; park your bike near the entrance under the eaves to keep the saddle dry for the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Burung",
+                "hu": "Pasar Burung",
+                "ro": "Pasar Burung",
+                "en": "Pasar Burung"
+              },
+              "tip_5lang": {
+                "de": "Der Vogelmarkt ist teilweise überdacht, sodass Sie den Abschluss der Tour im Trockenen genießen können; seien Sie vorsichtig auf dem oft schlammigen Boden.",
+                "hu": "A madárpiac részben fedett, így a túra végét szárazon élvezheti; legyen óvatos a kerékpárral, mert a talaj esőben gyakran sáros és csúszós.",
+                "ro": "Piața de păsări este parțial acoperită, permițându-vă să încheiați turul la adăpost; atenție la solul care devine adesea noroios după ploaie.",
+                "en": "The bird market is partially covered, letting you enjoy the end of the tour in the dry; be careful with the bike as the ground often gets muddy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour am Morgen, wenn die Luft am frischesten ist. Vormittags wärmt die Sonne auf dem Weg zum Museum angenehm auf. Mittags erkunden Sie das Malkünstler-Dorf im besten Tageslicht. Der Nachmittag führt Sie durch die kühleren Markthallen, bevor Sie die Tour am Vogelmarkt beenden, pünktlich bevor die Dämmerung gegen 17:00 Uhr einsetzt.",
+            "hu": "Indítsa kerékpáros túráját reggel, amikor a legfrissebb a levegő. Délelőtt a nap kellemesen melegít a múzeum felé vezető úton. Délben fedezze fel a festőfalut a legjobb nappali fényviszonyok mellett. A délután hűvösebb piaci csarnokokon vezet át, majd fejezze be a túrát a madárpiacon, még a 17:00 körüli korai szürkület előtt.",
+            "ro": "Începeți tura cu bicicleta dimineața, când aerul este cel mai proaspăt. La prânz, soarele vă încălzește plăcut în drum spre muzeu. Explorați satul pictorilor profitând de cea mai bună lumină a zilei. După-amiaza vă poartă prin piețele mai răcoroase, înainte de a încheia la piața de păsări, fix înainte de amurgul de la ora 17:00.",
+            "en": "Start your bike tour in the morning when the air is freshest. At noon, the sun warms you pleasantly on the way to the museum. Explore the painting village in the best daylight. The afternoon leads you through cooler market halls before finishing the tour at the bird market, just before the early dusk sets in around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Patung Kuda Tirtawangi",
+                "hu": "Patung Kuda Tirtawangi",
+                "ro": "Patung Kuda Tirtawangi",
+                "en": "Patung Kuda Tirtawangi"
+              },
+              "tip_5lang": {
+                "de": "Die frische Morgenbrise ist ideal für den Start; tragen Sie leichte Handschuhe, um Ihre Hände beim Radfahren vor der kühlen Luft zu schützen.",
+                "hu": "A friss reggeli szél ideális az induláshoz; viseljen vékony kesztyűt, hogy megvédje kezeit a hűvösebb menetszéltől tekerés közben.",
+                "ro": "Briza proaspătă de dimineață este ideală pentru start; purtați mănuși subțiri pentru a vă proteja mâinile de aerul rece în timp ce pedalați.",
+                "en": "The fresh morning breeze is ideal for starting; wear light gloves to protect your hands from the cool air while cycling at a steady pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Blambangan",
+                "hu": "Museum Blambangan",
+                "ro": "Museum Blambangan",
+                "en": "Museum Blambangan"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Museum am Vormittag bietet eine angenehm temperierte Pause; nutzen Sie die Zeit für eine gründliche Besichtigung der Exponate.",
+                "hu": "A délelőtti múzeumlátogatás kellemes hőmérsékletű pihenőt kínál; használja ki az időt a kiállítási tárgyak alapos megtekintésére a belső terekben.",
+                "ro": "O vizită la muzeu dimineața oferă un popas cu o temperatură plăcută; profitați de timp pentru o explorare detaliată a exponatelor din interior.",
+                "en": "A museum visit in the morning offers a pleasantly tempered break; use the time for a thorough exploration of the exhibits in the indoor galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Kampung Lukis - Painting Village",
+                "hu": "Kampung Lukis - Painting Village",
+                "ro": "Kampung Lukis - Painting Village",
+                "en": "Kampung Lukis - Painting Village"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt die Farben der Murals leuchten; perfekt für Fotos ohne die drückende Mittagshitze des Sommers.",
+                "hu": "A tiszta téli fényekben ragyognak a falfestmények színei; tökéletes időpont a fotózáshoz a nyári rekkenő hőség nélkül.",
+                "ro": "Lumina clară de iarnă face culorile picturilor murale să strălucească; este momentul perfect pentru poze fără căldura sufocantă a verii.",
+                "en": "The clear winter light makes the colors of the murals shine; it is the perfect time for photos without the stifling heat of the summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendapa Sabha Swagata Blambangan",
+                "hu": "Pendapa Sabha Swagata Blambangan",
+                "ro": "Pendapa Sabha Swagata Blambangan",
+                "en": "Pendapa Sabha Swagata Blambangan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Schatten des Pavillons am frühen Nachmittag; die kühle Luft unter dem großen Dach lädt zum Verweilen und Planen der restlichen Route ein.",
+                "hu": "Élvezze a pavilon árnyékát kora délután; a hatalmas tető alatti hűvös levegő pihenésre és a hátralévő útvonal átgondolására csábít.",
+                "ro": "Bucurați-vă de umbra pavilionului după-amiaza devreme; aerul răcoros de sub acoperișul mare vă invită la un popas pentru planificarea rutei.",
+                "en": "Enjoy the shade of the pavilion in the early afternoon; the cool air under the massive roof invites you to rest and plan the rest of your route."
+              }
+            },
+            {
+              "name": {
+                "de": "tugu kartini",
+                "hu": "tugu kartini",
+                "ro": "tugu kartini",
+                "en": "tugu kartini"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht am Nachmittag bereits tief, was dramatische Schatten wirft; beeilen Sie sich, um das Denkmal noch im Sonnenlicht zu fotografieren.",
+                "hu": "A nap délután már alacsonyan jár, ami drámai árnyékokat vet; igyekezzen, hogy az emlékművet még teljes napfényben tudja lefotózni.",
+                "ro": "Soarele este deja jos după-amiaza, proiectând umbre dramatice; grăbiți-vă pentru a fotografia monumentul cât încă mai este luminat de soare.",
+                "en": "The sun is already low in the afternoon, casting dramatic shadows; hurry up to photograph the monument while it is still in full sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Pujasera",
+                "hu": "Pasar Pujasera",
+                "ro": "Pasar Pujasera",
+                "en": "Pasar Pujasera"
+              },
+              "tip_5lang": {
+                "de": "Stärken Sie sich mit warmen Speisen für die letzte Etappe; die Temperaturen beginnen am späten Nachmittag bereits merklich zu sinken.",
+                "hu": "Frissüljön fel meleg ételekkel az utolsó szakasz előtt; a hőmérséklet késő délután már érezhetően csökkenni kezd a városban.",
+                "ro": "Reîncărcați-vă bateriile cu mâncare caldă pentru ultima etapă; temperaturile încep să scadă vizibil spre sfârșitul după-amiezii.",
+                "en": "Recharge with warm food for the last leg of your trip; temperatures start to drop noticeably in the late afternoon across the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Burung",
+                "hu": "Pasar Burung",
+                "ro": "Pasar Burung",
+                "en": "Pasar Burung"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 17:00 Uhr, da die Sicht auf dem Markt bei Dämmerung schnell nachlässt und es kühler wird.",
+                "hu": "Fejezze be a túrát 17:00 előtt, mert a sötétedéssel a látási viszonyok romlanak és a levegő is gyorsan lehűl a piacon.",
+                "ro": "Încheiați turul înainte de ora 17:00, deoarece vizibilitatea scade rapid la amurg și aerul devine mult mai rece în piață.",
+                "en": "Finish your tour before 5:00 PM, as visibility decreases quickly at dusk and the air becomes significantly cooler in the market."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Autós túrája a Masjid Al Kautsar mecset békés meglátogatásával indul, ráhangolódva a reggelre. Innen egy kényelmes út vezet a Museum Blambangan lenyűgöző és kiterjedt kulturális kiállításaihoz.\nA nap folyamán eléri az ikonikus Tugu Kartini emlékművet és a különleges szerkezetű Pasar Segitiga Berlian piacot. Az autó lehetővé teszi, hogy zökkenőmentesen kösse össze ezeket a városi nevezetességeket.\nA délután a fenséges Pendapa Sabha Swagata Blambangan felfedezésével folytatódik, majd egy történelmi temetőnél tart rövid pihenőt. Ezután a nyugodt Masjid Al Hadi mecsetbe látogat el a hűvösödő időben.\nUtazása a helyi strandot és vízi parkot is magába foglaló tengerparti rekreációs övezetben éri el csúcspontját. A vízparti pihenés nyugtató és festői lezárása ennek az átfogó városi autós túrának.",
         "ro": "Turul dumneavoastră auto începe cu o vizită liniștită la Masjid Al Kautsar, pentru o dimineață relaxantă. De acolo, un drum confortabil vă conduce la expozițiile culturale extinse din Muzeul Blambangan.\nPe măsură ce soarele urcă, veți ajunge la iconicul Tugu Kartini și la structura unică a Pasar Segitiga Berlian. Având o mașină, puteți parcurge fără efort distanța dintre aceste repere urbane distincte.\nDupă-amiaza se desfășoară la impresionantul Pendapa Sabha Swagata Blambangan, urmat de o oprire la Cimitirul istoric. Vizitați apoi senina Masjid Al Hadi, pe măsură ce căldura zilei se mai domolește.\nCălătoria culminează la zona de recreere de pe coastă, cu parc acvatic și plajă locală. Relaxarea pe malul apei oferă o concluzie liniștitoare și pitorească pentru turul dumneavoastră cuprinzător al orașului.",
         "en": "Your driving tour commences with a tranquil visit to Masjid Al Kautsar, easing you into the morning. From there, a comfortable drive leads to the extensive cultural displays housed within Museum Blambangan.\nAs the sun climbs, you will reach the iconic Tugu Kartini and the uniquely structured Pasar Segitiga Berlian. Having a car allows you to seamlessly bridge the gap between these distinct urban landmarks.\nThe afternoon unfolds at the impressive Pendapa Sabha Swagata Blambangan, followed by a reflective stop at the historical Cemetery. You then visit the serene Masjid Al Hadi as the day begins to cool down.\nYour journey culminates at the coastal recreation area featuring a water park and local beach. Relaxing by the water’s edge offers a soothing and picturesque conclusion to your comprehensive city driving tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour bietet heute den besten Schutz vor den tropischen Güssen. Vormittags besuchen Sie bequem Museen und Denkmäler, während draußen der Regen prasselt. Mittags halten Sie an überdachten Märkten und Hallen, ohne nass zu werden. Der Nachmittag führt zu weiteren religiösen Stätten, bevor Sie den Tag entspannt an einem geschützten Aussichtspunkt beenden.",
+            "hu": "Az autós túra ma a legjobb védelmet nyújtja a trópusi záporok ellen. Délelőtt kényelmesen látogathatja a múzeumot és emlékműveket, miközben odakint szakad az eső. Délben fedett piacoknál és csarnokoknál állhat meg anélkül, hogy bőrig ázna. A délután vallási helyszínekhez vezet, majd a napot egy védett kilátópontnál zárhatja le.",
+            "ro": "Turul cu mașina oferă astăzi cea mai bună protecție împotriva averselor tropicale. Dimineața vizitați confortabil muzeele și monumentele în timp ce afară plouă torențial. La prânz opriți la piețe acoperite fără a vă uda. După-amiaza vă poartă spre situri religioase, încheind ziua relaxat la un punct de observație ferit.",
+            "en": "The car tour provides the best protection against tropical downpours today. In the morning, comfortably visit museums and monuments while the rain pours outside. At noon, stop at covered markets and halls without getting soaked. The afternoon leads to religious sites, before ending the day relaxed at a sheltered viewpoint."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Al Kautsar",
+                "hu": "Masjid Al Kautsar",
+                "ro": "Masjid Al Kautsar",
+                "en": "Masjid Al Kautsar"
+              },
+              "tip_5lang": {
+                "de": "Dank des Autos erreichen Sie den Eingang fast trocken; nutzen Sie die ruhige Atmosphäre der Moschee, um den ersten starken Regen abzuwarten.",
+                "hu": "Az autónak köszönhetően szinte szárazon érhet a bejárathoz; használja ki a mecset nyugodt légkörét az első heves esőzés kivárására.",
+                "ro": "Datorită mașinii, ajungeți la intrare aproape uscat; profitați de atmosfera liniștită a moscheii pentru a aștepta trecerea primei ploi grele.",
+                "en": "Thanks to the car, you reach the entrance almost dry; use the peaceful atmosphere of the mosque to wait out the first heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Blambangan",
+                "hu": "Museum Blambangan",
+                "ro": "Museum Blambangan",
+                "en": "Museum Blambangan"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein perfekter Stopp bei Regen; parken Sie nah am Gebäude und verbringen Sie die Zeit mit der Erkundung der lokalen Geschichte.",
+                "hu": "A múzeum tökéletes megálló esős időben; parkoljon az épület közelében, és töltse az időt a helyi történelem felfedezésével a száraz belsőben.",
+                "ro": "Muzeul este o oprire perfectă pe ploaie; parcați aproape de clădire și petreceți timpul explorând istoria locală în interiorul primitor.",
+                "en": "The museum is a perfect stop during rainy weather; park near the building and spend time exploring local history in the welcoming interior."
+              }
+            },
+            {
+              "name": {
+                "de": "tugu kartini",
+                "hu": "tugu kartini",
+                "ro": "tugu kartini",
+                "en": "tugu kartini"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal kurz vom Auto aus oder nutzen Sie eine Regenpause für ein schnelles Foto; die Sicht kann durch den Regen getrübt sein.",
+                "hu": "Tekintse meg az emlékművet az autóból, vagy használja ki az esőszünetet egy gyors fotóra; a kilátást a heves esőzés kissé korlátozhatja.",
+                "ro": "Admirați monumentul din mașină sau profitați de o pauză de ploaie pentru o poză rapidă; vizibilitatea poate fi redusă din cauza ploii intense.",
+                "en": "Admire the monument from the car or take advantage of a break in the rain for a quick photo; visibility may be slightly reduced by the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Segitiga Berlian",
+                "hu": "Pasar Segitiga Berlian",
+                "ro": "Pasar Segitiga Berlian",
+                "en": "Pasar Segitiga Berlian"
+              },
+              "tip_5lang": {
+                "de": "Dieser Markt bietet guten Schutz vor Nässe; ideal, um lokale Produkte zu kaufen, während das Auto sicher und trocken auf dem Parkplatz wartet.",
+                "hu": "Ez a piac jó védelmet nyújt a csapadék ellen; ideális helyi termékek vásárlására, miközben az autó biztonságban vár a közeli parkolóban.",
+                "ro": "Această piață oferă protecție bună împotriva ploii; este ideală pentru cumpărături locale în timp ce mașina așteaptă în siguranță în parcare.",
+                "en": "This market offers good protection from the rain; it is ideal for local shopping while your car waits safely in the nearby parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendapa Sabha Swagata Blambangan",
+                "hu": "Pendapa Sabha Swagata Blambangan",
+                "ro": "Pendapa Sabha Swagata Blambangan",
+                "en": "Pendapa Sabha Swagata Blambangan"
+              },
+              "tip_5lang": {
+                "de": "Der große Pavillon schützt Sie hervorragend; genießen Sie die traditionelle Atmosphäre und die Architektur, während draußen das tropische Wetter tobt.",
+                "hu": "A hatalmas pavilon kiváló védelmet nyújt; élvezze a tradicionális hangulatot és az építészetet, miközben odakint tombol a trópusi időjárás.",
+                "ro": "Pavilionul mare oferă protecție excelentă; bucurați-vă de atmosfera tradițională și de arhitectură în timp ce afară se dezlănțuie vremea tropicală.",
+                "en": "The large pavilion provides excellent protection; enjoy the traditional atmosphere and architecture while the tropical weather rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cemetery",
+                "hu": "Cemetery",
+                "ro": "Cemetery",
+                "en": "Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Besuch ist auch bei Regen möglich, da die Wege befestigt sind; achten Sie auf rutschige Stellen und halten Sie den Schirm bereit.",
+                "hu": "A látogatás esőben is lehetséges a kiépített utaknak köszönhetően; ügyeljen a csúszós szakaszokra, és tartsa készenlétben az esernyőjét.",
+                "ro": "O vizită scurtă este posibilă chiar și pe ploaie datorită potecilor amenajate; atenție la zonele alunecoase și țineți umbrela pregătită.",
+                "en": "A short visit is possible even in the rain thanks to the paved paths; watch out for slippery spots and keep your umbrella ready at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Hadi",
+                "hu": "Masjid Al Hadi",
+                "ro": "Masjid Al Hadi",
+                "en": "Masjid Al Hadi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Moschee als trockenen Rückzugsort; die Parkmöglichkeiten in der Nähe machen den Zugang auch bei starkem Regen unkompliziert.",
+                "hu": "Használja a mecsetet száraz pihenőhelyként; a közeli parkolási lehetőség egyszerűvé teszi a bejutást még heves esőzés esetén is.",
+                "ro": "Folosiți moscheea ca un refugiu uscat; parcarea din apropiere face accesul foarte simplu chiar și în timpul ploilor torențiale.",
+                "en": "Use the mosque as a dry retreat; the nearby parking options make access very easy even during heavy tropical rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "water park,zoo,beach local",
+                "hu": "water park,zoo,beach local",
+                "ro": "water park,zoo,beach local",
+                "en": "water park,zoo,beach local"
+              },
+              "tip_5lang": {
+                "de": "Am Strand kann es bei Regen windig sein; bleiben Sie im Auto und genießen Sie den Blick auf das stürmische Meer als stimmungsvollen Abschluss.",
+                "hu": "A tengerparton esőben szeles lehet az idő; maradjon az autóban, és élvezze a viharos tenger látványát a nap hangulatos zárásaként.",
+                "ro": "La plajă poate fi vântos pe ploaie; rămâneți în mașină și admirați marea agitată ca un final atmosferic al zilei de vizitare.",
+                "en": "The beach can be windy in the rain; stay in the car and enjoy the view of the stormy sea as an atmospheric end to your sightseeing day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Autotour in der kühlen Morgenluft. Vormittags wärmt die Sonne angenehm durch die Scheiben auf dem Weg zum Museum. Mittags besuchen Sie historische Plätze und Märkte, bevor die Temperaturen am Nachmittag wieder sinken. Da es bereits gegen 17:00 Uhr dunkel wird, sollten Sie den Strandbesuch zeitig planen, um den Sonnenuntergang zu erleben.",
+            "hu": "Indítsa autós túráját a friss reggeli levegőben. Délelőtt a nap kellemesen melegít az ablakokon át a múzeum felé vezető úton. Délben látogassa meg a történelmi tereket és piacokat, mielőtt délután újra lehűlne az idő. Mivel már 17:00 körül sötétedik, a tengerparti zárást időzítse korábbra a naplemente élményéhez.",
+            "ro": "Începeți turul cu mașina în aerul proaspăt al dimineții. La prânz, soarele vă încălzește plăcut prin geamuri în drum spre muzeu. Vizitați piețele istorice înainte ca temperaturile să scadă din nou după-amiaza. Deoarece se întunecă în jur de ora 17:00, planificați vizita la plajă din timp pentru apus.",
+            "en": "Start your car tour in the fresh morning air. In the morning, the sun warms you pleasantly through the windows on the way to the museum. At noon, visit historic squares and markets before temperatures drop again in the afternoon. Since it gets dark around 5:00 PM, plan your beach visit early to catch the sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Al Kautsar",
+                "hu": "Masjid Al Kautsar",
+                "ro": "Masjid Al Kautsar",
+                "en": "Masjid Al Kautsar"
+              },
+              "tip_5lang": {
+                "de": "Die klare Morgenluft macht den Besuch der Moschee besonders erfrischend; nutzen Sie die Parkheizung oder Klimaanlage für optimalen Komfort.",
+                "hu": "A tiszta reggeli levegő különösen felfrissítővé teszi a mecset látogatását; használja az autó klímaberendezését az optimális kényelem érdekében.",
+                "ro": "Aerul curat al dimineții face vizita la moschee foarte revigorantă; folosiți climatizarea mașinii pentru un confort optim pe durata drumului.",
+                "en": "The clear morning air makes the mosque visit especially refreshing; use the car's climate control for optimal comfort during the drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Blambangan",
+                "hu": "Museum Blambangan",
+                "ro": "Museum Blambangan",
+                "en": "Museum Blambangan"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet am Vormittag eine angenehm temperierte Umgebung; perfekt, um die lokale Geschichte ohne sommerliche Hitze zu studieren.",
+                "hu": "A múzeum délelőtt kellemes hőmérsékletű környezetet biztosít; tökéletes helyszín a helyi történelem tanulmányozásához a nyári hőség nélkül.",
+                "ro": "Muzeul oferă un mediu cu o temperatură plăcută dimineața; este locul perfect pentru a studia istoria locală fără căldura verii.",
+                "en": "The museum provides a pleasantly tempered environment in the morning; it's perfect for studying local history without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "tugu kartini",
+                "hu": "tugu kartini",
+                "ro": "tugu kartini",
+                "en": "tugu kartini"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Sonnenlicht am Mittag eignet sich hervorragend für Fotos des Denkmals; die Luft ist klar und bietet eine weite Sicht über den Platz.",
+                "hu": "A déli alacsonyabb napállás kiváló fényeket ad az emlékmű fotózásához; a levegő tiszta, így messziről is jól látszanak a részletek.",
+                "ro": "Lumina soarelui de la prânz este excelentă pentru a fotografia monumentul; aerul este clar, oferind o vizibilitate bună asupra întregii piețe.",
+                "en": "The low midday sunlight is excellent for photographing the monument; the air is clear, offering great visibility across the entire square."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Segitiga Berlian",
+                "hu": "Pasar Segitiga Berlian",
+                "ro": "Pasar Segitiga Berlian",
+                "en": "Pasar Segitiga Berlian"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den klimatisierten Wagen für den Transport Ihrer Markteinkäufe; am Nachmittag ist es hier besonders belebt und angenehm kühl.",
+                "hu": "Használja a klimatizált autót a piaci bevásárlások kényelmes szállítására; délután itt különösen pezsgő az élet és kellemesen friss a levegő.",
+                "ro": "Folosiți mașina climatizată pentru a transporta cumpărăturile din piață; după-amiaza este foarte animat aici și aerul este plăcut de răcoros.",
+                "en": "Use the climate-controlled car to transport your market purchases comfortably; in the afternoon, it's particularly lively and pleasantly cool here."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendapa Sabha Swagata Blambangan",
+                "hu": "Pendapa Sabha Swagata Blambangan",
+                "ro": "Pendapa Sabha Swagata Blambangan",
+                "en": "Pendapa Sabha Swagata Blambangan"
+              },
+              "tip_5lang": {
+                "de": "Der Pavillon bietet Schutz vor der intensiven Mittagssonne; genießen Sie die kühle Brise, die durch die offene Holzkonstruktion weht.",
+                "hu": "A pavilon védelmet nyújt az intenzív déli napsütés ellen; élvezze a hűvös fuvallatot, amely átjárja a nyitott faépítményt.",
+                "ro": "Pavilionul oferă protecție împotriva soarelui intens de la prânz; bucurați-vă de briza răcoroasă care trece prin structura deschisă de lemn.",
+                "en": "The pavilion offers protection from the intense midday sun; enjoy the cool breeze blowing through the open wooden structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Cemetery",
+                "hu": "Cemetery",
+                "ro": "Cemetery",
+                "en": "Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch am Nachmittag ist bei den milden Temperaturen sehr angenehm; achten Sie auf den frühen Schattenwurf der umliegenden Bäume.",
+                "hu": "A délutáni látogatás a tiszta, hűvösebb időben kifejezetten kellemes; ügyeljen a környező fák által vetett korai árnyékokra a területen.",
+                "ro": "O vizită după-amiaza este foarte plăcută datorită temperaturilor blânde; atenție la umbrele lungi lăsate de copacii din jur spre seară.",
+                "en": "A visit in the afternoon is very pleasant due to the mild temperatures; watch out for the early shadows cast by the surrounding trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Hadi",
+                "hu": "Masjid Al Hadi",
+                "ro": "Masjid Al Hadi",
+                "en": "Masjid Al Hadi"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee strahlt am späten Nachmittag eine besondere Ruhe aus; ideal, um kurz innezuhalten, bevor die winterliche Dämmerung einsetzt.",
+                "hu": "A mecset késő délután különleges nyugalmat áraszt; ideális hely egy rövid megállásra, mielőtt beállna a korai téli szürkület a városban.",
+                "ro": "Moscheea emană o liniște deosebită după-amiaza târziu; este locul ideal pentru un scurt popas înainte de amurgul de iarnă.",
+                "en": "The mosque radiates a special tranquility in the late afternoon; it's the ideal place for a short pause before the early winter dusk sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "water park,zoo,beach local",
+                "hu": "water park,zoo,beach local",
+                "ro": "water park,zoo,beach local",
+                "en": "water park,zoo,beach local"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Strand vor 17:00 Uhr für den Sonnenuntergang; danach wird es am Meer schnell kühl, halten Sie Ihre Jacke im Auto bereit.",
+                "hu": "Érkezzen a tengerpartra 17:00 előtt a naplemente megtekintéséhez; utána gyorsan lehűl a levegő, legyen kéznél egy kabát az autóban.",
+                "ro": "Ajungeți la plajă înainte de ora 17:00 pentru apus; ulterior se face răcoare rapid, deci aveți o jachetă pregătită în mașină.",
+                "en": "Reach the beach before 5:00 PM for the sunset; afterwards, it cools down quickly, so have a jacket ready in the car for your return."
+              }
+            }
+          ]
+        }
       }
     }
   }

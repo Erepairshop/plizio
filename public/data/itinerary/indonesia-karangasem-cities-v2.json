@@ -160,6 +160,196 @@
         "hu": "Reggel kezdje a napot Karangasem lenyűgöző emlékműveinél, és csodálja meg az arany Patung Kereta Kencana szobrot a korai napfényben.\nDélben tartson egy pihentető szünetet a buja növényzetű Taman Sekuta parkban, mielőtt folytatná útját a történelmi központ felé.\nDélután mélyedjen el a balinéz királyi történelemben a Puri Gede palotában, amely csodálatos fafaragásaival várja.\nEste zárja a sétát a hatalmas Puri Agung Karangasem palotában, felfedezve az európai és helyi építészeti stílusok egyedi ötvözetét.",
         "ro": "Dimineața începeți explorarea monumentelor impresionante din Karangasem, admirând statuia aurie Patung Kereta Kencana în lumina blândă.\nLa prânz luați o pauză relaxantă printre verdeața parcului Taman Sekuta înainte de a vă îndrepta spre inima istorică a orașului.\nDupă-amiaza aprofundați istoria regală balineză la Puri Gede, unde arhitectura antică și detaliile sculptate vă vor impresiona profund.\nSeara încheiați turul la grandiosul Puri Agung Karangasem, unde amestecul de stiluri balineze și europene creează o atmosferă unică.",
         "en": "Morning: Start the day exploring Karangasem's majestic monuments, admiring the golden Patung Kereta Kencana before continuing to the nearby historic sites.\nMidday: Take a relaxing break amidst the lush greenery of Taman Sekuta, where you can recharge your energy before heading towards the center.\nAfternoon: Delve deep into Balinese royal history as you explore Puri Gede, marveling at its intricate architecture and beautifully preserved heritage.\nEvening: Conclude your walking tour at the grand Puri Agung Karangasem, discovering the unique blend of Balinese and European designs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt an den Statuen, wo der nasse Stein dramatisch glänzt. Mittags bietet der Sekuta-Park zwischen den Regenschauern üppiges Grün, aber suchen Sie bei Bedarf unter den Bäumen Schutz. Nachmittags erkunden wir die überdachten Pavillons der Puri-Paläste, die bei Regen eine mystische Atmosphäre ausstrahlen. Der Abend endet ruhig, während der Regen auf die alten Dächer trommelt.",
+            "hu": "Az esős reggel a szobroknál indul, ahol a vizes kőfelületek drámai fényben úsznak. Délben a Sekuta Park buja zöldje nyújt menedéket a záporok között, de figyeljünk a csúszós ösvényekre. Délután a paloták fedett pavilonjai között kalandozunk, melyek ilyenkor különösen misztikus hangulatot árasztanak. Az este csendesen zárul, miközben az eső kopogása festi alá a történelmi falak nyugalmát.",
+            "ro": "O dimineață ploioasă începe la statui, unde piatra umedă strălucește dramatic în lumină. La prânz, Parcul Sekuta oferă un verde crud între averse, dar aveți grijă la potecile alunecoase. După-amiaza explorăm pavilioanele acoperite ale palatelor Puri, care emană o atmosferă mistică pe ploaie. Seara se încheie liniștit, în timp ce sunetul ploii acompaniază zidurile istorice sub cerul întunecat.",
+            "en": "A rainy morning starts at the statues, where the wet stone surfaces glisten dramatically. At noon, the Sekuta Park offers lush greenery between showers, but be careful of the slippery paths. In the afternoon, we explore the covered pavilions of the Puri palaces, which radiate a mystical atmosphere in the rain. The evening ends quietly as the sound of rain drum against the historic roofs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Patung Kereta Kencana",
+                "hu": "Patung Kereta Kencana",
+                "ro": "Patung Kereta Kencana",
+                "en": "Patung Kereta Kencana"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die dramatische Skulptur im Regen, während das Wasser von den steinernen Pferden abläuft; tragen Sie feste Schuhe wegen der Pfützenbildung.",
+                "hu": "Csodáld meg a drámai szoborcsoportot az esőben, ahogy a víz lefolyik a kőlovakon; viselj zárt cipőt a környéken kialakuló tócsák miatt.",
+                "ro": "Admirați sculptura dramatică în ploaie, în timp ce apa se scurge de pe caii de piatră; purtați încălțăminte aderentă din cauza bălților formate.",
+                "en": "Admire the dramatic sculpture in the rain as water runs off the stone horses; wear waterproof shoes because of the puddles forming around."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Pancasila",
+                "hu": "Monumen Pancasila",
+                "ro": "Monumen Pancasila",
+                "en": "Monumen Pancasila"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto des Denkmals unter grauem Himmel; nutzen Sie einen Regenschirm, da es hier kaum Unterstand gibt.",
+                "hu": "Gyors megálló egy fotóra az emlékműnél a szürke égbolt alatt; használj esernyőt, mert itt kevés a fedett menedékhely.",
+                "ro": "O oprire scurtă pentru o fotografie la monument sub cerul gri; folosiți o umbrelă, deoarece există puține locuri de adăpost aici.",
+                "en": "A quick stop for a photo of the monument under the grey sky; use an umbrella as there is very little shelter available here."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Ciung Wanara",
+                "hu": "Monumen Ciung Wanara",
+                "ro": "Monumen Ciung Wanara",
+                "en": "Monumen Ciung Wanara"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Details treten bei feuchtem Wetter stärker hervor; achten Sie auf den rutschigen Boden rund um den Sockel des Denkmals.",
+                "hu": "A történelmi részletek még jobban kiemelkednek a párás időben; ügyelj a csúszós talajra az emlékmű talpazata környékén.",
+                "ro": "Detaliile istorice ies mai mult în evidență pe vreme umedă; atenție la solul alunecos din jurul soclului monumentului.",
+                "en": "Historical details stand out even more in the humid weather; watch out for the slippery ground around the monument's base."
+              }
+            },
+            {
+              "name": {
+                "de": "Taman Sekuta",
+                "hu": "Taman Sekuta",
+                "ro": "Taman Sekuta",
+                "en": "Taman Sekuta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die intensive Farbe der tropischen Pflanzen, die im Regen leuchten; suchen Sie bei starken Güssen Schutz in den kleinen Pavillons.",
+                "hu": "Élvezd a trópusi növények intenzív színeit, amelyek ragyognak az esőben; heves zápor esetén keress menedéket a kis pavilonokban.",
+                "ro": "Bucurați-vă de culorile intense ale plantelor tropicale care strălucesc în ploaie; căutați adăpost în pavilioanele mici în caz de aversă.",
+                "en": "Enjoy the intense colors of the tropical plants glowing in the rain; seek shelter in the small pavilions during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Puri Gede",
+                "hu": "Puri Gede",
+                "ro": "Puri Gede",
+                "en": "Puri Gede"
+              },
+              "tip_5lang": {
+                "de": "Die traditionelle Architektur bietet viele überdachte Gänge, um trocken zu bleiben; beobachten Sie, wie der Regen in den Innenhöfen versickert.",
+                "hu": "A tradicionális építészet sok fedett folyosót kínál, így szárazon maradhatsz; figyeld meg, ahogy az esővíz összegyűlik a belső udvarokon.",
+                "ro": "Arhitectura tradițională oferă multe coridoare acoperite pentru a rămâne uscat; observați cum apa de ploaie se adună în curțile interioare.",
+                "en": "The traditional architecture offers many covered corridors to stay dry; observe how the rainwater drains in the inner courtyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Puri Agung Karangasem",
+                "hu": "Puri Agung Karangasem",
+                "ro": "Puri Agung Karangasem",
+                "en": "Puri Agung Karangasem"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die prächtigen Innenräume, während es draußen regnet; die feuchte Luft verstärkt den Duft der alten Holzkonstruktionen.",
+                "hu": "Fedezd fel a pompás belső tereket, miközben kint esik; a párás levegő felerősíti a régi faszerkezetek jellegzetes illatát.",
+                "ro": "Explorați interioarele splendide în timp ce afară plouă; aerul umed intensifică parfumul structurilor vechi de lemn.",
+                "en": "Explore the splendid interiors while it rains outside; the humid air intensifies the scent of the ancient wooden structures."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Karangasem ist erfrischend kühl und perfekt für den Spaziergang zu den Denkmälern. Mittags ist die Sonne mild, was den Aufenthalt im Sekuta-Park besonders angenehm macht. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Nachmittagslicht in den prächtigen Palastanlagen optimal aus. Der Abend wird spürbar kühler, ideal für einen entspannten Ausklang des Tages.",
+            "hu": "A téli reggel Karangasemben frissítően hűvös, tökéletes a sétához az emlékművek között. Délben a napfény szelíd, így a Sekuta Parkban töltött idő kifejezetten kellemes. Mivel a nap már 17:00 körül nyugovóra tér, a délutáni aranyló fényeket a paloták udvarán használjuk ki leginkább. Az este érezhetően lehűl, így érdemes egy vékonyabb réteget bekészíteni a nap végére.",
+            "ro": "Dimineața de iarnă în Karangasem este răcoroasă și perfectă pentru plimbarea printre monumente. La prânz, soarele este blând, făcând șederea în Parcul Sekuta extrem de plăcută. Deoarece soarele apune deja în jurul orei 17:00, profităm de lumina aurie a după-amiezii în curțile palatelor. Seara devine simțitor mai rece, fiind ideală pentru o încheiere relaxată a zilei.",
+            "en": "The winter morning in Karangasem is refreshingly cool, perfect for walking among the monuments. At noon, the sunlight is mild, making the time spent in Sekuta Park very pleasant. Since the sun sets around 17:00, we make the most of the golden afternoon light in the palace courtyards. The evening becomes noticeably cooler, so it is worth having a thin layer ready."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Patung Kereta Kencana",
+                "hu": "Patung Kereta Kencana",
+                "ro": "Patung Kereta Kencana",
+                "en": "Patung Kereta Kencana"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühle Morgenluft für Fotos ohne die Hitze; die tiefstehende Wintersonne wirft lange, dramatische Schatten auf die Statue.",
+                "hu": "Használd ki a hűvös reggeli levegőt a fotózáshoz a hőség nélkül; az alacsony téli nap hosszú, drámai árnyékokat vet a szoborra.",
+                "ro": "Profită de aerul răcoros de dimineață pentru fotografii fără căldură; soarele jos de iarnă aruncă umbre lungi și dramatice pe statuie.",
+                "en": "Take advantage of the cool morning air for photos without the heat; the low winter sun casts long, dramatic shadows on the statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Pancasila",
+                "hu": "Monumen Pancasila",
+                "ro": "Monumen Pancasila",
+                "en": "Monumen Pancasila"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine hervorragende Sicht auf das Denkmal; idealer Zeitpunkt für einen kurzen, schattenlosen Aufenthalt.",
+                "hu": "A tiszta téli levegő kiváló látási viszonyokat biztosít az emlékműnél; ideális időpont egy rövid, árnyékmentes nézelődésre.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă la monument; moment ideal pentru o vizită scurtă, fără a căuta umbră.",
+                "en": "The clear winter air provides excellent visibility at the monument; an ideal time for a short visit without needing to find shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Ciung Wanara",
+                "hu": "Monumen Ciung Wanara",
+                "ro": "Monumen Ciung Wanara",
+                "en": "Monumen Ciung Wanara"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Atmosphäre bei milden Temperaturen; die Winterbrise macht das Stehen im Freien sehr angenehm.",
+                "hu": "Élvezd a történelmi hangulatot a mérsékelt hőmérsékletben; a téli szellő kifejezetten kellemessé teszi a szabadtéri várakozást.",
+                "ro": "Bucurați-vă de atmosfera istorică la temperaturi blânde; briza de iarnă face statul în aer liber extrem de plăcut.",
+                "en": "Enjoy the historical atmosphere in mild temperatures; the winter breeze makes standing outdoors very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Taman Sekuta",
+                "hu": "Taman Sekuta",
+                "ro": "Taman Sekuta",
+                "en": "Taman Sekuta"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für einen längeren Aufenthalt in der milden Mittagssonne; beobachten Sie die Zugvögel, die im Winter hier rasten.",
+                "hu": "Tökéletes helyszín egy hosszabb pihenőre a szelíd déli napsütésben; figyeld meg a télen itt megpihenő vándormadarakat.",
+                "ro": "Locul perfect pentru o pauză mai lungă sub soarele blând de la prânz; observați păsările migratoare care se odihnesc aici iarna.",
+                "en": "A perfect location for a longer break in the mild midday sun; observe the migratory birds resting here during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Puri Gede",
+                "hu": "Puri Gede",
+                "ro": "Puri Gede",
+                "en": "Puri Gede"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht am frühen Nachmittag betont die Schnitzereien; besuchen Sie die Anlage frühzeitig, bevor die Dämmerung einsetzt.",
+                "hu": "A kora délutáni meleg fények szépen kiemelik a faragásokat; látogasd meg korán a helyszínt, mielőtt beállna a szürkület.",
+                "ro": "Lumina caldă de după-amiază evidențiază frumos sculpturile; vizitați locația devreme, înainte de lăsarea amurgului.",
+                "en": "The warm early afternoon light beautifully highlights the carvings; visit early before the twilight sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Puri Agung Karangasem",
+                "hu": "Puri Agung Karangasem",
+                "ro": "Puri Agung Karangasem",
+                "en": "Puri Agung Karangasem"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Palast im goldenen Licht kurz vor dem frühen Sonnenuntergang; nehmen Sie eine Jacke für den kühleren Abend mit.",
+                "hu": "Éld át a palota hangulatát az aranyló fényekben a korai naplemente előtt; vigyél magaddal kabátot a hűvösebb estére.",
+                "ro": "Experimentați atmosfera palatului în luminile aurii înainte de apusul devreme; luați o jachetă pentru seara mai răcoroasă.",
+                "en": "Experience the palace atmosphere in the golden lights before the early sunset; bring a jacket for the cooler evening."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Reggel kezdje kerékpáros kalandját a Puri Agung és a Puri Gede palotáknál, magába szívva az ősi épületek királyi hangulatát a korai napfényben.\nDélben tekerjen el a Monumen Ciung Wanara emlékműhöz egy kis történelemért, majd folytassa útját a part felé a lélegzetelállító Vízipalotáig.\nDélután kényelmesen járja be a Taman Ujung gyönyörű medencéit és hídjait, és készítsen nagyszerű fotókat a végtelen óceáni panorámáról.\nEste tekerjen át a közeli Pantai Ujung strandra, hogy a fekete homokon pihenve nézze meg a naplementét és a visszatérő helyi halászhajókat.",
         "ro": "Dimineața începeți aventura pe bicicletă la Puri Agung și Puri Gede, absorbind atmosfera regală a palatelor antice în lumina blândă a dimineții.\nLa prânz pedalați până la Monumen Ciung Wanara pentru o lecție de istorie, apoi îndreptați-vă spre coastă către uimitorul Palat pe Apă Taman Ujung.\nDupă-amiaza explorați pe îndelete frumoasele piscine și poduri de la Taman Ujung și faceți fotografii uimitoare cu vederea panoramică la ocean.\nSeara pedalați scurt până la Pantai Ujung, relaxându-vă pe plaja cu nisip negru în timp ce urmăriți bărcile de pescuit sub soarele la apus.",
         "en": "Morning: Begin your cycling adventure at the impressive Puri Agung Karangasem and Puri Gede, soaking in the royal atmosphere of the ancient palaces.\nMidday: Pedal to the Monumen Ciung Wanara to learn about local epics, then enjoy a scenic ride towards the coast to reach the stunning Water Palace.\nAfternoon: Spend your afternoon wandering the beautiful pools, bridges, and gardens of Taman Ujung, capturing photos of the panoramic ocean views.\nEvening: Ride the short distance to Pantai Ujung, relaxing on the black sand beach and watching traditional fishing boats return as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf dem Fahrrad erfordert Vorsicht auf den glatten Straßen von Karangasem. Wir starten bei den Palästen, wo die historischen Mauern im Regen glänzen. Mittags radeln wir zum Wasserpalast, dessen Teiche unter den Regentropfen tanzen. Der Nachmittag am Pantai Ujung bietet einen rauen Blick auf das stürmische Meer, bevor wir unsere Tour sicher beenden.",
+            "hu": "Az esős nap a kerékpáron fokozott óvatosságot igényel Karangasem csúszós útjain. A palotáknál kezdünk, ahol a történelmi falak sötéten csillognak az esőben. Délben a vízi palotához tekerünk, melynek tavai szinte táncolnak az esőcseppek alatt. A délután a Pantai Ujungnál a viharos tenger nyers látványát kínálja, mielőtt biztonságosan befejeznénk a túránkat.",
+            "ro": "O zi ploioasă pe bicicletă necesită prudență sporită pe străzile alunecoase din Karangasem. Începem la palate, unde zidurile istorice strălucesc în ploaie. La prânz pedalăm spre palatul de apă, ale cărui iazuri par să danseze sub picăturile de ploaie. După-amiaza la Pantai Ujung oferă o priveliște brută a mării furtunoase, înainte de a încheia turul în siguranță.",
+            "en": "A rainy day on the bike requires extra caution on Karangasem's slippery roads. We start at the palaces, where the historic walls glisten darkly in the rain. At noon, we cycle to the water palace, whose ponds seem to dance under the raindrops. The afternoon at Pantai Ujung offers a raw view of the stormy sea before we safely conclude our tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puri Agung Karangasem",
+                "hu": "Puri Agung Karangasem",
+                "ro": "Puri Agung Karangasem",
+                "en": "Puri Agung Karangasem"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem Vordach und erkunden Sie die überdachten Bereiche; achten Sie beim Aufsteigen auf die nassen Pedale.",
+                "hu": "Parkold a biciklit az eresz alá, és fedezd fel a fedett részeket; felszálláskor ügyelj a vizes, csúszós pedálokra.",
+                "ro": "Parcați bicicleta sub streșină și explorați zonele acoperite; la urcare, atenție la pedalele umede și alunecoase.",
+                "en": "Park your bike under the eaves and explore the covered areas; when mounting, watch out for the wet and slippery pedals."
+              }
+            },
+            {
+              "name": {
+                "de": "Puri Gede",
+                "hu": "Puri Gede",
+                "ro": "Puri Gede",
+                "en": "Puri Gede"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Palastmauern als Windschutz bei böigem Regen; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt auf nassem Asphalt fortsetzen.",
+                "hu": "Használd a palota falait szélfogóként a szeles esőben; ellenőrizd a fékeket, mielőtt folytatnád az utat a vizes aszfalton.",
+                "ro": "Folosiți zidurile palatului ca paravânt în timpul ploii cu vânt; verificați frânele înainte de a continua drumul pe asfaltul ud.",
+                "en": "Use the palace walls as a windbreak during windy rain; check your brakes before continuing on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Ciung Wanara",
+                "hu": "Monumen Ciung Wanara",
+                "ro": "Monumen Ciung Wanara",
+                "en": "Monumen Ciung Wanara"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt für ein Foto; achten Sie beim Abstellen des Rades auf weichen, schlammigen Untergrund neben der Straße.",
+                "hu": "Gyors megálló egy fotóra; a kerékpár leállításakor ügyelj a felázott, sáros talajra az út mentén.",
+                "ro": "O oprire rapidă pentru o fotografie; la oprirea bicicletei, atenție la solul moale și noroios de pe marginea drumului.",
+                "en": "A quick stop for a photo; when parking your bike, be careful of the soaked, muddy ground along the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Taman Ujung Water Palace",
+                "hu": "Taman Ujung Water Palace",
+                "ro": "Taman Ujung Water Palace",
+                "en": "Taman Ujung Water Palace"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserpalast wirkt im Regen besonders poetisch; nutzen Sie die Brückenpavillons, um die Aussicht trocken zu genießen.",
+                "hu": "A vízi palota különösen költői látványt nyújt az esőben; használd a hidak pavilonjait, hogy szárazon élvezd a kilátást.",
+                "ro": "Palatul de apă oferă o priveliște poetică în ploaie; folosiți pavilioanele podurilor pentru a vă bucura de vedere fără a vă uda.",
+                "en": "The water palace offers a poetic sight in the rain; use the bridge pavilions to enjoy the view while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "PANTAI UJUNG",
+                "hu": "PANTAI UJUNG",
+                "ro": "PANTAI UJUNG",
+                "en": "PANTAI UJUNG"
+              },
+              "tip_5lang": {
+                "de": "Das Meer ist bei Regen oft unruhig und spektakulär; suchen Sie sich einen geschützten Platz am Ufer für die letzte Pause.",
+                "hu": "A tenger esőben gyakran háborgó és látványos; keress egy védett helyet a parton az utolsó pihenőhöz.",
+                "ro": "Marea este adesea agitată și spectaculoasă în ploaie; căutați un loc protejat pe țărm pentru ultima pauză.",
+                "en": "The sea is often turbulent and spectacular in the rain; find a sheltered spot on the shore for your final break."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen auf dem Rad bietet angenehm kühle Luft für die Fahrt durch Karangasem. Wir beginnen an den Palästen, deren Steine in der milden Sonne leuchten. Mittags führt uns der Weg zum Taman Ujung, wo die Brise vom Meer erfrischend wirkt. Da es bereits um 17:00 Uhr dämmert, erreichen wir Pantai Ujung pünktlich zum frühen, farbenfrohen Sonnenuntergang am Horizont.",
+            "hu": "A téli reggel a kerékpáron kellemesen hűvös levegőt kínál a Karangasemen keresztüli tekeréshez. A palotáknál kezdünk, melyek kövei ragyognak a szelíd napsütésben. Délben az út a Taman Ujunghoz vezet, ahol a tenger felől érkező szellő frissítően hat. Mivel 17:00-kor már szürkül, a Pantai Ujunghoz pont a korai, színpompás naplementére érkezünk meg.",
+            "ro": "Dimineața de iarnă pe bicicletă oferă un aer plăcut și răcoros pentru plimbarea prin Karangasem. Începem la palate, ale căror pietre strălucesc în soarele blând. La prânz, drumul ne duce la Taman Ujung, unde briza mării este revigorantă. Deoarece la ora 17:00 se înserează deja, ajungem la Pantai Ujung exact pentru apusul devreme și colorat.",
+            "en": "The winter morning on the bike offers pleasantly cool air for cycling through Karangasem. We start at the palaces, whose stones glow in the mild sun. At noon, the path leads to Taman Ujung, where the breeze from the sea is refreshing. Since it gets dark by 17:00, we arrive at Pantai Ujung just in time for the early, colorful sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puri Agung Karangasem",
+                "hu": "Puri Agung Karangasem",
+                "ro": "Puri Agung Karangasem",
+                "en": "Puri Agung Karangasem"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühlen Temperaturen in den Höfen; die klare Luft bietet fantastische Lichtverhältnisse für Architekturaufnahmen.",
+                "hu": "Élvezd a hűvös hőmérsékletet az udvarokon; a tiszta levegő fantasztikus fényviszonyokat biztosít az építészeti fotókhoz.",
+                "ro": "Bucurați-vă de temperaturile răcoroase din curți; aerul curat oferă condiții de lumină fantastice pentru fotografii de arhitectură.",
+                "en": "Enjoy the cool temperatures in the courtyards; the clear air provides fantastic lighting conditions for architectural photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Puri Gede",
+                "hu": "Puri Gede",
+                "ro": "Puri Gede",
+                "en": "Puri Gede"
+              },
+              "tip_5lang": {
+                "de": "Die mildere Sonne erlaubt längere Erkundungen im Freien; ideal, um die Details der Tore ohne Mittagshitze zu studieren.",
+                "hu": "A mérsékeltebb napsütés hosszabb szabadtéri felfedezést tesz lehetővé; ideális a kapuk részleteinek tanulmányozására a hőség nélkül.",
+                "ro": "Soarele mai blând permite explorări în aer liber mai lungi; ideal pentru a studia detaliile porților fără căldura amiezii.",
+                "en": "The milder sun allows for longer outdoor explorations; ideal for studying the details of the gates without the midday heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Ciung Wanara",
+                "hu": "Monumen Ciung Wanara",
+                "ro": "Monumen Ciung Wanara",
+                "en": "Monumen Ciung Wanara"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Stopp im Winterlicht; achten Sie auf den Verkehr, da die tiefstehende Sonne Autofahrer blenden kann.",
+                "hu": "Szép megálló a téli fényekben; ügyelj a forgalomra, mert az alacsonyan járó nap elvakíthatja az autósokat.",
+                "ro": "O oprire frumoasă în lumina de iarnă; atenție la trafic, deoarece soarele jos poate orbi șoferii.",
+                "en": "A beautiful stop in the winter light; watch out for traffic, as the low sun can blind drivers."
+              }
+            },
+            {
+              "name": {
+                "de": "Taman Ujung Water Palace",
+                "hu": "Taman Ujung Water Palace",
+                "ro": "Taman Ujung Water Palace",
+                "en": "Taman Ujung Water Palace"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufige Anlage ist im Winter perfekt zu Fuß zu erkunden; das Wasser reflektiert den klaren blauen Himmel.",
+                "hu": "A kiterjedt park télen tökéletes a gyalogos felfedezésre; a vízfelület gyönyörűen tükrözi vissza a tiszta kék eget.",
+                "ro": "Parcul vast este perfect pentru explorare pe jos iarna; suprafața apei reflectă minunat cerul albastru curat.",
+                "en": "The expansive park is perfect for exploring on foot in winter; the water surface reflects the clear blue sky beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "PANTAI UJUNG",
+                "hu": "PANTAI UJUNG",
+                "ro": "PANTAI UJUNG",
+                "en": "PANTAI UJUNG"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den Sonnenuntergang zu sehen; die Brise kann frisch sein, ein leichtes Tuch schützt.",
+                "hu": "Érkezz meg 17:00 előtt, hogy lásd a naplementét; a szellő hűvös lehet, egy könnyű kendő ilyenkor jól jöhet.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a vedea apusul; briza poate fi rece, o eșarfă ușoară fiind utilă în acest moment.",
+                "en": "Arrive before 17:00 to see the sunset; the breeze can be cool, so a light scarf might come in handy."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Reggel vezessen a csodálatos Puri Agung Karangasemhez, ahol az egész délelőttöt a tágas királyi birtok és az építészeti részletek felfedezésével töltheti.\nDélben folytassa útját az ikonikus Taman Ujung Vízipalotához, élvezve a kiterjedt vízfelületeket és a lélegzetelállító kilátást az óceánra.\nDélután látogassa meg a Pantai Ujungot, majd a különleges Monumen Pedagang Salak emlékművet, ahol érdemes egy kis friss kígyógyümölcsöt kóstolni.\nEste fejezze be a kényelmes autós túrát a békés Pantai Jasri strandon, amely tökéletes tengerparti menedék a nap fáradalmainak kipihenésére.",
         "ro": "Dimineața conduceți spre magnificul Puri Agung Karangasem, unde vă veți petrece timpul explorând domeniile regale și apreciind detaliile arhitecturale.\nLa prânz continuați călătoria către iconicul Palat pe Apă Taman Ujung, bucurându-vă de peisajele impresionante înainte de a vizita plaja adiacentă.\nDupă-amiaza mergeți spre unicul Monumen Pedagang Salak, un omagiu adus moștenirii locale, și cumpărați fructe proaspete de șarpe ca o gustare dulce.\nSeara terminați drumul la liniștitul Pantai Jasri, o retragere de coastă perfectă unde vă puteți relaxa și bucura de valurile ritmice la asfințit.",
         "en": "Morning: Drive to the magnificent Puri Agung Karangasem, where you will spend the morning exploring the sprawling royal grounds and architectural details.\nMidday: Continue your journey to the iconic Taman Ujung Water Palace, enjoying the expansive water features and breathtaking scenery near the ocean.\nAfternoon: Visit Pantai Ujung and then cruise down to the unique Monumen Pedagang Salak, picking up fresh snake fruit to enjoy as a sweet afternoon treat.\nEvening: Finish your drive at the tranquil Pantai Jasri, a perfect coastal retreat where you can unwind and enjoy the rhythmic waves in a peaceful setting."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag bietet im Auto den besten Komfort, um Karangasem zu erkunden. Wir starten beim prächtigen Palast, während der Regen gegen die Scheiben prasselt. Mittags fahren wir zum Wasserpalast, wo wir die Aussicht oft direkt aus dem Wagen genießen können. Nachmittags besuchen wir Denkmäler und Strände, wobei wir kurze Regenpausen für Fotos nutzen, bevor wir trocken den Tag beenden.",
+            "hu": "Az esős napon az autó nyújtja a legnagyobb kényelmet Karangasem felfedezéséhez. A pompás palotánál kezdünk, miközben az eső a szélvédőn kopog. Délben a vízi palotához hajtunk, ahol a kilátást sokszor közvetlenül a kocsiból is élvezhetjük. Délután emlékműveket és strandokat érintünk, kihasználva a záporok közötti szüneteket a fotózáshoz, majd szárazon zárjuk a napot.",
+            "ro": "Într-o zi ploioasă, mașina oferă cel mai mare confort pentru a explora Karangasem. Începem la palatul splendid, în timp ce ploaia bate în parbriz. La prânz conducem spre palatul de apă, unde putem savura vederea adesea direct din mașină. După-amiaza vizităm monumente și plaje, profitând de pauzele dintre averse pentru fotografii, apoi încheiem ziua la adăpost.",
+            "en": "On a rainy day, the car provides the most comfort for exploring Karangasem. We start at the splendid palace while the rain drums on the windshield. At noon, we drive to the water palace, where we can often enjoy the view directly from the car. In the afternoon, we visit monuments and beaches, taking advantage of breaks between showers for photos, then end the day dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puri Agung Karangasem",
+                "hu": "Puri Agung Karangasem",
+                "ro": "Puri Agung Karangasem",
+                "en": "Puri Agung Karangasem"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich direkt am Eingang absetzen; die Innenräume sind ein perfekter Zufluchtsort vor dem starken Tropenregen.",
+                "hu": "Szállj ki közvetlenül a bejáratnál; a belső terek tökéletes menedéket nyújtanak az erős trópusi eső elől.",
+                "ro": "Coborâți direct la intrare; interioarele sunt un refugiu perfect împotriva ploii tropicale puternice.",
+                "en": "Get dropped off right at the entrance; the interiors are a perfect sanctuary from the heavy tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Taman Ujung Water Palace",
+                "hu": "Taman Ujung Water Palace",
+                "ro": "Taman Ujung Water Palace",
+                "en": "Taman Ujung Water Palace"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz mit guter Sicht; der Palast im Nebel und Regen wirkt wie aus einer anderen Welt.",
+                "hu": "Keress egy jó kilátással rendelkező parkolóhelyet; a ködben és esőben úszó palota olyan, mintha egy másik világból jött volna.",
+                "ro": "Căutați un loc de parcare cu vedere bună; palatul în ceață și ploaie pare desprins dintr-o altă lume.",
+                "en": "Look for a parking spot with a good view; the palace in the mist and rain looks like it’s from another world."
+              }
+            },
+            {
+              "name": {
+                "de": "PANTAI UJUNG",
+                "hu": "PANTAI UJUNG",
+                "ro": "PANTAI UJUNG",
+                "en": "PANTAI UJUNG"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung aus der Sicherheit des Autos; der dunkle Himmel über dem Meer ist ein beeindruckendes Fotomotiv.",
+                "hu": "Figyeld a hullámverést az autó biztonságából; a tenger feletti sötét égbolt lenyűgöző fotótéma ilyenkor.",
+                "ro": "Observați valurile din siguranța mașinii; cerul întunecat deasupra mării este un subiect fotografic impresionant.",
+                "en": "Watch the surf from the safety of the car; the dark sky over the sea is an impressive photo subject at this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Pedagang Salak",
+                "hu": "Monumen Pedagang Salak",
+                "ro": "Monumen Pedagang Salak",
+                "en": "Monumen Pedagang Salak"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp direkt von der Straße aus; achten Sie beim Aussteigen auf tiefere Pfützen am Straßenrand.",
+                "hu": "Gyors fotómegálló közvetlenül az út mellől; kiszálláskor ügyelj az út szélén kialakuló mélyebb tócsákra.",
+                "ro": "O oprire foto rapidă chiar de la marginea drumului; la coborâre, atenție la bălțile mai adânci de pe marginea carosabilului.",
+                "en": "A quick photo stop right from the roadside; when getting out, watch out for deeper puddles at the edge of the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Jasri",
+                "hu": "Pantai Jasri",
+                "ro": "Pantai Jasri",
+                "en": "Pantai Jasri"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Küstenatmosphäre im Trockenen; die Fischerboote bieten auch bei Regen ein buntes Bild am schwarzen Strand.",
+                "hu": "Élvezd a nyers tengerparti hangulatot szárazon; a halászhajók az esőben is színes látványt nyújtanak a fekete homokon.",
+                "ro": "Bucurați-vă de atmosfera brută de la malul mării stând la uscat; bărcile de pescuit oferă o imagine colorată pe nisipul negru chiar și pe ploaie.",
+                "en": "Enjoy the raw coastal atmosphere while staying dry; the fishing boats offer a colorful sight on the black sand even in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintertag ist das Auto ideal für die längere Strecke durch Karangasem. Wir starten morgens bei kühlen Temperaturen am Palast. Mittags bietet der Wasserpalast im milden Licht eine herrliche Kulisse für Spaziergänge. Da die Dämmerung bereits um 17:00 Uhr einsetzt, planen wir unsere Fahrt so, dass wir die Küstenstraße bei Jasri pünktlich zum farbenprächtigen Sonnenuntergang erreichen.",
+            "hu": "A tiszta téli napon az autó ideális a Karangasemen keresztüli hosszabb útvonalhoz. Reggel a hűvös időben kezdünk a palotánál. Délben a vízi palota a szelíd fényekben pompás hátteret nyújt a sétákhoz. Mivel 17:00 körül már sötétedik, úgy tervezzük az utat, hogy a jasri part menti utat pont a színpompás naplementére érjük el.",
+            "ro": "Într-o zi senină de iarnă, mașina este ideală pentru traseul mai lung prin Karangasem. Începem dimineața la palat, pe o vreme răcoroasă. La prânz, palatul de apă în lumina blândă oferă un cadru superb pentru plimbări. Deoarece se înserează în jur de ora 17:00, planificăm drumul astfel încât să ajungem pe șoseaua de coastă din Jasri exact pentru apusul colorat.",
+            "en": "On a clear winter day, the car is ideal for the longer route through Karangasem. We start at the palace in the cool morning weather. At noon, the water palace in the mild light provides a superb backdrop for walks. Since it gets dark around 17:00, we plan the journey so that we reach the Jasri coastal road just in time for the colorful sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puri Agung Karangasem",
+                "hu": "Puri Agung Karangasem",
+                "ro": "Puri Agung Karangasem",
+                "en": "Puri Agung Karangasem"
+              },
+              "tip_5lang": {
+                "de": "Die Klimaanlage im Auto hilft, den Temperaturunterschied zu regulieren; nutzen Sie das klare Morgenlicht für perfekte Fotos.",
+                "hu": "Az autó légkondicionálója segít a hőmérséklet-különbség kiegyenlítésében; használd a tiszta reggeli fényeket a tökéletes fotókhoz.",
+                "ro": "Aerul condiționat din mașină ajută la reglarea diferenței de temperatură; folosiți lumina curată de dimineață pentru fotografii perfecte.",
+                "en": "The car's air conditioning helps regulate the temperature difference; use the clear morning light for perfect photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Taman Ujung Water Palace",
+                "hu": "Taman Ujung Water Palace",
+                "ro": "Taman Ujung Water Palace",
+                "en": "Taman Ujung Water Palace"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Spaziergang durch die Gärten besonders angenehm; die tiefstehende Sonne glitzert herrlich auf den Wasserflächen.",
+                "hu": "Télen különösen kellemes a séta a kertekben; az alacsonyan járó nap gyönyörűen csillan meg a vízfelületeken.",
+                "ro": "Iarna, plimbarea prin grădini este extrem de plăcută; soarele jos strălucește minunat pe suprafețele apei.",
+                "en": "In winter, walking through the gardens is particularly pleasant; the low sun glitters beautifully on the water surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "PANTAI UJUNG",
+                "hu": "PANTAI UJUNG",
+                "ro": "PANTAI UJUNG",
+                "en": "PANTAI UJUNG"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist im Winter kühler, perfekt für eine kurze Rast; genießen Sie die weite Sicht bis zum Horizont.",
+                "hu": "A tengeri szellő télen hűvösebb, tökéletes egy rövid pihenőre; élvezd a tiszta kilátást egészen a horizontig.",
+                "ro": "Briza mării este mai rece iarna, perfectă pentru un scurt popas; bucurați-vă de vederea clară până la orizont.",
+                "en": "The sea breeze is cooler in winter, perfect for a short break; enjoy the clear view all the way to the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Pedagang Salak",
+                "hu": "Monumen Pedagang Salak",
+                "ro": "Monumen Pedagang Salak",
+                "en": "Monumen Pedagang Salak"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt im warmen Nachmittagslicht; die Farben des Denkmals wirken unter der Wintersonne besonders gesättigt.",
+                "hu": "Gyors megálló a délutáni meleg fényekben; az emlékmű színei a téli nap alatt különösen telítettnek tűnnek.",
+                "ro": "O oprire rapidă în lumina caldă de după-amiază; culorile monumentului par extrem de saturate sub soarele de iarnă.",
+                "en": "A quick stop in the warm afternoon light; the monument's colors appear particularly saturated under the winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Jasri",
+                "hu": "Pantai Jasri",
+                "ro": "Pantai Jasri",
+                "en": "Pantai Jasri"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie gegen 17:00 Uhr hier für den Sonnenuntergang; das Lichtspektakel am Winterhimmel ist vom Auto aus wunderbar zu beobachten.",
+                "hu": "Légy itt 17:00 körül a naplementére; a téli égbolt fényjátéka az autóból is csodálatosan megfigyelhető.",
+                "ro": "Fiți aici în jurul orei 17:00 pentru apus; spectacolul de lumini de pe cerul de iarnă poate fi observat minunat din mașină.",
+                "en": "Be here around 17:00 for the sunset; the light show in the winter sky can be observed wonderfully from the car."
+              }
+            }
+          ]
+        }
       }
     }
   }

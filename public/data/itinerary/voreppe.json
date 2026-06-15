@@ -137,6 +137,168 @@
         "hu": "A reggel a központi városházán kezdődik, amely remek bevezetést nyújt Voreppe szívébe. Délben csendes utcákon sétálhat a Chapelle du Sacré-Cœur felé békés elmélkedésre. Délután fedezze fel a nagyszerű Saint-Didier templomot és a perjelséget a gazdag örökségért. Az este a félreeső Chapelle de Françonhoz tett rövid sétával zárul, amely gyönyörű naplemente hátteret kínál a nap lezárásához.",
         "ro": "Dimineața începe la Primăria centrală, oferind o introducere perfectă în inima civică a orașului Voreppe. La prânz vă ghidați pașii spre Chapelle du Sacré-Cœur pentru momente de liniște. După-amiaza, explorați marea biserică Saint-Didier și prioratul pentru a descoperi patrimoniul bogat. Seara se încheie cu o scurtă plimbare până la izolată Chapelle de Françon, oferind un apus superb la final de zi.",
         "en": "Morning starts at the central Town Hall, giving you a proper introduction to Voreppe's civic heart. Midday leads you through quiet streets to the Chapelle du Sacré-Cœur for moments of peaceful reflection. In the afternoon, explore the grand Saint-Didier Church and the priory to uncover rich heritage. The evening concludes with a short walk up to the secluded Chapelle de Françon, offering a beautiful sunset backdrop to end the day softly."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen im historischen Zentrum von Voreppe mit einem großen Regenschirm. Suchen Sie mittags Zuflucht in den schönen örtlichen Kirchen, um deren Architektur im Trockenen zu bewundern. Der Nachmittagsspaziergang zu den Kapellen erfordert wasserdichte Schuhe, da die Wege schlammig sind. Beenden Sie den nassen Tag mit einem heißen Getränk im Zentrum.",
+            "hu": "Kezdje esős reggelét Voreppe történelmi központjában egy masszív esernyővel a kezében. Délben húzódjon be a gyönyörű helyi templomokba, ahol szárazon csodálhatja meg a belső tereket. A délutáni séta a kápolnákhoz vízálló cipőt igényel, mivel az ösvények nagyon sarasak lehetnek. Zárja a nedves napot egy forró itallal a központ egyik hangulatos kávézójában.",
+            "ro": "Începeți dimineața ploioasă explorând centrul istoric al Voreppe cu o umbrelă rezistentă. La prânz, refugiați-vă în frumoasele biserici locale pentru a le admira interioarele la uscat. Plimbarea de după-amiază spre capele necesită încălțăminte impermeabilă, potecile fiind noroioase. Încheiați ziua umedă cu o băutură caldă într-o cafenea primitoare din centru.",
+            "en": "Start your rainy morning exploring Voreppe's historic center with a sturdy umbrella. By midday, take refuge in the beautiful local churches to admire their interiors while staying completely dry. The afternoon walk to the chapels requires waterproof shoes, as paths can quickly become muddy. Conclude your wet day with a warm drink in a cozy local café near the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Voreppe",
+                "hu": "Voreppe Városháza",
+                "ro": "Primăria Voreppe",
+                "en": "Voreppe Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die elegante Rathausfassade unter Ihrem Regenschirm; das Vordach bietet einen perfekten, trockenen Ort, um sich vor plötzlichen und starken Regengüssen zu verstecken.",
+                "hu": "Csodálja meg az elegáns városháza homlokzatát az esernyője alól; a bejárat remek menedéket nyújt a hirtelen lezúduló záporok elől, amíg az időjárás kissé csendesedik.",
+                "ro": "Admirați eleganta fațadă a primăriei de sub umbrela dumneavoastră; intrarea oferă un loc excelent și uscat pentru a vă ascunde rapid de ploile torențiale neașteptate.",
+                "en": "Admire the elegant town hall facade from under your umbrella; the covered entrance is a great spot to hide from sudden downpours while waiting for the weather to clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Sacré-Cœur",
+                "hu": "Szent Szív Kápolna",
+                "ro": "Capela Sacré-Cœur",
+                "en": "Chapelle du Sacré-Cœur"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese ruhige Kapelle ein, um dem Regen zu entfliehen, und bestaunen Sie die schönen Buntglasfenster, die selbst vom grauen Himmel magisch beleuchtet werden.",
+                "hu": "Lépjen be ebbe a békés kápolnába, hogy menedéket találjon az eső elől, és csodálja meg a gyönyörű ólomüveg ablakokat, amelyeket a szürke égbolt is varázslatosan megvilágít.",
+                "ro": "Intrați în această capelă liniștită pentru a scăpa de ploaie și admirați vitraliile frumoase, care sunt iluminate magic chiar și de lumina difuză a cerului gri.",
+                "en": "Step inside this serene chapel to escape the rain and marvel at the beautiful stained glass windows, which are magically illuminated even by the soft light of grey skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Didier Kirche",
+                "hu": "Saint-Didier Templom",
+                "ro": "Biserica Saint-Didier",
+                "en": "Saint-Didier Church"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die reichen historischen Details des Kirchenschiffs, das bei starkem Regen einen perfekten trockenen Zufluchtsort bietet. Schütteln Sie Ihren Regenschirm am Eingang ab.",
+                "hu": "Fedezze fel a főhajó gazdag történelmi részleteit, amely tökéletes száraz menedéket nyújt heves esőzések idején. Ne felejtse el lerázni az esernyőjét a bejáratnál.",
+                "ro": "Explorați detaliile istorice bogate ale navei, oferind un refugiu perfect uscat în timpul ploilor abundente. Asigurați-vă că scuturați umbrela bine la intrarea în biserică.",
+                "en": "Explore the rich historical details of the nave, providing a perfect dry haven during heavy rain showers. Remember to shake off your wet umbrella near the church entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Prioratskirche Saint-Didier",
+                "hu": "Saint-Didier Perjeltemplom",
+                "ro": "Biserica prioratului Saint-Didier",
+                "en": "Église prieurale Saint-Didier"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit, die mittelalterliche Architektur im Inneren dieser Prioratskirche zu studieren, während Sie darauf warten, dass der Regen vor dem nächsten Spaziergang nachlässt.",
+                "hu": "Szánjon időt a középkori építészet tanulmányozására a perjeltemplom belsejében, miközben kényelmesen megvárja, amíg az eső alábbhagy a következő séta megkezdése előtt.",
+                "ro": "Acordați-vă timp pentru a studia arhitectura medievală în interiorul acestei biserici, în timp ce așteptați confortabil ca ploaia să se oprească înainte de următoarea plimbare.",
+                "en": "Take your time studying the intricate medieval architecture inside this priory church while comfortably waiting for the heavy rain to pass before continuing your outdoor walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle von Françon",
+                "hu": "Françon Kápolna",
+                "ro": "Capela Françon",
+                "en": "Chapelle de Françon"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie robuste, wasserdichte Wanderschuhe für den Weg zu dieser abgelegenen Kapelle, da die unbefestigten Waldwege bei nassem Wetter sehr rutschig und schlammig werden können.",
+                "hu": "Viseljen masszív, vízálló túracipőt az ehhez a kápolnához vezető úton, mivel a környező burkolatlan ösvények nedves időben rendkívül csúszóssá és sarassá válhatnak.",
+                "ro": "Purtați bocanci de drumeție rezistenți și impermeabili pentru poteca spre această capelă, deoarece traseele forestiere neasfaltate devin foarte alunecoase și pline de noroi pe ploaie.",
+                "en": "Wear sturdy, waterproof hiking boots for the path to this secluded chapel, as the surrounding unpaved trails can become extremely slippery and muddy during wet weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren klaren Wintermorgen in Voreppe warm eingepackt für einen zügigen Spaziergang. Der Mittag bietet frische Luft beim Besuch der historischen Kirchen, die eine kühle Atmosphäre haben. Achten Sie am Nachmittag auf den frühen Sonnenuntergang gegen 17 Uhr, während Sie zu den Kapellen gehen. Beenden Sie Ihren frostigen Tag früh mit einem herzhaften, warmen Essen.",
+            "hu": "Kezdje a csípős téli reggelt Voreppe-ben rétegesen felöltözve egy élénkítő sétához. A dél megcsillogtatja a fagyos levegőt a történelmi templomok csendes hangulatában. A délután folyamán ügyeljen a korai, 17:00 óra körüli naplementére a külső kápolnák felé haladva. Fejezze be korán a fagyos sétát, és élvezze az estét egy kiadós, meleg vacsora mellett.",
+            "ro": "Începeți dimineața de iarnă în Voreppe îmbrăcați gros pentru o plimbare revigorantă. Amiaza oferă aer rece în timp ce vizitați bisericile istorice cu o atmosferă liniștită, dar răcoroasă. După-amiaza, aveți grijă la apusul devreme din jurul orei 17:00 îndreptându-vă spre capele. Terminați devreme plimbarea înghețată pentru a savura o cină caldă și copioasă.",
+            "en": "Begin your crisp winter morning in Voreppe bundled up warmly for a brisk walk. Midday offers crisp air as you visit the historic churches, providing a chilling but peaceful atmosphere. As the afternoon progresses, keep an eye on the early sunset around 5 PM while heading to the outdoor chapels. Finish your frosty walk early to enjoy a hearty, warm evening meal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Voreppe",
+                "hu": "Voreppe Városháza",
+                "ro": "Primăria Voreppe",
+                "en": "Voreppe Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto des schneebedeckten Rathauses, aber bleiben Sie in Bewegung, um sich in der klaren und kalten Wintermorgenluft warm zu halten.",
+                "hu": "Készítsen egy gyors fotót a hóval borított városházáról, de maradjon mozgásban, hogy melegen tartsa magát a csípős és hideg téli reggeli levegőn.",
+                "ro": "Faceți o fotografie rapidă a primăriei acoperite de zăpadă, dar continuați să vă mișcați pentru a vă menține cald în aerul rece și proaspăt al dimineții de iarnă.",
+                "en": "Take a quick photo of the beautiful snow-dusted town hall, but keep moving to generate body heat and stay warm in the crisp, cold winter morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Sacré-Cœur",
+                "hu": "Szent Szív Kápolna",
+                "ro": "Capela Sacré-Cœur",
+                "en": "Chapelle du Sacré-Cœur"
+              },
+              "tip_5lang": {
+                "de": "Der intime Raum dieser Kapelle bietet einen friedlichen, wenn auch sehr kühlen Rückzugsort; behalten Sie Ihre warmen Schichten an, während Sie den Innenraum erkunden.",
+                "hu": "A kápolna meghitt tere békés, bár rendkívül hűvös menedéket kínál; tartsa magán a meleg rétegeket, miközben felfedezi a lenyűgöző belső teret.",
+                "ro": "Spațiul intim al acestei capele oferă un refugiu pașnic, deși foarte răcoros; păstrați-vă straturile calde de haine în timp ce explorați interiorul fascinant.",
+                "en": "The intimate space of this chapel offers a peaceful, albeit very chilly, retreat; make sure to keep your warm layers on while exploring the historic interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Didier Kirche",
+                "hu": "Saint-Didier Templom",
+                "ro": "Biserica Saint-Didier",
+                "en": "Saint-Didier Church"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die Steinarchitektur, die durch das tiefe, goldene Wintersonnenlicht wunderbar hervorgehoben wird. Tragen Sie dicke Socken gegen den kalten Boden.",
+                "hu": "Csodálja meg a kőépítészetet, amelyet gyönyörűen kiemel az alacsonyan járó, aranyló téli napfény. Viseljen vastag zoknit a jéghideg kőpadló ellen.",
+                "ro": "Admirați arhitectura din piatră, subliniată frumos de lumina aurie și joasă a soarelui de iarnă. Purtați șosete groase pentru a face față podelei reci de piatră.",
+                "en": "Marvel at the stone architecture, which is beautifully highlighted by the low, golden winter sunlight. Wear thick wool socks to combat the freezing stone floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Prioratskirche Saint-Didier",
+                "hu": "Saint-Didier Perjeltemplom",
+                "ro": "Biserica prioratului Saint-Didier",
+                "en": "Église prieurale Saint-Didier"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich warm ein, um dieses historische Priorat zu erkunden, da dicke Steinwände die eisigen Temperaturen lange halten. Eine Mütze ist hier ratsam.",
+                "hu": "Öltözzön fel melegen a történelmi perjelség felfedezéséhez, mivel a vastag kőfalak hajlamosak megtartani a fagypont alatti hőmérsékletet. Sapka viselése ajánlott.",
+                "ro": "Îmbrăcați-vă gros pentru a explora acest priorat istoric, deoarece pereții groși de piatră tind să mențină temperaturile de îngheț. Este recomandată o căciulă.",
+                "en": "Wrap up warmly to explore this historic priory, as the thick stone walls tend to hold the freezing temperatures. Wearing a warm winter hat indoors is highly advisable."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle von Françon",
+                "hu": "Françon Kápolna",
+                "ro": "Capela Françon",
+                "en": "Chapelle de Françon"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie, diese friedliche Kapelle vor 16:00 Uhr zu erreichen, da der frühe winterliche Sonnenuntergang die Temperaturen auf dem Weg schnell fallen lässt.",
+                "hu": "Tervezze úgy, hogy délután 4 óra előtt elérje ezt a békés kápolnát, mivel a korai téli naplemente miatt a hőmérséklet az ösvényen rendkívül gyorsan lezuhan.",
+                "ro": "Planificați să ajungeți la această capelă înainte de ora 16:00, deoarece apusul timpuriu de iarnă face ca temperaturile să scadă foarte rapid pe traseu.",
+                "en": "Plan to reach this peaceful chapel well before 4 PM, as the early winter sunset causes temperatures on the exposed trail to drop incredibly rapidly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a kerékpáros napot kényelmesen a városházán, hogy ráhangolódjon a helyi légkörre. Délre már a központi sugárutakon található történelmi kápolnák között pedálozhat. A délután enyhe emelkedőt kínál az ősi Église prieurale Saint-Didier köveinek megcsodálására. Estére tekerjen ki a Belvédère kilátóhoz, és élvezze a hűvös szellőt, valamint a völgyre nyíló csodálatos naplementét.",
         "ro": "Începeți ziua de ciclism lin la Primărie pentru a simți atmosfera locală. La prânz, pedalați fără efort între capelele și bisericile istorice de pe bulevardele centrale. După-amiaza vă invită la o scurtă urcare pentru a admira pietrele antice ale Église prieurale Saint-Didier. Seara, mergeți cu bicicleta la punctul de observație Belvédère, bucurându-vă de briza răcoroasă și de apusul panoramic peste vale.",
         "en": "Start your cycling day smoothly at the Voreppe Town Hall to get a feel for the local atmosphere. By midday, effortlessly pedal between the historic chapels and churches dotting the central avenues. The afternoon invites a slight climb to admire the grand Église prieurale Saint-Didier's ancient stones. For the evening, cycle out to the Belvédère Viewpoint, enjoying the cool breeze and magnificent panoramic sunset over the valley."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre regnerische Fahrt in Voreppe mit Warnkleidung und guten Schutzblechen. Mittags ist besondere Vorsicht auf nassen Pflastersteinen bei den Kirchen geboten. Der nachmittägliche Aufstieg zum Aussichtspunkt wird rutschig sein, fahren Sie also langsam und bremsen Sie sanft. Beenden Sie den nassen Tag sicher drinnen und trocknen Sie Ihre Ausrüstung.",
+            "hu": "Kezdje esős kerékpározását Voreppe-ben jól látható ruházatban és sárvédővel. Délben óvatosan tekerjen a templomok körüli nedves macskaköveken. A délutáni mászás a kilátóhoz csúszós lesz, ezért csökkentse a sebességet és finoman fékezzen. Zárja a nedves kerékpáros napot biztonságosan zárt térben, felmelegedve és megszárítva a felszerelést.",
+            "ro": "Începeți cursa ploioasă în Voreppe echipat cu haine reflectorizante și apărători de noroi. La prânz, pedalați cu mare prudență pe pietrele umede de lângă biserici. Urcușul de după-amiază spre belvedere va fi alunecos, așa că reduceți viteza. Încheiați ziua umedă de ciclism în siguranță la interior, uscându-vă echipamentul înainte de seară.",
+            "en": "Start your rainy ride in Voreppe equipped with high-visibility gear and sturdy mudguards. Midday cycling requires extreme caution on wet cobblestones near the churches. The afternoon climb to the viewpoint will be slippery, so reduce speed and use your brakes gently. End the wet cycling day safely indoors, warming up and drying your gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Voreppe",
+                "hu": "Voreppe Városháza",
+                "ro": "Primăria Voreppe",
+                "en": "Voreppe Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz unter den Dachüberständen des Rathauses an, um Ihre Regenbekleidung zu überprüfen, bevor Sie die anspruchsvollere Hauptroute beginnen.",
+                "hu": "Álljon meg röviden a városháza eresze alatt, hogy ellenőrizze az esőruházatát és a fékeket, mielőtt nekivágna a kihívást jelentő fő útvonalnak.",
+                "ro": "Opriți-vă scurt sub streșinile primăriei pentru a vă verifica echipamentul de ploaie înainte de a începe traseul principal, mai solicitant.",
+                "en": "Pause briefly under the wide eaves of the town hall to securely adjust your rain gear and check your brakes before starting the main cycling route."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Sacré-Cœur",
+                "hu": "Szent Szív Kápolna",
+                "ro": "Capela Sacré-Cœur",
+                "en": "Chapelle du Sacré-Cœur"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie auf dem nassen Pflaster vorsichtig ab, um einzutreten und das friedliche, völlig trockene Innere der Kapelle ohne Eile zu genießen.",
+                "hu": "Szálljon le óvatosan a kerékpárról a nedves járdán, hogy belépjen, és nyugodtan élvezze a kápolna békés, teljesen száraz belső terét.",
+                "ro": "Descălecați cu grijă pe pavajul umed pentru a intra și a vă bucura în liniște de interiorul pașnic și complet uscat al capelei istorice.",
+                "en": "Dismount carefully on the slick, wet pavement to step inside and peacefully enjoy the beautiful, completely dry interior of the historic chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Didier Kirche",
+                "hu": "Saint-Didier Templom",
+                "ro": "Biserica Saint-Didier",
+                "en": "Saint-Didier Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher und suchen Sie Schutz in der Kirche; achten Sie auf äußerst rutschige Metallgitter auf den umliegenden Straßen.",
+                "hu": "Parkolja le biztonságosan a kerékpárját, és keressen menedéket a templomban; nagyon ügyeljen a környező utakon lévő rendkívül csúszós fémrácsokra.",
+                "ro": "Parcați bicicleta în siguranță și adăpostiți-vă în biserică; aveți mare grijă la grătarele metalice extrem de alunecoase de pe drumurile din apropiere.",
+                "en": "Park your bike securely and take shelter in the church; watch out for extremely slippery metal drainage grates on the nearby wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Prioratskirche Saint-Didier",
+                "hu": "Saint-Didier Perjeltemplom",
+                "ro": "Biserica prioratului Saint-Didier",
+                "en": "Église prieurale Saint-Didier"
+              },
+              "tip_5lang": {
+                "de": "Die mittelalterlichen Steinböden im Inneren sind perfekt, um den Regen abzuschütteln, aber treten Sie mit nassen Fahrradschuhen sehr vorsichtig auf.",
+                "hu": "A belső középkori kőpadló tökéletes az eső lerázására, de lépkedjen nagyon óvatosan a nedves kerékpáros cipőjében, nehogy elcsússzon.",
+                "ro": "Podelele medievale din piatră din interior sunt perfecte pentru a vă scutura de ploaie, dar pășiți cu mare grijă purtând pantofi de ciclism umezi.",
+                "en": "The medieval stone floors inside are perfect for shaking off the rain, but ensure you tread very carefully with wet, slippery cycling shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère Aussichtspunkt",
+                "hu": "Belvédère Kilátó",
+                "ro": "Punctul de belvedere Belvédère",
+                "en": "Belvédère Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die regnerische Aussicht ist dramatisch, aber der Anstieg ist extrem schlammig; halten Sie den Lenker fest und vermeiden Sie plötzliches Bremsen.",
+                "hu": "Az esős kilátás drámai, de a megközelítési útvonal rendkívül saras; tartsa erősen a kormányt, és mindenképpen kerülje a hirtelen fékezéseket.",
+                "ro": "Priveliștea ploioasă este dramatică, dar traseul de apropiere este extrem de noroios; țineți bine ghidonul și evitați frânările bruște.",
+                "en": "The rainy view is moody and dramatic, but the approach trail is incredibly muddy, so keep a firm grip on the handlebars and avoid sudden braking."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winterradtour mit winddichter Kleidung gegen die eisige Morgenluft. Der Mittag bietet klare, aber frostige Bedingungen, perfekt für die Architektur, solange Sie sich bewegen. Der nachmittägliche Aufstieg zum Aussichtspunkt belohnt mit frostigen Panoramen, aber achten Sie auf gefährliche Eisflächen. Kehren Sie zwingend vor der Dämmerung um 17 Uhr zurück.",
+            "hu": "Indítsa a téli kerékpártúrát vastag, szélálló ruházatban a hideg reggeli levegő ellen. A dél tiszta, de fagyos időt kínál, ami tökéletes az építészet megcsodálására. A délutáni mászás a kilátóhoz fagyos panorámával jutalmaz, de nagyon vigyázzon a veszélyes jeges foltokra. Térjen vissza a 17:00 órai szürkület előtt a fagyos hőmérséklet miatt.",
+            "ro": "Începeți turul de iarnă pe bicicletă cu haine rezistente la vânt. Amiaza oferă condiții clare, dar geroase, perfecte pentru a admira arhitectura cât timp vă mișcați. Ascensiunea de după-amiază spre belvedere vă răsplătește cu panorame înghețate, dar atenție la gheață. Întoarceți-vă obligatoriu înainte de lăsarea întunericului la ora 17:00.",
+            "en": "Kick off your winter cycling trip layered with windproof clothing for the biting morning air. Midday offers clear but freezing conditions, perfect for admiring the architecture if you keep moving. The afternoon ascent to the viewpoint rewards you with frosty panoramas, but watch for ice. Return before dusk at 5 PM to avoid freezing twilight temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Voreppe",
+                "hu": "Voreppe Városháza",
+                "ro": "Primăria Voreppe",
+                "en": "Voreppe Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie Ihre Winterhandschuhe an, während Sie den verschneiten Platz bewundern; es ist nur ein kurzer Stopp, bevor Sie Körperwärme erzeugen.",
+                "hu": "Tartsa magán a téli kesztyűjét, miközben megcsodálja a havas teret; ez csak egy rövid megálló, mielőtt tekeréssel testmeleget termelne.",
+                "ro": "Păstrați-vă mănușile de iarnă în timp ce admirați piața înzăpezită; este doar o oprire scurtă înainte de a genera căldură corporală pedalând.",
+                "en": "Keep your thick winter gloves on while admiring the snowy square; it’s a very quick stop before you start riding to generate essential body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Sacré-Cœur",
+                "hu": "Szent Szív Kápolna",
+                "ro": "Capela Sacré-Cœur",
+                "en": "Chapelle du Sacré-Cœur"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem beißenden Wind zu entfliehen, aber die historischen Steinwände bedeuten, dass Sie Ihren Mantel am besten geschlossen halten.",
+                "hu": "Lépjen be, hogy elmeneküljön a metsző szél elől, bár a történelmi kőfalak hidege miatt érdemes a kabátját végig összecipzározva tartani.",
+                "ro": "Intrați pentru a scăpa de vântul tăios, deși pereții istorici din piatră înseamnă că ar trebui să vă păstrați haina bine închisă.",
+                "en": "Step inside to escape the biting winter wind, though the historic stone walls mean you should definitely keep your warm coat fully zipped up."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Didier Kirche",
+                "hu": "Saint-Didier Templom",
+                "ro": "Biserica Saint-Didier",
+                "en": "Saint-Didier Church"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Winterlicht fällt wunderschön durch die Fenster; hüten Sie sich jedoch vor gefrorenen Pfützen beim Parken Ihres Fahrrads draußen.",
+                "hu": "Az aranyló téli fény csodálatosan szűrődik be az ablakokon; azonban nagyon ügyeljen a megfagyott tócsákra, amikor kint leparkolja a kerékpárját.",
+                "ro": "Lumina aurie de iarnă pătrunde frumos prin ferestre; cu toate acestea, feriți-vă de bălțile înghețate atunci când vă parcați bicicleta afară.",
+                "en": "The golden winter light filters beautifully through the windows; however, beware of dangerously frozen puddles when parking your bike outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Prioratskirche Saint-Didier",
+                "hu": "Saint-Didier Perjeltemplom",
+                "ro": "Biserica prioratului Saint-Didier",
+                "en": "Église prieurale Saint-Didier"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei der Erkundung des Priorats leicht auf, um sicherzustellen, dass Ihr Kern vor dem letzten anspruchsvollen Anstieg warm bleibt.",
+                "hu": "Melegedjen fel egy kicsit a perjelség felfedezése közben, biztosítva, hogy a teste meleg maradjon az utolsó, nagy kihívást jelentő hegyi mászás előtt.",
+                "ro": "Încălziți-vă ușor în timp ce explorați prioratul, asigurându-vă că trunchiul rămâne cald înainte de ultima și cea mai dificilă urcare.",
+                "en": "Warm up slightly as you explore the priory, ensuring your core stays sufficiently heated before tackling the final challenging mountain climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère Aussichtspunkt",
+                "hu": "Belvédère Kilátó",
+                "ro": "Punctul de belvedere Belvédère",
+                "en": "Belvédère Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den schneebedeckten Talblick, aber fahren Sie unbedingt vor 16:30 Uhr ab, um gefährliches Glatteis in der Dämmerung zu vermeiden.",
+                "hu": "Élvezze a hóval borított völgy látványát, de mindenképpen induljon lefelé 16:30 előtt, hogy elkerülje a szürkületben kialakuló veszélyes tükörjeget.",
+                "ro": "Bucurați-vă de priveliștile văii înzăpezite, dar coborâți neapărat înainte de 16:30 pentru a evita gheața neagră periculoasă de la amurg.",
+                "en": "Enjoy the spectacular snow-dusted valley views, but ensure you descend before 4:30 PM to avoid dangerous twilight black ice on the winding roads."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Az autós utazás a drámai Bec de l'Échaillon-nál kezdődik, amely felébreszti az érzékeket. Délben a történelmi központba érkezik, hogy meglátogassa a városházát és a közeli perjelséget. Délután navigáljon a kanyargós hegyi utakon a békés Chalais apátsághoz. Az este egy rövid, izgalmas túrával zárul az Aiguille de Chalais felé, amely látványos alpesi kilátással koronázza meg a napot.",
         "ro": "Călătoria cu mașina începe la impresionantul monument natural Bec de l'Échaillon. La prânz, coborâți în centrul istoric pentru a vizita Primăria și prioratul din apropiere. După-amiaza, navigați pe drumurile montane șerpuite până la liniștita Abație Chalais. Seara se încheie cu o scurtă drumeție către Aiguille de Chalais, încununând călătoria cu perspective alpine spectaculoase.",
         "en": "Your drive begins at the dramatic Bec de l'Échaillon, an impressive natural monument to awaken your senses. Midday brings you down into the historical center to visit the Town Hall and the nearby priory. In the afternoon, navigate the winding mountain roads up to the serene and secluded Chalais Abbey. The evening ends with an exhilarating short hike toward the Aiguille de Chalais, capping off your road trip with spectacular alpine vistas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Autotour und genießen Sie den dramatischen Morgen-Nebel an den Aussichtspunkten sicher aus dem Auto. Mittags erreichen Sie das Zentrum, wo Sie nahe der Kirchen parken können, um trocken zu bleiben. Die Nachmittagsfahrt zur Abtei erfordert extreme Vorsicht auf rutschigen Bergstraßen. Beenden Sie den Abend mit einem warmen Abendessen unten im Tal.",
+            "hu": "Kezdje az esős autóstúrát a természetes kilátópontok drámai reggeli ködjének megcsodálásával a fűtött autóból. Délben a városközpontba ér, ahol könnyen parkolhat a templomok közelében. A délutáni hegyi vezetés az apátságba óvatosságot igényel a csúszós, kanyargós utakon. Zárja az esős estét egy meleg vacsorával biztonságban, lenn a völgyben.",
+            "ro": "Începeți turul auto ploios bucurându-vă de ceața matinală la punctele de belvedere direct din mașină. La prânz ajungeți în centru, unde puteți parca foarte aproape de biserici. Conducerea de după-amiază spre abație necesită prudență maximă pe drumurile montane alunecoase. Încheiați seara ploioasă cu o cină caldă jos, în vale.",
+            "en": "Start your rainy driving tour enjoying the dramatic morning mist at the natural viewpoints from safely inside your car. Midday brings you to the town center, where you can park close to the churches to minimize wet walks. Afternoon drives up to the abbey demand caution on slick, winding mountain roads. Conclude the rainy evening with a warm dinner back in the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bec de l'Échaillon",
+                "hu": "Bec de l'Échaillon",
+                "ro": "Bec de l'Échaillon",
+                "en": "Bec de l'Échaillon"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Sturmwolken um die Gipfel herum; bleiben Sie in der Nähe des Autos, um nicht auf nassen Felsen auszurutschen.",
+                "hu": "Figyelje meg a csúcsok körül gyülekező drámai viharfelhőket; maradjon az autó közelében, hogy elkerülje a nedves sziklákon való elcsúszást.",
+                "ro": "Observați norii dramatici de furtună care se adună în jurul vârfurilor; rămâneți lângă mașină pentru a evita alunecarea pe stâncile umede.",
+                "en": "Observe the dramatic storm clouds gathering around the mountain peaks; stay near the car to completely avoid slipping on the dangerously wet rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Voreppe",
+                "hu": "Voreppe Városháza",
+                "ro": "Primăria Voreppe",
+                "en": "Voreppe Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie ganz nah am Gebäude und rennen Sie schnell hinein, um die bürgerliche Architektur zu bewundern, ohne völlig durchnässt zu werden.",
+                "hu": "Parkoljon nagyon közel az épülethez, és tegyen egy gyors sprintet befelé, hogy megcsodálja a polgári építészetet anélkül, hogy bőrig ázna.",
+                "ro": "Parcați aproape de clădire și fugiți rapid înăuntru pentru a admira arhitectura civică istorică fără a vă uda complet hainele.",
+                "en": "Park as close to the building as possible and make a quick dash inside to admire the civic architecture without getting soaked by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Prioratskirche Saint-Didier",
+                "hu": "Saint-Didier Perjeltemplom",
+                "ro": "Biserica prioratului Saint-Didier",
+                "en": "Église prieurale Saint-Didier"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den sehr kurzen Weg vom Parkplatz, um direkt in dieses historische und vor allem regenfreie Heiligtum im Zentrum einzutauchen.",
+                "hu": "Használja ki a parkolótól vezető nagyon rövid sétát, hogy azonnal elmerüljön ebben a történelmi, és ami a legfontosabb, esőmentes szentélyben.",
+                "ro": "Profitați de plimbarea scurtă de la parcare pentru a vă scufunda direct în acest sanctuar istoric și, mai ales, ferit de ploaie.",
+                "en": "Take full advantage of the very short walk from the parking area to quickly dive into this historical, and completely rain-free sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère Aussichtspunkt",
+                "hu": "Belvédère Kilátó",
+                "ro": "Punctul de belvedere Belvédère",
+                "en": "Belvédère Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht mag durch tiefe Wolken verdeckt sein, aber das neblige Tal ist extrem fotogen; halten Sie einen robusten Regenschirm griffbereit.",
+                "hu": "A kilátást talán eltakarják az alacsony felhők, de a ködös völgy rendkívül fotogén; tartson kéznél egy robusztus, szélálló esernyőt a kiszálláshoz.",
+                "ro": "Priveliștea poate fi ascunsă de nori joși, dar valea cețoasă este extrem de fotogenică; păstrați la îndemână o umbrelă robustă când ieșiți.",
+                "en": "The view might be partially obscured by low clouds, but the misty valley is highly photogenic; keep a rugged umbrella handy for stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Chalais",
+                "hu": "Chalais Apátság",
+                "ro": "Abația Chalais",
+                "en": "Chalais Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt ist bei Nässe kurvig und glatt; das ruhige, trockene Kircheninnere oben ist jedoch ein lohnender und sicherer Schutz vor dem Regen.",
+                "hu": "A felfelé vezető út nedvesen kanyargós és csúszós; a hegytetőn lévő nyugodt, száraz templombelső azonban hálás és biztonságos menedék az eső elől.",
+                "ro": "Drumul este șerpuit și alunecos la umezeală; interiorul senin și uscat al bisericii de sus este un adăpost sigur și plin de satisfacții.",
+                "en": "The drive up is winding and slick when wet; however, the serene, dry church interior at the top is a rewarding and safe shelter from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aiguille de Chalais",
+                "hu": "Aiguille de Chalais",
+                "ro": "Aiguille de Chalais",
+                "en": "Aiguille de Chalais"
+              },
+              "tip_5lang": {
+                "de": "Überspringen Sie die schlammige Wanderung zum Rand bei strömendem Regen und bewundern Sie stattdessen die nebelverhangenen Kalksteingipfel vom Parkplatz.",
+                "hu": "Hagyja ki a sárban való csúszkálást a széléig, ha szakad az eső, és inkább a biztonságos parkolóból csodálja meg a ködbe burkolózó mészkőcsúcsokat.",
+                "ro": "Evitați drumeția noroioasă până la margine dacă plouă torențial și admirați în schimb vârfurile de calcar învăluite în ceață direct din parcare.",
+                "en": "Skip the muddy hike to the very edge if it's pouring rain, and safely admire the moody, fog-shrouded limestone peaks from the paved parking area instead."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Winterfahrt und genießen Sie die gefrosteten Landschaften bequem aus dem beheizten Auto. Die mittäglichen Stadtbesuche bieten frische Luft und Architektur. Der nachmittägliche Aufstieg zur Abtei erfordert Winterreifen, da Schnee und Eis häufig sind. Fahren Sie vor 17 Uhr bei Dunkelheit ins Tal für einen sicheren und warmen Abend.",
+            "hu": "Kezdje a téli autózást a fagyos tájak élvezetével egy fűtött autó kényelméből. A déli városlátogatás lehetőséget kínál a lábak kinyújtóztatására a csípős levegőn. A délutáni hegyvidéki út az apátsághoz téli gumit igényel, mivel a hó és a jég gyakori. Induljon vissza a 17:00 órai sötétedés előtt a biztonságos, hangulatos este érdekében.",
+            "ro": "Începeți plimbarea de iarnă bucurându-vă de peisajele înghețate din confortul mașinii încălzite. Vizitele de prânz în oraș oferă aer curat și arhitectură. Urcușul de după-amiază spre abație necesită anvelope de iarnă, zăpada fiind frecventă. Coborâți înainte de întunericul de la ora 17:00 pentru o seară sigură și foarte călduroasă.",
+            "en": "Begin your winter drive enjoying the frosted landscapes from the comfort of a heated car. Midday town visits offer a chance to stretch your legs in the crisp air. The afternoon ascent to the high abbey absolutely requires winter tires, as snow is common. Head down before the 5 PM darkness sets in to ensure a safe, cozy evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bec de l'Échaillon",
+                "hu": "Bec de l'Échaillon",
+                "ro": "Bec de l'Échaillon",
+                "en": "Bec de l'Échaillon"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die atemberaubende schneebedeckte Aussicht vom Straßenrand und stellen Sie sicher, dass Ihr Auto sicher von eisigen Kanten entfernt parkt.",
+                "hu": "Élvezze a lenyűgöző hófödte kilátást közvetlenül az út széléről, ügyelve arra, hogy autója biztonságos távolságban parkoljon a jeges peremektől.",
+                "ro": "Bucurați-vă de priveliștile uimitoare acoperite de zăpadă de la marginea drumului, asigurându-vă că mașina este parcată departe de marginile înghețate.",
+                "en": "Enjoy the stunning snow-capped mountain views from the roadside, ensuring your car is parked safely and far away from any dangerously icy edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Voreppe",
+                "hu": "Voreppe Városháza",
+                "ro": "Primăria Voreppe",
+                "en": "Voreppe Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie über den frostigen Stadtplatz, aber springen Sie schnell wieder in Ihr beheiztes Fahrzeug, um Ihre kalten Hände aufzuwärmen.",
+                "hu": "Sétáljon egyet a fagyos várostéren, de utána ugorjon gyorsan vissza a fűtött járművébe, hogy felmelegítse az átfagyott kezeit a hideg levegő után.",
+                "ro": "Plimbați-vă prin piața înghețată a orașului, dar întoarceți-vă rapid în vehiculul încălzit pentru a vă încălzi mâinile amorțite de frig.",
+                "en": "Stroll around the beautiful but frosty town square, then quickly pop back into your heated vehicle to warm your hands from the freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Prioratskirche Saint-Didier",
+                "hu": "Saint-Didier Perjeltemplom",
+                "ro": "Biserica prioratului Saint-Didier",
+                "en": "Église prieurale Saint-Didier"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinwände machen das Innere oft kälter als draußen; tragen Sie unbedingt eine warme Mütze, während Sie dieses mittelalterliche Juwel erkunden.",
+                "hu": "A vastag kőfalak miatt a belső tér gyakran hidegebb, mint a kinti levegő; mindenképpen viseljen meleg sapkát, miközben felfedezi ezt a középkori gyöngyszemet.",
+                "ro": "Pereții groși din piatră fac ca interiorul să fie adesea mai rece decât afară; purtați o căciulă caldă în timp ce explorați această bijuterie medievală.",
+                "en": "The thick stone walls make the interior colder than outside; ensure you wear a warm hat and scarf while exploring this fascinating medieval gem."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère Aussichtspunkt",
+                "hu": "Belvédère Kilátó",
+                "ro": "Punctul de belvedere Belvédère",
+                "en": "Belvédère Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in die klare Winterluft hinaus für atemberaubende Ausblicke, aber hüten Sie sich vor versteckten Eisflächen auf der eigentlichen Aussichtsplattform.",
+                "hu": "Lépjen ki a csípős téli levegőre a lélegzetelállító kilátásért, de nagyon vigyázzon a kilátóplatformon megbúvó, alattomos, láthatatlan jégfoltokra.",
+                "ro": "Ieșiți în aerul rece de iarnă pentru priveliști uluitoare, dar feriți-vă de peticele ascunse de gheață de pe platforma principală de vizionare.",
+                "en": "Step out into the crisp winter air for breathtaking snowy views, but beware of extremely treacherous hidden ice patches on the viewing platform itself."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Chalais",
+                "hu": "Chalais Apátság",
+                "ro": "Abația Chalais",
+                "en": "Chalais Abbey"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Auto Winterreifen für den steilen Anstieg hat; das schneebedeckte Abteigelände oben ist unglaublich friedlich und lohnend.",
+                "hu": "Győződjön meg róla, hogy autója megfelelő téli gumikkal rendelkezik a meredek emelkedőhöz; a hóval borított apátság területe hihetetlenül békés.",
+                "ro": "Asigurați-vă că mașina are anvelope de iarnă bune pentru ascensiunea abruptă; terenul abației acoperit de zăpadă este incredibil de pașnic.",
+                "en": "Ensure your car has high-quality winter tires for the steep, snowy ascent; the snow-covered abbey grounds are incredibly peaceful and rewarding."
+              }
+            },
+            {
+              "name": {
+                "de": "Aiguille de Chalais",
+                "hu": "Aiguille de Chalais",
+                "ro": "Aiguille de Chalais",
+                "en": "Aiguille de Chalais"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die eisigen Felsen, aber fahren Sie unbedingt vor 16 Uhr den Berg hinunter, da die Dämmerung die Straßen extrem schnell gefrieren lässt.",
+                "hu": "Élvezze a drámai, jeges sziklákat, de délután 4 óra előtt mindenképpen induljon el lefelé a hegyről, mivel a szürkület rendkívül gyorsan lefagyasztja az utakat.",
+                "ro": "Bucurați-vă de stâncile dramatice de gheață, dar coborâți de pe munte înainte de ora 16:00, deoarece amurgul îngheață drumurile extrem de rapid.",
+                "en": "Enjoy the dramatic, icy crags, but make absolutely sure to head back down the mountain before 4 PM, as twilight freezes the winding roads incredibly rapidly."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A reggel a Luni Régészeti Múzeumban kezdődik, ahol feltárjuk e partvidék római kori gyökereit.\n\nDélben elsétálunk a kora keresztény bazilika mellett, nyomon követve a vallástörténet évszázadait a csendes romok között.\n\nDélután a lélegzetelállító Casa dei Mosaici és az ókori római színház nyújt bepillantást a patríciusok életébe.\n\nAz este lágyan ereszkedik le, amikor elérjük a nagyszerű amfiteátrumot, elképzelve az egykori tömegek morajlását.",
         "ro": "Dimineața începe la Muzeul Arheologic Luni, descoperind rădăcinile romane ale acestei zone de coastă.\n\nLa amiază, ne plimbăm pe lângă bazilica creștină timpurie, urmărind secole de istorie religioasă în ruinele liniștite.\n\nDupă-amiaza, uluitoarea Casa dei Mosaici și Teatrul Roman antic oferă o privire în viața patriciană.\n\nSeara coboară încet pe măsură ce ajungem la marele Amfiteatru, imaginându-ne vuietul mulțimilor antice.",
         "en": "Morning begins at the Luni Archaeological Museum, unearthing the Roman roots of this coastal area.\n\nBy midday, we walk past the early Christian basilica, tracing centuries of religious history in the quiet ruins.\n\nIn the afternoon, the breathtaking Casa dei Mosaici and the ancient Roman Theater offer a glimpse into patrician life and public entertainment.\n\nEvening falls softly as we reach the grand Amphitheater, imagining the roar of ancient crowds before wrapping up our journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im archäologischen Museum, wo Sie trocken in die antike Welt eintauchen können. Mittags führt der Weg mit dem Regenschirm über die nassen Pfade zur christlichen Basilika. Am Nachmittag bieten die Schutzdächer über den Mosaikhäusern willkommenen Unterschlupf vor dem Regen. Der Abend klingt gemütlich aus, während die Regentropfen auf die historischen Steine der Stadt trommeln.",
+            "hu": "A reggel a Luni Régészeti Múzeumban kezdődik, amely kiváló menedéket nyújt az eső elől a kiállítások felfedezése közben. Délben esernyővel felszerelkezve vágunk át a vizes ösvényeken az ősi bazilika maradványaihoz a nyílt területen. Délután a mozaikházak védőtetői alatt folytatjuk a sétát, ahol szárazon csodálhatjuk meg az antik padlódíszeket. Az este a tengerparti szürkületben ér véget a vizes utcákon.",
+            "ro": "Dimineața începe la muzeul arheologic, unde puteți explora lumea antică feriți de ploaie în interiorul galeriilor. La prânz, drumul continuă cu umbrela pe potecile umede spre vechea basilică creștină din sit. După-amiaza, acoperișurile de protecție ale caselor cu mozaic oferă un adăpost excelent împotriva precipitațiilor. Seara se încheie liniștit, în timp ce ploaia se domolește peste ruinele istorice.",
+            "en": "The morning starts at the archaeological museum, where you can dive into the ancient world while staying dry inside. At noon, the path continues with an umbrella across the wet trails toward the ancient Christian basilica. In the afternoon, the protective roofs over the mosaic houses provide welcome shelter from the rain. The evening ends peacefully as the raindrops tap on the city's historic stones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Luni",
+                "hu": "Museo Archeologico Nazionale di Luni",
+                "ro": "Museo Archeologico Nazionale di Luni",
+                "en": "Museo Archeologico Nazionale di Luni"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die wertvollen Funde in den klimatisierten Räumen des Museums; dies ist der perfekte Ort, um den ersten Regenschauer des Tages trocken zu überstehen.",
+                "hu": "Fedezze fel a múzeum értékes kincseit a belső kiállítótermekben; ez a tökéletes helyszín ahhoz, hogy szárazon vészeljük át a nap első nagyobb esőzését a romterületen.",
+                "ro": "Explorați vestigiile valoroase în sălile climatizate ale muzeului; acesta este locul perfect pentru a supraviețui primei ploi a zilei fără a vă uda pe situl arheologic.",
+                "en": "Explore the valuable finds in the museum's indoor galleries; this is the perfect place to survive the first rain shower of the day while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica cristiana di Luni",
+                "hu": "Basilica cristiana di Luni",
+                "ro": "Basilica cristiana di Luni",
+                "en": "Basilica cristiana di Luni"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm bereit für den kurzen Fußweg zur Basilika; die nassen Ruinen wirken bei grauem Himmel besonders mystisch und geschichtsträchtig.",
+                "hu": "Készítse elő az esernyőt a bazilikához vezető rövid sétához; a vizes romok a szürke égbolt alatt különösen misztikus és történelmi hangulatot árasztanak a látogatóknak.",
+                "ro": "Pregătiți umbrela pentru scurta plimbare spre basilică; ruinele umede sub cerul gri emană o atmosferă deosebit de mistică și plină de istorie pentru toți vizitatorii.",
+                "en": "Have your umbrella ready for the short walk to the basilica; the wet ruins under a gray sky radiate a particularly mystical and historic atmosphere for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa dei Mosaici",
+                "hu": "Casa dei Mosaici",
+                "ro": "Casa dei Mosaici",
+                "en": "Casa dei Mosaici"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Überdachungen der Ausgrabungsstätte als Unterstand; so können Sie die antiken Mosaikböden in aller Ruhe bewundern, ohne vom Regen nass zu werden.",
+                "hu": "Használja ki a régészeti terület védőtetőit menedékként; így nyugodtan megcsodálhatja az antik mozaikpadlókat anélkül, hogy az eső eláztatná a ruházatát séta közben.",
+                "ro": "Folosiți acoperișurile sitului arheologic ca adăpost; astfel puteți admira în liniște podelele antice cu mozaic fără ca ploaia să vă ude hainele în timpul vizitei.",
+                "en": "Use the archaeological site's protective roofs as shelter; this allows you to admire the ancient mosaic floors in peace without the rain soaking your clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Romano di Luni",
+                "hu": "Teatro Romano di Luni",
+                "ro": "Teatro Romano di Luni",
+                "en": "Teatro Romano di Luni"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den Marmorstufen des Theaters, da diese bei Nässe extrem rutschig werden können; tragen Sie unbedingt festes Schuhwerk mit gutem Profil.",
+                "hu": "Vigyázzon a színház márványlépcsőin, mivel az esőben rendkívül csúszóssá válhatnak; mindenképpen viseljen jó tapadású, bordázott talpú túracipőt a balesetek elkerülésére.",
+                "ro": "Atenție pe treptele de marmură ale teatrului, deoarece pot deveni extrem de alunecoase pe ploaie; purtați neapărat încălțăminte cu talpă aderentă pentru siguranță.",
+                "en": "Be careful on the theater's marble steps, as they can become extremely slippery in the rain; be sure to wear sturdy shoes with good grip to avoid any accidents."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro romano di Luni",
+                "hu": "Anfiteatro romano di Luni",
+                "ro": "Anfiteatro romano di Luni",
+                "en": "Anfiteatro romano di Luni"
+              },
+              "tip_5lang": {
+                "de": "Der kiesige Boden der Arena kann Pfützen bilden, daher sind wasserfeste Wanderschuhe ratsam, um das beeindruckende Bauwerk trockenen Fußes zu umrunden.",
+                "hu": "Az aréna kavicsos talaján tócsák alakulhatnak ki, ezért vízálló túrabakancs javasolt, hogy száraz lábbal járhassuk körbe ezt a lenyűgöző ókori építményt.",
+                "ro": "Pe solul cu pietriș al arenei se pot forma bălți, de aceea se recomandă bocanci impermeabili pentru a înconjura acest edificiu antic impresionant cu picioarele uscate.",
+                "en": "Puddles may form on the arena's gravel ground, so waterproof hiking boots are recommended to walk around this impressive ancient structure with dry feet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Museum weckt die Lebensgeister, warme Kleidung ist hier Pflicht. Zur Mittagszeit wärmt die tiefstehende Sonne die alten Mauern der Basilika nur schwach auf. Am Nachmittag taucht das goldene Winterlicht das römische Theater in eine magische Kulisse. Da es gegen 17:00 Uhr bereits dunkel wird, endet der Spaziergang früh in der kühlen Abendluft.",
+            "hu": "A friss téli reggel a múzeumnál indul, a réteges öltözködés és a meleg sál kötelező kellék. Délidőben az alacsonyan járó nap csak gyengén melegíti fel a bazilika ősi falait a nyílt terepen. Délután az aranybarna téli fények varázslatos díszletbe öltöztetik a római színházat. Mivel 17:00 körül már sötétedik, a séta korán véget ér a hűvös esti levegőben.",
+            "ro": "O dimineață răcoroasă de iarnă la muzeu vă va revigora, dar hainele groase sunt obligatorii aici. La prânz, soarele palid încălzește doar slab zidurile vechi ale basilicii pe terenul deschis. După-amiaza, lumina aurie de iarnă transformă teatrul roman într-un decor magic. Deoarece se întunecă deja în jur de ora 17:00, plimbarea se termină devreme.",
+            "en": "A crisp winter morning at the museum is refreshing, but warm clothing is a must here. At midday, the low sun only weakly warms the ancient walls of the basilica in the open area. In the afternoon, the golden winter light turns the Roman theater into a magical backdrop. Since it gets dark around 5:00 PM, the walk ends early in the cool evening air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Luni",
+                "hu": "Museo Archeologico Nazionale di Luni",
+                "ro": "Museo Archeologico Nazionale di Luni",
+                "en": "Museo Archeologico Nazionale di Luni"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum des Museums, um sich aufzuwärmen, bevor Sie die kühleren Außenbereiche der archäologischen Zone besichtigen.",
+                "hu": "Használja ki a múzeum fűtött belső tereit a bemelegedésre, mielőtt fejest ugrik a régészeti zóna hűvösebb, szabadtéri részeinek felfedezésébe a téli szélben.",
+                "ro": "Profită de interiorul încălzit al muzeului pentru a te încălzi înainte de a explora zonele exterioare mai reci ale sitului arheologic în vântul de iarnă.",
+                "en": "Take advantage of the museum's heated interior to warm up before heading out to explore the cooler outdoor areas of the archaeological zone in the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica cristiana di Luni",
+                "hu": "Basilica cristiana di Luni",
+                "ro": "Basilica cristiana di Luni",
+                "en": "Basilica cristiana di Luni"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine winddichte Jacke, da der Seewind im Winter ungehindert über das freie Feld der antiken Basilika weht und sehr auskühlen kann.",
+                "hu": "Viseljen szélálló kabátot, mivel a téli tengeri szél akadálytalanul fúj át az antik bazilika nyílt területén, és gyorsan lehűtheti a látogatók testhőmérsékletét.",
+                "ro": "Purtați o jachetă rezistentă la vânt, deoarece briza mării de iarnă bate nestingherită peste câmpul deschis al basilicii antice și vă poate răci rapid.",
+                "en": "Wear a windproof jacket, as the winter sea breeze blows unchecked across the open field of the ancient basilica and can quickly chill your body temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa dei Mosaici",
+                "hu": "Casa dei Mosaici",
+                "ro": "Casa dei Mosaici",
+                "en": "Casa dei Mosaici"
+              },
+              "tip_5lang": {
+                "de": "Die Mosaike leuchten im flachen Winterlicht besonders klar; achten Sie auf den gefrorenen Boden auf den Wegen zwischen den Schutzdächern.",
+                "hu": "A mozaikok színei a lapos téli fényben különösen élesen látszanak; ügyeljen a fagyott talajra a védőtetők közötti ösvényeken a reggeli órákban.",
+                "ro": "Culorile mozaicurilor strălucesc deosebit de clar în lumina slabă a iernii; aveți grijă la solul înghețat de pe potecile dintre acoperișurile de protecție.",
+                "en": "The colors of the mosaics appear particularly sharp in the low winter light; watch out for frozen ground on the paths between the protective roofs in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Romano di Luni",
+                "hu": "Teatro Romano di Luni",
+                "ro": "Teatro Romano di Luni",
+                "en": "Teatro Romano di Luni"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Theater am frühen Nachmittag, um die letzten wärmenden Sonnenstrahlen einzufangen, bevor die Schatten der Ruinen länger werden.",
+                "hu": "Látogasson el a színházhoz kora délután, hogy elkapja az utolsó melengető napsugarakat, mielőtt a romok árnyékai megnyúlnának a téli szürkületben.",
+                "ro": "Vizitați teatrul la începutul după-amiezii pentru a prinde ultimele raze de soare calde înainte ca umbrele ruinelor să se lungească în amurgul de iarnă.",
+                "en": "Visit the theater in the early afternoon to catch the last warming sunbeams before the shadows of the ruins lengthen in the winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro romano di Luni",
+                "hu": "Anfiteatro romano di Luni",
+                "ro": "Anfiteatro romano di Luni",
+                "en": "Anfiteatro romano di Luni"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe des monumentalen Baus ohne Touristenmassen; nach Sonnenuntergang sinken die Temperaturen hier auf dem freien Feld jedoch rapide.",
+                "hu": "Élvezze a monumentális építmény nyugalmát a turistaáradat nélkül; naplemente után azonban a hőmérséklet drasztikusan visszaesik itt a nyílt terepen.",
+                "ro": "Bucurați-vă de liniștea edificiului monumental fără mulțimi de turiști; totuși, după apusul soarelui, temperaturile scad drastic aici pe câmpul deschis.",
+                "en": "Enjoy the tranquility of the monumental structure without the tourist crowds; however, after sunset, temperatures drop drastically here in the open field."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A napot a Bagno Italiánál kezdjük, élvezve a friss tengeri szellőt, mielőtt a szárazföld belseje felé vennénk az irányt.\n\nDélben a Carlo Fabbricotti emlékműhöz tekerünk, tisztelegve a helyi márványörökség előtt.\n\nDélutánunkat az ókori kikötőnek szenteljük, meglátogatva a történelmi Faro Portus Luneát és a lenyűgöző Luni Experience Alagutat.\n\nAhogy közeledik az este, a látványos mozaikok melegen ragyognak a halványuló fényben, lezárva túránkat.",
         "ro": "Începem ziua la Bagno Italia, bucurându-ne de briza proaspătă a mării înainte de a ne îndrepta spre interior.\n\nLa amiază pedalăm către monumentul lui Carlo Fabbricotti, onorând moștenirea locală a marmurei.\n\nDupă-amiaza este dedicată portului antic, vizitând istoricul Faro Portus Lunea și Tunelul imersiv Luni Experience.\n\nPe măsură ce se apropie seara, mozaicurile spectaculoase strălucesc cald în lumina palidă, încheind plimbarea.",
         "en": "We kick off the day at Bagno Italia, enjoying the fresh sea breeze and sandy stretches before heading inland.\n\nMidday finds us pedaling to the monument of Carlo Fabbricotti, honoring the local marble heritage.\n\nOur afternoon is dedicated to the ancient port, visiting the historic Faro Portus Lunea and the immersive Luni Experience Tunnel.\n\nAs evening approaches, the spectacular Ocean and Circus Maximus mosaics glow warmly in the fading light, concluding our ride."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag startet am Strandbad unter einem schützenden Vordach mit Blick auf die stürmische See. Mittags radeln Sie vorsichtig über die nassen Küstenstraßen zum Fabbricotti-Denkmal. Der Nachmittag im multimedialen Tunnel bietet die perfekte Flucht vor dem Dauerregen ins Trockene. Am Abend kehren Sie erfrischt, aber etwas feucht, von Ihrer Tour entlang der Küste zurück.",
+            "hu": "A kerékpáros nap a tengerparti strandon indul egy védett tető alatt, nézve a viharos hullámokat. Délben óvatosan tekerünk a vizes partmenti utakon a Fabbricotti-emlékmű felé. A délutáni program a multimédiás alagútban a tökéletes menekülést jelenti az eső elől a száraz belső térbe. Este frissen, de kissé nyirkosan térünk vissza a parti túráról.",
+            "ro": "Ziua cu bicicleta începe la plajă sub un baldachin protector, privind marea agitată de ploaie. La prânz, pedalați cu atenție pe drumurile de coastă umede spre monumentul Fabbricotti. După-amiaza în tunelul multimedia oferă evadarea perfectă din ploaia continuă într-un spațiu uscat. Seara vă întoarceți revigorați, dar puțin umezi, din tura pe coastă.",
+            "en": "The bike day starts at the beach club under a protective awning, watching the stormy sea. At noon, pedal carefully over the wet coastal roads toward the Fabbricotti monument. The afternoon in the multimedia tunnel offers the perfect escape from the steady rain into a dry space. In the evening, you return refreshed, though a bit damp, from your tour along the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagno Italia",
+                "hu": "Bagno Italia",
+                "ro": "Bagno Italia",
+                "en": "Bagno Italia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachte Terrasse für eine kurze Pause und prüfen Sie die Regenfestigkeit Ihrer Fahrradausrüstung, bevor Sie die Tour fortsetzen.",
+                "hu": "Használja ki a fedett teraszt egy rövid pihenőre, és ellenőrizze kerékpáros felszerelése vízállóságát, mielőtt folytatná a túrát a szakadó esőben.",
+                "ro": "Folosiți terasa acoperită pentru o scurtă pauză și verificați impermeabilitatea echipamentului de ciclism înainte de a continua tura prin ploaie.",
+                "en": "Use the covered terrace for a short break and check the waterproofness of your cycling gear before continuing your tour through the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "monumento a Carlo Fabbricotti",
+                "hu": "monumento a Carlo Fabbricotti",
+                "ro": "monumento a Carlo Fabbricotti",
+                "en": "monumento a Carlo Fabbricotti"
+              },
+              "tip_5lang": {
+                "de": "Der Asphalt um das Denkmal kann durch nasses Laub rutschig sein; drosseln Sie Ihr Tempo und vermeiden Sie abruptes Bremsen auf der nassen Fahrbahn.",
+                "hu": "Az emlékmű körüli aszfalt a vizes levelektől csúszóssá válhat; lassítson le, és kerülje a hirtelen fékezést a nedves útfelületen a biztonság érdekében.",
+                "ro": "Asfaltul din jurul monumentului poate fi alunecos din cauza frunzelor ude; încetiniți și evitați frânarea bruscă pe carosabilul umed pentru siguranță.",
+                "en": "The asphalt around the monument can be slippery from wet leaves; slow down and avoid sudden braking on the wet road surface for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro Portus Lunea",
+                "hu": "Faro Portus Lunea",
+                "ro": "Faro Portus Lunea",
+                "en": "Faro Portus Lunea"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Anblick des Leuchtturms bei Regen; achten Sie auf tiefere Pfützen am Wegesrand, die Ihre Schuhe durchnässen könnten.",
+                "hu": "Élvezze a világítótorony drámai látványát az esőben; ügyeljen az út menti mélyebb tócsákra, amelyek gyorsan átáztathatják a cipőjét tekerés közben.",
+                "ro": "Bucurați-vă de vederea dramatică a farului în ploaie; aveți grijă la bălțile adânci de pe marginea drumului care vă pot uda rapid încălțămintea.",
+                "en": "Enjoy the dramatic sight of the lighthouse in the rain; watch out for deeper puddles along the roadside that could quickly soak your shoes while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunnel Multimediale Luni Experience",
+                "hu": "Tunnel Multimediale Luni Experience",
+                "ro": "Tunnel Multimediale Luni Experience",
+                "en": "Tunnel Multimediale Luni Experience"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Station, um das Fahrrad sicher abzustellen und sich im trockenen Tunnel aufzuwärmen, während draußen der Regen gegen die Wände peitscht.",
+                "hu": "Ideális állomás a kerékpár biztonságos leállítására és a száraz alagútban való bemelegedésre, miközben odakint az eső veri a falakat és az utat.",
+                "ro": "Stația ideală pentru a lăsa bicicleta în siguranță și pentru a te încălzi în tunelul uscat, în timp ce afară ploaia bate în pereți și pe drum.",
+                "en": "The ideal station to safely park your bike and warm up in the dry tunnel while the rain lashes against the walls and the road outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mosaici di Oceano e del Circo Massimo",
+                "hu": "Mosaici di Oceano e del Circo Massimo",
+                "ro": "Mosaici di Oceano e del Circo Massimo",
+                "en": "Mosaici di Oceano e del Circo Massimo"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad nahe der Überdachung ab; die feuchte Luft lässt die Farben der Mosaike besonders satt und kontrastreich erscheinen.",
+                "hu": "Zárja le kerékpárját a védőtető közelében; a párás levegő a mozaikok színeit különösen telítetté és kontrasztossá teszi a szemlélő számára.",
+                "ro": "Încuiați bicicleta lângă acoperișul de protecție; aerul umed face culorile mozaicurilor să pară deosebit de saturate și contrastante pentru privitor.",
+                "en": "Lock your bike near the protective roof; the humid air makes the colors of the mosaics appear particularly saturated and contrasting to the viewer."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Bagno Italia erfordert dicke Handschuhe gegen den eisigen Fahrtwind. Mittags radeln Sie in der klaren Winterluft zum Fabbricotti-Denkmal, während die Sonne glitzert. Am Nachmittag bietet der multimediale Tunnel eine willkommene Pause vom kalten Wind. Gegen 16:30 Uhr sinkt die Sonne, und Sie sollten die Tour beenden, bevor die Nachtfrostgefahr steigt.",
+            "hu": "A fagyos indítás a Bagno Italiánál vastag kesztyűt igényel a jeges menetszél ellen. Délben a tiszta téli levegőben tekerünk a Fabbricotti-emlékműhöz, miközben a napsütés megcsillan a tájon. Délután a multimédiás alagút kínál szívesen látott pihenőt a hideg szél elől. 16:30 körül a nap már lebukik, így érdemes befejezni a túrát.",
+            "ro": "Un început înghețat la Bagno Italia necesită mănuși groase împotriva vântului tăios. La prânz, pedalați în aerul curat de iarnă spre monumentul Fabbricotti sub soarele sclipitor. După-amiaza, tunelul multimedia oferă o pauză binevenită de vântul rece. În jur de ora 16:30 soarele apune, așa că ar trebui să terminați tura.",
+            "en": "A frosty start at Bagno Italia requires thick gloves against the icy wind. At noon, pedal through the clear winter air to the Fabbricotti monument while the sun glitters. In the afternoon, the multimedia tunnel offers a welcome break from the cold wind. Around 4:30 PM the sun sets, so you should finish the tour before it gets too cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagno Italia",
+                "hu": "Bagno Italia",
+                "ro": "Bagno Italia",
+                "en": "Bagno Italia"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Espresso, um Ihre Körpertemperatur zu erhöhen, bevor Sie sich dem kalten Wind auf der Küstenpromenade stellen.",
+                "hu": "Igyon meg egy forró eszpresszót, hogy növelje testhőmérsékletét, mielőtt szembenézne a jeges széllel a tengerparti sétányon való tekerés során.",
+                "ro": "Beți un espresso fierbinte pentru a vă crește temperatura corpului înainte de a înfrunta vântul rece de pe faleza mării în timpul pedalatului.",
+                "en": "Drink a hot espresso to increase your body temperature before facing the cold wind on the seaside promenade during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "monumento a Carlo Fabbricotti",
+                "hu": "monumento a Carlo Fabbricotti",
+                "ro": "monumento a Carlo Fabbricotti",
+                "en": "monumento a Carlo Fabbricotti"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann beim Fahren blenden; tragen Sie eine Sportsonnenbrille, um das Denkmal und den Weg sicher im Blick zu behalten.",
+                "hu": "Az alacsonyan járó téli nap elvakíthat tekerés közben; viseljen sportszemüveget, hogy biztonságosan szemügyre vehesse az emlékművet és az utat.",
+                "ro": "Soarele de iarnă aflat la înălțime mică vă poate orbi în timp ce pedalați; purtați ochelari de sport pentru a vedea monumentul și drumul în siguranță.",
+                "en": "The low winter sun can dazzle you while riding; wear sports sunglasses to keep the monument and the path safely in view."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro Portus Lunea",
+                "hu": "Faro Portus Lunea",
+                "ro": "Faro Portus Lunea",
+                "en": "Faro Portus Lunea"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht über das Meer ist im Winter oft außergewöhnlich klar; halten Sie nur kurz an, um nicht durch den kalten Wind am Leuchtturm auszukühlen.",
+                "hu": "A kilátás a tengerre télen gyakran rendkívül tiszta; csak rövid időre álljon meg, hogy a világítótoronynál fújó hideg szél ne hűtse le túlságosan.",
+                "ro": "Vizibilitatea peste mare este adesea extrem de clară iarna; opriți-vă doar pentru scurt timp ca vântul rece de la far să nu vă răcească prea tare.",
+                "en": "The view over the sea is often exceptionally clear in winter; stop only briefly so that the cold wind at the lighthouse does not chill you too much."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunnel Multimediale Luni Experience",
+                "hu": "Tunnel Multimediale Luni Experience",
+                "ro": "Tunnel Multimediale Luni Experience",
+                "en": "Tunnel Multimediale Luni Experience"
+              },
+              "tip_5lang": {
+                "de": "Der Tunnel schützt hervorragend vor dem beißenden Winterwind; nutzen Sie die Zeit für die Ausstellung, um Ihre Hände und Füße wieder aufzuwärmen.",
+                "hu": "Az alagút kiválóan véd a metsző téli szél ellen; használja ki a kiállítás idejét arra, hogy kezei és lábai újra bemelegedjenek a túra folytatása előtt.",
+                "ro": "Tunelul oferă o protecție excelentă împotriva vântului tăios de iarnă; profită de timpul expoziției pentru ca mâinile și picioarele să se încălzească din nou.",
+                "en": "The tunnel provides excellent protection against the biting winter wind; use the exhibition time to let your hands and feet warm up again."
+              }
+            },
+            {
+              "name": {
+                "de": "Mosaici di Oceano e del Circo Massimo",
+                "hu": "Mosaici di Oceano e del Circo Massimo",
+                "ro": "Mosaici di Oceano e del Circo Massimo",
+                "en": "Mosaici di Oceano e del Circo Massimo"
+              },
+              "tip_5lang": {
+                "de": "Beeilen Sie sich bei der Besichtigung, da die Kälte am späten Nachmittag in den offenen Ruinen schnell zunimmt; achten Sie auf glatte Stellen am Boden.",
+                "hu": "Igyekezzen a megtekintéssel, mivel a hideg késő délután gyorsan fokozódik a nyitott romok között; ügyeljen a talajon előforduló csúszós, jeges foltokra.",
+                "ro": "Grăbiți-vă cu vizita, deoarece frigul crește rapid după-amiaza târziu printre ruinele deschise; aveți grijă la petele alunecoase de gheață de pe sol.",
+                "en": "Hurry with your visit, as the cold increases rapidly in the late afternoon among the open ruins; watch out for slippery, icy patches on the ground."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "A vezetés a Marina di Carrara modern világítótornyánál kezdődik, amely összeköt minket a régió aktív tengeri kultúrájával.\n\nDélben átgurulunk a Bagno Italiához, hogy élvezzük a rövid, napos pihenőt a gyönyörű Ligur-tengernél.\n\nDélután az ókori világ felé vesszük az irányt, és felfedezzük a Luni kolosszális római amfiteátrumát.\n\nAz estét a Nemzeti Régészeti Múzeum építészeti szárnyainak csodálatával töltjük, mélyen megérintve a történelemtől.",
         "ro": "Călătoria începe la Farul modern din Marina di Carrara, conectându-ne la cultura maritimă activă a regiunii.\n\nLa amiază, conducem spre Bagno Italia pentru a ne bucura de un scurt răgaz însorit lângă frumoasa Mare Ligurică.\n\nDupă-amiaza ne îndreptăm spre lumea antică, explorând colosalul Amfiteatru Roman din Luni și împrejurimile sale.\n\nSeara este petrecută minunându-ne de aripile de arhitectură sacră și epigrafică ale Muzeului Național Arheologic.",
         "en": "The drive starts at the modern Lighthouse of Marina di Carrara, connecting us to the region's active maritime culture.\n\nBy midday, we cruise over to Bagno Italia to enjoy a brief, sunny respite by the beautiful Ligurian Sea.\n\nIn the afternoon, we head to the ancient world, exploring the colossal Roman Amphitheater of Luni and its surroundings.\n\nEvening is spent marveling at the National Archaeological Museum's epigraphic and sacred architecture wings, deeply moved by history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto genießen Sie eine komfortable Fahrt zum Leuchtturm, während der Regen gegen die Scheiben prasselt. Mittags bietet das Strandbad eine trockene Aussicht auf die Wellen vom Parkplatz aus. Am Nachmittag widmen Sie sich ausgiebig den überdachten Museums-Sektionen in Luni. Der Abend endet sicher und trocken bei einer entspannten Rückfahrt durch die regnerische Küstenlandschaft.",
+            "hu": "Az autóval kényelmes utazást élvezhet a világítótoronyhoz, miközben az eső kopog a szélvédőn. Délben a strand parkolójából szárazon csodálhatjuk a hullámokat. Délután bőséges időt szánhatunk Luni fedett múzeumi szekcióira, ahol az időjárás nem zavarja a látogatást. Az este biztonságban és szárazon ér véget a vizes tengerparti tájon keresztül.",
+            "ro": "Cu mașina vă bucurați de o călătorie confortabilă spre far în timp ce ploaia bate în parbriz. La prânz, parcarea plajei oferă o vedere uscată spre valurile mării. După-amiaza, dedicați mult timp secțiunilor acoperite ale muzeului din Luni. Seara se încheie în siguranță și la uscat, cu o călătorie relaxată prin peisajul de coastă plouat.",
+            "en": "With the car, you enjoy a comfortable drive to the lighthouse while the rain taps on the windshield. At noon, the beach parking lot offers a dry view of the waves. In the afternoon, spend plenty of time in the covered museum sections of Luni. The evening ends safely and dryly with a relaxed drive through the rainy coastal landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Faro di Marina di Carrara",
+                "hu": "Faro di Marina di Carrara",
+                "ro": "Faro di Marina di Carrara",
+                "en": "Faro di Marina di Carrara"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Leuchtturm, um den kurzen Fußweg im Regen zu minimieren; die Sicht auf das Meer ist bei Sturm besonders beeindruckend.",
+                "hu": "Parkoljon a lehető legközelebb a világítótoronyhoz, hogy minimalizálja az esőben megtett utat; a tenger látványa viharos időben különösen lenyűgöző.",
+                "ro": "Parcați cât mai aproape de far pentru a minimiza drumul parcurs prin ploaie; vederea mării în timpul furtunii este deosebit de impresionantă.",
+                "en": "Park as close to the lighthouse as possible to minimize the walk in the rain; the view of the sea during stormy weather is particularly impressive."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Italia",
+                "hu": "Bagno Italia",
+                "ro": "Bagno Italia",
+                "en": "Bagno Italia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den PKW als gemütlichen Rückzugsort, um das stürmische Panorama der Küste zu bewundern, ohne dabei nass oder vom Wind durchgeschüttelt zu werden.",
+                "hu": "Használja az autót kényelmes menedékként, ahonnan megcsodálhatja a part viharos panorámáját anélkül, hogy elázna vagy a szél megtépázná a ruházatát.",
+                "ro": "Folosiți mașina ca un refugiu confortabil de unde puteți admira panorama furtunoasă a coastei fără a vă uda sau a fi ciufulit de vântul puternic.",
+                "en": "Use the car as a comfortable retreat from which you can admire the stormy panorama of the coast without getting wet or battered by the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro romano di Luni",
+                "hu": "Anfiteatro romano di Luni",
+                "ro": "Anfiteatro romano di Luni",
+                "en": "Anfiteatro romano di Luni"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie direkt zum Eingangsbereich des Amphitheaters; bei starkem Regen empfiehlt es sich, die Besichtigung auf die monumentalen Bögen zu beschränken.",
+                "hu": "Hajtson közvetlenül az amfiteátrum bejáratához; szakadó esőben javasolt a látogatást a monumentális boltívek és fedett részek megtekintésére korlátozni.",
+                "ro": "Conduceți direct la intrarea amfiteatrului; în caz de ploaie torențială, se recomandă limitarea vizitei la arcadele monumentale și zonele acoperite.",
+                "en": "Drive directly to the amphitheater entrance; in case of heavy rain, it is recommended to limit the visit to the monumental arches and covered areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Luni - Sezione epigrafica",
+                "hu": "Museo Archeologico Nazionale di Luni - Sezione epigrafica",
+                "ro": "Museo Archeologico Nazionale di Luni - Sezione epigrafica",
+                "en": "Museo Archeologico Nazionale di Luni - Sezione epigrafica"
+              },
+              "tip_5lang": {
+                "de": "Die epigrafische Sektion bietet viel Lesestoff im Trockenen; nutzen Sie die Zeit, um die antiken Inschriften in aller Ruhe und ohne Zeitdruck zu studieren.",
+                "hu": "Az epigráfiai szekció rengeteg olvasnivalót kínál szárazon; használja ki az időt az antik feliratok nyugodt, sietség nélküli tanulmányozására az esőben.",
+                "ro": "Secțiunea epigrafică oferă multe de citit la adăpost; folosiți timpul pentru a studia inscripțiile antice în liniște, fără grabă, în timp ce afară plouă.",
+                "en": "The epigraphic section offers plenty to read while staying dry; take your time to study the ancient inscriptions calmly and without haste while it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Luni - Architettura sacra",
+                "hu": "Museo Archeologico Nazionale di Luni - Architettura sacra",
+                "ro": "Museo Archeologico Nazionale di Luni - Architettura sacra",
+                "en": "Museo Archeologico Nazionale di Luni - Architettura sacra"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag in der sakralen Architekturabteilung, wo Sie vor dem Regen geschützt die beeindruckenden Rekonstruktionen antiker Tempel bewundern können.",
+                "hu": "Zárja a napot a szakrális építészeti részlegen, ahol az esőtől védve csodálhatja meg az antik templomok lenyűgöző rekonstrukcióit a fedett térben.",
+                "ro": "Încheiați ziua la secțiunea de arhitectură sacră, unde puteți admira reconstrucțiile impresionante ale templelor antice, fiind protejat de ploaie în interior.",
+                "en": "End the day at the sacred architecture section, where you can admire the impressive reconstructions of ancient temples while staying protected from the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Wagen geht es am Morgen zum Leuchtturm, wo die Wintersonne das Meer glitzern lässt. Mittags genießen Sie die Aussicht am Bagno Italia bequem aus dem Auto heraus. Der Nachmittag gehört den Ausstellungen in Luni, wo Sie die Kälte draußen lassen können. Da es ab 17:00 Uhr stark abkühlt, bietet die Fahrt zurück im warmen Auto den perfekten Abschluss.",
+            "hu": "A fűtött autóban indul a reggel a világítótoronyhoz, ahol a téli napfény megcsillan a tengeren. Délben a Bagno Italia kilátását kényelmesen, az autóból élvezhetjük a hideg ellenére. Délután a luni kiállításoké a főszerep, ahol magunk mögött hagyhatjuk a kinti fagyot. Mivel 17:00 után gyorsan hűl a levegő, a meleg autóban való hazatérés tökéletes zárás.",
+            "ro": "Dimineața pornește spre far în mașina încălzită, unde soarele de iarnă sclipește pe mare. La prânz, vă puteți bucura de vederea de la Bagno Italia confortabil din mașină, în ciuda frigului. După-amiaza aparține expozițiilor din Luni, unde puteți lăsa gerul afară. Deoarece se răcește rapid după ora 17:00, drumul de întoarcere în mașină este perfect.",
+            "en": "The morning starts with a drive to the lighthouse in a heated car, where the winter sun glitters on the sea. At noon, enjoy the view at Bagno Italia comfortably from the car despite the cold. The afternoon belongs to the Luni exhibitions, where you can leave the frost behind. Since it cools down quickly after 5:00 PM, the warm drive back is the perfect end."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Faro di Marina di Carrara",
+                "hu": "Faro di Marina di Carrara",
+                "ro": "Faro di Marina di Carrara",
+                "en": "Faro di Marina di Carrara"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Sichtachsen bis zu den Apuanischen Alpen; lassen Sie die Heizung im Auto laufen, während Sie den Ausblick genießen.",
+                "hu": "A tiszta téli levegő távoli kilátást tesz lehetővé egészen az Apuan-Alpokig; hagyja menni a fűtést az autóban, miközben a tengerparti kilátást élvezi.",
+                "ro": "Aerul curat de iarnă permite vederi îndepărtate până la Alpii Apuan; lăsați căldura pornită în mașină în timp ce vă bucurați de priveliștea de pe coastă.",
+                "en": "The clear winter air allows for distant views all the way to the Apuan Alps; keep the car heater running while you enjoy the coastal view from your seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Italia",
+                "hu": "Bagno Italia",
+                "ro": "Bagno Italia",
+                "en": "Bagno Italia"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer und friedlich; ein kurzer Spaziergang am Wasser belebt, bevor Sie sich im warmen Auto wieder aufwärmen können.",
+                "hu": "A tengerpart télen néptelen és békés; egy rövid séta a víznél felfrissíti a testet, mielőtt újra felmelegedne a fűtött autó kényelmes utasterében.",
+                "ro": "Plaja este pustie și liniștită iarna; o scurtă plimbare lângă apă vă va revigora înainte de a vă încălzi din nou în interiorul confortabil al mașinii.",
+                "en": "The beach is deserted and peaceful in winter; a short walk by the water refreshes the body before you warm up again in the comfortable car interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro romano di Luni",
+                "hu": "Anfiteatro romano di Luni",
+                "ro": "Anfiteatro romano di Luni",
+                "en": "Anfiteatro romano di Luni"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage wirkt in der tiefstehenden Sonne besonders monumental; nutzen Sie den Wagen, um zwischen den verschiedenen Ausgrabungsstellen schnell zu wechseln.",
+                "hu": "Az építmény az alacsonyan járó napfényben különösen monumentálisnak hat; használja az autót a különböző régészeti helyszínek közötti gyors és meleg váltáshoz.",
+                "ro": "Edificiul pare deosebit de monumental în lumina soarelui aflat la înălțime mică; folosiți mașina pentru a vă deplasa rapid și la căldură între siturile arheologice.",
+                "en": "The structure appears particularly monumental in the low sunlight; use the car to move quickly and warmly between the various archaeological sites on the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Luni - Sezione epigrafica",
+                "hu": "Museo Archeologico Nazionale di Luni - Sezione epigrafica",
+                "ro": "Museo Archeologico Nazionale di Luni - Sezione epigrafica",
+                "en": "Museo Archeologico Nazionale di Luni - Sezione epigrafica"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in der Epigrafik-Sektion, die im Winter kaum besucht wird und eine angenehme Temperatur für ausgiebige Studien bietet.",
+                "hu": "Élvezze a nyugalmat az epigráfiai szekcióban, amelyet télen alig látogatnak, és kellemes hőmérsékletet biztosít a feliratok alapos tanulmányozásához.",
+                "ro": "Bucurați-vă de liniște în secțiunea de epigrafie, care este puțin vizitată iarna și oferă o temperatură plăcută pentru studierea amănunțită a inscripțiilor.",
+                "en": "Enjoy the tranquility in the epigraphy section, which is rarely visited in winter and offers a pleasant temperature for thorough study of the inscriptions."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale di Luni - Architettura sacra",
+                "hu": "Museo Archeologico Nazionale di Luni - Architettura sacra",
+                "ro": "Museo Archeologico Nazionale di Luni - Architettura sacra",
+                "en": "Museo Archeologico Nazionale di Luni - Architettura sacra"
+              },
+              "tip_5lang": {
+                "de": "Die Architekturabteilung ist der perfekte Ort, um den Tag vor der einsetzenden Abendkälte geschützt in einer faszinierenden historischen Umgebung zu beenden.",
+                "hu": "Az építészeti részleg tökéletes helyszín a nap befejezéséhez, védve az esti lehűléstől egy lenyűgöző történelmi környezetben a fűtött múzeumi térben.",
+                "ro": "Secțiunea de arhitectură este locul perfect pentru a încheia ziua, fiind protejat de frigul serii într-un cadru istoric fascinant în interiorul muzeului.",
+                "en": "The architecture section is the perfect place to end the day, protected from the evening chill in a fascinating historical setting inside the museum."
+              }
+            }
+          ]
+        }
       }
     }
   }

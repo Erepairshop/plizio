@@ -137,6 +137,168 @@
         "hu": "A reggel a Treverbyn-templom csendes varázsával indul, mielőtt a történelmi Stenalees-tóhoz sétálna. Délben a Wheal Martyn agyagbányászatát ismerheti meg. Délután a Carclaze kőbánya drámai kilátásában gyönyörködhet. A nap a Bugle Band Hall kulturális helyszínén ér véget.",
         "ro": "Dimineața începe cu farmecul liniștit al Bisericii Treverbyn înainte de a merge la istoricul Iaz Stenalees. La prânz explorați moștenirea caolinului la Wheal Martyn. După-amiaza vă poartă pe lângă priveliștile carierei Carclaze, iar ziua se încheie cultural la Bugle Band Hall.",
         "en": "Morning begins with the quiet charm of Treverbyn Church before moving to the historic Stenalees Pond. Midday explores the china clay heritage at Wheal Martyn. Afternoon takes you past the dramatic views of Carclaze Quarry. The day winds down at the cultural Bugle Band Hall."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der Treverbyn Kirche, um dem Morgenregen zu entgehen. Der Weg zum Stenalees Teich ist bei Nässe etwas schlammig, aber die Nebelstimmung am Wasser ist faszinierend. Den Nachmittag verbringen Sie trocken im Wheal Martyn Museum, bevor Sie den Tag gemütlich in der Bugle Band Hall ausklingen lassen. Denken Sie an feste, wasserdichte Wanderschuhe für die Steinbruchwege.",
+            "hu": "Kezdje a napot a Treverbyn-templomban, amely menedéket nyújt a reggeli szemerkélés elől. A Stenalees-tóhoz vezető út esőben sáros lehet, de a ködös vízpart látványa különleges. A délutánt töltse szárazon a Wheal Martyn múzeumban, majd zárja a napot a Bugle Band Hall fedett falai között. Viseljen vízálló bakancsot a kőbánya környéki csúszós ösvényeken.",
+            "ro": "Începeți ziua la Biserica Treverbyn pentru a scăpa de ploaia de dimineață. Drumul spre iazul Stenalees poate fi noroios, dar atmosfera cețoasă de pe malul apei este fascinantă. Petreceți după-amiaza la adăpost în muzeul Wheal Martyn, iar seara relaxați-vă în Bugle Band Hall. Purtați încălțăminte impermeabilă pentru potecile alunecoase din jurul carierei.",
+            "en": "Start your day at Treverbyn Church to escape the morning drizzle. The path to Stenalees Pond can be muddy, but the misty lakeside atmosphere is fascinating. Spend the afternoon dry inside Wheal Martyn museum, then finish the day within the sheltered Bugle Band Hall. Wear waterproof boots for the slippery trails around the quarry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Treverbyn Kirche",
+                "hu": "Treverbyn-templom",
+                "ro": "Biserica Treverbyn",
+                "en": "Treverbyn Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das historische Kirchenportal als Unterstand, um die Regenpause abzuwarten, bevor Sie zum Teich weitergehen.",
+                "hu": "Használja a történelmi templomportikust menedékként, és várja meg a nagyobb zápor végét, mielőtt a tóhoz indulna.",
+                "ro": "Folosiți pridvorul istoric al bisericii ca adăpost pentru a aștepta oprirea ploii înainte de a pleca spre iaz.",
+                "en": "Use the historic church porch as a shelter to wait for a break in the rain before heading out towards the pond."
+              }
+            },
+            {
+              "name": {
+                "de": "Stenalees Teich",
+                "hu": "Stenalees-tó",
+                "ro": "Iazul Stenalees",
+                "en": "Stenalees Pond"
+              },
+              "tip_5lang": {
+                "de": "Der Uferweg ist bei Regen rutschig; halten Sie sich an die befestigten Abschnitte und genießen Sie die mystische Ruhe.",
+                "hu": "A tóparti ösvény esőben csúszós; maradjon a kövezett szakaszokon és élvezze a víz feletti misztikus ködöt.",
+                "ro": "Poteca de pe mal este alunecoasă pe ploaie; rămâneți pe secțiunile pavate și bucurați-vă de liniștea mistică a apei.",
+                "en": "The lakeside path is slippery in the rain; stick to the paved sections and enjoy the mystical mist over the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Wheal Martyn",
+                "hu": "Wheal Martyn",
+                "ro": "Wheal Martyn",
+                "en": "Wheal Martyn"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum bietet hervorragende überdachte Ausstellungen zur Bergbaugeschichte, ideal um einen kräftigen Schauer trocken zu überstehen.",
+                "hu": "Ez a múzeum kiváló fedett kiállításokat kínál a bányászatról, ideális hely egy nagyobb felhőszakadás átvészelésére.",
+                "ro": "Acest muzeu oferă expoziții interioare excelente despre minerit, fiind locul ideal pentru a scăpa de ploaia torențială.",
+                "en": "This museum offers excellent indoor mining exhibits, making it the perfect place to stay dry during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Carclaze Steinbruch",
+                "hu": "Carclaze kőbánya",
+                "ro": "Cariera Carclaze",
+                "en": "Carclaze Quarry"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den weißen Tonschlamm, der bei Regen sehr klebrig wird; bleiben Sie für einen sicheren Stand auf den Hauptwegen.",
+                "hu": "Vigyázzon a fehér kaolinos sárral, amely esőben nagyon tapad; a biztonságos haladás érdekében maradjon a főutakon.",
+                "ro": "Atenție la noroiul alb de caolin care devine foarte lipicios pe ploaie; rămâneți pe drumurile principale pentru siguranță.",
+                "en": "Watch out for the white clay mud which becomes very sticky in the rain; stay on the main paths for stable footing."
+              }
+            },
+            {
+              "name": {
+                "de": "Bugle Band Hall",
+                "hu": "Bugle Band Hall",
+                "ro": "Bugle Band Hall",
+                "en": "Bugle Band Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort im Trockenen, um lokale Kultur zu erleben; prüfen Sie vorab, ob heute eine Indoor-Probe stattfindet.",
+                "hu": "Tökéletes fedett helyszín a helyi kultúra megismeréséhez; érdemes előre érdeklődni, hogy van-e aznap benti próba.",
+                "ro": "Un loc acoperit perfect pentru a experimenta cultura locală; verificați din timp dacă există repetiții în interior.",
+                "en": "A perfect indoor spot to experience local culture; check in advance if there are any indoor rehearsals scheduled."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Winterluft in Treverbyn. Starten Sie an der Kirche und wandern Sie zum gefrorenen Stenalees Teich. Das Wheal Martyn Museum bietet im Anschluss eine willkommene Aufwärmpause. Da es bereits gegen 17:00 Uhr dunkel wird, sollten Sie den Steinbruch früh besuchen und den Tag bei einer Veranstaltung in der Band Hall beenden. Kleiden Sie sich in warmen Schichten.",
+            "hu": "Élvezze a friss téli levegőt Treverbynben. Kezdjen a templomnál, majd sétáljon a befagyott Stenalees-tóhoz. A Wheal Martyn múzeum kiváló lehetőség a felmelegedésre a tárlatok között. Mivel 17:00 körül sötétedik, a kőbányát érdemes korábban felkeresni, az estét pedig a Band Hall közösségi eseményén zárni. Öltözzön rétegesen.",
+            "ro": "Experimentați aerul proaspăt de iarnă în Treverbyn. Începeți la biserică și mergeți spre iazul Stenalees înghețat. Muzeul Wheal Martyn oferă o pauză caldă binevenită printre exponate. Deoarece se întunecă în jur de ora 17:00, vizitați cariera devreme și încheiați ziua la un eveniment în Band Hall. Îmbrăcați-vă în straturi groase.",
+            "en": "Experience the crisp winter air in Treverbyn. Start at the church and walk to the frozen Stenalees Pond. Wheal Martyn museum provides a welcome warming break among the exhibits. As it gets dark around 17:00, visit the quarry early and end your day at a community event in the Band Hall. Dress in warm, thermal layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Treverbyn Kirche",
+                "hu": "Treverbyn-templom",
+                "ro": "Biserica Treverbyn",
+                "en": "Treverbyn Church"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren ist es kühl, behalten Sie also Ihren Schal um, während Sie die winterliche Stille dieses spirituellen Ortes genießen.",
+                "hu": "A templombelső hűvös lehet, így tartsa magán a sálat, miközben a spirituális hely téli nyugalmát csodálja.",
+                "ro": "Interiorul poate fi răcoros, așa că păstrați fularul în timp ce admirați liniștea de iarnă a acestui lăcaș spiritual.",
+                "en": "The church interior can be chilly, so keep your scarf on while admiring the winter silence of this spiritual site."
+              }
+            },
+            {
+              "name": {
+                "de": "Stenalees Teich",
+                "hu": "Stenalees-tó",
+                "ro": "Iazul Stenalees",
+                "en": "Stenalees Pond"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen am Ufer; das tiefstehende Winterlicht sorgt hier für wunderschöne Fotomotive auf dem Wasser.",
+                "hu": "Vigyázzon a csúszós szakaszokkal a parton; az alacsonyan járó téli nap lenyűgöző fényeket vet a víz tükrére.",
+                "ro": "Atenție la porțiunile înghețate de pe mal; lumina joasă de iarnă creează reflexii superbe pe suprafața apei.",
+                "en": "Watch out for icy patches on the bank; the low winter sun creates stunning photographic reflections on the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Wheal Martyn",
+                "hu": "Wheal Martyn",
+                "ro": "Wheal Martyn",
+                "en": "Wheal Martyn"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Café vor Ort für ein heißes Getränk, um sich nach dem Rundgang durch die historischen Außenanlagen aufzuwärmen.",
+                "hu": "Látogasson el a helyi kávézóba egy forró italra, hogy felmelegedjen a szabadtéri történelmi gépek megtekintése után.",
+                "ro": "Vizitați cafeneaua locației pentru o băutură caldă ca să vă încălziți după explorarea utilajelor istorice exterioare.",
+                "en": "Visit the on-site café for a hot drink to warm up after exploring the outdoor historical mining machinery."
+              }
+            },
+            {
+              "name": {
+                "de": "Carclaze Steinbruch",
+                "hu": "Carclaze kőbánya",
+                "ro": "Cariera Carclaze",
+                "en": "Carclaze Quarry"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und hart sein; tragen Sie Schuhe mit gutem Profil, um auf den unebenen Pfaden nicht auszurutschen.",
+                "hu": "A talaj fagyott és kemény lehet; viseljen bordázott talpú cipőt, hogy ne csússzon meg az egyenetlen bányamenti ösvényeken.",
+                "ro": "Solul poate fi înghețat și tare; purtați încălțăminte cu aderență bună pentru a nu aluneca pe potecile denivelate.",
+                "en": "The ground may be frozen and hard; wear boots with good grip to avoid slipping on the uneven quarry paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Bugle Band Hall",
+                "hu": "Bugle Band Hall",
+                "ro": "Bugle Band Hall",
+                "en": "Bugle Band Hall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Atmosphäre im Inneren; es ist der ideale Abschluss, wenn draußen die winterliche Dunkelheit hereinbricht.",
+                "hu": "Élvezze a benti meleg és barátságos légkört; ez a legjobb lezárás, amikor kint korán leszáll a téli sötétség.",
+                "ro": "Bucurați-vă de atmosfera caldă din interior; este finalul ideal când afară se lasă întunericul timpuriu de iarnă.",
+                "en": "Enjoy the warm atmosphere inside; it is the ideal conclusion as the winter darkness falls early outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon el a Treverbyn-templomtól a friss reggeli levegőn, és álljon meg a Croft Farmon. Délben suhanjon el a Bugle Band Hall mellett a festői Clay Trails felé. Délután a hatalmas Eden Projecthez érkezik. Az estét a Carclaze kőbánya felett lenyugvó nap látványa zárja.",
         "ro": "Porniți cu bicicleta de la Biserica Treverbyn în aerul dimineții, oprind scurt la Croft Farm. La amiază pedalați pe lângă Bugle Band Hall spre pitoreștile Clay Trails. După-amiaza vă aduce la Proiectul Eden, iar seara se încheie cu un apus la Cariera Carclaze.",
         "en": "Cycle out from Treverbyn Church in the crisp morning air, stopping for a quick visit at Croft Farm. Midday speeds past Bugle Band Hall and hits the picturesque Clay Trails. Afternoon brings you to the grand Eden Project. Evening finishes with a sunset look at Carclaze Quarry."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Cornwall erfordert Vorsicht. Nach der Kirche bietet der Campingplatz nur begrenzten Schutz. Die Bugle Band Hall ist ein guter Zwischenstopp, bevor es auf die Clay Trails geht, die bei Regen rutschig sein können. Das Highlight ist das Eden Project, wo Sie in den Biomen völlig trocken bleiben. Beenden Sie die Tour vorsichtig am Steinbruch und prüfen Sie Ihre Bremsen.",
+            "hu": "Egy esős bringatúra Cornwallban óvatosságot igényel. A templom után a kemping kevés menedéket nyújt, de a Bugle Band Hall jó megálló a Clay Trails előtt, amely sárban csúszós lehet. A fő attrakció az Eden Project, ahol a dómok alatt teljesen szárazon maradhat. A túrát óvatosan zárja a kőbányánál, ellenőrizze a fékeket.",
+            "ro": "O tură cu bicicleta pe ploaie în Cornwall necesită prudență. După biserică, campingul oferă puțin adăpost, dar Bugle Band Hall este un popas bun înainte de Clay Trails, care pot fi alunecoase. Atractia principală este Eden Project, unde cupolele vă mențin uscat. Încheiați tura cu atenție la carieră și verificați frânele.",
+            "en": "A rainy bike ride through Cornwall requires caution. After the church, the campsite offers little shelter, but Bugle Band Hall is a good stop before the Clay Trails, which can be slippery. The main highlight is the Eden Project, where the biomes keep you completely dry. End your tour carefully at the quarry and check your brakes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Treverbyn Kirche",
+                "hu": "Treverbyn-templom",
+                "ro": "Biserica Treverbyn",
+                "en": "Treverbyn Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Regenbekleidung noch einmal festzuziehen, bevor Sie auf die feuchten Straßen starten.",
+                "hu": "Használja a fedett bejáratot az esővédő ruházat megigazítására, mielőtt nekivágna a vizes és csúszós utaknak.",
+                "ro": "Folosiți intrarea acoperită pentru a vă ajusta echipamentul de ploaie înainte de a porni pe drumurile umede.",
+                "en": "Use the sheltered entrance area to adjust your waterproof gear before setting off on the wet and slick roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Croft Farm Campingplatz",
+                "hu": "Croft Farm Kemping",
+                "ro": "Campingul Croft Farm",
+                "en": "Croft Farm Campsite"
+              },
+              "tip_5lang": {
+                "de": "Auf dem Campingplatz kann der Boden aufweichen; suchen Sie Schutz unter den Bäumen oder im Empfangsbereich für eine kurze Trinkpause.",
+                "hu": "A kemping területén felázhat a talaj; keressen menedéket a fák alatt vagy a recepción egy rövid frissítő szünetre.",
+                "ro": "Solul din camping poate fi moale; căutați adăpost sub copaci sau la recepție pentru o scurtă pauză de hidratare.",
+                "en": "The ground at the campsite can get soft; look for shelter under trees or near the reception for a quick hydration break."
+              }
+            },
+            {
+              "name": {
+                "de": "Bugle Band Hall",
+                "hu": "Bugle Band Hall",
+                "ro": "Bugle Band Hall",
+                "en": "Bugle Band Hall"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad nah an der Wand ab und nutzen Sie diesen kulturellen Halt für eine trockene Verschnaufpause fernab vom Wind.",
+                "hu": "Támassza a bringát a fal mellé, és használja ezt a kulturális megállót egy száraz pihenőre, távol a szélcsatornáktól.",
+                "ro": "Parcați bicicleta lângă perete și folosiți acest popas cultural pentru o pauză uscată, departe de rafalele de vânt.",
+                "en": "Park your bike close to the wall and use this cultural stop for a dry breather away from the wind and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Clay Trails",
+                "hu": "Clay Trails",
+                "ro": "Traseele Clay",
+                "en": "Clay Trails"
+              },
+              "tip_5lang": {
+                "de": "Die Oberfläche aus weißem Ton wird bei Nässe extrem rutschig; fahren Sie langsam und vermeiden Sie plötzliche Bremsmanöver in Kurven.",
+                "hu": "A fehér agyagos felszín nedvesen rendkívül csúszóssá válik; hajtson lassan és kerülje a hirtelen fékezést a kanyarokban.",
+                "ro": "Suprafața de argilă albă devine extrem de alunecoasă pe ploaie; pedalați încet și evitați frânările bruște în curbe.",
+                "en": "The white clay surface becomes extremely slippery when wet; ride slowly and avoid sudden braking in the corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Eden Project",
+                "hu": "Eden Project",
+                "ro": "Eden Project",
+                "en": "Eden Project"
+              },
+              "tip_5lang": {
+                "de": "Der ultimative Regen-Stopp: Schließen Sie Ihr Rad an und erkunden Sie stundenlang die tropischen Regenwald-Biome völlig im Trockenen.",
+                "hu": "A tökéletes esőnapos megálló: láncolja le a bringát, és fedezze fel a trópusi dómokat órákon át, teljesen szárazon.",
+                "ro": "Popasul suprem pe ploaie: securizați bicicleta și explorați biomele tropicale timp de ore întregi, fără să vă udați deloc.",
+                "en": "The ultimate rainy day stop: lock your bike and explore the tropical rainforest biomes for hours, completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Carclaze Steinbruch",
+                "hu": "Carclaze kőbánya",
+                "ro": "Cariera Carclaze",
+                "en": "Carclaze Quarry"
+              },
+              "tip_5lang": {
+                "de": "Reinigen Sie Ihre Bremsbeläge nach dieser Station vom Tonschlamm, um die Bremsleistung für den restlichen Rückweg zu erhalten.",
+                "hu": "A megálló után tisztítsa meg a fékbetéteket az agyagos sártól, hogy megőrizze a fékerőt a hazaút hátralévő részére.",
+                "ro": "Curățați saboții de frână de noroiul argilos după această oprire pentru a menține eficiența frânării pe drumul de întoarcere.",
+                "en": "Clean your brake pads from the clay mud after this stop to maintain braking performance for the rest of your ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Cornwall bietet klare Aussichten, aber kalte Winde. Starten Sie bei der Kirche und fahren Sie zügig, um warm zu bleiben. Die Clay Trails sind im Winter oft fest und gut befahrbar. Das Highlight ist das Eden Project, wo die Biome eine tropische Hitze bieten – ideal zum Aufwärmen. Da es um 17:00 Uhr dunkel wird, stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll aufgeladen ist.",
+            "hu": "A téli bringázás Cornwallban tiszta kilátást, de hideg szelet ígér. Kezdjen a templomnál, és tekerjen ütemesen, hogy melegen tartsa magát. A Clay Trails télen gyakran kemény és jól járható. Az Eden Project dómjai trópusi hőséget kínálnak, ami tökéletes a felmelegedéshez. Mivel 17:00-kor sötétedik, ellenőrizze, hogy a lámpák teljesen fel vannak-e töltve.",
+            "ro": "Ciclismul de iarnă în Cornwall oferă priveliști clare, dar vânturi reci. Începeți la biserică și pedalați susținut pentru a vă menține căldura. Clay Trails sunt adesea tari și bune de parcurs iarna. Cupolele Eden Project oferă o căldură tropicală ideală pentru încălzire. Deoarece se întunecă la ora 17:00, asigurați-vă că luminile sunt încărcate.",
+            "en": "Winter cycling in Cornwall offers clear views but cold winds. Start at the church and ride at a steady pace to keep warm. The Clay Trails are often firm and good to ride in winter. The Eden Project biomes offer tropical heat—perfect for warming up. As it gets dark by 17:00, ensure your bike lights are fully charged."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Treverbyn Kirche",
+                "hu": "Treverbyn-templom",
+                "ro": "Biserica Treverbyn",
+                "en": "Treverbyn Church"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein paar Aufwärmübungen neben dem Fahrrad, bevor Sie in den kühlen Fahrtwind des winterlichen Cornwalls starten.",
+                "hu": "Végezzen néhány bemelegítő gyakorlatot a bringa mellett, mielőtt belevágna a téli Cornwall hűvös menetszelébe.",
+                "ro": "Faceți câteva exerciții de încălzire lângă bicicletă înainte de a porni în vântul rece de iarnă din Cornwall.",
+                "en": "Do a few warm-up stretches next to your bike before heading out into the chilly winter wind of Cornwall."
+              }
+            },
+            {
+              "name": {
+                "de": "Croft Farm Campingplatz",
+                "hu": "Croft Farm Kemping",
+                "ro": "Campingul Croft Farm",
+                "en": "Croft Farm Campsite"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier sehr ruhig; nutzen Sie die offene Fläche für ein schnelles Foto der frostigen kornischen Landschaft.",
+                "hu": "Télen itt nagy a csend; használja ki a nyílt terepet egy gyors fotóra a dérlepte kornish tájról.",
+                "ro": "Iarna este foarte liniște aici; profitați de spațiul deschis pentru o fotografie rapidă a peisajului brumat din Cornwall.",
+                "en": "It is very quiet here in winter; use the open space for a quick photo of the frosty Cornish landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Bugle Band Hall",
+                "hu": "Bugle Band Hall",
+                "ro": "Bugle Band Hall",
+                "en": "Bugle Band Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Handschuhe kurz auszuziehen und die Hände zu lockern, bevor es auf die exponierten Trails weitergeht.",
+                "hu": "Jó hely a kesztyűk rövid levételére és a kezek átmozgatására, mielőtt a szélnek kitettebb utakra indulna tovább.",
+                "ro": "Un loc bun pentru a scoate mănușile scurt și a vă relaxa mâinile înainte de a continua pe traseele expuse.",
+                "en": "A good spot to briefly take off your gloves and loosen your hands before heading onto the exposed trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Clay Trails",
+                "hu": "Clay Trails",
+                "ro": "Traseele Clay",
+                "en": "Clay Trails"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen; das weiße Material kann Eisstellen tarnen, fahren Sie daher besonders vorausschauend.",
+                "hu": "Vigyázzon a befagyott tócsákkal; a fehér talaj elrejtheti a jeget, ezért tekerjen fokozott figyelemmel.",
+                "ro": "Atenție la bălțile înghețate; materialul alb poate masca gheața, deci pedalați cu o atenție sporită la drum.",
+                "en": "Watch out for frozen puddles; the white material can hide ice patches, so ride with extra anticipation."
+              }
+            },
+            {
+              "name": {
+                "de": "Eden Project",
+                "hu": "Eden Project",
+                "ro": "Eden Project",
+                "en": "Eden Project"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um Ihre Winterjacke abzugeben, damit Sie die tropische Wärme in den Biomen voll genießen können.",
+                "hu": "Használja a ruhatárat a téli kabát leadásához, hogy kényelmesen élvezhesse a trópusi meleget a dómok belsejében.",
+                "ro": "Folosiți garderoba pentru a lăsa geaca de iarnă, astfel încât să vă bucurați din plin de căldura tropicală din biome.",
+                "en": "Use the cloakroom to drop off your heavy winter jacket so you can comfortably enjoy the tropical warmth in the biomes."
+              }
+            },
+            {
+              "name": {
+                "de": "Carclaze Steinbruch",
+                "hu": "Carclaze kőbánya",
+                "ro": "Cariera Carclaze",
+                "en": "Carclaze Quarry"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie jetzt spätestens Ihr Licht an, da die tiefstehende Sonne im Steinbruch lange, dunkle Schatten wirft.",
+                "hu": "Legkésőbb most kapcsolja be a lámpákat, mivel az alacsony napállás a kőbányában hosszú, sötét árnyékokat vet.",
+                "ro": "Aprindeți luminile cel târziu acum, deoarece soarele jos proiectează umbre lungi și întunecate în carieră.",
+                "en": "Turn on your lights by now at the latest, as the low sun casts long, dark shadows across the quarry terrain."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Reggeli után vezessen el a drámai Roche Rockhoz, majd menjen a Luxulyan-völgy erdeibe. Délben az Eden Project biomjait csodálhatja meg. Délután a Wheal Martyn helytörténetébe merül, ezt követi a Stenalees-tó. Az este a Treverbyn-templom közelében ér véget.",
         "ro": "Conduceți spre stânca Roche imediat după micul dejun, apoi explorați pădurile din Valea Luxulyan. Prânzul este petrecut minunându-vă de biomezii Eden. După-amiaza se aprofundează istoria la Wheal Martyn și poposiți la Iazul Stenalees. Seara se termină lângă Biserica Treverbyn.",
         "en": "Drive up to the dramatic Roche Rock right after breakfast, then head over to the peaceful woodlands of Luxulyan Valley. Midday is spent marveling at the Eden Project's biomes. Afternoon delves into local history at Wheal Martyn, followed by a late stop at Stenalees Pond. Evening ends near Treverbyn Church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage in Cornwall lassen sich am besten mit dem Auto bewältigen. Starten Sie vorsichtig am Roche Rock, wo es windig sein kann. Das Luxulyan Valley bietet durch die Bäume etwas Schutz, aber das Eden Project und Wheal Martyn sind die perfekten Ziele für nasses Wetter. Genießen Sie die Aussicht auf den Stenalees Teich aus dem warmen Auto, bevor Sie den Tag an der Kirche beenden. Fahren Sie vorsichtig auf den schmalen Lanes.",
+            "hu": "Az esős kornish napokat legjobb autóval átvészelni. Kezdjen óvatosan a Roche Rocknál, ahol erős szélre számíthat. A Luxulyan-völgy fái adnak némi védelmet, de az Eden Project és a Wheal Martyn a tökéletes esőnapi célpontok. Csodálja meg a Stenalees-tavat a meleg autóból, majd zárja a napot a templomnál. Vezessen lassan a szűk dűlőutakon.",
+            "ro": "Zilele ploioase din Cornwall sunt cel mai bine parcurse cu mașina. Începeți cu prudență la Roche Rock, unde vântul poate fi puternic. Valea Luxulyan oferă protecție prin copaci, dar Eden Project și Wheal Martyn sunt destinațiile perfecte pe ploaie. Admirați iazul Stenalees din căldura mașinii înainte de a încheia la biserică. Conduceți încet pe drumurile înguste.",
+            "en": "Rainy Cornish days are best handled by car. Start cautiously at Roche Rock, where it can be very windy. Luxulyan Valley offers some tree cover, but the Eden Project and Wheal Martyn are the perfect wet-weather destinations. Admire the view of Stenalees Pond from the warmth of your car before ending at the church. Drive slowly on the narrow lanes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Roche Rock",
+                "hu": "Roche Rock",
+                "ro": "Roche Rock",
+                "en": "Roche Rock"
+              },
+              "tip_5lang": {
+                "de": "Die Stufen zum Felsen können bei Regen extrem rutschig sein; genießen Sie den dramatischen Anblick lieber sicher vom Parkplatz aus.",
+                "hu": "A sziklához vezető lépcsők esőben rendkívül csúszósak; élvezze a drámai látványt inkább biztonságosan, a parkolóból.",
+                "ro": "Treptele spre stâncă pot fi extrem de alunecoase pe ploaie; admirați vederea dramatică în siguranță, din parcare.",
+                "en": "The steps to the rock can be extremely slippery in the rain; enjoy the dramatic sight safely from the parking area instead."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxulyan Tal",
+                "hu": "Luxulyan-völgy",
+                "ro": "Valea Luxulyan",
+                "en": "Luxulyan Valley"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Zufahrtswege können bei starkem Regen überflutet sein; fahren Sie langsam durch eventuelle Wasseransammlungen auf der Straße.",
+                "hu": "A szűk bekötőutak heves esőzéskor víz alá kerülhetnek; vezessen lassan az úton kialakuló tócsákon keresztül.",
+                "ro": "Drumurile înguste de acces pot fi inundate la ploi abundente; conduceți încet prin acumulările de apă de pe carosabil.",
+                "en": "The narrow access roads can flood during heavy rain; drive slowly through any standing water on the road surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Eden Project",
+                "hu": "Eden Project",
+                "ro": "Eden Project",
+                "en": "Eden Project"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Park-and-Ride-System, um direkt zum Eingang zu gelangen und so den Fußmarsch im strömenden Regen zu vermeiden.",
+                "hu": "Használja a parkolóbuszt, hogy közvetlenül a bejárathoz jusson, így elkerülheti a gyaloglást a szakadó esőben.",
+                "ro": "Folosiți autobuzul din parcare pentru a ajunge direct la intrare și a evita mersul pe jos prin ploaia torențială.",
+                "en": "Use the park-and-ride bus to get directly to the entrance and avoid walking through the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wheal Martyn",
+                "hu": "Wheal Martyn",
+                "ro": "Wheal Martyn",
+                "en": "Wheal Martyn"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Besucherzentrum, um schnell ins Trockene zu kommen und die faszinierenden Indoor-Ausstellungen zu erkunden.",
+                "hu": "Parkoljon a látogatóközpont közelében, hogy gyorsan fedél alá kerüljön és felfedezze a lenyűgöző benti kiállításokat.",
+                "ro": "Parcați aproape de centrul de vizitare pentru a intra rapid la adăpost și a explora expozițiile interioare fascinante.",
+                "en": "Park close to the visitor centre to quickly get under cover and explore the fascinating indoor mining exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Stenalees Teich",
+                "hu": "Stenalees-tó",
+                "ro": "Iazul Stenalees",
+                "en": "Stenalees Pond"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die regenverhangene Wasseroberfläche zu fotografieren, bevor Sie die Fahrt im trockenen Wagen fortsetzen.",
+                "hu": "Egy rövid megálló is elég, hogy lefotózza az eső áztatta víztükröt, mielőtt folytatná útját a száraz autóban.",
+                "ro": "O scurtă oprire este suficientă pentru a fotografia suprafața apei sub ploaie, înainte de a continua drumul în mașină.",
+                "en": "A short stop is enough to photograph the rain-swept water surface before continuing your journey in the dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Treverbyn Kirche",
+                "hu": "Treverbyn-templom",
+                "ro": "Biserica Treverbyn",
+                "en": "Treverbyn Church"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem Aussteigen die Windrichtung, damit die Kirchentür Ihnen Schutz beim schnellen Hineinhuschen bietet.",
+                "hu": "Kiszállás előtt ellenőrizze a szélirányt, hogy a templomajtó védelmet nyújtson, miközben gyorsan beszalad az épületbe.",
+                "ro": "Verificați direcția vântului înainte de a coborî, astfel încât ușa bisericii să vă ofere protecție la intrarea rapidă.",
+                "en": "Check the wind direction before getting out, so the church door provides shelter as you quickly slip inside the building."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie das winterliche Treverbyn bequem mit dem Auto. Starten Sie am Roche Rock und genießen Sie die klare Fernsicht. Die Fahrt durch das Luxulyan Valley zeigt die kahle Schönheit der Natur. Das Eden Project bietet eine willkommene Aufwärmpause in den tropischen Biomen. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie Ihren Besuch am Stenalees Teich für das späte Licht und enden Sie an der Treverbyn Kirche. Achten Sie auf Bodenfrost.",
+            "hu": "Fedezze fel a téli Treverbyn környékét kényelmesen, autóval. Kezdjen a Roche Rocknál a tiszta, téli kilátásért. A Luxulyan-völgy ilyenkor mutatja meg a természet kopár szépségét. Az Eden Project dómjai tökéletes helyszínt biztosítanak a felmelegedéshez. Mivel 17:00 körül naplemente van, a Stenalees-tavat az utolsó fényeknél keresse fel, majd zárjon a templomnál. Vigyázzon a lefagyott utakra.",
+            "ro": "Descoperiți împrejurimile de iarnă ale Treverbyn-ului confortabil cu mașina. Începeți la Roche Rock pentru priveliști clare. Valea Luxulyan dezvăluie acum frumusețea austeră a naturii. Cupolele Eden Project oferă locul perfect pentru încălzire. Deoarece soarele apune în jur de ora 17:00, vizitați iazul Stenalees la ultima lumină și încheiați la biserică. Atenție la polei pe drum.",
+            "en": "Discover the winter surroundings of Treverbyn comfortably by car. Start at Roche Rock for clear, distant views. A drive through Luxulyan Valley shows the stark beauty of nature. The Eden Project biomes offer the perfect warming break. As the sun sets around 17:00, visit Stenalees Pond for the late golden light and end at Treverbyn Church. Watch out for black ice on the roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Roche Rock",
+                "hu": "Roche Rock",
+                "ro": "Roche Rock",
+                "en": "Roche Rock"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem exponierten Felsen kann im Winter beißend kalt sein; tragen Sie unbedingt eine winddichte Jacke für den Aufstieg.",
+                "hu": "A szél a nyílt sziklán télen metszően hideg lehet; mindenképpen viseljen szélálló dzsekit, ha felmászik a romhoz.",
+                "ro": "Vântul pe stânca expusă poate fi tăios iarna; purtați neapărat o jachetă rezistentă la vânt pentru urcare.",
+                "en": "The wind on the exposed rock can be biting cold in winter; be sure to wear a windproof jacket for the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxulyan Tal",
+                "hu": "Luxulyan-völgy",
+                "ro": "Valea Luxulyan",
+                "en": "Luxulyan Valley"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Wege im Tal können lange gefroren bleiben; fahren Sie besonders vorsichtig in den Kurven unter den Bäumen.",
+                "hu": "A völgy árnyékos útjai sokáig jegesek maradhatnak; vezessen különösen óvatosan a fák alatti kanyarokban.",
+                "ro": "Drumurile umbrite din vale pot rămâne înghețate mult timp; conduceți cu atenție sporită în curbele de sub copaci.",
+                "en": "The shaded roads in the valley can remain frozen for a long time; drive extra cautiously in the bends under the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Eden Project",
+                "hu": "Eden Project",
+                "ro": "Eden Project",
+                "en": "Eden Project"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie im Winter die Eislaufbahn im Eden Project für ein echtes saisonales Erlebnis, bevor Sie sich in den Biomen aufwärmen.",
+                "hu": "Télen látogasson el az Eden Project korcsolyapályájára egy igazi szezonális élményért, mielőtt felmelegedne a dómokban.",
+                "ro": "Iarna, vizitați patinoarul de la Eden Project pentru o experiență sezonieră autentică înainte de a vă încălzi în biome.",
+                "en": "In winter, visit the ice skating rink at the Eden Project for a true seasonal experience before warming up in the biomes."
+              }
+            },
+            {
+              "name": {
+                "de": "Wheal Martyn",
+                "hu": "Wheal Martyn",
+                "ro": "Wheal Martyn",
+                "en": "Wheal Martyn"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der kühlen Außenluft und dem gemütlichen, geheizten Museumsbereich mit seinen historischen Schätzen.",
+                "hu": "Élvezze a kontrasztot a hűvös kinti levegő és a múzeum barátságos, fűtött terei között, miközben a történelmi kincseket nézi.",
+                "ro": "Bucurați-vă de contrastul dintre aerul rece de afară și spațiile muzeului încălzite și primitoare, pline de comori istorice.",
+                "en": "Enjoy the contrast between the cool outdoor air and the cozy, heated museum areas while exploring the historical treasures."
+              }
+            },
+            {
+              "name": {
+                "de": "Stenalees Teich",
+                "hu": "Stenalees-tó",
+                "ro": "Iazul Stenalees",
+                "en": "Stenalees Pond"
+              },
+              "tip_5lang": {
+                "de": "Das Ufergras ist bei Frost oft weiß überzuckert; ein idealer Zeitpunkt für stimmungsvolle Winterfotos kurz vor Sonnenuntergang.",
+                "hu": "A tóparti fű télen gyakran deres; ez a tökéletes időpont a hangulatos téli fotókhoz, közvetlenül naplemente előtt.",
+                "ro": "Iarba de pe mal este adesea acoperită de brumă; este momentul ideal pentru fotografii de iarnă superbe, chiar înainte de apus.",
+                "en": "The lakeside grass is often covered in frost; it is the perfect time for atmospheric winter photos just before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Treverbyn Kirche",
+                "hu": "Treverbyn-templom",
+                "ro": "Biserica Treverbyn",
+                "en": "Treverbyn Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier, wenn das warme Licht der tiefstehenden Sonne die alten Mauern der Kirche zum Leuchten bringt.",
+                "hu": "Zárja itt a napot, amikor az alacsonyan járó nap meleg fénye megvilágítja és ragyogóvá teszi a templom ősi falait.",
+                "ro": "Încheiați ziua aici, când lumina caldă a soarelui la apus face ca zidurile vechi ale bisericii să strălucească.",
+                "en": "End your day here as the warm light of the low winter sun makes the ancient church walls glow beautifully."
+              }
+            }
+          ]
+        }
       }
     }
   }

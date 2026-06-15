@@ -137,6 +137,168 @@
         "hu": "A reggel Massamagrell nyüzsgő szívében indul, a központi templom és a színház felfedezésével. A dél tapasztalatot nyújt az egyedülálló regionális hagyományokról a bikaviadal-múzeumban. A délután egy kellemes sétát tartogat a városháza nagy terére. Az este csendes elmélkedéssel zárul az északi plébániatemplomnál.",
         "ro": "Dimineața începe în inima plină de viață a Massamagrellului, explorând biserica centrală și teatrul local. Amiaza oferă o incursiune în tradițiile regionale la muzeul coridelor. După-amiaza aduce o plimbare plăcută până la marea piață a primăriei. Seara se încheie cu o reflecție liniștită la biserica parohială din nordul orașului.",
         "en": "Your morning starts in the bustling heart of Massamagrell, exploring the central church and passing by the theater. Midday offers a deep dive into unique regional traditions at the bullfighting museum. Afternoon brings a pleasant stroll up to the grand town hall square. The evening concludes with quiet reflection at the northern parish church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit dem sanften Klopfen des Regens an den Fenstern der Hauptkirche. Mittags bieten das Theater und das Stierkampfmuseum ideale überdachte Rückzugsorte, um trocken zu bleiben und Kultur zu genießen. Am Nachmittag führt der Weg unter Regenschirmen zum Rathaus und zur Sant Josep Kirche. Der Abend klingt bei spiegelnden Lichtern auf dem nassen Pflaster ruhig aus.",
+            "hu": "A nap az eső kopogása mellett kezdődik a főtemplomban, ami tökéletes menedéket nyújt a reggeli zápor elől. Délben a színház és a múzeum fedett terei biztosítanak száraz programot a kulturális élményhez. Délután esernyők alatt sétálunk tovább az önkormányzat és a Sant Josep plébánia felé. Estére a vizes aszfalton megcsillanó városi fények teremtenek különleges, borongós hangulatot.",
+            "ro": "Ziua începe cu sunetul ploii lovind ferestrele bisericii principale, oferind un adăpost liniștit. La prânz, teatrul și muzeul coridelor sunt refugiile ideale pentru a rămâne uscat și a savura cultura locală. După-amiaza, traseul continuă sub umbrele spre primărie și parohia Sant Josep. Seara se încheie melancolic, cu luminile orașului reflectându-se în bălțile de pe trotuar.",
+            "en": "The day begins with the gentle rhythm of rain against the church windows, providing a peaceful shelter. By noon, the theater and bullfighting museum offer perfect indoor retreats to stay dry while enjoying local culture. In the afternoon, the walk continues under umbrellas towards the town hall and Sant Josep parish. The evening concludes with city lights reflecting beautifully on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església de Sant Joan Apòstol i Evangelista",
+                "hu": "Església de Sant Joan Apòstol i Evangelista",
+                "ro": "Església de Sant Joan Apòstol i Evangelista",
+                "en": "Església de Sant Joan Apòstol i Evangelista"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prachtvolle Innenausstattung, während Sie im Trockenen verweilen, aber achten Sie auf den Eingangsbereich, da die Stufen bei Regen sehr rutschig sein können.",
+                "hu": "Csodálja meg a belső teret, miközben az épület falai megóvják az esőtől, de legyen óvatos a bejáratnál, mert a nedves kőlépcsők rendkívül csúszóssá válhatnak a záporok idején.",
+                "ro": "Admirați interiorul somptuos în timp ce sunteți protejat de ploaie, dar aveți grijă la intrare, deoarece treptele de piatră pot deveni foarte alunecoase când sunt umede.",
+                "en": "Admire the magnificent interior while staying dry inside the historic walls, but be careful at the entrance as the stone steps can become very slippery during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre de Massamagrell",
+                "hu": "Teatre de Massamagrell",
+                "ro": "Teatre de Massamagrell",
+                "en": "Teatre de Massamagrell"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt im Theater für eine kulturelle Pause im Trockenen und prüfen Sie das Programm für kurzfristige Vorführungen, die Schutz vor dem Wetter bieten.",
+                "hu": "Használja ki a színházi látogatást egy száraz kulturális szünetre, és nézze meg az aktuális műsort, amely kiváló menedéket nyújt a kinti barátságtalan, esős időjárás elől.",
+                "ro": "Profită de vizita la teatru pentru o pauză culturală la adăpost și verifică programul pentru spectacole care oferă un refugiu excelent împotriva vremii ploioase de afară.",
+                "en": "Take advantage of the theater visit for a dry cultural break and check the current schedule for performances that offer an excellent refuge from the rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de castas y encastes del toro de lidia",
+                "hu": "Museo de castas y encastes del toro de lidia",
+                "ro": "Museo de castas y encastes del toro de lidia",
+                "en": "Museo de castas y encastes del toro de lidia"
+              },
+              "tip_5lang": {
+                "de": "Dieser weitläufige Innenbereich ist der perfekte Ort, um einen starken Regenschauer abzuwarten, während man die faszinierenden Ausstellungsstücke der lokalen Tradition erkundet.",
+                "hu": "Ez a tágas fedett múzeum tökéletes helyszín egy nagyobb zápor átvészelésére, miközben elmélyed a helyi tradíciókat bemutató izgalmas és részletes kiállítási darabok között.",
+                "ro": "Acest muzeu interior spațios este locul perfect pentru a aștepta trecerea unei ploi torențiale, explorând în același timp exponatele fascinante ale tradiției locale.",
+                "en": "This spacious indoor museum is the perfect place to wait out a heavy downpour while exploring the fascinating exhibits of local tradition in a dry and warm environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament",
+                "hu": "Ajuntament",
+                "ro": "Ajuntament",
+                "en": "Ajuntament"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Architektur des Rathauses vom überdachten Portal aus und halten Sie Ihren Regenschirm bereit für den kurzen Fußweg zur nächsten nahegelegenen Station.",
+                "hu": "Csodálja meg a városháza homlokzatát a közeli fedett árkádok alól, és tartsa készenlétben esernyőjét a következő állomásig tartó rövid, de vizes utcai sétához a belvárosban.",
+                "ro": "Admirați arhitectura primăriei de sub portalul acoperit și țineți umbrela pregătită pentru scurta plimbare pe străzile umede spre următoarea oprire din itinerar.",
+                "en": "Admire the architecture of the town hall from the covered portal and keep your umbrella ready for the short walk through the wet streets to the next nearby stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Parròquia de Sant Josep",
+                "hu": "Parròquia de Sant Josep",
+                "ro": "Parròquia de Sant Josep",
+                "en": "Parròquia de Sant Josep"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang in der friedlichen Stille dieser Kirche, wo Sie sich aufwärmen und trocknen können, bevor Sie den Heimweg durch die regnerische Stadt antreten.",
+                "hu": "Fejezze be a sétát e templom békés csendjében, ahol megpihenhet és megszárítkozhat, mielőtt elindulna hazafelé a vizes aszfalton megcsillanó esti fények között a városban.",
+                "ro": "Încheie turul în liniștea acestei biserici, unde te poți încălzi și usca înainte de a porni spre casă prin orașul ploios și luminile serii reflectate pe străzi.",
+                "en": "Finish your tour in the peaceful silence of this church, where you can warm up and dry off before heading home through the rainy city and the evening lights."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft am Morgen belebt den Weg zur ersten Kirche. Mittags bietet das Museum eine willkommene Wärme gegen den kalten Wind. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir die Nachmittagsstopps kompakt ein. Der Abend endet bei stimmungsvoller Beleuchtung in der Nähe der Sant Josep Kirche, während die Kälte des Winters spürbar wird.",
+            "hu": "A friss téli reggeli levegő élénkítően hat az első templom felé vezető úton. Délben a múzeum nyújt meleg menedéket a hideg szél elől. Mivel a nap már 17:00 körül lemegy, a délutáni látogatásokat érdemes időben elkezdeni. Az este a Sant Josep plébánia környékén ér minket, ahol a városi fények már a korai sötétségben ragyognak fel.",
+            "ro": "Aerul proaspăt de iarnă revigorează plimbarea de dimineață spre prima biserică. La prânz, muzeul oferă o căldură binevenită împotriva vântului rece. Deoarece soarele apune deja în jurul orei 17:00, planificăm opririle de după-amiază mai devreme. Seara se încheie în lumina caldă a felinarelor de lângă parohia Sant Josep, sub cerul clar de iarnă.",
+            "en": "The crisp winter air invigorates the morning walk to the first church. At noon, the museum provides a welcome warmth against the cold wind. Since the sun sets around 17:00, afternoon visits are timed carefully. The evening ends amidst the atmospheric street lighting near Sant Josep parish as the winter chill begins to set in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església de Sant Joan Apòstol i Evangelista",
+                "hu": "Església de Sant Joan Apòstol i Evangelista",
+                "ro": "Església de Sant Joan Apòstol i Evangelista",
+                "en": "Església de Sant Joan Apòstol i Evangelista"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinmauern speichern die Kälte, tragen Sie daher auch im Inneren eine warme Schicht, während Sie die ruhige spirituelle Atmosphäre am Wintermorgen genießen.",
+                "hu": "A vaskos kőfalak télen tartják a hideget, ezért érdemes rétegesen öltözni a benti látogatáshoz is, miközben élvezi a templom csendes, spirituális hangulatát a reggeli órákban.",
+                "ro": "Zidurile masive de piatră păstrează frigul iarna, așa că purtați haine groase chiar și în interior în timp ce vă bucurați de atmosfera spirituală liniștită a dimineții.",
+                "en": "The massive stone walls keep the cold in winter, so wear a warm layer even inside while enjoying the quiet, spiritual atmosphere of the church during the winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre de Massamagrell",
+                "hu": "Teatre de Massamagrell",
+                "ro": "Teatre de Massamagrell",
+                "en": "Teatre de Massamagrell"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Foyer des Theaters ist ein idealer Ort, um sich kurz aufzuwärmen, bevor man den Spaziergang durch die kühlen Straßen des historischen Viertels fortsetzt.",
+                "hu": "A színház fűtött előcsarnoka ideális hely egy rövid felmelegedésre, mielőtt folytatná a sétát a történelmi negyed hűvös, de napsütéses utcáin a téli délután folyamán.",
+                "ro": "Foaierul încălzit al teatrului este un loc ideal pentru a vă încălzi puțin înainte de a continua plimbarea prin străzile răcoroase ale cartierului istoric în timpul iernii.",
+                "en": "The heated foyer of the theater is an ideal place to warm up briefly before continuing your walk through the cool streets of the historic district during the winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de castas y encastes del toro de lidia",
+                "hu": "Museo de castas y encastes del toro de lidia",
+                "ro": "Museo de castas y encastes del toro de lidia",
+                "en": "Museo de castas y encastes del toro de lidia"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die kälteste Zeit des Mittags, da die Ausstellungsräume gut temperiert sind und einen tiefen Einblick in die spanische Kultur ohne Frieren ermöglichen.",
+                "hu": "Töltse itt a délidő leghidegebb óráit, mivel a kiállítótermek kellemesen temperáltak, így fázás nélkül mélyedhet el a spanyol bikaviadal-kultúra érdekes részleteiben.",
+                "ro": "Petreceți aici cele mai reci ore ale amiezii, deoarece sălile de expoziție sunt bine încălzite, permițând o incursiune în cultura spaniolă fără a simți frigul de afară.",
+                "en": "Spend the coldest hours of midday here, as the exhibition rooms are well-tempered, allowing for a deep dive into Spanish culture without feeling the winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament",
+                "hu": "Ajuntament",
+                "ro": "Ajuntament",
+                "en": "Ajuntament"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Rathaus am frühen Nachmittag, um die winterliche Fassade im letzten direkten Sonnenlicht zu fotografieren, bevor die Schatten der Gebäude länger werden.",
+                "hu": "Látogasson el a városházához kora délután, hogy lefényképezhesse a téli homlokzatot az utolsó közvetlen napsütésben, mielőtt az épületek árnyékai hosszúra nyúlnának a téren.",
+                "ro": "Vizitați primăria la începutul după-amiezii pentru a fotografia fațada iernatică în ultima lumină directă a soarelui, înainte ca umbrele clădirilor să devină lungi.",
+                "en": "Visit the town hall in the early afternoon to photograph the winter facade in the last direct sunlight before the shadows of the buildings grow long across the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Parròquia de Sant Josep",
+                "hu": "Parròquia de Sant Josep",
+                "ro": "Parròquia de Sant Josep",
+                "en": "Parròquia de Sant Josep"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um das Innere noch bei Tageslicht zu sehen, und genießen Sie danach den beleuchteten Vorplatz, wenn die winterliche Dunkelheit schnell einsetzt.",
+                "hu": "Érkezzen meg 17:00 előtt, hogy még természetes fénynél láthassa a belső teret, majd élvezze a kivilágított előteret, amikor a téli sötétség hirtelen leszáll a városra.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a vedea interiorul la lumina zilei, apoi bucurați-vă de piața iluminată când întunericul de iarnă se lasă rapid peste oraș.",
+                "en": "Arrive before 17:00 to see the interior in daylight, then enjoy the illuminated plaza when the winter darkness sets in quickly over the surrounding city streets."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpártúrát a város déli részén a történelmi vallási helyszínekkel és régi mezőgazdasági épületekkel. Délben tekerjen be a központba, hogy megcsodálja a nagytemplomot. Délután guruljon tovább északra, hogy a városi fürdőben pihenjen. Az esti túra békésen ér véget a Sant Antoni Abat templomnál.",
         "ro": "Începeți turul cu bicicleta în partea de sud a orașului cu situri religioase istorice și vechi structuri agricole. La amiază, veți pedala spre centru pentru a admira marea biserică. După-amiaza, alunecați mai spre nord pentru relaxare la spa-ul municipal. Cursa de seară se încheie pașnic la Biserica Sant Antoni Abat.",
         "en": "Kick off your cycling tour in the southern part of town with historic religious sites and the old agricultural structures. By midday, you'll pedal to the town center to admire the grand church and city hall. In the afternoon, glide further north for relaxation at the municipal spa. The evening ride ends peacefully at the Church of Sant Antoni Abat."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour durch das regnerische Massamagrell erfordert Vorsicht auf den rutschigen Wegen. Nach dem Start bei Sant Llorenç nutzen wir die kurzen Wege zwischen den Kirchen. Ein Highlight ist das städtische Spa am Nachmittag, das eine perfekte warme Pause bietet. Die Tour endet bei Sant Antoni Abat, während sich die Lichter der Stadt in den Pfützen spiegeln.",
+            "hu": "A kerékpártúra az esős Massamagrellben fokozott figyelmet igényel a csúszós utak miatt. A Sant Llorenç-től indulva gyorsan haladunk a megállók között. A délutáni városi spa a túra fénypontja, amely meleg és száraz pihenőt kínál az eső elől. A nap a Sant Antoni Abat templomnál zárul, miközben a város fényei megcsillannak a pocsolyákban.",
+            "ro": "Turul cu bicicleta prin Massamagrell pe ploaie necesită atenție sporită pe pistele alunecoase. Pornind de la Sant Llorenç, folosim distanțele scurte între opriri. Centrul spa municipal de după-amiază este punctul culminant, oferind o pauză caldă și uscată. Turul se încheie la Sant Antoni Abat, cu luminile orașului reflectate în bălți sub ploaia continuă.",
+            "en": "Cycling through rainy Massamagrell requires extra focus on the slippery paths. Starting at Sant Llorenç, we move efficiently between stops. The municipal spa in the afternoon is the highlight, offering a warm and dry break from the drizzle. The tour concludes at Sant Antoni Abat, with city lights reflecting in the puddles as the rain continues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església Sant Llorenç Màrtir",
+                "hu": "Església Sant Llorenç Màrtir",
+                "ro": "Església Sant Llorenç Màrtir",
+                "en": "Església Sant Llorenç Màrtir"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem geschützten Ort ab und nutzen Sie die Kirche als trockenen Startpunkt, um Ihre Regenbekleidung für die bevorstehende Fahrt zu richten.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és használja a templomot száraz kiindulópontként, ahol kényelmesen megigazíthatja esőfelszerelését az indulás előtt.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți biserica ca punct de plecare uscat, unde vă puteți ajusta echipamentul de ploaie înainte de a porni la drum.",
+                "en": "Park your bike in a sheltered spot and use the church as a dry starting point where you can adjust your rain gear comfortably before heading out on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Cebera",
+                "hu": "Cebera",
+                "ro": "Cebera",
+                "en": "Cebera"
+              },
+              "tip_5lang": {
+                "de": "Da dieser Ort im Freien liegt, sollten Sie nur einen kurzen Stopp einlegen und auf den unbefestigten Wegen achten, die bei Regen schnell schlammig und rutschig werden.",
+                "hu": "Mivel ez egy szabadtéri helyszín, csak rövid megállót tervezzen, és ügyeljen a burkolatlan utakra, amelyek esőben hamar sárossá és csúszóssá válhatnak a bicikliseknek.",
+                "ro": "Deoarece acesta este un loc în aer liber, planificați doar o scurtă oprire și aveți grijă la drumurile neasfaltate care pot deveni rapid noroioase și alunecoase pe ploaie.",
+                "en": "Since this is an outdoor location, plan only a short stop and be careful of unpaved paths that can quickly become muddy and slippery for cyclists during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Joan Apòstol i Evangelista",
+                "hu": "Església de Sant Joan Apòstol i Evangelista",
+                "ro": "Església de Sant Joan Apòstol i Evangelista",
+                "en": "Església de Sant Joan Apòstol i Evangelista"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich der Kirche, um Ihr Fahrrad kurz abzustellen, während Sie das trockene Innere dieses historischen Bauwerks besichtigen.",
+                "hu": "Használja ki a templom fedett bejárati részét a kerékpár rövid leállításához, amíg Ön a történelmi épület száraz belső terét és művészeti kincseit tanulmányozza.",
+                "ro": "Folosiți zona de intrare acoperită a bisericii pentru a lăsa bicicleta scurt timp, în timp ce vizitați interiorul uscat al acestui edificiu istoric și comorile sale.",
+                "en": "Use the covered entrance area of the church to briefly park your bike while you explore the dry interior of this historic building and its artistic treasures."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament",
+                "hu": "Ajuntament",
+                "ro": "Ajuntament",
+                "en": "Ajuntament"
+              },
+              "tip_5lang": {
+                "de": "Die gepflasterten Straßen rund um das Rathaus können bei Nässe tückisch sein; fahren Sie langsam und nutzen Sie die Gebäudeüberstände als kurzen Schutz vor dem Regen.",
+                "hu": "A városháza körüli kövezett utcák trükkösek lehetnek vizesen; hajtson lassan, és használja az épületek kiugróit rövid menedékként az eleredő eső ellen a túra alatt.",
+                "ro": "Străzile pavate din jurul primăriei pot fi înșelătoare când sunt ude; mergeți încet și folosiți proiecțiile clădirilor ca scurt adăpost împotriva ploii în timpul turului.",
+                "en": "The paved streets around the town hall can be tricky when wet; ride slowly and use the building overhangs as brief shelter against the rain during your cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Spa municipal",
+                "hu": "Spa municipal",
+                "ro": "Spa municipal",
+                "en": "Spa municipal"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort bei Regen: Lassen Sie das nasse Wetter draußen und genießen Sie die warme Feuchtigkeit des Spas, um Ihre Muskeln für die Weiterfahrt zu lockern.",
+                "hu": "Ez az ideális helyszín esőben: hagyja kint a borongós időt, és élvezze a spa meleg vizét, ami segít ellazítani az izmait a túra folytatása előtt a nedves időben.",
+                "ro": "Acesta este locul ideal pe ploaie: lăsați vremea mohorâtă afară și bucurați-vă de apa caldă a centrului spa, care vă va relaxa mușchii înainte de a continua drumul.",
+                "en": "This is the ideal location in the rain: leave the gloomy weather outside and enjoy the warm waters of the spa to relax your muscles before continuing the wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Antoni Abat",
+                "hu": "Església de Sant Antoni Abat",
+                "ro": "Església de Sant Antoni Abat",
+                "en": "Església de Sant Antoni Abat"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour sicher und prüfen Sie Ihre Bremsen nach der Fahrt im Regen, während Sie die ruhige Atmosphäre dieser abschließenden religiösen Stätte genießen.",
+                "hu": "Fejezze be biztonságosan a túrát, és ellenőrizze a fékeit az esőben való biciklizés után, miközben élvezi az utolsó egyházi helyszín csendes és megnyugtató hangulatát.",
+                "ro": "Încheie turul în siguranță și verifică frânele după mersul prin ploaie, în timp ce te bucuri de atmosfera liniștită a acestui ultim obiectiv religios din itinerar.",
+                "en": "Finish your tour safely and check your brakes after riding in the rain, while enjoying the quiet and calming atmosphere of this final religious site on the route."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag ist ideal für eine Radtour, sofern man gegen den kalten Wind geschützt ist. Von Sant Llorenç aus führt die Route durch das historische Herz der Stadt. Das städtische Spa am Nachmittag ist ein Muss, um die Kälte aus den Knochen zu vertreiben. Die Tour endet bei Sonnenuntergang gegen 17:00 Uhr, wenn die winterliche Dämmerung Massamagrell in ein goldenes Licht taucht.",
+            "hu": "A tiszta téli nap ideális egy kerékpártúrához, feltéve, ha védekezünk a hideg menzellszél ellen. Sant Llorenç-től indulva a történelmi belvároson át vezet az utunk. A délutáni spa látogatása kötelező program, hogy kiűzzük a hideget a tagjainkból. A túra 17:00 körül, naplementekor ér véget, amikor a téli alkony aranyló fénybe vonja a várost.",
+            "ro": "O zi senină de iarnă este ideală pentru un tur cu bicicleta, cu condiția să fim protejați de vântul rece. De la Sant Llorenç, ruta trece prin inima istorică a orașului. Vizita la spa-ul municipal de după-amiază este esențială pentru a alunga frigul. Turul se încheie la apus, în jurul orei 17:00, când amurgul de iarnă scaldă orașul într-o lumină aurie.",
+            "en": "A clear winter day is ideal for a bike tour, provided you are protected against the cold wind. Starting from Sant Llorenç, the route passes through the historic heart of the town. The municipal spa visit in the afternoon is a must to chase away the chill. The tour ends at sunset around 17:00, as the winter twilight bathes Massamagrell in golden light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església Sant Llorenç Màrtir",
+                "hu": "Església Sant Llorenç Màrtir",
+                "ro": "Església Sant Llorenç Màrtir",
+                "en": "Església Sant Llorenç Màrtir"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie zügig, um Ihren Körper auf Betriebstemperatur zu bringen, und nutzen Sie den Windschatten der Kirchenmauern für eine erste kurze Orientierungspause.",
+                "hu": "Kezdje a túrát tempósan, hogy üzemi hőmérsékletre hozza a testét, és használja ki a templomfalak szélárnyékát az első rövid tájékozódási szünethez a hidegben.",
+                "ro": "Începeți turul într-un ritm susținut pentru a vă încălzi corpul și folosiți adăpostul oferit de zidurile bisericii pentru o primă scurtă pauză de orientare în frig.",
+                "en": "Start the tour at a brisk pace to bring your body up to temperature and use the windbreak provided by the church walls for a first short orientation break in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Cebera",
+                "hu": "Cebera",
+                "ro": "Cebera",
+                "en": "Cebera"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Stopp an diesem exponierten Ort kurz, da der Winterwind hier ungehindert weht, und genießen Sie den weiten Blick über die flache Landschaft von Valencia.",
+                "hu": "Tartsa rövidre a megállót ezen a nyitott helyszínen, mivel a téli szél itt akadálytalanul fúj, de élvezze a széles kilátást a sík valenciai tájra a kerékpárról.",
+                "ro": "Păstrați oprirea scurtă în acest loc expus, deoarece vântul de iarnă suflă nestingherit aici, dar bucurați-vă de vederea panoramică asupra peisajului valencian plat.",
+                "en": "Keep the stop short at this exposed location as the winter wind blows unimpeded here, but enjoy the wide view over the flat Valencian landscape from your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Joan Apòstol i Evangelista",
+                "hu": "Església de Sant Joan Apòstol i Evangelista",
+                "ro": "Església de Sant Joan Apòstol i Evangelista",
+                "en": "Església de Sant Joan Apòstol i Evangelista"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht im Winter tief und kann blenden; tragen Sie eine Sonnenbrille für die Fahrt zur Kirche, wo Sie sich im Inneren kurz von der kühlen Brise erholen können.",
+                "hu": "A nap télen alacsonyan jár és vakíthat; viseljen napszemüveget a templom felé vezető úton, ahol bent a falak között rövid időre megpihenhet a hűvös széltől.",
+                "ro": "Soarele este jos iarna și poate fi orbitor; purtați ochelari de soare pentru drumul spre biserică, unde vă puteți odihni scurt timp de vântul rece în interior.",
+                "en": "The sun is low in winter and can be blinding; wear sunglasses for the ride to the church, where you can rest briefly from the cool breeze inside the historic walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament",
+                "hu": "Ajuntament",
+                "ro": "Ajuntament",
+                "en": "Ajuntament"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne auf dem Rathausplatz für ein paar wärmende Momente, bevor Sie zur nächsten Station aufbrechen, während das Licht ideal zum Fotografieren ist.",
+                "hu": "Használja ki a déli napsütést a városháza előtti téren néhány melengető pillanatra, mielőtt továbbindulna, miközben a fények ideálisak a fotózáshoz a téli napon.",
+                "ro": "Profitați de soarele de la prânz în piața primăriei pentru câteva momente de căldură înainte de a pleca mai departe, în timp ce lumina este ideală pentru fotografii.",
+                "en": "Take advantage of the midday sun in the town hall square for a few warming moments before moving on, while the light is ideal for photography on a winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Spa municipal",
+                "hu": "Spa municipal",
+                "ro": "Spa municipal",
+                "en": "Spa municipal"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Winterstopp: Die Wärme des Wassers entspannt die durch die Kälte verspannte Muskulatur und bereitet Sie optimal auf das letzte Stück der Tour vor.",
+                "hu": "Ez a tökéletes téli megálló: a víz melege ellazítja a hidegben megfeszült izmokat, és optimálisan felkészíti Önt a kerékpártúra utolsó szakaszára a városban.",
+                "ro": "Aceasta este oprirea perfectă de iarnă: căldura apei relaxează mușchii tensionați de frig și vă pregătește optim pentru ultima etapă a turului cu bicicleta.",
+                "en": "This is the perfect winter stop: the warmth of the water relaxes muscles tightened by the cold and prepares you optimally for the final leg of the bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Antoni Abat",
+                "hu": "Església de Sant Antoni Abat",
+                "ro": "Església de Sant Antoni Abat",
+                "en": "Església de Sant Antoni Abat"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, bevor es dunkel wird; gegen 17:00 Uhr sinken die Temperaturen schnell, was die Rückfahrt im winterlichen Massamagrell ungemütlich machen kann.",
+                "hu": "Fejezze be a túrát, mielőtt besötétedik; 17:00 után a hőmérséklet gyorsan csökken, ami kényelmetlenné teheti a visszautat a téli Massamagrell utcáin a kerékpárral.",
+                "ro": "Încheie turul înainte de lăsarea întunericului; după ora 17:00 temperaturile scad rapid, ceea ce poate face drumul de întoarcere neplăcut prin Massamagrell iarna.",
+                "en": "Finish the tour before dark; after 17:00 the temperatures drop quickly, which can make the ride back uncomfortable through the winter streets of Massamagrell."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A festői autózás a keleti peremen lévő ősi romokkal kezdődik, majd délre, történelmi szentélyek felé kanyarodik. A dél a kulturális magon keresztül vezet a múzeumhoz és a színházhoz. Ahogy halad a délután, a központi és északi plébániák felé navigál. Az utazás egy könnyű vezetéssel zárul a nyugodt északi külvárosban.",
         "ro": "Plimbarea cu mașina începe cu ruine antice la marginea estică, apoi coboară spre sud către sanctuare istorice. Amiaza vă poartă prin nucleul cultural, cu opriri la muzeu și teatrul local. Pe măsură ce după-amiaza progresează, veți naviga spre parohiile centrale și nordice. Călătoria se termină cu un drum ușor spre periferia liniștită de nord.",
         "en": "Your scenic drive begins with ancient ruins on the eastern edge before looping south to historic sanctuaries. Midday takes you through the cultural core, stopping by the unique museum and local theater. As the afternoon progresses, you'll navigate towards the central and northern parishes. The trip finishes with an easy drive to the tranquil northern outskirts."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Massamagrell auch bei Regen komfortabel zu erkunden. Wir starten bei den Ruinen von Alqueria de Lleó, wo man bei Schauern schnell ins Auto zurückkehren kann. Das Museum und das Theater bieten mittags ausgedehnte Indoor-Programme. Die Tour endet bei den Kirchen im Norden, während die Scheibenwischer den Rhythmus eines gemütlichen, regnerischen Tages vorgeben.",
+            "hu": "Autóval Massamagrell esőben is kényelmesen felfedezhető. Az Alqueria de Lleó romjainál kezdünk, ahol zápor esetén gyorsan visszatérhetünk a kocsiba. A múzeum és a színház délben bőséges fedett programot kínál. A túra az északi templomoknál zárul, miközben az ablaktörlők adják meg egy kényelmes, esős nap ritmusát a városban.",
+            "ro": "Cu mașina, Massamagrell poate fi explorat confortabil chiar și pe ploaie. Începem la ruinele Alqueria de Lleó, unde ne putem întoarce rapid în mașină în caz de aversă. Muzeul și teatrul oferă programe interioare bogate la prânz. Turul se încheie la bisericile din nord, în timp ce ștergătoarele dau ritmul unei zile ploioase relaxante.",
+            "en": "By car, Massamagrell can be explored comfortably even in the rain. We start at the Alqueria de Lleó ruins, where you can quickly return to the car if a shower starts. The museum and theater offer extensive indoor programs at noon. The tour concludes at the northern churches, as the windshield wipers set the rhythm of a cozy, rainy day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Runes de l'Alqueria de Lleó",
+                "hu": "Runes de l'Alqueria de Lleó",
+                "ro": "Runes de l'Alqueria de Lleó",
+                "en": "Runes de l'Alqueria de Lleó"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um bei plötzlichem Regen schnell wieder im trockenen Fahrzeug zu sein, und achten Sie auf aufgeweichten Boden bei den Ruinen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy hirtelen eső esetén gyorsan visszaérjen a száraz autóba, és ügyeljen a romok körüli felázott, sáros talajra a látogatáskor.",
+                "ro": "Parcați cât mai aproape de intrare pentru a reveni rapid în mașina uscată în caz de ploaie bruscă și aveți grijă la terenul moale și noroios din jurul ruinelor.",
+                "en": "Park as close to the entrance as possible to return quickly to the dry car in case of sudden rain and watch out for soft, muddy ground around the ruins during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Església Sant Llorenç Màrtir",
+                "hu": "Església Sant Llorenç Màrtir",
+                "ro": "Església Sant Llorenç Màrtir",
+                "en": "Església Sant Llorenç Màrtir"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe und nehmen Sie Ihren Regenschirm mit für den kurzen Weg vom Auto zum schützenden Portal dieser historischen Kirche.",
+                "hu": "Használja ki a közeli parkolási lehetőségeket, és vigye magával esernyőjét az autó és a történelmi templom védelmet nyújtó kapuja közötti rövid, de vizes sétához.",
+                "ro": "Folosiți locurile de parcare din apropiere și luați umbrela pentru scurta plimbare de la mașină până la portalul protector al acestei biserici istorice din centrul localității.",
+                "en": "Take advantage of the nearby parking options and bring your umbrella for the short walk from the car to the protective portal of this historic church in the town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Sant Roc",
+                "hu": "Ermita de Sant Roc",
+                "ro": "Ermita de Sant Roc",
+                "en": "Ermita de Sant Roc"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet bei Regen nur begrenzt Platz im Inneren; genießen Sie die Aussicht aus dem Auto, bis der Schauer nachlässt, bevor Sie kurz aussteigen.",
+                "hu": "A kis kápolna esőben csak korlátozott helyet kínál bent; élvezze a kilátást az autóból, amíg a zápor alábbhagy, mielőtt rövid időre kiszállna körülnézni a környéken.",
+                "ro": "Mica capelă oferă spațiu limitat în interior pe ploaie; bucurați-vă de priveliște din mașină până când aversa se potolește, înainte de a coborî pentru o scurtă vizită.",
+                "en": "The small chapel offers limited space inside during the rain; enjoy the view from the car until the shower subsides before stepping out briefly to look around the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de castas y encastes del toro de lidia",
+                "hu": "Museo de castas y encastes del toro de lidia",
+                "ro": "Museo de castas y encastes del toro de lidia",
+                "en": "Museo de castas y encastes del toro de lidia"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein idealer Stopp, um das Auto für längere Zeit stehen zu lassen, da das Museum weitläufige, trockene Ausstellungsflächen für einen entspannten Rundgang bietet.",
+                "hu": "Ez egy ideális megálló, ahol hosszabb időre is otthagyhatja az autót, mivel a múzeum tágas, száraz kiállítóterei nyugodt és tartalmas körbejárást tesznek lehetővé esőben.",
+                "ro": "Aceasta este o oprire ideală pentru a lăsa mașina o perioadă mai lungă, deoarece muzeul oferă spații de expoziție vaste și uscate pentru un tur relaxat sub adăpost.",
+                "en": "This is an ideal stop to leave the car for a longer period, as the museum offers vast, dry exhibition spaces for a relaxed and informative tour under shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre de Massamagrell",
+                "hu": "Teatre de Massamagrell",
+                "ro": "Teatre de Massamagrell",
+                "en": "Teatre de Massamagrell"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Parkplatz und nutzen Sie den Theaterbesuch, um die regnerische Atmosphäre der Stadt durch die großen Fenster im Foyer zu beobachten.",
+                "hu": "Ügyeljen a tócsákra a parkolóban, és használja ki a színházi látogatást, hogy a foyer nagy ablakain keresztül figyelje a város esős hangulatát a száraz és meleg épületből.",
+                "ro": "Atenție la bălțile din parcare și profitați de vizita la teatru pentru a observa atmosfera ploioasă a orașului prin ferestrele mari ale foaierului, stând la căldură.",
+                "en": "Watch out for puddles in the parking lot and use the theater visit to observe the rainy atmosphere of the city through the large foyer windows from the dry building."
+              }
+            },
+            {
+              "name": {
+                "de": "Parròquia de Sant Josep",
+                "hu": "Parròquia de Sant Josep",
+                "ro": "Parròquia de Sant Josep",
+                "en": "Parròquia de Sant Josep"
+              },
+              "tip_5lang": {
+                "de": "Da die Straßen eng sein können, suchen Sie sich einen Parkplatz etwas abseits und nutzen Sie den kurzen Spaziergang im Regen als erfrischenden Abschluss des Tagesprogramms.",
+                "hu": "Mivel az utcák szűkek lehetnek, keressen parkolót kicsit távolabb, és használja a rövid esős sétát a templomig a napi program frissítő lezárásaként a városban.",
+                "ro": "Deoarece străzile pot fi înguste, căutați un loc de parcare puțin mai departe și folosiți scurta plimbare prin ploaie ca o încheiere revigorantă a programului zilei.",
+                "en": "Since the streets can be narrow, find a parking spot slightly further away and use the short walk in the rain to the church as a refreshing conclusion to the day's program."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Antoni Abat",
+                "hu": "Església de Sant Antoni Abat",
+                "ro": "Església de Sant Antoni Abat",
+                "en": "Església de Sant Antoni Abat"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Sichtverhältnisse beim Ausparken im Regen und genießen Sie die spirituelle Ruhe der Kirche, bevor Sie die Heimfahrt im nun dunkler werdenden Massamagrell antreten.",
+                "hu": "Ellenőrizze a látási viszonyokat a vizes ablakokon keresztül, mielőtt elindulna, és élvezze a templom nyugalmát a sötétedő, esős Massamagrellben a túra végén.",
+                "ro": "Verificați vizibilitatea prin geamurile umede înainte de a pleca și bucurați-vă de liniștea spirituală a bisericii înainte de drumul spre casă prin Massamagrellul întunecat.",
+                "en": "Check your visibility through the wet windows before pulling out and enjoy the spiritual peace of the church before heading home through the darkening, rainy Massamagrell."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Autotour im Winter bietet den Vorteil einer ständigen Heizung zwischen den kulturellen Stopps. Wir beginnen morgens bei den Ruinen, solange die Wintersonne noch tief steht. Mittags wärmen wir uns im Museum und Theater auf. Gegen 17:00 Uhr erleben wir den Sonnenuntergang von der Ermita de Sant Roc aus, bevor wir den Tag gemütlich bei den nördlichen Kirchen ausklingen lassen.",
+            "hu": "A téli autós túra előnye a folyamatos fűtés a kulturális megállók között. Reggel a romoknál kezdünk, amíg a téli nap még alacsonyan jár. Délben a múzeumban és a színházban melegszünk fel. 17:00 körül az Ermita de Sant Roc-tól csodáljuk meg a naplementét, majd a napot kényelmesen az északi templomoknál zárjuk a városi fényekben.",
+            "ro": "Un tur cu mașina iarna oferă avantajul încălzirii constante între opririle culturale. Începem dimineața la ruine, cât timp soarele de iarnă este încă jos. La prânz ne încălzim în muzeu și teatru. În jurul orei 17:00 admirăm apusul de la Ermita de Sant Roc, înainte de a încheia ziua relaxat la bisericile din nordul orașului.",
+            "en": "A car tour in winter offers the advantage of constant heating between cultural stops. We start in the morning at the ruins while the winter sun is still low. At noon, we warm up in the museum and theater. Around 17:00, we watch the sunset from Ermita de Sant Roc before concluding the day comfortably at the northern churches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Runes de l'Alqueria de Lleó",
+                "hu": "Runes de l'Alqueria de Lleó",
+                "ro": "Runes de l'Alqueria de Lleó",
+                "en": "Runes de l'Alqueria de Lleó"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen am frühen Vormittag, wenn das weiche Winterlicht die alten Steine ideal beleuchtet, und lassen Sie die Standheizung für Ihre Rückkehr laufen.",
+                "hu": "Látogasson el a romokhoz kora délelőtt, amikor a lágy téli fény ideálisan világítja meg az ősi köveket, és hagyja járni a fűtést a kocsiban a visszatéréshez a hidegből.",
+                "ro": "Vizitați ruinele dimineața devreme, când lumina blândă de iarnă luminează ideal pietrele vechi, și lăsați căldura pornită în mașină pentru întoarcerea voastră din frig.",
+                "en": "Visit the ruins in the early morning when the soft winter light illuminates the ancient stones ideally and keep the car heater ready for your return from the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Església Sant Llorenç Màrtir",
+                "hu": "Església Sant Llorenç Màrtir",
+                "ro": "Església Sant Llorenç Màrtir",
+                "en": "Església Sant Llorenç Màrtir"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, damit sich das Auto während Ihres Kirchenbesuchs natürlich aufwärmt, und genießen Sie die klare Winterluft auf dem Weg zum Portal des Baus.",
+                "hu": "Parkoljon a napon, hogy az autó természetes módon felmelegedjen a templomlátogatás alatt, és élvezze a tiszta téli levegőt a történelmi épület kapuja felé vezető rövid úton.",
+                "ro": "Parcați la soare pentru ca mașina să se încălzească natural în timpul vizitei la biserică și bucurați-vă de aerul curat de iarnă pe drumul spre portalul edificiului istoric.",
+                "en": "Park in the sun so that the car warms up naturally during your church visit and enjoy the clear winter air on the short way to the portal of this historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Sant Roc",
+                "hu": "Ermita de Sant Roc",
+                "ro": "Ermita de Sant Roc",
+                "en": "Ermita de Sant Roc"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist perfekt für den Sonnenuntergang gegen 17:00 Uhr; genießen Sie das Panorama über die winterliche Huerta Valencias direkt aus dem warmen Komfort Ihres Autos.",
+                "hu": "Ez a helyszín tökéletes a 17:00 körüli naplementéhez; élvezze a valenciai téli Huerta feletti panorámát közvetlenül a fűtött autó kényelméből a hideg szél ellenére.",
+                "ro": "Acest loc este perfect pentru apusul de la ora 17:00; bucurați-vă de panorama asupra zonei Huerta din Valencia direct din confortul cald al mașinii voastre pe timp de iarnă.",
+                "en": "This location is perfect for the sunset around 17:00; enjoy the panorama over the winter Huerta of Valencia directly from the warm comfort of your car despite the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de castas y encastes del toro de lidia",
+                "hu": "Museo de castas y encastes del toro de lidia",
+                "ro": "Museo de castas y encastes del toro de lidia",
+                "en": "Museo de castas y encastes del toro de lidia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden für diesen Indoor-Stopp, da das Museum eine angenehme Wärme bietet, während die Außentemperaturen im Winterwind ihren Tiefpunkt erreichen.",
+                "hu": "Használja ki a déli órákat erre a benti megállóra, mivel a múzeum kellemes meleget kínál, miközben a kinti hőmérséklet a téli szélben eléri a napi mélypontját a városban.",
+                "ro": "Profitați de orele amiezii pentru această oprire interioară, deoarece muzeul oferă o căldură plăcută în timp ce temperaturile exterioare ating pragul minim în vântul de iarnă.",
+                "en": "Take advantage of the midday hours for this indoor stop, as the museum offers pleasant warmth while outside temperatures reach their daily low in the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre de Massamagrell",
+                "hu": "Teatre de Massamagrell",
+                "ro": "Teatre de Massamagrell",
+                "en": "Teatre de Massamagrell"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf den befestigten Flächen nahe dem Theater, um den kalten Wind auf dem Fußweg zu minimieren, und genießen Sie die gemütliche Atmosphäre im Inneren des Baus.",
+                "hu": "Parkoljon a színházhoz közeli burkolt területeken, hogy minimalizálja a hideg szélben töltött időt a gyalogút alatt, és élvezze az épület belső tereinek otthonos hangulatát.",
+                "ro": "Parcați pe zonele pavate de lângă teatru pentru a minimiza expunerea la vântul rece în timpul mersului pe jos și bucurați-vă de atmosfera primitoare din interiorul clădirii.",
+                "en": "Park on the paved areas near the theater to minimize time spent in the cold wind during the walk and enjoy the cozy atmosphere inside the building's public areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Parròquia de Sant Josep",
+                "hu": "Parròquia de Sant Josep",
+                "ro": "Parròquia de Sant Josep",
+                "en": "Parròquia de Sant Josep"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei der Ankunft in der Dämmerung auf die Beleuchtung der engen Gassen und genießen Sie die winterliche Stille der Kirche am späten Nachmittag vor der Abfahrt.",
+                "hu": "A szürkületben való érkezéskor ügyeljen a szűk utcák megvilágítására, és élvezze a templom téli csendjét késő délután, mielőtt továbbhajtana az utolsó állomás felé.",
+                "ro": "La sosirea în amurg, atenție la iluminarea străzilor înguste și bucurați-vă de liniștea iernatică a bisericii la sfârșitul după-amiezii, înainte de a pleca spre ultima oprire.",
+                "en": "When arriving at twilight, pay attention to the lighting of the narrow streets and enjoy the winter silence of the church in the late afternoon before heading to the last stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Antoni Abat",
+                "hu": "Església de Sant Antoni Abat",
+                "ro": "Església de Sant Antoni Abat",
+                "en": "Església de Sant Antoni Abat"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier, wenn die Straßenlaternen die winterliche Stadt in ein warmes Licht tauchen, und nutzen Sie die Sitzheizung für eine komfortable Heimreise am Abend.",
+                "hu": "Zárja itt a napot, amikor az utcai lámpák meleg fénybe vonják a téli várost, és használja az ülésfűtést a kényelmes esti hazaúthoz a hideg Massamagrell utcáin keresztül.",
+                "ro": "Încheie ziua aici, când felinarele scaldă orașul de iarnă într-o lumină caldă, și folosește încălzirea din scaune pentru un drum confortabil spre casă în seara rece.",
+                "en": "End the day here when the street lamps bathe the winter city in warm light and use the seat heating for a comfortable journey home through the cold Massamagrell evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

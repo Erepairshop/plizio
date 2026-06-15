@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a helyi kultúra elmerülésével a Pasar Widosari kemuningban és a történelmi Pasar Joharban. Délben látogasson el az Iszlám Múzeumba a történelmi betekintésért. Délután kóstolja meg az autentikus ízeket a Pasar Satrio Wibowóban. Zárja gyalogtúráját a nyugodt Studio Patung & Tamanban, megcsodálva annak gyönyörű helyi szobrait.",
         "ro": "Începeți dimineața imersându-vă în cultura locală la Pasar Widosari kemuning și la istoricul Pasar Johar. La prânz, vizitați Muzeul Centrului Islamic pentru perspective istorice profunde. După-amiaza, gustați arome autentice la Pasar Satrio Wibowo. Încheiați turul la liniștitul Studio Patung & Taman, admirând sculpturile sale locale frumoase.",
         "en": "Begin your morning immersing in the local culture at Pasar Widosari kemuning and the relocated historical Pasar Johar. Midday brings you to the Museum Pusat Perkembangan Islam for deep historical insights. In the afternoon, sample authentic flavors at Pasar Satrio Wibowo. Conclude your walking tour at the tranquil Studio Patung & Taman, admiring its beautiful local sculptures."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der geschützten Markthalle, wo das Trommeln des Regens auf dem Dach eine eigene Melodie spielt. Mittags bietet das massive Museumsgebäude den perfekten Zufluchtsort vor dem tropischen Guss. Am Nachmittag verleiht der Dunst im Skulpturengarten den Werken eine mystische Aura. Den Abend lassen Sie bei reflektierenden Lichtern auf den nassen Straßen Semarang ausklingen.",
+            "hu": "Kezdje a napot a fedett piacon, ahol az eső kopogása ritmust ad az alkudozásnak. Délben a múzeum vastag falai és tetőszerkezete nyújt tökéletes menedéket a trópusi felhőszakadás elől. Délután a szoborpark párás levegője misztikus hangulatot áraszt a vizes kövek között. Este a kivilágított, vizes aszfalton tükröződő fények kísérik utolsó állomásához a városi forgatagban.",
+            "ro": "Începeți ziua în piața acoperită, unde ropotul ploii pe acoperiș creează un ritm aparte pentru negocieri. La prânz, clădirea masivă a muzeului oferă refugiul perfect împotriva averselor tropicale. După-amiaza, ceața din grădina de sculpturi conferă operelor o aură mistică. Seara se încheie admirând luminile orașului reflectate în asfaltul umed, într-o atmosferă liniștită.",
+            "en": "Start your day in the covered market, where the rhythm of rain on the roof accompanies the local bustle. At noon, the museum's sturdy walls provide a perfect sanctuary from the tropical downpour. In the afternoon, the mist in the sculpture garden gives the artworks a mystical aura. End your evening watching the city lights shimmer on the wet streets of Semarang."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Widosari kemuning",
+                "hu": "Pasar Widosari kemuning",
+                "ro": "Pasar Widosari kemuning",
+                "en": "Pasar Widosari kemuning"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das bunte Treiben unter den schützenden Marktdächern; tragen Sie rutschfeste Schuhe, da die Fliesen am Eingang bei Nässe extrem glatt werden können.",
+                "hu": "Figyelje meg a színes forgatagot a védelmet nyújtó tetők alatt; viseljen csúszásmentes lábbelit, mert a bejárati csempék az esőtől rendkívül síkossá válhatnak.",
+                "ro": "Observați agitația colorată sub acoperișurile protectoare ale pieței; purtați încălțăminte antiderapantă, deoarece plăcile de la intrare devin foarte alunecoase când plouă.",
+                "en": "Observe the colorful bustle under the protective market roofs; wear non-slip shoes as the entrance tiles can become extremely slippery when wet from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Relokasi Pasar Johar",
+                "hu": "Relokasi Pasar Johar",
+                "ro": "Relokasi Pasar Johar",
+                "en": "Relokasi Pasar Johar"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Gänge, um lokale Spezialitäten im Trockenen zu entdecken; halten Sie Ihren Regenschirm griffbereit für den kurzen Weg zum nächsten Stand.",
+                "hu": "Használja a fedett folyosókat a helyi különlegességek felfedezéséhez; tartsa készenlétben az esernyőjét a standok közötti rövid, nyitott szakaszok megtételéhez.",
+                "ro": "Folosiți culoarele acoperite pentru a descoperi specialitățile locale la adăpost; țineți umbrela la îndemână pentru scurtele porțiuni deschise dintre tarabe.",
+                "en": "Use the covered walkways to discover local specialties while staying dry; keep your umbrella ready for the short open sections between the market stalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pusat Perkembangan Islam Jawa Tengah",
+                "hu": "Közép-Jávai Iszlám Fejlődés Múzeuma",
+                "ro": "Muzeul Centrului de Dezvoltare Islamică Java Centrală",
+                "en": "Museum Pusat Perkembangan Islam Jawa Tengah"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufigen Innenräume bieten stundenlangen Schutz vor dem Regen; nutzen Sie die Zeit, um die Architektur ohne die Hitze der direkten Sonne zu bewundern.",
+                "hu": "A tágas belső terek órákon át védelmet nyújtanak az eső elől; használja ki az időt az építészet megcsodálására a tűző nap melege nélkül, hűvös nyugalomban.",
+                "ro": "Interioarele spațioase oferă protecție ore în șir împotriva ploii; profitați de timp pentru a admira arhitectura fără căldura soarelui arzător, în liniște.",
+                "en": "The spacious interiors offer hours of protection from the rain; use the time to admire the architecture without the heat of the direct sun in cool comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Satrio Wibowo",
+                "hu": "Pasar Satrio Wibowo",
+                "ro": "Pasar Satrio Wibowo",
+                "en": "Pasar Satrio Wibowo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den kleinen Garküchen und genießen Sie eine heiße Suppe; die dampfenden Gerichte schmecken bei Regenwetter am authentischsten.",
+                "hu": "Keressen menedéket a kis kifőzdékben és élvezzen egy forró levest; a gőzölgő helyi ételek esős időben nyújtják a legmelegebb, legautentikusabb élményt.",
+                "ro": "Căutați adăpost în micile bucătării locale și savurați o supă fierbinte; preparatele aburinde sunt cele mai autentice și reconfortante pe timp de ploaie.",
+                "en": "Seek shelter in the small local eateries and enjoy a hot soup; the steaming local dishes provide the warmest, most authentic experience during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Patung & Taman",
+                "hu": "Studio Patung & Taman",
+                "ro": "Studio Patung & Taman",
+                "en": "Studio Patung & Taman"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Skulpturen im weichen Regenlicht, das die Konturen betont; ein Regenponcho ist ideal, um sich frei zwischen den Kunstwerken zu bewegen.",
+                "hu": "Csodálja meg a szobrokat a lágy esőfényben, amely kiemeli a kontúrokat; egy esőponcsó ideális választás, hogy szabadon mozoghasson az alkotások között.",
+                "ro": "Admirați sculpturile în lumina difuză a ploii, care accentuează contururile; o pelerină de ploaie este ideală pentru a vă deplasa liber printre opere.",
+                "en": "Admire the sculptures in the soft rain light that emphasizes the contours; a rain poncho is ideal for moving freely between the artworks in the garden."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den frischen Morgen bei milden Temperaturen, perfekt für einen ausgedehnten Stadtspaziergang. Mittags bietet die tiefer stehende Sonne ein angenehmes Licht für Besichtigungen. Da es bereits gegen 17:00 Uhr dunkel wird, sollten Sie den späten Nachmittag für stimmungsvolle Fotos nutzen. Den Abend verbringen Sie am besten in einem gemütlich beleuchteten Café bei lokalem Tee.",
+            "hu": "Élvezze a friss reggelt a mérsékeltebb hőmérsékletben, ami ideális egy hosszabb városi sétához. Délben az alacsonyabban járó nap kellemes fényt ad a nézelődéshez. Mivel már 17:00 körül sötétedik, a késő délutánt használja ki hangulatos fotózásra. Az estét töltse egy barátságos, meleg fényekkel megvilágított kávézóban egy helyi tea mellett.",
+            "ro": "Bucurați-vă de dimineața răcoroasă cu temperaturi blânde, ideale pentru o plimbare prelungită prin oraș. La prânz, soarele mai blând oferă o lumină plăcută pentru vizitare. Deoarece se întunecă în jur de ora 17:00, profitați de după-amiază pentru fotografii de atmosferă. Seara este perfectă pentru a fi petrecută într-o cafenea primitoare, cu un ceai local.",
+            "en": "Enjoy the fresh morning with milder temperatures, perfect for an extended city stroll. At noon, the lower sun provides pleasant lighting for sightseeing. Since it gets dark around 17:00, use the late afternoon for atmospheric photos. Spend the evening in a cozy, warmly lit cafe enjoying some local ginger tea to stay comfortable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Widosari kemuning",
+                "hu": "Pasar Widosari kemuning",
+                "ro": "Pasar Widosari kemuning",
+                "en": "Pasar Widosari kemuning"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh, um die kühle Morgenluft auf dem Markt zu genießen; ein leichter Pullover schützt Sie vor dem frischen Wind in den offenen Gängen.",
+                "hu": "Érkezzen korán, hogy élvezhesse a hűvös reggeli levegőt a piacon; egy könnyű pulóver megvédi a friss széltől a nyitott folyosókon való sétálás közben.",
+                "ro": "Veniți devreme pentru a vă bucura de aerul răcoros al dimineții în piață; un hanorac subțire vă va proteja de vântul proaspăt de pe coridoarele deschise.",
+                "en": "Arrive early to enjoy the cool morning air at the market; a light sweater will protect you from the fresh breeze while walking through the open corridors."
+              }
+            },
+            {
+              "name": {
+                "de": "Relokasi Pasar Johar",
+                "hu": "Relokasi Pasar Johar",
+                "ro": "Relokasi Pasar Johar",
+                "en": "Relokasi Pasar Johar"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie heiße lokale Snacks, die bei den milderen Temperaturen besonders gut schmecken; die Sonne steht jetzt ideal für Fotos der Architektur.",
+                "hu": "Kóstoljon meg forró helyi snackeket, amelyek a mérsékeltebb hőmérsékletben különösen jól esnek; a nap állása most ideális az építészet fotózásához.",
+                "ro": "Gustați gustările locale calde, care sunt mult mai plăcute la temperaturi blânde; poziția soarelui este acum ideală pentru fotografierea arhitecturii.",
+                "en": "Try some hot local snacks which are especially pleasant in the milder temperatures; the sun's position is now ideal for photographing the architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pusat Perkembangan Islam Jawa Tengah",
+                "hu": "Közép-Jávai Iszlám Fejlődés Múzeuma",
+                "ro": "Muzeul Centrului de Dezvoltare Islamică Java Centrală",
+                "en": "Museum Pusat Perkembangan Islam Jawa Tengah"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Hallen sind im Winter sehr angenehm; planen Sie Ihren Besuch so, dass Sie vor dem frühen Sonnenuntergang um 17:00 Uhr wieder im Freien sind.",
+                "hu": "A hűvösebb csarnokok télen is nagyon kellemesek; tervezze úgy a látogatást, hogy a korai, 17:00-s naplemente előtt végezzen a benti programmal.",
+                "ro": "Halele mai răcoroase sunt foarte plăcute iarna; planificați vizita astfel încât să terminați înainte de apusul devreme, în jurul orei 17:00.",
+                "en": "The cooler halls are very pleasant in winter; plan your visit to finish before the early sunset at 17:00 to catch the remaining golden hour light outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Satrio Wibowo",
+                "hu": "Pasar Satrio Wibowo",
+                "ro": "Pasar Satrio Wibowo",
+                "en": "Pasar Satrio Wibowo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lebhafte Atmosphäre ohne die drückende Mittagshitze; die warmen Farben des späten Nachmittags beleuchten die Stände wunderschön.",
+                "hu": "Élvezze a pezsgő hangulatot a nyomasztó déli hőség nélkül; a késő délutáni meleg fények gyönyörűen világítják meg a piac színes standjait.",
+                "ro": "Bucurați-vă de atmosfera vibrantă fără căldura sufocantă de la prânz; luminile calde de după-amiază luminează superb tarabele colorate ale pieței.",
+                "en": "Enjoy the vibrant atmosphere without the oppressive midday heat; the warm late afternoon lights illuminate the colorful market stalls beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Patung & Taman",
+                "hu": "Studio Patung & Taman",
+                "ro": "Studio Patung & Taman",
+                "en": "Studio Patung & Taman"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht vor 17:00 Uhr für den Garten; die Dämmerung verleiht den Skulpturen eine ganz besondere, weiche Ausstrahlung.",
+                "hu": "Használja ki az utolsó nappali fényeket 17:00 előtt a kertben; a szürkület különleges, lágy kisugárzást kölcsönöz a kiállított szobroknak.",
+                "ro": "Profitați de ultimele raze de lumină înainte de ora 17:00 în grădină; amurgul oferă sculpturilor o aură specială și delicată.",
+                "en": "Make the most of the last daylight before 17:00 in the garden; the twilight gives the exhibited sculptures a very special, soft radiance."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon egy energikus reggelbe a Pasar Widosari és a Pasar Johar forgalmas sávjain keresztül. Délben pihenjen meg a lenyűgöző Iszlám Múzeumban. A délutáni túra olyan kulturális központokat köt össze, mint a Satrio Wibowo és a Bangetayu piac. Végül pihenjen meg a Studio Patung & Tamanban, élvezve a művészetet a kertben.",
         "ro": "Pedalați spre o dimineață energică prin străzile aglomerate din Pasar Widosari și Pasar Johar. La prânz, odihniți-vă la Muzeul Islamic. Plimbarea de după-amiază conectează centre culturale precum Pasar Satrio Wibowo și piața Bangetayu. În cele din urmă, relaxați-vă la Studio Patung & Taman, bucurându-vă de artă într-o grădină.",
         "en": "Cycle your way to an energetic morning through the busy lanes of Pasar Widosari and Pasar Johar. By midday, rest at the fascinating Museum Pusat Perkembangan Islam. Your afternoon ride connects cultural hubs like Pasar Satrio Wibowo and the eastern Bangetayu market. Finally, relax at Studio Patung & Taman, enjoying art in a calm garden setting as the evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig durch das nasse Semarang, wobei ein Poncho Ihr bester Begleiter ist. Vormittags bieten die Märkte trockene Stopps, während Sie mittags im Museum sicher vor dem Regen parken können. Nachmittags fordern die glatten Straßen volle Konzentration, belohnen aber mit kühler Luft. Abends spiegeln sich die Lichter in den Pfützen und machen die Fahrt zu einem visuellen Erlebnis.",
+            "hu": "Tekerjen óvatosan a vizes Semarangban, ahol egy esőponcsó lesz a legjobb társa. Délelőtt a piacok nyújtanak száraz megállókat, délben pedig a múzeumnál biztonságban leparkolhat az eső elől. Délután a csúszós utak teljes koncentrációt igényelnek, de hűvösebb levegővel jutalmazzák. Este a tócsákban tükröződő fények vizuális élménnyé teszik a hazafelé vezető utat.",
+            "ro": "Pedalați cu atenție prin Semarangul umed, unde o pelerină de ploaie va fi cel mai bun aliat. Dimineața, piețele oferă opriri uscate, iar la prânz puteți parca în siguranță la muzeu. După-amiaza, drumurile alunecoase necesită concentrare maximă, dar vă răsplătesc cu aer mai răcoros. Seara, luminile reflectate în bălți transformă drumul într-o experiență vizuală deosebită.",
+            "en": "Cycle carefully through wet Semarang, where a rain poncho will be your best companion. In the morning, markets provide dry stops, while at noon you can park safely at the museum. Afternoon's slippery roads require full concentration but reward you with cooler air. In the evening, lights reflecting in puddles turn your ride home into a beautiful visual experience."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Widosari kemuning",
+                "hu": "Pasar Widosari kemuning",
+                "ro": "Pasar Widosari kemuning",
+                "en": "Pasar Widosari kemuning"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Dachvorsprung; achten Sie auf nasse Markierungen auf dem Boden, die beim Bremsen sehr rutschig sein können.",
+                "hu": "Parkolja le kerékpárját az eresz alatt; ügyeljen a felfestett útburkolati jelekre, mert fékezéskor rendkívül csúszósak lehetnek az esőben.",
+                "ro": "Parcați bicicleta sub streșină; atenție la marcajele rutiere de pe asfalt, deoarece pot fi extrem de alunecoase la frânare pe timp de ploaie.",
+                "en": "Park your bike under the eaves; watch out for painted road markings, as they can be extremely slippery when braking in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Relokasi Pasar Johar",
+                "hu": "Relokasi Pasar Johar",
+                "ro": "Relokasi Pasar Johar",
+                "en": "Relokasi Pasar Johar"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen geschützten Fahrradständer in der Nähe des Eingangs; nutzen Sie die Zeit im trockenen Markt, um Ihre Bremsen kurz zu kontrollieren.",
+                "hu": "Keressen védett kerékpártárolót a bejárat közelében; használja ki a száraz piacon töltött időt a fékek rövid ellenőrzésére a biztonságos továbbhaladáshoz.",
+                "ro": "Căutați un suport de biciclete protejat lângă intrare; profitați de timpul petrecut în piață pentru a verifica scurt frânele înainte de a pleca mai departe.",
+                "en": "Find a protected bike rack near the entrance; use the time in the dry market to quickly check your brakes for safe continued travel."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pusat Perkembangan Islam Jawa Tengah",
+                "hu": "Közép-Jávai Iszlám Fejlődés Múzeuma",
+                "ro": "Muzeul Centrului de Dezvoltare Islamică Java Centrală",
+                "en": "Museum Pusat Perkembangan Islam Jawa Tengah"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Parkbereich des Museums für eine längere Pause; hängen Sie Ihren nassen Poncho so auf, dass er während Ihres Besuchs trocknen kann.",
+                "hu": "Használja a múzeum fedett parkolóját egy hosszabb pihenőhöz; akassza fel vizes poncsóját úgy, hogy a látogatás alatt meg tudjon száradni.",
+                "ro": "Utilizați parcarea acoperită a muzeului pentru o pauză mai lungă; agățați pelerina udă într-un mod care să îi permită să se usuce în timpul vizitei.",
+                "en": "Use the museum's covered parking area for a longer break; hang your wet poncho in a way that allows it to dry during your indoor visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Satrio Wibowo",
+                "hu": "Pasar Satrio Wibowo",
+                "ro": "Pasar Satrio Wibowo",
+                "en": "Pasar Satrio Wibowo"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Anfahren auf dem nassen Asphalt zu starke Beschleunigung; im Markt finden Sie warme Getränke, um sich nach der Fahrt aufzuwärmen.",
+                "hu": "Induláskor kerülje a hirtelen gyorsítást a vizes aszfalton; a piacon találhat meleg italokat, amelyek segítenek átmelegedni a kerékpározás után.",
+                "ro": "Evitați accelerările bruște pe asfaltul ud la plecare; în piață veți găsi băuturi calde care vă vor ajuta să vă încălziți după drum.",
+                "en": "Avoid sudden acceleration on the wet asphalt when starting; you can find hot drinks in the market to help you warm up after your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Bangetayu",
+                "hu": "Pasar Bangetayu",
+                "ro": "Pasar Bangetayu",
+                "en": "Pasar Bangetayu"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher, die durch Pfützen getarnt sein könnten; die überdachten Gänge bieten eine gute Gelegenheit für eine kleine Verschnaufpause im Trockenen.",
+                "hu": "Ügyeljen a kátyúkra, amelyeket a tócsák elrejthetnek; a fedett folyosók jó alkalmat kínálnak egy kis száraz pihenőre a kerékpárnyereg után.",
+                "ro": "Atenție la gropile care pot fi ascunse de bălți; coridoarele acoperite oferă o ocazie bună pentru o scurtă pauză uscată după efortul de pe bicicletă.",
+                "en": "Watch out for potholes that might be hidden by puddles; the covered corridors offer a good opportunity for a dry break from the bike saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Patung & Taman",
+                "hu": "Studio Patung & Taman",
+                "ro": "Studio Patung & Taman",
+                "en": "Studio Patung & Taman"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie im Gartenbereich besonders langsam, da die Wege durch Moos und Nässe rutschig sind; genießen Sie die kühle, gereinigte Luft nach dem Regen.",
+                "hu": "A kert területén haladjon különösen lassan, mert az utak a mohától és nedvességtől csúszósak; élvezze az eső utáni tiszta, hűvös levegőt.",
+                "ro": "Mergeți foarte încet în zona grădinii, deoarece potecile sunt alunecoase din cauza mușchiului și umezelii; bucurați-vă de aerul curat după ploaie.",
+                "en": "Ride extra slowly in the garden area as paths can be slippery from moss and moisture; enjoy the clean, cool air following the tropical rainfall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Semarang auf zwei Rädern bei angenehm kühler Brise, die das Radfahren weniger anstrengend macht. Vormittags ist das Licht sanft und ideal für die Fahrt zwischen den Märkten. Mittags bietet das Museum eine willkommene Pause im Schatten. Da die Sonne früh um 17:00 Uhr untergeht, sollten Sie Ihre Route rechtzeitig beenden oder auf eine funktionierende Beleuchtung achten.",
+            "hu": "Fedezze fel Semarangot két keréken a kellemesen hűvös szellőben, ami kevésbé fárasztóvá teszi a biciklizést. Délelőtt a fények lágyak, ideálisak a piacok közötti tekeréshez. Délben a múzeum szívesen látott pihenőt kínál az árnyékban. Mivel a nap korán, 17:00-kor lebukik, fejezze be időben az útvonalat, vagy ügyeljen a működő világításra.",
+            "ro": "Explorați Semarangul pe două roți în briza plăcută și răcoroasă, care face pedalatul mult mai puțin obositor. Dimineața, lumina este blândă, ideală pentru drumul dintre piețe. La prânz, muzeul oferă o pauză binevenită la umbră. Deoarece soarele apune devreme la ora 17:00, terminați traseul la timp sau asigurați-vă că aveți lumini funcționale.",
+            "en": "Explore Semarang on two wheels in the pleasantly cool breeze, making cycling much less tiring. In the morning, the light is soft, ideal for riding between the markets. At noon, the museum offers a welcome break in the shade. Since the sun sets early at 17:00, finish your route in time or ensure you have working lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Widosari kemuning",
+                "hu": "Pasar Widosari kemuning",
+                "ro": "Pasar Widosari kemuning",
+                "en": "Pasar Widosari kemuning"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühlen Morgen für den ersten Stopp; die milden Temperaturen machen das Parken und Sichern des Rades deutlich angenehmer als im Sommer.",
+                "hu": "Használja ki a hűvös reggelt az első megállóhoz; a mérsékelt hőmérséklet sokkal kellemesebbé teszi a parkolást, mint a tikkasztó nyári hőségben.",
+                "ro": "Profitați de dimineața răcoroasă pentru prima oprire; temperaturile blânde fac parcarea și asigurarea bicicletei mult mai plăcute decât în arșița verii.",
+                "en": "Take advantage of the cool morning for your first stop; the moderate temperatures make parking much more pleasant than in the sweltering summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Relokasi Pasar Johar",
+                "hu": "Relokasi Pasar Johar",
+                "ro": "Relokasi Pasar Johar",
+                "en": "Relokasi Pasar Johar"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hierher ist bei winterlicher Brise erfrischend; trinken Sie ausreichend Wasser, auch wenn Sie wegen der kühleren Luft weniger Durst verspüren.",
+                "hu": "Az idevezető út a téli szellőben frissítő; igyon elegendő vizet akkor is, ha a hűvösebb levegő miatt kevésbé érzi magát szomjasnak tekerés közben.",
+                "ro": "Drumul până aici este revigorant în briza iernii; beți suficientă apă chiar dacă aerul mai răcoros vă face să simțiți mai puțin setea pe bicicletă.",
+                "en": "The ride here is refreshing in the winter breeze; drink enough water even if the cooler air makes you feel less thirsty while cycling between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pusat Perkembangan Islam Jawa Tengah",
+                "hu": "Közép-Jávai Iszlám Fejlődés Múzeuma",
+                "ro": "Muzeul Centrului de Dezvoltare Islamică Java Centrală",
+                "en": "Museum Pusat Perkembangan Islam Jawa Tengah"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen schattigen Abstellplatz für Ihr Rad; die Innenräume bieten eine tolle Gelegenheit, sich vor der Weiterfahrt im kühlen Wind etwas auszuruhen.",
+                "hu": "Keressen árnyékos tárolót a biciklijének; a belső terek kiváló alkalmat nyújtanak a pihenésre, mielőtt újra a szelesebb kültéri szakaszokra indulna.",
+                "ro": "Căutați un loc de parcare umbrit pentru bicicletă; interioarele oferă o ocazie excelentă de odihnă înainte de a porni din nou pe segmentele cu vânt.",
+                "en": "Find a shaded storage spot for your bike; the interiors provide a great opportunity to rest before heading out onto the breezier outdoor sections again."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Satrio Wibowo",
+                "hu": "Pasar Satrio Wibowo",
+                "ro": "Pasar Satrio Wibowo",
+                "en": "Pasar Satrio Wibowo"
+              },
+              "tip_5lang": {
+                "de": "Der Nachmittag bietet das beste Licht für Ihre Fahrt durch die Stadtviertel; achten Sie auf die Zeit, da die Dämmerung im Winter sehr schnell einsetzt.",
+                "hu": "A délután kínálja a legjobb fényeket a városrészeken való áttekeréshez; ügyeljen az időre, mert télen a szürkület váratlanul gyorsan köszönt be.",
+                "ro": "După-amiaza oferă cea mai bună lumină pentru pedalatul prin cartiere; fiți atenți la timp, deoarece amurgul se instalează foarte rapid iarna.",
+                "en": "The afternoon offers the best lighting for your ride through the neighborhoods; watch the time, as twilight sets in surprisingly fast during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Bangetayu",
+                "hu": "Pasar Bangetayu",
+                "ro": "Pasar Bangetayu",
+                "en": "Pasar Bangetayu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Fahrtwind, aber halten Sie ein leichtes Tuch für den Hals bereit; die trockene Winterluft kann beim schnellen Radfahren die Kehle reizen.",
+                "hu": "Élvezze a menetszelet, de tartson készenlétben egy vékony sálat; a száraz téli levegő gyors tekerés közben irritálhatja a torkot.",
+                "ro": "Bucurați-vă de vânt, dar aveți pregătită o eșarfă subțire; aerul uscat de iarnă poate irita gâtul în timpul pedalării rapide.",
+                "en": "Enjoy the riding wind, but keep a light scarf ready; the dry winter air can irritate your throat during fast cycling between these distant market stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Patung & Taman",
+                "hu": "Studio Patung & Taman",
+                "ro": "Studio Patung & Taman",
+                "en": "Studio Patung & Taman"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch pünktlich zum Sonnenuntergang gegen 17:00 Uhr; die kühle Abendluft ist perfekt für eine entspannte Rückfahrt zum Ausgangspunkt.",
+                "hu": "Fejezze be a látogatást pontosan a 17:00-s naplementére; a hűvös esti levegő tökéletes egy pihentető visszatekeréshez a kiindulópontig.",
+                "ro": "Terminați vizita fix la apusul de la ora 17:00; aerul răcoros al serii este perfect pentru o pedalare relaxantă înapoi spre punctul de plecare.",
+                "en": "Finish your visit right at the 17:00 sunset; the cool evening air is perfect for a relaxed ride back to your starting point through the city."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen kényelmesen a nyüzsgő Widosari és Johar reggeli piacokhoz, mielőtt a hőség tetőzik. A dél oktatási menedéket kínál az Iszlám Múzeumban. Ahogy a délután kibontakozik, utazzon délre, hogy felfedezze a Studio Patung & Tamant és a Pasar Srondolt. Zárja a napot a Rasamala és a Damar nyüzsgő környékbeli piacainak meglátogatásával.",
         "ro": "Conduceți confortabil către piețele de dimineață Widosari și Johar înainte ca căldura să atingă maximul. Prânzul oferă o retragere educațională la Muzeul Islamic. Pe măsură ce se desfășoară după-amiaza, călătoriți spre sud pentru a descoperi Studio Patung & Taman și Pasar Srondol. Încheiați ziua vizitând piețele de cartier Rasamala și Damar.",
         "en": "Drive comfortably to explore the bustling morning markets of Widosari and Johar before the heat peaks. Midday offers an educational retreat at the Museum Pusat Perkembangan Islam. As the afternoon unfolds, journey south to discover the beautiful Studio Patung & Taman and Pasar Srondol. Conclude the day hopping between vibrant neighborhood markets Rasamala and Damar."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Navigieren Sie komfortabel im Auto durch das verregnete Semarang, während Sie trocken von Ort zu Ort gelangen. Vormittags ermöglichen die Märkte einen schnellen Ein- und Ausstieg im Trockenen. Mittags bietet das Museum großzügige überdachte Parkplätze. Nachmittags sollten Sie mehr Zeit für den dichten Verkehr bei Regen einplanen. Abends genießen Sie den Blick auf die beleuchtete, nasse Stadt aus der Geborgenheit Ihres Fahrzeugs.",
+            "hu": "Navigáljon kényelmesen autóval az esős Semarangban, szárazon jutva el egyik helyszínről a másikra. Délelőtt a piacok gyors, fedett ki- és beszállást tesznek lehetővé. Délben a múzeum tágas, tetővel védett parkolóhelyeket kínál. Délután számoljon több idővel az esőben feltorlódó forgalom miatt. Este élvezze a kivilágított, vizes város látványát gépjárműve biztonságából.",
+            "ro": "Navigați confortabil cu mașina prin Semarangul ploios, ajungând la destinații fără să vă udați. Dimineața, piețele permit urcarea și coborârea rapidă sub adăpost. La prânz, muzeul oferă locuri de parcare spațioase și acoperite. După-amiaza, alocați mai mult timp pentru traficul aglomerat din cauza ploii. Seara, admirați orașul luminat și umed din siguranța vehiculului dumneavoastră.",
+            "en": "Navigate comfortably by car through rainy Semarang, reaching each location while staying dry. In the morning, markets allow for quick, sheltered drop-offs. At noon, the museum offers spacious covered parking. In the afternoon, plan for extra travel time due to increased traffic during rain. In the evening, enjoy the view of the lit, wet city from the safety of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Widosari kemuning",
+                "hu": "Pasar Widosari kemuning",
+                "ro": "Pasar Widosari kemuning",
+                "en": "Pasar Widosari kemuning"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich so nah wie möglich am Eingang absetzen; achten Sie beim Aussteigen auf tiefe Pfützen, die sich oft direkt am Bordstein bilden.",
+                "hu": "Szálljon ki a lehető legközelebb a bejárathoz; kiszálláskor ügyeljen a mély tócsákra, amelyek gyakran közvetlenül a padka mellett alakulnak ki.",
+                "ro": "Coborâți cât mai aproape de intrare; la coborâre, aveți grijă la bălțile adânci care se formează adesea chiar lângă bordură.",
+                "en": "Get dropped off as close to the entrance as possible; when exiting, watch out for deep puddles that often form directly next to the curb."
+              }
+            },
+            {
+              "name": {
+                "de": "Relokasi Pasar Johar",
+                "hu": "Relokasi Pasar Johar",
+                "ro": "Relokasi Pasar Johar",
+                "en": "Relokasi Pasar Johar"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den offiziellen Parkplatz, um direkt in den überdachten Bereich zu gelangen; halten Sie ein Handtuch im Auto bereit, falls Sie doch nass werden.",
+                "hu": "Használja a hivatalos parkolót, hogy közvetlenül a fedett részbe juthasson; tartson egy törölközőt az autóban, ha mégis elkapná az eső a rövid úton.",
+                "ro": "Utilizați parcarea oficială pentru a ajunge direct în zona acoperită; țineți un prosop în mașină în cazul în care vă prinde ploaia pe drumul scurt.",
+                "en": "Use the official parking lot to access the covered area directly; keep a towel in the car just in case you get caught in a quick downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pusat Perkembangan Islam Jawa Tengah",
+                "hu": "Közép-Jávai Iszlám Fejlődés Múzeuma",
+                "ro": "Muzeul Centrului de Dezvoltare Islamică Java Centrală",
+                "en": "Museum Pusat Perkembangan Islam Jawa Tengah"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten oder unter dem Dach, um den Weg zum Eingang kurz zu halten; genießen Sie die Klimaanlage des Autos zwischen den Besichtigungen.",
+                "hu": "Parkoljon árnyékos vagy fedett helyen, hogy lerövidítse a bejáratig tartó utat; élvezze az autó klímáját a két megálló közötti esős közlekedés során.",
+                "ro": "Parcați într-un loc umbrit sau acoperit pentru a scurta drumul până la intrare; bucurați-vă de climatizarea mașinii între vizite pe timp de ploaie.",
+                "en": "Park in a shaded or covered spot to shorten the walk to the entrance; enjoy the car's air conditioning between visits during the rainy travel segments."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Patung & Taman",
+                "hu": "Studio Patung & Taman",
+                "ro": "Studio Patung & Taman",
+                "en": "Studio Patung & Taman"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Fenster einen Spalt offen, damit die Scheiben bei der hohen Luftfeuchtigkeit nicht beschlagen; nutzen Sie den Schirm-Service am Eingang.",
+                "hu": "Hagyja résnyire nyitva az ablakot, hogy ne párásodjanak be az üvegek a magas páratartalom miatt; vegye igénybe a bejáratnál elérhető esernyő-szervizt.",
+                "ro": "Lăsați geamul crăpat pentru ca sticlele să nu se aburească din cauza umidității ridicate; apelați la serviciul de umbrele disponibil la intrare.",
+                "en": "Leave the window slightly cracked to prevent fogging due to high humidity; take advantage of the umbrella service available at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Srondol",
+                "hu": "Pasar Srondol",
+                "ro": "Pasar Srondol",
+                "en": "Pasar Srondol"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf verstopfte Zufahrtswege bei Regen; lassen Sie sich an einem markierten Bereich absetzen, um nicht durch tiefe Wasserlachen laufen zu müssen.",
+                "hu": "Ügyeljen az esőben elduguló bekötőutakra; olyan kijelölt helyen szálljon ki, ahol elkerülheti a mély víztócsákban való gázolást a piac felé.",
+                "ro": "Atenție la drumurile de acces care se pot bloca pe ploaie; coborâți într-o zonă marcată pentru a evita mersul prin bălți adânci spre piață.",
+                "en": "Watch out for congested access roads during rain; get dropped off at a designated spot to avoid wading through deep puddles toward the market."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Rasamala",
+                "hu": "Pasar Rasamala",
+                "ro": "Pasar Rasamala",
+                "en": "Pasar Rasamala"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche kann bei Regen schwierig sein; nutzen Sie einen Parkeinweiser, um schnell einen trockenen Platz in Marktnähe zu finden.",
+                "hu": "Esőben nehézkes lehet a parkolás; vegye igénybe a parkolóőr segítségét, hogy gyorsan találjon egy száraz helyet a piac közvetlen közelében.",
+                "ro": "Parcarea poate fi dificilă pe ploaie; folosiți ajutorul unui supraveghetor pentru a găsi rapid un loc uscat în imediata apropiere a pieței.",
+                "en": "Parking can be difficult during rain; use a parking attendant's help to quickly find a dry spot in the immediate vicinity of the market entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Damar",
+                "hu": "Pasar Damar",
+                "ro": "Pasar Damar",
+                "en": "Pasar Damar"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Scheibenwischer vor der Fahrt; das helle Licht der Scheinwerfer auf dem nassen Asphalt kann abends die Sicht beeinträchtigen.",
+                "hu": "Indulás előtt ellenőrizze az ablaktörlőket; az esti órákban a vizes aszfalton megcsillanó fényszórók rontják a látási viszonyokat, vezessen óvatosan.",
+                "ro": "Verificați ștergătoarele înainte de plecare; seara, farurile reflectate pe asfaltul umed pot reduce vizibilitatea, deci conduceți cu mare prudență.",
+                "en": "Check your wipers before starting; in the evening, headlights reflecting on the wet asphalt can reduce visibility, so drive with extra caution."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto für eine entspannte Tour durch das winterliche Semarang bei milden Außentemperaturen. Vormittags ist die Luft klar, was für eine gute Sicht während der Fahrt sorgt. Mittags ist es im Fahrzeug angenehm kühl, ohne dass die Klimaanlage auf Höchstleistung laufen muss. Da es um 17:00 Uhr dunkel wird, genießen Sie die Fahrt durch das stimmungsvoll beleuchtete Abendrot.",
+            "hu": "Használja az autót egy pihentető túrához a téli Semarangban a mérsékelt külső hőmérséklet mellett. Délelőtt a levegő tiszta, ami jó látási viszonyokat biztosít vezetés közben. Délben a járműben kellemesen hűvös van anélkül, hogy a klímának maximumon kellene mennie. Mivel 17:00-kor sötétedik, élvezze az utazást a hangulatosan megvilágított alkonyatban.",
+            "ro": "Folosiți mașina pentru un tur relaxant prin Semarangul de iarnă, profitând de temperaturile exterioare blânde. Dimineața, aerul este curat, asigurând o vizibilitate bună în timpul condusului. La prânz, în vehicul este plăcut și răcoros fără a forța climatizarea. Deoarece se întunecă la ora 17:00, bucurați-vă de drum în lumina caldă a amurgului.",
+            "en": "Use the car for a relaxing tour through winter Semarang with mild outdoor temperatures. In the morning, the air is clear, ensuring good visibility while driving. At noon, the vehicle stays pleasantly cool without needing maximum air conditioning. Since it gets dark at 17:00, enjoy the ride through the atmospheric evening glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Widosari kemuning",
+                "hu": "Pasar Widosari kemuning",
+                "ro": "Pasar Widosari kemuning",
+                "en": "Pasar Widosari kemuning"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frischen Morgen; das Auto bietet einen idealen Rückzugsort, um sich zwischen den Besuchen in der kühleren Winterluft kurz aufzuwärmen.",
+                "hu": "Élvezze a friss reggelt; az autó ideális menedéket nyújt, hogy két látogatás között kicsit átmelegedjen a hűvösebb téli levegő után.",
+                "ro": "Bucurați-vă de dimineața proaspătă; mașina oferă un refugiu ideal pentru a vă încălzi puțin între vizite după aerul mai rece de iarnă.",
+                "en": "Enjoy the fresh morning; the car provides an ideal retreat to warm up slightly between visits in the cooler winter air if needed."
+              }
+            },
+            {
+              "name": {
+                "de": "Relokasi Pasar Johar",
+                "hu": "Relokasi Pasar Johar",
+                "ro": "Relokasi Pasar Johar",
+                "en": "Relokasi Pasar Johar"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie strategisch, um die sanfte Wintersonne für Fotos der Marktfassade zu nutzen; die Lichtverhältnisse sind jetzt den ganzen Tag über stabil.",
+                "hu": "Parkoljon stratégiailag jó helyen, hogy kihasználja a lágy téli napsütést a piaci homlokzat fotózásához; a fényviszonyok most egész nap stabilak.",
+                "ro": "Parcați strategic pentru a profita de soarele blând de iarnă pentru fotografii ale fațadei pieței; condițiile de lumină sunt acum stabile toată ziua.",
+                "en": "Park strategically to take advantage of the soft winter sun for photos of the market facade; lighting conditions are stable throughout the day now."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pusat Perkembangan Islam Jawa Tengah",
+                "hu": "Közép-Jávai Iszlám Fejlődés Múzeuma",
+                "ro": "Muzeul Centrului de Dezvoltare Islamică Java Centrală",
+                "en": "Museum Pusat Perkembangan Islam Jawa Tengah"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in der Nähe des Haupteingangs, da der Besucherandrang im Winter oft geringer ist; planen Sie die Abfahrt vor 17:00 Uhr.",
+                "hu": "Használja a főbejárat közeli parkolókat, mivel télen gyakran kisebb a tömeg; tervezze meg az indulást a korai, 17:00-s sötétedés előtt.",
+                "ro": "Folosiți locurile de parcare de lângă intrarea principală, deoarece iarna aglomerația este mai mică; planificați plecarea înainte de ora 17:00.",
+                "en": "Use the parking spots near the main entrance as crowds are often smaller in winter; plan your departure before the early 17:00 darkness sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Patung & Taman",
+                "hu": "Studio Patung & Taman",
+                "ro": "Studio Patung & Taman",
+                "en": "Studio Patung & Taman"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt am späten Nachmittag bietet tolle Ausblicke auf den Sonnenuntergang; halten Sie die Kamera bereit, wenn das Licht um 16:45 Uhr golden wird.",
+                "hu": "A késő délutáni érkezés remek kilátást nyújt a naplementére; tartsa készenlétben a kamerát, amikor a fények 16:45 körül aranybarnára váltanak.",
+                "ro": "Sosirea târziu după-amiaza oferă vederi superbe asupra apusului; aveți camera pregătită când lumina devine aurie în jurul orei 16:45.",
+                "en": "Arriving late afternoon offers great views of the sunset; keep your camera ready for when the light turns golden around 16:45 in the garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Srondol",
+                "hu": "Pasar Srondol",
+                "ro": "Pasar Srondol",
+                "en": "Pasar Srondol"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt bergauf ist im Winter dank der kühleren Luft weniger belastend für den Motor; genießen Sie das Panorama auf dem Weg zum Markt.",
+                "hu": "A hegynek felfelé vezető út télen a hűvösebb levegő miatt kevésbé terheli a motort; élvezze a panorámát a piac felé vezető emelkedőn.",
+                "ro": "Drumul în pantă este mai puțin solicitant pentru motor iarna datorită aerului răcoros; bucurați-vă de panoramă pe drumul spre piață.",
+                "en": "The uphill drive is less stressful for the engine in winter thanks to the cooler air; enjoy the panorama on your way up to this market."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Rasamala",
+                "hu": "Pasar Rasamala",
+                "ro": "Pasar Rasamala",
+                "en": "Pasar Rasamala"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp kurz vor dem Sonnenuntergang ein; die tiefstehende Sonne beleuchtet die Straßenzüge in warmen, winterlichen Tönen.",
+                "hu": "Tervezze ezt a megállót közvetlenül naplemente elé; az alacsonyan járó nap meleg, téli tónusokkal világítja meg az utcasorokat a piac körül.",
+                "ro": "Planificați această oprire chiar înainte de apus; soarele aflat jos luminează străzile în tonuri calde de iarnă în jurul pieței.",
+                "en": "Plan this stop just before sunset; the low sun illuminates the streets in warm, wintery tones around the market area during your drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Damar",
+                "hu": "Pasar Damar",
+                "ro": "Pasar Damar",
+                "en": "Pasar Damar"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den Berufsverkehr, der im Winter durch die frühe Dunkelheit ab 17:00 Uhr hektischer wirken kann; genießen Sie die beleuchtete Stadt.",
+                "hu": "Ügyeljen a csúcsforgalomra, ami télen a korai, 17:00-s sötétedés miatt hektikusabbnak tűnhet; élvezze a kivilágított város látványát az autóból.",
+                "ro": "Atenție la traficul de vârf, care iarna poate părea mai hectic din cauza întunericului de la ora 17:00; admirați orașul iluminat din mașină.",
+                "en": "Watch out for rush hour traffic, which can seem more hectic in winter due to the early 17:00 darkness; enjoy the illuminated city views."
+              }
+            }
+          ]
+        }
       }
     }
   }

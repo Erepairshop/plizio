@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Keresztelő Szent János-templom békés történelmével, majd sétáljon el a lenyűgöző kéményhez. A dél a part felé viszi, ahol felfedezheti a Portheras Cove zord szépségét. Délután élvezze a Boat Cove apró, de működő kikötőjének egyedi tengeri hangulatát. Zárja az estét a Pendeen kilátónál, miközben a nap lassan lebukik az óceán horizontja mögött.",
         "ro": "Începeți dimineața absorbind istoria liniștită la Sfântul Ioan Botezătorul, urmată de o plimbare spre coșul de fum istoric. La prânz, mergeți spre coastă pentru a descoperi frumusețea izolată a golfului Portheras. După-amiaza, bucurați-vă de atmosfera maritimă pitorească de la Boat Cove. Încheiați seara la reperul Pendeen, privind apusul soarelui peste oceanul nemărginit.",
         "en": "Start your morning absorbing the tranquil history at St John the Baptist, followed by a short walk to see the striking historic Chimney. Midday takes you towards the coast to discover the secluded, rugged beauty of Portheras Cove. In the afternoon, enjoy the quaint, working maritime atmosphere at Boat Cove. Conclude your evening at the Pendeen landmark, watching the sun dip over the ocean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt geschützt in der St John the Baptist Kirche. Mittags führt der Weg am alten Schornstein vorbei, während der Nebel über die Felder zieht. Nachmittags erreichen Sie die dramatischen Buchten, wo die Brandung gegen die Klippen peitscht. Den Abschluss bildet Pendeen, dessen Leuchtfeuer im grauen Dunst eine mystische Atmosphäre schafft.",
+            "hu": "Az esős reggel a St John the Baptist templom óvó falai között indul. Délben a régi kémény mellett halad el az út, miközben a köd rátelepszik a tájra. Délután a part menti öblöket keressük fel, ahol az eső és a sós pára keveredik. A nap Pendeen környékén zárul, ahol a szürke égbolt alatt az atlanti partvidék vad arca mutatkozik meg.",
+            "ro": "O dimineață ploioasă începe la adăpost în biserica St John the Baptist. La prânz, drumul trece pe lângă vechiul coș de fum, în timp ce ceața se lasă peste câmpuri. După-amiaza ajungem la golfurile dramatice, unde valurile se sparg cu putere de stânci. Traseul se încheie la Pendeen, unde lumina farului străpunge atmosfera umedă și cenușie.",
+            "en": "A rainy morning begins under the shelter of St John the Baptist church. At noon, the path leads past the old chimney as mist rolls over the fields. In the afternoon, explore the dramatic coves where the rain meets the churning Atlantic surf. The day ends at Pendeen, where the grey skies enhance the raw, mystical beauty of the Cornish coastline."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St John the Baptist",
+                "hu": "St John the Baptist",
+                "ro": "Sfântul Ioan Botezătorul",
+                "en": "St John the Baptist"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schlichte Architektur und nutzen Sie die Stille für eine trockene Pause; ein Regenschirm ist für den kurzen Weg zum Eingang unverzichtbar.",
+                "hu": "Csodálja meg az egyszerű építészetet és élvezze a csendet egy száraz pihenő alatt; a bejárathoz vezető rövid úton is szüksége lesz egy jó esernyőre.",
+                "ro": "Admirați arhitectura simplă și bucurați-vă de liniște pentru o pauză uscată; o umbrelă este indispensabilă pentru drumul scurt până la intrare.",
+                "en": "Admire the simple architecture and use the quiet interior for a dry break; a sturdy umbrella is essential even for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chimney",
+                "hu": "Chimney",
+                "ro": "Coșul de fum",
+                "en": "Chimney"
+              },
+              "tip_5lang": {
+                "de": "Dieser Industrieschornstein wirkt im Regen besonders imposant; achten Sie auf dem unebenen Boden auf rutschige Steine und tiefe Pfützen.",
+                "hu": "Ez az ipari kémény esőben különösen impozáns látvány; a köves talajon ügyeljen a csúszós felületekre és a mélyebb pocsolyákra.",
+                "ro": "Acest coș industrial arată impunător în ploaie; aveți grijă la pietrele alunecoase și la bălțile adânci de pe terenul denivelat.",
+                "en": "This industrial chimney looks particularly imposing in the rain; watch out for slippery stones and deep puddles on the uneven ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Portheras Cove",
+                "hu": "Portheras Cove",
+                "ro": "Golful Portheras",
+                "en": "Portheras Cove"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht bietet bei Regen einen wilden Anblick der Natur; tragen Sie wasserfeste Wanderstiefel, da der Abstieg zum Strand sehr schlammig sein kann.",
+                "hu": "Az öböl esőben a természet vad arcát mutatja; viseljen vízálló túrabakancsot, mert a partra vezető lejtő ilyenkor nagyon sáros lehet.",
+                "ro": "Golful oferă o priveliște sălbatică pe timp de ploaie; purtați bocanci de munte impermeabili, deoarece coborârea spre plajă poate fi foarte noroioasă.",
+                "en": "The cove offers a wild natural spectacle in the rain; wear waterproof hiking boots as the descent to the beach can be very muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Boat Cove",
+                "hu": "Boat Cove",
+                "ro": "Golful Bărcilor",
+                "en": "Boat Cove"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Fischerboote im grauen Wasser schaukeln; suchen Sie unter den Felsvorsprüngen Schutz vor dem peitschenden Wind und Regen.",
+                "hu": "Figyelje meg a szürke vízen ringatózó halászcsónakokat; keressen menedéket a sziklakiszöggelések alatt a csapkodó szél és eső elől.",
+                "ro": "Observați bărcile de pescuit care se balansează în apa cenușie; căutați adăpost sub proeminențele stâncoase împotriva vântului și ploii.",
+                "en": "Watch the fishing boats bobbing in the grey water; seek shelter under the rock overhangs from the driving wind and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendeen",
+                "hu": "Pendeen",
+                "ro": "Reperul Pendeen",
+                "en": "Pendeen"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen ist oft in mystischen Nebel gehüllt; halten Sie Ihre Kamera mit einer Schutzfolie trocken für stimmungsvolle Aufnahmen der Küste.",
+                "hu": "A jellegzetes épületet gyakran misztikus köd borítja; tartsa a fényképezőgépét védőtokban a hangulatos, esős tengerparti fotók készítéséhez.",
+                "ro": "Clădirea emblematică este adesea învăluită în ceață mistică; păstrați aparatul foto uscat cu o folie pentru cadre atmosferice de pe coastă.",
+                "en": "The landmark is often shrouded in mystical mist; keep your camera dry with a protective cover for atmospheric shots of the rugged coast."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit Raureif an der St John the Baptist Kirche. Der Weg zum Schornstein führt durch die kühle, frische Brise Cornwalls. Mittags wärmen die Sonnenstrahlen an den Buchten nur schwach, aber das Licht ist perfekt für Fotos. Da es bereits gegen 17:00 Uhr dunkel wird, endet die Wanderung im stimmungsvollen Dämmerlicht von Pendeen.",
+            "hu": "A tiszta téli reggel zúzmarás tájjal indul a St John the Baptist templomnál. A kéményhez vezető út a friss, csípős cornwalli szélben halad. Délben a nap sugarai gyengén melengetnek az öblöknél, de a fények tökéletesek a fotózáshoz. Mivel 17:00 körül sötétedik, a túra Pendeen hangulatos szürkületi fényeiben ér véget.",
+            "ro": "O dimineață senină de iarnă începe cu promoroacă la biserica St John the Baptist. Drumul spre coșul de fum trece prin briza rece și proaspătă din Cornwall. La prânz, soarele încălzește slab la golfuri, dar lumina este perfectă pentru fotografii. Deoarece se întunecă în jurul orei 17:00, plimbarea se termină în amurgul de la Pendeen.",
+            "en": "A crisp winter morning begins with frost around St John the Baptist church. The walk to the chimney takes you through the fresh, biting Cornish breeze. At noon, the low sun provides weak warmth at the coves, but the light is perfect for photography. As darkness falls around 17:00, the walk ends in the atmospheric twilight of Pendeen."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St John the Baptist",
+                "hu": "St John the Baptist",
+                "ro": "Sfântul Ioan Botezătorul",
+                "en": "St John the Baptist"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windgeschützten Ort zur Besinnung; ziehen Sie mehrere Schichten Kleidung an, da das Steingebäude im Winter sehr kühl ist.",
+                "hu": "A templom szélvédett helyet kínál az elmélkedéshez; öltözzön rétegesen, mivel a kőépület a téli hónapokban belül is elég hűvös lehet.",
+                "ro": "Biserica oferă un loc ferit de vânt pentru reflecție; purtați mai multe straturi de haine, deoarece clădirea din piatră este rece iarna.",
+                "en": "The church offers a wind-sheltered spot for reflection; wear thermal layers as the stone building can be quite chilly inside during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chimney",
+                "hu": "Chimney",
+                "ro": "Coșul de fum",
+                "en": "Chimney"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast des Schornsteins gegen den tiefblauen Winterhimmel; eine warme Mütze schützt Sie vor dem kalten Wind auf dem Plateau.",
+                "hu": "Élvezze a kémény kontrasztját a mélykék téli égbolttal; egy meleg sapka elengedhetetlen a fennsíkon fújó hideg szél ellen.",
+                "ro": "Bucurați-vă de contrastul coșului pe fundalul cerului de iarnă; o căciulă călduroasă vă va proteja de vântul rece de pe platou.",
+                "en": "Enjoy the sharp contrast of the chimney against the deep blue winter sky; a warm hat is vital against the cold wind on the open plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Portheras Cove",
+                "hu": "Portheras Cove",
+                "ro": "Golful Portheras",
+                "en": "Portheras Cove"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Brandung ist hier besonders kraftvoll; bringen Sie eine Thermoskanne mit Tee mit, um sich beim Beobachten der Wellen aufzuwärmen.",
+                "hu": "A téli hullámverés itt különösen erőteljes; hozzon magával egy termosz meleg teát, hogy felmelegedjen a hatalmas hullámok bámulása közben.",
+                "ro": "Valurile de iarnă sunt deosebit de puternice aici; aduceți un termos cu ceai cald pentru a vă încălzi în timp ce admirați spectacolul mării.",
+                "en": "The winter surf is exceptionally powerful here; bring a thermos of hot tea to keep you warm while watching the massive Atlantic waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Boat Cove",
+                "hu": "Boat Cove",
+                "ro": "Golful Bărcilor",
+                "en": "Boat Cove"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt im Winterlicht fast unwirklich schön; achten Sie auf vereiste Stellen auf den Stufen, die zum Wasser hinunterführen.",
+                "hu": "Az öböl a téli fényekben szinte észbontóan szép; ügyeljen a jeges foltokra a vízhez vezető lépcsőkön és a sziklákon.",
+                "ro": "Golful arată ireal de frumos în lumina iernii; aveți grijă la porțiunile înghețate de pe treptele care coboară spre apă.",
+                "en": "The cove looks strikingly beautiful in the winter light; be careful of icy patches on the steps leading down towards the water edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendeen",
+                "hu": "Pendeen",
+                "ro": "Reperul Pendeen",
+                "en": "Pendeen"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Punkt vor 16:30 Uhr, um den winterlichen Sonnenuntergang zu erleben; Handschuhe sind für den Aufenthalt im Freien unerlässlich.",
+                "hu": "Érkezzen meg ide 16:30 előtt, hogy elcsípje a téli naplementét; a szabadban való tartózkodáshoz a kesztyű már elengedhetetlen.",
+                "ro": "Ajungeți aici înainte de 16:30 pentru a vedea apusul de iarnă; mănușile sunt esențiale pentru timpul petrecut în aer liber.",
+                "en": "Arrive here before 16:30 to catch the winter sunset; gloves are indispensable for spending time outdoors in the biting evening air."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpártúrát a békés Szent Brigitta-templomnál, mielőtt eltekerne az ősi és lenyűgöző Chûn Quoit dolmenhez. Délre már a Tregeseal Kőkör és a Carn Kenidjack misztikus energiáival ismerkedhet. A délutánt Cornwall gazdag ipari múltjának, a Geevor Ónbányának szentelheti. A napot a Hard Rock Múzeumban ritka ásványok felfedezésével fejezheti be egy tartalmas utazás végén.",
         "ro": "Începeți turul cu bicicleta la liniștita Biserică St Bridget înainte de a pedala spre fascinantul Chûn Quoit. La prânz, conectați-vă cu energiile mistice ale Cercului de Pietre Tregeseal și Carn Kenidjack. După-amiaza este dedicată istoriei industriale din Cornwall la uriașa Mină de Staniu Geevor. Încheiați ziua explorând minerale rare la muzeul impresionant Hard Rock Museum.",
         "en": "Kick off your cycling tour at the peaceful St Bridget's Church before pedaling to the ancient and fascinating Chûn Quoit. By midday, connect with the mystical energies of the Tregeseal East Stone Circle and Carn Kenidjack. Your afternoon is dedicated to Cornwall's rich industrial past at the sprawling Geevor Tin Mine. Finish the day exploring rare minerals at the Hard Rock Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt an der St Bridget's Church, wo der Regen auf das alte Dach trommelt. Über Chûn Quoit geht es weiter zu den Steinkreisen, die im Nebel verschwinden. Mittags erreichen Sie Carn Kenidjack, bevor die Geevor Zinnmine und das Hard Rock Museum am Nachmittag als perfekte, trockene Zufluchtsorte mit faszinierender Geschichte dienen.",
+            "hu": "Vizes biciklitúra indul a St Bridget's Church-tól, ahol az eső dobol a régi tetőn. Chûn Quoit és a kőkörök felé haladva a táj misztikus ködbe vész. Délben érjük el Carn Kenidjackot, majd délután a Geevor Ónbánya és a Hard Rock Múzeum tökéletes, száraz menedéket nyújt izgalmas történelmi tárlataival.",
+            "ro": "O tură cu bicicleta pe ploaie începe la biserica St Bridget, unde apa bate în acoperișul vechi. Mergem spre Chûn Quoit și cercurile de piatră care dispar în ceață. La prânz ajungem la Carn Kenidjack, iar după-amiaza mina Geevor și Muzeul Hard Rock oferă adăpostul perfect și uscat.",
+            "en": "A wet cycle tour starts at St Bridget's Church, with rain drumming on the ancient roof. Ride towards Chûn Quoit and the stone circles, which vanish into the mist. Reach Carn Kenidjack at noon, before the Geevor Tin Mine and Hard Rock Museum provide perfect, dry refuges with fascinating history in the afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Bridget's Church",
+                "hu": "Szent Brigitta-templom",
+                "ro": "Biserica Sfânta Bridget",
+                "en": "St Bridget's Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach der Kirche, um Ihre Regenbekleidung zu ordnen; die schmalen Wege zum Eingang können bei Nässe sehr rutschig sein.",
+                "hu": "Használja a templom előterét az esővédő ruházat igazítására; a bejárathoz vezető keskeny utak vizesen nagyon csúszósak lehetnek.",
+                "ro": "Folosiți pridvorul bisericii pentru a vă ajusta echipamentul de ploaie; potecile înguste pot fi foarte alunecoase când sunt ude.",
+                "en": "Use the church porch to adjust your rain gear; the narrow paths leading to the entrance can be very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Chûn Quoit",
+                "hu": "Chûn Quoit",
+                "ro": "Chûn Quoit",
+                "en": "Chûn Quoit"
+              },
+              "tip_5lang": {
+                "de": "Das Megalithgrab wirkt im Regen besonders archaisch; decken Sie Ihren Fahrradsattel ab, während Sie das Denkmal im freien Feld erkunden.",
+                "hu": "A megalitikus sír esőben különösen ősi hatást kelt; takarja le a biciklinyerget, amíg a nyílt mezőn található emlékművet vizsgálja.",
+                "ro": "Mormântul megalitic pare deosebit de arhaic în ploaie; acoperiți șaua bicicletei în timp ce explorați monumentul din câmpul deschis.",
+                "en": "The megalithic tomb looks especially archaic in the rain; cover your bike saddle while you explore the monument in the open field."
+              }
+            },
+            {
+              "name": {
+                "de": "Tregeseal East Stone Circle",
+                "hu": "Tregeseal Keleti Kőkör",
+                "ro": "Cercul de Pietre Tregeseal Est",
+                "en": "Tregeseal East Stone Circle"
+              },
+              "tip_5lang": {
+                "de": "Die Steine glänzen im Regen und wirken sehr mystisch; der Pfad hierher kann schlammig sein, fahren Sie vorsichtig mit niedrigerem Reifendruck.",
+                "hu": "A kövek csillognak az esőben és nagyon misztikusak; az idevezető út sáros lehet, hajtson óvatosan, esetleg alacsonyabb guminyomással.",
+                "ro": "Pietrele strălucesc în ploaie și par foarte mistice; poteca poate fi noroioasă, pedalați cu atenție și eventual cu presiune mică în pneuri.",
+                "en": "The stones glisten in the rain and look very mystical; the path here can be muddy, so ride carefully with slightly lower tire pressure."
+              }
+            },
+            {
+              "name": {
+                "de": "Carn Kenidjack",
+                "hu": "Carn Kenidjack",
+                "ro": "Carn Kenidjack",
+                "en": "Carn Kenidjack"
+              },
+              "tip_5lang": {
+                "de": "Dieser sagenumwobene Ort ist bei Gewitter zu meiden; tragen Sie eine helle Warnweste, um bei schlechter Sicht für Autofahrer sichtbar zu bleiben.",
+                "hu": "Ezt a legendás helyet viharban érdemes elkerülni; viseljen láthatósági mellényt, hogy a rossz látási viszonyok között is észrevegyék az autósok.",
+                "ro": "Acest loc legendar trebuie evitat pe timp de furtună; purtați o vestă reflectorizantă pentru a fi vizibil șoferilor în condiții de vizibilitate redusă.",
+                "en": "Avoid this legendary high spot during thunderstorms; wear a high-visibility vest to remain seen by drivers in poor visibility conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Geevor Tin Mine",
+                "hu": "Geevor Ónbánya",
+                "ro": "Mina de Staniu Geevor",
+                "en": "Geevor Tin Mine"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um dem Regen für längere Zeit zu entfliehen; nutzen Sie die Schließfächer, um Ihre nassen Fahrradtaschen sicher zu verstauen.",
+                "hu": "Ideális hely, hogy hosszabb időre elmeneküljön az eső elől; használja az értékmegőrzőket a vizes táskák biztonságos tárolására.",
+                "ro": "Un loc ideal pentru a scăpa de ploaie pentru o perioadă mai lungă; folosiți dulapurile pentru a vă depozita în siguranță gențile ude de bicicletă.",
+                "en": "An ideal place to escape the rain for a longer period; use the lockers to store your wet panniers safely while you tour the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Hard Rock Museum",
+                "hu": "Hard Rock Múzeum",
+                "ro": "Muzeul Hard Rock",
+                "en": "Hard Rock Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die Geologie ein, während es draußen stürmt; wärmen Sie sich im Café auf, bevor Sie die Heimreise im Regen antreten.",
+                "hu": "Merüljön el a geológiában, amíg kint tombol a vihar; melegedjen fel a kávézóban, mielőtt nekivágna az esős hazaútnak.",
+                "ro": "Explorați geologia în detaliu în timp ce afară plouă torențial; încălziți-vă la cafenea înainte de a porni pe drumul de întoarcere.",
+                "en": "Dive deep into geology while it storms outside; warm up in the café before you start your return journey in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der St Bridget's Church, während der Atem in der kalten Luft gefriert. Die Fahrt zum Chûn Quoit und den Steinkreisen bietet klare Fernsichten über das winterliche Cornwall. Nach dem kühlen Carn Kenidjack bieten die Zinnmine und das Museum am Nachmittag die nötige Wärme und faszinierende Einblicke, bevor die Dunkelheit früh hereinbricht.",
+            "hu": "Fagyos reggel indul a St Bridget's Church-nál, ahol a lehelet látszik a hideg levegőben. A Chûn Quoit és a kőkörök felé tartva tiszta kilátás nyílik a téli Cornwallra. A hűvös Carn Kenidjack után az ónbánya és a múzeum délutáni látogatása nyújt meleget és élményeket, mielőtt korán beköszönt az este.",
+            "ro": "O dimineață geroasă începe la biserica St Bridget, cu respirația înghețând în aerul rece. Drumul spre Chûn Quoit și cercurile de piatră oferă vederi clare asupra Cornwall-ului de iarnă. După Carn Kenidjack, mina de staniu și muzeul oferă căldura necesară după-amiaza, înainte de lăsarea serii.",
+            "en": "A frosty morning starts at St Bridget's Church, with your breath visible in the biting air. Cycling to Chûn Quoit and the stone circles offers clear views over wintery Cornwall. After the cold Carn Kenidjack, the tin mine and museum provide warmth and fascinating insights before the early winter darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Bridget's Church",
+                "hu": "Szent Brigitta-templom",
+                "ro": "Biserica Sfânta Bridget",
+                "en": "St Bridget's Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor dem beißenden Winterwind; tragen Sie Thermo-Fahrradhandschuhe, da die Finger beim Bremsen schnell auskühlen.",
+                "hu": "A templom védelmet nyújt a metsző téli szél ellen; viseljen thermo kerékpáros kesztyűt, mert az ujjak fékezés közben gyorsan áthűlnek.",
+                "ro": "Biserica oferă protecție împotriva vântului tăios de iarnă; purtați mănuși termice, deoarece degetele îngheață repede la frânare.",
+                "en": "The church provides shelter from the biting winter wind; wear thermal cycling gloves as fingers cool down quickly when braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Chûn Quoit",
+                "hu": "Chûn Quoit",
+                "ro": "Chûn Quoit",
+                "en": "Chûn Quoit"
+              },
+              "tip_5lang": {
+                "de": "Das Monument steht imposant in der kargen Winterlandschaft; achten Sie auf Raureif auf dem Pfad, der die Fahrt zum Hügel rutschig machen kann.",
+                "hu": "Az emlékmű impozánsan áll a kopár téli tájban; ügyeljen a zúzmarára az úton, ami csúszóssá teheti a dombra való feljutást.",
+                "ro": "Monumentul stă impunător în peisajul sterp de iarnă; atenție la chiciura de pe drum, care poate face urcarea spre deal alunecoasă.",
+                "en": "The monument stands imposingly in the barren winter landscape; watch for frost on the track, which can make the climb to the hill slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Tregeseal East Stone Circle",
+                "hu": "Tregeseal Keleti Kőkör",
+                "ro": "Cercul de Pietre Tregeseal Est",
+                "en": "Tregeseal East Stone Circle"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Stille der prähistorischen Stätte im Winter; tragen Sie eine winddichte Jacke, da es auf dem offenen Feld extrem auskühlen kann.",
+                "hu": "Tapasztalja meg a preh裝tori helyszín téli csendjét; viseljen szélálló kabátot, mert a nyílt mezőn rendkívül lehűlhet a levegő.",
+                "ro": "Experimentați liniștea sitului preistoric iarna; purtați o jachetă rezistentă la vânt, deoarece câmpul deschis poate fi extrem de rece.",
+                "en": "Experience the silence of the prehistoric site in winter; wear a windproof jacket as it can get extremely cold in the open fields."
+              }
+            },
+            {
+              "name": {
+                "de": "Carn Kenidjack",
+                "hu": "Carn Kenidjack",
+                "ro": "Carn Kenidjack",
+                "en": "Carn Kenidjack"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht vom Hügel ist bei klarer Winterluft phänomenal; bringen Sie Taschenwärmer für Ihre Hände mit, um nach der Abfahrt warm zu bleiben.",
+                "hu": "A kilátás a dombról a tiszta téli levegőben fenomenális; vigyen magával kézmelegítőt, hogy a lejtmenet után is melegen tartsa ujjait.",
+                "ro": "Priveliștea de pe deal este fenomenală în aerul curat de iarnă; aduceți încălzitoare de mâini pentru a rămâne cald după coborâre.",
+                "en": "The view from the hill is phenomenal in the clear winter air; bring hand warmers to keep your fingers warm after the chilly descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Geevor Tin Mine",
+                "hu": "Geevor Ónbánya",
+                "ro": "Mina de Staniu Geevor",
+                "en": "Geevor Tin Mine"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Ausstellungsräume für eine längere Aufwärmpause; das Licht im Bergwerk ist unabhängig von der frühen Winterdämmerung.",
+                "hu": "Használja a fűtött kiállítótereket egy hosszabb melegedő szünetre; a bánya fényei függetlenek a korai téli sötétedéstől.",
+                "ro": "Folosiți spațiile de expoziție încălzite pentru o pauză lungă; lumina din mină este constantă, indiferent de amurgul timpuriu de iarnă.",
+                "en": "Take advantage of the heated exhibition spaces for a long warm-up break; the mine lighting is independent of the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Hard Rock Museum",
+                "hu": "Hard Rock Múzeum",
+                "ro": "Muzeul Hard Rock",
+                "en": "Hard Rock Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss, bevor die Sonne gegen 17:00 Uhr untergeht; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg bereit ist.",
+                "hu": "Tökéletes zárás, mielőtt 17:00 körül lemegy a nap; győződjön meg róla, hogy a kerékpár lámpái készen állnak a sötétben való hazaútra.",
+                "ro": "Un final perfect înainte de apusul soarelui de la ora 17:00; asigurați-vă că luminile bicicletei sunt pregătite pentru drumul de întoarcere.",
+                "en": "A perfect finish before the sun sets around 17:00; ensure your bike lights are fully charged and ready for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen kora reggel a mocsárvidékre, hogy a reggeli fényben csodálja meg a Chûn Quoit-t és a Tregeseal Kőkört. Délben a Keresztelő Szent János-templom mellett elhaladva a Higher Bal Engine romjaihoz ér. A délutánt a Kompresszorház és a történelmi Arzénpörkölő megtekintésével töltheti. Zárja átfogó túráját egy kellemes, pihentető esti tengerparti sétával a Portheras Cove partján.",
         "ro": "Conduceți devreme spre mlaștini pentru a vedea Chûn Quoit și Cercul de Pietre Tregeseal în lumina dimineții. Prânzul vă aduce pe lângă Sf. Ioan Botezătorul la ruinele motorului Higher Bal. Petreceți după-amiaza inspectând fascinanta Casă a Compresorului și Calcinatorul de Arsenic istoric. Încheiați acest tur cuprinzător cu o plimbare relaxantă de seară pe plaja golfului Portheras.",
         "en": "Drive early to the sweeping moors to witness the ancient Chûn Quoit and Tregeseal East Stone Circle in the morning light. Midday brings you past St John the Baptist to the imposing ruins of the Higher Bal Engine. Spend your afternoon inspecting the fascinating Compressor House and the historic Arsenic Calciner. Wrap up your comprehensive tour with a relaxing evening walk at Portheras Cove."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Cornwall lässt sich am besten mit dem Auto erkunden. Vormittags besuchen Sie die mystischen Steine und Kirchen, während Sie im trockenen Fahrzeug sitzen. Mittags erkunden Sie die historischen Maschinenhäuser, die bei Regen besonders dramatisch wirken. Den Nachmittag verbringen Sie an der Küste, wo Sie die stürmische See sicher vom Auto aus beobachten können.",
+            "hu": "Egy esős cornwalli napot a legjobb autóval felfedezni. Délelőtt a misztikus köveket és templomokat látogatjuk meg, miközben a száraz autóban ülünk. Délben a történelmi gépházakat fedezzük fel, amelyek esőben különösen drámai hatást keltenek. A délutánt a tengerparton töltjük, ahol a viharos tengert biztonságban, az autóból is megcsodálhatjuk.",
+            "ro": "O zi ploioasă în Cornwall este cel mai bine explorată cu mașina. Dimineața vizităm pietrele mistice și bisericile, stând confortabil în vehicul. La prânz explorăm casele mașinilor istorice, care par deosebit de dramatice pe ploaie. După-amiaza o petrecem pe coastă, unde putem admira marea înfuriată în siguranță din mașină.",
+            "en": "A rainy day in Cornwall is best explored by car. In the morning, visit mystical stones and churches while staying dry inside your vehicle. At noon, explore the historic engine houses, which look particularly dramatic in the rain. Spend the afternoon on the coast, where you can safely admire the stormy Atlantic from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chûn Quoit",
+                "hu": "Chûn Quoit",
+                "ro": "Chûn Quoit",
+                "en": "Chûn Quoit"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich und warten Sie einen Regenschauer im Auto ab; der Weg zum Quoit kann bei Nässe sehr rutschig und schlammig sein.",
+                "hu": "Parkoljon a lehető legközelebb, és várja meg az autóban a nagyobb záporok végét; az emlékműhöz vezető út vizesen csúszós és sáros lehet.",
+                "ro": "Parcați cât mai aproape și așteptați trecerea ploii în mașină; drumul spre monument poate fi foarte alunecos și noroios când este ud.",
+                "en": "Park as close as possible and wait out heavy showers in the car; the path to the Quoit can be very slippery and muddy when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Tregeseal East Stone Circle",
+                "hu": "Tregeseal Keleti Kőkör",
+                "ro": "Cercul de Pietre Tregeseal Est",
+                "en": "Tregeseal East Stone Circle"
+              },
+              "tip_5lang": {
+                "de": "Die Steine wirken im Regen sehr atmosphärisch; fahren Sie vorsichtig auf den schmalen Zufahrtswegen, da sich dort große Pfützen bilden können.",
+                "hu": "A kövek esőben nagyon hangulatosak; óvatosan hajtson a keskeny bekötőutakon, mert ott ilyenkor hatalmas pocsolyák alakulhatnak ki.",
+                "ro": "Pietrele sunt foarte atmosferice în ploaie; conduceți cu atenție pe drumurile înguste de acces, deoarece se pot forma bălți mari.",
+                "en": "The stones are very atmospheric in the rain; drive carefully on the narrow access roads, as large puddles can form quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "St John the Baptist",
+                "hu": "St John the Baptist",
+                "ro": "Sfântul Ioan Botezătorul",
+                "en": "St John the Baptist"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine trockene Pause im Innenraum; nutzen Sie den Schirm für den kurzen Weg vom Parkplatz zum Kircheneingang.",
+                "hu": "Ideális hely egy száraz pihenőhöz a belső térben; használjon esernyőt a parkolótól a templombejáratig tartó rövid szakaszon.",
+                "ro": "Un loc ideal pentru o pauză uscată în interior; folosiți umbrela pentru drumul scurt de la parcare până la intrarea în biserică.",
+                "en": "An ideal spot for a dry break indoors; use an umbrella for the short walk from the parking area to the church entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Higher Bal Engine and Boiler House",
+                "hu": "Higher Bal Motor- és Kazánház",
+                "ro": "Casa Motorului Higher Bal",
+                "en": "Higher Bal Engine and Boiler House"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten teilweise Schutz vor direktem Regen; tragen Sie festes Schuhwerk, da das Gelände um die Ruinen oft unter Wasser steht.",
+                "hu": "A romok részben védelmet nyújtanak a közvetlen eső ellen; viseljen strapabíró cipőt, mert a romok körüli terület gyakran vízben áll.",
+                "ro": "Ruinele oferă parțial adăpost împotriva ploii directe; purtați încălțăminte rezistentă, deoarece zona din jur este adesea inundată.",
+                "en": "The ruins offer partial shelter from direct rain; wear sturdy shoes as the ground around the remains is often waterlogged."
+              }
+            },
+            {
+              "name": {
+                "de": "Compressor House",
+                "hu": "Kompresszorház",
+                "ro": "Casa Compresorului",
+                "en": "Compressor House"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die industrielle Geschichte Cornwalls im Schutz der dicken Mauern; achten Sie auf Tropfwasser von den alten Deckenkonstruktionen.",
+                "hu": "Fedezze fel Cornwall ipari múltját a vastag falak védelmében; ügyeljen a régi tetőszerkezetekről lecsöpögő vízre és a nedves padlóra.",
+                "ro": "Explorați istoria industrială sub protecția zidurilor groase; atenție la apa care picură din vechile structuri ale acoperișului.",
+                "en": "Explore Cornwall's industrial past under the protection of thick walls; watch out for water dripping from old ceiling structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Arsenic Calciner",
+                "hu": "Arzénpörkölő",
+                "ro": "Calcinator de Arsenic",
+                "en": "Arsenic Calciner"
+              },
+              "tip_5lang": {
+                "de": "Die düstere Geschichte passt perfekt zum grauen Regenwetter; nutzen Sie die Zeit für Fotos, wenn der Regen kurzzeitig etwas nachlässt.",
+                "hu": "A sötét történelmi háttér tökéletesen illik a szürke esős időhöz; használja ki a rövidebb esőszüneteket a külső fotók készítésére.",
+                "ro": "Istoria sumbră se potrivește perfect cu vremea cenușie și ploioasă; profitați de pauzele scurte de ploaie pentru a face fotografii.",
+                "en": "The dark history fits perfectly with the grey rainy weather; take advantage of short breaks in the rain for outdoor photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Portheras Cove",
+                "hu": "Portheras Cove",
+                "ro": "Golful Portheras",
+                "en": "Portheras Cove"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Naturschauspiel bequem vom beheizten Auto aus; der Weg zur Bucht ist bei starkem Regen für Fahrzeuge gesperrt.",
+                "hu": "Csodálja meg a természet erejét a fűtött autó kényelméből; az öbölhöz vezető út erős esőzés idején járművel nehezen járható.",
+                "ro": "Admirați spectacolul naturii din confortul mașinii încălzite; drumul spre golf poate fi dificil pentru vehicule în timpul ploilor torențiale.",
+                "en": "Admire the natural spectacle from the comfort of your heated car; the access road to the cove can be tricky for vehicles in heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Cornwall bietet dramatische Ausblicke. Der Morgen beginnt frostig an den Steinkreisen, bevor Sie sich im Auto auf dem Weg zur Kirche aufwärmen. Mittags besichtigen Sie die Bergbaugeschichte in der klaren Wintersonne. Da die Dämmerung bereits gegen 16:30 Uhr einsetzt, genießen Sie den Sonnenuntergang an der Küste sicher und warm vom Fahrersitz aus.",
+            "hu": "Egy téli autós kirándulás Cornwallban drámai kilátásokat kínál. A reggel fagyosan indul a kőköröknél, majd az autóban felmelegedhet a templom felé vezető úton. Délben a bányászati múltat tekintjük meg a tiszta téli napsütésben. Mivel 16:30 körül már szürkület van, a tengerparti naplementét biztonságban és melegben élvezheti az autóból.",
+            "ro": "O plimbare de iarnă cu mașina prin Cornwall oferă vederi dramatice. Dimineața începe geros la cercurile de piatră, apoi vă puteți încălzi în mașină spre biserică. La prânz vizităm istoria minieră în soarele curat de iarnă. Deoarece amurgul începe în jurul orei 16:30, savurați apusul de pe coastă la căldură, din mașină.",
+            "en": "A winter drive through Cornwall offers dramatic coastal views. The morning starts frosty at the stone circles before you warm up in the car on the way to the church. At noon, visit the mining heritage sites in the crisp winter sun. As dusk begins around 16:30, enjoy the coastal sunset safely and warmly from your driver's seat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chûn Quoit",
+                "hu": "Chûn Quoit",
+                "ro": "Chûn Quoit",
+                "en": "Chûn Quoit"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den klaren Blick auf das Monument ohne Sommergäste; schalten Sie die Standheizung ein, während Sie kurz für Fotos aussteigen.",
+                "hu": "Élvezze az emlékmű tiszta látványát a nyári tömeg nélkül; hagyja bekapcsolva a fűtést, amíg kiszáll egy-két gyors fotó kedvéért.",
+                "ro": "Bucurați-vă de vederea clară asupra monumentului fără mulțimile de vară; lăsați căldura pornită în timp ce coborâți scurt pentru poze.",
+                "en": "Enjoy the clear view of the monument without summer crowds; keep the car heater running while you hop out briefly for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Tregeseal East Stone Circle",
+                "hu": "Tregeseal Keleti Kőkör",
+                "ro": "Cercul de Pietre Tregeseal Est",
+                "en": "Tregeseal East Stone Circle"
+              },
+              "tip_5lang": {
+                "de": "Die Steine wirken im tiefstehenden Winterlicht sehr langgestreckt; achten Sie auf gefrorene Pfützen auf den unbefestigten Parkplätzen.",
+                "hu": "A kövek a laposan beeső téli fényben nagyon hosszú árnyékot vetnek; ügyeljen a befagyott pocsolyákra a burkolatlan parkolóhelyeken.",
+                "ro": "Pietrele par foarte alungite în lumina joasă a iernii; atenție la bălțile înghețate din zonele de parcare neasfaltate.",
+                "en": "The stones cast long, dramatic shadows in the low winter light; watch out for frozen puddles in the unpaved parking areas."
+              }
+            },
+            {
+              "name": {
+                "de": "St John the Baptist",
+                "hu": "St John the Baptist",
+                "ro": "Sfântul Ioan Botezătorul",
+                "en": "St John the Baptist"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte, ziehen Sie sich warm an; die Parkplatzsuche ist im Winter aufgrund weniger Besucher sehr einfach.",
+                "hu": "A vastag falak tartják a hideget, öltözzön fel jól a látogatáshoz; a téli időszakban a kevesebb látogató miatt nagyon könnyű parkolni.",
+                "ro": "Zidurile groase mențin frigul, deci îmbrăcați-vă bine; iarna este foarte ușor de parcat datorită numărului redus de vizitatori.",
+                "en": "The thick stone walls hold the cold, so dress warmly for the visit; parking is very easy in winter due to fewer visitors in the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Higher Bal Engine and Boiler House",
+                "hu": "Higher Bal Motor- és Kazánház",
+                "ro": "Casa Motorului Higher Bal",
+                "en": "Higher Bal Engine and Boiler House"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken gegen den Winterhimmel besonders scharf gezeichnet; tragen Sie griffige Schuhe für den Weg vom Parkplatz zu den Gebäuden.",
+                "hu": "A romok a téli égbolttal szemben különösen éles kontúrral bírnak; viseljen jó tapadású cipőt a parkolótól az épületekig tartó úton.",
+                "ro": "Ruinele arată foarte clar pe fundalul cerului de iarnă; purtați pantofi cu aderență bună pentru drumul de la parcare la clădiri.",
+                "en": "The ruins look particularly sharp against the winter sky; wear shoes with good grip for the short walk from the car to the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Compressor House",
+                "hu": "Kompresszorház",
+                "ro": "Casa Compresorului",
+                "en": "Compressor House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Gebäude als Windschutz für Erkundungen im Freien; eine Thermoskanne mit Kaffee im Auto sorgt für die nötige Wärme zwischendurch.",
+                "hu": "Használja az épületet szélfogónak a szabadtéri felfedezéshez; egy termosz kávé az autóban biztosítja a szükséges belső meleget.",
+                "ro": "Folosiți clădirea ca paravan împotriva vântului pentru explorările externe; un termos cu cafea în mașină vă va oferi căldura necesară.",
+                "en": "Use the building as a windbreak for outdoor exploration; a thermos of hot coffee in the car provides much-needed warmth between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Arsenic Calciner",
+                "hu": "Arzénpörkölő",
+                "ro": "Calcinator de Arsenic",
+                "en": "Arsenic Calciner"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag ist hier im Winter oft spektakulär; stellen Sie sicher, dass Ihre Autobatterie bei der Kälte gut funktioniert.",
+                "hu": "A késő délutáni fények itt télen gyakran lenyűgözőek; győződjön meg róla, hogy az autó akkumulátora jól bírja a téli hideget.",
+                "ro": "Lumina de după-amiază târzie este adesea spectaculoasă aici iarna; asigurați-vă că bateria mașinii funcționează bine la temperaturi joase.",
+                "en": "The late afternoon light is often spectacular here in winter; ensure your car battery is in good condition for the cold weather starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Portheras Cove",
+                "hu": "Portheras Cove",
+                "ro": "Golful Portheras",
+                "en": "Portheras Cove"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 16:30 Uhr direkt von der Klippenstraße aus; bleiben Sie für maximale Wärme einfach im Auto sitzen.",
+                "hu": "Figyelje meg a korai, 16:30 körüli naplementét közvetlenül a sziklák melletti útról; a maximális meleg érdekében maradjon az autóban.",
+                "ro": "Urmăriți apusul timpuriu de la ora 16:30 direct de pe drumul de lângă stânci; rămâneți în mașină pentru a beneficia de căldură maximă.",
+                "en": "Watch the early sunset around 16:30 directly from the cliff-side road; simply stay inside the car to enjoy the view while remaining warm."
+              }
+            }
+          ]
+        }
       }
     }
   }

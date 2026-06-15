@@ -137,6 +137,168 @@
         "hu": "Kezdje a kényelmes sétát Lapide Pasteria szívében a bájos San Giuseppe templomnál, és élvezze a reggeli nyugalmat.\n\nIrány a part, hogy felfedezze a környék természeti szépségeit, élvezve a tengerparti szellőt a Spiaggia di San Marco-nál.\n\nFolytassa a tengerparti felfedezést a Lido Mare Kambo strandon, ahol a tiszta vízparton pihenhet, mielőtt visszatérne a szárazföldre.\n\nZárja a napot a Madonna del Rosario templom békés meglátogatásával, visszagondolva a természet és a történelem gyönyörű keverékére.",
         "ro": "Începeți plimbarea relaxantă în inima Lapide Pasteria la fermecătoarea Biserică San Giuseppe, bucurându-vă de liniștea dimineții.\n\nÎndreptați-vă spre coastă pentru a descoperi frumusețea naturală, bucurându-vă de briza la Spiaggia di San Marco și în rezervația naturală.\n\nContinuați explorarea coastei la Lido Mare Kambo, unde vă puteți relaxa lângă apele limpezi înainte de a vă întoarce spre interior.\n\nÎncheiați ziua cu o vizită liniștită la Chiesa della Madonna del Rosario, reflectând la amestecul frumos de natură și istorie.",
         "en": "Begin your leisurely walk in the heart of Lapide Pasteria at the charming Chiesa di San Giuseppe, soaking in the morning tranquility.\n\nHead towards the coast to discover the natural beauty of the area, enjoying the coastal breezes at Spiaggia di San Marco and the serene nature reserve.\n\nContinue your coastal exploration at Lido Mare Kambo, where you can relax by the clear waters before heading back inland.\n\nConclude your day trip with a peaceful visit to Chiesa della Madonna del Rosario, reflecting on the beautiful blend of nature and history experienced today."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Stille von San Giuseppe. Mittags bietet der Strand von San Marco trotz Regen eine dramatische Kulisse, während die Wege rutschig werden. Am Nachmittag erleben Sie das Fiumefreddo-Reservat unter dem dichten Blätterdach fast trocken. Der Abend endet friedlich in der Madonna del Rosario, einem perfekten Rückzugsort vor dem nassen Wetter.",
+            "hu": "A reggel a San Giuseppe templom védelmében indul az eső elől. Délben a San Marco tengerpart drámai arcát mutatja a szürke ég alatt, de a kövek csúszósak. Délután a Fiumefreddo rezervátum sűrű növényzete természetes ernyőt nyújt a szemerkélésben. Az este a Madonna del Rosario templom meghitt és száraz belső terében ér véget, távol a kültéri sártól és víztől.",
+            "ro": "Dimineața începe la adăpost în liniștea bisericii San Giuseppe. La prânz, plaja San Marco oferă un peisaj dramatic sub ploaie, deși potecile devin alunecoase. După-amiaza, rezervația Fiumefreddo oferă protecție naturală sub baldachinul de copaci. Seara se încheie liniștit la Madonna del Rosario, un refugiu perfect împotriva vremii umede și a vântului de coastă.",
+            "en": "The morning begins sheltered in the silence of San Giuseppe. At noon, San Marco beach offers a dramatic backdrop under the rain, though paths can be slippery. In the afternoon, the Fiumefreddo reserve provides natural cover under its thick canopy. The evening ends peacefully at Madonna del Rosario, a perfect indoor sanctuary to escape the wet weather and chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocken Details im Trockenen; nutzen Sie die Vorhalle, um Ihren Regenschirm auszuschütteln, bevor Sie eintreten.",
+                "hu": "Csodálja meg a barokk részleteket a száraz belsőben; rázza le az esernyőjét az előtérben, mielőtt belépne a szentélybe.",
+                "ro": "Admirați detaliile baroce la adăpost; folosiți pridvorul pentru a scutura umbrela înainte de a intra în spațiul sacru.",
+                "en": "Admire the baroque details while staying dry; use the porch to shake off your umbrella before entering the sacred space."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di San Marco",
+                "hu": "Spiaggia di San Marco",
+                "ro": "Spiaggia di San Marco",
+                "en": "Spiaggia di San Marco"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Rauschen der Wellen von der Ufermauer aus; tragen Sie wasserfeste Schuhe wegen der großen Pfützen am Kiesstrand.",
+                "hu": "Élvezze a hullámok morajlását a partfalról; viseljen vízálló cipőt a kavicsos parton kialakuló pocsolyák miatt.",
+                "ro": "Bucurați-vă de vuietul valurilor de pe dig; purtați încălțăminte impermeabilă din cauza bălților mari de pe plaja cu pietriș.",
+                "en": "Enjoy the roar of the waves from the sea wall; wear waterproof shoes due to large puddles forming on the pebble beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "hu": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "ro": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "en": "Riserva Naturale Orientata Fiume Fiumefreddo"
+              },
+              "tip_5lang": {
+                "de": "Die üppige Flora glänzt im Regen besonders intensiv; bleiben Sie auf den Holzstegen, da die Erdpfade sehr schlammig sein können.",
+                "hu": "A dús flóra különösen intenzíven ragyog az esőben; maradjon a fapallókon, mert a földutak nagyon sarasak lehetnek.",
+                "ro": "Flora luxuriantă strălucește intens în ploaie; rămâneți pe platformele de lemn, deoarece potecile de pământ pot fi noroioase.",
+                "en": "The lush flora shines intensely in the rain; stay on the wooden boardwalks as the dirt paths can become very muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Mare Kambo",
+                "hu": "Lido Mare Kambo",
+                "ro": "Lido Mare Kambo",
+                "en": "Lido Mare Kambo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das graue Meer von der überdachten Terrasse aus; halten Sie eine Regenjacke für den windigen Uferabschnitt bereit.",
+                "hu": "Figyelje a szürke tengert a fedett teraszról; tartson készenlétben esőkabátot a szeles parti szakaszhoz.",
+                "ro": "Observați marea gri de pe terasa acoperită; pregătiți o pelerină de ploaie pentru secțiunea de țărm expusă vântului.",
+                "en": "Watch the grey sea from the covered terrace area; keep a raincoat ready for the windy coastal section of the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna del Rosario",
+                "hu": "Chiesa della Madonna del Rosario",
+                "ro": "Chiesa della Madonna del Rosario",
+                "en": "Chiesa della Madonna del Rosario"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in der warmen Atmosphäre der Kirche; trocknen Sie Ihre Ausrüstung in den hinteren Sitzreihen ab.",
+                "hu": "Zárja a napot a templom meleg atmoszférájában; szárítsa meg felszerelését a hátsó padsorokban pihenve.",
+                "ro": "Încheiați ziua în atmosfera caldă a bisericii; lăsați echipamentul să se usuce în timp ce vă odihniți în băncile din spate.",
+                "en": "End your day in the warm atmosphere of the church; let your gear dry off while resting in the back pews."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen begrüßt Sie in San Giuseppe. Der Spaziergang am leeren Strand von San Marco ist bei klarer Luft besonders belebend. Nachmittags zeigt sich das Fiumefreddo-Reservat in seiner ruhigen, winterlichen Pracht. Da die Sonne bereits gegen 17:00 Uhr sinkt, bietet die Madonna del Rosario einen stimmungsvollen und wärmenden Abschluss des Tages.",
+            "hu": "Friss téli reggel köszönti Önt a San Giuseppe templomnál. A séta az üres San Marco tengerparton a tiszta levegőben különösen élénkítő. Délután a Fiumefreddo rezervátum csendes, téli pompáját mutatja. Mivel a nap már 17:00 körül lebukik, a Madonna del Rosario templom hangulatos és melengető lezárást nyújt a hűvös nap végén.",
+            "ro": "O dimineață răcoroasă de iarnă vă întâmpină la San Giuseppe. Plimbarea pe plaja goală San Marco este revigorantă datorită aerului curat. După-amiaza, rezervația Fiumefreddo își arată splendoarea liniștită de iarnă. Deoarece soarele apune deja în jur de ora 17:00, Madonna del Rosario oferă un final atmosferic și călduros al zilei.",
+            "en": "A crisp winter morning welcomes you to San Giuseppe. Walking along the empty San Marco beach in the clear air is especially invigorating. In the afternoon, the Fiumefreddo reserve shows its quiet, wintry splendor. As the sun sets around 5:00 PM, Madonna del Rosario provides an atmospheric and warming conclusion to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne Touristenmassen; tragen Sie eine warme Mütze, da es in den hohen Kirchenschiffen ziehen kann.",
+                "hu": "Élvezze a nyugalmat turistatömegek nélkül; viseljen meleg sapkát, mert a magas templomhajókban huzat lehet.",
+                "ro": "Bucurați-vă de liniște fără mulțimi de turiști; purtați o căciulă caldă, deoarece în navele înalte poate fi curent.",
+                "en": "Enjoy the tranquility without tourist crowds; wear a warm hat as the high church aisles can be quite drafty."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di San Marco",
+                "hu": "Spiaggia di San Marco",
+                "ro": "Spiaggia di San Marco",
+                "en": "Spiaggia di San Marco"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit des Ionischen Meeres; eine winddichte Jacke ist für den Aufenthalt am offenen Ufer unerlässlich.",
+                "hu": "Tapasztalja meg a Jón-tenger nyers szépségét; egy szélálló dzseki elengedhetetlen a nyitott parton való tartózkodáshoz.",
+                "ro": "Experimentați frumusețea brută a Mării Ionice; o jachetă rezistentă la vânt este esențială pe malul deschis al mării.",
+                "en": "Experience the raw beauty of the Ionian Sea; a windproof jacket is essential for staying on the open shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "hu": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "ro": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "en": "Riserva Naturale Orientata Fiume Fiumefreddo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die selteneren Wintervögel am Fluss; tragen Sie mehrere Schichten Kleidung wegen der hohen Luftfeuchtigkeit im Tal.",
+                "hu": "Figyelje meg a folyónál telelő ritka madarakat; öltözzön rétegesen a völgyben tapasztalható magas páratartalom miatt.",
+                "ro": "Observați păsările rare care iernează la râu; îmbrăcați-vă în straturi din cauza umidității ridicate din vale.",
+                "en": "Observe the rarer winter birds by the river; dress in layers due to the high humidity often trapped in the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Mare Kambo",
+                "hu": "Lido Mare Kambo",
+                "ro": "Lido Mare Kambo",
+                "en": "Lido Mare Kambo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Licht für Fotos vom Ätna im Hintergrund; halten Sie den Aufenthalt kurz, da der Seewind stark auskühlt.",
+                "hu": "Használja ki a tiszta fényeket az Etna fotózásához a háttérben; rövidítse le a megállót, mert a tengeri szél gyorsan lehűt.",
+                "ro": "Profitați de lumina clară pentru fotografii cu Etna în fundal; scurtați vizita, deoarece briza mării răcește rapid corpul.",
+                "en": "Take advantage of the clear light for photos of Mount Etna in the background; keep the stop brief as the sea wind chills quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna del Rosario",
+                "hu": "Chiesa della Madonna del Rosario",
+                "ro": "Chiesa della Madonna del Rosario",
+                "en": "Chiesa della Madonna del Rosario"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Abendlicht in den Fenstern; kehren Sie vor Einbruch der Dunkelheit um 17:00 Uhr in Ihre Unterkunft zurück.",
+                "hu": "Csodálja meg az esti fényeket az ablakokban; térjen vissza szállására a sötétedés előtt, ami már 17:00-kor beköszönt.",
+                "ro": "Admirați lumina serii în ferestre; întoarceți-vă la cazare înainte de lăsarea întunericului, în jurul orei 17:00.",
+                "en": "Admire the evening light through the windows; head back to your accommodation before darkness falls at 5:00 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját egy meredek, de hálás tekeréssel a történelmi Castello negyedbe, meglátogatva a panorámás Madonna del Carmine-t.\n\nGuruljon lefelé Calatabiano utcáin, álljon meg az Annunziata és San Giuseppe templomoknál, mielőtt a zöldellő part felé pedálozna.\n\nÉlvezze a festői utazást a Fiumefreddo Természetvédelmi Területen, megcsodálva az egyedi növényvilágot és a folyó frissítő hűvösét.\n\nFejezze be a kerékpártúrát a part mentén, a Spiaggia di San Marco és a Lido Mare Kambo érintésével, megpihenve a hullámok közelében.",
         "ro": "Începeți aventura cu bicicleta cu o urcare abruptă, dar plină de satisfacții spre zona istorică Castello, vizitând panoramica Madonna del Carmine.\n\nCoborâți pe străzile din Calatabiano, oprindu-vă la bisericile Annunziata și San Giuseppe înainte de a pedala spre coasta luxuriantă.\n\nBucurați-vă de o plimbare pitorească prin Rezervația Naturală Fiumefreddo, admirând flora unică și aerul rece și răcoritor de la râu.\n\nTerminați turul cu bicicleta de-a lungul țărmului la Spiaggia di San Marco și Lido Mare Kambo, odihnindu-vă picioarele la sunetul valurilor.",
         "en": "Start your cycling adventure with a steep but rewarding ride up to the historic Castello area, visiting the panoramic Madonna del Carmine.\n\nCruise downhill through the streets of Calatabiano, stopping at the Annunziata and San Giuseppe churches before pedaling towards the lush coast.\n\nEnjoy a scenic ride through the Fiumefreddo Nature Reserve, taking in the unique flora and the refreshing cool air from the river.\n\nFinish your biking tour along the shoreline at Spiaggia di San Marco and Lido Mare Kambo, resting your legs as you watch the waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Anstieg zur Burgruine erfordert bei Regen Vorsicht auf den Pflastersteinen. Mittags bieten die Kirchen Annunziata und San Giuseppe trockene Pausenstopps an. Die Fahrt durch das Fiumefreddo-Reservat ist auf den befestigten Wegen sicher, auch wenn es spritzt. Der Tag endet am Lido Mare Kambo, wo Sie Ihr Rad unterstellen und den Blick auf das regnerische Meer genießen können.",
+            "hu": "A várromhoz vezető emelkedő esőben óvatosságot igényel a csúszós macskaköveken. Délben az Annunziata és San Giuseppe templomok nyújtanak száraz pihenőt. A Fiumefreddo rezervátumon átvezető út a kiépített ösvényeken biztonságos, még ha fröccsen is a víz. A nap a Lido Mare Kambo-nál zárul, ahol fedett helyre teheti a biciklit a tengerparti pihenő alatt.",
+            "ro": "Urcarea spre castel necesită prudență pe pavajul umed și alunecos. La prânz, bisericile Annunziata și San Giuseppe oferă opriri uscate pentru odihnă. Traseul prin rezervația Fiumefreddo este sigur pe căile amenajate, chiar dacă apa stropește. Ziua se încheie la Lido Mare Kambo, unde puteți lăsa bicicleta la adăpost în timp ce admirați marea ploioasă.",
+            "en": "The climb to the castle ruins requires caution on slippery cobblestones in the rain. At noon, the Annunziata and San Giuseppe churches offer dry rest stops. The ride through Fiumefreddo reserve is safe on paved paths, even if water splashes. The day ends at Lido Mare Kambo, where you can park your bike under cover while enjoying the rainy sea views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Madonna del Carmine al Castello",
+                "hu": "Chiesa della Madonna del Carmine al Castello",
+                "ro": "Chiesa della Madonna del Carmine al Castello",
+                "en": "Chiesa della Madonna del Carmine al Castello"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Burgberg; die nassen Pflastersteine sind extrem rutschig für Fahrradreifen.",
+                "hu": "Ellenőrizze a fékeket a várhegyről való leereszkedés előtt; a nedves macskakövek rendkívül csúszósak a kerékpárgumiknak.",
+                "ro": "Verificați frânele înainte de coborârea de la castel; pavajul umed este extrem de alunecos pentru anvelopele de bicicletă.",
+                "en": "Check your brakes before descending from the castle hill; the wet cobblestones are extremely slippery for bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Annunziata",
+                "hu": "Chiesa dell'Annunziata",
+                "ro": "Chiesa dell'Annunziata",
+                "en": "Chiesa dell'Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als schnellen Schutz vor Schauern; achten Sie beim Abstellen des Rades auf stabilen Stand im Matsch.",
+                "hu": "Használja a templom bejáratát gyors védelemként a záporok elől; ügyeljen a bicikli stabil kitámasztására a sárban.",
+                "ro": "Folosiți intrarea bisericii ca adăpost rapid împotriva averselor; asigurați-vă că bicicleta este stabilă pe solul noroios.",
+                "en": "Use the church entrance as quick cover from showers; ensure your bike is parked stably on potentially muddy ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihren Sattel vor dem Betreten der Kirche trocken; im Inneren finden Sie Wärme für eine kurze Pause vom Regen.",
+                "hu": "Törölje szárazra a nyerget, mielőtt belépne a templomba; bent melegséget talál egy rövid esőszünet erejéig.",
+                "ro": "Ștergeți șaua înainte de a intra în biserică; în interior veți găsi căldură pentru o scurtă pauză de ploaie.",
+                "en": "Wipe your saddle dry before entering the church; inside you will find warmth for a short break from the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "hu": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "ro": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "en": "Riserva Naturale Orientata Fiume Fiumefreddo"
+              },
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier wegen der Wasserlachen auf den Wegen unverzichtbar; genießen Sie die frische, sauerstoffreiche Luft im Wald.",
+                "hu": "A sárvédők itt nélkülözhetetlenek az utakon lévő tócsák miatt; élvezze a friss, oxigéndús levegőt az erdős részen.",
+                "ro": "Apărătorile sunt esențiale aici din cauza bălților de pe drum; bucurați-vă de aerul proaspăt și oxigenat din pădure.",
+                "en": "Mudguards are essential here due to puddles on the paths; enjoy the fresh, oxygen-rich air in the forested areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di San Marco",
+                "hu": "Spiaggia di San Marco",
+                "ro": "Spiaggia di San Marco",
+                "en": "Spiaggia di San Marco"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem nassen Kies am Strandrand; suchen Sie Schutz unter den Vordächern der geschlossenen Strandbars.",
+                "hu": "Vezessen óvatosan a nedves kavicsokon a part szélén; keressen menedéket a zárt strandbüfék előtetői alatt.",
+                "ro": "Conduceți cu prudență pe pietrișul umed de la marginea plajei; căutați adăpost sub streșinile barurilor închise.",
+                "en": "Ride carefully on the wet pebbles at the edge of the beach; seek shelter under the eaves of closed beach bars."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Mare Kambo",
+                "hu": "Lido Mare Kambo",
+                "ro": "Lido Mare Kambo",
+                "en": "Lido Mare Kambo"
+              },
+              "tip_5lang": {
+                "de": "Reinigen Sie Ihre Kette nach der Fahrt von Sand und Salz; nutzen Sie den überdachten Bereich für ein trockenes Tourende.",
+                "hu": "Tisztítsa meg a láncot a homoktól és sótól a túra után; használja a fedett részt a száraz befejezéshez.",
+                "ro": "Curățați lanțul de nisip și sare după cursă; folosiți zona acoperită pentru un final de traseu fără umezeală.",
+                "en": "Clean your chain from sand and salt after the ride; use the covered area for a dry conclusion to your cycling trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Wind weht kräftig beim Anstieg zum Castello. Mittags bieten die historischen Kirchen Schutz vor der Kälte und beeindruckende Lichtspiele. Die Fahrt durch das Fiumefreddo-Reservat ist bei tiefstehender Sonne besonders malerisch. Beenden Sie Ihre Tour frühzeitig am Lido Mare Kambo, da es nach 16:30 Uhr merklich abkühlt und das Licht am Strand schnell schwindet.",
+            "hu": "A téli szél erősen fúj a Castello felé vezető emelkedőn. Délben a történelmi templomok védelmet nyújtanak a hideg elől és lenyűgöző fényjátékot mutatnak. A Fiumefreddo rezervátumon átvezető út az alacsonyan járó napfényben különösen festői. Fejezze be a túrát korán a Lido Mare Kambonál, mert 16:30 után érezhetően lehűl az idő és a fény gyorsan fogy.",
+            "ro": "Vântul de iarnă bate cu putere în timpul urcării spre castel. La prânz, bisericile istorice oferă adăpost împotriva frigului și jocuri de lumină impresionante. Traseul prin rezervația Fiumefreddo este pitoresc sub soarele jos de iarnă. Încheiați turul devreme la Lido Mare Kambo, deoarece după ora 16:30 se răcește vizibil și lumina dispare rapid.",
+            "en": "The winter wind blows strongly during the climb to the Castello. At noon, the historical churches provide shelter from the cold and impressive light displays. The ride through Fiumefreddo reserve is especially picturesque under the low winter sun. End your tour early at Lido Mare Kambo, as it cools down noticeably after 4:30 PM and light fades quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Madonna del Carmine al Castello",
+                "hu": "Chiesa della Madonna del Carmine al Castello",
+                "ro": "Chiesa della Madonna del Carmine al Castello",
+                "en": "Chiesa della Madonna del Carmine al Castello"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für die windige Abfahrt; genießen Sie den klaren Blick auf den schneebedeckten Ätna vom Gipfel.",
+                "hu": "Viseljen meleg kesztyűt a szeles leereszkedéshez; élvezze a tiszta kilátást a havas Etnára a tetőről.",
+                "ro": "Purtați mănuși calde pentru coborârea cu vânt; bucurați-vă de vederea clară spre Etna înzăpezit de pe culme.",
+                "en": "Wear warm gloves for the windy descent; enjoy the clear view of snow-capped Mount Etna from the top of the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Annunziata",
+                "hu": "Chiesa dell'Annunziata",
+                "ro": "Chiesa dell'Annunziata",
+                "en": "Chiesa dell'Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne zum Aufwärmen auf dem Vorplatz; die Kirche bietet eine willkommene windstille Pause.",
+                "hu": "Használja ki a déli napsütést a felmelegedéshez a templomtéren; a belső tér szélmentes pihenőt kínál.",
+                "ro": "Folosiți soarele de la prânz pentru a vă încălzi în fața bisericii; interiorul oferă o pauză binemeritată fără vânt.",
+                "en": "Take advantage of the midday sun to warm up in the church square; the interior offers a welcome windless break."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die kühle Luft im Inneren; behalten Sie Ihre Jacke an, um während der Besichtigung nicht auszukühlen.",
+                "hu": "Ügyeljen a hűvös belső levegőre; hagyja magán a kabátját, hogy ne hűljön ki a nézelődés közben.",
+                "ro": "Atenție la aerul rece din interior; păstrați jacheta pe dvs. pentru a nu vă răci în timpul vizitei.",
+                "en": "Be aware of the cool air inside; keep your jacket on to avoid catching a chill while admiring the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "hu": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "ro": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "en": "Riserva Naturale Orientata Fiume Fiumefreddo"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation ist im Winter lichter, was die Vogelbeobachtung erleichtert; fahren Sie vorsichtig über feuchtes Laub auf den Wegen.",
+                "hu": "A növényzet télen ritkább, ami megkönnyíti a madármegfigyelést; vezessen óvatosan a nedves leveleken az ösvényeken.",
+                "ro": "Vegetația este mai rară iarna, facilitând observarea păsărilor; conduceți cu grijă peste frunzele umede de pe poteci.",
+                "en": "The vegetation is thinner in winter, making birdwatching easier; ride carefully over damp leaves on the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di San Marco",
+                "hu": "Spiaggia di San Marco",
+                "ro": "Spiaggia di San Marco",
+                "en": "Spiaggia di San Marco"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer und sehr friedlich; tragen Sie eine Sonnenbrille gegen die tiefstehende Wintersonne.",
+                "hu": "A tengerpart télen szinte néptelen és nagyon békés; viseljen napszemüveget az alacsonyan járó téli nap ellen.",
+                "ro": "Plaja este aproape pustie și foarte liniștită iarna; purtați ochelari de soare împotriva soarelui de iarnă situat jos.",
+                "en": "The beach is almost deserted and very peaceful in winter; wear sunglasses against the glare of the low winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Mare Kambo",
+                "hu": "Lido Mare Kambo",
+                "ro": "Lido Mare Kambo",
+                "en": "Lido Mare Kambo"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie etwas Warmes nach der Tour; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg in der Dämmerung funktioniert.",
+                "hu": "Igyon valami meleget a túra után; győződjön meg róla, hogy a kerékpárlámpák működnek a szürkületi visszúthoz.",
+                "ro": "Beți ceva cald după tur; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere în amurg.",
+                "en": "Have a warm drink after the tour; make sure your bike lights are working for the return trip in the early twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Vezessen az ősi Torre Rossa-hoz, hogy megcsodálja a római építészetet, majd látogassa meg Fiumefreddo közeli történelmi templomait.\n\nTegyen egy rövid utat a Fiumefreddo Természetvédelmi Területhez egy gyönyörű sétára ebben a védett oázisban, felfrissülve a város után.\n\nParkoljon le az élénk központ közelében, hogy megcsodálja a San Giuseppe templomot, amely ideális hely egy helyi kávé elfogyasztására.\n\nZárásként hajtson fel a Castello területére, és az impozáns Santissimo Crocifisso-nál élvezze a csodálatos kilátást a nap végén.",
         "ro": "Conduceți la antica Torre Rossa pentru a vedea arhitectura romană remarcabilă, apoi vizitați bisericile istorice din Fiumefreddo.\n\nFaceți o scurtă plimbare cu mașina până la Rezervația Naturală Fiumefreddo pentru o plimbare frumoasă în această oază protejată.\n\nParcați lângă centrul plin de viață pentru a admira eleganta Chiesa di San Giuseppe, un loc ideal pentru a savura o cafea locală.\n\nÎncheiați conducând până la zona Castello, coborând la impunătorul Santissimo Crocifisso pentru a vă bucura de priveliști uimitoare.",
         "en": "Drive to the ancient Torre Rossa to witness its remarkable Roman architecture, then visit the nearby historic churches in Fiumefreddo.\n\nTake a short drive to the Fiumefreddo Nature Reserve for a beautiful stroll in this protected oasis, offering a refreshing break from the town.\n\nPark near the lively center to admire the elegant Chiesa di San Giuseppe, an ideal spot to stretch your legs and grab a local coffee.\n\nConclude by driving up to the Castello area, stepping out at the imposing Santissimo Crocifisso to enjoy commanding views as the day ends."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die bequeme Fahrt zur Torre Rossa, während der Regen gegen die Scheiben trommelt. Mittags bieten die Kirchen San Vincenzo und Maria Santissima trockene Zufluchtsorte mit beeindruckender Kunst. Das Fiumefreddo-Reservat lässt sich auch bei Schauern gut erkunden, bevor Sie in San Giuseppe Halt machen. Der Tag endet sicher und trocken bei der Burgkirche, mit Blick auf das neblige Tal.",
+            "hu": "Élvezze a kényelmes autózást a Torre Rossához, miközben az eső veri az ablakot. Délben a San Vincenzo és Maria Santissima templomok száraz menedéket nyújtanak lenyűgöző műalkotásokkal. A Fiumefreddo rezervátum záporok idején is jól felfedezhető, mielőtt megállna San Giuseppénél. A nap biztonságban és szárazon zárul a várnál lévő templomnál, kilátással a ködös völgyre.",
+            "ro": "Bucurați-vă de drumul confortabil spre Torre Rossa în timp ce ploaia bate în geamuri. La prânz, bisericile San Vincenzo și Maria Santissima oferă refugii uscate cu artă impresionantă. Rezervația Fiumefreddo poate fi explorată chiar și în timpul averselor, înainte de oprirea la San Giuseppe. Ziua se încheie în siguranță la biserica castelului, cu vedere spre valea cețoasă.",
+            "en": "Enjoy the comfortable drive to Torre Rossa while rain drums against the windows. At noon, the San Vincenzo and Maria Santissima churches provide dry havens with impressive art. The Fiumefreddo reserve is easy to explore even during showers before stopping at San Giuseppe. The day ends safely and dry at the castle church, with views over the misty valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre Rossa",
+                "hu": "Torre Rossa",
+                "ro": "Torre Rossa",
+                "en": "Torre Rossa"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruine vom Auto aus, falls es stark regnet; die rote Farbe der Steine wirkt bei Nässe besonders kräftig.",
+                "hu": "Tekintse meg a romokat az autóból, ha erősen esik; a kövek vörös színe nedvesen különösen élénknek hat.",
+                "ro": "Priviți ruina din mașină dacă plouă torențial; culoarea roșie a pietrelor pare deosebit de intensă când sunt ude.",
+                "en": "View the ruins from the car if it rains heavily; the red color of the stones looks especially vibrant when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Vincenzo Ferreri",
+                "hu": "Chiesa di San Vincenzo Ferreri",
+                "ro": "Chiesa di San Vincenzo Ferreri",
+                "en": "Chiesa di San Vincenzo Ferreri"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um den Weg im Regen kurzzuhalten; im Inneren erwartet Sie eine prächtige, trockene Atmosphäre.",
+                "hu": "Használja a közeli parkolót, hogy lerövidítse az utat az esőben; bent pompás, száraz atmoszféra várja.",
+                "ro": "Folosiți parcarea apropiată pentru a scurta drumul prin ploaie; în interior vă așteaptă o atmosferă splendidă și uscată.",
+                "en": "Use the nearby parking to keep your walk in the rain short; inside, a splendid and dry atmosphere awaits you."
+              }
+            },
+            {
+              "name": {
+                "de": "chiesa di Maria Santissima Immacolata",
+                "hu": "chiesa di Maria Santissima Immacolata",
+                "ro": "chiesa di Maria Santissima Immacolata",
+                "en": "chiesa di Maria Santissima Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand; die Kirche bietet hervorragenden Schutz vor plötzlichen Güssen.",
+                "hu": "Vigyázzon a mély pocsolyákra kiszálláskor az út szélén; a templom kiváló védelmet nyújt a hirtelen zivatarok elől.",
+                "ro": "Atenție la bălțile adânci la coborârea din mașină; biserica oferă o protecție excelentă împotriva averselor bruște.",
+                "en": "Watch out for deep puddles when getting out of the car; the church provides excellent shelter from sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "hu": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "ro": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "en": "Riserva Naturale Orientata Fiume Fiumefreddo"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Zufahrtswege können bei Regen rutschig sein; genießen Sie das Grün der Natur sicher von den Aussichtspunkten aus.",
+                "hu": "A szűk bekötőutak esőben csúszósak lehetnek; élvezze a természet zöldjét biztonságosan a kilátópontokról.",
+                "ro": "Drumurile de acces înguste pot fi alunecoase; bucurați-vă de verdele naturii în siguranță de la punctele de observație.",
+                "en": "The narrow access roads can be slippery in the rain; enjoy the green nature safely from the designated observation points."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren nassen Schirm im Auto, um die Kirche nicht zu befeuchten; genießen Sie die sakrale Stille während es draußen regnet.",
+                "hu": "Hagyja a vizes ernyőt az autóban, hogy ne vizezze össze a templomot; élvezze a szakrális csendet, miközben kint esik.",
+                "ro": "Lăsați umbrela udă în mașină pentru a nu uda biserica; bucurați-vă de liniștea sacră în timp ce afară plouă.",
+                "en": "Leave your wet umbrella in the car to keep the church dry; enjoy the sacred silence while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Santissimo Crocifisso al Castello",
+                "hu": "Chiesa del Santissimo Crocifisso al Castello",
+                "ro": "Chiesa del Santissimo Crocifisso al Castello",
+                "en": "Chiesa del Santissimo Crocifisso al Castello"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig die Serpentinen hoch, da die Sicht bei Regen eingeschränkt ist; die Burg bietet ein dramatisches Panorama im Nebel.",
+                "hu": "Vezessen óvatosan a szerpentineken, mert esőben korlátozott a látótávolság; a vár drámai panorámát nyújt a ködben.",
+                "ro": "Conduceți cu atenție pe serpentine, deoarece vizibilitatea este redusă; castelul oferă o panoramă dramatică în ceață.",
+                "en": "Drive carefully on the serpentines as visibility is limited in the rain; the castle offers a dramatic panorama in the mist."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit der Fahrt zur Torre Rossa unter strahlend blauem Himmel. Mittags besuchen Sie die prachtvollen Kirchen, die im Winterlicht besonders edel wirken. Die Natur im Fiumefreddo-Reservat ruht friedlich, während Sie bequem im warmen Auto reisen. Beenden Sie den Tag an der Burgkirche vor 17:00 Uhr, um das letzte Tageslicht über der winterlichen Küste einzufangen.",
+            "hu": "Tiszta téli nap indul az autózással a Torre Rossához a ragyogó kék ég alatt. Délben látogassa meg a pompás templomokat, amelyek a téli fényben különösen nemesnek hatnak. A természet a Fiumefreddo rezervátumban békésen pihen, miközben Ön kényelmesen utazik a meleg autóban. Zárja a napot a várnál 17:00 előtt, hogy elkapja az utolsó fényeket a téli part felett.",
+            "ro": "O zi senină de iarnă începe cu drumul spre Torre Rossa sub un cer albastru strălucitor. La prânz, vizitați bisericile splendide care par deosebit de nobile în lumina iernii. Natura din rezervația Fiumefreddo se odihnește liniștită în timp ce călătoriți confortabil în mașina caldă. Încheiați ziua la castel înainte de ora 17:00 pentru a surprinde ultima lumină peste coasta hibernală.",
+            "en": "A clear winter day begins with a drive to Torre Rossa under a bright blue sky. At noon, visit the magnificent churches, which look especially noble in the winter light. Nature in the Fiumefreddo reserve rests peacefully while you travel comfortably in your warm car. End the day at the castle church before 5:00 PM to catch the last daylight over the wintry coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre Rossa",
+                "hu": "Torre Rossa",
+                "ro": "Torre Rossa",
+                "en": "Torre Rossa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für gestochen scharfe Fotos; achten Sie auf Frost auf den Schattenseiten der Ruine.",
+                "hu": "Használja ki a tiszta téli fényt az éles fotókhoz; ügyeljen a zúzmarára a rom árnyékos oldalain.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii clare; atenție la chiciura de pe părțile umbrite ale ruinei.",
+                "en": "Take advantage of the clear winter light for sharp photos; watch out for frost on the shaded sides of the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Vincenzo Ferreri",
+                "hu": "Chiesa di San Vincenzo Ferreri",
+                "ro": "Chiesa di San Vincenzo Ferreri",
+                "en": "Chiesa di San Vincenzo Ferreri"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne sommerliche Hitze; im Inneren ist es kühler als im Auto, behalten Sie Ihre Jacke griffbereit.",
+                "hu": "Élvezze a nyugalmat a nyári hőség nélkül; bent hűvösebb van, mint az autóban, tartsa a kabátját kéznél.",
+                "ro": "Bucurați-vă de liniște fără căldura verii; în interior este mai rece decât în mașină, păstrați jacheta la îndemână.",
+                "en": "Enjoy the tranquility without the summer heat; it is cooler inside than in the car, so keep your jacket handy."
+              }
+            },
+            {
+              "name": {
+                "de": "chiesa di Maria Santissima Immacolata",
+                "hu": "chiesa di Maria Santissima Immacolata",
+                "ro": "chiesa di Maria Santissima Immacolata",
+                "en": "chiesa di Maria Santissima Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann beim Fahren blenden, nutzen Sie die Sonnenblende; die Kirche bietet einen feierlichen Winterstopp.",
+                "hu": "Az alacsony nap vakíthat vezetés közben, használja a napellenzőt; a templom ünnepélyes téli megállót kínál.",
+                "ro": "Soarele situat jos poate fi orbitor la volan, folosiți parasolarul; biserica oferă o oprire solemnă de iarnă.",
+                "en": "The low sun can be blinding while driving, so use your sun visor; the church offers a solemn winter stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "hu": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "ro": "Riserva Naturale Orientata Fiume Fiumefreddo",
+                "en": "Riserva Naturale Orientata Fiume Fiumefreddo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Quelle, die im Winter oft dampft; stellen Sie sicher, dass Ihre Reifen für eventuell glatte Waldwege geeignet sind.",
+                "hu": "Látogassa meg a forrást, amely télen gyakran gőzölög; győződjön meg róla, hogy gumijai alkalmasak az esetleg csúszós erdei utakra.",
+                "ro": "Vizitați izvorul care iarna adesea scoate aburi; asigurați-vă că anvelopele sunt potrivite pentru drumuri forestiere alunecoase.",
+                "en": "Visit the spring which often steams in winter; ensure your tires are suitable for potentially slippery forest roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt hinter dem Gebäude; bewundern Sie die Stille des Ortes in der touristischen Nebensaison.",
+                "hu": "Parkoljon szélvédett helyen az épület mögött; csodálja meg a hely csendjét a turisztikai holtszezonban.",
+                "ro": "Parcați la adăpost de vânt în spatele clădirii; admirați liniștea locului în extrasezonul turistic.",
+                "en": "Park in a wind-sheltered spot behind the building; admire the silence of the place during the tourist off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Santissimo Crocifisso al Castello",
+                "hu": "Chiesa del Santissimo Crocifisso al Castello",
+                "ro": "Chiesa del Santissimo Crocifisso al Castello",
+                "en": "Chiesa del Santissimo Crocifisso al Castello"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die Öffnungszeiten im Winter; der Ausblick auf das Meer in der frühen Dämmerung ist unvergesslich.",
+                "hu": "Ellenőrizze előre a téli nyitvatartást; a kilátás a tengerre a korai szürkületben felejthetetlen élmény.",
+                "ro": "Verificați din timp programul de iarnă; vederea spre mare în amurgul timpuriu este o experiență de neuitat.",
+                "en": "Check the winter opening hours in advance; the view over the sea in the early twilight is an unforgettable experience."
+              }
+            }
+          ]
+        }
       }
     }
   }

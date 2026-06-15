@@ -160,6 +160,196 @@
         "hu": "A reggel a helyi örökség mélyreható megismerésével kezdődik, megünnepelve Aleksander Moisiu életét és meglátogatva az ikonikus Sahati óratornyot. A délidő az Indrit Caro emlékműnél és a hagyományos Banesa e Bajram Xhanitban telik. A délutánt a Néprajzi Múzeum hatalmas gyűjteményeinek szenteljük. Az este békésen zárul a különleges Kémény Minaret közelében.",
         "ro": "Dimineața începe cu o incursiune în patrimoniul local, celebrând viața lui Aleksander Moisiu înainte de a vizita emblematicul Turn cu Ceas Sahati. Miezul zilei aduce reflecție la memorialul Indrit Caro și o experiență în tradiționala Banesa e Bajram Xhanit. După-amiaza este dedicată colecțiilor vaste ale Muzeului Etnografic. Seara se încheie pașnic în apropierea Minaretului Coș de Fum.",
         "en": "Morning begins with a deep dive into local heritage, celebrating the life of Aleksander Moisiu before visiting the iconic Sahati Clock Tower. Midday brings reflection at the Indrit Caro memorial and an immersive experience inside the traditional Banesa e Bajram Xhanit. Afternoon is dedicated to the vast collections of the Ethnographic Museum. Evening concludes peacefully near the Smoke Stack Minaret."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der regnerische Morgen beginnt geschützt im Aleksander-Moisiu-Haus, wo die Kultur im Vordergrund steht. Mittags navigieren wir mit Schirm zwischen dem Uhrturm und dem Denkmal, während der Regen auf die alten Steine trommelt. Am Nachmittag bietet das Ethnografische Museum den perfekten Rückzugsort in seinen trockenen Hallen. Der Abend klingt trotz Nässe stimmungsvoll bei der beleuchteten Minarette aus.",
+            "hu": "Az esős délelőttöt Kavajë kulturális szívében, fedett múzeumban kezdjük, elkerülve az első záporokat. Délben az óratorony környékén az esernyő alatt is gyönyörködhetünk az építészetben, figyelve a csúszós kövekre. Délután az etnográfiai gyűjtemény nyújt menedéket és gazdag látnivalót a történelmi falak között. Estére a város fényei megcsillannak a vizes aszfalton a minaret különleges sziluettje mellett.",
+            "ro": "Dimineața ploioasă începe la adăpost în casa Aleksander Moisiu, unde cultura este în prim-plan. La prânz, navigăm cu umbrela între Turnul Ceasului și monument, în timp ce ploaia bate în pietrele vechi. După-amiaza, Muzeul Etnografic oferă refugiul perfect în sălile sale uscate. Seara se încheie atmosferic lângă minaretul iluminat, în ciuda vremii umede care face străzile să strălucească.",
+            "en": "The rainy morning starts sheltered in the Aleksander Moisiu house, focusing on cultural heritage. At noon, we navigate with umbrellas between the clock tower and the monument as rain drums on the ancient stones. In the afternoon, the Ethnographic Museum provides the perfect retreat within its dry, historical halls. The evening ends atmospherically by the illuminated minaret despite the wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aleksander Moisiu",
+                "hu": "Aleksander Moisiu",
+                "ro": "Aleksander Moisiu",
+                "en": "Aleksander Moisiu"
+              },
+              "tip_4lang": {
+                "de": "Erkunde das Leben des Schauspielers in den trockenen Innenräumen; achte beim Verlassen auf die Stufen, da das alte Holz bei Regen sehr rutschig sein kann.",
+                "hu": "Fedezd fel a világhírű színész életét a védett belső terekben; a kilépésnél ügyelj a lépcsőkre, mert az öreg fa burkolat az esőben nagyon csúszóssá válhat.",
+                "ro": "Explorează viața actorului în interiorul uscat al muzeului; ai grijă la trepte la plecare, deoarece lemnul vechi poate deveni foarte alunecos pe ploaie.",
+                "en": "Explore the actor's life inside the dry museum rooms; watch your step when leaving, as the old wooden stairs can become very slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sahati Clock Tower",
+                "hu": "Sahati Clock Tower",
+                "ro": "Sahati Clock Tower",
+                "en": "Sahati Clock Tower"
+              },
+              "tip_4lang": {
+                "de": "Bewundere den osmanischen Turm von einem nahen Vordach aus; die Struktur wirkt im grauen Regenlicht besonders dramatisch und historisch authentisch.",
+                "hu": "Csodáld meg az oszmán tornyot egy közeli eresz alól; a szerkezet a szürke esőfényben különösen drámai és történelmileg hiteles látványt nyújt a téren.",
+                "ro": "Admiră turnul otoman de sub o streașină din apropiere; structura pare deosebit de dramatică și autentică în lumina cenușie a unei zile ploioase.",
+                "en": "Admire the Ottoman tower from a nearby overhang; the structure looks particularly dramatic and historically authentic in the grey rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Indrit Caro",
+                "hu": "Indrit Caro",
+                "ro": "Indrit Caro",
+                "en": "Indrit Caro"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer Halt am Denkmal ist auch bei Regen möglich; halte den Schirm gut fest, da der Wind in dieser Gasse bei schlechtem Wetter zunehmen kann.",
+                "hu": "Egy rövid megálló az emlékműnél esőben is érdemes; tartsd erősen az esernyőt, mert a szél ebben a szűk utcában felerősödhet a viharosabb órákban.",
+                "ro": "O scurtă oprire la monument este posibilă chiar și pe ploaie; ține bine umbrela, deoarece vântul se poate intensifica pe această stradă îngustă.",
+                "en": "A quick stop at the monument is worthwhile even in the rain; hold your umbrella firmly as the wind can pick up in this narrow street during bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Banesa e Bajram Xhanit",
+                "hu": "Banesa e Bajram Xhanit",
+                "ro": "Banesa e Bajram Xhanit",
+                "en": "Banesa e Bajram Xhanit"
+              },
+              "tip_4lang": {
+                "de": "Betrachte die traditionelle Architektur vom geschützten Eingangsbereich aus; die dunklen Ziegel leuchten bei Nässe in einem tieferen, schöneren Ton.",
+                "hu": "Figyeld meg a hagyományos építészetet a védett bejárati részről; a nedves téglafalak ilyenkor mélyebb, szebb színekben pompáznak az esőben.",
+                "ro": "Observă arhitectura tradițională de la intrarea protejată; cărămizile umede strălucesc în nuanțe mai profunde și mai frumoase în timpul ploii.",
+                "en": "Observe the traditional architecture from the sheltered entrance area; the wet bricks glow in deeper, more beautiful tones during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographic Museum",
+                "hu": "Ethnographic Museum",
+                "ro": "Ethnographic Museum",
+                "en": "Ethnographic Museum"
+              },
+              "tip_4lang": {
+                "de": "Nutze diesen großen Innenraum für eine ausgiebige Tour fernab der Nässe; die Teppiche und Artefakte sind in der ruhigen Regenatmosphäre ideal zu besichtigen.",
+                "hu": "Használd ki a tágas belső tereket egy hosszú tárlatvezetésre a nedvességtől távol; a szőnyegek és tárgyak a nyugodt, esős időben még látványosabbak.",
+                "ro": "Profită de spațiul interior generos pentru un tur extins departe de ploaie; covoarele și artefactele sunt ideale de vizitat în atmosfera liniștită.",
+                "en": "Take advantage of the spacious interiors for an extensive tour away from the wet; the rugs and artifacts are ideal to view in the quiet rainy atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Smoke Stack Minaret",
+                "hu": "Smoke Stack Minaret",
+                "ro": "Smoke Stack Minaret",
+                "en": "Smoke Stack Minaret"
+              },
+              "tip_4lang": {
+                "de": "Beobachte, wie der Regen vom Minarett abläuft, während du unter einem nahen Café-Vordach stehst; die nasse Oberfläche reflektiert das Abendlicht wunderbar.",
+                "hu": "Figyeld meg, ahogy az esővíz lefolyik a minaret oldalán egy közeli kávézó terasza alól; a vizes felület csodásan veri vissza az esti városi fényeket.",
+                "ro": "Observă cum se scurge ploaia de pe minaret în timp ce stai sub o copertină din apropiere; suprafața umedă reflectă minunat luminile serii.",
+                "en": "Watch the rain run off the minaret while standing under a nearby cafe awning; the wet surface reflects the evening lights beautifully."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen führt uns zum warmen Empfang im Aleksander-Moisiu-Haus. Mittags nutzen wir die klare, kalte Luft für Fotos am Uhrturm, bevor wir uns in den Gassen aufwärmen. Am Nachmittag bietet das Museum eine gemütliche Zuflucht vor dem Frost. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir das goldene Licht an der Minarette frühzeitig.",
+            "hu": "A friss téli reggelen az Aleksander Moisiu ház meleg fogadtatása indítja a napot. Délben a tiszta, hideg levegőben sétálunk az óratorony felé, élvezve a téli napsütést a macskaköveken. Délután a múzeum belső terei nyújtanak menedéket a fagy elől. Mivel a nap már 17:00 körül lebukik, a minaret környékén korán felgyúlnak az esti fények.",
+            "ro": "O dimineață răcoroasă de iarnă ne conduce spre primirea călduroasă din casa Aleksander Moisiu. La prânz, profităm de aerul rece și curat pentru fotografii la Turnul Ceasului. După-amiaza, muzeul oferă un refugiu primitor împotriva gerului. Deoarece soarele apune deja în jurul orei 17:00, ne bucurăm devreme de lumina aurie de la minaret.",
+            "en": "A crisp winter morning leads us to the warm welcome of the Aleksander Moisiu house. At noon, we take advantage of the clear, cold air for photos at the clock tower before warming up in the alleys. In the afternoon, the museum offers a cozy refuge from the frost. As the sun sets around 17:00, we enjoy the golden light at the minaret early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aleksander Moisiu",
+                "hu": "Aleksander Moisiu",
+                "ro": "Aleksander Moisiu",
+                "en": "Aleksander Moisiu"
+              },
+              "tip_4lang": {
+                "de": "Zieh dich warm an, da die historischen Räume trotz Schutz kühl sein können; die Wintersonne fällt morgens besonders schön durch die alten Fenster.",
+                "hu": "Öltözz rétegesen, mert a történelmi szobák a védelem ellenére is hűvösek lehetnek; a téli nap reggelente csodásan süt be az ódon ablakokon.",
+                "ro": "Îmbracă-te gros, deoarece camerele istorice pot fi răcoroase în ciuda adăpostului; soarele de iarnă pătrunde superb prin ferestrele vechi dimineața.",
+                "en": "Dress warmly as the historical rooms can be chilly despite being indoors; the winter sun shines beautifully through the old windows in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Sahati Clock Tower",
+                "hu": "Sahati Clock Tower",
+                "ro": "Sahati Clock Tower",
+                "en": "Sahati Clock Tower"
+              },
+              "tip_4lang": {
+                "de": "Der Turm hebt sich scharf gegen den blauen Winterhimmel ab; trage Handschuhe, wenn du Fotos machst, da die Brise auf dem Platz hier eisig sein kann.",
+                "hu": "A torony élesen kirajzolódik a kék téli égbolton; viselj kesztyűt a fotózáshoz, mert a téren ilyenkor metsző lehet a hideg szél.",
+                "ro": "Turnul se profilează clar pe cerul albastru de iarnă; poartă mănuși când faci fotografii, deoarece briza din piață poate fi înghețată în acest sezon.",
+                "en": "The tower stands out sharply against the blue winter sky; wear gloves when taking photos as the breeze in the square can be icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Indrit Caro",
+                "hu": "Indrit Caro",
+                "ro": "Indrit Caro",
+                "en": "Indrit Caro"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer, zügiger Besuch am Denkmal hält den Kreislauf in Schwung; achte auf gefrorene Stellen am Boden, die im Schatten der Gebäude glatt sein können.",
+                "hu": "Egy rövid, tempós séta az emlékműhöz segít frissen maradni a hidegben; ügyelj a fagypont alatti foltokra a kövezeten, amik az árnyékban csúszhatnak.",
+                "ro": "O scurtă vizită vioaie la monument te va menține activ în frig; atenție la porțiunile înghețate de pe jos care pot fi alunecoase la umbra clădirilor.",
+                "en": "A quick, brisk visit to the monument keeps the circulation going; watch out for frozen patches on the ground that can be slick in the building shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Banesa e Bajram Xhanit",
+                "hu": "Banesa e Bajram Xhanit",
+                "ro": "Banesa e Bajram Xhanit",
+                "en": "Banesa e Bajram Xhanit"
+              },
+              "tip_4lang": {
+                "de": "Die traditionelle Architektur wirkt im kahlen Winterlicht sehr rustikal; ein schneller Stopp reicht aus, bevor man sich wieder in ein warmes Café begibt.",
+                "hu": "A hagyományos építészet a kopár téli fényben nagyon rusztikus hatást kelt; egy gyors fotó is elég, mielőtt betérnél egy közeli meleg kávézóba.",
+                "ro": "Arhitectura tradițională arată foarte rustic în lumina rece a iernii; o oprire scurtă este suficientă înainte de a te retrage într-o cafenea caldă.",
+                "en": "The traditional architecture looks very rustic in the bleak winter light; a quick stop is enough before heading to a warm cafe."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographic Museum",
+                "hu": "Ethnographic Museum",
+                "ro": "Ethnographic Museum",
+                "en": "Ethnographic Museum"
+              },
+              "tip_4lang": {
+                "de": "Dies ist der ideale Ort, um sich am Nachmittag aufzuwärmen; die dicken Mauern halten die Kälte draußen, während du in die Geschichte Kavajës eintauchst.",
+                "hu": "Ez az ideális helyszín a felmelegedésre a délutáni órákban; a vastag falak kint tartják a fagyot, miközben elmerülsz Kavajë gazdag történelmében.",
+                "ro": "Acesta este locul ideal pentru a te încălzi după-amiaza; zidurile groase țin frigul afară în timp ce te cufunzi în istoria bogată a orașului.",
+                "en": "This is the ideal place to warm up in the afternoon; the thick walls keep the frost out while you immerse yourself in Kavajë's history."
+              }
+            },
+            {
+              "name": {
+                "de": "Smoke Stack Minaret",
+                "hu": "Smoke Stack Minaret",
+                "ro": "Smoke Stack Minaret",
+                "en": "Smoke Stack Minaret"
+              },
+              "tip_4lang": {
+                "de": "Besuche das Minarett kurz vor Sonnenuntergang um 17 Uhr; das warme Licht der Straßenlaternen bietet einen schönen Kontrast zur kalten Abendluft.",
+                "hu": "Látogasd meg a minaretet nem sokkal az 5 órai naplemente előtt; az utcai lámpák meleg fénye csodás kontrasztot alkot a hideg esti levegővel.",
+                "ro": "Vizitează minaretul chiar înainte de apusul soarelui de la ora 17; lumina caldă a felinarelor oferă un contrast frumos cu aerul rece de seară.",
+                "en": "Visit the minaret just before the 5 PM sunset; the warm light of the street lamps provides a beautiful contrast to the cold evening air."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a reggelt az érdekes Kémény Minarethez tekerve, majd tegyen kulturális túrát a Néprajzi Múzeumban. Délben guruljon át a történelmi központon, a Sahati óratoronyhoz és a gyönyörű Banesa e Bajram Xhanithoz. A délután északi irányú biciklizést hoz a Lapidar emlékműhöz és az ősi Kalaja e Zigxhafajthoz. Az este a békés Liqeni i Golemit partján zárul.",
         "ro": "Începeți dimineața pedalând spre intrigantul Minaret Coș de Fum, urmat de un tur cultural fascinant al Muzeului Etnografic. Miezul zilei vă poartă prin centrul istoric, oprindu-vă la Turnul cu Ceas Sahati și superba Banesa e Bajram Xhanit. După-amiaza aduce o plimbare spre nord către monumentul Lapidar și antica Kalaja e Zigxhafajt. Seara se relaxează lângă seninul lac Liqeni i Golemit.",
         "en": "Start your morning pedaling to the intriguing Smoke Stack Minaret, followed by a fascinating cultural tour of the Ethnographic Museum. Midday rolls through the historic center, stopping at the Sahati Clock Tower and the beautiful Banesa e Bajram Xhanit. Afternoon brings a steady ride north to the Lapidar monument and the ancient Kalaja e Zigxhafajt. Evening winds down by the serene Liqeni i Golemit."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf zwei Rädern erfordert Vorsicht auf den nassen Straßen von Kavajë. Wir starten bei der Minarette und suchen bald Schutz im Museum, während der Schauer vorüberzieht. Mittags radeln wir vorsichtig durch das historische Zentrum, stets auf rutschige Markierungen achtend. Der Nachmittag führt uns trotz Regen zu den Monumenten, bevor wir den Tag neblig am Golem-See beenden.",
+            "hu": "Az esős nap két keréken óvatosságot igényel Kavajë vizes utcáin. A minaretnél kezdünk, majd hamar a múzeumba húzódunk a zápor elől. Délben óvatosan tekerünk a történelmi központban, figyelve a csúszós útburkolati jelekre. A délután a távolabbi műemlékekhez vezet az esőben, végül a napot a ködös Golemi-tónál zárjuk.",
+            "ro": "O zi ploioasă pe două roți necesită prudență pe străzile umede din Kavajë. Începem la minaret și căutăm curând adăpost în muzeu în timp ce trece ploaia. La prânz, pedalăm cu grijă prin centrul istoric, atenți la marcajele alunecoase. După-amiaza ne duce la monumente în ciuda ploii, înainte de a încheia ziua în ceață la Lacul Golem.",
+            "en": "A rainy day on two wheels requires caution on the wet streets of Kavajë. We start at the minaret and soon seek shelter in the museum as the shower passes. At noon, we cycle carefully through the historical center, always watching for slippery road markings. The afternoon leads us to the monuments despite the rain, ending the day mistily at Lake Golem."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Smoke Stack Minaret",
+                "hu": "Smoke Stack Minaret",
+                "ro": "Smoke Stack Minaret",
+                "en": "Smoke Stack Minaret"
+              },
+              "tip_4lang": {
+                "de": "Prüfe deine Bremsen vor der Abfahrt; der nasse Asphalt um die Minarette kann tückisch sein, wenn du versuchst, für ein schnelles Foto anzuhalten.",
+                "hu": "Ellenőrizd a fékeket indulás előtt; a nedves aszfalt a minaret körül csalóka lehet, amikor megállsz egy gyors fotóra az esőben.",
+                "ro": "Verifică frânele înainte de plecare; asfaltul umed din jurul minaretului poate fi înșelător când încerci să oprești pentru o fotografie rapidă.",
+                "en": "Check your brakes before setting off; the wet asphalt around the minaret can be tricky when trying to stop for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographic Museum",
+                "hu": "Ethnographic Museum",
+                "ro": "Ethnographic Museum",
+                "en": "Ethnographic Museum"
+              },
+              "tip_4lang": {
+                "de": "Parke dein Rad an einem überdachten Ort und nutze die Zeit, um deine Kleidung im Museum zu trocknen, während du die Ausstellungen besichtigst.",
+                "hu": "Parkolj le egy fedett helyen, és használd ki az időt a ruházatod megszárítására a múzeumban, miközben a kiállítást nézed.",
+                "ro": "Parchează bicicleta într-un loc acoperit și folosește timpul pentru a-ți usca hainele în muzeu în timp ce vizitezi expozițiile.",
+                "en": "Park your bike in a sheltered spot and use the time to dry your clothes in the museum while browsing the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Sahati Clock Tower",
+                "hu": "Sahati Clock Tower",
+                "ro": "Sahati Clock Tower",
+                "en": "Sahati Clock Tower"
+              },
+              "tip_4lang": {
+                "de": "Fahre langsam über den Platz; die nassen Pflastersteine rund um den Uhrturm sind extrem rutschig für schmale Fahrradreifen.",
+                "hu": "Tekerj lassan a téren; a nedves macskakövek az óratorony körül rendkívül csúszósak lehetnek a vékony bicikligumik számára.",
+                "ro": "Pedalează încet prin piață; pietrele cubice umede din jurul turnului cu ceas sunt extrem de alunecoase pentru anvelopele înguste.",
+                "en": "Cycle slowly across the square; the wet cobblestones around the clock tower are extremely slippery for narrow bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Banesa e Bajram Xhanit",
+                "hu": "Banesa e Bajram Xhanit",
+                "ro": "Banesa e Bajram Xhanit",
+                "en": "Banesa e Bajram Xhanit"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp reicht; achte beim Auf- und Absteigen auf Schlamm, der sich bei Regen in den unbefestigten Bereichen neben dem Haus sammeln kann.",
+                "hu": "Egy rövid megálló elég; fel- és leszálláskor ügyelj a sárra, ami az esőben összegyűlhet a ház melletti burkolatlan részeken.",
+                "ro": "O oprire scurtă este suficientă; atenție la noroiul care se poate aduna în zonele neasfaltate de lângă casă în timpul ploii.",
+                "en": "A short stop is enough; watch out for mud that can collect in unpaved areas next to the house when getting on and off your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapidar",
+                "hu": "Lapidar",
+                "ro": "Lapidar",
+                "en": "Lapidar"
+              },
+              "tip_4lang": {
+                "de": "Die Sicht am Monument kann durch den Regen eingeschränkt sein; trage eine helle Regenjacke, damit du für den Verkehr auf dem Weg dorthin gut sichtbar bist.",
+                "hu": "A kilátás az emlékműnél korlátozott lehet az eső miatt; viselj élénk esőkabátot, hogy jól látható maradj a forgalomban az odavezető úton.",
+                "ro": "Vizibilitatea la monument poate fi limitată de ploaie; poartă o jachetă de ploaie reflectorizantă pentru a fi vizibil în trafic pe drum.",
+                "en": "Visibility at the monument may be limited by rain; wear a bright raincoat to stay visible to traffic on the road leading there."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalaja e Zigxhafajt",
+                "hu": "Kalaja e Zigxhafajt",
+                "ro": "Kalaja e Zigxhafajt",
+                "en": "Kalaja e Zigxhafajt"
+              },
+              "tip_4lang": {
+                "de": "Der Anstieg zur Burg ist bei Nässe anstrengender; schalte in einen niedrigen Gang und meide grasbewachsene Wege, die jetzt sehr matschig sind.",
+                "hu": "A várba vezető emelkedő nehezebb a nedves úton; válts alacsony fokozatba és kerüld a füves részeket, amik mostanra teljesen felázhattak.",
+                "ro": "Urcarea spre cetate este mai grea pe carosabil umed; schimbă într-o viteză mică și evită zonele cu iarbă care pot fi foarte noroioase.",
+                "en": "The climb to the castle is tougher on wet roads; shift to a low gear and avoid grassy areas that might be very muddy now."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Golemit",
+                "hu": "Liqeni i Golemit",
+                "ro": "Liqeni i Golemit",
+                "en": "Liqeni i Golemit"
+              },
+              "tip_4lang": {
+                "de": "Die Seeluft ist bei Regen sehr feucht; achte auf Pfützen auf dem Uferweg und genieße die mystische Stimmung der tiefhängenden Wolken über dem Wasser.",
+                "hu": "A tavi levegő esőben nagyon párás; ügyelj a tóparti út tócsáira, és élvezd a víz felett alacsonyan szálló felhők misztikus hangulatát.",
+                "ro": "Aerul de lângă lac este foarte umed pe ploaie; atenție la bălțile de pe drumul de coastă și bucură-te de atmosfera mistică a norilor joși.",
+                "en": "The lakeside air is very damp in the rain; watch out for puddles on the shore path and enjoy the mystical vibe of low clouds over the water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterliches Radabenteuer in Kavajë erfordert warme Kleidung gegen den kalten Fahrtwind. Wir starten erfrischt an der Minarette und wärmen uns mittags im Ethnografischen Museum auf. Die Route führt uns durch die klare Winterlandschaft zum Lapidar und zur Burg. Den Abschluss bildet der Golem-See, wo wir den frühen Sonnenuntergang gegen 17:00 Uhr direkt vom Sattel aus erleben.",
+            "hu": "A téli biciklis kaland Kavajë-ban meleg öltözetet igényel a hideg menetszél miatt. Frissen indulunk a minarettől, majd délben az Etnográfiai Múzeumban melegszünk fel. Az útvonal a tiszta téli tájon át vezet a Lapidárhoz és a várhoz. A napot a Golemi-tónál zárjuk, ahol az 5 órai korai naplementét már a nyeregből csodálhatjuk meg.",
+            "ro": "O aventură hibernală pe bicicletă în Kavajë necesită haine groase împotriva vântului rece. Începem revigorați de la minaret și ne încălzim la prânz în Muzeul Etnografic. Traseul ne poartă prin peisajul clar de iarnă spre Lapidar și cetate. Încheiem la Lacul Golem, unde admirăm apusul timpuriu de la ora 17:00 direct din șa.",
+            "en": "A winter cycling adventure in Kavajë requires warm clothing against the cold wind. We start refreshed at the minaret and warm up at the Ethnographic Museum at noon. The route leads through the clear winter landscape to the Lapidar and the castle. We finish at Lake Golem, enjoying the early 5 PM sunset directly from the saddle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Smoke Stack Minaret",
+                "hu": "Smoke Stack Minaret",
+                "ro": "Smoke Stack Minaret",
+                "en": "Smoke Stack Minaret"
+              },
+              "tip_4lang": {
+                "de": "Beginne die Tour zügig, um warm zu werden; die kalte Morgenluft an der Minarette ist belebend, erfordert aber einen guten Windschutz.",
+                "hu": "Indítsd tempósan a túrát, hogy bemelegedj; a hideg reggeli levegő a minaretnél frissítő, de jó szélvédelemre lesz szükséged.",
+                "ro": "Începe turul în ritm alert pentru a te încălzi; aerul rece de dimineață de lângă minaret este revigorant, dar necesită protecție bună împotriva vântului.",
+                "en": "Start the tour at a brisk pace to warm up; the cold morning air by the minaret is invigorating but requires good wind protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographic Museum",
+                "hu": "Ethnographic Museum",
+                "ro": "Ethnographic Museum",
+                "en": "Ethnographic Museum"
+              },
+              "tip_4lang": {
+                "de": "Nutze diesen Stopp für eine ausgiebige Pause zum Aufwärmen; die dicken Museumsmauern bieten einen hervorragenden Schutz vor der winterlichen Kälte.",
+                "hu": "Használd ki ezt a megállót egy alapos melegedésre; a múzeum vastag falai kiváló védelmet nyújtanak a kinti téli fagy ellen.",
+                "ro": "Folosește această oprire pentru o pauză lungă de încălzire; zidurile groase ale muzeului oferă o protecție excelentă împotriva gerului de iarnă.",
+                "en": "Use this stop for a long warm-up break; the thick museum walls provide excellent protection against the winter frost outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sahati Clock Tower",
+                "hu": "Sahati Clock Tower",
+                "ro": "Sahati Clock Tower",
+                "en": "Sahati Clock Tower"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne beleuchtet den Uhrturm zur Mittagszeit perfekt; halte dich nicht zu lange im Schatten der Gebäude auf, dort ist es spürbar kälter.",
+                "hu": "A téli nap délidőben tökéletesen megvilágítja az óratoronyt; ne időzz sokat az épületek árnyékában, ott érezhetően hidegebb van ilyenkor.",
+                "ro": "Soarele de iarnă luminează perfect turnul cu ceas la prânz; nu sta prea mult în umbra clădirilor, unde este considerabil mai frig.",
+                "en": "The winter sun illuminates the clock tower perfectly at noon; don't linger too long in the building shadows as it's noticeably colder there."
+              }
+            },
+            {
+              "name": {
+                "de": "Banesa e Bajram Xhanit",
+                "hu": "Banesa e Bajram Xhanit",
+                "ro": "Banesa e Bajram Xhanit",
+                "en": "Banesa e Bajram Xhanit"
+              },
+              "tip_4lang": {
+                "de": "Die kahlen Bäume geben den Blick auf die gesamte Hausstruktur frei; ein kurzer Fotostopp reicht aus, bevor du weiterfährst, um nicht auszukühlen.",
+                "hu": "A kopár fák miatt ilyenkor az egész ház szerkezete jól látható; egy rövid fotómegálló is elég, hogy ne hűlj ki a továbbindulás előtt.",
+                "ro": "Copacii golași permit vizibilitatea întregii structuri a casei; o scurtă oprire pentru poze este suficientă pentru a nu te răci înainte de a pleca.",
+                "en": "The bare trees allow for a clear view of the whole house structure; a quick photo stop is enough so you don't get chilled before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapidar",
+                "hu": "Lapidar",
+                "ro": "Lapidar",
+                "en": "Lapidar"
+              },
+              "tip_4lang": {
+                "de": "Die Aussicht vom Lapidar ist an klaren Wintertagen fantastisch; achte auf eisige Böen, die hier oben auf dem Hügel oft stärker wehen.",
+                "hu": "A kilátás a Lapidártól a tiszta téli napokon fantasztikus; ügyelj a jeges széllökésekre, amik itt a dombtetőn gyakran erősebben fújnak.",
+                "ro": "Priveliștea de la Lapidar este fantastică în zilele senine de iarnă; atenție la rafalele de vânt înghețat care bat mai tare aici pe deal.",
+                "en": "The view from the Lapidar is fantastic on clear winter days; watch out for icy gusts of wind that often blow stronger up here on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalaja e Zigxhafajt",
+                "hu": "Kalaja e Zigxhafajt",
+                "ro": "Kalaja e Zigxhafajt",
+                "en": "Kalaja e Zigxhafajt"
+              },
+              "tip_4lang": {
+                "de": "Der Aufstieg wird dich erwärmen, aber die Burgmauern bieten im Winter wenig Windschutz; nimm eine Thermoskanne mit einem warmen Getränk für oben mit.",
+                "hu": "A felfelé tekerés felmelegít, de a várfalak télen kevés szélvédelmet adnak; vigyél magaddal termoszt meleg itallal a várfokon való pihenéshez.",
+                "ro": "Urcarea te va încălzi, dar zidurile cetății oferă puțină protecție contra vântului iarna; ia un termos cu o băutură caldă pentru pauza de sus.",
+                "en": "The ride up will warm you, but the castle walls offer little wind protection in winter; bring a thermos with a warm drink for the break at the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Golemit",
+                "hu": "Liqeni i Golemit",
+                "ro": "Liqeni i Golemit",
+                "en": "Liqeni i Golemit"
+              },
+              "tip_4lang": {
+                "de": "Erreiche den See vor 17 Uhr, um den Sonnenuntergang zu sehen; achte auf die sinkenden Temperaturen, sobald die Sonne hinter dem Horizont verschwindet.",
+                "hu": "Érj a tóhoz 5 óra előtt a naplementére; ügyelj a hirtelen csökkenő hőmérsékletre, amint a nap eltűnik a látóhatár mögött.",
+                "ro": "Ajunge la lac înainte de ora 17 pentru apus; atenție la scăderea bruscă a temperaturii imediat ce soarele dispare după orizont.",
+                "en": "Reach the lake before 5 PM to catch the sunset; watch out for the temperature drop as soon as the sun disappears behind the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "A reggel egy autózással kezdődik az északi külvárosokba, a Kalaja e Zigxhafajt történelmi romjainak és a feltűnő Lapidar emlékműnek a felfedezésével. A délidő visszavezet a központba, hogy megcsodálja a Banesa e Bajram Xhanitot és az ikonikus Sahati óratornyot. A délután a Néprajzi Múzeum laza bejárására és a Kémény Minaretre csábít. Az este egy pihentető utazással zárul a Liqeni i Golemit felé.",
         "ro": "Dimineața începe cu o plimbare spre periferiile nordice, explorând ruinele din Kalaja e Zigxhafajt și monumentul Lapidar. Miezul zilei se întoarce spre centru pentru a admira tradiționala Banesa e Bajram Xhanit și Turnul cu Ceas Sahati. După-amiaza invită la un tur relaxant al Muzeului Etnografic și o scurtă oprire la Minaretul Coș de Fum. Seara se încheie cu o plimbare relaxantă spre Liqeni i Golemit.",
         "en": "Morning starts with a drive to the northern outskirts, exploring the historic ruins of Kalaja e Zigxhafajt and the striking Lapidar monument. Midday shifts back towards the center to admire the traditional Banesa e Bajram Xhanit and the iconic Sahati Clock Tower. Afternoon invites a leisurely tour of the Ethnographic Museum and a quick stop at the Smoke Stack Minaret. Evening wraps up with a relaxing drive to Liqeni i Golemit."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem regnerischen Tag bietet das Auto den perfekten Schutz für die Erkundung von Kavajë. Wir starten bei der Burg und genießen den Ausblick aus dem trockenen Innenraum. Mittags besuchen wir die Monumente im Zentrum, wobei das Auto als Basis dient. Der Nachmittag gehört dem Ethnografischen Museum, bevor wir zum nebligen Golem-See fahren, wo die Regentropfen auf das Autodach trommeln.",
+            "hu": "Az esős napon az autó tökéletes menedéket nyújt Kavajë felfedezéséhez. A várnál kezdünk, élvezve a kilátást a száraz utastérből. Délben a központ műemlékeit látogatjuk meg, az autót bázisként használva a záporok között. A délután az Etnográfiai Múzeumé, végül a ködös Golemi-tóhoz autózunk, hallgatva az eső kopogását a tetőn.",
+            "ro": "Într-o zi ploioasă, mașina oferă protecția perfectă pentru explorarea orașului Kavajë. Începem la cetate, savurând priveliștea din interiorul uscat. La prânz, vizităm monumentele din centru, folosind mașina ca bază între reprizele de ploaie. După-amiaza aparține Muzeului Etnografic, iar la final conducem spre Lacul Golem în condiții de ceață.",
+            "en": "On a rainy day, the car provides perfect shelter for exploring Kavajë. We start at the castle, enjoying the view from the dry interior. At noon, we visit the center's monuments, using the car as a base between showers. The afternoon is dedicated to the Ethnographic Museum, before driving to the misty Lake Golem, listening to the rain on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kalaja e Zigxhafajt",
+                "hu": "Kalaja e Zigxhafajt",
+                "ro": "Kalaja e Zigxhafajt",
+                "en": "Kalaja e Zigxhafajt"
+              },
+              "tip_4lang": {
+                "de": "Parke so nah wie möglich am Eingang; die unbefestigten Wege rund um die Burg können bei starkem Regen sehr schlammig und rutschig sein.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz; a vár körüli burkolatlan utak heves esőzéskor nagyon sárosak és csúszósak lehetnek.",
+                "ro": "Parchează cât mai aproape de intrare; drumurile neasfaltate din jurul cetății pot fi foarte noroioase și alunecoase în timpul ploilor abundente.",
+                "en": "Park as close to the entrance as possible; the unpaved paths around the castle can be very muddy and slippery during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapidar",
+                "hu": "Lapidar",
+                "ro": "Lapidar",
+                "en": "Lapidar"
+              },
+              "tip_4lang": {
+                "de": "Genieße die dramatische Aussicht durch die Windschutzscheibe; ein kurzer Sprung nach draußen reicht für ein Foto, bevor du wieder ins Trockene schlüpfst.",
+                "hu": "Élvezd a drámai kilátást a szélvédőn keresztül; egy gyors kiugrás elég egy fotóhoz, mielőtt visszatérnél a száraz utastérbe.",
+                "ro": "Savurează priveliștea dramatică prin parbriz; o scurtă ieșire afară este suficientă pentru o poză înainte de a te întoarce la adăpost.",
+                "en": "Enjoy the dramatic view through the windshield; a quick hop outside is enough for a photo before slipping back into the dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Banesa e Bajram Xhanit",
+                "hu": "Banesa e Bajram Xhanit",
+                "ro": "Banesa e Bajram Xhanit",
+                "en": "Banesa e Bajram Xhanit"
+              },
+              "tip_4lang": {
+                "de": "Suche dir einen Parkplatz in der Nähe, um den Fußweg im Regen kurz zu halten; die traditionellen Mauern wirken bei Nässe besonders authentisch.",
+                "hu": "Keress parkolóhelyet a közelben, hogy rövid legyen a séta az esőben; a hagyományos falak a nedves időben különösen autentikusnak hatnak.",
+                "ro": "Caută un loc de parcare în apropiere pentru a scurta mersul pe jos prin ploaie; zidurile tradiționale par deosebit de autentice când sunt ude.",
+                "en": "Find a parking spot nearby to keep the walk in the rain short; the traditional walls look especially authentic in the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Sahati Clock Tower",
+                "hu": "Sahati Clock Tower",
+                "ro": "Sahati Clock Tower",
+                "en": "Sahati Clock Tower"
+              },
+              "tip_4lang": {
+                "de": "Nutze die Parkmöglichkeiten im Zentrum; der Uhrturm ist auch bei Regen ein tolles Fotomotiv, besonders wenn sich die Lichter in den Pfützen spiegeln.",
+                "hu": "Használd ki a központi parkolási lehetőségeket; az óratorony esőben is remek fotótéma, főleg ahogy a fények tükröződnek a pocsolyákban.",
+                "ro": "Folosește parcările din centru; turnul cu ceas este un subiect foto grozav și pe ploaie, mai ales când luminile se reflectă în bălți.",
+                "en": "Take advantage of central parking; the clock tower is a great photo subject even in the rain, especially with lights reflecting in the puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographic Museum",
+                "hu": "Ethnographic Museum",
+                "ro": "Ethnographic Museum",
+                "en": "Ethnographic Museum"
+              },
+              "tip_4lang": {
+                "de": "Verweile hier ausgiebig, während es draußen regnet; das Museum bietet eine trockene, kulturelle Oase inmitten der verregneten Stadt Kavajë.",
+                "hu": "Időzz itt hosszasan, amíg kint esik az eső; a múzeum száraz kulturális oázist nyújt a megázott Kavajë szívében a látogatók számára.",
+                "ro": "Zăbovește aici mai mult timp cât plouă afară; muzeul oferă o oază culturală uscată în mijlocul orașului Kavajë udat de ploaie.",
+                "en": "Linger here as long as it's raining outside; the museum offers a dry cultural oasis in the heart of rainy Kavajë for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Smoke Stack Minaret",
+                "hu": "Smoke Stack Minaret",
+                "ro": "Smoke Stack Minaret",
+                "en": "Smoke Stack Minaret"
+              },
+              "tip_4lang": {
+                "de": "Fahre langsam an der Minarette vorbei; die engen Gassen können bei Regen durch den erhöhten Verkehr und schlechte Sicht anspruchsvoll sein.",
+                "hu": "Hajts lassan a minaret mellett; a szűk utcák az esőben a megnövekedett forgalom és a rossz látási viszonyok miatt nagyobb figyelmet igényelnek.",
+                "ro": "Condu încet pe lângă minaret; străzile înguste pot fi solicitante pe ploaie din cauza traficului crescut și a vizibilității reduse.",
+                "en": "Drive slowly past the minaret; the narrow streets can be demanding in the rain due to increased traffic and poor visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Golemit",
+                "hu": "Liqeni i Golemit",
+                "ro": "Liqeni i Golemit",
+                "en": "Liqeni i Golemit"
+              },
+              "tip_4lang": {
+                "de": "Die Fahrt zum See ist bei Regen durch die Nebelschwaden sehr atmosphärisch; bleibe auf den asphaltierten Straßen, um Festfahren im Schlamm zu vermeiden.",
+                "hu": "A tóhoz vezető út esőben a ködfátyol miatt nagyon hangulatos; maradj az aszfaltozott utakon, hogy elkerüld az elakadást a felázott talajon.",
+                "ro": "Drumul spre lac este foarte atmosferic pe ploaie datorită ceții; rămâi pe drumurile asfaltate pentru a evita să rămâi blocat în noroi.",
+                "en": "The drive to the lake is very atmospheric in the rain with the mist; stay on paved roads to avoid getting stuck in the mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour durch Kavajë kombiniert Komfort mit Geschichte. Wir starten an der kühlen Burg, nutzen aber die Heizung zwischen den Stopps. Mittags besichtigen wir das Stadtzentrum bequem per Pkw. Der Nachmittag gehört dem warmen Ethnografischen Museum, bevor wir pünktlich zum frühen Sonnenuntergang um 17:00 Uhr zum Golem-See fahren, wo die Winterluft besonders klar ist.",
+            "hu": "A téli autós túra Kavajë-ban ötvözi a kényelmet a történelemmel. A hűvös várnál kezdünk, de a megállók között élvezzük a fűtést. Délben a városközpontot kényelmesen, autóval járjuk be. A délután a fűtött Etnográfiai Múzeumé, végül az 5 órai naplementére érünk a Golemi-tóhoz, ahol a téli levegő tiszta és friss.",
+            "ro": "Turul cu mașina prin Kavajë iarna combină confortul cu istoria. Începem la cetatea răcoroasă, dar folosim căldura din mașină între opriri. La prânz vizităm centrul orașului confortabil cu autoturismul. După-amiaza aparține Muzeului Etnografic încălzit, iar la final ajungem la Lacul Golem fix pentru apusul de la ora 17:00.",
+            "en": "The winter car tour through Kavajë combines comfort with history. We start at the cool castle but enjoy the heating between stops. At noon, we tour the city center comfortably by car. The afternoon belongs to the heated Ethnographic Museum, before arriving at Lake Golem just in time for the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kalaja e Zigxhafajt",
+                "hu": "Kalaja e Zigxhafajt",
+                "ro": "Kalaja e Zigxhafajt",
+                "en": "Kalaja e Zigxhafajt"
+              },
+              "tip_4lang": {
+                "de": "Lasse den Motor nicht zu lange laufen; genieße die Aussicht von der Burg im klaren Winterlicht und nutze die Sitzheizung nach dem Rundgang.",
+                "hu": "Ne járasd sokat a motort álló helyzetben; élvezd a vár panorámáját a tiszta téli fényben, majd használd az ülésfűtést a séta után.",
+                "ro": "Nu lăsa motorul pornit prea mult; bucură-te de panorama cetății în lumina clară de iarnă și folosește încălzirea în scaune după plimbare.",
+                "en": "Don't idle the engine too long; enjoy the castle view in the clear winter light and use the seat heating after your walk around."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapidar",
+                "hu": "Lapidar",
+                "ro": "Lapidar",
+                "en": "Lapidar"
+              },
+              "tip_4lang": {
+                "de": "Ein schneller Stopp für Fotos ist ideal; die klare Luft ermöglicht im Winter oft eine weite Sicht bis zum Meer, bevor es im Auto wieder gemütlich wird.",
+                "hu": "Egy gyors fotómegálló ideális; a tiszta levegő télen gyakran messzi kilátást enged a tengerig, mielőtt visszatérnél a kocsi melegébe.",
+                "ro": "O oprire rapidă pentru poze este ideală; aerul curat permite adesea iarna o vizibilitate până la mare înainte de a reveni în căldura mașinii.",
+                "en": "A quick photo stop is ideal; the clear air in winter often allows for distant views to the sea before getting back into the cozy car."
+              }
+            },
+            {
+              "name": {
+                "de": "Banesa e Bajram Xhanit",
+                "hu": "Banesa e Bajram Xhanit",
+                "ro": "Banesa e Bajram Xhanit",
+                "en": "Banesa e Bajram Xhanit"
+              },
+              "tip_4lang": {
+                "de": "Parke direkt davor, um die Kältebrücke kurz zu halten; die Steinarchitektur wirkt im Winterlicht besonders markant und geschichtsträchtig.",
+                "hu": "Parkolj közvetlenül előtte, hogy lerövidítsd a hidegben töltött időt; a kőépítészet a téli fényben különösen karakteresnek és történelminek hat.",
+                "ro": "Parchează chiar în față pentru a scurta timpul petrecut în frig; arhitectura din piatră pare deosebit de marcantă în lumina iernii.",
+                "en": "Park right in front to shorten your time in the cold; the stone architecture looks particularly striking and historic in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Sahati Clock Tower",
+                "hu": "Sahati Clock Tower",
+                "ro": "Sahati Clock Tower",
+                "en": "Sahati Clock Tower"
+              },
+              "tip_4lang": {
+                "de": "Das Zentrum ist im Winter weniger belebt; nutze die einfachen Parkmöglichkeiten direkt am Platz für einen unkomplizierten Besuch des Uhrturms.",
+                "hu": "A központ télen kevésbé zsúfolt; használd ki a téren található egyszerű parkolási lehetőségeket az óratorony gyors meglátogatásához.",
+                "ro": "Centrul este mai puțin aglomerat iarna; profită de parcările facile direct în piață pentru o vizită simplă la turnul cu ceas.",
+                "en": "The center is less crowded in winter; take advantage of easy parking right on the square for a straightforward visit to the clock tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographic Museum",
+                "hu": "Ethnographic Museum",
+                "ro": "Ethnographic Museum",
+                "en": "Ethnographic Museum"
+              },
+              "tip_4lang": {
+                "de": "Dies ist der perfekte Ort für eine längere Pause im Warmen; genieße die Exponate ohne die Sommerhitze und die üblichen Touristenmassen.",
+                "hu": "Ez a tökéletes helyszín egy hosszabb pihenésre a melegben; élvezd a kiállított tárgyakat a nyári hőség és a tömegek nélkül a múzeum falai közt.",
+                "ro": "Acesta este locul perfect pentru o pauză lungă la căldură; savurează exponatele fără arșița verii și mulțimile obișnuite de turiști.",
+                "en": "This is the perfect spot for a longer break in the warm; enjoy the exhibits without the summer heat and the usual crowds inside the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Smoke Stack Minaret",
+                "hu": "Smoke Stack Minaret",
+                "ro": "Smoke Stack Minaret",
+                "en": "Smoke Stack Minaret"
+              },
+              "tip_4lang": {
+                "de": "Die Minarette wird im Winter früh beleuchtet; halte kurz an der Straßenseite an, um das nächtliche Flair der Stadt sicher einzufangen.",
+                "hu": "A minaret télen korán díszkivilágítást kap; állj meg rövid időre az út szélén, hogy biztonságban megörökíthesd a város esti hangulatát.",
+                "ro": "Minaretul este iluminat devreme iarna; oprește scurt pe marginea drumului pentru a surprinde în siguranță farmecul nocturn al orașului.",
+                "en": "The minaret is illuminated early in winter; pull over briefly at the roadside to safely capture the city's nocturnal flair."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Golemit",
+                "hu": "Liqeni i Golemit",
+                "ro": "Liqeni i Golemit",
+                "en": "Liqeni i Golemit"
+              },
+              "tip_4lang": {
+                "de": "Schließe den Tag mit einem Blick auf den See ab; bleibe im Auto, um den Sonnenuntergang bei laufender Heizung und bester Aussicht zu genießen.",
+                "hu": "Zárd a napot a tóparti látvánnyal; maradj az autóban, hogy a fűtést élvezve, a legjobb kilátás mellett nézhesd végig a naplementét.",
+                "ro": "Încheie ziua cu o privire asupra lacului; rămâi în mașină pentru a admira apusul de la căldură, profitând de cea mai bună vizibilitate.",
+                "en": "End the day with a lake view; stay in the car to enjoy the sunset with the heater running and the best view of the water."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Sétánkat Colunga szívében kezdjük, és nemesi házakon és árkádokon keresztül nyomon követjük nagyszerű építészeti örökségét.\n\nA történelmi központ a visszatért emigránsok és az ősi áhítat történeteit tárja elénk, mielőtt a város széle felé indulnánk.\n\nEgy békés séta egy kicsit kivezet minket a központból egy hangulatos tengerparti remetelakhoz, amelyet gyönyörű természet vesz körül.\n\nAhogy a nap a végéhez közeledik, a tengerparti szellő békés lezárást nyújt Colunga történelmi kincseinek felfedezéséhez.",
         "ro": "Începem plimbarea noastră în inima orașului Colunga, explorând marea sa moștenire arhitecturală prin case nobiliare și arcade.\n\nCentrul istoric dezvăluie povești despre emigranții întorși și devotamentul străvechi, înainte de a ne îndrepta spre marginea orașului.\n\nO plimbare liniștită ne scoate puțin din centru, către un schit fermecător de pe coastă, înconjurat de o natură frumoasă.\n\nPe măsură ce ziua se încheie, briza de coastă oferă un final senin explorării noastre a comorilor istorice din Colunga.",
         "en": "We begin our walk in the heart of Colunga, tracing its grand architectural heritage through noble houses and arcades.\n\nThe historic center reveals stories of returning emigrants and ancient devotion before we head towards the edge of town.\n\nA peaceful stroll takes us slightly out of the core to a charming coastal hermitage surrounded by beautiful natural vistas.\n\nAs the day winds down, the coastal breeze offers a serene end to our exploration of Colunga's historical treasures."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt zwischen historischen Palästen, während wir vorsichtig über regennasse Steine spazieren. Mittags bieten die Arkaden von Soportales Schutz vor dem Guss, ideal zum Bewundern der Architektur. Am Nachmittag finden wir Ruhe in den geschützten Kapellen, fernab vom prasselnden Regen. Abends spiegeln sich die Lichter auf dem nassen Pflaster und verleihen der Stadt einen magischen Glanz.",
+            "hu": "Reggel a város ódon palotái között kezdünk, az eső áztatta köveken óvatosan lépkedve. Délben a Soportales árkádjai nyújtanak menedéket a zápor elől, miközben a helyi építészetet csodáljuk. Délután a kápolnák csendje és fedett belső terei várnak, elrejtve a külvilág zaja elől. Este a nedves aszfalton tükröződő lámpafények teszik varázslatossá a kihalt, párás utcákat.",
+            "ro": "Dimineața începe printre palate istorice, mergând cu atenție pe pietrele umezite de ploaie. La prânz, arcadele din Soportales oferă adăpost împotriva averselor, fiind locul ideal pentru a admira arhitectura. După-amiaza, liniștea capelelor și interioarele lor protejate ne oferă un refugiu pașnic. Seara, luminile reflectate pe asfaltul umed transformă orașul într-un loc magic și misterios.",
+            "en": "Morning starts among ancient palaces, walking carefully on rain-slicked stones. By noon, the arcades of Soportales provide perfect shelter from the downpour while admiring local architecture. In the afternoon, the silence and sheltered interiors of the chapels offer a peaceful refuge from the storm. Evening turns the town magical as streetlights reflect on wet pavement and misty streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de Estrada",
+                "hu": "Palacio de Estrada",
+                "ro": "Palacio de Estrada",
+                "en": "Palacio de Estrada"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Barockfassade unter Ihrem Schirm und achten Sie auf die rutschigen Stufen am Eingang.",
+                "hu": "Csodálja meg a barokk homlokzatot az esernyő alól, és figyeljen a csúszós lépcsőkre a bejáratnál.",
+                "ro": "Admirați fațada barocă de sub umbrelă și aveți grijă la treptele alunecoase de la intrare.",
+                "en": "Admire the baroque facade from under your umbrella, and be careful of the slippery steps at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Pablos",
+                "hu": "Casa de los Pablos",
+                "ro": "Casa de los Pablos",
+                "en": "Casa de los Pablos"
+              },
+              "tip_5lang": {
+                "de": "Im Regen wirken die Farben der Wände noch intensiver; nutzen Sie nahe Dachvorsprünge für Ihre Fotos.",
+                "hu": "Az esőben a falak színei még élénkebbek; álljon meg a szomszédos eresz alatt a fotózáshoz.",
+                "ro": "În ploaie, culorile pereților sunt și mai intense; opriți-vă sub o streașină din apropiere pentru poze.",
+                "en": "The colors of the walls are even more vivid in the rain; stop under a nearby eave for a photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Soportales",
+                "hu": "Casa de Soportales",
+                "ro": "Casa de Soportales",
+                "en": "Casa de Soportales"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Gebäudes, die während Ihres Rundgangs einen perfekten trockenen Unterschlupf bieten.",
+                "hu": "Használja ki az épület árkádjait, amelyek tökéletes száraz menedéket nyújtanak a városnézés közben.",
+                "ro": "Profită de arcadele clădirii, care oferă un adăpost uscat perfect în timpul turului tău prin oraș.",
+                "en": "Take advantage of the building's arcades, which provide a perfect dry shelter during your sightseeing."
+              }
+            },
+            {
+              "name": {
+                "de": "Chalet Francés",
+                "hu": "Chalet Francés",
+                "ro": "Chalet Francés",
+                "en": "Chalet Francés"
+              },
+              "tip_5lang": {
+                "de": "Der üppige Garten wirkt im Regen fast tropisch; halten Sie Ihre Kamera unter den dichten Bäumen trocken.",
+                "hu": "A buja kert az esőben igazi trópusi hangulatot áraszt; tartsa szárazon a fényképezőgépét a fák alatt.",
+                "ro": "Grădina luxuriantă pare tropicală în ploaie; păstrați aparatul foto uscat sub adăpostul copacilor.",
+                "en": "The lush garden feels truly tropical in the rain; keep your camera dry under the shelter of the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de Nuestra Señora de Loreto",
+                "hu": "Capilla de Nuestra Señora de Loreto",
+                "ro": "Capilla de Nuestra Señora de Loreto",
+                "en": "Capilla de Nuestra Señora de Loreto"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das geschützte Innere ein, wo das Geräusch des Regens die feierliche Atmosphäre verstärkt.",
+                "hu": "Lépjen be a kápolna védett belső terébe, ahol a kopogó eső hangja még áhítatosabbá teszi a látogatást.",
+                "ro": "Intrați în interiorul protejat al capelei, unde sunetul ploii face vizita și mai solemnă.",
+                "en": "Step into the chapel's protected interior, where the sound of pattering rain adds to the solemn atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de Santa Catalina de Alejandría",
+                "hu": "Capilla de Santa Catalina de Alejandría",
+                "ro": "Capilla de Santa Catalina de Alejandría",
+                "en": "Capilla de Santa Catalina de Alejandría"
+              },
+              "tip_5lang": {
+                "de": "Bei Küstenwind kann der Regen horizontal fallen; tragen Sie auf dem Klippenpfad unbedingt eine Kapuze.",
+                "hu": "A tengerparti szélben az eső vízszintesen eshet, ezért viseljen kapucnit a sziklafalon felfelé menet.",
+                "ro": "În vântul de coastă, ploaia poate cădea orizontal; purtați o glugă în timp ce urcați poteca de pe stâncă.",
+                "en": "Rain can fall horizontally in the coastal wind, so wear a hood while walking up the cliffside path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühlen Morgen spazieren wir warm eingepackt zwischen den Adelshäusern von Colunga. Mittags suchen wir an den sonnenbeschienenen Mauern des historischen Zentrums ein wenig Wärme. Vor dem frühen Sonnenuntergang erreichen wir die Küstenkapelle, wo das Winterlicht dramatisch wirkt. Der Abend bringt mit dem frühen Nebel und dem beleuchteten Hauptplatz eine gemütliche winterliche Ruhe.",
+            "hu": "A hűvös reggelen Colunga nemesi házai között sétálunk, réteges öltözetben dacolva a tengeri széllel. Délben a napsütötte falak mentén keresünk egy kis meleget a történelmi központban. Délután, a korai sötétedés előtt még elérjük a tengerparti kápolnát, ahol a téli fények drámai hangulatot árasztanak. Este a korán leszálló köd és a kivilágított főtér meghitt, téli nyugalmat áraszt.",
+            "ro": "În dimineața răcoroasă mergem printre casele nobiliare din Colunga, înfruntând briza mării în haine stratificate. La prânz, căutăm căldură de-a lungul zidurilor însorite din centrul istoric. După-amiaza, ajungem la capela de pe coastă înainte de apusul devreme, unde lumina de iarnă creează o atmosferă dramatică. Seara aduce o liniște de iarnă cu ceață timpurie și piața principală iluminată.",
+            "en": "On a chilly morning, we walk among noble houses, braving the sea breeze in layered clothing. By noon, we seek warmth along the sun-drenched walls of the historic center. In the afternoon, we reach the coastal chapel before the early sunset, where winter lights create a dramatic atmosphere. Evening brings a cozy winter calm with early mist and the illuminated main square."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de Estrada",
+                "hu": "Palacio de Estrada",
+                "ro": "Palacio de Estrada",
+                "en": "Palacio de Estrada"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft lässt die Details der Steinarbeiten schärfer hervortreten; tragen Sie warme Handschuhe.",
+                "hu": "A tiszta téli levegőben élesebben látszanak a kőfaragások részletei; viseljen meleg kesztyűt a nézelődéshez.",
+                "ro": "Aerul curat de iarnă scoate în evidență detaliile sculpturilor în piatră; purtați mănuși groase pentru vizită.",
+                "en": "The crisp winter air makes the details of the stonework pop; wear warm gloves for your sightseeing."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Pablos",
+                "hu": "Casa de los Pablos",
+                "ro": "Casa de los Pablos",
+                "en": "Casa de los Pablos"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die tiefstehende Wintersonne lange Schatten auf die farbenfrohe Fassade wirft.",
+                "hu": "Figyelje meg, ahogy az alacsonyan járó téli nap hosszú árnyékokat vet a színes homlokzatra délelőtt.",
+                "ro": "Observați cum soarele jos de iarnă aruncă umbre lungi pe fațada colorată în timpul dimineții.",
+                "en": "Observe how the low winter sun casts long shadows on the colorful facade during the morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Soportales",
+                "hu": "Casa de Soportales",
+                "ro": "Casa de Soportales",
+                "en": "Casa de Soportales"
+              },
+              "tip_5lang": {
+                "de": "Diese Arkaden schützen hervorragend vor dem kühlen Wind, der oft durch die Gassen des Zentrums zieht.",
+                "hu": "Ezek az árkádok kiválóan védenek a hűvös széltől, amely gyakran végigfúj a központ szűk utcáin.",
+                "ro": "Aceste arcade oferă o protecție excelentă împotriva vântului rece care suflă adesea pe străzile centrului.",
+                "en": "These arcades provide excellent protection from the chilly wind that often blows through the center streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Chalet Francés",
+                "hu": "Chalet Francés",
+                "ro": "Chalet Francés",
+                "en": "Chalet Francés"
+              },
+              "tip_5lang": {
+                "de": "Das herrschaftliche Haus wirkt im winterlichen Licht besonders majestätisch; ein Schal schützt vor der Kühle.",
+                "hu": "Az úri lak a téli fényekben különösen fenségesnek tűnik; egy sál sokat segít a tengeri szél ellen.",
+                "ro": "Conacul pare deosebit de maiestuos în lumina iernii; un fular vă va proteja de briza rece a mării.",
+                "en": "The manor looks particularly majestic in the winter light; a scarf helps a lot against the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de Nuestra Señora de Loreto",
+                "hu": "Capilla de Nuestra Señora de Loreto",
+                "ro": "Capilla de Nuestra Señora de Loreto",
+                "en": "Capilla de Nuestra Señora de Loreto"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Kapelle bietet einen ruhigen und windgeschützten Ort für eine kurze Rast.",
+                "hu": "A kápolna belső tere csendes és szélvédett helyet kínál egy rövid pihenőre a téli séta során.",
+                "ro": "Interiorul capelei oferă un loc liniștit și ferit de vânt pentru o scurtă pauză în timpul plimbării.",
+                "en": "The interior of the chapel offers a quiet and wind-sheltered spot for a short break during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de Santa Catalina de Alejandría",
+                "hu": "Capilla de Santa Catalina de Alejandría",
+                "ro": "Capilla de Santa Catalina de Alejandría",
+                "en": "Capilla de Santa Catalina de Alejandría"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um das letzte Tageslicht über der winterlichen Biskaya zu genießen.",
+                "hu": "Érkezzen 16:30 előtt, hogy még láthassa az utolsó fényeket a téli tenger felett a korai naplemente előtt.",
+                "ro": "Sosiți înainte de ora 16:30 pentru a vedea ultimele raze de lumină peste mare înainte de apus.",
+                "en": "Arrive before 16:30 to catch the last rays of light over the winter sea before the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Egy reggeli tekerés során gyorsan elhaladunk Colunga központjának elegáns palotái és történelmi házai mellett.\n\nA part felé pedálozunk, és megérkezünk a lenyűgöző dinoszaurusz múzeumhoz, hogy évmilliókat utazzunk vissza az időben.\n\nAz útvonal a gyönyörű torkolati strandig vezet, ahol letesszük a kerékpárokat, hogy felfedezzük a sziklákban lévő ősi lábnyomokat.\n\nA parti ösvényeken visszakerekezve a tengerparti kápolnánál tett megálló teszi teljessé ezt az aktív és lenyűgöző napot.",
         "ro": "O plimbare de dimineață ne duce rapid pe lângă palatele elegante și casele istorice din centrul orașului Colunga.\n\nPedalăm spre coastă, ajungând la impresionantul muzeu al dinozaurilor pentru a ne întoarce în timp cu milioane de ani.\n\nTraseul continuă până la frumoasa plajă a estuarului, unde lăsăm bicicletele pentru a explora amprentele antice din stânci.\n\nPedalând înapoi pe potecile de coastă, o oprire la o capelă pe malul mării completează o zi activă și fascinantă.",
         "en": "A morning ride takes us swiftly past the elegant palaces and historic houses of central Colunga.\n\nWe pedal towards the coast, arriving at the impressive dinosaur museum to step back millions of years in time.\n\nThe route continues down to the beautiful estuary beach, where we leave the bikes to explore ancient footprints in the rocks.\n\nCycling back along the coastal paths, a stop at a seaside chapel rounds off an active and fascinating day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt mit Vorsicht auf den rutschigen Straßen von Colunga. Mittags bietet das Jura-Museum einen perfekten, trockenen Stopp mit viel Platz für die Ausrüstung. Am Nachmittag radeln wir entlang der Küste, wo der Nebel dem Meer eine mystische Aura verleiht. Der Tag endet mit der Gewissheit, dass die Kapelle auf dem Hügel auch bei Regen ein lohnendes Ziel ist.",
+            "hu": "Az esős kerékpáros nap óvatos indulással kezdődik Colunga csúszós utcáin. Délben a Jura-múzeum tökéletes száraz megállót kínál, ahol bőven van hely a felszerelésnek is. Délután a tengerpart mentén tekerünk, ahol a köd misztikus aurát kölcsönöz a víznek. A nap végén a dombtetőn lévő kápolna esőben is felejthetetlen látványt nyújt.",
+            "ro": "O zi de ciclism pe ploaie începe cu prudență pe străzile alunecoase din Colunga. La prânz, Muzeul Jurasic oferă o oprire uscată perfectă, cu spațiu suficient pentru echipament. După-amiaza pedalăm de-a lungul coastei, unde ceața oferă mării o aură mistică. Ziua se încheie la capela de pe deal, care rămâne o destinație spectaculoasă chiar și pe ploaie.",
+            "en": "A rainy cycling day starts with caution on the slippery streets of Colunga. By noon, the Jurassic Museum offers a perfect dry stop with plenty of space for your gear. In the afternoon, we bike along the coast where the mist gives the sea a mystical aura. The day ends at the hilltop chapel, which remains a rewarding destination even in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de Estrada",
+                "hu": "Palacio de Estrada",
+                "ro": "Palacio de Estrada",
+                "en": "Palacio de Estrada"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; das Kopfsteinpflaster hier wird bei Nässe extrem glatt.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; az itteni macskaköves út esőben rendkívül csúszóssá válik.",
+                "ro": "Verificați frânele înainte de plecare; drumul cu piatră cubică de aici devine foarte alunecos pe ploaie.",
+                "en": "Check your brakes before starting; the cobblestone road here becomes extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Pablos",
+                "hu": "Casa de los Pablos",
+                "ro": "Casa de los Pablos",
+                "en": "Casa de los Pablos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Stopp, um Ihre Brille zu reinigen; die bunten Wände sind auch im Regen fotogen.",
+                "hu": "Használja ki a rövid megállót a szemüvege megtisztítására; a színes falak esőben is remekül mutatnak.",
+                "ro": "Folosiți oprirea scurtă pentru a vă curăța ochelarii; pereții colorați arată grozav chiar și pe ploaie.",
+                "en": "Use the short stop to clean your glasses; the colorful walls look great even in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Chalet Francés",
+                "hu": "Chalet Francés",
+                "ro": "Chalet Francés",
+                "en": "Chalet Francés"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf der Straße beim Haus, das für schmale Reifen tückisch sein kann.",
+                "hu": "Ügyeljen az úton lévő nedves levelekre a ház közelében, amelyek veszélyesek lehetnek a vékony gumiknak.",
+                "ro": "Atenție la frunzele umede de pe drumul de lângă casă, care pot fi periculoase pentru cauciucurile înguste.",
+                "en": "Watch out for wet leaves on the road near the house, which can be treacherous for narrow bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Jurásico de Asturias",
+                "hu": "Museo del Jurásico de Asturias",
+                "ro": "Museo del Jurásico de Asturias",
+                "en": "Museo del Jurásico de Asturias"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad am überdachten Ständer und genießen Sie die Ausstellungen im warmen, trockenen Inneren.",
+                "hu": "Parkolja le a biciklit a fedett tárolónál, és élvezze a kiállításokat a meleg és száraz belső térben.",
+                "ro": "Parcați bicicleta la suportul acoperit și bucurați-vă de expoziții în interiorul cald și uscat.",
+                "en": "Park your bike at the covered rack and enjoy the exhibits in the warm and dry indoor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de La Griega",
+                "hu": "Playa de La Griega",
+                "ro": "Playa de La Griega",
+                "en": "Playa de La Griega"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie den weichen Sand mit dem Rad; bleiben Sie auf dem asphaltierten Weg direkt hinter dem Strand.",
+                "hu": "Kerülje el a puha homokot a biciklivel; maradjon a közvetlenül a strand mögötti aszfaltozott úton.",
+                "ro": "Evitați nisipul moale cu bicicleta; rămâneți pe drumul asfaltat situat chiar în spatele plajei.",
+                "en": "Avoid the soft sand with your bike; stay on the paved path located directly behind the beach area."
+              }
+            },
+            {
+              "name": {
+                "de": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+                "hu": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+                "ro": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+                "en": "Yacimiento de icnitas de dinosaurio de la playa de la Griega"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen am Fundort sind bei Regen sehr rutschig; steigen Sie vom Rad ab und gehen Sie vorsichtig zu Fuß.",
+                "hu": "A lelőhelynél a sziklák esőben nagyon csúszósak; szálljon le a nyeregből és óvatosan menjen gyalog.",
+                "ro": "Stâncile de la sit sunt foarte alunecoase pe ploaie; coborâți de pe bicicletă și mergeți cu mare atenție.",
+                "en": "The rocks at the site are very slippery in the rain; get off your bike and walk with great care."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de Santa Catalina de Alejandría",
+                "hu": "Capilla de Santa Catalina de Alejandría",
+                "ro": "Capilla de Santa Catalina de Alejandría",
+                "en": "Capilla de Santa Catalina de Alejandría"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend; tragen Sie eine atmungsaktive Regenjacke, um nicht zu überhitzen.",
+                "hu": "Az emelkedő izzasztó lesz; viseljen jól szellőző esőkabátot, hogy elkerülje a túlmelegedést felfelé.",
+                "ro": "Urcarea este solicitantă; purtați o jachetă de ploaie respirabilă pentru a evita supraîncălzirea.",
+                "en": "The climb is demanding; wear a breathable rain jacket to avoid overheating while pedaling uphill."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen auf dem Rad erfordert gute Schichten gegen den Fahrtwind. Mittags lockt das Jura-Museum als warmer Rückzugsort mit fantastischem Blick auf die winterliche Küste. Am Nachmittag nutzen wir das klare Licht für Fotos am Strand, bevor es kälter wird. Vor dem frühen Dunkelwerden erreichen wir den höchsten Punkt bei der Kapelle für ein Panorama im Dämmerlicht.",
+            "hu": "A hűvös téli reggelen a biciklin jó réteges öltözet kell a menetszél ellen. Délben a Jura-múzeum meleg menedékként vár, ahonnan fantasztikus kilátás nyílik a téli partvidékre. Délután kihasználjuk a tiszta fényeket a tengerparton, mielőtt lehűlne a levegő. A korai sötétedés előtt érjük el a kápolnát a szürkületi panorámáért.",
+            "ro": "O dimineață răcoroasă de iarnă pe bicicletă necesită straturi bune împotriva vântului. La prânz, Muzeul Jurasic oferă un refugiu cald cu vederi superbe spre coasta înghețată. După-amiaza profităm de lumina clară pentru poze pe plajă, înainte de lăsarea frigului. Înainte de întuneric, ajungem la capelă pentru panorama de amurg.",
+            "en": "A chilly winter morning on the bike requires good layers against the wind chill. By noon, the Jurassic Museum is a warm retreat with fantastic views of the winter coastline. In the afternoon, we use the clear light for photos at the beach before it gets colder. Before the early dark sets in, we reach the chapel for a twilight panorama."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de Estrada",
+                "hu": "Palacio de Estrada",
+                "ro": "Palacio de Estrada",
+                "en": "Palacio de Estrada"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, um Ihre Finger bei der Abfahrt durch die Stadt warm zu halten.",
+                "hu": "Viseljen szélálló kesztyűt, hogy ujjai ne gémberedjenek el a városon átvezető lejtős szakaszon.",
+                "ro": "Purtați mănuși rezistente la vânt pentru a vă menține degetele calde în timpul coborârii prin oraș.",
+                "en": "Wear windproof gloves to keep your fingers warm during the downhill stretches through the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Pablos",
+                "hu": "Casa de los Pablos",
+                "ro": "Casa de los Pablos",
+                "en": "Casa de los Pablos"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet tolles Licht; machen Sie schnell ein Foto, bevor es im Schatten der Häuser kühl wird.",
+                "hu": "Az alacsony napállás remek fényeket ad; lőjön egy gyors fotót, mielőtt a házak árnyékában lehűlne.",
+                "ro": "Soarele jos oferă o lumină excelentă; faceți repede o poză înainte de a se răci în umbra caselor.",
+                "en": "The low sun provides great light; snap a quick photo before it gets chilly in the shadow of the houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Chalet Francés",
+                "hu": "Chalet Francés",
+                "ro": "Chalet Francés",
+                "en": "Chalet Francés"
+              },
+              "tip_5lang": {
+                "de": "Der Garten ist im Winter kahl, aber das Haus wirkt majestätisch; halten Sie sich durch stetiges Treten warm.",
+                "hu": "A kert télen kopár, de az épület fenséges; tartsa melegen magát folyamatos pedálozással a megálló után.",
+                "ro": "Grădina este golașă iarna, dar casa pare maiestuoasă; mențineți-vă cald pedalând constant după oprire.",
+                "en": "The garden is bare in winter, but the house looks majestic; keep yourself warm by steady pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Jurásico de Asturias",
+                "hu": "Museo del Jurásico de Asturias",
+                "ro": "Museo del Jurásico de Asturias",
+                "en": "Museo del Jurásico de Asturias"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Café des Museums auf und genießen Sie den Panoramablick auf die Küste durch das Glas.",
+                "hu": "Melegedjen fel a múzeum kávézójában, és élvezze a tengerparti panorámát az üvegfalakon keresztül.",
+                "ro": "Încălziți-vă la cafeneaua muzeului și admirați panorama de coastă prin pereții mari de sticlă.",
+                "en": "Warm up in the museum's café and enjoy the coastal panorama through the large glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de La Griega",
+                "hu": "Playa de La Griega",
+                "ro": "Playa de La Griega",
+                "en": "Playa de La Griega"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind am Strand kann stark sein; ziehen Sie eine zusätzliche Schicht über, bevor Sie anhalten.",
+                "hu": "A téli szél a strandon erős lehet; vegyen fel egy plusz réteget, mielőtt hosszabb időre megállna a parton.",
+                "ro": "Vântul de iarnă pe plajă poate fi puternic; puneți-vă un strat în plus înainte de a vă opri pe mal.",
+                "en": "The winter wind at the beach can be strong; put on an extra layer before stopping for a while on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+                "hu": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+                "ro": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+                "en": "Yacimiento de icnitas de dinosaurio de la playa de la Griega"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch für die Mittagszeit, wenn die Sonne die Felsen am meisten erwärmt.",
+                "hu": "A látogatást a déli órákra időzítse, amikor a nap a legjobban felmelegíti a sziklákat a lelőhelyen.",
+                "ro": "Planificați vizita pentru orele prânzului, când soarele încălzește cel mai bine stâncile de la sit.",
+                "en": "Plan your visit for the midday hours when the sun warms the rocks at the site the most."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de Santa Catalina de Alejandría",
+                "hu": "Capilla de Santa Catalina de Alejandría",
+                "ro": "Capilla de Santa Catalina de Alejandría",
+                "en": "Capilla de Santa Catalina de Alejandría"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter gegen 17:00 Uhr; sorgen Sie für eine funktionierende Fahrradbeleuchtung.",
+                "hu": "A naplemente télen 17:00 körül van; gondoskodjon róla, hogy legyen működő világítása a visszaútra.",
+                "ro": "Apusul este în jur de ora 17:00 iarna; asigurați-vă că aveți lumini funcționale pentru drumul de întoarcere.",
+                "en": "Sunset is around 17:00 in winter; make sure you have working lights for the ride back to the center."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "A városban indulva röviden megcsodáljuk a hagyományos építészetet, majd kocsival a festői part menti látnivalók felé indulunk.\n\nUtunk a dinoszaurusz múzeumhoz vezet, amelynek magaslati elhelyezkedése lenyűgöző kilátást is nyújt a környékre.\n\nEgy rövid ugrás levisz minket a strandra, amely tökéletes egy délutáni sétához, hogy hatalmas dinoszaurusz-lábnyomokat fedezzünk fel.\n\nA napot úgy fejezzük be, hogy kényelmesen visszautazunk a város felé, és nézzük, ahogy a nap leereszkedik a Vizcayai-öböl felett.",
         "ro": "Începând din oraș, admirăm pe scurt arhitectura tradițională înainte de a conduce spre atracțiile pitorești de pe coastă.\n\nCălătoria ne duce la muzeul dinozaurilor, a cărui poziție înaltă oferă, de asemenea, priveliști uimitoare ale zonei înconjurătoare.\n\nUn salt scurt ne aduce pe plajă, perfectă pentru o plimbare de după-amiază pentru a descoperi amprente uriașe de dinozauri.\n\nÎncheiem ziua conducând confortabil înapoi spre oraș, urmărind cum soarele apune peste Marea Cantabrică.",
         "en": "Starting in town, we briefly admire the traditional architecture before driving out to the scenic coastal highlights.\n\nOur drive takes us up to the dinosaur museum, where its elevated position also provides stunning views of the surrounding area.\n\nA short hop brings us down to the beach, perfect for an afternoon stroll to uncover massive dinosaur footprints.\n\nWe finish the day driving comfortably back towards the town, watching the sun lower over the Cantabrian Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem regnerischen Tag bietet das Auto den besten Komfort, um Colunga zu erkunden. Morgens besuchen wir die Kapellen im Ort, fast ohne nass zu werden. Mittags ist das Jura-Museum der ideale trockene Zufluchtsort mit tollen Ausblicken. Nachmittags fahren wir zur Küste, wo die Wellen bei Regen besonders beeindruckend sind, bevor wir den Tag gemütlich im warmen Wagen ausklingen lassen.",
+            "hu": "Az esős napon az autó nyújtja a legnagyobb kényelmet Colunga felfedezéséhez. Reggel a városi kápolnákat keressük fel, szinte teljesen szárazon maradva. Délben a Jura-múzeum az ideális menedék, fantasztikus kiállításokkal. Délután a tengerpartra autózunk, ahol a viharos hullámok látványa felejthetetlen, majd a meleg kocsiban pihenve fejezzük be a napot.",
+            "ro": "Într-o zi ploioasă, mașina oferă cel mai bun confort pentru a explora Colunga. Dimineața vizităm capelele din oraș, rămânând aproape complet uscați. La prânz, Muzeul Jurasic este refugiul ideal, cu expoziții fantastice. După-amiaza conducem spre coastă, unde valurile mării sunt impresionante pe ploaie, apoi încheiem ziua relaxându-ne în mașina caldă.",
+            "en": "On a rainy day, the car provides the best comfort for exploring Colunga. In the morning, we visit the town's chapels, staying almost completely dry. By noon, the Jurassic Museum is the ideal dry sanctuary with great exhibits. In the afternoon, we drive to the coast where the waves are particularly impressive in the rain, ending the day comfortably in our warm vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de Soportales",
+                "hu": "Casa de Soportales",
+                "ro": "Casa de Soportales",
+                "en": "Casa de Soportales"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und nutzen Sie die Arkaden, um auch bei starkem Regen trockenen Fußes das Haus zu sehen.",
+                "hu": "Parkoljon a közelben, és használja az árkádokat, hogy erős esőben is száraz lábbal nézhesse meg az épületet.",
+                "ro": "Parcați în apropiere și folosiți arcadele pentru a vedea clădirea fără să vă udați, chiar și pe ploaie torențială.",
+                "en": "Park nearby and use the arcades to view the building with dry feet even during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de Nuestra Señora de Loreto",
+                "hu": "Capilla de Nuestra Señora de Loreto",
+                "ro": "Capilla de Nuestra Señora de Loreto",
+                "en": "Capilla de Nuestra Señora de Loreto"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt in der Nähe; ein kurzer Sprint mit dem Schirm bringt Sie schnell ins trockene Innere.",
+                "hu": "Közvetlenül a közelben vannak parkolóhelyek; egy rövid sprint az esernyővel és máris a száraz belsőben van.",
+                "ro": "Există locuri de parcare chiar lângă; un sprint scurt cu umbrela vă va duce rapid în interiorul uscat.",
+                "en": "There are parking spots right nearby; a short sprint with an umbrella will quickly get you into the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de Santa Catalina de Alejandría",
+                "hu": "Capilla de Santa Catalina de Alejandría",
+                "ro": "Capilla de Santa Catalina de Alejandría",
+                "en": "Capilla de Santa Catalina de Alejandría"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zur Kapelle ist schmal und bei Regen rutschig; fahren Sie langsam und vorsichtig in den Kurven.",
+                "hu": "A kápolnához vezető út szűk és esőben csúszós; vezessen lassan és óvatosan a kanyargós szakaszokon.",
+                "ro": "Drumul spre capelă este îngust și alunecos pe ploaie; conduceți încet și cu atenție în secțiunile curbate.",
+                "en": "The road to the chapel is narrow and slippery in the rain; drive slowly and carefully in the winding sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Jurásico de Asturias",
+                "hu": "Museo del Jurásico de Asturias",
+                "ro": "Museo del Jurásico de Asturias",
+                "en": "Museo del Jurásico de Asturias"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz des Museums; das Gebäude bietet stundenlangen Schutz vor dem schlechten Wetter.",
+                "hu": "Használja a múzeum tágas parkolóját; az épület órákig tartó menedéket nyújt a rossz idő elől.",
+                "ro": "Folosiți parcarea spațioasă a muzeului; clădirea oferă adăpost timp de câteva ore împotriva vremii rele.",
+                "en": "Take advantage of the museum's spacious parking; the building provides hours of shelter from the bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de La Griega",
+                "hu": "Playa de La Griega",
+                "ro": "Playa de La Griega",
+                "en": "Playa de La Griega"
+              },
+              "tip_5lang": {
+                "de": "Sie können das Meer vom Parkplatz aus beobachten, wenn der Regen zu stark für einen Spaziergang ist.",
+                "hu": "A parkolóból is gyönyörködhet a tengerben, ha az eső túl erős lenne egy kiadós tengerparti sétához.",
+                "ro": "Puteți admira marea chiar din parcare, dacă ploaia este prea puternică pentru o plimbare pe mal.",
+                "en": "You can enjoy the sea view even from the parking lot if the rain is too heavy for a long beach walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+                "hu": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+                "ro": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+                "en": "Yacimiento de icnitas de dinosaurio de la playa de la Griega"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe mit gutem Profil für den kurzen, aber nassen Weg vom Parkplatz zu den Spuren.",
+                "hu": "Viseljen jó tapadású, vízálló cipőt a parkolótól a lábnyomokhoz vezető rövid, de vizes ösvényen.",
+                "ro": "Purtați încălțăminte impermeabilă cu aderență bună pentru poteca scurtă, dar udă, până la urmele de dinozaur.",
+                "en": "Wear waterproof shoes with good grip for the short but wet path from the parking to the dinosaur tracks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto ideal, um die kühle Brise der Biskaya zu genießen. Morgens erkunden wir die historischen Schätze von Colunga und kehren immer wieder ins warme Fahrzeug zurück. Mittags bietet das Jura-Museum einen gemütlichen Stopp mit weitem Blick. Den Nachmittag verbringen wir an der Küste, um das klare Winterlicht zu bewundern, bevor wir pünktlich zum frühen Sonnenuntergang den besten Aussichtspunkt anfahren.",
+            "hu": "Télen az autó ideális választás, hogy a hűvös tengeri szél ellenére is kényelmesen várost nézzünk. Reggel Colunga történelmi kincseit fedezzük fel, időnként visszatérve a meleg utastérbe. Délben a Jura-múzeum kínál meghitt pihenőt és pazar kilátást. Délután a parton csodáljuk a tiszta téli fényeket, majd a korai naplementére keresünk egy tökéletes panorámájú pontot.",
+            "ro": "Iarna, mașina este alegerea ideală pentru a vizita orașul fără a suferi de briza rece a mării. Dimineața explorăm comorile istorice din Colunga, revenind periodic în interiorul cald. La prânz, Muzeul Jurasic oferă o pauză primitoare și vederi superbe. După-amiaza admirăm lumina clară de iarnă pe malul mării, apoi căutăm un punct cu panoramă pentru apusul devreme.",
+            "en": "In winter, the car is ideal for sightseeing while staying protected from the chilly sea breeze. In the morning, we explore the historical treasures of Colunga, returning periodically to the warm vehicle. By noon, the Jurassic Museum offers a cozy break and grand views. We spend the afternoon admiring the clear winter light on the shore, then head to a panoramic viewpoint for the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de Soportales",
+                "hu": "Casa de Soportales",
+                "ro": "Casa de Soportales",
+                "en": "Casa de Soportales"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Sitzheizung an; der kurze Stopp an der zugigen Straßenecke macht sie danach umso wertvoller.",
+                "hu": "Hagyja bekapcsolva az ülésfűtést; a huzatos utcai megálló után jól fog esni a visszatérés a melegbe.",
+                "ro": "Lăsați încălzirea în scaune pornită; după oprirea în colțul de stradă cu vânt, va fi o plăcere să reveniți.",
+                "en": "Leave the seat heating on; after the stop at the windy street corner, you will appreciate returning to the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de Nuestra Señora de Loreto",
+                "hu": "Capilla de Nuestra Señora de Loreto",
+                "ro": "Capilla de Nuestra Señora de Loreto",
+                "en": "Capilla de Nuestra Señora de Loreto"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist im Winter oft weniger besucht; genießen Sie die Ruhe vor der Weiterfahrt im warmen Wagen.",
+                "hu": "A kápolna télen gyakran csendesebb; élvezze a nyugalmat, mielőtt továbbindulna a fűtött autóval.",
+                "ro": "Capela este adesea mai liniștită iarna; bucurați-vă de pace înainte de a pleca mai departe cu mașina caldă.",
+                "en": "The chapel is often quieter in winter; enjoy the peace before heading further in your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de Santa Catalina de Alejandría",
+                "hu": "Capilla de Santa Catalina de Alejandría",
+                "ro": "Capilla de Santa Catalina de Alejandría",
+                "en": "Capilla de Santa Catalina de Alejandría"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vor der Fahrt zum Hügel, da die Kälte ihn oft leicht absinken lässt.",
+                "hu": "A dombra indulás előtt ellenőrizze a keréknyomást, mert a hidegben gyakran csökken a gumiabroncsok nyomása.",
+                "ro": "Verificați presiunea în pneuri înainte de a urca pe deal, deoarece frigul o poate reduce semnificativ.",
+                "en": "Check your tire pressure before heading to the hill, as cold temperatures often cause it to drop slightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Jurásico de Asturias",
+                "hu": "Museo del Jurásico de Asturias",
+                "ro": "Museo del Jurásico de Asturias",
+                "en": "Museo del Jurásico de Asturias"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang vom Museumsgelände aus; das Auto steht bereit für die Rückfahrt im Dunkeln.",
+                "hu": "Élvezze a naplementét a múzeum területéről; az autó készen áll a sötétben való visszautazáshoz.",
+                "ro": "Bucurați-vă de apus din curtea muzeului; mașina este pregătită pentru drumul de întoarcere pe întuneric.",
+                "en": "Enjoy the sunset from the museum grounds; the car is ready for the drive back to town in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de La Griega",
+                "hu": "Playa de La Griega",
+                "ro": "Playa de La Griega",
+                "en": "Playa de La Griega"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick aufs Meer, um die winterliche Brandung gemütlich aus dem warmen Auto zu beobachten.",
+                "hu": "Parkoljon a tengerre nézve, hogy a meleg autóból csodálhassa a téli hullámverést a parton.",
+                "ro": "Parcați cu fața spre mare pentru a admira valurile iernii din confortul și căldura mașinii.",
+                "en": "Park facing the sea so you can admire the winter surf from the comfort and warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+                "hu": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+                "ro": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+                "en": "Yacimiento de icnitas de dinosaurio de la playa de la Griega"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an; das restliche Tageslicht reicht gerade noch für einen kurzen Blick auf die Spuren.",
+                "hu": "Érkezzen 16:30 előtt; a maradék nappali fény épp elég lesz egy rövid pillantásra a dinoszaurusz nyomokra.",
+                "ro": "Sosiți înainte de 16:30; lumina rămasă va fi suficientă pentru o scurtă privire asupra urmelor de dinozaur.",
+                "en": "Arrive before 16:30; the remaining daylight will be just enough for a quick look at the dinosaur tracks."
+              }
+            }
+          ]
+        }
       }
     }
   }

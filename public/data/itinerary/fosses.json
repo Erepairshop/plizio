@@ -137,6 +137,168 @@
         "de": "Der Morgen beginnt in Fosses mit moderner Architektur.\n\nMittags spazieren Sie durch ruhige Vorortwege zum Kern von Bellefontaine.\n\nDer Nachmittag ist dem majestätischen Schloss und historischen Wahrzeichen gewidmet.\n\nWenn der Abend naht, bietet Saint-Nicolas einen ruhigen Abschluss.",
         "hu": "A reggel Fosses szívében indul, a modern építészet jegyében.\n\nDélben békés ösvényeken sétálva éri el Bellefontaine történelmi magját.\n\nA délutánt a fenséges kastély és a helyi nevezetességek felfedezésének szenteljük.\n\nAz este közeledtével a Saint-Nicolas templom nyújt nyugodt befejezést.",
         "ro": "Dimineața începe în Fosses, admirând arhitectura sa modernă.\n\nLa prânz, vă veți plimba pe poteci liniștite spre nucleul Bellefontaine.\n\nDupă-amiaza este dedicată explorării domeniului castelului și a reperelor istorice.\n\nSpre seară, biserica Saint-Nicolas oferă un final seren și relaxant."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Start your walk with indoor visits to the modern Sainte-Thérèse and the historic Saint-Étienne churches. By noon, the thick walls of Bellefontaine Castle provide excellent shelter. Spend the afternoon near the town hall and conclude your rainy day at Saint-Nicolas Church, where the sound of raindrops on the roof adds a unique charm. Wear waterproof shoes for the potentially muddy trails.",
+            "de": "Beginnen Sie Ihren Gang mit Besichtigungen der modernen Kirche Sainte-Thérèse und der historischen Kirche Saint-Étienne. Mittags bieten die dicken Mauern von Schloss Bellefontaine hervorragenden Schutz. Verbringen Sie den Nachmittag am Rathaus und schließen Sie den Regentag in der Kirche Saint-Nicolas ab. Tragen Sie wasserfeste Schuhe für die unbefestigten Wege, die heute schlammig sein können.",
+            "hu": "Kezdje a sétát a modern Sainte-Thérèse és a történelmi Saint-Étienne templomok meglátogatásával. Délben a Bellefontaine kastély vastag falai nyújtanak menedéket az eső elől. A délutánt töltse a városháza környékén, majd zárja a napot a Saint-Nicolas templomban, ahol a tetőn kopogó eső különleges hangulatot áraszt. A sáros ösvények miatt mindenképpen viseljen vízálló lábbelit a túrához.",
+            "ro": "Începeți plimbarea cu vizite interioare la bisericile Sainte-Thérèse și Saint-Étienne. La prânz, zidurile groase ale Castelului Bellefontaine oferă un adăpost excelent. Petreceți după-amiaza lângă primărie și încheiați ziua ploioasă la Biserica Saint-Nicolas, unde sunetul picăturilor de ploaie pe acoperiș adaugă un farmec aparte. Purtați încălțăminte impermeabilă pentru potecile care pot fi noroioase."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Sainte-Thérèse Church",
+                "de": "Sainte-Thérèse Kirche",
+                "hu": "Sainte-Thérèse templom",
+                "ro": "Biserica Sainte-Thérèse"
+              },
+              "tip_5lang": {
+                "en": "Admire the modern architecture while staying dry inside; watch for slippery steps at the entrance during heavy rain. Use the porch to shake your umbrella before entering.",
+                "de": "Bewundern Sie die moderne Architektur im trockenen Innenraum; achten Sie bei starkem Regen auf rutschige Stufen am Eingang. Nutzen Sie den Vorbau, um den Schirm auszuschütteln.",
+                "hu": "Csodálja meg a modern építészetet a száraz belső térben; erős esőben ügyeljen a bejáratnál lévő csúszós lépcsőkre. Használja a tornácot az esernyő alapos lerázásához.",
+                "ro": "Admirați arhitectura modernă în timp ce stați la adăpost; atenție la treptele alunecoase de la intrare în timpul ploii. Folosiți pridvorul pentru a scutura umbrela."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Étienne Church",
+                "de": "Saint-Étienne Kirche",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne"
+              },
+              "tip_5lang": {
+                "en": "Explore the Romanesque details of this quiet sanctuary; the surrounding trees provide some natural cover as you approach the main doors on rainy days. Perfect for meditation.",
+                "de": "Erkunden Sie die romanischen Details dieses ruhigen Heiligtums; die Bäume bieten natürlichen Schutz vor dem Regen auf dem Weg zum Eingang. Ein idealer Ort für Besinnung.",
+                "hu": "Fedezze fel a csendes szentély román stílusú részleteit; a környező fák természetes védelmet nyújtanak az eső ellen, amíg eléri a főbejáratot. Kiváló hely az elmélyülésre.",
+                "ro": "Explorați detaliile romanice ale acestui sanctuar liniștit; copacii din jur oferă protecție naturală în timp ce vă apropiați de uși pe ploaie. Un loc perfect pentru meditație."
+              }
+            },
+            {
+              "name": {
+                "en": "Bellefontaine Castle",
+                "de": "Schloss Bellefontaine",
+                "hu": "Bellefontaine kastély",
+                "ro": "Castelul Bellefontaine"
+              },
+              "tip_5lang": {
+                "en": "Dive into the history of the estate within the thick stone walls; carry a waterproof map as the park paths can be quite muddy and slippery today. Stay on the gravel paths.",
+                "de": "Tauchen Sie in die Geschichte des Anwesens in den dicken Steinmauern ein; nehmen Sie eine wasserfeste Karte mit, da die Parkwege heute schlammig sein können. Bleiben Sie auf Kies.",
+                "hu": "Merüljön el a birtok történelmében a vastag kőfalak között; vigyen vízálló térképet, mivel a park ösvényei ma sárosak lehetnek. Lehetőleg maradjon a kavicsos utakon.",
+                "ro": "Explorați istoria domeniului între zidurile groase de piatră; purtați o hartă impermeabilă, deoarece potecile parcului pot fi noroioase astăzi. Rămâneți pe aleile cu pietriș."
+              }
+            },
+            {
+              "name": {
+                "en": "Bellefontaine Town Hall",
+                "de": "Rathaus Bellefontaine",
+                "hu": "Bellefontaine városháza",
+                "ro": "Primăria Bellefontaine"
+              },
+              "tip_5lang": {
+                "en": "A quick stop to appreciate the local administration building; the paved area around the hall is much safer and less muddy than the nearby unpaved garden trails in this rain.",
+                "de": "Ein kurzer Stopp am Verwaltungsgebäude; der gepflasterte Bereich um die Halle ist sicherer und weniger schlammig als die nahen Gartenwege bei diesem Regen. Ideal für Fotos.",
+                "hu": "Gyors megálló a helyi közigazgatási épületnél; a csarnok körüli burkolt terület sokkal biztonságosabb és kevésbé sáros, mint a közeli kerti ösvények ebben az esőben.",
+                "ro": "O oprire rapidă la clădirea administrativă; zona pavată din jurul holului este mult mai sigură și mai puțin noroioasă decât potecile din grădină în timpul ploii."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Nicolas Church",
+                "de": "Saint-Nicolas Kirche",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Biserica Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "en": "End your walk in this peaceful religious site; the soft sound of rain on the roof creates a very meditative and cozy atmosphere for a final rest before heading home.",
+                "de": "Beenden Sie Ihren Gang an diesem friedlichen Ort; das sanfte Geräusch des Regens auf dem Dach schafft eine meditative Atmosphäre für eine letzte Rast vor dem Heimweg.",
+                "hu": "Zárja a sétát ezen a békés vallási helyszínen; a tetőn kopogó eső lágy hangja rendkívül meditatív és otthonos hangulatot áraszt a pihenéshez a hazaindulás előtt.",
+                "ro": "Încheiați plimbarea în acest sit religios liniștit; sunetul ploii pe acoperiș creează o atmosferă meditativă și primitoare pentru o ultimă odihnă înainte de plecare."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Bundle up for a cold morning visit to Sainte-Thérèse. By midday, the sun stays low, perfect for photos of Saint-Étienne and Bellefontaine Castle. The town hall looks festive in the early winter twilight. Aim to finish your walk by 17:00 at Saint-Nicolas Church as the temperature drops quickly after sunset. Wear thermal layers and warm socks for the chilly stone floors.",
+            "de": "Ziehen Sie sich warm an für den Besuch von Sainte-Thérèse am Morgen. Mittags steht die Sonne tief, ideal für Fotos vom Schloss. Das Rathaus wirkt in der frühen Dämmerung festlich. Beenden Sie Ihren Gang bis 17:00 Uhr in der Kirche Saint-Nicolas, da die Temperaturen nach Sonnenuntergang schnell sinken. Tragen Sie unbedingt Thermokleidung.",
+            "hu": "Öltözzön rétegesen a Sainte-Thérèse hűvös reggeli meglátogatásához. Délben az alacsony napállás tökéletes fényeket ad a kastély fotózásához. A városháza ünnepi hangulatot áraszt a kora esti szürkületben. Próbálja befejezni a sétát 17:00-ig a Saint-Nicolas templomnál, mert naplemente után a hőmérséklet hirtelen zuhan. Viseljen vastag gyapjúzoknit.",
+            "ro": "Pregătiți-vă pentru o dimineață rece la Sainte-Thérèse. La prânz, soarele jos este perfect pentru fotografii la castel. Primăria arată festiv în amurgul iernii. Încercați să terminați plimbarea până la ora 17:00 la Biserica Saint-Nicolas, deoarece temperatura scade rapid după apus. Purtați haine termice și șosete groase."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Sainte-Thérèse Church",
+                "de": "Sainte-Thérèse Kirche",
+                "hu": "Sainte-Thérèse templom",
+                "ro": "Biserica Sainte-Thérèse"
+              },
+              "tip_5lang": {
+                "en": "The minimalist interior feels cozy on a frost morning; wear thick thermal socks as the stone floors can be quite chilly during the winter months. Enjoy the silence.",
+                "de": "Das minimalistische Interieur wirkt an frostigen Morgen gemütlich; tragen Sie dicke Socken, da die Steinböden im Winter sehr kühl sein können. Genießen Sie die Stille.",
+                "hu": "A minimalista belső tér barátságos a fagyos reggeleken; viseljen vastag termozoknit, mivel a kőpadló a téli hónapokban meglehetősen hűvös lehet. Élvezze a csendet.",
+                "ro": "Interiorul minimalist este primitor în diminețile geroase; purtați șosete termice groase, deoarece podelele de piatră pot fi reci iarna. Bucurați-vă de liniște."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Étienne Church",
+                "de": "Saint-Étienne Kirche",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne"
+              },
+              "tip_5lang": {
+                "en": "This ancient church provides a serene escape from the biting winter wind; remember that the sun sets early, so plan your indoor visit before 16:30 for the best light.",
+                "de": "Diese alte Kirche bietet einen ruhigen Zufluchtsort vor dem beißenden Winterwind; da die Sonne früh untergeht, planen Sie Ihren Besuch vor 16:30 Uhr für das beste Licht.",
+                "hu": "Ez az ősi templom békés menedéket nyújt a metsző téli szél elől; ne feledje, hogy a nap korán nyugszik, így a látogatást tervezze 16:30 előttre a jó fények miatt.",
+                "ro": "Această biserică veche oferă o evadare liniștită din calea vântului tăios de iarnă; soarele apune devreme, așa că planificați vizita înainte de 16:30 pentru lumină."
+              }
+            },
+            {
+              "name": {
+                "en": "Bellefontaine Castle",
+                "de": "Schloss Bellefontaine",
+                "hu": "Bellefontaine kastély",
+                "ro": "Castelul Bellefontaine"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the stark beauty of the winter gardens from the castle windows; check early seasonal closing times as the park paths are unlit and can be icy after dark.",
+                "de": "Genießen Sie die winterliche Schönheit der Gärten aus den Schlossfenstern; prüfen Sie die Schließzeiten, da die Wege unbeleuchtet sind und nach Einbruch der Dunkelheit gefrieren.",
+                "hu": "Élvezze a téli kertek zord szépségét a kastély ablakaiból; ellenőrizze a korai zárvatartást, mivel a park ösvényei nincsenek kivilágítva és sötétedés után jegesedhetnek.",
+                "ro": "Bucurați-vă de frumusețea austeră a grădinilor de iarnă de la ferestrele castelului; verificați orele de închidere, potecile nu sunt iluminate și pot îngheța seara."
+              }
+            },
+            {
+              "name": {
+                "en": "Bellefontaine Town Hall",
+                "de": "Rathaus Bellefontaine",
+                "hu": "Bellefontaine városháza",
+                "ro": "Primăria Bellefontaine"
+              },
+              "tip_5lang": {
+                "en": "The town hall is a great landmark in the low winter light; look for a nearby cafe to warm up with a hot drink before moving on to the final stretch of your walk.",
+                "de": "Das Rathaus ist ein toller Orientierungspunkt bei tief stehender Wintersonne; suchen Sie ein Café in der Nähe, um sich mit einem Heißgetränk für den Restweg aufzuwärmen.",
+                "hu": "A városháza kiváló tájékozódási pont az alacsony téli napfényben; keressen egy közeli kávézót, hogy egy forró itallal felmelegedjen a séta utolsó szakasza előtt.",
+                "ro": "Primăria este un punct de reper excelent în lumina slabă a iernii; căutați o cafenea în apropiere pentru a vă încălzi cu o băutură fierbinte înainte de ultima etapă."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Nicolas Church",
+                "de": "Saint-Nicolas Kirche",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Biserica Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "en": "The warm indoor lighting creates a welcoming glow as the winter evening sets in; ensure you are warmly dressed for the final walk back to your transportation.",
+                "de": "Die warme Innenbeleuchtung schafft einen einladenden Glanz am Winterabend; achten Sie auf warme Kleidung für den Rückweg zu Ihrem Transportmittel in der Abendkälte.",
+                "hu": "A meleg belső világítás hívogató fényt áraszt a téli este beálltakor; ügyeljen a meleg öltözetre a közlekedési eszközhöz való visszasétálás során az esti hidegben.",
+                "ro": "Iluminarea interioară caldă creează o strălucire primitoare la lăsarea serii; asigurați-vă că sunteți bine îmbrăcat pentru drumul de întoarcere în frigul serii."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "de": "Beginnen Sie in Survilliers, um in die lokale Geschichte einzutauchen.\n\nMittags passieren Sie kulturelle Zentren und charmante Kirchen entlang der Wege.\n\nAm Nachmittag radeln Sie zu den alten Strukturen von Saint-Étienne.\n\nDer Abend endet am großen Château de Bellefontaine im Sonnenuntergang.",
         "hu": "Kezdje a túrát Survilliers-ben az ipari történelem felfedezésével.\n\nDélben kulturális központok és hangulatos templomok mellett halad el.\n\nA délutáni tekerés a Saint-Étienne felé visz, bemutatva a régió örökségét.\n\nAz este a Château de Bellefontaine közelében zárul, amely tökéletes pihenésre.",
         "ro": "Începeți turul în Survilliers pentru a explora istoria industrială.\n\nLa prânz treceți pe lângă centre culturale și biserici pe traseele pitorești.\n\nDupă-amiaza pedalați spre Saint-Étienne, evidențiind moștenirea regională.\n\nSeara se încheie lângă Château de Bellefontaine, perfect la apus."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Cycling in the rain requires good gear. Start at the Cartoucherie Museum to wait out the heaviest showers. Visit the local churches at noon for dry breaks. La Bergerie offers a cultural stop in the afternoon. End your ride at Bellefontaine Castle. Be very cautious on wet roads and watch for slippery leaves on the paths. Use lights for better visibility in the grey weather.",
+            "de": "Radfahren im Regen erfordert gute Ausrüstung. Beginnen Sie im Museum Cartoucherie, um Schauer abzuwarten. Besuchen Sie mittags Kirchen für trockene Pausen. La Bergerie bietet einen kulturellen Stopp. Beenden Sie die Fahrt am Schloss. Seien Sie vorsichtig auf nassen Straßen und achten Sie auf Laub. Nutzen Sie Licht für bessere Sicht.",
+            "hu": "Az esőben való biciklizés jó felszerelést igényel. Kezdje a Cartoucherie Múzeumban, amíg a legnagyobb záporok elvonulnak. Délben látogassa meg a templomokat egy kis száraz pihenőre. A La Bergerie kulturális megállót kínál délután. A túrát a kastélynál zárja. Legyen nagyon óvatos a vizes utakon és a csúszós levelekkel az ösvényeken.",
+            "ro": "Ciclismul pe ploaie necesită echipament adecvat. Începeți la Muzeul Cartoucherie pentru a aștepta trecerea averselor. Vizitați bisericile la prânz pentru pauze uscate. La Bergerie oferă o oprire culturală după-amiaza. Încheiați la castel. Atenție sporită pe șoselele umede și la frunzele alunecoase. Folosiți lumini pentru vizibilitate."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Cartoucherie Museum",
+                "de": "Museum der Kartuscherei",
+                "hu": "Cartoucherie Múzeum",
+                "ro": "Muzeul Cartoucherie"
+              },
+              "tip_5lang": {
+                "en": "A perfect indoor start to your cycling day; ensure your bike is parked securely under the museum's overhang to keep it dry while you explore the exhibits inside.",
+                "de": "Ein idealer Start im Trockenen; parken Sie Ihr Rad unter dem Dachvorsprung des Museums, um es während Ihres Besuchs vor dem Regen zu schützen. Genießen Sie die Technik.",
+                "hu": "Tökéletes fedett kezdés a bringás naphoz; parkolja le kerékpárját a múzeum előtetője alatt, hogy szárazon maradjon, amíg ön bent a kiállítást nézi. Érdekes technikai látnivalók.",
+                "ro": "Un început perfect la interior; asigurați-vă că bicicleta este parcată sub streașina muzeului pentru a o păstra uscată în timp ce explorați expoziția. Vizită tehnică utilă."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Martin Church",
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin"
+              },
+              "tip_5lang": {
+                "en": "Take a short break from the wind and rain in this historic space; be very careful of wet leaves on the path leading up to the church entrance today, as they are slippery.",
+                "de": "Gönnen Sie sich eine Pause von Wind und Regen; achten Sie besonders auf nasses Laub auf dem Weg zum Kircheneingang, da es extrem rutschig sein kann. Fahren Sie langsam.",
+                "hu": "Tartson egy rövid szünetet a szél és az eső elől ebben a történelmi térben; ma legyen nagyon óvatos a templomhoz vezető úton a vizes levelekkel, mert könnyen megcsúszhat.",
+                "ro": "Luați o scurtă pauză de ploaie în acest spațiu istoric; fiți foarte atenți la frunzele umede de pe poteca ce duce spre intrarea în biserică, sunt alunecoase. Atenție la frâne."
+              }
+            },
+            {
+              "name": {
+                "en": "La Bergerie",
+                "de": "La Bergerie",
+                "hu": "La Bergerie",
+                "ro": "La Bergerie"
+              },
+              "tip_5lang": {
+                "en": "Discover local culture while the rain passes outside; check your bike's brakes frequently as wet conditions significantly increase your stopping distance on asphalt.",
+                "de": "Entdecken Sie lokale Kultur, während es draußen regnet; prüfen Sie regelmäßig Ihre Bremsen, da Nässe den Bremsweg Ihres Rades auf Asphalt deutlich verlängert. Vorsicht.",
+                "hu": "Fedezze fel a helyi kultúrát, amíg kint esik; gyakran ellenőrizze a fékeket, mivel a vizes út jelentősen megnöveli a féktávolságot kerékpáron az aszfalton is.",
+                "ro": "Descoperiți cultura locală în timp ce plouă afară; verificați frecvent frânele, deoarece condițiile umede cresc semnificativ distanța de oprire pe asfalt. Siguranța e prima."
+              }
+            },
+            {
+              "name": {
+                "en": "Sainte-Thérèse Church",
+                "de": "Sainte-Thérèse Kirche",
+                "hu": "Sainte-Thérèse templom",
+                "ro": "Biserica Sainte-Thérèse"
+              },
+              "tip_5lang": {
+                "en": "Wait out a sudden shower in the modern nave; the large windows allow you to monitor the weather outside so you can time your next ride perfectly between the clouds.",
+                "de": "Warten Sie einen Schauer im modernen Kirchenschiff ab; durch die großen Fenster können Sie das Wetter beobachten und die Weiterfahrt perfekt zwischen den Wolken planen.",
+                "hu": "Várja meg a hirtelen záport a modern hajóban; a nagy ablakokon keresztül figyelheti az időjárást, így tökéletesen időzítheti a továbbindulást a felhők között.",
+                "ro": "Așteptați trecerea unei averse în naosul modern; ferestrele mari vă permit să monitorizați vremea pentru a planifica perfect plecarea între reprizele de ploaie."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Étienne Church",
+                "de": "Saint-Étienne Kirche",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne"
+              },
+              "tip_5lang": {
+                "en": "A quiet place to rest your legs and dry off; if you are wearing a poncho, be mindful not to drip water onto the ancient wooden benches or the stone floor inside.",
+                "de": "Ein ruhiger Ort, um die Beine auszuruhen und zu trocknen; achten Sie mit einem Regenponcho darauf, kein Wasser auf die alten Holzbänke oder den Boden zu tropfen.",
+                "hu": "Csendes hely a lábak pihentetésére és a száradásra; ha ponchót visel, ügyeljen rá, hogy ne csöpögjön le a víz a benti ősi fapadokra vagy a kőpadlóra. Legyen tekintettel a rendre.",
+                "ro": "Un loc liniștit pentru odihnă și uscare; dacă purtați pelerină, aveți grijă să nu picurați apă pe băncile vechi de lemn sau pe podeaua de piatră din interior."
+              }
+            },
+            {
+              "name": {
+                "en": "Bellefontaine Castle",
+                "de": "Schloss Bellefontaine",
+                "hu": "Bellefontaine kastély",
+                "ro": "Castelul Bellefontaine"
+              },
+              "tip_5lang": {
+                "en": "Conclude your trip under the shelter of the castle estate; make sure to dry your bike chain after this rainy ride to prevent rust and maintain its performance.",
+                "de": "Beenden Sie Ihre Tour geschützt auf dem Schlossgelände; trocknen Sie nach der Regenfahrt Ihre Kette ab, um Rost zu vermeiden und die Leistung zu erhalten. Gute Pflege lohnt sich.",
+                "hu": "Zárja a túrát a kastélybirtok védelmében; a sáros út után mindenképpen törölje szárazra a láncot a rozsdásodás megelőzése és a jó működés megőrzése érdekében.",
+                "ro": "Încheiați călătoria sub adăpostul domeniului castelului; uscați lanțul bicicletei după această tură ploioasă pentru a preveni rugina și a menține performanța optimă."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Winter cycling in Fosses offers crisp air and quiet paths. Start at the Cartoucherie Museum where it's warm. Visit the local churches during the brightest part of the day. The afternoon ride to the castle is chilly, so dress in windproof layers. Plan to finish by 16:30 before the darkness makes cycling more hazardous. Keep your hands warm with good gloves and watch for icy patches.",
+            "de": "Winterradeln in Fosses bietet frische Luft und ruhige Wege. Beginnen Sie im warmen Museum Cartoucherie. Besuchen Sie die Kirchen zur hellsten Tageszeit. Die Fahrt zum Schloss ist kühl, tragen Sie winddichte Kleidung. Beenden Sie die Tour bis 16:30 Uhr vor der Dunkelheit. Achten Sie auf Eisstellen auf den Wegen.",
+            "hu": "A téli kerékpározás Fosses-ben friss levegőt és csendes utakat kínál. Kezdjen a Cartoucherie Múzeumban, ahol meleg van. A templomokat a nap legvilágosabb szakaszában látogassa meg. A délutáni tekerés a kastélyhoz hűvös lesz, viseljen szélálló ruházatot. Fejezze be a túrát 16:30-ig, a sötétedés előtt a biztonság érdekében.",
+            "ro": "Ciclismul de iarnă în Fosses oferă aer curat și poteci liniștite. Începeți la Muzeul Cartoucherie unde este cald. Vizitați bisericile în cea mai luminoasă parte a zilei. Tura spre castel este răcoroasă, purtați haine rezistente la vânt. Încheiați până la 16:30, înainte de întuneric. Atenție la gheață."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Cartoucherie Museum",
+                "de": "Museum der Kartuscherei",
+                "hu": "Cartoucherie Múzeum",
+                "ro": "Muzeul Cartoucherie"
+              },
+              "tip_5lang": {
+                "en": "The museum's indoor exhibits provide a warm start to your ride; check your tire pressure as cold air can cause it to drop during the winter months, making pedaling harder.",
+                "de": "Die Ausstellungen bieten einen warmen Start; prüfen Sie den Reifendruck, da dieser bei kalter Luft im Winter oft sinkt und das Fahren mühsamer macht. Akku laden.",
+                "hu": "A múzeumi kiállítás meleg kezdést biztosít a túrához; ellenőrizze a guminyomást, mivel a hideg levegő miatt az télen könnyebben lecsökkenhet, ami nehezíti a tekerést.",
+                "ro": "Expozițiile muzeului oferă un început călduros; verificați presiunea în pneuri, deoarece aerul rece poate cauza scăderea acesteia iarna, făcând pedalatul mai greu."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Martin Church",
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin"
+              },
+              "tip_5lang": {
+                "en": "Admire the winter landscape from the church hill; keep your cycling gloves on for as long as possible to prevent your fingers from freezing in the biting wind during the descent.",
+                "de": "Bewundern Sie die Winterlandschaft vom Kirchenhügel; lassen Sie Ihre Handschuhe so lange wie möglich an, damit Ihre Finger im beißenden Wind bei der Abfahrt nicht einfrieren.",
+                "hu": "Csodálja meg a téli tájat a templomdombról; tartsa magán a kesztyűt, ameddig csak lehet, hogy megvédje ujjait a jeges menetszéltől a lefelé vezető úton.",
+                "ro": "Admirați peisajul de iarnă de pe dealul bisericii; păstrați mănușile cât mai mult posibil pentru a preveni înghețarea degetelor în vântul tăios în timpul coborârii."
+              }
+            },
+            {
+              "name": {
+                "en": "La Bergerie",
+                "de": "La Bergerie",
+                "hu": "La Bergerie",
+                "ro": "La Bergerie"
+              },
+              "tip_5lang": {
+                "en": "A brief cultural stop to escape the chill; remember that cold muscles are more prone to injury, so start pedaling gently after leaving the warm building to warm up slowly.",
+                "de": "Ein kurzer kultureller Stopp gegen die Kälte; denken Sie daran, dass kalte Muskeln anfälliger sind, fangen Sie nach der Pause also langsam an zu treten, um sich aufzuwärmen.",
+                "hu": "Rövid kulturális megálló a hideg elől; ne feledje, hogy a hideg izmok sérülékenyebbek, ezért a meleg épület elhagyása után csak óvatosan kezdjen újra tekerni.",
+                "ro": "O scurtă oprire culturală pentru a scăpa de frig; rețineți că mușchii reci sunt predispuși la leziuni, deci pedalați ușor după plecare pentru a vă reîncălzi treptat."
+              }
+            },
+            {
+              "name": {
+                "en": "Sainte-Thérèse Church",
+                "de": "Sainte-Thérèse Kirche",
+                "hu": "Sainte-Thérèse templom",
+                "ro": "Biserica Sainte-Thérèse"
+              },
+              "tip_5lang": {
+                "en": "The modern architecture stands out against the grey winter sky; ensure your bike lights are working for the final part of your afternoon journey as visibility drops early.",
+                "de": "Die moderne Architektur hebt sich vom grauen Winterhimmel ab; prüfen Sie Ihre Beleuchtung für den letzten Teil Ihrer Fahrt, da die Sicht im Winter schon früh nachlässt.",
+                "hu": "A modern építészet látványosan kiemelkedik a szürke téli égboltból; ellenőrizze, hogy a lámpái jól működnek-e a délutáni szakaszhoz, mert a látótávolság korán csökken.",
+                "ro": "Arhitectura modernă se evidențiază pe cerul cenușiu de iarnă; asigurați-vă că luminile bicicletei funcționează, deoarece vizibilitatea scade devreme după-amiaza."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Étienne Church",
+                "de": "Saint-Étienne Kirche",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne"
+              },
+              "tip_5lang": {
+                "en": "Find spiritual warmth in this ancient sanctuary; be careful of early evening frost on the road surfaces as you head toward your final stop, especially in shaded forest areas.",
+                "de": "Finden Sie geistige Wärme in diesem Heiligtum; achten Sie auf ersten Abendfrost auf den Straßen auf dem Weg zum Ziel, besonders in schattigen Waldabschnitten. Vorsicht.",
+                "hu": "Találjon lelki feltöltődést ebben az ősi szentélyben; legyen óvatos a kora esti fagyfoltokkal az úton, ahogy az utolsó megálló felé halad, főleg az erdős, árnyékos részeken.",
+                "ro": "Găsiți căldură spirituală în acest sanctuar antic; atenție la înghețul de seară de pe carosabil în drum spre ultima oprire, în special în zonele împădurite umbrite."
+              }
+            },
+            {
+              "name": {
+                "en": "Bellefontaine Castle",
+                "de": "Schloss Bellefontaine",
+                "hu": "Bellefontaine kastély",
+                "ro": "Castelul Bellefontaine"
+              },
+              "tip_5lang": {
+                "en": "The castle gardens have a unique charm in the winter frost; end your ride early as the temperature drops very quickly once the sun goes down, making cycling uncomfortable.",
+                "de": "Die Schlossgärten haben im Winterfrost einen besonderen Charme; beenden Sie die Fahrt früh, da die Temperaturen nach Sonnenuntergang rapide sinken und das Fahren unangenehm wird.",
+                "hu": "A kastélykertnek egyedi bája van a téli fagyban; fejezze be a túrát időben, mert a naplemente után a hőmérséklet rendkívül gyorsan zuhan, ami kellemetlenné teszi a bringázást.",
+                "ro": "Grădinile castelului au un farmec unic în gerul iernii; încheiați tura devreme, deoarece temperatura scade rapid după apus, făcând ciclismul inconfortabil."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "de": "Die Fahrt beginnt in Bellefontaine mit seinen Wahrzeichen und dem Schloss.\n\nMittags fahren Sie nach Survilliers, um in die Museumsgeschichte einzutauchen.\n\nDie Nachmittagsfahrt verbindet Sie mit dem großen Regionalpark Oise-Pays.\n\nDer Abend bricht herein, während Sie die unberührte Natur genießen.",
         "hu": "A reggeli autózás Bellefontaine kastélyának és nevezetességeinek megtekintésével indul.\n\nDélben Survilliers-be érünk, hogy elmélyedjünk a múzeumi kultúrában.\n\nA délutáni festői út összeköt az Oise-Pays regionális parkjával.\n\nAz este a lenyűgöző természeti tájak megcsodálásával telik el.",
         "ro": "Călătoria de dimineață începe explorând Bellefontaine și castelul său.\n\nLa prânz vă îndreptați spre Survilliers pentru o incursiune în istoria locală.\n\nDupă-amiaza aduce un traseu pitoresc spre Parcul Regional Oise-Pays.\n\nSeara se așterne în timp ce vă bucurați de peisajele naturale curate."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Exploring Fosses by car is the most comfortable option on a rainy day. Start at Bellefontaine Town Hall and visit the nearby castle. Spend the midday at Saint-Étienne Church and the afternoon at the Cartoucherie Museum. La Bergerie provides a dry cultural experience before concluding at the Oise-Pays de France Regional Park. Watch for hydroplaning on the regional roads during heavy rain.",
+            "de": "Fosses mit dem Auto zu erkunden ist an Regentagen am bequemsten. Beginnen Sie am Rathaus und besuchen Sie das Schloss. Verbringen Sie den Mittag in Saint-Étienne und den Nachmittag im Museum. La Bergerie bietet Kultur im Trockenen. Achten Sie auf Aquaplaning auf den Regionalstraßen bei starkem Regen und halten Sie Abstand.",
+            "hu": "Fosses felfedezése autóval a legkényelmesebb opció esős időben. Kezdje a városházánál, majd látogassa meg a közeli kastélyt. A delet töltse a Saint-Étienne templomnál, a délutánt pedig a Cartoucherie Múzeumban. A napot az Oise-Pays de France Regionális Parknál zárja egy látványos autózással. Erős esőben ügyeljen az utakon az aquaplaning jelenségre.",
+            "ro": "Explorarea orașului Fosses cu mașina este cea mai confortabilă opțiune pe ploaie. Începeți la primărie și vizitați castelul. Petreceți amiaza la Biserica Saint-Étienne și după-amiaza la Muzeul Cartoucherie. La Bergerie oferă cultură la adăpost. Atenție la acvaplanare pe drumurile regionale în timpul ploilor abundente."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Bellefontaine Town Hall",
+                "de": "Rathaus Bellefontaine",
+                "hu": "Bellefontaine városháza",
+                "ro": "Primăria Bellefontaine"
+              },
+              "tip_5lang": {
+                "en": "Convenient parking nearby makes this a great start; the paved square allows you to reach the entrance without getting your shoes too muddy in the heavy rain. Use the main door.",
+                "de": "Gute Parkmöglichkeiten machen dies zu einem idealen Start; der gepflasterte Platz ermöglicht den Zugang, ohne dass die Schuhe im Regen schlammig werden. Nutzen Sie das Haupttor.",
+                "hu": "A közeli kényelmes parkolás remek kezdést biztosít; a burkolt tér lehetővé teszi a bejárat elérését anélkül, hogy a cipője sáros lenne az esőben. Használja a főbejáratot.",
+                "ro": "Parcarea convenabilă din apropiere face din aceasta un început bun; piața pavată vă permite să ajungeți la intrare fără a vă murdări prea mult în ploaie. Folosiți ușa principală."
+              }
+            },
+            {
+              "name": {
+                "en": "Bellefontaine Castle",
+                "de": "Schloss Bellefontaine",
+                "hu": "Bellefontaine kastély",
+                "ro": "Castelul Bellefontaine"
+              },
+              "tip_5lang": {
+                "en": "The castle is a perfect retreat from the wet weather; check for designated visitor parking areas to avoid long walks across the potentially muddy park trails in this rain.",
+                "de": "Das Schloss ist ein perfekter Rückzugsort vor dem nassen Wetter; nutzen Sie die Besucherparkplätze, um lange Wege durch den schlammigen Park zu vermeiden. Genießen Sie den Komfort.",
+                "hu": "A kastély tökéletes menedék a nedves idő elől; keresse a kijelölt látogatói parkolókat, hogy elkerülje a hosszú sétát a sáros parkon keresztül ebben az esőben.",
+                "ro": "Castelul este un refugiu perfect; căutați zonele de parcare pentru vizitatori pentru a evita plimbările lungi prin parcul care poate fi noroios din cauza ploii constante."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Étienne Church",
+                "de": "Saint-Étienne Kirche",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the historic interior while the rain drums on the roof; ensure your windshield wipers are in good condition for the drive between the various village sites today.",
+                "de": "Genießen Sie das historische Innere, während der Regen auf das Dach trommelt; prüfen Sie Ihre Scheibenwischer für die Fahrt zwischen den Sehenswürdigkeiten bei schlechter Sicht.",
+                "hu": "Élvezze a történelmi belső teret, amíg az eső kopog a tetőn; ellenőrizze az ablaktörlők állapotát a falusi helyszínek közötti autózáshoz a korlátozott látási viszonyok miatt.",
+                "ro": "Bucurați-vă de interiorul istoric în timp ce ploaia bate în acoperiș; verificați starea ștergătoarelor pentru drumul dintre obiective la vizibilitate redusă."
+              }
+            },
+            {
+              "name": {
+                "en": "Cartoucherie Museum",
+                "de": "Museum der Kartuscherei",
+                "hu": "Cartoucherie Múzeum",
+                "ro": "Muzeul Cartoucherie"
+              },
+              "tip_5lang": {
+                "en": "A substantial indoor museum visit is the ideal afternoon plan; use the museum's proximity to main roads to avoid smaller, more flooded local routes during heavy rain showers.",
+                "de": "Ein ausgiebiger Museumsbesuch ist der ideale Nachmittagsplan; nutzen Sie die Nähe zu Hauptstraßen, um überschwemmte lokale Wege bei starken Regenschauern zu vermeiden.",
+                "hu": "Egy alapos múzeumlátogatás ideális délutáni program; használja a főutak közelségét, hogy elkerülje a kisebb, esetlegesen víz alatt lévő helyi utakat a heves záporok idején.",
+                "ro": "O vizită substanțială la muzeu este planul ideal; folosiți proximitatea față de drumurile principale pentru a evita rutele locale inundate în timpul averselor abundente."
+              }
+            },
+            {
+              "name": {
+                "en": "La Bergerie",
+                "de": "La Bergerie",
+                "hu": "La Bergerie",
+                "ro": "La Bergerie"
+              },
+              "tip_5lang": {
+                "en": "Stay dry while exploring local culture in this unique space; keep an umbrella in the car for the short walk from the parking area to the entrance to avoid getting soaked.",
+                "de": "Bleiben Sie trocken, während Sie die Kultur erkunden; halten Sie einen Schirm im Auto bereit für den kurzen Weg vom Parkplatz zum Eingang, um nicht nass zu werden. Lohnt sich.",
+                "hu": "Maradjon szárazon a helyi kultúra felfedezése közben; tartson esernyőt az autóban a parkolótól a bejáratig tartó rövid sétához, hogy ne ázzon el teljesen.",
+                "ro": "Rămâneți uscat în timp ce explorați cultura locală; păstrați o umbrelă în mașină pentru scurta plimbare de la parcare până la intrare pentru a evita udarea hainelor."
+              }
+            },
+            {
+              "name": {
+                "en": "Oise-Pays de France Regional Park",
+                "de": "Regionaler Naturpark Oise-Pays de France",
+                "hu": "Oise-Pays de France Regionális Park",
+                "ro": "Parcul Regional Oise-Pays de France"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the scenic drive through the forested areas of the park; reduce your speed on the winding park roads as visibility can be low and the surface slippery in the rain.",
+                "de": "Genießen Sie die malerische Fahrt durch die Waldgebiete; reduzieren Sie Ihr Tempo auf den kurvigen Straßen, da die Sicht bei Regen gering und der Asphalt rutschig sein kann.",
+                "hu": "Élvezze a látványos autózást a park erdős területein; csökkentse a sebességet a kanyargós utakon, mivel az esőben a látótávolság korlátozott és az útburkolat csúszós lehet.",
+                "ro": "Bucurați-vă de drumul pitoresc prin zonele împădurite; reduceți viteza pe drumurile sinuoase, deoarece vizibilitatea poate fi scăzută și carosabilul alunecos pe ploaie."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "A winter car tour allows you to see more of Fosses while staying warm. Begin at the town hall and move to the castle. The midday stops at the churches and museum are perfect to escape the chill. Afternoon visit to La Bergerie offers cultural warmth. Conclude your day at the regional park, where the winter sunset over the trees is stunning. Ensure your car is winter-ready and check for icy roads.",
+            "de": "Eine Wintertour mit dem Auto ermöglicht es Ihnen, Fosses warm zu erkunden. Beginnen Sie am Rathaus und fahren Sie zum Schloss. Die Stopps an den Kirchen und im Museum sind ideal gegen die Kälte. Beenden Sie den Tag im Regionalpark, wo der Sonnenuntergang über den Bäumen atemberaubend ist. Achten Sie auf Glätte.",
+            "hu": "A téli autós túra lehetővé teszi Fosses alapos felfedezését a melegben. Kezdjen a városházánál, majd menjen a kastélyhoz. A templomok és a múzeum tökéletesek a hideg elől való menekülésre a nap közepén. A napot a regionális parkban zárja, ahol a fák feletti téli naplemente lenyűgöző látvány. Ügyeljen a jeges útszakaszokra.",
+            "ro": "Un tur cu mașina iarna vă permite să vedeți mai mult din Fosses stând la căldură. Începeți la primărie și mergeți la castel. Opririle la biserici și muzeu sunt perfecte pentru a scăpa de frig la prânz. Încheiați ziua la parcul regional, unde apusul este uimitor. Atenție la drumurile înghețate."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Bellefontaine Town Hall",
+                "de": "Rathaus Bellefontaine",
+                "hu": "Bellefontaine városháza",
+                "ro": "Primăria Bellefontaine"
+              },
+              "tip_5lang": {
+                "en": "Start your day by parking close to the town hall; the low winter sun provides great lighting for architectural photos early in the morning. Check for frost on the steps.",
+                "de": "Beginnen Sie Ihren Tag mit einem Parkplatz nahe dem Rathaus; die tief stehende Wintersonne bietet morgens tolles Licht für Fotos. Achten Sie auf Frost auf den Stufen.",
+                "hu": "Kezdje a napot a városháza közelében parkolva; az alacsony téli napfény nagyszerű fényeket biztosít az építészeti fotókhoz kora reggel. Vigyázzon a fagyos lépcsőkre.",
+                "ro": "Începeți ziua parcând aproape de primărie; soarele jos de iarnă oferă o lumină excelentă pentru fotografii de arhitectură dimineața devreme. Atenție la gheața de pe trepte."
+              }
+            },
+            {
+              "name": {
+                "en": "Bellefontaine Castle",
+                "de": "Schloss Bellefontaine",
+                "hu": "Bellefontaine kastély",
+                "ro": "Castelul Bellefontaine"
+              },
+              "tip_5lang": {
+                "en": "The castle gardens look magical when covered in winter frost; keep the heater on in your car for a few minutes before stepping out into the cold air for your visit.",
+                "de": "Die Schlossgärten wirken bei Winterfrost magisch; lassen Sie die Heizung im Auto noch kurz laufen, bevor Sie in die kalte Luft hinausgehen. Genießen Sie den Ausblick.",
+                "hu": "A kastélykert varázslatosan néz ki a téli fagyban; hagyja menni a fűtést az autóban pár percig, mielőtt kiszállna a hideg levegőre a látogatáshoz. Gyönyörű látvány.",
+                "ro": "Grădinile castelului arată magic sub gerul iernii; lăsați căldura pornită în mașină câteva minute înainte de a ieși în aerul rece pentru vizită. Priveliște superbă."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Étienne Church",
+                "de": "Saint-Étienne Kirche",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne"
+              },
+              "tip_5lang": {
+                "en": "Warm up inside this historic sanctuary after your drive; be mindful of shaded areas on the local roads where black ice can linger until midday during the winter.",
+                "de": "Wärmen Sie sich nach der Fahrt im Inneren auf; achten Sie auf schattige Stellen auf den Straßen, wo sich Glatteis im Winter bis mittags halten kann. Fahren Sie vorsichtig.",
+                "hu": "Melegedjen fel a történelmi szentélyben az autózás után; ügyeljen az úton az árnyékos részekre, ahol a fekete jég akár délig is megmaradhat a téli napokon.",
+                "ro": "Încălziți-vă în acest sanctuar istoric după drum; atenție la zonele umbrite de pe drumurile locale, unde poleiul poate persista până la prânz în timpul iernii."
+              }
+            },
+            {
+              "name": {
+                "en": "Cartoucherie Museum",
+                "de": "Museum der Kartuscherei",
+                "hu": "Cartoucherie Múzeum",
+                "ro": "Muzeul Cartoucherie"
+              },
+              "tip_5lang": {
+                "en": "A long indoor visit is perfect for the coldest part of the day; check your car's battery before starting, as extreme cold temperatures can affect its performance.",
+                "de": "Ein langer Innenbesuch ist ideal für die kälteste Zeit des Tages; prüfen Sie Ihre Autobatterie, da extreme Kälte die Leistung stark beeinträchtigen kann. Sicher starten.",
+                "hu": "Egy hosszú benti látogatás tökéletes a nap leghidegebb szakaszában; ellenőrizze az akkumulátort indulás előtt, mivel a hideg befolyásolhatja a teljesítményét.",
+                "ro": "O vizită lungă la interior este perfectă pentru cea mai rece parte a zilei; verificați bateria mașinii înainte de pornire, temperaturile scăzute o pot afecta."
+              }
+            },
+            {
+              "name": {
+                "en": "La Bergerie",
+                "de": "La Bergerie",
+                "hu": "La Bergerie",
+                "ro": "La Bergerie"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the cultural exhibits in a climate-controlled environment; the early sunset means you should arrive by 15:30 to see everything in the best natural light.",
+                "de": "Genießen Sie die Ausstellungen in klimatisierter Umgebung; durch den frühen Sonnenuntergang sollten Sie bis 15:30 Uhr ankommen, um alles im besten Licht zu sehen.",
+                "hu": "Élvezze a kiállításokat a temperált belső térben; a korai naplemente miatt érkezzen 15:30-ig, ha a legjobb természetes fényben szeretne látni mindent.",
+                "ro": "Bucurați-vă de expoziții într-un mediu controlat; din cauza apusului devreme, sosiți până la 15:30 pentru a vedea totul în cea mai bună lumină naturală."
+              }
+            },
+            {
+              "name": {
+                "en": "Oise-Pays de France Regional Park",
+                "de": "Regionaler Naturpark Oise-Pays de France",
+                "hu": "Oise-Pays de France Regionális Park",
+                "ro": "Parcul Regional Oise-Pays de France"
+              },
+              "tip_5lang": {
+                "en": "The winter sunset over the regional park is best viewed from your car; ensure your headlights are clean and working for the dark drive back on winding forest roads.",
+                "de": "Der Wintersonnenuntergang lässt sich am besten vom Auto aus bewundern; prüfen Sie Ihre Scheinwerfer für die dunkle Rückfahrt auf kurvigen Waldstraßen. Gute Sicht ist wichtig.",
+                "hu": "A regionális park feletti téli naplemente az autóból nézve a legszebb; ellenőrizze, hogy a fényszórók tiszták a sötét hazaúthoz a kanyargós erdei utakon.",
+                "ro": "Apusul de iarnă peste parcul regional se vede cel mai bine din mașină; asigurați-vă că farurile sunt curate pentru drumul de întoarcere pe drumurile sinuoase."
+              }
+            }
+          ]
+        }
       }
     }
   }

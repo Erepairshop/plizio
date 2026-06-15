@@ -137,6 +137,168 @@
         "hu": "Reggel a történelmi vasútállomásról indulva tesz egy frissítő sétát az elegáns golfpályához. Délben a vidéken át túrázva eléri az Étang de Bondilly békés partjait. Délután dél felé veszi az irányt a rejtett Étang Berthaud felé, hogy a természetben pihenjen. Az estét a hatalmas Lac de la Sorme partján zárja, ahogy a lemenő nap fénye megcsillan a vízfelszínen egy hosszú séta végén.",
         "ro": "Dimineața începe la gara istorică, urmată de o plimbare revigorantă către elegantul teren de golf. La prânz, parcurgeți peisajul rural până la malurile liniștite ale Étang de Bondilly. După-amiaza vă conduce mai spre sud, către ascunsul Étang Berthaud, perfect pentru relaxare. Seara se încheie plimbarea dumneavoastră pe malul vastului Lac de la Sorme, sub un apus de soare spectaculos.",
         "en": "Morning begins at the historic railway station before you take a brisk, refreshing walk to the elegant golf course. Midday sees you trekking through the rural landscape to reach the peaceful Étang de Bondilly. In the afternoon, continue southwards to the hidden Étang Berthaud for a relaxing nature break. Evening concludes your long walk at the vast Lac de la Sorme as the sun sets brilliantly."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Bahnhof, halten Sie den Regenschirm bereit.\n\nMittags am Golfplatz können Sie vor kräftigen Schauern Schutz suchen.\n\nNachmittags an den Naturseen sind wasserdichte Schuhe wegen der schlammigen Pfade absolute Pflicht.\n\nAbends legt sich ein mystischer, dichter Nebel über den Stausee.",
+            "hu": "A reggel az állomáson indul, az esernyő mindig legyen kéznél.\n\nDélben a golfpályánál találhatunk fedett menedéket a hirtelen záporok elől.\n\nDélután a tavak körüli séta során a sár miatt elengedhetetlen a vízálló bakancs.\n\nEste sejtelmes, sűrű köd ereszkedik a nagy tó felszínére.",
+            "ro": "Dimineața începe la gară, păstrați umbrela la îndemână.\n\nLa prânz, lângă terenul de golf, puteți găsi adăpost în timpul averselor.\n\nDupă-amiaza la lacuri, cizmele impermeabile sunt esențiale din cauza noroiului.\n\nSeara aduce o ceață misterioasă și deasă peste apele barajului.",
+            "en": "Morning starts at the station, keep your umbrella close by.\n\nMidday near the golf course, you can easily seek shelter from sudden downpours.\n\nAfternoon lake walks require sturdy waterproof boots to navigate the muddy trails.\n\nEvening brings a moody, atmospheric mist rolling over the large reservoir."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare de Montchanin",
+                "hu": "Gare de Montchanin",
+                "ro": "Gare de Montchanin",
+                "en": "Gare de Montchanin"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Vordach des Bahnhofs, bevor Sie losgehen. Die nassen Bahnsteige sind rutschig, schnüren Sie Ihre wasserdichten Schuhe fest zu.",
+                "hu": "Indulás előtt húzódjon be az állomás fedett peronjára. A nedves kövezet csúszós lehet, ezért ellenőrizze, hogy vízálló cipője jól van-e megkötve.",
+                "ro": "Așteptați sub copertina gării înainte de a porni. Peroanele umede pot fi alunecoase, așa că asigurați-vă că încălțămintea impermeabilă este legată.",
+                "en": "Wait under the station's canopy before heading out. The wet platforms can be quite slippery, so make sure your waterproof walking shoes are well laced."
+              }
+            },
+            {
+              "name": {
+                "de": "Golf du Château d'Avoise",
+                "hu": "Golf du Château d'Avoise",
+                "ro": "Golf du Château d'Avoise",
+                "en": "Golf du Château d'Avoise"
+              },
+              "tip_5lang": {
+                "de": "Das Clubhaus bietet einen trockenen Rückzugsort, um den Regen über den Grüns zu beobachten. Bringen Sie einen großen Schirm für die Wege mit.",
+                "hu": "A klubház száraz menedéket nyújt, ahonnan nézheti az esőt a zöld gyepen. A sétához mindenképpen vigyen magával egy strapabíró, nagy esernyőt.",
+                "ro": "Clubul oferă un refugiu uscat pentru a privi ploaia peste gazon. Aduceți o umbrelă mare și rezistentă pentru plimbările pe aleile din jur.",
+                "en": "The clubhouse offers a dry refuge to watch the rain falling over the greens. Bring a large, sturdy umbrella for walking the surrounding pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Bondilly",
+                "hu": "Étang de Bondilly",
+                "ro": "Étang de Bondilly",
+                "en": "Étang de Bondilly"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Uferwege werden schnell schlammig. Wasserdichtes Schuhwerk ist hier unerlässlich, um die Vögel im Regen sicher zu beobachten.",
+                "hu": "A part menti ösvények gyorsan sárossá válnak a nyílt terepen. A vízálló lábbeli elengedhetetlen, ha az esőben szeretné megfigyelni a madarakat.",
+                "ro": "Potecile de pe mal devin rapid noroioase în ploaie. Încălțămintea impermeabilă este absolut necesară pentru a observa păsările în siguranță.",
+                "en": "The dirt paths along the banks get muddy very quickly. Waterproof footwear is absolutely essential to safely observe the local birds in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Berthaud",
+                "hu": "Étang Berthaud",
+                "ro": "Étang Berthaud",
+                "en": "Étang Berthaud"
+              },
+              "tip_5lang": {
+                "de": "Häufig zieht hier dichter Nebel über das Wasser und schafft dramatische Fotomotive. Tragen Sie eine gute Regenjacke gegen den feuchten Wind.",
+                "hu": "Gyakran sűrű köd gomolyog a víz felett, ami drámai fotótémát kínál. Viseljen jó minőségű esőkabátot a tó felől fújó nyirkos, hideg szél ellen.",
+                "ro": "Adesea se lasă o ceață deasă peste apă, oferind cadre dramatice. Purtați o geacă de ploaie de calitate pentru a bloca vântul umed de pe lac.",
+                "en": "Thick mist often rolls over the water here, creating dramatic photo opportunities. Wear a high-quality raincoat to block the damp, chilly wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Sorme",
+                "hu": "Lac de la Sorme",
+                "ro": "Lac de la Sorme",
+                "en": "Lac de la Sorme"
+              },
+              "tip_5lang": {
+                "de": "Dieser riesige Stausee wirkt bei Regenwetter besonders wild. Bleiben Sie auf den befestigten Wegen nahe der Staumauer, um dem Schlamm zu entgehen.",
+                "hu": "Ez a hatalmas víztározó esőben különösen vad arcát mutatja. Maradjon a gát körüli aszfaltozott részeken, hogy elkerülje a mély sártengert.",
+                "ro": "Acest lac imens arată deosebit de sălbatic pe ploaie. Rămâneți pe porțiunile pavate de lângă baraj pentru a evita zonele cu noroi adânc.",
+                "en": "This massive reservoir looks exceptionally wild during a rainstorm. Stick to the paved sections near the dam to avoid the deep mud on the natural trails."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Bahnhof, packen Sie sich warm ein.\n\nMittags am Golfplatz glitzert der Raureif auf dem Rasen.\n\nNachmittags an den Seen brauchen Sie dicke Thermokleidung und heißen Tee.\n\nBeenden Sie die Tour vor 17:00 Uhr, da es am See sehr früh dunkel und eiskalt wird.",
+            "hu": "Fagyos indulás az állomásról, öltözzön fel jó melegen.\n\nDélben a golfpályánál gyönyörűen csillog a zúzmara a füvön.\n\nDélután a tavaknál vastag termóruházatra és forró teára lesz szükség.\n\nFejezze be a sétát 17:00 előtt, mert a nagy tónál korán sötétedik és nagyon lehűl a levegő.",
+            "ro": "O pornire geroasă de la gară, îmbrăcați-vă cu straturi groase.\n\nLa prânz, la terenul de golf, bruma strălucește frumos pe iarbă.\n\nDupă-amiaza la lacuri necesită haine termice și un ceai fierbinte.\n\nTerminați plimbarea înainte de ora 17:00, deoarece se întunecă devreme la lacul cel mare.",
+            "en": "A frosty start from the station, bundle up warmly with layers.\n\nMidday at the golf course, the frost glistens beautifully on the grass.\n\nAfternoon walks by the lakes require thick thermal clothing and a hot tea.\n\nFinish your walk before 17:00, as it gets dark early and very cold by the large lake."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare de Montchanin",
+                "hu": "Gare de Montchanin",
+                "ro": "Gare de Montchanin",
+                "en": "Gare de Montchanin"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie hier einen heißen Kaffee, um sich aufzuwärmen. Ziehen Sie Handschuhe und Mütze an, bevor Sie in die kalte Winterluft hinaustreten.",
+                "hu": "Igyon egy forró kávét indulás előtt, hogy átmelegedjen. Vegye fel a sapkáját és kesztyűjét, mielőtt kilépne a csípős téli levegőre.",
+                "ro": "Beți o cafea fierbinte aici pentru a vă încălzi. Puneți-vă mănușile și căciula înainte de a ieși în aerul rece al dimineții de iarnă.",
+                "en": "Grab a hot coffee here to warm up your core before starting. Put on your gloves and a warm beanie before stepping out into the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Golf du Château d'Avoise",
+                "hu": "Golf du Château d'Avoise",
+                "ro": "Golf du Château d'Avoise",
+                "en": "Golf du Château d'Avoise"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Fairways sehen magisch aus, aber das Gras kann extrem rutschig sein. Gehen Sie vorsichtig und bleiben Sie auf den Hauptwegen.",
+                "hu": "A fagyott füves területek varázslatosan festenek, de a zúzmara miatt extrém csúszósak. Lépjen óvatosan, és maradjon a kijelölt ösvényeken.",
+                "ro": "Terenurile înghețate arată magic, dar iarba poate fi extrem de alunecoasă. Pășiți cu mare grijă și rămâneți pe potecile principale amenajate.",
+                "en": "The frozen fairways look truly magical in winter, but the frost makes the grass extremely slippery. Walk carefully and stick to the main paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Bondilly",
+                "hu": "Étang de Bondilly",
+                "ro": "Étang de Bondilly",
+                "en": "Étang de Bondilly"
+              },
+              "tip_5lang": {
+                "de": "Die eisigen Ränder des Teiches glitzern in der Wintersonne. Eine Thermoskanne mit heißem Tee ist hier perfekt für eine kurze Aufwärmpause.",
+                "hu": "A tó jeges szélei gyönyörűen csillognak a téli napsütésben. Egy termosz forró tea tökéletes választás egy rövid, felmelegítő pihenőhöz.",
+                "ro": "Marginile înghețate ale iazului strălucesc în soarele de iarnă. Un termos cu ceai fierbinte este perfect pentru o scurtă pauză de încălzire aici.",
+                "en": "The icy edges of the pond glisten beautifully in the low winter sun. Bringing a thermos of hot tea is absolutely perfect for a quick warming break."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Berthaud",
+                "hu": "Étang Berthaud",
+                "ro": "Étang Berthaud",
+                "en": "Étang Berthaud"
+              },
+              "tip_5lang": {
+                "de": "Hier pfeift oft ein eisiger Winterwind über das offene Wasser. Ein winddichter Mantel und ein dicker Schal sind für diesen Abschnitt unerlässlich.",
+                "hu": "Itt gyakran fagyos téli szél fúj végig a nyílt vízfelületen. Egy szélálló, meleg kabát és egy vastag sál elengedhetetlen ezen a szakaszon.",
+                "ro": "Un vânt înghețat bate adesea peste suprafața apei deschise. Un palton rezistent la vânt și un fular gros sunt esențiale pentru această secțiune.",
+                "en": "A bitter winter wind often sweeps across the open water here. A heavy, windproof coat and a thick scarf are essential to stay comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Sorme",
+                "hu": "Lac de la Sorme",
+                "ro": "Lac de la Sorme",
+                "en": "Lac de la Sorme"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie spätestens um 16:30 Uhr hier, um das Winterlicht zu sehen. Danach wird es rasch dunkel und die Temperaturen fallen unter den Gefrierpunkt.",
+                "hu": "Érkezzen legkésőbb 16:30-ra, hogy lássa a gyönyörű téli fényeket. Utána gyorsan sötétedik, és a hőmérséklet hirtelen fagypont alá süllyed.",
+                "ro": "Ajungeți cel târziu la 16:30 pentru a prinde lumina de iarnă. După aceea se întunecă rapid, iar temperaturile scad brusc sub punctul de îngheț.",
+                "en": "Arrive no later than 16:30 to catch the stunning low winter light. It gets dark rapidly after sunset, and temperatures quickly drop below freezing."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel az állomástól északra lévő tavak felé teker, kezdve a bájos Étang Leduc érintésével. Délben körbekarikázza a tágas Torcy-tavakat, élvezve a frissítő vízparti tájat és a szellőt. Délután kelet felé veszi az irányt az erdős Étang de Montaubry-hoz a tökéletes nyugalomban. A kerékpáros kaland az Étang de Bondilly békés partjainál ér véget, ahol megpihenhet a nap végén.",
         "ro": "Dimineața pedalați de la gară spre lacurile din nord, începând cu fermecătorul Étang Leduc. La prânz, înconjurați marile lacuri Torcy, bucurându-vă de peisajul nautic și de briza proaspătă. După-amiaza continuați spre est către împăduritul Étang de Montaubry pentru o imersiune în natură. Turul dumneavoastră pe bicicletă se încheie liniștit pe malurile calme ale Étang de Bondilly.",
         "en": "Morning sees you cycling from the station towards the northern lakes, starting with the charming Étang Leduc. Midday is spent pedaling around the grand Torcy lakes, enjoying the water views and fresh breeze. In the afternoon, ride east to the forested Étang de Montaubry for a tranquil immersion in nature. Conclude your cycling adventure at the peaceful Étang de Bondilly to rest."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrt mit gutem Regenmantel ab dem Bahnhof.\n\nMittags an den Torcy-Seen sind die schlammigen Radwege oft sehr rutschig.\n\nNachmittags Richtung Montaubry erfordern nasses Laub und Pfützen Vorsicht.\n\nAbends suchen Sie sich bei Bondilly Schutz unter großen Bäumen.",
+            "hu": "Reggeli indulás jó minőségű esőkabátban az állomásról.\n\nDélben a Torcy-tavak körül a sáros kerékpárutak rendkívül csúszósak lehetnek.\n\nDélután Montaubry felé a nedves falevelek és tócsák miatt óvatosan tekerjen.\n\nEste keressen menedéket a nagy fák alatt Bondilly környékén.",
+            "ro": "Pornire matinală cu o pelerină bună de ploaie de la gară.\n\nLa prânz, lângă lacurile Torcy, pistele noroioase pot fi foarte alunecoase.\n\nDupă-amiaza spre Montaubry, frunzele ude și bălțile cer mare prudență.\n\nSeara, căutați adăpost sub copacii mari din zona Bondilly.",
+            "en": "Morning ride starts with a solid raincoat from the station.\n\nMidday around the Torcy lakes, the muddy cycle paths can be very slippery.\n\nAfternoon riding towards Montaubry demands caution due to wet leaves and puddles.\n\nEvening around Bondilly, find temporary shelter under the large trees."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare de Montchanin",
+                "hu": "Gare de Montchanin",
+                "ro": "Gare de Montchanin",
+                "en": "Gare de Montchanin"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen im Regenmantel. Nasse Felgen bedeuten längere Bremswege, starten Sie also vorsichtig in den Tag.",
+                "hu": "Még az indulás előtt ellenőrizze a fékeket. A nedves felnik hosszabb fékutat eredményeznek, ezért fokozott óvatossággal induljon útnak.",
+                "ro": "Verificați-vă frânele înainte de plecare. Jantele ude înseamnă distanțe de frânare mai mari, așa că începeți ziua cu precauție.",
+                "en": "Check your brakes before setting off. Wet rims mean significantly longer stopping distances, so start your rainy day ride with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Leduc",
+                "hu": "Étang Leduc",
+                "ro": "Étang Leduc",
+                "en": "Étang Leduc"
+              },
+              "tip_5lang": {
+                "de": "Der Naturpfad wird bei Nässe glatt. Fahren Sie langsam, um nicht auszurutschen, und lauschen Sie dem Regen auf der Wasseroberfläche.",
+                "hu": "A természetes ösvény nedvesen csúszóssá válik. Lassítson a kanyarokban, hogy elkerülje az esést, és hallgassa az esőcseppek kopogását a vízen.",
+                "ro": "Traseul natural devine alunecos la umezeală. Pedalați încet pentru a nu derapa și ascultați sunetul relaxant al ploii pe suprafața apei.",
+                "en": "The natural trail becomes quite slick when wet. Ride slowly through corners to avoid slipping, and enjoy the calming sound of rain on the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Torcy Neuf",
+                "hu": "Étang de Torcy Neuf",
+                "ro": "Étang de Torcy Neuf",
+                "en": "Étang de Torcy Neuf"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefe Wasserpfützen auf dem Radweg. Ein Schutzblech an Ihrem Fahrrad hält Ihre Kleidung weitgehend trocken und sauber.",
+                "hu": "Figyeljen a mély tócsákra a kerékpárúton. Egy jó sárvédő aranyat ér, hogy a ruházata viszonylag száraz és tiszta maradjon a tekerés során.",
+                "ro": "Atenție la bălțile adânci de pe pista de biciclete. O aripă de protecție la bicicletă vă va menține hainele rezonabil de uscate și curate.",
+                "en": "Watch out for deep puddles forming on the cycle path. Having mudguards on your bike will go a long way in keeping your clothes dry and clean."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Étang de Torcy",
+                "hu": "Grand Étang de Torcy",
+                "ro": "Grand Étang de Torcy",
+                "en": "Grand Étang de Torcy"
+              },
+              "tip_5lang": {
+                "de": "Hier am offenen Gewässer gibt es wenig Schutz vor Regen. Ziehen Sie die Kapuze Ihrer Regenjacke fest zu, um dem feuchten Wind zu trotzen.",
+                "hu": "Itt a nyílt víz mellett alig van menedék az eső elől. Húzza szorosra az esőkabátja kapucniját, hogy dacoljon a felerősödő nyirkos széllel.",
+                "ro": "Aici, lângă apa deschisă, există puțin adăpost împotriva ploii. Strângeți bine gluga pelerinei pentru a rezista vântului umed și rece.",
+                "en": "There is very little shelter from the rain out here by the open water. Cinch your raincoat hood tightly to block out the blowing, damp wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Montaubry",
+                "hu": "Étang de Montaubry",
+                "ro": "Étang de Montaubry",
+                "en": "Étang de Montaubry"
+              },
+              "tip_5lang": {
+                "de": "Nasses Laub auf dem Asphalt macht die Kurven gefährlich glatt. Drosseln Sie Ihr Tempo erheblich, wenn Sie um diesen See fahren.",
+                "hu": "Az aszfaltra hullott nedves falevelek rendkívül csúszóssá teszik a kanyarokat. Jelentősen vegyen vissza a tempóból, miközben a tó körül teker.",
+                "ro": "Frunzele ude de pe asfalt fac curbele periculos de alunecoase. Reduceți semnificativ viteza atunci când pedalați în jurul acestui lac.",
+                "en": "Wet fallen leaves on the tarmac make the corners dangerously slick. Greatly reduce your cycling speed as you navigate around this wooded lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Bondilly",
+                "hu": "Étang de Bondilly",
+                "ro": "Étang de Bondilly",
+                "en": "Étang de Bondilly"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre feuchte Tour hier. Suchen Sie Schutz unter dem dichten Blätterdach der großen Bäume, um einen kräftigen Schauer abzuwarten.",
+                "hu": "Fejezze be itt a nedves túrát. Keressen menedéket a nagy fák sűrű lombkoronája alatt, ha egy hirtelen, erős záport kellene átvészelnie.",
+                "ro": "Încheiați turul ploios aici. Căutați adăpost sub frunzișul des al copacilor mari pentru a aștepta trecerea unei averse mai puternice.",
+                "en": "Conclude your wet ride here. Seek natural shelter under the thick canopy of the large trees if you need to wait out a sudden heavy downpour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eiskalter Start, dicke Handschuhe sind auf dem Rad Pflicht.\n\nMittags an den Torcy-Seen genießen Sie die klare, kalte Winterluft.\n\nNachmittags nach Montaubry führt der Weg durch kühle, schattige Wälder.\n\nErreichen Sie Bondilly vor 16:30 Uhr, um nicht im Dunkeln fahren zu müssen.",
+            "hu": "Jéghideg indulás, a vastag kesztyű kötelező a kerékpáron.\n\nDélben a Torcy-tavaknál élvezze a tiszta, friss téli levegőt.\n\nDélután Montaubry felé hűvös, árnyékos erdei utakon halad.\n\nÉrjen Bondillybe 16:30 előtt, hogy elkerülje az éjszakai tekerést.",
+            "ro": "Un start înghețat, mănușile groase sunt obligatorii pe bicicletă.\n\nLa prânz, la lacurile Torcy, bucurați-vă de aerul curat de iarnă.\n\nDupă-amiaza spre Montaubry, traseul trece prin păduri reci și umbrite.\n\nAjungeți la Bondilly înainte de 16:30 pentru a evita pedalatul pe întuneric.",
+            "en": "A freezing start, so thick thermal gloves are mandatory on the bike.\n\nMidday at the Torcy lakes, enjoy the crisp, clear winter air.\n\nAfternoon riding towards Montaubry takes you through cool, shaded woods.\n\nReach Bondilly before 16:30 to avoid cycling in the dark and dangerous cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare de Montchanin",
+                "hu": "Gare de Montchanin",
+                "ro": "Gare de Montchanin",
+                "en": "Gare de Montchanin"
+              },
+              "tip_5lang": {
+                "de": "Der Metalllenker wird im Winter eisig. Warme Fahrradhandschuhe und Ohrenschützer sind essenziell für einen angenehmen Start.",
+                "hu": "A fém kormány télen jéghideg lesz. A meleg kerékpáros kesztyű és a fülvédő elengedhetetlen kellékei a kényelmes és biztonságos indulásnak.",
+                "ro": "Ghidonul de metal devine înghețat iarna. Mănușile calde de ciclism și protecțiile pentru urechi sunt esențiale pentru un start confortabil.",
+                "en": "The metal handlebars get freezing cold in winter. Thick cycling gloves and a headband for your ears are essential for a comfortable start."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Leduc",
+                "hu": "Étang Leduc",
+                "ro": "Étang Leduc",
+                "en": "Étang Leduc"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft macht diesen Stopp erfrischend. Achten Sie auf vereiste Pfützenränder auf dem schmalen Weg am Wasser.",
+                "hu": "A tiszta téli levegő különösen frissítővé teszi ezt a megállót. Ügyeljen a keskeny vízparti ösvényeken kialakult jeges, csúszós tócsákra.",
+                "ro": "Aerul curat de iarnă face această oprire revigorantă. Fiți atenți la marginile înghețate ale bălților de pe poteca îngustă de lângă apă.",
+                "en": "The crisp winter air makes this stop deeply refreshing. Keep a sharp eye out for icy puddle edges on the narrow path alongside the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Torcy Neuf",
+                "hu": "Étang de Torcy Neuf",
+                "ro": "Étang de Torcy Neuf",
+                "en": "Étang de Torcy Neuf"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser könnte teilweise zugefroren sein und bietet tolle Fotomotive. Fahren Sie langsam, da Raureif den Asphalt glatt macht.",
+                "hu": "A víz részben befagyhat, ami lenyűgöző téli fotótémát nyújt. Haladjon lassan, mert a zúzmara a látszólag száraz aszfaltot is csúszóssá teszi.",
+                "ro": "Apa ar putea fi parțial înghețată, oferind motive foto excelente. Pedalați încet, deoarece bruma face ca asfaltul să fie înșelător de alunecos.",
+                "en": "The water might be partially frozen, offering great winter photo ops. Ride slowly, as invisible morning frost can make the asphalt very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Étang de Torcy",
+                "hu": "Grand Étang de Torcy",
+                "ro": "Grand Étang de Torcy",
+                "en": "Grand Étang de Torcy"
+              },
+              "tip_5lang": {
+                "de": "Der Windchill-Faktor am großen See ist enorm. Ziehen Sie Ihren Schal bis über das Gesicht, um sich vor der beißenden Kälte zu schützen.",
+                "hu": "A nagy tónál a szélhűtés hatása drasztikus. Húzza fel a sálját egészen az arcáig, hogy megvédje magát a metsző, hideg széltől fújattól.",
+                "ro": "Factorul de răcire a vântului este uriaș aici. Trageți-vă fularul peste față pentru a vă proteja de frigul tăios de lângă lacul mare.",
+                "en": "The wind chill factor by this large lake is severe. Pull your thermal scarf up over your lower face to protect your skin from the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Montaubry",
+                "hu": "Étang de Montaubry",
+                "ro": "Étang de Montaubry",
+                "en": "Étang de Montaubry"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume gewähren freie Sicht auf den See. Seien Sie in den schattigen Waldpassagen extrem vorsichtig wegen möglichem Glatteis.",
+                "hu": "A kopasz fák zavartalan kilátást engednek a tóra. Az árnyékos erdei szakaszokon legyen extrém óvatos a lefagyások és a tükörjég miatt.",
+                "ro": "Copacii golași oferă o vedere clară asupra lacului. Fiți extrem de precauți în secțiunile de pădure umbrite din cauza posibilei gheți negre.",
+                "en": "The bare trees allow for unobstructed views of the lake. Be extremely cautious in the shaded woodland sections due to potential black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Bondilly",
+                "hu": "Étang de Bondilly",
+                "ro": "Étang de Bondilly",
+                "en": "Étang de Bondilly"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne geht früh unter. Stellen Sie sicher, dass Ihre Fahrradlichter voll aufgeladen sind, bevor es in die winterliche Dunkelheit geht.",
+                "hu": "A nap nagyon korán nyugszik. Mielőtt rámsötétedik, mindenképpen ellenőrizze, hogy a kerékpárlámpái fel vannak-e töltve és jól működnek.",
+                "ro": "Soarele apune devreme. Asigurați-vă că luminile bicicletei sunt complet încărcate înainte ca întunericul iernii să se lase peste traseu.",
+                "en": "The sun sets very early here. Make absolutely sure your bike lights are fully charged and turned on before the winter darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +866,280 @@
         "hu": "Reggel kényelmesen kigördül az állomásról autóval, hogy felfedezze az északi tórendszert. Délben a lenyűgöző Torcy-tavakat és a közeli, festői Étang de Montaubryt ejti útba egy pihentető sétára. Délután dél felé veszi az irányt a helyi golfpályához és a háborítatlan Étang Berthaud környékére. Az estéje a hatalmas Lac de la Sorme partján zárul egy varázslatos naplemente kíséretében.",
         "ro": "Dimineața porniți cu mașina de la gară și explorați salba de lacuri nordice într-un ritm relaxat. La prânz vizitați marile lacuri Torcy și continuați către pitorescul Étang de Montaubry aflat în apropiere. După-amiaza vă îndreptați spre sud spre terenul de golf și împrejurimile sălbatice ale Étang Berthaud. Seara se încheie la Lac de la Sorme cu o panoramă magnifică la apus.",
         "en": "Morning has you driving out from the station to explore the northern chain of lakes at a highly relaxed pace. Midday is spent visiting the grand Torcy lakes and continuing to the scenic Étang de Montaubry nearby. In the afternoon, head south towards the golf course and the unspoiled surroundings of Étang Berthaud. Conclude your driving tour at Lac de la Sorme with a sunset view."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie im Warmen am Bahnhof, während der Regen prasselt.\n\nMittags fahren Sie gemütlich zwischen den Torcy-Seen umher.\n\nNachmittags bei den südlichen Seen parken Sie nah, um trocken zu bleiben.\n\nAbends am großen Stausee genießen Sie den dramatischen Regenhimmel aus dem Auto.",
+            "hu": "Induljon a fűtött autóból az állomásról, miközben kint esik.\n\nDélben kényelmesen guruljon a Torcy-tavak között a zuhogó esőben.\n\nDélután a déli tavaknál parkoljon minél közelebb, hogy ne ázzon el.\n\nEste a nagy víztározónál az autóból csodálhatja a drámai, viharos eget.",
+            "ro": "Porniți la cald de la gară, în timp ce ploaia cade neîncetat.\n\nLa prânz, conduceți confortabil printre lacurile Torcy pe ploaie.\n\nDupă-amiaza la lacurile sudice, parcați aproape pentru a rămâne uscat.\n\nSeara, la marele baraj, admirați cerul furtunos direct din mașină.",
+            "en": "Start warmly at the station while the rain pours heavily outside.\n\nMidday, drive comfortably between the Torcy lakes with wipers on.\n\nAfternoon at the southern lakes, park as close as possible to stay dry.\n\nEvening at the large reservoir, watch the dramatic storm sky from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare de Montchanin",
+                "hu": "Gare de Montchanin",
+                "ro": "Gare de Montchanin",
+                "en": "Gare de Montchanin"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie im warmen Auto, bis der gröbste Platzregen nachlässt. Der Bahnhofsplatz bietet eine gute Möglichkeit, sich zu orientieren.",
+                "hu": "Várja meg a fűtött autóban, amíg a legnagyobb felhőszakadás alábbhagy. Az állomás előtti tér kiváló az útvonal megtervezéséhez.",
+                "ro": "Așteptați în mașina caldă până când ploaia torențială se mai potolește. Piațeta gării oferă un loc bun pentru a vă planifica traseul.",
+                "en": "Wait inside your warm car until the heaviest downpour subsides. The station plaza is a great place to sit and plan your rainy route."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Leduc",
+                "hu": "Étang Leduc",
+                "ro": "Étang Leduc",
+                "en": "Étang Leduc"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sicher am Straßenrand. Der Regen erzeugt wunderschöne, beruhigende Muster auf der Wasseroberfläche, ideal für ein Foto aus dem Fenster.",
+                "hu": "Húzódjon le biztonságosan az út szélére. Az esőcseppek gyönyörű, megnyugtató mintákat rajzolnak a tóra, amit az ablakból is lefotózhat.",
+                "ro": "Trageți pe dreapta în siguranță. Ploaia creează modele frumoase și relaxante pe apă, perfecte pentru o fotografie de la fereastra mașinii.",
+                "en": "Pull over safely on the shoulder. The rain creates beautiful, calming ripples on the pond, perfect for snapping a photo from your window."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Torcy Neuf",
+                "hu": "Étang de Torcy Neuf",
+                "ro": "Étang de Torcy Neuf",
+                "en": "Étang de Torcy Neuf"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den nebelverhangenen Blick auf den See direkt aus dem Auto. Schalten Sie die Scheibenheizung ein, um Beschlagen zu verhindern.",
+                "hu": "Élvezze a ködbe burkolózó tó látványát közvetlenül a kényelmes autóból. Kapcsolja be az ablakfűtést, hogy megelőzze a szélvédő párásodását.",
+                "ro": "Bucurați-vă de vederea cețoasă a lacului direct din mașină. Porniți dezaburirea parbrizului pentru a preveni condensul pe geamuri.",
+                "en": "Enjoy the misty, moody views of the lake directly from your car. Keep your windshield defroster on to prevent the windows from fogging up."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Étang de Torcy",
+                "hu": "Grand Étang de Torcy",
+                "ro": "Grand Étang de Torcy",
+                "en": "Grand Étang de Torcy"
+              },
+              "tip_5lang": {
+                "de": "Bei Sturm wirkt dieser große See sehr aufgewühlt. Parken Sie mit Blick auf das Wasser und lauschen Sie dem Regen auf dem Autodach.",
+                "hu": "Viharos időben ez a hatalmas tó rendkívül hullámzó és vad. Parkoljon le a víz felé fordulva, és hallgassa az eső dobolását az autó tetején.",
+                "ro": "Pe furtună, acest lac mare arată foarte agitat. Parcați cu fața spre apă și ascultați sunetul ploii lovind puternic acoperișul mașinii.",
+                "en": "During a storm, this massive lake looks quite rough and wild. Park facing the water and just listen to the heavy rain drumming on your roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Montaubry",
+                "hu": "Étang de Montaubry",
+                "ro": "Étang de Montaubry",
+                "en": "Étang de Montaubry"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hier besonders langsam. Die lokalen Straßen am See sind schmal und durch nasses Laub und große Wasserpfützen extrem rutschig.",
+                "hu": "Itt vezessen különösen lassan és óvatosan. A tóparti utak keskenyek, a nedves falevelek és a mély tócsák miatt pedig nagyon csúszósak.",
+                "ro": "Conduceți foarte încet aici. Drumurile locale de lângă lac sunt înguste și extrem de alunecoase din cauza frunzelor ude și a bălților.",
+                "en": "Drive exceedingly slowly here. The local roads around the lake are narrow and can be dangerously slick due to wet leaves and deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Bondilly",
+                "hu": "Étang de Bondilly",
+                "ro": "Étang de Bondilly",
+                "en": "Étang de Bondilly"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen großen Regenschirm mit. Vom Parkplatz bis zum Ufer ist es nur ein kurzer Fußweg, aber die Wiese ist stark aufgeweicht.",
+                "hu": "Vigyen magával egy nagy esernyőt. A parkolótól a partig csak egy rövid sétaút vezet, de a fű ilyenkor mindig erősen felázott és sáros.",
+                "ro": "Luați o umbrelă mare cu dumneavoastră. Este doar o scurtă plimbare de la parcare până la mal, dar pajiștea este puternic îmbibată cu apă.",
+                "en": "Make sure to grab a large umbrella. It's only a very short walk from the parking area to the banks, but the grass will be heavily waterlogged."
+              }
+            },
+            {
+              "name": {
+                "de": "Golf du Château d'Avoise",
+                "hu": "Golf du Château d'Avoise",
+                "ro": "Golf du Château d'Avoise",
+                "en": "Golf du Château d'Avoise"
+              },
+              "tip_5lang": {
+                "de": "Das Restaurant im Clubhaus ist ein perfekter Zufluchtsort für einen heißen Kaffee, während es draußen in Strömen weiterregnet.",
+                "hu": "A klubház étterme tökéletes, száraz menedékhely egy forró kávéra, miközben kint továbbra is vigasztalanul, szakadó esőben ázik a táj.",
+                "ro": "Restaurantul clubului este un refugiu perfect pentru a savura o cafea caldă, în timp ce afară plouă cu găleata peste terenul de golf.",
+                "en": "The clubhouse restaurant acts as the perfect, dry refuge to grab a hot coffee while the rain continues to pour down over the empty fairways."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Berthaud",
+                "hu": "Étang Berthaud",
+                "ro": "Étang Berthaud",
+                "en": "Étang Berthaud"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto sitzen und kurbeln Sie das Fenster einen Spalt auf. So können Sie die frische, regnerische Luft ohne Nässe genießen.",
+                "hu": "Maradjon a kényelmes autóban, és csak résnyire húzza le az ablakot. Így anélkül élvezheti a friss, esőáztatta levegőt, hogy bőrig ázna.",
+                "ro": "Rămâneți în mașină și deschideți puțin geamul. Astfel vă puteți bucura de aerul proaspăt și ploios fără a vă uda deloc hainele.",
+                "en": "Stay comfortably in your car and crack the window just a bit. This lets you enjoy the crisp, rainy air without getting your clothes soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Sorme",
+                "hu": "Lac de la Sorme",
+                "ro": "Lac de la Sorme",
+                "en": "Lac de la Sorme"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie oben an der Staumauer. Von dort haben Sie einen fantastischen, geschützten Blick auf den riesigen See unter dunklen Gewitterwolken.",
+                "hu": "Parkoljon le a gát tetejénél. Onnan fantasztikus, védett kilátás nyílik a hatalmas, sötét viharfelhők alatt elterülő vad víztározóra.",
+                "ro": "Parcați sus, lângă baraj. De acolo aveți o vedere fantastică și protejată a lacului uriaș sub norii întunecați și amenințători de furtună.",
+                "en": "Park right up near the dam structure. From there, you get a fantastic, sheltered view of the enormous lake under dark, dramatic storm clouds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit aufgedrehter Heizung in den eisigen Morgen.\n\nMittags erkunden Sie die vereisten Torcy-Seen aus dem warmen Auto.\n\nNachmittags am Golfplatz und den Teichen reichen kurze Ausstiege in dicker Jacke.\n\nSeien Sie rechtzeitig vor dem frühen Sonnenuntergang um 17:00 am großen See.",
+            "hu": "Indítsa a fagyos reggelt az autó fűtésének maximumra kapcsolásával.\n\nDélben a meleg autóból fedezze fel a jégbe fagyott Torcy-tavakat.\n\nDélután a golfpályánál és a tavaknál elég csak rövid időre kiszállni.\n\nÉrjen a nagy tóhoz még a korai, 17:00 órás naplemente előtt.",
+            "ro": "Începeți dimineața geroasă cu căldura mașinii dată la maximum.\n\nLa prânz, explorați lacurile Torcy înghețate din mașina caldă.\n\nDupă-amiaza, la terenul de golf, sunt suficiente ieșiri scurte în geacă groasă.\n\nFiți la marele lac la timp pentru apusul soarelui devreme, în jur de ora 17:00.",
+            "en": "Start the freezing morning with the car heater blasting.\n\nMidday, explore the icy Torcy lakes from the comfort of your warm vehicle.\n\nAfternoon at the golf course and ponds requires only short hops out in a heavy coat.\n\nMake sure to arrive at the large lake well before the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare de Montchanin",
+                "hu": "Gare de Montchanin",
+                "ro": "Gare de Montchanin",
+                "en": "Gare de Montchanin"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit hier, um die Windschutzscheibe komplett vom Eis zu befreien. Klare Sicht ist bei tiefstehender Wintersonne wichtig.",
+                "hu": "Használja ki az időt a szélvédő teljes jégmentesítésére. Az alacsonyan járó, vakító téli napnál kritikus fontosságú a tökéletes kilátás.",
+                "ro": "Folosiți timpul aici pentru a curăța complet parbrizul de gheață. Vizibilitatea clară este vitală cu soarele de iarnă care bate foarte jos.",
+                "en": "Use the time here to completely defrost and scrape your windshield. Clear visibility is absolutely vital with the blinding, low winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Leduc",
+                "hu": "Étang Leduc",
+                "ro": "Étang Leduc",
+                "en": "Étang Leduc"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Schilfufer glitzern im Licht. Steigen Sie nur kurz mit einer warmen Jacke aus, um die klare Frostluft einzuatmen.",
+                "hu": "A fagyott nádas gyönyörűen csillog a fényben. Csak egy rövid időre, vastag kabátban szálljon ki, hogy belélegezze a friss, fagyos levegőt.",
+                "ro": "Marginile înghețate ale stufului sclipesc în lumină. Ieșiți doar scurt, cu o geacă groasă, pentru a respira aerul curat și înghețat.",
+                "en": "The frozen reed edges glisten beautifully in the light. Step out only briefly in a heavy coat to breathe in the crisp, frosty morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Torcy Neuf",
+                "hu": "Étang de Torcy Neuf",
+                "ro": "Étang de Torcy Neuf",
+                "en": "Étang de Torcy Neuf"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die weite, frostige Winterlandschaft aus dem gut beheizten Auto. Achten Sie beim Aussteigen auf überfrierende Nässe am Rand.",
+                "hu": "Szemlélje a fagyos téli tájat a jól fűtött, meleg autóból. Ha kiszállna, nagyon vigyázzon a parkoló szélén kialakuló fekete jégre.",
+                "ro": "Priviți peisajul vast și geros de iarnă din mașina bine încălzită. Dacă ieșiți, aveți grijă la gheața neagră formată pe marginea drumului.",
+                "en": "Admire the vast, frosty winter landscape from your well-heated car. If you do step out, watch carefully for black ice near the parking edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Étang de Torcy",
+                "hu": "Grand Étang de Torcy",
+                "ro": "Grand Étang de Torcy",
+                "en": "Grand Étang de Torcy"
+              },
+              "tip_5lang": {
+                "de": "Die Reflexion der Wintersonne auf der riesigen Wasserfläche kann blenden. Halten Sie Ihre Sonnenbrille bereit, wenn Sie hier entlangfahren.",
+                "hu": "A téli nap tükröződése a hatalmas vízfelületen rendkívül vakító lehet. Mindenképpen tartsa kéznél a napszemüvegét, amíg erre vezet.",
+                "ro": "Reflexia soarelui de iarnă pe suprafața uriașă de apă poate fi orbitoare. Păstrați ochelarii de soare la îndemână când conduceți pe aici.",
+                "en": "The harsh reflection of the low winter sun on the massive water surface can be blinding. Keep your sunglasses handy when driving past here."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Montaubry",
+                "hu": "Étang de Montaubry",
+                "ro": "Étang de Montaubry",
+                "en": "Étang de Montaubry"
+              },
+              "tip_5lang": {
+                "de": "In den schattigen Waldkurven um diesen See hält sich das Eis oft den ganzen Tag. Reduzieren Sie Ihre Geschwindigkeit deutlich.",
+                "hu": "A tó körüli árnyékos, erdei kanyarokban a jég gyakran egész nap megmarad. Jelentősen csökkentse a sebességet ezen a szakaszon.",
+                "ro": "În curbele umbrite din pădurea din jurul acestui lac, gheața persistă adesea toată ziua. Reduceți semnificativ viteza de deplasare.",
+                "en": "In the shaded woodland corners surrounding this lake, the ice often lingers all day long. Greatly reduce your driving speed on this section."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Bondilly",
+                "hu": "Étang de Bondilly",
+                "ro": "Étang de Bondilly",
+                "en": "Étang de Bondilly"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie eine Thermoskanne mit heißem Getränk mit. Trinken Sie im Auto, während Sie die ruhige, winterliche Natur durch die Scheibe beobachten.",
+                "hu": "Hozzon magával egy termosz forró italt. Kortyolgassa a meleg autóban, miközben az ablakon át figyeli a csendes, téli természetet.",
+                "ro": "Aduceți un termos cu o băutură caldă. Beți în mașină în timp ce observați natura liniștită și înghețată prin parbriz.",
+                "en": "Bring a large thermos filled with a hot drink. Sip it inside the car while quietly observing the still, frozen nature through the windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Golf du Château d'Avoise",
+                "hu": "Golf du Château d'Avoise",
+                "ro": "Golf du Château d'Avoise",
+                "en": "Golf du Château d'Avoise"
+              },
+              "tip_5lang": {
+                "de": "Raureif bedeckt das gesamte Gelände wie Puderzucker. Der Parkplatz kann sehr glatt sein, treten Sie also beim Aussteigen vorsichtig auf.",
+                "hu": "A zúzmara porcukorként borítja be az egész terepet. A parkoló lejtője extrém csúszós lehet, ezért nagyon óvatosan lépjen ki az autóból.",
+                "ro": "Bruma acoperă întregul teren ca zahărul pudră. Parcarea poate fi foarte alunecoasă, așa că pășiți cu mare grijă la coborârea din mașină.",
+                "en": "Frost covers the entire estate like powdered sugar. The parking lot surface can be deceptively slick, so step out of your vehicle with care."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Berthaud",
+                "hu": "Étang Berthaud",
+                "ro": "Étang Berthaud",
+                "en": "Étang Berthaud"
+              },
+              "tip_5lang": {
+                "de": "Eisige Winde machen längere Spaziergänge hier unangenehm. Schauen Sie sich das raue Winterwasser am besten direkt aus dem warmen Fahrzeug an.",
+                "hu": "A jeges szelek a hosszabb sétákat itt rendkívül kellemetlenné teszik. A legjobb, ha a vad, téli vizet egyenesen a meleg járműből csodálja meg.",
+                "ro": "Vânturile înghețate fac plimbările lungi neplăcute aici. Cel mai bine este să priviți apa aspră de iarnă direct din vehiculul încălzit.",
+                "en": "Freezing winds make long walks quite unpleasant here. It is best to admire the rough, choppy winter water directly from your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Sorme",
+                "hu": "Lac de la Sorme",
+                "ro": "Lac de la Sorme",
+                "en": "Lac de la Sorme"
+              },
+              "tip_5lang": {
+                "de": "Treffen Sie unbedingt vor 16:30 Uhr ein. Die tief stehende Sonne malt unglaubliche Farben in den Winterhimmel, bevor die eisige Nacht hereinbricht.",
+                "hu": "Mindenképp érkezzen meg 16:30 előtt. Az alacsony nap hihetetlen színeket fest a téli égre, mielőtt hirtelen rámsötétedik az iszonyatos hideg.",
+                "ro": "Asigurați-vă că ajungeți înainte de 16:30. Soarele apune pictează culori incredibile pe cerul de iarnă înainte de a se lăsa noaptea geroasă.",
+                "en": "Make absolutely sure to arrive before 16:30. The setting sun paints incredible colors across the winter sky just before the freezing night hits."
+              }
+            }
+          ]
+        }
       }
     }
   }

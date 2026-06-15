@@ -160,6 +160,196 @@
         "hu": "A reggel egy kellemes sétával indul a történelmi Bude-csatorna mentén, ahol magába szívhatja a vízpart békés hangulatát. Ezután megcsodálhatja a Bude Light emlékművet, majd felfedezheti a The Castle Bude kiállításait.\nKésőbb az útvonal a Summerleaze Beach aranyhomokos partjára vezet. Itt nyugodtan pihenhet, nézheti a hullámokat, és élvezheti a frissítő óceáni szellőt a kora délutáni napsütésben.\nEzt követően mártózzon meg vagy csak csodálja meg a zseniális Bude Sea Poolt. A tengerparti sziklákba vájt sós vizű medence egyedülálló, biztonságos fürdőzési élményt nyújt az Atlanti-óceán partján.\nZárja a napot egy sétával a Compass Point felé. Az ikonikus vihartoronyból nyíló panorámás naplemente felejthetetlen esti élményt nyújt a korni partok felett.",
         "ro": "Dimineața începe cu o plimbare relaxantă de-a lungul canalului istoric Bude, bucurându-vă de atmosfera pașnică. Apoi veți admira monumentul Bude Light înainte de a explora expozițiile bogate de la The Castle Bude.\nMai târziu, itinerariul vă conduce către nisipurile aurii ale plajei Summerleaze. Aici vă puteți relaxa, urmări valurile și vă puteți bucura de briza revigorantă a oceanului într-o după-amiază însorită.\nApoi, faceți o baie sau pur și simplu admirați ingenioasa Bude Sea Pool, o minune a ingineriei de coastă. Piscina cu apă sărată oferă o experiență unică și sigură chiar la marginea Atlanticului.\nÎncheiați ziua cu o plimbare pitorească până la Compass Point. Priveliștile panoramice la apus de la iconicul turn de furtună oferă o seară cu adevărat de neuitat pe coasta din Cornwall.",
         "en": "Morning begins with a gentle stroll along the historic Bude Canal, soaking in the serene waterfront atmosphere. You'll then admire the distinct Bude Light monument before heading to The Castle Bude to explore its rich local exhibitions.\nAfterwards, the itinerary leads you down to the golden expanse of Summerleaze Beach. Here, you can relax, watch the waves, and enjoy the refreshing ocean breeze on a sunny afternoon.\nNext, take a dip or simply admire the ingenious Bude Sea Pool, a true marvel of coastal engineering. The saltwater pool provides a unique, safe swimming experience right at the edge of the Atlantic.\nConclude your day with a scenic walk up to Compass Point. The panoramic sunset views from the iconic storm tower make for a truly unforgettable evening looking out over the Cornish coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Bude Canal, wo man unter dem Regenschirm die Boote beobachtet. Mittags bietet The Castle den perfekten Zufluchtsort vor dem Wetter. Nachmittags ist der Summerleaze Beach dramatisch rau. Den Tag lassen wir am Sea Pool und Compass Point ausklingen, wobei die Meeresbrise heute besonders feucht ist. Achten Sie auf rutschige Wege an der Küste.",
+            "hu": "A reggelt a Bude-csatornánál kezdjük esernyővel, nézve a zsilipeket. Délben a Castle múzeum nyújt tökéletes menedéket az eső elől. Délután a Summerleaze Beach hullámai lenyűgözőek a szürke ég alatt. A napot a Sea Poolnál és a Compass Pointnál zárjuk, ahol a tengeri permet ma messzebbre száll. Figyeljen a partmenti sziklák csúszós felületeire.",
+            "ro": "Dimineața începe la Canalul Bude cu o umbrelă, urmărind ecluzele. La prânz, muzeul The Castle oferă refugiul perfect împotriva ploii. După-amiaza, valurile de la Summerleaze sunt impresionante sub cerul gri. Încheiem ziua la Sea Pool și Compass Point, unde briza mării este astăzi deosebit de umedă. Atenție la potecile de coastă care pot deveni alunecoase.",
+            "en": "Start the morning at Bude Canal with an umbrella, watching the locks. At noon, The Castle museum provides the perfect escape from the rain. In the afternoon, Summerleaze Beach looks dramatic under gray skies. Finish at the Sea Pool and Compass Point, where the sea spray carries further today. Be careful on the coastal paths as they can be quite slippery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bude Canal",
+                "hu": "Bude Canal",
+                "ro": "Bude Canal",
+                "en": "Bude Canal"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie den Pfad mit wasserfesten Schuhen entlang; die Brise kann hier feucht sein, aber die Aussicht auf die Schleusen ist auch bei Regen idyllisch.",
+                "hu": "Sétáljon a parton vízálló cipőben; a szél itt elég nedves lehet, de a zsilipek látványa esőben is rendkívül idilli és megnyugtató a csatorna mentén.",
+                "ro": "Plimbați-vă pe potecă cu încălțăminte impermeabilă; briza poate fi umedă, dar vederea ecluzelor este idilică chiar și pe ploaie de-a lungul canalului.",
+                "en": "Walk the towpath with waterproof shoes; the breeze can be quite wet here, but the view of the locks is very idyllic even in the rain along the canal."
+              }
+            },
+            {
+              "name": {
+                "de": "Bude Light",
+                "hu": "Bude Light",
+                "ro": "Bude Light",
+                "en": "Bude Light"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto der Skulptur; bei Regen glänzt das Glas besonders schön und bietet ein tolles Motiv vor dem grauen Himmel.",
+                "hu": "Egy gyors megálló a szobornál; az üvegfelületek csodásan csillognak az esőben, különleges látványt nyújtva a szürke égbolt előtt.",
+                "ro": "O scurtă oprire pentru o fotografie a sculpturii; în ploaie, sticla strălucește deosebit de frumos, oferind un motiv grozav pe fundalul cerului gri.",
+                "en": "A quick stop for a photo; the glass surfaces glisten beautifully in the rain, providing a striking subject against the moody gray sky."
+              }
+            },
+            {
+              "name": {
+                "de": "The Castle Bude",
+                "hu": "The Castle Bude",
+                "ro": "The Castle Bude",
+                "en": "The Castle Bude"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Rückzugsort bei Regen; erkunden Sie die lokalen Ausstellungen im Trockenen und genießen Sie den Blick auf das Meer aus dem Fenster.",
+                "hu": "A tökéletes menedék esőben; fedezze fel a helyi kiállításokat szárazon, és csodálja meg a viharos tenger látványát a biztonságos ablakok mögül.",
+                "ro": "Refugiul ideal pe timp de ploaie; explorați expozițiile locale la adăpost și bucurați-vă de vederea mării de la fereastră.",
+                "en": "The ideal retreat when it rains; explore the local heritage exhibitions while staying dry and enjoy the sea views from the gallery windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Summerleaze Beach",
+                "hu": "Summerleaze Beach",
+                "ro": "Summerleaze Beach",
+                "en": "Summerleaze Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung von den oberen Wegen aus; die Wellen sind bei Regen spektakulär, aber bleiben Sie für trockenere Füße auf dem Asphalt.",
+                "hu": "Figyelje a hullámtörést a felső utakról; az óceán látványa esőben lenyűgöző, de maradjon a burkolt úton, hogy lába szárazon maradjon.",
+                "ro": "Observați valurile de pe potecile superioare; spectacolul oceanului este uimitor pe ploaie, dar rămâneți pe asfalt pentru a vă păstra picioarele uscate.",
+                "en": "Watch the surf from the upper paths; the ocean is spectacular in the rain, but stay on the paved walkways to keep your feet as dry as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Bude Sea Pool",
+                "hu": "Bude Sea Pool",
+                "ro": "Bude Sea Pool",
+                "en": "Bude Sea Pool"
+              },
+              "tip_5lang": {
+                "de": "Das Meerwasser wirkt bei Regen dunkler und kraftvoller; ein toller Ort für dramatische Fotos, aber Vorsicht vor rutschigen Steinstufen.",
+                "hu": "A tenger sötétebbnek és erőteljesebbnek tűnik esőben; remek hely drámai fotókhoz, de legyen nagyon óvatos a csúszós kőlépcsőkön.",
+                "ro": "Apa mării pare mai închisă și mai puternică pe ploaie; un loc minunat pentru fotografii dramatice, dar atenție la treptele de piatră alunecoase.",
+                "en": "The seawater looks darker and more powerful in the rain; it's a great spot for dramatic photos, but be very careful on the slippery stone steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Compass Point",
+                "hu": "Compass Point",
+                "ro": "Compass Point",
+                "en": "Compass Point"
+              },
+              "tip_5lang": {
+                "de": "Hier ist es sehr windig; halten Sie Ihren Schirm fest oder nutzen Sie eine Regenjacke, um den Blick auf den stürmischen Atlantik zu genießen.",
+                "hu": "Itt nagyon fúj a szél; fogja erősen az esernyőjét, vagy használjon kapucnit, hogy élvezhesse a viharos Atlanti-óceán látványát.",
+                "ro": "Aici vântul bate puternic; țineți bine umbrela sau folosiți o pelerină pentru a vă bucura de vederea spre Atlanticul învolburat.",
+                "en": "It is very windy here; hold your umbrella tight or use a rain jacket to enjoy the view of the stormy Atlantic from this high vantage point."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Kanal startet den Tag. Die Bude Light glänzt in der tiefstehenden Sonne. Mittags wärmen wir uns im Castle auf. Der Strandspaziergang am Summerleaze ist belebend kalt. Nach dem Sea Pool erreichen wir Compass Point pünktlich zum Sonnenuntergang gegen 17:00 Uhr. Kleiden Sie sich in warmen Schichten.",
+            "hu": "Friss téli reggel a csatornánál indítja a napot. A Bude Light ragyog az alacsony napfényben. Délben a Castle múzeumban melegszünk fel. A Summerleaze Beach-i séta élénkítően hideg. A Sea Pool után a Compass Pointhoz érünk, éppen a 17:00 körüli naplementére. Öltözzön rétegesen és melegen.",
+            "ro": "O dimineață răcoroasă de iarnă la canal începe ziua. Bude Light strălucește în soarele jos. La prânz ne încălzim la muzeul Castle. Plimbarea pe plaja Summerleaze este revigorant de rece. După Sea Pool, ajungem la Compass Point fix la apus, în jur de ora 17:00. Îmbrăcați-vă în straturi groase.",
+            "en": "A crisp winter morning at the canal starts the day. Bude Light shines in the low sun. At noon, we warm up inside the Castle museum. The beach walk at Summerleaze is bracingly cold. After the Sea Pool, we reach Compass Point just in time for the 17:00 sunset. Dress in warm, thermal layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bude Canal",
+                "hu": "Bude Canal",
+                "ro": "Bude Canal",
+                "en": "Bude Canal"
+              },
+              "tip_5lang": {
+                "de": "Der Frost auf den Schilfhalmen bietet ein schönes Fotomotiv; tragen Sie Thermosocken, da die Kälte vom Wasser heraufzieht.",
+                "hu": "A dér a nádasokon csodás látvány; viseljen termoszoknit, mert a víz felől érkező hideg levegő gyorsan lehűti az embert.",
+                "ro": "Chiciura de pe stuf oferă o imagine superbă; purtați șosete termice, deoarece frigul care vine dinspre apă este destul de pătrunzător.",
+                "en": "The frost on the reeds makes for a stunning photo; wear thermal socks as the cold air coming off the water can be quite biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Bude Light",
+                "hu": "Bude Light",
+                "ro": "Bude Light",
+                "en": "Bude Light"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bricht sich herrlich im Glas; ein kurzer Halt für ein helles Foto in der klaren, kalten Luft lohnt sich sehr.",
+                "hu": "A téli napfény gyönyörűen törik meg az üvegen; egy rövid megálló a kristálytiszta, hideg levegőben remek fotólehetőséget kínál.",
+                "ro": "Soarele de iarnă se reflectă superb în sticlă; o scurtă oprire în aerul rece și curat merită din plin pentru o fotografie luminoasă.",
+                "en": "The winter sun reflects beautifully off the glass; a quick stop in the clear, cold air is well worth it for a bright photo opportunity."
+              }
+            },
+            {
+              "name": {
+                "de": "The Castle Bude",
+                "hu": "The Castle Bude",
+                "ro": "The Castle Bude",
+                "en": "The Castle Bude"
+              },
+              "tip_5lang": {
+                "de": "Der gemütlichste Ort des Tages; nutzen Sie die Galerie, um sich aufzuwärmen und dabei die Winterlandschaft draußen zu bewundern.",
+                "hu": "A nap legmelegebb pontja; pihenjen a galériában, melegedjen fel, miközben az ablakból csodálja a téli tengerparti tájat.",
+                "ro": "Cel mai primitor loc al zilei; folosiți galeria pentru a vă încălzi în timp ce admirați peisajul de iarnă de afară.",
+                "en": "The coziest spot of the day; use the gallery to warm up while still enjoying the views of the winter landscape through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Summerleaze Beach",
+                "hu": "Summerleaze Beach",
+                "ro": "Summerleaze Beach",
+                "en": "Summerleaze Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist im Winter oft fester; ein zügiger Spaziergang hält den Kreislauf in Schwung und bietet eine herrliche Weite.",
+                "hu": "A homok télen gyakran keményebb; egy tempós séta élénkíti a vérkeringést, és a part ilyenkor csendes és végtelennek tűnik.",
+                "ro": "Nisipul este adesea mai tare iarna; o plimbare rapidă vă va menține circulația activă și oferă o perspectivă superbă asupra țărmului.",
+                "en": "The sand is often firmer in winter; a brisk walk will keep your circulation going and offers a wonderful sense of space and solitude."
+              }
+            },
+            {
+              "name": {
+                "de": "Bude Sea Pool",
+                "hu": "Bude Sea Pool",
+                "ro": "Bude Sea Pool",
+                "en": "Bude Sea Pool"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das klare Winterlicht auf dem Wasser; achten Sie auf vereiste Stellen auf den Wegen rund um das Becken.",
+                "hu": "Csodálja meg a tiszta téli fényeket a vízen; legyen nagyon figyelmes a medence körüli utak esetleges jeges foltjaira.",
+                "ro": "Admirați lumina clară de iarnă pe suprafața apei; fiți atenți la porțiunile înghețate de pe aleile din jurul bazinului.",
+                "en": "Admire the clear winter light on the water; be very careful of any icy patches on the walkways surrounding the sea pool."
+              }
+            },
+            {
+              "name": {
+                "de": "Compass Point",
+                "hu": "Compass Point",
+                "ro": "Compass Point",
+                "en": "Compass Point"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr; die Farben im Winter sind oft besonders intensiv, aber der Wind ist hier oben eisig.",
+                "hu": "Élvezze a naplementét 17:00 körül; a téli színek gyakran intenzívebbek, de a szél itt fent ilyenkor metszően hideg lehet.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00; culorile iernii sunt adesea intense, dar vântul aici sus poate fi de-a dreptul înghețat.",
+                "en": "Enjoy the sunset around 17:00; winter colors are often very intense, but be prepared for the biting wind at this high point."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpáros kalandja a békés Bude-mocsaraknál kezdődik, amely kiváló lehetőséget nyújt a vadvilág megfigyelésére. Innen tekerjen a történelmi Bude-csatorna mentén, és élvezze a tengeri hangulatot.\nDél közeledtével parkolja le kerékpárját, és merüljön el a The Castle Bude lenyűgöző örökségében. Miután betelt a történelemmel, kapjon be egy gyors falatot a gyönyörű partra néző éttermek egyikében.\nDélután tekerjen a part mentén, és csodálja meg az ikonikus Bude Sea Poolt. Az út a Crooklets Beach felé folytatódik, amely híres a szörfösök körében kiváló hullámairól és élénk hangulatáról.\nZárja aktív napját úgy, hogy északra teker a zord Northcott Mouth strandhoz. A drámai sziklák és a kavicsos partok látványos és csendes hátteret biztosítanak egy csodálatos nap lezárásához.",
         "ro": "Aventura pe bicicletă începe în liniștitele Bude Marshes, oferind oportunități excelente de observare a faunei. De acolo, pedalați pe traseul plat al canalului istoric Bude, absorbind atmosfera maritimă.\nPe la prânz, parcați bicicleta pentru a descoperi moștenirea fascinantă de la The Castle Bude. După porția de istorie, luați o gustare rapidă admirând coasta superbă din apropiere.\nDupă-amiaza, mergeți pe coastă pentru a admira iconica Bude Sea Pool. Călătoria continuă spre Crooklets Beach, faimoasă printre surferi pentru valurile sale excelente și atmosfera plină de viață.\nÎncheiați ziua activă pedalând spre nord către plaja stâncoasă Northcott Mouth. Stâncile dramatice și țărmurile cu pietriș oferă un decor spectaculos pentru a reflecta la o zi minunată.",
         "en": "Your cycling adventure kicks off in the peaceful Bude Marshes, offering excellent wildlife spotting opportunities. From there, pedal along the flat towpath of the historic Bude Canal, soaking in the maritime ambiance.\nAs midday approaches, park your bike to delve into the fascinating heritage displays at The Castle Bude. Once you've had your fill of history, grab a quick bite overlooking the beautiful coast nearby.\nIn the afternoon, ride along the coastline to marvel at the iconic Bude Sea Pool. The journey continues to Crooklets Beach, famous among surfers for its excellent waves and lively seaside atmosphere.\nFinish your active day by cycling north to the rugged Northcott Mouth beach. The dramatic cliffs and pebble shores provide a spectacular and quiet backdrop to reflect on a wonderful day out."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten an den Marshes, wo die Wege heute matschig sein können. Am Kanal entlang fahren wir vorsichtig bei Regen. Das Castle bietet mittags eine trockene Pause. Nach dem Sea Pool erkunden wir die Strände Crooklets und Northcott Mouth, wobei der Wind heute eine Herausforderung ist. Tragen Sie auffällige Regenkleidung.",
+            "hu": "A Marshes-nál kezdünk, ahol az utak ma sárosak lehetnek. A csatorna mentén óvatosan tekerjünk az esőben. A Castle délben száraz pihenőt kínál. A Sea Pool után Crooklets és Northcott Mouth következik, ahol a szembeszél nehezítheti a haladást. Viseljen jól látható esőkabátot.",
+            "ro": "Începem la Marshes, unde potecile pot fi noroioase astăzi. Pedalăm cu grijă pe lângă canal în ploaie. Castle oferă o pauză uscată la prânz. După Sea Pool, explorăm Crooklets și Northcott Mouth, unde vântul poate fi o provocare. Purtați haine de ploaie reflectorizante.",
+            "en": "Start at the Marshes, where paths might be muddy today. Cycle carefully along the canal in the rain. The Castle provides a dry break at noon. After the Sea Pool, explore Crooklets and Northcott Mouth, where the wind can be a challenge. Wear high-visibility rain gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bude Marshes",
+                "hu": "Bude Marshes",
+                "ro": "Bude Marshes",
+                "en": "Bude Marshes"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können rutschig und matschig sein; nutzen Sie Reifen mit gutem Profil und fahren Sie in Kurven besonders langsam.",
+                "hu": "Az utak csúszósak és sárosak lehetnek; használjon jó tapadású gumikat, és a kanyarokban tekerjen különösen óvatosan.",
+                "ro": "Potecile pot fi alunecoase și noroioase; folosiți anvelope cu profil bun și pedalați cu viteză redusă în curbe.",
+                "en": "The paths can be slippery and muddy; use tires with good grip and slow down significantly when taking any turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Bude Canal",
+                "hu": "Bude Canal",
+                "ro": "Bude Canal",
+                "en": "Bude Canal"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem schmalen Pfad; Pfützen können Unebenheiten verbergen, halten Sie also beide Hände fest am Lenker.",
+                "hu": "Tekerjen óvatosan a keskeny úton; a tócsák egyenetlenségeket rejthetnek, ezért tartsa mindkét kezét szilárdan a kormányon.",
+                "ro": "Pedalați cu atenție pe poteca îngustă; bălțile pot ascunde denivelări, așa că țineți ambele mâini bine pe ghidon.",
+                "en": "Cycle carefully on the narrow path; puddles can hide uneven surfaces, so keep both hands firmly on the handlebars at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "The Castle Bude",
+                "hu": "The Castle Bude",
+                "ro": "The Castle Bude",
+                "en": "The Castle Bude"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und nutzen Sie den Besuch, um sich im Museum aufzuwärmen und Ihre Kleidung kurz zu trocknen.",
+                "hu": "Zárja le biztonságosan a biciklit, és használja ki a látogatást a múzeumban, hogy felmelegedjen és kicsit megszárítsa az esőkabátját.",
+                "ro": "Parcați bicicleta în siguranță și folosiți vizita la muzeu pentru a vă încălzi și a vă usca puțin hainele de ploaie.",
+                "en": "Park your bike securely and use the museum visit to warm up and dry your rain gear for a while before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Bude Sea Pool",
+                "hu": "Bude Sea Pool",
+                "ro": "Bude Sea Pool",
+                "en": "Bude Sea Pool"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt kann den Radweg erreichen; halten Sie Abstand zum Beckenrand, da die Steine bei Nässe extrem rutschig sind.",
+                "hu": "A hullámpermet elérheti a bicikliutat; tartson távolságot a medence szélétől, mert a nedves kövek rendkívül csúszósak.",
+                "ro": "Stropii de apă pot ajunge pe pista de biciclete; păstrați distanța față de marginea bazinului, deoarece pietrele umede sunt foarte alunecoase.",
+                "en": "Sea spray might reach the cycle path; keep a safe distance from the pool edge as the wet stones are extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Crooklets Beach",
+                "hu": "Crooklets Beach",
+                "ro": "Crooklets Beach",
+                "en": "Crooklets Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um die Brandung im Regen zu sehen; prüfen Sie Ihre Bremsen, bevor Sie die abschüssige Straße zum Strand befahren.",
+                "hu": "Egy rövid megálló, hogy megnézze a hullámokat esőben; ellenőrizze a fékeket, mielőtt elindulna a lejtős úton a strand felé.",
+                "ro": "O scurtă oprire pentru a vedea valurile în ploaie; verificați frânele înainte de a coborî drumul în pantă spre plajă.",
+                "en": "A brief stop to watch the surf in the rain; check your brakes carefully before heading down the sloping road towards the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Northcott Mouth beach",
+                "hu": "Northcott Mouth beach",
+                "ro": "Northcott Mouth beach",
+                "en": "Northcott Mouth beach"
+              },
+              "tip_5lang": {
+                "de": "Diese abgelegene Bucht ist im Regen sehr wild; achten Sie auf den Rückweg, da die Sicht bei starkem Niederschlag abnehmen kann.",
+                "hu": "Ez az eldugott öböl esőben nagyon vadregényes; figyeljen a visszavezető útra, mert a látási viszonyok romolhatnak a nagy esőben.",
+                "ro": "Acest golf retras este foarte sălbatic pe ploaie; atenție la drumul de întoarcere, deoarece vizibilitatea poate scădea în timpul ploii.",
+                "en": "This secluded cove is very wild in the rain; pay close attention to the route back as visibility can decrease during heavy downpours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Morgenstart an den Marshes mit Nebel über dem Schilf. Die Fahrt am Kanal ist erfrischend bei klarem Winterwetter. Das Castle bietet die nötige Wärme am Mittag. Vor dem Sonnenuntergang um 17:00 Uhr erkunden wir die Küste bis Northcott Mouth. Tragen Sie winddichte Handschuhe und eine Mütze.",
+            "hu": "Hideg reggeli start a Marshes-nál, köddel a nádas felett. A csatorna menti tekerés frissítő a tiszta téli időben. A Castle nyújtja a szükséges meleget délben. A 17:00-s naplemente előtt érjük el Northcott Mouth-t. Viseljen szélálló kesztyűt és meleg sapkát.",
+            "ro": "Un început rece de dimineață la Marshes, cu ceață peste stuf. Pedalarea pe lângă canal este revigorantă în aerul curat de iarnă. Castle oferă căldura necesară la prânz. Înainte de apusul de la 17:00, explorăm coasta până la Northcott Mouth. Purtați mănuși și căciulă.",
+            "en": "A cold morning start at the Marshes with mist over the reeds. Cycling by the canal is refreshing in the clear winter air. The Castle provides much-needed warmth at noon. Reach Northcott Mouth before the 17:00 sunset. Wear windproof gloves and a warm hat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bude Marshes",
+                "hu": "Bude Marshes",
+                "ro": "Bude Marshes",
+                "en": "Bude Marshes"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Stellen auf den Holzbrücken; der morgendliche Frost macht die Landschaft besonders malerisch für Fotos.",
+                "hu": "Vigyázzon a fahidokon előforduló jeges foltokkal; a reggeli dér különösen festőivé teszi a tájat egy gyors fotóhoz.",
+                "ro": "Atenție la porțiunile înghețate de pe podurile de lemn; chiciura de dimineață face peisajul extrem de pitoresc pentru fotografii.",
+                "en": "Watch out for frozen patches on the wooden bridges; the morning frost makes the landscape especially picturesque for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Bude Canal",
+                "hu": "Bude Canal",
+                "ro": "Bude Canal",
+                "en": "Bude Canal"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft am Wasser ist schneidend; Handschuhe sind unerlässlich, während Sie entlang des historischen Kanals radeln.",
+                "hu": "A téli levegő a víz mellett metsző; a kesztyű elengedhetetlen, miközben a történelmi csatorna mentén teker a friss levegőn.",
+                "ro": "Aerul de iarnă de lângă apă este tăios; mănușile sunt esențiale în timp ce pedalați de-a lungul canalului istoric.",
+                "en": "The winter air by the water is biting; gloves are essential as you pedal along the historic canal in the crisp morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "The Castle Bude",
+                "hu": "The Castle Bude",
+                "ro": "The Castle Bude",
+                "en": "The Castle Bude"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp zum Auftauen; erkunden Sie die Ausstellungen zu Schiffswracks, während die Wintersonne tief am Himmel steht.",
+                "hu": "Használja ki a megállót a felmelegedésre; fedezze fel a hajóroncsokról szóló kiállítást, amíg a téli nap alacsonyan jár az égen.",
+                "ro": "Folosiți oprirea pentru a vă încălzi; explorați expoziția despre naufragii în timp ce soarele de iarnă stă jos pe cer.",
+                "en": "Use this stop to thaw out; explore the shipwrecks exhibit while the winter sun stays low in the sky, creating long shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Bude Sea Pool",
+                "hu": "Bude Sea Pool",
+                "ro": "Bude Sea Pool",
+                "en": "Bude Sea Pool"
+              },
+              "tip_5lang": {
+                "de": "Das Becken wirkt im Winterlicht sehr friedlich; parken Sie Ihr Rad kurz, um die Architektur gegen die Flut zu bewundern.",
+                "hu": "A medence nagyon békésnek tűnik a téli fényekben; álljon meg egy pillanatra, és csodálja meg az építményt az árapállyal szemben.",
+                "ro": "Bazinul pare foarte liniștit în lumina iernii; parcați bicicleta pentru un moment și admirați structura în fața mareei.",
+                "en": "The pool looks very serene in the winter light; park your bike briefly to admire the engineering against the incoming tide."
+              }
+            },
+            {
+              "name": {
+                "de": "Crooklets Beach",
+                "hu": "Crooklets Beach",
+                "ro": "Crooklets Beach",
+                "en": "Crooklets Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist ruhig und leer; genießen Sie die Einsamkeit der Winterküste, bevor Sie den Rückweg antreten.",
+                "hu": "A strand ilyenkor csendes és néptelen; élvezze a téli part magányát és nyugalmát, mielőtt elindulna visszafelé.",
+                "ro": "Plaja este liniștită și pustie; bucurați-vă de singurătatea coastei de iarnă înainte de a porni pe drumul de întoarcere.",
+                "en": "The beach is quiet and peaceful in winter; enjoy the solitude of the coast before you start your ride back to the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Northcott Mouth beach",
+                "hu": "Northcott Mouth beach",
+                "ro": "Northcott Mouth beach",
+                "en": "Northcott Mouth beach"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft vor 16:30 Uhr; so können Sie sicher im Tageslicht zurückfahren, bevor es um 17:00 Uhr dunkel wird.",
+                "hu": "Tervezze az érkezést 16:30 előtt; így biztonságosan, még világosban indulhat vissza, mielőtt 17:00-kor teljesen besötétedik.",
+                "ro": "Planificați sosirea înainte de 16:30; astfel puteți pedala înapoi în siguranță pe lumină, înainte de lăsarea întunericului la 17:00.",
+                "en": "Plan to arrive before 16:30; this ensures you can cycle back safely in daylight before it gets dark around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Kezdje autós túráját a hatalmas Widemouth Bay partján, ahol a hosszú homokos partszakasz találkozik a hullámokkal. A friss reggeli levegő és a horizont tökéletes kezdete a napnak.\nEzután vezessen a Compass Pointhoz, hogy megtapasztalja a partvidék lenyűgöző panorámáját. Ezután parkoljon le a városban, és irány a The Castle Bude, hogy felfedezze a környék gazdag történelmét.\nA kora délutánt töltse a történelmi Bude-csatorna környékének felfedezésével. A terület tele van hangulatos kávézókkal és hagyományos hajókkal, ami pihentető környezetet kínál a déli szünethez.\nZárja a napot egy rövid festői autózással északra a Sandy Mouth strandhoz. Fenséges sziklák és vízesések övezik, ami valóban látványos hely a tengerbe bukó naplemente megtekintéséhez.",
         "ro": "Începeți turul cu mașina vizitând plaja vastă Widemouth Bay, unde nisipul se întâlnește cu valurile dramatice. Aerul dimineții și orizontul uimitor creează un început perfect pentru ziua dumneavoastră.\nApoi, conduceți până la Compass Point pentru a experimenta priveliști largi ale întregii coaste abrupte. După aceea, parcați în oraș și vizitați The Castle Bude pentru a descoperi istoria bogată a zonei.\nPetreceți prima parte a după-amiezii plimbându-vă pe lângă canalul istoric Bude. Zona este plină de cafenele fermecătoare și bărci tradiționale, oferind un mediu relaxant pentru pauza de prânz.\nÎncheiați ziua cu o scurtă călătorie pitorească spre nord până la Sandy Mouth Beach. Înconjurată de stânci maiestuoase și cascade, este un loc spectaculos pentru a privi apusul la orizont.",
         "en": "Start your driving tour with a visit to the expansive Widemouth Bay, where long stretches of sand meet dramatic rolling waves. The morning air and breathtaking horizon create a perfect start to your day.\nNext, drive up to Compass Point to experience sweeping views of the entire rugged coastline. Afterwards, park in town and head into The Castle Bude to uncover the area's rich history and Victorian charm.\nSpend your early afternoon wandering nearby around the historic Bude Canal. The area is filled with charming cafes and traditional Cornish boats, offering a relaxed environment for a midday break.\nEnd the day with a short scenic drive north to Sandy Mouth Beach. Framed by majestic cliffs and cascading waterfalls, it's a truly spectacular spot to watch the sun dip below the ocean horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten an der Widemouth Bay, wo man die Wellen gut aus dem Auto beobachten kann. Ein kurzer Abstecher zum Compass Point bei Regen. Das Castle ist mittags der beste Ort im Trockenen. Nach einem Blick auf den Kanal beenden wir den Tag am Sandy Mouth, wo die Klippen im Nebel mystisch wirken.",
+            "hu": "A Widemouth Bay-nél kezdünk, ahol az autóból is jól látszanak a hullámok. Rövid megálló a Compass Pointnál az esőben. A Castle a legjobb hely délben, hogy szárazon maradjunk. A csatorna után a Sandy Mouth-nál zárunk, ahol a ködös sziklák misztikus látványt nyújtanak.",
+            "ro": "Începem la Widemouth Bay, unde valurile pot fi admirate direct din mașină. O scurtă oprire la Compass Point în ploaie. Castle este cel mai bun loc la prânz pentru a rămâne uscați. După canal, încheiem la Sandy Mouth, unde stâncile par mistice în ceață.",
+            "en": "Start at Widemouth Bay, where you can watch the waves from the car. A quick stop at Compass Point in the rain. The Castle is the best indoor spot at noon. After seeing the canal, finish at Sandy Mouth, where the cliffs look mystical in the mist."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Widemouth Bay",
+                "hu": "Widemouth Bay",
+                "ro": "Widemouth Bay",
+                "en": "Widemouth Bay"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Surfer bei Regen vom Parkplatz aus; die Atlantikdünung ist bei diesem Wetter oft besonders beeindruckend.",
+                "hu": "Figyelje a szörfösöket az esőben a parkolóból; az atlanti hullámverés ilyen időben gyakran különösen lenyűgöző látvány.",
+                "ro": "Urmăriți surferii în ploaie direct din parcare; valurile Atlanticului sunt adesea impresionante în acest tip de vreme.",
+                "en": "Watch the surfers brave the rain from the comfort of the car park; the Atlantic swell is often very impressive in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Compass Point",
+                "hu": "Compass Point",
+                "ro": "Compass Point",
+                "en": "Compass Point"
+              },
+              "tip_5lang": {
+                "de": "Nur ein kurzer Weg vom Parkplatz; halten Sie Ihre Regenkleidung für den schnellen Sprint zum Aussichtspunkt bereit.",
+                "hu": "Csak egy rövid séta a parkolótól; készítse elő az esőkabátját a gyors sprinthez a kilátópontig a viharos szélben.",
+                "ro": "Doar o scurtă plimbare din parcare; pregătiți pelerina de ploaie pentru sprintul rapid până la punctul de observare.",
+                "en": "Only a short walk from the car park; have your rain gear ready for the quick dash to the viewpoint in the blustery wind."
+              }
+            },
+            {
+              "name": {
+                "de": "The Castle Bude",
+                "hu": "The Castle Bude",
+                "ro": "The Castle Bude",
+                "en": "The Castle Bude"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie die Mittagsstunden hier; es ist der beste Ort, um dem Regen zu entkommen und etwas über die Geschichte zu lernen.",
+                "hu": "Töltse itt a délutánt; ez a legjobb hely a környéken, hogy elmeneküljön az eső elől és megismerje a helyi történelmet.",
+                "ro": "Petreceți orele prânzului aici; este cel mai bun loc pentru a scăpa de ploaie și a învăța despre istoria locală.",
+                "en": "Spend the midday hours here; it's the best local spot to escape the downpour and learn about the town's maritime history."
+              }
+            },
+            {
+              "name": {
+                "de": "Bude Canal",
+                "hu": "Bude Canal",
+                "ro": "Bude Canal",
+                "en": "Bude Canal"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe für einen kurzen Blick auf die Schleusen; die Spiegelungen im Wasser sind bei Regen sehr stimmungsvoll.",
+                "hu": "Parkoljon a közelben egy gyors pillantásra a zsilipekre; a víz tükröződései esőben nagyon hangulatos látványt nyújtanak.",
+                "ro": "Parcați în apropiere pentru o privire scurtă la ecluze; reflexiile în apă sunt foarte armonioase pe timp de ploaie.",
+                "en": "Park nearby for a brief look at the lock gates; the reflections in the water are very atmospheric when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Sandy Mouth Beach",
+                "hu": "Sandy Mouth Beach",
+                "ro": "Sandy Mouth Beach",
+                "en": "Sandy Mouth Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall am Strand ist nach Regen besonders imposant; nutzen Sie den befestigten Weg, um Matsch zu vermeiden.",
+                "hu": "A strandon található vízesés eső után különösen látványos; használja a kiépített utat, hogy elkerülje a sárban való csúszkálást.",
+                "ro": "Cascada de pe plajă este deosebit de spectaculoasă după ploaie; folosiți poteca amenajată pentru a evita noroiul.",
+                "en": "The waterfall on the beach is especially impressive after rain; use the paved path to head down and avoid the worst of the mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens an der Widemouth Bay bietet das tiefe Licht tolle Fotomotive. Compass Point ist im Winterwind sehr erfrischend. Mittags wärmen wir uns im Castle auf. Nach einem kurzen Stopp am Kanal erreichen wir Sandy Mouth für einen spektakulären Wintersonnenuntergang vor 17:00 Uhr. Nutzen Sie die Standheizung Ihres Autos.",
+            "hu": "Reggel a Widemouth Bay-nél az alacsony napfény remek fotótéma. A Compass Point a téli szélben nagyon frissítő. Délben a Castle múzeumban melegszünk fel. A csatorna után a Sandy Mouth-nál érjük el a látványos téli naplementét 17:00 előtt. Élvezze az autó melegét a megállók között.",
+            "ro": "Dimineața la Widemouth Bay, lumina joasă oferă subiecte grozave de fotografiat. Compass Point este revigorant în vântul de iarnă. La prânz ne încălzim la muzeul Castle. După canal, ajungem la Sandy Mouth pentru un apus spectaculos înainte de 17:00. Folosiți căldura din mașină.",
+            "en": "Morning at Widemouth Bay offers great photo opportunities in the low light. Compass Point is bracing in the winter wind. At noon, warm up inside the Castle. After a quick canal stop, reach Sandy Mouth for a spectacular winter sunset before 17:00. Make use of your car's heater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Widemouth Bay",
+                "hu": "Widemouth Bay",
+                "ro": "Widemouth Bay",
+                "en": "Widemouth Bay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten, leeren Strand durch die Windschutzscheibe; die Wintermorgensonne taucht den Sand in goldenes Licht.",
+                "hu": "Élvezze a hatalmas, néptelen strandot a szélvédőn keresztül; a téli reggeli nap arany fénybe vonja a homokos partot.",
+                "ro": "Bucurați-vă de plaja vastă și pustie prin parbriz; soarele de iarnă de dimineață scaldă nisipul într-o lumină aurie.",
+                "en": "Enjoy the vast, empty beach through your windshield; the winter morning sun bathes the sand in a beautiful golden light."
+              }
+            },
+            {
+              "name": {
+                "de": "Compass Point",
+                "hu": "Compass Point",
+                "ro": "Compass Point",
+                "en": "Compass Point"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann hier beißend sein; tragen Sie eine windfeste Schicht für den kurzen Weg vom Auto zum Aussichtspunkt.",
+                "hu": "A szél itt metsző lehet; viseljen szélálló ruhát arra a rövid időre is, amíg az autótól a kilátópontig elsétál.",
+                "ro": "Vântul poate fi tăios aici; purtați o haină rezistentă la vânt pentru scurta plimbare de la mașină la punctul de observație.",
+                "en": "The wind can be biting here; wear a windproof outer layer for the short walk from the car to the iconic viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "The Castle Bude",
+                "hu": "The Castle Bude",
+                "ro": "The Castle Bude",
+                "en": "The Castle Bude"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor und nutzen Sie die gemütlichen Ausstellungsräume, um sich für die nächste Etappe aufzuwärmen.",
+                "hu": "Parkoljon le közvetlenül előtte, és használja ki a barátságos kiállítótermeket, hogy felmelegedjen a következő állomás előtt.",
+                "ro": "Parcați chiar în față și folosiți sălile de expoziție primitoare pentru a vă încălzi înainte de următoarea etapă.",
+                "en": "Park right in front and head inside to the cozy exhibition rooms to warm up properly before your next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Bude Canal",
+                "hu": "Bude Canal",
+                "ro": "Bude Canal",
+                "en": "Bude Canal"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp; der Kanal hat an sehr kalten Tagen oft eine dünne Eisschicht an den Rändern, was sehr schön aussieht.",
+                "hu": "Egy gyors fotómegálló; a csatorna szélén a nagyon hideg napokon gyakran vékony jégréteg alakul ki, ami különleges látvány.",
+                "ro": "O scurtă oprire pentru fotografii; canalul are adesea o pojghiță de gheață la margini în zilele foarte reci.",
+                "en": "A quick photo stop; on very cold days, the canal often has a thin layer of ice near the edges, creating a unique winter look."
+              }
+            },
+            {
+              "name": {
+                "de": "Sandy Mouth Beach",
+                "hu": "Sandy Mouth Beach",
+                "ro": "Sandy Mouth Beach",
+                "en": "Sandy Mouth Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Klippen werden vom Sonnenuntergang gegen 16:30 Uhr beleuchtet; kehren Sie zum Auto zurück, bevor es ganz dunkel wird.",
+                "hu": "A sziklákat csodásan megvilágítja a 16:30 körüli naplemente; érjen vissza az autóhoz, mielőtt teljesen besötétedik.",
+                "ro": "Stâncile sunt iluminate superb de apusul de la ora 16:30; reveniți la mașină înainte de a se întuneca complet.",
+                "en": "The rugged cliffs are illuminated by the 16:30 sunset; make sure to get back to your car before it gets completely dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

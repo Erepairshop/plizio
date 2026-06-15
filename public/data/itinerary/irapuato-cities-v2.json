@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Irapuato művészeti szívében, a modern Teatro de la Ciudadnál, majd élvezze a Nuestra Señora de la Soledad békés hangulatát. Délben a Museo Municipal kiállításain merülhet el a régió múltjában. Délután tegyen egy rövid kitérőt a különleges Camión de Bomberos emlékműhöz. Kora este csodálja meg az Obelisco Irapuato magasba törő, gyönyörűen kivilágított oszlopát.",
         "ro": "Începeți ziua explorând inima artistică a orașului la modernul Teatro de la Ciudad, urmată de ambianța pașnică a bisericii Nuestra Señora de la Soledad. La prânz, descoperiți trecutul fascinant al regiunii la Museo Municipal. După-amiaza, faceți un scurt ocol la monumentul inedit Camión de Bomberos. Pe măsură ce se lasă seara, admirați impresionantul Obelisco Irapuato frumos iluminat.",
         "en": "Begin your day exploring the artistic heart of Irapuato at the modern Teatro de la Ciudad, followed by the peaceful ambiance of Nuestra Señora de la Soledad. Midday brings a deep dive into the region's fascinating past at the Museo Municipal. In the afternoon, enjoy a quick detour to the quirky Camión de Bomberos monument. As evening falls, admire the towering Obelisco beautifully lit up."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Reggel az esernyők alatt indul a városnézés a Teatrónál. Délre a templom csendes belső tere hívogat, ahol az eső hangja csak távoli morajlás marad a vastag falak között. Délután a múzeumban szárazon merülhetünk el a múltban, míg kint az utcák fénylenek a víztől. Este az obeliszknél zárjuk a napot, figyelve a csúszós macskakövekre, ahogy a városi fények tükröződnek a nedves aszfalton.",
+            "hu": "Reggel az esernyők alatt indul a városnézés a Teatrónál. Délre a templom csendes belső tere hívogat, ahol az eső hangja csak távoli morajlás marad a vastag falak között. Délután a múzeumban szárazon merülhetünk el a múltban, míg kint az utcák fénylenek a víztől. Este az obeliszknél zárjuk a napot, figyelve a csúszós macskakövekre, ahogy a városi fények tükröződnek a nedves aszfalton.",
+            "ro": "Dimineața începe sub umbrele la teatru. La prânz, interiorul bisericii vă invită, păstrând ploaia ca un murmur îndepărtat între ziduri. După-amiaza, rămâneți uscat în muzeu în timp ce străzile strălucesc afară. Seara se încheie la obelisc, având grijă la pavajul alunecos, în timp ce luminile orașului se reflectă pe asfaltul ud, oferind un decor dramatic pentru finalul zilei.",
+            "en": "Morning starts under umbrellas at the theatre. By noon, the church's interior invites you in, keeping the rain a distant murmur between thick walls. In the afternoon, stay dry in the museum while the streets glisten outside. Evening ends at the obelisk, with care taken on the slippery cobblestones as the city lights reflect on the wet pavement, creating a dramatic backdrop for your walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro de la Ciudad",
+                "hu": "Teatro de la Ciudad",
+                "ro": "Teatro de la Ciudad",
+                "en": "Teatro de la Ciudad"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aufführungen im Trockenen; der moderne Bau bietet perfekten Schutz vor den Schauern und ist ein idealer Rückzugsort bei Regen.",
+                "hu": "Élvezze az előadásokat szárazon; a modern épület tökéletes menedéket nyújt a záporok elől, és ideális hely a kulturális kikapcsolódáshoz esőben.",
+                "ro": "Bucurați-vă de spectacole la adăpost; clădirea modernă oferă protecție perfectă împotriva ploii și este un refugiu cultural ideal pe vreme rea.",
+                "en": "Enjoy the performances in the dry; the modern building provides perfect shelter from the showers and is an ideal cultural retreat during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuestra Señora de la Soledad",
+                "hu": "Nuestra Señora de la Soledad",
+                "ro": "Nuestra Señora de la Soledad",
+                "en": "Nuestra Señora de la Soledad"
+              },
+              "tip_5lang": {
+                "de": "Die prächtige Decke lässt den Regen vergessen; achten Sie auf die extrem rutschigen Stufen am Eingang des Portals bei Nässe.",
+                "hu": "A pompás mennyezet feledteti az esőt; ügyeljen az esőben rendkívül csúszós lépcsőkre a templom bejárati kapujánál.",
+                "ro": "Tavanul splendid vă face să uitați de ploaie; atenție la treptele extrem de alunecoase de la intrarea portalului când este umed.",
+                "en": "The splendid ceiling makes you forget the rain; watch out for the extremely slippery steps at the entrance portal when it's wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Municipal",
+                "hu": "Museo Municipal",
+                "ro": "Museo Municipal",
+                "en": "Museo Municipal"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der ideale Zufluchtsort; erkunden Sie die Stadtgeschichte, während draußen der Sturm ununterbrochen tobt und alles nass wird.",
+                "hu": "A múzeum az ideális menedékhely; fedezze fel a város történelmét, miközben odakint szüntelenül vihar tombol és minden vizes.",
+                "ro": "Muzeul este refugiul ideal; explorați istoria orașului în timp ce afară furtuna se dezlănțuie neîncetat și totul este ud.",
+                "en": "The museum is the ideal refuge; explore the city's history while the storm rages incessantly outside and everything is soaking wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Camión de Bomberos",
+                "hu": "Camión de Bomberos",
+                "ro": "Camión de Bomberos",
+                "en": "Camión de Bomberos"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Foto unter dem Schirm ist Pflicht; die roten Farben trotzen dem grauen Himmel, aber achten Sie auf den rutschigen Bürgersteig.",
+                "hu": "Egy rövid fotó az esernyő alatt kötelező; a piros színek dacolnak a szürke éggel, de ügyeljen a szobor körüli csúszós járdára.",
+                "ro": "O fotografie sub umbrelă este obligatorie; culorile roșu aprins sfidează cerul gri, dar aveți grijă la trotuarul alunecos din jur.",
+                "en": "A quick photo under the umbrella is a must; the bright red colors defy the gray sky, but watch out for the slippery pavement around it."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco Irapuato",
+                "hu": "Obelisco Irapuato",
+                "ro": "Obelisco Irapuato",
+                "en": "Obelisco Irapuato"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im Regen dramatisch; halten Sie Ihre Kamera unter einer wasserdichten Hülle bereit für stimmungsvolle Aufnahmen.",
+                "hu": "Az emlékmű drámai az esőben; tartsa készenlétben a fényképezőgépet egy vízálló tokban a hangulatos és vizes városi felvételekhez.",
+                "ro": "Monumentul pare dramatic în ploaie; țineți camera pregătită într-o husă impermeabilă pentru fotografii atmosferice cu orașul ud.",
+                "en": "The monument looks dramatic in the rain; keep your camera ready in a waterproof case for atmospheric shots of the wet city streets."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "A hűvös reggelen jól jön a réteges öltözködés a színháznál; a kulturális pezsgése hamar felmelegít. Délben a templom udvarán élvezhetjük a gyenge téli sugarakat, de az árnyékban már érezni a hideget. Délután a múzeum fűtött termeiben töltődünk fel, mielőtt a nap korán eltűnik a látóhatáron. Este az obeliszk kivilágított sziluettje mellett a csípős szélben gyorsan keressük a pihenőt.",
+            "hu": "A hűvös reggelen jól jön a réteges öltözködés a színháznál; a kulturális pezsgése hamar felmelegít. Délben a templom udvarán élvezhetjük a gyenge téli sugarakat, de az árnyékban már érezni a hideget. Délután a múzeum fűtött termeiben töltődünk fel, mielőtt a nap korán eltűnik a látóhatáron. Este az obeliszk kivilágított sziluettje mellett a csípős szélben gyorsan keressük a pihenőt.",
+            "ro": "O dimineață răcoroasă necesită straturi de haine la teatru. La prânz, curtea bisericii oferă puțin soare, dar frigul persistă în umbră. După-amiaza este cel mai bine petrecută în galeriile încălzite ale muzeului înainte ca soarele să apună devreme. Până seara, obelisc-ul strălucește pe cerul rece, încurajând o plimbare rapidă pentru a găsi un loc primitor în interior.",
+            "en": "A crisp morning requires layers as you visit the theatre; the cultural energy provides a warm start. At noon, the church's courtyard offers some pale sun, but the winter chill lingers in the shadows. Afternoon is best spent in the heated museum galleries before the sun sets early. By evening, the obelisk glows against the cold sky, encouraging a brisk walk to find a cozy indoor spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro de la Ciudad",
+                "hu": "Teatro de la Ciudad",
+                "ro": "Teatro de la Ciudad",
+                "en": "Teatro de la Ciudad"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist angenehm temperiert; ideal, um sich nach dem morgendlichen Spaziergang durch die kühle Winterluft der Stadt aufzuwärmen.",
+                "hu": "A belső tér kellemesen temperált; ideális a hűvös téli levegőn tett reggeli séta utáni átmelegedéshez a város központjában.",
+                "ro": "Interiorul are o temperatură plăcută; ideal pentru a vă încălzi după plimbarea de dimineață prin aerul rece de iarnă al orașului.",
+                "en": "The interior is pleasantly tempered; ideal for warming up after your morning walk through the cool winter air of the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuestra Señora de la Soledad",
+                "hu": "Nuestra Señora de la Soledad",
+                "ro": "Nuestra Señora de la Soledad",
+                "en": "Nuestra Señora de la Soledad"
+              },
+              "tip_5lang": {
+                "de": "Die Kerzen bieten eine behagliche Stille; achten Sie auf den frühen Schattenwurf am Nachmittag, wenn die Sonne tiefer steht.",
+                "hu": "A gyertyák meghitt csendet árasztanak; ügyeljen a kora délutáni hosszú árnyékokra, amikor a téli nap már alacsonyabban jár.",
+                "ro": "Lumânările oferă o liniște primitoare; atenție la umbrele lungi de la începutul după-amiezii, când soarele de iarnă apune devreme.",
+                "en": "The candles offer a cozy silence; watch out for the early shadows in the afternoon when the winter sun stays lower in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Municipal",
+                "hu": "Museo Municipal",
+                "ro": "Museo Municipal",
+                "en": "Museo Municipal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die warmen Galerien für eine Pause; die dicken Mauern halten die Winterkälte effektiv draußen und bewahren die Wärme.",
+                "hu": "Használja a meleg galériákat egy pihenőre; a vastag falak hatékonyan kint tartják a téli hideget és megőrzik a benti kellemes időt.",
+                "ro": "Folosiți galeriile calde pentru o pauză; zidurile groase țin eficient frigul iernii afară și păstrează căldura în interior.",
+                "en": "Use the warm galleries for a break; the thick walls effectively keep the winter cold out and preserve a pleasant indoor temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Camión de Bomberos",
+                "hu": "Camión de Bomberos",
+                "ro": "Camión de Bomberos",
+                "en": "Camión de Bomberos"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der Wintersonne lässt das Rot leuchten; machen Sie Ihr Foto schnell, bevor der kühle Abendwind vom Norden her auffrischt.",
+                "hu": "A téli napfényben ragyog a piros szín; készítse el gyorsan a fotót, mielőtt a hűvös esti szél felerősödik az utcasarkon.",
+                "ro": "Lumina soarelui de iarnă face culoarea roșie să strălucească; faceți fotografia rapid înainte ca vântul rece de seară să se întețească.",
+                "en": "The winter sunlight makes the red color shine; take your photo quickly before the cool evening wind picks up at the street corner."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco Irapuato",
+                "hu": "Obelisco Irapuato",
+                "ro": "Obelisco Irapuato",
+                "en": "Obelisco Irapuato"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Sonne ist perfekt; ziehen Sie sich vor dem frühen Sonnenuntergang warm an, da es dann frostig wird.",
+                "hu": "Az alacsonyan járó nap fénye tökéletes; öltözzön fel melegen a korai naplemente előtt, mert utána hirtelen lehűl a levegő.",
+                "ro": "Lumina soarelui jos este perfectă; îmbrăcați-vă bine înainte de apusul devreme, deoarece temperatura scade brusc după aceea.",
+                "en": "The light of the low sun is perfect; dress warmly before the early sunset, as the temperature drops quickly right after dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A délelőtt egy kellemes biciklizéssel indul a ZOOIRA felé, ahol egzotikus állatokat láthat. Délben a történelmi központba kerekezik, hogy a színházban és a múzeumban élvezze a kultúrát. A délutánt a történelmi Obelisco körüli békés hangulat határozza meg. Az estét a Pileta melletti frissítő pihenővel és kellemes falatozással zárhatja.",
         "ro": "Dimineața începe cu o plimbare plăcută cu bicicleta spre ZOOIRA, unde veți vedea animale exotice. La prânz, pedalați spre centrul istoric pentru a vă scufunda în cultură la teatru și muzeu. După-amiaza este marcată de atmosfera liniștită din jurul Obeliscului istoric. Încheiați seara relaxându-vă cu o pauză răcoritoare la Pileta, alături de localnici.",
         "en": "The morning begins with an enjoyable bike ride down to ZOOIRA, where you'll observe exotic wildlife. Midday sees you cycling into the historical center to soak up the local culture at the theater and museum. Your afternoon is defined by the historic and peaceful ambiance surrounding the Obelisco. Finish the evening by rolling out to Pileta for a refreshing sunset break."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Az állatkertben az eső ellenére is aktív a természet, a fák lombjai alatt keressük az utat bringával. Délben a központ felé hajtva ügyeljünk a tócsákra és a sárvédőkre, a színház bejárata jó megálló. Délután a templom és a múzeum között a vizes aszfalton óvatosan kanyarodjunk, a látnivalók belül kárpótolnak. Este a Pileta környékén a párás levegő különleges élményt nyújt a kétkeréken.",
+            "hu": "Az állatkertben az eső ellenére is aktív a természet, a fák lombjai alatt keressük az utat bringával. Délben a központ felé hajtva ügyeljünk a tócsákra és a sárvédőkre, a színház bejárata jó megálló. Délután a templom és a múzeum között a vizes aszfalton óvatosan kanyarodjunk, a látnivalók belül kárpótolnak. Este a Pileta környékén a párás levegő különleges élményt nyújt a kétkeréken.",
+            "ro": "Natura rămâne activă la grădina zoologică în ciuda ploii; pedalați cu atenție sub copaci. La prânz, deplasarea spre centru necesită concentrare la bălți și utilizarea apărătorilor. Muzeul oferă o pauză lungă și uscată după-amiaza în timp ce furtuna trece. Seara la Pileta este atmosferică în ceață, dar asfaltul ud cere prudență maximă la drumul de întoarcere.",
+            "en": "Nature remains active at the zoo despite the rain; ride carefully under the tree canopy to stay dry. At noon, cycling towards the center requires focus on puddles and using mudguards for protection. The museum provides a long, dry break in the afternoon as storms pass. Evening at the Pileta is atmospheric in the mist, but the wet asphalt demands caution on your return ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoológico de Irapuato \"ZOOIRA\"",
+                "hu": "Zoológico de Irapuato \"ZOOIRA\"",
+                "ro": "Zoológico de Irapuato \"ZOOIRA\"",
+                "en": "Zoológico de Irapuato \"ZOOIRA\""
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie ein hochwertiges Regencape beim Radfahren; die Tiere lieben die Abkühlung, aber die Wege im Zoo können sehr rutschig sein.",
+                "hu": "Viseljen minőségi esőköpenyt bringázás közben; az állatok szeretik a hűvöset, de az állatkerti utak ilyenkor nagyon csúszósak lehetnek.",
+                "ro": "Purtați o pelerină de ploaie de calitate în timp ce pedalați; animalele iubesc răcoarea, dar drumurile din zoo pot fi foarte alunecoase.",
+                "en": "Wear a high-quality rain poncho while cycling; the animals love the cooling rain, but the paths in the zoo can be very slippery now."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro de la Ciudad",
+                "hu": "Teatro de la Ciudad",
+                "ro": "Teatro de la Ciudad",
+                "en": "Teatro de la Ciudad"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihr Fahrrad sicher abzustellen und die nasse Kleidung kurz auszuschütteln.",
+                "hu": "Használja a fedett bejárati részt a kerékpár biztonságos leállításához és a vizes ruházat rövid megrázásához a látogatás előtt.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta în siguranță și pentru a scutura hainele ude înainte de vizită.",
+                "en": "Use the covered entrance area to park your bike safely and briefly shake off your wet gear before heading inside the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuestra Señora de la Soledad",
+                "hu": "Nuestra Señora de la Soledad",
+                "ro": "Nuestra Señora de la Soledad",
+                "en": "Nuestra Señora de la Soledad"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Bremsen die nassen Markierungen auf der Straße vor der Kirche; das Pflaster ist hier besonders glatt.",
+                "hu": "Fékezéskor kerülje a vizes útburkolati jeleket a templom előtt; a díszburkolat itt esőben különösen csúszóssá válik a kerekek alatt.",
+                "ro": "Evitați marcajele rutiere umede când frânați în fața bisericii; pavajul de aici devine extrem de alunecos sub roți pe ploaie.",
+                "en": "Avoid wet road markings when braking in front of the church; the pavement here becomes especially slick under tires during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Municipal",
+                "hu": "Museo Municipal",
+                "ro": "Museo Municipal",
+                "en": "Museo Municipal"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet den perfekten Stopp für die regenreichste Zeit des Tages; lassen Sie Ihre nassen Packtaschen an der Garderobe.",
+                "hu": "A múzeum tökéletes megálló a nap legesősebb időszakában; hagyja a vizes kerékpáros táskáit a ruhatárban a látogatás idejére.",
+                "ro": "Muzeul oferă oprirea perfectă pentru cea mai ploioasă perioadă a zilei; lăsați gentile de bicicletă ude la garderobă.",
+                "en": "The museum offers the perfect stop for the rainiest time of the day; leave your wet bike panniers at the cloakroom during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco Irapuato",
+                "hu": "Obelisco Irapuato",
+                "ro": "Obelisco Irapuato",
+                "en": "Obelisco Irapuato"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig um den Kreisverkehr; die Pfützen am Obelisken können tiefer sein, als sie aussehen, und Ihre Sicht einschränken.",
+                "hu": "Hajtson óvatosan a körforgalomban; az obeliszknél lévő tócsák mélyebbek lehetnek, mint aminek látszanak, és rontják a látást.",
+                "ro": "Conduceți cu atenție în sensul giratoriu; bălțile de la obelisc pot fi mai adânci decât par și vă pot limita vizibilitatea.",
+                "en": "Ride carefully around the roundabout; the puddles near the obelisk can be deeper than they look and might limit your visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Pileta",
+                "hu": "Pileta",
+                "ro": "Pileta",
+                "en": "Pileta"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist bei Regen sehr ruhig; achten Sie auf nasses Laub auf den Radwegen, das extrem rutschig sein kann.",
+                "hu": "A park esőben nagyon csendes; ügyeljen a vizes levelekre a kerékpárúton, amelyek rendkívül csúszósak lehetnek a kanyarokban.",
+                "ro": "Parcul este foarte liniștit pe ploaie; atenție la frunzele ude de pe pistele de biciclete, care pot fi extrem de alunecoase.",
+                "en": "The park is very quiet in the rain; watch out for wet leaves on the bike paths, which can be extremely slippery in the corners."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "A reggeli pedálozás az állatkertnél frissítően hideg, a mozgás segít megőrizni a testhőt a téli szélben. Délben a színház és a templom környékén a nap még melegít, de a rövid nappalok miatt tempósabban kell haladni. Délután a múzeumban melegszünk át, mielőtt az utolsó kilométereket megtesszük az obeliszk felé. Az este korán köszönt be a Piletánál, a sötétedő parkban a lámpák és a kabát elengedhetetlen.",
+            "hu": "A reggeli pedálozás az állatkertnél frissítően hideg, a mozgás segít megőrizni a testhőt a téli szélben. Délben a színház és a templom környékén a nap még melegít, de a rövid nappalok miatt tempósabban kell haladni. Délután a múzeumban melegszünk át, mielőtt az utolsó kilométereket megtesszük az obeliszk felé. Az este korán köszönt be a Piletánál, a sötétedő parkban a lámpák és a kabát elengedhetetlen.",
+            "ro": "Plimbarea de dimineață spre zoo este revigorantă; mișcarea ajută la menținerea căldurii corpului împotriva vântului de iarnă. Până la prânz, soarele încălzește centrul, dar zilele scurte impun un ritm constant. După-amiaza la muzeu permite o încălzire înainte de a merge spre obelisc. Seara vine devreme la Pileta; cu temperatura scăzând rapid, luminile și o jachetă sunt esențiale.",
+            "en": "The morning ride to the zoo is refreshing; the movement helps maintain body heat against the winter wind. By noon, the sun warms the center, but short days mean keeping a steady pace between stops. Afternoon at the museum allows for a warm-up before heading to the obelisk. Evening arrives early at the Pileta; with the temperature dropping fast, lights and a jacket are essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoológico de Irapuato \"ZOOIRA\"",
+                "hu": "Zoológico de Irapuato \"ZOOIRA\"",
+                "ro": "Zoológico de Irapuato \"ZOOIRA\"",
+                "en": "Zoológico de Irapuato \"ZOOIRA\""
+              },
+              "tip_5lang": {
+                "de": "Die Tiere sind bei kühleren Temperaturen aktiver; tragen Sie winddichte Kleidung, um den kalten Fahrtwind auf dem Weg dorthin abzuwehren.",
+                "hu": "Az állatok aktívabbak a hűvösebb időben; viseljen szélálló ruházatot, hogy kivédje a hideg menetszelet a parkba vezető úton.",
+                "ro": "Animalele sunt mai active pe vreme răcoroasă; purtați haine rezistente la vânt pentru a face față curentului rece în drum spre parc.",
+                "en": "The animals are more active in cooler temperatures; wear windproof clothing to block the cold headwind on your way to the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro de la Ciudad",
+                "hu": "Teatro de la Ciudad",
+                "ro": "Teatro de la Ciudad",
+                "en": "Teatro de la Ciudad"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad in der Sonne vor dem Theater; die Innenräume bieten eine willkommene Wärme nach der Fahrt durch den kühlen Morgen.",
+                "hu": "Parkolja a kerékpárt a napon a színház előtt; a belső terek üdvözlendő meleget kínálnak a hűvös reggeli tekerés után a városban.",
+                "ro": "Parcați bicicleta la soare în fața teatrului; spațiile interioare oferă o căldură binevenită după plimbarea răcoroasă de dimineață.",
+                "en": "Park your bike in the sun in front of the theatre; the indoor spaces offer a welcome warmth after the cool morning ride through town."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuestra Señora de la Soledad",
+                "hu": "Nuestra Señora de la Soledad",
+                "ro": "Nuestra Señora de la Soledad",
+                "en": "Nuestra Señora de la Soledad"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windgeschützten Ort; nutzen Sie die Mittagssonne auf dem Platz, um Ihre Hände vor der Weiterfahrt aufzuwärmen.",
+                "hu": "A templom szélvédett helyet kínál; használja ki a déli napsütést a téren, hogy felmelegítse a kezeit a következő szakasz előtt.",
+                "ro": "Biserica oferă un loc ferit de vânt; profitați de soarele de la prânz din piață pentru a vă încălzi mâinile înainte de plecare.",
+                "en": "The church offers a spot protected from the wind; use the midday sun in the square to warm your hands before the next leg of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Municipal",
+                "hu": "Museo Municipal",
+                "ro": "Museo Municipal",
+                "en": "Museo Municipal"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf; die dicken Mauern sind ein hervorragender Schutz gegen die kühle Nachmittagsluft.",
+                "hu": "Melegedjen fel a kiállítótermekben; a vastag falak kiváló védelmet nyújtanak a kora délutáni hűvös téli levegő ellen a városban.",
+                "ro": "Încălziți-vă în sălile de expoziție; zidurile groase oferă o protecție excelentă împotriva aerului rece de iarnă de după-amiază.",
+                "en": "Warm up in the exhibition halls; the thick walls provide excellent protection against the cool early afternoon winter air in town."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco Irapuato",
+                "hu": "Obelisco Irapuato",
+                "ro": "Obelisco Irapuato",
+                "en": "Obelisco Irapuato"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet den Obelisken perfekt; ziehen Sie sich wegen des eisigen Fahrtwinds besonders warm an.",
+                "hu": "Az alacsonyan járó téli nap fénye tökéletesen megvilágítja az obeliszket; az erős menetszél miatt öltözzön fel különösen melegen a bringán.",
+                "ro": "Soarele de iarnă luminează perfect obeliscul; îmbrăcați-vă foarte bine din cauza vântului rece în timp ce mergeți cu bicicleta.",
+                "en": "The low winter sun illuminates the obelisk perfectly; dress extra warmly because of the icy headwind while riding your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Pileta",
+                "hu": "Pileta",
+                "ro": "Pileta",
+                "en": "Pileta"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, ist die Beleuchtung sehr stimmungsvoll; beenden Sie Ihre Tour rechtzeitig vor dem frostigen Abend.",
+                "hu": "Mivel korán sötétedik, a világítás nagyon hangulatos; fejezze be a túrát időben, mielőtt beállna a fagyos és sötét téli este.",
+                "ro": "Deoarece se întunecă devreme, iluminarea este foarte atmosferică; terminați turul la timp înainte de seara geroasă de iarnă.",
+                "en": "Since it gets dark early, the lighting is very atmospheric; finish your tour in time before the frosty and dark winter evening sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje a napot egy vidám autózással a ZOOIRA-ba egy családbarát állatos kalandért. Délben parkoljon le a központban, hogy felfedezze a város örökségét a múzeumban és a templomban. Délután hagyja maga mögött a kultúrát, és vezessen el az El Hongo pihentető termálmedencéihez. Az este további vizes családi szórakozást ígér a közeli Aqua Bajio víziparkban.",
         "ro": "Începeți ziua cu un drum distractiv spre ZOOIRA pentru o experiență de neuitat alături de familie. La prânz, parcați în centru pentru a explora moștenirea orașului la muzeu și biserică. După-amiaza, lăsați cultura în urmă și conduceți spre piscinele termale relaxante de la El Hongo. Seara promite și mai multă distracție în apă pentru familie la parcul acvatic Aqua Bajio din apropiere.",
         "en": "Start the day with a fun drive to ZOOIRA for a family-friendly wildlife experience. Drive into the center at midday to explore the city's heritage at the museum and church. In the afternoon, leave the culture behind and drive out to the relaxing thermal pools at El Hongo. Your evening promises even more wet and wild family fun at the nearby Aqua Bajio water park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Az autó kényelméből a reggeli eső csak díszlet az állatkerti túrához, ahol a fedett kifutók felé vesszük az irányt. Délben a múzeumnál az esernyő legyen kéznél, a belső tárlatok tökéletesek a viharos órákra. Délután a templom és az obeliszk után a balneáriók gőzölgő vize feledteti a borús eget és a nedves utakat. Este az Aqua Bajio medencéiben a zuhogó esőben is fejedelmi a fürdőzés.",
+            "hu": "Az autó kényelméből a reggeli eső csak díszlet az állatkerti túrához, ahol a fedett kifutók felé vesszük az irányt. Délben a múzeumnál az esernyő legyen kéznél, a belső tárlatok tökéletesek a viharos órákra. Délután a templom és az obeliszk után a balneáriók gőzölgő vize feledteti a borús eget és a nedves utakat. Este az Aqua Bajio medencéiben a zuhogó esőben is fejedelmi a fürdőzés.",
+            "ro": "Din confortul mașinii, ploaia de dimineață este doar un fundal pentru grădina zoologică. La prânz, țineți umbrela la îndemână lângă muzeu pentru o după-amiază uscată. Mai târziu, obeliscul duce la izvoarele termale, unde aburul se ridică frumos pe cerul gri. Seara la Aqua Bajio este magică, făcând baie în ape calde în timp ce ploaia cade peste tot în jur.",
+            "en": "From the comfort of your car, the morning rain is just a backdrop for the zoo tour’s indoor sections. At noon, keep your umbrella handy when parking near the museum for a dry afternoon of history. Later, the church and obelisk lead to the thermal springs, where the steam rises beautifully against the gray sky. Evening at Aqua Bajio is magical, bathing in warm waters while the rain falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoológico de Irapuato \"ZOOIRA\"",
+                "hu": "Zoológico de Irapuato \"ZOOIRA\"",
+                "ro": "Zoológico de Irapuato \"ZOOIRA\"",
+                "en": "Zoológico de Irapuato \"ZOOIRA\""
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze nah am Eingang; viele Gehege sind überdacht, sodass Sie die Tiere auch bei starkem Regen trocken beobachten können.",
+                "hu": "Használja a bejárathoz közeli parkolókat; sok kifutó fedett, így a látogatók heves esőben is szárazon figyelhetik meg az állatokat.",
+                "ro": "Folosiți parcarea de lângă intrare; multe incinte sunt acoperite, astfel încât puteți observa animalele la adăpost chiar și pe ploaie torențială.",
+                "en": "Use the parking spaces close to the entrance; many enclosures are covered, so you can observe the animals while staying dry during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Municipal",
+                "hu": "Museo Municipal",
+                "ro": "Museo Municipal",
+                "en": "Museo Municipal"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe, um den Weg im Regen kurzzuhalten; das Museum ist der perfekte Ort, um die regenreichste Zeit des Tages zu verbringen.",
+                "hu": "Parkoljon a közelben, hogy rövid legyen az út az esőben; a múzeum tökéletes hely a nap legesősebb óráinak hasznos eltöltésére.",
+                "ro": "Parcați în apropiere pentru a scurta drumul prin ploaie; muzeul este locul perfect pentru a petrece cele mai ploioase ore ale zilei.",
+                "en": "Park nearby to keep the walk in the rain short; the museum is the perfect place to spend the rainiest hours of the day productively."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuestra Señora de la Soledad",
+                "hu": "Nuestra Señora de la Soledad",
+                "ro": "Nuestra Señora de la Soledad",
+                "en": "Nuestra Señora de la Soledad"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Fahren auf Aquaplaning in der Altstadt; das Innere der Kirche bietet einen wunderbaren, trockenen Ort für Besinnung.",
+                "hu": "Vezetés közben ügyeljen az aquaplaningre az óvárosban; a templom belseje csodálatos, száraz helyet kínál az elcsendesedéshez esőben.",
+                "ro": "Atenție la acvaplanare când conduceți în centrul vechi; interiorul bisericii oferă un loc minunat și uscat pentru reflecție pe ploaie.",
+                "en": "Watch out for aquaplaning while driving in the old town; the interior of the church offers a wonderful, dry place for reflection in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco Irapuato",
+                "hu": "Obelisco Irapuato",
+                "ro": "Obelisco Irapuato",
+                "en": "Obelisco Irapuato"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen kurz im Auto; die Sicht auf den Obelisken ist auch durch die Scheiben bei den Lichtreflexionen faszinierend.",
+                "hu": "Heves esőben maradjon rövid ideig az autóban; az obeliszk látványa az ablakon keresztül a fényvisszaverődésekkel is lenyűgöző.",
+                "ro": "Rămâneți scurt timp în mașină pe ploaie torențială; vederea obeliscului prin geam, cu reflexiile luminii, este de asemenea fascinantă.",
+                "en": "Stay in the car briefly during heavy rain; the view of the obelisk through the windows with the light reflections is also fascinating."
+              }
+            },
+            {
+              "name": {
+                "de": "El Hongo Balneario",
+                "hu": "El Hongo Balneario",
+                "ro": "El Hongo Balneario",
+                "en": "El Hongo Balneario"
+              },
+              "tip_5lang": {
+                "de": "Das warme Thermalwasser ist bei Regen besonders angenehm; der Kontrast zwischen kühlem Tropfen und heißem Bad ist ein tolles Erlebnis.",
+                "hu": "A meleg termálvíz esőben különösen kellemes; a hűvös esőcseppek és a forró fürdő kontrasztja felejthetetlen élményt nyújt.",
+                "ro": "Apa termală caldă este deosebit de plăcută pe ploaie; contrastul dintre picăturile reci și baia fierbinte este o experiență uimitoare.",
+                "en": "The warm thermal water is especially pleasant in the rain; the contrast between cool raindrops and the hot bath is a great experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqua Bajio Balneario",
+                "hu": "Aqua Bajio Balneario",
+                "ro": "Aqua Bajio Balneario",
+                "en": "Aqua Bajio Balneario"
+              },
+              "tip_5lang": {
+                "de": "Schwimmen im Regen ist hier ein Highlight; die Anlage ist weitläufig, also nutzen Sie die überdachten Bereiche zwischen den Becken.",
+                "hu": "Az esőben való úszás itt igazi fénypont; a terület tágas, így használja a medencék közötti fedett részeket a közlekedéshez.",
+                "ro": "Înotul în ploaie este un punct culminant aici; complexul este vast, deci folosiți zonele acoperite între bazine pentru deplasare.",
+                "en": "Swimming in the rain is a highlight here; the complex is spacious, so use the covered areas between the pools to move around."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "A fűtött autóban indul a reggel az állatkertbe, ahol a téli napfényben az állatok is élénkebbek. Délben a városi múzeum és a templom hűvös termeit látogatjuk, de a kocsiba visszatérve mindig vár a melegség. Délután az obeliszk után a termálvizes fürdők felé vesszük az irányt, ami a legjobb ellenszere a téli hidegnek. Az este korán leszáll, így a medencék gőzfelhői között zárjuk a napot.",
+            "hu": "A fűtött autóban indul a reggel az állatkertbe, ahol a téli napfényben az állatok is élénkebbek. Délben a városi múzeum és a templom hűvös termeit látogatjuk, de a kocsiba visszatérve mindig vár a melegség. Délután az obeliszk után a termálvizes fürdők felé vesszük az irányt, ami a legjobb ellenszere a téli hidegnek. Az este korán leszáll, így a medencék gőzfelhői között zárjuk a napot.",
+            "ro": "O mașină încălzită face drumul de dimineață plăcut, unde animalele sunt mai active în aerul rece. Vizitele la muzeu și biserică sunt revigorante, dar mașina oferă un refugiu cald. După-amiaza duce spre spa-urile termale, remediul perfect pentru frigul iernii. Pe măsură ce seara cade devreme, aburul din piscinele fierbinți oferă un final confortabil călătoriei.",
+            "en": "A heated car makes the winter morning drive pleasant, where animals are more active in the cool air. Noon visits to the museum and church are crisp, but the car offers a warm refuge between sites. Afternoon leads to the thermal spas, the perfect remedy for the winter chill. As evening falls early, the steam from the hot pools provides a cozy end to your journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoológico de Irapuato \"ZOOIRA\"",
+                "hu": "Zoológico de Irapuato \"ZOOIRA\"",
+                "ro": "Zoológico de Irapuato \"ZOOIRA\"",
+                "en": "Zoológico de Irapuato \"ZOOIRA\""
+              },
+              "tip_5lang": {
+                "de": "Die kühle Winterluft macht die Tiere munter; genießen Sie den Besuch am Vormittag und nutzen Sie die Sitzheizung Ihres Wagens für die Rückfahrt.",
+                "hu": "A hűvös téli levegő élénkké teszi az állatokat; élvezze a délelőtti látogatást, és használja az autó ülésfűtését a visszaúton a városba.",
+                "ro": "Aerul rece de iarnă face animalele vioaie; bucurați-vă de vizita de dimineață și folosiți încălzirea în scaune la întoarcerea spre oraș.",
+                "en": "The cool winter air makes the animals lively; enjoy the morning visit and use your car's seat heating for the drive back to the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Municipal",
+                "hu": "Museo Municipal",
+                "ro": "Museo Municipal",
+                "en": "Museo Municipal"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet eine warme Pause zwischen den Stadtfahrten; die dicken Wände halten die Innentemperaturen im Winter sehr stabil.",
+                "hu": "A múzeum meleg pihenőt kínál a városi autózás között; a vastag falak télen is nagyon stabilan tartják a benti kellemes hőmérsékletet.",
+                "ro": "Muzeul oferă o pauză caldă între deplasările prin oraș; zidurile groase mențin temperaturile interioare foarte stabile chiar și iarna.",
+                "en": "The museum offers a warm break between city drives; the thick walls keep the indoor temperatures very stable even during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuestra Señora de la Soledad",
+                "hu": "Nuestra Señora de la Soledad",
+                "ro": "Nuestra Señora de la Soledad",
+                "en": "Nuestra Señora de la Soledad"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten direkt am Platz; das Innere der Kirche ist ein friedlicher und windgeschützter Ort an kalten Wintertagen.",
+                "hu": "Használja a közvetlenül a térnél lévő parkolókat; a templom belseje békés és szélvédett hely a hideg téli napokon a városnézés során.",
+                "ro": "Folosiți opțiunile de parcare de lângă piață; interiorul bisericii este un loc liniștit și ferit de vânt în zilele reci de iarnă.",
+                "en": "Use the parking options right by the square; the interior of the church is a peaceful and wind-protected spot on cold winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco Irapuato",
+                "hu": "Obelisco Irapuato",
+                "ro": "Obelisco Irapuato",
+                "en": "Obelisco Irapuato"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Winterlicht am Nachmittag ist perfekt für Fotos; steigen Sie kurz aus, um den Kontrast zum kalten blauen Himmel einzufangen.",
+                "hu": "Az aranyló délutáni téli fény tökéletes fotózáshoz; szálljon ki egy pillanatra, hogy elkapja az obeliszk és a kék ég közötti kontrasztot.",
+                "ro": "Lumina aurie de iarnă de după-amiază este perfectă pentru fotografii; coborâți un moment pentru a surprinde contrastul cu cerul albastru.",
+                "en": "The golden afternoon winter light is perfect for photos; hop out for a moment to catch the contrast between the obelisk and the blue sky."
+              }
+            },
+            {
+              "name": {
+                "de": "El Hongo Balneario",
+                "hu": "El Hongo Balneario",
+                "ro": "El Hongo Balneario",
+                "en": "El Hongo Balneario"
+              },
+              "tip_5lang": {
+                "de": "Das Thermalwasser ist im Winter ein herrlicher Wärmespender; bringen Sie einen dicken Bademantel für den Weg zwischen den Becken mit.",
+                "hu": "A termálvíz télen kiváló hőforrás; hozzon magával egy vastag fürdőköpenyt a medencék közötti közlekedéshez a csípős téli hidegben.",
+                "ro": "Apa termală este o sursă excelentă de căldură iarna; aduceți un halat de baie gros pentru drumul între bazine în aerul rece de iarnă.",
+                "en": "The thermal water is an excellent source of heat in winter; bring a thick bathrobe for walking between the pools in the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqua Bajio Balneario",
+                "hu": "Aqua Bajio Balneario",
+                "ro": "Aqua Bajio Balneario",
+                "en": "Aqua Bajio Balneario"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Dampf über den warmen Becken bei Sonnenuntergang; nach dem Bad wartet die Heizung Ihres Autos auf die gemütliche Heimfahrt.",
+                "hu": "Élvezze a meleg medencék feletti gőzt naplementekor; a fürdő után az autó fűtése várja a kényelmes hazautazáshoz a téli estén.",
+                "ro": "Bucurați-vă de aburul de deasupra bazinelor calde la apus; după baie, încălzirea mașinii vă așteaptă pentru drumul confortabil spre casă.",
+                "en": "Enjoy the steam over the warm pools at sunset; after the bath, your car's heater awaits for a cozy drive home on the winter evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

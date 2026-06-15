@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Barneville-Carteret történelmi központjában, az Église Saint-Germain lenyűgöző román stílusú építészetével. Ahogy közeledik a dél, egy rövid séta elvezeti a lenyűgöző Manoir de Barneville-hez, ahol az ősi normann örökség elevenedik meg. Délután felfedezi a Manoir de Graffard rusztikus romjait, majd a félreeső Église Notre-Dame nyújt békés pillanatokat. Az estét a Les Trois Moulins felé vezető emlékezetes séta koronázza meg, ahonnan látványos panoráma nyílik a naplementében.",
         "ro": "Începeți dimineața în Barneville-Carteret cufundându-vă în inima istorică a orașului, începând cu arhitectura romanică a Église Saint-Germain. Pe la prânz, o scurtă plimbare vă aduce la fascinantul Manoir de Barneville, unde prinde viață moștenirea normandă. După-amiaza, veți explora ruinele rustice de la Manoir de Graffard și veți găsi un moment de liniște la Église Notre-Dame. Seara vă răsplătește plimbarea cu o ascensiune memorabilă la Les Trois Moulins, oferind vederi panoramice spectaculoase.",
         "en": "Begin your morning in Barneville-Carteret by immersing yourself in the historic heart of the town, starting with the striking Romanesque architecture of Église Saint-Germain. As midday approaches, a short stroll brings you to the fascinating Manoir de Barneville, where the deep roots of Norman heritage come alive through ancient stones. In the afternoon, you will explore the rustic ruins of Manoir de Graffard and find a moment of peace at the secluded Église Notre-Dame. The evening rewards your walking journey with a memorable ascent to Les Trois Moulins, offering spectacular panoramic sunset views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der schützenden Stille der Église Saint-Germain. Mittags erkunden wir die Manoirs von Barneville unter dem Regenschirm, während die alten Steine im Regen glänzen. Nachmittags führt der Weg zur Église Notre-Dame und hinauf zu den windgepeitschten Mühlen. Abends suchen wir frühzeitig die Wärme der lokalen Gastronomie, da die Küstenwege bei Nässe rutschig sein können.",
+            "hu": "A reggel az Église Saint-Germain falai között indul, menedéket nyújtva a záporok elől. Délben az udvarházak környékét járjuk be, ahol az eső áztatta kövek különleges hangulatot árasztanak. Délután a Notre-Dame templom és a dombtetőn álló malmok következnek a szelesebb időben. Estére érdemes korán fedett helyre húzódni, mert a parti sétányok ilyenkor csúszóssá és nyirkossá válnak.",
+            "ro": "Dimineața începe în liniștea protectoare a Église Saint-Germain. La prânz explorăm conacele din Barneville sub umbrelă, în timp ce pietrele vechi strălucesc sub ploaie. După-amiaza drumul duce la Église Notre-Dame și sus la morile bătute de vânt. Seara căutăm devreme căldura localurilor, deoarece potecile de coastă pot fi alunecoase când sunt ude, necesitând încălțăminte cu aderență bună.",
+            "en": "The morning starts in the protective silence of Église Saint-Germain. At noon, we explore the manors of Barneville under umbrellas as the old stones glisten in the rain. Afternoon leads to Église Notre-Dame and up to the windswept mills. In the evening, we seek the warmth of local spots early, as coastal paths can become slippery and damp when wet, requiring waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Germain",
+                "hu": "Église Saint-Germain",
+                "ro": "Église Saint-Germain",
+                "en": "Église Saint-Germain"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanische Architektur im trockenen Innenraum dieser historischen Kirche und nutzen Sie die Ruhe für eine Pause während des Regengusses.",
+                "hu": "Csodálja meg a román stílusú építészetet e történelmi templom száraz belső terében, és használja ki a csendet egy pihenőre a zápor idején.",
+                "ro": "Admirați arhitectura romanică în interiorul uscat al acestei biserici istorice și profitați de liniște pentru o pauză în timpul averselor de ploaie.",
+                "en": "Admire the Romanesque architecture in the dry interior of this historical church and use the quiet for a break during the rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Barneville",
+                "hu": "Manoir de Barneville",
+                "ro": "Manoir de Barneville",
+                "en": "Manoir de Barneville"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die massiven Mauern dieses befestigten Hauses, die seit Jahrhunderten dem normannischen Wetter trotzen, und tragen Sie feste, wasserdichte Schuhe.",
+                "hu": "Tekintse meg e megerősített ház vaskos falait, amelyek évszázadok óta dacolnak a normann időjárással; viseljen strapabíró, vízálló cipőt a sár ellen.",
+                "ro": "Priviți zidurile masive ale acestei case fortificate care înfruntă vremea normandă de secole și purtați încălțăminte solidă și impermeabilă pe pavajul ud.",
+                "en": "View the massive walls of this fortified house that have defied Norman weather for centuries, and wear sturdy waterproof shoes for the wet pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Graffard",
+                "hu": "Manoir de Graffard",
+                "ro": "Manoir de Graffard",
+                "en": "Manoir de Graffard"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen und Fassaden wirken im Regen besonders mystisch, aber halten Sie Abstand von unbefestigten Rändern, da der Boden durch die Nässe aufweichen kann.",
+                "hu": "A romok és homlokzatok különösen misztikusnak tűnnek az esőben, de tartson távolságot a szegélyektől, mert a talaj a nedvességtől felázhat.",
+                "ro": "Ruinele și fațadele par deosebit de mistice în ploaie, dar păstrați distanța de marginile neamenajate, deoarece solul se poate înmuia din cauza umidității.",
+                "en": "The ruins and facades look particularly mystical in the rain, but keep your distance from unpaved edges as the ground can soften from the moisture."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kirchenschiff als Zufluchtsort vor dem Küstenwind und achten Sie auf die kunstvollen Details, während draußen der Regen gegen die Fenster peitscht.",
+                "hu": "Használja a templomhajót menedékként a parti szél elől, és figyelje meg a művészi részleteket, miközben odakint az eső veri az ablakokat.",
+                "ro": "Folosiți nava bisericii ca refugiu împotriva vântului de coastă și observați detaliile artistice în timp ce ploaia bate în ferestre afară.",
+                "en": "Use the church nave as a sanctuary from the coastal wind and observe the artistic details while the rain lashes against the windows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Trois Moulins",
+                "hu": "Les Trois Moulins",
+                "ro": "Les Trois Moulins",
+                "en": "Les Trois Moulins"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg belohnt Sie mit einer dramatischen Aussicht auf das stürmische Meer; halten Sie Ihren Regenschirm wegen der starken Böen besonders fest.",
+                "hu": "A felfelé vezető út drámai kilátással jutalmazza a viharos tengerre; az erős széllökések miatt fogja erősen az esernyőjét ezen a nyitott szakaszon.",
+                "ro": "Urcarea vă răsplătește cu o vedere dramatică asupra mării învolburate; țineți umbrela strâns din cauza rafalelor puternice de vânt pe acest deal deschis.",
+                "en": "The climb rewards you with a dramatic view of the stormy sea; hold your umbrella tightly due to strong gusts on this exposed hilltop."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen führt uns zur Église Saint-Germain, wo die dicken Mauern die Kälte draußen halten. Mittags genießen wir die tiefstehende Wintersonne beim Spaziergang zu den Manoirs, eingehüllt in warme Schichten. Am Nachmittag erreichen wir die Mühlen, bevor die Dämmerung gegen 17:00 Uhr einsetzt. Der Abend endet bei Kerzenschein in einer gemütlichen Stube, während die Meeresbrise draußen auffrischt.",
+            "hu": "A csípős reggel az Église Saint-Germain falai között indul, ahol a vastag falak még tartják a nyugalmat. Délben a téli napfényben sétálunk az udvarházak felé, alaposan felöltözve a hideg ellen. Délután a malmokhoz látogatunk el, mielőtt 17:00 körül leszállna az alkonyat. Az estét egy meghitt helyen, forró ital mellett fejezzük be, miközben odakint feltámad a tengeri szél.",
+            "ro": "O dimineață răcoroasă ne duce la Église Saint-Germain, unde zidurile groase țin frigul afară. La prânz ne bucurăm de soarele jos de iarnă în drum spre conace, înfofoliți în straturi calde. După-amiaza ajungem la mori înainte ca amurgul să se lase în jurul orei 17:00. Seara se încheie la lumina lumânărilor într-un local primitor, în timp ce briza mării se întețește afară.",
+            "en": "A crisp morning leads us to Église Saint-Germain, where the thick walls keep the winter chill at bay. At noon, we enjoy the low winter sun while walking to the manors, wrapped in warm layers. In the afternoon, we reach the mills before twilight sets in around 17:00. The evening ends in a cozy spot with a warm drink as the sea breeze picks up outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Germain",
+                "hu": "Église Saint-Germain",
+                "ro": "Église Saint-Germain",
+                "en": "Église Saint-Germain"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Morgen, um die besondere Winterstille zu erleben; die dicken Steinmauern bieten einen guten Schutz vor dem eisigen Frost.",
+                "hu": "Látogassa meg a templomot kora reggel a különleges téli csendért; a vastag kőfalak jó védelmet nyújtanak a kinti jeges fagy ellen.",
+                "ro": "Vizitați biserica dimineața devreme pentru liniștea specială de iarnă; zidurile groase de piatră oferă o protecție bună împotriva gerului de afară.",
+                "en": "Visit the church early in the morning for the special winter silence; the thick stone walls provide good protection against the icy frost outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Barneville",
+                "hu": "Manoir de Barneville",
+                "ro": "Manoir de Barneville",
+                "en": "Manoir de Barneville"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Gebäude wirken in der klaren Winterluft besonders scharf gezeichnet; tragen Sie Thermo-Kleidung, da die schattigen Gassen oft sehr kühl sind.",
+                "hu": "A történelmi épületek a tiszta téli levegőben különösen éles kontúrokkal látszanak; viseljen hőtartó ruházatot, mert az árnyékos szűk utcák hűvösek.",
+                "ro": "Clădirile istorice par cu contururi foarte clare în aerul curat de iarnă; purtați haine termice, deoarece străzile înguste și umbrite sunt adesea reci.",
+                "en": "The historical buildings look particularly sharp in the clear winter air; wear thermal clothing as the shaded narrow streets are often very chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Graffard",
+                "hu": "Manoir de Graffard",
+                "ro": "Manoir de Graffard",
+                "en": "Manoir de Graffard"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kahlen Strukturen des Manoirs, die im Winterlicht ihre volle Pracht entfalten; achten Sie auf glatte Stellen auf den gepflasterten Wegen.",
+                "hu": "Csodálja meg az udvarház kopár struktúráit, amelyek a téli fényben mutatják meg igazi arcukat; ügyeljen a jeges foltokra a kövezett utakon.",
+                "ro": "Admirați structurile golașe ale conacului care își dezvăluie splendoarea în lumina iernii; atenție la porțiunile alunecoase de pe drumurile pavate.",
+                "en": "Admire the bare structures of the manor that reveal their full glory in the winter light; watch out for slippery patches on the paved paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen warmen Rückzugsort zur Mittagszeit; genießen Sie das gedämpfte Licht der Wintersonne, das durch die hohen Fenster fällt.",
+                "hu": "A templom meleg menedéket nyújt a délidőben; élvezze a téli napsütés tompa fényét, amely a magas ablakokon keresztül szűrődik be.",
+                "ro": "Biserica oferă un refugiu cald la ora prânzului; bucurați-vă de lumina difuză a soarelui de iarnă care pătrunde prin ferestrele înalte.",
+                "en": "The church offers a warm retreat at lunchtime; enjoy the muted light of the winter sun filtering through the high windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Trois Moulins",
+                "hu": "Les Trois Moulins",
+                "ro": "Les Trois Moulins",
+                "en": "Les Trois Moulins"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang über dem Ärmelkanal von diesem Aussichtspunkt aus; Schal und Handschuhe sind wegen des eisigen Seewinds unverzichtbar.",
+                "hu": "Nézze meg a korai naplementét a csatorna felett erről a kilátópontról; a sál és kesztyű kötelező az éles, fagyos tengeri szél miatt.",
+                "ro": "Urmăriți apusul devreme peste Canalul Mânecii din acest punct de observație; fularul și mănușile sunt indispensabile din cauza vântului înghețat de mare.",
+                "en": "Watch the early sunset over the Channel from this viewpoint; a scarf and gloves are essential due to the biting sea wind on the ridge."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpáros kalandját a friss tengeri szellővel Carteret-ben és az Église Saint-Germain-le-Scot part menti varázsával. Délben tekerjen el a dinamikus Havre de Carteret mellett, és csodálja meg a tájba simuló Château de Chimay eleganciáját. A délután a történelmi szárazföld felé irányul, ahol felfedezheti az Église Saint-Germain-t és a Manoir de Graffard középkori maradványait. A nap a Les Trois Moulins-hez vezető festői utazással zárul, amely lélegzetelállító naplementés kilátást nyújt.",
         "ro": "Începeți aventura pe bicicletă bucurându-vă de briza mării la Carteret și de farmecul coastei la Église Saint-Germain-le-Scot. La prânz, pedalați pe lângă dinamicul Havre de Carteret și admirați eleganța Château de Chimay. După-amiaza vă îndreaptă spre interiorul istoric, unde veți explora Église Saint-Germain și rămășițele medievale de la Manoir de Graffard. Ziua se încheie cu o plimbare pitorească până la Les Trois Moulins, oferind o priveliște uluitoare la apus.",
         "en": "Kick off your cycling adventure by taking in the crisp sea breeze at Carteret and the coastal charm of Église Saint-Germain-le-Scot. By midday, pedal past the dynamic Havre de Carteret and admire the distant elegance of Château de Chimay nestled in the landscape. The afternoon shifts towards the historic inland, where you can explore the solemn beauty of Église Saint-Germain and the medieval remnants of Manoir de Graffard. Your day concludes with a scenic ride up to Les Trois Moulins, providing a breathtaking sunset vantage point over the sweeping coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour startet am Hafen von Carteret, wo wir unsere Regenbekleidung prüfen. Vormittags radeln wir vorsichtig zur Église Saint-Germain-le-Scot und weiter zum Havre. Mittags bietet das Château de Chimay Schutz, bevor wir die historische Altstadt erreichen. Nachmittags fordern uns die Wege zu den Mühlen bei Wind und Nässe heraus. Abends beenden wir die Fahrt sicher und wärmen uns auf.",
+            "hu": "A túra Carteret kikötőjéből indul, ahol ellenőrizzük az esőfelszerelést. Délelőtt óvatosan tekerünk a Saint-Germain-le-Scot templomhoz és a kikötőhöz. Délben a Château de Chimay nyújt védelmet a záporok elől. Délután a malmokhoz vezető vizes utak embert próbálóak a szélben. Az estét biztonságban fejezzük be, és egy forró ital mellett melegszünk fel.",
+            "ro": "Turul începe în portul Carteret, unde verificăm echipamentul de ploaie. Dimineața pedalăm cu grijă spre biserica Saint-Germain-le-Scot și port. La prânz, Château de Chimay oferă protecție împotriva averselor. După-amiaza drumurile spre mori sunt solicitante din cauza vântului și a carosabilului ud. Seara încheiem cursa în siguranță și ne încălzim într-un loc primitor.",
+            "en": "The tour starts at Carteret harbor, where we check our rain gear. In the morning, we cycle carefully to the Saint-Germain-le-Scot church and the haven. At noon, Château de Chimay provides shelter from the showers. In the afternoon, the wet paths to the mills are challenging in the wind. We finish the ride safely in the evening and warm up with a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Carteret",
+                "hu": "Carteret",
+                "ro": "Carteret",
+                "en": "Carteret"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie vorsichtig am Hafenbecken, da die Kais bei Regen rutschig sein können; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt entlang der Küste fortsetzen.",
+                "hu": "Kezdje óvatosan a kikötőnél, mert a rakpart esőben csúszós lehet; ellenőrizze a fékeket, mielőtt elindulna a tengerpart menti úton.",
+                "ro": "Începeți cu prudență în zona portului, deoarece cheiurile pot fi alunecoase; verificați frânele înainte de a porni la drum de-a lungul coastei.",
+                "en": "Start carefully at the harbor, as the quays can be slippery in the rain; check your brakes before continuing the ride along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Germain-le-Scot",
+                "hu": "Église Saint-Germain-le-Scot",
+                "ro": "Église Saint-Germain-le-Scot",
+                "en": "Église Saint-Germain-le-Scot"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum der Kirche für eine kurze Trinkpause im Trockenen und bewundern Sie die alte Architektur direkt vom Fahrradständer aus.",
+                "hu": "Használja a templom előterét egy rövid, száraz frissítő szünetre, és csodálja meg a régi építészetet közvetlenül a biciklitároló mellől.",
+                "ro": "Folosiți pridvorul bisericii pentru o scurtă pauză de hidratare la adăpost și admirați arhitectura veche direct de lângă rastelul de biciclete.",
+                "en": "Use the church porch for a short dry hydration break and admire the old architecture directly from the bike rack area."
+              }
+            },
+            {
+              "name": {
+                "de": "Havre de Carteret",
+                "hu": "Havre de Carteret",
+                "ro": "Havre de Carteret",
+                "en": "Havre de Carteret"
+              },
+              "tip_5lang": {
+                "de": "Die Gezeitenlandschaft wirkt bei bewölktem Himmel besonders dramatisch; tragen Sie eine helle Regenjacke, um für andere Verkehrsteilnehmer gut sichtbar zu sein.",
+                "hu": "Az árapály-vidék felhős égbolt alatt különösen drámainak hat; viseljen élénk színű esőkabátot, hogy jól látható legyen a többi közlekedő számára.",
+                "ro": "Peisajul mareic pare deosebit de dramatic sub cerul înnorat; purtați o jachetă de ploaie reflectorizantă pentru a fi vizibil pentru ceilalți participanți la trafic.",
+                "en": "The tidal landscape looks particularly dramatic under cloudy skies; wear a bright raincoat to remain visible to other road users in poor light."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Chimay",
+                "hu": "Château de Chimay",
+                "ro": "Château de Chimay",
+                "en": "Château de Chimay"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss bietet eine ideale Kulisse für ein Foto im Regen; parken Sie Ihr Rad an einer geschützten Mauer, während Sie das Anwesen besichtigen.",
+                "hu": "A kastély ideális hátteret nyújt egy esős fotóhoz; parkolja le kerékpárját egy védett fal mellé, amíg megtekinti az impozáns épületet.",
+                "ro": "Castelul oferă un fundal ideal pentru o fotografie în ploaie; parcați bicicleta lângă un zid protejat în timp ce vizitați domeniul impresionant.",
+                "en": "The castle provides an ideal backdrop for a rainy photo; park your bike by a sheltered wall while you visit the impressive estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Germain",
+                "hu": "Église Saint-Germain",
+                "ro": "Église Saint-Germain",
+                "en": "Église Saint-Germain"
+              },
+              "tip_5lang": {
+                "de": "Die alten Kirchenmauern bieten einen soliden Windschutz; nutzen Sie den Stopp, um Ihre Hände aufzuwärmen und den Innenraum zu erkunden.",
+                "hu": "A templom régi falai szilárd szélvédelmet nyújtanak; használja ki a megállót a kezei felmelegítésére és a belső tér felfedezésére.",
+                "ro": "Zidurile vechi ale bisericii oferă o protecție solidă împotriva vântului; profitați de oprire pentru a vă încălzi mâinile și a explora interiorul.",
+                "en": "The old church walls offer solid wind protection; use the stop to warm your hands and explore the historic interior out of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Graffard",
+                "hu": "Manoir de Graffard",
+                "ro": "Manoir de Graffard",
+                "en": "Manoir de Graffard"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Zufahrtswegen, da sich Pfützen bilden können; das Manoir wirkt bei grauem Himmel besonders herrschaftlich und geheimnisvoll.",
+                "hu": "Hajtson lassan a bekötőutakon, mert tócsák alakulhatnak ki; az udvarház szürke égbolt alatt különösen méltóságteljesnek és titokzatosnak tűnik.",
+                "ro": "Conduceți încet pe drumurile de acces, deoarece se pot forma bălți; conacul pare deosebit de impunător și misterios sub cerul gri.",
+                "en": "Cycle slowly on the access roads as puddles may form; the manor looks especially stately and mysterious under the overcast gray sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Trois Moulins",
+                "hu": "Les Trois Moulins",
+                "ro": "Les Trois Moulins",
+                "en": "Les Trois Moulins"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Anstieg zum Aussichtspunkt ist bei Nässe anstrengend; achten Sie auf den starken Seitenwind, der oben an den Mühlen herrschen kann.",
+                "hu": "Az utolsó emelkedő a kilátóhoz nedves úton megerőltető; ügyeljen az erős oldalszélre, amely fent a malmoknál érheti a nyitott részen.",
+                "ro": "Ultima urcare spre punctul de belvedere este solicitantă pe carosabil ud; atenție la vântul lateral puternic care poate sufla sus la mori.",
+                "en": "The final climb to the viewpoint is demanding when wet; be aware of the strong side winds that can occur up at the mills on the ridge."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour beginnt am belebenden Hafen von Carteret. Vormittags radeln wir durch die klare, kalte Luft zu den Küstenkirchen, wobei Handschuhe unverzichtbar sind. Mittags wärmen wir uns am Château de Chimay kurz auf. Nachmittags erreichen wir die Mühlen für ein Panorama in der Wintersonne, bevor es dunkel wird. Der Tag endet zügig, um der Kälte des frühen Abends zu entkommen.",
+            "hu": "A téli kerékpártúra a frissítő Carteret-i kikötőben kezdődik. Délelőtt a tiszta, hideg levegőben tekerünk a parti templomokhoz, ahol a kesztyű elengedhetetlen. Délben a Château de Chimay-nél tartunk egy rövid pihenőt. Délután a malmoktól csodáljuk meg a téli panorámát, mielőtt besötétedne. A napot gyorsan befejezzük, hogy elkerüljük a kora esti fagyokat.",
+            "ro": "Turul cu bicicleta începe în portul revigorant Carteret. Dimineața pedalăm prin aerul rece și curat spre bisericile de pe coastă, mănușile fiind indispensabile. La prânz facem o scurtă pauză de încălzire la Château de Chimay. După-amiaza admirăm panorama de iarnă de la mori înainte de lăsarea întunericului. Ziua se încheie rapid pentru a evita gerul serii.",
+            "en": "The winter bike tour starts at the bracing Carteret harbor. In the morning, we cycle through the clear, cold air to the coastal churches, with gloves being essential. At noon, we take a short break to warm up at Château de Chimay. In the afternoon, we admire the winter panorama from the mills before dark. The day ends quickly to escape the early evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Carteret",
+                "hu": "Carteret",
+                "ro": "Carteret",
+                "en": "Carteret"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Meeresbrise am Morgen; stellen Sie sicher, dass Ihre Reifen für winterliche Straßenbedingungen gut aufgepumpt sind.",
+                "hu": "Élvezze a friss reggeli tengeri szellőt; győződjön meg róla, hogy a gumiabroncsok megfelelően fel vannak fújva a téli útviszonyokhoz.",
+                "ro": "Bucurați-vă de briza proaspătă a mării de dimineață; asigurați-vă că anvelopele sunt umflate corespunzător pentru condițiile de drum de iarnă.",
+                "en": "Enjoy the fresh morning sea breeze; ensure your tires are properly inflated for winter road conditions before starting your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Germain-le-Scot",
+                "hu": "Église Saint-Germain-le-Scot",
+                "ro": "Église Saint-Germain-le-Scot",
+                "en": "Église Saint-Germain-le-Scot"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp an dieser geschichtsträchtigen Ruine lohnt sich; die Wintersonne lässt das Gestein in warmen Farben leuchten.",
+                "hu": "Érdemes egy rövid megállót tenni e történelmi romnál; a téli napsütés meleg színekben ragyogtatja meg az ősi köveket.",
+                "ro": "O scurtă oprire la această ruină istorică merită; soarele de iarnă face ca piatra să strălucească în culori calde și primitoare.",
+                "en": "A short stop at this historic ruin is worthwhile; the winter sun makes the stones glow in warm colors despite the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Havre de Carteret",
+                "hu": "Havre de Carteret",
+                "ro": "Havre de Carteret",
+                "en": "Havre de Carteret"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht über den Hafen ist im Winter oft besonders klar; achten Sie auf den kalten Wind, der über das offene Wasser weht.",
+                "hu": "A kilátás a kikötőre télen gyakran különösen tiszta; ügyeljen a hideg szélre, amely a nyílt víz felől fúj a bicikliúton.",
+                "ro": "Vederea asupra portului este adesea foarte clară iarna; atenție la vântul rece care suflă peste apa deschisă în timp ce pedalați.",
+                "en": "The view over the harbor is often exceptionally clear in winter; watch out for the cold wind blowing across the open water as you cycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Chimay",
+                "hu": "Château de Chimay",
+                "ro": "Château de Chimay",
+                "en": "Château de Chimay"
+              },
+              "tip_5lang": {
+                "de": "Die Parkanlagen des Schlosses wirken im Winterschlaf sehr friedlich; nutzen Sie die Besichtigung für eine kleine Bewegungspause zu Fuß.",
+                "hu": "A kastély parkja téli álmában nagyon békés; használja ki a látogatást egy kis gyalogos mozgásszünetre a tekerés közben.",
+                "ro": "Parcurile castelului par foarte liniștite în somnul de iarnă; profitați de vizită pentru o mică pauză de mișcare pe jos.",
+                "en": "The castle grounds are very peaceful in their winter sleep; use the visit for a small walking break to warm up your legs."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Germain",
+                "hu": "Église Saint-Germain",
+                "ro": "Église Saint-Germain",
+                "en": "Église Saint-Germain"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche speichern die Restwärme und bieten Schutz vor dem Wind; ideal für eine kurze Rast vor dem letzten Anstieg.",
+                "hu": "A templom vastag falai tartják a belső nyugalmat és védelmet nyújtanak a szél ellen; ideális egy rövid pihenőre az utolsó emelkedő előtt.",
+                "ro": "Zidurile groase ale bisericii oferă protecție împotriva vântului; locul este ideal pentru un scurt popas înainte de ultima urcare.",
+                "en": "The thick walls of the church provide protection from the wind; ideal for a short rest before the final climb of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Graffard",
+                "hu": "Manoir de Graffard",
+                "ro": "Manoir de Graffard",
+                "en": "Manoir de Graffard"
+              },
+              "tip_5lang": {
+                "de": "Das Manoir wirkt in der kargen Winterlandschaft sehr imposant; tragen Sie winddichte Kleidung, um nicht auszukühlen.",
+                "hu": "Az udvarház a kopár téli tájban nagyon impozáns látványt nyújt; viseljen szélálló ruházatot, hogy ne hűljön ki a nyitott részeken.",
+                "ro": "Conacul arată foarte impunător în peisajul arid de iarnă; purtați haine rezistente la vânt pentru a nu vă răci pe drum.",
+                "en": "The manor looks very imposing in the stark winter landscape; wear windproof clothing to avoid getting chilled on the exposed roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Trois Moulins",
+                "hu": "Les Trois Moulins",
+                "ro": "Les Trois Moulins",
+                "en": "Les Trois Moulins"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour mit dem Blick auf das Meer vor Sonnenuntergang; beeilen Sie sich mit der Abfahrt, da die Temperaturen bei Dämmerung stark sinken.",
+                "hu": "Fejezze be a túrát a tengerre nyíló kilátással naplemente előtt; siessen a leereszkedéssel, mert a hőmérséklet szürkületkor gyorsan esik.",
+                "ro": "Încheiați turul cu vederea spre mare înainte de apus; grăbiți-vă cu coborârea, deoarece temperaturile scad brusc la amurg.",
+                "en": "End your tour with the sea view before sunset; hurry with the descent as temperatures drop sharply once the sun goes down around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +917,280 @@
         "hu": "Kezdje autós utazását a régió panorámájával a Les Trois Moulins felől, mielőtt meglátogatná a békés Église Notre-Dame-ot. A déli rész arra hívja, hogy elmélyedjen a helyi történelemben a Manoir de Barneville-ben és a festői vidéki szentélyekben. Ahogy a délután halad, vezessen a part felé, hogy megpillantsa a fenséges Château de Chimay-t és a Havre de Carteret természeti szépségét. Végül töltsön egy pihentető estét Carteret part menti enklávéjában, magába szívva a tengeri hangulatot.",
         "ro": "Începeți călătoria cu mașina cu o vedere panoramică a regiunii de la Les Trois Moulins înainte de a vizita liniștita Église Notre-Dame. Segmentul de prânz vă invită să explorați istoria locală la Manoir de Barneville și sanctuarele rurale Saint-Jean și Saint-Georges. Pe măsură ce după-amiaza progresează, conduceți spre coastă pentru a zări impunătorul Château de Chimay și frumusețea naturală a Havre de Carteret. În cele din urmă, petreceți o seară relaxantă în enclava de coastă Carteret.",
         "en": "Start your road trip with a panoramic overview of the region from Les Trois Moulins before visiting the peaceful Église Notre-Dame. The midday segment invites you to delve into local history at Manoir de Barneville and the quaint rural sanctuaries of Église Saint-Jean and Église Saint-Georges. As the afternoon progresses, drive towards the coast to glimpse the stately Château de Chimay and the natural beauty of Havre de Carteret. Finally, spend a relaxing evening in the coastal enclave of Carteret, soaking in the maritime atmosphere near Église Saint-Germain-le-Scot."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag beginnt komfortabel im Auto mit der Fahrt zu den Mühlen. Vormittags besuchen wir die Église Notre-Dame und das Manoir de Barneville, wobei wir zwischen den Stopps trocken bleiben. Mittags erkunden wir weitere historische Kirchen der Umgebung. Nachmittags führt uns die Route zum Château de Chimay und zum Hafen. Abends genießen wir die Aussicht auf die stürmische Küste vom warmen Fahrzeug aus.",
+            "hu": "Az esős nap kényelmesen indul autóval a malmok felé. Délelőtt a Notre-Dame templomot és a barneville-i udvarházat látogatjuk meg, szárazon maradva a megállók között. Délben a környék további történelmi templomait fedezzük fel. Délután a Château de Chimay és a kikötő következik. Estére a viharos tengerpart látványát élvezzük a meleg autóból, mielőtt visszatérnénk a szállásra.",
+            "ro": "Ziua ploioasă începe confortabil cu mașina spre mori. Dimineața vizităm Église Notre-Dame și conacul Barneville, rămânând uscați între opriri. La prânz explorăm și alte biserici istorice din zonă. După-amiaza traseul ne duce la Château de Chimay și în port. Seara ne bucurăm de vederea coastei învolburate din vehiculul cald înainte de a încheia turul.",
+            "en": "The rainy day begins comfortably by car with a drive to the mills. In the morning, we visit Église Notre-Dame and the Manoir de Barneville, staying dry between stops. At noon, we explore more historic churches in the area. In the afternoon, the route leads to Château de Chimay and the harbor. In the evening, we enjoy the view of the stormy coast from the warmth of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Les Trois Moulins",
+                "hu": "Les Trois Moulins",
+                "ro": "Les Trois Moulins",
+                "en": "Les Trois Moulins"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Aussichtspunkt, um den Blick auf die Küste trotz Regen zu genießen, ohne nass zu werden; ideal für stimmungsvolle Fotos.",
+                "hu": "Parkoljon közvetlenül a kilátópontnál, hogy az eső ellenére is élvezhesse a parti panorámát anélkül, hogy megázna; ideális hangulatos fotókhoz.",
+                "ro": "Parcați chiar la punctul de belvedere pentru a vă bucura de panorama coastei în ciuda ploii, fără a vă uda; ideal pentru fotografii de atmosferă.",
+                "en": "Park right at the viewpoint to enjoy the coastal panorama despite the rain without getting wet; ideal for atmospheric photos from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei Regen, da der Parkplatz nah am Eingang liegt; bewundern Sie die Innenausstattung in aller Ruhe während eines Schauers.",
+                "hu": "Tökéletes megálló esőben, mivel a parkoló közel van a bejárathoz; csodálja meg a belső teret nyugodtan egy nagyobb zápor idején.",
+                "ro": "O oprire perfectă pe ploaie, deoarece parcarea este aproape de intrare; admirați interiorul în liniște în timpul unei averse mai puternice.",
+                "en": "A perfect stop in the rain as the parking is close to the entrance; admire the interior calmly during a heavy shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Barneville",
+                "hu": "Manoir de Barneville",
+                "ro": "Manoir de Barneville",
+                "en": "Manoir de Barneville"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die beeindruckende Außenanlage und nutzen Sie das Auto als Basis für kurze Erkundungsgänge zu den historischen Mauern.",
+                "hu": "Tekintse meg az impozáns külső épületegyüttest, és használja az autót bázisként a történelmi falakhoz tett rövid felfedező sétákhoz.",
+                "ro": "Vizitați ansamblul exterior impresionant și folosiți mașina ca bază pentru scurte plimbări de explorare la zidurile istorice.",
+                "en": "View the impressive exterior complex and use the car as a base for short exploratory walks to the historic stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean",
+                "hu": "Église Saint-Jean",
+                "ro": "Église Saint-Jean",
+                "en": "Église Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Diese abgelegene Kirche ist mit dem Auto leicht erreichbar; genießen Sie die mystische Atmosphäre des alten Friedhofs bei feuchtem Wetter.",
+                "hu": "Ez a félreeső templom autóval könnyen megközelíthető; élvezze a régi temető misztikus hangulatát a párás, esős időben.",
+                "ro": "Această biserică retrasă este ușor accesibilă cu mașina; bucurați-vă de atmosfera mistică a vechiului cimitir pe vreme umedă.",
+                "en": "This secluded church is easily accessible by car; enjoy the mystical atmosphere of the old cemetery in the damp, misty weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Georges",
+                "hu": "Église Saint-Georges",
+                "ro": "Église Saint-Georges",
+                "en": "Église Saint-Georges"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den bequemen Zugang per PKW für diesen kurzen kulturellen Abstecher; der Innenraum bietet einen trockenen Ort für Besinnung.",
+                "hu": "Használja ki a kényelmes autós megközelíthetőséget ehhez a rövid kulturális kitérőhöz; a belső tér száraz helyet kínál az elmélyüléshez.",
+                "ro": "Profitați de accesul confortabil cu mașina pentru această scurtă escapadă culturală; interiorul oferă un loc uscat pentru meditație.",
+                "en": "Take advantage of the easy car access for this short cultural detour; the interior provides a dry place for quiet reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Chimay",
+                "hu": "Château de Chimay",
+                "ro": "Château de Chimay",
+                "en": "Château de Chimay"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die Allee zum Schloss; die Parkmöglichkeiten erlauben es, das Anwesen auch bei Regen ohne weite Wege zu sehen.",
+                "hu": "Hajtson lassan a kastélyhoz vezető sugárúton; a parkolási lehetőség lehetővé teszi az épület megtekintését hosszú gyaloglás nélkül is.",
+                "ro": "Conduceți încet pe aleea spre castel; posibilitățile de parcare permit vizualizarea domeniului fără drumuri lungi pe jos prin ploaie.",
+                "en": "Drive slowly through the avenue to the castle; the parking facilities allow you to see the estate without long walks in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Havre de Carteret",
+                "hu": "Havre de Carteret",
+                "ro": "Havre de Carteret",
+                "en": "Havre de Carteret"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel von Ebbe und Flut im Hafenbecken bequem von Ihrem Parkplatz aus, während der Regen gegen die Windschutzscheibe trommelt.",
+                "hu": "Figyelje meg az árapály játékát a kikötőben kényelmesen a parkolóból, miközben az eső kopog a szélvédőn.",
+                "ro": "Observați jocul mareelor în port confortabil din parcare, în timp ce ploaia bate în parbriz; un moment de relaxare vizuală.",
+                "en": "Observe the interplay of the tides in the harbor comfortably from your parking spot while the rain drums against the windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Carteret",
+                "hu": "Carteret",
+                "ro": "Carteret",
+                "en": "Carteret"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet spektakuläre Ausblicke; parken Sie am Hafen, um kurz auszusteigen und die frische, salzige Seeluft zu schnuppern.",
+                "hu": "A tengerparti út látványos kilátást nyújt; parkoljon le a kikötőnél, hogy egy rövid időre kiszállva beszippantsa a friss, sós tengeri levegőt.",
+                "ro": "Drumul de coastă oferă priveliști spectaculoase; parcați în port pentru a coborî scurt și a respira aerul proaspăt și sărat al mării.",
+                "en": "The coastal road offers spectacular views; park at the harbor to step out briefly and breathe in the fresh, salty sea air between showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Germain-le-Scot",
+                "hu": "Église Saint-Germain-le-Scot",
+                "ro": "Église Saint-Germain-le-Scot",
+                "en": "Église Saint-Germain-le-Scot"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag an dieser historischen Stätte; die Beleuchtung der Ruine wirkt bei Dämmerung und Regen besonders stimmungsvoll.",
+                "hu": "Zárja a napot ezen a történelmi helyszínen; a romok megvilágítása szürkületben és esőben különösen hangulatos látványt nyújt.",
+                "ro": "Încheiați ziua la acest sit istoric; iluminarea ruinelor pare deosebit de sugestivă la amurg și pe ploaie.",
+                "en": "End the day at this historic site; the lighting of the ruins looks particularly atmospheric at twilight and in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Spritztour beginnt mit einem klaren Blick von den Mühlen über das Meer. Vormittags besuchen wir die charmanten Kirchen und Manoirs der Umgebung, während die Heizung im Auto für Wohlbefinden sorgt. Mittags halten wir am Château de Chimay. Nachmittags erkunden wir die Küste bis nach Carteret, um den Sonnenuntergang gegen 17:00 Uhr zu erleben. Der Tag endet in einem beleuchteten Lokal am Hafen.",
+            "hu": "A téli autós kirándulás a malmoktól nyíló tiszta kilátással indul a tenger felett. Délelőtt a környék bájos templomait és udvarházait látogatjuk meg, miközben az autó fűtése kellemes meleget ad. Délben a Château de Chimay-nél állunk meg. Délután a part mentén autózunk Carteret-ig, hogy 17:00 körül elkapjuk a naplementét. A napot a kikötő egyik kivilágított helyén zárjuk.",
+            "ro": "Excursia de iarnă cu mașina începe cu o vedere clară de la mori peste mare. Dimineața vizităm bisericile și conacele fermecătoare din zonă, în timp ce căldura din mașină asigură confortul. La prânz ne oprim la Château de Chimay. După-amiaza explorăm coasta până la Carteret pentru a prinde apusul în jurul orei 17:00. Ziua se încheie într-un local luminat din port.",
+            "en": "The winter drive begins with a clear view from the mills over the sea. In the morning, we visit the charming churches and manors of the area while the car's heater keeps us warm. At noon, we stop at Château de Chimay. In the afternoon, we explore the coast to Carteret to catch the sunset around 17:00. The day ends in a brightly lit spot at the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Les Trois Moulins",
+                "hu": "Les Trois Moulins",
+                "ro": "Les Trois Moulins",
+                "en": "Les Trois Moulins"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Fernsicht in der klaren Winterluft; das Auto bietet Schutz vor dem beißenden Wind oben auf dem Hügel.",
+                "hu": "Élvezze a távoli kilátást a tiszta téli levegőben; az autó védelmet nyújt a csípős szél ellen itt a dombtetőn.",
+                "ro": "Bucurați-vă de vederea la distanță în aerul curat de iarnă; mașina oferă protecție împotriva vântului tăios de pe deal.",
+                "en": "Enjoy the expansive views in the clear winter air; the car provides protection from the biting wind up on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche wirkt im Winterlicht sehr friedlich; nutzen Sie den kurzen Fußweg vom Parkplatz für eine Portion frische, kalte Seeluft.",
+                "hu": "A templom nagyon békés a téli fényben; használja ki a rövid sétát a parkolótól egy adag friss, hideg tengeri levegőért.",
+                "ro": "Biserica pare foarte liniștită în lumina iernii; profitați de scurta plimbare de la parcare pentru o porție de aer proaspăt și rece de mare.",
+                "en": "The church looks very peaceful in the winter light; take the short walk from the parking lot for a dose of fresh, cold sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Barneville",
+                "hu": "Manoir de Barneville",
+                "ro": "Manoir de Barneville",
+                "en": "Manoir de Barneville"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur, die ohne das Laub der Bäume im Winter besser sichtbar ist; halten Sie die Kamera für frostige Details bereit.",
+                "hu": "Csodálja meg a történelmi építészetet, amely télen a lombok nélkül jobban látható; készítse elő kameráját a zúzmarás részletek megörökítéséhez.",
+                "ro": "Admirați arhitectura istorică, mult mai vizibilă iarna fără frunzișul copacilor; pregătiți camera pentru detalii înghețate spectaculoase.",
+                "en": "Admire the historical architecture, which is more visible in winter without foliage; keep your camera ready for frosty details."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean",
+                "hu": "Église Saint-Jean",
+                "ro": "Église Saint-Jean",
+                "en": "Église Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche ist ein ruhiger Rückzugsort; achten Sie auf mögliche Glätte auf den Nebenstraßen bei Frost am frühen Morgen.",
+                "hu": "Ez a kis templom csendes menedék; ügyeljen az esetleges jegesedésre a mellékutakon a kora reggeli fagyok idején.",
+                "ro": "Această mică biserică este un refugiu liniștit; atenție la posibila polei pe drumurile secundare în timpul înghețului de dimineață.",
+                "en": "This small church is a quiet retreat; watch out for potential icy patches on side roads during early morning frosts."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Georges",
+                "hu": "Église Saint-Georges",
+                "ro": "Église Saint-Georges",
+                "en": "Église Saint-Georges"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Zwischenstopp auf Ihrer Route; die dicken Steinmauern bieten einen guten Kontrast zur frostigen Außenwelt.",
+                "hu": "Szép köztes megálló az útvonalon; a vastag kőfalak jó kontrasztot alkotnak a kinti fagyos világgal.",
+                "ro": "O oprire frumoasă pe traseul dumneavoastră; zidurile groase de piatră oferă un contrast plăcut cu lumea înghețată de afară.",
+                "en": "A nice stop on your route; the thick stone walls provide a good contrast to the frosty world outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Chimay",
+                "hu": "Château de Chimay",
+                "ro": "Château de Chimay",
+                "en": "Château de Chimay"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Winter besonders herrschaftlich; nutzen Sie die beheizten Innenräume für eine kulturelle Pause vom kalten Wind.",
+                "hu": "A kastély télen különösen méltóságteljes; használja ki a fűtött belső tereket egy kulturális pihenőre a hideg szél elől.",
+                "ro": "Castelul pare deosebit de impunător iarna; profitați de interioarele încălzite pentru o pauză culturală departe de vântul rece.",
+                "en": "The castle looks particularly stately in winter; take advantage of any heated interior areas for a cultural break from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Havre de Carteret",
+                "hu": "Havre de Carteret",
+                "ro": "Havre de Carteret",
+                "en": "Havre de Carteret"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen bietet im Winter eine ruhige, fast melancholische Atmosphäre; genießen Sie den Blick auf die Boote direkt aus dem warmen Auto.",
+                "hu": "A kikötő télen csendes, szinte melankolikus hangulatot áraszt; élvezze a hajók látványát közvetlenül a meleg autóból.",
+                "ro": "Portul oferă o atmosferă liniștită, aproape melancolică iarna; bucurați-vă de vederea barcăilor direct din mașina caldă.",
+                "en": "The harbor offers a quiet, almost melancholic atmosphere in winter; enjoy the view of the boats directly from your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Carteret",
+                "hu": "Carteret",
+                "ro": "Carteret",
+                "en": "Carteret"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zum Kap, um den Wintersturm oder die ruhige See zu beobachten; die Sicht ist bei klarem Wetter oft bis zu den Kanalinseln möglich.",
+                "hu": "Hajtson ki a fokhoz, hogy megfigyelje a téli vihart vagy a nyugodt tengert; tiszta időben gyakran ellátni egészen a Csatorna-szigetekig.",
+                "ro": "Conduceți spre cap pentru a observa furtuna de iarnă sau marea liniștită; pe vreme senină, vizibilitatea ajunge adesea până la Insulele Canalului.",
+                "en": "Drive to the cape to observe the winter surf or calm sea; visibility is often clear enough to see the Channel Islands in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Germain-le-Scot",
+                "hu": "Église Saint-Germain-le-Scot",
+                "ro": "Église Saint-Germain-le-Scot",
+                "en": "Église Saint-Germain-le-Scot"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor 17:00 Uhr, um die Ruine noch im letzten Tageslicht zu sehen, bevor die Kälte der Nacht einsetzt.",
+                "hu": "Fejezze be a túrát időben 17:00 előtt, hogy a romokat még az utolsó nappali fényben láthassa, mielőtt beállna az éjszakai fagy.",
+                "ro": "Încheiați turul la timp înainte de ora 17:00 pentru a vedea ruinele în ultima lumină a zilei, înainte de lăsarea frigului nopții.",
+                "en": "Finish your tour in time before 17:00 to see the ruins in the last daylight before the night chill sets in properly."
+              }
+            }
+          ]
+        }
       }
     }
   }

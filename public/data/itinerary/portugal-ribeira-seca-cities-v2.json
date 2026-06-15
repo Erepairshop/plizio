@@ -137,6 +137,168 @@
         "hu": "A reggel egy frissítő sétával indul a történelmi Fontanário Antigónál, azonnal elmerülve a város építészeti örökségében. Ezután az Arquipélago művészeti központ következik. A délidő a Museu Vivo do Franciscanismo kulturális felfedezésével telik. A délután a helyi történelemnek van szentelve a városi múzeumban, amely mély betekintést nyújt a múltba. Az este a Teatro Ribeiragrandense klasszikus épületénél zárul le.",
         "ro": "Dimineața începe cu o plimbare revigorantă la istoricul Fontanário Antigo, aprofundând patrimoniul arhitectural al orașului, urmată de centrul de artă Arquipélago. La prânz, explorarea continuă la Museu Vivo do Franciscanismo, dezvăluind istoria religioasă a insulei. După-amiaza este dedicată folclorului local la Muzeul Municipal, oferind perspective asupra trecutului din Ribeira Grande. Seara se încheie la elegantul Teatro Ribeiragrandense.",
         "en": "Morning begins with a refreshing stroll starting at the historic Fontanário Antigo, delving immediately into the town's charming architectural heritage. The route then leads to the impressive Arquipélago arts center. Midday continues with cultural exploration at the Museu Vivo do Franciscanismo, where interactive displays unravel the island’s religious history. The afternoon is dedicated to local lore at the Museu Municipal, offering deep insights into Ribeira Grande's past. Finally, the evening concludes by the Teatro Ribeiragrandense, a classic venue perfect for relaxing after a culturally rich day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Spaziergang am historischen Brunnen, wo das Regenwasser die alten Steine glänzen lässt. Mittags bieten die Museen von Ribeira Seca ideale Zufluchtsorte vor den atlantischen Schauern. Am Nachmittag tauchen Sie in die lokale Geschichte ein, während Sie geschützt durch die Gassen schlendern. Der Abend endet stilvoll im Theater, einem warmen Ort voller Kultur und Eleganz.",
+            "hu": "Kezdje a sétát a történelmi kútnál, ahol az esővíz fényessé varázsolja az antik köveket. Délben a helyi múzeumok nyújtanak tökéletes menedéket az atlanti záporok elől. Délután merüljön el a város történelmében, miközben fedett átjárók alatt fedezheti fel a kultúrát. Az estét stílusosan a színházban zárhatja, amely meleg és elegáns közeggel várja a látogatókat a borús időben is.",
+            "ro": "Începeți plimbarea la fântâna istorică, unde ploaia face pietrele vechi să strălucească sub cerul gri. La prânz, muzeele din Ribeira Seca oferă adăpostul ideal împotriva averselor atlantice. După-amiaza, explorați istoria locală vizitând galerii acoperite și centre culturale. Seara se încheie elegant la teatru, un spațiu cald și plin de rafinament, perfect pentru a uita de vremea umedă de afară.",
+            "en": "Start your walk at the ancient fountain, where rainwater makes the old stones glisten beautifully. At noon, the museums of Ribeira Seca provide perfect shelters from the Atlantic showers. In the afternoon, dive into local history while exploring the cultural heart of the town under your umbrella. The evening concludes stylishly at the theater, a warm and elegant venue away from the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fontanário Antigo",
+                "hu": "Fontanário Antigo",
+                "ro": "Fontanário Antigo",
+                "en": "Fontanário Antigo"
+              },
+              "tip_5lang": {
+                "de": "Die kunstvollen Steinarbeiten wirken bei Regen besonders markant, aber suchen Sie bei starken Güssen unter den nahen Arkaden Schutz.",
+                "hu": "A kövek mintázata esőben még látványosabb, de felhőszakadás esetén húzódjon a közeli boltívek alá, és viseljen vízálló cipőt a macskaköveken.",
+                "ro": "Detaliile pietrei sunt accentuate de umezeală, însă în caz de ploaie torențială căutați adăpost sub arcadele din apropiere pentru protecție.",
+                "en": "The intricate stonework looks more dramatic in the rain, but seek shelter under nearby archways if a heavy downpour starts during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Arquipélago - Centro de Artes Contemporâneas",
+                "hu": "Arquipélago - Centro de Artes Contemporâneas",
+                "ro": "Arquipélago - Centro de Artes Contemporâneas",
+                "en": "Arquipélago - Centro de Artes Contemporâneas"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Zentrum ist der perfekte Ort, um trocken zu bleiben und in weitläufigen Hallen internationale Kunstwerke zu bestaunen.",
+                "hu": "Ez a modern központ tökéletes helyszín a szárazon maradáshoz, ahol a tágas csarnokokban zavartalanul csodálhatja meg a kortárs alkotásokat.",
+                "ro": "Acest centru modern este locul ideal pentru a rămâne uscat în timp ce explorați opere de artă internaționale în sălile sale spațioase.",
+                "en": "This modern center is the perfect spot to stay dry while admiring international contemporary artworks within its vast, industrial halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Vivo do Franciscanismo",
+                "hu": "Museu Vivo do Franciscanismo",
+                "ro": "Museu Vivo do Franciscanismo",
+                "en": "Museu Vivo do Franciscanismo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für einen Rundgang durch die klösterliche Stille und bewundern Sie die sakralen Schätze im trockenen Inneren.",
+                "hu": "Használja ki az esős időt a kolostori csendben való kalandozásra, és csodálja meg a szakrális kincseket a múzeum védett belső tereiben.",
+                "ro": "Profită de ploaie pentru a explora liniștea monahală și admiră comorile sacre în interiorul protejat al acestui muzeu fascinant.",
+                "en": "Use the rainy weather as an excuse to enjoy the monastic silence and admire sacred treasures inside the museum's well-protected rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal da Ribeira Grande",
+                "hu": "Museu Municipal da Ribeira Grande",
+                "ro": "Museu Municipal da Ribeira Grande",
+                "en": "Museu Municipal da Ribeira Grande"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für einen längeren Aufenthalt bei Schmuddelwetter, um die lokale Ethnografie ohne nass zu werden zu entdecken.",
+                "hu": "Kiváló helyszín egy hosszabb látogatáshoz borús időben, ahol anélkül ismerheti meg a helyi néprajzot, hogy elázna a kinti záporokban.",
+                "ro": "Un loc excelent pentru o vizită prelungită pe vreme rea, unde puteți descoperi etnografia locală fără a fi afectați de ploaia de afară.",
+                "en": "A great location for an extended visit during foul weather, allowing you to discover local ethnography without getting wet in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Ribeiragrandense",
+                "hu": "Teatro Ribeiragrandense",
+                "ro": "Teatro Ribeiragrandense",
+                "en": "Teatro Ribeiragrandense"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im prunkvollen Saal; die Akustik des Regens auf dem Dach verleiht der Atmosphäre eine ganz besondere Note.",
+                "hu": "Zárja a napot a díszes teremben; a tetőn kopogó eső hangja különleges, meghitt hangulatot kölcsönöz az esti kulturális programnak.",
+                "ro": "Încheiați ziua în sala fastuoasă; sunetul ploii pe acoperiș adaugă o notă specială atmosferei culturale din interiorul teatrului.",
+                "en": "End your day in the grand hall; the sound of rain on the roof adds a unique, cozy ambiance to the evening's cultural experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterspaziergang durch Ribeira Seca bietet kühle Brisen und eine klare, ruhige Atmosphäre. Vormittags wärmt die tiefstehende Sonne die historischen Mauern auf. Mittags suchen Sie Schutz in den Museen, die im Winter eine besonders besinnliche Stimmung ausstrahlen. Da die Sonne bereits gegen 17:00 Uhr untergeht, ist das beleuchtete Theater am späten Nachmittag der perfekte Abschluss.",
+            "hu": "A téli séta Ribeira Secában frissítő szellőket és tiszta, nyugodt környezetet kínál. Délelőtt az alacsonyan járó nap melegíti fel a régi falakat. Délben a múzeumok nyújtanak menedéket, melyek télen különösen meghitt hangulatot árasztanak. Mivel a nap 17:00 körül nyugszik, a kivilágított színház tökéletes úti cél a korai sötétedés idején.",
+            "ro": "O plimbare de iarnă în Ribeira Seca oferă brize răcoroase și o atmosferă limpede și liniștită. Dimineața, soarele blând încălzește zidurile vechi. La prânz, muzeele oferă un refugiu primitor și o stare de contemplare. Deoarece soarele apune în jurul orei 17:00, teatrul iluminat este destinația finală perfectă pentru a încheia ziua la căldură.",
+            "en": "A winter walk through Ribeira Seca offers cool breezes and a crisp, calm atmosphere. In the morning, the low sun warms the historic stone walls. At noon, the local museums provide a welcoming retreat with a contemplative mood. Since the sun sets around 17:00, the beautifully lit theater is the perfect final destination to enjoy the early twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fontanário Antigo",
+                "hu": "Fontanário Antigo",
+                "ro": "Fontanário Antigo",
+                "en": "Fontanário Antigo"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt den Brunnen in einem sanften Licht erscheinen; tragen Sie Schichten, da es im Schatten der Gassen kühl sein kann.",
+                "hu": "A téli napfény lágy fénybe vonja a kutat; öltözzön rétegesen, mert a szűk utcák árnyékos részein hűvösebb lehet a levegő.",
+                "ro": "Soarele de iarnă scaldă fântâna într-o lumină blândă; purtați haine stratificate, deoarece umbra străzilor poate fi destul de răcoroasă.",
+                "en": "The winter sun casts a soft light on the fountain; dress in layers, as it can feel quite chilly in the shaded parts of the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Arquipélago - Centro de Artes Contemporâneas",
+                "hu": "Arquipélago - Centro de Artes Contemporâneas",
+                "ro": "Arquipélago - Centro de Artes Contemporâneas",
+                "en": "Arquipélago - Centro de Artes Contemporâneas"
+              },
+              "tip_5lang": {
+                "de": "Die weiten, beheizten Galerien sind ideal, um den Winterwinden zu entkommen und moderne Kunst in Ruhe zu genießen.",
+                "hu": "A tágas, fűtött galériák ideálisak a téli szelek elöli meneküléshez és a modern művészet zavartalan, melegben történő élvezetéhez.",
+                "ro": "Galeriile spațioase și încălzite sunt ideale pentru a scăpa de vântul de iarnă și pentru a savura arta modernă în liniște deplină.",
+                "en": "The vast, heated galleries are ideal for escaping the winter winds and enjoying contemporary art in a warm and quiet environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Vivo do Franciscanismo",
+                "hu": "Museu Vivo do Franciscanismo",
+                "ro": "Museu Vivo do Franciscanismo",
+                "en": "Museu Vivo do Franciscanismo"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Klostermauern halten die Kälte ab; bewundern Sie die Exponate und genießen Sie die spirituelle Wärme dieses geschichtsträchtigen Ortes.",
+                "hu": "A vastag kolostorfalak távol tartják a kinti hideget; csodálja meg a kiállítást és élvezze e történelmi hely spirituális melegségét.",
+                "ro": "Zidurile groase ale mănăstirii țin frigul la distanță; admirați exponatele și bucurați-vă de căldura spirituală a acestui loc istoric.",
+                "en": "The thick monastic walls keep the winter cold at bay; admire the exhibits and enjoy the spiritual warmth of this historic site."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal da Ribeira Grande",
+                "hu": "Museu Municipal da Ribeira Grande",
+                "ro": "Museu Municipal da Ribeira Grande",
+                "en": "Museu Municipal da Ribeira Grande"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch hier ist perfekt für den frühen Winternachmittag, um die Kultur der Azoren kennenzulernen, während es draußen kühler wird.",
+                "hu": "A látogatás ideális a kora téli délutánon, hogy megismerje az Azori-szigetek kultúráját, miközben odakint hűvösebbre fordul az idő.",
+                "ro": "O vizită aici este perfectă pentru după-amiaza de iarnă, permițându-vă să cunoașteți cultura Azorelor în timp ce afară se răcește.",
+                "en": "A visit here is perfect for a winter afternoon, allowing you to explore Azorean culture while staying comfortable as the air outside cools."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Ribeiragrandense",
+                "hu": "Teatro Ribeiragrandense",
+                "ro": "Teatro Ribeiragrandense",
+                "en": "Teatro Ribeiragrandense"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, bietet das Theater einen glanzvollen, warmen Ort für den Abendabschluss; prüfen Sie das Winterprogramm vorab.",
+                "hu": "A korai sötétedés miatt a színház pompás és meleg menedéket kínál az estére; érdemes előre ellenőrizni a téli előadások listáját.",
+                "ro": "Deoarece se întunecă devreme, teatrul oferă un loc cald și strălucitor pentru seară; verificați programul de iarnă în avans.",
+                "en": "Since it gets dark early, the theater provides a grand, warm venue for the evening; check the winter performance schedule in advance."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját a Casamatas de Santa Bárbaránál, majd tekerjen a dinamikus Arquipélago művészeti központba. Dél közeledtével az útvonal a békés Ermida de Santo André kápolnához emelkedik. A délutánt látványos kilátások töltik ki, miközben a Castelo és Palheiro kilátókhoz kerekezik a panorámáért. Az utazás egy édes estével zárul az Eduardo Ferreira likőrgyárban, amely tökéletes jutalom a nap végén.",
         "ro": "Începeți aventura pe bicicletă la istoricele Casamatas de Santa Bárbara, pedalând apoi spre centrul de artă Arquipélago. La prânz, traseul urcă ușor spre pașnica Ermida de Santo André, oferind un interludiu liniștit. După-amiaza aduce priveliști spectaculoase de la punctele de belvedere Castelo și Palheiro, cu panorame oceanice unice. Plimbarea se termină dulce seara, cu o vizită la fabrica de lichior Eduardo Ferreira.",
         "en": "Start your cycling adventure at the historic Casamatas de Santa Bárbara, exploring coastal defenses before pedaling to the dynamic Arquipélago arts center. As midday approaches, the route climbs gently to the peaceful Ermida de Santo André, offering a serene interlude. The afternoon is filled with spectacular sights as you bike to the neighboring viewpoints, Castelo and Palheiro, for panoramic ocean vistas. The ride finishes with a sweet evening at the Eduardo Ferreira liquor factory, a perfect reward."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren bei Regen erfordert Vorsicht auf den glatten Wegen zu den Küstenfestungen. Vormittags erkunden Sie die militärischen Ruinen, während Sie auf nasse Kurven achten. Mittags bietet das Kunstzentrum einen trockenen Stopp für Mensch und Rad. Nachmittags führen die Wege zu nebligen Aussichtspunkten, bevor Sie den Tag bei einer Likörverkostung im Trockenen ausklingen lassen.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a parti erődökhöz vezető csúszós utakon. Délelőtt fedezze fel a katonai romokat, ügyelve a nedves kanyarokra. Délben a művészeti központ kínál száraz pihenőt. Délután a ködös kilátók felé vezet az út, mielőtt a napot egy fedett helyszínen, a likőrgyárban zárná, ahol megmelegedhet.",
+            "ro": "Ciclismul pe ploaie necesită atenție sporită pe drumurile alunecoase către fortificațiile de coastă. Dimineața explorați ruinele militare, având grijă la virajele umede. La prânz, centrul de artă oferă o pauză binemeritată la uscat. După-amiaza, drumurile duc spre puncte de belvedere cețoase, înainte de a încheia ziua cu o degustare de lichior la interior.",
+            "en": "Cycling in the rain requires extra caution on the slippery roads leading to the coastal forts. In the morning, explore military ruins while staying alert on wet curves. At noon, the art center offers a dry break for you and your bike. In the afternoon, paths lead to misty viewpoints, before concluding your day with a warm liqueur tasting indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casamatas de Santa Bárbara",
+                "hu": "Casamatas de Santa Bárbara",
+                "ro": "Casamatas de Santa Bárbara",
+                "en": "Casamatas de Santa Bárbara"
+              },
+              "tip_5lang": {
+                "de": "Die Betonbunker bieten Schutz vor plötzlichen Güssen; achten Sie beim Absteigen auf den rutschigen Untergrund um die Anlage.",
+                "hu": "A betonbunkerek jó védelmet nyújtanak a hirtelen záporok ellen; kerékpárról leszállva vigyázzon a létesítmény körüli csúszós talajra.",
+                "ro": "Buncărele de beton oferă protecție împotriva ploilor bruște; aveți grijă la terenul alunecos din jurul lor când coborâți de pe bicicletă.",
+                "en": "The concrete bunkers provide great cover from sudden downpours; be careful of slippery ground around the site when dismounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Arquipélago - Centro de Artes Contemporâneas",
+                "hu": "Arquipélago - Centro de Artes Contemporâneas",
+                "ro": "Arquipélago - Centro de Artes Contemporâneas",
+                "en": "Arquipélago - Centro de Artes Contemporâneas"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und nutzen Sie die weitläufigen Innenräume, um den schlimmsten Regen bei moderner Kunst abzuwarten.",
+                "hu": "Parkolja le biztonságosan kerékpárját, és használja ki a tágas belső tereket, hogy a modern művészetek között várja meg az eső végét.",
+                "ro": "Parcați bicicleta în siguranță și folosiți spațiile interioare generoase pentru a aștepta oprirea ploii în timp ce vizitați expozițiile.",
+                "en": "Park your bike securely and use the vast indoor spaces to wait out the worst of the rain while enjoying contemporary art exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermida de Santo André",
+                "hu": "Ermida de Santo André",
+                "ro": "Ermida de Santo André",
+                "en": "Ermida de Santo André"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle wirkt im Regen mystisch; nutzen Sie das Vordach für eine kurze Trinkpause und prüfen Sie Ihre Bremsen.",
+                "hu": "A kis kápolna misztikus hangulatot áraszt az esőben; használja az előtetőt egy rövid frissítőre, és ellenőrizze a fékeket a folytatás előtt.",
+                "ro": "Mica capelă are o aură mistică pe ploaie; folosiți streașina pentru o scurtă pauză de hidratare și verificați frânele bicicletelei.",
+                "en": "The small chapel feels mystical in the rain; use the overhang for a quick water break and check your brakes before continuing the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Castelo",
+                "hu": "Miradouro do Castelo",
+                "ro": "Miradouro do Castelo",
+                "en": "Miradouro do Castelo"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht kann durch Nebel eingeschränkt sein, aber die dramatischen Wellen sind bei Regen ein beeindruckendes Fotomotiv.",
+                "hu": "A kilátást korlátozhatja a köd, de a viharos, drámai hullámok az esőben is lenyűgöző fotótémát szolgáltatnak a merész bringásoknak.",
+                "ro": "Vizibilitatea poate fi redusă de ceață, dar valurile dramatice oferă un subiect fotografic impresionant chiar și pe timp de ploaie.",
+                "en": "Visibility might be limited by mist, but the dramatic waves crashing below make for an impressive photo subject even in rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Palheiro",
+                "hu": "Miradouro do Palheiro",
+                "ro": "Miradouro do Palheiro",
+                "en": "Miradouro do Palheiro"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei der Anfahrt auf nasser Fahrbahn; der Blick auf die zerklüftete Küste ist auch bei grauem Himmel spektakulär.",
+                "hu": "Vigyázzon a megközelítéssel a nedves úton; a szaggatott partvonal látványa szürke égbolt mellett is rendkívül látványos marad.",
+                "ro": "Atenție la abordarea drumului umed; vederea asupra coastei abrupte este spectaculoasă chiar și sub un cer cenușiu și ploios.",
+                "en": "Be careful approaching on wet roads; the view of the rugged coastline remains spectacular even under a grey, rainy Azorean sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Fábrica de Licores Eduardo Ferreira",
+                "hu": "Fábrica de Licores Eduardo Ferreira",
+                "ro": "Fábrica de Licores Eduardo Ferreira",
+                "en": "Fábrica de Licores Eduardo Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Der ideale trockene Abschluss; wärmen Sie sich bei einer Verkostung auf, aber radeln Sie danach besonders vorsichtig zurück.",
+                "hu": "Ideális száraz befejezés; melegedjen fel a kóstolón, de a látogatás után fokozott óvatossággal kerékpározzon vissza a szállására.",
+                "ro": "Finalul ideal la uscat; încălziți-vă cu o degustare locală, dar pedalați cu foarte mare atenție pe drumul de întoarcere spre casă.",
+                "en": "The perfect dry finish; warm up with a local liqueur tasting, but remember to cycle back with extra caution after your visit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Ribeira Seca bietet frische Luft und leere Wege. Vormittags erkunden Sie die historischen Küstenanlagen bei kühlen Temperaturen. Mittags ist das beheizte Kunstzentrum ein Muss für eine lange Pause. Genießen Sie die Küstenpanoramen am frühen Nachmittag, bevor die Sonne gegen 17:00 Uhr sinkt. Die Likörfabrik bietet danach einen gemütlichen Ort zum Aufwärmen.",
+            "hu": "A téli kerékpározás Ribeira Secában friss levegőt és üres utakat kínál. Délelőtt a hűvös időben fedezze fel a parti történelmi emlékeket. Délben a fűtött művészeti központ kötelező megálló egy hosszabb pihenőre. Élvezze a tengerparti panorámát kora délután, mielőtt a nap 17:00 körül lebukik. A likőrgyárban utána barátságos környezetben melegedhet fel.",
+            "ro": "Ciclismul de iarnă în Ribeira Seca aduce aer proaspăt și drumuri libere. Dimineața, explorați siturile istorice de pe coastă la temperaturi scăzute. La prânz, centrul de artă încălzit este obligatoriu pentru o pauză lungă. Savurați panoramele costiere după-amiaza devreme, înainte de apusul de la ora 17:00. Fabrica de lichior este locul perfect pentru încălzire.",
+            "en": "Winter cycling in Ribeira Seca offers crisp air and quiet roads. In the morning, explore the historic coastal sites in the cool weather. At noon, the heated art center is a must-visit for a long break. Enjoy the coastal panoramas in the early afternoon before the 17:00 sunset. The local liqueur factory then provides a cozy environment to warm up before evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casamatas de Santa Bárbara",
+                "hu": "Casamatas de Santa Bárbara",
+                "ro": "Casamatas de Santa Bárbara",
+                "en": "Casamatas de Santa Bárbara"
+              },
+              "tip_5lang": {
+                "de": "Die Bunker bieten Windschutz; tragen Sie winddichte Kleidung, da die Meeresbrise im Winter recht schneidend sein kann.",
+                "hu": "A bunkerek jó szélfogók; viseljen szélálló ruházatot, mert a tengeri fuvallat télen meglehetősen metsző lehet a nyílt parton.",
+                "ro": "Buncărele oferă adăpost împotriva vântului; purtați haine rezistente la vânt, deoarece briza mării poate fi tăioasă iarna pe coastă.",
+                "en": "The bunkers offer good wind protection; wear windproof clothing as the sea breeze can be quite biting during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Arquipélago - Centro de Artes Contemporâneas",
+                "hu": "Arquipélago - Centro de Artes Contemporâneas",
+                "ro": "Arquipélago - Centro de Artes Contemporâneas",
+                "en": "Arquipélago - Centro de Artes Contemporâneas"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Muskeln aufzuwärmen; verbringen Sie hier die kühlsten Mittagsstunden inmitten inspirierender Kunst.",
+                "hu": "Ideális hely az izmok átmelegítésére; töltse itt a leghűvösebb déli órákat az inspiráló modern alkotások társaságában.",
+                "ro": "Un loc ideal pentru a vă încălzi mușchii; petreceți aici cele mai reci ore ale amiezii înconjurat de artă modernă inspiratoare.",
+                "en": "An ideal spot to warm up your muscles; spend the coolest midday hours here surrounded by inspiring contemporary art exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermida de Santo André",
+                "hu": "Ermida de Santo André",
+                "ro": "Ermida de Santo André",
+                "en": "Ermida de Santo André"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist im Winter oft menschenleer und bietet einen friedlichen Stopp; achten Sie auf ausreichend Beleuchtung an Ihrem Rad.",
+                "hu": "A kápolna télen gyakran teljesen üres, békés pihenőhely; ellenőrizze kerékpárja világítását a korai szürkület előtt.",
+                "ro": "Capela este adesea pustie iarna, oferind un popas liniștit; asigurați-vă că aveți lumini funcționale pe bicicletă pentru amurg.",
+                "en": "The chapel is often deserted in winter, offering a peaceful stop; ensure your bike lights are working for the early Azorean dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Castelo",
+                "hu": "Miradouro do Castelo",
+                "ro": "Miradouro do Castelo",
+                "en": "Miradouro do Castelo"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht eignet sich hervorragend für klare Fernsichten auf den Ozean; halten Sie den Stopp wegen des Windes kurz.",
+                "hu": "A téli fények kiválóak a tiszta, távoli kilátáshoz az óceánra; a hűvös szél miatt tartsa rövidre ezt a szabadtéri megállót.",
+                "ro": "Lumina de iarnă este excelentă pentru vederi clare asupra oceanului; păstrați oprirea scurtă din cauza vântului rece de pe coastă.",
+                "en": "Winter light is excellent for clear, long-distance views over the ocean; keep the stop brief due to the strong winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Palheiro",
+                "hu": "Miradouro do Palheiro",
+                "ro": "Miradouro do Palheiro",
+                "en": "Miradouro do Palheiro"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama vor dem frühen Sonnenuntergang; Handschuhe sind für die Weiterfahrt in der Abenddämmerung ratsam.",
+                "hu": "Élvezze a panorámát a korai naplemente előtt; a szürkületben való továbbhaladáshoz már ajánlott a kesztyű viselése.",
+                "ro": "Savurați panorama înainte de apusul devreme; mănușile sunt recomandate pentru continuarea drumului în amurgul răcoros.",
+                "en": "Enjoy the panorama before the early sunset; gloves are highly recommended for cycling in the chilly winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Fábrica de Licores Eduardo Ferreira",
+                "hu": "Fábrica de Licores Eduardo Ferreira",
+                "ro": "Fábrica de Licores Eduardo Ferreira",
+                "en": "Fábrica de Licores Eduardo Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Der gemütlichste Ort, um den Radtag zu beenden; die lokalen Liköre wärmen von innen, bevor es zurück zur Unterkunft geht.",
+                "hu": "A legbarátságosabb hely a kerékpáros nap zárásához; a helyi likőrök belülről melegítenek fel a hazaút előtt.",
+                "ro": "Cel mai primitor loc pentru a încheia ziua de ciclism; lichiorurile locale vă vor încălzi înainte de a porni spre cazare.",
+                "en": "The coziest place to end your cycling day; local liqueurs will warm you from the inside before you head back to your base."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós túrája a történelmi repülőtérnél kezdődik, majd a parton halad a Santana Beach sötét homokja felé. A dél egy elegáns pihenőt hoz az öko-üdülőhelyen, és egy sétát a hatalmas Areal de Santa Barbara strandon. Délután váltson történelemre és kultúrára a parti bunkerek és az elismert Arquipélago művészeti központ meglátogatásával. Zárja a napot egy esti kóstolóval a történelmi Eduardo Ferreira likőrgyárban.",
         "ro": "Conducerea începe la istoricul Aeroport Santana, urmată de o plimbare de-a lungul coastei spre nisipul întunecat de la Plaja Santana. Prânzul aduce o pauză la complexul ecologic și o plimbare pe zona largă de la Areal de Santa Barbara. După-amiaza, treceți la istorie și cultură vizitând buncărele de coastă și renumitul centru de artă Arquipélago. Încheiați cu o degustare la istorica fabrică de lichior Eduardo Ferreira.",
         "en": "Your drive begins at the historic Aeroporto de Santana, reflecting on early aviation, before cruising along the coast to the dark sands of Santana Beach. Midday brings a stylish break at the eco-resort and a stroll along the sprawling surf paradise of Areal de Santa Barbara. In the afternoon, shift gears to history and culture by visiting the coastal bunkers and the renowned Arquipélago arts center. Conclude your driving tour with an evening tasting at the historic Eduardo Ferreira liquor factory."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Ribeira Seca bei Regen völlig entspannt. Vormittags besuchen Sie das historische Santana-Gelände, während die Scheibenwischer die Sicht klären. Mittags bieten die Strandresorts gemütliche Lounges mit Blick auf die stürmische See. Nachmittags stehen Kultur und Museen auf dem Programm, bevor Sie den Tag sicher und trocken bei der Likörfabrik abschließen.",
+            "hu": "Autóval teljesen ellazulva fedezheti fel Ribeira Secát esős időben is. Délelőtt látogasson el a történelmi Santana területére, miközben az ablaktörlők tisztítják a látóteret. Délben a tengerparti üdülők kényelmes váróterei kínálnak kilátást a viharos tengerre. Délután a kultúra és a múzeumok következnek, mielőtt a napot biztonságban és szárazon a likőrgyárban zárná.",
+            "ro": "Cu mașina, explorați Ribeira Seca pe ploaie într-un mod relaxat. Dimineața vizitați zona istorică Santana în timp ce ștergătoarele curăță parbrizul. La prânz, resorturile de pe plajă oferă lounge-uri primitoare cu vedere la marea agitată. După-amiaza este dedicată culturii și muzeelor, înainte de a încheia ziua la adăpost în fabrica de lichior.",
+            "en": "By car, you can explore Ribeira Seca in total relaxation even during the rain. In the morning, visit the historic Santana area while the wipers keep your view clear. At noon, the beach resorts offer cozy lounges with views of the stormy Atlantic. The afternoon is dedicated to culture and museums, before concluding your day safely and dry at the liqueur factory."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aeroporto de Santana",
+                "hu": "Aeroporto de Santana",
+                "ro": "Aeroporto de Santana",
+                "en": "Aeroporto de Santana"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände ist weitläufig; parken Sie strategisch nah an den Infotafeln, um bei Schauern schnell wieder im trockenen Auto zu sein.",
+                "hu": "A terület tágas; parkoljon stratégiailag közel az információs táblákhoz, hogy egy hirtelen zápor esetén gyorsan visszaérjen az autóba.",
+                "ro": "Zona este vastă; parcați strategic aproape de panourile informative pentru a reveni rapid în mașină în caz de aversă.",
+                "en": "The site is vast; park strategically close to the information boards to quickly return to the dry car if a shower starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Santana Beach",
+                "hu": "Santana Beach",
+                "ro": "Santana Beach",
+                "en": "Santana Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die tosenden Wellen direkt aus dem Auto; der Parkplatz bietet eine tolle Sicht auf die raue Nordküste.",
+                "hu": "Élvezze a dübörgő hullámok látványát közvetlenül az autóból; a parkolóból kiváló kilátás nyílik a zord északi partvidékre.",
+                "ro": "Bucurați-vă de vederea valurilor furioase direct din mașină; parcarea oferă o panoramă excelentă asupra coastei de nord.",
+                "en": "Enjoy the view of the thundering waves directly from your car; the parking lot offers a great vantage point of the rugged north coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Bárbara Eco-Beach Resort",
+                "hu": "Santa Bárbara Eco-Beach Resort",
+                "ro": "Santa Bárbara Eco-Beach Resort",
+                "en": "Santa Bárbara Eco-Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp für einen Kaffee bei Regen; die großen Fensterfronten lassen Sie das Wetterchaos draußen hautnah miterleben.",
+                "hu": "Tökéletes megálló egy kávéra esőben; a hatalmas üvegfelületeken keresztül testközelből figyelheti a kinti elemek tombolását.",
+                "ro": "Un popas perfect pentru o cafea pe ploaie; ferestrele mari vă permit să observați furia naturii de afară dintr-un mediu cald.",
+                "en": "A perfect stop for a coffee during the rain; the large glass fronts allow you to experience the elements outside from a warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Areal de Santa Barbara",
+                "hu": "Areal de Santa Barbara",
+                "ro": "Areal de Santa Barbara",
+                "en": "Areal de Santa Barbara"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist bei Regen fest und gut begehbar für einen kurzen, frischen Strandspaziergang; danach wärmt die Autoheizung schnell auf.",
+                "hu": "A homok esőben kemény és jól járható egy rövid, frissítő strandtúrához; utána az autó fűtése gyorsan felmelegíti az embert.",
+                "ro": "Nisipul este compact pe ploaie și bun pentru o scurtă plimbare revigorantă pe plajă; apoi încălzirea mașinii vă va revigora rapid.",
+                "en": "The sand is firm in the rain and good for a short, refreshing beach walk; afterwards, the car heater will quickly warm you up."
+              }
+            },
+            {
+              "name": {
+                "de": "Casamatas de Santa Bárbara",
+                "hu": "Casamatas de Santa Bárbara",
+                "ro": "Casamatas de Santa Bárbara",
+                "en": "Casamatas de Santa Bárbara"
+              },
+              "tip_5lang": {
+                "de": "Die Bunker bieten festen Boden unter den Füßen; parken Sie vorsichtig am Wegrand, da die Bankette bei Regen aufgeweicht sein können.",
+                "hu": "A bunkerek szilárd talajt kínálnak; parkoljon óvatosan az út szélén, mert a padka esőben felázhat és csúszóssá válhat.",
+                "ro": "Buncărele oferă teren solid; parcați cu atenție pe marginea drumului, deoarece acostamentul poate fi moale din cauza ploii.",
+                "en": "The bunkers offer solid ground; park carefully on the roadside, as the verges can become soft and muddy during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Arquipélago - Centro de Artes Contemporâneas",
+                "hu": "Arquipélago - Centro de Artes Contemporâneas",
+                "ro": "Arquipélago - Centro de Artes Contemporâneas",
+                "en": "Arquipélago - Centro de Artes Contemporâneas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Eingang; so gelangen Sie fast trocken in die beeindruckenden, wettergeschützten Ausstellungsräume.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolót; így szinte teljesen szárazon juthat be a lenyűgöző kiállítótermekbe.",
+                "ro": "Folosiți parcarea de lângă intrare; astfel veți ajunge aproape uscat în sălile de expoziție impresionante și protejate de vreme.",
+                "en": "Use the parking right by the entrance; this way you can reach the impressive, weather-protected exhibition halls almost dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Fábrica de Licores Eduardo Ferreira",
+                "hu": "Fábrica de Licores Eduardo Ferreira",
+                "ro": "Fábrica de Licores Eduardo Ferreira",
+                "en": "Fábrica de Licores Eduardo Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Idealer Ort, um lokale Souvenirs im Trockenen zu kaufen; achten Sie bei der Weiterfahrt auf Aquaplaning auf den Küstenstraßen.",
+                "hu": "Ideális hely helyi szuvenírek vásárlásához fedett helyen; a továbbhaladáskor ügyeljen a vízátfolyásokra a parti utakon.",
+                "ro": "Locul ideal pentru cumpărături de suveniruri la adăpost; atenție la acvaplanare pe drumurile de coastă după ce plecați de aici.",
+                "en": "Ideal place for souvenir shopping indoors; be mindful of aquaplaning on the coastal roads when driving after your visit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto offenbart die raue Schönheit der Azorenküste. Vormittags erkunden Sie historische Stätten bei angenehmer Kühle. Mittags laden die Küstenresorts zum Verweilen im Warmen ein, während Sie den weiten Blick auf den Ozean genießen. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie die Museumsbesuche für den späten Nachmittag ein und beenden den Tag bei der Likörfabrik.",
+            "hu": "A téli autós túra felfedi az Azori-szigetek partvidékének zord szépségét. Délelőtt a kellemes hűvösben fedezze fel a történelmi helyszíneket. Délben a tengerparti üdülők hívogatnak a melegbe, miközben az óceánra nyíló kilátást élvezi. Mivel a nap 17:00 körül nyugszik, a múzeumlátogatást késő délutánra időzítse, és a napot a likőrgyárban zárja.",
+            "ro": "Un tur de iarnă cu mașina dezvăluie frumusețea aspră a coastei Azorelor. Dimineața, explorați siturile istorice la temperaturi răcoroase. La prânz, resorturile de pe coastă vă invită la căldură, oferind vederi largi asupra oceanului. Deoarece soarele apune la ora 17:00, programați muzeele pentru după-amiază și încheiați ziua la fabrica de lichior.",
+            "en": "A winter car tour reveals the rugged beauty of the Azorean coastline. In the morning, explore historic sites in the pleasant cool air. At noon, the coastal resorts invite you to stay warm while enjoying wide ocean views. Since the sun sets around 17:00, plan your museum visits for late afternoon and finish the day at the cozy local liqueur factory."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aeroporto de Santana",
+                "hu": "Aeroporto de Santana",
+                "ro": "Aeroporto de Santana",
+                "en": "Aeroporto de Santana"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier oft windig; nutzen Sie das Auto als Windschatten beim Aussteigen für Fotos der historischen Gebäude.",
+                "hu": "Télen itt gyakran szeles az idő; használja az autót szélfogóként, amikor kiszáll fotózni a történelmi épületeket és a kifutót.",
+                "ro": "Iarna vântul este adesea puternic aici; folosiți mașina ca paravan când coborâți pentru a fotografia clădirile istorice.",
+                "en": "It is often windy here in winter; use the car as a windbreak when getting out to take photos of the historic buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Santana Beach",
+                "hu": "Santana Beach",
+                "ro": "Santana Beach",
+                "en": "Santana Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht bietet fantastische Farben für Küstenfotos; genießen Sie die Aussicht im Warmen, bevor Sie kurz zum Ufer hinuntergehen.",
+                "hu": "A téli fények fantasztikus színeket kínálnak a tengerparti fotókhoz; élvezze a kilátást a melegben, mielőtt lesétálna a vízpartra.",
+                "ro": "Lumina de iarnă oferă culori fantastice pentru fotografii; savurați vederea de la căldură înainte de a coborî scurt pe malul mării.",
+                "en": "The winter light provides fantastic colors for coastal photos; enjoy the view from the warmth before taking a quick walk to the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Bárbara Eco-Beach Resort",
+                "hu": "Santa Bárbara Eco-Beach Resort",
+                "ro": "Santa Bárbara Eco-Beach Resort",
+                "en": "Santa Bárbara Eco-Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für eine Mittagspause im Winter; die behagliche Atmosphäre und der Blick auf die Surfer im kalten Wasser sind einmalig.",
+                "hu": "Ideális hely a téli ebédidőhöz; a barátságos légkör és a hideg vízben lévő szörfösök látványa egyszerre lenyűgöző és megnyugtató.",
+                "ro": "Locul ideal pentru o pauză de prânz iarna; atmosfera primitoare și vederea surferilor în apa rece sunt cu adevărat unice.",
+                "en": "The ideal spot for a winter lunch break; the cozy atmosphere and the view of surfers in the cold water are a unique experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Areal de Santa Barbara",
+                "hu": "Areal de Santa Barbara",
+                "ro": "Areal de Santa Barbara",
+                "en": "Areal de Santa Barbara"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen schnellen Spaziergang, um den Kopf frei zu bekommen; die Meeresluft ist im Winter besonders belebend und frisch.",
+                "hu": "Tökéletes egy gyors sétára a friss levegőn; a tengeri pára télen különösen élénkítő, de utána jólesik majd a fűtött utastér.",
+                "ro": "Perfect pentru o scurtă plimbare revigorantă; aerul mării este extrem de proaspăt iarna, dar încălzirea mașinii va fi binevenită după.",
+                "en": "Perfect for a quick walk to clear your head; the sea air is especially invigorating in winter, and the car heater will be welcome after."
+              }
+            },
+            {
+              "name": {
+                "de": "Casamatas de Santa Bárbara",
+                "hu": "Casamatas de Santa Bárbara",
+                "ro": "Casamatas de Santa Bárbara",
+                "en": "Casamatas de Santa Bárbara"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Bunker im Schutz vor dem kühlen Wind; die tiefstehende Wintersonne wirft lange, fotogene Schatten auf die Anlage.",
+                "hu": "Fedezze fel a bunkereket a hűvös szél elől védve; az alacsonyan járó téli nap hosszú, fotogén árnyékokat vet a létesítményre.",
+                "ro": "Explorați buncărele protejați de vântul rece; soarele de iarnă proiectează umbre lungi și fotogenice asupra întregului ansamblu.",
+                "en": "Explore the bunkers while sheltered from the cool wind; the low winter sun casts long, photogenic shadows across the entire site."
+              }
+            },
+            {
+              "name": {
+                "de": "Arquipélago - Centro de Artes Contemporâneas",
+                "hu": "Arquipélago - Centro de Artes Contemporâneas",
+                "ro": "Arquipélago - Centro de Artes Contemporâneas",
+                "en": "Arquipélago - Centro de Artes Contemporâneas"
+              },
+              "tip_5lang": {
+                "de": "Ein kulturelles Highlight für den späten Winternachmittag; die beheizten Hallen bieten Komfort, während es draußen dämmert.",
+                "hu": "Kulturális fénypont a késő téli délutánon; a fűtött csarnokok kényelmet nyújtanak, miközben odakint már lassan alkonyodik.",
+                "ro": "Un punct culminant cultural pentru după-amiaza de iarnă; halele încălzite oferă confort în timp ce afară se lasă amurgul.",
+                "en": "A cultural highlight for the late winter afternoon; the heated halls provide comfort as the twilight begins to fall outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Fábrica de Licores Eduardo Ferreira",
+                "hu": "Fábrica de Licores Eduardo Ferreira",
+                "ro": "Fábrica de Licores Eduardo Ferreira",
+                "en": "Fábrica de Licores Eduardo Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss bei Dunkelheit; decken Sie sich mit winterlichen Likören ein, aber fahren Sie vorsichtig bei Nacht.",
+                "hu": "Tökéletes befejezés a sötétedés után; szerezzen be téli likőröket, de a látogatás után vezessen fokozott figyelemmel az éjszakában.",
+                "ro": "Finalul perfect după lăsarea întunericului; cumpărați lichioruri locale, dar conduceți cu mare atenție pe timp de noapte.",
+                "en": "The perfect finish after dark; stock up on local winter liqueurs, but be sure to drive with extra care in the nighttime conditions."
+              }
+            }
+          ]
+        }
       }
     }
   }

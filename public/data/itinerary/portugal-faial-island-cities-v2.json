@@ -137,6 +137,168 @@
         "hu": "A reggel magasan indul, gyönyörű panorámás kilátókról csodálva a szigetet. Délben a legmagasabb csúcs felé túrázunk, friss levegőt szívva. A délutánt a vulkáni kráter felfedezésének szenteljük, megfigyelve annak hatalmas méreteit. Estére történelmi helyszíneket érünk el, ahol a környék rusztikus építészete nyugodt környezetben fogad.",
         "ro": "Dimineața începe la înălțime cu vederi panoramice splendide de la punctele de belvedere ale insulei. La prânz facem o drumeție către cel mai înalt vârf pentru aer proaspăt. După-amiaza este dominată de minunile craterului vulcanic masiv și formațiunile sale. Seara ajungem în zone istorice pentru a contempla arhitectura rustică locală în liniște.",
         "en": "Morning begins high up with splendid panoramic views from the island's scenic viewpoints. At midday, we hike toward the highest peak to take in the fresh air. The afternoon is dominated by the wonders of the massive volcanic crater and its dramatic geology. By evening, we reach historical grounds to quietly contemplate the local rustic architecture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen am Alto do Cabouco im Nebel. Mittags erreichen Sie die nebligen Höhen des Cabeço Gordo, wo die Wege guten Halt erfordern. Am Nachmittag zeigt sich die gewaltige Caldeira als stimmungsvoller, wolkengefüllter Krater. Beenden Sie die nasse Wanderung am historischen Roadman’s House, um Schutz zu finden.",
+            "hu": "Kezdje az esős reggelt az Alto do Cabouco drámai ködjében. Délben elérjük a Cabeço Gordo párás magaslatait, ahol a csúszós ösvényeken jó tapadás kell. Délután a hatalmas Caldeira egy hangulatos, felhőkkel teli krátert mutat. Fejezze be a nedves túrát a történelmi Roadman’s House-nál, ahol végre menedéket talál az eső elől.",
+            "ro": "Începeți dimineața ploioasă la Alto do Cabouco, învăluit în ceață dramatică. La prânz ajungeți pe înălțimile Cabeço Gordo, unde traseele necesită aderență. După-amiaza, masiva Caldeira dezvăluie un crater plin de nori. Încheiați drumeția umedă la istorica Roadman’s House pentru a găsi un adăpost binevenit împotriva ploii.",
+            "en": "Start your rainy morning at Alto do Cabouco, wrapped in dramatic fog. Midday brings you to the misty heights of Cabeço Gordo, where the trails require good grip. By afternoon, the massive Caldeira reveals a moody, cloud-filled crater. Conclude the wet trek at the historic Roadman’s House to finally find some welcome shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alto do Cabouco Viewpoint",
+                "hu": "Alto do Cabouco Viewpoint",
+                "ro": "Alto do Cabouco Viewpoint",
+                "en": "Alto do Cabouco Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die nebelverhangene Landschaft, aber tragen Sie wasserdichte Stiefel, da der unbefestigte Weg bei Regen sehr schlammig und rutschig wird.",
+                "hu": "Élvezze a ködös tájat, de viseljen vízálló bakancsot, mivel a földút esőben nagyon saras és csúszós lehet ezen a kilátóponton.",
+                "ro": "Bucurați-vă de peisajul cețos, dar purtați bocanci impermeabili deoarece drumul de pământ devine foarte noroios și alunecos pe timp de ploaie.",
+                "en": "Enjoy the fog-covered landscapes, but wear sturdy waterproof boots as the dirt path can get quite muddy and slippery during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Caldeira",
+                "hu": "Miradouro da Caldeira",
+                "ro": "Miradouro da Caldeira",
+                "en": "Miradouro da Caldeira"
+              },
+              "tip_5lang": {
+                "de": "Der Krater wirkt im Regen mystisch; nutzen Sie eine gute Regenjacke und bleiben Sie fern von den rutschigen Rändern der Aussichtsplattform.",
+                "hu": "A kráter misztikusnak tűnik az esőben; használjon jó esőkabátot, és maradjon távol a kilátó nedves, csúszós peremeitől a biztonság érdekében.",
+                "ro": "Craterul arată mistic în ploaie; folosiți o pelerină bună și stați departe de marginile alunecoase ale platformei de observare.",
+                "en": "The crater looks mystical in the rain; use a high-quality raincoat and stay well away from the wet, slippery edges of the viewing platform."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabeço Gordo",
+                "hu": "Cabeço Gordo",
+                "ro": "Cabeço Gordo",
+                "en": "Cabeço Gordo"
+              },
+              "tip_5lang": {
+                "de": "Starker Regen könnte den Gipfel verdecken, konzentrieren Sie sich auf die Flora und halten Sie Ihre wasserdichte Jacke stets gut verschlossen.",
+                "hu": "A heves eső eltakarhatja a csúcsot, ezért figyelje a növényzetet, és tartsa jól összehúzva a vízálló kabátját a hűvös széllökések miatt.",
+                "ro": "Ploaia puternică poate ascunde vârful, deci concentrați-vă pe flora unică și țineți jacheta impermeabilă bine închisă contra vântului.",
+                "en": "Heavy rain might obscure the peak, so focus on the unique flora and keep your waterproof jacket tightly zipped up against the chilling wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Caldeira",
+                "hu": "Caldeira",
+                "ro": "Caldeira",
+                "en": "Caldeira"
+              },
+              "tip_5lang": {
+                "de": "Ein riesiger, stimmungsvoller Krater im Nieselregen; bringen Sie einen Regenschutz für die Kamera mit und bleiben Sie strikt auf den Wegen.",
+                "hu": "Hatalmas, hangulatos kráter a szitáló esőben; hozzon vízálló borítást a kamerájához, és maradjon szigorúan a kijelölt, biztonságos ösvényeken.",
+                "ro": "Un crater vast și plin de stare în burniță; aduceți o husă impermeabilă pentru cameră și asigurați-vă că rămâneți doar pe potecile marcate.",
+                "en": "A vast, moody crater in the drizzle; bring a waterproof cover for your camera and be absolutely sure to stay on the clearly marked pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Roadman’s House",
+                "hu": "Roadman’s House",
+                "ro": "Roadman’s House",
+                "en": "Roadman’s House"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier dringend Schutz unter dem festen Dach und bewundern Sie die Architektur als perfekte und trockene Pause vor dem Dauerregen.",
+                "hu": "Keressen menedéket az erős tető alatt, miközben megcsodálja a történelmi építészeti emlékeket, tökéletes, száraz pihenőt tartva az esőben.",
+                "ro": "Căutați adăpost sub acoperișul solid admirând arhitectura istorică, oferind o pauză perfectă, sigură și uscată de la ploaia continuă.",
+                "en": "Seek shelter under the solid roof here while admiring the historic architecture, providing a perfect, dry break from the persistent downpour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für den morgendlichen Spaziergang zum Alto do Cabouco. Mittags bietet Cabeço Gordo klare Sicht, aber eisigen Wind. Der Abstieg zur Caldeira ist in der tiefen Wintersonne wunderschön. Erreichen Sie das Roadman’s House vor der frühen Dämmerung um 17 Uhr.",
+            "hu": "Öltözzön melegen a reggeli sétához az Alto do Cabouco felé. Délben a Cabeço Gordo tiszta kilátást, de metsző szelet kínál. A délutáni ereszkedés a Caldeirához gyönyörű az alacsony téli napfényben. Érje el a Roadman’s House-t a korai, 17 órás sötétedés előtt.",
+            "ro": "Îmbrăcați-vă gros pentru plimbarea matinală spre Alto do Cabouco. La prânz, Cabeço Gordo oferă vederi clare, dar vânturi tăioase. Coborârea de după-amiază spre Caldeira este superbă în soarele de iarnă. Ajungeți la Roadman’s House înainte de amurgul timpuriu de la ora 17.",
+            "en": "Wrap up warm for a brisk morning walk to Alto do Cabouco. Midday at Cabeço Gordo offers crisp, clear views but biting winds. The afternoon descent to Caldeira is beautiful in the low winter sun. Reach Roadman’s House before the early dusk settles in around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alto do Cabouco Viewpoint",
+                "hu": "Alto do Cabouco Viewpoint",
+                "ro": "Alto do Cabouco Viewpoint",
+                "en": "Alto do Cabouco Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare, kalte Winterluft mit weiten Blicken, aber tragen Sie Schichten, um sich vor dem frostigen Morgenwind zu schützen.",
+                "hu": "Élvezze a tiszta, hideg téli levegőt a messzire nyúló kilátással, de viseljen réteges ruházatot a fagyos reggeli szél elleni védelemként.",
+                "ro": "Bucurați-vă de aerul clar și rece de iarnă cu vederi ample, dar purtați straturi pentru a vă proteja de vântul înghețat al dimineții.",
+                "en": "Enjoy the clear, cold winter air with expansive views, but wear multiple thermal layers to protect yourself from the frosty morning breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Caldeira",
+                "hu": "Miradouro da Caldeira",
+                "ro": "Miradouro da Caldeira",
+                "en": "Miradouro da Caldeira"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne wirft dramatische Schatten in den Krater; eine Mütze ist hier unerlässlich, da der Wind extrem ungemütlich wird.",
+                "hu": "Az alacsony téli nap drámai árnyékokat vet a kráterbe; egy meleg sapka elengedhetetlen, mert a szél itt rendkívül kellemetlen lehet.",
+                "ro": "Soarele de iarnă aruncă umbre dramatice în crater; o căciulă este esențială aici, deoarece vântul devine extrem de rece și neplăcut.",
+                "en": "The low winter sun casts dramatic shadows into the crater; a warm beanie is essential here as the wind chill becomes extremely uncomfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabeço Gordo",
+                "hu": "Cabeço Gordo",
+                "ro": "Cabeço Gordo",
+                "en": "Cabeço Gordo"
+              },
+              "tip_5lang": {
+                "de": "An klaren Wintertagen sehen Sie die Nachbarinseln perfekt, aber bereiten Sie sich auf beißende Kälte auf dem höchsten Punkt der Route vor.",
+                "hu": "Tiszta téli napokon tökéletesen látni a szomszédos szigeteket, de készüljön fel a metsző hidegre az útvonal legmagasabb, nyitott pontján.",
+                "ro": "În zilele clare de iarnă vedeți perfect insulele vecine, dar pregătiți-vă pentru frigul pătrunzător de pe cel mai înalt punct al rutei.",
+                "en": "On clear winter days you can see neighboring islands perfectly, but prepare for biting cold at the highest, most exposed point of the route."
+              }
+            },
+            {
+              "name": {
+                "de": "Caldeira",
+                "hu": "Caldeira",
+                "ro": "Caldeira",
+                "en": "Caldeira"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gefrorene Flora in den schattigen Bereichen des Kraters; gehen Sie zügig, um vor dem frühen Sonnenuntergang warm zu bleiben.",
+                "hu": "Csodálja meg a fagyott növényzetet a kráter árnyékos részein; haladjon tempósan, hogy melegen tartsa magát a korai naplemente előtt.",
+                "ro": "Admirați flora înghețată în zonele umbrite ale craterului; mergeți într-un ritm vioi pentru a vă menține cald înainte de apusul timpuriu.",
+                "en": "Admire the frosted flora in the shaded areas of the crater; keep a brisk walking pace to stay completely warm before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Roadman’s House",
+                "hu": "Roadman’s House",
+                "ro": "Roadman’s House",
+                "en": "Roadman’s House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie dieses historische Gebäude als geschützten Pausenort, um sich aufzuwärmen, bevor die kalte und dunkle Winternacht hereinbricht.",
+                "hu": "Használja ezt a történelmi épületet védett pihenőhelyként, hogy felmelegedjen, mielőtt a hideg és sötét téli éjszaka hirtelen leszáll.",
+                "ro": "Folosiți această clădire istorică ca loc protejat pentru a vă încălzi înainte ca noaptea rece și întunecată de iarnă să se lase rapid.",
+                "en": "Utilize this historic building as a sheltered resting spot to warm up your hands before the cold, dark winter night quickly sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel békés természetvédelmi területek felé tekerünk, élvezve az erdei nyugalmat. A déli órákat a part menti lenyűgöző kilátópontoknál töltjük. Délután felfelé haladunk, hogy történelmi helyszíneket és vulkáni csúcsokat fedezzünk fel. Az este során pedig megcsodáljuk az ikonikus krátert a naplemente előtti varázslatos fényekben.",
         "ro": "Dimineața pedalăm către rezervații naturale relaxante, bucurându-ne de liniștea pădurii. Pauza de prânz este petrecută pe coastă cu vederi panoramice uimitoare. După-amiaza urcăm pentru a descoperi repere istorice și vârfuri vulcanice impunătoare. Seara ne oferă priveliștea supremă asupra craterului înainte ca soarele să apună încet.",
         "en": "Morning cycling takes us to relaxing nature reserves where we enjoy the peaceful forest air. Midday is spent admiring coastal panoramas from stunning lookouts. In the afternoon, we ride uphill to explore historical landmarks and imposing volcanic peaks. The evening rewards us with the ultimate view into the iconic crater just before sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre morgendliche Fahrt beginnt nass, tragen Sie Warnwesten im Reserva Florestal. Mittags bei Pico Cangueiro gibt es rutschige Schlammpfade, die extreme Vorsicht erfordern. Kämpfen Sie sich am Nachmittag durch den Nieselregen zum Cabeço Gordo. Beenden Sie die Tour am nebligen Miradouro.",
+            "hu": "A reggeli tekerés nedvesen indul, viseljen láthatósági esőkabátot a Reserva Florestalnál. Délben a Pico Cangueiro csúszós, saras ösvényei óvatosságot igényelnek. Délután küzdje át magát a szitáló esőn a Cabeço Gordo felé. Fejezze be a túrát a ködös Miradouro-nál.",
+            "ro": "Cursa matinală începe ud, purtați veste reflectorizante la Reserva Florestal. La prânz, traseele noroioase spre Pico Cangueiro necesită extremă precauție. După-amiaza, treceți prin burniță spre Cabeço Gordo. Încheiați turul la cețosul Miradouro.",
+            "en": "Your morning ride starts wet, so wear high-vis waterproofs at Reserva Florestal. Midday climbs to Pico Cangueiro mean slippery, muddy trails requiring extreme caution. By afternoon, power through the drizzle to Cabeço Gordo. Wrap up early at the misty Miradouro."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Reserva Florestal de Recreio da Falca",
+                "hu": "Reserva Florestal de Recreio da Falca",
+                "ro": "Reserva Florestal de Recreio da Falca",
+                "en": "Reserva Florestal de Recreio da Falca"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Waldwegen; stellen Sie sicher, dass Ihr Fahrrad Schutzbleche gegen das aufspritzende Regenwasser hat.",
+                "hu": "Óvatosan tekerjen a nedves erdei ösvényeken; gondoskodjon arról, hogy a kerékpárján legyen sárvédő a felverődő esővíz ellen.",
+                "ro": "Mergeți cu atenție pe traseele de pădure ude; asigurați-vă că bicicleta are apărători de noroi pentru a evita apa stropită de ploaie.",
+                "en": "Ride cautiously on the wet forest trails; make sure your bicycle is equipped with solid mudguards to prevent heavy splashing in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Falca",
+                "hu": "Miradouro da Falca",
+                "ro": "Miradouro da Falca",
+                "en": "Miradouro da Falca"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist durch tiefhängende Wolken mysteriös; bremsen Sie auf dem rutschigen Asphalt rechtzeitig ab, wenn Sie sich hier nähern.",
+                "hu": "A kilátás titokzatos az alacsonyan szálló felhőktől; a csúszós aszfalton időben kezdje meg a fékezést, amikor ide közeledik.",
+                "ro": "Vedere este misterioasă din cauza norilor joși; frânați din timp pe asfaltul alunecos atunci când vă apropiați de acest punct de belvedere.",
+                "en": "The view is mysterious with low-hanging clouds; be sure to brake very early on the slippery asphalt as you approach this scenic viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Pico Cangueiro",
+                "hu": "Pico Cangueiro",
+                "ro": "Pico Cangueiro",
+                "en": "Pico Cangueiro"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg im Regen erfordert viel Beinkraft und Reifen mit tiefem Profil, da sich der feuchte Boden schnell in rutschigen Matsch verwandelt.",
+                "hu": "Az esős mászás sok erőt és mély mintázatú gumikat igényel, mivel a nedves talaj gyorsan csúszós és veszélyes sárrá változik.",
+                "ro": "Urcarea în ploaie necesită forță și anvelope cu profil adânc, deoarece solul umed se transformă rapid într-un noroi extrem de alunecos.",
+                "en": "Climbing in the rain requires strong leg power and deep-tread tires, as the damp soil quickly transforms into dangerously slippery mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Roadman’s House",
+                "hu": "Roadman’s House",
+                "ro": "Roadman’s House",
+                "en": "Roadman’s House"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter einem Baum und stellen Sie sich unter, um Ihre durchnässte Ausrüstung für die nächste nasse Etappe zu richten.",
+                "hu": "Parkolja le a bringát, és álljon be a fedél alá, hogy megigazítsa az elázott felszerelését a következő esős és megterhelő szakasz előtt.",
+                "ro": "Parcați bicicleta și adăpostiți-vă pentru a vă aranja echipamentul ud înainte de următoarea etapă solicitantă pe timp de ploaie.",
+                "en": "Park your bike and seek immediate shelter under the structure to readjust your soaked cycling gear before tackling the next wet section."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabeço Gordo",
+                "hu": "Cabeço Gordo",
+                "ro": "Cabeço Gordo",
+                "en": "Cabeço Gordo"
+              },
+              "tip_5lang": {
+                "de": "Die Regenböen auf dem Gipfel können Ihr Rad leicht aus der Bahn werfen; drosseln Sie das Tempo und achten Sie auf Pfützen und lose Steine.",
+                "hu": "A csúcson lévő esős széllökések könnyen letéríthetik a bringát; lassítson, és figyeljen a mély tócsákra, illetve a laza kövekre.",
+                "ro": "Rafalele de ploaie de pe vârf vă pot devia ușor bicicleta; reduceți viteza și fiți atenți la bălți și la pietrele libere de pe traseu.",
+                "en": "Rainy gusts at the peak can easily push your bike off course; reduce your speed drastically and watch out for deep puddles and loose stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Caldeira",
+                "hu": "Miradouro da Caldeira",
+                "ro": "Miradouro da Caldeira",
+                "en": "Miradouro da Caldeira"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf den wolkenverhangenen Krater; trocknen Sie Ihre Bremsen, bevor Sie die nasse und steile Abfahrt nach Hause antreten.",
+                "hu": "Egy utolsó pillantás a felhőbe burkolózott kráterre; szárítsa le a fékeket, mielőtt megkezdi a nedves, meredek ereszkedést hazafelé.",
+                "ro": "O ultimă privire asupra craterului acoperit de nori; uscați-vă frânele înainte de a începe coborârea umedă și abruptă spre casă.",
+                "en": "A final look at the cloud-covered crater; pulse your brakes to dry them completely before starting the wet and dangerously steep descent home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen im Reserva Florestal erfordert Thermokleidung. Die mittägliche Anstrengung zum Pico Cangueiro hält Sie warm. Die Nachmittagssicht vom Cabeço Gordo ist im Winter atemberaubend klar. Fahren Sie sicher bergab, bevor der frühe Sonnenuntergang die Straßen gefrieren lässt.",
+            "hu": "A hűvös reggeli tekerés a Reserva Florestalnál termo ruházatot követel. A déli erőfeszítés a Pico Cangueiro felé melegen tartja majd. A délutáni kilátás a Cabeço Gordo-ról lenyűgözően tiszta. Ereszkedjen le biztonságosan, mielőtt a korai naplemente lefagyasztja az utat.",
+            "ro": "O dimineață răcoroasă prin Reserva Florestal necesită haine termice. Efortul de la prânz spre Pico Cangueiro vă va ține de cald. Vederile de după-amiază de pe Cabeço Gordo sunt incredibil de clare. Coborâți în siguranță înainte ca apusul timpuriu să înghețe drumurile.",
+            "en": "A chilly morning pedal through Reserva Florestal demands thermal layers. The midday effort to Pico Cangueiro will keep you warm despite the cold breeze. Afternoon views from Cabeço Gordo are stunningly clear in winter. Descend safely before the early sunset freezes the roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Reserva Florestal de Recreio da Falca",
+                "hu": "Reserva Florestal de Recreio da Falca",
+                "ro": "Reserva Florestal de Recreio da Falca",
+                "en": "Reserva Florestal de Recreio da Falca"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winterfeste Handschuhe, da der Fahrtwind in diesem bewaldeten Abschnitt Ihre Hände auf dem Lenker sehr schnell auskühlen lässt.",
+                "hu": "Viseljen téliesített kerékpáros kesztyűt, mivel a menetszél ezen az erdős szakaszon nagyon gyorsan lehűti a kormányt fogó kezeit.",
+                "ro": "Purtați mănuși groase de iarnă, deoarece vântul din timpul mersului în această zonă împădurită vă va răci rapid mâinile pe ghidon.",
+                "en": "Wear winter-proof cycling gloves, as the brisk wind in this shaded, forested section will freeze your hands on the handlebars very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Falca",
+                "hu": "Miradouro da Falca",
+                "ro": "Miradouro da Falca",
+                "en": "Miradouro da Falca"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den klaren Wintermorgen für fantastische Fotos; achten Sie auf Raureif auf der Straße, der in den Kurven sehr tückisch wird.",
+                "hu": "Használja ki a tiszta téli reggelt csodás fotók készítésére; figyeljen az útra fagyott dérre, amely a kanyarokban roppant trükkös lehet.",
+                "ro": "Profitați de dimineața clară de iarnă pentru fotografii; atenție la bruma de pe drum care devine foarte înșelătoare în curbe.",
+                "en": "Take advantage of the crisp winter morning for clear photos; watch out for morning frost on the road that becomes treacherous in the corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Pico Cangueiro",
+                "hu": "Pico Cangueiro",
+                "ro": "Pico Cangueiro",
+                "en": "Pico Cangueiro"
+              },
+              "tip_5lang": {
+                "de": "Der schweißtreibende Aufstieg wärmt den Körper, aber öffnen Sie Ihre Jacke nur leicht, um nicht durch die eisige Winterluft zu erkälten.",
+                "hu": "Az izzasztó mászás felmelegíti a testet, de csak enyhén nyissa ki a kabátját, nehogy a jeges téli levegőtől hirtelen megfázzon.",
+                "ro": "Urcarea obositoare vă va încălzi corpul, dar deschideți jacheta doar puțin pentru a evita răceala din cauza aerului înghețat de iarnă.",
+                "en": "The strenuous climb will definitely warm your body, but only slightly unzip your thermal jacket to avoid catching a cold in the icy air."
+              }
+            },
+            {
+              "name": {
+                "de": "Roadman’s House",
+                "hu": "Roadman’s House",
+                "ro": "Roadman’s House",
+                "en": "Roadman’s House"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie hier warmen Tee aus Ihrer Thermoskanne, bevor Sie in die kälteren, höheren Lagen des Gebirges weiterfahren.",
+                "hu": "Igyon egy kis meleg teát a termoszából ezen a ponton, mielőtt tovább indulna a hegység jóval hidegebb, szelesebb és magasabb régióiba.",
+                "ro": "Beți un ceai cald din termosul dumneavoastră aici, înainte de a continua spre zonele mai reci și mai înalte ale munților.",
+                "en": "Drink some warm tea from your thermos at this historic spot before you push onward into the significantly colder, higher mountain elevations."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabeço Gordo",
+                "hu": "Cabeço Gordo",
+                "ro": "Cabeço Gordo",
+                "en": "Cabeço Gordo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die unglaubliche Fernsicht der Wintermonate, aber ziehen Sie sofort eine winddichte Schicht über, da der Gipfelwind beißt.",
+                "hu": "Élvezze a téli hónapok hihetetlen távolsági kilátását, de azonnal húzzon fel egy szélálló réteget, mert a csúcson a szél harapós.",
+                "ro": "Bucurați-vă de vizibilitatea incredibilă a lunilor de iarnă, dar puneți imediat un strat rezistent la vânt, deoarece vântul de vârf este tăios.",
+                "en": "Enjoy the incredible long-distance visibility of winter, but immediately put on a windproof layer as the peak wind chill is extremely biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Caldeira",
+                "hu": "Miradouro da Caldeira",
+                "ro": "Miradouro da Caldeira",
+                "en": "Miradouro da Caldeira"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das goldene Licht des frühen Sonnenuntergangs; schalten Sie Ihr helles Fahrradlicht ein, da es um 17 Uhr rasch dunkel wird.",
+                "hu": "Tapasztalja meg a korai naplemente aranyfényeit; kapcsolja be az erős kerékpárlámpát, mivel délután 5 órakor nagyon gyorsan besötétedik.",
+                "ro": "Experimentați lumina aurie a apusului timpuriu; aprindeți farul puternic al bicicletei, deoarece se întunecă rapid în jur de ora 17.",
+                "en": "Experience the golden light of the early winter sunset; switch on your brightest bike lights immediately as it gets pitch dark by 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Az utazás a buja, érintetlen tájak és zöldellő erdők kényelmes felfedezésével indul. Kora délután a történelmi épületek rusztikus építészetében gyönyörködünk. A délután további része a sziget legmagasabb és leglenyűgözőbb vulkáni képződményeihez visz. Az estét a tenger felett magasodó, festői kilátópontokon fejezzük be nyugodt környezetben.",
         "ro": "Călătoria începe cu o plimbare confortabilă prin peisaje neatinse și zone forestiere verzi. La prânz explorăm arhitectura rustică a clădirilor istorice din regiune. După-amiaza ne aduce la cele mai înalte și impresionante obiective vulcanice de pe insulă. Seara se încheie la puncte de belvedere pitorești situate mult deasupra oceanului liniștit.",
         "en": "The drive starts with a comfortable tour through untouched landscapes and verdant forest areas. By midday, we explore the rustic architecture of the region's historical buildings. The afternoon brings us to the highest and most impressive volcanic destinations on the island. We conclude the evening at picturesque viewpoints high above the peaceful ocean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die regnerische Fahrt zum Queimadas mit vollen Scheibenwischern. Mittags bieten Falca und Roadman’s House kurze Fluchten in die Natur und schnell zurück ins trockene Auto. Navigieren Sie nachmittags vorsichtig zur Caldeira. Genießen Sie den dramatischen Abend vom Alto do Cabouco.",
+            "hu": "Kezdje az esős autózást a Queimadas felé gyors törlőlapátokkal. Délben a Falca és a Roadman’s House gyors természetlátogatást, majd száraz autóba bújást kínál. Délután óvatosan vezessen a csúszós utakon a Caldeirához. Élvezze a drámai estét az Alto do Cabouco-ról.",
+            "ro": "Începeți drumul ploios spre Queimadas cu ștergătoarele la maxim. La prânz, Falca și Roadman’s House oferă scurte escapade în natură și reveniri rapide în mașina uscată. Navigați cu grijă după-amiaza spre Caldeira. Bucurați-vă de seara dramatică de la Alto do Cabouco.",
+            "en": "Start your rainy drive to Pico das Queimadas with wipers on full. Midday stops at Falca and Roadman’s House offer quick dashes into nature and back to the dry car. Navigate the slippery afternoon roads to Caldeira carefully. Enjoy the dramatic, cloudy evening from Alto do Cabouco."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pico das Queimadas",
+                "hu": "Pico das Queimadas",
+                "ro": "Pico das Queimadas",
+                "en": "Pico das Queimadas"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Regenwolken über die Landschaft ziehen; parken Sie sicher, um das Auto nicht im feuchten Schlamm festzufahren.",
+                "hu": "Figyelje meg, ahogy az esőfelhők átsuhannak a tájon; parkoljon biztonságosan, hogy az autó ne akadjon el a felázott, sáros peremeken.",
+                "ro": "Urmăriți cum norii de ploaie trec peste peisaj; parcați în siguranță pentru a evita blocarea mașinii în noroiul format de ploaie.",
+                "en": "Watch the heavy rain clouds sweep dramatically across the landscape; park on solid ground so your car doesn't get stuck in the wet mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Reserva Florestal de Recreio da Falca",
+                "hu": "Reserva Florestal de Recreio da Falca",
+                "ro": "Reserva Florestal de Recreio da Falca",
+                "en": "Reserva Florestal de Recreio da Falca"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang mit Regenschirm durch den duftenden nassen Wald und wärmen Sie sich danach schnell im Auto auf.",
+                "hu": "Tegyen egy rövid sétát esernyővel az illatos, nedves erdőben, majd melegedjen fel gyorsan a kényelmes, szárazra fűtött autóban.",
+                "ro": "Faceți o scurtă plimbare cu umbrela prin pădurea umedă și parfumată, apoi încălziți-vă rapid în mașina uscată și confortabilă.",
+                "en": "Take a quick walk with an umbrella through the fragrant, wet forest, then retreat to quickly warm up inside your dry, heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Roadman’s House",
+                "hu": "Roadman’s House",
+                "ro": "Roadman’s House",
+                "en": "Roadman’s House"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie direkt vor dem historischen Gebäude an, um im Trockenen ein Foto zu schießen, ohne dem strömenden Regen ausgesetzt zu sein.",
+                "hu": "Álljon meg közvetlenül a történelmi épület előtt, hogy szárazon készíthessen egy fotót anélkül, hogy kilépne a zuhogó esőbe.",
+                "ro": "Opriți-vă direct în fața clădirii istorice pentru a face o fotografie la uscat, fără a vă expune la ploaia torențială de afară.",
+                "en": "Pull over right in front of the historic building to snap a quick photo from the dry comfort of your car, avoiding the pouring rain entirely."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabeço Gordo",
+                "hu": "Cabeço Gordo",
+                "ro": "Cabeço Gordo",
+                "en": "Cabeço Gordo"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann dichter Nebel auftreten; schalten Sie Ihre Nebelscheinwerfer ein und fahren Sie im Schritttempo zum Aussichtspunkt.",
+                "hu": "Heves esőzéskor sűrű köd ereszkedhet le; kapcsolja be a ködlámpákat, és lépésben haladjon felfelé a csúcson lévő kilátóponthoz.",
+                "ro": "În caz de ploaie puternică poate apărea ceață densă; aprindeți farurile de ceață și conduceți la viteza melcului spre punctul de belvedere.",
+                "en": "Heavy rain often brings dense, blinding fog; be absolutely sure to turn on your fog lights and drive at a crawling pace to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Caldeira",
+                "hu": "Caldeira",
+                "ro": "Caldeira",
+                "en": "Caldeira"
+              },
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet eine überdachte Sicht auf den nassen Krater; der Parkplatz ist jedoch rutschig, ziehen Sie die Handbremse fest.",
+                "hu": "A látogatóközpont fedett kilátást nyújt a nedves kráterre; a parkoló viszont nagyon csúszós lehet, húzza be erősen a kéziféket.",
+                "ro": "Centrul de vizitatori oferă o vedere acoperită asupra craterului umed; parcarea este totuși alunecoasă, trageți bine frâna de mână.",
+                "en": "The visitor area offers a sheltered view of the wet, majestic crater; the parking lot can be very slick, so pull your handbrake firmly."
+              }
+            },
+            {
+              "name": {
+                "de": "Alto do Cabouco Viewpoint",
+                "hu": "Alto do Cabouco Viewpoint",
+                "ro": "Alto do Cabouco Viewpoint",
+                "en": "Alto do Cabouco Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die dramatische, regnerische Atmosphäre von drinnen; lassen Sie die Heizung an, damit die Scheiben bei Feuchtigkeit nicht beschlagen.",
+                "hu": "Tapasztalja meg a drámai, esős atmoszférát bentről; hagyja bekapcsolva a fűtést, hogy az ablakok ne párásodjanak be a kinti nedvességtől.",
+                "ro": "Experimentați atmosfera dramatică și ploioasă din interior; lăsați încălzirea pornită pentru a preveni aburirea geamurilor de la umezeală.",
+                "en": "Experience the dramatic, stormy atmosphere from inside; keep the car heater running to prevent your windows from fogging up in the dampness."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Fahrt zum Queimadas offenbart frostige Landschaften. Mittags am Roadman’s House ist es ruhig und eiskalt, lassen Sie die Heizung laufen. Nachmittags ist die Sicht am Cabeço Gordo unschlagbar klar. Erleben Sie den frühen, goldenen Sonnenuntergang am Alto do Cabouco.",
+            "hu": "A téli autózás a Queimadas felé fagyos tájakat tár elénk. Délben a Roadman’s House-nál csendes és jéghideg az idő, járassa a fűtést. Délután a Cabeço Gordo kilátása verhetetlenül tiszta. Élvezze a korai, aranyló naplementét az Alto do Cabouco kilátóponton.",
+            "ro": "Un drum de iarnă spre Queimadas dezvăluie peisaje înghețate. La prânz, la Roadman’s House este liniște și frig, lăsați încălzirea pornită. După-amiaza, vizibilitatea la Cabeço Gordo este de neegalat. Prindeți apusul timpuriu, auriu, la Alto do Cabouco.",
+            "en": "A crisp winter morning drive to Pico das Queimadas reveals frosty landscapes. Midday at Roadman’s House is quiet and freezing, so keep the car heater running. Afternoon views at Cabeço Gordo are unbeatably clear. Catch the early, golden winter sunset at Alto do Cabouco."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pico das Queimadas",
+                "hu": "Pico das Queimadas",
+                "ro": "Pico das Queimadas",
+                "en": "Pico das Queimadas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die frostbedeckten Felder aus dem warmen Auto; achten Sie auf Glatteis an schattigen Straßenabschnitten.",
+                "hu": "Élvezze a fagyos mezők látványát a meleg autóból; különösen ügyeljen a fekete jégre az útszakasz árnyékos, fákkal védett részein.",
+                "ro": "Bucurați-vă de vederea câmpurilor înghețate din mașina caldă; atenție la gheața neagră pe porțiunile de drum umbrite.",
+                "en": "Enjoy the gorgeous view of frost-covered fields from your warm car; watch carefully for black ice on the heavily shaded sections of the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Reserva Florestal de Recreio da Falca",
+                "hu": "Reserva Florestal de Recreio da Falca",
+                "ro": "Reserva Florestal de Recreio da Falca",
+                "en": "Reserva Florestal de Recreio da Falca"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie eine Thermoskanne ein, um heißen Kaffee im Auto zu trinken, während Sie den ruhenden, winterlichen Wald von Falca bewundern.",
+                "hu": "Csomagoljon egy termoszt, hogy forró kávét kortyolhasson az autóban, miközben a csendes, pihenő téli erdőt csodálja a parkolóból.",
+                "ro": "Împachetați un termos pentru a bea cafea fierbinte în mașină în timp ce admirați pădurea de iarnă adormită de la Falca.",
+                "en": "Pack a thermos to sip hot coffee comfortably inside your vehicle while simply admiring the quiet, dormant winter forest all around you."
+              }
+            },
+            {
+              "name": {
+                "de": "Roadman’s House",
+                "hu": "Roadman’s House",
+                "ro": "Roadman’s House",
+                "en": "Roadman’s House"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Zwischenstopp, doch lassen Sie bei winterlichen Temperaturen die Jacke an, wenn Sie für ein kurzes Foto aussteigen.",
+                "hu": "Kiváló megálló, de a téli mínuszok vagy hidegek miatt tartsa magán a nagykabátot, ha kiszáll egy rövid fotó erejéig az autó mellé.",
+                "ro": "O oprire excelentă, dar păstrați jacheta pe dumneavoastră la temperaturile de iarnă dacă ieșiți pentru o scurtă fotografie.",
+                "en": "An excellent stop, but be absolutely sure to keep your thick winter coat zipped up if you step out of the car for a quick photograph."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabeço Gordo",
+                "hu": "Cabeço Gordo",
+                "ro": "Cabeço Gordo",
+                "en": "Cabeço Gordo"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist spektakulär, aber parken Sie so, dass die Frontscheibe der eisigen Höhenbrise nicht direkt ausgesetzt ist.",
+                "hu": "A téli távolsági kilátás látványos, de parkoljon úgy az autóval, hogy a szélvédő ne kapja telibe a hegyi, jeges, erős széllökéseket.",
+                "ro": "Vizibilitatea pe timp de iarnă este spectaculoasă, dar parcați astfel încât parbrizul să nu fie expus direct la briza înghețată a altitudinii.",
+                "en": "Long-distance visibility in winter is spectacular, but park your car so the windshield avoids taking the direct force of the icy mountain breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Caldeira",
+                "hu": "Caldeira",
+                "ro": "Caldeira",
+                "en": "Caldeira"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Licht für fantastische Kraterfotos; ziehen Sie sich Mütze und Handschuhe an, da es hier oben extrem kalt wird.",
+                "hu": "Használja ki a tiszta fényt csodás fotókhoz a kráternél; húzzon sapkát és kesztyűt, amint kinyitja az ajtót, mert itt fent rendkívül hideg van.",
+                "ro": "Folosiți lumina clară pentru fotografii fantastice ale craterului; puneți-vă căciulă și mănuși, deoarece devine extrem de frig aici sus.",
+                "en": "Use the crisp winter light for fantastic crater photos; immediately put on a beanie and gloves because it gets bone-chillingly cold up here."
+              }
+            },
+            {
+              "name": {
+                "de": "Alto do Cabouco Viewpoint",
+                "hu": "Alto do Cabouco Viewpoint",
+                "ro": "Alto do Cabouco Viewpoint",
+                "en": "Alto do Cabouco Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie hier rechtzeitig um 17 Uhr für den tief stehenden Sonnenuntergang; danach kühlen die Straßen rasch ab, also fahren Sie vorsichtig.",
+                "hu": "Érkezzen ide időben, 17 óra körül a naplementéhez; utána a kanyargós utak gyorsan lehűlnek, így sokkal óvatosabban kell lefelé vezetnie.",
+                "ro": "Ajungeți aici la timp la ora 17 pentru apusul soarelui; după aceea drumurile se răcesc rapid, așa că asigurați-vă că conduceți cu prudență.",
+                "en": "Arrive here promptly around 5 PM to catch the low sunset; immediately after, the mountain roads drop in temperature rapidly, so drive carefully."
+              }
+            }
+          ]
+        }
       }
     }
   }

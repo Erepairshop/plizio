@@ -137,6 +137,168 @@
         "hu": "A reggel frissítő kezdést hoz Kalamitsi nyugodt kavicsos partjain és Phure Ammos feltűnő vöröses homokján. A délidő tökéletes elvonulásra és drámai sziklákra nyíló kilátásra csábít a csendes Lorentzos strandon. Délután felfedezi a zord szépséget és a történelmi kalózmeséket, amelyek Kakia Lagkada felett keringenek. Az este kecsesen zárul a festői Limne lagúnánál, ahol a lágy tengerparti szellő tökéletesen kiegészíti a meleg naplementét.",
         "ro": "Dimineața aduce un început revigorant pe țărmurile liniștite de la Kalamitsi și nisipurile roșiatice de la Phure Ammos. Amiaza vă invită să găsiți izolarea perfectă și vederi dramatice la stânci pe plaja liniștită Lorentzos. După-amiaza veți descoperi frumusețea accidentată și poveștile istorice cu pirați din Kakia Lagkada. Seara se încheie grațios la laguna pitorească Limne, unde briza blândă de coastă completează perfect apusul cald.",
         "en": "Morning brings a refreshing start along the tranquil pebble shores of Kalamitsi and the striking reddish sands of Phure Ammos. Midday invites you to find perfect seclusion and dramatic cliffside views at the quiet Lorentzos beach. In the afternoon, you will uncover the rugged beauty and historical pirate tales echoing through Kakia Lagkada. The evening gracefully wraps up at the scenic Limne lagoon, where the gentle coastal breeze perfectly complements the warm sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit dramatischen Wellen an der Küste, während der Regen die Felsen in tiefes Grau taucht. Mittags bieten kleine Felsvorsprünge Schutz vor den Schauern, während man die raue Ägäis beobachtet. Am Nachmittag führt der Weg entlang der Lagune, wo das Wasser unter dem Regen tanzt. Der Abend endet gemütlich in einer der wetterfesten Tavernen von Agia Pelagia.",
+            "hu": "Reggel a partvidék vad, viharos arcát mutatja, az esőfüggöny mögött a sziklák sötétebbnek tűnnek. Délben a barlangok és sziklafalak alatt találunk átmeneti menedéket a záporok elől. Délután Agia Pelagia irányába haladunk, ahol a tenger és a tó vize összefolyik a szürke ég alatt. Este a falu meleg fényeiben, egy fedett teraszon, a tenger morajlását hallgatva zárjuk a napot.",
+            "ro": "Dimineața începe cu valuri dramatice pe coastă, în timp ce ploaia scaldă stâncile în nuanțe închise. La prânz, micile peșteri oferă adăpost temporar împotriva averselor trecătoare. După-amiaza continuăm spre Agia Pelagia, unde suprafața lacului vibrează sub picăturile de ploaie. Seara se încheie confortabil pe o terasă acoperită, savurând atmosfera melancolică a insulei.",
+            "en": "Morning starts with dramatic waves along the coast as rain turns the rocks into deep shades of grey. At noon, small rock overhangs provide temporary shelter from the showers while watching the wild Aegean. Afternoon leads towards Agia Pelagia, where the lake surface dances under the rainfall. Evening ends cozily in one of the weather-proof taverns, listening to the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand Kalamitsi",
+                "hu": "Kalamitsi strand",
+                "ro": "Plaja Kalamitsi",
+                "en": "Kalamitsi Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die aufpeitschende See aus sicherer Entfernung; tragen Sie unbedingt wasserfeste Wanderschuhe für die rutschigen Kieselwege.",
+                "hu": "Figyelje a tenger vad hullámait biztonságos távolságból; a csúszós kavicsos ösvények miatt mindenképpen vízálló túrabakancsot viseljen.",
+                "ro": "Observați marea agitată de la o distanță sigură; purtați neapărat încălțăminte de drumeție impermeabilă pentru potecile cu pietriș alunecos.",
+                "en": "Watch the crashing waves from a safe distance; be sure to wear waterproof hiking boots for the slippery pebbled paths along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Phure Ammos",
+                "hu": "Phure Ammos strand",
+                "ro": "Plaja Phure Ammos",
+                "en": "Phure Ammos Beach"
+              },
+              "tip_5lang": {
+                "de": "Die roten Felsen leuchten im Regen besonders intensiv; suchen Sie bei starken Güssen unter den Felsüberhängen kurzzeitig trockenen Unterschlupf.",
+                "hu": "A vörös sziklák az esőben különösen intenzíven fénylenek; heves zápor esetén a sziklaáthajlások alatt keressen rövid ideig száraz menedéket.",
+                "ro": "Stâncile roșii strălucesc intens în ploaie; în caz de averse puternice, căutați adăpost uscat sub porțiunile de stâncă suspendate.",
+                "en": "The red rocks glow intensely in the rain; seek temporary dry shelter under the rock overhangs if the downpour becomes too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Lorentzos",
+                "hu": "Lorentzos strand",
+                "ro": "Plaja Lorentzos",
+                "en": "Lorentzos Beach"
+              },
+              "tip_5lang": {
+                "de": "Der schmale Pfad kann bei Nässe schlammig sein; nutzen Sie Trekkingstöcke für besseren Halt auf dem aufgeweichten Untergrund zur Bucht.",
+                "hu": "A keskeny ösvény nedvesen sáros lehet; használjon túrabotot a jobb tapadás érdekében az öböl felé vezető felázott talajon.",
+                "ro": "Poteca îngustă poate fi noroioasă când este udă; folosiți bețe de trekking pentru o aderență mai bună pe solul moale spre golf.",
+                "en": "The narrow path can be muddy when wet; use trekking poles for better grip on the softened ground leading down to the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Kakia Lagkada",
+                "hu": "Kakia Lagkada strand",
+                "ro": "Plaja Kakia Lagkada",
+                "en": "Kakia Lagkada Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Schlucht wirkt bei bewölktem Himmel besonders mystisch; meiden Sie das Flussbett bei starkem Regen wegen plötzlich ansteigender Wassermassen.",
+                "hu": "A szurdok felhős égbolt alatt különösen misztikus; heves esőzéskor kerülje a medret a hirtelen lezúduló vízmennyiség veszélye miatt.",
+                "ro": "Cheile par deosebit de mistice sub cerul înnorat; evitați albia râului în timpul ploilor abundente din cauza viiturilor bruște.",
+                "en": "The gorge looks especially mystical under cloudy skies; avoid the riverbed during heavy rain due to the risk of sudden flash floods."
+              }
+            },
+            {
+              "name": {
+                "de": "See (Agia Pelagia)",
+                "hu": "Tó (Agia Pelagia)",
+                "ro": "Lacul (Agia Pelagia)",
+                "en": "Lake (Agia Pelagia)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See von einer nahen Cafeteria aus; ein großer Regenschirm ist für den kurzen Spaziergang am Ufer ideal.",
+                "hu": "Élvezze a tóra nyíló kilátást egy közeli kávézó ablakából; egy nagyméretű esernyő ideális a parton tett rövid sétához.",
+                "ro": "Bucurați-vă de priveliștea lacului de la o cafenea din apropiere; o umbrelă mare este ideală pentru scurta plimbare pe mal.",
+                "en": "Enjoy the view of the lake from a nearby cafeteria window; a large umbrella is ideal for a short, scenic walk along the shoreline."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Brise weht frisch vom Meer herüber, während die leeren Strände eine meditative Ruhe ausstrahlen. Mittags wärmt die tiefstehende Sonne die Wanderwege zwischen den Felsen. Am Nachmittag erreichen wir die Lagune, kurz bevor die Sonne gegen 17:00 Uhr hinter den Hügeln verschwindet. Der Abend gehört der Stille des kleinen Hafens bei einer heißen Tasse Tee.",
+            "hu": "A téli szellő frissen fúj a tenger felől, az üres strandok pedig meditatív nyugalmat árasztanak. Délben az alacsonyan járó nap kellemesen melengeti a sziklák közötti ösvényeket. Délután érjük el a lagúnát, épp mielőtt a nap 17:00 körül eltűnik a dombok mögött. Az este a kis kikötő csendjéé, egy forró tea mellett élvezve a békét.",
+            "ro": "Briza iernii suflă proaspăt dinspre mare, în timp ce plajele pustii emană o liniște meditativă. La prânz, soarele blând încălzește potecile de drumeție printre stânci. După-amiaza ajungem la lagună, chiar înainte ca soarele să dispară după dealuri în jurul orei 17:00. Seara aparține liniștii micului port, lângă o ceașcă de ceai fierbinte.",
+            "en": "The winter breeze blows fresh from the sea, while the empty beaches radiate a meditative calm. At noon, the low sun gently warms the hiking paths between the rocks. In the afternoon, we reach the lagoon just before the sun disappears behind the hills around 17:00. The evening belongs to the silence of the small harbor over a hot cup of tea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand Kalamitsi",
+                "hu": "Kalamitsi strand",
+                "ro": "Plaja Kalamitsi",
+                "en": "Kalamitsi Beach"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine fantastische Sicht; ziehen Sie sich nach dem Zwiebelprinzip an, um gegen den kühlen Seewind geschützt zu sein.",
+                "hu": "A tiszta téli levegő fantasztikus látótávolságot biztosít; öltözzön rétegesen, hogy védekezzen a hűvös tengeri szél ellen.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate fantastică; îmbrăcați-vă în straturi pentru a vă proteja de vântul răcoros al mării.",
+                "en": "The crisp winter air offers fantastic visibility; dress in layers to stay protected against the chilly sea breeze while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Phure Ammos",
+                "hu": "Phure Ammos strand",
+                "ro": "Plaja Phure Ammos",
+                "en": "Phure Ammos Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am roten Sandstrand; eine winddichte Jacke ist hier bei der kühlen Brise am Vormittag absolut notwendig.",
+                "hu": "Élvezze a magányt a vörös homokos parton; egy szélálló dzseki itt a délelőtti hűvös szélben feltétlenül szükséges.",
+                "ro": "Bucurați-vă de singurătatea plajei cu nisip roșu; o jachetă rezistentă la vânt este absolut necesară aici în briza răcoroasă a dimineții.",
+                "en": "Enjoy the solitude on the red sand beach; a windproof jacket is absolutely necessary here in the chilly morning breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Lorentzos",
+                "hu": "Lorentzos strand",
+                "ro": "Plaja Lorentzos",
+                "en": "Lorentzos Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Winter fast surreal ruhig; bringen Sie eine Thermoskanne mit einem Heißgetränk für eine kurze Pause im Sand mit.",
+                "hu": "A strand télen szinte sürreálisan csendes; hozzon magával egy termoszt forró itallal egy rövid pihenőhöz a homokban.",
+                "ro": "Plaja este suprareal de liniștită iarna; aduceți un termos cu o băutură caldă pentru o scurtă pauză pe nisip.",
+                "en": "The beach is surreally quiet in winter; bring a thermos with a hot drink for a short, warming break on the empty sands."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Kakia Lagkada",
+                "hu": "Kakia Lagkada strand",
+                "ro": "Plaja Kakia Lagkada",
+                "en": "Kakia Lagkada Beach"
+              },
+              "tip_5lang": {
+                "de": "Die kühlen Felswände strahlen im Winter eine majestätische Ruhe aus; feste Schuhe schützen vor der Kälte des steinigen Bodens.",
+                "hu": "A hűvös sziklafalak télen fenséges nyugalmat árasztanak; a masszív túracipő megvédi lábát a köves talaj hidegétől.",
+                "ro": "Pereții reci de stâncă emană o liniște maiestuoasă iarna; încălțămintea robustă vă protejează de frigul solului pietros.",
+                "en": "The cool rock walls exude majestic tranquility in winter; sturdy boots will protect your feet from the cold of the stony ground."
+              }
+            },
+            {
+              "name": {
+                "de": "See (Agia Pelagia)",
+                "hu": "Tó (Agia Pelagia)",
+                "ro": "Lacul (Agia Pelagia)",
+                "en": "Lake (Agia Pelagia)"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie winterliche Zugvögel am See; da es nach 16:30 Uhr schnell abkühlt, sollten Sie rechtzeitig eine warme Unterkunft aufsuchen.",
+                "hu": "Figyelje meg a telelő költözőmadarakat a tónál; mivel 16:30 után gyorsan hűl a levegő, időben keressen meleg menedéket.",
+                "ro": "Observați păsările migratoare pe lac; deoarece se răcește rapid după ora 16:30, căutați din timp un loc cald pentru seară.",
+                "en": "Spot wintering migratory birds at the lake; as it cools down quickly after 16:30, seek warm indoor shelter shortly after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggel a Theatro Potamou kulturális élményével kezdődik, majd a Bruse Triphullianikon történelmi bája következik. A délidő kalandot hoz, ahogy felkerékpározik Palaiokhora Kutheron drámai bizánci romjaihoz a szurdok felett. Délután az útvonal a part felé ereszkedik, hogy élvezze a Limne nyugodt vizét és a Kakia Lagkada szurdokát. Az este a Lorentzos csendes partjainál éri Önt pihenés közben.",
         "ro": "Dimineața începe cu o imersiune culturală la Theatro Potamou urmată de farmecul istoric de la Bruse Triphullianikon. Amiaza aduce aventură în timp ce pedalați pentru a explora ruinele bizantine de la Palaiokhora Kutheron. După-amiaza, traseul coboară spre coastă pentru a vă bucura de apele senine din Limne și ieșirea defileului Kakia Lagkada. Seara vă găsește relaxându-vă pe țărmurile liniștite din Lorentzos la apus.",
         "en": "Morning starts with cultural immersion at Theatro Potamou followed by the historic stone charm of Bruse Triphullianikon. Midday brings adventure as you cycle up to explore the dramatic Byzantine ruins of Palaiokhora Kutheron over the gorge. In the afternoon, the route descends toward the coast to enjoy the serene waters of Limne and the dramatic exit of Kakia Lagkada gorge. The evening finds you relaxing by the calm shores of Lorentzos as twilight approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert volle Konzentration auf den glatten Straßen von Potamos. Mittags bieten die Quellen von Triphullianikon eine erfrischende, wenn auch nasse Kulisse zwischen den Hügeln. Am Nachmittag erkunden wir die Ruinen von Palaiokhora, wo der Nebel mystisch durch die Mauern zieht. Der Abend endet nach einer vorsichtigen Abfahrt im Küstendorf.",
+            "hu": "Az esőben való kerékpározás teljes koncentrációt igényel Potamos csúszós útjain. Délben a Triphullianikon-források frissítő, bár nedves hátteret nyújtanak a dombok között. Délután Palaiokhora romjait fedezzük fel, ahol a köd misztikusan gomolyog a falak között. Az este egy óvatos leereszkedés után a parti faluban ér véget.",
+            "ro": "Ciclismul pe ploaie necesită concentrare maximă pe străzile alunecoase din Potamos. La prânz, izvoarele Triphullianikon oferă un decor revigorant, deși umed, printre dealuri. După-amiaza explorăm ruinele din Palaiokhora, unde ceața trece mistic prin ziduri. Seara se încheie în satul de coastă după o coborâre prudentă.",
+            "en": "Cycling in the rain requires full concentration on the slippery roads of Potamos. At noon, the Triphullianikon springs offer a refreshing, albeit wet, backdrop among the hills. In the afternoon, we explore the ruins of Palaiokhora, where mist moves mystically through the walls. The evening ends in the coastal village after a careful descent."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Theater Potamos",
+                "hu": "Potamos Színház",
+                "ro": "Teatrul Potamos",
+                "en": "Potamos Theater"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstufen sind bei Regen extrem glatt; lassen Sie beim Umherwandern Vorsicht walten und prüfen Sie Ihre Bremsen vor der Abfahrt.",
+                "hu": "A kőlépcsők esőben rendkívül csúszósak; legyen óvatos a sétánál, és indulás előtt mindenképpen ellenőrizze a kerékpár fékeit.",
+                "ro": "Treptele de piatră sunt extrem de alunecoase pe ploaie; aveți grijă când vă plimbați și verificați frânele înainte de plecare.",
+                "en": "The stone steps are extremely slippery in the rain; exercise caution while walking around and check your brakes before the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Quelle Triphullianikon",
+                "hu": "Triphullianikon-forrás",
+                "ro": "Izvorul Triphullianikon",
+                "en": "Triphullianikon Spring"
+              },
+              "tip_5lang": {
+                "de": "Das fließende Wasser vermischt sich mit dem Regen; ein kurzer Stopp reicht aus, da der Boden um die Quelle herum schlammig sein kann.",
+                "hu": "A csordogáló víz elvegyül az esővel; egy rövid megálló elég, mivel a forrás körüli talaj ilyenkor sáros és ingoványos lehet.",
+                "ro": "Apa curgătoare se amestecă cu ploaia; o oprire scurtă este suficientă, deoarece solul din jurul izvorului poate fi noroios.",
+                "en": "The flowing water blends with the rain; a short stop is sufficient as the ground around the spring can become quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhora Kythera",
+                "hu": "Küthéra Palaiokhora",
+                "ro": "Palaiokhora Kythira",
+                "en": "Palaiokhora of Kythira"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im Regen besonders geheimnisvoll; meiden Sie steile, unbefestigte Pfade mit dem Rad und bleiben Sie auf den Hauptwegen.",
+                "hu": "A romok esőben különösen titokzatosak; kerülje a meredek, fövenyes ösvényeket a biciklivel, és maradjon a kijelölt főutakon.",
+                "ro": "Ruinele par misterioase în ploaie; evitați potecile abrupte neasfaltate cu bicicleta și rămâneți pe drumurile principale.",
+                "en": "The ruins look particularly mysterious in the rain; avoid steep, unpaved paths with your bike and stick to the main trails."
+              }
+            },
+            {
+              "name": {
+                "de": "See (Agia Pelagia)",
+                "hu": "Tó (Agia Pelagia)",
+                "ro": "Lacul (Agia Pelagia)",
+                "en": "Lake (Agia Pelagia)"
+              },
+              "tip_5lang": {
+                "de": "Die Asphaltstraße am See ist bei Nässe tückisch; tragen Sie eine helle Regenjacke, um für Autofahrer bei trübem Wetter sichtbar zu sein.",
+                "hu": "A tó melletti aszfaltút nedvesen csalóka; viseljen feltűnő esőkabátot, hogy a ködös időben is látható maradjon az autósok számára.",
+                "ro": "Drumul asfaltat de lângă lac este înșelător pe ploaie; purtați o jachetă reflectorizantă pentru a fi vizibil șoferilor pe vreme gri.",
+                "en": "The asphalt road by the lake is treacherous when wet; wear a bright raincoat to stay visible to drivers in the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Kakia Lagkada",
+                "hu": "Kakia Lagkada strand",
+                "ro": "Plaja Kakia Lagkada",
+                "en": "Kakia Lagkada Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Wind weht hier oft stark gegen die Fahrtrichtung; nutzen Sie den niedrigen Gang, um gegen Böen und den Regen anzukommen.",
+                "hu": "A szél itt gyakran erősen szembe fúj; használjon alacsony sebességfokozatot, hogy hatékonyan küzdjön a széllökések és az eső ellen.",
+                "ro": "Vântul suflă adesea puternic din față aici; folosiți o treaptă inferioară pentru a înainta împotriva rafalelor și a ploii.",
+                "en": "The wind often blows strongly against you here; use a low gear to pedal effectively against the gusts and the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Lorentzos",
+                "hu": "Lorentzos strand",
+                "ro": "Plaja Lorentzos",
+                "en": "Lorentzos Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt spritzt bei Regen hoch auf die Straße; reinigen Sie Ihre Fahrradkette nach der Tour vom salzigen Spritzwasser.",
+                "hu": "A permet ilyenkor magasan felcsap az útra; a túra után mindenképpen tisztítsa meg a bicikli láncát a sós permettől.",
+                "ro": "Stropii de mare ajung până pe drum; curățați lanțul bicicletei după tură pentru a îndepărta apa sărată corozivă.",
+                "en": "The sea spray can reach high onto the road; be sure to clean your bike chain after the tour to remove the salty residue."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Winterluft macht die Anstiege rund um Potamos deutlich angenehmer als im Sommer. Mittags reflektiert das klare Wasser der Quellen das sanfte Licht der Januarsonne. Am Nachmittag erkunden wir Palaiokhora, dessen Geschichte in der winterlichen Stille noch greifbarer wird. Bevor die Dämmerung um 17:00 Uhr einsetzt, erreichen wir die Küste für einen letzten Blick aufs Meer.",
+            "hu": "A hűvös téli levegő sokkal kellemesebbé teszi a Potamos körüli emelkedőket, mint nyáron. Délben a források tiszta vize visszatükrözi a januári nap gyenge fényét. Délután Palaiokhorát fedezzük fel, ahol a történelem a téli csendben még kézzelfoghatóbb. Mielőtt 17:00 körül beállna az alkonyat, elérjük a partot egy utolsó pillantásra.",
+            "ro": "Aerul rece de iarnă face urcările din jurul satului Potamos mult mai plăcute decât vara. La prânz, apa limpede a izvoarelor reflectă lumina blândă a soarelui de ianuarie. După-amiaza explorăm Palaiokhora, a cărei istorie devine și mai palpabilă în liniștea iernii. Înainte de amurgul de la ora 17:00, ajungem la coastă pentru o ultimă privire.",
+            "en": "The cool winter air makes the climbs around Potamos much more pleasant than in summer. At noon, the clear spring water reflects the soft light of the January sun. In the afternoon, we explore Palaiokhora, where history feels even more tangible in the winter silence. Before dusk sets in around 17:00, we reach the coast for a final view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Theater Potamos",
+                "hu": "Potamos Színház",
+                "ro": "Teatrul Potamos",
+                "en": "Potamos Theater"
+              },
+              "tip_5lang": {
+                "de": "Der Wind pfeift im Winter oft durch die Sitzreihen; tragen Sie ein Stirnband unter dem Helm, um Ihre Ohren vor der Kälte zu schützen.",
+                "hu": "A szél télen gyakran átfütyül a széksorok között; viseljen fülvédőt vagy vékony sapkát a sisak alatt a hideg elleni védekezésül.",
+                "ro": "Vântul suflă adesea prin rândurile de scaune iarna; purtați o bandană sub cască pentru a vă proteja urechile de frig.",
+                "en": "The winter wind often whistles through the stone seats; wear a headband or thin cap under your helmet to protect your ears from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Quelle Triphullianikon",
+                "hu": "Triphullianikon-forrás",
+                "ro": "Izvorul Triphullianikon",
+                "en": "Triphullianikon Spring"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist auch im Winter herrlich erfrischend; halten Sie den Stopp kurz, damit Ihr Körper durch das Schwitzen nicht auskühlt.",
+                "hu": "A víz télen is kellemesen frissítő; tartsa röviden a pihenőt, hogy a megizzadt test ne hűljön ki a hűvös erdei környezetben.",
+                "ro": "Apa este minunat de revigorantă chiar și iarna; faceți o oprire scurtă pentru ca organismul să nu se răcească din cauza transpirației.",
+                "en": "The spring water is wonderfully refreshing even in winter; keep the stop brief so your body doesn't cool down too much after the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhora Kythera",
+                "hu": "Küthéra Palaiokhora",
+                "ro": "Palaiokhora Kythira",
+                "en": "Palaiokhora of Kythira"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft lange Schatten auf die Ruinen; planen Sie Ihren Besuch so, dass Sie vor 16:00 Uhr wieder abfahren.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat vet a romokra; úgy tervezze a látogatást, hogy legkésőbb 16:00 órakor induljon tovább.",
+                "ro": "Soarele jos aruncă umbre lungi asupra ruinelor; planificați-vă vizita astfel încât să plecați cel târziu la ora 16:00.",
+                "en": "The low sun casts long, dramatic shadows over the ruins; plan your visit to depart by 16:00 at the latest to avoid the early dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "See (Agia Pelagia)",
+                "hu": "Tó (Agia Pelagia)",
+                "ro": "Lacul (Agia Pelagia)",
+                "en": "Lake (Agia Pelagia)"
+              },
+              "tip_5lang": {
+                "de": "Die Luft am See ist feucht und kühl; Handschuhe mit gutem Grip sind für die Abfahrt zur Küste hinunter sehr empfehlenswert.",
+                "hu": "A tó környékén a levegő párás és hűvös; a parti leereszkedéshez nagyon ajánlott egy jó tapadást biztosító, meleg kesztyű.",
+                "ro": "Aerul de lângă lac este umed și rece; mănușile cu aderență bună sunt foarte recomandate pentru coborârea spre coastă.",
+                "en": "The air near the lake is damp and chilly; gloves with good grip are highly recommended for the long descent down to the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Kakia Lagkada",
+                "hu": "Kakia Lagkada strand",
+                "ro": "Plaja Kakia Lagkada",
+                "en": "Kakia Lagkada Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer und friedlich; nutzen Sie das Restlicht für Fotos, bevor die Sonne endgültig verschwindet.",
+                "hu": "A strand télen teljesen néptelen és békés; használja ki a maradék fényt a fotózáshoz, mielőtt a nap végleg eltűnik.",
+                "ro": "Plaja este pustie și liniștită iarna; profitați de lumina rămasă pentru fotografii înainte ca soarele să apună definitiv.",
+                "en": "The beach is completely deserted and peaceful in winter; make the most of the remaining light for photos before the sun sets."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Lorentzos",
+                "hu": "Lorentzos strand",
+                "ro": "Plaja Lorentzos",
+                "en": "Lorentzos Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Temperatur sinkt am späten Nachmittag spürbar; treten Sie kräftig in die Pedale, um den Körper für das letzte Stück warm zu halten.",
+                "hu": "A hőmérséklet késő délután érezhetően visszaesik; tekerjen tempósabban, hogy testhőmérsékletét megőrizze az utolsó szakaszon.",
+                "ro": "Temperatura scade vizibil la sfârșitul după-amiezii; pedalați mai energic pentru a vă menține corpul cald pe ultima porțiune.",
+                "en": "Temperatures drop noticeably in the late afternoon; pedal more vigorously to keep your body warm during the final stretch of the day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A reggel a messzi északra viszi, hogy felfedezze az Agios Georgios erődöt, mielőtt megpihen Agia Patrikia halászhajóinál. A délidő tökéletes a napsütötte pihenésre Agia Pelagia népszerű partjain és Phure Ammos vörös kavicsainál. Délután elmélyül a történelemben a romos bizánci főváros, Palaiokhora és Bruse csendes kövei között. Az este elegánsan zárul Potamosban, ahol a szabadtéri színháznál szívhatja magába a helyi kultúrát.",
         "ro": "Dimineața vă duce în nordul îndepărtat pentru a explora impunătorul Castel Agios Georgios înainte de a vă relaxa lângă bărcile de la Agia Patrikia. Amiaza este perfectă pentru relaxare pe plajele populare din Agia Pelagia și la pietricelele roșii din Phure Ammos. După-amiaza vă veți cufunda în istoria profundă explorând capitala bizantină Palaiokhora și pietrele liniștite din Bruse. Seara se încheie elegant în Potamos cu teatrul în aer liber.",
         "en": "The morning takes you to the far north to explore the commanding Castle of Agios Georgios before unwinding by the fishing boats of Agia Patrikia. Midday is perfect for sun-soaked relaxation along the popular shores of Agia Pelagia and the unique red pebbles of Phure Ammos. In the afternoon, you will dive into deep history exploring the ruined Byzantine capital of Palaiokhora and the quiet stones of Bruse. The evening elegantly concludes in Potamos, absorbing the local culture at the open-air theater."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Schutz des Autos lassen sich die Burgruinen und die raue Küste Kythiras auch bei Regen entspannt erkunden. Mittags führt die Fahrt vorbei an grauen Stränden, die eine ganz eigene, herbe Schönheit besitzen. Am Nachmittag bietet das Innere des Fahrzeugs Wärme, während wir die Palaiokhora-Ruinen besichtigen. Der Tag endet im malerischen Potamos bei einem warmen Abendessen in einer Taverne.",
+            "hu": "Az autó oltalmából Kythira várai és vad partvidéke esőben is kényelmesen felfedezhető. Délben szürke, de különlegesen szép strandok mellett haladunk el, ahol a hullámok az útig felcsapnak. Délután a kocsi melegéből csodáljuk Palaiokhora romjait a ködös tájban. A nap a festői Potamosban zárul, egy ízletes, meleg vacsora mellett egy hagyományos tavernban.",
+            "ro": "Din confortul mașinii, castelele și coasta sălbatică a insulei pot fi explorate relaxat chiar și pe ploaie. La prânz, drumul trece pe lângă plaje gri care au o frumusețe austeră aparte. După-amiaza, interiorul vehiculului oferă căldură în timp ce vizităm ruinele din Palaiokhora. Ziua se încheie în satul Potamos cu o cină caldă într-o tavernă locală.",
+            "en": "From the comfort of the car, Kythira's castles and wild coastline can be explored relaxedly even in the rain. At noon, the drive passes grey beaches that possess a unique, rugged beauty. In the afternoon, the vehicle provides warmth as we visit the Palaiokhora ruins. The day ends in picturesque Potamos with a warm dinner in a cozy local tavern."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg des Agios Georgios von Kolokythia",
+                "hu": "Kolokythia-i Agios Georgios vára",
+                "ro": "Castelul Agios Georgios din Kolokythia",
+                "en": "Castle of Agios Georgios of Kolokythia"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; der Weg oben ist bei Regen sehr windanfällig, halten Sie Ihren Regenschirm gut fest.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a fenti ösvény esőben nagyon szeles, ezért erősen fogja az esernyőjét.",
+                "ro": "Parcați cât mai aproape de intrare; poteca de sus este foarte expusă vântului pe ploaie, țineți bine umbrela.",
+                "en": "Park as close to the entrance as possible; the path at the top is very windy during rain, so hold onto your umbrella tightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Agia Patrikia",
+                "hu": "Agia Patrikia",
+                "ro": "Agia Patrikia",
+                "en": "Agia Patrikia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den kleinen Hafen direkt aus dem Auto; die Fischerboote bieten im Regen ein fotogenes Motiv.",
+                "hu": "Élvezze a kis kikötőre nyíló kilátást közvetlenül az autóból; a halászhajók az esőben is nagyon hálás fotótémát nyújtanak.",
+                "ro": "Bucurați-vă de priveliștea micului port direct din mașină; bărcile de pescuit oferă un subiect foto pitoresc chiar și pe ploaie.",
+                "en": "Enjoy the view of the small harbor directly from your car; the fishing boats provide a very photogenic subject even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Agia Pelagia",
+                "hu": "Agia Pelagia strand",
+                "ro": "Plaja Agia Pelagia",
+                "en": "Agia Pelagia Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Uferpromenade ist gut befahrbar; parken Sie in der Nähe eines Cafés, um die stürmische See bei einem Kaffee zu beobachten.",
+                "hu": "A tengerparti sétány autóval is jól megközelíthető; parkoljon egy kávézó közelében, és figyelje a viharos tengert egy kávé mellől.",
+                "ro": "Promenada este ușor accesibilă cu mașina; parcați lângă o cafenea pentru a observa marea agitată la o cafea caldă.",
+                "en": "The seafront promenade is easily accessible by car; park near a café to watch the stormy sea while enjoying a hot coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Phure Ammos",
+                "hu": "Phure Ammos strand",
+                "ro": "Plaja Phure Ammos",
+                "en": "Phure Ammos Beach"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße zur Bucht kann rutschig sein; fahren Sie vorsichtig und meiden Sie bei starkem Regen unbefestigte Seitenstreifen.",
+                "hu": "Az öbölhöz vezető keskeny út csúszós lehet; vezessen óvatosan, és heves esőzéskor kerülje a burkolatlan útpadkát.",
+                "ro": "Drumul îngust spre golf poate fi alunecos; conduceți cu prudență și evitați acostamentele neasfaltate în timpul ploii abundente.",
+                "en": "The narrow road to the bay can be slippery; drive carefully and avoid unpaved road edges during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhora Kythera",
+                "hu": "Küthéra Palaiokhora",
+                "ro": "Palaiokhora Kythira",
+                "en": "Palaiokhora of Kythira"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie bereits eine gute Sicht auf die Ruinen; feste Schuhe sind für den kurzen Gang durch den nassen Boden nötig.",
+                "hu": "A parkolóból is jó kilátás nyílik a romokra; a nedves talajon tett rövid sétához mindenképpen vízálló cipőre lesz szüksége.",
+                "ro": "Aveți o vedere bună asupra ruinelor chiar din parcare; încălțămintea impermeabilă este necesară pentru scurta plimbare pe solul ud.",
+                "en": "You have a great view of the ruins even from the parking area; waterproof shoes are needed for the short walk on wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Quelle Triphullianikon",
+                "hu": "Triphullianikon-forrás",
+                "ro": "Izvorul Triphullianikon",
+                "en": "Triphullianikon Spring"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp ist hier ideal; die Quellen sind nur wenige Schritte von der Straße entfernt, so dass Sie kaum nass werden.",
+                "hu": "Egy gyors megálló itt ideális; a források csak néhány lépésre vannak az úttól, így alig lesz vizes a rövid látogatás alatt.",
+                "ro": "O oprire rapidă este ideală aici; izvoarele sunt la doar câțiva pași de drum, astfel încât nu vă veți uda prea tare.",
+                "en": "A quick stop is ideal here; the springs are just a few steps from the road, so you'll barely get wet during the short visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater Potamos",
+                "hu": "Potamos Színház",
+                "ro": "Teatrul Potamos",
+                "en": "Theater Potamos"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie bei der Anfahrt das Abblendlicht ein; das Theater liegt in einer Senke, in der sich bei Regen oft Nebel sammelt.",
+                "hu": "Érkezéskor kapcsolja be a tompított fényszórót; a színház egy mélyedésben fekszik, ahol esőben gyakran megül a köd.",
+                "ro": "Aprindeți faza scurtă la sosire; teatrul este situat într-o depresiune unde ceața se adună adesea în timpul ploii.",
+                "en": "Turn on your low beams upon arrival; the theater is located in a hollow where mist often collects during rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Inseltour bietet klare Sichtweiten und menschenleere Panoramapunkte. Mittags glitzert die Adria im sanften Sonnenlicht, während wir entlang der Küstenstraßen gleiten. Am Nachmittag taucht die tiefstehende Sonne die Ruinen von Palaiokhora in ein goldenes Licht, bevor es kühl wird. Der Abend endet in der lebendigen Atmosphäre von Potamos, dem Winterzentrum der Insel.",
+            "hu": "A téli szigettúra tiszta kilátást és néptelen panorámapontokat kínál. Délben az Adria csillog a lágy napsütésben, miközben a parti utakon suhanunk. Délután az alacsonyan járó nap arany fénybe vonja Palaiokhora romjait, mielőtt a levegő lehűlne. Az este Potamos élénkebb hangulatában zárul, amely télen is a sziget egyik központi helyszíne.",
+            "ro": "Turul insulei pe timp de iarnă oferă vederi clare și puncte panoramice pustii. La prânz, Adriatica sclipeste în lumina blândă a soarelui în timp ce parcurgem drumurile de coastă. După-amiaza, soarele jos scaldă ruinele din Palaiokhora într-o lumină aurie înainte de a se răci. Seara se încheie în atmosfera animată din Potamos.",
+            "en": "The winter island tour offers clear views and deserted panoramic spots. At noon, the sea glitters in the soft sunlight as we glide along the coastal roads. In the afternoon, the low sun bathes the ruins of Palaiokhora in golden light before the air cools down. The evening ends in the lively atmosphere of Potamos, the island's winter hub."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg des Agios Georgios von Kolokythia",
+                "hu": "Kolokythia-i Agios Georgios vára",
+                "ro": "Castelul Agios Georgios din Kolokythia",
+                "en": "Castle of Agios Georgios of Kolokythia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die fantastische Fernsicht im Winter; eine warme Jacke schützt vor dem beißenden Wind auf den Burgmauern.",
+                "hu": "Használja ki a téli fantasztikus távoli kilátást; egy meleg kabát megvédi a várfalakon fújó csípős szél ellen.",
+                "ro": "Profitați de vizibilitatea fantastică la distanță iarna; o jachetă groasă vă va proteja de vântul tăios de pe zidurile castelului.",
+                "en": "Take advantage of the fantastic long-distance visibility in winter; a warm jacket will protect you from the biting wind on the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Agia Patrikia",
+                "hu": "Agia Patrikia",
+                "ro": "Agia Patrikia",
+                "en": "Agia Patrikia"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe im Hafen ist im Winter absolut magisch; parken Sie direkt am Wasser und genießen Sie die Stille bei geöffnetem Fenster.",
+                "hu": "A kikötői nyugalom télen teljesen varázslatos; parkoljon közvetlenül a vízparton, és élvezze a csendet egy pillanatra lehúzott ablaknál.",
+                "ro": "Liniștea din port este absolut magică iarna; parcați direct lângă apă și bucurați-vă de liniște cu geamul întredeschis.",
+                "en": "The peace in the harbor is absolutely magical in winter; park right by the water and enjoy the silence for a moment with the window down."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Agia Pelagia",
+                "hu": "Agia Pelagia strand",
+                "ro": "Plaja Agia Pelagia",
+                "en": "Agia Pelagia Beach"
+              },
+              "tip_5lang": {
+                "de": "Viele Cafés haben im Winter eingeschränkte Öffnungszeiten; prüfen Sie vorher, welcher Ort für eine warme Pause am Meer offen ist.",
+                "hu": "Sok kávézó télen korlátozott nyitvatartással üzemel; előre tájékozódjon, melyik hely van nyitva egy meleg tengerparti pihenőhöz.",
+                "ro": "Multe cafenele au program redus iarna; verificați din timp care local este deschis pentru o pauză caldă la malul mării.",
+                "en": "Many cafés have limited opening hours in winter; check in advance which places are open for a warm break by the seaside."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Phure Ammos",
+                "hu": "Phure Ammos strand",
+                "ro": "Plaja Phure Ammos",
+                "en": "Phure Ammos Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt ist im Winter oft einsam; stellen Sie sicher, dass Ihr Tank voll ist, da Tankstellen außerhalb der Hauptorte seltener sind.",
+                "hu": "A behajtó út télen gyakran teljesen néptelen; győződjön meg róla, hogy elég üzemanyaga van, mert a falvakon kívül ritkábbak a kutak.",
+                "ro": "Accesul este adesea pustiu iarna; asigurați-vă că aveți rezervorul plin, deoarece benzinăriile sunt rare în afara localităților mari.",
+                "en": "The access road is often deserted in winter; ensure your tank is full as gas stations are less frequent outside the main villages."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhora Kythera",
+                "hu": "Küthéra Palaiokhora",
+                "ro": "Palaiokhora Kythira",
+                "en": "Palaiokhora of Kythira"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch für den frühen Nachmittag; nach Sonnenuntergang um 17:00 Uhr kühlt die historische Stätte extrem schnell ab.",
+                "hu": "A látogatást kora délutánra tervezze; a naplemente után (17:00) a történelmi helyszín hőmérséklete rendkívül gyorsan lecsökken.",
+                "ro": "Planificați vizita pentru începutul după-amiezii; după apusul soarelui la ora 17:00, situl istoric se răcește extrem de repede.",
+                "en": "Plan your visit for early afternoon; after sunset at 17:00, the historic site cools down extremely quickly, so dress accordingly."
+              }
+            },
+            {
+              "name": {
+                "de": "Quelle Triphullianikon",
+                "hu": "Triphullianikon-forrás",
+                "ro": "Izvorul Triphullianikon",
+                "en": "Triphullianikon Spring"
+              },
+              "tip_5lang": {
+                "de": "Die Umgebung der Quelle wirkt im Winter wie ein Märchenwald; ein kurzer Spaziergang bringt den Kreislauf nach der Fahrt wieder in Schwung.",
+                "hu": "A forrás környéke télen olyan, mint egy tündérerdő; egy rövid séta a friss levegőn jól felpezsdíti a vérkeringést az út után.",
+                "ro": "Zona din jurul izvorului pare o pădure de basm iarna; o scurtă plimbare vă va revigora circulația după timpul petrecut în mașină.",
+                "en": "The area around the spring looks like a fairy-tale forest in winter; a short walk will boost your circulation after the long drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater Potamos",
+                "hu": "Potamos Színház",
+                "ro": "Teatrul Potamos",
+                "en": "Theater Potamos"
+              },
+              "tip_5lang": {
+                "de": "Kombinieren Sie den Besuch mit einem Bummel durch Potamos; dort finden Sie im Winter geöffnete Läden und gemütliche Wärme.",
+                "hu": "Kombinálja a látogatást egy sétával Potamosban; ott télen is nyitva tartó üzleteket és barátságos, meleg vendéglőket talál.",
+                "ro": "Combinați vizita cu o plimbare prin Potamos; acolo veți găsi magazine deschise și localuri primitoare chiar și în timpul iernii.",
+                "en": "Combine the visit with a stroll through Potamos village; you'll find open shops and cozy taverns there even during the winter months."
+              }
+            }
+          ]
+        }
       }
     }
   }

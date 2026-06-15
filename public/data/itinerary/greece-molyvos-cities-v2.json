@@ -137,6 +137,168 @@
         "hu": "Egy reggeli séta Molyvosban feltárja a mély történelmi gyökereket, kezdve a partvédelemmel és a közigazgatás épületeivel. Délben a lenyűgöző oszmán örökséget fedezhetjük fel. A délután a hegyen álló fenséges várkastély felfedezésének van szentelve. Végül az este a nyüzsgő kikötőben ér véget, amely tökéletes hely a pihenésre a felfedezésekkel teli nap után.",
         "ro": "O plimbare matinală prin Molyvos dezvăluie rădăcinile sale istorice, începând cu apărarea de coastă. La prânz, veți descoperi fascinanta moștenire otomană a orașului. După-amiaza este dedicată explorării maiestuosului castel așezat pe deal. În cele din urmă, seara se încheie la portul plin de viață, perfect pentru a vă relaxa după o zi plină de descoperiri uimitoare.",
         "en": "A morning stroll through Molyvos reveals its deep historical roots, starting with coastal defenses and administrative elegance. Midday brings you to the fascinating Ottoman heritage. The afternoon is dedicated to exploring the majestic castle perched on the hill. Finally, the evening settles down at the vibrant harbor, perfect for relaxing after a day of discovery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Hafen, wo der Regen den Salzgeruch des Meeres intensiviert. Mittags bietet das Osmanische Bademuseum einen trockenen, stimmungsvollen Zufluchtsort. Am Nachmittag bieten die nassen Mauern der Burg einen nebligen, fast filmischen Blick über das Dorf. Beenden Sie den Tag und beobachten Sie, wie die Lichter auf dem regennassen Kopfsteinpflaster tanzen.",
+            "hu": "Kezdje a reggelt a kikötőben, ahol az eső felerősíti a tenger sós illatát. Délben az Oszmán Fürdőmúzeum száraz, hangulatos menedéket nyújt a helyi történelem felfedezéséhez. Délután a vár vizes mellvédjei ködös, filmszerű kilátást kínálnak a falura. Zárja a napot a szűk utcák esőtől csillogó macskakövein táncoló utcai lámpák fényében.",
+            "ro": "Începeți dimineața în port, unde ploaia intensifică mirosul sărat al mării. La prânz, Muzeul Băilor Otomane oferă un sanctuar uscat și atmosferic. După-amiaza, zidurile umede ale castelului oferă vederi cețoase, aproape cinematografice, asupra satului. Încheiați ziua urmărind luminile străzii dansând pe pavajul lucios de ploaie al ulițelor înguste.",
+            "en": "Start your morning at the harbor where the rain intensifies the scent of salt. By noon, the Ottoman Bath Museum offers a dry, atmospheric sanctuary to explore local history. In the afternoon, the castle's wet ramparts offer misty, cinematic views over the village. End your day watching the streetlights dance on the rain-slicked cobblestones of the narrow alleys."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lesbische Kanone",
+                "hu": "Leszboszi ágyú",
+                "ro": "Tunul din Lesbos",
+                "en": "Lesbian canon"
+              },
+              "tip_4lang": {
+                "de": "Die Bronzekanone glänzt im Regen; halten Sie Ihren Regenschirm wegen der starken Meeresböen fest, während Sie die graue Ägäis beobachten.",
+                "hu": "A bronzágyú csillog az esőben; tartsa erősen az esernyőjét az erős tengeri széllökések miatt, miközben a szürke Égei-tengert figyeli.",
+                "ro": "Tunul de bronz strălucește în ploaie; țineți umbrela strâns din cauza rafalelor puternice de vânt în timp ce priviți Marea Egee cenușie.",
+                "en": "The bronze cannon glistens in the rain; hold your umbrella tight due to strong sea gusts while watching the grey Aegean waters."
+              }
+            },
+            {
+              "name": {
+                "de": "Demarkheio",
+                "hu": "Demarkheio",
+                "ro": "Demarkheio",
+                "en": "Demarkheio"
+              },
+              "tip_4lang": {
+                "de": "Das historische Gebäude wirkt bei Regen besonders würdevoll; nutzen Sie den Dachüberstand für eine kurze Pause vor dem Aufstieg.",
+                "hu": "A történelmi épület esőben különösen méltóságteljesnek tűnik; használja az eresz alatti részt egy rövid pihenőre a felfelé menet előtt.",
+                "ro": "Clădirea istorică pare deosebit de demnă în ploaie; folosiți streașina pentru o scurtă pauză înainte de a continua urcușul.",
+                "en": "The historical building looks especially dignified in the rain; use the eaves for a quick break before continuing your uphill climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Osmanisches Bademuseum",
+                "hu": "Oszmán Fürdőmúzeum",
+                "ro": "Muzeul Băilor Otomane",
+                "en": "Ottoman Bath Museum"
+              },
+              "tip_4lang": {
+                "de": "Der ideale Rückzugsort bei Regen; bewundern Sie die Innenarchitektur und die Heizsysteme, während es draußen auf die Kuppeln trommelt.",
+                "hu": "Ideális búvóhely esőben; csodálja meg a belső építészetet és a fűtési rendszereket, miközben odakint az eső kopog a kupolákon.",
+                "ro": "Refugiul ideal pe timp de ploaie; admirați arhitectura interioară și sistemele de încălzire în timp ce ploaia bate în cupolele de afară.",
+                "en": "The ideal retreat during rain; admire the interior architecture and heating systems while the rain drums on the domes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Mithymna",
+                "hu": "Mithymna vára",
+                "ro": "Castelul din Mithymna",
+                "en": "Castle of Mithymna"
+              },
+              "tip_4lang": {
+                "de": "Die Steine sind bei Nässe sehr rutschig; tragen Sie Schuhe mit gutem Profil, um die Zinnen sicher im Nebel zu erkunden.",
+                "hu": "A kövek vizesen nagyon csúszósak; viseljen tapadós talpú cipőt, hogy biztonságosan felfedezhesse a várfalakat a ködben.",
+                "ro": "Pietrele sunt foarte alunecoase când sunt ude; purtați încălțăminte cu aderență bună pentru a explora zidurile în siguranță prin ceață.",
+                "en": "The stones are very slippery when wet; wear shoes with good grip to explore the battlements safely through the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Molivos",
+                "hu": "Molivos",
+                "ro": "Molivos",
+                "en": "Molivos"
+              },
+              "tip_4lang": {
+                "de": "Die Lichter des Hafens spiegeln sich wunderschön in den Pfützen; genießen Sie die ruhige, nasse Atmosphäre unter einem Vordach.",
+                "hu": "A kikötő fényei gyönyörűen tükröződnek a tócsákban; élvezze a csendes, vizes atmoszférát egy védett előtető alól.",
+                "ro": "Luminile portului se reflectă frumos în bălți; bucurați-vă de atmosfera liniștită și umedă de sub o copertină protectoare.",
+                "en": "The harbor lights reflect beautifully in the puddles; enjoy the quiet, wet atmosphere from under a protective awning."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die frische Winterluft am menschenleeren Hafen. Mittags wärmt die tiefstehende Sonne die alten Steinmauern des Bademuseums auf angenehme Weise. Am Nachmittag taucht das goldene Licht vor dem frühen Sonnenuntergang um 17:00 Uhr die Burg in warme Farben. Der Abend gehört der Ruhe des Dorfes, wenn der Duft von Holzfeuer durch die Gassen zieht.",
+            "hu": "Élvezze a friss téli levegőt a néptelen kikötőben. Délben az alacsonyan járó nap kellemesen melengeti a Fürdőmúzeum régi kőfalait. Délután az aranyfények a korai, 17:00-ás naplemente előtt meleg színekbe öltöztetik a várat. Az este a falu nyugalmáé, amikor a fatüzelésű kályhák illata száll a szűk utcákban.",
+            "ro": "Bucurați-vă de aerul proaspăt de iarnă în portul pustiu. La prânz, soarele blând încălzește plăcut zidurile vechi de piatră ale muzeului. După-amiaza, lumina aurie de dinaintea apusului devreme de la ora 17:00 îmbracă castelul în culori calde. Seara aparține liniștii satului, când mirosul de lemne arse plutește pe ulițe.",
+            "en": "Enjoy the crisp winter air at the deserted harbor. At noon, the low sun pleasantly warms the old stone walls of the bath museum. In the afternoon, golden light bathes the castle in warm hues before the early 17:00 sunset. The evening belongs to the village's peace, as the scent of woodsmoke drifts through the alleys."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lesbische Kanone",
+                "hu": "Leszboszi ágyú",
+                "ro": "Tunul din Lesbos",
+                "en": "Lesbian canon"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne sorgt für klare Sicht bis zur türkischen Küste; ziehen Sie eine winddichte Jacke gegen die kühle Meeresbrise an.",
+                "hu": "A téli nap tiszta kilátást biztosít a török partokig; vegyen fel szélálló dzsekit a hűvös tengeri szellő ellen.",
+                "ro": "Soarele de iarnă oferă o vizibilitate clară până la coasta turcească; purtați o jachetă rezistentă la vânt împotriva brizelor reci.",
+                "en": "The winter sun provides clear views to the Turkish coast; wear a windproof jacket against the chilly sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Demarkheio",
+                "hu": "Demarkheio",
+                "ro": "Demarkheio",
+                "en": "Demarkheio"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie die Architektur ohne die sommerlichen Menschenmassen; die tiefstehende Sonne wirft lange, dramatische Schatten auf den Platz.",
+                "hu": "Csodálja meg az építészetet a nyári tömeg nélkül; az alacsonyan járó nap hosszú, drámai árnyékokat vet a térre.",
+                "ro": "Admirați arhitectura fără aglomerația de vară; soarele jos aruncă umbre lungi și dramatice peste piața liniștită.",
+                "en": "Admire the architecture without the summer crowds; the low sun casts long, dramatic shadows across the quiet square."
+              }
+            },
+            {
+              "name": {
+                "de": "Osmanisches Bademuseum",
+                "hu": "Oszmán Fürdőmúzeum",
+                "ro": "Muzeul Băilor Otomane",
+                "en": "Ottoman Bath Museum"
+              },
+              "tip_4lang": {
+                "de": "Ein geschützter Ort, um der Kälte zu entfliehen; nutzen Sie die ruhige Nebensaison, um die Details der Marmorbecken in Ruhe zu studieren.",
+                "hu": "Védett hely a hideg elől; használja ki a csendes utószezont, hogy nyugodtan tanulmányozza a márványmedencék részleteit.",
+                "ro": "Un loc adăpostit pentru a scăpa de frig; profitați de extrasezonul liniștit pentru a studia detaliile bazinelor de marmură.",
+                "en": "A sheltered spot to escape the cold; take advantage of the quiet off-season to study the marble basin details in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Mithymna",
+                "hu": "Mithymna vára",
+                "ro": "Castelul din Mithymna",
+                "en": "Castle of Mithymna"
+              },
+              "tip_4lang": {
+                "de": "Besuchen Sie die Burg rechtzeitig vor 16:30 Uhr, um das magische Licht kurz vor dem frühen Winter-Sonnenuntergang einzufangen.",
+                "hu": "Látogasson el a várba időben, 16:30 előtt, hogy elkapja a mágikus fényeket közvetlenül a korai téli naplemente előtt.",
+                "ro": "Vizitați castelul înainte de ora 16:30 pentru a surprinde lumina magică chiar înainte de apusul devreme de iarnă.",
+                "en": "Visit the castle in time, before 16:30, to catch the magical light just before the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Molivos",
+                "hu": "Molivos",
+                "ro": "Molivos",
+                "en": "Molivos"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie einen warmen griechischen Kaffee in einer der wenigen geöffneten Hafenbars und beobachten Sie die Fischer bei ihrer Winterarbeit.",
+                "hu": "Élvezzen egy meleg görög kávét a kevés nyitva tartó kikötői bár egyikében, és figyelje a halászok téli munkáját.",
+                "ro": "Savurați o cafea grecească caldă într-unul dintre puținele baruri deschise din port și observați pescarii la munca lor de iarnă.",
+                "en": "Enjoy a warm Greek coffee in one of the few open harbor bars and watch the fishermen going about their winter work."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros napot az ikonikus erődítményhez való feltekeréssel, majd guruljon le az oszmán fürdőkhöz. A déli napsütés a történelmi városházát és az alsó kikötőt világítja meg. Délután dél felé pedálozva lélegzetelállító panorámában gyönyörködhet az egész településről. A nap a békés déli partokon, a zajos tömegektől távol fejeződik be kellemesen.",
         "ro": "Începeți ziua de ciclism urcând la fortăreața iconică înainte de a coborî spre Băile Otomane. Soarele de la amiază luminează primăria istorică și zona pitorească a portului. După-amiaza, pedalați spre sud pentru a admira priveliști panoramice uimitoare ale întregii așezări. Ziua dumneavoastră se încheie liniștit pe țărmurile sudice pașnice, departe de mulțimile aglomerate.",
         "en": "Start your cycling day climbing to the iconic fortress before coasting down to the Ottoman Baths. The midday sun shines on the historic town hall and the scenic lower harbor area. In the afternoon, you pedal south to catch breathtaking sweeping views of the entire settlement. Your day winds down beautifully on the peaceful southern shores, far from the busy crowds."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regenponcho ist für diese hügelige Fahrt durch die gewundenen Pfade von Molyvos unerlässlich. Der Morgen beginnt an der Burg, wo der graue Himmel eine mystische Kulisse bildet. Mittags bietet das Museum Schutz, bevor die dramatische Nachmittagsfahrt entlang der Küste bei dunklen Wolken über der Ägäis folgt. Ein erfrischendes, wenn auch nasses Ende Ihres Radabenteuers.",
+            "hu": "Egy esőponcsó elengedhetetlen ehhez a dombos túrához Molyvos kanyargós útjain. A reggel a várnál kezdődik, ahol a szürke égbolt misztikus hátteret ad. Délben a múzeum nyújt menedéket, mielőtt a drámai délutáni gurulás következik a tengerparton, sötét felhőkkel az Égei-tenger felett. Frissítő, bár vizes befejezése a kalandnak.",
+            "ro": "O pelerină de ploaie este esențială pentru această plimbare deluroasă pe cărările sinuoase din Molyvos. Dimineața începe la castel, unde cerul cenușiu creează un decor mistic. La prânz, muzeul oferă adăpost înainte de tura dramatică de după-amiază de-a lungul coastei sub norii negri. Un final răcoritor, deși umed.",
+            "en": "A rain poncho is essential for this hilly ride through Molyvos's winding paths. The morning starts at the castle where the grey sky creates a mystic backdrop. By noon, the museum provides shelter before the dramatic afternoon ride along the coast with dark clouds over the Aegean. A refreshing, albeit wet, finish to your adventure."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg von Mithymna",
+                "hu": "Mithymna vára",
+                "ro": "Castelul din Mithymna",
+                "en": "Castle of Mithymna"
+              },
+              "tip_4lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; das nasse Kopfsteinpflaster ist tückisch, also fahren Sie extrem vorsichtig bergab.",
+                "hu": "Ellenőrizze a fékeit az indulás előtt; a vizes macskakő csalóka, ezért vezessen rendkívül óvatosan a lejtőn.",
+                "ro": "Verificați frânele înainte de plecare; pavajul ud este înșelător, așa că pedalați cu extremă prudență la vale.",
+                "en": "Check your brakes before starting; the wet cobblestones are treacherous, so ride downhill with extreme caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Osmanisches Bademuseum",
+                "hu": "Oszmán Fürdőmúzeum",
+                "ro": "Muzeul Băilor Otomane",
+                "en": "Ottoman Bath Museum"
+              },
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab; das Museum ist der perfekte Ort, um abzutrocknen und die Geschichte zu genießen.",
+                "hu": "Parkolja le a kerékpárját az előtető alatt; a múzeum tökéletes hely a megszáradáshoz és a történelem élvezetéhez.",
+                "ro": "Parcați bicicleta sub copertină; muzeul este locul perfect pentru a vă usca și a vă bucura de istorie.",
+                "en": "Park your bike under the awning; the museum is the perfect place to dry off and enjoy some history."
+              }
+            },
+            {
+              "name": {
+                "de": "Demarkheio",
+                "hu": "Demarkheio",
+                "ro": "Demarkheio",
+                "en": "Demarkheio"
+              },
+              "tip_4lang": {
+                "de": "Vermeiden Sie scharfe Kurven auf dem glatten Stein; nutzen Sie die Pause, um die Route für den restlichen nassen Weg zu planen.",
+                "hu": "Kerülje az éles kanyarokat a csúszós kövön; használja a szünetet az útvonal megtervezésére a maradék vizes szakaszra.",
+                "ro": "Evitați virajele strânse pe piatra lucioasă; folosiți pauza pentru a planifica ruta pentru restul drumului umed.",
+                "en": "Avoid sharp turns on the slick stone; use the break to plan your route for the remainder of the wet journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Molivos",
+                "hu": "Molivos",
+                "ro": "Molivos",
+                "en": "Molivos"
+              },
+              "tip_4lang": {
+                "de": "Fahren Sie langsam durch die Pfützen; der Hafen ist bei Regen ruhig, aber die Holzplanken können sehr glatt sein.",
+                "hu": "Hajtson lassan a tócsákon keresztül; a kikötő esőben csendes, de a fapallók nagyon csúszósak lehetnek.",
+                "ro": "Pedalați încet prin bălți; portul este liniștit în ploaie, dar scândurile de lemn pot fi foarte alunecoase.",
+                "en": "Ride slowly through the puddles; the harbor is quiet in the rain, but wooden planks can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Panoramablick auf Molyvos",
+                "hu": "Panoráma kilátás Molyvosra",
+                "ro": "Vedere panoramică spre Molyvos",
+                "en": "Panoramic view to Molyvos"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp für ein Foto der dramatischen Wolken; wischen Sie Ihre Kameralinse nach dem Schnappschuss sofort trocken.",
+                "hu": "Egy rövid megálló a drámai felhők fotózásához; a kép elkészítése után azonnal törölje szárazra a kamera lencséjét.",
+                "ro": "O oprire scurtă pentru a fotografia norii dramatici; ștergeți imediat lentila camerei după ce faceți poza.",
+                "en": "A quick stop for a photo of the dramatic clouds; wipe your camera lens dry immediately after taking the shot."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand",
+                "hu": "Naturista strand",
+                "ro": "Plajă pentru naturiști",
+                "en": "Naturist beach"
+              },
+              "tip_4lang": {
+                "de": "Der Strand ist verlassen und wild; genießen Sie die raue Brandung, aber halten Sie Abstand zum rutschigen Wasserrand.",
+                "hu": "A strand elhagyatott és vad; élvezze a zord hullámzást, de tartson távolságot a csúszós vízparttól.",
+                "ro": "Plaja este pustie și sălbatică; bucurați-vă de valurile agitate, dar păstrați distanța față de marginea alunecoasă a apei.",
+                "en": "The beach is deserted and wild; enjoy the rough surf, but keep your distance from the slippery water's edge."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Atmen Sie die kalte, salzige Luft bei einer morgendlichen Fahrt zur Burg ein. Mittags bietet die windgeschützte Seite des Dorfes sonnige Plätze zum Aufwärmen. Der Nachmittag führt Sie entlang der Küste, wo die Wintersonne die Ägäis zum Glitzern bringt. Da es um 17:00 Uhr dunkel wird, beenden Sie Ihre Tour rechtzeitig am ruhigen Hafen bei einem heißen Getränk.",
+            "hu": "Lélegezze be a hideg, sós levegőt a vár felé tartó reggeli tekerés közben. Délben a falu szélvédett oldala napos helyeket kínál a felmelegedéshez. A délután a tengerpart mentén visz, ahol a téli nap megcsillantja az Égei-tengert. Mivel 17:00-kor sötétedik, fejezze be túráját időben a csendes kikötőben egy forró itallal.",
+            "ro": "Respirați aerul rece și sărat într-o plimbare de dimineață spre castel. La prânz, latura adăpostită a satului oferă locuri însorite pentru încălzire. După-amiaza vă poartă de-a lungul coastei, unde soarele de iarnă face Marea Egee să sclipească. Deoarece se întunecă la ora 17:00, terminați tura la timp în portul liniștit.",
+            "en": "Breathe in the cold, salty air on a morning ride to the castle. At noon, the wind-sheltered side of the village offers sunny spots to warm up. The afternoon takes you along the coast where the winter sun makes the Aegean sparkle. As it gets dark at 17:00, finish your tour in time at the quiet harbor with a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg von Mithymna",
+                "hu": "Mithymna vára",
+                "ro": "Castelul din Mithymna",
+                "en": "Castle of Mithymna"
+              },
+              "tip_4lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind bergauf kühl ist; genießen Sie den klaren Horizont ohne Dunst.",
+                "hu": "Viseljen meleg kesztyűt, mert a menetszél hűvös; élvezze a tiszta, páramentes horizontot a várfalakról.",
+                "ro": "Purtați mănuși călduroase, deoarece vântul este rece la urcare; bucurați-vă de orizontul clar și fără ceață.",
+                "en": "Wear warm gloves as the headwind is chilly while riding up; enjoy the clear horizon without summer haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Osmanisches Bademuseum",
+                "hu": "Oszmán Fürdőmúzeum",
+                "ro": "Muzeul Băilor Otomane",
+                "en": "Ottoman Bath Museum"
+              },
+              "tip_4lang": {
+                "de": "Die massiven Mauern halten die Kälte draußen; ein guter Ort, um die Beine nach der ersten Etappe aufzuwärmen.",
+                "hu": "A masszív falak kint tartják a hideget; remek hely a lábak bemelegítésére az első szakasz után.",
+                "ro": "Zidurile masive țin frigul afară; un loc bun pentru a vă încălzi picioarele după prima etapă a traseului.",
+                "en": "The massive walls keep the cold out; a good place to warm up your legs after the first stage of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Demarkheio",
+                "hu": "Demarkheio",
+                "ro": "Demarkheio",
+                "en": "Demarkheio"
+              },
+              "tip_4lang": {
+                "de": "Suchen Sie sich eine sonnige Bank für eine kurze Pause; die Wintersonne ist am Mittag angenehm stark.",
+                "hu": "Keressen egy napos padot egy rövid szünetre; a téli nap délben kellemesen erős tud lenni.",
+                "ro": "Căutați o bancă însorită pentru o scurtă pauză; soarele de iarnă este plăcut de puternic la prânz.",
+                "en": "Look for a sunny bench for a quick break; the winter sun is pleasantly strong during midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Molivos",
+                "hu": "Molivos",
+                "ro": "Molivos",
+                "en": "Molivos"
+              },
+              "tip_4lang": {
+                "de": "Fahren Sie vorsichtig über das Kopfsteinpflaster; im Winter ist weniger los, sodass Sie die Architektur entspannt betrachten können.",
+                "hu": "Vezessen óvatosan a macskakövön; télen kisebb a forgalom, így nyugodtan szemlélheti az építészetet.",
+                "ro": "Pedalați cu atenție pe pavaj; iarna este mai puțină lume, așa că puteți admira arhitectura în tihnă.",
+                "en": "Ride carefully over the cobblestones; there is less traffic in winter, allowing you to admire the architecture calmly."
+              }
+            },
+            {
+              "name": {
+                "de": "Panoramablick auf Molyvos",
+                "hu": "Panoráma kilátás Molyvosra",
+                "ro": "Vedere panoramică spre Molyvos",
+                "en": "Panoramic view to Molyvos"
+              },
+              "tip_4lang": {
+                "de": "Das Licht am späten Nachmittag ist perfekt für Fotos; ziehen Sie sich schnell wieder warm an, sobald die Sonne sinkt.",
+                "hu": "A késő délutáni fények tökéletesek a fotózáshoz; öltözzön vissza gyorsan, amint a nap süllyedni kezd.",
+                "ro": "Lumina de după-amiază târzie este perfectă pentru fotografii; îmbrăcați-vă repede la loc imediat ce soarele apune.",
+                "en": "The late afternoon light is perfect for photos; bundle up again quickly as soon as the sun starts to dip."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand",
+                "hu": "Naturista strand",
+                "ro": "Plajă pentru naturiști",
+                "en": "Naturist beach"
+              },
+              "tip_4lang": {
+                "de": "Nur für einen kurzen, erfrischenden Blick aufs Meer; machen Sie sich vor Einbruch der Dunkelheit um 17:00 Uhr auf den Rückweg.",
+                "hu": "Csak egy rövid, frissítő pillantásra a tengerre; induljon vissza a szállás felé a sötétedés előtt, 17:00 óráig.",
+                "ro": "Doar pentru o privire scurtă și revigorantă spre mare; porniți înapoi înainte de lăsarea întunericului, în jur de ora 17:00.",
+                "en": "Just for a short, refreshing look at the sea; head back before darkness falls around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "A Molyvos körüli autózás az északi világítótoronynál kezdődik, csendes tengerparti menedékekhez vezetve. Délre bájos parti helyeket ér el, amelyek tökéletesek egy rövid pihenőre. Délután a hangsúly a várost uraló hatalmas erődítményre helyeződik át. Az utazás egy fantasztikus déli kilátónál ér véget, amely felejthetetlen naplementés panorámát kínál a látogatóknak.",
         "ro": "Călătoria cu mașina în jurul Molyvosului începe la farul nordic, îndrumându-vă spre refugii liniștite pe litoral. Până la prânz, ajungeți în locuri de coastă fermecătoare. După-amiaza, atenția se mută pe marea fortăreață care domină orașul de pe cel mai înalt vârf al său. Călătoria se încheie la un punct de belvedere sudic fenomenal, oferind o panoramă de neuitat.",
         "en": "Driving around the edges of Molyvos begins at the northern lighthouse, guiding you to quiet seaside retreats. By midday, you'll reach charming coastal spots perfect for a short break. The afternoon shifts focus to the grand fortress overlooking the town from its highest peak. The journey concludes at a phenomenal southern viewpoint, offering an unforgettable sunset panorama."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt durch die verregneten Hügel bequem von Ihrem Auto aus. Der Morgen am Leuchtturm bietet einen dramatischen Blick auf die aufgewühlte See. Mittags erkunden Sie die Burg, deren dunkle Steine im Regen glänzen. Der Nachmittag führt Sie zu Aussichtspunkten, an denen Sie das Panorama ohne nass zu werden genießen können, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Élvezze az autózást az esős dombok között a kocsi kényelméből. A reggel a világítótoronynál drámai kilátást nyújt a felkorbácsolt tengerre. Délben fedezze fel a várat, melynek sötét kövei csillognak az esőben. A délután olyan kilátópontokhoz visz, ahonnan anélkül élvezheti a panorámát, hogy megázna, miközben az eső kopog a szélvédőn.",
+            "ro": "Bucurați-vă de drumul prin dealurile ploioase din confortul mașinii. Dimineața la far oferă o priveliște dramatică asupra mării agitate. La prânz, explorați castelul ale cărui pietre negre strălucesc în ploaie. După-amiaza vă poartă spre puncte de belvedere unde puteți admira panorama fără să vă udați, în timp ce ploaia bate în parbriz.",
+            "en": "Enjoy the drive through the rainy hills from the comfort of your car. The morning at the lighthouse offers dramatic views of the turbulent sea. At noon, explore the castle whose dark stones glisten in the rain. The afternoon takes you to viewpoints where you can enjoy the panorama without getting wet while the rain drums on the windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Leuchtturm",
+                "hu": "Világítótorony",
+                "ro": "Far",
+                "en": "Lighthouse"
+              },
+              "tip_4lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto; die Aussicht auf die stürmische See ist auch durch das Fenster beeindruckend.",
+                "hu": "Heves esőben maradjon az autóban; a viharos tenger látványa az ablakon keresztül is lenyűgöző.",
+                "ro": "Rămâneți în mașină dacă plouă torențial; vederea mării înfuriate este impresionantă chiar și prin geam.",
+                "en": "Stay in the car if the rain is heavy; the view of the stormy sea is impressive even through the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Limantzki",
+                "hu": "Limantzki",
+                "ro": "Limantzki",
+                "en": "Limantzki"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie nah am Wasser; beobachten Sie die Fischer, wie sie ihre Boote im Regen sichern, während Sie im Warmen sitzen.",
+                "hu": "Parkoljon közel a vízhez; figyelje a halászokat, ahogy rögzítik a csónakjaikat az esőben, miközben Ön a melegben ül.",
+                "ro": "Parcați aproape de apă; observați pescarii cum își asigură bărcile în ploaie în timp ce stați la căldură.",
+                "en": "Park close to the water; watch the fishermen securing their boats in the rain while you sit in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Tsipouria",
+                "hu": "Tsipouria",
+                "ro": "Tsipouria",
+                "en": "Tsipouria"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf Schlaglöcher, die mit Wasser gefüllt sind; die unbefestigten Wege können bei Regen schlammig und rutschig sein.",
+                "hu": "Ügyeljen a vízzel telt kátyúkra; a burkolatlan utak sárgossá és csúszóssá válhatnak az esőzés miatt.",
+                "ro": "Atenție la gropile pline cu apă; drumurile neasfaltate pot deveni noroioase și alunecoase din cauza ploii.",
+                "en": "Watch out for potholes filled with water; the unpaved paths can become muddy and slippery during the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Mithymna",
+                "hu": "Mithymna vára",
+                "ro": "Castelul din Mithymna",
+                "en": "Castle of Mithymna"
+              },
+              "tip_4lang": {
+                "de": "Der Parkplatz ist nah am Eingang; ein kurzer Sprint bringt Sie ins Innere, wo die Mauern Schutz vor dem Wind bieten.",
+                "hu": "A parkoló közel van a bejárathoz; egy rövid futással bent teremhet, ahol a várfalak védelmet nyújtanak a szél ellen.",
+                "ro": "Parcarea este aproape de intrare; un scurt sprint vă duce în interior, unde zidurile oferă protecție împotriva vântului.",
+                "en": "The parking is close to the entrance; a quick dash will get you inside where the walls provide shelter from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Panoramablick auf Molyvos",
+                "hu": "Panoráma kilátás Molyvosra",
+                "ro": "Vedere panoramică spre Molyvos",
+                "en": "Panoramic view to Molyvos"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den Scheibenwischer für eine klare Sicht auf das Dorf; die graue Stimmung ist perfekt für melancholische Fotos.",
+                "hu": "Használja az ablaktörlőt a falu tiszta látványához; a szürke hangulat tökéletes a melankolikus fotókhoz.",
+                "ro": "Folosiți ștergătoarele pentru o vedere clară asupra satului; atmosfera cenușie este perfectă pentru fotografii melancolice.",
+                "en": "Use your wipers for a clear view of the village; the grey mood is perfect for some melancholic photography."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Küste von Molyvos in der klaren Winterluft. Der Morgen am Leuchtturm bietet eine weite Sicht ohne den sommerlichen Dunst. Mittags wärmt die Sonne die Burgmauern auf, ein idealer Zeitpunkt für einen Spaziergang. Am Nachmittag genießen Sie das goldene Licht an den Aussichtspunkten, bevor die Sonne um 17:00 Uhr untergeht und die Dorfbeleuchtung langsam angeht.",
+            "hu": "Fedezze fel Molyvos partvidékét a tiszta téli levegőben. A reggel a világítótoronynál messzi kilátást nyújt a nyári pára nélkül. Délben a nap felmelegíti a várfalakat, ez ideális időpont egy sétához. Délután élvezze az aranyfényeket a kilátópontokon, mielőtt a nap 17:00-kor lebukik, és a falu fényei lassan kigyúlnak.",
+            "ro": "Explorați coasta din Molyvos în aerul curat de iarnă. Dimineața la far oferă o vizibilitate îndepărtată fără pâcla verii. La prânz, soarele încălzește zidurile castelului, fiind momentul ideal pentru o plimbare. După-amiaza, bucurați-vă de lumina aurie la punctele de belvedere înainte ca soarele să apună la ora 17:00.",
+            "en": "Explore the coast of Molyvos in the clear winter air. The morning at the lighthouse offers distant views without summer haze. At noon, the sun warms up the castle walls, an ideal time for a walk. In the afternoon, enjoy the golden light at the viewpoints before the sun sets at 17:00 and the village lights come on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Leuchtturm",
+                "hu": "Világítótorony",
+                "ro": "Far",
+                "en": "Lighthouse"
+              },
+              "tip_4lang": {
+                "de": "Die Fernsicht ist im Winter oft besser; parken Sie windgeschützt, um die kühle Brise beim Aussteigen zu minimieren.",
+                "hu": "A távoli kilátás télen gyakran jobb; parkoljon szélvédett helyen, hogy minimalizálja a hűvös szellőt kiszálláskor.",
+                "ro": "Vizibilitatea la distanță este adesea mai bună iarna; parcați la adăpost de vânt pentru a evita briza rece la coborâre.",
+                "en": "Distant visibility is often better in winter; park sheltered from the wind to minimize the chilly breeze when exiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Limantzki",
+                "hu": "Limantzki",
+                "ro": "Limantzki",
+                "en": "Limantzki"
+              },
+              "tip_4lang": {
+                "de": "Das Meer ist im Winter oft rauer; genießen Sie das Schauspiel der Wellen aus dem geheizten Auto heraus.",
+                "hu": "A tenger télen gyakran vadabb; élvezze a hullámok játékát a fűtött autóból, közvetlenül a part mellől.",
+                "ro": "Marea este adesea mai agitată iarna; bucurați-vă de spectacolul valurilor din mașina încălzită, chiar lângă țărm.",
+                "en": "The sea is often rougher in winter; enjoy the spectacle of the waves from the heated car right by the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Tsipouria",
+                "hu": "Tsipouria",
+                "ro": "Tsipouria",
+                "en": "Tsipouria"
+              },
+              "tip_4lang": {
+                "de": "Die tiefstehende Sonne kann blenden; halten Sie Ihre Sonnenbrille bereit, während Sie über die schmalen Küstenwege fahren.",
+                "hu": "Az alacsonyan járó nap vakíthat; tartsa készenlétben a napszemüvegét, miközben a szűk tengerparti utakon vezet.",
+                "ro": "Soarele jos poate fi orbitor; aveți ochelarii de soare la îndemână în timp ce conduceți pe drumurile înguste de coastă.",
+                "en": "The low sun can be blinding; keep your sunglasses ready while driving along the narrow coastal paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Mithymna",
+                "hu": "Mithymna vára",
+                "ro": "Castelul din Mithymna",
+                "en": "Castle of Mithymna"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Mittagssonne für einen Rundgang; im Winter sind die Parkplätze direkt vor dem Tor meist frei.",
+                "hu": "Használja ki a déli napsütést egy körsétára; télen a közvetlenül a kapu előtti parkolóhelyek általában szabadok.",
+                "ro": "Profitați de soarele de la prânz pentru o plimbare; iarna, locurile de parcare de lângă poartă sunt de obicei libere.",
+                "en": "Take advantage of the midday sun for a walk; in winter, parking spots right in front of the gate are usually free."
+              }
+            },
+            {
+              "name": {
+                "de": "Panoramablick auf Molyvos",
+                "hu": "Panoráma kilátás Molyvosra",
+                "ro": "Vedere panoramică spre Molyvos",
+                "en": "Panoramic view to Molyvos"
+              },
+              "tip_4lang": {
+                "de": "Die perfekte Stelle für den Sonnenuntergang um 17:00 Uhr; die Heizung im Auto lässt Sie das Panorama gemütlich genießen.",
+                "hu": "Tökéletes helyszín a 17:00-ás naplementéhez; az autó fűtése mellett kényelmesen élvezheti a panorámát.",
+                "ro": "Locul perfect pentru apusul de la ora 17:00; încălzirea mașinii vă permite să admirați panorama confortabil.",
+                "en": "The perfect spot for the 17:00 sunset; the car's heater lets you enjoy the panorama in total comfort."
+              }
+            }
+          ]
+        }
       }
     }
   }

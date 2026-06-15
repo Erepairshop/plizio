@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Blendecques történelmi szívének és a csendes apátságnak a felfedezésével. Délben olyan jellegzetes építészetű helyi templomok mellett halad el, mint a Sainte-Colombe. Délután fedezze fel a Château du Westhove középkori varázsát. Zárja a napot egy sétával a keleti külvárosok felé, hogy alkonyat előtt megcsodálja a hangulatos Chapelle Sainte-Soyecques-t.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Blendecques la abația liniștită. La amiază veți trece pe lângă biserici locale cu o arhitectură distinctă, cum ar fi Sainte-Colombe. După-amiaza, descoperiți farmecul medieval al Château du Westhove. Încheiați-vă ziua plimbându-vă spre periferia estică pentru a admira pitoreasca Chapelle Sainte-Soyecques înainte de lăsarea serii.",
         "en": "Start your morning exploring the historic heart of Blendecques at the tranquil Abbey. Midday brings you past local churches with distinct architecture like Sainte-Colombe. In the afternoon, discover the medieval charms of Château du Westhove. Conclude your day walking towards the eastern outskirts to admire the quaint Chapelle Sainte-Soyecques before dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Abtei, wo der Regen eine mystische Stille über die alten Mauern legt. Mittags bieten die Kirchen trockene Zufluchtsorte für besinnliche Pausen während des Stadtspaziergangs. Am Nachmittag wirkt das Schloss Westhove im Nebel besonders dramatisch, ideal für wetterfeste Entdecker. Abends begleiten uns die Spiegelungen der Lichter auf dem nassen Asphalt zurück.",
+            "hu": "Reggel az apátság falai között kezdünk, ahol az eső kopogása meditatív hangulatot áraszt. Délben a templomok nyújtanak száraz menedéket a városi séta során. Délután a kastély parkjában a ködös táj romantikus látványt nyújt a vízálló öltözetben túrázóknak. Este a vizes aszfalton tükröződő fények kísérnek vissza a városközpontba a borús nap végén.",
+            "ro": "Dimineața începe la abație, unde sunetul ploii creează o atmosferă mistică printre vechile ziduri. La prânz, bisericile oferă un refugiu uscat și liniștit în timpul plimbării prin oraș. După-amiaza, parcul castelului oferă un peisaj dramatic prin ceață, ideal pentru cei echipați corespunzător. Seara, luminile reflectate în asfaltul ud ne ghidează înapoi după o zi plină de istorie.",
+            "en": "The morning begins at the Abbey, where the rain casts a mystical silence over the ancient walls. At noon, the churches provide dry havens for reflective breaks during your city walk. In the afternoon, Westhove Castle looks particularly dramatic in the mist, perfect for waterproof explorers. In the evening, the reflections of lights on the wet asphalt guide us back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abtei Sainte-Colombe",
+                "hu": "Sainte-Colombe apátság",
+                "ro": "Abația Sainte-Colombe",
+                "en": "Sainte-Colombe Abbey"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Abtei unter dem Schutz Ihres Regenschirms; die ruhigen Gärten wirken bei Regen besonders mystisch und friedlich.",
+                "hu": "Fedezze fel az apátságot az esernyője védelmében; a csendes kertek esőben különösen misztikus és békés hangulatot árasztanak.",
+                "ro": "Explorați abația sub protecția umbrelei; grădinile liniștite par deosebit de mistice și pașnice atunci când plouă.",
+                "en": "Explore the abbey under the protection of your umbrella; the quiet gardens feel especially mystical and peaceful in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Colombe",
+                "hu": "Sainte-Colombe templom",
+                "ro": "Biserica Sainte-Colombe",
+                "en": "Sainte-Colombe Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine trockene Pause und bewundern Sie die sakrale Kunst fernab vom grauen Wetter draußen.",
+                "hu": "Használja ki a belső teret egy száraz pihenőre, és csodálja meg a szakrális művészetet távol a kinti szürke időjárástól.",
+                "ro": "Folosiți interiorul pentru o pauză uscată și admirați arta sacră departe de vremea gri de afară.",
+                "en": "Use the interior for a dry break and admire the sacred art far from the gray weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Neuville",
+                "hu": "Neuville kápolna",
+                "ro": "Capela Neuville",
+                "en": "Neuville Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt an der Kapelle; achten Sie auf den rutschigen Boden vor dem Eingang bei anhaltendem Nieselregen.",
+                "hu": "Egy rövid megálló a kápolnánál; ügyeljen a bejárat előtti csúszós talajra a tartós szitáló esőben.",
+                "ro": "O scurtă oprire la capelă; atenție la solul alunecos din fața intrării în timpul burniței persistente.",
+                "en": "A short stop at the chapel; watch out for the slippery ground in front of the entrance during persistent drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Westhove",
+                "hu": "Westhove kastély",
+                "ro": "Castelul Westhove",
+                "en": "Westhove Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss bietet eine dramatische Kulisse; wasserfeste Schuhe sind für die unbefestigten Wege im Park unerlässlich.",
+                "hu": "A kastély drámai hátteret kínál; a vízálló cipő elengedhetetlen a park kivilágítatlan, sáros ösvényeihez.",
+                "ro": "Castelul oferă un cadru dramatic; încălțămintea impermeabilă este esențială pentru potecile neasfaltate din parc.",
+                "en": "The castle offers a dramatic backdrop; waterproof shoes are essential for the unpaved paths in the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Sainte-Soyecques",
+                "hu": "Sainte-Soyecques kápolna",
+                "ro": "Capela Sainte-Soyecques",
+                "en": "Sainte-Soyecques Chapel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier; der Regen verstärkt die historische Atmosphäre dieses kleinen, steinernen Rückzugsortes.",
+                "hu": "Itt fejezze be a túrát; az eső felerősíti ennek a kis kőből épült menedékhelynek a történelmi hangulatát.",
+                "ro": "Încheiați turul aici; ploaia intensifică atmosfera istorică a acestui mic refugiu de piatră.",
+                "en": "Finish your tour here; the rain enhances the historical atmosphere of this small, stone sanctuary."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am frostigen Morgen glänzt die Abtei im ersten Licht, während wir uns warm eingepackt auf den Weg machen. Mittags suchen wir in den Kirchen Schutz vor dem kalten Wind und genießen die stille, winterliche Atmosphäre. Der Nachmittag gehört dem Schloss, dessen kahle Parkanlagen weite Ausblicke ermöglichen. Da es gegen 17:00 Uhr dunkelt, endet der Tag gemütlich in der Dämmerung.",
+            "hu": "A fagyos reggelen az apátság falai csillognak az első fényben, miközben melegen felöltözve útnak indulunk. Délben a templomokban keresünk menedéket a hideg szél elől, élvezve a csendes, téli hangulatot. A délután a kastélyé, melynek kopár parkja messzi kilátást enged. Mivel 17:00 körül sötétedik, a nap kellemesen, a szürkületben ér véget.",
+            "ro": "În dimineața geroasă, abația strălucește în prima lumină, în timp ce pornim la drum bine înfofoliți. La prânz, căutăm adăpost în biserici împotriva vântului rece, savurând atmosfera liniștită de iarnă. După-amiaza aparține castelului, al cărui parc golaș permite vederi panoramice. Deoarece se întunecă în jurul orei 17:00, ziua se încheie plăcut în amurg.",
+            "en": "On a frosty morning, the Abbey shines in the first light as we set off warmly bundled up. At noon, we seek shelter from the cold wind in the churches, enjoying the quiet, wintry atmosphere. The afternoon belongs to the castle, whose bare parklands allow for wide views. As it gets dark around 17:00, the day ends comfortably in the twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abtei Sainte-Colombe",
+                "hu": "Sainte-Colombe apátság",
+                "ro": "Abația Sainte-Colombe",
+                "en": "Sainte-Colombe Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Morgenluft verleiht den Mauern einen besonderen Glanz; kleiden Sie sich in warmen Schichten für den Rundgang.",
+                "hu": "A fagyos reggeli levegő különleges fényt ad a falaknak; öltözzön rétegesen és melegen a körbejáráshoz.",
+                "ro": "Aerul înghețat al dimineții oferă zidurilor o strălucire deosebită; îmbrăcați-vă în straturi calde pentru vizită.",
+                "en": "The frosty morning air gives the walls a special glow; dress in warm layers for the walk around."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Colombe",
+                "hu": "Sainte-Colombe templom",
+                "ro": "Biserica Sainte-Colombe",
+                "en": "Sainte-Colombe Church"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie im Inneren kurz Schutz vor dem winterlichen Wind und genießen Sie die Stille der prächtigen Sakralarchitektur.",
+                "hu": "Találjon bent rövid menedéket a téli szél elől, és élvezze a pompás szakrális építészet csendjét.",
+                "ro": "Găsiți un scurt refugiu în interior împotriva vântului de iarnă și bucurați-vă de liniștea arhitecturii sacre superbe.",
+                "en": "Find brief shelter inside from the winter wind and enjoy the silence of the magnificent sacred architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Neuville",
+                "hu": "Neuville kápolna",
+                "ro": "Capela Neuville",
+                "en": "Neuville Chapel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klare Wintersonne, die auf das Mauerwerk trifft; halten Sie sich in Bewegung, um warm zu bleiben.",
+                "hu": "Csodálja meg a tiszta téli napsütést, ahogy megvilágítja a falakat; maradjon mozgásban, hogy melegen tartsa magát.",
+                "ro": "Admirați soarele clar de iarnă care luminează zidăria; rămâneți în mișcare pentru a vă menține căldura.",
+                "en": "Admire the clear winter sun hitting the stonework; keep moving to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Westhove",
+                "hu": "Westhove kastély",
+                "ro": "Castelul Westhove",
+                "en": "Westhove Castle"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf die Fassade frei; nutzen Sie das tiefe Sonnenlicht für stimmungsvolle Fotos.",
+                "hu": "A kopasz fák szabaddá teszik a kilátást a homlokzatra; használja ki az alacsony téli napfényt a hangulatos fotókhoz.",
+                "ro": "Copacii golași permit o vedere clară asupra fațadei; folosiți lumina joasă a soarelui pentru fotografii de atmosferă.",
+                "en": "The bare trees reveal the full facade; take advantage of the low winter sunlight for atmospheric photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Sainte-Soyecques",
+                "hu": "Sainte-Soyecques kápolna",
+                "ro": "Capela Sainte-Soyecques",
+                "en": "Sainte-Soyecques Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Halt in der frühen Dämmerung; da es früh dunkel wird, bietet die Kapelle ein malerisches Ziel zum Abschluss.",
+                "hu": "Utolsó megálló a korai szürkületben; mivel hamar sötétedik, a kápolna festői célpont a nap végére.",
+                "ro": "O ultimă oprire în amurgul timpuriu; deoarece se întunecă repede, capela oferă o destinație pitorească la final.",
+                "en": "A final stop in the early twilight; since it gets dark early, the chapel provides a picturesque destination to finish."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon a friss reggeli levegőn az ősi apátsághoz és a történelmi Westhove kastélyhoz. Délben tekerjen a La Coupole múzeum mélyreható történelme felé. Töltse a délutánt a Plateau des Landes rezervátum természeti szépségének élvezetével. Vezesse le a kerékpáros kalandot egy békés esti látogatással a déli negyedben található gyönyörű Église Saint-Riquier templomnál.",
         "ro": "Pedalați prin aerul proaspăt al dimineții către vechea Abație și istoricul Castel Westhove. La amiază, îndreptați-vă spre istoria profundă a muzeului La Coupole. Petreceți-vă după-amiaza bucurându-vă de frumusețea naturală a rezervației Plateau des Landes. Încheiați aventura pe bicicletă cu o vizită liniștită de seară la frumoasa Église Saint-Riquier din cartierul sudic.",
         "en": "Cycle through the crisp morning air to the ancient Abbey and the historic Westhove Castle. By midday, pedal towards the profound history of La Coupole museum. Spend your afternoon enjoying the natural beauty of the Plateau des Landes reserve. Wind down your cycling adventure with a peaceful evening visit to the beautiful Église Saint-Riquier in the southern district."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet an der Abtei, wobei wir auf die rutschigen Wege achten. Mittags bietet das Museum La Coupole einen idealen, wetterfesten Rückzugsort zur Erkundung. Am Nachmittag geht es durch das Naturschutzgebiet, wo der Regen die Landschaft in sattes Grün taucht. Wir beenden den Tag mit eingeschalteter Beleuchtung an der Kirche Saint-Riquier im grauen Nachmittagslicht.",
+            "hu": "A kerékpártúra az apátságnál indul, ügyelve a csúszós utakra. Délben a La Coupole múzeum ideális, időjárásálló menedéket nyújt a felfedezéshez. Délután a természetvédelmi területen tekerünk, ahol az eső mélyzöldre festi a tájat. A napot bekapcsolt világítással fejezzük be a Saint-Riquier templomnál a szürke délutáni fényben.",
+            "ro": "Turul cu bicicleta începe la abație, cu atenție sporită la drumurile alunecoase. La prânz, muzeul La Coupole oferă un refugiu ideal și ferit de ploaie. După-amiaza pedalăm prin rezervația naturală, unde ploaia intensifică verdele peisajului. Încheiem ziua cu luminile aprinse la biserica Saint-Riquier, în lumina cenușie a după-amiezii.",
+            "en": "The bike tour starts at the Abbey, with extra attention to the slippery paths. At noon, La Coupole museum offers an ideal, weatherproof retreat for exploration. In the afternoon, we cycle through the nature reserve, where the rain turns the landscape deep green. We end the day with lights on at Saint-Riquier Church in the gray afternoon light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abtei Sainte-Colombe",
+                "hu": "Sainte-Colombe apátság",
+                "ro": "Abația Sainte-Colombe",
+                "en": "Sainte-Colombe Abbey"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihren Reifendruck für besseren Grip auf nassen Wegen; die Abtei wirkt im Regen besonders ehrwürdig.",
+                "hu": "Ellenőrizze a guminyomást a jobb tapadásért a vizes utakon; az apátság különösen tiszteletparancsoló az esőben.",
+                "ro": "Verificați presiunea în anvelope pentru o aderență mai bună pe drumuri ude; abația pare deosebit de venerabilă în ploaie.",
+                "en": "Check your tire pressure for better grip on wet paths; the abbey looks particularly venerable in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Westhove",
+                "hu": "Westhove kastély",
+                "ro": "Castelul Westhove",
+                "en": "Westhove Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über die nassen Brücken zum Schloss; ein kurzes Foto im Schutz der Bäume lohnt sich.",
+                "hu": "Óvatosan hajtson át a vizes hidakon a kastély felé; egy gyors fotó a fák védelmében megéri a megállást.",
+                "ro": "Conduceți cu atenție pe podurile ude către castel; o fotografie rapidă la adăpostul copacilor merită efortul.",
+                "en": "Ride carefully over the wet bridges to the castle; a quick photo under the shelter of the trees is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "La Coupole",
+                "hu": "La Coupole",
+                "ro": "La Coupole",
+                "en": "La Coupole"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um dem Regen zu entkommen; planen Sie genug Zeit für die beeindruckenden Innenausstellungen ein.",
+                "hu": "Ez a tökéletes hely az eső elöli menekülésre; tervezzen elég időt a lenyűgöző belső kiállítások megtekintésére.",
+                "ro": "Acesta este locul perfect pentru a scăpa de ploaie; planificați suficient timp pentru expozițiile interioare impresionante.",
+                "en": "This is the perfect place to escape the rain; plan enough time to visit the impressive indoor exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Denis",
+                "hu": "Saint-Denis templom",
+                "ro": "Biserica Saint-Denis",
+                "en": "Saint-Denis Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter und genießen Sie die Stille der Kirche, während draußen der Regen auf das Dach prasselt.",
+                "hu": "Támassza le a kerékpárt fedett helyen, és élvezze a templom csendjét, miközben kint az eső kopog a tetőn.",
+                "ro": "Parcați bicicleta la adăpost și bucurați-vă de liniștea bisericii în timp ce ploaia bate în acoperiș afară.",
+                "en": "Park your bike under cover and enjoy the silence of the church while the rain drums on the roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Plateau des Landes",
+                "hu": "Plateau des Landes Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Plateau des Landes",
+                "en": "Plateau des Landes Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf schlammige Abschnitte auf den unbefestigten Wegen; Schutzbleche am Rad sind hier Gold wert.",
+                "hu": "Ügyeljen a sáros szakaszokra a kivilágítatlan ösvényeken; a sárvédők ezen a terepen aranyat érnek.",
+                "ro": "Atenție la secțiunile noroioase de pe potecile neasfaltate; apărătorile de noroi sunt esențiale aici.",
+                "en": "Watch out for muddy sections on the unpaved paths; mudguards on your bike are worth their weight in gold here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Riquier",
+                "hu": "Saint-Riquier templom",
+                "ro": "Biserica Saint-Riquier",
+                "en": "Saint-Riquier Church"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Sattel und Griffe trocken, bevor Sie die letzte Etappe antreten; die Kirche bietet einen würdigen Abschluss.",
+                "hu": "Törölje szárazra a nyerget és a kormányt az utolsó szakasz előtt; a templom méltó befejezése a túrának.",
+                "ro": "Ștergeți șaua și mânerele înainte de ultima etapă; biserica oferär un final demn pentru acest tur.",
+                "en": "Wipe your saddle and grips dry before the final leg; the church offers a worthy conclusion to the tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Warm eingepackt starten wir die Wintertour an der Abtei unter klarem Himmel. Mittags bietet La Coupole die nötige Wärme und faszinierende Einblicke in die Geschichte. Am Nachmittag durchqueren wir das Plateau des Landes, wo der Frost die Gräser verzaubert. Bevor die Sonne gegen 17:00 Uhr untergeht, erreichen wir die Kirche Saint-Riquier für ein letztes Foto im goldenen Winterlicht.",
+            "hu": "Melegen felöltözve kezdjük a téli túrát az apátságnál a tiszta égbolt alatt. Délben a La Coupole nyújtja a szükséges meleget és lenyűgöző betekintést a történelembe. Délután a Plateau des Landes területén tekerünk át, ahol a dér varázslatossá teszi a füvet. Mielőtt 17:00 körül lemegy a nap, elérjük a Saint-Riquier templomot az utolsó fotóhoz.",
+            "ro": "Bine înfofoliți, începem turul de iarnă la abație sub un cer senin. La prânz, La Coupole oferă căldura necesară și perspective fascinante asupra istoriei. După-amiaza traversăm Plateau des Landes, unde gerul transformă peisajul. Înainte ca soarele să apună în jurul orei 17:00, ajungem la biserica Saint-Riquier pentru o ultimă fotografie.",
+            "en": "Warmly dressed, we start the winter tour at the Abbey under a clear sky. At noon, La Coupole provides much-needed warmth and fascinating insights into history. In the afternoon, we cross the Plateau des Landes, where frost enchants the grass. Before the sun sets around 17:00, we reach Saint-Riquier Church for a final photo in the golden winter light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abtei Sainte-Colombe",
+                "hu": "Sainte-Colombe apátság",
+                "ro": "Abația Sainte-Colombe",
+                "en": "Sainte-Colombe Abbey"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie windfeste Kleidung; die offene Lage der Abtei macht den winterlichen Wind hier besonders spürbar.",
+                "hu": "Viseljen szélálló ruházatot; az apátság nyitott fekvése miatt a téli szél itt különösen érezhető.",
+                "ro": "Purtați haine rezistente la vânt; locația deschisă a abației face vântul de iarnă deosebit de resimțit aici.",
+                "en": "Wear windproof clothing; the open location of the abbey makes the winter wind especially noticeable here."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Westhove",
+                "hu": "Westhove kastély",
+                "ro": "Castelul Westhove",
+                "en": "Westhove Castle"
+              },
+              "tip_5lang": {
+                "de": "Das zugefrorene Wasser im Graben bietet ein schönes Fotomotiv; halten Sie die Pausen kurz, um nicht auszukühlen.",
+                "hu": "A vizesárok befagyott vize szép fotótéma; tartsa röviden a pihenőket, hogy ne hűljön ki a teste.",
+                "ro": "Apa înghețată din șanțul de apă oferă un subiect foto frumos; păstrați pauzele scurte pentru a nu vă răci.",
+                "en": "The frozen water in the moat makes for a beautiful photo; keep breaks short to avoid getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "La Coupole",
+                "hu": "La Coupole",
+                "ro": "La Coupole",
+                "en": "La Coupole"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen; die konstante Temperatur im Bunker ist im Winter ein Vorteil.",
+                "hu": "Használja ki a múzeumlátogatást a felmelegedésre; a bunker állandó hőmérséklete télen kifejezett előny.",
+                "ro": "Profitați de vizita la muzeu pentru a vă încălzi; temperatura constantă din buncăr este un avantaj iarna.",
+                "en": "Use the museum visit to warm up; the constant temperature inside the bunker is an advantage in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Denis",
+                "hu": "Saint-Denis templom",
+                "ro": "Biserica Saint-Denis",
+                "en": "Saint-Denis Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen, windgeschützten Halt; prüfen Sie hier kurz Ihre Beleuchtung für die Rückfahrt.",
+                "hu": "A templom nyugodt, szélvédett megállót kínál; itt ellenőrizze rövidre a világítását a visszaúthoz.",
+                "ro": "Biserica oferă o oprire liniștită și ferită de vânt; verificați-vă aici luminile pentru drumul de întoarcere.",
+                "en": "The church offers a quiet, wind-sheltered stop; quickly check your lights here for the ride back."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Plateau des Landes",
+                "hu": "Plateau des Landes Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Plateau des Landes",
+                "en": "Plateau des Landes Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Wegen; die Winterlandschaft des Plateaus ist bei klarem Himmel atemberaubend.",
+                "hu": "Ügyeljen a jeges foltokra az utakon; a fennsík téli tája tiszta égbolt mellett lélegzetelállító.",
+                "ro": "Atenție la porțiunile înghețate de pe drum; peisajul de iarnă al platoului este uluitor sub cerul senin.",
+                "en": "Watch out for icy patches on the paths; the winter landscape of the plateau is breathtaking under a clear sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Riquier",
+                "hu": "Saint-Riquier templom",
+                "ro": "Biserica Saint-Riquier",
+                "en": "Saint-Riquier Church"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Kirche vor 17:00 Uhr, um die Fassade noch im letzten Tageslicht zu bewundern, bevor es dunkel wird.",
+                "hu": "Érkezzen a templomhoz 17:00 előtt, hogy még az utolsó nappali fényben csodálhassa meg a homlokzatot a sötétedés előtt.",
+                "ro": "Ajungeți la biserică înainte de ora 17:00 pentru a admira fațada în ultima lumină a zilei, înainte de lăsarea întunericului.",
+                "en": "Reach the church before 17:00 to admire the facade in the last daylight before it gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Vezessen korán a lenyűgöző Westhove kastélyhoz, és élvezze annak történelmi pompáját. Késő délelőtt a régi Moulin de l'Arquet-hez érkezik, majd a La Coupole hatalmas földalatti kupolája következik. A délután egy frissítő túráé a Plateau des Landes természetvédelmi területen. Zárja az autós utat a Saint-Riquier és a Sainte-Soyecques csendes, elmélyült tereinek meglátogatásával.",
         "ro": "Conduceți devreme către impresionantul Castel Westhove, bucurându-vă de măreția sa istorică. Dimineața târziu vă aduce la vechiul Moulin de l'Arquet, urmat de vastul dom subteran La Coupole. După-amiaza este rezervată pentru o drumeție revigorantă în rezervația naturală Plateau des Landes. Încheiați călătoria vizitând spațiile liniștite de la Saint-Riquier și Sainte-Soyecques.",
         "en": "Drive early to the impressive Westhove Castle, soaking in its historical grandeur. Late morning brings you to the old Moulin de l'Arquet, followed by the vast underground dome of La Coupole. Your afternoon is reserved for a refreshing hike in the Plateau des Landes nature reserve. Conclude the road trip visiting the quiet, reflective spaces of Saint-Riquier and Sainte-Soyecques."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Auto geschützt, beginnen wir die Tour am Schloss Westhove. Mittags bieten die Mühle und das Museum La Coupole spannende Einblicke, während wir draußen trocken bleiben. Am Nachmittag führt die Fahrt zum Naturschutzgebiet, wo die grauen Wolken eine dramatische Kulisse bilden. Wir beenden den Tag entspannt bei den Kapellen, während der Regen gegen die Scheiben prasselt.",
+            "hu": "Az autó kényelmében védve kezdjük a túrát a Westhove kastélynál. Délben a malom és a La Coupole múzeum nyújt izgalmas látnivalót, miközben mi szárazon maradunk. Délután a természetvédelmi területre vezet az utunk, ahol a szürke felhők drámai hátteret adnak. A napot pihentetően fejezzük be a kápolnáknál, miközben az eső az ablakon kopog.",
+            "ro": "Protejați de confortul mașinii, începem turul la castelul Westhove. La prânz, moara și muzeul La Coupole oferă perspective fascinante în timp ce rămânem la adăpost. După-amiaza conducem către rezervația naturală, unde norii gri creează un cadru dramatic. Încheiem ziua relaxați la capele, în timp ce ploaia bate în parbriz.",
+            "en": "Comfortably protected in the car, we begin the tour at Westhove Castle. At noon, the mill and La Coupole museum provide exciting insights while we stay dry inside. In the afternoon, the drive leads to the nature reserve, where the gray clouds form a dramatic backdrop. We end the day relaxed at the chapels while the rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Westhove",
+                "hu": "Westhove kastély",
+                "ro": "Castelul Westhove",
+                "en": "Westhove Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Weg durch den Regen kurz zu halten; das Schloss wirkt bei nassem Wetter sehr imposant.",
+                "hu": "Parkoljon közel a bejárathoz, hogy rövid legyen az út az esőben; a kastély vizes időben nagyon impozáns látvány.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie; castelul pare foarte impunător pe vreme umedă.",
+                "en": "Park close to the entrance to keep the walk through the rain short; the castle looks very imposing in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle de l'Arquet",
+                "hu": "Arquet malom",
+                "ro": "Moara de l'Arquet",
+                "en": "Arquet Mill"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Mühle vom Auto aus oder nutzen Sie eine Regenpause für ein schnelles Foto an der historischen Anlage.",
+                "hu": "Élvezze a malom látványát az autóból, vagy használja ki az esőszünetet egy gyors fotóra a történelmi épületnél.",
+                "ro": "Bucurați-vă de vederea morii din mașină sau profitați de o pauză de ploaie pentru o fotografie rapidă la clădirea istorică.",
+                "en": "Enjoy the view of the mill from the car or take advantage of a break in the rain for a quick photo at the historical site."
+              }
+            },
+            {
+              "name": {
+                "de": "La Coupole",
+                "hu": "La Coupole",
+                "ro": "La Coupole",
+                "en": "La Coupole"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Regen; das Museum bietet weitläufige, überdachte Ausstellungsflächen für mehrere Stunden Aufenthalt.",
+                "hu": "Ideális megálló esőben; a múzeum kiterjedt, fedett kiállítóterei többórás tartalmas kikapcsolódást kínálnak.",
+                "ro": "O oprire ideală pe ploaie; muzeul oferă spații expoziționale vaste și acoperite pentru o vizită de câteva ore.",
+                "en": "An ideal stop in the rain; the museum offers extensive, covered exhibition areas for several hours of stay."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Plateau des Landes",
+                "hu": "Plateau des Landes Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Plateau des Landes",
+                "en": "Plateau des Landes Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die Aussichtspunkte an; die neblige Heide des Plateaus hat bei Regen einen ganz eigenen, wilden Charme.",
+                "hu": "Keresse fel a kilátópontokat; a fennsík ködös pusztasága esőben különleges, vadregényes bájjal rendelkezik.",
+                "ro": "Conduceți către punctele de belvedere; câmpia cețoasă a platoului are un farmec sălbatic aparte atunci când plouă.",
+                "en": "Drive to the viewpoints; the misty heath of the plateau has a unique, wild charm when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Riquier",
+                "hu": "Saint-Riquier templom",
+                "ro": "Biserica Saint-Riquier",
+                "en": "Saint-Riquier Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen trockenen und würdevollen Ort für eine Pause; achten Sie beim Parken auf größere Pfützen.",
+                "hu": "A templom száraz és méltóságteljes helyet kínál a pihenésre; parkoláskor ügyeljen a nagyobb tócsákra.",
+                "ro": "Biserica oferă un loc uscat și demn pentru o pauză; atenție la bălțile mari când parcați.",
+                "en": "The church offers a dry and dignified place for a break; watch out for large puddles when parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Sainte-Soyecques",
+                "hu": "Sainte-Soyecques kápolna",
+                "ro": "Capela Sainte-Soyecques",
+                "en": "Sainte-Soyecques Chapel"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Tour hier ausklingen; das prasselnde Regengeräusch an der Kapelle schafft eine gemütliche Atmosphäre im Auto.",
+                "hu": "Itt fejezze be a túrát; a kápolnánál kopogó eső hangja meghitt hangulatot teremt az autóban.",
+                "ro": "Încheiați turul aici; sunetul ploii care bate lângă capelă creează o atmosferă primitoare în mașină.",
+                "en": "End the tour here; the sound of the rain drumming near the chapel creates a cozy atmosphere in the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit eingeschalteter Heizung genießen wir die winterliche Fahrt, beginnend am frostigen Schloss Westhove. Mittags verbringen wir viel Zeit im La Coupole, um der Kälte zu entgehen und in die Geschichte einzutauchen. Die Nachmittagsfahrt durch das Naturschutzgebiet bietet klare Ausblicke auf die winterliche Landschaft. Da es um 17:00 Uhr dunkelt, beenden wir den Tag sicher bei den Kapellen.",
+            "hu": "Bekapcsolt fűtéssel élvezzük a téli autózást, a fagyos Westhove kastélynál kezdve. Délben sok időt töltünk a La Coupole-ban, elkerülve a hideget és elmerülve a történelemben. A délutáni autózás a természetvédelmi területen keresztül tiszta kilátást nyújt a téli tájra. Mivel 17:00-kor sötétedik, a napot biztonságban a kápolnáknál fejezzük be.",
+            "ro": "Cu încălzirea pornită, ne bucurăm de drumul de iarnă, începând de la castelul înghețat Westhove. La prânz, petrecem mult timp la La Coupole pentru a evita frigul și a ne cufunda în istorie. Drumul de după-amiază prin rezervația naturală oferă vederi clare asupra peisajului hibernal. Deoarece se întunecă la ora 17:00, încheiem ziua în siguranță la capele.",
+            "en": "With the heater on, we enjoy the winter drive, starting at the frosty Westhove Castle. At noon, we spend plenty of time at La Coupole to avoid the cold and immerse ourselves in history. The afternoon drive through the nature reserve offers clear views of the wintry landscape. As it gets dark by 17:00, we end the day safely at the chapels."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Westhove",
+                "hu": "Westhove kastély",
+                "ro": "Castelul Westhove",
+                "en": "Westhove Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die verschneite oder frostige Fassade; die warme Jacke sollte für den kurzen Fotostopp griffbereit sein.",
+                "hu": "Csodálja meg a havas vagy zúzmarás homlokzatot; a meleg kabát legyen kéznél a rövid fotómegállóhoz.",
+                "ro": "Admirați fațada înzăpezită sau înghețată; aveți jacheta groasă la îndemână pentru scurta oprire foto.",
+                "en": "Admire the snowy or frosty facade; have your warm jacket ready for the short photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle de l'Arquet",
+                "hu": "Arquet malom",
+                "ro": "Moara de l'Arquet",
+                "en": "Arquet Mill"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle wirkt in der klaren Winterluft sehr malerisch; nutzen Sie das weiche Winterlicht für detailreiche Aufnahmen.",
+                "hu": "A malom a tiszta téli levegőben nagyon festői; használja ki a lágy téli fényt a részletgazdag felvételekhez.",
+                "ro": "Moara pare foarte pitorească în aerul curat de iarnă; folosiți lumina slabă pentru fotografii detaliate.",
+                "en": "The mill looks very picturesque in the clear winter air; take advantage of the soft winter light for detailed shots."
+              }
+            },
+            {
+              "name": {
+                "de": "La Coupole",
+                "hu": "La Coupole",
+                "ro": "La Coupole",
+                "en": "La Coupole"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den kältesten Teil des Tages; die Ausstellungen im Inneren sind beheizt und sehr informativ.",
+                "hu": "A tökéletes hely a nap leghidegebb részéhez; a belső kiállítások fűtöttek és rendkívül informatívak.",
+                "ro": "Locul perfect pentru cea mai rece parte a zilei; expozițiile din interior sunt încălzite și foarte informative.",
+                "en": "The perfect place for the coldest part of the day; the indoor exhibitions are heated and very informative."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Plateau des Landes",
+                "hu": "Plateau des Landes Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Plateau des Landes",
+                "en": "Plateau des Landes Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Aussicht über das Plateau; bei Frost wirken die weiten Heideflächen besonders beeindruckend.",
+                "hu": "Élvezze a tágas kilátást a fennsíkról; fagyos időben a hatalmas pusztaság különösen lenyűgöző látványt nyújt.",
+                "ro": "Bucurați-vă de vederea panoramică de pe platou; în timpul gerului, câmpia întinsă pare deosebit de impresionantă.",
+                "en": "Enjoy the wide views over the plateau; in frosty weather, the vast heathlands look particularly impressive."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Riquier",
+                "hu": "Saint-Riquier templom",
+                "ro": "Biserica Saint-Riquier",
+                "en": "Saint-Riquier Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor Einbruch der Dunkelheit; das warme Licht im Inneren bildet einen schönen Kontrast zur Kälte.",
+                "hu": "Látogassa meg a templomot sötétedés előtt; a belső tér meleg fényei szép kontrasztot alkotnak a kinti hideggel.",
+                "ro": "Vizitați biserica înainte de lăsarea întunericului; lumina caldă din interior oferă un contrast plăcut cu frigul de afară.",
+                "en": "Visit the church before dark; the warm lights inside provide a beautiful contrast to the cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Sainte-Soyecques",
+                "hu": "Sainte-Soyecques kápolna",
+                "ro": "Capela Sainte-Soyecques",
+                "en": "Sainte-Soyecques Chapel"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour in der frühen Abenddämmerung ab; achten Sie auf mögliche Glätte auf den Nebenstraßen.",
+                "hu": "Zárja a túrát a kora esti szürkületben; ügyeljen az esetleges jegesedésre a mellékutakon.",
+                "ro": "Încheiați turul în amurgul serii; atenție la posibilele porțiuni cu gheață de pe drumurile secundare.",
+                "en": "Finish the tour in the early evening twilight; watch out for potential icy patches on the side roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

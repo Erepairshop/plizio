@@ -137,6 +137,168 @@
         "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Spaziergang über den weichen Sand des Kamala Beach und genießen Sie den ruhigen Blick auf den Ozean. Die sanften Wellen bieten einen perfekten Start.",
         "hu": "Kezdje a reggelt egy frissítő sétával a Kamala tengerpart puha homokján, és élvezze a nyugodt óceáni kilátást. A lágy hullámok tökéletes, békés kezdést biztosítanak a napnak.",
         "ro": "Începe dimineața cu o plimbare răcoritoare pe nisipul moale de la Plaja Kamala, admirând priveliștile liniștite ale oceanului. Valurile blânde oferă un început perfect de zi."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "A morning walk on the shore feels dramatic with the grey waves and salt spray. By noon, the sheltered walkways of the theme parks offer a colorful escape from the tropical downpour. The afternoon is best spent in the dry sanctuary of the museum, listening to the rain on the roof. Evening concludes with neon lights reflecting in the puddles, creating a magical atmosphere despite the wet weather.",
+            "de": "Ein morgendlicher Spaziergang am Ufer wirkt mit den grauen Wellen und der salzigen Gischt dramatisch. Mittags bieten die überdachten Wege der Themenparks eine farbenfrohe Flucht vor dem tropischen Regenguss. Den Nachmittag verbringt man am besten im trockenen Museum, während der Regen leise auf das Dach trommelt. Der Abend endet mit Neonlichtern, die sich zauberhaft in den Pfützen spiegeln.",
+            "hu": "A reggeli parti séta drámai hangulatot áraszt a szürke hullámokkal és a sós párával. Délben a témaparkok fedett sétányai nyújtanak színes menedéket a trópusi felhőszakadás elől. A délutánt érdemes a múzeum száraz csöndjében tölteni, hallgatva a tetőn kopogó esőt. Az este a tócsákban tükröződő neonfényekkel zárul, ami a vizes idő ellenére is varázslatos hangulatot teremt a kivilágított utcákon.",
+            "ro": "O plimbare de dimineață pe malul mării pare dramatică, cu valuri cenușii și aerosoli sărați. La prânz, aleile acoperite ale parcurilor tematice oferă o evadare colorată din calea aversei tropicale. După-amiaza este cel mai bine petrecută în sanctuarul uscat al muzeului, ascultând ploaia pe acoperiș. Seara se încheie cu lumini de neon care se reflectă în bălți, creând o atmosferă magică în ciuda vremii umede."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Kamala Beach",
+                "de": "Kamala Strand",
+                "hu": "Kamala tengerpart",
+                "ro": "Plaja Kamala"
+              },
+              "tip_5lang": {
+                "en": "Watch the powerful monsoon waves from the safety of a beachfront cafe and keep your electronics in a waterproof dry bag.",
+                "de": "Beobachten Sie die gewaltigen Monsunwellen sicher von einem Café am Strand aus und bewahren Sie Ihre Elektronik in einer wasserdichten Tasche auf.",
+                "hu": "Figyelje a hatalmas monszun hullámokat egy tengerparti kávézó biztonságából, és tartsa elektronikai eszközeit vízhatlan táskában.",
+                "ro": "Priviți valurile puternice ale musonului din siguranța unei cafenele de pe plajă și păstrați electronicele într-o geantă impermeabilă."
+              }
+            },
+            {
+              "name": {
+                "en": "Phuket FantaSea",
+                "de": "Phuket FantaSea",
+                "hu": "Phuket FantaSea",
+                "ro": "Phuket FantaSea"
+              },
+              "tip_5lang": {
+                "en": "The extensive palace replicas are mostly interconnected by covered paths, so you can enjoy the Thai mythology exhibits without getting wet.",
+                "de": "Die weitläufigen Palastnachbildungen sind größtenteils durch überdachte Wege verbunden, sodass Sie die Ausstellungen trocken genießen können.",
+                "hu": "A kiterjedt palotamásolatokat többnyire fedett utak kötik össze, így szárazon élvezheti a thai mitológiai kiállításokat az esőben is.",
+                "ro": "Replicele extinse de palate sunt în mare parte interconectate prin poteci acoperite, astfel încât să vă puteți bucura de expoziții fără a vă uda."
+              }
+            },
+            {
+              "name": {
+                "en": "Carnival Magic",
+                "de": "Carnival Magic",
+                "hu": "Carnival Magic",
+                "ro": "Carnival Magic"
+              },
+              "tip_5lang": {
+                "en": "Head straight to the indoor 'Kingdom of Lights' where millions of LEDs create a dazzling spectacle protected from the outside elements.",
+                "de": "Gehen Sie direkt in das überdachte 'Kingdom of Lights', wo Millionen von LEDs ein blendendes Spektakel geschützt vor dem Regen bieten.",
+                "hu": "Irány egyenesen a fedett fénybirodalom, ahol több millió LED teremt káprázatos látványt, miközben Ön védve marad az időjárás viszontagságaitól.",
+                "ro": "Mergeți direct în 'Regatul Luminilor' de interior, unde milioane de LED-uri creează un spectacol uluitor protejat de elementele exterioare."
+              }
+            },
+            {
+              "name": {
+                "en": "River Theater",
+                "de": "Flusstheater",
+                "hu": "Folyó Színház",
+                "ro": "Teatrul Râului"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the spectacular stage show from the comfort of the sheltered grandstand; the sound of rain adds a natural layer to the performance.",
+                "de": "Genießen Sie die spektakuläre Bühnenshow bequem von der überdachten Tribüne aus; das Regengeräusch verleiht der Aufführung eine besondere Note.",
+                "hu": "Élvezze a látványos színpadi show-t a fedett nézőtér kényelméből; az eső kopogása természetes hangkulisszát ad az előadáshoz.",
+                "ro": "Bucurați-vă de spectacolul de scenă din confortul tribunei adăpostite; sunetul ploii adaugă un strat natural spectaculos reprezentației."
+              }
+            },
+            {
+              "name": {
+                "en": "333 Museum",
+                "de": "333 Museum",
+                "hu": "333 Múzeum",
+                "ro": "Muzeul 333"
+              },
+              "tip_5lang": {
+                "en": "This indoor gallery is the perfect sanctuary; take your time admiring the local art while waiting for the heaviest showers to pass.",
+                "de": "Diese Innengalerie ist der perfekte Zufluchtsort; nehmen Sie sich Zeit für die lokale Kunst, während Sie auf das Ende des Schauers warten.",
+                "hu": "Ez a beltéri galéria a tökéletes menedék; szánjon időt a helyi művészet megcsodálására, amíg megvárja a heves záporok levonulását.",
+                "ro": "Această galerie interioară este sanctuarul perfect; admirați arta locală pe îndelete în timp ce așteptați să treacă cele mai grele averse."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "The cooler dry season air makes the morning beach walk exceptionally pleasant. At noon, the parks are easy to explore without the intense tropical heat. Since the sun sets early around 17:00, the afternoon visit to the museum is timed perfectly to transition into a brilliantly lit evening at the theaters. The crisp night air is refreshing as you walk through the festive displays.",
+            "de": "Die kühlere Luft der Trockenzeit macht den morgendlichen Strandspaziergang besonders angenehm. Mittags lassen sich die Parks ohne die intensive Hitze erkunden. Da die Sonne früh gegen 17:00 Uhr untergeht, ist der Museumsbesuch am Nachmittag perfekt getimt. Die klare Nachtluft wirkt erfrischend, während Sie durch die festlich beleuchteten Anlagen spazieren.",
+            "hu": "A száraz évszak hűvösebb levegője rendkívül kellemessé teszi a reggeli tengerparti sétát. Délben a parkok kényelmesen bejárhatók az intenzív trópusi hőség nélkül. Mivel a nap korán, 17:00 körül nyugszik, a délutáni múzeumlátogatás tökéletes átmenet a ragyogóan kivilágított estékbe. A friss éjszakai levegő üdítően hat, miközben a kivilágított látványosságok között sétálunk.",
+            "ro": "Aerul mai răcoros al sezonului uscat face plimbarea de dimineață pe plajă extrem de plăcută. La prânz, parcurile sunt ușor de explorat fără căldura tropicală intensă. Deoarece soarele apune devreme, în jurul orei 17:00, vizita la muzeu este programată perfect pentru seară. Aerul proaspăt al nopții este revigorant în timp ce vă plimbați prin zonele festive."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Kamala Beach",
+                "de": "Kamala Strand",
+                "hu": "Kamala tengerpart",
+                "ro": "Plaja Kamala"
+              },
+              "tip_5lang": {
+                "en": "The early morning light is soft and perfect for photos, and the sea breeze is cool enough to stay on the sand for hours.",
+                "de": "Das frühe Morgenlicht ist sanft und perfekt für Fotos, und die Meeresbrise ist kühl genug, um stundenlang am Strand zu bleiben.",
+                "hu": "A kora reggeli fények lágyak és tökéletesek a fotózáshoz, a tengeri szellő pedig elég hűvös ahhoz, hogy órákig a homokban maradhassunk.",
+                "ro": "Lumina dimineții este blândă și perfectă pentru fotografii, iar briza mării este suficient de răcoroasă pentru a sta pe nisip ore în șir."
+              }
+            },
+            {
+              "name": {
+                "en": "Phuket FantaSea",
+                "de": "Phuket FantaSea",
+                "hu": "Phuket FantaSea",
+                "ro": "Phuket FantaSea"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the outdoor cultural village during the midday lull, as the winter sun is much more manageable for walking between attractions.",
+                "de": "Genießen Sie das kulturelle Dorf im Freien während der Mittagszeit, da die Wintersonne viel angenehmer für Spaziergänge ist.",
+                "hu": "Élvezze a szabadtéri kulturális falut a déli órákban is, mivel a téli nap ereje sokkal elviselhetőbb a látványosságok közötti sétához.",
+                "ro": "Bucurați-vă de satul cultural în aer liber în timpul prânzului, deoarece soarele de iarnă este mult mai ușor de gestionat pentru plimbări."
+              }
+            },
+            {
+              "name": {
+                "en": "Carnival Magic",
+                "de": "Carnival Magic",
+                "hu": "Carnival Magic",
+                "ro": "Carnival Magic"
+              },
+              "tip_5lang": {
+                "en": "Arrive just before the 17:00 sunset to witness the park transform with millions of lights as the darkness settles quickly.",
+                "de": "Kommen Sie kurz vor Sonnenuntergang gegen 17:00 Uhr an, um zu sehen, wie sich der Park bei schnell einsetzender Dunkelheit in ein Lichtermeer verwandelt.",
+                "hu": "Érkezzen közvetlenül a 17:00-ás napnyugta előtt, hogy tanúja legyen a park átalakulásának a gyorsan leszálló sötétségben felgyúló fényekkel.",
+                "ro": "Sosiți chiar înainte de apusul de la ora 17:00 pentru a vedea cum parcul se transformă cu milioane de lumini pe măsură ce întunericul se lasă rapid."
+              }
+            },
+            {
+              "name": {
+                "en": "River Theater",
+                "de": "Flusstheater",
+                "hu": "Folyó Színház",
+                "ro": "Teatrul Râului"
+              },
+              "tip_5lang": {
+                "en": "Bring a light shawl for the evening show, as the open-air theater can feel surprisingly chilly once the sun has disappeared.",
+                "de": "Bringen Sie ein leichtes Tuch für die Abendvorstellung mit, da es im Open-Air-Theater nach Sonnenuntergang überraschend kühl werden kann.",
+                "hu": "Vigyen magával egy könnyű sálat az esti előadásra, mivel a szabadtéri színházban meglepően hűvös lehet a naplemente után.",
+                "ro": "Aduceți un șal ușor pentru spectacolul de seară, deoarece teatrul în aer liber poate fi surprinzător de răcoros după ce soarele apune."
+              }
+            },
+            {
+              "name": {
+                "en": "333 Museum",
+                "de": "333 Museum",
+                "hu": "333 Múzeum",
+                "ro": "Muzeul 333"
+              },
+              "tip_5lang": {
+                "en": "The gallery's climate-controlled environment is a great place to warm up or simply rest after a day of exploring the breezy coast.",
+                "de": "Die klimatisierte Galerie ist ein großartiger Ort, um sich aufzuwärmen oder einfach nach einem Tag an der windigen Küste auszuruhen.",
+                "hu": "A galéria szabályozott hőmérsékletű környezete remek hely a pihenésre vagy felmelegedésre a szeles tengerpart felfedezése után.",
+                "ro": "Mediul climatizat al galeriei este un loc minunat pentru a vă încălzi sau pur și simplu pentru a vă odihni după o zi pe coasta vântoasă."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "de": "Beginnen Sie mit einer gemütlichen Radtour entlang der südlichen Anwesen, bevor Sie den beliebten Kamala Beach erreichen. Entspannen Sie sich am späten Vormittag an den sanften Wellen.",
         "hu": "Kezdje egy kényelmes biciklizéssel a déli birtokok mentén, élvezve a trópusi építészetet, mielőtt megérkezik a népszerű Kamala strandra. Töltse a délelőttöt a lágy hullámok melletti pihenéssel.",
         "ro": "Începe cu o plimbare lejeră cu bicicleta pe lângă domeniile sudice, admirând arhitectura tropicală înainte de a ajunge la populara Plajă Kamala. Relaxează-te lângă valurile blânde."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Cycling through the warm rain requires caution on the slick roads, but the landscape looks lush and vibrant. Noon stops at the major attractions provide long breaks to dry off and enjoy indoor activities. The afternoon ride to the museum is short, minimizing exposure. Despite the rain, the tropical air keeps the journey pleasant as long as you have the right gear.",
+            "de": "Radfahren im warmen Regen erfordert Vorsicht auf glatten Straßen, aber die Landschaft wirkt üppig und lebendig. Mittagsstopps bieten lange Pausen zum Abtrocknen und für Indoor-Aktivitäten. Die Fahrt zum Museum am Nachmittag ist kurz und minimiert die Nässe. Trotz des Regens bleibt die Reise dank der tropischen Luft angenehm.",
+            "hu": "A meleg esőben való biciklizés óvatosságot igényel a csúszós utakon, de a táj ilyenkor burjánzó és élénk. A déli megállók a főbb látványosságoknál hosszú szünetet biztosítanak a megszáradáshoz és a benti programokhoz. A délutáni tekerés a múzeumig rövid, így kevés időt töltünk a szabadban. Az eső ellenére a trópusi levegő kellemesen tartja az utat.",
+            "ro": "Ciclismul prin ploaia caldă necesită prudență pe drumurile alunecoase, dar peisajul arată luxuriant și vibrant. Opririle de la prânz oferă pauze lungi pentru a vă usca și a vă bucura de activități interioare. Drumul de după-amiază spre muzeu este scurt, minimizând expunerea. În ciuda ploii, aerul tropical menține călătoria plăcută."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Kamala Beach Estate Apartments",
+                "de": "Kamala Beach Estate Apartments",
+                "hu": "Kamala Beach Estate Apartmanok",
+                "ro": "Apartamentele Kamala Beach Estate"
+              },
+              "tip_5lang": {
+                "en": "Check your bike's tire pressure and brakes before heading out, as the wet pavement around the estate can be very slippery.",
+                "de": "Prüfen Sie Reifendruck und Bremsen, bevor Sie losfahren, da das nasse Pflaster rund um das Anwesen sehr rutschig sein kann.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást és a fékeket, mivel az apartmanok körüli vizes aszfalt nagyon csúszós lehet.",
+                "ro": "Verificați presiunea anvelopelor și frânele bicicletei înainte de a pleca, deoarece pavajul umed din jurul complexului poate fi alunecos."
+              }
+            },
+            {
+              "name": {
+                "en": "Kamala Beach",
+                "de": "Kamala Strand",
+                "hu": "Kamala tengerpart",
+                "ro": "Plaja Kamala"
+              },
+              "tip_5lang": {
+                "en": "Ride slowly along the promenade to avoid splashing, and park your bike under the shade of a large tree or a beachfront shelter.",
+                "de": "Fahren Sie langsam entlang der Promenade und parken Sie Ihr Rad im Schutz eines großen Baumes oder einer Strandhütte.",
+                "hu": "Tekerjen lassan a sétányon a fröccsenés elkerülése érdekében, és parkoljon egy nagy fa vagy egy parti esőbeálló védelmében.",
+                "ro": "Pedalați încet de-a lungul promenadei pentru a evita stropirea și parcați bicicleta sub umbra unui copac mare sau a unui adăpost de plajă."
+              }
+            },
+            {
+              "name": {
+                "en": "Phuket FantaSea",
+                "de": "Phuket FantaSea",
+                "hu": "Phuket FantaSea",
+                "ro": "Phuket FantaSea"
+              },
+              "tip_5lang": {
+                "en": "Take advantage of the designated parking areas near the entrance to quickly head inside for the sheltered shows and exhibitions.",
+                "de": "Nutzen Sie die ausgewiesenen Parkplätze am Eingang, um schnell zu den überdachten Shows und Ausstellungen im Inneren zu gelangen.",
+                "hu": "Használja a bejárat közeli kijelölt parkolókat, hogy gyorsan bejuthasson a fedett előadásokra és kiállításokra.",
+                "ro": "Profitați de zonele de parcare desemnate de lângă intrare pentru a intra rapid la spectacolele și expozițiile adăpostite."
+              }
+            },
+            {
+              "name": {
+                "en": "Carnival Magic",
+                "de": "Carnival Magic",
+                "hu": "Carnival Magic",
+                "ro": "Carnival Magic"
+              },
+              "tip_5lang": {
+                "en": "Park your bike securely and head to the buffet hall; it is a massive indoor space perfect for waiting out a heavy tropical downpour.",
+                "de": "Parken Sie Ihr Rad sicher und gehen Sie zur Buffet-Halle; ein riesiger Innenraum, perfekt um einen schweren Regenschauer abzuwarten.",
+                "hu": "Parkolja le biztonságosan a biciklit és irány a büféterem; ez egy hatalmas beltéri helyszín, amely tökéletes a trópusi eső kivárására.",
+                "ro": "Parcați bicicleta în siguranță și mergeți la sala de bufet; este un spațiu interior masiv, perfect pentru a aștepta trecerea ploii."
+              }
+            },
+            {
+              "name": {
+                "en": "333 Museum",
+                "de": "333 Museum",
+                "hu": "333 Múzeum",
+                "ro": "Muzeul 333"
+              },
+              "tip_5lang": {
+                "en": "The museum offers a dry and quiet environment where you can rest your legs while enjoying contemporary Thai art collections.",
+                "de": "Das Museum bietet eine trockene und ruhige Umgebung, in der Sie Ihre Beine ausruhen und zeitgenössische Kunst genießen können.",
+                "hu": "A múzeum száraz és csendes környezetet kínál, ahol megpihentetheti lábait, miközben a kortárs thai művészeti gyűjteményeket böngészi.",
+                "ro": "Muzeul oferă un mediu uscat și liniștit în care vă puteți odihni picioarele în timp ce vă bucurați de colecțiile de artă contemporană."
+              }
+            },
+            {
+              "name": {
+                "en": "Laem Sing Beach",
+                "de": "Laem Sing Strand",
+                "hu": "Laem Sing tengerpart",
+                "ro": "Plaja Laem Sing"
+              },
+              "tip_5lang": {
+                "en": "The path down to this beach can be extremely muddy and slippery when wet, so exercise great caution if you decide to descend.",
+                "de": "Der Weg zum Strand kann bei Nässe extrem schlammig und rutschig sein; seien Sie beim Abstieg also besonders vorsichtig.",
+                "hu": "A tengerpartra vezető ösvény rendkívül sáros és csúszós lehet esőben, ezért legyen nagyon óvatos, ha leereszkedik a parthoz.",
+                "ro": "Poteca spre această plajă poate fi extrem de noroioasă și alunecoasă; manifestați mare prudență dacă decideți să coborâți."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Cycling is best in the winter, with the cool breeze making the physical effort effortless. The midday sun is bright but not scorching, allowing for a smooth ride between the beach and the theme parks. As the 17:00 sunset approaches, the coastal views become golden and stunning. The evening ride back is refreshing under the clear, starlit sky as temperatures drop slightly.",
+            "de": "Fahrradfahren ist im Winter am besten, da die kühle Brise die Anstrengung fast vergessen lässt. Die Mittagssonne ist hell, aber nicht sengend. Wenn der Sonnenuntergang gegen 17:00 Uhr naht, wird die Küste in goldenes Licht getaucht. Die abendliche Rückfahrt unter klarem Sternenhimmel ist bei leicht sinkenden Temperaturen sehr erfrischend.",
+            "hu": "A biciklizés télen a legjobb, a hűvös szellő szinte erőfeszítés nélkülivé teszi a tekerést. A déli nap fényes, de nem égető, így kényelmes az út a strand és a parkok között. Ahogy közeledik a 17:00-ás naplemente, a parti kilátás aranylóvá és lenyűgözővé válik. Az esti visszautat a csillagos égbolt és a felfrissítő éjszakai levegő teszi teljessé.",
+            "ro": "Ciclismul este cel mai bun iarna, briza răcoroasă făcând efortul fizic mult mai ușor. Soarele de la prânz este strălucitor, dar nu arzător. Pe măsură ce se apropie apusul de la ora 17:00, vederile de pe coastă devin aurii și uimitoare. Drumul de întoarcere seara este revigorant sub cerul înstelat, temperaturile scăzând ușor."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Kamala Beach Estate Apartments",
+                "de": "Kamala Beach Estate Apartments",
+                "hu": "Kamala Beach Estate Apartmanok",
+                "ro": "Apartamentele Kamala Beach Estate"
+              },
+              "tip_5lang": {
+                "en": "Start your ride early to enjoy the crispest morning air and avoid the few hours when the winter sun is at its peak.",
+                "de": "Starten Sie früh, um die frische Morgenluft zu genießen und die Stunden der stärksten Mittagssonne zu meiden.",
+                "hu": "Kezdje korán az utat, hogy élvezhesse a legfrissebb reggeli levegőt, és elkerülje azt a pár órát, amikor a téli nap a legerősebb.",
+                "ro": "Începeți plimbarea devreme pentru a vă bucura de aerul proaspăt al dimineții și pentru a evita soarele de iarnă la intensitate maximă."
+              }
+            },
+            {
+              "name": {
+                "en": "Kamala Beach",
+                "de": "Kamala Strand",
+                "hu": "Kamala tengerpart",
+                "ro": "Plaja Kamala"
+              },
+              "tip_5lang": {
+                "en": "Lock your bike near the trees and enjoy the mild temperature, which is ideal for a long walk along the entire shoreline.",
+                "de": "Schließen Sie Ihr Rad bei den Bäumen ab und genießen Sie die milden Temperaturen, ideal für einen langen Strandspaziergang.",
+                "hu": "Zárja le a biciklit a fák közelében, és élvezze az enyhe időt, amely ideális egy hosszú sétához a teljes partvonal mentén.",
+                "ro": "Încuiați bicicleta lângă copaci și bucurați-vă de temperatura blândă, ideală pentru o plimbare lungă de-a lungul întregului țărm."
+              }
+            },
+            {
+              "name": {
+                "en": "Phuket FantaSea",
+                "de": "Phuket FantaSea",
+                "hu": "Phuket FantaSea",
+                "ro": "Phuket FantaSea"
+              },
+              "tip_5lang": {
+                "en": "The dry air makes exploring the outdoor mythological sculptures much more comfortable than during the humid summer months.",
+                "de": "Die trockene Luft macht die Erkundung der mythologischen Skulpturen im Freien viel angenehmer als in den schwülen Sommermonaten.",
+                "hu": "A száraz levegő sokkal kényelmesebbé teszi a szabadtéri mitológiai szobrok felfedezését, mint a párás nyári hónapokban.",
+                "ro": "Aerul uscat face explorarea sculpturilor mitologice în aer liber mult mai confortabilă decât în lunile umede de vară."
+              }
+            },
+            {
+              "name": {
+                "en": "Carnival Magic",
+                "de": "Carnival Magic",
+                "hu": "Carnival Magic",
+                "ro": "Carnival Magic"
+              },
+              "tip_5lang": {
+                "en": "Ensure your bike has working lights for the return trip, as the 17:00 sunset means you will be riding back in the dark.",
+                "de": "Achten Sie auf funktionierendes Licht am Rad für die Rückfahrt, da es nach dem frühen Sonnenuntergang schnell dunkel wird.",
+                "hu": "Győződjön meg róla, hogy a bicikli lámpái működnek a visszautashoz, mivel a 17:00-ás naplemente után sötétben kell tekernie.",
+                "ro": "Asigurați-vă că bicicleta are lumini funcționale pentru drumul de întoarcere, deoarece apusul de la 17:00 aduce repede întunericul."
+              }
+            },
+            {
+              "name": {
+                "en": "333 Museum",
+                "de": "333 Museum",
+                "hu": "333 Múzeum",
+                "ro": "Muzeul 333"
+              },
+              "tip_5lang": {
+                "en": "Take a break from the wind in this cultural hub; the afternoon is the perfect time to explore the indoor exhibits in comfort.",
+                "de": "Gönnen Sie sich in diesem Kulturzentrum eine Pause vom Wind; der Nachmittag ist ideal für die Innenausstellungen.",
+                "hu": "Tartson egy kis szünetet a széltől ebben a kulturális központban; a délután tökéletes időpont a benti kiállítások kényelmes megtekintéséhez.",
+                "ro": "Luați o pauză de vânt în acest centru cultural; după-amiaza este momentul perfect pentru a explora expozițiile interioare în confort."
+              }
+            },
+            {
+              "name": {
+                "en": "Laem Sing Beach",
+                "de": "Laem Sing Strand",
+                "hu": "Laem Sing tengerpart",
+                "ro": "Plaja Laem Sing"
+              },
+              "tip_5lang": {
+                "en": "The clear winter skies provide the best visibility from the viewpoint, making it a great final stop before the early evening sets in.",
+                "de": "Der klare Winterhimmel bietet die beste Sicht vom Aussichtspunkt; ein großartiger letzter Stopp vor dem frühen Abend.",
+                "hu": "A tiszta téli égbolt biztosítja a legjobb láthatóságot a kilátópontról, így ez egy nagyszerű utolsó állomás a kora este beállta előtt.",
+                "ro": "Cerul senin de iarnă oferă cea mai bună vizibilitate din punctul de belvedere, făcând din acesta o ultimă oprire excelentă."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "de": "Ihr Roadtrip beginnt am unberührten Nakalay Beach, gefolgt von einem Besuch im Camp Chang Kalim in den Hügeln. Die morgendliche Fahrt bietet hervorragende Ausblicke auf die Küste.",
         "hu": "Autós kirándulása az érintetlen Nakalay strandon kezdődik, majd egy érdekes látogatással folytatódik a hegyekben lévő Camp Chang Kalimban. A reggeli út kiváló kilátást nyújt a partra.",
         "ro": "Excursia începe la plaja neatinsă Nakalay, urmată de o vizită captivantă la Tabăra Chang Kalim. Plimbarea de dimineață oferă priveliști excelente asupra coastei Mării Andaman."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "The car is the ultimate refuge during the rainy season, allowing you to move between beaches and attractions while staying perfectly dry. Morning drives reveal dramatic coastal views shrouded in mist. Midday is spent in the large sheltered entertainment complexes, which are easily accessible by car. Even with heavy rain, the museum and theaters remain comfortable highlights for the day.",
+            "de": "Das Auto ist der ultimative Zufluchtsort in der Regenzeit und ermöglicht es Ihnen, trocken zwischen den Stränden und Attraktionen zu pendeln. Vormittagsfahrten zeigen dramatische Küstenansichten im Nebel. Den Mittag verbringen Sie in den großen, wetterfesten Unterhaltungskomplexen. Auch bei starkem Regen bleiben das Museum und die Theater komfortable Höhepunkte des Tages.",
+            "hu": "Az autó a legjobb menedék az esős évszakban, lehetővé téve a strandok és látnivalók közötti közlekedést teljes szárazságban. A reggeli út során a ködbe burkolózó, drámai tengerparti kilátásban gyönyörködhetünk. A délidőt a nagy, fedett szórakoztató központokban töltjük, amelyek autóval könnyen megközelíthetők. Még heves esőben is kényelmes állomás marad a múzeum és a színházak sora.",
+            "ro": "Mașina este refugiul suprem în timpul sezonului ploios, permițându-vă să vă deplasați între plaje și atracții rămânând perfect uscat. Dimineața dezvăluie vederi de coastă dramatice, învăluite în ceață. Prânzul este petrecut în marile complexe de divertisment adăpostite. Chiar și cu ploaie abundentă, muzeul și teatrele rămân puncte de atracție confortabile pentru întreaga zi."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Nakalay Beach",
+                "de": "Nakalay Strand",
+                "hu": "Nakalay tengerpart",
+                "ro": "Plaja Nakalay"
+              },
+              "tip_5lang": {
+                "en": "Park near the shore to watch the rain hitting the Andaman Sea from the comfort and dryness of your vehicle.",
+                "de": "Parken Sie in Ufernähe, um bequem vom trockenen Auto aus zu beobachten, wie der Regen auf die Andamanensee trifft.",
+                "hu": "Parkoljon a part közelében, hogy az autó kényelméből és szárazságából nézhesse, ahogy az eső az Andamán-tengerre hullik.",
+                "ro": "Parcați lângă țărm pentru a privi ploaia lovind Marea Andaman din confortul și uscăciunea vehiculului dumneavoastră."
+              }
+            },
+            {
+              "name": {
+                "en": "Camp Chang Kalim",
+                "de": "Camp Chang Kalim",
+                "hu": "Camp Chang Kalim",
+                "ro": "Tabăra Chang Kalim"
+              },
+              "tip_5lang": {
+                "en": "The elephant encounter areas have sheltered spots, so you can still interact with these gentle giants even during a downpour.",
+                "de": "Die Elefantenbereiche verfügen über überdachte Plätze, sodass Sie auch bei Regen mit den sanften Riesen interagieren können.",
+                "hu": "Az elefántokkal való találkozási helyek rendelkeznek fedett részekkel, így felhőszakadás idején is kapcsolatba léphet ezekkel a szelíd óriásokkal.",
+                "ro": "Zonele de întâlnire cu elefanții au locuri adăpostite, astfel încât să puteți interacționa cu acești giganți blânzi chiar și în timpul ploii."
+              }
+            },
+            {
+              "name": {
+                "en": "Hua Beach",
+                "de": "Hua Strand",
+                "hu": "Hua tengerpart",
+                "ro": "Plaja Hua"
+              },
+              "tip_5lang": {
+                "en": "Drive carefully on the unpaved access roads, as the mud can become quite slippery and deep after a heavy tropical rain.",
+                "de": "Fahren Sie vorsichtig auf den unbefestigten Zufahrtsstraßen, da der Schlamm nach starkem Regen sehr rutschig und tief sein kann.",
+                "hu": "Vezessen óvatosan a burkolatlan bekötőutakon, mivel a sár igen csúszóssá és méllyé válhat egy-egy heves trópusi eső után.",
+                "ro": "Conduceți cu atenție pe drumurile de acces neasfaltate, deoarece noroiul poate deveni destul de alunecos și adânc după o ploaie torențială."
+              }
+            },
+            {
+              "name": {
+                "en": "Kamala Beach",
+                "de": "Kamala Strand",
+                "hu": "Kamala tengerpart",
+                "ro": "Plaja Kamala"
+              },
+              "tip_5lang": {
+                "en": "Utilize the paved parking lots near the beachfront shops to minimize your walk from the car to the sheltered cafes.",
+                "de": "Nutzen Sie die befestigten Parkplätze bei den Strandgeschäften, um den Weg vom Auto zu den überdachten Cafés kurz zu halten.",
+                "hu": "Használja a tengerparti üzletek melletti aszfaltozott parkolókat, hogy minimálisra csökkentse a sétát az autótól a fedett kávézókig.",
+                "ro": "Utilizați parcările asfaltate de lângă magazinele de pe plajă pentru a minimiza plimbarea de la mașină până la cafenelele adăpostite."
+              }
+            },
+            {
+              "name": {
+                "en": "Phuket FantaSea",
+                "de": "Phuket FantaSea",
+                "hu": "Phuket FantaSea",
+                "ro": "Phuket FantaSea"
+              },
+              "tip_5lang": {
+                "en": "The park has ample parking and covered entryways, making it an ideal destination to visit by car during an afternoon storm.",
+                "de": "Der Park bietet reichlich Parkplätze und überdachte Eingänge, was ihn zum idealen Ziel für einen Besuch per Auto bei Sturm macht.",
+                "hu": "A park bőséges parkolóval és fedett bejáratokkal rendelkezik, így autóval ideális úti cél egy délutáni vihar idején is.",
+                "ro": "Parcul are locuri de parcare ample și intrări acoperite, fiind o destinație ideală de vizitat cu mașina în timpul unei furtuni."
+              }
+            },
+            {
+              "name": {
+                "en": "Carnival Magic",
+                "de": "Carnival Magic",
+                "hu": "Carnival Magic",
+                "ro": "Carnival Magic"
+              },
+              "tip_5lang": {
+                "en": "The indoor attractions like the buffet and the Kingdom of Lights ensure your group stays dry while enjoying the colorful spectacle.",
+                "de": "Die Indoor-Attraktionen wie das Buffet und das Kingdom of Lights sorgen dafür, dass Ihre Gruppe trocken bleibt und das Spektakel genießt.",
+                "hu": "A beltéri látványosságok, mint a büfé és a Fénybirodalom, garantálják, hogy a csoport szárazon élvezze a színes látványosságot.",
+                "ro": "Atracțiile interioare, cum ar fi bufetul și Regatul Luminilor, asigură că grupul dumneavoastră rămâne uscat în timp ce se bucură de spectacol."
+              }
+            },
+            {
+              "name": {
+                "en": "Laem Sing Beach",
+                "de": "Laem Sing Strand",
+                "hu": "Laem Sing tengerpart",
+                "ro": "Plaja Laem Sing"
+              },
+              "tip_5lang": {
+                "en": "The viewpoint parking allows for a quick photo of the stormy sea without getting too wet before you head to your next destination.",
+                "de": "Vom Parkplatz am Aussichtspunkt aus können Sie schnell ein Foto der stürmischen See machen, ohne dabei nass zu werden.",
+                "hu": "A kilátópont parkolója lehetővé teszi egy gyors fotó készítését a viharos tengerről anélkül, hogy túlságosan elázna a továbbindulás előtt.",
+                "ro": "Parcarea de la punctul de belvedere permite o fotografie rapidă a mării învolburate fără a vă uda prea tare înainte de a pleca."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Driving during the dry season is smooth and scenic, with clear skies offering brilliant views of the coastline. The air conditioning in the car provides a comfortable environment for short trips between the beaches and hills. Sunset at 17:00 marks the beginning of the vibrant evening shows, which are easy to reach by car. The cooler night air is perfect for a scenic drive back after the lights of the theme parks fade.",
+            "de": "Fahrten in der Trockenzeit sind angenehm und malerisch, da der klare Himmel eine brillante Sicht auf die Küste bietet. Die Klimaanlage sorgt für ein angenehmes Umfeld zwischen den Stopps. Der frühe Sonnenuntergang leitet die Abendshows ein, die bequem per Auto erreichbar sind. Die kühlere Nachtluft eignet sich perfekt für eine entspannte Rückfahrt.",
+            "hu": "Az autózás a száraz évszakban zökkenőmentes és látványos, a tiszta égbolt ragyogó kilátást nyújt a partvonalra. Az autó légkondicionálója kényelmes környezetet biztosít a strandok és dombok közötti rövid utakhoz. A 17:00-ás naplemente jelzi a vibráló esti show-k kezdetét, amelyek autóval könnyen elérhetők. A hűvösebb éjszakai levegő ideális egy hangulatos visszautazáshoz.",
+            "ro": "Condusul în sezonul uscat este lin și pitoresc, cerul senin oferind vederi strălucitoare ale coastei. Aerul condiționat din mașină oferă un mediu confortabil pentru călătorii scurte. Apusul de la 17:00 marchează începutul spectacolelor vibrante de seară, ușor de accesat cu mașina. Aerul răcoros al nopții este perfect pentru un drum de întoarcere pitoresc."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Nakalay Beach",
+                "de": "Nakalay Strand",
+                "hu": "Nakalay tengerpart",
+                "ro": "Plaja Nakalay"
+              },
+              "tip_5lang": {
+                "en": "The morning visibility is exceptional in winter; park and walk to the end of the pier for the best coastal panoramic photos.",
+                "de": "Die Sicht am Morgen ist im Winter außergewöhnlich; parken Sie und gehen Sie zum Ende des Piers für die besten Panoramafotos.",
+                "hu": "A reggeli láthatóság kiváló télen; parkoljon le, és sétáljon ki a móló végére a legjobb tengerparti panorámafotókért.",
+                "ro": "Vizibilitatea de dimineață este excepțională iarna; parcați și mergeți până la capătul debarcaderului pentru cele mai bune fotografii panoramice."
+              }
+            },
+            {
+              "name": {
+                "en": "Camp Chang Kalim",
+                "de": "Camp Chang Kalim",
+                "hu": "Camp Chang Kalim",
+                "ro": "Tabăra Chang Kalim"
+              },
+              "tip_5lang": {
+                "en": "Midday visits are much more pleasant in the dry season as the humidity is lower, making the outdoor interaction with elephants easier.",
+                "de": "Mittagsbesuche sind in der Trockenzeit viel angenehmer, da die Luftfeuchtigkeit niedriger ist und der Kontakt mit den Tieren leichter fällt.",
+                "hu": "A déli látogatás sokkal kellemesebb a száraz évszakban, mivel az alacsonyabb páratartalom megkönnyíti a szabadtéri elefántozást.",
+                "ro": "Vizitele de la prânz sunt mult mai plăcute în sezonul uscat, deoarece umiditatea este mai scăzută, ușurând interacțiunea în aer liber."
+              }
+            },
+            {
+              "name": {
+                "en": "Hua Beach",
+                "de": "Hua Strand",
+                "hu": "Hua tengerpart",
+                "ro": "Plaja Hua"
+              },
+              "tip_5lang": {
+                "en": "The dirt roads are dry and firm in winter, providing easy access to this secluded beach compared to the muddy conditions of summer.",
+                "de": "Die unbefestigten Straßen sind im Winter trocken und fest und bieten einen einfachen Zugang zu diesem abgelegenen Strand.",
+                "hu": "A földutak szárazak és szilárdak télen, így könnyű kijutni erre az eldugott strandra a nyári sáros körülményekhez képest.",
+                "ro": "Drumurile de pământ sunt uscate și ferme iarna, oferind acces ușor la această plajă retrasă în comparație cu condițiile noroioase."
+              }
+            },
+            {
+              "name": {
+                "en": "Kamala Beach",
+                "de": "Kamala Strand",
+                "hu": "Kamala tengerpart",
+                "ro": "Plaja Kamala"
+              },
+              "tip_5lang": {
+                "en": "Park easily in the afternoon and enjoy the cooling sea breeze as the sun begins its descent towards the early 17:00 sunset.",
+                "de": "Parken Sie nachmittags ganz entspannt und genießen Sie die kühle Meeresbrise, wenn die Sonne dem frühen Untergang entgegengeht.",
+                "hu": "Délután könnyen parkolhat, és élvezheti a hűsítő tengeri szellőt, ahogy a nap megkezdi ereszkedését a korai, 17:00-ás napnyugta felé.",
+                "ro": "Parcați ușor după-amiaza și bucurați-vă de briza răcoroasă a mării, în timp ce soarele începe să coboare spre apusul devreme de la 17:00."
+              }
+            },
+            {
+              "name": {
+                "en": "Phuket FantaSea",
+                "de": "Phuket FantaSea",
+                "hu": "Phuket FantaSea",
+                "ro": "Phuket FantaSea"
+              },
+              "tip_5lang": {
+                "en": "The outdoor grounds are beautifully lit in the early darkness of winter; arriving by car ensures a warm transition to the show.",
+                "de": "Das Außengelände ist in der frühen winterlichen Dunkelheit wunderschön beleuchtet; die Anreise per Auto ist besonders komfortabel.",
+                "hu": "A szabadtéri terület gyönyörűen kivilágított a korai téli sötétségben; az autós érkezés kényelmes átmenetet biztosít az előadásra.",
+                "ro": "Terenurile în aer liber sunt frumos luminate în întunericul timpuriu al iernii; sosirea cu mașina asigură o tranziție confortabilă."
+              }
+            },
+            {
+              "name": {
+                "en": "Carnival Magic",
+                "de": "Carnival Magic",
+                "hu": "Carnival Magic",
+                "ro": "Carnival Magic"
+              },
+              "tip_5lang": {
+                "en": "Since darkness arrives early, the full light show is active for longer; take advantage of the convenient valet parking options.",
+                "de": "Da es früh dunkel wird, ist die Lichtshow länger aktiv; nutzen Sie die bequemen Valet-Parkmöglichkeiten des Parks.",
+                "hu": "Mivel korán sötétedik, a fényparádé hosszabb ideig élvezhető; vegye igénybe a kényelmes parkolási lehetőségeket a bejáratnál.",
+                "ro": "Deoarece întunericul vine devreme, spectacolul de lumini este activ mai mult timp; profitați de opțiunile convenabile de parcare."
+              }
+            },
+            {
+              "name": {
+                "en": "Laem Sing Beach",
+                "de": "Laem Sing Strand",
+                "hu": "Laem Sing tengerpart",
+                "ro": "Plaja Laem Sing"
+              },
+              "tip_5lang": {
+                "en": "Catch the last golden rays from the roadside viewpoint; the low winter sun creates a perfect photographic glow over the ocean.",
+                "de": "Fangen Sie die letzten goldenen Strahlen vom Aussichtspunkt an der Straße ein; die tiefe Wintersonne sorgt für perfekten Glanz.",
+                "hu": "Csípje el az utolsó aranyló napsugarakat az út menti kilátópontról; az alacsony téli nap tökéletes fényeket fest az óceán felett.",
+                "ro": "Surprindeți ultimele raze aurii de la punctul de belvedere; soarele jos de iarnă creează o strălucire fotografică perfectă peste ocean."
+              }
+            }
+          ]
+        }
       }
     }
   }

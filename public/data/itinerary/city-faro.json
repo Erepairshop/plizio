@@ -183,6 +183,224 @@
         "hu": "A reggel a Palacete Guerreirinho-nál indul, majd a tengerészeti történelem mélyreható felfedezése következik. Délben szakrális művészetet és a Püspöki Palota csempézett termeit csodáljuk meg. Délután a Városi Múzeumban elmerülünk a római múltban és a város történetében. Az este interaktív és izgalmas módon zárul a Tudományos Központban.",
         "ro": "Dimineața începe la Palacete Guerreirinho, urmată de o explorare a istoriei maritime. La prânz admirăm arta sacră și sălile decorate cu azulejos ale Palatului Episcopal. După-amiaza ne scufundăm în trecutul roman și în istoria orașului la Muzeul Municipal. Seara se încheie interactiv la Centrul de Științe.",
         "en": "The morning begins at Palacete Guerreirinho, followed by a deep exploration of maritime history. At midday, we admire sacred art and the azulejo-decorated halls of the Episcopal Palace. In the afternoon, we dive into the Roman past and city history at the Municipal Museum. The evening ends interactively at the Science Center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Palacete Guerreirinho und nutzen Sie die Dachvorsprünge als Schutz vor dem Regen. Mittags bietet das Schifffahrtsmuseum einen trockenen Zufluchtsort mit faszinierenden Exponaten. Am Nachmittag laden die Museen der Altstadt, wie der Bischofspalast, zu einer überdachten Kulturreise ein. Den Abend verbringen Sie im Algarve Life Sciences Center, das ideal ist, um dem Wetter zu entfliehen.",
+            "hu": "Reggel a Palacete Guerreirinho díszes falaiban gyönyörködünk, az eső elől a kapualjakba húzódva. Délben a Tengerészeti Múzeum kínál száraz menedéket és izgalmas tárlatokat. Délután az óváros múzeumai, a Paço Episcopal és a Városi Múzeum belső terei nyújtanak kulturális feltöltődést. Estére az Algarve Life Sciences Center interaktív világa tökéletes fedett zárás a vizes utcák után.",
+            "ro": "Începeți la Palacete Guerreirinho, folosind cornișele ca adăpost împotriva ploii. La prânz, Muzeul Maritim oferă un refugiu uscat cu exponate fascinante. După-amiaza, muzeele din orașul vechi, precum Palatul Episcopal, vă invită la o călătorie culturală acoperită. Seara o veți petrece la Algarve Life Sciences Center, ideal pentru a evada de vremea nefavorabilă și umedă.",
+            "en": "Start at Palacete Guerreirinho, using the ornate eaves as shelter from the drizzle. At noon, the Maritime Museum offers a dry refuge with fascinating exhibits. In the afternoon, the museums of the old town, like the Episcopal Palace, invite you on a covered cultural journey. Spend the evening at the Algarve Life Sciences Center, which is perfect for escaping the wet streets and wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacete Guerreirinho",
+                "hu": "Palacete Guerreirinho",
+                "ro": "Palacete Guerreirinho",
+                "en": "Palacete Guerreirinho"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade dieses Palastes unter einem stabilen Regenschirm; die architektonischen Details wirken im feuchten Glanz besonders intensiv und fotogen.",
+                "hu": "Csodálja meg a palota homlokzatát egy stabil esernyő alól; az építészeti részletek a nedves csillogásban különösen intenzívnek és fotogénnek hatnak a szürke ég alatt.",
+                "ro": "Admirați fațada acestui palat sub o umbrelă stabilă; detaliile arhitecturale par deosebit de intense și fotogenice în strălucirea umedă a ploii de iarnă portugheze.",
+                "en": "Admire the facade of this palace under a sturdy umbrella; the architectural details appear particularly intense and photogenic in the damp glow of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Marítimo Almirante Ramalho Ortigão",
+                "hu": "Museu Marítimo Almirante Ramalho Ortigão",
+                "ro": "Museu Marítimo Almirante Ramalho Ortigão",
+                "en": "Museu Marítimo Almirante Ramalho Ortigão"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der perfekte Ort, um dem Regen zu entkommen und in Faros Seefahrtsgeschichte einzutauchen; achten Sie auf die rutschigen Stufen am Eingangsbereich.",
+                "hu": "Ez a múzeum tökéletes hely az eső elöli menekülésre és Faro tengerészeti múltjának felfedezésére; ügyeljen a bejáratnál a csúszós lépcsőkre a vizes cipőben.",
+                "ro": "Acest muzeu este locul perfect pentru a scăpa de ploaie și a explora istoria maritimă a orașului Faro; atenție la treptele alunecoase de la intrare când plouă.",
+                "en": "This museum is the perfect place to escape the rain and dive into Faro's maritime history; watch out for slippery steps at the entrance area during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu e Igreja da Misericórdia",
+                "hu": "Museu e Igreja da Misericórdia",
+                "ro": "Museu e Igreja da Misericórdia",
+                "en": "Museu e Igreja da Misericórdia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in der Kirche, während draußen der Regen prasselt; die prächtige Innenausstattung bietet einen warmen Kontrast zum grauen Wetter vor der Tür.",
+                "hu": "Élvezze a templom nyugalmát, miközben kint kopog az eső; a pompás belső tér meleg kontrasztot alkot a kinti szürke idővel, ideális hely egy kis elcsendesedéshez.",
+                "ro": "Bucurați-vă de liniștea bisericii în timp ce afară plouă; interiorul somptuos oferă un contrast cald cu vremea gri de afară, fiind un loc ideal pentru reflecție.",
+                "en": "Enjoy the peace of the church while the rain patters outside; the magnificent interior provides a warm contrast to the grey weather just outside the heavy doors."
+              }
+            },
+            {
+              "name": {
+                "de": "Paço Episcopal",
+                "hu": "Paço Episcopal",
+                "ro": "Paço Episcopal",
+                "en": "Paço Episcopal"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume des Bischofspalastes halten Sie trocken, während Sie die wertvollen Kacheln bewundern; nutzen Sie die überdachten Gänge zwischen den Ausstellungsräumen.",
+                "hu": "A püspöki palota belső terei szárazon tartják, miközben az értékes csempéket csodálja; használja a kiállítótermek közötti fedett folyosókat a közlekedéshez.",
+                "ro": "Interioarele palatului episcopal vă mențin uscat în timp ce admirați plăcile de faianță valoroase; folosiți coridoarele acoperite între sălile de expoziție.",
+                "en": "The interiors of the Episcopal Palace keep you dry while you admire the precious tiles; use the covered corridors between the exhibition rooms to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Faro",
+                "hu": "Museu Municipal de Faro",
+                "ro": "Museu Municipal de Faro",
+                "en": "Museu Municipal de Faro"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie viel Zeit im Kreuzgang, der auch bei Regen eine mystische Atmosphäre versprüht; die dicken Mauern schützen zuverlässig vor Wind und Nässe.",
+                "hu": "Töltsön el hosszabb időt a kerengőben, amely esőben is misztikus hangulatot áraszt; a vastag falak megbízhatóan védenek a szél és a nedvesség ellen a túra alatt.",
+                "ro": "Petreceți mult timp în claustru, care emană o atmosferă mistică chiar și pe ploaie; zidurile groase protejează eficient împotriva vântului și a umezelii de afară.",
+                "en": "Spend plenty of time in the cloister, which exudes a mystical atmosphere even in the rain; the thick walls provide reliable protection from the wind and wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro story spot",
+                "hu": "Faro story spot",
+                "ro": "Faro story spot",
+                "en": "Faro story spot"
+              },
+              "tip_5lang": {
+                "de": "Diese interaktive Ausstellung ist ideal für einen verregneten Nachmittag, da sie komplett indoor stattfindet; ein wasserfester Mantel ist für den Weg dorthin nötig.",
+                "hu": "Ez az interaktív kiállítás ideális egy esős délutánra, mivel teljesen beltéri; a bejárathoz vezető rövid útra azért szüksége lesz egy vízhatlan kabátra.",
+                "ro": "Această expoziție interactivă este ideală pentru o după-amiază ploioasă, fiind complet în interior; veți avea nevoie de o pelerină impermeabilă pentru drum.",
+                "en": "This interactive exhibition is ideal for a rainy afternoon as it takes place entirely indoors; a waterproof coat is necessary for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Algarve Life Sciences Center",
+                "hu": "Algarve Life Sciences Center",
+                "ro": "Algarve Life Sciences Center",
+                "en": "Algarve Life Sciences Center"
+              },
+              "tip_5lang": {
+                "de": "Das Wissenschaftszentrum bietet spannende Experimente im Trockenen, perfekt für den Abschluss eines Regentages; die Cafeteria lädt zum Aufwärmen bei einem Tee ein.",
+                "hu": "A tudományos központ izgalmas kísérleteket kínál szárazon, tökéletes zárása egy esős napnak; a büfében egy meleg tea mellett pihenhet meg a séta végén.",
+                "ro": "Centrul de știință oferă experimente captivante la adăpost, perfect pentru finalul unei zile ploioase; cafeneaua vă invită să vă încălziți cu un ceai fierbinte.",
+                "en": "The science center offers exciting experiments in the dry, perfect for ending a rainy day; the cafeteria invites you to warm up with a hot cup of local tea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft am Morgen am Palacete Guerreirinho belebt den Geist. Mittags wärmen Sie sich im Schifffahrtsmuseum auf, während Sie in die maritime Geschichte eintauchen. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen Sie das letzte Tageslicht in der Altstadt. Den Abend lassen Sie gemütlich im Algarve Life Sciences Center ausklingen.",
+            "hu": "A téli reggel frissességében a Palacete Guerreirinho eleganciája indítja a napot. Délben a Tengerészeti Múzeum melegében merülünk el Faro múltjában. Délután a Paço Episcopal és a Városi Múzeum belső udvarai a korai sötétedés előtt még jól láthatóak. Este, mivel a nap 17 óra körül nyugszik, az Algarve Life Sciences Center fényei és melegsége várja a látogatókat.",
+            "ro": "Aerul proaspăt de iarnă de dimineață la Palacete Guerreirinho revigorează spiritul. La prânz, vă încălziți în Muzeul Maritim în timp ce explorați istoria locală. Deoarece soarele apune în jurul orei 17:00, profitați de ultima lumină în orașul vechi. Încheiați seara confortabil la Algarve Life Sciences Center, protejați de frig.",
+            "en": "The fresh winter air in the morning at Palacete Guerreirinho invigorates the spirit. At noon, warm up in the Maritime Museum while diving into seafaring history. Since the sun sets around 17:00, use the last daylight in the old town museums. End the evening comfortably at the Algarve Life Sciences Center, away from the evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacete Guerreirinho",
+                "hu": "Palacete Guerreirinho",
+                "ro": "Palacete Guerreirinho",
+                "en": "Palacete Guerreirinho"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Palast früh am Morgen, wenn die Wintersonne die Fassade in ein sanftes Licht taucht; eine winddichte Jacke schützt vor der kühlen Meeresbrise.",
+                "hu": "Látogassa meg a palotát kora reggel, amikor a téli nap lágy fénybe vonja a homlokzatot; egy szélálló dzseki megvédi a hűvös tengeri szellőtől a nézelődés közben.",
+                "ro": "Vizitați palatul dimineața devreme, când soarele de iarnă scaldă fațada într-o lumină blândă; o jachetă rezistentă la vânt vă va proteja de briza mării rece.",
+                "en": "Visit the palace early in the morning when the winter sun bathes the facade in soft light; a windproof jacket protects against the cool Atlantic sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Marítimo Almirante Ramalho Ortigão",
+                "hu": "Museu Marítimo Almirante Ramalho Ortigão",
+                "ro": "Museu Marítimo Almirante Ramalho Ortigão",
+                "en": "Museu Marítimo Almirante Ramalho Ortigão"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume des Museums bieten eine willkommene Wärme zur Mittagszeit; bewundern Sie die detailreichen Schiffsmodelle ohne sommerliche Touristenmassen.",
+                "hu": "A múzeum belső terei üdvözlendő meleget nyújtanak ebédidőben; csodálja meg a részletgazdag hajómodelleket a nyári turistatömeg nélkül, nyugalomban.",
+                "ro": "Interioarele muzeului oferă o căldură binevenită la ora prânzului; admirați modelele detaliate de nave fără mulțimile de turiști specifice sezonului estival.",
+                "en": "The museum's interiors offer welcome warmth at lunchtime; admire the detailed ship models without the summer tourist crowds in a peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu e Igreja da Misericórdia",
+                "hu": "Museu e Igreja da Misericórdia",
+                "ro": "Museu e Igreja da Misericórdia",
+                "en": "Museu e Igreja da Misericórdia"
+              },
+              "tip_5lang": {
+                "de": "In der Kirche herrscht eine besinnliche Winteratmosphäre, ideal für eine kurze Pause; die Beleuchtung hebt die goldenen Altäre besonders schön hervor.",
+                "hu": "A templomban meghitt téli hangulat uralkodik, ideális egy rövid pihenőhöz; a belső világítás különösen szépen emeli ki az aranyozott oltárokat ilyenkor.",
+                "ro": "În biserică domnește o atmosferă de iarnă contemplativă, ideală pentru o scurtă pauză; iluminatul scoate în evidență altarele aurite deosebit de frumos.",
+                "en": "A contemplative winter atmosphere prevails in the church, ideal for a short break; the lighting highlights the golden altars beautifully in the darker months."
+              }
+            },
+            {
+              "name": {
+                "de": "Paço Episcopal",
+                "hu": "Paço Episcopal",
+                "ro": "Paço Episcopal",
+                "en": "Paço Episcopal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das helle Nachmittagslicht für Fotos im Innenhof, bevor die Schatten länger werden; die Kachelsammlung ist auch im Winter absolut sehenswert.",
+                "hu": "Használja ki a világos délutáni fényeket a belső udvaron készült fotókhoz, mielőtt a fák árnyékai megnyúlnának; a csempegyűjtemény télen is lenyűgöző látvány.",
+                "ro": "Profitați de lumina puternică a după-amiezii pentru fotografii în curtea interioară înainte ca umbrele să se lungească; colecția de faianță merită vizitată.",
+                "en": "Take advantage of the bright afternoon light for photos in the courtyard before the shadows lengthen; the tile collection is absolutely worth seeing even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Faro",
+                "hu": "Museu Municipal de Faro",
+                "ro": "Museu Municipal de Faro",
+                "en": "Museu Municipal de Faro"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen vor dem frühen Sonnenuntergang um 17 Uhr; die dicken Klostermauern speichern die Kühle, ziehen Sie sich also im Inneren warm an.",
+                "hu": "Látogassa meg a kiállításokat a korai, 17 órai napnyugta előtt; a vastag kolostorfalak tartják a hűvöset, így bent is öltözzön fel melegen a látogatás alatt.",
+                "ro": "Vizitați expozițiile înainte de apusul devreme de la ora 17:00; zidurile groase ale mănăstirii rețin frigul, așa că îmbrăcați-vă bine și în interior.",
+                "en": "Visit the exhibitions before the early sunset at 5 PM; the thick monastery walls retain the chill, so dress warmly even when exploring the indoor galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro story spot",
+                "hu": "Faro story spot",
+                "ro": "Faro story spot",
+                "en": "Faro story spot"
+              },
+              "tip_5lang": {
+                "de": "Der Story Spot ist ein gemütlicher Ort, um mehr über die Stadt zu erfahren, während es draußen dämmert; perfekt, um den Tag bei angenehmen Temperaturen zu reflektieren.",
+                "hu": "A Story Spot hangulatos hely a város megismerésére, miközben kint alkonyodik; tökéletes a nap eseményeinek átgondolására kellemes hőmérsékletben.",
+                "ro": "Story Spot este un loc primitor pentru a afla mai multe despre oraș în timp ce afară se înserează; perfect pentru a reflecta asupra zilei la temperaturi plăcute.",
+                "en": "The Story Spot is a cozy place to learn more about the city as dusk falls outside; perfect for reflecting on the day's sights in a comfortable temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Algarve Life Sciences Center",
+                "hu": "Algarve Life Sciences Center",
+                "ro": "Algarve Life Sciences Center",
+                "en": "Algarve Life Sciences Center"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag hier, wenn es draußen bereits dunkel und kühl ist; die interaktiven Stationen bieten Unterhaltung und Wärme für den Abendausklang.",
+                "hu": "Itt fejezze be a napját, amikor kint már sötét és hűvös van; az interaktív állomások szórakozást és meleget nyújtanak az esti program lezárásaként.",
+                "ro": "Încheiați ziua aici când afară este deja întuneric și frig; stațiile interactive oferă divertisment și căldură pentru finalul programului de seară.",
+                "en": "End your day here when it is already dark and cool outside; the interactive stations provide entertainment and warmth for the perfect evening conclusion."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Sportosan indulunk az Anfiteateatro da Penha-nál, majd az elegáns Palácio Fialho-hoz tekerünk. Dél körül felfedezzük a pompás Teatro Lethes-t és a Regionális Múzeum gazdag népművészetét. A délután pihentető szünetet kínál a Praia dos Tesos-on, a Ria Formosa természetével övezve. A napot kulturálisan a modern Teatro das Figuras-nál zárjuk.",
         "ro": "Începem sportiv la Anfiteateatro da Penha și pedalăm spre elegantul Palácio Fialho. Pe la prânz explorăm magnificul Teatro Lethes și arta populară de la Muzeul Regional. După-amiaza oferă o pauză relaxantă la Praia dos Tesos, înconjurați de natura din Ria Formosa. Încheiem ziua cultural la modernul Teatro das Figuras.",
         "en": "We start sportily at Anfiteateatro da Penha and then cycle to the elegant Palácio Fialho. Around midday, we explore the magnificent Teatro Lethes and the rich folk art in the Regional Museum. The afternoon offers a relaxing break at Praia dos Tesos, surrounded by the nature of Ria Formosa. We end the day culturally at the modern Teatro das Figuras."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den rutschigen Wegen zum Penha-Amphitheater. Suchen Sie mittags Schutz im prachtvollen Palácio Fialho und im Teatro Lethes. Am Nachmittag bietet das Regionalmuseum eine trockene Pause. Trotz des Wetters ist ein kurzer Stopp am Praia dos Tesos für den Blick auf die raue See lohnenswert, bevor es zum modernen Theater geht.",
+            "hu": "Az esős biciklizés óvatosságot igényel a Penha amfiteátrum felé vezető csúszós utakon. Délben keressen menedéket a pompás Palácio Fialhóban és a Teatro Lethesben. Délután a Regionális Múzeum kínál száraz pihenőt. Az idő ellenére egy rövid megálló a Praia dos Tesosnál megéri a nyers tenger látványáért, mielőtt a modern színházhoz érne.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile alunecoase spre Amfiteatrul Penha. La prânz, căutați adăpost în splendidul Palácio Fialho și la Teatro Lethes. După-amiaza, Muzeul Regional oferă o pauză uscată. În ciuda vremii, o scurtă oprire la Praia dos Tesos merită pentru vederea mării agitate, înainte de a merge la teatru.",
+            "en": "Cycling in the rain requires caution on the slippery paths towards the Penha Amphitheater. At noon, seek shelter in the magnificent Palácio Fialho and Teatro Lethes. In the afternoon, the Regional Museum offers a dry break. Despite the weather, a short stop at Praia dos Tesos is worth it for the view of the rough sea before heading to the modern theater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anfiteateatro da Penha",
+                "hu": "Anfiteateatro da Penha",
+                "ro": "Anfiteateatro da Penha",
+                "en": "Anfiteateatro da Penha"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem nassen Pflaster zum Amphitheater; die Steinstufen können bei Regen extrem rutschig sein, tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Óvatosan tekerjen a vizes kövön az amfiteátrum felé; a kőlépcsők esőben rendkívül csúszósak lehetnek, viseljen jó tapadású talpú cipőt a sétához.",
+                "ro": "Pedalați cu atenție pe pavajul umed spre amfiteatru; treptele de piatră pot fi extrem de alunecoase pe ploaie, purtați încălțăminte cu aderență bună.",
+                "en": "Ride carefully on the wet pavement towards the amphitheater; the stone steps can be extremely slippery in the rain, so wear shoes with good grip for walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Palácio Fialho",
+                "hu": "Palácio Fialho",
+                "ro": "Palácio Fialho",
+                "en": "Palácio Fialho"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Palast als prunkvollen Unterschlupf vor dem Regenschauer; die Architektur wirkt bei grauem Himmel besonders dramatisch und imposant.",
+                "hu": "Használja a palotát pompás menedékként a zápor elől; az építészet szürke égbolt alatt különösen drámainak és impozánsnak hat a fotókon.",
+                "ro": "Folosiți palatul ca un adăpost somptuos împotriva aversei; arhitectura pare deosebit de dramatică și impunătoare sub cerul gri al iernii.",
+                "en": "Use the palace as a magnificent shelter from the rain shower; the architecture looks particularly dramatic and imposing under a grey, overcast sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Lethes",
+                "hu": "Teatro Lethes",
+                "ro": "Teatro Lethes",
+                "en": "Teatro Lethes"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und genießen Sie die trockene, historische Atmosphäre im Inneren; ein Handtuch zum Abwischen des Sattels ist ratsam.",
+                "hu": "Parkolja le a biciklit védett helyen, és élvezze a benti száraz, történelmi atmoszférát; érdemes egy kis törölközőt vinni a nyereg letörléséhez.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de atmosfera istorică uscată din interior; este recomandat un prosop mic pentru a șterge șaua.",
+                "en": "Park your bike in a sheltered spot and enjoy the dry, historical atmosphere inside; a small towel to wipe down the saddle is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Regional do Algarve",
+                "hu": "Museu Regional do Algarve",
+                "ro": "Museu Regional do Algarve",
+                "en": "Museu Regional do Algarve"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet eine perfekte Gelegenheit, die Kleidung zu trocknen, während Sie lokale Trachten bewundern; achten Sie auf Pfützen vor dem Eingangsbereich.",
+                "hu": "A múzeum tökéletes alkalom a ruha megszárítására, miközben a helyi viseleteket csodálja; ügyeljen a bejárat előtti nagyobb tócsákra érkezéskor.",
+                "ro": "Muzeul oferă o ocazie perfectă pentru a vă usca hainele în timp ce admirați costumele locale; atenție la bălțile mari din fața intrării la sosire.",
+                "en": "The museum offers a perfect opportunity to dry your clothes while admiring local costumes; watch out for large puddles in front of the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Tesos",
+                "hu": "Praia dos Tesos",
+                "ro": "Praia dos Tesos",
+                "en": "Praia dos Tesos"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Sprint zum Strand lohnt sich für die stürmische Aussicht; stellen Sie sicher, dass Ihre Bremsen auf dem nassen Weg zuverlässig funktionieren.",
+                "hu": "Egy rövid, vizes sprint a strandhoz megéri a viharos kilátásért; győződjön meg róla, hogy a fékek megbízhatóan fognak a vizes úton a lejtőn.",
+                "ro": "Un sprint scurt și umed până la plajă merită pentru vederea furtunoasă; asigurați-vă că frânele funcționează fiabil pe drumul ud în pantă.",
+                "en": "A short, wet sprint to the beach is worth it for the stormy ocean view; make sure your brakes are functioning reliably on the wet path downhill."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro das Figuras",
+                "hu": "Teatro das Figuras",
+                "ro": "Teatro das Figuras",
+                "en": "Teatro das Figuras"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im trockenen Foyer des modernen Theaters; reflektierende Kleidung ist bei der schlechten Sicht im Regen auf dem Rückweg lebenswichtig.",
+                "hu": "Fejezze be a túrát a modern színház száraz előcsarnokában; a rossz látási viszonyok miatt a láthatósági mellény elengedhetetlen a visszaúton az esőben.",
+                "ro": "Încheiați turul în foierul uscat al teatrului modern; îmbrăcămintea reflectorizantă este vitală din cauza vizibilității reduse pe ploaie la întoarcere.",
+                "en": "End the tour in the dry foyer of the modern theater; reflective clothing is vital due to poor visibility in the rain on your way back to the center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die kühle Winterbrise auf dem Fahrradweg zum Penha-Amphitheater. Mittags bieten der Palácio Fialho und das Teatro Lethes eine willkommene Aufwärmpause. Da die Sonne früh untergeht, sollten Sie den Praia dos Tesos gegen 16:30 Uhr erreichen, um den winterlichen Sonnenuntergang zu erleben. Der Abend endet stilvoll am Teatro das Figuras.",
+            "hu": "Élvezze a hűvös téli szellőt a kerékpárúton a Penha amfiteátrum felé. Délben a Palácio Fialho és a Teatro Lethes kínál üdvözlendő melegedőt. Mivel a nap korán nyugszik, érdemes 16:30 körül elérni a Praia dos Tesost a téli naplemente megcsodálásához. Az este stílusosan zárul a Teatro das Figurasnál.",
+            "ro": "Bucurați-vă de briza răcoroasă de iarnă pe pista de biciclete spre Amfiteatrul Penha. La prânz, Palácio Fialho și Teatro Lethes oferă o pauză de încălzire binevenită. Deoarece soarele apune devreme, ajungeți la Praia dos Tesos în jurul orei 16:30 pentru apus. Seara se încheie cu stil la Teatro das Figuras.",
+            "en": "Enjoy the cool winter breeze on the cycle path to the Penha Amphitheater. At noon, Palácio Fialho and Teatro Lethes offer a welcome warming break. Since the sun sets early, aim to reach Praia dos Tesos around 4:30 PM to experience the winter sunset. The evening ends stylishly at the modern Teatro das Figuras."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anfiteateatro da Penha",
+                "hu": "Anfiteateatro da Penha",
+                "ro": "Anfiteateatro da Penha",
+                "en": "Anfiteateatro da Penha"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie beim Radfahren Handschuhe gegen den Fahrtwind; das Amphitheater liegt am Morgen oft noch im kühlen Schatten, also bleiben Sie in Bewegung.",
+                "hu": "Viseljen kesztyűt a menetszél ellen tekerés közben; az amfiteátrum reggel gyakran még hűvös árnyékban van, így érdemes mozgásban maradni a helyszínen.",
+                "ro": "Purtați mănuși împotriva vântului în timp ce pedalați; amfiteatrul este adesea în umbră rece dimineața, așa că rămâneți în mișcare pe parcursul vizitei.",
+                "en": "Wear gloves against the headwind while cycling; the amphitheater is often still in cool shadow in the morning, so keep moving to stay warm during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Palácio Fialho",
+                "hu": "Palácio Fialho",
+                "ro": "Palácio Fialho",
+                "en": "Palácio Fialho"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvolle Anlage ist im Winter weniger besucht, ideal für ungestörte Fotos; nutzen Sie den Besuch, um die kalten Finger wieder aufzuwärmen.",
+                "hu": "A pompás épület télen kevésbé látogatott, ideális a zavartalan fotózáshoz; használja ki a látogatást a hideg ujjak felmelegítésére a benti terekben.",
+                "ro": "Clădirea splendidă este mai puțin vizitată iarna, fiind ideală pentru fotografii fără perturbări; profitați de vizită pentru a vă încălzi degetele reci.",
+                "en": "The magnificent complex is less visited in winter, ideal for undisturbed photos; use the visit to warm up your cold fingers in the interior galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Lethes",
+                "hu": "Teatro Lethes",
+                "ro": "Teatro Lethes",
+                "en": "Teatro Lethes"
+              },
+              "tip_5lang": {
+                "de": "Das historische Theater bietet eine warme und gemütliche Umgebung zur Mittagszeit; prüfen Sie Ihre Fahrradbeleuchtung für die bevorstehende Dämmerung.",
+                "hu": "A történelmi színház meleg és hangulatos környezetet biztosít ebédidőben; ellenőrizze a bicikli világítását a hamarosan beköszöntő szürkület előtt.",
+                "ro": "Teatrul istoric oferă un mediu cald și primitor la ora prânzului; verificați luminile bicicletei pentru amurgul care se apropie rapid în decembrie.",
+                "en": "The historic theater provides a warm and cozy environment at lunchtime; check your bike lights for the approaching dusk before leaving for the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Regional do Algarve",
+                "hu": "Museu Regional do Algarve",
+                "ro": "Museu Regional do Algarve",
+                "en": "Museu Regional do Algarve"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die lokalen Traditionen im warmen Museumsbau; die winterliche Nachmittagssonne strahlt oft noch angenehm durch die Fenster der Ausstellungsräume.",
+                "hu": "Fedezze fel a helyi hagyományokat a meleg múzeumépületben; a téli délutáni nap gyakran még kellemesen besüt a kiállítótermek ablakain keresztül.",
+                "ro": "Explorați tradițiile locale în clădirea caldă a muzeului; soarele de iarnă de după-amiază strălucește adesea plăcut prin ferestrele sălilor de expoziție.",
+                "en": "Explore local traditions in the warm museum building; the winter afternoon sun often shines pleasantly through the windows of the exhibition rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Tesos",
+                "hu": "Praia dos Tesos",
+                "ro": "Praia dos Tesos",
+                "en": "Praia dos Tesos"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Strand vor 17 Uhr für den Sonnenuntergang; der Wind am Meer ist im Winter besonders schneidend, eine warme Mütze unter dem Helm hilft.",
+                "hu": "Érjen ki a strandra 17 óra előtt a naplementére; a tengeri szél télen különösen metsző, egy vékony meleg sapka a sisak alatt sokat segíthet.",
+                "ro": "Ajungeți la plajă înainte de ora 17:00 pentru apus; vântul de pe mare este tăios iarna, o căciulă subțire sub cască vă va ajuta considerabil.",
+                "en": "Reach the beach before 5 PM for the sunset; the sea wind is particularly biting in winter, so a thin warm hat under your helmet helps significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro das Figuras",
+                "hu": "Teatro das Figuras",
+                "ro": "Teatro das Figuras",
+                "en": "Teatro das Figuras"
+              },
+              "tip_5lang": {
+                "de": "Der beleuchtete Theaterkomplex ist ein schöner Anblick in der winterlichen Dunkelheit; schließen Sie Ihr Rad gut ab und wärmen Sie sich im Inneren auf.",
+                "hu": "A kivilágított színházkomplexum szép látvány a téli sötétségben; zárja le jól a biciklit, és melegedjen fel bent a modern és tágas előcsarnokban.",
+                "ro": "Complexul teatral iluminat este o priveliște frumoasă în întunericul iernii; încuiați bine bicicleta și încălziți-vă în interiorul modern și spațios.",
+                "en": "The illuminated theater complex is a beautiful sight in the winter darkness; lock your bike securely and warm up inside the modern, spacious lobby."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Autós túránk a Palácio Fialho történelmi varázsával indul. Délelőtt két lenyűgöző amfiteátrumot látogatunk meg, amelyek a kultúrát és a városképet ötvözik. Délután megcsodáljuk a Teatro das Figuras-t és a Palacete Guerreirinho építészetét. Zárásként a Praia dos Tesos-hoz hajtunk, hogy a napot pihentetően a vízparton fejezzük be.",
         "ro": "Turul nostru auto începe cu farmecul istoric al Palácio Fialho. Dimineața vizităm două amfiteatre impresionante care combină cultura și priveliștile orașului. După-amiaza admirăm Teatro das Figuras și arhitectura Palacete Guerreirinho. În încheiere, conducem spre Praia dos Tesos pentru a termina ziua relaxant lângă apă.",
         "en": "Our car tour begins with the historical charm of Palácio Fialho. In the morning, we visit two impressive amphitheaters that combine culture and city views. In the afternoon, we admire the striking Teatro das Figuras and the architecture of Palacete Guerreirinho. To conclude, we drive to Praia dos Tesos to end the day relaxing by the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist der Regen kein Hindernis für die Tour zum Palácio Fialho und den Amphitheatern. Genießen Sie den Komfort der Heizung zwischen den Stopps am Teatro das Figuras und Palacete Guerreirinho. Am Nachmittag bietet der Blick aus dem Wagen auf die regnerische Praia dos Tesos eine dramatische Atmosphäre, während Sie selbst trocken bleiben.",
+            "hu": "Autóval az eső nem akadály a Palácio Fialho és az amfiteátrumok felkereséséhez. Élvezze a fűtés kényelmét a Teatro das Figuras és a Palacete Guerreirinho közötti szakaszokon. Délután a kocsiból nyíló kilátás az esős Praia dos Tesosra drámai hangulatot áraszt, miközben Ön teljesen száraz marad az utastérben.",
+            "ro": "Cu mașina, ploaia nu este un obstacol pentru turul la Palácio Fialho și amfiteatre. Bucurați-vă de confortul căldurii între opririle la Teatro das Figuras și Palacete Guerreirinho. După-amiaza, vederea din mașină spre Praia dos Tesos plină de ploaie oferă o atmosferă dramatică, în timp ce rămâneți uscat.",
+            "en": "By car, the rain is no obstacle for the tour to Palácio Fialho and the amphitheaters. Enjoy the comfort of the car's heater between stops at Teatro das Figuras and Palacete Guerreirinho. In the afternoon, the view from the car of the rainy Praia dos Tesos provides a dramatic atmosphere while you stay perfectly dry inside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palácio Fialho",
+                "hu": "Palácio Fialho",
+                "ro": "Palácio Fialho",
+                "en": "Palácio Fialho"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regenweg kurz zu halten; die prächtige Fassade glänzt bei Nässe besonders edel auf Ihren Fotos.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy lerövidítse az esőben megtett utat; a pompás homlokzat nedvesen különösen nemesen csillog a fotókon.",
+                "ro": "Parcați cât mai aproape de intrare pentru a scurta drumul prin ploaie; fațada splendidă strălucește deosebit de nobil când este umedă în fotografii.",
+                "en": "Park as close to the entrance as possible to keep the walk in the rain short; the magnificent facade glitters particularly nobly when wet in your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteateatro da Penha",
+                "hu": "Anfiteateatro da Penha",
+                "ro": "Anfiteateatro da Penha",
+                "en": "Anfiteateatro da Penha"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie bei starkem Regen unbefestigte Parkflächen in der Nähe; der Blick aus dem Auto auf das Amphitheater ist bei trübem Wetter sehr stimmungsvoll.",
+                "hu": "Heves esőzéskor kerülje a közelben a burkolatlan parkolófelületeket; az amfiteátrumra nyíló kilátás az autóból is hangulatos a borongós időben.",
+                "ro": "Evitați zonele de parcare neasfaltate din apropiere în caz de ploaie torențială; vederea spre amfiteatru din mașină este atmosferică pe vreme mohorâtă.",
+                "en": "Avoid unpaved parking areas nearby during heavy rain to avoid mud; the view of the amphitheater from the car is very atmospheric in the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro",
+                "hu": "Anfiteatro",
+                "ro": "Anfiteatro",
+                "en": "Anfiteatro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Regenpausen für eine Erkundung zu Fuß; halten Sie einen Regenschirm im Auto bereit, falls der Schauer länger anhält als erwartet.",
+                "hu": "Használja ki a rövid esőszüneteket a gyalogos felfedezéshez; tartson készenlétben esernyőt az autóban, ha a zápor a vártnál tovább tartana a megállónál.",
+                "ro": "Profitați de scurtele pauze de ploaie pentru explorarea pe jos; țineți o umbrelă pregătită în mașină dacă aversa durează mai mult decât era de așteptat.",
+                "en": "Take advantage of short breaks in the rain for exploration on foot; keep an umbrella ready in the car in case the shower lasts longer than expected at this stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro das Figuras",
+                "hu": "Teatro das Figuras",
+                "ro": "Teatro das Figuras",
+                "en": "Teatro das Figuras"
+              },
+              "tip_5lang": {
+                "de": "Das große Foyer bietet Schutz vor plötzlichen Güssen; prüfen Sie die Parkplatzsituation im Voraus, um lange Wege im Regen zu vermeiden.",
+                "hu": "A nagy előcsarnok védelmet nyújt a hirtelen zivatarok elől; ellenőrizze előre a parkolási lehetőségeket, hogy elkerülje a hosszú sétát az esőben.",
+                "ro": "Foierul mare oferă protecție împotriva averselor bruște; verificați situația parcării în avans pentru a evita drumurile lungi prin ploaia rece de iarnă.",
+                "en": "The large foyer offers protection from sudden downpours; check the parking situation in advance to avoid long walks in the rain from the car to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacete Guerreirinho",
+                "hu": "Palacete Guerreirinho",
+                "ro": "Palacete Guerreirinho",
+                "en": "Palacete Guerreirinho"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Zufahrt kann bei Nässe rutschig sein, fahren Sie vorsichtig; der Palast bietet wunderbare Fotomotive direkt vom geschützten Beifahrersitz aus.",
+                "hu": "A szűk bekötőút nedvesen csúszós lehet, vezessen óvatosan; a palota csodálatos fotótémákat kínál közvetlenül a védett anyósülésről is a látogatóknak.",
+                "ro": "Drumul de acces îngust poate fi alunecos când este ud, conduceți cu atenție; palatul oferă motive foto minunate direct de pe scaunul protejat al pasagerului.",
+                "en": "The narrow access road can be slippery when wet, so drive carefully; the palace offers wonderful photo opportunities directly from the protected passenger seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Tesos",
+                "hu": "Praia dos Tesos",
+                "ro": "Praia dos Tesos",
+                "en": "Praia dos Tesos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer und genießen Sie das Schauspiel der Wellen im Regen; so erleben Sie die Natur, ohne nass zu werden, bevor Sie heimfahren.",
+                "hu": "Parkoljon a tengerre nézően, és élvezze a hullámok játékát az esőben; így megtapasztalhatja a természetet anélkül, hogy elázna a túra legvégén.",
+                "ro": "Parcați cu fața spre mare și bucurați-vă de spectacolul valurilor pe ploaie; astfel experimentați natura fără a vă uda înainte de a pleca spre casă.",
+                "en": "Park facing the sea and enjoy the spectacle of the waves in the rain; this way you experience nature without getting wet before driving back to your hotel."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt führt Sie bequem zum prachtvollen Palácio Fialho und den historischen Amphitheatern. Dank des Autos können Sie die kühle Luft an der Praia dos Tesos kurz genießen und sich sofort wieder aufwärmen. Da die Dämmerung bereits um 17:00 Uhr einsetzt, ist die Tour so geplant, dass Sie alle Highlights im besten Licht erleben.",
+            "hu": "A téli autózás kényelmesen repíti a pompás Palácio Fialhóhoz és a történelmi amfiteátrumokhoz. Az autónak köszönhetően a Praia dos Tesos hűvös levegőjét röviden élvezheti, majd azonnal felmelegedhet. Mivel a szürkület már 17 órakor beköszönt, a túra úgy van tervezve, hogy minden látnivalót a legjobb fényben lásson.",
+            "ro": "Călătoria de iarnă vă duce confortabil la splendidul Palácio Fialho și la amfiteatrele istorice. Datorită mașinii, puteți savura aerul rece de la Praia dos Tesos și vă puteți reîncălzi imediat. Deoarece amurgul se instalează deja la ora 17:00, turul este planificat să vedeți toate atracțiile în cea mai bună lumină.",
+            "en": "The winter drive takes you comfortably to the magnificent Palácio Fialho and the historic amphitheaters. Thanks to the car, you can briefly enjoy the cool air at Praia dos Tesos and warm up again immediately. Since dusk sets in at 5 PM, the tour is planned so that you experience all the highlights in the best daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palácio Fialho",
+                "hu": "Palácio Fialho",
+                "ro": "Palácio Fialho",
+                "en": "Palácio Fialho"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Morgensonne lässt den Palast erstrahlen; nutzen Sie die Standheizung, falls vorhanden, um den Wagen während der Besichtigung warm zu halten.",
+                "hu": "A téli reggeli napsütés ragyogóvá teszi a palotát; ha van állófűtése, használja, hogy az autó meleg maradjon, amíg Ön a benti termekben nézelődik.",
+                "ro": "Soarele de dimineață de iarnă face palatul să strălucească; folosiți încălzirea auxiliară, dacă există, pentru a menține mașina caldă în timpul vizitei.",
+                "en": "The winter morning sun makes the palace shine; use the auxiliary heating, if available, to keep the car warm while you are exploring the interior halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteateatro da Penha",
+                "hu": "Anfiteateatro da Penha",
+                "ro": "Anfiteateatro da Penha",
+                "en": "Anfiteateatro da Penha"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter meist leer, was die Anfahrt sehr entspannt macht; eine Decke im Auto sorgt für Gemütlichkeit bei den kurzen Fahrpausen.",
+                "hu": "A parkolók télen többnyire üresek, ami nagyon pihentetővé teszi az érkezést; egy takaró az autóban extra kényelmet nyújt a rövid pihenők alatt.",
+                "ro": "Parcările sunt în mare parte goale iarna, ceea ce face sosirea foarte relaxantă; o pătură în mașină oferă un plus de confort în timpul scurtelor pauze.",
+                "en": "The parking lots are mostly empty in winter, making the arrival very relaxed; a blanket in the car provides extra coziness during the short driving breaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro",
+                "hu": "Anfiteatro",
+                "ro": "Anfiteatro",
+                "en": "Anfiteatro"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der kühlen Außenluft und dem warmen Wagen; die klare Winterluft ermöglicht weite Blicke über das Gelände bis zum Meer.",
+                "hu": "Élvezze a hűvös külső levegő és a meleg autó közötti kontrasztot; a tiszta téli levegő messzi kilátást tesz lehetővé a területen át egészen a tengerig.",
+                "ro": "Bucurați-vă de contrastul dintre aerul rece de afară și mașina caldă; aerul limpede de iarnă permite vederi îndepărtate peste zonă până la mare.",
+                "en": "Enjoy the contrast between the cool outside air and the warm car; the clear winter air allows far-reaching views across the terrain all the way to the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro das Figuras",
+                "hu": "Teatro das Figuras",
+                "ro": "Teatro das Figuras",
+                "en": "Teatro das Figuras"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vor der Fahrt, da Kälte diesen beeinflussen kann; das moderne Theater ist am frühen Nachmittag ein heller und warmer Stopp.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást, mivel a hideg befolyásolhatja azt; a modern színház kora délután világos és meleg megálló a túra közepén.",
+                "ro": "Verificați presiunea anvelopelor înainte de plecare, deoarece frigul o poate influența; teatrul modern este o oprire luminoasă și caldă după-amiaza devreme.",
+                "en": "Check the tire pressure before the drive as cold can affect it; the modern theater is a bright and warm stop in the early afternoon in the middle of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacete Guerreirinho",
+                "hu": "Palacete Guerreirinho",
+                "ro": "Palacete Guerreirinho",
+                "en": "Palacete Guerreirinho"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Mauern des Palacetes; ein idealer Moment für künstlerische Fotos direkt aus dem Autofenster.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a palota falaira; ideális pillanat művészi fotók készítéséhez közvetlenül az autó ablakából nézelődve.",
+                "ro": "Soarele de iarnă aflat jos pe cer aruncă umbre lungi pe zidurile palatului; un moment ideal pentru fotografii artistice direct de la fereastra mașinii.",
+                "en": "The low winter sun casts long shadows on the walls of the palace; an ideal moment for artistic photos taken directly from the car window while parked."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Tesos",
+                "hu": "Praia dos Tesos",
+                "ro": "Praia dos Tesos",
+                "en": "Praia dos Tesos"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft genau zum Sonnenuntergang um 17 Uhr ein; im Auto sitzend können Sie die Kälte ignorieren und das Farbspiel am Horizont bewundern.",
+                "hu": "Tervezze az érkezést pontosan a 17 órai naplementére; az autóban ülve figyelmen kívül hagyhatja a hideget, és megcsodálhatja a horizont színeit a végén.",
+                "ro": "Planificați sosirea exact la apusul de la ora 17:00; stând în mașină puteți ignora frigul și admira jocul culorilor de pe orizont la finalul zilei.",
+                "en": "Plan your arrival exactly for the sunset at 5 PM; sitting in the car, you can ignore the cold and admire the play of colors on the horizon at the end of the day."
+              }
+            }
+          ]
+        }
       }
     }
   }

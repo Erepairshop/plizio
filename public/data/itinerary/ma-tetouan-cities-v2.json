@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a történelmi bástyák és erődítmények felfedezésével, átérezve az ősi katonai jelenlétet, amely formálta Tetouánt. Délben merüljön el mélyebben a medina spirituális és építészeti magjában, díszes mecseteket és régészeti gyűjteményeket látogatva. A délután a kulturális elmélyülésről szól a felújított hagyományos házakban és a nyüzsgő kapuknál. Zárja az estét a marokkói kézműves termékek megcsodálásával, az óváros élénk energiájával körülvéve, ahogy az alkonyat leszáll a kanyargós sikátorokra.",
         "ro": "Începeți dimineața explorând bastioanele și fortificațiile istorice, simțind prezența militară antică ce a modelat orașul Tetouan. La prânz, pătrundeți mai adânc în nucleul spiritual și arhitectural al medinei, vizitând moschei ornamentate și colecții arheologice bogate. După-amiaza se îndreaptă spre o imersiune culturală în case tradiționale restaurate și porți istorice pline de viață. Încheiați seara admirând meșteșuguri marocane rafinate, înconjurat de energia vibrantă a orașului vechi la lăsarea amurgului.",
         "en": "Start your morning exploring the historic bastions and fortifications, feeling the ancient military presence that shaped Tetouan. Midday takes you deeper into the medina's spiritual and architectural core, visiting ornate mosques and rich archaeological collections. The afternoon shifts toward cultural immersion in restored traditional houses and bustling historic gates. Conclude your evening marveling at exquisite Moroccan crafts, surrounded by the vibrant energy of the old city as dusk falls over the winding alleys."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens hüllt der Regen die Bastion in dichten Nebel, was der Aussicht eine mystische Note verleiht. Mittags bieten die engen Gassen der Medina Schutz, doch die alten Pflastersteine werden bei Nässe sehr rutschig. Nachmittags sind die Museen ideale Zufluchtsorte, um trocken in die Geschichte einzutauchen. Abends spiegeln sich die Lichter der Stadt in den Pfützen und sorgen für eine dramatische Atmosphäre.",
+            "hu": "Reggel a bástyánál a Rif-hegység ködbe vész, az eső elől a közeli kapuk alá húzódhatunk. Délben a medina szűk sikátoraiban a falak némi védelmet nyújtanak, de a vizes macskakő rendkívül csúszós. Délután a múzeumok fedett termei várják a látogatót, ahol szárazon böngészheti a város gazdag múltját. Este a vizes aszfalton megcsillanó fények kísérik utunkat az utolsó múzeum melegéig.",
+            "ro": "Dimineața, bastionul este învăluit în ceață, oferind o perspectivă mistică asupra munților Rif. La prânz, străzile înguste ale medinei oferă adăpost, dar pietrele vechi devin foarte alunecoase. După-amiaza, muzeele sunt refugiul ideal pentru a explora istoria fără a vă uda. Seara, luminile orașului se oglindesc în bălți, creând o atmosferă cinematică și melancolică sub ploaie.",
+            "en": "Morning brings a misty veil over the bastion, giving the mountain views a mystical quality. By noon, the narrow medina alleys provide some shelter, though the ancient stones become treacherous when wet. Afternoon is best spent inside the museums, staying dry while diving into local history. Evening light glimmers on the wet pavement, creating a dramatic and moody atmosphere across the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bab Nouaber Bastion",
+                "hu": "Bab Nouaber Bástya",
+                "ro": "Bastionul Bab Nouaber",
+                "en": "Bab Nouaber Bastion"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Wolken tief über den Bergen hängen; tragen Sie feste Schuhe für die nassen Stufen der Bastion.",
+                "hu": "Figyelje meg a hegyek felett alacsonyan szálló felhőket; viseljen tapadós talpú cipőt a bástya vizes lépcsőin.",
+                "ro": "Observați norii care plutesc jos deasupra munților; purtați încălțăminte aderentă pentru treptele umede ale bastionului.",
+                "en": "Watch the clouds hanging low over the Rif mountains; wear shoes with good grip for the bastion's wet stone steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasbah",
+                "hu": "Kasbah",
+                "ro": "Kasbah",
+                "en": "Kasbah"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp an den Mauern reicht aus; suchen Sie danach schnell Schutz unter den Torbögen der nahen Medina.",
+                "hu": "Egy rövid megálló a falaknál elég; utána keressen gyorsan menedéket a közeli medina fedett kapualjaiban.",
+                "ro": "O scurtă oprire la ziduri este suficientă; căutați apoi rapid adăpost sub arcadele porților din medina apropiată.",
+                "en": "A quick stop at the walls is enough; seek shelter quickly afterward under the stone arches of the nearby medina."
+              }
+            },
+            {
+              "name": {
+                "de": "El-Fasi Zaouia",
+                "hu": "El-Fasi Zaouia",
+                "ro": "Zaouia El-Fasi",
+                "en": "El-Fasi Zaouia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren, während der Regen draußen plätschert; ein spiritueller Ort, der perfekt zum Aufwärmen ist.",
+                "hu": "Élvezze a belső udvar nyugalmát, miközben kint kopog az eső; ez a spirituális hely tökéletes egy kis pihenőre.",
+                "ro": "Bucurați-vă de liniștea interioară în timp ce ploaia cade afară; un loc spiritual perfect pentru a vă încălzi puțin.",
+                "en": "Enjoy the inner peace while rain taps on the roof; this spiritual site is a perfect quiet refuge from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Archéologique",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul Arheologic",
+                "en": "Musée Archéologique"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen großen Innenraum für eine ausgiebige Tour; die Mosaike strahlen auch ohne direktes Sonnenlicht hell.",
+                "hu": "Használja ki a tágas belső tereket egy hosszú sétára; a mozaikok közvetlen napfény nélkül is csodásan mutatnak.",
+                "ro": "Profitați de spațiile interioare generoase pentru un tur lung; mozaicurile strălucesc frumos chiar și fără soare.",
+                "en": "Take advantage of the spacious interiors for an extended tour; the ancient mosaics shine even without direct sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Dar El Oddi",
+                "hu": "Dar El Oddi",
+                "ro": "Dar El Oddi",
+                "en": "Dar El Oddi"
+              },
+              "tip_5lang": {
+                "de": "Dieses restaurierte Haus ist ein trockenes Juwel; bewundern Sie die Details, während Sie dem Regen im Hof lauschen.",
+                "hu": "Ez a felújított ház igazi száraz ékszerdoboz; csodálja meg a részleteket, miközben hallgatja az eső kopogását.",
+                "ro": "Această casă restaurată este o bijuterie uscată; admirați detaliile în timp ce ascultați ploaia în curtea interioară.",
+                "en": "This restored traditional house is a dry sanctuary; admire the fine details while listening to the rain in the patio."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab er Rouah",
+                "hu": "Bab er Rouah",
+                "ro": "Bab er Rouah",
+                "en": "Bab er Rouah"
+              },
+              "tip_5lang": {
+                "de": "Das massive Tor bietet kurzzeitig Schutz; eilen Sie danach weiter zum nächsten Museum, um nicht nass zu werden.",
+                "hu": "A hatalmas kapu rövid ideig védelmet nyújt; utána siessen tovább a következő múzeumba, hogy ne ázzon el.",
+                "ro": "Poarta masivă oferă protecție temporară; grăbiți-vă apoi spre următorul muzeu pentru a nu vă uda prea tare.",
+                "en": "The massive gateway provides brief cover from the rain; hurry to the next museum afterward to stay fully dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée d’Art Marocain",
+                "hu": "Marokkói Művészetek Múzeuma",
+                "ro": "Muzeul de Artă Marocană",
+                "en": "Musée d’Art Marocain"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss eines Regentages; die kunstvollen Holzdecken wirken bei gedämpftem Licht besonders warm.",
+                "hu": "A tökéletes zárás egy esős napon; a faragott famennyezetek a szórt fényben különösen meleg hangulatot árasztanak.",
+                "ro": "Finalul perfect pentru o zi ploioasă; tavanele din lemn sculptat par extrem de primitoare în lumina difuză.",
+                "en": "The perfect end to a rainy day; the ornate wooden ceilings feel especially warm and cozy in the soft, natural light."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist klar und frisch, die Sicht auf die Berge ist heute am besten. Mittags wärmt die Sonne in den geschützten Patios der Medina angenehm auf. Da es bereits gegen 17:00 Uhr dunkel wird, sollten Sie den Nachmittag in den gut beleuchteten Museen verbringen. Abends kühlt es stark ab, daher ist warme Kleidung für den Rückweg durch die beleuchteten Gassen unerlässlich.",
+            "hu": "A téli reggel friss és tiszta, ilyenkor a legjobb a kilátás a közeli hegycsúcsokra. Délben a medina szélvédett belső udvarai kellemesen tartják a nap melegét. Mivel 17:00 körül már sötétedik, a délutánt érdemes a jól kivilágított múzeumokban tölteni. Estére a levegő gyorsan lehűl, így a réteges öltözet kötelező a kivilágított utcákon.",
+            "ro": "Dimineața de iarnă este clară și rece, oferind cea mai bună vizibilitate asupra munților din jur. La prânz, curțile interioare ferite de vânt păstrează plăcut căldura soarelui. Deoarece se întunecă în jur de ora 17:00, petreceți după-amiaza în muzeele bine iluminate. Seara temperatura scade brusc, așa că hainele groase sunt esențiale pentru plimbare.",
+            "en": "The winter morning is crisp and clear, offering the best visibility for the surrounding mountain peaks. By noon, the wind-sheltered patios of the medina hold the sun's warmth comfortably. As sunset arrives early around 17:00, spend the later hours in the well-lit museums. Evenings get chilly quickly, so layering up is essential for the walk home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bab Nouaber Bastion",
+                "hu": "Bab Nouaber Bástya",
+                "ro": "Bastionul Bab Nouaber",
+                "en": "Bab Nouaber Bastion"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kristallklare Fernsicht; der kalte Wind an der Bastion erfordert eine winddichte Jacke.",
+                "hu": "Élvezze a kristálytiszta kilátást; a bástyánál fújó hideg szél miatt egy szélálló dzseki mindenképpen ajánlott.",
+                "ro": "Bucurați-vă de vizibilitatea clară; vântul rece de la bastion necesită o jachetă rezistentă la vânt.",
+                "en": "Enjoy the crystal-clear distant views; the cold wind at the bastion makes a windproof jacket a necessity."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasbah",
+                "hu": "Kasbah",
+                "ro": "Kasbah",
+                "en": "Kasbah"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Mauern reflektieren das tiefe Winterlicht; ideal für Fotos ohne die drückende Sommerhitze.",
+                "hu": "A fehér falak visszaverik a téli napfényt; tökéletes időpont fotózásra a nyári hőség és pára nélkül.",
+                "ro": "Zidurile albe reflectă lumina joasă a iernii; este momentul ideal pentru fotografii fără canicula verii.",
+                "en": "The white walls reflect the crisp winter light; perfect for photography without the summer heat and haze."
+              }
+            },
+            {
+              "name": {
+                "de": "El-Fasi Zaouia",
+                "hu": "El-Fasi Zaouia",
+                "ro": "Zaouia El-Fasi",
+                "en": "El-Fasi Zaouia"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen sonnigen Platz im Hof; die Stille der Nebensaison macht den Besuch besonders intensiv.",
+                "hu": "Keressen egy napos helyet az udvaron; a főszezonon kívüli csend még meghittebbé teszi a látogatást.",
+                "ro": "Căutați un loc însorit în curte; liniștea din afara sezonului face vizita mult mai intensă și spirituală.",
+                "en": "Find a sunny spot in the courtyard; the off-season quietness makes the visit feel much more personal."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Archéologique",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul Arheologic",
+                "en": "Musée Archéologique"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort am Nachmittag; verbringen Sie hier Zeit, während die Außentemperaturen sinken.",
+                "hu": "Meleg menedék a délutáni órákban; töltsön itt több időt, amíg a kinti hőmérséklet lassan csökkenni kezd.",
+                "ro": "Un refugiu călduros pentru după-amiază; petreceți timpul aici în timp ce temperatura de afară scade.",
+                "en": "A warm sanctuary for the afternoon; spend more time here as the outside temperature begins to drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Dar El Oddi",
+                "hu": "Dar El Oddi",
+                "ro": "Dar El Oddi",
+                "en": "Dar El Oddi"
+              },
+              "tip_5lang": {
+                "de": "Die gemütliche Atmosphäre des Hauses lädt zum Verweilen ein; genießen Sie die Architektur geschützt vor dem Winterwind.",
+                "hu": "A ház barátságos belső tere marasztalja a látogatót; élvezze az építészetet a téli széltől védett helyen.",
+                "ro": "Atmosfera primitoare a casei vă îndeamnă să rămâneți; admirați arhitectura feriți de vântul de iarnă.",
+                "en": "The cozy interior of this traditional house is very welcoming; enjoy the architecture protected from the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab er Rouah",
+                "hu": "Bab er Rouah",
+                "ro": "Bab er Rouah",
+                "en": "Bab er Rouah"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Tor kurz vor Sonnenuntergang; das goldene Licht um 16:30 Uhr ist einfach spektakulär.",
+                "hu": "Látogasson el a kapuhoz nem sokkal naplemente előtt; az aranyóra fényei 16:30 körül lenyűgözőek.",
+                "ro": "Vizitați poarta cu puțin timp înainte de apus; lumina aurie de la ora 16:30 este pur și simplu spectaculoasă.",
+                "en": "Visit the gate just before sunset; the golden hour light around 16:30 is spectacular on the white stone."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée d’Art Marocain",
+                "hu": "Marokkói Művészetek Múzeuma",
+                "ro": "Muzeul de Artă Marocană",
+                "en": "Musée d’Art Marocain"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Warmen; da es draußen bereits dunkel ist, kommen die Exponate unter Kunstlicht toll zur Geltung.",
+                "hu": "Zárja a napot a melegben; mivel kint már sötét van, a kiállítási tárgyak a belső világításban még szebbek.",
+                "ro": "Încheiați ziua la căldură; deoarece afară este deja întuneric, exponatele arată excelent sub lumina artificială.",
+                "en": "End your day in the warmth; since it is dark outside, the exhibits look striking under the museum's interior lights."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje kerékpártúráját a város frankofón kulturális központjában, amely modern, mégis történelmi alaphangot ad a napnak. Délben tekerjen el az ikonikus bástyák és erődítmények mellett, összekötve a medina külső peremének történelmi pontjait. A délutáni túra a gyönyörűen megőrzött városkapukhoz vezet, amelyek tökéletes fotózási lehetőségeket kínálnak. Zárja a napot a modern művészeti központban, és sétáljon végig a buja szoborkerteken, miközben a nap lassan lenyugszik.",
         "ro": "Începeți turul cu bicicleta la centrul cultural francofon al orașului, stabilind un ton modern, dar istoric pentru ziua respectivă. Până la prânz, pedalați pe lângă bastioane și fortărețe emblematice, conectând punctele istorice ale perimetrului exterior. Plimbarea de după-amiază vă duce la porțile orașului frumos conservate, oferind oportunități perfecte de fotografie. Încheiați la centrul de artă modernă, lăsând bicicleta pentru a vă plimba prin grădinile de sculpturi la apus.",
         "en": "Kick off your cycling tour at the city's francophone cultural center, setting a modern yet historic tone for the day. By midday, pedal past iconic bastions and fortresses, connecting the broader historical dots of the medina's outer perimeter. The afternoon ride leads you to beautifully preserved city gates, offering perfect photo opportunities in the warm light. Wrap up at the modern art center, leaving your bike to wander through lush sculpture gardens as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen macht die asphaltierten Straßen außerhalb der Medina glatt, fahren Sie daher besonders vorsichtig. Der Morgen startet kulturell im Trockenen, was ideal ist, um den ersten Schauer abzuwarten. Mittags sind die Wege zwischen den Toren kurz, aber Pfützen können tief sein. Nachmittags bietet das Kunstzentrum einen sicheren und warmen Ort, um die Tour entspannt ausklingen zu lassen.",
+            "hu": "Az eső csúszóssá teszi az aszfaltozott utakat a medinán kívül, ezért közlekedjen fokozott óvatossággal. A reggel kulturális programmal indul fedett helyen, ami ideális az első záporok átvészelésére. Délben a kapuk közötti szakaszok rövidek, de a tócsák mélyek lehetnek. Délután a művészeti központ biztonságos és meleg helyet kínál a túra lezárásához.",
+            "ro": "Ploaia face drumurile asfaltate din afara medinei alunecoase, așa că mergeți cu bicicletat cu mare prudență. Dimineața începe cu activități culturale la interior, ideal pentru a evita primele averse. La prânz, distanțele între porți sunt scurte, dar bălțile pot fi adânci. După-amiaza, centrul de artă oferă un spațiu sigur și uscat pentru a încheia ziua relaxat.",
+            "en": "Rain makes the paved roads outside the medina slippery, so ride with extra caution throughout the day. Start your morning with indoor cultural stops to avoid the heaviest showers. By noon, the distances between the city gates are short, but watch out for deep puddles. In the afternoon, the art center provides a safe, dry haven to conclude your cycling tour comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Institut Français de Tétouan",
+                "hu": "Institut Français de Tétouan",
+                "ro": "Institutul Francez din Tetouan",
+                "en": "Institut Français de Tétouan"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier im Trockenen; prüfen Sie Ihre Bremsen, bevor Sie nach dem Besuch wieder in den Regen fahren.",
+                "hu": "Kezdje a napot fedett helyen; ellenőrizze a fékeket, mielőtt a látogatás után újra kimerészkedne az esőbe.",
+                "ro": "Începeți ziua la adăpost; verificați frânele înainte de a ieși din nou în ploaie după vizită.",
+                "en": "Start your day indoors; double-check your brakes before heading back out into the rain after your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de Culture",
+                "hu": "Kultúra Háza",
+                "ro": "Casa de Cultură",
+                "en": "Maison de Culture"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer kultureller Stopp, um trocken zu bleiben; parken Sie Ihr Rad nah am Eingang unter dem Dachvorsprung.",
+                "hu": "Újabb kulturális megálló, hogy száraz maradjon; parkoljon közel a bejárathoz az ereszek védelmében.",
+                "ro": "Încă o oprire culturală pentru a rămâne uscat; parcați bicicleta aproape de intrare, sub streașină.",
+                "en": "Another indoor cultural stop to stay dry; park your bike close to the entrance under the overhanging roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Nouaber Bastion",
+                "hu": "Bab Nouaber Bástya",
+                "ro": "Bastionul Bab Nouaber",
+                "en": "Bab Nouaber Bastion"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist auch bei Regen stimmungsvoll; steigen Sie auf den glatten Steinen der Bastion lieber vom Rad ab.",
+                "hu": "A kilátás esőben is hangulatos; a bástya csúszós kövein inkább szálljon le a bicikliről és tolja azt.",
+                "ro": "Priveliștea este atmosferică și pe ploaie; pe pietrele alunecoase ale bastionului, e mai bine să mergeți pe lângă bicicletă.",
+                "en": "The view is moody and atmospheric in the rain; it's safer to dismount and walk your bike on the slippery bastion stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasbah",
+                "hu": "Kasbah",
+                "ro": "Kasbah",
+                "en": "Kasbah"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Foto der nassen Mauern; halten Sie die Fahrt kurz, um nicht völlig durchnässt zu werden.",
+                "hu": "Egy gyors fotó a vizes falakról; tartsa röviden a megállót, hogy ne ázzon el teljesen a nyitott területen.",
+                "ro": "O fotografie rapidă cu zidurile umede; scurtați oprirea pentru a nu vă uda complet în spațiul deschis.",
+                "en": "A quick photo of the wet walls is enough; keep this outdoor stop short to avoid getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Rmouz",
+                "hu": "Bab Rmouz",
+                "ro": "Bab Rmouz",
+                "en": "Bab Rmouz"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Durchfahren des Tores; der Boden unter dem Bogen kann durch stehendes Wasser besonders tückisch sein.",
+                "hu": "Óvatosan haladjon át a kapun; az ív alatti talaj a megálló víz miatt különösen csalóka és csúszós lehet.",
+                "ro": "Traversați poarta cu atenție; solul de sub arcadă poate fi trădător din cauza apei care stagnează.",
+                "en": "Exercise caution when riding through the gate; the ground under the arch can be tricky due to standing water."
+              }
+            },
+            {
+              "name": {
+                "de": "Modern Art Center of Tetouan",
+                "hu": "Tetouáni Modern Művészeti Központ",
+                "ro": "Centrul de Artă Modernă din Tetouan",
+                "en": "Modern Art Center of Tetouan"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich in den Galerien ab; das Café im Zentrum ist der perfekte Ort, um das Regenwetter zu beobachten.",
+                "hu": "Szárítkozzon meg a galériákban; a központ kávézója tökéletes hely az esős idő szemlélésére a melegből.",
+                "ro": "Uscați-vă în galerii; cafeneaua centrului este locul ideal pentru a privi ploaia de la căldură.",
+                "en": "Dry off in the galleries; the center's cafe is the perfect spot to watch the rainy weather from a warm interior."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft sorgt für perfekte Sichtverhältnisse auf Ihrer Radtour um die Stadtmauern. Morgens ist es im Schatten noch sehr kalt, ziehen Sie daher Handschuhe für die Fahrt an. Mittags steht die Sonne tief und lässt die weißen Fassaden Tetouans hell erstrahlen. Da es gegen 17:00 Uhr bereits dämmert, beenden Sie die Tour am besten im belebten Kunstzentrum.",
+            "hu": "A tiszta téli levegő tökéletes látási viszonyokat biztosít a városfalak körüli biciklitúra során. Reggel az árnyékos részeken még nagyon hideg van, ezért viseljen kesztyűt a tekeréshez. Délben az alacsonyan járó nap ragyogóvá teszi Tetouan fehér homlokzatait. Mivel 17:00 körül már szürkül, a túrát érdemes a jól kivilágított művészeti központban zárni.",
+            "ro": "Aerul clar de iarnă oferă condiții perfecte de vizibilitate pentru turul cu bicicleta în jurul zidurilor orașului. Dimineața este încă foarte frig la umbră, așa că purtați mănuși pentru drum. La prânz, soarele jos face fațadele albe ale Tetouanului să strălucească intens. Deoarece se înserează în jur de ora 17:00, încheiați turul la centrul de artă bine iluminat.",
+            "en": "The clear winter air provides perfect visibility for your cycling tour around the historic city walls. Mornings are quite chilly in the shade, so be sure to wear gloves while riding. By noon, the low winter sun makes Tetouan's white facades glow brilliantly. As dusk arrives around 17:00, plan to finish your ride at the well-lit modern art center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Institut Français de Tétouan",
+                "hu": "Institut Français de Tétouan",
+                "ro": "Institutul Francez din Tetouan",
+                "en": "Institut Français de Tétouan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Morgensonne im Garten; die frische Luft gibt Energie für den ersten Anstieg der Tour.",
+                "hu": "Használja ki a reggeli napsütést a kertben; a friss levegő energiát ad a túra első emelkedőihez.",
+                "ro": "Profitați de soarele dimineții în grădină; aerul proaspăt vă dă energie pentru prima urcare a turului.",
+                "en": "Take advantage of the morning sun in the garden; the crisp air provides energy for the tour's first climbs."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de Culture",
+                "hu": "Kultúra Háza",
+                "ro": "Casa de Cultură",
+                "en": "Maison de Culture"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp; parken Sie in der Sonne, damit der Sattel für die Weiterfahrt nicht zu kalt wird.",
+                "hu": "Egy melegítő megálló; parkoljon a napon, hogy a bicikliülése ne legyen túl hideg a folytatáshoz.",
+                "ro": "O oprire pentru încălzire; parcați la soare pentru ca șaua bicicletei să nu fie prea rece la plecare.",
+                "en": "A warming stop; park your bike in the sun so the seat isn't too cold when you're ready to continue."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Nouaber Bastion",
+                "hu": "Bab Nouaber Bástya",
+                "ro": "Bastionul Bab Nouaber",
+                "en": "Bab Nouaber Bastion"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick auf die schneebedeckten Rif-Gipfel ist im Winter atemberaubend; halten Sie Ihre Kamera bereit.",
+                "hu": "A Rif-hegység hófödte csúcsaira nyíló panoráma télen lélegzetelállító; tartsa készenlétben a fényképezőgépét.",
+                "ro": "Panorama asupra vârfurilor înzăpezite ale munților Rif este uluitoare iarna; pregătiți camera foto.",
+                "en": "The panoramic view of the snow-capped Rif peaks is breathtaking in winter; keep your camera ready for the shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasbah",
+                "hu": "Kasbah",
+                "ro": "Kasbah",
+                "en": "Kasbah"
+              },
+              "tip_5lang": {
+                "de": "Hier oben weht ein kalter Wind; bleiben Sie nur kurz für die Aussicht und fahren Sie zügig weiter.",
+                "hu": "Itt fent hideg szél fújhat; csak rövid ideig maradjon a kilátás miatt, majd folytassa utat lefelé.",
+                "ro": "Aici sus bate un vânt rece; rămâneți doar puțin pentru priveliște și continuați drumul spre zone mai joase.",
+                "en": "A cold wind often blows up here; stay only briefly for the view before heading back down to sheltered streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Rmouz",
+                "hu": "Bab Rmouz",
+                "ro": "Bab Rmouz",
+                "en": "Bab Rmouz"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Sonnenlicht am Nachmittag wirft lange Schatten durch das Tor; ein tolles Motiv für Schwarz-Weiß-Fotos.",
+                "hu": "A délutáni alacsony napfény hosszú árnyékokat vet a kapun keresztül; remek téma fekete-fehér fotókhoz.",
+                "ro": "Lumina joasă de după-amiază proiectează umbre lungi prin poartă; un subiect excelent pentru fotografii alb-negru.",
+                "en": "The low afternoon sun casts long, dramatic shadows through the gate; it's a great subject for black-and-white photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Modern Art Center of Tetouan",
+                "hu": "Tetouáni Modern Művészeti Központ",
+                "ro": "Centrul de Artă Modernă din Tetouan",
+                "en": "Modern Art Center of Tetouan"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt, bevor es um 17:00 Uhr dunkel wird; die warmen Ausstellungsräume sind der ideale Abschluss.",
+                "hu": "Fejezze be a túrát, mielőtt 17:00-kor besötétedik; a meleg kiállítótermek ideális helyszínt nyújtanak a pihenéshez.",
+                "ro": "Încheiați turul înainte de a se întuneca la ora 17:00; sălile de expoziție călduroase sunt locul ideal pentru final.",
+                "en": "Finish your ride before it gets dark at 17:00; the warm exhibition halls provide an ideal place to rest and recover."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +876,168 @@
         "hu": "Autós túrája a Rif-hegység tágas természeti panorámájával kezdődik, ahonnan a békés folyóvölgyre nyílik kilátás. Dél felé közeledve merüljön el a város művészeti lelkében a modern művészeti központban, mielőtt a történelmi falak felé venné az irányt. Délután fedezze fel az ősi kapukat és a régészeti kincseket, amelyek felfedik Marokkó összetett múltját. Zárja a napot egy festői autózással a Jbel Dersa-ra, ahol a fehér városra nyíló panorámás naplemente felejthetetlen finálét kínál.",
         "ro": "Turul cu mașina începe cu priveliști naturale vaste ale Munților Riff, având vedere la valea liniștită a râului. Apropiindu-vă de prânz, scufundați-vă în sufletul artistic al orașului la centrul de artă modernă, înainte de a naviga spre zidurile istorice. După-amiaza, explorați porți antice și comori arheologice care dezvăluie trecutul complex al Marocului. Încheiați cu un drum pitoresc pe Jbel Dersa, unde apusul panoramic peste orașul alb oferă un final de neuitat.",
         "en": "Your driving tour begins with sweeping natural vistas of the Riff Mountains overlooking the serene river valley below. Approaching midday, dive into the city's artistic soul at the modern art center before navigating towards the historic medina walls. In the afternoon, explore ancient gates and archaeological treasures that unveil Morocco's complex past. Finish with a scenic drive up Jbel Dersa, where panoramic sunset views across the white city provide a truly unforgettable finale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt ist bei diesem Wetter die komfortabelste Wahl, um Tetouan zu erkunden. Morgens kann der Nebel am Viewpoint die Sicht einschränken, fahren Sie vorsichtig auf den nassen Bergstraßen. Mittags bieten die Museen im Stadtzentrum trockene Parkmöglichkeiten in der Nähe. Nachmittags ist die Fahrt zum Jbel Dersa stimmungsvoll, auch wenn die Gipfel oft in Wolken gehüllt sind.",
+            "hu": "Az autós túra a legkényelmesebb választás Tetouan felfedezéséhez ilyen időben. Reggel a kilátónál a köd korlátozhatja a látást, vezessen óvatosan a vizes hegyi utakon. Délben a belvárosi múzeumok közelében keressen fedett vagy közeli parkolót. Délután a Jbel Dersa felé vezető út hangulatos, még akkor is, ha a csúcsokat gyakran felhő takarja.",
+            "ro": "Turul cu mașina este cea mai confortabilă alegere pentru a explora Tetouan pe acest timp. Dimineața, ceața de la punctul de belvedere poate limita vizibilitatea, deci conduceți cu atenție pe drumurile umede. La prânz, muzeele din centru oferă opțiuni de parcare în apropiere. După-amiaza, drumul spre Jbel Dersa este atmosferic, chiar dacă vârfurile sunt adesea în nori.",
+            "en": "A car tour is the most comfortable way to explore Tetouan during rainy weather. In the morning, fog at the viewpoint might limit visibility, so drive carefully on the slick mountain roads. At noon, the city center museums offer convenient nearby parking to keep you dry. In the afternoon, the drive to Jbel Dersa is scenic, even if the peaks are often hidden in the clouds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oued Martil Viewpoint of Riff Mountains",
+                "hu": "Oued Martil Kilátó - Rif-hegység",
+                "ro": "Punct de belvedere Oued Martil",
+                "en": "Oued Martil Viewpoint of Riff Mountains"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Auto, falls es stark regnet; der Nebel über dem Fluss wirkt sehr dramatisch.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból, ha erősen esik; a folyó feletti köd rendkívül drámai látványt nyújt.",
+                "ro": "Bucurați-vă de priveliște direct din mașină dacă plouă tare; ceața de deasupra râului arată foarte dramatic.",
+                "en": "Enjoy the view directly from your car if it's raining hard; the fog over the Oued Martil river looks very dramatic."
+              }
+            },
+            {
+              "name": {
+                "de": "Modern Art Center of Tetouan",
+                "hu": "Tetouáni Modern Művészeti Központ",
+                "ro": "Centrul de Artă Modernă din Tetouan",
+                "en": "Modern Art Center of Tetouan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz am Bahnhof; so kommen Sie fast trocken in die beeindruckenden Galerien.",
+                "hu": "Használja a vasútállomás melletti közeli parkolót; így szinte szárazon juthat be a lenyűgöző galériákba.",
+                "ro": "Folosiți parcarea de lângă gară; astfel veți ajunge aproape uscat în galeriile impresionante ale centrului.",
+                "en": "Use the parking area near the station; this allows you to reach the impressive galleries while staying mostly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab er Rouah",
+                "hu": "Bab er Rouah",
+                "ro": "Bab er Rouah",
+                "en": "Bab er Rouah"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp aus dem Fenster reicht; die nassen Stadtmauern glänzen im Regen besonders schön.",
+                "hu": "Egy rövid fotómegálló az autóablakból is elég; a vizes városfalak különösen szépen csillognak az esőben.",
+                "ro": "O scurtă oprire pentru poze de la fereastra mașinii este suficientă; zidurile umede lucesc frumos în ploaie.",
+                "en": "A brief photo stop from the car window is enough; the wet city walls have a beautiful sheen in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Archéologique",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul Arheologic",
+                "en": "Musée Archéologique"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an der Place Al Jala; von dort ist es nur ein kurzer Sprint ins trockene Museum.",
+                "hu": "Parkoljon a Place Al Jala környékén; onnan csak egy rövid sprint választja el a száraz múzeumi termektől.",
+                "ro": "Parcați în zona Place Al Jala; de acolo este doar un scurt sprint până la interiorul uscat al muzeului.",
+                "en": "Park around Place Al Jala; from there, it's just a short sprint to reach the dry and warm museum halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Jbel Dersa",
+                "hu": "Jbel Dersa",
+                "ro": "Jbel Dersa",
+                "en": "Jbel Dersa"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Fahrzeug; die Wolken, die um die Hänge ziehen, sind ein faszinierendes Naturschauspiel.",
+                "hu": "Erős esőben maradjon a járműben; a hegyoldalakon átvonuló felhők lenyűgöző természeti látványt nyújtanak.",
+                "ro": "Rămâneți în vehicul dacă plouă torențial; norii care trec peste versanți oferă un spectacol natural fascinant.",
+                "en": "Stay in your vehicle during heavy rain; the clouds moving across the slopes offer a fascinating natural spectacle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter bietet die klarste Fernsicht für Ihre Fahrt zu den Aussichtspunkten rund um Tetouan. Morgens ist die Heizung im Auto willkommen, während Sie die frostige Landschaft am Oued Martil beobachten. Mittags steht die Sonne perfekt für Fotos der weißen Stadt vor blauem Himmel. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie den Abschluss am Jbel Dersa für das beste Dämmerungslicht.",
+            "hu": "A tél biztosítja a legtisztább kilátást a Tetouan körüli kilátópontokhoz vezető autós túra során. Reggel jól jön az autó fűtése, miközben az Oued Martil menti déres tájat szemléli. Délben a napfény tökéletes a fehér város és a kék égbolt fotózásához. Mivel a nap 17:00 körül nyugszik, a Jbel Dersát érdemes utoljára hagyni a legjobb szürkületi fényekért.",
+            "ro": "Iarna oferă cea mai clară vizibilitate pentru drumul spre punctele de belvedere din jurul Tetouanului. Dimineața, căldura din mașină este binevenită în timp ce admirați peisajul brumat de-a lungul râului. La prânz, lumina este perfectă pentru a fotografia orașul alb pe fundalul cerului albastru. Deoarece soarele apune la 17:00, lăsați Jbel Dersa pentru final pentru cele mai bune culori.",
+            "en": "Winter offers the clearest views for your drive to the panoramic viewpoints around Tetouan. In the morning, you'll appreciate the car's heater while observing the frosty landscape along the Oued Martil. By noon, the light is perfect for photographing the white city against a deep blue sky. As sunset is around 17:00, plan to be at Jbel Dersa for the best twilight colors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oued Martil Viewpoint of Riff Mountains",
+                "hu": "Oued Martil Kilátó - Rif-hegység",
+                "ro": "Punct de belvedere Oued Martil",
+                "en": "Oued Martil Viewpoint of Riff Mountains"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft macht die schneebedeckten Gipfel des Rif-Gebirges heute besonders gut sichtbar; ein Fernglas lohnt sich.",
+                "hu": "A hideg levegő miatt a Rif-hegység hófödte csúcsai ma különösen jól láthatóak; érdemes távcsövet is hozni.",
+                "ro": "Aerul rece face ca vârfurile înzăpezite ale munților Rif să fie foarte vizibile astăzi; merită să aveți un binoclu.",
+                "en": "The cold air makes the snow-capped Rif peaks exceptionally visible today; it's worth bringing a pair of binoculars."
+              }
+            },
+            {
+              "name": {
+                "de": "Modern Art Center of Tetouan",
+                "hu": "Tetouáni Modern Művészeti Központ",
+                "ro": "Centrul de Artă Modernă din Tetouan",
+                "en": "Modern Art Center of Tetouan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Atmosphäre der Galerien; parken Sie direkt davor, um den kalten Wind zu vermeiden.",
+                "hu": "Élvezze a galériák meleg hangulatát; parkoljon közvetlenül az épület előtt, hogy elkerülje a hideg szelet.",
+                "ro": "Bucurați-vă de atmosfera caldă a galeriilor; parcați chiar în față pentru a evita vântul rece de iarnă.",
+                "en": "Enjoy the warm atmosphere of the galleries; park directly in front to avoid spending time in the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab er Rouah",
+                "hu": "Bab er Rouah",
+                "ro": "Bab er Rouah",
+                "en": "Bab er Rouah"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Winterlicht lässt das Tor majestätisch wirken; steigen Sie für ein schnelles Foto kurz aus.",
+                "hu": "Az alacsony téli napfény fenségessé teszi a kaput; szálljon ki egy gyors fotóra a tiszta fényekben.",
+                "ro": "Lumina joasă de iarnă face ca poarta să pară maiestuoasă; coborâți pentru o fotografie rapidă în lumina clară.",
+                "en": "The low winter sunlight makes the gate look truly majestic; hop out for a quick photo in the sharp, clear light."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Archéologique",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul Arheologic",
+                "en": "Musée Archéologique"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich am Nachmittag aufzuwärmen; die römischen Artefakte sind im Winter viel ruhiger zu besichtigen.",
+                "hu": "Ideális hely a délutáni felmelegedéshez; a római kori leleteket télen sokkal nyugodtabban lehet megtekinteni.",
+                "ro": "Un loc ideal pentru a vă încălzi după-amiaza; artefactele romane pot fi vizitate mult mai liniștit iarna.",
+                "en": "An ideal spot to warm up in the afternoon; the Roman artifacts can be viewed much more peacefully in the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Jbel Dersa",
+                "hu": "Jbel Dersa",
+                "ro": "Jbel Dersa",
+                "en": "Jbel Dersa"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie um 16:45 Uhr hier, um den Sonnenuntergang über der weißen Stadt zu sehen; die Lichter Tetouans funkeln in der Kälte.",
+                "hu": "Érkezzen 16:45 körül, hogy láthassa a naplementét a fehér város felett; Tetouan fényei ragyognak a hideg estében.",
+                "ro": "Sosiți în jur de ora 16:45 pentru a vedea apusul peste orașul alb; luminile Tetouanului sclipesc în seara rece.",
+                "en": "Be here around 16:45 to watch the sunset over the white city; Tetouan's lights sparkle beautifully in the cold air."
+              }
+            }
+          ]
+        }
       }
     }
   }

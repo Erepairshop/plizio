@@ -160,6 +160,196 @@
         "hu": "Reggel a történelmi fürdőknél és a római fórumnál kezd, ahol elmerülhet az ókori történelemben. Délben a Hagia Sophia bizánci pompáját és a múzeum gazdag múltját csodálhatja meg. A délután a Galerius diadalívhez vezet, amely egy igazi római mestermű. Az estét a Fehér Toronynál zárja, ahonnan csodálatos kilátás nyílik az élettel teli, hangulatos tengerparti sétányra.",
         "ro": "Dimineața începe la băile istorice și la forumul roman, unde vă cufundați în istoria antică. La prânz admirați splendoarea bizantină a Hagia Sophia și explorați trecutul bogat la muzeu. După-amiaza vă conduce la Arcul lui Galerius, o adevărată capodoperă romană. Seara se încheie la Turnul Alb, cu o vedere minunată asupra promenadei pline de viață de pe litoral.",
         "en": "Start your morning at the historic baths and the Roman Forum, immersing yourself in ancient history. Midday invites you to admire the Byzantine splendor of Hagia Sophia and explore the rich past at the museum. The afternoon leads you to the Arch of Galerius, a true Roman masterpiece. Conclude your evening at the White Tower, enjoying magnificent views of the vibrant waterfront promenade."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt geschützt in den historischen Mauern des Hamams, während der Regen auf die Stadt niedergeht. Mittags erkunden wir das Forum Romanum unter dem Schirm, gefolgt von der spirituellen Stille der Hagia Sophia. Der Nachmittag gehört der mazedonischen Geschichte im trockenen Museum. Den Abend lassen wir im Weißen Turm ausklingen, der einen sicheren Hafen vor der feuchten Meeresbrise bietet.",
+            "hu": "A napot a patinás fürdő falai között kezdjük, védve az égi áldástól. Délben ernyővel járjuk be a fórum romjait, majd a Hagia Szophia belső nyugalma nyújt menedéket. A délutánt a macedón küzdelmeket bemutató múzeum fedett termeiben töltjük. Az estét a Fehér Torony masszív falai között zárjuk, ahol a belső kiállítás alatt megvárhatjuk, amíg csendesedik a tengerparti eső.",
+            "ro": "Ziua începe la adăpost în zidurile istorice ale băii turcești, feriți de ploaia de afară. La prânz explorăm Forumul Roman sub umbrelă, urmat de liniștea spirituală din Hagia Sofia. După-amiaza este dedicată muzeului, oferind un refugiu cultural uscat. Încheiem seara la Turnul Alb, a cărui structură masivă ne protejează de vântul umed care suflă dinspre Golful Thermaic.",
+            "en": "Start the day sheltered within the historic bath walls while rain falls over the city. At noon, explore the Roman Forum with an umbrella, followed by the dry serenity of Hagia Sophia. Spend the afternoon in the indoor galleries of the Macedonian Struggle Museum. End your walk at the White Tower, where the internal exhibits provide a perfect refuge from the damp seaside breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Giahoudi Haman Türkisches Bad",
+                "hu": "Giahoudi Haman Török Fürdő",
+                "ro": "Baia Turcească Giahoudi Haman",
+                "en": "Giahoudi Haman Turkish Bath"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die osmanische Architektur im Trockenen; die glatten Steine am Eingang können bei Nässe sehr rutschig sein, tragen Sie festes Schuhwerk.",
+                "hu": "Csodálja meg az oszmán építészet remekét fedett helyen; a bejárat körüli kövek esőben csúszósak lehetnek, ügyeljen a biztonságos léptekre.",
+                "ro": "Admirați arhitectura otomană la interior, feriți de ploaie; pietrele de la intrare pot fi alunecoase când sunt ude, pășiți cu mare atenție.",
+                "en": "Admire the Ottoman architecture from the dry interior; the stones around the entrance can be very slippery when wet, so watch your step."
+              }
+            },
+            {
+              "name": {
+                "de": "Forum Romanum",
+                "hu": "Római Fórum",
+                "ro": "Forumul Roman",
+                "en": "Romaiki Agora"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausgrabungen unter den Arkaden des Museums; nutzen Sie einen stabilen Regenschirm, da der Wind hier oft stark weht.",
+                "hu": "A múzeumi árkádok alatt szárazon is láthatók az ásatások; vigyen strapabíró esernyőt, mert a nyitott téren gyakran fúj a szél.",
+                "ro": "Explorați vestigiile sub arcadele muzeului pentru a rămâne uscat; folosiți o umbrelă rezistentă, deoarece vântul suflă puternic în spațiul deschis.",
+                "en": "Explore the excavations under the museum's arcades to stay dry; bring a sturdy umbrella as the wind often picks up in this open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Hagia Sophia",
+                "hu": "Hagia Szophia",
+                "ro": "Hagia Sofia",
+                "en": "Hagia Sophia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die prächtigen Mosaike im Inneren, während es draußen regnet; bitte achten Sie auf nasse Kleidung beim Betreten des heiligen Raums.",
+                "hu": "A belső mozaikok ragyogása feledteti a kinti borút; a templomba lépve ügyeljen arra, hogy ne csöpögjön a víz az esernyőjéről a padlóra.",
+                "ro": "Bucurați-vă de mozaicurile splendide în timp ce plouă afară; vă rugăm să scuturați umbrela la intrare pentru a păstra spațiul curat.",
+                "en": "Enjoy the magnificent mosaics while it rains outside; please be mindful of dripping umbrellas when entering this sacred space."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Makedonischen Kampfes",
+                "hu": "Macedón Küzdelem Múzeuma",
+                "ro": "Muzeul Luptei Macedonene",
+                "en": "Museum of the Macedonian Struggle"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für regnerische Nachmittage mit tiefem Einblick in die Geschichte; nutzen Sie die Garderobe für Ihre nasse Regenbekleidung.",
+                "hu": "Tökéletes menedék a történelem iránt érdeklődőknek esős időben; használja a ruhatárat a vizes kabátok és esernyők elhelyezésére.",
+                "ro": "Un refugiu perfect pentru după-amiezele ploioase, oferind perspective istorice vaste; lăsați hainele ude la garderobă pentru confort.",
+                "en": "An ideal spot for rainy afternoons with deep historical insights; use the cloakroom to store your wet coats and umbrellas comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeriusbogen",
+                "hu": "Galerius diadalív",
+                "ro": "Arcul lui Galerius",
+                "en": "Arch of Galerius"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Reliefs schnell unter einem Schirm; die nahegelegenen Cafés bieten danach einen warmen und trockenen Rückzugsort.",
+                "hu": "Az ernyő alatt is jól láthatók a részletgazdag domborművek; a közeli kávézókban utána gyorsan felmelegedhet egy meleg ital mellett.",
+                "ro": "Observați reliefurile detaliate rapid sub umbrelă; cafenelele din apropiere oferă un refugiu cald și uscat imediat după vizită.",
+                "en": "View the detailed reliefs quickly under an umbrella; the nearby cafes offer a warm and dry retreat immediately after your stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Weißer Turm von Thessaloniki",
+                "hu": "Thesszaloniki Fehér Tornya",
+                "ro": "Turnul Alb din Salonic",
+                "en": "White Tower of Thessaloniki"
+              },
+              "tip_5lang": {
+                "de": "Die Innenausstellung ist der perfekte Abschluss für einen nassen Tag; von der Spitze hat man auch bei Regen einen dramatischen Blick aufs Meer.",
+                "hu": "A belső kiállítás ideális lezárása az esős napnak; a torony tetejéről a viharos tenger látványa egészen különleges élményt nyújt.",
+                "ro": "Expoziția interioară este finalul perfect pentru o zi ploioasă; de sus, marea agitată oferă o priveliște dramatică și memorabilă.",
+                "en": "The indoor exhibition is the perfect end to a wet day; the view of the stormy sea from the top is a dramatic and unique experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt in der Wärme des Hamams. Wir spazieren durch das kühle Forum Romanum, bevor uns die Hagia Sophia spirituelle Wärme schenkt. Nachmittags vertiefen wir uns in die mazedonische Geschichte im beheizten Museum. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir den Weißen Turm pünktlich zum goldenen Licht der Winterdämmerung.",
+            "hu": "A friss téli reggelt a fürdő kellemes melegében kezdjük. A hűvös fórum után a Hagia Szophia áhítata nyújt lelki és fizikai melegséget. Délután a fűtött múzeumban mélyedünk el a történelemben. Mivel a nap már 17 óra körül nyugovóra tér, a Fehér Toronyhoz éppen a téli alkonyat aranyló fényeiben érkezünk meg.",
+            "ro": "O dimineață răcoroasă de iarnă începe în căldura băii istorice. Ne plimbăm prin forumul răcoros, apoi Hagia Sofia ne oferă un refugiu spiritual cald. După-amiaza explorăm istoria macedoneană în muzeul bine încălzit. Deoarece soarele apune în jur de ora 17:00, ajungem la Turnul Alb exact pentru lumina aurie a amurgului de iarnă.",
+            "en": "A crisp winter morning starts in the warmth of the historic bath. Walk through the cool Roman Forum before seeking spiritual warmth in Hagia Sophia. Spend the afternoon in the heated rooms of the museum. Since the sun sets around 17:00, you will reach the White Tower just in time for the golden glow of the winter dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Giahoudi Haman Türkisches Bad",
+                "hu": "Giahoudi Haman Török Fürdő",
+                "ro": "Baia Turcească Giahoudi Haman",
+                "en": "Giahoudi Haman Turkish Bath"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Schutz der dicken Mauern vor dem kalten Wind; tragen Sie Schichten, da es im Inneren deutlich wärmer als draußen ist.",
+                "hu": "Élvezze a vastag falak védelmét a metsző téli szél elől; öltözzön rétegesen, mert bent sokkal kellemesebb a hőmérséklet, mint odakint.",
+                "ro": "Bucurați-vă de protecția zidurilor groase împotriva vântului rece; îmbrăcați-vă în straturi, deoarece interiorul este mult mai cald decât afară.",
+                "en": "Enjoy the protection of the thick walls from the biting winter wind; dress in layers as it is much warmer inside than outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Forum Romanum",
+                "hu": "Római Fórum",
+                "ro": "Forumul Roman",
+                "en": "Romaiki Agora"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das unterirdische Museum des Forums, um sich zwischendurch aufzuwärmen; das klare Winterlicht ist ideal für Architekturfotos.",
+                "hu": "Látogasson el a fórum föld alatti múzeumába, hogy átmelegedjen; a tiszta téli fények tökéletesek az építészeti fotókhoz.",
+                "ro": "Vizitați muzeul subteran al forumului pentru a vă încălzi; lumina clară de iarnă este ideală pentru fotografii de arhitectură reușite.",
+                "en": "Visit the forum's underground museum to warm up; the clear winter light is perfect for capturing architectural photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Hagia Sophia",
+                "hu": "Hagia Szophia",
+                "ro": "Hagia Sofia",
+                "en": "Hagia Sophia"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort, um der Kälte zu entfliehen und die spirituelle Atmosphäre zu genießen; achten Sie auf die verkürzten Winteröffnungszeiten.",
+                "hu": "Békés menedék a hideg elől, ahol átélheti a szakrális nyugalmat; ügyeljen a téli időszakban rövidebb nyitvatartási időre.",
+                "ro": "Un loc liniștit pentru a scăpa de frig și a savura atmosfera spirituală; atenție la programul de vizitare redus în timpul iernii.",
+                "en": "A peaceful sanctuary to escape the cold and enjoy the spiritual atmosphere; be mindful of the shorter winter opening hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Makedonischen Kampfes",
+                "hu": "Macedón Küzdelem Múzeuma",
+                "ro": "Muzeul Luptei Macedonene",
+                "en": "Museum of the Macedonian Struggle"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Museum bietet stundenlangen Schutz und spannende Geschichte; nutzen Sie die Zeit hier, bevor es draußen früh dunkel wird.",
+                "hu": "A fűtött múzeum órákon át tartó védelmet és izgalmas történelmet kínál; használja ki az időt itt a korai sötétedés előtt.",
+                "ro": "Muzeul încălzit oferă ore de protecție și o istorie fascinantă; profitați de timpul petrecut aici înainte de lăsarea timpurie a serii.",
+                "en": "The heated museum offers hours of protection and fascinating history; make the most of your time here before it gets dark outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeriusbogen",
+                "hu": "Galerius diadalív",
+                "ro": "Arcul lui Galerius",
+                "en": "Arch of Galerius"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie den Bogen zügig im kalten Wind; die nahegelegene Rotunde bietet danach einen geschützten Ort zur Besichtigung.",
+                "hu": "A metsző szélben érdemes gyorsan szemügyre venni a diadalívet; a közeli Rotunda védettebb belső tere jó folytatás lehet.",
+                "ro": "Vizitați arcul rapid din cauza vântului rece; Rotonda din apropiere oferă un spațiu interior protejat pentru continuarea vizitei.",
+                "en": "View the arch quickly in the cold wind; the nearby Rotunda offers a sheltered indoor space to continue your exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Weißer Turm von Thessaloniki",
+                "hu": "Thesszaloniki Fehér Tornya",
+                "ro": "Turnul Alb din Salonic",
+                "en": "White Tower of Thessaloniki"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den Sonnenuntergang über dem Meer zu erleben; oben auf dem Turm weht im Winter ein sehr scharfer Wind.",
+                "hu": "Érkezzen 17 óra előtt, hogy lássa a naplementét a tenger felett; a torony tetején télen rendkívül éles és hideg szél fúj.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a vedea apusul peste mare; în vârful turnului, vântul este extrem de tăios în timpul iernii.",
+                "en": "Arrive before 17:00 to catch the sunset over the sea; be prepared for a very sharp and cold wind at the top of the tower."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A nap ritmikusan indul az Állami Konzervatóriumnál, mielőtt a római fórum ókori köveihez kerékpározik. Délben a Galerius diadalív nyűgöz le finom részleteivel. Délután modern művészet várja a Teloglion Alapítványnál, majd az Aristoteleion kulturális hangulata. A kirándulás a Fehér Toronynál ér véget, ahonnan széles kilátás nyílik a nyugodt Földközi-tengerre.",
         "ro": "Ziua începe ritmic la Conservatorul de Stat, înainte de a pedala spre pietrele antice ale forumului roman. La prânz, Arcul lui Galerius impresionează cu detaliile sale fine. După-amiaza vă așteaptă arta modernă la Fundația Teloglion, urmată de atmosfera culturală de la Aristoteleion. Excursia se termină clasic la Turnul Alb, cu vederea vastă asupra liniștitei Mării Mediterane.",
         "en": "The day starts rhythmically at the State Conservatory before you pedal to the ancient stones of the Roman Forum. Midday brings you to the intricately detailed Arch of Galerius. In the afternoon, modern art awaits at the Teloglion Foundation, followed by the cultural flair of the Aristoteleion. Your ride ends classically at the White Tower with vast views of the Mediterranean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour am Konservatorium, wo Musik die graue Stimmung aufhellt. Die Fahrt zum Forum erfordert Vorsicht auf nassem Asphalt. Den Nachmittag verbringen wir trocken in der Teloglion-Stiftung. Wir radeln vorsichtig entlang der Küste zum Weißen Turm, wo die Innenräume Schutz bieten, während das Fahrrad sicher draußen geparkt wird.",
+            "hu": "Az eső ellenére a konzervatóriumtól indulunk, ahol a zene elűzi a szürkeséget. A fórumhoz vezető út óvatosságot igényel a vizes aszfalton. A délutánt a Teloglion Alapítvány száraz termeiben töltjük. Óvatosan tekerünk a tengerparton a Fehér Toronyig, ahol a belső tér nyújt menedéket a bicikli lezárása után.",
+            "ro": "În ciuda ploii, începem turul la Conservator, unde muzica înveselește atmosfera gri. Drumul spre Forum necesită prudență pe asfaltul ud. După-amiaza o petrecem la Fundația Teloglion, feriți de precipitații. Pedalăm cu grijă pe faleză spre Turnul Alb, unde interiorul ne oferă adăpost după ce parcăm bicicleta.",
+            "en": "Despite the rain, we start our ride at the Conservatory, where music brightens the grey day. Cycling to the Forum requires caution on wet surfaces. Spend the afternoon dry at the Teloglion Foundation. Ride carefully along the coast to the White Tower, where the indoor exhibits offer shelter while your bike is parked outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Staatliches Konservatorium Thessaloniki",
+                "hu": "Thesszaloniki Állami Konzervatórium",
+                "ro": "Conservatorul de Stat din Salonic",
+                "en": "State Conservatory of Thessaloniki"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im prächtigen Innenraum und lauschen Sie den Klängen; parken Sie das Rad an einem überdachten Platz in der Nähe.",
+                "hu": "Keressen menedéket a pompás belső térben a dallamokat hallgatva; próbáljon fedett helyen parkolni a közelben a kerékpárral.",
+                "ro": "Căutați adăpost în interiorul splendid și ascultați muzica; încercați să parcați bicicleta într-un loc acoperit din apropiere.",
+                "en": "Seek shelter in the grand interior while listening to the music; try to find a covered spot nearby to park your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Forum Romanum",
+                "hu": "Római Fórum",
+                "ro": "Forumul Roman",
+                "en": "Romaiki Agora"
+              },
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Ruinen sind bei Regen rutschig; steigen Sie vom Rad ab und erkunden Sie den Bereich zu Fuß mit Regenponcho.",
+                "hu": "A romok közötti utak esőben csúszósak; szálljon le a nyeregből, és esőponcsóban, gyalogosan járja be a területet a biztonságért.",
+                "ro": "Căile dintre ruine sunt alunecoase pe ploaie; coborâți de pe bicicletă și explorați zona la pas purtând o pelerină de ploaie.",
+                "en": "The paths between ruins get slippery in the rain; dismount and explore the area on foot wearing a rain poncho for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeriusbogen",
+                "hu": "Galerius diadalív",
+                "ro": "Arcul lui Galerius",
+                "en": "Arch of Galerius"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen schnellen Stopp für Fotos; achten Sie beim Radfahren auf die rutschigen Straßenbahnschienen und das Kopfsteinpflaster.",
+                "hu": "Csak egy rövid fotómegállóra érdemes megállni; tekerés közben nagyon vigyázzon a csúszós sínekre és a macskaköves szakaszokra.",
+                "ro": "Opriți-vă scurt pentru fotografii; aveți mare grijă la șinele de tramvai și piatra cubică alunecoasă în timp ce pedalați prin zonă.",
+                "en": "Make a quick stop for photos; be extremely careful of slippery tram tracks and cobblestones while cycling through this area."
+              }
+            },
+            {
+              "name": {
+                "de": "Teloglion-Stiftung für Kunst",
+                "hu": "Teloglion Művészeti Alapítvány",
+                "ro": "Fundația de Artă Teloglion",
+                "en": "Teloglion Foundation of Art A.U.Th."
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragendes Ziel, um dem Regen für längere Zeit zu entfliehen; nutzen Sie den Fahrradständer direkt vor dem Haupteingang.",
+                "hu": "Kiváló célpont, hogy hosszabb időre elmeneküljön az eső elől; használja a közvetlenül a főbejárat előtt található kerékpártárolót.",
+                "ro": "O destinație excelentă pentru a scăpa de ploaie mai mult timp; folosiți suportul de biciclete situat chiar în fața intrării principale.",
+                "en": "An excellent destination to escape the rain for a longer period; use the bike rack located directly in front of the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Aristoteleion",
+                "hu": "Aristoteleion",
+                "ro": "Aristoteleion",
+                "en": "Aristoteleion"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie das aktuelle Programm für Indoor-Aktivitäten; die geflieste Fläche davor ist bei Nässe extrem rutschig für Fahrradreifen.",
+                "hu": "Ellenőrizze a napi programot fedett elfoglaltságért; az előtte lévő burkolat vizesen rendkívül csúszós a kerékpárgumik számára.",
+                "ro": "Verificați programul curent pentru activități în interior; pavajul din față este extrem de alunecos pentru anvelopele de bicicletă.",
+                "en": "Check the current schedule for indoor events; the tiled area in front is extremely slippery for bike tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Weißer Turm von Thessaloniki",
+                "hu": "Thesszaloniki Fehér Tornya",
+                "ro": "Turnul Alb din Salonic",
+                "en": "White Tower of Thessaloniki"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im trockenen Turm; wischen Sie den Sattel trocken, bevor Sie das Rad für den Rückweg wieder besteigen.",
+                "hu": "Zárja a túrát a torony száraz kiállításán; törölje szárazra a nyerget, mielőtt a visszaútra újra kerékpárra szállna.",
+                "ro": "Încheiați turul în expoziția uscată din turn; ștergeți șaua înainte de a pleca din nou la drum cu bicicleta după vizită.",
+                "en": "End your tour in the dry tower exhibition; wipe your saddle dry before getting back on your bike for the return trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet am Konservatorium, wo wir uns kurz aufwärmen. Die Fahrt zum Forum belebt bei kühler Luft. Mittags bewundern wir den Galeriusbogen, bevor wir in der Teloglion-Stiftung Wärme suchen. Da die Sonne gegen 17:00 Uhr untergeht, radeln wir in der blauen Stunde zum Weißen Turm, wo die Lichter der Stadt festlich funkeln.",
+            "hu": "A téli kerékpáros túra a konzervatóriumnál indul, ahol kicsit átmelegedhetünk. A fórumhoz vezető út frissítő a hűvös levegőn. Délben a diadalívet csodáljuk meg, majd a Teloglion Alapítványnál keresünk menedéket. A nap 17 óra körüli nyugtával a kék órában tekerünk a Fehér Toronyhoz, a városi fények kíséretében.",
+            "ro": "Turul iernatic pe bicicletă începe la Conservator, unde ne încălzim puțin. Drumul spre Forum este revigorant în aerul rece. La prânz admirăm Arcul lui Galerius, apoi căutăm căldură la Fundația Teloglion. Soarele apune în jur de ora 17:00, așa că pedalăm spre Turnul Alb în ora albastră, sub luminile orașului.",
+            "en": "The winter bike tour starts at the Conservatory, where we can warm up briefly. Cycling to the Forum is refreshing in the cool air. Admire the Arch at noon before seeking warmth at the Teloglion Foundation. As the sun sets around 17:00, ride to the White Tower during the blue hour, accompanied by the festive city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Staatliches Konservatorium Thessaloniki",
+                "hu": "Thesszaloniki Állami Konzervatórium",
+                "ro": "Conservatorul de Stat din Salonic",
+                "en": "State Conservatory of Thessaloniki"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für die Fahrt; das prächtige Gebäude bietet einen guten Schutz vor dem kalten Nordwind zum Start.",
+                "hu": "Viseljen meleg kesztyűt a tekeréshez; a pompás épület remek védelmet nyújt a metsző északi szél elől az induláskor.",
+                "ro": "Purtați mănuși groase pentru pedalat; clădirea splendidă oferă o protecție bună împotriva vântului rece de nord la început.",
+                "en": "Wear warm gloves for the ride; the grand building provides good protection from the biting north wind as you start."
+              }
+            },
+            {
+              "name": {
+                "de": "Forum Romanum",
+                "hu": "Római Fórum",
+                "ro": "Forumul Roman",
+                "en": "Romaiki Agora"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterwetter für scharfe Fotos der Ruinen; die unterirdischen Bereiche sind oft etwas wärmer als die Oberfläche.",
+                "hu": "Használja ki a tiszta téli időt a romok éles fotózásához; a föld alatti részek gyakran valamivel melegebbek a felszínnél.",
+                "ro": "Profitați de vremea clară de iarnă pentru fotografii reușite; zonele subterane sunt adesea ceva mai calde decât la suprafață.",
+                "en": "Take advantage of the clear winter weather for sharp photos; the underground sections are often slightly warmer than the surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeriusbogen",
+                "hu": "Galerius diadalív",
+                "ro": "Arcul lui Galerius",
+                "en": "Arch of Galerius"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um die Reliefs zu bewundern; die Wintersonne steht tief und beleuchtet die Details auf besondere Weise.",
+                "hu": "Álljon meg rövid időre megcsodálni a domborműveket; az alacsonyan járó téli nap különleges módon világítja meg a részleteket.",
+                "ro": "Opriți-vă scurt pentru a admira reliefurile; soarele de iarnă fiind jos, luminează detaliile într-un mod deosebit și spectaculos.",
+                "en": "Stop briefly to admire the reliefs; the low winter sun illuminates the intricate details in a unique and beautiful way."
+              }
+            },
+            {
+              "name": {
+                "de": "Teloglion-Stiftung für Kunst",
+                "hu": "Teloglion Művészeti Alapítvány",
+                "ro": "Fundația de Artă Teloglion",
+                "en": "Teloglion Foundation of Art A.U.Th."
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort zum Aufwärmen in den großzügigen Galerien; beachten Sie die kürzeren Besichtigungszeiten im Winter.",
+                "hu": "Tökéletes hely az átmelegedésre a tágas galériákban; ügyeljen a téli időszakban rövidebb látogatási időkeretekre.",
+                "ro": "Un loc perfect pentru a vă încălzi în galeriile spațioase; atenție la orele de vizitare mai scurte în timpul iernii.",
+                "en": "A perfect place to warm up in the spacious galleries; keep in mind the shorter visiting hours during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Aristoteleion",
+                "hu": "Aristoteleion",
+                "ro": "Aristoteleion",
+                "en": "Aristoteleion"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturelle Atmosphäre im Inneren; achten Sie beim Losfahren auf den Frost, der sich auf den Außenflächen bilden kann.",
+                "hu": "Élvezze a benti kulturális nyüzsgést; induláskor ügyeljen a fagyra, amely a kültéri burkolatokon ilyenkor könnyen kialakulhat.",
+                "ro": "Savurați atmosfera culturală din interior; la plecare, atenție la gheața care se poate forma pe pavajul exterior în timpul iernii.",
+                "en": "Enjoy the indoor cultural buzz; when leaving, watch out for frost that can easily form on outdoor surfaces in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Weißer Turm von Thessaloniki",
+                "hu": "Thesszaloniki Fehér Tornya",
+                "ro": "Turnul Alb din Salonic",
+                "en": "White Tower of Thessaloniki"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den Sonnenuntergang gegen 17:00 Uhr ist atemberaubend; ziehen Sie sich für den Aufenthalt auf der windigen Spitze warm an.",
+                "hu": "A naplemente 17 óra körül lélegzetelállító; öltözzön fel nagyon melegen a szeles toronytetőn való tartózkodáshoz.",
+                "ro": "Apusul în jur de ora 17:00 este spectaculos; îmbrăcați-vă foarte bine pentru vântul tăios de pe terasa turnului.",
+                "en": "The sunset around 17:00 is breathtaking; dress very warmly for the time spent on the windy top of the tower."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "A nap a Zeitenlik csendes tiszteletadásával indul, majd az állami művészeti múzeum élénk orosz avantgárdja következik. Dél körül a Vlatadon kolostorhoz autózik, ahol nyugalom és remek kilátás várja. Délután a Heptapyrgio ősi falait fedezi fel a dombtetőn. Zárásként pedig leereszkedik a partra, a város jelképének számító, tengerre néző Fehér Toronyhoz.",
         "ro": "Ziua dvs. începe cu o vizită contemplativă la Zeitenlik, urmată de avangarda rusă vibrantă la muzeul de artă. În jurul prânzului, conduceți până la Mănăstirea Vlatadon, unde găsiți liniște și o priveliște minunată. După-amiaza explorați zidurile vechi ale Heptapyrgio. În încheiere, coborâți spre coastă pentru a vizita Turnul Alb, emblema incontestabilă a orașului.",
         "en": "Your day begins with a contemplative visit to Zeitenlik, followed by vibrant Russian avant-garde art at the state museum. Around midday, drive up to Vlatadon Monastery, where tranquility and stunning views await. In the afternoon, you explore the ancient walls of Heptapyrgio. Finally, descend to the beautiful coastline to admire the iconic White Tower at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten trocken im Zeitenlik-Museum, während der Regen auf das Autodach prasselt. Die Fahrt geht weiter zum Museum für zeitgenössische Kunst. Mittags erklimmen wir Ano Poli zum Kloster Vlatadon, wobei das Auto uns vor den Schauern schützt. Heptapyrgio bietet dramatische Ausblicke im Regen, bevor wir den Tag am gut erreichbaren Weißen Turm beenden.",
+            "hu": "Kényelmesen, szárazon indulunk a Zeitenlik Múzeumból, miközben az eső a kocsi tetején kopog. Utunk a kortárs művészeti múzeumba vezet. Délben felautózunk az Ano Poli negyedbe a Vlatadon kolostorhoz, védve a záporoktól. Heptapyrgio drámai látványt nyújt esőben is, a napot pedig a Fehér Toronynál zárjuk.",
+            "ro": "Începem confortabil la Muzeul Zeitenlik, în timp ce ploaia bate în plafonul mașinii. Continuăm spre Muzeul de Artă Contemporană. La prânz urcăm spre Mănăstirea Vlatadon, mașina oferindu-ne adăpost între opriri. Heptapyrgio oferă o priveliște dramatică pe ploaie, înainte de a încheia ziua la Turnul Alb.",
+            "en": "Start comfortably dry at the Zeitenlik Museum while rain patters on the car roof. Continue to the Contemporary Art Museum. At noon, drive up to the Vlatadon Monastery, protected from the showers. Heptapyrgio offers dramatic views even in the rain, before ending the day at the easily accessible White Tower."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Zeitenlik",
+                "hu": "Zeitenlik Múzeum",
+                "ro": "Muzeul Zeitenlik",
+                "en": "Moyseio Zeitenlik"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; die Innenausstellung ist sehr umfangreich und absolut regensicher.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az ázást; a belső kiállítás kiterjedt és teljesen védett az esőtől.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; expoziția interioară este vastă și perfect protejată de intemperii.",
+                "en": "Park as close to the entrance as possible to stay dry; the interior exhibition is extensive and fully protected from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Staatliches Museum für Zeitgenössische Kunst",
+                "hu": "Állami Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Stat de Artă Contemporană",
+                "en": "Kratiko Moyseio Sygchronis Technis"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für regnerische Vormittage; nutzen Sie die Parkplätze auf dem Gelände von Moni Lazariston für einen kurzen Weg.",
+                "hu": "Remek helyszín esős délelőttökre; használja a Moni Lazariston területén belüli parkolót, hogy csak keveset kelljen gyalogolnia.",
+                "ro": "O locație excelentă pentru diminețile ploioase; folosiți parcarea din incinta Moni Lazariston pentru a minimiza mersul prin ploaie.",
+                "en": "A great spot for rainy mornings; use the parking inside the Moni Lazariston grounds to keep your walk in the rain very short."
+              }
+            },
+            {
+              "name": {
+                "de": "Vlatadon-Kloster",
+                "hu": "Vlatadon kolostor",
+                "ro": "Mănăstirea Vlatadon",
+                "en": "Vlatadon Monastery"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Stadt durch die regennassen Fenster; die schmalen Gassen der Oberstadt sind bei Nässe mit dem Auto anspruchsvoll.",
+                "hu": "Csodálja meg a várost az eső áztatta ablakokon keresztül; az Ano Poli szűk utcáin esőben vezessen nagyon óvatosan az autóval.",
+                "ro": "Admirați orașul prin ferestrele udate de ploaie; conduceți cu mare atenție pe străzile înguste din Ano Poli când asfaltul este ud.",
+                "en": "Admire the city through the rain-streaked windows; drive very carefully through the narrow, slick streets of the Upper Town."
+              }
+            },
+            {
+              "name": {
+                "de": "Heptapyrgio",
+                "hu": "Heptapyrgio",
+                "ro": "Heptapyrgio",
+                "en": "Heptapyrgio"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die überdachten Bereiche der Festung; der Parkplatz direkt davor macht den Besuch auch bei starkem Regen unkompliziert.",
+                "hu": "Fedezze fel az erőd fedett részeit; a közvetlenül előtte található parkolónak köszönhetően szakadó esőben is könnyen látogatható.",
+                "ro": "Explorați zonele acoperite ale fortăreței; parcarea chiar din față face vizita ușoară chiar și în condiții de ploaie torențială.",
+                "en": "Explore the covered areas of the fortress; the parking right in front makes it easy to visit even during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Weißer Turm von Thessaloniki",
+                "hu": "Thesszaloniki Fehér Tornya",
+                "ro": "Turnul Alb din Salonic",
+                "en": "White Tower of Thessaloniki"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die nahegelegenen Parkhäuser, um den Weg zum Turm kurz zu halten; im Inneren sind Sie vor dem Küstenregen bestens geschützt.",
+                "hu": "Használja a közeli parkolóházakat a rövid séta érdekében; a torony belsejében teljes védelmet élvez a tengerparti eső elől.",
+                "ro": "Folosiți parcările etajate din apropiere pentru un drum scurt; în interiorul turnului sunteți perfect protejat de ploaia de coastă.",
+                "en": "Use nearby parking garages for a short walk; inside the tower, you'll be perfectly sheltered from the coastal rain showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt im warmen Auto auf dem Weg zum Zeitenlik-Museum. Danach besuchen wir das beheizte Museum für zeitgenössische Kunst. Mittags fahren wir zur Oberstadt, wo das Kloster Vlatadon im klaren Winterlicht erstrahlt. Nach Heptapyrgio erreichen wir pünktlich zum Sonnenuntergang gegen 17:00 Uhr die Uferpromenade am Weißen Turm.",
+            "hu": "A téli autós túra a meleg utastérben indul a Zeitenlik Múzeum felé. Utána a fűtött kortárs művészeti múzeumot látogatjuk meg. Délben az Ano Poli negyedbe hajtunk, ahol a Vlatadon kolostor ragyog a téli napfényben. Heptapyrgio után 17 óra körül, naplementekor érünk a Fehér Toronyhoz.",
+            "ro": "Turul de iarnă începe în confortul mașinii spre Muzeul Zeitenlik. Vizităm apoi Muzeul de Artă Contemporană, bine încălzit. La prânz urcăm în Ano Poli, unde Mănăstirea Vlatadon strălucește în lumina iernii. După Heptapyrgio, ajungem la Turnul Alb exact la apus, în jur de ora 17:00.",
+            "en": "The winter car tour starts in a warm cabin heading to the Zeitenlik Museum. Next, visit the heated Contemporary Art Museum. At noon, drive to the Upper Town where Vlatadon Monastery shines in the winter light. After Heptapyrgio, reach the White Tower just as the sun sets around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Zeitenlik",
+                "hu": "Zeitenlik Múzeum",
+                "ro": "Muzeul Zeitenlik",
+                "en": "Moyseio Zeitenlik"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragend beheiztes Museum für den Wintermorgen; nutzen Sie die Gelegenheit, sich vor dem nächsten Stopp richtig aufzuwärmen.",
+                "hu": "Kiválóan fűtött múzeum a téli reggelre; használja ki az alkalmat, hogy alaposan átmelegedjen a következő állomás előtt.",
+                "ro": "Un muzeu excelent încălzit pentru dimineața de iarnă; profitați de ocazie pentru a vă încălzi bine înainte de următoarea oprire.",
+                "en": "An excellently heated museum for a winter morning; take the opportunity to warm up thoroughly before your next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Staatliches Museum für Zeitgenössische Kunst",
+                "hu": "Állami Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Stat de Artă Contemporană",
+                "en": "Kratiko Moyseio Sygchronis Technis"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunst in angenehmer Wärme; der Weg vom Parkplatz ist kurz, sodass Sie kaum der Kälte ausgesetzt sind.",
+                "hu": "Élvezze a művészetet kellemes melegben; a parkolótól vezető út rövid, így alig kell a hidegben tartózkodnia a bejutásig.",
+                "ro": "Savurați arta într-o ambianță caldă; drumul de la parcare este scurt, astfel încât veți fi foarte puțin expus la frig.",
+                "en": "Enjoy the art in pleasant warmth; the walk from the parking area is short, minimizing your exposure to the outside cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Vlatadon-Kloster",
+                "hu": "Vlatadon kolostor",
+                "ro": "Mănăstirea Vlatadon",
+                "en": "Vlatadon Monastery"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterwetter bietet eine unglaubliche Fernsicht bis zum Olymp; achten Sie beim Fahren auf eventuelle Glätte in Schattenlagen.",
+                "hu": "A tiszta téli időben hihetetlen kilátás nyílik az Olimposzra; vezetés közben ügyeljen az árnyékosabb kanyarokban az esetleges jegesedésre.",
+                "ro": "Vremea clară de iarnă oferă o vedere incredibilă până la muntele Olimp; atenție la gheața care se poate forma în zonele umbrite.",
+                "en": "The clear winter weather offers incredible views all the way to Mount Olympus; watch out for ice in shaded turns while driving up."
+              }
+            },
+            {
+              "name": {
+                "de": "Heptapyrgio",
+                "hu": "Heptapyrgio",
+                "ro": "Heptapyrgio",
+                "en": "Heptapyrgio"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Festung am frühen Nachmittag, solange die Wintersonne noch wärmt; der Wind hier oben ist im Winter sehr kräftig.",
+                "hu": "Látogassa meg az erődöt kora délután, amíg még érzi a téli nap melegét; ilyenkor az itteni szél rendkívül erősen fúj.",
+                "ro": "Vizitați fortăreața după-amiaza devreme, cât soarele încă mai încălzește; vântul de aici de sus este foarte puternic iarna.",
+                "en": "Visit the fortress in the early afternoon while the winter sun is still warming; the wind up here can be very strong in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Weißer Turm von Thessaloniki",
+                "hu": "Thesszaloniki Fehér Tornya",
+                "ro": "Turnul Alb din Salonic",
+                "en": "White Tower of Thessaloniki"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Turm pünktlich zum Sonnenuntergang gegen 17:00 Uhr; das Licht auf dem Meer ist im Winter besonders spektakulär.",
+                "hu": "Érkezzen a toronyhoz a 17 óra körüli naplementére; a tengerre vetülő téli fények ilyenkor egészen lenyűgöző látványt nyújtanak.",
+                "ro": "Ajungeți la turn pentru apusul din jurul orei 17:00; lumina iernatică peste mare este deosebit de spectaculoasă în acest moment.",
+                "en": "Reach the tower in time for the 17:00 sunset; the winter light reflecting off the sea is particularly spectacular at this hour."
+              }
+            }
+          ]
+        }
       }
     }
   }

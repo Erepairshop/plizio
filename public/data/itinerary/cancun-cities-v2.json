@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Cancún kulturális szívében, a Teatro 8 de octubre és a modern clips nevezetesség felfedezésével. Délben olyan történelmi helyszínek várják, mint a Monumento a la Madre és az ikonikus El Ceviche. Délután meneküljön el a városi nyüzsgés elől a buja Parque Ecológico Kabah vadonjába. Zárja a napot a régió történelmének megismerésével a Casa Lima múzeumban.",
         "ro": "Începeți dimineața explorând inima culturală a orașului Cancún la Teatro 8 de octombrie și modernul reper clips. La prânz, vizitați Monumento a la Madre și emblematica fântână El Ceviche. După-amiaza, evadați din agitația urbană plimbându-vă prin luxuriantul Parque Ecológico Kabah. Încheiați ziua descoperind istoria regională fascinantă la Casa Lima Museo Parque.",
         "en": "Start your morning exploring the cultural heart of Cancún at Teatro 8 de octubre and the modern clips landmark. Midday brings you to historical spots like Monumento a la Madre and the iconic El Ceviche fountain. In the afternoon, escape the urban rush by walking into the lush Parque Ecológico Kabah to see local wildlife. Conclude your day discovering regional history at Casa Lima Museo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Theater Schutz vor den ersten Güssen. Mittags nutzen Sie die kurzen Distanzen zwischen den Monumenten, um trocken zu bleiben. Nachmittags bietet das dichte Blätterdach im Kabah-Park natürlichen Regenschutz. Abends glitzern die Lichter der Stadt in den Pfützen auf Ihrem Rückweg.",
+            "hu": "Reggel a színház épülete nyújt menedéket a trópusi záporok elől. Délben gyorsan haladjunk az emlékművek között a szárazabb időszakokban. Délután a Kabah park sűrű lombjai védenek az esőtől. Este a város fényei csodásan csillognak a tócsákban a séta végén.",
+            "ro": "Dimineața teatrul oferă adăpost împotriva averselor tropicale. La prânz profitați de distanțele scurte între monumente pentru a rămâne uscat. După-amiaza coronamentul des al parcului Kabah oferă protecție naturală. Seara luminile orașului sclipesc frumos în bălți.",
+            "en": "Morning starts with cultural shelter at the theater during rain. At noon, dash between landmarks during dry spells to stay comfortable. Afternoon finds you under the protective canopy of Kabah Park. Evening city lights shimmer on wet streets as you finish your walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro 8 de octubre",
+                "hu": "Teatro 8 de octubre",
+                "ro": "Teatro 8 de octombrie",
+                "en": "Teatro 8 de octubre"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die lokale Kultur zu erleben und gleichzeitig dem Regen zu entgehen; prüfen Sie das Programm für Indoor-Events.",
+                "hu": "Kiváló helyszín a helyi kultúra megismerésére, miközben védve maradunk az esőtől; keressük a beltéri előadásokat a műsorban.",
+                "ro": "Un loc perfect pentru a experimenta cultura locală și a evita ploaia; verificați programul pentru spectacole în interior.",
+                "en": "A perfect spot to experience local culture while escaping the downpour; check the schedule for indoor performances to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "clips",
+                "hu": "clips",
+                "ro": "clips",
+                "en": "clips"
+              },
+              "tip_5lang": {
+                "de": "Diese Skulptur wirkt bei Regen besonders glänzend; nutzen Sie nahegelegene Dachvorsprünge für ein schnelles Foto ohne nass zu werden.",
+                "hu": "Ez a szobor esőben különösen csillogó; használjuk a közeli tetőket egy gyors fotóhoz, hogy ne ázzunk meg teljesen a téren.",
+                "ro": "Această sculptură arată deosebit de strălucitoare în ploaie; folosiți streșinile din apropiere pentru o fotografie rapidă.",
+                "en": "This sculpture looks especially shiny in the rain; use nearby eaves for a quick photo without getting completely soaked outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Madre",
+                "hu": "Monumento a la Madre",
+                "ro": "Monumento a la Madre",
+                "en": "Monumento a la Madre"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt für dieses Denkmal; achten Sie auf rutschige Gehwege rund um den Platz und tragen Sie unbedingt rutschfeste Schuhe.",
+                "hu": "Rövid megálló ennél a történelmi emlékműnél; ügyeljünk a csúszós járdákra a tér körül, és viseljünk tapadós talpú cipőt.",
+                "ro": "O oprire scurtă la acest monument istoric; atenție la trotuarele alunecoase din jurul pieței și purtați încălțăminte aderentă.",
+                "en": "A brief stop at this historic monument; watch out for slippery pavements around the plaza and wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Caracoles y Estrellas de Mar",
+                "hu": "Caracoles y Estrellas de Mar",
+                "ro": "Caracoles y Estrellas de Mar",
+                "en": "Caracoles y Estrellas de Mar"
+              },
+              "tip_5lang": {
+                "de": "Die bunten Meeresschnecken leuchten im grauen Regenwetter; ein Regenschirm ist hier wegen der offenen Fläche absolut notwendig.",
+                "hu": "A színes tengeri csigák élénken világítanak a szürke esőben; egy esernyő itt elengedhetetlen a nyílt terület miatt.",
+                "ro": "Melcii de mare colorați strălucesc în vremea gri de ploaie; o umbrelă este absolut necesară aici din cauza spațiului deschis.",
+                "en": "The colorful sea snails glow vibrantly against the grey rain; an umbrella is essential here due to the open plaza area."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Ecológico Kabah",
+                "hu": "Parque Ecológico Kabah",
+                "ro": "Parque Ecológico Kabah",
+                "en": "Parque Ecológico Kabah"
+              },
+              "tip_5lang": {
+                "de": "Der dichte Dschungel bietet natürlichen Schutz; wandern Sie auf den befestigten Pfaden, um Schlamm zu vermeiden und Tiere zu sehen.",
+                "hu": "A sűrű dzsungel természetes védelmet nyújt; maradjunk a kiépített ösvényeken a sár elkerülése és az állatok megfigyelése érdekében.",
+                "ro": "Jungla densă oferă protecție naturală; mergeți pe potecile pavate pentru a evita noroiul în timp ce observați animalele locale.",
+                "en": "The dense jungle provides natural shelter; stick to the paved paths to avoid mud while observing local wildlife like coatis."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Lima Museo Parque",
+                "hu": "Casa Lima Museo Parque",
+                "ro": "Casa Lima Museo Parque",
+                "en": "Casa Lima Museo Parque"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Museum, wo Sie Exponate im Trockenen genießen können; ideal für heftige tropische Nachmittagsgüsse.",
+                "hu": "Zárjuk a napot ebben a múzeumban, ahol fedett helyen élvezhetjük a kiállításokat; ideális a heves délutáni záporok idejére.",
+                "ro": "Încheiați ziua în acest muzeu, unde puteți savura exponatele la adăpost; ideal pentru aversele tropicale de după-amiază.",
+                "en": "End the day in this museum, where you can enjoy the exhibits under cover; ideal for those heavy afternoon tropical showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Theater lädt zum Verweilen ein. Mittags ist die milde Sonne perfekt für den Spaziergang ohne Hitze. Nachmittags genießen Sie die Natur im Kabah-Park, bevor es um 17:00 Uhr dunkel wird. Abends ist eine leichte Jacke für den Ausklang ratsam.",
+            "hu": "A friss téli reggel a színháznál kiváló indulás. Délben a lágy napsütés tökéletes a sétához a trópusi hőség nélkül. Délután élvezzük a természetet a Kabah parkban a korai, 17:00-i naplemente előtt. Este réteges öltözet ajánlott.",
+            "ro": "O dimineață răcoroasă de iarnă la teatru este un început excelent. La prânz soarele blând e perfect pentru plimbare. După-amiaza savurați natura în parcul Kabah înainte de apusul de la ora 17:00. Seara purtați o jachetă.",
+            "en": "A crisp winter morning at the theater is a great start. At noon, the mild sun is perfect for walking without the intense heat. Enjoy nature in Kabah Park before the early 17:00 sunset. Wear layers for the cool evening breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro 8 de octubre",
+                "hu": "Teatro 8 de octubre",
+                "ro": "Teatro 8 de octombrie",
+                "en": "Teatro 8 de octubre"
+              },
+              "tip_5lang": {
+                "de": "Die kühlen Morgenstunden im Winter sind ideal für den Besuch; bringen Sie eine leichte Jacke für den klimatisierten Innenraum mit.",
+                "hu": "A hűvös téli reggelek ideálisak a látogatásra; vigyünk egy könnyű dzsekit a benti légkondicionálás miatt is.",
+                "ro": "Diminețile răcoroase de iarnă sunt ideale pentru vizită; aduceți o jachetă ușoară pentru interiorul climatizat.",
+                "en": "Cool winter mornings are ideal for visiting; bring a light jacket for the air-conditioned interior even in the mild season."
+              }
+            },
+            {
+              "name": {
+                "de": "clips",
+                "hu": "clips",
+                "ro": "clips",
+                "en": "clips"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die milde Wintersonne bei dieser modernen Skulptur; die Temperaturen sind perfekt für längere Fotostopps ohne Hitze.",
+                "hu": "Élvezzük a lágy téli napsütést ennél a modern szobornál; a hőmérséklet tökéletes a hosszabb fotózáshoz hőség nélkül.",
+                "ro": "Bucurați-vă de soarele blând de iarnă la această sculptură modernă; temperaturile sunt perfecte pentru opriri foto lungi.",
+                "en": "Enjoy the mild winter sun at this modern sculpture; temperatures are perfect for longer photo stops without the tropical heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Madre",
+                "hu": "Monumento a la Madre",
+                "ro": "Monumento a la Madre",
+                "en": "Monumento a la Madre"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Spaziergang zum Denkmal in der angenehmen Winterluft; ideal, um die Details der Statue bei weichem Licht zu bewundern.",
+                "hu": "Kellemes séta ehhez az emlékműhöz a friss téli levegőn; ideális a szobor részleteinek megcsodálására a lágy fényekben.",
+                "ro": "O plimbare plăcută la acest monument în aerul proaspăt de iarnă; ideal pentru a admira detaliile statuii în lumina blândă.",
+                "en": "A pleasant stroll to this monument in the fresh winter air; ideal for admiring the statue's details in the soft seasonal light."
+              }
+            },
+            {
+              "name": {
+                "de": "Caracoles y Estrellas de Mar",
+                "hu": "Caracoles y Estrellas de Mar",
+                "ro": "Caracoles y Estrellas de Mar",
+                "en": "Caracoles y Estrellas de Mar"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresmotive wirken unter dem klaren Winterhimmel prächtig; nutzen Sie das Tageslicht vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+                "hu": "A tengeri motívumok pompásak a tiszta téli égbolt alatt; használjuk ki a napfényt a korai, 17:00-i naplemente előtt.",
+                "ro": "Motivele marine arată grandios sub cerul senin de iarnă; profitați de lumină înainte de apusul timpuriu de la ora 17:00.",
+                "en": "The marine motifs look magnificent under the clear winter sky; take advantage of the daylight before the early 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Ecológico Kabah",
+                "hu": "Parque Ecológico Kabah",
+                "ro": "Parque Ecológico Kabah",
+                "en": "Parque Ecológico Kabah"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Luftfeuchtigkeit geringer, was das Wandern angenehm macht; achten Sie auf die Nasenbären im kühlen Schatten.",
+                "hu": "Télen a páratartalom alacsonyabb a parkban, ami kellemesebbé teszi a túrázást; figyeljük meg a hűvös árnyékban pihenő állatokat.",
+                "ro": "Iarna umiditatea este mai scăzută în parc, făcând drumeția plăcută; observați urșii coati care se joacă la umbra răcoroasă.",
+                "en": "In winter, humidity is lower in the park, making hiking very pleasant; watch for coatis playing in the cool shade of the trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Lima Museo Parque",
+                "hu": "Casa Lima Museo Parque",
+                "ro": "Casa Lima Museo Parque",
+                "en": "Casa Lima Museo Parque"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Winterspaziergang hier und genießen Sie die Kunst; die Gärten sind im Dezember besonders grün und einladend.",
+                "hu": "Zárjuk itt a téli sétát és élvezzük a művészetet; a kertek decemberben különösen zöldek és hívogatóak a látogatók számára.",
+                "ro": "Încheiați plimbarea de iarnă aici și bucurați-vă de artă; grădinile sunt deosebit de verzi și primitoare în luna decembrie.",
+                "en": "End your winter walk here and enjoy the art; the gardens are especially green and welcoming during the mild December days."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Tekerjen át Cancún belvárosán ma reggel, meglátogatva a Teatro 8 de octubre-t és a Monumento a la Madre-t. Délben a híres El Ceviche szökőkút mellett halad el a Villalta Condominio felé egy rövid pihenőre. Élvezze a kényelmes délutáni utat a Casa Lima múzeumba egy kis kulturális elmélyülésért. Fejezze be kerékpártúráját a Kabah park természetével körülvéve.",
         "ro": "Pedalați prin centrul orașului Cancún în această dimineață, vizitând Teatro 8 de octombrie și Monumento a la Madre. La prânz treceți de fântâna El Ceviche spre Villalta Condominio pentru o pauză. Bucurați-vă de o plimbare după-amiază spre Casa Lima Museo Parque pentru cultură. Încheiați turul cu bicicleta înconjurați de natura superbă din Parcul Ecologic Kabah.",
         "en": "Pedal through downtown Cancún this morning, visiting the Teatro 8 de octubre and iconic urban statues like the Monumento a la Madre. Midday takes you past the famous El Ceviche fountain toward the Villalta Condominio area for a quick break. Enjoy a smooth afternoon ride to Casa Lima Museo Parque for some cultural immersion. Finish your biking tour surrounded by the nature of Kabah Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie vorsichtig durch die warmen Regenschauer zum Theater. Mittags achten Sie auf rutschige Straßen und Pfützen im Zentrum. Nachmittags bietet der Kabah-Park einen dichten Schutzwald gegen den Regen. Abends genießen Sie die frische, feuchte Meeresbrise nach der Tour.",
+            "hu": "Reggel óvatosan tekerjünk a meleg záporban a színház felé. Délben figyeljünk a csúszós utakra és tócsákra a belvárosban. Délután a Kabah park sűrű lombjai nyújtanak menedéket a bringásoknak. Este élvezzük a friss, párás tengeri szellőt a túra után.",
+            "ro": "Dimineața pedalați cu atenție prin ploile calde spre teatru. La prânz aveți grijă la drumurile alunecoase și bălțile din centru. După-amiaza pădurea deasă a parcului Kabah oferă adăpost bicicliștilor. Seara savurați briza proaspătă și umedă.",
+            "en": "Morning finds you cycling carefully through warm tropical showers to the theater. At noon, watch for slippery roads and puddles in the city center. Take cover under the dense trees of Kabah Park during afternoon rains. Enjoy the fresh, damp air after your ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro 8 de octubre",
+                "hu": "Teatro 8 de octubre",
+                "ro": "Teatro 8 de octombrie",
+                "en": "Teatro 8 de octubre"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Rad kurz abzustellen und die Kultur im Trockenen zu genießen; nutzen Sie den Eingangsbereich als Unterstand.",
+                "hu": "Ideális hely a bringa leállítására és a kultúra élvezésére fedett helyen; használjuk a bejáratot menedékként az eső elől.",
+                "ro": "Un loc ideal pentru a parca bicicleta și a savura cultura la adăpost; folosiți intrarea ca refugiu împotriva ploii.",
+                "en": "An ideal place to park the bike and enjoy culture under cover; use the entrance area as a quick shelter from the tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "clips",
+                "hu": "clips",
+                "ro": "clips",
+                "en": "clips"
+              },
+              "tip_5lang": {
+                "de": "Die glatten Oberflächen der Skulptur können bei Regen spiegeln; fahren Sie langsam auf dem gepflasterten Vorplatz, um Rutschen zu vermeiden.",
+                "hu": "A szobor sima felületei esőben tükröződnek; tekerjünk lassan a kövezett előtéren, hogy elkerüljük a megcsúszást a vizes burkolaton.",
+                "ro": "Suprafețele netede ale sculpturii pot reflecta ploaia; pedalați încet pe platforma pavată pentru a evita deraparea pe ud.",
+                "en": "The sculpture's smooth surfaces reflect beautifully in the rain; cycle slowly on the paved plaza to avoid slipping on wet stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Madre",
+                "hu": "Monumento a la Madre",
+                "ro": "Monumento a la Madre",
+                "en": "Monumento a la Madre"
+              },
+              "tip_5lang": {
+                "de": "Ein historischer Stopp; achten Sie beim Absteigen auf den nassen Boden und parken Sie das Rad sicher unter einem nahen Baum.",
+                "hu": "Történelmi megálló; ügyeljünk a vizes talajra leszálláskor, és parkoljuk a bringát biztonságosan egy közeli fa alá az esőben.",
+                "ro": "O oprire istorică; atenție la solul ud când coborâți și parcați bicicleta în siguranță sub un copac apropiat pe ploaie.",
+                "en": "A historic stop; be careful with the wet ground when dismounting and park your bike securely under a nearby tree for shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Caracoles y Estrellas de Mar",
+                "hu": "Caracoles y Estrellas de Mar",
+                "ro": "Caracoles y Estrellas de Mar",
+                "en": "Caracoles y Estrellas de Mar"
+              },
+              "tip_5lang": {
+                "de": "Bunte Skulpturen auf offenem Platz; tragen Sie eine Regenjacke während der Fahrt, da es hier kaum Unterstellmöglichkeiten gibt.",
+                "hu": "Színes szobrok a nyílt téren; viseljünk esődzsekit tekerés közben, mivel itt kevés a fedett menedék a közelben.",
+                "ro": "Sculpturi colorate în piață deschisă; purtați o pelerină de ploaie în timp ce pedalați, deoarece sunt puține adăposturi aici.",
+                "en": "Colorful sculptures in an open plaza; wear a rain jacket while cycling as there are few shelters in the immediate vicinity."
+              }
+            },
+            {
+              "name": {
+                "de": "Villalta Condominio",
+                "hu": "Villalta Condominio",
+                "ro": "Villalta Condominio",
+                "en": "Villalta Condominio"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt am Wohnkomplex; bei Regen sind die Wege hier oft rutschig, fahren Sie daher besonders vorsichtig in den Kurven.",
+                "hu": "Rövid megálló a lakókomplexumnál; esőben az utak itt gyakran csúszósak, ezért tekerjünk különösen óvatosan a kanyarokban.",
+                "ro": "O oprire scurtă la complexul rezidențial; pe ploaie drumurile sunt adesea alunecoase, deci pedalați cu mare atenție în curbe.",
+                "en": "A brief stop at the residential complex; in the rain, the paths here can be slippery, so cycle extra carefully around the corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Lima Museo Parque",
+                "hu": "Casa Lima Museo Parque",
+                "ro": "Casa Lima Museo Parque",
+                "en": "Casa Lima Museo Parque"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum für eine längere Regenpause; die überdachten Bereiche sind ideal, um das Fahrrad und sich selbst zu trocknen.",
+                "hu": "Használjuk ki a múzeumot egy hosszabb esőszünetre; a fedett részek ideálisak a bringa és saját magunk megszárítására is.",
+                "ro": "Folosiți muzeul pentru o pauză mai lungă de ploaie; zonele acoperite sunt ideale pentru a vă usca bicicleta și pe voi înșivă.",
+                "en": "Use the museum for a longer rain break; the covered areas are ideal for drying off yourself and your bike during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Ecológico Kabah",
+                "hu": "Parque Ecológico Kabah",
+                "ro": "Parque Ecológico Kabah",
+                "en": "Parque Ecológico Kabah"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf befestigten Wegen, da unbefestigte Pfade schnell schlammig werden; der Dschungel schluckt den meisten Regen.",
+                "hu": "Csak a kiépített utakon tekerjünk, mert a földutak gyorsan sárossá válnak; a dzsungel lombjai felfogják az eső nagy részét.",
+                "ro": "Pedalați doar pe drumurile pavate, deoarece potecile devin rapid noroioase; jungla absoarbe cea mai mare parte a ploii.",
+                "en": "Cycle only on paved routes as dirt paths become muddy quickly; the jungle canopy will catch most of the rain during your ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start in die Radtour am Theater. Mittags ist das Wetter ideal für längere Strecken bei milden Temperaturen. Nachmittags radeln Sie zum Kabah-Park, bevor die Sonne früh um 17:00 Uhr untergeht. Abends ist warme Kleidung für den Rückweg ein Muss.",
+            "hu": "Hűvös indulás a bringatúrán a színháztól. Délben az időjárás ideális a hosszabb szakaszokhoz a lágy hőmérsékletben. Délután tekerjünk a Kabah parkhoz a korai, 17:00-i naplemente előtt. Este réteges öltözet szükséges.",
+            "ro": "Un start răcoros în tura cu bicicleta la teatru. La prânz vremea este ideală pentru distanțe mai lungi la temperaturi blânde. După-amiaza pedalați spre parcul Kabah înainte de apusul de la ora 17:00. Seara hainele groase sunt necesare.",
+            "en": "A cool start to your cycling tour at the theater. At noon, the weather is ideal for longer stretches in mild temperatures. Cycle to Kabah Park in the afternoon before the early 17:00 sunset. Wear layers for the chilly evening ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro 8 de octubre",
+                "hu": "Teatro 8 de octubre",
+                "ro": "Teatro 8 de octombrie",
+                "en": "Teatro 8 de octubre"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht das Radfahren hierher sehr angenehm; bringen Sie ein leichtes Sweatshirt für die Fahrt im Schatten mit.",
+                "hu": "A hűvös reggeli levegő nagyon kellemessé teszi ide a tekerést; vigyünk egy könnyű pulóvert az árnyékos szakaszokhoz.",
+                "ro": "Aerul răcoros de dimineață face pedalarea până aici foarte plăcută; aduceți un hanorac ușor pentru porțiunile cu umbră.",
+                "en": "The cool morning air makes cycling here very pleasant; bring a light sweatshirt for the ride through shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "clips",
+                "hu": "clips",
+                "ro": "clips",
+                "en": "clips"
+              },
+              "tip_5lang": {
+                "de": "Perfektes Fotolicht unter der Wintersonne; nutzen Sie die milden Temperaturen für eine ausgiebige Pause bei dieser Skulptur.",
+                "hu": "Tökéletes fotófények a téli napsütésben; használjuk ki a lágy hőmérsékletet egy kiadós pihenőre ennél a szobornál.",
+                "ro": "Lumină perfectă pentru fotografii sub soarele de iarnă; profitați de temperaturile blânde pentru o pauză lungă la sculptură.",
+                "en": "Perfect photo lighting under the winter sun; take advantage of the mild temperatures for an extended break at this sculpture."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Madre",
+                "hu": "Monumento a la Madre",
+                "ro": "Monumento a la Madre",
+                "en": "Monumento a la Madre"
+              },
+              "tip_5lang": {
+                "de": "Ein angenehmer Stopp im Winter; die Hitze ist weg, so dass Sie die historischen Details ohne Schweißperlen bewundern können.",
+                "hu": "Kellemes megálló télen; a hőség elmúlt, így izzadás nélkül csodálhatjuk meg a történelmi részleteket a friss levegőn.",
+                "ro": "O oprire plăcută iarna; căldura a dispărut, așa că puteți admira detaliile istorice fără disconfort în aerul curat.",
+                "en": "A pleasant stop in winter; the heat is gone, allowing you to admire historical details without breaking a sweat in the fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "Caracoles y Estrellas de Mar",
+                "hu": "Caracoles y Estrellas de Mar",
+                "ro": "Caracoles y Estrellas de Mar",
+                "en": "Caracoles y Estrellas de Mar"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos; achten Sie auf den frühen Sonnenuntergang gegen 17:00 Uhr und planen Sie die Weiterfahrt ein.",
+                "hu": "Használjuk ki a tiszta téli fényeket a fotózáshoz; ügyeljünk a korai, 17:00 körüli naplementére, és tervezzük meg a továbbhaladást.",
+                "ro": "Profitați de lumina clară de iarnă pentru poze; atenție la apusul timpuriu în jurul orei 17:00 și planificați continuarea drumului.",
+                "en": "Use the clear winter light for photos; be mindful of the early sunset around 17:00 and plan your next leg accordingly."
+              }
+            },
+            {
+              "name": {
+                "de": "Villalta Condominio",
+                "hu": "Villalta Condominio",
+                "ro": "Villalta Condominio",
+                "en": "Villalta Condominio"
+              },
+              "tip_5lang": {
+                "de": "Die Radwege in dieser Gegend sind im Winter weniger anstrengend; genießen Sie die Fahrt durch das Wohnviertel bei milde Brise.",
+                "hu": "A környék bringás útjai télen kevésbé megterhelőek; élvezzük a tekerést a lakónegyeden keresztül a lágy szellőben.",
+                "ro": "Pistele de biciclete din zonă sunt mai puțin obositoare iarna; bucurați-vă de drumul prin cartier în briza ușoară.",
+                "en": "Cycling paths in this area are less draining in winter; enjoy the ride through the residential district in the mild breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Lima Museo Parque",
+                "hu": "Casa Lima Museo Parque",
+                "ro": "Casa Lima Museo Parque",
+                "en": "Casa Lima Museo Parque"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort für eine Pause im Grünen; die Gärten blühen im Winter sanft und bieten eine entspannte Atmosphäre für Radfahrer.",
+                "hu": "Csodás hely egy pihenőre a zöldben; a kertek télen is szépen virágoznak, és pihentető légkört kínálnak a bringásoknak.",
+                "ro": "Un loc minunat pentru o pauză în verdeață; grădinile înfloresc frumos iarna și oferă o atmosferă relaxantă pentru bicicliști.",
+                "en": "A wonderful place for a break in the greenery; the gardens bloom softly in winter, offering a relaxing atmosphere for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Ecológico Kabah",
+                "hu": "Parque Ecológico Kabah",
+                "ro": "Parque Ecológico Kabah",
+                "en": "Parque Ecológico Kabah"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier; im Winter sind die Tiere aktiver, halten Sie Ausschau nach Nasenbären auf den kühlen Waldwegen.",
+                "hu": "Zárjuk itt a túrát; télen az állatok aktívabbak, keressük az ormányos medvéket a hűvös erdei utakon a bringáról.",
+                "ro": "Încheiați tura aici; iarna animalele sunt mai active, căutați urșii coati pe drumurile răcoroase de pădure.",
+                "en": "End your tour here; in winter, wildlife is more active, so watch for coatis along the cool forest paths from your bike."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje a reggelt a Teatro 8 de octubre-nél, majd nézze meg az El Ceviche-t. Délben merüljön el a város múltjában a Casa Lima múzeumban, élvezve a nyugalmat. A délután a Parque Ecológico Kabah természetébe vezet, ahol megfigyelheti a növényvilágot. Este induljon délre, hogy pihenjen és hűsöljön a népszerű Abedul és Palma Real szabadtéri medencéknél.",
         "ro": "Începeți la istoricul Teatro 8 de octombrie înainte de a vedea rondul El Ceviche. La prânz, pătrundeți în trecutul orașului la Casa Lima Museo, bucurându-vă de liniște. După-amiaza se mută în natură la Parque Ecológico Kabah pentru a observa flora. Seara, mergeți spre sud pentru a vă relaxa și a vă răcori la faimoasele piscine Abedul și Palma Real.",
         "en": "Start your morning at the historic Teatro 8 de octubre before viewing the grand El Ceviche roundabout. Midday, delve into the city's rich past at Casa Lima Museo Parque, enjoying its serene grounds. Your afternoon shifts to nature at Parque Ecológico Kabah to observe local flora. In the evening, head south to relax and cool off at the popular Abedul and Palma Real pools."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie die Kultur im trockenen Auto und am Theater. Mittags nutzen Sie kurze Wege von Parkplätzen zu den Sehenswürdigkeiten. Nachmittags beobachten Sie den Kabah-Park bei Regen oder nutzen Regenpausen. Abends entspannen Sie in einer der überdachten Piscinas.",
+            "hu": "Reggel kényelmesen, az autóból és a színház fedett részén élvezzük a kultúrát. Délben rövid sétákat tegyünk a parkolótól a látnivalókig. Délután figyeljük a parkot az autóból az esőben. Este kapcsolódjunk ki az egyik fedett medencénél.",
+            "ro": "Dimineața savurați cultura din mașină și la teatru. La prânz faceți plimbări scurte de la parcare la obiective. După-amiaza observați parcul din mașină în timpul ploii. Seara relaxați-vă la una dintre piscinele acoperite.",
+            "en": "Enjoy morning culture from the comfort of your car and the theater. At noon, take short dashes from parking spots to the sights to stay dry. In the afternoon, watch the park from your car or catch rain breaks. Relax at a covered pool in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro 8 de octubre",
+                "hu": "Teatro 8 de octubre",
+                "ro": "Teatro 8 de octombrie",
+                "en": "Teatro 8 de octubre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken ins Gebäude zu gelangen; das Theater ist ein idealer Zufluchtsort bei plötzlichen Güssen.",
+                "hu": "Parkoljunk közel a bejárathoz, hogy szárazon jussunk be; a színház ideális menedék a hirtelen lezúduló záporok idején.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscați în clădire; teatrul este un refugiu ideal în timpul averselor bruște.",
+                "en": "Park close to the entrance to stay dry; the theater is an ideal sanctuary during sudden tropical downpours in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Caracoles y Estrellas de Mar",
+                "hu": "Caracoles y Estrellas de Mar",
+                "ro": "Caracoles y Estrellas de Mar",
+                "en": "Caracoles y Estrellas de Mar"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp vom Auto aus ist möglich; nutzen Sie einen Regenschirm für den kurzen Weg zu den bunten Skulpturen.",
+                "hu": "Egy gyors fotómegálló az autóból is lehetséges; használjunk esernyőt a színes szobrokhoz vezető rövid séta alatt a téren.",
+                "ro": "O oprire foto rapidă din mașină este posibilă; folosiți o umbrelă pentru drumul scurt până la sculpturile colorate.",
+                "en": "A quick photo stop from the car is possible; use an umbrella for the short walk to the colorful sculptures on the plaza."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Lima Museo Parque",
+                "hu": "Casa Lima Museo Parque",
+                "ro": "Casa Lima Museo Parque",
+                "en": "Casa Lima Museo Parque"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet perfekten Schutz vor Regen; parken Sie auf dem Gelände und genießen Sie die Kunst in den überdachten Hallen.",
+                "hu": "A múzeum tökéletes védelmet nyújt az eső elől; parkoljunk a területen belül, és élvezzük a művészetet a fedett termekben.",
+                "ro": "Muzeul oferă protecție perfectă împotriva ploii; parcați în incintă și savurați arta în halele acoperite ale complexului.",
+                "en": "The museum offers perfect protection from the rain; park on-site and enjoy the art inside the covered exhibition halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Ecológico Kabah",
+                "hu": "Parque Ecológico Kabah",
+                "ro": "Parque Ecológico Kabah",
+                "en": "Parque Ecológico Kabah"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Dschungel bei Regen; die asphaltierten Parkwege sind auch bei Nässe befahrbar, steigen Sie nur kurz für Fotos aus.",
+                "hu": "Figyeljük meg a dzsungelt esőben; az aszfaltozott utak vizesen is jól járhatóak, csak rövid időre szálljunk ki fotózni.",
+                "ro": "Observați jungla în timpul ploii; drumurile asfaltate sunt accesibile și pe ud, coborâți doar scurt pentru fotografii.",
+                "en": "Observe the jungle during the rain; paved paths are accessible even when wet, so just step out briefly for quick photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Abedul",
+                "hu": "Piscina Abedul",
+                "ro": "Piscina Abedul",
+                "en": "Piscina Abedul"
+              },
+              "tip_5lang": {
+                "de": "Ein überdachter Poolbereich ist ideal, um trotz Regen zu schwimmen; die Anlage bietet guten Schutz vor tropischen Gewittern.",
+                "hu": "A fedett medencerész ideális az úszáshoz esőben is; a létesítmény jó védelmet nyújt a hirtelen trópusi zivatarok ellen.",
+                "ro": "O zonă de piscină acoperită este ideală pentru a înota în ciuda ploii; complexul oferă protecție bună împotriva furtunilor.",
+                "en": "A covered pool area is ideal for swimming despite the rain; the facility offers good protection from tropical thunderstorms."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Palma Real",
+                "hu": "Piscina Palma Real",
+                "ro": "Piscina Palma Real",
+                "en": "Piscina Palma Real"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie im warmen Wasser, während es draußen regnet; bringen Sie ausreichend Handtücher mit für den Weg zurück zum Auto.",
+                "hu": "Lazítsunk a meleg vízben, miközben kint esik; vigyünk elég törölközőt a medencétől az autóig tartó rövid útra az esőben.",
+                "ro": "Relaxați-vă în apa caldă în timp ce afară plouă; aduceți suficiente prosoape pentru drumul de întoarcere la mașină.",
+                "en": "Relax in the warm water while it rains outside; bring plenty of towels for the short walk back to your car in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens starten Sie warm im Auto zum Theater. Mittags nutzen Sie die angenehmen Temperaturen für Stopps bei den Sehenswürdigkeiten. Nachmittags erleben Sie die frühen Schatten im Park, bevor es um 17:00 Uhr dunkel wird. Abends locken beheizte Pools oder Wellnessangebote.",
+            "hu": "Reggel meleg autóban indulunk a színház felé. Délben használjuk ki a kellemes hőmérsékletet a látnivalók megtekintéséhez. Délután tapasztaljuk meg a korai árnyékokat a parkban az 17:00-i naplemente előtt. Este fűtött medencék várnak.",
+            "ro": "Dimineața porniți în mașina caldă spre teatru. La prânz profitați de temperaturile plăcute pentru a vedea obiectivele. După-amiaza experimentați umbrele timpurii în parc înainte de apusul de la ora 17:00. Seara piscinele încălzite vă așteaptă.",
+            "en": "Start the morning warm in your car as you head to the theater. At noon, take advantage of the pleasant temperatures at the sights. Experience early shadows in the park before the 17:00 sunset. Enjoy heated pools or wellness in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro 8 de octubre",
+                "hu": "Teatro 8 de octubre",
+                "ro": "Teatro 8 de octombrie",
+                "en": "Teatro 8 de octubre"
+              },
+              "tip_5lang": {
+                "de": "Die Wintermorgensonne ist mild; parken Sie bequem in der Nähe und genießen Sie die angenehme Luft beim kurzen Weg zum Eingang.",
+                "hu": "A téli reggeli napsütés lágy; parkoljunk kényelmesen a közelben, és élvezzük a friss levegőt a bejáratig tartó rövid úton.",
+                "ro": "Soarele de dimineață iarna este blând; parcați confortabil în apropiere și savurați aerul proaspăt până la intrare.",
+                "en": "The winter morning sun is mild; park conveniently nearby and enjoy the pleasant air during the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Caracoles y Estrellas de Mar",
+                "hu": "Caracoles y Estrellas de Mar",
+                "ro": "Caracoles y Estrellas de Mar",
+                "en": "Caracoles y Estrellas de Mar"
+              },
+              "tip_5lang": {
+                "de": "Perfektes Fotolicht bei klarem Winterhimmel; nutzen Sie die Parkplätze am Platz für einen entspannten Rundgang bei milden Temperaturen.",
+                "hu": "Tökéletes fotófények a tiszta téli égbolt alatt; használjuk a tér melletti parkolót egy kényelmes körsétához a lágy időben.",
+                "ro": "Lumină perfectă pentru poze sub cerul senin de iarnă; folosiți parcarea de lângă piață pentru o plimbare relaxată.",
+                "en": "Perfect photo lighting under a clear winter sky; use the parking spots by the plaza for a relaxed stroll in mild temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Lima Museo Parque",
+                "hu": "Casa Lima Museo Parque",
+                "ro": "Casa Lima Museo Parque",
+                "en": "Casa Lima Museo Parque"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gärten im Winter; die Temperaturen im Auto und draußen sind nun ideal für einen ausgiebigen Museumsbesuch.",
+                "hu": "Látogassuk meg a kerteket télen; a hőmérséklet az autóban és kint is ideális egy alapos múzeumi sétához a hőség nélkül.",
+                "ro": "Vizitați grădinile iarna; temperaturile din mașină și de afară sunt acum ideale pentru o vizită lungă la muzeu.",
+                "en": "Visit the gardens in winter; temperatures both in the car and outside are ideal now for an extensive museum visit without heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Ecológico Kabah",
+                "hu": "Parque Ecológico Kabah",
+                "ro": "Parque Ecológico Kabah",
+                "en": "Parque Ecológico Kabah"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht vor dem Sonnenuntergang um 17:00 Uhr; die kühle Brise im Auto macht die Anfahrt zum Park sehr angenehm.",
+                "hu": "Használjuk ki a napfényt az 17:00-i naplemente előtt; a hűvös fuvallat az autóban nagyon kellemessé teszi az utat a parkig.",
+                "ro": "Profitați de lumină înainte de apusul de la ora 17:00; briza răcoroasă din mașină face drumul spre parc foarte plăcut.",
+                "en": "Take advantage of the daylight before the 17:00 sunset; the cool breeze in the car makes the drive to the park very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Abedul",
+                "hu": "Piscina Abedul",
+                "ro": "Piscina Abedul",
+                "en": "Piscina Abedul"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den beheizten Pool an einem kühlen Wintertag; die Wassertemperatur ist perfekt auf die milden Außentemperaturen abgestimmt.",
+                "hu": "Élvezzük a fűtött medencét egy hűvös téli napon; a víz hőmérséklete tökéletesen igazodik a lágy külső hőmérséklethez.",
+                "ro": "Bucurați-vă de piscina încălzită într-o zi răcoroasă de iarnă; temperatura apei este adaptată perfect la mediul exterior blând.",
+                "en": "Enjoy the heated pool on a cool winter day; the water temperature is perfectly adjusted to the mild outdoor conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Palma Real",
+                "hu": "Piscina Palma Real",
+                "ro": "Piscina Palma Real",
+                "en": "Piscina Palma Real"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss für den Wintertag; nutzen Sie den Whirlpool, um sich vor dem Abendessen in der kühleren Brise aufzuwärmen.",
+                "hu": "Tökéletes zárása a téli napnak; használjuk a pezsgőfürdőt, hogy felmelegedjünk a hűvösebb esti szélben vacsora előtt.",
+                "ro": "O încheiere perfectă pentru o zi de iarnă; folosiți jacuzzi-ul pentru a vă încălzi în briza mai rece înainte de cină.",
+                "en": "A perfect ending to a winter day; use the whirlpool to warm up in the cooler evening breeze before heading to dinner."
+              }
+            }
+          ]
+        }
       }
     }
   }

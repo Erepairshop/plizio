@@ -160,6 +160,196 @@
         "hu": "A reggel Faenzában a lenyűgöző katedrálissal és a Masini Színház meglátogatásával kezdődik. Délben a bájos utcák a Sant'Antonio és San Domenico csendes templomaihoz vezetnek. Délután merüljön el a világhírű Nemzetközi Kerámia Múzeumban. Az este békésen zárul a San Francesco gyönyörű gótikus részleteivel a városközpont szívében.",
         "ro": "Dimineața în Faenza începe cu uimitoarea Catedrală și o vizită la Teatrul Masini. La prânz, străzile fermecătoare vă conduc spre bisericile liniștite Sant'Antonio și San Domenico. După-amiaza, pătrundeți în faimosul Muzeu Internațional al Ceramicii. Seara dumneavoastră se încheie pașnic cu frumoasele detalii gotice de la San Francesco, în centrul orașului.",
         "en": "Morning in Faenza begins with the stunning Cathedral and a visit to the historic Masini Theater. Midday brings you through the charming streets to the quiet churches of Sant'Antonio and San Domenico. In the afternoon, dive deep into the world-famous International Museum of Ceramics. Your evening concludes peacefully with the beautiful Gothic details of San Francesco in the city center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter den schützenden Arkaden der Piazza, die zur Kathedrale führen. Mittags bietet das Angelo Masini Theater eine prächtige, trockene Kulisse für Kultur. Am Nachmittag ist das MIC der perfekte Zufluchtsort vor dem Wetter, wo Sie Stunden im Trockenen verbringen können. Der Abend endet ruhig in San Francesco, während der Regen sanft auf das alte Pflaster der Stadt trommelt.",
+            "hu": "Kezdje a napot a főtér védelmet nyújtó árkádjai alatt, amelyek közvetlenül a katedrálishoz vezetnek. Délben az Angelo Masini színház nyújt pazar és száraz menedéket. Délután a Kerámiamúzeum (MIC) a tökéletes választás az eső elől, ahol órákig böngészhet fedett helyen. Az este csendesen zárul a San Francesco templomnál, miközben az eső kopog a város ősi macskakövein.",
+            "ro": "Începeți ziua sub arcadele protectoare ale pieței care duc spre Catedrală. La prânz, Teatrul Angelo Masini oferă un cadru cultural splendid și uscat. După-amiaza, muzeul MIC este refugiul perfect împotriva ploii, unde puteți petrece ore întregi la interior. Seara se încheie liniștit la San Francesco, în timp ce ploaia tobește ușor pe pavajul vechi al orașului.",
+            "en": "Start your day under the protective porticos of the main square leading to the Cathedral. At noon, the Angelo Masini Theater provides a magnificent dry backdrop for culture. In the afternoon, the MIC is the perfect escape from the weather, where you can spend hours indoors. The evening ends quietly at San Francesco as the rain gently drums on the city's ancient cobblestones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cattedrale di San Pietro Apostolo",
+                "hu": "Cattedrale di San Pietro Apostolo",
+                "ro": "Cattedrale di San Pietro Apostolo",
+                "en": "Cattedrale di San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das monumentale Renaissance-Interieur, während Sie vor dem Regen geschützt sind; nutzen Sie die Arkaden, um den Eingang trockenen Fußes zu erreichen.",
+                "hu": "Csodálja meg a monumentális reneszánsz belsőt, ahol védve marad az esőtől; érdemes a főtér közeli árkádjai alatt megközelíteni a bejáratot.",
+                "ro": "Admirați interiorul renascentist monumental în timp ce sunteți protejat de ploaie; folosiți arcadele pieței pentru a ajunge la intrare fără să vă udați.",
+                "en": "Admire the monumental Renaissance interior while staying protected from the rain; use the nearby city porticos to reach the entrance dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatri Comunale Angelo Masini",
+                "hu": "Teatri Comunale Angelo Masini",
+                "ro": "Teatri Comunale Angelo Masini",
+                "en": "Teatri Comunale Angelo Masini"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie eines der schönsten neoklassizistischen Theater Italiens im Trockenen; achten Sie bei Regen auf die rutschigen Stufen am Haupteingang.",
+                "hu": "Fedezze fel Olaszország egyik legszebb neoklasszicista színházát fedett helyen; esős időben legyen óvatos a főbejáratnál lévő csúszós lépcsőkkel.",
+                "ro": "Explorați unul dintre cele mai frumoase teatre neoclasice din Italia la interior; atenție la treptele alunecoase de la intrare în condiții de umiditate.",
+                "en": "Explore one of Italy's most beautiful neoclassical theaters indoors; be careful of the slippery steps at the main entrance during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche bietet eine intime Atmosphäre für eine kurze Regenpause; halten Sie Ihren Schirm in der Vorhalle bereit für den kurzen Weg.",
+                "hu": "Ez a kis templom meghitt hangulatot kínál egy rövid esőszünethez; tartsa készenlétben esernyőjét az előcsarnokban a rövid kinti szakaszhoz.",
+                "ro": "Această biserică mică oferă o atmosferă intimă pentru o scurtă pauză de ploaie; pregătiți umbrela în pridvor pentru scurta porțiune de drum.",
+                "en": "This small church offers an intimate atmosphere for a short rain break; keep your umbrella ready in the porch for the short walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Domenico",
+                "hu": "Chiesa di San Domenico",
+                "ro": "Chiesa di San Domenico",
+                "en": "Chiesa di San Domenico"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der gotischen Architektur als Zuflucht vor dem Wetter; der Eingangsbereich bietet guten Schutz beim Zusammenfalten nasser Regenbekleidung.",
+                "hu": "Élvezze a gótikus építészet nyugalmát, mint menedéket az időjárás elől; a bejárat tágas tere védelmet nyújt a vizes ruhák rendbetételéhez.",
+                "ro": "Bucurați-vă de liniștea arhitecturii gotice ca refugiu împotriva vremii; intrarea oferă un spațiu bun pentru a vă scutura hainele de ploaie.",
+                "en": "Enjoy the serenity of Gothic architecture as a sanctuary from the weather; the entrance area provides good shelter for managing wet gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Internazionale delle Ceramiche in Faenza",
+                "hu": "Museo Internazionale delle Ceramiche in Faenza",
+                "ro": "Museo Internazionale delle Ceramiche in Faenza",
+                "en": "Museo Internazionale delle Ceramiche in Faenza"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort für einen Regentag in Faenza mit weitläufigen Galerien im Inneren; nutzen Sie die Garderobe für Ihre nasse Ausrüstung.",
+                "hu": "A legjobb hely Faenzában egy esős délutánra a hatalmas benti galériákkal; vegye igénybe a ruhatárat a vizes kabátok és esernyők számára.",
+                "ro": "Cel mai bun loc din Faenza pentru o zi ploioasă, cu galerii interioare vaste; folosiți garderoba pentru a lăsa echipamentul umed.",
+                "en": "The best place in Faenza for a rainy afternoon with extensive indoor galleries; make use of the cloakroom for your wet coats and umbrellas."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Francesco",
+                "hu": "Chiesa di San Francesco",
+                "ro": "Chiesa di San Francesco",
+                "en": "Chiesa di San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in diesem weitläufigen Innenraum, während es draußen regnet; die Akustik der Regentropfen auf dem Dach ist hier besonders meditativ.",
+                "hu": "Zárja a napot ebben a tágas belső térben, amíg kint esik; a tetőn koppanó esőcseppek hangja itt különösen meditatív élmény.",
+                "ro": "Încheiați ziua în acest spațiu interior generos în timp ce plouă afară; sunetul picăturilor pe acoperiș este deosebit de meditativ aici.",
+                "en": "End your day in this spacious interior while it rains outside; the sound of raindrops on the roof is particularly meditative here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft am Morgen belebt den Geist auf dem Weg zur Kathedrale. Mittags wärmt die prächtige Architektur des Masini Theaters das Herz. Da die Sonne bereits gegen 17:00 Uhr untergeht, ist das MIC der ideale Ort für den späten Nachmittag. Den Abend verbringen Sie am besten in den stimmungsvoll beleuchteten Gassen nahe San Francesco, bevor die Kälte einzieht.",
+            "hu": "A friss téli reggeli levegő élénkítően hat a katedrálishoz vezető úton. Délben a Masini színház belső pompája melengeti meg a lelket. Mivel a nap már 17:00 körül lemegy, a MIC tökéletes választás a késő délutáni órákra. Az estét töltse a San Francesco környéki hangulatosan kivilágított utcákon, mielőtt beállna az éjszakai fagy.",
+            "ro": "Aerul proaspăt de iarnă al dimineții este revigorant în drum spre Catedrală. La prânz, splendoarea interioară a Teatrului Masini încălzește spiritul. Deoarece soarele apune în jurul orei 17:00, MIC este locul ideal pentru după-amiaza târzie. Seara merită petrecută pe străzile luminate feeric de lângă San Francesco.",
+            "en": "The crisp winter morning air is invigorating on your way to the Cathedral. At noon, the interior splendor of the Masini Theater warms the soul. Since the sun sets around 17:00, the MIC is the ideal place for the late afternoon. Spend the evening in the atmospherically lit streets near San Francesco before the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cattedrale di San Pietro Apostolo",
+                "hu": "Cattedrale di San Pietro Apostolo",
+                "ro": "Cattedrale di San Pietro Apostolo",
+                "en": "Cattedrale di San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kathedrale halten eine konstante Temperatur; tragen Sie Schichten, da es im Inneren kühler sein kann als gedacht.",
+                "hu": "A katedrális vastag falai tartják a hőt, de belül hűvösebb lehet, mint gondolná; öltözzön rétegesen a látogatáshoz.",
+                "ro": "Zidurile groase ale catedralei mențin o temperatură constantă; îmbrăcați-vă în straturi, deoarece în interior poate fi mai răcoare decât pare.",
+                "en": "The thick walls of the cathedral maintain a steady temperature; wear layers as the interior can be cooler than you might expect."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatri Comunale Angelo Masini",
+                "hu": "Teatri Comunale Angelo Masini",
+                "ro": "Teatri Comunale Angelo Masini",
+                "en": "Teatri Comunale Angelo Masini"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die prunkvolle Wärme dieses historischen Ortes; die goldene Beleuchtung wirkt im Winter besonders einladend und festlich.",
+                "hu": "Élvezze e történelmi helyszín pazar melegségét; az aranyozott világítás télen különösen hívogató és ünnepi hangulatot áraszt.",
+                "ro": "Bucurați-vă de căldura somptuoasă a acestui loc istoric; iluminarea aurie pare deosebit de primitoare și festivă în timpul iernii.",
+                "en": "Enjoy the lavish warmth of this historic venue; the golden lighting feels especially inviting and festive during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Stopp zum Aufwärmen zwischen den Spaziergängen; achten Sie auf die kurzen Tageslichtstunden für Fotos der Fassade.",
+                "hu": "Rövid, meghitt megálló a felmelegedéshez a séták között; figyeljen a kevés nappali fényre a homlokzat fotózásakor.",
+                "ro": "O scurtă oprire meditativă pentru a vă încălzi între plimbări; profitați de puținele ore de lumină pentru poze cu fațada.",
+                "en": "A short, contemplative stop to warm up between walks; be mindful of the limited daylight hours when photographing the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Domenico",
+                "hu": "Chiesa di San Domenico",
+                "ro": "Chiesa di San Domenico",
+                "en": "Chiesa di San Domenico"
+              },
+              "tip_5lang": {
+                "de": "Die strenge Architektur wirkt im Winterlicht besonders eindrucksvoll; besuchen Sie die Kirche vor 16:30 Uhr, um die Details im Resthimmel zu sehen.",
+                "hu": "A szigorú építészet téli fényben különösen hatásos; látogassa meg 16:30 előtt, hogy még láthassa a részleteket a természetes fénynél.",
+                "ro": "Arhitectura sobră este deosebit de impresionantă în lumina iernii; vizitați înainte de 16:30 pentru a vedea detaliile în lumina naturală.",
+                "en": "The austere architecture is particularly striking in the winter light; visit before 16:30 to see the details in the remaining natural light."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Internazionale delle Ceramiche in Faenza",
+                "hu": "Museo Internazionale delle Ceramiche in Faenza",
+                "ro": "Museo Internazionale delle Ceramiche in Faenza",
+                "en": "Museo Internazionale delle Ceramiche in Faenza"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Museum ist der ideale Zufluchtsort, wenn die Temperaturen sinken; planen Sie hier Ihren Besuch für den späten Nachmittag ein.",
+                "hu": "A fűtött múzeum ideális menedék, amikor süllyed a hőmérséklet; tervezze ide a látogatását a késő délutáni órákra.",
+                "ro": "Muzeul încălzit este refugiul ideal când temperaturile scad; planificați-vă vizita aici pentru orele târzii ale după-amiezii.",
+                "en": "The heated museum is the ideal refuge as temperatures drop; plan your visit here for the late afternoon hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Francesco",
+                "hu": "Chiesa di San Francesco",
+                "ro": "Chiesa di San Francesco",
+                "en": "Chiesa di San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Nach dem frühen Sonnenuntergang um 17:00 Uhr erstrahlt die Kirche in einem sanften Licht; ein warmer Mantel ist für den Rückweg unerlässlich.",
+                "hu": "A korai, 17:00 órai naplemente után a templom lágy fényben úszik; egy meleg kabát elengedhetetlen a visszaúthoz a hűvös alkonyatban.",
+                "ro": "După apusul devreme de la ora 17:00, biserica strălucește într-o lumină blândă; o haină groasă este esențială pentru drumul de întoarcere.",
+                "en": "After the early sunset at 17:00, the church glows in a soft light; a warm coat is essential for the walk back in the evening chill."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Tekerjen át Faenza reggeli fényein, a katedrálistól indulva, majd keletre lovagolva a Commenda templomig. A délidő egy gyors kerékpározást kínál a Santi Ippolito és a Kerámia Múzeum felé. Élvezze az aktív délutánt a San Savino templomának felfedezésével. Zárja a napot egy nyugtató kerékpározással a csendes San Girolamo all'Osservanza komplexumhoz az este közeledtével.",
         "ro": "Pedalați prin lumina dimineții din Faenza pornind de la Catedrală înainte de a merge spre biserica Commenda. Prânzul oferă o plimbare rapidă spre Santi Ippolito și Muzeul Ceramicii. Bucurați-vă de o după-amiază activă explorând San Savino. Încheiați ziua cu o plimbare liniștitoare către complexul San Girolamo all'Osservanza, pe măsură ce se apropie seara.",
         "en": "Pedal through Faenza's morning light starting at the grand Cathedral before riding east to the historic Commenda church. Midday offers a swift cycle to Santi Ippolito e Lorenzo and the breathtaking International Ceramics Museum. Enjoy an active afternoon exploring the spiritual San Savino. End the day with a calming ride out to the tranquil San Girolamo all'Osservanza as evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig über die nassen Straßen zur Kathedrale. Die kurzen Wege zwischen den Kirchen der Commenda und San Ippolito sind auch bei Regen machbar. Mittags bietet das Keramikmuseum eine lange, trockene Pause für Sie und Ihre Ausrüstung. Trotz des Regens bleibt Faenza mit dem Rad gut erreichbar, solange Sie auf markierte Wege achten.",
+            "hu": "Tekerjen óvatosan a vizes utakon a katedrálishoz. A Commenda és San Ippolito templomok közötti rövid szakaszok esőben is könnyen teljesíthetők. Délben a Kerámiamúzeum hosszú, száraz pihenőt kínál Önnek és felszerelésének. Az eső ellenére Faenza kerékpárral is jól bejárható, ha figyel a kijelölt utakra.",
+            "ro": "Pedalați cu prudență pe străzile umede spre Catedrală. Distanțele scurte între bisericile Commenda și San Ippolito sunt ușor de parcurs chiar și pe ploaie. La prânz, muzeul de ceramică oferă o pauză lungă și uscată pentru dvs. și echipament. Faenza rămâne accesibilă cu bicicleta dacă sunteți atenți la drum.",
+            "en": "Cycle carefully across the wet streets to the Cathedral. The short distances between the Commenda and San Ippolito churches are manageable even in rain. At noon, the Ceramic Museum offers a long, dry break for you and your gear. Despite the rain, Faenza remains accessible by bike if you stay mindful of marked paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cattedrale di San Pietro Apostolo",
+                "hu": "Cattedrale di San Pietro Apostolo",
+                "ro": "Cattedrale di San Pietro Apostolo",
+                "en": "Cattedrale di San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den nahen Arkaden, um den Sattel trocken zu halten; nutzen Sie die Besichtigung als erste Regenpause.",
+                "hu": "Parkolja le kerékpárját a közeli árkádok alatt, hogy a nyereg száraz maradjon; használja a látogatást első esőszünetként.",
+                "ro": "Parcați bicicleta sub arcadele din apropiere pentru a păstra șaua uscată; folosiți vizita ca primă pauză de ploaie.",
+                "en": "Park your bike under the nearby porticos to keep the saddle dry; use the visit as your first rain break of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Commenda",
+                "hu": "Chiesa della Commenda",
+                "ro": "Chiesa della Commenda",
+                "en": "Chiesa della Commenda"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das nasse Kopfsteinpflaster auf dem Weg hierher; die Kirche bietet einen schnellen, trockenen Ort für kulturelle Entdeckungen.",
+                "hu": "Ügyeljen a vizes macskakőre az idevezető úton; a templom gyors és száraz helyszínt biztosít a kulturális felfedezéshez.",
+                "ro": "Atenție la pavajul umed în drum spre acest loc; biserica oferă un refugiu rapid și uscat pentru descoperiri culturale.",
+                "en": "Watch out for wet cobblestones on the way here; the church provides a quick, dry spot for cultural discovery."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Ippolito e Lorenzo",
+                "hu": "Chiesa dei Santi Ippolito e Lorenzo",
+                "ro": "Chiesa dei Santi Ippolito e Lorenzo",
+                "en": "Chiesa dei Santi Ippolito e Lorenzo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die Kurven bei Regen; das Innere der Kirche ist ein friedlicher Ort, um auf ein Nachlassen des Schauers zu warten.",
+                "hu": "Lassan haladjon a kanyarokban esőben; a templom belseje békés helyszín arra, hogy megvárja, amíg alábbhagy a zápor.",
+                "ro": "Circulați cu viteză redusă în curbe pe ploaie; interiorul bisericii este un loc liniștit pentru a aștepta oprirea aversei.",
+                "en": "Ride slowly through the turns in the rain; the church interior is a peaceful place to wait for a shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Internazionale delle Ceramiche in Faenza",
+                "hu": "Museo Internazionale delle Ceramiche in Faenza",
+                "ro": "Museo Internazionale delle Ceramiche in Faenza",
+                "en": "Museo Internazionale delle Ceramiche in Faenza"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Stopp, um sich komplett aufzuwärmen und zu trocknen; es gibt Fahrradständer in unmittelbarer Nähe des geschützten Eingangs.",
+                "hu": "Ideális megálló a teljes felmelegedéshez és megszáradáshoz; a védett bejárat közvetlen közelében találhatók kerékpártárolók.",
+                "ro": "Oprirea ideală pentru a vă încălzi și usca complet; există rastele de biciclete chiar lângă intrarea protejată.",
+                "en": "The ideal stop to warm up and dry off completely; there are bike racks located very close to the sheltered entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Savino",
+                "hu": "Chiesa di San Savino",
+                "ro": "Chiesa di San Savino",
+                "en": "Chiesa di San Savino"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Stück Fahrt, aber seien Sie vorsichtig bei Pfützen; die Kirche ist ein kleiner, trockener Schatz abseits der Hauptwege.",
+                "hu": "Rövid tekerés, de legyen óvatos a tócsákkal; a templom egy kis száraz kincs a főútvonalaktól távolabb.",
+                "ro": "O porțiune scurtă de mers, dar atenție la bălți; biserica este o mică comoară uscată, situată departe de drumurile principale.",
+                "en": "A short ride, but be cautious of puddles; the church is a small, dry treasure located away from the main routes."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Girolamo all'Osservanza",
+                "hu": "Chiesa di San Girolamo all'Osservanza",
+                "ro": "Chiesa di San Girolamo all'Osservanza",
+                "en": "Chiesa di San Girolamo all'Osservanza"
+              },
+              "tip_5lang": {
+                "de": "Der finale Stopp bietet Schutz vor dem Abendregen; prüfen Sie vor der Rückfahrt die Funktion Ihrer Bremsen auf nasser Fahrbahn.",
+                "hu": "Az utolsó állomás védelmet nyújt az esti eső elől; a visszaindulás előtt ellenőrizze a fékek működését a vizes úton.",
+                "ro": "Ultima oprire oferă protecție împotriva ploii de seară; înainte de întoarcere, verificați frânele pe carosabilul umed.",
+                "en": "The final stop provides shelter from the evening rain; check your brakes' performance on the wet road before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft auf dem Rad am frühen Morgen. Die Fahrt zwischen den historischen Kirchen hält Sie in Bewegung und warm. Da es gegen 17:00 Uhr dunkel wird, ist das MIC der perfekte Ort, um den späten Nachmittag im Warmen zu verbringen. Denken Sie an gute Handschuhe für die Fahrten zwischen den Stopps in der winterlichen Dämmerung.",
+            "hu": "Élvezze a tiszta téli levegőt a kerékpáron kora reggel. A történelmi templomok közötti tekerés mozgásban és melegen tartja Önt. Mivel 17:00 körül sötétedik, a MIC tökéletes hely a késő délután melegben való eltöltéséhez. Ne feledkezzen meg a jó kesztyűről a megállók közötti utakhoz a téli szürkületben.",
+            "ro": "Bucurați-vă de aerul curat de iarnă pe bicicletă dis-de-dimineață. Pedalatul între bisericile istorice vă menține activ și încălzit. Deoarece se întunecă în jurul orei 17:00, MIC este locul perfect pentru a petrece după-amiaza la căldură. Nu uitați mănușile pentru drumurile dintre opriri.",
+            "en": "Enjoy the clear winter air on your bike early in the morning. Cycling between historic churches keeps you moving and warm. Since it gets dark around 17:00, the MIC is the perfect place to spend the late afternoon in the warmth. Remember good gloves for the rides between stops in the winter dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cattedrale di San Pietro Apostolo",
+                "hu": "Cattedrale di San Pietro Apostolo",
+                "ro": "Cattedrale di San Pietro Apostolo",
+                "en": "Cattedrale di San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine erste Aufwärmpause; das Morgenlicht auf der Fassade ist im Winter besonders klar und fotogen.",
+                "hu": "Használja ki a látogatást egy első felmelegedésre; a homlokzatra eső reggeli fény télen különösen tiszta és fotogén.",
+                "ro": "Folosiți vizita pentru o primă pauză de încălzire; lumina dimineții pe fațadă este deosebit de clară și fotogenică iarna.",
+                "en": "Use the visit for an initial warm-up break; the morning light on the facade is particularly clear and photogenic in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Commenda",
+                "hu": "Chiesa della Commenda",
+                "ro": "Chiesa della Commenda",
+                "en": "Chiesa della Commenda"
+              },
+              "tip_5lang": {
+                "de": "Die kurze Fahrt hierher belebt bei kühlem Wetter; bewundern Sie die Fresken im Inneren, während Sie sich vor dem Wind schützen.",
+                "hu": "A rövid tekerés felfrissíti a hűvös időben; csodálja meg a benti freskókat, miközben menedéket talál a szél elől.",
+                "ro": "Scurta plimbare este revigorantă pe vreme răcoroasă; admirați frescele interioare în timp ce vă adăpostiți de vânt.",
+                "en": "The short ride here is refreshing in the cool weather; admire the frescoes inside while sheltering from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Ippolito e Lorenzo",
+                "hu": "Chiesa dei Santi Ippolito e Lorenzo",
+                "ro": "Chiesa dei Santi Ippolito e Lorenzo",
+                "en": "Chiesa dei Santi Ippolito e Lorenzo"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Kälte kurz zu vergessen; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den späten Nachmittag funktioniert.",
+                "hu": "Csendes hely, ahol rövid időre elfelejtheti a hideget; győződjön meg róla, hogy a kerékpár lámpái működnek a késő délutáni szakaszhoz.",
+                "ro": "Un loc liniștit pentru a uita scurt de frig; asigurați-vă că luminile bicicletei funcționează pentru porțiunea de după-amiază.",
+                "en": "A quiet spot to briefly forget the cold; make sure your bike lights are functioning for the late afternoon portion of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Internazionale delle Ceramiche in Faenza",
+                "hu": "Museo Internazionale delle Ceramiche in Faenza",
+                "ro": "Museo Internazionale delle Ceramiche in Faenza",
+                "en": "Museo Internazionale delle Ceramiche in Faenza"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie viel Zeit im warmen Museum ein; es ist die perfekte Überbrückung bis zum frühen Sonnenuntergang um 17:00 Uhr.",
+                "hu": "Tervezzen bőven időt a fűtött múzeumban; tökéletes program a korai, 17:00 órai naplemente előtti órákra.",
+                "ro": "Planificați mult timp în muzeul încălzit; este activitatea perfectă înainte de apusul devreme de la ora 17:00.",
+                "en": "Plan plenty of time in the warm museum; it is the perfect bridge until the early sunset at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Savino",
+                "hu": "Chiesa di San Savino",
+                "ro": "Chiesa di San Savino",
+                "en": "Chiesa di San Savino"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Stopp vor der Dämmerung; die Schlichtheit des Ortes wirkt in der winterlichen Stille sehr andächtig.",
+                "hu": "Érkezzen meg ide még a szürkület előtt; a hely egyszerűsége a téli csendben nagyon áhítatos hangulatot áraszt.",
+                "ro": "Ajungeți aici înainte de amurg; simplitatea locului pare foarte pioasă în liniștea iernii.",
+                "en": "Reach this stop before twilight; the simplicity of the place feels very devotional in the winter silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Girolamo all'Osservanza",
+                "hu": "Chiesa di San Girolamo all'Osservanza",
+                "ro": "Chiesa di San Girolamo all'Osservanza",
+                "en": "Chiesa di San Girolamo all'Osservanza"
+              },
+              "tip_5lang": {
+                "de": "Die Rückfahrt erfolgt wahrscheinlich im Dunkeln; ein warmer Schal schützt Sie vor dem kalten Fahrtwind am Abend.",
+                "hu": "A visszajutás valószínűleg már sötétben történik; egy meleg sál megvédi Önt a hideg menetszéltől az esti tekerés során.",
+                "ro": "Întoarcerea va fi probabil pe întuneric; un fular gros vă va proteja de vântul rece în timpul pedalatului de seară.",
+                "en": "The return trip will likely be in the dark; a warm scarf will protect you from the cold wind during the evening ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Az autós túra a fenséges San Pietro katedrálisnál kezdődik, majd a Kerámia Múzeum hatalmas gyűjteményének megcsodálásával folytatódik. Délben vezessen északra a L'altro Mare felé egy pihentető rekreációs szünetre. A délután a bájos Santa Margherita meglátogatásával folytatódik. Zárja a napot egy derűs naplementével a gyönyörű Quinzan rekreációs területen.",
         "ro": "Turul cu mașina începe la Catedrala San Pietro, urmat de colecțiile vaste de la Muzeul Internațional al Ceramicii. La prânz, conduceți spre nord la L'altro Mare pentru o pauză relaxantă. După-amiaza continuă cu o vizită la fermecătoarea biserică Santa Margherita. Încheiați ziua cu un apus senin la frumoasa zonă de agrement Quinzan, perfectă pentru relaxare de seară.",
         "en": "Your driving tour kicks off at the majestic Cathedral of San Pietro, setting a historical tone before marveling at the vast collections in the International Museum of Ceramics. For midday, drive north to L'altro Mare for a relaxing recreational break. The afternoon continues with a visit to the charming Santa Margherita. Conclude the day with a serene sunset at the beautiful Quinzan area."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Komfort des Autos für die Fahrt zwischen den Highlights Faenzas bei Regen. Das MIC bietet eine ideale, trockene Nachmittagsaktivität mit einfachen Parkmöglichkeiten. Später führen kurze Fahrten zu Zielen außerhalb des Zentrums wie Quinzan, wo Sie den Regen gemütlich drinnen abwarten können. Genießen Sie die Stadtlandschaft sicher aus dem trockenen Fahrzeug.",
+            "hu": "Használja ki az autó kényelmét Faenza látnivalói közötti utazáshoz esős időben. A MIC ideális délutáni programot kínál, könnyű parkolási lehetőséggel a közelben. Később a rövid autózás olyan távolabbi pontokhoz vezet, mint Quinzan, ahol kellemesen megvárhatja az eső végét. Élvezze a város látképét biztonságban, a száraz járműből.",
+            "ro": "Folosiți confortul mașinii pentru a călători între atracțiile din Faenza pe ploaie. MIC oferă o activitate ideală de după-amiază, cu parcare ușoară în apropiere. Mai târziu, scurte călătorii vă duc spre puncte ca Quinzan, unde puteți aștepta oprirea ploii. Bucurați-vă de peisajul urban în siguranță din vehiculul uscat.",
+            "en": "Take advantage of the car's comfort for traveling between Faenza's highlights in rainy weather. The MIC offers an ideal afternoon activity with easy parking nearby. Later, short drives lead to outlying points like Quinzan, where you can pleasantly wait out the rain. Enjoy the cityscape safely from your dry vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cattedrale di San Pietro Apostolo",
+                "hu": "Cattedrale di San Pietro Apostolo",
+                "ro": "Cattedrale di San Pietro Apostolo",
+                "en": "Cattedrale di San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie ein Parkhaus in der Nähe, um den Weg zur Kathedrale unter den Arkaden zu minimieren; die Sicht kann bei starkem Regen eingeschränkt sein.",
+                "hu": "Keressen közeli parkolót, hogy minimalizálja az utat a katedrálisig az árkádok alatt; erős esőben a látótávolság korlátozott lehet.",
+                "ro": "Căutați o parcare în apropiere pentru a minimiza drumul până la catedrală sub arcade; vizibilitatea poate fi redusă în caz de ploaie torențială.",
+                "en": "Find a nearby parking garage to minimize the walk to the cathedral under the porticos; visibility may be limited during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Internazionale delle Ceramiche in Faenza",
+                "hu": "Museo Internazionale delle Ceramiche in Faenza",
+                "ro": "Museo Internazionale delle Ceramiche in Faenza",
+                "en": "Museo Internazionale delle Ceramiche in Faenza"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für einen Regentag mit Parkmöglichkeiten direkt davor; verbringen Sie hier den nassesten Teil des Tages im Warmen.",
+                "hu": "Tökéletes helyszín esős napra, közvetlen előtte található parkolókkal; töltse itt a nap legesősebb részét kellemes melegben.",
+                "ro": "Locația perfectă pentru o zi ploioasă, cu parcare chiar în față; petreceți aici cea mai umedă parte a zilei la căldură.",
+                "en": "Perfect location for a rainy day with parking available right in front; spend the wettest part of the day here in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "L'altro Mare",
+                "hu": "L'altro Mare",
+                "ro": "L'altro Mare",
+                "en": "L'altro Mare"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Aquaplaning auf der Fahrt zu diesem etwas abgelegenen Ort; die modernen Räumlichkeiten bieten hervorragenden Schutz vor Schauern.",
+                "hu": "Ügyeljen a vízátfolyásokra e távolabbi ponthoz vezető úton; a modern belső terek kiváló védelmet nyújtanak a záporok elől.",
+                "ro": "Atenție la acvaplanare în drum spre acest punct mai îndepărtat; spațiile moderne oferă o protecție excelentă împotriva averselor.",
+                "en": "Watch out for aquaplaning on the drive to this outlying spot; the modern interior spaces offer excellent protection from showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Margherita",
+                "hu": "Chiesa di Santa Margherita",
+                "ro": "Chiesa di Santa Margherita",
+                "en": "Chiesa di Santa Margherita"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; der Innenraum ist ideal für eine ruhige Besinnung während des Regens.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az elázást; a belső tér ideális egy csendes elmélyülésre az eső alatt.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; interiorul este ideal pentru o reflecție liniștită în timpul ploii.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; the interior is ideal for quiet reflection during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinzan",
+                "hu": "Quinzan",
+                "ro": "Quinzan",
+                "en": "Quinzan"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt ins Grüne bietet auch bei Regen schöne Ausblicke aus dem Auto; genießen Sie den Aufenthalt in den überdachten Bereichen.",
+                "hu": "A zöldbe vezető autózás esőben is szép kilátást nyújt a kocsiból; élvezze a tartózkodást a fedett részeken a nap végén.",
+                "ro": "Drumul spre zonele verzi oferă priveliști frumoase din mașină chiar și pe ploaie; bucurați-vă de șederea în zonele acoperite.",
+                "en": "The drive into the greenery offers nice views from the car even in rain; enjoy your stay in the covered areas at the end of the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintertag warm in Ihrem Auto auf dem Weg zur Kathedrale. Die kurzen Fahrten zwischen den Sehenswürdigkeiten schützen Sie vor der beißenden Kälte. Da die Sonne bereits um 17:00 Uhr untergeht, ist das MIC der ideale Ort für den späten Nachmittag. Beenden Sie den Tag bei Quinzan und genießen Sie die winterliche Landschaft im sanften Abendlicht.",
+            "hu": "Kezdje a téli napot meleg autóban a katedrálishoz vezető úton. A látnivalók közötti rövid autózás megvédi Önt a metsző hidegtől. Mivel a nap már 17:00 körül lemegy, a MIC ideális helyszín a késő délutánra. Zárja a napot Quinzannál, élvezve a téli tájat a lágy esti fényekben.",
+            "ro": "Începeți ziua de iarnă în mașina încălzită în drum spre Catedrală. Scurtele deplasări între obiective vă protejează de frigul tăios. Deoarece soarele apune la ora 17:00, MIC este locația ideală pentru după-amiaza târzie. Încheiați ziua la Quinzan, admirând peisajul de iarnă în lumina blândă de seară.",
+            "en": "Start the winter day in your warm car on the way to the Cathedral. Short drives between sights protect you from the biting cold. Since the sun sets around 17:00, the MIC is the ideal location for the late afternoon. End the day at Quinzan, enjoying the winter landscape in the soft evening light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cattedrale di San Pietro Apostolo",
+                "hu": "Cattedrale di San Pietro Apostolo",
+                "ro": "Cattedrale di San Pietro Apostolo",
+                "en": "Cattedrale di San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung Ihres Autos zwischen den Stopps; das klare Winterlicht lässt die Kathedrale am Morgen erstrahlen.",
+                "hu": "Használja az autó fűtését a megállók között; a tiszta téli fényben a katedrális ragyogó látványt nyújt reggel.",
+                "ro": "Folosiți încălzirea mașinii între opriri; lumina clară de iarnă face ca catedrala să strălucească dimineața.",
+                "en": "Utilize your car's heater between stops; the clear winter light makes the cathedral look radiant in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Internazionale delle Ceramiche in Faenza",
+                "hu": "Museo Internazionale delle Ceramiche in Faenza",
+                "ro": "Museo Internazionale delle Ceramiche in Faenza",
+                "en": "Museo Internazionale delle Ceramiche in Faenza"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist gut beheizt und bietet eine lange Pause von der Winterkälte; Parken Sie direkt davor für minimalen Aufenthalt im Freien.",
+                "hu": "A múzeum jól fűtött, és hosszú pihenőt kínál a téli hideg elől; parkoljon közvetlenül előtte a minimális kinti tartózkodás érdekében.",
+                "ro": "Muzeul este bine încălzit și oferă o pauză lungă de la frigul iernii; parcați chiar în față pentru a sta cât mai puțin afară.",
+                "en": "The museum is well-heated and offers a long break from the winter cold; park right in front for minimal time spent outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "L'altro Mare",
+                "hu": "L'altro Mare",
+                "ro": "L'altro Mare",
+                "en": "L'altro Mare"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie bei Nebel oder Reif die Straßenbedingungen; die Fahrt bietet im Winter eine ruhige, fast mystische Atmosphäre.",
+                "hu": "Köd vagy zúzmara esetén ellenőrizze az útviszonyokat; az autózás télen nyugodt, szinte misztikus hangulatot áraszt.",
+                "ro": "Verificați condițiile de drum în caz de ceață sau polei; drumul oferă o atmosferă calmă, aproape mistică, în timpul iernii.",
+                "en": "Check road conditions in case of fog or frost; the drive offers a calm, almost mystical atmosphere during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Margherita",
+                "hu": "Chiesa di Santa Margherita",
+                "ro": "Chiesa di Santa Margherita",
+                "en": "Chiesa di Santa Margherita"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Stopp vor 16:30 Uhr, um das natürliche Licht zu nutzen; der Weg vom Parkplatz ist kurz und unkompliziert.",
+                "hu": "Látogassa meg ezt a pontot 16:30 előtt a természetes fény kihasználásához; a parkolótól vezető út rövid és egyszerű.",
+                "ro": "Vizitați acest punct înainte de 16:30 pentru a profita de lumina naturală; drumul de la parcare este scurt și simplu.",
+                "en": "Visit this stop before 16:30 to make the most of the natural light; the walk from the parking area is short and straightforward."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinzan",
+                "hu": "Quinzan",
+                "ro": "Quinzan",
+                "en": "Quinzan"
+              },
+              "tip_5lang": {
+                "de": "Nach dem Sonnenuntergang um 17:00 Uhr ist die Rückfahrt im Dunkeln dank Auto sicher; genießen Sie die stimmungsvolle Winterdämmerung.",
+                "hu": "A 17:00 órai naplemente után a sötétben való visszajutás autóval biztonságos; élvezze a hangulatos téli szürkületet.",
+                "ro": "După apusul de la ora 17:00, întoarcerea pe întuneric este sigură cu mașina; bucurați-vă de amurgul hibernal plin de atmosferă.",
+                "en": "After the 17:00 sunset, the return trip in the dark is safe by car; enjoy the atmospheric winter twilight at the end of your tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

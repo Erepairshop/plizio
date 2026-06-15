@@ -137,6 +137,168 @@
         "hu": "A reggel nyugodtan indul a Saint John's templomnál, mielőtt továbblépne a modern Tinteán Színházba, ahol kultúra várja. Délben eléri a sziklákat, és felfedezi a történelmi Ballybunion kastélyt, ahonnan lélegzetelállító kilátás nyílik. A délután a Ladies' Beach nyugodt óráinak van fenntartva, ahol élvezheti a lágy tengeri szellőt. Este a tágas Men's Beach partján pihenhet, miközben a nap lassan lebukik az óceán felett.",
         "ro": "Dimineața începe liniștit la biserica Saint John's, înainte de a trece la modernul Teatru Tinteán, unde vă așteaptă cultura. La amiază, ajungeți la stânci și explorați istoricul Castel Ballybunion cu priveliștile sale uluitoare. După-amiaza este rezervată orelor de relaxare la Ladies' Beach, unde vă puteți bucura de briza blândă. Seara, vă relaxați pe plaja spațioasă Men's Beach, în timp ce soarele apune încet peste ocean.",
         "en": "The morning begins quietly at Saint John's church before moving on to the modern Tinteán Theatre, where local culture awaits you. By midday, you reach the cliffs to explore the historic Ballybunion Castle with its breathtaking coastal views. The afternoon is completely reserved for relaxing hours at Ladies' Beach, where you can enjoy the gentle sea breeze. In the evening, unwind at the spacious Men's Beach as the sun slowly sets over the beautiful ocean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in der Saint John's Kirche, um dem ersten Regen zu entkommen. Mittags bietet das Tinteán Theatre ein trockenes Refugium für Kulturinteressierte. Nachmittags erkunden Sie die Burgruine unter dem Schutz Ihres Regenschirms. Der Abend klingt mit einem dramatischen Blick auf die stürmische Atlantikküste aus, wobei die Meeresbrise die Wolken über den Strand treibt.",
+            "hu": "Kezdje a reggelt a Saint John's templom csendjében, menedéket keresve az égi áldás elől. Délben a Tinteán Theatre várja, ahol szárazon élvezheti a helyi kulturális kiállításokat. Délután a várromok misztikus ködbe burkolózó falai között sétálhat, ügyelve a csúszós fűre. Az este a tengerparti sziklák alatt ér véget, ahol a viharos hullámok látványa feledteti az esős időt.",
+            "ro": "Începeți dimineața la Biserica Saint John's pentru a vă adăposti de ploaia ușoară de dimineață. La prânz, Teatrul Tinteán oferă un refugiu cultural uscat și primitor. După-amiaza, vizitați ruinele castelului protejați de o umbrelă solidă pentru a admira coasta. Seara se încheie cu o plimbare revigorantă pe plajă, unde ceața oceanului creează o atmosferă irlandeză autentică.",
+            "en": "Start the morning at Saint John's Church to escape the early showers in a peaceful setting. At noon, the Tinteán Theatre provides a dry cultural refuge while the rain intensifies outside. Spend the afternoon exploring the castle ruins under the protection of a sturdy umbrella. The evening concludes with a dramatic view of the stormy Atlantic coast as the mist settles over the beaches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint John's",
+                "hu": "Saint John's",
+                "ro": "Saint John's",
+                "en": "Saint John's"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bunten Glasfenster im Inneren, während draußen der Regen prasselt; ein perfekter Ort, um trocken zu bleiben.",
+                "hu": "Csodálja meg a belső színes üvegablakokat, miközben kint kopog az eső; ez a helyszín tökéletes menedéket nyújt a reggeli záporok elől.",
+                "ro": "Admirați vitraliile colorate din interior în timp ce ploaia bate în geam; este un loc perfect pentru a rămâne uscat la începutul zilei.",
+                "en": "Admire the colorful stained glass windows inside while the rain patters outside; it is a perfect spot to stay dry and start your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Tinteán Theatre",
+                "hu": "Tinteán Theatre",
+                "ro": "Tinteán Theatre",
+                "en": "Tinteán Theatre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Foyer für eine gemütliche Pause und erkunden Sie die lokalen Exponate; ideal, um heftige Regengüsse sicher abzuwarten.",
+                "hu": "Használja ki az előcsarnokot egy kellemes pihenőre és fedezze fel a helyi tárlatokat; ideális hely a hevesebb esőzés kivárására.",
+                "ro": "Folosiți foierul pentru o pauză relaxantă și explorați exponatele locale; este ideal pentru a aștepta trecerea averselor puternice.",
+                "en": "Use the foyer for a cozy break and explore the local exhibits; it is an ideal indoor venue to wait out heavy downpours safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballybunion Castle",
+                "hu": "Ballybunion Castle",
+                "ro": "Ballybunion Castle",
+                "en": "Ballybunion Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Ruine wirkt im Regen besonders mystisch, aber Vorsicht vor den rutschigen Klippenpfaden; tragen Sie unbedingt wasserfeste Wanderschuhe.",
+                "hu": "A romok esőben különösen misztikusak, de vigyázzon a csúszós sziklaparti ösvényekkel; mindenképpen viseljen vízálló túrabakancsot.",
+                "ro": "Ruinele par mistice în ploaie, dar atenție la potecile alunecoase de pe marginea falezei; purtați neapărat încălțăminte de munte impermeabilă.",
+                "en": "The ruins look mystical in the rain, but beware of slippery cliff paths; be sure to wear waterproof hiking boots for safety here."
+              }
+            },
+            {
+              "name": {
+                "de": "Ladies' Beach",
+                "hu": "Ladies' Beach",
+                "ro": "Ladies' Beach",
+                "en": "Ladies' Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die tosende Brandung aus dem Schutz der Felsnischen; die Gischt ist bei Regen spektakulär, aber halten Sie Abstand.",
+                "hu": "Figyelje a zúgó hullámokat a sziklaüregek védelméből; a tengeri permet esőben látványos, de tartson biztonságos távolságot a víztől.",
+                "ro": "Observați valurile spumegânde din adăpostul nișelor stâncoase; spectacolul mării este uimitor pe ploaie, dar păstrați distanța de siguranță.",
+                "en": "Watch the crashing surf from the shelter of the rock alcoves; the sea spray is spectacular in the rain, but keep a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Men's Beach",
+                "hu": "Men's Beach",
+                "ro": "Men's Beach",
+                "en": "Men's Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am nassen Sand ist erfrischend, wenn die Kleidung hält; die nebligen Klippen bieten jetzt fantastische Fotomotive.",
+                "hu": "Egy séta a vizes homokban frissítő élmény, ha megfelelő a ruházata; a ködös sziklák ilyenkor fantasztikus fotótémát szolgáltatnak.",
+                "ro": "O plimbare pe nisipul ud este revigorantă dacă aveți haine adecvate; stâncile cețoase oferă acum oportunități fantastice pentru fotografii.",
+                "en": "A walk on the wet sand is refreshing if your clothing holds up; the misty cliffs provide fantastic photo opportunities in this weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frostige Ruhe am Morgen in der Saint John's Kirche. Mittags lockt das Tinteán Theatre mit Wärme und lokalen Geschichten. Nutzen Sie das goldene Licht des frühen Nachmittags für den Burgbesuch, bevor die Sonne gegen 17:00 Uhr untergeht. Der Winterabend am Meer ist kurz und knackig, perfekt für einen schnellen Strandspaziergang in dicker Wollkleidung.",
+            "hu": "Élje át a reggeli fagyos csendet a Saint John's templomban. Délben a Tinteán Theatre hívogat melegével és helyi történeteivel. Használja ki a kora délutáni aranyló fényeket a várnál, mielőtt a nap 17:00 körül lebukik a horizont alá. A téli este a tengerparton rövid és frissítő, ideális egy gyors sétára vastag gyapjúruhában.",
+            "ro": "Experimentați liniștea înghețată a dimineții la Biserica Saint John's. La prânz, Teatrul Tinteán vă atrage cu căldură și povești locale. Profitate de lumina aurie a după-amiezii pentru vizita la castel, înainte ca soarele să apună în jur de ora 17:00. Seara de iarnă la malul mării este scurtă, perfectă pentru o plimbare rapidă în haine groase.",
+            "en": "Experience the frosty morning silence at Saint John's Church. At noon, the Tinteán Theatre invites you with its warmth and local stories. Use the golden light of early afternoon for the castle visit before the sun sets around 5:00 PM. The winter evening by the sea is short and crisp, perfect for a quick beach stroll in thick woolen layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint John's",
+                "hu": "Saint John's",
+                "ro": "Saint John's",
+                "en": "Saint John's"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht den friedlichen Innenraum noch einladender; genießen Sie die Stille, bevor die Winterkälte draußen zunimmt.",
+                "hu": "A hűvös reggeli levegő még hívogatóbbá teszi a békés belsőt; élvezze a csendet, mielőtt kint felerősödne a téli fagy.",
+                "ro": "Aerul rece al dimineții face interiorul pașnic și mai primitor; bucurați-vă de liniște înainte ca gerul de afară să se intensifice.",
+                "en": "The cool morning air makes the peaceful interior even more inviting; enjoy the silence before the winter cold intensifies outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tinteán Theatre",
+                "hu": "Tinteán Theatre",
+                "ro": "Tinteán Theatre",
+                "en": "Tinteán Theatre"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf und stöbern Sie in den kulturellen Programmen; ein idealer Ort, um der schneidenden Meeresbrise zu entkommen.",
+                "hu": "Melegedjen fel a belső térben és böngésszen a kulturális programok között; ideális hely a metsző tengeri szél elöli menekülésre.",
+                "ro": "Încălziți-vă în interior și răsfoiți programele culturale; este un loc ideal pentru a scăpa de briza tăioasă a mării pe timp de iarnă.",
+                "en": "Warm up inside and browse through the cultural programs; it is an ideal place to escape the biting sea breeze during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballybunion Castle",
+                "hu": "Ballybunion Castle",
+                "ro": "Ballybunion Castle",
+                "en": "Ballybunion Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Burg im letzten Sonnenlicht des Tages für spektakuläre Fotos; Handschuhe sind wegen des starken Windes an den Klippen nötig.",
+                "hu": "Látogassa meg a várat a nap utolsó fényeiben a látványos fotókért; a szikláknál fújó erős szél miatt kesztyű viselése ajánlott.",
+                "ro": "Vizitați castelul în ultimele raze de soare pentru fotografii spectaculoase; mănușile sunt necesare din cauza vântului puternic de pe faleză.",
+                "en": "Visit the castle in the day's last light for spectacular photos; gloves are necessary due to the strong winds blowing along the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Ladies' Beach",
+                "hu": "Ladies' Beach",
+                "ro": "Ladies' Beach",
+                "en": "Ladies' Beach"
+              },
+              "tip_5lang": {
+                "de": "Die leere Winterlandschaft am Strand ist atemberaubend schön; achten Sie auf glatte Steine am Ufer und tragen Sie warme Schichten.",
+                "hu": "Az üres téli táj a tengerparton lélegzetelállítóan szép; ügyeljen a jeges kövekre a parton, és öltözzön rétegesen a hideg ellen.",
+                "ro": "Peisajul pustiu de iarnă de pe plajă este de o frumusețe rară; atenție la pietrele înghețate de pe mal și purtați haine groase.",
+                "en": "The empty winter landscape on the beach is breathtakingly beautiful; watch for icy stones on the shore and dress in warm layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Men's Beach",
+                "hu": "Men's Beach",
+                "ro": "Men's Beach",
+                "en": "Men's Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frühen Sonnenuntergang über dem Atlantik direkt vom Strand; da es nach 17:00 Uhr dunkel wird, Taschenlampe mitnehmen.",
+                "hu": "Élvezze a korai naplementét az Atlanti-óceán felett közvetlenül a partról; mivel 17:00 után sötétedik, vigyen magával zseblámpát.",
+                "ro": "Bucurați-vă de apusul timpuriu peste Atlantic direct de pe plajă; deoarece se întunecă după ora 17:00, luați o lanternă cu voi.",
+                "en": "Enjoy the early sunset over the Atlantic directly from the beach; as it gets dark after 5:00 PM, bring a flashlight for the way back."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpáros nap a történelmi Dookeenee kastélynál kezdődik, majd felfedezi a sziklák alatti rejtett Nuns' Beach öblöt. Dél körül a Ballybunion kastélyhoz teker, és élvezi a friss szellőt, mielőtt rövid pihenőt tartana a Saint John's templomnál. A délután a kulturális Tinteán Színházhoz vezeti, ahol többet megtudhat a régióról. Az este végül a Men's Beach partján ér véget, ahol felteheti a lábát és pihenhet a hosszú nap után.",
         "ro": "Ziua pe bicicletă începe la istoricul Castel Dookeenee înainte de a descoperi ascunsa Nuns' Beach sub stânci. În jurul prânzului, pedalați către Castelul Ballybunion și vă bucurați de briza proaspătă înainte de o scurtă pauză la biserica Saint John's. După-amiaza vă duce la culturalul Teatru Tinteán, unde puteți afla mai multe despre regiune. Seara se încheie în cele din urmă la Men's Beach, unde vă puteți relaxa picioarele după o zi activă.",
         "en": "Your cycling day starts at the historic Dookeenee Castle before discovering the hidden Nuns' Beach nestled beneath the steep cliffs. Around midday, you will pedal towards Ballybunion Castle to enjoy the fresh breeze, followed by a short break at Saint John's church. The afternoon takes you to the cultural Tinteán Theatre to learn more about the vibrant local arts. The evening finally concludes at Men's Beach, allowing you to relax after an active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Dookeenee Castle, da die Wege rutschig sein können. Mittags radeln Sie entlang der Küste, wobei Regenkleidung unerlässlich ist. Nachmittags suchen Sie Schutz in der Kirche und im Theater, um sich abzutrocknen. Der Tag endet am Men's Beach, wo Sie die Kraft der Natur spüren, während Sie durch die Pfützen zurück in den Ort fahren.",
+            "hu": "Induljon óvatosan a Dookeenee Castle-től, mivel az utak csúszósak lehetnek. Délben a parton biciklizzen, ahol a vízálló öltözet elengedhetetlen. Délután keressen menedéket a templomban és a színházban, hogy megszárítkozzon. A nap a Men's Beach-nél zárul, ahol érezheti a természet erejét, miközben a tócsákon át visszakerekezik a városba.",
+            "ro": "Porniți cu atenție de la Castelul Dookeenee, deoarece drumurile pot fi alunecoase. La prânz, pedalați de-a lungul coastei, unde hainele impermeabile sunt esențiale. După-amiaza, căutați adăpost în biserică și teatru pentru a vă usca. Ziua se încheie la Men's Beach, unde simțiți forța naturii în timp ce pedalați prin bălți înapoi spre oraș.",
+            "en": "Start carefully at Dookeenee Castle, as the paths can be slippery. At noon, cycle along the coast where waterproof gear is essential. In the afternoon, seek shelter in the church and theatre to dry off. The day ends at Men's Beach, where you can feel nature's power while cycling back through the puddles to the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dookeenee Castle",
+                "hu": "Dookeenee Castle",
+                "ro": "Dookeenee Castle",
+                "en": "Dookeenee Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine ist oft nebelverhangen; bremsen Sie auf den grasbewachsenen Wegen frühzeitig ab, um ein Wegrutschen im Regen zu vermeiden.",
+                "hu": "A várrom gyakran ködbe vész; a füves utakon fékezzen időben, hogy elkerülje a megcsúszást az esős időben való kerékpározáskor.",
+                "ro": "Ruinele castelului sunt adesea acoperite de ceață; frânați din timp pe potecile cu iarbă pentru a evita alunecarea pe timp de ploaie.",
+                "en": "The castle ruins are often shrouded in mist; brake early on the grassy paths to avoid slipping while cycling in rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuns' Beach",
+                "hu": "Nuns' Beach",
+                "ro": "Nuns' Beach",
+                "en": "Nuns' Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Bucht ist bei Regen dramatisch; sichern Sie Ihr Fahrrad gut gegen den Wind und tragen Sie eine wasserfeste Kapuze.",
+                "hu": "Az öbölre nyíló kilátás esőben drámai; rögzítse jól a biciklit a szél ellen, és viseljen vízhatlan kapucnit a sziklák mentén.",
+                "ro": "Priveliștea asupra golfului este dramatică pe ploaie; asigurați bine bicicleta împotriva vântului și purtați o glugă impermeabilă.",
+                "en": "The view of the bay is dramatic in the rain; secure your bike well against the wind and wear a waterproof hood along the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballybunion Castle",
+                "hu": "Ballybunion Castle",
+                "ro": "Ballybunion Castle",
+                "en": "Ballybunion Castle"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Fotos lohnt sich trotz Regen; achten Sie auf den Untergrund beim Absteigen, da die Steine sehr glatt sein können.",
+                "hu": "Egy rövid fotómegálló esőben is megéri; figyeljen a talajra leszálláskor, mert a kövek nagyon csúszósak lehetnek a vár körül.",
+                "ro": "O scurtă oprire pentru fotografii merită chiar și pe ploaie; atenție la sol când coborâți de pe bicicletă, pietrele pot fi alunecoase.",
+                "en": "A short photo stop is worth it despite the rain; watch your footing when dismounting, as the stones can be very slick around the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint John's",
+                "hu": "Saint John's",
+                "ro": "Saint John's",
+                "en": "Saint John's"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im Schutz von Gebäuden ab und nutzen Sie die Kirche zur Aufwärmpause; innen ist es wunderbar trocken und ruhig.",
+                "hu": "Támassza le a biciklit az épületek védelmében, és használja a templomot egy pihenőre; odabent csodálatosan száraz és nyugodt az idő.",
+                "ro": "Parcați bicicleta la adăpostul clădirilor și folosiți biserica pentru o pauză; în interior este minunat de uscat și liniște.",
+                "en": "Park your bike in the shelter of nearby buildings and use the church for a drying break; it is wonderfully dry and quiet inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tinteán Theatre",
+                "hu": "Tinteán Theatre",
+                "ro": "Tinteán Theatre",
+                "en": "Tinteán Theatre"
+              },
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Regenkleidung kurz zu lüften und Kultur zu genießen; das Foyer bietet genug Platz zum Aufwärmen nach der Fahrt.",
+                "hu": "Ideális hely a vízálló ruházat átszellőztetésére és kultúrára; az előcsarnok elég tágas a felmelegedéshez a tekerés után.",
+                "ro": "Loc ideal pentru a vă aerisi hainele de ploaie și a savura cultura; foierul oferă destul spațiu pentru a vă încălzi după drum.",
+                "en": "Ideal place to air out your rain gear and enjoy some culture; the foyer offers plenty of space to warm up after your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Men's Beach",
+                "hu": "Men's Beach",
+                "ro": "Men's Beach",
+                "en": "Men's Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einem Blick auf das aufgewühlte Meer; halten Sie Schutzbleche am Rad für die Fahrt durch nasse Straßen bereit.",
+                "hu": "Zárja a túrát a felkavart tenger látványával; legyenek sárvédők a biciklin a vizes utakon való közlekedéshez az utolsó szakaszon.",
+                "ro": "Încheiați turul cu vederea mării agitate; asigurați-vă că aveți aripi la bicicletă pentru drumurile ude de pe ultima porțiune.",
+                "en": "End the tour with a view of the churning sea; ensure your bike has fenders for the ride through wet streets on the final stretch."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre winterliche Radtour früh am Dookeenee Castle, um das Tageslicht optimal zu nutzen. Die Küstenstraße bietet klare Sicht, aber der Wind ist eisig. Mittags besuchen Sie das Schloss und wärmen sich anschließend in der Stadt auf. Planen Sie Ihre Rückkehr vor 17:00 Uhr ein, da die Dämmerung schnell einsetzt und die Sicht für Radfahrer auf den schmalen Wegen erschwert.",
+            "hu": "Kezdje téli biciklitúráját korán a Dookeenee Castle-nél, hogy kihasználja a nappali fényt. A parti út tiszta kilátást kínál, de a szél jeges. Délben látogassa meg a várat, majd melegedjen fel a városban. Tervezze meg a visszatérést 17:00 előtt, mivel a szürkület gyorsan leszáll, és nehezíti a kerékpárosok látási viszonyait.",
+            "ro": "Începeți turul cu bicicleta devreme la Castelul Dookeenee pentru a profita de lumina zilei. Drumul de coastă oferă vizibilitate clară, dar vântul este înghețat. La prânz vizitați castelul, apoi încălziți-vă în oraș. Planificați întoarcerea înainte de ora 17:00, deoarece amurgul coboară rapid și îngreunează vizibilitatea.",
+            "en": "Start your winter bike tour early at Dookeenee Castle to make the most of the daylight. The coastal road offers clear views, but the wind is icy. At noon, visit the castle and then warm up in town. Plan your return before 5:00 PM, as dusk falls quickly and makes visibility difficult for cyclists on the narrow paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dookeenee Castle",
+                "hu": "Dookeenee Castle",
+                "ro": "Dookeenee Castle",
+                "en": "Dookeenee Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Burgmauern schützen kaum vor dem Winterwind; tragen Sie winddichte Kleidung und achten Sie auf gefrorene Stellen auf dem Weg.",
+                "hu": "A várfalak alig védenek a téli szél ellen; viseljen szélálló ruházatot, és figyeljen a fagyott foltokra az odavezető úton.",
+                "ro": "Zidurile castelului oferă puțină protecție contra vântului; purtați haine rezistente la vânt și atenție la porțiunile înghețate.",
+                "en": "The castle walls offer little protection from the winter wind; wear windproof clothing and watch for frozen patches on the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuns' Beach",
+                "hu": "Nuns' Beach",
+                "ro": "Nuns' Beach",
+                "en": "Nuns' Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Winterblick auf die Klippen ist kristallklar; halten Sie den Stopp kurz, um nicht auszukühlen, und tragen Sie warme Fahrradhandschuhe.",
+                "hu": "A téli kilátás a sziklákra kristálytiszta; tartsa röviden a megállót, hogy ne hűljön ki, és viseljen meleg kerékpáros kesztyűt.",
+                "ro": "Priveliștea de iarnă asupra stâncilor este extrem de clară; scurtați oprirea pentru a nu îngheța și purtați mănuși de ciclism groase.",
+                "en": "The winter view of the cliffs is crystal clear; keep the stop short to avoid getting too cold and wear warm cycling gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballybunion Castle",
+                "hu": "Ballybunion Castle",
+                "ro": "Ballybunion Castle",
+                "en": "Ballybunion Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das tiefe Sonnenlicht für dramatische Schattenwürfe an der Ruine; achten Sie auf Raureif an Ihrem geparkten Fahrrad.",
+                "hu": "Használja ki az alacsony napállást a romoknál készülő drámai fotókhoz; figyeljen a zúzmarára a leparkolt kerékpárján a vár mellett.",
+                "ro": "Profitați de soarele jos pentru umbre dramatice la ruine; atenție la chiciura care se poate forma pe bicicleta parcată lângă castel.",
+                "en": "Take advantage of the low sunlight for dramatic shadows at the ruins; watch for frost forming on your parked bike near the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint John's",
+                "hu": "Saint John's",
+                "ro": "Saint John's",
+                "en": "Saint John's"
+              },
+              "tip_5lang": {
+                "de": "Ein willkommener Ort, um den kalten Fahrtwind kurz zu vergessen; die dicken Mauern halten die schlimmste Winterkälte erfolgreich ab.",
+                "hu": "Üdvözlendő hely, ahol rövid időre elfelejtheti a hideg menetszelet; a vastag falak sikeresen távol tartják a legrosszabb téli fagyot.",
+                "ro": "Un loc binevenit pentru a uita scurt de vântul rece din timpul mersului; zidurile groase țin la distanță cel mai aprig ger de iarnă.",
+                "en": "A welcome place to briefly forget the cold headwind; the thick walls successfully keep out the worst of the winter chill inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tinteán Theatre",
+                "hu": "Tinteán Theatre",
+                "ro": "Tinteán Theatre",
+                "en": "Tinteán Theatre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Gebäude vor der letzten Etappe; prüfen Sie hier noch einmal Ihre Beleuchtung für die Fahrt in der Dämmerung.",
+                "hu": "Élvezze az épület melegét az utolsó szakasz előtt; ellenőrizze itt még egyszer a világítását a szürkületben való tekeréshez.",
+                "ro": "Bucurați-vă de căldura din clădire înainte de ultima etapă; verificați aici încă o dată luminile bicicletei pentru drumul în amurg.",
+                "en": "Enjoy the warmth of the building before the final leg; check your bike lights here once more for the ride in the gathering dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Men's Beach",
+                "hu": "Men's Beach",
+                "ro": "Men's Beach",
+                "en": "Men's Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Winterlicht fast surreal; beeilen Sie sich mit dem Rückweg, da die Temperaturen nach Sonnenuntergang rapide fallen.",
+                "hu": "A strand a téli fényben szinte szürreálisnak tűnik; siessen a visszauttal, mivel a hőmérséklet naplemente után gyorsan zuhan.",
+                "ro": "Plaja pare aproape ireală în lumina iernii; grăbiți-vă cu drumul de întoarcere, temperatura scade rapid după apusul soarelui.",
+                "en": "The beach looks almost surreal in the winter light; hurry with the return journey as temperatures drop rapidly after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autóval a napot Lislahardane történelmi maradványainál kezdi, majd továbbutazik a Lisnasplank régészeti lelőhelyre. Délben egy szórakoztató megálló várja a minigolfnál, mielőtt felfedezné a Long Strand hatalmas homokos területét. A délután a partvidéknek van szentelve, ahol meglátogatja a Ballybunion kastély impozáns romjait. A koronát a napra a félreeső Dookeenee kastély teszi fel a gyönyörű aranyszínű esti napsütésben.",
         "ro": "Cu mașina, începeți ziua la rămășițele istorice din Lislahardane și apoi continuați spre situl arheologic Lisnasplank. La amiază, vă așteaptă o oprire distractivă la Crazy Golf înainte de a explora întinderea vastă de nisip de la Long Strand. După-amiaza este dedicată coastei, unde veți vizita ruinele impunătoare ale Castelului Ballybunion. Ziua se încheie la izolatul Castel Dookeenee, scăldat în soarele auriu al serii liniștite.",
         "en": "By car, you start the day at the historical remnants of Lislahardane before driving over to the archaeological site of Lisnasplank. At midday, a fun stop at Crazy Golf awaits you before you explore the vast sandy expanse of the scenic Long Strand. The afternoon is dedicated to the coastline, where you visit the imposing ruins of Ballybunion Castle. The grand finale is the secluded Dookeenee Castle, beautifully bathed in the golden evening sunlight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres Autos, während Sie die historischen Stätten im Hinterland besuchen. Mittags führt die Fahrt zu den Aussichtspunkten an der Küste, wo Sie die Gischt vom Fenster aus bewundern können. Nachmittags erkunden Sie die Burgen, wobei Sie zwischen den Stopps im Trockenen bleiben. Der Tag endet sicher und gemütlich mit einer Panoramafahrt entlang der regennassen Straßen von Ballybunion.",
+            "hu": "Élvezze autója kényelmét, miközben meglátogatja a hátország történelmi helyszíneit. Délben az út a parti kilátókhoz vezet, ahol az ablakból csodálhatja a tengerpermetet. Délután a várakat fedezi fel, a megállók között szárazon maradva. A nap biztonságban és kényelemben ér véget egy panorámás autózással Ballybunion esőtől áztatott útjain.",
+            "ro": "Bucurați-vă de confortul mașinii în timp ce vizitați siturile istorice din hinterland. La prânz, drumul vă duce la punctele de belvedere de pe coastă, unde puteți admira marea de la fereastră. După-amiaza explorați castelele, rămânând uscat între opriri. Ziua se încheie sigur și confortabil cu o plimbare panoramică pe drumurile ude din Ballybunion.",
+            "en": "Enjoy the comfort of your car while visiting the historic sites in the hinterland. At noon, the drive leads to coastal viewpoints where you can admire the sea spray from your window. In the afternoon, explore the castles, staying dry between stops. The day ends safely and comfortably with a panoramic drive along the rain-soaked streets of Ballybunion."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lislahardane",
+                "hu": "Lislahardane",
+                "ro": "Lislahardane",
+                "en": "Lislahardane"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie diese historische Stätte kurz und nutzen Sie das Auto als Basis; halten Sie wegen der nassen Feldwege Gummistiefel bereit.",
+                "hu": "Tekintse meg ezt a történelmi helyszínt röviden, az autót bázisként használva; a vizes földutak miatt tartson gumicsizmát készenlétben.",
+                "ro": "Vizitați acest sit istoric scurt și folosiți mașina ca bază; țineți cizmele de cauciuc la îndemână pentru drumurile de pământ ude.",
+                "en": "Visit this historical site briefly using the car as a base; keep rubber boots ready in the trunk due to the wet unpaved paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisnasplank",
+                "hu": "Lisnasplank",
+                "ro": "Lisnasplank",
+                "en": "Lisnasplank"
+              },
+              "tip_5lang": {
+                "de": "Die grüne Landschaft wirkt im Regen sehr intensiv; bleiben Sie für Fotos im Wagen und achten Sie auf Pfützen in den Kurven.",
+                "hu": "A zöld táj esőben nagyon intenzívnek tűnik; maradjon a kocsiban a fotózáshoz, és ügyeljen a tócsákra a kanyarokban az úton.",
+                "ro": "Peisajul verde pare foarte intens în ploaie; rămâneți în mașină pentru fotografii și atenție la bălțile din curbele drumului.",
+                "en": "The green landscape looks very intense in the rain; stay in the car for photos and watch out for deep puddles in the bends of the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Crazy Golf",
+                "hu": "Crazy Golf",
+                "ro": "Crazy Golf",
+                "en": "Crazy Golf"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Blick auf dieses lokale Wahrzeichen vom Parkplatz aus reicht bei Regen völlig aus; ideal für einen kurzen Zwischenstopp.",
+                "hu": "Egy gyors pillantás erre a helyi nevezetességre a parkolóból esőben teljesen elegendő; ideális egy rövid köztes megállóra a túrán.",
+                "ro": "O privire rapidă asupra acestui punct de reper din parcare este suficientă pe ploaie; este ideal pentru o scurtă oprire intermediară.",
+                "en": "A quick look at this local landmark from the parking lot is quite enough in the rain; it is ideal for a brief intermediate stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Long Strand",
+                "hu": "Long Strand",
+                "ro": "Long Strand",
+                "en": "Long Strand"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie so nah wie möglich an den Strand heran, um die Wellen zu beobachten; ein Regenschirm ist für den kurzen Weg zum Wasser nötig.",
+                "hu": "Hajtson amilyen közel csak lehet a parthoz, hogy megfigyelhesse a hullámokat; egy esernyő szükséges a vízig tartó rövid sétához.",
+                "ro": "Conduceți cât mai aproape de plajă pentru a observa valurile; o umbrelă este necesară pentru scurta plimbare până la malul apei.",
+                "en": "Drive as close to the beach as possible to observe the waves; a sturdy umbrella is needed for the short walk down to the water edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballybunion Castle",
+                "hu": "Ballybunion Castle",
+                "ro": "Ballybunion Castle",
+                "en": "Ballybunion Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und sprinten Sie zur Ruine für ein schnelles Foto; die dramatischen Wolken bieten eine tolle Kulisse für das Schloss.",
+                "hu": "Parkoljon a közelben, és fusson a romokhoz egy gyors fotóért; a drámai felhők nagyszerű hátteret biztosítanak a várnak az esőben.",
+                "ro": "Parcați în apropiere și alergați la ruine pentru o poză rapidă; norii dramatici oferă un fundal superb pentru castel pe ploaie.",
+                "en": "Park nearby and dash to the ruins for a quick photo; the dramatic clouds provide a great backdrop for the castle in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Dookeenee Castle",
+                "hu": "Dookeenee Castle",
+                "ro": "Dookeenee Castle",
+                "en": "Dookeenee Castle"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag an der Burgruine, während die Regentropfen gegen das Autofenster schlagen; genießen Sie die Aussicht im warmen Wagen.",
+                "hu": "Zárja a napot a várromnál, miközben az esőcseppek az autó ablakán kopognak; élvezze a kilátást a meleg gépkocsiból kényelmesen.",
+                "ro": "Încheiați ziua la ruinele castelului în timp ce picăturile bat în geam; bucurați-vă de priveliște din mașina caldă și confortabilă.",
+                "en": "End the day at the castle ruins while raindrops tap against the car window; enjoy the view comfortably from the warm vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den PKW für eine angenehme Wintertour durch die ländliche Umgebung von Ballybunion. Die Straßen sind bei Frost gut befahrbar, bieten aber spektakuläre Ausblicke auf schneebedeckte Felder. Mittags erreichen Sie die Küste, wo Sie die frische Brise kurz genießen. Da die Sonne früh untergeht, bieten die Burgen am Nachmittag die besten Fotomotive im Winterlicht, bevor Sie gemütlich zurückfahren.",
+            "hu": "Használja autóját egy kellemes téli túrához Ballybunion vidéki környékén. Az utak fagyban is jól járhatóak, és látványos kilátást nyújtanak a déres mezőkre. Délben eléri a partot, ahol rövid időre élvezheti a friss szellőt. Mivel a nap korán nyugszik, a várak délután kínálják a legjobb fotótémákat a téli fényben, mielőtt visszatérne.",
+            "ro": "Folosiți mașina pentru un tur plăcut de iarnă prin împrejurimile rurale din Ballybunion. Drumurile sunt practicabile și oferă vederi spectaculoase asupra câmpurilor brumate. La prânz ajungeți pe coastă pentru a savura briza proaspătă. Deoarece soarele apune devreme, castelele oferă după-amiaza cele mai bune cadre în lumina iernii.",
+            "en": "Use your car for a pleasant winter tour through the rural surroundings of Ballybunion. The roads are navigable in frost and offer spectacular views of the hoar-frosted fields. At noon, you reach the coast to briefly enjoy the fresh breeze. As the sun sets early, the castles offer the best photo opportunities in the winter light during the afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lislahardane",
+                "hu": "Lislahardane",
+                "ro": "Lislahardane",
+                "en": "Lislahardane"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage wirkt im Winterfrost besonders archaisch; schalten Sie die Heizung im Wagen hoch, um sich nach der kurzen Besichtigung aufzuwärmen.",
+                "hu": "A helyszín téli fagyban különösen archaikusnak tűnik; kapcsolja fel a fűtést a kocsiban, hogy a rövid látogatás után gyorsan felmelegedjen.",
+                "ro": "Situl pare deosebit de arhaic în gerul iernii; porniți căldura în mașină la maximum pentru a vă încălzi rapid după scurta vizită.",
+                "en": "The site looks particularly archaic in the winter frost; turn up the heat in the car to warm up quickly after the short visit outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisnasplank",
+                "hu": "Lisnasplank",
+                "ro": "Lisnasplank",
+                "en": "Lisnasplank"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht über das frostige Hinterland direkt aus dem Auto; achten Sie auf den schmalen Straßen auf vereiste Stellen im Schatten.",
+                "hu": "Élvezze a tágas kilátást a fagyos hátországra közvetlenül az autóból; a keskeny utakon ügyeljen az árnyékos részeken lévő jeges foltokra.",
+                "ro": "Bucurați-vă de vederea largă asupra hinterlandului înghețat direct din mașină; atenție la porțiunile de gheață din zonele umbrite.",
+                "en": "Enjoy the expansive view over the frosty hinterland directly from the car; watch for icy patches in shaded areas on the narrow roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Crazy Golf",
+                "hu": "Crazy Golf",
+                "ro": "Crazy Golf",
+                "en": "Crazy Golf"
+              },
+              "tip_5lang": {
+                "de": "Ein bunter Farbtupfer in der sonst kargen Winterlandschaft; ideal für einen schnellen Stopp, bevor es weiter zur Küste geht.",
+                "hu": "Színes folt az egyébként kopár téli tájban; ideális egy gyors megállóra, mielőtt továbbhaladna a tengerpart irányába a túra során.",
+                "ro": "O pată de culoare în peisajul de iarnă altfel arid; este ideal pentru o oprire rapidă înainte de a continua drumul spre coastă.",
+                "en": "A splash of color in the otherwise barren winter landscape; ideal for a quick stop before continuing towards the coast on your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Long Strand",
+                "hu": "Long Strand",
+                "ro": "Long Strand",
+                "en": "Long Strand"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer und wunderschön klar; nutzen Sie den Wagen, um direkt an die Aussichtspunkte zu fahren.",
+                "hu": "A strand télen szinte néptelen és gyönyörűen tiszta; használja az autót, hogy közvetlenül a kilátópontokhoz hajtson a part mentén.",
+                "ro": "Plaja este aproape pustie iarna și de o claritate superbă; folosiți mașina pentru a merge direct la punctele de belvedere de pe mal.",
+                "en": "The beach is almost deserted in winter and beautifully clear; use the car to drive directly to the viewpoints along the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballybunion Castle",
+                "hu": "Ballybunion Castle",
+                "ro": "Ballybunion Castle",
+                "en": "Ballybunion Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Konturen der Ruine fantastisch hervor; bleiben Sie warm im Auto sitzen, bis Sie die perfekte Kameraposition finden.",
+                "hu": "A téli fény fantasztikusan kiemeli a romok kontúrjait; maradjon a meleg autóban, amíg meg nem találja a tökéletes fotózási pozíciót.",
+                "ro": "Lumina iernii scoate în evidență contururile ruinelor într-un mod fantastic; rămâneți în mașină până găsiți poziția ideală pentru poze.",
+                "en": "The winter light highlights the contours of the ruins fantastically; stay warm in the car until you find the perfect camera position."
+              }
+            },
+            {
+              "name": {
+                "de": "Dookeenee Castle",
+                "hu": "Dookeenee Castle",
+                "ro": "Dookeenee Castle",
+                "en": "Dookeenee Castle"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Winter-Sonnenuntergang bequem vom Fahrersitz aus; die Küstenstraße ist bei Dämmerung besonders stimmungsvoll.",
+                "hu": "Figyelje a korai téli naplementét kényelmesen a vezetőülésből; a parti út szürkületben különösen hangulatos és látványos az autóból.",
+                "ro": "Urmăriți apusul timpuriu de iarnă confortabil de la volan; drumul de coastă este extrem de atmosferic în amurg pe timp de iarnă.",
+                "en": "Watch the early winter sunset comfortably from the driver's seat; the coastal road is particularly atmospheric in the gathering dusk."
+              }
+            }
+          ]
+        }
       }
     }
   }

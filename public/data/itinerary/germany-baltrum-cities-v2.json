@@ -160,6 +160,196 @@
         "hu": "Sétánkat Baltrum szívében kezdjük a Nemzeti Park Házának meglátogatásával, ahol megismerkedünk az Északi-tenger természetével. Ezután az Öreg Szigeti Templomhoz sétálunk.\n\nDélben a helyi történelemnek szenteljük magunkat, és felfedezzük a Régi Vámházat, mielőtt felfrissülnénk egy közeli kávézóban.\n\nDélután folytatjuk kulturális túránkat, megcsodálva a modern evangélikus templomot és a Szent Miklós-emlékművet.\n\nA nap Willy's Utkiek kilátójánál ér véget lazítással, ahonnan élvezhetjük a csillogó tengerre nyíló pazar kilátást és a tengeri hangulatot.",
         "ro": "Ne începem plimbarea în inima insulei Baltrum vizitând Casa Parcului Național, învățând despre natura fascinantă. Apoi, ne îndreptăm spre pitoreasca Veche Biserică a Insulei.\n\nLa prânz, ne dedicăm istoriei locale explorând Vechea Casă a Vămii, înainte de a lua o pauză răcoritoare la o cafenea din apropiere.\n\nDupă-amiază, continuăm turul cultural, admirând biserica protestantă modernă și monumentul Sf. Nicolae.\n\nZiua se încheie relaxant la Willy's Utkiek, unde ne bucurăm de vederea panoramică asupra mării strălucitoare și de atmosfera maritimă.",
         "en": "We begin our stroll in the heart of Baltrum with a visit to the National Park House, learning about the fascinating North Sea nature. Afterwards, we wander to the picturesque Old Island Church, a place full of history.\n\nAt midday, we dedicate ourselves to local history by exploring the Old Customs House before taking a refreshing break at one of the nearby cafes.\n\nIn the afternoon, we continue our cultural tour, admiring the modern Protestant church and the St. Nicholas monument, both shaping the island's flair.\n\nThe day ends relaxingly at Willy's Utkiek, where we enjoy the sweeping view over the sparkling sea and fully savor Baltrum's maritime atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Nationalpark-Haus, das perfekten Schutz vor den ersten Regenschauern bietet. Mittags spazieren Sie durch den historischen Kern zu den Kirchen, wo Sie im Trockenen die Stille genießen können. Am Nachmittag führt der Weg zum Alten Zollhaus, einem idealen Indoor-Ziel. Der Abend klingt gemütlich aus, während der Regen sanft gegen die Fensterscheiben der Inselhäuser peitscht.",
+            "hu": "A napot a Nemzeti Park Házában kezdjük, amely tökéletes menedéket nyújt az eső elől. Délben a történelmi központ templomai között sétálunk, ahol fedett helyen élvezhetjük a csendet. Délután a Régi Vámház felé vesszük az irányt, amely kiváló beltéri program. Az este hangulatosan telik, miközben az eső kopog a szigeti házak ablakán, mi pedig szárazon pihenünk a dűnék tövében.",
+            "ro": "Începeți ziua la Casa Parcului Național, care oferă adăpost perfect împotriva ploii. La prânz, plimbați-vă printre bisericile istorice, unde vă puteți bucura de liniște la interior. După-amiaza, drumul duce spre Vechea Casă a Vămii, o destinație ideală de interior. Seara se încheie confortabil, în timp ce ploaia bate ușor în ferestrele caselor de pe insulă, oferind o atmosferă relaxantă.",
+            "en": "Start your day at the National Park House, which provides perfect shelter from the morning rain. At noon, stroll through the historic core to the churches, where you can enjoy the silence indoors. In the afternoon, head to the Old Customs House, an excellent indoor destination. The evening ends cozily as the rain taps gently against the windows of the island houses while you stay dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nationalpark-Haus",
+                "hu": "Nemzeti Park Háza",
+                "ro": "Casa Parcului Național",
+                "en": "National Park House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die interaktive Ausstellung, um trocken alles über das Wattenmeer zu lernen; vergessen Sie nicht, Ihre Regenjacke an der Garderobe abzutropfen.",
+                "hu": "Használja ki az interaktív kiállítást, hogy szárazon ismerje meg a Watt-tengert; ne felejtse el lecsöpögtetni esőkabátját a ruhatárnál a belépés előtt.",
+                "ro": "Profitați de expoziția interactivă pentru a învăța totul despre Marea Wadden la adăpost; nu uitați să lăsați pelerina de ploaie la garderobă pentru a se usca.",
+                "en": "Take advantage of the interactive exhibition to learn all about the Wadden Sea while staying dry; don't forget to shake off your raincoat at the cloakroom."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Inselkirche",
+                "hu": "Öreg Szigeti Templom",
+                "ro": "Vechea Biserică a Insulei",
+                "en": "Old Island Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Walfisch-Unterkieferknochen im Inneren, während draußen der Regen fällt; die dicken Mauern bieten hervorragenden Schutz vor Windböen.",
+                "hu": "Csodálja meg a bálna állkapocscsontokat bent, miközben kint esik; a vastag falak kiváló védelmet nyújtanak az erős széllökések ellen a látogatás alatt.",
+                "ro": "Admirați oasele de maxilar de balenă din interior în timp ce afară plouă; zidurile groase oferă o protecție excelentă împotriva rafalelor de vânt de pe mare.",
+                "en": "Admire the whale jawbones inside while it rains outside; the thick walls provide excellent protection against wind gusts during your contemplative visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Zollhaus",
+                "hu": "Régi Vámház",
+                "ro": "Vechea Casă a Vămii",
+                "en": "Old Customs House"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Inselgeschichte in diesem gemütlichen Museum; idealer Ort, um einen Schauer abzuwarten, während man historische Exponate betrachtet.",
+                "hu": "Merüljön el a sziget történelmében ebben a hangulatos múzeumban; ideális hely egy zápor kivárására, miközben a történelmi tárgyakat és fotókat böngészi.",
+                "ro": "Cufundați-vă în istoria insulei în acest muzeu primitor; locul ideal pentru a aștepta trecerea unei averse în timp ce priviți exponatele istorice.",
+                "en": "Immerse yourself in island history in this cozy museum; it is the ideal spot to wait out a rain shower while browsing through historical exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Ev. Kirche Baltrum",
+                "hu": "Evangélikus Templom",
+                "ro": "Biserica Evanghelică",
+                "en": "Protestant Church"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Architektur bietet einen hellen Rückzugsort bei grauem Himmel; achten Sie auf den rutschigen Boden im Eingangsbereich bei Nässe.",
+                "hu": "A modern építészet világos menedéket nyújt szürke égbolt esetén is; ügyeljen a bejáratnál a nedvesség miatt csúszós padlóra a belépéskor.",
+                "ro": "Arhitectura modernă oferă un refugiu luminos sub cerul gri; aveți grijă la podeaua alunecoasă de la intrare când este udă afară.",
+                "en": "The modern architecture offers a bright retreat under gray skies; watch out for the slippery floor at the entrance when it is wet outside."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Nikolaus",
+                "hu": "Szent Miklós Emlékmű",
+                "ro": "Monumentul Sf. Nicolae",
+                "en": "St. Nicholas Monument"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Innehalten am Denkmal des Schutzpatrons der Seefahrer; spannen Sie den Schirm fest auf, da der Wind hier am Monument oft zunimmt.",
+                "hu": "Egy rövid megálló a tengerészek védőszentjének emlékművénél; fogja erősen az esernyőt, mert a szél itt gyakran felerősödik az emlékmű körül.",
+                "ro": "O scurtă oprire la monumentul patronului marinarilor; țineți bine umbrela, deoarece vântul se intensifică adesea aici, lângă monument.",
+                "en": "A short pause at the monument of the patron saint of sailors; hold your umbrella firmly as the wind often picks up here around the structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Willy's Utkiek",
+                "hu": "Willy's Utkiek Kilátó",
+                "ro": "Punctul de belvedere Willy's Utkiek",
+                "en": "Willy's Utkiek Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Sicht auf die aufgewühlte Nordsee; tragen Sie festes, wasserdichtes Schuhwerk für den sandigen, jetzt matschigen Pfad.",
+                "hu": "Élvezze a drámai kilátást a felkavart Északi-tengerre; viseljen stabil, vízálló lábbelit a homokos, esőben sárossá váló ösvényen a feljutáshoz.",
+                "ro": "Bucurați-vă de vederea dramatică asupra Mării Nordului agitate; purtați încălțăminte impermeabilă pentru poteca nisipoasă care devine noroioasă.",
+                "en": "Enjoy the dramatic view of the turbulent North Sea; wear sturdy, waterproof footwear for the sandy path that becomes muddy in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die raue Schönheit Baltrums im Winterfrost. Morgens wärmen Sie sich im Nationalpark-Haus auf, bevor Sie die historischen Kirchen besuchen. Mittags bietet die Stille der Insel eine besondere Melancholie. Da die Sonne bereits gegen 16:30 Uhr sinkt, nutzen Sie das letzte Tageslicht für einen kurzen Blick aufs Meer, bevor Sie in die wohlige Wärme Ihrer Unterkunft zurückkehren.",
+            "hu": "Fedezze fel Baltrum nyers szépségét a téli fagyban. Reggel melegedjen fel a Nemzeti Park Házában, mielőtt meglátogatná a történelmi templomokat. Délben a sziget csendje különleges melankóliát áraszt. Mivel a nap már 16:30 körül lebukik, használja ki az utolsó fényeket a tengerparton, mielőtt visszatérne szállása barátságos melegébe.",
+            "ro": "Descoperiți frumusețea brută a insulei Baltrum în înghețul iernii. Dimineața, încălziți-vă la Casa Parcului Național înainte de a vizita bisericile. La prânz, liniștea insulei oferă o melancolie aparte. Deoarece soarele apune deja în jur de 16:30, folosiți ultima lumină pentru o privire spre mare înainte de a reveni la căldură.",
+            "en": "Experience the raw beauty of Baltrum in the winter frost. In the morning, warm up at the National Park House before visiting the historic churches. At noon, the island's silence offers a special melancholy. Since the sun sets around 4:30 PM, use the last daylight for a glimpse of the sea before returning to the cozy warmth of your lodging."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nationalpark-Haus",
+                "hu": "Nemzeti Park Háza",
+                "ro": "Casa Parcului Național",
+                "en": "National Park House"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich bei frostigen Temperaturen aufzuwärmen; nutzen Sie die Zeit für die ausführlichen Filme über die winterliche Tierwelt.",
+                "hu": "Tökéletes hely a felmelegedésre fagyos időben; szánjon időt a téli vadvilágról szóló részletes filmek megtekintésére a fűtött teremben.",
+                "ro": "Locul perfect pentru a vă încălzi la temperaturi de îngheț; profitați de timp pentru a viziona filmele detaliate despre fauna sălbatică în timpul iernii.",
+                "en": "The perfect place to warm up in freezing temperatures; use the time to watch detailed films about winter wildlife in the heated theater."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Inselkirche",
+                "hu": "Öreg Szigeti Templom",
+                "ro": "Vechea Biserică a Insulei",
+                "en": "Old Island Church"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Schönheit wirkt im fahlen Winterlicht besonders andächtig; ziehen Sie sich warm an, da die historische Kirche kaum beheizt wird.",
+                "hu": "Az egyszerű szépség a bágyadt téli fényben különösen áhítatos; öltözzön rétegesen, mivel a történelmi templom belső tere alig van fűtve.",
+                "ro": "Frumusețea simplă pare deosebit de pioasă în lumina palidă a iernii; îmbrăcați-vă gros, deoarece biserica istorică este puțin încălzită.",
+                "en": "The simple beauty looks particularly prayerful in the pale winter light; dress warmly as the historic church interior is barely heated."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Zollhaus",
+                "hu": "Régi Vámház",
+                "ro": "Vechea Casă a Vămii",
+                "en": "Old Customs House"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die alten Seenotrettungs-Exponate, während der Winterwind draußen pfeift; eine Thermoskanne mit Tee ist ein guter Begleiter für den Weg.",
+                "hu": "Tekintse meg a régi tengeri mentési kiállítási tárgyakat, miközben kint fütyül a téli szél; egy termosz meleg tea jó kísérő az idevezető úton.",
+                "ro": "Priviți vechile exponate de salvare pe mare în timp ce vântul de iarnă șuieră afară; un termos cu ceai cald este un companion bun pentru drum.",
+                "en": "View the old sea rescue exhibits while the winter wind whistles outside; a thermos of warm tea is a good companion for the walk here."
+              }
+            },
+            {
+              "name": {
+                "de": "Ev. Kirche Baltrum",
+                "hu": "Evangélikus Templom",
+                "ro": "Biserica Evanghelică",
+                "en": "Protestant Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick aus den Fenstern auf die karge Winterlandschaft; der Innenraum bietet eine willkommene Pause vom eiskalten Ostwind.",
+                "hu": "Élvezze az ablakokból nyíló kilátást a kopár téli tájra; a belső tér üdvözlendő szünetet nyújt a jéghideg keleti szél elől a dűnék között.",
+                "ro": "Bucurați-vă de vederea largă de la ferestre spre peisajul arid de iarnă; interiorul oferă o pauză binevenită de vântul înghețat dinspre est.",
+                "en": "Enjoy the wide view from the windows of the barren winter landscape; the interior provides a welcome break from the freezing east wind."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Nikolaus",
+                "hu": "Szent Miklós Emlékmű",
+                "ro": "Monumentul Sf. Nicolae",
+                "en": "St. Nicholas Monument"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt in der einsamen Winterstimmung fast mystisch; achten Sie auf glatte Stellen auf dem Pflaster bei möglichem Bodenfrost.",
+                "hu": "Az emlékmű a magányos téli hangulatban szinte misztikusnak tűnik; ügyeljen a burkolat sima, jeges foltjaira az esetleges talajmenti fagy miatt.",
+                "ro": "Monumentul pare aproape mistic în atmosfera solitară de iarnă; atenție la porțiunile alunecoase de pe pavaj din cauza înghețului la sol.",
+                "en": "The monument looks almost mystical in the lonely winter atmosphere; watch out for slippery patches on the pavement due to potential ground frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Willy's Utkiek",
+                "hu": "Willy's Utkiek Kilátó",
+                "ro": "Punctul de belvedere Willy's Utkiek",
+                "en": "Willy's Utkiek Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Aufenthalt für ein Winterfoto vom Meer; kehren Sie vor 17 Uhr um, da es auf den unbeleuchteten Pfaden schnell stockfinster wird.",
+                "hu": "Egy rövid, frissítő megálló egy téli tengeri fotóhoz; forduljon vissza 17 óra előtt, mert a kivilágítatlan ösvényeken gyorsan koromsötét lesz.",
+                "ro": "O oprire scurtă și revigorantă pentru o fotografie de iarnă cu marea; întoarceți-vă înainte de ora 17, căci pe potecile neiluminate se face rapid întuneric.",
+                "en": "A short, crisp stay for a winter photo of the sea; turn back before 5 PM as it gets pitch dark quickly on the unlit paths."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +550,252 @@
         "hu": "Kerékpártúránk nyugaton kezdődik a titokzatos hajóronccsal és a fókapaddal. Ezután a központba tekerünk, a Nemzeti Park Házához.\n\nDélben Baltrum történelmi kincseit fedezzük fel. Az Öreg Szigeti Templom és a Régi Vámház izgalmas bepillantást nyújt a korai lakosok életébe.\n\nEgy rövid pihenő után az evangélikus templomnál, kényelmesen kelet felé pedálozunk, hogy élvezzük a friss tengeri szellőt a Willy's Utkiek-nél.\n\nA nap fénypontja a keleti kilátódűnéhez vezető út, ahol a napot egy látványos naplementével zárjuk a szelíd dűnék felett.",
         "ro": "Turul nostru cu bicicleta începe în vest, cu epava misterioasă și bancul de foci. Apoi pedalăm spre centru, la Casa Parcului Național.\n\nLa prânz, explorăm comorile istorice ale insulei Baltrum. Vechea Biserică a Insulei și Vechea Casă a Vămii oferă perspective fascinante.\n\nDupă o scurtă oprire la biserica protestantă, pedalăm pe îndelete spre est pentru a ne bucura de briza mării la Willy's Utkiek.\n\nFinalul spectaculos este cursa spre duna de observație din est, unde lăsăm ziua să se stingă cu un apus magnific peste dune.",
         "en": "Our bike tour starts in the west with the mysterious shipwreck and the seal bank, experiencing wild nature up close. Then we ride to the center to the National Park House.\n\nAt midday, we explore Baltrum's historical treasures. The Old Island Church and the Old Customs House offer exciting insights into the lives of early islanders.\n\nAfter a short stop at the Protestant church, we pedal leisurely eastwards to enjoy the fresh sea breeze and the great view at Willy's Utkiek.\n\nThe grand finale is the ride to the observation dune in the east, where we let the day fade away with a spectacular sunset over the gentle dunes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour über Baltrum einen besonderen Reiz. Morgens geht es zum Schiffswrack, wo die Gischt mit dem Regen verschmilzt. Nutzen Sie die Museen im Dorfzentrum als strategische Pausenstationen zum Trocknen. Die asphaltierten Wege sind gut befahrbar, fordern aber Vorsicht in den Kurven. Ein Tag für echte Nordsee-Fans, die wetterfeste Kleidung zu schätzen wissen.",
+            "hu": "Az eső ellenére a kerékpáros túra Baltrumon különleges élményt nyújt. Reggel a hajóroncshoz tekerünk, ahol a tenger permete és az eső eggyé válik. Használja a falu múzeumait stratégiai pihenőpontként a szárítkozáshoz. Az aszfaltozott utak jól járhatóak, de a kanyarokban óvatosságot igényelnek. Ez a nap az igazi Északi-tenger rajongóknak szól, akiknek van vízhatlan ruhájuk.",
+            "ro": "În ciuda ploii, turul cu bicicleta pe Baltrum oferă un farmec aparte. Dimineața mergem la epavă, unde spray-ul mării se contopește cu ploaia. Folosiți muzeele din centrul satului ca puncte strategice de pauză pentru uscare. Drumurile asfaltate sunt practicabile, dar necesită prudență în curbe. O zi pentru fanii adevărați ai Mării Nordului care apreciază hainele impermeabile.",
+            "en": "Despite the rain, the bike tour across Baltrum offers a special charm. In the morning, head to the shipwreck where sea spray merges with rain. Use the village museums as strategic break stations to dry off. The paved paths are easy to ride but require caution in the curves. A day for true North Sea fans who value high-quality waterproof clothing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schiffswrack Muschelsauger \"Capella\"",
+                "hu": "A \"Capella\" hajóroncs",
+                "ro": "Epava \"Capella\"",
+                "en": "Shipwreck \"Capella\""
+              },
+              "tip_5lang": {
+                "de": "Der rostige Stahl des Wracks glänzt dramatisch im Regen; achten Sie auf den schlammigen Untergrund beim Abstellen Ihres Fahrrades am Wegrand.",
+                "hu": "A roncs rozsdás acélja drámaian csillog az esőben; ügyeljen a sáros talajra, amikor a kerékpárját az út szélén leparkolja a nézelődéshez.",
+                "ro": "Oțelul ruginit al epavei strălucește dramatic în ploaie; aveți grijă la solul noroios când parcați bicicleta pe marginea drumului.",
+                "en": "The rusty steel of the wreck glistens dramatically in the rain; watch out for muddy ground when parking your bike at the path's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Seehundsbank",
+                "hu": "Fókapad",
+                "ro": "Bancul de Foci",
+                "en": "Seal Bank"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Seehunde dem Regen trotzen; ein Fernglas mit Regenschutz ist hier unerlässlich, um Details auf der Sandbank zu erkennen.",
+                "hu": "Figyelje meg, hogyan dacolnak a fókák az esővel; egy esővédővel ellátott távcső itt nélkülözhetetlen a homokpad részleteinek felfedezéséhez.",
+                "ro": "Observați cum focile înfruntă ploaia; un binoclu cu protecție împotriva ploii este indispensabil aici pentru a vedea detaliile de pe bancul de nisip.",
+                "en": "Observe how the seals brave the rain; binoculars with rain protection are essential here to see the details on the sandbank clearly."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalpark-Haus",
+                "hu": "Nemzeti Park Háza",
+                "ro": "Casa Parcului Național",
+                "en": "National Park House"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter und nutzen Sie die Ausstellung für eine längere Regenpause; die interaktiven Stationen sind ein toller Zeitvertreib.",
+                "hu": "Állítsa le a bringát a fedett tárolóba, és használja a kiállítást egy hosszabb esőszünetre; az interaktív állomások remek időtöltést kínálnak.",
+                "ro": "Parcați bicicleta la adăpost și folosiți expoziția pentru o pauză mai lungă de ploaie; stațiile interactive sunt o modalitate excelentă de relaxare.",
+                "en": "Park your bike under cover and use the exhibition for a longer rain break; the interactive stations are a great way to pass the time."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Inselkirche",
+                "hu": "Öreg Szigeti Templom",
+                "ro": "Vechea Biserică a Insulei",
+                "en": "Old Island Church"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der Stille, während das Wetter draußen tobt; wischen Sie den Sattel Ihres Rades nach dem Besuch trocken, um die Weiterfahrt zu genießen.",
+                "hu": "A csend helyszíne, miközben kint tombol az időjárás; törölje szárazra a kerékpár nyergét látogatás után a kényelmes továbbhaladás érdekében.",
+                "ro": "Un loc al liniștii în timp ce vremea se dezlănțuie afară; ștergeți șaua bicicletei după vizită pentru a vă bucura de continuarea drumului.",
+                "en": "A place of silence while the weather rages outside; wipe your bike saddle dry after the visit to enjoy the rest of your ride comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Zollhaus",
+                "hu": "Régi Vámház",
+                "ro": "Vechea Casă a Vămii",
+                "en": "Old Customs House"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet perfekten Schutz vor Wind und Nässe; erfahren Sie mehr über die harte Arbeit der Zöllner bei jedem Wetter in früheren Zeiten.",
+                "hu": "A múzeum tökéletes védelmet nyújt a szél és a nedvesség ellen; ismerje meg a vámosok nehéz munkáját, amit bármilyen időben végezniük kellett.",
+                "ro": "Muzeul oferă protecție perfectă împotriva vântului și umezelii; aflați mai multe despre munca grea a vameșilor în orice condiții meteorologice.",
+                "en": "The museum offers perfect protection from wind and wetness; learn more about the hard work of customs officers in all weathers in olden times."
+              }
+            },
+            {
+              "name": {
+                "de": "Ev. Kirche Baltrum",
+                "hu": "Evangélikus Templom",
+                "ro": "Biserica Evanghelică",
+                "en": "Protestant Church"
+              },
+              "tip_5lang": {
+                "de": "Ein heller, trockener Rückzugsort für Radfahrer; achten Sie auf die nassen Steinplatten auf dem Weg zur Kirche, die sehr rutschig sein können.",
+                "hu": "Világos, száraz menedék a kerékpárosoknak; ügyeljen a templomhoz vezető úton a nedves kőlapokra, amelyek kerékpárral nagyon csúszósak lehetnek.",
+                "ro": "Un refugiu luminos și uscat pentru bicicliști; aveți grijă la plăcile de piatră umede pe drumul spre biserică, pot fi foarte alunecoase.",
+                "en": "A bright, dry retreat for cyclists; watch out for the wet stone slabs on the path to the church, which can be very slippery for bikes."
+              }
+            },
+            {
+              "name": {
+                "de": "Willy's Utkiek",
+                "hu": "Willy's Utkiek Kilátó",
+                "ro": "Punctul de belvedere Willy's Utkiek",
+                "en": "Willy's Utkiek Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp für einen Blick auf die graue Nordsee; halten Sie die Bremsgriffe fest, da Nässe den Bremsweg Ihres Rades auf dem Gefälle verlängert.",
+                "hu": "Rövid megálló a szürke Északi-tenger látványáért; markolja erősen a fékeket, mert a nedvesség növeli a féktávot a lejtős részeken.",
+                "ro": "Oprire scurtă pentru o privire asupra Mării Nordului gri; țineți bine frânele, deoarece umezeala prelungește distanța de frânare pe pantă.",
+                "en": "Short stop for a view of the gray North Sea; hold your brakes firmly as wetness increases your bike's braking distance on the slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtsdüne",
+                "hu": "Kilátódűne",
+                "ro": "Duna de Observație",
+                "en": "Observation Dune"
+              },
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier oben stark bei Regen; tragen Sie eine winddichte Kapuze, um die Rundumsicht trotz des peitschenden Wassers zu genießen.",
+                "hu": "A szél itt fent erősen fütyül esőben; viseljen szélálló kapucnit, hogy élvezhesse a körpanorámát a csapkodó eső ellenére is.",
+                "ro": "Vântul suflă puternic aici sus când plouă; purtați o glugă rezistentă la vânt pentru a vă bucura de panorama circulară în ciuda ploii.",
+                "en": "The wind whistles strongly up here in the rain; wear a windproof hood to enjoy the panoramic view despite the lashing water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren auf Baltrum im Winter erfordert gute Vorbereitung gegen den eisigen Seewind. Morgens führt die Tour zu den einsamen Küstenabschnitten im Westen. Mittags wärmen Sie sich in den historischen Gebäuden des Dorfes auf. Die klare Winterluft bietet weite Sichten, doch die Kälte zieht schnell in die Glieder. Planen Sie Ihre Route so, dass Sie rechtzeitig vor Einbruch der frühen Dunkelheit um 16:30 Uhr zurück sind.",
+            "hu": "A téli kerékpározás Baltrumon alapos felkészülést igényel a jeges tengeri szél ellen. Reggel a túra a nyugati magányos partokra vezet. Délben melegedjen fel a falu történelmi épületeiben. A tiszta téli levegő messzi kilátást biztosít, de a hideg gyorsan átjárja a végtagokat. Úgy tervezze az útvonalat, hogy a korai, 16:30-as sötétedés előtt visszaérjen a központba.",
+            "ro": "Ciclismul pe Baltrum iarna necesită o pregătire bună împotriva vântului înghețat de mare. Dimineața, turul duce spre secțiunile solitare de coastă din vest. La prânz, încălziți-vă în clădirile istorice. Aerul clar de iarnă oferă vederi îndepărtate, dar frigul pătrunde repede. Planificați ruta astfel încât să vă întoarceți înainte de lăsarea întunericului, în jur de 16:30.",
+            "en": "Cycling on Baltrum in winter requires good preparation against the icy sea wind. In the morning, the tour leads to the lonely coastal sections in the west. At noon, warm up in the village's historic buildings. The clear winter air offers wide views, but the cold sets in quickly. Plan your route to be back well before the early darkness falls around 4:30 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schiffswrack Muschelsauger \"Capella\"",
+                "hu": "A \"Capella\" hajóroncs",
+                "ro": "Epava \"Capella\"",
+                "en": "Shipwreck \"Capella\""
+              },
+              "tip_5lang": {
+                "de": "Das Wrack wirkt in der kargen Winterlandschaft besonders verlassen; tragen Sie dicke Handschuhe, da die Griffe Ihres Fahrrads eiskalt werden.",
+                "hu": "A roncs a kopár téli tájban különösen elhagyatottnak tűnik; viseljen vastag kesztyűt, mert a kerékpár kormánya jéghideg lesz a menet közben.",
+                "ro": "Epava pare deosebit de părăsită în peisajul arid de iarnă; purtați mănuși groase, deoarece mânerele bicicletei devin extrem de reci.",
+                "en": "The wreck looks particularly deserted in the barren winter landscape; wear thick gloves as your bike's handlebars will become ice-cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Seehundsbank",
+                "hu": "Fókapad",
+                "ro": "Bancul de Foci",
+                "en": "Seal Bank"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind oft mehr Seehunde zu sehen, die auf dem Sand ruhen; eine Sitzunterlage für die kalte Wartebank am Aussichtspunkt ist sehr nützlich.",
+                "hu": "Télen gyakran több fóka látható a homokon pihenve; egy hőszigetelő ülőpárna a hideg kilátópadhoz nagyon hasznos a hosszabb megfigyeléshez.",
+                "ro": "Iarna pot fi văzute adesea mai multe foci odihnindu-se pe nisip; un covoraș izolator pentru banca rece de la punctul de observare este util.",
+                "en": "In winter, more seals can often be seen resting on the sand; a thermal seat pad for the cold observation bench is very useful here."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalpark-Haus",
+                "hu": "Nemzeti Park Háza",
+                "ro": "Casa Parcului Național",
+                "en": "National Park House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum, um das Gefühl in den Zehen zurückzugewinnen; die Ausstellung bietet eine faszinierende Flucht vor der Kälte.",
+                "hu": "Használja a fűtött belső teret, hogy visszanyerje az érzést a lábujjaiban; a kiállítás lenyűgöző menekülést kínál a kinti fagy elől.",
+                "ro": "Folosiți interiorul încălzit pentru a vă recăpăta simțul în degete; expoziția oferă o evadare fascinantă de frigul de afară.",
+                "en": "Use the heated interior to regain feeling in your toes; the exhibition offers a fascinating escape from the biting cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Inselkirche",
+                "hu": "Öreg Szigeti Templom",
+                "ro": "Vechea Biserică a Insulei",
+                "en": "Old Island Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Stille in der klammen Kälte des historischen Raums; lassen Sie Ihr Rad am Ständer stehen und machen Sie ein paar Aufwärmübungen.",
+                "hu": "Csodálja meg a csendet a történelmi tér nyirkos hidegében; hagyja a bringát a tárolóban, és végezzen pár bemelegítő gyakorlatot a látogatás után.",
+                "ro": "Admirați liniștea în frigul jilav al spațiului istoric; lăsați bicicleta la suport și faceți câteva exerciții de încălzire după vizită.",
+                "en": "Admire the silence in the damp cold of the historic space; leave your bike at the stand and do a few warm-up exercises after your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Zollhaus",
+                "hu": "Régi Vámház",
+                "ro": "Vechea Casă a Vămii",
+                "en": "Old Customs House"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie, wie die Insulaner früher harte Winter überlebten; das Gebäude schützt gut vor dem schneidenden Wind, der durch die Gassen zieht.",
+                "hu": "Ismerje meg, hogyan élték túl a szigetlakók régen a kemény teleket; az épület jól véd a szűk utcákon átvágó metsző szél ellen.",
+                "ro": "Aflați cum supraviețuiau localnicii iernilor grele în trecut; clădirea protejează bine de vântul tăios care suflă pe străduțe.",
+                "en": "Learn how islanders survived harsh winters in the past; the building protects well from the biting wind that cuts through the narrow alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Ev. Kirche Baltrum",
+                "hu": "Evangélikus Templom",
+                "ro": "Biserica Evanghelică",
+                "en": "Protestant Church"
+              },
+              "tip_5lang": {
+                "de": "Die großen Glasflächen lassen auch schwache Wintersonne herein; eine ideale Pause, um die Winterausrüstung für die letzte Etappe zu richten.",
+                "hu": "A nagy üvegfelületek a gyenge téli napsütést is beengedik; ideális szünet a téli felszerelés megigazítására az utolsó szakasz előtt.",
+                "ro": "Suprafețele mari de sticlă lasă să intre chiar și soarele slab de iarnă; o pauză ideală pentru a vă ajusta echipamentul de iarnă pentru ultima etapă.",
+                "en": "The large glass surfaces let in even weak winter sun; an ideal break to adjust your winter gear for the final leg of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Willy's Utkiek",
+                "hu": "Willy's Utkiek Kilátó",
+                "ro": "Punctul de belvedere Willy's Utkiek",
+                "en": "Willy's Utkiek Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Ein frostiger Blick über die winterliche See; achten Sie auf überfrierende Nässe auf der Rampe zum Aussichtspunkt beim Absteigen vom Rad.",
+                "hu": "Fagyos kilátás a téli tengerre; ügyeljen a lefagyott nedvességre a kilátóhoz vezető rámpán, amikor leszáll a kerékpárjáról.",
+                "ro": "O vedere înghețată peste marea de iarnă; atenție la umezeala care îngheață pe rampa spre punctul de belvedere când coborâți de pe bicicletă.",
+                "en": "A frosty view over the winter sea; watch out for black ice on the ramp to the viewpoint when dismounting from your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtsdüne",
+                "hu": "Kilátódűne",
+                "ro": "Duna de Observație",
+                "en": "Observation Dune"
+              },
+              "tip_5lang": {
+                "de": "Die höchste Erhebung bietet einen eiskalten Panoramablick; beeilen Sie sich mit dem Abstieg, da die Temperaturen bei Sonnenuntergang rasant fallen.",
+                "hu": "A legmagasabb pont eiskalte panorámát kínál; siessen a leereszkedéssel, mert a hőmérséklet naplemente után rohamosan zuhanni kezd.",
+                "ro": "Cel mai înalt punct oferă o panoramă înghețată; grăbiți-vă cu coborârea, deoarece temperaturile scad drastic după apusul soarelui.",
+                "en": "The highest point offers an ice-cold panoramic view; hurry with your descent as temperatures drop rapidly after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "Motoros túránk először a sziget nyugati végébe vezet, hogy nyugodtan megtekinthessük a feltűnő hajóroncsot és a lenyűgöző fókapadot.\n\nVisszatérve a főfaluba, a Nemzeti Park Házában elmerülünk a Watt-tenger ökológiájában, és meglátogatjuk a Régi Vámházat.\n\nDélután kelet felé autózunk a kilátódűne felé, ahol egy rövid kapaszkodó után lélegzetelállító panoráma jutalmazza meg a fáradozást.\n\nUtazásunkat a gondozott NTB Badestelle-nél fejezzük be, élvezve a csendes esti hangulatot és a hullámok hangját.",
         "ro": "Turul nostru motorizat ne poartă mai întâi la capătul vestic al insulei, pentru a vizita epava uimitoare și fascinantul banc de foci.\n\nÎnapoi în satul principal, ne scufundăm în ecologia Mării Wadden la Casa Parcului Național și vizităm Vechea Casă a Vămii.\n\nDupă-amiază, conducem spre est către duna de observație, unde o scurtă urcare ne răsplătește cu o vedere panoramică uluitoare.\n\nNe încheiem călătoria la plaja NTB Badestelle, bucurându-ne de atmosfera liniștită de seară și de sunetul valurilor.",
         "en": "Our motorized tour first takes us to the western end of the island to view the striking shipwreck and the fascinating seal bank in peace.\n\nBack in the main village, we dive into the ecology of the Wadden Sea at the National Park House and visit the Old Customs House.\n\nIn the afternoon, we drive east towards the observation dune, where a short climb rewards us with a breathtaking panoramic view of the entire island.\n\nWe end our journey at the well-kept NTB Badestelle, enjoying the calm evening atmosphere and the sound of the waves during a beach stroll."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Baltrum ist autofrei, daher bewegen wir uns symbolisch mit dem Inselfahrzeug oder E-Karren (für Transporte) durch den Regen. Morgens besichtigen wir das Wrack an der Küste, geschützt durch wetterfeste Verdecke. Mittags und nachmittags konzentrieren wir uns auf die Indoor-Highlights im Westdorf. Der Tag endet sicher und trocken, während wir den Blick auf die regenverhangene See aus geschützter Position genießen.",
+            "hu": "Mivel Baltrum autómentes, jelképesen szigeti szállítójárművel vagy elektromos kocsival mozgunk az esőben. Reggel a hajóroncsot nézzük meg, vízhatlan ponyva alatt. Délben és délután a nyugati falu fedett látnivalóira koncentrálunk. A nap biztonságban és szárazon ér véget, miközben védett helyről élvezzük a kilátást az eső áztatta tengerre.",
+            "ro": "Deoarece Baltrum este o insulă fără mașini, ne deplasăm simbolic cu vehiculele insulare sau cărucioarele electrice prin ploaie. Dimineața vizităm epava, protejați de prelate impermeabile. La prânz și după-amiază ne concentrăm pe atracțiile acoperite din sat. Ziua se încheie în siguranță și uscat, admirând marea plină de ploaie dintr-o poziție protejată.",
+            "en": "Since Baltrum is car-free, we symbolically move with island transport vehicles or electric carts through the rain. In the morning, we visit the wreck, protected by waterproof covers. At noon and in the afternoon, we focus on indoor highlights in the West Village. The day ends safely and dry while enjoying the view of the rain-shrouded sea from a sheltered position."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schiffswrack Muschelsauger \"Capella\"",
+                "hu": "A \"Capella\" hajóroncs",
+                "ro": "Epava \"Capella\"",
+                "en": "Shipwreck \"Capella\""
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Wrack aus der Nähe, während das Wasser an den Überresten abläuft; halten Sie Ihre Kamera unter einem Schirm für rauchige Regenfotos.",
+                "hu": "Nézze meg közelről a roncsot, miközben a víz patakokban folyik le a maradványokon; tartsa a kamerát ernyő alatt a ködös, esős fotókhoz.",
+                "ro": "Priviți epava de aproape în timp ce apa se scurge de pe resturi; țineți camera sub o umbrelă pentru fotografii de ploaie atmosferice.",
+                "en": "View the wreck up close while water streams off the remains; keep your camera under an umbrella for atmospheric, misty rain photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Seehundsbank",
+                "hu": "Fókapad",
+                "ro": "Bancul de Foci",
+                "en": "Seal Bank"
+              },
+              "tip_5lang": {
+                "de": "Die Seehunde sind bei Regen oft aktiver im Wasser; nutzen Sie das Verdeck des Fahrzeugs als Stativ für verwacklungsfreie Tierbeobachtungen.",
+                "hu": "A fókák esőben gyakran aktívabbak a vízben; használja a jármű ponyváját támasztékként a rázkódásmentes állatmegfigyeléshez és fotózáshoz.",
+                "ro": "Focile sunt adesea mai active în apă când plouă; folosiți prelata vehiculului ca suport pentru observarea animalelor fără vibrații.",
+                "en": "The seals are often more active in the water during rain; use the vehicle's cover as a steady rest for blur-free wildlife observation."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalpark-Haus",
+                "hu": "Nemzeti Park Háza",
+                "ro": "Casa Parcului Național",
+                "en": "National Park House"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss an Regentagen mit umfassenden Informationen im Trockenen; prüfen Sie die Abfahrtszeiten für den Rücktransport ins Dorfzentrum bei Starkregen.",
+                "hu": "Esős napokon kötelező program, átfogó információkkal száraz helyen; ellenőrizze a visszaindulási időpontokat heves esőzés esetén.",
+                "ro": "O vizită obligatorie în zilele ploioase, cu informații complete la adăpost; verificați orele de plecare pentru transportul înapoi în caz de ploaie torențială.",
+                "en": "A must on rainy days with comprehensive information in a dry environment; check the return transport times in case of heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Zollhaus",
+                "hu": "Régi Vámház",
+                "ro": "Vechea Casă a Vămii",
+                "en": "Old Customs House"
+              },
+              "tip_5lang": {
+                "de": "Das historische Gebäude hält auch stärkstem Küstenregen stand; nutzen Sie den Besuch, um die Kleidung vor der Weiterfahrt kurz auszuschütteln.",
+                "hu": "A történelmi épület a legerősebb tengerparti esőnek is ellenáll; használja ki a látogatást a ruházat megrázására a továbbhaladás előtt.",
+                "ro": "Clădirea istorică rezistă chiar și celei mai puternice ploi de coastă; profitați de vizită pentru a vă scutura hainele înainte de a pleca mai departe.",
+                "en": "The historic building withstands even the strongest coastal rain; use the visit to shake out your clothes before continuing the journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtsdüne",
+                "hu": "Kilátódűne",
+                "ro": "Duna de Observație",
+                "en": "Observation Dune"
+              },
+              "tip_5lang": {
+                "de": "Ein windiger Stopp mit Blick auf die grauen Wellen; achten Sie auf den Weg nach oben, der bei Nässe rutschig und von Pfützen gesäumt sein kann.",
+                "hu": "Szeles megálló, kilátással a szürke hullámokra; ügyeljen a felfelé vezető útra, amely nedvesen csúszós és tócsákkal teli lehet az eső után.",
+                "ro": "O oprire vântoasă cu vedere la valurile gri; atenție la drumul spre vârf, care poate fi alunecos și plin de bălți când este ud.",
+                "en": "A windy stop with a view of the gray waves; watch out for the path up, which can be slippery and lined with puddles when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "NTB Badestelle",
+                "hu": "NTB Strand",
+                "ro": "Plaja NTB",
+                "en": "NTB Bathing Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das faszinierende Spiel von Regentropfen auf der Meeresoberfläche; bleiben Sie für die Beobachtung in Küstennähe unter einem festen Dach.",
+                "hu": "Figyelje meg az esőcseppek lenyűgöző játékát a tenger felszínén; maradjon a parton egy szilárd tető alatt a biztonságos nézelődéshez.",
+                "ro": "Observați jocul fascinant al picăturilor de ploaie pe suprafața mării; rămâneți sub un adăpost solid pe mal pentru a privi în siguranță.",
+                "en": "Observe the fascinating play of raindrops on the sea surface; stay under a solid roof near the shore for safe observation during the storm."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter wird der Transport auf Baltrum zur logistischen Herausforderung gegen den Frost. Wir nutzen die beheizten Aufenthaltsorte im Westdorf als Ankerpunkte. Morgens besuchen wir die einsame Natur im Osten der Insel. Mittags steht die Kultur im Vordergrund, während wir uns in den Museen aufwärmen. Da die Sonne früh untergeht, beenden wir unsere Tour bereits am Nachmittag in der gemütlichen Wärme des Dorfes.",
+            "hu": "Télen a szállítás Baltrumon logisztikai kihívást jelent a fagy ellen. A nyugati falu fűtött helyszíneit használjuk bázisnak. Reggel a sziget keleti részének magányos természetét látogatjuk meg. Délben a kultúra kerül előtérbe, miközben a múzeumokban melegszünk. Mivel a nap korán nyugszik, túránkat már délután befejezzük a falu barátságos melegében.",
+            "ro": "Iarna, transportul pe Baltrum devine o provocare logistică împotriva înghețului. Folosim locurile încălzite din satul de vest ca puncte de ancorare. Dimineața vizităm natura solitară din estul insulei. La prânz, cultura este în prim-plan în timp ce ne încălzim în muzee. Deoarece soarele apune devreme, ne încheiem turul deja după-amiaza, la căldura satului.",
+            "en": "In winter, transport on Baltrum becomes a logistical challenge against the frost. We use the heated locations in the West Village as anchor points. In the morning, we visit the lonely nature in the east of the island. At noon, culture takes center stage as we warm up in the museums. Since the sun sets early, we finish our tour in the afternoon in the cozy warmth of the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schiffswrack Muschelsauger \"Capella\"",
+                "hu": "A \"Capella\" hajóroncs",
+                "ro": "Epava \"Capella\"",
+                "en": "Shipwreck \"Capella\""
+              },
+              "tip_5lang": {
+                "de": "Das Wrack ist im Winter oft von Reif überzogen und funkelt im fahlen Licht; nutzen Sie Decken im Fahrzeug, um während der Fahrt nicht auszukühlen.",
+                "hu": "A roncsot télen gyakran zúzmara fedi, és szikrázik a bágyadt fényben; használjon takarókat a járműben, hogy menet közben ne fázzon meg.",
+                "ro": "Epava este adesea acoperită de chiciură iarna și strălucește în lumina palidă; folosiți pături în vehicul pentru a nu îngheța în timpul deplasării.",
+                "en": "The wreck is often covered in frost in winter and sparkles in the pale light; use blankets in the vehicle to keep warm during the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Seehundsbank",
+                "hu": "Fókapad",
+                "ro": "Bancul de Foci",
+                "en": "Seal Bank"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Tiere im klaren, kalten Winterlicht; halten Sie die Standzeiten im Freien kurz, da der Wind hier besonders eisig weht.",
+                "hu": "Figyelje meg az állatokat a tiszta, hideg téli fényben; tartsa röviden a kint töltött időt, mert a szél itt különösen jegesen fúj a tenger felől.",
+                "ro": "Observați animalele în lumina clară și rece a iernii; scurtați timpul petrecut în aer liber, deoarece vântul suflă extrem de rece aici.",
+                "en": "Observe the animals in the clear, cold winter light; keep outdoor standing times short as the wind blows particularly icy here by the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalpark-Haus",
+                "hu": "Nemzeti Park Háza",
+                "ro": "Casa Parcului Național",
+                "en": "National Park House"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme und die Ruhe fernab der Winterstürme; idealer Ort, um die Akkus Ihrer Geräte aufzuladen, die bei Kälte schneller leer werden.",
+                "hu": "Élvezze a meleget és a csendet, távol a téli viharoktól; ideális hely az eszközei feltöltésére, amelyek a hidegben gyorsabban lemerülnek.",
+                "ro": "Bucurați-vă de căldură și liniște departe de furtunile de iarnă; locul ideal pentru a încărca bateriile dispozitivelor, care se descarcă mai repede la frig.",
+                "en": "Enjoy the warmth and silence away from winter storms; it is an ideal place to recharge device batteries, which drain faster in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Zollhaus",
+                "hu": "Régi Vámház",
+                "ro": "Vechea Casă a Vămii",
+                "en": "Old Customs House"
+              },
+              "tip_5lang": {
+                "de": "Das Museum wirkt im Winter wie eine Zeitkapsel der Gemütlichkeit; nutzen Sie den Besuch für eine ausführliche Pause im beheizten Bereich.",
+                "hu": "A múzeum télen a barátságos hangulat időkapszulájaként hat; használja ki a látogatást egy alapos pihenőre a fűtött belső térben.",
+                "ro": "Muzeul pare o capsulă a timpului plină de confort iarna; profitați de vizită pentru o pauză prelungită în zona încălzită a clădirii.",
+                "en": "The museum feels like a time capsule of coziness in winter; take advantage of the visit for an extended break in the heated area."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtsdüne",
+                "hu": "Kilátódűne",
+                "ro": "Duna de Observație",
+                "en": "Observation Dune"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Rundblick über die winterstarre Insel; achten Sie auf festen Tritt auf den möglicherweise gefrorenen Stufen zur Aussichtsplattform.",
+                "hu": "Spektakuláris körpanoráma a téli álomba merült szigetre; ügyeljen a stabil léptekre a kilátóhoz vezető, esetleg lefagyott lépcsőfokokon.",
+                "ro": "O panoramă spectaculoasă peste insula amorțită de iarnă; atenție la pașii siguri pe treptele eventual înghețate spre platformă.",
+                "en": "A spectacular panoramic view over the winter-locked island; ensure firm footing on the steps to the platform, as they may be frozen."
+              }
+            },
+            {
+              "name": {
+                "de": "NTB Badestelle",
+                "hu": "NTB Strand",
+                "ro": "Plaja NTB",
+                "en": "NTB Bathing Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort für Reflexionen über die Macht der Natur im Winter; kehren Sie rasch zum Fahrzeug zurück, bevor die frühe Dämmerung einsetzt.",
+                "hu": "Magányos hely a természet téli erején való merengéshez; térjen vissza gyorsan a járműhöz, mielőtt a korai szürkület beállna a parton.",
+                "ro": "Un loc solitar pentru reflecție asupra forței naturii iarna; reveniți rapid la vehicul înainte de lăsarea timpurie a amurgului pe plajă.",
+                "en": "A lonely spot for reflection on the power of nature in winter; return quickly to your vehicle before the early twilight sets in on the shore."
+              }
+            }
+          ]
+        }
       }
     }
   }

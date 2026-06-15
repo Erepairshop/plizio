@@ -206,6 +206,252 @@
         "hu": "A nap a csendes Settlers Parkban indul, mielőtt belevetné magát a tengerparti kalandokba a Skydive Playánál. Dél körül a Frida Kahlo Múzeum és a 3D Múzeum művészeti illúzióit fedezheti fel. Délután a lenyűgöző Aquarium Beach és a Playalingua nyelvi érdekességei várják. A nap a híres Playa Mamitas partján és a hatalmas, történelmi fa árnyékában ér véget.",
         "ro": "Ziua începe în liniștitul Parc al Colonialiștilor, înainte de a simți aventura pe plajă la Skydive Playa. Pe la prânz, vă scufundați în arta și iluziile orașului la Muzeul Frida Kahlo și Muzeul 3D. După-amiaza vă așteaptă fascinantul Aquarium Beach și descoperirile lingvistice de la Playalingua. Ziua se încheie relaxant pe Playa Mamitas și la impresionantul copac secular.",
         "en": "The day begins in the quiet Settlers Park before you get a taste of beachside adventure at Skydive Playa. Around midday, dive into art and illusions at the Frida Kahlo Museum and 3D Museum. In the afternoon, the fascinating Aquarium Beach and the linguistic discoveries at Playalingua await. The day ends relaxingly at Playa Mamitas and by the impressive ancient tree."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen im Park mit einem Regenschirm gegen tropische Schauer. Mittags bieten die Frida Kahlo und 3D-Museen einen trockenen Unterschlupf und kulturelle Erlebnisse. Am Nachmittag sind die Innenräume des Aquariums ideal, während es draußen regnet. Beenden Sie den Abend unter dem riesigen Baum, dessen dichtes Laub wie ein natürlicher Schirm vor dem Nieselregen schützt.",
+            "hu": "Kezdje a reggelt a parkban egy esernyővel a trópusi záporok ellen. Délben a Frida Kahlo és a 3D múzeumok nyújtanak száraz menedéket és kulturális élményt. Délután az akvárium belső terei ideálisak, míg odakint esik. Az estét a hatalmas fa alatt zárja, ahol a sűrű lombozat természetes ernyőként véd a szemerkélő esőben a vizes utcákon.",
+            "ro": "Începeți dimineața în parc cu o umbrelă împotriva dușurilor tropicale. La prânz, muzeele Frida Kahlo și 3D oferă adăpost uscat și experiențe culturale. După-amiaza, interioarele acvariului sunt ideale în timp ce afară plouă. Încheiați seara sub copacul uriaș, al cărui frunziș des acționează ca o umbrelă naturală împotriva burniței pe străzile ude.",
+            "en": "Start the morning in the park with an umbrella against tropical showers. At noon, the Frida Kahlo and 3D museums provide dry shelter and cultural experiences. In the afternoon, the aquarium's interior spaces are ideal while it rains outside. End the evening under the giant tree, where the dense foliage acts as a natural umbrella against the drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "settlers park",
+                "hu": "settlers park",
+                "ro": "settlers park",
+                "en": "settlers park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Luft nach dem Regen an diesem Denkmal; tragen Sie wasserfeste Sandalen, da sich in den Vertiefungen des Parks oft Pfützen bilden.",
+                "hu": "Élvezze az eső utáni friss levegőt ennél az emlékműnél; viseljen vízálló szandált, mert a park mélyedéseiben gyakran megáll a víz és tócsák alakulnak ki.",
+                "ro": "Bucurați-vă de aerul proaspăt de după ploaie la acest monument; purtați sandale impermeabile, deoarece în adânciturile parcului se formează adesea bălți.",
+                "en": "Enjoy the fresh air after the rain at this monument; wear waterproof sandals as puddles often form in the park's depressions during sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Skydive Playa",
+                "hu": "Skydive Playa",
+                "ro": "Skydive Playa",
+                "en": "Skydive Playa"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Wetter von der überdachten Terrasse aus; bei starkem Regen sind Sprünge abgesagt, aber die Atmosphäre am Flugplatz bleibt bei Gewitter spannend.",
+                "hu": "Figyelje az időjárást a fedett teraszról; heves esőben a ugrások elmaradnak, de a repülőtér hangulata viharos időben is izgalmas marad a látogatók számára.",
+                "ro": "Urmăriți vremea de pe terasa acoperită; în caz de ploaie abundentă, săriturile sunt anulate, dar atmosfera la aerodrom rămâne captivantă chiar și pe furtună.",
+                "en": "Watch the weather from the covered terrace; in heavy rain, jumps are cancelled, but the airfield atmosphere remains exciting for visitors during storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Frida Kahlo",
+                "hu": "Frida Kahlo",
+                "ro": "Frida Kahlo",
+                "en": "Frida Kahlo"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der perfekte Ort, um einen Regenschauer auszusitzen; bewundern Sie die Kunst im Trockenen und achten Sie auf die rutschigen Fliesen im Eingang.",
+                "hu": "Ez a múzeum tökéletes hely egy zápor átvészelésére; csodálja meg a művészetet szárazon, de ügyeljen a bejáratnál lévő, esőtől rendkívül csúszóssá vált csempékre.",
+                "ro": "Acest muzeu este locul perfect pentru a aștepta trecerea unei ploi; admirați arta la adăpost, dar atenție la plăcile de gresie de la intrare care devin alunecoase.",
+                "en": "This museum is the perfect place to wait out a downpour; admire the art in the dry, but watch out for the entrance tiles which become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "3D Museum",
+                "hu": "3D Museum",
+                "ro": "3D Museum",
+                "en": "3D Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp bei schlechtem Wetter; die interaktiven Bilder bieten tollen Fotospaß, während draußen der tropische Regen gegen die Scheiben peitscht.",
+                "hu": "Ideális fedett megálló rossz idő esetén; az interaktív képek remek szórakozást nyújtanak fotózáshoz, miközben odakint a trópusi eső veri az ablakokat.",
+                "ro": "O oprire interioară ideală în caz de vreme rea; imaginile interactive oferă distracție pentru fotografii în timp ce ploaia tropicală bate în ferestre afară.",
+                "en": "An ideal indoor stop for bad weather; the interactive images provide great photo fun while the tropical rain lashes against the windows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium Beach",
+                "hu": "Aquarium Beach",
+                "ro": "Aquarium Beach",
+                "en": "Aquarium Beach"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Unterwasserwelt ein, ohne nass zu werden; die überdachten Aquarien sind die beste Fluchtmöglichkeit vor dem grauen Himmel und nassen Straßen.",
+                "hu": "Merüljön el a víz alatti világban anélkül, hogy elázna; a fedett akváriumok a legjobb menekülési útvonalat kínálják a szürke égbolt és a vizes utcák elől.",
+                "ro": "Scufundați-vă în lumea subacvatică fără a vă uda; acvariile acoperite sunt cea mai bună cale de scăpare de cerul gri și străzile ude de afară.",
+                "en": "Dive into the underwater world without getting soaked; the covered aquariums offer the best escape route from the grey sky and wet streets outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Playalingua",
+                "hu": "Playalingua",
+                "ro": "Playalingua",
+                "en": "Playalingua"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine Indoor-Kulturstunde; das Sprachenzentrum bietet eine gemütliche Atmosphäre, um bei einer Tasse Kaffee dem Regen draußen zu lauschen.",
+                "hu": "Használja ki az időt egy fedett kulturális órára; a nyelvi központ barátságos légkört kínál, ahol egy kávé mellett hallgathatja a kinti eső kopogását.",
+                "ro": "Profitați de timp pentru o lecție culturală la interior; centrul lingvistic oferă o atmosferă caldă unde puteți asculta ploaia de afară la o cafea.",
+                "en": "Use the time for an indoor cultural lesson; the language center offers a friendly atmosphere where you can listen to the rain outside over a cup of coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa mamitas",
+                "hu": "Playa mamitas",
+                "ro": "Playa mamitas",
+                "en": "Playa mamitas"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen mystisch, aber suchen Sie schnell Schutz in einem Beach Club; der Wind kann am Ufer bei Gewitter plötzlich sehr stark zunehmen.",
+                "hu": "A strand misztikus látványt nyújt esőben, de keressen gyorsan menedéket egy klubban; a szél vihar idején hirtelen felerősödhet a parton és homokot hordhat.",
+                "ro": "Plaja arată mistic pe ploaie, dar căutați repede adăpost într-un club; vântul se poate intensifica brusc pe mal în timpul furtunilor tropicale de după-amiază.",
+                "en": "The beach looks mystical in the rain, but seek shelter quickly in a beach club; the wind can suddenly pick up on the shore during tropical storms."
+              }
+            },
+            {
+              "name": {
+                "de": "tree of 18m diameter",
+                "hu": "tree of 18m diameter",
+                "ro": "tree of 18m diameter",
+                "en": "tree of 18m diameter"
+              },
+              "tip_5lang": {
+                "de": "Die dichte Krone bietet kurzzeitig Schutz vor leichtem Regen; meiden Sie den Baum jedoch bei Blitzen und suchen Sie ein festes Gebäude in der Nähe auf.",
+                "hu": "A sűrű lombkorona rövid ideig védelmet nyújt a szemerkélő eső ellen; villámlás esetén azonban kerülje a fát, és keressen egy szilárd épületet a közelben.",
+                "ro": "Coroana deasă oferă protecție pe termen scurt împotriva ploii ușoare; totuși, evitați copacul în caz de fulgere și căutați o clădire solidă în apropiere.",
+                "en": "The dense canopy provides short-term protection from light rain; however, avoid the tree during lightning and find a solid building nearby for safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Playa ist mild und perfekt für einen Spaziergang im Settlers Park. Mittags genießen Sie die Museen ohne die drückende Sommerhitze. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie den Strandbesuch früh ein. Der Abend unter dem großen Baum ist angenehm kühl, aber eine leichte Jacke ist für die frische Meeresbrise nach Sonnenuntergang ratsam.",
+            "hu": "A téli reggel Playa-n enyhe és tökéletes egy sétához a Settlers Parkban. Délben élvezze a múzeumokat a nyomasztó nyári hőség nélkül. Mivel a nap 17:00 körül nyugszik, tervezze korábbra a strandlátogatást. Az este a hatalmas fa alatt kellemesen hűvös, de egy könnyű dzseki ajánlott a naplemente utáni tengeri szél miatt.",
+            "ro": "Dimineața de iarnă în Playa este blândă și perfectă pentru o plimbare în Settlers Park. La prânz, bucurați-vă de muzee fără căldura sufocantă a verii. Deoarece soarele apune în jurul orei 17:00, planificați vizita la plajă mai devreme. Seara sub copacul uriaș este plăcut răcoroasă, dar o jachetă ușoară este recomandată.",
+            "en": "Winter mornings in Playa are mild and perfect for a walk in Settlers Park. At noon, enjoy the museums without the oppressive summer heat. Since the sun sets around 5:00 PM, plan your beach visit early. The evening under the giant tree is pleasantly cool, but a light jacket is advised for the sea breeze after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "settlers park",
+                "hu": "settlers park",
+                "ro": "settlers park",
+                "en": "settlers park"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne ist im Winter sehr angenehm; nutzen Sie das weiche Licht für Fotos, bevor die Schatten am frühen Nachmittag bereits länger werden.",
+                "hu": "A reggeli napsütés télen nagyon kellemes; használja ki a lágy fényeket a fotózáshoz, mielőtt az árnyékok kora délután már észrevehetően meghosszabbodnak.",
+                "ro": "Soarele de dimineață este foarte plăcut iarna; profitați de lumina slabă pentru fotografii înainte ca umbrele să devină lungi la începutul după-amiezii.",
+                "en": "The morning sun is very pleasant in winter; use the soft light for photos before the shadows start getting noticeably longer in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Skydive Playa",
+                "hu": "Skydive Playa",
+                "ro": "Skydive Playa",
+                "en": "Skydive Playa"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet die beste Fernsicht für Springer; am Boden ist es windiger als im Sommer, also halten Sie ein Stirnband oder eine Mütze bereit.",
+                "hu": "A tiszta téli levegő kínálja a legjobb távoli kilátást az ugróknak; a földön szelesebb az idő, mint nyáron, ezért egy fejpánt vagy sapka hasznos lehet.",
+                "ro": "Aerul curat de iarnă oferă cea mai bună vizibilitate la distanță pentru săritori; la sol este mai vântos decât vara, deci pregătiți o bentiță sau o șapcă.",
+                "en": "The clear winter air offers the best long-distance visibility for jumpers; it's windier on the ground than in summer, so keep a headband or cap ready."
+              }
+            },
+            {
+              "name": {
+                "de": "Frida Kahlo",
+                "hu": "Frida Kahlo",
+                "ro": "Frida Kahlo",
+                "en": "Frida Kahlo"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es in den Ausstellungsräumen weniger stickig; genießen Sie die Farbenpracht und nehmen Sie sich Zeit, da es draußen früher dunkel wird.",
+                "hu": "Télen a kiállítótermekben kevésbé fülledt a levegő; élvezze a színek kavalkádját, és szánjon rá időt, mivel odakint korábban sötétedik a téli időszakban.",
+                "ro": "Iarna este mai puțin înăbușitor în sălile de expoziție; bucurați-vă de splendoarea culorilor și acordați-vă timp, deoarece afară se întunecă mai devreme.",
+                "en": "It's less stuffy in the exhibition rooms during winter; enjoy the riot of colors and take your time, as it gets dark earlier outside during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "3D Museum",
+                "hu": "3D Museum",
+                "ro": "3D Museum",
+                "en": "3D Museum"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen Nachmittag im Warmen; die Klimaanlage ist im Winter sanfter eingestellt, sodass Sie sich ohne Frieren auf die Illusionen konzentrieren können.",
+                "hu": "Tökéletes egy délutáni programhoz a melegben; a légkondicionáló télen enyhébbre van állítva, így fázás nélkül koncentrálhat az optikai illúziókra.",
+                "ro": "Perfect pentru o după-amiază la căldură; aerul condiționat este reglat mai blând iarna, astfel încât să vă puteți concentra pe iluzii fără să vă fie frig.",
+                "en": "Perfect for an afternoon spent in the warmth; the air conditioning is set milder in winter, so you can focus on the illusions without feeling chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium Beach",
+                "hu": "Aquarium Beach",
+                "ro": "Aquarium Beach",
+                "en": "Aquarium Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Rückzugsort vor der kühleren Meeresbrise; erkunden Sie die Meeresbewohner in einer geschützten Umgebung, bevor Sie den frühen Sonnenuntergang am Kai sehen.",
+                "hu": "Remek búvóhely a hűvösebb tengeri szél elől; fedezze fel a tengeri élőlényeket védett környezetben, mielőtt megnézné a korai naplementét a közeli mólónál.",
+                "ro": "Un refugiu excelent împotriva brizei mai reci a mării; explorați creaturile marine într-un mediu protejat înainte de a vedea apusul timpuriu la dig.",
+                "en": "A great retreat from the cooler sea breeze; explore marine life in a sheltered environment before catching the early sunset at the nearby pier."
+              }
+            },
+            {
+              "name": {
+                "de": "Playalingua",
+                "hu": "Playalingua",
+                "ro": "Playalingua",
+                "en": "Playalingua"
+              },
+              "tip_5lang": {
+                "de": "Die Wintermonate sind ideal für längere Gespräche im Innenhof; die angenehmen Temperaturen machen das Lernen von Spanisch zu einem wahren Vergnügen im Freien.",
+                "hu": "A téli hónapok ideálisak a hosszabb beszélgetésekhez a belső udvaron; a kellemes hőmérséklet igazi élménnyé teszi a spanyol nyelvtanulást a szabadban is.",
+                "ro": "Lunile de iarnă sunt ideale pentru conversații lungi în curtea interioară; temperaturile plăcute fac din învățarea spaniei o plăcere chiar și afară.",
+                "en": "The winter months are ideal for long conversations in the courtyard; the pleasant temperatures make learning Spanish a true pleasure even outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa mamitas",
+                "hu": "Playa mamitas",
+                "ro": "Playa mamitas",
+                "en": "Playa mamitas"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Sand kühler und angenehmer zum Laufen; kommen Sie spätestens um 16:30 Uhr hierher, um das goldene Licht vor dem frühen Verschwinden der Sonne zu nutzen.",
+                "hu": "Télen a homok hűvösebb és kellemesebb a sétához; érkezzen legkésőbb 16:30-ra, hogy kihasználja az arany fényeket a nap korai eltűnése előtt a horizonton.",
+                "ro": "Iarna nisipul este mai rece și mai plăcut pentru mers; veniți cel târziu la 16:30 pentru a profita de lumina aurie înainte de dispariția timpurie a soarelui.",
+                "en": "In winter the sand is cooler and more pleasant for walking; arrive by 4:30 PM at the latest to enjoy the golden light before the sun's early disappearance."
+              }
+            },
+            {
+              "name": {
+                "de": "tree of 18m diameter",
+                "hu": "tree of 18m diameter",
+                "ro": "tree of 18m diameter",
+                "en": "tree of 18m diameter"
+              },
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Ort für den Winterabend; nach 17:30 Uhr ist es bereits dunkel, bringen Sie also eine Taschenlampe mit, um die Wurzeln sicher zu umwandern.",
+                "hu": "Hangulatos hely a téli estéken; 17:30 után már sötét van, ezért vigyen magával zseblámpát, hogy biztonságosan megkerülhesse a hatalmas, szerteágazó gyökereket.",
+                "ro": "Un loc atmosferic pentru serile de iarnă; după 17:30 este deja întuneric, așa că aduceți o lanternă pentru a ocoli în siguranță rădăcinile uriașe.",
+                "en": "An atmospheric spot for winter evenings; it's already dark after 5:30 PM, so bring a flashlight to safely navigate around the huge, spreading roots."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -406,6 +652,252 @@
         "hu": "A kerékpártúra a Settlers Parkból indul, és gyorsan a Frida Kahlo Múzeum és a 3D Múzeum kulturális látnivalóihoz vezet. Délután a Playalingua felé teker, majd megcsodálja a 18 méter átmérőjű óriási fát. Az út a Residencia Art Project művészeti terébe, majd a hagyományos Casa De Las Hamacasba folytatódik. Az estét a Teatro De La Ciudad Solidaridad előadása koronázza meg.",
         "ro": "Turul cu bicicleta începe relaxant în Parcul Colonialiștilor și vă duce rapid către atracțiile culturale de la Muzeul Frida Kahlo și Muzeul 3D. După-amiaza pedalați spre Playalingua și admirați uriașul copac. Traseul continuă artistic la Residencia Art Project și vă duce la tradiționala Casa De Las Hamacas. Seara se încheie glorios cu o vizită la Teatro De La Ciudad Solidaridad.",
         "en": "Your bike tour starts leisurely in Settlers Park and quickly leads you to the cultural highlights around the Frida Kahlo Museum and 3D Museum. In the afternoon, cycle to Playalingua and admire the gigantic 18-meter diameter tree. The tour continues artistically at the Residencia Art Project and takes you to the traditional Casa De Las Hamacas. In the evening, a visit to the Teatro De La Ciudad Solidaridad crowns this eventful day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den rutschigen Straßen nahe dem Park. Vormittags bieten die Museen trockene Pausen für Radler. Achten Sie auf der Quinta Avenida besonders auf Fußgänger mit Regenschirmen. Der Nachmittag verbringen Sie in Kunstgalerien, bevor Sie die Tour am Theater beenden, wo Sie Ihr Rad im Trockenen abstellen können.",
+            "hu": "A biciklizés esőben óvatosságot igényel a park körüli csúszós utakon. Délelőtt a múzeumok száraz szünetet kínálnak a kerekezőknek. Az Ötödik Sugárúton különösen ügyeljen az esernyős gyalogosokra. A délutánt töltse művészeti galériákban, mielőtt a színháznál fejezné be a túrát, ahol fedett helyen parkolhat.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe drumurile alunecoase din jurul parcului. Dimineața, muzeele oferă pauze uscate pentru bicicliști. Pe Quinta Avenida, fiți atenți la pietonii cu umbrele. După-amiaza vizitați galerii de artă, înainte de a încheia turul la teatru, unde puteți parca la adăpost.",
+            "en": "Cycling in the rain requires caution on the slippery roads near the park. In the morning, museums offer dry breaks for riders. On Fifth Avenue, be especially careful of pedestrians with umbrellas. Spend the afternoon in art galleries before ending the tour at the theater, where you can park in a dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "settlers park",
+                "hu": "settlers park",
+                "ro": "settlers park",
+                "en": "settlers park"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie vorsichtig auf den nassen Wegen; prüfen Sie Ihre Bremsen vor der Abfahrt, da der Bodenbelag im Park bei Nässe überraschend glatt sein kann.",
+                "hu": "Induljon óvatosan a vizes utakon; ellenőrizze a fékeket indulás előtt, mivel a park burkolata nedvesen meglepően csúszóssá és veszélyessé válhat.",
+                "ro": "Porniți cu atenție pe drumurile ude; verificați frânele înainte de plecare, deoarece pavajul din parc poate deveni surprinzător de alunecos când este ud.",
+                "en": "Start carefully on the wet paths; check your brakes before setting off, as the park's pavement can become surprisingly slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Frida Kahlo",
+                "hu": "Frida Kahlo",
+                "ro": "Frida Kahlo",
+                "en": "Frida Kahlo"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab; das Museum bietet eine wunderbare Flucht vor dem Regen, während Ihre Kleidung im Eingangsbereich trocknen kann.",
+                "hu": "Parkoljon le egy védett helyen; a múzeum csodálatos menekülést kínál az eső elől, miközben a ruházata is megszáradhat egy kicsit a bejárati részen.",
+                "ro": "Parcați bicicleta într-un loc protejat; muzeul oferă o scăpare minunată de ploaie, în timp ce hainele vi se pot usca puțin în zona de la intrare.",
+                "en": "Park your bike in a sheltered spot; the museum offers a wonderful escape from the rain while your clothes can dry off a bit in the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "3D Museum",
+                "hu": "3D Museum",
+                "ro": "3D Museum",
+                "en": "3D Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den Helm abzunehmen und sich aufzuwärmen; die interaktiven Exponate lassen Sie das schlechte Wetter draußen völlig vergessen.",
+                "hu": "Tökéletes hely a bukósisak levételére és a bemelegedésre; az interaktív kiállítások segítenek teljesen elfelejteni a kinti barátságtalan, esős időjárást.",
+                "ro": "Un loc perfect pentru a vă da jos casca și a vă încălzi; exponatele interactive vă fac să uitați complet de vremea neprietenoasă și ploioasă de afară.",
+                "en": "A perfect place to take off your helmet and warm up; the interactive exhibits help you completely forget the unfriendly, rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Playalingua",
+                "hu": "Playalingua",
+                "ro": "Playalingua",
+                "en": "Playalingua"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine lange Pause vom Regen; das Zentrum ist ein ruhiger Ort zum Lernen, während die Pfützen auf der Straße vor dem Gebäude immer größer werden.",
+                "hu": "Tartson egy hosszabb szünetet az eső elől; a központ csendes hely a tanuláshoz, miközben az utcán a tócsák egyre csak növekednek az épület előtt.",
+                "ro": "Luați o pauză mai lungă de ploaie; centrul este un loc liniștit pentru studiu, în timp ce pe stradă bălțile cresc continuu în fața clădirii.",
+                "en": "Take a longer break from the rain; the center is a quiet place for study while the puddles on the street outside the building keep growing larger."
+              }
+            },
+            {
+              "name": {
+                "de": "tree of 18m diameter",
+                "hu": "tree of 18m diameter",
+                "ro": "tree of 18m diameter",
+                "en": "tree of 18m diameter"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den Matsch unter dem Baum; die Wurzeln können unter dem nassen Laub versteckt sein und Ihr Rad leicht zum Rutschen bringen.",
+                "hu": "Hajtson lassan a fa alatti sárban; a gyökerek elrejtőzhetnek a nedves levelek alatt, és könnyen megcsúsztathatják a bicikli kerekét a kanyarban.",
+                "ro": "Conduceți încet prin noroiul de sub copac; rădăcinile pot fi ascunse sub frunzele ude și pot face cu ușurință roata bicicletei să alunece în curbă.",
+                "en": "Ride slowly through the mud under the tree; roots can hide under wet leaves and easily cause your bike wheels to slide in the corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Residencia Art Project",
+                "hu": "Residencia Art Project",
+                "ro": "Residencia Art Project",
+                "en": "Residencia Art Project"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie zeitgenössische Kunst in trockener Umgebung; der industrielle Stil des Gebäudes wirkt bei grauem Regenwetter besonders authentisch und inspirierend.",
+                "hu": "Élvezze a kortárs művészetet száraz környezetben; az épület indusztriális stílusa a szürke esős időben különösen hitelesnek és inspirálónak tűnik.",
+                "ro": "Bucurați-vă de arta contemporană într-un mediu uscat; stilul industrial al clădirii pare deosebit de autentic și inspirator pe vreme gri de ploaie.",
+                "en": "Enjoy contemporary art in a dry environment; the building's industrial style feels particularly authentic and inspiring during grey rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa De Las Hamacas",
+                "hu": "La Casa De Las Hamacas",
+                "ro": "La Casa De Las Hamacas",
+                "en": "La Casa De Las Hamacas"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, überdachter Stopp, um farbenfrohe Hängematten zu sehen; ideal, um kurz Luft zu holen, bevor Sie die letzte Etappe durch den Regen antreten.",
+                "hu": "Egy rövid, fedett megálló, ahol színes függőágyakat láthat; ideális egy kis pihenőre, mielőtt megkezdené az utolsó szakaszt az esőben a cél felé.",
+                "ro": "O oprire scurtă și acoperită unde puteți vedea hamace colorate; ideal pentru o mică pauză înainte de a începe ultima etapă prin ploaie spre destinație.",
+                "en": "A short, covered stop to see colorful hammocks; ideal for a quick rest before starting the final stretch through the rain towards your goal."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro De La Ciudad Solidaridad",
+                "hu": "Teatro De La Ciudad Solidaridad",
+                "ro": "Teatro De La Ciudad Solidaridad",
+                "en": "Teatro De La Ciudad Solidaridad"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Endpunkt, um sich komplett abzutrocknen; prüfen Sie das Abendprogramm, da eine Indoor-Aufführung der beste Abschluss für einen Regentag ist.",
+                "hu": "A tökéletes végpont, ahol teljesen megszárítkozhat; nézze meg az esti programot, mivel egy fedett előadás a legjobb lezárása egy esős napnak.",
+                "ro": "Punctul final perfect unde vă puteți usca complet; verificați programul serii, deoarece un spectacol la interior este cel mai bun final pentru o zi ploioasă.",
+                "en": "The perfect end point where you can dry off completely; check the evening program as an indoor performance is the best way to end a rainy day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist die beste Zeit für Radtouren in Playa, da die Luftfeuchtigkeit niedrig ist. Starten Sie erfrischt am Settlers Park und radeln Sie entspannt zu den Museen. Genießen Sie den Nachmittag bei den Kunstprojekten, aber behalten Sie die Uhr im Auge: Nach 17:00 Uhr sinken die Temperaturen schnell. Die Tour endet am Theater, wenn die kühle Abendbrise die Stadt erfrischt.",
+            "hu": "A tél a legjobb időszak a biciklis túrákhoz Playa-n az alacsony páratartalom miatt. Induljon frissen a parkból, és tekerjen kényelmesen a múzeumokhoz. Élvezze a délutánt a művészeti projekteknél, de figyelje az időt: 17:00 után a hőmérséklet gyorsan csökken. A túra a színháznál ér véget, amikor a hűvös esti szellő felfrissíti a várost.",
+            "ro": "Iarna este cea mai bună perioadă pentru tururi cu bicicleta în Playa datorită umidității scăzute. Porniți cu forțe proaspete din parc și pedalați relaxat spre muzee. Bucurați-vă de după-amiază la proiectele de artă, dar urmăriți ora: după 17:00 temperatura scade rapid. Turul se termină la teatru când briza serii răcorește orașul.",
+            "en": "Winter is the best time for bike tours in Playa due to the low humidity. Start refreshed from the park and cycle comfortably to the museums. Enjoy the afternoon at the art projects, but keep an eye on the time: after 5:00 PM, temperatures drop quickly. The tour ends at the theater as the cool evening breeze refreshes the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "settlers park",
+                "hu": "settlers park",
+                "ro": "settlers park",
+                "en": "settlers park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die milden Temperaturen am Morgen; es ist die perfekte Zeit für eine erste Runde im Park, bevor die Wintersonne ihre volle Kraft entfaltet.",
+                "hu": "Élvezze az enyhe reggeli hőmérsékletet; ez a tökéletes időpont egy első körre a parkban, mielőtt a téli napsütés kifejtené teljes erejét a nap folyamán.",
+                "ro": "Bucurați-vă de temperaturile blânde de dimineață; este momentul perfect pentru o primă tură în parc înainte ca soarele de iarnă să-și arate întreaga forță.",
+                "en": "Enjoy the mild morning temperatures; it's the perfect time for a first lap in the park before the winter sun reaches its full strength during the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Frida Kahlo",
+                "hu": "Frida Kahlo",
+                "ro": "Frida Kahlo",
+                "en": "Frida Kahlo"
+              },
+              "tip_5lang": {
+                "de": "Radfahren macht bei dieser Kühle mehr Spaß; nutzen Sie die Energie für einen ausführlichen Museumsbesuch, bevor Sie im hellen Winterlicht weiterziehen.",
+                "hu": "A biciklizés sokkal szórakoztatóbb ebben a hűvösben; használja ki az energiáját egy alapos múzeumlátogatásra, mielőtt továbbállna a világos téli fényben.",
+                "ro": "Mersul pe bicicletă este mult mai distractiv pe acest răcoare; folosiți-vă energia pentru o vizită detaliată la muzeu înainte de a pleca mai departe în lumina iernii.",
+                "en": "Cycling is much more fun in this cool weather; use your energy for a thorough museum visit before moving on in the bright winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "3D Museum",
+                "hu": "3D Museum",
+                "ro": "3D Museum",
+                "en": "3D Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein angenehm warmer Stopp am Mittag; die Bewegung hält Sie fit, und das Museum bietet eine willkommene Pause von der direkten UV-Strahlung der Wintersonne.",
+                "hu": "Kellemesen meleg megálló délidőben; a mozgás fitten tartja, a múzeum pedig üdvözlendő szünetet kínál a téli napsütés közvetlen UV-sugárzása elől.",
+                "ro": "O oprire plăcut caldă la amiază; mișcarea vă menține în formă, iar muzeul oferă o pauză binevenită de radiațiile UV directe ale soarelui de iarnă.",
+                "en": "A pleasantly warm stop at noon; the activity keeps you fit, and the museum offers a welcome break from the direct UV radiation of the winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Playalingua",
+                "hu": "Playalingua",
+                "ro": "Playalingua",
+                "en": "Playalingua"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im Schatten und genießen Sie die kühle Brise; im Winter ist die Konzentration im Freien viel höher als in der schwülen Sommerhitze.",
+                "hu": "Parkoljon az árnyékban, és élvezze a hűvös szellőt; télen a koncentráció a szabadban sokkal magasabb, mint a nyári fülledt és tikkasztó hőségben.",
+                "ro": "Parcați bicicleta la umbră și bucurați-vă de briza răcoroasă; iarna concentrarea în aer liber este mult mai mare decât în căldura sufocantă a verii.",
+                "en": "Park your bike in the shade and enjoy the cool breeze; in winter, concentration outdoors is much higher than in the sweltering summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "tree of 18m diameter",
+                "hu": "tree of 18m diameter",
+                "ro": "tree of 18m diameter",
+                "en": "tree of 18m diameter"
+              },
+              "tip_5lang": {
+                "de": "Das Licht, das durch die Winterblätter fällt, ist magisch; planen Sie den Stopp vor 16:30 Uhr, um die Details der Rinde bei Tageslicht zu bewundern.",
+                "hu": "A téli leveleken átszűrődő fény varázslatos; tervezze a megállót 16:30 előtt, hogy nappali fénynél csodálhassa meg a kéreg apró részleteit.",
+                "ro": "Lumina care trece prin frunzele de iarnă este magică; planificați oprirea înainte de 16:30 pentru a admira detaliile scoarței la lumina zilei.",
+                "en": "The light filtering through the winter leaves is magical; plan the stop before 4:30 PM to admire the bark's details in the remaining daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Residencia Art Project",
+                "hu": "Residencia Art Project",
+                "ro": "Residencia Art Project",
+                "en": "Residencia Art Project"
+              },
+              "tip_5lang": {
+                "de": "Ein inspirierender Ort im sanften Nachmittagslicht; da es bald dämmert, wirken die Außeninstallationen im Winterlicht besonders eindrucksvoll auf Fotos.",
+                "hu": "Inspiráló hely a lágy délutáni fényben; mivel hamarosan alkonyodik, a kültéri installációk a téli fényben különösen hatásosak a készített fotókon.",
+                "ro": "Un loc plin de inspirație în lumina blândă a după-amiezii; deoarece amurgul vine repede, instalațiile exterioare par impresionante în lumina iernii.",
+                "en": "An inspiring spot in the soft afternoon light; as dusk approaches soon, the outdoor installations look particularly striking in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa De Las Hamacas",
+                "hu": "La Casa De Las Hamacas",
+                "ro": "La Casa De Las Hamacas",
+                "en": "La Casa De Las Hamacas"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie eine Hängematte für kühle Winterabende zu Hause; die Farben leuchten im tiefstehenden Sonnenlicht des späten Nachmittags besonders intensiv.",
+                "hu": "Vásároljon egy függőágyat a hűvös téli estékre; a színek a késő délutáni, alacsonyan járó napsütésben különösen intenzíven és szépen ragyognak.",
+                "ro": "Cumpărați un hamac pentru serile răcoroase de iarnă de acasă; culorile strălucesc intens în lumina soarelui de la sfârșitul după-amiezii.",
+                "en": "Buy a hammock for cool winter evenings back home; the colors glow intensely in the low-angled sunlight of the late winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro De La Ciudad Solidaridad",
+                "hu": "Teatro De La Ciudad Solidaridad",
+                "ro": "Teatro De La Ciudad Solidaridad",
+                "en": "Teatro De La Ciudad Solidaridad"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Abschluss, wenn es draußen kühl wird; ziehen Sie sich nach der Radtour etwas Warmes an, um die Abendbrise vor dem Theater zu genießen.",
+                "hu": "Pompás lezárás, amikor odakint hűvösre fordul az idő; a biciklizés után vegyen fel valami melegebbet, hogy élvezhesse az esti szellőt a színház előtt.",
+                "ro": "Un final superb când afară se răcește; după tura cu bicicleta, puneți-vă ceva mai gros pe voi pentru a vă bucura de briza serii în fața teatrului.",
+                "en": "A magnificent ending as it turns cool outside; put on something warmer after the ride to enjoy the evening breeze in front of the theater."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -583,6 +1075,223 @@
         "hu": "Az autós nap izgalmasan indul a kiterjedt Xcaret Waterparkban, ahol a természet és a víz hívogat. A felfrissülés után a kutyamentő központba indul, hogy egy jó cselekedetet vigyen véghez, amit a Casa de la Cultura kulturális benyomásai követnek. Délután ellátogat a szomszédos Teatro De La Ciudad Solidaridadba, és felfedezi a La Casa De Las Hamacas kézműves termékeit. A napot a Residencia Art Project inspiráló művészete és a 3D Múzeum lenyűgöző optikai illúziói zárják.",
         "ro": "Ziua dvs. cu mașina începe captivant în imensul Xcaret Waterpark, unde natura și apa vă atrag. După această înviorare, mergeți la Centrul de salvare a câinilor pentru o faptă bună, urmată de impresii culturale la Casa de la Cultura. După-amiaza vizitați Teatro De La Ciudad Solidaridad din apropiere și explorați artizanatul la La Casa De Las Hamacas. Ziua se încheie cu arta inspiratoare de la Residencia Art Project și iluziile optice fascinante de la Muzeul 3D.",
         "en": "Your driving day starts excitingly in the expansive Xcaret Waterpark, where nature and water beckon. After this refreshment, head to the dog rescue center to do a good deed, followed by cultural impressions at the Casa de la Cultura. In the afternoon, visit the neighboring Teatro De La Ciudad Solidaridad and explore the crafts at La Casa De Las Hamacas. The day winds down with inspiring art at the Residencia Art Project and fascinating optical illusions at the 3D Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr bester Freund gegen den tröpfelnden Regen. Xcaret macht auch bei Nässe Spaß, aber die Fahrt dorthin erfordert Konzentration. Mittags bieten das Kulturhaus und das Theater perfekte Indoor-Programme, während es draußen schüttet. Parken Sie immer in der Nähe der Eingänge, um die Wege im Regen kurz zu halten. Ein Handtuch im Kofferraum ist heute ein Muss.",
+            "hu": "Az autó ma a legjobb barátja a szemerkélő eső ellen. Xcaret vizesen is élvezhető, de az odaút koncentrációt igényel. Délben a kultúrház és a színház tökéletes fedett programokat kínál, miközben odakint ömlik az eső. Mindig parkoljon közel a bejáratokhoz, hogy rövid legyen a gyalogút az esőben. Egy törölköző a csomagtartóban ma elengedhetetlen.",
+            "ro": "Mașina este astăzi cel mai bun prieten împotriva ploii. Xcaret este plăcut și pe ploaie, dar drumul necesită concentrare. La prânz, casa de cultură și teatrul oferă programe interioare perfecte în timp ce afară toarnă. Parcați întotdeauna aproape de intrări pentru a scurta drumul prin ploaie. Un prosop în portbagaj este obligatoriu.",
+            "en": "The car is your best friend today against the drizzling rain. Xcaret is enjoyable even when wet, but the drive there requires concentration. At noon, the culture house and theater offer perfect indoor programs while it pours outside. Always park near the entrances to keep the walk in the rain short. A towel in the trunk is a must today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Xcaret Waterpark",
+                "hu": "Xcaret Waterpark",
+                "ro": "Xcaret Waterpark",
+                "en": "Xcaret Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Vieles hier ist ohnehin mit Wasser verbunden; genießen Sie die unterirdischen Flüsse, da es dort egal ist, ob es draußen regnet oder die Sonne scheint.",
+                "hu": "Itt sok minden egyébként is a vízről szól; élvezze a föld alatti folyókat, mivel ott teljesen mindegy, hogy odakint esik-e az eső vagy hétágra süt a nap.",
+                "ro": "Multe activități de aici sunt oricum legate de apă; bucurați-vă de râurile subterane, deoarece acolo nu contează dacă afară plouă sau e soare.",
+                "en": "Much of what's here is about water anyway; enjoy the underground rivers, as it doesn't matter there whether it's raining or sunny outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Dog rescue center volunteering",
+                "hu": "Dog rescue center volunteering",
+                "ro": "Dog rescue center volunteering"
+              },
+              "tip_5lang": {
+                "de": "Helfen Sie im überdachten Bereich des Tierheims; die Hunde brauchen bei Regen besonders viel Zuwendung, aber achten Sie auf schlammige Wege auf dem Gelände.",
+                "hu": "Segítsen a menhely fedett részén; a kutyáknak esőben különösen sok törődésre van szükségük, de ügyeljen a sáros utakra a telep területén belül.",
+                "ro": "Ajutați în zona acoperită a adăpostului; câinii au nevoie de multă atenție pe ploaie, dar fiți atenți la drumurile noroioase de pe terenul centrului.",
+                "en": "Help out in the covered area of the shelter; the dogs need extra care during the rain, but watch out for muddy paths on the premises while walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Zufluchtsort für Kunstliebhaber; parken Sie direkt davor, um trocken zu bleiben und die lokalen Ausstellungen in Ruhe zu genießen.",
+                "hu": "Kiváló menedék a művészetkedvelőknek; parkoljon közvetlenül az épület előtt, hogy száraz maradjon, és nyugodtan élvezhesse a helyi kiállításokat.",
+                "ro": "Un refugiu excelent pentru iubitorii de artă; parcați direct în față pentru a rămâne uscați și a vă bucura de expozițiile locale în liniște.",
+                "en": "An excellent sanctuary for art lovers; park directly in front of the building to stay dry and enjoy the local exhibitions in peace while it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro De La Ciudad Solidaridad",
+                "hu": "Teatro De La Ciudad Solidaridad",
+                "ro": "Teatro De La Ciudad Solidaridad",
+                "en": "Teatro De La Ciudad Solidaridad"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Aussteigen; das Theater bietet eine warme, trockene Atmosphäre für kulturelle Entdeckungen bei Gewitter.",
+                "hu": "Használja a fedett bejáratot a kiszálláshoz; a színház meleg és száraz légkört kínál a kulturális felfedezésekhez, miközben odakint dörög az ég.",
+                "ro": "Folosiți intrarea acoperită pentru a coborî din mașină; teatrul oferă o atmosferă caldă și uscată pentru explorări culturale pe timp de furtună.",
+                "en": "Use the covered entrance area to get out of the car; the theater offers a warm, dry atmosphere for cultural discoveries while it thunders outside."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa De Las Hamacas",
+                "hu": "La Casa De Las Hamacas",
+                "ro": "La Casa De Las Hamacas",
+                "en": "La Casa De Las Hamacas"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp, bei dem das Auto als Schutz dient; springen Sie kurz raus, um die Handwerkskunst zu bewundern, bevor Sie trocken weiterfahren.",
+                "hu": "Gyors megálló, ahol az autó szolgál védelemként; ugorjon ki egy pillanatra, hogy megcsodálja a kézműves munkákat, mielőtt szárazon továbbhajtana.",
+                "ro": "O oprire rapidă unde mașina servește drept protecție; coborâți un moment pentru a admira lucrările manuale înainte de a pleca mai departe uscați.",
+                "en": "A quick stop where the car serves as protection; hop out for a moment to admire the handiwork before driving on in the comfort of your dry vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Residencia Art Project",
+                "hu": "Residencia Art Project",
+                "ro": "Residencia Art Project",
+                "en": "Residencia Art Project"
+              },
+              "tip_5lang": {
+                "de": "Die industrielle Architektur schützt Sie perfekt vor den Wassermassen; genießen Sie die raue Ästhetik, die bei Regenwetter besonders zur Geltung kommt.",
+                "hu": "Az indusztriális építészet tökéletesen megvédi a lezúduló víztől; élvezze a nyers esztétikát, amely esős időben különösen jól érvényesül a térben.",
+                "ro": "Arhitectura industrială vă protejează perfect de ploaia torențială; bucurați-vă de estetica brută care iese în evidență pe vreme ploioasă.",
+                "en": "The industrial architecture protects you perfectly from the downpour; enjoy the raw aesthetics that stand out particularly well in rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "3D Museum",
+                "hu": "3D Museum",
+                "ro": "3D Museum",
+                "en": "3D Museum"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Abschluss, da Sie direkt im Parkhaus in der Nähe parken können; verbringen Sie den späten Nachmittag trocken zwischen den optischen Täuschungen.",
+                "hu": "Ideális zárás, mivel közvetlenül a közeli parkolóházban állhat meg; töltse a késő délutánt szárazon az optikai csalódások és illúziók között.",
+                "ro": "Finalul ideal, deoarece puteți parca direct în parcarea etajată din apropiere; petreceți sfârșitul după-amiezii la uscat printre iluziile optice.",
+                "en": "The ideal ending, as you can park directly in the nearby parking garage; spend the late afternoon dry among the optical illusions and 3D art."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten in Playa sind dank der milden Temperaturen und der klaren Sicht ein Vergnügen. Starten Sie früh bei Xcaret, um das Tageslicht voll auszunutzen. Mittags besuchen Sie das Kulturhaus und das Theater, wo es angenehm temperiert ist. Da es um 17:00 Uhr dunkel wird, genießen Sie die späten Kunstprojekte im Scheinwerferlicht oder planen Sie die Rückfahrt vor der Dämmerung ein.",
+            "hu": "A téli autózás Playa-n az enyhe hőmérsékletnek és a tiszta látási viszonyoknak köszönhetően igazi élmény. Kezdjen korán Xcaretben, hogy kihasználja a nappali fényt. Délben látogassa meg a kultúrházat és a színházat, ahol kellemes a klíma. Mivel 17:00-kor sötétedik, élvezze a késői művészeti projekteket lámpafénynél.",
+            "ro": "Condusul iarna în Playa este o plăcere datorită temperaturilor blânde și vizibilității clare. Începeți devreme la Xcaret pentru a profita de lumina zilei. La prânz, vizitați casa de cultură și teatrul, unde clima este plăcută. Deoarece se întunecă la 17:00, bucurați-vă de proiectele de artă la lumina farurilor.",
+            "en": "Winter driving in Playa is a pleasure thanks to mild temperatures and clear visibility. Start early at Xcaret to make the most of the daylight. At noon, visit the culture house and theater where the climate is pleasant. Since it gets dark at 5:00 PM, enjoy the late art projects under the streetlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Xcaret Waterpark",
+                "hu": "Xcaret Waterpark",
+                "ro": "Xcaret Waterpark",
+                "en": "Xcaret Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter angenehm temperiert; kommen Sie zur Eröffnung, um die Tiere in der milden Morgensonne zu beobachten, bevor die Massen kommen.",
+                "hu": "A víz télen is kellemes hőmérsékletű; érkezzen nyitásra, hogy a szelíd reggeli napsütésben figyelhesse meg az állatokat, mielőtt megérkezne a tömeg.",
+                "ro": "Apa are o temperatură plăcută și iarna; veniți la deschidere pentru a observa animalele în soarele blând al dimineții înainte de sosirea mulțimii.",
+                "en": "The water is a pleasant temperature even in winter; arrive at opening to observe the animals in the mild morning sun before the crowds arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Dog rescue center volunteering",
+                "hu": "Dog rescue center volunteering",
+                "ro": "Dog rescue center volunteering",
+                "en": "Dog rescue center volunteering"
+              },
+              "tip_5lang": {
+                "de": "Die Hunde sind bei den kühleren Temperaturen viel aktiver; bringen Sie eine leichte Decke als Spende mit, da die Nächte im Winter recht frisch werden können.",
+                "hu": "A kutyák a hűvösebb hőmérsékleten sokkal aktívabbak; hozzon egy könnyű takarót adományként, mivel a téli éjszakák meglehetősen hűvösek lehetnek nekik.",
+                "ro": "Câinii sunt mult mai activi la temperaturi mai scăzute; aduceți o pătură ușoară ca donație, deoarece nopțile de iarnă pot fi destul de răcoroase aici.",
+                "en": "The dogs are much more active in the cooler temperatures; bring a light blanket as a donation, as winter nights can get quite chilly for them at the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Die Klimaanlage ist im Winter oft ausgeschaltet, was für eine natürlichere Atmosphäre sorgt; genießen Sie die kulturellen Workshops in der sanften Mittagssonne.",
+                "hu": "A légkondicionáló télen gyakran ki van kapcsolva, ami természetesebb légkört teremt; élvezze a kulturális workshopokat a lágy déli napsütésben.",
+                "ro": "Aerul condiționat este adesea oprit iarna, ceea ce creează o atmosferă mai naturală; bucurați-vă de atelierele culturale în soarele blând de la amiază.",
+                "en": "The air conditioning is often turned off in winter, creating a more natural atmosphere; enjoy the cultural workshops in the soft midday sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro De La Ciudad Solidaridad",
+                "hu": "Teatro De La Ciudad Solidaridad",
+                "ro": "Teatro De La Ciudad Solidaridad",
+                "en": "Teatro De La Ciudad Solidaridad"
+              },
+              "tip_5lang": {
+                "de": "Die Nachmittagsvorstellungen sind im Winter sehr beliebt; parken Sie rechtzeitig, da das Theaterviertel bei Einbruch der frühen Dunkelheit belebter wird.",
+                "hu": "A délutáni előadások télen nagyon népszerűek; parkoljon időben, mivel a színházi negyed a korai sötétedés beálltával sokkal forgalmasabbá válik.",
+                "ro": "Spectacolele de după-amiază sunt foarte populare iarna; parcați din timp, deoarece zona teatrului devine mai aglomerată odată cu lăsarea întunericului.",
+                "en": "Afternoon performances are very popular in winter; park early as the theater district becomes much busier with the onset of early darkness in the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa De Las Hamacas",
+                "hu": "La Casa De Las Hamacas",
+                "ro": "La Casa De Las Hamacas",
+                "en": "La Casa De Las Hamacas"
+              },
+              "tip_5lang": {
+                "de": "Hängematten aus dickerer Baumwolle sind perfekt für die Wintersaison; nutzen Sie das klare Licht für die Farbauswahl, bevor die Sonne hinter den Gebäuden sinkt.",
+                "hu": "A vastagabb pamutból készült függőágyak tökéletesek a téli szezonra; használja ki a tiszta fényeket a színválasztáshoz, mielőtt a nap az épületek mögé bukna.",
+                "ro": "Hamacele din bumbac mai gros sunt perfecte pentru sezonul de iarnă; folosiți lumina clară pentru alegerea culorilor înainte ca soarele să apună.",
+                "en": "Hammocks made of thicker cotton are perfect for the winter season; use the clear light for color selection before the sun dips behind the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Residencia Art Project",
+                "hu": "Residencia Art Project",
+                "ro": "Residencia Art Project",
+                "en": "Residencia Art Project"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Licht am späten Nachmittag lässt die Kunstwerke erstrahlen; planen Sie die Anfahrt so, dass Sie die Installationen noch vor 17:00 Uhr sehen.",
+                "hu": "A késő délutáni lágy fények ragyogóvá teszik a műalkotásokat; tervezze úgy az érkezést, hogy még 17:00 előtt láthassa a kültéri installációkat.",
+                "ro": "Lumina blândă de la sfârșitul după-amiezii face operele de artă să strălucească; planificați sosirea astfel încât să vedeți instalațiile înainte de ora 17:00.",
+                "en": "The soft light of the late afternoon makes the artworks shine; plan your arrival so that you can see the outdoor installations before 5:00 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "3D Museum",
+                "hu": "3D Museum",
+                "ro": "3D Museum",
+                "en": "3D Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Abschluss des Tages im Warmen; genießen Sie die Illusionskunst, während es draußen bereits dunkel ist und die Stadtlichter von Playa angehen.",
+                "hu": "Hangulatos befejezése a napnak a melegben; élvezze az illúzióművészetet, miközben odakint már sötét van, és kigyúlnak Playa városának esti fényei.",
+                "ro": "Un final plăcut de zi la căldură; bucurați-vă de arta iluziilor în timp ce afară este deja întuneric și se aprind luminile orașului Playa.",
+                "en": "A cozy end to the day in the warmth; enjoy the art of illusion while it's already dark outside and the city lights of Playa start to twinkle."
+              }
+            }
+          ]
+        }
       }
     }
   }

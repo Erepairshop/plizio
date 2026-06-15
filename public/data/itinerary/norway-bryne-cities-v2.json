@@ -137,6 +137,168 @@
         "hu": "A bryne-i reggel a Garborgsenteret felkeresésével indul, ahol elmerülhet a norvég irodalomban. Ezután tegyen egy rövid sétát a modern Bryne kyrkje felé, amely lenyűgöző építészetével varázsolja el. A délidő a helyi művészetről szól a Jærens kunstgalleri termeiben. Kora délután csodálja meg az Andreas Bøe-samlinga lenyűgöző gyűjteményét. A nap végét egy kellemes sétával zárja a történelmi Grønhaug sírhalomnál, megérezve a múlt hangulatát.",
         "ro": "Dimineața în Bryne începe la Garborgsenteret, unde vă puteți cufunda în bogata moștenire literară norvegiană. O scurtă plimbare vă duce apoi la moderna biserică Bryne kyrkje. La prânz, explorați fascinanta scenă de artă locală la Jærens kunstgalleri. După-amiaza este dedicată colecției remarcabile de la Andreas Bøe-samlinga. Spre seară, o plimbare până la istoricul mormânt Grønhaug vă va conecta cu vremurile străvechi ale regiunii.",
         "en": "The morning in Bryne begins at the Garborgsenteret, where you can delve deep into Norway's literary history. A short walk then brings you to the striking modern architecture of Bryne kyrkje. Midday focuses on the local art scene with a visit to the charming Jærens kunstgalleri. In the afternoon, explore the impressive collection at the Andreas Bøe-samlinga. Conclude your day with a walk to the historical Grønhaug burial mound, soaking in the ancient atmosphere of the area."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt geschützt im Museum, während der Regen gegen die Fenster trommelt. Mittags bieten die Kirche und die Galerie perfekte Zufluchtsorte. Am Nachmittag tauchen wir in die lokale Kunstszene ein. Der Abend endet am Grønhaug, wo wetterfeste Kleidung für die Besichtigung der historischen Stätte unerlässlich ist, da die Wege auf dem Hügel bei Nässe rutschig sein können.",
+            "hu": "A napot egy fedett múzeumban kezdjük, miközben az eső a kopog az ablakokon. Délben a templom és a galéria nyújt tökéletes menedéket. Délután a helyi művészeti életben merülünk el. Az este a Grønhaugnál zárul, ahol a vízálló öltözet elengedhetetlen a történelmi helyszín megtekintéséhez, mivel a dombra vezető ösvények sárban csúszóssá válhatnak.",
+            "ro": "Ziua începe la adăpost în muzeu, în timp ce ploaia bate în ferestre. La prânz, biserica și galeria oferă refugii perfecte. După-amiaza ne cufundăm în scena artistică locală. Seara se încheie la Grønhaug, unde hainele impermeabile sunt esențiale pentru vizitarea sitului istoric, deoarece potecile de pe deal pot deveni alunecoase când sunt ude.",
+            "en": "The day begins sheltered in the museum while rain drums against the windows. At noon, the church and gallery provide perfect refuges. In the afternoon, we immerse ourselves in the local art scene. The evening ends at Grønhaug, where waterproof clothing is essential for visiting the historical site, as the paths on the hill can be slippery when wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Garborgsenteret",
+                "hu": "Garborgsenteret",
+                "ro": "Garborgsenteret",
+                "en": "Garborgsenteret"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die interaktiven Literatur-Ausstellungen im trockenen Innenraum; nutzen Sie die Schließfächer, um Ihre nassen Regenmäntel bequem zu verstauen.",
+                "hu": "Élvezze az interaktív irodalmi kiállításokat a száraz belső térben; használja az értékmegőrzőket, hogy kényelmesen elhelyezhesse vizes esőkabátját.",
+                "ro": "Bucurați-vă de expozițiile literare interactive în interiorul uscat; folosiți dulapurile pentru a vă depozita confortabil pelerinele de ploaie ude.",
+                "en": "Enjoy the interactive literary exhibits in the dry interior; use the lockers to conveniently store your wet raincoats while you explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Bryne kyrkje",
+                "hu": "Bryne kyrkje",
+                "ro": "Bryne kyrkje",
+                "en": "Bryne kyrkje"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche Atmosphäre zum Aufwärmen; achten Sie beim Betreten auf den steinernen Boden, der durch nasse Schuhsohlen glatt sein kann.",
+                "hu": "A templom békés légkört kínál a felmelegedéshez; belépéskor ügyeljen a kőpadlóra, amely a vizes talpú cipőktől csúszóssá válhat.",
+                "ro": "Biserica oferă o atmosferă liniștită pentru a vă încălzi; aveți grijă la podeaua de piatră la intrare, care poate fi alunecoasă de la încălțămintea udă.",
+                "en": "The church offers a peaceful atmosphere to warm up; watch out for the stone floor when entering, as it can be slippery from wet shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Jærens kunstgalleri",
+                "hu": "Jærens kunstgalleri",
+                "ro": "Jærens kunstgalleri",
+                "en": "Jærens kunstgalleri"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich von der modernen Kunst inspirieren und vergessen Sie das graue Wetter draußen; das helle Licht im Inneren hebt sofort die Stimmung.",
+                "hu": "Hagyja, hogy inspirálja a modern művészet, és felejtse el a kinti szürke időt; a belső tér világos fényei azonnal megemelik a hangulatot.",
+                "ro": "Lăsați-vă inspirat de arta modernă și uitați de vremea gri de afară; luminile strălucitoare din interior vă vor ridica imediat moralul.",
+                "en": "Let yourself be inspired by modern art and forget the gray weather outside; the bright lights inside will immediately lift your spirits."
+              }
+            },
+            {
+              "name": {
+                "de": "Andreas Bøe-samlinga",
+                "hu": "Andreas Bøe-samlinga",
+                "ro": "Andreas Bøe-samlinga",
+                "en": "Andreas Bøe-samlinga"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die farbenfrohen Werke geschützt vor den Küstenschauern; ein stabiler Regenschirm ist für den kurzen Fußweg zwischen den Gebäuden ratsam.",
+                "hu": "Csodálja meg a színes alkotásokat a tengerparti záporoktól védetten; az épületek közötti rövid sétához egy stabil esernyő ajánlott.",
+                "ro": "Admirați lucrările colorate protejați de aversele de coastă; o umbrelă stabilă este recomandată pentru scurta plimbare între clădiri.",
+                "en": "Admire the colorful works protected from the coastal showers; a sturdy umbrella is recommended for the short walk between the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Grønhaug",
+                "hu": "Grønhaug",
+                "ro": "Grønhaug",
+                "en": "Grønhaug"
+              },
+              "tip_5lang": {
+                "de": "Der Grabhügel wirkt im Regen besonders mystisch; tragen Sie festes, wasserdichtes Schuhwerk, da das Grasland rund um das Denkmal sehr weich sein kann.",
+                "hu": "A sírhalom az esőben különösen misztikusnak tűnik; viseljen erős, vízálló lábbelit, mivel az emlékmű körüli füves terület nagyon felázhat.",
+                "ro": "Tumulul pare deosebit de mistic în ploaie; purtați încălțăminte rezistentă și impermeabilă, deoarece terenul cu iarbă din jurul monumentului poate fi moale.",
+                "en": "The burial mound looks especially mystical in the rain; wear sturdy, waterproof footwear as the grassland around the monument can be very soft."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt kulturell im warmen Garborg-Zentrum. Zum Mittag wandern wir zwischen den historischen Gebäuden und genießen die klare Luft. Nachmittags wärmen wir uns in den Kunstausstellungen auf. Da die Sonne gegen 17 Uhr untergeht, besuchen wir den Grønhaug in der Dämmerung, was den alten Grabhügeln eine magische Atmosphäre verleiht.",
+            "hu": "A friss téli reggel kulturálisan indul a meleg Garborg-központban. Délben a történelmi épületek között sétálunk, élvezve a tiszta levegőt. Délután a művészeti kiállításokon melegszünk fel. Mivel a nap 17 óra körül nyugszik, a Grønhaugot szürkületben látogatjuk meg, ami varázslatos hangulatot kölcsönöz a sírhalmoknak.",
+            "ro": "O dimineață proaspătă de iarnă începe cultural în centrul cald Garborg. La prânz ne plimbăm printre clădirile istorice, bucurându-ne de aerul curat. După-amiaza ne încălzim în expozițiile de artă. Deoarece soarele apune în jur de ora 17, vizităm Grønhaug la amurg, ceea ce conferă tumulilor o atmosferă magică.",
+            "en": "A fresh winter morning begins culturally in the warm Garborg Center. At noon we walk between the historic buildings, enjoying the clear air. In the afternoon we warm up in the art exhibitions. Since the sun sets around 5 PM, we visit Grønhaug at dusk, which gives the ancient burial mounds a magical atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Garborgsenteret",
+                "hu": "Garborgsenteret",
+                "ro": "Garborgsenteret",
+                "en": "Garborgsenteret"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihren Tag in der wohligen Wärme des Zentrums; genießen Sie eine heiße Tasse Kaffee im Café, bevor Sie Ihren Rundgang durch Bryne fortsetzen.",
+                "hu": "Kezdje a napot a központ kellemes melegében; fogyasszon el egy csésze forró kávét a kávézóban, mielőtt folytatná körútját Bryne-ben.",
+                "ro": "Începeți ziua în căldura plăcută a centrului; savurați o ceașcă de cafea fierbinte la cafenea înainte de a vă continua turul prin Bryne.",
+                "en": "Start your day in the cozy warmth of the center; enjoy a hot cup of coffee at the café before continuing your tour of Bryne."
+              }
+            },
+            {
+              "name": {
+                "de": "Bryne kyrkje",
+                "hu": "Bryne kyrkje",
+                "ro": "Bryne kyrkje",
+                "en": "Bryne kyrkje"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist ein idealer Ort für eine stille Pause im Warmen; die Wintersonne fällt oft in einem wunderschönen Winkel durch die Fenster.",
+                "hu": "A templom ideális hely egy csendes, meleg pihenőhöz; a téli napsütés gyakran gyönyörű szögben esik be az ablakokon keresztül.",
+                "ro": "Biserica este un loc ideal pentru o pauză liniștită la căldură; soarele de iarnă cade adesea prin ferestre într-un unghi superb.",
+                "en": "The church is an ideal place for a quiet break in the warmth; the winter sun often streams through the windows at a beautiful angle."
+              }
+            },
+            {
+              "name": {
+                "de": "Jærens kunstgalleri",
+                "hu": "Jærens kunstgalleri",
+                "ro": "Jærens kunstgalleri",
+                "en": "Jærens kunstgalleri"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie bietet Schutz vor dem kalten Wind; planen Sie etwa 90 Minuten ein, um die Werke in aller Ruhe in der temperierten Umgebung zu betrachten.",
+                "hu": "A galéria védelmet nyújt a hideg szél ellen; tervezzen kb. 90 percet, hogy nyugodtan megtekinthesse az alkotásokat a temperált környezetben.",
+                "ro": "Galeria oferă protecție împotriva vântului rece; planificați aproximativ 90 de minute pentru a vedea lucrările pe îndelete în mediul climatizat.",
+                "en": "The gallery provides protection from the cold wind; plan for about 90 minutes to view the works at leisure in the temperature-controlled environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Andreas Bøe-samlinga",
+                "hu": "Andreas Bøe-samlinga",
+                "ro": "Andreas Bøe-samlinga",
+                "en": "Andreas Bøe-samlinga"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um sich zwischen den Spaziergängen aufzuwärmen; die lebhaften Farben der Bilder bilden einen tollen Kontrast zum Winterweiß.",
+                "hu": "Használja ki a látogatást, hogy felmelegedjen a séták között; a képek élénk színei remek kontrasztot alkotnak a téli fehérséggel.",
+                "ro": "Profitați de vizită pentru a vă încălzi între plimbări; culorile vibrante ale tablourilor oferă un contrast deosebit cu albul iernii.",
+                "en": "Take advantage of the visit to warm up between walks; the vivid colors of the paintings provide a great contrast to the winter white."
+              }
+            },
+            {
+              "name": {
+                "de": "Grønhaug",
+                "hu": "Grønhaug",
+                "ro": "Grønhaug",
+                "en": "Grønhaug"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Hügel kurz vor Sonnenuntergang für tolle Fotos; tragen Sie Thermokleidung, da es auf der Anhöhe ohne Windschutz sehr kalt werden kann.",
+                "hu": "Látogasson el a dombra röviddel naplemente előtt a remek fotókért; viseljen termoruha-réteget, mert a dombtetőn szélvédelem nélkül nagyon hideg lehet.",
+                "ro": "Vizitați dealul cu puțin timp înainte de apus pentru fotografii grozave; purtați haine termice, deoarece pe culme poate fi foarte frig fără protecție contra vântului.",
+                "en": "Visit the hill shortly before sunset for great photos; wear thermal layers, as it can get very cold on the heights without wind protection."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggelt egy kerékpártúrával kezdi a Krosshaug történelmi dombhoz, ahonnan csodás kilátás nyílik a tájra. Ezt követően felfedezi Dysjane vaskori maradványait és a közeli Grønhaug sírhalmot. Délben a központ felé veszi az irányt, hogy megtekintse az Andreas Bøe-samlinga festményeit. Miután délután megpihent a modern Bryne kyrkje mellett, a napot a Garborgsenteretben zárja, megismerve a helyi irodalmat.",
         "ro": "Dimineața pedalați către dealul istoric Krosshaug, care oferă priveliști panoramice uluitoare asupra peisajului Jæren. Continuați explorând vestigiile Epocii Fierului din Dysjane și mormântul Grønhaug. La prânz, turul vă aduce înapoi în centru pentru artă la Andreas Bøe-samlinga. După un moment de reculegere la biserica Bryne kyrkje în timpul după-amiezii, încheiați ziua învățând despre literatura norvegiană la Garborgsenteret.",
         "en": "In the morning, you will cycle to the historical Krosshaug hill, enjoying expansive views over the Jæren landscape. Next, explore the Iron Age remnants at Dysjane and the nearby Grønhaug. Midday takes you back to the city center for a dose of art at the Andreas Bøe-samlinga. After a peaceful afternoon stop at the modern Bryne kyrkje, you will end the day discovering Norwegian literature at the interactive Garborgsenteret."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz des Regens erkunden wir die historischen Hügel, wobei wir auf die rutschigen Wege achten. Mittags suchen wir Schutz in der Kunstsammlung. Der Nachmittag gehört der Literatur im Garborgsenteret. Es ist wichtig, helle Regenkleidung zu tragen, um für Autofahrer im grauen Wetter auf den Straßen gut sichtbar zu sein.",
+            "hu": "Az eső ellenére felfedezzük a történelmi halmokat, ügyelve a csúszós utakra. Délben a művészeti gyűjteményben keresünk menedéket. A délután az irodalomé a Garborgsenteretben. Fontos, hogy fényvisszaverős esőruhát viseljen, hogy a szürke időben is jól látható maradjon az autósok számára.",
+            "ro": "În ciuda ploii, explorăm movilele istorice, având grijă la drumurile alunecoase. La prânz căutăm adăpost în colecția de artă. După-amiaza aparține literaturii la Garborgsenteret. Este important să purtați haine de ploaie reflectorizante pentru a fi vizibili șoferilor în vremea gri.",
+            "en": "Despite the rain, we explore the historical mounds, being careful of the slippery paths. At noon we seek shelter in the art collection. The afternoon belongs to literature at Garborgsenteret. It is important to wear bright rain gear to remain visible to drivers in the gray weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Krosshaug",
+                "hu": "Krosshaug",
+                "ro": "Krosshaug",
+                "en": "Krosshaug"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Hügel kann bei Nässe rutschig sein; parken Sie Ihr Fahrrad sicher am Wegrand und gehen Sie das letzte Stück vorsichtig zu Fuß.",
+                "hu": "A dombra vezető út nedvesen csúszós lehet; parkolja le biciklijét biztonságosan az út szélén, és az utolsó szakaszt tegye meg óvatosan gyalog.",
+                "ro": "Urcarea spre deal poate fi alunecoasă pe timp de ploaie; parcați bicicleta în siguranță la marginea drumului și parcurgeți ultima porțiune cu grijă pe jos.",
+                "en": "The ride up the hill can be slippery when wet; park your bike safely by the roadside and walk the last stretch carefully on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Dysjane",
+                "hu": "Dysjane",
+                "ro": "Dysjane",
+                "en": "Dysjane"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände ist offen und ungeschützt; halten Sie Ihren Aufenthalt bei starkem Regen kurz und nutzen Sie wasserfeste Packtaschen für Ihre Ausrüstung.",
+                "hu": "A terep nyitott és védtelen; heves esőzéskor tartsa rövidre a látogatást, és használjon vízálló táskákat a felszerelése védelmére.",
+                "ro": "Terenul este deschis și neprotejat; în caz de ploaie torențială, scurtați vizita și folosiți genți impermeabile pentru echipamentul dumneavoastră.",
+                "en": "The terrain is open and unprotected; keep your stay short during heavy rain and use waterproof panniers to protect your equipment."
+              }
+            },
+            {
+              "name": {
+                "de": "Grønhaug",
+                "hu": "Grønhaug",
+                "ro": "Grønhaug",
+                "en": "Grønhaug"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt auf den grasbewachsenen Flächen, um den Boden zu schonen; Schutzbleche am Fahrrad verhindern Schlammspritzer auf Ihrer Kleidung.",
+                "hu": "Kerülje a kerékpározást közvetlenül a füves területeken a talaj védelme érdekében; a sárvédő használata megakadályozza a sárfelverődést a ruhájára.",
+                "ro": "Evitați mersul cu bicicleta direct pe zonele cu iarbă pentru a proteja solul; apărătorile de noroi vor preveni stropirea hainelor dumneavoastră.",
+                "en": "Avoid cycling directly on the grassy areas to protect the soil; having mudguards on your bike will prevent mud splashes on your clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Andreas Bøe-samlinga",
+                "hu": "Andreas Bøe-samlinga",
+                "ro": "Andreas Bøe-samlinga",
+                "en": "Andreas Bøe-samlinga"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der nassen Helme; das Museum ist der perfekte Ort, um die Regenjacke kurz abzutropfen.",
+                "hu": "Használja a fedett bejárati részt a vizes sisakok elhelyezésére; a múzeum tökéletes hely, hogy rövid időre levegye és lecsepegtesse az esőkabátját.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa căștile ude; muzeul este locul perfect pentru a lăsa pelerina de ploaie să se scurgă puțin.",
+                "en": "Use the covered entrance area to store wet helmets; the museum is the perfect place to let your rain jacket drip dry for a short while."
+              }
+            },
+            {
+              "name": {
+                "de": "Bryne kyrkje",
+                "hu": "Bryne kyrkje",
+                "ro": "Bryne kyrkje",
+                "en": "Bryne kyrkje"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe der Kirche gibt es Fahrradständer; ein kurzer Stopp im Inneren hilft Ihnen, sich zu sammeln, bevor Sie die Fahrt im Regen fortsetzen.",
+                "hu": "A templom közelében találhatók kerékpártárolók; egy rövid benti pihenő segít összedőlni, mielőtt folytatná az utat az esőben.",
+                "ro": "Există suporturi pentru biciclete lângă biserică; o scurtă oprire în interior vă va ajuta să vă reculegeți înainte de a continua drumul prin ploaie.",
+                "en": "There are bike racks near the church; a short stop inside will help you gather yourself before continuing your ride through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Garborgsenteret",
+                "hu": "Garborgsenteret",
+                "ro": "Garborgsenteret",
+                "en": "Garborgsenteret"
+              },
+              "tip_5lang": {
+                "de": "Das Gebäude ist modern und bietet viel Platz zum Trocknen; nutzen Sie den Besuch für eine längere Pause, bis der schlimmste Schauer vorbei ist.",
+                "hu": "Az épület modern és tágas, így bőven van hely a száradáshoz; használja ki a látogatást egy hosszabb pihenőre, amíg a legnagyobb zápor elvonul.",
+                "ro": "Clădirea este modernă și oferă mult spațiu pentru uscare; profitați de vizită pentru o pauză mai lungă până trece cea mai mare aversă.",
+                "en": "The building is modern and offers plenty of space to dry off; use the visit for a longer break until the worst of the shower has passed."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Jæren-Brise begleitet uns am Morgen zu den antiken Stätten. Mittags laden die geheizten Museen zum Verweilen ein. Am Nachmittag radeln wir zügig durch die Winterlandschaft, bevor die Dunkelheit einsetzt. Reflektoren und warme Handschuhe sind heute Ihre besten Begleiter, um die flache Küstenlandschaft auch bei Kälte sicher zu genießen.",
+            "hu": "A hűvös Jæren-szellő kísér minket reggel az ősi helyszínekhez. Délben a fűtött múzeumok hívogatnak pihenésre. Délután tempósan tekerünk át a téli tájon, mielőtt beáll a sötétség. A fényvisszaverők és a meleg kesztyűk ma a legjobb társai, hogy hidegben is biztonságosan élvezhesse a lapos part menti tájat.",
+            "ro": "Briza răcoroasă din Jæren ne însoțește dimineața către siturile antice. La prânz, muzeele încălzite vă invită la popas. După-amiaza pedalăm rapid prin peisajul de iarnă înainte de lăsarea întunericului. Reflectoarele și mănușile calde sunt astăzi cei mai buni parteneri pentru a vă bucura în siguranță de peisajul de coastă.",
+            "en": "The cool Jæren breeze accompanies us in the morning to the ancient sites. At noon, the heated museums invite you to linger. In the afternoon we cycle briskly through the winter landscape before darkness sets in. Reflectors and warm gloves are your best companions today to safely enjoy the flat coastal landscape even in the cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Krosshaug",
+                "hu": "Krosshaug",
+                "ro": "Krosshaug",
+                "en": "Krosshaug"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht bei klarer Winterluft ist fantastisch; achten Sie auf Frost auf den Steinen, die sehr glatt sein können, wenn die Temperaturen unter Null sinken.",
+                "hu": "A kilátás a tiszta téli levegőben fantasztikus; ügyeljen a köveken lévő zúzmarára, amely nagyon csúszós lehet, ha a hőmérséklet fagypont alá süllyed.",
+                "ro": "Vederea în aerul curat de iarnă este fantastică; atenție la gheața de pe pietre, care poate fi foarte alunecoasă când temperaturile scad sub zero grade.",
+                "en": "The view in the clear winter air is fantastic; watch out for frost on the stones, which can be very slippery when temperatures drop below freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Dysjane",
+                "hu": "Dysjane",
+                "ro": "Dysjane",
+                "en": "Dysjane"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine winddichte Schicht, da es auf dem freien Feld spürbar kälter ist; die gefrorenen Grabhügel wirken im Winterlicht besonders geschichtsträchtig.",
+                "hu": "Viseljen szélálló réteget, mert a nyílt terepen érezhetően hidegebb van; a fagyott sírhalmok a téli fényben különösen történelmi hangulatot árasztanak.",
+                "ro": "Purtați un strat rezistent la vânt, deoarece pe câmpul deschis este simțitor mai frig; tumulii înghețați par plini de istorie în lumina iernii.",
+                "en": "Wear a windproof layer, as it is noticeably colder in the open field; the frozen burial mounds look particularly historic in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Grønhaug",
+                "hu": "Grønhaug",
+                "ro": "Grønhaug",
+                "en": "Grønhaug"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem gut beleuchteten Ort, falls es schon dämmert; die tiefstehende Sonne sorgt für lange Schatten und tolle Fotomotive auf dem Hügel.",
+                "hu": "Parkolja le kerékpárját jól megvilágított helyen, ha már szürkül; az alacsonyan járó nap hosszú árnyékokat és remek fotótémákat teremt a dombon.",
+                "ro": "Parcați bicicleta într-un loc bine luminat dacă se lasă amurgul; soarele jos creează umbre lungi și motive fotografice deosebite pe deal.",
+                "en": "Park your bike in a well-lit spot if it's already getting dark; the low sun creates long shadows and great photo opportunities on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Andreas Bøe-samlinga",
+                "hu": "Andreas Bøe-samlinga",
+                "ro": "Andreas Bøe-samlinga",
+                "en": "Andreas Bøe-samlinga"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Fahrradschloss bei Frost nicht einfriert; die Wärme im Inneren hilft Ihren Fingern, wieder beweglich für die Weiterfahrt zu werden.",
+                "hu": "Győződjön meg róla, hogy a kerékpárzár nem fagy be; a benti meleg segít az ujjainak újra mozgékonnyá válni a folytatáshoz.",
+                "ro": "Asigurați-vă că antifurtul bicicletei nu îngheață; căldura din interior vă va ajuta degetele să devină din nou mobile pentru continuarea drumului.",
+                "en": "Make sure your bike lock doesn't freeze in the frost; the warmth inside helps your fingers become mobile again for the onward journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Bryne kyrkje",
+                "hu": "Bryne kyrkje",
+                "ro": "Bryne kyrkje",
+                "en": "Bryne kyrkje"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Moment der Stille im geheizten Kirchenschiff ist nach der kalten Fahrt sehr wohltuend; achten Sie auf gestreute Wege rund um den Eingang.",
+                "hu": "Egy rövid csendes pillanat a fűtött templomhajóban nagyon jól esik a hideg tekerés után; ügyeljen a bejárat körüli felszórt utakra.",
+                "ro": "Un scurt moment de liniște în naosul încălzit este foarte binevenit după plimbarea prin frig; atenție la căile antiderapante din jurul intrării.",
+                "en": "A brief moment of silence in the heated nave is very soothing after the cold ride; look out for gritted paths around the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Garborgsenteret",
+                "hu": "Garborgsenteret",
+                "ro": "Garborgsenteret",
+                "en": "Garborgsenteret"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss, um die Kälte endgültig zu vertreiben; prüfen Sie Ihre Beleuchtung für den Rückweg, da es im Winter in Norwegen sehr früh dunkel wird.",
+                "hu": "A tökéletes befejezés, hogy végleg elűzze a hideget; ellenőrizze a világítást a hazaúthoz, mert télen Norvégiában nagyon korán sötétedik.",
+                "ro": "Finalul perfect pentru a alunga definitiv frigul; verificați-vă luminile pentru drumul de întoarcere, deoarece se întunecă foarte devreme în Norvegia.",
+                "en": "The perfect end to finally chase away the cold; check your lights for the way back, as it gets dark very early in Norway during winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje a napot egy frissítő reggeli sétával a Linemyra természetvédelmi területen, majd látogasson el a festői Smokkevatnethez. Délben autózzon a központba, hogy felfedezze a Garborgsenteret irodalmi világát, és vesse pillantását a modern Bryne kyrkjére. Délután a Jærens kunstgalleri lenyűgöző alkotásai nyújtanak inspirációt. Az estét a régió történelmének szenteli, sorra látogatva a Grønhaug, Dysjane és végül a Krosshaug ősi emlékhelyeit.",
         "ro": "Începeți ziua cu o scurtă călătorie către rezervația naturală Linemyra pentru o plimbare revigorantă. După o vizită la pitorescul Smokkevatnet, conduceți spre centrul orașului la prânz pentru a descoperi Garborgsenteret și superba biserică Bryne kyrkje. După-amiaza vă aduce inspirație la galeria de artă Jærens kunstgalleri. Seara este dedicată istoriei vechi, explorând pe rând mormântul Grønhaug, curtea Dysjane și dealul Krosshaug.",
         "en": "Start your day driving to the Linemyra nature reserve for a refreshing morning walk surrounded by local wildlife. Next, visit the picturesque Smokkevatnet nature reserve. By midday, head to the city center to explore the informative Garborgsenteret and see the striking Bryne kyrkje. The afternoon offers artistic inspiration at the Jærens kunstgalleri. Spend your evening delving into ancient history by visiting Grønhaug, Dysjane, and finally Krosshaug."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten gemütlich im Auto und besuchen die Naturreservate, wo die neblige Stimmung den Seen eine besondere Note verleiht. Den Mittag verbringen wir im Trockenen im Museum. Der Nachmittag steht im Zeichen der Kunst. Den Abschluss bilden die historischen Stätten, die man bei starkem Regen auch gut aus der Nähe des Parkplatzes betrachten kann.",
+            "hu": "Kényelmesen, autóval indulunk a természetvédelmi területekre, ahol a ködös hangulat különleges jelleget kölcsönöz a tavaknak. A delet szárazon, a múzeumban töltjük. A délután a művészet jegyében telik. A napot a történelmi helyszínek zárják, amelyek heves esőzéskor a parkoló közeléből is jól megfigyelhetők.",
+            "ro": "Începem confortabil cu mașina și vizităm rezervațiile naturale, unde atmosfera de ceață oferă lacurilor o notă specială. Prânzul îl petrecem la adăpost în muzeu. După-amiaza este dedicată artei. Finalul îl reprezintă siturile istorice, care pot fi observate bine de lângă parcare în caz de ploaie abundentă.",
+            "en": "We start comfortably by car and visit the nature reserves, where the misty atmosphere gives the lakes a special touch. We spend noon in the dry at the museum. The afternoon is dedicated to art. The conclusion is formed by the historical sites, which can be viewed well from near the parking lot during heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Linemyra naturreservat",
+                "hu": "Linemyra naturreservat",
+                "ro": "Linemyra naturreservat",
+                "en": "Linemyra naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Vögel direkt aus dem Auto, wenn es zu stark regnet; die feuchte Moorlandschaft verströmt bei Regen einen sehr intensiven, erdigen Duft.",
+                "hu": "Figyelje meg a madarakat közvetlenül az autóból, ha túl erősen esik; a nedves mocsaras táj esőben nagyon intenzív, földes illatot áraszt.",
+                "ro": "Observați păsările direct din mașină dacă plouă prea tare; peisajul de mlaștină umedă emană un miros de pământ foarte intens în timpul ploii.",
+                "en": "Observe birds directly from the car if it's raining too hard; the damp moorland landscape exudes a very intense, earthy scent when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Smokkevatnet naturreservat",
+                "hu": "Smokkevatnet naturreservat",
+                "ro": "Smokkevatnet naturreservat",
+                "en": "Smokkevatnet naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Zufahrtswege können Pfützen bilden; fahren Sie vorsichtig und nutzen Sie die kleinen Parkbuchten, um den Blick auf den See im Regen zu genießen.",
+                "hu": "A keskeny bekötőutakon tócsák alakulhatnak ki; vezessen óvatosan, és használja a kis parkolóöblöket, hogy élvezhesse a kilátást a tóra az esőben.",
+                "ro": "Drumurile înguste de acces pot forma bălți; conduceți cu atenție și folosiți micile alveole de parcare pentru a vă bucura de vederea spre lac în ploaie.",
+                "en": "The narrow access roads can form puddles; drive carefully and use the small parking bays to enjoy the view of the lake in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Garborgsenteret",
+                "hu": "Garborgsenteret",
+                "ro": "Garborgsenteret",
+                "en": "Garborgsenteret"
+              },
+              "tip_5lang": {
+                "de": "Das Parkhaus in der Nähe hält Sie bis zum Eingang fast vollständig trocken; ideal für einen längeren Aufenthalt bei unbeständigem Küstenwetter.",
+                "hu": "A közeli parkolóházból szinte teljesen szárazon juthat el a bejáratig; ideális hosszabb tartózkodáshoz változékony tengerparti időjárás esetén.",
+                "ro": "Parcarea etajată din apropiere vă menține aproape complet uscat până la intrare; ideal pentru o ședere mai lungă în caz de vreme de coastă instabilă.",
+                "en": "The nearby parking garage keeps you almost completely dry until the entrance; ideal for a longer stay during unsettled coastal weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Bryne kyrkje",
+                "hu": "Bryne kyrkje",
+                "ro": "Bryne kyrkje",
+                "en": "Bryne kyrkje"
+              },
+              "tip_5lang": {
+                "de": "In der Umgebung gibt es ausreichend Parkplätze; nutzen Sie die Zeit im Inneren der Kirche, um die nächste Route auf Ihrem Smartphone trocken zu planen.",
+                "hu": "A környéken elegendő parkolóhely található; használja a templomban töltött időt a következő útvonal szárazon történő megtervezésére az okostelefonján.",
+                "ro": "Există suficiente locuri de parcare în zonă; folosiți timpul din interiorul bisericii pentru a planifica următoarea rută pe smartphone la adăpost.",
+                "en": "There are plenty of parking spaces in the area; use your time inside the church to plan your next route dryly on your smartphone."
+              }
+            },
+            {
+              "name": {
+                "de": "Jærens kunstgalleri",
+                "hu": "Jærens kunstgalleri",
+                "ro": "Jærens kunstgalleri",
+                "en": "Jærens kunstgalleri"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Auto in die Galerie ist auch ohne Schirm machbar; drinnen erwartet Sie eine warme und inspirierende Atmosphäre fernab vom Regen.",
+                "hu": "Az autótól a galériáig tartó rövid út esernyő nélkül is megtehető; bent meleg és inspiráló légkör várja, távol az esőtől.",
+                "ro": "Scurta distanță de la mașină la galerie este fezabilă și fără umbrelă; în interior vă așteaptă o atmosferă caldă și inspiratoare, departe de ploaie.",
+                "en": "The short walk from the car to the gallery is doable even without an umbrella; inside, a warm and inspiring atmosphere awaits you away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Grønhaug",
+                "hu": "Grønhaug",
+                "ro": "Grønhaug",
+                "en": "Grønhaug"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen bietet der Hügel kaum Schutz; betrachten Sie das Denkmal aus dem Auto oder warten Sie eine kurze Regenpause für den Aufstieg ab.",
+                "hu": "Heves esőzéskor a domb alig nyújt védelmet; nézze meg az emlékművet az autóból, vagy várjon meg egy rövid esőszünetet a felkapaszkodáshoz.",
+                "ro": "Dealul oferă puțin adăpost în caz de ploaie abundentă; observați monumentul din mașină sau așteptați o scurtă pauză de ploaie pentru a urca.",
+                "en": "The hill offers little shelter during heavy rain; view the monument from the car or wait for a brief break in the rain to make the ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "Dysjane",
+                "hu": "Dysjane",
+                "ro": "Dysjane",
+                "en": "Dysjane"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Stätten liegen nah beieinander; Sie können schnell zwischen den Stopps wechseln und im Auto trocken bleiben, wenn ein Schauer kommt.",
+                "hu": "A történelmi helyszínek közel vannak egymáshoz; gyorsan válthat a megállók között, és az autóban szárazon maradhat, ha jön egy zápor.",
+                "ro": "Siturile istorice sunt aproape unul de celălalt; puteți schimba rapid opririle și puteți rămâne uscat în mașină dacă vine o aversă.",
+                "en": "The historical sites are close to each other; you can switch quickly between stops and stay dry in the car if a shower comes along."
+              }
+            },
+            {
+              "name": {
+                "de": "Krosshaug",
+                "hu": "Krosshaug",
+                "ro": "Krosshaug",
+                "en": "Krosshaug"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus hat man einen guten Blick, auch wenn es regnet; ein Fernglas hilft, die Details der Umgebung ohne nass zu werden zu erkunden.",
+                "hu": "A parkolóból esőben is jó a kilátás; egy távcső segít felfedezni a környezet részleteit anélkül, hogy elázna.",
+                "ro": "Există o vedere bună din parcare chiar dacă plouă; un binoclu vă ajută să explorați detaliile împrejurimilor fără să vă udați.",
+                "en": "There is a good view from the parking lot even when it's raining; binoculars help explore the details of the surroundings without getting wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen führt uns zu den frostigen Seen der Naturreservate, ein Paradies für Vögel. Mittags genießen wir die Wärme im Garborgsenteret. Der Nachmittag ist für die Galerien reserviert. Zum Abschluss erreichen wir die Grabhügel, die im weichen Licht der frühen blauen Stunde besonders beeindruckend wirken, bevor wir die Heizung im Auto wieder aufdrehen.",
+            "hu": "A téli reggel a természetvédelmi területek fagyos tavaihoz vezet, amely a madarak paradicsoma. Délben a Garborgsenteret melegét élvezzük. A délután a galériáké. Végezetül elérjük a sírhalmokat, amelyek a kék óra lágy fényében különösen lenyűgözőek, mielőtt újra feltekernénk a fűtést az autóban.",
+            "ro": "Dimineața de iarnă ne poartă către lacurile înghețate ale rezervațiilor naturale, un paradis pentru păsări. La prânz ne bucurăm de căldura de la Garborgsenteret. După-amiaza este rezervată galeriilor. La final ajungem la tumuli, care par impresionați în lumina albastră, înainte de a porni iar căldura în mașină.",
+            "en": "The winter morning takes us to the frozen lakes of the nature reserves, a paradise for birds. At noon we enjoy the warmth in the Garborgsenteret. The afternoon is reserved for the galleries. Finally, we reach the burial mounds, which look particularly impressive in the soft light of the blue hour before we turn up the car heater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Linemyra naturreservat",
+                "hu": "Linemyra naturreservat",
+                "ro": "Linemyra naturreservat",
+                "en": "Linemyra naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Moorlandschaft glitzert im Winterlicht; achten Sie auf glatte Stellen auf den Parkplätzen, da diese oft nicht sofort geräumt werden.",
+                "hu": "A fagyott mocsaras táj csillog a téli fényben; ügyeljen a csúszós foltokra a parkolókban, mivel ezeket gyakran nem takarítják le azonnal.",
+                "ro": "Peisajul de mlaștină înghețată sclipeste în lumina iernii; atenție la porțiunile alunecoase din parcări, deoarece acestea adesea nu sunt curățate imediat.",
+                "en": "The frozen moorland glitters in the winter light; watch out for slippery patches in the parking lots, as these are often not cleared immediately."
+              }
+            },
+            {
+              "name": {
+                "de": "Smokkevatnet naturreservat",
+                "hu": "Smokkevatnet naturreservat",
+                "ro": "Smokkevatnet naturreservat",
+                "en": "Smokkevatnet naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Winterspaziergang am Seeufer belebt die Sinne; prüfen Sie vor Abfahrt den Reifendruck, da die Kälte diesen beeinflussen kann.",
+                "hu": "Egy rövid téli séta a tóparton felfrissíti az érzékeket; indulás előtt ellenőrizze a guminyomást, mivel a hideg befolyásolhatja azt.",
+                "ro": "O scurtă plimbare de iarnă pe malul lacului vă va revigora; verificați presiunea în anvelope înainte de plecare, deoarece frigul o poate influența.",
+                "en": "A short winter walk on the lakeshore enlivens the senses; check your tire pressure before leaving, as the cold can affect it."
+              }
+            },
+            {
+              "name": {
+                "de": "Garborgsenteret",
+                "hu": "Garborgsenteret",
+                "ro": "Garborgsenteret",
+                "en": "Garborgsenteret"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort des nahen Parkens und die wohlige Wärme drinnen; ideal, um die Winterkälte für ein paar Stunden komplett zu vergessen.",
+                "hu": "Élvezze a közeli parkolás kényelmét és a benti kellemes meleget; ideális ahhoz, hogy pár órára teljesen elfelejtse a téli hideget.",
+                "ro": "Bucurați-vă de confortul parcării în apropiere și de căldura plăcută din interior; ideal pentru a uita complet de frigul iernii pentru câteva ore.",
+                "en": "Enjoy the convenience of nearby parking and the cozy warmth inside; ideal for completely forgetting the winter cold for a few hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Bryne kyrkje",
+                "hu": "Bryne kyrkje",
+                "ro": "Bryne kyrkje",
+                "en": "Bryne kyrkje"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine gute Gelegenheit, sich aufzuwärmen; die umliegenden Straßen sind im Winter meist gut gestreut und sicher befahrbar.",
+                "hu": "A templom jó lehetőséget kínál a felmelegedésre; a környező utcák télen rendszerint jól fel vannak szórva és biztonságosan járhatók.",
+                "ro": "Biserica oferă o oportunitate bună de a vă încălzi; străzile din jur sunt de obicei bine întreținute iarna și se poate conduce în siguranță.",
+                "en": "The church offers a good opportunity to warm up; the surrounding streets are usually well-gritted and safe to drive on in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Jærens kunstgalleri",
+                "hu": "Jærens kunstgalleri",
+                "ro": "Jærens kunstgalleri",
+                "en": "Jærens kunstgalleri"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie ist im Winter angenehm temperiert; lassen Sie Ihre dicken Mäntel an der Garderobe, um die Ausstellung entspannt zu genießen.",
+                "hu": "A galéria télen kellemesen temperált; hagyja vastag kabátját a ruhatárban, hogy nyugodtan élvezhesse a kiállítást.",
+                "ro": "Galeria este climatizată plăcut iarna; lăsați hainele groase la garderobă pentru a vă bucura de expoziție într-un mod relaxat.",
+                "en": "The gallery is pleasantly temperature-controlled in winter; leave your heavy coats at the cloakroom to enjoy the exhibition in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Grønhaug",
+                "hu": "Grønhaug",
+                "ro": "Grønhaug",
+                "en": "Grønhaug"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Grabhügel in der Dämmerung für eine mystische Stimmung; achten Sie auf eventuelle Vereisungen auf der kurzen Auffahrt zum Parkplatz.",
+                "hu": "Látogasson el a sírhalomhoz szürkületben a misztikus hangulatért; ügyeljen az esetleges jegesedésre a parkolóhoz vezető rövid felhajtón.",
+                "ro": "Vizitați tumulul la amurg pentru o atmosferă mistică; atenție la eventuala gheață de pe scurta urcare către parcare.",
+                "en": "Visit the burial mound at dusk for a mystical atmosphere; watch out for possible icing on the short drive up to the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Dysjane",
+                "hu": "Dysjane",
+                "ro": "Dysjane",
+                "en": "Dysjane"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus lassen sich die Umrisse der historischen Stätten auch in der Winterdämmerung gut erkennen; nutzen Sie das Fernlicht für die Orientierung.",
+                "hu": "Az autóból a történelmi helyszínek körvonalai a téli szürkületben is jól láthatók; használja a távolsági fényszórót a tájékozódáshoz.",
+                "ro": "Din mașină se pot vedea bine contururile siturilor istorice chiar și în amurgul iernii; folosiți faza lungă pentru orientare.",
+                "en": "The outlines of the historical sites can be clearly seen from the car even in the winter dusk; use your high beams for orientation."
+              }
+            },
+            {
+              "name": {
+                "de": "Krosshaug",
+                "hu": "Krosshaug",
+                "ro": "Krosshaug",
+                "en": "Krosshaug"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im Freien reicht, um die Weite der Winterlandschaft zu spüren; das Auto bietet danach sofort wieder wohlige Wärme.",
+                "hu": "Egy rövid kinti tartózkodás is elég, hogy érezze a téli táj tágasságát; az autó utána azonnal ismét kellemes meleget nyújt.",
+                "ro": "O scurtă ședere afară este suficientă pentru a simți imensitatea peisajului de iarnă; mașina oferă imediat după aceea o căldură plăcută.",
+                "en": "A short stay outdoors is enough to feel the vastness of the winter landscape; the car offers cozy warmth immediately afterwards."
+              }
+            }
+          ]
+        }
       }
     }
   }

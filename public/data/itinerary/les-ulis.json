@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az Esplanade de la République polgári energiájának magába szívásával. A délidő a lenyűgöző Église Jean XXIII mellett a mozihoz vezet. Délután hagyja, hogy a gyerekek megmásszák a La Grande Araignée-t. Az este békésen zárul a hatalmas Parc Nordban.",
         "ro": "Începeți dimineața absorbind energia civică la Esplanade de la République. Prânzul vă poartă pe lângă remarcabila Église Jean XXIII spre centrul cultural al Cinematografului. După-amiaza, lăsați copiii să urce pe La Grande Araignée. Seara se încheie liniștit în vastul Parc Nord.",
         "en": "Start your morning absorbing the civic energy at the Esplanade de la République. Midday brings you past the striking Église Jean XXIII towards the cultural heart of the Cinéma. In the afternoon, let the kids climb La Grande Araignée. Evening concludes peacefully in the expansive Parc Nord."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt auf der Esplanade, wo der Regen die moderne Architektur spiegelt. Mittags bieten die Kirche und das Kino Jacques Prévert trockene Zufluchtsorte für Kulturfreunde. Am Nachmittag erkunden wir die grüne Lunge im Parc Nord unter dem Schutz eines Regenschirms. Abends genießen wir die besondere Atmosphäre der beleuchteten, regennassen Wege der Stadt.",
+            "hu": "A reggel az Esplanádon indul, ahol az eső tükrözi a modern épületeket. Délben a templom és a Jacques Prévert mozi nyújt száraz menedéket a kultúra kedvelőinek. Délután a Parc Nord zöldjét fedezzük fel esernyő alatt, élvezve a friss, tiszta levegőt. Estére a város kivilágított, vizes útjai különleges és megnyugtató hangulatot árasztanak az esőben.",
+            "ro": "Ziua începe pe Esplanadă, unde ploaia reflectă arhitectura modernă. La prânz, biserica și cinematograful oferă refugii uscate pentru iubitorii de cultură. După-amiaza explorăm plămânul verde din Parc Nord sub protecția unei umbrele. Seara ne bucurăm de atmosfera specială a potecilor luminate și ude de ploaie, care oferă un farmec aparte orașului.",
+            "en": "The day starts on the Esplanade, where rain reflects the modern architecture. At noon, the church and the Jacques Prévert cinema offer dry havens for culture enthusiasts. In the afternoon, we explore the green heart of Parc Nord under the shelter of an umbrella. By evening, we enjoy the special atmosphere of the city's illuminated, rain-slicked paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Esplanade de la République",
+                "hu": "Esplanade de la République",
+                "ro": "Esplanade de la République",
+                "en": "Esplanade de la République"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die glänzenden Spiegelungen der Gebäude auf dem nassen Pflaster; tragen Sie rutschfeste Schuhe für einen sicheren Halt.",
+                "hu": "Csodáld meg az épületek csillogó tükröződését a vizes burkolaton; viselj csúszásmentes cipőt a biztonságos közlekedés érdekében.",
+                "ro": "Admirați reflexiile strălucitoare ale clădirilor pe pavajul umed; purtați încălțăminte antiderapantă pentru o aderență sigură.",
+                "en": "Admire the shiny reflections of the buildings on the wet pavement; wear non-slip shoes for a secure grip on the smooth surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Jean XXIII",
+                "hu": "Église Jean XXIII",
+                "ro": "Église Jean XXIII",
+                "en": "Église Jean XXIII"
+              },
+              "tip_5lang": {
+                "de": "Diese moderne Kirche ist ein idealer Ort für einen Moment der Stille im Trockenen; nutzen Sie die Zeit, um die Innenarchitektur zu bewundern.",
+                "hu": "Ez a modern templom ideális hely egy csendes, száraz pihenőre; használd ki az időt a különleges belső építészet megtekintésére.",
+                "ro": "Această biserică modernă este un loc ideal pentru un moment de liniște la adăpost; folosiți timpul pentru a admira arhitectura interioară.",
+                "en": "This modern church is an ideal spot for a quiet moment in the dry; use the time to admire the unique interior architecture while raining."
+              }
+            },
+            {
+              "name": {
+                "de": "Cinéma Jacques Prévert",
+                "hu": "Cinéma Jacques Prévert",
+                "ro": "Cinéma Jacques Prévert",
+                "en": "Cinéma Jacques Prévert"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um einem starken Schauer zu entkommen; prüfen Sie das lokale Programm für eine spontane Nachmittagsvorstellung.",
+                "hu": "Tökéletes helyszín a nagyobb záporok elől való menekülésre; nézd meg a helyi műsort egy spontán délutáni moziélményhez.",
+                "ro": "Locul perfect pentru a scăpa de o aversă puternică; verificați programul local pentru o vizionare spontană de după-amiază.",
+                "en": "The perfect place to escape a heavy downpour; check the local listings for a spontaneous afternoon screening while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "La Grande Araignée",
+                "hu": "La Grande Araignée",
+                "ro": "La Grande Araignée",
+                "en": "La Grande Araignée"
+              },
+              "tip_5lang": {
+                "de": "Die Metallstruktur kann bei Regen rutschig sein; Kinder sollten vorsichtig klettern oder die überdachten Bereiche in der Nähe nutzen.",
+                "hu": "A fémszerkezet csúszós lehet az esőben; a gyerekek óvatosan másszanak, vagy használják a közeli fedett részeket pihenésre.",
+                "ro": "Structura metalică poate fi alunecoasă pe ploaie; copiii ar trebui să se cațere cu grijă sau să folosească zonele acoperite din jur.",
+                "en": "The metal structure can be slippery in the rain; children should climb carefully or use the nearby sheltered areas for a break."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Nord",
+                "hu": "Parc Nord",
+                "ro": "Parc Nord",
+                "en": "Parc Nord"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation wirkt im Regen besonders intensiv; bleiben Sie auf den befestigten Wegen, um Schlamm an den Schuhen zu vermeiden.",
+                "hu": "A növényzet színei intenzívebbek az esőben; maradj a kiépített ösvényeken, hogy elkerüld a sarat és a vizes fűfelületeket.",
+                "ro": "Vegetația pare deosebit de intensă pe ploaie; rămâneți pe potecile pavate pentru a evita noroiul de pe încălțăminte.",
+                "en": "The vegetation looks particularly vibrant in the rain; stay on the paved paths to avoid getting mud on your shoes during the walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen erwartet uns auf der Esplanade, ideal für einen zügigen Spaziergang. Mittags wärmen wir uns in der Kirche und im Kino auf, bevor die Temperaturen weiter sinken. Am Nachmittag genießen wir das klare Winterlicht im Parc Nord, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend klingt in der gemütlichen Atmosphäre des Stadtzentrums aus.",
+            "hu": "Fagyos reggel vár ránk az Esplanádon, ami ideális egy tempós sétához a hidegben. Délben a templomban és a moziban melegszünk fel, mielőtt a hőmérséklet tovább csökkenne. Délután a tiszta téli fényt élvezzük a Parc Nordban, mielőtt a nap 17:00 körül lebukna. Az este a városközpont barátságos fényeiben és nyugalmában zárul.",
+            "ro": "O dimineață geroasă ne așteaptă pe Esplanadă, ideală pentru o plimbare rapidă. La prânz ne încălzim în biserică și la cinematograf, înainte ca temperaturile să scadă și mai mult. După-amiaza ne bucurăm de lumina clară de iarnă în Parc Nord, înainte ca soarele să apună în jur de ora 17:00. Seara se încheie în atmosfera primitoare a centrului.",
+            "en": "A frosty morning awaits us on the Esplanade, ideal for a brisk walk to stay warm. At noon, we warm up inside the church and the cinema before temperatures drop further. In the afternoon, enjoy the clear winter light in Parc Nord before the sun sets around 17:00. The evening concludes in the cozy atmosphere of the city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Esplanade de la République",
+                "hu": "Esplanade de la République",
+                "ro": "Esplanade de la République",
+                "en": "Esplanade de la République"
+              },
+              "tip_5lang": {
+                "de": "Der offene Platz kann im Winter windig sein; tragen Sie einen Schal und Handschuhe, um die Architektur in Ruhe zu betrachten.",
+                "hu": "A nyitott tér télen szeles lehet; viselj sálat és kesztyűt, hogy kényelmesen megcsodálhasd a modern építészeti formákat.",
+                "ro": "Piața deschisă poate fi vântoasă iarna; purtați fular și mănuși pentru a admira arhitectura în confort total.",
+                "en": "The open square can be windy in winter; wear a scarf and gloves to comfortably admire the architecture during your morning visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Jean XXIII",
+                "hu": "Église Jean XXIII",
+                "ro": "Église Jean XXIII",
+                "en": "Église Jean XXIII"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort für eine spirituelle Pause und um sich kurz aufzuwärmen; genießen Sie die friedliche Stille des Winters.",
+                "hu": "Csodálatos hely egy lelki feltöltődéshez és egy rövid melegedéshez; élvezd a tél békés és csendes hangulatát a falak között.",
+                "ro": "Un loc minunat pentru o pauză spirituală și pentru a vă încălzi puțin; bucurați-vă de liniștea pașnică a iernii în interior.",
+                "en": "A wonderful place for a spiritual break and to warm up briefly; enjoy the peaceful silence of winter inside this modern sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Cinéma Jacques Prévert",
+                "hu": "Cinéma Jacques Prévert",
+                "ro": "Cinéma Jacques Prévert",
+                "en": "Cinéma Jacques Prévert"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Nachmittag für einen Film im warmen Saal; es ist die beste Zeit, wenn es draußen am kältesten ist.",
+                "hu": "Használd ki a délutánt egy filmre a meleg teremben; ez a legjobb időtöltés, amikor kint a leghidegebb az időjárás.",
+                "ro": "Folosiți după-amiaza pentru un film în sala călduroasă; este cel mai bun moment când afară este cel mai frig.",
+                "en": "Take advantage of the afternoon for a movie in the warm theater; it’s the best way to spend the coldest hours of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "La Grande Araignée",
+                "hu": "La Grande Araignée",
+                "ro": "La Grande Araignée",
+                "en": "La Grande Araignée"
+              },
+              "tip_5lang": {
+                "de": "Die Metallbeine der Spinne sind im Winter sehr kalt; stellen Sie sicher, dass Kinder beim Spielen Handschuhe tragen.",
+                "hu": "A pók fémlábai télen nagyon hidegek lehetnek; győződj meg róla, hogy a gyerekek kesztyűt viselnek játék közben.",
+                "ro": "Picioarele metalice ale păianjenului sunt foarte reci iarna; asigurați-vă că micuții poartă mănuși în timp ce se joacă.",
+                "en": "The metal legs of the spider are very cold in winter; make sure children wear gloves while playing on the structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Nord",
+                "hu": "Parc Nord",
+                "ro": "Parc Nord",
+                "en": "Parc Nord"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Wintervögel in den kahlen Bäumen; beenden Sie Ihren Besuch vor 17:00 Uhr, bevor die Dunkelheit einsetzt.",
+                "hu": "Figyeld meg a téli madarakat a csupasz ágak között; fejezd be a látogatást 17:00 előtt, mielőtt teljesen besötétedik.",
+                "ro": "Observați păsările de iarnă în copacii golași; încheiați vizita înainte de ora 17:00, înainte de lăsarea întunericului.",
+                "en": "Spot winter birds in the bare branches; finish your visit before 17:00 as the park becomes dark quickly after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggel energikus szórakozással indul a csúszdáknál, mielőtt a központi térre gurulna. Délben megcsodálhatja a helyi modern templom építészetét és a közeli játszótereket. A délután festői utazást kínál a Parc Nordba. A nap a pihentető Millepertuis területén ér véget.",
         "ro": "Dimineața începe cu distracție plină de energie la Tobogane înainte de a ajunge în piața centrală. Până la prânz, admirați arhitectura bisericii moderne și locurile de joacă. După-amiaza oferă o plimbare pitorească în Parc Nord. Ziua se încheie în zona relaxantă Millepertuis.",
         "en": "Your morning starts with energetic fun at the Toboggans before rolling into the town's central square. By midday, you're admiring local modern church architecture and enjoying nearby playgrounds. The afternoon offers a scenic ride into Parc Nord. The day winds down at the relaxing Millepertuis area."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Rad erkunden wir die modernen Viertel, wobei wir auf nassen Radwegen besonders vorsichtig fahren. Mittags bieten die Esplanade und die Kirche Gelegenheiten für Pausen im Trockenen. Am Nachmittag radeln wir durch den frischen Parc Nord, geschützt durch gute Regenbekleidung. Der Abend endet mit einer gemütlichen Fahrt durch die glänzenden Straßen von Les Ulis.",
+            "hu": "Kerékpárral fedezzük fel a modern negyedeket, különös figyelmet fordítva a vizes utakra. Délben az Esplanád és a templom kínál lehetőséget a száraz pihenőkre. Délután a friss Parc Nordon tekerünk át, jó esőruházatban élvezve a természetet. Az este egy hangulatos tekeréssel zárul Les Ulis csillogó, vizes utcáin.",
+            "ro": "Explorăm cartierele moderne cu bicicleta, fiind deosebit de atenți pe pistele umede. La prânz, Esplanada și biserica oferă ocazii pentru pauze la adăpost. După-amiaza pedalăm prin Parc Nord, protejați de un echipament de ploaie bun. Seara se încheie cu o plimbare plăcută prin străzile strălucitoare din Les Ulis.",
+            "en": "We explore modern districts by bike, taking extra care on wet paths. At noon, the Esplanade and the church offer opportunities for dry breaks. In the afternoon, cycle through the fresh Parc Nord, protected by good rain gear. The evening ends with a pleasant ride through the gleaming, rain-washed streets of Les Ulis."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Toboggans",
+                "hu": "Toboggans",
+                "ro": "Toboggans",
+                "en": "Toboggans"
+              },
+              "tip_5lang": {
+                "de": "Die Rutschen sind bei Regen nass; nutzen Sie den Stopp für einen Ausblick auf die Stadt unter Wolken und achten Sie auf Pfützen.",
+                "hu": "A csúszdák vizesek esőben; használd ezt a megállót a felhős városi kilátás megtekintésére, és vigyázz a tócsákra a megállásnál.",
+                "ro": "Toboganele sunt ude pe ploaie; folosiți oprirea pentru o vedere asupra orașului sub nori și fiți atenți la bălți.",
+                "en": "The slides are wet in the rain; use this stop to enjoy the view of the city under the clouds and watch out for puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Esplanade de la République",
+                "hu": "Esplanade de la République",
+                "ro": "Esplanade de la République",
+                "en": "Esplanade de la République"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig beim Bremsen auf den glatten Fliesen der Esplanade; nutzen Sie die breiten Flächen für weite Kurven.",
+                "hu": "Légy óvatos a fékezéssel az Esplanade sima burkolatán; használd a tágas tereket a széles és biztonságos kanyarodáshoz.",
+                "ro": "Fiți atenți la frânare pe plăcile netede ale Esplanadei; folosiți spațiile largi pentru viraje ample și sigure.",
+                "en": "Be careful when braking on the smooth tiles of the Esplanade; use the wide open spaces for broad and safe turns in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Jean XXIII",
+                "hu": "Église Jean XXIII",
+                "ro": "Église Jean XXIII",
+                "en": "Église Jean XXIII"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und genießen Sie das prasselnde Geräusch des Regens auf dem Kirchendach während einer kurzen Rast.",
+                "hu": "Parkold le a bringát biztonságosan, és élvezd az eső kopogását a templomtetőn egy rövid, pihentető megálló alatt.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de sunetul ploii pe acoperișul bisericii în timpul unei scurte odihne.",
+                "en": "Park your bike securely and enjoy the rhythmic sound of rain on the church roof during a short, peaceful rest stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Aide de Jeux des Bergères Sud 2",
+                "hu": "Aide de Jeux des Bergères Sud 2",
+                "ro": "Aide de Jeux des Bergères Sud 2",
+                "en": "Aide de Jeux des Bergères Sud 2"
+              },
+              "tip_5lang": {
+                "de": "Schutzbleche am Rad sind hier Gold wert; der Weg kann bei Regen schlammig sein, bietet aber eine herrlich frische Waldluft.",
+                "hu": "A sárvédők aranyat érnek itt; az út sáros lehet az esőben, de a levegő csodálatosan friss és tiszta az erdő közelében.",
+                "ro": "Aripile la bicicletă sunt esențiale aici; drumul poate fi noroios pe ploaie, dar oferă un aer de pădure extrem de proaspăt.",
+                "en": "Mudguards are essential here; the path can be muddy in the rain, but it offers wonderfully fresh forest air during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Nord",
+                "hu": "Parc Nord",
+                "ro": "Parc Nord",
+                "en": "Parc Nord"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Parkwegen; die Bäume bieten nur teilweisen Schutz, halten Sie Ihre Regenjacke geschlossen.",
+                "hu": "Tekerj lassan a park ösvényein; a fák csak részleges védelmet nyújtanak, tartsd zárva az esőkabátodat a teljes út alatt.",
+                "ro": "Pedalați încet pe aleile parcului; copacii oferă doar protecție parțială, așa că țineți jacheta de ploaie închisă.",
+                "en": "Cycle slowly on the park paths; trees provide only partial shelter, so keep your rain jacket fully zipped for protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Millepertuis",
+                "hu": "Millepertuis",
+                "ro": "Millepertuis",
+                "en": "Millepertuis"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Tour zu beenden; die grünen Flächen wirken im Regen besonders lebendig und entspannend.",
+                "hu": "Nyugodt hely a túra befejezéséhez; a zöld területek különösen élettel telinek és pihentetőnek tűnnek az esőben.",
+                "ro": "Un loc liniștit pentru a încheia turul; zonele verzi par deosebit de vii și relaxante sub picăturile de ploaie.",
+                "en": "A calm spot to conclude your tour; the green areas look particularly vibrant and relaxing under the falling rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen auf dem Rad belebt die Geister, während wir durch die moderne Architektur von Les Ulis gleiten. Mittags wärmen wir uns bei kurzen Stopps an geschützten Orten auf. Am Nachmittag nutzen wir das Tageslicht im Parc Nord voll aus, bevor die Dämmerung früh einsetzt. Der Abend endet rechtzeitig, bevor es nach Sonnenuntergang um 17:00 Uhr zu kalt wird.",
+            "hu": "A friss téli reggeli tekerés felpezsdíti a lelket, ahogy Les Ulis modern épületei között suhanunk. Délben rövid megállókkal melegszünk fel a védettebb helyeken. Délután kihasználjuk a természetes fényt a Parc Nordban, mielőtt a korai szürkület beállna. A túrát időben befejezzük, mielőtt 17:00 után túlságosan lehűlne a levegő.",
+            "ro": "O dimineață răcoroasă de iarnă pe bicicletă revigorează spiritul în timp ce alunecăm prin arhitectura modernă. La prânz ne încălzim cu scurte opriri în locuri adăpostite. După-amiaza profităm de lumina zilei în Parc Nord înainte de amurgul timpuriu. Seara se încheie la timp, înainte de a se face prea frig după ora 17:00.",
+            "en": "A crisp winter morning on the bike invigorates the spirit as we glide through the modern architecture of Les Ulis. At noon, we warm up during short stops in sheltered spots. In the afternoon, we make the most of the daylight in Parc Nord before the early twilight. The ride ends before it gets too cold after the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Toboggans",
+                "hu": "Toboggans",
+                "ro": "Toboggans",
+                "en": "Toboggans"
+              },
+              "tip_5lang": {
+                "de": "Der kalte Wind ist in den erhöhten Lagen stärker; tragen Sie eine winddichte Jacke und halten Sie die Ohren warm.",
+                "hu": "A hideg szél erősebb a magasabb részeken; viselj szélálló kabátot, és tartsd melegen a füleidet a tekerés közben.",
+                "ro": "Vântul rece este mai puternic în zonele înalte; purtați o jachetă rezistentă la vânt și păstrați-vă urechile calde.",
+                "en": "The cold wind is stronger in elevated areas; wear a windproof jacket and keep your ears covered during the morning ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Esplanade de la République",
+                "hu": "Esplanade de la République",
+                "ro": "Esplanade de la République",
+                "en": "Esplanade de la République"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf frostige Stellen in den Schattenbereichen der Gebäude; fahren Sie vorsichtig über die gefliesten Flächen.",
+                "hu": "Vigyázz a fagyos foltokra az épületek árnyékos részein; vezess óvatosan a jegesedésre hajlamos burkolt felületeken.",
+                "ro": "Atenție la porțiunile înghețate în zonele umbrite ale clădirilor; conduceți cu prudență pe suprafețele pavate.",
+                "en": "Watch out for frosty patches in the shaded areas of the buildings; ride cautiously over the tiled surfaces in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Jean XXIII",
+                "hu": "Église Jean XXIII",
+                "ro": "Église Jean XXIII",
+                "en": "Église Jean XXIII"
+              },
+              "tip_5lang": {
+                "de": "Eine ideale Gelegenheit, um die Hände aufzuwärmen und die Ruhe zu genießen, während das Rad draußen in der Kälte wartet.",
+                "hu": "Ideális alkalom a kezek felmelegítésére és a csend élvezetére, amíg a bringa kint várakozik a hideg téli levegőn.",
+                "ro": "O ocazie ideală pentru a vă încălzi mâinile și pentru a vă bucura de liniște în timp ce bicicleta așteaptă afară în frig.",
+                "en": "An ideal chance to warm your hands and enjoy the peace while your bike waits outside in the cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Aide de Jeux des Bergères Sud 2",
+                "hu": "Aide de Jeux des Bergères Sud 2",
+                "ro": "Aide de Jeux des Bergères Sud 2",
+                "en": "Aide de Jeux des Bergères Sud 2"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ist hier besonders erfrischend; machen Sie nur eine kurze Pause, um nicht auszukühlen.",
+                "hu": "A tiszta téli levegő itt különösen frissítő; csak rövid szünetet tarts, hogy ne hűljön le a tested a mozgás után.",
+                "ro": "Aerul curat de iarnă este deosebit de revigorant aici; faceți doar o scurtă pauză pentru a nu vă răci prea tare.",
+                "en": "The clear winter air is especially refreshing here; take only a short break to prevent your body from cooling down too much."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Nord",
+                "hu": "Parc Nord",
+                "ro": "Parc Nord",
+                "en": "Parc Nord"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten eine weite Sicht über den Park; nutzen Sie das letzte Tageslicht vor dem frühen Sonnenuntergang.",
+                "hu": "A csupasz fák messzire engedik látni a tekintetet a parkban; használd ki az utolsó fényeket a korai naplemente előtt.",
+                "ro": "Copacii golași oferă o vedere largă asupra parcului; profitați de ultima lumină a zilei înainte de apusul timpuriu.",
+                "en": "The bare trees offer a wide view across the park; make the most of the remaining daylight before the early 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Millepertuis",
+                "hu": "Millepertuis",
+                "ro": "Millepertuis",
+                "en": "Millepertuis"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier und ziehen Sie eine warme Schicht an; die Temperatur sinkt am späten Nachmittag schnell.",
+                "hu": "Fejezd be itt a túrát és vegyél fel egy meleg réteget; a hőmérséklet késő délután már nagyon gyorsan csökken.",
+                "ro": "Încheiați turul aici și puneți-vă un strat călduros; temperatura scade rapid la sfârșitul după-amiezii.",
+                "en": "End your tour here and put on an extra warm layer; the temperature drops very quickly in the late winter afternoon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje a napot egy frissítő reggeli sétával a Parc Nordban egy gyors vezetés után. A dél a játszóterekről és a városközpont hangulatáról szól. A délutánt a Centre Commercial Ulis 2-ben eltöltött vásárlásra és ebédre tartogatjuk. Az este a L'Aventure Spatiale-ban ér földet.",
         "ro": "Începeți ziua cu o plimbare răcoritoare de dimineață în Parc Nord, după un scurt drum cu mașina. Prânzul include vizite la locurile de joacă și explorarea centrului civic. După-amiaza este rezervată pentru cumpărături și prânz la Centre Commercial Ulis 2. Seara ajunge la L'Aventure Spatiale.",
         "en": "Begin the day with a refreshing morning walk in Parc Nord after a quick drive. Midday features playground visits and checking out the civic center's vibe. Afternoon is reserved for shopping and lunch at Centre Commercial Ulis 2, followed by active play. The evening lands at L'Aventure Spatiale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem fahren wir zwischen den grünen Oasen von Les Ulis hin und her, während der Regen gegen die Scheiben trommelt. Mittags bietet das Einkaufszentrum Ulis 2 perfekten Schutz und Unterhaltung im Trockenen. Am Nachmittag besuchen wir die Spielplätze in Regenpausen. Der Abend endet entspannt mit einer Fahrt durch die neblige, aber gut beleuchtete Stadtlandschaft.",
+            "hu": "Kényelmesen autózunk Les Ulis zöld oázisai között, miközben az eső veri az ablakot. Délben az Ulis 2 bevásárlóközpont tökéletes védelmet és szórakozást nyújt szárazon. Délután az esőszünetekben látogatjuk meg a játszótereket. Az este nyugodtan zárul egy autózással a ködös, de jól kivilágított városi tájon át.",
+            "ro": "Conducem confortabil între oazele verzi din Les Ulis, în timp ce ploaia bate în geamuri. La prânz, centrul comercial Ulis 2 oferă protecție perfectă și divertisment la uscat. După-amiaza vizităm locurile de joacă în pauzele dintre averse. Seara se încheie relaxat cu o plimbare prin peisajul urban cețos, dar bine luminat.",
+            "en": "We drive comfortably between the green oases of Les Ulis while the rain drums against the windows. At noon, the Ulis 2 shopping center provides perfect shelter and entertainment in the dry. In the afternoon, we visit the playgrounds during breaks in the rain. The evening ends with a relaxed drive through the misty but well-lit urban landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc Nord",
+                "hu": "Parc Nord",
+                "ro": "Parc Nord",
+                "en": "Parc Nord"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um schnell ins Grüne zu gelangen; genießen Sie die frisch gewaschene Natur direkt vom Auto aus.",
+                "hu": "Parkolj közel a bejárathoz, hogy gyorsan a zöldbe érj; élvezd a frissen mosott természet látványát akár közvetlenül az autóból.",
+                "ro": "Parcați aproape de intrare pentru a ajunge rapid în natură; bucurați-vă de peisajul proaspăt spălat direct din mașină.",
+                "en": "Park near the entrance for quick access to the greenery; enjoy the rain-washed nature even from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Aide de Jeux des Bergères Sud 2",
+                "hu": "Aide de Jeux des Bergères Sud 2",
+                "ro": "Aide de Jeux des Bergères Sud 2",
+                "en": "Aide de Jeux des Bergères Sud 2"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Handtücher im Auto bereit, um nasse Spielgeräte abzuwischen; der Parkplatz ist nur einen kurzen Sprint entfernt.",
+                "hu": "Tarts törölközőt az autóban a vizes játékok letörléséhez; a parkoló csak egy rövid vágta, így hamar visszaérsz a szárazba.",
+                "ro": "Aveți prosoape în mașină pentru a șterge echipamentele de joacă ude; parcarea este la doar un scurt sprint distanță.",
+                "en": "Keep towels in the car to wipe down wet play equipment; the parking lot is just a short sprint away if the rain picks up."
+              }
+            },
+            {
+              "name": {
+                "de": "Esplanade de la République",
+                "hu": "Esplanade de la République",
+                "ro": "Esplanade de la République",
+                "en": "Esplanade de la République"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die nahen Parkhäuser, um trockenen Fußes ins Zentrum zu gelangen; die Architektur wirkt bei Regen sehr markant.",
+                "hu": "Használd a közeli parkolóházakat, hogy száraz lábbal érj a központba; az építészet esőben is rendkívül karakteres látványt nyújt.",
+                "ro": "Folosiți parcările din apropiere pentru a ajunge uscat în centru; arhitectura pare foarte marcantă și interesantă pe ploaie.",
+                "en": "Use the nearby parking garages to reach the center with dry feet; the architecture looks very striking and bold in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Commercial Ulis 2",
+                "hu": "Centre Commercial Ulis 2",
+                "ro": "Centre Commercial Ulis 2",
+                "en": "Centre Commercial Ulis 2"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Rettung an einem Regentag; genießen Sie die große Auswahl an Geschäften und Cafés unter einem sicheren Dach.",
+                "hu": "A tökéletes mentsvár egy esős napon; élvezd az üzletek és kávézók széles választékát a biztos és száraz tető alatt.",
+                "ro": "Refugiul ideal într-o zi ploioasă; bucurați-vă de selecția vastă de magazine și cafenele sub un acoperiș sigur.",
+                "en": "The ultimate refuge on a rainy day; enjoy the wide selection of shops and cafes under a secure and dry indoor roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de Grands Jeux",
+                "hu": "Aire de Grands Jeux",
+                "ro": "Aire de Grands Jeux",
+                "en": "Aire de Grands Jeux"
+              },
+              "tip_5lang": {
+                "de": "Der Gummiboden trocknet nach einem Schauer schnell ab; ein kurzer Stopp zwischen den Wolken lohnt sich für die Kinder.",
+                "hu": "A gumiburkolat gyorsan megszárad a záporok után; egy rövid megálló a felhők között megéri a gyerekek vidámságáért.",
+                "ro": "Podeaua de cauciuc se usucă rapid după o aversă; o scurtă oprire între nori merită pentru distracția copiilor.",
+                "en": "The rubber flooring dries quickly after a shower; a short stop between the clouds is well worth it for the kids' energy."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Aventure Spatiale",
+                "hu": "L'Aventure Spatiale",
+                "ro": "L'Aventure Spatiale",
+                "en": "L'Aventure Spatiale"
+              },
+              "tip_5lang": {
+                "de": "Dieser futuristische Park sieht im Nebel und Regen besonders mysteriös aus; perfekt für ein schnelles Foto aus dem Auto.",
+                "hu": "Ez a futurisztikus park ködben és esőben különösen titokzatosnak tűnik; tökéletes egy gyors fotóhoz az autó ablakából.",
+                "ro": "Acest parc futurist arată deosebit de misterios în ceață și ploaie; perfect pentru o fotografie rapidă din mașină.",
+                "en": "This futuristic park looks particularly mysterious in the mist and rain; perfect for a quick photo from the car window."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir genießen die Fahrt in einem warmen Auto, während draußen der Winterfrost die Landschaft von Les Ulis verzaubert. Mittags bietet das Einkaufszentrum Ulis 2 eine angenehme Wärme zum Bummeln. Am Nachmittag besuchen wir die Parks im klaren Winterlicht, bevor es gegen 17:00 Uhr dunkel wird. Der Tag endet gemütlich mit dem Blick auf die festlich beleuchteten Straßen.",
+            "hu": "Élvezzük a meleg autó kényelmét, miközben kint a téli fagy varázsolja el Les Ulis tájait. Délben az Ulis 2 bevásárlóközpont kínál kellemes meleget a sétáláshoz. Délután a parkokat látogatjuk meg a tiszta téli fényben, mielőtt 17:00 körül beállna a sötétség. A napot a város ünnepi fényei zárják.",
+            "ro": "Ne bucurăm de plimbarea într-o mașină călduroasă, în timp ce gerul de iarnă transformă peisajul din Les Ulis. La prânz, centrul comercial Ulis 2 oferă o căldură plăcută pentru plimbare. După-amiaza vizităm parcurile în lumina clară de iarnă, înainte de întunericul de la ora 17:00. Ziua se încheie plăcut cu luminile orașului.",
+            "en": "We enjoy the ride in a warm car while outside the winter frost enchants the landscapes of Les Ulis. At noon, the Ulis 2 shopping center offers pleasant warmth for browsing. In the afternoon, we visit the parks in the clear winter light before it gets dark around 17:00. The day ends cozily with views of the illuminated streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc Nord",
+                "hu": "Parc Nord",
+                "ro": "Parc Nord",
+                "en": "Parc Nord"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöne Frostlandschaften am Morgen; parken Sie in der Nähe, um lange Wege in der Kälte zu vermeiden.",
+                "hu": "Gyönyörű zúzmarás táj vár reggel; parkolj a közelben, hogy elkerüld a hosszú gyaloglást a csípős hidegben.",
+                "ro": "Peisaje înghețate superbe dimineața; parcați în apropiere pentru a evita plimbările lungi în frigul de afară.",
+                "en": "Beautiful frosty landscapes in the morning; park close to the entrance to avoid long walks in the biting cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Aide de Jeux des Bergères Sud 2",
+                "hu": "Aide de Jeux des Bergères Sud 2",
+                "ro": "Aide de Jeux des Bergères Sud 2",
+                "en": "Aide de Jeux des Bergères Sud 2"
+              },
+              "tip_5lang": {
+                "de": "Die klare Luft ist belebend, aber halten Sie die Autoheizung für die Rückkehr bereit; Kinder sollten warm eingepackt sein.",
+                "hu": "A tiszta levegő élénkítő, de tartsd készenlétben az autó fűtését a visszatéréshez; a gyerekek legyenek jól felöltözve.",
+                "ro": "Aerul curat este revigorant, dar țineți încălzirea mașinii pregătită pentru întoarcere; copiii trebuie să fie bine înfofoliți.",
+                "en": "The clear air is invigorating, but keep the car heater ready for your return; ensure children are wrapped up very warmly."
+              }
+            },
+            {
+              "name": {
+                "de": "Esplanade de la République",
+                "hu": "Esplanade de la République",
+                "ro": "Esplanade de la République",
+                "en": "Esplanade de la République"
+              },
+              "tip_5lang": {
+                "de": "Das Herz der Stadt wirkt auch im Winter lebendig; besuchen Sie die lokalen Geschäfte für eine kurze Aufwärmpause.",
+                "hu": "A város szíve télen is élettel teli; látogasd meg a helyi üzleteket egy rövid melegedő szünetre a séta közben.",
+                "ro": "Inima orașului pare plină de viață și iarna; vizitați magazinele locale pentru o scurtă pauză de încălzire.",
+                "en": "The heart of the city feels lively even in winter; visit the local shops for a quick warm-up break during your exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Commercial Ulis 2",
+                "hu": "Centre Commercial Ulis 2",
+                "ro": "Centre Commercial Ulis 2",
+                "en": "Centre Commercial Ulis 2"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich am kalten Nachmittag aufzuwärmen; nutzen Sie das Parkhaus für einen komfortablen Zugang.",
+                "hu": "Tökéletes hely a felmelegedésre a hideg délutánon; használd a parkolóházat a kényelmes és gyors bejutáshoz.",
+                "ro": "Locul perfect pentru a vă încălzi în după-amiaza rece; folosiți parcarea acoperită pentru un acces confortabil.",
+                "en": "The perfect place to warm up during the cold afternoon; use the parking garage for comfortable and quick access."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de Grands Jeux",
+                "hu": "Aire de Grands Jeux",
+                "ro": "Aire de Grands Jeux",
+                "en": "Aire de Grands Jeux"
+              },
+              "tip_5lang": {
+                "de": "Metallstrukturen sind jetzt eiskalt; stellen Sie sicher, dass die Kinder beim Klettern dicke Handschuhe tragen.",
+                "hu": "A fémszerkezetek most jéghidegek; győződj meg róla, hogy a gyerekek vastag kesztyűt viselnek a mászókázás közben.",
+                "ro": "Structurile metalice sunt acum extrem de reci; asigurați-vă că micuții poartă mănuși groase când se cațără.",
+                "en": "Metal structures are ice-cold now; ensure the children are wearing thick gloves while climbing on the equipment."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Aventure Spatiale",
+                "hu": "L'Aventure Spatiale",
+                "ro": "L'Aventure Spatiale",
+                "en": "L'Aventure Spatiale"
+              },
+              "tip_5lang": {
+                "de": "Die frühen Abendlichter lassen das Weltraumthema lebendig werden; genießen Sie den Anblick kurz vor Sonnenuntergang um 17:00.",
+                "hu": "A korai esti fények életre keltik az űrtémát; élvezd a látványt közvetlenül a 17:00-kor bekövetkező naplemente előtt.",
+                "ro": "Luminile serii timpurii fac tema spațială să prindă viață; bucurați-vă de priveliște chiar înainte de apusul de la 17:00.",
+                "en": "The early evening lights bring the space theme to life; enjoy the view just before the sunset occurs around 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

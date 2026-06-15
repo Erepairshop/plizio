@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Loutro öblét őrző történelmi erődítmények felfedezésével. A délidő a közeli öblök csendes kavicsos partjaira csábít egy frissítő fürdőzésre. Délután fedezze fel a tornyosuló sziklák alatt megbúvó eldugottabb strandokat. Zárja az estét a csodálatos Marmara strandon, figyelve a tenger feletti csodás naplementét.",
         "ro": "Începeți dimineața printre fortificațiile istorice care păzesc golful Loutro. La prânz, ajungeți pe țărmurile liniștite ale golfurilor din apropiere pentru o baie revigorantă. După-amiaza, explorați plaje mai izolate ascunse sub stânci impunătoare. Încheiați seara la magnifica plajă Marmara, admirând apusul soarelui peste întinderea mării.",
         "en": "Begin your morning wandering among the historic fortifications guarding Loutro's scenic bay. Midday brings you to the tranquil pebble shores of nearby coves for a refreshing dip. In the afternoon, explore more secluded beaches tucked beneath towering cliffs. Conclude your evening at the magnificent Marmara Beach, watching the spectacular sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nebliger Morgen an den Ruinen von Koules. Mittags wird der Küstenpfad nach Marmara durch den Regen rutschig; festes Schuhwerk ist unerlässlich. Am Nachmittag bieten die Tavernen am Lycos Beach Schutz vor den Schauern. Der Abend klingt gemütlich bei einem Glas Wein aus, während der Regen auf die Dächer prasselt.",
+            "hu": "Reggel a Koules romjai között ködfátyol fogad, a szürke tenger látványa drámai. Délben a szűk ösvények csúszóssá válnak, így a Marmara felé vezető út fokozott figyelmet igényel. Délután a tengeri szél felerősödik, a parti tavernák nyújtanak menedéket. Este a falu fényeiben pihenünk meg, hallgatva a hullámok morajlását.",
+            "ro": "O dimineață cețoasă printre ruinele Koules. La prânz, poteca de coastă spre Marmara devine alunecoasă din cauza ploii; încălțămintea solidă este esențială. După-amiaza, tavernele de pe plajă oferă adăpost împotriva averselor. Seara se încheie confortabil în sat, ascultând sunetul ploii pe acoperișuri.",
+            "en": "A misty morning at the Koules ruins. By midday, the coastal path to Marmara becomes slippery from the rain; sturdy boots are essential. In the afternoon, beachside tavernas provide shelter from the showers. The evening ends cozily in the village, listening to the roar of the sea and the rain on the roofs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Koules of Loutros",
+                "hu": "Koules of Loutros",
+                "ro": "Koules of Loutros",
+                "en": "Koules of Loutros"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die osmanische Festung bei dramatischem Regenwetter; die Steine sind extrem rutschig, achten Sie auf festen Tritt und wasserfeste Kleidung.",
+                "hu": "Fedezze fel az oszmán erőd maradványait a drámai esőben; a kövek rendkívül csúszósak, ezért viseljen bordázott talpú túrabakancsot és esőkabátot.",
+                "ro": "Explorați ruinele fortăreței otomane în decorul dramatic al ploii; pietrele sunt extrem de alunecoase, deci purtați bocanci cu talpă aderentă.",
+                "en": "Explore the remains of the Ottoman fortress amidst dramatic rainy skies; the stones are extremely slippery, so wear sturdy hiking boots and waterproof gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Kastella",
+                "hu": "Kastella",
+                "ro": "Kastella",
+                "en": "Kastella"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie diese antiken Mauern direkt am Meer; bei Regen wirkt die Brandung besonders gewaltig, bleiben Sie jedoch sicherheitsbedingt fern vom Wasserrand.",
+                "hu": "Tekintse meg az ókori falakat közvetlenül a parton; esőben a hullámverés lenyűgöző, de biztonsági okokból maradjon távol a közvetlen vízparti szikláktól.",
+                "ro": "Vizitați zidurile antice chiar lângă mare; pe ploaie, valurile sunt impresionante, dar păstrați distanța de marginea apei pentru siguranță.",
+                "en": "Visit the ancient walls right by the sea; in the rain, the crashing waves are spectacular, but stay well back from the water's edge for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Finikas Beach",
+                "hu": "Finikas strand",
+                "ro": "Plaja Finikas",
+                "en": "Finikas Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in einer der kleinen Tavernen am Strand und genießen Sie warme kretische Meze, während Sie den Regen über dem Libyschen Meer beobachten.",
+                "hu": "Keressen menedéket a strand egyik kis tavernájában, és élvezze a meleg krétai mezéket, miközben az esőt figyeli a Líbiai-tenger felett.",
+                "ro": "Adăpostiți-vă într-una dintre micile taverne de pe plajă și savurați meze cretane calde în timp ce priviți ploaia deasupra mării.",
+                "en": "Seek shelter in one of the small beach tavernas and enjoy warm Cretan meze while watching the rain fall over the Libyan Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Lycos Beach",
+                "hu": "Lycos strand",
+                "ro": "Plaja Lycos",
+                "en": "Lycos Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Kiesstrand, der bei Regen eine melancholische Schönheit besitzt; nutzen Sie die überdachten Terrassen für eine Pause und bringen Sie einen Regenschirm mit.",
+                "hu": "Csendes kavicsos strand, amely esőben melankolikus szépséget áraszt; használja a fedett teraszokat egy pihenőre, és legyen önnél esernyő a rövid sétákhoz.",
+                "ro": "O plajă liniștită cu pietriș care are o frumusețe melancolică pe ploaie; folosiți terasele acoperite pentru o pauză și aveți o umbrelă la îndemână.",
+                "en": "A quiet pebble beach that holds a melancholic beauty in the rain; use the covered terraces for a break and keep an umbrella handy for short walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Marmara Beach",
+                "hu": "Marmara strand",
+                "ro": "Plaja Marmara",
+                "en": "Marmara Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Marmorhöhlen bieten natürlichen Schutz vor leichtem Regen; der Weg hierher ist steinig und nass, gehen Sie also langsam und vorsichtig.",
+                "hu": "A márványbarlangok természetes menedéket nyújtanak az enyhe eső elől; az idevezető út köves és nedves, ezért haladjon lassan és óvatosan.",
+                "ro": "Peșterile de marmură oferă adăpost natural împotriva ploii ușoare; drumul până aici este stâncos și ud, așa că mergeți încet și cu atenție.",
+                "en": "The marble caves offer natural shelter from light rain; the path here is rocky and wet, so walk slowly and exercise caution with every step."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen mit frischer Meeresbrise. Mittags wärmt die tiefstehende Sonne die Felsen, ideal für Wanderungen ohne Sommerhitze. Am Nachmittag ziehen kühle Winde auf, Schichten aus Kleidung sind nötig. Da die Sonne gegen 17:00 Uhr untergeht, genießen wir den frühen, farbenfrohen Abend in einer warmen Stube.",
+            "hu": "Tiszta téli reggel friss tengeri szellővel. Délben az alacsonyan járó nap kellemesen melegíti a sziklákat, ideális a túrázáshoz a nyári hőség nélkül. Délután hűvös szél támad, a réteges öltözködés elengedhetetlen. Mivel a nap 17:00 körül nyugszik, az estét már egy meleg szobában töltjük.",
+            "ro": "O dimineață senină de iarnă cu o briză proaspătă. La prânz, soarele blând încălzește stâncile, fiind perfect pentru drumeții fără caniculă. După-amiaza, vântul devine tăios, deci hainele groase sunt necesare. Soarele apune la ora 17:00, lăsând loc unei seri liniștite și răcoroase.",
+            "en": "A crisp winter morning with a fresh sea breeze. At midday, the low sun warms the rocks, making it ideal for hiking without the summer heat. In the afternoon, cool winds pick up, making layers essential. As the sun sets around 5 PM, enjoy the early, colorful evening in a warm indoor spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Koules of Loutros",
+                "hu": "Koules of Loutros",
+                "ro": "Koules of Loutros",
+                "en": "Koules of Loutros"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist spektakulär; bringen Sie eine winddichte Jacke mit, da es auf der Anhöhe der Festung deutlich kühler sein kann als im Ort.",
+                "hu": "A téli látótávolság lenyűgöző a romoktól; hozzon magával szélálló dzsekit, mert a vár magaslatán sokkal hűvösebb van, mint a faluban.",
+                "ro": "Vizibilitatea de iarnă este spectaculoasă de la ruine; aduceți o jachetă rezistentă la vânt, deoarece pe înălțimea fortăreței este mult mai frig decât în sat.",
+                "en": "Winter visibility is spectacular from the ruins; bring a windproof jacket, as it can be significantly cooler on the fortress hill than in the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Kastella",
+                "hu": "Kastella",
+                "ro": "Kastella",
+                "en": "Kastella"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit an diesen antiken Mauern; der Winter ist die beste Zeit für Fotos ohne Touristenmassen, achten Sie jedoch auf den frühen Schattenwurf.",
+                "hu": "Élvezze a magányt az ókori falaknál; a tél a legjobb időszak a tömeg nélküli fotózáshoz, de figyeljen a hegyek miatti korai árnyékokra.",
+                "ro": "Bucurați-vă de singurătate la zidurile antice; iarna este cel mai bun moment pentru fotografii fără turiști, dar atenție la umbrele timpurii.",
+                "en": "Enjoy the solitude at these ancient walls; winter is the best time for photos without crowds, but be mindful of the early shadows from the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Finikas Beach",
+                "hu": "Finikas strand",
+                "ro": "Plaja Finikas",
+                "en": "Finikas Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort für eine Thermoskanne Tee am Ufer; das Wasser ist zu kalt zum Baden, aber die Wintersonne im Gesicht ist herrlich entspannend.",
+                "hu": "Békés hely egy termosz tea elfogyasztásához a parton; a víz túl hideg a fürdéshez, de a téli napsütés az arcon csodálatosan pihentető.",
+                "ro": "Un loc liniștit pentru a bea un ceai cald din termos pe mal; apa este prea rece pentru înot, dar soarele de iarnă este extrem de relaxant.",
+                "en": "A peaceful spot for a thermos of warm tea by the shore; the water is too cold for swimming, but the winter sun on your face is wonderfully relaxing."
+              }
+            },
+            {
+              "name": {
+                "de": "Lycos Beach",
+                "hu": "Lycos strand",
+                "ro": "Plaja Lycos",
+                "en": "Lycos Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang entlang des Kieselstrands, um warm zu bleiben; tragen Sie eine Mütze gegen den oft scharfen Wind vom Meer her.",
+                "hu": "Tegyen egy tempós sétát a kavicsos parton, hogy melegen tartsa magát; viseljen sapkát a tengerről érkező, gyakran metsző szél ellen.",
+                "ro": "Faceți o plimbare vioaie pe plaja cu pietriș pentru a vă menține căldura; purtați o căciulă împotriva vântului tăios care vine dinspre mare.",
+                "en": "Take a brisk walk along the pebble shore to keep warm; wear a beanie against the often biting wind coming off the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Marmara Beach",
+                "hu": "Marmara strand",
+                "ro": "Plaja Marmara",
+                "en": "Marmara Beach"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Rückweg vor 16:30 Uhr ein, da der Pfad in der Dämmerung schwer begehbar ist; die weißen Steine leuchten im Winterlicht besonders hell.",
+                "hu": "Tervezze meg a visszautat 16:30 előtt, mert alkonyatkor az ösvény nehezen járható; a fehér sziklák különlegesen fénylenek a téli világításban.",
+                "ro": "Planificați drumul de întoarcere înainte de 16:30, deoarece poteca este greu de parcurs pe amurg; stâncile albe strălucesc intens în lumina iernii.",
+                "en": "Plan your return walk before 4:30 PM, as the path is difficult to navigate at dusk; the white rocks glow brilliantly in the winter light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel tekerjen el a tengerparti velencei romokhoz, és élvezze a lélegzetelállító kilátást. Dél körül bringázzon át a közeli öböl csendes vizeihez, mielőtt felkapaszkodna a hegyekbe a történelmi emlékekhez. Délután fedezze fel a falu feletti ősi őrtornyokat. A nap békés lezárásaként egy érintetlen, nyüzsgéstől mentes strandon pihenhet meg a vízparton.",
         "ro": "Pedalați dimineața către ruinele venețiene de pe coastă pentru a vă bucura de vederi uluitoare. În jurul prânzului, mergeți spre apele liniștite ale golfului înainte de a urca pe dealuri pentru istorie antică. După-amiaza, explorați vechile turnuri de veghe de deasupra satului. Încheiați ziua relaxant pe o plajă virgină, complet izolată de agitație.",
         "en": "Ride to the coastal Venetian ruins in the morning, enjoying breathtaking sea views along the way. Around midday, cycle to the tranquil waters of the bay before heading into the hills for ancient history. In the afternoon, explore old watchtowers perched high above the village. A peaceful, crowd-free beach provides the perfect relaxing conclusion to your active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein herausfordernder Morgen auf den Straßen von Anopolis. Bei Regen sind die Abfahrten zum Meer rutschig, vorsichtiges Bremsen ist Pflicht. Mittags bietet die antike Stadt Schutz unter historischen Mauern. Am Nachmittag radeln wir durch den Nebel der Berge. Der Abend endet warm und trocken im Hotel.",
+            "hu": "Kihívásokkal teli reggel Anopolis útjain. Esőben a tenger felé vezető lejtők csúszósak, az óvatos fékezés kötelező. Délben az ősi város történelmi falai alatt keresünk menedéket. Délután a hegyi ködben tekerünk vissza. Az este már melegben és szárazon ér minket a szálláson.",
+            "ro": "O dimineață provocatoare pe drumurile din Anopolis. Pe ploaie, coborârile spre mare sunt alunecoase, frânarea atentă fiind obligatorie. La prânz, orașul antic oferă adăpost sub zidurile istorice. După-amiaza pedalăm prin ceața munților. Seara se încheie la căldură și uscat.",
+            "en": "A challenging morning on the roads of Anopolis. In the rain, the descents towards the sea are slippery, making cautious braking mandatory. At midday, the ancient city provides shelter under historic walls. In the afternoon, we cycle through the mountain mist. The evening ends warm and dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kastella",
+                "hu": "Kastella",
+                "ro": "Kastella",
+                "en": "Kastella"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei Regen Pfützen bilden; fahren Sie langsam und achten Sie auf weggespülten Kies auf der Fahrbahn.",
+                "hu": "A parti út mentén esőben tócsák alakulhatnak ki; haladjon lassan, és figyeljen az úttestre mosott kavicsokra és törmelékre.",
+                "ro": "Drumul de coastă poate avea bălți pe ploaie; mergeți încet și fiți atenți la pietrișul adus de apă pe carosabil.",
+                "en": "The coastal road can develop deep puddles in the rain; cycle slowly and watch out for gravel washed onto the road surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Koules of Loutros",
+                "hu": "Koules of Loutros",
+                "ro": "Koules of Loutros",
+                "en": "Koules of Loutros"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem sicheren Ort ab; der Aufstieg zur Festung ist steinig und bei Nässe sehr gefährlich für Radschuhe.",
+                "hu": "Parkolja le kerékpárját biztonságos helyen; a várhoz vezető feljáró köves, és nedvesen nagyon veszélyes a kerékpáros cipőkben.",
+                "ro": "Parcați bicicleta într-un loc sigur; urcarea spre cetate este stâncoasă și, pe timp de ploaie, foarte periculoasă în pantofi de ciclism.",
+                "en": "Park your bike in a safe spot; the climb to the fortress is rocky and can be very dangerous in cycling shoes when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Finikas Beach",
+                "hu": "Finikas strand",
+                "ro": "Plaja Finikas",
+                "en": "Finikas Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause für einen Check Ihrer Bremsen; die Feuchtigkeit beeinträchtigt die Bremsleistung bei der weiteren Tour erheblich.",
+                "hu": "Használja ki a pihenőt a fékek ellenőrzésére; a nedvesség jelentősen rontja a fékteljesítményt a túra további szakaszain.",
+                "ro": "Folosiți pauza pentru a verifica frânele; umiditatea afectează semnificativ performanța de frânare în restul turului.",
+                "en": "Use the break to check your brakes; moisture significantly impairs braking performance during the rest of your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancient Anopolis",
+                "hu": "Ősi Anopolis",
+                "ro": "Vechiul Anopolis",
+                "en": "Ancient Anopolis"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen auf dem Plateau liegen oft in den Wolken; tragen Sie eine leuchtende Regenjacke, um im Nebel für Autofahrer sichtbar zu sein.",
+                "hu": "A fennsíkon fekvő romok gyakran felhőbe burkolóznak; viseljen élénk színű esőkabátot, hogy a ködben látható maradjon az autósok számára.",
+                "ro": "Ruinele de pe platou sunt adesea în nori; purtați o jachetă de ploaie reflectorizantă pentru a fi vizibil în ceață.",
+                "en": "The ruins on the plateau are often shrouded in clouds; wear a bright raincoat to stay visible to drivers in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikros Koules of Loutros",
+                "hu": "Mikros Koules of Loutros",
+                "ro": "Mikros Koules of Loutros",
+                "en": "Mikros Koules of Loutros"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Fotos der nebligen Schluchten; achten Sie beim Absteigen auf den rutschigen Untergrund neben der Straße.",
+                "hu": "Rövid megálló a ködös szurdokok fotózásához; a leszállásnál ügyeljen az út menti csúszós, füves vagy köves padkára.",
+                "ro": "O oprire scurtă pentru fotografii cu defileele cețoase; aveți grijă la terenul alunecos de lângă drum când coborâți de pe bicicletă.",
+                "en": "A quick stop for photos of the misty gorges; be careful of the slippery ground beside the road when dismounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Timios Stavros beach",
+                "hu": "Timios Stavros strand",
+                "ro": "Plaja Timios Stavros",
+                "en": "Timios Stavros beach"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenwinde können Regen peitschen; sichern Sie Ihr Equipment und genießen Sie den Anblick der stürmischen See aus der Ferne.",
+                "hu": "A parti szél az arcába verheti az esőt; rögzítse felszerelését, és élvezze a viharos tenger látványát biztonságos távolságból.",
+                "ro": "Vânturile de coastă pot aduce ploaie puternică; asigurați-vă echipamentul și admirați marea agitată de la o distanță sigură.",
+                "en": "Coastal winds can lash the rain against you; secure your gear and enjoy the sight of the stormy sea from a safe distance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen im Hochland. Die Luft in Anopolis ist rein und kühl, perfekt für den anstrengenden Aufstieg. Mittags genießen wir die weite Sicht bis nach Gavdos. Am Nachmittag sinken die Temperaturen schnell, warme Handschuhe sind nun Gold wert. Vor der frühen Dunkelheit kehren wir nach Loutro zurück.",
+            "hu": "Friss téli reggel a felföldön. Anopolis levegője tiszta és hűvös, tökéletes a megterhelő emelkedőkhöz. Délben élvezzük a végtelen kilátást egészen Gavdos szigetéig. Délután a hőmérséklet gyorsan süllyed, a meleg kesztyű aranyat ér. A korai sötétedés előtt érünk vissza Loutróba.",
+            "ro": "O dimineață răcoroasă de iarnă în podiș. Aerul din Anopolis este curat și rece, ideal pentru urcările solicitante. La prânz ne bucurăm de vizibilitatea până la insula Gavdos. După-amiaza temperaturile scad rapid, mănușile fiind esențiale. Ne întoarcem înainte de lăsarea întunericului.",
+            "en": "A fresh winter morning in the highlands. The air in Anopolis is pure and cool, perfect for the strenuous climbs. At midday, enjoy the clear view all the way to Gavdos island. In the afternoon, temperatures drop quickly, making warm gloves a lifesaver. We return to Loutro before the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kastella",
+                "hu": "Kastella",
+                "ro": "Kastella",
+                "en": "Kastella"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet; tragen Sie eine Sportsonnenbrille, um die Konturen des Weges klar zu erkennen.",
+                "hu": "A téli nap alacsonyan jár és vakíthat; viseljen sportnapszemüveget, hogy tisztán lássa az út egyenetlenségeit és a kanyarokat.",
+                "ro": "Soarele de iarnă este jos și orbitor; purtați ochelari de soare sport pentru a vedea clar contururile drumului și obstacolele.",
+                "en": "The winter sun sits low and can be blinding; wear sports sunglasses to clearly see the road contours and any obstacles."
+              }
+            },
+            {
+              "name": {
+                "de": "Koules of Loutros",
+                "hu": "Koules of Loutros",
+                "ro": "Koules of Loutros",
+                "en": "Koules of Loutros"
+              },
+              "tip_5lang": {
+                "de": "Nach dem Schwitzen beim Aufstieg kühlt man hier oben schnell aus; ziehen Sie sofort eine Windjacke über, wenn Sie anhalten.",
+                "hu": "Az emelkedő utáni izzadás után itt fenn gyorsan kihűlhet; azonnal vegyen fel szélkabátot, amint megáll nézelődni.",
+                "ro": "După efortul urcării, vă puteți răci rapid aici sus; puneți-vă imediat o jachetă de vânt când vă opriți pentru poze.",
+                "en": "After sweating during the climb, you can cool down quickly up here; put on a windbreaker immediately when you stop to explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Finikas Beach",
+                "hu": "Finikas strand",
+                "ro": "Plaja Finikas",
+                "en": "Finikas Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Luft am Wasser ist im Winter sehr feucht und kalt; ein heißes Getränk aus der Thermoskanne hilft, die Körperwärme zu halten.",
+                "hu": "A vízparti levegő télen nagyon párás és hideg; egy termoszban vitt forró ital segít fenntartani a testhőt a pihenő alatt.",
+                "ro": "Aerul de lângă apă este foarte umed și rece iarna; o băutură fierbinte din termos vă va ajuta să vă mențineți temperatura corpului.",
+                "en": "The air by the water is very humid and cold in winter; a hot drink from a thermos will help maintain your body heat during the break."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancient Anopolis",
+                "hu": "Ősi Anopolis",
+                "ro": "Vechiul Anopolis",
+                "en": "Ancient Anopolis"
+              },
+              "tip_5lang": {
+                "de": "Das Plateau ist ungeschützt gegen den Nordwind; tragen Sie ein Stirnband unter dem Helm, um Ihre Ohren vor der Kälte zu schützen.",
+                "hu": "A fennsík védtelen az északi széllel szemben; viseljen vékony fejpántot a sisak alatt, hogy védje füleit a fagyos széltől.",
+                "ro": "Platoul este expus vântului de nord; purtați o bentiță sub cască pentru a vă proteja urechile de frigul pătrunzător.",
+                "en": "The plateau is unprotected against the north wind; wear a thin headband under your helmet to protect your ears from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikros Koules of Loutros",
+                "hu": "Mikros Koules of Loutros",
+                "ro": "Mikros Koules of Loutros",
+                "en": "Mikros Koules of Loutros"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die schneebedeckten Weißen Berge im Hintergrund ist im Winter atemberaubend; halten Sie für ein schnelles Foto.",
+                "hu": "A háttérben lévő havas Fehér-hegység látványa télen lenyűgöző; álljon meg egy gyors fotóra, de ne maradjon túl sokáig egy helyben.",
+                "ro": "Vederea spre Munții Albi înzăpeziți din fundal este uluitoare iarna; opriți-vă pentru o fotografie rapidă, dar nu staționați mult.",
+                "en": "The view of the snow-capped White Mountains in the background is breathtaking in winter; stop for a quick photo but don't stay still too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Timios Stavros beach",
+                "hu": "Timios Stavros strand",
+                "ro": "Plaja Timios Stavros",
+                "en": "Timios Stavros beach"
+              },
+              "tip_5lang": {
+                "de": "Die frühe Dämmerung beginnt hier unten zuerst; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg voll funktionsfähig ist.",
+                "hu": "Az alkonyat itt lent kezdődik legkorábban; győződjön meg róla, hogy a kerékpáros lámpái megfelelően működnek a visszúthoz.",
+                "ro": "Amurgul începe aici cel mai devreme; asigurați-vă că luminile bicicletei sunt complet funcționale pentru drumul de întoarcere.",
+                "en": "Twilight begins earliest down here by the coast; ensure your bike lights are fully functional for the return journey."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós túráját a hegyekben az ősi Anopolis lelőhelyénél és a történelmi őrtornyoknál. Ebédidőben ereszkedjen le a tengerparthoz, és pihenjen meg egy eldugott, békés partszakaszon. A délután festői autózást kínál a közvetlenül a vízparton álló régi velencei erődítményekhez. A nap a Marmara strand látványos szikláinál és öblénél zárul tökéletesen.",
         "ro": "Începeți turul cu mașina în munți, la situl antic Anopolis și turnurile sale de veghe. Coborâți spre coastă la prânz și relaxați-vă pe o fâșie izolată și pașnică de țărm. După-amiaza oferă o plimbare pitorească spre vechile fortărețe venețiene așezate direct pe malul apei. Ziua dumneavoastră se termină perfect la stâncile și golfurile spectaculoase de pe plaja Marmara.",
         "en": "Begin your driving tour in the hills at the ancient site of Anopolis and its historic watchtowers. Descend to the coast at midday and relax on an isolated, peaceful stretch of shore. The afternoon provides a scenic drive to old Venetian fortresses sitting directly on the waterfront. Your day finishes perfectly at the spectacular cliffs and cove of Marmara Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahrt durch die nebligen Serpentinen nach Anopolis. Bei Regen ist auf den Bergstraßen Vorsicht vor Steinschlag geboten. Mittags erkunden wir die Koules-Ruinen zwischen den Wolken. Am Nachmittag führt die Route zur Küste, wo die stürmische See ein wildes Panorama bietet. Der Abend ist perfekt für ein traditionelles Essen im Dorf.",
+            "hu": "Autózás a ködös szerpentineken Anopolis felé. Esőben a hegyi utakon ügyelni kell az esetleges kőomlásokra. Délben a Koules romjait fedezzük fel a felhők között. Délután az út a part felé vezet, ahol a viharos tenger vadregényes panorámát nyújt. Az este tökéletes egy hagyományos vacsorához.",
+            "ro": "Conducem pe serpentinele cețoase spre Anopolis. Pe ploaie, fiți atenți la căderile de pietre pe drumurile montane. La prânz explorăm ruinele Koules printre nori. După-amiaza, drumul duce spre coastă, unde marea agitată oferă o panoramă sălbatică. Seara este perfectă pentru o cină tradițională.",
+            "en": "Driving through the misty serpentines to Anopolis. In the rain, be cautious of potential rockfalls on the mountain roads. At midday, we explore the Koules ruins among the clouds. In the afternoon, the route leads to the coast, where the stormy sea offers a wild panorama. The evening is perfect for a traditional dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ancient Anopolis",
+                "hu": "Ősi Anopolis",
+                "ro": "Vechiul Anopolis",
+                "en": "Ancient Anopolis"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungsstätte kann bei Regen matschig sein; parken Sie auf festem Grund und nutzen Sie die Infotafeln als kurzen Regenschutz.",
+                "hu": "Az ásatási terület esőben saras lehet; parkoljon szilárd talajon, és használja az információs táblákat rövid esővédőként.",
+                "ro": "Situl arheologic poate fi noroios pe ploaie; parcați pe teren solid și folosiți panourile informative ca scurt adăpost.",
+                "en": "The archaeological site can be muddy in the rain; park on firm ground and use the information boards as brief shelter from showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikros Koules of Loutros",
+                "hu": "Mikros Koules of Loutros",
+                "ro": "Mikros Koules of Loutros",
+                "en": "Mikros Koules of Loutros"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus ist es nur ein kurzer, aber rutschiger Weg; halten Sie sich an den festen Steinen und genießen Sie die mystische Stimmung.",
+                "hu": "A parkolótól csak rövid, de csúszós út vezet a romokhoz; kapaszkodjon meg a stabil kövekben, és élvezze a misztikus hangulatot.",
+                "ro": "De la parcare este un drum scurt, dar alunecos; sprijiniți-vă de pietrele stabile și bucurați-vă de atmosfera mistică.",
+                "en": "It is a short but slippery walk from the parking area; hold onto stable rocks and enjoy the mystical atmosphere of the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Kambia Koules",
+                "hu": "Kambia Koules",
+                "ro": "Kambia Koules",
+                "en": "Kambia Koules"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Schluchten im Nebel ist dramatisch; bleiben Sie im Auto, wenn der Regen zu stark wird, und warten Sie auf eine Lücke.",
+                "hu": "A szurdokokra nyíló kilátás a ködben drámai; maradjon az autóban, ha az eső túl erős, és várjon egy rövidebb csapadékmentes szünetre.",
+                "ro": "Vederea spre defilee în ceață este dramatică; rămâneți în mașină dacă ploaia este prea puternică și așteptați o pauză în precipitații.",
+                "en": "The view of the gorges in the mist is dramatic; stay in the car if the rain is too heavy and wait for a brief clearing in the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Timios Stavros beach",
+                "hu": "Timios Stavros strand",
+                "ro": "Plaja Timios Stavros",
+                "en": "Timios Stavros beach"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Strand kann bei Starkregen weggespült werden; prüfen Sie die Straßenzustände und parken Sie nicht in Senken.",
+                "hu": "A strandra vezető utat a heves esőzés alámoshatja; ellenőrizze az útviszonyokat, és ne parkoljon mélyebben fekvő területeken.",
+                "ro": "Drumul spre plajă poate fi afectat de ploi torențiale; verificați starea drumului și nu parcați în zonele joase unde se adună apa.",
+                "en": "The road to the beach can be washed out by heavy rain; check road conditions and avoid parking in low-lying areas where water pools."
+              }
+            },
+            {
+              "name": {
+                "de": "Kastella",
+                "hu": "Kastella",
+                "ro": "Kastella",
+                "en": "Kastella"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine leuchten dunkel bei Nässe; ein tolles Motiv für Fotos, aber achten Sie auf Ihre Kameraausrüstung bei dem Wind.",
+                "hu": "Az antik kövek sötéten fénylenek a nedvességtől; kiváló fotótéma, de ügyeljen a fényképezőgépére az erős parti szélben.",
+                "ro": "Pietrele antice strălucesc în nuanțe închise din cauza umezelii; un subiect foto excelent, dar protejați-vă camera de vântul puternic.",
+                "en": "The ancient stones glow darkly when wet; a great photo subject, but protect your camera equipment from the strong coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Marmara Beach",
+                "hu": "Marmara strand",
+                "ro": "Plaja Marmara",
+                "en": "Marmara Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Höhlen bieten bei Regen ein trockenes Plätzchen am Meer; achten Sie auf den Rückweg, da die Sicht in den Bergen oft schnell abnimmt.",
+                "hu": "A barlangok esőben is száraz helyet kínálnak a tengerparton; ügyeljen a visszútra, mert a hegyekben a látótávolság gyorsan csökkenhet.",
+                "ro": "Peșterile oferă un loc uscat la malul mării chiar și pe ploaie; atenție la drumul de întoarcere, vizibilitatea scade rapid în munți.",
+                "en": "The caves offer a dry spot by the sea even in the rain; be careful on the drive back, as visibility often drops quickly in the mountains."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein strahlender, kühler Wintertag in den kretischen Bergen. Die Straßen nach Anopolis sind leer, die Sicht über das Meer ist kristallklar. Mittags wärmt die Sonne im windgeschützten Auto. Am Nachmittag erleben wir einen spektakulären Sonnenuntergang über den Klippen. Der Abend bringt Kälte, die man am besten bei einem Kaminfeuer genießt.",
+            "hu": "Szikrázóan tiszta, hűvös téli nap a krétai hegyekben. Anopolis útjai üresek, a kilátás a tengerre kristálytiszta. Napközben az autó szélvédett utasterében kellemes a hőmérséklet. Délután látványos naplementét láthatunk a sziklák felett. Az este hideget hoz, amit a legjobb kandallótűz mellett tölteni.",
+            "ro": "O zi de iarnă senină și răcoroasă în munții cretani. Drumurile spre Anopolis sunt pustii, iar vizibilitatea peste mare este de cristal. La prânz, soarele încălzește mașina. După-amiaza admirăm un apus spectaculos peste stânci. Seara aduce un frig ce trebuie combătut lângă un șemineu.",
+            "en": "A brilliant, cool winter day in the Cretan mountains. The roads to Anopolis are empty, and the view over the sea is crystal clear. At midday, the sun warms the car's interior. In the afternoon, we witness a spectacular sunset over the cliffs. The evening brings cold, best enjoyed by a crackling fireplace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ancient Anopolis",
+                "hu": "Ősi Anopolis",
+                "ro": "Vechiul Anopolis",
+                "en": "Ancient Anopolis"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die antiken Steine zum Leuchten; nutzen Sie die ruhige Atmosphäre für eine ausgiebige Erkundung ohne Hitze.",
+                "hu": "A téli napfény különleges fénybe vonja az antik köveket; használja ki a nyugodt légkört a hőség nélküli, alapos felfedezéshez.",
+                "ro": "Lumina iernii scoate în evidență frumusețea pietrelor antice; profitați de atmosfera liniștită pentru o explorare detaliată fără caniculă.",
+                "en": "The winter sun makes the ancient stones glow; take advantage of the quiet atmosphere for a thorough exploration without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikros Koules of Loutros",
+                "hu": "Mikros Koules of Loutros",
+                "ro": "Mikros Koules of Loutros",
+                "en": "Mikros Koules of Loutros"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus sind es nur wenige Schritte zu einem tollen Fotopunkt; nehmen Sie eine warme Jacke für den kurzen Aufenthalt im Freien mit.",
+                "hu": "Az autótól csak pár lépés a kiváló fotópont; vigyen magával meleg kabátot a szabadban töltött rövid időre is a hűvös szél miatt.",
+                "ro": "De la mașină sunt doar câțiva pași până la un punct foto excelent; luați o jachetă groasă pentru scurta oprire în aer liber.",
+                "en": "It is only a few steps from the car to a great photo point; take a warm jacket for even a short stay outdoors due to the cool breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Kambia Koules",
+                "hu": "Kambia Koules",
+                "ro": "Kambia Koules",
+                "en": "Kambia Koules"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Straßenrand für ein Panorama der schneebedeckten Gipfel; im Winter ist die Luft so klar, dass man jedes Detail erkennt.",
+                "hu": "Parkoljon le az út szélén a havas hegycsúcsok panorámájáért; télen a levegő olyan tiszta, hogy minden apró részlet élesen látszik.",
+                "ro": "Parcați pe marginea drumului pentru o panoramă a vârfurilor înzăpezite; iarna aerul este atât de curat încât orice detaliu este vizibil.",
+                "en": "Park by the roadside for a panorama of the snow-capped peaks; in winter, the air is so clear that every detail is sharply visible."
+              }
+            },
+            {
+              "name": {
+                "de": "Timios Stavros beach",
+                "hu": "Timios Stavros strand",
+                "ro": "Plaja Timios Stavros",
+                "en": "Timios Stavros beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die tiefstehende Sonne am leeren Strand; da es früh dunkel wird, sollten Sie gegen 16:30 Uhr den Rückweg antreten.",
+                "hu": "Élvezze az alacsonyan járó nap fényét az üres strandon; mivel korán sötétedik, 16:30 körül érdemes elindulni visszafelé.",
+                "ro": "Bucurați-vă de soarele blând pe plaja pustie; deoarece se întunecă devreme, ar trebui să porniți înapoi în jurul orei 16:30.",
+                "en": "Enjoy the low sun on the empty beach; since it gets dark early, you should start your return journey around 4:30 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Kastella",
+                "hu": "Kastella",
+                "ro": "Kastella",
+                "en": "Kastella"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen werfen im Winter lange Schatten; ideal für künstlerische Schwarz-Weiß-Fotografie bei dem klaren, harten Licht.",
+                "hu": "A romok télen hosszú árnyékokat vetnek; ideális művészi fotózáshoz a tiszta, éles fények és a drámai kontrasztok miatt.",
+                "ro": "Ruinele aruncă umbre lungi iarna; este un moment ideal pentru fotografii artistice datorită luminii clare și contrastului puternic.",
+                "en": "The ruins cast long shadows in winter; ideal for artistic photography given the clear, sharp light and dramatic contrasts."
+              }
+            },
+            {
+              "name": {
+                "de": "Marmara Beach",
+                "hu": "Marmara strand",
+                "ro": "Plaja Marmara",
+                "en": "Marmara Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang direkt vom Auto aus oder in Ufernähe; die Farben im Winter sind oft intensiver als im Sommer.",
+                "hu": "Nézze meg a naplementét közvetlenül az autóból vagy a part közeléből; a színek télen gyakran intenzívebbek, mint a nyári hőségben.",
+                "ro": "Priviți apusul direct din mașină sau de lângă mal; culorile iernii sunt adesea mult mai intense decât cele din timpul verii.",
+                "en": "Watch the sunset directly from your car or near the shore; winter colors are often more intense than those during the summer heat."
+              }
+            }
+          ]
+        }
       }
     }
   }

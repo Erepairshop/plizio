@@ -160,6 +160,196 @@
         "hu": "A nap a kikötő közelében kezdődik, azonnal elmerülve a város spirituális örökségében. Beljebb haladva kisebb kápolnákat fedezhet fel, amelyek kiemelik a helyi kőfaragó készségeket. A fénypont a világhírű kőfaragó iskola, amely egy élő hagyományt mutat be. A napot a tengerparton pihenve és egy utolsó történelmi templom meglátogatásával zárja.",
         "ro": "Ziua începe lângă port, aprofundând imediat moștenirea spirituală a orașului. Mergând mai spre interior, descoperiți capele mai mici care evidențiază abilitățile locale de pietrărie. Punctul culminant este școala de pietrărie de renume mondial, care prezintă o tradiție vie. Încheiați ziua relaxându-vă la mare și vizitând o ultimă biserică istorică.",
         "en": "Your day begins near the harbor, delving immediately into the spiritual heritage of the town. Moving inward, you discover smaller chapels that highlight local stonemasonry skills. The highlight is the world-renowned stonemasonry school, showcasing a living tradition. You finish the day relaxing by the sea and visiting one last historic church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit sanftem Regen über der Bucht, der den weißen Marmor glänzen lässt; suchen Sie Schutz in der kühlen Stille der Kirchen. Mittags bietet die Steinhauerschule den perfekten trockenen Zufluchtsort, um Handwerkern zuzusehen. Am Nachmittag trotzen wir dem Wetter für einen kurzen Blick vom Aussichtspunkt, bevor der Tag gemütlich in der Nähe des Hafens ausklingt.",
+            "hu": "A reggel lágy esővel indul az öböl felett, ami megcsillogtatja a fehér márványt; keressen menedéket a templomok hűvös csendjében. Délben a Kőfaragó Iskola tökéletes száraz helyszín a kézművesek megfigyelésére. Délután dacolunk az időjárással egy rövid kilátópontos látogatás erejéig, mielőtt a nap hangulatosan, a kikötő közelében véget érne.",
+            "ro": "Dimineața începe cu o ploaie ușoară peste golf, făcând marmura albă să strălucească; căutați adăpost în liniștea răcoroasă a bisericilor. La prânz, Școala de Pietrărie oferă refugiul uscat perfect pentru a urmări meșteșugarii. După-amiaza înfruntăm vremea pentru o scurtă vizită la punctul de belvedere, înainte ca ziua să se încheie confortabil lângă port.",
+            "en": "The morning starts with gentle rain over the bay, making the white marble glisten; seek shelter in the cool silence of the churches. At noon, the Stonemasonry School provides the perfect dry sanctuary to watch craftsmen. In the afternoon, we brave the weather for a short viewpoint visit before the day ends cozily near the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche St. Hieronymus",
+                "hu": "Szent Jeromos-templom",
+                "ro": "Biserica Sf. Ieronim",
+                "en": "Church of St. Jerome"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocke Kunst im Inneren, während es draußen regnet, aber seien Sie vorsichtig: Der nasse Kalksteinboden am Eingang ist extrem rutschig.",
+                "hu": "Csodálja meg a benti barokk művészetet, miközben kint esik, de legyen óvatos: a bejáratnál lévő nedves mészkőpadló rendkívül csúszós.",
+                "ro": "Admirați arta barocă din interior în timp ce plouă afară, dar aveți grijă: podeaua de calcar umedă de la intrare este extrem de alunecoasă.",
+                "en": "Admire the baroque art inside while it rains outside, but be careful: the wet limestone floor at the entrance is extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau von Batak",
+                "hu": "Bataki Miasszonyunk temploma",
+                "ro": "Biserica Maicii Domnului din Batak",
+                "en": "Church of our Lady of Batak"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche bietet eine friedliche Atmosphäre bei Regen; achten Sie auf die schmalen Stufen, die bei Nässe poliert und glatt wirken.",
+                "hu": "Ez a kis templom békés hangulatot áraszt esőben is; ügyeljen a keskeny lépcsőkre, amelyek nedvesen tükörsimára csiszoltnak tűnhetnek.",
+                "ro": "Această mică biserică oferă o atmosferă liniștită pe ploaie; atenție la treptele înguste care pot părea lustruite și alunecoase când sunt ude.",
+                "en": "This small church offers a peaceful atmosphere in the rain; watch out for the narrow steps which can seem polished and slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Steinmetzschule",
+                "hu": "Kőfaragó Iskola",
+                "ro": "Școala de Pietrărie",
+                "en": "Stonemasonry School"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen als Ausrede, um länger im überdachten Werkstattbereich zu bleiben und den Studenten bei der präzisen Bearbeitung des Marmors zuzusehen.",
+                "hu": "Használja az esőt ürügyként, hogy tovább maradjon a fedett műhelyben, és megfigyelje a diákokat a márvány precíz megmunkálása közben.",
+                "ro": "Folosiți ploaia ca scuză pentru a sta mai mult în zona de atelier acoperită și pentru a urmări studenții prelucrând marmura cu precizie.",
+                "en": "Use the rain as an excuse to stay longer in the covered workshop area and watch students working the marble with precision."
+              }
+            },
+            {
+              "name": {
+                "de": "Sv. Rok",
+                "hu": "Szent Rókus",
+                "ro": "Sfântul Roc",
+                "en": "St. Rok"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die neblige Bucht ist dramatisch; ziehen Sie Ihre Regenjacke fest zu, da dieser Punkt dem Wind und Wetter stark ausgesetzt ist.",
+                "hu": "A ködös öbölre nyíló kilátás drámai; húzza szorosra az esőkabátját, mivel ez a pont erősen ki van téve a szélnek és az elemeknek.",
+                "ro": "Vederea spre golful cețos este dramatică; strângeți bine pelerina de ploaie, deoarece acest punct este foarte expus la vânt și intemperii.",
+                "en": "The view of the misty bay is dramatic; zip your raincoat tight as this point is highly exposed to the wind and the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Macel",
+                "hu": "Macel",
+                "ro": "Macel",
+                "en": "Macel"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenpromenade ist auch bei Regen schön, aber halten Sie Abstand vom Wasser, da Spritzwasser die Steine noch rutschiger machen kann.",
+                "hu": "A tengerparti sétány esőben is szép, de tartson távolságot a víztől, mert a felcsapó hullámok még csúszósabbá tehetik a köveket.",
+                "ro": "Promenada de coastă este frumoasă și pe ploaie, dar păstrați distanța față de apă, deoarece stropii pot face pietrele și mai alunecoase.",
+                "en": "The coastal promenade is beautiful even in rain, but keep distance from the water as sea spray can make the stones even more slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Lucia",
+                "hu": "Szent Lúcia templom",
+                "ro": "Biserica Sf. Lucia",
+                "en": "Church of St. Lucy"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang in dieser schützenden Steinkirche; prüfen Sie Ihre Karte drinnen, bevor Sie den kurzen Rückweg zum Hafen antreten.",
+                "hu": "Fejezze be körútját ebben a védelmező kőtemplomban; ellenőrizze a térképet bent, mielőtt elindulna a rövid úton vissza a kikötőbe.",
+                "ro": "Încheiați turul în această biserică protectoare de piatră; verificați harta în interior înainte de a porni pe drumul scurt înapoi spre port.",
+                "en": "Finish your tour in this protective stone church; check your map inside before taking the short walk back to the harbor area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Pučišća ist erfrischend, wenn die Bura-Winde die Luft reinigen; warme Kleidung ist für Kirchenbesuche unerlässlich. Mittags wärmt die Sonne die weißen Steinfassaden der Schule. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Nachmittagslicht am Aussichtspunkt, bevor die Stille der Winternacht einkehrt.",
+            "hu": "A tiszta téli reggel Pučišćában felfrissítő, ahogy a bóra szél tisztítja a levegőt; a templomlátogatáshoz elengedhetetlen a meleg öltözet. Délben a nap felmelegíti az iskola fehér kőhomlokzatait. Mivel a nap már 17:00 körül lemegy, kihasználjuk az aranyló délutáni fényeket a kilátónál, mielőtt beáll a téli éjszaka csendje.",
+            "ro": "O dimineață senină de iarnă în Pučišća este revigorantă, în timp ce vântul Bura curăță aerul; hainele groase sunt esențiale pentru vizitarea bisericilor. La prânz, soarele încălzește fațadele albe de piatră ale școlii. Deoarece soarele apune deja în jur de ora 17:00, profităm de lumina aurie a după-amiezii la punctul de belvedere.",
+            "en": "A clear winter morning in Pučišća is refreshing as the Bura wind clears the air; warm layers are essential for church visits. At noon, the sun warms the white stone facades of the school. Since the sun sets by 17:00, we use the golden afternoon light at the viewpoint before the silence of the winter night sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche St. Hieronymus",
+                "hu": "Szent Jeromos-templom",
+                "ro": "Biserica Sf. Ieronim",
+                "en": "Church of St. Jerome"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine warme Kopfbedeckung, da das Kircheninnere im Winter recht kühl sein kann; der weiße Stein speichert die Kälte der Nacht lange.",
+                "hu": "Viseljen meleg sapkát, mivel a templom belseje télen elég hűvös lehet; a fehér kő hosszan tárolja az éjszakai hideget.",
+                "ro": "Purtați o căciulă groasă, deoarece interiorul bisericii poate fi destul de rece iarna; piatra albă reține frigul nopții pentru mult timp.",
+                "en": "Wear a warm hat as the church interior can be quite chilly in winter; the white stone retains the night's cold for a long time."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau von Batak",
+                "hu": "Bataki Miasszonyunk temploma",
+                "ro": "Biserica Maicii Domnului din Batak",
+                "en": "Church of our Lady of Batak"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hierher wärmt Sie auf; nutzen Sie die tiefe Wintersonne für Fotos, da sie den weißen Stein ohne harte Schatten beleuchtet.",
+                "hu": "Az idevezető kaptató felmelegíti; használja ki az alacsony téli napállást a fotózáshoz, mert lágyan világítja meg a fehér követ.",
+                "ro": "Urcarea până aici vă va încălzi; profitați de soarele jos de iarnă pentru fotografii, deoarece luminează piatra albă fără umbre dure.",
+                "en": "The climb up here will warm you up; use the low winter sun for photos as it illuminates the white stone without harsh shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Steinmetzschule",
+                "hu": "Kőfaragó Iskola",
+                "ro": "Școala de Pietrărie",
+                "en": "Stonemasonry School"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um der beißenden Bura zu entkommen; beobachten Sie eine Stunde lang das Handwerk im windgeschützten Innenbereich.",
+                "hu": "Ez az ideális hely, hogy elmeneküljön a metsző bóra elől; figyelje meg a kézműves munkát egy órán át a szélvédett belső térben.",
+                "ro": "Acesta este locul ideal pentru a scăpa de vântul tăios Bura; observați meșteșugul timp de o oră în zona interioară ferită de vânt.",
+                "en": "This is the ideal place to escape the biting Bura wind; spend an hour observing the craft in the wind-protected indoor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Sv. Rok",
+                "hu": "Szent Rókus",
+                "ro": "Sfântul Roc",
+                "en": "St. Rok"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie spätestens um 16:30 Uhr hier an, um den frühen Wintersonnenuntergang über dem Hafen zu erleben, bevor es schlagartig dunkel wird.",
+                "hu": "Érkezzen meg legkésőbb 16:30-kor, hogy átélje a korai téli naplementét a kikötő felett, mielőtt hirtelen besötétedne.",
+                "ro": "Ajungeți aici cel târziu la ora 16:30 pentru a vedea apusul timpuriu de iarnă peste port, înainte de a se întuneca brusc.",
+                "en": "Arrive here by 16:30 at the latest to experience the early winter sunset over the harbor before it suddenly gets dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Macel",
+                "hu": "Macel",
+                "ro": "Macel",
+                "en": "Macel"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang am Meer hält den Kreislauf in Schwung; die Meeresbrise fühlt sich im Januar deutlich kälter an, als das Thermometer zeigt.",
+                "hu": "Egy tempós séta a tengerparton mozgásban tartja a keringést; a tengeri szellő januárban sokkal hidegebbnek érződik, mint amit a mérő mutat.",
+                "ro": "O plimbare vioaie pe malul mării vă va menține circulația; briza mării se simte mult mai rece în ianuarie decât indică termometrul.",
+                "en": "A brisk walk by the sea keeps your circulation going; the sea breeze feels much colder in January than the thermometer suggests."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Lucia",
+                "hu": "Szent Lúcia templom",
+                "ro": "Biserica Sf. Lucia",
+                "en": "Church of St. Lucy"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag zügig, da der Ort im Winter früh zur Ruhe kommt; die dicken Kirchenmauern bieten Schutz vor der kühler werdenden Abendluft.",
+                "hu": "Fejezze be gyorsan a napot, mivel a település télen korán elcsendesedik; a vastag templomfalak védelmet nyújtanak a hűvösödő esti levegő ellen.",
+                "ro": "Încheiați ziua rapid, deoarece localitatea se liniștește devreme iarna; zidurile groase ale bisericii oferă protecție împotriva aerului rece de seară.",
+                "en": "Finish the day quickly as the town goes quiet early in winter; the thick church walls offer protection against the cooling evening air."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A kerékpározás csodálatos módja annak, hogy nyomon kövesse a város történetét a belső sikátoroktól a part menti tájékozódási pontokig. A központi templomok után a híres kőfaragó iskolához tekerhet. A délután a part mentén gyönyörű rekreációs helyekre vezet. Az utazás egy frissítő tekeréssel zárul a világítótoronyhoz.",
         "ro": "Mersul pe bicicletă oferă o modalitate minunată de a urmări istoria orașului, de la aleile sale interioare până la reperele de coastă. După explorarea bisericilor centrale, veți pedala până la faimoasa școală de pietrărie. După-amiaza vă duce de-a lungul coastei către locuri de recreere frumoase. Călătoria se încheie cu o plimbare până la far.",
         "en": "Cycling offers a wonderful way to trace the town's history from its inner alleys to its prominent coastal landmarks. After exploring central churches, you'll pedal to the famous stonemasonry school. The afternoon takes you along the coast to beautiful recreational spots. The journey concludes with an invigorating ride out to the lighthouse."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Aufmerksamkeit auf den glatten Steinstraßen, bietet aber eine mystische Sicht auf die Küste. Morgens besuchen wir die Kirchen im Zentrum als trockene Stopps. Mittags bietet die Schule Schutz, bevor wir am Nachmittag vorsichtig entlang der Küste zum Leuchtturm fahren, während der Regen hoffentlich nachlässt.",
+            "hu": "Az esős kerékpározás figyelmet igényel a csúszós kőutakon, de misztikus kilátást nyújt a partra. Reggel a központ templomait keressük fel száraz megállóként. Délben az iskola nyújt menedéket, mielőtt délután óvatosan a part mentén a világítótoronyhoz tekernénk, miközben az eső remélhetőleg alábbhagy.",
+            "ro": "O plimbare cu bicicleta prin ploaie necesită atenție pe străzile alunecoase de piatră, dar oferă o vedere mistică asupra coastei. Dimineața vizităm bisericile din centru ca opriri uscate. La prânz, școala oferă adăpost înainte de a pedala cu prudență spre far după-amiaza.",
+            "en": "Cycling in the rain requires focus on the slippery stone roads but offers a mystical view of the coast. In the morning, we visit the central churches as dry stops. At noon, the school provides shelter before we carefully bike along the coast to the lighthouse in the afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche St. Lucia",
+                "hu": "Szent Lúcia templom",
+                "ro": "Biserica Sf. Lucia",
+                "en": "Church of St. Lucy"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start; die nassen Pflastersteine im Hafenbereich sind berüchtigt dafür, bei Regen extrem glatt zu sein.",
+                "hu": "Indulás előtt ellenőrizze a fékeit; a kikötői vizes macskakövek hírhedtek arról, hogy esőben rendkívül csúszósak.",
+                "ro": "Verificați frânele înainte de a porni; pavajul umed din zona portului este faimos pentru că devine extrem de alunecos pe ploaie.",
+                "en": "Check your brakes before starting; the wet cobblestones in the harbor area are notorious for being extremely slick in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Hieronymus",
+                "hu": "Szent Jeromos-templom",
+                "ro": "Biserica Sf. Ieronim",
+                "en": "Church of St. Jerome"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem nahen Balkon, um den Sattel trocken zu halten, während Sie das kunstvolle Innere dieser Kirche besichtigen.",
+                "hu": "Parkolja le a kerékpárját egy közeli erkély alá, hogy a nyereg száraz maradjon, amíg megtekinti a templom díszes belső terét.",
+                "ro": "Parcați bicicleta sub un balcon din apropiere pentru a păstra șaua uscată în timp ce vizitați interiorul ornat al acestei biserici.",
+                "en": "Park your bike under a nearby balcony to keep the seat dry while you visit the ornate interior of this church."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau von Batak",
+                "hu": "Bataki Miasszonyunk temploma",
+                "ro": "Biserica Maicii Domnului din Batak",
+                "en": "Church of our Lady of Batak"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie den Hang vorsichtig hinauf; die Steine sind poliert und bieten bei Nässe wenig Grip für schmale Fahrradreifen.",
+                "hu": "Óvatosan hajtson fel a lejtőn; a kövek csiszoltak és nedvesen kevés tapadást biztosítanak a vékony kerékpárgumiknak.",
+                "ro": "Urcați panta cu prudență; pietrele sunt lustruite și oferă puțină aderență pentru anvelopele subțiri de bicicletă atunci când sunt ude.",
+                "en": "Ride up the slope carefully; the stones are polished and offer little grip for thin bicycle tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Steinmetzschule",
+                "hu": "Kőfaragó Iskola",
+                "ro": "Școala de Pietrărie",
+                "en": "Stonemasonry School"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort zum Aufwärmen und Trocknen; bewundern Sie die filigranen Marmorarbeiten im überdachten Bereich der Schule.",
+                "hu": "Tökéletes hely a bemelegedésre és száradásra; csodálja meg a filigrán márványmunkákat az iskola fedett területén.",
+                "ro": "Un loc perfect pentru a vă încălzi și usca; admirați lucrările filigranate în marmură în zona acoperită a școlii.",
+                "en": "A perfect place to warm up and dry off; admire the filigree marble works in the covered area of the school."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Prve Lučice",
+                "hu": "Prve Lučice strand",
+                "ro": "Plaja Prve Lučice",
+                "en": "Prve Lučice Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Strand ist exponiert; achten Sie auf Pfützen und Gischt, falls der Wind bei Regen auffrischt.",
+                "hu": "A strandhoz vezető út nyitott; ügyeljen a tócsákra és a tengeri permetre, ha az eső mellé szél is társulna.",
+                "ro": "Drumul spre plajă este expus; atenție la bălți și la vaporii de apă de mare dacă vântul se intensifică în timpul ploii.",
+                "en": "The path to the beach is exposed; watch out for puddles and sea spray if the wind picks up during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm St. Nikolaus",
+                "hu": "Szent Miklós világítótorony",
+                "ro": "Farul Sfântul Nicolae",
+                "en": "St. Nicholas Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Feldweg könnte aufgeweicht sein; fahren Sie langsam, um auf dem unebenen und nassen Untergrund das Gleichgewicht zu halten.",
+                "hu": "A földút felázhatott; haladjon lassan, hogy megőrizze egyensúlyát az egyenetlen és vizes talajon.",
+                "ro": "Drumul de pământ poate fi moale; pedalați încet pentru a vă menține echilibrul pe suprafața denivelată și umedă.",
+                "en": "The dirt path might be soft; ride slowly to maintain your balance on the uneven and wet surface."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren erfordert Zwiebelschichten gegen den kalten Wind am Meer; die Straßen sind leer und friedlich. Morgens erkunden wir die historischen Kirchen, bevor wir mittags die Steinmetzschule besuchen. Der Nachmittag führt uns entlang der Küste zum Leuchtturm, wobei wir das Tageslicht bis zum frühen Sonnenuntergang gegen 17:00 Uhr voll ausnutzen.",
+            "hu": "A téli kerékpározás réteges öltözködést igényel a hideg tengeri szél ellen; az utak üresek és békések. Reggel a történelmi templomokat fedezzük fel, majd délben a kőfaragó iskolát. A délután a part mentén a világítótoronyhoz vezet, kihasználva a nappali fényt a korai, 17:00 körüli naplementéig.",
+            "ro": "Mersul cu bicicleta iarna necesită straturi de haine împotriva vântului rece de mare; drumurile sunt goale și liniștite. Dimineața explorăm bisericile istorice, apoi vizităm școala de pietrărie. După-amiaza ne conduce de-a lungul coastei spre far, profitând de lumină până la apusul devreme.",
+            "en": "Winter cycling requires layered clothing against the cold sea wind; the roads are empty and peaceful. In the morning we explore historical churches, followed by the stonemasonry school at noon. The afternoon leads us along the coast to the lighthouse, making use of daylight until the early sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche St. Lucia",
+                "hu": "Szent Lúcia templom",
+                "ro": "Biserica Sf. Lucia",
+                "en": "Church of St. Lucy"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit Handschuhen; der kalte Metalllenker entzieht Ihren Fingern im Januar schnell die Wärme, während Sie zur ersten Kirche fahren.",
+                "hu": "Induljon kesztyűben; a hideg fém kormány januárban gyorsan elszívja a hőt az ujjaiból, miközben az első templomhoz teker.",
+                "ro": "Porniți la drum cu mănuși; ghidonul metalic rece vă va îngheța rapid degetele în ianuarie în timp ce pedalați spre prima biserică.",
+                "en": "Start with gloves; the cold metal handlebars will quickly drain heat from your fingers in January as you cycle to the first church."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Hieronymus",
+                "hu": "Szent Jeromos-templom",
+                "ro": "Biserica Sf. Ieronim",
+                "en": "Church of St. Jerome"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte; ein kurzer Stopp hier ist erfrischend, aber bleiben Sie in Bewegung, um nicht auszukühlen.",
+                "hu": "A vastag falak tartják a hideget; egy rövid megálló itt felfrissítő, de maradjon mozgásban, hogy ne hűljön ki.",
+                "ro": "Zidurile groase rețin frigul; o scurtă oprire aici este revigorantă, dar rămâneți în mișcare pentru a nu vă răci corpul.",
+                "en": "The thick walls retain the cold; a short stop here is refreshing, but keep moving afterward to avoid getting a chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau von Batak",
+                "hu": "Bataki Miasszonyunk temploma",
+                "ro": "Biserica Maicii Domnului din Batak",
+                "en": "Church of our Lady of Batak"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das winterlich-blaue Meer; die klare Luft bietet eine deutlich bessere Fernsicht als im dunstigen Sommer.",
+                "hu": "Élvezze a kilátást a télies kék tengerre; a tiszta levegő sokkal jobb távoli látási viszonyokat biztosít, mint a párás nyár.",
+                "ro": "Bucurați-vă de vederea spre marea albastră de iarnă; aerul curat oferă o vizibilitate la distanță mult mai bună decât vara umedă.",
+                "en": "Enjoy the view of the wintry blue sea; the clear air offers much better long-distance visibility than in the hazy summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Steinmetzschule",
+                "hu": "Kőfaragó Iskola",
+                "ro": "Școala de Pietrărie",
+                "en": "Stonemasonry School"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier Ihre Mittagspause im Schutz der Gebäude; die Steinmetzarbeiten sind im Winter genauso faszinierend und die Schule ist beheizt.",
+                "hu": "Töltse itt a déli pihenőjét az épületek védelmében; a kőfaragás télen is lenyűgöző, és az iskola belső terei fűtöttek.",
+                "ro": "Petreceți pauza de prânz aici sub protecția clădirilor; sculptura în piatră este la fel de fascinantă iarna, iar interiorul școlii este încălzit.",
+                "en": "Spend your noon break here under the protection of the buildings; the stonework is just as fascinating in winter and the school interior is heated."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Prve Lučice",
+                "hu": "Prve Lučice strand",
+                "ro": "Plaja Prve Lučice",
+                "en": "Prve Lučice Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer; halten Sie nur kurz für ein Foto, da der Wind hier ungeschützt über die Bucht pfeifen kann.",
+                "hu": "A strand télen teljesen néptelen; csak egy fotó erejéig álljon meg, mivel a szél itt akadálytalanul süvít át az öböl felett.",
+                "ro": "Plaja este pustie iarna; opriți-vă doar scurt pentru o fotografie, deoarece vântul poate sufla neîncetat peste golf aici.",
+                "en": "The beach is deserted in winter; stop only briefly for a photo as the wind can whistle unchecked across the bay here."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm St. Nikolaus",
+                "hu": "Szent Miklós világítótorony",
+                "ro": "Farul Sfântul Nicolae",
+                "en": "St. Nicholas Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie so, dass Sie vor 16:45 Uhr hier sind; nach Sonnenuntergang kühlt es auf dem Rückweg mit dem Rad extrem schnell ab.",
+                "hu": "Tervezzen úgy, hogy 16:45 előtt itt legyen; naplemente után a visszaúton a kerékpáron rendkívül gyorsan lehűl a levegő.",
+                "ro": "Planificați să ajungeți aici înainte de 16:45; după apus, temperatura scade extrem de repede pe drumul de întoarcere cu bicicleta.",
+                "en": "Plan to be here before 16:45; after sunset, it cools down extremely quickly on the bike ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Az autóvezetés lehetővé teszi a keleti külvárosok kényelmes összekapcsolását a nyüzsgő központtal és az északi fokkal. Csendes kápolnákkal kezd, majd a kőfaragó hagyomány szívébe indul. Később közelebb vezet a parthoz egy kis pihenésre. A nap tökéletesen zárul egy festői világítótorony kilátóhoz vezető úttal.",
         "ro": "Condusul vă permite să conectați confortabil periferia estică cu centrul plin de viață și capul nordic. Veți începe cu capele liniștite înainte de a trece la inima tradiției pietrăriei. Mai târziu, vă apropiați de coastă pentru relaxare. Ziua se încheie perfect cu o plimbare cu mașina către punctul de observație pitoresc al farului.",
         "en": "Driving allows you to comfortably connect the eastern outskirts with the bustling center and the northern cape. You'll start with quiet chapels before moving to the heart of the stonemasonry tradition. Later, you drive closer to the coast for some relaxation. The day ends perfectly with a drive towards the scenic lighthouse viewpoint."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch Pučišća im Regen ist komfortabel und bietet dramatische Ausblicke auf die aufgewühlte Adria. Morgens starten wir bei der Stephanuskirche, während die Scheibenwischer den Rhythmus vorgeben. Mittags ist die Steinmetzschule ein idealer wetterfester Stopp. Nachmittags fahren wir trotz Regen zum Leuchtturm, geschützt in der Wärme des Fahrzeugs.",
+            "hu": "Az esős autózás Pučišćában kényelmes, és drámai kilátást nyújt a felkorbácsolt Adriára. Reggel a Szent István-templomnál kezdünk, miközben az ablaktörlők adják a ritmust. Délben a kőfaragó iskola ideális időjárásálló megálló. Délután az eső ellenére a világítótoronyhoz hajtunk, védve a jármű melegében.",
+            "ro": "O călătorie cu mașina prin Pučišća pe ploaie este confortabilă și oferă vederi dramatice ale Adriaticii agitate. Dimineața începem la biserica Sf. Ștefan, în timp ce ștergătoarele dau ritmul. La prânz, școala de pietrărie este o oprire ideală. După-amiaza conducem spre far, protejați în căldura vehiculului.",
+            "en": "A car trip through Pučišća in the rain is comfortable and offers dramatic views of the churned-up Adriatic. In the morning we start at St. Stephen's Church while the wipers set the rhythm. At noon, the stonemasonry school is an ideal weather-proof stop. In the afternoon we drive to the lighthouse, protected in the warmth of the vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche St. Stephan",
+                "hu": "Szent István-templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Church of Saint Stephen"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt bei der Kirche, um den Weg im Regen kurz zu halten; bewundern Sie das monumentale Äußere aus dem trockenen Auto.",
+                "hu": "Használja a közvetlenül a templomnál lévő parkolót, hogy lerövidítse az esőben megtett utat; csodálja meg a monumentális épületet a száraz autóból.",
+                "ro": "Folosiți parcarea direct de lângă biserică pentru a scurta drumul prin ploaie; admirați exteriorul monumental din mașina uscată.",
+                "en": "Use the parking lot directly by the church to keep the walk in the rain short; admire the monumental exterior from the dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Macel",
+                "hu": "Macel",
+                "ro": "Macel",
+                "en": "Macel"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer; beobachten Sie die Wellen bei Regen gemütlich vom Fahrersitz aus, bevor Sie für einen kurzen Spaziergang aussteigen.",
+                "hu": "Parkoljon a tengerre néző kilátással; figyelje a hullámokat kényelmesen a vezetőülésből, mielőtt kiszállna egy rövid sétára az esőben.",
+                "ro": "Parcați cu vederea spre mare; urmăriți valurile confortabil de pe scaunul șoferului înainte de a coborî pentru o scurtă plimbare prin ploaie.",
+                "en": "Park with a view of the sea; watch the waves comfortably from the driver's seat before stepping out for a short walk in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Hieronymus",
+                "hu": "Szent Jeromos-templom",
+                "ro": "Biserica Sf. Ieronim",
+                "en": "Church of St. Jerome"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Gassen zum Parken können bei Regen rutschig sein; fahren Sie vorsichtig und nutzen Sie die Kirche als architektonischen Schutzraum.",
+                "hu": "A parkoláshoz vezető szűk utcák esőben csúszósak lehetnek; vezessen óvatosan, és használja a templomot építészeti menedékként.",
+                "ro": "Străzile înguste spre parcare pot fi alunecoase pe ploaie; conduceți cu prudență și folosiți biserica ca adăpost arhitectural.",
+                "en": "The narrow streets for parking can be slippery in the rain; drive carefully and use the church as an architectural sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Steinmetzschule",
+                "hu": "Kőfaragó Iskola",
+                "ro": "Școala de Pietrărie",
+                "en": "Stonemasonry School"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Regen, da Sie direkt davor parken und die Werkstätten überdacht erkunden können, ohne nass zu werden.",
+                "hu": "Ideális megálló esőben, mivel közvetlenül előtte parkolhat, és fedett helyen fedezheti fel a műhelyeket anélkül, hogy megázna.",
+                "ro": "O oprire ideală pe ploaie, deoarece puteți parca direct în față și puteți explora atelierele acoperite fără a vă uda.",
+                "en": "An ideal stop in the rain as you can park directly in front and explore the workshops under cover without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Prve Lučice",
+                "hu": "Prve Lučice strand",
+                "ro": "Plaja Prve Lučice",
+                "en": "Prve Lučice Beach"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht auf die stürmische Bucht durch die Windschutzscheibe.",
+                "hu": "Heves esőzés esetén maradjon az autóban, és élvezze a viharos öböl látványát a szélvédőn keresztül.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și bucurați-vă de vederea golfului furtunos prin parbriz.",
+                "en": "In case of heavy rain, stay in the car and enjoy the view of the stormy bay through the windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm St. Nikolaus",
+                "hu": "Szent Miklós világítótorony",
+                "ro": "Farul Sfântul Nicolae",
+                "en": "St. Nicholas Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Leuchtturm kann bei Regen schlammig sein; prüfen Sie den Untergrund, bevor Sie den Asphalt verlassen, um nicht steckenzubleiben.",
+                "hu": "A világítótoronyhoz vezető út esőben saras lehet; ellenőrizze a talajt, mielőtt elhagyná az aszfaltot, nehogy elakadjon.",
+                "ro": "Drumul spre far poate fi noroios pe ploaie; verificați terenul înainte de a părăsi asfaltul pentru a nu rămâne blocat.",
+                "en": "The access road to the lighthouse can be muddy in the rain; check the ground before leaving the asphalt to avoid getting stuck."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt durch Pučišća im beheizten Auto ist die angenehmste Art, die Insel zu erkunden, wenn die Bura weht. Morgens liegen die Kirchen in klarem, hellem Licht. Mittags bietet die Steinmetzschule einen warmen Einblick in die Tradition. Da es ab 17:00 Uhr dunkel wird, beenden wir den Tag am Leuchtturm pünktlich zum Sonnenuntergang.",
+            "hu": "A téli autózás Pučišćában fűtött autóval a legkellemesebb módja a sziget felfedezésének, amikor fúj a bóra. Reggel a templomok tiszta, világos fényben úsznak. Délben a kőfaragó iskola meleg betekintést nyújt a hagyományokba. Mivel 17:00-tól sötétedik, a napot a világítótoronynál zárjuk, pontosan naplementekor.",
+            "ro": "Călătoria de iarnă prin Pučišća într-o mașină încălzită este cel mai plăcut mod de a explora insula când bate vântul Bura. Dimineața, bisericile sunt scăldate într-o lumină clară. La prânz, școala oferă o incursiune caldă în tradiție. Deoarece se întunecă de la ora 17:00, încheiem ziua la far.",
+            "en": "Winter driving through Pučišća in a heated car is the most pleasant way to explore the island when the Bura blows. In the morning, churches are bathed in clear, bright light. At noon, the stonemasonry school offers a warm insight into tradition. Since it gets dark from 17:00, we end the day at the lighthouse."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche St. Stephan",
+                "hu": "Szent István-templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Church of Saint Stephen"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort der Standheizung, bevor Sie kurz aussteigen, um das barocke Portal in der klaren Winterluft zu fotografieren.",
+                "hu": "Élvezze az állófűtés kényelmét, mielőtt kiszállna egy rövid időre, hogy lefotózza a barokk kaput a tiszta téli levegőben.",
+                "ro": "Bucurați-vă de confortul încălzirii înainte de a coborî scurt pentru a fotografia portalul baroc în aerul curat de iarnă.",
+                "en": "Enjoy the comfort of the heater before stepping out briefly to photograph the baroque portal in the clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Macel",
+                "hu": "Macel",
+                "ro": "Macel",
+                "en": "Macel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Windschutz am Ufer; der Blick auf das tiefblaue Wintermeer ist vom warmen Innenraum aus besonders reizvoll.",
+                "hu": "Használja az autót szélfogóként a parton; a mélykék téli tenger látványa a meleg belső térből nézve különösen vonzó.",
+                "ro": "Folosiți mașina ca paravan împotriva vântului pe țărm; vederea mării albastre de iarnă este deosebit de atractivă din interiorul cald.",
+                "en": "Use the car as a windshield by the shore; the view of the deep blue winter sea is particularly attractive from the warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Hieronymus",
+                "hu": "Szent Jeromos-templom",
+                "ro": "Biserica Sf. Ieronim",
+                "en": "Church of St. Jerome"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter meist leer; nehmen Sie sich Zeit für den Besuch, aber lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "A parkoló télen többnyire üres; szánjon időt a látogatásra, de ne járassa feleslegesen a motort várakozás közben.",
+                "ro": "Parcarea este de obicei goală iarna; acordați-vă timp pentru vizită, dar nu lăsați motorul pornit inutil în timp ce staționați.",
+                "en": "The parking lot is usually empty in winter; take your time for the visit, but don't leave the engine idling unnecessarily while waiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Steinmetzschule",
+                "hu": "Kőfaragó Iskola",
+                "ro": "Școala de Pietrărie",
+                "en": "Stonemasonry School"
+              },
+              "tip_5lang": {
+                "de": "Der beste Winterstopp: Der Innenbereich ist windgeschützt und Sie können lange verweilen, um die Kunstfertigkeit der Steinmetze zu bewundern.",
+                "hu": "A legjobb téli megálló: a belső tér szélvédett, és hosszan elidőzhet, hogy megcsodálja a kőfaragók mesteri tudását.",
+                "ro": "Cea mai bună oprire de iarnă: zona interioară este ferită de vânt și puteți zăbovi mult pentru a admira măiestria pietrarilor.",
+                "en": "The best winter stop: the interior is wind-protected and you can linger long to admire the craftsmanship of the stonemasons."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Prve Lučice",
+                "hu": "Prve Lučice strand",
+                "ro": "Plaja Prve Lučice",
+                "en": "Prve Lučice Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier völlig aus; der eisige Wind an der Küste macht einen längeren Aufenthalt ohne Bewegung unangenehm.",
+                "hu": "Egy rövid fotómegálló itt teljesen elegendő; a parton fújó jeges szél kellemetlenné teszi a hosszabb, mozgás nélküli tartózkodást.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă; vântul înghețat de pe coastă face ca o ședere mai lungă fără mișcare să fie neplăcută.",
+                "en": "A short photo stop is plenty here; the icy wind on the coast makes a longer stay without movement uncomfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm St. Nikolaus",
+                "hu": "Szent Miklós világítótorony",
+                "ro": "Farul Sfântul Nicolae",
+                "en": "St. Nicholas Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Leuchtturm bis 16:50 Uhr; genießen Sie das Erlöschen des letzten Tageslichts im Schutz Ihres Autos, bevor es dunkel wird.",
+                "hu": "Érjen a világítótoronyhoz 16:50-ig; élvezze az utolsó nappali fényeket az autó védelméből, mielőtt teljesen besötétedne.",
+                "ro": "Ajungeți la far până la ora 16:50; bucurați-vă de stingerea ultimei lumini a zilei din protecția mașinii înainte de a se întuneca.",
+                "en": "Reach the lighthouse by 16:50; enjoy the last daylight fading from the protection of your car before it gets dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

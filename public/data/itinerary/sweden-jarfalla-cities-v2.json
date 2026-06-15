@@ -137,6 +137,168 @@
         "hu": "A délelőtt a központ közelében kezdődik, egy frissítő megállóval a helyi pancsolómedencénél, amely tökéletes a nyugodt tempó megadásához. Ahogy közeledik a dél, az utazás a Veddestadammen és az egyedi nevű, helyi bájjal teli Vegadammen körüli buja zöldbe tér át. A délután a mély természetre összpontosít, egy hosszabb túrával Djupan csendes és erdős peremeihez. Az este a csodálatos Säbysjön elérésekor köszönt ránk, ahol a hatalmas vízen tükröződő lenyűgöző naplemente tökéletes lezárása a napi túrának.",
         "ro": "Dimineața începe aproape de centru, cu o oprire revigorantă la piscina locală pentru copii, perfectă pentru a stabili un ritm relaxat. Pe măsură ce se apropie amiaza, călătoria se mută în verdeața luxuriantă din jurul Veddestadammen și a iazului cu nume unic, Vegadammen, plin de farmec local. După-amiaza se concentrează pe natură profundă, cu o drumeție mai lungă către marginile liniștite și împădurite ale Djupan. Seara cade când ajungeți la magnificul Säbysjön, unde reflexiile uimitoare ale apusului peste apa întinsă oferă o concluzie perfectă pentru drumeția de azi.",
         "en": "Your morning begins near the center with a refreshing stop at the local paddling pool, perfect for setting a relaxed pace. As midday approaches, the journey shifts into the lush greenery surrounding Veddestadammen and the uniquely named Vegadammen, full of local charm. The afternoon focuses on deep nature with a longer trek to the serene and forested edges of Djupan. Evening falls as you reach the magnificent Säbysjön, where stunning sunset reflections over the expansive water provide a perfect conclusion to the day's hike."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens glitzern Regentropfen auf den Teichen von Järfälla. Mittags bietet das dichte Blätterdach Schutz, während die Erde intensiv duftet. Vorsicht auf rutschigen Waldpfaden. Nachmittags verleiht graues Licht den Seen eine mystische Aura; Regenkleidung ist nun Pflicht. Abends spiegeln sich Lichter in Pfützen, bevor Sie ins Trockene einkehren.",
+            "hu": "Reggel az esőcseppek különleges mintát rajzolnak a tavakra. Délben a sűrű lombkorona véd az égi áldástól, de az agyagos ösvények csúszósak lehetnek. Délután a szürke égbolt misztikus hangulatot áraszt a víz felett; egy jó esőkabát aranyat ér. Este a városi fények csillognak a pocsolyákban, a nap pedig a kopogó eső hangjával ér véget.",
+            "ro": "Dimineața picăturile de ploaie creează modele pe iazuri. La prânz, coronamentul des oferă adăpost, dar potecile devin noroioase. După-amiaza, cerul gri oferă lacurilor o aură mistică; jacheta impermeabilă este esențială. Seara, luminile se oglindesc în bălți, iar sunetul ploii vă acompaniază spre un loc uscat.",
+            "en": "Morning raindrops create patterns on Järfälla's ponds. At noon, the dense canopy provides shelter, but watch for slippery mud on trails. Afternoon brings a mystical grey light to the lakes; waterproof gear is a must. Evening lights reflect in puddles as the day ends with the soothing sound of rain before you head indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paddling Pool",
+                "hu": "Pancsolómedence",
+                "ro": "Piscina pentru copii",
+                "en": "Paddling pool"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie sich die Regentropfen im leeren Pool sammeln; die umliegenden Bänke unter dichten Bäumen bieten einen ersten trockenen Rastplatz für Wanderer vor dem Start.",
+                "hu": "Figyelje meg, ahogy az esővíz összegyűlik a medencében; a fák alatti padok jó menedéket nyújtanak egy rövid, száraz pihenőhöz a séta megkezdése előtt.",
+                "ro": "Observați cum se adună apa de ploaie în piscină; băncile de sub copacii deși oferă un prim loc de odihnă uscat înainte de a continua traseul prin natură.",
+                "en": "Watch how the rainwater collects in the pool; the benches under the nearby dense trees provide a dry spot for a short break before starting your hike."
+              }
+            },
+            {
+              "name": {
+                "de": "Veddestadammen",
+                "hu": "Veddestadammen",
+                "ro": "Iazul Veddestadammen",
+                "en": "Veddestadammen"
+              },
+              "tip_5lang": {
+                "de": "Der Teich wirkt bei Regen besonders friedlich, da die Wasservögel Schutz im Schilf suchen; tragen Sie feste Wanderschuhe für die aufgeweichten Uferpfade.",
+                "hu": "A tó esőben különösen békés, ahogy a vízimadarak a nádasban keresnek menedéket; viseljen vízálló bakancsot a felázott parti ösvények miatt.",
+                "ro": "Iazul pare extrem de liniștit pe ploaie, în timp ce păsările caută adăpost în stuf; purtați ghete de drumeție pentru potecile de mal care devin noroioase.",
+                "en": "The pond feels exceptionally peaceful in the rain as waterfowl seek shelter in the reeds; wear sturdy waterproof boots for the muddy paths along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Vegadammen (Drakulasjön)",
+                "hu": "Vegadammen (Drakulasjön)",
+                "ro": "Vegadammen (Lacul Dracula)",
+                "en": "Vegadammen (Drakulasjön)"
+              },
+              "tip_5lang": {
+                "de": "Der mystische Name passt perfekt zum nebligen Regenwetter an diesem dunklen Teich; nutzen Sie den dichten Waldrand als natürlichen Schirm gegen den Guss.",
+                "hu": "A tó titokzatos neve tökéletesen illik a ködös, esős időhöz; használja a sűrű erdőszélt természetes esernyőként a vízfelszín nyugodt megfigyeléséhez.",
+                "ro": "Numele misterios al lacului se potrivește perfect cu vremea ploioasă și cețoasă; folosiți marginea de pădure deasă ca o umbrelă naturală în timpul vizitei.",
+                "en": "The lake's mysterious name fits the misty, rainy weather perfectly; use the dense forest edge as a natural umbrella while you observe the dark water."
+              }
+            },
+            {
+              "name": {
+                "de": "Djupan",
+                "hu": "Djupan",
+                "ro": "Djupan",
+                "en": "Djupan"
+              },
+              "tip_5lang": {
+                "de": "Dieses versteckte Juwel glänzt silbern im Regen; achten Sie auf die rutschigen Holzstege am Wasser und halten Sie Ihre Kamera unter einem wasserdichten Schutz.",
+                "hu": "Ez a rejtett gyöngyszem ezüstösen csillog az esőben; vigyázzon a vizes stégeken, és tartsa a fényképezőgépet vízálló tokban a legjobb képek készítéséhez.",
+                "ro": "Această bijuterie ascunsă strălucește argintiu pe ploaie; aveți grijă pe pontoanele umede și păstrați aparatul foto sub o protecție impermeabilă.",
+                "en": "This hidden gem glimmers silver in the rain; watch your step on the wet wooden piers and keep your camera under waterproof protection for the best shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Säbysjön",
+                "hu": "Säbysjön",
+                "ro": "Lacul Säbysjön",
+                "en": "Säbysjön"
+              },
+              "tip_5lang": {
+                "de": "Der große See bietet weite Ausblicke auf ziehende Regenwolken; die nahegelegenen Informationshütten sind ideal, um den letzten Schauer im Trockenen abzuwarten.",
+                "hu": "A nagy tó pazar kilátást nyújt a vonuló esőfelhőkre; a közeli tájékoztató kunyhók ideálisak az utolsó zápor szárazon való megvárásához.",
+                "ro": "Lacul mare oferă vederi panoramice asupra norilor de ploaie în mișcare; colibele informative din apropiere sunt ideale pentru a aștepta trecerea ploii.",
+                "en": "The large lake offers wide views of passing rain clouds; the nearby information huts are perfect for waiting out the last shower in the dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens verzaubert Frost die Gräser an den Teichen. Mittags wärmt die tiefstehende Sonne bei klirrender Kälte; Tee in der Thermoskanne ist wichtig. Nachmittags färbt sich der Himmel rosa, während Schnee alle Geräusche schluckt. Gegen 17:00 Uhr ist es dunkel; reflektierender Schnee und warme Hauslichter weisen den Weg.",
+            "hu": "Reggel a dér jégkristállyá varázsolja a parti növényzetet. Délben a gyenge napsütés aranyba vonja a havas tájat; a forró tea elengedhetetlen. Délután rózsaszínbe fordul az ég, a hó pedig elnyeli a város zaját. 17:00 körül már sötét van; a fehér hótakaró és az ablakok fényei mutatják az utat hazafelé.",
+            "ro": "Dimineața chiciura transformă malurile în cristale de gheață. La prânz, soarele blând luminează peisajul alb; termosul cu ceai este vital. După-amiaza cerul devine roz, iar zăpada absoarbe zgomotele. Seara se așterne la 17:00; zăpada reflectă lumina, iar ferestrele luminate vă ghidează spre casă.",
+            "en": "Morning frost turns pond-side grass into ice crystals. At noon, the low sun warms the snowy landscape; a thermos of tea is essential. In the afternoon the sky turns pink as snow muffles all city sounds. By 17:00 it is dark; the reflective snow and cozy house lights guide you back through the cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paddling Pool",
+                "hu": "Pancsolómedence",
+                "ro": "Piscina pentru copii",
+                "en": "Paddling pool"
+              },
+              "tip_5lang": {
+                "de": "Das gefrorene Becken bietet ein bizarres Fotomotiv; tragen Sie Schichten aus Merinowolle, um bei den ersten Schritten in der Morgenkälte nicht auszukühlen.",
+                "hu": "A befagyott medence különleges látványt nyújt; viseljen merinói gyapjú rétegeket, hogy ne fázzon meg a reggeli fagyos levegőn a túra elején.",
+                "ro": "Bazinul înghețat oferă un cadru fotografic bizar; purtați straturi de lână merino pentru a nu îngheța în aerul tăios al dimineții suedeze.",
+                "en": "The frozen pool makes for a unique photo spot; wear merino wool layers to stay warm during the first steps in the biting morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Veddestadammen",
+                "hu": "Veddestadammen",
+                "ro": "Iazul Veddestadammen",
+                "en": "Veddestadammen"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Spuren von Wildtieren im frischen Schnee am Ufer; betreten Sie niemals die Eisfläche, da diese tückisch dünn sein kann.",
+                "hu": "Figyelje meg a vadállatok nyomait a friss hóban a parton; soha ne lépjen a jégre, mert a víz áramlása miatt bárhol veszélyesen vékony lehet.",
+                "ro": "Căutați urme de animale sălbatice în zăpada proaspătă de pe mal; nu pășiți niciodată pe gheață, deoarece poate fi înșelător de subțire în această zonă.",
+                "en": "Look for wildlife tracks in the fresh snow along the bank; never step onto the ice as it can be dangerously thin due to underlying water currents."
+              }
+            },
+            {
+              "name": {
+                "de": "Vegadammen (Drakulasjön)",
+                "hu": "Vegadammen (Drakulasjön)",
+                "ro": "Vegadammen (Lacul Dracula)",
+                "en": "Vegadammen (Drakulasjön)"
+              },
+              "tip_5lang": {
+                "de": "Der dunkle Wald um den Teich schützt vor kaltem Wind; genießen Sie die absolute Stille, die nur durch das Knirschen des Schnees unter den Stiefeln unterbrochen wird.",
+                "hu": "A tavat körülölelő sötét erdő védelmet nyújt a metsző szél ellen; élvezze a tökéletes csendet, amit csak a lába alatt ropogó hó tör meg néha.",
+                "ro": "Pădurea deasă din jurul iazului vă protejează de vântul tăios; bucurați-vă de liniștea deplină, întreruptă doar de scârțâitul zăpezii sub ghete.",
+                "en": "The dark forest surrounding the pond provides shelter from the biting wind; enjoy the absolute silence, broken only by the crunch of snow under your boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Djupan",
+                "hu": "Djupan",
+                "ro": "Djupan",
+                "en": "Djupan"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Brücke kann bei Frost sehr glatt sein; nutzen Sie Eis-Spikes für Ihre Schuhe, um sicher über die rutschigen Passagen des Uferweges zu gelangen.",
+                "hu": "A kis híd és a fafelületek fagyban nagyon csúszósak lehetnek; használjon csúszásgátló talpat a bakancsán a biztonságos közlekedés érdekében.",
+                "ro": "Podul mic și suprafețele de lemn pot fi foarte alunecoase; folosiți crampoane pentru încălțăminte pentru a traversa în siguranță porțiunile cu gheață.",
+                "en": "The small bridge and wooden surfaces can be very slippery in frost; use ice spikes on your boots to safely navigate the frozen sections of the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Säbysjön",
+                "hu": "Säbysjön",
+                "ro": "Lacul Säbysjön",
+                "en": "Säbysjön"
+              },
+              "tip_5lang": {
+                "de": "Die weite Eisfläche reflektiert das letzte Tageslicht; packen Sie eine Stirnlampe ein, da der Rückweg durch den Wald nach 16:30 Uhr sehr dunkel ist.",
+                "hu": "A hatalmas jégfelület visszaveri a nap utolsó sugarait; hozzon fejlámpát, mert az erdőn átvezető út 16:30 után már teljesen sötét lesz.",
+                "ro": "Suprafața vastă de gheață reflectă ultima lumină a zilei; luați o lanternă frontală, deoarece drumul prin pădure devine foarte întunecat după ora 16:30.",
+                "en": "The vast ice surface reflects the last rays of daylight; bring a headlamp as the path through the woods becomes very dark after 16:30 in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpártúráját egy gyors látogatással a Kallhällsparkdammen-nél, élvezve a reggeli harmatot a füvön. Délre a Kallhällsbadet partján fog cirkálni, beszívva a friss tavi levegőt, mielőtt az érintetlen Översjön felé pedálozna. A délutáni túra dombos tájakon halad át, egyenesen a Säbysjön nyüzsgő madárvilágához és nyugodt vizeihez. Az utazás kecsesen véget ér az eldugott Djupan-nál este, amely csendes erdei hátteret kínál a fáradt lábak pihentetésére.",
         "ro": "Începeți-vă turul de ciclism cu o scurtă vizită la Kallhällsparkdammen, bucurându-vă de roua dimineții pe iarbă. Până la amiază, veți merge de-a lungul țărmurilor de la Kallhällsbadet, respirând aerul proaspăt al lacului înainte de a pedala către Översjön. Plimbarea de după-amiază vă duce prin peisaje unduitoare direct către păsările vibrante și apele calme ale Säbysjön. Călătoria se termină cu grație la izolatul Djupan seara, oferind un fundal liniștit de pădure pentru a vă odihni picioarele obosite.",
         "en": "Kick off your cycling tour with a quick visit to Kallhällsparkdammen, enjoying the morning dew on the grass. By midday, you'll be cruising along the shores of Kallhällsbadet, breathing in the fresh lake air before pedaling towards the pristine Översjön. The afternoon ride takes you past rolling landscapes directly to the vibrant birdlife and calm waters of Säbysjön. The journey gracefully ends at the secluded Djupan in the evening, offering a quiet forest backdrop to rest your weary legs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Radeln erfordert gute Schutzbleche gegen Pfützen. Mittags peitscht Wind vom Mälaren den Regen ins Gesicht; Vorsicht vor nassem Laub in Kurven. Nachmittags bieten Wälder etwas Schutz, doch die Sicht kann getrübt sein. Abends führen beleuchtete Wege sicher zurück, während Sie sich auf eine heiße Dusche freuen.",
+            "hu": "Az esős tekeréshez elengedhetetlen a jó sárvédő a tócsák ellen. Délben a Mälaren felől fújó szél az arcába hordja a vizet; vigyázzon a vizes leveleken. Délután az erdők óvnak a széltől, de a látótávolság csökkenhet. Este a kivilágított utak biztonságosak, a nap végén pedig jól esik majd egy forró zuhany.",
+            "ro": "Ciclismul pe ploaie necesită apărători bune de noroi. La prânz, vântul suflă ploaia dinspre lac; atenție la frunzele umede în curbe. După-amiaza pădurea oferă adăpost, dar vizibilitatea scade. Seara, pistele iluminate vă ghidează spre casă, unde vă așteaptă un duș fierbinte binemeritat.",
+            "en": "Rainy cycling calls for good mudguards against puddles. At noon, wind from the lake whips rain into your face; watch for wet leaves in corners. In the afternoon, woods offer some shelter, but visibility might be low. Evening lights lead you safely back as you look forward to a hot shower after the wet tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kallhällsparkdammen",
+                "hu": "Kallhällsparkdammen",
+                "ro": "Iazul Kallhällsparkdammen",
+                "en": "Kallhällsparkdammen"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen am Teichufer; der nasse Asphalt im Park erfordert längere Bremswege, besonders bei plötzlichem schwedischen Regen.",
+                "hu": "Ellenőrizze a fékeit a tóparton; a vizes aszfalt a parkban hosszabb féktávot igényel, különösen hirtelen jött északi esőben.",
+                "ro": "Verificați frânele lângă iaz; asfaltul umed din parc necesită distanțe de frânare mai mari, mai ales în timpul unei averse bruște de ploaie.",
+                "en": "Check your brakes by the pond; the wet asphalt in the park requires longer braking distances, especially during sudden Swedish rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Kallhällsbadet",
+                "hu": "Kallhällsbadet",
+                "ro": "Kallhällsbadet",
+                "en": "Kallhällsbadet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Umkleiden als kurzen Unterschlupf; das aufgewühlte Wasser des Mälaren bietet ein beeindruckendes Naturschauspiel im Regen.",
+                "hu": "Használja a fedett öltözőket rövid menedékként az eső elől; a Mälaren felkorbácsolt vize lenyűgöző és vad látványt nyújt a viharosabb időben.",
+                "ro": "Folosiți vestiarele acoperite ca adăpost temporar; apele agitate ale lacului Mälaren oferă un spectacol natural impresionant pe timp de ploaie.",
+                "en": "Use the covered changing rooms for a quick shelter; the choppy waters of Lake Mälaren offer an impressive natural spectacle in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Översjön",
+                "hu": "Översjön",
+                "ro": "Lacul Översjön",
+                "en": "Översjön"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege hier können sehr matschig sein; halten Sie einen größeren Abstand zu anderen Radfahrern, um Spritzwasser im Gesicht zu vermeiden.",
+                "hu": "Az itteni erdei utak nagyon sárosak lehetnek; tartson nagyobb követési távolságot a többiektől, hogy elkerülje az arcába felverődő sarat.",
+                "ro": "Drumurile de pădure de aici pot fi foarte noroioase; păstrați o distanță mai mare față de alți bicicliști pentru a evita stropirea cu apă și noroi.",
+                "en": "The forest paths here can get very muddy; keep a larger distance from other cyclists to avoid getting dirty mud spray in your face."
+              }
+            },
+            {
+              "name": {
+                "de": "Säbysjön",
+                "hu": "Säbysjön",
+                "ro": "Lacul Säbysjön",
+                "en": "Säbysjön"
+              },
+              "tip_5lang": {
+                "de": "Die Aussichtsplattformen bieten ein Dach über dem Kopf für eine kurze Pause; wischen Sie Ihre Felgen trocken, um die Bremskraft zu erhalten.",
+                "hu": "A kilátók teteje védelmet nyújt egy rövid pihenőhöz; törölje szárazra a felniket, hogy megőrizze a fékerőt a túra hátralévő részére.",
+                "ro": "Platformele de observație oferă un acoperiș pentru o scurtă pauză; ștergeți jantele pentru a menține eficiența frânării pe drumul de întoarcere.",
+                "en": "The observation platforms provide a roof for a quick break; wipe your rims dry to maintain full braking power for the rest of your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Djupan",
+                "hu": "Djupan",
+                "ro": "Djupan",
+                "en": "Djupan"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf dem schmalen Pfad am Ufer; nasses Wurzelwerk ist für dünne Reifen extrem rutschig, schieben Sie das Rad im Zweifel ein kurzes Stück.",
+                "hu": "Vigyázzon a keskeny parti ösvényen; a vizes gyökerek és kövek rendkívül csúszósak a vékony kerekeknek, szükség esetén inkább tolja a bringát.",
+                "ro": "Atenție pe poteca îngustă de pe mal; rădăcinile și pietrele umede sunt extrem de alunecoase, împingeți bicicleta dacă zona pare periculoasă.",
+                "en": "Be careful on the narrow shore path; wet roots and rocks are extremely slippery for thin tires, so walk your bike if needed for safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterradeln braucht warme Schichten und gestreute Wege. Mittags glitzert Schnee unter den Reifen; Handschuhe sind nun Pflicht. Nachmittags färbt sich das Licht bläulich, während die Kälte anzieht. Abends ist gute Beleuchtung überlebenswichtig, wenn Straßenlaternen auf vereisten Wegen reflektieren.",
+            "hu": "A téli tekeréshez meleg rétegek és felszórt utak kellenek. Délben a hó szikrázik a kerekek alatt; a kesztyű kötelező. Délután a fények kékesre váltanak, a fagy pedig erősödik. Este a jó világítás életmentő, miközben az utcai lámpák fénye megcsillan a jeges aszfalton.",
+            "ro": "Ciclismul de iarnă cere haine groase și drumuri deszăpezite. La prânz, zăpada sclipește sub roți; mănușile sunt obligatorii. După-amiaza lumina devine albăstrie, iar gerul se intensifică. Seara, iluminarea bună este vitală, în timp ce felinarele se reflectă în gheața de pe drum.",
+            "en": "Winter cycling requires warm layers and gritted paths. At noon, snow sparkles under your tires; gloves are mandatory. In the afternoon, the light turns bluish as the frost tightens. By evening, high-quality lights are vital as street lamps reflect off the icy surfaces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kallhällsparkdammen",
+                "hu": "Kallhällsparkdammen",
+                "ro": "Iazul Kallhällsparkdammen",
+                "en": "Kallhällsparkdammen"
+              },
+              "tip_5lang": {
+                "de": "Der Parkweg kann morgens glatt sein; senken Sie den Reifendruck leicht ab, um mehr Grip auf festgefahrenem Schnee und Eisflächen zu haben.",
+                "hu": "A parki út reggel jeges lehet; engedjen le kicsit a guminyomásból, hogy nagyobb legyen a tapadás a döngölt havon és a jeges szakaszokon.",
+                "ro": "Aleea din parc poate fi poleită dimineața; reduceți ușor presiunea în pneuri pentru o aderență mai bună pe zăpada bătătorită și gheață.",
+                "en": "The park path can be icy in the morning; lower your tire pressure slightly for better grip on packed snow and slippery icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Kallhällsbadet",
+                "hu": "Kallhällsbadet",
+                "ro": "Kallhällsbadet",
+                "en": "Kallhällsbadet"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Eisformationen am Steg, aber bleiben Sie in Bewegung; die Nähe zum offenen Wasser macht die Luft hier spürbar kälter als im Wald.",
+                "hu": "Csodálja meg a jégalakzatokat a stégnél, de maradjon mozgásban; a nyílt víz közelsége miatt itt érezhetően hidegebb a levegő, mint bentebb.",
+                "ro": "Admirați formațiunile de gheață de lângă ponton, dar rămâneți în mișcare; proximitatea apei libere face ca aerul să fie mult mai rece aici.",
+                "en": "Admire the ice formations by the pier, but keep moving; the proximity to the open water makes the air feel significantly colder than in the forest."
+              }
+            },
+            {
+              "name": {
+                "de": "Översjön",
+                "hu": "Översjön",
+                "ro": "Lacul Översjön",
+                "en": "Översjön"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie Spike-Reifen, wenn Sie ungeräumte Waldwege befahren; der See bietet im Winter oft eine prächtige Kulisse für mutige Eisläufer.",
+                "hu": "Használjon szöges gumit, ha a le nem takarított erdei utakra merészkedik; a tó télen a sífutók és korcsolyázók kedvelt, gyönyörű helyszíne.",
+                "ro": "Folosiți anvelope cu ținte dacă doriți să intrați pe drumurile de pădure; lacul oferă un decor superb, fiind plin de schiori de fond și patinatori.",
+                "en": "Use studded tires if you plan to ride on uncleared forest paths; the lake provides a magnificent backdrop, often dotted with cross-country skiers."
+              }
+            },
+            {
+              "name": {
+                "de": "Säbysjön",
+                "hu": "Säbysjön",
+                "ro": "Lacul Säbysjön",
+                "en": "Säbysjön"
+              },
+              "tip_5lang": {
+                "de": "Die weite Fläche ist dem Wind schutzlos ausgeliefert; tragen Sie eine winddichte Schale, um den Windchill-Effekt beim Radfahren zu minimieren.",
+                "hu": "A tágas terület védtelen a széllel szemben; viseljen szélálló külső réteget, hogy csökkentse a menetszél erős hűtő hatását tekerés közben.",
+                "ro": "Zona deschisă este expusă vântului; purtați un strat exterior rezistent la vânt pentru a minimiza efectul de răcire în timpul pedalării intense.",
+                "en": "The wide open area is unprotected from the wind; wear a windproof outer shell to minimize the wind chill effect while cycling across the flat land."
+              }
+            },
+            {
+              "name": {
+                "de": "Djupan",
+                "hu": "Djupan",
+                "ro": "Djupan",
+                "en": "Djupan"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, bevor es völlig dunkel wird; im Winter sind die kleinen Pfade hier schwer zu erkennen, wenn sie frisch verschneit sind.",
+                "hu": "Fejezze be a túrát, mielőtt teljesen besötétedik; télen a friss hó alatt a kis ösvényeket nagyon nehéz felismerni az esti sötétségben.",
+                "ro": "Încheiați tura înainte de a se întuneca complet; iarna, potecile mici sunt greu de reperat dacă sunt proaspăt acoperite de zăpadă și e noapte.",
+                "en": "Finish your ride before it gets completely dark; in winter, the small trails are very hard to spot when covered in fresh snow after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Vezetési kalandja az Ärvinge Groddamm-nél kezdődik, megcsodálva a kényes helyi ökoszisztémát már kora reggel. A dél közeledtével könnyedén navigálhat a festői Ravalen felé, élvezve a rövid sétákat a gyönyörűen karbantartott partokon, mielőtt egy gyors ugrással az Översjön-hez érne. A délután kiemelt eseménye a népszerű Kallhällsbadet meglátogatása, ahol kinyújtóztathatja a lábát, és talán meg is márthatja lábujjait a vízben. A nap csodálatosan zárul a Lövstabadet-nél, a tengerparton pihenve, miközben az esti fények megfestik az eget.",
         "ro": "Aventura cu mașina începe la Ärvinge Groddamm, admirând delicatul ecosistem local chiar de dimineață. La sosirea amiezii, navigați cu ușurință spre pitorescul Ravalen, bucurându-vă de scurte plimbări de-a lungul malurilor sale frumos întreținute înainte de un salt rapid către Översjön. După-amiaza evidențiază o vizită la popularul Kallhällsbadet, unde vă puteți întinde picioarele și poate vă puteți scufunda degetele în apă. Ziua se încheie minunat la Lövstabadet, relaxându-vă pe plajă în timp ce lumina serii pictează cerul.",
         "en": "Your driving adventure starts at Ärvinge Groddamm, admiring the delicate local ecosystem right from the morning. As midday arrives, you easily navigate towards the picturesque Ravalen, enjoying brief strolls along its beautifully maintained shores before a quick hop to Översjön. The afternoon highlights a visit to the popular Kallhällsbadet, where you can stretch your legs and perhaps dip your toes in the water. The day wraps up wonderfully at Lövstabadet, relaxing on the beach as the evening light paints the sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Järfälla trocken vom Auto aus. Mittags bietet das Fahrzeug perfekten Rückzug zwischen kurzen Abstechern zum Seeufer bei starken Schauern. Nachmittags beobachten Sie dramatische Wolken über dem Wasser durch die Scheibenwischer. Abends erzeugen Lichtreflexionen auf nassem Asphalt eine urbane Atmosphäre.",
+            "hu": "Élvezze Järfällát szárazon az autó kényelméből. Délben a kocsi tökéletes menedék a parti séták között, ha felerősödik a zápor. Délután figyelje a drámai felhőket az ablaktörlők mögül, anélkül, hogy bőrig ázna. Este a vizes aszfalton tükröződő fények különleges városi hangulatot árasztanak.",
+            "ro": "Bucurați-vă de Järfälla din confortul mașinii. La prânz, vehiculul oferă refugiul perfect între scurte plimbări la lac în timpul averselor. După-amiaza observați norii dramatici prin parbriz, fără a simți frigul. Seara, reflexiile luminilor pe asfaltul umed creează o atmosferă urbană deosebită.",
+            "en": "Enjoy Järfälla while staying dry in your car. At noon, the vehicle is a perfect retreat between short lakeside walks during heavy showers. In the afternoon, watch dramatic clouds through the wipers without getting soaked. Evening reflections on wet asphalt create a beautiful urban vibe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ärvinge Groddamm",
+                "hu": "Ärvinge Groddamm",
+                "ro": "Iazul Ärvinge Groddamm",
+                "en": "Ärvinge Groddamm"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasserzugang; der Teich ist nur ein paar Schritte entfernt, sodass Sie auch bei starkem Regen kurz trockenen Fußes rausgehen können.",
+                "hu": "Parkoljon közel a vízhez; a tó csak pár lépésnyire van, így heves esőben is érdemes egy gyors pillantást vetni a vízfelszínre a partról.",
+                "ro": "Parcați aproape de accesul la apă; iazul este la doar câțiva pași, permițându-vă o scurtă ieșire chiar și în timpul unei ploi torențiale trecătoare.",
+                "en": "Park close to the water access; the pond is just a few steps away, making it easy to hop out for a quick look even during heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Ravalen",
+                "hu": "Ravalen",
+                "ro": "Lacul Ravalen",
+                "en": "Ravalen"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt am See bietet im Auto sitzend einen tollen Blick; halten Sie einen Regenschirm bereit für den kurzen Weg zum hölzernen Ufersteg.",
+                "hu": "A tónál lévő kilátópontról az autóban ülve is remek a kilátás; tartson készenlétben esernyőt a parti stéghez vezető rövid, vizes sétához.",
+                "ro": "Punctul de observație de la lac oferă o priveliște excelentă chiar din mașină; pregătiți umbrela pentru scurta plimbare până la pontonul de pe mal.",
+                "en": "The lakeside viewpoint offers a great vista even from inside the car; have an umbrella ready for the short walk to the wooden shore pier."
+              }
+            },
+            {
+              "name": {
+                "de": "Översjön",
+                "hu": "Översjön",
+                "ro": "Lacul Översjön",
+                "en": "Översjön"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher, die bei Regen mit Wasser gefüllt schwer zu erkennen sind; der Waldparkplatz kann bei Dauerregen stellenweise schlammig sein.",
+                "hu": "Vigyázzon a kátyúkra, amelyek esőben megtelnek vízzel és nehezen láthatóak; az erdei parkoló tartós esőzésnél helyenként nagyon sáros lehet.",
+                "ro": "Atenție la gropile din drum care se umplu cu apă și sunt greu de observat; parcarea din pădure poate deveni noroioasă în caz de ploaie persistentă.",
+                "en": "Watch out for potholes filled with water that are hard to see; the forest parking area can get quite muddy during periods of prolonged rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Kallhällsbadet",
+                "hu": "Kallhällsbadet",
+                "ro": "Kallhällsbadet",
+                "en": "Kallhällsbadet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Mälaren durch die nasse Frontscheibe; die Parkplätze bieten oft eine gute Sicht auf das aufgewühlte Wasser.",
+                "hu": "Élvezze a Mälarenre nyíló tágas kilátást a vizes szélvédőn keresztül; a közeli parkolóból gyakran jól látható a felkorbácsolt, szürke víztükör.",
+                "ro": "Bucurați-vă de vederea panoramică asupra lacului Mälaren prin parbrizul ud; parcările oferă adesea o perspectivă bună asupra apelor agitate de vânt.",
+                "en": "Enjoy the expansive view of Lake Mälaren through your wet windshield; the parking areas often provide a good vantage point of the choppy, wind-blown water."
+              }
+            },
+            {
+              "name": {
+                "de": "Lövstabadet",
+                "hu": "Lövstabadet",
+                "ro": "Lövstabadet",
+                "en": "Lövstabadet"
+              },
+              "tip_5lang": {
+                "de": "Der Regen wäscht den Sandstrand sauber und leer; nutzen Sie die Heizung im Auto, um Ihre Jacken nach dem letzten Foto-Stopp am Wasser schnell zu trocknen.",
+                "hu": "Az eső tisztára mossa és kiüríti a homokos strandot; használja az autó fűtését a kabátok megszárításához az utolsó vizes fotózás után a parton.",
+                "ro": "Ploaia spală și golește plaja cu nisip; folosiți încălzirea din mașină pentru a vă usca jachetele după ultima oprire foto de lângă apa rece.",
+                "en": "The rain washes the sandy beach clean and leaves it deserted; use the car's heater to dry your jackets after the final photo stop by the water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Winterpracht bei wohliger Heizungswärme. Mittags glitzern Seen hinter Schneemauern am Straßenrand; Winterreifen sind hier Pflicht. Nachmittags bietet das Auto einen Logenplatz für den frühen Sonnenuntergang über dem Eis. Abends funkeln Straßenlichter auf dem Schnee bei der stimmungsvollen Rückfahrt.",
+            "hu": "Fedezze fel a téli pompát az autó melegéből. Délben a tavak szikráznak az utak menti hófalak mögött; a téli gumi alapfeltétel. Délután a kocsi páholyt biztosít a korai naplementéhez a jég felett. Este az utcai fények csillognak a havon a hangulatos hazautazás során.",
+            "ro": "Explorați splendoarea iernii din interiorul călduros al mașinii. La prânz lacurile sclipesc dincolo de troiene; anvelopele de iarnă sunt obligatorii. După-amiaza mașina oferă un loc de onoare pentru apusul timpuriu peste gheață. Seara, luminile sclipesc pe zăpadă în timpul drumului de întoarcere.",
+            "en": "Explore the winter splendor in the cozy warmth of your car. At noon, lakes glitter behind snow walls; winter tires are a must here. In the afternoon, the car provides a front-row seat for the early sunset over the ice. By evening, streetlights sparkle on the snow during the atmospheric drive back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ärvinge Groddamm",
+                "hu": "Ärvinge Groddamm",
+                "ro": "Iazul Ärvinge Groddamm",
+                "en": "Ärvinge Groddamm"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Zustand des Parkplatzes vor dem Einfahren; tiefer Schnee kann für Fahrzeuge ohne Allradantrieb eine echte Herausforderung darstellen.",
+                "hu": "Behajtás előtt ellenőrizze a parkoló állapotát; a mély hó komoly kihívást jelenthet az összkerékhajtás nélküli járművek számára a megállásnál.",
+                "ro": "Verificați starea parcării înainte de a intra; zăpada adâncă poate fi o provocare pentru vehiculele fără tracțiune integrală la manevrare.",
+                "en": "Check the parking lot conditions before entering; deep snow can be a real challenge for vehicles without all-wheel drive during parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Ravalen",
+                "hu": "Ravalen",
+                "ro": "Lacul Ravalen",
+                "en": "Ravalen"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen; eine warme Wolldecke im Auto macht die Pausen am See noch gemütlicher.",
+                "hu": "Ne járassa feleslegesen a motort, miközben a kilátásban gyönyörködik; egy meleg gyapjútakaró az autóban még hangulatosabbá teszi a tónál töltött időt.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce admirați priveliștea; o pătură caldă de lână în mașină face pauzele la lac mult mai plăcute și intime.",
+                "en": "Don't leave the engine idling unnecessarily while enjoying the view; a warm wool blanket in the car makes the lakeside breaks even cozier in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Översjön",
+                "hu": "Översjön",
+                "ro": "Lacul Översjön",
+                "en": "Översjön"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Waldwegen zum See; Reifglätte ist hier oft tückisch, halten Sie immer eine Schaufel im Kofferraum bereit.",
+                "hu": "Vezessen óvatosan a tóhoz vezető erdei utakon; a zúzmara miatt az út csalóka lehet, tartson hólapátot és jégoldót a csomagtartóban a biztonság kedvéért.",
+                "ro": "Conduceți cu prudență pe drumurile forestiere spre lac; gheața poate fi înșelătoare, păstrați întotdeauna o lopată și spray degivrant în portbagaj.",
+                "en": "Drive carefully on the narrow forest roads to the lake; black ice is often treacherous here, so keep a shovel and de-icer in your trunk at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "Kallhällsbadet",
+                "hu": "Kallhällsbadet",
+                "ro": "Kallhällsbadet",
+                "en": "Kallhällsbadet"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen hervorragenden Blick auf das Packeis am Ufer; genießen Sie den Sonnenuntergang im Auto mit einem heißen Kaffee aus der Thermoskanne.",
+                "hu": "A parkolóból kiváló kilátás nyílik a parton feltorlódott jégre; élvezze a naplementét az autó melegében egy termosz forró kávé társaságában.",
+                "ro": "Parcarea oferă o vedere excelentă asupra gheții formate la mal; bucurați-vă de apus în mașină cu o cafea fierbinte dintr-un termos de calitate.",
+                "en": "The parking lot offers an excellent view of the pack ice along the shore; enjoy the sunset from your car with a hot coffee from a thermos bottle."
+              }
+            },
+            {
+              "name": {
+                "de": "Lövstabadet",
+                "hu": "Lövstabadet",
+                "ro": "Lövstabadet",
+                "en": "Lövstabadet"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf glatte Stellen auf dem gefrorenen Sand; die tiefstehende Sonne kann Sie beim Einparken am Nachmittag stark blenden.",
+                "hu": "Kiszálláskor ügyeljen a jeges foltokra a fagyott homokon; a délutáni alacsony napállás miatt a szemébe tűző nap erősen vakíthat parkolás közben.",
+                "ro": "Atenție la porțiunile înghețate de pe nisip când coborâți din mașină; soarele care stă jos după-amiaza vă poate orbi puternic la manevrele de parcare.",
+                "en": "Watch out for icy patches on the frozen sand when getting out; the low afternoon sun can be very blinding while you are maneuvering into a parking spot."
+              }
+            }
+          ]
+        }
       }
     }
   }

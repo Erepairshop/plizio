@@ -137,6 +137,168 @@
         "hu": "Belforti sétája az elegáns Városházánál kezdődik, amelyet a Tour 46 múzeum izgalmas történelmi kiállítása követ. Délben a Monument des Trois Sièges emlékműhöz ér, amely a város hősiességét hirdeti. A délutánt a lenyűgöző Citadellának szenteljük, amelynek masszív falai lenyűgözőek. Végül kényelmes tempóban fedezheti fel az ősi Tour des Bourgeois épületének titkait.",
         "ro": "Plimbarea dvs. prin Belfort începe la eleganta Primărie, urmată de o incursiune istorică la muzeul Tour 46. La prânz, veți ajunge la Monument des Trois Sièges, o mărturie a curajului local. După-amiaza este dedicată impresionantei Citadele, unde vă veți bucura de priveliști superbe. În final, veți explora fortificațiile medievale de la Tour des Bourgeois într-un ritm relaxant.",
         "en": "Your walking tour of Belfort begins at the elegant City Hall, followed by a fascinating dive into history at Tour 46. By midday, you will reach the Monument des Trois Sièges, commemorating the city's brave past. The afternoon is dedicated to the imposing Citadel, offering magnificent panoramic views. Finally, you will explore the ancient Tour des Bourgeois at a very relaxing pace."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Rathaus, wo die Steinfassaden im nassen Glanz erstrahlen. Mittags bietet der Turm 46 einen idealen trockenen Zufluchtsort voller Kunst. Nachmittags führt der Weg zur Zitadelle, deren Kasematten Schutz vor Schauern bieten. Der Tag endet im historischen Zentrum, wo die beleuchteten Pfützen die Architektur der Altstadt stimmungsvoll widerspiegeln.",
+            "hu": "Az esős reggel a Városházánál indul, ahol a nedves homlokzatok sötét tónust kapnak. Délben a 46-os Torony nyújt tökéletes fedett menedéket és kulturális élményt. Délután a Citadella felé vesszük az irányt, ahol a földalatti járatok szárazon tarthatnak. Az este a történelmi központban zárul, ahol az óváros fényei megcsillannak a vizes aszfalton.",
+            "ro": "O dimineață ploioasă începe la Primărie, unde fațadele de piatră capătă o strălucire aparte sub stropii de apă. La prânz, Turnul 46 oferă refugiul ideal, fiind un spațiu expozițional acoperit. După-amiaza explorăm Citadela, folosind galeriile subterane pentru a ne feri de ploaie. Seara se încheie în centrul vechi, unde luminile orașului se oglindesc spectaculos în bălți.",
+            "en": "A rainy morning starts at the City Hall, where the wet stone facades take on a deep, dramatic hue. At noon, Tower 46 provides a perfect dry sanctuary filled with art. Afternoon leads to the Citadel, where underground passages offer shelter from the showers. The day ends in the historic center, with city lights reflecting beautifully on the damp cobblestone streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Belfort",
+                "hu": "Belforti Városháza",
+                "ro": "Primăria Belfort",
+                "en": "Belfort City Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter dem Schutz der umliegenden Arkaden und nutzen Sie den Haupteingang als kurzzeitigen Unterstand bei starken Güssen.",
+                "hu": "Csodálja meg az épületet a közeli árkádok védelméből, és használja a főbejáratot ideiglenes menedékként egy hirtelen felhőszakadás esetén.",
+                "ro": "Admirați arhitectura sub protecția arcadelor din apropiere și folosiți intrarea principală ca adăpost temporar în caz de aversă puternică.",
+                "en": "Admire the architecture from the shelter of nearby arcades and use the main entrance as a temporary cover during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm 46",
+                "hu": "46-os Torony",
+                "ro": "Turnul 46",
+                "en": "Tower 46"
+              },
+              "tip_5lang": {
+                "de": "Dieser ehemalige Festungsturm ist der perfekte Ort, um den Regen draußen zu vergessen und in Ruhe die lokalen Kunstausstellungen im Trockenen zu genießen.",
+                "hu": "Ez az egykori erődtorony a tökéletes hely, hogy elfelejtse a kinti esőt, és nyugodt körülmények között böngéssze a helyi művészeti kiállításokat.",
+                "ro": "Acest fost turn de fortificație este locul perfect pentru a uita de ploaia de afară și pentru a explora expozițiile de artă locală la adăpost.",
+                "en": "This former fortification tower is the perfect place to escape the rain and explore local art exhibitions in a cozy, dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der drei Belagerungen",
+                "hu": "Három Ostrom Emlékműve",
+                "ro": "Monumentul celor Trei Asedii",
+                "en": "Monument of the Three Sieges"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Aufenthalt kurz und nutzen Sie die Bäume am Platz als natürlichen Schirm, während Sie die dramatische Wirkung der nassen Bronze bestaunen.",
+                "hu": "Tartsa rövidre a látogatást, és használja a tér fáit természetes esernyőként, miközben megcsodálja a nedves bronz drámai csillogását.",
+                "ro": "Scurtați vizita și folosiți copacii din piață ca paravan natural în timp ce admirați efectul dramatic al bronzului ud sub cerul gri.",
+                "en": "Keep your visit brief and use the trees in the square as natural cover while admiring the dramatic look of the wet bronze statues."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle von Belfort",
+                "hu": "Belforti Citadella",
+                "ro": "Citadela din Belfort",
+                "en": "Citadel of Belfort"
+              },
+              "tip_5lang": {
+                "de": "Konzentrieren Sie sich auf die unterirdischen Gänge und das Museum im Inneren, die einen umfassenden Einblick bieten, ohne dass Sie nass werden.",
+                "hu": "Fókuszáljon a földalatti járatokra és a belső múzeumra, amelyek teljes élményt nyújtanak anélkül, hogy bőrig ázna a várfalakon.",
+                "ro": "Concentrați-vă pe galeriile subterane și pe muzeul interior, care oferă o experiență completă fără a vă expune ploii de pe metereze.",
+                "en": "Focus on the underground passages and the indoor museum, which provide a full historical experience without getting soaked on the ramparts."
+              }
+            },
+            {
+              "name": {
+                "de": "Bürgerturm",
+                "hu": "Polgárok Tornya",
+                "ro": "Turnul Burghezilor",
+                "en": "Bourgeois Tower"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen, da der Sandstein bei Nässe rutschig sein kann; genießen Sie den Blick auf die nebelverhangenen Dächer der Altstadt.",
+                "hu": "Vigyázzon a lépcsőkön, mert a homokkő esőben csúszós lehet; élvezze a kilátást az óváros ködbe burkolózó háztetőire.",
+                "ro": "Atenție pe trepte, deoarece gresia poate fi alunecoasă pe ploaie; bucurați-vă de priveliștea acoperișurilor orașului vechi învăluite în ceață.",
+                "en": "Be careful on the steps as the sandstone can be slippery; enjoy the unique view of the old town rooftops shrouded in mist."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Rathausplatz, wo der Atem in der kalten Luft gefriert. Mittags bietet der Turm 46 eine wohlige Wärme inmitten dicker Festungsmauern. Am Nachmittag taucht die tiefstehende Sonne die Zitadelle in ein goldenes Licht, bevor es gegen 17:00 Uhr dunkel wird. Der Abend endet bei festlicher Beleuchtung, die die winterliche Stille der Stadt Belfort perfekt untermalt.",
+            "hu": "Fagyos reggel indul a Városháza téren, ahol a hideg levegőben látszik a lehelet. Délben a 46-os Torony vastag falai között találunk menedéket a csípős szél elől. Délután az alacsonyan járó nap aranyba vonja a Citadellát, mielőtt 17 óra körül leszáll az est. Az este ünnepi fényekkel zárul, amelyek megtörik a téli város csendjét.",
+            "ro": "O dimineață geroasă începe în Piața Primăriei, unde aerul rece face vizibilă fiecare răsuflare. La prânz, zidurile groase ale Turnului 46 oferă o căldură binevenită. După-amiaza, soarele palid îmbracă Citadela în nuanțe aurii înainte de apusul de la ora 17:00. Seara se încheie cu iluminatul festiv al orașului, care completează perfect liniștea iernii.",
+            "en": "A frosty morning begins at the City Hall square, where the crisp air invigorates the senses. At noon, the thick walls of Tower 46 offer a warm retreat from the biting wind. In the afternoon, the low winter sun bathes the Citadel in golden light before darkness falls around 5 PM. The evening ends with festive illuminations that beautifully highlight Belfort's winter silence."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Belfort",
+                "hu": "Belforti Városháza",
+                "ro": "Primăria Belfort",
+                "en": "Belfort City Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade zügig und nutzen Sie die umliegenden Cafés für ein heißes Getränk, bevor Sie den Rundgang in der Kälte fortsetzen.",
+                "hu": "Csodálja meg gyorsan a homlokzatot, majd látogasson el egy közeli kávézóba egy forró italra, mielőtt folytatná a sétát a hidegben.",
+                "ro": "Admirați rapid fațada și profitați de cafenelele din jur pentru o băutură caldă înainte de a continua traseul prin frig.",
+                "en": "Admire the facade briefly and then head to a nearby cafe for a hot drink to warm up before continuing your chilly stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm 46",
+                "hu": "46-os Torony",
+                "ro": "Turnul 46",
+                "en": "Tower 46"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp als ausgiebige Aufwärmpause; die dicken Mauern isolieren hervorragend gegen den winterlichen Frost draußen.",
+                "hu": "Használja ezt a megállót egy hosszabb melegedőre; a vastag falak kiválóan szigetelnek a kinti téli fagyok ellen.",
+                "ro": "Folosiți această oprire pentru o pauză lungă de încălzire; zidurile groase izolează excelent împotriva gerului de afară.",
+                "en": "Use this stop for an extended warming break; the thick stone walls provide excellent insulation against the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der drei Belagerungen",
+                "hu": "Három Ostrom Emlékműve",
+                "ro": "Monumentul celor Trei Asedii",
+                "en": "Monument of the Three Sieges"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt bei klarem Winterhimmel besonders imposant; tragen Sie Handschuhe, da die Metallgeländer in der Nähe extrem kalt sein können.",
+                "hu": "Az emlékmű különösen impozáns a tiszta téli égbolt alatt; viseljen kesztyűt, mert a közeli fémkorlátok jéghidegek lehetnek.",
+                "ro": "Monumentul arată deosebit sub cerul senin de iarnă; purtați mănuși, deoarece balustradele metalice din apropiere pot fi extrem de reci.",
+                "en": "The monument looks especially imposing under a clear winter sky; wear gloves as the metal railings nearby can be freezing to the touch."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle von Belfort",
+                "hu": "Belforti Citadella",
+                "ro": "Citadela din Belfort",
+                "en": "Citadel of Belfort"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf den Wällen kann eisig sein; planen Sie Ihren Besuch so, dass Sie rechtzeitig vor dem frühen Sonnenuntergang um 17 Uhr wieder im Tal sind.",
+                "hu": "A bástyákon jeges lehet a szél; tervezze úgy a látogatást, hogy az 17 órai korai naplemente előtt visszaérjen a városba.",
+                "ro": "Vântul de pe metereze poate fi tăios; planificați vizita astfel încât să reveniți în oraș înainte de apusul devreme de la ora 17:00.",
+                "en": "The wind on the ramparts can be icy; time your visit to head back down before the early sunset at 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Bürgerturm",
+                "hu": "Polgárok Tornya",
+                "ro": "Turnul Burghezilor",
+                "en": "Bourgeois Tower"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die blaue Stunde über Belfort; die schneebedeckten Vogesen am Horizont bieten im Winter ein spektakuläres Panorama.",
+                "hu": "Élvezze a kék órát Belfort felett; a távolban hófödte Vogézek látványa télen egészen különleges panorámát nyújt.",
+                "ro": "Bucurați-vă de ora albastră deasupra Belfortului; munții Vosgi înzăpeziți de la orizont oferă o panoramă spectaculoasă iarna.",
+                "en": "Enjoy the 'blue hour' over Belfort; the snow-capped Vosges mountains on the horizon offer a spectacular winter panorama."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpártúrája a zöldellő Square Émile Lechten parkban indul, majd a történelmi Monument des Trois Sièges felé veszi az irányt. Délben a bájos Városháza mellett elhaladva a világhírű Citadellához teker. A délután folyamán a Tour de la Miotte magaslata várja, ahonnan mesés a kilátás. A nap aktív és pihentető lezárásaként a Base de Loisirs vízpartján kapcsolódhat ki.",
         "ro": "Turul cu bicicleta începe relaxant în verdele Square Émile Lechten, înainte de a vizita istoricul Monument des Trois Sièges. La prânz, veți pedala pe lângă Primărie direct către faimoasa Citadelă din Belfort. După-amiaza, traseul vă duce la pitorescul Tour de la Miotte pentru o panoramă excelentă. Ziua se încheie activ, dar relaxant, la malul apei la Base de Loisirs Imier Comte.",
         "en": "Your bike tour starts smoothly in the green Square Émile Lechten before heading to the historic Monument des Trois Sièges. At midday, pedal past the charming City Hall directly to the famous Citadel of Belfort. In the afternoon, the route takes you up to the prominent Tour de la Miotte for fantastic views. End your active day relaxing by the water at the Base de Loisirs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender, regnerischer Start am Émile Lechten Platz, wo die Wege etwas weicher sein können. Mittags führt die Fahrt zügig durch die Altstadt zum Rathaus, wobei Pfützen geschickt umfahren werden sollten. Nachmittags geht es bergauf zur Zitadelle, ein gutes Training bei kühlerem Regenwetter. Der Tag endet am Freizeitzentrum, wo das Wasser des Sees im Regen tanzt.",
+            "hu": "Frissítő, esős kezdés az Émile Lechten téren, ahol az utak felázhatnak. Délben a túra az óvároson át a Városházához vezet, ügyesen kerülgetve a tócsákat. Délután a Citadella felé vesszük az irányt, ami jó edzés a hűvös esőben. A nap a szabadidőközpontnál zárul, ahol a tó vize táncot jár az esőcseppekkel.",
+            "ro": "Un început răcoros și ploios în Piața Émile Lechten, unde aleile pot fi moi. La prânz, pedalăm prin orașul vechi spre Primărie, evitând cu grijă bălțile de pe carosabil. După-amiaza urcăm spre Citadelă, un antrenament bun pe vreme umedă. Ziua se încheie la baza de agrement, unde suprafața lacului tremură sub picăturile de ploaie.",
+            "en": "A refreshing, rainy start at Émile Lechten Square, where paths might be soft. At noon, cycle through the old town to the City Hall, carefully avoiding puddles. The afternoon climb to the Citadel provides a good workout in the cool rain. The day concludes at the leisure center, where the lake's surface dances under the falling raindrops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Émile Lechten Platz",
+                "hu": "Émile Lechten Tér",
+                "ro": "Piața Émile Lechten",
+                "en": "Émile Lechten Square"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf den Wegen; wasserfeste Packtaschen sind heute unerlässlich, um Ihre Ausrüstung trocken zu halten.",
+                "hu": "Vigyázzon a nedves levelekre az utakon; a vízálló kerékpáros táska ma elengedhetetlen, hogy felszerelése száraz maradjon.",
+                "ro": "Atenție la frunzele ude de pe alei; gențile de bicicletă impermeabile sunt esențiale astăzi pentru a vă păstra lucrurile uscate.",
+                "en": "Watch out for wet leaves on the paths; waterproof panniers are essential today to keep your gear dry during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der drei Belagerungen",
+                "hu": "Három Ostrom Emlékműve",
+                "ro": "Monumentul celor Trei Asedii",
+                "en": "Monument of the Three Sieges"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Stopp für einen Schluck aus der Thermoskanne und prüfen Sie Ihre Bremsen, bevor es weiter durch die nasse Stadt geht.",
+                "hu": "Használja ki a rövid megállót egy korty meleg teára, és ellenőrizze a fékeket, mielőtt továbbhajtana a vizes városon át.",
+                "ro": "Folosiți oprirea scurtă pentru o gură de ceai cald și verificați frânele înainte de a continua drumul prin orașul ud.",
+                "en": "Use this short break for a sip of warm tea and check your brakes before continuing through the wet city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Belfort",
+                "hu": "Belforti Városháza",
+                "ro": "Primăria Belfort",
+                "en": "Belfort City Hall"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einem Vorsprung ab; das Kopfsteinpflaster rund um den Platz kann bei Regen besonders rutschig sein.",
+                "hu": "Parkoljon le egy eresz alá; a tér körüli macskakő esőben különösen csúszós lehet, így közlekedjen óvatosan.",
+                "ro": "Parcați bicicleta sub o streașină; piatra cubică din jurul pieței poate fi foarte alunecoasă pe timp de ploaie.",
+                "en": "Park your bike under an overhang; the cobblestones around the square can be quite slippery when wet, so ride with caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle von Belfort",
+                "hu": "Belforti Citadella",
+                "ro": "Citadela din Belfort",
+                "en": "Citadel of Belfort"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hilft gegen die Kälte, aber nehmen Sie die Abfahrt wegen der nassen Fahrbahn und der Kurven besonders langsam.",
+                "hu": "Az emelkedő segít a hideg ellen, de a lejtőn közlekedjen lassan a vizes útfelület és az éles kanyarok miatt.",
+                "ro": "Urcarea vă va ajuta să vă încălziți, dar coborâți cu viteză redusă din cauza carosabilului ud și a curbelor strânse.",
+                "en": "The climb will keep you warm, but take the descent slowly due to the wet road surface and sharp turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Miotte-Turm",
+                "hu": "Miotte Torony",
+                "ro": "Turnul Miotte",
+                "en": "Miotte Tower"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel vor der Weiterfahrt trocken; die Aussicht auf die verregnete Landschaft ist von hier oben dennoch beeindruckend.",
+                "hu": "Törölje szárazra a nyerget mielőtt továbbindulna; a kilátás az esőáztatta tájra innen fentről így is lenyűgöző.",
+                "ro": "Ștergeți șaua înainte de a pleca mai departe; priveliștea asupra peisajului ploios de aici de sus este totuși impresionantă.",
+                "en": "Wipe your saddle dry before moving on; the view of the rain-washed landscape from up here remains quite impressive."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitzentrum Imier Comte",
+                "hu": "Imier Comte Szabadidőközpont",
+                "ro": "Baza de Agrement Imier Comte",
+                "en": "Imier Comte Leisure Center"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einer heißen Dusche, falls verfügbar, und genießen Sie die Ruhe am See, die nur der Regen bietet.",
+                "hu": "Zárja a túrát egy forró zuhannyal, ha van rá lehetőség, és élvezze a tóparti csendet, amit csak az eső tud megteremteni.",
+                "ro": "Încheiați tura cu un duș fierbinte dacă e posibil și bucurați-vă de liniștea de lângă lac pe care doar ploaia o poate oferi.",
+                "en": "Finish your ride with a hot shower if available and enjoy the unique lakeside tranquility that only a rainy day provides."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Émile Lechten Platz erfordert warme Handschuhe am Lenker. Mittags rollen wir durch die sonnigen, aber kalten Gassen zum Rathaus, wo die Wintersonne die Fassaden hell erleuchtet. Am frühen Nachmittag erklimmen wir die Zitadelle, um die klare Fernsicht zu genießen. Bevor die Dunkelheit um 17 Uhr hereinbricht, erreichen wir den zugefrorenen See am Freizeitzentrum.",
+            "hu": "A fagyos kezdés az Émile Lechten téren meleg kesztyűt követel a kormányon. Délben a napsütötte, de hideg utcákon gurulunk a Városházáig, ahol a téli nap élesen világítja meg a falakat. Kora délután feltekerünk a Citadellához a tiszta kilátásért. Mielőtt 17 órakor beállna a sötétség, elérjük a szabadidőközpont jeges tavát.",
+            "ro": "Un început geros în Piața Émile Lechten necesită mănuși groase pe ghidon. La prânz, pedalăm pe străzile însorite dar reci spre Primărie, unde soarele de iarnă luminează puternic fațadele. După-amiază urcăm la Citadelă pentru o vizibilitate maximă asupra orizontului. Înainte de întunericul de la ora 17:00, ajungem la lacul înghețat al bazei de agrement.",
+            "en": "A frosty start at Émile Lechten Square requires warm gloves on the handlebars. At noon, roll through sunny but cold streets to the City Hall, where winter light sharply defines the buildings. In the early afternoon, climb to the Citadel for clear, long-distance views. Before darkness arrives at 5 PM, we reach the icy lake at the leisure center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Émile Lechten Platz",
+                "hu": "Émile Lechten Tér",
+                "ro": "Piața Émile Lechten",
+                "en": "Émile Lechten Square"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten der Bäume; ein niedrigerer Reifendruck kann auf winterlichen Wegen mehr Grip bieten.",
+                "hu": "Vigyázzon a fagyfoltokra a fák árnyékában; a kissé alacsonyabb guminyomás jobb tapadást biztosíthat a téli utakon.",
+                "ro": "Atenție la porțiunile înghețate de la umbra copacilor; o presiune ușor mai scăzută în anvelope poate oferi aderență mai bună pe timp de iarnă.",
+                "en": "Watch out for black ice in the shadows of trees; a slightly lower tire pressure can provide better grip on winter paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der drei Belagerungen",
+                "hu": "Három Ostrom Emlékműve",
+                "ro": "Monumentul celor Trei Asedii",
+                "en": "Monument of the Three Sieges"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie nur eine kurze Pause, um nicht auszukühlen; die klare Winterluft lässt das Denkmal besonders detailreich erscheinen.",
+                "hu": "Csak rövid szünetet tartson, hogy ne hűljön ki a teste; a tiszta téli levegőben az emlékmű részletei különösen élesen látszanak.",
+                "ro": "Faceți doar o scurtă pauză pentru a nu vă răci corpul; aerul curat de iarnă face ca detaliile monumentului să fie foarte vizibile.",
+                "en": "Take only a short break to keep your body temperature up; the crisp winter air makes the monument's details stand out clearly."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Belfort",
+                "hu": "Belforti Városháza",
+                "ro": "Primăria Belfort",
+                "en": "Belfort City Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne spiegelt sich stark in den Fenstern; tragen Sie eine Sportbrille, um Ihre Augen vor dem grellen Licht und kaltem Fahrtwind zu schützen.",
+                "hu": "A nap erősen tükröződik az ablakokon; viseljen sportnapszemüveget, hogy védje szemét az éles fénytől és a hideg menetszéltől.",
+                "ro": "Soarele se reflectă puternic în ferestre; purtați ochelari de sport pentru a vă proteja ochii de lumina orbitoare și de vântul rece.",
+                "en": "The sun reflects sharply off the windows; wear cycling glasses to protect your eyes from the glare and the biting cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle von Belfort",
+                "hu": "Belforti Citadella",
+                "ro": "Citadela din Belfort",
+                "en": "Citadel of Belfort"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und hart sein; schalten Sie in einen leichten Gang für den Anstieg, um gleichmäßig warm zu bleiben.",
+                "hu": "A talaj fagyott és kemény lehet; váltson könnyű fokozatba az emelkedőn, hogy egyenletesen tartsa testhőmérsékletét.",
+                "ro": "Solul poate fi înghețat și tare; folosiți o treaptă ușoară de viteză pe urcare pentru a vă menține temperatura corpului constantă.",
+                "en": "The ground might be frozen and hard; use a low gear on the climb to keep a steady pace and maintain body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Miotte-Turm",
+                "hu": "Miotte Torony",
+                "ro": "Turnul Miotte",
+                "en": "Miotte Tower"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie für den Stopp eine zusätzliche Schicht an; der exponierte Turm bietet keinen Windschutz, aber eine fantastische Fernsicht.",
+                "hu": "Húzzon fel még egy réteget a pihenőhöz; a nyitott torony nem véd a széltől, de a téli kilátás innen a legszebb.",
+                "ro": "Puneți o haină în plus pentru această oprire; turnul expus nu oferă protecție contra vântului, dar panorama de iarnă este superbă.",
+                "en": "Put on an extra layer for this stop; the exposed tower offers no wind protection, but the winter view is truly spectacular."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitzentrum Imier Comte",
+                "hu": "Imier Comte Szabadidőközpont",
+                "ro": "Baza de Agrement Imier Comte",
+                "en": "Imier Comte Leisure Center"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17 Uhr an, um den See noch im Restlicht zu sehen; achten Sie bei der Rückfahrt auf die schnell fallenden Temperaturen.",
+                "hu": "Érkezzen meg 17 óra előtt, hogy még lássa a tavat a szürkületben; a visszaúton ügyeljen a hirtelen zuhanó hőmérsékletre.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a vedea lacul în lumina amurgului; la întoarcere, aveți grijă la scăderea bruscă a temperaturii.",
+                "en": "Arrive before 5 PM to catch the last light over the lake; be prepared for rapidly dropping temperatures on your ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "A napot a csendes Parc Francis Bédat állatparkban kezdi, mielőtt a történelmi Tour 46 múzeumhoz hajtana. A delet a fenséges Citadellában és a szomszédos Tour des Bourgeois-ban tölti, ahol a történelem életre kel. Délután az izgalmas Fort de la Miotte erődítmény felfedezése következik. Zárásként kényelmesen elautózik a Base de Loisirs vízparti szabadidőközpontjába egy kis pihenésre.",
         "ro": "Veți începe ziua în liniștitul Parc Francis Bédat, perfect pentru o dimineață calmă, înainte de a conduce spre Tour 46. Mijlocul zilei îl veți petrece explorând maiestuoasa Citadelă și vecinul său, Tour des Bourgeois. După-amiaza vă așteaptă cu arhitectura impresionantă de la Fort de la Miotte. Pentru a încheia ziua, conduceți confortabil spre zona de recreere de la Base de Loisirs.",
         "en": "You begin your day in the peaceful Parc Francis Bédat, offering a calm start before driving to Tour 46. The middle of the day is spent exploring the majestic Citadel and the neighboring Tour des Bourgeois. In the afternoon, the historic Fort de la Miotte awaits with its impressive military architecture. Finally, take a comfortable drive to the Base de Loisirs for some waterfront relaxation."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Start im Auto führt zum Hirschpark, wo die Tiere im Regen oft besonders aktiv sind. Mittags parken wir bequem am Turm 46 und genießen Kunst im Trockenen. Nachmittags geht es hinauf zur Zitadelle, wobei die Scheibenwischer den Blick auf die Festung freigeben. Der Tag endet am Freizeitzentrum, während der Regen sanft auf das Autodach trommelt.",
+            "hu": "Kényelmes kezdés autóval a Szarvasparknál, ahol az állatok esőben gyakran aktívabbak. Délben a 46-os Toronynál parkolunk, élvezve a fedett kiállítóteret. Délután felautózunk a Citadellához, miközben az ablaktörlő szabad utat enged a látványnak. A nap a szabadidőközpontnál zárul, miközben az eső kopogása hallatszik az autó tetején.",
+            "ro": "Un început confortabil cu mașina spre parcul cu cerbi, unde animalele sunt adesea active pe ploaie. La prânz parcăm lângă Turnul 46 pentru a vizita muzeul la adăpost. După-amiaza urcăm spre Citadelă, lăsând ștergătoarele să ne descopere panorama cetății. Ziua se încheie la baza de agrement, în sunetul relaxant al ploii pe plafonul mașinii.",
+            "en": "A comfortable start by car leads to the Deer Park, where animals are often quite active in the rain. At noon, park easily by Tower 46 to enjoy indoor art. In the afternoon, drive up to the Citadel, letting the wipers clear the view of the fortress. The day ends at the leisure center, with the soothing sound of rain drumming on the car roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Francis Bédat Park (Hirschpark)",
+                "hu": "Francis Bédat Park (Szarvaspark)",
+                "ro": "Parcul Francis Bédat (cu cerbi)",
+                "en": "Francis Bédat Park (Deer Park)"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Hirsche bei starkem Regen direkt aus dem Auto oder nutzen Sie einen stabilen Regenschirm für den kurzen Fußweg zum Gehege.",
+                "hu": "Figyelje a szarvasokat erős esőben közvetlenül az autóból, vagy használjon erős esernyőt a kifutóhoz vezető rövid sétához.",
+                "ro": "Observați cerbii direct din mașină dacă plouă torențial sau folosiți o umbrelă rezistentă pentru scurta plimbare până la țarc.",
+                "en": "Observe the deer directly from your car during heavy showers, or use a sturdy umbrella for the short walk to the enclosure."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm 46",
+                "hu": "46-os Torony",
+                "ro": "Turnul 46",
+                "en": "Tower 46"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz, um die Zeit im Regen zu minimieren; das Innere des Turms bietet eine faszinierende, trockene Atmosphäre.",
+                "hu": "Használja a közeli parkolót, hogy minimalizálja az esőben töltött időt; a torony belseje lenyűgöző és teljesen száraz menedéket nyújt.",
+                "ro": "Folosiți parcarea din apropiere pentru a minimiza timpul petrecut în ploaie; interiorul turnului oferă o atmosferă fascinantă și uscată.",
+                "en": "Use the nearby parking lot to minimize time in the rain; the tower's interior offers a fascinating and completely dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle von Belfort",
+                "hu": "Belforti Citadella",
+                "ro": "Citadela din Belfort",
+                "en": "Citadel of Belfort"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum oberen Parkplatz; besuchen Sie die inneren Museen, um die Geschichte Belforts ohne nasse Kleidung zu erkunden.",
+                "hu": "Hajtson fel a felső parkolóig; látogassa meg a belső múzeumokat, hogy száraz ruhában ismerhesse meg Belfort történelmét.",
+                "ro": "Conduceți până la parcarea de sus; vizitați muzeele interioare pentru a explora istoria orașului fără a vă uda hainele.",
+                "en": "Drive all the way to the upper parking lot; visit the indoor museums to explore Belfort's history while staying warm and dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Bürgerturm",
+                "hu": "Polgárok Tornya",
+                "ro": "Turnul Burghezilor",
+                "en": "Bourgeois Tower"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf rutschigen Untergrund; der Blick auf die verregnete Altstadt lohnt den kurzen Weg vom Parkplatz.",
+                "hu": "Kiszálláskor ügyeljen a csúszós útpadkára; a vizes óváros látványa megéri azt a pár lépést, amit a parkolótól meg kell tennie.",
+                "ro": "Atenție la suprafețele alunecoase când coborâți din mașină; vederea asupra orașului vechi merită scurta plimbare de la parcare.",
+                "en": "Watch for slippery surfaces when getting out of the car; the view of the rainy old town is worth the short walk from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Miotte",
+                "hu": "Miotte Erőd",
+                "ro": "Fortul Miotte",
+                "en": "Miotte Fort"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Starkregen etwas unübersichtlich sein; parken Sie sicher und genießen Sie das Panorama aus dem Schutz des Wagens.",
+                "hu": "A felvezető út heves esőben nehezebben belátható; parkoljon le biztonságosan, és élvezze a panorámát az autó védelméből.",
+                "ro": "Drumul de urcare poate fi dificil pe ploaie torențială; parcați în siguranță și admirați panorama din interiorul mașinii.",
+                "en": "The access road can be tricky during heavy rain; park safely and enjoy the sweeping panorama from the comfort of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitzentrum Imier Comte",
+                "hu": "Imier Comte Szabadidőközpont",
+                "ro": "Baza de Agrement Imier Comte",
+                "en": "Imier Comte Leisure Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Seeufer; im Regen ist es hier besonders ruhig, ideal für einen Moment der Entspannung im warmen Auto.",
+                "hu": "Használja a közvetlen tóparti parkolót; esőben itt különösen nagy a nyugalom, ideális egy kis pihenésre a meleg autóban.",
+                "ro": "Folosiți parcarea de pe malul lacului; pe ploaie este foarte liniște aici, ideal pentru un moment de relaxare în căldura mașinii.",
+                "en": "Use the parking lot right by the lake; it's exceptionally peaceful in the rain, perfect for a quiet moment inside your warm car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am Hirschpark, wo die Tiere im Frost oft gut zu sehen sind. Mittags bringt uns das Auto schnell zum Turm 46, einer warmen Oase in den dicken Mauern. Nachmittags genießen wir die Fahrt zur Zitadelle bei strahlend blauem Himmel. Vor dem frühen Sonnenuntergang um 17 Uhr erreichen wir das Freizeitzentrum, wo der gefrorene See in der Dämmerung glänzt.",
+            "hu": "Tiszta téli reggel indul a Szarvasparknál, ahol az állatok a fagyos időben is jól megfigyelhetők. Délben az autó gyorsan elvisz a 46-os Toronyhoz, ami meleg oázis a falak között. Délután a Citadellához autózunk a szikrázó napsütésben. A korai, 17 órás naplemente előtt érünk a szabadidőközponthoz, ahol a befagyott tó csillog.",
+            "ro": "O dimineață senină de iarnă începe la parcul cu cerbi, unde animalele pot fi văzute ușor prin ger. La prânz, mașina ne duce rapid la Turnul 46, o oază de căldură. După-amiaza urcăm la Citadelă sub un cer albastru strălucitor. Înainte de apusul de la ora 17:00, ajungem la baza de agrement, unde lacul înghețat strălucește în amurg.",
+            "en": "A crisp winter morning starts at the Deer Park, where animals are easily spotted in the frosty landscape. At noon, the car whisk us to Tower 46, a warm oasis within thick stone walls. In the afternoon, enjoy the drive to the Citadel under brilliant blue skies. Before the early 5 PM sunset, reach the leisure center where the frozen lake gleams in the dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Francis Bédat Park (Hirschpark)",
+                "hu": "Francis Bédat Park (Szarvaspark)",
+                "ro": "Parcul Francis Bédat (cu cerbi)",
+                "en": "Francis Bédat Park (Deer Park)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Standheizung beim Beobachten; im Winter sind die Tiere oft hungrig und kommen nah an die Zäune am Parkplatz heran.",
+                "hu": "Használja az autó fűtését várakozás közben; télen az állatok gyakran éhesek és egészen közel jönnek a parkoló melletti kerítéshez.",
+                "ro": "Folosiți încălzirea mașinii în timp ce observați; iarna, animalele sunt adesea flămânde și se apropie mult de gardul de lângă parcare.",
+                "en": "Keep the car heater on while observing; in winter, the animals are often quite active and come close to the fences near the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm 46",
+                "hu": "46-os Torony",
+                "ro": "Turnul 46",
+                "en": "Tower 46"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie zügig und genießen Sie die Wärme im Inneren; die Ausstellungen bieten einen hervorragenden Kontrast zur winterlichen Kälte draußen.",
+                "hu": "Parkoljon le gyorsan és élvezze a benti meleget; a kiállítások remek kontrasztot nyújtanak a kinti téli hideggel szemben.",
+                "ro": "Parcați rapid și bucurați-vă de căldura din interior; expozițiile oferă un contrast excelent cu frigul iernii de afară.",
+                "en": "Park quickly and head inside to enjoy the warmth; the exhibitions offer a perfect contrast to the biting winter cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle von Belfort",
+                "hu": "Belforti Citadella",
+                "ro": "Citadela din Belfort",
+                "en": "Citadel of Belfort"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf der Auffahrt; der Parkplatz oben bietet einen windgeschützten Startpunkt für die Erkundung der Festung.",
+                "hu": "Ügyeljen a jeges foltokra a felfelé vezető úton; a fenti parkoló szélvédett kiindulópontot nyújt az erőd felfedezéséhez.",
+                "ro": "Atenție la porțiunile înghețate de pe drumul de urcare; parcarea de sus oferă un punct de plecare ferit de vânt pentru a explora cetatea.",
+                "en": "Watch out for icy patches on the access road; the upper parking lot provides a relatively sheltered starting point for exploring the fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Bürgerturm",
+                "hu": "Polgárok Tornya",
+                "ro": "Turnul Burghezilor",
+                "en": "Bourgeois Tower"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne blendet beim Fahren in der Altstadt; halten Sie Ihre Sonnenbrille griffbereit für den Weg zum Turm.",
+                "hu": "Az alacsonyan járó téli nap elvakíthat az óvárosi vezetés közben; tartsa kéznél napszemüvegét a toronyhoz vezető úton.",
+                "ro": "Soarele jos de iarnă poate fi orbitor când conduceți prin orașul vechi; țineți ochelarii de soare la îndemână spre turn.",
+                "en": "The low winter sun can be blinding while driving through the old town; keep your sunglasses ready for the drive to the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Miotte",
+                "hu": "Miotte Erőd",
+                "ro": "Fortul Miotte",
+                "en": "Miotte Fort"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Straßenverhältnisse, da der Weg zum Fort exponiert ist; die Aussicht auf die verschneite Umgebung ist im Winter einzigartig.",
+                "hu": "Ellenőrizze az útviszonyokat, mert az erődöz vezető út kitett a szélnek; a havas táj látványa télen egészen egyedülálló innen.",
+                "ro": "Verificați starea drumului, deoarece calea spre fort este expusă; vederea asupra peisajului înzăpezit este unică iarna.",
+                "en": "Check road conditions as the path to the fort is very exposed; the view of the snow-dusted surroundings is unique in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitzentrum Imier Comte",
+                "hu": "Imier Comte Szabadidőközpont",
+                "ro": "Baza de Agrement Imier Comte",
+                "en": "Imier Comte Leisure Center"
+              },
+              "tip_5lang": {
+                "de": "Das Auto bietet den perfekten Rückzugsort, um den gefrorenen See bei Sonnenuntergang um 17 Uhr zu beobachten, ohne zu frieren.",
+                "hu": "Az autó tökéletes menedék, hogy megfigyelje a befagyott tavat a 17 órai naplementekor anélkül, hogy átfagyna a teste.",
+                "ro": "Mașina este refugiul perfect pentru a observa lacul înghețat la apusul de la ora 17:00 fără a resimți gerul de afară.",
+                "en": "Your car provides the perfect shelter to watch the frozen lake at the 5 PM sunset without having to face the bitter cold."
+              }
+            }
+          ]
+        }
       }
     }
   }

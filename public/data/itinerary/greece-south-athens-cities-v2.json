@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt az űr titkainak felfedezésével a Planetáriumban, majd éljen át egy egyedülálló érzékszervi élményt a Tapintás Múzeumában. Dél közeledtével csodálja meg az Agios Georgios templom békés építészetét. A délutánt a tengeri történelem és a Benaki Játékmúzeum nosztalgikus utazása tölti ki. Zárja a napot egy pihentető naplementés sétával a Flisvos strandon.",
         "ro": "Începeți dimineața explorând misterele spațiului la Planetariu, urmată de o experiență senzorială unică la Muzeul Tactil. La amiază, admirați arhitectura pașnică a bisericii Agios Georgios. După-amiaza este plină de istorie maritimă la Trirema Olympias și o călătorie nostalgică prin Muzeul Jucăriilor Benaki. Încheiați ziua cu o plimbare relaxantă la apus pe plaja Flisvos.",
         "en": "Start your morning exploring the mysteries of space at the Planetarium, followed by a unique sensory experience at the Touch Museum. As midday approaches, admire the peaceful architecture of Agios Georgios church. Your afternoon is filled with maritime history at the Olympias Trireme and a nostalgic journey through the Benaki Toy Museum. Conclude the day with a relaxing sunset stroll along Flisvos Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag wettergeschützt im Planetarium. Mittags bieten die Museen idealen Schutz vor dem Regen. Am Nachmittag suchen Sie auf dem Weg zur Küste überdachte Passagen. Am Abend ist eine Regenjacke gegen die Meeresbrise auf der dunklen Promenade unerlässlich.",
+            "hu": "Kezdje a napot fedett helyen a Planetáriumban. Délben az eső ellenére a közeli múzeumok nyújtanak menedéket. Délután keressen fedett árkádokat a part felé menet. Este a tengerparti szélben egy vízálló kabát elengedhetetlen a sötétedő sétányon.",
+            "ro": "Începeți ziua la adăpost în Planetariu. La prânz, muzeele locale oferă refugiul perfect împotriva ploii. După-amiaza, căutați pasaje acoperite spre coastă. Seara, o jachetă impermeabilă este esențială împotriva brizei marine pe faleza întunecată.",
+            "en": "Start your day under the dome of the Planetarium. At noon, local museums offer perfect shelter from the rain. In the afternoon, look for covered passages while heading to the coast. In the evening, a waterproof jacket is essential against the sea breeze on the darkening promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "hu": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "ro": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "en": "Neo Psephiako Planetario Idrumatos Eugenidou"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das Universum unter der riesigen Kuppel; die Projektionen sind faszinierend und das Gebäude bietet idealen Schutz vor dem Regen.",
+                "hu": "Fedezze fel az univerzum titkait a hatalmas kupola alatt; a modern vetítések lenyűgözőek, és az épület tökéletes menedék a kinti eső elől.",
+                "ro": "Explorați secretele universului sub cupola masivă; proiecțiile moderne sunt uimitoare, iar clădirea oferă adăpostul perfect împotriva ploii.",
+                "en": "Explore the secrets of the universe under the massive dome; the modern projections are stunning, and the building provides perfect shelter from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mouseio Aphes",
+                "hu": "Mouseio Aphes",
+                "ro": "Mouseio Aphes",
+                "en": "Mouseio Aphes"
+              },
+              "tip_5lang": {
+                "de": "Ein einzigartiges Museum für Blinde, das zum Anfassen einlädt; ideal bei Regen, da alle Exponate im Innenbereich sicher und trocken ausgestellt sind.",
+                "hu": "Egy különleges tapintható múzeum, ahol a művészetet kézzel ismerheti meg; esős időben kiváló program a védett, belső kiállítóterek miatt.",
+                "ro": "Un muzeu tactil unic unde puteți simți arta cu mâinile; ideal pe ploaie deoarece toate exponatele sunt expuse în interior, la loc uscat.",
+                "en": "A unique tactile museum where you can experience art through touch; perfect for rainy days as all exhibits are safely located indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Georgios",
+                "hu": "Agios Georgios",
+                "ro": "Agios Georgios",
+                "en": "Agios Georgios"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche bietet einen ruhigen Ort zum Innehalten; achten Sie auf den rutschigen Marmor im Eingangsbereich, wenn es draußen nass ist.",
+                "hu": "A templom csendes helyszín az elmélyüléshez; esős időben vigyázzon a bejáratnál a márványlépcsőkre, mert rendkívül csúszósak lehetnek.",
+                "ro": "Această biserică oferă un loc liniștit pentru reflecție; atenție la treptele de marmură de la intrare, care devin foarte alunecoase pe ploaie.",
+                "en": "This church offers a quiet place for reflection; be careful on the marble steps at the entrance, as they become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Trieres Olumpias",
+                "hu": "Trieres Olumpias",
+                "ro": "Trieres Olumpias",
+                "en": "Trieres Olumpias"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Rekonstruktion der antiken Galeere; suchen Sie unter den nahen Vordächern Schutz, um das Schiff ohne nass zu werden zu betrachten.",
+                "hu": "Csodálja meg az ókori gálya rekonstrukcióját; a közeli előtetők alól szárazon is jól látható a hajó monumentális szerkezete.",
+                "ro": "Admirați reconstrucția galerei antice; căutați adăpost sub streșinile din apropiere pentru a vedea nava fără a vă uda prea tare.",
+                "en": "Admire the reconstruction of the ancient galley; look for shelter under nearby overhangs to view the ship's structure without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Mouseio Paikhnidion Mpenake",
+                "hu": "Mouseio Paikhnidion Mpenake",
+                "ro": "Mouseio Paikhnidion Mpenake",
+                "en": "Mouseio Paikhnidion Mpenake"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Welt der antiken Spielzeuge in diesem prächtigen Schloss; ein warmer, trockener Ort, um den Regentag spielerisch zu verbringen.",
+                "hu": "Merüljön el a régi játékok világában ebben a gyönyörű kastélyban; meleg és száraz menedék, ahol vidáman telik az esős délután.",
+                "ro": "Pătrundeți în lumea jucăriilor vechi în acest castel splendid; un loc cald și uscat pentru a petrece vesel o după-amiază ploioasă.",
+                "en": "Dive into the world of vintage toys in this beautiful castle; a warm and dry shelter where a rainy afternoon passes by joyfully."
+              }
+            },
+            {
+              "name": {
+                "de": "Παραλία Φλοίσβου",
+                "hu": "Παραλία Φloίσβου",
+                "ro": "Παραλία Φloίσβου",
+                "en": "Παραλία Φloίσβου"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer von einem der ufernahen Cafés aus; ein heißer Tee schützt vor der klammen Feuchtigkeit am Abend.",
+                "hu": "Élvezze a viharos tenger látványát az egyik parti kávézóból; egy forró tea segít elűzni a nyirkos esti hideget a sétányon.",
+                "ro": "Bucurați-vă de vederea mării agitate dintr-o cafenea de pe mal; un ceai fierbinte ajută la alungarea umezelii reci de seară de pe faleză.",
+                "en": "Enjoy the view of the stormy sea from a seaside café; a hot tea helps ward off the damp evening chill on the promenade."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wärme des Planetariums erwartet Sie am kühlen Morgen. Mittags genießen Sie die Museumsräume bei tiefstehender Sonne. Nachmittags sollten Sie früh zur Küste gehen, da es gegen 17:00 Uhr dunkel wird. Abends helfen Zwiebelprinzip und Heißgetränk.",
+            "hu": "A reggeli hűvösben a Planetárium melege várja. Délben élvezze a múzeumok belső tereit, amíg kint alacsonyan jár a nap. Délután siessen a partra, mert 17:00 körül már sötétedik. Este a tengerparti sétányon a réteges öltözködés és egy forró ital segít.",
+            "ro": "Căldura Planetariului vă așteaptă în răcoarea dimineții. La prânz, bucurați-vă de interioarele muzeelor cât soarele e jos. După-amiaza, grăbiți-vă spre coastă, se întunecă pe la 17:00. Seara, hainele stratificate și o băutură caldă ajută pe faleză.",
+            "en": "The warmth of the Planetarium awaits in the morning chill. At noon, enjoy the museum interiors while the sun stays low. In the afternoon, head to the coast early as it gets dark by 17:00. In the evening, layered clothing and a hot drink help on the seaside promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "hu": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "ro": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "en": "Neo Psephiako Planetario Idrumatos Eugenidou"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Start an einem frostigen Morgen; die moderne Heizung und die gemütlichen Sessel machen die Sternenshow zu einem wohligen Erlebnis.",
+                "hu": "Tökéletes kezdés egy fagyos reggelen; a modern fűtés és a kényelmes székek a csillagászati show-t barátságos élménnyé teszik.",
+                "ro": "Începutul perfect într-o dimineață geroasă; încălzirea modernă și scaunele confortabile fac din spectacolul stelar o experiență primitoare.",
+                "en": "The perfect start on a frosty morning; modern heating and comfortable seats make the stellar show a cozy and welcoming experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Mouseio Aphes",
+                "hu": "Mouseio Aphes",
+                "ro": "Mouseio Aphes",
+                "en": "Mouseio Aphes"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Skulpturen durch Berührung; die Innenräume sind gut temperiert, was den Museumsbesuch im Winter sehr angenehm macht.",
+                "hu": "Fedezze fel a szobrokat érintéssel; a belső terek jól fűtöttek, így a múzeumlátogatás télen is rendkívül kellemes és kényelmes program.",
+                "ro": "Explorați sculpturile prin atingere; spațiile interioare sunt bine încălzite, făcând vizita la muzeu iarna o experiență foarte plăcută.",
+                "en": "Explore sculptures through touch; the indoor spaces are well-heated, making the museum visit very pleasant and comfortable during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Georgios",
+                "hu": "Agios Georgios",
+                "ro": "Agios Georgios",
+                "en": "Agios Georgios"
+              },
+              "tip_5lang": {
+                "de": "Die brennenden Kerzen in der Kirche verbreiten eine behagliche Wärme; ein friedlicher Ort, um sich kurz aufzuwärmen und innezuhalten.",
+                "hu": "A templomban égő gyertyák barátságos meleget árasztanak; békés helyszín egy rövid pihenőre és átmelegedésre a téli séta közben.",
+                "ro": "Lumânările aprinse în biserică emană o căldură primitoare; un loc pașnic pentru o scurtă pauză și încălzire în timpul plimbării de iarnă.",
+                "en": "The burning candles in the church provide a welcoming warmth; a peaceful spot for a short break to warm up during your winter walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Trieres Olumpias",
+                "hu": "Trieres Olumpias",
+                "ro": "Trieres Olumpias",
+                "en": "Trieres Olumpias"
+              },
+              "tip_5lang": {
+                "de": "Das Schiff steht im Freien; nutzen Sie die klare Wintersonne für Fotos, aber tragen Sie eine winddichte Jacke wegen der Meeresbrise.",
+                "hu": "A hajó a szabadban áll; használja ki a tiszta téli napsütést a fotózáshoz, de viseljen szélálló kabátot a tenger felől érkező hideg miatt.",
+                "ro": "Nava este în aer liber; profitați de soarele clar de iarnă pentru fotografii, dar purtați o jachetă rezistentă la vânt din cauza brizei.",
+                "en": "The ship is outdoors; take advantage of the clear winter sun for photos, but wear a windproof jacket against the cold sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Mouseio Paikhnidion Mpenake",
+                "hu": "Mouseio Paikhnidion Mpenake",
+                "ro": "Mouseio Paikhnidion Mpenake",
+                "en": "Mouseio Paikhnidion Mpenake"
+              },
+              "tip_5lang": {
+                "de": "Das imposante Gebäude bietet Schutz vor der Kälte; genießen Sie die nostalgische Sammlung in den prachtvollen, geheizten Sälen des Schlosses.",
+                "hu": "Az impozáns épület védelmet nyújt a hideg ellen; élvezze a nosztalgikus gyűjteményt a kastély pompás, fűtött termeiben.",
+                "ro": "Clădirea impunătoare oferă protecție împotriva frigului; bucurați-vă de colecția nostalgică în sălile splendide și încălzite ale castelului.",
+                "en": "The imposing building provides shelter from the cold; enjoy the nostalgic collection in the castle's magnificent, heated halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Παραλία Φλοίσβου",
+                "hu": "Παραλία Φloίσβου",
+                "ro": "Παραλία Φloίσβου",
+                "en": "Παραλία Φloίσβου"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter schon gegen 17:00 Uhr; erreichen Sie die Promenade rechtzeitig, um das Lichtspiel im Hafen zu sehen.",
+                "hu": "A naplemente télen már 17:00 körül bekövetkezik; érjen a sétányra időben, hogy láthassa a kikötő esti fényeit és a horizontot.",
+                "ro": "Apusul de soare are loc pe la ora 17:00 iarna; ajungeți pe faleză la timp pentru a vedea jocurile de lumini din port la amurg.",
+                "en": "Sunset occurs around 17:00 in winter; reach the promenade in time to see the harbor lights and the horizon before it gets fully dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpáros kalandja a Városi Galériában kezdődik, ahol elmerül a helyi művészetben, majd a Nea Smyrni Digitális Múzeumába teker. Délben a part felé veszi az irányt, hogy megcsodálja a Planetáriumot. A délutánt a történelmi Olympias Trireme hadihajó felé tekerve tölti. Ahogy leszáll az est, élvezze a szellős parti utakat, amelyek a nyüzsgő kikötőbe és Palmyrába vezetnek.",
         "ro": "Aventura pe bicicletă începe la Galeria Municipală, apoi pedalați spre Muzeul Digital din Nea Smyrni pentru o lecție de istorie high-tech. La prânz vă îndreptați spre coastă pentru a admira cosmosul la Planetariu. Petreceți după-amiaza pedalând spre istorica navă de război Olympias. Seara, bucurați-vă de pistele de biciclete de pe coastă care duc spre portul vibrant și Palmyra.",
         "en": "Your cycling adventure begins at the Municipal Gallery, diving into local art before riding to the Digital Museum of Nea Smyrni for a high-tech history lesson. Midday takes you towards the coast to marvel at the digital cosmos in the Planetarium. Spend your afternoon pedaling to the historic Olympias Trireme warship. As evening falls, enjoy the breezy coastal bike paths leading to the vibrant Marina and Palmyra."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig bei nasser Fahrbahn. Mittags bieten die digitalen Museen in Nea Smyrni und Palaio Faliro sichere, trockene Pausen. Am Nachmittag meiden Sie die glatten Radwege direkt am Meer. Beenden Sie die Tour früh und tragen Sie reflektierende Regenbekleidung.",
+            "hu": "Induljon óvatosan a nedves aszfalton. Délben a nea szmirni és faliroi digitális múzeumok nyújtanak száraz pihenőt. Délután kerülje a csúszós parti kerékpárutakat. Fejezze be korán a túrát, és viseljen fényvisszaverő esőkabátot.",
+            "ro": "Porniți cu atenție pe carosabilul umed. La prânz, muzeele digitale din Nea Smyrni și Palaio Faliro oferă pauze uscate. După-amiaza, evitați pistele de biciclete alunecoase de pe mal. Încheiați tura devreme și purtați haine reflectorizante.",
+            "en": "Start carefully on the wet asphalt. At noon, digital museums in Nea Smyrni and Palaio Faliro provide dry breaks. In the afternoon, avoid slippery seaside bike paths. Finish your tour early and wear reflective waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Demotike Pinakotheke <<Sophia Laskaridou>>",
+                "hu": "Demotike Pinakotheke <<Sophia Laskaridou>>",
+                "ro": "Demotike Pinakotheke <<Sophia Laskaridou>>",
+                "en": "Demotike Pinakotheke <<Sophia Laskaridou>>"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kunstgalerie in einem historischen Haus; stellen Sie Ihr Rad unter dem Vordach ab und genießen Sie die Ausstellungen im Trockenen.",
+                "hu": "Látogassa meg a galériát ebben a történelmi házban; parkoljon az előtető alatt, és élvezze a kiállításokat a száraz belső térben.",
+                "ro": "Vizitați galeria de artă în această casă istorică; parcați bicicleta sub streșină și bucurați-vă de expoziții în interiorul uscat.",
+                "en": "Visit the art gallery in this historical house; park your bike under the overhang and enjoy the exhibits in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Psephiako Mouseio Neas Smurnes",
+                "hu": "Psephiako Mouseio Neas Smurnes",
+                "ro": "Psephiako Mouseio Neas Smurnes",
+                "en": "Psephiako Mouseio Neas Smurnes"
+              },
+              "tip_5lang": {
+                "de": "Ein hochmodernes digitales Museum; perfekt, um sich während eines Schauers aufzuwärmen und die Geschichte interaktiv zu erleben.",
+                "hu": "Modern digitális múzeum; tökéletes helyszín, hogy egy zápor idején behúzódjon és interaktív módon ismerje meg a helyi történelmet.",
+                "ro": "Un muzeu digital modern; locul perfect pentru a vă adăposti în timpul unei averse și a explora istoria în mod interactiv.",
+                "en": "A modern digital museum; the perfect place to take cover during a shower and explore history in an interactive way."
+              }
+            },
+            {
+              "name": {
+                "de": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "hu": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "ro": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "en": "Neo Psephiako Planetario Idrumatos Eugenidou"
+              },
+              "tip_5lang": {
+                "de": "Das Planetarium bietet einen sicheren Hafen vor dem Regen; nutzen Sie die Zeit für eine virtuelle Reise durch das Weltall, bis es aufhört zu regnen.",
+                "hu": "A planetárium biztos menedék az eső elől; használja ki az időt egy virtuális űrutazásra, amíg odakint eláll a zivatar.",
+                "ro": "Planetariul oferă un refugiu sigur împotriva ploii; profitați de timp pentru o călătorie virtuală în spațiu până când ploaia se oprește.",
+                "en": "The planetarium is a safe haven from the rain; use the time for a virtual space journey until the storm outside passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Trieres Olumpias",
+                "hu": "Trieres Olumpias",
+                "ro": "Trieres Olumpias",
+                "en": "Trieres Olumpias"
+              },
+              "tip_5lang": {
+                "de": "Die antike Triere ist bei Regen besonders eindrucksvoll; achten Sie beim Absteigen auf den rutschigen Boden im Parkbereich.",
+                "hu": "Az ókori trierész esőben is lenyűgöző látvány; a bicikliről leszállva ügyeljen a csúszós talajra a park melletti részen.",
+                "ro": "Triera antică este impresionantă chiar și pe ploaie; aveți grijă la solul alunecos când coborâți de pe bicicletă în zona parcului.",
+                "en": "The ancient trireme is impressive even in the rain; watch out for slippery ground when dismounting your bike near the park area."
+              }
+            },
+            {
+              "name": {
+                "de": "Παραλία Φloίσβου",
+                "hu": "Παραλία Φloίσβου",
+                "ro": "Παραλία Φloίσβου",
+                "en": "Παραλία Φloίσβου"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg am Strand kann bei Nässe tückisch sein; fahren Sie langsam und genießen Sie die raue Meeresluft in wasserfester Kleidung.",
+                "hu": "A tengerparti kerékpárút vizesen csalóka lehet; tekerjen lassan, és élvezze a friss tengeri levegőt vízálló öltözetben.",
+                "ro": "Pista de biciclete de pe plajă poate fi înșelătoare când este udă; pedalați încet și bucurați-vă de aerul sărat în haine impermeabile.",
+                "en": "The seaside bike path can be treacherous when wet; cycle slowly and enjoy the fresh sea air while wearing waterproof gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Παλμύρα",
+                "hu": "Παλμύρα",
+                "ro": "Παλμύρα",
+                "en": "Παλμύρα"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt in einem der Cafés; ein heißes Getränk wärmt Sie nach der regenreichen Tour wieder auf.",
+                "hu": "Zárja a túrát az egyik kávézóban; egy meleg ital segít felmelegedni az esős tekerés után a kikötő szomszédságában.",
+                "ro": "Încheiați tura într-una dintre cafenele; o băutură caldă vă va ajuta să vă încălziți după plimbarea ploioasă prin port.",
+                "en": "End your ride at one of the cafés; a hot drink will help you warm up after the rainy cycle near the marina."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare, kalte Luft bei einer Wintertour. Mittags laden die Museen zum Aufwärmen ein. Denken Sie daran, dass es ab 17:00 Uhr dunkel wird; schalten Sie frühzeitig Ihre Fahrradbeleuchtung ein. Handschuhe sind gegen den kalten Seewind unverzichtbar.",
+            "hu": "Élvezze a friss, hideg levegőt a téli kerékpártúra során. Délben a múzeumok hívogatnak egy kis melegedésre. Ne feledje, 17:00 után már sötét van; kapcsolja be időben a lámpákat. A kesztyű elengedhetetlen a hideg tengeri szél ellen.",
+            "ro": "Bucurați-vă de aerul proaspăt și rece în timpul turei de iarnă. La prânz, muzeele vă invită să vă încălziți. Nu uitați că se întunecă după ora 17:00; aprindeți luminile la timp. Mănușile sunt esențiale împotriva vântului rece de mare.",
+            "en": "Enjoy the fresh, cold air during your winter bike tour. At noon, museums invite you for a quick warm-up. Remember it gets dark after 17:00; turn on your lights early. Gloves are essential against the biting sea wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Demotike Pinakotheke <<Sophia Laskaridou>>",
+                "hu": "Demotike Pinakotheke <<Sophia Laskaridou>>",
+                "ro": "Demotike Pinakotheke <<Sophia Laskaridou>>",
+                "en": "Demotike Pinakotheke <<Sophia Laskaridou>>"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Stopp am Vormittag; die Galerie bietet eine warme Umgebung, um Kunstwerke in Ruhe zu betrachten, bevor es weitergeht.",
+                "hu": "Hangulatos délelőtti megálló; a galéria meleg környezetet biztosít a műalkotások megtekintéséhez, mielőtt továbbtekernél a hidegben.",
+                "ro": "O oprire plăcută de dimineață; galeria oferă un mediu cald pentru a admira operele de artă înainte de a pedala mai departe prin frig.",
+                "en": "A cozy morning stop; the gallery provides a warm environment to admire artworks before cycling further in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Psephiako Mouseio Neas Smurnes",
+                "hu": "Psephiako Mouseio Neas Smurnes",
+                "ro": "Psephiako Mouseio Neas Smurnes",
+                "en": "Psephiako Mouseio Neas Smurnes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie dieses digitale Museum für eine Pause im Warmen; die interaktiven Displays lenken wunderbar von den winterlichen Temperaturen draußen ab.",
+                "hu": "Használja ki ezt a digitális múzeumot egy meleg pihenőre; az interaktív kijelzők remekül elterelik a figyelmet a kinti téli hidegről.",
+                "ro": "Folosiți acest muzeu digital pentru o pauză la căldură; ecranele interactive vă vor face să uitați de temperaturile scăzute de afară.",
+                "en": "Take advantage of this digital museum for a warm break; the interactive displays are a great distraction from the winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "hu": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "ro": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "en": "Neo Psephiako Planetario Idrumatos Eugenidou"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für die Mittagszeit; wärmen Sie sich im modernen Foyer auf und genießen Sie eine spektakuläre Show unter der warmen Kuppel.",
+                "hu": "Ideális helyszín a déli órákban; melegedjen fel a modern aulában, és élvezze a látványos előadást a fűtött kupola alatt.",
+                "ro": "Locul ideal pentru orele prânzului; încălziți-vă în holul modern și bucurați-vă de un spectacol uimitor sub cupola încălzită.",
+                "en": "The ideal spot for midday; warm up in the modern foyer and enjoy a spectacular show under the heated dome."
+              }
+            },
+            {
+              "name": {
+                "de": "Trieres Olumpias",
+                "hu": "Trieres Olumpias",
+                "ro": "Trieres Olumpias",
+                "en": "Trieres Olumpias"
+              },
+              "tip_5lang": {
+                "de": "Das antike Schiff wirkt im klaren Winterlicht besonders majestätisch; halten Sie den Stopp kurz, um nicht im kalten Wind auszukühlen.",
+                "hu": "Az ókori hajó fenségesen mutat a tiszta téli fényben; tartsa rövidre a megállót, hogy ne hűljön ki a hideg parti szélben.",
+                "ro": "Nava antică arată maiestuos în lumina clară de iarnă; faceți o oprire scurtă pentru a nu dârdâi de frig în vântul de pe coastă.",
+                "en": "The ancient ship looks majestic in the clear winter light; keep your stop brief so you don't catch a chill in the cold coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Παραλία Φloίσβου",
+                "hu": "Παραλία Φloίσβου",
+                "ro": "Παραλία Φloίσβου",
+                "en": "Παραλία Φloίσβου"
+              },
+              "tip_5lang": {
+                "de": "Die Radwege sind im Winter leerer; genießen Sie die freie Fahrt, aber achten Sie auf den frühen Sonnenuntergang gegen 17:00 Uhr.",
+                "hu": "A kerékpárutak télen üresebbek; élvezze a szabad száguldást, de ügyeljen a korai, 17:00 körüli naplementére a tengerparton.",
+                "ro": "Pistele de biciclete sunt mai libere iarna; bucurați-vă de drum, dar aveți grijă la apusul timpuriu de la ora 17:00 pe malul mării.",
+                "en": "The bike paths are emptier in winter; enjoy the open ride, but be mindful of the early sunset around 17:00 by the seaside."
+              }
+            },
+            {
+              "name": {
+                "de": "Παλμύρα",
+                "hu": "Παλμύρα",
+                "ro": "Παλμύρα",
+                "en": "Παλμύρα"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz im beheizten Innenbereich; ein Glas Wein oder ein heißer Kakao sind der perfekte Abschluss für den kalten Tag.",
+                "hu": "Keressen helyet a fűtött belső részben; egy pohár bor vagy forró kakaó tökéletes zárása a hideg téli kerékpározásnak.",
+                "ro": "Căutați un loc în interiorul încălzit; un pahar de vin sau o cacao fierbinte reprezintă finalul perfect pentru o zi rece de pedalat.",
+                "en": "Find a seat in the heated indoor area; a glass of wine or hot cocoa is the perfect ending to a cold day of cycling."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje autós utazását a Hellenic World alapítványnál egy VR-élménnyel, majd irány a Peiraios 260 modern komplexuma. Délben vezessen a Hellenic IT Múzeumba a retro hardverekhez, majd folytassa útját a Pontoszi Tanulmányok Múzeumába. Délután nézze meg a csillagokat a Planetáriumban, és fedezze fel a gyermekkori emlékeket a Játékmúzeumban. Zárja a napot a gyönyörű Palmyra partján.",
         "ro": "Începeți excursia la Fundația Lumii Elene pentru o călătorie VR, urmată de arta contemporană la complexul Peiraios 260. La prânz, conduceți la Muzeul IT Elen și continuați la Muzeul Studiilor Pontice. După-amiaza, priviți stelele la Planetariu și descoperiți amintiri din copilărie la Muzeul Jucăriilor. Încheiați ziua relaxându-vă pe frumoasa coastă de la Palmyra.",
         "en": "Kick off your road trip at the Hellenic World Foundation for a VR journey, followed by contemporary vibes at the Peiraios 260 complex. For midday, drive to the Hellenic IT Museum to geek out over vintage hardware and continue to the Pontic Studies Museum. In the afternoon, gaze at the stars in the Planetarium and discover childhood memories at the Toy Museum. Finish the day unwinding at the beautiful Palmyra coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Komfort Ihres Autos an diesem Regentag. Die großen Museen wie Ellenikos Kosmos bieten ausreichend überdachte Bereiche. Mittags kann der Verkehr bei starkem Regen zunehmen; planen Sie mehr Zeit ein. Abends ist die Sicht am Meer eingeschränkt, fahren Sie vorsichtig.",
+            "hu": "Élvezze az autó kényelmét ezen az esős napon. A nagy múzeumok, mint az Ellenikos Kosmos, bőséges fedett teret kínálnak. Délben az eső miatt sűrűbb lehet a forgalom; számoljon több idővel. Este a látási viszonyok korlátozottak a parton, vezessen óvatosan.",
+            "ro": "Bucurați-vă de confortul mașinii în această zi ploioasă. Muzeele mari, precum Ellenikos Kosmos, oferă spații interioare generoase. La prânz, traficul poate fi intens din cauza ploii; alocați mai mult timp. Seara, vizibilitatea e redusă pe coastă, conduceți prudent.",
+            "en": "Enjoy the comfort of your car on this rainy day. Large museums like Ellenikos Kosmos offer plenty of indoor space. At noon, traffic can get heavy due to the rain; allow extra time for travel. In the evening, visibility is limited by the sea, so drive carefully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ellenikos Kosmos",
+                "hu": "Ellenikos Kosmos",
+                "ro": "Ellenikos Kosmos",
+                "en": "Ellenikos Kosmos"
+              },
+              "tip_5lang": {
+                "de": "Dieses riesige Kulturzentrum ist perfekt für Regentage; parken Sie nah am Eingang und tauchen Sie in die virtuelle griechische Geschichte ein.",
+                "hu": "Ez a hatalmas kulturális központ tökéletes esős napokra; parkoljon közel a bejárathoz, és merüljön el a virtuális görög történelemben.",
+                "ro": "Acest centru cultural imens este perfect pentru zilele ploioase; parcați aproape de intrare și explorați istoria greacă virtuală.",
+                "en": "This huge cultural center is perfect for rainy days; park close to the entrance and immerse yourself in virtual Greek history."
+              }
+            },
+            {
+              "name": {
+                "de": "Peiraios 260",
+                "hu": "Peiraios 260",
+                "ro": "Peiraios 260",
+                "en": "Peiraios 260"
+              },
+              "tip_5lang": {
+                "de": "Ein industrieller Kulturraum; die großen Hallen bieten Schutz vor dem Wetter, während Sie avantgardistische Kunst und Theater erleben.",
+                "hu": "Indusztriális kulturális tér; a hatalmas csarnokok védelmet nyújtanak az eső ellen, miközben avantgárd művészetet és színházat nézhet.",
+                "ro": "Un spațiu cultural industrial; halele mari oferă protecție împotriva vremii în timp ce experimentați arta și teatrul de avangardă.",
+                "en": "An industrial cultural space; the large halls provide shelter from the weather while you experience avant-garde art and theater."
+              }
+            },
+            {
+              "name": {
+                "de": "Elleniko Mouseio Plerophorikes",
+                "hu": "Elleniko Mouseio Plerophorikes",
+                "ro": "Elleniko Mouseio Plerophorikes",
+                "en": "Elleniko Mouseio Plerophorikes"
+              },
+              "tip_5lang": {
+                "de": "Das Informatikmuseum ist eine tolle Indoor-Option; bewundern Sie alte Computer und Technik, während es draußen ungemütlich regnet.",
+                "hu": "Az informatikai múzeum remek fedett program; csodálja meg a régi számítógépeket és technikát, miközben odakint barátságtalanul esik.",
+                "ro": "Muzeul informaticii este o opțiune excelentă de interior; admirați computere vechi și tehnologie în timp ce afară plouă neîncetat.",
+                "en": "The informatics museum is a great indoor option; admire old computers and technology while it rains unpleasantly outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Epitrope Pontiakon Meleton",
+                "hu": "Epitrope Pontiakon Meleton",
+                "ro": "Epitrope Pontiakon Meleton",
+                "en": "Epitrope Pontiakon Meleton"
+              },
+              "tip_5lang": {
+                "de": "Ein interessantes Museum zur Geschichte der Pontos-Griechen; der Innenbereich ist trocken und bietet eine tiefe kulturelle Erfahrung bei Regen.",
+                "hu": "Érdekes múzeum a pontoszi görögök történelméről; a belső tér száraz, és mély kulturális élményt nyújt az esős időben is.",
+                "ro": "Un muzeu interesant despre istoria grecilor pontici; interiorul este uscat și oferă o experiență culturală profundă chiar și pe ploaie.",
+                "en": "An interesting museum about the history of Pontic Greeks; the interior is dry and offers a deep cultural experience even on a rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "hu": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "ro": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "en": "Neo Psephiako Planetario Idrumatos Eugenidou"
+              },
+              "tip_5lang": {
+                "de": "Ideal, um dem Regen zu entkommen; das Planetarium bietet modernste Unterhaltung in einer trockenen, klimatisierten Umgebung.",
+                "hu": "Ideális választás az eső elől való meneküléshez; a planetárium csúcstechnológiás szórakozást nyújt száraz, klimatizált környezetben.",
+                "ro": "Ideal pentru a scăpa de ploaie; planetariul oferă divertisment de ultimă oră într-un mediu uscat și climatizat.",
+                "en": "Ideal for escaping the rain; the planetarium provides state-of-the-art entertainment in a dry, climate-controlled environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Mouseio Paikhnidion Mpenake",
+                "hu": "Mouseio Paikhnidion Mpenake",
+                "ro": "Mouseio Paikhnidion Mpenake",
+                "en": "Mouseio Paikhnidion Mpenake"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses märchenhafte Museum; die historischen Spielzeuge lassen Sie das graue Wetter draußen schnell vergessen.",
+                "hu": "Látogasson el ebbe a meseszerű múzeumba; a történelmi játékok látványa hamar elfeledteti Önnel a kinti szürke, esős időt.",
+                "ro": "Vizitați acest muzeu ca din basme; jucăriile istorice vă vor face să uitați repede de vremea cenușie și ploioasă de afară.",
+                "en": "Visit this fairytale-like museum; the sight of historical toys will quickly make you forget the grey, rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Παλμύρα",
+                "hu": "Παλμύρα",
+                "ro": "Παλμύρα",
+                "en": "Παλμύρα"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Ausklang am Hafen; suchen Sie sich einen Tisch am Fenster, um den Regen auf dem Meer zu beobachten, während Sie im Trockenen sitzen.",
+                "hu": "Pihentető lezárás a kikötőben; keressen egy ablak melletti asztalt, hogy szárazon nézhesse a tengerre hulló esőt.",
+                "ro": "Un final relaxant în port; căutați o masă lângă fereastră pentru a privi ploaia căzând peste mare în timp ce stați la adăpost.",
+                "en": "A relaxing end at the harbor; find a table by the window to watch the rain fall over the sea while staying perfectly dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die winterliche Fahrt entlang der Küste im beheizten Auto. Vormittags und mittags sind die Museen angenehm warm. Da es gegen 17:00 Uhr dunkel wird, sollten Sie die Abendstopps im Hafen bei beleuchteter Kulisse genießen. Kleiden Sie sich warm für den Weg vom Parkplatz.",
+            "hu": "Élvezze a téli autózást a part mentén a fűtött utastérben. Délelőtt és délben a múzeumok kellemesen melegek. Mivel 17:00 körül sötétedik, a kikötői esti állomásokat már kivilágítva élvezheti. Öltözzön rétegesen a parkolótól a bejáratig tartó sétákhoz.",
+            "ro": "Bucurați-vă de condusul pe coastă iarna în confortul încălzit al mașinii. Dimineața și la prânz, muzeele sunt plăcut încălzite. Deoarece se întunecă pe la 17:00, veți savura opririle de seară din port sub lumini ambientale. Îmbrăcați-vă bine pentru scurtul drum de la parcare.",
+            "en": "Enjoy winter driving along the coast in your heated car. In the morning and at noon, the museums are pleasantly warm. Since it gets dark around 17:00, you will enjoy the evening stops at the harbor with beautiful ambient lighting. Dress warmly for the short walks from the parking lot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ellenikos Kosmos",
+                "hu": "Ellenikos Kosmos",
+                "ro": "Ellenikos Kosmos",
+                "en": "Ellenikos Kosmos"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für den Wintermorgen; die Ausstellungsräume sind gut geheizt und bieten eine komfortable Reise in die Vergangenheit.",
+                "hu": "Nagyszerű helyszín egy téli reggelen; a kiállítóterek jól fűtöttek, így kényelmes utazást tesznek lehetővé a múltba.",
+                "ro": "O locație excelentă pentru o dimineață de iarnă; spațiile de expoziție sunt bine încălzite, oferind o călătorie confortabilă în trecut.",
+                "en": "A great location for a winter morning; the exhibition spaces are well-heated, allowing for a comfortable journey into the past."
+              }
+            },
+            {
+              "name": {
+                "de": "Peiraios 260",
+                "hu": "Peiraios 260",
+                "ro": "Peiraios 260",
+                "en": "Peiraios 260"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie das Winterprogramm in diesem Industriegebiet; die Atmosphäre ist bei kühlerem Wetter besonders markant, tragen Sie aber einen dicken Mantel.",
+                "hu": "Ellenőrizze a téli programot ezen az indusztriális helyszínen; a hangulat hűvös időben különösen markáns, de viseljen vastag kabátot.",
+                "ro": "Verificați programul de iarnă în acest spațiu industrial; atmosfera este deosebit de pregnantă pe vreme rece, dar purtați o haină groasă.",
+                "en": "Check the winter schedule at this industrial site; the atmosphere is particularly striking in cool weather, but wear a thick coat."
+              }
+            },
+            {
+              "name": {
+                "de": "Elleniko Mouseio Plerophorikes",
+                "hu": "Elleniko Mouseio Plerophorikes",
+                "ro": "Elleniko Mouseio Plerophorikes",
+                "en": "Elleniko Mouseio Plerophorikes"
+              },
+              "tip_5lang": {
+                "de": "Dieses Technikmuseum bietet eine gemütliche Indoor-Alternative zur kalten Winterluft; ideal, um Technikgeschichte im Warmen zu entdecken.",
+                "hu": "Ez a technikai múzeum barátságos benti alternatívát kínál a téli hideg helyett; ideális a technológia történetének melegben való felfedezéséhez.",
+                "ro": "Acest muzeu tehnic oferă o alternativă interioară primitoare în locul frigului de afară; ideal pentru a descoperi istoria tehnologiei la căldură.",
+                "en": "This technical museum offers a welcoming indoor alternative to the winter cold; ideal for discovering technology history in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Epitrope Pontiakon Meleton",
+                "hu": "Epitrope Pontiakon Meleton",
+                "ro": "Epitrope Pontiakon Meleton",
+                "en": "Epitrope Pontiakon Meleton"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die Geschichte des Pontos-Griechentums; die ruhigen, geheizten Räume laden zum Verweilen an kalten Tagen ein.",
+                "hu": "Ismerje meg a pontoszi görögség történelmét; a csendes, fűtött termek hívogatóak a hideg napokon egy hosszabb látogatásra is.",
+                "ro": "Aflați mai multe despre istoria elenismului pontic; sălile liniștite și încălzite sunt primitoare pentru o vizită prelungită în zilele reci.",
+                "en": "Learn about the history of Pontic Hellenism; the quiet, heated rooms are inviting for a longer visit on cold winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "hu": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "ro": "Neo Psephiako Planetario Idrumatos Eugenidou",
+                "en": "Neo Psephiako Planetario Idrumatos Eugenidou"
+              },
+              "tip_5lang": {
+                "de": "Die Nachmittagsshow unter der warmen Kuppel ist perfekt, wenn die Wintersonne tiefer sinkt; genießen Sie High-Tech-Wissenschaft im Komfort.",
+                "hu": "A délutáni előadás a fűtött kupola alatt tökéletes választás, ahogy a téli nap lebukik; élvezze a csúcstechnológiás tudományt kényelemben.",
+                "ro": "Spectacolul de după-amiază sub cupola încălzită este perfect când soarele de iarnă apune; bucurați-vă de știința de ultimă oră în confort.",
+                "en": "The afternoon show under the heated dome is perfect as the winter sun sets; enjoy high-tech science in total comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Mouseio Paikhnidion Mpenake",
+                "hu": "Mouseio Paikhnidion Mpenake",
+                "ro": "Mouseio Paikhnidion Mpenake",
+                "en": "Mouseio Paikhnidion Mpenake"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Winterlicht wie aus einem Märchen; die nostalgische Spielzeugsammlung wärmt das Herz an kalten Tagen.",
+                "hu": "A kastély a téli fényben olyan, mint egy tündérmese; a nosztalgikus játékgyűjtemény látványa pedig melengeti a szívet a hideg napokon.",
+                "ro": "Castelul pare desprins dintr-un basm în lumina de iarnă; colecția nostalgică de jucării vă va încălzi inima în zilele reci.",
+                "en": "The castle looks like something out of a fairytale in the winter light; the nostalgic toy collection will warm your heart on cold days."
+              }
+            },
+            {
+              "name": {
+                "de": "Παλμύρα",
+                "hu": "Παλμύρα",
+                "ro": "Παλμύρα",
+                "en": "Παλμύρα"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beleuchtete Marina am Abend; der beheizte Bereich bietet eine tolle Aussicht auf die winterliche Küste Athens.",
+                "hu": "Élvezze a kivilágított kikötőt este; a fűtött teraszról vagy belső térből nagyszerű kilátás nyílik Athén téli tengerpartjára.",
+                "ro": "Bucurați-vă de portul iluminat seara; zona încălzită oferă o priveliște minunată asupra coastei iernatice a Atenei.",
+                "en": "Enjoy the illuminated marina in the evening; the heated area offers a great view of Athens' winter coastline."
+              }
+            }
+          ]
+        }
       }
     }
   }

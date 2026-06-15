@@ -160,6 +160,196 @@
         "hu": "A reggel a város pezsgő központját és a lenyűgöző gótikus templomot fedezi fel.\n\nDélben a folyótorkolat varázsa következik a történelmi hídon átsétálva.\n\nA délután mély pihenésre csábít a széles strandokon és a különleges sziklaalakzatoknál.\n\nAz este egy domboldali túrával zárul, amely felejthetetlen óceáni panorámát nyújt naplementekor.",
         "ro": "Dimineața explorează inima vibrantă a orașului și biserica sa gotică majestuoasă.\n\nLa prânz, farmecul estuarului vă atrage în timp ce traversați podul istoric.\n\nDupă-amiaza invită la relaxare profundă pe plajele întinse cu formațiuni stâncoase unice.\n\nSeara se încheie cu o drumeție pe deal pentru o panoramă uimitoare a apusului de soare.",
         "en": "Morning explores the town's vibrant heart and its majestic Gothic church.\n\nMidday transitions to the estuarine charm as you cross the historic bridge toward the sea.\n\nAfternoon invites deep relaxation along sweeping sandy beaches and unique rock formations.\n\nEvening concludes with a rewarding hike up the hillside for spectacular sunset ocean panoramas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens zeigt Deba sein mystisches Gesicht im Regen; starten Sie unter den Arkaden des Rathauses. Mittags bietet die Kirche Santa Maria perfekten Schutz vor den Güssen. Nachmittags ermöglicht ein Spaziergang mit Schirm an der Promenade, die Kraft des Atlantiks hautnah zu spüren. Abends kehrt auf den nassen, beleuchteten Gassen eine besondere, ruhige Friedlichkeit ein.",
+            "hu": "A reggeli Deba misztikus arcát mutatja az esőben; kezdje a sétát a városháza árkádjai alatt. Délben a Santa Maria templom hűvös fala nyújt menedéket a záporok elől. Délután az esernyős tengerparti séta során átélheti az Atlanti-óceán nyers erejét. Este a csendes eső elűzi a tömeget, így a kivilágított utcák magányos békéje várja Önt a túra végén.",
+            "ro": "Dimineața, orașul Deba își dezvăluie fața mistică prin ploaie; începeți plimbarea sub arcadele primăriei. La prânz, zidurile bisericii Santa Maria oferă un adăpost sigur împotriva averselor. După-amiaza, o plimbare cu umbrela pe faleză vă permite să simțiți forța brută a Atlanticului. Seara, ploaia liniștită alungă agitația, lăsând străzile iluminate într-o pace deplină.",
+            "en": "Morning in Deba reveals a mystical side through the rain; start your walk under the sheltered town hall arches. At noon, the thick walls of Santa Maria church provide a dry refuge from the showers. In the afternoon, a beach walk with an umbrella lets you experience the Atlantic's raw power. By evening, the rain clears the crowds, offering peaceful, lit streets for reflection."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Udaletxea",
+                "hu": "Udaletxea",
+                "ro": "Udaletxea",
+                "en": "Udaletxea"
+              },
+              "tip_5lang": {
+                "de": "Udaletxea: Bewundern Sie die Fassade im Schutz der Arkaden, um trocken zu bleiben, während Sie die Atmosphäre des Platzes im Regen genießen und das Licht auf den Steinen beobachten.",
+                "hu": "Udaletxea: Csodálja meg a városháza homlokzatát az árkádok védelméből, így szárazon élvezheti a főtér hangulatát a szemerkélő esőben is, miközben figyeli a köveken megcsillanó fényeket.",
+                "ro": "Udaletxea: Admirați fațada sub protecția arcadelor pentru a rămâne uscați în timp ce savurați atmosfera pieței centrale în ploaie, observând reflexiile luminii pe pietrele umede.",
+                "en": "Udaletxea: Admire the facade from the shelter of the arches, staying dry while enjoying the main square's atmosphere in the drizzle and watching the light glisten on the cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria",
+                "hu": "Santa Maria",
+                "ro": "Santa Maria",
+                "en": "Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Santa Maria: Der Kreuzgang bietet perfekten Schutz vor dem Regen, während Sie die beeindruckenden Details der gotischen Architektur studieren und der Stille im Inneren lauschen.",
+                "hu": "Santa Maria: A kerengő tökéletes menedéket nyújt a hirtelen zápor elől, miközben elmélyedhet a gótikus építészet lenyűgöző részleteiben, és hallgathatja az eső kopogását a régi köveken.",
+                "ro": "Santa Maria: Claustrul oferă adăpostul perfect împotriva averselor, permițându-vă să studiați detaliile uimitoare ale arhitecturii gotice în timp ce ascultați ploaia pe pietrele vechi.",
+                "en": "Santa Maria: The cloister provides perfect shelter from the showers, allowing you to study the stunning Gothic architectural details while listening to the rain on the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "The Deba Bridge",
+                "hu": "The Deba Bridge",
+                "ro": "The Deba Bridge",
+                "en": "The Deba Bridge"
+              },
+              "tip_5lang": {
+                "de": "The Deba Bridge: Überqueren Sie die Brücke zügig, da der Wind hier den Regen peitschen kann; halten Sie Ihren Schirm bei der Überquerung fest und achten Sie auf die rutschigen Fugen.",
+                "hu": "The Deba Bridge: Keljen át gyorsan a hídon, mert a szél itt erősen befújhatja az esőt; tartsa szorosan az ernyőjét az átkeléskor, és vigyázzon a fémes részeknél a csúszásveszélyre.",
+                "ro": "The Deba Bridge: Traversați podul rapid, deoarece vântul poate sufla ploaia cu putere; țineți umbrela strâns în timpul traversării și fiți atenți la rosturile metalice alunecoase.",
+                "en": "The Deba Bridge: Cross the bridge quickly, as the wind here can blow the rain strongly; hold your umbrella tight during the crossing and watch out for slippery metal joints."
+              }
+            },
+            {
+              "name": {
+                "de": "Santiago Beach (Deba)",
+                "hu": "Santiago Beach (Deba)",
+                "ro": "Santiago Beach (Deba)",
+                "en": "Santiago Beach (Deba)"
+              },
+              "tip_5lang": {
+                "de": "Santiago Beach: Der nasse Sand ist fest zum Gehen, aber suchen Sie bei starkem Guss Schutz in einem der nahen Cafés, um den Blick auf das aufgewühlte graue Meer zu genießen.",
+                "hu": "Santiago Beach: A nedves homok stabilabb a sétához, de erős felhőszakadás esetén húzódjon be a part menti fedett kávézók egyikébe, ahonnan csodálhatja a szürke és vad óceánt.",
+                "ro": "Santiago Beach: Nisipul umed este mai stabil pentru plimbare, dar în caz de ploaie torențială, retrageți-vă într-o cafenea de pe mal pentru a privi marea gri și agitată în siguranță.",
+                "en": "Santiago Beach: The wet sand is firm for walking, but in case of a heavy downpour, head into one of the covered cafes along the shore to enjoy the view of the churning grey sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapari",
+                "hu": "Lapari",
+                "ro": "Lapari",
+                "en": "Lapari"
+              },
+              "tip_5lang": {
+                "de": "Lapari: Die Felsformationen wirken im Regen noch dramatischer; achten Sie auf der Uferpromenade auf rutschige Stellen und meiden Sie die Bereiche, die direkt von der Gischt erreicht werden.",
+                "hu": "Lapari: A sziklák látványa esőben még drámaibb; vigyázzon a parti sétányon, mert a kövezett szakaszok csúszóssá válhatnak, és kerülje a közvetlen hullámverésnek kitett részeket.",
+                "ro": "Lapari: Formațiunile stâncoase arată și mai dramatic în ploaie; aveți grijă pe faleză, deoarece pavajul poate fi alunecos, și evitați zonele unde valurile ajung direct pe mal.",
+                "en": "Lapari: The rock formations look even more dramatic in the rain; be careful on the promenade as paved sections can be slippery, and avoid areas directly reached by the sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Katalina ermita",
+                "hu": "Santa Katalina ermita",
+                "ro": "Santa Katalina ermita",
+                "en": "Santa Katalina ermita"
+              },
+              "tip_5lang": {
+                "de": "Santa Katalina: Der Aufstieg ist bei Nässe fordernd, aber der Blick auf den nebligen Ozean lohnt sich; tragen Sie wasserfeste Schuhe für die potenziell schlammigen Pfade zur Kapelle.",
+                "hu": "Santa Katalina: A felmenet nehezebb sárban, de a ködös óceáni kilátás megéri; viseljen vízálló cipőt a felázott ösvények miatt, és kapaszkodjon meg a meredekebb szakaszokon.",
+                "ro": "Santa Katalina: Urcarea este mai dificilă prin noroi, dar vederea oceanului în ceață merită efortul; purtați pantofi impermeabili pentru potecile noroioase de lângă capelă.",
+                "en": "Santa Katalina: The climb is harder in mud, but the misty ocean view is worth it; wear waterproof shoes for the potentially muddy paths leading up to the historic chapel."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren, frostigen Morgen begrüßt Sie die Stadt mit frischer Meeresluft am Rathausplatz. Mittags bietet das Innere der Kirche einen windgeschützten Ort, um sich vor dem Spaziergang zur Brücke aufzuwärmen. Nachmittags sinkt die Sonne früh; erreichen Sie die Klippen vor 16:30 Uhr, um das Licht zu nutzen. Abends laden die warmen Lichter der Stadt zu einem heißen Getränk ein.",
+            "hu": "A csípős, tiszta reggelen a friss tengeri levegő fogadja a városháza téren; öltözzön rétegesen a szél ellen. Délben a templom csendje és védettsége melengeti a lelket a túra folytatása előtt. Délután igyekezzen a Santa Katalina kilátóhoz, mert 17 órakor már sötétedik. Este a város meleg fényei és egy forró ital várják a hangulatos beltéri kávézókban.",
+            "ro": "În dimineața geroasă și senină, aerul proaspăt marin vă întâmpină în piața primăriei; îmbrăcați-vă bine împotriva vântului. La prânz, liniștea bisericii vă încălzește sufletul înainte de a continua spre pod. După-amiaza, grăbiți-vă spre Santa Katalina, deoarece la ora 17 se întunecă deja. Seara, luminile calde ale orașului vă invită la o băutură fierbinte în localuri primitoare.",
+            "en": "On a crisp, clear winter morning, fresh sea air greets you at the town hall square; wrap up warm against the breeze. At noon, the church's silence provides a wind-protected space to warm up before heading to the bridge. In the afternoon, reach the cliffs by 16:30 as the sun sets early. By evening, the town’s warm lights invite you for a hot drink in a cozy setting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Udaletxea",
+                "hu": "Udaletxea",
+                "ro": "Udaletxea",
+                "en": "Udaletxea"
+              },
+              "tip_5lang": {
+                "de": "Udaletxea: Beginnen Sie den fahlen Wintermorgen am Rathausplatz; nutzen Sie die windgeschützten Ecken der Altstadt, um sich an die kühle Meeresbrise zu gewöhnen, bevor es zum Fluss geht.",
+                "hu": "Udaletxea: Kezdje a fagyos reggelt a városháza téren; használja ki az óváros szélvédett utcáit a hideg tengeri fuvallat ellen, mielőtt a nyitottabb folyóparti szakaszokra indulna.",
+                "ro": "Udaletxea: Începeți dimineața geroasă în piața primăriei; folosiți colțurile ferite de vânt ale orașului vechi pentru a vă obișnui cu briza rece înainte de a merge spre râu.",
+                "en": "Udaletxea: Start your frosty winter morning at the town hall square; use the wind-sheltered corners of the old town to adjust to the cool sea breeze before heading toward the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria",
+                "hu": "Santa Maria",
+                "ro": "Santa Maria",
+                "en": "Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Santa Maria: Die dicken Mauern halten die Kälte draußen; ideal für eine ruhige Besichtigung am Vormittag, wenn die Wintersonne flach durch die Fenster fällt und die Steine erwärmt.",
+                "hu": "Santa Maria: A vastag falak jól tartják a benti hőmérsékletet; ideális helyszín egy délelőtti látogatáshoz, amikor a téli napfény alacsonyan besüt az ablakokon, megvilágítva a belsőt.",
+                "ro": "Santa Maria: Zidurile groase țin frigul afară; locul este ideal pentru o vizită liniștită dimineața, când soarele de iarnă pătrunde prin ferestre și luminează interiorul istoric.",
+                "en": "Santa Maria: The thick walls keep the cold out; it is ideal for a quiet morning visit when the low winter sun shines through the windows, beautifully lighting the historic interior."
+              }
+            },
+            {
+              "name": {
+                "de": "The Deba Bridge",
+                "hu": "The Deba Bridge",
+                "ro": "The Deba Bridge",
+                "en": "The Deba Bridge"
+              },
+              "tip_5lang": {
+                "de": "The Deba Bridge: Ziehen Sie eine winddichte Jacke an, da die Meeresbrise auf der Brücke im Winter sehr schneidend sein kann; genießen Sie den klaren Blick auf den ruhigen Flussverlauf.",
+                "hu": "The Deba Bridge: Vegyen fel szélálló kabátot, mert a folyó felett a téli tengeri fuvallat metszően hideg lehet; élvezze a tiszta kilátást a folyó téli nyugalmára és a környező hegyekre.",
+                "ro": "The Deba Bridge: Purtați o jachetă rezistentă la vânt, deoarece briza mării poate fi tăioasă pe pod în timpul iernii; bucurați-vă de vederea clară asupra râului liniștit și a munților.",
+                "en": "The Deba Bridge: Wear a windproof jacket as the winter sea breeze can be very piercing on the bridge; enjoy the crisp, clear views of the calm river flow and the surrounding mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Santiago Beach (Deba)",
+                "hu": "Santiago Beach (Deba)",
+                "ro": "Santiago Beach (Deba)",
+                "en": "Santiago Beach (Deba)"
+              },
+              "tip_5lang": {
+                "de": "Santiago Beach: Ein einsamer Strandspaziergang in der Wintersonne ist herrlich, solange man warme Schuhe trägt und die frostige Gischt aus sicherer Entfernung beobachtet.",
+                "hu": "Santiago Beach: Egy magányos séta a téli napsütésben frissítő élmény, de a nedves levegő miatt meleg cipő és sál javasolt, miközben a téli hullámverést figyeli a biztonságos távolból.",
+                "ro": "Santiago Beach: O plimbare solitară pe plajă în soarele de iarnă este minunată, atâta timp cât purtați încălțăminte călduroasă și admirați valurile reci de la o distanță sigură.",
+                "en": "Santiago Beach: A solitary beach walk in the winter sun is wonderful as long as you wear warm shoes and watch the frosty sea spray from a safe distance along the sandy shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapari",
+                "hu": "Lapari",
+                "ro": "Lapari",
+                "en": "Lapari"
+              },
+              "tip_5lang": {
+                "de": "Lapari: Die Winterwellen schlagen hier gewaltig gegen die Küste; ein beeindruckendes Naturschauspiel, das Sie warm eingepackt von der Promenade aus sicher genießen können.",
+                "hu": "Lapari: A téli hullámok hatalmas erővel csapnak le a partra; lenyűgöző látvány, amelyet melegen felöltözve, a sétány védett részéről élvezhet a legbiztonságosabban.",
+                "ro": "Lapari: Valurile de iarnă lovesc coasta cu o forță uriașă; este un spectacol natural impresionant, pe care îl puteți savura în siguranță de pe faleză, fiind bine înfofoliți.",
+                "en": "Lapari: Winter waves crash against the coast with immense power; it is an impressive natural spectacle that you can safely enjoy from the promenade while bundled up warmly."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Katalina ermita",
+                "hu": "Santa Katalina ermita",
+                "ro": "Santa Katalina ermita",
+                "en": "Santa Katalina ermita"
+              },
+              "tip_5lang": {
+                "de": "Santa Katalina: Erreichen Sie die Kapelle vor 16:45 Uhr, um den Sonnenuntergang über dem winterlichen Meer zu erleben, bevor die Kälte nach dem Verschwinden der Sonne schnell zunimmt.",
+                "hu": "Santa Katalina: Érjen fel a kápolnához legkésőbb 16:45-ig, hogy még a korai sötétedés előtt lássa a téli naplementét a tenger felett, mielőtt a nap távozásával hirtelen lehűlne a levegő.",
+                "ro": "Santa Katalina: Ajungeți la capelă înainte de ora 16:45 pentru a vedea apusul peste marea de iarnă, înainte ca frigul să se intensifice rapid odată cu dispariția soarelui.",
+                "en": "Santa Katalina: Reach the chapel by 16:45 to witness the sunset over the winter sea, before the temperature drops quickly once the sun disappears below the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "A reggel a városházánál indul, majd egy rövid tekerés következik a középkori védőtoronyhoz.\n\nDélben átkel a folyón, hogy megpihenjen egy különleges, sötét homokos tengerparton.\n\nA délután izgalmas kerékpározást kínál a zord északnyugati sziklák mentén a drámai kilátásért.\n\nAz este a fő aranyhomokos strandon ér véget, ahonnan csodás naplementét figyelhet a hullámok felett.",
         "ro": "Dimineața începe la primăria istorică, urmată de o plimbare spre un turn de apărare medieval.\n\nLa prânz traversați podul râului pentru a vă relaxa pe o plajă unică cu nisip întunecat.\n\nDupă-amiaza invită la o cursă pe stâncile nord-vestice pentru a admira panorame dramatice.\n\nSeara se încheie pe plaja aurie principală, privind apusul viu colorat peste valurile oceanului.",
         "en": "Morning begins at the historic town hall, followed by a short ride to a medieval defense tower.\n\nMidday has you crossing the river bridge to relax on a unique dark-sand beach.\n\nAfternoon invites an exhilarating cycle along the rugged northwestern cliffs for dramatic panoramas.\n\nEvening concludes back at the main golden beach, watching the vivid sunset over rolling waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendlicher Regen macht die Straßen rutschig; beginnen Sie Ihre Fahrt vorsichtig am Rathaus. Mittags bieten die alten Mauern von Torre de Sasiola einen stabilen Schutz vor den Güssen. Nachmittags fordern Wind und Gischt an der Küste Ihre Ausdauer heraus, doch die Aussicht ist einzigartig dramatisch. Abends kehren Sie in den sicheren Hafen zurück, bevor die regnerische Dämmerung einsetzt.",
+            "hu": "A reggeli eső csúszóssá teszi az utakat, ezért indítsa a napot óvatos fékezéssel a városháza környékén. Délben a Sasiola torony ősi falai között találhat rövid menedéket a leghevesebb záporok elől. Délután a parti szakaszokon a szél és a vízpermet próbára teszi kitartását, de a látvány feledhetetlen. Este érjen vissza a biztonságos kikötőbe, mielőtt az esős szürkület teljesen leszállna.",
+            "ro": "Ploaia de dimineață face drumurile alunecoase; începeți tura cu prudență și testați frânele în zona primăriei. La prânz, zidurile vechi de la Torre de Sasiola oferă un adăpost solid împotriva celor mai grele averse. După-amiaza, vântul și spray-ul marin de-a lungul coastei vă vor testa rezistența, dar priveliștile sunt dramatice. Seara, reveniți în siguranța portului înainte ca amurgul ploios să se lase.",
+            "en": "Morning rain makes the roads slippery; start your ride with caution and test your brakes near the town hall. At noon, the ancient walls of Torre de Sasiola offer a brief and sturdy shelter from the heaviest showers. In the afternoon, wind and sea spray along the coast will test your resolve, but the views are uniquely dramatic. By evening, return to the harbor's safety before the rainy twilight fully descends."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Udaletxea",
+                "hu": "Udaletxea",
+                "ro": "Udaletxea",
+                "en": "Udaletxea"
+              },
+              "tip_5lang": {
+                "de": "Udaletxea: Starten unter den Arkaden; prüfen Sie Ihre Bremsen gründlich, da das Kopfsteinpflaster bei Nässe extrem glatt ist und die Reifen in den Kurven leicht wegrutschen können.",
+                "hu": "Udaletxea: Induljon az árkádok alól; ellenőrizze a fékeket, mert a macskaköves utcák rendkívül csúszósak vizesen, és a kanyarokban könnyen kicsúszhat a kereke a nedves kövön.",
+                "ro": "Udaletxea: Porniți de sub arcade; verificați frânele cu atenție, deoarece pavajul este extrem de alunecos când este ud, iar anvelopele pot pierde aderența ușor în viraje.",
+                "en": "Udaletxea: Start under the arches; check your brakes thoroughly as the cobblestones are extremely slippery when wet, and tires can easily lose grip in tight corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Sasiola",
+                "hu": "Torre de Sasiola",
+                "ro": "Torre de Sasiola",
+                "en": "Torre de Sasiola"
+              },
+              "tip_5lang": {
+                "de": "Torre de Sasiola: Die alten Mauern bieten etwas Schutz; meiden Sie die unbefestigten Wege in der Nähe bei starkem Regen, da tiefer Schlamm das Treten erschweren und die Kette zusetzen kann.",
+                "hu": "Torre de Sasiola: A várfalak némi védelmet nyújtanak; kerülje a környező földutakat, mert nagy esőben mély sárra számíthat, ami megnehezíti a haladást és beszennyezi a láncot.",
+                "ro": "Torre de Sasiola: Zidurile vechi oferă puțin adăpost; evitați drumurile neasfaltate din apropiere pe ploaie, deoarece noroiul adânc poate îngreuna pedalarea și murdări lanțul.",
+                "en": "Torre de Sasiola: The ancient walls offer some shelter; avoid nearby unpaved paths in heavy rain, as deep mud can make pedaling difficult and clog your bike's chain."
+              }
+            },
+            {
+              "name": {
+                "de": "The Deba Bridge",
+                "hu": "The Deba Bridge",
+                "ro": "The Deba Bridge",
+                "en": "The Deba Bridge"
+              },
+              "tip_5lang": {
+                "de": "The Deba Bridge: Fahren Sie vorsichtig über die Metallfugen der Brücke, die bei Regen wie Schmierseife wirken können; halten Sie den Lenker stabil und vermeiden Sie ruckartige Bewegungen.",
+                "hu": "The Deba Bridge: Óvatosan hajtson át a híd fém illesztésein, amelyek nedvesen jégpályaként csúsznak; tartsa stabilan a kormányt, és kerülje a hirtelen kormánymozdulatokat az átkelés alatt.",
+                "ro": "The Deba Bridge: Conduceți cu atenție peste rosturile metalice ale podului, care pot fi ca gheața pe ploaie; țineți ghidonul stabil și evitați mișcările bruște în timpul traversării.",
+                "en": "The Deba Bridge: Ride carefully over the metal joints of the bridge, which can be like ice in the rain; keep the handlebar steady and avoid sudden movements while crossing."
+              }
+            },
+            {
+              "name": {
+                "de": "Ondarbeltz hondartza",
+                "hu": "Ondarbeltz hondartza",
+                "ro": "Ondarbeltz hondartza",
+                "en": "Ondarbeltz hondartza"
+              },
+              "tip_5lang": {
+                "de": "Ondarbeltz: Der dunkle Sand wirkt im Regen fast schwarz; nutzen Sie die überdachten Bereiche für eine kurze Pause und um Ihre Regenkleidung zu richten, bevor Sie die Küstenstraße befahren.",
+                "hu": "Ondarbeltz: A sötét homok esőben még komorabb látványt nyújt; használja a fedett részeket egy rövid pihenőre és ruházatigazításra, mielőtt folytatná az utat a szeles parti szakaszon.",
+                "ro": "Ondarbeltz: Nisipul închis la culoare pare aproape negru pe ploaie; folosiți zonele acoperite pentru o scurtă pauză și pentru a vă aranja echipamentul înainte de a porni pe faleză.",
+                "en": "Ondarbeltz: The dark sand looks almost black in the rain; use the covered areas for a short break to adjust your rain gear before continuing along the windy coastal section."
+              }
+            },
+            {
+              "name": {
+                "de": "Alkolea",
+                "hu": "Alkolea",
+                "ro": "Alkolea",
+                "en": "Alkolea"
+              },
+              "tip_5lang": {
+                "de": "Alkolea: Die Küstenstraße erfordert bei Gischt und Regen volle Konzentration; tragen Sie unbedingt Signalfarben, da die Sicht für Autofahrer bei diesem Wetter stark eingeschränkt ist.",
+                "hu": "Alkolea: A parti út teljes koncentrációt igényel a vízpermet miatt; viseljen láthatósági színeket, mert a szürke esőben az autósok sokkal nehezebben veszik észre a kerékpárosokat.",
+                "ro": "Alkolea: Drumul de coastă necesită concentrare maximă din cauza spray-ului marin; purtați culori reflectorizante, deoarece vizibilitatea șoferilor este mult redusă în aceste condiții.",
+                "en": "Alkolea: The coastal road requires full concentration due to sea spray and rain; be sure to wear high-visibility colors, as driver visibility is significantly reduced in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Talaixa",
+                "hu": "Talaixa",
+                "ro": "Talaixa",
+                "en": "Talaixa"
+              },
+              "tip_5lang": {
+                "de": "Talaixa: Der Aussichtspunkt ist oft neblig; bleiben Sie auf dem Asphaltweg, um im Schlamm nicht wegzurutschen, und achten Sie auf starke, unvorhersehbare Windböen von der Meeresseite.",
+                "hu": "Talaixa: A kilátópont gyakran ködbe vész; maradjon a kijelölt aszfaltúton, hogy elkerülje az elakadást a felázott talajon, és legyen felkészülve az erős, váratlan széllökésekre.",
+                "ro": "Talaixa: Punctul de belvedere este adesea cețos; rămâneți pe drumul asfaltat pentru a nu aluneca în noroi și fiți atenți la rafalele de vânt puternice și imprevizibile de pe mare.",
+                "en": "Talaixa: The viewpoint is often misty; stay on the paved path to avoid slipping in the mud, and be prepared for strong, unpredictable wind gusts coming from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Santiago Beach (Deba)",
+                "hu": "Santiago Beach (Deba)",
+                "ro": "Santiago Beach (Deba)",
+                "en": "Santiago Beach (Deba)"
+              },
+              "tip_5lang": {
+                "de": "Santiago Beach: Beenden Sie die Tour am Strand und suchen Sie sich ein trockenes Plätzchen, um das graue Meer zu beobachten, während Ihr Fahrrad sicher im überdachten Ständer steht.",
+                "hu": "Santiago Beach: Fejezze be a túrát a parton, és keressen egy száraz helyet, ahonnan megfigyelheti a vad hullámokat, miközben a kerékpárját egy fedett tárolóban helyezi el a pihenőre.",
+                "ro": "Santiago Beach: Încheiați tura pe plajă și căutați un loc uscat pentru a observa marea gri, în timp ce lăsați bicicleta într-un suport acoperit pentru durata pauzei de odihnă.",
+                "en": "Santiago Beach: Finish your tour at the beach and find a dry spot to watch the grey sea, while keeping your bike in a covered rack for the duration of your well-deserved break."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frostigen Morgen kann Meeresnebel auf der Straße gefrieren, tragen Sie daher Handschuhe für einen sicheren Start am Rathaus. Mittags hilft die Ruhe am Flussufer in der Wintersonne, sich vor dem nächsten Anstieg aufzuwärmen. Am Nachmittag frischt der Wind zwischen den Klippen auf, beenden Sie Ihre Tour also vor dem frühen Sonnenuntergang. Abends erwarten Sie die Lichter der Stadt.",
+            "hu": "A fagyos reggelen a tengeri pára ráfagyhat az útra, ezért viseljen kesztyűt és réteges ruházatot az induláshoz. Délben a téli napsütésben a folyóparti szakasz nyugalma segít a felmelegedésben a következő emelkedő előtt. Délután a parti sziklák között a szél felerősödik, így még a 17 órai sötétedés előtt fejezze be a túrát. Este a város meleg fényei és egy forró zuhany várja.",
+            "ro": "Într-o dimineață geroasă, ceața marină poate îngheța pe drum, așa că purtați mănuși și haine stratificate pentru un început sigur. La prânz, liniștea de pe malul râului în soarele de iarnă vă ajută să vă încălziți înainte de următoarea urcare. După-amiaza, vântul se intensifică între stânci, așa că terminați tura înainte de apus. Seara, vă așteaptă luminile calde ale orașului.",
+            "en": "On a frosty morning, sea mist may freeze on the road, so wear gloves and layered clothing for a safe start near the town hall. At noon, the calm of the river section in the winter sun helps you warm up before the next climb. In the afternoon, the wind intensifies between the coastal rocks, so finish your ride before the 17:00 sunset. By evening, the town’s warm lights await you."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Udaletxea",
+                "hu": "Udaletxea",
+                "ro": "Udaletxea",
+                "en": "Udaletxea"
+              },
+              "tip_5lang": {
+                "de": "Udaletxea: Hűvös napkezdet; a Handschuhe sind für die Abfahrten in der winterlichen Meeresluft unerlässlich, um die Finger beweglich zu halten und die Bremsen sicher bedienen zu können.",
+                "hu": "Udaletxea: Hűvös napkezdet; a kesztyű elengedhetetlen a téli tengeri levegőben való guruláshoz, hogy ujjai ne gémberedjenek el, és biztosan tudja kezelni a fékkarokat a lejtőkön.",
+                "ro": "Udaletxea: Un început de zi răcoros; mănușile sunt esențiale pentru coborârile în aerul marin de iarnă, pentru a vă păstra degetele mobile și a acționa frânele în siguranță.",
+                "en": "Udaletxea: A cool start to the day; gloves are essential for the descents in the winter sea air to keep your fingers flexible and ensure you can operate the brakes safely at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Sasiola",
+                "hu": "Torre de Sasiola",
+                "ro": "Torre de Sasiola",
+                "en": "Torre de Sasiola"
+              },
+              "tip_5lang": {
+                "de": "Torre de Sasiola: Die klare Winterluft ermöglicht weite Blicke auf den Turm; halten Sie sich durch stetiges Treten warm, da die Temperatur im Schatten der alten Mauern spürbar niedriger ist.",
+                "hu": "Torre de Sasiola: A tiszta téli levegőben messzire ellátni a toronytól; tartsa magát melegen folyamatos, egyenletes tempójú tekeréssel, mert az árnyékos falak mentén hűvösebb az idő.",
+                "ro": "Torre de Sasiola: Aerul clar de iarnă permite vederi lungi spre turn; mențineți-vă căldura prin pedalare constantă, deoarece temperatura la umbra zidurilor vechi este vizibil mai scăzută.",
+                "en": "Torre de Sasiola: The clear winter air allows for long views of the tower; keep yourself warm with steady pedaling, as the temperature in the shadow of the old walls is noticeably lower."
+              }
+            },
+            {
+              "name": {
+                "de": "The Deba Bridge",
+                "hu": "The Deba Bridge",
+                "ro": "The Deba Bridge",
+                "en": "The Deba Bridge"
+              },
+              "tip_5lang": {
+                "de": "The Deba Bridge: Genießen Sie die winterliche Ruhe auf dem Fluss, bevor die Kälte an den offenen Stellen zunimmt; halten Sie das Tempo hoch, um den Körper auf der Brücke warm zu halten.",
+                "hu": "The Deba Bridge: Élvezze a téli folyóparti csendet, de készüljön fel, hogy a híd nyitott részein a hideg szél gyorsan lehűti; tartsa a tempót, hogy testhőmérséklete ne essen le az átkeléskor.",
+                "ro": "The Deba Bridge: Bucurați-vă de liniștea de iarnă de pe râu înainte ca frigul să se intensifice în locurile deschise; mențineți un ritm alert pentru a vă păstra corpul cald pe pod.",
+                "en": "The Deba Bridge: Enjoy the wintery silence on the river before the cold intensifies in the open areas; keep your pace up to maintain body heat while crossing the exposed bridge sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Ondarbeltz hondartza",
+                "hu": "Ondarbeltz hondartza",
+                "ro": "Ondarbeltz hondartza",
+                "en": "Ondarbeltz hondartza"
+              },
+              "tip_5lang": {
+                "de": "Ondarbeltz: Der Wind kann hier im Winter stark wehen; eine windfeste Schicht schützt Sie auf diesem Küstenabschnitt, während Sie das raue Licht der tiefstehenden Wintersonne bewundern.",
+                "hu": "Ondarbeltz: A szél télen igen erős lehet ezen a szakaszon; egy szélálló technikai réteg megvédi a törzsét a parti tekerés közben, miközben csodálja az alacsony téli nap súroló fényeit.",
+                "ro": "Ondarbeltz: Vântul poate sufla puternic aici iarna; un strat rezistent la vânt vă va proteja trunchiul în timp ce pedalați pe mal și admirați lumina aspră a soarelui de iarnă.",
+                "en": "Ondarbeltz: The wind can blow strongly here in winter; a windproof layer will protect your core on this coastal section while you admire the harsh light of the low-hanging winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Alkolea",
+                "hu": "Alkolea",
+                "ro": "Alkolea",
+                "en": "Alkolea"
+              },
+              "tip_5lang": {
+                "de": "Alkolea: Die tiefstehende Wintersonne kann blenden; tragen Sie eine Sonnenbrille und achten Sie auf den Verkehr, während Sie das kühle, brillante Licht am Meereshorizont genießen.",
+                "hu": "Alkolea: Az alacsonyan járó téli nap elvakíthat; viseljen napszemüveget, és fokozottan figyeljen a forgalomra, miközben élvezi a tenger horizontján megcsillanó hűvös, briliáns fényeket.",
+                "ro": "Alkolea: Soarele de iarnă jos vă poate orbi; purtați ochelari de soare și fiți atenți la trafic în timp ce vă bucurați de lumina rece și strălucitoare de la orizontul mării.",
+                "en": "Alkolea: The low winter sun can be blinding; wear sunglasses and pay extra attention to traffic while you enjoy the cool, brilliant light reflecting off the distant sea horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Talaixa",
+                "hu": "Talaixa",
+                "ro": "Talaixa",
+                "en": "Talaixa"
+              },
+              "tip_5lang": {
+                "de": "Talaixa: Ein kurzer Stopp reicht aus, um die frische Brise zu spüren, bevor die Temperatur am späten Nachmittag sinkt; stellen Sie sicher, dass Ihre Beleuchtung für die Rückfahrt bereit ist.",
+                "hu": "Talaixa: Egy rövid megálló elég a friss szél élvezetéhez, mielőtt a hőmérséklet késő délután zuhanni kezd; ellenőrizze, hogy a lámpái készen állnak-e a szürkületi visszatérésre.",
+                "ro": "Talaixa: O scurtă oprire este suficientă pentru a simți briza proaspătă înainte ca temperatura să scadă după-amiaza; asigurați-vă că luminile bicicletei sunt gata pentru drumul de întoarcere.",
+                "en": "Talaixa: A short stop is enough to feel the fresh breeze before the temperature drops in the late afternoon; ensure your lights are ready and functional for the ride back in the twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Santiago Beach (Deba)",
+                "hu": "Santiago Beach (Deba)",
+                "ro": "Santiago Beach (Deba)",
+                "en": "Santiago Beach (Deba)"
+              },
+              "tip_5lang": {
+                "de": "Santiago Beach: Kommen Sie rechtzeitig vor der frühen Dämmerung an, um das letzte Licht des Tages am Ufer zu genießen, bevor die Kälte nach Sonnenuntergang um 17 Uhr spürbar zunimmt.",
+                "hu": "Santiago Beach: Érkezzen meg időben a korai szürkület előtt, hogy még világosban élvezhesse a nap utolsó sugarait a parton, mielőtt a 17 órai naplemente után hirtelen lehűlne a levegő.",
+                "ro": "Santiago Beach: Ajungeți înainte de amurgul timpuriu pentru a vă bucura de ultimele raze ale soarelui pe plajă, înainte ca frigul să se intensifice brusc după apusul de la ora 17:00.",
+                "en": "Santiago Beach: Arrive before the early twilight to enjoy the last rays of light on the shore, before the temperature drops sharply following the winter sunset at approximately 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "A reggel gótikus szépséggel indul, majd a lenyűgöző tengerparti geológiát csodálhatja meg.\n\nDélben festői kápolnák és a régió középkori védelmi történelme várja.\n\nA délután mélyen a paleolitikus múltba és a hullámzó zöld vidéki tájakra kalauzolja.\n\nAz este egy elszigetelt hegytetői szentélynél ér véget, amely páratlan kilátást nyújt.",
         "ro": "Dimineața începe cu frumusețea gotică înainte de a conduce pentru a admira geologia coastei.\n\nLa prânz descoperiți capele pitorești și istoria defensivă medievală a regiunii.\n\nDupă-amiaza vă duce în trecutul paleolitic și prin peisajele rurale verzi și deluroase.\n\nSeara se termină la un sanctuar izolat pe deal, oferind priveliști de neegalat la apus.",
         "en": "Morning starts with Gothic beauty before driving out to marvel at stunning coastal geology.\n\nMidday features scenic hillside chapels and uncovering the region's medieval defensive history.\n\nAfternoon takes you deep into the paleolithic past and rolling green rural landscapes.\n\nEvening finishes at an isolated hilltop sanctuary, offering unmatched vistas of the sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie an einem regnerischen Morgen nach dem Parken am Rathaus die schimmernden Gassen auf dem Weg zur Kirche. Mittags ist der Blick auf die Flysch-Küste auch aus dem Auto atemberaubend und hält Sie bei Güssen trocken. Fahren Sie am Nachmittag auf engen Bergstraßen vorsichtig in Richtung der Höhlen. Abends leiten Sie die Scheinwerferreflexionen auf dem Asphalt zum Essen.",
+            "hu": "Az esős reggelen a városháza környéki parkolás után élvezze az óváros víztől fénylő utcáit a templom bejáratáig. Délben a Flysch-part látványa az autóból is lenyűgöző, így szárazon maradhat a leghevesebb záporok idején is. Délután a szűkebb hegyi utakon vezessen óvatosan a sár és a köd miatt. Este a vizes aszfalton megcsillanó fényszórók vezetik el a vacsorázóhelyig.",
+            "ro": "Într-o dimineață ploioasă, după ce parcați lângă primărie, bucurați-vă de străzile umede sclipitoare ale orașului vechi în drum spre biserică. La prânz, vederea coastei Flysch este uluitoare chiar și din mașină, menținându-vă uscați. După-amiaza, conduceți cu atenție pe drumurile de munte spre peșteri. Seara, reflexia farurilor pe asfalt vă ghidează spre locul de cină.",
+            "en": "On a rainy morning, after parking near the town hall, enjoy the old town’s shimmering wet streets on your way to the church. At noon, the Flysch coast view is stunning even from the car, keeping you dry during downpours. In the afternoon, drive carefully on narrow mountain roads toward the caves due to potential mud. By evening, the headlights' reflection on the wet asphalt guides you to dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Maria",
+                "hu": "Santa Maria",
+                "ro": "Santa Maria",
+                "en": "Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Santa Maria: Parken Sie nah am Portal, um trocken in die Kirche zu kommen, und bewundern Sie die Details der gottesfürchtigen Architektur, die im Regenlicht besonders plastisch wirken.",
+                "hu": "Santa Maria: Parkoljon a bejárathoz minél közelebb, hogy szárazon jusson be a templomba, és csodálja meg a gótikus kapu részleteit, amelyek az esőben még hangsúlyosabbnak tűnnek.",
+                "ro": "Santa Maria: Parcați cât mai aproape de intrare pentru a ajunge uscați în biserică și admirați detaliile porții gotice, care par și mai pronunțate sub lumina ploii de afară.",
+                "en": "Santa Maria: Park as close to the entrance as possible to stay dry on your way in, and admire the Gothic portal's details, which appear even more prominent in the rain-filtered light."
+              }
+            },
+            {
+              "name": {
+                "de": "Itxaspe",
+                "hu": "Itxaspe",
+                "ro": "Itxaspe",
+                "en": "Itxaspe"
+              },
+              "tip_5lang": {
+                "de": "Itxaspe: Genießen Sie den Blick auf die Flysch-Küste sicher aus dem Auto, wenn der Regen für einen Spaziergang zu stark ist; die nassen Felsen lassen die geologischen Schichten deutlicher hervortreten.",
+                "hu": "Itxaspe: Élvezze a flysch-part látványát biztonságban az autóból, ha az eső túl erős egy gyalogos felfedezéshez; a sziklák rétegződése a vizes felületen még jobban kirajzolódik a szemlélő előtt.",
+                "ro": "Itxaspe: Bucurați-vă de vederea coastei Flysch în siguranță din mașină dacă ploaia este prea puternică pentru o plimbare; straturile stâncilor devin mai evidente pe suprafața umedă.",
+                "en": "Itxaspe: Enjoy the view of the Flysch coast safely from the car if the rain is too heavy for a walk; the wet surface makes the geological layers of the rocks stand out even more clearly."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Katalina ermita",
+                "hu": "Santa Katalina ermita",
+                "ro": "Santa Katalina ermita",
+                "en": "Santa Katalina ermita"
+              },
+              "tip_5lang": {
+                "de": "Santa Katalina ermita: Die Zufahrt kann bei Regen neblig sein; fahren Sie langsam zur Kapelle für den Meeresblick aus dem Fenster und nutzen Sie die kurzen Regenpausen für schnelle Fotos.",
+                "hu": "Santa Katalina ermita: A felvezető út ködös lehet nagy esőben; vezessen lassan a kápolnához, hogy biztonságban láthassa a tengeri vihart a hegytetőről, majd pihenjen meg a fűtött kocsiban.",
+                "ro": "Santa Katalina ermita: Drumul de acces poate fi cețos pe ploaie; conduceți încet spre capelă pentru vederea spre mare de la geam și folosiți pauzele scurte de ploaie pentru fotografii rapide.",
+                "en": "Santa Katalina ermita: The access road can be misty in the rain; drive slowly toward the chapel for the sea view from your window and use short breaks in the rain for quick photo opportunities."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Sasiola",
+                "hu": "Torre de Sasiola",
+                "ro": "Torre de Sasiola",
+                "en": "Torre de Sasiola"
+              },
+              "tip_5lang": {
+                "de": "Torre de Sasiola: Besichtigen Sie den Turm und nutzen Sie das Auto als Rückzugsort zwischen den Fotostopps; der Nebel im Flusstal verleiht dem mittelalterlichen Bauwerk eine mystische Aura.",
+                "hu": "Torre de Sasiola: Nézze meg a tornyot, és használja az autót menedékként a fotózások között; a völgyben felszálló pára misztikus keretbe foglalja ezt a középkori erődítményt az esős órákban.",
+                "ro": "Torre de Sasiola: Vizitați turnul și folosiți mașina ca refugiu între sesiunile foto; ceața din valea râului oferă acestei structuri medievale o aură mistică în timpul orelor ploioase.",
+                "en": "Torre de Sasiola: Visit the tower and use the car as a retreat between photo sessions; the rising mist in the river valley gives this medieval structure a mystical aura during rainy hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Praileaitz",
+                "hu": "Praileaitz",
+                "ro": "Praileaitz",
+                "en": "Praileaitz"
+              },
+              "tip_5lang": {
+                "de": "Praileaitz: Die Höhlenumgebung wirkt im Nebel geheimnisvoll; achten Sie auf dem kurzen Weg vom Parkplatz auf tiefe Pfützen und tragen Sie festes Schuhwerk auf dem potenziell rutschigen Pfad.",
+                "hu": "Praileaitz: A barlang környéke misztikus a ködben; a parkolótól a bejáratig tartó rövid úton figyeljen a mélyebb pocsolyákra, és viseljen vízálló lábbelit a csúszóssá vált ösvényen.",
+                "ro": "Praileaitz: Zona peșterii pare misterioasă în ceață; pe drumul scurt de la parcare, fiți atenți la bălțile adânci și purtați încălțăminte solidă pe poteca ce poate fi alunecoasă de la ploaie.",
+                "en": "Praileaitz: The cave area looks mysterious in the fog; on the short walk from the parking lot, watch out for deep puddles and wear sturdy shoes on the potentially slippery and wet path."
+              }
+            },
+            {
+              "name": {
+                "de": "San Andres Eliza",
+                "hu": "San Andres Eliza",
+                "ro": "San Andres Eliza",
+                "en": "San Andres Eliza"
+              },
+              "tip_5lang": {
+                "de": "San Andres Eliza: Diese abgelegene Kirche ist ein perfekter, trockener Ort für eine besinnliche Pause; genießen Sie die Ruhe im Inneren, während draußen der Regen gegen die alten Mauern trommelt.",
+                "hu": "San Andres Eliza: Ez az elszigetelt templom tökéletes, száraz helyszín egy békés pihenőhöz; a vastag falak között hallgathatja az eső dobolását, miközben átmelegszik a következő útszakasz előtt.",
+                "ro": "San Andres Eliza: Această biserică izolată este locul perfect și uscat pentru o pauză meditativă; bucurați-vă de liniștea din interior în timp ce ploaia bate în zidurile vechi de afară.",
+                "en": "San Andres Eliza: This secluded church is a perfect, dry spot for a contemplative break; enjoy the silence inside while the rain drums against the ancient stone walls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalbaixo ermita",
+                "hu": "Kalbaixo ermita",
+                "ro": "Kalbaixo ermita",
+                "en": "Kalbaixo ermita"
+              },
+              "tip_5lang": {
+                "de": "Kalbaixo ermita: Der Panoramablick aus dem Fenster ist auch bei Regen grandios; bleiben Sie im Wagen und beobachten Sie, wie die Wolken über die Gipfel ziehen, bevor Sie nach Deba zurückfahren.",
+                "hu": "Kalbaixo ermita: A panoráma az ablakból is lenyűgöző; maradjon a kocsiban, és élvezze a hegyek felett gomolygó esőfelhők látványát, mielőtt a korai szürkületben elindulna vissza a városba.",
+                "ro": "Kalbaixo ermita: Panorama de la fereastră este grandioasă și pe ploaie; rămâneți în mașină și observați cum norii trec peste creste înainte de a porni înapoi spre oraș în amurgul ploios.",
+                "en": "Kalbaixo ermita: The panoramic view from your window is magnificent even in the rain; stay in the car and watch the clouds roll over the peaks before heading back to town in the early twilight."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem kristallklaren Wintermorgen ist das Panorama aus dem Auto perfekt; beginnen Sie den Tag im beheizten Komfort in den Bergen. Mittags bieten die scharfen Konturen der Felsen im Winterlicht einen besonderen Anblick für kurze Spaziergänge. Die Sonne versinkt früh im Meer, erreichen Sie den letzten Punkt vor 17 Uhr. Abends kehren Sie im warmen Auto in die Stadt zurück.",
+            "hu": "A kristálytiszta téli reggelen a panoráma az autóból is tökéletes; indítsa a napot a fűtés kényelmével a hegyek között. Délben a sziklák éles kontúrjai a téli fényben különleges látványt nyújtanak a rövid, frissítő sétákhoz. Délután a nap korán bukik a tengerbe, ezért az utolsó kilátópontot még a 17 órai sötétedés előtt érje el. Este a fűtött utastérben vonulhat vissza a városba.",
+            "ro": "Într-o dimineață de iarnă cu cer senin, panorama este perfectă chiar și din mașină; începeți ziua în confortul încălzirii printre munți. La prânz, contururile clare ale stâncilor în lumina iernii oferă o vedere specială pentru scurte plimbări. Soarele apune devreme în mare, așa că ajungeți la ultimul punct înainte de ora 17:00. Seara, retrageți-vă în oraș în mașina caldă.",
+            "en": "On a crystal-clear winter morning, the panorama is perfect even from the car; start your day in heated comfort among the mountains. At noon, the sharp rock contours in the winter light provide a special sight for short, refreshing walks. The sun drops early into the sea, so reach the last viewpoint before the 17:00 darkness. By evening, retreat to the city in your warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Maria",
+                "hu": "Santa Maria",
+                "ro": "Santa Maria",
+                "en": "Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Santa Maria: Nutzen Sie die Morgenstunden für den Kirchenbesuch, wenn es draußen noch frostig ist; das Innere bietet einen ruhigen und relativ warmen Zufluchtsort für einen friedlichen Start.",
+                "hu": "Santa Maria: Használja ki a reggeli órákat a templomban, amikor kint még fagyos a levegő; a belső tér csendes és viszonylag meleg menedéket nyújt a nap békés és méltó megkezdéséhez.",
+                "ro": "Santa Maria: Folosiți orele dimineții pentru a vizita biserica când afară este încă ger; interiorul oferă un refugiu liniștit și relativ cald pentru un început de zi plăcut și spiritual.",
+                "en": "Santa Maria: Use the morning hours to visit the church when it is still frosty outside; the interior provides a quiet and relatively warm refuge for a peaceful and pleasant start to your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Itxaspe",
+                "hu": "Itxaspe",
+                "ro": "Itxaspe",
+                "en": "Itxaspe"
+              },
+              "tip_5lang": {
+                "de": "Itxaspe: Die klare Winteratmosphäre bietet die beste Sicht auf die Klippen; nehmen Sie warme Kleidung für kurze Fotostopps mit, da der Wind hier im Winter besonders schneidend sein kann.",
+                "hu": "Itxaspe: A tiszta téli atmoszféra kínálja a legjobb rálátást a Flysch-sziklákra; vigyen meleg ruhát a rövid fotómegállókhoz, mert a parti szél itt télen különösen metsző és hideg lehet.",
+                "ro": "Itxaspe: Atmosfera clară de iarnă oferă cea mai bună vizibilitate asupra stâncilor; luați haine groase pentru scurte opriri foto, deoarece vântul de pe coastă poate fi tăios în timpul iernii.",
+                "en": "Itxaspe: The clear winter atmosphere offers the best visibility of the Flysch cliffs; bring warm clothes for short photo stops, as the coastal wind can be particularly piercing during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Katalina ermita",
+                "hu": "Santa Katalina ermita",
+                "ro": "Santa Katalina ermita",
+                "en": "Santa Katalina ermita"
+              },
+              "tip_5lang": {
+                "de": "Santa Katalina ermita: Der Wind an der Kapelle ist im Winter sehr kräftig; genießen Sie die Aussicht kurz und kehren Sie dann schnell in das warme Auto zurück, bevor die Kälte Sie auskühlt.",
+                "hu": "Santa Katalina ermita: A szél a kápolnánál télen nagyon erős; élvezze a kilátást gyorsan a hegytetőről, majd térjen vissza a fűtött autó kényelmébe, mielőtt a fagyos fuvallat átjárná ruháját.",
+                "ro": "Santa Katalina ermita: Vântul la capelă este foarte puternic iarna; bucurați-vă de priveliște scurt timp și apoi reveniți rapid în mașina caldă înainte ca gerul să vă pătrundă prin haine.",
+                "en": "Santa Katalina ermita: The wind at the chapel is very strong in winter; enjoy the view briefly from the hilltop and then quickly return to the warm car before the freezing gusts chill you."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Sasiola",
+                "hu": "Torre de Sasiola",
+                "ro": "Torre de Sasiola",
+                "en": "Torre de Sasiola"
+              },
+              "tip_5lang": {
+                "de": "Torre de Sasiola: Das historische Bauwerk steht markant in der kargen Winterlandschaft; ein kurzer Halt lohnt sich, um die klare Luft und die Stille des Tals in der Nebensaison zu genießen.",
+                "hu": "Torre de Sasiola: A történelmi építmény markánsan emelkedik ki a kopár téli tájból; egy rövid megálló érdemes, hogy élvezze a tiszta levegőt és a völgy téli csendjét a főszezonon kívül.",
+                "ro": "Torre de Sasiola: Structura istorică se ridică marcant în peisajul de iarnă; merită o scurtă oprire pentru a vă bucura de aerul curat și de liniștea văii în afara sezonului turistic principal.",
+                "en": "Torre de Sasiola: The historic structure stands out prominently in the sparse winter landscape; a short stop is worthwhile to enjoy the crisp air and the valley's silence during the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Praileaitz",
+                "hu": "Praileaitz",
+                "ro": "Praileaitz",
+                "en": "Praileaitz"
+              },
+              "tip_5lang": {
+                "de": "Praileaitz: Erkunden Sie die geschichtsträchtige Stätte zügig, da die Kälte in den Tälern im Winter länger verweilt; das Auto bietet danach sofortige Wärme für die Weiterfahrt durch die Berge.",
+                "hu": "Praileaitz: Fedezze fel a történelmi helyszínt viszonylag gyorsan, mivel a hideg a völgyekben télen sokáig megmarad; az autó fűtése utána azonnali felmelegedést nyújt a következő szakaszhoz.",
+                "ro": "Praileaitz: Explorați situl istoric rapid, deoarece frigul persistă mai mult în văi iarna; mașina oferă căldură imediată după aceea pentru continuarea drumului prin zona muntoasă a regiunii.",
+                "en": "Praileaitz: Explore the historic site relatively quickly, as the cold lingers longer in the valleys in winter; the car's heater will offer immediate warmth for your continued drive through the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "San Andres Eliza",
+                "hu": "San Andres Eliza",
+                "ro": "San Andres Eliza",
+                "en": "San Andres Eliza"
+              },
+              "tip_5lang": {
+                "de": "San Andres Eliza: Ein friedlicher Ort im Winterlicht; die Heizung im Auto sorgt nach der Besichtigung für wohlige Wärme, während Sie zur letzten Station des Tages in den Bergen aufbrechen.",
+                "hu": "San Andres Eliza: Békés helyszín a téli fényekben; a látogatás után az autó fűtése segít újra felmelegedni, miközben elindul a nap utolsó hegyi állomása felé a lassan ereszkedő szürkületben.",
+                "ro": "San Andres Eliza: Un loc pașnic în lumina iernii; încălzirea mașinii vă va asigura confortul termic după vizită, în timp ce porniți spre ultima oprire a zilei înainte de lăsarea serii.",
+                "en": "San Andres Eliza: A peaceful spot in the winter light; the car's heater ensures cozy warmth after your visit as you head to the final mountain stop of the day in the slowly falling twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalbaixo ermita",
+                "hu": "Kalbaixo ermita",
+                "ro": "Kalbaixo ermita",
+                "en": "Kalbaixo ermita"
+              },
+              "tip_5lang": {
+                "de": "Kalbaixo ermita: Beenden Sie die Tour hier gegen 17 Uhr, um den winterlichen Sonnenuntergang bequem aus dem Wagen zu erleben, wenn die Berge in ein tiefes Blau und Orange getaucht werden.",
+                "hu": "Kalbaixo ermita: Fejezze be a túrát itt 17 óra körül, hogy a kényelmes ülésből nézhesse végig a téli naplementét, amikor a hegycsúcsok mély kék és narancs színekben pompáznak a sötétedés előtt.",
+                "ro": "Kalbaixo ermita: Încheiați tura aici în jurul orei 17:00 pentru a vedea apusul de iarnă confortabil din mașină, când munții sunt scăldați în nuanțe profunde de albastru și portocaliu intens.",
+                "en": "Kalbaixo ermita: End your tour here around 17:00 to witness the winter sunset comfortably from the car, as the mountains are bathed in deep blue and vibrant orange hues before total darkness."
+              }
+            }
+          ]
+        }
       }
     }
   }

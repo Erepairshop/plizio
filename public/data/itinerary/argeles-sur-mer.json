@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Argelès bájos központjában a gótikus templomnál, és merüljön el a gazdag történelemben. Később a Memorial meghatóan emlékeztet a régió múltjára. A délután a minigolffal és a Jardin Enchanté pihentető pillanataival sokkal játékosabb lesz. Zárja a tökéletes napot Argelès-sur-Mer végtelen, homokos tengerpartján, élvezve a lágy tengeri szellőt.",
         "ro": "Începeți ziua în centrul fermecător la biserica gotică și explorați istoria bogată a zonei. Mai târziu, Memorialul vă va aminti emoționant de trecutul regiunii. După-amiaza devine mai interactivă cu minigolf și momente relaxante la Jardin Enchanté. Încheiați o zi perfectă pe plaja nesfârșită de nisip din Argelès-sur-Mer cu briza mării.",
         "en": "Start your day in the charming center of Argelès at the historic Gothic church to immerse yourself in local history. Later, the Memorial movingly reflects on the region's complex past. The afternoon takes a more playful turn with minigolf and deeply relaxing moments spent within the Jardin Enchanté. End the perfect day on the endless sandy beach of Argelès-sur-Mer."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der kühlen Kirche. Mittags bietet das Museum einen trockenen Rückzugsort für Geschichte. Nachmittags fordern die Gärten trotz Regen zum Entdecken auf, während der Tag am windigen, dramatischen Strand endet. Festes Schuhwerk und Schirm sind heute Ihre besten Begleiter.",
+            "hu": "A reggel a templom csendes menedékében indul az eső elől. Délben a múzeum fedett tereiben mélyedhetünk el a múltban. Délután a parkok és kertek esőáztatta illata kísér, a napot pedig a drámai, viharos tengerparton zárjuk. Vízálló cipő és egy stabil esernyő elengedhetetlen a mai sétához.",
+            "ro": "Dimineața începe la adăpost în liniștea bisericii. La prânz, muzeul oferă un refugiu uscat pentru explorarea istoriei. După-amiaza, grădinile invită la descoperire în ciuda ploii, iar ziua se încheie pe plaja dramatică și vântoasă. Încălțămintea impermeabilă și umbrela sunt esențiale astăzi.",
+            "en": "The morning starts sheltered in the quiet church. At noon, the museum provides a dry retreat for exploring history. In the afternoon, the gardens invite discovery despite the rain, and the day ends by the dramatic, windy shore. Waterproof shoes and a sturdy umbrella are your best companions today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Church of Notre-Dame del Prat",
+                "hu": "Church of Notre-Dame del Prat",
+                "ro": "Church of Notre-Dame del Prat",
+                "en": "Church of Notre-Dame del Prat"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen Altarbilder im trockenen Innenraum; die dicken Mauern bieten perfekten Schutz vor dem ersten Regenschauer des Tages.",
+                "hu": "Csodálja meg a belső freskókat és az oltárt a száraz belső térben; a vastag falak tökéletes menedéket nyújtanak az első reggeli záporok elől.",
+                "ro": "Admirați altarele magnifice în interiorul uscat; pereții groși oferă un adăpost perfect împotriva primei averse de ploaie a zilei de astăzi.",
+                "en": "Admire the magnificent altarpieces in the dry interior; the thick walls provide perfect shelter from the first rain shower of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Memorial of the Argelès Camp",
+                "hu": "Memorial of the Argelès Camp",
+                "ro": "Memorial of the Argelès Camp",
+                "en": "Memorial of the Argelès Camp"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im überdachten Museumsbereich, um die bewegende Geschichte zu studieren, während draußen der Regen gegen die Fenster prasselt.",
+                "hu": "Használja ki az időt a múzeum fedett tereiben a megrendítő történelem tanulmányozására, miközben kint az eső kopog az ablakokon.",
+                "ro": "Folosiți timpul în zona acoperită a muzeului pentru a studia istoria emoționantă, în timp ce ploaia bate în ferestre afară.",
+                "en": "Use the time in the covered museum area to study the moving history while the rain patters against the windows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tropical Golf",
+                "hu": "Tropical Golf",
+                "ro": "Tropical Golf",
+                "en": "Tropical Golf"
+              },
+              "tip_5lang": {
+                "de": "Die tropische Vegetation wirkt im Regen noch satter; achten Sie auf den Gehwegen auf Rutschgefahr und tragen Sie eine wasserfeste Regenjacke.",
+                "hu": "A trópusi növényzet esőben még élénkebbnek tűnik; ügyeljen a csúszós ösvényekre a pályák között, és viseljen vízhatlan esőkabátot.",
+                "ro": "Vegetația tropicală pare și mai bogată în ploaie; aveți grijă la potecile alunecoase și purtați o jachetă de ploaie impermeabilă.",
+                "en": "The tropical vegetation looks even more lush in the rain; watch out for slippery paths between courses and wear a waterproof raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Jardin Enchanté",
+                "hu": "Le Jardin Enchanté",
+                "ro": "Le Jardin Enchanté",
+                "en": "Le Jardin Enchanté"
+              },
+              "tip_5lang": {
+                "de": "Kinder lieben die Pfützen zwischen den Attraktionen; nehmen Sie Gummistiefel mit, damit der Spaß im Freien trotz des nassen Wetters weitergeht.",
+                "hu": "A gyerekek imádni fogják a pocsolyákat a játékok között; hozzanak gumicsizmát, hogy a szabadtéri móka a nedves idő ellenére is folytatódhasson.",
+                "ro": "Copiilor le vor plăcea bălțile dintre atracții; aduceți cizme de cauciuc pentru ca distracția în aer liber să continue în ciuda vremii umede.",
+                "en": "Children will love the puddles between the attractions; bring rubber boots so the outdoor fun can continue despite the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Argelès Beach",
+                "hu": "Argelès Beach",
+                "ro": "Argelès Beach",
+                "en": "Argelès Beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit des Meeres bei Regen; ein Spaziergang mit festem Schirm ist erfrischend, meiden Sie aber die direkte Brandungszone.",
+                "hu": "Élje át a tenger nyers szépségét esőben; egy séta egy erős esernyővel frissítő, de kerülje a közvetlen hullámtörési zónát a szél miatt.",
+                "ro": "Experimentați frumusețea crudă a mării pe ploaie; o plimbare cu o umbrelă rezistentă este revigorantă, dar evitați zona directă a valurilor.",
+                "en": "Experience the raw beauty of the sea in the rain; a walk with a sturdy umbrella is refreshing, but avoid the direct surf zone due to wind."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen führt Sie in die Stille der Kirche. Mittags wärmen Sie sich im Museum bei spannender Geschichte auf. Am Nachmittag genießen Sie die milde Wintersonne in den Parks, bevor Sie um 17:00 Uhr den frühen Sonnenuntergang am Strand erleben. Kleiden Sie sich in Schichten für den kühlen Abendwind.",
+            "hu": "A hűvös reggel a templom csendjébe vezet. Napközben a múzeumban melegedhetünk fel a történelem nyomában. Délután a parkok téli nyugalmát élvezhetjük, majd 17:00 körül megcsodálhatjuk a korai naplementét a parton. Öltözzön rétegesen a feltámadó esti tengeri szél miatt.",
+            "ro": "O dimineață răcoroasă vă conduce în liniștea bisericii. La prânz, vă încălziți în muzeu explorând istoria. După-amiaza, bucurați-vă de calmul iernii în parcuri, înainte de a vedea apusul timpuriu la ora 17:00 pe plajă. Îmbrăcați-vă în straturi pentru vântul rece de seară.",
+            "en": "A crisp morning leads you to the silence of the church. At noon, warm up in the museum while exploring history. In the afternoon, enjoy the winter calm in the parks before witnessing the early sunset around 17:00 on the beach. Dress in layers for the chilly evening sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Church of Notre-Dame del Prat",
+                "hu": "Church of Notre-Dame del Prat",
+                "ro": "Church of Notre-Dame del Prat",
+                "en": "Church of Notre-Dame del Prat"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige, andächtige Atmosphäre im Winter; die Kirche ist ein friedlicher Ort, um sich kurz vor der kalten Morgenluft aufzuwärmen.",
+                "hu": "Élvezze a csendes, meghitt hangulatot télen; a templom békés hely a reggeli hideg levegő után egy kis belső elcsendesedéshez és melegedéshez.",
+                "ro": "Bucurați-vă de atmosfera liniștită de iarnă; biserica este un loc pașnic pentru a vă încălzi puțin după aerul rece al dimineții.",
+                "en": "Enjoy the quiet, devotional atmosphere in winter; the church is a peaceful place to warm up briefly after the cold morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Memorial of the Argelès Camp",
+                "hu": "Memorial of the Argelès Camp",
+                "ro": "Memorial of the Argelès Camp",
+                "en": "Memorial of the Argelès Camp"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Ausstellungsräume bieten eine gute Gelegenheit, tief in die Dokumentation einzutauchen, während es draußen winterlich kühl bleibt.",
+                "hu": "A fűtött kiállítóterek remek alkalmat kínálnak a dokumentumok alapos áttanulmányozására, miközben kint marad a téli hűvösség.",
+                "ro": "Sălile de expoziție încălzite oferă o oportunitate excelentă de a studia documentația în profunzime, în timp ce afară rămâne răcoarea iernii.",
+                "en": "The heated exhibition rooms offer a great opportunity to dive deep into the documentation while the winter chill remains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tropical Golf",
+                "hu": "Tropical Golf",
+                "ro": "Tropical Golf",
+                "en": "Tropical Golf"
+              },
+              "tip_5lang": {
+                "de": "Das Golfen hält Sie in Bewegung und warm; tragen Sie dünne Handschuhe für besseren Grip am Schläger bei den kühlen Wintertemperaturen.",
+                "hu": "A játék mozgásban tart és felmelegít; viseljen vékony kesztyűt a hűvös időben, hogy jobban foghassa az ütőt a pályákon.",
+                "ro": "Jocul de golf vă menține în mișcare și vă încălzește; purtați mănuși subțiri pentru o aderență mai bună pe crosă la temperaturile scăzute.",
+                "en": "Golfing keeps you moving and warm; wear thin gloves for a better grip on the club during the cool winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Jardin Enchanté",
+                "hu": "Le Jardin Enchanté",
+                "ro": "Le Jardin Enchanté",
+                "en": "Le Jardin Enchanté"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Ruhe im Garten ist ideal für Familienfotos; achten Sie darauf, dass die Kinder warme Mützen tragen, da es im Schatten kühl ist.",
+                "hu": "A kert téli nyugalma ideális a családi fotókhoz; ügyeljen rá, hogy a gyerekek viseljenek meleg sapkát, mert az árnyékos részeken hűvös lehet.",
+                "ro": "Liniștea iernii în grădină este ideală pentru fotografii de familie; asigurați-vă că copiii poartă căciuli calde, deoarece la umbră este răcoare.",
+                "en": "The winter calm in the garden is ideal for family photos; make sure the children wear warm hats as it can be chilly in the shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Argelès Beach",
+                "hu": "Argelès Beach",
+                "ro": "Argelès Beach",
+                "en": "Argelès Beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den spektakulären Sonnenuntergang gegen 17:00 Uhr; eine warme Thermoskanne mit Tee macht das Warten am Strand besonders gemütlich.",
+                "hu": "Csodálja meg a látványos naplementét 17:00 körül; egy termosz meleg teával a kezében a várakozás a parton kifejezetten hangulatos lesz.",
+                "ro": "Experimentați apusul spectaculos în jurul orei 17:00; un termos cu ceai cald face așteptarea pe plajă deosebit de confortabilă.",
+                "en": "Experience the spectacular sunset around 17:00; a warm thermos of tea makes waiting on the beach particularly cozy and enjoyable."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpártúra a város történelmi utcáin kezdődik, és fontos emlékhelyekhez vezeti Önt. Ezt követően tekerjen a Valmy Parkba, ahol a fenséges kastély várja. Délután kényelmesen guruljon le a tengerpartra, a festői Le Racou felé, ahol a sziklák kezdődnek. A túra koronája az Argelès strand, ahol élvezheti a gyönyörű naplementét.",
         "ro": "Turul cu bicicleta începe pe străzile istorice, ducându-vă spre situri de o memorie profundă. Pedalați apoi spre Parcul Valmy, unde vă așteaptă castelul maiestuos. După-amiaza, coborâți confortabil spre coasta pitorească Le Racou, unde încep stâncile dramatice. Punctul culminant al traseului este plaja vastă la apusul soarelui blând.",
         "en": "The bike tour begins through the city's historical streets, leading you toward sites of profound memory. You then pedal uphill towards Valmy Park, where the majestic castle awaits exploration. In the afternoon, smoothly roll down to the coast towards the highly picturesque Le Racou. The crowning finish takes place along the sprawling Argelès beach before dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine sportliche Tour trotz Regen! Morgens radeln Sie vorsichtig zur Kirche und zum Museum. Mittags geht es durch den nassen Valmy Park zum Schloss. Nachmittags fordern die Küstenwege volle Konzentration bei rutschigem Boden. Ein kompletter Satz Regenbekleidung und gute Bremsen sind heute lebensnotwendig.",
+            "hu": "Sportos túra az eső ellenére! Reggel óvatosan tekerjen a templomhoz és a múzeumhoz. Délben a vizes Valmy parkon át vezet az út a kastélyhoz. Délután a parti utak teljes koncentrációt igényelnek a csúszós talaj miatt. Teljes esőfelszerelés és jó fékek elengedhetetlenek a mai napon.",
+            "ro": "O tură sportivă în ciuda ploii! Dimineața pedalați cu atenție spre biserică și muzeu. La prânz, drumul trece prin parcul Valmy ud spre castel. După-amiaza, potecile de coastă cer concentrare maximă pe terenul alunecos. Echipamentul de ploaie complet și frânele bune sunt vitale astăzi.",
+            "en": "A sporty tour despite the rain! In the morning, cycle carefully to the church and museum. At noon, the route goes through the wet Valmy Park to the castle. In the afternoon, coastal paths require full concentration on slippery ground. Full rain gear and good brakes are essential today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Church of Notre-Dame del Prat",
+                "hu": "Church of Notre-Dame del Prat",
+                "ro": "Church of Notre-Dame del Prat",
+                "en": "Church of Notre-Dame del Prat"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie den Besuch, um die Kleidung kurz zu trocknen und die Architektur zu bewundern.",
+                "hu": "Parkolja le kerékpárját védett helyen, és használja ki a látogatást a ruházat rövid szárítására, miközben megcsodálja az építészetet.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți vizita pentru a vă usca scurt hainele și pentru a admira arhitectura interioară.",
+                "en": "Park your bike in a sheltered spot and use the visit to briefly dry your clothes while admiring the historic interior architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Memorial of the Argelès Camp",
+                "hu": "Memorial of the Argelès Camp",
+                "ro": "Memorial of the Argelès Camp",
+                "en": "Memorial of the Argelès Camp"
+              },
+              "tip_5lang": {
+                "de": "Die Zeit im Museum bietet eine willkommene Pause vom nassen Wetter; prüfen Sie vor der Weiterfahrt noch einmal Ihre Lichtanlage am Fahrrad.",
+                "hu": "A múzeumban töltött idő szívesen látott szünet a nedves időben; a továbbindulás előtt ellenőrizze újra a kerékpár világítását.",
+                "ro": "Timpul petrecut în muzeu oferă o pauză binevenită de vremea umedă; înainte de a pleca, verificați din nou sistemul de iluminare al bicicletei.",
+                "en": "Time in the museum offers a welcome break from the wet weather; check your bike lights again before continuing your ride in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Valmy Park",
+                "hu": "Valmy Park",
+                "ro": "Valmy Park",
+                "en": "Valmy Park"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege im Park können bei Nässe durch Laub rutschig sein; fahren Sie in den Kurven besonders langsam und vorausschauend.",
+                "hu": "A park aszfaltozott útjai a vizes levelek miatt csúszósak lehetnek; a kanyarokban tekerjen különösen lassan és előrelátóan.",
+                "ro": "Aleile asfaltate din parc pot fi alunecoase din cauza frunzelor ude; pedalați deosebit de încet și cu atenție sporită în curbe.",
+                "en": "The paved paths in the park can be slippery due to wet leaves; cycle particularly slowly and with foresight in the bends today."
+              }
+            },
+            {
+              "name": {
+                "de": "Valmy Castle",
+                "hu": "Valmy Castle",
+                "ro": "Valmy Castle",
+                "en": "Valmy Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Weinberge im Nebel; das Schloss bietet fotogene Motive, die im Regen eine mystische Ausstrahlung haben.",
+                "hu": "Élvezze a ködbe burkolózó szőlőültetvények látványát; a kastély fotogén részletei esőben különleges, misztikus kisugárzással bírnak.",
+                "ro": "Bucurați-vă de vederea podgoriilor în ceață; castelul oferă motive fotogenice care au o aură mistică atunci când plouă afară.",
+                "en": "Enjoy the view of the vineyards shrouded in mist; the castle offers photogenic motifs that have a mystical aura in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Racou",
+                "hu": "Le Racou",
+                "ro": "Le Racou",
+                "en": "Le Racou"
+              },
+              "tip_5lang": {
+                "de": "Die sandigen Wege in Strandnähe werden bei Regen weich; achten Sie auf den Untergrund, um mit den Reifen nicht wegzurutschen.",
+                "hu": "A strand közeli homokos utak esőben felpuhulnak; ügyeljen a talajra, hogy a kerekekkel ne csússzon meg a kanyarokban.",
+                "ro": "Drumurile nisipoase de lângă plajă devin moi în ploaie; aveți grijă la suprafață pentru a nu aluneca cu anvelopele bicicletei.",
+                "en": "The sandy paths near the beach soften in the rain; watch the ground carefully to avoid sliding with your tires on the curves."
+              }
+            },
+            {
+              "name": {
+                "de": "Argelès Beach",
+                "hu": "Argelès Beach",
+                "ro": "Argelès Beach",
+                "en": "Argelès Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein dramatisches Ziel nach einer nassen Tour! Suchen Sie einen überdachten Platz am Hafen, um den Blick auf das stürmische Meer zu genießen.",
+                "hu": "Drámai végállomás egy vizes túra után! Keressen egy fedett helyet a kikötőnél, hogy megcsodálhassa a viharos tenger látványát.",
+                "ro": "O destinație dramatică după o tură umedă! Căutați un loc acoperit lângă port pentru a vă bucura de vederea mării învolburate.",
+                "en": "A dramatic destination after a wet tour! Find a covered spot near the harbor to enjoy the view of the stormy and powerful sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Argelès bei frischer Winterluft! Der Morgen startet kulturell an der Kirche und im Memorial. Mittags radeln Sie durch den klaren Valmy Park. Nachmittags führt der Weg nach Le Racou, wo Sie um 17:00 Uhr den Sonnenuntergang erleben. Handschuhe und eine winddichte Jacke machen die Fahrt heute angenehm.",
+            "hu": "Fedezze fel Argelèst a friss téli levegőn! A reggel kulturálisan indul a templomnál és a múzeumnál. Délben a tiszta Valmy parkon át tekerhetünk. Délután Le Racou felé vezet az út, ahol 17:00 körül vár a naplemente. Kesztyű és szélálló dzseki teszi kényelmessé a mai túrát.",
+            "ro": "Explorați Argelès în aerul curat de iarnă! Dimineața începe cultural la biserică și memorial. La prânz, pedalați prin parcul Valmy senin. După-amiaza, drumul duce spre Le Racou, unde vedeți apusul la 17:00. Mănușile și o jachetă rezistentă la vânt fac plimbarea plăcută.",
+            "en": "Explore Argelès in the crisp winter air! The morning starts culturally at the church and memorial. At noon, cycle through the clear Valmy Park. In the afternoon, the path leads to Le Racou, where you'll see the sunset at 17:00. Gloves and a windproof jacket make the ride enjoyable today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Church of Notre-Dame del Prat",
+                "hu": "Church of Notre-Dame del Prat",
+                "ro": "Church of Notre-Dame del Prat",
+                "en": "Church of Notre-Dame del Prat"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um die Finger aufzuwärmen; die Ruhe in der Nebensaison erlaubt einen besonders intensiven Blick auf die Details der Kirche.",
+                "hu": "Használja ki a megállót az ujjai felmelegítésére; a holtszezon nyugalma lehetővé teszi a templom részleteinek alaposabb megfigyelését.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele; liniștea din extrasezon permite o privire deosebit de intensă asupra detaliilor bisericii.",
+                "en": "Use the stop to warm up your fingers; the calm of the low season allows for a particularly intense look at the church's details."
+              }
+            },
+            {
+              "name": {
+                "de": "Memorial of the Argelès Camp",
+                "hu": "Memorial of the Argelès Camp",
+                "ro": "Memorial of the Argelès Camp",
+                "en": "Memorial of the Argelès Camp"
+              },
+              "tip_5lang": {
+                "de": "Ein informativer Stopp im Warmen; kühlen Sie nach der Besichtigung nicht zu sehr aus und ziehen Sie Ihre Jacke rechtzeitig wieder fest zu.",
+                "hu": "Egy informatív megálló a melegben; a látogatás után ne hűljön ki túlságosan, húzza fel a cipzárt időben a továbbindulás előtt.",
+                "ro": "O oprire informativă la căldură; nu vă răciți prea tare după vizită și închideți bine jacheta înainte de a pleca din nou la drum.",
+                "en": "An informative stop in the warm; don't cool down too much after the visit and make sure to zip up your jacket tightly before starting again."
+              }
+            },
+            {
+              "name": {
+                "de": "Valmy Park",
+                "hu": "Valmy Park",
+                "ro": "Valmy Park",
+                "en": "Valmy Park"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf die Pyrenäen frei; halten Sie kurz an, um das Bergpanorama im klaren Winterlicht zu fotografieren.",
+                "hu": "A kopasz fák közül remek kilátás nyílik a Pireneusokra; álljon meg egy pillanatra, hogy lefotózza a hegyeket a tiszta téli fényben.",
+                "ro": "Copacii golași permit vederea spre Pirinei; opriți-vă scurt pentru a fotografia panorama munților în lumina clară a iernii.",
+                "en": "The bare trees allow a clear view of the Pyrenees; stop briefly to photograph the mountain panorama in the crisp winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Valmy Castle",
+                "hu": "Valmy Castle",
+                "ro": "Valmy Castle",
+                "en": "Valmy Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss hält den Kreislauf in Schwung; oben angekommen, schützt die Burgmauer vor dem kalten Tramontane-Wind.",
+                "hu": "A kastélyhoz vezető emelkedő mozgásban tartja a keringést; felérve a várfalak megvédenek a hideg Tramontane széltől.",
+                "ro": "Urcarea spre castel menține circulația activă; odată ajunși sus, zidul castelului vă protejează de vântul rece Tramontane.",
+                "en": "The climb up to the castle keeps your circulation going; once at the top, the castle walls protect you from the cold Tramontane wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Racou",
+                "hu": "Le Racou",
+                "ro": "Le Racou",
+                "en": "Le Racou"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das fast menschenleere Viertel; die tiefstehende Wintersonne wirft lange, malerische Schatten auf die bunten Fischerhäuser.",
+                "hu": "Látogasson el a szinte néptelen negyedbe; az alacsonyan járó téli nap festői hosszú árnyékokat vet a színes halászházakra.",
+                "ro": "Vizitați cartierul aproape pustiu; soarele de iarnă care apune aruncă umbre lungi și pitorești pe casele colorate ale pescarilor.",
+                "en": "Visit the almost deserted neighborhood; the low-hanging winter sun casts long, picturesque shadows on the colorful fisherman houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Argelès Beach",
+                "hu": "Argelès Beach",
+                "ro": "Argelès Beach",
+                "en": "Argelès Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour beim Sonnenuntergang um 17:00 Uhr; die kühle Meeresbrise ist belebend, wenn man gut in Winterkleidung eingepackt ist.",
+                "hu": "Zárja a túrát a naplementével 17:00-kor; a hűvös tengeri szellő frissítő, ha megfelelően be van csomagolva meleg téli ruhába.",
+                "ro": "Încheiați turul la apusul soarelui la ora 17:00; briza răcoroasă a mării este revigorantă dacă sunteți bine echipat în haine de iarnă.",
+                "en": "End the tour with the sunset at 17:00; the cool sea breeze is invigorating when well-wrapped in your warm winter cycling clothing."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje útját a Memorialnál, hogy átérezze a régió mély és érzelmes történelmét. Ezután vegye az irányt a lenyűgöző Valmy kastély felé, amely a tenger felett magasodik. A Bassin melletti békés megálló után utazzon tovább a bájos Le Racou halászfaluba. A fő tengerparti pihenőt követően a Luna Park pörgős szórakozása várja Önt.",
         "ro": "Începeți traseul la Memorial pentru a simți istoria emoționantă a regiunii noastre. După aceea, conduceți către impresionantul Castel Valmy, așezat deasupra mării azurii. După o oprire pașnică în natură la Bassin, continuați spre fermecătorul sat pescăresc Le Racou. După relaxarea pe plajă, parcul de distracții Luna Park vă așteaptă cu bucurie.",
         "en": "Start your drive at the Memorial to truly feel the emotional and complex history of the region. Afterward, navigate towards the impressive Valmy Castle, perched majestically high above the sea. Following a peaceful nature stop at the Bassin, drive to the charming fishing village of Le Racou. Following beach relaxation, Luna Park offers thrilling evening entertainment."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Komfortabel durch den Regen! Vormittags besuchen Sie das Memorial und das Schloss Valmy im Trockenen. Mittags bietet der Bassin eine schnelle Fotositzung. Nachmittags erkunden Sie Le Racou und den Strand vom Auto aus, bevor der Luna Park bei Nacht (wetterabhängig) ruft. Halten Sie Handtücher im Auto bereit.",
+            "hu": "Kényelmesen az esőben is! Délelőtt látogassa meg a múzeumot és a Valmy kastélyt szárazon. Délben a medence egy gyors fotószünetet kínál. Délután fedezze fel Le Racou-t és a strandot az autóból, végül nézze meg a Luna Parkot az esőben. Tartson törölközőt az autóban a ki- és beszálláshoz.",
+            "ro": "Confortabil prin ploaie! Dimineața vizitați memorialul și castelul Valmy la adăpost. La prânz, bazinul oferă o sesiune foto rapidă. După-amiaza explorați Le Racou și plaja din mașină, înainte ca Luna Park să vă cheme noaptea. Aveți prosoape pregătite în mașină pentru orice eventualitate.",
+            "en": "Comfortable through the rain! In the morning, visit the memorial and Valmy Castle while staying dry. At noon, the Bassin offers a quick photo session. In the afternoon, explore Le Racou and the beach from your car before heading to Luna Park. Keep towels in the car for getting in and out."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Memorial of the Argelès Camp",
+                "hu": "Memorial of the Argelès Camp",
+                "ro": "Memorial of the Argelès Camp",
+                "en": "Memorial of the Argelès Camp"
+              },
+              "tip_5lang": {
+                "de": "Dank Parkplätzen direkt vor Ort kommen Sie fast trocken in das Museum, wo Sie die Geschichte ohne Zeitdruck im Inneren studieren können.",
+                "hu": "A közvetlen parkolási lehetőségnek köszönhetően szinte szárazon juthat be a múzeumba, ahol időnyomás nélkül tanulmányozhatja a múltat odabent.",
+                "ro": "Datorită locurilor de parcare direct la fața locului, puteți intra în muzeu aproape uscat, unde puteți studia istoria fără presiunea timpului.",
+                "en": "Thanks to parking spots directly on-site, you can get into the museum almost dry, where you can study history inside without time pressure."
+              }
+            },
+            {
+              "name": {
+                "de": "Valmy Castle",
+                "hu": "Valmy Castle",
+                "ro": "Valmy Castle",
+                "en": "Valmy Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Regen besonders herrschaftlich; nutzen Sie den Wagen, um direkt zum Eingangsbereich zu fahren und Nässe zu vermeiden.",
+                "hu": "A kastély esőben különösen előkelőnek tűnik; használja az autót, hogy közvetlenül a bejárathoz hajtson, elkerülve a nagyobb ázást.",
+                "ro": "Castelul pare deosebit de impunător în ploaie; folosiți mașina pentru a conduce direct spre zona de intrare și pentru a evita umezeala.",
+                "en": "The castle looks particularly majestic in the rain; use the car to drive directly to the entrance area and avoid getting too wet outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bassin",
+                "hu": "Bassin",
+                "ro": "Bassin",
+                "en": "Bassin"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto der Wasseroberfläche im Regen reicht aus; bleiben Sie im Auto, wenn der Schauer gerade besonders stark ist.",
+                "hu": "Egy rövid megálló elég a víztükör lefotózásához az esőben; maradjon az autóban, ha a zápor éppen különösen intenzívvé válna.",
+                "ro": "O scurtă oprire pentru o fotografie a suprafeței apei în ploaie este suficientă; rămâneți în mașină dacă aversa este deosebit de puternică.",
+                "en": "A short stop for a photo of the water surface in the rain is enough; stay in the car if the downpour happens to be particularly intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Racou",
+                "hu": "Le Racou",
+                "ro": "Le Racou",
+                "en": "Le Racou"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die Gassen und genießen Sie den Blick auf das Meer vom warmen Innenraum Ihres Wagens aus, geschützt vor dem Wind.",
+                "hu": "Hajtson lassan a sikátorokon keresztül, és élvezze a tenger látványát az autója meleg belső teréből, védve a metsző parti széltől.",
+                "ro": "Conduceți încet prin alei și bucurați-vă de vederea mării din interiorul cald al mașinii, protejat de vântul tăios de pe coastă.",
+                "en": "Drive slowly through the alleys and enjoy the view of the sea from the warm interior of your car, protected from the biting coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Argelès Beach",
+                "hu": "Argelès Beach",
+                "ro": "Argelès Beach",
+                "en": "Argelès Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf die Brandung; die Scheibenwischer geben den Blick auf die gewaltigen Wellen frei, während Sie im Trockenen sitzen.",
+                "hu": "Parkoljon le a partra nézve; az ablaktörlők szabad utat engednek a hatalmas hullámok látványának, miközben Ön a száraz autóban ül.",
+                "ro": "Parcați cu vedere spre valuri; ștergătoarele de parbriz permit vizualizarea valurilor uriașe, în timp ce stați în mașina uscată.",
+                "en": "Park facing the surf; the windshield wipers will clear the view of the huge waves while you sit comfortably in your dry car interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park",
+                "hu": "Luna Park",
+                "ro": "Luna Park",
+                "en": "Luna Park"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie wetterbedingte Öffnungszeiten; die Lichter des Parks spiegeln sich bei Regen wunderschön in den Pfützen auf dem Parkplatz.",
+                "hu": "Ellenőrizze az időjárás miatti nyitvatartást; a park fényei esőben gyönyörűen tükröződnek a parkoló pocsolyáiban az esti órákban.",
+                "ro": "Verificați programul din cauza vremii; luminile parcului se reflectă frumos în bălțile din parcare atunci când plouă în timpul serii.",
+                "en": "Check the weather-related opening hours; the park lights reflect beautifully in the parking lot puddles during the evening hours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Argelès entspannt im Winter! Vormittags führt die Route zum Memorial und zum Schloss Valmy. Mittags genießen Sie die Ruhe am Bassin. Nachmittags erkunden Sie Le Racou und erleben um 17:00 Uhr den Sonnenuntergang am Strand, bevor der Luna Park den Tag abrundet. Die Sitzheizung macht die Fahrt heute perfekt.",
+            "hu": "Fedezze fel Argelèst kényelmesen télen! Délelőtt a múzeumhoz és a Valmy kastélyhoz vezet az út. Napközben élvezze a medence környékének nyugalmát. Délután látogasson el Le Racou-ba, majd 17:00-kor nézze meg a naplementét a parton. Az ülésfűtés ma különösen jó szolgálatot tesz.",
+            "ro": "Experimentați Argelès relaxat în timpul iernii! Dimineața, ruta duce la memorial și la castelul Valmy. La prânz, bucurați-vă de liniștea bazinului. După-amiaza, explorați Le Racou și vedeți apusul la 17:00. Încălzirea în scaune face călătoria perfectă astăzi.",
+            "en": "Experience Argelès in a relaxed way this winter! In the morning, the route leads to the memorial and Valmy Castle. At noon, enjoy the calm around the Bassin. In the afternoon, explore Le Racou and see the sunset at 17:00 at the beach. Seat heating makes the drive perfect today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Memorial of the Argelès Camp",
+                "hu": "Memorial of the Argelès Camp",
+                "ro": "Memorial of the Argelès Camp",
+                "en": "Memorial of the Argelès Camp"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die angenehm beheizten Ausstellungsräume für einen ausführlichen Besuch, ohne die winterliche Kälte draußen spüren zu müssen.",
+                "hu": "Használja ki a kellemesen fűtött kiállítótereket egy alapos látogatáshoz, anélkül, hogy a kinti téli hideget éreznie kellene.",
+                "ro": "Folosiți sălile de expoziție încălzite plăcut pentru o vizită detaliată, fără a fi nevoie să simțiți frigul iernii de afară astăzi.",
+                "en": "Use the pleasantly heated exhibition rooms for a detailed visit without having to feel the winter cold outside during your stay."
+              }
+            },
+            {
+              "name": {
+                "de": "Valmy Castle",
+                "hu": "Valmy Castle",
+                "ro": "Valmy Castle",
+                "en": "Valmy Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf die schneebedeckten Gipfel der Pyrenäen vom Parkplatz des Schlosses aus im klaren Winterlicht.",
+                "hu": "Élvezze a távoli kilátást a Pireneusok hófödte csúcsaira a kastély parkolójából a tiszta téli napsütésben.",
+                "ro": "Bucurați-vă de vederea îndepărtată a vârfurilor înzăpezite ale Pirineilor din parcarea castelului în lumina clară a iernii.",
+                "en": "Enjoy the distant view of the snow-capped peaks of the Pyrenees from the castle parking lot in the clear winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Bassin",
+                "hu": "Bassin",
+                "ro": "Bassin",
+                "en": "Bassin"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe am Bassin ist im Winter ideal für Landschaftsaufnahmen; das sanfte Licht sorgt für weiche Kontraste auf Ihren Fotos.",
+                "hu": "A medence téli nyugalma ideális tájképek készítéséhez; a lágy fények gyönyörű kontrasztot adnak a fotóinak ebben az időszakban.",
+                "ro": "Liniștea bazinului în timpul iernii este ideală pentru fotografii de peisaj; lumina blândă oferă contraste moi fotografiilor dvs.",
+                "en": "The winter calm at the Bassin is ideal for landscape photography; the soft light provides beautiful contrasts for your photos now."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Racou",
+                "hu": "Le Racou",
+                "ro": "Le Racou",
+                "en": "Le Racou"
+              },
+              "tip_5lang": {
+                "de": "Profitieren Sie von der einfachen Parkplatzsuche direkt im Viertel und unternehmen Sie einen kurzen, belebenden Spaziergang im Windschatten.",
+                "hu": "Használja ki a könnyű parkolást közvetlenül a negyedben, és tegyen egy rövid, frissítő sétát a házak szélvédett oldalán.",
+                "ro": "Beneficiați de parcarea ușoară direct în cartier și faceți o plimbare scurtă și revigorantă în partea protejată de vânt a caselor.",
+                "en": "Take advantage of the easy parking directly in the neighborhood and go for a short, invigorating walk in the wind-sheltered areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Argelès Beach",
+                "hu": "Argelès Beach",
+                "ro": "Argelès Beach",
+                "en": "Argelès Beach"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich den Sonnenuntergang um 17:00 Uhr gemütlich vom Auto aus an; so bleiben Sie warm, während der Himmel die Farben wechselt.",
+                "hu": "Nézze meg a naplementét 17:00-kor kényelmesen az autóból; így melegben maradhat, miközben az égbolt színei látványosan megváltoznak.",
+                "ro": "Priviți apusul de la ora 17:00 confortabil din mașină; astfel puteți rămâne la căldură în timp ce cerul își schimbă culorile.",
+                "en": "Watch the sunset at 17:00 comfortably from your car; this way you stay warm while the sky changes colors spectacularly."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park",
+                "hu": "Luna Park",
+                "ro": "Luna Park",
+                "en": "Luna Park"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch am Abend ist dank der vielen Lichter besonders stimmungsvoll; ziehen Sie eine warme Jacke für die kühle Nachtluft an.",
+                "hu": "Az esti látogatás a sok fénynek köszönhetően különösen hangulatos; vegyen fel meleg dzsekit a hűvös éjszakai levegő ellen.",
+                "ro": "O vizită seara este deosebit de atmosferică datorită multor lumini; purtați o jachetă caldă pentru aerul răcoros al nopții.",
+                "en": "An evening visit is particularly atmospheric thanks to the many lights; wear a warm jacket against the cool night air."
+              }
+            }
+          ]
+        }
       }
     }
   }

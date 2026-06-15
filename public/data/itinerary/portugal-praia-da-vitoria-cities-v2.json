@@ -160,6 +160,196 @@
         "hu": "A reggel az öbölre nyíló pazar kilátással és irodalomtörténettel indul. A dél a modern kulturális központ és a központi partvidék felfedezésére hív. A délutánt a fő strand kiterjedt vulkáni homokján való pihenésnek szentelheti. Az estét egy festői tengerparti séta zárja, miközben a nap lassan lenyugszik az Atlanti-óceán felett.",
         "ro": "Dimineața începe cu vederi ample asupra golfului și istorie literară. La prânz sunteți invitați să explorați centrul cultural modern și coasta. După-amiaza este dedicată relaxării pe nisipurile vulcanice extinse ale golfului principal. Seara se încheie cu o plimbare pitorească la malul mării, în timp ce soarele apune lent.",
         "en": "Morning begins with sweeping bay views and local literary history. Midday invites you to explore the modern cultural hub and the central coastline. Afternoon is dedicated to unwinding on the expansive volcanic sands of the main bay. Evening concludes with a scenic seaside stroll as the sun slowly sets over the Atlantic."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen mit einem nebligen Blick von oben und bringen Sie einen Regenschirm mit. Mittags bieten Kirchen und Museen trockene Zuflucht. Der Nachmittag bringt einen stimmungsvollen Spaziergang an den verregneten Stränden. Beenden Sie den Tag drinnen im Warmen, während der regnerische Abend über die charmanten Straßen hereinbricht.",
+            "hu": "Kezdd a reggelt a ködös kilátónál, de vigyél erős esernyőt a szél miatt. Délben keress száraz menedéket a helyi templomokban és múzeumokban. A délután hangulatos, bár esős sétát ígér a tengerparton. A napot egy meleg, fedett helyen zárd, miközben az esős este leszáll a város macskaköves utcáira.",
+            "ro": "Începeți dimineața cu vederi încețoșate de sus, aducând o umbrelă robustă. La prânz, căutați refugiu uscat în biserici și muzee. După-amiaza aduce o plimbare atmosferică pe plajele bătute de ploaie. Încheiați ziua încălzindu-vă la interior, în timp ce seara ploioasă se lasă peste străzile fermecătoare.",
+            "en": "Start your morning with misty views from the top, bringing a sturdy umbrella for the coastal winds. By midday, seek refuge in the dry, ornate interiors of local churches and museums. The afternoon brings a moody, atmospheric walk along the rain-swept beaches. End your day warming up indoors as the rainy evening settles over the charming town streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Miradouro do Facho",
+                "hu": "Miradouro do Facho",
+                "ro": "Miradouro do Facho",
+                "en": "Miradouro do Facho"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die neblige Aussicht auf die Bucht, aber tragen Sie einen stabilen Regenmantel gegen den starken Wind.",
+                "hu": "Élvezd a ködös öböl panorámáját, de viselj erős esőkabátot, mert a szél könnyen kifordítja az esernyőket.",
+                "ro": "Admirați vederea golfului prin ceață, dar purtați o pelerină impermeabilă din cauza vântului puternic de coastă.",
+                "en": "Enjoy misty bay views from the top, but wear a sturdy raincoat as umbrellas easily flip in the strong coastal winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja do Senhor Santo Cristo das Misericórdias",
+                "hu": "Igreja do Senhor Santo Cristo das Misericórdias",
+                "ro": "Igreja do Senhor Santo Cristo das Misericórdias",
+                "en": "Igreja do Senhor Santo Cristo das Misericórdias"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht in dieser Kirche und bewundern Sie die Altäre im Trockenen, während es draußen in Strömen regnet.",
+                "hu": "Keress száraz menedéket ebben a gyönyörű templomban, és csodáld meg a bonyolult oltárokat az eső elől bújva.",
+                "ro": "Căutați refugiu în această biserică frumoasă, admirând altarele complexe departe de ploaia torențială de afară.",
+                "en": "Seek dry refuge inside this beautiful church, taking time to admire its intricate altars away from the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-Museu Vitorino Nemésio",
+                "hu": "Casa-Museu Vitorino Nemésio",
+                "ro": "Casa-Museu Vitorino Nemésio",
+                "en": "Casa-Museu Vitorino Nemésio"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das Leben des lokalen Poeten in diesem trockenen Museum, ideal, um starke Regenschauer abzuwarten.",
+                "hu": "Fedezd fel a helyi költő életét ebben a száraz múzeumban, amely tökéletes menedék egy nagyobb zápor idején.",
+                "ro": "Explorați viața poetului local în acest muzeu uscat, o oprire perfectă pentru a aștepta trecerea ploilor grele.",
+                "en": "Explore the fascinating life of the local poet in this dry museum, a perfect extended stop while waiting out heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditório do Ramo Grande",
+                "hu": "Auditório do Ramo Grande",
+                "ro": "Auditório do Ramo Grande",
+                "en": "Auditório do Ramo Grande"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die kulturellen Ausstellungen in diesem modernen, überdachten Raum, um nachmittags völlig trocken zu bleiben.",
+                "hu": "Nézd meg a kulturális kiállításokat ebben a modern, fedett térben, így teljesen száraz maradsz a séta során.",
+                "ro": "Vizitați expozițiile culturale din acest spațiu interior modern pentru a rămâne complet uscat în timpul plimbării.",
+                "en": "Check out the modern architecture and cultural exhibits of this indoor space to stay completely dry during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Vitória",
+                "hu": "Praia da Vitória",
+                "ro": "Praia da Vitória",
+                "en": "Praia da Vitória"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die dramatischen Wellen der Bucht und tragen Sie wasserdichte Stiefel, um trockene Füße am nassen Sand zu behalten.",
+                "hu": "Tapasztald meg az öböl drámai hullámait, és viselj vízálló csizmát, hogy a nedves homokon is száraz maradjon a lábad.",
+                "ro": "Experimentați valurile dramatice ale golfului, purtând cizme impermeabile pentru a vă păstra picioarele uscate pe nisip.",
+                "en": "Experience the dramatic, crashing waves of the bay, wearing waterproof boots to keep your feet dry on the wet sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Oficiais",
+                "hu": "Praia dos Oficiais",
+                "ro": "Praia dos Oficiais",
+                "en": "Praia dos Oficiais"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie an der stürmischen Küste entlang und tragen Sie eine warme, wasserdichte Schicht gegen den peitschenden Regen.",
+                "hu": "Sétálj végig a viharos parton a hangulatért, de tarts magadon egy meleg, vízálló réteget a heves eső ellen.",
+                "ro": "Plimbați-vă pe țărmul furtunos pentru o atmosferă deosebită, păstrând un strat impermeabil și cald împotriva ploii.",
+                "en": "Stroll along the stormy shoreline for a moody atmosphere, keeping a warm waterproof layer on against the driving rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der klare Wintermorgen bietet eine tolle Aussicht, wenn man sich warm anzieht. Mittags lassen sich die leeren Museen in Ruhe erkunden. Genießen Sie nachmittags einen zügigen Spaziergang an den ruhigen Stränden. Beenden Sie die Tour früh, da die Sonne schon gegen 17:00 Uhr über dem eisigen Ozean untergeht.",
+            "hu": "A csípős téli reggel kristálytiszta kilátást nyújt, ha melegen felöltözöl. A dél tökéletes a csendes múzeumok és templomok felfedezésére. Délután tegyél egy frissítő sétát az üres strandokon. Fejezd be a napot korán, hiszen a nap már 17:00 óra körül lenyugszik, gyönyörű színekre festve a horizontot.",
+            "ro": "Dimineața de iarnă oferă vederi clare dacă vă îmbrăcați gros. Prânzul este perfect pentru a explora muzeele și bisericile neaglomerate. După-amiaza, bucurați-vă de o plimbare pe plajele liniștite. Terminați devreme, în jurul orei 17:00, pentru a prinde un apus frumos de iarnă peste oceanul rece.",
+            "en": "The crisp winter morning offers exceptionally clear views from the high viewpoints if you dress warmly. Midday is perfect for exploring the uncrowded historic museums and churches in peace. In the afternoon, enjoy a brisk walk along the quiet beaches before the sun dips low. Finish early around 17:00, catching a beautiful winter sunset over the ocean."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Miradouro do Facho",
+                "hu": "Miradouro do Facho",
+                "ro": "Miradouro do Facho",
+                "en": "Miradouro do Facho"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den klaren Winterblick auf die Stadt und tragen Sie eine dicke Windjacke gegen die morgendliche Kälte.",
+                "hu": "Csodáld meg a csípős, de kristálytiszta téli kilátást, és vegyél fel egy vastag széldzsekit a fagyos reggeli szél ellen.",
+                "ro": "Bucurați-vă de panorama clară de iarnă a orașului, purtând o jachetă groasă împotriva frigului de dimineață.",
+                "en": "Take in the crystal-clear winter panorama of the city, wearing a thick windbreaker to block the biting morning chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja do Senhor Santo Cristo das Misericórdias",
+                "hu": "Igreja do Senhor Santo Cristo das Misericórdias",
+                "ro": "Igreja do Senhor Santo Cristo das Misericórdias",
+                "en": "Igreja do Senhor Santo Cristo das Misericórdias"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im ruhigen Kirchenschiff auf und genießen Sie die friedliche Atmosphäre ohne Sommertouristen.",
+                "hu": "Melegedj fel a templom békés hajójában, és élvezd a nyugodt téli hangulatot a szokásos nyári tömeg nélkül.",
+                "ro": "Încălziți-vă în naosul liniștit al bisericii, apreciind atmosfera senină de iarnă fără aglomerația de vară.",
+                "en": "Warm up in the quiet, historic nave of this charming church, appreciating the serene winter atmosphere without crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-Museu Vitorino Nemésio",
+                "hu": "Casa-Museu Vitorino Nemésio",
+                "ro": "Casa-Museu Vitorino Nemésio",
+                "en": "Casa-Museu Vitorino Nemésio"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie eine gemütliche Stunde in diesem Museum und entfliehen Sie der kühlen Winterluft bei lokaler Geschichte.",
+                "hu": "Tölts el egy meghitt órát ebben a hagyományos házban, amely ideális fedett menedék a csípős téli levegő elől.",
+                "ro": "Petreceți o oră confortabilă în această casă tradițională, o retragere interioară ideală din aerul rece de iarnă.",
+                "en": "Spend a cozy hour inside this traditional home learning about local history, an ideal indoor retreat from the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditório do Ramo Grande",
+                "hu": "Auditório do Ramo Grande",
+                "ro": "Auditório do Ramo Grande",
+                "en": "Auditório do Ramo Grande"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie kulturelle Präsentationen in diesem beheizten Gebäude für eine komfortable Pause auf Ihrem Spaziergang.",
+                "hu": "Nézd meg a kulturális kiállításokat ebben a modern, fűtött épületben, ami kényelmes pihenőt nyújt a városi séta során.",
+                "ro": "Admirați prezentările culturale în acest loc modern și încălzit, oferindu-vă o pauză confortabilă în plimbare.",
+                "en": "Admire the cultural presentations in this modern, heated venue, giving you a comfortable break during your brisk walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Vitória",
+                "hu": "Praia da Vitória",
+                "ro": "Praia da Vitória",
+                "en": "Praia da Vitória"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen zügigen Spaziergang am leeren Strand und ziehen Sie sich warm gegen die kalte Atlantikbrise an.",
+                "hu": "Tegyél egy frissítő sétát az üres, aranyhomokos strandon, de öltözz fel rétegesen a hideg atlanti szél ellen.",
+                "ro": "Bucurați-vă de o plimbare revigorantă pe plaja goală, asigurându-vă că aveți haine groase împotriva brizei atlantice.",
+                "en": "Enjoy a peaceful, brisk walk along the empty golden sands, making sure to layer up against the cold Atlantic breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Oficiais",
+                "hu": "Praia dos Oficiais",
+                "ro": "Praia dos Oficiais",
+                "en": "Praia dos Oficiais"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie gegen 17:00 Uhr den atemberaubenden frühen Wintersonnenuntergang und wickeln Sie sich gut in einen Schal ein.",
+                "hu": "Nézd meg a lenyűgöző, korai téli naplementét 17:00 óra körül erről a csendes strandról, egy vastag sálba burkolózva.",
+                "ro": "Urmăriți apusul spectaculos de iarnă în jurul orei 17:00 de pe această plajă liniștită, purtând un fular gros.",
+                "en": "Watch the stunning, early winter sunset around 17:00 from this quiet beach, wrapping a thick scarf around your neck."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "A reggel a történelmi központba és a múzeumba vezető panorámás ereszkedéssel indul. A dél egy frissítő tekerést tartogat a nyüzsgő fő strand sétányán. A délután délre visz, hogy felfedezzen egy élénk kápolnát és egy parti erődöt. Az este az északi csendes partokon zárja le ezt a kellemes és emlékezetes kerékpáros kalandot.",
         "ro": "Dimineața începe cu o coborâre panoramică în centrul istoric la muzeu. Prânzul vă oferă o plimbare revigorantă de-a lungul promenadei principale. După-amiaza vă duce spre sud pentru a descoperi o capelă tradițională și un fort de coastă. Seara încheie aventura dumneavoastră cu bicicleta înapoi pe țărmurile nordice liniștite.",
         "en": "Morning kicks off with a panoramic descent into the historic center to visit the museum. Midday features a refreshing ride along the bustling main beach promenade. Afternoon takes you south to discover a vibrant traditional chapel and a coastal fort. Evening wraps up your cycling adventure back at the quiet northern shorelines."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt erfordert Vorsicht auf den rutschigen Straßen zum Aussichtspunkt. Mittags können Sie sich im Museum trocknen. Die Nachmittagsroute ist nass und windig, wasserdichte Kleidung ist Pflicht. Beenden Sie die Fahrt vorsichtig in den regnerischen Abendstunden.",
+            "hu": "A nedves út óvatosságot igényel a csúszós emelkedőkön. Délben száradj meg a múzeumban, majd folytasd az utat a parton. A délutáni parti tekeréshez elengedhetetlen a vízálló felszerelés. Óvatosan fejezd be az utat, ahogy a sötét, esős este közeleg.",
+            "ro": "O plimbare umedă necesită prudență pe drumurile alunecoase. La prânz, uscați-vă în muzeu înainte de a continua. Traseul de coastă de după-amiază este umed, deci echipamentul impermeabil este esențial. Terminați cu grijă pe străzile umede seara.",
+            "en": "A wet ride requires caution, so start slowly on the slippery roads toward the high viewpoint. Midday offers a chance to dry off in the museum before continuing your coastal pedal. The afternoon beach route will be wet and windy, so waterproof gear is absolutely essential. Finish your ride carefully on the damp streets as the rainy evening begins."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Miradouro do Facho",
+                "hu": "Miradouro do Facho",
+                "ro": "Miradouro do Facho",
+                "en": "Miradouro do Facho"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig bergauf für den nebligen Blick und nutzen Sie gute Bremsen sowie gut sichtbare Regenkleidung.",
+                "hu": "Tekerd le óvatosan a nedves emelkedőt a kilátóhoz, használj jó fékeket és jól látható, fényvisszaverő esőkabátot.",
+                "ro": "Urcați cu grijă pentru vederi încețoșate, bazându-vă pe frâne bune și purtând echipament de ploaie vizibil.",
+                "en": "Pedal carefully up the wet roads for misty bay views, relying on good brakes and wearing high-visibility rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-Museu Vitorino Nemésio",
+                "hu": "Casa-Museu Vitorino Nemésio",
+                "ro": "Casa-Museu Vitorino Nemésio",
+                "en": "Casa-Museu Vitorino Nemésio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und trocknen Sie sich im historischen Haus ab, ein toller kultureller Stopp bei Platzregen.",
+                "hu": "Parkold le a bringát és száradj meg ebben a történelmi házban, amely tökéletes menedék a felhőszakadás elől.",
+                "ro": "Parcați bicicleta și uscați-vă în această casă istorică, o oprire culturală excelentă pentru a scăpa de ploaie.",
+                "en": "Park your bike and dry off inside this fascinating historic house, a great cultural pit-stop to escape the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Vitória",
+                "hu": "Praia da Vitória",
+                "ro": "Praia da Vitória",
+                "en": "Praia da Vitória"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die nasse Promenade entlang und halten Sie Ihre Regenjacke gegen den kalten Wind fest geschlossen.",
+                "hu": "Tekerj végig a nedves parti sétányon, és húzd be a vízálló kabátod cipzárját a hideg óceáni szél ellen.",
+                "ro": "Mergeți pe promenada umedă, ținând geaca impermeabilă bine închisă împotriva vântului rece și a ploii.",
+                "en": "Ride along the wet, windswept promenade, keeping your waterproof jacket fully zipped tight against the cold rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Riviera",
+                "hu": "Praia da Riviera",
+                "ro": "Praia da Riviera",
+                "en": "Praia da Riviera"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie vorsichtig auf den feuchten Küstenwegen zu diesem Strand und achten Sie auf rutschige Schlammstellen.",
+                "hu": "Óvatosan navigálj a nedves parti ösvényeken ehhez a strandhoz, és ügyelj a csúszós, saras foltokra az úton.",
+                "ro": "Navigați cu grijă pe cărările umede spre această plajă, fiind atenți la porțiunile de noroi alunecos.",
+                "en": "Carefully navigate the damp coastal paths to this beautiful beach, watching out for slippery muddy patches along the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Império das Tronqueiras",
+                "hu": "Império das Tronqueiras",
+                "ro": "Império das Tronqueiras",
+                "en": "Império das Tronqueiras"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an diesem bunten Gebäude, aber seien Sie vorsichtig, da das Kopfsteinpflaster bei Regen rutschig ist.",
+                "hu": "Állj meg egy fotóra ennél a színes épületnél, de vigyázz, mert a környék macskakövei nagyon csúsznak az esőben.",
+                "ro": "Opriți-vă la acest edificiu colorat, fiind atenți deoarece piatra cubică din jur poate fi alunecoasă pe ploaie.",
+                "en": "Stop briefly at this colorful building, staying extremely alert as the surrounding cobblestones are slick in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Festungsmauern bei trübem Wetter und schieben Sie Ihr Rad auf den nassen Steinen, um nicht auszurutschen.",
+                "hu": "Fedezd fel az erődítményt a borús ég alatt, de inkább told a biciklit a nedves köveken, hogy elkerüld a csúszást.",
+                "ro": "Explorați zidurile cetății, mergând pe lângă bicicletă pe pietrele umede pentru a preveni alunecarea accidentală.",
+                "en": "Explore the historic fortress walls, walking your bike on the wet coastal stones to prevent dangerous slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Oficiais",
+                "hu": "Praia dos Oficiais",
+                "ro": "Praia dos Oficiais",
+                "en": "Praia dos Oficiais"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Fahrt am stürmischen Ufer und schalten Sie wegen der schlechten Sicht Ihre Fahrradlichter ein.",
+                "hu": "Fejezd be az esős utat a viharos parton, és mindenképp kapcsold be a lámpákat a rossz látási viszonyok miatt.",
+                "ro": "Terminați plimbarea umedă pe țărmul furtunos, asigurându-vă că luminile bicicletei sunt aprinse din cauza vizibilității.",
+                "en": "Complete your wet ride by the stormy shore, making absolutely sure your bike lights are on due to low visibility."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Fahrt warm eingepackt gegen die Meeresbrise. Mittags bieten leere Straßen perfekte Bedingungen. Die Küstenabschnitte am Nachmittag erfordern Handschuhe und eine Windjacke. Beenden Sie die Tour vor 17:00 Uhr, wenn die Wintersonne untergeht und es kalt wird.",
+            "hu": "Kezdd a csípős téli tekerést meleg rétegekben az óceáni szél ellen. Délben az üres utcák tökéletesek a kerékpározáshoz. A parti szakaszokon viselj kesztyűt és széldzsekit. Fejezd be a túrát 17:00 előtt, amikor a téli nap lenyugszik és lehűl a levegő.",
+            "ro": "Începeți plimbarea cu straturi groase împotriva brizei. Prânzul aduce străzi libere, perfecte pentru ciclism. Secțiunile de coastă necesită mănuși și o jachetă de vânt. Terminați traseul înainte de 17:00, când soarele apune și temperaturile scad.",
+            "en": "Begin your crisp winter ride with a brisk climb, relying on layers to stay warm in the ocean air. Midday brings quiet streets, perfect for unhindered cycling between museums and beaches. The afternoon coastal stretches are beautiful but chilly, demanding gloves and a windbreaker. Be sure to finish your route before 17:00 when the winter sun sets and temperatures drop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Miradouro do Facho",
+                "hu": "Miradouro do Facho",
+                "ro": "Miradouro do Facho",
+                "en": "Miradouro do Facho"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bergauf für klare Winterblicke auf die Küste und tragen Sie warme Handschuhe gegen den eisigen Wind.",
+                "hu": "Küzdd le az emelkedőt a tiszta téli kilátásért, és viselj meleg kesztyűt, ami megvédi a kezed a fagyos széltől.",
+                "ro": "Urcați dealul pentru vederi clare de iarnă, purtând mănuși groase pentru a vă proteja mâinile de vântul înghețat.",
+                "en": "Push up the hill for pristine winter views, wearing warm gloves to protect your hands from the freezing coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-Museu Vitorino Nemésio",
+                "hu": "Casa-Museu Vitorino Nemésio",
+                "ro": "Casa-Museu Vitorino Nemésio",
+                "en": "Casa-Museu Vitorino Nemésio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen gemütlichen Besuch im traditionellen Haus, um Ihre Muskeln auf halber Strecke aufzuwärmen.",
+                "hu": "Élvezd a hangulatos, tömeg nélküli látogatást ebben a hagyományos házban, ahol felmelegítheted az izmaidat.",
+                "ro": "Bucurați-vă de o vizită confortabilă în această casă tradițională, un loc perfect pentru a vă încălzi mușchii.",
+                "en": "Enjoy a cozy, uncrowded visit to this traditional home, a perfect place to safely warm up your muscles mid-ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Vitória",
+                "hu": "Praia da Vitória",
+                "ro": "Praia da Vitória",
+                "en": "Praia da Vitória"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie auf der ruhigen Promenade am Meer und halten Sie Ihre Jacke gegen die frische Atlantikbrise geschlossen.",
+                "hu": "Tekerj a csendes parti sétányon, miközben a kabátod szorosan össze van húzva a csípős atlanti szellő ellen.",
+                "ro": "Ciclism pe promenada liniștită, ținând jacheta bine închisă împotriva brizei reci de iarnă a Atlanticului.",
+                "en": "Cycle the peaceful promenade by the ocean, keeping your jacket fully zipped against the brisk Atlantic winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Riviera",
+                "hu": "Praia da Riviera",
+                "ro": "Praia da Riviera",
+                "en": "Praia da Riviera"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zu diesem winterlichen Strand und tragen Sie Thermokleidung, um nah am kalten Wasser warm zu bleiben.",
+                "hu": "Tekerj el ehhez a téli strandhoz a természetért, és viselj termo rétegeket, hogy a hideg víz közelében is meleged legyen.",
+                "ro": "Pedalați spre această plajă de iarnă, purtând haine termice pentru a rămâne confortabil lângă apa rece.",
+                "en": "Pedal to this serene winter beach for lovely views, wearing thermal layers to stay comfortable near the cold water."
+              }
+            },
+            {
+              "name": {
+                "de": "Império das Tronqueiras",
+                "hu": "Império das Tronqueiras",
+                "ro": "Império das Tronqueiras",
+                "en": "Império das Tronqueiras"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur dieses Wahrzeichens, ein toller Fotostopp im weichen, tiefstehenden Winterlicht.",
+                "hu": "Csodáld meg az épület élénk színeit, amely tökéletes fotótéma a lágyan beeső, alacsony téli napfényben.",
+                "ro": "Admirați arhitectura acestui punct de reper, o oprire excelentă pentru fotografii în lumina blândă de iarnă.",
+                "en": "Marvel at the vibrant architecture of this local landmark, an excellent quick photo stop under the soft winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie um die Steinfestung am Meer und genießen Sie den klaren Winterhorizont, bevor der Nachmittag schwindet.",
+                "hu": "Sétálj a tengerparti kőerődítmény körül, és szívd magadba a tiszta téli horizont látványát még sötétedés előtt.",
+                "ro": "Plimbați-vă prin cetatea de piatră de la mare, admirând orizontul clar de iarnă înainte de lăsarea serii.",
+                "en": "Walk around the sturdy stone fortress overlooking the sea, taking in the clear winter horizon before the afternoon fades."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Oficiais",
+                "hu": "Praia dos Oficiais",
+                "ro": "Praia dos Oficiais",
+                "en": "Praia dos Oficiais"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Radtour mit dem frühen Sonnenuntergang gegen 17:00 Uhr und nutzen Sie Lichter für den Rückweg.",
+                "hu": "Zárd a túrát a korai, 17:00 órás naplemente megtekintésével, és ellenőrizd a lámpáidat a sötét visszaúthoz.",
+                "ro": "Încheiați călătoria privind apusul devreme de la 17:00, asigurându-vă că aveți lumini pentru drumul întunecat.",
+                "en": "End your cycling journey watching the early 17:00 sunset paint the sky, ensuring you have lights for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "A reggel egy autózással indul a magas kilátóhoz, majd a templom és a múzeum meglátogatásával. A dél folyamán központilag parkolhat, és átadhatja magát a nyüzsgő hangulatnak. A délután egy rövid déli utat foglal magába az ősi tengeri védművek felfedezésére. Az este békésen zárul egy természetközeli, gyönyörű parti rezervátumban.",
         "ro": "Dimineața începe cu o plimbare spre belvederea înaltă, urmată de biserică și muzeu. La prânz puteți parca central pentru a vă bucura de atmosfera vibrantă a orașului. După-amiaza implică un scurt drum spre sud pentru a descoperi apărarea maritimă antică. Seara se termină liniștit la o rezervație de coastă bogată în natură.",
         "en": "Morning starts with a drive to the high lookout, followed by visits to the church and museum. Midday allows you to park centrally and soak in the vibrant atmosphere of the cultural hub. Afternoon involves a short drive south to uncover ancient maritime defenses and heritage. Evening ends peacefully at a nature-rich coastal reserve."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto hält Sie heute trocken, selbst auf dem Weg zu den Aussichtspunkten. Mittags können Sie bequem zwischen überdachten Museen wechseln. Genießen Sie nachmittags die tosenden Küstenwellen sicher aus dem Fahrzeug. Am Abend machen Sie eine gemütliche Fahrt durch die nassen historischen Straßen.",
+            "hu": "Az autó a legjobb módja a szárazon maradásnak, így kényelmesen feljuthatsz a kilátókhoz esőben is. Délben könnyen ugrálhatsz a fedett múzeumok között. Délután biztonságban, a járműből csodálhatod meg a viharos tengerparti hullámokat. Este élvezd a meleg autózást a nedves történelmi utcákon.",
+            "ro": "Mașina vă menține uscat astăzi, oferind acces ușor la punctele de belvedere. La prânz, schimbați confortabil între muzeele interioare. După-amiaza, admirați valurile de coastă în siguranță din interiorul vehiculului. Seara, bucurați-vă de o plimbare uscată prin străzile istorice umede.",
+            "en": "Driving is the best way to stay dry today, offering easy access to the hilltop viewpoints despite the rain. Spend your midday hopping easily between indoor cultural sites and warm museums. In the afternoon, you can comfortably admire the crashing coastal waves from inside your vehicle. As evening falls, enjoy a cozy, dry drive through the rain-slicked historic streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Miradouro do Facho",
+                "hu": "Miradouro do Facho",
+                "ro": "Miradouro do Facho",
+                "en": "Miradouro do Facho"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie sicher nach oben für neblige Aussichten und steigen Sie nur kurz mit einem großen Regenschirm aus.",
+                "hu": "Vezess fel óvatosan a ködös kilátásért, és csak egy pillanatra szállj ki egy nagy esernyővel pár fotó erejéig.",
+                "ro": "Conduceți în siguranță pentru vederi încețoșate, ieșind scurt cu o umbrelă mare pentru fotografii.",
+                "en": "Drive safely to the top for atmospheric, foggy views, stepping out briefly with a large umbrella to snap moody photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja do Senhor Santo Cristo das Misericórdias",
+                "hu": "Igreja do Senhor Santo Cristo das Misericórdias",
+                "ro": "Igreja do Senhor Santo Cristo das Misericórdias",
+                "en": "Igreja do Senhor Santo Cristo das Misericórdias"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und betreten Sie schnell das trockene Heiligtum, um den starken Schauern zu entgehen.",
+                "hu": "Parkolj közvetlenül az épület mellett, és lépj be gyorsan a száraz templomba, elmenekülve a kinti felhőszakadás elől.",
+                "ro": "Parcați aproape și intrați rapid în sanctuarul uscat, scăpând de ploile torențiale de afară pentru a admira altarele.",
+                "en": "Park right nearby and step quickly into the dry sanctuary, escaping the heavy downpours while admiring the altars."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-Museu Vitorino Nemésio",
+                "hu": "Casa-Museu Vitorino Nemésio",
+                "ro": "Casa-Museu Vitorino Nemésio",
+                "en": "Casa-Museu Vitorino Nemésio"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine lange, trockene Pause im Museum und lassen Sie Ihre nasse Ausrüstung einfach im Kofferraum.",
+                "hu": "Tarts egy hosszú, száraz szünetet a múzeumban, és hagyd a vizes kabátokat és esernyőket kényelmesen a csomagtartóban.",
+                "ro": "Faceți o pauză uscată în interiorul acestui muzeu, lăsând echipamentul umed în portbagajul mașinii înainte de a intra.",
+                "en": "Take a long, dry break inside this fascinating cultural home, easily leaving your wet gear in the car trunk before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditório do Ramo Grande",
+                "hu": "Auditório do Ramo Grande",
+                "ro": "Auditório do Ramo Grande",
+                "en": "Auditório do Ramo Grande"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie dieses überdachte kulturelle Erlebnis als bequemen Zwischenstopp bei starkem Regenfall.",
+                "hu": "Élvezd a teljesen fedett kulturális élményt ebben a modern épületben, ami tökéletes megálló a legrosszabb esőben.",
+                "ro": "Bucurați-vă de o experiență culturală interioară la această clădire modernă, o oprire perfectă pe ploaie puternică.",
+                "en": "Enjoy a completely indoor cultural experience at this modern venue, a perfect, comfortable stop during the worst rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Vitória",
+                "hu": "Praia da Vitória",
+                "ro": "Praia da Vitória",
+                "en": "Praia da Vitória"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die stürmischen, weißen Wellen in der Bucht aus der gemütlichen Wärme Ihres geparkten Autos.",
+                "hu": "Figyeld meg a viharos, fehér tarajos hullámokat az öbölben a strandnál leparkolt autód kényelméből és melegéből.",
+                "ro": "Urmăriți valurile furtunoase care se sparg în golf din confortul și căldura mașinii parcate lângă plajă.",
+                "en": "Watch the stormy, white-capped waves rolling into the bay from the absolute comfort and warmth of your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Império das Tronqueiras",
+                "hu": "Império das Tronqueiras",
+                "ro": "Império das Tronqueiras",
+                "en": "Império das Tronqueiras"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie das Fenster herunter, um dieses Denkmal zu fotografieren, und meiden Sie die Pfützen auf dem Pflaster.",
+                "hu": "Egyszerűen tekerd le az ablakot, hogy lefotózd a színes műemléket, így elkerülheted a kinti hatalmas tócsákat.",
+                "ro": "Coborâți geamul pentru a fotografia acest monument colorat, evitând bălțile de pe piatra cubică din jur.",
+                "en": "Simply roll down the window to photograph this brightly colored monument, completely avoiding the puddles outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie vorsichtig auf dem nassen Parkplatz und nehmen Sie einen Regenmantel für den kurzen Weg zur Festung.",
+                "hu": "Vezess óvatosan a vizes parkolóban, és vegyél fel egy erős esőkabátot arra a rövid sétára, amíg eléred az erőd falait.",
+                "ro": "Navigați cu grijă în parcarea umedă și aduceți o pelerină robustă pentru scurta plimbare până la zidurile cetății.",
+                "en": "Carefully navigate the wet parking area, bringing a sturdy raincoat for the short walk to view the historic fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Riviera",
+                "hu": "Praia da Riviera",
+                "ro": "Praia da Riviera",
+                "en": "Praia da Riviera"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einer Fahrt an der verregneten Küste, während die Autoheizung Sie angenehm warm hält.",
+                "hu": "Fejezd be a napot egy autózással a viharos parton, miközben a fűtés kellemes melegben tart a vad tenger látványa mellett.",
+                "ro": "Terminați cu o plimbare scenică de-a lungul coastei ploioase, ținând încălzirea mașinii pornită pentru confort.",
+                "en": "Finish with a scenic drive along the rain-swept coast, keeping the car heater on to stay cozy while watching the sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Auto bietet morgens wunderbare Wärme auf dem Weg zu kristallklaren Panoramen. Mittags ist kaum Verkehr, ideal für den Besuch historischer Festungen. Fahren Sie nachmittags mit Sitzheizung an den ruhigen Stränden entlang. Planen Sie Ihre Stopps so, dass Sie den goldenen Sonnenuntergang gegen 17:00 Uhr erleben.",
+            "hu": "Az autó csodálatos meleget ad a csípős reggelen, miközben felhajtasz a kristálytiszta panorámához. Délben a gyér forgalom megkönnyíti a történelmi központ bejárását. Délután vezess a csendes strandok mellett a fűtött üléseken. Időzítsd a végét 17:00 órára a lenyűgöző téli naplementéhez.",
+            "ro": "Mașina oferă o căldură minunată dimineața, în drum spre panorame clare. Traficul de prânz este redus, ideal pentru vizitarea centrului istoric. După-amiaza, conduceți pe plajele liniștite bucurându-vă de scaunele încălzite. Programați-vă opririle pentru a prinde apusul de la ora 17:00.",
+            "en": "A car offers wonderful warmth on a crisp winter morning as you drive up for crystal-clear panoramic views. Midday traffic is light, making it a breeze to visit the historic center and coastal forts. In the afternoon, drive along the quiet beaches, enjoying the comfort of your heated seats. Time your final stops carefully to catch the golden sunset before the early 17:00 dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Miradouro do Facho",
+                "hu": "Miradouro do Facho",
+                "ro": "Miradouro do Facho",
+                "en": "Miradouro do Facho"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hoch für unglaubliche Winterpanoramen und nutzen Sie die Heizung, um sich danach schnell aufzuwärmen.",
+                "hu": "Hajts fel a lenyűgöző téli panorámáért, és használd az autó fűtését, hogy a fotózás után gyorsan felmelegedj.",
+                "ro": "Conduceți pentru panorame incredibile de iarnă, folosind încălzirea mașinii pentru a vă încălzi rapid după fotografii.",
+                "en": "Drive up for incredibly clear winter panoramas, using the car heater to warm up quickly after taking photos outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja do Senhor Santo Cristo das Misericórdias",
+                "hu": "Igreja do Senhor Santo Cristo das Misericórdias",
+                "ro": "Igreja do Senhor Santo Cristo das Misericórdias",
+                "en": "Igreja do Senhor Santo Cristo das Misericórdias"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese friedliche Kirche ohne die Sommermassen und genießen Sie die ruhige, winterliche Atmosphäre.",
+                "hu": "Látogasd meg ezt a békés templomot a nyári tömeg nélkül, és élvezd a csendes, téli naphoz illő nyugodt hangulatot.",
+                "ro": "Vizitați această biserică liniștită fără aglomerația de vară, bucurându-vă de o atmosferă senină de iarnă.",
+                "en": "Visit this peaceful, historic church without the summer crowds, enjoying a serene atmosphere fitting the winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-Museu Vitorino Nemésio",
+                "hu": "Casa-Museu Vitorino Nemésio",
+                "ro": "Casa-Museu Vitorino Nemésio",
+                "en": "Casa-Museu Vitorino Nemésio"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie eine komfortable Stunde im gemütlichen Museum und entfliehen Sie der frischen, kühlen Außenluft.",
+                "hu": "Tölts el egy kényelmes órát ebben a hangulatos múzeumban, hogy elmenekülj a csípős, hideg kinti levegő elől.",
+                "ro": "Petreceți o oră confortabilă explorând muzeul primitor, scăpând de aerul rece și proaspăt de afară.",
+                "en": "Spend a comfortable hour exploring local heritage inside this cozy museum, escaping the crisp and chilly outdoor air."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditório do Ramo Grande",
+                "hu": "Auditório do Ramo Grande",
+                "ro": "Auditório do Ramo Grande",
+                "en": "Auditório do Ramo Grande"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie lokale Kultur in dieser beheizten Anlage, eine angenehme und warme Pause auf Ihrer Autotour.",
+                "hu": "Szívd magadba a helyi kultúrát ebben a fűtött épületben, ami kellemes és meleg pihenőt nyújt az autós túra során.",
+                "ro": "Bucurați-vă de cultura locală în această facilitate încălzită, o pauză plăcută și caldă în timpul turului auto.",
+                "en": "Take in some local culture in this heated, modern facility, providing a pleasant and warm break during your driving tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Vitória",
+                "hu": "Praia da Vitória",
+                "ro": "Praia da Vitória",
+                "en": "Praia da Vitória"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen erfrischenden Spaziergang am leeren Strand und wissen Sie Ihr warmes Auto gleich in der Nähe.",
+                "hu": "Tegyél egy frissítő sétát az üres strandon a tudattal, hogy a meleg autód ott vár a hideg szél elől menedékként.",
+                "ro": "Faceți o plimbare revigorantă pe plaja goală, știind că mașina caldă vă așteaptă aproape când lovește briza rece.",
+                "en": "Take a brisk, refreshing walk on the empty beach, knowing your warm car is waiting right nearby against the cold breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Império das Tronqueiras",
+                "hu": "Império das Tronqueiras",
+                "ro": "Império das Tronqueiras",
+                "en": "Império das Tronqueiras"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie in den leeren Winterstraßen an, um das Denkmal im weichen, tiefstehenden Sonnenlicht zu bewundern.",
+                "hu": "Állj meg könnyedén a csendes téli utcákon a műemléknél, és élvezd a lágyan beeső, alacsony téli napfény játékát.",
+                "ro": "Opriți-vă ușor pe străzile neaglomerate pentru a admira monumentul în lumina blândă a soarelui de iarnă.",
+                "en": "Stop easily in the uncrowded winter streets to admire this charming monument, enjoying the soft, low-angled sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Festung am Ozean und packen Sie sich warm ein, bevor Sie den Komfort Ihres Fahrzeugs verlassen.",
+                "hu": "Fedezd fel az óceánparti erődöt, de öltözz fel nagyon melegen, mielőtt kiszállnál a járműved nyújtotta kényelemből.",
+                "ro": "Explorați fortăreața de la ocean, îmbrăcându-vă gros înainte de a părăsi confortul vehiculului dumneavoastră.",
+                "en": "Explore the oceanfront battlements with clear views, wrapping up warmly before leaving the comfort of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Riviera",
+                "hu": "Praia da Riviera",
+                "ro": "Praia da Riviera",
+                "en": "Praia da Riviera"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie gegen 17:00 Uhr mit Blick auf den Ozean, um den frühen Wintersonnenuntergang direkt aus dem Auto zu sehen.",
+                "hu": "Parkolj le az óceán felé fordulva 17:00 körül, hogy a látványos, korai téli naplementét közvetlenül az autóból nézd meg.",
+                "ro": "Parcați cu fața la ocean în jurul orei 17:00 pentru a urmări apusul devreme direct din interiorul confortabil al mașinii.",
+                "en": "Park facing the ocean around 17:00 to watch a spectacular, early winter sunset directly from the cozy interior of your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot egy békés látogatással a Chiesa di Sant'Antonio-ban, majd induljon a Settore 1 homokos partjára egy reggeli sétára és egy frissítő csobbanásra. Délben folytassa útját a gyönyörű tengerparton a Settore 2 és Pineda A felé, élvezve a meleg napsütést és a parti fenyők árnyékát. Délután a séta a Seven Beach-hez vezet, ahol megtapasztalhatja az élénk strandklub hangulatát. Zárja a gyalogos túrát a szabadtéri színházban, egy bájos, természettel körülvett kulturális helyszínen.",
         "ro": "Începeți ziua cu o vizită liniștită la Chiesa di Sant'Antonio, înainte de a vă îndrepta spre nisipurile de la Settore 1 pentru o plimbare de dimineață. La prânz, continuați de-a lungul coastei spre Settore 2 și Pineda A, bucurându-vă de soarele cald și de umbra pinilor. După-amiaza, plimbarea vă duce la Seven Beach, unde puteți experimenta atmosfera plină de viață a clubului. Încheiați-vă turul la teatrul în aer liber, un loc cultural fermecător înconjurat de natură.",
         "en": "Start your day with a peaceful visit to Chiesa di Sant'Antonio, before heading to the pristine sands of Settore 1 for a morning stroll and refreshing dip. Midday brings you along the beautiful Bibione Pineda coastline to Settore 2 and Pineda A, taking time to enjoy the warm sun and the shade of coastal pine trees. Your afternoon leads to Seven Beach to experience the lively beach club atmosphere. Conclude your tour at the open-air theatre, a charming cultural spot perfectly surrounded by nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt besinnlich in der Kirche, die Schutz vor dem Nieselregen bietet. Mittags führt der Weg entlang der Dünen, wo die Brandung bei Regen besonders imposant wirkt. Am Nachmittag intensiviert sich der Duft der Pinienwälder in der feuchten Luft. Der Abend klingt bei einem Spaziergang aus, während sich die Lichter der Promenade malerisch in den Pfützen spiegeln.",
+            "hu": "Reggel a csendes templom nyújt menedéket a szemerkélő eső elől. Délben a dűnék menti sétányon a tenger morajlása dominál a szürke égbolt alatt. Délután a fenyvesek illata felerősödik a párás, friss levegőben. Este a kikötő közeli fények tükröződnek a vizes aszfalton, különleges hangulatot árasztva a kihalt utcákon.",
+            "ro": "Dimineața începe liniștit în biserică, oferind adăpost împotriva burniței ușoare. La prânz, faleza de lângă dune oferă o priveliște sălbatică asupra mării sub cerul plumburiu. După-amiaza este pentru a respira mirosul pinilor, care devine mai intens în aerul umed. Seara se încheie cu o plimbare printre reflexiile luminilor în bălțile de pe asfaltul lucios.",
+            "en": "Morning starts with a peaceful visit to the church, shielding you from the drizzle. At noon, the beach promenade offers a raw, powerful view of the Adriatic under grey skies. Afternoon is for inhaling the scent of pine needles, which intensifies in the humid air. Evening concludes with a misty walk as the streetlights shimmer beautifully on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die modernen Fresken im trockenen Innenraum, während der Regen gegen die Fenster trommelt; ein Schirm am Eingang ist hier unverzichtbar.",
+                "hu": "Csodáld meg a modern freskókat a száraz belső térben, miközben az eső kopog a tetőn; a bejáratnál érdemes alaposan lerázni az esernyőket.",
+                "ro": "Admirați frescele moderne în interiorul uscat în timp ce ploaia bate în ferestre; o umbrelă la intrare este absolut necesară aici.",
+                "en": "Admire the modern frescoes in the dry interior while rain drums on the roof; shaking off your umbrella at the entrance is a polite must."
+              }
+            },
+            {
+              "name": {
+                "de": "Settore 1",
+                "hu": "Settore 1",
+                "ro": "Settore 1",
+                "en": "Settore 1"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Sand ist fester und ideal zum Laufen, aber meiden Sie die hölzernen Stege, da diese bei Nässe extrem rutschig werden können.",
+                "hu": "A vizes homok keményebb és könnyebben járható, de kerüld a fa pallókat, mert az esőtől rendkívül csúszóssá és veszélyessé válnak.",
+                "ro": "Nisipul umed este mai compact și ideal pentru mers, dar evitați punțile de lemn, deoarece devin extrem de alunecoase când sunt ude.",
+                "en": "The wet sand is firmer and easier to walk on, but avoid the wooden walkways as they become extremely slippery and hazardous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Settore 2",
+                "hu": "Settore 2",
+                "ro": "Settore 2",
+                "en": "Settore 2"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Schönheit des Meeres von einem überdachten Aussichtspunkt aus; wasserfestes Schuhwerk schützt Sie vor tiefen Pfützen.",
+                "hu": "Élvezd a tenger vad szépségét egy fedett kilátópontról; a vízhatlan lábbeli elengedhetetlen a dűnék közötti mélyebb pocsolyák ellen.",
+                "ro": "Bucurați-vă de frumusețea sălbatică a mării de la un punct de observare acoperit; încălțămintea impermeabilă vă protejează de bălțile adânci.",
+                "en": "Enjoy the raw beauty of the sea from a covered viewpoint; waterproof footwear is essential to navigate the deep puddles between the dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Pineda A",
+                "hu": "Pineda A",
+                "ro": "Pineda A",
+                "en": "Pineda A"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen auf die Meeresoberfläche trifft – ein meditativer Anblick; halten Sie sich wegen der Gischt vom Wellenbrecher fern.",
+                "hu": "Figyeld meg, ahogy az esőcseppek táncolnak a tenger felszínén – meditatív látvány; a kicsapó hullámok miatt maradj távol a hullámtörőktől.",
+                "ro": "Observați cum picăturile de ploaie dansează pe suprafața mării – o vedere meditativă; stați departe de diguri din cauza valurilor care se sparg.",
+                "en": "Watch the raindrops dance on the sea surface – a meditative sight; stay away from the breakwaters due to the unpredictable splashing waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Seven Beach",
+                "hu": "Seven Beach",
+                "ro": "Seven Beach",
+                "en": "Seven Beach"
+              },
+              "tip_5lang": {
+                "de": "Die verlassene Strandbar bietet einen provisorischen Unterstand für eine kurze Pause; eine windfeste Regenjacke ist bei der Meeresbrise Gold wert.",
+                "hu": "A kihalt strand bárja ideiglenes menedéket nyújthat egy rövid pihenőhöz; egy szélálló esőkabát aranyat ér az erősödő tengeri szélben.",
+                "ro": "Barul de pe plaja pustie poate oferi un adăpost temporar pentru o scurtă pauză; o jachetă de ploaie rezistentă la vânt este esențială aici.",
+                "en": "The deserted beach bar can provide temporary shelter for a quick break; a windproof raincoat is worth its weight in gold in the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre open air",
+                "hu": "Theatre open air",
+                "ro": "Theatre open air",
+                "en": "Theatre open air"
+              },
+              "tip_5lang": {
+                "de": "Die monumentale Struktur wirkt im Regen fast mystisch; suchen Sie Schutz unter den Tribünenvorsprüngen, um die Szenerie trocken zu genießen.",
+                "hu": "A monumentális építmény az esőben szinte misztikus látványt nyújt; keress menedéket a lelátók alatti részeken, hogy szárazon pihenhess meg.",
+                "ro": "Structura monumentală oferă o vedere aproape mistică în ploaie; căutați adăpost sub tribune pentru a vă bucura de peisaj fără a vă uda.",
+                "en": "The monumental structure looks almost mystical in the rain; seek shelter under the grandstand overhangs to enjoy the scenery while staying dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen weckt Sie die klare, frostige Meeresluft auf dem Weg zur Kirche. Mittags laden die sonnengeschützten Bereiche der Dünen dazu ein, die schwache, aber wärmende Wintersonne zu genießen. Da es gegen 17:00 Uhr dunkel wird, färbt der Sonnenuntergang den Himmel früh in Pastelltöne. Der Abend endet in der wohligen Wärme einer der wenigen geöffneten Lokalitäten.",
+            "hu": "Reggel a friss, fagyos tengerparti levegő ébreszt fel a templom felé menet. Délben a dűnék szélvédett mélyedéseiben élvezhetjük a gyenge, de melengető téli napsütést. Mivel 17 óra körül sötétedik, a naplemente korán pasztellszínekbe öltözteti a horizontot. Az este a csendes üdülőhely békéjében és egy meleg ital mellett ér véget.",
+            "ro": "Dimineața, aerul curat și înghețat de la malul mării vă trezește în drum spre biserică. La prânz, zonele ferite de vânt ale dunelor vă permit să vă bucurați de soarele slab de iarnă. Deoarece se întunecă în jurul orei 17:00, apusul colorează cerul devreme în nuanțe pastelate. Seara se încheie în liniștea stațiunii și cu o băutură caldă.",
+            "en": "In the morning, the crisp, frosty sea air wakes you up on your way to the church. At noon, the sheltered hollows of the dunes invite you to enjoy the weak but warming winter sun. As it gets dark around 17:00, the sunset paints the horizon in early pastel tones. The evening ends in the peace of the quiet resort with a warm drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; tragen Sie dennoch mehrere Schichten Kleidung, um den Temperaturunterschied bequem zu überbrücken.",
+                "hu": "A templom vastag falai távol tartják a fagyos szelet; öltözz rétegesen, hogy kényelmesen bírd a benti és kinti hőmérséklet-különbséget.",
+                "ro": "Zidurile groase ale bisericii țin la distanță vântul înghețat; îmbrăcați-vă în straturi pentru a suporta diferența de temperatură interior-exterior.",
+                "en": "The thick walls of the church keep the freezing wind out; dress in layers to comfortably manage the temperature difference between inside and out."
+              }
+            },
+            {
+              "name": {
+                "de": "Settore 1",
+                "hu": "Settore 1",
+                "ro": "Settore 1",
+                "en": "Settore 1"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und spiegelt sich herrlich im nassen Sand; eine Sonnenbrille ist wegen der starken Reflexionen auch im Winter ratsam.",
+                "hu": "A téli nap alacsonyan jár és csodásan tükröződik a nedves homokon; a szemkápráztató reflexiók miatt ilyenkor is ajánlott a napszemüveg.",
+                "ro": "Soarele de iarnă este jos și se reflectă superb pe nisipul umed; ochelarii de soare sunt recomandați din cauza reflexiilor orbitoare chiar și acum.",
+                "en": "The winter sun is low and reflects beautifully on the wet sand; sunglasses are recommended even now due to the dazzling glare from the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Settore 2",
+                "hu": "Settore 2",
+                "ro": "Settore 2",
+                "en": "Settore 2"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Vögel, die den menschenleeren Strand im Winter zurückerobern; Handschuhe sind für das Halten des Fernglases hier sehr wichtig.",
+                "hu": "Figyeld meg a madarakat, amik télen visszafoglalják a néptelen partot; a távcső használatához vagy fotózáshoz vigyél magaddal meleg kesztyűt.",
+                "ro": "Observați păsările care recuceresc plaja pustie în timpul iernii; mănușile sunt foarte importante aici dacă doriți să folosiți binoclul sau camera.",
+                "en": "Observe the birds reclaiming the deserted beach in winter; warm gloves are essential here if you plan to use binoculars or take photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Pineda A",
+                "hu": "Pineda A",
+                "ro": "Pineda A",
+                "en": "Pineda A"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann hier besonders beißend sein; schützen Sie Ihr Gesicht mit einem Schal, während Sie die unendliche Weite des Meeres betrachten.",
+                "hu": "A szél itt különösen metsző lehet; védd az arcodat sállal, miközben a tenger végtelen horizontját és a jeges habokat csodálod a parton.",
+                "ro": "Vântul poate fi deosebit de tăios aici; protejați-vă fața cu un fular în timp ce admirați orizontul infinit al mării și spuma înghețată.",
+                "en": "The wind can be particularly biting here; protect your face with a scarf while admiring the infinite horizon and the icy sea spray on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Seven Beach",
+                "hu": "Seven Beach",
+                "ro": "Seven Beach",
+                "en": "Seven Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Einsamkeit des Winters verleiht diesem Ort eine magische Ruhe; bewegen Sie sich zügig, um die Körperwärme trotz der Brise aufrechtzuerhalten.",
+                "hu": "A tél magányos csendje mágikus nyugalmat áraszt ezen a helyen; sétálj ütemesen, hogy testhőmérsékletedet a hideg tengeri fuvallat ellenére is megőrizd.",
+                "ro": "Liniștea solitară a iernii oferă o calmare magică acestui loc; mergeți într-un ritm susținut pentru a vă menține căldura corporală contra brizei.",
+                "en": "The solitary silence of winter gives this place a magical calm; walk at a steady pace to maintain your body heat against the cold sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre open air",
+                "hu": "Theatre open air",
+                "ro": "Theatre open air",
+                "en": "Theatre open air"
+              },
+              "tip_5lang": {
+                "de": "Gegen 17:00 Uhr sinkt die Temperatur rapide ab; planen Sie, diesen Ort kurz vor dem Einbruch der Dunkelheit für einen stimmungsvollen Anblick zu besuchen.",
+                "hu": "17 óra körül a hőmérséklet hirtelen zuhanni kezd; látogass el ide közvetlenül sötétedés előtt, hogy lásd az utolsó fények játékát a falakon.",
+                "ro": "În jurul orei 17:00 temperatura scade brusc; vizitați acest loc chiar înainte de lăsarea întunericului pentru a vedea jocul ultimelor lumini pe ziduri.",
+                "en": "Around 17:00 the temperature drops sharply; visit this spot just before dusk to see the last light playing on the structures before heading back."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpáros kalandja a keleti oldalon, a Chiesa Santi Pietro e Paolo-nál kezdődik, amelyet egy aktív strandolás követ a Settore Vivaldin. Délben tekerjen el a Teatro mellett a Pineda szívében található békés Chiesa di Sant'Antonio felé. Délután guruljon le a Settore 1-hez, hogy élvezze a tengerparti kilátást és a pihenést a napon. Zárja a biciklitúrát egy hosszabb tartózkodással a híres Seven Beach-en, élvezve a tengeri szellőt, ahogy a nap lassan estébe hajlik.",
         "ro": "Aventura pe bicicletă începe în est, la Chiesa Santi Pietro e Paolo, urmată de o oprire activă la Settore Vivaldi. La prânz treceți pe lângă Teatro spre liniștita Chiesa di Sant'Antonio din inima Pinedei. După-amiaza, pedalați spre Settore 1 pentru vederi spectaculoase și relaxare sub soare. Încheiați turul pe bicicletă cu o ședere prelungită la faimoasa Seven Beach, bucurându-vă de briza mării în timp ce ziua se transformă blând în seară.",
         "en": "Your cycling adventure starts on the eastern side at Chiesa Santi Pietro e Paolo, followed by an active beach stop at Settore Vivaldi. Midday brings you past the indoor Teatro toward the tranquil Chiesa di Sant'Antonio in the heart of Pineda. In the afternoon, pedal down to Settore 1 for more spectacular seaside views and relaxation under the sun. Wrap up your bike tour with an extended stay at the famous Seven Beach, enjoying the sea breeze as the day gently turns into evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad erfordert Vorsicht auf nassem Asphalt zur Kirche. Mittags bietet die Fahrt durch den Pinienhain natürlichen Schutz vor leichtem Regen. Am Nachmittag intensiviert sich die Meeresbrise, was die Fahrt entlang der Küste sportlich macht. Der Abend endet nach dem Abstellen des Rads im Trockenen bei einer heißen Tasse Tee.",
+            "hu": "A reggeli kerékpározás óvatosságot igényel a vizes aszfalton a templom felé. Délben a fenyveseken átvezető utak természetes védelmet nyújtanak az enyhe eső ellen. Délután a tengeri szél felerősödik, ami sportossá teszi a parti tekerést. Az este a bicikli száraz helyre tétele után, egy forró tea mellett a legkellemesebb.",
+            "ro": "Dimineața pe bicicletă necesită prudență pe asfaltul umed spre biserică. La prânz, drumurile prin pădurea de pini oferă protecție naturală împotriva ploii ușoare. După-amiaza, briza mării se intensifică, făcând plimbarea pe coastă destul de sportivă. Seara se încheie cel mai bine cu un ceai fierbinte după ce ați parcat bicicleta la loc uscat.",
+            "en": "A morning bike ride requires caution on wet asphalt while heading to the church. At noon, paths through the pine groves offer natural protection from light rain. In the afternoon, the sea breeze picks up, making the coastal ride quite a workout. The evening is best enjoyed with a hot tea after parking your bike in a dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa Santi Pietro e Paolo",
+                "hu": "Chiesa Santi Pietro e Paolo",
+                "ro": "Chiesa Santi Pietro e Paolo",
+                "en": "Chiesa Santi Pietro e Paolo"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab, um den Sattel trocken zu halten; nutzen Sie die Zeit drinnen für eine besinnliche Pause vom Regen.",
+                "hu": "Tedd a biciklit az előtető alá, hogy a nyereg száraz maradjon; használd ki a benti időt egy rövid, esőmentes pihenőre és elmélyülésre.",
+                "ro": "Parcați bicicleta sub streașină pentru a păstra șaua uscată; folosiți timpul petrecut în interior pentru o pauză liniștită, ferită de ploaie.",
+                "en": "Park your bike under the overhang to keep the saddle dry; use the time inside for a peaceful break from the rain and some quiet reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio Spiaggia 36 - Settore Vivaldi",
+                "hu": "Ufficio Spiaggia 36 - Settore Vivaldi",
+                "ro": "Ufficio Spiaggia 36 - Settore Vivaldi",
+                "en": "Ufficio Spiaggia 36 - Settore Vivaldi"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf dem befestigten Weg besonders langsam, da Sand und Regen eine rutschige Schicht bilden; Schutzbleche sind heute Ihr bester Freund.",
+                "hu": "A kiépített úton haladj lassan, mert a homok és az eső csúszós réteget alkot; a sárvédő ma a legjobb barátod lesz a vizes szakaszon.",
+                "ro": "Mergeți încet pe drumul pavat, deoarece nisipul și ploaia formează un strat alunecos; aripile bicicletei sunt cel mai bun prieten al tău astăzi.",
+                "en": "Ride slowly on the paved path as sand and rain create a slippery layer; mudguards will be your best friend on this wet coastal stretch today."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro",
+                "hu": "Teatro",
+                "ro": "Teatro",
+                "en": "Teatro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich für einen kurzen Check Ihrer Bremsen; nasse Felgen brauchen einen längeren Bremsweg als gewohnt.",
+                "hu": "Használd a fedett bejáratot a fékek gyors ellenőrzésére; a vizes felniken a fékút jelentősen meghosszabbodik, tarts nagyobb követési távolságot.",
+                "ro": "Folosiți intrarea acoperită pentru o verificare rapidă a frânelor; jantele umede necesită o distanță de frânare mult mai lungă decât de obicei.",
+                "en": "Use the covered entrance area for a quick brake check; wet rims require a much longer braking distance than usual, so keep extra distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Auf- und Absteigen auf nassem Untergrund; die bunten Glasfenster wirken bei grauem Regenwetter besonders leuchtend im Kontrast.",
+                "hu": "Vigyázz a fel- és leszállásnál a vizes talajon; a színes üvegablakok a szürke esőben különösen élénken világítanak a templom sötétjében.",
+                "ro": "Atenție la urcarea și coborârea de pe bicicletă pe solul umed; vitraliile colorate strălucesc deosebit de intens în contrast cu ploaia gri.",
+                "en": "Be careful when mounting or dismounting on wet ground; the colorful stained glass windows glow intensely in contrast to the grey rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Settore 1",
+                "hu": "Settore 1",
+                "ro": "Settore 1",
+                "en": "Settore 1"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie tiefere Pfützen, da diese oft Schlaglöcher verbergen; die salzige Regenluft ist trotz der Nässe sehr erfrischend für die Atemwege.",
+                "hu": "Kerüld a mélyebb pocsolyákat, mert kátyúkat rejthetnek; a sós, esős levegő a nedvesség ellenére is nagyon frissítő a légutak számára.",
+                "ro": "Evitați bălțile adânci, deoarece pot ascunde gropi; aerul sărat și ploios este foarte răcoritor pentru căile respiratorii în ciuda umidității.",
+                "en": "Avoid deeper puddles as they might hide potholes; the salty rainy air is very refreshing for your respiratory system despite the dampness."
+              }
+            },
+            {
+              "name": {
+                "de": "Seven Beach",
+                "hu": "Seven Beach",
+                "ro": "Seven Beach",
+                "en": "Seven Beach"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an einem stabilen Pfosten, da der Wind an der Küste stark wehen kann; trocknen Sie die Kette nach der Rückkehr unbedingt ab.",
+                "hu": "Zárd a biciklit stabil oszlophoz, mert a parti szél könnyen felboríthatja; hazatérés után ne felejtsd el áttörölni és megolajozni a láncot.",
+                "ro": "Asigurați bicicleta de un stâlp stabil, deoarece vântul de pe coastă o poate răsturna; după întoarcere, nu uitați să ștergeți și să ungeți lanțul.",
+                "en": "Lock your bike to a stable post as the coastal wind can easily tip it over; after returning, make sure to wipe down and oil the chain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen auf dem Rad beginnt frisch mit eiskalter Brise im Gesicht. Mittags wärmt die Sonne beim Radeln durch die ruhigen, fast menschenleeren Straßen von Pineda. Da es ab 17:00 Uhr dunkel wird, sollten Sie die Beleuchtung Ihres Rads vorab prüfen. Der Abend wird gemütlich, sobald Sie nach der Tour wieder im Warmen sind.",
+            "hu": "A téli reggel a kerékpáron frissen indul, jeges fuvallattal az arcodon. Délben a nap melenget, miközben Pineda csendes, szinte néptelen utcáin tekersz. Mivel 17 óra után gyorsan sötétedik, ellenőrizd a lámpákat az indulás előtt. Az este akkor lesz igazán kellemes, ha a túra után végre a fűtött szobába érsz.",
+            "ro": "O dimineață de iarnă pe bicicletă începe proaspăt, cu o briză înghețată pe față. La prânz, soarele te încălzește în timp ce pedalezi pe străzile liniștite din Pineda. Deoarece se întunecă rapid după ora 17:00, verificați luminile înainte de plecare. Seara devine plăcută imediat ce ajungi la căldură după tură.",
+            "en": "A winter morning on the bike starts fresh with an icy breeze on your face. At noon, the sun warms you as you cycle through the quiet, almost deserted streets of Pineda. Since it gets dark quickly after 17:00, check your lights before starting. The evening becomes cozy once you are back in the warmth after the tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa Santi Pietro e Paolo",
+                "hu": "Chiesa Santi Pietro e Paolo",
+                "ro": "Chiesa Santi Pietro e Paolo",
+                "en": "Chiesa Santi Pietro e Paolo"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da die Hände am Lenker schnell auskühlen; der Besuch der Kirche bietet eine willkommene Aufwärmpause.",
+                "hu": "Viselj meleg kesztyűt, mert a kormányt fogva a kezeid gyorsan lehűlnek; a templomlátogatás kiváló alkalom egy rövid átmelegedésre.",
+                "ro": "Purtați mănuși groase, deoarece mâinile pe ghidon îngheață rapid; vizitarea bisericii oferă o pauză binemeritată pentru a vă încălzi puțin.",
+                "en": "Wear warm gloves as your hands on the handlebars will cool down quickly; visiting the church provides a welcome break to warm up a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio Spiaggia 36 - Settore Vivaldi",
+                "hu": "Ufficio Spiaggia 36 - Settore Vivaldi",
+                "ro": "Ufficio Spiaggia 36 - Settore Vivaldi",
+                "en": "Ufficio Spiaggia 36 - Settore Vivaldi"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Seeluft ist sehr klar, was eine weite Sicht ermöglicht; achten Sie auf Raureif auf dem Boden, der die Wege rutschig machen kann.",
+                "hu": "A hideg tengeri levegő nagyon tiszta, így messzire ellátni; vigyázz a hajnali zúzmarára az úton, ami váratlanul csúszóssá teheti a kanyarokat.",
+                "ro": "Aerul rece al mării este foarte curat, permițând o vizibilitate mare; atenție la chiciura de pe jos care poate face drumurile alunecoase.",
+                "en": "The cold sea air is very clear, allowing for great visibility; watch out for frost on the ground, which can make the paths unexpectedly slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro",
+                "hu": "Teatro",
+                "ro": "Teatro",
+                "en": "Teatro"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Bühne; halten Sie hier nur kurz an, um nicht durch den kalten Wind auszukühlen.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a színpadra; csak rövid időre állj meg, nehogy a hideg szélben túlságosan lehűljön a tested.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi pe scenă; opriți-vă aici doar pentru scurt timp, pentru a nu vă răci prea tare din cauza vântului rece.",
+                "en": "The low winter sun casts long shadows on the stage area; stop here only briefly so you don't get too chilled by the constant cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie den Windschatten des Gebäudes für eine kurze Trinkpause; warme Getränke in einer Thermoskanne sind bei dieser Tour ideal.",
+                "hu": "Keress szélvédett helyet az épület tövében egy rövid ivószünethez; egy termoszban vitt meleg ital ilyenkor igazi életmentő lehet a túra alatt.",
+                "ro": "Căutați un loc ferit de vânt lângă clădire pentru o scurtă pauză de hidratare; băuturile calde într-un termos sunt ideale pentru această tură.",
+                "en": "Look for a wind-sheltered spot by the building for a quick drink break; warm drinks in a thermos are a lifesaver during this winter tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Settore 1",
+                "hu": "Settore 1",
+                "ro": "Settore 1",
+                "en": "Settore 1"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den fast menschenleeren Strand aus der Ferne vom Radweg aus; die kalte Brise erfordert hier einen guten Ohrenschutz oder eine Mütze.",
+                "hu": "Élvezd a néptelen strand látványát a kerékpárútról; a hideg menetszél miatt szükséged lesz egy jó fülvédőre vagy egy meleg sapkára a sisak alá.",
+                "ro": "Bucurați-vă de plaja aproape pustie de pe pista de biciclete; briza rece necesită o protecție bună pentru urechi sau o căciulă sub cască.",
+                "en": "Enjoy the view of the deserted beach from the bike path; the cold wind requires good ear protection or a warm beanie under your helmet."
+              }
+            },
+            {
+              "name": {
+                "de": "Seven Beach",
+                "hu": "Seven Beach",
+                "ro": "Seven Beach",
+                "en": "Seven Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang gegen 17:00 Uhr ist von hier aus spektakulär; stellen Sie sicher, dass Ihre Rückfahrt im Hellen oder mit gutem Licht erfolgt.",
+                "hu": "A naplemente 17 óra körül innen nézve lenyűgöző; ügyelj rá, hogy a visszaút még világosban, vagy megfelelően erős világítással történjen.",
+                "ro": "Apusul în jurul orei 17:00 este spectaculos de aici; asigurați-vă că drumul de întoarcere se face pe lumină sau cu o iluminare adecvată.",
+                "en": "The sunset around 17:00 is spectacular from here; make sure your return journey is done while it's still light or with adequate bike lighting."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje autós útját a szabadtéri színháznál, magába szívva a zöld környezet reggeli nyugalmát, mielőtt a Seven Beach-hez hajtana. Délben parkoljon le a Chiesa di Sant'Antonio közelében, hogy felfedezze modern építészetét, majd vezessen keletre a Teatro-hoz. Délután látogasson el a Chiesa Santi Pietro e Paolo-hoz, amely csak egy rövid autóútra van. Motoros napja a Settore Vivaldinál ér véget, ahol kikapcsolódhat a homokon és élvezheti az esti tengerparti hangulatot.",
         "ro": "Începeți călătoria cu mașina la teatrul în aer liber, absorbind liniștea dimineții înainte de a conduce la Seven Beach. La prânz, parcați lângă Chiesa di Sant'Antonio pentru arhitectura modernă, apoi mergeți spre Teatro. După-amiaza, vizitați Chiesa Santi Pietro e Paolo, o biserică primitoare la doar o scurtă plimbare cu mașina. Ziua motorizată se încheie la Settore Vivaldi, unde vă puteți relaxa pe nisip și vă puteți bucura de ambianța de coastă a serii.",
         "en": "Kick off your road trip in Pineda at the open-air theatre, soaking in the morning tranquility of its green surroundings before driving down to Seven Beach. By midday, park near Chiesa di Sant'Antonio to explore its modern architecture, then drive east to the prominent Teatro. In the afternoon, visit Chiesa Santi Pietro e Paolo, a welcoming parish church just a short drive away. Your motorized day concludes at Settore Vivaldi, where you can unwind on the sand and enjoy the evening coastal ambiance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt entspannt, da Sie im Auto trocken zum Freilufttheater gelangen. Mittags ermöglicht das Fahrzeug einen schnellen Wechsel zwischen den Sehenswürdigkeiten, ohne nass zu werden. Am Nachmittag genießen Sie die Aussicht auf die stürmische See aus dem warmen Innenraum. Der Abend klingt gemütlich aus, während die Regentropfen gegen das Autodach trommeln.",
+            "hu": "A reggel kényelmesen indul, hiszen az autóban szárazon érheted el a szabadtéri színházat. Délben a jármű lehetővé teszi a gyors váltást a látnivalók között anélkül, hogy megáznál. Délután a viharos tenger látványát a meleg utastérből is élvezheted a parton parkolva. Az este békésen zárul, miközben az eső dobol a tetőn.",
+            "ro": "Dimineața începe relaxat, deoarece mașina vă permite să ajungeți uscat la teatrul în aer liber. La prânz, vehiculul facilitează deplasarea rapidă între obiective fără a vă uda. După-amiaza, puteți admira marea înfuriată din confortul interiorului cald al mașinii. Seara se încheie plăcut, ascultând ploaia care bate în plafonul mașinii.",
+            "en": "The morning starts relaxed as the car keeps you dry on your way to the open-air theatre. At noon, the vehicle allows for quick hops between sights without getting soaked. In the afternoon, enjoy the view of the stormy sea from the warm interior while parked near the shore. The evening ends peacefully with rain drumming on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Theatre open air",
+                "hu": "Theatre open air",
+                "ro": "Theatre open air",
+                "en": "Theatre open air"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen Weg im Regen zu minimieren; die Architektur wirkt bei grauem Himmel besonders massiv.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz, hogy minimalizáld az esőben töltött időt; az építmény a szürke égbolt alatt különösen monumentális.",
+                "ro": "Parcați cât mai aproape de intrare pentru a minimiza timpul petrecut în ploaie; arhitectura pare deosebit de masivă sub cerul plumburiu.",
+                "en": "Park as close to the entrance as possible to minimize time spent in the rain; the structure looks particularly massive under the heavy grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Seven Beach",
+                "hu": "Seven Beach",
+                "ro": "Seven Beach",
+                "en": "Seven Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den menschenleeren Strand durch die Frontscheibe; nutzen Sie die Klimaanlage gegen beschlagene Scheiben bei hoher Feuchtigkeit.",
+                "hu": "Élvezd a néptelen tengerpart látványát a szélvédőn keresztül; használd a klímát a párátlanításhoz, mert a nagy nedvesség miatt gyorsan ködösödnek az ablakok.",
+                "ro": "Bucurați-vă de vederea plajei pustii prin parbriz; folosiți aerul condiționat pentru dezaburire, deoarece umiditatea ridicată face geamurile opace.",
+                "en": "Enjoy the view of the deserted beach through your windshield; use the AC to defog the windows as high humidity causes them to cloud up quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Ausparken auf den oft unbefestigten, schlammigen Parkflächen; ein Regenschirm sollte immer griffbereit im Auto liegen.",
+                "hu": "Vigyázz a parkolásnál a sokszor burkolatlan, sáros területeken; az esernyőt tartsd mindig kéznél az ülés mellett, hogy ne ázz el kiszálláskor.",
+                "ro": "Atenție la parcare în zonele neasfaltate care pot deveni noroioase; păstrați umbrela la îndemână lângă scaun pentru a nu vă uda la coborâre.",
+                "en": "Be careful when parking in unpaved areas as they can become muddy; keep an umbrella within reach next to your seat so you don't get wet getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro",
+                "hu": "Teatro",
+                "ro": "Teatro",
+                "en": "Teatro"
+              },
+              "tip_5lang": {
+                "de": "Die Glasfronten des Gebäudes reflektieren die Regentropfen auf dramatische Weise; ideal für stimmungsvolle Fotos direkt aus dem Autofenster heraus.",
+                "hu": "Az épület üvegfelületei drámai módon tükrözik vissza az esőcseppeket; ideális helyszín hangulatos fotók készítéséhez közvetlenül az autó ablakából.",
+                "ro": "Fațadele de sticlă ale clădirii reflectă picăturile de ploaie într-un mod dramatic; loc ideal pentru fotografii de atmosferă direct din geamul mașinii.",
+                "en": "The building's glass facades reflect raindrops in a dramatic way; it's an ideal spot for atmospheric photos taken directly from your car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Santi Pietro e Paolo",
+                "hu": "Chiesa Santi Pietro e Paolo",
+                "ro": "Chiesa Santi Pietro e Paolo",
+                "en": "Chiesa Santi Pietro e Paolo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Portalbereich für einen kurzen Moment der Ruhe; achten Sie auf Fußgänger mit Regenschirmen in der Nähe des Parkplatzes.",
+                "hu": "Használd ki a templom fedett bejárati részét egy rövid, nyugodt pillanatra; vezess óvatosan a parkoló körül az esernyővel közlekedő gyalogosok miatt.",
+                "ro": "Folosiți zona acoperită de la intrarea bisericii pentru un moment de liniște; conduceți cu atenție lângă parcare din cauza pietonilor cu umbrele.",
+                "en": "Use the covered portal area of the church for a brief quiet moment; drive carefully around the parking lot as pedestrians with umbrellas have less visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio Spiaggia 36 - Settore Vivaldi",
+                "hu": "Ufficio Spiaggia 36 - Settore Vivaldi",
+                "ro": "Ufficio Spiaggia 36 - Settore Vivaldi",
+                "en": "Ufficio Spiaggia 36 - Settore Vivaldi"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das stürmische Meer ist aus dem sicheren Auto heraus besonders faszinierend; die salzige Gischt kann einen Film auf der Scheibe hinterlassen.",
+                "hu": "A viharos tenger látványa a biztonságos autóból nézve különösen lenyűgöző; a sós pára vékony réteget hagyhat a szélvédőn, mosd le út közben.",
+                "ro": "Vederea mării înfuriate din siguranța mașinii este deosebit de fascinantă; briza sărată poate lăsa o peliculă pe parbriz, folosiți lichidul de spălare.",
+                "en": "Watching the stormy sea from the safety of your car is fascinating; the salty spray can leave a film on the windshield, so use your washers frequently."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt angenehm warm im Auto auf dem Weg zum Theater. Mittags genießen Sie die menschenleeren Küstenstraßen, die im Winter eine ganz eigene Ruhe ausstrahlen. Da es gegen 17:00 Uhr dunkel wird, können Sie den Sonnenuntergang bequem von einem Parkplatz am Meer aus verfolgen. Der Abend endet in der behaglichen Wärme Ihres Ziels.",
+            "hu": "A téli reggel kellemes melegben indul az autóban a színház felé menet. Délben élvezheted a néptelen parti utakat, amik télen különleges nyugalmat árasztanak a főszezon után. Mivel 17 óra körül sötétedik, a naplementét kényelmesen, egy tengerparti parkolóból is végigkísérheted. Az este a fűtött szálláson zárul.",
+            "ro": "Dimineața de iarnă începe într-o căldură plăcută în mașină în drum spre teatru. La prânz, vă bucurați de drumurile de coastă pustii care emană o liniște aparte în acest sezon. Deoarece se întunecă în jurul orei 17:00, puteți urmări apusul confortabil dintr-o parcare de lângă mare. Seara se încheie la căldură.",
+            "en": "The winter morning starts in pleasant warmth inside your car on the way to the theatre. At noon, enjoy the deserted coastal roads which radiate a unique peace during the off-season. Since it gets dark around 17:00, you can comfortably watch the sunset from a parking spot by the sea. The evening ends in cozy warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Theatre open air",
+                "hu": "Theatre open air",
+                "ro": "Theatre open air",
+                "en": "Theatre open air"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für exzellente Sichtbarkeit der Architektur; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
+                "hu": "A tiszta téli levegő kiváló láthatóságot biztosít az építménynek; ne járasd feleslegesen a motort, miközben a parkolóból gyönyörködsz a látványban.",
+                "ro": "Aerul curat de iarnă asigură o vizibilitate excelentă asupra structurii; nu lăsați motorul pornit inutil în timp ce admirați vederea din parcare.",
+                "en": "The clear winter air provides excellent visibility for the structure; avoid idling your engine unnecessarily while enjoying the view from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Seven Beach",
+                "hu": "Seven Beach",
+                "ro": "Seven Beach",
+                "en": "Seven Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz als perfekten Aussichtspunkt für die winterliche Adria; im Auto bleibt es warm, während draußen der eisige Wind weht.",
+                "hu": "Használd a parkolót tökéletes kilátópontként a téli Adriára; az autóban meleg marad, miközben kint a jeges tengeri szél fúj a néptelen parton.",
+                "ro": "Folosiți parcarea ca punct de observație perfect pentru marea iarna; în mașină rămâne cald în timp ce afară suflă vântul înghețat pe plaja pustie.",
+                "en": "Use the parking lot as a perfect viewpoint for the winter Adriatic; stay warm inside while the freezing sea wind blows across the deserted shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für eine kurze spirituelle Pause in der Stille des Winters; die Parkplätze sind jetzt direkt vor dem Gebäude problemlos verfügbar.",
+                "hu": "Látogasd meg a templomot egy rövid spirituális pihenőre a téli csendben; a parkolóhelyek most közvetlenül az épület előtt is könnyen elérhetőek.",
+                "ro": "Vizitați biserica pentru o scurtă pauză spirituală în liniștea iernii; locurile de parcare sunt acum disponibile chiar în fața clădirii fără probleme.",
+                "en": "Visit the church for a brief spiritual break in the winter silence; parking spots are now easily available right in front of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro",
+                "hu": "Teatro",
+                "ro": "Teatro",
+                "en": "Teatro"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne erzeugt wunderschöne Lichtreflexe auf den Glasfassaden; ideal für Fotos ohne die sonst üblichen Touristenmassen im Bild.",
+                "hu": "Az alacsonyan járó nap csodás fényvisszaverődéseket kelt az üveghomlokzaton; ideális fotózni ilyenkor, mert nincs zavaró tömeg a háttérben.",
+                "ro": "Soarele jos creează reflexii de lumină superbe pe fațadele de sticlă; este momentul ideal pentru fotografii fără mulțimile obișnuite de turiști.",
+                "en": "The low sun creates beautiful light reflections on the glass facades; it's the ideal time for photos without the usual tourist crowds in the background."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Santi Pietro e Paolo",
+                "hu": "Chiesa Santi Pietro e Paolo",
+                "ro": "Chiesa Santi Pietro e Paolo",
+                "en": "Chiesa Santi Pietro e Paolo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Glätte auf schattigen Parkplatzabschnitten; die Kirche bietet einen friedvollen Rückzugsort vor der winterlichen Kälte draußen.",
+                "hu": "Ügyelj az esetleges jegesedésre az árnyékosabb parkolóhelyeken; a templom békés menedéket nyújt a kinti téli hideg és a csípős szél elől.",
+                "ro": "Atenție la posibila gheață în zonele umbrite ale parcării; biserica oferă un refugiu liniștit împotriva frigului de iarnă și a vântului tăios.",
+                "en": "Watch out for potential ice in shaded parking spots; the church offers a peaceful retreat from the winter cold and the biting wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio Spiaggia 36 - Settore Vivaldi",
+                "hu": "Ufficio Spiaggia 36 - Settore Vivaldi",
+                "ro": "Ufficio Spiaggia 36 - Settore Vivaldi",
+                "en": "Ufficio Spiaggia 36 - Settore Vivaldi"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das frühe Dunkelwerden gegen 17:00 Uhr vom warmen Auto aus; die Lichter der Küste wirken in der klaren Winternacht besonders scharf.",
+                "hu": "Figyeld a 17 óra körül beálló korai sötétedést a meleg autóból; a parti fények a tiszta téli éjszakában különösen élesen és szépen látszanak.",
+                "ro": "Urmăriți lăsarea serii în jurul orei 17:00 din mașina caldă; luminile coastei par deosebit de clare și frumoase în noaptea curată de iarnă.",
+                "en": "Watch the early dusk falling around 17:00 from the warmth of your car; the coastal lights look particularly sharp and beautiful in the clear winter air."
+              }
+            }
+          ]
+        }
       }
     }
   }

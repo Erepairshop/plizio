@@ -137,6 +137,168 @@
         "hu": "A cardedui gyalogtúra a központban, a modern Chiesa di San Paolo Apostolo templomnál kezdődik. Ez a kiindulópont összeköti Önt a helyi falusi élet szívével a túra előtt. \n A zord tájon haladva hamarosan eléri a Nuraghe Cardedut, majd a Nuraghe Trunconi maradványait, amelyek felfedik a történelem előtti Szardíniát a látogatók előtt. \n A délután a Nuraghe Arbuhoz tett túrával folytatódik, amely nagyszerű rálátást kínál a terepre. A mediterrán bozótoson átvezető séta békés és történelmileg gazdagító. \n Fejezze be aktív napját az impozáns Nuraghe Musciu falainál. Hatalmas ősi kövei erőteljes lezárást biztosítanak a bronzkori történelemben tett lenyűgöző utazásnak.",
         "ro": "Călătoria dumneavoastră pe jos în Cardedu începe în centru, la moderna Chiesa di San Paolo Apostolo. Acest punct vă conectează la inima vieții locale înainte de a porni. \n Îndreptându-vă spre peisajul accidentat, veți ajunge curând la Nuraghe Cardedu, urmat de resturile de la Nuraghe Trunconi, dezvăluind Sardinia preistorică plină de mister. \n După-amiaza continuă cu o drumeție spre Nuraghe Arbu, oferind o perspectivă excelentă. Plimbarea prin vegetația mediteraneeană este pașnică și îmbogățitoare istoric. \n Încheiați ziua activă la impunătorul Nuraghe Musciu. Pietrele sale masive oferă un final memorabil pentru o imersiune profundă în istoria Epocii Bronzului.",
         "en": "Your walking journey in Cardedu begins in the center at the modern Chiesa di San Paolo Apostolo. This starting point connects you to the heart of local village life before you venture outward. \n Heading into the rugged landscape, you will soon reach the Nuraghe Cardedu, followed closely by the scattered remnants of Nuraghe Trunconi, revealing prehistoric Sardinia. \n The afternoon continues with a trek to Nuraghe Arbu, offering an elevated perspective of the terrain. The walk through the Mediterranean brush is both peaceful and historically enriching. \n Conclude your active day at the imposing Nuraghe Musciu. Its massive ancient stones provide a powerful finale to a deeply immersive journey through Bronze Age history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Tag geschützt in der Chiesa di San Paolo. Der Vormittag führt Sie zu den antiken Nuraghen, deren Steine bei Nässe glänzen, aber Vorsicht auf den Pfaden. Mittags wandern Sie durch die erfrischte, duftende Macchia Sardiniens. Am Nachmittag trotzen Sie dem Wind an den Ruinen. Den Abend lassen Sie gemütlich im Dorf ausklingen, während der Regen auf die Dächer prasselt.",
+            "hu": "Kezdje az esős napot a Chiesa di San Paolo védelmében. Délelőtt az ősi nuraghékhoz vezet az út, ahol a vizes kövek csillognak, de vigyázzon a csúszós ösvényeken. Délben a felfrissült, illatos szárd bozótosban túrázhat. Délután a széllel dacolva fedezze fel a történelmi romokat. Az estét töltse a falu egyik kávézójában, hallgatva az eső kopogását a háztetőkön.",
+            "ro": "Începeți ziua ploioasă sub protecția Chiesa di San Paolo. Dimineața vă poartă spre nuraghii antici, ale căror pietre strălucesc în umezeală, dar atenție pe potecile alunecoase. La prânz, mergeți prin vegetația sardă reîmprospătată. După-amiaza, explorați ruinele istorice în ciuda vântului. Încheiați seara confortabil în sat, ascultând ploaia care cade pe acoperișuri.",
+            "en": "Start your rainy day sheltered in the Chiesa di San Paolo. The morning leads to ancient nuraghi where wet stones glisten, but be careful on the slippery paths. At midday, hike through the refreshed, fragrant Sardinian macchia. In the afternoon, brave the wind to explore the historical ruins. Spend the evening cozying up in the village as rain taps on the roofs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Paolo Apostolo",
+                "hu": "Chiesa di San Paolo Apostolo",
+                "ro": "Chiesa di San Paolo Apostolo",
+                "en": "Chiesa di San Paolo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirche als Unterstand vor dem Regen; bewundern Sie die moderne Innengestaltung und achten Sie auf die rutschige Eingangsstufe.",
+                "hu": "Használja a templomot menedékként az eső elől; csodálja meg a modern belső teret, és ügyeljen a csúszós bejárati lépcsőre.",
+                "ro": "Folosiți biserica drept adăpost împotriva ploii; admirați designul interior modern și aveți grijă la treapta de la intrare care este alunecoasă.",
+                "en": "Use the church as a shelter from the rain; admire the modern interior design and watch out for the slippery entrance step."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Cardedu",
+                "hu": "Nuraghe Cardedu",
+                "ro": "Nuraghe Cardedu",
+                "en": "Nuraghe Cardedu"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Steine wirken im Regen mystisch; nutzen Sie eine wasserfeste Kartenhülle und achten Sie auf festen Tritt auf den matschigen Pfaden.",
+                "hu": "A sötét kövek az esőben misztikusnak tűnnek; használjon vízálló térképtartót, és ügyeljen a stabil léptekre a sáros ösvényeken.",
+                "ro": "Pietrele închise la culoare par mistice în ploaie; folosiți o husă de hartă impermeabilă și aveți grijă la pașii pe potecile noroioase.",
+                "en": "The dark stones look mystical in the rain; use a waterproof map case and ensure stable footing on the muddy paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Trunconi (Remains)",
+                "hu": "Nuraghe Trunconi (Remains)",
+                "ro": "Nuraghe Trunconi (Remains)",
+                "en": "Nuraghe Trunconi (Remains)"
+              },
+              "tip_5lang": {
+                "de": "Diese abgelegene Ruine bietet im Nebel eine dramatische Kulisse; tragen Sie unbedingt wasserfeste Wanderstiefel mit gutem Profil.",
+                "hu": "Ez a távoli rom a ködben drámai látványt nyújt; mindenképpen viseljen vízálló túrabakancsot jó tapadású talppal.",
+                "ro": "Această ruină izolată oferă un cadru dramatic în ceață; purtați neapărat bocanci de munte impermeabili cu talpă aderentă.",
+                "en": "This remote ruin offers a dramatic backdrop in the mist; be sure to wear waterproof hiking boots with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Arbu",
+                "hu": "Nuraghe Arbu",
+                "ro": "Nuraghe Arbu",
+                "en": "Nuraghe Arbu"
+              },
+              "tip_5lang": {
+                "de": "Der Regen intensiviert die Farben der umgebenden Natur; schützen Sie Ihre Kamera mit einer Hülle und bleiben Sie auf den markierten Wegen.",
+                "hu": "Az eső felerősíti a környező természet színeit; védje fényképezőgépét tokkal, és maradjon a kijelölt ösvényeken.",
+                "ro": "Ploaia intensifică culorile naturii înconjurătoare; protejați-vă aparatul foto cu o husă și rămâneți pe potecile marcate.",
+                "en": "The rain intensifies the colors of the surrounding nature; protect your camera with a cover and stay on the marked paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Musciu",
+                "hu": "Nuraghe Musciu",
+                "ro": "Nuraghe Musciu",
+                "en": "Nuraghe Musciu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Stille im Nieselregen; ein Regenschirm ist hier bei Wind unpraktisch, wählen Sie lieber eine gute Regenjacke.",
+                "hu": "Élvezze a békés csendet a szemerkélő esőben; az esernyő itt a szél miatt nem praktikus, válasszon inkább egy jó esőkabátot.",
+                "ro": "Bucurați-vă de liniștea pașnică în ploaia fină; umbrela este nepractică aici din cauza vântului, alegeți mai degrabă o jachetă de ploaie bună.",
+                "en": "Enjoy the peaceful silence in the drizzle; an umbrella is impractical here due to the wind, choose a good rain jacket instead."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Wintermorgenluft empfängt Sie an der Kirche. Vormittags erklimmen Sie die Nuraghen-Hügel; ohne die Sommerhitze ist der Aufstieg angenehm, doch warme Kleidung ist Pflicht. Mittags genießen Sie die klare Sicht über die Ogliastra-Ebene. Da die Sonne gegen 17 Uhr untergeht, besuchen Sie die Ruinen am Nachmittag. Der Abend gehört der Ruhe des winterlichen Cardedu.",
+            "hu": "A hűvös téli reggel a templomnál fogadja. Délelőtt másszon fel a nuraghe-dombokra; a nyári hőség nélkül az út kellemes, de a meleg réteges öltözet kötelező. Délben élvezze a tiszta kilátást az Ogliastra-síkságra. Mivel a nap 17 óra körül nyugszik, a romokat délután látogassa meg. Az estét töltse a téli Cardedu csendes nyugalmában.",
+            "ro": "Aerul răcoros de iarnă vă întâmpină la biserică. Dimineața, urcați dealurile cu nuraghi; fără arșița verii, ascensiunea este plăcută, dar hainele groase sunt obligatorii. La prânz, bucurați-vă de vederea clară peste câmpie. Soarele apune în jurul orei 17, deci vizitați ultimele ruine după-amiaza. Seara aparține liniștii hibernale din Cardedu.",
+            "en": "The cool winter morning air greets you at the church. In the morning, climb the nuraghi hills; without the summer heat, the trek is pleasant, but warm layers are a must. At midday, enjoy the clear views across the Ogliastra plain. Since the sun sets around 5 PM, visit the ruins in the afternoon. Spend the evening in the quiet peace of winter Cardedu."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Paolo Apostolo",
+                "hu": "Chiesa di San Paolo Apostolo",
+                "ro": "Chiesa di San Paolo Apostolo",
+                "en": "Chiesa di San Paolo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Das tiefstehende Sonnenlicht erzeugt im Inneren lange Schatten; besuchen Sie die Kirche früh, um die morgendliche Stille zu erleben.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat vet a belső térben; látogassa meg a templomot korán, hogy átélje a reggeli áhítatot.",
+                "ro": "Lumina soarelui de iarnă creează umbre lungi în interior; vizitați biserica devreme pentru a experimenta liniștea dimineții.",
+                "en": "The low winter sunlight creates long shadows inside; visit the church early to experience the morning stillness."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Cardedu",
+                "hu": "Nuraghe Cardedu",
+                "ro": "Nuraghe Cardedu",
+                "en": "Nuraghe Cardedu"
+              },
+              "tip_5lang": {
+                "de": "Ohne den Sommerdunst ist die Fernsicht spektakulär; tragen Sie eine winddichte Schicht, da es auf dem Hügel recht zugig sein kann.",
+                "hu": "A nyári pára nélkül a távoli kilátás látványos; viseljen szélálló réteget, mert a dombtetőn meglehetősen huzatos lehet az idő.",
+                "ro": "Fără pâcla verii, vizibilitatea la distanță este spectaculoasă; purtați un strat rezistent la vânt, deoarece pe deal poate fi curent.",
+                "en": "Without the summer haze, the distant view is spectacular; wear a windproof layer as it can be quite breezy on the hilltop."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Trunconi (Remains)",
+                "hu": "Nuraghe Trunconi (Remains)",
+                "ro": "Nuraghe Trunconi (Remains)",
+                "en": "Nuraghe Trunconi (Remains)"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Mauerreste wirken im kahleren Winterlicht sehr plastisch; nutzen Sie die Zeit vor 16 Uhr für die besten Fotoaufnahmen.",
+                "hu": "Az ősi falmaradványok a kopárabb téli fényben nagyon plasztikusak; használja ki a 16 óra előtti időt a legjobb fotókhoz.",
+                "ro": "Resturile de ziduri antice par foarte plastice în lumina iernii; profitați de timpul de dinainte de ora 16 pentru cele mai bune fotografii.",
+                "en": "The ancient wall remains look very sculptural in the stark winter light; use the time before 4 PM for the best photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Arbu",
+                "hu": "Nuraghe Arbu",
+                "ro": "Nuraghe Arbu",
+                "en": "Nuraghe Arbu"
+              },
+              "tip_5lang": {
+                "de": "Die Wanderung hierher ist bei den kühlen Temperaturen weniger anstrengend; achten Sie auf die Zeit, um vor der Dämmerung zurück zu sein.",
+                "hu": "Az idevezető túra a hűvös hőmérsékletben kevésbé megterhelő; ügyeljen az időre, hogy még szürkület előtt visszaérjen a faluba.",
+                "ro": "Drumeția până aici este mai puțin obositoare la temperaturi scăzute; aveți grijă la timp pentru a vă întoarce înainte de amurg.",
+                "en": "The hike here is less strenuous in the cool temperatures; keep an eye on the time to return before dusk sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Musciu",
+                "hu": "Nuraghe Musciu",
+                "ro": "Nuraghe Musciu",
+                "en": "Nuraghe Musciu"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang über den Bergen; da es nach 17 Uhr schnell abkühlt, sollten Sie eine Thermoskanne mit Tee dabei haben.",
+                "hu": "Nézze meg a naplementét a hegyek felett; mivel 17 óra után gyorsan lehűl az idő, érdemes egy termosz forró teát magával hoznia.",
+                "ro": "Urmăriți apusul soarelui peste munți; deoarece se răcește rapid după ora 17, ar trebui să aveți la voi un termos cu ceai fierbinte.",
+                "en": "Watch the sunset over the mountains; as it cools down quickly after 5 PM, you should have a thermos of hot tea with you."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a Chiesa di San Paolo Apostolo templomnál, és élvezze Cardedu csendes reggeli hangulatát, mielőtt a vidéki ösvények felé veszi az irányt. \n Egy rövid út elviszi a Nuraghe Cardeduhoz és a sa Perda 'e s'Obiga romjaihoz. A kerékpáros tempó tökéletes a faluból az ősi vadonba való átmenet értékeléséhez. \n Délután tekerjen tovább a Nuraghe Murcu és Trunconi felfedezéséhez. A vidéki kilátás tökéletesen kiegészíti a napsütötte szardíniai tájat tarkító rejtélyes romokat. \n Az útvonal a Nuraghe Arbunál ér véget. Parkolja le kerékpárját, és élvezze a megalitikus köveket érő késő délutáni fényt, lezárva ezt a fantasztikus napot.",
         "ro": "Începeți turul cu bicicleta la Chiesa di San Paolo Apostolo, bucurându-vă de atmosfera liniștită a dimineții înainte de a pedala pe traseele rurale fermecătoare. \n O scurtă plimbare vă aduce la Nuraghe Cardedu și la ruinele sa Perda 'e s'Obiga. Ritmul este perfect pentru a aprecia tranziția de la sat la sălbăticia antică. \n După amiază, pedalați mai departe pentru a explora Nuraghe Murcu și Trunconi. Priveliștile completează perfect ruinele enigmatice care presară peisajul sardinian. \n Traseul se încheie la Nuraghe Arbu. Parcați bicicleta și bucurați-vă de lumina după-amiezii târzii pe pietrele megalitice, încheind o zi fantastică de istorie.",
         "en": "Kick off your cycling tour at the Chiesa di San Paolo Apostolo, soaking in the quiet morning atmosphere of Cardedu's town square before pedaling out to the rural trails. \n A short ride brings you to Nuraghe Cardedu and the ruins of sa Perda 'e s'Obiga. The gentle cycling pace is perfect for appreciating the subtle transitions from village to ancient wilderness. \n After midday, pedal onward to explore Nuraghe Murcu and Trunconi. The sweeping rural views perfectly complement the enigmatic ruins dotting the sun-drenched Sardinian landscape. \n The route wraps up at Nuraghe Arbu. Park your bike and enjoy the late afternoon light hitting the megalithic stones, concluding a fantastic day of history and cycling."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig durch den sardischen Regen. Der Vormittag führt über glitschige Asphaltstraßen zur Kirche und den ersten Nuraghen. Mittags bietet die feuchte Landschaft dramatische Fotomotive, doch bremsen Sie frühzeitig. Nachmittags fordern die Anstiege Kraft; halten Sie unter Bäumen kurz inne. Den Abend verbringen Sie trocken im Hotel bei der Wartung Ihrer Ausrüstung.",
+            "hu": "Tekerjen óvatosan a szárd esőben. A délelőtt csúszós aszfalton vezet a templomhoz és az első nuraghékhoz. Délben a párás táj drámai fotótémákat kínál, de a kanyarokban fékezzen időben. Délután az emelkedők erőt igényelnek; tartson rövid szünetet a fák alatt. Az estét töltse száraz helyen, miközben felkészíti felszerelését a következő napra.",
+            "ro": "Pedalați cu atenție prin ploaia sardă. Dimineața vă poartă pe asfaltul alunecos spre biserică și primii nuraghi. La prânz, peisajul umed oferă cadre dramatice, dar frânați din timp în curbe. După-amiaza, urcușurile necesită efort; faceți scurte pauze sub copaci. Seara, relaxați-vă la adăpost în timp ce vă pregătiți echipamentul pentru mâine.",
+            "en": "Cycle carefully through the Sardinian rain. The morning takes you over slippery asphalt roads to the church and the first nuraghi. At midday, the damp landscape offers dramatic photo ops, but brake early in curves. In the afternoon, the climbs require extra effort; take short breaks under trees. Spend the evening dry indoors while maintaining your gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Paolo Apostolo",
+                "hu": "Chiesa di San Paolo Apostolo",
+                "ro": "Chiesa di San Paolo Apostolo",
+                "en": "Chiesa di San Paolo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Vordach und prüfen Sie Ihre Bremsen; der nasse Asphalt im Ort erfordert eine vorausschauende Fahrweise.",
+                "hu": "Keressen menedéket az előtető alatt, és ellenőrizze a fékeit; a vizes aszfalt a faluban előrelátó vezetési stílust igényel.",
+                "ro": "Căutați adăpost sub streașină și verificați-vă frânele; asfaltul umed din localitate necesită un stil de condus preventiv.",
+                "en": "Seek shelter under the overhang and check your brakes; the wet asphalt in town requires a proactive riding style."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Cardedu",
+                "hu": "Nuraghe Cardedu",
+                "ro": "Nuraghe Cardedu",
+                "en": "Nuraghe Cardedu"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Aufstieg kann bei Regen schlammig sein; lassen Sie das Rad unten und gehen Sie vorsichtig zu Fuß zu den Steinen.",
+                "hu": "A rövid emelkedő esőben sáros lehet; hagyja lent a kerékpárt, és óvatosan, gyalogosan közelítse meg a köveket.",
+                "ro": "Urcușul scurt poate fi noroios pe ploaie; lăsați bicicleta jos și mergeți cu atenție pe jos spre vestigiile de piatră.",
+                "en": "The short climb can be muddy in the rain; leave your bike below and walk carefully to the stones on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe sa Perda 'e s'Obiga (Remains)",
+                "hu": "Nuraghe sa Perda 'e s'Obiga (Remains)",
+                "ro": "Nuraghe sa Perda 'e s'Obiga (Remains)",
+                "en": "Nuraghe sa Perda 'e s'Obiga (Remains)"
+              },
+              "tip_5lang": {
+                "de": "Die felsige Umgebung ist bei Nässe extrem rutschig; tragen Sie Ihr Rad über die schwierigsten Stellen und nutzen Sie Schutzbleche.",
+                "hu": "A sziklás környezet nedvesen rendkívül csúszós; vigye a kerékpárt a legnehezebb szakaszokon, és használjon sárvédőt.",
+                "ro": "Zona stâncoasă este extrem de alunecoasă când e udă; transportați bicicleta peste porțiunile dificile și folosiți apărători.",
+                "en": "The rocky surroundings are extremely slippery when wet; carry your bike over the hardest parts and use mudguards."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Murcu",
+                "hu": "Nuraghe Murcu",
+                "ro": "Nuraghe Murcu",
+                "en": "Nuraghe Murcu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick unter den dunklen Wolken; ein Regenponcho schützt Sie und Ihren Rucksack am besten vor dem Fahrtwind.",
+                "hu": "Élvezze a panorámát a sötét felhők alatt; egy esőponcsó védi meg legjobban Önt és a hátizsákját a menetszéltől.",
+                "ro": "Bucurați-vă de panorama de sub norii negri; un pelerină de ploaie vă protejează cel mai bine pe voi și rucsacul de vântul tăios.",
+                "en": "Enjoy the panoramic view under the dark clouds; a rain poncho will best protect you and your backpack from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Trunconi (Remains)",
+                "hu": "Nuraghe Trunconi (Remains)",
+                "ro": "Nuraghe Trunconi (Remains)",
+                "en": "Nuraghe Trunconi (Remains)"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf dem letzten Stück, um Stürze zu vermeiden; die archäologischen Details treten bei Feuchtigkeit stärker hervor.",
+                "hu": "Tolja a biciklit az utolsó szakaszon az esések elkerülése végett; a régészeti részletek nedvesen jobban kiemelkednek.",
+                "ro": "Împingeți bicicleta pe ultima porțiune pentru a evita căzăturile; detaliile arheologice ies mai mult în evidență în condiții de umiditate.",
+                "en": "Push your bike on the final stretch to avoid falls; the archaeological details stand out more prominently when damp."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Arbu",
+                "hu": "Nuraghe Arbu",
+                "ro": "Nuraghe Arbu",
+                "en": "Nuraghe Arbu"
+              },
+              "tip_5lang": {
+                "de": "Der intensive Duft der feuchten Macchia ist ein Erlebnis; wischen Sie die Felgen trocken, bevor Sie die letzte Abfahrt antreten.",
+                "hu": "A nedves bozótos intenzív illata különleges élmény; törölje szárazra a felniket, mielőtt megkezdi az utolsó lejtmenetet.",
+                "ro": "Parfumul intens al vegetației umede este o experiență; ștergeți jantele înainte de a începe ultima coborâre spre casă.",
+                "en": "The intense scent of the damp macchia is an experience; wipe your rims dry before starting the final descent back to town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Cardedu auf zwei Rädern im milden Winterklima. Der Vormittag bietet ideale Temperaturen für die Anstiege zu den Nuraghen. Mittags genießen Sie die glasklare Luft und die weite Sicht bis zum Meer. Am Nachmittag sinken die Temperaturen spürbar; tragen Sie winddichte Kleidung. Da es früh dunkel wird, sollten Sie die Tour gegen 16:30 Uhr beenden.",
+            "hu": "Fedezze fel Cardedut két keréken az enyhe téli klímában. A délelőtt ideális hőmérsékletet kínál a nuraghékhoz vezető emelkedőkhöz. Délben élvezze a kristálytiszta levegőt és a tengerig érő kilátást. Délután a hőmérséklet érezhetően csökken; viseljen szélálló ruházatot. Mivel korán sötétedik, a túrát érdemes 16:30 körül befejezni.",
+            "ro": "Experimentați Cardedu pe două roți în climatul blând de iarnă. Dimineața oferă temperaturi ideale pentru urcușurile spre nuraghi. La prânz, bucurați-vă de aerul de cristal și de vederea largă spre mare. După-amiaza, temperaturile scad simțitor; purtați haine rezistente la vânt. Finalizați turul în jurul orei 16:30.",
+            "en": "Experience Cardedu on two wheels in the mild winter climate. The morning offers ideal temperatures for the climbs to the nuraghi. At midday, enjoy the crystal-clear air and the wide view to the sea. In the afternoon, temperatures drop noticeably; wear windproof clothing. Since it gets dark early, aim to finish the tour by 4:30 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Paolo Apostolo",
+                "hu": "Chiesa di San Paolo Apostolo",
+                "ro": "Chiesa di San Paolo Apostolo",
+                "en": "Chiesa di San Paolo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln auf; das scharfe Winterlicht eignet sich hervorragend für Außenaufnahmen der modernen Kirchenfassade.",
+                "hu": "Melegítse be izmait; az éles téli fény kiválóan alkalmas a templom modern homlokzatának külső fotózására.",
+                "ro": "Încălziți-vă mușchii; lumina tăioasă de iarnă este excelentă pentru fotografii de exterior ale fațadei moderne a bisericii.",
+                "en": "Warm up your muscles; the sharp winter light is excellent for outdoor shots of the modern church facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Cardedu",
+                "hu": "Nuraghe Cardedu",
+                "ro": "Nuraghe Cardedu",
+                "en": "Nuraghe Cardedu"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Luft macht den Anstieg zum Vergnügen; nutzen Sie die Abwesenheit der Touristenmassen für eine ungestörte Besichtigung.",
+                "hu": "A hűvös levegő élménnyé teszi az emelkedőt; használja ki a turistatömegek hiányát a zavartalan nézelődéshez.",
+                "ro": "Aerul răcoros transformă urcușul într-o plăcere; profitați de absența turiștilor pentru o vizită netulburată.",
+                "en": "The cool air makes the climb a pleasure; take advantage of the absence of tourist crowds for an undisturbed visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe sa Perda 'e s'Obiga (Remains)",
+                "hu": "Nuraghe sa Perda 'e s'Obiga (Remains)",
+                "ro": "Nuraghe sa Perda 'e s'Obiga (Remains)",
+                "en": "Nuraghe sa Perda 'e s'Obiga (Remains)"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter unschlagbar; halten Sie kurz an, um den Blick über die Ogliastra ohne das sommerliche Hitzeflimmern zu genießen.",
+                "hu": "A kilátás télen verhetetlen; álljon meg egy pillanatra, hogy élvezze Ogliastra látványát a nyári hőségvibrálás nélkül.",
+                "ro": "Vizibilitatea este imbatabilă iarna; opriți-vă puțin pentru a vă bucura de vederea asupra Ogliastrei fără tremurul de căldură al verii.",
+                "en": "The distant view is unbeatable in winter; stop for a moment to enjoy the view over Ogliastra without the summer heat haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Murcu",
+                "hu": "Nuraghe Murcu",
+                "ro": "Nuraghe Murcu",
+                "en": "Nuraghe Murcu"
+              },
+              "tip_5lang": {
+                "de": "Dieser exponierte Ort kann windig sein; eine Thermo-Radjacke mit hohem Kragen schützt Sie während der Besichtigung der Steinringe.",
+                "hu": "Ez az exponált hely szeles lehet; egy magas nyakú termó kerékpáros dzseki megvédi Önt a kőgyűrűk megtekintése közben.",
+                "ro": "Acest loc expus poate fi vântos; o jachetă termică de ciclism cu guler înalt vă va proteja în timpul vizitării cercurilor de piatră.",
+                "en": "This exposed site can be windy; a thermal cycling jacket with a high collar will protect you while viewing the stone rings."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Trunconi (Remains)",
+                "hu": "Nuraghe Trunconi (Remains)",
+                "ro": "Nuraghe Trunconi (Remains)",
+                "en": "Nuraghe Trunconi (Remains)"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Beleuchtung am Rad funktioniert; die Schatten werden am Nachmittag lang und die Sicht im Gelände nimmt ab.",
+                "hu": "Győződjön meg róla, hogy működik a világítása; délután már hosszúak az árnyékok, és a terepen csökkennek a látási viszonyok.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează; umbrele devin lungi după-amiaza și vizibilitatea pe teren scade.",
+                "en": "Ensure your bike lights are working; shadows get long in the afternoon and visibility on the terrain decreases."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Arbu",
+                "hu": "Nuraghe Arbu",
+                "ro": "Nuraghe Arbu",
+                "en": "Nuraghe Arbu"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch rechtzeitig vor 16:30 Uhr; der Rückweg nach Cardedu sollte vor dem Einbruch der winterlichen Kälte erfolgen.",
+                "hu": "Fejezze be a látogatást 16:30 előtt; a Cardeduba való visszatérésnek még a téli hideg beállta előtt meg kell történnie.",
+                "ro": "Încheiați vizita înainte de ora 16:30; întoarcerea spre Cardedu ar trebui să aibă loc înainte de lăsarea frigului de seară.",
+                "en": "Finish your visit well before 4:30 PM; the return to Cardedu should take place before the winter evening chill sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Kezdje autós útitervét a falu szívében, a Chiesa di San Paolo Apostolo templomnál. Ez kulturális alapot biztosít, mielőtt kimenne a tágabb régészeti vidékre. \n Vezessen ki a Nuraghe Serra ‘e S’Omu hangulatos maradványaihoz, majd a Nuraghe Musciuhoz. Az autó lehetővé teszi, hogy kényelmesen megtegye e bronzkori helyek közti utat. \n A történelmi felfedezés a Tomba di Giganti Bellisceddu meglátogatásával éri el csúcspontját. Ez a kollektív sír a szardíniai ősi nurágh építészet látványos fénypontja. \n A napot a Nuraghe Murcuhoz hajtva fejezheti be. Itt, a csendes dombok között nézheti a naplementét a sziklák felett, befejezve egy felejthetetlen ókori utazást.",
         "ro": "Începeți itinerariul auto în inima satului, la Chiesa di San Paolo Apostolo. Aceasta oferă o ancoră culturală înainte de a conduce în peisajul arheologic mai larg. \n Conduceți spre resturile evocatoare de la Nuraghe Serra ‘e S’Omu, urmate de Nuraghe Musciu. Mașina vă permite să parcurgeți confortabil distanțele dintre aceste situri. \n Explorarea atinge apogeul cu o vizită la Tomba di Giganti Bellisceddu. Acest mormânt colectiv monumental este un punct de atracție al arhitecturii antice nuragice. \n Încheiați ziua conducând spre Nuraghe Murcu. Aici, printre dealurile liniștite, puteți privi apusul peste pietre, punând capăt unei excursii de neuitat prin antichitate.",
         "en": "Start your driving itinerary in the heart of the village at Chiesa di San Paolo Apostolo. This provides a cultural anchor before you drive out into the broader archaeological landscape. \n Drive out to the evocative remains of Nuraghe Serra ‘e S’Omu, followed by Nuraghe Musciu. A car allows you to comfortably cover the distances between these fascinating Bronze Age sites. \n The historical exploration peaks with a visit to the Tomba di Giganti Bellisceddu. This monumental collective tomb is a spectacular highlight of Sardinia’s ancient Nuragic architecture. \n Finish the day driving to Nuraghe Murcu. Here, amidst the quiet hills, you can watch the sunset over the rugged stones, ending an unforgettable road trip through antiquity."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt durch die verregnete Ogliastra bequem vom Auto aus. Der Vormittag gehört der geschützten Kirche, bevor Sie die Küstenstraßen erkunden. Mittags erreichen Sie entlegene Nuraghen; nutzen Sie kurze Regenpausen für Besichtigungen. Nachmittags gleitet der Wagen durch die nebligen Hügel. Am Abend kehren Sie ins beleuchtete Cardedu zurück.",
+            "hu": "Élvezze az autózást az esős Ogliastra vidékén kényelmesen. A délelőtt a védett templomé, mielőtt felfedezné a part menti utakat. Délben távoli nuraghékhoz érkezik; használja ki a rövid esőszüneteket a nézelődésre. Délután az autó a ködös dombok között suhan. Este térjen vissza a kivilágított Cardeduba, és kóstolja meg a helyi ételeket.",
+            "ro": "Bucurați-vă de drumul prin Ogliastra ploioasă confortabil din mașină. Dimineața este dedicată bisericii adăpostite, înainte de a explora drumurile de coastă. La prânz ajungeți la nuraghi îndepărtați; profitați de pauzele de ploaie pentru vizite. După-amiaza, mașina alunecă prin dealurile cețoase. Seara, reveniți în Cardedu luminat.",
+            "en": "Enjoy the drive through rainy Ogliastra from the comfort of your car. The morning is spent at the sheltered church before exploring coastal roads. At midday, reach remote nuraghi; use short rain breaks for sightseeing. In the afternoon, glide through misty hills. Return to lit-up Cardedu in the evening and enjoy local cuisine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Paolo Apostolo",
+                "hu": "Chiesa di San Paolo Apostolo",
+                "ro": "Chiesa di San Paolo Apostolo",
+                "en": "Chiesa di San Paolo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Platz, um trocken in die Kirche zu gelangen; das Prasseln des Regens auf dem Dach sorgt für eine besinnliche Atmosphäre.",
+                "hu": "Parkoljon közvetlenül a téren, hogy szárazon jusson be a templomba; a tetőn kopogó eső áhítatos hangulatot teremt.",
+                "ro": "Parcați chiar în piață pentru a ajunge uscați în biserică; sunetul ploii pe acoperiș creează o atmosferă meditativă.",
+                "en": "Park right in the square to get to the church dry; the sound of rain on the roof creates a contemplative atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Serra ‘e S’Omu (Remains)",
+                "hu": "Nuraghe Serra ‘e S’Omu (Remains)",
+                "ro": "Nuraghe Serra ‘e S’Omu (Remains)",
+                "en": "Nuraghe Serra ‘e S’Omu (Remains)"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Fußweg vom Parkplatz ist auch bei Regen machbar; tragen Sie einen stabilen Regenschirm gegen den Wind auf der Anhöhe.",
+                "hu": "A parkolótól vezető rövid séta esőben is teljesíthető; vigyen magával egy erős esernyőt a magaslaton fújó szél ellen.",
+                "ro": "Scurta plimbare de la parcare este fezabilă și pe ploaie; purtați o umbrelă rezistentă împotriva vântului de pe culme.",
+                "en": "The short walk from the parking area is doable even in the rain; carry a sturdy umbrella against the wind on the ridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Musciu",
+                "hu": "Nuraghe Musciu",
+                "ro": "Nuraghe Musciu",
+                "en": "Nuraghe Musciu"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt ist bei Nebel besonders reizvoll; schalten Sie das Abblendlicht ein und genießen Sie den Blick aus dem warmen Auto auf die Hügel.",
+                "hu": "A ködben való utazás különösen hangulatos; kapcsolja be a tompított fényszórót, és élvezze a dombok látványát a meleg autóból.",
+                "ro": "Drumul prin ceață este deosebit de pitoresc; aprindeți faza scurtă și bucurați-vă de vederea dealurilor din mașina încălzită.",
+                "en": "The drive in the mist is particularly charming; turn on your dipped headlights and enjoy the view of the hills from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Tomba di Giganti Bellisceddu (Ilixeddu)",
+                "hu": "Tomba di Giganti Bellisceddu (Ilixeddu)",
+                "ro": "Tomba di Giganti Bellisceddu (Ilixeddu)",
+                "en": "Tomba di Giganti Bellisceddu (Ilixeddu)"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Monolithen wirken im Regen noch imposanter; ein wasserfester Überzug für Ihre Kamera schützt vor Spritzwasser beim Fotografieren.",
+                "hu": "A masszív monolitok esőben még impozánsabbak; egy vízálló huzat a fényképezőgépére megvédi azt a felfröccsenő víztől fotózáskor.",
+                "ro": "Monoliții masivi par și mai impunători în ploaie; o husă impermeabilă pentru aparatul foto îl va proteja în timpul fotografierii.",
+                "en": "The massive monoliths look even more imposing in the rain; a waterproof cover for your camera will protect it while taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Murcu",
+                "hu": "Nuraghe Murcu",
+                "ro": "Nuraghe Murcu",
+                "en": "Nuraghe Murcu"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer vom Bergrücken aus; das Auto bietet hier den besten Schutz vor den plötzlichen Regenschauern.",
+                "hu": "Figyelje a viharos tengert a hegygerincről; az autó nyújtja itt a legjobb védelmet a hirtelen lezúduló eső ellen.",
+                "ro": "Observați marea învolburată de pe creastă; mașina oferă aici cel mai bun adăpost împotriva averselor bruște de ploaie.",
+                "en": "Observe the stormy sea from the mountain ridge; the car provides the best shelter here from sudden rain showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Cardedu im Winter komfortabel mit dem Wagen. Der Vormittag beginnt an der Kirche, wenn der Frost auf dem Platz glitzert. Mittags führen Sie die Bergstraßen zu entlegenen Nuraghen mit Sicht auf das verschneite Gennargentu-Massiv. Am Nachmittag erleben Sie das Gold der tiefstehenden Sonne an den Gigantengräbern. Der Abend endet gemütlich bei regionaler Küche.",
+            "hu": "Fedezze fel Cardedut télen kényelmesen, autóval. A délelőtt a templomnál kezdődik, amikor a zúzmara még csillog a téren. Délben a hegyi utak távoli nuraghékhoz vezetnek, rálátással a havas Gennargentu-hegységre. Délután az alacsonyan járó nap arany fényét élvezheti az óriássíroknál. Az este hangulatos vacsorával zárul.",
+            "ro": "Explorați Cardedu iarna confortabil cu mașina. Dimineața începe la biserică, când promoroaca strălucește în piață. La prânz, drumurile montane vă duc spre nuraghi îndepărtați, cu vedere spre masivul Gennargentu înzăpezit. După-amiaza, admirați lumina aurie a soarelui la mormintele giganților. Seara se încheie cu o cină tradițională.",
+            "en": "Explore Cardedu in winter comfortably by car. The morning begins at the church when frost glistens in the square. At midday, mountain roads lead to remote nuraghi with views of the snow-capped Gennargentu massif. In the afternoon, experience the golden light of the low sun at the giants' tombs. The evening ends with a cozy local dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Paolo Apostolo",
+                "hu": "Chiesa di San Paolo Apostolo",
+                "ro": "Chiesa di San Paolo Apostolo",
+                "en": "Chiesa di San Paolo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie die Heizung und genießen Sie die morgendliche Stille; der Raureif auf dem Vorplatz bietet ein wunderschönes Fotomotiv.",
+                "hu": "Kapcsolja be a fűtést, és élvezze a reggeli csendet; a templom előtti téren a dér gyönyörű fotótémát szolgáltat.",
+                "ro": "Porniți căldura și bucurați-vă de liniștea dimineții; chiciura din piața bisericii oferă un subiect superb pentru fotografii.",
+                "en": "Turn on the heater and enjoy the morning silence; the hoarfrost in the church square provides a beautiful photo opportunity."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Serra ‘e S’Omu (Remains)",
+                "hu": "Nuraghe Serra ‘e S’Omu (Remains)",
+                "ro": "Nuraghe Serra ‘e S’Omu (Remains)",
+                "en": "Nuraghe Serra ‘e S’Omu (Remains)"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Stille an diesem Grabmal ist tiefgreifend; nutzen Sie das klare Licht gegen 11 Uhr für atmosphärische Aufnahmen.",
+                "hu": "A téli csend ennél a síremléknél mély és megnyugtató; használja ki a 11 óra körüli tiszta fényt a hangulatos felvételekhez.",
+                "ro": "Liniștea hibernală la acest monument funerar este profundă; folosiți lumina clară din jurul orei 11 pentru cadre atmosferice.",
+                "en": "The winter silence at this tomb is profound; use the clear light around 11 AM for atmospheric photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Musciu",
+                "hu": "Nuraghe Musciu",
+                "ro": "Nuraghe Musciu",
+                "en": "Nuraghe Musciu"
+              },
+              "tip_5lang": {
+                "de": "Vom Hügel aus können Sie oft die schneebedeckten Gipfel in der Ferne sehen; ziehen Sie sich warm an, bevor Sie das Auto verlassen.",
+                "hu": "A dombról gyakran látni a távolban a hófödte csúcsokat; öltözzön fel melegen, mielőtt kiszállna az autóból nézelődni.",
+                "ro": "De pe deal se pot vedea adesea vârfurile înzăpezite în depărtare; îmbrăcați-vă gros înainte de a coborî din mașină.",
+                "en": "From the hill, you can often see the snow-capped peaks in the distance; dress warmly before leaving the car to explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Tomba di Giganti Bellisceddu (Ilixeddu)",
+                "hu": "Tomba di Giganti Bellisceddu (Ilixeddu)",
+                "ro": "Tomba di Giganti Bellisceddu (Ilixeddu)",
+                "en": "Tomba di Giganti Bellisceddu (Ilixeddu)"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne scheint am frühen Nachmittag direkt in den Eingang; dies ist die beste Zeit für mystische Lichteinstrahlungen.",
+                "hu": "Az alacsony napállás kora délután közvetlenül a bejáratra világít; ez a legjobb időszak a misztikus fényhatásokhoz.",
+                "ro": "Soarele jos luminează direct intrarea la începutul după-amiezii; acesta este cel mai bun moment pentru efecte de lumină mistice.",
+                "en": "The low sun shines directly into the entrance in the early afternoon; this is the best time for mystical light effects."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Murcu",
+                "hu": "Nuraghe Murcu",
+                "ro": "Nuraghe Murcu",
+                "en": "Nuraghe Murcu"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang über Ogliastra gegen 16:30 Uhr direkt von der Straße aus; die Sicht ist im Winter am klarsten.",
+                "hu": "Élje át a naplementét Ogliastra felett 16:30 körül közvetlenül az útról; a látótávolság télen a legnagyobb.",
+                "ro": "Experimentați apusul soarelui peste Ogliastra în jurul orei 16:30 direct de pe drum; vizibilitatea este maximă iarna.",
+                "en": "Experience the sunset over Ogliastra around 4:30 PM directly from the road; the visibility is at its clearest in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

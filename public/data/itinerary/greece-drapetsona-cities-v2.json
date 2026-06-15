@@ -137,6 +137,168 @@
         "hu": "A reggel az Agios Spuridonos békés aurájával kezdődik, mielőtt elmerülne a Városi Képtár művészeti örökségében. A dél felé közeledve a nyüzsgő utcákon át az impozáns Agios Konstantinos & Elenes templomhoz ér. Délután merüljön el a történelemben Philon arzenáljának romjainál. Az estét a Kereskedelmi Tengerészeti Múzeum érdekes kiállításai zárják.",
         "ro": "Dimineața începe cu aura liniștită de la Agios Spuridonos, înainte de a vă cufunda în moștenirea artistică a Galeriei Municipale. La prânz vă îndreptați prin străzile vibrante către grandioasa biserică Agios Konstantinos & Elenes. După-amiaza vă poartă în istorie, la ruinele Arsenalului lui Philon. Seara se încheie la fascinantul Muzeu al Marinei Comerciale.",
         "en": "Morning begins with the peaceful aura of Agios Spuridonos, setting a reflective tone before immersing yourself in the artistic heritage at the Municipal Gallery. Midday takes you through the vibrant streets to the grand Agios Konstantinos & Elenes. In the afternoon, dive into history at the ruins of Philo's Arsenal. Evening concludes exploring the vast exhibits at the Merchant Navy Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Zuflucht in der St. Spyridon Kirche, während der Regen auf die Kuppel prasselt. Mittags schlendern wir durch die trockenen Säle der Stadtgalerie und bewundern die Kunst. Nachmittags besuchen wir die Kirche St. Konstantin, deren Marmor im Regen glänzt. Abends bietet das Schifffahrtsmuseum einen gemütlichen und trockenen Abschluss des Tages im Herzen von Piräus.",
+            "hu": "Reggel a Szent Szpiridon templom falai között bújunk el az égi áldás elől. Délben a Városi Képtár fedett kiállításai kínálnak száraz kikapcsolódást a vizes utcák után. Délután a Szent Konstantin és Heléna templom belső díszeit csodáljuk meg, amíg odakint esik. Az estét a Tengerészeti Múzeumban zárjuk, ahol a hajómodellek között sétálva teljesen elfelejthetjük a kinti barátságtalan időjárást.",
+            "ro": "Dimineața ne adăpostim în biserica Sf. Spiridon în timp ce ploaia cade peste cupolă. La prânz explorăm galeriile uscate ale Galeriei Municipale, admirând arta locală. După-amiaza vizităm biserica Sf. Constantin, unde interiorul cald ne protejează de umezeală. Seara, Muzeul Maritim oferă un final de zi plăcut și uscat, departe de străzile ude ale portului Piraeus.",
+            "en": "Morning begins at St. Spyridon Church, finding shelter from the drizzle within its fragrant interior. At noon, we head to the Municipal Gallery to enjoy art while staying completely dry. Afternoon is spent at St. Constantine Church, admiring the icons away from the rain. Evening ends at the Nautical Museum, where ship models provide a fascinating indoor escape from the wet harbor weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ieros Naos Agiou Spuridonos",
+                "hu": "Ieros Naos Agiou Spuridonos",
+                "ro": "Ieros Naos Agiou Spuridonos",
+                "en": "Ieros Naos Agiou Spuridonos"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prachtvollen Wandmalereien im trockenen Inneren; achten Sie auf die rutschigen Marmorstufen vor dem Kircheneingang bei Regen.",
+                "hu": "Csodálja meg a gazdag belső festést a száraz templomtérben; esőben fokozottan ügyeljen a bejárat előtti csúszós márványlépcsőkre.",
+                "ro": "Admirați picturile murale splendide în interiorul uscat; aveți grijă la treptele de marmură alunecoase de la intrare când plouă afară.",
+                "en": "Admire the magnificent murals in the dry interior; be extra careful on the slippery marble steps at the entrance during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtische Galerie von Piräus",
+                "hu": "Pireuszi Városi Képtár",
+                "ro": "Galeria Municipală din Pireu",
+                "en": "Municipal Gallery of Piraeus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für einen ausgiebigen Rundgang durch die Sammlungen; die Garderobe bietet Platz für nasse Regenschirme und Mäntel.",
+                "hu": "Használja ki az eső szünetét a gyűjtemények alapos megtekintésére; a ruhatárban kényelmesen elhelyezheti a vizes esernyőket és kabátokat.",
+                "ro": "Profitați de pauza de ploaie pentru un tur extins al colecțiilor; garderoba oferă spațiu pentru umbrelele și hainele ude de ploaie.",
+                "en": "Use the rainy break for an extensive tour of the collections; the cloakroom has space for your wet umbrellas and heavy raincoats."
+              }
+            },
+            {
+              "name": {
+                "de": "Ieros Naos Agion Konstantinou & Elenes",
+                "hu": "Ieros Naos Agion Konstantinou & Elenes",
+                "ro": "Ieros Naos Agion Konstantinou & Elenes",
+                "en": "Ieros Naos Agion Konstantinou & Elenes"
+              },
+              "tip_5lang": {
+                "de": "Die imposante Architektur bietet einen perfekten Schutz vor Schauern; tragen Sie feste Schuhe für den kurzen, oft windigen Weg zwischen den Stationen.",
+                "hu": "Az impozáns épület tökéletes védelmet nyújt a záporok elől; viseljen vízálló cipőt a megállók közötti rövid, de szeles gyalogúton.",
+                "ro": "Arhitectura impunătoare oferă o protecție perfectă împotriva averselor; purtați încălțăminte impermeabilă pentru drumul scurt și vântos.",
+                "en": "The imposing architecture provides perfect shelter from showers; wear waterproof shoes for the short but often windy walk between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Das Arsenal des Philon",
+                "hu": "Philon arzenálja",
+                "ro": "Arsenalul lui Philon",
+                "en": "The arsenal of Philo"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen von den überdachten Gehwegen aus; bei starkem Regen bilden sich Pfützen, bleiben Sie daher auf den befestigten Wegen.",
+                "hu": "A romokat a közeli fedett árkádok alól is jól láthatja; erős esőben tócsák alakulhatnak ki, ezért maradjon a kijelölt kövezett úton.",
+                "ro": "Vizualizați ruinele de sub arcadele acoperite din apropiere; în caz de ploaie abundentă se formează bălți, deci rămâneți pe potecile pavate.",
+                "en": "View the ruins from nearby covered walkways; heavy rain can cause puddles, so stay on the designated paved paths to keep your feet dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Mouseio emporikes nautilias",
+                "hu": "Mouseio emporikes nautilias",
+                "ro": "Mouseio emporikes nautilias",
+                "en": "Mouseio emporikes nautilias"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie länger bei den Schiffsmodellen, bis das Wetter aufklart; das Museum ist voll klimatisiert und ein idealer Ort bei hoher Luftfeuchtigkeit.",
+                "hu": "Időzzön el a hajómodellek között, amíg kitisztul az idő; a múzeum teljesen fedett, így ideális menedék a párás, esős délutánon.",
+                "ro": "Zăboviți printre machetele de nave până când vremea se înseninează; muzeul este complet acoperit, fiind un refugiu ideal pe ploaie.",
+                "en": "Linger among the ship models until the weather clears; the museum is fully indoor and an ideal refuge during a humid, rainy afternoon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der St. Spyridon Kirche, wo Kerzen Wärme spenden. Mittags wärmen wir uns in der Stadtgalerie bei lokaler Kunst auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, besuchen wir das Arsenal im sanften Nachmittagslicht. Der Tag endet im Schifffahrtsmuseum, wenn die Winterdämmerung über dem Hafen von Piräus einsetzt.",
+            "hu": "A friss téli reggelen a Szent Szpiridon templom gyertyái nyújtanak lelki melegséget. Délben a Városi Képtár fűtött termeiben bújunk el a tengeri szél elől. Mivel a nap korán, 17 óra körül nyugszik, az arzenált még a délutáni fényekben nézzük meg. A napot a Tengerészeti Múzeumban fejezzük be, amikor a téli szürkület leszáll a kikötőre.",
+            "ro": "Dimineața rece de iarnă începe la biserica Sf. Spiridon, unde lumânările oferă o atmosferă caldă. La prânz ne încălzim în Galeria Municipală admirând arta locală. Deoarece soarele apune devreme, în jur de ora 17:00, vizităm Arsenalul în lumina blândă a după-amiezii. Ziua se încheie la Muzeul Maritim, pe măsură ce amurgul se lasă peste port.",
+            "en": "A crisp winter morning starts at St. Spyridon Church, where glowing candles provide warmth. At noon, the Municipal Gallery offers a cozy escape from the chilly sea breeze. Since the sun sets early around 5 PM, we view the Arsenal in the soft afternoon light. The day concludes at the Nautical Museum as winter twilight settles over the Piraeus harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ieros Naos Agiou Spuridonos",
+                "hu": "Ieros Naos Agiou Spuridonos",
+                "ro": "Ieros Naos Agiou Spuridonos",
+                "en": "Ieros Naos Agiou Spuridonos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige, andächtige Atmosphäre am Morgen; die dicken Mauern speichern die Kälte, tragen Sie daher auch drinnen Ihren Mantel.",
+                "hu": "Élvezze a reggeli áhítatos csendet; a vastag falak télen tartják a hideget, ezért a belső térben is érdemes kabátban maradni.",
+                "ro": "Bucurați-vă de liniștea dimineții; zidurile groase rețin frigul iarna, așa că este recomandat să păstrați haina pe dvs. și în interior.",
+                "en": "Enjoy the peaceful morning atmosphere; the thick walls retain the cold in winter, so it is best to keep your coat on even inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtische Galerie von Piräus",
+                "hu": "Pireuszi Városi Képtár",
+                "ro": "Galeria Municipală din Pireu",
+                "en": "Municipal Gallery of Piraeus"
+              },
+              "tip_5lang": {
+                "de": "Die gut beheizten Ausstellungsräume sind der ideale Ort für die Mittagszeit; nutzen Sie die hellen Stunden für die Betrachtung der feinen Details.",
+                "hu": "A jól fűtött kiállítótermek ideálisak a déli órákra; használja ki a természetes fényt a festmények apró részleteinek megfigyeléséhez.",
+                "ro": "Sălile de expoziție bine încălzite sunt ideale pentru orele prânzului; profitați de lumina naturală pentru a observa detaliile picturilor.",
+                "en": "The well-heated exhibition halls are ideal for midday; take advantage of the natural light to observe the fine details of the paintings."
+              }
+            },
+            {
+              "name": {
+                "de": "Ieros Naos Agion Konstantinou & Elenes",
+                "hu": "Ieros Naos Agion Konstantinou & Elenes",
+                "ro": "Ieros Naos Agion Konstantinou & Elenes",
+                "en": "Ieros Naos Agion Konstantinou & Elenes"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Besuch bietet Aufwärmung vor dem nächsten Spaziergang; achten Sie auf die prächtigen Kronleuchter, die im frühen Dämmerlicht strahlen.",
+                "hu": "Egy rövid látogatás segít felmelegedni a következő séta előtt; csodálja meg a csillárokat, amelyek a korai szürkületben gyönyörűen világítanak.",
+                "ro": "O vizită scurtă vă ajută să vă încălziți înainte de următoarea plimbare; admirați lustrele care strălucesc frumos în amurgul timpuriu.",
+                "en": "A short visit helps you warm up before the next walk; admire the chandeliers that glow beautifully in the early winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Das Arsenal des Philon",
+                "hu": "Philon arzenálja",
+                "ro": "Arsenalul lui Philon",
+                "en": "The arsenal of Philo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen vor 16 Uhr, um das Tageslicht zu nutzen; der kalte Seewind kann hier besonders kräftig wehen, Schal einpacken.",
+                "hu": "Látogassa meg a romokat 16 óra előtt, hogy lássa őket a napfényben; a tengeri szél itt metsző lehet, viseljen vastag sálat.",
+                "ro": "Vizitați ruinele înainte de ora 16 pentru a profita de lumina zilei; vântul mării poate fi tăios aici, purtați un fular gros.",
+                "en": "Visit the ruins before 4 PM to catch the daylight; the sea breeze can be piercing here, so make sure to wear a thick scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Mouseio emporikes nautilias",
+                "hu": "Mouseio emporikes nautilias",
+                "ro": "Mouseio emporikes nautilias",
+                "en": "Mouseio emporikes nautilias"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag gemütlich im Warmen ausklingen zu lassen; nach dem Besuch ist es bereits dunkel, ideal für ein Abendessen im Hafen.",
+                "hu": "Tökéletes hely a nap fűtött környezetben való lezárásához; látogatás után már sötét lesz, ami ideális egy közeli vacsorához a kikötőben.",
+                "ro": "Locul perfect pentru a încheia ziua într-un mediu încălzit; după vizită va fi deja întuneric, ideal pentru o cină în apropierea portului.",
+                "en": "The perfect place to end the day in a heated environment; it will be dark after your visit, ideal for a nearby dinner in the harbor."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros túrát a Vasúti Múzeumban a régi vonatoknál, majd tekerjen a Therpsithea tér ókori romjaihoz. Délben a lenyűgöző bronzszobroknak otthont adó Régészeti Múzeumhoz érkezik. Délutáni útja a kikötő melletti impozáns Tengerészeti Múzeumhoz vezet. Kora este elteker Agios Neilos mellett, majd a gyönyörű part menti Agios Nikolaos templomnál zárja a napot.",
         "ro": "Începeți călătoria cu bicicleta la Muzeul Căilor Ferate, apoi pedalați spre ruinele antice din Piața Therpsithea. La prânz ajungeți la Muzeul Arheologic, care adăpostește statui uimitoare de bronz. După-amiaza vă conduce la impresionantul Muzeu Maritim de lângă port. Când se lasă seara, treceți pe lângă Agios Neilos și terminați la frumoasa biserică de coastă Agios Nikolaos.",
         "en": "Start your cycling journey at the Railway Museum, exploring vintage trains before pedaling to the ancient ruins of Therpsithea Square. Midday brings you to the Archaeological Museum, home to stunning bronze statues. Afternoon riding leads to the impressive Maritime Museum by the marina. As evening falls, cycle past Agios Neilos and finish at the beautiful coastal church of Agios Nikolaos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Eisenbahnmuseum, wo die alten Züge uns unter Dach empfangen. Mittags radeln wir vorsichtig zu den Ausgrabungen am Therpsithea-Platz, wobei wir Pfützen meiden. Nachmittags bieten das Archäologische und das Schifffahrtsmuseum trockenes Programm. Den Tag beschließen wir bei den Kirchen St. Neilos und St. Nikolaus, während wir auf regenfestes Equipment setzen.",
+            "hu": "A Vasúti Múzeumban kezdünk, ahol a régi mozdonyok fedett helyen várnak minket. Délben óvatosan tekerünk a Therpsithea tér romjaihoz, kerülgetve a tócsákat. A délutánt a Régészeti és a Tengerészeti Múzeum száraz termeiben töltjük. A napot a Szent Neilou és Szent Miklós templomoknál zárjuk, bízva a vízhatlan felszerelésünkben.",
+            "ro": "Începem la Muzeul Căilor Ferate, unde trenurile vechi ne așteaptă sub acoperiș. La prânz pedalăm cu atenție spre ruinele din Piața Therpsithea, evitând bălțile. După-amiaza o petrecem în sălile uscate ale Muzeului Arheologic și celui Maritim. Încheiem ziua la bisericile Sf. Nil și Sf. Nicolae, bazându-ne pe echipamentul nostru impermeabil.",
+            "en": "We start at the Railway Museum, where vintage trains are kept under cover. At noon, we cycle carefully to the Therpsithea Square ruins, dodging puddles along the way. Afternoon is dedicated to the dry halls of the Archaeological and Maritime Museums. We finish the day at St. Neilos and St. Nicholas churches, relying on our waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eisenbahnmuseum Athen",
+                "hu": "Athéni Vasúti Múzeum",
+                "ro": "Muzeul Căilor Ferate din Atena",
+                "en": "Railway Museum Athens"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Waggons im Inneren, um trocken zu bleiben; achten Sie bei der Anfahrt auf rutschige Schienenreste im Bodenbereich.",
+                "hu": "Fedezze fel a kocsik belsejét, hogy száraz maradjon; az érkezéskor ügyeljen az úttestbe süllyesztett, esőben csúszós sínmaradványokra.",
+                "ro": "Explorați interiorul vagoanelor pentru a rămâne uscat; la sosire, atenție la resturile de șine din carosabil, care sunt alunecoase pe ploaie.",
+                "en": "Explore the interior of the carriages to stay dry; be careful of old rail tracks in the road which become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologische Stätte am Therpsithea-Platz",
+                "hu": "Therpsithea tér régészeti lelőhelye",
+                "ro": "Situl arheologic din Piața Therpsithea",
+                "en": "Archaeological site of Therpsithea Square"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Funde zügig zwischen den Schauern; parken Sie Ihr Fahrrad an einem geschützten Ort, um den Sattel trocken zu halten.",
+                "hu": "Tekintse meg a leleteket gyorsan a záporok között; parkolja le kerékpárját fedett helyen, hogy a nyereg száraz maradjon a következő útig.",
+                "ro": "Vizualizați rapid vestigiile între averse; parcați bicicleta într-un loc protejat pentru a păstra șaua uscată pentru următorul segment.",
+                "en": "View the remains quickly between showers; park your bike in a sheltered spot to keep the saddle dry for your next leg of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Piräus",
+                "hu": "Pireuszi Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Pireu",
+                "en": "Archaeological Museum of Piraeus"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine lange Pause im Trockenen; nutzen Sie die Schließfächer, um nasse Regenbekleidung während des Besuchs zu verstauen.",
+                "hu": "Ideális hely egy hosszú, száraz pihenőre; használja az értékmegőrzőket a vizes esőruha tárolására a múzeumlátogatás ideje alatt.",
+                "ro": "Un loc ideal pentru o pauză lungă și uscată; folosiți vestiarele pentru a depozita hainele de ploaie ude pe durata vizitei la muzeu.",
+                "en": "An ideal place for a long, dry break; use the lockers to store your wet rain gear while you explore the museum collections."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritimes Museum von Griechenland",
+                "hu": "Görög Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim al Greciei",
+                "en": "Maritime Museum of Greece"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die maritime Geschichte geschützt vor Wind und Wetter; prüfen Sie vor der Weiterfahrt den Reifendruck für besseren Grip auf nasser Fahrbahn.",
+                "hu": "Élvezze a tengerészeti történelmet a széltől és esőtől védve; indulás előtt ellenőrizze a keréknyomást a jobb tapadás érdekében.",
+                "ro": "Bucurați-vă de istoria maritimă protejat de vânt și ploaie; înainte de plecare, verificați presiunea pneurilor pentru o aderență mai bună.",
+                "en": "Enjoy maritime history protected from the wind and rain; check your tire pressure before leaving for better grip on wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Ieros Naos Agiou Neilou",
+                "hu": "Ieros Naos Agiou Neilou",
+                "ro": "Ieros Naos Agiou Neilou",
+                "en": "Ieros Naos Agiou Neilou"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen besinnlichen Rückzugsort vor dem Regen; achten Sie beim Absteigen auf den durch Laub und Wasser rutschigen Boden.",
+                "hu": "A templom megnyugtató menedéket nyújt az eső elől; leszálláskor ügyeljen a vizes levelek és sár miatt csúszós útpadkára.",
+                "ro": "Biserica oferă un refugiu liniștitor împotriva ploii; la coborâre, atenție la carosabilul alunecos din cauza frunzelor ude și a apei.",
+                "en": "The church offers a peaceful retreat from the rain; be careful when dismounting as wet leaves and water can make the ground slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos",
+                "hu": "Agios Nikolaos",
+                "ro": "Agios Nikolaos",
+                "en": "Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in der warmen Atmosphäre der Kirche; fahren Sie auf dem Rückweg besonders vorsichtig durch die dunklen, nassen Gassen.",
+                "hu": "Zárja a túrát a templom barátságos, meleg belső terében; a visszaúton tekerjen óvatosan a sötét és vizes kikötői utcákon.",
+                "ro": "Încheiați turul în atmosfera primitoare a bisericii; la întoarcere, pedalați cu prudență pe străzile întunecate și umede din port.",
+                "en": "End your tour in the welcoming warmth of the church; cycle carefully on your way back through the dark and wet harbor streets."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen radeln wir zum Eisenbahnmuseum. Mittags erkunden wir die antiken Stätten, wobei die kühle Luft uns erfrischt. Das Archäologische und Schifffahrtsmuseum bieten willkommene Wärme am Nachmittag. Bevor die Sonne gegen 17:00 Uhr untergeht, erreichen wir die Kirchen St. Neilos und St. Nikolaus im goldenen Licht der Wintersonne.",
+            "hu": "Egy tiszta téli reggelen tekerünk el a Vasúti Múzeumhoz. Délben a régészeti lelőhelyeket fedezzük fel, miközben a friss levegő éberen tart minket. A Régészeti és Tengerészeti Múzeum fűtött termei délután igazi felüdülést nyújtanak. Mielőtt 17 óra körül lebukik a nap, elérjük a Szent Neilou és Szent Miklós templomokat a téli naplemente fényében.",
+            "ro": "Într-o dimineață senină de iarnă pedalăm spre Muzeul Căilor Ferate. La prânz explorăm siturile antice, aerul rece menținându-ne energici. Muzeele Arheologic și Maritim oferă căldură binevenită după-amiaza. Înainte de apusul de la ora 17:00, ajungem la bisericile Sf. Nil și Sf. Nicolae în lumina aurie a soarelui de iarnă.",
+            "en": "On a clear winter morning, we cycle to the Railway Museum. At noon, we explore the ancient sites, letting the crisp air refresh us. The Archaeological and Maritime Museums provide welcome warmth in the afternoon. Before the sun sets around 5 PM, we reach St. Neilos and St. Nicholas churches in the golden glow of the winter sun."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eisenbahnmuseum Athen",
+                "hu": "Athéni Vasúti Múzeum",
+                "ro": "Muzeul Căilor Ferate din Atena",
+                "en": "Railway Museum Athens"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt; das Museum bietet eine interessante Zeitreise, die man am besten ohne Zeitdruck genießt.",
+                "hu": "Viseljen szélálló kesztyűt a tekeréshez; a múzeum érdekes időutazást kínál, amit érdemes alaposan, átfagyás nélkül végigjárni.",
+                "ro": "Purtați mănuși rezistente la vânt pentru pedalat; muzeul oferă o călătorie interesantă în timp, care merită explorată pe îndelete.",
+                "en": "Wear windproof gloves for the ride; the museum offers an interesting journey through time that is best enjoyed without rushing."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologische Stätte am Therpsithea-Platz",
+                "hu": "Therpsithea tér régészeti lelőhelye",
+                "ro": "Situl arheologic din Piața Therpsithea",
+                "en": "Archaeological site of Therpsithea Square"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine strahlen im Winter eine besondere Ruhe aus; nutzen Sie die Mittagssonne, um sich beim Besichtigen ein wenig aufzuwärmen.",
+                "hu": "Az ókori kövek télen különleges nyugalmat árasztanak; használja ki a déli napsütést, hogy egy kicsit felmelegedjen a nézelődés közben.",
+                "ro": "Pietrele antice emană o liniște deosebită iarna; profitați de soarele de la prânz pentru a vă încălzi puțin în timp ce vizitați situl.",
+                "en": "The ancient stones radiate a special calm in winter; take advantage of the midday sun to warm up a bit while exploring the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Piräus",
+                "hu": "Pireuszi Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Pireu",
+                "en": "Archaeological Museum of Piraeus"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den klimatisierten Räumen auf; das Museum ist im Winter weniger besucht, was eine private Atmosphäre ermöglicht.",
+                "hu": "Melegedjen fel a klimatizált termekben; a múzeum télen kevésbé zsúfolt, így nyugodtabban csodálhatja meg a világhírű bronzszobrokat.",
+                "ro": "Încălziți-vă în sălile climatizate; muzeul este mai puțin aglomerat iarna, ceea ce permite o atmosferă mai privată în timpul vizitei.",
+                "en": "Warm up in the climate-controlled rooms; the museum is less crowded in winter, allowing for a more private atmosphere during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritimes Museum von Griechenland",
+                "hu": "Görög Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim al Greciei",
+                "en": "Maritime Museum of Greece"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp, um der Kälte des Hafens zu entfliehen; planen Sie den Besuch so, dass Sie vor Einbruch der Dunkelheit weiterfahren.",
+                "hu": "Kiváló megálló, hogy elmeneküljön a kikötői hideg elől; tervezze úgy a látogatást, hogy sötétedés előtt tovább tudjon tekerni.",
+                "ro": "O oprire excelentă pentru a scăpa de frigul din port; planificați vizita astfel încât să plecați mai departe înainte de lăsarea întunericului.",
+                "en": "An excellent stop to escape the harbor chill; plan your visit so you can continue your ride before total darkness sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Ieros Naos Agiou Neilou",
+                "hu": "Ieros Naos Agiou Neilou",
+                "ro": "Ieros Naos Agiou Neilou",
+                "en": "Ieros Naos Agiou Neilou"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Licht der tiefstehenden Sonne beleuchtet die Fassade; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den letzten Abschnitt funktioniert.",
+                "hu": "Az alacsonyan járó nap aranyló fénye megvilágítja a homlokzatot; győződjön meg róla, hogy a kerékpár lámpái működnek az utolsó szakaszra.",
+                "ro": "Lumina aurie a soarelui care apune luminează fațada; asigurați-vă că luminile bicicletei funcționează pentru ultima etapă a drumului.",
+                "en": "The golden light of the low sun illuminates the facade; make sure your bike lights are working for the final stretch of the journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos",
+                "hu": "Agios Nikolaos",
+                "ro": "Agios Nikolaos",
+                "en": "Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Hafen im Winterzwielicht; ziehen Sie für den Heimweg eine zusätzliche Schicht an, da es nach Sonnenuntergang schnell abkühlt.",
+                "hu": "Élvezze a kikötő látványát a téli szürkületben; vegyen fel egy extra réteg ruhát a hazaútra, mert naplemente után hirtelen lehűl a levegő.",
+                "ro": "Bucurați-vă de vederea portului în amurgul de iarnă; puneți o haină în plus pentru drumul spre casă, deoarece se răcește rapid după apus.",
+                "en": "Enjoy the harbor view in the winter twilight; put on an extra layer for the ride home as it cools down rapidly after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen először a Vasúti Múzeumhoz egy időutazásra, majd irány a Városi Képtár egy adag görög művészetért. Délben parkoljon le a Régészeti Múzeum közelében az ókori bronzok és a közeli római romok megtekintéséhez. A délutánt a Tengerészeti Múzeumban töltse. Este látogasson el az Agios Basileiosba, mielőtt az Agios Nikolaoshoz hajtana egy csodálatos naplementéért.",
         "ro": "Conduceți mai întâi spre Muzeul Căilor Ferate pentru o întoarcere în timp, apoi mergeți la Galeria Municipală. La prânz, parcați lângă Muzeul Arheologic pentru a admira bronzurile antice și ruinele rezidențiale romane din apropiere. Petreceți după-amiaza descoperind istoria navală la Muzeul Maritim. Seara, vizitați Agios Basileios înainte de a conduce la Agios Nikolaos pentru apus.",
         "en": "Drive first to the Railway Museum to step back in time, then head to the Municipal Gallery for a dose of Greek art. By midday, park near the Archaeological Museum to admire ancient bronzes and nearby Roman residential ruins. Spend the afternoon uncovering naval history at the Maritime Museum. In the evening, visit Agios Basileios before driving to Agios Nikolaos for a magnificent sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir bequem die Museen von Piräus, während der Regen gegen die Scheiben trommelt. Vom Eisenbahnmuseum geht es zur Stadtgalerie, immer trocken von Tür zu Tür. Nachmittags besuchen wir das Archäologische Museum und das Schifffahrtsmuseum. Wir beenden den Tag bei den Kirchen St. Basileios und St. Nikolaus, geschützt vor den starken Böen am Hafen.",
+            "hu": "Autóval kényelmesen fedezzük fel Pireusz múzeumait, miközben az eső a szélvédőn kopog. A Vasúti Múzeumtól a Városi Képtárig hajtunk, szárazon jutva egyik helyről a másikra. Délután a Régészeti és Tengerészeti Múzeum következik. A napot a Szent Basileios és Szent Miklós templomoknál zárjuk, védve a kikötői erős széllökésektől.",
+            "ro": "Cu mașina explorăm confortabil muzeele din Piraeus în timp ce ploaia bate în parbriz. De la Muzeul Căilor Ferate mergem la Galeria Municipală, rămânând uscați de la o destinație la alta. După-amiaza vizităm Muzeul Arheologic și cel Maritim. Încheiem ziua la bisericile Sf. Vasile și Sf. Nicolae, protejați de rafalele puternice de vânt din port.",
+            "en": "By car, we comfortably explore the museums of Piraeus while the rain drums on the windshield. We drive from the Railway Museum to the Municipal Gallery, staying dry from door to door. Afternoon is spent at the Archaeological and Maritime Museums. We conclude the day at St. Basileios and St. Nicholas churches, sheltered from the strong harbor gusts."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eisenbahnmuseum Athen",
+                "hu": "Athéni Vasúti Múzeum",
+                "ro": "Muzeul Căilor Ferate din Atena",
+                "en": "Railway Museum Athens"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; die überdachten Bahnsteige bieten Schutz während der Besichtigung.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az ázást; a fedett peronok tökéletes védelmet nyújtanak a nézelődés közben.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; peroanele acoperite oferă protecție excelentă pe durata vizitei.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; the covered platforms provide great shelter during your exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtische Galerie von Piräus",
+                "hu": "Pireuszi Városi Képtár",
+                "ro": "Galeria Municipală din Pireu",
+                "en": "Municipal Gallery of Piraeus"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto ins Gebäude genügt; im Inneren können Sie die Kunst genießen, während draußen der Regen die Straßen reinigt.",
+                "hu": "Csak egy rövid sprint az autótól az épületig; bent élvezheti a művészetet, miközben odakint az eső mossa a város utcáit.",
+                "ro": "Doar un sprint scurt de la mașină la clădire; în interior vă puteți bucura de artă în timp ce afară ploaia spală străzile orașului.",
+                "en": "Just a short sprint from the car to the building; inside you can enjoy art while the rain washes the city streets outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Piräus",
+                "hu": "Pireuszi Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Pireu",
+                "en": "Archaeological Museum of Piraeus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgaragen in der Nähe, um Ihr Fahrzeug sicher abzustellen; die trockene Atmosphäre im Museum lässt Sie den Regen vergessen.",
+                "hu": "Használja a közeli parkolóházakat az autó biztonságos elhelyezéséhez; a múzeum száraz és nyugodt légköre segít elfelejteni a kinti esőt.",
+                "ro": "Folosiți parcările subterane din apropiere pentru a lăsa mașina în siguranță; atmosfera uscată din muzeu vă va face să uitați de ploaie.",
+                "en": "Use nearby parking garages to leave your car safely; the dry and calm atmosphere of the museum will make you forget the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Wohnviertel der Römerzeit",
+                "hu": "Római kori lakótömb",
+                "ro": "Bloc rezidențial din perioada romană",
+                "en": "Residential block of the Roman period"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ausgrabungen durch die Fensterscheiben oder unter dem Regeschirm; bei Regen wirken die alten Mosaike oft farbenfroher.",
+                "hu": "Tekintse meg a leleteket az esernyő alól; az esővíztől vizes kövek és mozaikok színei ilyenkor gyakran élénkebben és szebben mutatnak.",
+                "ro": "Vizualizați vestigiile de sub umbrelă; culorile pietrelor antice și ale mozaicurilor par adesea mai vii și mai frumoase când sunt ude.",
+                "en": "View the remains from under your umbrella; the colors of the ancient stones and mosaics often appear more vivid and beautiful when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritimes Museum von Griechenland",
+                "hu": "Görög Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim al Greciei",
+                "en": "Maritime Museum of Greece"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die Exponate im Freien kurz zwischen den Schauern; im Inneren ist es gemütlich und absolut trocken.",
+                "hu": "A szabadtéri kiállítási tárgyakat két zápor között érdemes megnézni; a múzeum belső terei barátságosak és teljesen szárazak.",
+                "ro": "Exponatele în aer liber pot fi văzute rapid între două averse; interiorul muzeului este primitor și complet ferit de umezeală.",
+                "en": "Outdoor exhibits can be viewed quickly between showers; the interior of the museum is welcoming and completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Basileios",
+                "hu": "Agios Basileios",
+                "ro": "Agios Basileios",
+                "en": "Agios Basileios"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Kirche, um den starken Windböen am Wasser zu entgehen; das Innere bietet eine warme, spirituelle Zuflucht.",
+                "hu": "Parkoljon a templom közelében, hogy elkerülje a vízparti erős széllökéseket; a belső tér meleg és spirituális menedéket nyújt.",
+                "ro": "Parcați aproape de biserică pentru a evita rafalele de vânt de pe mal; interiorul oferă un refugiu cald și spiritual pe timp de ploaie.",
+                "en": "Park close to the church to avoid the strong gusts of wind by the waterfront; the interior offers a warm and spiritual refuge from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos",
+                "hu": "Agios Nikolaos",
+                "ro": "Agios Nikolaos",
+                "en": "Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer aus der Sicherheit Ihres Autos vor der Kirche; das gedämpfte Licht im Inneren schafft eine beruhigende Stimmung.",
+                "hu": "Figyelje a viharos tengert az autó biztonságából a templom előtt; a benti tompa fények megnyugtató hangulatot árasztanak az esős estén.",
+                "ro": "Observați marea agitată din siguranța mașinii în fața bisericii; luminile difuze din interior creează o atmosferă liniștitoare seară.",
+                "en": "Watch the stormy sea from the safety of your car in front of the church; the dim lights inside create a soothing atmosphere on a rainy evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frostigen Wintermorgen nutzen wir die Sitzheizung auf dem Weg zum Eisenbahnmuseum. Mittags wärmen wir uns in der Stadtgalerie und dem Archäologischen Museum auf. Das sanfte Licht vor dem frühen Sonnenuntergang beleuchtet die römischen Ruinen perfekt. Den Tag lassen wir im Schifffahrtsmuseum und bei den Kirchen ausklingen, während die Winterluft draußen kühler wird.",
+            "hu": "Egy fagyos téli reggelen jól jön az autó fűtése a Vasúti Múzeum felé menet. Délben a Városi Képtárban és a Régészeti Múzeumban melegszünk fel. A korai naplemente előtti lágy fények tökéletesen megvilágítják a római romokat. A napot a Tengerészeti Múzeumban és a templomoknál zárjuk, miközben odakint egyre hűvösebb lesz a téli levegő.",
+            "ro": "Într-o dimineață geroasă de iarnă, încălzirea din mașină este binevenită în drum spre Muzeul Căilor Ferate. La prânz ne încălzim în Galeria Municipală și Muzeul Arheologic. Lumina blândă de dinaintea apusului timpuriu luminează perfect ruinele romane. Încheiem ziua la Muzeul Maritim și la biserici, în timp ce aerul de afară devine tot mai rece.",
+            "en": "On a frosty winter morning, the car heater is a welcome comfort on the way to the Railway Museum. At noon, we warm up in the Municipal Gallery and the Archaeological Museum. The soft light before the early sunset perfectly illuminates the Roman ruins. We end the day at the Maritime Museum and the local churches as the winter air turns colder outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eisenbahnmuseum Athen",
+                "hu": "Athéni Vasúti Múzeum",
+                "ro": "Muzeul Căilor Ferate din Atena",
+                "en": "Railway Museum Athens"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Atmosphäre ohne die Sommerhitze; die Waggons sind im Winter kühl, daher empfiehlt sich eine warme Jacke.",
+                "hu": "Élvezze a történelmi hangulatot a nyári hőség nélkül; a kocsik télen hűvösek lehetnek, ezért ne hagyja a kabátját az autóban.",
+                "ro": "Bucurați-vă de atmosfera istorică fără arșița verii; vagoanele pot fi reci iarna, așa că nu lăsați haina în mașină.",
+                "en": "Enjoy the historical atmosphere without the summer heat; the carriages can be cool in winter, so do not leave your coat in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtische Galerie von Piräus",
+                "hu": "Pireuszi Városi Képtár",
+                "ro": "Galeria Municipală din Pireu",
+                "en": "Municipal Gallery of Piraeus"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekt temperierter Stopp zur Mittagszeit; nutzen Sie die kurzen Wege vom Parkplatz, um die Winterkälte draußen zu lassen.",
+                "hu": "Tökéletesen fűtött megálló a déli órákra; használja ki a parkoló és az épület közötti rövid távolságot, hogy elkerülje a téli hideget.",
+                "ro": "O oprire cu temperatură perfectă pentru prânz; profitați de distanța scurtă dintre parcare și clădire pentru a evita frigul de iarnă.",
+                "en": "A perfectly heated stop for midday; take advantage of the short distance between the parking spot and the building to escape the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Piräus",
+                "hu": "Pireuszi Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Pireu",
+                "en": "Archaeological Museum of Piraeus"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Statuen wirken im weichen Winterlicht besonders edel; das Museum bietet eine warme Zuflucht vor der feuchten Meeresbrise.",
+                "hu": "Az antik szobrok a lágy téli fényben különösen szépek; a múzeum meleg menedéket nyújt a tenger felől érkező párás és hideg szél elől.",
+                "ro": "Statuile antice par deosebit de frumoase în lumina blândă de iarnă; muzeul oferă un refugiu cald în fața vântului umed și rece dinspre mare.",
+                "en": "Ancient statues look particularly beautiful in the soft winter light; the museum provides a warm refuge from the humid and cold sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Wohnviertel der Römerzeit",
+                "hu": "Római kori lakótömb",
+                "ro": "Bloc rezidențial din perioada romană",
+                "en": "Residential block of the Roman period"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort gegen 15:30 Uhr für das beste Fotolicht; die kühle Luft lässt die Details der Ausgrabung klarer erscheinen.",
+                "hu": "Látogasson el ide 15:30 körül a legjobb fotófényekért; a tiszta téli levegőben a romok részletei sokkal élesebbnek és tisztábbnak tűnnek.",
+                "ro": "Vizitați acest loc în jur de ora 15:30 pentru cele mai bune lumini de fotografiat; aerul curat de iarnă face ca detaliile să pară mai clare.",
+                "en": "Visit this spot around 3:30 PM for the best photo lighting; the clear winter air makes the details of the ruins appear sharper and clearer."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritimes Museum von Griechenland",
+                "hu": "Görög Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim al Greciei",
+                "en": "Maritime Museum of Greece"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier besonders ruhig und besinnlich; nach dem Besuch können Sie im Auto die Heizung genießen, während es draußen dunkelt.",
+                "hu": "Télen itt különösen nagy a nyugalom; a látogatás után élvezheti az autó fűtését, miközben odakint lassan elkezd sötétedni.",
+                "ro": "Iarna este o liniște deosebită aici; după vizită vă puteți bucura de căldura din mașină în timp ce afară începe să se întunece treptat.",
+                "en": "It is particularly quiet here in winter; after your visit, you can enjoy the car heater as it slowly begins to get dark outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Basileios",
+                "hu": "Agios Basileios",
+                "ro": "Agios Basileios",
+                "en": "Agios Basileios"
+              },
+              "tip_5lang": {
+                "de": "Die beleuchtete Kirche ist ein wunderschöner Anblick im frühen Abend; achten Sie beim Aussteigen auf die spürbare Abkühlung nach Sonnenuntergang.",
+                "hu": "A kivilágított templom gyönyörű látvány a kora estén; kiszálláskor ügyeljen a hirtelen lehűlésre, ami naplemente után azonnal érezhető.",
+                "ro": "Biserica iluminată este o priveliște minunată seara devreme; la coborâre, atenție la răcirea bruscă a aerului resimțită după apus.",
+                "en": "The illuminated church is a beautiful sight in the early evening; be aware of the sudden drop in temperature felt immediately after sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos",
+                "hu": "Agios Nikolaos",
+                "ro": "Agios Nikolaos",
+                "en": "Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Abschluss der Tour im Winterdunkel; die warme Beleuchtung im Inneren bildet einen starken Kontrast zur kalten Nacht draußen.",
+                "hu": "Hangulatos zárása a túrának a téli sötétségben; a belső tér meleg világítása éles kontrasztban áll a kinti hideg éjszakával.",
+                "ro": "Un final de tur plin de atmosferă în întunericul iernii; iluminatul cald din interior contrastează puternic cu noaptea rece de afară.",
+                "en": "An atmospheric end to the tour in the winter darkness; the warm interior lighting contrasts sharply with the cold night outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

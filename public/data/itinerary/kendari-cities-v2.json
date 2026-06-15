@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Pasar Rakyat Lapulu nyüzsgő atmoszférájának magába szívásával. Fedezze fel a nyüzsgő standokat, miközben az árusok friss termékeket árulnak a városban.\nIrány a város történelmi szíve, a Pasar Sentral Kota Lama. A textíliák és fűszerek élénk kereskedelme elvarázsolja az érzékeit, bemutatva a régió kereskedelmi szellemét.\nFolytassa útját a vízpart felé, hogy megtapasztalja az élénk Tempat Pelelangan Ikan-t. A délutáni halárverés rávilágít a város tengerhez fűződő mély kapcsolatára.\nZárja gyalogtúráját a közeli GKKA és a Bétel Tabernákulum templomok felkeresésével. Ezek a szerény vallási nevezetességek csendes és elgondolkodtató légkört kínálnak.",
         "ro": "Începeți dimineața absorbind atmosfera plină de viață de la Pasar Rakyat Lapulu. Explorați tarabele pline de viață, unde vânzătorii oferă o privire autentică asupra vieții din Kendari.\nÎndreptați-vă spre inima istorică a orașului pentru a naviga prin Pasar Sentral Kota Lama. Comerțul plin de viață cu textile și condimente vă va învălui simțurile, arătând spiritul comercial.\nContinuați spre malul apei pentru a experimenta plinul de viață Tempat Pelelangan Ikan. Licitația energică de pește de după-amiază evidențiază legătura profundă a orașului cu marea.\nÎncheiați-vă turul pietonal vizitând bisericile din apropiere GKKA și Bethel Tabernakel. Aceste repere religioase modeste oferă o atmosferă liniștită și reflexivă.",
         "en": "Start your morning absorbing the lively atmosphere at Pasar Rakyat Lapulu. Explore the bustling stalls as vendors sell fresh produce, offering a genuine glimpse into daily life in Kendari.\nHead towards the historic heart of the city to navigate Pasar Sentral Kota Lama. The lively trading of textiles and local spices will envelop your senses, showcasing the region's commercial spirit.\nContinue towards the waterfront to experience the lively Tempat Pelelangan Ikan. The energetic afternoon fish auction highlights the city’s deep connection to the sea and the fishing community.\nConclude your walking tour by visiting the nearby GKKA and Bethel Tabernakel churches. These modest religious landmarks offer a quiet and reflective atmosphere as your day comes to an end."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt unter den schützenden Dächern des Lapulu-Marktes, wo der Regen auf das Blech trommelt. Mittags suchen wir Zuflucht in der geschäftigen Fischauktionshalle, deren maritime Atmosphäre bei grauem Himmel besonders intensiv wirkt.\n\nAm Nachmittag bieten die Kirchen der Stadt einen Ort der Stille und Trockenheit. Der Tag endet mit dem Blick auf das regnerische Meer, während die Lichter der Stadt im nassen Asphalt reflektieren.",
+            "hu": "A reggel a Lapulu piac fedett árusai között indul, ahol az eső kopogása ritmust ad a kofák alkudozásának. Délben a halpiac csarnoka nyújt menedéket, ahol a tenger illata a párás időben még áthatóbb és autentikusabb.\n\nDélután a város templomai kínálnak csendes és száraz megállót az elmélyüléshez. Az este a kikötő környékén ér minket, ahol a vizes aszfalton megcsillanó városi fények különleges, melankolikus hangulatot árasztanak.",
+            "ro": "Dimineața începe sub acoperișurile pieței Lapulu, unde sunetul ploii pe tablele de metal acompaniază agitația comercianților. La prânz, ne adăpostim în hala licitației de pește, unde atmosfera maritimă devine și mai intensă sub cerul gri.\n\nDupă-amiaza, bisericile orașului oferă un refugiu liniștit și uscat pentru reflecție. Ziua se încheie lângă port, unde luminile orașului se reflectă spectaculos în asfaltul ud, creând un peisaj urban deosebit.",
+            "en": "The morning starts under the sheltered stalls of Lapulu Market, where the rhythmic rain on tin roofs frames the local trade. At noon, the fish auction hall provides a sturdy refuge, its salty maritime atmosphere heightened by the misty tropical weather.\n\nIn the afternoon, the city's churches offer a quiet, dry sanctuary for a peaceful break. The day concludes near the waterfront, where city lights shimmer beautifully on the wet pavement as the rain softens."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Rakyat Lapulu",
+                "hu": "Pasar Rakyat Lapulu",
+                "ro": "Pasar Rakyat Lapulu",
+                "en": "Pasar Rakyat Lapulu"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den zentralen Gängen des Marktes, um das bunte Treiben trocken zu erleben; ideal, um lokale Handwerkskunst ohne Regen zu bewundern.",
+                "hu": "Húzódjon a piac belső, fedett folyosóira, ahol szárazon figyelheti meg a helyi árusok nyüzsgését és a friss egzotikus gyümölcsök színes kínálatát.",
+                "ro": "Căutați adăpost în culoarele centrale ale pieței pentru a observa agitația locală fără a vă uda; este locul ideal pentru a admira artizanatul tradițional.",
+                "en": "Seek shelter in the market's central covered aisles to watch the local bustle while staying dry; it is the perfect spot for observing authentic daily life."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Sentral Kota Lama",
+                "hu": "Pasar Sentral Kota Lama",
+                "ro": "Pasar Sentral Kota Lama",
+                "en": "Pasar Sentral Kota Lama"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Markthallen bieten hervorragenden Schutz vor Güssen; nutzen Sie die Zeit, um die alte Architektur Kendaris bei prasselndem Regen zu studieren.",
+                "hu": "A történelmi csarnokok kiváló védelmet nyújtanak a záporok elől; használja ki az időt a régi Kendari építészetének tanulmányozására a kopogó esőben.",
+                "ro": "Halele istorice oferă o protecție excelentă împotriva averselor; profitați de ocazie pentru a studia arhitectura veche a orașului în timp ce plouă afară.",
+                "en": "The historic market halls offer excellent protection from downpours; use the time to study Kendari's old architecture while the rain drums on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempat Pelelangan Ikan Kendari",
+                "hu": "Tempat Pelelangan Ikan Kendari",
+                "ro": "Tempat Pelelangan Ikan Kendari",
+                "en": "Tempat Pelelangan Ikan Kendari"
+              },
+              "tip_5lang": {
+                "de": "In der Auktionshalle bleiben Sie trocken und können die riesigen Fänge bestaunen; Vorsicht vor rutschigen Böden durch das einfließende Regenwasser.",
+                "hu": "Az aukciós csarnokban szárazon maradhat a hatalmas fogások szemrevételezése közben; vigyázzon a csúszós padlóra a beáramló csapadék és a tengervíz miatt.",
+                "ro": "În hala de licitații veți rămâne uscat în timp ce admirați capturile uriașe; atenție la podeaua alunecoasă din cauza amestecului de apă și pește.",
+                "en": "Inside the auction hall, you stay dry while marveling at the massive catches; be careful of slippery floors caused by the incoming rain and seawater."
+              }
+            },
+            {
+              "name": {
+                "de": "GKKA Indonesia Cabang Kendari",
+                "hu": "GKKA Indonesia Cabang Kendari",
+                "ro": "GKKA Indonesia Cabang Kendari",
+                "en": "GKKA Indonesia Cabang Kendari"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Inneneinrichtung wirkt bei Regen besonders besinnlich; schütteln Sie Ihren Regenschirm draußen gut ab, um den Innenraum sauber zu halten.",
+                "hu": "A templom letisztult belső tere esőben különösen meghitt; alaposan rázza le az esernyőjét kint, hogy megőrizze a benti nyugodt, tiszta környezetet.",
+                "ro": "Interiorul simplu pare deosebit de contemplativ în timpul ploii; scuturați bine umbrela afară pentru a menține curățenia în spațiul de rugăciune.",
+                "en": "The simple interior feels extra contemplative during the rain; shake your umbrella well outside to keep the peaceful sanctuary clean and dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Bethel Tabernakel Kendari",
+                "hu": "Gereja Bethel Tabernakel Kendari",
+                "ro": "Gereja Bethel Tabernakel Kendari",
+                "en": "Gereja Bethel Tabernakel Kendari"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Akustik des Regens auf dem Kirchendach als meditativen Abschluss; idealer Ort, um auf das Nachlassen des Schauers vor dem Heimweg zu warten.",
+                "hu": "Élvezze a templomtetőn kopogó eső akusztikáját meditatív zárásként; ideális hely megvárni a zápor végét, mielőtt elindulna a szállása felé.",
+                "ro": "Bucurați-vă de acustica ploii pe acoperișul bisericii ca o încheiere meditativă; locul perfect pentru a aștepta oprirea ploii înainte de plecare.",
+                "en": "Enjoy the acoustics of the rain on the church roof as a meditative finale; it's the ideal spot to wait for the shower to pass before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenbrise am Meer macht den Spaziergang durch Lapulu besonders angenehm. Mittags erkunden wir die Altstadt, wo die mildere Sonne die historischen Fassaden in sanftes Licht taucht.\n\nDer Nachmittag gehört der spirituellen Einkehr in den Kirchen, während die Schatten länger werden. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir das frühe Abendrot direkt am Wasser mit einer frischen Meeresbrise.",
+            "hu": "A hűvös reggeli tengeri szellő különösen kellemessé teszi a sétát a Lapulu piacon. Délben az óvárost fedezzük fel, ahol az enyhébb napsütés lágy fénybe vonja a történelmi épületek homlokzatát.\n\nA délután a spirituális elmélyülésé a helyi templomokban, ahogy az árnyékok egyre hosszabbra nyúlnak. Mivel a nap már 17:00 körül nyugovóra tér, a korai alkonyt közvetlenül a vízparton élvezzük a frissítő szélben.",
+            "ro": "Briza răcoroasă de dimineață face plimbarea prin Lapulu extrem de plăcută. La prânz explorăm centrul vechi, unde soarele blând îmbracă fațadele istorice într-o lumină caldă și odihnitoare.\n\nDupă-amiaza este dedicată liniștii spirituale în bisericile locale, pe măsură ce umbrele se lungesc. Deoarece soarele apune deja în jur de ora 17:00, savurăm amurgul timpuriu chiar pe malul mării, în briza proaspătă.",
+            "en": "The cool morning sea breeze makes the walk through Lapulu exceptionally pleasant. At noon, we explore the Old Town, where the milder winter sun casts a gentle glow over the historic facades.\n\nAfternoon is for spiritual reflection in local churches as shadows grow longer. Since the sun sets around 5:00 PM, we enjoy the early twilight right by the water, accompanied by a refreshing and crisp sea wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Rakyat Lapulu",
+                "hu": "Pasar Rakyat Lapulu",
+                "ro": "Pasar Rakyat Lapulu",
+                "en": "Pasar Rakyat Lapulu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühlen Morgenstunden für den Marktbesuch, wenn die Waren am frischesten sind; eine leichte Jacke schützt vor der kräftigen Seebrise.",
+                "hu": "Használja ki a hűvös reggeli órákat a piacozáshoz, amikor az áru a legfrissebb; egy könnyű dzseki jól jöhet a tenger felől fújó élénk szélben.",
+                "ro": "Profitați de orele răcoroase ale dimineții pentru piață, când marfa este cea mai proaspătă; o jachetă ușoară vă va proteja de briza mării.",
+                "en": "Take advantage of the cool morning hours for the market when produce is freshest; a light jacket is useful against the brisk sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Sentral Kota Lama",
+                "hu": "Pasar Sentral Kota Lama",
+                "ro": "Pasar Sentral Kota Lama",
+                "en": "Pasar Sentral Kota Lama"
+              },
+              "tip_5lang": {
+                "de": "Die mildere Wintersonne macht das Fotografieren der Kolonialbauten ideal; besuchen Sie den Markt vor Mittag, um das beste natürliche Licht zu nutzen.",
+                "hu": "Az enyhébb téli napsütés ideálissá teszi a koloniális épületek fotózását; látogasson el ide dél előtt a legszebb természetes fényekért.",
+                "ro": "Soarele blând de iarnă face fotografierea clădirilor coloniale ideală; vizitați piața înainte de prânz pentru a profita de cea mai bună lumină.",
+                "en": "The milder winter sun makes photographing colonial buildings ideal; visit before noon to capture the best natural light on the historic facades."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempat Pelelangan Ikan Kendari",
+                "hu": "Tempat Pelelangan Ikan Kendari",
+                "ro": "Tempat Pelelangan Ikan Kendari",
+                "en": "Tempat Pelelangan Ikan Kendari"
+              },
+              "tip_5lang": {
+                "de": "Die kühlere Luft reduziert die Intensität der Gerüche und macht den Besuch angenehmer; idealer Zeitpunkt für ausgiebige Beobachtungen am Kai.",
+                "hu": "A hűvösebb levegő tompítja a piaci szagok intenzitását, így a látogatás sokkal kellemesebb; remek időpont a rakparti élet alapos megfigyelésére.",
+                "ro": "Aerul mai răcoros reduce intensitatea mirosurilor, făcând vizita mult mai plăcută; este momentul ideal pentru observații detaliate pe chei.",
+                "en": "The cooler air reduces the intensity of the odors, making the visit much more pleasant; it is a great time for extended observation on the pier."
+              }
+            },
+            {
+              "name": {
+                "de": "GKKA Indonesia Cabang Kendari",
+                "hu": "GKKA Indonesia Cabang Kendari",
+                "ro": "GKKA Indonesia Cabang Kendari",
+                "en": "GKKA Indonesia Cabang Kendari"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Nachmittag, wenn das warme Sonnenlicht durch die Fenster fällt und eine friedliche Winteratmosphäre schafft.",
+                "hu": "Látogassa meg a templomot kora délután, amikor a meleg fények beáradnak az ablakokon, békés, meghitt téli hangulatot árasztva a belső térben.",
+                "ro": "Vizitați biserica după-amiaza devreme, când lumina caldă a soarelui pătrunde prin ferestre, creând o atmosferă de iarnă plină de pace.",
+                "en": "Visit the church in the early afternoon when the warm sunlight streams through the windows, creating a peaceful and cozy winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Bethel Tabernakel Kendari",
+                "hu": "Gereja Bethel Tabernakel Kendari",
+                "ro": "Gereja Bethel Tabernakel Kendari",
+                "en": "Gereja Bethel Tabernakel Kendari"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang hier vor 17:00 Uhr, um den Weg zum Ufer noch vor der rasch einsetzenden Dunkelheit sicher und entspannt zu bewältigen.",
+                "hu": "Fejezze be a körutat 17:00 előtt, hogy a gyorsan leszálló sötétség előtt még biztonságban és kényelmesen elérje a vízparti naplemente-néző helyet.",
+                "ro": "Încheiați turul înainte de ora 17:00 pentru a ajunge la malul mării în siguranță, înainte de lăsarea rapidă a întunericului specifică iernii.",
+                "en": "Finish your tour here before 5:00 PM to reach the waterfront safely and enjoy the sunset before the rapid winter darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros utazását azzal, hogy elmerül a történelemben a tartományi múzeumban, felfedezve Délkelet-Szulavézi lenyűgöző kulturális emlékeit.\nKerékpározzon le az ikonikus Tugu Religi Sultra és a Tugu Menara felé. Ezek a tornyosuló emlékművek a harmónia és a történelmi büszkeség gyönyörű üzenetét képviselik.\nLovagoljon tovább a város utcáin, hogy megfigyelje a spirituális sokszínűséget, elhaladva a Santo Clemens és a Kibaid templomok mellett a csendes környékeken.\nFejezze be kerékpáros kalandját az öböl menti nyüzsgő Tempat Pelelangan Ikan-ban. Élvezze a frissítő tengeri szellőt és a tengeri tevékenységeket a naplementében.",
         "ro": "Începeți călătoria cu bicicleta scufundându-vă în istorie la muzeul provincial, descoperind fascinantele artefacte culturale din Sulawesi de Sud-Est.\nPedalați spre iconicele Tugu Religi Sultra și Tugu Menara. Aceste monumente falnice sunt esențiale pentru identitatea orașului, reprezentând armonia culturală.\nCălătoriți prin străzile orașului pentru a observa diversitatea spirituală, trecând pe lângă bisericile Santo Clemens și Kibaid în cartiere pașnice.\nÎncheiați-vă aventura pe bicicletă la animatul Tempat Pelelangan Ikan lângă golf. Bucurați-vă de briza răcoritoare a mării și de activitățile maritime la apus.",
         "en": "Begin your cycling journey by immersing yourself in history at the provincial museum, discovering the fascinating cultural artifacts of Southeast Sulawesi.\nPedal down to the iconic Tugu Religi Sultra and Tugu Menara. These towering monuments are central to Kendari's identity, representing a beautiful message of unity and historical pride.\nRide onwards through the city streets to observe its spiritual diversity, passing by Santo Clemens and Kibaid churches. The relaxed afternoon cycling reveals quiet neighborhoods.\nFinish your cycling adventure at the lively Tempat Pelelangan Ikan by the bay. Enjoy the refreshing sea breeze and vibrant maritime activities as the evening gently settles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt im Museum, wo wir den ersten Schauer trocken abwarten. Mittags navigieren wir vorsichtig über nasse Straßen zu den großen Monumenten, die im Regen glänzen.\n\nNachmittags bieten die Kirchen trockene Pausenstationen für erschöpfte Beine. Die Tour endet am Fischmarkt, wo das geschäftige Treiben unter den Vordächern auch bei heftigem Tropenregen unvermindert weitergeht.",
+            "hu": "A kerékpáros túra a múzeumban indul, ahol szárazon várhatjuk meg az első záporokat. Délben óvatosan navigálunk a vizes utakon a monumentális emlékművek felé, melyek sötéten csillognak az esőben.\n\nDélután a templomok nyújtanak száraz pihenőt a fáradt lábaknak. A nap a halpiacon zárul, ahol a tetők alatt a nyüzsgés a szakadó trópusi esőben is változatlan intenzitással folyik.",
+            "ro": "Turul cu bicicleta începe la muzeu, unde așteptăm la adăpost trecerea primei averse. La prânz, navigăm cu atenție pe străzile ude spre marile monumente care strălucesc sub ploaie.\n\nDupă-amiaza, bisericile oferă opriri uscate pentru picioarele obosite. Turul se încheie la piața de pește, unde activitatea frenetică de sub copertine continuă nestingherită chiar și pe ploaie.",
+            "en": "The cycling tour begins at the museum, where we stay dry during the initial showers. At noon, we navigate carefully over wet roads toward monuments that glisten darkly in the rain.\n\nIn the afternoon, local churches provide dry resting points for tired legs. The tour ends at the fish market, where the bustle under the eaves remains vibrant even during heavy tropical downpours."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Negeri Provinsi Sulawesi Tenggara",
+                "hu": "Museum Negeri Provinsi Sulawesi Tenggara",
+                "ro": "Museum Negeri Provinsi Sulawesi Tenggara",
+                "en": "Museum Negeri Provinsi Sulawesi Tenggara"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Eingangsbereich; das Museum ist der perfekte Ort, um die regenreichste Zeit des Vormittags drinnen zu verbringen.",
+                "hu": "Parkoljon a fedett bejáratnál; a múzeum a tökéletes helyszín, hogy a délelőtt legesősebb óráit értékes kiállítások között, szárazon töltse el.",
+                "ro": "Parcați bicicleta în zona de intrare acoperită; muzeul este locul perfect pentru a petrece orele ploioase ale dimineții explorând expozițiile.",
+                "en": "Park your bike in the covered entrance area; the museum is the perfect place to spend the rainiest morning hours indoors among cultural treasures."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Religi Sultra",
+                "hu": "Tugu Religi Sultra",
+                "ro": "Tugu Religi Sultra",
+                "en": "Tugu Religi Sultra"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem weiten Platz auf glatte Fliesen; der monumentale Bau bietet bei plötzlichem Regen nur wenig Schutz, halten Sie ein Cape bereit.",
+                "hu": "A tágas téren ügyeljen a csúszós burkolatra; az emlékmű környéke kevés menedéket nyújt, így érdemes kéznél tartani egy jó minőségű esőköpenyt.",
+                "ro": "Atenție la dalele alunecoase din piața largă; zona monumentului oferă puțin adăpost, așa că păstrați pelerina de ploaie la îndemână.",
+                "en": "Watch out for slippery tiles on the wide plaza; the monument offers little shelter, so keep a high-quality rain poncho ready for sudden bursts."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Menara",
+                "hu": "Tugu Menara",
+                "ro": "Tugu Menara",
+                "en": "Tugu Menara"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie kurze Regenpausen für Fotos; der Turm wirkt bei bewölktem Himmel besonders dramatisch, aber die Straßen dorthin können Pfützen bilden.",
+                "hu": "Használja ki az eső szüneteit a fotózáshoz; a torony drámai látványt nyújt borús égbolt alatt, de az odavezető úton számítson nagyobb tócsákra.",
+                "ro": "Folosiți pauzele dintre averse pentru fotografii; turnul arată dramatic sub cerul noros, dar drumul spre el poate avea bălți adânci.",
+                "en": "Use breaks in the rain for photos; the tower looks dramatic under cloudy skies, but be prepared for large puddles on the roads leading there."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Katolik Santo Clemens",
+                "hu": "Gereja Katolik Santo Clemens",
+                "ro": "Gereja Katolik Santo Clemens",
+                "en": "Gereja Katolik Santo Clemens"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine trockene Rast; die ruhige Atmosphäre im Inneren lässt Sie die Anstrengung der nassen Fahrt schnell vergessen.",
+                "hu": "Ideális helyszín egy száraz pihenőhöz; a belső tér nyugodt atmoszférája segít gyorsan elfelejteni a vizes utakon való tekerés nehézségeit.",
+                "ro": "Locul ideal pentru un popas uscat; atmosfera liniștită din interior vă va face să uitați rapid efortul pedalatului pe drumurile ude.",
+                "en": "An ideal spot for a dry break; the calm interior atmosphere helps you quickly forget the challenges of cycling through the wet tropical streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Kibaid Kendari",
+                "hu": "Gereja Kibaid Kendari",
+                "ro": "Gereja Kibaid Kendari",
+                "en": "Gereja Kibaid Kendari"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Weiterfahrt im Regen; die Kirche bietet Schutz, um die Ausrüstung kurz zu checken und das Cape zu richten.",
+                "hu": "Indulás előtt ellenőrizze a fékeket az esőben; a templom menedéket nyújt, hogy átnézze a felszerelését és megigazítsa az esővédő ruházatát.",
+                "ro": "Verificați frânele înainte de a pleca din nou prin ploaie; biserica oferă adăpost pentru a vă ajusta pelerina și a verifica echipamentul.",
+                "en": "Check your brakes before heading back out into the rain; the church porch offers shelter to adjust your gear and ensure your lights are visible."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempat Pelelangan Ikan Kendari",
+                "hu": "Tempat Pelelangan Ikan Kendari",
+                "ro": "Tempat Pelelangan Ikan Kendari",
+                "en": "Tempat Pelelangan Ikan Kendari"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher und meiden Sie die direkt am Wasser gelegenen, ungeschützten Bereiche; die Auktionshalle ist Ihr sicherer, trockener Hafen.",
+                "hu": "Parkoljon biztonságos helyen és kerülje a közvetlen vízparti, nyitott részeket; az aukciós csarnok az Ön biztos és száraz menedéke az esőben.",
+                "ro": "Parcați într-un loc sigur și evitați zonele deschise de lângă apă; hala de licitații este refugiul dumneavoastră sigur și uscat la final de zi.",
+                "en": "Park safely and avoid the open areas directly by the water; the main auction hall is your secure, dry harbor to end the rainy day tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft ist perfekt für die lange Radstrecke zum Museum. Mittags genießen wir die Fahrt über die weiten Plätze unter einer angenehm milden Wintersonne.\n\nAm Nachmittag erkunden wir die verschiedenen Kirchen der Stadt, während die frische Brise das Treten erleichtert. Den Abschluss bildet der Fischmarkt am Hafen, wo wir den frühen Sonnenuntergang gegen 17:00 Uhr bei klarem Himmel erleben.",
+            "hu": "A hűvös reggeli levegő tökéletes a múzeumig tartó hosszabb kerékpározáshoz. Délben a tágas tereken tekerünk az enyhe téli napsütésben, ami kellemesen melegít.\n\nDélután a város különböző templomait fedezzük fel, miközben a friss szellő megkönnyíti a haladást. A túrát a kikötői halpiac zárja, ahol a korai, 17:00 körüli naplementét csodálhatjuk meg tiszta égbolt mellett.",
+            "ro": "Aerul răcoros de dimineață este perfect pentru drumul lung cu bicicleta spre muzeu. La prânz, pedalăm prin piețele largi sub un soare de iarnă plăcut și blând.\n\nDupă-amiaza explorăm diversele biserici ale orașului, în timp ce briza proaspătă face efortul mult mai ușor. Finalul aparține pieței de pește din port, unde admirăm apusul timpuriu de la ora 17:00.",
+            "en": "The cool morning air is perfect for the long ride to the museum. At noon, we enjoy cycling across wide plazas under the pleasant and mild winter sun.\n\nIn the afternoon, we explore various local churches as the fresh breeze makes pedaling easier. The day concludes at the fish market by the harbor, catching the early 5:00 PM sunset under clear skies."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Negeri Provinsi Sulawesi Tenggara",
+                "hu": "Museum Negeri Provinsi Sulawesi Tenggara",
+                "ro": "Museum Negeri Provinsi Sulawesi Tenggara",
+                "en": "Museum Negeri Provinsi Sulawesi Tenggara"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, um die kühlste Zeit für die Anfahrt zu nutzen; im Museum können Sie sich in den klimatisierten Räumen perfekt akklimatisieren.",
+                "hu": "Induljon korán, hogy kihasználja a hűvösebb időt a tekeréshez; a múzeum légkondicionált termeiben kényelmesen akklimatizálódhat a pihenő alatt.",
+                "ro": "Porniți devreme pentru a profita de răcoare pe drum; în muzeu vă puteți aclimatiza perfect în sălile cu temperatură controlată.",
+                "en": "Start early to use the coolest hours for the ride; inside the museum, the climate-controlled rooms offer a perfect place to recharge comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Religi Sultra",
+                "hu": "Tugu Religi Sultra",
+                "ro": "Tugu Religi Sultra",
+                "en": "Tugu Religi Sultra"
+              },
+              "tip_5lang": {
+                "de": "Das milde Licht der Wintersonne lässt das Monument auf Fotos erstrahlen; nutzen Sie die weiten Flächen für eine entspannte Fahrpause im Freien.",
+                "hu": "A téli nap lágy fénye gyönyörűen világítja meg az emlékművet a fotókon; használja ki a tágas teret egy pihentető kültéri kerékpáros megállóra.",
+                "ro": "Lumina blândă a soarelui de iarnă face monumentul să strălucească în fotografii; profitați de spațiul larg pentru o pauză relaxantă în aer liber.",
+                "en": "The mild winter sun illuminates the monument beautifully for photos; use the vast open spaces for a relaxing outdoor cycling break in the fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Menara",
+                "hu": "Tugu Menara",
+                "ro": "Tugu Menara",
+                "en": "Tugu Menara"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft klarer; radeln Sie entspannt zum Turm und genießen Sie die kühle Brise, die hier oben zwischen den Gebäuden weht.",
+                "hu": "A látótávolság télen gyakran tisztább; tekerjen el a toronyhoz és élvezze a hűvös szellőt, amely az épületek között ezen a részen mindig érezhető.",
+                "ro": "Vizibilitatea este adesea mai clară iarna; pedalați relaxat spre turn și bucurați-vă de briza răcoroasă care suflă printre clădiri în această zonă.",
+                "en": "Visibility is often clearer in winter; cycle leisurely to the tower and enjoy the cool breeze that flows between the buildings in this open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Katolik Santo Clemens",
+                "hu": "Gereja Katolik Santo Clemens",
+                "ro": "Gereja Katolik Santo Clemens",
+                "en": "Gereja Katolik Santo Clemens"
+              },
+              "tip_5lang": {
+                "de": "Ein schattiger Platz für Ihr Rad ist im Winter leicht zu finden; genießen Sie die Ruhe im Inneren, bevor Sie die letzte Etappe zum Hafen antreten.",
+                "hu": "Télen könnyű árnyékos helyet találni a biciklinek; élvezze a belső tér csendjét, mielőtt nekivágna a kikötőhöz vezető utolsó szakasznak.",
+                "ro": "Este ușor să găsiți un loc umbrit pentru bicicletă; bucurați-vă de liniștea din interior înainte de a porni pe ultima etapă spre port.",
+                "en": "It's easy to find a shaded spot for your bike; enjoy the interior's tranquility before starting the final leg of your journey towards the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Kibaid Kendari",
+                "hu": "Gereja Kibaid Kendari",
+                "ro": "Gereja Kibaid Kendari",
+                "en": "Gereja Kibaid Kendari"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Beleuchtung, da es im Winter früh dunkel wird; die Kirche ist ein guter Orientierungspunkt vor der Fahrt durch das Abendrot.",
+                "hu": "Ellenőrizze a világítást, mert télen korán sötétedik; a templom remek tájékozódási pont, mielőtt a lemenő nap fényében továbbgurulna a kikötőbe.",
+                "ro": "Verificați luminile bicicletei, deoarece se întunecă devreme; biserica este un bun punct de reper înainte de a pedala prin amurg spre port.",
+                "en": "Check your bike lights as it gets dark early in winter; the church is a great landmark before cycling through the sunset toward the fish market."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempat Pelelangan Ikan Kendari",
+                "hu": "Tempat Pelelangan Ikan Kendari",
+                "ro": "Tempat Pelelangan Ikan Kendari",
+                "en": "Tempat Pelelangan Ikan Kendari"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den Sonnenuntergang über den Fischerbooten zu sehen; im Winter ist die Atmosphäre hier besonders klar und frisch.",
+                "hu": "Érkezzen meg 17:00 előtt, hogy lássa a naplementét a halászhajók felett; télen az atmoszféra itt különösen tiszta, a levegő pedig frissítő.",
+                "ro": "Arribați înainte de ora 17:00 pentru a vedea apusul peste bărcile de pescuit; iarna, atmosfera aici este deosebit de clară și revigorantă.",
+                "en": "Arrive before 5:00 PM to catch the sunset over the fishing boats; in winter, the atmosphere here is remarkably clear and the air feels refreshing."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen a déli külvárosokba egy autentikus délelőttért a Pasar Andunouho-ban, amelyet a Masjid Nurul Muhajirin békés látogatása követ. Ezek az állomások valódi ízelítőt nyújtanak a városból.\nIrány a városközpont, hogy felfedezze a Museum Negeri-t, ahol Délkelet-Szulavézi gazdag történelme és etnikai sokszínűsége büszkén jelenik meg.\nTöltse a délutánt a monumentális Tugu Religi Sultra és a Tugu Menara felfedezésével. Ezek a nevezetességek büszkén ünneplik a kulturális harmóniát és a regionális identitást.\nVezessen a történelmi negyedbe, hogy megtapasztalja az energikus Pasar Sentral Kota Lama-t. Az est közeledtével a nyüzsgő kereskedelmi utcák fantasztikus érzékszervi élménnyel zárják a túrát.",
         "ro": "Conduceți spre suburbiile sudice pentru o dimineață la Pasar Andunouho, urmată de o vizită pașnică la Masjid Nurul Muhajirin. Aceste prime opriri oferă o senzație autentică pentru comunitate.\nÎndreptați-vă spre centrul orașului pentru a explora Muzeul Negeri, unde istoria bogată și diversitatea etnică a regiunii sunt expuse cu mândrie. Expozițiile oferă perspective profunde.\nPetreceți-vă după-amiaza descoperind monumentalul Tugu Religi Sultra și Tugu Menara. Aceste repere celebrează armonia culturală și identitatea regională, înconjurate de piețe expansive.\nConduceți în cartierul istoric pentru a experimenta Pasar Sentral Kota Lama. Pe măsură ce se apropie seara, străzile comerciale oferă un final fantastic și senzorial turului cu mașina.",
         "en": "Drive to the southern suburbs for an authentic morning at Pasar Andunouho, followed by a peaceful visit to Masjid Nurul Muhajirin. These initial stops offer a genuine feel for Kendari's vibrant community.\nHead to the city center to explore the Museum Negeri, where the rich history and ethnic diversity of Southeast Sulawesi are proudly displayed. The well-curated exhibits provide deep insights.\nSpend your afternoon discovering the monumental Tugu Religi Sultra and Tugu Menara. These landmarks proudly celebrate cultural harmony and regional identity, surrounded by expansive plazas.\nDrive to the historic quarter to experience the energetic Pasar Sentral Kota Lama. As evening approaches, the bustling trading streets offer a fantastic sensory end to your comprehensive driving tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt bietet maximalen Komfort während der tropischen Regengüsse auf dem Weg zum Andunouho-Markt. Mittags besichtigen wir das Museum, wo wir das Auto direkt am Eingang parken und trocken bleiben.\n\nNachmittags steuern wir die großen Monumente und religiösen Stätten an, wobei wir die Pausen zwischen den Schauern für kurze Rundgänge nutzen. Der Tag endet sicher und gemütlich in der Altstadt, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Az autóút maximális kényelmet nyújt a trópusi felhőszakadások idején az Andunouho piac felé. Délben a múzeumot látogatjuk meg, ahol közvetlenül a bejáratnál parkolhatunk, így teljesen szárazon jutunk be.\n\nDélután az emlékműveket és vallási helyszíneket keressük fel, kihasználva az esőszüneteket a rövid sétákhoz. A nap biztonságban és otthonosan zárul az óvárosban, miközben az eső kopog az autó szélvédőjén.",
+            "ro": "Călătoria cu mașina oferă confort maxim în timpul averselor tropicale spre piața Andunouho. La prânz vizităm muzeul, unde parcăm chiar lângă intrare pentru a rămâne complet uscați.\n\nDupă-amiaza ne îndreptăm spre monumente și lăcașuri de cult, folosind pauzele dintre ploi pentru scurte plimbări. Ziua se încheie în siguranță și confort în centrul vechi, în timp ce ploaia bate în parbriz.",
+            "en": "Driving offers maximum comfort during tropical downpours on the way to Andunouho Market. At noon, we visit the museum, parking right near the entrance to stay perfectly dry while exploring exhibits.\n\nIn the afternoon, we head to major monuments and religious sites, using breaks between showers for quick walks. The day ends safely and cozily in the Old Town as rain drums rhythmically against the car windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Andunouho",
+                "hu": "Pasar Andunouho",
+                "ro": "Pasar Andunouho",
+                "en": "Pasar Andunouho"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am überdachten Markteingang; nutzen Sie den Kofferraum, um Ihre Einkäufe vor dem Regen geschützt zu verstauen.",
+                "hu": "Parkoljon a lehető legközelebb a fedett piaci bejárathoz; használja a csomagtartót, hogy szerzeményeit biztonságban és szárazon tudhassa a hazaútig.",
+                "ro": "Parcați cât mai aproape de intrarea acoperită a pieței; folosiți portbagajul pentru a vă păstra cumpărăturile la adăpost de ploaia torențială.",
+                "en": "Park as close as possible to the covered market entrance; use your trunk to keep any local finds protected from the heavy tropical rain during the drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Muhajirin",
+                "hu": "Masjid Nurul Muhajirin",
+                "ro": "Masjid Nurul Muhajirin",
+                "en": "Masjid Nurul Muhajirin"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee bietet einen großzügigen, trockenen Innenraum; lassen Sie nasse Schuhe im vorgesehenen Regal, um den Teppichboden trocken zu halten.",
+                "hu": "A mecset tágas és száraz belső teret kínál; a vizes cipőket hagyja a kijelölt polcon, hogy megóvja a benti szőnyegek tisztaságát és szárazságát.",
+                "ro": "Moscheea oferă un interior spațios și uscat; lăsați încălțămintea udă pe raftul desemnat pentru a menține curățenia și uscarea covoarelor din interior.",
+                "en": "The mosque provides a spacious, dry interior; leave wet shoes on the designated rack to keep the prayer rugs clean and dry during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Negeri Provinsi Sulawesi Tenggara",
+                "hu": "Museum Negeri Provinsi Sulawesi Tenggara",
+                "ro": "Museum Negeri Provinsi Sulawesi Tenggara",
+                "en": "Museum Negeri Provinsi Sulawesi Tenggara"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der ideale Zufluchtsort bei Starkregen; nutzen Sie die Zeit für eine ausführliche Besichtigung der Exponate im klimatisierten Inneren.",
+                "hu": "A múzeum ideális menedék heves esőzés idején; használja ki az időt a kiállítások alapos megtekintésére a kellemes, klimatizált belső terekben.",
+                "ro": "Muzeul este refugiul ideal în timpul ploilor torențiale; profitați de timp pentru o vizitare detaliată a exponatelor în spațiul interior climatizat.",
+                "en": "The museum is an ideal sanctuary during heavy rain; take your time exploring the extensive exhibits in the air-conditioned and dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Religi Sultra",
+                "hu": "Tugu Religi Sultra",
+                "ro": "Tugu Religi Sultra",
+                "en": "Tugu Religi Sultra"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das monumentale Bauwerk bei Regen bequem vom Auto aus; für Fotos bieten die Fensterrahmen des Wagens einen natürlichen Regenschutz.",
+                "hu": "Csodálja meg a monumentális építményt az autó kényelméből; fotózáshoz az autóablak kerete természetes védelmet nyújt a beeső esőcseppek ellen.",
+                "ro": "Admirați structura monumentală din confortul mașinii; pentru fotografii, cadrul ferestrei oferă o protecție naturală împotriva picăturilor de ploaie.",
+                "en": "Admire the monumental structure from the comfort of your car; the window frame acts as a natural shield for taking photos during a heavy shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Religi Sultra Letter Sign",
+                "hu": "Tugu Religi Sultra Letter Sign",
+                "ro": "Tugu Religi Sultra Letter Sign",
+                "en": "Tugu Religi Sultra Letter Sign"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie eine Regenpause im Wagen ab, um kurz für ein Foto auszusteigen; die bunten Buchstaben leuchten auf nassem Boden besonders kräftig.",
+                "hu": "Várja meg az autóban, amíg alábbhagy az eső, hogy kiszállhasson egy gyors fotóra; a színes betűk ragyogása felerősödik a vizes aszfalton.",
+                "ro": "Așteptați în mașină oprirea ploii pentru a ieși rapid la o fotografie; literele colorate strălucesc și mai puternic pe solul ud și reflectorizant.",
+                "en": "Wait in the car for a break in the rain to step out for a quick photo; the colorful letters look extra vibrant reflected on the wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Menara",
+                "hu": "Tugu Menara",
+                "ro": "Tugu Menara",
+                "en": "Tugu Menara"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt über Hauptstraßen vermeidet überflutete Nebenwege; genießen Sie den Blick auf den Turm bei wolkenverhangenem, dramatischem Himmel.",
+                "hu": "A főutakon való megközelítéssel elkerülheti az elöntött mellékutcákat; élvezze a torony látványát a felhőbe burkolózó, drámai égbolt alatt.",
+                "ro": "Accesul pe drumurile principale evită străzile secundare inundate; bucurați-vă de vederea turnului sub cerul noros și plin de dramatism.",
+                "en": "Sticking to main roads helps you avoid flooded side streets; enjoy the view of the tower against the dramatic, cloud-filled tropical sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Sentral Kota Lama",
+                "hu": "Pasar Sentral Kota Lama",
+                "ro": "Pasar Sentral Kota Lama",
+                "en": "Pasar Sentral Kota Lama"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss, da Sie direkt vor den Markthallen parken können; der Regen verleiht der Altstadt eine besondere, historische Note.",
+                "hu": "Tökéletes záróhelyszín, mivel közvetlenül a vásárcsarnok előtt parkolhat; az eső különleges, patinás hangulatot kölcsönöz az óvárosi résznek.",
+                "ro": "Un loc de încheiere perfect, deoarece puteți parca chiar în fața halelor; ploaia oferă centrului vechi o notă istorică deosebită.",
+                "en": "A perfect final stop, as you can park right in front of the market halls; the rain adds a nostalgic, historic atmosphere to the Old Town area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt am Morgen ist dank der kühlen Luft sehr angenehm, die Klimaanlage kann oft ausbleiben. Mittags erkunden wir die kulturellen Highlights, während die Wintersonne die Stadt in ein sanftes Licht taucht.\n\nNachmittags steuern wir die religiösen Stätten und Monumente an, bevor die Schatten länger werden. Da die Sonne gegen 17:00 Uhr untergeht, planen wir unseren letzten Halt so, dass wir das frühe Abendrot bequem erreichen.",
+            "hu": "A reggeli autózás a hűvös levegőnek köszönhetően igen kellemes, a légkondicionáló gyakran kikapcsolva is maradhat. Délben a kulturális látnivalókat keressük fel, miközben a téli nap lágy fénybe vonja a várost.\n\nDélután a vallási helyszíneket és emlékműveket látogatjuk meg, mielőtt az árnyékok megnyúlnának. Mivel a nap 17:00 körül nyugszik, az utolsó megállót a korai alkonyhoz igazítjuk.",
+            "ro": "Călătoria de dimineață este foarte plăcută datorită aerului răcoros, clima putând rămâne adesea oprită. La prânz explorăm punctele culturale, în timp ce soarele de iarnă scaldă orașul într-o lumină blândă.\n\nDupă-amiaza ne îndreptăm spre monumente și lăcașuri de cult înainte ca umbrele să se lungească. Deoarece soarele apune la ora 17:00, planificăm ultima oprire pentru amurgul timpuriu.",
+            "en": "The morning drive is refreshing thanks to the cool winter air, often allowing the AC to stay off. At noon, we explore cultural highlights as the mild sun casts a soft, golden glow over the city streets.\n\nIn the afternoon, we visit religious sites and monuments before the long winter shadows stretch out. As sunset occurs around 5:00 PM, we time our final stop to enjoy the early evening colors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Andunouho",
+                "hu": "Pasar Andunouho",
+                "ro": "Pasar Andunouho",
+                "en": "Pasar Andunouho"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Tour früh am Markt, wenn die Luft noch frisch ist; im Winter sind die Parkplätze am Vormittag oft leichter zugänglich.",
+                "hu": "Kezdje korán a piaci túrát, amíg a levegő még friss; télen a parkolóhelyek délelőtt gyakran könnyebben elérhetőek ezen a környéken.",
+                "ro": "Începeți turul pieței devreme, cât aerul este încă proaspăt; iarna, locurile de parcare sunt adesea mai ușor de găsit în timpul dimineții.",
+                "en": "Start your market visit early while the air is still crisp; in winter, parking spots near the entrance are often easier to find during the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Muhajirin",
+                "hu": "Masjid Nurul Muhajirin",
+                "ro": "Masjid Nurul Muhajirin",
+                "en": "Masjid Nurul Muhajirin"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Moschee am Vormittag für das beste natürliche Licht im Inneren; die kühlere Außenluft macht den Aufenthalt besonders angenehm.",
+                "hu": "Látogassa meg a mecsetet délelőtt a legszebb természetes benti fényekért; a hűvösebb külső levegő különösen kellemessé teszi a látogatást.",
+                "ro": "Vizitați moscheea dimineața pentru cea mai bună lumină naturală în interior; aerul mai răcoros de afară face vizita extrem de confortabilă.",
+                "en": "Visit the mosque in the morning for the best natural light inside; the cooler ambient temperature makes the overall experience very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Negeri Provinsi Sulawesi Tenggara",
+                "hu": "Museum Negeri Provinsi Sulawesi Tenggara",
+                "ro": "Museum Negeri Provinsi Sulawesi Tenggara",
+                "en": "Museum Negeri Provinsi Sulawesi Tenggara"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten der Bäume auf dem Gelände; das Museum bietet eine willkommene, gut temperierte Pause während der milden Mittagsstunden.",
+                "hu": "Parkoljon a múzeum udvarán a fák árnyékában; az épület hűvösebb terei kellemes felfrissülést nyújtanak az enyhe téli napsütésben eltöltött út után.",
+                "ro": "Parcați la umbra copacilor din curte; muzeul oferă o pauză binevenită și răcoroasă în timpul orelor blânde de prânz ale iernii.",
+                "en": "Park under the shade of trees on the museum grounds; the indoor galleries offer a perfectly tempered break during the mild winter midday hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Religi Sultra",
+                "hu": "Tugu Religi Sultra",
+                "ro": "Tugu Religi Sultra",
+                "en": "Tugu Religi Sultra"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterwetter für weite Panoramaaufnahmen des Platzes; im Auto haben Sie stets einen bequemen Rückzugsort vor der Sonne.",
+                "hu": "Használja ki a tiszta téli időt a tér panorámás fotózásához; az autóban mindig kéznél van egy kényelmes, árnyékos menedék a napsütés elől.",
+                "ro": "Profitați de vremea clară de iarnă pentru fotografii panoramice ale pieței; în mașină aveți mereu un refugiu confortabil împotriva soarelui.",
+                "en": "Take advantage of the clear winter skies for panoramic shots of the plaza; the car remains a comfortable, cool retreat from the direct sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Religi Sultra Letter Sign",
+                "hu": "Tugu Religi Sultra Letter Sign",
+                "ro": "Tugu Religi Sultra Letter Sign",
+                "en": "Tugu Religi Sultra Letter Sign"
+              },
+              "tip_5lang": {
+                "de": "Das milde Licht am Nachmittag ist ideal, um die bunten Farben ohne harte Schatten einzufangen; ein kurzer Stopp direkt am Straßenrand genügt.",
+                "hu": "A délutáni lágy fény ideális, hogy erős árnyékok nélkül örökítse meg a színeket; egy rövid megálló az út mentén bőven elég a tökéletes képhez.",
+                "ro": "Lumina blândă de după-amiază este ideală pentru a surprinde culorile fără umbre dure; o scurtă oprire la marginea drumului este suficientă.",
+                "en": "The mild afternoon light is perfect for capturing the vibrant colors without harsh shadows; a quick roadside stop is all you need for a great photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Menara",
+                "hu": "Tugu Menara",
+                "ro": "Tugu Menara",
+                "en": "Tugu Menara"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die längeren Schatten am späten Nachmittag für interessante Architekturfotos; die Anfahrt ist im Winter besonders staubfrei und klar.",
+                "hu": "Figyelje meg a hosszú árnyékokat késő délután az izgalmas építészeti fotókhoz; a téli levegőben a látótávolság tiszta és pormentes ezen a részen.",
+                "ro": "Observați umbrele lungi de după-amiază pentru fotografii de arhitectură interesante; aerul de iarnă este curat și fără praf în această zonă.",
+                "en": "Watch for the long late-afternoon shadows to create interesting architectural photos; the winter air is exceptionally clear and dust-free here."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Sentral Kota Lama",
+                "hu": "Pasar Sentral Kota Lama",
+                "ro": "Pasar Sentral Kota Lama",
+                "en": "Pasar Sentral Kota Lama"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den Marktbesuch mit dem frühen Abendrot zu verbinden; die kühle Meeresbrise ist hier im Winter besonders spürbar.",
+                "hu": "Érkezzen meg 17:00 előtt, hogy a piaci látogatást összekösse a korai alkonnyal; a hűvös tengeri szellő télen itt különösen élénkítő hatású.",
+                "ro": "Arribați înainte de ora 17:00 pentru a îmbina vizita la piață cu amurgul timpuriu; briza răcoroasă a mării este foarte revigorantă iarna.",
+                "en": "Arrive before 5:00 PM to combine your market visit with the early twilight; the cool sea breeze is particularly refreshing here during winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

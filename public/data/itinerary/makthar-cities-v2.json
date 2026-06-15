@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot a Musée de Maktaris megtekintésével, és merüljön el a helyi történelemben. Délben sétáljon végig Mactaris lenyűgöző ókori romjain. Délután fedezze fel a vallási helyszíneket és a hatalmas római fürdőket. Az este pihentető lezárást kínál a Capitoliumi fürdők ősi oszlopai között, mielőtt a városnéző túra a végéhez ér.",
         "ro": "Începeți ziua cu o vizită la Musée de Maktaris și pătrundeți în istoria locală fascinantă. La prânz, plimbați-vă prin ruinele impresionante ale Mactarisului. După-amiaza, explorați siturile religioase și complexele termale. Seara oferă o încheiere relaxantă printre coloanele antice ale Termelor Capitoliului, înainte ca turul dumneavoastră să se termine.",
         "en": "Start your day with a visit to the Musée de Maktaris and delve into the fascinating local history. At noon, stroll through the impressive ancient ruins of Mactaris. In the afternoon, explore the important religious sites and grand thermal complexes. The evening offers a relaxing conclusion among the ancient columns of the Capitol Baths before your tour ends."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen im Museum, um trocken die antiken Artefakte zu bestaunen. Mittags erkunden Sie die römischen Ruinen mit Schirm und wasserfesten Schuhen. Nachmittags besichtigen Sie die Thermen vorsichtig, da die Steine rutschig sind. Beenden Sie den Tag früh an einem warmen Ort.",
+            "hu": "Esős reggelét kezdje a múzeumban, ahol szárazon maradhat a lenyűgöző leletek között. Délben vízálló cipőben és esernyővel járja be a római romokat. Délután óvatosan fedezze fel az ősi fürdőket, mivel a kövek nagyon csúszósak lehetnek. Az esős napot zárja korán egy kényelmes, meleg helyen.",
+            "ro": "Începeți dimineața ploioasă la muzeu pentru a rămâne uscat printre artefacte. La prânz, explorați ruinele romane folosind o umbrelă și încălțăminte impermeabilă. După-amiaza, vizitați băile antice cu mare grijă, deoarece pietrele devin alunecoase. Încheiați ziua devreme într-un loc cald și confortabil.",
+            "en": "Start your wet morning at the museum to stay dry while exploring ancient artifacts. At noon, navigate the Roman ruins with an umbrella and sturdy waterproof shoes. In the afternoon, explore the ancient baths carefully as the stones get very slippery. Conclude your rainy day early by finding a cozy place to warm up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum von Maktaris",
+                "hu": "Maktaris Múzeuma",
+                "ro": "Muzeul Maktaris",
+                "en": "Maktaris Museum"
+              },
+              "tip_5lang": {
+                "de": "Hervorragender Zufluchtsort, um antike Mosaike zu bewundern; nutzen Sie die Zeit hier, um starke Regenschauer abzuwarten.",
+                "hu": "Kiváló beltéri menedék az ókori mozaikok és szobrok megcsodálására; használja ki az időt a heves esők átvészelésére.",
+                "ro": "Refugiu interior excelent pentru a admira mozaicuri antice; folosiți timpul aici pentru a aștepta trecerea averselor.",
+                "en": "Excellent indoor refuge to admire ancient mosaics and statues; use the time here to wait out heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Mactaris",
+                "hu": "Mactaris",
+                "ro": "Mactaris",
+                "en": "Mactaris"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das weitläufige Forum vorsichtig; die antiken römischen Pflastersteine werden bei Regen extrem rutschig.",
+                "hu": "Óvatosan fedezze fel a hatalmas fórumot; az ősi római kövezett utak rendkívül csúszóssá válnak a hulló esőben.",
+                "ro": "Explorați cu grijă zona vastă a forumului; pietrele antice de pavaj roman devin extrem de alunecoase în ploaie.",
+                "en": "Explore the vast forum area carefully; the ancient Roman paving stones become extremely slippery under the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel von Hathor Miskar",
+                "hu": "Hathor Miskar Temploma",
+                "ro": "Templul lui Hathor Miskar",
+                "en": "Temple of Hathor Miskar"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die verbliebenen Säulen dieses Heiligtums und bringen Sie einen Regenschirm mit, da es hier keinen Unterstand gibt.",
+                "hu": "Csodálja meg a szentély megmaradt oszlopait, és hozzon erős esernyőt, mivel itt egyáltalán nincs fedett menedék.",
+                "ro": "Admirați coloanele rămase ale sanctuarului și aduceți o umbrelă rezistentă, deoarece aici nu există absolut niciun adăpost.",
+                "en": "Marvel at the remaining columns of this sanctuary, and bring a sturdy umbrella as there is absolutely no overhead shelter here."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Hildeguns",
+                "hu": "Hildeguns Bazilikája",
+                "ro": "Bazilica Hildeguns",
+                "en": "Basilica of Hildeguns"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die byzantinischen Fundamente, aber bleiben Sie an den grasbewachsenen Rändern, um tiefe Schlammpfützen zu meiden.",
+                "hu": "Tekintse meg a lenyűgöző bizánci alapokat, de maradjon a füves széleken, hogy elkerülje a mély sártócsákat a főutakon.",
+                "ro": "Vizualizați fundațiile bizantine, dar stați pe marginile cu iarbă pentru a evita bălțile adânci de noroi de pe poteci.",
+                "en": "View the impressive Byzantine foundations, but stay on the grassy edges to avoid the deep mud puddles on the main pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Thermen",
+                "hu": "Nagy Fürdők",
+                "ro": "Marile Terme",
+                "en": "Large Baths"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich die antiken Bäder vor, während Sie unter den massiven Steinbögen und Gewölben kurz Schutz vor dem Regen suchen.",
+                "hu": "Képzelje el az egykori fürdőket, miközben átmeneti menedéket keres az eső elől a hatalmas megmaradt kőívek és boltozatok alatt.",
+                "ro": "Imaginați-vă băile antice în timp ce vă refugiați temporar de ploaie sub arcadele și bolțile masive de piatră rămase.",
+                "en": "Imagine the ancient baths while taking temporary refuge from the rain under the massive remaining stone arches and vaults."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapitol-Thermen",
+                "hu": "Capitoliumi fürdők",
+                "ro": "Termele Capitoliului",
+                "en": "Capitol Baths"
+              },
+              "tip_5lang": {
+                "de": "Die architektonischen Überreste sind nass wunderschön, aber treten Sie vorsichtig auf die rutschigen, regendurchtränkten Trümmer.",
+                "hu": "A nagyszerű építészeti maradványok gyönyörűek nedvesen, de lépjen óvatosan az eső áztatta, rendkívül csúszós törmelékek között.",
+                "ro": "Rămășițele arhitecturale sunt superbe când sunt ude, dar pășiți cu prudență pe pietrele istorice alunecoase și îmbibate de ploaie.",
+                "en": "The grand architectural remnants are beautiful when wet, but step cautiously around the slippery, rain-soaked historical debris."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den kalten Wintermorgen im Museum, gut eingepackt in warme Schichten. Gegen Mittag beleuchtet die Wintersonne die römischen Ruinen auf malerische Weise. Nachmittags kühlen die Temperaturen schnell ab, bleiben Sie bei den Thermen in Bewegung. Beenden Sie den Tag vor 17:00 Uhr wegen der frühen Dunkelheit.",
+            "hu": "Kezdje a fagyos téli reggelt a múzeumban, réteges és meleg öltözékben. Délben a téli napsütés gyönyörűen megvilágítja a hatalmas római romokat. Délután a fürdőknél mozogjon folyamatosan, ahogy a hőmérséklet hirtelen esni kezd. Fejezze be a napot 17:00 körül, mivel a korai naplemente csípős hideget hoz.",
+            "ro": "Începeți dimineața de iarnă la muzeu, purtând haine groase împotriva frigului. La prânz, soarele de iarnă luminează superb ruinele romane. După-amiaza, continuați să vă mișcați prin băile antice pe măsură ce temperaturile scad rapid. Încheiați ziua până la ora 17:00, deoarece întunericul aduce un frig pătrunzător.",
+            "en": "Begin your crisp winter morning at the museum, wearing warm layers against the chill. By noon, the winter sun beautifully illuminates the extensive Roman ruins. In the afternoon, keep moving through the ancient baths to stay warm as temperatures drop. End your day by 17:00, as the early sunset brings biting cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum von Maktaris",
+                "hu": "Maktaris Múzeuma",
+                "ro": "Muzeul Maktaris",
+                "en": "Maktaris Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die punischen Stelen, aber behalten Sie die Jacke an, da das historische Gebäude im Winter kaum geheizt wird.",
+                "hu": "Fedezze fel a pun sztéléket odabent, de tartsa magán a kabátot, mivel a történelmi épület alig fűtött télen.",
+                "ro": "Descoperiți stelele punice înăuntru, dar păstrați haina, deoarece clădirea istorică este abia încălzită iarna.",
+                "en": "Discover fascinating Punic steles inside, but keep your coat on as the historic building is barely heated in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Mactaris",
+                "hu": "Mactaris",
+                "ro": "Mactaris",
+                "en": "Mactaris"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne wirft tolle Schatten auf die Ruinen, aber bereiten Sie sich auf eisige Winde auf dem offenen Plateau vor.",
+                "hu": "Az alacsony téli nap lenyűgöző árnyékokat vet a romokra, de készüljön fel a nyitott fennsíkon végigsöprő metsző szelekre.",
+                "ro": "Soarele de iarnă creează umbre uimitoare peste ruine, dar pregătiți-vă pentru vânturile reci ce străbat platoul deschis.",
+                "en": "The low winter sun creates stunning shadows across the ruins, but prepare for biting winds sweeping across the open plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel von Hathor Miskar",
+                "hu": "Hathor Miskar Temploma",
+                "ro": "Templul lui Hathor Miskar",
+                "en": "Temple of Hathor Miskar"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die punisch-römische Architektur; tragen Sie einen Schal, da das Tempelareal der Kälte stark ausgesetzt ist.",
+                "hu": "Vizsgálja meg a pun és római építészet keverékét; viseljen extra sálat, mivel a templom területe erősen ki van téve a hidegnek.",
+                "ro": "Examinați arhitectura punico-romană; purtați un fular în plus, deoarece zona templului este foarte expusă la frig.",
+                "en": "Examine the fascinating mix of Punic and Roman architecture; wear an extra scarf as the temple area is highly exposed to the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Hildeguns",
+                "hu": "Hildeguns Bazilikája",
+                "ro": "Bazilica Hildeguns",
+                "en": "Basilica of Hildeguns"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die christlichen Ruinen; besuchen Sie sie am frühen Nachmittag, bevor die frühe Dämmerung frostige Schatten wirft.",
+                "hu": "Csodálja meg a monumentális keresztény romokat; látogasson ide kora délután, mielőtt a korai szürkület fagyos árnyékba borítja.",
+                "ro": "Admirați ruinele creștine; vizitați-le la începutul după-amiezii înainte ca amurgul devreme să le arunce în umbre înghețate.",
+                "en": "Admire the monumental Christian ruins; visit early in the afternoon before the early twilight casts them into freezing shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Thermen",
+                "hu": "Nagy Fürdők",
+                "ro": "Marile Terme",
+                "en": "Large Baths"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das riesige Heiznetzwerk der antiken Bäder, ein starker Kontrast zu der eisigen Winterluft, die Sie heute spüren.",
+                "hu": "Fedezze fel az ősi fürdők fűtési hálózatát, amely éles ellentétben áll a mai fagyos téli levegővel, amit itt érezni fog.",
+                "ro": "Explorați rețeaua vastă de încălzire a băilor, un contrast puternic cu aerul înghețat de iarnă pe care îl veți simți aici.",
+                "en": "Explore the vast heating network of the ancient baths, a stark contrast to the freezing winter air you will feel here today."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapitol-Thermen",
+                "hu": "Capitoliumi fürdők",
+                "ro": "Termele Capitoliului",
+                "en": "Capitol Baths"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Bögen vor dem blassen Winterhimmel; behalten Sie Handschuhe an, da die alten Steine sehr kalt sind.",
+                "hu": "Figyelje meg a lenyűgöző íveket a halvány téli égbolt előtt; tartsa magán a kesztyűt, mert a fagyott ősi kövek érintése hideg.",
+                "ro": "Observați arcadele impresionante pe cerul palid de iarnă; purtați mănuși, deoarece pietrele antice înghețate sunt foarte reci.",
+                "en": "Witness the impressive arches against a pale winter sky; keep your gloves on as touching the frozen ancient stones is very cold."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Induljon kerékpárral Zama Minorhoz, és ismerje meg az ókori konfliktusokat. Délben tekerjen át a múzeumhoz és a központi Mactaris romokhoz. Délután kényelmesen elbiciklizhet a lenyűgöző fürdőkomplexumokhoz. Este érje el a pun műemléket, ahol az észak-afrikai város gazdag történelmét még egyszer, a lágy esti fényben elmélkedve élheti át.",
         "ro": "Începeți pedalând la Zama Minor și aflați mai multe despre conflictele antice. La prânz, mergeți spre muzeu și ruinele centrale din Mactaris. După-amiaza, mergeți cu bicicleta către fascinantele complexe termale. Seara ajungeți la monumentul punic, unde puteți reflecta asupra istoriei bogate a acestui oraș nord-african în lumina blândă.",
         "en": "Start cycling at Zama Minor and learn about the ancient conflicts of the region. At noon, ride to the museum and the core ruins of Mactaris. In the afternoon, enjoy a leisurely bike ride to the fascinating thermal complexes. In the evening, reach the Punic monument, where you can reflect on the rich history of this North African city in the soft evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre nasse Fahrt mit Schutzblechen vorsichtig in Richtung Zama Minor. Mittags finden Sie im Museum Schutz und können Ihre Ausrüstung trocknen. Fahren Sie nachmittags langsam über die nassen, rutschigen Steinwege der Ruinen. Beenden Sie die Tour sicher vor dem Abend, da die Sicht bei Regen stark abnimmt.",
+            "hu": "Kezdje az esős bringázást sárvédőkkel Zama Minor felé, óvatos tempóban. Délben húzódjon be a múzeumba, és szárítsa meg felszerelését. Délután lassan haladjon az ősi kövezett utakon, elkerülve a csúszásveszélyt. Fejezze be a túrát biztonságban még este előtt, mivel az esőben drasztikusan romlanak a látási viszonyok.",
+            "ro": "Începeți plimbarea umedă pe bicicletă cu apărători de noroi spre Zama Minor. La prânz, adăpostiți-vă la muzeu și uscați-vă echipamentul. După-amiaza, pedalați încet pe drumurile pavate antice pentru a evita alunecarea. Terminați traseul în siguranță înainte de seară, deoarece vizibilitatea scade mult pe timp de ploaie.",
+            "en": "Start your wet ride with mudguards towards Zama Minor, biking cautiously. By noon, take shelter in the Maktaris Museum and dry your gear. In the afternoon, navigate the ancient paved paths slowly to avoid skidding on wet surfaces. Finish the ride safely before evening as visibility drops significantly in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zama Minor",
+                "hu": "Zama Minor",
+                "ro": "Zama Minor",
+                "en": "Zama Minor"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie diese weniger bekannte Stätte vorsichtig; starker Regen verwandelt die unbefestigten Wege oft in schlammige Pfade.",
+                "hu": "Fedezze fel óvatosan ezt a kevésbé ismert helyet; a heves esőzések gyakran sáros, kihívást jelentő ösvénnyé változtatják az utat.",
+                "ro": "Descoperiți cu grijă acest sit mai puțin cunoscut; ploile abundente transformă adesea drumurile de acces în noroi.",
+                "en": "Discover this lesser-known site carefully; heavy rains often turn the unpaved approach roads into a muddy, challenging path."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Maktaris",
+                "hu": "Maktaris Múzeuma",
+                "ro": "Muzeul Maktaris",
+                "en": "Maktaris Museum"
+              },
+              "tip_5lang": {
+                "de": "Hervorragender Zufluchtsort, um antike Mosaike zu bewundern; nutzen Sie die Zeit hier, um starke Regenschauer abzuwarten.",
+                "hu": "Kiváló beltéri menedék az ókori mozaikok és szobrok megcsodálására; használja ki az időt a heves esők átvészelésére.",
+                "ro": "Refugiu interior excelent pentru a admira mozaicuri antice; folosiți timpul aici pentru a aștepta trecerea averselor.",
+                "en": "Excellent indoor refuge to admire ancient mosaics and statues; use the time here to wait out heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Mactaris",
+                "hu": "Mactaris",
+                "ro": "Mactaris",
+                "en": "Mactaris"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das weitläufige Forum vorsichtig; die antiken römischen Pflastersteine werden bei Regen extrem rutschig.",
+                "hu": "Óvatosan fedezze fel a hatalmas fórumot; az ősi római kövezett utak rendkívül csúszóssá válnak a hulló esőben.",
+                "ro": "Explorați cu grijă zona vastă a forumului; pietrele antice de pavaj roman devin extrem de alunecoase în ploaie.",
+                "en": "Explore the vast forum area carefully; the ancient Roman paving stones become extremely slippery under the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel von Hathor Miskar",
+                "hu": "Hathor Miskar Temploma",
+                "ro": "Templul lui Hathor Miskar",
+                "en": "Temple of Hathor Miskar"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die verbliebenen Säulen dieses Heiligtums und bringen Sie einen Regenschirm mit, da es hier keinen Unterstand gibt.",
+                "hu": "Csodálja meg a szentély megmaradt oszlopait, és hozzon erős esernyőt, mivel itt egyáltalán nincs fedett menedék.",
+                "ro": "Admirați coloanele rămase ale sanctuarului și aduceți o umbrelă rezistentă, deoarece aici nu există absolut niciun adăpost.",
+                "en": "Marvel at the remaining columns of this sanctuary, and bring a sturdy umbrella as there is absolutely no overhead shelter here."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Thermen",
+                "hu": "Nagy Fürdők",
+                "ro": "Marile Terme",
+                "en": "Large Baths"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich die antiken Bäder vor, während Sie unter den massiven Steinbögen und Gewölben kurz Schutz vor dem Regen suchen.",
+                "hu": "Képzelje el az egykori fürdőket, miközben átmeneti menedéket keres az eső elől a hatalmas megmaradt kőívek és boltozatok alatt.",
+                "ro": "Imaginați-vă băile antice în timp ce vă refugiați temporar de ploaie sub arcadele și bolțile masive de piatră rămase.",
+                "en": "Imagine the ancient baths while taking temporary refuge from the rain under the massive remaining stone arches and vaults."
+              }
+            },
+            {
+              "name": {
+                "de": "Punisches Monument",
+                "hu": "Pun műemlék",
+                "ro": "Monumentul punic",
+                "en": "Punic Monument"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das markante monolithische Grabmal durch den Regen, aber genießen Sie es zügig, um nicht völlig durchnässt zu werden.",
+                "hu": "Tekintse meg a feltűnő monolit síremléket, amely az esőn át is jól látható, de ne időzzön sokat, nehogy teljesen elázzon.",
+                "ro": "Priviți mormântul monolitic izbitor, ușor vizibil prin ploaie, dar bucurați-vă de el rapid pentru a nu vă uda complet.",
+                "en": "Behold the striking monolithic tomb, easily visible through the rain, but enjoy it quickly to avoid getting completely soaked."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für die eiskalte Morgenfahrt zu den Ruinen von Zama Minor. Mittags bietet das Museum eine kurze Aufwärmpause, bevor es zu den römischen Stätten geht. Nachmittags hilft ein gleichmäßiges Tempo gegen den harten Wind. Beenden Sie die Fahrt bis 17:00 Uhr, da die Sonne früh untergeht und der Frost zurückkehrt.",
+            "hu": "Öltözzön be melegen a fagyos reggeli tekeréshez Zama Minor külső romjai felé. Délben a múzeum nyújt némi menedéket a római helyszínek előtt. Délután tartson egyenletes tempót, hogy felmelegedjen a fennsík metsző széllel szemben. Fejezze be a kerékpározást 17:00-ig, amikor a nap korán lenyugszik és visszatér a fagy.",
+            "ro": "Îmbrăcați-vă gros pentru o cursă matinală înghețată spre ruinele de la Zama Minor. La prânz, muzeul oferă puțină căldură înainte de site-urile romane. După-amiaza, mențineți un ritm constant pentru a vă încălzi împotriva vânturilor dure. Terminați de pedalat până la ora 17:00, deoarece soarele apune devreme.",
+            "en": "Bundle up for a freezing morning ride to the outer ruins of Zama Minor. At noon, the museum provides a slight warm-up before hitting the main Roman sites. In the afternoon, keep a steady pace to generate body heat against the harsh plateau winds. Complete your cycling by 17:00 as the sun sets early and the frost returns."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zama Minor",
+                "hu": "Zama Minor",
+                "ro": "Zama Minor",
+                "en": "Zama Minor"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier Ihren Winterausflug, wo der Morgenfrost die antiken Ruinen überzieht; dicke Schichten sind unerlässlich.",
+                "hu": "Kezdje itt téli kirándulását, ahol a reggeli fagy gyönyörűen bevonja az ősi romokat; vastag rétegek elengedhetetlenek.",
+                "ro": "Începeți excursia de iarnă aici, unde gerul matinal acoperă superb ruinele antice; straturile groase sunt esențiale.",
+                "en": "Start your winter excursion here where morning frost beautifully coats the ancient ruins; thick layers are essential for this stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Maktaris",
+                "hu": "Maktaris Múzeuma",
+                "ro": "Muzeul Maktaris",
+                "en": "Maktaris Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die punischen Stelen, aber behalten Sie die Jacke an, da das historische Gebäude im Winter kaum geheizt wird.",
+                "hu": "Fedezze fel a pun sztéléket odabent, de tartsa magán a kabátot, mivel a történelmi épület alig fűtött télen.",
+                "ro": "Descoperiți stelele punice înăuntru, dar păstrați haina, deoarece clădirea istorică este abia încălzită iarna.",
+                "en": "Discover fascinating Punic steles inside, but keep your coat on as the historic building is barely heated in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Mactaris",
+                "hu": "Mactaris",
+                "ro": "Mactaris",
+                "en": "Mactaris"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne wirft tolle Schatten auf die Ruinen, aber bereiten Sie sich auf eisige Winde auf dem offenen Plateau vor.",
+                "hu": "Az alacsony téli nap lenyűgöző árnyékokat vet a romokra, de készüljön fel a nyitott fennsíkon végigsöprő metsző szelekre.",
+                "ro": "Soarele de iarnă creează umbre uimitoare peste ruine, dar pregătiți-vă pentru vânturile reci ce străbat platoul deschis.",
+                "en": "The low winter sun creates stunning shadows across the ruins, but prepare for biting winds sweeping across the open plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel von Hathor Miskar",
+                "hu": "Hathor Miskar Temploma",
+                "ro": "Templul lui Hathor Miskar",
+                "en": "Temple of Hathor Miskar"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die punisch-römische Architektur; tragen Sie einen Schal, da das Tempelareal der Kälte stark ausgesetzt ist.",
+                "hu": "Vizsgálja meg a pun és római építészet keverékét; viseljen extra sálat, mivel a templom területe erősen ki van téve a hidegnek.",
+                "ro": "Examinați arhitectura punico-romană; purtați un fular în plus, deoarece zona templului este foarte expusă la frig.",
+                "en": "Examine the fascinating mix of Punic and Roman architecture; wear an extra scarf as the temple area is highly exposed to the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Thermen",
+                "hu": "Nagy Fürdők",
+                "ro": "Marile Terme",
+                "en": "Large Baths"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das riesige Heiznetzwerk der antiken Bäder, ein starker Kontrast zu der eisigen Winterluft, die Sie heute spüren.",
+                "hu": "Fedezze fel az ősi fürdők fűtési hálózatát, amely éles ellentétben áll a mai fagyos téli levegővel, amit itt érezni fog.",
+                "ro": "Explorați rețeaua vastă de încălzire a băilor, un contrast puternic cu aerul înghețat de iarnă pe care îl veți simți aici.",
+                "en": "Explore the vast heating network of the ancient baths, a stark contrast to the freezing winter air you will feel here today."
+              }
+            },
+            {
+              "name": {
+                "de": "Punisches Monument",
+                "hu": "Pun műemlék",
+                "ro": "Monumentul punic",
+                "en": "Punic Monument"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ausmaße dieses Mausoleums vor 16:30 Uhr, da das schwindende Winterlicht die Landschaft schnell verdunkelt.",
+                "hu": "Csodálja meg az ősi mauzóleum impozáns méreteit 16:30 előtt, mivel a fakuló téli fény gyorsan sötétbe borítja a tájat.",
+                "ro": "Admirați dimensiunea impunătoare a acestui mausoleu înainte de 16:30, pe măsură ce lumina de iarnă întunecă rapid peisajul.",
+                "en": "Admire the imposing scale of this ancient mausoleum before 16:30, as the fading winter light quickly darkens the landscape."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Reggel kényelmesen utazzon autóval a történelmi csatatérhez, Zama Minorhoz. Délben parkoljon le a múzeum közelében, és sétáljon végig az ókori Mactarison. Délután autója elviszi a bizánci bazilikához és más romokhoz. Az estét a lenyűgöző pun műemléknél zárhatja, amely nagyszerű befejezése ennek az izgalmas történelmi autós kirándulásnak.",
         "ro": "Conduceți confortabil dimineața până la Zama Minor, un câmp de luptă istoric. La prânz, parcați lângă muzeu și plimbați-vă prin anticul Mactaris. După-amiaza, mașina vă va duce la bazilica bizantină și alte ruine majore. Încheiați seara la impresionantul monument punic, o concluzie excelentă pentru această călătorie auto captivantă în istorie.",
         "en": "Drive comfortably in the morning to Zama Minor, the historic battlefield. At noon, park near the museum and walk through the sprawling ancient Mactaris. In the afternoon, your car will take you to the Byzantine basilica and other main ruins. End the evening at the impressive Punic monument, which forms a great conclusion to this exciting historical road trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig auf rutschigen Straßen zum abgelegenen Zama Minor. Mittags parken Sie nah am Museum, um den starken Regengüssen zu entkommen. Nachmittags machen Sie kurze Spaziergänge zu den Ruinen und nutzen das Auto als trockenen Zufluchtsort. Beenden Sie die Reise bequem vor dem abendlichen Dauerregen.",
+            "hu": "Vezessen óvatosan a csúszós reggeli utakon a távoli Zama Minor felé. Délben parkoljon a múzeum közelében, hogy elkerülje a felhőszakadást és élvezze a kiállítást. Délután tegyen rövid sétákat a romokhoz, az autót használva menedékként. Fejezze be az utat kényelmesen, mielőtt beáll az esti tartós eső.",
+            "ro": "Conduceți cu prudență pe drumurile alunecoase de dimineață spre Zama Minor. La prânz, parcați lângă muzeu pentru a scăpa de averse și a admira exponatele. După-amiaza, faceți plimbări scurte la ruine, folosind mașina pentru a rămâne uscat. Încheiați călătoria confortabil înainte să înceapă ploaia de seară.",
+            "en": "Drive carefully on slippery morning roads towards the remote Zama Minor. At noon, park near the museum to escape the heavy downpours and enjoy the exhibits. In the afternoon, make short walks to the ruins, using your car to stay dry between stops. Finish your journey comfortably as evening rain sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zama Minor",
+                "hu": "Zama Minor",
+                "ro": "Zama Minor",
+                "en": "Zama Minor"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie diese weniger bekannte Stätte vorsichtig; starker Regen verwandelt die unbefestigten Wege oft in schlammige Pfade.",
+                "hu": "Fedezze fel óvatosan ezt a kevésbé ismert helyet; a heves esőzések gyakran sáros, kihívást jelentő ösvénnyé változtatják az utat.",
+                "ro": "Descoperiți cu grijă acest sit mai puțin cunoscut; ploile abundente transformă adesea drumurile de acces în noroi.",
+                "en": "Discover this lesser-known site carefully; heavy rains often turn the unpaved approach roads into a muddy, challenging path."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Maktaris",
+                "hu": "Maktaris Múzeuma",
+                "ro": "Muzeul Maktaris",
+                "en": "Maktaris Museum"
+              },
+              "tip_5lang": {
+                "de": "Hervorragender Zufluchtsort, um antike Mosaike zu bewundern; nutzen Sie die Zeit hier, um starke Regenschauer abzuwarten.",
+                "hu": "Kiváló beltéri menedék az ókori mozaikok és szobrok megcsodálására; használja ki az időt a heves esők átvészelésére.",
+                "ro": "Refugiu interior excelent pentru a admira mozaicuri antice; folosiți timpul aici pentru a aștepta trecerea averselor.",
+                "en": "Excellent indoor refuge to admire ancient mosaics and statues; use the time here to wait out heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Mactaris",
+                "hu": "Mactaris",
+                "ro": "Mactaris",
+                "en": "Mactaris"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das weitläufige Forum vorsichtig; die antiken römischen Pflastersteine werden bei Regen extrem rutschig.",
+                "hu": "Óvatosan fedezze fel a hatalmas fórumot; az ősi római kövezett utak rendkívül csúszóssá válnak a hulló esőben.",
+                "ro": "Explorați cu grijă zona vastă a forumului; pietrele antice de pavaj roman devin extrem de alunecoase în ploaie.",
+                "en": "Explore the vast forum area carefully; the ancient Roman paving stones become extremely slippery under the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Hildeguns",
+                "hu": "Hildeguns Bazilikája",
+                "ro": "Bazilica Hildeguns",
+                "en": "Basilica of Hildeguns"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die byzantinischen Fundamente, aber bleiben Sie an den grasbewachsenen Rändern, um tiefe Schlammpfützen zu meiden.",
+                "hu": "Tekintse meg a lenyűgöző bizánci alapokat, de maradjon a füves széleken, hogy elkerülje a mély sártócsákat a főutakon.",
+                "ro": "Vizualizați fundațiile bizantine, dar stați pe marginile cu iarbă pentru a evita bălțile adânci de noroi de pe poteci.",
+                "en": "View the impressive Byzantine foundations, but stay on the grassy edges to avoid the deep mud puddles on the main pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Punisches Monument",
+                "hu": "Pun műemlék",
+                "ro": "Monumentul punic",
+                "en": "Punic Monument"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das markante monolithische Grabmal durch den Regen, aber genießen Sie es zügig, um nicht völlig durchnässt zu werden.",
+                "hu": "Tekintse meg a feltűnő monolit síremléket, amely az esőn át is jól látható, de ne időzzön sokat, nehogy teljesen elázzon.",
+                "ro": "Priviți mormântul monolitic izbitor, ușor vizibil prin ploaie, dar bucurați-vă de el rapid pentru a nu vă uda complet.",
+                "en": "Behold the striking monolithic tomb, easily visible through the rain, but enjoy it quickly to avoid getting completely soaked."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Befreien Sie das Auto vom Eis für die frostige Fahrt zum antiken Zama Minor. Mittags bietet das Museum einen kühlen, aber windgeschützten und faszinierenden Halt. Nachmittags fahren Sie zwischen den Monumenten hin und her, gut in dicke Schichten eingepackt. Fahren Sie vor 17:00 Uhr zurück, um unbeleuchtete Straßen zu meiden.",
+            "hu": "Jégmentesítse autóját a fagyos reggeli úthoz Zama Minor ősi romjai felé. Délben a múzeum hideg, de szélvédett és lenyűgöző megállót kínál. Délután vezessen a főbb műemlékek között, és csak alaposan felöltözve szálljon ki. Induljon vissza 17:00-ig, hogy elkerülje a rosszul kivilágított helyi utakat a sötétben.",
+            "ro": "Degivrați mașina pentru un drum matinal geros spre anticul Zama Minor. La prânz, muzeul oferă o oprire rece, dar protejată de vânt și fascinantă. După-amiaza, conduceți între monumentele majore, ieșind doar bine înfofolit. Întoarceți-vă până la 17:00 pentru a evita drumurile locale slab iluminate pe întuneric.",
+            "en": "Defrost your car for a frosty morning drive to explore the ancient Zama Minor. By noon, the museum offers a chilly but fascinating stop protected from the wind. In the afternoon, drive between the major monuments, stepping out wrapped in winter layers. Head back by 17:00 to avoid navigating poorly lit local roads in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zama Minor",
+                "hu": "Zama Minor",
+                "ro": "Zama Minor",
+                "en": "Zama Minor"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier Ihren Winterausflug, wo der Morgenfrost die antiken Ruinen überzieht; dicke Schichten sind unerlässlich.",
+                "hu": "Kezdje itt téli kirándulását, ahol a reggeli fagy gyönyörűen bevonja az ősi romokat; vastag rétegek elengedhetetlenek.",
+                "ro": "Începeți excursia de iarnă aici, unde gerul matinal acoperă superb ruinele antice; straturile groase sunt esențiale.",
+                "en": "Start your winter excursion here where morning frost beautifully coats the ancient ruins; thick layers are essential for this stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Maktaris",
+                "hu": "Maktaris Múzeuma",
+                "ro": "Muzeul Maktaris",
+                "en": "Maktaris Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die punischen Stelen, aber behalten Sie die Jacke an, da das historische Gebäude im Winter kaum geheizt wird.",
+                "hu": "Fedezze fel a pun sztéléket odabent, de tartsa magán a kabátot, mivel a történelmi épület alig fűtött télen.",
+                "ro": "Descoperiți stelele punice înăuntru, dar păstrați haina, deoarece clădirea istorică este abia încălzită iarna.",
+                "en": "Discover fascinating Punic steles inside, but keep your coat on as the historic building is barely heated in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Mactaris",
+                "hu": "Mactaris",
+                "ro": "Mactaris",
+                "en": "Mactaris"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne wirft tolle Schatten auf die Ruinen, aber bereiten Sie sich auf eisige Winde auf dem offenen Plateau vor.",
+                "hu": "Az alacsony téli nap lenyűgöző árnyékokat vet a romokra, de készüljön fel a nyitott fennsíkon végigsöprő metsző szelekre.",
+                "ro": "Soarele de iarnă creează umbre uimitoare peste ruine, dar pregătiți-vă pentru vânturile reci ce străbat platoul deschis.",
+                "en": "The low winter sun creates stunning shadows across the ruins, but prepare for biting winds sweeping across the open plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Hildeguns",
+                "hu": "Hildeguns Bazilikája",
+                "ro": "Bazilica Hildeguns",
+                "en": "Basilica of Hildeguns"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die christlichen Ruinen; besuchen Sie sie am frühen Nachmittag, bevor die frühe Dämmerung frostige Schatten wirft.",
+                "hu": "Csodálja meg a monumentális keresztény romokat; látogasson ide kora délután, mielőtt a korai szürkület fagyos árnyékba borítja.",
+                "ro": "Admirați ruinele creștine; vizitați-le la începutul după-amiezii înainte ca amurgul devreme să le arunce în umbre înghețate.",
+                "en": "Admire the monumental Christian ruins; visit early in the afternoon before the early twilight casts them into freezing shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Punisches Monument",
+                "hu": "Pun műemlék",
+                "ro": "Monumentul punic",
+                "en": "Punic Monument"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ausmaße dieses Mausoleums vor 16:30 Uhr, da das schwindende Winterlicht die Landschaft schnell verdunkelt.",
+                "hu": "Csodálja meg az ősi mauzóleum impozáns méreteit 16:30 előtt, mivel a fakuló téli fény gyorsan sötétbe borítja a tájat.",
+                "ro": "Admirați dimensiunea impunătoare a acestui mausoleu înainte de 16:30, pe măsură ce lumina de iarnă întunecă rapid peisajul.",
+                "en": "Admire the imposing scale of this ancient mausoleum before 16:30, as the fading winter light quickly darkens the landscape."
+              }
+            }
+          ]
+        }
       }
     }
   }

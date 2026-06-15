@@ -137,6 +137,168 @@
         "hu": "Reggel: Gyalogtúránk Xove szívében, az Igrexa de San Bartolo templomnál indul, békés alaphangot adva a napnak. Nem sokkal ezután a történelmi Concello de Xove épületénél a helyi közigazgatás gyökereit is megismerhetjük.\nDél: A központot elhagyva sétánk a Mámoa de Lamaboa felé vezet, ahol a régió ősi történelme bontakozik ki előttünk. A csendes ösvények remek lehetőséget kínálnak a természetben való elmélyülésre.\nDélután: Utunk a Henge de Lavandeiras felé folytatódik. Ez a lenyűgöző őskori lelőhely arra hívja a látogatókat, hogy elgondolkodjanak a hatalmas építményeket létrehozó korai telepesek mindennapjain.\nEste: A napot a Mámoas de Chan de Armada történelmi rejtélyekkel övezett kövei között zárjuk. A halványuló délutáni fény hosszú árnyékokat vet az ősi kövekre, tökéletes búcsút biztosítva.",
         "ro": "Dimineața: Turul nostru pietonal începe în inima orașului Xove, la Igrexa de San Bartolo, stabilind un ton pașnic. La scurt timp, explorăm istoricul Concello de Xove pentru a înțelege rădăcinile administrației locale.\nAmiaza: Părăsind centrul, plimbarea ne poartă spre Mámoa de Lamaboa, unde istoria antică a regiunii începe să se dezvăluie. Traseele liniștite oferă un moment perfect de reflecție în mijlocul naturii.\nDupă-amiaza: Călătoria continuă spre Henge de Lavandeiras. Acest sit preistoric impresionant ne invită să medităm asupra vieții primilor coloniști care au construit aceste structuri masive din piatră.\nSeara: Încheiem ziua la Mámoas de Chan de Armada, înconjurați de mister istoric. Lumina blândă a serii aruncă umbre lungi peste pietrele străvechi, oferind un moment de rămas bun perfect.",
         "en": "Morning: We start our walking tour in the heart of Xove at the Igrexa de San Bartolo, setting a peaceful tone for the day. Shortly after, we explore the historical Concello de Xove to understand the local administration's roots.\nMidday: Leaving the town center, our walk takes us to the Mámoa de Lamaboa, where the region's ancient history begins to unfold. The quiet trails offer a moment of reflection.\nAfternoon: The journey continues as we head towards the Henge de Lavandeiras. This impressive prehistoric site invites us to ponder the lives of the early settlers who built these massive structures.\nEvening: We conclude our day at the Mámoas de Chan de Armada, surrounded by historical mystery. The fading afternoon light casts long shadows over the ancient stones, providing a perfect farewell."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning starts with rain, so grab an umbrella for the town center.\n\nMidday brings wet trails to the ancient mounds, watch your step.\n\nAfternoon rain persists at the historical sites, waterproof boots are essential.\n\nEvening winds down wet and cold, seek a dry café nearby to warm up.",
+            "hu": "A reggel esővel indul, vigyél esernyőt a városközpontba.\n\nDélben nedves ösvények vezetnek az ősi halmokhoz, óvatosan lépkedj.\n\nDélután kitart az eső a történelmi helyszíneken, a vízálló bakancs elengedhetetlen.\n\nEste nedves és hűvös lesz, keress egy száraz kávézót a felmelegedéshez.",
+            "de": "Der Morgen beginnt mit Regen, also Regenschirm für das Zentrum einpacken.\n\nMittags führen nasse Wege zu den Hügelgräbern, Vorsicht ist geboten.\n\nNachmittags hält der Regen an, wasserdichte Schuhe sind unerlässlich.\n\nAbends wird es ungemütlich, suchen Sie ein trockenes Café zum Aufwärmen.",
+            "ro": "Dimineața începe cu ploaie, ia o umbrelă pentru centrul orașului.\n\nLa prânz, potecile spre tumulii antici sunt umede, pășește cu grijă.\n\nDupă-amiaza ploaia continuă la siturile istorice, bocancii impermeabili sunt esențiali.\n\nSeara se încheie rece, caută o cafenea uscată pentru a te încălzi."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Bartolo de Xove",
+                "hu": "Igrexa de San Bartolo de Xove",
+                "ro": "Igrexa de San Bartolo de Xove",
+                "en": "Igrexa de San Bartolo de Xove"
+              },
+              "tip_5lang": {
+                "en": "Admire the church architecture while sheltering under the porch during morning showers.",
+                "hu": "Csodáld meg a templom építészetét, miközben a reggeli záporok elől a tornác alá húzódsz.",
+                "de": "Bewundern Sie die Architektur der Kirche, während Sie bei morgendlichen Schauern unter der Veranda Schutz suchen.",
+                "ro": "Admiră arhitectura bisericii în timp ce te adăpostești sub pridvor în timpul ploilor matinale."
+              }
+            },
+            {
+              "name": {
+                "de": "Concello de Xove",
+                "hu": "Concello de Xove",
+                "ro": "Concello de Xove",
+                "en": "Concello de Xove"
+              },
+              "tip_5lang": {
+                "en": "Explore the town hall's historical documents inside, a perfect and dry escape from the rain.",
+                "hu": "Fedezd fel a városháza történelmi dokumentumait bent, ami tökéletes, száraz menedék az eső elől.",
+                "de": "Erkunden Sie die historischen Dokumente des Rathauses drinnen, eine perfekte, trockene Flucht vor dem Regen.",
+                "ro": "Explorează documentele istorice ale primăriei în interior, o evadare perfectă și uscată de ploaie."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoa de Lamaboa",
+                "hu": "Mámoa de Lamaboa",
+                "ro": "Mámoa de Lamaboa",
+                "en": "Mámoa de Lamaboa"
+              },
+              "tip_5lang": {
+                "en": "The ancient mound is muddy in the rain, so use trekking poles and waterproof boots to navigate safely.",
+                "hu": "Az ősi halom esőben saras, ezért használj túrabotot és vízálló bakancsot a biztonságos közlekedéshez.",
+                "de": "Der alte Hügel ist bei Regen schlammig, nutzen Sie Trekkingstöcke und wasserdichte Schuhe für sicheren Halt.",
+                "ro": "Tumulul antic este noroios pe ploaie, folosește bețe de trekking și bocanci impermeabili pentru a naviga în siguranță."
+              }
+            },
+            {
+              "name": {
+                "de": "Henge de Lavandeiras",
+                "hu": "Henge de Lavandeiras",
+                "ro": "Henge de Lavandeiras",
+                "en": "Henge de Lavandeiras"
+              },
+              "tip_5lang": {
+                "en": "Notice how the rain highlights the stones, but be cautious on the slippery grass around the henge.",
+                "hu": "Figyeld meg, ahogy az eső kiemeli a köveket, de légy óvatos a csúszós füvön a henge körül.",
+                "de": "Beachten Sie, wie der Regen die Steine hervorhebt, aber seien Sie vorsichtig auf dem rutschigen Gras um das Henge.",
+                "ro": "Observă cum ploaia evidențiază pietrele, dar fii precaut pe iarba alunecoasă din jurul monumentului."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoas de Chan de Armada",
+                "hu": "Mámoas de Chan de Armada",
+                "ro": "Mámoas de Chan de Armada",
+                "en": "Mámoas de Chan de Armada"
+              },
+              "tip_5lang": {
+                "en": "View the megalithic tombs under your umbrella; the wet terrain requires sturdy footwear today.",
+                "hu": "Nézd meg a megalitikus sírokat esernyő alól; a nedves terep masszív lábbelit követel ma.",
+                "de": "Betrachten Sie die Megalithgräber unter Ihrem Regenschirm; das nasse Gelände erfordert heute festes Schuhwerk.",
+                "ro": "Privește mormintele megalitice sub umbrelă; terenul umed necesită încălțăminte robustă astăzi."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "A crisp winter morning starts in the town center, bundle up warmly.\n\nMidday sun warms the ancient paths slightly, making the walk pleasant.\n\nAfternoon shadows lengthen quickly at the historical sites.\n\nEvening arrives by 5 PM, meaning you should finish the walk before dark.",
+            "hu": "Egy csípős téli reggel a városközpontban indul, öltözz fel melegen.\n\nA déli nap kissé felmelegíti az ősi ösvényeket, kellemessé téve a sétát.\n\nDélután az árnyékok gyorsan megnyúlnak a történelmi helyszíneken.\n\nAz este már 17:00-kor megérkezik, így sötétedés előtt fejezd be az utat.",
+            "de": "Ein klarer Wintermorgen beginnt im Stadtzentrum, packen Sie sich warm ein.\n\nDie Mittagssonne wärmt die alten Wege leicht auf.\n\nNachmittags werden die Schatten an den historischen Stätten schnell länger.\n\nDer Abend bricht gegen 17 Uhr herein, beenden Sie den Spaziergang vor Einbruch der Dunkelheit.",
+            "ro": "O dimineață de iarnă geroasă începe în centrul orașului, îmbracă-te gros.\n\nSoarele amiezii încălzește ușor potecile antice.\n\nDupă-amiaza, umbrele se lungesc rapid la siturile istorice.\n\nSeara sosește pe la ora 17:00, așa că termină plimbarea înainte de lăsarea întunericului."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Bartolo de Xove",
+                "hu": "Igrexa de San Bartolo de Xove",
+                "ro": "Igrexa de San Bartolo de Xove",
+                "en": "Igrexa de San Bartolo de Xove"
+              },
+              "tip_5lang": {
+                "en": "The morning air is brisk; step inside the church to admire its altar and warm your hands.",
+                "hu": "A reggeli levegő csípős; lépj be a templomba, hogy megcsodáld az oltárt és felmelegítsd a kezed.",
+                "de": "Die Morgenluft ist frisch; betreten Sie die Kirche, um den Altar zu bewundern und sich aufzuwärmen.",
+                "ro": "Aerul dimineții este tăios; intră în biserică pentru a admira altarul și a-ți încălzi mâinile."
+              }
+            },
+            {
+              "name": {
+                "de": "Concello de Xove",
+                "hu": "Concello de Xove",
+                "ro": "Concello de Xove",
+                "en": "Concello de Xove"
+              },
+              "tip_5lang": {
+                "en": "Take your time reading the town's history indoors to escape the biting winter chill outside.",
+                "hu": "Szánj időt a város történelmének benti olvasására, hogy elmenekülj a kinti maró téli hideg elől.",
+                "de": "Nehmen Sie sich Zeit, die Geschichte der Stadt drinnen zu lesen, um der beißenden Winterkälte zu entfliehen.",
+                "ro": "Fă-ți timp să citești istoria orașului înăuntru pentru a scăpa de frigul mușcător al iernii de afară."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoa de Lamaboa",
+                "hu": "Mámoa de Lamaboa",
+                "ro": "Mámoa de Lamaboa",
+                "en": "Mámoa de Lamaboa"
+              },
+              "tip_5lang": {
+                "en": "The winter frost makes the ancient mound magical, but dress in thermal layers for the exposed trail.",
+                "hu": "A téli fagy varázslatossá teszi az ősi halmot, de öltözz termikus rétegekbe a nyitott ösvényen.",
+                "de": "Der Winterfrost macht den alten Hügel magisch, aber tragen Sie Thermokleidung für den ungeschützten Weg.",
+                "ro": "Înghețul de iarnă face tumulul antic magic, dar poartă straturi termice pentru traseul expus."
+              }
+            },
+            {
+              "name": {
+                "de": "Henge de Lavandeiras",
+                "hu": "Henge de Lavandeiras",
+                "ro": "Henge de Lavandeiras",
+                "en": "Henge de Lavandeiras"
+              },
+              "tip_5lang": {
+                "en": "Low winter sun casts long shadows on the stones, perfect for photos, so wear a windbreaker.",
+                "hu": "Az alacsony téli nap hosszú árnyékokat vet a kövekre, ami tökéletes fotózáshoz, viselj széldzsekit.",
+                "de": "Die tief stehende Wintersonne wirft lange Schatten, ideal für Fotos, ziehen Sie eine Windjacke an.",
+                "ro": "Soarele de iarnă aruncă umbre lungi pe pietre, perfect pentru fotografii, poartă o geacă de vânt."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoas de Chan de Armada",
+                "hu": "Mámoas de Chan de Armada",
+                "ro": "Mámoas de Chan de Armada",
+                "en": "Mámoas de Chan de Armada"
+              },
+              "tip_5lang": {
+                "en": "Arrive before the early sunset around 5 PM to see the tombs; bring a flashlight just in case.",
+                "hu": "Érkezz a 17:00 órai korai naplemente előtt a sírokhoz; minden esetre hozz magaddal egy zseblámpát.",
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang gegen 17 Uhr an; bringen Sie für alle Fälle eine Taschenlampe mit.",
+                "ro": "Ajungi înainte de apusul devreme din jurul orei 17:00 pentru a vedea mormintele; ia o lanternă pentru orice eventualitate."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel: A kerékpártúra Xove központjában indul, megállókkal a bájos Igrexa de San Bartolo és a történelmi Concello épületénél. A friss reggeli szellő kellemessé teszi a tekerést.\nDél: Tovább haladva elérjük a történelem előtti Henge de Lavandeiras-t és a Mámoas de Chan de Armada-t. Ezek az ősi emlékművek a régió gazdag megalitikus múltjának csendes tanúi.\nDélután: A délutáni túra a Mámoa de Lama de Arcas felé vezet, még mélyebbre ásva a régészeti csodákban. A festői kerékpárutak gyönyörű kilátást nyújtanak a galíciai tájra.\nEste: Kerékpártúránkat a Castro de Sumoas-hoz vezető frissítő emelkedővel zárjuk. Az ősi domberődből nyíló panoráma látványos hátteret biztosít történelmi utazásunk befejezéséhez.",
         "ro": "Dimineața: Traseul de ciclism începe în centrul orașului Xove cu opriri la fermecătoarea Igrexa de San Bartolo și istoricul Concello. Briza proaspătă a dimineții face plimbarea foarte plăcută.\nAmiaza: Pedalând mai departe, ajungem la preistoricul Henge de Lavandeiras și la Mámoas de Chan de Armada. Aceste monumente antice stau ca martori tăcuți ai bogatului trecut megalitic al regiunii.\nDupă-amiaza: Călătoria de după-amiază ne poartă la Mámoa de Lama de Arcas, pătrunzând mai adânc în minunile arheologice. Pistele de ciclism pitorești oferă priveliști frumoase ale terenului galician.\nSeara: Terminam turul cu bicicleta cu o urcare revigorantă către Castro de Sumoas. Vederile panoramice de la această veche cetate de deal oferă un fundal spectaculos pentru a ne încheia călătoria.",
         "en": "Morning: The cycling route kicks off in central Xove with stops at the charming Igrexa de San Bartolo and the historic Concello. The fresh morning breeze makes for an easy and pleasant ride.\nMidday: Pedaling further, we arrive at the prehistoric Henge de Lavandeiras and the Mámoas de Chan de Armada. These ancient monuments stand as silent witnesses to the region's rich megalithic past.\nAfternoon: The afternoon ride takes us to the Mámoa de Lama de Arcas, delving deeper into the archaeological wonders. The scenic cycling paths offer beautiful views of the Galician terrain.\nEvening: We finish our cycling tour with an invigorating climb to the Castro de Sumoas. The panoramic views from this ancient hillfort provide a spectacular backdrop to end our historical journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning showers mean a wet start; equip your bike with mudguards for the town.\n\nMidday riding to the historical sites requires caution on slippery paths.\n\nAfternoon rain continues at the ancient tombs, keep your brakes dry and test them.\n\nEvening approaches quickly, make sure your bike lights are on in the gloomy weather.",
+            "hu": "A reggeli záporok nedves indulást jelentenek; szerelj sárvédőt a biciklidre.\n\nA déli tekerés a történelmi helyszínekhez óvatosságot igényel a csúszós utakon.\n\nDélután tovább esik az ősi síroknál, tartsd szárazon és teszteld a fékeket.\n\nAz este gyorsan közeledik, a borús időben feltétlenül kapcsold be a lámpákat.",
+            "de": "Morgendliche Schauer bedeuten einen nassen Start; rüsten Sie Ihr Fahrrad mit Schutzblechen aus.\n\nMittags erfordert die Fahrt zu den historischen Stätten Vorsicht auf rutschigen Wegen.\n\nNachmittags regnet es an den alten Gräbern weiter, halten Sie die Bremsen trocken.\n\nDer Abend naht schnell, schalten Sie bei dem trüben Wetter die Fahrradlichter ein.",
+            "ro": "Ploile matinale înseamnă un început umed; echipează-ți bicicleta cu apărători de noroi.\n\nMersul la prânz spre siturile istorice necesită prudență pe drumurile alunecoase.\n\nDupă-amiaza ploaia continuă la mormintele antice, păstrează frânele uscate.\n\nSeara se apropie rapid, asigură-te că luminile bicicletei sunt aprinse pe vremea mohorâtă."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Bartolo de Xove",
+                "hu": "Igrexa de San Bartolo de Xove",
+                "ro": "Igrexa de San Bartolo de Xove",
+                "en": "Igrexa de San Bartolo de Xove"
+              },
+              "tip_5lang": {
+                "en": "Seek temporary shelter under the church eaves while checking your bike's tire pressure in the rain.",
+                "hu": "Keress ideiglenes menedéket a templom eresze alatt, miközben esőben ellenőrzöd a guminyomást.",
+                "de": "Suchen Sie vorübergehend Schutz unter dem Vordach der Kirche, während Sie bei Regen den Reifendruck prüfen.",
+                "ro": "Caută adăpost temporar sub streașina bisericii în timp ce verifici presiunea anvelopelor pe ploaie."
+              }
+            },
+            {
+              "name": {
+                "de": "Concello de Xove",
+                "hu": "Concello de Xove",
+                "ro": "Concello de Xove",
+                "en": "Concello de Xove"
+              },
+              "tip_5lang": {
+                "en": "Park under the nearby trees to keep your seat dry while exploring the town hall's covered entrance.",
+                "hu": "Parkolj a közeli fák alá, hogy szárazon tartsd az ülést, amíg a városháza fedett bejáratát nézed.",
+                "de": "Parken Sie unter den Bäumen, um Ihren Sattel trocken zu halten, während Sie den Rathausingang erkunden.",
+                "ro": "Parchează sub copacii din apropiere pentru a menține șaua uscată în timp ce explorezi intrarea acoperită."
+              }
+            },
+            {
+              "name": {
+                "de": "Henge de Lavandeiras",
+                "hu": "Henge de Lavandeiras",
+                "ro": "Henge de Lavandeiras",
+                "en": "Henge de Lavandeiras"
+              },
+              "tip_5lang": {
+                "en": "The wet stones look striking, but dismount and walk your bike as the surrounding grass is very slick.",
+                "hu": "A nedves kövek lenyűgözőek, de szállj le és told a biciklit, mert a környező fű nagyon csúszós.",
+                "de": "Die nassen Steine wirken markant, aber steigen Sie ab und schieben Sie, da das Gras sehr rutschig ist.",
+                "ro": "Pietrele umede sunt uimitoare, dar descalecă și împinge bicicleta, deoarece iarba din jur este foarte alunecoasă."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoas de Chan de Armada",
+                "hu": "Mámoas de Chan de Armada",
+                "ro": "Mámoas de Chan de Armada",
+                "en": "Mámoas de Chan de Armada"
+              },
+              "tip_5lang": {
+                "en": "Heavy rain turns the path muddy, so rely on your bike's mudguards and wear a waterproof poncho.",
+                "hu": "A heves eső sarassá teszi az utat, bízz a sárvédőkben és viselj vízálló poncsót.",
+                "de": "Starker Regen macht den Weg schlammig, verlassen Sie sich auf Schutzbleche und tragen Sie einen Poncho.",
+                "ro": "Ploaia puternică face poteca noroioasă, bazează-te pe apărătorile de noroi și poartă un poncho impermeabil."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoa de Lama de Arcas",
+                "hu": "Mámoa de Lama de Arcas",
+                "ro": "Mámoa de Lama de Arcas",
+                "en": "Mámoa de Lama de Arcas"
+              },
+              "tip_5lang": {
+                "en": "Rainwater pools around the ancient site; navigate carefully on your bike to avoid hidden puddles.",
+                "hu": "Az esővíz összegyűlik az ősi helyszín körül; navigálj óvatosan, hogy elkerüld a rejtett tócsákat.",
+                "de": "Regenwasser sammelt sich um die Stätte; fahren Sie vorsichtig, um versteckte Pfützen zu meiden.",
+                "ro": "Apa de ploaie se adună în jurul sitului antic; mergi cu grijă pentru a evita bălțile ascunse."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Sumoas",
+                "hu": "Castro de Sumoas",
+                "ro": "Castro de Sumoas",
+                "en": "Castro de Sumoas"
+              },
+              "tip_5lang": {
+                "en": "Finish your wet ride at this historical settlement, keeping an eye out for slippery rocks on the final stretch.",
+                "hu": "Fejezd be a nedves utat ennél a történelmi településnél, figyelve a csúszós sziklákra a végső szakaszon.",
+                "de": "Beenden Sie Ihre nasse Fahrt an dieser Siedlung und achten Sie auf rutschige Steine auf dem letzten Stück.",
+                "ro": "Termin-ți plimbarea umedă la această așezare istorică, fiind atent la pietrele alunecoase pe ultima porțiune."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Chilly winter morning requires thermal cycling gear for the town ride.\n\nNoon offers crisp air as you pedal to the ancient henges.\n\nAfternoon brings a drop in temperature near the exposed mounds.\n\nEvening sets in early around 5 PM, so finish your ride by sunset and use bright lights.",
+            "hu": "A fagyos téli reggel termikus kerékpáros felszerelést igényel a városban.\n\nA dél csípős levegőt kínál, ahogy az ősi hengék felé tekersz.\n\nDélután a hőmérséklet lecsökken a nyitott halmok közelében.\n\nAz este már 17:00 körül beáll, így naplemente előtt fejezd be az utat világítással.",
+            "de": "Ein kühler Wintermorgen erfordert Thermo-Fahrradbekleidung für die Stadtfahrt.\n\nDer Mittag bietet frische Luft beim Radeln zu den alten Henges.\n\nAm Nachmittag sinkt die Temperatur in der Nähe der Hügel.\n\nDer Abend bricht gegen 17 Uhr herein, beenden Sie die Fahrt früh mit hellen Lichtern.",
+            "ro": "Dimineața rece de iarnă necesită echipament de ciclism termic pentru oraș.\n\nPrânzul oferă aer curat în timp ce pedalezi spre monumentele antice.\n\nDupă-amiaza aduce o scădere a temperaturii lângă tumulii expuși.\n\nSeara se lasă devreme la 17:00, termină cursa la apus folosind lumini puternice."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Bartolo de Xove",
+                "hu": "Igrexa de San Bartolo de Xove",
+                "ro": "Igrexa de San Bartolo de Xove",
+                "en": "Igrexa de San Bartolo de Xove"
+              },
+              "tip_5lang": {
+                "en": "Start your cold ride by viewing the church facade; keep your thermal gloves on while taking pictures.",
+                "hu": "Kezd a hideg tekerést a templom homlokzatával; tartsd magadon a termokesztyűt fotózás közben is.",
+                "de": "Beginnen Sie Ihre kalte Fahrt an der Kirche; behalten Sie Ihre Thermohandschuhe beim Fotografieren an.",
+                "ro": "Începe plimbarea rece privind fațada bisericii; păstrează mănușile termice când faci poze."
+              }
+            },
+            {
+              "name": {
+                "de": "Concello de Xove",
+                "hu": "Concello de Xove",
+                "ro": "Concello de Xove",
+                "en": "Concello de Xove"
+              },
+              "tip_5lang": {
+                "en": "The historical building offers a quick indoor respite to warm up before continuing your winter ride.",
+                "hu": "A történelmi épület gyors benti menedéket nyújt a felmelegedéshez a téli utazás folytatása előtt.",
+                "de": "Das historische Gebäude bietet eine kurze Pause im Warmen, bevor Sie Ihre Winterfahrt fortsetzen.",
+                "ro": "Clădirea istorică oferă un scurt răgaz în interior pentru a te încălzi înainte de a continua cursa."
+              }
+            },
+            {
+              "name": {
+                "de": "Henge de Lavandeiras",
+                "hu": "Henge de Lavandeiras",
+                "ro": "Henge de Lavandeiras",
+                "en": "Henge de Lavandeiras"
+              },
+              "tip_5lang": {
+                "en": "The frost-covered stones are beautiful, but the cold wind here means you need a good cycling jacket.",
+                "hu": "A dér fedte kövek gyönyörűek, de a hideg szél miatt egy jó kerékpáros kabátra lesz szükséged.",
+                "de": "Die frostbedeckten Steine sind wunderschön, aber wegen des kalten Windes brauchen Sie eine gute Jacke.",
+                "ro": "Pietrele acoperite de brumă sunt frumoase, dar vântul rece de aici necesită o jachetă bună de ciclism."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoas de Chan de Armada",
+                "hu": "Mámoas de Chan de Armada",
+                "ro": "Mámoas de Chan de Armada",
+                "en": "Mámoas de Chan de Armada"
+              },
+              "tip_5lang": {
+                "en": "Cycling the winter terrain is brisk; admire the ancient tombs while keeping your core warm.",
+                "hu": "A téli terepen való tekerés frissítő; csodáld meg az ősi sírokat, miközben melegen tartod a törzsed.",
+                "de": "Das Radfahren im Wintergelände ist frisch; bewundern Sie die alten Gräber und halten Sie sich warm.",
+                "ro": "Ciclismul pe terenul de iarnă este revigorant; admiră mormintele antice păstrându-ți corpul cald."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoa de Lama de Arcas",
+                "hu": "Mámoa de Lama de Arcas",
+                "ro": "Mámoa de Lama de Arcas",
+                "en": "Mámoa de Lama de Arcas"
+              },
+              "tip_5lang": {
+                "en": "The winter landscape is stark and clear, but watch out for icy patches on the trail as you approach.",
+                "hu": "A téli táj zord és tiszta, de vigyázz a jeges foltokra az ösvényen, ahogy közeledsz a halomhoz.",
+                "de": "Die Winterlandschaft ist karg und klar, aber achten Sie auf eisige Stellen auf dem Weg dorthin.",
+                "ro": "Peisajul de iarnă este auster și clar, dar fii atent la peticele de gheață de pe traseu la apropiere."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Sumoas",
+                "hu": "Castro de Sumoas",
+                "ro": "Castro de Sumoas",
+                "en": "Castro de Sumoas"
+              },
+              "tip_5lang": {
+                "en": "The sun sets early around 5 PM, so admire the settlement quickly and turn on your bike lights for safety.",
+                "hu": "A nap 17:00 körül nyugszik, így gyorsan csodáld meg a települést, és kapcsold be a lámpákat.",
+                "de": "Die Sonne geht gegen 17 Uhr unter, bewundern Sie die Siedlung schnell und schalten Sie das Licht ein.",
+                "ro": "Soarele apune devreme pe la 17:00, admiră așezarea rapid și aprinde luminile bicicletei pentru siguranță."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Reggel: Autós túránk Xove központjának gyors felfedezésével kezdődik, meglátogatva az Igrexa de San Bartolo-t és a Concello-t. Ez kiváló kulturális alapot ad a naphoz.\nDél: Elhajtunk a figyelemre méltó Mámoa de Lama de Arcas és a Henge de Lavandeiras felé. Az autó lehetővé teszi, hogy zökkenőmentesen ugráljunk ezen szétszórt megalitikus helyszínek között.\nDélután: Az utazás a Castro da Cabana lenyűgöző erődítményéhez folytatódik, majd a Castro de Sumoas következik. Ezeknek a vaskori településeknek a felfedezése feltárja a régió védelmi történelmét.\nEste: Autós utazásunkat a békés Igrexa de Santa Balla de Lago templomnál fejezzük be. A rusztikus épület nyugodt környezete csendes és elmélkedő lezárást kínál ennek a történelemben gazdag napnak.",
         "ro": "Dimineața: Turul nostru auto începe cu o explorare rapidă a centrului orașului Xove, vizitând Igrexa de San Bartolo și Concello. Aceasta oferă o bază culturală înainte de a intra în peisajele antice.\nAmiaza: Conducem la remarcabila Mámoa de Lama de Arcas și la Henge de Lavandeiras. Având o mașină, putem sări fără probleme între aceste situri megalitice împrăștiate.\nDupă-amiaza: Călătoria continuă spre impresionanta fortăreață Castro da Cabana, urmată de o vizită la Castro de Sumoas. Explorarea acestor așezări ne dezvăluie istoria defensivă a regiunii.\nSeara: Încheiem călătoria rutieră la liniștita Igrexa de Santa Balla de Lago. Cadrul pașnic al acestei biserici rustice oferă o concluzie tăcută și reflexivă la o zi bogată în istorie.",
         "en": "Morning: Our driving tour begins with a quick exploration of Xove's center, visiting the Igrexa de San Bartolo and the Concello. This provides a cultural baseline before heading into the ancient landscapes.\nMidday: We drive out to the remarkable Mámoa de Lama de Arcas and the Henge de Lavandeiras. Having a car allows us to seamlessly hop between these scattered megalithic sites with ease.\nAfternoon: The journey continues to the impressive hillfort of Castro da Cabana, followed by a visit to the Castro de Sumoas. Exploring these Iron Age settlements reveals the region's defensive history.\nEvening: We wrap up our road trip at the serene Igrexa de Santa Balla de Lago. The tranquil setting of this rustic church offers a quiet and reflective conclusion to a day rich in history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "A rainy morning drive starts in the town center, keep umbrellas handy in the car.\n\nMidday driving to the historical sites is comfortable, but the rural roads can be slick.\n\nAfternoon showers persist, so enjoy the view from the warm car when possible.\n\nEvening requires careful driving on wet, reflective roads as visibility drops.",
+            "hu": "Az esős reggeli vezetés a városközpontban indul, tarts esernyőket a kocsiban.\n\nA déli vezetés a történelmi helyszínekhez kényelmes, de a vidéki utak csúszósak lehetnek.\n\nDélután tovább esik, így élvezd a kilátást a meleg autóból, ha lehet.\n\nAz este óvatos vezetést igényel a nedves, tükröződő utakon, ahogy a látási viszonyok romlanak.",
+            "de": "Eine regnerische Morgenfahrt beginnt im Zentrum, halten Sie Regenschirme im Auto bereit.\n\nMittags ist die Fahrt zu den historischen Stätten angenehm, aber Landstraßen können glatt sein.\n\nNachmittags hält der Regen an, genießen Sie die Aussicht aus dem warmen Auto.\n\nAbends ist auf nassen, spiegelnden Straßen Vorsicht geboten.",
+            "ro": "O dimineață ploioasă de condus începe în centru, ține umbrelele la îndemână în mașină.\n\nCondusul la prânz spre siturile istorice este confortabil, dar drumurile rurale pot fi alunecoase.\n\nPloile continuă după-amiaza, bucură-te de priveliște din mașina caldă.\n\nSeara necesită condus prudent pe drumuri umede și reflectorizante."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Bartolo de Xove",
+                "hu": "Igrexa de San Bartolo de Xove",
+                "ro": "Igrexa de San Bartolo de Xove",
+                "en": "Igrexa de San Bartolo de Xove"
+              },
+              "tip_5lang": {
+                "en": "Dash from your car to the church porch to avoid the morning downpour and admire the historic interior.",
+                "hu": "Fuss a kocsiból a templom tornácáig, hogy elkerüld a reggeli felhőszakadást, és csodáld meg a belsőt.",
+                "de": "Huschen Sie vom Auto zur Kirchenveranda, um dem Regenguss zu entgehen und das Innere zu bewundern.",
+                "ro": "Fugi din mașină pe pridvorul bisericii pentru a evita ploaia matinală și a admira interiorul istoric."
+              }
+            },
+            {
+              "name": {
+                "de": "Concello de Xove",
+                "hu": "Concello de Xove",
+                "ro": "Concello de Xove",
+                "en": "Concello de Xove"
+              },
+              "tip_5lang": {
+                "en": "Park close to the entrance to stay dry while visiting this important historical town building.",
+                "hu": "Parkolj közel a bejárathoz, hogy száraz maradj, miközben meglátogatod ezt a fontos történelmi épületet.",
+                "de": "Parken Sie nah am Eingang, um bei der Besichtigung dieses historischen Gebäudes trocken zu bleiben.",
+                "ro": "Parchează aproape de intrare pentru a rămâne uscat în timp ce vizitezi această clădire istorică."
+              }
+            },
+            {
+              "name": {
+                "de": "Henge de Lavandeiras",
+                "hu": "Henge de Lavandeiras",
+                "ro": "Henge de Lavandeiras",
+                "en": "Henge de Lavandeiras"
+              },
+              "tip_5lang": {
+                "en": "Bring an umbrella from the car to inspect the wet stones, as the grassy area will be quite muddy.",
+                "hu": "Hozz esernyőt a kocsiból a nedves kövek megtekintéséhez, mivel a füves terület meglehetősen saras lesz.",
+                "de": "Bringen Sie einen Schirm aus dem Auto mit, da die Grasfläche um die nassen Steine recht schlammig sein wird.",
+                "ro": "Ia o umbrelă din mașină pentru a inspecta pietrele umede, deoarece zona cu iarbă va fi destul de noroioasă."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoa de Lama de Arcas",
+                "hu": "Mámoa de Lama de Arcas",
+                "ro": "Mámoa de Lama de Arcas",
+                "en": "Mámoa de Lama de Arcas"
+              },
+              "tip_5lang": {
+                "en": "View this ancient mound from the roadside or wear waterproof boots to brave the wet terrain.",
+                "hu": "Nézd meg ezt az ősi halmot az út széléről, vagy viselj vízálló bakancsot a nedves terep leküzdéséhez.",
+                "de": "Betrachten Sie diesen alten Hügel vom Straßenrand aus oder tragen Sie wasserdichte Schuhe für das nasse Gelände.",
+                "ro": "Privește acest tumul antic de la marginea drumului sau poartă bocanci impermeabili pentru terenul umed."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Cabana",
+                "hu": "Castro da Cabana",
+                "ro": "Castro da Cabana",
+                "en": "Castro da Cabana"
+              },
+              "tip_5lang": {
+                "en": "The rain adds a moody atmosphere to the settlement; step out briefly with a raincoat to explore.",
+                "hu": "Az eső hangulatos atmoszférát kölcsönöz a településnek; lépj ki röviden egy esőkabátban felfedezni.",
+                "de": "Der Regen verleiht der Siedlung eine besondere Atmosphäre; steigen Sie kurz mit Regenmantel aus.",
+                "ro": "Ploaia adaugă o atmosferă melancolică așezării; coboară scurt cu o pelerină de ploaie pentru a explora."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Sumoas",
+                "hu": "Castro de Sumoas",
+                "ro": "Castro de Sumoas",
+                "en": "Castro de Sumoas"
+              },
+              "tip_5lang": {
+                "en": "The approach road may be slippery, so drive slowly and wear rain gear to see the historical ruins.",
+                "hu": "A megközelítési út csúszós lehet, ezért vezess lassan, és viselj esőruhát a történelmi romok megtekintéséhez.",
+                "de": "Die Zufahrtsstraße kann rutschig sein, fahren Sie langsam und tragen Sie Regenkleidung für die Ruinen.",
+                "ro": "Drumul de acces poate fi alunecos, condu încet și poartă echipament de ploaie pentru a vedea ruinele."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa Balla de Lago",
+                "hu": "Igrexa de Santa Balla de Lago",
+                "ro": "Igrexa de Santa Balla de Lago",
+                "en": "Igrexa de Santa Balla de Lago"
+              },
+              "tip_5lang": {
+                "en": "End the rainy tour inside this beautiful church, a perfect dry sanctuary before driving back.",
+                "hu": "Fejezd be az esős túrát ezen a gyönyörű templomon belül, ami tökéletes száraz menedék a visszaindulás előtt.",
+                "de": "Beenden Sie die Regentour im Inneren dieser schönen Kirche, einem perfekten trockenen Zufluchtsort.",
+                "ro": "Încheie turul ploios în interiorul acestei biserici frumoase, un sanctuar uscat perfect înainte de a conduce înapoi."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Frosty morning drive begins in Xove; use the car heater between stops.\n\nMidday offers clear but cold views of the ancient sites from the windows.\n\nAfternoon temperatures drop quickly near the historical mounds.\n\nEvening darkness falls by 5 PM, so complete the route early and drive safely on icy roads.",
+            "hu": "A fagyos reggeli autózás Xove-ban kezdődik; használd a fűtést a megállók között.\n\nA dél tiszta, de hideg kilátást nyújt az ősi helyszínekre az ablakból.\n\nDélután a hőmérséklet gyorsan csökken a halmok közelében.\n\nAz esti sötétség 17:00-kor beáll, fejezd be korán az utat, és vezess óvatosan a jeges utakon.",
+            "de": "Die frostige Morgenfahrt beginnt in Xove; nutzen Sie die Heizung zwischen den Stopps.\n\nDer Mittag bietet klare, aber kalte Ausblicke auf die antiken Stätten.\n\nNachmittags sinken die Temperaturen in der Nähe der Hügel schnell.\n\nUm 17 Uhr wird es dunkel, beenden Sie die Route früh und fahren Sie vorsichtig auf Eis.",
+            "ro": "Condusul în dimineața geroasă începe în Xove; folosește căldura între opriri.\n\nPrânzul oferă priveliști clare, dar reci ale siturilor din mașină.\n\nDupă-amiaza, temperaturile scad rapid lângă tumulii istorici.\n\nÎntunericul se lasă la 17:00, termină traseul devreme și condu cu grijă pe drumurile înghețate."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Bartolo de Xove",
+                "hu": "Igrexa de San Bartolo de Xove",
+                "ro": "Igrexa de San Bartolo de Xove",
+                "en": "Igrexa de San Bartolo de Xove"
+              },
+              "tip_5lang": {
+                "en": "Step out of the warm car into the crisp morning to see the church, wearing a thick winter coat.",
+                "hu": "Lépj ki a meleg autóból a csípős reggelbe, hogy megcsodáld a templomot, és viselj vastag télikabátot.",
+                "de": "Steigen Sie aus dem warmen Auto in den frischen Morgen, um die Kirche in einem dicken Wintermantel zu sehen.",
+                "ro": "Ieși din mașina caldă în dimineața geroasă pentru a vedea biserica, purtând un palton gros de iarnă."
+              }
+            },
+            {
+              "name": {
+                "de": "Concello de Xove",
+                "hu": "Concello de Xove",
+                "ro": "Concello de Xove",
+                "en": "Concello de Xove"
+              },
+              "tip_5lang": {
+                "en": "The town hall is a great spot to learn local history indoors while escaping the freezing winter wind.",
+                "hu": "A városháza remek hely a helyi történelem benti megismerésére, miközben elmenekülsz a fagyos téli szél elől.",
+                "de": "Das Rathaus ist ein großartiger Ort, um die lokale Geschichte drinnen zu lernen und dem eisigen Wind zu entfliehen.",
+                "ro": "Primăria este un loc excelent pentru a învăța istoria locală în interior, scăpând de vântul înghețat de iarnă."
+              }
+            },
+            {
+              "name": {
+                "de": "Henge de Lavandeiras",
+                "hu": "Henge de Lavandeiras",
+                "ro": "Henge de Lavandeiras",
+                "en": "Henge de Lavandeiras"
+              },
+              "tip_5lang": {
+                "en": "The low winter sun illuminates the stones beautifully; keep your car heater running for your return.",
+                "hu": "Az alacsony téli nap gyönyörűen megvilágítja a köveket; hagyd járni a kocsiban a fűtést a visszatéréshez.",
+                "de": "Die tiefe Wintersonne beleuchtet die Steine wunderschön; lassen Sie die Autoheizung für Ihre Rückkehr laufen.",
+                "ro": "Soarele de iarnă luminează frumos pietrele; păstrează căldura pornită în mașină pentru întoarcere."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoa de Lama de Arcas",
+                "hu": "Mámoa de Lama de Arcas",
+                "ro": "Mámoa de Lama de Arcas",
+                "en": "Mámoa de Lama de Arcas"
+              },
+              "tip_5lang": {
+                "en": "The stark winter landscape highlights the mound, but wear thermal layers for the short walk from the car.",
+                "hu": "A zord téli táj kiemeli a halmot, de viselj termikus rétegeket a kocsiból induló rövid sétához.",
+                "de": "Die karge Winterlandschaft hebt den Hügel hervor, aber tragen Sie Thermokleidung für den kurzen Weg vom Auto.",
+                "ro": "Peisajul de iarnă evidențiază tumulul, dar poartă straturi termice pentru scurta plimbare de la mașină."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Cabana",
+                "hu": "Castro da Cabana",
+                "ro": "Castro da Cabana",
+                "en": "Castro da Cabana"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the clear winter visibility at this settlement, and bring a thermos of hot tea to stay warm.",
+                "hu": "Élvezd a tiszta téli látási viszonyokat ezen a településen, és hozz egy termosz forró teát, hogy melegen maradj.",
+                "de": "Genießen Sie die klare Wintersicht an dieser Siedlung und bringen Sie eine Thermoskanne mit heißem Tee mit.",
+                "ro": "Bucură-te de vizibilitatea clară de iarnă la această așezare și adu un termos cu ceai fierbinte."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Sumoas",
+                "hu": "Castro de Sumoas",
+                "ro": "Castro de Sumoas",
+                "en": "Castro de Sumoas"
+              },
+              "tip_5lang": {
+                "en": "The biting wind at this elevated site requires a scarf and gloves, but the historical view is worth it.",
+                "hu": "A harapós szél ezen a magaslati helyen sálat és kesztyűt követel, de a történelmi kilátás megéri.",
+                "de": "Der beißende Wind an diesem erhöhten Ort erfordert Schal und Handschuhe, aber die historische Aussicht lohnt sich.",
+                "ro": "Vântul tăios din acest sit înalt necesită fular și mănuși, dar priveliștea istorică merită."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa Balla de Lago",
+                "hu": "Igrexa de Santa Balla de Lago",
+                "ro": "Igrexa de Santa Balla de Lago",
+                "en": "Igrexa de Santa Balla de Lago"
+              },
+              "tip_5lang": {
+                "en": "Visit this religious site just before the early 5 PM sunset to enjoy the peaceful winter twilight.",
+                "hu": "Látogasd meg ezt a vallási helyszínt közvetlenül a korai 17:00 órai naplemente előtt a békés téli alkonyatért.",
+                "de": "Besuchen Sie diese religiöse Stätte kurz vor dem frühen Sonnenuntergang gegen 17 Uhr für die friedliche Winterdämmerung.",
+                "ro": "Vizitează acest sit religios chiar înainte de apusul de la ora 17:00 pentru a te bucura de amurgul liniștit."
+              }
+            }
+          ]
+        }
       }
     }
   }

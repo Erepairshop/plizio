@@ -206,6 +206,252 @@
         "hu": "Kezdje a gyalogos napot Tréguennec központjában, felfedezve a gazdag vallási építészetet. Délben az ösvény festői mezőkön át vezet az elszigetelt kápolnákhoz. Délután merüljön el a második világháború történelmében a tengerpart mentén. Az este a tengerparton tett csendes sétával zárul, az óceán nyugtató morajlásának kíséretében.",
         "ro": "Începeți ziua de drumeție în centrul orașului Tréguennec, descoperind arhitectura religioasă bogată. La prânz, traseul vă poartă pe câmpuri pitorești spre capele izolate. După-amiaza, pătrundeți în istoria celui de-al Doilea Război Mondial de-a lungul coastei. Seara se încheie cu o plimbare liniștită pe plajă, însoțită de sunetul oceanului.",
         "en": "Begin your walking day in the center of Tréguennec, discovering its rich religious architecture. At midday, the trail leads you through picturesque fields to isolated chapels. In the afternoon, delve into World War II history along the dramatic coastline. The evening concludes with a quiet stroll on the beach, accompanied by the soothing sound of the ocean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der feuchte Morgen beginnt in den Kapellen, die Schutz vor Schauern bieten. Mittags erfordern die nassen Pfade gutes, wasserdichtes Schuhwerk. Nachmittags verleiht der Regen den historischen Ruinen eine dramatische, melancholische Atmosphäre. Abends zeigt sich der Strand stürmisch; Vorsicht vor den rauen Atlantikwellen und dem starken Wind.",
+            "hu": "A nedves reggel a kápolnákban indul, amelyek menedéket nyújtanak a záporok elől. Délben a csúszós ösvények vízálló lábbelit igényelnek. Délután az eső drámai, melankolikus hangulatot kölcsönöz a történelmi romoknak. Este a tengerpart viharos arcát mutatja; vigyázz a zord atlanti hullámokkal és az erős széllel.",
+            "ro": "Dimineața umedă începe în capele, oferind adăpost împotriva averselor. La prânz, potecile alunecoase necesită încălțăminte impermeabilă. După-amiaza, ploaia dă ruinelor istorice o atmosferă dramatică și melancolică. Seara, plaja este furtunoasă; aveți grijă la valurile dure ale Atlanticului și la vântul puternic.",
+            "en": "The wet morning begins in the chapels, offering shelter from showers. At noon, the slippery trails require good waterproof footwear. In the afternoon, the rain gives the historical ruins a dramatic, melancholic atmosphere. The evening beach reveals a stormy face; beware of the harsh Atlantic waves and strong winds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Saint-Alour",
+                "hu": "Saint-Alour Kápolna",
+                "ro": "Capela Saint-Alour",
+                "en": "Saint-Alour Chapel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Steinarchitektur im Trockenen und suchen Sie Schutz vor dem Regen; tragen Sie feste Schuhe, da der Weg sehr matschig sein kann.",
+                "hu": "Csodáld meg a kőépítészetet belül, miközben menedéket találsz az eső elől; viselj vízálló bakancsot, mert a bejárati út nagyon sáros lehet.",
+                "ro": "Admirați arhitectura din piatră la adăpost de ploaie; purtați bocanci impermeabili, deoarece poteca de la intrare poate fi destul de noroioasă.",
+                "en": "Admire the stone architecture inside while sheltering from the rain; wear sturdy boots as the entrance path can be quite muddy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau des Mitleids",
+                "hu": "Könyörületes Miasszonyunk Templom",
+                "ro": "Biserica Maicii Domnului a Milei",
+                "en": "Church of Our Lady of Pity"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenraum als Pause vor den nassen Elementen. Der steinerne Boden kann rutschig sein, treten Sie also vorsichtig ein.",
+                "hu": "Használd a templomteret pihenőként a nedves elemek elől. A kőpadló csúszós lehet, ezért óvatosan lépj be a vizes cipőddel.",
+                "ro": "Folosiți spațiul bisericii ca o pauză de la elementele umede. Podeaua de piatră poate fi alunecoasă, așa că intrați cu grijă.",
+                "en": "Use the church interior as a break from the wet elements. The stone floor can be slippery, so step carefully with your wet shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Évy",
+                "hu": "Saint-Évy Kápolna",
+                "ro": "Capela Saint-Évy",
+                "en": "Saint-Évy Chapel"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kapelle ist ein perfektes Versteck bei Schauern. Schirmen Sie Ihre Kamera ab, da der Wind hier oft Regenwasser gegen die Wände peitscht.",
+                "hu": "Ez a kis kápolna tökéletes búvóhely a záporok idején. Védd a kamerádat, mert a szél itt gyakran az esővizet a falakhoz csapja.",
+                "ro": "Această mică capelă este o ascunzătoare perfectă în timpul averselor. Protejați-vă camera, deoarece vântul bate ploaia de pereți aici.",
+                "en": "This small chapel is a perfect hideaway during showers. Shield your camera, as the wind often whips rainwater against the walls here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Vio",
+                "hu": "Saint-Vio Kápolna",
+                "ro": "Capela Saint-Vio",
+                "en": "Saint-Vio Chapel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im Inneren, während der Regen auf das alte Dach trommelt. Eine wasserdichte Jacke ist für den kurzen Fußweg dorthin unerlässlich.",
+                "hu": "Élvezd a benti csendet, miközben az eső a régi tetőn dobol. Egy vízálló kabát elengedhetetlen a rövid, de esős gyalogúthoz.",
+                "ro": "Bucurați-vă de liniștea din interior în timp ce ploaia bate pe acoperiș. O jachetă impermeabilă este esențială pentru plimbarea scurtă.",
+                "en": "Enjoy the silence inside while the rain drums on the old roof. A waterproof jacket is essential for the short but wet walk to get there."
+              }
+            },
+            {
+              "name": {
+                "de": "Prähistorischer Friedhof Prat-ar-Hastel",
+                "hu": "Prat-ar-Hastel Történelem Előtti Temető",
+                "ro": "Cimitirul Preistoric Prat-ar-Hastel",
+                "en": "Prat-ar-Hastel Prehistoric Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Die mystischen Steine glänzen im Regen faszinierend. Bleiben Sie auf den befestigten Wegen, um tiefe Schlammpfützen im Gras zu vermeiden.",
+                "hu": "A misztikus kövek lenyűgözően csillognak az esőben. Maradj a kijelölt ösvényeken, hogy elkerüld a mély sártócsákat a fűben.",
+                "ro": "Pietrele mistice strălucesc fascinant în ploaie. Rămâneți pe cărările marcate pentru a evita bălțile adânci de noroi din iarbă.",
+                "en": "The mystical stones gleam fascinatingly in the rain. Stay on the designated paths to avoid deep mud puddles in the grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunkerruinen und Betonbrecher (Zweiter Weltkrieg)",
+                "hu": "Második Világháborús Zúzóromok",
+                "ro": "Ruinele Concasorului (Al Doilea Război Mondial)",
+                "en": "WWII Concrete Crusher Ruins"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die grauen Betonreste unter dem düsteren Regenhimmel. Klettern Sie nicht auf die Ruinen, da die nassen Steine extrem rutschig sind.",
+                "hu": "Nézd meg a szürke betonmaradványokat a borús esős égbolt alatt. Ne mássz fel a romokra, mert a vizes kövek rendkívül csúszósak.",
+                "ro": "Priviți resturile gri de beton sub cerul ploios și sumbru. Nu vă urcați pe ruine, deoarece pietrele umede sunt extrem de alunecoase.",
+                "en": "View the grey concrete remains under the gloomy rainy sky. Do not climb on the ruins, as the wet stones are extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunker-Kasematte (Zweiter Weltkrieg)",
+                "hu": "Második Világháborús Kazamata",
+                "ro": "Cazemată Al Doilea Război Mondial",
+                "en": "WWII Casemate Bunker"
+              },
+              "tip_5lang": {
+                "de": "Der Bunker bietet kurzzeitigen Schutz vor heftigen Regengüssen. Nehmen Sie eine Taschenlampe mit, da es bei bewölktem Wetter im Inneren sehr dunkel ist.",
+                "hu": "A bunker rövid ideig védelmet nyújt a heves felhőszakadások ellen. Vigyél magaddal zseblámpát, mert felhős időben odabent nagyon sötét van.",
+                "ro": "Buncărul oferă o protecție scurtă împotriva averselor puternice. Luați o lanternă, deoarece este foarte întuneric în interior pe vreme înnorată.",
+                "en": "The bunker offers brief shelter from heavy downpours. Bring a flashlight, as it is very dark inside during cloudy, overcast weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kermabec",
+                "hu": "Kermabec Strand",
+                "ro": "Plaja Kermabec",
+                "en": "Kermabec Beach"
+              },
+              "tip_5lang": {
+                "de": "Der regnerische Strand bietet einen dramatischen Blick auf den Ozean. Tragen Sie dicke Regenkleidung und meiden Sie die hohen, unberechenbaren Wellen.",
+                "hu": "Az esős strand drámai óceáni kilátást nyújt. Viselj vastag esőruházatot, és maradj távol a magas, kiszámíthatatlan viharos hullámoktól.",
+                "ro": "Plaja ploioasă oferă o priveliște dramatică a oceanului. Purtați haine groase de ploaie și evitați valurile înalte și imprevizibile.",
+                "en": "The rainy beach offers a dramatic ocean view. Wear thick rain gear and stay well away from the high, unpredictable storm waves."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt Sie zu ruhigen, kalten Kapellen. Mittags erfordert der eisige Küstenwind beim Gehen warme, winddichte Kleidung. Nachmittags werfen die tiefstehende Sonne lange Schatten auf die Ruinen, bevor die frühe Dämmerung gegen 17:00 Uhr einsetzt. Beenden Sie den Tag mit einem eisigen, aber wunderschönen Sonnenuntergang am windgepeitschten Strand.",
+            "hu": "Egy tiszta téli reggel csendes, hideg kápolnákhoz vezet. Délben a fagyos parti szél miatt meleg, szélálló ruházatra van szükség a sétához. Délután az alacsonyan járó nap hosszú árnyékokat vet a romokra, mielőtt 17:00 körül korán besötétedne. Fejezd be a napot egy fagyos, de gyönyörű naplementével a szélfútta tengerparton.",
+            "ro": "O dimineață senină de iarnă vă duce la capele liniștite și reci. La prânz, vântul de coastă înghețat necesită haine calde, rezistente la vânt pentru mers. După-amiaza, soarele apune aruncând umbre lungi, înainte de întunericul devreme din jurul orei 17:00. Încheiați ziua cu un apus de soare înghețat, dar frumos, pe plajă.",
+            "en": "A clear winter morning leads you to quiet, cold chapels. At noon, the icy coastal wind requires warm, windproof clothing while walking. In the afternoon, the low sun casts long shadows on the ruins before early dusk sets in around 17:00. Finish the day with a freezing but beautiful sunset on the windswept beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Saint-Alour",
+                "hu": "Saint-Alour Kápolna",
+                "ro": "Capela Saint-Alour",
+                "en": "Saint-Alour Chapel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille der Kapelle. Die dicken Steinwände speichern die Kälte, ziehen Sie also eine zusätzliche warme Schicht an.",
+                "hu": "Élvezd a kápolna téli csendjét. A vastag kőfalak megtartják a hideget, ezért vegyél fel egy extra meleg réteget a látogatáshoz.",
+                "ro": "Bucurați-vă de liniștea de iarnă a capelei. Pereții groși din piatră rețin frigul, așa că purtați un strat cald suplimentar.",
+                "en": "Enjoy the winter silence of the chapel. The thick stone walls retain the cold, so put on an extra warm layer for the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau des Mitleids",
+                "hu": "Könyörületes Miasszonyunk Templom",
+                "ro": "Biserica Maicii Domnului a Milei",
+                "en": "Church of Our Lady of Pity"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das frostige Äußere im Morgenlicht. Das Innere ist zugig, ein Schal und Handschuhe sind auch während der Besichtigung sehr zu empfehlen.",
+                "hu": "Figyeld meg a dérmázas külsejét a reggeli fényben. A belső tér huzatos, a sál és a kesztyű használata a prohlédés alatt is erősen ajánlott.",
+                "ro": "Priviți exteriorul înghețat în lumina dimineții. Interiorul este plin de curenți, o eșarfă și mănuși sunt recomandate chiar și în timpul vizitei.",
+                "en": "Observe the frosty exterior in the morning light. The interior is drafty, so a scarf and gloves are highly recommended even during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Évy",
+                "hu": "Saint-Évy Kápolna",
+                "ro": "Capela Saint-Évy",
+                "en": "Saint-Évy Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer, friedlicher Ort im Winter. Der unbefestigte Weg dorthin kann gefroren und rutschig sein, achten Sie auf Ihre Schritte.",
+                "hu": "Magányos, békés hely télen. Az odavezető földút fagyott és nagyon csúszós lehet, ezért fokozottan ügyelj minden lépésedre.",
+                "ro": "Un loc singuratic, pașnic iarna. Drumul de pământ poate fi înghețat și alunecos, așa că aveți mare grijă la pașii dumneavoastră.",
+                "en": "A solitary, peaceful place in winter. The unpaved path to get there can be frozen and very slippery, so watch your steps carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Vio",
+                "hu": "Saint-Vio Kápolna",
+                "ro": "Capela Saint-Vio",
+                "en": "Saint-Vio Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle wirkt in der kargen Winterlandschaft besonders malerisch. Suchen Sie hier kurz Schutz vor dem beißenden Küstenwind.",
+                "hu": "A kis kápolna különösen festői a kopár téli tájban. Keress itt rövid ideig menedéket a csípős, jeges tengerparti szél elől.",
+                "ro": "Mica capelă arată deosebit de pitoresc în peisajul de iarnă. Căutați un scurt adăpost aici de vântul tăios al coastei.",
+                "en": "The small chapel looks especially picturesque in the barren winter landscape. Seek brief shelter here from the biting, icy coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Prähistorischer Friedhof Prat-ar-Hastel",
+                "hu": "Prat-ar-Hastel Történelem Előtti Temető",
+                "ro": "Cimitirul Preistoric Prat-ar-Hastel",
+                "en": "Prat-ar-Hastel Prehistoric Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Winterluft verleiht diesem alten Ort eine besondere Mystik. Tragen Sie thermische Unterwäsche, da Sie hier völlig ungeschützt vor Wind sind.",
+                "hu": "A hideg téli levegő különleges misztikumot ad ennek az ősi helynek. Viselj aláöltözetet, mert itt teljesen védtelen vagy a széllel szemben.",
+                "ro": "Aerul rece de iarnă conferă acestui loc antic o mistică aparte. Purtați haine termice, deoarece aici sunteți complet neprotejat de vânt.",
+                "en": "The cold winter air gives this ancient place a special mystique. Wear thermal layers, as you are completely unprotected from the wind here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunkerruinen und Betonbrecher (Zweiter Weltkrieg)",
+                "hu": "Második Világháborús Zúzóromok",
+                "ro": "Ruinele Concasorului (Al Doilea Război Mondial)",
+                "en": "WWII Concrete Crusher Ruins"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Nachmittagssonne hebt die rauen Strukturen des Betons hervor. Passen Sie auf Eisflächen auf, die sich in den Vertiefungen bilden.",
+                "hu": "A délutáni alacsony napfény kiemeli a beton durva textúráját. Vigyázz a jégfoltokra, amelyek a mélyedésekben, árnyékos részeken képződnek.",
+                "ro": "Soarele de după-amiază scoate în evidență structurile dure ale betonului. Feriți-vă de petele de gheață care se formează în depresiuni.",
+                "en": "The low afternoon sun highlights the rough textures of the concrete. Watch out for patches of ice that form in the shaded depressions."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunker-Kasematte (Zweiter Weltkrieg)",
+                "hu": "Második Világháborús Kazamata",
+                "ro": "Cazemată Al Doilea Război Mondial",
+                "en": "WWII Casemate Bunker"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern blockieren den Winterwind effektiv. Seien Sie rechtzeitig hier, da das Licht im Bunker nach 16:00 Uhr drastisch abnimmt.",
+                "hu": "A vastag falak hatékonyan blokkolják a téli szelet. Érj ide időben, mert a bunkerben a fény 16:00 óra után drasztikusan lecsökken.",
+                "ro": "Pereții groși blochează eficient vântul de iarnă. Fiți aici la timp, deoarece lumina din buncăr scade drastic după ora 16:00.",
+                "en": "The thick walls effectively block the winter wind. Be here on time, as the natural light inside the bunker decreases drastically after 16:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kermabec",
+                "hu": "Kermabec Strand",
+                "ro": "Plaja Kermabec",
+                "en": "Kermabec Beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie einen atemberaubenden, frühen Wintersonnenuntergang. Der Sand kann steif gefroren sein; eine dicke Mütze schützt vor dem eisigen Ozeanwind.",
+                "hu": "Tapasztalj meg egy lélegzetelállító, korai téli naplementét. A homok merevre fagyhat; egy vastag sapka elengedhetetlen az óceáni szél ellen.",
+                "ro": "Experimentați un apus de soare uluitor la începutul iernii. Nisipul poate fi înghețat; o căciulă groasă protejează de vântul înghețat al oceanului.",
+                "en": "Experience a breathtaking, early winter sunset. The sand can be frozen stiff; a thick beanie is essential to protect against the icy ocean wind."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -406,6 +652,252 @@
         "hu": "Kezdje a kerékpártúrát a gyönyörű főtemplomnál, majd tekerjen be a történelmi központba. Dél körül eléri a békés parti kápolnákat és ősi helyszíneket. A délután izgalmas felfedezést kínál a közvetlenül az Atlanti-óceán partján fekvő bunkerekben. Végül a szárazföld felé kerekezik, miközben a nap lassan a hullámok mögé bukik.",
         "ro": "Începeți turul cu bicicleta la biserica principală, apoi pedalați rapid spre centrul istoric. Pe la prânz ajungeți la capelele pașnice de coastă și siturile antice. După-amiaza oferă o explorare fascinantă a buncărelor direct la Atlantic. La final, pedalați spre interiorul uscatului, în timp ce soarele apune încet în spatele valurilor mării.",
         "en": "Start your cycling tour at the beautiful main church before riding into the historic center. Around noon, you will reach the peaceful coastal chapels and ancient sites. The afternoon offers a fascinating exploration of bunker installations right on the Atlantic. Finally, you cycle inland while the sun slowly sets behind the crashing ocean waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour beginnt bei den Dorfkirchen, wo Sie sich trocknen können. Mittags erfordert die Fahrt an der Küste Vorsicht auf den rutschigen und schlammigen Wegen. Nachmittags bieten Besuche der Bunker eine Pause vor den Schauern. Die Tour endet mit einer nassen, aber aufregenden Fahrt entlang der Küste; gute Bremsen und Regenkleidung sind Pflicht.",
+            "hu": "Az esős kerékpártúra a falusi templomoknál indul, ahol megszáradhatsz. Délben a part menti tekerés óvatosságot igényel a csúszós és sáros utakon. Délután a bunkerek meglátogatása szünetet biztosít a záporok között. A túra egy nedves, de izgalmas tengerparti tekeréssel zárul; jó fékek és esőruha kötelező.",
+            "ro": "Un tur ploios cu bicicleta începe la bisericile din sat, unde vă puteți usca. La prânz, mersul pe coastă necesită prudență pe potecile noroioase. După-amiaza, buncărele oferă o pauză de la ploaie. Turul se încheie cu o plimbare umedă de-a lungul coastei; frâne bune și echipament de ploaie sunt obligatorii.",
+            "en": "A rainy bike tour begins at the village churches, where you can dry off. Midday riding along the coast requires caution on slippery, muddy trails. Afternoon visits to the bunkers offer a break from the showers. The tour ends with a wet but exhilarating ride along the coast; good brakes and rain gear are mandatory."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau des Mitleids",
+                "hu": "Könyörületes Miasszonyunk Templom",
+                "ro": "Biserica Maicii Domnului a Milei",
+                "en": "Church of Our Lady of Pity"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie im Trockenen und prüfen Sie Ihre Regenkleidung im Vorraum. Das Kopfsteinpflaster rund um die Kirche ist bei Nässe sehr rutschig für Zweiräder.",
+                "hu": "Kezdd a szárazon, és ellenőrizd az esőruhádat az előtérben. A templom körüli macskakő nedvesen nagyon csúszós lehet a kétkerekűek számára.",
+                "ro": "Începeți la loc uscat și verificați-vă echipamentul de ploaie în hol. Piatra cubică din jurul bisericii este foarte alunecoasă pe timp de ploaie.",
+                "en": "Start in the dry and check your rain gear in the vestibule. The cobblestones around the church are very slippery for bikes when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Alour",
+                "hu": "Saint-Alour Kápolna",
+                "ro": "Capela Saint-Alour",
+                "en": "Saint-Alour Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um den Fahrradsattel kurz abzuwischen. Bewundern Sie die Steinarbeiten drinnen, während ein Regenschauer vorüberzieht.",
+                "hu": "Jó hely arra, hogy gyorsan letöröld a nedves nyerget. Csodáld meg a benti kőmunkákat, amíg egy újabb esőfelhő elvonul feletted.",
+                "ro": "Un loc bun pentru a șterge scurt șaua bicicletei. Admirați lucrările din piatră în interior în timp ce trece o aversă.",
+                "en": "A good place to quickly wipe down your bike saddle. Admire the stonework inside while waiting for a passing rain shower to end."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Vio",
+                "hu": "Saint-Vio Kápolna",
+                "ro": "Capela Saint-Vio",
+                "en": "Saint-Vio Chapel"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem Feldweg hierher, er füllt sich schnell mit Wasserpfützen. Drinnen können Sie sich kurz aufwärmen und trocknen.",
+                "hu": "Lassan tekerj az idevezető földúton, mert gyorsan megtelik víztócsákkal. Odabent röviden felmelegedhetsz és megszáradhatsz egy kicsit.",
+                "ro": "Mergeți încet pe drumul de pământ, se umple repede cu bălți. Înăuntru vă puteți încălzi și usca pentru scurt timp.",
+                "en": "Ride slowly on the dirt path here, as it quickly fills with water puddles. Inside, you can briefly warm up and dry off from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Prähistorischer Friedhof Prat-ar-Hastel",
+                "hu": "Prat-ar-Hastel Történelem Előtti Temető",
+                "ro": "Cimitirul Preistoric Prat-ar-Hastel",
+                "en": "Prat-ar-Hastel Prehistoric Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie ab und schieben Sie das Fahrrad, da das nasse Gras rund um die Steine die Reifen durchdrehen lässt. Der Anblick im Regen ist mystisch.",
+                "hu": "Szállj le és told a biciklit, mert a kövek körüli vizes fűben kipöröghetnek a kerekek. A látvány az esőben kimondottan misztikus.",
+                "ro": "Coborâți și împingeți bicicleta, deoarece iarba udă face cauciucurile să alunece. Priveliștea în ploaie este mistică.",
+                "en": "Dismount and push your bike, as the wet grass around the stones will cause tires to spin. The sight in the rain is incredibly mystical."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunkerruinen und Betonbrecher (Zweiter Weltkrieg)",
+                "hu": "Második Világháborús Zúzóromok",
+                "ro": "Ruinele Concasorului (Al Doilea Război Mondial)",
+                "en": "WWII Concrete Crusher Ruins"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig, der Betonstaub gemischt mit Regen macht den Weg extrem seifig. Betrachten Sie die gigantischen Ruinen aus sicherer Entfernung.",
+                "hu": "Fékezz időben, mert a betonpor és az eső keveréke rendkívül szappanossá teszi az utat. Nézd meg a gigantikus romokat biztonságos távolságból.",
+                "ro": "Frânați din timp, praful de beton amestecat cu ploaie face drumul foarte alunecos. Priviți ruinele de la o distanță sigură.",
+                "en": "Brake early, as the concrete dust mixed with rain makes the path extremely slippery. View the gigantic ruins from a safe, stable distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunker-Kasematte (Zweiter Weltkrieg)",
+                "hu": "Második Világháborús Kazamata",
+                "ro": "Cazemată Al Doilea Război Mondial",
+                "en": "WWII Casemate Bunker"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am Eingang ab und flüchten Sie vor dem Regen in die dicken Mauern. Perfekt für eine kurze Snack-Pause im Trockenen.",
+                "hu": "Támaszd le a bringát a bejáratnál, és menekülj az eső elől a vastag falak közé. Tökéletes egy rövid, száraz helyen elfogyasztott uzsonnához.",
+                "ro": "Parcați bicicleta la intrare și adăpostiți-vă de ploaie în zidurile groase. Perfect pentru o scurtă pauză de gustare la loc uscat.",
+                "en": "Park your bike at the entrance and escape the rain inside the thick walls. Perfect for a short, dry snack break before riding on."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kermabec",
+                "hu": "Kermabec Strand",
+                "ro": "Plaja Kermabec",
+                "en": "Kermabec Beach"
+              },
+              "tip_5lang": {
+                "de": "Gegenwind und peitschender Regen machen die Fahrt hierher anstrengend. Sichern Sie Ihr Fahrrad gut, der Sturm am Strand kann unvorhersehbar sein.",
+                "hu": "Az ellenszél és a vízszintes eső fárasztóvá teszi az ideutat. Rögzítsd jól a kerékpárt, mert a vihar a parton kiszámíthatatlan széllökésekkel jár.",
+                "ro": "Vântul din față și ploaia fac călătoria epuizantă. Asigurați-vă bine bicicleta, furtuna de pe plajă poate fi imprevizibilă.",
+                "en": "Headwinds and driving rain make the ride here exhausting. Secure your bicycle well, as the storm gusts at the beach can be highly unpredictable."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Évy",
+                "hu": "Saint-Évy Kápolna",
+                "ro": "Capela Saint-Évy",
+                "en": "Saint-Évy Chapel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre feuchte Tour an diesem friedlichen Ort. Der kleine Unterstand hilft, sich vor der Heimfahrt noch einmal das Gesicht abzutrocknen.",
+                "hu": "Fejezd be nedves túrádat ezen a békés helyen. A kis tető alatt megtörölheted az arcodat és a szemüvegedet a hazaindulás előtt.",
+                "ro": "Terminați-vă turul umed în acest loc liniștit. Micul adăpost vă ajută să vă uscați fața înainte de a pleca acasă.",
+                "en": "End your wet tour at this peaceful place. The small shelter helps you wipe down your face and glasses one last time before heading home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frisches Winter-Radabenteuer startet bei den historischen Dorfkirchen. Mittags erfordert das Fahren gegen kalte Küstenwinde Thermokleidung und Handschuhe. Nachmittags beleuchtet die tiefstehende Sonne die Bunker perfekt, bevor sie tief sinkt. Beenden Sie die Fahrt rechtzeitig vor 17:00 Uhr, um Frosttemperaturen auf den dunklen Wegen zu vermeiden.",
+            "hu": "Egy friss téli kerékpáros kaland indul a történelmi falusi templomoknál. Délben a hideg parti szelek elleni tekerés termo ruházatot és kesztyűt igényel. Délután az alacsonyan járó nap tökéletesen megvilágítja a bunkereket. Fejezd be a túrát 17:00 előtt, hogy elkerüld a fagyos hőmérsékletet a sötét, vidéki utakon.",
+            "ro": "O aventură de iarnă pe bicicletă începe la bisericile din sat. La prânz, mersul împotriva vântului rece necesită haine termice și mănuși. După-amiaza, soarele luminează perfect buncărele. Terminați plimbarea înainte de ora 17:00 pentru a evita temperaturile de îngheț pe traseele întunecate.",
+            "en": "A brisk winter cycling adventure starts at the historic village churches. Riding midday against cold coastal winds requires thermal gear and gloves. In the afternoon, the low sun illuminates the bunkers perfectly. Finish the ride before 17:00 to avoid freezing temperatures on the dark rural trails."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau des Mitleids",
+                "hu": "Könyörületes Miasszonyunk Templom",
+                "ro": "Biserica Maicii Domnului a Milei",
+                "en": "Church of Our Lady of Pity"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich beim Start im massiven Kirchenschiff auf. Achten Sie auf überfrorene Pfützen im Schattenbereich um die Kirche am frühen Morgen.",
+                "hu": "Melegedj fel induláskor a masszív templomhajóban. Figyelj a kora reggeli, árnyékban megmaradt befagyott tócsákra a templom körül.",
+                "ro": "Încălziți-vă la început în naosul masiv al bisericii. Atenție la bălțile înghețate din zonele umbrite dimineața devreme.",
+                "en": "Warm up in the massive nave at the start of your ride. Watch out for frozen puddles in the shaded areas around the church in the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Alour",
+                "hu": "Saint-Alour Kápolna",
+                "ro": "Capela Saint-Alour",
+                "en": "Saint-Alour Chapel"
+              },
+              "tip_5lang": {
+                "de": "Der Atem bildet kleine Wolken in der kalten Luft dieser steinernen Kapelle. Tragen Sie winddichte Handschuhe für die Weiterfahrt über offenes Feld.",
+                "hu": "A leheleted kis felhőket képez a kőkápolna fagyos levegőjében. Vegyél fel szélálló kesztyűt a nyílt terepen való továbbinduláshoz.",
+                "ro": "Respirația formează nori în aerul rece din această capelă de piatră. Purtați mănuși rezistente la vânt pentru a continua pe câmp deschis.",
+                "en": "Your breath forms small clouds in the cold air of this stone chapel. Wear windproof gloves for the onward ride across the open, exposed fields."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Vio",
+                "hu": "Saint-Vio Kápolna",
+                "ro": "Capela Saint-Vio",
+                "en": "Saint-Vio Chapel"
+              },
+              "tip_5lang": {
+                "de": "Eine charmante Rast im Winter. Da Sie auf dem Rad schnell auskühlen, lohnt sich ein kurzer flotter Spaziergang um das Gebäude, um warm zu bleiben.",
+                "hu": "Bájos téli pihenő. Mivel a bringán hamar kihűlsz, érdemes egy rövid, tempós sétát tenni az épület körül, hogy melegen tartsd az izmaidat.",
+                "ro": "Un popas de iarnă fermecător. Deoarece vă răciți repede pe bicicletă, o plimbare scurtă în jurul clădirii merită pentru a vă încălzi.",
+                "en": "A charming winter rest stop. Since you cool down quickly on the bike, take a brisk, short walk around the building to keep your muscles warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Prähistorischer Friedhof Prat-ar-Hastel",
+                "hu": "Prat-ar-Hastel Történelem Előtti Temető",
+                "ro": "Cimitirul Preistoric Prat-ar-Hastel",
+                "en": "Prat-ar-Hastel Prehistoric Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Das Raureif auf den alten Steinen ist ein tolles Fotomotiv. Trinken Sie hier heißen Tee aus Ihrer Thermoskanne, bevor der eisige Küstenabschnitt beginnt.",
+                "hu": "A régi köveken lévő zúzmara remek fotótéma. Igyál forró teát a termoszodból, mielőtt nekivágsz a jeges, szélfútta tengerparti szakasznak.",
+                "ro": "Brima de pe pietrele vechi este un motiv foto grozav. Beți ceai fierbinte din termos înainte să înceapă secțiunea înghețată de coastă.",
+                "en": "The hoarfrost on the ancient stones is a great photo subject. Drink hot tea from your thermos before starting the icy, wind-exposed coastal section."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunkerruinen und Betonbrecher (Zweiter Weltkrieg)",
+                "hu": "Második Világháborús Zúzóromok",
+                "ro": "Ruinele Concasorului (Al Doilea Război Mondial)",
+                "en": "WWII Concrete Crusher Ruins"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft gegen 15:00 Uhr dramatische, lange Schatten. Fahren Sie langsam, da Raureif den Weg teilweise sehr glatt machen kann.",
+                "hu": "A téli nap 15:00 körül drámai, hosszú árnyékokat vet. Vezess lassan, mert a zúzmara helyenként nagyon csúszóssá teheti a bicikliutat.",
+                "ro": "Soarele de iarnă aruncă umbre dramatice în jurul orei 15:00. Conduceți încet, deoarece bruma poate face drumul foarte alunecos pe alocuri.",
+                "en": "The winter sun casts dramatic, long shadows around 15:00. Ride slowly, as hoarfrost can make the path surprisingly slick in certain spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunker-Kasematte (Zweiter Weltkrieg)",
+                "hu": "Második Világháborús Kazamata",
+                "ro": "Cazemată Al Doilea Război Mondial",
+                "en": "WWII Casemate Bunker"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die düsteren Betonreste, solange noch ausreichend Tageslicht vorhanden ist. Im Inneren staut sich oft eisige Feuchtigkeit.",
+                "hu": "Fedezd fel a komor betonmaradványokat, amíg még van elég nappali fény. Odabent gyakran jeges nedvesség és huzat reked meg télen.",
+                "ro": "Explorați rămășițele sumbre din beton cât încă mai este lumină de zi. Umiditatea înghețată se acumulează adesea în interior.",
+                "en": "Explore the gloomy concrete remains while there is still enough daylight. Icy moisture and drafts often accumulate inside during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kermabec",
+                "hu": "Kermabec Strand",
+                "ro": "Plaja Kermabec",
+                "en": "Kermabec Beach"
+              },
+              "tip_5lang": {
+                "de": "Der eisige Meereswind kühlt den Körper auf dem Rad extrem aus. Genießen Sie den rauen Winterozean kurz und ziehen Sie Ihre Kapuze tief ins Gesicht.",
+                "hu": "A fagyos tengeri szél extrém módon lehűti a testet a bringán. Élvezd röviden a zord téli óceánt, és húzd mélyen az arcodba a kapucnidat.",
+                "ro": "Vântul înghețat al mării răcește corpul pe bicicletă. Bucurați-vă scurt de oceanul de iarnă și trageți-vă gluga adânc pe față.",
+                "en": "The icy sea wind chills your body extremely fast on the bike. Enjoy the harsh winter ocean briefly and pull your hood deep over your face."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Évy",
+                "hu": "Saint-Évy Kápolna",
+                "ro": "Capela Saint-Évy",
+                "en": "Saint-Évy Chapel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im schwindenden Licht gegen 16:30 Uhr. Schalten Sie Ihre Fahrradlichter ein, da die Dämmerung auf den Landstraßen blitzschnell einfällt.",
+                "hu": "Fejezd be a túrát a fogyatkozó fényben 16:30 körül. Kapcsold be a kerékpárlámpákat, mert a szürkület villámgyorsan leszáll a vidéki utakon.",
+                "ro": "Încheiați turul în lumina scăzută, în jurul orei 16:30. Aprindeți luminile, deoarece amurgul cade foarte repede pe drumurile de țară.",
+                "en": "End the tour in the fading light around 16:30. Turn on your bike lights, as dusk falls at lightning speed on these dark rural country roads."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -606,6 +1098,252 @@
         "hu": "Az utazás egy bájos erdei kápolnánál kezdődik, mielőtt a tengerparti szent helyek felé venné az irányt. A délidő ideális az ősi sírok és a hatalmas háborús romok megtekintésére. Délután pihenhet a tágas strandon és élvezheti a sós tengeri szellőt. Este visszavezet az út a faluba, hogy megcsodálhassa a kivilágított történelmi templomokat.",
         "ro": "Călătoria începe la o capelă fermecătoare de pădure, înainte de a continua spre siturile sfinte de pe coastă. Prânzul este ideal pentru a vizita mormintele antice și ruinele masive de război. După-amiaza, vă puteți relaxa pe plaja întinsă, bucurându-vă de briza sărată. Seara conduceți înapoi în sat pentru a admira bisericile iluminate.",
         "en": "Your drive begins at a charming woodland chapel before heading to the sacred sites along the coast. Midday is ideal for visiting the prehistoric tombs and massive war ruins. In the afternoon, you can relax on the expansive beach and enjoy the salty sea breeze. In the evening, drive back into the village to admire the beautifully illuminated historic churches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem Regentag ist das Fahren ideal, um trocken zwischen den abgelegenen Kapellen zu wechseln. Mittags bedeuten Besuche von historischen Stätten kurze Sprints vom Auto durch den Regen. Nachmittags wirken die Bunkerruinen unter dem grauen Himmel sehr imposant. Beenden Sie den Tag, indem Sie den stürmischen Ozean aus dem gemütlichen, warmen geparkten Auto beobachten.",
+            "hu": "Esős napon az autóvezetés ideális arra, hogy szárazon járj a távoli kápolnák között. Délben a történelmi helyek meglátogatása rövid, esőben történő futásokat jelent az autótól. Délután a bunkerromok nagyon impozánsak a szürke ég alatt. Fejezd be a napot azzal, hogy a kényelmes, parkoló autóból nézed a viharos óceánt.",
+            "ro": "Conducerea într-o zi ploioasă este ideală pentru a vă deplasa uscat între capele. La prânz, vizitele înseamnă sprinturi scurte de la mașină prin ploaie. După-amiaza, ruinele buncărului arată impunător sub cerul gri. Terminați ziua urmărind oceanul furtunos din mașina parcată confortabilă.",
+            "en": "Driving on a rainy day is ideal for hopping between the remote chapels while staying dry. Midday visits to historical sites mean short dashes from the car in the rain. The afternoon bunker ruins look imposing under the grey skies. End the day watching the stormy ocean from the comfort of your warm parked car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Saint-Évy",
+                "hu": "Saint-Évy Kápolna",
+                "ro": "Capela Saint-Évy",
+                "en": "Saint-Évy Chapel"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie dicht an der Mauer, um beim Aussteigen dem starken Regenwind zu entgehen. Die Kapelle bietet sofortigen, trockenen Unterschlupf.",
+                "hu": "Parkolj közel a falhoz, hogy kiszálláskor elkerüld az erős esős szelet. A kápolna azonnali, száraz menedéket nyújt a záporok elől.",
+                "ro": "Parcați aproape de perete pentru a evita vântul ploios la coborâre. Capela oferă un adăpost imediat și uscat.",
+                "en": "Park close to the wall to avoid the strong, rainy wind when getting out. The chapel offers immediate, dry shelter from the heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Vio",
+                "hu": "Saint-Vio Kápolna",
+                "ro": "Capela Saint-Vio",
+                "en": "Saint-Vio Chapel"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen Regenschirm mit für die wenigen Schritte vom Autoport. Der Prasseln des Regens auf das alte Dach ist im Inneren sehr beruhigend.",
+                "hu": "Vigyél esernyőt a parkolótól megtett néhány lépéshez. Az eső kopogása a régi tetőn odabent nagyon megnyugtató és békés élmény.",
+                "ro": "Luați o umbrelă pentru câțiva pași de la parcare. Zgomotul ploii pe acoperișul vechi este foarte liniștitor în interior.",
+                "en": "Take an umbrella for the short walk from the parking area. The pitter-patter of rain on the old roof is a very soothing experience inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Prähistorischer Friedhof Prat-ar-Hastel",
+                "hu": "Prat-ar-Hastel Történelem Előtti Temető",
+                "ro": "Cimitirul Preistoric Prat-ar-Hastel",
+                "en": "Prat-ar-Hastel Prehistoric Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto reicht aus. Bewundern Sie die glänzenden, nassen Menhire lieber vom befestigten Rand, das Feld ist extrem matschig.",
+                "hu": "Egy rövid futás az autóból elég ide. A csillogó, vizes menhireket inkább a kövezett szélről csodáld, mert a mező rendkívül sáros.",
+                "ro": "Un scurt sprint de la mașină este suficient. Admirați menhirele umede și strălucitoare de pe marginea pietruită, câmpul este extrem de noroios.",
+                "en": "A short dash from the car is enough. Admire the shiny, wet menhirs from the paved edge, as the field itself gets extremely muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunkerruinen und Betonbrecher (Zweiter Weltkrieg)",
+                "hu": "Második Világháborús Zúzóromok",
+                "ro": "Ruinele Concasorului (Al Doilea Război Mondial)",
+                "en": "WWII Concrete Crusher Ruins"
+              },
+              "tip_5lang": {
+                "de": "Sie können die massive Anlage gut aus der Ferne bei laufenden Scheibenwischern betrachten, falls der Platzregen zu stark für einen Spaziergang wird.",
+                "hu": "A masszív komplexumot távolról is jól láthatod járó ablaktörlők mögül, ha a felhőszakadás túl erős lenne egy kinti sétához.",
+                "ro": "Puteți vedea complexul masiv de la distanță cu ștergătoarele pornite, în cazul în care ploaia torențială este prea puternică pentru a ieși.",
+                "en": "You can view the massive complex well from a distance with wipers running, just in case the downpour gets too heavy for a walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunker-Kasematte (Zweiter Weltkrieg)",
+                "hu": "Második Világháborús Kazamata",
+                "ro": "Cazemată Al Doilea Război Mondial",
+                "en": "WWII Casemate Bunker"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Jacken im Auto und eilen Sie in den Bunker. Dort drinnen ist es trocken, aber sehr dunkel unter den dicken Regenfedern.",
+                "hu": "Hagyd a vizes kabátokat az autóban, és siess be a bunkerbe. Odabent szárazság van, de a sűrű esőfelhők miatt nagyon sötét lehet.",
+                "ro": "Lăsați jachetele umede în mașină și grăbiți-vă în buncăr. Acolo este uscat, dar foarte întuneric din cauza norilor de ploaie.",
+                "en": "Leave wet jackets in the car and rush into the bunker. It is dry inside, but it gets very dark under the heavy, thick rain clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kermabec",
+                "hu": "Kermabec Strand",
+                "ro": "Plaja Kermabec",
+                "en": "Kermabec Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Ozean. Kurbeln Sie das Fenster nur einen Spalt auf, um das Brüllen der Brandung bei strömendem Regen trocken zu genießen.",
+                "hu": "Parkolj az óceánra nézve. Csak egy résnyire húzd le az ablakot, hogy szárazon élvezd a hullámverés robaját a szakadó esőben.",
+                "ro": "Parcați cu fața la ocean. Deschideți fereastra doar puțin pentru a vă bucura uscat de vuietul valurilor în timpul ploii torențiale.",
+                "en": "Park facing the ocean. Roll down the window just a crack to enjoy the roar of the crashing surf while staying completely dry in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Alour",
+                "hu": "Saint-Alour Kápolna",
+                "ro": "Capela Saint-Alour",
+                "en": "Saint-Alour Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Weg vom Auto führt ins trockene Innere. Schütteln Sie Ihren Regenschirm gut ab, bevor Sie den historischen Steinboden betreten.",
+                "hu": "Egy rövid, vizes út vezet az autótól a száraz belső térbe. Rázd le jól az esernyődet, mielőtt rálépsz a történelmi kőpadlóra.",
+                "ro": "Un drum scurt și umed de la mașină duce în interiorul uscat. Scuturați bine umbrela înainte de a păși pe podeaua istorică de piatră.",
+                "en": "A short, wet walk from the car leads to the dry interior. Shake off your umbrella thoroughly before stepping onto the historic stone floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau des Mitleids",
+                "hu": "Könyörületes Miasszonyunk Templom",
+                "ro": "Biserica Maicii Domnului a Milei",
+                "en": "Church of Our Lady of Pity"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den verregneten Tag hier. Stellen Sie die Autoheizung hoch, um sich nach dem letzten kurzen Sprung in die nasse Kälte aufzuwärmen.",
+                "hu": "Fejezd be itt az esős napot. Kapcsold fel az autó fűtését, hogy felmelegedj a kinti nedves hidegben tett utolsó rövid séta után.",
+                "ro": "Încheiați ziua ploioasă aici. Porniți încălzirea mașinii pentru a vă încălzi după ultima scurtă ieșire în frigul umed.",
+                "en": "End the rainy day here. Turn up the car heating to warm yourself up after making this final short dash into the wet cold outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Winter-Roadtrip beginnt an frostigen Morgenkapellen. Mittags hält Sie das Fahren warm zwischen der Erkundung der windgepeitschten prähistorischen und Weltkriegsstätten. Nachmittags schwindet das Licht schnell und lässt die Bunker dramatisch wirken. Fangen Sie den frühen Sonnenuntergang am Strand gegen 17:00 Uhr ein, bevor die tiefe Winterkälte einsetzt.",
+            "hu": "Egy hangulatos téli autós utazás fagyos reggeli kápolnáknál indul. Délben a vezetés melegen tart a szélfútta őskori és világháborús helyszínek felfedezése között. Délután a fény gyorsan fogy, drámaivá téve a bunkereket. Kapd el a korai naplementét a parton 17:00 körül, mielőtt beáll a mély téli fagy.",
+            "ro": "O excursie confortabilă de iarnă începe la capele înghețate dimineața. La prânz, condusul vă ține de cald între explorarea siturilor măturate de vânt. După-amiaza lumina scade rapid, făcând buncărele dramatice. Prindeți apusul devreme pe plajă în jurul orei 17:00 înainte să se lase frigul greu.",
+            "en": "A cozy winter road trip starts at frosty morning chapels. Midday driving keeps you warm between exploring the windswept prehistoric and WWII sites. Afternoon light fades fast, making the bunkers look dramatic. Catch the early sunset at the beach around 17:00 before the deep winter chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Saint-Évy",
+                "hu": "Saint-Évy Kápolna",
+                "ro": "Capela Saint-Évy",
+                "en": "Saint-Évy Chapel"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie den Tag an dieser eiskalten, aber malerischen Kapelle. Lassen Sie den Motor kurz laufen, um das Auto für die Weiterfahrt warm zu halten.",
+                "hu": "Kezdd a napot ennél a jéghideg, de festői kápolnánál. Hagyd a motort kicsit járni, hogy az autó meleg maradjon a továbbutazáshoz.",
+                "ro": "Începeți ziua la această capelă înghețată, dar pitorească. Lăsați motorul pornit scurt pentru a menține mașina caldă pentru continuare.",
+                "en": "Start the day at this freezing but picturesque chapel. Leave the engine running briefly if safe, to keep the car warm for the onward journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Vio",
+                "hu": "Saint-Vio Kápolna",
+                "ro": "Capela Saint-Vio",
+                "en": "Saint-Vio Chapel"
+              },
+              "tip_5lang": {
+                "de": "Eine schnelle Besichtigung in der Kälte. Tragen Sie eine dicke Mütze, da der frostige Wind auf dem kurzen Weg vom Parkplatz sehr beißend ist.",
+                "hu": "Gyors városnézés a hidegben. Viselj vastag sapkát, mert a fagyos szél a parkolótól vezető rövid úton is nagyon csípős tud lenni.",
+                "ro": "O vizită rapidă în frig. Purtați o căciulă groasă, deoarece vântul înghețat de pe scurtul drum de la parcare este foarte mușcător.",
+                "en": "A quick sightseeing stop in the cold. Wear a thick beanie, as the frosty wind on the short walk from the parking lot is very biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Prähistorischer Friedhof Prat-ar-Hastel",
+                "hu": "Prat-ar-Hastel Történelem Előtti Temető",
+                "ro": "Cimitirul Preistoric Prat-ar-Hastel",
+                "en": "Prat-ar-Hastel Prehistoric Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um die Monumente kann steif gefroren sein. Wärmen Sie sich nach den Fotos sofort wieder an der Lüftung Ihres Fahrzeugs auf.",
+                "hu": "A műemlékek körüli talaj merevre fagyhat. A fotózás után azonnal melegedj fel újra a járműved fűtőrendszerénél.",
+                "ro": "Pământul din jurul monumentelor poate fi înghețat. Încălziți-vă imediat la ventilația vehiculului după ce ați făcut fotografii.",
+                "en": "The ground around the monuments can be frozen stiff. Warm yourself up immediately at your vehicle's heater after taking some photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunkerruinen und Betonbrecher (Zweiter Weltkrieg)",
+                "hu": "Második Világháborús Zúzóromok",
+                "ro": "Ruinele Concasorului (Al Doilea Război Mondial)",
+                "en": "WWII Concrete Crusher Ruins"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne erzeugt herrliche Kontraste auf dem Beton. Achten Sie auf überfrierende Nässe auf den Zufahrtsstraßen zu diesen historischen Stätten.",
+                "hu": "A téli nap csodálatos kontrasztokat teremt a betonon. Figyelj a ráfagyott nedvességre és a fekete jégre az idevezető utakon.",
+                "ro": "Soarele de iarnă creează contraste minunate pe beton. Atenție la poleiul de pe drumurile de acces către aceste situri istorice.",
+                "en": "The winter sun creates magnificent contrasts on the concrete. Watch out for freezing wetness and black ice on the access roads leading here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunker-Kasematte (Zweiter Weltkrieg)",
+                "hu": "Második Világháborús Kazamata",
+                "ro": "Cazemată Al Doilea Război Mondial",
+                "en": "WWII Casemate Bunker"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die eiskalten Ruinen sicher; die dicken Wände bieten hervorragenden Windschutz. Kehren Sie schnell ins warme Auto zurück.",
+                "hu": "Fedezd fel a jéghideg romokat; a vastag falak kiváló szélvédelmet nyújtanak. Utána térj vissza gyorsan a felmelegített autóba.",
+                "ro": "Explorați ruinele înghețate; pereții groși oferă o protecție excelentă împotriva vântului. Întoarceți-vă rapid la mașina caldă.",
+                "en": "Explore the freezing ruins safely; the thick walls offer excellent windbreak. Return to your warm car quickly as the chill sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kermabec",
+                "hu": "Kermabec Strand",
+                "ro": "Plaja Kermabec",
+                "en": "Kermabec Beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Wintersonnenuntergang bequem aus dem Auto. Wenn Sie aussteigen, schützt ein dicker Schal vor der extremen Meereskälte.",
+                "hu": "Éld át a korai téli naplementét kényelmesen az autóból. Ha kiszállsz, egy vastag sál megvéd az extrém tengerparti hidegtől.",
+                "ro": "Experimentați apusul devreme de iarnă din confortul mașinii. Dacă ieșiți, un fular gros vă protejează de frigul extrem al mării.",
+                "en": "Experience the early winter sunset comfortably from the car. If you step out, a thick scarf will protect you from the extreme ocean cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Alour",
+                "hu": "Saint-Alour Kápolna",
+                "ro": "Capela Saint-Alour",
+                "en": "Saint-Alour Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung ist jetzt wahrscheinlich schon weit fortgeschritten. Der dunkle, kalte Stein wirkt im schwachen Abendlicht besonders imposant.",
+                "hu": "A szürkület mostanra valószínűleg már előrehaladott. A sötét, hideg kő különösen impozánsnak tűnik a gyenge, téli esti fényben.",
+                "ro": "Amurgul este probabil deja avansat acum. Piatra întunecată și rece pare deosebit de impunătoare în lumina slabă a serii.",
+                "en": "Dusk is probably already well advanced by now. The dark, cold stone looks particularly imposing in the fading winter evening light."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau des Mitleids",
+                "hu": "Könyörületes Miasszonyunk Templom",
+                "ro": "Biserica Maicii Domnului a Milei",
+                "en": "Church of Our Lady of Pity"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den kalten Ausflug in völliger Dunkelheit. Die beleuchtete Kirche bildet einen schönen, warmen Kontrast zur frostigen Nacht.",
+                "hu": "Fejezd be a hideg kirándulást teljes sötétségben. A kivilágított templom szép, meleg kontrasztot alkot a fagyos éjszakával.",
+                "ro": "Încheiați excursia rece în întuneric total. Biserica iluminată formează un contrast frumos și cald cu noaptea înghețată.",
+                "en": "End the cold trip in complete darkness. The illuminated church forms a beautiful, warm contrast to the freezing, pitch-black winter night."
+              }
+            }
+          ]
+        }
       }
     }
   }

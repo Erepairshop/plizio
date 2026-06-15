@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy frissítő sétával a Penarvon-öbölhöz, érezve a lágy tengeri szellőt. Dél közeledtével kövesse az árapályos homokot a The Bar-on keresztül a Passage Cove felé. Délután sétáljon át a Trebah rekreációs övezet buja zöldjébe. Zárja a napot a lélegzetelállító Trebah Kert és annak szubtrópusi csodáinak felfedezésével a kora esti órákban.",
         "ro": "Începeți dimineața cu o plimbare revigorantă spre Penarvon Cove, simțind briza blândă. Spre prânz, urmați nisipurile mareelor peste The Bar până la Passage Cove, admirând farmecul nautic. După-amiaza, treceți spre verdeața luxuriantă a zonei de agrement Trebah. Încheiați ziua explorând grădina uluitoare Trebah și minunatele sale specii de plante subtropicale.",
         "en": "Begin your morning with a refreshing stroll down to Penarvon Cove, feeling the soft sea breeze. As midday approaches, follow the tidal sands across The Bar to Passage Cove, soaking in the nautical charm. In the afternoon, transition towards the lush greenery of the Trebah recreational area. Conclude your day exploring the breathtaking Trebah Garden and its subtropical wonders."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Penarvon Cove, wo der Nebel über dem Helford River eine mystische Atmosphäre schafft. Der Weg entlang des Ufers bietet Schutz unter dichten Baumkronen, aber die Pfade können schlammig sein. Mittags erreichen Sie Passage Cove; die Farne leuchten im Regen besonders intensiv. Der Nachmittag gehört den Trebah Gardens, deren subtropische Pflanzenwelt auch bei grauem Himmel fasziniert. Abends suchen Sie Schutz im Dorf.",
+            "hu": "Kezdje a reggelt a Penarvon Cove-nál, ahol az eső áztatta folyópart misztikus látványt nyújt. Az ösvények a sűrű lombkoronák alatt némi védelmet adnak, de a talaj csúszós lehet. Délben a Passage Cove vizes sziklái és a pára különleges hangulatot árasztanak. Délután a Trebah Garden buja növényzete között sétálhat, amely esőben is lenyűgöző. Estére vonuljon fedett helyre a faluban a sötétedés előtt.",
+            "ro": "Începeți dimineața la Penarvon Cove, unde ceața de deasupra râului Helford creează o atmosferă mistică. Potecile de coastă oferă adăpost sub copaci, dar pot fi noroioase. La prânz, Passage Cove capătă nuanțe dramatice sub ploaie. După-amiaza este dedicată grădinilor Trebah, a căror vegetație luxuriantă strălucește sub picăturile de apă. Seara, retrageți-vă într-un loc acoperit pe măsură ce ploaia se întețește.",
+            "en": "Start at Penarvon Cove, where the mist over the Helford River creates a mystical atmosphere. The coastal paths offer some shelter under the canopy, but watch for mud. By noon, reach Passage Cove, which looks dramatic in the grey light. Spend the afternoon in Trebah Garden, where the exotic plants thrive in the damp air. In the evening, seek a warm indoor spot as the rain continues to fall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Penarvon Cove",
+                "hu": "Penarvon Cove",
+                "ro": "Penarvon Cove",
+                "en": "Penarvon Cove"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Nebel über dem Ästuar, der im Regen besonders dicht wirkt; tragen Sie unbedingt wasserfeste Wanderschuhe, da die ufernahen Wege sehr rutschig sind.",
+                "hu": "Figyeld meg az esőben sűrűbbé váló ködöt az torkolat felett; mindenképpen viselj vízálló túrabakancsot, mert a part menti ösvények ilyenkor rendkívül csúszóssá válnak.",
+                "ro": "Observați ceața densă de deasupra estuarului care pare mai groasă în ploaie; purtați bocanci impermeabili deoarece potecile de pe mal devin foarte alunecoase acum.",
+                "en": "Watch the thick mist rolling over the estuary which feels atmospheric in the rain; wear sturdy waterproof boots as the shoreline paths become very slippery today."
+              }
+            },
+            {
+              "name": {
+                "de": "The Bar",
+                "hu": "The Bar",
+                "ro": "The Bar",
+                "en": "The Bar"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie zu, wie die Regentropfen auf die Sandbank treffen und die Gezeiten mischen; bringen Sie einen großen Schirm mit, da es auf der offenen Fläche kaum Unterstand gibt.",
+                "hu": "Nézd meg, hogyan csapkodnak az esőcseppek a homokpadon az árapály idején; hozz magaddal egy nagy esernyőt, mert a nyílt területen szinte semmilyen természetes fedezék nincs.",
+                "ro": "Priviți cum picăturile de ploaie lovesc bancul de nisip în timpul fluxului; aduceți o umbrelă mare, deoarece pe această suprafață deschisă nu există adăpost natural.",
+                "en": "View the raindrops hitting the sandbar as the tides meet in the middle; bring a large umbrella as there is almost no natural shelter on this wide, open expanse."
+              }
+            },
+            {
+              "name": {
+                "de": "Passage Cove",
+                "hu": "Passage Cove",
+                "ro": "Passage Cove",
+                "en": "Passage Cove"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der versteckten Bucht unter einem regennassen grauen Himmel; nutzen Sie die dichten Bäume am Rand als natürlichen Schutz vor plötzlichen Schauern.",
+                "hu": "Élvezd a rejtett öböl nyugalmát az esőáztatta szürke égbolt alatt; használd a part menti sűrű fákat természetes menedékként a hirtelen lezúduló záporok elől.",
+                "ro": "Bucurați-vă de liniștea golfului ascuns sub cerul cenușiu de ploaie; folosiți copacii deși de pe margine ca adăpost natural împotriva averselor bruște de pe coastă.",
+                "en": "Enjoy the silence of the hidden cove under the rain-soaked grey sky; use the dense overhanging trees as natural shelter from any sudden heavy coastal showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Trebah",
+                "hu": "Trebah",
+                "ro": "Trebah",
+                "en": "Trebah"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das historische Herrenhaus, das im Regen besonders efeuumrankt und urig wirkt; halten Sie sich auf den befestigten Wegen, um tiefen Schlamm zu vermeiden.",
+                "hu": "Csodáld meg a történelmi udvarházat, amely esőben még ódonabbnak és zöldebbnek tűnik; maradj a kövezett utakon, hogy elkerüld a mély sarat a kerti séta során.",
+                "ro": "Admirați conacul istoric care pare și mai vechi și plin de verdeață în ploaie; rămâneți pe aleile pavate pentru a evita noroiul adânc în timpul vizitei în grădină.",
+                "en": "Admire the historic manor house which looks even more ancient and green in the rain; stick to the paved paths to avoid deep mud during your walk through the estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Trebah Garden",
+                "hu": "Trebah Garden",
+                "ro": "Trebah Garden",
+                "en": "Trebah Garden"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die dschungelartige Atmosphäre, wenn der Regen von den riesigen Blättern tropft; suchen Sie Schutz im strohgedeckten Bootshaus am Fuße des Tals am Strand.",
+                "hu": "Éld át a dzsungelszerű hangulatot, ahogy az eső dobol a hatalmas leveleken; keress menedéket a völgy alján, a tengerpartnál lévő nádtetős csónakház belsejében.",
+                "ro": "Experimentați atmosfera de junglă în timp ce ploaia cade pe frunzele uriașe; căutați adăpost în casa bărcii cu acoperiș de stuf de la baza văii, lângă plajă.",
+                "en": "Experience the jungle-like atmosphere as rain drips from the giant leaves; find shelter in the thatched boathouse at the bottom of the valley by the private beach."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Helford River bietet weite Sichten. Die Luft ist frisch, und die kahlen Bäume geben den Blick auf versteckte Anwesen frei. Mittags wärmt die tiefstehende Sonne die geschützten Buchten wie Passage Cove. In Trebah Garden sorgen immergrüne Pflanzen für Struktur und Farbe. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie den Nachmittag nutzen und rechtzeitig in die gemütliche Unterkunft zurückkehren.",
+            "hu": "A kristálytiszta téli reggel a Helford-folyónál lenyűgöző látványt nyújt. A friss levegőben a kopár fák mögül előbukkannak a rejtett udvarházak. Délben az alacsonyan járó nap megcsillan a Passage Cove vizén. A Trebah Garden örökzöldjei télen is színt visznek a tájba. Mivel a nap 17:00 körül nyugszik, érdemes a délutánt jól kihasználni, és sötétedés előtt visszatérni a meleg szálláshelyre.",
+            "ro": "O dimineață senină de iarnă pe râul Helford oferă priveliști spectaculoase. Aerul este proaspăt, iar copacii desfrunziți dezvăluie conacele ascunse. La prânz, soarele palid strălucește pe apa din Passage Cove. În grădina Trebah, plantele mereu verzi oferă structură și culoare. Deoarece soarele apune în jur de ora 17:00, profitați de după-amiază și întoarceți-vă la timp la căldură.",
+            "en": "A crisp winter morning by the Helford River offers far-reaching views. The air is fresh, and the bare trees reveal hidden estates. At noon, the low sun glitters on the water at Passage Cove. In Trebah Garden, evergreens provide structure and vibrant colour throughout the season. As sunset is around 5 PM, make the most of the daylight and return to a cozy spot before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Penarvon Cove",
+                "hu": "Penarvon Cove",
+                "ro": "Penarvon Cove",
+                "en": "Penarvon Cove"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Stille des winterlichen Ästuars und beobachten Sie die Zugvögel; tragen Sie mehrere Schichten Kleidung gegen den scharfen Wind vom Wasser.",
+                "hu": "Élvezd a téli torkolat tökéletes csendjét és figyeld meg a vonuló madarakat; viselj több réteg meleg ruhát a víz felől érkező metsző, hideg szél ellen.",
+                "ro": "Bucurați-vă de liniștea absolută a estuarului iarna și observați păsările migratoare; purtați mai multe straturi de haine împotriva vântului tăios de pe apă.",
+                "en": "Enjoy the absolute silence of the wintry estuary and watch for migratory birds; wear several warm layers to protect yourself from the sharp wind off the water."
+              }
+            },
+            {
+              "name": {
+                "de": "The Bar",
+                "hu": "The Bar",
+                "ro": "The Bar",
+                "en": "The Bar"
+              },
+              "tip_5lang": {
+                "de": "Blicken Sie über die weite Wasserfläche unter dem klaren Winterhimmel; nehmen Sie eine Thermoskanne mit heißem Tee mit, da es auf der Landzunge sehr zugig sein kann.",
+                "hu": "Tekints át a tiszta téli égbolt alatt elterülő hatalmas vízfelületen; vigyél magaddal egy termosz forró teát, mert a földnyelven nagyon huzatos lehet az idő.",
+                "ro": "Priviți suprafața vastă a apei sub cerul senin de iarnă; luați un termos cu ceai fierbinte, deoarece pe limba de nisip poate fi foarte mult curent și frig.",
+                "en": "Look across the vast expanse of water under the clear winter sky; bring a thermos of hot tea as it can be very drafty and cold on this exposed spit of land."
+              }
+            },
+            {
+              "name": {
+                "de": "Passage Cove",
+                "hu": "Passage Cove",
+                "ro": "Passage Cove",
+                "en": "Passage Cove"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das sanfte Winterlicht für stimmungsvolle Fotos der einsamen Küste; achten Sie auf glatte Stellen auf den Felsen durch gefrorene Gischt am frühen Morgen.",
+                "hu": "Használd ki a lágy téli fényeket a magányos tengerpart hangulatos fotózásához; vigyázz a sziklákon lévő jegesedésre, amelyet a hajnali fagyott pára okozhat.",
+                "ro": "Folosiți lumina blândă de iarnă pentru fotografii atmosferice ale coastei pustii; atenție la porțiunile înghețate de pe stânci cauzate de spray-ul marin matinal.",
+                "en": "Use the soft winter light for atmospheric photos of the lonely coastline; watch out for icy patches on the rocks caused by frozen sea spray in the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Trebah",
+                "hu": "Trebah",
+                "ro": "Trebah",
+                "en": "Trebah"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klare Architektur des Gartens, wenn die Bäume keine Blätter tragen; tragen Sie eine warme Mütze, da die Kälte in den offenen Gartenbereichen steht.",
+                "hu": "Csodáld meg a kert tiszta struktúráját, amikor a fák nem takarják el a kilátást; viselj meleg sapkát, mert a hideg megül a kert nyitottabb, szelesebb részein.",
+                "ro": "Admirați structura clară a grădinii acum că majoritatea copacilor sunt desfrunziți; purtați o căciulă groasă, deoarece frigul stăruie în zonele deschise ale grădinii.",
+                "en": "Admire the clear architectural lines of the garden when the trees are bare; wear a warm hat as the cold air tends to settle in the more open areas of the estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Trebah Garden",
+                "hu": "Trebah Garden",
+                "ro": "Trebah Garden",
+                "en": "Trebah Garden"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die winterblühenden Kamelien, die Farbtupfer in die graue Jahreszeit bringen; beenden Sie den Rundgang vor 16:30 Uhr, bevor es im Tal dunkel wird.",
+                "hu": "Fedezd fel a télen virágzó kaméliákat, amelyek színt visznek a szürke évszakba; fejezd be a sétát 16:30 előtt, mielőtt a mély völgy teljesen sötétségbe borul.",
+                "ro": "Descoperiți cameliile care înfloresc iarna, aducând pete de culoare în sezonul gri; terminați turul înainte de 16:30, înainte ca valea să se întunece complet.",
+                "en": "Discover the winter-flowering camellias that bring splashes of colour to the grey season; finish your tour by 4:30 PM before it gets dark in the deep valley."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon ki korán a Kestle Barton kulturális központjához, elmerülve az inspiráló vidéki művészeti kiállításokban. Tekerjen tovább a békés St Manaccus templomhoz egy csendes déli elmélkedésre. Töltse a délutánt a part mentén, a Bosahan és a Passage öblök között. Ahogy a nap lemegy, kerékpározzon el a The Bar mellett, és fejezze be útját a Penarvon-öbölben.",
         "ro": "Pedalați devreme spre centrul cultural Kestle Barton, bucurându-vă de expozițiile de artă rurală. Continuați spre pașnica biserică St Manaccus pentru o reflecție liniștită la prânz. Petreceți după-amiaza sărind de la un golf la altul, între Bosahan și Passage. Pe măsură ce soarele coboară, pedalați pe lângă The Bar și terminați relaxant la Penarvon Cove.",
         "en": "Cycle out early to the cultural hub of Kestle Barton, soaking in the inspiring rural art exhibits. Ride on to the peaceful St Manaccus & St Dunstan for a quiet midday reflection. Spend your afternoon coastal hopping between the pristine Bosahan and Passage Coves. As the sun begins to lower, cycle past The Bar and finish with a relaxing stop at Penarvon Cove."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den schmalen Wegen von Kestle Barton. Der Vormittag führt durch bewaldete Abschnitte, die Schutz bieten. Mittags erreichen Sie die Kirche in Manaccan, ein trockener Ort für eine Pause. Nachmittags geht es zur Bosahan Cove; der Regen verstärkt den Duft der Pinien. Die Rückfahrt über Passage Cove bietet dramatische Ausblicke auf den unruhigen Fluss. Abends wärmen Sie sich im Dorf wieder auf.",
+            "hu": "Az esős kerékpározás óvatosságot igényel Kestle Barton szűk ösvényein. A délelőtt erdős szakaszokon vezet át, amelyek némi védelmet nyújtanak. Délben látogasson el a manaccani templomba, amely száraz menedéket kínál a pihenéshez. Délután a Bosahan Cove felé az eső felerősíti a fenyők illatát. A visszaút a folyó mentén drámai látványt nyújt a szürke vízzel. Estére térjen vissza a faluba megszáradni.",
+            "ro": "O tură cu bicicleta pe ploaie necesită atenție pe potecile înguste de la Kestle Barton. Dimineața trece prin secțiuni împădurite care oferă adăpost. La prânz, vizitați biserica din Manaccan pentru un popas uscat. După-amiaza, spre Bosahan Cove, ploaia intensifică mirosul pinilor. Drumul de întoarcere pe lângă râu oferă vederi dramatice asupra apei agitate. Seara, încălziți-vă în sat după cursă.",
+            "en": "Cycling in the rain requires extra caution on the narrow lanes around Kestle Barton. The morning route takes you through wooded areas that provide cover. At noon, visit the church in Manaccan for a dry place to rest. In the afternoon, the rain heightens the scent of the pines near Bosahan Cove. The ride back offers dramatic views of the choppy river. Spend the evening drying off in a local cozy spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kestle Barton",
+                "hu": "Kestle Barton",
+                "ro": "Kestle Barton",
+                "en": "Kestle Barton"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Galerie im Inneren, um den Schauern zu entgehen und zeitgenössische Kunst zu sehen; parken Sie das Rad an einem geschützten Ort nahe der Scheune.",
+                "hu": "Látogasd meg a belső galériát, hogy elkerüld a záporokat és kortárs művészetet láss; parkold le a biciklit egy védett helyen a csűr közelében a látogatás idejére.",
+                "ro": "Vizitați galeria din interior pentru a evita aversele și pentru a vedea artă contemporană; parcați bicicleta într-un loc protejat lângă șură pe durata vizitei.",
+                "en": "Visit the indoor gallery to escape the showers and see contemporary art; park your bike in a sheltered spot near the barn while you explore the exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "St Manaccus & St Dunstan",
+                "hu": "St Manaccus & St Dunstan",
+                "ro": "St Manaccus & St Dunstan",
+                "en": "St Manaccus & St Dunstan"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die berühmte Eibe, die aus der Kirchenmauer wächst und Schutz bietet; achten Sie auf die nassen Stufen am Eingang, die sehr rutschig sein können.",
+                "hu": "Csodáld meg a híres tiszafát, amely a templom falából nő ki és védelmet nyújt; vigyázz a bejáratnál lévő vizes lépcsőkkel, amelyek ilyenkor nagyon csúsznak.",
+                "ro": "Admirați celebrul tisa care crește din peretele bisericii și oferă protecție; atenție la treptele umede de la intrare, care pot fi extrem de alunecoase acum.",
+                "en": "Admire the famous yew tree growing out of the church wall which offers some shelter; watch your step on the wet entrance stones as they can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Bosahan Cove",
+                "hu": "Bosahan Cove",
+                "ro": "Bosahan Cove",
+                "en": "Bosahan Cove"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das graue Meer von der Klippe aus; reduzieren Sie den Reifendruck leicht, um auf den nassen, bewaldeten Pfaden zur Bucht mehr Grip zu haben.",
+                "hu": "Élvezd a szürke tenger látványát a szikláról az esőben; engedj le kicsit a kerékpár guminyomásából a jobb tapadásért az erdős, vizes ösvényeken az öböl felé.",
+                "ro": "Bucurați-vă de vederea mării cenușii de pe stâncă în ploaie; reduceți puțin presiunea din anvelope pentru o aderență mai bună pe potecile umede spre golf.",
+                "en": "Enjoy the view of the grey sea from the cliffside in the rain; lower your tyre pressure slightly for better grip on the wet, wooded trails leading down to the cove."
+              }
+            },
+            {
+              "name": {
+                "de": "Passage Cove",
+                "hu": "Passage Cove",
+                "ro": "Passage Cove",
+                "en": "Passage Cove"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen Kreise auf der Wasseroberfläche des Flusses zieht; tragen Sie eine helle Regenjacke, damit Sie auf den grauen Straßen besser gesehen werden.",
+                "hu": "Figyeld meg, ahogy az eső köröket rajzol a folyó felszínére; viselj élénk színű esőkabátot, hogy a szürke időben is jól látható maradj az utakon a többi járműnek.",
+                "ro": "Priviți cum ploaia desenează cercuri pe suprafața râului; purtați o pelerină de ploaie în culori vii pentru a fi mai vizibil pe drumurile gri în timpul zilei.",
+                "en": "Watch how the rain creates ripples on the river's calm surface; wear a bright raincoat to ensure you are clearly visible to others on the grey, misty roads."
+              }
+            },
+            {
+              "name": {
+                "de": "The Bar",
+                "hu": "The Bar",
+                "ro": "The Bar",
+                "en": "The Bar"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Landzunge, wenn der Regen den Sand dunkel färbt; meiden Sie die Algenbereiche auf dem nassen Boden, da diese tückisch glatt für Fahrradreifen sind.",
+                "hu": "Fedezd fel a földnyelvet, amikor az eső sötétre festi a homokot; kerüld el az algás részeket a vizes talajon, mert azok veszélyesen csúszósak a bicikliguminak.",
+                "ro": "Explorați limba de pământ când ploaia colorează nisipul în nuanțe închise; evitați zonele cu alge pe solul umed, deoarece sunt extrem de alunecoase pentru roți.",
+                "en": "Explore the spit of land when the rain turns the sand dark and firm; avoid any seaweed patches on the wet ground as they are treacherously slippery for tyres."
+              }
+            },
+            {
+              "name": {
+                "de": "Penarvon Cove",
+                "hu": "Penarvon Cove",
+                "ro": "Penarvon Cove",
+                "en": "Penarvon Cove"
+              },
+              "tip_5lang": {
+                "de": "Hören Sie dem Prasseln des Regens auf dem Wasser zu; wischen Sie Ihre Felgen trocken, bevor Sie losfahren, um eine optimale Bremsleistung auf der nassen Straße zu haben.",
+                "hu": "Hallgasd az eső kopogását a vízen a csendes öbölben; töröld szárazra a felniket indulás előtt az optimális fékhatás érdekében a vizes utakon lefelé menet.",
+                "ro": "Ascultați ropotul ploii pe apă în golful liniștit; ștergeți jantele înainte de plecare pentru o frânare optimă pe drumurile umede spre casă.",
+                "en": "Listen to the pitter-patter of rain on the water in the quiet cove; wipe your rims dry before leaving to ensure optimal braking performance on the wet road home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischendes Winter-Abenteuer auf zwei Rädern. Morgens liegt oft Reif auf den Wiesen rund um Kestle Barton. Die Route führt Sie durch verschlafene Dörfer zur Manaccan-Kirche, wo die Stille des Winters spürbar ist. Mittags wärmt die Sonne an der Bosahan Cove. Der Nachmittag bietet weite Ausblicke über den Helford River, bevor das Licht weicher wird. Beenden Sie die Tour bis 16:30 Uhr, um nicht in der eisigen Dunkelheit fahren zu müssen.",
+            "hu": "Frissítő téli kaland két keréken. Reggelente gyakran dér fedi a réteket Kestle Barton környékén. Az út álmos falvakon vezet át a manaccani templomig, ahol érezhető a téli csend. Délben a nap kellemesen süt a Bosahan Cove szikláin. Délután tiszta kilátás nyílik a Helford-folyóra, mielőtt a fények ellágyulnak. Fejezze be a túrát 16:30-ig, hogy ne kelljen a jeges sötétben tekernie.",
+            "ro": "O aventură revigorantă de iarnă pe două roți. Dimineața, bruma acoperă adesea pajiștile din jurul Kestle Barton. Traseul trece prin sate adormite până la biserica Manaccan. La prânz, soarele încălzește stâncile de la Bosahan Cove. După-amiaza oferă vederi clare asupra râului Helford înainte ca lumina să devină difuză. Încheiați tura până la ora 16:30 pentru a evita întunericul rece.",
+            "en": "A refreshing winter adventure on two wheels. In the morning, frost often covers the meadows around Kestle Barton. The route takes you through sleepy villages to Manaccan Church, where the winter silence is profound. At noon, the sun feels warm at Bosahan Cove. The afternoon offers wide views of the Helford River before the light fades. Finish your ride by 4:30 PM to avoid cycling in the icy darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kestle Barton",
+                "hu": "Kestle Barton",
+                "ro": "Kestle Barton",
+                "en": "Kestle Barton"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast der historischen Gebäude gegen den blauen Winterhimmel; tragen Sie gefütterte Handschuhe, da der Fahrtwind am Morgen sehr kalt ist.",
+                "hu": "Élvezd a történelmi épületek látványát a tiszta téli égbolt előtt; viselj bélelt kesztyűt, mert a menetszél reggelente rendkívül hideg lehet a kormányon.",
+                "ro": "Bucurați-vă de contrastul clădirilor istorice pe fundalul cerului senin de iarnă; purtați mănuși căptușite, deoarece vântul la pedalat este foarte rece dimineața.",
+                "en": "Enjoy the contrast of the historic buildings against the bright winter sky; wear lined gloves as the wind chill while cycling can be very biting in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "St Manaccus & St Dunstan",
+                "hu": "St Manaccus & St Dunstan",
+                "ro": "St Manaccus & St Dunstan",
+                "en": "St Manaccus & St Dunstan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das friedliche Kircheninnere, um der Winterkälte kurz zu entfliehen; prüfen Sie Ihr Fahrradlicht, falls Sie auf dem Rückweg in die Dämmerung kommen.",
+                "hu": "Látogass el a békés templombelsőbe, hogy rövid időre elmenekülj a téli hideg elől; ellenőrizd a lámpáidat, ha a visszaúton már szürkületben kellene tekerned.",
+                "ro": "Vizitați interiorul liniștit al bisericii pentru a scăpa scurt de frigul iernii; verificați luminile bicicletei în caz că vă prinde amurgul pe drumul de întoarcere.",
+                "en": "Visit the peaceful church interior to briefly escape the winter chill; check your bike lights in case the dusk starts to settle in on your return journey today."
+              }
+            },
+            {
+              "name": {
+                "de": "Bosahan Cove",
+                "hu": "Bosahan Cove",
+                "ro": "Bosahan Cove",
+                "en": "Bosahan Cove"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen sonnigen Platz am Strand für eine kurze Pause; ziehen Sie eine zusätzliche Windjacke an, bevor Sie die Abfahrt hinunter zur Bucht antreten.",
+                "hu": "Keress egy napsütötte helyet a parton egy rövid pihenőhöz; vegyél fel egy extra szélkabátot, mielőtt megkezded a gyors legurulást az öböl felé vezető úton.",
+                "ro": "Căutați un loc însorit pe plajă pentru un scurt popas; puneți o jachetă de vânt suplimentară înainte de a începe coborârea rapidă spre golf pe bicicletă.",
+                "en": "Find a sunny spot on the beach for a short rest; put on an extra windproof layer before you start the fast downhill descent towards the cove on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Passage Cove",
+                "hu": "Passage Cove",
+                "ro": "Passage Cove",
+                "en": "Passage Cove"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das glitzernde Wasser im tiefstehenden Sonnenlicht; achten Sie auf nasses Laub in den Kurven, das bei kühlen Temperaturen gefroren und glatt sein kann.",
+                "hu": "Figyeld meg a csillogó vizet az alacsonyan járó napfényben; vigyázz a kanyarokban a vizes levelekre, amelyek a hidegben megfagyhatnak és csúszóssá válhatnak.",
+                "ro": "Observați apa sclipitoare în lumina soarelui de iarnă; atenție la frunzele umede din curbe, care la temperaturi scăzute pot îngheța și deveni alunecoase.",
+                "en": "Watch the glittering water in the low-angled afternoon sunlight; watch out for wet leaves in the corners as they can freeze and become slippery in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "The Bar",
+                "hu": "The Bar",
+                "ro": "The Bar",
+                "en": "The Bar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht auf das Ästuar ohne die Sommer-Segelboote; nehmen Sie Reflektoren an Ihrer Kleidung mit, da die Sicht im Winterlicht oft schlechter ist.",
+                "hu": "Élvezd a tágas kilátást a torkolatra a nyári vitorlások nélkül; használj fényvisszaverőket a ruhádon, mert a téli fényviszonyok között nehezebben látszanak a bringások.",
+                "ro": "Bucurați-vă de vederea vastă asupra estuarului fără bărcile de vară; purtați elemente reflectorizante, deoarece vizibilitatea este mai redusă în lumina de iarnă.",
+                "en": "Enjoy the wide view of the estuary without the summer sailboats; wear reflective gear as visibility can be poor in the fading afternoon winter light today."
+              }
+            },
+            {
+              "name": {
+                "de": "Penarvon Cove",
+                "hu": "Penarvon Cove",
+                "ro": "Penarvon Cove",
+                "en": "Penarvon Cove"
+              },
+              "tip_5lang": {
+                "de": "Hören Sie das ruhige Plätschern der Winterwellen am Ufer; treten Sie kräftig in die Pedale auf dem Rückweg, um Ihre Körpertemperatur wieder nach oben zu bringen.",
+                "hu": "Hallgasd a téli hullámok nyugodt csobogását a parton; tekerj intenzívebben a visszaúton, hogy a testhőmérsékletedet gyorsan visszaemeld a hideg pihenő után.",
+                "ro": "Ascultați clipocitul liniștit al valurilor de iarnă pe mal; pedalați mai viguros pe drumul de întoarcere pentru a vă ridica temperatura corpului după popas.",
+                "en": "Listen to the calm lapping of winter waves on the shore; pedal more vigorously on the way back to raise your core body temperature after your cold rest stop."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Vezessen egyenesen a pompás Trebah Manor Gardensbe, hogy a reggelt a lenyűgöző virágkompozíciók között töltse. Délben tartson egy gyors pihenőt a Maze View-nál, mielőtt Durgan festői falujába indulna. Töltsön el egy buja délutánt a Trebah Garden mély szubtrópusi völgyeiben bolyongva. Zárja az autós utazást a Kestle Barton történelmi és művészeti mélységeinek felfedezésével.",
         "ro": "Conduceți direct la grandioasa Trebah Manor Gardens pentru a vă petrece dimineața printre expoziții florale uimitoare. La prânz, faceți o scurtă oprire la Maze View înainte de a coborî spre satul Durgan. Petreceți o după-amiază luxuriantă rătăcind prin văile subtropicale din Trebah Garden. Încheiați excursia cu mașina explorând profunzimile istorice de la Kestle Barton.",
         "en": "Drive straight to the grand Trebah Manor Gardens to spend your morning amidst stunning floral displays. By midday, make a quick stop at Maze View before heading down to the quaint village vibe of Durgan. Spend a lush afternoon wandering the deep subtropical valleys of Trebah Garden. Wrap up your vehicular day trip exploring the historical and artistic depths of Kestle Barton."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt im Regen durch die kornische Landschaft bietet gemütliche Ausblicke. Starten Sie bei Trebah Manor Gardens, wo das Herrenhaus im Regen besonders stattlich wirkt. Von Maze View aus sehen Sie das grüne Labyrinth im Nebel. Durgan ist ein charmanter Ort für einen kurzen, nassen Spaziergang zum Strand. Nachmittags erkunden Sie Trebah Garden; die dichten Pflanzen bieten guten Schutz vor Schauern. Den Tag lassen Sie kulturell bei Kestle Barton ausklingen.",
+            "hu": "Az esős autózás a cornwalli tájon keresztül hangulatos kilátást nyújt. Kezdje a Trebah Manor Gardens-nél, ahol az udvarház az esőben is méltóságteljes. A Maze View-tól a ködbe vesző zöld labirintust láthatja. Durgan bájos hely egy rövid, esős sétához a partig. Délután a Trebah Garden sűrű növényzete között sétálhat, amely jól véd a záporoktól. A napot kulturális élménnyel zárja Kestle Bartonban.",
+            "ro": "Drumul prin peisajul corniș pe ploaie oferă priveliști confortabile din mașină. Începeți la Trebah Manor Gardens, unde conacul arată impunător în ploaie. De la Maze View puteți vedea labirintul verde pierdut în ceață. Durgan este un loc fermecător pentru o scurtă plimbare până la plajă. După-amiaza, grădina Trebah oferă protecție bună sub plantele mari. Încheiați ziua cultural la Kestle Barton.",
+            "en": "Driving through the Cornish landscape in the rain offers a cozy way to see the sights. Start at Trebah Manor Gardens, where the manor looks grand even in the grey. From Maze View, see the green labyrinth shrouded in mist. Durgan is a charming spot for a short, rain-soaked walk to the beach. Spend the afternoon in Trebah Garden; the dense plants offer good shelter from showers. End the day at Kestle Barton."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Trebah Manor Gardens",
+                "hu": "Trebah Manor Gardens",
+                "ro": "Trebah Manor Gardens",
+                "en": "Trebah Manor Gardens"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Herrenhauses vom geschützten Eingangsbereich aus; parken Sie nah am Tor, um den Weg durch den Regen zum Gebäude zu verkürzen.",
+                "hu": "Csodáld meg az udvarház építészetét a védett bejárati részről; parkolj minél közelebb a kapuhoz, hogy lerövidítsd az esőben megtett utat az épületig.",
+                "ro": "Admirați arhitectura conacului din zona protejată de la intrare; parcați aproape de poartă pentru a sccurta drumul prin ploaie până la clădirea principală.",
+                "en": "Admire the manor house architecture from the sheltered entrance area; park as close to the gate as possible to shorten your dash through the rain to the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Maze View",
+                "hu": "Maze View",
+                "ro": "Maze View",
+                "en": "Maze View"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das neblige Labyrinth direkt aus dem Auto; schalten Sie das Standlicht ein, damit Sie auf der schmalen, verregneten Straße besser sichtbar sind.",
+                "hu": "Élvezd a ködös labirintus látványát közvetlenül az autóból; kapcsold be a helyzetjelzőt, hogy a szűk, esős úton jobban látható maradj a szembejövő forgalomnak.",
+                "ro": "Bucurați-vă de vederea labirintului cețos direct din mașină; lăsați pozițiile aprinse pentru a fi mai vizibil pe drumul îngust și ploios pentru ceilalți șoferi.",
+                "en": "Enjoy the view of the misty labyrinth directly from the comfort of your car; keep your sidelights on to stay visible on the narrow, rainy road to other drivers."
+              }
+            },
+            {
+              "name": {
+                "de": "Durgan",
+                "hu": "Durgan",
+                "ro": "Durgan",
+                "en": "Durgan"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischerboote im Regen vom Ufer aus; nutzen Sie den Parkplatz oberhalb des Dorfes, da die unteren Straßen bei Nässe sehr eng und rutschig sind.",
+                "hu": "Figyeld meg az esőben pihenő halászhajókat a partról; használd a falu feletti parkolót, mert az alsó utcák vizesen nagyon szűkek és csúszósak lehetnek az autónak.",
+                "ro": "Priviți bărcile de pescuit în ploaie de pe malul apei; folosiți parcarea de deasupra satului, deoarece străzile de jos sunt foarte înguste și alunecoase când plouă.",
+                "en": "Watch the fishing boats resting in the rain from the shore; use the car park above the village as the lower streets are very narrow and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Trebah Garden",
+                "hu": "Trebah Garden",
+                "ro": "Trebah Garden",
+                "en": "Trebah Garden"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die riesigen Gunnera-Blätter, die wie natürliche Regenschirme wirken; nehmen Sie ein Handtuch im Auto mit, um sich nach dem Gartenbesuch abzutrocknen.",
+                "hu": "Sétálj az óriási Gunnera levelek között, amelyek természetes esernyőként védenek; tarts egy törölközőt az autóban, hogy megszárítkozhass a kerti látogatás után.",
+                "ro": "Plimbați-vă printre frunzele uriașe de Gunnera care servesc ca umbrele naturale; țineți un prosop în mașină pentru a vă usca după vizita în grădina luxuriantă.",
+                "en": "Walk among the giant Gunnera leaves which act as natural umbrellas; keep a spare towel in the car to dry off quickly after your visit to the rain-soaked garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Kestle Barton",
+                "hu": "Kestle Barton",
+                "ro": "Kestle Barton",
+                "en": "Kestle Barton"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie in der Galerie und genießen Sie die Ruhe vor dem Regen; achten Sie auf tiefe Pfützen auf der unbefestigten Zufahrt zum Parkplatz des Kulturzentrums.",
+                "hu": "Időzz el a belső galériában és élvezd a nyugalmat az eső elől menekülve; vigyázz a mély tócsákra a kulturális központ parkolójához vezető burkolatlan úton.",
+                "ro": "Petreceți timp în galeria interioară și bucurați-vă de liniște departe de ploaie; atenție la bălțile adânci de pe drumul neasfaltat spre parcarea centrului cultural.",
+                "en": "Linger in the indoor gallery and enjoy the quiet peace away from the rain; watch out for deep puddles on the unpaved access road to the cultural centre's car park."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour zum Helford River zeigt die Region von ihrer ruhigen Seite. Vormittags erstrahlen die Trebah Manor Gardens im klaren Licht. Vom Maze View haben Sie beste Sicht auf das geometrische Muster ohne das Laub der Sommerblumen. Durgan wirkt im Winter wie aus der Zeit gefallen. In Trebah Garden leuchten die Farne und Palmen auch im Winter grün. Da es um 17:00 Uhr dunkel wird, bietet Kestle Barton einen warmen, kulturellen Abschluss des Tages.",
+            "hu": "A téli autózás a Helford-folyóhoz a régió nyugodt arcát mutatja meg. Délelőtt a Trebah Manor Gardens ragyog a tiszta téli fényben. A Maze View-tól tökéletes kilátás nyílik a geometriai mintákra a nyári virágok nélkül. Durgan télen olyan, mintha megállt volna az idő. A Trebah Garden páfrányai és pálmái télen is zöldellnek. Mivel 17:00-kor sötétedik, Kestle Barton meleg galériája tökéletes zárása a napnak.",
+            "ro": "O plimbare de iarnă cu mașina spre râul Helford dezvăluie latura liniștită a regiunii. Dimineața, grădinile conacului Trebah strălucesc în lumina clară. De la Maze View aveți cea mai bună vedere asupra modelelor geometrice. Durgan pare încremenit în timp iarna. În grădina Trebah, ferigile și palmierii rămân verzi și iarna. Deoarece se întunecă la ora 17:00, Kestle Barton oferă un final cultural călduros.",
+            "en": "A winter drive to the Helford River shows the region's peaceful side. In the morning, Trebah Manor Gardens shine in the crisp winter light. From Maze View, you have the best view of the geometric patterns without the summer foliage. Durgan feels timeless in the winter silence. In Trebah Garden, ferns and palms stay green all year. As it gets dark by 5 PM, Kestle Barton provides a warm, cultural end to your day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Trebah Manor Gardens",
+                "hu": "Trebah Manor Gardens",
+                "ro": "Trebah Manor Gardens",
+                "en": "Trebah Manor Gardens"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die winterliche Gartenstruktur durch das Autofenster, bevor Sie aussteigen; wärmen Sie den Wagen vor, um die Fahrt zwischen den Stopps zu genießen.",
+                "hu": "Csodáld meg a téli kert szerkezetét az autó ablakából, mielőtt kiszállnál; melegítsd be az utasteret, hogy kellemes legyen az út az egyes megállók között.",
+                "ro": "Priviți structura grădinii de iarnă prin geamul mașinii înainte de a coborî; preîncălziți mașina pentru a vă bucura de drumul scurt dintre opriri la căldură.",
+                "en": "View the wintry garden structure through the car window before stepping out; pre-heat your car to ensure a comfortable journey between the different garden stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Maze View",
+                "hu": "Maze View",
+                "ro": "Maze View",
+                "en": "Maze View"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den klaren Winterhimmel für weite Fernsichten über das Labyrinth; achten Sie auf Reif auf der Fahrbahn in den schattigen Kurven der Zufahrtsstraße.",
+                "hu": "Használd ki a tiszta téli égboltot a távoli kilátáshoz a labirintus felett; vigyázz a kanyarokban az úttestre fagyott dérre az út árnyékosabb, északi részein.",
+                "ro": "Profitați de cerul senin de iarnă pentru vederi panoramice peste labirint; atenție la bruma de pe carosabil în curbele umbrite ale drumului de acces spre belvedere.",
+                "en": "Make the most of the clear winter sky for far-reaching views over the labyrinth; watch out for frost on the road surface in the shaded bends of the access lane."
+              }
+            },
+            {
+              "name": {
+                "de": "Durgan",
+                "hu": "Durgan",
+                "ro": "Durgan",
+                "en": "Durgan"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie kurz zum Strand, um die frische Meeresluft zu atmen; nutzen Sie den Motor, um Ihre Hände nach dem Fotostopp am kalten Ufer wieder aufzuwärmen.",
+                "hu": "Sétálj le a partra, hogy belélegezd a friss tengeri levegőt a téli csendben; használd az autó fűtését, hogy felmelegítsd a kezed a parti fotózás után.",
+                "ro": "Plimbați-vă scurt până la plajă pentru a respira aerul proaspăt de mare; folosiți căldura mașinii pentru a vă încălzi mâinile după sesiunea de fotografii de pe mal.",
+                "en": "Take a short walk to the beach to breathe in the fresh sea air; use the car's heater to warm up your hands quickly after your photo stop at the cold shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Trebah Garden",
+                "hu": "Trebah Garden",
+                "ro": "Trebah Garden",
+                "en": "Trebah Garden"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Garten am frühen Nachmittag, um die letzten Sonnenstrahlen im Tal zu fangen; achten Sie auf die Parkplatzzeiten, da diese im Winter kürzer sind.",
+                "hu": "Látogasd meg a kertet kora délután, hogy elcsípd az utolsó napsugarakat a völgyben; ügyelj a parkoló nyitvatartási idejére, mert télen korábban zárhatnak.",
+                "ro": "Vizitați grădina după-amiaza devreme pentru a prinde ultimele raze de soare în vale; verificați programul parcării, deoarece poate fi mai scurt în sezonul de iarnă.",
+                "en": "Visit the garden in the early afternoon to catch the last rays of sun in the valley; check the car park closing times as they are often earlier during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kestle Barton",
+                "hu": "Kestle Barton",
+                "ro": "Kestle Barton",
+                "en": "Kestle Barton"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre des restaurierten Bauernhofs im Abendlicht; schalten Sie das Abblendlicht ein, da es auf den bewaldeten Wegen früh dämmert.",
+                "hu": "Élvezd a felújított udvarház hangulatos fényeit az alkonyatban; kapcsold be a tompított fényszórót, mert az erdős szakaszokon korábban sötétedik az utakon.",
+                "ro": "Bucurați-vă de atmosfera primitoare a fermei restaurate în lumina serii; aprindeți faza scurtă, deoarece pe drumurile împădurite amurgul se lasă mult mai devreme.",
+                "en": "Enjoy the cozy atmosphere of the restored farmstead in the evening light; turn on your dipped headlights early as the wooded lanes darken quickly before sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "A reggel a hangulatos Spiaggettán indul, ahol azonnal megérint a lágy mediterrán szellő. Délben egy északi séta a buja természeten át a Grotta di Capelvenere felé vezet. A délután a Torre dell'Alto lenyűgöző kilátásával és a Porto Selvaggio tiszta vizeivel jutalmaz. Az este a Grotta Gaia közelében köszönt ránk, csendes naplementét kínálva.",
         "ro": "Dimineața începe la fermecătoarea Spiaggetta, simțind briza blândă și caldă a Mediteranei. Până la prânz, o plimbare spre nord vă poartă prin natura luxuriantă până la Grotta di Capelvenere. După-amiaza vă răsplătește cu priveliștile emblematice de la Torre dell'Alto spre apă. Seara se lasă peste Grotta Gaia, oferind un apus de soare liniștit pe mal.",
         "en": "Morning begins at the charming Spiaggetta, feeling the gentle Mediterranean breeze. By midday, a stroll north takes you through lush nature to Grotta di Capelvenere. The afternoon rewards you with the iconic Torre dell'Alto views and pristine Porto Selvaggio waters. Evening falls over Grotta Gaia, offering a tranquil sunset by the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit dramatischen Wolken über der Küste. Mittags bieten die Felsvorsprünge und Höhlen natürlichen Schutz vor dem Regen. Am Nachmittag duftet der Pinienwald von Porto Selvaggio besonders intensiv nach frischem Harz. Der Abend endet ruhig, während sich die Lichter im nassen Asphalt der Uferpromenade spiegeln.",
+            "hu": "A reggel drámai felhőkkel indul a tengerpart felett. Délben a sziklák és barlangok nyújtanak természetes menedéket az eső elől. Délután a Porto Selvaggio fenyőerdeje intenzív, friss gyantaillattal telik meg az esőben. Az este csendesen zárul, ahogy a város fényei megcsillannak a parti sétány nedves aszfaltján.",
+            "ro": "Dimineața începe cu nori dramatici deasupra coastei. La prânz, stâncile și peșterile oferă adăpost natural împotriva ploii. După-amiaza, pădurea de pini din Porto Selvaggio miroase intens a rășină proaspătă. Seara se încheie liniștit, în timp ce luminile se oglindesc în asfaltul umed al falezii.",
+            "en": "The morning starts with dramatic clouds over the coastline. At noon, the rocky overhangs and caves offer natural shelter from the rain. In the afternoon, the pine forest of Porto Selvaggio smells intensely of fresh resin. The evening ends quietly as city lights reflect on the wet asphalt of the promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggetta Santa Caterina",
+                "hu": "Spiaggetta Santa Caterina",
+                "ro": "Spiaggetta Santa Caterina",
+                "en": "Spiaggetta Santa Caterina"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Brandung unter einem Regenschirm; achten Sie auf die rutschigen Steine am Einstieg und tragen Sie festes, wasserdichtes Schuhwerk für den Küstenpfad.",
+                "hu": "Élvezze a hullámverést egy esernyő alól; ügyeljen a csúszós kövekre a parton, és viseljen vízálló túracipőt a parti ösvényen való biztonságos haladáshoz.",
+                "ro": "Bucurați-vă de valuri sub o umbrelă; atenție la pietrele alunecoase de pe țărm și purtați încălțăminte impermeabilă pentru a parcurge în siguranță poteca de coastă.",
+                "en": "Enjoy the surf from under an umbrella; watch out for slippery rocks on the shore and wear waterproof hiking boots to safely navigate the coastal path."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Caterina Beach",
+                "hu": "Santa Caterina Beach",
+                "ro": "Santa Caterina Beach",
+                "en": "Santa Caterina Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen mystisch; suchen Sie kurzzeitig Schutz in den nahen Arkaden und beobachten Sie das Farbspiel des Meeres unter dem grauen Himmel.",
+                "hu": "A strand esőben misztikus látványt nyújt; keressen rövid menedéket a közeli árkádok alatt, és figyelje a tenger színjátékát a szürke égbolt alatt.",
+                "ro": "Plaja arată mistic în ploaie; căutați adăpost temporar sub arcadele din apropiere și observați jocul culorilor mării sub cerul gri.",
+                "en": "The beach looks mystical in the rain; seek temporary shelter under the nearby arcades and watch the play of colors in the sea under the grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta di Capelvenere",
+                "hu": "Grotta di Capelvenere",
+                "ro": "Grotta di Capelvenere",
+                "en": "Grotta di Capelvenere"
+              },
+              "tip_5lang": {
+                "de": "Diese Höhle ist der perfekte natürliche Regenschutz; bewundern Sie die archäologische Stätte im Trockenen, aber Vorsicht vor Tropfwasser von der Decke.",
+                "hu": "Ez a barlang tökéletes természetes esővédő; csodálja meg a régészeti lelőhelyet szárazon, de vigyázzon a mennyezetről lecsöpögő vízre.",
+                "ro": "Această peșteră este adăpostul natural perfect; admirați situl arheologic la adăpost, dar aveți grijă la apa care picură din tavan.",
+                "en": "This cave is the perfect natural rain shelter; admire the archaeological site while staying dry, but watch out for water dripping from the ceiling."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre dell'Alto",
+                "hu": "Torre dell'Alto",
+                "ro": "Torre dell'Alto",
+                "en": "Torre dell'Alto"
+              },
+              "tip_5lang": {
+                "de": "Der Turm bietet an der windabgewandten Seite Schutz; nutzen Sie die kurzen Regenpausen für Fotos der rauen See von der Klippe aus.",
+                "hu": "A torony szélvédett oldala menedéket nyújt; használja ki a rövid esőszüneteket a viharos tenger fotózására a sziklaszirtről.",
+                "ro": "Partea ferită de vânt a turnului oferă adăpost; profitați de scurte pauze de ploaie pentru a fotografia marea agitată de pe faleză.",
+                "en": "The lee side of the tower provides shelter; take advantage of short breaks in the rain to photograph the rough sea from the cliff edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Porto Selvaggio",
+                "hu": "Spiaggia di Porto Selvaggio",
+                "ro": "Spiaggia di Porto Selvaggio",
+                "en": "Spiaggia di Porto Selvaggio"
+              },
+              "tip_5lang": {
+                "de": "Die Pinien dämpfen den Regen; genießen Sie die Einsamkeit der Bucht, aber meiden Sie die glatten Felsen direkt am Wasser.",
+                "hu": "A fenyőfák felfogják az eső egy részét; élvezze az öböl magányát, de kerülje a közvetlenül a vízparton lévő rendkívül csúszós sziklákat.",
+                "ro": "Pinii atenuează ploaia; bucurați-vă de singurătatea golfului, dar evitați stâncile extrem de alunecoase de lângă apă.",
+                "en": "The pine trees dampen the rain; enjoy the solitude of the bay, but avoid the extremely slippery rocks directly by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta Gaia",
+                "hu": "Grotta Gaia",
+                "ro": "Grotta Gaia",
+                "en": "Grotta Gaia"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Ende der Wanderung im Trockenen abzuwarten; die Akustik des Regens in der Höhle ist ein besonderes Erlebnis.",
+                "hu": "Ideális hely a túra befejezésére esőben; a barlangban visszhangzó eső kopogása különleges akusztikai élményt nyújt látogatóinak.",
+                "ro": "Un loc ideal pentru a aștepta sfârșitul drumeției la adăpost; acustica ploii în interiorul peșterii este o experiență deosebită.",
+                "en": "An ideal place to wait out the end of your hike in the dry; the acoustics of the rain inside the cave is a unique experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen mit frischer Meeresbrise empfängt Sie. Mittags wärmt die tiefstehende Sonne die Felswände der Küste angenehm auf. Am Nachmittag taucht das goldene Licht kurz vor dem frühen Sonnenuntergang gegen 17:00 Uhr alles in warme Farben. Der Abend wird schnell kühl, ideal für einen Rückzug in die beleuchtete Stadt.",
+            "hu": "Friss tengeri szellővel indul a tiszta téli reggel. Délben az alacsonyan járó nap kellemesen melengeti a part menti sziklafalakat. Délután az aranyfények meleg színekbe öltöztetik a tájat a korai, 17:00 körüli naplemente előtt. Az este gyorsan lehűl, így érdemes korán visszatérni a városba.",
+            "ro": "O dimineață senină de iarnă vă întâmpină cu o briză proaspătă. La prânz, soarele blând încălzește plăcut pereții de stâncă ai coastei. După-amiaza, lumina aurie colorează totul în nuanțe calde înainte de apusul devreme de la ora 17:00. Seara devine rapid răcoroasă, ideală pentru retragerea în oraș.",
+            "en": "A clear winter morning with a fresh sea breeze welcomes you. At noon, the low sun pleasantly warms the coastal rock faces. In the afternoon, golden light bathes the landscape in warm colors before the early sunset around 5 PM. The evening cools down quickly, making it time to head back to the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggetta Santa Caterina",
+                "hu": "Spiaggetta Santa Caterina",
+                "ro": "Spiaggetta Santa Caterina",
+                "en": "Spiaggetta Santa Caterina"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne Sommertouristen; tragen Sie windfeste Kleidung, da die Meeresbrise im Winter deutlich kühler weht als im August.",
+                "hu": "Élvezze a nyári turisták nélküli csendet; viseljen szélálló ruházatot, mivel a téli tengeri szellő sokkal hűvösebb, mint augusztusban.",
+                "ro": "Bucurați-vă de liniște fără turiștii de vară; purtați haine rezistente la vânt, deoarece briza mării este mult mai rece iarna decât în august.",
+                "en": "Enjoy the peace without summer tourists; wear windproof clothing, as the sea breeze is significantly cooler in winter than in August."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Caterina Beach",
+                "hu": "Santa Caterina Beach",
+                "ro": "Santa Caterina Beach",
+                "en": "Santa Caterina Beach"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen meditativen Spaziergang im Sand; die Wintersonne ist perfekt für Fotos ohne harte Schatten, nehmen Sie eine Thermoskanne mit.",
+                "hu": "Ideális egy meditatív sétához a homokban; a téli napfény tökéletes a lágy árnyékú fotókhoz, vigyen magával egy termosz forró teát.",
+                "ro": "Ideal pentru o plimbare meditativă pe nisip; soarele de iarnă este perfect pentru fotografii fără umbre dure, luați un termos cu ceai cald.",
+                "en": "Ideal for a meditative walk on the sand; the winter sun is perfect for photos without harsh shadows, bring a thermos of hot tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta di Capelvenere",
+                "hu": "Grotta di Capelvenere",
+                "ro": "Grotta di Capelvenere",
+                "en": "Grotta di Capelvenere"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet Schutz vor dem kalten Nordwind; erkunden Sie die Geschichte in aller Ruhe, ohne die Hitze der Sommermonate.",
+                "hu": "A barlang védelmet nyújt a hideg északi szél elől; fedezze fel a történelmi helyszínt teljes nyugalomban, a nyári hőség nélkül.",
+                "ro": "Peștera oferă protecție împotriva vântului rece de nord; explorați situl istoric în liniște totală, fără căldura sufocantă a verii.",
+                "en": "The cave provides protection from the cold north wind; explore the historical site in total peace, without the heat of the summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre dell'Alto",
+                "hu": "Torre dell'Alto",
+                "ro": "Torre dell'Alto",
+                "en": "Torre dell'Alto"
+              },
+              "tip_5lang": {
+                "de": "Bester Ort für den Sonnenuntergang um 17:00 Uhr; ziehen Sie eine extra Schicht an, da es oben auf der Klippe sehr zugig sein kann.",
+                "hu": "A legjobb hely a 17:00 órai naplemente megtekintéséhez; vegyen fel egy extra réteg ruhát, mert a szikla tetején nagyon szeles lehet az idő.",
+                "ro": "Cel mai bun loc pentru a vedea apusul de la ora 17:00; purtați un strat suplimentar de haine, deoarece poate fi foarte vântos pe faleză.",
+                "en": "The best spot for the 5 PM sunset; wear an extra layer of clothing, as it can be very windy on top of the cliff."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Porto Selvaggio",
+                "hu": "Spiaggia di Porto Selvaggio",
+                "ro": "Spiaggia di Porto Selvaggio",
+                "en": "Spiaggia di Porto Selvaggio"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt im Winter völlig unberührt; nutzen Sie das klare Licht für Landschaftsaufnahmen, aber planen Sie den Rückweg vor Einbruch der Dunkelheit.",
+                "hu": "Az öböl télen teljesen érintetlennek tűnik; használja ki a tiszta fényeket tájképekhez, de tervezze meg a visszautat még sötétedés előtt.",
+                "ro": "Golful pare complet neatins iarna; profitați de lumina clară pentru fotografii de peisaj, dar planificați drumul de întoarcere înainte de lăsarea întunericului.",
+                "en": "The bay appears completely untouched in winter; use the clear light for landscape photography, but plan your return before dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta Gaia",
+                "hu": "Grotta Gaia",
+                "ro": "Grotta Gaia",
+                "en": "Grotta Gaia"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort kurz vor Ende der Tour; die Felsen speichern die Mittagswärme ein wenig, was den Aufenthalt hier angenehm macht.",
+                "hu": "Csendes pihenőhely a túra vége előtt; a sziklák némileg megőrzik a déli napsütés melegét, kellemessé téve az itt tartózkodást.",
+                "ro": "Un refugiu liniștit înainte de finalul turului; stâncile păstrează puțin din căldura soarelui de prânz, făcând șederea aici plăcută.",
+                "en": "A quiet retreat before the end of the tour; the rocks retain some of the noon warmth, making your stay here pleasant."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Induljon a Santa Caterina strandról, élvezve a déli irányba tartó, tengerparti kerékpárutat. Délben a történelmi Punta dell'Aspide mellett halad el a nyüzsgő Santa Maria al Bagno felé. Ebéd után a Museo Acquario del Salento tengerbiológiai kincseit fedezheti fel. A tekerés a Quattro Colonne ősi tornyainak lenyűgöző látványával zárul a nap végén.",
         "ro": "Porniți de la Plaja Santa Caterina, bucurându-vă de pista de biciclete de coastă spre sud. La prânz veți trece de istorica Punta dell'Aspide spre nisipurile vii din Santa Maria al Bagno. După prânz, aprofundați biologia marină la faimosul Museo Acquario del Salento. Plimbarea se încheie frumos lângă turnurile antice de la Quattro Colonne.",
         "en": "Set off from Santa Caterina Beach, enjoying the coastal cycling path towards the south. Midday brings you past the historic Punta dell'Aspide to the lively sands of Santa Maria al Bagno. After lunch, delve into marine biology at the renowned Museo Acquario del Salento. The ride concludes gracefully by the ancient towers of Quattro Colonne."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt entlang der Küste bei leichtem Nieselregen. Mittags bietet das Aquarium in Santa Maria al Bagno eine ideale trockene Pause. Am Nachmittag radeln Sie auf glänzenden Straßen durch die Pinienhaine. Der Abend klingt bei der Aussicht auf die Quattro Colonne im Nebel stimmungsvoll aus.",
+            "hu": "Frissítő tekerés a part mentén könnyű szemerkélő esőben. Délben a Santa Maria al Bagno-i akvárium tökéletes száraz pihenőt kínál. Délután a csillogó utakon biciklizhetünk át a fenyőligeteken. Az este hangulatosan zárul a ködbe burkolózó Quattro Colonne látványával.",
+            "ro": "O plimbare revigorantă pe coastă în ploaie ușoară. La prânz, acvariul din Santa Maria al Bagno oferă o pauză ideală la uscat. După-amiaza, pedalați pe drumuri strălucitoare prin pinii de coastă. Seara se încheie atmosferic cu vederea spre Quattro Colonne în ceață.",
+            "en": "A refreshing ride along the coast in light drizzle. At noon, the aquarium in Santa Maria al Bagno offers an ideal dry break. In the afternoon, cycle on glistening roads through the pine groves. The evening concludes atmospherically with the view of the Quattro Colonne in the mist."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Caterina Beach",
+                "hu": "Santa Caterina Beach",
+                "ro": "Santa Caterina Beach",
+                "en": "Santa Caterina Beach"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit voller Regenmontur; achten Sie auf den sandigen Untergrund, der bei Nässe rutschig sein kann, und prüfen Sie Ihre Bremsen.",
+                "hu": "Induljon teljes esőfelszerelésben; ügyeljen a homokos talajra, amely nedvesen csúszós lehet, és ellenőrizze a fékeket az indulás előtt.",
+                "ro": "Porniți echipat complet de ploaie; atenție la suprafețele nisipoase care pot fi alunecoase când sunt ude și verificați frânele.",
+                "en": "Start with full rain gear; watch out for sandy surfaces that can be slippery when wet, and check your brakes before setting off."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Beija-Flor",
+                "hu": "Lido Beija-Flor",
+                "ro": "Lido Beija-Flor",
+                "en": "Lido Beija-Flor"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Überdachungen; genießen Sie den Blick auf die Wellen bei einem warmen Getränk, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Keressen menedéket a tetők alatt; élvezze a hullámok látványát egy meleg ital mellett, mielőtt továbbfolytatná a kerékpározást.",
+                "ro": "Căutați adăpost sub acoperișuri; bucurați-vă de vederea valurilor cu o băutură caldă înainte de a continua drumul.",
+                "en": "Seek shelter under the coverings; enjoy the view of the waves with a warm drink before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta dell'Aspide",
+                "hu": "Punta dell'Aspide",
+                "ro": "Punta dell'Aspide",
+                "en": "Punta dell'Aspide"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Pfade sind bei Regen anspruchsvoll; fahren Sie vorsichtig über Kalksteinfelsen und nutzen Sie Schutzbleche gegen Spritzwasser.",
+                "hu": "A történelmi ösvények esőben kihívást jelentenek; óvatosan hajtson a mészkősziklákon, és használjon sárvédőt a felcsapódó víz ellen.",
+                "ro": "Potecile istorice sunt provocatoare în ploaie; pedalați cu atenție pe stâncile de calcar și folosiți apărători de noroi.",
+                "en": "The historical paths are challenging in the rain; ride carefully over limestone rocks and use mudguards against splashing water."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Santa Maria al Bagno",
+                "hu": "Spiaggia di Santa Maria al Bagno",
+                "ro": "Spiaggia di Santa Maria al Bagno",
+                "en": "Spiaggia di Santa Maria al Bagno"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Ort; die gepflasterte Piazza kann bei Nässe extrem glatt sein, gehen Sie hier lieber zu Fuß.",
+                "hu": "Parkolja le a bringát fedett helyen; a kövezett tér nedvesen rendkívül csúszós lehet, itt érdemesebb leszállni és tolni a kerékpárt.",
+                "ro": "Parcați bicicleta într-un loc acoperit; piața pavată poate fi extrem de alunecoasă când este udă, mai bine mergeți pe lângă ea.",
+                "en": "Park your bike in a covered spot; the paved piazza can be extremely slippery when wet, it’s better to walk your bike here."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Acquario del Salento",
+                "hu": "Museo Acquario del Salento",
+                "ro": "Museo Acquario del Salento",
+                "en": "Museo Acquario del Salento"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine längere Pause im Trockenen; bewundern Sie die Meeresfauna, während draußen der Regen die Küste wäscht.",
+                "hu": "Tökéletes hely egy hosszabb száraz pihenőre; csodálja meg a tengeri élővilágot, miközben kint az eső mossa a partvidéket.",
+                "ro": "Locul perfect pentru o pauză lungă la uscat; admirați fauna marină în timp ce afară ploaia spală coasta.",
+                "en": "The perfect spot for a long break in the dry; admire the marine fauna while the rain washes the coast outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Quattro Colonne",
+                "hu": "Quattro Colonne",
+                "ro": "Quattro Colonne",
+                "en": "Quattro Colonne"
+              },
+              "tip_5lang": {
+                "de": "Die beleuchteten Säulen wirken im Regen besonders imposant; halten Sie kurz für ein Foto, aber achten Sie auf Pfützen auf der Fahrbahn.",
+                "hu": "A kivilágított oszlopok esőben különösen impozánsak; álljon meg egy fotóra, de ügyeljen az úttesten kialakuló mélyebb tócsákra.",
+                "ro": "Coloanele iluminate arată impresionant în ploaie; opriți-vă pentru o fotografie, dar fiți atenți la bălțile de pe carosabil.",
+                "en": "The illuminated columns look particularly imposing in the rain; stop for a photo, but watch out for deep puddles on the roadway."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft belebt bei der Fahrt entlang der menschenleeren Promenade. Mittags bietet die Wintersonne auf den südseitigen Pfaden eine angenehme Wärme. Am Nachmittag radeln Sie im goldenen Licht des frühen Abends Richtung Santa Maria. Nach 17:00 Uhr sinken die Temperaturen spürbar, ein warmes Ziel ist dann wichtig.",
+            "hu": "A hűvös reggeli levegő felfrissít a néptelen sétányon való tekerés közben. Délben a déli fekvésű ösvényeken a téli nap kellemes meleget ad. Délután az aranyfényben úszó tengerparton haladhatunk Santa Maria felé. 17:00 után a hőmérséklet gyorsan süllyed, érdemes fűtött helyet keresni.",
+            "ro": "Aerul răcoros de dimineață vă înviorează pe faleza pustie. La prânz, soarele de iarnă oferă o căldură plăcută pe potecile expuse la sud. După-amiaza, pedalați spre Santa Maria în lumina aurie. După ora 17:00, temperaturile scad simțitor, deci căutați o destinație caldă.",
+            "en": "The cool morning air invigorates you as you ride along the deserted promenade. At noon, the winter sun provides pleasant warmth on the south-facing paths. In the afternoon, cycle towards Santa Maria in the golden light. After 5 PM, temperatures drop noticeably, so head for a warm destination."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Caterina Beach",
+                "hu": "Santa Caterina Beach",
+                "ro": "Santa Caterina Beach",
+                "en": "Santa Caterina Beach"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe gegen den Fahrtwind; die leere Küstenstraße ist ein Traum für Radfahrer, genießen Sie die uneingeschränkte Sicht.",
+                "hu": "Viseljen meleg kesztyűt a menetszél ellen; az üres parti út a kerékpárosok álma ilyenkor, élvezze a zavartalan kilátást.",
+                "ro": "Purtați mănuși calde împotriva vântului; drumul de coastă gol este visul oricărui biciclist, bucurați-vă de vizibilitatea maximă.",
+                "en": "Wear warm gloves against the wind; the empty coastal road is a cyclist's dream in winter, enjoy the unobstructed views."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Beija-Flor",
+                "hu": "Lido Beija-Flor",
+                "ro": "Lido Beija-Flor",
+                "en": "Lido Beija-Flor"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Sonne wärmt auf; die Terrasse ist im Winter ein ruhiger Ort, um den Blick über das tiefblaue Meer schweifen zu lassen.",
+                "hu": "Egy rövid megálló a napon segít felmelegedni; a terasz télen nyugodt hely, ahonnan megcsodálhatja a mélykék téli tengert.",
+                "ro": "O scurtă oprire la soare vă va încălzi; terasa este un loc liniștit iarna pentru a admira marea de un albastru intens.",
+                "en": "A short stop in the sun will warm you up; the terrace is a quiet spot in winter to gaze over the deep blue sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta dell'Aspide",
+                "hu": "Punta dell'Aspide",
+                "ro": "Punta dell'Aspide",
+                "en": "Punta dell'Aspide"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Pfade sind trocken und gut befahrbar; nutzen Sie das klare Winterlicht für weite Ausblicke über den Golf von Gallipoli.",
+                "hu": "A történelmi ösvények szárazak és jól járhatóak; használja ki a tiszta téli fényt a Gallipoli-öbölre nyíló távoli kilátáshoz.",
+                "ro": "Potecile istorice sunt uscate și ușor de parcurs; profitați de lumina clară pentru vederi panoramice asupra golfului Gallipoli.",
+                "en": "The historical paths are dry and easy to ride; use the clear winter light for expansive views across the Gulf of Gallipoli."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Santa Maria al Bagno",
+                "hu": "Spiaggia di Santa Maria al Bagno",
+                "ro": "Spiaggia di Santa Maria al Bagno",
+                "en": "Spiaggia di Santa Maria al Bagno"
+              },
+              "tip_5lang": {
+                "de": "Die Piazza ist ideal für eine Pause in der Mittagssonne; die Cafés sind weniger überlaufen, perfekt für einen schnellen Espresso zum Aufwärmen.",
+                "hu": "A tér ideális a déli napsütésben való pihenésre; a kávézók kevésbé zsúfoltak, tökéletes egy gyors eszpresszóra a felmelegedéshez.",
+                "ro": "Piața este ideală pentru o pauză la soarele de prânz; cafenelele sunt mai libere, perfect pentru un espresso rapid.",
+                "en": "The piazza is ideal for a break in the midday sun; cafes are less crowded, perfect for a quick espresso to warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Acquario del Salento",
+                "hu": "Museo Acquario del Salento",
+                "ro": "Museo Acquario del Salento",
+                "en": "Museo Acquario del Salento"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; im Inneren herrschen angenehme Temperaturen, ideal um der kühlen Meeresbrise kurz zu entfliehen.",
+                "hu": "Használja a múzeumlátogatást melegedőként; a belső terekben kellemes a hőmérséklet, ideális a hűvös tengeri szél elleni pihenőhöz.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire; temperaturile interioare sunt plăcute, ideale pentru a scăpa de briza rece.",
+                "en": "Use the museum visit as a warming break; the indoor temperatures are pleasant, ideal for escaping the cool sea breeze briefly."
+              }
+            },
+            {
+              "name": {
+                "de": "Quattro Colonne",
+                "hu": "Quattro Colonne",
+                "ro": "Quattro Colonne",
+                "en": "Quattro Colonne"
+              },
+              "tip_5lang": {
+                "de": "Pünktlich zum Sonnenuntergang um 17:00 Uhr ankommen; das Licht zwischen den Säulen ist magisch, danach zügig zurück zum Startpunkt radeln.",
+                "hu": "Érkezzen pontosan a 17:00 órai naplementére; az oszlopok közötti fények varázslatosak, utána tekerjen vissza tempósan a kiindulópontra.",
+                "ro": "Ajungeți fix la apusul de la ora 17:00; lumina printre coloane este magică, apoi pedalați rapid înapoi spre punctul de start.",
+                "en": "Arrive exactly for the 5 PM sunset; the light between the columns is magical, then cycle briskly back to your starting point."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje autós túráját a történelmi Cava Chianconinál, felfedezve az ősi kőfejtő gyökereit. A dél már a csodálatos partvidéken éri, a Torre dell'Alto és a Porto Selvaggio közelében. A délután pihentető tengerparti szünetet kínál egyenesen Santa Caterina szívében. Zárja le az epikus utazást, miközben a nap ragyogóan lenyugszik a Quattro Colonne mögött.",
         "ro": "Începeți turul cu mașina la istorica Cava Chianconi, descoperind rădăcinile vechii cariere. La prânz ajungeți la magnifica rezervație de coastă, cu Torre dell'Alto și Porto Selvaggio. După-amiaza oferă o pauză relaxantă la plajă, chiar în inima stațiunii Santa Caterina. Încheiați călătoria epică în timp ce soarele apune uimitor în spatele Quattro Colonne.",
         "en": "Start your driving tour at the historic Cava Chianconi, uncovering the ancient quarry roots. Midday transitions to the magnificent coastal reserve, featuring Torre dell'Alto and Porto Selvaggio. The afternoon offers a relaxing beach break right in the heart of Santa Caterina. Conclude your epic drive as the sun sets brilliantly behind Quattro Colonne."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Küstenlandschaft trocken aus dem Auto heraus. Mittags bieten die Parkplätze nahe der Sehenswürdigkeiten kurze Wege zum Schutz. Am Nachmittag erleben Sie die raue See von den Aussichtspunkten aus, während der Regen gegen die Scheiben trommelt. Der Abend endet gemütlich bei einer Fahrt durch die beleuchteten, regennassen Gassen.",
+            "hu": "Élvezze a tengerparti tájat szárazon az autóból. Délben a látnivalókhoz közeli parkolók rövid utat kínálnak a menedékig. Délután a kilátópontokról csodálhatja a viharos tengert, miközben az eső az autó szélvédőjén kopog. Az este hangulatos autózással zárul a kivilágított, esőáztatta utcákon.",
+            "ro": "Bucurați-vă de peisajul de coastă la adăpost în mașină. La prânz, parcările din apropierea obiectivelor oferă distanțe scurte până la adăpost. După-amiaza, admirați marea agitată din punctele de belvedere în timp ce plouă. Seara se încheie cu o plimbare prin străzile iluminate și ude.",
+            "en": "Enjoy the coastal scenery from the dry comfort of your car. At noon, parking spots near the attractions offer short distances to shelter. In the afternoon, experience the rough sea from viewpoints while rain drums on the windshield. The evening ends cozily with a drive through the illuminated, rain-slicked streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cava Chianconi",
+                "hu": "Cava Chianconi",
+                "ro": "Cava Chianconi",
+                "en": "Cava Chianconi"
+              },
+              "tip_5lang": {
+                "de": "Der Steinbruch wirkt bei Regen düster und beeindruckend; bleiben Sie für Fotos im Auto oder nutzen Sie einen stabilen Regenschirm.",
+                "hu": "A kőfejtő esőben sötét és lenyűgöző látványt nyújt; maradjon az autóban a fotózáshoz, vagy használjon erős, szélálló esernyőt.",
+                "ro": "Cariera arată sumbru și impresionant în ploaie; rămâneți în mașină pentru fotografii sau folosiți o umbrelă rezistentă.",
+                "en": "The quarry looks somber and impressive in the rain; stay in the car for photos or use a sturdy, wind-resistant umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Carcara",
+                "hu": "Carcara",
+                "ro": "Carcara",
+                "en": "Carcara"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die historischen Kalköfen kurz zwischen den Regenschauern; achten Sie auf unbefestigte Wege, die bei Nässe matschig sein können.",
+                "hu": "Tekintse meg a történelmi mészégetőket a záporok közötti rövid szünetekben; ügyeljen a burkolatlan utakra, amelyek sárgossá válhatnak.",
+                "ro": "Vizitați cuptoarele de var istorice în pauzele dintre averse; atenție la drumurile neasfaltate care pot deveni noroioase.",
+                "en": "Visit the historical lime kilns briefly between rain showers; watch out for unpaved paths that can become muddy when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Porto Selvaggio",
+                "hu": "Spiaggia di Porto Selvaggio",
+                "ro": "Spiaggia di Porto Selvaggio",
+                "en": "Spiaggia di Porto Selvaggio"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus ist es ein kleiner Fußmarsch im Regen; wasserfeste Kleidung ist Pflicht, um den Blick auf die wilde Bucht zu genießen.",
+                "hu": "A parkolótól rövid séta vezet az esőben; a vízálló ruházat kötelező, ha látni szeretné a viharos öböl lenyűgöző látványát.",
+                "ro": "De la parcare este o scurtă plimbare prin ploaie; hainele impermeabile sunt obligatorii pentru a te bucura de vederea golfului sălbatic.",
+                "en": "It's a short walk in the rain from the parking lot; waterproof clothing is mandatory to enjoy the view of the wild bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre dell'Alto",
+                "hu": "Torre dell'Alto",
+                "ro": "Torre dell'Alto",
+                "en": "Torre dell'Alto"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie so nah wie möglich heran; die Aussicht auf die Küste im Regen ist vom Auto aus spektakulär, achten Sie auf Windböen an der Klippe.",
+                "hu": "Hajtson amilyen közel csak lehet; a tengerparti kilátás esőben is látványos az autóból, de ügyeljen a sziklaszirten fújó erős szélre.",
+                "ro": "Conduceți cât mai aproape posibil; vederea coastei în ploaie este spectaculoasă din mașină, atenție la rafalele de vânt de pe faleză.",
+                "en": "Drive as close as possible; the coastal view in the rain is spectacular from the car, but watch out for wind gusts on the cliff."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Caterina Beach",
+                "hu": "Santa Caterina Beach",
+                "ro": "Santa Caterina Beach",
+                "en": "Santa Caterina Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze an der Uferstraße für einen Blick aufs Meer ohne nass zu werden; perfekt für eine kurze Pause im Warmen.",
+                "hu": "Használja a parti út parkolóit, hogy anélkül lássa a tengert, hogy megázna; tökéletes hely egy rövid pihenőre a fűtött autóban.",
+                "ro": "Folosiți parcările de pe drumul de coastă pentru a vedea marea fără a vă uda; perfect pentru o scurtă pauză la căldură.",
+                "en": "Use the parking spots along the coastal road to see the sea without getting wet; perfect for a short break in the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Quattro Colonne",
+                "hu": "Quattro Colonne",
+                "ro": "Quattro Colonne",
+                "en": "Quattro Colonne"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt die Beleuchtung der Säulen; parken Sie direkt gegenüber für das perfekte Foto, während Sie im Trockenen sitzen bleiben.",
+                "hu": "Az eső felerősíti az oszlopok díszkivilágítását; parkoljon közvetlenül szemben a tökéletes fotóért, miközben az autóban marad.",
+                "ro": "Ploaia intensifică iluminarea coloanelor; parcați direct vis-a-vis pentru fotografia perfectă în timp ce rămâneți la uscat.",
+                "en": "The rain intensifies the illumination of the columns; park directly opposite for the perfect photo while staying in the dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein strahlender Wintermorgen lädt zu einer Panoramafahrt ein. Mittags wärmt die Sonne den Wagen angenehm auf, während Sie die historischen Stätten besuchen. Am Nachmittag bietet das goldene Licht fantastische Fotomotive entlang der Klippenstraße. Nach dem Sonnenuntergang um 17:00 Uhr genießen Sie die Heizung auf dem Rückweg.",
+            "hu": "Ragyogó téli reggel csábít panorámás autózásra. Délben a nap kellemesen felmelegíti az utasteret a történelmi helyszínek látogatása közben. Délután az aranyfények fantasztikus fotótémákat kínálnak a sziklás utak mentén. A 17:00 órai naplemente után élvezze az autó fűtését a visszaúton.",
+            "ro": "O dimineață strălucitoare de iarnă vă invită la o plimbare panoramică. La prânz, soarele încălzește plăcut mașina în timp ce vizitați siturile. După-amiaza, lumina aurie oferă oportunități foto fantastice pe drumul de coastă. După apusul de la 17:00, bucurați-vă de căldură la întoarcere.",
+            "en": "A bright winter morning invites you for a scenic drive. At noon, the sun pleasantly warms the car while you visit historical sites. In the afternoon, the golden light offers fantastic photo opportunities along the cliff road. After the 5 PM sunset, enjoy the car's heating on the way back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cava Chianconi",
+                "hu": "Cava Chianconi",
+                "ro": "Cava Chianconi",
+                "en": "Cava Chianconi"
+              },
+              "tip_5lang": {
+                "de": "Das klare Licht bringt die Texturen des Steins zur Geltung; ideal für Landschaftsfotografie ohne die Dunstschleier des heißen Sommers.",
+                "hu": "A tiszta téli fény kiemeli a kőzet textúráját; ideális tájképfotózáshoz a forró nyári pára és hőség okozta zavaró hatások nélkül.",
+                "ro": "Lumina clară scoate în evidență texturile pietrei; ideal pentru fotografia de peisaj fără ceața și căldura verii toride.",
+                "en": "The clear light brings out the stone's textures; ideal for landscape photography without the haze of the hot summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Carcara",
+                "hu": "Carcara",
+                "ro": "Carcara",
+                "en": "Carcara"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen ohne den schweißtreibenden Aufstieg im Sommer; die kühle Luft macht die Besichtigung der Öfen sehr angenehm.",
+                "hu": "Fedezze fel a romokat a nyári izzasztó hőség nélkül; a hűvös levegő kifejezetten kellemessé teszi a mészégető kemencék megtekintését.",
+                "ro": "Explorați ruinele fără efortul transpirației din timpul verii; aerul răcoros face vizitarea cuptoarelor foarte plăcută.",
+                "en": "Explore the ruins without the sweaty summer heat; the cool air makes visiting the kilns very pleasant and comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Porto Selvaggio",
+                "hu": "Spiaggia di Porto Selvaggio",
+                "ro": "Spiaggia di Porto Selvaggio",
+                "en": "Spiaggia di Porto Selvaggio"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter direkt am Zugang verfügbar; genießen Sie die Einsamkeit der Bucht, bringen Sie eine Jacke für den Abstieg mit.",
+                "hu": "Télen közvetlenül a bejáratnál is talál parkolót; élvezze az öböl magányát, de vigyen kabátot a parthoz vezető lejtős sétához.",
+                "ro": "Parcările sunt disponibile chiar la intrare iarna; bucurați-vă de singurătatea golfului, dar luați o jachetă pentru coborâre.",
+                "en": "Parking is readily available right at the entrance in winter; enjoy the bay's solitude, but bring a jacket for the walk down."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre dell'Alto",
+                "hu": "Torre dell'Alto",
+                "ro": "Torre dell'Alto",
+                "en": "Torre dell'Alto"
+              },
+              "tip_5lang": {
+                "de": "Spektakuläre Fernsicht bis Gallipoli bei klarer Winterluft; der Parkplatz bietet einen tollen Blick, ohne das Auto verlassen zu müssen.",
+                "hu": "Tiszta téli levegőben látni Gallipolit is; a parkoló nagyszerű kilátást nyújt, így akár az autóból is élvezheti a tengeri panorámát.",
+                "ro": "Vizibilitate spectaculoasă până la Gallipoli în aerul clar; parcarea oferă o vedere excelentă fără a părăsi mașina.",
+                "en": "Spectacular long-distance views to Gallipoli in the clear winter air; the parking area offers a great view without leaving the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Caterina Beach",
+                "hu": "Santa Caterina Beach",
+                "ro": "Santa Caterina Beach",
+                "en": "Santa Caterina Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen schnellen Stopp am Meer; die Wintersonne spiegelt sich glitzernd im Wasser, ideal für ein kurzes Aufwärmen im Wagen.",
+                "hu": "Tökéletes hely egy gyors megállóra a tengernél; a téli napfény szikrázik a vízen, utána pedig gyorsan felmelegedhet az autóban.",
+                "ro": "Perfect pentru o oprire rapidă la malul mării; soarele de iarnă sclipește pe apă, ideal pentru o scurtă încălzire în mașină.",
+                "en": "Perfect for a quick stop by the sea; the winter sun glitters on the water, ideal followed by a quick warm-up in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Quattro Colonne",
+                "hu": "Quattro Colonne",
+                "ro": "Quattro Colonne",
+                "en": "Quattro Colonne"
+              },
+              "tip_5lang": {
+                "de": "Pünktlich zum Sonnenuntergang um 17:00 Uhr vor Ort sein; das Licht ist magisch und die anschließende Rückfahrt bei Heizung ist komfortabel.",
+                "hu": "Érkezzen pontosan a 17:00 órai naplementére; a fények varázslatosak, a fűtött autóval való hazatérés pedig kényelmes lezárása a napnak.",
+                "ro": "Fiți acolo fix la apusul de la ora 17:00; lumina este magică, iar drumul de întoarcere cu căldură în mașină este confortabil.",
+                "en": "Be there exactly for the 5 PM sunset; the light is magical and the subsequent drive back with heating is very comfortable."
+              }
+            }
+          ]
+        }
       }
     }
   }

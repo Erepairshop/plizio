@@ -160,6 +160,196 @@
         "hu": "Kezdje sétáját az ikonikus bikaviadal-arénánál, majd merüljön el a Navarro Santafé Múzeum szobrászati remekműveiben.\nDélben másszon fel a fenséges Castillo de la Atalaya várába, ahonnan panorámás kilátás nyílik Villena történelmi központjára.\nDélután csodálja meg a Santa Maria templom gótikus építészetét, és fedezze fel a lenyűgöző régészeti múzeumot.\nZárja a napot a Villena Városi Múzeumban, és az esti fényben gondoljon vissza a régió gazdag kulturális örökségére.",
         "ro": "Începeți plimbarea la emblematica arenă de tauri, înainte de a descoperi sculpturile excepționale de la Muzeul Navarro Santafé.\nLa prânz, urcați la maiestuosul Castillo de la Atalaya, care oferă vederi panoramice asupra centrului istoric al orașului Villena.\nDupă-amiaza, admirați arhitectura gotică a Bisericii Santa Maria și explorați fascinantul muzeu arheologic.\nÎncheiați ziua la Muzeul din Villena, reflectând asupra bogatului patrimoniu cultural al regiunii în lumina serii.",
         "en": "Start your walk at the iconic Plaza de Toros before diving into the sculptural brilliance of the Navarro Santafé Museum.\nMidday brings an ascent to the majestic Castillo de la Atalaya, offering panoramic views over Villena's historic center.\nIn the afternoon, marvel at the Gothic architecture of Santa Maria Church and explore the fascinating archaeological museum.\nEnd the day at the City Museum of Villena, reflecting on the region's rich cultural heritage in the evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens: Beginnen Sie an der Stierkampfarena und suchen Sie rasch Schutz im Navarro Santafé Museum. Mittags: Besichtigen Sie die Burg Atalaya mit Vorsicht auf den rutschigen Steinen und flüchten Sie in die Kirche Santa Maria. Nachmittags: Verbringen Sie den regnerischen Tag im Archäologischen und im Stadtmuseum. Abends: Beenden Sie den nassen Spaziergang sicher in einem gemütlichen Lokal.",
+            "hu": "Reggel: Kezdje az Arénánál, majd gyorsan keressen menedéket a Navarro Santafé Múzeum benti tereiben. Délben: Óvatosan lépkedve látogassa meg az Atalaya Kastélyt, majd húzódjon be a Santa Maria templomba. Délután: A csapadékos időt a Régészeti és a Villena Múzeumok felfedezésével töltse. Este: Zárja a sétát egy száraz és kényelmes helyen, miután minden beltéri látványosságot kipipált.",
+            "ro": "Dimineața: Începeți la Arena de tauri, apoi adăpostiți-vă rapid în Muzeul Navarro Santafé. La prânz: Vizitați cu grijă Castelul Atalaya pe pietrele ude, apoi retrageți-vă în Biserica Santa Maria. După-amiaza: Petreceți timpul ploios explorând colecțiile Muzeului Arheologic și ale Muzeului Villena. Seara: Încheiați plimbarea umedă la adăpost, într-o atmosferă caldă și relaxantă.",
+            "en": "Morning: Start at the Bullring, then head quickly to the Navarro Santafé Museum for indoor shelter. Noon: Visit Atalaya Castle carefully on the slippery stones, then find refuge in the Church of Santa Maria. Afternoon: Spend the rainy afternoon exploring the rich collections of the Archaeological and Villena museums. Evening: Conclude the wet walk safely indoors as the rain continues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stierkampfarena von Villena",
+                "hu": "Villena Bikaviadal-aréna",
+                "ro": "Arena de tauri din Villena",
+                "en": "Bullring of Villena"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die massive Architektur der Arena von außen; achten Sie bei Regen besonders auf die rutschigen Pflastersteine am Eingang.",
+                "hu": "Csodálja meg a hatalmas arénát kívülről; esős időben nagyon vigyázzon a bejárat körüli csúszós macskakövekre és tócsákra.",
+                "ro": "Admirați arhitectura masivă a arenei din exterior; pe timp de ploaie, fiți foarte atenți la pietrele de pavaj alunecoase de la intrare.",
+                "en": "Admire the massive bullring's architecture from the outside; in rainy weather, watch out for the highly slippery cobblestones near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Bildhauer Navarro Santafé Museum",
+                "hu": "Navarro Santafé Szobrászati Múzeum",
+                "ro": "Muzeul Sculptorului Navarro Santafé",
+                "en": "Sculptor Navarro Santafé Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierenden Bronzeskulpturen; diese überdachte Ausstellung ist perfekt, um den starken Regenschauern zu entkommen.",
+                "hu": "Fedezze fel a lenyűgöző bronzszobrokat; ez a fedett kiállítás tökéletes menedék a heves esőzések elől, miközben kulturálódik.",
+                "ro": "Explorați sculpturile uimitoare din bronz; această expoziție interioară este perfectă pentru a scăpa de ploile torențiale.",
+                "en": "Explore the stunning bronze sculptures of local figures; this indoor exhibition is a perfect refuge to escape the heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Atalaya",
+                "hu": "Atalaya Kastély",
+                "ro": "Castelul Atalaya",
+                "en": "Atalaya Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die beeindruckenden Doppelmauern; tragen Sie feste, wasserdichte Schuhe, da die alten Steinstufen extrem rutschig werden.",
+                "hu": "Fedezze fel a lenyűgöző kettős falakat; viseljen vízálló cipőt, mivel az ősi kőlépcsők rendkívül csúszóssá válnak a nedvességtől.",
+                "ro": "Explorați zidurile duble impresionante; purtați încălțăminte impermeabilă robustă, deoarece treptele vechi de piatră devin foarte alunecoase.",
+                "en": "Explore the impressive double walls of this historic fortress; wear sturdy waterproof shoes as the ancient stone steps get very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria",
+                "hu": "Santa Maria Templom",
+                "ro": "Biserica Santa Maria",
+                "en": "Church of Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die gotischen Kreuzrippengewölbe; der ruhige Innenraum bietet hervorragenden trockenen Schutz während des Schauers.",
+                "hu": "Csodálja meg a gyönyörű gótikus bordás boltozatokat; a csendes belső tér kiváló száraz menedéket nyújt a vallási művészet kedvelőinek.",
+                "ro": "Minunați-vă de frumoasele bolți gotice cu nervuri; interiorul liniștit oferă un adăpost uscat excelent în timp ce admirați arta religioasă.",
+                "en": "Marvel at the beautiful Gothic ribbed vaults inside; the quiet interior offers excellent dry shelter while admiring the religious art."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum José María Soler",
+                "hu": "José María Soler Régészeti Múzeum",
+                "ro": "Muzeul Arheologic José María Soler",
+                "en": "José María Soler Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie den berühmten Schatz von Villena; ein großartiger Zufluchtsort im Innenbereich für einen nassen, lehrreichen Nachmittag.",
+                "hu": "Fedezze fel a híres Villenai Kincset; nagyszerű beltéri menedék, ahol egy esős délutánt tölthet a helyi történelem megismerésével.",
+                "ro": "Descoperiți faimoasa Comoară din Villena; un refugiu interior excelent pentru a petrece o după-amiază ploioasă învățând istoria locală.",
+                "en": "Discover the famous Treasure of Villena and golden artifacts; a great indoor refuge to spend a rainy afternoon learning local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Villena",
+                "hu": "Villena Múzeum",
+                "ro": "Muzeul din Villena",
+                "en": "Museum of Villena"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die umfangreichen Sammlungen an; der perfekte letzte Stopp, um trocken zu bleiben und die lokale Kultur aufzusaugen.",
+                "hu": "Tekintse meg a kiterjedt gyűjteményeket; tökéletes utolsó beltéri állomás, hogy teljesen száraz maradjon, mielőtt visszatér a szállásra.",
+                "ro": "Vizualizați colecțiile extinse; o oprire interioară finală perfectă pentru a rămâne complet uscat în timp ce absorbiți cultura locală.",
+                "en": "View extensive ethnographic collections; a perfect final indoor stop to stay completely dry while absorbing the deep local culture."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens: Genießen Sie den frischen Morgen an der Arena, bevor Sie sich im Museum aufwärmen. Mittags: Steigen Sie zur Burg Atalaya auf, um die klare Sicht zu genießen, gefolgt von der Kirche Santa Maria. Nachmittags: Wenn es kälter wird, tauchen Sie in den gemütlichen Museen in die Geschichte ein. Abends: Der frühe Sonnenuntergang um 17:00 Uhr lässt die beleuchteten Straßen wunderschön wirken.",
+            "hu": "Reggel: Élvezze a csípős sétát az Arénánál, mielőtt felmelegedne a szobrászati múzeumban. Délben: Másszon fel az Atalaya Kastélyhoz a tiszta kilátásért, majd nézze meg a Santa Maria templomot. Délután: Ahogy hűl az idő, merüljön el a helyi történelemben a fűtött múzeumokban. Este: A 17:00 óra körüli korai sötétedés varázslatossá teszi a város kivilágított, hideg utcáit.",
+            "ro": "Dimineața: Bucurați-vă de o dimineață proaspătă la Arenă, înainte de a vă încălzi în Muzeu. La prânz: Urcați la Castelul Atalaya pentru priveliști clare de iarnă, urmat de Biserica Santa Maria. După-amiaza: Pe măsură ce se răcește, descoperiți istoria în muzeele încălzite. Seara: Apusul devreme, în jurul orei 17:00, face străzile luminate cu adevărat superbe pentru o plimbare.",
+            "en": "Morning: Enjoy a crisp morning walk starting at the Bullring before warming up inside the Museum. Noon: Climb to Atalaya Castle for clear, brisk views, followed by the historic Church of Santa Maria. Afternoon: As it gets colder, dive into local history at the heated museums. Evening: Early sunset around 17:00 makes the lit-up streets beautiful as you finish your winter stroll."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stierkampfarena von Villena",
+                "hu": "Villena Bikaviadal-aréna",
+                "ro": "Arena de tauri din Villena",
+                "en": "Bullring of Villena"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die historische Fassade im Morgenlicht; kleiden Sie sich im Zwiebellook, da der offene Platz recht windig und kalt sein kann.",
+                "hu": "Csodálja meg a történelmi amfiteátrumot a reggeli fényben; öltözzön rétegesen, mivel a nyitott tér meglehetősen szeles és hideg lehet.",
+                "ro": "Admirați fațada istorică în lumina dimineții; îmbrăcați-vă în straturi, deoarece piața deschisă poate fi destul de vântoasă și rece.",
+                "en": "Marvel at the historic amphitheater's facade in the morning light; dress in warm layers as the open plaza can be quite windy and chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Bildhauer Navarro Santafé Museum",
+                "hu": "Navarro Santafé Szobrászati Múzeum",
+                "ro": "Muzeul Sculptorului Navarro Santafé",
+                "en": "Sculptor Navarro Santafé Museum"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die detailreichen Bronzeskulpturen; der beheizte Innenraum bietet eine wunderbare Pause von der kalten Winterluft.",
+                "hu": "Gyönyörködjön a részletes bronzszobrokban; a fűtött belső tér csodálatos pihenést kínál a csípős téli reggeli levegő elől.",
+                "ro": "Admirați sculpturile detaliate din bronz; interiorul încălzit oferă o pauză minunată de la aerul tăios al dimineții de iarnă.",
+                "en": "Admire the intricate sculptures of local fauna; the heated interior offers a wonderful break from the brisk winter morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Atalaya",
+                "hu": "Atalaya Kastély",
+                "ro": "Castelul Atalaya",
+                "en": "Atalaya Castle"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie über die Festungsmauern für klare Winteraussichten; die Winde oben sind sehr kalt, ein dicker Schal ist unerlässlich.",
+                "hu": "Sétáljon a várfalakon a látványos, tiszta téli kilátásért; a szelek a csúcson nagyon hidegek, vastag sál és kesztyű elengedhetetlen.",
+                "ro": "Plimbați-vă pe zidurile cetății pentru priveliști clare de iarnă; vânturile din vârf sunt foarte reci, un fular gros este esențial.",
+                "en": "Walk the fortress walls for spectacular clear winter views; the winds at the top are very cold, so a thick scarf and gloves are essential."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria",
+                "hu": "Santa Maria Templom",
+                "ro": "Biserica Santa Maria",
+                "en": "Church of Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die majestätischen Säulen; die dicken Steinmauern halten es innen kühl, behalten Sie also Ihren Wintermantel sicher an.",
+                "hu": "Tekintse meg a fenséges oszlopokat; a vastag kőfalak hűvösen tartják a belső teret, ezért érdemes magán hagynia a téli kabátját.",
+                "ro": "Admirați coloanele maiestuoase; pereții groși de piatră mențin răcoarea în interior, așa că păstrați haina de iarnă pe dumneavoastră.",
+                "en": "Take in the majestic columns; the thick stone walls keep it naturally cool inside, so keep your winter coat securely on."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum José María Soler",
+                "hu": "José María Soler Régészeti Múzeum",
+                "ro": "Muzeul Arheologic José María Soler",
+                "en": "José María Soler Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die prächtigen 3000 Jahre alten goldenen Artefakte; verbringen Sie den kalten Nachmittag in diesem gemütlichen, warmen Raum.",
+                "hu": "Nézze meg a csodálatos 3000 éves aranytárgyakat; töltse a hideg délutánt ebben a hangulatos és meleg beltéri térben.",
+                "ro": "Vedeți magnificele artefacte din aur vechi de 3000 de ani; petreceți după-amiaza rece în acest spațiu interior confortabil.",
+                "en": "See the magnificent 3000-year-old golden artifacts; spend the cold afternoon inside this cozy space before the early darkness falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Villena",
+                "hu": "Villena Múzeum",
+                "ro": "Muzeul din Villena",
+                "en": "Museum of Villena"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die reichen kulturellen Artefakte; beenden Sie Ihre Tour in diesem warmen Museum vor der Dämmerung um 17:00 Uhr.",
+                "hu": "Fedezze fel a gazdag kulturális tárgyakat; fejezze be túráját ebben a meleg múzeumban, mielőtt kilép a 17:00 órás téli szürkületbe.",
+                "ro": "Explorați bogatele artefacte culturale; terminați turul în acest muzeu cald înainte de a ieși în amurgul de iarnă de la ora 17:00.",
+                "en": "Explore the rich cultural artifacts of the region; finish your tour in this warm museum before stepping out into the 17:00 winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kerekezzen a történelmi bikaviadal-arénától a bonyolult szobrokig, majd vágjon neki a Castillo de Salvatierra romjaihoz vezető enyhe emelkedőnek. A délidő a félelmetes Castillo de la Atalaya felfedezésére csábít, ahol középkori titkokat és lenyűgöző kilátást talál. Guruljon lefelé, hogy felfedezze az olyan bájos vallási helyszíneket, mint a San José remetelak és a gyönyörű Santa Maria templom. Kerékpáros kalandját úgy zárja, hogy ősi kincseket csodál meg a híres Régészeti Múzeumban.",
         "ro": "Pedalați de la arena istorică la sculpturile detaliate, apoi abordați urcarea ușoară spre ruinele Castillo de Salvatierra. Amiaza vă invită să explorați formidabilul Castillo de la Atalaya, descoperind secrete medievale și panorame vaste. Coborâți pentru a descoperi situri religioase fermecătoare, cum ar fi Schitul San José și frumoasa Biserică Santa Maria. Încheiați aventura pe bicicletă descoperind comori antice la renumitul Muzeu Arheologic.",
         "en": "Cycle from the historic bullring to the intricate sculptures, then tackle the gentle climb towards the ruins of Castillo de Salvatierra. Midday invites you to explore the formidable Castillo de la Atalaya, discovering its medieval secrets and sweeping views. Roll downhill to discover charming religious sites like the Hermitage of San José and the beautiful Santa Maria Church. Conclude your cycling adventure by unearthing ancient treasures at the renowned Archaeological Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens: Radeln Sie vorsichtig zur Arena und zum Museum; die nassen Straßen erfordern gute Bremsen. Mittags: Fahren Sie behutsam zu den Burgruinen hinauf und tragen Sie gute Regenkleidung. Nachmittags: Besuchen Sie die Einsiedelei und Kirche, bevor Sie einen trockenen Nachmittag im Museum verbringen. Abends: Stellen Sie das Fahrrad ab und trocknen Sie sich nach einer nassen Fahrt ab.",
+            "hu": "Reggel: Óvatosan tekerjen az Arénához és a Múzeumhoz; a nedves utak és macskakövek miatt a fékezés nehezebb. Délben: Lassú tempóban kapaszkodjon fel a kastélyokhoz, vízálló esőkabát viselése kötelező. Délután: Látogassa meg a kápolnát és a templomot, majd szárítkozzon meg a Régészeti Múzeumban. Este: Parkolja le a biciklit, és pihenjen meg egy meleg helyen a csapadékos túra után.",
+            "ro": "Dimineața: Bicicliți cu grijă spre Arenă și Muzeu; drumurile umede necesită frânare atentă. La prânz: Urcați cu prudență la ruinele castelului, purtând echipament bun de ploaie. După-amiaza: Vizitați schitul și biserica, înainte de a petrece o după-amiază uscată în muzeu. Seara: Parcați bicicleta și uscați-vă după o plimbare solicitantă, dar plină de satisfacții pe ploaie.",
+            "en": "Morning: Bike carefully to the Bullring and Museum; wet cobblestones require early and gentle braking. Noon: Ride cautiously up to the castle ruins and Atalaya Castle, wearing quality rain gear. Afternoon: Visit the Hermitage and Church, before spending a dry afternoon in the Archaeological Museum. Evening: Park the bike and dry off after a demanding wet-weather cycling day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stierkampfarena von Villena",
+                "hu": "Villena Bikaviadal-aréna",
+                "ro": "Arena de tauri din Villena",
+                "en": "Bullring of Villena"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie an der Arena an; bremsen Sie auf den umliegenden Straßen frühzeitig, da nasse Reifen hier leicht wegrutschen können.",
+                "hu": "Álljon meg az Arénánál; a környező utakon fékezzen jóval korábban, mivel a nedves gumik a burkolaton könnyen megcsúszhatnak.",
+                "ro": "Opriți-vă la Arenă; frânați devreme pe drumurile din jur, deoarece anvelopele umede pot aluneca ușor pe pavaj.",
+                "en": "Stop to view the massive Bullring; brake early on the surrounding streets as wet bike tires can easily slip on the smooth pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Bildhauer Navarro Santafé Museum",
+                "hu": "Navarro Santafé Szobrászati Múzeum",
+                "ro": "Muzeul Sculptorului Navarro Santafé",
+                "en": "Sculptor Navarro Santafé Museum"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad ab und treten Sie ein, um die Bronzeskulpturen zu bewundern und sich vor dem anhaltenden Regen zu schützen.",
+                "hu": "Zárja le a kerékpárt és lépjen be a bronzszobrok megcsodálásához, biztonságos menedéket találva a folyamatos esőzés elől.",
+                "ro": "Parcați bicicleta și intrați pentru a admira sculpturile din bronz, un adăpost excelent pentru a scăpa de ploaia constantă.",
+                "en": "Lock your bike and step inside to admire the bronze sculptures, finding a perfect and dry shelter from the persistent rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Salvatierra",
+                "hu": "Salvatierra Kastély",
+                "ro": "Castelul Salvatierra",
+                "en": "Salvatierra Castle"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen; schieben Sie Ihr Rad bei starkem Matsch lieber, da die unbefestigten Pfade bei Regen tückisch werden.",
+                "hu": "Tekintse meg a romokat; erős sár esetén inkább tolja a kerékpárt, mivel a burkolatlan ösvények esőben rendkívül veszélyesek lesznek.",
+                "ro": "Vedeți ruinele; mergeți pe lângă bicicletă dacă este mult noroi, deoarece potecile neasfaltate devin înșelătoare pe ploaie.",
+                "en": "View the ruins; consider walking your bike if the mud is thick, as the unpaved paths become very treacherous during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Atalaya",
+                "hu": "Atalaya Kastély",
+                "ro": "Castelul Atalaya",
+                "en": "Atalaya Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Festung; stellen Sie Ihr Rad sicher ab und tragen Sie eine gute Regenjacke für den windigen, nassen Rundgang.",
+                "hu": "Fedezze fel az erődöt; parkolja le biztonságosan a biciklit, és viseljen jó minőségű esőkabátot a szeles, nedves várnézéshez.",
+                "ro": "Explorați cetatea; parcați bicicleta în siguranță și purtați o geacă de ploaie bună pentru turul expus la vânt și ploaie.",
+                "en": "Explore the fortress; park your bike securely and wear a high-quality raincoat for the windy and wet walking tour of the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Einsiedelei von San José",
+                "hu": "San José Remetelak",
+                "ro": "Schitul San José",
+                "en": "Hermitage of San José"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie diesen kurzen Stopp; seien Sie bei der nassen Abfahrt extrem vorsichtig und vermeiden Sie abrupte Lenkbewegungen.",
+                "hu": "Élvezze ezt a rövid megállót; a nedves lejtőkön lefelé legyen rendkívül óvatos, és kerülje a hirtelen kormánymozdulatokat.",
+                "ro": "Bucurați-vă de această scurtă oprire; fiți extrem de precauți la coborârea umedă și evitați mișcările bruște ale ghidonului.",
+                "en": "Enjoy this short stop at the hermitage; be extremely cautious on the wet descent and completely avoid any sudden steering movements."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria",
+                "hu": "Santa Maria Templom",
+                "ro": "Biserica Santa Maria",
+                "en": "Church of Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die Gewölbe zu sehen; das trockene Kircheninnere bietet eine willkommene Pause vom anstrengenden Radfahren im Regen.",
+                "hu": "Lépjen be a boltozatok megtekintéséhez; a száraz templombelső szívesen látott pihenést nyújt az esőben való fárasztó tekerés után.",
+                "ro": "Intrați pentru a vedea bolțile; interiorul uscat al bisericii oferă o pauză binevenită de la pedalatul obositor prin ploaie.",
+                "en": "Step inside to see the vaults; the dry church interior offers a highly welcome break from the tiring effort of cycling in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum José María Soler",
+                "hu": "José María Soler Régészeti Múzeum",
+                "ro": "Muzeul Arheologic José María Soler",
+                "en": "José María Soler Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die lokalen Schätze; verbringen Sie den restlichen nassen Nachmittag drinnen, während Ihre Ausrüstung abtropft.",
+                "hu": "Fedezze fel a helyi kincseket; töltse a hátralévő nedves délutánt a múzeumban, miközben a felszerelése kicsit lecsöpög az előtérben.",
+                "ro": "Descoperiți comorile locale; petreceți restul după-amiezii ploioase înăuntru, în timp ce echipamentul dumneavoastră se scurge.",
+                "en": "Discover local treasures; spend the rest of the wet afternoon indoors, allowing your cycling gear to drip dry in the entrance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens: Ziehen Sie sich für eine kühle Fahrt zur Arena warm an. Mittags: Halten Sie sich warm, indem Sie unter der klaren Wintersonne zu den Burgen Salvatierra und Atalaya radeln. Nachmittags: Besuchen Sie die historischen Kirchen und das Museum, während der Nachmittag abkühlt. Abends: Beenden Sie Ihre Fahrt unbedingt vor 17:00 Uhr, da die Temperaturen nach Sonnenuntergang schnell sinken.",
+            "hu": "Reggel: Öltözzön fel melegen a csípős biciklizéshez az Arénához és a múzeumhoz. Délben: A tekerés felmelegíti, miközben a tiszta téli napsütésben felkapaszkodik a Salvatierra és Atalaya kastélyokhoz. Délután: Látogassa meg a történelmi templomokat és a Régészeti Múzeumot. Este: Mindenképpen fejezze be az utat 17:00 óra előtt, mert naplemente után rohamosan csökken a hőmérséklet.",
+            "ro": "Dimineața: Îmbrăcați-vă gros pentru o plimbare răcoroasă spre Arenă și Muzeu. La prânz: Încălziți-vă pedalând până la castele sub soarele clar de iarnă. După-amiaza: Vizitați bisericile istorice și Muzeul Arheologic pe măsură ce se răcește. Seara: Terminați plimbarea înainte de ora 17:00, deoarece temperaturile scad rapid după apusul soarelui.",
+            "en": "Morning: Layer up for a chilly morning ride to the Bullring and Museum. Noon: Keep warm by pedaling up to Salvatierra and Atalaya Castles under the crisp winter sun. Afternoon: Visit the historic churches and the Archaeological Museum as the afternoon cools down. Evening: Finish your ride before 17:00 as temperatures drop rapidly and roads can get icy after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stierkampfarena von Villena",
+                "hu": "Villena Bikaviadal-aréna",
+                "ro": "Arena de tauri din Villena",
+                "en": "Bullring of Villena"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier Ihre kalte Fahrt; tragen Sie winddichte Handschuhe, da der kalte Fahrtwind an den Händen sehr unangenehm wird.",
+                "hu": "Kezdje itt a fagyos utat; viseljen szélálló kesztyűt, mivel a hideg menetszél nagyon hamar árfagyasztja a kezeit a kormányon.",
+                "ro": "Începeți aici traseul rece; purtați mănuși rezistente la vânt, deoarece aerul rece pe mâini devine foarte neplăcut la pedalare.",
+                "en": "Start your brisk ride here; wear windproof gloves, as the freezing headwind on your hands becomes very uncomfortable while gripping."
+              }
+            },
+            {
+              "name": {
+                "de": "Bildhauer Navarro Santafé Museum",
+                "hu": "Navarro Santafé Szobrászati Múzeum",
+                "ro": "Muzeul Sculptorului Navarro Santafé",
+                "en": "Sculptor Navarro Santafé Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf, während Sie die Kunstwerke betrachten; perfekt, um das Blut an einem Wintermorgen in Schwung zu bringen.",
+                "hu": "Melegedjen fel odabent a műalkotások megtekintése közben; tökéletes megálló a vérkeringés újraindítására a hideg téli reggelen.",
+                "ro": "Încălziți-vă în interior în timp ce vizionați arta; perfect pentru a vă pune sângele în mișcare într-o dimineață de iarnă.",
+                "en": "Warm up inside while viewing the artwork; a perfect first indoor stop to get your blood flowing again on a freezing winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Salvatierra",
+                "hu": "Salvatierra Kastély",
+                "ro": "Castelul Salvatierra",
+                "en": "Salvatierra Castle"
+              },
+              "tip_5lang": {
+                "de": "Der steile Anstieg hält Sie warm; ziehen Sie oben aber sofort eine Jacke an, da der Winterwind durch die Ruinen sehr scharf bläst.",
+                "hu": "A meredek emelkedő felmelegíti; fent azonban azonnal vegyen fel egy kabátot, mert a téli szél nagyon élesen fúj a romok között.",
+                "ro": "Urcarea abruptă vă va încălzi; totuși, puneți-vă o jachetă sus, deoarece vântul de iarnă suflă foarte tăios prin ruine.",
+                "en": "The steep climb will naturally keep you warm; put on a jacket immediately at the top as the winter wind blows sharply through the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Atalaya",
+                "hu": "Atalaya Kastély",
+                "ro": "Castelul Atalaya",
+                "en": "Atalaya Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht; passen Sie auf eisige Stellen auf dem Weg zur Burg auf, besonders in schattigen Bereichen.",
+                "hu": "Élvezze a tiszta távlati kilátást; vigyázzon a jégbordákra a kastélyhoz vezető úton, különösen a hegy árnyékos oldalán.",
+                "ro": "Bucurați-vă de vizibilitatea clară; atenție la peticele de gheață pe drumul spre castel, mai ales în zonele umbrite.",
+                "en": "Enjoy the crystal-clear visibility; watch out for small icy patches on the approach to the castle, especially in the shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Einsiedelei von San José",
+                "hu": "San José Remetelak",
+                "ro": "Schitul San José",
+                "en": "Hermitage of San José"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Einsiedelei; packen Sie sich für die extrem kalte, schnelle Abfahrt zurück in die Stadt gut ein.",
+                "hu": "Csodálja meg a remetelakot; öltözzön fel vastagon az extrém hideg, gyors ereszkedéshez vissza a város sűrűjébe.",
+                "ro": "Admirați schitul; înfofoliți-vă bine pentru coborârea extrem de rece și rapidă înapoi spre centrul orașului.",
+                "en": "Admire the hilltop hermitage; wrap up tightly with a windbreaker for the extremely freezing and fast descent back down into the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria",
+                "hu": "Santa Maria Templom",
+                "ro": "Biserica Santa Maria",
+                "en": "Church of Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Ruhen Sie sich nach der Radtour in den kühlen, dicken Steinmauern aus; behalten Sie Ihre Fahrradhandschuhe an, wenn Sie möchten.",
+                "hu": "Pihenjen meg a biciklizés után a hűvös, vastag kőfalak között; nyugodtan tartsa magán a kerékpáros kesztyűt, odabent sincs meleg.",
+                "ro": "Odihniți-vă după plimbare între pereții reci de piatră; păstrați-vă mănușile de ciclism dacă doriți, nu este foarte cald înăuntru.",
+                "en": "Rest after cycling inside the cool, thick stone walls; you might want to keep your cycling gloves on as it is naturally cold inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum José María Soler",
+                "hu": "José María Soler Régészeti Múzeum",
+                "ro": "Muzeul Arheologic José María Soler",
+                "en": "José María Soler Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Radtour mit diesem warmen Museumsbesuch, bevor die Sonne untergeht und die Temperaturen auf dem Rad eisig werden.",
+                "hu": "Zárja a kerékpártúrát ebben a fűtött múzeumban, mielőtt a nap lemenne, és a hőmérséklet fagyossá válna a nyeregben.",
+                "ro": "Terminați plimbarea cu această vizită caldă la muzeu înainte ca soarele să apună și temperaturile să devină înghețate pe bicicletă.",
+                "en": "End your cycling tour with this warm museum visit before the sun fully sets and temperatures drop to freezing levels on the bike."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Autózzon el a Cabezo Redondo ősi településre, hogy a délelőttöt a bronzkori történelemben és a pazar tájképekben elmerülve töltse. Térjen vissza a városba, hogy megcsodálja a grandiózus Plaza de Toros-t, és sétáljon fel a zord Castillo de Salvatierra romjaihoz. A délutánt a Castillo de la Atalaya jól karbantartott tornyainak és a villenai aranykincsnek a felfedezésével töltse. Zárja a napot a helyi történelem elmélyült megismerésével a város átfogó és modern múzeumaiban.",
         "ro": "Conduceți până la așezarea antică Cabezo Redondo pentru o dimineață captivantă în istoria Epocii Bronzului și peisaje deosebite. Navigați înapoi în oraș pentru a admira grandioasa Plaza de Toros și urcați la ruinele accidentate ale Castillo de Salvatierra. Petreceți după-amiaza descoperind turnurile bine conservate ale Castillo de la Atalaya și comoara de aur din Villena. Încheiați-vă excursia de o zi cu o scufundare profundă în istoria locală, vizitând muzeele moderne și cuprinzătoare ale orașului.",
         "en": "Drive out to the ancient settlement of Cabezo Redondo for a morning immersed in Bronze Age history and sweeping landscape views. Navigate back into the city to marvel at the grand Plaza de Toros and hike up to the rugged Castillo de Salvatierra ruins. Spend the afternoon uncovering the well-preserved towers of Castillo de la Atalaya and the golden Treasure of Villena. Wrap up your day trip with a deep dive into local history at the city's comprehensive and modern museums."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens: Fahren Sie nach Cabezo Redondo; nehmen Sie einen Regenschirm für die kurzen Wege mit. Mittags: Navigieren Sie vorsichtig zu den Burgen; halten Sie eine wasserdichte Jacke für die Ruinen bereit. Nachmittags: Das Auto bietet tollen Schutz, während Sie bequem zwischen den ausgezeichneten Innenmuseen der Stadt wechseln. Abends: Genießen Sie den Komfort, durch die verregneten Straßen trocken zu Ihrem Ziel zu fahren.",
+            "hu": "Reggel: Vezessen a Cabezo Redondohoz; vigyen magával esernyőt a rövid szabadtéri sétákhoz, majd irány az Aréna. Délben: Óvatosan navigáljon fel a kastélyokhoz; tartson kéznél vízálló kabátot a romok szabadtéri felfedezéséhez. Délután: Az autó kiváló menedéket nyújt, miközben kényelmesen közlekedik a város kiváló múzeumai között. Este: Élvezze a kényelmet, hogy szárazon utazhat a csapadékos utcákon át a vacsorához.",
+            "ro": "Dimineața: Conduceți la Cabezo Redondo; luați o umbrelă pentru plimbările scurte înainte de a merge la Arenă. La prânz: Navigați cu grijă până la castele; păstrați o jachetă impermeabilă la îndemână pentru ruine. După-amiaza: Mașina oferă un adăpost excelent în timp ce vă mutați între muzeele interioare ale orașului. Seara: Bucurați-vă de confortul de a conduce prin străzile ploioase înapoi spre destinație.",
+            "en": "Morning: Drive to Cabezo Redondo; bring an umbrella for the short walks before heading to the Bullring. Noon: Navigate carefully up to the castles; keep a waterproof jacket handy for the outdoor ruins. Afternoon: The car provides great shelter as you move comfortably between the city's excellent indoor museums. Evening: Enjoy the convenience of driving completely dry through the rainy streets to your final spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cabezo Redondo",
+                "hu": "Cabezo Redondo",
+                "ro": "Cabezo Redondo",
+                "en": "Cabezo Redondo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah und sehen Sie die Ruinen der Bronzezeit; halten Sie einen starken Schirm bereit, da das Gelände Wind und Regen ausgesetzt ist.",
+                "hu": "Parkoljon közel a bronzkori romokhoz; tartson kéznél egy masszív esernyőt, mivel a terület rendkívül kitett az esőnek és a szélnek.",
+                "ro": "Parcați aproape și vedeți ruinele din Epoca Bronzului; păstrați o umbrelă rezistentă la îndemână, situl fiind expus ploii și vântului.",
+                "en": "Park close to see the Bronze Age ruins; keep a sturdy umbrella extremely handy as the elevated site is highly exposed to the rain and wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Stierkampfarena von Villena",
+                "hu": "Villena Bikaviadal-aréna",
+                "ro": "Arena de tauri din Villena",
+                "en": "Bullring of Villena"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Arena vom Auto aus oder steigen Sie kurz aus; achten Sie auf die großen Pfützen auf den Parkplätzen ringsum.",
+                "hu": "Csodálja meg az Arénát az autóból, vagy szálljon ki röviden; nagyon figyeljen a környező parkolókban összegyűlt hatalmas tócsákra.",
+                "ro": "Admirați arena din mașină sau coborâți scurt; atenție la bălțile mari din parcările din jur atunci când pășiți afară.",
+                "en": "Admire the massive arena from your car or step out briefly; watch out for the large puddles in the surrounding parking lots when exiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Salvatierra",
+                "hu": "Salvatierra Kastély",
+                "ro": "Castelul Salvatierra",
+                "en": "Salvatierra Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig den Hügel hinauf; der kurze Weg vom Parkplatz zu den Ruinen kann bei Nässe sehr rutschig und schlammig sein.",
+                "hu": "Óvatosan vezessen fel a dombon; a parkolóból a romokhoz vezető rövid út esőben rendkívül csúszós és sáros lehet.",
+                "ro": "Conduceți cu grijă pe deal; scurta plimbare de la parcare la ruine poate fi foarte alunecoasă și noroioasă pe vreme umedă.",
+                "en": "Drive carefully up the winding hill; the short walk from the parking area to the ruins can be extremely slippery and muddy when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Atalaya",
+                "hu": "Atalaya Kastély",
+                "ro": "Castelul Atalaya",
+                "en": "Atalaya Castle"
+              },
+              "tip_5lang": {
+                "de": "Die gepflasterte Auffahrt ist bei Regen sicher; nehmen Sie eine dicke Regenjacke mit, um die Zinnen im Freien zu besichtigen.",
+                "hu": "A burkolt felhajtó esőben is biztonságos; vigyen magával vastag esőkabátot, hogy kényelmesen felfedezhesse a szabadtéri bástyákat.",
+                "ro": "Drumul pavat este sigur pe ploaie; luați o jachetă de ploaie groasă pentru a inspecta crenelurile în aer liber fără a vă uda.",
+                "en": "The paved approach is safe in the rain; bring a thick, waterproof jacket from the trunk to comfortably inspect the outdoor battlements."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum José María Soler",
+                "hu": "José María Soler Régészeti Múzeum",
+                "ro": "Muzeul Arheologic José María Soler",
+                "en": "José María Soler Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und laufen Sie schnell hinein, um die goldene Schatzkammer zu erkunden – eine perfekte trockene Aktivität.",
+                "hu": "Parkoljon a közelben, és szaladjon be az arany kincsek felfedezéséhez – tökéletes és teljesen száraz délutáni program.",
+                "ro": "Parcați în apropiere și alergați înăuntru pentru a explora tezaurul de aur – o activitate de interior perfectă pentru a scăpa de ploaie.",
+                "en": "Park nearby and make a quick dash inside to explore the golden treasure room – an absolutely perfect completely dry afternoon activity."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Villena",
+                "hu": "Villena Múzeum",
+                "ro": "Muzeul din Villena",
+                "en": "Museum of Villena"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihre verregnete Tour mit historischen Artefakten ab; danach steigen Sie direkt in Ihr warmes, trockenes Auto.",
+                "hu": "Zárja esős túráját a történelmi műtárgyak között; a látogatás után pedig egyenesen beszállhat a fűtött, száraz autójába.",
+                "ro": "Încheiați turul ploios cu artefacte istorice; apoi, puteți urca direct în mașina dumneavoastră caldă și uscată pentru drumul de întoarcere.",
+                "en": "Conclude your rainy driving tour with historical artifacts; afterwards, step straight back into your heated, dry car for the ride back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens: Genießen Sie eine beheizte Fahrt zum antiken Cabezo Redondo und zur beeindruckenden Arena. Mittags: Die Winteraussichten von den Burgen sind spektakulär, auch wenn es oben windig ist. Nachmittags: Verbringen Sie den späten Nachmittag in den gemütlichen Stadtmuseen. Abends: Mit dem Sonnenuntergang gegen 17:00 Uhr ist die Fahrt durch das beleuchtete Villena landschaftlich sehr reizvoll.",
+            "hu": "Reggel: Élvezze a fűtött autó kényelmét, miközben az ősi Cabezo Redondo és a lenyűgöző Aréna felé vezet. Délben: A téli kilátás a kastélyokból látványos, bár odafent meglehetősen szeles az idő. Délután: Töltse a késő délutánt a város hangulatos, fűtött múzeumaiban tanulással. Este: A 17:00 óra körüli naplemente miatt a kivilágított Villenán keresztüli hazautazás nagyon festői.",
+            "ro": "Dimineața: Bucurați-vă de o călătorie încălzită către anticul Cabezo Redondo și impresionanta Arenă. La prânz: Priveliștile de iarnă de la castele sunt spectaculoase, deși bate vântul sus. După-amiaza: Petreceți după-amiaza târziu învățând în muzeele primitoare ale orașului. Seara: Odată cu apusul în jurul orei 17:00, condusul prin Villena luminată este cu adevărat pitoresc.",
+            "en": "Morning: Enjoy a heated drive to the ancient Cabezo Redondo and the impressive Bullring. Noon: The winter views from the hilltop castles are spectacular, though it gets quite windy at the top. Afternoon: Spend the late afternoon learning comfortably inside the cozy City Museums. Evening: With sunset around 17:00, the warm drive back through illuminated Villena is highly scenic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cabezo Redondo",
+                "hu": "Cabezo Redondo",
+                "ro": "Cabezo Redondo",
+                "en": "Cabezo Redondo"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, bevor Sie das Auto verlassen; das offene Gelände ist morgens extrem anfällig für kalte Winterwinde.",
+                "hu": "Öltözzön fel melegen, mielőtt kiszállna az autóból; a nyitott terep reggel rendkívül ki van téve a metsző téli szeleknek.",
+                "ro": "Îmbrăcați-vă gros înainte de a părăsi mașina; terenul deschis este extrem de predispus la vânturile reci de iarnă dimineața.",
+                "en": "Bundle up warmly before leaving the car; the completely open terrain is highly vulnerable to freezing, biting winter winds in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Stierkampfarena von Villena",
+                "hu": "Villena Bikaviadal-aréna",
+                "ro": "Arena de tauri din Villena",
+                "en": "Bullring of Villena"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung im Auto laufen, während Sie parken; die Weitläufigkeit der Arena bedeutet wenig Schutz vor der morgendlichen Kälte.",
+                "hu": "Hagyja járni a fűtést az autóban, amíg parkol; az Aréna hatalmas nyitott tere kevés védelmet nyújt a csípős reggeli hideg ellen.",
+                "ro": "Lăsați căldura pornită în mașină în timp ce parcați; imensitatea Arenei înseamnă puțină protecție împotriva frigului de dimineață.",
+                "en": "Keep the car heater running while you park; the massive scale of the bullring plaza means there is very little shelter from the morning cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Salvatierra",
+                "hu": "Salvatierra Kastély",
+                "ro": "Castelul Salvatierra",
+                "en": "Salvatierra Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt den Hügel hinauf bietet tolle Ausblicke auf kahle Bäume; tragen Sie Handschuhe, wenn Sie die windigen Ruinen fotografieren.",
+                "hu": "A hegyre vezető út nagyszerű kilátást nyújt a kopasz fákra; viseljen kesztyűt, ha fényképezni szeretne a szeles romok között.",
+                "ro": "Drumul pe deal oferă priveliști frumoase cu copaci golași; purtați mănuși când fotografiați ruinele expuse la vânt puternic.",
+                "en": "The drive up the hill offers great bare-tree views; strictly wear gloves if you plan to step out and photograph the highly windy ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Atalaya",
+                "hu": "Atalaya Kastély",
+                "ro": "Castelul Atalaya",
+                "en": "Atalaya Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Festung; die Luft auf dem Gipfel ist im Winter sehr klar, aber Sie brauchen einen dicken Mantel für den Hof.",
+                "hu": "Parkoljon közvetlenül az erőd közelében; a levegő a csúcson télen kristálytiszta, de vastag kabátra lesz szükség a szabadtéri udvaron.",
+                "ro": "Parcați aproape de cetate; aerul din vârf este foarte clar iarna, dar veți avea nevoie de un palton gros pentru curtea interioară.",
+                "en": "Park right near the fortress; the summit air is crystal clear in winter, but you absolutely need a thick coat for the open courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum José María Soler",
+                "hu": "José María Soler Régészeti Múzeum",
+                "ro": "Muzeul Arheologic José María Soler",
+                "en": "José María Soler Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauen Sie in der beheizten archäologischen Ausstellung auf; eine perfekte Aktivität, wenn die Sonne am Nachmittag an Kraft verliert.",
+                "hu": "Olvadjon ki a fűtött régészeti kiállításon; tökéletes beltéri program, ahogy a téli nap délutánra folyamatosan veszít az erejéből.",
+                "ro": "Dezghețați-vă în expoziția arheologică încălzită; o activitate perfectă pe măsură ce soarele își pierde puterea după-amiaza târziu.",
+                "en": "Thaw out completely inside the heated archaeological exhibit; a perfect activity as the winter sun rapidly loses its strength in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Villena",
+                "hu": "Villena Múzeum",
+                "ro": "Muzeul din Villena",
+                "en": "Museum of Villena"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie die letzte Stunde in diesem gemütlichen Museum, bevor Sie im Dunkeln gegen 17:00 Uhr zu Ihrem aufgewärmten Auto zurückkehren.",
+                "hu": "Töltse az utolsó órát ebben a hangulatos múzeumban, mielőtt a 17:00 órás sötétedésben visszatérne az előmelegített autójához.",
+                "ro": "Petreceți ultima oră în acest muzeu primitor înainte de a vă întoarce la mașina caldă, pe întuneric, în jurul orei 17:00.",
+                "en": "Spend your final hour inside this cozy museum before returning directly to your pre-warmed car in the full darkness around 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

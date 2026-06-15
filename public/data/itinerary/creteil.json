@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a modern Créteil monumentális polgári építészetének felfedezésével, átérezve a 70-es évek egyedi városépítészetének lüktetését. Délben a Lac de Créteil nyugodt partjai várják. A délutánt az ikonikus Káposzta-tornyok megcsodálásának szentelheti, este pedig a nyüzsgő kereskedelmi központban lazíthat.",
         "ro": "Începeți dimineața explorând arhitectura civică monumentală a Créteil-ului modern, simțind pulsul designului său urban din anii '70. La prânz, relaxați-vă pe malurile liniștite ale lacului Créteil. După-amiaza este dedicată admirării iconurilor turnuri Varză, înainte de a vă destinde în hub-ul comercial plin de viață seara.",
         "en": "Start your morning exploring the monumental civic architecture of modern Créteil, feeling the pulse of its unique 70s urban design. Midday invites you to the calm shores of Lac de Créteil and its nature center. The afternoon is dedicated to admiring the iconic 'Cabbage' towers before unwinding at the lively commercial hub in the evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen am Rathaus und halten Sie Ihren Regenschirm für den kurzen Weg zum Haus der Kunst bereit. Mittags bieten die Ausstellungen im MAC den perfekten Schutz vor dem Regen. Am Nachmittag führt ein kurzer Spaziergang am See zum Haus der Natur. Den Abend verbringen Sie im trockenen Einkaufszentrum Créteil Soleil, wo Sie entspannt flanieren können.",
+            "hu": "Kezdje a reggelt a Városházánál, ernyőjét tartsa készenlétben a közeli művelődési házig. A déli órákban a MAC kiállításai nyújtanak menedéket az eső elől. Délután tegyen egy gyors sétát a tó partján a Természet Háza felé. Az estét a Créteil Soleil bevásárlóközpont fedett soraiban zárhatja, ahol garantáltan szárazon marad a bőséges választék mellett.",
+            "ro": "Începeți dimineața la Primărie, având umbrela pregătită pentru scurta plimbare spre Casa Culturii. La prânz, expozițiile de la MAC oferă refugiul perfect împotriva ploii. După-amiaza, o plimbare rapidă pe malul lacului vă duce spre Casa Naturii. Încheiați ziua în centrul comercial Créteil Soleil, unde vă puteți relaxa la adăpost de vremea nefavorabilă.",
+            "en": "Start your morning at City Hall, keeping your umbrella ready for the short walk to the House of Arts. Midday is best spent exploring the indoor galleries of the MAC to stay dry. In the afternoon, take a brisk walk by the lake toward the House of Nature. End your day inside the vast Créteil Soleil mall, where you can relax and stay warm despite the downpour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Créteil",
+                "hu": "Créteil Városháza",
+                "ro": "Primăria Créteil",
+                "en": "Créteil City Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer administrativer Stopp; halten Sie Ihren Regenschirm griffbereit, da der Weg zum nächsten Kulturzentrum nur wenige Minuten dauert.",
+                "hu": "Gyors adminisztratív megálló; tartsa készenlétben az esernyőjét, mivel a következő kulturális központig tartó séta csak pár percet vesz igénybe.",
+                "ro": "O oprire administrativă scurtă; țineți umbrela la îndemână, deoarece drumul către următorul centru cultural durează doar câteva minute.",
+                "en": "A quick administrative stop; keep your umbrella handy as the walk to the nearby cultural center takes only a few minutes through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Kunst und Kultur",
+                "hu": "Művészetek és Kultúra Háza",
+                "ro": "Casa Artelor și Culturii",
+                "en": "House of Arts and Culture"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Rückzugsort bei Regen; genießen Sie die zeitgenössischen Ausstellungen im trockenen und warmen Innenraum des beeindruckenden MAC.",
+                "hu": "Ideális menedék esőben; élvezze a kortárs kiállításokat a lenyűgöző MAC száraz és meleg belső tereiben, távol a kinti felhőszakadástól.",
+                "ro": "Refugiul ideal pe timp de ploaie; bucurați-vă de expozițiile contemporane în interiorul uscat și cald al impresionantului centru MAC.",
+                "en": "The ideal retreat when it rains; enjoy the contemporary exhibitions inside the dry and warm interior of the impressive MAC cultural center."
+              }
+            },
+            {
+              "name": {
+                "de": "See von Créteil",
+                "hu": "Créteil-tó",
+                "ro": "Lacul Créteil",
+                "en": "Lake Créteil"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind gut begehbar, aber Vorsicht vor Pfützen; genießen Sie die melancholische Aussicht auf den See unter grauem Himmel.",
+                "hu": "Az aszfaltozott utak jól járhatóak, de vigyázzon a tócsákra; élvezze a tó melankolikus látványát a szürke esőfelhők alatt sétálva.",
+                "ro": "Potecile asfaltate sunt ușor de parcurs, dar atenție la bălți; bucurați-vă de vederea melancolică a lacului sub cerul gri de toamnă.",
+                "en": "The paved paths are easy to navigate, but watch out for puddles; enjoy the melancholic view of the lake under the grey, rainy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Natur",
+                "hu": "Természet Háza",
+                "ro": "Casa Naturii",
+                "en": "House of Nature"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die lokale Flora und Fauna in diesem überdachten Pavillon kennen, während draußen der Regen auf das Ufer des Sees prasselt.",
+                "hu": "Ismerje meg a helyi élővilágot ebben a fedett pavilonban, miközben kint az eső kopog a tóparti sétány fáin és a víz felszínén.",
+                "ro": "Învățați despre flora și fauna locală în acest pavilion acoperit, în timp ce afară ploaia bate în geamurile de pe malul lacului.",
+                "en": "Learn about the local flora and fauna in this sheltered pavilion while the rain drums on the lake shore and the surrounding trees outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Choux de Créteil",
+                "hu": "Les Choux de Créteil",
+                "ro": "Les Choux de Créteil",
+                "en": "Les Choux de Créteil"
+              },
+              "tip_5lang": {
+                "de": "Die markanten Balkone bieten einen dramatischen Anblick im Regen; betrachten Sie die Architektur von einem geschützten Platz unter den Bäumen.",
+                "hu": "A jellegzetes erkélyek drámai látványt nyújtanak esőben; csodálja meg az építészetet a fák alatti védettebb helyekről vagy egy esernyő alól.",
+                "ro": "Balcoanele distinctive oferă o vedere dramatică în ploaie; admirați arhitectura dintr-un loc protejat sub copaci sau sub umbrelă.",
+                "en": "The striking balconies offer a dramatic sight in the rain; observe the unique architecture from a sheltered spot under the nearby trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Créteil Soleil",
+                "hu": "Créteil Soleil",
+                "ro": "Créteil Soleil",
+                "en": "Créteil Soleil"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss für einen Regentag; schlendern Sie durch die zahlreichen Geschäfte und Cafés in der trockenen Passage des Einkaufszentrums.",
+                "hu": "Tökéletes befejezés egy esős napra; barangoljon a számos üzlet és kávézó között a bevásárlóközpont teljesen fedett és száraz passzázsában.",
+                "ro": "Finalul perfect pentru o zi ploioasă; plimbați-vă prin numeroasele magazine și cafenele în pasajul uscat al centrului comercial.",
+                "en": "The perfect end to a rainy day; wander through the many shops and cafes in the completely dry passage of the shopping center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintermorgen am Rathaus und wärmen Sie sich danach im MAC auf. Mittags bietet der See eine klare, kalte Luft, die ideal für einen kurzen Spaziergang zum Haus der Natur ist. Am Nachmittag bewundern Sie die verschneite oder frostige Architektur von Les Choux. Den Abend verbringen Sie vor der frühen Dunkelheit im gemütlichen Einkaufszentrum Créteil Soleil.",
+            "hu": "Kezdje a téli reggelt a Városházánál, majd melegedjen fel a közeli MAC kulturális termeiben. Délben a tó tiszta, hideg levegőt kínál, ami ideális egy gyors sétához a Természet Házáig. Délután csodálja meg a Les Choux deresedő épületeit. Az estét a korai sötétedés elől menekülve töltse a Créteil Soleil barátságos üzleteiben.",
+            "ro": "Începeți dimineața de iarnă la Primărie, apoi încălziți-vă în sălile culturale de la MAC. La prânz, lacul oferă un aer rece și curat, ideal pentru o scurtă plimbare. După-amiaza, admirați arhitectura înghețată de la Les Choux. Încheiați seara înainte de lăsarea întunericului în confortabilul centru comercial Créteil Soleil.",
+            "en": "Start your winter morning at City Hall, then warm up in the nearby MAC galleries. At noon, the lake offers crisp, cold air ideal for a short walk to the House of Nature. In the afternoon, admire the frosted architecture of Les Choux. Spend your evening sheltered from the early darkness in the cozy atmosphere of Créteil Soleil mall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Créteil",
+                "hu": "Créteil Városháza",
+                "ro": "Primăria Créteil",
+                "en": "Créteil City Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im Freien; tragen Sie warme Kleidung, da der Wind auf dem offenen Platz vor dem Gebäude im Winter sehr schneidend sein kann.",
+                "hu": "Rövid megálló a szabadban; öltözzön rétegesen, mert a városháza előtti nyitott téren a téli szél nagyon metsző lehet a reggeli órákban.",
+                "ro": "O oprire scurtă în aer liber; purtați haine groase, deoarece vântul de pe platforma deschisă din fața clădirii poate fi tăios iarna.",
+                "en": "A short outdoor stop; wear warm layers as the winter wind on the open plaza in front of the building can be quite biting in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Kunst und Kultur",
+                "hu": "Művészetek és Kultúra Háza",
+                "ro": "Casa Artelor și Culturii",
+                "en": "House of Arts and Culture"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen warmen Ort, um die Kälte zu vergessen; die Innenräume sind gut beheizt und bieten spannende kulturelle Einblicke ohne Frostbeulen.",
+                "hu": "Használja ezt a meleg helyet a hideg elfelejtésére; a belső terek fűtöttek, így fagyoskodás nélkül élvezheti az izgalmas kulturális programokat.",
+                "ro": "Folosiți acest spațiu cald pentru a uita de frig; interioarele sunt bine încălzite și oferă programe culturale interesante fără disconfort termic.",
+                "en": "Use this warm space to escape the cold; the interiors are well-heated and offer exciting cultural insights without any winter shivering."
+              }
+            },
+            {
+              "name": {
+                "de": "See von Créteil",
+                "hu": "Créteil-tó",
+                "ro": "Lacul Créteil",
+                "en": "Lake Créteil"
+              },
+              "tip_5lang": {
+                "de": "Der See ist im Winter oft windig; ein Schal und Handschuhe sind unerlässlich für den Spaziergang entlang der Uferpromenade am Mittag.",
+                "hu": "A tópart télen gyakran szeles; egy sál és kesztyű elengedhetetlen a déli sétához a vízparti sétányon a jeges fuvallatok ellen.",
+                "ro": "Malul lacului este adesea vântos iarna; fularul și mănușile sunt esențiale pentru plimbarea de la prânz pe faleza înghețată.",
+                "en": "The lakeside is often windy in winter; a scarf and gloves are essential for your midday walk along the waterfront promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Natur",
+                "hu": "Természet Háza",
+                "ro": "Casa Naturii",
+                "en": "House of Nature"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, informativer Stopp im Trockenen; genießen Sie den Ausblick auf den kargen Wintersee durch die großen Glasfronten des Hauses.",
+                "hu": "Rövid, informatív megálló zárt térben; csodálja meg a téli tó kopár, de fenséges látványát a ház nagy üvegfelületein keresztül.",
+                "ro": "O oprire scurtă și informativă în interior; admirați vederea lacului înghețat prin vitrinele mari ale Casei Naturii.",
+                "en": "A short, informative indoor stop; admire the view of the stark winter lake through the large glass windows of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Choux de Créteil",
+                "hu": "Les Choux de Créteil",
+                "ro": "Les Choux de Créteil",
+                "en": "Les Choux de Créteil"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im klaren Winterlicht besonders scharf; achten Sie auf glatte Stellen auf den Gehwegen zwischen den Wohnblöcken.",
+                "hu": "Az építészet a tiszta téli fényben különösen élesnek tűnik; ügyeljen a jeges foltokra a lakótömbök közötti járdákon és lépcsőkön.",
+                "ro": "Arhitectura pare deosebit de clară în lumina rece de iarnă; atenție la porțiunile cu gheață de pe trotuarele dintre blocuri.",
+                "en": "The architecture looks particularly sharp in the clear winter light; watch out for icy patches on the sidewalks between the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Créteil Soleil",
+                "hu": "Créteil Soleil",
+                "ro": "Créteil Soleil",
+                "en": "Créteil Soleil"
+              },
+              "tip_5lang": {
+                "de": "Da es um 17:00 Uhr dunkel wird, ist dieses helle Einkaufszentrum der perfekte Ort, um den Tag gemütlich bei einem heißen Getränk ausklingen zu lassen.",
+                "hu": "Mivel 17:00-kor sötétedik, ez a fényes központ tökéletes hely a nap befejezésére egy forró ital mellett, távol a kinti sötétségtől.",
+                "ro": "Deoarece se întunecă la ora 17:00, acest centru luminos este locul perfect pentru a încheia ziua cu o băutură caldă.",
+                "en": "As it gets dark by 17:00, this bright shopping center is the perfect place to end your day comfortably with a hot drink indoors."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpáros utazása a lenyűgöző Les Choux tornyoknál kezdődik, áthaladva a Parc de la Brèche zöld folyosóján. Délben tekerjen a városháza felé, és élvezze a szelet a hatalmas Lac de Créteil partján. Délután folytassa útját a történelmi Église Saint-Christophe-hoz, és zárja a napot a nyugodt Île de la Guyère szigeten.",
         "ro": "Călătoria pe bicicletă începe la uimitoarele turnuri Les Choux, trecând prin coridorul verde Parc de la Brèche. La prânz, pedalați spre Primărie și bucurați-vă de briza lacului Créteil. După-amiaza continuă spre istorica Biserică Saint-Christophe, încheindu-se cu o evadare senină de seară pe Insula Guyère.",
         "en": "Your cycling journey starts at the astonishing Les Choux towers, cruising through the green corridor of Parc de la Brèche. Around noon, pedal towards the Hôtel de Ville and enjoy a breezy ride alongside the massive Lac de Créteil. Your afternoon continues to the historic Église Saint-Christophe, concluding with a serene evening escape on Île de la Guyère."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie bei Les Choux und achten Sie auf rutschiges Kopfsteinpflaster. Mittags führt die Tour durch den Parc de la Brèche zum Rathaus, wo Sie unter Vordächern Schutz finden. Der See bietet im Regen eine ruhige Atmosphäre für eine schnelle Umrundung. Den Abend beenden Sie an der Kirche und auf der Insel Guyère, wobei Sie vorsichtig auf nassen Wegen fahren sollten.",
+            "hu": "Kezdjen a Les Choux-nál, ügyelve a csúszós útburkolatra. Délben a Brèche parkon át tekerjen a Városházáig, ahol az ereszek alatt talál menedéket. A tó esőben is nyugodt helyszín egy gyors körre. Az estét a templomnál és a Guyère-szigeten zárja, fokozott figyelemmel tekerve a vizes és faleveles ösvényeken.",
+            "ro": "Începeți la Les Choux și aveți grijă la carosabilul alunecos. La prânz, pedalați prin Parcul Brèche spre Primărie, unde puteți găsi adăpost. Lacul oferă o atmosferă liniștită pentru o tură rapidă pe ploaie. Încheiați seara la biserică și pe Insula Guyère, pedalând cu atenție sporită pe potecile ude.",
+            "en": "Start at Les Choux and be careful of slippery road surfaces. At noon, ride through Brèche Park to City Hall, where you can find shelter under the eaves. The lake offers a quiet atmosphere for a quick lap even in the rain. End your evening at the church and Guyère Island, cycling with extra caution on wet and leaf-covered paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Les Choux de Créteil",
+                "hu": "Les Choux de Créteil",
+                "ro": "Les Choux de Créteil",
+                "en": "Les Choux de Créteil"
+              },
+              "tip_5lang": {
+                "de": "Die Betonfassaden sehen im Regen imposant aus; fahren Sie langsam in den Kurven, da der Bodenbelag hier bei Nässe sehr rutschig sein kann.",
+                "hu": "A betonhomlokzatok impozánsak az esőben; kanyarodjon lassan, mivel az útburkolat itt nedves időben nagyon csúszóssá válhat a bicikliseknek.",
+                "ro": "Fațadele de beton arată impunător în ploaie; virați cu viteză redusă, deoarece pavajul poate deveni foarte alunecos când este ud.",
+                "en": "The concrete facades look imposing in the rain; take turns slowly as the road surface here can be very slippery for cyclists when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Brèche",
+                "hu": "Brèche Park",
+                "ro": "Parcul Brèche",
+                "en": "Brèche Park"
+              },
+              "tip_5lang": {
+                "de": "Die Parkwege können schlammig sein; nutzen Sie die befestigten Routen, um durch das Grün zum nächsten Ziel zu gelangen, ohne steckenzubleiben.",
+                "hu": "A park ösvényei sárosak lehetnek; használja a burkolt utakat a zöldövezeten keresztül, hogy tisztán érjen el a következő úticélhoz.",
+                "ro": "Potecile din parc pot fi noroioase; folosiți rutele pavate pentru a traversa zona verde fără a vă murdări bicicleta excesiv.",
+                "en": "The park paths can be muddy; stick to the paved routes through the greenery to reach your next destination without getting stuck in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Créteil",
+                "hu": "Créteil Városháza",
+                "ro": "Primăria Créteil",
+                "en": "Créteil City Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich am Eingang für eine kurze Pause vom Regen, bevor Sie die Fahrt zum windigen See fortsetzen.",
+                "hu": "Használja a bejárat melletti fedett részt egy rövid pihenőre az eső elől, mielőtt folytatná az utat a szeles tópart felé.",
+                "ro": "Folosiți zona acoperită de lângă intrare pentru o scurtă pauză de ploaie înainte de a continua drumul spre lacul vântos.",
+                "en": "Use the sheltered area near the entrance for a short break from the rain before continuing your ride toward the windy lakeside."
+              }
+            },
+            {
+              "name": {
+                "de": "See von Créteil",
+                "hu": "Créteil-tó",
+                "ro": "Lacul Créteil",
+                "en": "Lake Créteil"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf starken Seitenwind am Seeufer; tragen Sie eine gute Regenjacke, da der Wind das Wasser direkt auf den Radweg peitschen kann.",
+                "hu": "Ügyeljen az erős oldalszélre a tóparton; viseljen jó esőkabátot, mert a szél a vizet közvetlenül a bicikliútra korbácsolhatja.",
+                "ro": "Atenție la vântul lateral puternic de pe malul lacului; purtați o jachetă impermeabilă bună pentru a vă proteja de stropii aduși de vânt.",
+                "en": "Watch out for strong crosswinds along the lakeshore; wear a good raincoat as the wind can whip lake water directly onto the bike path."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Christophorus Kirche",
+                "hu": "Szent Kristóf Templom",
+                "ro": "Biserica Sfântul Cristofor",
+                "en": "Saint Christopher's Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und treten Sie ein, um die Stille zu genießen und Ihre Kleidung im Schutz der alten Steinmauern etwas zu trocknen.",
+                "hu": "Zárja le biztonságosan a biciklit és lépjen be a csendes templomba, hogy a vastag kőfalak védelmében egy kicsit megszárítsa ruházatát.",
+                "ro": "Parcați bicicleta în siguranță și intrați pentru a vă bucura de liniște și pentru a vă usca puțin hainele sub protecția zidurilor vechi.",
+                "en": "Lock your bike securely and step inside to enjoy the silence and dry off your clothes slightly under the protection of the old stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Guyère Insel",
+                "hu": "Guyère-sziget",
+                "ro": "Insula Guyère",
+                "en": "Guyère Island"
+              },
+              "tip_5lang": {
+                "de": "Die Brücken zur Insel können bei Nässe extrem rutschig sein; fahren Sie besonders vorsichtig und beenden Sie die Tour, bevor es zu dunkel wird.",
+                "hu": "A szigetre vezető hidak nedvesen rendkívül csúszósak lehetnek; tekerjen nagyon óvatosan, és fejezze be a túrát, mielőtt túl sötét lesz.",
+                "ro": "Podurile către insulă pot fi extrem de alunecoase când sunt ude; pedalați cu mare prudență și încheiați turul înainte de lăsarea serii.",
+                "en": "The bridges to the island can be extremely slippery when wet; cycle with great caution and finish your tour before it gets too dark."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die Tour bei Les Choux in der kalten Morgenluft. Mittags führt die Strecke durch den kahlen Parc de la Brèche zum Rathaus. Am See erwartet Sie eine steife Brise, die warme Handschuhe erfordert. Besuchen Sie am Nachmittag die Kirche für einen Moment der Wärme. Die Tour endet auf der Insel Guyère pünktlich zum Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "Kezdje a túrát a Les Choux-nál a csípős reggeli levegőben. Délben az út a kopár Brèche parkon át vezet a Városházáig. A tónál jeges szélre számítson, amihez meleg kesztyű szükséges. Délután látogasson el a templomba egy kis melegedésre. A túra a Guyère-szigeten ér véget, éppen a 17:00 óra körüli naplemente idején.",
+            "ro": "Începeți turul la Les Choux în aerul tăios al dimineții. La prânz, traseul trece prin parcul golaș Brèche spre Primărie. La lac vă așteaptă un vânt rece care necesită mănuși groase. După-amiaza, vizitați biserica pentru un moment de căldură. Turul se încheie pe Insula Guyère exact la apus, în jurul orei 17:00.",
+            "en": "Start your tour at Les Choux in the biting morning air. At noon, the route takes you through the bare Brèche Park to City Hall. At the lake, expect a stiff breeze that requires warm gloves. Visit the church in the afternoon for a moment of warmth. The tour ends on Guyère Island just in time for the sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Les Choux de Créteil",
+                "hu": "Les Choux de Créteil",
+                "ro": "Les Choux de Créteil",
+                "en": "Les Choux de Créteil"
+              },
+              "tip_5lang": {
+                "de": "Die markante Architektur wirkt im Winterfrost besonders skulptural; tragen Sie winddichte Kleidung für den Start Ihrer morgendlichen Radtour.",
+                "hu": "A jellegzetes építészet a téli fagyban különösen szoborszerű; viseljen szélálló ruházatot a reggeli kerékpártúra megkezdéséhez a tornyok között.",
+                "ro": "Arhitectura distinctivă pare deosebit de sculpturală în gerul iernii; purtați haine rezistente la vânt pentru începutul turului de dimineață.",
+                "en": "The unique architecture looks especially sculptural in the winter frost; wear windproof clothing for the start of your morning bike ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Brèche",
+                "hu": "Brèche Park",
+                "ro": "Parcul Brèche",
+                "en": "Brèche Park"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten weite Sichtachsen durch den Park; achten Sie auf gefrorene Stellen auf den Wegen, besonders im Schatten der Bäume.",
+                "hu": "A kopasz fák messzi kilátást engednek a parkon keresztül; ügyeljen a jeges foltokra az utakon, különösen a fák árnyékos oldalán.",
+                "ro": "Copacii golași permit o vizibilitate mare prin parc; atenție la porțiunile înghețate de pe poteci, în special în zonele umbrite.",
+                "en": "The bare trees allow for long sightlines through the park; watch out for frozen patches on the paths, especially in shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Créteil",
+                "hu": "Créteil Városháza",
+                "ro": "Primăria Créteil",
+                "en": "Créteil City Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt, um die winterliche Stadtstimmung einzufangen; die gläserne Fassade reflektiert die blasse Wintersonne am späten Vormittag.",
+                "hu": "Gyors megálló a téli városi hangulat elcsípéséhez; az üveghomlokzat szépen veri vissza a bágyadt téli napsütést a késő délelőtti órákban.",
+                "ro": "O oprire rapidă pentru a surprinde atmosfera de iarnă a orașului; fațada de sticlă reflectă soarele palid de iarnă spre prânz.",
+                "en": "A quick stop to capture the winter city vibe; the glass facade beautifully reflects the pale winter sun in the late morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "See von Créteil",
+                "hu": "Créteil-tó",
+                "ro": "Lacul Créteil",
+                "en": "Lake Créteil"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am See ist im Winter besonders kalt; treten Sie kräftig in die Pedale, um warm zu bleiben, während Sie die frostige Uferpromenade befahren.",
+                "hu": "A tavi szél télen különösen hideg; tekerjen tempósan, hogy melegen tartsa magát, miközben a fagyos vízparti sétányon halad végig.",
+                "ro": "Vântul de la lac este deosebit de rece iarna; pedalați viguros pentru a vă menține căldura în timp ce parcurgeți faleza înghețată.",
+                "en": "The lake wind is especially cold in winter; pedal briskly to stay warm while navigating the frosty waterfront promenade at noon."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Christophorus Kirche",
+                "hu": "Szent Kristóf Templom",
+                "ro": "Biserica Sfântul Cristofor",
+                "en": "Saint Christopher's Church"
+              },
+              "tip_5lang": {
+                "de": "Ein willkommener Ort der Ruhe und des Schutzes vor der Kälte; bewundern Sie das alte Mauerwerk, bevor das Tageslicht am Nachmittag schwindet.",
+                "hu": "A nyugalom és a hideg elleni védelem vágyott helyszíne; csodálja meg a régi falakat, mielőtt a délutáni fények végleg elhalványulnak.",
+                "ro": "Un loc binevenit de liniște și protecție împotriva frigului; admirați zidăria veche înainte ca lumina zilei să scadă după-amiaza.",
+                "en": "A welcome place of peace and shelter from the cold; admire the ancient stonework before the afternoon daylight begins to fade away."
+              }
+            },
+            {
+              "name": {
+                "de": "Guyère Insel",
+                "hu": "Guyère-sziget",
+                "ro": "Insula Guyère",
+                "en": "Guyère Island"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour vor 17:00 Uhr; die Insel wird im Winter früh dunkel und die Temperaturen sinken nach Sonnenuntergang rapide ab.",
+                "hu": "Fejezze be a túrát 17:00 előtt; a szigeten télen korán sötétedik, és a hőmérséklet a naplemente után hirtelen és jelentősen lecsökken.",
+                "ro": "Încheiați turul înainte de ora 17:00; pe insulă se întunecă devreme iarna, iar temperaturile scad brusc după apusul soarelui.",
+                "en": "Finish your tour before 17:00; the island gets dark early in winter and temperatures drop rapidly immediately after the sun sets."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje Párizs szívében, a Palais de Justice és a Notre-Dame fenségének megtekintésével. Hajtson kelet felé, hogy délben egy festői sétát tegyen a Marne partján. Délután Créteil, a Les Choux és a tó lenyűgöző városi táját fedezheti fel, végül este egy békés látogatással zárja a napot a középkori Église Saint-Christophe-nál.",
         "ro": "Începeți în inima Parisului asistând la măreția Palais de Justice și Notre-Dame. Conduceți spre suburbiile estice pentru o plimbare pitorească la prânz de-a lungul Marne. După-amiaza trece la peisajul urban fascinant din Créteil, la Les Choux și lac, terminând cu o vizită liniștită de seară la biserica medievală Saint-Christophe.",
         "en": "Begin in the heart of Paris witnessing the majesty of the Palais de Justice and Notre-Dame. Drive out towards the eastern suburbs for a midday scenic stroll along the Bords de la Marne. The afternoon shifts to the fascinating urban landscape of Créteil's Les Choux and the lake, finishing with a peaceful evening visit to the medieval Église Saint-Christophe."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Fahrt im Zentrum von Paris und genießen Sie den Blick auf den Justizpalast aus dem trockenen Auto. Mittags fahren Sie entlang der regnerischen Marne-Ufer nach Créteil. Besuchen Sie die Architektur von Les Choux und den See, während Sie bei Bedarf im Wagen bleiben können. Den Abend beenden Sie an der geschichtsträchtigen St. Christophorus Kirche im Stadtkern.",
+            "hu": "Kezdje az utat Párizs központjában, és csodálja meg az Igazságügyi Palotát a száraz autóból. Délben az esős Marne-parton autózzon Créteil felé. Látogasson el a Les Choux-hoz és a tóhoz, ahol szükség esetén a kocsiból is gyönyörködhet. Az estét a történelmi Szent Kristóf templomnál zárja a város szívében, kerülve a nagyobb pocsolyákat.",
+            "ro": "Începeți călătoria în centrul Parisului și admirați Palatul de Justiție din confortul mașinii. La prânz, conduceți pe malul ploios al râului Marne spre Créteil. Vizitați arhitectura Les Choux și lacul, putând rămâne în vehicul dacă plouă torențial. Încheiați seara la biserica istorică Sfântul Cristofor din centrul orașului.",
+            "en": "Start your journey in central Paris, enjoying the view of the Palace of Justice from your dry car. At noon, drive along the rainy banks of the Marne toward Créteil. Visit the Les Choux architecture and the lake, staying inside the vehicle if the downpour gets too heavy. End your evening at the historic Saint Christopher's Church in the heart of the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Justizpalast",
+                "hu": "Igazságügyi Palota",
+                "ro": "Palatul de Justiție",
+                "en": "Palace of Justice"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die imposante Fassade bequem von Ihrem Autositz aus; Parken ist schwierig, also ist ein kurzer Blick während der Fahrt ideal bei Regen.",
+                "hu": "Élvezze az impozáns homlokzatot kényelmesen az autójából; a parkolás nehézkes, így egy lassú elhajtás a legjobb választás esős időben.",
+                "ro": "Admirați fațada impunătoare confortabil din scaunul mașinii; parcarea este dificilă, deci o privire scurtă din mers este ideală pe ploaie.",
+                "en": "Enjoy the imposing facade comfortably from your car seat; parking is difficult, so a slow drive-by is the ideal way to see it during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Notre-Dame",
+                "hu": "Notre-Dame Katedrális",
+                "ro": "Catedrala Notre-Dame",
+                "en": "Notre-Dame Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe in einer Tiefgarage, um trocken zur Kathedrale zu gelangen; die gotischen Türme wirken im Regen besonders mystisch.",
+                "hu": "Parkoljon egy közeli mélygarázsban, hogy szárazon érjen a katedrálishoz; a gótikus tornyok az esőben különösen misztikus látványt nyújtanak.",
+                "ro": "Parcați într-o parcare subterană din apropiere pentru a ajunge uscat la catedrală; turnurile gotice par deosebit de mistice în ploaie.",
+                "en": "Park in a nearby underground garage to reach the cathedral while staying dry; the Gothic towers look particularly mystical in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Marne",
+                "hu": "A Marne partja",
+                "ro": "Malurile râului Marne",
+                "en": "Banks of the Marne"
+              },
+              "tip_5lang": {
+                "de": "Eine malerische Fahrt entlang des Flusses; genießen Sie die Aussicht auf das Wasser durch die Scheibenwischer, ohne nass zu werden.",
+                "hu": "Gleccseres autózás a folyó mentén; élvezze a kilátást a vízre az ablaktörlőkön keresztül anélkül, hogy ki kellene szállnia a szakadó esőben.",
+                "ro": "O plimbare pitorească cu mașina de-a lungul râului; bucurați-vă de vederea apei prin ștergătoarele de parbriz fără a vă uda picioarele.",
+                "en": "A scenic drive along the river; enjoy the view of the water through your windshield wipers without needing to step out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Choux de Créteil",
+                "hu": "Les Choux de Créteil",
+                "ro": "Les Choux de Créteil",
+                "en": "Les Choux de Créteil"
+              },
+              "tip_5lang": {
+                "de": "Sie können direkt an der Straße parken, um diese einzigartigen Wohntürme zu bewundern; die grauen Betonstrukturen passen perfekt zum Regenwetter.",
+                "hu": "Közvetlenül az utcán parkolhat, hogy megcsodálja ezeket az egyedi tornyokat; a szürke betonstruktúrák tökéletesen illenek az esős időhöz.",
+                "ro": "Puteți parca direct pe stradă pentru a admira aceste turnuri unice; structurile de beton gri se potrivesc perfect cu vremea ploioasă.",
+                "en": "You can park directly on the street to admire these unique towers; the grey concrete structures fit perfectly with the moody, rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "See von Créteil",
+                "hu": "Créteil-tó",
+                "ro": "Lacul Créteil",
+                "en": "Lake Créteil"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze in der Nähe des Wassers; ein kurzer Spaziergang mit einem stabilen Schirm lohnt sich für die frische Luft am See.",
+                "hu": "A víz közelében több parkolóhely is található; egy rövid séta egy stabil esernyővel megéri a friss levegőért és a tavi panorámáért.",
+                "ro": "Există parcări în apropierea apei; o scurtă plimbare cu o umbrelă stabilă merită pentru aerul curat de pe malul lacului.",
+                "en": "There are parking spaces close to the water; a short walk with a sturdy umbrella is worth it for the fresh air and the lake panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Christophorus Kirche",
+                "hu": "Szent Kristóf Templom",
+                "ro": "Biserica Sfântul Cristofor",
+                "en": "Saint Christopher's Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour an dieser historischen Kirche; die alten Steine wirken im nassen Zustand sehr dunkel und geschichtsträchtig.",
+                "hu": "Zárja a túrát ennél a történelmi templomnál; a régi kövek nedvesen sötétebbnek és még inkább múltidézőnek tűnnek az esti fényben.",
+                "ro": "Încheiați turul la această biserică istorică; pietrele vechi par foarte întunecate și pline de istorie atunci când sunt ude.",
+                "en": "End your tour at this historic church; the ancient stones look very dark and full of history when they are wet in the evening light."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre winterliche Spritztour im Herzen von Paris. Mittags fahren Sie im beheizten Auto entlang der Marne nach Créteil, wo Sie die klare Luft am Flussufer genießen können. Besuchen Sie die beeindruckenden Choux-Türme und den frostigen See am Nachmittag. Beenden Sie den Tag an der St. Christophorus Kirche, bevor die winterliche Dunkelheit gegen 17:00 Uhr hereinbricht.",
+            "hu": "Kezdje téli autós körútját Párizs szívében. Délben a fűtött kocsiból csodálja meg a Marne-partot Créteil felé haladva, ahol a folyóparti friss levegőt is élvezheti. Délután látogasson el a lenyűgöző Choux-tornyokhoz és a fagyos tóhoz. Zárja a napot a Szent Kristóf templomnál, mielőtt 17:00 óra körül beköszönt a téli sötétség.",
+            "ro": "Începeți turul de iarnă cu mașina în inima Parisului. La prânz, conduceți în mașina încălzită pe malul râului Marne spre Créteil. Vizitați impresionantele turnuri Choux și lacul înghețat după-amiaza. Încheiați ziua la biserica Sfântul Cristofor înainte ca întunericul de iarnă să se lase în jurul orei 17:00.",
+            "en": "Start your winter car tour in the heart of Paris. At noon, drive in your heated vehicle along the Marne toward Créteil, enjoying the crisp riverside air. Visit the impressive Choux towers and the frosty lake in the afternoon. End your day at Saint Christopher's Church before the winter darkness sets in around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Justizpalast",
+                "hu": "Igazságügyi Palota",
+                "ro": "Palatul de Justiție",
+                "en": "Palace of Justice"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die prachtvolle Architektur aus der Wärme Ihres Autos; im Winter ist die Sicht auf die Fassaden durch die kahlen Bäume oft besser.",
+                "hu": "Csodálja meg a pompás építészetet az autó melegéből; télen a homlokzatokra nyíló kilátás a kopár fák miatt gyakran még jobb is.",
+                "ro": "Admirați arhitectura splendidă din căldura mașinii; iarna, vizibilitatea asupra fațadelor este adesea mai bună datorită copacilor golași.",
+                "en": "Admire the splendid architecture from the warmth of your car; in winter, visibility of the facades is often even better due to the bare trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Notre-Dame",
+                "hu": "Notre-Dame Katedrális",
+                "ro": "Catedrala Notre-Dame",
+                "en": "Notre-Dame Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die Kathedrale wirkt im klaren Winterlicht besonders majestätisch; ein kurzer Stopp für ein Foto lohnt sich trotz der Kälte im Freien.",
+                "hu": "A katedrális a tiszta téli fényben különösen fenségesnek tűnik; egy rövid megálló egy fotó erejéig megéri a kinti hideg ellenére is.",
+                "ro": "Catedrala pare deosebit de maiestuoasă în lumina clară de iarnă; o scurtă oprire pentru o fotografie merită în ciuda frigului de afară.",
+                "en": "The cathedral looks especially majestic in the clear winter light; a short stop for a photo is worth it despite the cold temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Marne",
+                "hu": "A Marne partja",
+                "ro": "Malurile râului Marne",
+                "en": "Banks of the Marne"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt am Ufer bietet schöne winterliche Ausblicke; halten Sie an einem Aussichtspunkt kurz an, um die frostige Flusslandschaft zu bewundern.",
+                "hu": "A parti autózás szép téli kilátást nyújt; álljon meg egy rövid időre egy kilátópontnál, hogy megcsodálja a fagyos folyóparti tájat.",
+                "ro": "Drumul pe malul râului oferă vederi frumoase de iarnă; opriți scurt la un punct de belvedere pentru a admira peisajul fluvial înghețat.",
+                "en": "The riverside drive offers beautiful winter views; stop briefly at a viewpoint to admire the frosty river landscape from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Choux de Créteil",
+                "hu": "Les Choux de Créteil",
+                "ro": "Les Choux de Créteil",
+                "en": "Les Choux de Créteil"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor den markanten Gebäuden; die klaren Linien der Betonbalkone kommen im bleichen Winterlicht besonders gut zur Geltung.",
+                "hu": "Parkoljon közvetlenül a jellegzetes épületek előtt; a betonerkélyek tiszta vonalai a bágyadt téli fényben különösen jól érvényesülnek.",
+                "ro": "Parcați direct în fața clădirilor distinctive; liniile clare ale balcoanelor de beton ies în evidență în lumina palidă a iernii.",
+                "en": "Park directly in front of the striking buildings; the clear lines of the concrete balconies stand out beautifully in the pale winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "See von Créteil",
+                "hu": "Créteil-tó",
+                "ro": "Lacul Créteil",
+                "en": "Lake Créteil"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über den winterlichen See; im Auto bleiben Sie vor dem kalten Wind geschützt, der oft über das Wasser weht.",
+                "hu": "Élvezze a tágas kilátást a téli tóra; az autóban ülve védve marad a jéghideg széltől, amely gyakran végigsöpör a vízfelszín felett.",
+                "ro": "Bucurați-vă de vederea largă asupra lacului de iarnă; în mașină rămâneți protejat de vântul rece care suflă adesea peste apă.",
+                "en": "Enjoy the expansive view over the winter lake; staying in the car keeps you protected from the cold wind that often sweeps across the water."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Christophorus Kirche",
+                "hu": "Szent Kristóf Templom",
+                "ro": "Biserica Sfântul Cristofor",
+                "en": "Saint Christopher's Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag vor 17:00 Uhr an der Kirche; die warme Beleuchtung im Inneren bietet einen schönen Kontrast zur frühen winterlichen Dunkelheit.",
+                "hu": "Fejezze be a napot 17:00 előtt a templomnál; a belső tér meleg fényei szép kontrasztot alkotnak a korai téli sötétséggel kint.",
+                "ro": "Încheiați ziua înainte de ora 17:00 la biserică; luminile calde din interior oferă un contrast frumos cu întunericul timpuriu de afară.",
+                "en": "Finish your day before 17:00 at the church; the warm interior lighting offers a beautiful contrast to the early winter darkness outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

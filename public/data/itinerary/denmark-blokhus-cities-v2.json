@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a friss tengeri levegő belélegzésével a tágas Blokhus Strandon. Délben fedezze fel a történelmi dűnéket, és élvezze a lélegzetelállító panorámát az öreg ágyús kilátókból. Délután a természetről váltson a kultúrára: látogassa meg a hatalmas homokvárat és a lenyűgöző Papírművészeti Múzeumot. Ahogy közeledik az este, tegyen egy békés sétát Anne Just kertjeiben, mielőtt a Hune templomnál zárná a napot.",
         "ro": "Începeți dimineața respirând aerul proaspăt de mare pe plaja extinsă Blokhus Strand. La prânz, explorați dunele istorice și bucurați-vă de panoramele uluitoare de la vechile puncte de observație cu tunuri. După-amiaza, treceți de la natură la cultură vizitând imensul castel de nisip și Muzeul de Artă a Hârtiei. Pe seară, faceți o plimbare liniștită prin grădinile Anne Just, încheind ziua la Biserica Hune.",
         "en": "Start your morning breathing in the fresh sea air at the expansive Blokhus Strand. Midday, explore the historic dunes and enjoy breathtaking panoramas from the old cannon vantage points. In the afternoon, shift from nature to culture by visiting the towering sandcastle and the exquisite Museum for Papirkunst. As evening nears, take a peaceful stroll through Anne Just's vibrant gardens before ending your day at the historic Hune Kirke."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Blokhus beginnt an der rauen Küste, wo die Wellen der Nordsee besonders imposant wirken. Mittags bietet das Papiermuseum einen perfekten, trockenen Rückzugsort voller Kunst. Am Nachmittag leuchten die Farben in Anne Justs Gärten im Regen intensiver. Der Tag endet friedlich in der Hune Kirche, während draußen der Regen gegen die alten Fenster prasselt.",
+            "hu": "A szeles, esős nap a tengerparton indul, ahol az elemek ereje igazán lenyűgöző. Délben a Papírművészeti Múzeum nyújt menedéket a kreatív alkotások között. Délután Anne Just kertjei az esőben is különleges hangulatot árasztanak, a növények illata ilyenkor a legintenzívebb. Az estet a Hune templom csendje és védelme zárja, ahol megpihenhetünk a városi séta után a viharos időben.",
+            "ro": "O zi ploioasă în Blokhus începe pe plajă, unde valurile mării sunt spectaculoase sub cerul gri. La prânz, Muzeul de Artă a Hârtiei oferă un adăpost perfect și inspirație artistică. După-amiaza, Grădinile Anne Just capătă culori vibrante în ploaie, oferind un decor poetic. Seara se încheie liniștit în Biserica Hune, un loc cald și primitor în timp ce afară plouă torențial pe străzile orașului.",
+            "en": "A rainy day in Blokhus begins at the wild coast, where the North Sea waves look particularly powerful. At noon, the Museum for Paper Art provides a perfect dry sanctuary filled with creativity. In the afternoon, the colors in Anne Just's gardens become more intense under the rain. The day ends peacefully inside Hune Church, offering a warm refuge while the rain beats against the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Blokhus Strand",
+                "hu": "Blokhus Strand",
+                "ro": "Plaja Blokhus",
+                "en": "Blokhus Strand"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatische Brandung der Nordsee unter dem Regen; tragen Sie unbedingt eine winddichte Regenjacke für den Spaziergang.",
+                "hu": "Figyeld meg a drámai hullámzást az esőben a parton; viselj szélálló esőkabátot, mert a szél a tenger felől igen erős lehet ilyenkor.",
+                "ro": "Observați valurile dramatice ale Mării Nordului sub ploaie; purtați neapărat o jachetă de ploaie rezistentă la vânt pentru această plimbare.",
+                "en": "Observe the dramatic surf of the North Sea under the rain; be sure to wear a windproof raincoat as the gusts can be very strong here."
+              }
+            },
+            {
+              "name": {
+                "de": "Blokhus Kanonudsigt (Süd)",
+                "hu": "Blokhus Ágyús Kilátó (Dél)",
+                "ro": "Punctul de Observație cu Tun (Sud)",
+                "en": "Blokhus Kanonudsigt (South)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die graue Nordsee von den Dünen aus; nutzen Sie die Kanonenrohre als Orientierung bei nebligem Regenwetter.",
+                "hu": "Élvezd a kilátást a szürke Északi-tengerre a dűnékről; a ködös, esős időben a történelmi ágyúk különleges fotótémát szolgáltatnak.",
+                "ro": "Bucurați-vă de priveliștea spre Marea Nordului de pe dune; folosiți tunurile ca punct de reper în condiții de ploaie și vizibilitate redusă.",
+                "en": "Enjoy the view of the grey North Sea from the dunes; use the historic cannons as a great photo backdrop even in misty, rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Blokhus Kanonudsigt (Nord)",
+                "hu": "Blokhus Ágyús Kilátó (Észak)",
+                "ro": "Punctul de Observație cu Tun (Nord)",
+                "en": "Blokhus Kanonudsigt (North)"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die nördliche Aussicht über die stürmische Küste; achten Sie auf den rutschigen Boden auf den sandigen Pfaden im Regen.",
+                "hu": "Fedezd fel az északi panorámát a viharos part felett; ügyelj a csúszós homokos ösvényekre az esőben a dűnék közötti séta során.",
+                "ro": "Explorați priveliștea nordică peste coasta furtunoasă; atenție la potecile de nisip care devin alunecoase pe timp de ploaie densă.",
+                "en": "Explore the northern view over the stormy coast; watch out for slippery conditions on the sandy paths during heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Die größte Sandburg der Welt",
+                "hu": "A Világ Legnagyobb Homokvára",
+                "ro": "Cel mai Mare Castel de Nisip din Lume",
+                "en": "Worlds Biggest Sandcastle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie, wie das Kunstwerk dem Regen trotzt; machen Sie ein schnelles Foto, bevor Sie unter dem nächsten Vordach Schutz suchen.",
+                "hu": "Csodáld meg, hogyan áll ellen az alkotás az esőnek; készíts egy gyors fotót, mielőtt a legközelebbi előtető alá húzódnál a zápor elől.",
+                "ro": "Admirați cum această operă de artă rezistă ploii; faceți o fotografie rapidă înainte de a căuta adăpost sub cea mai apropiată streșină.",
+                "en": "Admire how this massive artwork withstands the rain; take a quick photo before seeking shelter under the nearest covered area nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Papierkunst",
+                "hu": "Papírművészeti Múzeum",
+                "ro": "Muzeul de Artă a Hârtiei",
+                "en": "Museum for Papirkunst"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die filigranen Papierwelten ein; dies ist der perfekte Ort, um bei starkem Regen längere Zeit im Trockenen zu verweilen.",
+                "hu": "Merülj el a filigrán papírvilágok látványában; ez a tökéletes hely, hogy tartós eső esetén hosszabb időt tölts el fedett és meleg helyen.",
+                "ro": "Explorați lumile delicate din hârtie; acesta este locul perfect pentru a petrece mai mult timp la adăpost în timpul unei ploi torențiale.",
+                "en": "Dive into the delicate paper worlds; this is the perfect spot to spend extended time indoors and dry during a heavy rainstorm."
+              }
+            },
+            {
+              "name": {
+                "de": "Anne Justs Gärten",
+                "hu": "Anne Just Kertjei",
+                "ro": "Grădinile Anne Just",
+                "en": "Anne Justs Have"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die frischen Düfte des feuchten Gartens; besuchen Sie das Gewächshaus für eine trockene Pause inmitten exotischer Pflanzen.",
+                "hu": "Érezd a nedves kert friss illatait; látogasd meg az üvegházat egy száraz szünetre az egzotikus növények között a virágzó ágyások mellett.",
+                "ro": "Experimentați aromele proaspete ale grădinii umede; vizitați sera pentru o pauză uscată în mijlocul plantelor exotice deosebite.",
+                "en": "Experience the fresh scents of the damp garden; visit the greenhouse for a dry break surrounded by exotic plants and lush greenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Hune Kirke",
+                "hu": "Hune Templom",
+                "ro": "Biserica Hune",
+                "en": "Hune Kirke"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die alten Runensteine im Inneren der Kirche; nutzen Sie die Stille des Kirchenraums, um Ihre Kleidung etwas zu trocknen.",
+                "hu": "Tekintsd meg a templom belsejében található ősi rúnaköveket; használd ki a belső tér nyugalmát, hogy megszárítsd kicsit az esőkabátodat.",
+                "ro": "Admirați pietrele runice antice din interiorul bisericii; folosiți liniștea spațiului pentru a vă usca puțin hainele după plimbare.",
+                "en": "Admire the ancient runestones inside the church; use the quiet interior space to dry off a bit and reflect after your rainy walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterspaziergang in Blokhus führt durch eine frostige Dünenlandschaft unter klarem, kaltem Licht. Am Vormittag wärmt der Besuch der Hune Kirche die Seele. Mittags bietet das Papiermuseum gemütliche Wärme und faszinierende Kunst. Da die Sonne bereits gegen 16:30 Uhr untergeht, genießen wir das letzte Licht am weiten Strand, bevor wir uns in ein gemütliches Café zurückziehen.",
+            "hu": "A téli séta Blokhusban fagyos dűnék között vezet a tiszta, hideg fényben. Délelőtt a Hune templom csendje melengeti a lelket. Délben a Papírművészeti Múzeum kínál otthonos meleget és lenyűgöző kiállításokat. Mivel a nap már 16:30 körül nyugszik, az utolsó fényeket a végtelen tengerparton élvezzük, mielőtt behúzódnánk egy barátságos helyi kávézóba a hideg elől.",
+            "ro": "O plimbare de iarnă în Blokhus trece prin dune înghețate sub o lumină rece și clară. Dimineața, vizita la Biserica Hune oferă căldură sufletească. La prânz, Muzeul de Artă a Hârtiei asigură confort și artă fascinantă. Deoarece soarele apune în jurul orei 16:30, ne bucurăm de ultima lumină pe plaja vastă înainte de a ne retrage într-o cafenea primitoare.",
+            "en": "A winter walk in Blokhus leads through frosty dunes under clear, cold light. In the morning, a visit to Hune Church warms the soul. At noon, the Museum for Paper Art offers cozy warmth and fascinating exhibits. Since the sun sets around 4:30 PM, we enjoy the last light on the vast beach before retreating to a friendly local café to escape the winter chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Blokhus Strand",
+                "hu": "Blokhus Strand",
+                "ro": "Plaja Blokhus",
+                "en": "Blokhus Strand"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die magische Stille der gefrorenen Nordseeküste; nehmen Sie eine Thermoskanne mit heißem Tee mit, um sich aufzuwärmen.",
+                "hu": "Éld át a fagyos tengerpart varázslatos csendjét; vigyél magaddal egy termosz forró teát, hogy felmelegedhess a jéghideg szélben.",
+                "ro": "Experimentați liniștea magică a coastei înghețate; luați un termos cu ceai fierbinte pentru a vă încălzi în timpul plimbării pe mal.",
+                "en": "Experience the magical silence of the frozen coastline; bring a thermos with hot tea to keep warm against the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Blokhus Kanonudsigt (Süd)",
+                "hu": "Blokhus Ágyús Kilátó (Dél)",
+                "ro": "Punctul de Observație cu Tun (Sud)",
+                "en": "Blokhus Kanonudsigt (South)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die schneebedeckten Dünen; tragen Sie mehrere Schichten Kleidung gegen den schneidenden Winterwind.",
+                "hu": "Élvezd a kilátást a hóval borított dűnék felett; öltözz rétegesen a metsző téli szél ellen, amely ezen a nyitott ponton igen erős.",
+                "ro": "Bucurați-vă de priveliștea asupra dunelor înzăpezite; purtați mai multe straturi de haine împotriva vântului tăios de iarnă.",
+                "en": "Enjoy the panoramic view over the snow-covered dunes; wear multiple layers of clothing against the sharp winter wind at this high point."
+              }
+            },
+            {
+              "name": {
+                "de": "Blokhus Kanonudsigt (Nord)",
+                "hu": "Blokhus Ágyús Kilátó (Észak)",
+                "ro": "Punctul de Observație cu Tun (Nord)",
+                "en": "Blokhus Kanonudsigt (North)"
+              },
+              "tip_5lang": {
+                "de": "Bestrahlen Sie die eisigen Wellen im harten Winterlicht; achten Sie auf glatte Stellen auf den Wegen zum Aussichtspunkt.",
+                "hu": "Csodáld meg a jeges hullámokat a kemény téli fényben; ügyelj a csúszós foltokra az ösvényeken a kilátóhoz vezető út során.",
+                "ro": "Observați valurile înghețate în lumina crudă a iernii; atenție la porțiunile alunecoase de pe potecile către punctul de observație.",
+                "en": "Observe the icy waves in the harsh winter light; watch out for slippery patches on the paths leading up to the observation point."
+              }
+            },
+            {
+              "name": {
+                "de": "Die größte Sandburg der Welt",
+                "hu": "A Világ Legnagyobb Homokvára",
+                "ro": "Cel mai Mare Castel de Nisip din Lume",
+                "en": "Worlds Biggest Sandcastle"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wie Frost die Sandskulptur überzieht und ihr ein glitzerndes Aussehen verleiht; kommen Sie vor 16 Uhr für das beste Licht.",
+                "hu": "Nézd meg, ahogy a dér befedi a homokvárat, csillogó külsőt kölcsönözve neki; érkezz 16 óra előtt a legjobb fényviszonyokhoz.",
+                "ro": "Vedeți cum bruma acoperă castelul de nisip, oferindu-i un aspect sclipitor; veniți înainte de ora 16:00 pentru cea mai bună lumină.",
+                "en": "See how frost covers the sand sculpture, giving it a glittering appearance; arrive before 4 PM to catch the best winter daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Papierkunst",
+                "hu": "Papírművészeti Múzeum",
+                "ro": "Muzeul de Artă a Hârtiei",
+                "en": "Museum for Papirkunst"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf; besuchen Sie den Museumsshop für einzigartige handgemachte Geschenke für die Winterzeit.",
+                "hu": "Melegedj fel a kiállítótermekben a kinti fagy után; látogasd meg a múzeumi boltot egyedi, kézzel készített téli ajándékokért.",
+                "ro": "Încălziți-vă în sălile de expoziție după frigul de afară; vizitați magazinul muzeului pentru cadouri unice lucrate manual pentru iarnă.",
+                "en": "Warm up in the exhibition halls after the outdoor chill; visit the museum shop for unique handmade gifts perfect for the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Anne Justs Gärten",
+                "hu": "Anne Just Kertjei",
+                "ro": "Grădinile Anne Just",
+                "en": "Anne Justs Have"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die architektonische Struktur des schlafenden Gartens; achten Sie auf die frühen Schließzeiten während der Wintermonate.",
+                "hu": "Csodáld meg az alvó kert építészeti szerkezetét a téli álom idején; ügyelj a téli hónapokban jellemző korábbi zárási időpontokra.",
+                "ro": "Admirați structura arhitecturală a grădinii în timpul somnului de iarnă; verificați orele de închidere timpurii din timpul iernii.",
+                "en": "Admire the architectural structure of the sleeping garden; be mindful of the earlier closing times during the cold winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Hune Kirke",
+                "hu": "Hune Templom",
+                "ro": "Biserica Hune",
+                "en": "Hune Kirke"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die andächtige Stille im warmen Kirchenschiff; dies ist ein idealer Ort, um die Dämmerung in Ruhe zu erwarten.",
+                "hu": "Élvezd az áhítatos csendet a templom meleg belső terében; ez az ideális hely, hogy nyugalomban várd meg a korai szürkületet.",
+                "ro": "Bucurați-vă de liniștea solemnă în interiorul călduros al bisericii; acesta este locul ideal pentru a aștepta apusul în liniște.",
+                "en": "Enjoy the prayerful silence inside the warm church nave; it is an ideal place to quietly wait for the early winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Kezdje kerékpáros kalandját a békés Hune templomnál és Anne Just csodálatos kertjeiben. Délben merüljön el a Papírművészeti Múzeum csodáiban és a rekordot döntő homokvárban. A délutánt tekeréssel töltse a gyönyörű partvidék felé, élvezve a széles Blokhus Strandot és az északi kilátót. Végül pedálozzon a Fårup Sommerland felé egy aktív nap izgalmas befejezéseként a dán természetben.",
         "ro": "Începeți aventura pe bicicletă la Biserica Hune și în grădinile vibrante ale Annei Just. La prânz, aprofundați minunile artistice la Muzeul Hârtiei și admirați uriașul castel de nisip. Petreceți-vă după-amiaza pedalând spre coasta frumoasă, bucurându-vă de plaja Blokhus și de punctul de observație nordic. În cele din urmă, mergeți cu bicicleta spre Fårup Sommerland pentru un final captivant.",
         "en": "Begin your cycling adventure at the serene Hune Kirke and the wonderfully vibrant gardens of Anne Just. By midday, delve into artistic wonders at the Museum for Papirkunst and marvel at the record-breaking sandcastle. Spend your afternoon pedaling to the beautiful coastline, enjoying the wide Blokhus Strand and the nearby northern cannon viewpoint. Finally, cycle towards Fårup Sommerland for a thrilling end to an active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Blokhus im Regen erfordert gute Vorbereitung, bietet aber einsame Wege. Wir starten an der Hune Kirche und radeln durch die feuchte Luft zu den Gärten von Anne Just. Das Papiermuseum ist der rettende Stopp für eine längere Pause im Trockenen. Trotz des Wetters ist die Fahrt zum Strand erfrischend, solange man auf den rutschigen Radwegen vorsichtig bleibt.",
+            "hu": "Az esős bringázás Blokhusban jó felszerelést igényel, de cserébe üres utakat kínál. A Hune templomtól indulunk, és a friss, párás levegőn tekerünk Anne Just kertjeihez. A Papírművészeti Múzeum a legjobb hely egy hosszabb pihenőre, ahol megszárítkozhatunk. A parti tekerés frissítő élmény, ha óvatosak maradunk a csúszóssá vált kerékpárutakon.",
+            "ro": "O plimbare cu bicicleta prin Blokhus pe ploaie necesită echipament bun, dar oferă trasee libere. Pornim de la Biserica Hune și pedalăm prin aerul umed spre Grădinile Anne Just. Muzeul de Artă a Hârtiei este oprirea salvatoare pentru o pauză lungă la uscat. În ciuda vremii, drumul spre plajă este revigorant dacă rămâneți prudenți pe pistele alunecoase.",
+            "en": "A bike tour through Blokhus in the rain requires good gear but offers quiet, empty paths. We start at Hune Church and cycle through the fresh, damp air to Anne Just's gardens. The Museum for Paper Art is the saving stop for a long dry break. Despite the weather, riding to the beach is refreshing, as long as you stay cautious on the slippery bike paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hune Kirke",
+                "hu": "Hune Templom",
+                "ro": "Biserica Hune",
+                "en": "Hune Kirke"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem Kircheneingang kurz Schutz vor dem Regen; prüfen Sie Ihre Bremsen, bevor Sie die Tour auf nassen Straßen fortsetzen.",
+                "hu": "Keress rövid menedéket a templom bejáratánál az eső elől; ellenőrizd a fékeidet, mielőtt folytatnád a túrát a vizes aszfalton.",
+                "ro": "Căutați un scurt adăpost la intrarea bisericii; verificați frânele înainte de a continua turul pe drumurile ude și alunecoase.",
+                "en": "Find brief shelter at the church entrance to escape the rain; check your brakes before continuing your tour on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Anne Justs Gärten",
+                "hu": "Anne Just Kertjei",
+                "ro": "Grădinile Anne Just",
+                "en": "Anne Justs Have"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter einen Baum und erkunden Sie die Gärten; der Regen bringt das Grün der Pflanzen besonders schön zur Geltung.",
+                "hu": "Támaszd le a bringát egy fa alá, és fedezd fel a kertet; az eső különösen szépen kiemeli a növények mélyzöld színeit.",
+                "ro": "Parcați bicicleta sub un copac și explorați grădinile; ploaia scoate în evidență verdele plantelor într-un mod spectaculos.",
+                "en": "Park your bike under a tree and explore the gardens; the rain highlights the lush greenery of the plants in a beautiful way."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Papierkunst",
+                "hu": "Papírművészeti Múzeum",
+                "ro": "Muzeul de Artă a Hârtiei",
+                "en": "Museum for Papirkunst"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Fahrradständer direkt am Eingang für einen schnellen Zugang zum Trockenen; genießen Sie einen heißen Kaffee im Café.",
+                "hu": "Használd a bejáratnál lévő tárolót, hogy gyorsan száraz helyre érj; igyál egy forró kávét a múzeum kávézójában a szünet alatt.",
+                "ro": "Folosiți suportul de biciclete de la intrare pentru acces rapid la adăpost; savurați o cafea fierbinte la cafeneaua muzeului.",
+                "en": "Use the bike rack right at the entrance for quick access to the dry indoors; enjoy a hot coffee at the museum's café during your break."
+              }
+            },
+            {
+              "name": {
+                "de": "Die größte Sandburg der Welt",
+                "hu": "A Világ Legnagyobb Homokvára",
+                "ro": "Cel mai Mare Castel de Nisip din Lume",
+                "en": "Worlds Biggest Sandcastle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über den sandigen Platz, der bei Regen matschig sein kann; machen Sie ein Foto von der beeindruckenden Struktur.",
+                "hu": "Tekerj óvatosan a homokos téren, amely az esőtől fellazulhat; készíts egy gyors fotót erről a hatalmas és lenyűgöző alkotásról.",
+                "ro": "Pedalați cu atenție pe terenul nisipos care poate deveni moale din cauza ploii; faceți o poză acestei structuri impresionante.",
+                "en": "Cycle carefully across the sandy square, which can get soft in the rain; take a photo of this impressive and massive structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Blokhus Strand",
+                "hu": "Blokhus Strand",
+                "ro": "Plaja Blokhus",
+                "en": "Blokhus Strand"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt auf dem festen Sand direkt am Wasser; achten Sie auf den starken Seitenwind, der das Lenken erschweren kann.",
+                "hu": "Élvezd a bringázást a kemény homokon közvetlenül a vízparton; ügyelj az erős oldalszélre, amely megnehezítheti a kormányzást.",
+                "ro": "Bucurați-vă de plimbarea pe nisipul tare de lângă apă; atenție la vântul lateral puternic care poate îngreuna controlul direcției.",
+                "en": "Enjoy riding on the firm sand right by the water's edge; be mindful of strong crosswinds that can make steering difficult."
+              }
+            },
+            {
+              "name": {
+                "de": "Blokhus Kanonudsigt (Nord)",
+                "hu": "Blokhus Ágyús Kilátó (Észak)",
+                "ro": "Punctul de Observație cu Tun (Nord)",
+                "en": "Blokhus Kanonudsigt (North)"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zum Aussichtspunkt ist bei Regen anstrengend, aber die Aussicht lohnt sich; nutzen Sie Schutzbleche an Ihrem Fahrrad.",
+                "hu": "Az emelkedő a kilátóhoz fárasztóbb az esőben, de a látvány kárpótol; használj sárvédőt a bringádon a felcsapódó víz ellen.",
+                "ro": "Urcarea spre punctul de observație este obositoare pe ploaie, dar merită; folosiți apărători de noroi la bicicletă pentru confort.",
+                "en": "The climb to the viewpoint is tougher in the rain, but the view is worth it; make sure to have mudguards on your bike for comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Fårup Sommerland",
+                "hu": "Fårup Sommerland",
+                "ro": "Fårup Sommerland",
+                "en": "Fårup Sommerland"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die überdachten Bereiche des Parks für eine Pause; stellen Sie sicher, dass Ihre Regenbekleidung für die Weiterfahrt trocken bleibt.",
+                "hu": "Látogasd meg a park fedett részeit egy pihenőre; ügyelj rá, hogy az esőruházatod száraz maradjon a túra következő szakaszához.",
+                "ro": "Vizitați zonele acoperite ale parcului pentru o pauză; asigurați-vă că echipamentul de ploaie rămâne uscat pentru drumul de întoarcere.",
+                "en": "Visit the covered areas of the park for a break; ensure your rain gear stays as dry as possible for the rest of your cycling trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Blokhus ist ein Abenteuer durch die klare Nordluft. Wir starten an der Hune Kirche und radeln durch die frostige Dünenlandschaft. Das Papiermuseum bietet die perfekte Gelegenheit, die kalten Finger aufzuwärmen. Am Strand fahren wir auf dem harten, gefrorenen Sand, während die tiefstehende Sonne die Landschaft verzaubert. Warme Handschuhe sind für diese Tour absolut unerlässlich.",
+            "hu": "A téli bringázás Blokhusban igazi kaland a friss északi levegőn. A Hune templomtól indulunk, és a fagyos dűnék között tekerünk. A Papírművészeti Múzeum kiváló alkalmat ad a kihűlt ujjak felmelegítésére. A tengerparton a kemény, fagyott homokon tekerhetünk, miközben az alacsonyan járó nap megvilágítja a tájat. A meleg kesztyű alapfeltétel ehhez a túrához.",
+            "ro": "Ciclismul de iarnă în Blokhus este o aventură prin aerul clar al nordului. Pornim de la Biserica Hune și pedalăm prin peisajul înghețat al dunelor. Muzeul de Artă a Hârtiei oferă ocazia perfectă pentru a vă încălzi mâinile. Pe plajă mergem pe nisipul tare și înghețat sub lumina soarelui de iarnă. Mănușile groase sunt absolut esențiale pentru acest tur.",
+            "en": "Winter biking in Blokhus is an adventure through the crisp northern air. We start at Hune Church and cycle through the frosty dune landscape. The Museum for Paper Art provides the perfect chance to warm up cold fingers. On the beach, we ride on the firm, frozen sand while the low sun casts a magical light. Warm gloves are absolutely essential for this tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hune Kirke",
+                "hu": "Hune Templom",
+                "ro": "Biserica Hune",
+                "en": "Hune Kirke"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein paar Aufwärmübungen vor dem Start; achten Sie auf Eisplatten auf den gepflasterten Wegen rund um die Kirche.",
+                "hu": "Végezz néhány bemelegítő gyakorlatot az indulás előtt; ügyelj a jégfoltokra a templom körüli kövezett utakon a hidegben.",
+                "ro": "Faceți câteva exerciții de încălzire înainte de start; atenție la porțiunile de gheață de pe drumurile pavate din jurul bisericii.",
+                "en": "Do some quick warm-up exercises before starting; watch out for ice patches on the paved paths around the church area."
+              }
+            },
+            {
+              "name": {
+                "de": "Anne Justs Gärten",
+                "hu": "Anne Just Kertjei",
+                "ro": "Grădinile Anne Just",
+                "en": "Anne Justs Have"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Stille des Gartens; steigen Sie bei glatten Wegen lieber ab und schieben Sie Ihr Fahrrad ein kurzes Stück.",
+                "hu": "Csodáld meg a kert téli csendjét; ha az ösvények jegesek, inkább szállj le és toljad a bringát egy rövid szakaszon a biztonságért.",
+                "ro": "Admirați liniștea de iarnă a grădinii; dacă potecile sunt alunecoase, este mai bine să coborâți și să mergeți pe lângă bicicletă.",
+                "en": "Admire the winter silence of the garden; if the paths are icy, it's safer to dismount and push your bike for a short distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Papierkunst",
+                "hu": "Papírművészeti Múzeum",
+                "ro": "Muzeul de Artă a Hârtiei",
+                "en": "Museum for Papirkunst"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine längere Aufwärmpause; prüfen Sie den Reifendruck, da kalte Luft diesen beeinflussen kann.",
+                "hu": "Használd ki a megállót egy hosszabb melegedésre; ellenőrizd a guminyomást, mivel a hideg levegő hatással lehet rá a túra során.",
+                "ro": "Folosiți această oprire pentru o pauză lungă de încălzire; verificați presiunea în pneuri, deoarece aerul rece o poate afecta.",
+                "en": "Use this stop for an extended warming break; check your tire pressure, as cold air can cause it to drop during your winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Die größte Sandburg der Welt",
+                "hu": "A Világ Legnagyobb Homokvára",
+                "ro": "Cel mai Mare Castel de Nisip din Lume",
+                "en": "Worlds Biggest Sandcastle"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die Burg im weichen Winterlicht; halten Sie nicht zu lange an, um nicht auszukühlen, während Sie das Kunstwerk betrachten.",
+                "hu": "Fotózd le a várat a lágy téli fényben; ne állj meg túl hosszú időre a nézelődéshez, nehogy túlságosan lehűlj a hideg szélben.",
+                "ro": "Fotografiați castelul în lumina blândă a iernii; nu staționați prea mult pentru a nu vă răci corpul în timp ce admirați opera.",
+                "en": "Photograph the castle in the soft winter light; don't stop for too long to avoid getting chilled while admiring the artwork."
+              }
+            },
+            {
+              "name": {
+                "de": "Blokhus Strand",
+                "hu": "Blokhus Strand",
+                "ro": "Plaja Blokhus",
+                "en": "Blokhus Strand"
+              },
+              "tip_5lang": {
+                "de": "Das Radfahren auf dem gefrorenen Sand ist ein einmaliges Erlebnis; tragen Sie ein Stirnband unter dem Helm gegen den eisigen Wind.",
+                "hu": "A fagyott homokon bringázni egyedülálló élmény; viselj fejpántot a sisak alatt a fagyos északi szél elleni védekezésül.",
+                "ro": "Ciclismul pe nisipul înghețat este o experiență unică; purtați o bentiță sub cască împotriva vântului înghețat de pe coastă.",
+                "en": "Cycling on the frozen sand is a unique experience; wear a headband under your helmet to protect against the biting icy wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Blokhus Kanonudsigt (Nord)",
+                "hu": "Blokhus Ágyús Kilátó (Észak)",
+                "ro": "Punctul de Observație cu Tun (Nord)",
+                "en": "Blokhus Kanonudsigt (North)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die raue Wintersee; achten Sie beim Abstieg auf versteckte Eisflächen unter dem feinen Dünensand.",
+                "hu": "Élvezd a kilátást a zord téli tengerre; a lejtőn ügyelj a homok alatt megbújó jeges felületekre a dűnék közötti utakon.",
+                "ro": "Bucurați-vă de priveliștea mării aspre de iarnă; atenție la coborâre la porțiunile de gheață ascunse sub nisipul dunelor.",
+                "en": "Enjoy the view of the harsh winter sea; watch out during the descent for hidden ice patches under the fine dune sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Fårup Sommerland",
+                "hu": "Fårup Sommerland",
+                "ro": "Fårup Sommerland",
+                "en": "Fårup Sommerland"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrt durch den Wald als Windschutz; stellen Sie sicher, dass Ihre Beleuchtung für den frühen Rückweg einwandfrei funktioniert.",
+                "hu": "Használd az erdőn átvezető utat szélvédelemnek; győződj meg róla, hogy a világításod jól működik a korai sötétedés miatt.",
+                "ro": "Folosiți drumul prin pădure ca protecție împotriva vântului; asigurați-vă că luminile funcționează bine pentru drumul de seară.",
+                "en": "Use the ride through the forest as wind protection; ensure your lights are working perfectly for the early winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "Kezdje autós utazását egyenesen Hune kulturális szívében, a Papírművészeti Múzeum meglátogatásával. Később sétáljon Anne Just kertjének vibráló ösvényein, és fényképezze le a világ legnagyobb homokvárát. Délután tegyen egy rövid utat a partra, hogy megtapasztalja a déli ágyús pont és a Blokhus Strand lenyűgöző kilátását. Zárja le az utazást a Fårup Sommerland és Vandland végtelen izgalmaival.",
         "ro": "Începeți plimbarea cu mașina direct în inima culturală din Hune, cu o vizită la Muzeul Hârtiei. Mai târziu, hoinăriți prin grădinile Annei Just și fotografiați cel mai mare castel de nisip. După-amiaza, conduceți scurt spre coastă pentru a experimenta priveliștile ample ale punctului de observație sudic și vasta plajă Blokhus. Încheiați-vă călătoria cu entuziasm continuu la Fårup Sommerland și Vandland.",
         "en": "Start your drive directly into the cultural heart of Hune with a visit to the Museum for Papirkunst. Later in the morning, wander the vibrant paths of Anne Just's gardens and snap photos at the world's biggest sandcastle. In the afternoon, take a short drive to the coast to experience the sweeping views of the southern cannon spot and the vast Blokhus Strand. Conclude your trip with non-stop excitement at Fårup Sommerland and Vandland."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Blokhus lässt sich am besten mit dem Auto erkunden, um flexibel zwischen den Highlights zu wechseln. Wir starten im trockenen Papiermuseum und fahren dann zu Anne Justs Gärten. Die Sandburg und die Kanon-Aussichtspunkte besuchen wir für kurze Fotostopps. Der Tag gipfelt in einem Besuch im Fårup Sommerland, wo überdachte Attraktionen Schutz vor dem Wetter bieten.",
+            "hu": "Az esős nap Blokhusban autóval a legkényelmesebb, így rugalmasan mozoghatunk a helyszínek között. A száraz Papírművészeti Múzeumban kezdünk, majd Anne Just kertjei felé vesszük az irányt. A homokvárat és az ágyús kilátót rövid fotómegállókkal tudjuk le. A napot a Fårup Sommerlandban zárjuk, ahol a fedett attrakciók védelmet nyújtanak az eső elől.",
+            "ro": "O zi ploioasă în Blokhus este cel mai bine explorată cu mașina pentru a rămâne uscați între obiective. Începem la Muzeul de Artă a Hârtiei, apoi mergem la Grădinile Anne Just. Castelul de nisip și punctele de observație sunt vizitate pentru scurte opriri foto. Ziua se încheie la Fårup Sommerland, unde atracțiile acoperite oferă protecție împotriva vremii nefavorabile.",
+            "en": "A rainy day in Blokhus is best explored by car to stay dry and flexible between highlights. We start at the dry Museum for Paper Art, then head to Anne Just's gardens. The sandcastle and cannon viewpoints are visited for quick photo stops. The day culminates at Fårup Sommerland, where covered attractions provide shelter from the persistent rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für Papierkunst",
+                "hu": "Papírművészeti Múzeum",
+                "ro": "Muzeul de Artă a Hârtiei",
+                "en": "Museum for Papirkunst"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem Museumsparkplatz; dies ist der ideale Ort, um einen starken Regenschauer in aller Ruhe auszusitzen.",
+                "hu": "Parkolj közvetlenül a múzeum saját parkolójában; ez az ideális hely, hogy nyugodtan kivárd a hevesebb esőzések végét bent.",
+                "ro": "Parcați direct în parcarea muzeului; acesta este locul ideal pentru a aștepta trecerea unei ploi torențiale în liniște și confort.",
+                "en": "Park directly in the museum's parking lot; this is the ideal place to wait out a heavy rain shower while enjoying the art."
+              }
+            },
+            {
+              "name": {
+                "de": "Anne Justs Gärten",
+                "hu": "Anne Just Kertjei",
+                "ro": "Grădinile Anne Just",
+                "en": "Anne Justs Have"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Regenschirm bereit für den Weg vom Parkplatz; genießen Sie die üppigen Farben, die der Regen im Garten hervorzaubert.",
+                "hu": "Készítsd elő az esernyődet a parkolótól a kertig tartó útra; élvezd a buja színeket, amelyeket az eső varázsol elő a növényekből.",
+                "ro": "Pregătiți umbrela pentru drumul de la parcare la grădină; bucurați-vă de culorile vii pe care ploaia le scoate în evidență în grădină.",
+                "en": "Have your umbrella ready for the short walk from the car; enjoy the lush colors that the rain brings out in the garden flowers."
+              }
+            },
+            {
+              "name": {
+                "de": "Die größte Sandburg der Welt",
+                "hu": "A Világ Legnagyobb Homokvára",
+                "ro": "Cel mai Mare Castel de Nisip din Lume",
+                "en": "Worlds Biggest Sandcastle"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Stopp für ein Foto direkt vom Auto aus oder unter einem Schirm; bewundern Sie die Standhaftigkeit des Sandes.",
+                "hu": "Állj meg egy rövid fotóra közvetlenül az autóból vagy egy esernyő alól; csodáld meg a homokszobor hihetetlen ellenállóképességét.",
+                "ro": "Faceți o scurtă oprire pentru o poză direct din mașină sau de sub umbrelă; admirați rezistența incredibilă a sculpturii de nisip.",
+                "en": "Make a short stop for a photo directly from the car or under an umbrella; admire the incredible resilience of the sand structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Blokhus Kanonudsigt (Süd)",
+                "hu": "Blokhus Ágyús Kilátó (Dél)",
+                "ro": "Punctul de Observație cu Tun (Sud)",
+                "en": "Blokhus Kanonudsigt (South)"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen kurz im Auto und genießen Sie den Blick durch die Windschutzscheibe auf die graue Nordsee.",
+                "hu": "Heves esőzés esetén maradj az autóban, és élvezd a kilátást a szélvédőn keresztül a viharos, szürke Északi-tengerre.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați priveliștea prin parbriz spre Marea Nordului agitată și gri.",
+                "en": "During heavy rain, stay in the car for a moment and enjoy the view through the windshield of the stormy grey North Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Blokhus Strand",
+                "hu": "Blokhus Strand",
+                "ro": "Plaja Blokhus",
+                "en": "Blokhus Strand"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Besonderheit, mit dem Auto direkt auf den Strand fahren zu dürfen; so bleiben Sie trocken und nah am Meer.",
+                "hu": "Használd ki a lehetőséget, hogy autóval közvetlenül a homokos partra hajthatsz; így szárazon maradhatsz a tenger közvetlen közelében.",
+                "ro": "Profită de posibilitatea de a conduce mașina direct pe plajă; astfel rămâneți uscați și aproape de mare chiar și pe ploaie.",
+                "en": "Take advantage of the unique opportunity to drive your car directly onto the beach; stay dry while being right next to the waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Fårup Sommerland",
+                "hu": "Fårup Sommerland",
+                "ro": "Fårup Sommerland",
+                "en": "Fårup Sommerland"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bahnen und Indoor-Spielbereiche; ein regnerischer Tag bedeutet oft kürzere Wartezeiten an den Attraktionen.",
+                "hu": "Használd ki a fedett hullámvasutakat és beltéri játszóhelyeket; az esős idő gyakran rövidebb várakozási időt jelent a játékoknál.",
+                "ro": "Profită de atracțiile acoperite și zonele de joacă interioare; o zi ploioasă înseamnă adesea cozi mai scurte la toate atracțiile.",
+                "en": "Take advantage of the covered rides and indoor play areas; a rainy day often means much shorter wait times at the popular attractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Fårup Wasserpark",
+                "hu": "Fårup Vízipark",
+                "ro": "Parcul Acvatic Fårup",
+                "en": "Fårup Vandland"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die beheizten Becken, um dem kühlen Regen zu entkommen; stellen Sie sicher, dass Sie genügend trockene Handtücher im Auto haben.",
+                "hu": "Keresd fel a fűtött medencéket, hogy elkerüld a hűvös esőt; győződj meg róla, hogy van elég száraz törölköző az autóban a végén.",
+                "ro": "Vizitați piscinele încălzite pentru a scăpa de ploaia rece; asigurați-vă că aveți suficiente prosoape uscate în mașină la final.",
+                "en": "Visit the heated pools to escape the chilly rain; make sure you have plenty of dry towels waiting in the car for afterward."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Blokhus bietet Komfort und spektakuläre Ausblicke auf die verschneite Küste. Wir beginnen im warmen Papiermuseum und setzen den Weg zu Anne Justs winterlichen Gärten fort. Ein absolutes Highlight ist die Fahrt mit dem Auto direkt auf den gefrorenen Strand von Blokhus. Der Tag endet gemütlich im Fårup Wasserpark, wo beheizte Becken die Winterkälte vergessen lassen.",
+            "hu": "A téli autós túra Blokhusban kényelmet és látványos kilátást kínál a havas partvidékre. A meleg Papírművészeti Múzeumban kezdünk, majd Anne Just téli kertjei felé folytatjuk utunkat. Különleges élmény az autózás közvetlenül Blokhus fagyos tengerpartján. A napot a Fårup Víziparkban zárjuk, ahol a fűtött medencékben teljesen elfelejthetjük a kinti téli hideget.",
+            "ro": "Un tur cu mașina iarna prin Blokhus oferă confort și vederi spectaculoase ale coastei înzăpezite. Începem la Muzeul de Artă a Hârtiei și continuăm spre grădinile de iarnă ale lui Anne Just. Un punct culminant este condusul mașinii direct pe plaja înghețată din Blokhus. Ziua se încheie la Parcul Acvatic Fårup, unde bazinele încălzite vă fac să uitați de frigul iernii.",
+            "en": "A winter car tour through Blokhus offers comfort and spectacular views of the snowy coastline. We begin at the warm Museum for Paper Art and continue to Anne Just's winter gardens. A major highlight is driving your car directly onto the frozen beach of Blokhus. The day ends comfortably at Fårup Water Park, where heated pools let you forget the winter chill outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für Papierkunst",
+                "hu": "Papírművészeti Múzeum",
+                "ro": "Muzeul de Artă a Hârtiei",
+                "en": "Museum for Papirkunst"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Wärme im Inneren des Museums; der kurze Weg vom Parkplatz ist auch bei winterlichen Temperaturen angenehm.",
+                "hu": "Élvezd az otthonos meleget a múzeum belsejében; a parkolótól tartó rövid séta még a leghidegebb téli napokon is elviselhető.",
+                "ro": "Bucurați-vă de căldura primitoare din interiorul muzeului; drumul scurt de la parcare este plăcut chiar și la temperaturi de iarnă.",
+                "en": "Enjoy the cozy warmth inside the museum; the short walk from the parking lot is manageable even in the coldest winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Anne Justs Gärten",
+                "hu": "Anne Just Kertjei",
+                "ro": "Grădinile Anne Just",
+                "en": "Anne Justs Have"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Strukturen des Gartens im Winterlicht; achten Sie auf glatte Stellen auf dem Weg vom Auto zum Garteneingang.",
+                "hu": "Csodáld meg a kert szerkezetét a téli fényben; ügyelj a csúszós foltokra az autótól a kert bejáratáig vezető rövid gyalogúton.",
+                "ro": "Admirați structura grădinii în lumina iernii; atenție la porțiunile alunecoase de pe drumul de la mașină până la intrarea în grădină.",
+                "en": "Admire the garden's structures in the winter light; watch out for slippery patches on the path from your car to the garden entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Die größte Sandburg der Welt",
+                "hu": "A Világ Legnagyobb Homokvára",
+                "ro": "Cel mai Mare Castel de Nisip din Lume",
+                "en": "Worlds Biggest Sandcastle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Windschutz beim Betrachten der Burg; die tiefstehende Sonne sorgt für fantastische Lichtverhältnisse auf dem Sand.",
+                "hu": "Használd az autót szélvédőnek a vár megtekintésekor; az alacsonyan járó nap fantasztikus fényviszonyokat teremt a homok felületén.",
+                "ro": "Folosiți mașina ca protecție împotriva vântului în timp ce admirați castelul; soarele jos creează efecte de lumină fantastice pe nisip.",
+                "en": "Use the car as a windbreak while viewing the castle; the low winter sun creates fantastic lighting effects on the sand's surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Blokhus Kanonudsigt (Süd)",
+                "hu": "Blokhus Ágyús Kilátó (Dél)",
+                "ro": "Punctul de Observație cu Tun (Sud)",
+                "en": "Blokhus Kanonudsigt (South)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus der Wärme Ihres Fahrzeugs; ein Fernglas hilft, die winterliche See noch besser zu beobachten.",
+                "hu": "Élvezd a panorámát az autód melegéből; egy távcső segíthet abban, hogy még jobban megfigyelhesd a zord téli tenger hullámait.",
+                "ro": "Bucurați-vă de panorama din căldura vehiculului dumneavoastră; un binoclu vă ajută să observați mai bine marea aspră de iarnă.",
+                "en": "Enjoy the panoramic view from the warmth of your vehicle; binoculars will help you observe the winter sea even more closely."
+              }
+            },
+            {
+              "name": {
+                "de": "Blokhus Strand",
+                "hu": "Blokhus Strand",
+                "ro": "Plaja Blokhus",
+                "en": "Blokhus Strand"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem eventuell vereisten Sand; erleben Sie den Sonnenuntergang bequem vom Fahrersitz aus bei laufender Heizung.",
+                "hu": "Vezess óvatosan az esetlegesen jeges homokon; éld át a naplementét kényelmesen a vezetőülésből, bekapcsolt fűtés mellett.",
+                "ro": "Conduceți cu atenție pe nisipul care poate fi înghețat; admirați apusul confortabil din scaunul șoferului cu încălzirea pornită.",
+                "en": "Drive carefully on the potentially icy sand; experience the sunset comfortably from your seat with the car heater running."
+              }
+            },
+            {
+              "name": {
+                "de": "Fårup Sommerland",
+                "hu": "Fårup Sommerland",
+                "ro": "Fårup Sommerland",
+                "en": "Fårup Sommerland"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die winterlichen Öffnungszeiten; die Fahrt durch die verschneiten Wälder zum Park ist besonders malerisch.",
+                "hu": "Ellenőrizd előre a téli nyitvatartást; a havas erdőkön keresztül vezető út a parkhoz ilyenkor különösen festői és hangulatos.",
+                "ro": "Verificați în avans programul de iarnă; drumul prin pădurile înzăpezite către parc este extrem de pitoresc în acest sezon.",
+                "en": "Check the winter opening hours in advance; the drive through the snow-covered forests to the park is particularly picturesque now."
+              }
+            },
+            {
+              "name": {
+                "de": "Fårup Wasserpark",
+                "hu": "Fårup Vízipark",
+                "ro": "Parcul Acvatic Fårup",
+                "en": "Fårup Vandland"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie in den Thermalbecken nach einem kalten Tag; legen Sie Ihre Kleidung auf die Sitzheizung für eine warme Rückfahrt.",
+                "hu": "Lazíts a termálmedencékben a hideg nap után; tedd a ruháidat az ülésfűtésre, hogy a hazaút is kellemesen meleg legyen majd.",
+                "ro": "Relaxați-vă în bazinele termale după o zi rece; puneți-vă hainele pe scaunele încălzite pentru un drum de întoarcere călduros.",
+                "en": "Relax in the thermal pools after a cold day; place your clothes on the seat heaters for a wonderfully warm drive back home."
+              }
+            }
+          ]
+        }
       }
     }
   }

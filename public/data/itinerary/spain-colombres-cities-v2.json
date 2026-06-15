@@ -206,6 +206,252 @@
         "hu": "A reggel a helyi történelmi alakok örökségével indul. Délben eljut a koronaékszerhez, az Indiano Archívumhoz, hogy felfedezze az amerikai kapcsolatokat. A délután egy kellemes séta a tökéletesen megőrzött gyarmati kúriák között. Az este ezen nagyszerű birtokok történelmi határánál csendesedik el.",
         "ro": "Dimineața începe cu moștenirea figurilor locale, pregătind scena istorică a orașului. La prânz ajungeți la bijuteria coroanei, Arhiva Indiano, explorând legătura cu America. După-amiaza este o plimbare printre vile coloniale. Seara se încheie liniștit lângă perimetrul istoric al acestor domenii grandioase.",
         "en": "Morning starts with the legacy of local figures, setting the stage for the town's history. Midday brings you to the crown jewel, the Indiano Archive, exploring the Americas connection. Afternoon is a delightful stroll among perfectly preserved colonial mansions. Evening winds down near the historic perimeter of these grand estates."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Colombres beginnt unter grauen Wolken, die den prachtvollen Fassaden eine mystische Note verleihen. Mittags bietet das Indiano-Archiv einen sicheren Hafen vor den Schauern. Am Nachmittag schlendern wir zwischen den bunten Villen hindurch, während das nasse Pflaster spiegelt. Der Abend klingt gemütlich in einem lokalen Café aus, während der Regen gegen die Fenster prasselt.",
+            "hu": "Colombres reggele szürke felhőkkel indul, ami misztikus hangulatot kölcsönöz a pompás homlokzatoknak. Délben az Indiano Archívum nyújt biztos menedéket a záporok elől. Délután a színes villák között sétálunk, miközben a vizes aszfalton tükröződnek a fények. Az este egy helyi kávézóban ér véget, miközben az eső kopog az ablakon.",
+            "ro": "Dimineața în Colombres începe sub nori cenușii, oferind fațadelor splendide o notă mistică. La prânz, Arhiva Indiano oferă un refugiu sigur împotriva averselor. După-amiaza ne plimbăm printre vilele colorate, în timp ce pavajul umed reflectă luminile. Seara se încheie confortabil într-o cafenea locală, în timp ce ploaia bate în geam.",
+            "en": "Morning in Colombres starts under grey clouds, giving the grand facades a mystical touch. At noon, the Indiano Archive provides a safe haven from the showers. In the afternoon, we stroll among the colorful villas as the wet pavement reflects the light. The evening ends cozily in a local cafe while the rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Estátua de Manuel Ibañez Posada (Conde de Ribadedeva)",
+                "hu": "Estátua de Manuel Ibañez Posada (Conde de Ribadedeva)",
+                "ro": "Estátua de Manuel Ibañez Posada (Conde de Ribadedeva)",
+                "en": "Estátua de Manuel Ibañez Posada (Conde de Ribadedeva)"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Statue unter dem Schutz Ihres Schirms; achten Sie auf das rutschige Kopfsteinpflaster rund um den Platz bei Nässe.",
+                "hu": "Csodálja meg a szobrot az esernyője alól; ügyeljen a tér körüli csúszós macskakövekre a nedves időben a biztonságos közlekedésért.",
+                "ro": "Admirați statuia la adăpostul umbrelei; aveți grijă la pavajul alunecos din jurul pieței în condiții de ploaie pentru siguranță.",
+                "en": "Admire the statue from under your umbrella; watch out for the slippery cobblestones around the square in wet weather for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Casas gemelas de F. Noriega",
+                "hu": "Casas gemelas de F. Noriega",
+                "ro": "Casas gemelas de F. Noriega",
+                "en": "Casas gemelas de F. Noriega"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die symmetrischen Details vom gegenüberliegenden Vordach aus, um trocken zu bleiben und die Architektur zu genießen.",
+                "hu": "Figyelje meg a szimmetrikus részleteket a szemközti előtető alól, hogy száraz maradjon, miközben gyönyörködik az építészetben.",
+                "ro": "Observați detaliile simetrice de sub copertina de vizavi pentru a rămâne uscat în timp ce admirați arhitectura deosebită.",
+                "en": "Observe the symmetrical details from the opposite overhang to stay dry while enjoying the unique architecture of these houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano Archive Foundation",
+                "hu": "Indiano Archive Foundation",
+                "ro": "Indiano Archive Foundation",
+                "en": "Indiano Archive Foundation"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen als Ausrede für einen langen Museumsbesuch; die Innenräume sind trocken und voller faszinierender Geschichte.",
+                "hu": "Használja az esőt ürügyként egy hosszú múzeumlátogatásra; a belső terek szárazak és tele vannak lenyűgöző történetekkel.",
+                "ro": "Folosiți ploaia ca scuză pentru o vizită lungă la muzeu; interioarele sunt uscate și pline de istorie fascinantă de explorat.",
+                "en": "Use the rain as an excuse for a long museum visit; the interiors are dry and full of fascinating history to explore at leisure."
+              }
+            },
+            {
+              "name": {
+                "de": "Finca las Raucas",
+                "hu": "Finca las Raucas",
+                "ro": "Finca las Raucas",
+                "en": "Finca las Raucas"
+              },
+              "tip_5lang": {
+                "de": "Der Garten wirkt im Regen besonders üppig; ein kurzes Foto vom Torbogen aus schützt Ihre Kamera vor der Feuchtigkeit.",
+                "hu": "A kert esőben különösen dús; egy gyors fotó a kapualjból megvédi a fényképezőgépét a nedvességtől és a párától.",
+                "ro": "Grădina pare deosebit de luxuriantă în ploaie; o fotografie rapidă de sub arcada porții vă va proteja aparatul de umezeală.",
+                "en": "The garden looks particularly lush in the rain; a quick photo from the gateway will protect your camera from the moisture."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Leones",
+                "hu": "Casa de los Leones",
+                "ro": "Casa de los Leones",
+                "en": "Casa de los Leones"
+              },
+              "tip_5lang": {
+                "de": "Die gelbe Fassade leuchtet auch bei grauem Himmel; halten Sie sich unter den nahen Bäumen auf, um den Regen kurz abzuwarten.",
+                "hu": "A sárga homlokzat szürke égbolt mellett is ragyog; álljon meg a közeli fák alatt, hogy röviden kivárja az eső csendesedését.",
+                "ro": "Fațada galbenă strălucește chiar și sub cerul gri; opriți-vă sub copacii din apropiere pentru a aștepta scurt oprirea ploii.",
+                "en": "The yellow facade glows even under grey skies; stop under the nearby trees to briefly wait for the rain to ease up."
+              }
+            },
+            {
+              "name": {
+                "de": "La Solana",
+                "hu": "La Solana",
+                "ro": "La Solana",
+                "en": "La Solana"
+              },
+              "tip_5lang": {
+                "de": "Diese Villa ist berühmt für ihre Veranda; stellen Sie sich vor, wie man hier geschützt vor dem Regen den Garten genießen kann.",
+                "hu": "Ez a villa a verandájáról híres; képzelje el, hogyan élvezhetné itt a kertet az esőtől védve egy forró tea mellett.",
+                "ro": "Această vilă este faimoasă pentru veranda sa; imaginați-vă cum ați putea savura grădina aici, protejat de ploaie.",
+                "en": "This villa is famous for its veranda; imagine how one could enjoy the garden here while protected from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Las Palmeras",
+                "hu": "Las Palmeras",
+                "ro": "Las Palmeras",
+                "en": "Las Palmeras"
+              },
+              "tip_5lang": {
+                "de": "Die Palmen biegen sich im Wind und verstärken das tropische Flair; wasserfeste Schuhe sind für diesen kiesigen Wegabschnitt ratsam.",
+                "hu": "A pálmák hajladoznak a szélben, fokozva a trópusi hangulatot; vízálló cipő ajánlott ehhez a kavicsos útszakaszhoz.",
+                "ro": "Palmierii se unduiesc în vânt, sporind aerul tropical; pantofii rezistenți la apă sunt recomandați pentru această porțiune.",
+                "en": "The palms sway in the wind, enhancing the tropical vibe; waterproof shoes are recommended for this gravelly path section."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Buenavista",
+                "hu": "Quinta Buenavista",
+                "ro": "Quinta Buenavista",
+                "en": "Quinta Buenavista"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang hier; die Aussicht auf das neblige Tal ist trotz Regen spektakulär und sehr atmosphärisch.",
+                "hu": "Itt fejezze be a körutat; a ködös völgyre nyíló kilátás az eső ellenére is látványos és rendkívül hangulatos.",
+                "ro": "Încheiați turul aici; vederea spre valea cețoasă este spectaculoasă și foarte atmosferică în ciuda ploii persistente.",
+                "en": "Finish your tour here; the view of the misty valley is spectacular and very atmospheric despite the persistent rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Colombres lässt die Farben der Indiano-Häuser hell erstrahlen. Mittags wärmen wir uns bei einer Führung durch das Archiv-Museum auf. Am Nachmittag nutzen wir das goldene Licht für Fotos, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend wird früh eingeleitet, ideal für ein herzhaftes asturisches Abendessen in der Wärme.",
+            "hu": "A tiszta téli reggel Colombresben ragyogóvá teszi az Indiano-házak színeit. Délben az Archívum-múzeum tárlatvezetésén melegszünk fel. Délután kihasználjuk az aranyló fényeket a fotózáshoz, mielőtt a nap 17:00 körül lenyugszik. Az este korán kezdődik, ideális egy bőséges asztúriai vacsorához a melegben.",
+            "ro": "O dimineață senină de iarnă în Colombres face culorile caselor Indiano să strălucească. La prânz ne încălzim în timpul unui tur al muzeului Arhivei. După-amiaza profităm de lumina aurie pentru poze, înainte ca soarele să apună în jur de ora 17:00. Seara începe devreme, ideal pentru o cină asturiană copioasă.",
+            "en": "A clear winter morning in Colombres makes the colors of the Indiano houses shine brightly. At noon, we warm up during a guided tour of the Archive Museum. In the afternoon, we use the golden light for photos before the sun sets around 5:00 PM. The evening starts early, ideal for a hearty Asturian dinner in the warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Estátua de Manuel Ibañez Posada (Conde de Ribadedeva)",
+                "hu": "Estátua de Manuel Ibañez Posada (Conde de Ribadedeva)",
+                "ro": "Estátua de Manuel Ibañez Posada (Conde de Ribadedeva)",
+                "en": "Estátua de Manuel Ibañez Posada (Conde de Ribadedeva)"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Statue; tragen Sie Handschuhe, da es im Schatten der Bäume kühl ist.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a szoborra; viseljen kesztyűt, mert a fák árnyékában hűvös az idő.",
+                "ro": "Soarele de iarnă aruncă umbre lungi pe statuie; purtați mănuși, deoarece este răcoare la umbra copacilor din piață.",
+                "en": "The low winter sun casts long shadows on the statue; wear gloves as it is chilly in the shade of the trees in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Casas gemelas de F. Noriega",
+                "hu": "Casas gemelas de F. Noriega",
+                "ro": "Casas gemelas de F. Noriega",
+                "en": "Casas gemelas de F. Noriega"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Details ohne belaubte Bäume besser sichtbar; ein schneller Halt reicht aus, bevor es wieder ins Warme geht.",
+                "hu": "Télen a részletek jobban láthatóak a lomb nélküli fák miatt; egy gyors megálló elég, mielőtt visszatérne a melegbe.",
+                "ro": "Iarna, detaliile sunt mai vizibile fără frunzișul copacilor; o oprire rapidă este suficientă înainte de a merge la căldură.",
+                "en": "In winter, details are more visible without leafy trees; a quick stop is enough before heading back to warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano Archive Foundation",
+                "hu": "Indiano Archive Foundation",
+                "ro": "Indiano Archive Foundation",
+                "en": "Indiano Archive Foundation"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die geheizten Ausstellungsräume; dies ist der beste Ort, um die Mittagszeit gemütlich und bildreich zu verbringen.",
+                "hu": "Élvezze a fűtött kiállítótereket; ez a legjobb hely a délidő eltöltésére kényelemben és képekben gazdag környezetben.",
+                "ro": "Bucurați-vă de sălile de expoziție încălzite; acesta este cel mai bun loc pentru a petrece amiaza confortabil și educativ.",
+                "en": "Enjoy the heated exhibition halls; this is the best place to spend midday comfortably and surrounded by rich history."
+              }
+            },
+            {
+              "name": {
+                "de": "Finca las Raucas",
+                "hu": "Finca las Raucas",
+                "ro": "Finca las Raucas",
+                "en": "Finca las Raucas"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur tritt im Winter ohne die Gartenpracht stärker hervor; achten Sie auf die klaren Linien des Hauptgebäudes.",
+                "hu": "Az építészet télen a kerti pompa nélkül jobban érvényesül; figyelje meg a főépület tiszta vonalait a hideg fényben.",
+                "ro": "Arhitectura iese mai mult în evidență iarna fără splendoarea grădinii; observați liniile clare ale clădirii principale.",
+                "en": "The architecture stands out more in winter without the garden splendor; notice the clear lines of the main building."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Leones",
+                "hu": "Casa de los Leones",
+                "ro": "Casa de los Leones",
+                "en": "Casa de los Leones"
+              },
+              "tip_5lang": {
+                "de": "Das warme Gelb des Hauses bildet einen tollen Kontrast zum blauen Winterhimmel; ideal für ein schnelles Porträtfoto.",
+                "hu": "A ház meleg sárga színe remek kontrasztot alkot a kék téli égbolttal; ideális helyszín egy gyors portréfotóhoz.",
+                "ro": "Galbenul cald al casei creează un contrast excelent cu cerul albastru de iarnă; ideal pentru o fotografie rapidă de portret.",
+                "en": "The warm yellow of the house creates a great contrast with the blue winter sky; ideal for a quick portrait photo."
+              }
+            },
+            {
+              "name": {
+                "de": "La Solana",
+                "hu": "La Solana",
+                "ro": "La Solana",
+                "en": "La Solana"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne beleuchtet die Fassade am frühen Nachmittag perfekt; wärmen Sie sich mit einem Thermosbecher Tee auf.",
+                "hu": "Az alacsonyan járó nap kora délután tökéletesen megvilágítja a homlokzatot; melegedjen fel egy termosz teával séta közben.",
+                "ro": "Soarele jos luminează perfect fațada la începutul după-amiezii; încălziți-vă cu un ceai din termos în timpul plimbării.",
+                "en": "The low sun illuminates the facade perfectly in the early afternoon; warm up with a thermos of tea during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Las Palmeras",
+                "hu": "Las Palmeras",
+                "ro": "Las Palmeras",
+                "en": "Las Palmeras"
+              },
+              "tip_5lang": {
+                "de": "Die Palmen wirken im Winter wie ein exotisches Überbleibsel; halten Sie sich fit durch zügiges Gehen in der kühlen Luft.",
+                "hu": "A pálmák télen egzotikus maradványnak tűnnek; maradjon fitt a hűvös levegőn való tempós gyaloglással a házak között.",
+                "ro": "Palmierii par un vestigiu exotic în timpul iernii; mențineți-vă activ prin mers rapid în aerul rece de afară.",
+                "en": "The palms look like an exotic relic in winter; stay fit by walking briskly in the cool air between the mansions."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Buenavista",
+                "hu": "Quinta Buenavista",
+                "ro": "Quinta Buenavista",
+                "en": "Quinta Buenavista"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr hier an, um das letzte Tageslicht über dem Tal zu sehen, bevor die winterliche Dunkelheit einbricht.",
+                "hu": "Érkezzen ide 17:00 előtt, hogy lássa az utolsó nappali fényt a völgy felett, mielőtt beáll a téli sötétség.",
+                "ro": "Arribați aici înainte de ora 17:00 pentru a vedea ultima lumină a zilei peste vale, înainte de lăsarea întunericului.",
+                "en": "Arrive here before 5:00 PM to see the last daylight over the valley before the winter darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +606,196 @@
         "hu": "Kezdje a reggelt a gazdag Indiano építészettel, mielőtt kikerékpározna a városból. A délidő drámai tengerparti kilátókhoz viszi a vad Kantábriai-tenger felett. A délutánt az egyedülálló színű sziklák és strandok mentén pihenve töltheti. Az estét egy utolsó, látványos torkolati panoráma zárja.",
         "ro": "Începeți dimineața absorbind arhitectura bogată Indiano înainte de a ieși din oraș. Prânzul vă duce la puncte de belvedere dramatice de pe coastă. După-amiaza este petrecută relaxându-vă la stânci colorate și plaje pitorești. Seara se încheie cu o panoramă finală spectaculoasă a estuarului.",
         "en": "Start your morning soaking in the rich Indiano architecture before pedaling out of town. Midday takes you up to dramatic coastal viewpoints overlooking the wild Cantabrian Sea. Afternoon is spent relaxing by uniquely colored cliffs and pebble beaches. Evening concludes with a final spectacular estuary panorama."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf dem Rad beginnt sicher im Archiv-Museum. Mittags führt der Weg zur Quinta, wobei wir auf Pfützen achten. Die Nachmittagsfahrt entlang der Küste ist dramatisch, die Klippen wirken im Regen gewaltig. Wir beenden die Tour früh, um die nasse Kleidung gegen ein trockenes Outfit und eine heiße Suppe zu tauschen.",
+            "hu": "Egy esős bringás nap biztonságosan indul az Archívum-múzeumban. Délben az út a Quintához vezet, figyelve a tócsákra. A délutáni tekerés a parton drámai, a sziklák hatalmasnak tűnnek az esőben. Korán fejezzük be a túrát, hogy a vizes ruhát szárazra és egy forró levesre cseréljük.",
+            "ro": "O zi ploioasă pe bicicletă începe în siguranță la muzeul Arhivei. La prânz, drumul duce spre Quinta, cu atenție la bălți. Plimbarea de după-amiază pe coastă este dramatică sub ploaie. Încheiem turul devreme pentru a schimba hainele ude cu unele uscate și o supă fierbinte.",
+            "en": "A rainy day on the bike starts safely in the Archive Museum. At noon, the path leads to the Quinta, watching out for puddles. The afternoon ride along the coast is dramatic, the cliffs look immense in the rain. We finish the tour early to trade wet clothes for a dry outfit and a hot soup."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Indiano Archive Foundation",
+                "hu": "Indiano Archive Foundation",
+                "ro": "Indiano Archive Foundation",
+                "en": "Indiano Archive Foundation"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im Unterstand; nutzen Sie die Zeit drinnen, um den ersten starken Regen trocken abzuwarten.",
+                "hu": "Parkolja le a biciklit a fedett tárolóban; használja ki a bent töltött időt az első heves eső száraz megvárására.",
+                "ro": "Parcați bicicleta în adăpost; folosiți timpul în interior pentru a aștepta trecerea primei ploi puternice la uscat.",
+                "en": "Park your bike in the shelter; use the time inside to wait out the first heavy rain while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Buenavista",
+                "hu": "Quinta Buenavista",
+                "ro": "Quinta Buenavista",
+                "en": "Quinta Buenavista"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Regen rutschig sein; fahren Sie vorsichtig und genießen Sie den nebligen Blick auf das Anwesen.",
+                "hu": "A feljáró esőben csúszós lehet; tekerjen óvatosan, és élvezze a birtokra nyíló ködös, hangulatos kilátást.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie; pedalați cu atenție și bucurați-vă de vederea cețoasă asupra domeniului.",
+                "en": "The driveway can be slippery in the rain; ride carefully and enjoy the misty, atmospheric view of the estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Picu del Regolgueru",
+                "hu": "Mirador del Picu del Regolgueru",
+                "ro": "Mirador del Picu del Regolgueru",
+                "en": "Mirador del Picu del Regolgueru"
+              },
+              "tip_5lang": {
+                "de": "Die Küste wirkt bei Sturm besonders wild; halten Sie Abstand zum Rand, da die Wege durch den Regen aufgeweicht sind.",
+                "hu": "A partvidék viharban különösen vad; tartson távolságot a szélétől, mivel az utak az esőtől felázottak és csúszósak.",
+                "ro": "Coasta pare sălbatică în timpul furtunii; păstrați distanța față de margine, deoarece potecile sunt înmuiate de ploaie.",
+                "en": "The coast looks especially wild during a storm; keep your distance from the edge as paths are softened by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Cuevas Coloradas",
+                "hu": "Playa de Cuevas Coloradas",
+                "ro": "Playa de Cuevas Coloradas",
+                "en": "Playa de Cuevas Coloradas"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Blick genügt; der Sand ist nass und schwer zu befahren, bleiben Sie lieber auf dem befestigten Aussichtspunkt.",
+                "hu": "Egy rövid pillantás elég; a homok nedves és nehéz rajta tekerni, maradjon inkább a kiépített kilátóponton.",
+                "ro": "O privire scurtă este suficientă; nisipul este ud și greu de parcurs, mai bine rămâneți la punctul de observație.",
+                "en": "A short look is enough; the sand is wet and hard to cycle on, so better stay on the paved viewpoint area."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Mendía",
+                "hu": "Playa de Mendía",
+                "ro": "Playa de Mendía",
+                "en": "Playa de Mendía"
+              },
+              "tip_5lang": {
+                "de": "Die Brandung ist bei Regen oft spektakulär; tragen Sie eine gute Regenjacke gegen die Gischt und den Niederschlag.",
+                "hu": "A hullámverés esőben gyakran látványos; viseljen jó esőkabátot a permet és a csapadék elleni védekezéshez.",
+                "ro": "Valurile sunt adesea spectaculoase pe ploaie; purtați o jachetă impermeabilă bună împotriva stropilor și a ploii.",
+                "en": "The surf is often spectacular in the rain; wear a good waterproof jacket against the sea spray and precipitation."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Pico del Cañón",
+                "hu": "Mirador del Pico del Cañón",
+                "ro": "Mirador del Pico del Cañón",
+                "en": "Mirador del Pico del Cañón"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier schnell; der Wind am Kap kann bei Regen stark zunehmen, fahren Sie zügig zurück ins Dorf.",
+                "hu": "Fejezze be itt gyorsan a túrát; a foknál a szél esőben felerősödhet, tekerjen tempósan vissza a faluba.",
+                "ro": "Încheiați rapid turul aici; vântul la cap se poate intensifica pe ploaie, pedalați rapid înapoi spre sat.",
+                "en": "Finish the tour quickly here; the wind at the cape can intensify in the rain, so cycle briskly back to the village."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt am Archiv-Museum, wo wir uns vor der Abfahrt informieren. Mittags radeln wir durch die kühle, klare Luft zur Quinta. Die Küstenstraße am Nachmittag bietet ungestörte Ausblicke auf die raue See. Da es um 17:00 Uhr dunkel wird, kehren wir rechtzeitig zurück, um den Tag bei einem warmen Getränk am Kamin zu beenden.",
+            "hu": "A friss téli reggel az Archívum-múzeumnál indul, ahol tájékozódunk az indulás előtt. Délben a hűvös, tiszta levegőn tekerünk a Quintához. A délutáni parti út zavartalan kilátást nyújt a zord tengerre. Mivel 17:00-kor sötétedik, időben visszatérünk, hogy a napot egy meleg ital mellett, a kandallónál zárjuk.",
+            "ro": "O dimineață proaspătă de iarnă începe la muzeul Arhivei, unde ne informăm înainte de plecare. La prânz pedalăm prin aerul rece spre Quinta. Drumul de coastă oferă vederi neîntrerupte asupra mării agitate. Deoarece se întunecă la 17:00, ne întoarcem la timp pentru o băutură caldă.",
+            "en": "A fresh winter morning starts at the Archive Museum, where we gather info before setting off. At noon, we cycle through the cool, clear air to the Quinta. The coastal road in the afternoon offers undisturbed views of the rough sea. Since it gets dark at 5:00 PM, we return in time to end the day with a warm drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Indiano Archive Foundation",
+                "hu": "Indiano Archive Foundation",
+                "ro": "Indiano Archive Foundation",
+                "en": "Indiano Archive Foundation"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen, bevor Sie die längere Fahrt zur Küste antreten; Schichten sind der Schlüssel.",
+                "hu": "Használja a múzeumlátogatást bemelegítésre, mielőtt elindulna a hosszabb útra a part felé; a réteges öltözködés kulcsfontosságú.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi înainte de drumul lung spre coastă; îmbrăcămintea stratificată este esențială.",
+                "en": "Use the museum visit to warm up before starting the longer ride to the coast; layering your clothes is key today."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Buenavista",
+                "hu": "Quinta Buenavista",
+                "ro": "Quinta Buenavista",
+                "en": "Quinta Buenavista"
+              },
+              "tip_5lang": {
+                "de": "Das Anwesen wirkt im Winterlicht sehr edel; halten Sie Ihre Pausen kurz, um nicht in der Kälte auszukühlen.",
+                "hu": "A birtok a téli fényben nagyon előkelőnek tűnik; tartsa röviden a szüneteket, hogy ne hűljön ki a hidegben.",
+                "ro": "Domeniul arată foarte nobil în lumina iernii; păstrați pauzele scurte pentru a nu vă răci în aerul de afară.",
+                "en": "The estate looks very noble in the winter light; keep your breaks short to avoid getting chilled in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Picu del Regolgueru",
+                "hu": "Mirador del Picu del Regolgueru",
+                "ro": "Mirador del Picu del Regolgueru",
+                "en": "Mirador del Picu del Regolgueru"
+              },
+              "tip_5lang": {
+                "de": "Ein Stirnband unter dem Helm schützt Ihre Ohren vor dem beißenden Küstenwind; die Fernsicht ist im Winter oft brillant.",
+                "hu": "A sisak alatti fejpánt megvédi a fülét a metsző parti széltől; a távoli kilátás télen gyakran ragyogó és tiszta.",
+                "ro": "O bentiță sub cască vă va proteja urechile de vântul tăios de pe coastă; vizibilitatea la distanță este adesea briliantă iarna.",
+                "en": "A headband under your helmet will protect your ears from the biting coastal wind; the far-off view is often brilliant in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Cuevas Coloradas",
+                "hu": "Playa de Cuevas Coloradas",
+                "ro": "Playa de Cuevas Coloradas",
+                "en": "Playa de Cuevas Coloradas"
+              },
+              "tip_5lang": {
+                "de": "Die verlassene Bucht hat im Winter einen ganz eigenen Charme; genießen Sie die Ruhe, bevor Sie weiterstrampeln.",
+                "hu": "Az elhagyatott öbölnek télen sajátos bája van; élvezze a csendet és a nyugalmat, mielőtt továbbtekerne a következő ponthoz.",
+                "ro": "Golful pustiu are un farmec aparte iarna; bucurați-vă de liniște înainte de a pedala mai departe spre următoarea oprire.",
+                "en": "The deserted bay has its own charm in winter; enjoy the peace and quiet before cycling on to the next point."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Mendía",
+                "hu": "Playa de Mendía",
+                "ro": "Playa de Mendía",
+                "en": "Playa de Mendía"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter oft windgepeitscht; ein kurzer Halt für ein Foto der rauen Brandung reicht völlig aus.",
+                "hu": "A strand télen gyakran szeles; egy rövid megálló a vad hullámverés lefotózásához bőven elegendő a hidegben.",
+                "ro": "Plaja este adesea bântuită de vânt iarna; o oprire scurtă pentru o poză cu valurile agitate este suficientă.",
+                "en": "The beach is often windswept in winter; a short stop for a photo of the wild surf is quite enough in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Pico del Cañón",
+                "hu": "Mirador del Pico del Cañón",
+                "ro": "Mirador del Pico del Cañón",
+                "en": "Mirador del Pico del Cañón"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie so, dass Sie hier den Sonnenuntergang gegen 17:00 Uhr sehen, und fahren Sie dann sofort mit Licht zurück.",
+                "hu": "Úgy tervezze, hogy 17:00 körül lássa itt a naplementét, majd azonnal induljon vissza bekapcsolt lámpákkal.",
+                "ro": "Planificați să vedeți apusul aici în jur de ora 17:00, apoi întoarceți-vă imediat cu luminile aprinse.",
+                "en": "Plan to see the sunset here around 5:00 PM, then immediately head back with your lights switched on."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "A reggel feltárja a város körüli középkori romok rejtett múltját. A délidő a fenséges Indiano Alapítványnál a nagy gyarmati korszakba vált át. A délután a lélegzetelállító tengerpartra és a kiterjedt torkolati kilátókra összpontosít. Az este egy festői, rejtett strandon ér véget a naplementében.",
         "ro": "Dimineața dezvăluie trecutul medieval ascuns în ruinele rurale de la sudul orașului. Prânzul face tranziția către marea epocă colonială la Arhiva Indiano. După-amiaza vă îndreaptă spre coasta uluitoare și priveliști de estuar. Seara se așterne pe o plajă ascunsă pitorească la apus.",
         "en": "Morning reveals the medieval past hidden in the countryside ruins south of town. Midday transitions to the grand colonial era at the majestic Indiano Foundation. Afternoon shifts gears to the breathtaking coastline and sweeping estuary overlooks. Evening settles at a picturesque hidden beach as the sun lowers."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag im Auto ist ideal, um die Ruinen in der Umgebung trocken zu erkunden. Mittags bietet das Archiv-Museum eine perfekte Pause vom Fahren. Nachmittags genießen wir die Aussichtspunkte sicher aus dem Wagen heraus, während die Wischer das Panorama freigeben. Der Abend endet entspannt bei der Rückfahrt zum Hotel durch die nebligen Hügel.",
+            "hu": "Az esős nap az autóban ideális a környék romjainak száraz felfedezéséhez. Délben az Archívum-múzeum tökéletes pihenőt nyújt a vezetés után. Délután a kilátópontokat biztonságosan, az autóból élvezzük, miközben az ablaktörlők tisztítják a panorámát. Az este pihentetően zárul a ködös dombokon keresztüli hazavezetéssel.",
+            "ro": "O zi ploioasă în mașină este ideală pentru a explora ruinele din zonă la uscat. La prânz, muzeul oferă o pauză perfectă de la condus. După-amiaza ne bucurăm de punctele de observație din mașină, în timp ce ștergătoarele eliberează panorama. Seara se încheie relaxat cu drumul spre hotel prin dealurile cețoase.",
+            "en": "A rainy day in the car is ideal for exploring the local ruins while staying dry. At noon, the Archive Museum provides a perfect break from driving. In the afternoon, we enjoy the viewpoints safely from the car as the wipers clear the panorama. The evening ends relaxingly with a drive back through the misty hills."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ruina de la torre de Villanueva",
+                "hu": "Ruina de la torre de Villanueva",
+                "ro": "Ruina de la torre de Villanueva",
+                "en": "Ruina de la torre de Villanueva"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruine vom Fenster aus; die alten Steine wirken im Regen besonders geschichtsträchtig und düster.",
+                "hu": "Nézze meg a romokat az ablakból; a régi kövek esőben különösen történelminek és komornak tűnnek a szürkületben.",
+                "ro": "Priviți ruinele de la fereastra mașinii; pietrele vechi par deosebit de istorice și sumbre sub ploaie.",
+                "en": "View the ruins from the car window; the old stones look particularly historic and somber in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa en ruinas de La Prida",
+                "hu": "Casa en ruinas de La Prida",
+                "ro": "Casa en ruinas de La Prida",
+                "en": "Casa en ruinas de La Prida"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint für ein Foto lohnt sich; der Regen verstärkt die melancholische Stimmung dieses verlassenen Ortes.",
+                "hu": "Egy rövid sprint egy fotóért megéri; az eső felerősíti ennek az elhagyatott helynek a melankolikus hangulatát.",
+                "ro": "Un sprint scurt pentru o poză merită; ploaia intensifică atmosfera melancolică a acestui loc abandonat.",
+                "en": "A short sprint for a photo is worth it; the rain enhances the melancholy atmosphere of this abandoned place."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano Archive Foundation",
+                "hu": "Indiano Archive Foundation",
+                "ro": "Indiano Archive Foundation",
+                "en": "Indiano Archive Foundation"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor; dies ist die ideale Gelegenheit, den regnerischen Mittag trocken in prachtvollen Sälen zu verbringen.",
+                "hu": "Parkoljon közvetlenül előtte; ez az ideális alkalom, hogy az esős délidőt szárazon, pompás termekben töltse el.",
+                "ro": "Parcați chiar în față; aceasta este ocazia ideală de a petrece amiaza ploioasă la uscat, în săli splendide.",
+                "en": "Park right in front; this is the ideal opportunity to spend the rainy midday dry inside the splendid halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Pico del Cañón",
+                "hu": "Mirador del Pico del Cañón",
+                "ro": "Mirador del Pico del Cañón",
+                "en": "Mirador del Pico del Cañón"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die tosende See durch die Frontscheibe; der Wagen schützt Sie vor dem peitschenden Regen.",
+                "hu": "Élvezze a háborgó tenger látványát az első szélvédőn keresztül; az autó megvédi önt a csapkodó esőtől és széltől.",
+                "ro": "Bucurați-vă de vederea mării agitate prin parbriz; mașina vă protejează de ploaia biciuitoare și de vânt.",
+                "en": "Enjoy the view of the roaring sea through the windshield; the car protects you from the lashing rain and wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Picu del Regolgueru",
+                "hu": "Mirador del Picu del Regolgueru",
+                "ro": "Mirador del Picu del Regolgueru",
+                "en": "Mirador del Picu del Regolgueru"
+              },
+              "tip_5lang": {
+                "de": "Die Küstennebel machen die Aussicht mystisch; bleiben Sie im Auto, wenn der Regen zu stark wird, das Panorama ist dennoch toll.",
+                "hu": "A parti köd misztikussá teszi a kilátást; maradjon az autóban, ha túl erős az eső, a panoráma így is remek.",
+                "ro": "Ceața de coastă face vederea mistică; rămâneți în mașină dacă ploaia este prea puternică, panorama e totuși grozavă.",
+                "en": "The coastal mist makes the view mystical; stay in the car if the rain gets too heavy, the panorama is still great."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Mendía",
+                "hu": "Playa de Mendía",
+                "ro": "Playa de Mendía",
+                "en": "Playa de Mendía"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen vom Parkplatz aus; der Regen auf dem Dach sorgt für eine beruhigende Geräuschkulisse zum Abschluss.",
+                "hu": "Figyelje a hullámokat a parkolóból; a tetőn kopogó eső megnyugtató háttérzajt ad a nap végéhez.",
+                "ro": "Observați valurile din parcare; ploaia pe acoperiș oferă un fundal sonor relaxant pentru încheierea zilei.",
+                "en": "Watch the waves from the parking lot; the rain on the roof provides a soothing soundtrack for the end of the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger, aber kalter Wintertag ist perfekt für eine Spritztour zu den Ruinen. Mittags wärmen wir uns im Indiano-Archiv auf und tauchen in die Geschichte ein. Die Aussichtspunkte am Nachmittag bieten bei klarer Winterluft eine fantastische Fernsicht. Wir beenden die Fahrt pünktlich zum Sonnenuntergang um 17:00 Uhr und genießen die Abendstimmung im warmen Wagen.",
+            "hu": "A napos, de hideg téli nap tökéletes egy autós kiránduláshoz a romokhoz. Délben az Indiano Archívumban melegszünk fel és merülünk el a történelemben. A délutáni kilátópontok a tiszta téli levegőben fantasztikus távoli kilátást nyújtanak. A naplementére, 17:00 körül fejezzük be az utat a meleg autóban.",
+            "ro": "O zi de iarnă însorită, dar rece, este perfectă pentru o plimbare cu mașina la ruine. La prânz ne încălzim la Arhiva Indiano. Punctele de observație oferă o vizibilitate fantastică în aerul clar de iarnă. Încheiem călătoria exact la apus, în jur de ora 17:00, în căldura mașinii.",
+            "en": "A sunny but cold winter day is perfect for a drive to the ruins. At noon, we warm up at the Indiano Archive and dive into history. The afternoon viewpoints offer fantastic long-distance views in the clear winter air. We finish the trip right at sunset around 5:00 PM, enjoying the vibes in the warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ruina de la torre de Villanueva",
+                "hu": "Ruina de la torre de Villanueva",
+                "ro": "Ruina de la torre de Villanueva",
+                "en": "Ruina de la torre de Villanueva"
+              },
+              "tip_5lang": {
+                "de": "Die Ruine ist im Winter ohne Laub gut sichtbar; nutzen Sie die Heizung im Auto zwischen den kurzen Fotostopps.",
+                "hu": "A romok télen lomb nélkül jól láthatóak; használja az autó fűtését a rövid fotómegállók között a kényelemért.",
+                "ro": "Ruina este bine vizibilă iarna fără frunziș; folosiți încălzirea din mașină între scurtele opriri pentru poze.",
+                "en": "The ruin is clearly visible in winter without foliage; use the car heater between short photo stops for comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa en ruinas de La Prida",
+                "hu": "Casa en ruinas de La Prida",
+                "ro": "Casa en ruinas de La Prida",
+                "en": "Casa en ruinas de La Prida"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Texturen der alten Mauern hervor; ein schneller Halt reicht aus, um die Einsamkeit des Ortes zu spüren.",
+                "hu": "A téli fény kiemeli a régi falak textúráját; egy gyors megálló elég, hogy érezze a hely magányos és csendes hangulatát.",
+                "ro": "Lumina de iarnă scoate în evidență textura zidurilor vechi; o oprire rapidă e suficientă pentru a simți singurătatea locului.",
+                "en": "The winter light highlights the textures of the old walls; a quick stop is enough to feel the solitude of the place."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano Archive Foundation",
+                "hu": "Indiano Archive Foundation",
+                "ro": "Indiano Archive Foundation",
+                "en": "Indiano Archive Foundation"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der wärmste Teil des Tages; verbringen Sie hier viel Zeit drinnen, bevor Sie zu den windigen Klippen weiterfahren.",
+                "hu": "Ez a nap legmelegebb része; töltsön itt sok időt bent, mielőtt továbbhajtana a szeles és hűvös parti sziklák felé.",
+                "ro": "Aceasta este cea mai caldă parte a zilei; petreceți mult timp în interior înainte de a pleca spre stâncile vântoase.",
+                "en": "This is the warmest part of the day; spend plenty of time inside here before driving on to the windy coastal cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Pico del Cañón",
+                "hu": "Mirador del Pico del Cañón",
+                "ro": "Mirador del Pico del Cañón",
+                "en": "Mirador del Pico del Cañón"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind am Kap ist eisig; genießen Sie die gewaltige Aussicht bequem vom Fahrersitz aus bei laufender Heizung.",
+                "hu": "A téli szél a foknál jeges; élvezze a hatalmas kilátást kényelmesen a vezetőülésből, bekapcsolt fűtés mellett.",
+                "ro": "Vântul de iarnă la cap este înghețat; bucurați-vă de vederea imensă confortabil din scaunul șoferului, cu căldura pornită.",
+                "en": "The winter wind at the cape is icy; enjoy the vast view comfortably from the driver's seat with the heater running."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Picu del Regolgueru",
+                "hu": "Mirador del Picu del Regolgueru",
+                "ro": "Mirador del Picu del Regolgueru",
+                "en": "Mirador del Picu del Regolgueru"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die Picos de Europa ist im Winter oft schneebedeckt und klar; halten Sie Ihre Kamera griffbereit.",
+                "hu": "A Picos de Europa-ra nyíló távoli kilátás télen gyakran havas és tiszta; tartsa készenlétben a fényképezőgépét.",
+                "ro": "Vederea spre Picos de Europa este adesea înzăpezită și clară iarna; țineți aparatul foto la îndemână pentru poze.",
+                "en": "The distant view of the Picos de Europa is often snow-capped and clear in winter; keep your camera ready for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Mendía",
+                "hu": "Playa de Mendía",
+                "ro": "Playa de Mendía",
+                "en": "Playa de Mendía"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie hier den Sonnenuntergang gegen 17:00 Uhr direkt aus dem Auto; der perfekte, warme Abschluss für Ihren Winterausflug.",
+                "hu": "Nézze meg a naplementét 17:00 körül közvetlenül az autóból; a tökéletes, meleg lezárása a téli kirándulásnak.",
+                "ro": "Urmăriți apusul în jur de ora 17:00 direct din mașină; finalul perfect și călduros pentru excursia de iarnă.",
+                "en": "Watch the sunset here around 5:00 PM directly from the car; the perfect, warm conclusion to your winter excursion."
+              }
+            }
+          ]
+        }
       }
     }
   }

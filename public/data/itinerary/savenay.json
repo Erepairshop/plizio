@@ -137,6 +137,168 @@
         "hu": "Kezdje Savenay felfedezését a történelmi központban, megismerve annak spirituális gyökereit. Haladjon kifelé, hogy megtapasztalja a város bájos közlekedési és kulturális nevezetességeit. Térjen át a festői külvárosokra, az ünnepélyes műemlékektől az izgalmas, modern terekig haladva. Zárja a napot a békés vízparton pihenve.",
         "ro": "Începeți explorarea orașului Savenay în centrul istoric, descoperindu-i rădăcinile spirituale. Îndreptați-vă spre exterior pentru a experimenta reperele culturale și de transport fermecătoare. Treceți spre periferiile pitorești, schimbând monumentele solemne cu spații moderne captivante. Încheiați ziua relaxându-vă lângă apele liniștite.",
         "en": "Start your Savenay exploration in the historic center, uncovering its spiritual roots. Move outward to experience the town's charming transport and cultural landmarks. Transition towards the scenic outskirts, shifting from solemn monuments to engaging modern spaces. Wrap up the day relaxing by the peaceful waters, reflecting on a diverse itinerary."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der morgendliche Regen begleitet Sie von der Kirche zum Bahnhof. Mittags bieten der Kalvarienberg und die Kulturfabrik einen guten Unterschlupf. Verbringen Sie den Nachmittag am stimmungsvollen See und halten Sie den Regenschirm bereit. Abends können Sie sich in einem gemütlichen lokalen Lokal im Trockenen aufwärmen.",
+            "hu": "A reggeli eső elkísér a templomtól az állomásig. Délben a Kálvária és a kulturális gyár nyújt kellemes menedéket. A délutánt a hangulatos tónál töltheti, tartsa kéznél az esernyőt. Este egy hangulatos helyi fedett helyen szárkózhat meg és melegedhet fel.",
+            "ro": "Ploaia de dimineață te însoțește de la biserică la gară. La prânz, găsești adăpost la Calvar și la fabrica culturală. Petrece după-amiaza la lacul melancolic, ținând umbrela la îndemână. Seara aduce o șansă de a te usca într-un local primitor.",
+            "en": "Morning rain accompanies you from the church to the station. At noon, find shelter at the Calvary and the cultural factory. Spend the afternoon by the moody lake, keeping your umbrella handy. Evening brings a chance to dry off in a cozy local spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster im Trockenen; bringen Sie einen guten Regenschirm für den Eingangsbereich mit.",
+                "hu": "Csodálja meg az üvegablakokat bent a szárazon; hozzon magával egy jó esernyőt a bejárathoz.",
+                "ro": "Admiră vitraliile înăuntru pentru a sta uscat; adu o umbrelă bună pentru la intrare.",
+                "en": "Admire the stained glass inside to stay dry; bring a sturdy umbrella for the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Savenay",
+                "hu": "Savenay Vasútállomás",
+                "ro": "Gara Savenay",
+                "en": "Savenay Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet schnellen Schutz vor Regengüssen; Vorsicht vor Rutschgefahr auf den nassen Bahnsteigen.",
+                "hu": "Az állomás gyors menedéket nyújt a záporok elől; óvatosan lépkedjen a nedves és csúszós peronokon.",
+                "ro": "Gara oferă adăpost rapid de ploi; ai grijă la pașii tăi pe peroanele umede și alunecoase.",
+                "en": "The station provides quick shelter from downpours; watch your step on the wet platforms."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Kalvarienberg von Savenay",
+                "hu": "Savenay Kálváriája",
+                "ro": "Calvarul din Savenay",
+                "en": "The Calvary of Savenay"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie wasserfeste Ausrüstung für dieses Freiluftdenkmal mit, da die Steinstufen bei Nässe sehr rutschig werden.",
+                "hu": "Hozzon vízálló felszerelést ehhez a szabadtéri műemlékhez, mivel a kőlépcsők esőben nagyon csúsznak.",
+                "ro": "Adu echipament impermeabil pentru acest monument în aer liber, deoarece treptele de piatră devin alunecoase.",
+                "en": "Bring waterproof gear for this outdoor monument, as the stone steps get very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Mosquito Coast Factory",
+                "hu": "Mosquito Coast Factory",
+                "ro": "Mosquito Coast Factory",
+                "en": "Mosquito Coast Factory"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte kulturelle Flucht vor dem Regen im Innenbereich; nehmen Sie sich Zeit für die Ausstellungen.",
+                "hu": "Tökéletes fedett kulturális menedék az eső elől; szánjon bőséges időt a kiállítások felfedezésére.",
+                "ro": "O evadare culturală perfectă la interior din calea ploii; petrece timp explorând expozițiile.",
+                "en": "A perfect indoor cultural escape from the rain; spend quality time exploring the art exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallée Mabile See",
+                "hu": "Vallée Mabile-tó",
+                "ro": "Lacul Vallée Mabile",
+                "en": "Vallée Mabile Lake"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt im Regen stimmungsvoll, aber tragen Sie wasserdichte Stiefel für die schlammigen Uferwege.",
+                "hu": "A tó esőben is gyönyörű és hangulatos, de viseljen vízálló csizmát a saras tóparti ösvények miatt.",
+                "ro": "Lacul arată melancolic în ploaie, dar poartă cizme impermeabile pentru potecile noroioase de pe mal.",
+                "en": "The lake looks moody in the rain, but be sure to wear waterproof boots for the muddy lakeside trails."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der Kirche. Mittags wärmt ein flotter Spaziergang zur Fabrik. Erkunden Sie nachmittags den frostigen See, bevor die Sonne gegen 17 Uhr untergeht. Abends sind ein dicker Mantel und ein Heißgetränk Pflicht.",
+            "hu": "A csípős téli reggel a templomnál indul. Délben egy fürge séta a gyárhoz segít felmelegedni. Kora délután fedezze fel a fagyos tavat, mielőtt 17:00 körül lemenne a nap. Este vastag kabát és egy forró ital kötelező a hideg ellen.",
+            "ro": "O dimineață de iarnă geroasă începe la biserică. La prânz, o plimbare rapidă spre fabrică te încălzește. Explorează lacul înghețat după-amiaza înainte de apusul de la ora 17:00. Seara necesită un palton gros și o băutură fierbinte.",
+            "en": "A crisp winter morning starts at the church. Noon brings a brisk walk to the factory to warm up. Explore the frosty lake in the afternoon before the early sunset around 5 PM. Evening requires a heavy coat and a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den dicken Steinmauern auf, die die bittere Winterkälte effektiv draußen halten.",
+                "hu": "Melegedjen fel a vastag kőfalak között, amelyek kiválóan kint tartják a csípős téli hideget.",
+                "ro": "Încălzește-te între zidurile groase de piatră care țin frigul tăios al iernii departe de tine.",
+                "en": "Warm up inside the thick stone walls that effectively keep the biting winter chill out."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Savenay",
+                "hu": "Savenay Vasútállomás",
+                "ro": "Gara Savenay",
+                "en": "Savenay Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Der beheizte Warteraum bietet eine kurze Erholung vom eisigen Wind beim Beobachten der Züge.",
+                "hu": "A fűtött váróterem rövid felüdülést nyújt a fagyos szél elől, amíg megfigyeli a vonatokat.",
+                "ro": "Sala de așteptare oferă un scurt răgaz de la vântul înghețat în timp ce privești trenurile.",
+                "en": "The waiting room offers a brief respite from the freezing wind while observing the passing trains."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Kalvarienberg von Savenay",
+                "hu": "Savenay Kálváriája",
+                "ro": "Calvarul din Savenay",
+                "en": "The Calvary of Savenay"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten freie Sicht, aber ziehen Sie sich wegen des Windes auf dem Hügel warm an.",
+                "hu": "A csupasz téli fák zavartalan kilátást nyújtanak, de öltözzön melegen a dombtetőn fújó szél miatt.",
+                "ro": "Copacii goi de iarnă oferă vederi neobstrucționate, dar îmbracă-te gros pentru vântul de pe deal.",
+                "en": "The bare winter trees offer unobstructed views, but wrap up warmly against the biting hilltop breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Mosquito Coast Factory",
+                "hu": "Mosquito Coast Factory",
+                "ro": "Mosquito Coast Factory",
+                "en": "Mosquito Coast Factory"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Stopp im Warmen, um die Hände aufzutauen, während Sie die lokale Kunst bewundern.",
+                "hu": "Kellemes benti megálló, ahol felmelegítheti a kezét a helyi művészeti kiállítások felfedezése közben.",
+                "ro": "O oprire interioară confortabilă pentru a-ți dezgheța mâinile explorând în același timp arta locală.",
+                "en": "A cozy indoor stop to thaw your hands while immersing yourself in the local art and culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallée Mabile See",
+                "hu": "Vallée Mabile-tó",
+                "ro": "Lacul Vallée Mabile",
+                "en": "Vallée Mabile Lake"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Uferlandschaft ist atemberaubend, aber beenden Sie Ihren Spaziergang vor Einbruch der Dunkelheit um 17 Uhr.",
+                "hu": "A dérlepte partvidék lenyűgöző, de mindenképp fejezze be a sétát a korai, 17:00 órás sötétedés előtt.",
+                "ro": "Malul înghețat este uimitor, dar planifică să termini plimbarea înainte de apusul timpuriu de la ora 17:00.",
+                "en": "The frosty shores are stunning, but plan to finish your outdoor walk before the early 5 PM sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a csendes nyugati részen a békés Église Notre-Dame des Aulnes felfedezésével. Kerékpározzon a városközpont felé, megcsodálva a történelmi emlékműveket és a fenséges templomot. Hagyja el a központot, hogy élvezze a kilátást Savenay Kálváriájáról. Fejezze be élményét egy kellemes bringázással a rekreációs tavakhoz és egy lombkorona-kalanddal.",
         "ro": "Începeți în liniștea vestului explorând pașnica Église Notre-Dame des Aulnes. Pedalați spre centrul orașului admirând monumente istorice și maiestuoasa biserică. Părăsiți centrul pentru a vă bucura de priveliștile de la Calvarul din Savenay. Încheiați experiența cu o plimbare plăcută spre lacurile de recreere și o aventură printre copaci.",
         "en": "Start in the quiet west exploring the peaceful Église Notre-Dame des Aulnes. Cycle towards the town center taking in historic monuments and the majestic church. Leave the center to soak in the views from the Calvary of Savenay. Finish your experience with a nice ride to the recreational lakes and a treetop adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an diesem nassen Morgen vorsichtig zu den Kirchen. Mittags ist Regenkleidung unerlässlich, wenn Sie das Zentrum passieren. Der Nachmittag am See und Park erfordert Vorsicht auf schlammigen Wegen. Abends sind gute Lichter auf rutschigen Straßen wichtig.",
+            "hu": "Óvatosan tekerjen ezen a nedves reggelen az első templomokhoz. Délre a vízálló ruha elengedhetetlen a városban. A délutáni tónál és kalandparkban vigyázzon a sáros utakon. Az esti kerékpározás jó világítást igényel a csúszós aszfalton.",
+            "ro": "Pedalează cu grijă în această dimineață umedă spre biserici. La prânz, hainele impermeabile sunt esențiale. După-amiaza la lac și parc necesită atenție sporită pe potecile noroioase. Seara, ciclismul cere lumini bune pe drumurile alunecoase.",
+            "en": "Ride carefully this wet morning to the first churches. By noon, waterproofs are essential as you pass the station. The afternoon at the lake and park requires caution on muddy paths. Evening cycling demands good lights on slick, wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame des Aulnes",
+                "hu": "Église Notre-Dame des Aulnes",
+                "ro": "Église Notre-Dame des Aulnes",
+                "en": "Église Notre-Dame des Aulnes"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Schutz vor dem Regen; seien Sie vorsichtig auf den nassen Zugangswegen, wenn Sie bremsen.",
+                "hu": "Csendes menedék az eső elől; fékezzen nagyon óvatosan a nedves és csúszós megközelítési utakon.",
+                "ro": "Un adăpost senin de ploaie; fii atent pe căile de acces umede atunci când pui frână cu bicicleta.",
+                "en": "A serene shelter from the rain; be careful on the wet approach paths as you brake your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Calvaire",
+                "hu": "Le Calvaire",
+                "ro": "Le Calvaire",
+                "en": "Le Calvaire"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht diesem Ort eine dramatische Note, aber die umliegenden Steine werden sehr rutschig.",
+                "hu": "Az eső drámai hangulatot kölcsönöz a helynek, de a környező kövek és utak rendkívül csúszóssá válnak.",
+                "ro": "Ploaia adaugă o notă dramatică aici, dar pietrele din jur devin foarte alunecoase la umezeală.",
+                "en": "The rain adds a dramatic feel here, but the surrounding stones and paths get very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um Ihre Fahrradausrüstung zu trocknen; die Tropfen erzeugen eine friedliche Atmosphäre.",
+                "hu": "Lépjen be, hogy megszárítsa a kerékpáros felszerelését; az esőcseppek békés atmoszférát teremtenek.",
+                "ro": "Intră pentru a-ți usca echipamentul de ciclism; picăturile de ploaie creează o atmosferă pașnică.",
+                "en": "Step inside to dry your cycling gear; the echoing raindrops create a peaceful, dry atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Savenay",
+                "hu": "Savenay Vasútállomás",
+                "ro": "Gara Savenay",
+                "en": "Savenay Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Ein praktischer überdachter Ort, um Ihre Fahrradkette und Karte zu überprüfen, bevor Sie weiterfahren.",
+                "hu": "Praktikus fedett helyszín a kerékpárlánc és a térkép ellenőrzésére, mielőtt folytatná az utat a szitálásban.",
+                "ro": "Un loc acoperit util pentru a verifica lanțul bicicletei și harta înainte de a continua prin burniță.",
+                "en": "A handy covered spot to check your bike chain and map before continuing in the steady drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Kalvarienberg von Savenay",
+                "hu": "Savenay Kálváriája",
+                "ro": "Calvarul din Savenay",
+                "en": "The Calvary of Savenay"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf schlammige Pfützen auf dem Radweg, der zu diesem feierlichen Steinkreuz hinaufführt.",
+                "hu": "Ügyeljen a sáros tócsákra a kerékpárúton, amely ehhez az ünnepélyes kőkereszthez vezet felfelé.",
+                "ro": "Atenție la bălțile noroioase de pe traseul de biciclete care duce până la această cruce solemnă.",
+                "en": "Watch out for muddy puddles on the cycle route leading up to this solemn and historic stone cross."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallée Mabile See",
+                "hu": "Vallée Mabile-tó",
+                "ro": "Lacul Vallée Mabile",
+                "en": "Vallée Mabile Lake"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, da die Uferwege bei nassem Wetter zu einer Schlammschlacht werden.",
+                "hu": "Maradjon a burkolt utakon, mivel a tóparti ösvények nedves időben igazi saras kihívássá válnak.",
+                "ro": "Rămâi pe potecile pavate, deoarece traseele de pe mal devin o provocare noroioasă pe vreme umedă.",
+                "en": "Keep to the paved paths, as the unpaved lakeside trails become a muddy challenge in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "La Vallée des Korrigans - Tepacap!",
+                "hu": "La Vallée des Korrigans - Tepacap!",
+                "ro": "La Vallée des Korrigans - Tepacap!",
+                "en": "La Vallée des Korrigans - Tepacap!"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie volle Regenkleidung; beachten Sie, dass einige Hochseilabschnitte bei starkem Regen schließen können.",
+                "hu": "Viseljen teljes vízálló ruházatot; vegye figyelembe, hogy erős esőben néhány kötélpálya bezárhat.",
+                "ro": "Poartă haine impermeabile; reține că unele secțiuni de la înălțime se pot închide pe ploaie abundentă.",
+                "en": "Wear full waterproofs; note that some high-rope sections may be forced to close during heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Morgenfahrt zu den Kirchen erfordert Thermohandschuhe. Mittags hält Sie das Radfahren in der Stadt angenehm warm. Verbringen Sie den Nachmittag am See vor der frühen Winterdämmerung. Abends sind starke Fahrradlichter und Schichten gefragt.",
+            "hu": "A fagyos reggeli tekeréshez a templomokig termokesztyű kell. A déli kerékpározás melegen tart a városban. A délutánt a tónál töltse a korai téli szürkület előtt. Az este erős kerékpárlámpákat és réteges öltözködést kíván.",
+            "ro": "O plimbare matinală geroasă necesită mănuși termice groase. Ciclismul de la prânz te menține cald. Petrece după-amiaza la lac înainte de amurgul timpuriu de iarnă. Seara cere lumini puternice la bicicletă și haine groase.",
+            "en": "A frosty morning ride to the churches requires thermal gloves. Noon cycling keeps you pleasantly warm as you navigate the town. Spend the afternoon at the lake before the early winter dusk. Evening calls for powerful bike lights and warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame des Aulnes",
+                "hu": "Église Notre-Dame des Aulnes",
+                "ro": "Église Notre-Dame des Aulnes",
+                "en": "Église Notre-Dame des Aulnes"
+              },
+              "tip_5lang": {
+                "de": "Die klare Morgenluft ist erfrischend; tragen Sie Thermohandschuhe für die kalte Fahrt hierher.",
+                "hu": "A csípős reggeli levegő frissítő; mindenképp viseljen termokesztyűt a hideg idevezető úton.",
+                "ro": "Aerul dimineții este răcoritor; poartă mănuși termice pentru plimbarea rece cu bicicleta până aici.",
+                "en": "The crisp morning air is refreshing; make sure to wear thermal gloves for the cold ride here."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Calvaire",
+                "hu": "Le Calvaire",
+                "ro": "Le Calvaire",
+                "en": "Le Calvaire"
+              },
+              "tip_5lang": {
+                "de": "Wunderschön im Frost, aber achten Sie besonders auf eisige Stellen auf dem Radweg dorthin.",
+                "hu": "Gyönyörű a fagyban, de nagyon ügyeljen a jégfoltokra az idevezető kerékpárúton és a köveken.",
+                "ro": "Superb în ger, dar fii atent la porțiunile de gheață de pe pista de biciclete care duce spre el.",
+                "en": "Beautiful in the frost, but be highly mindful of icy patches on the cycle path leading to it."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um Gesicht und Hände aufzuwärmen, bevor Sie sich wieder in den Fahrradsattel schwingen.",
+                "hu": "Kiváló hely az arc és a kezek felmelegítésére, mielőtt újra nyeregbe pattanna a hidegben.",
+                "ro": "Un loc excelent pentru a-ți încălzi fața și mâinile înainte de a te urca din nou în șa.",
+                "en": "A great indoor place to warm your face and hands before getting back onto your bicycle saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Savenay",
+                "hu": "Savenay Vasútállomás",
+                "ro": "Gara Savenay",
+                "en": "Savenay Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich in der Nähe des Bahnhofs einen heißen Kaffee, um Ihre Energie in der Kälte aufrechtzuerhalten.",
+                "hu": "Vegyél egy gyors forró kávét az állomás közelében, hogy megőrizd az energiád a metsző hidegben.",
+                "ro": "Ia o cafea fierbinte rapidă lângă gară pentru a-ți menține energia în frigul pătrunzător.",
+                "en": "Grab a quick hot coffee near the station to maintain your cycling energy in the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Kalvarienberg von Savenay",
+                "hu": "Savenay Kálváriája",
+                "ro": "Calvarul din Savenay",
+                "en": "The Calvary of Savenay"
+              },
+              "tip_5lang": {
+                "de": "Der klare Winterhimmel bietet eine starke Kulisse; halten Sie Ihren Hals gut gegen den Wind geschützt.",
+                "hu": "A tiszta téli égbolt éles hátteret ad; tartsa melegen a nyakát a dombtetőn fújó szél ellen.",
+                "ro": "Cerul senin de iarnă oferă un fundal dur; păstrează-ți gâtul cald împotriva vântului rece.",
+                "en": "The clear winter sky provides a stark backdrop; keep your neck warmly wrapped against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallée Mabile See",
+                "hu": "Vallée Mabile-tó",
+                "ro": "Lacul Vallée Mabile",
+                "en": "Vallée Mabile Lake"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie zügig, um die gefrorenen Seeufer zu genießen; stellen Sie sicher, dass Ihre Lichter geladen sind.",
+                "hu": "Tekerjen tempósan, hogy élvezze a befagyott tópartot; ellenőrizze, hogy a kerékpárlámpái fel vannak-e töltve.",
+                "ro": "Pedalează rapid pentru a te bucura de marginile înghețate; asigură-te că luminile sunt încărcate.",
+                "en": "Cycle briskly to enjoy the frozen lake edges; ensure your bike lights are fully charged for dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "La Vallée des Korrigans - Tepacap!",
+                "hu": "La Vallée des Korrigans - Tepacap!",
+                "ro": "La Vallée des Korrigans - Tepacap!",
+                "en": "La Vallée des Korrigans - Tepacap!"
+              },
+              "tip_5lang": {
+                "de": "Die klare Luft ist toll zum Klettern, aber enden Sie vor 16:30 Uhr, da die Schatten schnell länger werden.",
+                "hu": "A friss levegő kiváló a mászáshoz, de fejezze be 16:30 előtt, mivel az árnyékok gyorsan megnyúlnak.",
+                "ro": "Aerul curat e minunat pentru cățărat, dar termină înainte de 16:30, deoarece umbrele se lungesc rapid.",
+                "en": "The crisp air is great for climbing, but finish before 4:30 PM as winter shadows lengthen quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje a város szélén található dinamikus kulturális térben, mielőtt felfedezné a történelmi emlékműveket és a központi vasútállomást. Vezessen a nyugodtabb spirituális helyekhez nyugaton, és merüljön el a csendben. Zárja átfogó autós túráját a vízparti pihenéssel és a természeti park nyújtotta izgalmakkal, bemutatva Savenayt minden szögből.",
         "ro": "Începeți în spațiul cultural dinamic de la marginea orașului, înainte de a explora monumente istorice și gara centrală. Conduceți spre siturile spirituale mai liniștite din vest. Încheiați călătoria dumneavoastră cuprinzătoare cu relaxare la malul apei și o perioadă palpitantă în parcul natural, evidențiind Savenay din toate unghiurile.",
         "en": "Kick off at the dynamic cultural space on the city's edge before exploring historic monuments and the central station. Drive out to the quieter spiritual sites in the west and soak in the silence. Conclude your comprehensive road trip with waterside relaxation and a thrilling time at the nature park, highlighting Savenay from all angles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Morgenfahrt beginnt bequem und trocken in der Kulturfabrik. Mittags gibt es kurze Sprints vom Auto zum Kalvarienberg. Nachmittags bietet der See stimmungsvolle Ausblicke aus dem Fenster. Abends ist auf nassen Straßen besondere Vorsicht geboten.",
+            "hu": "Az esős reggeli autózás kényelmesen és szárazon indul a kulturális gyárnál. Délben rövid sprintek kellenek az autótól a Kálváriáig. A délutáni parkolás a tónál borongós kilátást nyújt. Az esti vezetés fokozott óvatosságot igényel a vizes utakon.",
+            "ro": "O plimbare ploioasă de dimineață începe confortabil la fabrica culturală. La prânz, sunt necesare alergări scurte de la mașină la Calvar. După-amiaza la lac oferă priveliști melancolice din mașină. Conducerea de seară necesită prudență pe drumurile umede.",
+            "en": "A rainy morning drive starts comfortably and dry at the cultural factory. Noon involves short dashes from the car to the Calvary. Afternoon parking near the lake offers moody views from the window. Evening driving requires extra caution on wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mosquito Coast Factory",
+                "hu": "Mosquito Coast Factory",
+                "ro": "Mosquito Coast Factory",
+                "en": "Mosquito Coast Factory"
+              },
+              "tip_5lang": {
+                "de": "Hervorragender überdachter Start in einen Regentag; parken Sie nah am Eingang, um nicht nass zu werden.",
+                "hu": "Kiváló fedett kezdés egy esős naphoz; parkoljon közel a bejárathoz, hogy elkerülje az elázást.",
+                "ro": "Un început interior excelent pentru o zi ploioasă; parchează aproape pentru a nu te uda.",
+                "en": "Excellent indoor start to a rainy day; park as close to the entrance as possible to avoid getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Kalvarienberg von Savenay",
+                "hu": "Savenay Kálváriája",
+                "ro": "Calvarul din Savenay",
+                "en": "The Calvary of Savenay"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen beeindruckenden Ort unter einem Regenschirm, da das Gelände schlammig wird.",
+                "hu": "Tekintse meg ezt a lenyűgöző helyet esernyő alól, mivel a környező talaj nagyon sarassá válik.",
+                "ro": "Privește acest site impresionant de sub o umbrelă, deoarece terenul din jur devine noroios.",
+                "en": "View this impressive site from under a sturdy umbrella, as the surrounding grounds get quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Savenay",
+                "hu": "Savenay Vasútállomás",
+                "ro": "Gara Savenay",
+                "en": "Savenay Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche zum Aussteigen; die Fahrbedingungen in der Nähe können langsam sein.",
+                "hu": "Használja a fedett részeket, ha ki kell szállnia; a közeli vezetési feltételek lassabbak lehetnek az esőben.",
+                "ro": "Folosește zonele acoperite dacă trebuie să cobori; condițiile de condus din apropiere pot fi lente.",
+                "en": "Utilize the covered areas if you need to step out; driving conditions nearby might be slow due to rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Sprinten Sie vom Auto zu den schweren Kirchentüren, um den trockenen, friedlichen Innenraum zu genießen.",
+                "hu": "Fusson az autótól a nehéz templomajtókig, hogy élvezze a száraz, békés belső teret.",
+                "ro": "Aleargă de la mașină la ușile grele ale bisericii pentru a te bucura de spațiul interior uscat și liniștit.",
+                "en": "Dash from your car to the heavy church doors to enjoy the completely dry, peaceful interior space."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Calvaire",
+                "hu": "Le Calvaire",
+                "ro": "Le Calvaire",
+                "en": "Le Calvaire"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Scheibenwischer an; der Regen lässt die alten Steinstrukturen besonders schön wirken.",
+                "hu": "Kapcsolja be az ablaktörlőt; az eső gyönyörűvé és ősvivé varázsolja az ősi kőszerkezeteket.",
+                "ro": "Ține ștergătoarele pornite; ploaia face ca vechile structuri de piatră să arate absolut frumos.",
+                "en": "Keep your wipers on high; the heavy rain makes the ancient stone structures look beautifully rustic."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame des Aulnes",
+                "hu": "Église Notre-Dame des Aulnes",
+                "ro": "Église Notre-Dame des Aulnes",
+                "en": "Église Notre-Dame des Aulnes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das leise Prasseln des Regens auf dem Dach im Inneren dieser charmanten, abgelegenen Kirche.",
+                "hu": "Élvezze az eső csendes kopogását a tetőn e bájos, eldugott kis templom belsejéből.",
+                "ro": "Bucură-te de zgomotul liniștit al ploii pe acoperiș în interiorul acestei biserici fermecătoare și retrase.",
+                "en": "Enjoy the quiet patter of rain on the roof inside this charming, secluded small church."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallée Mabile See",
+                "hu": "Vallée Mabile-tó",
+                "ro": "Lacul Vallée Mabile",
+                "en": "Vallée Mabile Lake"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regenstrudel vom Auto aus oder machen Sie einen kurzen Spaziergang mit guten Stiefeln.",
+                "hu": "Nézze az autóból, ahogy az eső táncol a vízen, vagy tegyen egy gyors, csizmás sétát a parton.",
+                "ro": "Privește cum dansează ploaia pe apă din mașină sau fă o scurtă plimbare bine încălțat.",
+                "en": "Watch the rain dance on the water from the comfort of your car, or take a quick, well-booted stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "La Vallée des Korrigans - Tepacap!",
+                "hu": "La Vallée des Korrigans - Tepacap!",
+                "ro": "La Vallée des Korrigans - Tepacap!",
+                "en": "La Vallée des Korrigans - Tepacap!"
+              },
+              "tip_5lang": {
+                "de": "Klettern im Freien ist bei Nässe rutschig; bleiben Sie auf den unteren Wegen und tragen Sie einen guten Regenmantel.",
+                "hu": "A szabadtéri mászás nedvesen nagyon csúszik; maradjon az alsóbb ösvényeken, és viseljen jó esőkabátot.",
+                "ro": "Cățăratul afară e alunecos când e ud; rămâi pe traseele inferioare și poartă o pelerină de ploaie bună.",
+                "en": "Outdoor climbing is slippery when wet; consider sticking to lower trails and wear a good raincoat."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den kalten Morgen im beheizten Auto zur Fabrik. Mittagsbesuche historischer Stätten sind mit einem warmen Fahrzeug sehr angenehm. Genießen Sie nachmittags den frostigen See vor Sonnenuntergang um 17 Uhr. Abends unbedingt auf Glatteis achten.",
+            "hu": "Kezdje a hideg reggelt a fűtött autóban a kulturális gyár felé. A déli történelmi látogatások kényelmesek a meleg járműből. Élvezze a fagyos tavat délután a 17:00 órás naplemente előtt. Este fokozottan vigyázzon a lefagyott utakra.",
+            "ro": "Începe dimineața rece în mașina încălzită spre fabrică. Vizitele de la prânz la site-uri istorice sunt ușoare cu un vehicul cald. Bucură-te de lacul înghețat după-amiaza, înainte de apusul de la ora 17:00. Seara înseamnă atenție la gheața neagră.",
+            "en": "Start your cold morning in the heated car heading to the cultural factory. Noon visits to historic sites are easy with a warm vehicle. Enjoy the frosty lake in the afternoon before sunset at 5 PM. Evening means watching carefully for black ice."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mosquito Coast Factory",
+                "hu": "Mosquito Coast Factory",
+                "ro": "Mosquito Coast Factory",
+                "en": "Mosquito Coast Factory"
+              },
+              "tip_5lang": {
+                "de": "Eine beheizte kulturelle Oase, um einen frostigen Morgen zu beginnen; die Innenexponate sind faszinierend.",
+                "hu": "Fűtött kulturális menedék egy fagyos reggel indításához; a benti kiállítások lenyűgözőek.",
+                "ro": "Un refugiu cultural încălzit pentru a începe o dimineață geroasă; expozițiile interioare sunt fascinante.",
+                "en": "A heated cultural haven to kick off a frosty morning; the indoor art exhibits are fascinating."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Kalvarienberg von Savenay",
+                "hu": "Savenay Kálváriája",
+                "ro": "Calvarul din Savenay",
+                "en": "The Calvary of Savenay"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich in einen dicken Mantel ein, wenn Sie aus dem warmen Auto steigen, um dieses Steindenkmal zu bewundern.",
+                "hu": "Burkolózzon vastag kabátba, amikor kiszáll a meleg autóból, hogy megcsodálja ezt a kőemlékművet.",
+                "ro": "Îmbracă-te într-un palton gros când cobori din mașina caldă pentru a admira acest monument de piatră.",
+                "en": "Wrap up in a thick coat when stepping out of the warm car to admire this exposed stone monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Savenay",
+                "hu": "Savenay Vasútállomás",
+                "ro": "Gara Savenay",
+                "en": "Savenay Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung in Ihrem Auto wird nach einem kurzen Spaziergang um diesen Knotenpunkt Ihr bester Freund sein.",
+                "hu": "Az autó fűtése lesz a legjobb barátja egy rövid séta után ezen a közlekedési csomóponton.",
+                "ro": "Încălzitorul din mașină va fi cel mai bun prieten al tău după o scurtă plimbare prin acest hub de tranzit.",
+                "en": "The heater in your car will be your best friend after a brief walk around this historic transit hub."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum mag kühl sein, aber er bietet einen majestätischen Rückzugsort vor dem frostigen Wind draußen.",
+                "hu": "A belső tér hűvös lehet, de fenséges menedéket nyújt a kinti fagyos szél elől.",
+                "ro": "Interiorul poate fi răcoros, dar oferă un refugiu majestuos din calea vântului geros de afară.",
+                "en": "The interior might be chilly, but it offers a majestic retreat from the frosty wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Calvaire",
+                "hu": "Le Calvaire",
+                "ro": "Le Calvaire",
+                "en": "Le Calvaire"
+              },
+              "tip_5lang": {
+                "de": "Das starke Winterlicht sorgt für tolle Fotos, aber achten Sie auf eisige Parkplätze in der Nähe.",
+                "hu": "A zord téli fényviszonyok remek fotókat eredményeznek, de nagyon vigyázzon a jeges parkolóhelyekre.",
+                "ro": "Lumina puternică de iarnă creează fotografii grozave, dar ai grijă la peticele de gheață din parcare.",
+                "en": "The stark winter lighting makes for great photos, but watch out for icy patches near the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame des Aulnes",
+                "hu": "Église Notre-Dame des Aulnes",
+                "ro": "Église Notre-Dame des Aulnes",
+                "en": "Église Notre-Dame des Aulnes"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Winterstopp; die umliegenden kahlen Bäume heben die alte Architektur perfekt hervor.",
+                "hu": "Gyönyörű téli megálló; a környező csupasz fák tökéletesen kiemelik a régi építészetet.",
+                "ro": "O oprire frumoasă de iarnă; copacii goi din jur scot în evidență arhitectura perfect.",
+                "en": "A beautiful winter stop; the surrounding bare trees highlight the historic architecture perfectly."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallée Mabile See",
+                "hu": "Vallée Mabile-tó",
+                "ro": "Lacul Vallée Mabile",
+                "en": "Vallée Mabile Lake"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Landschaft ist aus dem Autofenster atemberaubend; steigen Sie für einen kurzen Spaziergang aus.",
+                "hu": "A fagyos táj lenyűgöző az autó ablakából is; szálljon ki egy élénkítő, frissítő rövid sétára.",
+                "ro": "Peisajul înghețat e uimitor de la fereastra mașinii; coboară pentru o plimbare scurtă și revigorantă.",
+                "en": "The frosty landscape is stunning from the car window; step out for a brisk, refreshing walk."
+              }
+            },
+            {
+              "name": {
+                "de": "La Vallée des Korrigans - Tepacap!",
+                "hu": "La Vallée des Korrigans - Tepacap!",
+                "ro": "La Vallée des Korrigans - Tepacap!",
+                "en": "La Vallée des Korrigans - Tepacap!"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Luft an den Seilen, aber planen Sie, bis 16 Uhr zu gehen, da es dunkel und frierend wird.",
+                "hu": "Élvezze a friss levegőt a köteleken, de tervezzen 16:00 óráig távozni, mivel hamar sötétedik és fagy.",
+                "ro": "Bucură-te de aerul curat pe frânghii, dar planifică să pleci până la ora 16:00, deoarece se întunecă și îngheață.",
+                "en": "Enjoy the crisp air on the ropes, but plan to leave by 4 PM as it gets dark and freezing rapidly."
+              }
+            }
+          ]
+        }
       }
     }
   }

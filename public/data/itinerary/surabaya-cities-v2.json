@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a helyi örökség felfedezésével, megismerve a klasszikus oktatás gyökereit és a kormányzói emlékműveket.\n\nA déli hőség tökéletes egy rövid megállóra a bambuszlándzsáknál, mielőtt árnyékot keresne.\n\nDélután lépjen be egy igazi tengeralattjáróba, és merüljön el a haditengerészet történelmében.\n\nZárja a napot egy tanulságos látogatással az egészségügyi múzeumban.",
         "ro": "Începeți dimineața explorând rădăcinile educaționale locale și aducând omagii la memorialele istorice.\n\nCăldura amiezii este perfectă pentru o scurtă oprire la sulițele de bambus înainte de a căuta umbră.\n\nDupă-amiaza vă duce în interiorul unui submarin real, cufundându-vă în istoria navală a orașului.\n\nÎncheiați ziua cu o vizită plină de învățăminte la muzeul sănătății, pe măsură ce se răcește.",
         "en": "Start your morning with a deep dive into local heritage, exploring classic educational roots and paying respects at memorials.\n\nMidday heat is perfect for a quick stop at the striking bamboo spears before finding shade.\n\nAfternoon takes you inside a real submarine and immerses you in authentic naval history.\n\nConclude the day with an enlightening visit to the health museum as the city cools down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Museum, wo das prasselnde Regengeräusch auf dem Dach eine fast meditative Atmosphäre schafft. Die Ausstellungen bieten perfekten Schutz vor den ersten Schauern.\n\nMittags navigieren wir durch die nassen Straßen zu den Monumenten. Die glänzenden Gehwege reflektieren die Statuen, was trotz der Feuchtigkeit für beeindruckende Fotomotive sorgt.\n\nAm Nachmittag bietet das Innere des U-Boots ein trockenes Abenteuer. Danach führt der Weg zum Krebsmuseum, wobei ein stabiler Schirm wegen der plötzlichen Tropengüsse unerlässlich bleibt.\n\nDer Abend endet bei sanftem Regen. Die beleuchteten Denkmäler wirken im Dunst mystisch, während wir uns nach einem Tag in der feuchten Wärme in eine trockene Unterkunft zurückziehen.",
+            "hu": "A reggel a múzeum falai között indul, ahol a tetőn kopogó eső megnyugtató ritmusa kíséri a kiállítások megtekintését. A fedett terek tökéletes menedéket nyújtanak az első záporok elől.\n\nDélben a vizes utcákon haladunk a műemlékek felé. A tükröződő aszfalton megkettőződnek a szobrok alakjai, ami a pára ellenére is különleges látványt nyújt a gyalogos felfedezőknek.\n\nDélután a tengeralattjáró belseje nyújt izgalmas és száraz kalandot. Ezt követően a Rákmúzeum felé vesszük az irányt, ahol a benti tárlatok alatt végleg megszárítkozhatunk a kinti zivatar után.\n\nAz este csendes esőben zárul. A kivilágított emlékművek misztikus fényben úsznak a párás levegőben, miközben a város fényei megcsillannak a tócsák felszínén a nap végén.",
+            "ro": "Dimineața începe în interiorul muzeului, unde sunetul ploii pe acoperiș creează o atmosferă meditativă în timp ce explorăm exponatele protejați de intemperii.\n\nLa prânz, navigăm pe străzile ude către monumentele istorice. Reflexiile de pe trotuarele umede oferă oportunități fotografice unice, în ciuda umezelii constante din aerul tropical.\n\nDupă-amiaza, interiorul submarinului oferă o aventură uscată și fascinantă. Continuăm spre Muzeul Cancerului, profitând de spațiile interioare pentru a evita aversa bruscă de după-amiază.\n\nSeara se încheie cu o ploaie ușoară care răcorește orașul. Monumentele iluminate par mistice prin perdeaua de apă, oferind un final liniștit unei zile de explorare urbană umedă.",
+            "en": "The morning starts inside the museum, where the sound of rain on the roof adds a cozy layer to the historical exhibits, keeping you dry from the initial tropical downpour.\n\nAt noon, we navigate the glistening streets toward the monuments. The wet pavement creates beautiful reflections of the statues, making for unique photo opportunities despite the humidity.\n\nIn the afternoon, the submarine's interior provides a fascinating and dry refuge. We then move to the Cancer Museum, staying indoors to avoid the heaviest rain of the day.\n\nThe evening concludes with a gentle drizzle. The illuminated monuments look mystical through the mist, while the city lights dance on the puddles as we finish our walking tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Pendidikan",
+                "hu": "Museum Pendidikan",
+                "ro": "Museum Pendidikan",
+                "en": "Museum Pendidikan"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Bildungsgeschichte in den trockenen Hallen und nutzen Sie die Schließfächer für Ihre nassen Regensachen direkt am Eingang.",
+                "hu": "Fedezze fel az oktatástörténetet a száraz termekben, és használja a bejáratnál lévő szekrényeket a vizes esernyők és kabátok tárolására a kényelmes nézelődéshez.",
+                "ro": "Explorați istoria educației în sălile uscate și folosiți vestiarele de la intrare pentru a vă lăsa pelerina de ploaie umedă înainte de tur.",
+                "en": "Explore the history of education within these dry halls and make use of the lockers at the entrance to store your wet rain gear while touring."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Gubernur Suryo",
+                "hu": "Monumen Gubernur Suryo",
+                "ro": "Monumen Gubernur Suryo",
+                "en": "Monumen Gubernur Suryo"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal kurz und achten Sie auf den rutschigen Marmor unter Ihren Füßen, besonders wenn die Regengüsse gerade erst aufgehört haben.",
+                "hu": "Tekintse meg gyorsan az emlékművet, és figyeljen a lába elé, mert a márványfelületek rendkívül csúszóssá válnak a trópusi eső után a téren.",
+                "ro": "Admirați monumentul rapid și aveți grijă la marmura alunecoasă de sub picioare, mai ales dacă aversele tocmai s-au oprit în această zonă deschisă.",
+                "en": "Take a quick look at the monument and watch your step, as the marble surfaces become very slippery immediately after the tropical rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Bambu Runcing",
+                "hu": "Tugu Bambu Runcing",
+                "ro": "Tugu Bambu Runcing",
+                "en": "Tugu Bambu Runcing"
+              },
+              "tip_5lang": {
+                "de": "Die scharfen Bambusspeere wirken im Regen besonders dramatisch; stellen Sie sich unter die nahen Vordächer, um das Denkmal trocken zu fotografieren.",
+                "hu": "A hegyes bambuszlándzsák drámai látványt nyújtanak az esőben; álljon a közeli előtetők alá, hogy szárazon készíthessen fotókat erről a szabadságszimbólumról.",
+                "ro": "Sulițele de bambus arată dramatic în ploaie; stați sub copertinele din apropiere pentru a fotografia monumentul fără a vă uda echipamentul electronic.",
+                "en": "The sharp bamboo spears look dramatic in the rain; stand under nearby overhangs to photograph this freedom symbol while keeping your camera dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Jenderal Sudirman",
+                "hu": "Monumen Jenderal Sudirman",
+                "ro": "Monumen Jenderal Sudirman",
+                "en": "Monumen Jenderal Sudirman"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto der glänzenden Statue ist lohnenswert, solange Sie wasserfeste Schuhe tragen, da sich hier oft kleine Pfützen bilden.",
+                "hu": "Érdemes megállni egy gyors fotóra a fénylő szobornál, de viseljen vízálló cipőt, mert a járda mentén gyorsan összegyűlik az esővíz a mélyedésekben.",
+                "ro": "Merită să vă opriți pentru o poză rapidă cu statuia strălucitoare, dar purtați încălțăminte impermeabilă deoarece apa se adună repede în micile bălți.",
+                "en": "It's worth a quick photo of the shiny statue, but wear waterproof shoes as rainwater tends to collect in puddles along the sidewalk here."
+              }
+            },
+            {
+              "name": {
+                "de": "Submarine Monument",
+                "hu": "Submarine Monument",
+                "ro": "Submarine Monument",
+                "en": "Submarine Monument"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in das Innere des KRI Pasopati ein, das den besten Schutz vor Regen bietet und ein authentisches, trockenes Marine-Erlebnis ermöglicht.",
+                "hu": "Bújjon be a KRI Pasopati tengeralattjáró belsejébe, amely tökéletes védelmet nyújt a zápor elől, miközben felfedezi a tengerészeti hadviselés izgalmas részleteit.",
+                "ro": "Intrați în interiorul submarinului KRI Pasopati, care oferă cel mai bun adăpost împotriva ploii și o experiență navală autentică și complet uscată.",
+                "en": "Step inside the KRI Pasopati submarine, which offers the best shelter from the rain while providing an authentic and dry naval history experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Kanker Indonesia",
+                "hu": "Museum Kanker Indonesia",
+                "ro": "Museum Kanker Indonesia",
+                "en": "Museum Kanker Indonesia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in dieser informativen Innenausstellung und lassen Sie Ihren Regenschirm im praktischen Halter am Eingang abtropfen.",
+                "hu": "Zárja a napot ebben az informatív beltéri kiállításban, és hagyja az esernyőjét a bejáratnál található tartóban, amíg a tárlatokat tanulmányozza.",
+                "ro": "Încheiați ziua în această expoziție interioară informativă și lăsați umbrela la suportul de la intrare pentru a explora relaxat galeriile medicale.",
+                "en": "Finish your day in this informative indoor exhibition and leave your umbrella at the entrance stand to explore the medical displays in comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Surabaya ist überraschend frisch. Die milden Temperaturen laden zu einem langen Spaziergang ein, bevor die Sonne ihre volle Kraft entfaltet.\n\nMittags genießen wir das angenehme Klima bei den Monumenten. Die Luft ist klarer als sonst, was die Details der historischen Statuen besonders scharf hervorhebt.\n\nAm Nachmittag besuchen wir das U-Boot und das Krebsmuseum. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Licht für letzte Außenaufnahmen.\n\nDer Abend bricht früh herein und bringt eine angenehme Kühle mit sich. Die Stadtlichter erstrahlen in der klaren Winternacht, während wir den Tag in einem gemütlichen, warmen Café ausklingen lassen.",
+            "hu": "A reggel Surabayában meglepően friss és üde. A kellemes hőmérséklet ideális a gyalogos felfedezéshez, mielőtt a nap sugarai felerősödnének a délelőtt folyamán.\n\nDélben az enyhébb klímát élvezzük a műemlékeknél. A levegő tisztább a megszokottnál, így a történelmi szobrok apró részletei is élesen kirajzolódnak a napsütésben.\n\nDélután a tengeralattjáró és a múzeum hűvös falai között pihenünk meg. Mivel a nap már 17:00 körül nyugodni kezd, korán élvezhetjük a város esti fényeit.\n\nAz este hamar leszáll, és magával hozza a trópusi „tél” hűvösségét. A kivilágított utcák barátságos hangulatot árasztanak, tökéletes zárást nyújtva a napnak.",
+            "ro": "Dimineața în Surabaya este surprinzător de proaspătă. Temperaturile blânde sunt ideale pentru o plimbare lungă înainte ca soarele să devină prea puternic.\n\nLa prânz, ne bucurăm de climatul plăcut la monumentele istorice. Aerul este mai clar, evidențiind detaliile statuilor într-o lumină perfectă pentru fotografii.\n\nDupă-amiaza vizităm submarinul și muzeul cancerului. Deoarece soarele apune deja în jur de ora 17:00, profităm de lumina aurie pentru ultimele cadre exterioare.\n\nSeara vine devreme și aduce o răcoare plăcută. Luminile orașului strălucesc în noaptea senină de iarnă, în timp ce ne retragem într-o cafenea primitoare pentru finalul zilei.",
+            "en": "The morning in Surabaya is surprisingly fresh. The mild temperatures are perfect for a long walk before the sun reaches its full tropical intensity later on.\n\nAt noon, we enjoy the pleasant climate at the monuments. The air is clearer than usual, making the historical statues stand out sharply against the bright sky.\n\nIn the afternoon, we visit the submarine and the Cancer Museum. Since the sun sets early around 5:00 PM, we capture the golden hour light for our final photos.\n\nThe evening arrives early, bringing a comfortable chill. The city lights shine brightly in the clear winter night as we finish our day in a cozy, warm spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Pendidikan",
+                "hu": "Museum Pendidikan",
+                "ro": "Museum Pendidikan",
+                "en": "Museum Pendidikan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühlen Ausstellungsräume am Morgen und tragen Sie eine leichte Jacke, da die Klimaanlage im Winter oft sehr stark eingestellt ist.",
+                "hu": "Élvezze a hűvös kiállítótermeket reggel, de legyen Önnél egy vékony pulóver, mert a légkondicionáló a téli szezonban is erősen üzemel a múzeumban.",
+                "ro": "Bucurați-vă de sălile răcoroase dimineața și purtați o jachetă ușoară, deoarece aerul condiționat este adesea setat la temperaturi scăzute în interior.",
+                "en": "Enjoy the cool exhibition rooms in the morning, but carry a light sweater as the air conditioning is often kept quite low during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Gubernur Suryo",
+                "hu": "Monumen Gubernur Suryo",
+                "ro": "Monumen Gubernur Suryo",
+                "en": "Monumen Gubernur Suryo"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist im Winter milder; nutzen Sie die Zeit für ein Picknick im Park, bevor die Schatten am frühen Nachmittag länger werden.",
+                "hu": "A déli nap télen enyhébb, így bátran elidőzhet a parkban egy rövid pihenőre, mielőtt a kora délutáni árnyékok elkezdenének megnyúlni a szobornál.",
+                "ro": "Soarele de la prânz este mai blând iarna; profitați de timp pentru o scurtă relaxare în parc înainte ca umbrele să se lungească devreme după-amiaza.",
+                "en": "The midday sun is milder in winter; take advantage of the weather for a short rest in the park before the shadows start to lengthen early in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Bambu Runcing",
+                "hu": "Tugu Bambu Runcing",
+                "ro": "Tugu Bambu Runcing",
+                "en": "Tugu Bambu Runcing"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt den weißen Marmor des Denkmals leuchten; kommen Sie kurz vor 16 Uhr für die besten Lichtverhältnisse zum Fotografieren.",
+                "hu": "A tiszta téli fényben ragyog az emlékmű fehér márványa; érkezzen délután 4 óra előtt, hogy elkapja a legszebb fényeket a monumentális bambuszoknál.",
+                "ro": "Lumina clară de iarnă face marmura albă a monumentului să strălucească; veniți înainte de ora 16 pentru cele mai bune condiții de fotografiere.",
+                "en": "The clear winter light makes the monument's white marble shine; arrive before 4 PM to capture the best lighting for your photos of the bamboo spears."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Jenderal Sudirman",
+                "hu": "Monumen Jenderal Sudirman",
+                "ro": "Monumen Jenderal Sudirman",
+                "en": "Monumen Jenderal Sudirman"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Statue am späten Nachmittag, wenn die kühle Brise den Spaziergang entlang der Hauptstraße besonders angenehm und erholsam macht.",
+                "hu": "Látogassa meg a szobrot késő délután, amikor a hűvös szellő kellemessé és pihentetővé teszi a sétát a főút mentén a naplemente előtt.",
+                "ro": "Vizitați statuia la sfârșitul după-amiezii, când briza răcoroasă face plimbarea de-a lungul străzii principale extrem de plăcută și relaxantă.",
+                "en": "Visit the statue in the late afternoon, when the cool breeze makes the walk along the main road especially pleasant and refreshing before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Submarine Monument",
+                "hu": "Submarine Monument",
+                "ro": "Submarine Monument",
+                "en": "Submarine Monument"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren des U-Boots ist es im Winter viel angenehmer als im Sommer; nutzen Sie die moderaten Temperaturen für eine ausführliche Besichtigung.",
+                "hu": "A tengeralattjáró belsejében télen sokkal kellemesebb a hőmérséklet, mint nyáron; használja ki ezt az időt egy alapos és kényelmes felfedezésre.",
+                "ro": "În interiorul submarinului este mult mai plăcut iarna decât vara; profitați de temperaturile moderate pentru o explorare detaliată a navei.",
+                "en": "Inside the submarine, the temperature is much more comfortable in winter than in summer; take your time for a detailed and leisurely tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Kanker Indonesia",
+                "hu": "Museum Kanker Indonesia",
+                "ro": "Museum Kanker Indonesia",
+                "en": "Museum Kanker Indonesia"
+              },
+              "tip_5lang": {
+                "de": "Wenn Sie das Museum verlassen, wird es bereits dunkel sein; genießen Sie die frühe Abendbeleuchtung der Stadt auf Ihrem Rückweg zur Unterkunft.",
+                "hu": "Amikor elhagyja a múzeumot, már sötétedni fog; élvezze a város korai esti fényeit a visszaúton, és készüljön fel a hűvösebb éjszakai levegőre.",
+                "ro": "Când veți părăsi muzeul va fi deja întuneric; bucurați-vă de luminile timpurii ale orașului pe drumul de întoarcere spre cazare în aerul rece.",
+                "en": "By the time you leave the museum, it will already be dark; enjoy the early evening city lights on your way back while the air stays pleasantly cool."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a kerékpártúrát egy egyedi mecsetnél, amely tökéletesen ötvözi a kulturális építészeti stílusokat a reggeli fényben.\n\nTekerjen a déli órákban, hogy felfedezze a zenei történelmet és a történelmi ikonokat.\n\nA délutáni út a történelmi küzdelmek nyomába ered, elhaladva a lenyűgöző emlékművek mellett.\n\nFejezze be a túrát a néprajzi múzeumnál, elgondolkodva az indonéz kultúrák rejtelmein.",
         "ro": "Începeți turul cu bicicleta la o moschee unică, îmbinând perfect arhitecturile culturale diverse în lumina frumoasă a dimineții.\n\nPedalați spre amiază pentru a descoperi istoria muzicală și repere istorice pe bulevarde umbrite.\n\nCălătoria de după-amiază urmează lupta istorică, trecând pe lângă monumente impresionante.\n\nTerminați pedalatul la muzeul etnografic, meditând asupra misterelor culturilor indoneziene.",
         "en": "Kick off your cycling tour at a unique mosque, blending distinct cultural architectures perfectly in the morning light.\n\nPedal into the midday to uncover musical history and monumental historic icons along shaded boulevards.\n\nYour afternoon ride follows the local struggle, passing striking statues and lively street corners.\n\nFinish cycling at the ethnographic museum, pondering the mysteries of Indonesian cultures."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt an der Cheng-Hoo-Moschee, während feiner Sprühregen die farbenfrohen Wände benetzt. Wir nutzen die überdachten Bereiche der Moschee für die erste Pause.\n\nMittags radeln wir vorsichtig zum WR Soepratman Museum. Die Straßen sind glatt, aber der Fahrtwind kühlt die tropische Hitze angenehm ab, solange der Regen nicht zu stark wird.\n\nAm Nachmittag bietet das U-Boot-Denkmal einen perfekten Rückzugsort vor einem heftigen Guss. Danach geht es weiter zu den Monumenten, wobei wir Pfützen auf den Radwegen geschickt ausweichen.\n\nDer Abend endet mit einer Fahrt zum Ethnografischen Museum. Die Lichter spiegeln sich im nassen Asphalt, und wir beenden unsere Tour erfrischt, aber etwas feucht in der warmen Abendluft.",
+            "hu": "A kerékpáros túra a Cheng Hoo mecsetnél indul, miközben a szemerkélő eső lemossa a színes falakat. A mecset fedett részeit használjuk az első pihenőre.\n\nDélben óvatosan tekerünk a WR Soepratman Múzeum felé. Az utak csúszósak, de a menetszél kellemesen hűsíti a trópusi párát, amíg az eső nem válik túl intenzívvé.\n\nDélután a tengeralattjáró-emlékmű nyújt tökéletes menedéket egy hevesebb zivatar elől. Ezután folytatjuk utunkat a monumentumok felé, kikerülve a kerékpárutakon kialakult tócsákat.\n\nAz este az Etnográfiai Múzeumnál zárul. A fények megcsillannak a vizes aszfalton, mi pedig felfrissülve, bár kissé nedvesen fejezzük be a túrát a meleg esti levegőben.",
+            "ro": "Turul cu bicicleta începe la Moscheea Cheng Hoo, în timp ce o ploaie fină spală pereții colorați. Folosim zonele acoperite ale moscheii pentru prima pauză de hidratare.\n\nLa prânz pedalăm cu atenție spre Muzeul WR Soepratman. Drumurile sunt alunecoase, dar briza mișcării răcește plăcut căldura tropicală cât timp ploaia este moderată.\n\nDupă-amiaza, monumentul submarinului oferă un refugiu perfect în fața unei averse puternice. Continuăm spre restul obiectivelor, evitând cu grijă bălțile de pe pistele de biciclete.\n\nSeara se încheie cu o vizită la Muzeul de Etnografie. Luminile se reflectă în asfaltul umed, iar noi terminăm turul împrospătați, deși puțin umezi, în aerul cald de seară.",
+            "en": "The bike tour kicks off at the Cheng Hoo Mosque as light drizzle wets the colorful walls. We use the mosque's covered areas for our first sheltered break.\n\nAt noon, we cycle carefully toward the WR Soepratman Museum. The roads are slick, but the breeze from riding cools the tropical heat as long as the rain stays light.\n\nIn the afternoon, the submarine monument provides a perfect escape from a heavy downpour. Afterward, we continue to the monuments, skillfully dodging puddles on the paths.\n\nThe evening finishes at the Ethnography Museum. The lights reflect beautifully on the wet asphalt, and we end our ride refreshed but a bit damp in the warm night air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Muhammad Cheng Hoo Surabaya",
+                "hu": "Masjid Muhammad Cheng Hoo Surabaya",
+                "ro": "Masjid Muhammad Cheng Hoo Surabaya",
+                "en": "Masjid Muhammad Cheng Hoo Surabaya"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem Vordach und nutzen Sie die Gebetshalle als trockenen Ort, um die einzigartige chinesisch-muslimische Architektur zu bewundern.",
+                "hu": "Parkolja le a kerékpárját az előtető alatt, és használja az imacsarnokot száraz menedékként, miközben megcsodálja az egyedülálló kínai-muszlim építészetet.",
+                "ro": "Parcați bicicleta sub copertină și folosiți sala de rugăciune ca loc uscat pentru a admira arhitectura unică chinezo-musulmană în timp ce plouă afară.",
+                "en": "Park your bike under the overhang and use the prayer hall as a dry sanctuary to admire the unique Chinese-Muslim architecture during the shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum WR Soepratman",
+                "hu": "Museum WR Soepratman",
+                "ro": "Museum WR Soepratman",
+                "en": "Museum WR Soepratman"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch die Nebenstraßen, da die Markierungen bei Nässe glatt sind, und genießen Sie die Ruhe im Haus des Komponisten.",
+                "hu": "Tekerjen óvatosan a mellékutcákban, mert az útburkolati jelek vizesen csúsznak, és élvezze a benti csendet a himnusz szerzőjének egykori otthonában.",
+                "ro": "Pedalați cu atenție pe străzile secundare deoarece marcajele sunt alunecoase când sunt ude și bucurați-vă de liniștea din casa compozitorului.",
+                "en": "Ride carefully through the side streets as road markings are slippery when wet, and enjoy the indoor serenity of the national composer's former home."
+              }
+            },
+            {
+              "name": {
+                "de": "Submarine Monument",
+                "hu": "Submarine Monument",
+                "ro": "Submarine Monument",
+                "en": "Submarine Monument"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um ein schweres Gewitter auszusitzen; das Innere des U-Boots bleibt komplett trocken und bietet viel zum Erkunden.",
+                "hu": "Ez az ideális hely egy komolyabb zivatar átvészelésére; a tengeralattjáró belseje teljesen száraz marad, és rengeteg látnivalót kínál a fedélzeten.",
+                "ro": "Acesta este locul ideal pentru a aștepta trecerea unei furtuni; interiorul submarinului rămâne complet uscat și oferă multe de explorat la bord.",
+                "en": "This is the ideal spot to wait out a heavy storm; the submarine's interior stays completely dry and offers plenty of interesting naval history to explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Bambu Runcing",
+                "hu": "Tugu Bambu Runcing",
+                "ro": "Tugu Bambu Runcing",
+                "en": "Tugu Bambu Runcing"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie nur kurz für ein Foto an und achten Sie beim Absteigen auf den nassen Boden, damit Sie auf den glatten Steinfliesen nicht ausrutschen.",
+                "hu": "Csak rövid időre álljon meg egy fotóra, és figyeljen a leszálláskor a vizes talajra, nehogy megcsússzon a sima kőlapokon az emlékmű körül.",
+                "ro": "Opriți-vă doar scurt pentru o fotografie și fiți atenți la solul umed când coborâți de pe bicicletă, pentru a nu aluneca pe plăcile de piatră.",
+                "en": "Stop only briefly for a photo and be careful when dismounting on the wet ground to avoid slipping on the smooth stone tiles around the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Perjuangan Polri",
+                "hu": "Monumen Perjuangan Polri",
+                "ro": "Monumen Perjuangan Polri",
+                "en": "Monumen Perjuangan Polri"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bäume am Straßenrand als natürlichen Schutz vor Nieselregen, während Sie das Polizeidenkmal von Ihrem Fahrrad aus betrachten.",
+                "hu": "Használja az út menti fákat természetes esővédőként a szemerkélő esőben, miközben a kerékpárjáról veti az utolsó pillantást a rendőrségi emlékműre.",
+                "ro": "Folosiți copacii de pe marginea drumului ca adăpost natural împotriva burniței în timp ce observați monumentul poliției direct de pe bicicletă.",
+                "en": "Use the roadside trees as a natural shield against the light drizzle while you observe the police monument briefly from your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Etnografi",
+                "hu": "Museum Etnografi",
+                "ro": "Museum Etnografi",
+                "en": "Museum Etnografi"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher im bewachten Bereich ab und trocknen Sie sich im Museum ab, während Sie etwas über die Bestattungsrituale Indonesiens lernen.",
+                "hu": "Zárja le biztonságosan a kerékpárját az őrzött területen, és szárítkozzon meg a múzeumban, miközben az indonéz temetkezési rituálékról tanul.",
+                "ro": "Parcați bicicleta în siguranță în zona păzită și uscați-vă în muzeu în timp ce învățați despre ritualurile funerare fascinante ale Indoneziei.",
+                "en": "Secure your bike in the guarded area and dry off inside the museum while you learn about the fascinating funeral rituals of Indonesia."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen bietet die beste Luftqualität für Radfahrer. Wir starten an der Moschee, wobei die kühle Brise die Fahrt besonders leicht und angenehm macht.\n\nMittags radeln wir durch die Stadt zum WR Soepratman Museum. Ohne die drückende Sommerhitze erreichen wir unser Ziel entspannt und ohne übermäßiges Schwitzen.\n\nAm Nachmittag führt die Route zum U-Boot und den Denkmälern. Das klare Sonnenlicht sorgt für brillante Farben, doch wir beeilen uns, da das Licht bereits früh schwächer wird.\n\nDer Abend bricht um 17:00 Uhr mit einem malerischen Sonnenuntergang an. Wir erreichen das Ethnografische Museum bei Dämmerung und genießen die kühle Nachtluft auf der letzten Etappe unserer Tour.",
+            "hu": "A téli reggel kínálja a legjobb levegőt a kerékpárosoknak. A mecsetnél kezdünk, ahol a hűvös szellő rendkívül könnyűvé és kellemessé teszi a tekerést.\n\nDélben a városon keresztül hajtunk a WR Soepratman Múzeumhoz. A nyomasztó nyári hőség nélkül pihenten és izzadásmentesen érjük el úticélunkat az utakon.\n\nDélután a tengeralattjáróhoz és az emlékművekhez vezet az utunk. A tiszta napsütés ragyogó színeket ad a tájnak, de sietnünk kell, mert a fények hamar fogyni kezdenek.\n\nAz este 17:00 körül festői naplementével köszönt be. Szürkületkor érjük el az Etnográfiai Múzeumot, és élvezzük a hűvös éjszakai levegőt a túra utolsó szakaszán.",
+            "ro": "Dimineața de iarnă oferă cea mai bună calitate a aerului pentru bicicliști. Pornim de la moschee, briza răcoroasă făcând pedalarea extrem de ușoară și plăcută.\n\nLa prânz traversăm orașul spre Muzeul WR Soepratman. Fără căldura sufocantă a verii, ajungem la destinație relaxați și fără a transpira excesiv pe traseu.\n\nDupă-amiaza traseul ne duce spre submarin și monumente. Lumina clară a soarelui oferă culori strălucitoare, dar trebuie să ne grăbim deoarece lumina scade devreme.\n\nSeara începe în jur de ora 17:00 cu un apus pitoresc. Ajungem la Muzeul de Etnografie la amurg și ne bucurăm de aerul rece de noapte pe ultima etapă a turului.",
+            "en": "The winter morning offers the best air quality for cyclists. We start at the mosque, where the cool breeze makes the ride exceptionally light and pleasant.\n\nAt noon, we cycle through the city to the WR Soepratman Museum. Without the oppressive summer heat, we reach our destination relaxed and sweat-free.\n\nIn the afternoon, the route takes us to the submarine and the monuments. The clear sunlight provides brilliant colors, but we move quickly as the light fades early.\n\nThe evening arrives around 5:00 PM with a picturesque sunset. We reach the Ethnography Museum at dusk and enjoy the cool night air on our final leg."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Muhammad Cheng Hoo Surabaya",
+                "hu": "Masjid Muhammad Cheng Hoo Surabaya",
+                "ro": "Masjid Muhammad Cheng Hoo Surabaya",
+                "en": "Masjid Muhammad Cheng Hoo Surabaya"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne beleuchtet die roten Wände der Moschee perfekt; nutzen Sie die Kühle für ein paar Fotos im Außenbereich, bevor Sie weiterfahren.",
+                "hu": "A reggeli nap tökéletesen megvilágítja a mecset vörös falait; használja ki a hűvöset néhány külső fotóhoz, mielőtt továbbindulna a túráján.",
+                "ro": "Soarele dimineții luminează perfect pereții roșii ai moscheii; profitați de răcoare pentru câteva fotografii în exterior înainte de a pleca mai departe.",
+                "en": "The morning sun illuminates the mosque's red walls perfectly; use the cool temperature for some outdoor photos before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum WR Soepratman",
+                "hu": "Museum WR Soepratman",
+                "ro": "Museum WR Soepratman",
+                "en": "Museum WR Soepratman"
+              },
+              "tip_5lang": {
+                "de": "Das Radeln in diesem Viertel ist im Winter wegen der schattigen Bäume sehr entspannend; genießen Sie die historische Atmosphäre ohne die Hitze.",
+                "hu": "A kerékpározás ebben a negyedben télen a hűvös árnyékot adó fák miatt nagyon pihentető; élvezze a történelmi hangulatot a tikkasztó hőség nélkül.",
+                "ro": "Pedalarea în acest cartier este foarte relaxantă iarna datorită copacilor umbroși; bucurați-vă de atmosfera istorică fără căldura sufocantă de vară.",
+                "en": "Cycling in this neighborhood is very relaxing in winter thanks to the shady trees; enjoy the historical atmosphere without the stifling summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Submarine Monument",
+                "hu": "Submarine Monument",
+                "ro": "Submarine Monument",
+                "en": "Submarine Monument"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im Schatten und genießen Sie die kühle Brise vom nahen Fluss Kalimas, während Sie das Denkmal im Freien erkunden.",
+                "hu": "Parkolja le a kerékpárját az árnyékban, és élvezze a közeli Kalimas-folyó felől érkező hűvös szellőt, miközben a szabadban fedezi fel az emlékművet.",
+                "ro": "Parcați bicicleta la umbră și bucurați-vă de briza răcoroasă de la râul Kalimas din apropiere în timp ce explorați monumentul în aer liber.",
+                "en": "Park your bike in the shade and enjoy the cool breeze from the nearby Kalimas River while you explore the monument's outdoor sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Bambu Runcing",
+                "hu": "Tugu Bambu Runcing",
+                "ro": "Tugu Bambu Runcing",
+                "en": "Tugu Bambu Runcing"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Nachmittagslicht am frühen Winterabend verleiht dem Denkmal einen besonderen Glanz; ein kurzer Stopp für ein Foto ist jetzt ideal.",
+                "hu": "A kora téli délutáni aranyfény különleges csillogást ad az emlékműnek; egy rövid megálló egy fotóra most a legideálisabb a túra során.",
+                "ro": "Lumina aurie a după-amiezii de iarnă timpurie oferă monumentului o strălucire deosebită; o scurtă oprire pentru o poză este ideală acum.",
+                "en": "The early winter afternoon's golden light gives the monument a special glow; a quick stop for a photo is ideal at this time of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Perjuangan Polri",
+                "hu": "Monumen Perjuangan Polri",
+                "ro": "Monumen Perjuangan Polri",
+                "en": "Monumen Perjuangan Polri"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht ist im Winter oft besser; betrachten Sie die Details des Denkmals genau, bevor die Sonne gegen 17 Uhr hinter den Gebäuden verschwindet.",
+                "hu": "A látótávolság télen gyakran jobb; nézze meg alaposan az emlékmű részleteit, mielőtt a nap 17 óra körül eltűnik az épületek mögött.",
+                "ro": "Vizibilitatea este adesea mai bună iarna; observați detaliile monumentului înainte ca soarele să dispară după clădiri în jur de ora 17.",
+                "en": "Visibility is often better in winter; take a close look at the monument's details before the sun disappears behind the buildings around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Etnografi",
+                "hu": "Museum Etnografi",
+                "ro": "Museum Etnografi",
+                "en": "Museum Etnografi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier und nehmen Sie sich eine dünne Jacke für die Rückfahrt mit dem Rad mit, da die Temperaturen nach Sonnenuntergang spürbar sinken.",
+                "hu": "Zárja itt a túráját, és vigyen magával egy vékony dzsekit a visszaútra, mert a hőmérséklet naplemente után érezhetően csökkenni fog.",
+                "ro": "Încheiați turul aici și luați o jachetă subțire pentru drumul de întoarcere, deoarece temperaturile scad sesizabil după apusul soarelui.",
+                "en": "Finish your tour here and bring a light jacket for the ride back, as temperatures drop noticeably once the sun sets in the early evening."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Az autózás zökkenőmentesen indul a történelmi központban, ahol az oktatási örökség és a vallási építészet keveredik.\n\nVezessen dél felé a déli órákban, hogy elmerüljön a helyi sporteredményekben a nagy stadion múzeumban.\n\nA délutánt a bátor helyi zászlóaljakat tisztelő drámai katonai szobrok közötti navigálással töltse.\n\nKésőbb parkoljon le a tengernél, hogy lenyűgöző kilátás nyíljon a tengerészeti emlékműre.",
         "ro": "Plimbarea începe în centrul istoric, îmbinând moștenirea educațională cu arhitectura religioasă în timpul dimineții.\n\nConduceți spre sud la amiază pentru a vă scufunda în realizările sportive locale la marele muzeu al stadionului.\n\nPetreceți-vă după-amiaza navigând între statuile militare dramatice care onorează batalioanele locale curajoase.\n\nParcați mai târziu la malul mării pentru o vedere spectaculoasă a monumentului naval de coastă.",
         "en": "Your drive begins seamlessly in the historic center, blending educational heritage with striking religious architecture in the morning.\n\nDrive south for midday to dive into local sporting achievements at the grand stadium museum.\n\nSpend your afternoon navigating between dramatic military statues honoring courageous local battalions.\n\nPark by the sea for a spectacular late afternoon view of the naval monument to end your journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt komfortabel im trockenen Auto, während der Regen gegen die Scheiben trommelt. Unser erstes Ziel ist das Bildungsmuseum, wo wir direkt vor dem Eingang aussteigen.\n\nMittags steuern wir die Cheng-Hoo-Moschee an. Dank des Autos vermeiden wir die nassen Straßen und erreichen die überdachten Bereiche der religiösen Stätte ohne Mühe.\n\nAm Nachmittag geht es zum Sportmuseum und den Denkmälern. Wir nutzen die Fahrtzeiten, um im Auto zu trocknen, bevor wir für kurze Besichtigungen unter dem Regenschirm aussteigen.\n\nDer Abend endet bei anhaltendem Regen an der Cakrawala-Statue. Die Lichter der Stadt spiegeln sich in den Pfützen, während wir den Komfort unseres Fahrzeugs in der feuchten Nacht genießen.",
+            "hu": "Az utazás kényelmesen, a száraz autóban indul, miközben az eső a szélvédőn kopog. Első célpontunk az Oktatási Múzeum, ahol közvetlenül a bejáratnál szállunk ki.\n\nDélben a Cheng Hoo mecset felé vesszük az irányt. Az autónak köszönhetően elkerüljük a vizes utcákat, és megerőltetés nélkül érjük el a vallási helyszín fedett részeit.\n\nDélután a Sportmúzeum és az emlékművek következnek. Az utazási időt a szárítkozásra használjuk, mielőtt egy rövid esernyős séta erejéig kiszállnánk a látnivalóknál.\n\nAz este tartós esőben zárul a Cakrawala szobornál. A város fényei megcsillannak a tócsákban, mi pedig élvezzük autónk kényelmét a párás trópusi éjszakában.",
+            "ro": "Călătoria începe confortabil în mașina uscată, în timp ce ploaia bate în parbriz. Prima destinație este Muzeul Educației, unde coborâm chiar în fața intrării.\n\nLa prânz ne îndreptăm spre Moscheea Cheng Hoo. Datorită mașinii, evităm străzile ude și ajungem fără efort la zonele acoperite ale lăcașului de cult.\n\nDupă-amiaza vizităm Muzeul Sportului și monumentele. Folosim timpul de condus pentru a ne usca, înainte de a coborî pentru scurte vizite sub protecția umbrelei.\n\nSeara se încheie cu o ploaie persistentă la statuia Cakrawala. Luminile orașului se reflectă în bălți, în timp ce noi ne bucurăm de confortul vehiculului în noaptea umedă.",
+            "en": "The trip starts comfortably in the dry car while rain drums against the windows. Our first stop is the Education Museum, where we drop off right at the entrance.\n\nAt noon, we head to the Cheng Hoo Mosque. Thanks to the car, we avoid the wet streets and reach the covered areas of the religious site without getting soaked.\n\nIn the afternoon, we visit the Sports Museum and the monuments. We use the driving time to dry off before stepping out with an umbrella for quick sightseeing visits.\n\nThe evening concludes with steady rain at the Cakrawala statue. The city lights reflect in the puddles while we enjoy the comfort of our car in the humid night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Pendidikan",
+                "hu": "Museum Pendidikan",
+                "ro": "Museum Pendidikan",
+                "en": "Museum Pendidikan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Drop-off-Bereich direkt am Museumseingang, um völlig trocken in die Ausstellungen zu gelangen, während es draußen stark regnet.",
+                "hu": "Használja a múzeum bejárata melletti kiszállási pontot, így teljesen szárazon juthat be a kiállításokra, még ha odakint szakad is az eső.",
+                "ro": "Folosiți zona de debarcare direct de la intrarea muzeului pentru a ajunge complet uscat la expoziții, chiar dacă afară plouă torențial.",
+                "en": "Use the drop-off area right by the museum entrance to stay completely dry as you enter the exhibits while it's pouring rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Muhammad Cheng Hoo Surabaya",
+                "hu": "Masjid Muhammad Cheng Hoo Surabaya",
+                "ro": "Masjid Muhammad Cheng Hoo Surabaya",
+                "en": "Masjid Muhammad Cheng Hoo Surabaya"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem bewachten Parkplatz und nutzen Sie den kurzen, überdachten Weg zur Moschee, um die beeindruckenden Farben auch bei Regen zu bewundern.",
+                "hu": "Parkoljon az őrzött parkolóban, és használja a rövid, fedett útvonalat a mecsethez, hogy esőben is megcsodálhassa a lenyűgöző színeket.",
+                "ro": "Parcați în parcarea păzită și folosiți drumul scurt și acoperit către moschee pentru a admira culorile impresionante chiar și pe timp de ploaie.",
+                "en": "Park in the guarded lot and take the short covered path to the mosque to admire its stunning colors even during a heavy rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Surabaya Sports Museum",
+                "hu": "Surabaya Sports Museum",
+                "ro": "Surabaya Sports Museum",
+                "en": "Surabaya Sports Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses große Gebäude bietet stundenlangen Schutz vor Regen; genießen Sie die interaktiven Sport-Exponate, während draußen der tropische Guss tobt.",
+                "hu": "Ez a tágas épület órákon át védelmet nyújt az eső elől; élvezze az interaktív sportkiállításokat, amíg odakint tombol a trópusi zápor.",
+                "ro": "Această clădire spațioasă oferă adăpost pentru ore întregi; bucurați-vă de expozițiile sportive interactive în timp ce afară plouă torențial.",
+                "en": "This spacious building offers hours of protection from the rain; enjoy the interactive sports exhibits while the tropical downpour rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Mayangkara",
+                "hu": "Monumen Mayangkara",
+                "ro": "Monumen Mayangkara",
+                "en": "Monumen Mayangkara"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal am besten bequem aus dem Autofenster, um trocken zu bleiben, da es in der direkten Umgebung kaum Unterstände gibt.",
+                "hu": "Az emlékművet leginkább az autó ablakából érdemes megcsodálni, hogy száraz maradjon, mivel a közvetlen közelben alig akad fedett menedék.",
+                "ro": "Cel mai bine este să admirați monumentul din confortul mașinii pentru a rămâne uscați, deoarece în imediata apropiere nu există adăposturi.",
+                "en": "It's best to admire the monument from the comfort of your car window to stay dry, as there are very few shelters in the immediate area."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Mastrip",
+                "hu": "Monumen Mastrip",
+                "ro": "Monumen Mastrip",
+                "en": "Monumen Mastrip"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp mit eingeschalteter Warnblinkanlage ermöglicht ein schnelles Foto vom Denkmal unter dem Schutz Ihres Regenschirms bei jedem Wetter.",
+                "hu": "Egy rövid megálló bekapcsolt vészvillogóval lehetővé teszi, hogy az esernyője védelmében gyorsan készítsen egy fotót az emlékműről bármilyen időben.",
+                "ro": "O scurtă oprire cu avariile pornite vă permite să faceți o poză rapidă monumentului sub protecția umbrelei, indiferent de intensitatea ploii.",
+                "en": "A brief stop with your hazard lights on allows you to snap a quick photo of the monument under the protection of your umbrella in any weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Menggapai Cakrawala",
+                "hu": "Menggapai Cakrawala",
+                "ro": "Menggapai Cakrawala",
+                "en": "Menggapai Cakrawala"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie den Wagen so ab, dass die Scheinwerfer die Statue beleuchten, was im Regen für eine besonders dramatische und fotogene Szenerie sorgt.",
+                "hu": "Parkoljon úgy, hogy az autó fényszórói megvilágítsák a szobrot, ami az esőben különösen drámai és fotogén látványt nyújt a nap végén.",
+                "ro": "Parcați astfel încât farurile mașinii să lumineze statuia, ceea ce creează o scenă dramatică și fotogenă în ploaie la finalul zilei.",
+                "en": "Park so your car's headlights illuminate the statue, creating a particularly dramatic and photogenic scene in the rain at the end of the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Surabaya beginnt mit einer angenehmen Frische. Im Auto genießen wir die klare Sicht auf die Stadt, während wir zum Bildungsmuseum fahren.\n\nMittags steuern wir die Moschee und das Sportmuseum an. Die Klimaanlage im Auto kann heute auf einer niedrigen Stufe bleiben, da die Außentemperaturen sehr moderat sind.\n\nAm Nachmittag besuchen wir die verschiedenen Monumente. Das winterliche Sonnenlicht ist perfekt für Fotos, doch wir müssen die Zeitplanung wegen des frühen Sonnenuntergangs straffen.\n\nDer Abend bricht um 17:00 Uhr herein und bringt eine kühle Nachtluft mit sich. Wir beenden die Tour an der Cakrawala-Statue und genießen die klare Sicht auf den Sternenhimmel.",
+            "hu": "A téli reggel Surabayában kellemes frissességgel indul. Az autóban élvezzük a tiszta kilátást a városra, miközben az Oktatási Múzeum felé tartunk az utakon.\n\nDélben a mecset és a Sportmúzeum felé vesszük az irányt. A légkondicionálót ma alacsony fokozaton hagyhatjuk, mivel a külső hőmérséklet rendkívül mérsékelt.\n\nDélután meglátogatjuk a különböző emlékműveket. A téli napfény tökéletes a fotózáshoz, de a korai naplemente miatt szorosabb időbeosztásra van szükségünk.\n\nAz este 17:00 körül köszönt be, hűvös éjszakai levegőt hozva. A Cakrawala szobornál zárjuk a túrát, élvezve a tiszta kilátást a csillagos égboltra a nap végén.",
+            "ro": "Dimineața de iarnă în Surabaya începe cu o prospețime plăcută. În mașină, ne bucurăm de vizibilitatea clară asupra orașului în timp ce mergem spre muzeu.\n\nLa prânz ne îndreptăm spre moschee și Muzeul Sportului. Aerul condiționat din mașină poate rămâne la un nivel scăzut astăzi, deoarece temperaturile sunt moderate.\n\nDupă-amiaza vizităm diversele monumente. Lumina soarelui de iarnă este perfectă pentru fotografii, dar trebuie să fim eficienți din cauza apusului timpuriu.\n\nSeara vine în jur de ora 17:00, aducând un aer rece de noapte. Încheiem turul la statuia Cakrawala, bucurându-ne de vederea clară spre cerul înstelat de iarnă.",
+            "en": "The winter morning in Surabaya begins with a pleasant freshness. In the car, we enjoy the clear views of the city while driving to the Education Museum.\n\nAt noon, we head toward the mosque and the Sports Museum. The car's AC can stay on a low setting today as the outside temperatures are very moderate.\n\nIn the afternoon, we visit the various monuments. The winter sunlight is perfect for photography, but we need to keep a tight schedule due to the early sunset.\n\nThe evening arrives around 5:00 PM, bringing a cool night air. We finish the tour at the Cakrawala statue, enjoying the clear view of the starry winter sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Pendidikan",
+                "hu": "Museum Pendidikan",
+                "ro": "Museum Pendidikan",
+                "en": "Museum Pendidikan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühlen Morgen für eine ausführliche Besichtigung und genießen Sie die klare Luft beim kurzen Gang vom Parkplatz zum Museumseingang.",
+                "hu": "Használja ki a hűvös reggelt egy alapos látogatásra, és élvezze a friss levegőt a parkolótól a múzeum bejáratáig tartó rövid séta alatt.",
+                "ro": "Profitați de dimineața răcoroasă pentru o vizită detaliată și bucurați-vă de aerul proaspăt în scurta plimbare de la parcare până la intrare.",
+                "en": "Take advantage of the cool morning for a detailed visit and enjoy the fresh air during the short walk from the parking lot to the museum entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Muhammad Cheng Hoo Surabaya",
+                "hu": "Masjid Muhammad Cheng Hoo Surabaya",
+                "ro": "Masjid Muhammad Cheng Hoo Surabaya",
+                "en": "Masjid Muhammad Cheng Hoo Surabaya"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist im Winter ideal für Außenaufnahmen der Moschee; die Farben wirken im klaren Licht besonders kräftig und authentisch.",
+                "hu": "A déli napfény télen ideális a mecset külső fotózásához; a színek a tiszta fényben különösen erőteljesnek és autentikusnak tűnnek a felvételeken.",
+                "ro": "Soarele de la prânz este ideal iarna pentru fotografii exterioare ale moscheii; culorile par extrem de vibrante și autentice în lumina clară.",
+                "en": "The midday sun is ideal in winter for outdoor photos of the mosque; the colors appear especially vibrant and authentic in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Surabaya Sports Museum",
+                "hu": "Surabaya Sports Museum",
+                "ro": "Surabaya Sports Museum",
+                "en": "Surabaya Sports Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter weniger überlaufen; nutzen Sie die Zeit für die interaktiven Stationen, bevor Sie am Nachmittag zu den Denkmälern weiterfahren.",
+                "hu": "A múzeum télen kevésbé zsúfolt; használja ki az időt az interaktív állomásoknál, mielőtt délután továbbindulna a távolabbi emlékművekhez.",
+                "ro": "Muzeul este mai puțin aglomerat iarna; profitați de timp la stațiile interactive înainte de a pleca spre monumente mai târziu în cursul după-amiezii.",
+                "en": "The museum is less crowded in winter; spend more time at the interactive stations before continuing to the monuments later in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Mayangkara",
+                "hu": "Monumen Mayangkara",
+                "ro": "Monumen Mayangkara",
+                "en": "Monumen Mayangkara"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie kurz am Straßenrand; das tiefe Sonnenlicht am frühen Nachmittag sorgt für lange, dramatische Schatten am Denkmal, ideal für Künstler.",
+                "hu": "Parkoljon le rövid időre az út mentén; a kora délutáni alacsony napállás hosszú, drámai árnyékokat vet az emlékműnél, ami ideális a fotósoknak.",
+                "ro": "Parcați scurt pe marginea drumului; soarele coborât de după-amiază creează umbre lungi și dramatice la monument, fiind un moment ideal pentru poze.",
+                "en": "Park briefly at the roadside; the low afternoon sun creates long, dramatic shadows at the monument, making it an ideal time for artistic photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Mastrip",
+                "hu": "Monumen Mastrip",
+                "ro": "Monumen Mastrip",
+                "en": "Monumen Mastrip"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal vor 16:30 Uhr, um das letzte Tageslicht zu nutzen, da es danach im Winter in dieser Gegend sehr schnell dunkel wird.",
+                "hu": "Látogassa meg az emlékművet 16:30 előtt, hogy kihasználja az utolsó nappali fényeket, mivel télen ezen a környéken utána nagyon gyorsan sötétedik.",
+                "ro": "Vizitați monumentul înainte de ora 16:30 pentru a profita de ultima lumină a zilei, deoarece iarna se întunecă foarte repede în această zonă.",
+                "en": "Visit the monument before 4:30 PM to make the most of the last daylight, as it gets dark very quickly in this area during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Menggapai Cakrawala",
+                "hu": "Menggapai Cakrawala",
+                "ro": "Menggapai Cakrawala",
+                "en": "Menggapai Cakrawala"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier bei Sonnenuntergang gegen 17 Uhr; die kühle Abendluft macht den Aufenthalt im Freien an der Statue besonders angenehm.",
+                "hu": "Zárja itt a napot a 17 óra körüli naplementénél; a hűvös esti levegő különösen kellemessé teszi a szabadtéri időtöltést a monumentális szobornál.",
+                "ro": "Încheiați ziua aici la apus, în jur de ora 17; aerul rece de seară face șederea în aer liber lângă statuie extrem de plăcută și relaxantă.",
+                "en": "End your day here at sunset around 5 PM; the cool evening air makes spending time outdoors by the monumental statue especially pleasant."
+              }
+            }
+          ]
+        }
       }
     }
   }

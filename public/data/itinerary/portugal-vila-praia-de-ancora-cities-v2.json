@@ -137,6 +137,168 @@
         "hu": "A reggel a fő strandon tett pihentető látogatással kezdődik, beszívva a friss atlanti szellőt. Délben a történelmi Forte de Âncora mellett halad el, majd a festői hintáknál fotózhat. A délután az ókori történelembe nyúlik vissza az Anta da Barrosa dolmennél. Az utazást a Baloiço do Amor csendes, romantikus pillanatával zárja.",
         "ro": "Dimineața începe cu o vizită relaxantă la plaja principală, respirând briza proaspătă. La prânz veți trece pe lângă istoricul Forte de Âncora și veți ajunge la leagănele pitorești. După-amiaza se adâncește în istoria antică la dolmenul Anta da Barrosa. Veți încheia călătoria cu un moment liniștit la romanticul Baloiço do Amor.",
         "en": "Your morning starts with a relaxing visit to the main beach, breathing in the fresh Atlantic breeze. Midday brings you past the historic Forte de Âncora and up to the scenic swings for stunning photos. The afternoon delves into ancient history at the Anta da Barrosa dolmen. You will conclude the journey with a quiet, romantic moment at the Baloiço do Amor."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag am stürmischen Atlantik verlangt nach windfester Kleidung, während die Wellen gegen die Küste peitschen. Mittags bieten die Gassen des Ortes Schutz vor den Schauern und laden zum Verweilen ein. Am Nachmittag erkunden wir die mystischen Megalithbauten unter einem wolkenverhangenen Himmel. Der Abend klingt bei prasselndem Regen in der gemütlichen Atmosphäre eines Cafés aus.",
+            "hu": "A délelőtti séta a viharos Atlanti-parton szélálló öltözetet igényel, miközben a hullámok a köveknek csapódnak. Délben a falu szűk utcái nyújtanak menedéket a záporok elől, ahol megpihenhetünk. Délután a misztikus megalitikus emlékeket keressük fel a borús, felhős égbolt alatt. Az este a kopogó eső hangja mellett, egy hangulatos helyi kávézó biztonságában ér véget.",
+            "ro": "Dimineața pe malul furtunos al Atlanticului necesită haine rezistente la vânt, în timp ce valurile se izbesc de țărm. La prânz, străzile satului oferă adăpost împotriva averselor, invitând la relaxare. După-amiaza explorăm monumentele megalitice mistice sub un cer plin de nori grei. Seara se încheie în sunetul ploii, în atmosfera primitoare a unei cafenele locale.",
+            "en": "The morning by the stormy Atlantic calls for windproof clothing as the waves crash dramatically against the shore. At noon, the village streets provide shelter from the showers, perfect for a short break. In the afternoon, we explore the mystical megalithic structures under a heavy, overcast sky. The evening concludes with the sound of rain in the cozy atmosphere of a local café."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Vila Praia de Âncora",
+                "hu": "Praia de Vila Praia de Âncora",
+                "ro": "Praia de Vila Praia de Âncora",
+                "en": "Praia de Vila Praia de Âncora"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die rohe Gewalt des Ozeans bei Regen, aber halten Sie Sicherheitsabstand zur Brandung; wasserfeste Schuhe sind auf dem nassen Sand absolut notwendig.",
+                "hu": "Csodálja meg az óceán nyers erejét esőben is, de tartson biztonságos távolságot a hullámoktól; a vizes homokban a vízálló cipő használata mindenképpen ajánlott.",
+                "ro": "Experimentați forța brută a oceanului pe ploaie, dar păstrați o distanță de siguranță față de valuri; încălțămintea impermeabilă este absolut necesară pe nisipul ud.",
+                "en": "Experience the raw power of the ocean in the rain, but keep a safe distance from the surf; waterproof shoes are absolutely necessary on the wet sand for comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Âncora",
+                "hu": "Forte de Âncora",
+                "ro": "Forte de Âncora",
+                "en": "Forte de Âncora"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Festungsmauern bieten einen hervorragenden Windschutz bei Küstenregen; nutzen Sie die überdachten Nischen, um die historische Architektur trocken zu bewundern.",
+                "hu": "A masszív erődfalak kiváló szélvédelmet nyújtanak a parti esőben; használja a fedett fülkéket, hogy szárazon csodálhassa meg a történelmi építészet részleteit.",
+                "ro": "Zidurile masive ale cetății oferă o protecție excelentă împotriva vântului de coastă; folosiți nișele acoperite pentru a admira arhitectura istorică fără a vă uda.",
+                "en": "The massive fortress walls provide excellent wind protection during coastal rain; use the covered niches to admire the historic architecture while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Baloiços de Vila Praia de Âncora",
+                "hu": "Baloiços de Vila Praia de Âncora",
+                "ro": "Baloiços de Vila Praia de Âncora",
+                "en": "Baloiços de Vila Praia de Âncora"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Foto auf den Schaukeln ist auch bei Regen reizvoll, aber achten Sie auf die rutschigen Sitzflächen; wischen Sie die Sitze vor der Benutzung kurz trocken.",
+                "hu": "Egy gyors fotó a hintákon esőben is hangulatos, de vigyázzon a csúszós ülőfelületekre; használat előtt érdemes egy kendővel szárazra törölni a hintát.",
+                "ro": "O fotografie rapidă în leagăne este atractivă chiar și pe ploaie, dar atenție la suprafețele alunecoase; ștergeți scaunele înainte de utilizare pentru siguranță.",
+                "en": "A quick photo on the swings is charming even in the rain, but watch out for slippery surfaces; wipe the seats dry before using them to avoid getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Anta da Barrosa",
+                "hu": "Anta da Barrosa",
+                "ro": "Anta da Barrosa",
+                "en": "Anta da Barrosa"
+              },
+              "tip_5lang": {
+                "de": "Dieses prähistorische Grab wirkt im Nebel besonders mystisch, doch der Pfad dorthin kann schlammig sein; bleiben Sie auf den befestigten Wegen, um nicht auszurutschen.",
+                "hu": "Ez a prehírtorikus sír ködben különösen misztikus, de az odavezető út sárral borított lehet; maradjon a kijelölt ösvényen, hogy elkerülje az elcsúszást.",
+                "ro": "Acest mormânt preistoric pare deosebit de mistic în ceață, dar poteca poate fi noroioasă; rămâneți pe drumurile principale pentru a evita alunecarea.",
+                "en": "This prehistoric tomb looks particularly mystical in the mist, but the path can be muddy; stay on the main paths to avoid slipping on the wet grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Baloiço do Amor",
+                "hu": "Baloiço do Amor",
+                "ro": "Baloiço do Amor",
+                "en": "Baloiço do Amor"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Ozean unter einem Regenschirm; der Pfad ist steil und bei Nässe glatt, tragen Sie daher unbedingt Schuhe mit gutem Profil.",
+                "hu": "Élvezze a tágas óceáni kilátást egy esernyő alól; az ösvény meredek és nedvesen csúszós, ezért mindenképpen jó tapadású talppal rendelkező cipőt viseljen.",
+                "ro": "Bucurați-vă de vederea largă asupra oceanului sub o umbrelă; poteca este abruptă și alunecoasă când e udă, deci purtați pantofi cu aderență bună.",
+                "en": "Enjoy the wide ocean view from under an umbrella; the path is steep and slippery when wet, so be sure to wear shoes with good tread for safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen an der Küste bringt frische Luft und leere Strände mit sich. Mittags wärmen wir uns in den sonnigen Nischen der alten Festung auf. Am Nachmittag nutzen wir das weiche Winterlicht für Fotos an den Megalithgräbern. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir den frühen Abend in der Wärme einer lokalen Taverne.",
+            "hu": "A tiszta téli reggel friss levegőt és néptelen tengerpartot ígér a túrázóknak. Délben az öreg erőd napsütötte szegleteiben melegedhetünk fel egy kicsit. Délután a lágy téli fényeket használjuk ki a megalit síroknál készített fotókhoz. Mivel a nap már délután 5 körül nyugszik, a kora estét egy helyi taverna melegében töltjük.",
+            "ro": "O dimineață senină de iarnă pe coastă aduce aer proaspăt și plaje pustii. La prânz, ne încălzim în colțurile însorite ale vechii cetăți. După-amiaza profităm de lumina blândă de iarnă pentru fotografii la mormintele megalitice. Deoarece soarele apune deja în jurul orei 17:00, savurăm seara devreme la căldura unei taverne locale.",
+            "en": "A clear winter morning on the coast brings crisp air and empty beaches for a peaceful start. At noon, we warm up in the sunny nooks of the old fortress. In the afternoon, take advantage of the soft winter light for photos at the megalithic tombs. Since the sun sets around 5 PM, we enjoy the early evening in the warmth of a local tavern."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Vila Praia de Âncora",
+                "hu": "Praia de Vila Praia de Âncora",
+                "ro": "Praia de Vila Praia de Âncora",
+                "en": "Praia de Vila Praia de Âncora"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne glitzert herrlich auf dem Wasser, aber der Wind ist schneidend kalt; eine winddichte Jacke und eine Mütze sind für den Strandspaziergang unerlässlich.",
+                "hu": "A téli nap csodásan csillog a vízen, de a szél metszően hideg lehet; egy szélálló dzseki és egy sapka elengedhetetlen a tengerparti sétához.",
+                "ro": "Soarele de iarnă strălucește superb pe apă, dar vântul poate fi tăios; o jachetă rezistentă la vânt și o căciulă sunt esențiale pentru plimbarea pe plajă.",
+                "en": "The winter sun sparkles beautifully on the water, but the wind can be biting; a windproof jacket and a hat are essential for a pleasant beach walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Âncora",
+                "hu": "Forte de Âncora",
+                "ro": "Forte de Âncora",
+                "en": "Forte de Âncora"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die geschichtsträchtigen Mauern im milden Winterlicht, das die Steinstrukturen betont; die Steinböden können kühl sein, tragen Sie daher dicke Socken.",
+                "hu": "Fedezze fel a történelmi falakat a lágy téli fényben, amely kiemeli a kövek textúráját; a kőpadló hideg lehet, ezért viseljen vastag zoknit a látogatáshoz.",
+                "ro": "Explorați zidurile pline de istorie în lumina blândă de iarnă care scoate în evidență textura pietrei; podelele pot fi reci, deci purtați șosete groase.",
+                "en": "Explore the historic walls in the soft winter light that emphasizes the stone textures; the stone floors can be chilly, so wear warm socks for the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Baloiços de Vila Praia de Âncora",
+                "hu": "Baloiços de Vila Praia de Âncora",
+                "ro": "Baloiços de Vila Praia de Âncora",
+                "en": "Baloiços de Vila Praia de Âncora"
+              },
+              "tip_5lang": {
+                "de": "Die Schaukeln bieten im Winter einen ungestörten Blick auf den Ozean ohne Touristenströme; bringen Sie eine kleine Thermoskanne mit Tee für eine warme Pause mit.",
+                "hu": "A hinták télen zavartalan kilátást nyújtanak az óceánra a turistahadak nélkül; vigyen magával egy kis termoszt teával egy melengető pihenőhöz.",
+                "ro": "Leagănele oferă iarna o vedere neîntreruptă asupra oceanului, fără mulțimi de turiști; aduceți un termos mic cu ceai pentru o pauză caldă și relaxantă.",
+                "en": "The swings offer an undisturbed view of the ocean in winter without the crowds; bring a small thermos with tea for a warm break while enjoying the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Anta da Barrosa",
+                "hu": "Anta da Barrosa",
+                "ro": "Anta da Barrosa",
+                "en": "Anta da Barrosa"
+              },
+              "tip_5lang": {
+                "de": "Die prähistorische Stätte ist im Winter von einer besonderen Stille umgeben; besuchen Sie den Ort vor 16 Uhr, um das Denkmal noch im Tageslicht zu sehen.",
+                "hu": "A prehírtorikus helyszínt télen különleges csend veszi körül; látogassa meg délután 4 előtt, hogy még természetes fénynél láthassa az emlékművet.",
+                "ro": "Situl preistoric este înconjurat de o liniște deosebită iarna; vizitați locul înainte de ora 16:00 pentru a vedea monumentul încă în lumina zilei.",
+                "en": "The prehistoric site is surrounded by a special silence in winter; visit the location before 4 PM to see the monument while there is still daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Baloiço do Amor",
+                "hu": "Baloiço do Amor",
+                "ro": "Baloiço do Amor",
+                "en": "Baloiço do Amor"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den frühen Sonnenuntergang gegen 17:00 Uhr über dem Meer; ziehen Sie sich nach dem Zwiebelprinzip warm an, da es oben recht windig ist.",
+                "hu": "Tökéletes helyszín a korai, délután 5 órai naplemente megtekintéséhez az óceán felett; öltözzön rétegesen, mert fent a dombon erős lehet a szél.",
+                "ro": "Locul perfect pentru a vedea apusul timpuriu, în jurul orei 17:00, deasupra mării; îmbrăcați-vă gros, în straturi, deoarece sus vântul suflă cu putere.",
+                "en": "The perfect spot for the early sunset around 5 PM over the sea; dress in warm layers as it can get quite windy up on the hill during winter evenings."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros útvonala a dombok között, a Capela de Santo Isidoro-nál kezdődik, reggeli panorámával jutalmazva. A part felé ereszkedve a partvonalat követi a Forte de Âncora és a Caldeirão homokdűnéi mellett. A délutáni napsütés tovább vezet délre a csendes Praia do Forte do Cão és a közeli erőd romjai felé. A nap békésen zárul a Mamoa de Eireira időutazásával.",
         "ro": "Traseul pe bicicletă începe pe dealuri la Capela de Santo Isidoro, recompensându-vă cu panorame matinale. Coborând spre coastă, veți urma țărmul trecând de Forte de Âncora și dunele neprihănite. Soarele de după-amiază vă ghidează spre sud, la liniștita Praia do Forte do Cão și ruinele fortăreței din apropiere. Ziua se încheie liniștit cu o călătorie în timp la Mamoa de Eireira.",
         "en": "Your cycling route begins in the hills at Capela de Santo Isidoro, rewarding you with morning panoramas. Descending to the coast, you will follow the shoreline past the imposing Forte de Âncora and the pristine dunes of Caldeirão. The afternoon sun guides you further south to the quiet Praia do Forte do Cão and its nearby fortress ruins. The day gracefully concludes with a step back in time at Mamoa de Eireira."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet bei Nieselregen entlang der Küstenstraße mit Blick auf die aufgewühlte See. Mittags erreichen wir das Fort, wo wir uns unter den Torbögen kurz unterstellen können. Am Nachmittag radeln wir vorsichtig über nasse Wege zu den Dünen und weiteren Festungen. Der Abend endet nach der Rückgabe der Räder bei einer heißen Schokolade im Dorfzentrum.",
+            "hu": "A kerékpártúra szitáló esőben indul a parti úton, rálátással a felkorbácsolt tengerre. Délben érjük el az erődöt, ahol a kapualjak alatt rövid időre meghúzódhatunk. Délután óvatosan tekerünk a nedves utakon a dűnék és további erődök felé. A nap a kerékpárok leadása után egy forró csokoládéval zárul a falu központjában.",
+            "ro": "Turul cu bicicleta începe pe o ploaie fină de-a lungul drumului de coastă, cu vedere spre marea agitată. La prânz ajungem la fort, unde ne putem adăposti scurt sub arcade. După-amiaza pedalăm cu atenție pe drumurile ude spre dune și alte fortificații. Seara se încheie după returnarea bicicletelor cu o ciocolată caldă în centrul satului.",
+            "en": "The bike tour starts in drizzling rain along the coastal road with views of the choppy sea. At noon, we reach the fort, where we can briefly shelter under the archways. In the afternoon, we cycle carefully over wet paths toward the dunes and further fortresses. The day ends after returning the bikes with a hot chocolate in the village center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capela de Santo Isidoro",
+                "hu": "Capela de Santo Isidoro",
+                "ro": "Capela de Santo Isidoro",
+                "en": "Capela de Santo Isidoro"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet einen spirituellen Rückzugsort vor dem Regen; parken Sie Ihr Rad an einer geschützten Stelle und prüfen Sie Ihre Bremsen auf Nässe.",
+                "hu": "A kis kápolna spirituális menedéket nyújt az eső elől; parkolja le a kerékpárt védett helyen, és ellenőrizze a fékeket a nedves úton való indulás előtt.",
+                "ro": "Mica capelă oferă un refugiu spiritual împotriva ploii; parcați bicicleta într-un loc protejat și verificați frânele pe carosabilul umed.",
+                "en": "The small chapel offers a spiritual retreat from the rain; park your bike in a sheltered spot and check your brakes before heading out on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Âncora",
+                "hu": "Forte de Âncora",
+                "ro": "Forte de Âncora",
+                "en": "Forte de Âncora"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Fort für eine wetterfeste Pause und bewundern Sie die robuste Bauweise; achten Sie beim Radfahren auf dem Kopfsteinpflaster auf Rutschgefahr.",
+                "hu": "Használja az erődöt egy időjárásbiztos pihenőre, és csodálja meg a robusztus építményt; a macskaköves utakon vigyázzon a kerékpárral az elcsúszásra.",
+                "ro": "Folosiți fortul pentru o pauză ferită de intemperii și admirați construcția robustă; atenție la riscul de alunecare cu bicicleta pe pavajul umed.",
+                "en": "Use the fort for a weather-proof break and admire the robust construction; be careful of slipping with your bike on the wet cobblestones nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Duna do Caldeirão",
+                "hu": "Praia da Duna do Caldeirão",
+                "ro": "Praia da Duna do Caldeirão",
+                "en": "Praia da Duna do Caldeirão"
+              },
+              "tip_5lang": {
+                "de": "Die Dünenlandschaft wirkt im Regen sehr dramatisch, aber die Sandwege sind schwer befahrbar; schieben Sie Ihr Rad kurze Strecken, um Kraft zu sparen.",
+                "hu": "A dűnék látványa esőben nagyon drámai, de a homokos utak nehezen járhatóak; tolja a biciklit a nehezebb szakaszokon, hogy erőt spóroljon.",
+                "ro": "Peisajul dunelor pare foarte dramatic pe ploaie, dar drumurile cu nisip sunt greu de parcurs; împingeți bicicleta pe porțiunile dificile pentru a economisi energie.",
+                "en": "The dune landscape looks very dramatic in the rain, but the sandy paths are hard to cycle on; push your bike for short stretches to save energy."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Forte do Cão",
+                "hu": "Praia do Forte do Cão",
+                "ro": "Praia do Forte do Cão",
+                "en": "Praia do Forte do Cão"
+              },
+              "tip_5lang": {
+                "de": "Ein rauer Küstenabschnitt, an dem der Regen waagerecht fallen kann; tragen Sie eine gute Regenbrille, um beim Radfahren die Sicht nicht zu verlieren.",
+                "hu": "Egy zord parti szakasz, ahol az eső akár vízszintesen is eshet; viseljen jó esőszemüveget, hogy tekerés közben ne veszítse el a látási viszonyokat.",
+                "ro": "O secțiune de coastă aspră unde ploaia poate cădea orizontal; purtați ochelari de protecție buni pentru a nu pierde vizibilitatea în timp ce pedalați.",
+                "en": "A rugged stretch of coast where rain can fall horizontally; wear good rain goggles or glasses to maintain visibility while cycling against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Cão",
+                "hu": "Forte do Cão",
+                "ro": "Forte do Cão",
+                "en": "Forte do Cão"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Festung bietet Schutz vor böigen Winden direkt am Meer; prüfen Sie die Wetter-App für Regenpausen, bevor Sie die Tour fortsetzen.",
+                "hu": "A kis erőd védelmet nyújt a tenger felől érkező széllökések ellen; ellenőrizze az időjárás-alkalmazást az esőszünetekhez, mielőtt tovább indulna.",
+                "ro": "Mica fortăreață oferă protecție împotriva vântului puternic de pe mare; verificați aplicația meteo pentru pauzele de ploaie înainte de a continua turul.",
+                "en": "The small fortress provides protection from gusty winds right by the sea; check your weather app for rain gaps before continuing your bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mamoa de Eireira",
+                "hu": "Mamoa de Eireira",
+                "ro": "Mamoa de Eireira",
+                "en": "Mamoa de Eireira"
+              },
+              "tip_5lang": {
+                "de": "Die prähistorische Stätte liegt auf einer Wiese, die bei Regen sehr rutschig ist; lassen Sie Ihr Rad am Wegrand stehen und gehen Sie vorsichtig zu Fuß.",
+                "hu": "A prehírtorikus helyszín egy réten található, ami esőben nagyon csúszós; hagyja a biciklit az út szélén, és óvatosan, gyalog közelítse meg a mamoát.",
+                "ro": "Situl preistoric se află pe o pajiște care este foarte alunecoasă pe ploaie; lăsați bicicleta la marginea drumului și mergeți cu mare atenție pe jos.",
+                "en": "The prehistoric site is located in a meadow that gets very slippery in the rain; leave your bike at the roadside and approach the mound carefully on foot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist frisch, ideal für eine aktive Radtour entlang der Küste bei strahlendem Licht. Mittags rasten wir an den sonnigen Mauern des Forts und genießen die klare Luft. Nachmittags erkunden wir die Dünen und prähistorischen Stätten, solange es hell ist. Wir beenden die Tour rechtzeitig vor Einbruch der Dunkelheit um 17:00 Uhr in der gemütlichen Dorfmitte.",
+            "hu": "A téli reggel frissítő, ideális egy aktív kerékpártúrához a part mentén, ragyogó fényviszonyok mellett. Délben az erőd napsütötte falainál pihenünk meg, élvezve a tiszta levegőt. Délután a dűnéket és a prehírtorikus helyszíneket fedezzük fel, amíg világos van. A túrát még sötétedés előtt, délután 5-kor befejezzük a falu központjában.",
+            "ro": "Dimineața de iarnă este revigorantă, ideală pentru un tur activ cu bicicleta pe coastă, în lumină strălucitoare. La prânz ne odihnim la zidurile însorite ale fortului. După-amiaza explorăm dunele și siturile preistorice cât timp este încă lumină. Încheiem turul la timp înainte de lăsarea întunericului, în jurul orei 17:00, în centrul satului.",
+            "en": "The winter morning is crisp, ideal for an active bike tour along the coast in brilliant light. At noon, we rest by the sunny walls of the fort and enjoy the clear air. In the afternoon, we explore the dunes and prehistoric sites while it's still light. We finish the tour well before darkness falls at 5 PM in the cozy village center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capela de Santo Isidoro",
+                "hu": "Capela de Santo Isidoro",
+                "ro": "Capela de Santo Isidoro",
+                "en": "Capela de Santo Isidoro"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle glänzt in der tiefstehenden Wintersonne; tragen Sie Fahrradhandschuhe, da der Fahrtwind bei den kühlen Temperaturen Ihre Hände schnell auskühlen lässt.",
+                "hu": "A kápolna ragyog az alacsonyan járó téli napsütésben; viseljen kerékpáros kesztyűt, mert a menetszél a hűvös időben gyorsan lehűtheti a kezeit.",
+                "ro": "Capela strălucește în soarele de iarnă; purtați mănuși de bicicletă, deoarece vântul creat de mișcare vă poate răci rapid mâinile la temperaturi scăzute.",
+                "en": "The chapel shines in the low winter sun; wear cycling gloves, as the headwind can quickly chill your hands in the cool temperatures of a coastal winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Âncora",
+                "hu": "Forte de Âncora",
+                "ro": "Forte de Âncora",
+                "en": "Forte de Âncora"
+              },
+              "tip_5lang": {
+                "de": "Ein geschichtsträchtiger Ort, der im Winter wunderbar ruhig ist; nutzen Sie die sonnigen Abschnitte des Forts für eine kurze Aufwärmpause auf dem Rad.",
+                "hu": "Történelmi helyszín, amely télen csodálatosan nyugodt; használja ki az erőd napsütötte részeit egy rövid, melengető pihenőre tekerés közben.",
+                "ro": "Un loc plin de istorie care iarna este minunat de liniștit; folosiți secțiunile însorite ale fortului pentru o scurtă pauză de încălzire în timpul turului.",
+                "en": "A historic site that is wonderfully quiet in winter; use the sunny sections of the fort for a quick warm-up break during your cycling trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Duna do Caldeirão",
+                "hu": "Praia da Duna do Caldeirão",
+                "ro": "Praia da Duna do Caldeirão",
+                "en": "Praia da Duna do Caldeirão"
+              },
+              "tip_5lang": {
+                "de": "Die Dünen leuchten im klaren Winterlicht fast weiß; achten Sie auf den festen Sand am Spülsaum, um dort leichter mit dem Rad voranzukommen.",
+                "hu": "A dűnék szinte fehéren világítanak a tiszta téli fényben; keressen keményebb homokot a vízparton, ahol könnyebben haladhat a kerékpárral.",
+                "ro": "Dunele strălucesc aproape alb în lumina clară de iarnă; căutați nisipul mai tare de lângă apă pentru a înainta mai ușor cu bicicleta.",
+                "en": "The dunes shine almost white in the clear winter light; look for firm sand near the shoreline to make cycling easier on this section."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Forte do Cão",
+                "hu": "Praia do Forte do Cão",
+                "ro": "Praia do Forte do Cão",
+                "en": "Praia do Forte do Cão"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer und bietet weite Ausblicke; ziehen Sie ein Stirnband unter den Helm, um Ihre Ohren vor dem kalten Wind zu schützen.",
+                "hu": "A tengerpart télen teljesen néptelen, tágas kilátást nyújtva; viseljen fejpántot a sisak alatt, hogy megvédje füleit a hideg szél ellen.",
+                "ro": "Plaja este pustie iarna și oferă vederi largi; purtați o bandană sub cască pentru a vă proteja urechile de vântul rece în timp ce pedalați.",
+                "en": "The beach is deserted in winter and offers expansive views; wear a headband under your helmet to protect your ears from the cold coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Cão",
+                "hu": "Forte do Cão",
+                "ro": "Forte do Cão",
+                "en": "Forte do Cão"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Festung ist ein tolles Fotomotiv bei tiefstehender Sonne; planen Sie Ihren Aufenthalt hier so ein, dass Sie noch vor Sonnenuntergang zurückradeln.",
+                "hu": "A kis erőd remek fotótéma az alacsonyan járó napnál; tervezze úgy a látogatást, hogy még a naplemente előtt visszaérjen a falu központjába.",
+                "ro": "Mica fortăreață este un subiect foto excelent când soarele este jos; planificați vizita astfel încât să vă întoarceți cu bicicleta înainte de apus.",
+                "en": "The small fortress is a great photo subject with the low winter sun; plan your stay here so you can cycle back before the sun sets at 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Mamoa de Eireira",
+                "hu": "Mamoa de Eireira",
+                "ro": "Mamoa de Eireira",
+                "en": "Mamoa de Eireira"
+              },
+              "tip_5lang": {
+                "de": "Das antike Monument ist in der winterlichen Naturruhe besonders eindrucksvoll; tragen Sie warme Überschuhe, um Ihre Füße beim Stehenbleiben warm zu halten.",
+                "hu": "Az ősi emlékmű a téli természet nyugalmában különösen lenyűgöző; viseljen meleg kamáslit, hogy lábai ne fázzanak meg a megállók során.",
+                "ro": "Monumentul antic este deosebit de impresionant în liniștea iernii; purtați huse călduroase peste pantofii de bicicletă pentru a vă menține picioarele calde.",
+                "en": "The ancient monument is particularly impressive in the winter quiet of nature; wear warm shoe covers to keep your feet cozy during the stops."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autós utazása magasan a város felett, a Capela de Santo Isidoro-nál indul, grandiózus kilátást nyújtva az előtte álló napra. A délelőtt a régió mély őskori gyökereinek felfedezésének van szentelve a Dólmen de Vile és a Mamoa de Aspra helyszíneken. A Sereia da Gelfa pihentető déli megállója után egy másik ősi helyszínre utazik. Az utazás a Forte do Cão történelmi romjaival és hullámaival zárul.",
         "ro": "Călătoria cu mașina începe sus, deasupra orașului, la Capela de Santo Isidoro, oferind o perspectivă grandioasă asupra zilei. Dimineața este dedicată descoperirii rădăcinilor preistorice profunde la Dólmen de Vile și Mamoa de Aspra. După o oprire relaxantă la Sereia da Gelfa, vă veți aventura la un alt sit antic. Călătoria se încheie cu valurile care se sparg și ruinele istorice de la Forte do Cão.",
         "en": "Your road trip kicks off high above the town at Capela de Santo Isidoro, providing a grand perspective of the day ahead. The mid-morning is dedicated to uncovering the region's deep prehistoric roots at the Dólmen de Vile and Mamoa de Aspra. After a relaxing midday stop at Sereia da Gelfa, you will venture to another ancient site at Mamoa de Eireira. The journey concludes with the crashing waves and historic ruins of Forte do Cão."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour ermöglicht eine komfortable Erkundung der Küste und des Hinterlandes trotz Regenwetter. Vormittags besuchen wir die Kapelle, während die Scheibenwischer den Blick auf die grünen Hügel freigeben. Mittags steuern wir historische Megalithgräber an, die im Regen eine mystische Aura verströmen. Nachmittags fahren wir zur Küstensirene und beenden den Tag entspannt im trockenen Fahrzeug.",
+            "hu": "Az autós túra kényelmes felfedezést tesz lehetővé a parton és a hátországban az esős idő ellenére is. Délelőtt a kápolnát látogatjuk meg, miközben az ablaktörlők mögül figyeljük a zöld dombokat. Délben történelmi megalit sírokat keresünk fel, amelyek esőben misztikus aurát árasztanak. Délután a parti szirénhez hajtunk, a napot pedig szárazon, az autóban fejezzük be.",
+            "ro": "Turul cu mașina permite explorarea confortabilă a coastei și a interiorului, în ciuda vremii ploioase. Dimineața vizităm capela, în timp ce ștergătoarele ne dezvăluie dealurile verzi. La prânz ne îndreptăm spre mormintele megalitice istorice care emană o aură mistică pe ploaie. După-amiaza mergem la sirena de pe coastă și încheiem ziua relaxați în vehiculul uscat.",
+            "en": "The car tour allows for comfortable exploration of the coast and hinterland despite the rainy weather. In the morning, we visit the chapel while wipers clear the view of the green hills. At noon, we head to historic megalithic tombs that exude a mystical aura in the rain. In the afternoon, we drive to the coastal siren and end the day relaxed in the dry vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capela de Santo Isidoro",
+                "hu": "Capela de Santo Isidoro",
+                "ro": "Capela de Santo Isidoro",
+                "en": "Capela de Santo Isidoro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um trockenen Fußes in die Kapelle zu gelangen; die Aussicht vom Hügel ist auch bei verhangenem Himmel und Regen sehr reizvoll.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy száraz lábbal juthasson be a kápolnába; a dombról nyíló kilátás borús égbolt mellett és esőben is igen látványos.",
+                "ro": "Parcați chiar la intrare pentru a ajunge la capelă fără să vă udați; vederea de pe deal este foarte atractivă chiar și cu cerul acoperit de nori și ploaie.",
+                "en": "Park directly at the entrance to reach the chapel with dry feet; the view from the hill is very attractive even with overcast skies and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Dólmen de Vile",
+                "hu": "Dólmen de Vile",
+                "ro": "Dólmen de Vile",
+                "en": "Dólmen de Vile"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal liegt unweit der Straße; ein großer Regenschirm im Kofferraum ist nützlich, um das prähistorische Grab ohne Eile aus der Nähe zu betrachten.",
+                "hu": "Az emlékmű nem messze található az úttól; egy nagy esernyő a csomagtartóban hasznos lesz, hogy sietség nélkül, közelről is megcsodálhassa a sírt.",
+                "ro": "Monumentul se află nu departe de drum; o umbrelă mare în portbagaj este utilă pentru a vedea mormântul preistoric de aproape fără a vă grăbi.",
+                "en": "The monument is located not far from the road; a large umbrella in the trunk will be useful to view the prehistoric tomb up close without rushing."
+              }
+            },
+            {
+              "name": {
+                "de": "Mamoa de Aspra",
+                "hu": "Mamoa de Aspra",
+                "ro": "Mamoa de Aspra",
+                "en": "Mamoa de Aspra"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei starkem Regen schlammig sein; fahren Sie vorsichtig und nutzen Sie die festen Parkflächen, um nicht mit dem Wagen steckenzubleiben.",
+                "hu": "A felhajtó erős esőben sáros lehet; vezessen óvatosan, és használja a szilárd parkolóhelyeket, hogy elkerülje az autóval való elakadást a sárban.",
+                "ro": "Accesul poate fi noroios în caz de ploaie torențială; conduceți cu atenție și folosiți zonele de parcare solide pentru a nu rămâne blocat cu mașina.",
+                "en": "The access road can be muddy in heavy rain; drive carefully and use firm parking areas to avoid getting the car stuck in the soft ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Sereia da Gelfa",
+                "hu": "Sereia da Gelfa",
+                "ro": "Sereia da Gelfa",
+                "en": "Sereia da Gelfa"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Meeresgischt direkt aus dem Autofenster, falls es zu stark regnet; die Sirene wirkt bei grauem Wetter besonders geheimnisvoll am Ufer.",
+                "hu": "Figyelje a tenger habzását közvetlenül az autó ablakából, ha túl erősen esne; a szirén szürke időben különösen titokzatosan hat a parton.",
+                "ro": "Observați spuma mării direct de la geamul mașinii dacă plouă prea tare; sirena pare deosebit de misterioasă pe mal pe o vreme cenușie și umedă.",
+                "en": "Watch the sea spray directly from the car window if it rains too hard; the siren looks particularly mysterious on the shore in gray weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Mamoa de Eireira",
+                "hu": "Mamoa de Eireira",
+                "ro": "Mamoa de Eireira",
+                "en": "Mamoa de Eireira"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp bei Regen ist lohnenswert, da der Ort leicht erreichbar ist; tragen Sie wasserfeste Kleidung für den kurzen Weg vom Parkplatz zum Monument.",
+                "hu": "Egy rövid megálló esőben is megéri, mivel a hely könnyen elérhető; viseljen vízálló ruházatot a parkolótól az emlékműig tartó rövid sétához.",
+                "ro": "O scurtă oprire pe ploaie merită, deoarece locul este ușor accesibil; purtați haine impermeabile pentru drumul scurt de la parcare la monument.",
+                "en": "A short stop in the rain is worthwhile as the site is easily accessible; wear waterproof clothing for the brief walk from the parking spot to the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Cão",
+                "hu": "Forte do Cão",
+                "ro": "Forte do Cão",
+                "en": "Forte do Cão"
+              },
+              "tip_5lang": {
+                "de": "Die Festung lässt sich gut mit dem Auto erreichen, was Schutz vor dem Küstenwind bietet; genießen Sie den Blick auf den wilden Atlantik im trockenen Wagen.",
+                "hu": "Az erőd autóval könnyen megközelíthető, ami védelmet nyújt a parti szél ellen; élvezze a vad Atlanti-óceán látványát a száraz autó biztonságából.",
+                "ro": "Fortăreața este ușor accesibilă cu mașina, oferind protecție împotriva vântului de coastă; admirați Atlanticul sălbatic din confortul vehiculului uscat.",
+                "en": "The fortress is easily accessible by car, providing protection from the coastal wind; enjoy the view of the wild Atlantic from the safety of your dry car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet die Autotour wohlige Wärme zwischen den Stopps an der klaren Atlantikküste. Vormittags erkunden wir Kapellen und Megalithgräber im hellen Sonnenlicht. Mittags genießen wir die weiten Aussichten bei angenehmen Innentemperaturen. Da die Sonne gegen 17:00 Uhr untergeht, planen wir die letzte Station am Fort so, dass wir den Sonnenuntergang bequem vom Fahrzeug aus beobachten können.",
+            "hu": "Télen az autós túra kellemes meleget kínál a tiszta atlanti-parti megállók között. Délelőtt kápolnákat és megalit sírokat fedezünk fel a ragyogó napsütésben. Délben a tágas kilátást élvezzük az autó kényelmes belső hőmérsékletéből. Mivel a nap délután 5 körül nyugszik, az utolsó megállót az erődnél úgy tervezzük, hogy kényelmesen láthassuk a naplementét.",
+            "ro": "Iarna, turul cu mașina oferă o căldură plăcută între opririle de pe coasta senină a Atlanticului. Dimineața explorăm capele și morminte megalitice în lumina strălucitoare. La prânz ne bucurăm de vederi largi la o temperatură interioară plăcută. Deoarece soarele apune în jurul orei 17:00, planificăm ultima oprire la fort pentru a vedea apusul confortabil din mașină.",
+            "en": "In winter, the car tour offers pleasant warmth between stops along the clear Atlantic coast. In the morning, we explore chapels and megalithic tombs in bright sunlight. At noon, enjoy expansive views from the comfort of the car. Since the sun sets around 5 PM, we plan the last stop at the fort to watch the sunset comfortably from the vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capela de Santo Isidoro",
+                "hu": "Capela de Santo Isidoro",
+                "ro": "Capela de Santo Isidoro",
+                "en": "Capela de Santo Isidoro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung Ihres Wagens auf dem Weg nach oben; die winterliche Aussicht auf den Ozean ist bei klarer Luft besonders weit und beeindruckend.",
+                "hu": "Használja az autó fűtését a felfelé vezető úton; a téli kilátás az óceánra a tiszta levegőben különösen tágas és lenyűgöző látványt nyújt.",
+                "ro": "Folosiți încălzirea mașinii pe drumul spre vârf; vederea de iarnă asupra oceanului este deosebit de largă și impresionantă în aerul curat și rece.",
+                "en": "Use your car's heater on the drive up; the winter view of the ocean is particularly expansive and impressive in the clear, crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Dólmen de Vile",
+                "hu": "Dólmen de Vile",
+                "ro": "Dólmen de Vile",
+                "en": "Dólmen de Vile"
+              },
+              "tip_5lang": {
+                "de": "Das prähistorische Grab ist im Winterlicht ein fantastisches Fotomotiv; achten Sie darauf, den Wagen auf festem Grund abzustellen, um Frostschäden zu vermeiden.",
+                "hu": "A prehírtorikus sír a téli fényben fantasztikus fotótéma; ügyeljen rá, hogy az autót szilárd talajon állítsa le, hogy elkerülje a téli úthibákat.",
+                "ro": "Mormântul preistoric este un subiect foto fantastic în lumina iernii; aveți grijă să parcați mașina pe teren solid pentru a evita eventualele probleme.",
+                "en": "The prehistoric tomb is a fantastic photo subject in the winter light; make sure to park the car on firm ground to avoid any local winter road issues."
+              }
+            },
+            {
+              "name": {
+                "de": "Mamoa de Aspra",
+                "hu": "Mamoa de Aspra",
+                "ro": "Mamoa de Aspra",
+                "en": "Mamoa de Aspra"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort zur Mittagszeit, wenn die Sonne am höchsten steht; im Winter ist das Gelände trocken und gut mit festem Schuhwerk begehbar.",
+                "hu": "Látogassa meg ezt a helyet délidőben, amikor a nap a legmagasabban jár; télen a terep száraz és jól járható egy masszívabb lábbeli segítségével.",
+                "ro": "Vizitați acest loc la prânz, când soarele este cel mai sus; iarna terenul este uscat și ușor de parcurs cu o încălțăminte solidă și călduroasă.",
+                "en": "Visit this site at noon when the sun is at its highest; in winter, the ground is usually dry and easy to walk on with sturdy footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Sereia da Gelfa",
+                "hu": "Sereia da Gelfa",
+                "ro": "Sereia da Gelfa",
+                "en": "Sereia da Gelfa"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der Wintersonne lässt die Skulptur am Wasser glänzen; ziehen Sie sich für den kurzen Weg zum Ufer warm an, da der Seewind sehr kühl sein kann.",
+                "hu": "A téli nap fénye megcsillantja a szobrot a vízparton; öltözzön fel melegen a parthoz vezető rövid útra, mert a tengeri szél igen hűvös lehet.",
+                "ro": "Lumina soarelui de iarnă face sculptura să strălucească pe mal; îmbrăcați-vă gros pentru drumul scurt spre apă, deoarece vântul mării poate fi foarte rece.",
+                "en": "The winter sunlight makes the sculpture sparkle by the water; dress warmly for the short walk to the shore, as the sea breeze can be very chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Mamoa de Eireira",
+                "hu": "Mamoa de Eireira",
+                "ro": "Mamoa de Eireira",
+                "en": "Mamoa de Eireira"
+              },
+              "tip_5lang": {
+                "de": "Ein geschichtsträchtiger Ort, der im Winter Einsamkeit und Ruhe ausstrahlt; planen Sie den Besuch vor 16:30 Uhr, um das Monument im Tageslicht zu sehen.",
+                "hu": "Történelmi helyszín, amely télen magányt és nyugalmat áraszt; tervezze a látogatást délután fél 5 előtt, hogy még nappali fénynél láthassa az emlékművet.",
+                "ro": "Un loc plin de istorie care iarna emană singurătate și liniște; planificați vizita înainte de 16:30 pentru a vedea monumentul în lumina zilei.",
+                "en": "A historic site that exudes solitude and peace in winter; plan your visit before 4:30 PM to see the monument while it is still daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Cão",
+                "hu": "Forte do Cão",
+                "ro": "Forte do Cão",
+                "en": "Forte do Cão"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr direkt aus dem Auto; der Parkplatz bietet eine perfekte Sicht auf den Horizont ohne zu frieren.",
+                "hu": "Élvezze a délután 5 órai naplementét közvetlenül az autóból; a parkolóból tökéletes kilátás nyílik a horizontra anélkül, hogy megfagyna odakint.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00 direct din mașină; parcarea oferă o vedere perfectă spre orizont fără a suferi de frigul de afară.",
+                "en": "Enjoy the 5 PM sunset directly from the car; the parking area offers a perfect view of the horizon without having to freeze in the cold winter air."
+              }
+            }
+          ]
+        }
       }
     }
   }

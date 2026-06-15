@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Plav kulturális központjának felfedezésével, látogasson el a történelmi Sultanijához és az ikonikus Redžepagića kulához.\n\nDélben nyújtsa ki a lábait egy kellemes sétával a villámcsapta hársfához és a Veliki Skić festői magaslataihoz.\n\nDélután ereszkedjen le a kiterjedt Plavsko jezero felé, élvezve az átmenetet a hegyi ösvényekről a völgybe.\n\nZárja az estét a gleccsertó békés vizeinél, figyelve a naplementét, amely élénk színekbe öltözteti a környező csúcsokat.",
         "ro": "Începeți dimineața explorând inima culturală a orașului Plav, vizitând istorica Sultanija și iconica Redžepagića kula.\n\nLa prânz, faceți o plimbare plăcută până la teiul lovit de fulger și pe culmile pitorești de la Veliki Skić.\n\nDupă-amiaza, coborâți spre întinsul Plavsko jezero, bucurându-vă de tranziția de la traseele montane la fundul văii.\n\nÎncheiați-vă seara pe apele pașnice ale lacului glaciar, privind apusul care aruncă culori vibrante peste vârfurile din jur.",
         "en": "Start your morning exploring the cultural heart of Plav, visiting the historic Sultanija and the iconic Redžepagića kula.\n\nAround midday, stretch your legs with a pleasant walk up to see the lightning-struck linden tree and the scenic heights of Veliki Skić.\n\nIn the afternoon, descend towards the expansive Plavsko jezero, enjoying the transition from mountain trails to the valley floor.\n\nConclude your evening by the peaceful waters of the glacial lake, watching the sunset cast vibrant colors over the surrounding peaks."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Plav beginnt ruhig bei der Sultanija-Moschee, wo das Trommeln der Tropfen auf dem Dach eine meditative Stille erzeugt. Mittags bietet die massive Redžepagića-Kula einen idealen Rückzugsort vor dem Guss. Nachmittags wandern Sie mit festem Schuhwerk zum See, während Nebelschleier mystisch über dem Wasser hängen. Der Tag endet früh in der gemütlichen Wärme einer lokalen Stube.",
+            "hu": "Az esős reggel Plavban csendesen indul a Sultanija mecsetnél, ahol az ereszen kopogó eső meditatív hangulatot áraszt. Délben a masszív Redžepagića-torony nyújt tökéletes menedéket a zápor elől. Délután vízálló bakancsban érdemes kisétálni a tóhoz, miközben a ködfátyol misztikusan üli meg a vizet. Az este egy helyi vendéglő barátságos melegében ér véget, távol a kinti sártól.",
+            "ro": "O dimineață ploioasă în Plav începe liniștit la Moscheea Sultanija, unde sunetul picăturilor pe acoperiș creează o atmosferă meditativă. La prânz, turnul Redžepagića oferă un adăpost solid împotriva aversei. După-amiaza, cu încălțăminte impermeabilă, vă plimbați spre lac în timp ce ceața se lasă mistic peste apă. Ziua se încheie devreme în căldura primitoare a unei pensiuni locale.",
+            "en": "A rainy morning in Plav starts quietly at the Sultanija Mosque, where the drumming of drops on the roof creates a meditative atmosphere. At noon, the massive Redžepagića Tower provides a perfect shelter from the downpour. In the afternoon, head to the lake with waterproof boots as mist hangs mystically over the water. The day ends early in the cozy warmth of a local tavern away from the mud."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sultanija",
+                "hu": "Sultanija",
+                "ro": "Sultanija",
+                "en": "Sultanija"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die feinen Ornamente im Inneren, während Sie dem Regen draußen lauschen; halten Sie einen Regenschirm für den kurzen Fußweg bereit.",
+                "hu": "Csodálja meg a belső díszítéseket, miközben kint kopog az eső; tartson kéznél esernyőt a bejáratig tartó rövid sétához a csúszós köveken.",
+                "ro": "Admirați ornamentele interioare fine în timp ce ascultați ploaia de afară; aveți pregătită o umbrelă pentru scurta plimbare pe pietrele ude.",
+                "en": "Admire the fine interior ornaments while listening to the rain outside; keep an umbrella ready for the short walk on the potentially slippery stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Redžepagića kula",
+                "hu": "Redžepagića kula",
+                "ro": "Redžepagića kula",
+                "en": "Redžepagića kula"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten Sie trocken, aber seien Sie vorsichtig auf den hölzernen Außentreppen, die bei Nässe sehr rutschig werden können.",
+                "hu": "A vastag kőfalak szárazon tartják, de legyen nagyon óvatos a külső falépcsőkön, amelyek az esőtől rendkívül csúszóssá és veszélyessé válhatnak.",
+                "ro": "Zidurile groase de piatră vă țin uscat, dar fiți foarte atenți pe scările exterioare de lemn, care devin extrem de alunecoase când sunt ude.",
+                "en": "The thick stone walls keep you dry, but be very careful on the external wooden stairs, which become extremely slippery and treacherous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Eine alte, vom Blitz getroffene Linde",
+                "hu": "Egy öreg, villámcsapta hársfa",
+                "ro": "Un tei bătrân lovit de un fulger",
+                "en": "An old linden tree hit by a lightning strike"
+              },
+              "tip_5lang": {
+                "de": "Der vom Blitz gespaltene Stamm wirkt im grauen Regenlicht besonders dramatisch; ein schneller Fotostopp unter dem Schutz der umliegenden Bäume lohnt.",
+                "hu": "A villám sújtotta törzs a szürke esőben különösen drámai látványt nyújt; érdemes egy gyors fotót készíteni a környező fák lombjainak védelmében.",
+                "ro": "Trunchiul despicat de fulger pare deosebit de dramatic în lumina cenușie a ploii; merită o oprire rapidă sub protecția copacilor din jur.",
+                "en": "The lightning-split trunk looks particularly dramatic in the grey rain light; it's worth a quick photo stop under the shelter of nearby trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Veliki Skić",
+                "hu": "Veliki Skić",
+                "ro": "Veliki Skić",
+                "en": "Veliki Skić"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad kann schlammig sein, belohnt aber mit einem mystischen Blick auf die im Dunst verschwindenden Berge; tragen Sie unbedingt wasserfeste Wanderschuhe.",
+                "hu": "Az ösvény sáros lehet, de a ködbe vesző hegyek látványa kárpótolja a fáradtságért; mindenképpen viseljen vízálló túrabakancsot és eső nadrágot.",
+                "ro": "Poteca poate fi noroioasă, dar vederea munților care dispar în ceață merită efortul; purtați neapărat bocanci de munte impermeabili și pelerină.",
+                "en": "The path can be muddy, but the view of the mountains disappearing into the mist is rewarding; be sure to wear waterproof hiking boots and gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Plavsko jezero",
+                "hu": "Plavsko jezero",
+                "ro": "Plavsko jezero",
+                "en": "Plavsko jezero"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Regentropfen Kreise auf der glatten Seeoberfläche ziehen; ein überdachter Steg bietet den perfekten Ort für trockene Beobachtungen.",
+                "hu": "Nézze, ahogy az esőcseppek köröket rajzolnak a tó sima felszínére; a part menti fedett stégek tökéletes helyet kínálnak a száraz bámészkodáshoz.",
+                "ro": "Priviți cum picăturile de ploaie desenează cercuri pe suprafața netedă a lacului; pontoanele acoperite sunt locul perfect pentru observații uscate.",
+                "en": "Watch the raindrops draw circles on the smooth surface of the lake; the covered piers along the shore offer a perfect spot for dry observation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Plav glitzert weiß, während der Frost die Minarette der Sultanija überzieht. Mittags wärmen Sie sich in der historischen Kula auf, bevor Sie die tief verschneite Landschaft erkunden. Die Sonne beginnt bereits gegen 16 Uhr zu sinken und taucht die Gipfel in rosa Licht. Den Abend verbringen Sie bei heißem Tee und lokaler Küche, sobald die Dunkelheit um 17 Uhr endgültig hereinbricht.",
+            "hu": "A téli reggel Plavban fehéren csillog, a dér befedi a Sultanija mecset minaretjeit. Délben melegedjen fel a történelmi toronyban, mielőtt felfedezné a mély hóval borított tájat. A nap már 16 órakor süllyedni kezd, rózsaszínbe vonva a csúcsokat. Az estét forró tea és helyi ételek mellett töltse, amint 17 órakor végleg leszáll a sötétség és a fagy.",
+            "ro": "Dimineața de iarnă în Plav strălucește alb, în timp ce gerul acoperă minaretele moscheii Sultanija. La prânz, încălziți-vă în turnul istoric înainte de a explora peisajul înzăpezit. Soarele începe să apună deja în jurul orei 16, colorând vârfurile în roz. Seara se petrece cu ceai fierbinte și mâncare locală, pe măsură ce întunericul se lasă la ora 17.",
+            "en": "The winter morning in Plav glitters white as frost covers the minarets of the Sultanija. At noon, warm up in the historic tower before exploring the snow-covered landscape. The sun begins to set as early as 4 PM, bathing the peaks in pink light. Spend the evening with hot tea and local cuisine as darkness finally falls by 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sultanija",
+                "hu": "Sultanija",
+                "ro": "Sultanija",
+                "en": "Sultanija"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Moschee früh am Morgen, um den unberührten Schnee im Hof zu sehen; achten Sie auf glatte Stellen unter der dünnen Schneedecke.",
+                "hu": "Látogassa meg a mecsetet kora reggel, hogy lássa az udvar érintetlen havát; vigyázzon a vékony hóréteg alatt megbújó jeges, csúszós részekre.",
+                "ro": "Vizitați moscheea dimineața devreme pentru a vedea zăpada neatinsă din curte; atenție la porțiunile înghețate de sub stratul subțire de zăpadă.",
+                "en": "Visit the mosque early in the morning to see the pristine snow in the courtyard; watch out for icy patches hidden under the thin snow layer."
+              }
+            },
+            {
+              "name": {
+                "de": "Redžepagića kula",
+                "hu": "Redžepagića kula",
+                "ro": "Redžepagića kula",
+                "en": "Redžepagića kula"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte, tragen Sie also mehrere Schichten Kleidung; die Aussicht auf die verschneiten Dächer von Plav ist spektakulär.",
+                "hu": "A vastag falak tárolják a hideget, ezért öltözzön rétegesen; a kilátás Plav hófödte háztetőire a felső emeletről lenyűgöző és fotogén.",
+                "ro": "Zidurile groase rețin frigul, așa că îmbrăcați-vă în straturi; vederea de sus asupra acoperișurilor înzăpezite din Plav este spectaculoasă.",
+                "en": "The thick walls retain the cold, so dress in layers; the view of the snow-covered rooftops of Plav from the upper floor is spectacular."
+              }
+            },
+            {
+              "name": {
+                "de": "Eine alte, vom Blitz getroffene Linde",
+                "hu": "Egy öreg, villámcsapta hársfa",
+                "ro": "Un tei bătrân lovit de un fulger",
+                "en": "An old linden tree hit by a lightning strike"
+              },
+              "tip_5lang": {
+                "de": "Die kahle, vom Frost gezeichnete Silhouette des Baumes bietet ein fantastisches Wintermotiv; halten Sie die Kamera warm, um die Akkulaufzeit zu schonen.",
+                "hu": "A fa kopár, zúzmarás sziluettje fantasztikus téli fotótéma; tartsa melegen a fényképezőgépet, hogy az akkumulátor ne merüljön le a hidegben.",
+                "ro": "Silueta golașă a copacului, acoperită de chiciură, oferă un motiv de iarnă fantastic; păstrați camera la cald pentru a proteja bateria.",
+                "en": "The bare silhouette of the tree covered in hoarfrost offers a fantastic winter photo subject; keep your camera warm to preserve battery life."
+              }
+            },
+            {
+              "name": {
+                "de": "Veliki Skić",
+                "hu": "Veliki Skić",
+                "ro": "Veliki Skić",
+                "en": "Veliki Skić"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg im Schnee erfordert gute Kondition und Thermostiefel; oben angekommen bietet sich ein stilles Panorama der weißen Prokletije-Gipfel.",
+                "hu": "A havas emelkedő jó kondíciót és hótaposót igényel; felérve a Prokletije csúcsainak néma, fehér panorámája minden fáradtságot megér.",
+                "ro": "Urcarea prin zăpadă necesită condiție fizică și ghete termoizolante; sus, panorama mută a vârfurilor albe Prokletije este răsplata supremă.",
+                "en": "The climb through snow requires good fitness and thermal boots; at the top, the silent white panorama of the Prokletije peaks is the ultimate reward."
+              }
+            },
+            {
+              "name": {
+                "de": "Plavsko jezero",
+                "hu": "Plavsko jezero",
+                "ro": "Plavsko jezero",
+                "en": "Plavsko jezero"
+              },
+              "tip_5lang": {
+                "de": "Das Ufer kann vereist sein, betreten Sie die Eisfläche des Sees niemals ohne lokale Erlaubnis; genießen Sie die klare, eisige Luft vor Sonnenuntergang.",
+                "hu": "A part jeges lehet, soha ne lépjen a tó jégfelületére helyi engedély nélkül; élvezze a tiszta, fagyos levegőt a korai naplemente előtt.",
+                "ro": "Malul poate fi înghețat, nu pășiți niciodată pe gheața lacului fără permisiunea localnicilor; bucurați-vă de aerul curat și înghețat înainte de apus.",
+                "en": "The shore can be icy, never step on the lake ice without local permission; enjoy the clear, freezing air before the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpártúráját a városközpont történelmi műemlékeinél, és merüljön el Plav gazdag kultúrájában.\n\nDélben tekerjen el a Plavsko jezero partjára, majd haladjon tovább Malo blato felé, hogy kiélvezze az érintetlen természetet.\n\nDélután fedezze fel Završ buja tájait, és gyönyörködjön a környező vidék békés kilátásában.\n\nZárja a napot egy kellemes úttal Veliki Skić felé, ahol megpihenhet a hegyi levegőn és megnézheti a naplementét.",
         "ro": "Începeți turul cu bicicleta printre monumentele istorice din centrul orașului și cufundați-vă în bogata cultură din Plav.\n\nSpre prânz, pedalați pe malurile lacului Plavsko și apoi spre Malo blato, bucurându-vă de natura virgină.\n\nÎn timpul după-amiezii, explorați peisajele luxuriante din Završ și bucurați-vă de vederile liniștite din jur.\n\nÎncheiați ziua cu o plimbare până la Veliki Skić, unde vă puteți relaxa în aerul curat de munte și admira apusul.",
         "en": "Start your bike tour at the historic monuments in the town center, immersing yourself in the rich culture of Plav.\n\nAround midday, pedal along the shores of Plavsko jezero and continue to Malo blato to soak in the untouched nature.\n\nDuring the afternoon, explore the lush landscapes of Završ, taking in the peaceful views of the surrounding area.\n\nEnd your day with a satisfying ride up to Veliki Skić, where you can relax in the crisp mountain air and watch the sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag auf dem Rad erfordert Vorsicht auf den nassen Straßen von Plav. Morgens starten Sie bei der Sultanija, während die Reifen auf dem Asphalt spritzen. Mittags finden Sie Schutz in der Kula, um die Ausrüstung zu trocknen. Die Route zum See führt über rutschige Wege, bietet aber dramatische Ausblicke. Der Tag endet mit einer heißen Dusche, bevor die Dunkelheit die Sicht einschränkt.",
+            "hu": "Az esős kerékpáros nap óvatosságot igényel Plav nedves útjain. Reggel induljon a Sultanija mecsettől, miközben a gumi veri fel a vizet. Délben keressen menedéket a toronynál, hogy megszárítsa felszerelését. A tóhoz vezető út csúszós lehet, de drámai látványt nyújt. A nap egy forró zuhany ígéretével ér véget, még mielőtt a sötét korlátozná a látást.",
+            "ro": "O zi ploioasă pe bicicletă necesită prudență pe străzile ude din Plav. Dimineața porniți de la moschee în timp ce roțile împroșcă apa. La prânz, găsiți adăpost la turn pentru a vă usca echipamentul. Traseul spre lac poate fi alunecos, dar oferă priveliști dramatice. Ziua se încheie cu un duș fierbinte, înainte ca întunericul să limiteze vizibilitatea.",
+            "en": "A rainy bike day requires caution on Plav's wet roads. Start in the morning at the Sultanija with water splashing from your tires. At noon, find shelter at the tower to dry your gear. The route to the lake can be slippery but offers dramatic views. The day ends with the promise of a hot shower before darkness limits visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sultanija",
+                "hu": "Sultanija",
+                "ro": "Sultanija",
+                "en": "Sultanija"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und prüfen Sie Ihre Bremsen für die nasse Abfahrt; die Innenbesichtigung bietet eine trockene Pause.",
+                "hu": "Parkolja le kerékpárját fedett helyen, és ellenőrizze a fékeket a vizes lejtők előtt; a belső látogatás tökéletes száraz pihenőt kínál.",
+                "ro": "Parcați bicicleta într-un loc protejat și verificați frânele pentru coborârea pe ud; vizitarea interiorului oferă o pauză binemeritată.",
+                "en": "Park your bike in a sheltered spot and check your brakes for the wet descent; the interior visit offers a perfect dry break from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Redžepagića kula",
+                "hu": "Redžepagića kula",
+                "ro": "Redžepagića kula",
+                "en": "Redžepagića kula"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Regenkleidung zu richten; das Kopfsteinpflaster rund um den Turm ist bei Nässe tückisch glatt für Fahrradreifen.",
+                "hu": "Használja ki a megállót az esőruházat igazítására; a torony körüli macskakő nedvesen rendkívül csalóka és csúszós a kerékpárgumik számára.",
+                "ro": "Folosiți oprirea pentru a vă ajusta pelerina; pavajul din jurul turnului este înșelător de alunecos pentru anvelopele de bicicletă când e ud.",
+                "en": "Use the stop to adjust your rain gear; the cobblestones around the tower are treacherously slippery for bike tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Plavsko jezero",
+                "hu": "Plavsko jezero",
+                "ro": "Plavsko jezero",
+                "en": "Plavsko jezero"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den ufernahen Pfaden, da Schlammansammlungen die Sturzgefahr erhöhen; genießen Sie die kühle Brise unter Ihrem Helmvisier.",
+                "hu": "Óvatosan tekerjen a part menti ösvényeken, mert a sárfelhordás növeli az elesés veszélyét; élvezze a hűvös szellőt a sisakrostély alatt.",
+                "ro": "Pedalați cu atenție pe potecile de pe mal, deoarece noroiul crește riscul de cădere; bucurați-vă de briza răcoroasă sub viziera căștii.",
+                "en": "Ride carefully on the lakeside paths as mud accumulation increases the risk of falling; enjoy the cool breeze under your helmet visor."
+              }
+            },
+            {
+              "name": {
+                "de": "Malo blato",
+                "hu": "Malo blato",
+                "ro": "Malo blato",
+                "en": "Malo blato"
+              },
+              "tip_5lang": {
+                "de": "Das Sumpfgebiet wirkt im Regen noch lebendiger, aber die Wege sind oft überflutet; bleiben Sie auf den befestigten Abschnitten für sicheren Halt.",
+                "hu": "A mocsaras vidék esőben még élőbbnek tűnik, de az utak gyakran víz alá kerülnek; maradjon a szilárd szakaszokon a biztonságos tapadásért.",
+                "ro": "Zona mlăștinoasă pare și mai vie în ploaie, dar drumurile sunt adesea inundate; rămâneți pe secțiunile pavate pentru o aderență sigură.",
+                "en": "The marshy area looks even more alive in the rain, but paths are often flooded; stay on the paved sections for secure traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Završ",
+                "hu": "Završ",
+                "ro": "Završ",
+                "en": "Završ"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt nach Završ kann anstrengend sein, wenn die Straße nass ist; oben bietet ein schneller Unterstand Schutz für eine kurze Trinkpause.",
+                "hu": "A Završba vezető emelkedő kimerítő lehet vizes úton; fent keressen egy gyors menedéket a sűrű fák alatt egy rövid frissítő szünetre.",
+                "ro": "Urcarea spre Završ poate fi obositoare pe drum ud; sus, căutați un adăpost rapid sub copaci pentru o scurtă pauză de hidratare.",
+                "en": "The climb to Završ can be exhausting on wet roads; find quick shelter at the top under dense trees for a short hydration break."
+              }
+            },
+            {
+              "name": {
+                "de": "Veliki Skić",
+                "hu": "Veliki Skić",
+                "ro": "Veliki Skić",
+                "en": "Veliki Skić"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Beleuchtung funktioniert, falls der Regen die Sicht trübt; die Abfahrt erfordert volle Konzentration auf die Bremspunkte.",
+                "hu": "Győződjön meg róla, hogy a világítás működik, ha az eső rontja a látási viszonyokat; a lejtmenet teljes koncentrációt igényel a fékezésnél.",
+                "ro": "Asigurați-vă că luminile funcționează dacă ploaia reduce vizibilitatea; coborârea necesită concentrare maximă la punctele de frânare.",
+                "en": "Make sure your lights are working if the rain blurs visibility; the descent requires full concentration on braking points and road surface."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Plav erfordert dicke Handschuhe und Thermokleidung. Morgens glitzert die Sultanija in der Kälte, während Sie vorsichtig über gestreute Wege fahren. Mittags bietet die Kula eine windgeschützte Pause. Da die Wege zum See vereist sein können, ist höchste Vorsicht geboten. Die Tour endet am Nachmittag gegen 16 Uhr, bevor der eisige Abendwind und die Dunkelheit einsetzen.",
+            "hu": "A téli kerékpározáshoz Plavban vastag kesztyű és hőszigetelő ruházat szükséges. Reggel a Sultanija mecset csillog a hidegben, miközben óvatosan halad a letakarított utakon. Délben a torony szélvédett pihenőt kínál. Mivel a tóhoz vezető utak jegesek lehetnek, fokozott óvatosság indokolt. A túra 16 órakor ér véget, még a jeges esti szél és a sötétség beállta előtt.",
+            "ro": "Ciclismul de iarnă în Plav necesită mănuși groase și haine termice. Dimineața, Sultanija strălucește în ger în timp ce pedalați cu grijă pe drumurile curățate. La prânz, turnul oferă o pauză ferită de vânt. Deoarece drumurile spre lac pot fi înghețate, prudența este esențială. Turul se încheie la ora 16, înainte de vântul înghețat de seară.",
+            "en": "Winter cycling in Plav requires thick gloves and thermal clothing. In the morning, the Sultanija glitters in the cold as you ride carefully on cleared paths. At noon, the tower offers a wind-sheltered break. As paths to the lake can be icy, extreme caution is advised. The tour ends by 4 PM, before the icy evening wind and darkness set in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sultanija",
+                "hu": "Sultanija",
+                "ro": "Sultanija",
+                "en": "Sultanija"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck für besseren Grip auf kaltem Asphalt; ein kurzer Rundgang wärmt die Füße nach der ersten Fahrtstrecke auf.",
+                "hu": "Ellenőrizze a guminyomást a jobb tapadás érdekében a hideg aszfalton; egy rövid séta felmelegíti a lábait az első szakasz után.",
+                "ro": "Verificați presiunea anvelopelor pentru o aderență mai bună pe asfalt rece; o scurtă plimbare vă va încălzi picioarele după prima etapă.",
+                "en": "Check your tire pressure for better grip on cold asphalt; a short walk will warm up your feet after the first leg of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Redžepagića kula",
+                "hu": "Redžepagića kula",
+                "ro": "Redžepagića kula",
+                "en": "Redžepagića kula"
+              },
+              "tip_5lang": {
+                "de": "Sperren Sie Ihr Rad sicher ab und nutzen Sie die Kula als Windschutz für einen heißen Tee aus Ihrer Thermoskanne; achten Sie auf Glatteis am Boden.",
+                "hu": "Zárja le biztonságosan a kerékpárt, és használja a tornyot szélvédőként egy forró teához a termoszából; ügyeljen a jeges foltokra a kövön.",
+                "ro": "Încuiați bine bicicleta și folosiți turnul ca paravan împotriva vântului pentru un ceai fierbinte din termos; atenție la gheața de pe sol.",
+                "en": "Lock your bike securely and use the tower as a windbreak for a hot tea from your thermos; watch out for black ice on the ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Plavsko jezero",
+                "hu": "Plavsko jezero",
+                "ro": "Plavsko jezero",
+                "en": "Plavsko jezero"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie die hölzernen Stege, die oft mit einer tückischen Eisschicht überzogen sind; genießen Sie die klare Sicht auf die verschneite Bergkette.",
+                "hu": "Kerülje a fapallókat, amelyeket gyakran csalóka jégréteg borít; élvezze a kristálytiszta kilátást a hófödte hegyvonulatokra a partról.",
+                "ro": "Evitați podurile de lemn, care sunt adesea acoperite cu un strat înșelător de gheață; bucurați-vă de vederea clară spre munții înzăpeziți.",
+                "en": "Avoid the wooden piers, which are often covered with a treacherous layer of ice; enjoy the crystal-clear view of the snowy mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Malo blato",
+                "hu": "Malo blato",
+                "ro": "Malo blato",
+                "en": "Malo blato"
+              },
+              "tip_5lang": {
+                "de": "Das gefrorene Schilf bietet eine einzigartige Geräuschkulisse im Winterwind; bleiben Sie auf den Hauptwegen, um nicht im Schneematsch stecken zu bleiben.",
+                "hu": "A fagyott nádas egyedülálló hangvilágot áraszt a téli szélben; maradjon a főutakon, hogy ne akadjon el a mély hóban vagy latyakban.",
+                "ro": "Stufărișul înghețat oferă o acustică unică în vântul de iarnă; rămâneți pe drumurile principale pentru a nu vă bloca în zăpadă sau noroi.",
+                "en": "The frozen reeds offer a unique soundscape in the winter wind; stay on the main paths to avoid getting stuck in deep snow or slush."
+              }
+            },
+            {
+              "name": {
+                "de": "Završ",
+                "hu": "Završ",
+                "ro": "Završ",
+                "en": "Završ"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm, aber die Abfahrt kühlt Sie schnell aus; tragen Sie unbedingt eine winddichte Schicht über Ihrer Thermokleidung.",
+                "hu": "Az emelkedő melegen tartja, de a lejtmenetben gyorsan kihűlhet; viseljen szélálló réteget a hőszigetelő ruházat felett a visszauton.",
+                "ro": "Urcarea vă ține cald, dar coborârea vă va răci rapid; purtați neapărat un strat rezistent la vânt peste hainele termice.",
+                "en": "The climb keeps you warm, but the descent will cool you down quickly; wear a windproof layer over your thermal clothing for the return."
+              }
+            },
+            {
+              "name": {
+                "de": "Veliki Skić",
+                "hu": "Veliki Skić",
+                "ro": "Veliki Skić",
+                "en": "Veliki Skić"
+              },
+              "tip_5lang": {
+                "de": "Beeilen Sie sich beim Abstieg, da die Temperaturen nach 16 Uhr rapide sinken; eine helle Stirnlampe ist für den Rückweg im Dämmerlicht essenziell.",
+                "hu": "Siessen a leereszkedéssel, mert 16 óra után a hőmérséklet gyorsan zuhan; egy erős fejlámpa elengedhetetlen a szürkületi visszatéréshez.",
+                "ro": "Grăbiți-vă cu coborârea, deoarece temperaturile scad rapid după ora 16; o lanternă frontală puternică este esențială pentru drumul de întoarcere.",
+                "en": "Hurry with the descent as temperatures drop rapidly after 4 PM; a bright headlamp is essential for the return trip in the gathering twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje a napot Plav belvárosának történelmi kincseinek gyors, de lenyűgöző felfedezésével.\n\nDélben haladjon festői tájakon keresztül a távoli Visitorsko Jezero felé, ahol egyedi úszó szigetek várják.\n\nDélután töltsön el egy kis időt a Plavsko jezero mellett, ami ideális egy pihentető autózáshoz a lenyűgöző tóparton.\n\nZárja a napot egy látványos úttal a Hridsko Jezero magaslatai felé, és tapasztalja meg a lélegzetelállító alpesi naplementét.",
         "ro": "Începeți ziua cu o explorare rapidă, dar fascinantă, a comorilor istorice din centrul orașului Plav.\n\nLa prânz, conduceți prin peisaje pitorești până la izolatul lac Visitorsko, unde vă așteaptă insule plutitoare unice.\n\nDupă-amiaza, faceți o pauză la Plavsko jezero, un loc ideal pentru o călătorie relaxantă de-a lungul impresionantului țărm.\n\nÎncheiați ziua cu o plimbare spectaculoasă până la Hridsko Jezero și experimentați apusul uluitor în decorul alpin.",
         "en": "Start your day with a quick but fascinating exploration of the historic treasures in downtown Plav.\n\nAt midday, drive through scenic landscapes up to the remote Visitorsko Jezero, where unique floating islands await.\n\nIn the afternoon, take a relaxing break at Plavsko jezero, which is ideal for a peaceful drive along its impressive shores.\n\nConclude your day with a breathtaking drive up to Hridsko Jezero, experiencing an unforgettable alpine sunset surrounded by pines."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag im Auto ermöglicht es Ihnen, die Umgebung von Plav trocken zu erkunden. Morgens besuchen Sie die Sultanija-Moschee, während der Regen gegen die Scheiben trommelt. Mittags führt die Fahrt zur Kula und weiter zu höher gelegenen Klöstern. Trotz Wolkenbrüchen genießen Sie fantastische Ausblicke auf die stürmischen Seen. Der Tag endet sicher in einer Unterkunft mit Panoramablick.",
+            "hu": "Az esős nap autón kényelmesen, szárazon teszi lehetővé Plav környékének felfedezését. Reggel látogasson el a Sultanija mecsethez, miközben az eső a szélvédőn kopog. Délben az út a toronyhoz, majd távolabbi kolostorokhoz vezet. A felhőszakadások ellenére fantasztikus kilátás nyílik a viharos tavakra. A nap egy panorámás szállás biztonságában ér véget.",
+            "ro": "O zi ploioasă cu mașina vă permite să explorați împrejurimile orașului Plav rămânând uscat. Dimineața vizitați moscheea în timp ce ploaia bate în parbriz. La prânz, drumul duce spre turn și apoi spre mănăstiri îndepărtate. În ciuda averselor, vă bucurați de vederi fantastice asupra lacurilor agitate. Ziua se încheie în siguranță într-o pensiune cu panoramă.",
+            "en": "A rainy day by car allows you to explore the Plav area comfortably while staying dry. In the morning, visit the Sultanija Mosque as rain drums on the windshield. At noon, the drive continues to the tower and distant monasteries. Despite the downpours, enjoy fantastic views of the stormy lakes. The day ends safely in accommodation with a panoramic view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sultanija",
+                "hu": "Sultanija",
+                "ro": "Sultanija",
+                "en": "Sultanija"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden; die feuchten Steine im Hof sind sehr glatt, gehen Sie vorsichtig vom Auto zur Moschee.",
+                "hu": "Parkoljon a bejárathoz közel, hogy elkerülje az ázást; az udvar nedves kövei nagyon csúszósak, óvatosan sétáljon az autótól a mecsetig.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda; pietrele umede din curte sunt foarte alunecoase, mergeți cu grijă de la mașină la moschee.",
+                "en": "Park close to the entrance to avoid getting wet; the damp stones in the courtyard are very slippery, walk carefully from the car to the mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Redžepagića kula",
+                "hu": "Redžepagića kula",
+                "ro": "Redžepagića kula",
+                "en": "Redžepagića kula"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Turm lohnt sich für die spannende Führung im Trockenen; nutzen Sie die Zeit, um die Route auf der Karte zu prüfen.",
+                "hu": "Egy rövid vágta a parkolótól a toronyig megéri a szárazon tartott izgalmas vezetést; használja ki az időt az útvonal ellenőrzésére a térképen.",
+                "ro": "Un sprint scurt de la parcare la turn merită pentru turul ghidat la adăpost; folosiți timpul pentru a verifica ruta pe hartă în mașină.",
+                "en": "A short sprint from the parking spot to the tower is worth it for the exciting indoor tour; use the time to check your route on the map."
+              }
+            },
+            {
+              "name": {
+                "de": "Sv. Trojice",
+                "hu": "Sv. Trojice",
+                "ro": "Sv. Trojice",
+                "en": "Sv. Trojice"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Zufahrt kann bei Regen rutschig sein; fahren Sie langsam und genießen Sie die spirituelle Ruhe im Inneren des kleinen Klosters.",
+                "hu": "A keskeny bekötőút esőben csúszós lehet; vezessen lassan, és élvezze a kis kolostor belső terének spirituális nyugalmát a zuhé alatt.",
+                "ro": "Drumul îngust de acces poate fi alunecos în ploaie; conduceți încet și bucurați-vă de liniștea spirituală din interiorul mănăstirii.",
+                "en": "The narrow access road can be slippery in the rain; drive slowly and enjoy the spiritual tranquility inside the small monastery during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Visitorsko Jezero",
+                "hu": "Visitorsko Jezero",
+                "ro": "Visitorsko Jezero",
+                "en": "Visitorsko Jezero"
+              },
+              "tip_5lang": {
+                "de": "Die Bergstraße erfordert volle Aufmerksamkeit bei Nebel und Nässe; der Blick vom Auto auf den See ist auch bei Regen spektakulär und stimmungsvoll.",
+                "hu": "A hegyi út teljes figyelmet igényel ködben és esőben; az autóból nyíló kilátás a tóra még ilyenkor is látványos és rendkívül hangulatos.",
+                "ro": "Drumul montan necesită atenție maximă în condiții de ceață și ploaie; vederea din mașină asupra lacului este spectaculoasă și plină de atmosferă.",
+                "en": "The mountain road requires full attention in fog and wet conditions; the view from the car over the lake is spectacular and moody even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plavsko jezero",
+                "hu": "Plavsko jezero",
+                "ro": "Plavsko jezero",
+                "en": "Plavsko jezero"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkmöglichkeiten direkt am Ufer, von wo aus Sie den See beobachten können, ohne nass zu werden; ideal für stimmungsvolle Fotos aus dem Fenster.",
+                "hu": "Közvetlenül a parton vannak parkolóhelyek, ahonnan kiszállás nélkül is figyelheti a tavat; ideális helyszín hangulatos ablakon keresztüli fotókhoz.",
+                "ro": "Există locuri de parcare chiar pe mal, de unde puteți observa lacul fără să vă udați; loc ideal pentru fotografii de atmosferă prin fereastră.",
+                "en": "There are parking spots right on the shore where you can watch the lake without getting wet; ideal for atmospheric photos through the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Hridsko Jezero",
+                "hu": "Hridsko Jezero",
+                "ro": "Hridsko Jezero",
+                "en": "Hridsko Jezero"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die Befahrbarkeit des Waldweges bei starkem Regen; oft ist ein Allradantrieb nötig, um sicher zum Ufer und zurück zu gelangen.",
+                "hu": "Nagy esőzésnél előre ellenőrizze az erdei út járhatóságát; gyakran összkerékhajtás szükséges a biztonságos parthoz jutáshoz és a visszatéréshez.",
+                "ro": "Verificați dinainte dacă drumul forestier este practicabil pe ploaie torențială; adesea este necesară tracțiunea integrală pentru siguranță.",
+                "en": "Check the passability of the forest road beforehand in heavy rain; four-wheel drive is often necessary to reach the shore and return safely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto durch Plav erfordert Winterreifen und Vorsicht vor Glatteis. Morgens strahlt die Sultanija-Moschee im Frost, während Sie die verschneiten Straßen befahren. Mittags wärmt die Kula Körper und Seele. Die Fahrt zu den Bergseen bietet atemberaubende Winterpanoramen, erfordert aber gute Fahrpraxis im Schnee. Der Tag endet gegen 17 Uhr mit der Rückkehr zur warmen Unterkunft.",
+            "hu": "A téli autós túrához Plavban téli gumi és jegesedés elleni óvatosság szükséges. Reggel a Sultanija mecset ragyog a dérben, miközben a hófödte utakon halad. Délben a torony melegíti fel testét és lelkét. A hegyi tavakhoz vezető út lélegzetelállító téli panorámát kínál, de nagy gyakorlatot igényel a hóban. A nap 17 óra körül ér véget a meleg szállásra való visszatéréssel.",
+            "ro": "Un tur de iarnă cu mașina prin Plav necesită anvelope de iarnă și prudență la polei. Dimineața, moscheea Sultanija strălucește în ger în timp ce parcurgeți drumurile înzăpezite. La prânz, turnul vă încălzește corpul și sufletul. Drumul spre lacurile montane oferă panorame de iarnă uluitoare, dar necesită experiență pe zăpadă. Ziua se încheie la ora 17.",
+            "en": "A winter car tour through Plav requires winter tires and caution against black ice. In the morning, the Sultanija Mosque shines in the frost as you navigate snow-covered roads. At noon, the tower warms body and soul. The drive to mountain lakes offers breathtaking winter panoramas but requires good snow driving skills. The day ends by 5 PM with a return to warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sultanija",
+                "hu": "Sultanija",
+                "ro": "Sultanija",
+                "en": "Sultanija"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie die Moschee besichtigen; achten Sie beim Aussteigen auf gefrorenes Schmelzwasser auf dem Asphalt.",
+                "hu": "Ne járassa feleslegesen a motort, amíg a mecsetet látogatja; kiszálláskor ügyeljen az aszfalton megfagyott hólére és a jeges foltokra.",
+                "ro": "nu lăsați motorul pornit inutil cât vizitați moscheea; la coborâre, atenție la apa topită și înghețată de pe asfalt sau trotuar.",
+                "en": "Don't leave the engine running unnecessarily while visiting the mosque; watch out for frozen meltwater and icy patches on the asphalt when exiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Redžepagića kula",
+                "hu": "Redžepagića kula",
+                "ro": "Redžepagića kula",
+                "en": "Redžepagića kula"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze im Ort und gehen Sie das letzte Stück zu Fuß, um die Schneepracht zu genießen; der Turm ist im Winter besonders imposant.",
+                "hu": "Használja a városi parkolókat, és az utolsó szakaszt tegye meg gyalog, hogy élvezze a hóesést; a torony télen különösen impozáns és monumentális látvány.",
+                "ro": "Folosiți parcările din oraș și mergeți pe jos ultima porțiune pentru a vă bucura de zăpadă; turnul este deosebit de impunător iarna.",
+                "en": "Use the town's parking spots and walk the last stretch to enjoy the snow; the tower is particularly imposing and monumental in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Sv. Trojice",
+                "hu": "Sv. Trojice",
+                "ro": "Sv. Trojice",
+                "en": "Sv. Trojice"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die Steigung nur an, wenn die Straße geräumt ist; Schneeketten im Kofferraum sind für diese Strecke im Winter absolut empfehlenswert.",
+                "hu": "Csak akkor vágjon neki az emelkedőnek, ha az utat letakarították; a hólánc a csomagtartóban ezen a szakaszon télen elengedhetetlen és kötelező.",
+                "ro": "Urcați panta doar dacă drumul este curățat; lanțurile de zăpadă în portbagaj sunt absolut recomandate pentru acest segment în timpul iernii.",
+                "en": "Only attempt the climb if the road is cleared; snow chains in the trunk are absolutely recommended and essential for this stretch in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Visitorsko Jezero",
+                "hu": "Visitorsko Jezero",
+                "ro": "Visitorsko Jezero",
+                "en": "Visitorsko Jezero"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie lokale Informationen über die Straßenverhältnisse ein, da die Strecke oft gesperrt ist; die Aussicht auf den zugefrorenen See ist magisch.",
+                "hu": "Kérjen helyi információt az útviszonyokról, mivel a szakasz gyakran lezárt; a befagyott tó látványa a hegyek között egészen mágikus és felejthetetlen.",
+                "ro": "Informați-vă local despre starea drumului, deoarece traseul este adesea închis; vederea lacului înghețat între munți este pur și simplu magică.",
+                "en": "Get local information on road conditions as the stretch is often closed; the view of the frozen lake between the mountains is truly magical."
+              }
+            },
+            {
+              "name": {
+                "de": "Plavsko jezero",
+                "hu": "Plavsko jezero",
+                "ro": "Plavsko jezero",
+                "en": "Plavsko jezero"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die eisigen Fluten vom warmen Fahrzeug aus; die klare Winterluft bietet die beste Fernsicht auf die umliegenden Gipfel.",
+                "hu": "Élvezze a kilátást a jeges habokra a fűtött járműből; a tiszta téli levegő ilyenkor kínálja a legjobb kilátást a környező Prokletije csúcsokra.",
+                "ro": "Bucurați-vă de vederea valurilor înghețate din vehiculul încălzit; aerul curat de iarnă oferă cea mai bună vizibilitate spre vârfurile din jur.",
+                "en": "Enjoy the view of the icy waters from your heated vehicle; the clear winter air offers the best visibility towards the surrounding Prokletije peaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Hridsko Jezero",
+                "hu": "Hridsko Jezero",
+                "ro": "Hridsko Jezero",
+                "en": "Hridsko Jezero"
+              },
+              "tip_5lang": {
+                "de": "Diese hochgelegene Strecke ist im tiefsten Winter oft unpassierbar für PKW; planen Sie den Rückweg vor Sonnenuntergang um 16:30 Uhr fest ein.",
+                "hu": "Ez a magaslati szakasz mély télben gyakran járhatatlan személyautóval; a visszautat mindenképpen tervezze meg a 16:30-as naplemente előtt.",
+                "ro": "Această secțiune de mare altitudine este adesea impracticabilă pentru mașini iarna; planificați drumul de întoarcere înainte de apusul de la 16:30.",
+                "en": "This high-altitude section is often impassable for cars in deep winter; strictly plan your return journey before the 4:30 PM sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

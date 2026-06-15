@@ -137,6 +137,168 @@
         "hu": "A reggel vízi szórakozással indul a Slip N Fly-nál és a romoknál. A dél a Wat Ma Due Wan nyugalmát hozza. Délután a Phaeng Yai vízeséshez túrázunk. Az estét a Khao Mai Ngam festői kilátása zárja.",
         "ro": "Dimineața începe cu distracție la Slip N Fly și ruine misterioase. Prânzul aduce liniște la Wat Ma Due Wan. După-amiaza oferă o drumeție la Cascada Phaeng Yai. Seara se încheie cu priveliștile de la Khao Mai Ngam.",
         "en": "Morning starts with water fun at Slip N Fly and mysterious ruins. Midday brings serenity at Wat Ma Due Wan. Afternoon features a trek to Phaeng Yai Waterfall. Evening concludes with scenic views at Khao Mai Ngam."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit wasserfester Ausrüstung bei den Rutschen, wo der Regen den Spaß noch verstärkt. Mittags bieten die Ruinen und der Tempel Schutz vor den tropischen Schauern während der Wanderung. Am Nachmittag führt der Weg durch den feuchten Dschungel zum Wasserfall, wo die Pfade rutschig sind. Der Abend endet am Aussichtspunkt, während der Nebel über die Hügel zieht.",
+            "hu": "A reggel vízálló felszerelésben indul a csúszdáknál, ahol az eső csak fokozza az izgalmakat. Délben a romok és a templom fedett részei nyújtanak menedéket a trópusi zápor elől a séta során. Délután a párás dzsungelen át vezet az utunk a vízeséshez, ahol az ösvények sárgásak és csúszósak lehetnek. Az este a kilátónál zárul, miközben a köd lassan ráereszkedik a környező dombokra.",
+            "ro": "Dimineața începe cu echipament impermeabil la tobogane, unde ploaia sporește adrenalina. La prânz, ruinele și templul oferă adăpost împotriva averselor tropicale în timpul plimbării. După-amiaza ne poartă prin jungla umedă spre cascadă, unde potecile devin noroioase și alunecoase. Seara se încheie la punctul de belvedere, privind ceața care se lasă peste dealuri în întunericul timpuriu.",
+            "en": "Morning starts with waterproof gear at the slides, where rain adds to the thrill. By noon, the ruins and temple offer some shelter from the tropical downpour during the walk. Afternoon leads us through the humid jungle to the waterfall, where the paths are muddy and slick. Evening concludes at the viewpoint, watching the mist roll over the hills as darkness falls early under the rainy sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Slip N Fly",
+                "hu": "Slip N Fly",
+                "ro": "Slip N Fly",
+                "en": "Slip N Fly"
+              },
+              "tip_5lang": {
+                "de": "Die Rutschen sind bei Regen noch schneller und aufregender; tragen Sie unbedingt Wasserschuhe, um auf den nassen Treppen zu den Startplattformen nicht auszurutschen.",
+                "hu": "Az esőben a csúszdák még gyorsabbak és izgalmasabbak; viseljen vízi cipőt a biztonság érdekében, mert a felvezető lépcsők rendkívül csúszóssá válnak a vizes időben.",
+                "ro": "Toboganele sunt și mai rapide pe ploaie, oferind o experiență palpitantă; purtați încălțăminte de apă pentru siguranță pe scările ude care duc spre platforme.",
+                "en": "The slides are even faster in the rain, providing a thrilling experience; ensure you wear water shoes for safety on the wet stairs leading to the top platforms."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruined building",
+                "hu": "Ruined building",
+                "ro": "Ruined building",
+                "en": "Ruined building"
+              },
+              "tip_5lang": {
+                "de": "Erforschen Sie die verlassenen Mauern, die im Regen eine mystische Atmosphäre ausstrahlen; achten Sie auf lose Steine und tiefe Pfützen rund um das historische Gelände.",
+                "hu": "Fedezze fel az elhagyatott falakat, amelyek esőben misztikus hangulatot árasztanak; ügyeljen a meglazult kövekre és a mély pocsolyákra a történelmi terület körül.",
+                "ro": "Explorați zidurile părăsite care emană o atmosferă mistică pe ploaie; aveți grijă la pietrele desfăcute și la bălțile adânci din jurul sitului istoric.",
+                "en": "Explore the abandoned walls which exude a mystical atmosphere in the rain; watch out for loose stones and deep puddles around the historic grounds during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Ma Due Wan",
+                "hu": "Wat Ma Due Wan",
+                "ro": "Wat Ma Due Wan",
+                "en": "Wat Ma Due Wan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche des Tempels für eine trockene Meditation; ziehen Sie Ihre Schuhe vor dem Betreten aus und verstauen Sie diese in einem Beutel.",
+                "hu": "Használja ki a templom fedett részeit egy száraz meditációra; vegye le a cipőjét a belépés előtt, és tartsa egy vízhatlan zsákban, hogy ne ázzon el a kinti esőben.",
+                "ro": "Folosiți zonele acoperite ale templului pentru o meditație uscată; scoateți încălțămintea înainte de intrare și păstrați-o într-o pungă pentru a rămâne uscată.",
+                "en": "Utilize the covered areas of the temple for a dry meditation; remove your shoes before entering and keep them in a bag to stay dry despite the tropical downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Phaeng Yai Waterfall",
+                "hu": "Phaeng Yai Waterfall",
+                "ro": "Phaeng Yai Waterfall",
+                "en": "Phaeng Yai Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall ist nach dem Regen besonders kraftvoll und beeindruckend; bleiben Sie auf den markierten Wegen, da die Felsen in der Gischt extrem rutschig sind.",
+                "hu": "A vízesés eső után különösen erőteljes és lenyűgöző látvány; maradjon a kijelölt ösvényeken, mert a sziklák a párában és sárban rendkívül csúszósak lehetnek.",
+                "ro": "Cascada este deosebit de puternică și impresionantă după ploaie; rămâneți pe potecile marcate, deoarece stâncile sunt extrem de alunecoase în zona de pulverizare.",
+                "en": "The waterfall is especially powerful and impressive after the rain; stay on the marked paths as the rocks are extremely slippery in the spray and mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Mai Ngam",
+                "hu": "Khao Mai Ngam",
+                "ro": "Khao Mai Ngam",
+                "en": "Khao Mai Ngam"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den wolkenverhangenen Dschungel von der Spitze; bringen Sie eine Taschenlampe mit, da der Abstieg im Regen und bei früher Dunkelheit schwierig ist.",
+                "hu": "Élvezze a felhőkbe burkolózó dzsungel látványát a csúcsról; vigyen magával zseblámpát, mert az ereszkedés esőben és a korai sötétben nehézkes lehet.",
+                "ro": "Bucurați-vă de priveliștea junglei învăluite în nori de pe vârf; aduceți o lanternă, deoarece coborârea în ploaie și pe întuneric timpuriu este dificilă.",
+                "en": "Enjoy the view of the cloud-covered jungle from the peak; bring a flashlight as the descent in the rain and early darkness can be challenging on the feet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Brise am Morgen macht den Aufstieg zu den Wasserpark-Plattformen sehr angenehm. Mittags erkunden wir die historischen Ruinen unter der milden Wintersonne ohne Hitze. Am Nachmittag bietet der Dschungelpfad eine erfrischende Wanderung zum Tempel und Wasserfall. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir den frühen Abendhimmel vom Gipfel.",
+            "hu": "A reggeli hűvös szellő kellemessé teszi a lépcsőzést a vízi park platformjaihoz. Délben a történelmi romokat fedezzük fel az enyhe téli napsütésben, a nagy hőség nélkül. Délután a dzsungelösvény frissítő túrát kínál a templomhoz és a vízeséshez. Mivel a nap már 17:00 körül lemegy, a korai esti égboltot már a hegycsúcsról csodálhatjuk meg.",
+            "ro": "Briza răcoroasă de dimineață face urcarea spre platformele parcului acvatic foarte plăcută. La prânz, explorăm ruinele istorice sub soarele blând de iarnă, fără căldură. După-amiaza, poteca prin junglă oferă o drumeție revigorantă spre templu și cascadă. Deoarece soarele apune deja în jur de 17:00, admirăm cerul serii devreme de pe vârf.",
+            "en": "The cool morning breeze makes climbing the water park platforms very pleasant. At noon, we explore historical ruins under the mild winter sun without the intense heat. Afternoon jungle trails offer a refreshing hike to the temple and waterfall. Since the sun sets around 17:00, we enjoy the early evening sky from the peak."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Slip N Fly",
+                "hu": "Slip N Fly",
+                "ro": "Slip N Fly",
+                "en": "Slip N Fly"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser kann im Winter etwas kühler sein, was nach dem Aufstieg sehr erfrischend wirkt; nutzen Sie die sonnigen Stunden am Vormittag für maximalen Spaß.",
+                "hu": "A víz télen kissé hűvösebb lehet, ami a lépcsőzés után nagyon frissítő; használja ki a délelőtti napsütéses órákat a maximális élvezet érdekében a parkban.",
+                "ro": "Apa poate fi puțin mai răcoroasă iarna, ceea ce este revigorant după urcare; profitați de orele însorite ale dimineții pentru distracție maximă la tobogane.",
+                "en": "The water can be slightly cooler in winter, which is refreshing after the climb; utilize the sunny morning hours for maximum enjoyment at the water park."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruined building",
+                "hu": "Ruined building",
+                "ro": "Ruined building",
+                "en": "Ruined building"
+              },
+              "tip_5lang": {
+                "de": "Die milden Temperaturen sind ideal, um die Details der Ruinen ohne Schwitzen zu studieren; bringen Sie eine leichte Jacke für den Aufenthalt im Schatten mit.",
+                "hu": "Az enyhe hőmérséklet ideális a romok részleteinek tanulmányozásához izzadás nélkül; vigyen egy könnyű felsőt az árnyékos részeken való tartózkodáshoz.",
+                "ro": "Temperaturile blânde sunt ideale pentru a studia detaliile ruinelor fără a transpira; aduceți o jachetă ușoară pentru momentele petrecute la umbră.",
+                "en": "The mild temperatures are ideal for studying the ruins' details without sweating; bring a light layer for when you are standing in the shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Ma Due Wan",
+                "hu": "Wat Ma Due Wan",
+                "ro": "Wat Ma Due Wan",
+                "en": "Wat Ma Due Wan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre und die kühle Luft in den Tempelgebäuden; die Wintersonne beleuchtet die goldenen Statuen am frühen Nachmittag perfekt.",
+                "hu": "Élvezze a nyugodt légkört és a hűvös levegőt a templom épületeiben; a téli nap tökéletesen megvilágítja az arany szobrokat a kora délutáni órákban.",
+                "ro": "Bucurați-vă de atmosfera liniștită și de aerul răcoros din clădirile templului; soarele de iarnă luminează perfect statuile aurii la începutul după-amiezii.",
+                "en": "Enjoy the peaceful atmosphere and cool air inside the temple buildings; the winter sun illuminates the golden statues perfectly in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Phaeng Yai Waterfall",
+                "hu": "Phaeng Yai Waterfall",
+                "ro": "Phaeng Yai Waterfall",
+                "en": "Phaeng Yai Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall ist im Winter ein ruhiger Rückzugsort mit angenehmen Wassertemperaturen; wandern Sie zügig, um vor dem frühen Schattenwurf des Berges dort zu sein.",
+                "hu": "A vízesés télen csendes menedékhely kellemes vízhőmérséklettel; túrázzon tempósan, hogy még a hegy korai árnyékvetése előtt odaérjen a medencéhez.",
+                "ro": "Cascada este un refugiu liniștit iarna, cu temperaturi plăcute ale apei; mergeți vioi pentru a ajunge acolo înainte ca muntele să lase umbră devreme.",
+                "en": "The waterfall is a quiet retreat in winter with pleasant water temperatures; hike briskly to arrive before the mountain casts its early afternoon shadow."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Mai Ngam",
+                "hu": "Khao Mai Ngam",
+                "ro": "Khao Mai Ngam",
+                "en": "Khao Mai Ngam"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie einen spektakulären Sonnenuntergang bereits um 17:00 Uhr von der Plattform aus; nehmen Sie warme Kleidung für den windigen Gipfel am Abend mit.",
+                "hu": "Élje át a látványos naplementét már 17:00 órakor a kilátóról; vigyen meleg ruhát, mert a szeles hegycsúcs este jelentősen lehűlhet a túra végére.",
+                "ro": "Experimentați un apus spectaculos deja la ora 17:00 de pe platformă; luați haine groase pentru vârful vântos în cursul serii după drumeție.",
+                "en": "Experience a spectacular sunset as early as 17:00 from the platform; take warm clothing for the windy peak as it cools down significantly in the evening."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "A reggel ősi romokat és a békés Wat Ma Due Wan templomot tárja fel. Délben a megmentett elefántok és a Khao Mai Ngam következik. A délután az adrenaliné a drótkötélpályákon. Az estét a híres Halfmoon Fesztiválon töltheti.",
         "ro": "Dimineața explorează ruinele istorice și Wat Ma Due Wan. Prânzul implică vizitarea elefanților și Khao Mai Ngam. După-amiaza aduce adrenalină în parcurile de tiroliană. Seara te lasă la celebrul Festival Halfmoon.",
         "en": "Morning explores the historic ruined building and peaceful Wat Ma Due Wan. Midday involves rescuing elephants and reaching Khao Mai Ngam. Afternoon is pure adrenaline at the zipline parks. Evening drops you into the famous Halfmoon Festival."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren beginnt vorsichtig auf nassen Straßen zu den historischen Ruinen. Mittags bietet der Tempel Schutz vor dem Regen, bevor es zum Elefantenreservat geht, wo der Matsch Teil des Abenteuers ist. Nachmittags fordern die Ziplines im Dschungel Mut bei Regenwetter. Der Abend endet früh bei nachlassender Sicht im Park, während wir sicher zurückfahren.",
+            "hu": "A kerékpározás óvatosan indul a vizes utakon a történelmi romok felé. Délben a templom nyújt menedéket az eső elől, mielőtt az elefántrezervátumhoz érnénk, ahol a sár a kaland része. Délután a dzsungelben található drótkötélpályák bátorságot igényelnek az esős időben. Az este korán ér véget a parkban a csökkenő látási viszonyok miatt.",
+            "ro": "Ciclismul începe cu prudență pe drumurile ude spre ruinele istorice. La prânz, templul oferă protecție împotriva ploii înainte de a merge la sanctuarul elefanților, unde noroiul face parte din aventură. După-amiaza, tirolienele din junglă necesită curaj pe vreme ploioasă. Seara se termină devreme în parc din cauza vizibilității reduse.",
+            "en": "Cycling starts cautiously on wet roads towards the historic ruins. At noon, the temple provides shelter from the rain before heading to the elephant sanctuary, where mud is part of the adventure. In the afternoon, the jungle ziplines demand courage in rainy weather. The evening ends early at the park due to decreasing visibility as we bike back safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ruined building",
+                "hu": "Ruined building",
+                "ro": "Ruined building",
+                "en": "Ruined building"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem stabilen Ort, da der Boden weich sein kann; die nassen Ziegel der Ruinen sind extrem rutschig beim Erkunden zu Fuß.",
+                "hu": "Parkolja le a kerékpárját egy stabil helyen, mert a talaj felázhat; a romok nedves téglái rendkívül csúszósak a gyalogos felfedezés során.",
+                "ro": "Parcați bicicleta într-un loc stabil, deoarece solul poate fi moale; cărămizile ude ale ruinelor sunt extrem de alunecoase în timpul explorării pe jos.",
+                "en": "Park your bike in a stable spot as the ground may be soft; the wet bricks of the ruins are extremely slippery during your exploration on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Ma Due Wan",
+                "hu": "Wat Ma Due Wan",
+                "ro": "Wat Ma Due Wan",
+                "en": "Wat Ma Due Wan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Tempelbesuch, um Ihre Kleidung zu trocknen; achten Sie beim Radfahren auf dem Tempelgelände auf große Pfützen und rutschige Fliesen.",
+                "hu": "Használja ki a templomlátogatást a ruhái megszárítására; kerékpározás közben ügyeljen a nagy pocsolyákra és a csúszós burkolólapokra a területen.",
+                "ro": "Folosiți vizita la templu pentru a vă usca hainele; aveți grijă la bălțile mari și la plăcile alunecoase când mergeți cu bicicleta prin curtea templului.",
+                "en": "Use the temple visit as a chance to dry your clothes; watch out for large puddles and slippery tiles when cycling through the temple grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Phangan Elephant Sanctuary",
+                "hu": "Phangan Elephant Sanctuary",
+                "ro": "Phangan Elephant Sanctuary",
+                "en": "Phangan Elephant Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Elefanten lieben den Regen, bereiten Sie sich aber auf viel Matsch vor; bringen Sie Wechselkleidung in einem wasserdichten Rucksack auf Ihrem Fahrrad mit.",
+                "hu": "Az elefántok imádják az esőt, de készüljön fel a sok sárra; vigyen váltóruhát egy vízhatlan hátizsákban a kerékpárján az interaktív program utánra.",
+                "ro": "Elefanții adoră ploaia, dar pregătiți-vă pentru mult noroi; aduceți haine de schimb într-un rucsac impermeabil pe bicicletă pentru finalul vizitei.",
+                "en": "Elephants love the rain, but prepare yourself for plenty of mud; bring a change of clothes in a waterproof backpack on your bike for after the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Mai Ngam",
+                "hu": "Khao Mai Ngam",
+                "ro": "Khao Mai Ngam",
+                "en": "Khao Mai Ngam"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg mit dem Rad ist bei Regen anstrengend, aber die kühle Luft hilft; sichern Sie Ihr Rad gut gegen Abrutschen am Hang während der Wanderpause.",
+                "hu": "A kerékpáros emelkedő esőben fárasztó, de a hűvös levegő segít; rögzítse jól a biciklijét a lejtőn, nehogy elcsússzon a túra alatti pihenő során.",
+                "ro": "Urcarea cu bicicleta pe ploaie este obositoare, dar aerul răcoros ajută; asigurați bine bicicleta împotriva alunecării pe pantă în timpul pauzei de drumeție.",
+                "en": "The bike climb in the rain is tiring, but the cool air helps; secure your bike well against sliding on the slope during your hiking break."
+              }
+            },
+            {
+              "name": {
+                "de": "Just For Fun Ziplining",
+                "hu": "Just For Fun Ziplining",
+                "ro": "Just For Fun Ziplining",
+                "en": "Just For Fun Ziplining"
+              },
+              "tip_5lang": {
+                "de": "Das Ziplining im Regen bietet ein einzigartiges Dschungelgefühl; tragen Sie eine Sportbrille, um Ihre Augen beim schnellen Gleiten vor Regentropfen zu schützen.",
+                "hu": "A drótkötélpályázás esőben egyedülálló dzsungelélményt nyújt; viseljen sport szemüveget, hogy megvédje szemét az esőcseppektől a gyors siklás közben.",
+                "ro": "Tiroliana pe ploaie oferă o senzație unică de junglă; purtați ochelari de sport pentru a vă proteja ochii de picăturile de ploaie în timpul alunecării rapide.",
+                "en": "Ziplining in the rain offers a unique jungle feel; wear sports goggles to protect your eyes from raindrops during the fast glide through the canopy."
+              }
+            },
+            {
+              "name": {
+                "de": "Jungle Flight Adventure Park",
+                "hu": "Jungle Flight Adventure Park",
+                "ro": "Jungle Flight Adventure Park",
+                "en": "Jungle Flight Adventure Park"
+              },
+              "tip_5lang": {
+                "de": "Das Blätterdach bietet etwas Schutz, aber die Plattformen sind nass; halten Sie die Bremsen Ihres Fahrrads für die nasse Rückfahrt bereit.",
+                "hu": "A lombkorona nyújt némi védelmet, de a platformok vizesek; tartsa karban a kerékpárja fékeit a vizes és csúszós visszaútra a kalandpark után.",
+                "ro": "Baldachinul oferă o oarecare protecție, dar platformele sunt ude; verificați frânele bicicletei pentru drumul de întoarcere umed după parcul de aventură.",
+                "en": "The leafy canopy offers some protection, but the platforms remain wet; keep your bike's brakes ready for the wet and slippery return trip after the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Halfmoon Festival",
+                "hu": "Halfmoon Festival",
+                "ro": "Halfmoon Festival",
+                "en": "Halfmoon Festival"
+              },
+              "tip_5lang": {
+                "de": "Das Festivalgelände kann bei Regen schlammig sein, was die Stimmung oft lockert; parken Sie Ihr Rad auf festem Grund und nutzen Sie Reflektoren für die Heimfahrt.",
+                "hu": "A fesztiválterület esőben sáros lehet, ami fokozza a hangulatot; parkolja a biciklit szilárd talajon, és használjon fényvisszaverőt a hazautazáshoz.",
+                "ro": "Locul festivalului poate fi noroios pe ploaie, ceea ce relaxează atmosfera; parcați bicicleta pe teren solid și folosiți reflectorizante pentru drum.",
+                "en": "The festival grounds can be muddy in the rain, which often adds to the fun; park your bike on solid ground and use reflectors for the ride home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die kühle Morgenluft auf dem Fahrrad zu den Ruinen. Mittags ist das Radfahren im milden Sonnenschein ohne die extreme Hitze des Sommers perfekt. Nachmittags besuchen wir die Elefanten und erkunden die Dschungel-Abenteuerparks bei angenehmen Temperaturen. Der Abend beginnt früh, also nutzen wir das Tageslicht für das Festivalgelände bis zum frühen Sonnenuntergang.",
+            "hu": "Élvezze a hűvös reggeli levegőt a kerékpáron a romok felé menet. Délben a kerékpározás az enyhe napsütésben a nyári hőség nélkül egyszerűen tökéletes. Délután meglátogatjuk az elefántokat és felfedezzük a dzsungel kalandparkokat kellemes hőmérsékletben. Az este korán kezdődik, így kihasználjuk a nappali fényt a fesztiválon.",
+            "ro": "Bucurați-vă de aerul răcoros de dimineață pe bicicletă spre ruine. La prânz, ciclismul în soarele blând, fără căldura extremă a verii, este perfect. După-amiaza vizităm elefanții și explorăm parcurile de aventură din junglă la temperaturi plăcute. Seara începe devreme, așa că profităm de lumina zilei pentru festival.",
+            "en": "Enjoy the cool morning air on your bike heading to the ruins. At noon, cycling in the mild sunshine without the extreme summer heat is perfect. In the afternoon, we visit the elephants and explore jungle adventure parks in pleasant temperatures. The evening starts early, so we utilize the daylight for the festival grounds until sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ruined building",
+                "hu": "Ruined building",
+                "ro": "Ruined building",
+                "en": "Ruined building"
+              },
+              "tip_5lang": {
+                "de": "Die Wintermorgensonne ist ideal für Fotos der Ruinen ohne harte Schatten; parken Sie im Schatten, um den Sitz für die Weiterfahrt kühl zu halten.",
+                "hu": "A téli reggeli nap ideális a romok fotózásához éles árnyékok nélkül; parkoljon árnyékban, hogy az ülés hűvös maradjon a továbbinduláshoz.",
+                "ro": "Soarele dimineții de iarnă este ideal pentru fotografii ale ruinelor fără umbre dure; parcați la umbră pentru a menține șaua răcoroasă pentru drum.",
+                "en": "The winter morning sun is ideal for photos of the ruins without harsh shadows; park in the shade to keep your seat cool for the next leg of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Ma Due Wan",
+                "hu": "Wat Ma Due Wan",
+                "ro": "Wat Ma Due Wan",
+                "en": "Wat Ma Due Wan"
+              },
+              "tip_5lang": {
+                "de": "Das Tempelgelände ist im Winter angenehm luftig; nutzen Sie die Fahrradpause für einen Spaziergang im kühlen Garten der Anlage.",
+                "hu": "A templom területe télen kellemesen szellős; használja ki a kerékpáros pihenőt egy sétára a komplexum hűvös és nyugodt kertjében.",
+                "ro": "Curtea templului este plăcut de aerisită iarna; folosiți pauza de bicicletă pentru o plimbare în grădina răcoroasă a complexului religios.",
+                "en": "The temple grounds are pleasantly breezy in winter; use your cycling break for a walk in the cool and peaceful garden of the religious complex."
+              }
+            },
+            {
+              "name": {
+                "de": "Phangan Elephant Sanctuary",
+                "hu": "Phangan Elephant Sanctuary",
+                "ro": "Phangan Elephant Sanctuary",
+                "en": "Phangan Elephant Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Die Elefanten sind bei kühlerem Wetter oft aktiver; bringen Sie eine leichte Schicht Kleidung für die Radfahrt nach dem Bad mit den Tieren mit.",
+                "hu": "Az elefántok a hűvösebb időben gyakran aktívabbak; vigyen egy könnyű felsőt a kerékpározáshoz az állatokkal való közös fürdőzés után.",
+                "ro": "Elefanții sunt adesea mai activi pe vreme răcoroasă; aduceți o haină ușoară pentru drumul cu bicicleta după baia alături de animale.",
+                "en": "The elephants are often more active in cooler weather; bring a light layer for the bike ride after your bathing session with the animals."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Mai Ngam",
+                "hu": "Khao Mai Ngam",
+                "ro": "Khao Mai Ngam",
+                "en": "Khao Mai Ngam"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet die beste Fernsicht vom Berg; beginnen Sie den Abstieg rechtzeitig, bevor es im Wald um 17:00 Uhr schlagartig dunkel wird.",
+                "hu": "A tiszta téli levegő biztosítja a legjobb kilátást a hegyről; kezdje meg az ereszkedést időben, mielőtt az erdőben 17:00-kor hirtelen besötétedik.",
+                "ro": "Aerul curat de iarnă oferă cea mai bună vizibilitate de pe munte; începeți coborârea la timp, înainte ca în pădure să se întunece brusc la 17:00.",
+                "en": "The clear winter air offers the best long-distance views from the mountain; start your descent in time before the forest turns dark at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Just For Fun Ziplining",
+                "hu": "Just For Fun Ziplining",
+                "ro": "Just For Fun Ziplining",
+                "en": "Just For Fun Ziplining"
+              },
+              "tip_5lang": {
+                "de": "Die frische Luft macht das Gleiten durch die Bäume besonders belebend; verstauen Sie Ihre Handschuhe griffbereit für die kühle Abfahrt mit dem Rad.",
+                "hu": "A friss levegő különösen élénkítővé teszi a fák közötti siklást; tartsa a kesztyűjét kéznél a kaland utáni hűvös kerékpáros lejtmenethez.",
+                "ro": "Aerul proaspăt face alunecarea printre copaci deosebit de revigorantă; păstrați mănușile la îndemână pentru coborârea răcoroasă cu bicicleta.",
+                "en": "The fresh air makes gliding through the trees especially invigorating; keep your gloves handy for the cool bike descent after the adventure."
+              }
+            },
+            {
+              "name": {
+                "de": "Jungle Flight Adventure Park",
+                "hu": "Jungle Flight Adventure Park",
+                "ro": "Jungle Flight Adventure Park",
+                "en": "Jungle Flight Adventure Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für die höchsten Plattformen; prüfen Sie die Beleuchtung Ihres Fahrrads für den Rückweg in der frühen Dämmerung.",
+                "hu": "Használja ki az utolsó nappali fényeket a legmagasabb platformokon; ellenőrizze a kerékpárja világítását a korai szürkületben történő hazatéréshez.",
+                "ro": "Profitate de ultima lumină a zilei pentru cele mai înalte platforme; verificați luminile bicicletei pentru drumul de întoarcere în amurgul timpuriu.",
+                "en": "Utilize the last daylight for the highest platforms; check your bike's lighting for the return trip in the early dusk after the park visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Halfmoon Festival",
+                "hu": "Halfmoon Festival",
+                "ro": "Halfmoon Festival",
+                "en": "Halfmoon Festival"
+              },
+              "tip_5lang": {
+                "de": "Das Festival beginnt im Winter in der kühlen Abendluft; bringen Sie eine Weste mit, da die Temperaturen bei der Heimfahrt mit dem Rad deutlich sinken.",
+                "hu": "A fesztivál télen a hűvös esti levegőben kezdődik; vigyen egy mellényt, mert a hőmérséklet jelentősen visszaesik a kerékpáros hazautazás idejére.",
+                "ro": "Festivalul începe iarna în aerul răcoros al serii; aduceți o vestă, deoarece temperaturile scad semnificativ pentru drumul de întoarcere cu bicicleta.",
+                "en": "The festival starts in the cool evening air in winter; bring a vest as temperatures drop significantly for the bike ride home after the event."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "A reggel a Slip N Fly izgalmait és elhagyatott romokat ötvöz. A dél dzsungelbéli vízeséseket és szelíd elefántokat tartogat. A délután tele van quad kalandokkal. Az estét a Halfmoon Fesztivál fergeteges bulija koronázza meg.",
         "ro": "Dimineața combină topoganele de la Slip N Fly cu ruinele abandonate. Prânzul amestecă cascade cu elefanți blânzi. După-amiaza este plină de acțiune cu ATV-uri. Seara este pregătită pentru dans la Festivalul Halfmoon.",
         "en": "Morning combines exciting slides at Slip N Fly with abandoned ruins. Midday mixes jungle waterfalls with gentle elephants. Afternoon is packed with ATV action and coastal views. Evening is set for dancing at the Halfmoon Festival."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt im Auto bietet den besten Komfort, um trotz Regen den Wasserpark und die Ruinen zu besuchen. Mittags erkunden wir den Wasserfall und das Elefantenreservat, wobei das Fahrzeug ein trockener Rückzugsort bleibt. Nachmittags stehen extreme Attraktionen und Trekking auf dem Plan. Der Abend endet beim Festival, während wir die nassen Straßen sicher im Auto bewältigen.",
+            "hu": "Az autós utazás kínálja a legnagyobb kényelmet, hogy az eső ellenére is meglátogassuk a vízi parkot és a romokat. Délben a vízesést és az elefántrezervátumot fedezzük fel, miközben az autó száraz menedék marad. Délután extrém látnivalók és túrázás szerepel a tervben. Az este a fesztiválon zárul, miközben biztonságban autózunk a vizes utakon.",
+            "ro": "Călătoria cu mașina oferă cel mai bun confort pentru a vizita parcul acvatic și ruinele în ciuda ploii. La prânz, explorăm cascada și sanctuarul elefanților, vehiculul rămânând un refugiu uscat. După-amiaza sunt planificate atracții extreme și trekking. Seara se încheie la festival, în timp ce parcurgem drumurile ude în siguranță cu mașina.",
+            "en": "Traveling by car offers the best comfort to visit the water park and ruins despite the rain. At noon, we explore the waterfall and elephant sanctuary, with the vehicle serving as a dry retreat. Afternoon features extreme attractions and trekking. The evening concludes at the festival, navigating the wet roads safely in the car's comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Slip N Fly",
+                "hu": "Slip N Fly",
+                "ro": "Slip N Fly",
+                "en": "Slip N Fly"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Eingang, um schnell ins Trockene zu kommen; lassen Sie Handtücher im Auto, um sich nach dem Wasserspaß sofort aufzuwärmen.",
+                "hu": "Használja a bejárat melletti parkolót, hogy gyorsan fedett helyre érjen; hagyjon törölközőket az autóban, hogy a vízi szórakozás után azonnal megszárítkozhasson.",
+                "ro": "Folosiți parcarea de lângă intrare pentru a ajunge rapid la adăpost; lăsați prosoape în mașină pentru a vă usca imediat după distracția în apă.",
+                "en": "Use the parking lot right by the entrance to quickly reach shelter; leave towels in the car to dry off immediately after the water fun in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruined building",
+                "hu": "Ruined building",
+                "ro": "Ruined building",
+                "en": "Ruined building"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Ruinen bei starkem Regen kurzzeitig aus dem Auto; nutzen Sie Regenpausen für kurze Spaziergänge und achten Sie auf tiefe Schlammlöcher.",
+                "hu": "Heves esőzéskor figyelje a romokat rövid ideig az autóból; használja ki az esőszüneteket a sétákra, és ügyeljen a mély sárfoltokra a parkolónál.",
+                "ro": "Observați ruinele din mașină în timpul ploii torențiale; profitați de pauzele de ploaie pentru scurte plimbări și atenție la gropile cu noroi.",
+                "en": "Observe the ruins from the car during heavy rain; utilize breaks in the downpour for short walks and watch out for deep mud patches near the parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Phaeng Yai Waterfall",
+                "hu": "Phaeng Yai Waterfall",
+                "ro": "Phaeng Yai Waterfall",
+                "en": "Phaeng Yai Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Wasserfall kann sehr matschig sein, tragen Sie geeignetes Schuhwerk; wechseln Sie im trockenen Auto Ihre Kleidung, bevor Sie zur nächsten Station fahren.",
+                "hu": "A vízeséshez vezető út nagyon sáros lehet, viseljen megfelelő lábbelit; váltson ruhát a száraz autóban, mielőtt a következő állomás felé indulna az esőben.",
+                "ro": "Poteca spre cascadă poate fi foarte noroioasă, purtați încălțăminte adecvată; schimbați-vă hainele în mașina uscată înainte de a pleca spre următoarea oprire.",
+                "en": "The path to the waterfall can be very muddy, so wear appropriate footwear; change your clothes in the dry car before driving to the next stop in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Phangan Elephant Sanctuary",
+                "hu": "Phangan Elephant Sanctuary",
+                "ro": "Phangan Elephant Sanctuary",
+                "en": "Phangan Elephant Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Das Reservat ist bei Regen ein Erlebnis, aber der Boden ist rutschig; nutzen Sie die Klimaanlage im Auto, um die Feuchtigkeit nach der Elefanteninteraktion zu senken.",
+                "hu": "A rezervátum esőben is élmény, de a talaj csúszós; használja az autó légkondicionálóját a páratartalom csökkentésére az elefántokkal való találkozás után.",
+                "ro": "Sanctuarul este o experiență pe ploaie, dar solul este alunecos; folosiți aerul condiționat din mașină pentru a reduce umiditatea după interacțiunea cu elefanții.",
+                "en": "The sanctuary is an experience in the rain, but the ground is slippery; use the car's AC to lower humidity after your interaction with the elephants."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Mai Ngam",
+                "hu": "Khao Mai Ngam",
+                "ro": "Khao Mai Ngam",
+                "en": "Khao Mai Ngam"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher auf befestigtem Grund, um nicht im Matsch stecken zu bleiben; die Wanderung zum Gipfel erfordert bei Regen besondere Vorsicht auf nassen Wurzeln.",
+                "hu": "Parkoljon biztonságosan szilárd burkolaton, hogy ne ragadjon a sárba; a csúcsra vezető túra esőben különös óvatosságot igényel a nedves gyökerek miatt.",
+                "ro": "Parcați în siguranță pe teren solid pentru a nu rămâne blocat în noroi; drumeția spre vârf necesită prudență sporită pe rădăcinile ude în timpul ploii.",
+                "en": "Park safely on paved ground to avoid getting stuck in the mud; the hike to the peak requires extra caution on wet roots during the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "ATV Speed Koh Phangan Extreme Attractions",
+                "hu": "ATV Speed Koh Phangan Extreme Attractions",
+                "ro": "ATV Speed Koh Phangan Extreme Attractions",
+                "en": "ATV Speed Koh Phangan Extreme Attractions"
+              },
+              "tip_5lang": {
+                "de": "ATV-Fahren im Matsch macht extrem viel Spaß, aber Sie werden nass; verstauen Sie Ihre sauberen Kleider in einer Tasche im Kofferraum für die Zeit danach.",
+                "hu": "Az ATV-zés a sárban rendkívül szórakoztató, de teljesen vizes lesz; tartsa a tiszta ruháit egy táskában a csomagtartóban a kaland utáni átöltözéshez.",
+                "ro": "Mersul cu ATV-ul prin noroi este extrem de distractiv, dar vă veți uda; păstrați haine curate într-o geantă în portbagaj pentru după experiență.",
+                "en": "ATV riding in the mud is extremely fun but you will get wet; keep your clean clothes in a bag in the trunk for changing after the adventure."
+              }
+            },
+            {
+              "name": {
+                "de": "Baan Tai Elephant Trekking",
+                "hu": "Baan Tai Elephant Trekking",
+                "ro": "Baan Tai Elephant Trekking",
+                "en": "Baan Tai Elephant Trekking"
+              },
+              "tip_5lang": {
+                "de": "Das Trekking durch den Regenwald ist bei Schauern sehr intensiv; nutzen Sie die Autositze mit Schutzbezügen, wenn Sie noch feuchte Kleidung tragen.",
+                "hu": "A trekking az esőerdőn keresztül záporok idején nagyon intenzív élmény; használjon védőhuzatot az autóüléseken, ha még nedves ruhában ülne be.",
+                "ro": "Trekkingul prin pădurea tropicală în timpul averselor este intens; folosiți huse de protecție pentru scaunele mașinii dacă aveți hainele încă umede.",
+                "en": "Trekking through the rainforest during showers is an intense experience; use protective covers on car seats if your clothes are still damp."
+              }
+            },
+            {
+              "name": {
+                "de": "Halfmoon Festival",
+                "hu": "Halfmoon Festival",
+                "ro": "Halfmoon Festival",
+                "en": "Halfmoon Festival"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als sicheren Ort für Wertsachen während des Festivals; achten Sie auf die rutschigen Parkplatzwege beim Verlassen des Geländes.",
+                "hu": "Használja az autót értéktárgyai biztonságos tárolására a fesztivál alatt; ügyeljen a csúszós parkolóösvényekre, amikor elhagyja a helyszínt esőben.",
+                "ro": "Folosiți mașina ca loc sigur pentru obiectele de valoare în timpul festivalului; atenție la aleile alunecoase din parcare când plecați de la eveniment.",
+                "en": "Use the car as a secure place for valuables during the festival; watch out for slippery parking paths when leaving the venue in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt am kühlen Wintermorgen führt uns angenehm zu den ersten Stationen. Mittags genießen wir die Sehenswürdigkeiten im milden Licht der Wintersonne ohne Klimaanlagen-Zwang. Nachmittags besuchen wir die Elefanten und Dschungelparks bei perfekten Temperaturen. Da es früh dunkel wird, nutzen wir die Scheinwerfer für die sichere Fahrt zum Festival am Abend.",
+            "hu": "A hűvös téli reggeli autózás kellemesen vezet minket az első állomásokhoz. Délben a látnivalókat a téli nap enyhe fényében élvezzük, kényszerű légkondicionálás nélkül. Délután meglátogatjuk az elefántokat és a dzsungelparkokat tökéletes hőmérséklet mellett. Mivel korán sötétedik, a fényszórókat használva biztonságban érkezünk a fesztiválra.",
+            "ro": "Călătoria cu mașina în dimineața răcoroasă de iarnă ne duce plăcut spre primele opriri. La prânz ne bucurăm de atracții în lumina blândă a soarelui de iarnă, fără aer condiționat forțat. După-amiaza vizităm elefanții și parcurile din junglă la temperaturi perfecte. Deoarece se întunecă devreme, folosim farurile pentru drumul spre festival.",
+            "en": "The cool winter morning drive comfortably leads us to the first stops of the day. At noon, we enjoy the sights in the mild winter light without needing full AC. In the afternoon, we visit the elephants and jungle parks in perfect temperatures. Since it gets dark early, we use the headlights for a safe drive to the festival in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Slip N Fly",
+                "hu": "Slip N Fly",
+                "ro": "Slip N Fly",
+                "en": "Slip N Fly"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wärmt das Wasser am Vormittag angenehm auf; parken Sie in der Sonne, damit das Auto für die Rückfahrt nach dem Baden warm bleibt.",
+                "hu": "A téli napsütés délelőtt kellemesen felmelegíti a vizet; parkoljon a napon, hogy az autó meleg maradjon a fürdőzés utáni visszaúthoz a hűvösben.",
+                "ro": "Soarele de iarnă încălzește plăcut apa în cursul dimineții; parcați la soare pentru ca mașina să rămână caldă pentru drumul de întoarcere după baie.",
+                "en": "The winter sun warms the water pleasantly during the morning; park in the sun so the car remains warm for the return trip after your swim."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruined building",
+                "hu": "Ruined building",
+                "ro": "Ruined building",
+                "en": "Ruined building"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Erkunden der Ruinen bei trockener, kühler Luft; die Wintersonne steht tief und bietet hervorragendes Licht für Architekturfotos.",
+                "hu": "Élvezze a romok felfedezését a száraz, hűvös levegőben; a téli nap alacsonyan áll, és kiváló fényeket biztosít az építészeti fotókhoz.",
+                "ro": "Bucurați-vă de explorarea ruinelor în aerul uscat și răcoros; soarele de iarnă este jos și oferă lumină excelentă pentru fotografii de arhitectură.",
+                "en": "Enjoy exploring the ruins in the dry, cool air; the winter sun is low and provides excellent light for architectural photos of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Phaeng Yai Waterfall",
+                "hu": "Phaeng Yai Waterfall",
+                "ro": "Phaeng Yai Waterfall",
+                "en": "Phaeng Yai Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall ist im Winter weniger feucht-heiß, was den Aufenthalt sehr angenehm macht; bringen Sie eine Decke für ein Picknick im Auto mit.",
+                "hu": "A vízesés környéke télen kevésbé fülledt, ami nagyon kellemessé teszi az ott tartózkodást; vigyen egy takarót az autóba egy kényelmes pihenőhöz.",
+                "ro": "Zona cascadei este mai puțin umedă și caldă iarna, ceea ce face vizita foarte plăcută; aduceți o pătură în mașină pentru un popas confortabil.",
+                "en": "The waterfall area is less humid and hot in winter, making the stay very pleasant; bring a blanket in the car for a comfortable rest stop nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Phangan Elephant Sanctuary",
+                "hu": "Phangan Elephant Sanctuary",
+                "ro": "Phangan Elephant Sanctuary",
+                "en": "Phangan Elephant Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Temperaturen sind ideal für die Interaktion mit den Tieren; nutzen Sie die Sitzheizung im Auto auf dem Rückweg, falls es abends frisch wird.",
+                "hu": "A hűvösebb hőmérséklet ideális az állatokkal való interakcióhoz; használja az autó ülésfűtését a visszaúton, ha az esti levegő lehűlne a program után.",
+                "ro": "Temperaturile mai scăzute sunt ideale pentru interacțiunea cu animalele; folosiți încălzirea în scaune la întoarcere dacă aerul serii devine rece.",
+                "en": "The cooler temperatures are ideal for interacting with the animals; use the car's seat heating on the way back if the evening air gets chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Mai Ngam",
+                "hu": "Khao Mai Ngam",
+                "ro": "Khao Mai Ngam",
+                "en": "Khao Mai Ngam"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht ist im Winter oft kristallklar bis zum Horizont; planen Sie die Rückfahrt zum Auto vor 17:30 Uhr ein, um nicht im Dunkeln zu wandern.",
+                "hu": "A kilátás télen gyakran kristálytiszta a horizontig; tervezze meg a visszautat az autóhoz 17:30 előtt, hogy ne kelljen sötétben túráznia lefelé.",
+                "ro": "Vizibilitatea este adesea de cristal până la orizont iarna; planificați drumul înapoi la mașină înainte de 17:30 pentru a nu merge pe întuneric.",
+                "en": "The visibility is often crystal clear to the horizon in winter; plan your return to the car before 17:30 to avoid hiking down in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "ATV Speed Koh Phangan Extreme Attractions",
+                "hu": "ATV Speed Koh Phangan Extreme Attractions",
+                "ro": "ATV Speed Koh Phangan Extreme Attractions",
+                "en": "ATV Speed Koh Phangan Extreme Attractions"
+              },
+              "tip_5lang": {
+                "de": "Die trockenen Strecken im Winter erlauben höhere Geschwindigkeiten beim ATV; schließen Sie die Fenster Ihres Autos beim Parken wegen des Staubs.",
+                "hu": "A száraz téli pályák nagyobb sebességet tesznek lehetővé az ATV-vel; tartsa zárva az autó ablakait parkoláskor a felszálló por miatt a területen.",
+                "ro": "Traseele uscate de iarnă permit viteze mai mari cu ATV-ul; țineți ferestrele mașinii închise când parcați din cauza prafului ridicat în zonă.",
+                "en": "The dry winter tracks allow for higher speeds on the ATV; keep your car windows closed when parking due to the dust kicked up in the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Baan Tai Elephant Trekking",
+                "hu": "Baan Tai Elephant Trekking",
+                "ro": "Baan Tai Elephant Trekking",
+                "en": "Baan Tai Elephant Trekking"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Dschungel ohne die drückende Schwüle des Sommers; eine kurze Fahrt mit der Klimaanlage auf niedriger Stufe hält Sie im Auto frisch.",
+                "hu": "Élje át a dzsungelt a nyári nyomasztó hőség nélkül; egy rövid autózás alacsony fokozaton működő légkondicionálóval frissen tartja a programok között.",
+                "ro": "Experimentați jungla fără zăpușeala verii; o scurtă călătorie cu aerul condiționat la nivel minim vă va menține revigorat între programe.",
+                "en": "Experience the jungle without the oppressive summer swelter; a short drive with the AC on low will keep you fresh between the activities."
+              }
+            },
+            {
+              "name": {
+                "de": "Halfmoon Festival",
+                "hu": "Halfmoon Festival",
+                "ro": "Halfmoon Festival",
+                "en": "Halfmoon Festival"
+              },
+              "tip_5lang": {
+                "de": "Die Festivalnacht im Winter ist kühl und angenehm zum Tanzen; lassen Sie eine warme Jacke im Auto für die Heimfahrt nach Mitternacht bereitliegen.",
+                "hu": "A téli fesztiváléjszaka hűvös és kellemes a tánchoz; tartson egy meleg dzsekit az autóban az éjfél utáni hazautazáshoz a lehűlt levegőben.",
+                "ro": "Noaptea festivalului iarna este răcoroasă și plăcută pentru dans; lăsați o jachetă caldă în mașină pentru drumul spre casă după miezul nopții.",
+                "en": "The winter festival night is cool and pleasant for dancing; keep a warm jacket ready in the car for the drive home after midnight when it's cold."
+              }
+            }
+          ]
+        }
       }
     }
   }

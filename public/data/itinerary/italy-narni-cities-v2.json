@@ -160,6 +160,196 @@
         "hu": "Reggel kezdje a Santa Maria Impensolénél, majd fedezze fel a Narni Sotterranea kísérteties föld alatti titkait.\n\nDélben merüljön el a művészetben a Palazzo Eroliban, mielőtt megcsodálná a fenséges Cattedrale di San Giovenalét.\n\nDélután tekintse meg az ősi freskókat a Chiesa di Sant'Agostinóban.\n\nEste fejezze be sétáját az Augustus-híd kolosszális római romjainál.",
         "ro": "Dimineața începeți la Santa Maria Impensole, apoi explorați secretele subterane uluitoare de la Narni Sotterranea.\n\nLa amiază, admirați arta la Palazzo Eroli înainte de a vizita maiestuoasa Catedrală San Giovenale.\n\nDupă-amiaza, contemplați frescele vechi de la Chiesa di Sant'Agostino în lumina blândă.\n\nSeara, încheiați turul la ruinele colosale ale Podului lui Augustus.",
         "en": "Morning starts at Santa Maria Impensole, followed by exploring the haunting underground secrets at Narni Sotterranea.\n\nMidday invites you to dive into art at Palazzo Eroli before admiring the majestic Cattedrale di San Giovenale.\n\nAfternoon views of the ancient frescoes at Chiesa di Sant'Agostino are magical.\n\nEvening concludes your walking tour by descending to the colossal ruins of the Bridge of Augustus."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz in den romanischen Hallen. Mittags erkunden wir die trockene Unterwelt der Stadt. Nachmittags gleiten wir durch die nassen Gassen zwischen den Museen. Abends spiegelt sich das Licht in den Pfützen der Piazza.",
+            "hu": "Reggel a román kori csarnokok nyújtanak menedéket az eső elől. Délben a város száraz földalatti járatait fedezzük fel. Délután a múzeumok közötti vizes sikátorokon suhanunk át. Este a fények megcsillannak a főtér tócsáiban.",
+            "ro": "Dimineața căutăm adăpost în halele romanice. La prânz explorăm pasajele subterane uscate ale orașului. După-amiaza trecem prin aleile ude între muzee. Seara luminile se oglindesc în bălțile din piața centrală.",
+            "en": "In the morning, Romanesque halls provide shelter from the rain. At noon, we explore the dry underground passages. In the afternoon, we navigate wet alleys between museums. In the evening, lights reflect in the puddles of the piazza."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Impensole",
+                "hu": "Chiesa di Santa Maria Impensole",
+                "ro": "Chiesa di Santa Maria Impensole",
+                "en": "Chiesa di Santa Maria Impensole"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antiken Portikusse, die perfekten Schutz vor dem ersten Regenschauer bieten, während Sie die romanische Architektur studieren.",
+                "hu": "Csodálja meg az ősi portikuszokat, amelyek tökéletes menedéket nyújtanak az első zápor elől, miközben a román kori építészetet tanulmányozza.",
+                "ro": "Admirați porticele antice care oferă adăpost perfect împotriva primei averse, în timp ce studiați arhitectura romanică a bisericii.",
+                "en": "Admire the ancient porticos that provide perfect shelter from the first rain shower while you study the church's Romanesque architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Narni Sotterranea",
+                "hu": "Narni Sotterranea",
+                "ro": "Narni Sotterranea",
+                "en": "Narni Sotterranea"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdischen Gänge sind der ideale Zufluchtsort bei Starkregen; nutzen Sie die Zeit für eine ausführliche Führung im Trockenen.",
+                "hu": "A földalatti járatok ideális menedéket jelentenek heves esőzés idején; használja ki az időt egy alapos, száraz tárlatvezetésre.",
+                "ro": "Pasajele subterane sunt refugiul ideal în timpul ploilor torențiale; profitați de timp pentru un tur ghidat detaliat la adăpost.",
+                "en": "The underground passages are the ideal refuge during heavy rain; take advantage of the time for a thorough, dry guided tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Eroli, Museo della Città",
+                "hu": "Palazzo Eroli, Museo della Città",
+                "ro": "Palazzo Eroli, Museo della Città",
+                "en": "Palazzo Eroli, Museo della Città"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt in den Ausstellungsräumen, um den Regen draußen zu vergessen und die wertvollen Kunstwerke in Ruhe zu sehen.",
+                "hu": "Hosszabbítsa meg tartózkodását a kiállítótermekben, hogy elfelejtse a kinti esőt, és nyugodtan megtekinthesse az értékes műalkotásokat.",
+                "ro": "Prelungiți vizita în sălile de expoziție pentru a uita de ploaia de afară și pentru a vedea în liniște operele de artă valoroase.",
+                "en": "Extend your stay in the exhibition halls to forget the rain outside and view the precious artworks in peace and quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di San Giovenale",
+                "hu": "Cattedrale di San Giovenale",
+                "ro": "Cattedrale di San Giovenale",
+                "en": "Cattedrale di San Giovenale"
+              },
+              "tip_5lang": {
+                "de": "Das prächtige Innere der Kathedrale bietet eine ruhige Atmosphäre, um das Ende des Regens abzuwarten und die Mosaike zu bewundern.",
+                "hu": "A székesegyház pompás belseje nyugodt környezetet biztosít az eső elvonulásának megvárásához és a mozaikok megcsodálásához.",
+                "ro": "Interiorul splendid al catedralei oferă un mediu liniștit pentru a aștepta oprirea ploii și pentru a admira mozaicurile superbe.",
+                "en": "The cathedral's splendid interior provides a calm environment to wait out the rain and admire the magnificent mosaics."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Agostino",
+                "hu": "Chiesa di Sant'Agostino",
+                "ro": "Chiesa di Sant'Agostino",
+                "en": "Chiesa di Sant'Agostino"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die rutschigen Stufen vor dem Eingang und genießen Sie die spirituelle Stille, während draußen der Regen auf das Dach trommelt.",
+                "hu": "Vigyázzon a bejárat előtti csúszós lépcsőkre, és élvezze a spirituális csendet, miközben kint az eső kopog a tetőn.",
+                "ro": "Atenție la treptele alunecoase de la intrare și bucurați-vă de liniștea spirituală în timp ce ploaia bate pe acoperiș afară.",
+                "en": "Watch out for the slippery steps at the entrance and enjoy the spiritual silence while the rain drums on the roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bridge of Augustus",
+                "hu": "Bridge of Augustus",
+                "ro": "Bridge of Augustus",
+                "en": "Bridge of Augustus"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken bei Regen besonders mystisch; tragen Sie feste Schuhe, da die Pfade rund um den Flusslauf sehr schlammig sein können.",
+                "hu": "A romok esőben különösen misztikusnak tűnnek; viseljen zárt cipőt, mert a folyóparti ösvények ilyenkor nagyon sárosak lehetnek.",
+                "ro": "Ruinele par deosebit de mistice în ploaie; purtați pantofi închiși, deoarece potecile de pe malul râului pot fi foarte noroioase.",
+                "en": "The ruins look particularly mystical in the rain; wear sturdy shoes as the riverside paths can be very muddy at this time."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt in den engen Gassen. Mittags wärmen wir uns in den Museen der Stadt auf. Nachmittags nutzen wir das letzte Licht für den Abstieg zum Fluss. Da es um 17 Uhr dunkel wird, genießen wir den Abend in den beleuchteten Innenhöfen.",
+            "hu": "A fagyos reggel a szűk sikátorokban kezdődik. Délben a város múzeumaiban melegszünk fel. Délután az utolsó fényeket használjuk ki a folyóhoz való leereszkedéshez. Mivel 17 órakor sötétedik, az estét a kivilágított udvarokon élvezzük.",
+            "ro": "Dimineața geroasă începe pe străduțele înguste. La prânz ne încălzim în muzeele orașului. După-amiaza profităm de ultima lumină pentru coborârea la râu. Deoarece se întunecă la ora 17, savurăm seara în curțile iluminate.",
+            "en": "The frosty morning begins in the narrow alleys. At noon, we warm up in the city's museums. In the afternoon, we use the last light for the descent to the river. As it gets dark by 17:00, we enjoy the evening in the illuminated courtyards."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Impensole",
+                "hu": "Chiesa di Santa Maria Impensole",
+                "ro": "Chiesa di Santa Maria Impensole",
+                "en": "Chiesa di Santa Maria Impensole"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte; tragen Sie warme Schichten, um die faszinierenden unterirdischen Krypten ohne Frösteln zu erkunden.",
+                "hu": "A vastag falak tárolják a hideget; viseljen meleg rétegeket, hogy vacogás nélkül fedezhesse fel a lenyűgöző földalatti kriptákat.",
+                "ro": "Zidurile groase rețin frigul; purtați straturi calde pentru a explora criptele subterane fascinante fără a tremura de frig.",
+                "en": "The thick walls retain the cold; wear warm layers to explore the fascinating underground crypts without shivering."
+              }
+            },
+            {
+              "name": {
+                "de": "Narni Sotterranea",
+                "hu": "Narni Sotterranea",
+                "ro": "Narni Sotterranea",
+                "en": "Narni Sotterranea"
+              },
+              "tip_5lang": {
+                "de": "Die konstante Temperatur unter der Erde ist im Winter oft angenehmer als draußen; eine perfekte Flucht vor dem kalten Wind der Oberstadt.",
+                "hu": "A föld alatti állandó hőmérséklet télen gyakran kellemesebb, mint kint; tökéletes menekülés a felsőváros hideg szele elől.",
+                "ro": "Temperatura constantă de sub pământ este adesea mai plăcută iarna decât afară; o evadare perfectă de vântul rece din orașul de sus.",
+                "en": "The constant temperature underground is often more pleasant in winter than outside; a perfect escape from the cold winds of the upper town."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Eroli, Museo della Città",
+                "hu": "Palazzo Eroli, Museo della Città",
+                "ro": "Palazzo Eroli, Museo della Città",
+                "en": "Palazzo Eroli, Museo della Città"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Galerien für eine ausgiebige Pause und bewundern Sie Ghirlandaios Meisterwerk in wohliger Wärme.",
+                "hu": "Használja ki a fűtött galériákat egy kiadós pihenőre, és csodálja meg Ghirlandaio remekművét a kellemes melegben.",
+                "ro": "Profitatți de galeriile încălzite pentru o pauză lungă și admirați capodopera lui Ghirlandaio în căldura confortabilă.",
+                "en": "Take advantage of the heated galleries for a substantial break and admire Ghirlandaio's masterpiece in cozy warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di San Giovenale",
+                "hu": "Cattedrale di San Giovenale",
+                "ro": "Cattedrale di San Giovenale",
+                "en": "Cattedrale di San Giovenale"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kathedrale am frühen Nachmittag, wenn das tiefe Sonnenlicht durch die Fenster fällt und die Kapellen golden erleuchten lässt.",
+                "hu": "Látogassa meg a székesegyházat kora délután, amikor az alacsonyan járó nap fénye átszűrődik az ablakokon, és aranyba borítja a kápolnákat.",
+                "ro": "Vizitați catedrala la începutul după-amiezii, când lumina soarelui pătrunde prin ferestre și scaldă capelele într-o lumină aurie.",
+                "en": "Visit the cathedral in the early afternoon when the low sunlight filters through the windows and bathes the chapels in golden light."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Agostino",
+                "hu": "Chiesa di Sant'Agostino",
+                "ro": "Chiesa di Sant'Agostino",
+                "en": "Chiesa di Sant'Agostino"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Schönheit der Kirche wirkt in der winterlichen Stille besonders stark; ideal für einen Moment der inneren Einkehr.",
+                "hu": "A templom egyszerű szépsége a téli csendben különösen erősen hat; ideális helyszín egy pillanatnyi belső elcsendesedéshez.",
+                "ro": "Frumusețea simplă a bisericii are un impact deosebit în liniștea iernii; este locul ideal pentru un moment de introspecție.",
+                "en": "The simple beauty of the church is particularly powerful in the winter silence; an ideal spot for a moment of inner reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Bridge of Augustus",
+                "hu": "Bridge of Augustus",
+                "ro": "Bridge of Augustus",
+                "en": "Bridge of Augustus"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 16:30 Uhr ein, um die Ruinen im letzten Tageslicht zu sehen, bevor die Kälte des Tals spürbar zunimmt.",
+                "hu": "Tervezze a látogatást 16:30 előttre, hogy az utolsó nappali fénynél láthassa a romokat, mielőtt a völgy hidege érezhetően felerősödik.",
+                "ro": "Planificați vizita înainte de ora 16:30 pentru a vedea ruinele în ultima lumină a zilei, înainte ca frigul din vale să se intensifice.",
+                "en": "Plan your visit before 16:30 to see the ruins in the last daylight before the valley cold intensifies noticeably."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Reggel tekerjen el az erődített Abbazia di San Cassianóhoz a kilátásért, majd látogassa meg az Augustus-hidat.\n\nDélben térjen vissza a központba a Cattedrale megtekintésére és a Narni Sotterranea bejárására.\n\nDélután pedálozzon fel az impozáns Castello di San Girolamóhoz a középkori történelem felfedezéséhez.\n\nEste a napot egy meglepően modern vizuális élménnyel zárja a Street Art Museumban.",
         "ro": "Dimineața pedalați spre Abația fortificată San Cassiano pentru priveliști panoramice, apoi vizitați Podul lui Augustus.\n\nLa amiază, întoarceți-vă în centru pentru Catedrală și un tur fascinant la Narni Sotterranea.\n\nDupă-amiaza, urcați la impunătorul Castello di San Girolamo pentru a explora istoria medievală.\n\nSeara, încheiați ziua cu o explozie surprinzătoare de creativitate la Street Art Museum.",
         "en": "Morning sees you cycling out to the fortified Abbazia di San Cassiano for panoramic views, then visiting the Bridge of Augustus.\n\nMidday has you returning to the center for the Cattedrale and a fascinating tour of Narni Sotterranea.\n\nAfternoon invites you to pedal up to Castello di San Girolamo to explore medieval history.\n\nEvening finishes the day with modern creativity at the Street Art Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsicht auf den nassen Pflastersteinen am Morgen. Mittags pausieren wir an überdachten Aussichtspunkten. Nachmittags fordern uns die rutschigen Anstiege heraus. Abends trocknen wir unsere Ausrüstung nach einer erfrischenden, aber feuchten Tour.",
+            "hu": "Reggel óvatosan a nedves macskaköveken. Délben fedett kilátópontoknál tartunk pihenőt. Délután a csúszós emelkedők kihívást jelentenek. Este megszárítjuk felszerelésünket a frissítő, de vizes túra után.",
+            "ro": "Atenție pe pavajul umed dimineața. La prânz facem pauză în puncte de observație acoperite. După-amiaza urcările alunecoase sunt o provocare. Seara ne uscăm echipamentul după o tură revigorantă, dar umedă.",
+            "en": "Be careful on the wet cobblestones in the morning. At noon, we pause at covered viewpoints. In the afternoon, slippery climbs challenge us. In the evening, we dry our gear after a refreshing but wet tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abbazia di San Cassiano",
+                "hu": "Abbazia di San Cassiano",
+                "ro": "Abbazia di San Cassiano",
+                "en": "Abbazia di San Cassiano"
+              },
+              "tip_5lang": {
+                "de": "Der Waldweg zur Abtei kann bei Regen sehr rutschig sein; nutzen Sie Schutzbleche und fahren Sie bergab besonders vorsichtig.",
+                "hu": "Az apátsághoz vezető erdei út esőben nagyon csúszós lehet; használjon sárvédőt, és lefelé menet legyen különösen óvatos.",
+                "ro": "Drumul prin pădure spre abație poate fi foarte alunecos pe ploaie; folosiți aripi la bicicletă și fiți extrem de prudenți la coborâre.",
+                "en": "The forest path to the abbey can be very slippery in the rain; use mudguards and be extra careful when riding downhill."
+              }
+            },
+            {
+              "name": {
+                "de": "Bridge of Augustus",
+                "hu": "Bridge of Augustus",
+                "ro": "Bridge of Augustus",
+                "en": "Bridge of Augustus"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die dramatische Szenerie des Flusses im Regen zu fotografieren, bevor Sie schnell weiterfahren.",
+                "hu": "Egy rövid megálló elég, hogy lefotózza a folyó drámai látványát az esőben, mielőtt gyorsan továbbtekerne a következő célpont felé.",
+                "ro": "O oprire scurtă este suficientă pentru a fotografia scena dramatică a râului în ploaie înainte de a porni rapid mai departe.",
+                "en": "A short stop is enough to photograph the dramatic scenery of the river in the rain before quickly cycling on to the next spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di San Giovenale",
+                "hu": "Cattedrale di San Giovenale",
+                "ro": "Cattedrale di San Giovenale",
+                "en": "Cattedrale di San Giovenale"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem Vorsprung und nutzen Sie die Kathedrale als langen, trockenen Aufenthalt zur Erholung.",
+                "hu": "Parkolja le kerékpárját egy eresz alatt, és használja a székesegyházat hosszú, száraz pihenőhelyként a regenerálódáshoz.",
+                "ro": "Parcați bicicleta sub o streașină și folosiți catedrala ca un loc de odihnă lung și uscat pentru recuperare.",
+                "en": "Park your bike under an overhang and use the cathedral as a long, dry rest stop for recovery."
+              }
+            },
+            {
+              "name": {
+                "de": "Narni Sotterranea",
+                "hu": "Narni Sotterranea",
+                "ro": "Narni Sotterranea",
+                "en": "Narni Sotterranea"
+              },
+              "tip_5lang": {
+                "de": "Hier ist der Regen vergessen; die geführte Tour bietet eine ideale Pause, während Ihre Kleidung im Eingangsbereich etwas trocknen kann.",
+                "hu": "Itt elfelejtheti az esőt; a tárlatvezetés ideális szünetet biztosít, miközben ruhái a bejáratnál kicsit megszáradhatnak.",
+                "ro": "Aici ploaia este uitată; turul ghidat oferă o pauză ideală, în timp ce hainele se pot usca puțin în zona de intrare.",
+                "en": "Forget the rain here; the guided tour provides an ideal break while your clothes can dry a bit in the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di San Girolamo",
+                "hu": "Castello di San Girolamo",
+                "ro": "Castello di San Girolamo",
+                "en": "Castello di San Girolamo"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, aber die Abfahrt erfordert gute Bremsen und volle Konzentration auf dem nassen Asphalt.",
+                "hu": "Az emelkedő melegen tartja, de a leereszkedés jó fékeket és teljes koncentrációt igényel a nedves aszfalton.",
+                "ro": "Urcarea vă va ține de cald, dar coborârea necesită frâne bune și concentrare maximă pe asfaltul ud.",
+                "en": "The climb will keep you warm, but the descent requires good brakes and full concentration on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "SAM - Street Art Museum",
+                "hu": "SAM - Street Art Museum",
+                "ro": "SAM - Street Art Museum",
+                "en": "SAM - Street Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiges Ziel, um die Tour drinnen abzuschließen, während man die moderne Kunst sicher vor dem Regen genießt.",
+                "hu": "Nagyszerű célpont a túra beltéri befejezéséhez, miközben a modern művészetet az esőtől védve élvezheti.",
+                "ro": "O destinație excelentă pentru a încheia tura în interior, în timp ce vă bucurați de arta modernă feriți de ploaie.",
+                "en": "A great destination to end the tour indoors while enjoying modern art safely protected from the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dicken Handschuhen geht es durch die klare Winterluft. Mittags suchen wir die Sonne auf den Hügelkuppen. Nachmittags sinken die Temperaturen schnell, sobald wir in die schattigen Täler radeln. Vor dem Dunkelwerden erreichen wir das Museum.",
+            "hu": "Vastag kesztyűben vágunk neki a tiszta téli levegőnek. Délben a napos dombtetőket keressük. Délután a hőmérséklet gyorsan süllyed, amint az árnyékos völgyekbe tekerünk. Még sötétedés előtt elérjük a múzeumot.",
+            "ro": "Cu mănuși groase pornim prin aerul curat de iarnă. La prânz căutăm soarele pe culmile dealurilor. După-amiaza temperaturile scad rapid când intrăm în văile umbrite. Ajungem la muzeu înainte de lăsarea întunericului.",
+            "en": "With thick gloves, we ride through the clear winter air. At noon, we seek the sun on the hilltops. In the afternoon, temperatures drop quickly as we cycle into shaded valleys. We reach the museum before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abbazia di San Cassiano",
+                "hu": "Abbazia di San Cassiano",
+                "ro": "Abbazia di San Cassiano",
+                "en": "Abbazia di San Cassiano"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Abtei hilft gegen die Morgenkälte; genießen Sie die klare Sicht auf Narni durch die unbelaubten Winterbäume.",
+                "hu": "Az apátsághoz vezető emelkedő segít a reggeli hideg ellen; élvezze a tiszta kilátást Narnira a lombmentes téli fákon keresztül.",
+                "ro": "Urcarea spre abație ajută împotriva frigului de dimineață; bucurați-vă de vederea clară spre Narni prin copacii de iarnă fără frunze.",
+                "en": "The climb to the abbey helps against the morning cold; enjoy the clear view of Narni through the leafless winter trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Bridge of Augustus",
+                "hu": "Bridge of Augustus",
+                "ro": "Bridge of Augustus",
+                "en": "Bridge of Augustus"
+              },
+              "tip_5lang": {
+                "de": "Im Tal ist es deutlich kühler; halten Sie den Stopp kurz und bleiben Sie in Bewegung, um die Körperwärme zu halten.",
+                "hu": "A völgyben jóval hűvösebb van; tartsa röviden a megállót, és maradjon mozgásban a testhőmérséklet megőrzése érdekében.",
+                "ro": "În vale este mult mai răcoare; faceți o oprire scurtă și rămâneți în mișcare pentru a menține căldura corporală.",
+                "en": "It is significantly cooler in the valley; keep the stop short and stay moving to maintain body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di San Giovenale",
+                "hu": "Cattedrale di San Giovenale",
+                "ro": "Cattedrale di San Giovenale",
+                "en": "Cattedrale di San Giovenale"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit für einen Besuch, wenn die Kirche etwas Restwärme vom Vormittag gespeichert hat.",
+                "hu": "Használja ki a délidőt a látogatáshoz, amikor a templom még őriz némi maradék hőt a délelőttről.",
+                "ro": "Profitați de timpul prânzului pentru vizită, când biserica a reținut puțină căldură reziduală de dimineață.",
+                "en": "Take advantage of the lunchtime for your visit when the church has retained some residual warmth from the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Narni Sotterranea",
+                "hu": "Narni Sotterranea",
+                "ro": "Narni Sotterranea",
+                "en": "Narni Sotterranea"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort zum Aufwärmen; die konstanten 13-15 Grad wirken im Vergleich zur Winterluft draußen fast mild.",
+                "hu": "Tökéletes hely a felmelegedéshez; az állandó 13-15 fok szinte enyhének tűnik a kinti téli levegőhöz képest.",
+                "ro": "Un loc perfect pentru încălzire; temperatura constantă de 13-15 grade pare aproape blândă față de aerul de iarnă de afară.",
+                "en": "A perfect place to warm up; the constant 13-15 degrees feels almost mild compared to the winter air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di San Girolamo",
+                "hu": "Castello di San Girolamo",
+                "ro": "Castello di San Girolamo",
+                "en": "Castello di San Girolamo"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie das Schloss vor dem Sonnenuntergang um 17 Uhr, um das goldene Licht auf den alten Mauern einzufangen.",
+                "hu": "Érjen a kastélyhoz a 17 órai naplemente előtt, hogy elcsíphesse az ősi falakra vetülő aranyló fényeket.",
+                "ro": "Ajungeți la castel înainte de apusul de la ora 17 pentru a surprinde lumina aurie pe zidurile vechi.",
+                "en": "Reach the castle before the 17:00 sunset to catch the golden light hitting the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "SAM - Street Art Museum",
+                "hu": "SAM - Street Art Museum",
+                "ro": "SAM - Street Art Museum",
+                "en": "SAM - Street Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im beheizten Museumsbereich, wenn es draußen bereits dunkel und merklich kälter geworden ist.",
+                "hu": "Zárja a napot a múzeum fűtött tereiben, amikor kint már besötétedett és érezhetően lehűlt az idő.",
+                "ro": "Încheiați ziua în zona încălzită a muzeului, când afară s-a întunecat deja și s-a făcut vizibil mai frig.",
+                "en": "End the day in the heated museum area when it's already dark and noticeably colder outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Reggel vezessen az eldugott Eremo di Santa Bettához, majd barangoljon a Gole di Narni türkizkék vizei mentén.\n\nDélben induljon a városba, hogy felfedezze a Narni Sotterranea rejtélyeit és a Palazzo Eroli művészetét.\n\nDélután tegyen egy rövid utat a Castello di San Girolamo robusztus hegyoldali védműveihez.\n\nEste zárja az utazást az Il Bastione felfedezésével, és élvezze az umbriai tájra nyíló kilátást.",
         "ro": "Dimineața conduceți spre izolatul Eremo di Santa Betta înainte de a vă plimba pe lângă apele turcoaz de la Gole di Narni.\n\nLa amiază, mergeți în oraș pentru a descoperi misterele de la Narni Sotterranea și arta de la Palazzo Eroli.\n\nDupă-amiaza, faceți o scurtă călătorie până la fortificațiile robuste de pe deal de la Castello di San Girolamo.\n\nSeara, încheiați excursia explorând Il Bastione, bucurându-vă de priveliști superbe la amurg.",
         "en": "Morning begins with a drive to the secluded Eremo di Santa Betta before wandering along the stunning turquoise waters of Gole di Narni.\n\nMidday takes you into the city to uncover the mysteries of Narni Sotterranea and the art of Palazzo Eroli.\n\nAfternoon invites a short drive up to the robust hillside defenses of Castello di San Girolamo.\n\nEvening concludes your trip exploring Il Bastione, enjoying beautiful twilight views over the Umbrian landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten trocken im Auto und fahren zu abgelegenen Einsiedeleien. Mittags genießen wir die Aussicht auf die Schluchten durch das Regenglas. Nachmittags parken wir nah an den Museen der Altstadt. Den Abend lassen wir bei gemütlicher Fahrt ausklingen.",
+            "hu": "Szárazon indulunk az autóval a távoli remetelakok felé. Délben az ablaktörlők mögül csodáljuk a szurdokok látványát. Délután az óvárosi múzeumok közelében parkolunk. Az estét egy kényelmes autózással zárjuk.",
+            "ro": "Pornim uscați cu mașina spre schiturile îndepărtate. La prânz admirăm vederea spre chei prin geamul plouat. După-amiaza parcăm aproape de muzeele din centrul vechi. Încheiem seara cu o plimbare relaxantă cu mașina.",
+            "en": "We start dry in the car heading to remote hermitages. At noon, we admire the view of the gorges through the rain-streaked windows. In the afternoon, we park near the old town museums. We end the evening with a comfortable drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eremo di Santa Betta",
+                "hu": "Eremo di Santa Betta",
+                "ro": "Eremo di Santa Betta",
+                "en": "Eremo di Santa Betta"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann eng und rutschig sein; parken Sie vorsichtig und nutzen Sie einen Regenschirm für den kurzen Fußweg zum Eremo.",
+                "hu": "A bekötőút szűk és csúszós lehet; parkoljon óvatosan, és használjon esernyőt a remetelakhoz vezető rövid sétához.",
+                "ro": "Drumul de acces poate fi îngust și alunecos; parcați cu atenție și folosiți o umbrelă pentru scurta plimbare până la schit.",
+                "en": "The access road can be narrow and slippery; park carefully and use an umbrella for the short walk to the hermitage."
+              }
+            },
+            {
+              "name": {
+                "de": "Gole di Narni - Stifone",
+                "hu": "Gole di Narni - Stifone",
+                "ro": "Gole di Narni - Stifone",
+                "en": "Gole di Narni - Stifone"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das türkisfarbene Wasser vom Auto aus; bei Regen wirkt die Farbe durch den Kontrast zum grauen Himmel noch intensiver.",
+                "hu": "Élvezze a türkizkék víz látványát az autóból; esőben a szürke éggel alkotott kontraszt miatt a szín még intenzívebbnek tűnik.",
+                "ro": "Bucurați-vă de vederea apei turcoaz din mașină; pe ploaie, culoarea pare și mai intensă datorită contrastului cu cerul gri.",
+                "en": "Enjoy the view of the turquoise water from the car; in the rain, the color looks even more intense due to the contrast with the gray sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Narni Sotterranea",
+                "hu": "Narni Sotterranea",
+                "ro": "Narni Sotterranea",
+                "en": "Narni Sotterranea"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe, um fast trocken zum Eingang zu gelangen und die unterirdische Welt zu erkunden.",
+                "hu": "Használja a közeli parkolóházat, hogy szinte szárazon juthasson el a bejárathoz és felfedezhesse a földalatti világot.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge aproape uscat la intrare și pentru a explora lumea subterană.",
+                "en": "Use the nearby parking garage to reach the entrance almost dry and explore the underground world."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Eroli, Museo della Città",
+                "hu": "Palazzo Eroli, Museo della Città",
+                "ro": "Palazzo Eroli, Museo della Città",
+                "en": "Palazzo Eroli, Museo della Città"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Dauerregen; im Inneren des Palazzos sind Sie sicher vor den Elementen und können tief in die Stadtgeschichte eintauchen.",
+                "hu": "Ideális megálló tartós esőben; a palota belsejében védve van az elemektől, és mélyen elmerülhet a város történelmében.",
+                "ro": "O oprire ideală în caz de ploaie persistentă; în interiorul palatului sunteți ferit de elemente și puteți aprofunda istoria orașului.",
+                "en": "An ideal stop during persistent rain; inside the palazzo, you are sheltered from the elements and can dive deep into the city's history."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di San Girolamo",
+                "hu": "Castello di San Girolamo",
+                "ro": "Castello di San Girolamo",
+                "en": "Castello di San Girolamo"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet tolle Ausblicke; bleiben Sie bei starkem Regen kurz im Wagen, bis der Schauer für die Besichtigung nachlässt.",
+                "hu": "A felhajtó nagyszerű kilátást nyújt; heves esőzéskor maradjon rövid ideig a kocsiban, amíg a zápor enyhül a látogatáshoz.",
+                "ro": "Urcarea oferă priveliști superbe; în caz de ploaie torențială, rămâneți puțin în mașină până când aversa se domolește pentru vizită.",
+                "en": "The driveway offers great views; in case of heavy rain, stay in the car briefly until the shower subsides for your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Bastione",
+                "hu": "Il Bastione",
+                "ro": "Il Bastione",
+                "en": "Il Bastione"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das heraufziehende Wetter über dem Nera-Tal von diesem strategischen Punkt aus, bevor Sie die Heimreise antreten.",
+                "hu": "Figyelje meg a Nera-völgy felett érkező vihart erről a stratégiai pontról, mielőtt elindulna hazafelé.",
+                "ro": "Observați vremea care se schimbă peste valea Nera din acest punct strategic înainte de a porni spre casă.",
+                "en": "Observe the approaching weather over the Nera Valley from this strategic point before heading home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dank der Sitzheizung starten wir gemütlich in den kalten Tag. Mittags steuern wir die sonnigen Aussichtspunkte am Fluss an. Nachmittags nutzen wir die kurzen Wege vom Parkplatz zu den Sehenswürdigkeiten. Der frühe Sonnenuntergang färbt den Himmel über der Burg spektakulär.",
+            "hu": "Az ülésfűtésnek köszönhetően kényelmesen indítjuk a hideg napot. Délben a folyó menti napos kilátópontokat vesszük célba. Délután kihasználjuk a parkolótól a látnivalókig vezető rövid utakat. A korai naplemente látványosan festi meg az eget a vár felett.",
+            "ro": "Datorită încălzirii în scaune începem confortabil ziua rece. La prânz ne îndreptăm spre punctele de observație însorite de-a lungul râului. După-amiaza profităm de distanțele scurte de la parcare la obiective. Apusul devreme colorează spectaculos cerul deasupra cetății.",
+            "en": "Thanks to seat heating, we start the cold day comfortably. At noon, we head for the sunny viewpoints along the river. In the afternoon, we take advantage of the short walks from the parking lot to the sights. The early sunset spectacularly colors the sky above the castle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eremo di Santa Betta",
+                "hu": "Eremo di Santa Betta",
+                "ro": "Eremo di Santa Betta",
+                "en": "Eremo di Santa Betta"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bricht hier oft schön durch die Bäume; parken Sie so, dass Sie beim Aussteigen die ersten warmen Strahlen einfangen.",
+                "hu": "A téli nap itt gyakran szépen áttör a fák között; parkoljon úgy, hogy kiszálláskor elcsíphesse az első meleg sugarakat.",
+                "ro": "Soarele de iarnă pătrunde adesea frumos printre copaci aici; parcați astfel încât să prindeți primele raze calde la coborâre.",
+                "en": "The winter sun often breaks beautifully through the trees here; park so that you can catch the first warm rays when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Gole di Narni - Stifone",
+                "hu": "Gole di Narni - Stifone",
+                "ro": "Gole di Narni - Stifone",
+                "en": "Gole di Narni - Stifone"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser dampft manchmal leicht in der kalten Morgenluft; ein faszinierendes Fotomotiv direkt vom Straßenrand aus.",
+                "hu": "A víz néha enyhén gőzölög a hideg reggeli levegőben; lenyűgöző fotótéma közvetlenül az út széléről.",
+                "ro": "Apa scoate uneori aburi ușori în aerul rece de dimineață; un subiect foto fascinant direct de la marginea drumului.",
+                "en": "The water sometimes steams slightly in the cold morning air; a fascinating photo subject directly from the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Narni Sotterranea",
+                "hu": "Narni Sotterranea",
+                "ro": "Narni Sotterranea",
+                "en": "Narni Sotterranea"
+              },
+              "tip_5lang": {
+                "de": "Die Führung ist die perfekte Aufwärmpause; lassen Sie schwere Winterjacken nach Möglichkeit im Auto, um sich drinnen frei zu bewegen.",
+                "hu": "A tárlatvezetés tökéletes bemelegítő szünet; a nehéz télikabátokat lehetőség szerint hagyja a kocsiban a szabadabb mozgásért.",
+                "ro": "Turul ghidat este pauza perfectă de încălzire; lăsați haina groasă de iarnă în mașină dacă este posibil pentru a vă mișca liber în interior.",
+                "en": "The guided tour is the perfect warm-up break; leave heavy winter coats in the car if possible to move freely inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Eroli, Museo della Città",
+                "hu": "Palazzo Eroli, Museo della Città",
+                "ro": "Palazzo Eroli, Museo della Città",
+                "en": "Palazzo Eroli, Museo della Città"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht für die Gemäldegalerie und genießen Sie die warme Atmosphäre des historischen Palazzos.",
+                "hu": "Használja ki a nappali fényt a képtár megtekintéséhez, és élvezze a történelmi palota meleg hangulatát.",
+                "ro": "Profitatți de lumina zilei pentru galeria de pictură și bucurați-vă de atmosfera caldă a palatului istoric.",
+                "en": "Take advantage of the daylight for the picture gallery and enjoy the warm atmosphere of the historic palazzo."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di San Girolamo",
+                "hu": "Castello di San Girolamo",
+                "ro": "Castello di San Girolamo",
+                "en": "Castello di San Girolamo"
+              },
+              "tip_5lang": {
+                "de": "Im Winter wirkt die Burg besonders wehrhaft; planen Sie den Stopp am späten Nachmittag für stimmungsvolle Schattenwürfe ein.",
+                "hu": "Télen a vár különösen zordnak és védettnek tűnik; tervezze a megállót késő délutánra a hangulatos árnyékok miatt.",
+                "ro": "Iarna cetatea pare deosebit de fortificată; planificați oprirea spre sfârșitul după-amiezii pentru umbre atmosferice.",
+                "en": "In winter, the castle looks particularly fortified; plan the stop for late afternoon for atmospheric shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Bastione",
+                "hu": "Il Bastione",
+                "ro": "Il Bastione",
+                "en": "Il Bastione"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das beleuchtete Narni bei Dämmerung ist unbezahlbar; bleiben Sie für ein paar Minuten im warmen Wagen und genießen Sie das Panorama.",
+                "hu": "A kivilágított Narni látványa szürkületkor megfizethetetlen; maradjon pár percet a meleg kocsiban, és élvezze a panorámát.",
+                "ro": "Vederea spre Narni iluminat la amurg este neprețuită; rămâneți câteva minute în mașina caldă și bucurați-vă de panoramă.",
+                "en": "The view of illuminated Narni at dusk is priceless; stay in the warm car for a few minutes and enjoy the panorama."
+              }
+            }
+          ]
+        }
       }
     }
   }

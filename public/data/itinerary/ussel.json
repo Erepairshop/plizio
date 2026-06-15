@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját Ussel szívében, a Saint-Martin templomnál. Ezután merüljön el a helyi kultúrában a Musée du Pays d'Ussel kiállításain. A délután folyamán látogassa meg a Chapelle des Pénitents-t és a történelmi Château de la Diège-t. Fejezze be a napot a békés Notre-Dame de la Chabanne-nál.",
         "ro": "Începeți plimbarea în inima orașului Ussel la Biserica Saint-Martin. Apoi, scufundați-vă în cultura locală la Musée du Pays d'Ussel. După-amiaza vă poartă la Chapelle des Pénitents și la istoricul Château de la Diège. Încheiați ziua la liniștita Notre-Dame de la Chabanne.",
         "en": "Start your walking tour in the heart of Ussel at the Église Saint-Martin. Afterwards, immerse yourself in local culture at the Musée du Pays d'Ussel. The afternoon takes you to the Chapelle des Pénitents and the historic Château de la Diège. End your day at the peaceful Notre-Dame de la Chabanne."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen in der Kirche Saint-Martin und suchen Sie Schutz vor den Schauern. Mittags bietet das Museum einen trockenen und spannenden Einblick in die regionale Geschichte. Machen Sie nachmittags mit einem Regenmantel kurze Spaziergänge zu den Kapellen und zum Schloss, achten Sie auf rutschiges Pflaster. Lassen Sie den nassen Tag drinnen gemütlich ausklingen.",
+            "hu": "Kezdje a napot esernyővel a városközpontban a Saint-Martin templomnál, ahol menedéket talál a záporok elől. Dél körül a múzeum nyújt száraz és tartalmas programot a helyi történelem megismerésére. Délután egy rövid esőkabátos sétával látogassa meg a kápolnákat és a kastélyt, ügyelve a csúszós kövekre. Az este közeledtével térjen be egy hangulatos helyre felmelegedni.",
+            "ro": "Începeți dimineața ploioasă la biserica Saint-Martin, găsind un adăpost perfect. La prânz, muzeul local vă oferă o oază uscată pentru a descoperi istoria bogată a regiunii. După-amiaza, cu o pelerină de ploaie, vizitați capelele și castelul, având grijă la pietrele alunecoase. Pe măsură ce se lasă seara, retrageți-vă la interior pentru a vă usca și încălzi.",
+            "en": "Start your wet morning at the Saint-Martin Church, finding shelter from the rain while admiring its interior. Around noon, the local museum offers a dry, extensive look into regional history. In the afternoon, wear a good raincoat for short walks between the chapels and the castle, stepping carefully on wet stones. Conclude your damp day by warming up indoors as evening falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern bieten Schutz vor Schauern; bewundern Sie die Buntglasfenster, bis der Regen nachlässt.",
+                "hu": "A massziv falak kiváló menedéket nyújtanak a záporok elől; csodálja meg az ólomüveg ablakokat, míg eláll az eső.",
+                "ro": "Zidurile masive oferă un refugiu excelent împotriva ploii; admirați vitraliile până când ploaia se oprește.",
+                "en": "The massive walls offer excellent shelter from downpours; admire the stained glass windows until the rain stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Pays d'Ussel",
+                "hu": "Ussel Vidékének Múzeuma",
+                "ro": "Muzeul Ținutului Ussel",
+                "en": "Ussel Country Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier mehr Zeit bei starkem Regen; in den trockenen Sälen können Sie in die Handwerksgeschichte eintauchen.",
+                "hu": "Töltsön el itt több időt, ha kint szakad az eső; a száraz termekben elmélyedhet a régió gazdag kézműves történetében.",
+                "ro": "Petreceți mai mult timp aici dacă toarnă cu găleata; în sălile uscate veți descoperi istoria meșteșugurilor locale.",
+                "en": "Spend more time here if it's pouring outside; in the dry halls, you can dive into the region's rich craft history."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle des Pénitents",
+                "hu": "Bűnbánók Kápolnája",
+                "ro": "Capela Penitenților",
+                "en": "Chapel of the Penitents"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen versprüht die Kapelle eine mystische Atmosphäre; achten Sie auf die rutschigen, nassen Steine am Eingang.",
+                "hu": "Az esőben a kápolna misztikus hangulatot áraszt; vigyázzon a bejárathoz vezető csúszós, nedves köveken a lépéseire.",
+                "ro": "În ploaie, capela emană o atmosferă mistică; aveți grijă la pietrele alunecoase și umede de la intrare.",
+                "en": "In the rain, the chapel exudes a mystical atmosphere; watch your step on the slippery, wet stones leading to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Diège",
+                "hu": "Diège Kastély",
+                "ro": "Castelul de la Diège",
+                "en": "Diège Castle"
+              },
+              "tip_5lang": {
+                "de": "Rechnen Sie mit schlammigen Wegen am Schloss; tragen Sie wasserdichte Schuhe und konzentrieren Sie sich auf überdachte Bereiche.",
+                "hu": "Készüljön fel a saras utakra a kastély körül; viseljen vízálló cipőt, és fókuszáljon a fedett részek és a homlokzat megtekintésére.",
+                "ro": "Pregătiți-vă pentru poteci noroioase în jurul castelului; purtați încălțăminte impermeabilă și vizitați zonele acoperite.",
+                "en": "Prepare for muddy paths around the castle; wear waterproof shoes and focus on viewing the covered areas and the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de la Chabanne",
+                "hu": "Chabanne-i Miasszonyunk",
+                "ro": "Notre-Dame de la Chabanne",
+                "en": "Our Lady of the Chabanne"
+              },
+              "tip_5lang": {
+                "de": "Auf dem Hügel können Wind und Regen stärker sein; bringen Sie einen stabilen Regenschirm mit und genießen Sie das Panorama.",
+                "hu": "A dombtetőn a szél és az eső erősebb lehet; vigyen strapabíró esernyőt, és élvezze a szürke felhőkbe burkolózó panorámát.",
+                "ro": "Vântul și ploaia pot fi mai puternice pe deal; luați o umbrelă robustă și admirați panorama învăluită în nori gri.",
+                "en": "Wind and rain can be stronger on the hilltop; bring a sturdy umbrella and enjoy the panorama wrapped in gray clouds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bewundern Sie an einem kühlen Wintermorgen das frostige Stadtzentrum und die Kirche, gut eingepackt. Am frühen Nachmittag wärmt Sie das beheizte Museum auf. Während Ihres Nachmittagsspaziergangs zu den Kapellen und zum Schloss ist das Winterlicht magisch, aber bereiten Sie sich auf kalte Winde vor. Da die Sonne früh untergeht, genießen Sie die Dämmerung und wärmen sich dann drinnen auf.",
+            "hu": "A hűvös téli reggelen csodálja meg a fagyos városközpontot és a templomot, jól felöltözve. Kora délután a fűtött múzeum kiállításai melegítik fel, mielőtt folytatná útját. A délutáni órákban a kápolnák és a kastély körüli séta során a téli fények varázslatosak, de készüljön a hideg szélre. A korai sötétedés miatt a Chabanne környékén már naplemente várja, zárja a napot melegedőben.",
+            "ro": "Într-o dimineață geroasă, admirați centrul înghețat și biserica, îmbrăcați cu straturi groase. La prânz, muzeul încălzit vă oferă o pauză confortabilă. După-amiaza, plimbarea spre capele și castel e magică în lumina iernii, dar fiți gata pentru vântul rece. Odată cu apusul timpuriu de la ora 17:00, bucurați-vă de peisaj la Chabanne, apoi retrageți-vă la căldură.",
+            "en": "On a crisp winter morning, admire the frosty town center and the church, bundled up warmly. By early afternoon, the heated museum provides a cozy break before you continue. During your afternoon walk to the chapels and castle, the winter light is magical, but prepare for chilly winds. With early sunset around 17:00, enjoy the dusk at Chabanne before heading indoors to warm up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Zwischen den kalten Steinmauern kann es frisch sein, tragen Sie Mütze und Schal beim Betrachten des Holzaltars.",
+                "hu": "A hideg kőfalak között hűvös lehet, viseljen sapkát és sálat, amíg a különleges faoltárt tanulmányozza a téli fényben.",
+                "ro": "Poate fi frig între zidurile de piatră rece, purtați căciulă și fular în timp ce admirați altarul în lumina iernii.",
+                "en": "It can be chilly between the cold stone walls, so wear a hat and scarf while studying the wooden altar in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Pays d'Ussel",
+                "hu": "Ussel Vidékének Múzeuma",
+                "ro": "Muzeul Ținutului Ussel",
+                "en": "Ussel Country Museum"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Ausstellungsräume sind ideal zum Aufwärmen; genießen Sie die Präsentation lokaler Traditionen ganz bequem.",
+                "hu": "A fűtött kiállítóterek tökéletesek a felmelegedésre egy téli séta közben; élvezze a helyi hagyományok bemutatását kényelemben.",
+                "ro": "Sălile de expoziție încălzite sunt perfecte pentru a vă încălzi; bucurați-vă de tradițiile locale în confort total.",
+                "en": "The heated exhibition spaces are perfect for warming up during a winter walk; enjoy the display of local traditions in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle des Pénitents",
+                "hu": "Bűnbánók Kápolnája",
+                "ro": "Capela Penitenților",
+                "en": "Chapel of the Penitents"
+              },
+              "tip_5lang": {
+                "de": "Im strengen Winterwetter bietet die Kapelle einen ruhigen Rückzugsort; dicke Mauern schützen vor Eiswind, ziehen Sie sich warm an.",
+                "hu": "A zord téli időben a kápolna csendes menedéket nyújt; a vastag falak megvédenek a jeges széltől, de öltözzön rétegesen.",
+                "ro": "În vremea aspră de iarnă, capela e un refugiu liniștit; pereții groși vă protejează de vântul înghețat.",
+                "en": "In harsh winter weather, the chapel offers a quiet retreat; the thick walls protect against the icy wind, but dress in layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Diège",
+                "hu": "Diège Kastély",
+                "ro": "Castelul de la Diège",
+                "en": "Diège Castle"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume betonen die Schönheit des Schlosses bei Frost; ein dicker Mantel ist für den Spaziergang unerlässlich.",
+                "hu": "A kastély körüli fák kopársága kiemeli az épület szépségét a fagyos időben; a vastag kabát elengedhetetlen a kültéri sétához.",
+                "ro": "Copacii goi accentuează frumusețea castelului în vremea geroasă; o haină groasă este esențială pentru plimbarea afară.",
+                "en": "The bare trees around the castle highlight its beauty in the frosty weather; a thick coat is essential for the outdoor walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de la Chabanne",
+                "hu": "Chabanne-i Miasszonyunk",
+                "ro": "Notre-Dame de la Chabanne",
+                "en": "Our Lady of the Chabanne"
+              },
+              "tip_5lang": {
+                "de": "Der frühe Sonnenuntergang zaubert magische Farben; auf dem Hügel kann es klirrend kalt sein, Handschuhe sind ein Muss.",
+                "hu": "A korai naplemente varázslatos színeket festhet az égre; a dombtetőn metsző lehet a hideg, így a kesztyű kötelező kiegészítő.",
+                "ro": "Apusul timpuriu pictează culori magice pe cer; pe deal frigul poate fi pătrunzător, așa că mănușile sunt obligatorii.",
+                "en": "The early sunset can paint magical colors on the sky; it can be biting cold on the hilltop, making gloves a must-have."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerekezzen végig Ussel városán a történelmi központból indulva. Látogassa meg a templomot és a múzeumot, mielőtt észak felé venné az irányt a kastélyokhoz. Délután induljon délre az eldugott kápolnák felfedezésére. A nap a látványos és ókori Oppidum dit du Camp de César felfedezésével zárul.",
         "ro": "Pedalați prin Ussel, începând din centrul istoric. Vizitați biserica și muzeul înainte de a vă îndrepta spre nord către castele. După-amiaza coborâți spre sud pentru a descoperi capele ascunse. Ziua se încheie spectaculos la anticul Oppidum dit du Camp de César, o mărturie a istoriei îndepărtate.",
         "en": "Cycle through Ussel, starting in the historic town center. Visit the church and museum before heading north to explore the elegant local castles. In the afternoon, ride south to discover hidden chapels. The day ends spectacularly at the ancient and fascinating Oppidum dit du Camp de César."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an einem regnerischen Morgen vorsichtig auf nassen Straßen los, die Kirche dient als erste Zuflucht. Vormittags können Sie im Museum trocknen. Wenn Sie nachmittags zu den Schlössern radeln, können Blätter und Steine sehr rutschig sein, fahren Sie langsam. Am Ende des Tages kann der Regen in den Hügeln stärker werden, gute Regenkleidung ist wichtig.",
+            "hu": "Esős reggelen induljon óvatosan a nedves utcáken, az első megálló a templom lesz menedéknek. Délelőtt a múzeumban melegedhet fel és szárítkozhat. Kora délután a kastélyok felé tekerve a falevelek és kövek nagyon csúszósak lehetnek, vegye le a sebességet. A nap végén a dombtetők és a tábor felé erősödhet a szitáló eső, így jó vízálló felszereléssel és sárvédővel zárja az utat.",
+            "ro": "Într-o dimineață ploioasă, porniți cu grijă pe străzile ude, folosind biserica ca prim adăpost. Dimineața târziu vă puteți usca la muzeu. La începutul după-amiezii, pedalând spre castele, frunzele și pietrele pot fi foarte alunecoase, deci reduceți viteza. Spre seară, ploaia se poate înteți la tabăra romană, așa că încheiați traseul cu echipament impermeabil bun.",
+            "en": "On a rainy morning, start carefully on the wet streets, using the church as your first shelter. Spend the late morning drying off at the museum. In the early afternoon, cycling towards the castles, leaves and stones can be very slippery, so reduce your speed. Towards the end of the day, the drizzle might intensify near the hilltop camp, so finish the ride with good waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Decken Sie Ihren nassen Sattel vor der Kirche ab; das riesige Kirchenschiff bietet Schutz auch bei plötzlichen starken Schauern.",
+                "hu": "Kösse le a nedves nyerget a templom előtt; a hatalmas hajó védelmet ad a hirtelen lezúduló záporok idején is.",
+                "ro": "Acoperiți șaua udă în fața bisericii; nava uriașă oferă protecție chiar și în timpul averselor bruște.",
+                "en": "Cover your wet saddle in front of the church; the huge nave provides protection even during sudden heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Pays d'Ussel",
+                "hu": "Ussel Vidékének Múzeuma",
+                "ro": "Muzeul Ținutului Ussel",
+                "en": "Ussel Country Museum"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Fahrrad am Eingang und nutzen Sie die warmen, trockenen Räume des Museums, um Ihre Kleidung zu trocknen.",
+                "hu": "A kerékpárt hagyja a bejáratnál, és használja ki a múzeum meleg, száraz termeit a ruházatának megszáradására.",
+                "ro": "Lăsați bicicleta la intrare și folosiți camerele calde și uscate ale muzeului pentru a vă usca hainele.",
+                "en": "Leave your bike at the entrance and use the museum's warm, dry rooms to let your clothes dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Borde",
+                "hu": "Borde Kastély",
+                "ro": "Castelul Borde",
+                "en": "Borde Castle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf Matsch am Eingang; mit einem guten Regenmantel ist das Fotografieren der Außenmauern toll.",
+                "hu": "A kerékpárról leszállva vigyázzon a sárra a bejárat körül; jó esőkabátban a külső falak fotózása esőben is lenyűgöző élmény.",
+                "ro": "Când coborâți de pe bicicletă, atenție la noroi; fotografierea zidurilor exterioare într-o pelerină bună este impresionantă.",
+                "en": "When dismounting your bike, beware of mud around the entrance; photographing the exterior walls in a good raincoat is stunning."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Theil",
+                "hu": "Theil Kastély",
+                "ro": "Castelul Theil",
+                "en": "Theil Castle"
+              },
+              "tip_5lang": {
+                "de": "Bei Regenwetter werden die Waldwege am Schloss sehr rutschig; fahren Sie langsam und bewundern Sie das mystische Nebelbild.",
+                "hu": "Esős időben az erdei utak nagyon csúszóssá válnak a kastély közelében; haladjon lassan, és csodálja meg a misztikus párába burkolt épületet.",
+                "ro": "Pe timp de ploaie, drumurile forestiere devin foarte alunecoase; mergeți încet și admirați clădirea învăluită în ceață mistică.",
+                "en": "In rainy weather, forest roads near the castle become very slippery; ride slowly and admire the building wrapped in mystical mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle des Pénitents",
+                "hu": "Bűnbánók Kápolnája",
+                "ro": "Capela Penitenților",
+                "en": "Chapel of the Penitents"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Kopfsteinpflaster in den engen Gassen zur Kapelle; die Stille drinnen ist ein perfekter Zufluchtsort.",
+                "hu": "A kápolnához vezető szűk utcákon vigyázzon a síkos macskakövekre; a bent uralkodó csend tökéletes menedék az eső elől.",
+                "ro": "Atenție la pietrele cubice alunecoase de pe străduțele spre capelă; liniștea din interior este un refugiu perfect de ploaie.",
+                "en": "Watch out for slippery cobblestones on the narrow streets leading to the chapel; the silence inside is a perfect refuge from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de la Chabanne",
+                "hu": "Chabanne-i Miasszonyunk",
+                "ro": "Notre-Dame de la Chabanne",
+                "en": "Our Lady of the Chabanne"
+              },
+              "tip_5lang": {
+                "de": "Beim Bergaufradeln können Regen und Wind zunehmen; halten Sie nur für Fotos an, wenn Ihr solider Regenmantel Sie gut schützt.",
+                "hu": "Felfelé tekerve az eső és a szél is megerősödhet; csak akkor álljon meg fotózni, ha stabil esőkabátja jól véd az elemektől.",
+                "ro": "Pedalând la deal, ploaia și vântul se pot intensifica; opriți pentru fotografii doar dacă pelerina solidă vă protejează bine de elemente.",
+                "en": "Cycling uphill, the rain and wind can get stronger; only stop for photos if your sturdy raincoat protects you well from the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Oppidum dit du Camp de César",
+                "hu": "César Tábora Oppidum",
+                "ro": "Oppidum Camp de César",
+                "en": "Oppidum of Caesar's Camp"
+              },
+              "tip_5lang": {
+                "de": "Die Grasfläche ist durch Regen aufgeweicht; nähern Sie sich nur mit wasserdichtem Schuhwerk, lassen Sie das Rad auf festem Grund.",
+                "hu": "A füves terület felázik a heves esőzésektől; csak megfelelő vízálló lábbelivel menjen közel, a biciklit hagyja stabil talajon.",
+                "ro": "Zona cu iarbă se îmbibă de la ploile abundente; apropiați-vă doar cu încălțăminte impermeabilă, lăsați bicicleta pe teren solid.",
+                "en": "The grassy area becomes soaked from heavy rains; approach only with proper waterproof footwear, leave the bike on solid ground."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Brechen Sie an einem frostigen Wintermorgen auf und radeln Sie in winddichter Kleidung zur Kirche. Mittags bietet das Museum einen angenehmen Ort zum Aufwärmen. Genießen Sie nachmittags die frostige Landschaft zwischen den Schlössern, aber achten Sie auf Eisglätte. Wegen der frühen Dunkelheit erleben Sie den Sonnenuntergang auf dem Hügel; sorgen Sie für gutes Fahrradlicht!",
+            "hu": "Csípős téli reggelen induljon útnak, réteges és szélálló öltözetben tekerve a belvárosi templomhoz. Dél körül a múzeum nyújt kellemes melegedési lehetőséget a hideg menetszél után. Délután a kastélyok közötti tekerés során élvezze a fagyos tájat, de vigyázzon a jeges foltokra az úton. A korai sötétedés miatt a naplemente már a dombtetőn éri, gondoskodjon a jó kerékpáros világításról!",
+            "ro": "Porniți într-o dimineață de iarnă geroasă, pedalând spre biserică în haine rezistente la vânt. La prânz, muzeul oferă un loc plăcut pentru a vă încălzi. În timpul plimbării de după-amiază printre castele, bucurați-vă de peisajul de iarnă, dar atenție la porțiunile cu gheață. Odată cu lăsarea întunericului devreme, asigurați-vă că aveți lumini bune la bicicletă!",
+            "en": "Set off on a biting winter morning, cycling to the downtown church in layered, windproof clothing. Around noon, the museum offers a pleasant place to warm up from the cold wind. During the afternoon ride between the castles, enjoy the frosty landscape but watch out for icy patches on the road. With early darkness, sunset will catch you on the hilltop; ensure good bike lights!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Die dickwandige Kirche ist ein toller Zufluchtsort vor dem kalten Wind; ziehen Sie trockene Handschuhe an, bevor Sie sich auf den frostigen Sattel schwingen.",
+                "hu": "A hideg szél elől remek beugró a vastag falú templom; húzzon száraz kesztyűt, mielőtt a fagyos nyeregbe pattan újra.",
+                "ro": "Biserica cu ziduri groase este un refugiu excelent din calea vântului rece; puneți-vă mănuși uscate înainte de a urca iar pe șaua înghețată.",
+                "en": "The thick-walled church is a great refuge from the cold wind; put on dry gloves before hopping back on the frosty saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Pays d'Ussel",
+                "hu": "Ussel Vidékének Múzeuma",
+                "ro": "Muzeul Ținutului Ussel",
+                "en": "Ussel Country Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauen Sie Ihre gefrorenen Glieder im beheizten Museum auf; während der Ausstellung können auch die unteren Schichten Ihrer Radkleidung lüften.",
+                "hu": "Fagyott végtagjait a fűtött múzeumban indíthatja újra; a kiállítások alatt a kerékpáros öltözet alsóbb rétegei is átszellőznek.",
+                "ro": "Dezghețați-vă membrele în muzeul încălzit; pe durata expozițiilor, straturile inferioare ale echipamentului de ciclism se vor aerisi.",
+                "en": "Thaw your frozen limbs in the heated museum; during the exhibitions, the lower layers of your cycling gear will also air out."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Borde",
+                "hu": "Borde Kastély",
+                "ro": "Castelul Borde",
+                "en": "Borde Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zum Schloss kann eisig sein; das Treten wärmt, aber beim Halt kühlen Sie schnell aus, tragen Sie dicke Handschuhe.",
+                "hu": "A kastélyhoz vezető út jeges lehet; a pedálozás felmelegíti, de a megállónál hamar kihűlhet, húzzon vastag kesztyűt.",
+                "ro": "Drumul spre castel poate fi înghețat; pedalatul vă încălzește, dar la oprire vă puteți răci rapid, purtați mănuși groase.",
+                "en": "The road to the castle can be icy; pedaling keeps you warm, but you can cool down quickly at the stop, so wear thick gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Theil",
+                "hu": "Theil Kastély",
+                "ro": "Castelul Theil",
+                "en": "Theil Castle"
+              },
+              "tip_5lang": {
+                "de": "Raureifbäume bilden einen schönen Rahmen; auf den letzten Kilometern kann der Eiswind zunehmen, schließen Sie die Jacke gut.",
+                "hu": "A zúzmarás fák gyönyörű keretet adnak a kastélynak; az utolsó kilométereken erősödhet a metsző szél, zárja jól a kabátját.",
+                "ro": "Copacii brumați oferă un cadru superb; vântul tăios se poate intensifica pe ultimii kilometri, închideți bine geaca.",
+                "en": "Frosted trees provide a beautiful frame for the castle; the biting wind can intensify in the last kilometers, zip your jacket tight."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle des Pénitents",
+                "hu": "Bűnbánók Kápolnája",
+                "ro": "Capela Penitenților",
+                "en": "Chapel of the Penitents"
+              },
+              "tip_5lang": {
+                "de": "Wenn Sie absteigen, könnten Sie durch mangelnde Bewegung schnell frieren; im geschlossenen Raum der Kapelle wärmen Sie sich leicht auf.",
+                "hu": "A kerékpárról leszállva a mozgás hiánya miatt hamar rázkódhat a hidegtől; a kápolna zárt terében könnyen felmelegszik majd.",
+                "ro": "Coborând de pe bicicletă, s-ar putea să tremurați repede de frig din cauza lipsei de mișcare; vă veți încălzi ușor în spațiul închis al capelei.",
+                "en": "Dismounting the bike, you may soon shiver from the cold due to lack of movement; you'll easily warm up in the chapel's enclosed space."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de la Chabanne",
+                "hu": "Chabanne-i Miasszonyunk",
+                "ro": "Notre-Dame de la Chabanne",
+                "en": "Our Lady of the Chabanne"
+              },
+              "tip_5lang": {
+                "de": "Die klirrende Kälte und frühe Dunkelheit auf dem Hügel fordern Sie heraus; stellen Sie sicher, dass Ihre Fahrradlichter voll aufgeladen sind!",
+                "hu": "A dombtetőn a metsző hideg és a korai sötétedés próbára tesz; győződjön meg róla, hogy a kerékpár lámpái fel vannak töltve!",
+                "ro": "Frigul tăios și întunericul timpuriu de pe deal vă vor pune la încercare; asigurați-vă că luminile bicicletei sunt complet încărcate!",
+                "en": "The biting cold and early darkness on the hilltop will test you; make sure your bike lights are fully charged!"
+              }
+            },
+            {
+              "name": {
+                "de": "Oppidum dit du Camp de César",
+                "hu": "César Tábora Oppidum",
+                "ro": "Oppidum Camp de César",
+                "en": "Oppidum of Caesar's Camp"
+              },
+              "tip_5lang": {
+                "de": "Im offenen Gelände schützt nichts vor dem kalten Winterwind; die Aussicht ist herrlich, aber es wird schnell dunkel für den Rückweg.",
+                "hu": "A nyílt terepen télen semmi sem véd a hideg széltől; a kilátás a kora esti napfényben csodás, de hamar sötétedik a visszaútra.",
+                "ro": "În câmp deschis, nimic nu vă protejează de vântul de iarnă; priveliștea e superbă, dar se întunecă repede pentru drumul de întoarcere.",
+                "en": "In the open field, nothing protects you from the cold winter wind; the view is gorgeous in the late afternoon sun, but it gets dark quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Egy autós túra Ussel körül lehetővé teszi a régió minden kincsének felfedezését. Kezdje az északi Borde és Theil kastélyoknál. Délben fedezze fel az óvárost, a templomot és a múzeumot. Délután utazzon el a Château de la Diège-hez, majd fejezze be a túrát a déli gall-római romoknál.",
         "ro": "O plimbare cu mașina în jurul Ussel vă permite să vedeți toate comorile regiunii. Începeți la castelele nordice Borde și Theil. La prânz, explorați orașul vechi, biserica și muzeul. Conduceți după-amiaza la Château de la Diège și încheiați turul la ruinele galo-romane din sudul orașului.",
         "en": "A scenic drive around Ussel allows you to see all the region's hidden treasures. Start at the northern Borde and Theil castles. At midday, explore the old town's church and museum. Drive to Château de la Diège in the afternoon and finish the tour at the Gallo-Roman ruins in the deep south."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bei morgendlichem Regen zu den Schlössern, die auch vom Auto aus toll aussehen. Mittags bietet die Innenstadt mit Kirche und Museum perfekte, regengeschützte Aktivitäten nah beieinander. Fahren Sie nachmittags vorsichtig zum Schloss Diège auf nassen, blätterbedeckten Straßen. Bleiben Sie am frühen Abend bei den Sehenswürdigkeiten auf dem Hügel in der Nähe Ihres Autos, um im Trockenen zu bleiben.",
+            "hu": "A reggeli szakadó esőben induljon a kastélyokhoz, az autóból is nagyszerű látványt nyújtanak. Délben térjen be a belvárosba; a templom és a múzeum tökéletes, esőtől védett programot kínálnak egymás közelében. A délutáni órákban vezessen óvatosan a Diège kastélyhoz a vizes, faleveles utakon. Kora este, a dombtetőn álló látványosságokhoz felérve maradjon a jármű közelében, hogy bármikor behúzódhasson a száraz utastérbe.",
+            "ro": "În ploaia de dimineață, conduceți spre castele, care oferă priveliști grozave chiar și din mașină. La prânz, mergeți în centru; biserica și muzeul oferă activități perfecte, protejate de ploaie, una lângă alta. După-amiaza, conduceți cu grijă spre Castelul Diège pe drumurile ude. Spre seară, la obiectivele de pe deal, rămâneți aproape de vehicul pentru a vă putea retrage oricând în habitaclul uscat.",
+            "en": "In the morning downpour, drive to the castles which offer great views even from the car. At noon, head downtown; the church and the museum provide perfect, rain-protected activities close to each other. In the afternoon, drive carefully to Diège Castle on the wet, leaf-strewn roads. By early evening, when reaching the hilltop sights, stay close to your vehicle so you can retreat to the dry cabin anytime."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de la Borde",
+                "hu": "Borde Kastély",
+                "ro": "Castelul Borde",
+                "en": "Borde Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig im aufgeweichten Hof; die dunklen Töne der nassen Steinmauern sind im Regen atemberaubend für ein Foto.",
+                "hu": "A felázott udvaron óvatosan parkoljon; pattanjon ki egy fotóra, a vizes kőfalak sötét tónusai lenyűgözőek esőben.",
+                "ro": "Parcați cu grijă în curtea udă; coborâți pentru o fotografie, tonurile întunecate ale zidurilor umede sunt uimitoare în ploaie.",
+                "en": "Park carefully in the soaked courtyard; hop out for a photo, the dark tones of the wet stone walls are stunning in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Theil",
+                "hu": "Theil Kastély",
+                "ro": "Castelul Theil",
+                "en": "Theil Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam wegen Pfützen auf der Zufahrtsstraße; die nasse Fassade sieht toll aus, auch vom Autofenster aus.",
+                "hu": "A bekötőúton felgyülemlett tócsák miatt hajtson lassan; a vizes homlokzat remekül mutat, akár az ablakból is megcsodálhatja.",
+                "ro": "Conduceți încet din cauza bălților pe drumul de acces; fațada umedă arată excelent și o puteți admira chiar și pe geam.",
+                "en": "Drive slowly due to puddles on the access road; the wet facade looks great, and you can even admire it from the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und huschen Sie ins trockene Innere; die Buntglasfenster sind auch im trüben Regenlicht wunderschön.",
+                "hu": "Parkoljon le a közelben és rohanjon be a fedett, száraz belső térbe; az ólomüveg ablakok tompa esős fényben is csodásak.",
+                "ro": "Parcați în apropiere și fugiți în interiorul uscat; vitraliile sunt frumoase chiar și în lumina palidă a ploii.",
+                "en": "Park nearby and dash into the covered, dry interior; the stained glass windows are beautiful even in the dull rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Pays d'Ussel",
+                "hu": "Ussel Vidékének Múzeuma",
+                "ro": "Muzeul Ținutului Ussel",
+                "en": "Ussel Country Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein perfekter Schutz vor Schauern; Sie können entspannt verweilen, bis sich das Wetter draußen beruhigt.",
+                "hu": "A záporok elől tökéletes menedék a múzeum; a kiállításokon kényelmesen elidőzhet, amíg kint csendesedik az idő.",
+                "ro": "Muzeul este un adăpost perfect împotriva averselor; vă puteți relaxa în expoziții până când vremea se liniștește afară.",
+                "en": "The museum is a perfect shelter from downpours; you can comfortably linger in the exhibitions until the weather clears outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Diège",
+                "hu": "Diège Kastély",
+                "ro": "Castelul de la Diège",
+                "en": "Diège Castle"
+              },
+              "tip_5lang": {
+                "de": "Manövrieren Sie vorsichtig auf der schlammigen Zufahrt; nehmen Sie einen Regenschirm für den kurzen Spaziergang zu den überdachten Bereichen.",
+                "hu": "Óvatosan manőverezzen a saras bekötőúton; a rövid séta erejéig vigyen esernyőt, hogy a fedett részeket is szárazon elérje.",
+                "ro": "Manevrați cu grijă pe drumul noroios de acces; luați o umbrelă pentru scurta plimbare, pentru a ajunge uscați în zonele acoperite.",
+                "en": "Maneuver carefully on the muddy access road; bring an umbrella for a short walk so you can reach the covered areas dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de la Chabanne",
+                "hu": "Chabanne-i Miasszonyunk",
+                "ro": "Notre-Dame de la Chabanne",
+                "en": "Our Lady of the Chabanne"
+              },
+              "tip_5lang": {
+                "de": "Auf dem Hügel können starker Seitenwind und Regen warten; verlassen Sie das Auto nur für ein schnelles Foto vom Panorama.",
+                "hu": "A dombtetőn erős oldalszél és eső várhatja; csak egy gyors fotó erejéig hagyja el a járművet a panoráma mellett.",
+                "ro": "Pe deal vă pot aștepta vânturi laterale și ploaie; părăsiți vehiculul doar pentru o fotografie rapidă lângă panoramă.",
+                "en": "Strong crosswinds and rain may await you on the hilltop; only leave the vehicle for a quick photo next to the panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Oppidum dit du Camp de César",
+                "hu": "César Tábora Oppidum",
+                "ro": "Oppidum Camp de César",
+                "en": "Oppidum of Caesar's Camp"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nicht auf aufgeweichte Grasflächen, bleiben Sie auf Asphalt; genießen Sie die wilde Atmosphäre der regnerischen Landschaft vom Auto aus.",
+                "hu": "Ne hajtson be a felázott füves részekre, maradjon az aszfalton; a szürke esős táj vadregényes hangulatát az autóból élvezze.",
+                "ro": "Nu conduceți pe zonele cu iarbă udă, rămâneți pe asfalt; bucurați-vă de atmosfera sălbatică a peisajului gri ploios din mașină.",
+                "en": "Do not drive onto the soaked grassy areas, stay on the asphalt; enjoy the wild atmosphere of the gray rainy landscape from the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Steigen Sie an einem kalten Wintermorgen ins beheizte Auto und bewundern Sie die frostigen Schlösser. Mittags sind das beheizte Museum und die Kirche im Zentrum ideale Zufluchtsorte vor der Kälte. Achten Sie nachmittags auf vereiste Stellen auf dem Weg zum Schloss Diège. Wegen der kurzen Wintertage erleben Sie beim Oppidum und der Kapelle bereits das Abendlicht; fahren Sie im Dunkeln vorsichtig zurück.",
+            "hu": "A hideg téli reggelen pattanjon be a fűtött autóba, és csodálja meg a fagyos kastélyokat. Délben a belváros fűtött múzeuma és a templom ideális menedék a kinti zimankó elől. Délután a Diège kastélyhoz vezető úton óvakodjon a lefagyott útszakaszoktól. A téli napok rövidsége miatt az oppidumhoz és a kápolnához érve már a lenyugvó nap fényeiben gyönyörködhet, de legyen óvatos a sötétedő hazaúton.",
+            "ro": "Săriți în mașina încălzită într-o dimineață rece și admirați castelele înghețate. La prânz, muzeul încălzit și biserica din centru sunt refugii ideale din calea gerului de afară. După-amiaza, atenție la poleiul de pe drumul spre Castelul Diège. Datorită zilelor scurte, când ajungeți la oppidum și capelă, veți vedea lumina apusului; conduceți cu prudență pe drumul de întoarcere în întuneric.",
+            "en": "Jump into the heated car on a cold winter morning and admire the frosty castles. At noon, the heated museum and the church in the city center are ideal refuges from the chilly weather outside. In the afternoon, watch out for icy patches on the road to Diège Castle. Due to the short winter days, by the time you reach the oppidum and chapel, you will see the setting sun's light; be careful driving back in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de la Borde",
+                "hu": "Borde Kastély",
+                "ro": "Castelul Borde",
+                "en": "Borde Castle"
+              },
+              "tip_5lang": {
+                "de": "Die eisigen Mauern des Schlosses sind beim Aussteigen aus dem warmen Auto atemberaubend; Raureifbäume bieten ein tolles Fotomotiv.",
+                "hu": "A fűtött kocsiból kiszállva a kastély jeges falai lenyűgözőek; a zúzmarás fák remek fotótémát adnak a hideg reggelen.",
+                "ro": "Coborând din mașina încălzită, zidurile de gheață sunt uimitoare; copacii brumați sunt un subiect foto excelent într-o dimineață rece.",
+                "en": "Stepping out of the heated car, the icy walls of the castle are stunning; the frosted trees make a great photo subject on a cold morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Theil",
+                "hu": "Theil Kastély",
+                "ro": "Castelul Theil",
+                "en": "Theil Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie wegen der winterlichen Straßenverhältnisse langsam zum Schloss; tragen Sie beim kurzen Halt einen dicken Mantel gegen den Wind.",
+                "hu": "A téli útviszonyok miatt vezessen lassan a kastély felé; a rövid megállónál érdemes vastag kabátot húzni a metsző szélben.",
+                "ro": "Conduceți încet spre castel din cauza condițiilor de iarnă; la oprirea scurtă, purtați o haină groasă împotriva vântului tăios.",
+                "en": "Drive slowly towards the castle due to winter road conditions; during the short stop, wear a thick coat against the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf den eisigen Straßen und gehen Sie vorsichtig zur Kirche; Mütze und Schal spenden wohlige Wärme zwischen den kalten Mauern.",
+                "hu": "A belváros jeges utcáin parkolva óvatosan lépkedjen a templomig; a hűvös kőfalak között a sapka és sál jóleső melegséget ad.",
+                "ro": "Parcând pe străzile înghețate din centru, mergeți cu grijă la biserică; o căciulă și un fular oferă căldură între pereții reci.",
+                "en": "Parking on the icy downtown streets, walk carefully to the church; a hat and scarf provide comforting warmth among the cool stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Pays d'Ussel",
+                "hu": "Ussel Vidékének Múzeuma",
+                "ro": "Muzeul Ținutului Ussel",
+                "en": "Ussel Country Museum"
+              },
+              "tip_5lang": {
+                "de": "Nach einem frostigen Spaziergang sind die Ausstellungsräume ideal zum Aufwärmen; lassen Sie Ihre Mäntel für die Führung an der Garderobe.",
+                "hu": "Egy fagyos séta után a kiállítótermek tökéletesek egy kiadós felmelegedésre; a kabátokat érdemes a ruhatárban hagyni a tárlatvezetésre.",
+                "ro": "După o plimbare geroasă, sălile de expoziție sunt perfecte pentru o încălzire serioasă; lăsați hainele la garderobă.",
+                "en": "After a frosty walk, the exhibition halls are perfect for a thorough warm-up; leave your coats in the cloakroom for the guided tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Diège",
+                "hu": "Diège Kastély",
+                "ro": "Castelul de la Diège",
+                "en": "Diège Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Silhouette des Gebäudes ist in der kargen Winterlandschaft besonders schön; parken Sie sicher auf dem eisigen Parkplatz.",
+                "hu": "A kopár téli tájban az épület sziluettje különösen szép; a jeges parkolóban álljon meg biztosan, mielőtt gyalogosan körbejárná.",
+                "ro": "Silueta clădirii e deosebit de frumoasă în peisajul pustiu de iarnă; parcați în siguranță în parcarea înghețată înainte de a merge pe jos.",
+                "en": "The building's silhouette is especially beautiful in the barren winter landscape; park securely in the icy lot before walking around."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de la Chabanne",
+                "hu": "Chabanne-i Miasszonyunk",
+                "ro": "Notre-Dame de la Chabanne",
+                "en": "Our Lady of the Chabanne"
+              },
+              "tip_5lang": {
+                "de": "Auf dem Hügel beginnt der winterliche Sonnenuntergang sehr früh gegen 17:00 Uhr; genießen Sie die Aussicht aus dem warmen Auto, wenn der Wind zu stark ist.",
+                "hu": "A dombtetőn a naplemente télen nagyon korán, 17 óra körül érkezik; élvezze a fűtött utastérből a kilátást, ha a szél túl erős lenne kint.",
+                "ro": "Pe deal, apusul de iarnă sosește foarte devreme, pe la 17:00; bucurați-vă de priveliște din habitaclul încălzit dacă vântul e prea puternic afară.",
+                "en": "On the hilltop, winter sunset arrives very early, around 17:00; enjoy the view from the heated cabin if the wind is too strong outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Oppidum dit du Camp de César",
+                "hu": "César Tábora Oppidum",
+                "ro": "Oppidum Camp de César",
+                "en": "Oppidum of Caesar's Camp"
+              },
+              "tip_5lang": {
+                "de": "Nach Einbruch der Dunkelheit ist das Oppidum auf dem gefrorenen Boden schwer zugänglich; kommen Sie im Hellen und fahren Sie vorsichtig auf unbeleuchteten Straßen zurück.",
+                "hu": "A sötétedés után az oppidum nehezen járható a fagyos földön; érkezzen még világosban, és utána óvatosan induljon a kivilágítatlan utakon.",
+                "ro": "După lăsarea întunericului, oppidumul este greu de parcurs pe pământul înghețat; ajungeți pe lumină, apoi conduceți cu grijă pe drumurile neiluminate.",
+                "en": "After dark, the oppidum is hard to navigate on the frozen ground; arrive while it's light, and then drive carefully on the unlit roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

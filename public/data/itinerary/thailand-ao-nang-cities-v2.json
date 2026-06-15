@@ -160,6 +160,196 @@
         "hu": "A nap a frissítő tengeri szellővel indul, miközben a központi strandokat és üdülőket felfedezve átadhatja magát a trópusi hangulatnak.\nA nap előrehaladtával belevetjük magunkat a nyüzsgő kulturális utcákba és a helyi piacokra, ahol bepillantást nyerhetünk a valódi közösségi életbe.\nA délutánt a festői sétáknak és eldugott természeti csodáknak szenteljük.\nAz alkonyat közeledtével az eldugott partok nyújtanak megnyugtató és lenyűgöző befejezést a napnak.",
         "ro": "Ziua începe cu briza răcoroasă a mării, explorând plajele centrale și complexurile turistice, care creează imediat o atmosferă tropicală relaxantă.\nLa prânz, vă veți aventura pe străzile culturale aglomerate și prin piețele locale, descoperind viața autentică a comunității din zonă.\nDupă-amiaza este dedicată plimbărilor pitorești și peisajelor naturale retrase.\nPe măsură ce se lasă seara, țărmurile izolate oferă o încheiere delicioasă și relaxantă a zilei.",
         "en": "The day begins with the refreshing coastal breeze as you explore the central resort and beach areas, setting a relaxed tropical tone.\nAs the sun climbs, you will venture into the bustling cultural streets and local markets, offering a taste of authentic community life.\nThe afternoon is dedicated to scenic strolls and secluded natural spots, allowing you to fully appreciate the region's dramatic beauty.\nAs twilight descends, the tranquil secluded beaches provide a calming and thrilling conclusion to the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt gemütlich im Resort, während der tropische Regen gegen die Scheiben trommelt. Mittags suchen wir Schutz in den überdachten Passagen der Nine Avenue. Am Nachmittag bewundern wir die mystische Atmosphäre der Moschee im Nebel. Den Abschluss bildet ein dramatischer Blick auf die aufgewühlte See, geschützt durch gute Regenkleidung.",
+            "hu": "A reggel a resort kényelmében indul, miközben a trópusi eső dobol a tetőkön. Délben a Nine Avenue fedett folyosóin találunk menedéket a zivatar elől. Délután a mecset látványa egészen misztikus a párás ködben, végül a tengerparton csodáljuk meg az elemek erejét egy jó esőkabátban.",
+            "ro": "Ziua începe relaxat în resort, în timp ce ploaia tropicală bate în geamuri. La prânz căutăm adăpost în pasajele acoperite de pe Nine Avenue. După-amiaza, moscheea oferă o priveliște mistică prin ceață, iar seara se încheie pe malul mării, admirând forța naturii protejați de o pelerină bună.",
+            "en": "The day starts comfortably at the resort as tropical rain drums on the roof. At noon, we find shelter in the covered passages of Nine Avenue. In the afternoon, the mosque looks mystical through the misty rain, and the day ends at the beach, admiring the power of the waves in a good raincoat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Nang Beach Resort",
+                "hu": "Ao Nang Beach Resort",
+                "ro": "Ao Nang Beach Resort",
+                "en": "Ao Nang Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick vom Balkon; ein stabiler Regenschirm ist für den kurzen Weg zur Rezeption bei tropischen Güssen unerlässlich.",
+                "hu": "Élvezze a kilátást a fedett erkélyről; egy erős esernyő elengedhetetlen a recepcióig tartó rövid sétához a trópusi felhőszakadásban.",
+                "ro": "Bucurați-vă de priveliște de pe balcon; o umbrelă rezistentă este esențială pentru scurta plimbare spre recepție în timpul averselor.",
+                "en": "Enjoy the view from your balcony; a sturdy umbrella is essential for the short walk to the reception during heavy tropical downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Nang Strand",
+                "hu": "Ao Nang part",
+                "ro": "Plaja Ao Nang",
+                "en": "Ao Nang Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Kalksteinfelsen wirken im Regen besonders dramatisch; nutzen Sie wasserfeste Hüllen für Ihre Elektronik beim Fotografieren am Ufer.",
+                "hu": "A sziklák drámai látványt nyújtanak az esőben; használjon vízálló tokot a telefonjához, ha a ködös partot fotózza a sétányról.",
+                "ro": "Stâncile par dramatice în ploaie; folosiți huse impermeabile pentru electronice când fotografiați malul mării prin ceața densă.",
+                "en": "The limestone cliffs look dramatic in the rain; use waterproof cases for your electronics when filming the misty shoreline from the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Blüe Moüntain Market",
+                "hu": "Blüe Moüntain Market",
+                "ro": "Blüe Moüntain Market",
+                "en": "Blüe Moüntain Market"
+              },
+              "tip_5lang": {
+                "de": "Stöbern Sie unter den großen Markisen nach lokalen Schätzen; achten Sie auf spritzendes Wasser von vorbeifahrenden Fahrzeugen auf der nassen Straße.",
+                "hu": "Válogasson a helyi portékák között a nagy ponyvák alatt; vigyázzon az úttest melletti tócsákra és az elhaladó járművek által felcsapott vízre.",
+                "ro": "Căutați suveniruri sub copertinele mari; aveți grijă la apa împroșcată de vehiculele care trec pe șoseaua udă de lângă piață.",
+                "en": "Browse for local treasures under the large awnings; watch out for splashes from passing vehicles on the wet road next to the stalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Nine Avenue",
+                "hu": "Nine Avenue",
+                "ro": "Nine Avenue",
+                "en": "Nine Avenue"
+              },
+              "tip_5lang": {
+                "de": "Diese Passage bietet perfekten Schutz vor Monsunschauern; genießen Sie einen warmen Tee, während Sie das Ende des schwersten Regens abwarten.",
+                "hu": "Ez a passzázs tökéletes menedék a monszun elől; igyon meg egy meleg teát, amíg megvárja a leghevesebb felhőszakadás végét.",
+                "ro": "Acest pasaj oferă adăpostul perfect împotriva musonului; savurați un ceai cald în timp ce așteptați să treacă cea mai grea ploaie.",
+                "en": "This passage offers perfect shelter from the monsoon; enjoy a warm tea while waiting for the heaviest part of the downpour to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Aonang Al-Munuawarah",
+                "hu": "Masjid Aonang Al-Munuawarah",
+                "ro": "Masjid Aonang Al-Munuawarah",
+                "en": "Masjid Aonang Al-Munuawarah"
+              },
+              "tip_5lang": {
+                "de": "Die goldenen Kuppeln glänzen herrlich im nassen Licht; bitte ziehen Sie Ihre nassen Schuhe vor dem Betreten der trockenen Gebetshalle aus.",
+                "hu": "Az arany kupolák csodásan fénylenek az esőben; kérjük, vegye le a vizes cipőjét, mielőtt belépne a száraz és fedett imaterembe.",
+                "ro": "Cupolele aurii strălucesc frumos în lumina ploioasă; vă rugăm să vă descălțați de încălțămintea udă înainte de a intra în holul uscat.",
+                "en": "The golden domes shine beautifully in the wet light; please remove your wet shoes before entering the dry, sheltered prayer hall area."
+              }
+            },
+            {
+              "name": {
+                "de": "Phai Plong Strand",
+                "hu": "Phai Plong part",
+                "ro": "Plaja Phai Plong",
+                "en": "Phai Plong Beach"
+              },
+              "tip_5lang": {
+                "de": "Der 'Monkey Trail' ist bei Nässe sehr rutschig; halten Sie sich am Geländer fest und tragen Sie Schuhe mit sehr gutem Profil.",
+                "hu": "A 'Majom-ösvény' nagyon csúszós lehet eső után; kapaszkodjon erősen a korlátba, és viseljen jó tapadású, zárt cipőt a sétához.",
+                "ro": "Poteca 'Monkey Trail' este foarte alunecoasă când este udă; țineți-vă bine de balustradă și purtați pantofi cu talpă aderentă.",
+                "en": "The 'Monkey Trail' is very slippery when wet; hold onto the railings firmly and wear shoes with good grip for the coastal walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Brise des thailändischen Winters macht den morgendlichen Spaziergang am Strand ideal. Mittags genießen wir die Märkte ohne die drückende Hitze. Die Moschee erstrahlt im klaren Winterlicht, bevor wir frühzeitig vor dem Sonnenuntergang um 17:00 Uhr die versteckte Bucht von Phai Plong erreichen.",
+            "hu": "A thaiföldi tél hűvös szellője ideálissá teszi a reggeli tengerparti sétát. Napközben a piacokat a fojtogató hőség nélkül élvezhetjük. A mecset ragyog a tiszta téli fényben, végül a korai, 17 órai naplemente előtt érünk el a Phai Plong part rejtett öblébe.",
+            "ro": "Briza răcoroasă a iernii thailandeze face plimbarea de dimineață pe plajă ideală. La prânz explorăm piețele fără căldura sufocantă. Moscheea strălucește în lumina clară, iar ziua se încheie devreme, înainte de apusul de la ora 17:00, în golful Phai Plong.",
+            "en": "The cool breeze of the Thai winter makes the morning beach walk ideal. During the day, we enjoy the markets without the sweltering heat. The mosque glows in the clear winter light, and we reach Phai Plong beach early, before the 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Nang Beach Resort",
+                "hu": "Ao Nang Beach Resort",
+                "ro": "Ao Nang Beach Resort",
+                "en": "Ao Nang Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit der frischen Morgenbrise; die geringere Luftfeuchtigkeit macht den Weg durch den Hotelgarten wesentlich angenehmer.",
+                "hu": "Indítsa a napot a friss reggeli szellőben; az alacsonyabb páratartalom miatt a kerti séta sokkal kellemesebb, mint nyáron.",
+                "ro": "Începeți ziua cu briza proaspătă de dimineață; umiditatea scăzută face plimbarea prin grădina hotelului mult mai plăcută.",
+                "en": "Start your day with the fresh morning breeze; the lower humidity makes the walk through the resort gardens much more pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Nang Strand",
+                "hu": "Ao Nang part",
+                "ro": "Plaja Ao Nang",
+                "en": "Ao Nang Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Temperaturen für einen langen Strandspaziergang; beachten Sie jedoch, dass die Sonne im Winter bereits kurz nach 17 Uhr untergeht.",
+                "hu": "Tökéletes az idő egy hosszú parti sétához; ne feledje, hogy télen a nap már délután öt után gyorsan lebukik a horizont alá.",
+                "ro": "Temperaturi perfecte pentru o plimbare lungă pe nisip; rețineți că soarele apune rapid după ora 17:00 în timpul iernii.",
+                "en": "Perfect temperatures for a long stroll on the sand; remember that the sun sets quickly after 5 PM during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Blüe Moüntain Market",
+                "hu": "Blüe Moüntain Market",
+                "ro": "Blüe Moüntain Market",
+                "en": "Blüe Moüntain Market"
+              },
+              "tip_5lang": {
+                "de": "Stöbern Sie ohne die übliche tropische Hitze; ein leichtes Leinenhemd bietet idealen Schutz gegen den milden, stetigen Winterwind.",
+                "hu": "Válogasson a standok között a fojtogató hőség nélkül; egy könnyű vászoning épp elég védelmet nyújt a lágy téli szél ellen.",
+                "ro": "Explorați piața fără căldura tropicală obișnuită; o cămașă ușoară de in oferă protecție ideală împotriva vântului blând de iarnă.",
+                "en": "Browse the stalls without the usual tropical heat; a light linen shirt provides ideal protection against the mild winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Nine Avenue",
+                "hu": "Nine Avenue",
+                "ro": "Nine Avenue",
+                "en": "Nine Avenue"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die natürliche Belüftung der offenen Architektur; die Wintersonne ist hell, daher ist eine gute Sonnenbrille beim Shoppen ratsam.",
+                "hu": "Élvezze a nyitott építészet természetes szellőzését; a téli nap élesen tűz, ezért érdemes napszemüveget viselni a nézelődés közben.",
+                "ro": "Bucurați-vă de ventilația naturală a arhitecturii deschise; soarele de iarnă este puternic, deci ochelarii de soare sunt recomandați.",
+                "en": "Enjoy the natural ventilation of the open architecture; the winter sun is bright, so quality sunglasses are recommended while shopping."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Aonang Al-Munuawarah",
+                "hu": "Masjid Aonang Al-Munuawarah",
+                "ro": "Masjid Aonang Al-Munuawarah",
+                "en": "Masjid Aonang Al-Munuawarah"
+              },
+              "tip_5lang": {
+                "de": "Das klare Licht hebt die feinen Details hervor; der Marmorboden ist im Winter angenehm kühl, aber nicht heiß für Ihre nackten Füße.",
+                "hu": "A tiszta fény kiemeli az épület apró részleteit; a márványpadló télen kellemesen hűvös, nem égeti a talpat a látogatás során.",
+                "ro": "Lumina clară evidențiază detaliile fine; podeaua de marmură este plăcut de răcoroasă iarna, nu fierbinte pentru picioarele goale.",
+                "en": "The clear light highlights the intricate details; the marble floor is pleasantly cool in winter, not hot for your bare feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Phai Plong Strand",
+                "hu": "Phai Plong part",
+                "ro": "Plaja Phai Plong",
+                "en": "Phai Plong Beach"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie bis 16 Uhr an, um die letzten Sonnenstrahlen zu genießen; die Klippen werfen früh lange Schatten und kühlen die Bucht ab.",
+                "hu": "Érkezzen meg délután 4-ig, hogy élvezze az utolsó napsugarakat; a sziklák árnyéka miatt az öböl hamar lehűl a naplemente előtt.",
+                "ro": "Ajungeți până la ora 16:00 pentru ultimele raze de soare; stâncile lasă umbre lungi devreme, răcorind golful înainte de înserare.",
+                "en": "Arrive by 4 PM to enjoy the last rays of sun; the cliffs cast long shadows early, making the beach cooler well before sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kerékpártúrája a trópusi természet lágy ölén indul, ahol mélyeket lélegezhet a régió buja, nyugodt atmoszférájából.\nAz út a nyüzsgő strandok és kulturális központok felé visz, így a nap dinamikus és változatos élményeket ígér.\nA délutáni tekerés a festői tengerparton vezet végig, ahonnan megcsodálhatja a mészkőszigetek békés szépségét.\nA nap méltó lezárásaként belevetheti magát a helyi piacok forgatagába, ahol ínycsiklandó illatok várják.",
         "ro": "Plimbarea cu bicicleta începe în inima naturii tropicale, unde veți inspira atmosfera luxuriantă și liniștită a regiunii.\nTraseul continuă spre plaje și repere culturale, garantând o zi dinamică și plină de experiențe diverse.\nDupă-amiaza veți pedala pe o coastă pitorească, bucurându-vă de frumusețea pașnică a insulelor de calcar.\nLa finalul zilei, vă așteaptă agitația colorată a piețelor locale, unde aromele delicioase vă vor cuceri simțurile.",
         "en": "Your cycling adventure starts surrounded by tropical nature, allowing you to breathe in the region's lush and calm atmosphere.\nThe ride swiftly moves toward vibrant beaches and cultural landmarks, ensuring a dynamic and highly varied daytime route.\nIn the afternoon, you will gently roll along the scenic coastline, taking in the peaceful beauty of the limestone islands.\nAs the ride ends, the bustling local night market awaits, greeting you with delicious aromas and a lively atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Waldwegen bei Khao Khlong Haeng. Mittags nutzen wir die Küstenstraße, wo der Wind den Poncho flattern lässt. Die Moscheen bieten ruhige Haltepunkte zum Trocknen. Den Abend verbringen wir auf dem Nachtmarkt unter den großen Planen der Garküchen.",
+            "hu": "A bringázás az esőben óvatosságot igényel a Khao Khlong Haeng erdei útjain. Délben a parti úton a szél meglobogtatja az esőköpenyt. A mecsetek nyugodt menedéket nyújtanak egy kis száradáshoz. Az estét a helyi éjszakai piacon töltjük a kifőzdék nagy ponyvái alatt.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile de pădure de la Khao Khlong Haeng. La prânz, vântul flutură pelerina pe drumul de coastă. Moscheile oferă puncte de oprire liniștite pentru a ne usca. Seara o petrecem la piața de noapte sub prelatele mari ale tarabelor.",
+            "en": "Cycling in the rain requires caution on the forest paths of Khao Khlong Haeng. At noon, the wind whips your poncho on the coastal road. The mosques provide quiet stops to dry off. We spend the evening at the night market under the large awnings of the food stalls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Khao Khlong Haeng",
+                "hu": "Khao Khlong Haeng",
+                "ro": "Khao Khlong Haeng",
+                "en": "Khao Khlong Haeng"
+              },
+              "tip_5lang": {
+                "de": "Der Dschungel leuchtet im Regen intensiv grün; fahren Sie langsam auf den schlammigen Wegen und achten Sie auf rutschige Baumwurzeln.",
+                "hu": "A dzsungel intenzív zöldbe borul az esőben; tekerjen lassan a sáros utakon, és ügyeljen a csúszós gyökerekre az ösvényeken.",
+                "ro": "Jungla devine de un verde intens pe ploaie; pedalați încet pe potecile noroioase și aveți grijă la rădăcinile alunecoase de copac.",
+                "en": "The jungle turns intensely green in the rain; cycle slowly on the muddy paths and watch out for slippery tree roots along the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Aonang Al-Munuawarah",
+                "hu": "Masjid Aonang Al-Munuawarah",
+                "ro": "Masjid Aonang Al-Munuawarah",
+                "en": "Masjid Aonang Al-Munuawarah"
+              },
+              "tip_5lang": {
+                "de": "Ein majestätischer Halt, der schnellen Schutz bietet; prüfen Sie Ihre Bremsen für die nasse Abfahrt von der Hauptstraße.",
+                "hu": "Fenséges megálló, amely gyors menedéket nyújt; ellenőrizze a fékeket a főútról való vizes és csúszós leereszkedés előtt.",
+                "ro": "O oprire maiestuoasă care oferă adăpost rapid; verificați frânele pentru coborârea umedă de pe drumul principal.",
+                "en": "A majestic stop providing quick shelter; ensure your bike brakes are well-adjusted for the wet descent from the main road."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Nang Strand",
+                "hu": "Ao Nang part",
+                "ro": "Plaja Ao Nang",
+                "en": "Ao Nang Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist bei Sturm windig; halten Sie den Lenker fest und tragen Sie einen hellen Poncho für bessere Sichtbarkeit.",
+                "hu": "A parti út szeles lehet a viharban; fogja erősen a kormányt, és viseljen élénk színű esőköpenyt a jobb láthatóságért.",
+                "ro": "Drumul de coastă este vântos în timpul furtunii; țineți bine ghidonul și purtați o pelerină luminoasă pentru vizibilitate.",
+                "en": "The coastal road is windy during storms; keep a firm grip on the handlebars and wear a bright poncho for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Feuer- & Boxshow",
+                "hu": "Tűz- és boxbemutató",
+                "ro": "Demonstrație de foc și box",
+                "en": "Fire & Boxing Demonstration"
+              },
+              "tip_5lang": {
+                "de": "Die meisten Shows finden bei Regen unter Dach statt; prüfen Sie den Zeitplan, da es bei starkem Gewitter zu Verzögerungen kommen kann.",
+                "hu": "A legtöbb show-t esőben fedett helyen tartják; ellenőrizze a menetrendet, mert heves zivatar esetén csúszhat a kezdés.",
+                "ro": "Cele mai multe spectacole se mută la adăpost pe ploaie; verificați programul, deoarece pot apărea întârzieri în caz de furtună.",
+                "en": "Most shows move under cover during rain; check the schedule as outdoor performances might be slightly delayed during heavy storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Noppharat Thara Strand",
+                "hu": "Noppharat Thara part",
+                "ro": "Plaja Noppharat Thara",
+                "en": "Noppharat Thara Beach"
+              },
+              "tip_5lang": {
+                "de": "Kasuarinen bieten Schutz vor leichtem Nieselregen; parken Sie das Rad auf festem Grund, damit der Ständer nicht im Schlamm einsinkt.",
+                "hu": "A fenyőfák védelmet nyújtanak a szemerkélő esőben; parkoljon szilárd talajon, hogy a kitámasztó ne süllyedjen bele a sárba.",
+                "ro": "Copacii Casuarina oferă protecție contra burniței; parcați bicicleta pe teren solid pentru ca cricul să nu se scufunde în noroi.",
+                "en": "Casuarina trees offer some protection from light drizzle; park your bike on solid ground so the kickstand doesn't sink in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Aman Moschee",
+                "hu": "Al-Aman Mecset",
+                "ro": "Moscheea Al-Aman",
+                "en": "Al-Aman Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Atmosphäre ist ideal für einen regnerischen Nachmittag; trocknen Sie Ihre Hände vor der Weiterfahrt für einen sicheren Griff.",
+                "hu": "A csendes környezet tökéletes egy esős délutánon; szárítsa meg a kezét indulás előtt, hogy biztosan foghassa a kormányt.",
+                "ro": "Atmosfera liniștită este ideală pentru o după-amiază ploioasă; uscați-vă mâinile înainte de a pleca pentru o aderență sigură.",
+                "en": "The quiet atmosphere is perfect for a rainy afternoon; dry your hands before riding again to maintain a safe grip on the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Muslimischer Nachtmarkt",
+                "hu": "Helyi muszlim éjszakai piac",
+                "ro": "Piața de noapte musulmană",
+                "en": "Local muslim Nighmarket"
+              },
+              "tip_5lang": {
+                "de": "Ein lebhafter Ort mit vielen überdachten Ständen; genießen Sie heißes Streetfood, während Ihr Rad im geschützten Bereich parkt.",
+                "hu": "Nyüzsgő hely sok fedett standdal; élvezze a forró utcai ételeket, miközben bringája a kijelölt fedett tárolóban pihen.",
+                "ro": "Un loc vibrant cu multe tarabe acoperite; savurați mâncare caldă în timp ce bicicleta e parcată într-o zonă protejată.",
+                "en": "A vibrant spot with many roofed stalls; enjoy hot street food while your bike is parked in a designated sheltered area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die kühle Morgenluft beim Radeln durch die Hügel von Khao Khlong Haeng. Die geringe Luftfeuchtigkeit macht die Anstiege deutlich leichter. Den Nachmittag verbringen wir an den Stränden im sanften Winterlicht, bevor wir pünktlich zum frühen Sonnenuntergang den Nachtmarkt erreichen.",
+            "hu": "Élvezze a hűvös reggeli levegőt a Khao Khlong Haeng dombjai között tekerve. Az alacsony páratartalom miatt az emelkedők sokkal könnyebbek. A délutánt a strandokon töltjük a lágy téli fényben, majd pont a korai naplementére érünk a mecsethez és a piacra.",
+            "ro": "Bucurați-vă de aerul răcoros de dimineață pedalând prin dealurile din Khao Khlong Haeng. Umiditatea scăzută face urcările mult mai ușoare. După-amiaza o petrecem pe plaje în lumina blândă de iarnă, ajungând la piață fix la apus.",
+            "en": "Enjoy the cool morning air while cycling through the hills of Khao Khlong Haeng. Low humidity makes the climbs much easier. We spend the afternoon at the beaches in the soft winter light, reaching the night market right at the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Khao Khlong Haeng",
+                "hu": "Khao Khlong Haeng",
+                "ro": "Khao Khlong Haeng",
+                "en": "Khao Khlong Haeng"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühle Morgenluft für die Steigungen; der klare Himmel bietet eine fantastische Sicht auf die umliegenden Kalksteinfelsen.",
+                "hu": "Használja ki a hűvös reggeli levegőt az emelkedőkhöz; a tiszta égbolt fantasztikus kilátást nyújt a környező mészkősziklákra.",
+                "ro": "Profită de aerul răcoros de dimineață pentru urcări; cerul senin oferă o vedere fantastică asupra stâncilor calcaroase din jur.",
+                "en": "Use the cool morning air for the uphill sections; the clear sky offers a fantastic view of the surrounding limestone cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Aonang Al-Munuawarah",
+                "hu": "Masjid Aonang Al-Munuawarah",
+                "ro": "Masjid Aonang Al-Munuawarah",
+                "en": "Masjid Aonang Al-Munuawarah"
+              },
+              "tip_5lang": {
+                "de": "Der strahlend blaue Himmel ist ein toller Kontrast zu den goldenen Kuppeln; tragen Sie eine Sonnenbrille wegen der hellen Wintersonne.",
+                "hu": "A ragyogó kék égbolt remek kontrasztot ad az arany kupoláknak; viseljen napszemüveget az éles téli napsütés miatt tekerés közben.",
+                "ro": "Cerul albastru strălucitor oferă un contrast superb cu cupolele aurii; purtați ochelari de soare din cauza soarelui puternic de iarnă.",
+                "en": "The bright blue sky provides a great contrast to the golden domes; wear sunglasses because of the sharp winter sun while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Nang Strand",
+                "hu": "Ao Nang part",
+                "ro": "Plaja Ao Nang",
+                "en": "Ao Nang Beach"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie mit einer erfrischenden Meeresbrise die Promenade entlang; achten Sie auf den stärkeren Verkehr in der winterlichen Hochsaison.",
+                "hu": "Tekerjen végig a sétányon a frissítő tengeri szélben; ügyeljen a téli főszezon miatti erősebb forgalomra a kerékpárúton.",
+                "ro": "Pedalați de-a lungul promenadei în briza revigorantă a mării; atenție la traficul mai intens din sezonul de iarnă.",
+                "en": "Cruise along the promenade with the refreshing sea breeze; be mindful of the heavier traffic during the winter high season."
+              }
+            },
+            {
+              "name": {
+                "de": "Feuer- & Boxshow",
+                "hu": "Tűz- és boxbemutató",
+                "ro": "Demonstrație de foc și box",
+                "en": "Fire & Boxing Demonstration"
+              },
+              "tip_5lang": {
+                "de": "Die Open-Air-Plätze sind in der milden Abendluft sehr angenehm; bringen Sie eine leichte Weste für die Fahrt nach Sonnenuntergang mit.",
+                "hu": "A szabadtéri helyek nagyon kellemesek a lágy esti levegőben; vigyen magával egy könnyű mellényt a naplemente utáni bringázáshoz.",
+                "ro": "Locurile în aer liber sunt plăcute în aerul blând de seară; luați o vestă ușoară pentru drumul cu bicicleta de după apus.",
+                "en": "The open-air seating is very pleasant in the mild evening air; bring a light vest for the bike ride after the sun goes down."
+              }
+            },
+            {
+              "name": {
+                "de": "Noppharat Thara Strand",
+                "hu": "Noppharat Thara part",
+                "ro": "Plaja Noppharat Thara",
+                "en": "Noppharat Thara Beach"
+              },
+              "tip_5lang": {
+                "de": "Ideal für eine Fahrt zum Sonnenuntergang; suchen Sie sich früh einen Platz, da das beste Licht im Winter bereits um 17:15 Uhr schwindet.",
+                "hu": "Ideális egy naplementés tekeréshez; keressen hamar helyet, mert a legszebb fények télen már 17:15 körül eltűnnek.",
+                "ro": "Ideal pentru o plimbare la apus; găsiți un loc devreme, deoarece cea mai bună lumină dispare în jur de 17:15 iarna.",
+                "en": "Ideal for a sunset ride; find a spot early, as the best light fades rapidly around 5:15 PM during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Aman Moschee",
+                "hu": "Al-Aman Mecset",
+                "ro": "Moscheea Al-Aman",
+                "en": "Al-Aman Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur glänzt im späten Nachmittagslicht; die Gärten blühen in der Trockenzeit besonders schön und laden zum kurzen Verweilen ein.",
+                "hu": "Az építészet ragyog a késő délutáni fényben; a kertek a száraz évszakban virágoznak a legszebben, érdemes megállni egy fotóra.",
+                "ro": "Arhitectura strălucește în lumina de după-amiază; grădinile înfloresc frumos în sezonul uscat, invitând la o scurtă oprire.",
+                "en": "The architecture shines in the late afternoon light; the gardens bloom beautifully during the dry season, perfect for a short stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Muslimischer Nachtmarkt",
+                "hu": "Helyi muszlim éjszakai piac",
+                "ro": "Piața de noapte musulmană",
+                "en": "Local muslim Nighmarket"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss; die kühle Abendluft macht die scharfen, heißen Grillspieße zu einem besonderen Genuss nach der Tour.",
+                "hu": "A tökéletes befejezés; a hűvös esti levegőben a csípős, forró grillnyársak még jobban esnek a hosszú tekerés után.",
+                "ro": "Finalul perfect; aerul răcoros de seară face ca frigăruile fierbinți și picante să fie o delicatesă după tura cu bicicleta.",
+                "en": "The perfect ending; the cool evening air makes the spicy, hot grilled skewers even more enjoyable after your ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Az autós túra egy lenyűgöző kilátóponton indul, ahonnan mesés körpanoráma nyílik a part menti trópusi tájra.\nEzután kényelmesen utazhat a természetvédelmi területek és a kulturális nevezetességek között, könnyedén befogadva az élményeket.\nA délutánt a strandoknak szentelheti, hiszen autóval gond nélkül, gyorsan eljuthat a legszebb homokos öblökhöz.\nEstére frissen érkezhet meg a város szívébe, ahol a helyi éjszakai piac utánozhatatlan ízei teszik fel a koronát a napra.",
         "ro": "Călătoria cu mașina începe la un punct de belvedere înalt, care oferă o panoramă uimitoare asupra întregii regiuni de coastă.\nApoi, veți naviga confortabil între parcurile naturale și reperele culturale, combinând perfect relaxarea cu descoperirea.\nDupă-amiaza este rezervată vizitelor la plajă, unde veți putea ajunge fără efort de la un golf spectaculos la altul.\nSeara veți ajunge cu ușurință în centrul plin de viață, unde piața de noapte vă așteaptă cu oferte culinare excelente.",
         "en": "Your drive begins at an elevated vantage point, offering a breathtaking panoramic view of the entire coastal region from the start.\nYou will then navigate comfortably between lush nature parks and cultural landmarks, combining convenience with deep exploration.\nThe afternoon is dedicated to effortless beach-hopping, allowing you to easily cruise from one beautiful sandy bay to the next.\nBy evening, you will arrive fresh at the local night market, ready to indulge in the lively atmosphere and fantastic street food."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir sicher die Bergtempel, während draußen der Regen strömt. Die Fahrt durch den dichten Dschungel von Khao Khlong Haeng bietet tolle Ausblicke aus dem trockenen Innenraum. Mittags besuchen wir die Moschee und die überdachten Märkte, bevor wir den Abend bei einer heißen Suppe auf dem Nachtmarkt ausklingen lassen.",
+            "hu": "Autóval biztonságban fedezzük fel a hegyi templomokat, miközben odakint szakad az eső. A Khao Khlong Haeng sűrű dzsungelén átvezető út remek kilátást nyújt a száraz utastérből. Napközben a mecsetet és a fedett piacokat látogatjuk meg, végül a Nachtmarkton egy forró levest választunk.",
+            "ro": "Cu mașina explorăm în siguranță templele de munte în timp ce afară plouă torențial. Drumul prin jungla densă oferă priveliști grozave din interiorul uscat. Vizităm moscheea și piețele acoperite, iar seara o încheiem la piața de noapte cu o supă fierbinte.",
+            "en": "By car, we safely explore the mountain temples while it pours outside. The drive through the dense jungle offers great views from the dry interior. During the day, we visit the mosque and covered markets, ending the evening with a hot soup at the night market."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Berg-Buddha-Tempel",
+                "hu": "Hegyi Buddha Templom",
+                "ro": "Templul lui Buddha de pe Munte",
+                "en": "Mountain Buddha Temple"
+              },
+              "tip_5lang": {
+                "de": "Der Tempel bietet einen tollen Blick auf das neblige Tal; nutzen Sie den unteren Parkplatz, um die steilen, nassen Treppen zu vermeiden.",
+                "hu": "A templom remek kilátást nyújt a párás völgyre; használja az alsó parkolót, hogy elkerülje a meredek és vizes lépcsőket.",
+                "ro": "Templul oferă o priveliște superbă asupra văii cețoase; folosiți parcarea de jos pentru a evita scările abrupte și ude.",
+                "en": "The temple offers a great view of the misty valley; use the lower parking lot to avoid the steep, wet stairs during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Khlong Haeng",
+                "hu": "Khao Khlong Haeng",
+                "ro": "Khao Khlong Haeng",
+                "en": "Khao Khlong Haeng"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regenwald bequem vom Auto aus; fahren Sie vorsichtig auf den schmalen, kurvigen und oft rutschigen Waldwegen.",
+                "hu": "Figyelje meg az esőerdőt kényelmesen az autóból; vezessen óvatosan a keskeny, kanyargós és gyakran csúszós erdei utakon.",
+                "ro": "Observați pădurea tropicală din confortul mașinii; conduceți cu prudență pe drumurile de pădure înguste, șerpuite și alunecoase.",
+                "en": "Observe the rainforest from the comfort of your car; drive cautiously on the narrow, winding, and often slippery forest roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Aonang Al-Munuawarah",
+                "hu": "Masjid Aonang Al-Munuawarah",
+                "ro": "Masjid Aonang Al-Munuawarah",
+                "en": "Masjid Aonang Al-Munuawarah"
+              },
+              "tip_5lang": {
+                "de": "Ein trockener Fotostopp direkt an der Straße; das Innere der Moschee ist ein friedlicher Rückzugsort vor dem stürmischen Wetter draußen.",
+                "hu": "Egy száraz fotómegálló közvetlenül az út mellett; a mecset belseje békés menedéket nyújt a kinti viharos időjárás elől.",
+                "ro": "O oprire foto uscată chiar lângă drum; interiorul moscheii este un refugiu liniștit departe de vremea furtunoasă de afară.",
+                "en": "A dry photo stop right by the road; the mosque's interior is a peaceful retreat from the stormy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Blüe Moüntain Market",
+                "hu": "Blüe Moüntain Market",
+                "ro": "Blüe Moüntain Market",
+                "en": "Blüe Moüntain Market"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden; die überdachten Gänge zwischen den Ständen halten Sie beim Shoppen trocken.",
+                "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon el; a standok közötti fedett folyosók szárazon tartják a vásárlás közben.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda; coridoarele acoperite dintre tarabe vă mențin uscat în timpul cumpărăturilor.",
+                "en": "Park close to the entrance to minimize time in the rain; the covered walkways between stalls keep you dry while shopping."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Nang Beach Resort",
+                "hu": "Ao Nang Beach Resort",
+                "ro": "Ao Nang Beach Resort",
+                "en": "Ao Nang Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt ist überdacht; genießen Sie das Schauspiel des Sturms über dem Ozean gemütlich von der Lobby-Lounge aus.",
+                "hu": "A kocsifelhajtó tetővel védett; élvezze a vihar látványát az óceán felett kényelmesen a lobby bárjából egy ital mellett.",
+                "ro": "Intrarea este acoperită; bucurați-vă de spectacolul furtunii deasupra oceanului din lounge-ul confortabil al holului.",
+                "en": "The driveway is roofed for easy drop-off; enjoy the drama of the storm over the ocean from the comfort of the lobby lounge."
+              }
+            },
+            {
+              "name": {
+                "de": "Noppharat Thara Strand",
+                "hu": "Noppharat Thara part",
+                "ro": "Plaja Noppharat Thara",
+                "en": "Noppharat Thara Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen vom geparkten Auto aus; falls Sie aussteigen, nutzen Sie einen großen Schirm gegen die starken Böen.",
+                "hu": "Figyelje a hullámokat a parkoló autóból; ha kiszáll, használjon nagy esernyőt az erős tengerparti széllökések ellen.",
+                "ro": "Urmăriți valurile din mașina parcată; dacă ieșiți, folosiți o umbrelă mare împotriva rafalelor puternice de vânt de pe coastă.",
+                "en": "Watch the waves from your parked car; if you step out, use a large umbrella against the strong coastal wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Aman Moschee",
+                "hu": "Al-Aman Mecset",
+                "ro": "Moscheea Al-Aman",
+                "en": "Al-Aman Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Umgebung wird durch das Regengeräusch verstärkt; achten Sie bei starkem Regen auf eingeschaltetes Licht für mehr Sicherheit.",
+                "hu": "A csendes környezetet még különlegesebbé teszi az eső kopogása; heves esőben ügyeljen a fényszórók használatára a biztonságért.",
+                "ro": "Atmosfera liniștită este accentuată de sunetul ploii; asigurați-vă că aveți farurile aprinse pentru siguranță în timpul ploii torențiale.",
+                "en": "The serene environment is enhanced by the sound of rain; ensure your headlights are on for safety during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Muslimischer Nachtmarkt",
+                "hu": "Helyi muszlim éjszakai piac",
+                "ro": "Piața de noapte musulmană",
+                "en": "Local muslim Nighmarket"
+              },
+              "tip_5lang": {
+                "de": "Viele Händler haben große Schirme; es ist der beste Ort für eine heiße Suppe, die perfekt für einen regnerischen Abend ist.",
+                "hu": "Sok árus rendelkezik nagy ernyőkkel; ez a legjobb hely egy forró leveshez, ami tökéletes választás egy esős estén.",
+                "ro": "Mulți vânzători au umbrele mari; este cel mai bun loc pentru o supă fierbinte, perfectă pentru o seară ploioasă.",
+                "en": "Many vendors have large umbrellas; it's the best place for a hot soup, which is perfect for a rainy tropical evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der thailändische Winter bietet glasklare Luft für perfekte Ausblicke vom Bergtempel. Die Fahrt durch die trockene Landschaft ist angenehm und staubfrei. Den Nachmittag verbringen wir an den Stränden unter strahlend blauem Himmel, bevor wir den belebten Nachtmarkt pünktlich zum frühen Sonnenuntergang erreichen.",
+            "hu": "A thaiföldi tél kristálytiszta levegőt kínál a hegyi templomból nyíló tökéletes kilátáshoz. Az út a száraz tájon át kellemes és pormentes. A délutánt a strandokon töltjük a ragyogó kék ég alatt, majd a korai naplementére érünk a nyüzsgő éjszakai piacra.",
+            "ro": "Iarna thailandeză oferă un aer de cristal pentru vederi perfecte de la templul de munte. Drumul prin peisajul uscat este plăcut și fără praf. După-amiaza o petrecem pe plaje sub cerul albastru, ajungând la piață fix la apusul devreme.",
+            "en": "Thai winter offers crystal clear air for perfect views from the mountain temple. The drive through the dry landscape is pleasant and dust-free. We spend the afternoon at the beaches under bright blue skies, reaching the night market just in time for the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Berg-Buddha-Tempel",
+                "hu": "Hegyi Buddha Templom",
+                "ro": "Templul lui Buddha de pe Munte",
+                "en": "Mountain Buddha Temple"
+              },
+              "tip_5lang": {
+                "de": "Die Luft ist glasklar und bietet die beste Sicht des Jahres; kommen Sie früh, um das weiche, goldene Morgenlicht zu genießen.",
+                "hu": "A levegő kristálytiszta, az év legjobb kilátását kínálva; érkezzen korán, hogy élvezze a lágy, arany színű reggeli fényeket.",
+                "ro": "Aerul este extrem de clar, oferind cea mai bună vedere din an; veniți devreme pentru a vă bucura de lumina aurie a dimineții.",
+                "en": "The air is crystal clear, offering the best views of the year; arrive early to enjoy the soft, golden morning light from the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Khlong Haeng",
+                "hu": "Khao Khlong Haeng",
+                "ro": "Khao Khlong Haeng",
+                "en": "Khao Khlong Haeng"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen sind trocken und sicher; die Kalksteinberge sind ohne den Dunst der Regenzeit besonders scharf und deutlich zu sehen.",
+                "hu": "Az utak szárazak és biztonságosak; a mészkőhegyek a párás esős évszak nélkül sokkal élesebben és tisztábban látszanak az útról.",
+                "ro": "Drumurile sunt uscate și sigure; munții calcaroși sunt vizibili clar și ascuțit, fără pâcla specifică sezonului ploios.",
+                "en": "The roads are dry and safe for driving; the limestone mountains are clearly visible without the haze of the rainy season."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Aonang Al-Munuawarah",
+                "hu": "Masjid Aonang Al-Munuawarah",
+                "ro": "Masjid Aonang Al-Munuawarah",
+                "en": "Masjid Aonang Al-Munuawarah"
+              },
+              "tip_5lang": {
+                "de": "Das helle Sonnenlicht reflektiert herrlich an den Verzierungen; nutzen Sie die Klimaanlage moderat, da die Außenluft sehr angenehm ist.",
+                "hu": "A ragyogó napfény csodásan csillan meg a díszítéseken; mérsékelten használja a klímát, mivel a kinti levegő most nagyon kellemes.",
+                "ro": "Lumina puternică a soarelui se reflectă frumos pe decorațiuni; folosiți moderat aerul condiționat, aerul de afară fiind plăcut.",
+                "en": "The bright sunlight reflects beautifully off the golden ornaments; use the AC moderately as the outside air is very pleasant now."
+              }
+            },
+            {
+              "name": {
+                "de": "Blüe Moüntain Market",
+                "hu": "Blüe Moüntain Market",
+                "ro": "Blüe Moüntain Market",
+                "en": "Blüe Moüntain Market"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die lokalen Aromen bei angenehm trockenem Wetter; der Markt ist belebt, suchen Sie nach schattigen Parkplätzen.",
+                "hu": "Fedezze fel a helyi ízeket a kellemesen száraz időben; a piac ilyenkor nyüzsgő, keressen árnyékos parkolóhelyet az autónak.",
+                "ro": "Explorați aromele locale pe vreme uscată și plăcută; piața este animată, așa că căutați locuri de parcare la umbră.",
+                "en": "Explore the local flavors in the comfortable dry weather; the market is lively, so look for shaded parking spots for your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Nang Beach Resort",
+                "hu": "Ao Nang Beach Resort",
+                "ro": "Ao Nang Beach Resort",
+                "en": "Ao Nang Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Halt für eine Mittagspause; der Blick auf das Meer ist unter dem wolkenlosen Winterhimmel einfach spektakulär.",
+                "hu": "Remek állomás egy déli pihenőhöz; a tengerre nyíló kilátás a felhőtlen téli égbolt alatt egyszerűen lenyűgöző az autóból is.",
+                "ro": "O oprire frumoasă pentru o pauză de prânz; vederea la mare este spectaculoasă sub cerul de iarnă fără nori.",
+                "en": "A beautiful stop for a midday break; the sea views are spectacular under the cloudless winter sky from the resort entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Noppharat Thara Strand",
+                "hu": "Noppharat Thara part",
+                "ro": "Plaja Noppharat Thara",
+                "en": "Noppharat Thara Beach"
+              },
+              "tip_5lang": {
+                "de": "Ideal für ein Picknick am Ufer; die Sonne ist stark, auch wenn die Luft kühl wirkt, nutzen Sie daher regelmäßig Sonnenschutz.",
+                "hu": "Ideális egy tengerparti pihenőhöz; a nap erős, még ha a levegő hűvösnek is tűnik, ezért használjon rendszeresen naptejet.",
+                "ro": "Ideal pentru un picnic pe mal; soarele este puternic chiar dacă aerul pare răcoros, deci folosiți protecție solară regulat.",
+                "en": "Ideal for a picnic by the shore; the sun is strong even if the air feels cool, so apply sunscreen regularly during your stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Aman Moschee",
+                "hu": "Al-Aman Mecset",
+                "ro": "Moscheea Al-Aman",
+                "en": "Al-Aman Mosque"
+              },
+              "tip_5lang": {
+                "de": "Das späte Nachmittagslicht erzeugt lange, künstlerische Schatten; die ruhige Atmosphäre lädt zu einem kleinen Spaziergang im Hof ein.",
+                "hu": "A késő délutáni fények hosszú, művészi árnyékokat vetnek; a nyugodt környezet tökéletes egy rövid sétára a mecset udvarán.",
+                "ro": "Lumina de după-amiază creează umbre lungi și artistice; atmosfera liniștită este ideală pentru o scurtă plimbare în curte.",
+                "en": "The late afternoon light creates long, artistic shadows; the tranquil atmosphere is ideal for a quiet stroll in the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Muslimischer Nachtmarkt",
+                "hu": "Helyi muszlim éjszakai piac",
+                "ro": "Piața de noapte musulmană",
+                "en": "Local muslim Nighmarket"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne früh untergeht, wird der Markt früher lebendig; genießen Sie die festliche Stimmung und die kühleren Abendtemperaturen.",
+                "hu": "Mivel a nap korán nyugszik, a piac hamarabb élettel telik meg; élvezze a hangulatot és a kellemesen hűvös esti hőmérsékletet.",
+                "ro": "Deoarece soarele apune devreme, piața prinde viață mai repede; bucurați-vă de vibrația locului și de temperaturile mai răcoroase.",
+                "en": "As the sun sets early, the market comes alive sooner; enjoy the festive vibe and the slightly cooler evening temperatures."
+              }
+            }
+          ]
+        }
       }
     }
   }

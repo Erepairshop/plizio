@@ -160,6 +160,196 @@
         "hu": "Kezdd a reggelt a Victoria Park nyugodt atmoszférájában, majd merülj el a középkori történelemben a Kirkham House falai között.\n\nKora délután a Palace Theatre klasszikus eleganciája után élvezd a bájos kikötő tengerparti hangulatát.\n\nDélután sétálj végig a történelmi mólón, kipróbálva a szórakoztató játékokat és megcsodálva az öböl panorámáját.\n\nZárd a napot a Paignton Beach puha homokján pihenve, és nézd meg, ahogy az esti dagály lassan közeledik a part felé.",
         "ro": "Începeți dimineața absorbind atmosfera liniștită din Victoria Park înainte de a vă întoarce în istoria medievală la Kirkham House.\n\nLa prânz, treceți de la eleganța clasică a Teatrului Palace la farmecul maritim al Portului Paignton.\n\nPetreceți după-amiaza plimbându-vă de-a lungul istoricului dig Paignton, bucurându-vă de distracțiile de pe litoral.\n\nÎncheiați ziua relaxându-vă pe nisipul fin de la Paignton Beach, urmărind valurile cum se rostogolesc ușor la lăsarea serii.",
         "en": "Start your morning absorbing the tranquil atmosphere in Victoria Park before stepping back into medieval history at Kirkham House.\n\nBy midday, transition from the classical elegance of the Palace Theatre to the maritime charm of Paignton Harbour.\n\nSpend your afternoon strolling along the historic Paignton Pier, enjoying the seaside amusements and sweeping bay views.\n\nConclude the day relaxing on the soft sands of Paignton Beach, watching the tide gently roll in as evening slowly approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens blüht der Victoria Park im Regen förmlich auf; ein stabiler Schirm ist hier Pflicht. Mittags bietet das Kirkham House einen trockenen Rückzugsort in historische Mauern. Nachmittags genießen Sie das Palace Theatre als kulturellen Schutzraum vor dem Guss. Abends spiegelt sich die Hafenbeleuchtung malerisch in den Pfützen am Pier und Strand, was trotz Nässe eine besondere Atmosphäre schafft.",
+            "hu": "Reggel a Victoria Park zöldje az esőben kivirul; vigyél strapabíró esernyőt a sétához. Délben a Kirkham House középkori fala nyújt menedéket a szitáló eső elől. Délután a Palace Theatre kulturális oázis, ahol szárazon maradhatsz. Este a kikötő és a móló fényei csodásan tükröződnek a vizes aszfalton, a tengerparti szélben pedig a viharkabát lesz a legjobb barátod.",
+            "ro": "Dimineața, Victoria Park prinde viață sub ploaie; o umbrelă solidă este esențială pentru plimbare. La prânz, Kirkham House oferă un refugiu istoric uscat între zidurile sale vechi. După-amiaza, Palace Theatre devine o oază culturală unde puteți evita umezeala. Seara, luminile portului se oglindesc pitoresc în bălțile de pe dig, creând o atmosferă dramatică pe plajă.",
+            "en": "Morning in Victoria Park is lush under the rain; carry a sturdy umbrella to enjoy the vibrant greens. At noon, Kirkham House provides a dry, historical sanctuary from the drizzle. Afternoon shifts to the Palace Theatre, a perfect cultural refuge. By evening, the harbour lights reflect beautifully on the wet pavement near the pier, offering a moody but magical coastal experience."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Victoria Park",
+                "hu": "Victoria Park",
+                "ro": "Victoria Park",
+                "en": "Victoria Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege, um Schlamm zu vermeiden; die dichten Bäume bieten zwar etwas Schutz, aber ein Regencape ist bei Wind unerlässlich.",
+                "hu": "Használja az aszfaltozott utakat a sár elkerülésére; a sűrű lombok némi védelmet adnak, de az erős szélben egy vízálló esőkabát mindenképpen ajánlott.",
+                "ro": "Folosiți aleile asfaltate pentru a evita noroiul; arborii deși oferă o oarecare protecție, dar o pelerină de ploaie este indispensabilă pe vânt.",
+                "en": "Stick to the paved paths to avoid mud; while the dense trees offer some shelter, a waterproof poncho is essential due to the coastal gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirkham House",
+                "hu": "Kirkham House",
+                "ro": "Kirkham House",
+                "en": "Kirkham House"
+              },
+              "tip_5lang": {
+                "de": "Dieser mittelalterliche Steinbau ist der ideale Ort, um einen Regenschauer abzuwarten; achten Sie auf die niedrigen Türrahmen, die bei Feuchtigkeit rutschig sein können.",
+                "hu": "Ez a középkori kőépület ideális hely egy zápor átvészelésére; ügyeljen az alacsony szemöldökfákra és a nedvességtől esetleg csúszós küszöbökre.",
+                "ro": "Această clădire medievală de piatră este locul ideal pentru a aștepta trecerea unei averse; atenție la pragurile joase care pot fi alunecoase din cauza umidității.",
+                "en": "This medieval stone building is the perfect spot to wait out a downpour; mind the low doorframes and thresholds which might be slick from the damp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Palace Theatre",
+                "hu": "Palace Theatre",
+                "ro": "Teatrul Palace",
+                "en": "Palace Theatre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Foyer für eine warme Pause; das historische Gebäude ist komplett wetterfest und bietet eine großartige Auszeit vom grauen Küstenwetter.",
+                "hu": "Használja ki az előcsarnokot egy meleg pihenőre; a történelmi épület teljesen időjárásálló, és remek kikapcsolódást nyújt a szürke tengerparti esőben.",
+                "ro": "Folosiți foierul pentru o pauză caldă; clădirea istorică este complet protejată de intemperii și oferă o relaxare excelentă departe de ploaia de la coastă.",
+                "en": "Utilize the foyer for a warm break; the historic building is fully weather-proof and provides a great escape from the grey coastal drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Paignton",
+                "hu": "Paignton Kikötő",
+                "ro": "Portul Paignton",
+                "en": "Paignton Harbour"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das raue Meer von den überdachten Bereichen der Hafenkante aus; die Granitsteine sind bei Nässe extrem glatt, tragen Sie festes Schuhwerk.",
+                "hu": "Figyelje a hullámzó tengert a kikötő fedett részeiről; a gránitkövek nedvesen rendkívül csúszósak, ezért viseljen bordázott talpú, tapadós cipőt.",
+                "ro": "Observați marea agitată din zonele acoperite ale marginii portului; pietrele de granit sunt extrem de alunecoase când sunt ude, purtați încălțăminte aderentă.",
+                "en": "Watch the churning sea from the covered sections of the harbour wall; the granite stones are treacherous when wet, so wear high-grip footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Paignton Pier",
+                "hu": "Paignton Móló",
+                "ro": "Digul Paignton",
+                "en": "Paignton Pier"
+              },
+              "tip_5lang": {
+                "de": "Der Pier bietet viele Indoor-Spielhallen und überdachte Gänge; genießen Sie den Blick auf die Gischt, ohne selbst völlig durchnässt zu werden.",
+                "hu": "A móló számos fedett játéktermet és folyosót kínál; élvezze a kilátást a tajtékzó hullámokra anélkül, hogy teljesen bőrig ázna az esőben.",
+                "ro": "Digul oferă multe arcade de jocuri și pasaje acoperite; bucurați-vă de vederea valurilor înspumate fără a fi complet udat de ploaie.",
+                "en": "The pier features numerous indoor arcades and covered walkways; enjoy the view of the crashing spray without getting completely soaked by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Paignton Beach",
+                "hu": "Paignton Beach",
+                "ro": "Plaja Paignton",
+                "en": "Paignton Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang im Regen ist hier sehr erfrischend; suchen Sie danach in den Cafés an der Promenade Schutz, um sich bei einem Tee aufzuwärmen.",
+                "hu": "Egy esős séta a homokban frissítő élmény; utána keressen menedéket a sétány kávézóiban, ahol egy forró teával gyorsan felmelegedhet.",
+                "ro": "O plimbare prin ploaie pe nisip este revigorantă; căutați apoi adăpost în cafenelele de pe faleză pentru a vă încălzi cu un ceai fierbinte.",
+                "en": "A rainy stroll on the sand is refreshing; afterwards, seek shelter in the promenade cafes to warm up with a hot tea and watch the storm."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen im Victoria Park ist frostig und klar; warme Kleidung ist für den frühen Start nötig. Mittags wärmt die Geschichte des Kirkham House das Gemüt, während die Wintersonne tief steht. Nachmittags ist das Palace Theatre ein gemütlicher Hort vor dem kühlen Seewind. Da es gegen 17:00 Uhr dunkel wird, endet der Tag mit einer stimmungsvollen Beleuchtung am Pier und Strand.",
+            "hu": "A téli reggel a Victoria Parkban fagyos és friss; réteges öltözet szükséges a korai induláshoz. Délben a Kirkham House ódon falai között kalandozhatsz, miközben a téli nap alacsonyan jár. Délután a Palace Theatre belső tere nyújt meleg menedéket a csípős tengeri szél elől. Mivel 17 óra körül sötétedik, a napot a móló és a part hangulatos esti fényei zárják.",
+            "ro": "Dimineața de iarnă în Victoria Park este geroasă și senină; hainele groase sunt necesare pentru începutul zilei. La prânz, istoria clădirii Kirkham House vă va captiva, în timp ce soarele de iarnă stă jos pe cer. După-amiaza, Palace Theatre este un refugiu călduros împotriva vântului tăios. Deoarece se întunecă în jurul orei 17:00, ziua se încheie cu luminile ambientale de pe dig.",
+            "en": "Winter mornings in Victoria Park are crisp and frosty; bundle up in layers for the early start. At noon, the stone walls of Kirkham House offer a chilly but fascinating glimpse into the past. Afternoon is best spent in the warmth of the Palace Theatre. With sunset around 17:00, your day concludes with the atmospheric glow of the pier lights against the dark winter sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Victoria Park",
+                "hu": "Victoria Park",
+                "ro": "Victoria Park",
+                "en": "Victoria Park"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume lassen viel Licht durch; achten Sie auf gefrorene Pfützen auf den Wegen und genießen Sie die klare, kalte Winterluft.",
+                "hu": "A kopasz fák között ilyenkor több a fény; ügyeljen a fagyott tócsákra az utakon, és élvezze a tiszta, hideg téli levegőt a parkban.",
+                "ro": "Copacii desfrunziți lasă multă lumină să treacă; atenție la bălțile înghețate de pe alei și bucurați-vă de aerul curat și rece de iarnă.",
+                "en": "The bare trees allow more sunlight through; watch out for frozen puddles on the paths and enjoy the crisp, invigorating winter air in the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirkham House",
+                "hu": "Kirkham House",
+                "ro": "Kirkham House",
+                "en": "Kirkham House"
+              },
+              "tip_5lang": {
+                "de": "In den ungeheizten Räumen kann es sehr kühl sein; behalten Sie Ihren Mantel an und bewundern Sie die architektonischen Details im harten Winterlicht.",
+                "hu": "A fűtetlen szobákban nagyon hűvös lehet; ne vegye le a kabátját, és csodálja meg az építészeti részleteket az éles téli fényben.",
+                "ro": "Poate fi foarte răcoare în încăperile neîncălzite; păstrați haina pe dvs. și admirați detaliile arhitecturale în lumina crudă de iarnă.",
+                "en": "It can be very chilly inside the unheated rooms; keep your coat on and admire the architectural details highlighted by the sharp winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Palace Theatre",
+                "hu": "Palace Theatre",
+                "ro": "Teatrul Palace",
+                "en": "Palace Theatre"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich aufzuwärmen; prüfen Sie das Winterprogramm für matinee-Vorstellungen, um die kältesten Stunden des Tages drinnen zu verbringen.",
+                "hu": "Tökéletes hely a felmelegedésre; ellenőrizze a téli műsort matiné előadásokért, hogy a nap leghidegebb óráit a fűtött beltérben tölthesse.",
+                "ro": "Locul perfect pentru a vă încălzi; verificați programul de iarnă pentru spectacole de matineu, petrecând cele mai reci ore ale zilei în interior.",
+                "en": "The ideal place to thaw out; check the winter schedule for matinee performances to spend the coldest hours of the day in heated comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Paignton",
+                "hu": "Paignton Kikötő",
+                "ro": "Portul Paignton",
+                "en": "Paignton Harbour"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind kann hier schneidend sein; tragen Sie eine winddichte Jacke und eine Mütze, um die Aussicht auf die ruhenden Boote zu genießen.",
+                "hu": "A téli szél itt metsző lehet; viseljen szélálló dzsekit és sapkát, hogy nyugodtan élvezhesse a pihenő halászhajók látványát a kikötőben.",
+                "ro": "Vântul de iarnă poate fi tăios aici; purtați o jachetă rezistentă la vânt și o căciulă pentru a admira bărcile care se odihnesc în port.",
+                "en": "The winter wind can be biting here; wear a windproof jacket and a warm hat to comfortably view the resting boats in the quiet harbour."
+              }
+            },
+            {
+              "name": {
+                "de": "Paignton Pier",
+                "hu": "Paignton Móló",
+                "ro": "Digul Paignton",
+                "en": "Paignton Pier"
+              },
+              "tip_5lang": {
+                "de": "Die Lichterketten wirken in der frühen Dunkelheit besonders festlich; nutzen Sie die beheizten Spielbereiche, wenn die Kälte draußen zu stark wird.",
+                "hu": "Az égősorok különösen ünnepien festenek a korai sötétedésben; használja a fűtött játéktermeket, ha a kinti hideg már túl intenzívvé válik.",
+                "ro": "Ghirlandele de lumini arată festiv în întunericul timpuriu; folosiți zonele de jocuri încălzite dacă frigul de afară devine prea pătrunzător.",
+                "en": "The fairy lights look extra festive in the early twilight; take advantage of the heated indoor game zones if the outdoor chill becomes too much."
+              }
+            },
+            {
+              "name": {
+                "de": "Paignton Beach",
+                "hu": "Paignton Beach",
+                "ro": "Plaja Paignton",
+                "en": "Paignton Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des Strandes im Winter; nach Sonnenuntergang um 17 Uhr bieten die nahen Pubs eine gemütliche Atmosphäre am Kamin.",
+                "hu": "Élvezze a tengerpart téli magányát; az 5 órai naplemente után a közeli pubok kandalló melletti melegében találhat igazi angol vendégszeretetet.",
+                "ro": "Bucurați-vă de singurătatea plajei iarna; după apusul de la ora 17, pub-urile din apropiere oferă o atmosferă primitoare lângă șemineu.",
+                "en": "Enjoy the peaceful solitude of the winter beach; after the 5 PM sunset, head to a nearby pub to warm up by a fireplace with a local brew."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdd a kerékpáros kalandot az ikonikus Oldway Mansion látványos építészetének és hatalmas, gondozott kertjeinek felfedezésével.\n\nKora délután tekerj végig a part mentén a Preston Sands-hez, és készíts fotókat a színes, hagyományos strandkunyhókról.\n\nDélután élvezd a magaslati tengeri panorámát a Roundham Head-ről, mielőtt megpihennél a Goodrington Sands aranyhomokján.\n\nZárd a napot egy gyors közzel a Veloparkban, majd merülj el a Paignton Zoo lenyűgöző vadvilágában a naplemente előtt.",
         "ro": "Începeți aventura pe bicicletă explorând arhitectura spectaculoasă și grădinile vaste ale emblematicei Oldway Mansion.\n\nLa prânz, mergeți de-a lungul coastei până la Preston Sands, făcând poze la colibele tradiționale și colorate de plajă.\n\nDupă-amiaza, bucurați-vă de vederi panoramice la mare de la Roundham Head înainte de a vă relaxa pe țărmul Goodrington.\n\nÎncheiați-vă ziua cu o plimbare rapidă la Velopark înainte de a vă cufunda în minunile faunei sălbatice de la Grădina Zoologică.",
         "en": "Begin your cycling adventure exploring the spectacular architecture and vast manicured gardens of the iconic Oldway Mansion.\n\nBy midday, ride along the coastline to Preston Sands, taking pictures by the colorful, traditional beach huts.\n\nIn the afternoon, enjoy elevated panoramic sea views from Roundham Head before relaxing on the golden shores of Goodrington Sands.\n\nWrap up your day with a quick ride at the Velopark before immersing yourself in the wildlife wonders of Paignton Zoo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen beim Radfahren erfordert Vorsicht, besonders auf den Küstenwegen; gute Schutzbleche sind heute Ihr bester Freund. Vormittags wirkt Oldway Mansion im Nebel mystisch. Mittags bieten die Strände von Preston und Goodrington weite, dramatische Ausblicke unter grauen Wolken. Am Velopark ist bei Nässe fahrerisches Können gefragt, bevor der Zootag in den Tropenhäusern endet.",
+            "hu": "Az esős kerékpározás óvatosságot igényel a part menti utakon; a jó sárvédő ma kötelező tartozék. Délelőtt az Oldway Mansion misztikus ködbe burkolózik. Délben a Preston és Goodrington strandok drámai látványt nyújtanak a szürke fellegek alatt. A Veloparkban a vizes aszfalt próbára teszi a tudást, míg a nap az állatkert fedett trópusi házaiban ér véget.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile de coastă; aripile bune la bicicletă sunt esențiale astăzi. Dimineața, Oldway Mansion pare mistică în ceață. La prânz, plajele Preston și Goodrington oferă vederi dramatice sub norii cenușii. La Velopark, asfaltul ud vă va testa abilitățile, iar ziua se încheie în serele tropicale de la zoo.",
+            "en": "Cycling in the rain demands caution on coastal paths; make sure your mudguards are secure for the day. Morning starts with a misty view of Oldway Mansion. Noon brings dramatic seascapes at Preston and Goodrington under heavy clouds. Test your skills on the wet tracks of the Velopark before concluding at the zoo’s indoor tropical exhibits."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oldway Mansion",
+                "hu": "Oldway Mansion",
+                "ro": "Oldway Mansion",
+                "en": "Oldway Mansion"
+              },
+              "tip_5lang": {
+                "de": "Die Einfahrt kann bei Regen rutschig sein; parken Sie Ihr Rad sicher unter den Bäumen und bewundern Sie die Fassade aus dem Schutz des Portikus.",
+                "hu": "A feljáró esőben csúszós lehet; parkolja le kerékpárját biztonságosan a fák alatt, és csodálja meg a homlokzatot az oszlopcsarnok védelméből.",
+                "ro": "Aleea poate fi alunecoasă pe ploaie; parcați bicicleta în siguranță sub copaci și admirați fațada din protecția porticului clădirii.",
+                "en": "The driveway can be slick in the rain; park your bike securely under the trees and admire the grand facade from the shelter of the portico."
+              }
+            },
+            {
+              "name": {
+                "de": "Preston Sands",
+                "hu": "Preston Sands",
+                "ro": "Preston Sands",
+                "en": "Preston Sands"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem Uferweg, da Sand und Wasser den Halt verringern; die bunten Strandhütten bieten einen fröhlichen Kontrast zum grauen Himmel.",
+                "hu": "Óvatosan haladjon a parti úton, mert a homok és víz csökkenti a tapadást; a színes kabinok vidám kontrasztot adnak a szürke égbolthoz.",
+                "ro": "Circulați cu grijă pe faleză, deoarece nisipul și apa reduc aderența; cabinele colorate oferă un contrast vesel pe fundalul cerului gri.",
+                "en": "Ride carefully along the promenade as wet sand can reduce grip; the colorful beach huts provide a cheerful contrast to the leaden rainy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Roundham Head",
+                "hu": "Roundham Head",
+                "ro": "Roundham Head",
+                "en": "Roundham Head"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Klippenkanten bei starkem Wind und Regen; der asphaltierte Radweg ist sicherer und bietet trotzdem tolle Ausblicke auf die aufgewühlte See.",
+                "hu": "Erős szélben és esőben kerülje a sziklák szélét; az aszfaltozott kerékpárút biztonságosabb, és innen is remek kilátás nyílik a háborgó tengerre.",
+                "ro": "Evitați marginile falezei pe vânt puternic și ploaie; pista de biciclete asfaltată este mai sigură și oferă vederi superbe spre marea agitată.",
+                "en": "Avoid the cliff edges during heavy wind and rain; the paved cycle path is safer and still offers magnificent views of the churning coastal waters."
+              }
+            },
+            {
+              "name": {
+                "de": "Goodrington Sands",
+                "hu": "Goodrington Sands",
+                "ro": "Goodrington Sands",
+                "en": "Goodrington Sands"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei einem plötzlichen Guss Schutz im nahegelegenen Bahnhofsgebäude; die nassen Felsen am Ende des Strandes sollten heute nicht betreten werden.",
+                "hu": "Hirtelen zápor esetén keressen menedéket a közeli vasútállomás épületében; a strand végén lévő nedves sziklákra ma semmiképp ne másszon fel.",
+                "ro": "În caz de aversă bruscă, căutați adăpost în clădirea gării din apropiere; stâncile ude de la capătul plajei nu trebuie escaladate astăzi.",
+                "en": "Seek shelter in the nearby station building during heavy bursts; avoid climbing the wet rocks at the end of the beach as they are very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Torbay Velopark",
+                "hu": "Torbay Velopark",
+                "ro": "Velopark Torbay",
+                "en": "Torbay Velopark"
+              },
+              "tip_5lang": {
+                "de": "Passen Sie Ihren Reifendruck für besseren Grip auf nasser Bahn an; die Strecke ist gut drainiert, aber Kurven erfordern dennoch erhöhte Aufmerksamkeit.",
+                "hu": "Állítsa be a guminyomást a jobb tapadás érdekében a vizes pályán; az út jól elvezeti a vizet, de a kanyarok fokozott figyelmet igényelnek.",
+                "ro": "Reglați presiunea în pneuri pentru o aderență mai bună pe pista udă; traseul este bine drenat, dar curbele necesită o atenție sporită astăzi.",
+                "en": "Adjust your tyre pressure for better grip on the wet track; the circuit drains well, but cornering still requires extra focus in rainy conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo von Paignton",
+                "hu": "Paignton Állatkert",
+                "ro": "Grădina Zoologică Paignton",
+                "en": "Paignton Zoo"
+              },
+              "tip_5lang": {
+                "de": "Konzentrieren Sie Ihren Besuch auf die vielen Innengehege wie das Reptilienhaus; parken Sie das Rad am Eingang unter dem schützenden Vordach.",
+                "hu": "Összpontosítsa látogatását a fedett bemutatókra, például a hüllőházra; a kerékpárt az előtető alatt, védett helyen hagyhatja a bejáratnál.",
+                "ro": "Concentrați-vă vizita pe numeroasele incinte interioare, cum ar fi casa reptilelor; parcați bicicleta sub copertina de la intrare.",
+                "en": "Focus your visit on the many indoor exhibits like the reptile house; park your bike under the protective canopy at the main entrance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag auf dem Rad ist belebend, solange man sich warm hält; Handschuhe sind bei der Abfahrt von Oldway Mansion unverzichtbar. Die Strände liegen friedlich im tiefstehenden Sonnenlicht. Am Roundham Head weht ein frischer, kalter Wind. Im Velopark können Sie sich warmfahren, bevor der Tag im Zoo endet, wo viele Tiere in ihren beheizten Winterquartieren zu sehen sind.",
+            "hu": "A téli kerékpározás frissítő, amíg melegen tartod magad; a kesztyű elengedhetetlen az Oldway Mansiontől indulva. A strandok békések az alacsonyan járó téli napfényben. A Roundham Headnél friss, hideg szél fúj a tenger felől. A Veloparkban jól bemelegíthetsz a tekeréssel, mielőtt az állatkert fűtött házaihoz érnél.",
+            "ro": "O zi de iarnă pe bicicletă este revigorantă dacă vă păstrați căldura; mănușile sunt indispensabile la plecarea de la Oldway Mansion. Plajele sunt liniștite în lumina joasă a soarelui. La Roundham Head vântul este rece. La Velopark vă puteți încălzi pedalând, înainte de a vizita animalele în adăposturile lor de iarnă.",
+            "en": "Winter cycling is invigorating if you stay warm; gloves are a must when descending from Oldway Mansion. The beaches are peaceful in the low-hanging sunlight. A brisk, cold wind greets you at Roundham Head. Warm up by hitting the tracks at the Velopark before ending the day at the zoo, where many animals stay in heated areas."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oldway Mansion",
+                "hu": "Oldway Mansion",
+                "ro": "Oldway Mansion",
+                "en": "Oldway Mansion"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten wirken im Frost besonders elegant; wärmen Sie Ihre Hände auf, bevor Sie losfahren, da der Fahrtwind die Kälte verstärkt.",
+                "hu": "A kertek zúzmarásan különösen elegánsak; melegítse fel a kezeit indulás előtt, mert a menetszél felerősíti a hidegérzetet.",
+                "ro": "Grădinile par deosebit de elegante acoperite de brumă; încălziți-vă mâinile înainte de plecare, deoarece vântul amplifică senzația de frig.",
+                "en": "The gardens look particularly elegant covered in frost; warm up your hands before setting off, as the wind chill will be significant on the move."
+              }
+            },
+            {
+              "name": {
+                "de": "Preston Sands",
+                "hu": "Preston Sands",
+                "ro": "Preston Sands",
+                "en": "Preston Sands"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die leeren Wege für eine zügige Fahrt; die Wintersonne glitzert herrlich auf dem Wasser, aber blenden kann sie auch, tragen Sie eine Brille.",
+                "hu": "Élvezze az üres utakat a gyors haladáshoz; a téli nap csodásan csillog a vízen, de el is vakíthat, ezért érdemes napszemüveget viselni.",
+                "ro": "Bucurați-vă de aleile libere pentru o deplasare rapidă; soarele de iarnă strălucește pe apă, dar vă poate orbi, deci purtați ochelari de protecție.",
+                "en": "Enjoy the empty paths for a brisk ride; the winter sun glitters beautifully on the water, but its low angle can be blinding, so wear cycling glasses."
+              }
+            },
+            {
+              "name": {
+                "de": "Roundham Head",
+                "hu": "Roundham Head",
+                "ro": "Roundham Head",
+                "en": "Roundham Head"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht hier im kalten Wind; die klare Winterfernlehre ermöglicht oft weite Blicke über die gesamte Torbay bis nach Brixham.",
+                "hu": "A hideg szélben elég itt egy rövid megálló; a tiszta téli időben gyakran ellátni az egész Torbay-öblön át egészen Brixhamig.",
+                "ro": "O oprire scurtă este suficientă aici din cauza vântului rece; vizibilitatea clară de iarnă permite vederi panoramice până în Brixham.",
+                "en": "A brief stop is enough in the biting wind; however, the clear winter air often provides stunning, far-reaching views across Torbay to Brixham."
+              }
+            },
+            {
+              "name": {
+                "de": "Goodrington Sands",
+                "hu": "Goodrington Sands",
+                "ro": "Goodrington Sands",
+                "en": "Goodrington Sands"
+              },
+              "tip_5lang": {
+                "de": "Die Strandpromenade ist ideal zum Radfahren im Winter; suchen Sie nach dem Parken des Rads ein warmes Getränk in den ganzjährig geöffneten Kiosken.",
+                "hu": "A tengerparti sétány télen is kiváló a tekeréshez; a bringa leparkolása után keressen egy forró italt az egész évben nyitva tartó kioszkokban.",
+                "ro": "Faleza este ideală pentru ciclism în timpul iernii; după ce parcați bicicleta, căutați o băutură caldă la chioșcurile deschise tot anul.",
+                "en": "The promenade is ideal for winter cycling; once you've parked your bike, find a warm drink at one of the kiosks that remain open year-round."
+              }
+            },
+            {
+              "name": {
+                "de": "Torbay Velopark",
+                "hu": "Torbay Velopark",
+                "ro": "Velopark Torbay",
+                "en": "Torbay Velopark"
+              },
+              "tip_5lang": {
+                "de": "Intensives Training hilft gegen die Kälte; halten Sie Ihren Körper in Bewegung, um die Blutzirkulation in Fingern und Zehen aufrechtzuerhalten.",
+                "hu": "Az intenzív edzés segít a hideg ellen; tartsa mozgásban a testét, hogy fenntartsa a vérkeringést az ujjaiban és a lábfejében is.",
+                "ro": "Antrenamentul intens ajută împotriva frigului; mențineți corpul în mișcare pentru a menține circulația sângelui în degete și picioare.",
+                "en": "High-intensity laps will help combat the cold; keep your body moving to maintain good circulation in your fingers and toes during the session."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo von Paignton",
+                "hu": "Paignton Állatkert",
+                "ro": "Grădina Zoologică Paignton",
+                "en": "Paignton Zoo"
+              },
+              "tip_5lang": {
+                "de": "Da es um 17 Uhr dunkel wird, sollten Sie frühzeitig zu den Affenhäusern gehen; die Innenbereiche sind angenehm temperiert für Mensch und Tier.",
+                "hu": "Mivel 5-kor sötétedik, menjen korán a majomházakhoz; a belső terek kellemesen fűtöttek mind az állatok, mind a látogatók számára.",
+                "ro": "Deoarece se întunecă la ora 17, mergeți devreme la casele maimuțelor; spațiile interioare sunt încălzite optim pentru animale și vizitatori.",
+                "en": "With sunset at 5 PM, head to the ape houses early; these indoor areas are pleasantly heated, making them a cozy final stop for your winter tour."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Indítsd az autós utazást a csodálatos Oldway Mansion puszta nagyszerűségének és elegáns szabadtéri tereinek megcsodálásával.\n\nDélben fedezd fel az egzotikus állatok és a botanikai szépségek világát egy hosszabb látogatás során a hatalmas Paignton Zoo-ban.\n\nDélután élvezd a Goodrington Sands élénk családi hangulatát, majd fedezd fel a Fairy Cove rejtett árapály-medencéit a partnál.\n\nZárd a tengerparti utazást a Dartmouth gőzvasút fedélzetén, átélve a tökéletes nosztalgikus devoni utazási élményt.",
         "ro": "Începeți călătoria cu mașina minunându-vă de măreția absolută și de spațiile elegante în aer liber de la magnifica Oldway Mansion.\n\nLa prânz, descoperiți o lume de animale exotice și frumusețe botanică în timpul unei vizite extinse la Grădina Zoologică.\n\nPetreceți după-amiaza bucurându-vă de atmosfera plină de viață la Goodrington Sands și explorând bazinele stâncoase ascunse.\n\nÎncheiați-vă călătoria de coastă la bordul trenului cu aburi Dartmouth, experimentând cea mai nostalgică aventură de călătorie.",
         "en": "Kick off your road trip marveling at the sheer grandeur and elegant outdoor spaces of the magnificent Oldway Mansion.\n\nBy midday, discover a world of exotic animals and botanical beauty during an extended visit to the expansive Paignton Zoo.\n\nSpend your afternoon enjoying the lively family atmosphere at Goodrington Sands and exploring the hidden rock pools of Fairy Cove.\n\nConclude your coastal journey aboard the Dartmouth Steam Railway, experiencing the ultimate nostalgic Devon travel adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist ideal für eine Autotour durch Paignton; Sie bleiben trocken und flexibel. Vormittags beeindruckt Oldway Mansion im prasselnden Regen. Mittags bietet der Zoo viele überdachte Stationen. Nachmittags genießen Sie die Aussicht auf Goodrington Sands und Fairy Cove bequem vom warmen Fahrzeug aus. Der krönende Abschluss ist die Fahrt mit der historischen Dampfeisenbahn.",
+            "hu": "Az esős nap ideális egy autós túrához Paigntonban; szárazon és rugalmasan fedezheted fel a várost. Délelőtt az Oldway Mansion látványa lenyűgöző az eleredő esőben. Délben az állatkert fedett pavilonjai kínálnak programot. Délután a Goodrington Sands és a Fairy Cove panorámáját élvezheted az autóból, majd a napot a gőzvasút fűtött kocsijaiban zárhatod.",
+            "ro": "O zi ploioasă este ideală pentru un tur cu mașina prin Paignton; veți rămâne uscat și flexibil. Dimineața, Oldway Mansion impresionează în ploaie. La prânz, grădina zoologică oferă multe pavilioane acoperite. După-amiaza, admirați Goodrington Sands și Fairy Cove din confortul mașinii, încheind ziua în vagoanele trenului cu aburi.",
+            "en": "A rainy day is perfect for a car tour around Paignton, keeping you dry and mobile. Morning starts at the majestic Oldway Mansion. Spend mid-day at the zoo, utilizing its many indoor exhibits. Afternoon offers scenic views of Goodrington Sands and Fairy Cove from your vehicle, followed by a cozy, dry journey on the historic steam railway."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oldway Mansion",
+                "hu": "Oldway Mansion",
+                "ro": "Oldway Mansion",
+                "en": "Oldway Mansion"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Haupteingang, um den Weg im Regen kurz zu halten; die Architektur wirkt bei grauem Himmel besonders dramatisch.",
+                "hu": "Használja a főbejárat előtti parkolót, hogy csak keveset kelljen az esőben gyalogolnia; az épület szürke égbolt mellett különösen drámai hatást kelt.",
+                "ro": "Folosiți parcarea direct din fața intrării principale pentru a scurta drumul prin ploaie; arhitectura pare dramatică pe fundalul cerului gri.",
+                "en": "Use the parking area directly in front of the main entrance to minimize your time in the rain; the mansion looks stunning against a stormy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo von Paignton",
+                "hu": "Paignton Állatkert",
+                "ro": "Grădina Zoologică Paignton",
+                "en": "Paignton Zoo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und nutzen Sie den Tag für die Innenbereiche wie das Wüstenhaus; bei Regen sind die Tiere oft aktiver in ihren Unterkünften.",
+                "hu": "Parkoljon a bejárathoz közel, és látogassa meg a fedett részeket, például a sivatagi házat; esőben az állatok gyakran aktívabbak a belső tereikben.",
+                "ro": "Parcați aproape de intrare și vizitați zonele interioare, cum ar fi casa deșertului; pe ploaie, animalele sunt adesea mai active în adăposturi.",
+                "en": "Park close to the entrance and focus on indoor exhibits like the desert house; animals are often more active in their shelters during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Goodrington Sands",
+                "hu": "Goodrington Sands",
+                "ro": "Goodrington Sands",
+                "en": "Goodrington Sands"
+              },
+              "tip_5lang": {
+                "de": "Der große Parkplatz bietet einen tollen Blick aufs Meer, ohne dass Sie aussteigen müssen; genießen Sie das Schauspiel der Wellen im Regen.",
+                "hu": "A nagy parkolóból remek kilátás nyílik a tengerre anélkül, hogy ki kellene szállnia; élvezze a hullámok játékát a szakadó esőben is.",
+                "ro": "Parcarea mare oferă o vedere excelentă spre mare fără a fi nevoie să coborâți; admirați spectacolul valurilor direct din mașină pe ploaie.",
+                "en": "The large car park offers a fantastic sea view without needing to step out; watch the rhythmic waves crashing in the rain from your front seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Fairy Cove",
+                "hu": "Fairy Cove",
+                "ro": "Fairy Cove",
+                "en": "Fairy Cove"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Zufahrt kann bei Nässe rutschig sein; parken Sie etwas oberhalb und genießen Sie den Blick auf die rote Felsküste im Nebel.",
+                "hu": "A keskeny lejáró nedvesen csúszós lehet; parkoljon kicsit feljebb, és onnan csodálja meg a vörös sziklákat a párás, esős időben.",
+                "ro": "Accesul îngust poate fi alunecos pe carosabil ud; parcați puțin mai sus și admirați stâncile roșii în ceața provocată de ploaie.",
+                "en": "The narrow access road can be slippery when wet; park a bit further up and enjoy the vista of the red sandstone cliffs through the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Dartmouth Dampfeisenbahn",
+                "hu": "Dartmouth Gőzvasút",
+                "ro": "Trenul cu Aburi Dartmouth",
+                "en": "Dartmouth Steam Railway"
+              },
+              "tip_5lang": {
+                "de": "Das ultimative Regentag-Erlebnis; die historischen Waggons sind beheizt und trocken, während draußen die Landschaft vorbeizieht.",
+                "hu": "A végső esőnapi élmény; a történelmi vagonok fűtöttek és szárazak, így kényelemben nézheti a kint elsuhanó, párás tájat.",
+                "ro": "Cea mai bună experiență pentru o zi ploioasă; vagoanele istorice sunt încălzite și uscate, în timp ce peisajul umed trece pe lângă geam.",
+                "en": "The ultimate rainy day experience; the historic carriages are heated and dry, providing a wonderful vantage point for the misty coastal scenery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterkomfort im Auto ist unschlagbar, während Sie die frostige Küste erkunden. Morgens strahlt Oldway Mansion im klaren Winterlicht. Mittags bietet der Zoo eine warme Auszeit in den Tropenhäusern. Nachmittags leuchten Goodrington Sands und Fairy Cove in der tiefstehenden Sonne. Da es um 17 Uhr dunkel wird, bietet die Dampfeisenbahn eine stimmungsvolle Fahrt in die Dämmerung.",
+            "hu": "Az autós túra téli kényelme felülmúlhatatlan a fagyos partvidéken. Reggel az Oldway Mansion ragyog a tiszta téli fényben. Délben az állatkert trópusi házaiban melegedhetsz fel. Délután a Goodrington Sands és a Fairy Cove az alacsony napállásban tündököl. Mivel 5-kor sötétedik, a gőzvasút hangulatos utazást kínál a korai szürkületben.",
+            "ro": "Confortul mașinii este imbatabil în timp ce explorați coasta geroasă. Dimineața, Oldway Mansion strălucește în lumina clară de iarnă. La prânz, grădina zoologică oferă o pauză caldă în serele tropicale. După-amiaza, Goodrington Sands și Fairy Cove strălucesc sub soarele palid. Deoarece se întunecă la ora 17, trenul cu aburi oferă o călătorie atmosferică la amurg.",
+            "en": "Enjoy the winter comfort of your car while exploring the frosty coastline. Morning begins at Oldway Mansion under a clear, cold sky. Mid-day is best spent warming up in the zoo's tropical houses. Afternoon light casts a golden glow over Goodrington Sands and Fairy Cove. With darkness falling at 5 PM, the steam railway provides a nostalgic journey through the early twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oldway Mansion",
+                "hu": "Oldway Mansion",
+                "ro": "Oldway Mansion",
+                "en": "Oldway Mansion"
+              },
+              "tip_5lang": {
+                "de": "Die Parkwege können bei Frost glatt sein; genießen Sie die Architektur von außen, die im klaren Winterlicht besonders detailreich zur Geltung kommt.",
+                "hu": "A parkoló körüli utak zúzmarásak és csúszósak lehetnek; élvezze az épületet kívülről, amely a tiszta téli fényben különösen részletgazdagnak tűnik.",
+                "ro": "Aleile pot fi alunecoase din cauza înghețului; admirați arhitectura din exterior, care pare foarte detaliată în lumina clară de iarnă.",
+                "en": "Parking areas may be icy; enjoy the exterior architecture, which appears exceptionally detailed and sharp in the crisp winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo von Paignton",
+                "hu": "Paignton Állatkert",
+                "ro": "Grădina Zoologică Paignton",
+                "en": "Paignton Zoo"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort im Winter; besuchen Sie die beheizten Primatenhäuser, wo die Tiere oft näher an den Glasscheiben zu beobachten sind.",
+                "hu": "Ideális téli úticél; látogassa meg a fűtött főemlősházakat, ahol az állatok gyakran közelebb merészkednek az üvegfalakhoz a meleg miatt.",
+                "ro": "O destinație ideală iarna; vizitați casele încălzite ale primatelor, unde animalele pot fi observate adesea mai aproape de panourile de sticlă.",
+                "en": "A perfect winter spot; head for the heated primate houses, where animals are often found closer to the viewing glass to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Goodrington Sands",
+                "hu": "Goodrington Sands",
+                "ro": "Goodrington Sands",
+                "en": "Goodrington Sands"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz als Loge für den Sonnenuntergang; die winterliche Brandung ist oft spektakulär und vom warmen Auto aus bequem zu sehen.",
+                "hu": "Használja a parkolót páholynak a naplemente megtekintéséhez; a téli hullámverés látványos, és a fűtött autóból kényelmesen élvezhető.",
+                "ro": "Folosiți parcarea ca pe o lojă pentru apus; valurile de iarnă sunt adesea spectaculoase și pot fi admirate confortabil din mașina caldă.",
+                "en": "Use the car park as a private viewing box for the sunset; the winter surf is often dramatic and best enjoyed from the warmth of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Fairy Cove",
+                "hu": "Fairy Cove",
+                "ro": "Fairy Cove",
+                "en": "Fairy Cove"
+              },
+              "tip_5lang": {
+                "de": "Die roten Klippen leuchten in der tiefstehenden Wintersonne besonders intensiv; bleiben Sie für ein paar Fotos kurz stehen, bevor es dunkel wird.",
+                "hu": "A vörös sziklák az alacsony téli napsütésben különösen intenzív színben tündökölnek; álljon meg egy fotóra, mielőtt 5 órakor leszáll az éj.",
+                "ro": "Stâncile roșii strălucesc intens în lumina joasă a soarelui de iarnă; opriți-vă pentru câteva fotografii înainte de lăsarea întunericului.",
+                "en": "The red cliffs glow intensely in the low winter sun; stop briefly for some atmospheric photos before the early sunset at 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Dartmouth Dampfeisenbahn",
+                "hu": "Dartmouth Gőzvasút",
+                "ro": "Trenul cu Aburi Dartmouth",
+                "en": "Dartmouth Steam Railway"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Zeiten für die 'Train of Lights' im Winter; die festlich beleuchteten Waggons bieten eine magische Fahrt durch die Dunkelheit.",
+                "hu": "Ellenőrizze a téli 'Fényvasút' időpontjait; az ünnepi díszkivilágítással ellátott vagonok varázslatos utazást kínálnak a sötétedő tájon.",
+                "ro": "Verificați orarul pentru 'Trenul Luminilor' iarna; vagoanele decorate festiv oferă o călătorie magică prin întunericul de iarnă.",
+                "en": "Check the schedule for the 'Train of Lights' in winter; the festively decorated carriages offer a magical journey through the dark countryside."
+              }
+            }
+          ]
+        }
       }
     }
   }

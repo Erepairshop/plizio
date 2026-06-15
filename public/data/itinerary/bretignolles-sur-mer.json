@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a városközpontban található gyönyörű Nagyboldogasszony-templom felfedezésével. A délidő vidám minigolfozást hoz, amely tökéletes egy kis családi nevetéshez a miniatűr falu előtt. A délutánt a Vendée Miniature helyi életet bemutató aprólékos részleteinek megcsodálásával töltheti. Az este kellemesen zárul a nyüzsgő Plage de La Parée partján és a közeli játékteremben.",
         "ro": "Începeți dimineața explorând frumoasa Biserică a Adormirii Maicii Domnului din centrul orașului. Prânzul aduce distracție la minigolf, perfect pentru râsete în familie înainte de a vizita satul în miniatură. După-amiaza este petrecută admirând detaliile complicate ale vieții locale la Vendée Miniature. Seara se încheie frumos de-a lungul animatei Plage de La Parée și la sala de jocuri din apropiere.",
         "en": "Start the morning exploring the beautiful Church of Our Lady of the Assumption in the town center. Midday brings fun at the local Mini Golf, perfect for family laughs before heading to the miniature village. Afternoon is spent marveling at Vendée Miniature's intricate details of local life. The evening winds down beautifully along the lively Plage de La Parée and the nearby arcade hall."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt in der Kirche, während der Regen gegen die Fenster trommelt. Mittags bietet die Miniaturwelt eine trockene Zuflucht vor den Schauern. Am Nachmittag trotzen wir dem Wetter am Strand mit guter Kleidung, bevor die Spielhalle den Tag gemütlich abschließt. Abends genießen wir die frische Meeresluft unter einem schützenden Dach bei einem warmen Getränk.",
+            "hu": "A reggel a templom békéjében indul, védve az eleredő esőtől. Délben a makettmúzeum nyújt tökéletes fedett menedéket a záporok elől. Délután vízhatlan ruhában sétálunk a parton, figyelve a hullámokat, majd a játékteremben melegszünk fel. Az este a tenger sós illatával és a kopogó eső megnyugtató neszével zárul egy hangulatos, fedett teraszon, figyelve a párás ablakon át a partot.",
+            "ro": "Dimineața începe la adăpost în biserică, în timp ce ploaia bate în geamuri. La prânz, lumea miniaturilor oferă un refugiu uscat în fața averselor. După-amiaza înfruntăm vremea pe plajă cu echipament adecvat, admirând oceanul agitat, iar sala de jocuri încheie ziua într-un mod vesel. Seara ne bucurăm de aerul proaspăt de mare sub o protecție sigură, ascultând ritmul ploii.",
+            "en": "The morning begins sheltered in the church as rain starts to fall. At midday, the miniature village provides a perfect dry escape from the showers. In the afternoon, we brave the beach with waterproof gear to see the dramatic gray waves, ending the day in the dry arcade hall. The evening concludes with the rhythmic sound of rain and the fresh scent of the sea from a safe shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Mariä Himmelfahrt",
+                "hu": "Nagyboldogasszony-templom",
+                "ro": "Biserica Adormirii Maicii Domnului",
+                "en": "Church of Our Lady of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im trockenen Inneren, während Sie dem Regen lauschen; ein idealer Ort für einen ruhigen Start ohne nasse Füße zu bekommen.",
+                "hu": "Csodálja meg a belső teret, miközben bentről hallgatja az eső kopogását; tökéletes száraz menedék a városnézés megkezdéséhez és elcsendesedéshez.",
+                "ro": "Admirați arhitectura în interiorul uscat în timp ce ascultați ploaia afară; este locul ideal pentru un început liniștit fără a vă uda picioarele.",
+                "en": "Admire the architecture from the dry interior while listening to the rain; it is an ideal spot for a quiet start to your day without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Minigolf",
+                "hu": "Minigolf",
+                "ro": "Minigolf",
+                "en": "Mini Golf"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen sind die Bahnen rutschig, daher ist festes Schuhwerk nötig; nutzen Sie kurze Regenpausen für eine schnelle, spaßige Runde an der frischen Luft.",
+                "hu": "Az esőben a pályák csúszósak lehetnek, ezért javasolt a vízálló cipő; csak enyhe szitálás esetén vágjon bele a szabadtéri játékba a tengeri szélben.",
+                "ro": "Pistele pot fi alunecoase pe ploaie, deci este necesară încălțăminte aderentă; profitați de scurte pauze între averse pentru o rundă rapidă de joc.",
+                "en": "The tracks can be slippery in the rain, so waterproof shoes are a must; take advantage of short breaks in the showers for a quick, fun outdoor round."
+              }
+            },
+            {
+              "name": {
+                "de": "Vendée Miniature",
+                "hu": "Vendée Miniature",
+                "ro": "Vendée Miniature",
+                "en": "Vendée Miniature"
+              },
+              "tip_5lang": {
+                "de": "Dieses überdachte Museum ist die beste Wahl bei Regen; erkunden Sie das detailreiche Modelldorf ganz entspannt im Trockenen und genießen Sie die Atmosphäre.",
+                "hu": "Ez a fedett látványosság a legjobb választás esőben; fedezze fel a részletgazdag makettfalut teljes szárazságban és kényelemben a záporok elől menekülve.",
+                "ro": "Această atracție acoperită este cea mai bună alegere pe ploaie; explorați satul în miniatură în deplin confort, departe de vremea nefavorabilă de afară.",
+                "en": "This indoor attraction is your best choice during rain; explore the detailed model village in total dryness and comfort while the showers pass by."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand La Parée",
+                "hu": "La Parée strand",
+                "ro": "Plaja La Parée",
+                "en": "La Parée Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht der Küste eine mystische Stimmung; tragen Sie eine windfeste Regenjacke, um die tosenden Wellen und die raue Natur hautnah zu erleben.",
+                "hu": "Az eső áztatta part vadregényes látványt nyújt; viseljen szélálló kabátot és élvezze az óceán erejét a ködös szürkületben, elkerülve a mélyebb pocsolyákat.",
+                "ro": "Ploaia oferă coastei o atmosferă mistică; purtați o jachetă impermeabilă pentru a experimenta valurile puternice și natura brută în siguranță.",
+                "en": "The rain gives the coast a mystical atmosphere; wear a windproof raincoat to experience the crashing waves and raw nature up close despite the dampness."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielhalle La Parée",
+                "hu": "La Parée játékterem",
+                "ro": "Sala de jocuri La Parée",
+                "en": "La Parée Arcade Hall"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in dieser fröhlichen Indoor-Umgebung; hier können Sie sich aufwärmen und den Regen draußen bei bunten Lichtern völlig vergessen.",
+                "hu": "Zárja a napot ebben a vidám, fedett környezetben; a játékterem melegében teljesen elfelejtheti a kinti barátságtalan időjárást és a nedves ruhákat.",
+                "ro": "Încheiați ziua în acest mediu interior vesel; aici vă puteți încălzi și puteți uita complet de ploaia de afară printre jocurile colorate.",
+                "en": "Finish your day in this cheerful indoor environment; here you can warm up and completely forget about the rain outside among the bright lights."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Wintermorgen führt uns zur beheizten Kirche. Mittags wärmen wir uns in der faszinierenden Miniaturwelt auf, während draußen der kalte Seewind weht. Der Strandbesuch am Nachmittag ist kurz und belebend vor dem frühen Sonnenuntergang um 17 Uhr. Abends suchen wir die Wärme der Spielhalle, um den Tag gemütlich bei festlicher Beleuchtung ausklingen zu lassen.",
+            "hu": "A friss téli reggel a templom csendes melegében indul. Napközben a beltéri makettkiállítás kínál fűtött programot a csípős szél elől. Délután teszünk egy élénkítő sétát a dűnék között, még a korai, ötkori naplemente előtt. Az este a játékterem fényeiben és barátságos hangulatában telik, elrejtőzve a téli éjszaka hidege és a korai sötétség elől.",
+            "ro": "O dimineață răcoroasă de iarnă ne conduce spre liniștea bisericii. La prânz ne încălzim în lumea fascinantă a miniaturilor, în timp ce vântul rece suflă afară. Vizita pe plajă de după-amiază este scurtă și revigorantă înainte de apusul timpuriu de la ora 17:00. Seara căutăm căldura sălii de jocuri pentru a încheia ziua într-o atmosferă primitoare.",
+            "en": "A crisp winter morning starts in the peaceful warmth of the church. Midday is spent exploring the indoor miniature village, a great way to stay warm. We take a brisk walk on the beach in the afternoon light before the sun sets early at 5 PM. The evening is spent in the cozy arcade hall, enjoying games as the winter darkness settles over the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Mariä Himmelfahrt",
+                "hu": "Nagyboldogasszony-templom",
+                "ro": "Biserica Adormirii Maicii Domnului",
+                "en": "Church of Our Lady of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille der Kirche für einen besinnlichen Start; der beheizte Innenraum bietet einen willkommenen Schutz gegen den frostigen Morgenwind.",
+                "hu": "Használja ki a templom csendjét egy békés kezdéshez; a fűtött belsőtér kellemes menedéket nyújt a fagyos reggeli szél ellen a téli napokon.",
+                "ro": "Folosiți liniștea bisericii pentru un început meditativ; interiorul încălzit oferă o protecție binevenită împotriva vântului înghețat de dimineață.",
+                "en": "Use the silence of the church for a reflective start; the heated interior offers welcome protection against the frosty morning wind at the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Minigolf",
+                "hu": "Minigolf",
+                "ro": "Minigolf",
+                "en": "Mini Golf"
+              },
+              "tip_5lang": {
+                "de": "Die Bewegung beim Spiel hält Sie an der frischen Winterluft warm; tragen Sie Handschuhe und eine Mütze, um die klare Sicht auf das Meer zu genießen.",
+                "hu": "A játék közbeni mozgás melegen tartja a friss téli levegőn; viseljen kesztyűt és sapkát, hogy zavartalanul élvezhesse a tiszta kilátást a tengerre.",
+                "ro": "Mișcarea în timpul jocului vă va ține de cald în aerul proaspăt de iarnă; purtați mănuși și căciulă pentru a vă bucura de vederea clară spre mare.",
+                "en": "Moving around during the game will keep you warm in the fresh winter air; wear gloves and a hat to enjoy the clear views of the sea comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Vendée Miniature",
+                "hu": "Vendée Miniature",
+                "ro": "Vendée Miniature",
+                "en": "Vendée Miniature"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details des Modelldorfes in einer beheizten Umgebung; ideal, um sich zwischendurch aufzuwärmen und die Kälte draußen zu vergessen.",
+                "hu": "Csodálja meg a makettfalu részleteit ebben a fűtött környezetben; ideális helyszín az átmelegedéshez és a kinti csípős hideg elfelejtéséhez a túra során.",
+                "ro": "Admirați detaliile satului în miniatură într-un mediu încălzit; este locul ideal pentru a vă încălzi și a uita de frigul de afară pentru o vreme.",
+                "en": "Admire the intricate details of the miniature village in a heated indoor environment; it is the ideal place to escape the winter chill for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand La Parée",
+                "hu": "La Parée strand",
+                "ro": "Plaja La Parée",
+                "en": "La Parée Beach"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Strand vor 17 Uhr, um den winterlichen Sonnenuntergang zu sehen; die klare Luft bietet oft eine weite Sicht bis zum Horizont.",
+                "hu": "Látogasson el a partra délután öt óra előtt, hogy láthassa a téli naplementét; a tiszta levegő ilyenkor gyakran ellátást enged egészen a horizontig.",
+                "ro": "Vizitați plaja înainte de ora 17:00 pentru a vedea apusul de iarnă; aerul curat oferă adesea o vizibilitate excelentă până la orizont.",
+                "en": "Visit the beach before 5 PM to catch the beautiful winter sunset; the crisp air often provides clear views all the way to the distant horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielhalle La Parée",
+                "hu": "La Parée játékterem",
+                "ro": "Sala de jocuri La Parée",
+                "en": "La Parée Arcade Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Spielhalle ist am frühen Winterabend ein lebendiger Treffpunkt; genießen Sie die warme Atmosphäre und die bunte Unterhaltung nach Einbruch der Dunkelheit.",
+                "hu": "A játékterem a korai téli estén élénk találkozóhely; élvezze a meleg hangulatot és a színes szórakozást a sötétség beállta után a barátságos beltérben.",
+                "ro": "Sala de jocuri este un punct de întâlnire plin de viață în serile de iarnă; bucurați-vă de atmosfera caldă și de distracție după lăsarea întunericului.",
+                "en": "The arcade is a lively meeting spot on early winter evenings; enjoy the warm atmosphere and colorful entertainment after the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen át a reggelen a központi történelmi templomtól a szeles La Normandelière strand felé. Délben cirkáljon a part mentén, hogy megpihenjen a Plage du Marais Girard festői homokján. A délután a szárazföld belsejébe csábít, hogy felfedezze a Vendée Miniature elképesztően részletes makettjeit. Az estét a híres Sainte-Véronique szikla mellett elhaladva, a La Sauzaie strandon fejezze be.",
         "ro": "Pedalați dimineața de la biserica istorică din centru înainte de a coborî spre plaja aerisită La Normandelière. Până la prânz, mergeți de-a lungul coastei pentru a vă relaxa pe nisipurile pitorești de la Plage du Marais Girard. După-amiaza vă invită să explorați modelele incredibil de detaliate de la Vendée Miniature. Încheiați seara trecând pe lângă stânca Sainte-Véronique spre plaja La Sauzaie.",
         "en": "Pedal through the morning starting at the central historic church before cycling down to the breezy La Normandelière beach. By midday, cruise along the coast to relax on the scenic sands of Plage du Marais Girard. The afternoon invites you inland to explore the incredibly detailed models at Vendée Miniature. Finish the evening cycling past the iconic Sainte-Véronique Rock to La Sauzaie Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet bei leichtem Regen an der Kirche. Mittags suchen wir Schutz an der Küste, bevor wir die trockene Miniaturwelt erreichen. Am Nachmittag radeln wir vorsichtig auf nassen Wegen zu den Felsen und dem stürmischen Strand. Abends endet die Tour bei prasselndem Regen in der Nähe eines gemütlichen Unterstands, wo wir die Räder sicher abstellen können.",
+            "hu": "A bringatúra szemerkélő esőben indul a templomtól. Délben a tengerparti pihenőknél keresünk fedelet, majd a makettmúzeum száraztermébe menekülünk. Délután óvatosan tekerünk a vizes utakon a sziklákhoz és a vad parthoz. Az este egy fedett tároló közelében zárul, ahol megpihenhetünk és letörölhetjük a sarat a kerékpárról.",
+            "ro": "Turul cu bicicleta începe pe o ploaie ușoară la biserică. La prânz căutăm adăpost pe coastă înainte de a ajunge la lumea miniaturilor. După-amiaza pedalăm cu grijă pe drumurile umede spre stânci și plaja furtunoasă. Seara se încheie lângă un adăpost primitor, unde putem lăsa bicicletele în siguranță de ploaie.",
+            "en": "The cycling tour starts in light rain at the church. At midday, we look for coastal shelters before reaching the dry miniature village. In the afternoon, we pedal carefully on wet paths to the rocks and the stormy beach. The tour ends in the evening near a cozy shelter where we can safely park the bikes away from the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Mariä Himmelfahrt",
+                "hu": "Nagyboldogasszony-templom",
+                "ro": "Biserica Adormirii Maicii Domnului",
+                "en": "Church of Our Lady of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie die Tour im trockenen Kirchenschiff; prüfen Sie Ihre Bremsen, da nasse Straßen den Bremsweg verlängern können, bevor Sie losfahren.",
+                "hu": "Kezdje a túrát a száraz templombelsőben; indulás előtt ellenőrizze a fékeket, mivel a vizes aszfalton megnő a féktávolság a kerékpárral.",
+                "ro": "Începeți turul în naosul uscat al bisericii; verificați frânele, deoarece drumurile umede pot prelungi distanța de frânare înainte de a pleca.",
+                "en": "Start your tour in the dry church nave; check your brakes before setting off, as wet roads can significantly increase your stopping distance."
+              }
+            },
+            {
+              "name": {
+                "de": "La Normandelière",
+                "hu": "La Normandelière",
+                "ro": "La Normandelière",
+                "en": "La Normandelière"
+              },
+              "tip_5lang": {
+                "de": "Dieser Küstenabschnitt ist bei Regen oft windig; tragen Sie wasserfeste Kleidung und achten Sie auf Pfützen auf dem Radweg entlang der Dünen.",
+                "hu": "Ez a part szakasz esőben szeles lehet; viseljen vízhatlan ruhát, és figyeljen a kerékpárúton kialakuló tócsákra a dűnék mentén haladva.",
+                "ro": "Această secțiune de coastă este adesea vântoasă pe ploaie; purtați haine impermeabile și fiți atenți la bălțile de pe pista de biciclete.",
+                "en": "This coastal stretch can be windy in the rain; wear waterproof gear and watch out for puddles on the bike path as you ride along the dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Marais Girard",
+                "hu": "Marais Girard strand",
+                "ro": "Plaja Marais Girard",
+                "en": "Marais Girard Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie nur einen kurzen Stopp, um die raue See zu beobachten; die nassen Felsen am Strandzugang können für Radfahrer sehr rutschig sein.",
+                "hu": "Csak rövid időre álljon meg megfigyelni a tajtékzó tengert; a partra vezető nedves kövek nagyon csúszósak lehetnek, óvatosan szálljon le a gépről.",
+                "ro": "Faceți doar o scurtă oprire pentru a observa marea agitată; stâncile umede de la accesul pe plajă pot fi foarte alunecoase pentru bicicliști.",
+                "en": "Make only a brief stop to watch the rough sea; the wet stones at the beach access can be very slippery for cyclists, so proceed with care."
+              }
+            },
+            {
+              "name": {
+                "de": "Vendée Miniature",
+                "hu": "Vendée Miniature",
+                "ro": "Vendée Miniature",
+                "en": "Vendée Miniature"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer und wärmen Sie sich im Inneren auf; die Ausstellung ist der perfekte Ort, um einen Regenschauer abzuwarten.",
+                "hu": "Használja a fedett kerékpártárolót, és melegedjen fel bent; a kiállítás tökéletes helyszín egy nagyobb zápor átvészelésére a túra közepén.",
+                "ro": "Folosiți suportul acoperit pentru biciclete și încălziți-vă în interior; expoziția este locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "Use the sheltered bike rack and warm up inside; the exhibition is the perfect place to wait out a heavy rain shower during your cycling trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Felsen Sainte-Véronique",
+                "hu": "Sainte-Véronique szikla",
+                "ro": "Stânca Sainte-Véronique",
+                "en": "Sainte-Véronique Rock"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Felsen ist bei grauem Himmel besonders dramatisch; halten Sie Abstand zur Kante, da der Boden durch den Regen aufgeweicht sein kann.",
+                "hu": "A sziklák látványa szürke égbolt alatt különösen drámai; tartson távolságot a peremtől, mivel a talaj az eső miatt felázott és csúszós lehet.",
+                "ro": "Vederea stâncilor este deosebit de dramatică sub un cer gri; păstrați distanța de margine, deoarece solul poate fi înmuiat de ploaie.",
+                "en": "The view of the rocks is especially dramatic under a gray sky; keep a safe distance from the edge as the ground can be soft and slippery from rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand La Sauzaie",
+                "hu": "La Sauzaie strand",
+                "ro": "Plaja La Sauzaie",
+                "en": "La Sauzaie Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresgischt kann Ihre Brille und Ihr Rad mit Salz bedecken; wischen Sie beides nach der Fahrt ab, um Korrosion und schlechte Sicht zu vermeiden.",
+                "hu": "A tengeri permet sóval boríthatja be szemüvegét és gépét; törölje le mindkettőt a túra után a korrózió és a rossz látási viszonyok elkerülése végett.",
+                "ro": "Stropii de mare vă pot acoperi ochelarii și bicicleta cu sare; ștergeți-le după tur pentru a evita coroziunea și vizibilitatea redusă.",
+                "en": "Sea spray can cover your glasses and bike with salt; wipe both down after your ride to prevent corrosion and ensure clear visibility for later."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit einer Fahrt zur Kirche. Mittags radeln wir durch die frische Brise an der Küste entlang, bevor wir uns in der Miniaturwelt aufwärmen. Nachmittags erreichen wir die Felsen im goldenen Licht der tiefstehenden Sonne. Da es bereits um 17 Uhr dunkel wird, endet die Tour frühzeitig in der Nähe einer beleuchteten Promenade.",
+            "hu": "Tiszta téli reggelen indul a bringázás a templom felé. Délben a friss tengeri szélben tekerünk a parton, majd a makettmúzeumban melegszünk fel. Délután az alacsonyan járó nap aranyló fényében érjük el a sziklákat. Mivel ötkor már sötétedik, a túra korán véget ér a kivilágított sétány közelében, elkerülve a fagyos esti utakat.",
+            "ro": "O dimineață senină de iarnă începe cu o plimbare spre biserică. La prânz pedalăm prin briza proaspătă de-a lungul coastei înainte de a ne încălzi la lumea miniaturilor. După-amiaza ajungem la stânci în lumina aurie a soarelui. Deoarece se întunecă deja la ora 17:00, turul se încheie devreme lângă o faleză iluminată.",
+            "en": "A clear winter morning begins with a ride to the church. At midday, we cycle through the fresh breeze along the coast before warming up in the miniature village. In the afternoon, we reach the rocks in the golden light of the low sun. Since it gets dark by 5 PM, the tour ends early near a well-lit promenade to avoid the chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Mariä Himmelfahrt",
+                "hu": "Nagyboldogasszony-templom",
+                "ro": "Biserica Adormirii Maicii Domnului",
+                "en": "Church of Our Lady of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz in der Kirche auf, bevor Sie die Fahrt fortsetzen; tragen Sie winddichte Handschuhe, um Ihre Hände am Lenker warm zu halten.",
+                "hu": "Melegedjen át kicsit a templomban, mielőtt folytatná az utat; viseljen szélálló kesztyűt, hogy kezei ne gémberedjenek el a kormányon a hidegben.",
+                "ro": "Încălziți-vă puțin în biserică înainte de a continua drumul; purtați mănuși rezistente la vânt pentru a vă menține mâinile calde pe ghidon.",
+                "en": "Warm up briefly in the church before continuing your ride; wear windproof gloves to keep your hands warm on the handlebars in the winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "La Normandelière",
+                "hu": "La Normandelière",
+                "ro": "La Normandelière",
+                "en": "La Normandelière"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg bietet im Winter eine klare Sicht auf die Dünen; achten Sie auf mögliche Froststellen im Schatten, die den Weg rutschig machen können.",
+                "hu": "A kerékpárút télen tiszta kilátást nyújt a dűnékre; figyeljen az árnyékos részeken előforduló jegesedésre, ami csúszóssá teheti az utat a bringásoknak.",
+                "ro": "Pista de biciclete oferă o vedere clară asupra dunelor iarna; atenție la posibilele porțiuni înghețate la umbră, care pot face drumul alunecos.",
+                "en": "The bike path offers clear views of the dunes in winter; watch out for potential icy patches in shaded areas that can make the path slippery for bikes."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Marais Girard",
+                "hu": "Marais Girard strand",
+                "ro": "Plaja Marais Girard",
+                "en": "Marais Girard Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am fast menschenleeren Strand; ein Schal schützt Sie vor der kalten Meeresbrise, während Sie kurz die Aussicht bewundern.",
+                "hu": "Élvezze a nyugalmat a szinte néptelen parton; egy sál megvédi a hideg tengeri szellőtől, miközben rövid ideig megcsodálja a téli horizont látványát.",
+                "ro": "Bucurați-vă de liniștea de pe plaja aproape pustie; un fular vă va proteja de briza rece a mării în timp ce admirați scurt priveliștea de iarnă.",
+                "en": "Enjoy the peace on the nearly deserted beach; a scarf will protect you from the cold sea breeze while you briefly admire the crisp winter view."
+              }
+            },
+            {
+              "name": {
+                "de": "Vendée Miniature",
+                "hu": "Vendée Miniature",
+                "ro": "Vendée Miniature",
+                "en": "Vendée Miniature"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine längere Pause im Warmen; nutzen Sie die Zeit, um Ihre Muskeln aufzulockern, bevor es zurück in die Kälte geht.",
+                "hu": "Tökéletes helyszín egy hosszabb melegedő szünethez; használja ki az időt izmai átmozgatására, mielőtt visszatérne a hideg kerékpárútra.",
+                "ro": "Locul perfect pentru o pauză mai lungă la căldură; profitați de timp pentru a vă relaxa mușchii înainte de a ieși din nou în frigul de afară.",
+                "en": "The perfect spot for a longer break in the warmth; use this time to loosen your muscles before heading back out into the cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Felsen Sainte-Véronique",
+                "hu": "Sainte-Véronique szikla",
+                "ro": "Stânca Sainte-Véronique",
+                "en": "Sainte-Véronique Rock"
+              },
+              "tip_5lang": {
+                "de": "Das tiefstehende Sonnenlicht lässt die Felsen im Winter golden leuchten; ideal für Fotos, bevor die Sonne gegen 17 Uhr hinter dem Horizont verschwindet.",
+                "hu": "Az alacsony napállás télen aranyló fénnyel világítja meg a sziklákat; ideális fotótéma, mielőtt a nap ötkor eltűnik a látóhatár mögött.",
+                "ro": "Lumina soarelui la apus face stâncile să strălucească auriu iarna; ideal pentru fotografii înainte ca soarele să dispară după orizont la ora 17:00.",
+                "en": "The low winter sun makes the rocks glow with golden light; it's ideal for photos before the sun disappears behind the horizon around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand La Sauzaie",
+                "hu": "La Sauzaie strand",
+                "ro": "Plaja La Sauzaie",
+                "en": "La Sauzaie Beach"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da die Dämmerung früh einsetzt; genießen Sie die klare, kalte Luft zum Abschluss der Tour.",
+                "hu": "Győződjön meg róla, hogy a kerékpárlámpák működnek, mert korán szürkül; élvezze a tiszta, hideg levegőt a téli túra befejezéseként.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează, deoarece amurgul se instalează devreme; bucurați-vă de aerul curat și rece la finalul turului.",
+                "en": "Ensure your bike lights are working as twilight sets in early; enjoy the crisp, cold air as you bring your winter cycling tour to a close."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós útját délen a Plage des Dunes-nél, élvezve a kora reggeli nyugalmat, mielőtt a bájos belvárosi templomhoz hajtana. A délidő lenyűgöző elmerülést hoz a regionális történelembe a látványos Vendée Miniature attrakciónál. Délután tartson egy gyors fotószünetet a lenyűgöző Sainte-Véronique sziklánál. Az estéje egy lenyűgöző naplementével zárul az északi, vadabb tengerparti szakaszokon.",
         "ro": "Începeți plimbarea cu mașina în sud, la Plage des Dunes, bucurându-vă de liniștea dimineții devreme, înainte de a merge la fermecătoarea biserică din centru. Prânzul aduce o scufundare fascinantă în istoria regională la spectaculoasa atracție Vendée Miniature. În timpul după-amiezii, faceți o scurtă oprire foto la impresionanta stâncă Sainte-Véronique. Seara se încheie cu un apus uimitor pe plajele nordice.",
         "en": "Begin your drive in the south at Plage des Dunes, enjoying the early morning tranquility before heading to the charming downtown church. Midday brings a fascinating dive into regional history at the spectacular Vendée Miniature attraction. During the afternoon, take a quick photo stop at the striking Sainte-Véronique Rock. Your evening concludes with a stunning sunset at the northern beaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am verregneten Dünenstrand, den wir sicher vom Auto aus beobachten. Mittags besuchen wir die trockene Kirche und die Miniaturwelt, ideale Zufluchtsorte. Am Nachmittag steuern wir die Felsen und den Strand an, wobei wir nur für kurze Blicke aussteigen. Abends endet der Tag entspannt, während der Regen gegen das Autodach trommelt.",
+            "hu": "A nap az eső áztatta dűnéknél indul, amit biztonságban, az autóból csodálunk meg. Délben a száraz templom és a makettmúzeum kínál menedéket a záporok elől. Délután a sziklákhoz és a parthoz autózunk, csak rövid sétákra kiszállva a friss levegőre. Az este kényelmesen zárul, miközben az eső megnyugtatóan kopog az autó tetején.",
+            "ro": "Călătoria începe la plaja cu dune plină de ploaie, pe care o observăm în siguranță din mașină. La prânz vizităm biserica uscată și lumea miniaturilor, refugii ideale. După-amiaza ne îndreptăm spre stânci și plajă, coborând doar pentru scurte momente. Seara se încheie relaxat, în timp ce ploaia bate ritmic în plafonul mașinii.",
+            "en": "The drive begins at the rainy Dunes Beach, which we observe safely from the car. At midday, we visit the dry church and the miniature village, both ideal shelters. In the afternoon, we head to the rocks and the beach, stepping out only for brief moments in the fresh air. The day ends comfortably as the rain drums on the car roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dünenstrand",
+                "hu": "Dűnék strandja",
+                "ro": "Plaja Dunelor",
+                "en": "Dunes Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Dünen durch das Panoramafenster; parken Sie so, dass Sie die Wellen beobachten können, ohne nass zu werden.",
+                "hu": "Élvezze a dűnékre nyíló kilátást az ablakon keresztül; parkoljon úgy, hogy figyelhesse a hullámokat anélkül, hogy bőrig ázna a szélben.",
+                "ro": "Bucurați-vă de vederea dunelor prin geamul panoramic; parcați astfel încât să puteți observa valurile fără a vă uda în ploaia de afară.",
+                "en": "Enjoy the view of the dunes through the car window; park in a spot that allows you to watch the waves without getting wet in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Mariä Himmelfahrt",
+                "hu": "Nagyboldogasszony-templom",
+                "ro": "Biserica Adormirii Maicii Domnului",
+                "en": "Church of Our Lady of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie direkt in der Nähe des Eingangs; nutzen Sie den kurzen Weg, um schnell ins trockene und stille Innere zu gelangen.",
+                "hu": "Közvetlenül a bejárat közelében talál parkolóhelyet; használja ki a rövid utat, hogy gyorsan bejusson a száraz és csendes templombelsőbe.",
+                "ro": "Veți găsi locuri de parcare chiar lângă intrare; profitați de distanța scurtă pentru a intra rapid în interiorul uscat și liniștit.",
+                "en": "You will find parking spaces right near the entrance; take advantage of the short distance to quickly reach the dry and quiet interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Vendée Miniature",
+                "hu": "Vendée Miniature",
+                "ro": "Vendée Miniature",
+                "en": "Vendée Miniature"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet einen großen Parkplatz und ist ideal für Regentage; lassen Sie sich Zeit im Trockenen, während draußen Schauer niedergehen.",
+                "hu": "A múzeumnak nagy parkolója van, és ideális választás esős napokra; töltsön el bőven időt a szárazban, miközben odakint záporok vonulnak át.",
+                "ro": "Muzeul are o parcare mare și este ideal pentru zilele ploioase; acordați-vă timp în interior în timp ce afară trec aversere de ploaie.",
+                "en": "The museum has a large parking lot and is ideal for rainy days; take your time inside while rain showers pass through the coastal area."
+              }
+            },
+            {
+              "name": {
+                "de": "Felsen Sainte-Véronique",
+                "hu": "Sainte-Véronique szikla",
+                "ro": "Stânca Sainte-Véronique",
+                "en": "Sainte-Véronique Rock"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie eine tolle Sicht auf die Felsen; steigen Sie nur kurz mit Regenschirm aus, da der Boden an der Kante rutschig ist.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a sziklákra; csak rövid időre szálljon ki esernyővel, mert a perem mentén a talaj csúszós és felázott.",
+                "ro": "Din parcare aveți o vedere excelentă asupra stâncilor; coborâți doar scurt cu umbrela, deoarece solul de la margine este alunecos pe ploaie.",
+                "en": "From the parking area, you have a great view of the rocks; step out only briefly with an umbrella, as the ground near the edge is slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand La Sauzaie",
+                "hu": "La Sauzaie strand",
+                "ro": "Plaja La Sauzaie",
+                "en": "La Sauzaie Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das beeindruckende Schauspiel der Brandung vom warmen Auto aus; die Gischt kann die Sicht auf der Windschutzscheibe trüben.",
+                "hu": "Figyelje meg a hullámverés lenyűgöző látványát a meleg autóból; a sós tengeri permet ilyenkor homályossá teheti a szélvédőt a szélben.",
+                "ro": "Observați spectacolul impresionant al valurilor din mașina caldă; stropii de mare pot face parbrizul neclar din cauza sării în timpul vântului.",
+                "en": "Watch the impressive spectacle of the surf from your warm car; sea spray can blur the windshield due to salt during the windy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand Petit Pont",
+                "hu": "Petit Pont naturista strand",
+                "ro": "Plaja naturistă Petit Pont",
+                "en": "Petit Pont Naturist Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen weiten Blick über die Küste; ein perfekter Ort, um den Tag gemütlich im Trockenen mit Meeresrauschen zu beenden.",
+                "hu": "A parkolóból tágas kilátás nyílik a partvonalra; tökéletes helyszín a nap befejezéséhez a száraz autóban, hallgatva a tenger morajlását.",
+                "ro": "Parcarea oferă o vedere largă asupra liniei de coastă; un loc perfect pentru a încheia ziua în mașină, ascultând vuietul mării.",
+                "en": "The parking lot offers a wide view of the coastline; it is a perfect spot to end your day in the dry car, listening to the roar of the sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger, aber sonniger Wintermorgen beginnt mit der Fahrt zur Küste. Mittags besuchen wir die beheizte Kirche und das Miniaturmuseum, um der Kälte zu entgehen. Am Nachmittag genießen wir die klare Sicht auf die Felsen im Licht der tiefstehenden Sonne. Da es um 17 Uhr dunkel wird, beenden wir die Panoramafahrt rechtzeitig vor Einbruch der Kälte.",
+            "hu": "Fagyos, de napos téli reggelen indul az autózás a part mentén. Délben a fűtött templomot és a makettmúzeumot keressük fel a hideg elől. Délután az alacsony napállás tiszta fényében gyönyörködünk a sziklákban és a dűnékben. Mivel ötkor sötétedik, a panorámautat időben, még az esti lehűlés előtt fejezzük be.",
+            "ro": "O dimineață de iarnă geroasă, dar însorită, începe cu o plimbare spre coastă. La prânz vizităm biserica încălzită și muzeul miniaturilor pentru a scăpa de frig. După-amiaza ne bucurăm de vederea clară a stâncilor în lumina soarelui. Deoarece se întunecă la ora 17:00, încheiem traseul panoramic înainte de lăsarea serii.",
+            "en": "A frosty but sunny winter morning starts with a drive along the coast. At midday, we visit the heated church and the miniature museum to escape the chill. In the afternoon, we enjoy the clear views of the rocks in the low sun's light. Since it gets dark by 5 PM, we finish the scenic drive in time before the evening cold sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dünenstrand",
+                "hu": "Dűnék strandja",
+                "ro": "Plaja Dunelor",
+                "en": "Dunes Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Dünen wirken im Winterlicht besonders plastisch; nutzen Sie die Heizung im Auto, während Sie die fast leere Landschaft in Ruhe bewundern.",
+                "hu": "A dűnék a téli fényben különösen látványosak; használja az autó fűtését, miközben a szinte teljesen néptelen tájat csodálja a tiszta levegőben.",
+                "ro": "Dunele par deosebit de spectaculoase în lumina de iarnă; folosiți căldura din mașină în timp ce admirați peisajul aproape pustiu în liniște.",
+                "en": "The dunes look particularly striking in the winter light; use the car's heater while you admire the almost deserted landscape in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Mariä Himmelfahrt",
+                "hu": "Nagyboldogasszony-templom",
+                "ro": "Biserica Adormirii Maicii Domnului",
+                "en": "Church of Our Lady of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist ein warmer Rückzugsort; ideal für eine Pause von der frostigen Außenluft, bevor Sie die Panoramafahrt fortsetzen.",
+                "hu": "A templombelső meleg menedék a téli napon; ideális helyszín egy rövid szünetre a fagyos levegő után, mielőtt folytatná a panorámautat.",
+                "ro": "Interiorul bisericii este un refugiu cald; ideal pentru o pauză de la aerul înghețat de afară înainte de a continua traseul panoramic.",
+                "en": "The church interior is a warm retreat; it is ideal for a break from the frosty outdoor air before you continue your scenic coastal drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Vendée Miniature",
+                "hu": "Vendée Miniature",
+                "ro": "Vendée Miniature",
+                "en": "Vendée Miniature"
+              },
+              "tip_5lang": {
+                "de": "Diese Attraktion ist im Winter angenehm beheizt; genießen Sie die detailreiche Ausstellung ganz ohne die sommerlichen Menschenmassen.",
+                "hu": "Ez a látványosság télen kellemesen fűtött; élvezze a részletgazdag kiállítást a nyári tömeg nélkül, teljes nyugalomban a barátságos beltérben.",
+                "ro": "Această atracție este încălzită plăcut iarna; bucurați-vă de expoziția detaliată fără mulțimile de vară, într-o liniște deplină și confort.",
+                "en": "This attraction is comfortably heated in winter; enjoy the detailed exhibition without the summer crowds, in total peace and comfort inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Felsen Sainte-Véronique",
+                "hu": "Sainte-Véronique szikla",
+                "ro": "Stânca Sainte-Véronique",
+                "en": "Sainte-Véronique Rock"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht bietet die besten Fotomöglichkeiten; parken Sie direkt am Aussichtspunkt, um die Kälte draußen nur kurz zu spüren.",
+                "hu": "A tiszta téli fények kínálják a legjobb fotózási lehetőségeket; parkoljon közvetlenül a kilátópontnál, hogy csak rövid ideig kelljen kiszállnia.",
+                "ro": "Lumina clară de iarnă oferă cele mai bune oportunități foto; parcați direct la punctul de belvedere pentru a simți frigul doar pentru scurt timp.",
+                "en": "The clear winter light offers the best photo opportunities; park directly at the viewpoint to minimize your time out in the biting cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand La Sauzaie",
+                "hu": "La Sauzaie strand",
+                "ro": "Plaja La Sauzaie",
+                "en": "La Sauzaie Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17 Uhr direkt vom Auto aus; die Farben am Horizont sind im Winter oft besonders intensiv.",
+                "hu": "Figyelje meg a korai, öt órai naplementét közvetlenül az autóból; a látóhatár színei télen gyakran különösen intenzívek a tiszta égbolt alatt.",
+                "ro": "Observați apusul timpuriu de la ora 17:00 direct din mașină; culorile la orizont sunt adesea deosebit de intense iarna sub cerul senin.",
+                "en": "Watch the early sunset around 5 PM directly from your car; the colors on the horizon are often particularly intense in the winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand Petit Pont",
+                "hu": "Petit Pont naturista strand",
+                "ro": "Plaja naturistă Petit Pont",
+                "en": "Petit Pont Naturist Beach"
+              },
+              "tip_5lang": {
+                "de": "Der menschenleere Strand bietet im Winter eine fast magische Stille; beenden Sie die Tour im warmen Auto mit Blick auf das dunkler werdende Meer.",
+                "hu": "A néptelen part télen szinte mágikus csendet áraszt; fejezze be a túrát a meleg autóban, figyelve a sötétedő tengert és a parti fényeket.",
+                "ro": "Plaja pustie oferă o liniște aproape magică iarna; încheiați turul în mașina caldă, privind marea care se întunecă sub lumina amurgului.",
+                "en": "The deserted beach offers an almost magical silence in winter; end your tour in the warm car while watching the sea darken as twilight falls."
+              }
+            }
+          ]
+        }
       }
     }
   }

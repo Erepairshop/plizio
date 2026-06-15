@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt az impozáns Monumento a la Patria felfedezésével, majd induljon az öböl felé. Délben fedezze fel a Justicia és a Nachi Cocom emlékművek kulturális jelentőségét. A délután egy vízparti sétára hív a színes Chetumal betűkhöz. Zárja a napot a lenyűgöző Teatro Constituyentesnél, és szívja magába a város művészi esti hangulatát.",
         "ro": "Începeți dimineața explorând impunătorul Monumento a la Patria înainte de a vă îndrepta spre golf. La amiază, descoperiți semnificația memorialelor Justicia și Nachi Cocom. După-amiaza vă invită să vă plimbați pe faleză până la literele colorate Chetumal. Încheiați ziua la impresionantul Teatro Constituyentes, bucurându-vă de atmosfera artistică.",
         "en": "Start your morning exploring the imposing Monumento a la Patria before moving towards the bay. Midday, discover the cultural significance of the Justicia and Nachi Cocom memorials. The afternoon invites you to stroll along the waterfront to the colorful Chetumal letters. Wrap up your day at the striking Teatro Constituyentes, soaking in the city's artistic evening vibe."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag trotz Regens mit einer Erkundung der Geschichte Chetumals. Mittags bieten Museen und Galerien Schutz vor den Schauern entlang der Küste. Am Nachmittag laden überdachte Plätze zum Verweilen ein, während die Wolken über der Bucht ziehen. Der Abend endet gemütlich in der Nähe des Hafens, wo die Lichter der Stadt im nassen Asphalt der Uferpromenade reflektieren.",
+            "hu": "Kezdje a napot a város történelmi emlékeivel, esernyővel felszerelkezve. Délben a belső terek és galériák nyújtanak menedéket a trópusi záporok elől a part mentén. Délután a fedett árkádok alatt pihenhet meg, figyelve az öböl felett gyülekező felhőket. Az este a kikötő közelében ér véget, ahol az utcai lámpák fénye megcsillan a vizes aszfalton, különleges hangulatot árasztva.",
+            "ro": "Începeți ziua explorând istoria orașului Chetumal, echipați cu o umbrelă. La prânz, muzeele și galeriile oferă adăpost împotriva ploilor tropicale de-a lungul coastei. După-amiaza, arcadele acoperite sunt locuri ideale de popas în timp ce norii trec peste golf. Seara se încheie lângă port, unde luminile orașului se reflectă în asfaltul umed al falezei, creând o atmosferă deosebită.",
+            "en": "Start your day exploring Chetumal's history, well-equipped with an umbrella. At noon, indoor spaces and galleries provide shelter from tropical showers along the coast. In the afternoon, covered plazas offer a place to rest while clouds drift over the bay. The evening ends near the port, where city lights reflect on the wet pavement of the waterfront, creating a unique atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a la Patria",
+                "hu": "Monumento a la Patria",
+                "ro": "Monumento a la Patria",
+                "en": "Monumento a la Patria"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die detailreichen Reliefs der mexikanischen Geschichte; bei Regen bieten die nahen Bäume kurzzeitig Schutz, aber ein stabiler Schirm ist hier unverzichtbar.",
+                "hu": "Csodálja meg a mexikói történelem részletes domborműveit; esőben a közeli fák adnak némi menedéket, de egy stabil esernyő itt mindenképpen kötelező felszerelés.",
+                "ro": "Admirați basoreliefurile detaliate ale istoriei mexicane; în caz de ploaie, copacii din apropiere oferă un scurt adăpost, dar o umbrelă stabilă este indispensabilă aici.",
+                "en": "Admire the detailed reliefs of Mexican history; in the rain, nearby trees offer brief shelter, but a sturdy umbrella is definitely a must-have piece of equipment here."
+              }
+            },
+            {
+              "name": {
+                "de": "Poet of Chetumal - tickets",
+                "hu": "Poet of Chetumal - tickets",
+                "ro": "Poet of Chetumal - tickets",
+                "en": "Poet of Chetumal - tickets"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist den literarischen Wurzeln gewidmet; suchen Sie bei starken Schauern Schutz im Kassenbereich und achten Sie auf die rutschigen Fliesen am Denkmal.",
+                "hu": "Ez a hely a város irodalmi gyökereinek állít emléket; heves zápor esetén keressen menedéket a pénztárnál, és vigyázzon az emlékmű körüli csúszós burkolatra.",
+                "ro": "Acest loc este dedicat rădăcinilor literare; în caz de aversă puternică, căutați adăpost la casa de bilete și aveți grijă la pavajul alunecos din jurul monumentului.",
+                "en": "This place honors the city's literary roots; in case of heavy showers, seek shelter at the ticket area and be careful of the slippery pavement around the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Justicia",
+                "hu": "Justicia",
+                "ro": "Justicia",
+                "en": "Justicia"
+              },
+              "tip_5lang": {
+                "de": "Ein Symbol für Recht und Ordnung mit beeindruckender Architektur; nutzen Sie die Portale der umliegenden Gebäude, um trocken zu bleiben, während Sie das Denkmal betrachten.",
+                "hu": "A jog és rend szimbóluma lenyűgöző építészettel; használja a környező épületek árkádjait, hogy szárazon maradjon, miközben az emlékművet és a környezetét figyeli.",
+                "ro": "Un simbol al legii și ordinii cu o arhitectură impresionantă; folosiți arcadele clădirilor din jur pentru a rămâne uscați în timp ce observați monumentul și împrejurimile.",
+                "en": "A symbol of law and order with impressive architecture; use the arcades of surrounding buildings to stay dry while observing the monument and its surroundings."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachi Cocom",
+                "hu": "Nachi Cocom",
+                "ro": "Nachi Cocom",
+                "en": "Nachi Cocom"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über den Maya-Widerstand an diesem historischen Ort; die dichte Vegetation in der Nähe hilft, den schlimmsten Regen abzufangen, aber tragen Sie wasserfeste Schuhe.",
+                "hu": "Ismerje meg a maja ellenállást ezen a történelmi helyszínen; a közeli sűrű növényzet segít felfogni a nagyobb esőcseppeket, de mindenképpen viseljen vízálló cipőt.",
+                "ro": "Aflați despre rezistența mayașă în acest sit istoric; vegetația densă din apropiere ajută la oprirea picăturilor mari de ploaie, dar purtați neapărat încălțăminte impermeabilă.",
+                "en": "Learn about the Mayan resistance at this historical site; the nearby dense vegetation helps catch large raindrops, but be sure to wear waterproof shoes here."
+              }
+            },
+            {
+              "name": {
+                "de": "Letras CHETUMAL Aquí Inicia México",
+                "hu": "Letras CHETUMAL Aquí Inicia México",
+                "ro": "Letras CHETUMAL Aquí Inicia México",
+                "en": "Letras CHETUMAL Aquí Inicia México"
+              },
+              "tip_5lang": {
+                "de": "Ein obligatorisches Fotomotiv an der Grenze; warten Sie eine Regenpause ab, um das perfekte Bild zu machen, da die Farben der Buchstaben bei Nässe besonders kräftig leuchten.",
+                "hu": "Kötelező fotópont a határ közelében; várjon meg egy esőszünetet a tökéletes képhez, mert a betűk színei nedvesen különösen élénken és szépen mutatnak a fotókon.",
+                "ro": "Un punct foto obligatoriu lângă graniță; așteptați o pauză între ploi pentru poza perfectă, deoarece culorile literelor par mult mai vii și frumoase când sunt umede.",
+                "en": "A mandatory photo spot near the border; wait for a break in the rain for the perfect shot, as the colors of the letters look particularly vivid and beautiful when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Letras CHETUMAL",
+                "hu": "Letras CHETUMAL",
+                "ro": "Letras CHETUMAL",
+                "en": "Letras CHETUMAL"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer markanter Orientierungspunkt am Boulevard; die Nähe zu Cafés ermöglicht es, bei plötzlichem Guss schnell unter ein festes Dach zu flüchten.",
+                "hu": "Egy másik jellegzetes tájékozódási pont a sugárúton; a közeli kávézók közelsége lehetővé teszi, hogy hirtelen felhőszakadás esetén gyorsan fedett helyre meneküljön.",
+                "ro": "Un alt punct de reper distinctiv de pe bulevard; proximitatea cafenelelor vă permite să vă adăpostiți rapid într-un loc acoperit în caz de aversă bruscă.",
+                "en": "Another distinctive landmark on the boulevard; the proximity of nearby cafes allows you to quickly escape to a covered area in case of a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Constituyentes",
+                "hu": "Teatro Constituyentes",
+                "ro": "Teatro Constituyentes",
+                "en": "Teatro Constituyentes"
+              },
+              "tip_5lang": {
+                "de": "Das Kulturzentrum bietet das perfekte Finale für einen regnerischen Tag; genießen Sie eine Aufführung im Trockenen und bewundern Sie die Architektur der Lobby.",
+                "hu": "A kulturális központ tökéletes befejezése az esős napnak; élvezzen egy előadást a száraz beltérben, és csodálja meg az épület előcsarnokának elegáns építészetét.",
+                "ro": "Centrul cultural este finalul perfect pentru o zi ploioasă; bucurați-vă de un spectacol în interiorul uscat și admirați arhitectura elegantă a holului clădirii.",
+                "en": "The cultural center is the perfect finale to a rainy day; enjoy a performance in the dry interior and admire the elegant architecture of the building's lobby."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milde Wintersonne bei einem Morgenspaziergang durch das historische Zentrum. Mittags bietet die Meeresbrise eine angenehme Erfrischung ohne die extreme Sommerhitze. Der Nachmittag eignet sich perfekt für längere Besichtigungen im Freien, bevor es gegen 17:00 Uhr kühler wird. Abends sollten Sie eine leichte Jacke tragen, während Sie das goldene Licht des frühen Sonnenuntergangs bewundern.",
+            "hu": "Élvezze az enyhe téli napsütést egy reggeli séta során a történelmi központban. Délben a tengeri szellő kellemes felfrissülést nyújt az extrém nyári hőség nélkül. A délután tökéletes a hosszabb szabadtéri városnézésre, mielőtt 17:00 körül lehűlne az idő. Estére készüljön könnyű kabáttal, miközben az öböl feletti korai naplemente arany fényeit csodálja.",
+            "ro": "Bucurați-vă de soarele blând de iarnă în timpul unei plimbări matinale prin centrul istoric. La prânz, briza mării oferă o prospețime plăcută, fără căldura extremă a verii. După-amiaza este perfectă pentru vizitarea obiectivelor turistice în aer liber înainte de răcirea vremii în jur de ora 17:00. Seara, purtați o jachetă ușoară în timp ce admirați apusul timpuriu de peste golf.",
+            "en": "Enjoy the mild winter sun during a morning walk through the historical center. At noon, the sea breeze provides pleasant refreshment without the extreme summer heat. The afternoon is perfect for longer outdoor sightseeing before the weather cools down around 17:00. For the evening, bring a light jacket while admiring the golden lights of the early sunset over the bay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a la Patria",
+                "hu": "Monumento a la Patria",
+                "ro": "Monumento a la Patria",
+                "en": "Monumento a la Patria"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist das Licht am Morgen weicher, ideal für Fotos der Skulpturen; nutzen Sie die kühleren Stunden, um jedes Detail der mexikanischen Symbole zu studieren.",
+                "hu": "Télen a reggeli fények lágyabbak, ideálisak a szobrok fotózásához; használja ki a hűvösebb órákat, hogy alaposan megvizsgálja a mexikói jelképek minden apró részletét.",
+                "ro": "Iarna, lumina dimineții este mai blândă, ideală pentru fotografierea statuilor; profitați de orele mai răcoroase pentru a examina fiecare detaliu al simbolurilor mexicane.",
+                "en": "In winter, the morning light is softer, ideal for photographing the statues; take advantage of the cooler hours to thoroughly examine every detail of the Mexican symbols."
+              }
+            },
+            {
+              "name": {
+                "de": "Poet of Chetumal - tickets",
+                "hu": "Poet of Chetumal - tickets",
+                "ro": "Poet of Chetumal - tickets",
+                "en": "Poet of Chetumal - tickets"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort im Winter, an dem man ohne Hitze die Aussicht genießen kann; bringen Sie eine Thermoskanne mit einem warmen Getränk für eine kurze Pause mit.",
+                "hu": "Békés hely télen, ahol hőség nélkül élvezheti a kilátást; hozzon magával egy termoszt meleg itallal egy rövid pihenőhöz a költő emlékművének közvetlen közelében.",
+                "ro": "Un loc liniștit iarna, unde vă puteți bucura de priveliște fără arșiță; aduceți un termos cu o băutură caldă pentru o scurtă pauză lângă monumentul poetului.",
+                "en": "A peaceful place in winter where you can enjoy the view without the heat; bring a thermos with a warm drink for a short break in the immediate vicinity of the poet's monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Justicia",
+                "hu": "Justicia",
+                "ro": "Justicia",
+                "en": "Justicia"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft lässt die Steinstrukturen besonders scharf hervortreten; die kühleren Temperaturen machen den Aufenthalt auf dem offenen Platz sehr angenehm.",
+                "hu": "A tiszta téli levegőben a kőépítmények textúrája különösen élesen látszik; a hűvösebb hőmérséklet miatt a nyitott téren való tartózkodás ilyenkor rendkívül kellemes.",
+                "ro": "Aerul curat de iarnă face ca textura structurilor de piatră să iasă în evidență; temperaturile mai scăzute fac șederea în piața deschisă extrem de plăcută în această perioadă.",
+                "en": "In the clear winter air, the texture of the stone structures stands out sharply; the cooler temperatures make staying in the open plaza extremely pleasant at this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachi Cocom",
+                "hu": "Nachi Cocom",
+                "ro": "Nachi Cocom",
+                "en": "Nachi Cocom"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Geschichte des Maya-Helden; die tiefstehende Wintersonne erzeugt dramatische Schatten auf den Denkmälern, perfekt für stimmungsvolle Aufnahmen.",
+                "hu": "Merüljön el a maja hős történetében; az alacsonyan járó téli nap drámai árnyékokat vet az emlékművekre, ami tökéletes a hangulatos és művészi fotók készítéséhez.",
+                "ro": "Cufundați-vă în povestea eroului mayaș; soarele de iarnă aflat jos pe cer proiectează umbre dramatice pe monumente, fiind perfect pentru fotografii artistice.",
+                "en": "Immerse yourself in the story of the Mayan hero; the low winter sun casts dramatic shadows on the monuments, perfect for creating atmospheric and artistic photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Letras CHETUMAL Aquí Inicia México",
+                "hu": "Letras CHETUMAL Aquí Inicia México",
+                "ro": "Letras CHETUMAL Aquí Inicia México",
+                "en": "Letras CHETUMAL Aquí Inicia México"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Punkt kurz vor Sonnenuntergang gegen 16:30 Uhr; die warme Winterbeleuchtung lässt die Farben der Buchstaben besonders prächtig leuchten.",
+                "hu": "Látogasson el ide nem sokkal naplemente előtt, 16:30 körül; a meleg téli fények különösen pompásan világítják meg a betűket, kiemelve azok élénk színeit.",
+                "ro": "Vizitați acest punct cu puțin timp înainte de apus, în jur de ora 16:30; luminile calde de iarnă luminează literele într-un mod splendid, scoțând în evidență culorile.",
+                "en": "Visit this spot shortly before sunset around 16:30; the warm winter lights illuminate the letters particularly splendidly, highlighting their bright colors."
+              }
+            },
+            {
+              "name": {
+                "de": "Letras CHETUMAL",
+                "hu": "Letras CHETUMAL",
+                "ro": "Letras CHETUMAL",
+                "en": "Letras CHETUMAL"
+              },
+              "tip_5lang": {
+                "de": "Da es ab 17:00 Uhr spürbar kühler wird, ist dies ein guter Zeitpunkt für ein letztes Foto am Boulevard, bevor Sie sich in ein beheiztes Café zurückziehen.",
+                "hu": "Mivel 17:00 órától érezhetően hűvösebb lesz, ez a legmegfelelőbb időpont egy utolsó fotóhoz a sugárúton, mielőtt visszahúzódna egy kellemesen meleg kávézóba.",
+                "ro": "Deoarece se face considerabil mai răcoare după ora 17:00, acesta este cel mai bun moment pentru o ultimă fotografie pe bulevard înainte de a vă retrage într-o cafenea.",
+                "en": "Since it gets noticeably cooler from 17:00, this is the best time for a final photo on the boulevard before retreating to a pleasantly warm cafe."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Constituyentes",
+                "hu": "Teatro Constituyentes",
+                "ro": "Teatro Constituyentes",
+                "en": "Teatro Constituyentes"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im warmen Inneren des Theaters; die winterlichen Abendvorstellungen bieten eine gemütliche Atmosphäre fernab der abendlichen Kühle der Bucht.",
+                "hu": "Zárja a napot a színház meleg belső terében; a téli esti előadások meghitt hangulatot árasztanak, távol az öböl felől érkező hűvös esti szellőktől.",
+                "ro": "Încheiați ziua în interiorul cald al teatrului; spectacolele de seară în timpul iernii oferă o atmosferă intimă, departe de briza răcoroasă a golfului.",
+                "en": "End the day in the warm interior of the theater; winter evening performances offer a cozy atmosphere away from the cool evening breezes coming from the bay."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kerékpározzon el a megható „La familia” szoborhoz a friss kezdésért, majd merüljön el a yoo´k ol kab szabadtéri kiállításaiban. Délben fedezze fel az Acuario Mamisha tengeri élővilágát. Délután guruljon dél felé a Monumento a la Patria megcsodálásához. Élvezze az esti utat a helyi költészeti nevezetességek mellett az ikonikus Chetumal határbetűkig.",
         "ro": "Pedalați până la sculptura 'La familia' pentru un început proaspăt, apoi explorați expozițiile de la yoo´k ol kab. La amiază, descoperiți viața marină la Acuario Mamisha. Mergeți spre sud după-amiaza pentru a admira Monumento a la Patria. Bucurați-vă de o plimbare de seară pe lângă reperele locale de poezie până la literele iconice Chetumal de la mare.",
         "en": "Cycle your way to the moving 'La familia' sculpture for a fresh start, then immerse yourself in the open-air exhibits at yoo´k ol kab. For midday, delve into marine life at Acuario Mamisha. Keep cruising south in the afternoon to admire the towering Monumento a la Patria. Enjoy an evening ride past the local poetry landmarks to the iconic Chetumal boundary letters by the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Chetumal auf zwei Rädern, aber achten Sie auf die rutschigen Wege bei Regen. Vormittags bieten die Alleen etwas Schutz, doch wasserfeste Kleidung ist unerlässlich. Mittags können Sie an überdachten Museen pausieren, während die kräftigen Schauer niedergehen. Am Nachmittag radeln Sie entlang der Küste, wo die salzige Luft und der Regen eine ganz eigene, erfrischende Dynamik entwickeln.",
+            "hu": "Fedezze fel Chetumalt két keréken, de ügyeljen a csúszós utakra az esőben. Délelőtt a fasorok nyújtanak némi védelmet, de a vízálló ruházat elengedhetetlen. Délben tartson pihenőt a fedett múzeumoknál, amíg a hevesebb záporok elvonulnak. Délután kerekezzen a part mentén, ahol a sós tengeri levegő és az eső keveréke egyedülállóan frissítő élményt nyújt.",
+            "ro": "Explorați Chetumal pe două roți, dar atenție la drumurile alunecoase pe timp de ploaie. Dimineața, aleile oferă puțină protecție, dar îmbrăcămintea impermeabilă este esențială. La prânz, faceți pauze la muzeele acoperite în timp ce trec aversele puternice. După-amiaza, pedalați de-a lungul coastei, unde amestecul de aer sărat și ploaie oferă o experiență revigorantă unică.",
+            "en": "Explore Chetumal on two wheels, but watch out for slippery roads in the rain. In the morning, tree-lined avenues offer some protection, but waterproof clothing is essential. At noon, take breaks at covered museums while heavy showers pass. In the afternoon, cycle along the coast where the mix of salty sea air and rain provides a uniquely refreshing experience."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "L a familia",
+                "hu": "L a familia",
+                "ro": "L a familia",
+                "en": "L a familia"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal ehrt den Zusammenhalt; parken Sie Ihr Fahrrad unter dem Vordach eines nahen Gebäudes und achten Sie auf die Markierungen bei Nässe.",
+                "hu": "Ez az emlékmű az összetartozást hirdeti; parkolja le kerékpárját egy közeli épület előtetője alá, és figyeljen a felfestett útburkolati jelekre a vizes úton.",
+                "ro": "Acest monument onorează unitatea; parcați bicicleta sub copertina unei clădiri din apropiere și fiți atenți la marcajele rutiere de pe carosabilul umed.",
+                "en": "This monument honors togetherness; park your bike under the canopy of a nearby building and pay attention to the painted road markings on the wet road."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro al aire libre yoo´k ol kab",
+                "hu": "Teatro al aire libre yoo´k ol kab",
+                "ro": "Teatro al aire libre yoo´k ol kab",
+                "en": "Teatro al aire libre yoo´k ol kab"
+              },
+              "tip_5lang": {
+                "de": "Obwohl es ein Freilufttheater ist, bieten die Strukturen oft Nischen zum Unterstellen; prüfen Sie Ihre Bremsen, bevor Sie die leicht abschüssigen Wege befahren.",
+                "hu": "Bár szabadtéri színház, a szerkezetek gyakran kínálnak beugrókat a várakozáshoz; ellenőrizze a fékeit, mielőtt a vizes, enyhén lejtős utakon továbbhajtana.",
+                "ro": "Deși este un teatru în aer liber, structurile oferă adesea nișe pentru a aștepta; verificați frânele înainte de a continua pe drumurile umede, ușor înclinate.",
+                "en": "Although it's an open-air theater, the structures often offer niches for waiting; check your brakes before continuing on the wet, slightly sloping paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Acuario Mamisha",
+                "hu": "Acuario Mamisha",
+                "ro": "Acuario Mamisha",
+                "en": "Acuario Mamisha"
+              },
+              "tip_5lang": {
+                "de": "Das Aquarium ist der ideale Zufluchtsort bei Regen; stellen Sie Ihr Rad sicher ab und genießen Sie die Unterwasserwelt, während es draußen stürmt.",
+                "hu": "Az akvárium tökéletes menedék eső esetén; zárja le biztonságosan kerékpárját, és élvezze a víz alatti világot, amíg kint tombol a trópusi vihar.",
+                "ro": "Acvariul este refugiul perfect în caz de ploaie; parcați bicicleta în siguranță și bucurați-vă de lumea subacvatică în timp ce afară e furtună tropicală.",
+                "en": "The aquarium is the perfect refuge in case of rain; lock your bike securely and enjoy the underwater world while the tropical storm rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Patria",
+                "hu": "Monumento a la Patria",
+                "ro": "Monumento a la Patria",
+                "en": "Monumento a la Patria"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Meilenstein, der auch im Regen beeindruckt; tragen Sie eine Regenponcho, der auch Ihre Beine beim Radeln vor Spritzwasser schützt.",
+                "hu": "Kulturális mérföldkő, amely esőben is lenyűgöző; viseljen esőponcsót, amely tekerés közben a lábait is megvédi a kerekek által felcsapott víztől.",
+                "ro": "Un punct de referință cultural care impresionează și pe ploaie; purtați o pelerină de ploaie care să vă protejeze picioarele de apa împroșcată de roți.",
+                "en": "A cultural landmark that's impressive even in the rain; wear a rain poncho that also protects your legs from the water splashed up by the wheels while pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Poet of Chetumal - tickets",
+                "hu": "Poet of Chetumal - tickets",
+                "ro": "Poet of Chetumal - tickets",
+                "en": "Poet of Chetumal - tickets"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für die Poesie; achten Sie auf Pfützen auf dem Weg zum Denkmal, um nasse Füße zu vermeiden, und halten Sie den Lenker fest im Griff.",
+                "hu": "Rövid megálló a költészet jegyében; ügyeljen a tócsákra az emlékmű felé vezető úton, hogy elkerülje a beázást, és tartsa stabilan a kormányt a csúszós aszfalton.",
+                "ro": "O scurtă oprire dedicată poeziei; atenție la bălțile de pe drumul spre monument pentru a evita udarea picioarelor și țineți bine ghidonul pe asfaltul ud.",
+                "en": "A short stop for poetry; watch out for puddles on the way to the monument to avoid getting wet, and keep a steady grip on the handlebars on the slippery asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Letras CHETUMAL Aquí Inicia México",
+                "hu": "Letras CHETUMAL Aquí Inicia México",
+                "ro": "Letras CHETUMAL Aquí Inicia México",
+                "en": "Letras CHETUMAL Aquí Inicia México"
+              },
+              "tip_5lang": {
+                "de": "Die bunten Buchstaben bilden einen tollen Kontrast zum grauen Regenhimmel; wischen Sie den Sattel vor der Weiterfahrt gründlich trocken.",
+                "hu": "A színes betűk nagyszerű kontrasztot alkotnak a szürke esős éggel; a továbbindulás előtt alaposan törölje szárazra a kerékpár nyergét egy ronggyal.",
+                "ro": "Literele colorate creează un contrast excelent cu cerul gri de ploaie; înainte de a pleca, ștergeți bine șaua bicicletei cu o cârpă uscată.",
+                "en": "The colorful letters provide a great contrast to the gray rainy sky; wipe your bike saddle thoroughly dry with a cloth before moving on."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter bietet ideales Radwetter in Chetumal mit angenehmen Temperaturen um die 24 Grad. Vormittags gleiten Sie entspannt durch die sonnigen Straßen, ohne ins Schwitzen zu kommen. Mittags ist die Luft an der Küste herrlich klar und frisch. Nutzen Sie den Nachmittag für ausgiebige Touren, aber denken Sie daran, dass es nach 17:00 Uhr schnell schattig und kühler wird.",
+            "hu": "A tél tökéletes kerékpáros időt kínál Chetumalban, kellemes 24 fok körüli hőmérséklettel. Délelőtt izzadás nélkül kerekezhet a napsütötte utcákon. Délben a tengerparti levegő csodálatosan tiszta és frissítő. Használja ki a délutánt hosszabb túrákra, de ne feledje, hogy 17:00 után gyorsan árnyékossá és hűvössé válik a környék.",
+            "ro": "Iarna oferă o vreme perfectă pentru ciclism în Chetumal, cu temperaturi plăcute de aproximativ 24 de grade. Dimineața puteți pedala fără efort pe străzile însorite. La prânz, aerul de pe coastă este minunat de curat și revigorant. Profitați de după-amiază pentru trasee mai lungi, dar nu uitați că după ora 17:00 se face umbră și răcoare.",
+            "en": "Winter offers ideal cycling weather in Chetumal, with pleasant temperatures around 24 degrees. In the morning, you can cycle through the sunny streets without breaking a sweat. At noon, the coastal air is wonderfully clear and refreshing. Use the afternoon for longer rides, but remember that it quickly becomes shady and cool after 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "L a familia",
+                "hu": "L a familia",
+                "ro": "L a familia",
+                "en": "L a familia"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne beleuchtet das Familiendenkmal wunderschön; die kühle Brise macht die Anfahrt per Rad auch über längere Strecken sehr angenehm.",
+                "hu": "A reggeli nap gyönyörűen világítja meg a család emlékművét; a hűvös szellő miatt a távolabbról érkező kerékpáros út is kifejezetten élvezetes marad.",
+                "ro": "Soarele dimineții luminează frumos monumentul familiei; briza răcoroasă face ca drumul cu bicicleta, chiar și pe distanțe mai mari, să fie foarte plăcut.",
+                "en": "The morning sun beautifully illuminates the family monument; the cool breeze makes the bike ride very enjoyable, even over longer distances."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro al aire libre yoo´k ol kab",
+                "hu": "Teatro al aire libre yoo´k ol kab",
+                "ro": "Teatro al aire libre yoo´k ol kab",
+                "en": "Teatro al aire libre yoo´k ol kab"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause im Winter, da die Sonne hier nicht so intensiv brennt wie im Sommer; genießen Sie die Architektur bei mildem Licht.",
+                "hu": "Ideális helyszín egy téli pihenőhöz, mivel a nap itt nem éget olyan intenzíven, mint nyáron; élvezze az építészeti formákat a lágy téli fényben.",
+                "ro": "Un loc ideal pentru o pauză de iarnă, deoarece soarele nu arde aici la fel de intens ca vara; bucurați-vă de formele arhitecturale în lumina blândă.",
+                "en": "An ideal location for a winter break as the sun doesn't burn as intensely here as in summer; enjoy the architectural forms in the soft winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Acuario Mamisha",
+                "hu": "Acuario Mamisha",
+                "ro": "Acuario Mamisha",
+                "en": "Acuario Mamisha"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im Schatten und erkunden Sie die Meeresfauna; die klimatisierten Räume fühlen sich im Winter weniger extrem als im Sommer an.",
+                "hu": "Parkolja le kerékpárját az árnyékban és fedezze fel a tengeri élővilágot; a klimatizált termek télen kevésbé tűnnek extrémnek, mint a nyári hőségben.",
+                "ro": "Parcați bicicleta la umbră și explorați fauna marină; sălile climatizate par mai puțin extreme iarna comparativ cu perioada caniculei de vară.",
+                "en": "Park your bike in the shade and explore the marine life; the air-conditioned rooms feel less extreme in winter compared to the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Patria",
+                "hu": "Monumento a la Patria",
+                "ro": "Monumento a la Patria",
+                "en": "Monumento a la Patria"
+              },
+              "tip_5lang": {
+                "de": "Im Winter können Sie hier länger verweilen, ohne von der Hitze erschöpft zu werden; das Denkmal ist ein toller Stopp für Wasserpausen beim Radeln.",
+                "hu": "Télen hosszabb ideig időzhet itt anélkül, hogy a hőség kimerítené; az emlékmű kiváló megállóhely egy frissítő vízügyi szünetre a tekerés közben.",
+                "ro": "Iarna puteți zăbovi aici mai mult timp fără a fi epuizați de căldură; monumentul este un punct de oprire excelent pentru o pauză de hidratare.",
+                "en": "In winter, you can linger here longer without being exhausted by the heat; the monument is an excellent stop for a refreshing water break while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Poet of Chetumal - tickets",
+                "hu": "Poet of Chetumal - tickets",
+                "ro": "Poet of Chetumal - tickets",
+                "en": "Poet of Chetumal - tickets"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Nachmittag; da die Sonne im Winter tiefer steht, werfen die umliegenden Gebäude lange, kühle Schatten auf den Radweg.",
+                "hu": "Élvezze a délutáni csendet; mivel a nap télen alacsonyabban jár, a környező épületek hosszú, hűvös árnyékot vetnek a kerékpárútra.",
+                "ro": "Bucurați-vă de liniștea după-amiezii; deoarece soarele este mai jos iarna, clădirile din jur proiectează umbre lungi și răcoroase pe pista de biciclete.",
+                "en": "Enjoy the afternoon quiet; since the sun is lower in winter, the surrounding buildings cast long, cool shadows across the bike path."
+              }
+            },
+            {
+              "name": {
+                "de": "Letras CHETUMAL Aquí Inicia México",
+                "hu": "Letras CHETUMAL Aquí Inicia México",
+                "ro": "Letras CHETUMAL Aquí Inicia México",
+                "en": "Letras CHETUMAL Aquí Inicia México"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für das letzte Foto vor Sonnenuntergang um 17:00 Uhr; ziehen Sie Ihre Jacke an, sobald die Sonne hinter den Horizont sinkt.",
+                "hu": "Tökéletes hely az utolsó fotóhoz a 17:00 órai naplemente előtt; vegye fel a kabátját, amint a nap eltűnik a látóhatár mögött, mert hirtelen lehűl a levegő.",
+                "ro": "Un loc perfect pentru ultima fotografie înainte de apusul de la ora 17:00; puneți-vă jacheta imediat ce soarele dispare după orizont, aerul se răcește brusc.",
+                "en": "A perfect spot for the last photo before the 17:00 sunset; put on your jacket as soon as the sun disappears behind the horizon as the air cools suddenly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Autózzon korán a Dos Mulas nyugodt partjaira, mielőtt megcsodálná a főszínház pompáját. Délben kövesse a hősök útját a Leona Vicarionál és a 'La familia'-nál. Délutánját töltse a mókás Monumento del queso és a történelmi Nachi Cocom megcsodálásával. Este guruljon le az öbölhöz egy tökéletes naplementés fotóért a híres Chetumal betűknél.",
         "ro": "Conduceți devreme la țărmurile liniștite din Dos Mulas înainte de a admira grandoarea teatrului principal. La amiază, urmați calea eroilor la Leona Vicario și 'La familia'. Petreceți după-amiaza la excentricul Monumento del queso și istoricul Nachi Cocom. Pe măsură ce se lasă seara, mergeți la golf pentru un apus perfect la faimoasele litere Chetumal.",
         "en": "Drive early to the tranquil shores of Dos Mulas before taking in the grandeur of the main theater. Midday, trace the path of Mexican heroes at Leona Vicario and 'La familia'. Spend your afternoon marveling at the quirky Monumento del queso and historic Nachi Cocom. As evening falls, cruise down to the bay for a picture-perfect sunset at the famous Chetumal letters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Chetumal ganz entspannt und bleiben auch bei tropischen Güssen trocken. Vormittags steuern Sie die Küstenpunkte an, während der Regen gegen die Scheiben trommelt. Mittags bieten die Parkplätze an den Sehenswürdigkeiten kurzen Zugang zu den Attraktionen. Am Nachmittag genießen Sie die Fahrt entlang des Boulevards, wo das aufgewirbelte Wasser der Bucht eine dramatische Kulisse bildet.",
+            "hu": "Autóval kényelmesen felfedezheti Chetumalt, miközben a trópusi záporok idején is száraz marad. Délelőtt a part menti pontokat keresheti fel, miközben az eső kopog a szélvédőn. Délben a nevezetességek közeli parkolói gyors bejutást biztosítanak a látnivalókhoz. Délután élvezze az autózást a sugárúton, ahol az öböl felkorbácsolt vize drámai hátteret biztosít az úthoz.",
+            "ro": "Cu mașina puteți explora confortabil orașul Chetumal, rămânând uscați chiar și în timpul averselor tropicale. Dimineața vizitați punctele de coastă în timp ce ploaia bate în parbriz. La prânz, parcările din apropierea obiectivelor turistice permit accesul rapid la atracții. După-amiaza, bucurați-vă de drumul de-a lungul bulevardului, unde apa agitată a golfului creează un decor dramatic.",
+            "en": "By car, you can comfortably explore Chetumal while staying dry even during tropical showers. In the morning, visit the coastal spots while the rain drums on the windshield. At noon, parking lots near the landmarks allow quick access to the attractions. In the afternoon, enjoy the drive along the boulevard, where the agitated waters of the bay provide a dramatic backdrop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dos Mulas",
+                "hu": "Dos Mulas",
+                "ro": "Dos Mulas",
+                "en": "Dos Mulas"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Ort am Wasser; parken Sie so nah wie möglich am Eingang, um bei einem plötzlichen Schauer schnell wieder ins trockene Auto zu gelangen.",
+                "hu": "Hangulatos hely a vízparton; parkoljon a lehető legközelebb a bejárathoz, hogy hirtelen zápor esetén gyorsan visszaérjen a száraz autóba.",
+                "ro": "Un loc plăcut pe malul apei; parcați cât mai aproape de intrare pentru a putea reveni rapid la mașina uscată în caz de aversă bruscă.",
+                "en": "A pleasant spot by the water; park as close to the entrance as possible so you can quickly return to the dry car in case of a sudden shower."
+              }
+            },
+            {
+              "name": {
+                "de": "TEATRO",
+                "hu": "TEATRO",
+                "ro": "TEATRO",
+                "en": "TEATRO"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Architektur dieses Kulturbaus; bei starkem Regen ist die Zufahrt direkt zum Eingang ein großer Vorteil für alle Passagiere.",
+                "hu": "Csodálja meg e kulturális épület építészetét; heves esőzés esetén a bejáratig való közvetlen behajtás nagy előnyt jelent az utasok számára.",
+                "ro": "Admirați arhitectura acestei clădiri culturale; în caz de ploaie torențială, accesul auto direct până la intrare este un mare avantaj pentru pasageri.",
+                "en": "Admire the architecture of this cultural building; in case of heavy rain, direct car access to the entrance is a great advantage for all passengers."
+              }
+            },
+            {
+              "name": {
+                "de": "Leona Vicario",
+                "hu": "Leona Vicario",
+                "ro": "Leona Vicario",
+                "en": "Leona Vicario"
+              },
+              "tip_5lang": {
+                "de": "Ein historischer Ort voller Bedeutung; nutzen Sie die Parkplätze in der Nähe und halten Sie einen Schirm bereit, da der Weg zum Denkmal nicht überdacht ist.",
+                "hu": "Jelentős történelmi helyszín; használja a közeli parkolókat, és tartson készenlétben esernyőt, mivel az emlékműhöz vezető út teljesen nyitott.",
+                "ro": "Un sit istoric de mare importanță; folosiți parcările din apropiere și aveți umbrela pregătită, deoarece drumul spre monument este complet deschis.",
+                "en": "A significant historical site; use nearby parking and have an umbrella ready as the path to the monument is completely open and uncovered."
+              }
+            },
+            {
+              "name": {
+                "de": "L a familia",
+                "hu": "L a familia",
+                "ro": "L a familia",
+                "en": "L a familia"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal ist leicht mit dem Auto zu erreichen; parken Sie am Straßenrand und machen Sie ein schnelles Foto, bevor der nächste Guss einsetzt.",
+                "hu": "Ez az emlékmű könnyen megközelíthető autóval; parkoljon le az út szélén, és készítsen egy gyors fotót, mielőtt megérkezne a következő zápor.",
+                "ro": "Acest monument este ușor accesibil cu mașina; parcați pe marginea drumului și faceți o fotografie rapidă înainte de următoarea aversă.",
+                "en": "This monument is easily accessible by car; park at the roadside and take a quick photo before the next shower arrives at the location."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento del queso",
+                "hu": "Monumento del queso",
+                "ro": "Monumento del queso",
+                "en": "Monumento del queso"
+              },
+              "tip_5lang": {
+                "de": "Ein kurioses Wahrzeichen der Stadt; die Fahrt hierher ist auch bei Regen angenehm, da man das Denkmal oft direkt vom Fenster aus gut sehen kann.",
+                "hu": "A város egyik különleges jelképe; az idevezető út esőben is kellemes, mivel az emlékmű sokszor közvetlenül az autó ablakából is jól látható.",
+                "ro": "Un simbol inedit al orașului; drumul până aici este plăcut și pe ploaie, deoarece monumentul este adesea vizibil chiar de la fereastra mașinii.",
+                "en": " A unique landmark of the city; the drive here is pleasant even in the rain, as the monument is often clearly visible directly from the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachi Cocom",
+                "hu": "Nachi Cocom",
+                "ro": "Nachi Cocom",
+                "en": "Nachi Cocom"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die lokale Geschichte kennen; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand, die sich nach tropischen Regenfällen schnell bilden.",
+                "hu": "Ismerje meg a helyi történelmet; kiszálláskor ügyeljen az út menti mély tócsákra, amelyek a trópusi esők után pillanatok alatt kialakulnak.",
+                "ro": "Descoperiți istoria locală; la coborâre, atenție la bălțile adânci de pe marginea drumului, care se formează rapid după ploile tropicale.",
+                "en": "Learn about the local history; when getting out, watch out for deep puddles at the roadside that form quickly after tropical rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Letras CHETUMAL",
+                "hu": "Letras CHETUMAL",
+                "ro": "Letras CHETUMAL",
+                "en": "Letras CHETUMAL"
+              },
+              "tip_5lang": {
+                "de": "Ein farbenfroher Abschluss der Tour; lassen Sie den Wagen kurz mit Warnblinkanlage stehen für ein schnelles Erinnerungsfoto im warmen Licht zwischen den Schauern.",
+                "hu": "A túra színes lezárása; álljon meg egy pillanatra az autóval egy gyors emlékfotóhoz a záporok közötti lágy fényekben, közvetlenül a sugárút mellett.",
+                "ro": "Finalul colorat al turului; opriți mașina pentru un moment pentru o poză rapidă în lumina blândă dintre averse, chiar lângă bulevard.",
+                "en": "A colorful end to the tour; stop for a moment with the car for a quick souvenir photo in the soft light between showers, right next to the boulevard."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Chetumal im Winter ganz entspannt mit dem Auto, wenn die Temperaturen perfekt für Erkundungen sind. Vormittags genießen Sie die freie Sicht auf die Bucht bei klarer Luft. Mittags ist das Parken an den Sehenswürdigkeiten stressfrei und die Meeresbrise weht erfrischend durch das offene Fenster. Am Nachmittag bietet die Fahrt im goldenen Licht der frühen Dämmerung ein unvergessliches Panorama.",
+            "hu": "Fedezze fel Chetumalt télen kényelmesen autóval, amikor a hőmérséklet ideális a városnézéshez. Délelőtt élvezze a tiszta kilátást az öbölre a friss levegőben. Délben a parkolás stresszmentes a látnivalóknál, a tengeri szellő pedig frissítően hat a nyitott ablakon át. Délután a korai szürkület arany fényei felejthetetlen panorámát nyújtanak az autózás közben.",
+            "ro": "Explorați Chetumal iarna confortabil cu mașina, când temperatura este ideală pentru vizitare. Dimineața, bucurați-vă de vederea clară spre golf în aerul proaspăt. La prânz, parcarea este fără stres la obiectivele turistice, iar briza mării este revigorantă prin geamul deschis. După-amiaza, luminile aurii ale amurgului timpuriu oferă o panoramă de neuitat.",
+            "en": "Explore Chetumal in winter comfortably by car, when temperatures are ideal for sightseeing. In the morning, enjoy clear views of the bay in the fresh air. At noon, parking is stress-free at the sights, and the sea breeze is refreshing through the open window. In the afternoon, the golden lights of the early twilight offer an unforgettable panorama."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dos Mulas",
+                "hu": "Dos Mulas",
+                "ro": "Dos Mulas",
+                "en": "Dos Mulas"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Stopp im Winter; die klare Sicht ermöglicht es, weit über das Wasser zu blicken, während die kühle Luft die Umgebung sehr belebend macht.",
+                "hu": "Pompás téli megállóhely; a tiszta látási viszonyok lehetővé teszik, hogy messzire ellásson a vízen, miközben a hűvös levegő élénkítően hat a környezetre.",
+                "ro": "Un punct de oprire splendid iarna; vizibilitatea clară vă permite să vedeți departe pe apă, în timp ce aerul răcoros are un efect revigorant asupra zonei.",
+                "en": "A splendid winter stop; clear visibility allows you to see far across the water, while the cool air has a very invigorating effect on the surroundings."
+              }
+            },
+            {
+              "name": {
+                "de": "TEATRO",
+                "hu": "TEATRO",
+                "ro": "TEATRO",
+                "en": "TEATRO"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur des Theaters wirkt im klaren Winterlicht besonders plastisch; nutzen Sie die Parkmöglichkeiten direkt vor dem Gebäude für einen kurzen Rundgang.",
+                "hu": "A színház építészete a tiszta téli fényben különösen plasztikusnak hat; használja ki a közvetlenül az épület előtti parkolási lehetőséget egy rövid sétához.",
+                "ro": "Arhitectura teatrului pare deosebit de plastică în lumina clară de iarnă; folosiți locurile de parcare din fața clădirii pentru o scurtă plimbare în jur.",
+                "en": "The theater's architecture looks particularly sculptural in the clear winter light; use the parking spaces directly in front of the building for a short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Leona Vicario",
+                "hu": "Leona Vicario",
+                "ro": "Leona Vicario",
+                "en": "Leona Vicario"
+              },
+              "tip_5lang": {
+                "de": "Geschichtsträchtiger Ort mit angenehmer Winteratmosphäre; die kühleren Temperaturen erlauben eine ausführliche Besichtigung ohne die sonst übliche Mittagshitze.",
+                "hu": "Történelmi helyszín kellemes téli hangulattal; a hűvösebb hőmérséklet lehetővé teszi a részletes megtekintést a megszokott déli hőség és fülledtség nélkül.",
+                "ro": "Sit istoric cu o atmosferă plăcută de iarnă; temperaturile mai scăzute permit o vizitare detaliată fără căldura și umiditatea obișnuită de la prânz.",
+                "en": "Historical site with a pleasant winter atmosphere; the cooler temperatures allow for a detailed visit without the usual midday heat and humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "L a familia",
+                "hu": "L a familia",
+                "ro": "L a familia",
+                "en": "L a familia"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen kurzen Halt; die Wintersonne steht tief und beleuchtet das Denkmal aus einem Winkel, der die Details perfekt hervorhebt.",
+                "hu": "Szép helyszín egy rövid megállóhoz; a téli nap alacsonyan jár, és olyan szögből világítja meg az emlékművet, ami tökéletesen kiemeli annak minden részletét.",
+                "ro": "Un loc frumos pentru o scurtă oprire; soarele de iarnă este jos și luminează monumentul dintr-un unghi care scoate perfect în evidență toate detaliile.",
+                "en": "A beautiful location for a short stop; the winter sun is low and illuminates the monument from an angle that perfectly highlights every detail of it."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento del queso",
+                "hu": "Monumento del queso",
+                "ro": "Monumento del queso",
+                "en": "Monumento del queso"
+              },
+              "tip_5lang": {
+                "de": "Dieses Wahrzeichen ist im Winter ein beliebter Fotostopp; genießen Sie die entspannte Fahrt durch die Stadtteile bei offenem Fenster und frischer Luft.",
+                "hu": "Ez a jelkép télen népszerű fotómegálló; élvezze a pihentető autózást a városrészeken át, nyitott ablak mellett, beszívva a friss és tiszta téli levegőt.",
+                "ro": "Acest simbol este un punct foto popular iarna; bucurați-vă de drumul relaxant prin cartiere cu geamul deschis, respirând aerul proaspăt de iarnă.",
+                "en": "This symbol is a popular photo stop in winter; enjoy a relaxing drive through the neighborhoods with the window open, breathing in the fresh winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachi Cocom",
+                "hu": "Nachi Cocom",
+                "ro": "Nachi Cocom",
+                "en": "Nachi Cocom"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für Geschichtsinteressierte; die kühle Winterbrise vom Meer her macht den Aufenthalt im Freien an diesem Denkmal besonders angenehm.",
+                "hu": "A történelem iránt érdeklődőknek kötelező látnivaló; a tenger felől érkező hűvös téli szellő különösen kellemessé teszi a szabadtéri időtöltést ennél az emlékműnél.",
+                "ro": "O atracție obligatorie pentru pasionații de istorie; briza răcoroasă de iarnă de la mare face ca timpul petrecut în aer liber la acest monument să fie plăcut.",
+                "en": "A must-see for history buffs; the cool winter breeze from the sea makes spending time outdoors at this monument particularly pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Letras CHETUMAL",
+                "hu": "Letras CHETUMAL",
+                "ro": "Letras CHETUMAL",
+                "en": "Letras CHETUMAL"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt bei Sonnenuntergang gegen 17:00 Uhr; die kühle Abendluft am Boulevard ist herrlich, wenn Sie eine leichte Jacke im Auto bereitliegen haben.",
+                "hu": "Zárja az autózást a 17:00 órai naplementekor; a sugárút hűvös esti levegője fenséges, ha tart az autóban egy könnyű kabátot az esti lehűléshez.",
+                "ro": "Încheiați călătoria la apusul de la ora 17:00; aerul răcoros de seară de pe bulevard este sublim dacă aveți o jachetă ușoară pregătită în mașină.",
+                "en": "End your drive at the 17:00 sunset; the cool evening air on the boulevard is sublime if you have a light jacket ready in the car for the evening chill."
+              }
+            }
+          ]
+        }
       }
     }
   }

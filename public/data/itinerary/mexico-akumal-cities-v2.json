@@ -137,6 +137,168 @@
         "hu": "A nap egy lenyűgöző cenoténál kezdődik, ahol a hűvös földalatti vizek tökéletes indulást biztosítanak. Egy rövid séta a trópusi fák alatt elvezeti Önt Akumal buja környezetéből egyenesen a gyönyörű partra.\n\nDélben a békés Lagoon Pool és a nyüzsgő Playa Akumal várja. Élvezze a puha homokot és a karibi vizet, szakítson időt a pihenésre, vagy próbálja ki a sznorkelezést közvetlenül a part mentén.\n\nA délután a híres tengeri teknősöké. Egy rövid séta elviszi a védett strandszakaszra, ahol megfigyelheti ezeket a szelíd teremtményeket, ahogy kecsesen navigálnak a tengerifű-ágyások között.\n\nAhogy közeledik az este, telepedjen le a part egy csendesebb részén. Az aranyóra meleg fényt vet a pálmafákra, békés és rendkívül festői befejezést kínálva ennek a nagyszerű sétának.",
         "ro": "Ziua începe la o cenotă uimitoare, unde apele subterane răcoroase oferă un start perfect. Scurta plimbare pe sub coronamentul tropical vă prezintă mediul luxuriant din Akumal înainte de a ajunge la coastă.\n\nLa prânz ajungeți la liniștita Lagoon Pool și la vibranta Playa Akumal. Bucurați-vă de nisipul fin și de apele caraibiene, luându-vă timp să vă relaxați sau să faceți puțin snorkeling de pe țărm.\n\nDupă-amiaza este dedicată celebrelor broaște țestoase marine. O scurtă plimbare vă duce într-o zonă de plajă protejată, unde puteți observa aceste creaturi blânde printre ierburile marine din zonă.\n\nOdată cu lăsarea serii, așezați-vă pe o porțiune mai liniștită de plajă. Ora de aur aruncă o strălucire caldă peste palmieri, oferind o concluzie pașnică și extrem de pitorească a turului pietonal.",
         "en": "Your day begins inland at a stunning cenote, where the cool underground waters provide the perfect start. The short walk under the tropical canopy introduces you to the lush environment of Akumal before you head towards the coast.\n\nMidday brings you to the tranquil Lagoon Pool and the vibrant Playa Akumal. Enjoy the soft sands and crystal-clear Caribbean waters, taking time to relax or perhaps try a little snorkeling right off the shore.\n\nThe afternoon is dedicated to the famous sea turtles. A short stroll takes you to a protected beach area where you can spot these gentle creatures gracefully navigating the seagrass beds.\n\nAs evening approaches, settle on a quieter stretch of the beach. The golden hour casts a warm glow over the palm trees, offering a peaceful and highly scenic conclusion to your walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit tropischem Regen, aber die dichte Vegetation bietet beim Gehen natürlichen Schutz. Mittags ziehen schwerere Schauer auf, suchen Sie Zuflucht unter den Palapas am Strand. Am Nachmittag sind die Wege zwischen den Cenoten rutschig, gehen Sie also vorsichtig auf dem nassen Kalkstein. Am Abend beruhigt sich der Regen und hinterlässt eine frische, kühle Brise am Meer.",
+            "hu": "A reggel trópusi esővel indul, de a sűrű növényzet természetes védelmet nyújt séta közben. Délben hevesebb záporok érkeznek, keressen menedéket a tengerparti palapák alatt. Délután a cenoték közötti ösvények csúszóssá válnak, ezért óvatosan lépkedjen a nedves mészkövön. Estére az eső csendesedik, friss és hűvös tengeri szellőt hagyva maga után a parton.",
+            "ro": "Dimineața începe cu ploaie tropicală, dar vegetația densă oferă adăpost natural în timpul mersului. La prânz apar averse mai grele, căutați refugiu sub palapele de pe plajă. După-amiaza, potecile dintre cenote devin alunecoase, așa că mergeți cu grijă pe calcarul umed. Seara, ploaia se potolește, lăsând în urmă o briză marină proaspătă și răcoroasă pe malul mării.",
+            "en": "The morning starts with tropical rain, but the dense vegetation provides natural shelter while walking. By noon, heavier showers arrive, so seek refuge under the beach palapas. In the afternoon, the paths between cenotes become slippery, so walk carefully on the wet limestone. By evening, the rain settles, leaving a fresh and cool sea breeze behind on the shore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cenote Puerta Maya",
+                "hu": "Cenote Puerta Maya",
+                "ro": "Cenote Puerta Maya",
+                "en": "Cenote Puerta Maya"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet perfekten Schutz vor Regen, während das Wasser kristallklar bleibt; Vorsicht auf den Stufen, da der nasse Stein rutschig ist.",
+                "hu": "A barlangi környezet tökéletes menedéket nyújt az eső elől, miközben a víz kristálytiszta marad; vigyázzon a lépcsőkön, mert a vizes kő csúszós.",
+                "ro": "Peștera oferă adăpost perfect împotriva ploii, în timp ce apa rămâne cristalină; atenție pe trepte, deoarece piatra umedă este alunecoasă.",
+                "en": "The cave environment provides perfect shelter from the rain while the water remains crystal clear; be careful on the steps as the wet stone is slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Lagunenpool",
+                "hu": "Lagúna medence",
+                "ro": "Piscina Lagună",
+                "en": "Lagoon Pool"
+              },
+              "tip_5lang": {
+                "de": "Das Schwimmen im warmen Regen ist ein besonderes Erlebnis, aber halten Sie Ihre Sachen unter dem überdachten Bereich trocken.",
+                "hu": "A meleg esőben való úszás különleges élmény, de a holmiját tartsa a fedett rész alatt, hogy minden száraz maradjon a folytatáshoz.",
+                "ro": "Înotul în ploaia caldă este o experiență specială, dar păstrați-vă lucrurile sub zona acoperită pentru a rămâne uscate.",
+                "en": "Swimming in the warm rain is a special experience, but keep your belongings under the covered area to ensure everything stays dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Akumal",
+                "hu": "Playa Akumal",
+                "ro": "Playa Akumal",
+                "en": "Playa Akumal"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist bei Regen fest, was das Gehen erleichtert, aber suchen Sie bei Blitzen sofort Schutz in einem der Restaurants am Ufer.",
+                "hu": "Az esőben a homok keményebb, ami megkönnyíti a járást, de villámlás esetén azonnal keressen védelmet a parton lévő éttermek egyikében.",
+                "ro": "Nisipul este mai ferm când plouă, facilitând mersul, dar în caz de fulgere căutați imediat adăpost într-unul dintre restaurantele de pe mal.",
+                "en": "The sand is firmer in the rain, making walking easier, but seek shelter immediately in one of the shore restaurants if lightning occurs."
+              }
+            },
+            {
+              "name": {
+                "de": "Schildkrötenstrand",
+                "hu": "Teknős-part",
+                "ro": "Plaja Țestoaselor",
+                "en": "turtle beach"
+              },
+              "tip_5lang": {
+                "de": "Schildkröten kommen auch bei Regen an die Oberfläche; tragen Sie ein wasserdichtes Shirt, um beim Schnorcheln nicht auszukühlen.",
+                "hu": "A teknősök esőben is feljönnek levegőért; viseljen vízhatlan úszópólót, hogy ne fázzon meg a vízben a hűvösebb szél miatt.",
+                "ro": "Broaștele țestoase ies la suprafață chiar și pe ploaie; purtați un tricou de înot impermeabil pentru a nu răci în apă din cauza vântului.",
+                "en": "Turtles still surface for air during rain; wear a waterproof swim shirt to avoid getting chilled in the water from the cool breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand",
+                "hu": "Strand",
+                "ro": "Plajă",
+                "en": "Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Strandhütten, um den Blick auf das stürmische Meer zu genießen; ein robustes Cape schützt Sie auf dem Rückweg zum Hotel.",
+                "hu": "Használja a strandkunyhókat a viharos tenger látványának élvezetéhez; egy erős esőkabát megvédi önt a szállás felé vezető úton.",
+                "ro": "Folosiți cabanele de pe plajă pentru a vă bucura de priveliștea mării învolburate; o pelerină rezistentă vă va proteja pe drumul spre cazare.",
+                "en": "Use the beach huts to enjoy the view of the stormy sea; a sturdy raincoat will protect you on the walk back to your accommodation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermorgen sind erfrischend kühl, perfekt für einen langen Spaziergang ohne die drückende Hitze. Mittags steht die Sonne hoch, aber die niedrige Luftfeuchtigkeit macht den Weg sehr angenehm. Am Nachmittag sollten Sie die Zeit im Auge behalten, da es gegen 17:00 Uhr schnell dunkel wird. Den Abend verbringt man am besten mit einer leichten Jacke bei einem frühen Abendessen im Freien.",
+            "hu": "A téli reggelek frissítően hűvösek, tökéletesek egy hosszú sétához a fojtogató hőség nélkül. Délben a nap magasan jár, de az alacsony páratartalom miatt az út nagyon kellemes marad. Délután figyeljen az időre, mert 17:00 körül gyorsan sötétedik az erdős szakaszokon. Az estét legjobb egy könnyű pulóverben, egy korai szabadtéri vacsorával zárni.",
+            "ro": "Diminețile de iarnă sunt revigorant de răcoroase, perfecte pentru o plimbare lungă fără căldura sufocantă. La prânz soarele este sus, dar umiditatea scăzută face drumul foarte plăcut. După-amiaza, fiți atenți la timp, deoarece se întunecă repede în jurul orei 17:00. Seara este cel mai bine să o încheiați cu o jachetă ușoară la o cină timpurie în aer liber.",
+            "en": "Winter mornings are refreshingly cool, perfect for a long walk without the stifling heat. At noon, the sun is high, but the low humidity makes the journey very pleasant. In the afternoon, keep an eye on the time as it gets dark quickly around 5:00 PM. The evening is best spent in a light jacket with an early outdoor dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cenote Puerta Maya",
+                "hu": "Cenote Puerta Maya",
+                "ro": "Cenote Puerta Maya",
+                "en": "Cenote Puerta Maya"
+              },
+              "tip_5lang": {
+                "de": "Die Wassertemperatur ist konstant, aber halten Sie ein Handtuch bereit, da die Luft beim Verlassen des Wassers kühl sein kann.",
+                "hu": "A víz hőmérséklete állandó, de legyen kéznél törölköző, mert a vízből kijőve a levegő hűvösnek tűnhet a téli szélben.",
+                "ro": "Temperatura apei este constantă, dar aveți un prosop la îndemână, deoarece aerul poate părea rece la ieșirea din apă în vântul de iarnă.",
+                "en": "The water temperature is constant, but have a towel ready as the air can feel chilly when leaving the water in the winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Lagunenpool",
+                "hu": "Lagúna medence",
+                "ro": "Piscina Lagună",
+                "en": "Lagoon Pool"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist im Winter milder, ideal zum Entspannen am Pool ohne die Gefahr eines schnellen Sonnenbrands.",
+                "hu": "A déli napsütés télen enyhébb, így ideális a medence melletti pihenéshez a gyors leégés veszélye nélkül.",
+                "ro": "Soarele de la amiază este mai blând iarna, fiind ideal pentru relaxare lângă piscină fără riscul unei arsuri solare rapide.",
+                "en": "The midday sun is milder in winter, making it ideal for relaxing by the pool without the risk of a quick sunburn."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Akumal",
+                "hu": "Playa Akumal",
+                "ro": "Playa Akumal",
+                "en": "Playa Akumal"
+              },
+              "tip_5lang": {
+                "de": "Beste Zeit für Schildkrötenbeobachtungen, da das Wasser im Winter oft ruhiger und die Sichtweite unter Wasser hervorragend ist.",
+                "hu": "A legjobb időszak a teknőslesre, mivel a víz télen gyakran nyugodtabb, és a víz alatti látótávolság kiváló a megfigyeléshez.",
+                "ro": "Cea mai bună perioadă pentru observarea țestoaselor, deoarece apa este adesea mai liniștită iarna, iar vizibilitatea sub apă este excelentă.",
+                "en": "The best time for turtle watching, as the water is often calmer in winter and the underwater visibility is excellent for observation."
+              }
+            },
+            {
+              "name": {
+                "de": "Schildkrötenstrand",
+                "hu": "Teknős-part",
+                "ro": "Plaja Țestoaselor",
+                "en": "turtle beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Spaziergang am späten Nachmittag; das goldene Licht kurz vor dem frühen Sonnenuntergang ist ideal für Fotos.",
+                "hu": "Élvezze a késő délutáni sétát; a kora esti naplemente előtti aranyfények tökéletesek a tengerparti fotózáshoz.",
+                "ro": "Bucurați-vă de plimbarea de după-amiază târziu; luminile aurii de dinaintea apusului timpuriu sunt perfecte pentru fotografii.",
+                "en": "Enjoy the late afternoon walk; the golden lights before the early sunset are perfect for beach photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand",
+                "hu": "Strand",
+                "ro": "Plajă",
+                "en": "Beach"
+              },
+              "tip_5lang": {
+                "de": "Da es um 17 Uhr dunkel wird, planen Sie Ihren Rückweg rechtzeitig, um nicht im Dunkeln auf unbeleuchteten Pfaden zu gehen.",
+                "hu": "Mivel 17 órakor sötétedik, tervezze meg időben a visszautat, hogy ne sötétben kelljen gyalogolnia a kivilágítatlan ösvényeken.",
+                "ro": "Deoarece se întunecă la ora 17, planificați-vă din timp drumul de întoarcere pentru a nu merge pe întuneric pe potecile neiluminate.",
+                "en": "Since it gets dark at 5 PM, plan your return trip in time to avoid walking in the dark on unlit paths."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpáros kalandját egy frissítő csobbanással egy helyi cenoténél. A hűvös víz felfrissíti a további útra, miközben Akumal kanyargós utcáin a látványos tengerparti lagúnák felé teker.\n\nA délidő a híres Yal-Ku lagúnában találja, ahol a sós és édesvíz találkozik. Ezután egy rövid kerékpározás elviszi a nyüzsgő fő strandra, hogy magába szívja a dicsőséges karibi napsütést.\n\nTöltse a délutánt Playa Akumal részletes felfedezésével. Parkolja le a kerékpárját, sétáljon végig a parton, és talán egyen egy gyors trópusi falatot, mielőtt tovább tekerne dél felé.\n\nZárja a napot egy festői utazással a drámai Punta Sur kilátóhoz. A lecsapódó hullámok és sziklás szirtek lenyűgöző kontrasztot alkotnak a homokos strandokkal, felejthetetlen panorámával zárva a túrát.",
         "ro": "Începeți aventura pe bicicletă cu o baie revigorantă într-o cenotă locală. Apele răcoroase vă pregătesc pentru drumul ce urmează, pedalând pe străzile din Akumal spre lagunele de coastă.\n\nLa prânz faceți snorkeling în celebra lagună Yal-Ku, unde apele sărate și dulci se unesc. Apoi, o scurtă plimbare cu bicicleta vă aduce la plaja principală pentru a vă bucura de soarele Caraibelor.\n\nPetreceți după-amiaza explorând în detaliu Playa Akumal. Parcați bicicleta și plimbați-vă pe țărm, luând poate o gustare tropicală rapidă înainte de a vă pregăti să mergeți mai spre sud.\n\nÎncheiați-vă ziua cu o plimbare pitorească spre spectaculosul punct de belvedere Punta Sur. Valurile izbindu-se de stânci oferă un contrast uimitor cu plajele nisipoase, terminând turul cu o panoramă minunată.",
         "en": "Start your cycling adventure with a refreshing dip at a local cenote. The cool waters invigorate you for the ride ahead, as you pedal through Akumal's winding streets towards the spectacular coastal lagoons.\n\nMidday finds you snorkeling in the famous Yal-Ku lagoon, where salt and fresh waters merge. Afterward, a short bike ride brings you to the lively main beach to soak up the glorious Caribbean sunshine.\n\nSpend the afternoon exploring Playa Akumal in detail. Park your bike and walk the shoreline, perhaps grabbing a quick tropical snack before preparing to ride further south.\n\nConclude your day with a scenic ride to the dramatic Punta Sur viewpoint. The crashing waves and rocky cliffs provide a stunning contrast to the sandy beaches, ending your tour with an unforgettable panorama."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht, da die sandigen Wege weich werden können. Starten Sie vorsichtig am Morgen und achten Sie auf Pfützen. Mittags bietet der Regen eine willkommene Abkühlung während der Fahrt, aber die Bremsen könnten auf nassem Untergrund weniger greifen. Nachmittags ist es ratsam, auf befestigten Straßen zu bleiben. Beenden Sie die Tour vor der Dämmerung, wenn die Sicht schlechter wird.",
+            "hu": "A biciklizés esőben óvatosságot igényel, mivel a homokos utak felázhatnak. Induljon óvatosan reggel, és figyeljen a tócsákra. Délben az eső kellemes hűsítést nyújt tekerés közben, de a fékek csúszós úton kevésbé fognak. Délután érdemes a szilárd burkolatú utakon maradni. Fejezze be a túrát szürkület előtt, amikor a látási viszonyok romlanak.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență, deoarece drumurile nisipoase se pot înmuia. Porniți cu grijă dimineața și atenție la bălți. La prânz, ploaia oferă o răcoare binevenită în timp ce pedalați, dar frânele pot fi mai puțin eficiente pe carosabil umed. După-amiaza este recomandat să rămâneți pe drumurile asfaltate. Încheiați tura înainte de amurg, când vizibilitatea scade.",
+            "en": "Cycling in the rain requires caution as sandy paths can soften. Start carefully in the morning and watch out for puddles. At noon, the rain provides a welcome cool-down while riding, but brakes may be less effective on wet surfaces. In the afternoon, it is advisable to stay on paved roads. Finish the tour before dusk when visibility decreases."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cenote Puerta Maya",
+                "hu": "Cenote Puerta Maya",
+                "ro": "Cenote Puerta Maya",
+                "en": "Cenote Puerta Maya"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter ein Vordach; der Besuch der Cenote ist die perfekte Pause, um einen schweren Schauer abzuwarten.",
+                "hu": "Állítsa a biciklijét egy előtető alá; a cenote meglátogatása tökéletes szünet, hogy megvárja egy nagyobb zápor elvonulását.",
+                "ro": "Parcați bicicleta sub un acoperiș; vizitarea cenotei este pauza perfectă pentru a aștepta trecerea unei averse mai mari.",
+                "en": "Park your bike under a canopy; visiting the cenote is the perfect break to wait for a major shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Yal-Ku",
+                "hu": "Yal-Ku",
+                "ro": "Yal-Ku",
+                "en": "Yal-Ku"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Lagune kann matschig sein; fahren Sie langsam, um Schlammspritzer zu vermeiden, und nutzen Sie den überdachten Eingang.",
+                "hu": "A lagúnához vezető út sáros lehet; tekerjen lassan, hogy elkerülje a felverődő sarat, és használja a fedett bejáratot pihenésre.",
+                "ro": "Drumul spre lagună poate fi noroios; pedalați încet pentru a evita stropirea cu noroi și folosiți intrarea acoperită pentru odihnă.",
+                "en": "The road to the lagoon can be muddy; ride slowly to avoid mud splashes and use the covered entrance for resting."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand",
+                "hu": "Strand",
+                "ro": "Plajă",
+                "en": "Beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren direkt im nassen Sand; parken Sie das Rad auf festem Boden und suchen Sie Schutz unter einer Palme.",
+                "hu": "Kerülje a közvetlen tekerést a vizes homokban; parkoljon szilárd talajon, és keressen menedéket egy pálmafa alatt az eső elől.",
+                "ro": "Evitați pedalarea directă pe nisipul ud; parcați pe teren solid și căutați adăpost sub un palmier în timpul ploii.",
+                "en": "Avoid riding directly on wet sand; park on solid ground and seek shelter under a palm tree during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Akumal",
+                "hu": "Playa Akumal",
+                "ro": "Playa Akumal",
+                "en": "Playa Akumal"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Reifen nach der Fahrt durch Pfützen auf spitze Korallenteile, die durch den Regen auf den Weg gespült wurden.",
+                "hu": "A tócsákon való áthajtás után ellenőrizze a gumikat, mert az eső éles koralltörmelékeket moshatott az útra.",
+                "ro": "După trecerea prin bălți, verificați anvelopele, deoarece ploaia poate spăla fragmente ascuțite de corali pe drum.",
+                "en": "After riding through puddles, check your tires as the rain may have washed sharp coral fragments onto the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Punta Sur",
+                "hu": "Punta Sur kilátó",
+                "ro": "Punct de belvedere Punta Sur",
+                "en": "Punta Sur viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann hier bei Regen sehr stark sein; halten Sie den Lenker fest und genießen Sie kurz die dramatische Aussicht.",
+                "hu": "A szél itt nagyon erős lehet esőben; fogja erősen a kormányt, és csak rövid ideig élvezze a drámai, viharos kilátást.",
+                "ro": "Vântul poate fi foarte puternic aici pe ploaie; țineți bine ghidonul și bucurați-vă doar scurt timp de priveliștea dramatică.",
+                "en": "The wind can be very strong here in the rain; hold the handlebars firmly and enjoy the dramatic, stormy view only briefly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter ist die ideale Zeit für Radtouren in Akumal, da die Temperaturen moderat sind. Morgens weht eine angenehme Brise, die das Treten erleichtert. Mittags brennt die Sonne nicht so unerbittlich wie im Sommer. Da die Tage jedoch kürzer sind, sollten Sie Ihre Route so planen, dass Sie vor 17:30 Uhr zurück sind. Abends kühlt es schnell ab, eine leichte Windjacke für den Rückweg ist ratsam.",
+            "hu": "A tél az ideális időszak a biciklis túrákhoz Akumalban a mérsékelt hőmérséklet miatt. Reggel kellemes szellő fúj, ami megkönnyíti a tekerést. Délben a nap nem tűz olyan könyörtelenül, mint nyáron. Mivel a nappalok rövidebbek, tervezze úgy az utat, hogy 17:30-ra visszaérjen. Estére gyorsan lehűl az idő, érdemes egy szélkabátot vinni a hazaútra.",
+            "ro": "Iarna este perioada ideală pentru tururi cu bicicleta în Akumal datorită temperaturilor moderate. Dimineața bate o briză plăcută, care face pedalatul mai ușor. La prânz soarele nu arde atât de necruțător ca vara. Deoarece zilele sunt mai scurte, planificați traseul astfel încât să vă întoarceți până la 17:30. Seara se răcește repede, e bine să aveți o jachetă de vânt pentru drumul de întoarcere.",
+            "en": "Winter is the ideal time for cycling tours in Akumal due to the moderate temperatures. In the morning, a pleasant breeze blows, making pedaling easier. At noon, the sun doesn't burn as relentlessly as in summer. Since days are shorter, plan your route to be back by 5:30 PM. It cools down quickly in the evening, so bring a windbreaker for the ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cenote Puerta Maya",
+                "hu": "Cenote Puerta Maya",
+                "ro": "Cenote Puerta Maya",
+                "en": "Cenote Puerta Maya"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht die Fahrt hierher angenehm; nutzen Sie die frühen Stunden, um den Ort ohne Menschenmassen zu genießen.",
+                "hu": "A hűvös reggeli levegő kellemessé teszi az idefelé utat; használja ki a korai órákat, hogy tömeg nélkül élvezhesse a helyet.",
+                "ro": "Aerul răcoros de dimineață face drumul până aici plăcut; profitați de orele matinale pentru a vă bucura de loc fără aglomerație.",
+                "en": "The cool morning air makes the ride here pleasant; take advantage of the early hours to enjoy the place without the crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Yal-Ku",
+                "hu": "Yal-Ku",
+                "ro": "Yal-Ku",
+                "en": "Yal-Ku"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen Mittagsstopp; die Sonne ist warm genug für das Schnorcheln, aber das Radfahren dorthin ist nicht mehr so anstrengend.",
+                "hu": "Tökéletes déli megálló; a nap elég meleg a sznorkelezéshez, de az odafelé tekerés már nem olyan megerőltető a kisebb hőségben.",
+                "ro": "O oprire perfectă la amiază; soarele este destul de cald pentru snorkeling, dar pedalatul până acolo nu mai este atât de obositor.",
+                "en": "A perfect midday stop; the sun is warm enough for snorkeling, but the ride there is no longer as exhausting in the lower heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand",
+                "hu": "Strand",
+                "ro": "Plajă",
+                "en": "Beach"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad im Schatten; im Winter ist der Kontrast zwischen der warmen Sonne und dem kühlen Meerwasser besonders belebend.",
+                "hu": "Zárja le a biciklijét az árnyékban; télen a meleg napsütés és a hűvösebb tengervíz közötti kontraszt különösen felfrissítő.",
+                "ro": "Încuiați bicicleta la umbră; iarna, contrastul dintre soarele cald și apa mai rece a mării este deosebit de revigorant.",
+                "en": "Lock your bike in the shade; in winter, the contrast between the warm sun and the cooler seawater is especially refreshing."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Akumal",
+                "hu": "Playa Akumal",
+                "ro": "Playa Akumal",
+                "en": "Playa Akumal"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort am frühen Nachmittag, um das beste Licht zu haben, bevor die Schatten der Palmen länger werden.",
+                "hu": "Látogasson el ide kora délután, hogy a legjobb fényviszonyokat kapja el, mielőtt a pálmafák árnyékai túl hosszúra nyúlnának.",
+                "ro": "Vizitați acest loc la începutul după-amiezii pentru a prinde cea mai bună lumină înainte ca umbrele palmierilor să devină prea lungi.",
+                "en": "Visit here in the early afternoon to catch the best lighting before the shadows of the palm trees grow too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Punta Sur",
+                "hu": "Punta Sur kilátó",
+                "ro": "Punct de belvedere Punta Sur",
+                "en": "Punta Sur viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückfahrt sofort nach dem Sonnenuntergang, da der Weg zurück nach Akumal im Dunkeln für Radfahrer unsicher ist.",
+                "hu": "Tervezze meg a visszautat közvetlenül naplemente után, mivel a sötétben való biciklizés vissza Akumalba nem biztonságos.",
+                "ro": "Planificați drumul de întoarcere imediat după apus, deoarece mersul pe bicicletă înapoi spre Akumal pe întuneric nu este sigur.",
+                "en": "Plan your return trip immediately after sunset, as cycling back to Akumal in the dark is not safe due to lack of lighting."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Autós utazása egy hatalmas luxus üdülőközpontnál indul, megadva a nyugodt trópusi alaphangot. Innen egy gyors út a lenyűgöző Yal-Ku lagúnába vezet a nap első sznorkelezési kalandjához.\n\nA dél a két világ legjavát ötvözi. Vezessen egy kristálytiszta cenotéhoz, hogy lehűljön az árnyékos dzsungelben, majd guruljon le Playa Akumalra a klasszikus karibi fehér homokos partokért.\n\nA délután lélegzetelállító tájat kínál, ahogy délre, Punta Sur felé vezet. A zord partvidék és a megtörő hullámok hihetetlen fotózási lehetőségeket biztosítanak, mielőtt a nagy finálé felé venné az irányt.\n\nZárja a napot Xel-Hában, egy masszív természetes víziparkban. Élvezze a maradék nappali fényt a lusta folyón lebegve, vagy egzotikus halak között sznorkelezve, látványosan lezárva az utat.",
         "ro": "Excursia auto începe la o zonă extinsă de resorturi de lux, stabilind un ton tropical relaxat. De acolo, o scurtă plimbare vă duce la uimitoarea lagună Yal-Ku pentru prima aventură de snorkeling.\n\nPrânzul combină tot ce este mai bun. Conduceți la o cenotă cristalină pentru a vă răcori în jungla umbrită, apoi coborâți spre Playa Akumal pentru opțiuni de prânz și nisipuri albe clasice.\n\nDupă-amiaza oferă peisaje uluitoare în timp ce conduceți spre sud la Punta Sur. Coasta accidentată și valurile spumoase oferă oportunități foto incredibile înainte de a vă îndrepta spre marea finală.\n\nÎncheiați ziua la Xel-Há, un masiv parc acvatic natural. Bucurați-vă de lumina rămasă plutind pe râul leneș sau făcând snorkeling printre pești exotici, culminând excursia într-un mod spectaculos.",
         "en": "Your road trip kicks off at a sprawling luxury resort area, setting a relaxed tropical tone. From there, a quick drive takes you to the stunning Yal-Ku lagoon for your first snorkeling adventure of the day.\n\nMidday combines the best of both worlds. Drive to a crystal-clear cenote to cool off in the shaded jungle, then cruise down to Playa Akumal for lunch options and classic Caribbean white sands.\n\nThe afternoon offers breathtaking scenery as you drive south to Punta Sur. The rugged coastline and crashing waves provide incredible photo opportunities before heading to your grand finale.\n\nFinish the day at Xel-Há, a massive natural aquatic park. Enjoy the remaining daylight floating down the lazy river or snorkeling among exotic fish, culminating your road trip in spectacular fashion."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Akumal auch bei Regen bequem zu erkunden. Starten Sie trocken am Morgen und nutzen Sie die Klimaanlage gegen die hohe Luftfeuchtigkeit. Mittags können Sie problemlos zwischen den Sehenswürdigkeiten wechseln, ohne nass zu werden. Nachmittags ist bei Aquaplaning auf den Küstenstraßen Vorsicht geboten. Den Abend können Sie entspannt in einem Restaurant mit Parkplatz direkt vor der Tür ausklingen lassen.",
+            "hu": "Autóval Akumal esőben is kényelmesen felfedezhető. Induljon szárazon reggel, és használja a klímát a magas páratartalom ellen. Délben zökkenőmentesen válthat a látnivalók között anélkül, hogy bőrig ázna. Délután legyen óvatos a parti utakon az esetleges vízátfolyások miatt. Az estét zárja egy olyan étteremben, ahol közvetlenül az ajtó előtt tud parkolni.",
+            "ro": "Cu mașina, Akumal poate fi explorat confortabil chiar și pe ploaie. Porniți uscat dimineața și folosiți aerul condiționat împotriva umidității ridicate. La prânz puteți schimba fără probleme între atracții fără a vă uda. După-amiaza fiți atenți pe drumurile de coastă la posibilele acumulări de apă. Încheiați seara la un restaurant unde puteți parca direct în fața ușii.",
+            "en": "By car, Akumal can be comfortably explored even in the rain. Start dry in the morning and use the AC against the high humidity. At noon, you can seamlessly switch between sights without getting soaked. In the afternoon, be careful on the coastal roads due to potential water pooling. End the evening at a restaurant with parking right in front of the door."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sirenis",
+                "hu": "Sirenis",
+                "ro": "Sirenis",
+                "en": "Sirenis"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Hotelparkplatz; die Lobby bietet einen hervorragenden, überdachten Ort, um den Regen bei einem Kaffee zu beobachten.",
+                "hu": "Használja a hotel parkolóját; a lobby kiváló fedett helyszín, ahonnan egy kávé mellett nézheti az elhaladó trópusi esőt.",
+                "ro": "Folosiți parcarea hotelului; lobby-ul este un loc acoperit excelent de unde puteți privi ploaia tropicală la o cafea.",
+                "en": "Use the hotel parking; the lobby is an excellent covered spot to watch the tropical rain pass by while having a coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Yal-Ku",
+                "hu": "Yal-Ku",
+                "ro": "Yal-Ku",
+                "en": "Yal-Ku"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; lassen Sie Ihre nassen Handtücher im Kofferraum, damit der Innenraum trocken bleibt.",
+                "hu": "Parkoljon minél közelebb a bejárathoz; a vizes törölközőket hagyja a csomagtartóban, hogy az utastér száraz maradjon.",
+                "ro": "Parcați cât mai aproape de intrare; lăsați prosoapele ude în portbagaj pentru ca habitaclul să rămână uscat.",
+                "en": "Park as close to the entrance as possible; leave wet towels in the trunk so the cabin remains dry during the drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Puerta Maya",
+                "hu": "Cenote Puerta Maya",
+                "ro": "Cenote Puerta Maya",
+                "en": "Cenote Puerta Maya"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei starkem Regen; die Fahrt zur Cenote ist kurz, und der Parkplatz ist meist gut befestigt.",
+                "hu": "Ideális megálló heves esőzés idején; az út a cenotéig rövid, a parkoló pedig általában jól karbantartott és nem sárosodik el.",
+                "ro": "O oprire ideală în timpul ploilor abundente; drumul până la cenote este scurt, iar parcarea este de obicei bine întreținută.",
+                "en": "An ideal stop during heavy rain; the drive to the cenote is short, and the parking lot is usually well-maintained and not muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Akumal",
+                "hu": "Playa Akumal",
+                "ro": "Playa Akumal",
+                "en": "Playa Akumal"
+              },
+              "tip_5lang": {
+                "de": "Bewahren Sie trockene Kleidung im Auto auf, damit Sie sich nach dem Strandbesuch im Regen sofort umziehen können.",
+                "hu": "Tartson száraz váltóruhát az autóban, hogy a tengerparti eső után azonnal át tudjon öltözni a következő útszakasz előtt.",
+                "ro": "Păstrați haine de schimb uscate în mașină, astfel încât să vă puteți schimba imediat după ploaia de pe plajă.",
+                "en": "Keep dry change of clothes in the car so you can change immediately after the beach rain before the next leg of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Punta Sur",
+                "hu": "Punta Sur kilátó",
+                "ro": "Punct de belvedere Punta Sur",
+                "en": "Punta Sur viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Auto, falls es zu stark regnet; die Wellen peitschen dramatisch gegen die Felsen.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból, ha túl erősen esik; a hullámok drámai módon csapkodnak a szikláknak a viharban.",
+                "ro": "Bucurați-vă de priveliște direct din mașină dacă plouă prea tare; valurile se izbesc dramatic de stânci în timpul furtunii.",
+                "en": "Enjoy the view directly from the car if it rains too hard; the waves lash dramatically against the rocks during the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Xel-Há",
+                "hu": "Xel-Há",
+                "ro": "Xel-Há",
+                "en": "Xel-Há"
+              },
+              "tip_5lang": {
+                "de": "Der Park bietet viele überdachte Restaurants und Aktivitäten, die auch bei Regen uneingeschränkt Spaß machen.",
+                "hu": "A park számos fedett éttermet és tevékenységet kínál, amelyek esőben is felhőtlen szórakozást nyújtanak az egész családnak.",
+                "ro": "Parcul oferă numeroase restaurante și activități acoperite, care asigură distracție chiar și pe ploaie pentru toată familia.",
+                "en": "The park offers many covered restaurants and activities that provide cloudless fun for the whole family even in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist die Hochsaison in Akumal, ideal für Ausflüge mit dem Auto bei mildem Wetter. Morgens sind die Straßen oft belebt, aber angenehm temperiert. Mittags können Sie die Fenster öffnen und die Meeresbrise genießen. Da es um 17:00 Uhr dunkel wird, sollten Sie längere Fahrten am späten Nachmittag vermeiden. Der Abend ist perfekt, um zu einem etwas entfernteren Ort für ein schickes Abendessen zu fahren.",
+            "hu": "A tél a főszezon Akumalban, ideális az autós kirándulásokhoz a kellemes időjárás miatt. Reggel az utak gyakran forgalmasak, de a hőmérséklet mérsékelt. Délben lehúzhatja az ablakokat, és élvezheti a tengeri szellőt. Mivel 17:00-kor sötétedik, a késő délutáni hosszú vezetéseket kerülje. Az este tökéletes arra, hogy egy távolabbi helyszínre autózzon egy elegáns vacsorára.",
+            "ro": "Iarna este sezonul de vârf în Akumal, ideal pentru excursii cu mașina datorită vremii plăcute. Dimineața drumurile sunt adesea aglomerate, dar temperatura este moderată. La prânz puteți coborî geamurile pentru a vă bucura de briză. Deoarece se întunecă la ora 17:00, evitați condusul pe distanțe lungi după-amiaza târziu. Seara este perfectă pentru a conduce spre o locație mai îndepărtată pentru o cină elegantă.",
+            "en": "Winter is high season in Akumal, ideal for car trips due to the pleasant weather. In the morning, roads are often busy, but temperatures are moderate. At noon, you can roll down the windows and enjoy the sea breeze. Since it gets dark at 5:00 PM, avoid long late-afternoon drives. The evening is perfect for driving to a more distant location for an elegant dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sirenis",
+                "hu": "Sirenis",
+                "ro": "Sirenis",
+                "en": "Sirenis"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, um die Parkplätze vor den Tagestouristen zu sichern; die kühle Morgenluft ist ideal für einen ersten Spaziergang.",
+                "hu": "Induljon korán, hogy még a napi turisták előtt biztosítson parkolóhelyet; a hűvös reggeli levegő ideális egy első sétához.",
+                "ro": "Porniți devreme pentru a prinde loc de parcare înaintea turiștilor de zi; aerul răcoros de dimineață este ideal pentru o primă plimbare.",
+                "en": "Start early to secure parking before the day tourists arrive; the cool morning air is ideal for a first walk around the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Yal-Ku",
+                "hu": "Yal-Ku",
+                "ro": "Yal-Ku",
+                "en": "Yal-Ku"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht mittags perfekt für Unterwasseraufnahmen; das Auto dient als sicherer Ort für Ihre Wertsachen während des Schnorchelns.",
+                "hu": "A nap délben tökéletesen süt a víz alatti felvételekhez; az autó biztonságos tárolóhelyként szolgál az értékei számára a sznorkelezés alatt.",
+                "ro": "Soarele strălucește perfect la amiază pentru fotografii subacvatice; mașina servește ca loc sigur de depozitare pentru obiectele de valoare.",
+                "en": "The sun shines perfectly at noon for underwater shots; the car serves as a secure storage spot for your valuables during snorkeling."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Puerta Maya",
+                "hu": "Cenote Puerta Maya",
+                "ro": "Cenote Puerta Maya",
+                "en": "Cenote Puerta Maya"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier weniger feucht, was den Besuch sehr angenehm macht; lassen Sie die Fenster im Auto einen Spalt offen zur Belüftung.",
+                "hu": "Télen itt kevésbé párás a levegő, ami nagyon kellemessé teszi a látogatást; hagyja az autó ablakait egy picit lehúzva a szellőzés miatt.",
+                "ro": "Iarna aerul este mai puțin umed aici, ceea ce face vizita foarte plăcută; lăsați geamurile mașinii puțin deschise pentru ventilație.",
+                "en": "In winter, it's less humid here, making the visit very pleasant; leave the car windows slightly cracked for ventilation in the sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Akumal",
+                "hu": "Playa Akumal",
+                "ro": "Playa Akumal",
+                "en": "Playa Akumal"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten der Palmen, falls möglich; die Nachmittagssonne kann das Auto im Winter immer noch stark aufheizen.",
+                "hu": "Parkoljon a pálmafák árnyékában, ha lehetséges; a délutáni nap télen is erősen felmelegítheti az autó utasterét.",
+                "ro": "Parcați la umbra palmierilor, dacă este posibil; soarele de după-amiază poate încălzi puternic interiorul mașinii chiar și iarna.",
+                "en": "Park in the shade of the palm trees if possible; the afternoon sun can still heat up the car interior significantly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Punta Sur",
+                "hu": "Punta Sur kilátó",
+                "ro": "Punct de belvedere Punta Sur",
+                "en": "Punta Sur viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Ideal für den Sonnenuntergang; bleiben Sie nicht zu lange, da die unbeleuchteten Straßen nach Einbruch der Dunkelheit schwer zu befahren sind.",
+                "hu": "Ideális a naplemente megtekintéséhez; ne maradjon túl sokáig, mert a kivilágítatlan utakon sötétedés után nehéz a tájékozódás.",
+                "ro": "Ideal pentru a vedea apusul; nu stați prea mult, deoarece orientarea pe drumurile neiluminate este dificilă după lăsarea întunericului.",
+                "en": "Ideal for watching the sunset; don't stay too long as navigating unlit roads after dark can be challenging for drivers."
+              }
+            },
+            {
+              "name": {
+                "de": "Xel-Há",
+                "hu": "Xel-Há",
+                "ro": "Xel-Há",
+                "en": "Xel-Há"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor dem Berufsverkehr der Hotelangestellten ein, um staufrei zurück nach Akumal zu gelangen.",
+                "hu": "Tervezze meg a visszautat a szállodai dolgozók műszakváltása előtt, hogy forgalmi dugó nélkül juthasson vissza Akumalba.",
+                "ro": "Planificați drumul de întoarcere înainte de schimbul de tură al angajaților hotelieri, pentru a reveni în Akumal fără blocaje în trafic.",
+                "en": "Plan your return trip before the hotel workers' shift change to get back to Akumal without traffic congestion."
+              }
+            }
+          ]
+        }
       }
     }
   }

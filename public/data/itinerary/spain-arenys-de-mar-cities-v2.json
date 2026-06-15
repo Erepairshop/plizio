@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Arenys de Mar történelmi városházájánál. Sétáljon a hangulatos utcákon a régi Torre d'en Llobet őrtoronyhoz. Délben csodálja meg a Santa Maria templom barokk pompáját. A délután a Mollfulleda múzeum lenyűgöző ásványgyűjteményéé. Befejezésül túrázzon fel a Turó del Mal Temps dombra, és élvezze a békés partmenti kilátást a csodás tengeri naplemente fényében.",
         "ro": "Începeți ziua la primăria istorică din Arenys de Mar. Plimbați-vă pe străzile fermecătoare până la vechiul turn de veghe Torre d'en Llobet. La prânz, admirați splendoarea barocă a Bisericii Santa Maria. După-amiaza aparține fascinantei colecții de minerale a Muzeului Mollfulleda. În cele din urmă, urcați pe Turó del Mal Temps și bucurați-vă de priveliștea pașnică a coastei luminate.",
         "en": "Start your day at the historic town hall of Arenys de Mar. Stroll through the charming streets to the old watchtower Torre d'en Llobet. At midday, marvel at the Baroque splendor of the Santa Maria Church. The afternoon belongs to the fascinating mineral collection of the Mollfulleda Museum. Finally, hike up to the Turó del Mal Temps and enjoy the peaceful coastal view at dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Arenys beginnt geschützt unter den Arkaden des Rathauses. Mittags bieten die dicken Mauern der Kirche und das Mineralogiemuseum ideale trockene Zufluchtsorte. Am Nachmittag führt der Weg zum Turó del Mal Temps, wo der graue Himmel dem Meer eine dramatische Note verleiht. Der Abend endet mit einem Spaziergang über die glitzernden, nassen Pflastersteine der Riera.",
+            "hu": "Az esős reggel Arenysben a városháza árkádjai alatt indul, védve a csapadéktól. Délben a templom és az ásványtani múzeum vastag falai kínálnak tökéletes száraz menedéket a nézelődéshez. Délután a Turó del Mal Temps felé vesszük az irányt, ahol a viharos tenger látványa kárpótol a nedvességért. Az este a Riera vizes kövezetén megcsillanó fények között, friss levegőn zárul.",
+            "ro": "O dimineață ploioasă în Arenys începe sub arcadele primăriei, feriți de stropi. La prânz, zidurile groase ale bisericii și muzeul de mineralogie oferă adăposturi uscate ideale. După-amiaza, drumul duce spre Turó del Mal Temps, unde cerul gri oferă mării o notă dramatică. Seara se încheie cu o plimbare pe pavajul umed și strălucitor de pe Riera, într-o atmosferă liniștită.",
+            "en": "A rainy morning in Arenys begins sheltered under the arches of the Town Hall. At noon, the thick walls of the church and the mineralogy museum provide ideal dry havens for exploration. In the afternoon, head to Turó del Mal Temps, where the stormy sea views are truly dramatic. The evening concludes with a stroll across the glistening, wet cobblestones of the Riera under city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ajuntament d'Arenys de Mar",
+                "hu": "Ajuntament d'Arenys de Mar",
+                "ro": "Ajuntament d'Arenys de Mar",
+                "en": "Ajuntament d'Arenys de Mar"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als trockenen Aussichtspunkt auf die Riera und bewundern Sie die Architektur, während Sie auf eine Regenpause warten.",
+                "hu": "Használja a városháza árkádjait száraz megfigyelőpontként a Rierára, és csodálja meg az épület részleteit, amíg eláll az eső vagy enyhül a csapadék.",
+                "ro": "Folosiți arcadele primăriei ca punct de observație uscat asupra Rierei și admirați arhitectura în timp ce așteptați o pauză de la ploaie.",
+                "en": "Use the Town Hall's arches as a dry vantage point over the Riera and admire the architectural details while waiting for a break in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre d'en Llobet",
+                "hu": "Torre d'en Llobet",
+                "ro": "Torre d'en Llobet",
+                "en": "Torre d'en Llobet"
+              },
+              "tip_5lang": {
+                "de": "Der historische Verteidigungsturm wirkt bei Regen besonders wehrhaft; achten Sie auf die rutschigen Steinstufen in der Umgebung des Turms.",
+                "hu": "A történelmi védmű esőben is tekintélyt parancsoló látvány; ügyeljen a torony körüli csúszós kőlépcsőkre és a nedves talajra a megközelítéskor.",
+                "ro": "Turnul istoric de apărare pare deosebit de impunător în ploaie; aveți grijă la treptele de piatră alunecoase din jurul turnului.",
+                "en": "The historic defense tower looks particularly imposing in the rain; watch out for slippery stone steps in the area surrounding the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria",
+                "hu": "Església de Santa Maria",
+                "ro": "Església de Santa Maria",
+                "en": "Església de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das prächtige Barock-Retabel im Inneren, das ein perfekter Rückzugsort vor dem Regen ist und eine stille, trockene Atmosphäre bietet.",
+                "hu": "Tekintse meg a belső térben található pompás barokk oltárképet, amely tökéletes menedék az eső elől, csendes és száraz környezetet biztosítva.",
+                "ro": "Vizitați spectaculosul retablu baroc din interior, care este un refugiu perfect împotriva ploii, oferind o atmosferă liniștită și uscată.",
+                "en": "Visit the magnificent Baroque altarpiece inside, which is a perfect retreat from the rain, offering a quiet and dry atmosphere for reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Mollfulleda de Mineralogia",
+                "hu": "Museu Mollfulleda de Mineralogia",
+                "ro": "Museu Mollfulleda de Mineralogia",
+                "en": "Museu Mollfulleda de Mineralogia"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Ort für einen längeren Aufenthalt bei Regen; die faszinierende Kristallwelt lässt das schlechte Wetter draußen vergessen.",
+                "hu": "Ez a múzeum ideális helyszín egy hosszabb esőnapi programhoz; a lenyűgöző kristályvilág feledteti a kinti borús és nedves időjárást.",
+                "ro": "Acest muzeu este locul ideal pentru o ședere prelungită pe timp de ploaie; lumea fascinantă a cristalelor vă face să uitați de vremea rea de afară.",
+                "en": "This museum is the ideal place for an extended stay during rain; the fascinating world of crystals makes you forget the bad weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Turó del Mal Temps",
+                "hu": "Turó del Mal Temps",
+                "ro": "Turó del Mal Temps",
+                "en": "Turó del Mal Temps"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das aufgewühlte Meer unter einem stabilen Schirm, aber bleiben Sie auf den befestigten Wegen, da der Boden aufweichen kann.",
+                "hu": "Élvezze a felkorbácsolt tenger látványát egy stabil esernyő alól, de maradjon a kijelölt utakon, mert a talaj sáros és csúszós lehet.",
+                "ro": "Bucurați-vă de vederea mării agitate sub o umbrelă stabilă, dar rămâneți pe potecile pavate, deoarece solul poate deveni noroios.",
+                "en": "Enjoy the view of the churning sea under a sturdy umbrella, but stay on the paved paths as the ground can become soft and slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Arenys ist erfrischend und klar. Mittags wärmen wir uns in den Museen auf, während die Wintersonne tief über der Küste steht. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir die Aussichtspunkte für den frühen Nachmittag ein. Der Abend wird gemütlich, wenn die Lichter der Stadt den historischen Kern in ein warmes, festliches Licht tauchen.",
+            "hu": "A téli reggel Arenysben frissítő és tiszta tengeri levegővel indul. Délben a múzeumok fűtött termeiben melegedhetünk fel, miközben a téli nap alacsonyan jár. Mivel a naplemente már 17:00 körül bekövetkezik, a kilátópontokat kora délutánra időzítjük. Az este meghitté válik, ahogy a város fényei meleg ragyogással árasztják el a történelmi központot.",
+            "ro": "Dimineața de iarnă în Arenys este revigorantă și senină. La prânz ne încălzim în muzee, în timp ce soarele de iarnă stă jos deasupra coastei. Deoarece soarele apune deja în jur de ora 17:00, planificăm punctele de belvedere pentru după-amiaza devreme. Seara devine primitoare când luminile orașului scaldă centrul istoric într-o lumină caldă.",
+            "en": "A winter morning in Arenys is refreshing and crisp. At noon, we warm up in the museums while the winter sun stays low over the coast. Since sunset occurs around 17:00, we schedule viewpoint visits for the early afternoon. The evening becomes cozy as city lights bathe the historical center in a warm, festive glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ajuntament d'Arenys de Mar",
+                "hu": "Ajuntament d'Arenys de Mar",
+                "ro": "Ajuntament d'Arenys de Mar",
+                "en": "Ajuntament d'Arenys de Mar"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das winterliche Treiben auf der Riera von den Stufen des Rathauses aus; tragen Sie eine winddichte Jacke gegen die kühle Brise.",
+                "hu": "Figyelje meg a téli nyüzsgést a Rierán a városháza lépcsőiről; viseljen szélálló kabátot a hűvös tengeri fuvallatok ellen.",
+                "ro": "Observați activitatea de iarnă de pe Riera de pe treptele primăriei; purtați o jachetă rezistentă la vânt împotriva brizelor răcoroase.",
+                "en": "Observe the winter bustle on the Riera from the Town Hall steps; wear a windproof jacket against the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre d'en Llobet",
+                "hu": "Torre d'en Llobet",
+                "ro": "Torre d'en Llobet",
+                "en": "Torre d'en Llobet"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht bietet hervorragende Bedingungen für Fotos des Turms; besuchen Sie ihn frühzeitig, bevor die Schatten am Nachmittag zu lang werden.",
+                "hu": "A tiszta téli fények kiváló körülményeket biztosítanak a torony fotózásához; látogassa meg korán, mielőtt a délutáni árnyékok túl hosszúra nyúlnának.",
+                "ro": "Lumina clară de iarnă oferă condiții excelente pentru fotografii ale turnului; vizitați-l devreme, înainte ca umbrele de după-amiază să devină prea lungi.",
+                "en": "The clear winter light offers excellent conditions for photos of the tower; visit early before the afternoon shadows grow too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria",
+                "hu": "Església de Santa Maria",
+                "ro": "Església de Santa Maria",
+                "en": "Església de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "In der Kirche ist es im Winter oft kühler als draußen; behalten Sie Ihren Mantel an, während Sie die goldenen Details des Altars bewundern.",
+                "hu": "A templomban télen gyakran hűvösebb van, mint kint; tartsa magán a kabátját, miközben az oltár aranyozott részleteit csodálja.",
+                "ro": "În biserică este adesea mai răcoare decât afară în timpul iernii; păstrați-vă haina pe dvs. în timp ce admirați detaliile aurii ale altarului.",
+                "en": "Inside the church, it is often cooler than outside in winter; keep your coat on while admiring the golden details of the altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Mollfulleda de Mineralogia",
+                "hu": "Museu Mollfulleda de Mineralogia",
+                "ro": "Museu Mollfulleda de Mineralogia",
+                "en": "Museu Mollfulleda de Mineralogia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; die beheizten Ausstellungsräume sind im Winter besonders angenehm für eine ausgiebige Besichtigung.",
+                "hu": "Használja a múzeumi látogatást melegedő szünetként; a fűtött kiállítótermek télen különösen kellemesek egy alapos nézelődéshez.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire; sălile de expoziție încălzite sunt deosebit de plăcute iarna pentru o vizită detaliată.",
+                "en": "Use the museum visit as a warm-up break; the heated exhibition halls are especially pleasant in winter for a thorough exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Turó del Mal Temps",
+                "hu": "Turó del Mal Temps",
+                "ro": "Turó del Mal Temps",
+                "en": "Turó del Mal Temps"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Hügel vor 16:30 Uhr, um den winterlichen Sonnenuntergang über dem Meer zu erleben, bevor es um 17:00 Uhr dunkel wird.",
+                "hu": "Érjen fel a dombra délután 16:30 előtt, hogy átélje a téli naplementét a tenger felett, mielőtt 17:00-kor teljesen besötétedik.",
+                "ro": "Ajungeți pe deal înainte de ora 16:30 pentru a experimenta apusul de iarnă peste mare, înainte de a se întuneca complet la ora 17:00.",
+                "en": "Reach the hill before 16:30 to experience the winter sunset over the sea before it gets completely dark by 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpártúrája kulturálisan indul az ásványmúzeumban. Ezután röviden átteker a Santa Maria templomhoz. Délben kilovagol a városból a romantikus Castell de Can Jalpí kastélyhoz, és pihen a kertekben. A délután a festői, kis Can Jalpí világítótoronyhoz vezeti. Naplementekor visszatér a központba, és megtekinti a történelmi Torre d'en Llobet őrtornyot a kellemes esti levegőben.",
         "ro": "Turul cu bicicleta începe la muzeul de minerale. Apoi mergeți scurt spre impresionanta Biserică Santa Maria. La prânz, pedalați în afara orașului până la romanticul Castell de Can Jalpí. După-amiaza vă duce la farul pitoresc și mic din Can Jalpí, înconjurat de natură. La apus, vă întoarceți în centru și priviți vechiul turn de veghe Torre d'en Llobet.",
         "en": "Your bike tour starts culturally at the mineral museum. Then you ride briefly to the impressive Santa Maria Church. At midday, pedal out of town to the romantic Castell de Can Jalpí and relax in the gardens. The afternoon takes you to the picturesque, small Can Jalpí lighthouse. At sunset, return to the center and view the ancient Torre d'en Llobet watchtower."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Küstenwegen. Der Vormittag verbringen wir im Museum, um den stärksten Schauern auszuweichen. Mittags geht es zur Kirche und zum Schloss, wo wir Schutz finden. Der Nachmittag am Leuchtturm ist windig und nass, bietet aber eine herbe Schönheit. Am Abend radeln wir vorsichtig auf den glatten Wegen zurück zum Hafen.",
+            "hu": "Az esős kerékpártúra óvatosságot igényel a parti utakon. A délelőttöt a múzeumban töltjük, hogy elkerüljük a legnagyobb záporokat. Délben a templom és a kastély felé vesszük az irányt, ahol menedéket találunk. A délután a világítótoronynál szeles és nedves, de vadregényes látványt nyújt. Este óvatosan, a csúszós szakaszokat kerülve tekerünk vissza.",
+            "ro": "O tură cu bicicleta în ploaie necesită prudență pe drumurile de coastă. Dimineața o petrecem la muzeu pentru a evita cele mai puternice averse. La prânz mergem spre biserică și castel, unde găsim adăpost. După-amiaza la far este vântoasă și umedă, dar oferă o frumusețe aspră. Seara pedalăm cu grijă înapoi spre port pe drumurile alunecoase.",
+            "en": "A bike tour in the rain requires caution on coastal paths. Spend the morning in the museum to avoid the heaviest showers. At noon, head towards the church and castle where shelter can be found. The afternoon at the lighthouse is windy and wet but offers a rugged beauty. In the evening, pedal carefully back to the harbor avoiding slippery patches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Mollfulleda de Mineralogia",
+                "hu": "Museu Mollfulleda de Mineralogia",
+                "ro": "Museu Mollfulleda de Mineralogia",
+                "en": "Museu Mollfulleda de Mineralogia"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem überdachten Platz und genießen Sie die trockene Ausstellung, während Sie auf besseres Wetter warten.",
+                "hu": "Parkolja le kerékpárját egy fedett helyen, és élvezze a száraz kiállítást, amíg arra vár, hogy javuljanak az időjárási körülmények a tekeréshez.",
+                "ro": "Parcați bicicleta într-un loc acoperit și bucurați-vă de expoziția uscată în timp ce așteptați ca vremea să se îmbunătățească.",
+                "en": "Park your bike in a covered spot and enjoy the dry exhibition while waiting for the weather to clear up for better riding conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria",
+                "hu": "Església de Santa Maria",
+                "ro": "Església de Santa Maria",
+                "en": "Església de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine gute Pause; prüfen Sie vor der Weiterfahrt den Luftdruck Ihrer Reifen für besseren Halt auf nasser Fahrbahn.",
+                "hu": "A templom jó pihenőhely; a továbbhaladás előtt ellenőrizze a gumiabroncsok nyomását a jobb tapadás érdekében a vizes aszfalton.",
+                "ro": "Biserica oferă un loc bun de odihnă; înainte de a pleca mai departe, verificați presiunea pneurilor pentru o aderență mai bună pe carosabil umed.",
+                "en": "The church provides a good rest stop; check your tire pressure before continuing for better grip on the wet road surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Can Jalpí",
+                "hu": "Castell de Can Jalpí",
+                "ro": "Castell de Can Jalpí",
+                "en": "Castell de Can Jalpí"
+              },
+              "tip_5lang": {
+                "de": "Das Schlossgelände kann bei Regen schlammig sein; bleiben Sie auf den Hauptwegen und nutzen Sie die Bäume als natürlichen Regenschutz.",
+                "hu": "A kastély környéke esőben sáros lehet; maradjon a főutakon, és használja a fákat természetes esővédőként a kerékpárok mellett.",
+                "ro": "Zona castelului poate fi noroioasă pe ploaie; rămâneți pe drumurile principale și folosiți copacii ca protecție naturală împotriva ploii.",
+                "en": "The castle grounds can be muddy in the rain; stay on the main paths and use the trees as natural rain shelter next to your bikes."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Can Jalpí",
+                "hu": "Far de Can Jalpí",
+                "ro": "Far de Can Jalpí",
+                "en": "Far de Can Jalpí"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei der Anfahrt über unbefestigte Wege; der Leuchtturm bietet wenig Schutz, bringen Sie also wasserfeste Kleidung mit.",
+                "hu": "Vigyázat a nem aszfaltozott utakon való megközelítéskor; a világítótoronynál kevés a fedezék, ezért viseljen vízálló öltözetet.",
+                "ro": "Atenție la abordarea pe drumuri neasfaltate; farul oferă puțin adăpost, așa că purtați îmbrăcăminte impermeabilă.",
+                "en": "Caution when approaching via unpaved paths; the lighthouse area has little shelter, so ensure you are wearing waterproof gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre d'en Llobet",
+                "hu": "Torre d'en Llobet",
+                "ro": "Torre d'en Llobet",
+                "en": "Torre d'en Llobet"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf den nassen Pflastersteinen in der Nähe des Turms, um ein Wegrutschen der Räder zu verhindern.",
+                "hu": "Kerülje az erős fékezést a torony közeli vizes macskaköveken, hogy megelőzze a kerékpárok megcsúszását és az esetleges baleseteket.",
+                "ro": "Evitați frânarea bruscă pe pavajul umed de lângă turn pentru a preveni deraparea bicicletei și eventualele accidente.",
+                "en": "Avoid sharp braking on the wet cobblestones near the tower to prevent your bike from slipping and ensure a safe ride back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Arenys bedeutet frische Seeluft und freie Wege. Vormittags besuchen wir das warme Museum, mittags führt die Tour zum Schloss Can Jalpí durch die kühle Waldluft. Da die Sonne früh untergeht, radeln wir am Nachmittag zügig zum Leuchtturm und Turm. Der Abend endet bei Einbruch der Dunkelheit um 17:00 Uhr mit einer beleuchteten Fahrt entlang der Küste.",
+            "hu": "A téli kerékpározás Arenysben friss tengeri levegőt és üres utakat ígér. Délelőtt a fűtött múzeumban kezdünk, délben a Can Jalpí kastélyhoz tekerünk a hűvös erdei levegőn. Mivel a nap korán nyugszik, délután tempósan haladunk a tornyok felé. Az este a sötétség beálltakával, 17:00 körül, kivilágított parti tekeréssel zárul.",
+            "ro": "Ciclismul de iarnă în Arenys înseamnă aer proaspăt de mare și drumuri libere. Dimineața vizităm muzeul călduros, la prânz tura duce la castelul Can Jalpí prin aerul răcoros al pădurii. Deoarece soarele apune devreme, pedalăm rapid spre far și turn. Seara se încheie la lăsarea întunericului, în jur de ora 17:00, cu o plimbare iluminată de-a lungul coastei.",
+            "en": "Winter cycling in Arenys means fresh sea air and empty paths. In the morning, visit the warm museum, then head to Can Jalpí Castle through the cool forest air. Since the sun sets early, pedal briskly to the lighthouse and towers in the afternoon. The evening ends at dusk around 17:00 with an illuminated ride along the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Mollfulleda de Mineralogia",
+                "hu": "Museu Mollfulleda de Mineralogia",
+                "ro": "Museu Mollfulleda de Mineralogia",
+                "en": "Museu Mollfulleda de Mineralogia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Hände aufzuwärmen; die Innenausstellung ist eine willkommene Pause von der kalten Winterbrise.",
+                "hu": "Használja a múzeumi látogatást a kezei felmelegítésére; a belső kiállítás kellemes pihenő a hideg téli tengeri szél után.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi mâinile; expoziția interioară este o pauză binevenită după briza rece de iarnă.",
+                "en": "Use the museum visit to warm up your hands; the indoor exhibition is a welcome break from the cold winter sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria",
+                "hu": "Església de Santa Maria",
+                "ro": "Església de Santa Maria",
+                "en": "Església de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie beim Radfahren Handschuhe und eine Mütze unter dem Helm, da die Luft in der Nähe der Kirche im Schatten recht kühl sein kann.",
+                "hu": "Viseljen kesztyűt és sisak alatti sapkát a tekerés közben, mivel a templom körüli árnyékos részeken a levegő télen kifejezetten hűvös.",
+                "ro": "Purtați mănuși și o căciulă sub cască în timp ce pedalați, deoarece aerul din apropierea bisericii, la umbră, poate fi destul de rece.",
+                "en": "Wear gloves and a liner under your helmet while riding, as the air near the church in the shade can be quite chilly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Can Jalpí",
+                "hu": "Castell de Can Jalpí",
+                "ro": "Castell de Can Jalpí",
+                "en": "Castell de Can Jalpí"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss hält Sie warm; genießen Sie die klare Sicht auf die Türme des Schlosses vor dem frühen Sonnenuntergang.",
+                "hu": "A kastélyhoz vezető emelkedő segít melegen tartani a testét; élvezze a kastély tornyainak tiszta látványát a korai naplemente előtt.",
+                "ro": "Urcarea spre castel vă va ține cald; bucurați-vă de vederea clară a turnurilor castelului înainte de apusul devreme al soarelui.",
+                "en": "The ride up to the castle will help keep you warm; enjoy the clear view of the castle towers before the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Can Jalpí",
+                "hu": "Far de Can Jalpí",
+                "ro": "Far de Can Jalpí",
+                "en": "Far de Can Jalpí"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehende Sonne beim Radfahren; eine Sonnenbrille hilft gegen die Blendung auf dem Weg zum Leuchtturm.",
+                "hu": "Ügyeljen az alacsonyan járó napra kerékpározás közben; egy napszemüveg sokat segít a vakítás ellen a világítótorony felé vezető úton.",
+                "ro": "Atenție la soarele care stă jos în timp ce pedalați; ochelarii de soare vă vor ajuta împotriva orbirii pe drumul spre far.",
+                "en": "Watch out for the low-hanging sun while cycling; sunglasses will help against the glare on your way to the lighthouse area."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre d'en Llobet",
+                "hu": "Torre d'en Llobet",
+                "ro": "Torre d'en Llobet",
+                "en": "Torre d'en Llobet"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da es ab 17:00 Uhr schnell dunkel wird und die Sicht am Turm abnimmt.",
+                "hu": "Győződjön meg róla, hogy a kerékpárlámpák jól működnek, mivel 17:00 után gyorsan sötétedik, és a látási viszonyok romlanak a toronynál.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează, deoarece se întunecă repede după ora 17:00 și vizibilitatea la turn scade.",
+                "en": "Ensure your bike lights are working perfectly, as it gets dark quickly after 17:00 and visibility at the tower will decrease."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "A nap a fenséges Castell de Can Jalpí-nál kezdődik a város szélén. Ezután vezessen a központba a pompás Santa Maria templomhoz. Délben a Turó del Mal Temps-ről élvezheti a part menti kilátást. Délután felfedezi a Torre dels Encantats lenyűgöző romjait. A napot nyugodtan zárja le a Mirador 11 de setembre kilátónál, majd végül a gyönyörű Musclera homokos tengerparton.",
         "ro": "Ziua începe la maiestuosul Castell de Can Jalpí de la periferie. Apoi conduceți în centru către magnifica Biserică Santa Maria. La prânz, bucurați-vă de primele priveliști de coastă de pe Turó del Mal Temps. După-amiaza, explorați ruinele fascinante de la Torre dels Encantats. Vă încheiați ziua relaxant, la Mirador 11 de setembre și apoi pe frumoasa plajă Musclera.",
         "en": "The day begins at the majestic Castell de Can Jalpí on the outskirts. Then drive to the center to the magnificent Santa Maria Church. At midday, enjoy the first coastal views from the Turó del Mal Temps. In the afternoon, explore the fascinating ruins of the Torre dels Encantats. End your day relaxing at the Mirador 11 de setembre and then on the beautiful Musclera beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist ein Regentag in Arenys entspannt. Vormittags besuchen wir das Schloss Can Jalpí, mittags die Kirche im Zentrum. Der Nachmittag führt uns zu den Türmen und Aussichtspunkten, die wir bequem vom trockenen Fahrzeug aus erreichen können. Den Tag lassen wir am Strand de la Musclera ausklingen, wo wir das Schauspiel der Wellen sicher vom Parkplatz aus beobachten.",
+            "hu": "Autóval az esős nap Arenysben is kényelmesen telik. Délelőtt a Can Jalpí kastélyt látogatjuk meg, délben a központban lévő templomot. A délután a tornyokhoz és kilátópontokhoz vezet, melyeket szárazon érhetünk el a járművel. A napot a Musclera strandon zárjuk, ahol a kocsi ablakából csodálhatjuk a hullámok játékát.",
+            "ro": "Cu mașina, o zi ploioasă în Arenys este relaxantă. Dimineața vizităm castelul Can Jalpí, la prânz biserica din centru. După-amiaza ne duce la turnuri și puncte de belvedere, pe care le putem accesa confortabil din vehiculul uscat. Încheiem ziua la plaja de la Musclera, unde observăm spectacolul valurilor în siguranță din parcare.",
+            "en": "By car, a rainy day in Arenys remains comfortable and relaxed. Visit Can Jalpí Castle in the morning and the central church at noon. The afternoon takes us to towers and viewpoints, easily reachable while staying dry. End the day at Musclera beach, watching the crashing waves safely from the vehicle's window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de Can Jalpí",
+                "hu": "Castell de Can Jalpí",
+                "ro": "Castell de Can Jalpí",
+                "en": "Castell de Can Jalpí"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang, um den Weg durch den Regen zum Schloss so kurz wie möglich zu halten.",
+                "hu": "Használja a bejárathoz közeli parkolóhelyeket, hogy az esőben megtett gyalogutat a kastélyig a lehető legrövidebbre csökkentse.",
+                "ro": "Folosiți locurile de parcare aproape de intrare pentru a menține drumul prin ploaie până la castel cât mai scurt posibil.",
+                "en": "Utilize the parking spots close to the entrance to keep the walk through the rain to the castle as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria",
+                "hu": "Església de Santa Maria",
+                "ro": "Església de Santa Maria",
+                "en": "Església de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im unterirdischen Parkplatz an der Riera, um trockenen Fußes zur Kirche und in die Altstadt zu gelangen.",
+                "hu": "Parkoljon a Riera alatti mélygarázsban, hogy száraz lábbal juthasson el a templomhoz és az óváros szívébe az eső ellenére is.",
+                "ro": "Parcați în parcarea subterană de pe Riera pentru a ajunge cu picioarele uscate la biserică și în inima centrului vechi.",
+                "en": "Park in the underground parking lot at the Riera to reach the church and the heart of the old town while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Turó del Mal Temps",
+                "hu": "Turó del Mal Temps",
+                "ro": "Turó del Mal Temps",
+                "en": "Turó del Mal Temps"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt bietet einen tollen Blick; bleiben Sie bei starkem Regen im Auto und genießen Sie das Panorama durch die Scheiben.",
+                "hu": "A kilátópont remek látványt nyújt; erős esőben maradjon az autóban, és csodálja a panorámát a szélvédőn keresztül, biztonságban.",
+                "ro": "Punctul de belvedere oferă o vedere excelentă; pe ploaie torențială, rămâneți în mașină și admirați panorama prin parbriz.",
+                "en": "The viewpoint offers a great sight; during heavy rain, stay in the car and admire the panorama through the windshield in safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre dels Encantats",
+                "hu": "Torre dels Encantats",
+                "ro": "Torre dels Encantats",
+                "en": "Torre dels Encantats"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Ausparken auf unbefestigten Flächen in der Nähe des Turms, da der Boden aufgeweicht sein kann.",
+                "hu": "Legyen óvatos a torony környéki nem aszfaltozott részeken való parkoláskor, mivel a talaj felázhat és csúszóssá válhat az esőtől.",
+                "ro": "Fiți atenți când parcați pe suprafețe neasfaltate lângă turn, deoarece solul poate fi înmuiat și alunecos din cauza ploii.",
+                "en": "Be careful when parking on unpaved surfaces near the tower, as the ground can be softened and slippery due to the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador 11 de setembre",
+                "hu": "Mirador 11 de setembre",
+                "ro": "Mirador 11 de setembre",
+                "en": "Mirador 11 de setembre"
+              },
+              "tip_5lang": {
+                "de": "Dieser Mirador ist ideal für regnerische Tage, da man oft direkt heranfahren und den Blick auf die Küste im Trockenen genießen kann.",
+                "hu": "Ez a kilátó ideális esős napokra, mivel gyakran közvetlenül oda lehet hajtani, és szárazon élvezni a tengerparti panorámát.",
+                "ro": "Acest punct de belvedere este ideal pentru zilele ploioase, deoarece puteți conduce direct acolo și admira panorama coastei la uscat.",
+                "en": "This lookout is ideal for rainy days, as you can often drive directly up to it and enjoy the coastal panorama while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Musclera",
+                "hu": "Platja de la Musclera",
+                "ro": "Platja de la Musclera",
+                "en": "Platja de la Musclera"
+              },
+              "tip_5lang": {
+                "de": "Der Strandparkplatz bietet einen fantastischen Blick auf das stürmische Meer; genießen Sie ein heißes Getränk im Auto während der Beobachtung.",
+                "hu": "A strandparkoló fantasztikus kilátást nyújt a viharos tengerre; élvezze egy forró ital társaságában a hullámok látványát az autóból.",
+                "ro": "Parcarea de la plajă oferă o vedere fantastică spre marea agitată; bucurați-vă de o băutură caldă în mașină în timp ce priviți valurile.",
+                "en": "The beach parking lot offers a fantastic view of the stormy sea; enjoy a hot beverage in the car while watching the waves crash."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Arenys bietet klare Sichten und viel Komfort. Vormittags erkunden wir das Schloss Can Jalpí, mittags wärmen wir uns in der Kirche auf. Der Nachmittag ist den Küstenaussichtspunkten gewidmet, bevor die Sonne um 17:00 Uhr untergeht. Der Abend endet mit einer Fahrt durch die festlich beleuchteten Straßen des Ortes.",
+            "hu": "A téli autózás Arenys környékén tiszta kilátást és maximális kényelmet nyújt. Délelőtt a Can Jalpí kastélyt fedezzük fel, délben a templom hűvösében teszünk látogatást. A délután a parti kilátópontoké, mielőtt 17:00-kor lebukik a nap. Az este a város ünnepi fényeiben pompázó utcákon tett autózással zárul.",
+            "ro": "O plimbare de iarnă cu mașina prin Arenys oferă vederi clare și mult confort. Dimineața explorăm castelul Can Jalpí, la prânz vizităm biserica. După-amiaza este dedicată punctelor de belvedere de pe coastă, înainte ca soarele să apună la ora 17:00. Seara se încheie cu o plimbare pe străzile iluminate festiv ale orașului.",
+            "en": "A winter drive through Arenys offers clear views and maximum comfort. Explore Can Jalpí Castle in the morning and visit the historic church at noon. The afternoon is dedicated to coastal viewpoints before the sun sets at 17:00. The evening concludes with a drive through the festively lit streets of the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de Can Jalpí",
+                "hu": "Castell de Can Jalpí",
+                "ro": "Castell de Can Jalpí",
+                "en": "Castell de Can Jalpí"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt das Schloss in einem besonderen Licht erstrahlen; nutzen Sie die Heizung im Auto zwischen den Besichtigungen.",
+                "hu": "A téli napfény különleges fénybe öltözteti a kastélyt; használja az autó fűtését a látnivalók közötti szakaszokon a kényelem érdekében.",
+                "ro": "Soarele de iarnă face castelul să strălucească într-o lumină deosebită; folosiți încălzirea mașinii între vizite pentru confort.",
+                "en": "The winter sun makes the castle glow in a unique light; use the car's heater between stops to maintain a comfortable temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria",
+                "hu": "Església de Santa Maria",
+                "ro": "Església de Santa Maria",
+                "en": "Església de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie zentral und achten Sie auf die kurzen Gehwege, um nicht zu lange der kühlen Meeresluft ausgesetzt zu sein.",
+                "hu": "Parkoljon a központban, és válassza a rövid gyalogutakat, hogy ne legyen túl sokáig kitéve a hűvös téli tengeri levegőnek.",
+                "ro": "Parcați central și alegeți traseele scurte de mers pe jos pentru a nu fi expuși prea mult timp aerului rece al mării.",
+                "en": "Park centrally and choose short walking paths to minimize exposure to the chilly winter sea air while visiting the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Turó del Mal Temps",
+                "hu": "Turó del Mal Temps",
+                "ro": "Turó del Mal Temps",
+                "en": "Turó del Mal Temps"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das Mittelmeer; im Winter ist die Fernsicht oft viel besser als an heißen Sommertagen.",
+                "hu": "Élvezze a távoli kilátást a Földközi-tengerre; télen a látótávolság gyakran sokkal jobb, mint a párás, forró nyári napokon.",
+                "ro": "Bucurați-vă de vederea largă spre Marea Mediterană; iarna, vizibilitatea la distanță este adesea mult mai bună decât în zilele fierbinți de vară.",
+                "en": "Enjoy the wide view over the Mediterranean; in winter, long-distance visibility is often much better than on humid, hot summer days."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre dels Encantats",
+                "hu": "Torre dels Encantats",
+                "ro": "Torre dels Encantats",
+                "en": "Torre dels Encantats"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm am frühen Nachmittag, wenn die Wintersonne die historischen Mauern noch direkt beleuchtet und wärmt.",
+                "hu": "Látogassa meg a tornyot kora délután, amikor a téli nap még közvetlenül megvilágítja és melegíti a történelmi falakat.",
+                "ro": "Vizitați turnul după-amiaza devreme, când soarele de iarnă încă luminează și încălzește direct zidurile istorice.",
+                "en": "Visit the tower in the early afternoon when the winter sun still directly illuminates and warms the historic stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador 11 de setembre",
+                "hu": "Mirador 11 de setembre",
+                "ro": "Mirador 11 de setembre",
+                "en": "Mirador 11 de setembre"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für den winterlichen Sonnenuntergang um 17:00 Uhr; man kann den Wagen so parken, dass man den Blick im Warmen genießt.",
+                "hu": "Ideális hely a téli naplemente megtekintéséhez 17:00 körül; az autóval úgy parkolhat, hogy a meleget élvezve lássa a horizontot.",
+                "ro": "Locul ideal pentru apusul de iarnă în jur de ora 17:00; puteți parca mașina astfel încât să vă bucurați de vedere la căldură.",
+                "en": "The ideal spot for the winter sunset around 17:00; you can park the car so that you enjoy the horizon view from the warmth inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Musclera",
+                "hu": "Platja de la Musclera",
+                "ro": "Platja de la Musclera",
+                "en": "Platja de la Musclera"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer und friedlich; ein kurzer Spaziergang am Wasser härtet ab und ist danach im geheizten Auto belohnend.",
+                "hu": "A strand télen kihalt és békés; egy rövid séta a parton felfrissít, ami után különösen jól esik majd a fűtött utastér melege.",
+                "ro": "Plaja este pustie și liniștită iarna; o scurtă plimbare pe mal vă va revigora, după care căldura mașinii va fi o recompensă plăcută.",
+                "en": "The beach is deserted and peaceful in winter; a short stroll by the water is refreshing, followed by the rewarding warmth of your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Reggel a lorette-i vasútállomásról indulunk, majd az elegáns városházánál elmerülünk a helyi atmoszférában. Délben a modern médiatár inspiráló könyves szünetet kínál. Délután kényelmesen sétálunk a színpompás botanikus kert virágai között. Az este egy kiadós túrával zárul a történelmi víztartályhoz, ahol a nyugodt természet lágy ölén pihenhetjük ki a nap fáradalmait.",
         "ro": "Dimineața pornim de la gara din Lorette și admirăm arhitectura elegantă a primăriei. La prânz, mediateca modernă ne oferă o pauză inspirată în lumea cărților. După-amiaza ne plimbăm pe îndelete prin grădina botanică plină de flori colorate. Seara se încheie cu o drumeție lungă spre rezerva de apă istorică, unde ne relaxăm în mijlocul naturii liniștite și nealterate.",
         "en": "We begin our morning at the Lorette train station, moving on to admire the elegant town hall. Midday offers an inspiring break with books at the modern media library. In the afternoon, we take a leisurely stroll through the colorful flowers of the botanical garden. The evening concludes with a long hike to the historic water reservoir, winding down in tranquil natural surroundings."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am überdachten Bahnhof, gut vorbereitet für einen nassen Spaziergang. Suchen Sie mittags Schutz vor dem Regen in den warmen kulturellen Einrichtungen. Trotzen Sie am Nachmittag dem Nieselregen im botanischen Garten auf rutschigen Wegen. Suchen Sie sich abends einen warmen Ort zum Trocknen und Ausruhen.",
+            "hu": "Kezdje a reggelt a fedett vasútállomáson, felkészülve a nyirkos sétára. Délben keressen menedéket a kulturális terekben a zivatarok elől, ahol kényelmesen megszáradhat. Délután dacoljon a szitáló esővel a botanikus kert csúszós ösvényein és a víztartálynál. Estére mindenképp keressen egy meleg helyet a pihenésre.",
+            "ro": "Începeți dimineața la gara acoperită, pregătindu-vă de o plimbare umedă. La prânz, refugiați-vă în spațiile culturale pentru a scăpa de ploaie și a vă usca. După-amiaza, înfruntați burnița pe aleile alunecoase din grădina botanică și la rezervor. Odată cu lăsarea serii, căutați urgent un loc cald pentru relaxare.",
+            "en": "Start your morning arriving at the sheltered train station, preparing for a damp walk. By midday, take refuge in the civic and cultural spaces to escape the rain. In the afternoon, brave the drizzle on the slippery paths of the botanical garden. As evening falls, seek a cozy, warm place to dry off after your wet exploration."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Lorette",
+                "hu": "Lorette Vasútállomás",
+                "ro": "Gara din Lorette",
+                "en": "Lorette Train Station"
+              },
+              "tip_5lang": {
+                "de": "Die Wartehalle des Bahnhofs bietet einen angenehm trockenen Start in den Morgen; vergessen Sie nicht, Ihren Regenschirm einzupacken, bevor Sie losgehen.",
+                "hu": "Az állomás váróterme kényelmesen száraz kezdést biztosít a reggelhez; mindenképpen csomagolja el az esernyőjét, és vegyen fel vízálló cipőt indulás előtt.",
+                "ro": "Sala de așteptare a gării oferă un început confortabil și uscat pentru dimineața dumneavoastră; asigurați-vă că luați umbrela înainte de a ieși.",
+                "en": "The station's waiting hall provides a comfortably dry start for your morning; make sure to pack your umbrella and wear sturdy boots before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Lorette",
+                "hu": "Lorette Városháza",
+                "ro": "Primăria Lorette",
+                "en": "Lorette Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter Ihrem Regenschirm. Seien Sie vorsichtig auf den nassen Pflastersteinen in der Nähe, da diese sehr rutschig werden können.",
+                "hu": "Csodálja meg az építészetet az esernyője alól. Legyen óvatos a közeli nedves macskaköveken, mivel azok az esőben rendkívül csúszóssá és veszélyessé válhatnak.",
+                "ro": "Admirați arhitectura la adăpostul umbrelei. Aveți mare grijă pe pietrele de pavaj umede din apropiere, deoarece acestea pot deveni destul de alunecoase.",
+                "en": "Admire the architecture from under your umbrella; the nearby eaves offer brief shelter. Be careful on the wet paving stones as they can get quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Mediathek von Lorette",
+                "hu": "Lorette Médiatár",
+                "ro": "Mediateca Lorette",
+                "en": "Lorette Media Library"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein perfekter Rückzugsort im Trockenen, um zu lesen, während es draußen in Strömen regnet. Nehmen Sie sich Zeit, bis die schwersten Schauer vorbei sind.",
+                "hu": "Ez egy tökéletes beltéri menedék olvasni és megszáradni, miközben kint zuhog az eső. Szánjon rá időt, amíg a legnehezebb záporok és zivatarok elvonulnak.",
+                "ro": "Acesta este un refugiu perfect în interior pentru a citi în timp ce plouă afară. Luați-vă timp răsfoind colecțiile până când trec cele mai grele averse.",
+                "en": "This is a perfect indoor retreat to read and dry off while the rain pours outside. Take your time browsing the collections until the heaviest showers pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten",
+                "hu": "Botanikus Kert",
+                "ro": "Grădina Botanică",
+                "en": "Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Die Farben der nassen Blätter sind heute unglaublich lebendig, aber die Wege können schlammig sein. Tragen Sie unbedingt wasserfeste, feste Schuhe.",
+                "hu": "A nedves lombozat színei hihetetlenül élénkek ma, de az ösvények meglehetősen sarasak lehetnek. Gondoskodjon vízálló, masszív lábbeli viseléséről.",
+                "ro": "Culorile frunzișului umed sunt incredibil de vibrante astăzi, dar aleile pot fi noroioase. Asigurați-vă că purtați încălțăminte rezistentă la apă.",
+                "en": "Wet foliage colors are incredibly vibrant today, but the pathways can be quite muddy. Ensure you wear waterproof, sturdy boots for this part of the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserzisterne DECI",
+                "hu": "DECI Víztartály",
+                "ro": "Rezervor de apă DECI",
+                "en": "DECI Water Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die Wasseroberfläche wirkt im Regen dunkel und stimmungsvoll. Achten Sie auf Ihre Schritte auf den rutschigen, schlammigen Wegen in der Nähe des Wassers.",
+                "hu": "A vízfelszín sötétnek és hangulatosnak tűnik az esőben. Nagyon óvatosan lépkedjen a vízparthoz közeli csúszós, saras megközelítési pontokon.",
+                "ro": "Suprafața apei arată întunecat și dramatic în ploaie. Aveți grijă la pași pe căile alunecoase și pline de noroi din apropierea marginii apei.",
+                "en": "The water surface looks dark and moody in the rain, offering great photos. Watch your step carefully on the slick, muddy approaches near the water edge."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Wintermorgen am Bahnhof, gut eingepackt in Thermokleidung. Mittags spazieren Sie zügig zum Rathaus und zur gemütlichen Bibliothek. Genießen Sie nachmittags die frostige Schönheit der Gärten. Bei Sonnenuntergang um 17:00 Uhr sollten Sie den Spaziergang vor der eisigen Nacht beenden.",
+            "hu": "Kezdje a csípős téli reggelt az állomáson, vastag termoruházatba burkolózva. Délben tegyen egy frissítő sétát a városházához és a meleg könyvtárhoz. Délután élvezze a fagyos kertek és a víztartály rideg szépségét. A korai, 17:00 órai sötétedés miatt fejezze be a sétát, mielőtt beáll a veszélyesen fagyos éjszaka.",
+            "ro": "Începeți dimineața de iarnă la gară, îmbrăcat bine în straturi termice. La prânz, faceți o plimbare revigorantă la primărie și încălziți-vă la bibliotecă. După-amiaza, admirați frumusețea înghețată a grădinilor. Apusul devreme din jurul orei 17:00 cere să încheiați plimbarea înainte de lăsarea nopții geroase.",
+            "en": "Begin your crisp winter morning at the station, wrapped in thick thermal layers. Midday brings a brisk, refreshing walk to the town hall and a cozy stop at the library. During the afternoon, enjoy the stark beauty of the dormant gardens. The early 17:00 sunset means you must finish your walk before the freezing night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Lorette",
+                "hu": "Lorette Vasútállomás",
+                "ro": "Gara din Lorette",
+                "en": "Lorette Train Station"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein frostiger, aber effizienter Startpunkt für Ihren Spaziergang. Holen Sie sich ein heißes Getränk aus einem nahegelegenen Café, um sich aufzuwärmen.",
+                "hu": "Ez egy fagyos, de hatékony kiindulópont a sétához. Vegyen egy gőzölgő forró italt egy közeli kávézóban, hogy felmelegítse a kezét a felfedezés előtt.",
+                "ro": "Acesta este un punct de plecare geros, dar eficient. Luați o băutură caldă aburindă de la o cafenea din apropiere pentru a vă încălzi mâinile înainte de a începe.",
+                "en": "This is a frosty but efficient starting point for your walk. Grab a steaming hot drink from a nearby cafe to warm your hands before you begin exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Lorette",
+                "hu": "Lorette Városháza",
+                "ro": "Primăria Lorette",
+                "en": "Lorette Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die große Fassade wirkt markant gegen den klaren, grauen Winterhimmel. Bleiben Sie zügig in Bewegung, um Ihre Körpertemperatur aufrechtzuerhalten.",
+                "hu": "A hatalmas homlokzat lenyűgözően fest a ropogós, szürke téli égbolt előtt. Haladjon gyors tempóban a téren, hogy fenntartsa a testhőmérsékletét.",
+                "ro": "Fațada grandioasă arată impresionant pe cerul cenușiu de iarnă. Continuați să vă mișcați într-un ritm alert prin piață pentru a vă menține temperatura corpului.",
+                "en": "The grand facade looks striking against the crisp, grey winter sky. Keep moving at a brisk pace across the square to maintain your core body temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Mediathek von Lorette",
+                "hu": "Lorette Médiatár",
+                "ro": "Mediateca Lorette",
+                "en": "Lorette Media Library"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie den eisigen Temperaturen, indem Sie sich drinnen bei einem guten Buch aufwärmen. Genießen Sie den beheizten Innenraum vor der Weiterreise.",
+                "hu": "Meneküljön el a fagyos hőmérséklet elől, és melegedjen fel bent egy jó könyvvel. Élvezze a fűtött belső teret, mielőtt folytatná a téli útját.",
+                "ro": "Scăpați de temperaturile de îngheț încălzindu-vă în interior cu o carte bună. Bucurați-vă de interiorul încălzit înainte de a vă continua călătoria.",
+                "en": "Escape the freezing temperatures by warming up inside with a good book. Enjoy the heated interior and let your toes thaw before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten",
+                "hu": "Botanikus Kert",
+                "ro": "Grădina Botanică",
+                "en": "Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Der Frost umrandet die kahlen Äste wunderschön und schafft eine magische Winterszene. Tragen Sie dicke Thermosocken, da der Boden hier außergewöhnlich kalt wird.",
+                "hu": "A fagy gyönyörűen körvonalazza a csupasz ágakat, varázslatos téli jelenetet teremtve. Viseljen vastag termozoknit, mivel a talaj itt rendkívül hideg.",
+                "ro": "Gerul conturează frumos crengile goale, creând o scenă magică de iarnă. Purtați șosete termice groase, deoarece solul de aici devine excepțional de rece.",
+                "en": "Frost outlines the bare branches beautifully, creating a magical winter scene. Wear thick thermal socks, as the ground here becomes exceptionally cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserzisterne DECI",
+                "hu": "DECI Víztartály",
+                "ro": "Rezervor de apă DECI",
+                "en": "DECI Water Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die eisigen Ränder des Stausees erfordern besondere Vorsicht. Die tiefe winterliche Stille, die Sie hier finden, ist jedoch unglaublich friedlich.",
+                "hu": "A víztározó jeges szélei különös óvatosságot igényelnek. Az itt tapasztalható mély téli csend azonban hihetetlenül békés, és megéri a hideg túrát.",
+                "ro": "Marginile înghețate ale rezervorului necesită o precauție extremă. Cu toate acestea, liniștea profundă de iarnă găsită aici este incredibil de pașnică.",
+                "en": "The icy edges of the reservoir require extra caution. However, the deep winter stillness found here is incredibly peaceful and well worth the cold trek."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggel a vasútállomáson indul, majd a városháza és a botanikus kert következik egy kellemes pihenővel. Délben elkerekezünk a lenyűgöző Barrage du Couzon gáthoz, élvezve a természetet. Délután a békés Keresztelő Szent János-templom festett üvegablakait csodáljuk meg. Az estét a Gier folyó zöldellő partjainál zárjuk, ahol egy idilli piknikkel pihenjük ki a bringázást.",
         "ro": "Dimineața începe la gară, urmată de o scurtă oprire la primărie și o plimbare prin grădina botanică. La prânz pedalăm spre impresionantul baraj Couzon, bucurându-ne de aer liber. După-amiaza explorăm liniștita Biserică Sfântul Ioan Botezătorul cu vitraliile sale. Seara încheiem traseul pe malurile verzi ale râului Gier, perfecte pentru un picnic de neuitat la apus.",
         "en": "Morning kicks off at the station, followed by the town hall and a relaxing break in the botanical garden. Midday sees us cycling to the impressive Barrage du Couzon dam surrounded by nature. In the afternoon, we explore the peaceful Saint-Jean-Baptiste church and its stained glass. We end the evening on the green banks of the Gier river with a well-deserved, idyllic picnic."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour im Regen am Bahnhof in gut sichtbarer Regenkleidung. Fahren Sie mittags vorsichtig über rutschige Straßen zum Staudamm. Radeln Sie nachmittags am Flussufer entlang, wo der Regen das Wasser antreibt. Beenden Sie die nasse Fahrt am späten Nachmittag sicher im Trockenen.",
+            "hu": "Kezdje a kerékpározást a reggeli esőben az állomásról, jól látható vízálló ruházatban. Délben óvatosan navigáljon a csúszós utakon a gátig. Délután tekerjen a folyóparton, ahol a heves eső felduzzasztja a vizet. Fejezze be a nedves túrát kora este, a biztonságot és a meleget előtérbe helyezve.",
+            "ro": "Începeți plimbarea cu bicicleta în ploaia de dimineață, purtând haine impermeabile. La prânz, navigați cu grijă pe drumurile alunecoase spre baraj. După-amiaza, pedalați pe malul râului umflat de ploi. Încheiați cursa umedă spre seară, acordând prioritate siguranței și unui adăpost uscat.",
+            "en": "Start cycling in the morning rain from the station, wearing high-visibility waterproofs. By midday, carefully navigate slippery roads to the dam. In the afternoon, ride along the riverbanks, where the rain feeds the rushing waters. End your wet ride by late afternoon, prioritizing warm shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Lorette",
+                "hu": "Lorette Vasútállomás",
+                "ro": "Gara din Lorette",
+                "en": "Lorette Train Station"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie Ihre Bremsen und den Reifendruck sorgfältig, bevor Sie bei diesen nassen Bedingungen losfahren. Gut sichtbare Regenkleidung wird empfohlen.",
+                "hu": "Indulás előtt nedves körülmények között alaposan ellenőrizze a fékeket és a guminyomást. Jól látható vízálló ruházat használata erősen ajánlott.",
+                "ro": "Verificați cu atenție frânele și presiunea în anvelope înainte de a porni în aceste condiții umede. Hainele impermeabile cu vizibilitate ridicată sunt recomandate.",
+                "en": "Check your brakes and tire pressure carefully before setting off in these wet conditions. High-visibility waterproofs are highly recommended for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Lorette",
+                "hu": "Lorette Városháza",
+                "ro": "Primăria Lorette",
+                "en": "Lorette Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster und die Straßen in der Nähe können bei Regen sehr rutschig sein. Fahren Sie langsam, um gefährliches Rutschen zu vermeiden.",
+                "hu": "A macskakövek és a közeli utak meglehetősen csúszósak lehetnek az esőben. Lassítson és óvatosan tekerjen a tér körül a veszélyes megcsúszások elkerülése végett.",
+                "ro": "Pietrele cubice și drumurile din apropiere pot fi destul de alunecoase în ploaie. Mergeți încet și cu prudență în jurul pieței pentru a evita derapajele.",
+                "en": "The cobblestones and roads nearby may be quite slippery in the rain. Ride slowly and cautiously around the civic square to avoid any sudden, dangerous skids."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten",
+                "hu": "Botanikus Kert",
+                "ro": "Grădina Botanică",
+                "en": "Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Auf den Radwegen, die sich durch den Garten schlängeln, können sich tiefe Pfützen bilden. Hochwertige Schutzbleche sind heute absolut unerlässlich.",
+                "hu": "A kerten átvezető kerékpárutakon mély tócsák gyűlhetnek össze. A jó minőségű sárvédő ma teljességgel elengedhetetlen, hogy a háta száraz maradjon.",
+                "ro": "Pe pistele de biciclete care șerpuiesc prin grădină se pot forma bălți adânci. Aripile de bună calitate sunt absolut esențiale astăzi pentru a vă păstra uscat.",
+                "en": "The cycle paths winding through the garden can accumulate deep puddles. Good quality mudguards are absolutely essential today to keep your back dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm Couzon",
+                "hu": "Couzon Gát",
+                "ro": "Barajul Couzon",
+                "en": "Couzon Dam"
+              },
+              "tip_5lang": {
+                "de": "Der überlaufende Damm ist bei starkem Regen ein spektakulärer Anblick. Seien Sie beim Bremsen besonders vorsichtig und achten Sie auf nasses Laub.",
+                "hu": "A túlcsorduló gát látványos a heves esőben. Legyen rendkívül óvatos a fékezésnél ezen a szakaszon, és ügyeljen a nedves, csúszós falevelekre az utakon.",
+                "ro": "Barajul care se revarsă este o priveliște spectaculoasă în ploaia torențială. Fiți foarte atenți la frânare aici și feriți-vă de frunzele ude și alunecoase.",
+                "en": "The overflowing dam is a spectacular sight in the heavy rain. Be extra careful when braking here, and watch out for wet, slippery leaves on the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sfântul Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher draußen und treten Sie in das historische Kirchenschiff. Es ist ein toller, ruhiger Ort, um Ihre nasse Ausrüstung zu trocknen.",
+                "hu": "Biztonságosan parkolja le a kerékpárt, és lépjen be a történelmi hajóba. Kiváló csendes hely a nedves felszerelés szárítására és a pihenésre az eső elől.",
+                "ro": "Parcați bicicleta în siguranță afară și pășiți în naosul istoric. Este un loc liniștit minunat pentru a vă usca echipamentul umed și a vă trage sufletul.",
+                "en": "Safely park your bike outside and step into the historic nave. It is a great quiet spot to dry your wet gear and catch your breath away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer des Gier",
+                "hu": "A Gier partjai",
+                "ro": "Malurile râului Gier",
+                "en": "Banks of the Gier"
+              },
+              "tip_5lang": {
+                "de": "Der Fluss fließt an Regentagen schnell und schlammig. Halten Sie beim Radfahren entlang dieser malerischen Wasserroute einen sicheren Abstand zu den Ufern.",
+                "hu": "A folyó gyorsan és sárosan áramlik esős napokon. Kerékpározás közben tartson biztonságos távolságot az instabil, csúszós folyópartoktól ezen a szakaszon.",
+                "ro": "Râul curge rapid și noroios în zilele ploioase. Păstrați o distanță sigură de malurile instabile și alunecoase în timp ce pedalați pe acest traseu pitoresc.",
+                "en": "The river flows fast and muddy during rainy days. Keep a safe distance from the unstable, slippery banks while cycling along this scenic water route."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die morgendliche Fahrt in Thermokleidung in der klaren Winterluft. Radeln Sie mittags zum Staudamm mit frostigem Ausblick. Der Nachmittag am Fluss ist schön, wird aber durch den Wind extrem kalt. Kehren Sie vor Sonnenuntergang um 17:00 Uhr zurück, bevor sich Eis auf den Wegen bildet.",
+            "hu": "Kezdje a reggeli tekerést termoruházatban, élvezve a csípős téli levegőt. Délben pedálozzon a gát felé, gyönyörködve a fagyos tájban. A délután a folyóparton rideg, de a szél miatt hamar fagyos lesz. Induljon vissza a 17:00 órai sötétedés előtt, amikor a hőmérséklet lezuhan és tükörjég képződik.",
+            "ro": "Începeți cursa de dimineață în haine termice, bucurându-vă de aerul aspru de iarnă. La prânz, pedalați spre baraj pentru priveliști înghețate. După-amiaza de-a lungul râului se răcește brusc din cauza vântului. Întoarceți-vă înainte de apusul de la 17:00, când temperaturile scad și se formează gheață.",
+            "en": "Kick off your morning ride wrapped in thermals, embracing the biting winter air. At noon, pedal towards the dam, enjoying clear, frosty vistas. The afternoon along the riverbanks is stark, but winds get freezing fast. Head back before the 17:00 sunset when temperatures plummet and black ice forms."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Lorette",
+                "hu": "Lorette Vasútállomás",
+                "ro": "Gara din Lorette",
+                "en": "Lorette Train Station"
+              },
+              "tip_5lang": {
+                "de": "Ein frischer und eisiger Start in Ihre Fahrt. Tragen Sie unbedingt dicke Winterradhandschuhe, um zu verhindern, dass Ihre Finger im Windchill einfrieren.",
+                "hu": "Friss és fagyos kezdete a túrának. Mindenképpen viseljen vastag téli kerékpáros kesztyűt, hogy megakadályozza az ujjai elfagyását a metsző szélben.",
+                "ro": "Un început revigorant și înghețat al cursei. Asigurați-vă că purtați mănuși groase de ciclism de iarnă pentru a preveni înghețarea degetelor în vântul tăios.",
+                "en": "A brisk and freezing start to your ride. Make sure you wear thick winter cycling gloves to prevent your fingers from freezing in the biting wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Lorette",
+                "hu": "Lorette Városháza",
+                "ro": "Primăria Lorette",
+                "en": "Lorette Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Halt, um die frostbedeckten Dächer rund um das Zentrum zu bewundern. Fahren Sie danach schnell weiter, um Ihre Körpermitte warm zu halten.",
+                "hu": "Tegyen egy rövid megállót a dérlepte tetők megcsodálására a központ körül. Ezután induljon tovább gyorsan, hogy megőrizze a testhőjét a fagyos levegőben.",
+                "ro": "Faceți o scurtă oprire pentru a admira acoperișurile acoperite de chiciură din jurul centrului. Apoi, mișcați-vă rapid pentru a vă menține corpul cald.",
+                "en": "Take a quick stop to admire the frost-covered roofs around the civic center. Afterwards, get moving quickly to keep your core warm in the freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten",
+                "hu": "Botanikus Kert",
+                "ro": "Grădina Botanică",
+                "en": "Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Der Frost auf der Flora ist unbestreitbar schön. Halten Sie jedoch auf den schattigen Radwegen scharf Ausschau nach tückischem Glatteis.",
+                "hu": "A növényzeten lévő fagy vitathatatlanul gyönyörű. Ugyanakkor nagyon figyeljen az árnyékos kerékpárutakon megbúvó alattomos és veszélyes tükörjégre.",
+                "ro": "Gerul de pe flora adormită este incontestabil de frumos. Cu toate acestea, fiți atenți la gheața neagră periculoasă ascunsă pe pistele de biciclete umbrite.",
+                "en": "The frost on the dormant flora is undeniably beautiful. However, keep a sharp lookout for treacherous black ice hidden on the shaded bicycle pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm Couzon",
+                "hu": "Couzon Gát",
+                "ro": "Barajul Couzon",
+                "en": "Couzon Dam"
+              },
+              "tip_5lang": {
+                "de": "Die eiskalte Luft hier ist intensiv, aber belebend. Die teilweise gefrorenen Ränder des massiven Stausees sind ein atemberaubendes Winterspektakel.",
+                "hu": "A fagyos hideg levegő itt intenzív, de élénkítő. A hatalmas víztározó részben befagyott szélei lélegzetelállító és kihagyhatatlan téli látványosságok.",
+                "ro": "Aerul înghețat de aici este intens, dar revigorant. Marginile parțial înghețate ale rezervorului masiv sunt un spectacol de iarnă uluitor, de neratat.",
+                "en": "The freezing cold air here is intense but invigorating. The partially frozen edges of the massive reservoir are a breathtaking must-see winter spectacle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sfântul Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie das Heiligtum, um dem unerbittlichen Eiswind zu entkommen. Nehmen Sie sich ein paar Minuten Zeit, um Ihre frierenden Hände aufzuwärmen.",
+                "hu": "Lépjen be a szentélybe, hogy elmeneküljön a könyörtelenül fagyos szél elől. Szánjon néhány percet fagyos kezeinek és arcának felmelegítésére a folytatás előtt.",
+                "ro": "Intrați în sanctuar pentru a scăpa de vântul înghețat implacabil. Luați-vă câteva minute pentru a vă încălzi mâinile și fața înghețate înainte de a ieși.",
+                "en": "Step inside the sanctuary to escape the relentless freezing wind. Take a few minutes to warm your freezing hands and face before riding back outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer des Gier",
+                "hu": "A Gier partjai",
+                "ro": "Malurile râului Gier",
+                "en": "Banks of the Gier"
+              },
+              "tip_5lang": {
+                "de": "Beißende Winterwinde ziehen direkt am fließenden Wasser entlang. Stellen Sie sicher, dass Sie eine hochwertige winddichte Jacke für diesen Weg haben.",
+                "hu": "A metsző téli szelek közvetlenül a folyó vízénél csatornázódnak be. Győződjön meg róla, hogy minőségi szélálló kabátja van ehhez a nyílt vízparti úthoz.",
+                "ro": "Vânturile aspre de iarnă sunt canalizate direct de-a lungul apei. Asigurați-vă că aveți o jachetă rezistentă la vânt înainte de a aborda această cale expusă.",
+                "en": "Biting winter winds channel directly along the flowing water. Ensure you have a high-quality windproof jacket before tackling this exposed riverside path."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Korán a Gier festői partjainál kezdünk, majd a nyüzsgő lorette-i vasútállomáshoz hajtunk. Délben a színpompás botanikus kertben pihenünk, majd megnézzük a helyi víztartályt. A délután a lenyűgöző Barrage du Couzon gát hatalmas építményének felfedezésével telik. Este meglátogatjuk a gyönyörű Keresztelő Szent János-templomot, méltó befejezést adva ennek az autós kirándulásnak.",
         "ro": "Începem devreme pe malurile pitorești ale râului Gier, conducând apoi spre aglomerata gară din Lorette. La prânz ne relaxăm în grădina botanică și facem o scurtă oprire la rezervorul de apă. După-amiaza este rezervată structurii masive a barajului Barrage du Couzon. Seara vizităm minunata Biserică Sfântul Ioan Botezătorul, oferind un final perfect acestui tur confortabil.",
         "en": "We start early at the picturesque banks of the Gier, then drive to the bustling Lorette station. Midday brings relaxation in the vibrant botanical garden and a quick look at the local reservoir. The afternoon is dedicated to exploring the massive Barrage du Couzon dam. In the evening, we visit the gorgeous Saint-Jean-Baptiste church, rounding off a highly enjoyable driving tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie am regnerischen Morgen am nebligen Flussufer entlang und genießen Sie die Heizung im Auto. Parken Sie mittags nahe dem Bahnhof und Garten und behalten Sie den Schirm griffbereit. Betrachten Sie nachmittags das verregnete Reservoir sicher aus dem Auto. Beenden Sie den Abend an der Kirche, während der nasse Tag vergeht.",
+            "hu": "Vezessen az esős reggelen a ködös folyóparton, kényelmesen élvezve a fűtést az autóban. Délben parkoljon az állomás és a kert közelében, tartsa kéznél az esernyőt. A délutánt a víztartály és a gát eső áztatta látványával töltse a kocsiból. Fejezze be az estét a templomnál, ahogy a sötét, nedves nap elhalványul.",
+            "ro": "Conduceți în dimineața ploioasă de-a lungul malurilor cețoase, bucurându-vă de căldura din mașină. La prânz, parcați lângă gară, ținând umbrela la îndemână pentru scurte plimbări. Petreceți după-amiaza admirând rezervorul bătut de ploaie din vehicul. Încheiați seara la biserică, odată cu lăsarea întunericului umed.",
+            "en": "Drive through the rainy morning along the misty riverbanks, enjoying the heater inside. By noon, park near the station and garden, keeping your umbrella handy for short walks. Spend the afternoon viewing the rain-swept reservoir and dam from the comfort of your car. Finish your evening at the church as the dark, wet day fades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ufer des Gier",
+                "hu": "A Gier partjai",
+                "ro": "Malurile râului Gier",
+                "en": "Banks of the Gier"
+              },
+              "tip_5lang": {
+                "de": "Der angeschwollene Fluss sieht bei starkem Regen dramatisch aus. Sie können das rauschende Wasser sicher und bequem direkt aus Ihrem warmen Autofenster beobachten.",
+                "hu": "A megduzzadt folyó drámai és erőteljes a heves esőzésben. Könnyedén és biztonságosan megfigyelheti a rohanó vizet közvetlenül a meleg autó ablakából.",
+                "ro": "Râul umflat arată dramatic și puternic în ploaia torențială. Puteți observa în siguranță și confortabil apa învolburată direct de la geamul mașinii dvs. calde.",
+                "en": "The swollen river looks dramatic and powerful in the heavy rain. You can easily and safely observe the rushing water directly from your warm car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Lorette",
+                "hu": "Lorette Vasútállomás",
+                "ro": "Gara din Lorette",
+                "en": "Lorette Train Station"
+              },
+              "tip_5lang": {
+                "de": "Kurze Stopps sind hier sehr einfach, aber achten Sie auf die großen, tiefen Pfützen, die sich auf dem Parkplatz bilden, wenn Sie aus Ihrem Fahrzeug steigen.",
+                "hu": "A gyors megállók nagyon egyszerűek itt, de ügyeljen a nagy, mély tócsákra, amelyek gyorsan kialakulnak a parkolóban, amikor kiszáll a járművéből.",
+                "ro": "Opririle scurte sunt foarte ușoare aici, dar atenție la bălțile mari și adânci care se formează rapid în parcare atunci când coborâți din vehicul.",
+                "en": "Quick drop-offs and pickups are very easy here, but mind the large, deep puddles that quickly form in the parking area when stepping out of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten",
+                "hu": "Botanikus Kert",
+                "ro": "Grădina Botanică",
+                "en": "Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint von Ihrem geparkten Auto bringt Sie direkt zum Gewächshaus oder dem dichten Blätterdach und minimiert Ihre Zeit im strömenden Regen.",
+                "hu": "Egy nagyon rövid, gyors futás a parkoló autótól egyenesen az üvegházhoz vagy a sűrű lombozathoz juttatja, minimálisra csökkentve a zuhogó esőben töltött időt.",
+                "ro": "O scurtă alergare de la mașina parcata vă duce direct la seră sau la frunzișul dens, reducând la minimum timpul petrecut în ploaia torențială.",
+                "en": "A very short, quick dash from your parked car gets you straight to the greenhouse or the dense foliage cover, minimizing your time in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserzisterne DECI",
+                "hu": "DECI Víztartály",
+                "ro": "Rezervor de apă DECI",
+                "en": "DECI Water Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Das Befahren der nassen, schlammigen Feldwege hierher erfordert besondere Vorsicht. Lassen Sie Ihre Scheinwerfer an und fahren Sie langsam durch rutschige Abschnitte.",
+                "hu": "A nedves, saras földutakon való navigálás extra óvatosságot igényel. Tartsa bekapcsolva a fényszórókat a láthatóság érdekében, és haladjon nagyon lassan.",
+                "ro": "Navigarea pe drumurile de pământ ude și pline de noroi care duc aici necesită o grijă deosebită. Țineți farurile aprinse și conduceți încet prin porțiunile alunecoase.",
+                "en": "Navigating the wet, muddy dirt roads leading here requires extra care. Keep your headlights on for visibility and drive slowly through the slick sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm Couzon",
+                "hu": "Couzon Gát",
+                "ro": "Barajul Couzon",
+                "en": "Couzon Dam"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich und verwenden Sie einen stabilen Schirm. Das Geräusch des starken Regens, der sich mit dem tosenden Überlauf mischt, ist unglaublich laut.",
+                "hu": "Parkoljon a lehető legközelebb, és mindenképpen használjon erős esernyőt. A heves esőzés és a zúgó túlfolyó hangjának keveredése elképesztően hangos.",
+                "ro": "Parcați cât mai aproape posibil și asigurați-vă că folosiți o umbrelă rezistentă. Sunetul ploii abundente amestecat cu deversorul zgomotos este incredibil de puternic.",
+                "en": "Park as closely as possible and make sure to use a sturdy umbrella. The sound of the heavy rain mixing with the roaring spillway is incredibly loud."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sfântul Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Der wunderschön überdachte Eingang der Kirche bietet sofortigen und hervorragenden Schutz vor dem Regen, sobald Sie aus Ihrem geparkten Fahrzeug steigen.",
+                "hu": "A templom gyönyörűen fedett bejárata azonnali és kiváló menedéket nyújt a zuhogó eső elől abban a pillanatban, ahogy kiszáll a leparkolt járművéből.",
+                "ro": "Intrarea frumos acoperită a bisericii oferă un adăpost excelent și imediat împotriva ploii, în momentul în care coborâți din vehiculul parcat.",
+                "en": "The beautifully covered entrance of the church provides excellent and immediate shelter from the rain the moment you step out of your parked vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Morgenfahrt führt Sie an frostigen Flussufern vorbei bei voller Heizung. Navigieren Sie mittags auf eisigen Straßen zum Bahnhof für frische Luft. Die Nachmittagsfahrt zum Staudamm bietet spektakuläre eisige Ausblicke. Fahren Sie vor dem frühen Sonnenuntergang um 17:00 Uhr zur Kirche, bevor die Straßen völlig zufrieren.",
+            "hu": "Egy hangulatos reggeli kocsikázás visz el a fagyos folyópartokon, miközben a fűtés maximumon megy. Délben navigáljon a jeges utcákon az állomáshoz és a kerthez. A délutáni út a víztartályhoz lenyűgöző jeges kilátást kínál. Irány a templom a korai, 17:00 órai sötétedés előtt, mielőtt az utak veszélyesen lefagynak.",
+            "ro": "O plimbare confortabilă de dimineață vă duce pe lângă malurile înghețate cu căldura la maximum. La prânz, conduceți pe străzile reci spre gară și grădină. După-amiaza oferă priveliști înghețate uimitoare la rezervor și baraj. Mergeți la biserică înainte de apusul de la 17:00, când drumurile pot îngheța periculos.",
+            "en": "A cozy morning drive takes you past the frost-covered riverbanks with the car heater on full. At midday, navigate icy streets to the station and garden for brisk, cold air. Your afternoon drive to the reservoir and dam offers stunning icy views. Head to the church before the early sunset around 17:00 when roads safely freeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ufer des Gier",
+                "hu": "A Gier partjai",
+                "ro": "Malurile râului Gier",
+                "en": "Banks of the Gier"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie alle Fenster fest geschlossen, um schön warm zu bleiben. So können Sie die atemberaubenden, frostbedeckten Flussufer bequem von Ihrem Sitz aus genießen.",
+                "hu": "Tartsa szorosan felhúzva az összes ablakot, hogy jó melegben maradjon. Így kényelmesen, az üléséből élvezheti a lenyűgöző, fagyos folyópartok látványát.",
+                "ro": "Țineți toate geamurile bine închise pentru a rămâne la căldură. Vă puteți bucura cu ușurință de malurile uimitoare, acoperite de gheață, din confortul scaunului dumneavoastră.",
+                "en": "Keep all your windows rolled up tight to stay nice and warm. You can easily enjoy the stunning, frost-covered riverbanks from the comfort of your seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Lorette",
+                "hu": "Lorette Vasútállomás",
+                "ro": "Gara din Lorette",
+                "en": "Lorette Train Station"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefährliches, unsichtbares Glatteis auf dem Parkplatz. Steigen Sie sehr vorsichtig aus Ihrem warmen Auto, um nicht auf der eiskalten Oberfläche auszurutschen.",
+                "hu": "Óvakodjon a parkolóban képződő veszélyes, láthatatlan tükörjégtől. Nagyon óvatosan szálljon ki a meleg autóból, nehogy megcsússzon a fagyos felszínen.",
+                "ro": "Atenție la gheața neagră invizibilă și periculoasă care se formează în parcare. Coborâți din mașina caldă cu mare grijă pentru a evita alunecarea pe suprafața înghețată.",
+                "en": "Beware of dangerous, invisible black ice forming in the parking lot. Step out of your warm car very carefully to avoid slipping on the freezing surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten",
+                "hu": "Botanikus Kert",
+                "ro": "Grădina Botanică",
+                "en": "Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die markante Winterstruktur der kahlen Bäume direkt aus der gemütlichen Wärme Ihres beheizten Fahrzeugs, ohne der klirrenden Kälte zu trotzen.",
+                "hu": "Csodálja meg a csupasz fák lenyűgöző téli szerkezetét közvetlenül a fűtött járműve kényelmes melegéből, anélkül, hogy dacolnia kellene a fagyos hideggel.",
+                "ro": "Admirați structura de iarnă izbitoare a copacilor goi direct din căldura confortabilă a vehiculului dumneavoastră încălzit, fără a înfrunta frigul extrem.",
+                "en": "Admire the stark, striking winter structure of the bare trees directly from the cozy warmth of your heated vehicle without braving the freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserzisterne DECI",
+                "hu": "DECI Víztartály",
+                "ro": "Rezervor de apă DECI",
+                "en": "DECI Water Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die ländliche Zufahrtsstraße könnte stark verschneit oder vereist sein. Stellen Sie sicher, dass Ihre Reifen für harte Winterfahrten voll geeignet sind.",
+                "hu": "A vidéki bekötőút erősen havas vagy jeges lehet ezen a ponton. A fagyos útvonal megkísérlése előtt ellenőrizze, hogy gumiabroncsai alkalmasak-e a téli vezetésre.",
+                "ro": "Drumul de acces rural ar putea fi puternic înzăpezit sau înghețat. Asigurați-vă că anvelopele sunt complet adecvate pentru condiții aspre de iarnă înainte de a încerca această rută.",
+                "en": "The rural access road might be heavily snowed in or icy. Ensure your tires are fully suitable for harsh winter driving before attempting this route."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm Couzon",
+                "hu": "Couzon Gát",
+                "ro": "Barajul Couzon",
+                "en": "Couzon Dam"
+              },
+              "tip_5lang": {
+                "de": "Die massiven, teilweise gefrorenen Wände des Staudamms sind spektakulär. Dieser beeindruckende Winteranblick ist vom Parkplatz aus vollständig sichtbar.",
+                "hu": "A gát hatalmas, részben fagyott falai igazán látványosak. Ez a lenyűgöző téli látványosság teljes egészében látható közvetlenül a parkoló kilátópontjáról is.",
+                "ro": "Zidurile masive, parțial înghețate ale barajului sunt cu adevărat spectaculoase. Această priveliște impresionantă de iarnă este complet vizibilă direct din punctul de belvedere al parcării.",
+                "en": "The massive, partially frozen walls of the dam are truly spectacular. This impressive winter sight is entirely visible right from the parking viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sfântul Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Das einladende, warme Innere der historischen Kirche ist eine fantastische Pause von der beißenden, klirrenden Kälte, die Sie außerhalb Ihres Autos erleben.",
+                "hu": "A történelmi templom barátságos, meleg belseje fantasztikus menedéket nyújt a metsző, csikorgó hideg elől, amelyet közvetlenül az autó ajtaján kívül tapasztal.",
+                "ro": "Interiorul cald și primitor al bisericii istorice este o pauză fantastică de la frigul mușcător și înghețat pe care îl veți experimenta chiar afară din mașina dumneavoastră.",
+                "en": "The welcoming, warm interior of the historic church is a fantastic break from the biting, freezing cold you will experience just outside your car doors."
+              }
+            }
+          ]
+        }
       }
     }
   }

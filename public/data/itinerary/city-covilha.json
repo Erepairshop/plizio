@@ -137,6 +137,168 @@
         "hu": "A reggel Covilhãban a gazdag helyi történelemben való elmerüléssel kezdődik. Felfedezi a lenyűgöző textilmúzeumot, és megcsodálja a városi színház elegáns vonalait. \n\n A dél már nyugodtabb tempót hoz. Sétáljon át a város bájos parkjába, ahol élvezheti a friss levegőt, és kellemesen megpihenhet a zöldövezetben. \n\n Délután a kulturális utazás folytatódik, ahogy a pezsgő helyi művészeti színtér felé veszi az irányt. A kisebb színházak a közösség igazi kreatív szellemét tükrözik. \n\n Az este tökéletes lehetőséget kínál a kikapcsolódásra. Fejezze be a sétát egy frissítő úszással a városi medencében, élvezve a nap békés lezárását.",
         "ro": "Dimineața în Covilhã începe cu o imersiune în bogata istorie locală. Veți explora fascinantul muzeu textil și veți admira liniile elegante ale teatrului municipal. \n\n Miezul zilei aduce un ritm relaxat. Plimbați-vă spre fermecătorul parc urban al orașului unde vă puteți bucura de aerul proaspăt și de o pauză confortabilă în mijlocul verdeții. \n\n După-amiaza, călătoria culturală continuă îndreptându-vă spre scena vibrantă a artelor locale. Teatrele mai mici reflectă adevăratul spirit creativ al comunității. \n\n Seara se apropie cu o șansă perfectă de relaxare. Terminați turul cu o înotare răcoritoare la piscina municipală, bucurându-vă de un final pașnic.",
         "en": "Morning in Covilhã begins with an immersion into the rich local history. You will explore the fascinating textile museum and admire the elegant lines of the municipal theatre. \n\n Midday brings a relaxed pace. Stroll over to the city's charming urban park where you can enjoy the fresh air and take a comfortable break amidst the greenery. \n\n In the afternoon, the cultural journey continues as you head towards the vibrant local arts scene. The smaller theatre venues reflect the true creative spirit of the community. \n\n Evening approaches with a perfect chance to unwind. Finish your walking tour with a refreshing swim at the municipal pool, enjoying the peaceful end to a wonderful day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen im trockenen Museum, während es draußen nieselt. Mittags bieten die Theater ein perfektes Kulturprogramm unter festem Dach. Nachmittags sind die Wege im Park zwar nass, aber die frische Luft belebt; nutzen Sie die Arkaden der Stadt als Schutz. Abends spiegeln sich die Lichter der Stadt malerisch auf dem nassen Kopfsteinpflaster in der Nähe des Hallenbades.",
+            "hu": "Kezdje a reggelt a múzeum száraz falai között, elkerülve a kinti szemerkélést. Délben a színházak tökéletes fedett kulturális programot kínálnak a város szívében. Délután a park útjai nedvesek lehetnek, de a friss eső illata különleges; használja az épületek ereszeit menedékként. Este a város fényei festőien csillognak a vizes macskaköveken az uszoda környékén.",
+            "ro": "Începeți dimineața în interiorul uscat al muzeului, evitând burnița de afară. La prânz, teatrele oferă un program cultural perfect sub un acoperiș solid. După-amiaza, potecile din parc pot fi umede, dar aerul proaspăt este revigorant; folosiți arcadele orașului ca adăpost. Seara, luminile orașului se oglindesc pitoresc pe pavajul umed din apropierea piscinei municipale.",
+            "en": "Start your morning inside the dry museum, avoiding the drizzle outside. At noon, the theaters provide a perfect indoor cultural program in the heart of the city. In the afternoon, the park paths may be wet, but the fresh rain scent is unique; use the building eaves as shelter. In the evening, the city lights shimmer picturesquely on the wet cobblestones near the pool."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu da Covilha",
+                "hu": "Museu da Covilha",
+                "ro": "Museu da Covilha",
+                "en": "Museu da Covilha"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Textilgeschichte im trockenen Innenraum; nutzen Sie den Garderobenservice für Ihre nassen Mäntel und Schirme.",
+                "hu": "Csodálja meg a textilipar történetét a száraz belső terekben; használja a ruhatárat a vizes kabátok és esernyők biztonságos tárolására.",
+                "ro": "Admirați istoria textilă în interiorul uscat; folosiți serviciul de garderobă pentru haine și umbrele umede în siguranță.",
+                "en": "Admire the textile history in the dry interior; use the cloakroom service to store your wet coats and umbrellas safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Municipal",
+                "hu": "Teatro Municipal",
+                "ro": "Teatro Municipal",
+                "en": "Teatro Municipal"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die moderne Architektur dieses Kulturzentrums; der überdachte Eingangsbereich bietet perfekten Schutz vor plötzlichen Schauern.",
+                "hu": "Élvezze e kulturális központ modern építészetét; a fedett bejárati rész tökéletes védelmet nyújt a hirtelen jövő záporok elől.",
+                "ro": "Bucurați-vă de arhitectura modernă a acestui centru cultural; zona de intrare acoperită oferă protecție perfectă împotriva averselor.",
+                "en": "Enjoy the modern architecture of this cultural center; the covered entrance area offers perfect protection from sudden showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Infantil da Saudade",
+                "hu": "Parque Infantil da Saudade",
+                "ro": "Parque Infantil da Saudade",
+                "en": "Parque Infantil da Saudade"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang durch die neblige Parkanlage wirkt mystisch; tragen Sie wasserfeste Schuhe für die potenziell rutschigen Wege.",
+                "hu": "Egy rövid séta a ködös parkban misztikus élményt nyújt; viseljen vízálló cipőt a potenciálisan csúszós aszfaltutak miatt.",
+                "ro": "O scurtă plimbare prin parcul cețos oferă o experiență mistică; purtați pantofi impermeabili pentru potecile potențial alunecoase.",
+                "en": "A short walk through the misty park offers a mystical experience; wear waterproof shoes for the potentially slippery paved paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro das Beiras",
+                "hu": "Teatro das Beiras",
+                "ro": "Teatro das Beiras",
+                "en": "Teatro das Beiras"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die lokale Kunstszene in diesem gemütlichen Theater; es ist der ideale Ort, um dem Regen für eine Weile zu entfliehen.",
+                "hu": "Merüljön el a helyi művészeti életben ebben a hangulatos színházban; ez az ideális hely, hogy egy időre elmeneküljön az eső elől.",
+                "ro": "Cufundați-vă în scena artistică locală în acest teatru primitor; este locul ideal pentru a scăpa de ploaie pentru o vreme.",
+                "en": "Immerse yourself in the local arts scene in this cozy theater; it is the ideal place to escape the rain for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Piscina Municipal",
+                "ro": "Piscina Municipal",
+                "en": "Piscina Municipal"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie im warmen Wasser, während der Regen gegen die Fenster trommelt; vergessen Sie nicht, Badeschuhe für die nassen Fliesen einzupacken.",
+                "hu": "Pihenjen a meleg vízben, miközben az eső az ablakon kopog; ne felejtsen el papucsot csomagolni a vizes és csúszós csempék miatt.",
+                "ro": "Relaxați-vă în apa caldă în timp ce ploaia bate în geamuri; nu uitați să împachetați papuci pentru gresiile umede și alunecoase.",
+                "en": "Relax in the warm water while the rain drums against the windows; don't forget to pack flip-flops for the wet and slippery tiles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen in Covilhã beginnt am besten im beheizten Museum. Mittags führen kurze Wege zwischen den Theatern durch die klare, kalte Bergluft. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den Parkbesuch am frühen Nachmittag planen. Beenden Sie den Tag gemütlich im warmen Hallenbad, bevor die nächtliche Kälte der Serra da Estrela einsetzt.",
+            "hu": "A fagyos reggel Covilhã-ban a legkellemesebben a fűtött múzeumban indul. Délben a színházak közötti rövid séták során élvezheti a tiszta, hideg hegyi levegőt. Mivel a nap 17:00 körül lemegy, a parklátogatást kora délutánra időzítse. Zárja a napot az uszoda melegében, mielőtt beállna a Serra da Estrela éjszakai hidege.",
+            "ro": "Dimineața geroasă în Covilhã începe cel mai plăcut în muzeul încălzit. La prânz, plimbările scurte între teatre vă permit să vă bucurați de aerul curat și rece de munte. Deoarece soarele apune în jur de ora 17:00, programați vizita în parc devreme. Încheiați ziua în căldura piscinei, înainte de a se lăsa frigul nopții din Serra da Estrela.",
+            "en": "The frosty morning in Covilhã starts most pleasantly in the heated museum. At noon, short walks between the theaters let you enjoy the crisp, cold mountain air. Since the sun sets around 17:00, time your park visit for early afternoon. End the day in the warmth of the pool before the nightly cold of Serra da Estrela sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu da Covilha",
+                "hu": "Museu da Covilha",
+                "ro": "Museu da Covilha",
+                "en": "Museu da Covilha"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die gut beheizten Galerien, um sich aufzuwärmen; die Textilausstellungen bieten eine gemütliche Atmosphäre an kalten Tagen.",
+                "hu": "Használja ki a jól fűtött galériákat a bemelegedéshez; a textilkiállítások barátságos hangulatot árasztanak a hideg napokon.",
+                "ro": "Profitați de galeriile bine încălzite pentru a vă încălzi; expozițiile textile oferă o atmosferă primitoare în zilele reci.",
+                "en": "Take advantage of the well-heated galleries to warm up; the textile exhibits offer a welcoming atmosphere on cold days."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Municipal",
+                "hu": "Teatro Municipal",
+                "ro": "Teatro Municipal",
+                "en": "Teatro Municipal"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Gebäude ist ein warmer Zufluchtsort; prüfen Sie das Winterprogramm für spannende Abendveranstaltungen im Warmen.",
+                "hu": "Ez a modern épület meleg menedéket nyújt; ellenőrizze a téli programot az izgalmas, beltéri esti előadásokhoz.",
+                "ro": "Această clădire modernă este un refugiu călduros; verificați programul de iarnă pentru spectacole de seară captivante în interior.",
+                "en": "This modern building is a warm refuge; check the winter schedule for exciting indoor evening performances."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Infantil da Saudade",
+                "hu": "Parque Infantil da Saudade",
+                "ro": "Parque Infantil da Saudade",
+                "en": "Parque Infantil da Saudade"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die schneebedeckten Gipfel der Serra; achten Sie auf gefrorene Stellen auf den Gehwegen im Schatten.",
+                "hu": "Élvezze a kilátást a Serra hófödte csúcsaira; ügyeljen a járdák árnyékos részein előforduló jeges foltokra.",
+                "ro": "Bucurați-vă de vederea spre vârfurile înzăpezite ale munților; atenție la porțiunile înghețate de pe trotuare în zonele umbrite.",
+                "en": "Enjoy the view of the snow-capped peaks of the Serra; watch out for icy patches on the sidewalks in shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro das Beiras",
+                "hu": "Teatro das Beiras",
+                "ro": "Teatro das Beiras",
+                "en": "Teatro das Beiras"
+              },
+              "tip_5lang": {
+                "de": "Die intime Atmosphäre sorgt für natürliche Wärme; kommen Sie frühzeitig, um sich vor der Vorstellung bei einem Heißgetränk aufzuwärmen.",
+                "hu": "Az intim hangulat természetes melegséget áraszt; érkezzen korábban, hogy az előadás előtt egy forró itallal frissüljön fel.",
+                "ro": "Atmosfera intimă oferă o căldură naturală; sosiți devreme pentru a vă încălzi cu o băutură fierbinte înainte de spectacol.",
+                "en": "The intimate atmosphere provides natural warmth; arrive early to warm up with a hot drink before the performance."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Piscina Municipal",
+                "ro": "Piscina Municipal",
+                "en": "Piscina Municipal"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Hallenbad ist der perfekte Winterabschluss; föhnen Sie Ihre Haare vor dem Verlassen des Gebäudes gründlich trocken.",
+                "hu": "A fűtött beltéri medence tökéletes téli záróprogram; alaposan szárítsa meg a haját, mielőtt kilépne a fagyos éjszakába.",
+                "ro": "Piscina interioară încălzită este finalul perfect de iarnă; uscați-vă bine părul înainte de a ieși în noaptea geroasă.",
+                "en": "The heated indoor pool is the perfect winter finale; dry your hair thoroughly before stepping out into the freezing night."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpáros kalandja a város történelmi szívében kezdődik. Látogassa meg a híres múzeumot, majd tekerjen el a főszínház klasszikus építészete mellett. \n\n A dél közeledtével lovagoljon a békés természetes tó felé. A nyugodt víz és a környező zöld ideális helyszínt kínál a pihenésre és egy könnyű ebédre a fák alatt. \n\n A délután a szórakozásról és a szabadidőről szól. Irány a helyi hullámmedence, ahol felnőttek és gyerekek egyaránt lehűlhetnek és élvezhetik a vízi attrakciókat. \n\n Ahogy leszáll az est, egy kellemes tekerés egy tágas családi parkba visz. Ez a tökéletes hely arra, hogy barátságos légkörben nézze végig a naplementét.",
         "ro": "Aventura pe bicicletă începe în inima istorică a orașului. Vizitați renumitul muzeu pentru a afla despre trecutul orașului Covilhã, apoi pedalați pe lângă teatrul principal. \n\n Pe măsură ce se apropie prânzul, mergeți spre lacul natural senin. Apele liniștite și verdeața din jur oferă un loc ideal pentru a vă odihni și a lua un prânz ușor. \n\n După-amiaza este dedicată distracției. Îndreptați-vă spre complexul local de piscine cu valuri unde adulții și copiii se pot răcori și se pot bucura de jocurile de apă. \n\n Odată cu lăsarea serii, o plimbare ușoară vă duce într-un parc familial spațios. Este locul perfect pentru a privi apusul soarelui într-o atmosferă prietenoasă de cartier.",
         "en": "Your cycling adventure kicks off in the historical heart of the city. Visit the renowned museum to learn about Covilhã's past, then pedal past the classic architecture of the main theatre. \n\n As midday approaches, ride towards the serene natural lake. The peaceful waters and surrounding greenery offer an ideal spot to rest and have a light lunch under the trees. \n\n The afternoon is all about fun and leisure. Head to the local wave pool complex where both adults and children can cool off and enjoy the thrilling water features. \n\n As evening falls, a gentle ride takes you to a spacious family park. It is the perfect place to watch the sun go down while soaking in the friendly neighborhood atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf Covilhãs steilen Gassen. Starten Sie beim Museum, wo Sie Ihr Rad kurz sicher unterstellen können. Mittags führen kurze Wege durch das Zentrum; achten Sie auf rutschige Markierungen. Nachmittags ist die Fahrt zum See erfrischend, sofern Sie volle Regenmontur tragen. Abends kehren Sie durch die beleuchtete, nasse Stadt zurück.",
+            "hu": "Az esős biciklizés óvatosságot igényel Covilhã meredek utcáin. Kezdjen a múzeumnál, ahol rövid időre fedett helyen hagyhatja a gépet. Délben rövid utak vezetnek a központban; vigyázzon a csúszós útburkolati jelekre. Délután a tóhoz vezető út frissítő, ha teljes esőfelszerelést visel. Este a kivilágított, vizes városon keresztül térjen vissza.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe străzile abrupte din Covilhã. Începeți la muzeu, unde puteți lăsa bicicleta la adăpost pentru scurt timp. La prânz, traseele scurte prin centru cer atenție la marcajele alunecoase. După-amiaza, drumul spre lac este revigorant dacă purtați echipament complet de ploaie. Seara, întoarceți-vă prin orașul iluminat și umed.",
+            "en": "Cycling in the rain requires caution on Covilhã's steep streets. Start at the museum, where you can leave your bike under cover for a short time. At noon, short routes through the center demand care regarding slippery road markings. In the afternoon, the ride to the lake is refreshing if you wear full rain gear. In the evening, return through the illuminated, wet city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu da Covilha",
+                "hu": "Museu da Covilha",
+                "ro": "Museu da Covilha",
+                "en": "Museu da Covilha"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Bereich; nutzen Sie die Zeit drinnen, damit die Bremsbeläge vor der nächsten Abfahrt trocknen können.",
+                "hu": "Parkoljon a fedett részen; használja ki a bent töltött időt, hogy a fékbetétek megszáradjanak a következő lejtő előtt.",
+                "ro": "Parcați bicicleta în zona acoperită; folosiți timpul petrecut în interior pentru ca plăcuțele de frână să se usuce înainte de următoarea coborâre.",
+                "en": "Park your bike in the covered area; use the time spent inside for the brake pads to dry before the next descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Municipal",
+                "hu": "Teatro Municipal",
+                "ro": "Teatro Municipal",
+                "en": "Teatro Municipal"
+              },
+              "tip_5lang": {
+                "de": "Der Vorplatz kann bei Nässe sehr rutschig sein; steigen Sie vom Rad ab und schieben Sie es langsam zum Haupteingang.",
+                "hu": "Az előtér vizesen nagyon csúszós lehet; szálljon le a nyeregből, és tolja óvatosan a kerékpárt a főbejáratig.",
+                "ro": "Piațeta din față poate fi foarte alunecoasă când este udă; coborâți de pe bicicletă și împingeți-o cu grijă până la intrarea principală.",
+                "en": "The front plaza can be very slippery when wet; get off the saddle and push your bike carefully to the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Lago da Sereia",
+                "hu": "Lago da Sereia",
+                "ro": "Lago da Sereia",
+                "en": "Lago da Sereia"
+              },
+              "tip_5lang": {
+                "de": "Die Uferwege sind bei Regen oft schlammig; verringern Sie den Reifendruck leicht für besseren Grip auf dem nassen Naturboden.",
+                "hu": "A tóparti utak esőben gyakran sárosak; csökkentse kissé a guminyomást a jobb tapadás érdekében a nedves természetes talajon.",
+                "ro": "Potecile de pe malul lacului sunt adesea noroioase; reduceți ușor presiunea în anvelope pentru o aderență mai bună pe solul natural umed.",
+                "en": "The lakeside paths are often muddy in the rain; slightly reduce tire pressure for better grip on the wet natural ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina de Ondas",
+                "hu": "Piscina de Ondas",
+                "ro": "Piscina de Ondas",
+                "en": "Piscina de Ondas"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist hier weniger Betrieb, was die Anfahrt ruhiger macht; achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten.",
+                "hu": "Esőben kevesebben vannak, így a megközelítés nyugodtabb; vigyázzon a tócsákkal, amelyek mély kátyúkat rejthetnek.",
+                "ro": "Sunt mai puțini oameni pe ploaie, deci accesul este mai liniștit; atenție la bălțile care pot ascunde gropi adânci.",
+                "en": "Fewer people are around in the rain, making the approach quieter; watch out for puddles that may hide deep potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Infantil de Santo António",
+                "hu": "Parque Infantil de Santo António",
+                "ro": "Parque Infantil de Santo António",
+                "en": "Parque Infantil de Santo António"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad unter den Bäumen als leichten Schutz; wischen Sie den Sattel vor der Rückfahrt mit einem trockenen Tuch ab.",
+                "hu": "Zárja le a biciklit a fák alatt, amelyek némi védelmet nyújtanak; törölje szárazra a nyerget egy ronggyal a visszaindulás előtt.",
+                "ro": "Încuiați bicicleta sub copaci pentru o protecție ușoară; ștergeți șaua cu o cârpă uscată înainte de a porni înapoi.",
+                "en": "Lock your bike under the trees for some light protection; wipe the saddle dry with a cloth before starting your return journey."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kaltes, klares Winterwetter ist ideal für eine sportliche Radtour in Covilhã. Der Morgen am Museum erfordert warme Handschuhe für die kühlen Bremshebel. Mittags wärmt die Wintersonne im Zentrum leicht auf. Beachten Sie, dass es ab 17:00 Uhr schlagartig kälter wird, wenn die Sonne hinter den Bergen verschwindet. Die Rückfahrt am Abend sollte zügig und gut beleuchtet erfolgen.",
+            "hu": "A hideg, tiszta téli idő tökéletes egy sportos biciklizéshez Covilhã-ban. A reggel a múzeumnál meleg kesztyűt igényel a hűvös fékkarok miatt. Délben a téli napsütés a központban kissé felmelegíti a levegőt. Ügyeljen rá, hogy 17:00 után hirtelen lehűl az idő, ahogy a nap eltűnik a hegyek mögött. Az esti visszautat gyorsan és jó világítással tegye meg.",
+            "ro": "Vremea rece și senină de iarnă este perfectă pentru o tură sportivă cu bicicleta în Covilhã. Dimineața la muzeu necesită mănuși groase pentru manetele de frână reci. La prânz, soarele de iarnă din centru încălzește ușor aerul. Rețineți că după ora 17:00 se răcește brusc când soarele dispare după munți. Faceți drumul de întoarcere rapid și cu lumini bune.",
+            "en": "The cold, clear winter weather is perfect for a sporty bike ride in Covilhã. The morning at the museum requires warm gloves for the cool brake levers. At noon, the winter sun in the center warms the air slightly. Note that it gets suddenly colder after 17:00 as the sun disappears behind the mountains. Make the return journey quickly and with good lighting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu da Covilha",
+                "hu": "Museu da Covilha",
+                "ro": "Museu da Covilha",
+                "en": "Museu da Covilha"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour langsam, um die Gelenke aufzuwärmen; das Museum bietet eine gute Ausrede für eine erste Aufwärmpause drinnen.",
+                "hu": "Kezdje lassan a túrát, hogy bemelegedjenek az ízületei; a múzeum remek kifogás egy első beltéri melegedő szünetre.",
+                "ro": "Începeți tura încet pentru a vă încălzi articulațiile; muzeul este o scuză bună pentru o primă pauză de încălzire în interior.",
+                "en": "Start the tour slowly to warm up your joints; the museum is a great excuse for a first indoor warming break."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Municipal",
+                "hu": "Teatro Municipal",
+                "ro": "Teatro Municipal",
+                "en": "Teatro Municipal"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf windige Ecken rund um das moderne Gebäude; parken Sie das Rad windgeschützt, damit Metallteile nicht zu stark auskühlen.",
+                "hu": "Vigyázzon a szeles sarkokra a modern épület körül; parkoljon szélvédett helyen, hogy a fém alkatrészek ne hűljenek le túlságosan.",
+                "ro": "Atenție la colțurile vântoase din jurul clădirii moderne; parcați bicicleta ferită de vânt pentru ca piesele metalice să nu se răcească prea tare.",
+                "en": "Watch out for windy corners around the modern building; park your bike in a wind-sheltered spot so metal parts don't get too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Lago da Sereia",
+                "hu": "Lago da Sereia",
+                "ro": "Lago da Sereia",
+                "en": "Lago da Sereia"
+              },
+              "tip_5lang": {
+                "de": "Die Luft am See ist deutlich kühler; tragen Sie ein Multifunktionstuch vor dem Gesicht, um die kalte Atemluft beim Treten zu mildern.",
+                "hu": "A tónál a levegő jóval hűvösebb; viseljen csősálat az arca előtt, hogy enyhítse a hideg levegő belélegzését tekerés közben.",
+                "ro": "Aerul de lângă lac este mult mai rece; purtați o eșarfă multifuncțională pe față pentru a atenua aerul rece inhalat în timp ce pedalați.",
+                "en": "The air by the lake is much cooler; wear a buff over your face to soften the cold air intake while pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina de Ondas",
+                "hu": "Piscina de Ondas",
+                "ro": "Piscina de Ondas",
+                "en": "Piscina de Ondas"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Boden auf Raureif, besonders in schattigen Kurven; fahren Sie mit niedriger Geschwindigkeit, um die Bodenhaftung zu wahren.",
+                "hu": "Ellenőrizze a talajt, nincs-e rajta dér, különösen az árnyékos kanyarokban; haladjon lassabb tempóban a tapadás megőrzése érdekében.",
+                "ro": "Verificați dacă solul are chiciură, mai ales în curbele umbrite; circulați cu viteză redusă pentru a menține aderența.",
+                "en": "Check the ground for frost, especially in shaded curves; ride at a slower pace to maintain traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Infantil de Santo António",
+                "hu": "Parque Infantil de Santo António",
+                "ro": "Parque Infantil de Santo António",
+                "en": "Parque Infantil de Santo António"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht hier tief und kann blenden; nutzen Sie eine Sportbrille mit Kontrastgläsern für bessere Sicht im winterlichen Halbschatten.",
+                "hu": "A nap itt alacsonyan jár és vakíthat; használjon kontrasztos lencséjű napszemüveget a jobb látásért a téli félárnyékban.",
+                "ro": "Soarele este jos și poate fi orbitor; folosiți ochelari de sport cu lentile contrastante pentru o vizibilitate mai bună în semiumbra de iarnă.",
+                "en": "The sun is low here and can be blinding; use sports glasses with contrast lenses for better visibility in the winter semi-shade."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autós utazása egy adag kultúrával kezdődik a város legjobb múzeumában. Ezután egy festői vidéki birtokra hajt, maga mögött hagyva a városi nyüzsgést a nyugodt vizekért. \n\n Dél körül folytassa festői útját egy lenyűgöző mérnöki csoda felé. A hatalmas víztározó lenyűgöző kontrasztot alkot a természeti tájjal, amely tökéletes a fotózáshoz. \n\n A délután tovább emeli az utazás fényét, ahogy felhajt a látványos hegyekbe. Elér egy hihetetlenül magasan fekvő medencét, ahol a friss hegyi levegő igazán élénkítő. \n\n Este tegye meg utolsó megállóját egy közeli alpesi tónál. A békés hegyi környezet és a lélegzetelállító alkonyati kilátás felejthetetlen befejezése lesz az utazásnak.",
         "ro": "Călătoria cu mașina începe cu o doză de cultură la cel mai bun muzeu din oraș. Apoi, veți conduce la o proprietate rurală pitorească, lăsând în urmă agitația urbană. \n\n În jurul prânzului, continuați-vă drumul pitoresc către o minune inginerească impresionantă. Marele rezervor oferă un contrast uimitor cu peisajul natural, perfect pentru fotografii. \n\n După-amiaza vă ridică nivelul călătoriei conducând sus în munții spectaculoși. Veți ajunge la o piscină incredibilă la mare altitudine, unde aerul proaspăt este revigorant. \n\n Seara, faceți ultima oprire la un lac alpin din apropiere. Mediul montan senin și priveliștile uluitoare ale crepusculului oferă un final de neuitat pentru acest tur al regiunii.",
         "en": "Your road trip starts with a dose of culture at the city's finest museum. Afterward, you will drive out to a picturesque rural estate, leaving the urban bustle behind for tranquil pool waters. \n\n Around midday, continue your scenic drive to an impressive engineering marvel. The grand reservoir provides a striking contrast against the natural landscape, perfect for photography. \n\n The afternoon elevates your journey as you drive up into the spectacular mountains. You will reach an incredible high-altitude swimming pool where the crisp mountain air is truly invigorating. \n\n In the evening, make your final stop at an alpine lake nearby. The serene mountain environment and breathtaking twilight views offer an unforgettable end to your driving tour of the region."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen in Covilhã kein Hindernis, bietet aber mystische Ausblicke. Starten Sie beim Museum im Zentrum. Mittags führt die Fahrt bergab zur Quinta; achten Sie auf Aquaplaning auf den steilen Straßen. Nachmittags geht es hoch in die Berge zum Stausee, wo die Wolken tief hängen. Der Abend am Lago do Viriato ist neblig und atmosphärisch, perfekt für Fotos aus dem Wagen.",
+            "hu": "Autóval az eső Covilhã-ban nem akadály, sőt misztikus látványt nyújt. Kezdjen a központi múzeumnál. Délben az út lefelé vezet a Quinta-hoz; ügyeljen a vízenfutásra a meredek szakaszokon. Délután irány a hegyvidéki víztározó, ahol a felhők alacsonyan szállnak. Az este a Lago do Viriato-nál ködös és hangulatos, tökéletes a kocsiból készített fotókhoz.",
+            "ro": "Cu mașina, ploaia în Covilhã nu este un obstacol, oferind priveliști mistice. Începeți la muzeul central. La prânz, drumul coboară spre Quinta; atenție la acvaplanare pe secțiunile abrupte. După-amiaza, mergeți spre rezervorul montan unde norii plutesc jos. Seara la Lago do Viriato este cețoasă și plină de atmosferă, perfectă pentru fotografii din mașină.",
+            "en": "By car, the rain in Covilhã is no obstacle, offering mystical views. Start at the central museum. At noon, the road leads down to the Quinta; watch out for aquaplaning on steep sections. In the afternoon, head to the mountain reservoir where clouds float low. The evening at Lago do Viriato is misty and atmospheric, perfect for photos taken from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu da Covilha",
+                "hu": "Museu da Covilha",
+                "ro": "Museu da Covilha",
+                "en": "Museu da Covilha"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus, um trocken ins Museum zu gelangen; die Sicht aus dem Stadtzentrum auf die verregneten Berge ist toll.",
+                "hu": "Használja a közeli parkolóházat, hogy szárazon jusson a múzeumba; a városközpontból nyíló kilátás az esős hegyekre lenyűgöző.",
+                "ro": "Folosiți parcarea acoperită din apropiere pentru a ajunge uscat la muzeu; vederea din centrul orașului spre munții plouați este uimitoare.",
+                "en": "Use the nearby parking garage to reach the museum dry; the view from the city center towards the rainy mountains is stunning."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta do sangrinhal (piscina)",
+                "hu": "Quinta do sangrinhal (piscina)",
+                "ro": "Quinta do sangrinhal (piscina)",
+                "en": "Quinta do sangrinhal (piscina)"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen rutschig sein; parken Sie auf befestigtem Untergrund, um ein Festfahren auf aufgeweichten Wiesen zu vermeiden.",
+                "hu": "A bejárat heves esőzéskor csúszós lehet; parkoljon szilárd talajon, hogy elkerülje az elakadást a felázott füves területeken.",
+                "ro": "Accesul poate fi alunecos în timpul ploilor torențiale; parcați pe teren solid pentru a evita blocarea pe zonele cu iarbă moale.",
+                "en": "The entrance can be slippery during heavy rain; park on solid ground to avoid getting stuck on softened grassy areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Reservatório do Ferro",
+                "hu": "Reservatório do Ferro",
+                "ro": "Reservatório do Ferro",
+                "en": "Reservatório do Ferro"
+              },
+              "tip_5lang": {
+                "de": "Die Bergstraßen erfordern bei Regen volle Konzentration; genießen Sie das Panorama des nebligen Tals direkt durch die Windschutzscheibe.",
+                "hu": "A hegyi utak esőben teljes koncentrációt igényelnek; élvezze a ködös völgy panorámáját közvetlenül a szélvédőn keresztül.",
+                "ro": "Drumurile montane necesită concentrare maximă pe ploaie; bucurați-vă de panorama văii cețoase direct prin parbriz.",
+                "en": "Mountain roads require full concentration in the rain; enjoy the panorama of the misty valley directly through the windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina das Penhas da Saúde",
+                "hu": "Piscina das Penhas da Saúde",
+                "ro": "Piscina das Penhas da Saúde",
+                "en": "Piscina das Penhas da Saúde"
+              },
+              "tip_5lang": {
+                "de": "In dieser Höhe regnet es oft stärker; prüfen Sie die Scheibenwischerblätter vor der Auffahrt für eine stets klare Sicht auf die Serpentinen.",
+                "hu": "Ebben a magasságban gyakran erősebben esik; ellenőrizze az ablaktörlőket az indulás előtt a szerpentineken való jó kilátás érdekében.",
+                "ro": "La această altitudine plouă adesea mai tare; verificați ștergătoarele înainte de plecare pentru o vizibilitate bună pe serpentine.",
+                "en": "At this altitude it often rains harder; check your wipers before leaving for good visibility on the serpentines."
+              }
+            },
+            {
+              "name": {
+                "de": "Lago do Viriato",
+                "hu": "Lago do Viriato",
+                "ro": "Lago do Viriato",
+                "en": "Lago do Viriato"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel am See kann sehr dicht sein; nutzen Sie die Nebelscheinwerfer und halten Sie nur an ausgewiesenen, sicheren Haltepunkten.",
+                "hu": "A köd a tónál nagyon sűrű lehet; használja a ködfényszórót, és csak a kijelölt, biztonságos megállóhelyeken várakozzon.",
+                "ro": "Ceața de la lac poate fi foarte densă; folosiți proiectoarele de ceață și opriți doar în locurile de staționare desemnate și sigure.",
+                "en": "The fog at the lake can be very dense; use fog lights and only stop at designated, safe stopping points."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten in die Serra da Estrela sind spektakulär, erfordern aber Winterausrüstung. Starten Sie morgens im Zentrum von Covilhã. Mittags führt die Tour durch frostige Täler zur Quinta. Am Nachmittag steigen Sie zum Reservat auf, wo oft Schnee liegt; die Sonne geht früh um 17:00 Uhr unter. Beenden Sie die Tour am Lago do Viriato, während das Abendlicht die verschneite Landschaft verzaubert.",
+            "hu": "A téli autózás a Serra da Estrela-ban látványos, de téli felszerelést igényel. Kezdjen reggel Covilhã központjában. Délben a túra fagyos völgyeken át vezet a Quinta-hoz. Délután emelkedjen fel a víztározóhoz, ahol gyakran hó fekszik; a nap korán, 17:00-kor nyugszik. Zárja a túrát a Lago do Viriato-nál, miközben az esti fények elvarázsolják a havas tájat.",
+            "ro": "Condusul pe timp de iarnă în Serra da Estrela este spectaculos, dar necesită echipament de iarnă. Începeți dimineața în centrul orașului Covilhã. La prânz, traseul trece prin văi înghețate spre Quinta. După-amiaza urcați spre rezervor, unde adesea este zăpadă; soarele apune devreme la 17:00. Încheiați tura la Lago do Viriato, în timp ce lumina serii vrăjește peisajul înzăpezit.",
+            "en": "Winter driving in Serra da Estrela is spectacular but requires winter equipment. Start the morning in the center of Covilhã. At noon, the tour leads through frosty valleys to the Quinta. In the afternoon, ascend to the reservoir where snow often lies; the sun sets early at 17:00. End the tour at Lago do Viriato as the evening light enchants the snowy landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu da Covilha",
+                "hu": "Museu da Covilha",
+                "ro": "Museu da Covilha",
+                "en": "Museu da Covilha"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem Start den Wetterbericht für die Gipfel; die Temperatur im Zentrum ist oft deutlich milder als oben in den Bergen.",
+                "hu": "Indulás előtt ellenőrizze a csúcsokra vonatkozó időjárást; a központban a hőmérséklet gyakran jóval enyhébb, mint fent a hegyekben.",
+                "ro": "Înainte de plecare, verificați prognoza pentru vârfuri; temperatura din centru este adesea mult mai blândă decât sus în munți.",
+                "en": "Check the weather report for the peaks before starting; the temperature in the center is often much milder than up in the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta do sangrinhal (piscina)",
+                "hu": "Quinta do sangrinhal (piscina)",
+                "ro": "Quinta do sangrinhal (piscina)",
+                "en": "Quinta do sangrinhal (piscina)"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe in Senken; die schattige Lage kann dazu führen, dass die Straßen hier länger glatt bleiben.",
+                "hu": "Ügyeljen a hajnali fagyra a völgyekben; az árnyékos elhelyezkedés miatt az utak itt hosszabb ideig maradhatnak csúszósak.",
+                "ro": "Atenție la înghețul din văi; locația umbrită poate face ca drumurile să rămână alunecoase aici pentru mai mult timp.",
+                "en": "Watch out for black ice in hollows; the shaded location can cause the roads here to remain slippery for longer."
+              }
+            },
+            {
+              "name": {
+                "de": "Reservatório do Ferro",
+                "hu": "Reservatório do Ferro",
+                "ro": "Reservatório do Ferro",
+                "en": "Reservatório do Ferro"
+              },
+              "tip_5lang": {
+                "de": "Führen Sie Schneeketten mit, da die Auffahrt steil ist; das Panorama der winterlichen Ebene unter Ihnen ist von hier oben einmalig.",
+                "hu": "Vigyen magával hóláncot, mert a feljáró meredek; a téli síkság panorámája ön alatt innen fentről egyedülálló élmény.",
+                "ro": "Luați lanțuri antiderapante, deoarece urcarea este abruptă; panorama câmpiei de iarnă de sub voi este unică de aici de sus.",
+                "en": "Carry snow chains as the climb is steep; the panorama of the winter plain below you is unique from up here."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina das Penhas da Saúde",
+                "hu": "Piscina das Penhas da Saúde",
+                "ro": "Piscina das Penhas da Saúde",
+                "en": "Piscina das Penhas da Saúde"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen werden hier oben geräumt, sind aber oft schneebedeckt; nutzen Sie die Motorbremse bei der Abfahrt für mehr Sicherheit.",
+                "hu": "Az utakat itt fent takarítják, de gyakran havasak; a nagyobb biztonság érdekében használja a motorféket a lejtőkön lefelé menet.",
+                "ro": "Drumurile de aici sunt curățate, dar adesea înzăpezite; folosiți frâna de motor la coborâre pentru o siguranță sporită.",
+                "en": "The roads up here are cleared but often snow-covered; use the engine brake on the way down for greater safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Lago do Viriato",
+                "hu": "Lago do Viriato",
+                "ro": "Lago do Viriato",
+                "en": "Lago do Viriato"
+              },
+              "tip_5lang": {
+                "de": "Der See kann im Winter teilweise gefrieren; parken Sie nur auf geräumten Flächen und halten Sie Frostschutz für die Scheiben bereit.",
+                "hu": "A tó télen részben befagyhat; csak a letakarított felületeken parkoljon, és tartson készenlétben fagyállót a szélvédőhöz.",
+                "ro": "Lacul poate îngheța parțial iarna; parcați doar pe suprafețele curățate și aveți pregătit antigel pentru parbriz.",
+                "en": "The lake can partially freeze in winter; park only on cleared surfaces and have frost protection ready for the windshield."
+              }
+            }
+          ]
+        }
       }
     }
   }

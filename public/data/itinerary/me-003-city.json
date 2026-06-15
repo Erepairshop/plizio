@@ -137,6 +137,168 @@
         "hu": "Kezdje a gyalogtúrát Berane gazdag történelmének felfedezésével a Herceg házában, majd tekintse meg a Polimski Múzeum régészeti leleteit. Délben a nyüzsgő Gradska plaža várja, ahol a Lim folyó smaragdzöld vizénél pihenhet. Délután tegyen egy kényelmes túrát a Jasikovac emlékműhöz, ahonnan csodálatos kilátás nyílik a városra. Zárja a napot a több évszázados Đurđevi Stupovi kolostor spirituális nyugalmában, miközben a nap lebukik a völgy felett.",
         "ro": "Începeți turul pietonal explorând istoria bogată a orașului Berane la casa Ducelui, urmată de descoperirile arheologice de la Muzeul Polimski. La prânz, ajungeți la vibranta Gradska plaža, unde vă puteți relaxa pe malul râului Lim. După-amiaza, faceți o drumeție ușoară până la monumentul Jasikovac pentru vederi panoramice asupra orașului. Încheiați ziua în liniștea spirituală a mănăstirii seculare Đurđevi Stupovi, în timp ce soarele apune peste vale.",
         "en": "Begin your walking tour diving into the rich history of Berane at the Duke's house, followed by the impressive archaeological finds at the Polimski Museum. Midday brings you to the vibrant Gradska plaža, where you can relax by the emerald waters of the Lim River. In the afternoon, take a leisurely hike up to the Jasikovac memorial for sweeping city views and poignant history. End your day soaking in the spiritual tranquility of the centuries-old Đurđevi Stupovi monastery as the sun sets over the valley."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen im trockenen Haus des Herzogs. Mittags bietet das Polimski-Museum einen idealen, warmen Unterschlupf vor dem Regen. Nachmittags spazieren Sie mit Schirm zum Stadtstrand und auf den rutschigen Wegen vorsichtig zum Jasikovac. Den verregneten Abend lassen Sie im ruhigen Kloster Đurđevi Stupovi ausklingen, dessen dicke Steinmauern hervorragenden Schutz bieten.",
+            "hu": "Kezdje a reggelt a herceg egykori házának fedett termeiben. Délben a Polimski Múzeum gazdag kiállítása nyújt menedéket az eső elől. Délután a városi strandnál és a Jasikovac felé vezető ösvényeken esernyő és vízálló cipő szükséges a sár miatt. Az esős estét a Đurđevi Stupovi kolostor vastag kőfalai között zárja, ahol kényelmesen szárazon maradhat a nap végére.",
+            "ro": "Începeți dimineața în casa istorică a ducelui, feriți de ploaie. La prânz, explorați expozițiile Muzeului Polimski la adăpost. După-amiaza, o scurtă plimbare pe plajă și pe potecile spre Jasikovac necesită umbrelă și încălțăminte impermeabilă din cauza noroiului. Încheiați seara ploioasă la mănăstirea Đurđevi Stupovi, găsind un refugiu uscat sub arcadele sale de piatră.",
+            "en": "Start your morning indoors at the historic Duke's House. By noon, explore the Polimski Museum's rich exhibits while entirely avoiding the heavy rain. In the afternoon, a stroll by the city beach requires an umbrella before hiking up to Jasikovac, where paths get muddy. Conclude your wet evening at the Đurđevi Stupovi monastery, taking shelter under its ancient stone archways."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kuća Vojvode Gavra Vukovića",
+                "hu": "Kuća Vojvode Gavra Vukovića",
+                "ro": "Kuća Vojvode Gavra Vukovića",
+                "en": "Kuća Vojvode Gavra Vukovića"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur dieses historischen Hauses; es bietet einen perfekten, trockenen Start im Innenbereich, um den Morgenschauern zu entgehen.",
+                "hu": "Csodálja meg a történelmi ház lenyűgöző építészetét; tökéletes, száraz beltéri kezdés a hirtelen jött reggeli záporok teljes elkerülésére.",
+                "ro": "Admirați arhitectura magnifică a acestei case; oferă un început perfect și uscat la interior pentru a evita complet ploile bruște de dimineață.",
+                "en": "Admire the magnificent architecture of this historical house; it offers a perfect, dry indoor start to completely avoid the sudden morning rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Polimski muzej",
+                "hu": "Polimski muzej",
+                "ro": "Polimski muzej",
+                "en": "Polimski muzej"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die lokale Geschichte durch spannende Ausstellungen und finden Sie hier einen sicheren, trockenen Rückzugsort vor dem mittäglichen Regen.",
+                "hu": "Fedezze fel a helyi történelmet az izgalmas kiállításokon keresztül, és találjon biztonságos, száraz menedéket a déli esőzések elől ebben a múzeumban.",
+                "ro": "Descoperiți istoria locală prin expoziții captivante, oferind un refugiu uscat și excelent împotriva ploilor torențiale de la mijlocul zilei.",
+                "en": "Discover local history through fascinating exhibits, offering a highly secure and completely dry refuge from the heavy midday rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Gradska plaža",
+                "hu": "Gradska plaža",
+                "ro": "Gradska plaža",
+                "en": "Gradska plaža"
+              },
+              "tip_5lang": {
+                "de": "Der Fluss Lim wirkt bei Regen dramatisch; da die nahen Spazierwege sehr rutschig sein können, ist festes und wasserdichtes Schuhwerk unbedingt nötig.",
+                "hu": "A Lim folyó drámai arcát mutatja az esőben; mivel a sétányok rendkívül csúszósak lehetnek, vastag, vízálló cipő viselése erősen ajánlott.",
+                "ro": "Râul Lim arată dramatic pe ploaie; deoarece aleile din apropiere pot fi foarte alunecoase, încălțămintea impermeabilă este absolut necesară.",
+                "en": "The Lim river looks dramatic in the rain; because the nearby walking paths can be quite slippery, wearing sturdy waterproof shoes is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Jasikovac",
+                "hu": "Jasikovac",
+                "ro": "Jasikovac",
+                "en": "Jasikovac"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick; beachten Sie jedoch, dass der anhaltende Regen die Treppen des Denkmals extrem rutschig macht, also Vorsicht.",
+                "hu": "Élvezze a páratlan panorámát, de tartsa szem előtt, hogy a folyamatos eső miatt az emlékmű lépcsői rendkívül csúszósak, lépjen nagyon óvatosan.",
+                "ro": "Bucurați-vă de vederea panoramică; cu toate acestea, rețineți că ploaia continuă face scările monumentului extrem de alunecoase, pășiți cu grijă.",
+                "en": "Take in the stunning panoramic views; however, be mindful that the continuous rain makes the monument's stone stairs extremely slippery, step carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Manastir Đurđevi Stupovi",
+                "hu": "Manastir Đurđevi Stupovi",
+                "ro": "Manastir Đurđevi Stupovi",
+                "en": "Manastir Đurđevi Stupovi"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die spirituelle Ruhe dieses alten Klosters, dessen dicke Steinmauern und überdachte Bögen perfekten Schutz vor den Abendniederschlägen bieten.",
+                "hu": "Élje át az ősi kolostor nyugalmát; a vastag kőfalak és a fedett boltívek tökéletes menedéket nyújtanak az esti heves esőzések elől.",
+                "ro": "Experimentați calmul spiritual al acestei mănăstiri vechi, ale cărei ziduri groase de piatră oferă un adăpost perfect împotriva precipitațiilor de seară.",
+                "en": "Experience the deep spiritual calm of this ancient monastery, its thick stone walls and covered archways providing a perfect shield from the evening rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den kalten Morgen in den geheizten Räumen des Herzogshauses. Mittags wärmen Sie sich im Polimski-Museum richtig auf. Am frischen Nachmittag packen Sie sich dick ein für einen Spaziergang am Stadtstrand und den eisigen Aufstieg zum Jasikovac. Beenden Sie den Abend früh im Kloster Đurđevi Stupovi, da die Wintersonne gegen 17:00 Uhr untergeht und es draußen eisig wird.",
+            "hu": "Indítsa a fagyos reggelt a herceg fűtött házában. Délben melegedjen fel teljesen a Polimski Múzeum termeiben. A csípős délutánon öltözzön vastagon egy frissítő sétához a strandnál, majd másszon fel a Jasikovac kilátójához. Az estét a Đurđevi Stupovi kolostornál zárja, még mielőtt a nap 17:00 körül lemegy, és az éjszakai zord fagy beköszönt.",
+            "ro": "Începeți dimineața rece în camerele încălzite ale Casei Ducelui. La amiază, încălziți-vă explorând Muzeul Polimski. În după-amiaza geroasă, îmbrăcați-vă gros pentru o plimbare revigorantă pe plajă și o urcare la Jasikovac. Încheiați seara devreme la mănăstirea Đurđevi Stupovi, deoarece soarele apune în jur de 17:00, aducând un frig pătrunzător.",
+            "en": "Kick off your cold morning in the well-heated rooms of the Duke's House. By midday, warm up further while delving into the Polimski Museum's history. In the brisk afternoon, wrap up in thick layers for a walk by the city beach and a hike up to Jasikovac for winter views. End your evening early at the monastery as the winter sun sets by 17:00, bringing a frosty chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kuća Vojvode Gavra Vukovića",
+                "hu": "Kuća Vojvode Gavra Vukovića",
+                "ro": "Kuća Vojvode Gavra Vukovića",
+                "en": "Kuća Vojvode Gavra Vukovića"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie im Inneren dieses warmen Museums, um die lokale Geschichte in Ruhe zu erkunden, bevor Sie der eisigen Winterkälte draußen trotzen.",
+                "hu": "Kezdje a fűtött, meleg múzeumban a helyi történelem megismerését, mielőtt bátran dacolna a kinti kegyetlen téli hideggel és széllel.",
+                "ro": "Începeți în căldura acestui muzeu primitor pentru a afla despre istoria locală înainte de a înfrunta curajos frigul iernii de afară.",
+                "en": "Start inside the comforting warmth of this museum to learn about local history before bravely facing the biting winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Polimski muzej",
+                "hu": "Polimski muzej",
+                "ro": "Polimski muzej",
+                "en": "Polimski muzej"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer ausgezeichneter Stopp im Warmen, um archäologische Funde in gut geheizten Ausstellungsräumen ganz entspannt zu bewundern.",
+                "hu": "Egy újabb kiváló beltéri megálló, ahol kellemesen felmelegedhet és kényelmesen megcsodálhatja a ritka régészeti leleteket a fűtött termekben.",
+                "ro": "O altă oprire excelentă la interior pentru a vă încălzi și a admira descoperirile arheologice în camerele de expoziție bine încălzite.",
+                "en": "Another completely excellent indoor stop to properly warm up and comfortably marvel at ancient archaeological finds in heated exhibition rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Gradska plaža",
+                "hu": "Gradska plaža",
+                "ro": "Gradska plaža",
+                "en": "Gradska plaža"
+              },
+              "tip_5lang": {
+                "de": "Die zugefrorenen Flussufer bieten eine raue Schönheit; ziehen Sie winddichte Kleidung an, um der schneidenden Brise des Flusses standzuhalten.",
+                "hu": "A fagyos folyópart zord, fagyos szépséget kínál; feltétlenül öltözzön szélálló rétegekbe a csípős, jeges szél elleni védekezésként.",
+                "ro": "Malurile înghețate ale râului oferă o frumusețe aspră; îmbrăcați-vă în straturi rezistente la vânt pentru a îndura briza mușcătoare a apei.",
+                "en": "The frozen, icy riverbanks offer a stunning stark beauty; be sure to dress in heavily windproof layers to safely endure the biting cold breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Jasikovac",
+                "hu": "Jasikovac",
+                "ro": "Jasikovac",
+                "en": "Jasikovac"
+              },
+              "tip_5lang": {
+                "de": "Der Winterblick auf die verschneite Stadt ist wahrhaft magisch, aber tragen Sie isolierte Stiefel, da der Schnee hier oben sehr tief wird.",
+                "hu": "A hólepte városra nyíló téli kilátás valóban varázslatos, de viseljen vastagon bélelt csizmát, mert a hó a dombon igen mély lehet.",
+                "ro": "Priveliștea de iarnă asupra orașului înzăpezit este absolut magică, dar purtați cizme bine izolate, deoarece zăpada devine foarte adâncă sus.",
+                "en": "The winter panoramic view over the snowy town is completely magical, but you must wear thick insulated boots as the snow gets very deep on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Manastir Đurđevi Stupovi",
+                "hu": "Manastir Đurđevi Stupovi",
+                "ro": "Manastir Đurđevi Stupovi",
+                "en": "Manastir Đurđevi Stupovi"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen friedlichen Ort rechtzeitig, bevor der frühe Sonnenuntergang um 17:00 Uhr die eisigen Gipfel in rosa Farbtöne taucht.",
+                "hu": "Látogassa meg a békés helyszínt, mielőtt a korai, 17:00 óra körüli naplemente csodás rózsaszínre festi a fagyos, hófödte hegycsúcsokat.",
+                "ro": "Vizitați acest loc pașnic chiar înainte ca apusul devreme, în jur de 17:00, să coloreze vârfurile geroase în nuanțe magice de roz.",
+                "en": "Visit this remarkably peaceful site just before the early 17:00 sunset completely paints the frosty, snowy mountain peaks in beautiful pink hues."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpáros kalandját a nyugodt reggeli szellő élvezetével a Lim folyó menti Plaža Mreže strandon. Közeledve a délhez, tekerjen Berane kulturális szívébe, hogy felfedezze a Herceg házát és a híres Polimski Múzeumot. Délutáni útja a fenséges Jasikovac emlékműhöz visz, mielőtt a történelmi jelentőségű Đurđevi Stupovi kolostorhoz érne. Zárja a napot egy kellemes, családbarát látogatással a helyi Mašo állatkertben az este közeledtével.",
         "ro": "Începeți aventura pe bicicletă bucurându-vă de briza liniștită a dimineții la Plaža Mreže, de-a lungul râului Lim. La prânz, pedalați în inima culturală din Berane pentru a explora casa Ducelui și renumitul Muzeu Polimski. Plimbarea de după-amiază vă duce la maiestuosul monument Jasikovac, înainte de a ajunge la mănăstirea istorică Đurđevi Stupovi. Încheiați-vă ziua cu o vizită plăcută și potrivită pentru familii la grădina zoologică Mašo.",
         "en": "Kick off your cycling adventure by enjoying the tranquil morning breeze at Plaža Mreže along the Lim River. As midday approaches, pedal into the cultural heart of Berane to explore both the Duke's house and the renowned Polimski Museum. Your afternoon ride takes you up to the majestic Jasikovac memorial before cruising to the historically significant Đurđevi Stupovi monastery. Conclude your day with a delightful, family-friendly visit to the local Mašo zoo as evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens vorsichtig zur Plaža Mreže; Schutzbleche sind auf nassen Wegen Pflicht. Mittags können Sie sich im Herzogshaus und im Polimski-Museum gut im Trockenen aufwärmen. Nachmittags trotzen Sie dem Nieselregen hinauf zum Jasikovac; große Vorsicht auf den rutschigen Wegen. Beenden Sie den verregneten Abend am Kloster und Zoo – starke Fahrradlichter sind bei dem grauen Wetter extrem wichtig.",
+            "hu": "Reggel óvatosan kerékpározzon a Plaža Mreže felé; használjon sárvédőt a nedves utakon. Délben húzódjon be a herceg házába és a Polimski Múzeumba, hogy teljesen megszáradjon. Délután a szitáló esőben tekerjen fel a Jasikovac emlékműhöz, nagyon ügyelve a csúszós ösvényekre. Az esős estét a kolostor és az állatkert környékén zárja; a borús idő miatt a jó minőségű kerékpárlámpa elengedhetetlen.",
+            "ro": "Pedalați cu grijă dimineața spre Plaža Mreže; folosiți apărători de noroi pe potecile umede. La prânz, adăpostiți-vă la Casa Ducelui și Muzeul Polimski pentru a vă usca complet. După-amiaza, înfruntați burnița spre Jasikovac, navigând cu atenție pe traseele extrem de alunecoase. Încheiați seara ploioasă la mănăstire și grădină, asigurându-vă că aveți lumini foarte bune la bicicletă.",
+            "en": "Cycle carefully through your morning to Plaža Mreže; definitely use mudguards on the wet paths. By noon, retreat indoors to the Duke's House and Polimski Museum to fully dry off. In the afternoon, brave the drizzle up to Jasikovac, navigating the very slippery trails with intense caution. Finish the rainy evening at the monastery and zoo, ensuring your bike has bright lights for the overcast sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaža Mreže",
+                "hu": "Plaža Mreže",
+                "ro": "Plaža Mreže",
+                "en": "Plaža Mreže"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit einer frischen, regnerischen Fahrt am Flussufer, aber achten Sie auf extrem schlammige Stellen auf dem Radweg nahe am Wasser.",
+                "hu": "Kezdje egy frissítő, esős tekeréssel a folyópart mentén, de nagyon vigyázzon a vízhez közeli, rendkívül saras és csúszós szakaszokra.",
+                "ro": "Începeți cu o plimbare umedă și răcoroasă pe malul râului, dar aveți mare grijă la porțiunile pline de noroi de pe pista de lângă apă.",
+                "en": "Start with a highly refreshing wet ride along the riverside, but be extremely watchful for muddy, treacherous spots right near the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuća Vojvode Gavra Vukovića",
+                "hu": "Kuća Vojvode Gavra Vukovića",
+                "ro": "Kuća Vojvode Gavra Vukovića",
+                "en": "Kuća Vojvode Gavra Vukovića"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad draußen und entfliehen Sie dem Regen ins Innere, um die lokale Geschichte in einem trockenen, angenehmen Umfeld zu erkunden.",
+                "hu": "Parkolja le a kerékpárt, és lépjen be, hogy az eső elől teljes menedéket találjon, miközben a helyi történelmet száraz környezetben fedezi fel.",
+                "ro": "Parcați bicicleta și intrați pentru a scăpa complet de ploaie în timp ce explorați istoria locală într-un mediu complet uscat și confortabil.",
+                "en": "Park your bike outside and step inside to entirely escape the pouring rain while exploring local history in a thoroughly dry and cozy environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Polimski muzej",
+                "hu": "Polimski muzej",
+                "ro": "Polimski muzej",
+                "en": "Polimski muzej"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie dieses große Innenmuseum, das Ihnen einen perfekten, trockenen Schutz bei den teils sehr starken mittäglichen Platzregen bietet.",
+                "hu": "Élvezze ezt a tágas beltéri múzeumot, amely teljesen tökéletes menedéket nyújt a gyakran rendkívül erős déli felhőszakadások idején.",
+                "ro": "Bucurați-vă de acest muzeu spațios la interior, un adăpost absolut perfect în timpul ploilor torențiale și puternice de la mijlocul zilei.",
+                "en": "Enjoy exploring this extensive indoor museum, which acts as a perfectly secure and dry shelter during the frequently heavy midday rain downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Jasikovac",
+                "hu": "Jasikovac",
+                "ro": "Jasikovac",
+                "en": "Jasikovac"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie sehr langsam den Berg hinauf; das nasse Herbstlaub und die Pflastersteine können für Fahrradreifen extrem rutschig und gefährlich sein.",
+                "hu": "Lassan és óvatosan tekerjen felfelé; a nedves falevelek és a vizes kövek rendkívül csúszósak, szinte életveszélyesek lehetnek a gumiknak.",
+                "ro": "Urcați dealul foarte încet; frunzele umede și pietrele pavate pot fi extrem de alunecoase și periculoase pentru anvelopele bicicletei dumneavoastră.",
+                "en": "Cycle very slowly up the steep hill; the combination of wet leaves and paved stones can be incredibly slippery and dangerous for bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Manastir Đurđevi Stupovi",
+                "hu": "Manastir Đurđevi Stupovi",
+                "ro": "Manastir Đurđevi Stupovi",
+                "en": "Manastir Đurđevi Stupovi"
+              },
+              "tip_5lang": {
+                "de": "Ruhen Sie sich unter den alten Steinbögen aus und wischen Sie unbedingt Ihren Sattel mit einem Tuch trocken, bevor Sie die Fahrt im Regen fortsetzen.",
+                "hu": "Pihenjen meg a vastag, ősi boltívek alatt, és mindenképpen törölje teljesen szárazra az ülést egy ronggyal a következő esős szakasz előtt.",
+                "ro": "Odihniți-vă sub arcadele vechi de piatră și asigurați-vă că ștergeți șaua bicicletei complet uscată înainte de a continua plimbarea pe ploaie.",
+                "en": "Rest safely under the ancient stone arches and make absolutely sure to wipe down your bike seat dry before bravely tackling the next rainy leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoološki vrt Mašo",
+                "hu": "Zoološki vrt Mašo",
+                "ro": "Zoološki vrt Mašo",
+                "en": "Zoološki vrt Mašo"
+              },
+              "tip_5lang": {
+                "de": "Einige Tiere verstecken sich tief vor dem Regen, suchen Sie genau in den Unterständen; das Tragen eines wasserdichten Ponchos ist hier sehr empfehlenswert!",
+                "hu": "Számos állat mélyen elbújhat az eső elől, ezért figyelje nagyon alaposan a menedéküket; a vízálló esőkabát viselése itt erősen ajánlott!",
+                "ro": "Unele animale s-ar putea ascunde de ploaie, așa că priviți foarte atent în adăposturile lor; purtarea unui poncho impermeabil este foarte recomandată!",
+                "en": "Many animals might heavily hide from the pouring rain, so look very closely into their covered shelters; wearing a waterproof poncho here is a must!"
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Trotzen Sie dem klaren Wintermorgen bei der Fahrt zur Plaža Mreže. Mittags wärmen Sie Ihre steifen Finger im Herzogshaus und Polimski-Museum richtig auf. Die Nachmittagsfahrt zum Jasikovac erfordert zwingend gute Thermokleidung gegen den eisigen Gegenwind. Beenden Sie die Tour am Kloster und Zoo unbedingt vor 17:00 Uhr, wenn die Temperaturen drastisch sinken und es dunkel wird.",
+            "hu": "Dacoljon a csípős téli reggellel a Plaža Mreže felé tekerve. Délben olvassza ki teljesen a megfagyott ujjait a herceg házában és a Polimski Múzeumban. A Jasikovac felé vezető délutáni úthoz vastag termál kerékpáros ruházat szükséges a jeges szél miatt. A kora estét a kolostornál zárja, mindenképp 17:00 előtt, amikor rohamosan besötétedik és azonnal fagy.",
+            "ro": "Înfruntați dimineața geroasă de iarnă pedalând spre Plaža Mreže. La prânz, încălziți-vă degetele înghețate bine în Casa Ducelui și Muzeul Polimski. Plimbarea de după-amiază spre Jasikovac necesită echipament termic excelent contra vântului. Încheiați seara la mănăstire și zoo obligatoriu înainte de 17:00, când temperaturile scad extrem de drastic și se întunecă.",
+            "en": "Brave the crisp winter morning riding out to Plaža Mreže. By midday, thoroughly warm your frozen fingers inside the Duke's House and Polimski Museum. The afternoon ride to Jasikovac strongly requires thermal cycling gear to combat the icy wind. Conclude your early evening at the monastery and zoo well before 17:00, when temperatures rapidly plummet and darkness hits."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaža Mreže",
+                "hu": "Plaža Mreže",
+                "ro": "Plaža Mreže",
+                "en": "Plaža Mreže"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Winterfrost am Flussufer ist wunderschön anzusehen, aber achten Sie extrem auf gefährliche, unsichtbare vereiste Stellen auf dem Radweg.",
+                "hu": "A folyóparti vakító téli zúzmara csodálatos látvány, de tekerés közben fokozottan figyeljen a nagyon veszélyes, fagyott és csúszós foltokra az úton.",
+                "ro": "Înghețul de iarnă de pe malul râului este absolut superb, dar aveți mare grijă la porțiunile de gheață invizibile și extrem de periculoase de pe drum.",
+                "en": "The thick winter frost completely covering the riverside is incredibly beautiful, but watch out closely for very dangerous, icy patches on the bike path."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuća Vojvode Gavra Vukovića",
+                "hu": "Kuća Vojvode Gavra Vukovića",
+                "ro": "Kuća Vojvode Gavra Vukovića",
+                "en": "Kuća Vojvode Gavra Vukovića"
+              },
+              "tip_5lang": {
+                "de": "Eine extrem empfehlenswerte, warme Pause im Innenbereich, um ordentlich Wärme zu tanken, bevor Sie Ihre frostige Fahrt in der Kälte fortsetzen.",
+                "hu": "Kifejezetten erősen ajánlott beltéri, fűtött pihenő, ahol alaposan felmelegedhet a rettentően fagyos tekerés folytatása előtt az utcán.",
+                "ro": "O pauză la interior extrem de recomandată pentru a acumula căldură în corp înainte de a continua plimbarea dumneavoastră foarte geroasă de afară.",
+                "en": "A highly recommended, cozy indoor break to grab some much-needed warmth before bravely continuing your remarkably frosty and chilly bicycle ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Polimski muzej",
+                "hu": "Polimski muzej",
+                "ro": "Polimski muzej",
+                "en": "Polimski muzej"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie ruhig etwas länger in diesem gut geheizten Museum, besonders wenn Ihre eisigen Hände und Füße vor der nächsten Etappe auftauen müssen.",
+                "hu": "Maradjon ebben a jól fűtött múzeumban egy kicsit tovább, különösen, ha a teljesen átfagyott kezeinek és lábainak fel kell engednie a hideg után.",
+                "ro": "Rămâneți la interior în acest muzeu bine încălzit ceva mai mult timp dacă mâinile și picioarele dumneavoastră înghețate trebuie să se dezghețe bine.",
+                "en": "Definitely stay inside this wonderfully heated museum a bit longer if your freezing cold hands and feet desperately need thawing out before riding on."
+              }
+            },
+            {
+              "name": {
+                "de": "Jasikovac",
+                "hu": "Jasikovac",
+                "ro": "Jasikovac",
+                "en": "Jasikovac"
+              },
+              "tip_5lang": {
+                "de": "Der steile Anstieg wird Sie auf dem Rad sicher aufwärmen, aber tragen Sie zwingend dicke, winddichte Kleidung für die sehr kalte, schnelle Abfahrt.",
+                "hu": "A meredek emelkedő biztosan kimelegíti a tekerés közben, de a gyors és fagyos lejtőn lefelé vastag, szélálló rétegekre lesz mindenképpen szüksége.",
+                "ro": "Urcarea abruptă vă va încălzi cu siguranță pe bicicletă, dar purtați straturi foarte groase și rezistente la vânt pentru coborârea rapidă și rece.",
+                "en": "The steep uphill climb will definitely warm you up while cycling, but wearing solid wind-blocking layers is absolutely crucial for the freezing descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Manastir Đurđevi Stupovi",
+                "hu": "Manastir Đurđevi Stupovi",
+                "ro": "Manastir Đurđevi Stupovi",
+                "en": "Manastir Đurđevi Stupovi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im ruhigen Klosterhof, während der kurze Winternachmittag extrem schnell in eine wunderschöne, aber bitterkalte Dämmerung übergeht.",
+                "hu": "Parkoljon le a csendes kolostorudvaron, miközben a rövid téli délután nagyon gyorsan egy gyönyörű, bár metszően fagyos szürkületbe és sötétbe hajlik.",
+                "ro": "Parcați în curtea liniștită a mănăstirii în timp ce scurta după-amiază de iarnă se transformă foarte rapid într-un amurg absolut superb, dar extrem de rece.",
+                "en": "Park quietly in the courtyard as the short winter afternoon very rapidly turns into an incredibly beautiful, albeit bitterly freezing and cold, dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoološki vrt Mašo",
+                "hu": "Zoološki vrt Mašo",
+                "ro": "Zoološki vrt Mašo",
+                "en": "Zoološki vrt Mašo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Zoo unbedingt deutlich vor dem Sonnenuntergang um 17:00 Uhr; extrem dicke Handschuhe sind beim Beobachten der Tiere im Freien Pflicht.",
+                "hu": "Látogasson ide jóval a 17:00 órás sötétedés előtt; vastag, meleg téli kesztyű viselése kötelező, miközben kint a hidegben az állatokat figyeli.",
+                "ro": "Vizitați obligatoriu înainte de apusul de la 17:00; mănușile foarte groase de iarnă sunt absolut obligatorii în timp ce observați animalele afară în ger.",
+                "en": "Make sure to visit well before the total 17:00 sunset; wearing extremely thick gloves is an absolute must while observing the outdoor animals in the cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós túráját a természet lágy ölén a békés Bukovacban, majd élvezze a frissítő reggeli pihenőt a Lim folyónál a Plaža Mreže strandon. Délben parkoljon le a városközpontban, hogy elmerüljön a régió történelmében a Gavro Vuković házban és a Polimski Múzeumban. Délután csodálja meg a panorámát a Jasikovac emlékműtől, és fedezze fel a Đurđevi Stupovi kolostor freskóit. Fejezze be ezt a tartalmas napot a bájos Mašo állatkertben.",
         "ro": "Începeți turul cu mașina complet cufundați în natura din liniștitul Bukovac, apoi bucurați-vă de o pauză răcoritoare pe malul râului Lim la Plaža Mreže. La prânz, parcați în centrul orașului pentru a descoperi istoria regională la Casa Gavro Vuković și la Muzeul Polimski. Petreceți după-amiaza admirând vederile panoramice de la monumentul Jasikovac și explorând frescele mănăstirii Đurđevi Stupovi. Încheiați ziua la fermecătoarea grădină zoologică Mašo.",
         "en": "Start your driving tour completely immersed in nature at the serene Bukovac, then enjoy a refreshing morning break by the Lim River at Plaža Mreže. By midday, park in the city center to dive deep into regional history at the Duke Gavro Vuković House and the Polimski Museum. Spend your afternoon admiring the panoramic views from the Jasikovac memorial and exploring the exquisite frescoes of the Đurđevi Stupovi monastery. Finish this comprehensive day out at the charming Mašo zoo before heading to a local tavern."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie am verregneten Morgen sehr vorsichtig nach Bukovac. Mittags parken Sie nur kurz nahe der Plaža Mreže, bevor Sie zügig das trockene Herzogshaus und das Polimski-Museum besuchen. Nachmittags fahren Sie auf stark rutschigen Straßen behutsam zum Jasikovac. Beenden Sie den grauen, verregneten Abend mit einer Fahrt zum schützenden Kloster und besuchen Sie den Zoo gut ausgerüstet mit einem großen Schirm.",
+            "hu": "Vezessen óvatosan a heves esős reggelen Bukovac felé, ahol ködös tájak várják. Délben álljon meg egy pillanatra a Plaža Mreže-nél, majd siessen a herceg házának és a múzeumnak a biztos, száraz kényelmébe. Délután nagyon óvatosan navigáljon a rendkívül csúszós utakon Jasikovac felé. Az esős estét a kolostor menedékében, az állatkertet pedig egy hatalmas esernyővel a kézben zárja biztonságosan.",
+            "ro": "Conduceți cu mare atenție în dimineața ploioasă spre Bukovac. La prânz, parcați foarte scurt lângă Plaža Mreže înainte de a vă îndrepta rapid spre confortul uscat al Casei Ducelui și Muzeului Polimski. După-amiaza, navigați cu mare grijă pe drumurile foarte alunecoase spre Jasikovac. Încheiați seara ploioasă conducând spre mănăstire și vizitând grădina zoologică doar cu o umbrelă mare.",
+            "en": "Drive very carefully through the rainy morning out to Bukovac, where foggy views abound. By noon, park near Plaža Mreže briefly before quickly heading to the dry comfort of the Duke's House and Polimski Museum. In the afternoon, navigate the very slick roads up to Jasikovac with extreme caution. End your thoroughly rainy evening driving to the sheltering monastery and viewing the zoo under a large umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bukovac",
+                "hu": "Bukovac",
+                "ro": "Bukovac",
+                "en": "Bukovac"
+              },
+              "tip_5lang": {
+                "de": "Die hügelige Natur ist bei Regen besonders dramatisch; lassen Sie die Autofenster nur leicht offen, um den prasselnden Regen im Warmen zu hören.",
+                "hu": "A hegyvidéki táj a szakadó esőben különösen drámai; csak résnyire hagyja nyitva az ablakot, hogy hallgassa az eső kopogását a meleg autóból.",
+                "ro": "Natura deluroasă este extrem de dramatică în ploaie; lăsați geamurile mașinii doar ușor deschise pentru a auzi ploaia din confortul cald din interior.",
+                "en": "The natural scenery is highly moody and dramatic in the heavy rain; keep your car windows just slightly open to securely hear it from the warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaža Mreže",
+                "hu": "Plaža Mreže",
+                "ro": "Plaža Mreže",
+                "en": "Plaža Mreže"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie nur kurz mit einem großen Regenschirm aus dem Auto, um den grauen Flussblick im Trockenen zu genießen, ohne sofort durchnässt zu werden.",
+                "hu": "Csak egy hatalmas esernyővel pattanjon ki az autóból egy gyors folyóparti pillantásra, így elkerülheti, hogy másodpercek alatt teljesen elázzon.",
+                "ro": "Coborâți din mașină doar foarte scurt cu o umbrelă mare pentru o privire rapidă asupra râului, pentru a evita să fiți complet udat de furtună.",
+                "en": "Hop out of your car very briefly with a large umbrella for a quick riverside look, perfectly avoiding getting completely drenched by the sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuća Vojvode Gavra Vukovića",
+                "hu": "Kuća Vojvode Gavra Vukovića",
+                "ro": "Kuća Vojvode Gavra Vukovića",
+                "en": "Kuća Vojvode Gavra Vukovića"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie ganz in der Nähe und eilen Sie schnell hinein, um die faszinierende historische Architektur hundertprozentig wettergeschützt zu bewundern.",
+                "hu": "Parkoljon közvetlenül a közelben, és siessen be a történelmi falak közé, amelyek azonnali, tökéletes menedéket adnak a kinti zord esőzés ellen.",
+                "ro": "Parcați foarte aproape și grăbiți-vă rapid înăuntru pentru a vă bucura de arhitectura istorică, complet și suta la suta protejați de vremea rea de afară.",
+                "en": "Park extremely close nearby and quickly rush inside to fully enjoy the historical architecture perfectly shielded from the utterly miserable wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Polimski muzej",
+                "hu": "Polimski muzej",
+                "ro": "Polimski muzej",
+                "en": "Polimski muzej"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie ausgiebig Zeit in den trockenen Innenausstellungen, während die heftigen Nachmittagsschauer das Auto und die Straßen draußen sauber waschen.",
+                "hu": "Töltsön bőséges időt a száraz beltéri kiállításokon, amíg a kinti heves délutáni záporok teljesen elmossák a várost és a parkoló autókat.",
+                "ro": "Petreceți mult timp explorând expozițiile uscate interioare, în timp ce ploile torențiale și puternice de după-amiază spală orașul și mașina afară.",
+                "en": "Spend ample time slowly exploring the massive indoor exhibits while the very heavy, continuous afternoon rain showers completely wash over the city outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Jasikovac",
+                "hu": "Jasikovac",
+                "ro": "Jasikovac",
+                "en": "Jasikovac"
+              },
+              "tip_5lang": {
+                "de": "Die steile Auffahrt ist nass; stellen Sie sicher, dass Ihre Scheibenwischer intakt sind, da die kurvige, asphaltierte Straße extrem rutschig sein kann.",
+                "hu": "A felfelé vezető út festői, de vizes; az ablaktörlők tökéletes állapota elengedhetetlen a csúszós, falevelekkel teli szerpentinen felfelé haladva.",
+                "ro": "Drumul abrupt în sus este foarte umed; asigurați-vă că ștergătoarele funcționează perfect, deoarece drumul asfaltat curbat este extrem de alunecos acum.",
+                "en": "The scenic drive up is very wet; firmly ensure your car's wiper blades are in top condition for the winding, incredibly slippery, and leaf-covered road."
+              }
+            },
+            {
+              "name": {
+                "de": "Manastir Đurđevi Stupovi",
+                "hu": "Manastir Đurđevi Stupovi",
+                "ro": "Manastir Đurđevi Stupovi",
+                "en": "Manastir Đurđevi Stupovi"
+              },
+              "tip_5lang": {
+                "de": "Im gepflasterten Steinhof bilden sich tiefe Pfützen; tragen Sie beim kurzen Weg vom Autoparkplatz unbedingt gute, absolut wasserfeste Schuhe.",
+                "hu": "A kövezett udvaron nagyon mély tócsák képződnek, így a parkolóból a bejáratig sétálva teljesen vízálló cipő viselése szigorúan ajánlott.",
+                "ro": "În curtea interioară de piatră se formează bălți destul de adânci, așa că purtați obligatoriu pantofi foarte impermeabili de la parcarea auto până la intrare.",
+                "en": "The historic stone courtyard forms very deep puddles in the rain, so wearing strongly waterproof shoes when walking from the parking lot is required."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoološki vrt Mašo",
+                "hu": "Zoološki vrt Mašo",
+                "ro": "Zoološki vrt Mašo",
+                "en": "Zoološki vrt Mašo"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie das Auto als warme, trockene Basis bereit und flitzen Sie mit dem Schirm nach draußen, um die Tiere in den geschützten Unterständen zu sehen.",
+                "hu": "Tartsa a fűtött autót biztonságos bázisként, amíg esernyővel egy pillanatra kiszalad megnézni az állatokat a fedett és száraz kifutóikban.",
+                "ro": "Păstrați mașina caldă ca o bază uscată excelentă în timp ce dați o fugă cu umbrela să vedeți rapid animalele aflate în adăposturile lor protejate.",
+                "en": "Keep the comfortable car totally warm as a dry base while quickly dashing out with a large umbrella to see the deeply sheltered animals in the pouring rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den frostigen Morgen mit einer Fahrt nach Bukovac bei voll aufgedrehter Heizung im Auto. Mittags spazieren Sie sehr kurz an der Plaža Mreže, bevor Sie in den Museen komplett auftauen. Nachmittags fahren Sie äußerst vorsichtig auf tief verschneiten Straßen zum Jasikovac. Beenden Sie den Tag am Kloster und Zoo zwingend vor 17:00 Uhr, wenn plötzliche Dunkelheit und gefährliches Glatteis einbrechen.",
+            "hu": "Indítsa a rettentően fagyos reggelt Bukovac felé autózva, maximumra tekert fűtéssel. Délben tegyen egy gyors sétát a Plaža Mreže-nél, majd olvvadjon ki teljesen a herceg házában és a múzeumban. Délután nagyon óvatosan vezessen a mélyen havas úton Jasikovac felé. Zárja a napot a kolostor és az állatkert felfedezésével feltétlenül 17:00 előtt, amikor azonnal rásötétedik és az utak teljesen eljegesednek.",
+            "ro": "Începeți dimineața geroasă conducând spre Bukovac cu căldura mașinii dată la maximum. La prânz, plimbați-vă scurt la Plaža Mreže înainte de a vă dezgheța în muzee. După-amiaza, conduceți cu mare atenție pe drumurile acoperite de zăpadă spre Jasikovac. Încheiați ziua la mănăstire și grădina zoologică obligatoriu înainte de 17:00, când se întunecă foarte rapid și se formează gheața.",
+            "en": "Kick off your extremely frosty morning driving out to Bukovac with the car's heater on full blast. By noon, take a very brisk walk at Plaža Mreže before entirely defrosting inside the Duke's House and Polimski Museum. In the freezing afternoon, carefully drive up the thick snowy roads to Jasikovac. Conclude the day at the monastery and zoo well before 17:00, when total darkness falls and roads completely turn to solid ice."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bukovac",
+                "hu": "Bukovac",
+                "ro": "Bukovac",
+                "en": "Bukovac"
+              },
+              "tip_5lang": {
+                "de": "Gute Winterreifen sind hier absolute Pflicht; genießen Sie die unglaublich tief verschneite, unberührte Landschaft einfach direkt von Ihrem beheizten Autositz aus.",
+                "hu": "A kiváló téli gumi itt szigorúan elengedhetetlen; élvezze a csodás havas, érintetlen tájat kényelmesen, közvetlenül a fűtött autósülésből nézve.",
+                "ro": "Anvelopele bune de iarnă sunt absolut esențiale aici; bucurați-vă de peisajul înzăpezit și neatins direct din confortul scaunului dumneavoastră auto încălzit.",
+                "en": "Top-quality winter tires are totally essential here; easily enjoy the incredibly pristine snowy landscape right from the amazing comfort of your heated car seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaža Mreže",
+                "hu": "Plaža Mreže",
+                "ro": "Plaža Mreže",
+                "en": "Plaža Mreže"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Flussufer sind atemberaubend, aber entfernen Sie sich im tiefen Winter niemals ohne dicke Handschuhe zu weit vom warmen, sicheren Auto.",
+                "hu": "A fagyos folyópart lenyűgöző, de a kemény télben vastag, meleg kesztyű nélkül egyáltalán ne menjen messze a járó motorú, biztonságosan meleg autótól.",
+                "ro": "Malurile înghețate sunt cu adevărat uimitoare, dar în mijlocul iernii nu vă îndepărtați absolut deloc de mașina caldă fără a purta mănuși foarte groase.",
+                "en": "The entirely frozen riverbanks are stunning, but absolutely do not wander far from your comfortably warm car without wearing thick, heavy winter gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuća Vojvode Gavra Vukovića",
+                "hu": "Kuća Vojvode Gavra Vukovića",
+                "ro": "Kuća Vojvode Gavra Vukovića",
+                "en": "Kuća Vojvode Gavra Vukovića"
+              },
+              "tip_5lang": {
+                "de": "Ein absolut perfekter Rückzugsort zur Mittagszeit; wärmen Sie Ihre eiskalten Hände drinnen, während das geparkte Auto draußen im tiefen Frost langsam abkühlt.",
+                "hu": "Tökéletes déli menedék; melegítse fel jéghideg kezeit a kiállításokon, miközben az autó a kinti kíméletlen mínuszokban lassan lehűl a parkolóban.",
+                "ro": "O retragere absolut perfectă la amiază; încălziți-vă mâinile foarte reci la interior, în timp ce mașina parcată se răcește încet afară în gerul aspru.",
+                "en": "An absolutely perfect midday retreat; comfortably warm your freezing hands by the exhibits while the car engine slowly cools completely outside in the deep frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Polimski muzej",
+                "hu": "Polimski muzej",
+                "ro": "Polimski muzej",
+                "en": "Polimski muzej"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer, herrlich gemütlicher Stopp im Warmen. Sie können Ihren schweren Wintermantel beruhigt im Auto lassen, während Sie die alten Artefakte ansehen.",
+                "hu": "Egy újabb, csodálatosan hangulatos beltéri megálló. Nyugodtan hagyja a nagyon vastag télikabátot az autóban, amíg a fűtött termekben a tárgyakat nézi.",
+                "ro": "O altă oprire minunat de confortabilă la interior. Puteți lăsa liniștit haina foarte grea de iarnă în mașină în timp ce vizitați artefactele în încăperile calde.",
+                "en": "Another delightfully cozy and warm indoor stop. You can safely leave your heavy winter coat in the car while you browse the ancient artifacts in heated comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Jasikovac",
+                "hu": "Jasikovac",
+                "ro": "Jasikovac",
+                "en": "Jasikovac"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei der Auffahrt extrem auf unsichtbares Glatteis. Der tolle Panoramablick auf verschneite Dächer ist den kurzen Weg im eiskalten Wind absolut wert.",
+                "hu": "Fokozottan ügyeljen a láthatatlan tükörjégre a felfelé vezető autózásnál. A hóval borított tetőkre nyíló panoráma megéri a rövid sétát a jéghideg szélben.",
+                "ro": "Atenție maximă la gheața neagră invizibilă la urcarea cu mașina. Priveliștea panoramică asupra acoperișurilor înzăpezite merită plimbarea scurtă în vântul rece.",
+                "en": "Be highly cautious of entirely invisible black ice on the drive up. The panoramic view of totally snow-covered rooftops is well worth facing the chilling wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Manastir Đurđevi Stupovi",
+                "hu": "Manastir Đurđevi Stupovi",
+                "ro": "Manastir Đurđevi Stupovi",
+                "en": "Manastir Đurđevi Stupovi"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie unbedingt vor dem frühen winterlichen Sonnenuntergang an. Die extrem kalte, eisige Luft macht die spirituelle Atmosphäre des Klosters unglaublich friedlich.",
+                "hu": "Mindenképp érkezzen a kora téli naplemente előtt. A rendkívül csípős, jeges levegő elképesztően varázslatossá és mélyen békéssé teszi a kolostor udvarát.",
+                "ro": "Ajungeți obligatoriu înainte de apusul foarte devreme de iarnă. Aerul extrem de rece și înghețat face atmosfera spirituală a mănăstirii incredibil de senină.",
+                "en": "Make sure to arrive well before the early winter sunset. The totally crisp, heavily icy air makes the monastery's profound atmosphere incredibly serene and quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoološki vrt Mašo",
+                "hu": "Zoološki vrt Mašo",
+                "ro": "Zoološki vrt Mašo",
+                "en": "Zoološki vrt Mašo"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter kurzer Stopp, bevor die Dunkelheit gegen 17:00 Uhr hereinbricht; lassen Sie den Motor am besten kurz laufen, um sich danach sofort wieder im Auto aufzuwärmen.",
+                "hu": "Egy utolsó villámgyors megálló, mielőtt 17:00 körül teljesen besötétedik; hagyja járni a motort, hogy az állatok megtekintése után azonnal felmelegedjen a kocsiban.",
+                "ro": "O ultimă oprire foarte rapidă înainte de a se întuneca complet la 17:00; țineți motorul mașinii pornit pentru a vă putea încălzi imediat după ce vizitați animalele.",
+                "en": "A final very quick stop before total dusk sets in fully around 17:00; optimally keep the car running to warm up immediately after briefly viewing the winter animals."
+              }
+            }
+          ]
+        }
       }
     }
   }

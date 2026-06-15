@@ -160,6 +160,196 @@
         "hu": "Reggel: Kezdd a napot a város nyüzsgő központjának felfedezésével, fotózz a színes betűknél, és élvezd a friss reggeli levegőt a fa mólók mellett sétálva.\nDél: Barangolj a sétálóutcákon és a történelmi parkokban, időt szakítva a régi sétány és a helyi árusok pultjainak rusztikus varázsának megtapasztalására.\nDélután: Irány a víz, fedezz fel mély víznyelőket, és evezz át a hihetetlenül tiszta, hét színben pompázó lagúnán a meleg trópusi napsütésben.\nEste: Zárd az utazást a békés strandokon pihenve, vagy fogyassz el egy egyedi fúziós vacsorát, miközben visszagondolsz erre a csodálatos napra.",
         "ro": "Dimineața: Începe ziua explorând centrul vibrant al orașului, făcând poze la literele colorate și bucurându-te de aerul proaspăt al dimineții lângă pontonul de lemn.\nPrânz: Plimbă-te pe străzile pietonale și prin parcurile istorice, făcându-ți timp să simți farmecul rustic al vechii faleze și al tarabelor comercianților locali.\nDupă-amiaza: Treci la activitățile acvatice, descoperind cenote adânci și vâslind pe deasupra lagunei incredibil de limpezi, în cele șapte culori ale sale.\nSeara: Încheie călătoria relaxându-te pe plaje liniștite sau savurând o cină cu fuziune asiatică în timp ce reflectezi asupra unei zile perfecte.",
         "en": "Morning: Begin your day by exploring the town's vibrant center, capturing photos at the colorful letters and enjoying the crisp morning air by the wooden docks.\nMidday: Wander through pedestrian streets and historic parks, taking time to feel the rustic charm of the old boardwalk and local vendor stalls.\nAfternoon: Transition to the water, discovering deep cenotes and paddling across the incredibly clear, seven-colored lagoon.\nEvening: Wrap up the journey by relaxing at peaceful beaches or enjoying a uniquely fused dinner while reflecting on a beautiful day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an den bunten Buchstaben, wo die Farben im Regen besonders leuchten; ein Schirm ist hier Pflicht. Mittags suchen wir Schutz unter den Arkaden beim Fort, während die Lagune in mystischen Grautönen schimmert. Am Nachmittag schlendern wir vorsichtig über die rutschigen Holzstege zum Strand. Den Abend lassen wir in einer der überdachten Bars am Wasser ausklingen.",
+            "hu": "A reggelt a színes városfeliratnál kezdjük, ahol az eső még intenzívebbé teszi a betűk színeit; egy esernyő elengedhetetlen. Délben az erőd falai és a közeli árkádok nyújtanak menedéket a trópusi zápor elől. Délután óvatosan sétálunk a lagúna mentén, figyelve a csúszós fafelületekre. Az estét egy vízparti, fedett teraszon zárjuk, hallgatva az eső kopogását a nádtetőkön.",
+            "ro": "Dimineața începe la literele colorate ale orașului, unde ploaia face culorile să pară și mai vibrante; o umbrelă este esențială. La prânz căutăm adăpost sub arcadele cetății, admirând laguna în nuanțe mistice de gri. După-amiaza ne plimbăm cu grijă pe pontoanele ce pot deveni alunecoase. Seara ne retragem pe o terasă acoperită de pe malul apei pentru a asculta sunetul ploii.",
+            "en": "The morning starts at the colorful city letters where the rain makes the paint pop; a sturdy umbrella is a must here. At noon, we find shelter near the fort's walls while watching the lagoon turn into a misty turquoise. In the afternoon, we walk carefully along the waterfront, avoiding slippery wooden paths. The evening is best spent in a covered lakeside bar watching the storm pass."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "City Letters",
+                "hu": "City Letters",
+                "ro": "City Letters",
+                "en": "City Letters"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpausen für Fotos, da der nasse Boden die bunten Buchstaben wunderschön spiegelt und kaum Touristen warten.",
+                "hu": "Használd ki az esőszüneteket a fotózáshoz, mert a vizes aszfalton tükröződő betűk különleges látványt nyújtanak tömeg nélkül.",
+                "ro": "Profită de pauzele dintre averse pentru fotografii, deoarece reflexia literelor pe asfaltul ud oferă un cadru artistic unic fără turiști.",
+                "en": "Use the breaks in the rain for photos, as the wet ground creates beautiful reflections of the letters without the usual crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Free pier",
+                "hu": "Free pier",
+                "ro": "Free pier",
+                "en": "Free pier"
+              },
+              "tip_5lang": {
+                "de": "Der Steg kann bei Nässe sehr rutschig sein; tragen Sie Schuhe mit gutem Profil und genießen Sie die kühle Brise auf dem Wasser.",
+                "hu": "A móló deszkái esőben rendkívül csúszóssá válnak; viselj tapadós talpú cipőt és élvezd a frissítő, párás levegőt a lagúna felett.",
+                "ro": "Docul poate deveni foarte alunecos când este ud; poartă încălțăminte cu aderență bună și bucură-te de briza răcoroasă de pe lac.",
+                "en": "The pier boards become very slippery when wet; wear shoes with good grip and enjoy the refreshing, humid breeze over the lagoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Park with view of old boardwalk",
+                "hu": "Park with view of old boardwalk",
+                "ro": "Park cu vedere spre vechea faleză",
+                "en": "Park with view of old boardwalk"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen und beobachten Sie, wie die Regentropfen die sieben Farben der Lagune ineinander vermischen.",
+                "hu": "Keress menedéket a sűrű lombú fák alatt, és figyeld meg, ahogy az esőcseppek mintázatokat rajzolnak a lagúna türkizkék felszínére.",
+                "ro": "Caută adăpost sub copacii deari și observă cum picăturile de ploaie creează modele fascinante pe suprafața turcoaz a lagunei.",
+                "en": "Find shelter under the dense trees and watch how the raindrops create intricate patterns on the lagoon's multi-colored surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Andador Peatonal Calle 16",
+                "hu": "Andador Peatonal Calle 16",
+                "ro": "Andador Peatonal Calle 16",
+                "en": "Andador Peatonal Calle 16"
+              },
+              "tip_5lang": {
+                "de": "Dieser Fußweg bietet viele kleine Vordächer von Häusern; halten Sie sich am Rand, um trocken zu bleiben und lokale Vögel zu sehen.",
+                "hu": "A sétány menti házak ereszei jó védelmet nyújtanak; haladj a szélen, hogy száraz maradj, miközben a vízi madarakat figyeled.",
+                "ro": "Streșinile caselor de-a lungul aleii oferă protecție bună; mergi pe margine pentru a rămâne uscat în timp ce observi păsările lacului.",
+                "en": "The eaves of the houses along the walkway provide good shelter; stay close to the walls to keep dry while spotting local water birds."
+              }
+            },
+            {
+              "name": {
+                "de": "Lanchas El Fuerte de Bacalar",
+                "hu": "Lanchas El Fuerte de Bacalar",
+                "ro": "Lanchas El Fuerte de Bacalar",
+                "en": "Lanchas El Fuerte de Bacalar"
+              },
+              "tip_5lang": {
+                "de": "Wählen Sie ein Boot mit festem Dach; die Fahrt im Regen ist besonders ruhig und die Farben des Wassers wirken noch tiefer.",
+                "hu": "Válassz fix tetővel rendelkező csónakot; az esőben való hajózás csendesebb, és a víz színei ilyenkor még mélyebbnek tűnnek.",
+                "ro": "Alege o barcă cu acoperiș fix; plimbarea pe ploaie este mult mai liniștită, iar culorile apei par mult mai intense acum.",
+                "en": "Choose a boat with a fixed hardtop; cruising in the rain is peaceful and the lagoon's colors often appear deeper and more vivid."
+              }
+            },
+            {
+              "name": {
+                "de": "Public beach",
+                "hu": "Public beach",
+                "ro": "Plaja publică",
+                "en": "Public beach"
+              },
+              "tip_5lang": {
+                "de": "Auch bei Regen ist das Wasser warm; nutzen Sie die überdachten Palapas für Ihr Picknick und genießen Sie die leere Anlage.",
+                "hu": "A víz esőben is meleg marad; használd a nádtetős pihenőket a falatozáshoz, és élvezd a strandot a szokásos tömeg nélkül.",
+                "ro": "Apa rămâne caldă chiar și pe ploaie; folosește foișoarele cu acoperiș de stuf pentru un picnic și bucură-te de plaja pustie.",
+                "en": "The water stays warm even in the rain; use the thatched palapas for a snack and enjoy having the entire beach to yourself."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist mild und perfekt für einen Stadtbummel ohne die drückende Hitze. Mittags genießen wir die helle Sonne am Pier, bevor es am Nachmittag spürbar kühler wird. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir unseren letzten Halt am Wasser rechtzeitig ein. Ein leichter Pullover ist für den Abendspaziergang an der Lagune absolut ratsam.",
+            "hu": "A téli reggel frissítően enyhe, ideális a városnézéshez a tikkasztó hőség nélkül. Délben élvezzük a ragyogó napsütést a mólón, mielőtt délután érezhetően lehűlne a levegő. Mivel a nap már 17:00 körül nyugovóra tér, a parti sétát időben fejezzük be. Az esti órákra a lagúna partján mindenképpen vigyünk magunkkal egy vékony pulóvert.",
+            "ro": "Dimineața de iarnă este plăcut de răcoroasă, perfectă pentru explorare fără căldura sufocantă. La prânz ne bucurăm de soarele blând pe doc, înainte ca temperatura să scadă după-amiaza. Deoarece soarele apune în jur de ora 17:00, planificăm din timp ultima oprire. O jachetă subțire este necesară pentru plimbarea de seară pe malul lagunei.",
+            "en": "Winter mornings are refreshingly mild, perfect for exploring the town without the sweltering heat. At noon, we bask in the gentle sun by the pier before the breeze cools down in the afternoon. Since sunset is early around 5 PM, we make sure to hit the waterfront before dark. A light sweater is highly recommended for an evening stroll by the lagoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "City Letters",
+                "hu": "City Letters",
+                "ro": "City Letters",
+                "en": "City Letters"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Winterlicht am Morgen ist ideal für Fotos ohne harte Schatten; ziehen Sie eine leichte Schicht über für die kühle Brise.",
+                "hu": "A lágy téli reggeli fények ideálisak a fotózáshoz erős árnyékok nélkül; a hűvös szellő miatt érdemes egy vékony réteget viselni.",
+                "ro": "Lumina blândă de iarnă este perfectă pentru poze fără umbre dure; poartă un strat subțire de haine pentru briza răcoroasă.",
+                "en": "The soft winter morning light is ideal for photos without harsh shadows; wear a light layer to stay comfortable in the cool breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Free pier",
+                "hu": "Free pier",
+                "ro": "Free pier",
+                "en": "Free pier"
+              },
+              "tip_5lang": {
+                "de": "In der Wintersonne ist der Aufenthalt auf dem Steg sehr angenehm, da keine Hitze vom Holz abstrahlt; ideal für lange Beobachtungen.",
+                "hu": "A téli napsütésben a mólón tartózkodni nagyon kellemes, mert nem sugárzik forróság a deszkákból; ideális a hosszas nézelődéshez.",
+                "ro": "În soarele de iarnă, statul pe doc este foarte plăcut deoarece lemnul nu emană căldură; este momentul ideal pentru relaxare prelungită.",
+                "en": "In the winter sun, staying on the pier is very pleasant as the wood doesn't radiate heat; it's the perfect spot for long observations."
+              }
+            },
+            {
+              "name": {
+                "de": "Park with view of old boardwalk",
+                "hu": "Park with view of old boardwalk",
+                "ro": "Park cu vedere spre vechea faleză",
+                "en": "Park with view of old boardwalk"
+              },
+              "tip_5lang": {
+                "de": "Die Wintermonate bringen viele Zugvögel in den Park; bringen Sie ein Fernglas mit und genießen Sie die trockene, klare Luft.",
+                "hu": "A téli hónapok sok költöző madarat vonzanak a parkba; vigyél távcsövet, és élvezd a száraz, tiszta és frissítő levegőt.",
+                "ro": "Lunile de iarnă atrag multe păsări migratoare în parc; adu un binoclu și bucură-te de aerul uscat, curat și revigorant.",
+                "en": "The winter months attract many migratory birds to the park; bring binoculars and enjoy the dry, clear, and refreshing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Andador Peatonal Calle 16",
+                "hu": "Andador Peatonal Calle 16",
+                "ro": "Andador Peatonal Calle 16",
+                "en": "Andador Peatonal Calle 16"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie hier am späten Nachmittag, um das goldene Licht kurz vor dem frühen Sonnenuntergang gegen 17:00 Uhr einzufangen.",
+                "hu": "Sétálj itt késő délután, hogy elcsípd az arany óra fényeit a korai, délután ötkor kezdődő naplemente előtt.",
+                "ro": "Plimbă-te aici spre seară pentru a surprinde lumina aurie înainte de apusul devreme, care are loc în jurul orei 17:00.",
+                "en": "Walk here in the late afternoon to catch the golden hour lights before the early sunset that starts around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Lanchas El Fuerte de Bacalar",
+                "hu": "Lanchas El Fuerte de Bacalar",
+                "ro": "Lanchas El Fuerte de Bacalar",
+                "en": "Lanchas El Fuerte de Bacalar"
+              },
+              "tip_5lang": {
+                "de": "Die Wassertemperatur ist im Winter stabil, aber der Fahrtwind ist kühl; nehmen Sie ein Handtuch oder ein Sweatshirt mit an Bord.",
+                "hu": "A víz hőmérséklete télen is stabil, de a menetszél hűvös lehet; vigyél magaddal törölközőt vagy pulóvert a hajóra.",
+                "ro": "Temperatura apei este stabilă iarna, dar vântul din timpul mersului este rece; ia cu tine un prosop sau un hanorac pe barcă.",
+                "en": "The water temperature remains stable in winter, but the wind while moving is chilly; bring a towel or a sweatshirt on board."
+              }
+            },
+            {
+              "name": {
+                "de": "Public beach",
+                "hu": "Public beach",
+                "ro": "Plaja publică",
+                "en": "Public beach"
+              },
+              "tip_5lang": {
+                "de": "Verlassen Sie den Strand vor Sonnenuntergang, da es ohne Sonne schnell abkühlt; das Wasser ist jedoch wärmer als die Abendluft.",
+                "hu": "Még naplemente előtt hagyd el a strandot, mert a nap eltűnésével gyorsan hűl a levegő, bár a víz ilyenkor melegebbnek érződik.",
+                "ro": "Părăsește plaja înainte de apus, deoarece temperatura scade rapid fără soare, deși apa se simte mai caldă decât aerul serii.",
+                "en": "Leave the beach before sunset as it cools down quickly once the sun drops, though the water feels warmer than the evening air."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Reggel: Kezdd a napot a város nyüzsgő központjának felfedezésével, fotózz a színes betűknél, és élvezd a friss reggeli levegőt a fa mólók mellett sétálva.\nDél: Barangolj a sétálóutcákon és a történelmi parkokban, időt szakítva a régi sétány és a helyi árusok pultjainak rusztikus varázsának megtapasztalására.\nDélután: Irány a víz, fedezz fel mély víznyelőket, és evezz át a hihetetlenül tiszta, hét színben pompázó lagúnán a meleg trópusi napsütésben.\nEste: Zárd az utazást a békés strandokon pihenve, vagy fogyassz el egy egyedi fúziós vacsorát, miközben visszagondolsz erre a csodálatos napra.",
         "ro": "Dimineața: Începe ziua explorând centrul vibrant al orașului, făcând poze la literele colorate și bucurându-te de aerul proaspăt al dimineții lângă pontonul de lemn.\nPrânz: Plimbă-te pe străzile pietonale și prin parcurile istorice, făcându-ți timp să simți farmecul rustic al vechii faleze și al tarabelor comercianților locali.\nDupă-amiaza: Treci la activitățile acvatice, descoperind cenote adânci și vâslind pe deasupra lagunei incredibil de limpezi, în cele șapte culori ale sale.\nSeara: Încheie călătoria relaxându-te pe plaje liniștite sau savurând o cină cu fuziune asiatică în timp ce reflectezi asupra unei zile perfecte.",
         "en": "Morning: Begin your day by exploring the town's vibrant center, capturing photos at the colorful letters and enjoying the crisp morning air by the wooden docks.\nMidday: Wander through pedestrian streets and historic parks, taking time to feel the rustic charm of the old boardwalk and local vendor stalls.\nAfternoon: Transition to the water, discovering deep cenotes and paddling across the incredibly clear, seven-colored lagoon.\nEvening: Wrap up the journey by relaxing at peaceful beaches or enjoying a uniquely fused dinner while reflecting on a beautiful day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf dem Rad erfordert Vorsicht auf den teils schlammigen Wegen zum Ecological Park. Mittags suchen wir Schutz im Spa, während draußen der tropische Guss niedergeht. Nachmittags radeln wir durch die Pfützen zurück ins Zentrum zu den Buchstaben. Der Abend endet ruhig, da wir das Rad rechtzeitig vor der Dunkelheit und bei nassen Straßen sicher abstellen.",
+            "hu": "Egy esős kerékpáros nap óvatosságot igényel az Ecological Park felé vezető, néhol saras utakon. Délben a Spa fedett részein pihenünk, miközben kint szakad a trópusi eső. Délután a pocsolyákat kerülgetve tekerünk vissza a központba. Az estét nyugodtan zárjuk, a bicikliket még sötétedés előtt, a csúszós utak miatt időben biztonságba helyezzük.",
+            "ro": "O zi ploioasă pe bicicletă necesită prudență pe drumurile parțial noroioase spre Ecological Park. La prânz ne adăpostim la spa în timp ce afară plouă torențial. După-amiaza pedalăm printre bălți înapoi spre centru la literele orașului. Seara se încheie liniștit, parcând bicicletele înainte de lăsarea întunericului pe drumurile ude.",
+            "en": "A rainy bike day requires caution on the muddy paths leading to the Ecological Park. At noon, we shelter at the spa while the tropical downpour hits outside. In the afternoon, we pedal through puddles back to the center to see the city letters. The evening ends early as we return the bikes safely before dark to avoid riding on wet, slippery roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ecological Park Beach",
+                "hu": "Ecological Park Beach",
+                "ro": "Ecological Park Beach",
+                "en": "Ecological Park Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann rutschig sein; parken Sie das Rad auf festem Grund und nutzen Sie die Bäume als natürlichen Regenschutz.",
+                "hu": "A bevezető út csúszós lehet; parkolj szilárd talajon, és használd a sűrű lombú fákat természetes esővédőként.",
+                "ro": "Drumul de acces poate fi alunecos; parchează bicicleta pe teren solid și folosește copacii ca adăpost natural împotriva ploii.",
+                "en": "The access path can be slippery; park your bike on firm ground and use the dense trees as natural rain protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Magical Spa",
+                "hu": "Magical Spa",
+                "ro": "Magical Spa",
+                "en": "Magical Spa"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um einen starken Schauer abzuwarten; genießen Sie eine Massage unter dem schützenden Palapa-Dach.",
+                "hu": "Ez a tökéletes hely egy nagyobb zápor kivárásához; kényeztesd magad egy masszázzsal a védelmet nyújtó nádtető alatt.",
+                "ro": "Acesta este locul perfect pentru a aștepta trecerea unei ploi torențiale; bucură-te de un masaj sub acoperișul protector de stuf.",
+                "en": "This is the perfect spot to wait out a heavy downpour; treat yourself to a massage under the protective thatched palapa roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Free pier",
+                "hu": "Free pier",
+                "ro": "Free pier",
+                "en": "Free pier"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad gut ab und gehen Sie zu Fuß auf den Steg; bei Regen ist die Sicht auf die Lagune besonders dramatisch.",
+                "hu": "Zárd le biztonságosan a biciklit, és gyalog menj ki a mólóra; esőben a lagúna látványa rendkívül drámai és különleges.",
+                "ro": "Încuie bine bicicleta și mergi pe jos pe doc; pe timp de ploaie, vederea asupra lagunei este deosebit de dramatică.",
+                "en": "Lock your bike securely and walk onto the pier; in the rain, the view of the lagoon is exceptionally dramatic and unique."
+              }
+            },
+            {
+              "name": {
+                "de": "City Letters",
+                "hu": "City Letters",
+                "ro": "City Letters",
+                "en": "City Letters"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp ist auch bei Nässe möglich; achten Sie auf den Verkehr, da Bremswege auf nassem Asphalt länger sind.",
+                "hu": "Egy gyors fotóstop esőben is belefér; figyelj a forgalomra, mert a vizes aszfalton a fékút jelentősen meghosszabbodik.",
+                "ro": "O oprire rapidă pentru poze este posibilă și pe ploaie; atenție la trafic, deoarece distanța de frânare pe asfalt ud este mai mare.",
+                "en": "A quick photo stop is doable in the rain; watch out for traffic as braking distances on wet asphalt are much longer."
+              }
+            },
+            {
+              "name": {
+                "de": "Andador Peatonal Calle 16",
+                "hu": "Andador Peatonal Calle 16",
+                "ro": "Andador Peatonal Calle 16",
+                "en": "Andador Peatonal Calle 16"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf diesem schmalen Weg, um Fußgänger nicht zu bespritzen und Unfälle auf dem nassen Boden zu vermeiden.",
+                "hu": "Ezen a szűk részen inkább told a biciklit, hogy ne fröcsköld össze a gyalogosokat és elkerüld a megcsúszást a vizes kövön.",
+                "ro": "Pe această porțiune îngustă mai bine împingi bicicleta pentru a nu stropi pietonii și pentru a evita alunecarea pe pavajul ud.",
+                "en": "Push your bike on this narrow path to avoid splashing pedestrians and to prevent slipping on the wet pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Black Cenote",
+                "hu": "Black Cenote",
+                "ro": "Black Cenote",
+                "en": "Black Cenote"
+              },
+              "tip_5lang": {
+                "de": "Der Rand der Cenote kann sehr matschig sein; parken Sie das Rad etwas weiter oben und nutzen Sie Regenponchos für den Abstieg.",
+                "hu": "A cenote széle nagyon saras lehet; parkolj feljebb, és használj esőponcsót a mélyebb részek megközelítéséhez.",
+                "ro": "Marginea cenotei poate fi foarte noroioasă; parchează bicicleta mai sus și folosește o pelerină de ploaie pentru coborâre.",
+                "en": "The edge of the cenote can be very muddy; park your bike further up and use a rain poncho for the descent to the water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühlen Wintertemperaturen machen das Radfahren zum Genuss, da man kaum ins Schwitzen kommt. Mittags erreichen wir die Strände im Norden bei strahlendem Sonnenschein. Am Nachmittag radeln wir zügig Richtung Süden zum Black Cenote, um das Tageslicht optimal zu nutzen. Da es nach 17:00 Uhr schnell dunkel und kühl wird, beenden wir unsere Tour mit einer Jacke im Gepäck.",
+            "hu": "A hűvös téri hőmérséklet élménnyé teszi a biciklizést, hiszen nem izzadunk meg a tekerés közben. Délben érjük el az északi strandokat a ragyogó napsütésben. Délután tempósan haladunk dél felé a Fekete Cenote-hoz, hogy kihasználjuk a természetes fényt. Mivel 17:00 után gyorsan sötétedik és hűl a levegő, egy kabáttal a táskánkban zárjuk a túrát.",
+            "ro": "Temperaturile răcoroase de iarnă fac pedalatul o plăcere, nefiind atât de cald ca în restul anului. La prânz ajungem la plajele din nord sub un soare strălucitor. După-amiaza pedalăm rapid spre sud la Black Cenote pentru a profita de lumină. Deoarece se întunecă rapid după ora 17:00, încheiem turul având o jachetă la îndemână.",
+            "en": "Cool winter temperatures make cycling a joy as you won't break a sweat while exploring. At noon, we reach the northern beaches under bright sunshine. In the afternoon, we pedal briskly south to the Black Cenote to make the most of the daylight. Since it gets dark and chilly quickly after 5 PM, we finish the tour with a jacket ready in our bags."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ecological Park Beach",
+                "hu": "Ecological Park Beach",
+                "ro": "Ecological Park Beach",
+                "en": "Ecological Park Beach"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterwetter bietet eine fantastische Fernsicht über die Lagune; ideal für Radfahrer, die eine Pause im Schatten suchen.",
+                "hu": "A tiszta téli idő pazar kilátást nyújt a lagúnára; ideális megálló a bicikliseknek, akik egy kis árnyékos pihenőre vágynak.",
+                "ro": "Vremea senină de iarnă oferă o vizibilitate fantastică asupra lagunei; este un popas ideal pentru bicicliștii care caută umbră.",
+                "en": "The clear winter weather offers fantastic visibility across the lagoon; it's an ideal stop for cyclists seeking a rest in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Magical Spa",
+                "hu": "Magical Spa",
+                "ro": "Magical Spa",
+                "en": "Magical Spa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie ein Bad im Thermalwasser, das sich im Winter besonders warm anfühlt; perfekt, um die Muskeln nach dem Radeln zu lockern.",
+                "hu": "Élvezd a mártózást, a víz télen különösen kellemesnek érződik; tökéletes a biciklizés során igénybe vett izmok ellazítására.",
+                "ro": "Bucură-te de o baie, deoarece apa se simte deosebit de caldă iarna; este perfect pentru relaxarea mușchilor după pedalat.",
+                "en": "Enjoy a soak as the water feels especially warm in winter; it is perfect for relaxing your muscles after a morning of cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Free pier",
+                "hu": "Free pier",
+                "ro": "Free pier",
+                "en": "Free pier"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Brise auf dem Steg ist im Winter erfrischend; parken Sie Ihr Rad in der Sonne, damit der Sattel nicht zu kalt wird.",
+                "hu": "A hűvös szellő a mólón télen kifejezetten frissítő; parkold a biciklit a napon, hogy a nyereg ne legyen túl hideg, mire visszatérsz.",
+                "ro": "Briza răcoroasă pe doc este revigorantă iarna; parchează bicicleta la soare pentru ca șaua să nu fie prea rece când pleci.",
+                "en": "The cool breeze on the pier is refreshing in winter; park your bike in the sun so the seat isn't too cold when you return."
+              }
+            },
+            {
+              "name": {
+                "de": "City Letters",
+                "hu": "City Letters",
+                "ro": "City Letters",
+                "en": "City Letters"
+              },
+              "tip_5lang": {
+                "de": "Profitieren Sie von der geringeren Luftfeuchtigkeit für gestochen scharfe Fotos; am Nachmittag ist das Licht hier besonders warm.",
+                "hu": "Használd ki az alacsony páratartalmat a tűéles fotókhoz; délután a fények itt különösen meleg és barátságos árnyalatúak.",
+                "ro": "Profită de umiditatea scăzută pentru fotografii foarte clare; după-amiaza, lumina de aici este deosebit de caldă și plăcută.",
+                "en": "Take advantage of the lower humidity for crisp, clear photos; in the afternoon, the light here is particularly warm and inviting."
+              }
+            },
+            {
+              "name": {
+                "de": "Andador Peatonal Calle 16",
+                "hu": "Andador Peatonal Calle 16",
+                "ro": "Andador Peatonal Calle 16",
+                "en": "Andador Peatonal Calle 16"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen kurzen Stopp vor dem frühen Sonnenuntergang; achten Sie darauf, dass Ihr Fahrrad Licht für den Rückweg hat.",
+                "hu": "Szép hely egy rövid megállóra a korai naplemente előtt; ellenőrizd, hogy a biciklid lámpái működnek-e a hazafelé úthoz.",
+                "ro": "Un loc frumos pentru o scurtă oprire înainte de apus; asigură-te că bicicleta are lumini funcționale pentru drumul de întoarcere.",
+                "en": "A lovely spot for a quick stop before the early sunset; make sure your bike has working lights for the ride back in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Black Cenote",
+                "hu": "Black Cenote",
+                "ro": "Black Cenote",
+                "en": "Black Cenote"
+              },
+              "tip_5lang": {
+                "de": "Das dunkle Wasser speichert die Wärme gut; springen Sie noch einmal hinein, bevor die Sonne um 17:00 Uhr verschwindet.",
+                "hu": "A sötét víz jól tartja a hőt; ugorj be egy utolsó csobbanásra, mielőtt a nap ötkor eltűnik a látóhatár mögött.",
+                "ro": "Apa întunecată reține bine căldura; fă o ultimă baie înainte ca soarele să dispară la ora 17:00 după-amiaza.",
+                "en": "The dark water retains heat well; jump in for one last swim before the sun disappears around 5 PM in the afternoon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Reggel: Kezdd a napot a város nyüzsgő központjának felfedezésével, fotózz a színes betűknél, és élvezd a friss reggeli levegőt a fa mólók mellett sétálva.\nDél: Barangolj a sétálóutcákon és a történelmi parkokban, időt szakítva a régi sétány és a helyi árusok pultjainak rusztikus varázsának megtapasztalására.\nDélután: Irány a víz, fedezz fel mély víznyelőket, és evezz át a hihetetlenül tiszta, hét színben pompázó lagúnán a meleg trópusi napsütésben.\nEste: Zárd az utazást a békés strandokon pihenve, vagy fogyassz el egy egyedi fúziós vacsorát, miközben visszagondolsz erre a csodálatos napra.",
         "ro": "Dimineața: Începe ziua explorând centrul vibrant al orașului, făcând poze la literele colorate și bucurându-te de aerul proaspăt al dimineții lângă pontonul de lemn.\nPrânz: Plimbă-te pe străzile pietonale și prin parcurile istorice, făcându-ți timp să simți farmecul rustic al vechii faleze și al tarabelor comercianților locali.\nDupă-amiaza: Treci la activitățile acvatice, descoperind cenote adânci și vâslind pe deasupra lagunei incredibil de limpezi, în cele șapte culori ale sale.\nSeara: Încheie călătoria relaxându-te pe plaje liniștite sau savurând o cină cu fuziune asiatică în timp ce reflectezi asupra unei zile perfecte.",
         "en": "Morning: Begin your day by exploring the town's vibrant center, capturing photos at the colorful letters and enjoying the crisp morning air by the wooden docks.\nMidday: Wander through pedestrian streets and historic parks, taking time to feel the rustic charm of the old boardwalk and local vendor stalls.\nAfternoon: Transition to the water, discovering deep cenotes and paddling across the incredibly clear, seven-colored lagoon.\nEvening: Wrap up the journey by relaxing at peaceful beaches or enjoying a uniquely fused dinner while reflecting on a beautiful day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute der ideale Rückzugsort vor den heftigen Schauern. Morgens fahren wir bequem zu den Cenoten, während die Scheibenwischer im Takt des Regens arbeiten. Mittags beobachten wir das Wetterchaos von einem geschützten Parkplatz aus. Am Nachmittag besuchen wir die Inseln mit einem überdachten Boot. Der Abend endet trocken und entspannt bei einer Fahrt durch das verregnete Bacalar.",
+            "hu": "Az autó ma a tökéletes menedék a heves záporok elől. Reggel kényelmesen gurulunk a cenotékhoz, miközben az ablaktörlők ütemesen dolgoznak. Délben a kocsiból nézzük a trópusi esőt egy biztonságos parkolóban. Délután fedett hajóval látogatunk el a szigetekhez. Az estét szárazon és kipihenten zárjuk, átvágva az eső áztatta Bacalar utcáin.",
+            "ro": "Mașina este astăzi refugiul ideal împotriva averselor abundente. Dimineața conducem confortabil spre cenote în timp ce ștergătoarele lucrează ritmic. La prânz observăm ploaia dintr-o parcare sigură. După-amiaza vizităm insulele cu o barcă acoperită. Seara se încheie la adăpost și relaxat, conducând prin orașul Bacalar udat de ploaie.",
+            "en": "The car is the ideal refuge today from the heavy tropical downpours. In the morning, we drive comfortably to the cenotes while the wipers keep the view clear. At noon, we watch the rain from a safe parking spot. In the afternoon, we visit the islands using a boat with a solid roof. The evening ends dry and relaxed as we drive through the rain-soaked streets of Bacalar."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bacalar Dany",
+                "hu": "Bacalar Dany",
+                "ro": "Bacalar Dany",
+                "en": "Bacalar Dany"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; die historischen Mauern bieten drinnen Schutz vor dem prasselnden Regen.",
+                "hu": "Parkolj minél közelebb a bejárathoz; a vastag történelmi falak bent kiváló védelmet nyújtanak a szakadó eső ellen.",
+                "ro": "Parchează cât mai aproape de intrare; zidurile istorice groase oferă protecție excelentă împotriva ploii torențiale.",
+                "en": "Park as close to the entrance as possible; the thick historical walls provide excellent shelter from the pouring rain indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "What SUP",
+                "hu": "What SUP",
+                "ro": "What SUP",
+                "en": "What SUP"
+              },
+              "tip_5lang": {
+                "de": "Erkundigen Sie sich nach wetterfesten Touren; SUP im leichten Regen ist meditativ, solange kein Gewitter aufzieht.",
+                "hu": "Érdeklődj az esőálló túrákról; a SUP-ozás könnyű esőben meditatív élmény, amíg nem fenyeget villámlás.",
+                "ro": "Întreabă despre tururile rezistente la ploaie; SUP-ul pe o ploaie ușoară este o experiență meditativă dacă nu sunt descărcări electrice.",
+                "en": "Inquire about rain-friendly tours; SUPing in light rain is a meditative experience as long as there is no threat of lightning."
+              }
+            },
+            {
+              "name": {
+                "de": "Emerald Cenote",
+                "hu": "Emerald Cenote",
+                "ro": "Cenota de Smarald",
+                "en": "Emerald Cenote"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus haben Sie einen tollen Blick, falls es zu stark regnet; das Wasser wirkt bei grauem Himmel fast magisch dunkelgrün.",
+                "hu": "Az autóból is remek a rálátás, ha túl erősen esne; a víz színe szürke égbolt alatt szinte mágikus sötétzöldnek hat.",
+                "ro": "Din mașină ai o vedere excelentă dacă plouă prea tare; culoarea apei sub cerul gri pare un verde smarald aproape magic.",
+                "en": "You have a great view from the car if it rains too hard; the water color appears almost magically dark green under grey skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Birds Island",
+                "hu": "Birds Island",
+                "ro": "Insula Păsărilor",
+                "en": "Birds Island"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie ein Boot mit Verdeck; im Regen sind viele Vögel in den Bäumen der Insel Schutz suchend zu beobachten.",
+                "hu": "Használj tetővel ellátott csónakot; esőben sok madár az ágak közé bújva keres menedéket, így könnyebb megfigyelni őket.",
+                "ro": "Folosește o barcă cu acoperiș; pe ploaie, multe păsări se adăpostesc printre ramuri, fiind mai ușor de observat de aproape.",
+                "en": "Use a boat with a canopy; in the rain, many birds huddle among the branches for shelter, making them easier to spot up close."
+              }
+            },
+            {
+              "name": {
+                "de": "Black Cenote",
+                "hu": "Black Cenote",
+                "ro": "Black Cenote",
+                "en": "Black Cenote"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf rutschige Böschungen; der Blick auf die dunkle Cenote im Regen ist ein beeindruckendes Naturschauspiel.",
+                "hu": "Parkoláskor ügyelj a csúszós útpadkára; a sötét cenote látványa az esőben lenyűgöző és drámai természeti jelenség.",
+                "ro": "Atenție la marginile alunecoase ale drumului când parchezi; vederea cenotei întunecate pe ploaie este un spectacol natural impresionant.",
+                "en": "Watch out for slippery road shoulders when parking; the sight of the dark cenote in the rain is a stunning and dramatic natural spectacle."
+              }
+            },
+            {
+              "name": {
+                "de": "NAO Japanese Fusion",
+                "hu": "NAO Japanese Fusion",
+                "ro": "NAO Japanese Fusion",
+                "en": "NAO Japanese Fusion"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie Ihr Abendessen im gemütlichen Innenbereich, während Sie das Prasseln des Regens auf das Dach hören.",
+                "hu": "Élvezd a vacsorát a hangulatos belső térben, miközben hallgatod az eső megnyugtató kopogását az épület tetején.",
+                "ro": "Bucură-te de cină în interiorul primitor în timp ce asculți sunetul relaxant al ploii care bate pe acoperișul clădirii.",
+                "en": "Enjoy your dinner in the cozy indoor area while listening to the soothing sound of the rain drumming on the roof above."
+              }
+            },
+            {
+              "name": {
+                "de": "City Letters",
+                "hu": "City Letters",
+                "ro": "City Letters",
+                "en": "City Letters"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Stopp für ein Foto aus dem Fenster oder bei einer Regenpause; das Auto hält Sie für den restlichen Abend trocken.",
+                "hu": "Egy utolsó fotó az ablakból vagy egy esőszünetben; az autó segít, hogy szárazon és kényelemben zárd ezt a vizes napot.",
+                "ro": "O ultimă poză de la fereastră sau într-o pauză de ploaie; mașina te ajută să închei această zi udă în confort și uscat.",
+                "en": "One last photo from the car window or during a break in the rain; the car keeps you dry and comfy as you end this wet day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto perfekt, um die entlegenen Cenoten ohne die Hitze der Klimaanlage zu erkunden. Morgens starten wir bei frischen Temperaturen Richtung Süden. Mittags genießen wir die Sonne am Wasser, während die Luftfeuchtigkeit angenehm niedrig bleibt. Da es um 17:00 Uhr bereits dunkel wird, nutzen wir das Auto, um sicher und warm zu unserem Abendziel zu gelangen.",
+            "hu": "Télen az autó tökéletes a távolabbi cenoték felfedezéséhez a légkondi túlzott használata nélkül. Reggel friss időben indulunk dél felé. Délben élvezzük a napsütést a parton, miközben a páratartalom kellemesen alacsony marad. Mivel ötkor már sötétedik, a kocsival gyorsan és biztonságban érünk el az esti programunk helyszínére.",
+            "ro": "Iarna, mașina este perfectă pentru a explora cenotele îndepărtate fără a depinde de aerul condiționat. Dimineața pornim spre sud pe o vreme răcoroasă. La prânz ne bucurăm de soare, umiditatea fiind plăcut de scăzută. Deoarece se întunecă la ora 17:00, folosim mașina pentru a ajunge rapid și în siguranță la destinația de seară.",
+            "en": "In winter, the car is perfect for exploring distant cenotes without needing the AC on full blast. In the morning, we head south in the fresh air. At noon, we enjoy the lakeside sun while the humidity stays comfortably low. Since it gets dark by 5 PM, the car helps us reach our evening destination quickly and safely before the temperature drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bacalar Dany",
+                "hu": "Bacalar Dany",
+                "ro": "Bacalar Dany",
+                "en": "Bacalar Dany"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühlen Morgen für eine ausgiebige Besichtigung der Außenanlagen; das Licht ist perfekt für Architekturfotos.",
+                "hu": "Használd ki a hűvös reggelt a külső területek alapos bejárására; a fények ilyenkor tökéletesek az építészeti fotókhoz.",
+                "ro": "Profită de dimineața răcoroasă pentru a vizita exteriorul; lumina este perfectă pentru fotografii de arhitectură reușite.",
+                "en": "Take advantage of the cool morning for a thorough tour of the grounds; the light is perfect for capturing architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "What SUP",
+                "hu": "What SUP",
+                "ro": "What SUP",
+                "en": "What SUP"
+              },
+              "tip_5lang": {
+                "de": "Die Lagune ist im Winter morgens oft spiegelglatt; ideal für Anfänger, aber bringen Sie ein trockenes Shirt für danach mit.",
+                "hu": "A lagúna vize téli reggeleken gyakran tükörsima; ideális kezdőknek, de hozz egy száraz váltóruhát a túra utánra.",
+                "ro": "Apa lagunei este adesea foarte calmă în diminețile de iarnă; ideal pentru începători, dar ia haine de schimb uscate după tur.",
+                "en": "The lagoon is often glass-calm on winter mornings; ideal for beginners, but bring a dry shirt to change into after the session."
+              }
+            },
+            {
+              "name": {
+                "de": "Emerald Cenote",
+                "hu": "Emerald Cenote",
+                "ro": "Cenota de Smarald",
+                "en": "Emerald Cenote"
+              },
+              "tip_5lang": {
+                "de": "Das glasklare Wasser lädt auch im Winter zum Schwimmen ein; die Sonne wärmt Sie nach dem Bad schnell wieder auf.",
+                "hu": "A kristálytiszta víz télen is úszásra csábít; a nap ereje a mártózás után gyorsan felmelegít majd a parton.",
+                "ro": "Apa cristalină te invită la înot chiar și iarna; soarele te va încălzi rapid după ce ieși din apă pe mal.",
+                "en": "The crystal-clear water is inviting even in winter; the midday sun will warm you up quickly after your swim at the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Birds Island",
+                "hu": "Birds Island",
+                "ro": "Insula Păsărilor",
+                "en": "Birds Island"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind besonders viele Zugvögel aus dem Norden hier; ein Fernglas im Handschuhfach ist jetzt Gold wert.",
+                "hu": "Télen különösen sok északról érkező költöző madár tanyázik itt; egy távcső a kesztyűtartóban most kincset érhet.",
+                "ro": "Iarna sunt prezente foarte multe păsări migratoare din nord; un binoclu în torpedou este extrem de util în acest sezon.",
+                "en": "Many migratory birds from the north congregate here in winter; binoculars in the glove box are a real treasure right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Black Cenote",
+                "hu": "Black Cenote",
+                "ro": "Black Cenote",
+                "en": "Black Cenote"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:30 Uhr, um die Tiefe des Wassers im letzten Tageslicht noch voll bewundern zu können.",
+                "hu": "Látogass el ide 16:30 előtt, hogy a lebukó nap utolsó sugaraiban még megcsodálhasd a víz lenyűgöző mélységét.",
+                "ro": "Vizitează acest loc înainte de ora 16:30 pentru a admira adâncimea apei în ultimele raze ale soarelui de după-amiază.",
+                "en": "Visit this spot before 4:30 PM to fully admire the impressive depth of the water in the last rays of the afternoon sun."
+              }
+            },
+            {
+              "name": {
+                "de": "NAO Japanese Fusion",
+                "hu": "NAO Japanese Fusion",
+                "ro": "NAO Japanese Fusion",
+                "en": "NAO Japanese Fusion"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den frühen Abend zu genießen; parken Sie direkt davor, da es nach Sonnenuntergang schnell abkühlt.",
+                "hu": "Tökéletes hely a kora este élvezetéhez; parkolj közvetlenül az étteremnél, mert naplemente után gyorsan hűlni kezd az idő.",
+                "ro": "Locul perfect pentru a te bucura de seară; parchează direct în față, deoarece se răcește rapid după ce apune soarele.",
+                "en": "A perfect spot to enjoy the early evening; park right in front as the temperature drops quickly once the sun goes down."
+              }
+            },
+            {
+              "name": {
+                "de": "City Letters",
+                "hu": "City Letters",
+                "ro": "City Letters",
+                "en": "City Letters"
+              },
+              "tip_5lang": {
+                "de": "Die beleuchteten Buchstaben im Winterdunkel sind ein schöner Abschluss; die Heizung im Auto sorgt für einen warmen Heimweg.",
+                "hu": "A kivilágított betűk a téli sötétben szép lezárást adnak; a kocsi fűtése gondoskodik a kellemesen meleg hazafelé útról.",
+                "ro": "Literele iluminate în întunericul iernii oferă un final frumos; căldura din mașină asigură un drum de întoarcere relaxant.",
+                "en": "The illuminated letters in the winter darkness provide a lovely finish; the car's heater ensures a warm and cozy ride home."
+              }
+            }
+          ]
+        }
       }
     }
   }

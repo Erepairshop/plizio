@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a központban található történelmi kápolna és a dolmen csendes felfedezésével. Délben túrázzon a csodálatos GR34-es tengerparti ösvényen. A délután Merrien kikötőjéről és annak híres osztrigatenyésztéséről szól. Kora este végül elérkezik Brigneau festői kikötőjébe egy igazán pihentető és hangulatos napzáráshoz.",
         "ro": "Începeți dimineața cu o explorare liniștită a capelei istorice și a dolmenului din centru. La prânz, faceți o drumeție pe superba potecă de coastă GR34. După-amiaza este dedicată portului Merrien și faimoaselor sale culturi de stridii. Seara devreme ajungeți în sfârșit în portul pitoresc Brigneau pentru o încheiere extrem de relaxantă.",
         "en": "Start the morning with a quiet exploration of the historic chapel and the dolmen in the center. By midday, hike the stunning GR34 coastal path to enjoy sweeping ocean views. The afternoon focuses on the Port of Merrien and its famous oyster farming culture. In the early evening, you finally reach the picturesque Port of Brigneau for a relaxing finish."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt mystisch zwischen den Kapellen, während der feine bretonische Regen die Granitsteine glänzen lässt. Mittags bietet der dichte Wald am Kercadoret Dolmen natürlichen Schutz, bevor wir den Küstenpfad erreichen.\n\nNachmittags trotzen wir der Gischt auf dem GR34, wobei feste Regenstiefel auf den rutschigen Felsen unerlässlich sind. Der Abend klingt gemütlich in den geschützten Austernhütten von Merrien und Brigneau aus, wo der Duft des Meeres auch bei Regen betörend ist.",
+            "hu": "A délelőtt misztikus hangulatban indul a kápolnák között, miközben a finom breton eső ragyogóvá teszi a gránitfalakat. Délben a Kercadoret dolmen körüli fák nyújtanak természetes menedéket, mielőtt elérnénk a partot.\n\nDélután a GR34-es ösvényen dacolunk a sós párával; a csúszós sziklákon a vízálló bakancs elengedhetetlen. Az estét Merrien és Brigneau fedett kikötői épületei között zárjuk, ahol az eső kopogása még hangulatosabbá teszi a tenger közelségét.",
+            "ro": "Dimineața începe mistic între capele, în timp ce ploaia fină bretonă face pietrele de granit să strălucească. La prânz, pădurea de lângă Dolmenul Kercadoret oferă adăpost natural înainte de a ajunge pe coastă.\n\nDupă-amiaza înfruntăm vaporii sărați pe poteca GR34; ghetele impermeabile sunt esențiale pe stâncile alunecoase. Seara se încheie confortabil în adăposturile din Merrien și Brigneau, unde sunetul ploii face atmosfera portului și mai autentică.",
+            "en": "The morning begins mystically among the chapels as the fine Breton rain makes the granite stones glisten. At noon, the trees around the Kercadoret Dolmen provide natural shelter before we head to the coast.\n\nIn the afternoon, we brave the salt spray on the GR34 path; waterproof boots are essential on the slippery rocks. The evening concludes cozily in the sheltered harbor areas of Merrien and Brigneau, where the sound of rain adds to the maritime charm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Philibert und Saint-Roch Kapelle",
+                "hu": "Saint-Philibert és Saint-Roch kápolna",
+                "ro": "Capela Saint-Philibert și Saint-Roch",
+                "en": "Saint-Philibert and Saint-Roch Chapel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bemalte Holzdecke im trockenen Innenraum, die besonders bei prasselndem Regen eine andächtige und schützende Stille ausstrahlt.",
+                "hu": "Csodálja meg a festett fafödémet a száraz belső térben, amely a kopogó esőben különlegesen meghitt és védelmező csendet áraszt.",
+                "ro": "Admirați tavanul de lemn pictat în interiorul uscat, care emană o liniște protectoare și deosebită mai ales atunci când ploaia bate în geamuri.",
+                "en": "Admire the painted wooden ceiling in the dry interior, which radiates a special, protective silence while the rain patters outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kercadoret Dolmen",
+                "hu": "Kercadoret dolmen",
+                "ro": "Dolmenul Kercadoret",
+                "en": "Kercadoret Dolmen"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Megalithen als historischen Regenschutz und achten Sie auf die moosigen Steine, die bei Nässe sehr rutschig sein können.",
+                "hu": "Használja a hatalmas köveket történelmi esővédőként, és ügyeljen a mohás felületekre, amelyek nedvesen rendkívül csúszóssá válnak.",
+                "ro": "Folosiți megaliții masivi ca adăpost istoric împotriva ploii și aveți grijă la pietrele cu mușchi, care devin foarte alunecoase când sunt ude.",
+                "en": "Use the massive megaliths as historical rain shelter and watch out for the mossy stones, which can become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Küstenpfad GR34",
+                "hu": "GR34-es tengerparti ösvény",
+                "ro": "Poteca de coastă GR34",
+                "en": "GR34 Coastal Path"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die dramatische Kraft des Meeres in Regenjacke; Wanderstöcke helfen Ihnen, auf dem schlammigen Pfad sicher das Gleichgewicht zu halten.",
+                "hu": "Élje át a tenger drámai erejét esőkabátban; a túrabotok segítenek megőrizni az egyensúlyt a felázott, sáros parti ösvényen.",
+                "ro": "Experimentați forța dramatică a mării într-o pelerină de ploaie; bețele de trekking vă vor ajuta să vă mențineți echilibrul pe poteca noroioasă.",
+                "en": "Experience the dramatic power of the sea in a raincoat; hiking poles will help you keep your balance on the muddy coastal path."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Merrien",
+                "hu": "Merrien kikötője",
+                "ro": "Portul Merrien",
+                "en": "Port of Merrien"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht in einer der Austernhütten, wo Sie fangfrische Delikatessen im Trockenen genießen können, während der Regen auf das Wasser peitscht.",
+                "hu": "Keressen menedéket az osztrigázók egyikében, ahol szárazon élvezheti a friss tengeri csemegéket, miközben az eső a vizet veri.",
+                "ro": "Refugiați-vă într-o colibă de stridii, unde puteți savura delicatese proaspete la adăpost, în timp ce ploaia biciuiește suprafața apei.",
+                "en": "Seek shelter in one of the oyster shacks, where you can enjoy fresh delicacies in the dry while the rain lashes the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Brigneau",
+                "hu": "Brigneau kikötője",
+                "ro": "Portul Brigneau",
+                "en": "Port of Brigneau"
+              },
+              "tip_5lang": {
+                "de": "Die alten Konservenfabriken bieten eine melancholische Kulisse; ein warmes Getränk in einer der Hafenbars ist der perfekte Abschluss für den Regentag.",
+                "hu": "A régi konzervgyárak melankolikus hátteret adnak; egy meleg ital az egyik kikötői bárban tökéletes lezárása az esős napnak.",
+                "ro": "Vechele fabrici de conserve oferă un cadru melancolic; o băutură caldă într-un bar din port este finalul perfect pentru o zi ploioasă.",
+                "en": "The old canning factories provide a melancholic backdrop; a warm drink in a harbor bar is the perfect conclusion to a rainy day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit frostigem Reif auf den Wiesen rund um die Kapellen. Mittags wärmt uns die tiefstehende Sonne am Dolmen, während wir uns auf den Wind am Meer vorbereiten.\n\nNachmittags bietet der Küstenpfad eine weite Sicht und absolute Ruhe, fernab der Sommermassen. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir den Hafen von Brigneau pünktlich zum glühenden Abendhimmel, gut eingepackt in warme Wollschichten.",
+            "hu": "A tiszta téli reggel dérlepte rétekkel indul a kápolnák környékén. Délben az alacsonyan járó nap sugarai melengetik a dolment, miközben felkészülünk a tenger felől érkező csípős szélre.\n\nDélután a parti ösvény végtelen nyugalmat áraszt a nyári tömeg nélkül. Mivel a nap már 17:00 körül nyugovóra tér, Brigneau kikötőjébe épp az alkonyi fényekkel érkezünk, meleg rétegekbe burkolózva.",
+            "ro": "O dimineață senină de iarnă începe cu brumă pe pajiștile din jurul capelelor. La prânz, soarele palid încălzește dolmenul, în timp ce ne pregătim pentru vântul tăios de pe malul mării.\n\nDupă-amiaza, poteca de coastă oferă o liniște absolută, departe de aglomerația verii. Deoarece soarele apune deja în jur de ora 17:00, ajungem în portul Brigneau exact la timp pentru culorile amurgului, bine înfofoliți.",
+            "en": "A clear winter morning begins with frost on the meadows around the chapels. At noon, the low sun warms the dolmen while we prepare for the biting wind coming off the sea.\n\nIn the afternoon, the coastal path offers absolute tranquility away from summer crowds. As the sun sets around 5:00 PM, we reach Brigneau harbor just in time for the twilight glow, wrapped in warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Philibert und Saint-Roch Kapelle",
+                "hu": "Saint-Philibert és Saint-Roch kápolna",
+                "ro": "Capela Saint-Philibert și Saint-Roch",
+                "en": "Saint-Philibert and Saint-Roch Chapel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille des Winters für eine Besichtigung ohne Trubel und tragen Sie Thermokleidung gegen die Kälte des historischen Mauerwerks.",
+                "hu": "Használja ki a téli csendet a tömegmentes látogatáshoz, és viseljen termőruhát a történelmi kőfalak felől áramló hideg ellen.",
+                "ro": "Profitați de liniștea iernii pentru o vizită fără aglomerație și purtați haine termice împotriva frigului emanat de zidurile istorice.",
+                "en": "Take advantage of the winter silence for a crowd-free visit and wear thermal clothing against the cold radiating from the historic stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Kercadoret Dolmen",
+                "hu": "Kercadoret dolmen",
+                "ro": "Dolmenul Kercadoret",
+                "en": "Kercadoret Dolmen"
+              },
+              "tip_5lang": {
+                "de": "Die laublosen Bäume im Winter lassen mehr Licht auf die Megalithen fallen; ein heißer Tee aus der Thermoskanne macht die Pause hier perfekt.",
+                "hu": "A téli, lombkorona nélküli fák több fényt engednek a megaliitokra; egy forró tea a termoszból tökéletessé teszi itt a pihenőt.",
+                "ro": "Copacii fără frunze permit mai multă lumină să cadă pe megaliți; un ceai fierbinte din termos face pauza de aici perfectă.",
+                "en": "The leafless winter trees allow more light to fall on the megaliths; a hot tea from a thermos makes the break here perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "Küstenpfad GR34",
+                "hu": "GR34-es tengerparti ösvény",
+                "ro": "Poteca de coastă GR34",
+                "en": "GR34 Coastal Path"
+              },
+              "tip_5lang": {
+                "de": "Wählen Sie eine winddichte Jacke für die exponierten Klippen und genießen Sie die klare Fernsicht, die es oft nur an kalten Wintertagen gibt.",
+                "hu": "Válasszon szélálló kabátot a nyitott sziklákhoz, és élvezze a tiszta távlatokat, amelyek gyakran csak a hideg téli napokon láthatók.",
+                "ro": "Alegeți o jachetă rezistentă la vânt pentru stâncile expuse și bucurați-vă de vizibilitatea clară care apare adesea doar în zilele reci de iarnă.",
+                "en": "Choose a windproof jacket for the exposed cliffs and enjoy the clear, far-reaching views often only found on cold winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Merrien",
+                "hu": "Merrien kikötője",
+                "ro": "Portul Merrien",
+                "en": "Port of Merrien"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Hafen besonders ruhig; ideal, um die handwerkliche Arbeit der Fischer ohne sommerliche Hektik aus der Nähe zu beobachten.",
+                "hu": "Télen a kikötő különösen csendes; ideális időpont a halászok kézműves munkájának megfigyelésére a nyári kapkodás nélkül.",
+                "ro": "Iarna portul este deosebit de liniștit; este momentul ideal pentru a observa munca pescarilor de aproape, fără agitația verii.",
+                "en": "In winter, the harbor is exceptionally quiet; it's the ideal time to observe the fishermen's craft up close without the summer rush."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Brigneau",
+                "hu": "Brigneau kikötője",
+                "ro": "Portul Brigneau",
+                "en": "Port of Brigneau"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das frühe Verglühen des Sonnenuntergangs über dem Wasser und wärmen Sie sich danach in einem der urigen lokalen Bistros auf.",
+                "hu": "Nézze végig a korai naplemente fényeit a víztükör felett, majd melegedjen fel a helyi, patinás bisztrók egyikében.",
+                "ro": "Urmăriți apusul timpuriu peste oglinda apei, apoi încălziți-vă într-unul dintre bistrourile locale pline de caracter.",
+                "en": "Watch the early sunset glow over the water, then warm up in one of the quaint local bistros."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "A kápolna és a dolmen meglátogatása után tekerjen el a GR34-es tengerparti ösvényhez. Délben lazíthat a gyönyörű Kerfany strandon. Ezután az útvonal Brigneau és Merrien kikötőinek osztrigatelepei mentén vezet. Zárja ezt az aktív napot Port Blanc félreeső öblében, miközben a lemenő nap fényeit csodálja a tenger felett.",
         "ro": "După ce vizitați capela și dolmenul, pedalați rapid către poteca de coastă GR34. La prânz vă puteți relaxa pe superba plajă Kerfany. Apoi traseul vă poartă de-a lungul paturilor de stridii din Brigneau și Merrien. Încheiați această zi activă în golful izolat Port Blanc, bucurându-vă de un apus de soare magnific deasupra apei.",
         "en": "After visiting the chapel and dolmen, pedal briskly to the famous GR34 coastal path. By midday, take a well-deserved relaxing break at the beautiful Kerfany Beach. The afternoon route leads you past the oyster beds of both Brigneau and Merrien harbors. Conclude this active day in the secluded Port Blanc cove, watching the evening light over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisch, aber erfrischend: Wir starten die Radtour mit voller Regenmontur. Die Wege zwischen den Kapellen und dem Dolmen sind gut befahrbar, verlangen aber erhöhte Aufmerksamkeit bei Kurven.\n\nMittags suchen wir Schutz in Kerfany, bevor wir die Hafenorte ansteuern. Der Wind weht kräftig von der Küste, was das Treten anspruchsvoller macht. Abends erreichen wir Port Blanc, wobei die spritzende Gischt und der Regen eine wilde, unvergessliche Atmosphäre schaffen.",
+            "hu": "Esős, de frissítő: teljes esőfelszerelésben vágunk neki a kerékpártúrának. A kápolnák és a dolmen közötti utak jól járhatóak, de a kanyarokban fokozott figyelmet igényelnek.\n\nDélben Kerfany-nál keresünk menedéket, mielőtt a kikötők felé vennénk az irányt. A szél erősen fúj a part felől, ami nehezíti a tekerést. Estére érjük el Port Blanc-t, ahol a felcsapó pára és az eső vad, felejthetetlen hangulatot áraszt.",
+            "ro": "Ploios, dar revigorant: pornim în turul cu bicicleta echipați complet pentru ploaie. Drumurile dintre capele și dolmen sunt practicabile, dar necesită atenție sporită în curbe.\n\nLa prânz căutăm adăpost în Kerfany înainte de a merge spre porturi. Vântul suflă cu putere dinspre coastă, îngreunând pedalarea. Seara ajungem la Port Blanc, unde stropii de apă și ploaia creează o atmosferă sălbatică și memorabilă.",
+            "en": "Rainy but refreshing: we start our bike tour in full rain gear. The paths between the chapels and the dolmen are manageable but require extra caution on turns.\n\nAt noon, we seek shelter in Kerfany before heading to the ports. The wind blows strongly from the coast, making pedaling more challenging. By evening, we reach Port Blanc, where the salt spray and rain create a wild, unforgettable atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Philibert und Saint-Roch Kapelle",
+                "hu": "Saint-Philibert és Saint-Roch kápolna",
+                "ro": "Capela Saint-Philibert și Saint-Roch",
+                "en": "Saint-Philibert and Saint-Roch Chapel"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Bäumen ab und nutzen Sie die Kapelle als ersten trockenen Sammelpunkt für die Routenbesprechung.",
+                "hu": "Parkolja le a kerékpárt a fák alatt, és használja a kápolnát az első száraz gyülekezőhelyként az útvonal átbeszéléséhez.",
+                "ro": "Parcați bicicleta sub copaci și folosiți capela ca prim punct de întâlnire uscat pentru a verifica traseul.",
+                "en": "Park your bike under the trees and use the chapel as your first dry meeting point to review the route."
+              }
+            },
+            {
+              "name": {
+                "de": "Kercadoret Dolmen",
+                "hu": "Kercadoret dolmen",
+                "ro": "Dolmenul Kercadoret",
+                "en": "Kercadoret Dolmen"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Waldweg auf rutschiges Laub und nasse Wurzeln; die massiven Steine bieten einen schnellen Unterstand bei Schauern.",
+                "hu": "Ügyeljen a csúszós levelekre és nedves gyökerekre az erdei úton; a hatalmas kövek gyors menedéket nyújtanak zápor idején.",
+                "ro": "Atenție la frunzele alunecoase și rădăcinile ude pe drumul prin pădure; pietrele masive oferă un adăpost rapid în caz de aversă.",
+                "en": "Watch out for slippery leaves and wet roots on the forest path; the massive stones provide quick shelter during showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Küstenpfad GR34",
+                "hu": "GR34-es tengerparti ösvény",
+                "ro": "Poteca de coastă GR34",
+                "en": "GR34 Coastal Path"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf besonders engen oder schlammigen Abschnitten des Pfades, um Stürze auf dem glitschigen Untergrund zu vermeiden.",
+                "hu": "A kifejezetten szűk vagy sáros szakaszokon tolja a kerékpárt, hogy elkerülje az eséseket a csúszós talajon.",
+                "ro": "Împingeți bicicleta pe porțiunile deosebit de înguste sau noroioase ale potecii pentru a evita căzăturile pe terenul alunecos.",
+                "en": "Push your bike on particularly narrow or muddy sections of the path to avoid falls on the slippery ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kerfany",
+                "hu": "Kerfany strand",
+                "ro": "Plaja Kerfany",
+                "en": "Kerfany Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Schutzdach am Strand ist ideal für eine kurze Pause; prüfen Sie hier kurz den Reifendruck für die nasse Asphaltstrecke.",
+                "hu": "A strand melletti esővédő tető ideális egy rövid szünetre; ellenőrizze itt a guminyomást a vizes aszfaltszakasz előtt.",
+                "ro": "Un adăpost lângă plajă este ideal pentru o scurtă pauză; verificați aici presiunea în pneuri pentru secțiunea de asfalt ud.",
+                "en": "A shelter by the beach is ideal for a short break; check your tire pressure here before heading onto the wet asphalt sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Brigneau",
+                "hu": "Brigneau kikötője",
+                "ro": "Portul Brigneau",
+                "en": "Port of Brigneau"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Hafenmole als Windschutz und wischen Sie die Bremsflanken Ihres Rades trocken, um die volle Bremsleistung zu erhalten.",
+                "hu": "Használja a kikötőgátat szélvédőként, és törölje szárazra a kerékpár fékfelületeit a teljes fékhatás fenntartása érdekében.",
+                "ro": "Folosiți digul portului ca paravan împotriva vântului și ștergeți jantele bicicletei pentru a menține eficiența frânării.",
+                "en": "Use the harbor mole as a windbreak and wipe your bike's brake rims dry to maintain full braking performance."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Merrien",
+                "hu": "Merrien kikötője",
+                "ro": "Portul Merrien",
+                "en": "Port of Merrien"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße zum Hafen kann bei Regen glatt sein; genießen Sie eine warme Suppe im örtlichen Bistro als Energiekick.",
+                "hu": "A kikötőhöz vezető keskeny út esőben csúszós lehet; élvezzen egy forró levest a helyi bisztróban energiapótlásként.",
+                "ro": "Drumul îngust spre port poate fi alunecos pe ploaie; savurați o supă caldă la bistroul local pentru un plus de energie.",
+                "en": "The narrow road to the harbor can be slick in the rain; enjoy a warm soup at the local bistro for an energy boost."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Port Blanc",
+                "hu": "Port Blanc-i öböl",
+                "ro": "Golful Port Blanc",
+                "en": "Port Blanc Cove"
+              },
+              "tip_5lang": {
+                "de": "Reinigen Sie nach der Tour die Kette von Sand und Salz; das regnerische Wetter setzt dem Material am Meer besonders zu.",
+                "hu": "A túra után tisztítsa meg a láncot a homoktól és sótól; az esős idő és a tengerparti levegő fokozottan igénybe veszi a felszerelést.",
+                "ro": "După tur, curățați lanțul de nisip și sare; vremea ploioasă și aerul marin afectează mai rapid componentele bicicletei.",
+                "en": "After the tour, clean the chain of sand and salt; the rainy weather and coastal air are particularly harsh on the equipment."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren erfordert gute Vorbereitung: Wir starten morgens bei frostigen Temperaturen, aber strahlend blauem Himmel. Die Luft an den Kapellen ist herrlich frisch.\n\nMittags erreichen wir Kerfany, wo der Wind vom Atlantik kräftig weht – Handschuhe sind hier Pflicht. Nachmittags erkunden wir die Häfen, wobei wir immer die Zeit im Blick haben. Da es ab 17:00 Uhr dunkel wird, beenden wir unsere Tour in Port Blanc mit den letzten Sonnenstrahlen des Tages.",
+            "hu": "A téli kerékpározás jó felkészülést igényel: reggel fagyos hőmérsékletben, de ragyogó kék égbolt mellett indulunk. A kápolnáknál a levegő csodálatosan friss.\n\nDélben érjük el Kerfany-t, ahol az Atlanti-óceán felőli szél erősen fúj – a kesztyű itt kötelező. Délután a kikötőket fedezzük fel, közben figyelve az időt. Mivel 17:00-tól sötétedik, túránkat Port Blanc-ban fejezzük be a nap utolsó sugaraival.",
+            "ro": "Ciclismul de iarnă necesită pregătire: pornim dimineața pe temperaturi de îngheț, dar sub un cer albastru strălucitor. Aerul de lângă capele este minunat de proaspăt.\n\nLa prânz ajungem la Kerfany, unde vântul dinspre Atlantic suflă cu putere – mănușile sunt obligatorii. După-amiaza explorăm porturile, fiind mereu atenți la ceas. Deoarece se întunecă de la ora 17:00, terminăm turul în Port Blanc cu ultimele raze de soare.",
+            "en": "Winter cycling requires good preparation: we start in the morning with freezing temperatures but bright blue skies. The air near the chapels is wonderfully fresh.\n\nAt noon, we reach Kerfany, where the Atlantic wind blows strongly – gloves are a must here. In the afternoon, we explore the harbors while keeping an eye on the time. Since it gets dark from 5:00 PM, we finish our tour in Port Blanc with the day's last rays of sun."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Philibert und Saint-Roch Kapelle",
+                "hu": "Saint-Philibert és Saint-Roch kápolna",
+                "ro": "Capela Saint-Philibert și Saint-Roch",
+                "en": "Saint-Philibert and Saint-Roch Chapel"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz im windgeschützten Eingangsbereich auf, bevor Sie die Fahrt durch die offene Winterlandschaft fortsetzen.",
+                "hu": "Melegedjen fel egy kicsit a szélvédett bejáratnál, mielőtt folytatná az utat a nyílt téli tájon keresztül.",
+                "ro": "Încălziți-vă puțin în zona de intrare protejată de vânt înainte de a continua drumul prin peisajul deschis de iarnă.",
+                "en": "Warm up briefly in the wind-sheltered entrance area before continuing your ride through the open winter landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Kercadoret Dolmen",
+                "hu": "Kercadoret dolmen",
+                "ro": "Dolmenul Kercadoret",
+                "en": "Kercadoret Dolmen"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Pfützen auf den Waldwegen; die tiefstehende Wintersonne wirft lange, dramatische Schatten auf die Steine.",
+                "hu": "Ügyeljen a jeges tócsákra az erdei utakon; az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a kövekre.",
+                "ro": "Atenție la bălțile înghețate de pe drumurile de pădure; soarele slab de iarnă aruncă umbre lungi și dramatice pe pietre.",
+                "en": "Watch out for icy puddles on the forest paths; the low winter sun casts long, dramatic shadows across the stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Küstenpfad GR34",
+                "hu": "GR34-es tengerparti ösvény",
+                "ro": "Poteca de coastă GR34",
+                "en": "GR34 Coastal Path"
+              },
+              "tip_5lang": {
+                "de": "Der kalte Wind kann das Atmen erschweren; tragen Sie ein Halstuch und genießen Sie die absolute Einsamkeit auf dem Pfad.",
+                "hu": "A hideg szél megnehezítheti a légzést; viseljen csősálat, és élvezze a parti ösvényen tapasztalható teljes magányt.",
+                "ro": "Vântul rece poate îngreuna respirația; purtați un fular tip tub și bucurați-vă de singurătatea absolută de pe potecă.",
+                "en": "The cold wind can make breathing difficult; wear a neck gaiter and enjoy the absolute solitude on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kerfany",
+                "hu": "Kerfany strand",
+                "ro": "Plaja Kerfany",
+                "en": "Plaja Kerfany"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine unglaubliche Weitsicht über die Bucht; eine Thermohose schützt Sie bei der Pause am Strand.",
+                "hu": "A tiszta téli levegő hihetetlen kilátást biztosít az öbölre; egy hőtartó nadrág megvédi Önt a tengerparti pihenő során.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate incredibilă asupra golfului; pantalonii termici vă vor proteja în timpul pauzei de pe plajă.",
+                "en": "The clear winter air provides incredible views across the bay; thermal leggings will protect you during your break at the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Brigneau",
+                "hu": "Brigneau kikötője",
+                "ro": "Portul Brigneau",
+                "en": "Port of Brigneau"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist im Winter besonders weich und perfekt für Fotos der bunten Boote im ruhigen Hafenbecken.",
+                "hu": "A délutáni fények télen különösen lágyak, így tökéletesek a nyugodt kikötőben ringatózó színes csónakok fotózásához.",
+                "ro": "Lumina de după-amiază este deosebit de blândă iarna, fiind perfectă pentru fotografii cu bărcile colorate din portul liniștit.",
+                "en": "The afternoon light is particularly soft in winter, making it perfect for photos of the colorful boats in the calm harbor basin."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Merrien",
+                "hu": "Merrien kikötője",
+                "ro": "Portul Merrien",
+                "en": "Port of Merrien"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich einen heißen Kakao in der Nähe, um die Körpertemperatur nach der Fahrt gegen den Wind wieder zu stabilisieren.",
+                "hu": "Kényeztesse magát egy forró kakaóval a közelben, hogy visszaállítsa testhőmérsékletét a széllel szembeni tekerés után.",
+                "ro": "Răsfățați-vă cu o ciocolată caldă în apropiere pentru a vă regla temperatura corpului după pedalarea contra vântului.",
+                "en": "Treat yourself to a hot cocoa nearby to stabilize your body temperature after riding against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Port Blanc",
+                "hu": "Port Blanc-i öböl",
+                "ro": "Golful Port Blanc",
+                "en": "Port Blanc Cove"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihre Fahrradbeleuchtung frühzeitig ein, da die Dämmerung im Dezember sehr rasch in die Dunkelheit übergeht.",
+                "hu": "Kapcsolja be korán a kerékpárvilágítást, mivel decemberben a szürkület nagyon gyorsan sötétségbe fordul.",
+                "ro": "Aprindeți luminile bicicletei din timp, deoarece în decembrie amurgul se transformă foarte rapid în întuneric.",
+                "en": "Turn on your bike lights early, as the December twilight transitions very quickly into darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "A nap lazán indul a központ történelmi nevezetességeivel, mielőtt kényelmesen átautózna a Kerfany strandra. Az ebédidő Brigneau és Merrien autentikus kikötőibe csábítja. Délután felfedezi Port Blanc és Roche Percée zord, sziklás partjait. A szörfösök kedvelt strandja, a Kerou tökéletes befejezése ennek az autós kalandnak.",
         "ro": "Ziua începe relaxant cu atracțiile istorice din centru, înainte de a conduce confortabil spre plaja Kerfany. Ora prânzului vă atrage în porturile autentice Brigneau și Merrien. După-amiaza explorați stâncile abrupte din golful Port Blanc și Roche Percée. Plaja populară printre surferi, Kerou, oferă un final perfect pentru această zi.",
         "en": "The day begins at a relaxed pace with the historic sights in the center, before you take a comfortable drive to Kerfany Beach. Lunchtime draws you into the authentic maritime harbors of Brigneau and Merrien. In the afternoon, explore the rugged cliffs of Port Blanc cove and Roche Percée. The surfer-friendly Kerou Beach provides the perfect finale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour ist die komfortabelste Wahl für einen Regentag. Wir starten trocken an den Kapellen und genießen den Ausblick auf die prasselnden Tropfen. Mittags parken wir direkt am Strand von Kerfany.\n\nNachmittags steuern wir die malerischen Häfen an, wobei das Auto als mobiler Rückzugsort dient. Kurze Sprints zu den Aussichtspunkten reichen aus, um die Atmosphäre einzufangen. Den Abend verbringen wir bei stürmischer See an den Klippen, sicher geschützt hinter der Windschutzscheibe.",
+            "hu": "Az autós túra a legkényelmesebb választás esős időben. Szárazon indulunk a kápolnák mellől, élvezve az ablakon kopogó cseppek látványát. Délben közvetlenül a Kerfany strandnál parkolunk le.\n\nDélután a festői kikötőket keressük fel, miközben az autó mobil menedékként szolgál. Elég egy-egy rövid sprint a kilátópontokhoz, hogy átéljük a hangulatot. Az estét a viharos tenger partján töltjük, biztonságban a szélvédő mögött.",
+            "ro": "Turul cu mașina este cea mai confortabilă alegere pentru o zi ploioasă. Pornim fără să ne udăm de la capele, bucurându-ne de sunetul picăturilor pe parbriz. La prânz parcăm direct lângă plaja Kerfany.\n\nDupă-amiaza vizităm porturile pitorești, mașina servind drept refugiu mobil. Scurte ieșiri spre punctele de belvedere sunt suficiente pentru a surprinde atmosfera. Seara o petrecem lângă marea învolburată, protejați în siguranță în interiorul vehiculului.",
+            "en": "The car tour is the most comfortable choice for a rainy day. We start dry at the chapels, enjoying the view of pattering raindrops. At noon, we park directly at Kerfany Beach.\n\nIn the afternoon, we visit the picturesque harbors, with the car serving as a mobile retreat. Short dashes to the viewpoints are enough to capture the atmosphere. We spend the evening by the stormy sea at the cliffs, safely sheltered behind the windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Philibert und Saint-Roch Kapelle",
+                "hu": "Saint-Philibert és Saint-Roch kápolna",
+                "ro": "Capela Saint-Philibert și Saint-Roch",
+                "en": "Saint-Philibert and Saint-Roch Chapel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz und verbringen Sie mehr Zeit im Inneren der Kapelle, um die Architektur im Trockenen zu bewundern.",
+                "hu": "Használja a közeli parkolót, és töltsön több időt a kápolna belsejében, hogy szárazon csodálhassa meg az építészetet.",
+                "ro": "Folosiți parcarea din apropiere și petreceți mai mult timp în interiorul capelei pentru a admira arhitectura la adăpost.",
+                "en": "Use the nearby parking lot and spend more time inside the chapel to admire the architecture while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kercadoret Dolmen",
+                "hu": "Kercadoret dolmen",
+                "ro": "Dolmenul Kercadoret",
+                "en": "Kercadoret Dolmen"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Regenschirm im Auto und greifen Sie zur Regenjacke; der kurze Fußweg vom Parkplatz zum Dolmen kann windig und nass sein.",
+                "hu": "Hagyja az esernyőt az autóban, és válassza inkább az esőkabátot; a parkolótól a dolmenig vezető rövid út szeles és vizes lehet.",
+                "ro": "Lăsați umbrela în mașină și alegeți o pelerină; scurtul drum de la parcare la dolmen poate fi foarte vântos și umed.",
+                "en": "Leave your umbrella in the car and opt for a raincoat; the short walk from the parking lot to the dolmen can be windy and wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kerfany",
+                "hu": "Kerfany strand",
+                "ro": "Plaja Kerfany",
+                "en": "Kerfany Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer; so können Sie die Brandung beobachten, ohne nass zu werden, falls der Regen stärker wird.",
+                "hu": "Parkoljon a tengerre néző oldalon; így akkor is figyelheti a hullámzást, ha az eső elered, anélkül, hogy megázna.",
+                "ro": "Parcați cu fața spre mare; astfel puteți observa valurile chiar dacă ploaia se intensifică, fără a ieși din mașină.",
+                "en": "Park facing the sea; this way you can watch the surf even if the rain picks up, without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Brigneau",
+                "hu": "Brigneau kikötője",
+                "ro": "Portul Brigneau",
+                "en": "Port of Brigneau"
+              },
+              "tip_5lang": {
+                "de": "Die engen Hafenstraßen sind bei Nässe rutschig; nutzen Sie die Parkbuchten oberhalb des Hafens für den besten Panoramablick bei Regen.",
+                "hu": "A szűk kikötői utak nedvesen csúszósak; használja a kikötő feletti parkolóhelyeket a legjobb esős panorámáért.",
+                "ro": "Drumurile înguste din port sunt alunecoase când sunt ude; folosiți locurile de parcare de deasupra portului pentru cea mai bună panoramă.",
+                "en": "The narrow harbor roads are slippery when wet; use the parking bays above the harbor for the best panoramic view in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Merrien",
+                "hu": "Merrien kikötője",
+                "ro": "Portul Merrien",
+                "en": "Port of Merrien"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den kurvigen Zufahrtsstraßen und genießen Sie den Anblick der Fischerboote direkt aus dem warmen Auto heraus.",
+                "hu": "Vezessen óvatosan a kanyargós bekötőutakon, és élvezze a halászhajók látványát közvetlenül a meleg autóból.",
+                "ro": "Conduceți cu prudență pe drumurile de acces virajate și bucurați-vă de vederea bărcilor de pescuit direct din mașina caldă.",
+                "en": "Drive carefully on the winding access roads and enjoy the sight of the fishing boats directly from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Port Blanc",
+                "hu": "Port Blanc-i öböl",
+                "ro": "Golful Port Blanc",
+                "en": "Port Blanc Cove"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist ein großartiger Ort für 'Stormwatching'; halten Sie die Kamera bereit für spektakuläre Wellenaufnahmen aus dem Fenster.",
+                "hu": "Az öböl kiváló hely a 'viharfigyelésre'; tartsa készenlétben a kamerát a szélvédőn keresztül készíthető látványos hullámfotókhoz.",
+                "ro": "Golful este un loc excelent pentru a urmări furtuna; pregătiți camera pentru fotografii spectaculoare cu valurile prin geamul mașinii.",
+                "en": "The cove is a great spot for 'storm watching'; keep your camera ready for spectacular wave shots through the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Roche Percée",
+                "hu": "Roche Percée strand",
+                "ro": "Plaja Roche Percée",
+                "en": "Roche Percée Beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, zu nah an sandigen Kanten zu parken, da der Boden durch den Dauerregen instabil werden kann.",
+                "hu": "Kerülje a homokos peremekhez közeli parkolást, mivel a talaj a tartós esőzés miatt instabillá válhat.",
+                "ro": "Evitați parcarea prea aproape de marginile nisipoase, deoarece solul poate deveni instabil din cauza ploii persistente.",
+                "en": "Avoid parking too close to sandy edges, as the ground can become unstable due to persistent rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kerou",
+                "hu": "Kerou strand",
+                "ro": "Plaja Kerou",
+                "en": "Kerou Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Auto mit Musik, während Sie dem Rhythmus der Scheibenwischer und dem fernen Grollen des Meeres lauschen.",
+                "hu": "Zárja a napot az autóban zenével, hallgatva az ablaktörlők ütemét és a tenger távoli morajlását.",
+                "ro": "Încheiați ziua în mașină cu muzică, ascultând ritmul ștergătoarelor și vuietul îndepărtat al mării.",
+                "en": "End the day in the car with music, listening to the rhythm of the wipers and the distant roar of the sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber auf vier Rädern: Morgens gleiten wir durch die frostige Landschaft zu den Kapellen, die Heizung sorgt für wohlige Wärme. Mittags genießen wir die klare Sicht am Strand von Kerfany.\n\nNachmittags erkunden wir die verschiedenen Häfen, wobei wir die kurzen Wege zwischen den Stopps schätzen. Da die Dämmerung bereits um 16:30 Uhr einsetzt, erreichen wir den Kerou Strand rechtzeitig zum spektakulären winterlichen Sonnenuntergang, bevor die Nacht über die Küste hereinbricht.",
+            "hu": "Téli varázslat négy keréken: reggel a fagyos tájon át suhanunk a kápolnákhoz, a fűtés pedig kellemes meleget biztosít. Délben a Kerfany strandnál élvezzük a tiszta kilátást.\n\nDélután a különböző kikötőket fedezzük fel, értékelve a megállók közötti rövid távolságokat. Mivel a szürkület már 16:30-kor elkezdődik, a Kerou strandhoz időben érkezünk a látványos téli naplementéhez.",
+            "ro": "Magia iernii pe patru roți: dimineața rulăm prin peisajul înghețat spre capele, în timp ce căldura din mașină este reconfortantă. La prânz ne bucurăm de vizibilitatea clară la plaja Kerfany.\n\nDupă-amiaza explorăm diferitele porturi, apreciind distanțele scurte între opriri. Deoarece amurgul începe deja la ora 16:30, ajungem la plaja Kerou la timp pentru un apus de iarnă spectaculos.",
+            "en": "Winter magic on four wheels: in the morning, we glide through the frosty landscape to the chapels, with the car's heater providing cozy warmth. At noon, we enjoy the clear views at Kerfany Beach.\n\nIn the afternoon, we explore various harbors, appreciating the short distances between stops. As twilight begins at 4:30 PM, we reach Kerou Beach in time for a spectacular winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Philibert und Saint-Roch Kapelle",
+                "hu": "Saint-Philibert és Saint-Roch kápolna",
+                "ro": "Capela Saint-Philibert și Saint-Roch",
+                "en": "Saint-Philibert and Saint-Roch Chapel"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt den Reifendruck und die Scheibenwaschanlage für die salzhaltige Winterluft an der Küste.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást és a szélvédőmosót a parti, sós téli levegő okozta szennyeződések miatt.",
+                "ro": "Înainte de plecare, verificați presiunea în anvelope și lichidul de parbriz pentru aerul salin de iarnă de pe coastă.",
+                "en": "Before leaving, check your tire pressure and windshield washer fluid for the salty winter air on the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Kercadoret Dolmen",
+                "hu": "Kercadoret dolmen",
+                "ro": "Dolmenul Kercadoret",
+                "en": "Kercadoret Dolmen"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren sein; tragen Sie Schuhe mit gutem Profil für den kurzen Spaziergang vom Parkplatz zum Dolmen.",
+                "hu": "A talaj fagyos lehet; viseljen jó tapadású cipőt a parkolótól a dolmenig tartó rövid sétához.",
+                "ro": "Solul poate fi înghețat; purtați încălțăminte cu aderență bună pentru scurta plimbare de la parcare la dolmen.",
+                "en": "The ground may be frozen; wear shoes with good tread for the short walk from the parking lot to the dolmen."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kerfany",
+                "hu": "Kerfany strand",
+                "ro": "Plaja Kerfany",
+                "en": "Kerfany Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das winterliche Meer bei laufender Heizung; ein Picknick im Auto mit Thermoskanne ist jetzt besonders gemütlich.",
+                "hu": "Élvezze a téli tenger látványát járó fűtés mellett; egy autós piknik termoszból töltött itallal most különösen hangulatos.",
+                "ro": "Bucurați-vă de vederea mării de iarnă cu căldura pornită; un picnic în mașină cu un termos este acum deosebit de confortabil.",
+                "en": "Enjoy the view of the winter sea with the heater running; a car picnic with a thermos is especially cozy now."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Brigneau",
+                "hu": "Brigneau kikötője",
+                "ro": "Portul Brigneau",
+                "en": "Port of Brigneau"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze am Hafen sind im Winter leer; ideal für einen schnellen Fotostopp, ohne das Auto lange verlassen zu müssen.",
+                "hu": "A kikötői parkolók télen üresek; ideális egy gyors fotózáshoz anélkül, hogy hosszú időre el kellene hagynia a meleg autót.",
+                "ro": "Parcările din port sunt goale iarna; este ideal pentru o oprire foto rapidă fără a părăsi mașina pentru mult timp.",
+                "en": "The harbor parking lots are empty in winter; ideal for a quick photo stop without having to leave the warm car for long."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Merrien",
+                "hu": "Merrien kikötője",
+                "ro": "Portul Merrien",
+                "en": "Port of Merrien"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße erfordert Vorsicht bei eventueller Glätte; das warme Licht der Hafenlampen sorgt für eine romantische Winterstimmung.",
+                "hu": "A keskeny út óvatosságot igényel az esetleges jegesedés miatt; a kikötői lámpák meleg fénye romantikus téli hangulatot áraszt.",
+                "ro": "Drumul îngust necesită prudență în caz de polei; lumina caldă a felinarelor din port creează o atmosferă romantică de iarnă.",
+                "en": "The narrow road requires caution in case of ice; the warm light of the harbor lamps creates a romantic winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Port Blanc",
+                "hu": "Port Blanc-i öböl",
+                "ro": "Golful Port Blanc",
+                "en": "Port Blanc Cove"
+              },
+              "tip_5lang": {
+                "de": "Verstauen Sie Ihre warme Jacke griffbereit auf dem Rücksitz, damit Sie für einen kurzen Blick auf die Bucht schnell aussteigen können.",
+                "hu": "Tartsa meleg kabátját kéznél a hátsó ülésen, hogy gyorsan kiszállhasson egy rövid pillantásra az öbölre.",
+                "ro": "Țineți jacheta groasă la îndemână pe bancheta din spate, pentru a putea coborî rapid pentru o scurtă privire asupra golfului.",
+                "en": "Keep your warm jacket handy on the back seat so you can quickly hop out for a brief look at the cove."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Roche Percée",
+                "hu": "Roche Percée strand",
+                "ro": "Plaja Roche Percée",
+                "en": "Roche Percée Beach"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Brandung kann Gischt auf die Windschutzscheibe wirbeln; nutzen Sie das Scheibenwasser, um den Salzschleier zu entfernen.",
+                "hu": "A téli hullámzás sót permetezhet a szélvédőre; használja a mosófolyadékot a sós réteg eltávolításához a tiszta kilátásért.",
+                "ro": "Valurile de iarnă pot împroșca sare pe parbriz; folosiți lichidul de spălare pentru a îndepărta pelicula de sare și a vedea clar.",
+                "en": "The winter surf can spray salt onto the windshield; use your washer fluid to remove the salt film for a clear view."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kerou",
+                "hu": "Kerou strand",
+                "ro": "Plaja Kerou",
+                "en": "Kerou Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Licht des Tages für einen kurzen Strandspaziergang und genießen Sie danach die Sitzheizung auf dem Rückweg.",
+                "hu": "Használja ki a nap utolsó fényeit egy rövid tengerparti sétához, majd élvezze az ülésfűtést a hazafelé úton.",
+                "ro": "Profitați de ultima lumină a zilei pentru o scurtă plimbare pe plajă, apoi bucurați-vă de scaunele încălzite la întoarcere.",
+                "en": "Take advantage of the last light of the day for a short beach walk, then enjoy the heated seats on the way back."
+              }
+            }
+          ]
+        }
       }
     }
   }

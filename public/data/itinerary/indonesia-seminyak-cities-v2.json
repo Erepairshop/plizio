@@ -137,6 +137,168 @@
         "hu": "Kezdje Seminyak-i sétáját a nyüzsgő Pasar Desa Adat Legian piacon, egy igazi autentikus élménnyel. Délben a Rynok helyi kereskedelmi szívén keresztül a Nyaman Gallery inspiráló tereibe érkezik. Délután csodálja meg a hagyományos famunkákat a Kenny Furniture üzletében. Az este az Axioo kreatív stúdiójában köszönt be, amely tökéletesen megörökíti a sziget művészi lényegét.",
         "ro": "Începeți plimbarea din Seminyak la piața plină de viață Pasar Desa Adat Legian. La prânz, treceți prin inima comercială de la Rynok și ajungeți în spațiile inspirate ale Nyaman Gallery. Pe măsură ce se lasă după-amiaza, admirați obiectele tradiționale din lemn la Kenny Furniture. Seara cade frumos la Axioo, un studio creativ care surprinde perfect esența artistică a insulei.",
         "en": "Begin your Seminyak stroll at the lively Pasar Desa Adat Legian, an authentic morning experience. Midday brings you through the local trading heart of Rynok and into the inspiring spaces of Nyaman Gallery. As afternoon settles, admire traditional woodcraft at Kenny Furniture. Evening falls beautifully at Axioo, a creative studio capturing the island's artistic essence perfectly."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit tropischen Schauern am Markt, wo überdachte Stände Schutz bieten. Mittags laden schmale Gassen zum Verweilen unter Vordächern ein. Am Nachmittag ist der Besuch trockener Galerien die ideale Flucht vor der Feuchtigkeit. Abends glänzen die Straßen im Regenlicht; achten Sie auf rutschige Fliesen und nutzen Sie die gemütliche Atmosphäre der beleuchteten Innenräume.",
+            "hu": "A reggeli záporok idején a piac fedett részei kínálnak menedéket a nyüzsgésben. Délben a belső udvarok védelmében pihenhetünk meg az eső elől. Délután a galériák steril, száraz környezete ideális a művészet élvezetére. Estére a vizes aszfalton megcsillanó fények különleges hangulatot árasztanak; vigyázzunk a csúszós járdákra és keressük a hívogató, fedett helyszíneket.",
+            "ro": "Dimineața începe cu averse tropicale în piață, unde tarabele acoperite oferă adăpost. La prânz, pasajele interioare sunt refugiul perfect pentru a privi ploaia. După-amiaza, vizitarea galeriilor oferă un mediu uscat și relaxant. Seara, luminile se reflectă superb pe asfaltul umed; aveți grijă la trotuarele alunecoase și bucurați-vă de atmosfera intimă a spațiilor protejate.",
+            "en": "Morning showers bring a fresh scent to the market stalls where you can hide from the downpour. At noon, seek refuge in covered passages while watching the tropical rain. Afternoon gallery visits are the perfect escape from the humidity. By evening, the wet streets reflect the neon lights beautifully; watch your step on slippery tiles and enjoy the cozy indoor vibes of the local spots."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Desa Adat Legian",
+                "hu": "Pasar Desa Adat Legian",
+                "ro": "Pasar Desa Adat Legian",
+                "en": "Pasar Desa Adat Legian"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die festen Markthallen als Schutz vor dem Platzregen und beobachten Sie das bunte Treiben im Trockenen; ein stabiler Regenschirm ist hier unverzichtbar.",
+                "hu": "Használja ki a piac fedett csarnokait a hirtelen lezúduló záporok ellen, miközben a szárazból figyeli a forgatagot; egy strapabíró esernyő itt elengedhetetlen kellék.",
+                "ro": "Folosiți halele acoperite ale pieței pentru a vă adăposti de ploile torențiale în timp ce observați agitația locală; o umbrelă rezistentă este indispensabilă aici.",
+                "en": "Take advantage of the market's covered halls to shelter from sudden downpours while watching the local bustle; a sturdy umbrella is an essential accessory here."
+              }
+            },
+            {
+              "name": {
+                "de": "Rynok",
+                "hu": "Rynok",
+                "ro": "Rynok",
+                "en": "Rynok"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort bietet gute Überdachungen, um die lokalen Waren auch bei Regen zu sichten; tragen Sie rutschfeste Schuhe, da die Bodenbeläge bei Nässe sehr glatt werden.",
+                "hu": "Ez a helyszín jó fedett részeket kínál a helyi áruk böngészéséhez esőben is; viseljen csúszásmentes lábbelit, mert a burkolat nedvesen rendkívül síkossá válik.",
+                "ro": "Această locație oferă zone acoperite bune pentru a răsfoi mărfurile locale chiar și pe ploaie; purtați încălțăminte aderentă, deoarece pavajul devine foarte alunecos.",
+                "en": "This spot offers good covered areas to browse local goods even in the rain; wear non-slip shoes as the pavement becomes extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Nyaman Gallery",
+                "hu": "Nyaman Gallery",
+                "ro": "Nyaman Gallery",
+                "en": "Nyaman Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie ist der perfekte Ort, um den Regen draußen zu vergessen und moderne Kunst im Trockenen zu genießen; nutzen Sie den Schirmständer direkt am Eingang.",
+                "hu": "A galéria tökéletes helyszín, hogy elfelejtse a kinti esőt és szárazon élvezze a kortárs művészetet; használja a bejáratnál kihelyezett esernyőtartót.",
+                "ro": "Galeria este locul perfect pentru a uita de ploaia de afară și a savura arta contemporană la adăpost; folosiți suportul de umbrele situat chiar la intrare.",
+                "en": "The gallery is the perfect place to forget the rain outside and enjoy contemporary art in the dry; make use of the umbrella stand located right at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kenny Furniture",
+                "hu": "Kenny Furniture",
+                "ro": "Kenny Furniture",
+                "en": "Kenny Furniture"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Handwerkskunst in den geschlossenen Ausstellungsräumen, während es draußen stürmt; prüfen Sie Ihre Tasche auf Wasserdichtigkeit für den kurzen Weg.",
+                "hu": "Csodálja meg a kézműves bútorokat a zárt bemutatótermekben, miközben kint tombol a vihar; ellenőrizze táskája vízállóságát a rövid kinti szakaszok előtt.",
+                "ro": "Admirați mobilierul artizanal în sălile de expoziție închise în timp ce afară plouă torențial; verificați impermeabilitatea genții pentru scurtele drumuri externe.",
+                "en": "Admire the handcrafted furniture in the enclosed showrooms while the storm rages outside; check your bag's water resistance for the short outdoor sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Axioo",
+                "hu": "Axioo",
+                "ro": "Axioo",
+                "en": "Axioo"
+              },
+              "tip_5lang": {
+                "de": "Die hellen Innenräume bieten einen tollen Kontrast zum grauen Wetter draußen und laden zum Verweilen ein; halten Sie ein Mikrofasertuch für Ihre Brillengläser bereit.",
+                "hu": "A világos belső terek remek kontrasztot alkotnak a kinti szürke idővel, hívogatva a látogatót; tartson magánál mikroszálas kendőt a vizes szemüveglencsékhez.",
+                "ro": "Interioarele luminoase oferă un contrast excelent cu vremea gri de afară, invitând vizitatorii la relaxare; păstrați o lavetă din microfibră pentru ochelari.",
+                "en": "The bright interiors offer a great contrast to the gray weather outside, inviting you to linger; keep a microfiber cloth handy for wiping wet glasses."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist erfrischend kühl, ideal für einen Spaziergang über den Markt. Mittags ist die Sonne mild und ermöglicht längere Wege ohne große Hitze. Am Nachmittag sollten Sie sich beeilen, da die Dämmerung bereits gegen 17:00 Uhr einsetzt. Die Abende werden spürbar kühler; eine leichte Jacke ist für den Aufenthalt im Freien und gegen die Meeresbrise unbedingt zu empfehlen.",
+            "hu": "A téli reggel frissítően hűvös, ideális a piaci sétához a helyi árusok között. Délben a nap ereje mérsékeltebb, így kényelmesen fedezhetjük fel a környéket. Délután igyekezzünk a programokkal, mert 17:00 körül már beköszönt a sötétség. Az esték hűvösek lehetnek, ezért egy vékonyabb réteget mindenképp vigyünk magunkkal a tengerparti szél ellen.",
+            "ro": "Dimineața de iarnă este revigorant de răcoroasă, ideală pentru o plimbare prin piață. La prânz, soarele este blând, permițând explorarea zonei fără căldură excesivă. După-amiaza, grăbiți vizitele, deoarece amurgul se instalează deja în jurul orei 17:00. Serile devin destul de reci; o jachetă ușoară este recomandată pentru briza mării și aerul nocturn.",
+            "en": "The winter morning is refreshingly cool, ideal for a stroll through the local market stalls. At noon, the sun is mild, allowing for comfortable exploration without the heat. In the afternoon, wrap up your visits early as dusk sets in by 5 PM. Evenings can be quite chilly, so carrying a light layer is highly recommended against the brisk ocean breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Desa Adat Legian",
+                "hu": "Pasar Desa Adat Legian",
+                "ro": "Pasar Desa Adat Legian",
+                "en": "Pasar Desa Adat Legian"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Morgenluft beim Stöbern, bevor die Mittagssonne intensiver wird; bringen Sie eine leichte Strickjacke für den kühlen Schatten der Gassen mit.",
+                "hu": "Élvezze a hűvös reggeli levegőt böngészés közben, mielőtt a déli nap felerősödne; vigyen magával egy könnyű kardigánt a sikátorok hűvös árnyéka miatt.",
+                "ro": "Bucurați-vă de aerul răcoros al dimineții în timp ce explorați tarabele; aduceți un cardigan ușor pentru umbra răcoroasă a aleilor dintre standuri.",
+                "en": "Enjoy the cool morning air while browsing before the midday sun intensifies; bring a light cardigan for the chilly shadows in the market alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Rynok",
+                "hu": "Rynok",
+                "ro": "Rynok",
+                "en": "Rynok"
+              },
+              "tip_5lang": {
+                "de": "Die milden Wintertemperaturen machen das Feilschen auf diesem Markt besonders angenehm; nutzen Sie das weiche Licht für Fotos, bevor die Sonne früh tief steht.",
+                "hu": "A mérsékelt téli hőmérséklet különösen kellemessé teszi az alkudozást ezen a piacon; használja ki a lágy fényeket fotózáshoz, mielőtt a nap korán lebukna.",
+                "ro": "Temperaturile moderate de iarnă fac negocierea în această piață deosebit de plăcută; profitați de lumina difuză pentru fotografii înainte ca soarele să apună.",
+                "en": "The mild winter temperatures make bargaining at this market especially pleasant; take advantage of the soft light for photos before the sun sets early."
+              }
+            },
+            {
+              "name": {
+                "de": "Nyaman Gallery",
+                "hu": "Nyaman Gallery",
+                "ro": "Nyaman Gallery",
+                "en": "Nyaman Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie bietet eine angenehm temperierte Umgebung, um der direkten Wintersonne kurz zu entfliehen; planen Sie den Besuch für die Mittagsstunden ein.",
+                "hu": "A galéria kellemes hőmérsékletű környezetet biztosít, hogy rövid időre elmeneküljön a közvetlen téli nap elől; tervezze a látogatást a déli órákra.",
+                "ro": "Galeria oferă un mediu cu temperatură controlată pentru a evada scurt de soarele direct de iarnă; planificați vizita în orele amiezii pentru confort maxim.",
+                "en": "The gallery provides a pleasantly temperature-controlled environment to briefly escape the direct winter sun; plan your visit for the midday hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Kenny Furniture",
+                "hu": "Kenny Furniture",
+                "ro": "Kenny Furniture",
+                "en": "Kenny Furniture"
+              },
+              "tip_5lang": {
+                "de": "In den klimatisierten Räumen ist es im Winter oft kühler als draußen; ein leichter Schal schützt Sie vor dem Temperaturunterschied beim Betreten des Ladens.",
+                "hu": "A légkondicionált helyiségekben télen gyakran hűvösebb van, mint kint; egy könnyű sál megvédi a hirtelen hőmérséklet-változástól belépéskor.",
+                "ro": "În spațiile cu aer condiționat este adesea mai răcoare iarna decât afară; o eșarfă ușoară vă protejează de schimbarea bruscă de temperatură la intrare.",
+                "en": "The air-conditioned rooms are often cooler in winter than the outside air; a light scarf will protect you from the sudden temperature shift upon entry."
+              }
+            },
+            {
+              "name": {
+                "de": "Axioo",
+                "hu": "Axioo",
+                "ro": "Axioo",
+                "en": "Axioo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor 17:00 Uhr, um die letzten Sonnenstrahlen des Tages einzufangen; danach kühlt es für den Rückweg schnell merklich ab.",
+                "hu": "Látogasson el ide nem sokkal 17:00 előtt, hogy elcsípje a nap utolsó sugarait; utána a hazaútra gyorsan és érezhetően lehűl majd a levegő.",
+                "ro": "Vizitați această locație cu puțin timp înainte de ora 17:00 pentru a prinde ultimele raze de soare; după aceea, aerul se va răci rapid pentru drumul de întoarcere.",
+                "en": "Visit this spot shortly before 5 PM to catch the last rays of the day; afterwards, the air will cool down quickly and noticeably for your walk back."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpártúráját a Taman Bali Market piacán, magába szívva az élénk reggeli hangulatot. Délben az Artissimo Gallery kifinomult ázsiai művészete és az Ikat bonyolult textíliái várják. Délután tekerjen a szent Pura Petitenget tengerparti templom felé. Zárja aktív napját a tengerparti sea vu play pihentető közegében, majd tegyen egy kellemes sétát a pezsgő Kayu aya mentén.",
         "ro": "Începeți traseul cu bicicleta la Taman Bali Market, bucurându-vă de vibrațiile energice ale dimineții. La prânz, explorați arta asiatică de la Artissimo Gallery și textilele de la Ikat. După-amiaza, pedalați spre templul sacru Pura Petitenget de la malul mării. Încheiați-vă ziua activă relaxându-vă la sea vu play, urmat de o plimbare plăcută pe strada plină de viață Kayu aya.",
         "en": "Kick off your cycling route at Taman Bali Market, soaking in the energetic morning vibes. Midday invites you to explore the refined Asian art at Artissimo Gallery and the intricate textiles of Ikat. In the afternoon, ride towards the sacred seaside grounds of Pura Petitenget. Finish your active day relaxing near the beach at sea vu play, followed by a stroll along vibrant Kayu aya."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert am Morgen erhöhte Vorsicht auf den glatten Straßen Seminyaks. Mittags empfiehlt sich eine Pause in einem der vielen Cafés, bis der schwerste Guss vorbei ist. Nachmittags gleiten Sie durch Pfützen und genießen die kühle Brise. Abends spiegeln sich die Lichter in den nassen Fahrbahnen; achten Sie besonders auf Schlaglöcher, die unter Wasser verborgen sein könnten.",
+            "hu": "Az esőben való kerékpározás reggel fokozott figyelmet igényel Seminyak csúszós útjain. Délben érdemes megállni egy kávézóban, amíg a hevesebb zápor elvonul. Délután a pocsolyák között szlalomozva élvezheti a frissítő szelet. Estére a lámpák fényei megcsillannak a vizes aszfalton; ügyeljen a víz alatt rejtőző kátyúkra és a csúszós kanyarokra.",
+            "ro": "Mersul pe bicicletă în ploaie necesită atenție sporită dimineața pe străzile alunecoase din Seminyak. La prânz, se recomandă o pauză la o cafenea până trece ploaia torențială. După-amiaza, pedalați printre bălți bucurându-vă de briza răcoroasă. Seara, luminile se oglindesc în carosabilul umed; fiți atenți la gropile care ar putea fi ascunse sub apă.",
+            "en": "Cycling in the rain requires extra caution on Seminyak's slippery roads in the morning. At noon, it's wise to take a break in a cafe until the heaviest downpour passes. In the afternoon, glide through puddles and enjoy the cooling breeze. By evening, lights shimmer on the wet asphalt; stay alert for potholes that might be hidden under the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Taman Bali Market",
+                "hu": "Taman Bali Market",
+                "ro": "Taman Bali Market",
+                "en": "Taman Bali Market"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem erhöhten, trockenen Ort und nutzen Sie den Markt als Unterstand; eine wasserfeste Sattelabdeckung hält Ihren Sitz trocken.",
+                "hu": "Parkolja le kerékpárját egy magasabb, száraz ponton, és használja a piacot menedékként; egy vízálló nyeregvédő szárazon tartja az ülést a látogatás alatt.",
+                "ro": "Parcați bicicleta într-un loc mai înalt și uscat și folosiți piața ca adăpost; o husă impermeabilă pentru șa vă va menține scaunul uscat pe durata vizitei.",
+                "en": "Park your bike in a higher, dry spot and use the market as shelter; a waterproof saddle cover will keep your seat dry during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Artissimo Gallery",
+                "hu": "Artissimo Gallery",
+                "ro": "Artissimo Gallery",
+                "en": "Artissimo Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie bietet eine perfekte Pause vom nassen Radweg; stellen Sie sicher, dass Ihre Bremsen auf den nassen Straßen vor der Ankunft gut greifen.",
+                "hu": "A galéria tökéletes pihenőt nyújt a vizes kerékpárútról; érkezés előtt győződjön meg róla, hogy fékjei jól fognak a nedves aszfalton.",
+                "ro": "Galeria oferă un popas perfect departe de drumul ud; asigurați-vă că frânele funcționează bine pe asfaltul umed înainte de a ajunge la destinație.",
+                "en": "The gallery provides a perfect break from the wet bike path; make sure your brakes are working well on the damp asphalt before you arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Ikat",
+                "hu": "Ikat",
+                "ro": "Ikat",
+                "en": "Ikat"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt im Museum, um Ihre Regenbekleidung abtropfen zu lassen; vermeiden Sie beim Losfahren scharfes Bremsen auf markierten Fahrbahnen.",
+                "hu": "Használja ki a múzeumi tartózkodást az esőruházat lecsepegtetésére; induláskor kerülje a hirtelen fékezést a felfestett útfelületeken.",
+                "ro": "Folosiți timpul petrecut în muzeu pentru a lăsa echipamentul de ploaie să se scurgă; la plecare, evitați frânarea bruscă pe marcajele rutiere umede.",
+                "en": "Use your time in the museum to let your rain gear drip dry; when leaving, avoid sharp braking on painted road surfaces as they are slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Petitenget",
+                "hu": "Pura Petitenget",
+                "ro": "Pura Petitenget",
+                "en": "Pura Petitenget"
+              },
+              "tip_5lang": {
+                "de": "Der Tempelbereich kann bei Regen sehr rutschig sein; tragen Sie Sandalen mit gutem Profil und parken Sie Ihr Rad standsicher auf festem Boden.",
+                "hu": "A templom udvara esőben nagyon csúszós lehet; viseljen jó tapadású szandált, és parkolja le kerékpárját stabilan, szilárd talajon.",
+                "ro": "Curtea templului poate fi foarte alunecoasă pe ploaie; purtați sandale cu aderență bună și parcați bicicleta stabil pe un teren solid.",
+                "en": "The temple grounds can be very slippery in the rain; wear sandals with good grip and park your bike securely on firm ground."
+              }
+            },
+            {
+              "name": {
+                "de": "sea vu play",
+                "hu": "sea vu play",
+                "ro": "sea vu play",
+                "en": "sea vu play"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz unter den großen Sonnenschirmen, die nun als Regenschutz dienen; ein bunter Regenponcho sorgt für bessere Sichtbarkeit im Verkehr.",
+                "hu": "Keressen helyet a nagy napernyők alatt, amelyek most esővédőként szolgálnak; egy színes esőponchó jobb láthatóságot biztosít a forgalomban.",
+                "ro": "Găsiți un loc sub umbrelele mari care acum servesc drept protecție împotriva ploii; un poncho colorat asigură o vizibilitate mai bună în trafic.",
+                "en": "Find a spot under the large umbrellas that now serve as rain protection; a colorful rain poncho will ensure better visibility in traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Kayu aya",
+                "hu": "Kayu aya",
+                "ro": "Kayu aya",
+                "en": "Kayu aya"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier und wischen Sie Ihr Rad kurz trocken, um Korrosion zu vermeiden; die beleuchtete Straße ist abends bei Regen besonders stimmungsvoll.",
+                "hu": "Fejezze be itt a túrát, és törölje szárazra a kerékpárt a korrózió elkerülése érdekében; a kivilágított utca esőben különösen hangulatos este.",
+                "ro": "Încheiați turul aici și ștergeți bicicleta pentru a evita coroziunea; strada iluminată este deosebit de atmosferică seara pe timp de ploaie.",
+                "en": "End your tour here and wipe your bike dry to prevent corrosion; the illuminated street is especially atmospheric in the rain during the evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen auf dem Rad bietet die perfekte Frische ohne die drückende Schwüle des Sommers. Mittags ist das Fahren bei milden Temperaturen sehr angenehm und weniger ermüdend. Am Nachmittag taucht die tiefstehende Sonne die Straßen in ein goldenes Licht, doch um 17:00 Uhr wird es bereits dunkel. Abends kühlt der Fahrtwind deutlich ab; tragen Sie unbedingt eine Windjacke für die Rückfahrt.",
+            "hu": "A téli reggel a kerékpáron tökéletes frissességet kínál a nyári fülledtség nélkül. Délben a mérsékelt hőmérséklet mellett a tekerés kevésbé fárasztó és nagyon kellemes. Délután az alacsonyan járó nap arany fénybe vonja az utcákat, de 17:00-kor már sötétedik. Este a menetszél jelentősen lehűti a levegőt; mindenképp viseljen szélkabátot a hazaúton.",
+            "ro": "O dimineață de iarnă pe bicicletă oferă o prospețime perfectă, fără zăpușeala verii. La prânz, pedalatul la temperaturi moderate este mult mai puțin obositor și foarte plăcut. După-amiaza, soarele jos îmbracă străzile într-o lumină aurie, dar la ora 17:00 se întunecă deja. Seara, vântul de mișcare răcește aerul; purtați o jachetă de vânt pentru drum.",
+            "en": "A winter morning on the bike offers perfect freshness without the summer's oppressive humidity. At noon, cycling in mild temperatures is much less tiring and very pleasant. In the afternoon, the low sun bathes the streets in golden light, but it gets dark by 5 PM. In the evening, the wind chill becomes significant; be sure to wear a windbreaker for the ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Taman Bali Market",
+                "hu": "Taman Bali Market",
+                "ro": "Taman Bali Market",
+                "en": "Taman Bali Market"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühlen Morgenstunden für den Marktbesuch, wenn die Waren am frischesten sind; ein leichtes Langarmshirt schützt vor dem kühlen Fahrtwind.",
+                "hu": "Használja ki a hűvös reggeli órákat a piaci látogatáshoz, amikor az áruk a legfrissebbek; egy könnyű hosszú ujjú póló megvédi a hűvös menetszéltől.",
+                "ro": "Profitați de orele răcoroase ale dimineții pentru vizita la piață, când produsele sunt cele mai proaspete; o bluză subțire vă protejează de vântul de mișcare.",
+                "en": "Take advantage of the cool morning hours for the market visit when goods are freshest; a light long-sleeved shirt will protect you from the cool wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Artissimo Gallery",
+                "hu": "Artissimo Gallery",
+                "ro": "Artissimo Gallery",
+                "en": "Artissimo Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie ist ein idealer Ort für eine Pause während der Mittagssonne; achten Sie darauf, Ihr Rad im Schatten zu parken, da Metallsättel trotzdem heiß werden.",
+                "hu": "A galéria ideális helyszín egy pihenőre a déli napsütésben; ügyeljen rá, hogy árnyékban parkoljon, mert a fém alkatrészek így is átforrósodhatnak.",
+                "ro": "Galeria este un loc ideal pentru o pauză în timpul soarelui de amiază; parcați bicicleta la umbră, deoarece șaua și ghidonul se pot încinge totuși.",
+                "en": "The gallery is an ideal spot for a break during the midday sun; be sure to park your bike in the shade as metal parts can still get quite hot."
+              }
+            },
+            {
+              "name": {
+                "de": "Ikat",
+                "hu": "Ikat",
+                "ro": "Ikat",
+                "en": "Ikat"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Museum bei milden Außentemperaturen; prüfen Sie vor der Weiterfahrt den Reifendruck, da dieser bei Kälte leicht sinken kann.",
+                "hu": "Élvezze a múzeum nyugalmát a mérsékelt külső hőmérséklet mellett; indulás előtt ellenőrizze a guminyomást, mert a hűvösebb időben kissé csökkenhet.",
+                "ro": "Bucurați-vă de liniștea muzeului la temperaturi exterioare blânde; verificați presiunea pneurilor înainte de plecare, deoarece poate scădea la răcoare.",
+                "en": "Enjoy the museum's tranquility in mild outdoor temperatures; check your tire pressure before moving on, as it can drop slightly in cooler weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Petitenget",
+                "hu": "Pura Petitenget",
+                "ro": "Pura Petitenget",
+                "en": "Pura Petitenget"
+              },
+              "tip_5lang": {
+                "de": "Der späte Nachmittag bietet hier das beste Licht für Winterfotos; nehmen Sie für den Tempelbesuch ein Tuch zum Umhängen mit, das auch gegen Abendkühle hilft.",
+                "hu": "A késő délután kínálja itt a legjobb fényeket a téli fotókhoz; vigyen magával egy sálat a templomlátogatáshoz, ami az esti hűvös ellen is jó lesz.",
+                "ro": "După-amiaza târzie oferă aici cea mai bună lumină pentru fotografii de iarnă; aduceți un eșarfă pentru templu, care va fi utilă și împotriva răcorii serii.",
+                "en": "Late afternoon offers the best light for winter photos here; bring a sarong for the temple visit, which will also help against the evening chill."
+              }
+            },
+            {
+              "name": {
+                "de": "sea vu play",
+                "hu": "sea vu play",
+                "ro": "sea vu play",
+                "en": "sea vu play"
+              },
+              "tip_5lang": {
+                "de": "Die offene Gestaltung ist im Winter sehr angenehm durch die stete Brise; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Sonnenuntergang bereit ist.",
+                "hu": "A nyitott kialakítás télen a folyamatos szellő miatt nagyon kellemes; győződjön meg róla, hogy a kerékpáros világítása készen áll a korai naplementére.",
+                "ro": "Designul deschis este foarte plăcut iarna datorită brizei constante; asigurați-vă că luminile bicicletei sunt gata pentru apusul timpuriu al soarelui.",
+                "en": "The open design is very pleasant in winter due to the steady breeze; ensure your bike lights are ready and functional for the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Kayu aya",
+                "hu": "Kayu aya",
+                "ro": "Kayu aya",
+                "en": "Kayu aya"
+              },
+              "tip_5lang": {
+                "de": "Der Abend hier ist lebendig, aber kühler als im Sommer; ziehen Sie eine zusätzliche Schicht an, bevor Sie sich für den Rückweg wieder auf das Rad schwingen.",
+                "hu": "Az este itt életteli, de hűvösebb, mint nyáron; vegyen fel egy plusz réteget, mielőtt újra nyeregbe szállna a hazaúthoz.",
+                "ro": "Seara aici este plină de viață, dar mai răcoroasă decât vara; puneți-vă un strat suplimentar de haine înainte de a pleca înapoi cu bicicleta.",
+                "en": "The evening here is lively but cooler than in summer; put on an extra layer before hopping back on your bike for the return journey."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Kezdje autós túráját a frissítő Zahara Urban Farm zöldellő területén, és fedezze fel az ökológiai kezdeményezéseket. Délben vízi kalandok várják a búvárközpontban, majd a Nyaman Gallery lenyűgöző műalkotásai. Késő délután érkezzen meg az ikonikus Pura Petitenget templomhoz. Zárja a napot egy varázslatos autózással a Batubelig Beach homokos partjára egy tökéletes naplementéért.",
         "ro": "Începeți turul cu mașina la revigoranta Zahara Urban Farm, explorând inițiativele verzi. La prânz veți descoperi aventuri acvatice la centrul de scufundări și opere de artă prestigioase la Nyaman Gallery. După-amiaza, ajungeți la emblematicul Pura Petitenget pentru a-i absorbi istoria spirituală. Încheiați cu o seară superbă la Batubelig Beach pentru un apus de soare perfect.",
         "en": "Start your driving tour at the refreshing Zahara Urban Farm, exploring the green initiatives. Midday leads you to discover aquatic adventures at the diving center and the prestigious artworks inside Nyaman Gallery. By mid-afternoon, arrive at the iconic Pura Petitenget to absorb its spiritual history. Conclude with a stunning twilight drive to Batubelig Beach for a perfect sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag im Auto ist die komfortabelste Art, Seminyak zu erkunden, während die Tropengüsse gegen die Scheiben trommeln. Mittags genießen Sie trockene Transfers zwischen den Zielen. Nachmittags kann der Verkehr bei Regen zunehmen, planen Sie also etwas mehr Zeit ein. Abends bietet die Fahrt durch die beleuchteten, regennassen Straßen eine fast filmreife und gemütliche Kulisse.",
+            "hu": "Az esős nap az autóban a legkényelmesebb módja Seminyak felfedezésének, miközben a trópusi zápor az ablakon kopog. Délben élvezze a száraz utazást a helyszínek között. Délután az eső miatt a forgalom lelassulhat, ezért számoljon több menetidővel. Estére a kivilágított, vizes utcákon való autózás szinte filmszerű és rendkívül hangulatos élményt nyújt.",
+            "ro": "O zi ploioasă în mașină este cel mai confortabil mod de a explora Seminyak în timp ce aversele tropicale bat în geam. La prânz, bucurați-vă de transferuri uscate între destinații. După-amiaza, traficul se poate aglomera din cauza ploii, așa că planificați mai mult timp. Seara, condusul prin străzile iluminate și ude oferă un decor aproape cinematografic și primitor.",
+            "en": "A rainy day in the car is the most comfortable way to explore Seminyak while tropical downpours drum against the windows. At noon, enjoy dry transfers between stops. In the afternoon, traffic can increase during the rain, so allow for extra travel time. By evening, driving through the illuminated, wet streets provides an almost cinematic and cozy backdrop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zahara Urban Farm",
+                "hu": "Zahara Urban Farm",
+                "ro": "Zahara Urban Farm",
+                "en": "Zahara Urban Farm"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich direkt am Eingang absetzen, um nicht nass zu werden; der Garten wirkt im Regen besonders sattgrün und tropisch, ideal für Fotos vom Auto aus.",
+                "hu": "Szálljon ki közvetlenül a bejáratnál, hogy ne ázzon meg; a kert esőben különösen dús és zöld, ideális fotótémát nyújtva akár az autó ablakából is.",
+                "ro": "Cereți să fiți lăsat chiar la intrare pentru a nu vă uda; grădina pare deosebit de verde și tropicală pe ploaie, ideală pentru poze din mașină.",
+                "en": "Get dropped off right at the entrance to stay dry; the garden looks especially lush and tropical in the rain, perfect for photos even from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Adventure scuba diving",
+                "hu": "Adventure scuba diving",
+                "ro": "Adventure scuba diving",
+                "en": "Adventure scuba diving"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Wartebereich für Informationen; da Sie ohnehin nass werden könnten, ist dies der perfekte Stopp für einen Regentag im klimatisierten Auto.",
+                "hu": "Használja a fedett várótermet a tájékozódáshoz; mivel itt amúgy is vizes lehetne, ez a tökéletes megálló egy esős napon a légkondicionált autóval.",
+                "ro": "Folosiți zona de așteptare acoperită pentru informații; fiindcă oricum v-ați putea uda aici, este oprirea perfectă pentru o zi ploioasă cu mașina.",
+                "en": "Use the covered waiting area for information; since you might get wet anyway, this is the perfect stop for a rainy day in a climate-controlled car."
+              }
+            },
+            {
+              "name": {
+                "de": "Nyaman Gallery",
+                "hu": "Nyaman Gallery",
+                "ro": "Nyaman Gallery",
+                "en": "Nyaman Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie bietet eine wunderbare Flucht vor dem prasselnden Regen; parken Sie so nah wie möglich am Eingang und halten Sie Ihren Regenschirm griffbereit.",
+                "hu": "A galéria csodálatos menekülést kínál a szakadó eső elől; parkoljanak a lehető legközelebb a bejárathoz, és tartsák készenlétben az esernyőt.",
+                "ro": "Galeria oferă o evadare minunată de ploaia torențială; parcați cât mai aproape de intrare și aveți umbrela pregătită pentru scurta distanță.",
+                "en": "The gallery offers a wonderful escape from the pouring rain; park as close to the entrance as possible and keep your umbrella ready for the dash inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Petitenget",
+                "hu": "Pura Petitenget",
+                "ro": "Pura Petitenget",
+                "en": "Pura Petitenget"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Zeremonien bei Regen geschützt vom Auto aus oder nutzen Sie die Tempel-Pavillons; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "Figyelje a szertartásokat az autó védelméből vagy használja a templomi pavilonokat; kiszálláskor ügyeljen az út szélén kialakuló mély pocsolyákra.",
+                "ro": "Observați ceremoniile din protecția mașinii sau folosiți pavilioanele templului; la coborâre, fiți atenți la bălțile adânci de la marginea drumului.",
+                "en": "Watch the ceremonies from the safety of the car or use the temple pavilions; when getting out, watch for deep puddles forming at the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Batubelig Beach",
+                "hu": "Batubelig Beach",
+                "ro": "Batubelig Beach",
+                "en": "Batubelig Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Aussicht auf das stürmische Meer direkt durch die Frontscheibe; die salzige Gischt wird durch den Regen angenehm abgemildert.",
+                "hu": "Élvezze a viharos tenger drámai látványát közvetlenül a szélvédőn keresztül; a sós permetet az eső kellemesen lágyítja ezen a partszakaszon.",
+                "ro": "Bucurați-vă de vederea dramatică a mării agitate direct prin parbriz; vaporii sărați sunt atenuați plăcut de ploaie pe această porțiune de coastă.",
+                "en": "Enjoy the dramatic view of the stormy sea directly through the windshield; the salty spray is pleasantly softened by the rain on this coastal stretch."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen im Auto beginnt angenehm mild, ohne dass die Klimaanlage sofort auf Hochtouren laufen muss. Mittags ist das Licht perfekt für Besichtigungen bei gemäßigten Temperaturen. Der Nachmittag bietet klare Sichtverhältnisse, aber der Sonnenuntergang gegen 17:00 Uhr kommt überraschend früh. Abends ist es im Auto gemütlich, während die Außenluft merklich abkühlt und die Stadt zum Leben erwacht.",
+            "hu": "A téli reggel az autóban kellemesen indul, anélkül, hogy a klímának azonnal teljes gőzzel kellene mennie. Délben a fények tökéletesek a városnézéshez a mérsékelt hőmérséklet mellett. A délután tiszta látási viszonyokat kínál, de a 17:00 körüli naplemente váratlanul korán érkezik. Este az autóban barátságos a hangulat, miközben kint érezhetően lehűl a levegő.",
+            "ro": "O dimineață de iarnă în mașină începe plăcut, fără a fi nevoie ca aerul condiționat să funcționeze la maximum. La prânz, lumina este perfectă pentru vizitare la temperaturi moderate. După-amiaza oferă vizibilitate clară, dar apusul de la ora 17:00 vine surprinzător de devreme. Seara este primitor în mașină, în timp ce aerul exterior se răcește vizibil.",
+            "en": "A winter morning in the car starts pleasantly mild, without needing the AC to run at full blast immediately. At noon, the light is perfect for sightseeing in moderate temperatures. The afternoon offers clear views, but the sunset around 5 PM arrives surprisingly early. In the evening, the car is cozy while the outside air cools down significantly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zahara Urban Farm",
+                "hu": "Zahara Urban Farm",
+                "ro": "Zahara Urban Farm",
+                "en": "Zahara Urban Farm"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Farm am kühlen Morgen, wenn die Tiere am aktivsten sind; die Wintersonne ist weniger aggressiv, ideal für einen kurzen Rundgang im Freien.",
+                "hu": "Látogasson el a farmra a hűvös reggelen, amikor az állatok a legaktívabbak; a téli nap kevésbé agresszív, így ideális egy rövid szabadtéri körúthoz.",
+                "ro": "Vizitați ferma în dimineața răcoroasă când animalele sunt cele mai active; soarele de iarnă este mai puțin agresiv, ideal pentru un scurt tur în aer liber.",
+                "en": "Visit the farm in the cool morning when animals are most active; the winter sun is less aggressive, ideal for a short outdoor walking tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Adventure scuba diving",
+                "hu": "Adventure scuba diving",
+                "ro": "Adventure scuba diving",
+                "en": "Adventure scuba diving"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser kann im Winter etwas kühler sein; halten Sie nach dem Tauchgang ein warmes Handtuch im Auto bereit, um sich vor dem Fahrtwind zu schützen.",
+                "hu": "A víz télen valamivel hűvösebb lehet; merülés után tartson készenlétben egy meleg törölközőt az autóban, hogy megvédje magát a menetszéltől.",
+                "ro": "Apa poate fi ceva mai rece iarna; păstrați un prosop cald în mașină după scufundare pentru a vă proteja de răceala vântului la plecare.",
+                "en": "The water can be a bit cooler in winter; keep a warm towel ready in the car after your dive to protect yourself from the wind chill when leaving."
+              }
+            },
+            {
+              "name": {
+                "de": "Nyaman Gallery",
+                "hu": "Nyaman Gallery",
+                "ro": "Nyaman Gallery",
+                "en": "Nyaman Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie bietet eine gute Pause von der intensiven Mittagssonne; lassen Sie die Fenster im Auto einen Spalt offen, um die frische Winterluft zirkulieren zu lassen.",
+                "hu": "A galéria jó pihenőt kínál az intenzív déli napsütés elől; hagyja az autó ablakait résnyire nyitva, hogy a friss téli levegő átjárja az utasteret.",
+                "ro": "Galeria oferă un popas bun de soarele intens de la amiază; lăsați ferestrele mașinii întredeschise pentru a permite aerului proaspăt de iarnă să circule.",
+                "en": "The gallery provides a good break from the intense midday sun; leave the car windows slightly open to let the fresh winter air circulate inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Petitenget",
+                "hu": "Pura Petitenget",
+                "ro": "Pura Petitenget",
+                "en": "Pura Petitenget"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie rechtzeitig vor 17:00 Uhr, um den Tempel im letzten Tageslicht zu sehen; danach kühlt es für den kurzen Fußweg vom Parkplatz schnell ab.",
+                "hu": "Parkoljon le jóval 17:00 előtt, hogy a templomot az utolsó nappali fényben lássa; utána a parkolótól tartó rövid sétához gyorsan lehűl majd az idő.",
+                "ro": "Parcați cu mult înainte de ora 17:00 pentru a vedea templul în ultima lumină a zilei; după aceea, aerul se va răci rapid pentru scurta plimbare.",
+                "en": "Park well before 5 PM to see the temple in the last daylight; after that, it will cool down quickly for the short walk from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Batubelig Beach",
+                "hu": "Batubelig Beach",
+                "ro": "Batubelig Beach",
+                "en": "Batubelig Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strandbesuch ist am späten Nachmittag am schönsten; nehmen Sie eine leichte Jacke aus dem Auto mit, da der Wind am Meer im Winter sehr frisch sein kann.",
+                "hu": "A strandlátogatás késő délután a legszebb; vigyen ki egy könnyű kabátot az autóból, mert a tenger felől fújó szél télen nagyon friss lehet.",
+                "ro": "Vizita la plajă este cea mai frumoasă după-amiaza târziu; luați o jachetă ușoară din mașină, deoarece vântul de pe mare poate fi foarte rece iarna.",
+                "en": "The beach visit is most beautiful in the late afternoon; take a light jacket from the car as the sea breeze can be very brisk during winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

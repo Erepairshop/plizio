@@ -137,6 +137,168 @@
         "hu": "Kezdje a gyalogtúrát a modern Amos Rex kreatív terében, mielőtt átsétálna a HAM Művészeti Múzeumba. Délidőben csodálja meg a hihetetlen biológiai sokféleséget a Természettudományi Múzeumban. Délután merüljön el Finnország világhírű funkcionális esztétikájában az Építészeti és Dizájnmúzeumban. Zárja a napot a Helsinki Városi Múzeumban, elmélyülve a helyi történelemben.",
         "ro": "Începeți turul pietonal plin de creativitate la modernul Amos Rex, înainte de a merge la HAM. La prânz, admirați biodiversitatea incredibilă la Muzeul de Istorie Naturală. Petreceți după-amiaza descoperind estetica funcțională finlandeză la Muzeul de Arhitectură și Design. Încheiați ziua la Muzeul Orașului Helsinki, absorbind istoria locală profundă a capitalei.",
         "en": "Start your Helsinki walking tour immersed in creativity at the modern Amos Rex, before strolling over to the HAM Helsinki Art Museum. As midday approaches, marvel at the incredible biodiversity at the Naturhistorisches Museum. Spend your afternoon delving into Finland's world-renowned functional aesthetics at the Architecture and Design Museum. Conclude your day at the Helsinki City Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Amos Rex, wo die unterirdischen Galerien perfekten Schutz vor dem Regen bieten. Mittags geht es zum HAM im Tennispalatsi, einem idealen Ort, um trocken zu bleiben. Am Nachmittag erkunden Sie das Designmuseum in geschlossenen Räumen. Den Abend lassen Sie im Stadtmuseum ausklingen, das eine gemütliche Atmosphäre bietet, während es draußen ununterbrochen weiterregnet.",
+            "hu": "Kezdje a reggelt az Amos Rex földalatti termeiben, ahol az eső nem zavarhatja meg a művészi élményt. Délben a közeli HAM múzeumba látogatunk, amely tágas, fedett tereivel ideális menedék. Délután a dizájn és építészet világában mélyedünk el beltéren. A napot a Városi Múzeumban zárjuk, ahol a történelmi falak között várakozhatunk, amíg az esti zápor elvonul a belváros felett.",
+            "ro": "Începeți dimineața la Amos Rex, unde galeriile subterane oferă un adăpost perfect împotriva ploii. La prânz, mergeți la HAM în Tennispalatsi, un loc ideal pentru a rămâne uscat. După-amiaza, explorați Muzeul de Design în spații interioare protejate. Seara se încheie la Muzeul Orașului, care oferă o atmosferă primitoare în timp ce afară plouă neîncetat pe străzile Helsinkiului.",
+            "en": "Start your morning at Amos Rex, where the underground galleries provide perfect shelter from the rain. At noon, head to HAM in the Tennis Palace, an ideal spot to stay dry while enjoying art. In the afternoon, explore the Design Museum's indoor exhibits. End the evening at the City Museum, offering a cozy atmosphere while the rain continues to fall outside on the city streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Amos Rex",
+                "hu": "Amos Rex",
+                "ro": "Amos Rex",
+                "en": "Amos Rex"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die surrealen unterirdischen Galerien, während der Regen auf die Kuppeln peitscht; ein perfekter Zufluchtsort im Stadtzentrum mit beeindruckender Lichtkunst.",
+                "hu": "Fedezze fel a szürreális földalatti galériákat, miközben az eső a kinti dómokon kopog; ez a tökéletes száraz menedék a belvárosban, ahol különleges fényhatások várják.",
+                "ro": "Explorați galeriile subterane suprareale în timp ce ploaia bate în domurile de deasupra; este refugiul perfect uscat din centrul orașului, oferind expoziții de artă unice.",
+                "en": "Explore the surreal underground galleries while the rain splashes on the iconic domes above; it's the ultimate dry refuge in the city center, featuring unique light art."
+              }
+            },
+            {
+              "name": {
+                "de": "Helsingin taidemuseo HAM",
+                "hu": "Helsingin taidemuseo HAM",
+                "ro": "Muzeul de Artă HAM din Helsinki",
+                "en": "Helsingin taidemuseo HAM"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum befindet sich im massiven Tennispalatsi-Komplex; nutzen Sie die weiten Korridore, um sich abzutrocknen, bevor Sie Tove Janssons Fresken bewundern.",
+                "hu": "A múzeum a hatalmas Tennispalatsi épületében található; használja a tágas folyosókat a szárítkozásra, mielőtt megcsodálná Tove Jansson lenyűgöző freskóit.",
+                "ro": "Acest muzeu este situat în complexul masiv Tennispalatsi; folosiți coridoarele largi pentru a vă usca înainte de a admira frescele celebrei Tove Jansson.",
+                "en": "This museum is located within the massive Tennispalatsi complex; use the wide corridors to dry off before admiring Tove Jansson's stunning and colorful frescoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturhistorisches Museum",
+                "hu": "Természettudományi Múzeum",
+                "ro": "Muzeul de Istorie Naturală",
+                "en": "Naturhistorisches Museum"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvollen Treppenhäuser bieten eine elegante Flucht vor dem Schmuddelwetter; achten Sie auf die Elche im Treppenhaus und nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "A pompás lépcsőházak elegáns menekülést nyújtanak a borús idő elől; keresse a rénszarvasokat a fordulókban, és használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Scările magnifice oferă o evadare elegantă din calea vremii mohorâte; căutați elanul de pe scară și folosiți garderoba pentru a vă lăsa hainele ude la uscat.",
+                "en": "The magnificent staircases offer an elegant escape from the gloomy weather; look for the moose on the landing and use the cloakroom to leave your wet coats."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkkitehtuuri- ja designmuseo",
+                "hu": "Építészeti és Dizájnmúzeum",
+                "ro": "Muzeul de Arhitectură și Design",
+                "en": "Arkkitehtuuri- ja designmuseo"
+              },
+              "tip_5lang": {
+                "de": "Zwei benachbarte Gebäude ermöglichen einen schnellen Wechsel zwischen den Ausstellungen; perfekt, um die finnische Formgebung ohne Regenschirm zu genießen.",
+                "hu": "Két szomszédos épület teszi lehetővé a gyors váltást a kiállítások között; tökéletes hely a finn formatervezés élvezetére anélkül, hogy esernyőre lenne szüksége.",
+                "ro": "Două clădiri adiacente permit o schimbare rapidă între expoziții; este locul perfect pentru a savura designul finlandez fără a avea nevoie de umbrelă afară.",
+                "en": "Two adjacent buildings allow for a quick transition between exhibitions; it is the perfect spot to enjoy Finnish design without needing an umbrella for long."
+              }
+            },
+            {
+              "name": {
+                "de": "Helsingin kaupunginmuseo",
+                "hu": "Helsinki Városi Múzeum",
+                "ro": "Muzeul Orașului Helsinki",
+                "en": "Helsingin kaupunginmuseo"
+              },
+              "tip_5lang": {
+                "de": "Der Eintritt ist frei und der Innenhof ist teilweise überdacht; wärmen Sie sich im Inneren auf und erkunden Sie Helsinkis Geschichte in trockener Umgebung.",
+                "hu": "A belépés ingyenes, és a belső udvar részben fedett; melegedjen fel a falak között, és fedezze fel Helsinki történetét teljesen száraz, barátságos környezetben.",
+                "ro": "Intrarea este gratuită, iar curtea interioară este parțial acoperită; încălziți-vă în interior și explorați istoria orașului Helsinki într-un mediu uscat și primitor.",
+                "en": "Entry is free and the inner courtyard is partially covered; warm up inside and explore Helsinki's rich history in a completely dry and welcoming environment."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Tageslicht am Morgen für den Besuch des Amos Rex. Mittags spazieren Sie durch das verschneite Zentrum zum HAM, um sich aufzuwärmen. Da die Sonne gegen 17:00 Uhr untergeht, besuchen Sie das Designmuseum am Nachmittag. Den Abend verbringen Sie im gemütlich beleuchteten Stadtmuseum, während die frostige Dunkelheit die Straßen von Helsinki einhüllt.",
+            "hu": "Használja ki a reggeli világosságot az Amos Rexben, mielőtt a hideg szél feltámad. Délben a havas belvároson át sétálunk a HAM-ba, ahol a benti melegben engedhetünk ki. Mivel a nap 17:00 körül nyugszik, a délutánt már az Építészeti Múzeum fényeiben töltjük. Az estét a Városi Múzeum hangulatos tárlatai közt zárjuk, miközben odakint leszáll a jeges sötétség.",
+            "ro": "Profități de lumina zilei dimineața pentru a vizita Amos Rex. La prânz, plimbați-vă prin centrul înzăpezit spre HAM pentru a vă încălzi. Deoarece soarele apune în jur de ora 17:00, vizitați Muzeul de Design după-amiaza. Seara se petrece în Muzeul Orașului, luminat primitor, în timp ce întunericul înghețat pune stăpânire pe străzile orașului.",
+            "en": "Make the most of the morning light at Amos Rex before the chill sets in. At noon, walk through the snowy center to HAM to warm up between exhibits. As the sun sets around 17:00, spend the late afternoon at the Design Museum. End your evening at the warmly lit City Museum while the frosty darkness envelops the streets of Helsinki."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Amos Rex",
+                "hu": "Amos Rex",
+                "ro": "Amos Rex",
+                "en": "Amos Rex"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdischen Säle sind im Winter herrlich beheizt; genießen Sie die surreale Architektur als warmen Kontrast zum glatten Eis auf dem Platz darüber.",
+                "hu": "A földalatti termek télen kellemesen fűtöttek; élvezze a szürreális építészetet, amely meleg kontrasztot alkot a felette lévő tér jeges szelességével.",
+                "ro": "Sălile subterane sunt încălzite excelent iarna; bucurați-vă de arhitectura suprarealistă ca un contrast cald față de gheața alunecoasă din piața de deasupra.",
+                "en": "The underground halls are wonderfully heated in winter; enjoy the surreal architecture as a warm contrast to the slippery ice on the square directly above."
+              }
+            },
+            {
+              "name": {
+                "de": "Helsingin taidemuseo HAM",
+                "hu": "Helsingin taidemuseo HAM",
+                "ro": "Muzeul de Artă HAM din Helsinki",
+                "en": "Helsingin taidemuseo HAM"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Kälte zu vergessen; schauen Sie sich die farbenfrohen Mumin-Werke an, die an dunklen Wintertagen besonders viel Freude bereiten.",
+                "hu": "Tökéletes hely a fagy elfelejtésére; nézze meg a színes Mumin-alkotásokat, amelyek a sötét téli napokon különleges vidámságot és meleget árasztanak.",
+                "ro": "Un loc perfect pentru a uita de ger; priviți lucrările colorate cu Mumi care aduc multă bucurie și căldură în zilele întunecate de iarnă finlandeză.",
+                "en": "A perfect place to forget the freezing temperatures; check out the colorful Moomin artworks which bring extra joy and warmth on dark winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturhistorisches Museum",
+                "hu": "Természettudományi Múzeum",
+                "ro": "Muzeul de Istorie Naturală",
+                "en": "Naturhistorisches Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum wirkt im Winter wie ein magisches Schloss; wärmen Sie sich in den Ausstellungen über die finnische Natur auf und bewundern Sie die Dioramen.",
+                "hu": "A múzeum télen úgy fest, mint egy varázslatos kastély; melegedjen fel a finn természetet bemutató tárlatokon, és csodálja meg a havas tájakat idéző diorámákat.",
+                "ro": "Muzeul arată ca un castel magic iarna; încălziți-vă în expozițiile despre natura finlandeză și admirați dioramele ce amintesc de peisajele înzăpezite.",
+                "en": "The museum looks like a magical castle in winter; warm up in the exhibitions about Finnish nature and admire the dioramas depicting snowy landscapes."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkkitehtuuri- ja designmuseo",
+                "hu": "Építészeti és Dizájnmúzeum",
+                "ro": "Muzeul de Arhitectură și Design",
+                "en": "Arkkitehtuuri- ja designmuseo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das skandinavische Design in einer warmen, hellen Umgebung, bevor Sie um 17:00 Uhr den stimmungsvollen Sonnenuntergang im Designviertel erleben.",
+                "hu": "Élvezze a skandináv dizájnt meleg, világos környezetben, mielőtt 17:00-kor szemtanúja lenne a hangulatos téli naplementének a dizájnnegyed utcáin.",
+                "ro": "Bucurați-vă de designul scandinav într-un mediu cald și luminos, înainte de a vedea apusul atmosferic de iarnă la ora 17:00 în cartierul de design.",
+                "en": "Enjoy Scandinavian design in a warm, bright environment before witnessing the atmospheric winter sunset at 17:00 in the surrounding Design District."
+              }
+            },
+            {
+              "name": {
+                "de": "Helsingin kaupunginmuseo",
+                "hu": "Helsinki Városi Múzeum",
+                "ro": "Muzeul Orașului Helsinki",
+                "en": "Helsingin kaupunginmuseo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das 'Wohnzimmer' des Museums für eine Pause im Warmen; die historischen Exponate wirken bei Kerzenschein und Winterdunkelheit besonders intim.",
+                "hu": "Látogasson el a múzeum 'nappalijába' egy meleg pihenőre; a történelmi tárgyak a téli sötétségben és a benti fényekben különösen meghitt hangulatot árasztanak.",
+                "ro": "Vizitați „sufrageria” muzeului pentru o pauză la căldură; obiectele istorice par deosebit de intime în lumina caldă, în contrast cu întunericul de afară.",
+                "en": "Visit the museum's 'living room' for a warm break; the historical exhibits feel especially intimate in the warm indoor light against the winter darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros kalandot a Szálloda- és Étteremmúzeumban, majd tekerjen északra a régi villamosokhoz. Folytassa útját a TAHTO központba, majd merüljön el a Természettudományi Múzeum kiállításaiban. Tekerjen vissza a belvárosba, hogy felfedezze a tudományos örökséget a Liekki Múzeumban. Fejezze be a kerékpártúrát a Helsinki Városi Múzeumnál, élvezve a partmenti főváros hangulatát.",
         "ro": "Începeți aventura pe bicicletă la Muzeul Hotelurilor, explorând istoria culinară înainte de a pedala spre Muzeul Tramvaielor. Continuați plimbarea spre centrul TAHTO, urmată de o scufundare în istoria naturală. Pedalați înapoi spre inima orașului Helsinki pentru a descoperi patrimoniul științific la Liekki. Terminați turul cu bicicleta la Muzeul Orașului Helsinki.",
         "en": "Kick off your cycling adventure at the Hotel and Restaurant Museum before riding north to see vintage trams at the Tram Museum. Continue your ride to the TAHTO center to celebrate athletics, followed by a dive into natural history. Pedal back towards the heart of Helsinki to uncover scientific heritage at Tiedemuseo Liekki. Finish your bike tour at the brilliant Helsinki City Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bereiten Sie sich auf eine nasse Fahrt zur Kabelfabrik vor, wo das Hotel- und Restaurantmuseum trockenen Unterschlupf bietet. Mittags geht es vorsichtig auf nassen Straßen zum Straßenbahnmuseum. Am Nachmittag radeln Sie zum TAHTO im Olympiastadion. Den Tag beenden Sie im Stadtzentrum, wo Sie Ihr Rad parken und die Museen in trockener Umgebung erkunden.",
+            "hu": "Készüljön fel egy esős tekerésre a Kábelgyárig, ahol a Szálloda- és Étteremmúzeum nyújt fedett menedéket. Délben óvatosan, a csúszós utakat kerülve haladunk a Villamosmúzeum felé. Délután a TAHTO központot érintjük az Olimpiai Stadionnál. A napot a belvárosban zárjuk, ahol leparkolva a bringát, szárazon járhatjuk be a Városi Múzeumot.",
+            "ro": "Pregătiți-vă pentru o plimbare umedă spre Fabrica de Cabluri, unde Muzeul Hotelurilor oferă un adăpost uscat. La prânz, pedalați cu atenție pe drumurile ude spre Muzeul Tramvaielor. După-amiaza, mergeți la TAHTO lângă Stadionul Olimpic. Ziua se încheie în centru, unde puteți parca bicicleta și explora muzeele în siguranță și la uscat.",
+            "en": "Prepare for a wet ride to the Cable Factory, where the Hotel and Restaurant Museum provides a dry shelter. At noon, cycle carefully on slippery roads toward the Tram Museum. In the afternoon, head to the TAHTO center at the Olympic Stadium. End your day in the city center, where you can park your bike and explore museums in a dry environment."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hotelli- ja ravintolamuseo",
+                "hu": "Szálloda- és Étteremmúzeum",
+                "ro": "Muzeul Hotelurilor și Restaurantelor",
+                "en": "Hotelli- ja ravintolamuseo"
+              },
+              "tip_5lang": {
+                "de": "Die Kabelfabrik bietet überdachte Fahrradabstellplätze; nutzen Sie die industrielle Atmosphäre, um den Regen abzuwarten und kulinarische Geschichte zu erleben.",
+                "hu": "A Kábelgyár épülete fedett kerékpártárolókat kínál; használja ki az ipari környezetet az eső kivárására, miközben a gasztronómia történetét kutatja.",
+                "ro": "Fabrica de Cabluri oferă rastele acoperite pentru biciclete; profitați de atmosfera industrială pentru a aștepta oprirea ploii în timp ce explorați istoria.",
+                "en": "The Cable Factory building offers covered bike racks; use the industrial atmosphere to wait out the rain while exploring the fascinating culinary history."
+              }
+            },
+            {
+              "name": {
+                "de": "Ratikkamuseo",
+                "hu": "Villamosmúzeum",
+                "ro": "Muzeul Tramvaielor",
+                "en": "Ratikkamuseo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im Innenhof der Korjaamo und flüchten Sie ins Warme; die alten Straßenbahnen sind ein wunderbarer, trockener Ort zum Erkunden.",
+                "hu": "Parkoljon a Korjaamo belső udvarán, és meneküljön a melegbe; a régi villamosok belseje csodálatos, száraz helyszín a felfedezéshez és egy rövid pihenőhöz.",
+                "ro": "Parcați bicicleta în curtea interioară de la Korjaamo și refugiați-vă la căldură; vechile tramvaie sunt un loc minunat și uscat pentru explorare și odihnă.",
+                "en": "Park your bike in the Korjaamo inner courtyard and escape into the warmth; the vintage trams are a wonderful, dry setting for exploration and a quick rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Urheilun ja liikunnan kulttuurikeskus TAHTO",
+                "hu": "TAHTO Sport- és Mozgáskultúra Központ",
+                "ro": "Centrul Cultural Sportiv TAHTO",
+                "en": "Urheilun ja liikunnan kulttuurikeskus TAHTO"
+              },
+              "tip_5lang": {
+                "de": "Direkt am Olympiastadion gelegen, bietet das Museum viel Platz im Inneren; ein idealer Zwischenstopp, um die Ausrüstung zu richten und Sportgeschichte zu sehen.",
+                "hu": "Közvetlenül az Olimpiai Stadion mellett található, tágas belső terekkel; ideális megálló a felszerelés igazítására és a sporttörténet megismerésére esőben.",
+                "ro": "Situat chiar lângă Stadionul Olimpic, muzeul are spații interioare generoase; este un popas ideal pentru a vă aranja echipamentul și a vedea istoria sportului.",
+                "en": "Located right by the Olympic Stadium, the museum has spacious interiors; it's an ideal stop to adjust your gear and enjoy sports history while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturhistorisches Museum",
+                "hu": "Természettudományi Múzeum",
+                "ro": "Muzeul de Istorie Naturală",
+                "en": "Naturhistorisches Museum"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den glatten Boden beim Absteigen vor dem Museum; im Inneren können Sie Ihre nasse Kleidung sicher in Schließfächern verstauen.",
+                "hu": "Vigyázzon a csúszós aszfaltra, amikor a múzeum előtt leszáll a bringáról; bent biztonságos zárható szekrényekben tárolhatja vizes felszerelését a látogatás alatt.",
+                "ro": "Atenție la asfaltul alunecos când coborâți de pe bicicletă în fața muzeului; în interior puteți lăsa echipamentul umed în vestiare sigure pe durata vizitei.",
+                "en": "Watch out for slippery asphalt when dismounting in front of the museum; inside, you can store your wet gear in secure lockers during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiedemuseo Liekki",
+                "hu": "Liekki Tudománymúzeum",
+                "ro": "Muzeul de Știință Liekki",
+                "en": "Tiedemuseo Liekki"
+              },
+              "tip_5lang": {
+                "de": "Das Universitätsmuseum bietet eine intellektuelle Flucht vor dem Regen; nutzen Sie die Fahrradständer direkt vor dem Eingang für einen schnellen Zugang.",
+                "hu": "Az egyetemi múzeum intellektuális menekülést kínál az eső elől; használja a közvetlenül a bejárat előtt található tárolókat a gyors bejutás érdekében.",
+                "ro": "Muzeul universitar oferă o evadare intelectuală din calea ploii; folosiți rastelele de biciclete chiar din fața intrării pentru un acces rapid înăuntru.",
+                "en": "The university museum offers an intellectual escape from the rain; use the bike racks located right in front of the entrance for quick access inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Helsingin kaupunginmuseo",
+                "hu": "Helsinki Városi Múzeum",
+                "ro": "Muzeul Orașului Helsinki",
+                "en": "Helsingin kaupunginmuseo"
+              },
+              "tip_5lang": {
+                "de": "Das Museum liegt im historischen Zentrum mit vielen gepflasterten Straßen; fahren Sie bei Nässe besonders vorsichtig und genießen Sie das warme Innere.",
+                "hu": "A múzeum a történelmi központban van, sok a macskaköves utca; esőben tekerjen óvatosan a csúszós köveken, és élvezze a kiállítások melegét.",
+                "ro": "Muzeul se află în centrul istoric cu multe străzi pavate; pedalați cu mare atenție pe piatra cubică umedă și bucurați-vă de căldura expozițiilor.",
+                "en": "The museum is in the historic center with many cobblestone streets; cycle very carefully on wet stones and enjoy the warmth of the exhibitions inside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter erfordert Spikereifen und warme Kleidung. Beginnen Sie morgens an der Kabelfabrik. Mittags radeln Sie durch den Schnee zum Straßenbahnmuseum, um sich aufzuwärmen. Beachten Sie den Sonnenuntergang um 17:00 Uhr und sorgen Sie für gute Beleuchtung. Den Abend verbringen Sie im Stadtmuseum, nachdem Sie Ihr Rad im frostigen Zentrum abgestellt haben.",
+            "hu": "A téli bringázáshoz szöges gumi és réteges öltözet ajánlott. Reggel a Kábelgyárnál kezdünk. Délben a havas utcákon át tekerünk a Villamosmúzeumba, hogy kicsit átmelegedjünk. Figyeljen az 5 órai naplementére, a jó világítás elengedhetetlen! Az estét a Városi Múzeumban töltjük, miután biztonságosan lelakatoltuk a bringát a jeges belvárosban.",
+            "ro": "Ciclismul de iarnă necesită cauciucuri cu ținte și haine groase. Începeți dimineața la Fabrica de Cabluri. La prânz, pedalați prin zăpadă spre Muzeul Tramvaielor pentru a vă încălzi. Atenție la apusul de la ora 17:00, luminile bune sunt esențiale. Seara se încheie la Muzeul Orașului, după ce ați parcat bicicleta în centrul înghețat al orașului.",
+            "en": "Winter cycling requires studded tires and warm layers. Start your morning at the Cable Factory. At noon, cycle through the snow to the Tram Museum to warm up your frozen fingers. Mind the early sunset at 17:00; good lights are essential! Spend the evening at the City Museum after safely locking your bike in the frosty city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hotelli- ja ravintolamuseo",
+                "hu": "Szálloda- és Étteremmúzeum",
+                "ro": "Muzeul Hotelurilor și Restaurantelor",
+                "en": "Hotelli- ja ravintolamuseo"
+              },
+              "tip_5lang": {
+                "de": "Die Kabelfabrik ist ein großartiger Ort, um sich nach einer kalten Fahrt aufzuwärmen; parken Sie Ihr Rad in den vorgesehenen Ständern im Innenhof.",
+                "hu": "A Kábelgyár nagyszerű hely a felmelegedésre egy fagyos tekerés után; parkoljon a belső udvar kijelölt tárolóiban, ahol a bringa is viszonylag védve van.",
+                "ro": "Fabrica de Cabluri este un loc excelent pentru a vă încălzi după o tură geroasă; parcați bicicleta în rastelele desemnate din curtea interioară.",
+                "en": "The Cable Factory is a great place to warm up after a freezing ride; park your bike in the designated racks in the courtyard where it's relatively shielded."
+              }
+            },
+            {
+              "name": {
+                "de": "Ratikkamuseo",
+                "hu": "Villamosmúzeum",
+                "ro": "Muzeul Tramvaielor",
+                "en": "Ratikkamuseo"
+              },
+              "tip_5lang": {
+                "de": "In der Korjaamo gibt es ein gemütliches Café neben dem Museum; ideal, um heiße Getränke zu genießen, bevor man wieder in die Winterkälte hinausgeht.",
+                "hu": "A Korjaamo épületében egy barátságos kávézó várja közvetlenül a múzeum mellett; ideális egy forró italra, mielőtt újra nekivágna a téli hidegnek.",
+                "ro": "În incinta Korjaamo există o cafenea primitoare chiar lângă muzeu; este ideală pentru o băutură caldă înainte de a ieși din nou în gerul iernii.",
+                "en": "In the Korjaamo complex, there's a cozy cafe right next to the museum; ideal for a hot drink before heading out into the winter cold again on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Urheilun ja liikunnan kulttuurikeskus TAHTO",
+                "hu": "TAHTO Sport- és Mozgáskultúra Központ",
+                "ro": "Centrul Cultural Sportiv TAHTO",
+                "en": "Urheilun ja liikunnan kulttuurikeskus TAHTO"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet Einblicke in finnische Wintersportarten; ein passender Stopp, während Sie selbst draußen gegen die Elemente ankämpfen.",
+                "hu": "A múzeum kiváló betekintést nyújt a finn téli sportokba; stílusos megálló, miközben Ön is épp az elemekkel küzd a jeges utakon tekerve.",
+                "ro": "Muzeul oferă o perspectivă excelentă asupra sporturilor de iarnă finlandeze; un popas potrivit în timp ce vă luptați chiar voi cu elementele naturii pe bicicletă.",
+                "en": "The museum offers great insights into Finnish winter sports; a fitting stop while you are battling the elements yourself out on the icy bike paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturhistorisches Museum",
+                "hu": "Természettudományi Múzeum",
+                "ro": "Muzeul de Istorie Naturală",
+                "en": "Naturhistorisches Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade des Museums sieht bei Schnee bezaubernd aus; drinnen können Sie in den warmen Sälen die Tierwelt des hohen Nordens studieren.",
+                "hu": "A múzeum homlokzata lenyűgöző látvány a hóesésben; odabent a meleg termekben tanulmányozhatja a messzi észak különleges állatvilágát és élőhelyeit.",
+                "ro": "Fațada muzeului arată uimitor în zăpadă; în interiorul sălilor încălzite puteți studia fauna sălbatică a nordului îndepărtat și habitatele sale.",
+                "en": "The museum's facade looks stunning in the falling snow; inside the warm halls, you can study the wildlife of the far north and its unique habitats."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiedemuseo Liekki",
+                "hu": "Liekki Tudománymúzeum",
+                "ro": "Muzeul de Știință Liekki",
+                "en": "Tiedemuseo Liekki"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum kurz vor Sonnenuntergang um 17:00 Uhr; das warme Licht im Inneren bildet einen tollen Kontrast zur blauen Stunde draußen.",
+                "hu": "Látogasson el ide nem sokkal az 5 órai naplemente előtt; a benti meleg fények remek kontrasztot alkotnak a kinti kék órával és a jeges széllel.",
+                "ro": "Vizitați muzeul cu puțin timp înainte de apusul de la ora 17:00; luminile calde din interior fac un contrast excelent cu ora albastră de afară.",
+                "en": "Visit the museum shortly before the 17:00 sunset; the warm indoor lights create a great contrast with the blue hour and the icy wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Helsingin kaupunginmuseo",
+                "hu": "Helsinki Városi Múzeum",
+                "ro": "Muzeul Orașului Helsinki",
+                "en": "Helsingin kaupunginmuseo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier im Warmen; die gemütlichen Sofas im Museum sind perfekt, um sich nach einem Tag auf dem Rad im Winter zu erholen.",
+                "hu": "Zárja itt a túrát a melegben; a múzeum kényelmes kanapéi tökéletesek a pihenésre egy hosszú, téli bringás nap után a jeges Helsinki utcáin.",
+                "ro": "Încheiați turul aici la căldură; canapelele confortabile din muzeu sunt perfecte pentru odihnă după o zi lungă de pedalat prin gerul iernii.",
+                "en": "End your tour here in the warmth; the museum's comfortable sofas are perfect for a rest after a long winter day of cycling through icy Helsinki streets."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje az autós túrát a Mannerheim Múzeumban, majd vezessen a gyönyörűen megőrzött Sohlberg otthonba. Navigáljon a városközpont felé a Merkki Múzeumhoz, majd tapasztalja meg a polgári védelem valóságát a földalatti bunkermúzeumban. Vezessen el az Óvodamúzeumba, hogy megismerje a finn pedagógiai történelmet, és zárja autós útját a történelmi járműveket bemutató Villamosmúzeumban.",
         "ro": "Începeți turul cu mașina descoperind istoria militară la Muzeul Mannerheim, apoi conduceți până la casa perfect conservată Sohlberg. Navigați spre centru pentru a explora evoluția media la Merkki, înainte de a experimenta realitatea apărării civile la muzeul buncărului. Conduceți la Muzeul Grădiniței și încheiați excursia auto la Muzeul Tramvaielor pentru a vedea vehicule istorice.",
         "en": "Begin your driving tour discovering military history at the Mannerheim Museum, then drive a short distance to the beautifully preserved Sohlberg Home. Navigate towards the city center to explore media evolution at Merkki, before experiencing civil defense reality at the underground Bunker Museum. Drive over to the Kindergarten Museum and end your road trip viewing vehicles at the Tram Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt im trockenen Auto zum Mannerheim-Museum. Bei Regen ist das Parken direkt vor den Museen ein großer Vorteil. Mittags geht es zum Sohlberg-Heimmuseum in Kaivopuisto. Am Nachmittag besuchen Sie das Zivilschutzmuseum, das ohnehin unter der Erde liegt. Den Abend verbringen Sie im Straßenbahnmuseum, während die Regentropfen gegen die Scheiben Ihres Wagens trommeln.",
+            "hu": "Élvezze a kényelmes autózást a Mannerheim Múzeumig, miközben az eső mossa az ablakokat. Az ajtó közeli parkolás nagy előny ilyenkor. Délben a Sohlberg Otthonmúzeumot keressük fel a Kaivopuisto negyedben. Délután a Polgári Védelmi Múzeumba látogatunk, amely eleve a föld alatt van. A napot a Villamosmúzeumban zárjuk, biztonságban a kinti záporoktól.",
+            "ro": "Bucurați-vă de drumul cu mașina spre Muzeul Mannerheim în timp ce ploaia spală geamurile. Parcarea aproape de intrare este un mare avantaj acum. La prânz, vizitați Muzeul Sohlberg din cartierul Kaivopuisto. După-amiaza, mergeți la Muzeul de Apărare Civilă, care se află oricum sub pământ. Ziua se încheie la Muzeul Tramvaielor, la adăpost de aversele de afară.",
+            "en": "Enjoy the comfortable drive to the Mannerheim Museum while the rain washes the windows. Parking close to the entrances is a major advantage today. At noon, visit the Sohlberg Home Museum in the Kaivopuisto district. In the afternoon, explore the Civil Defense Museum, which is underground anyway. End the day at the Tram Museum, safe from the showers outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mannerheim-museo",
+                "hu": "Mannerheim Múzeum",
+                "ro": "Muzeul Mannerheim",
+                "en": "Mannerheim-museo"
+              },
+              "tip_5lang": {
+                "de": "Das Museum liegt auf einem Hügel; parken Sie in den umliegenden Straßen und genießen Sie die elegante, trockene Atmosphäre dieser historischen Villa.",
+                "hu": "A múzeum egy dombtetőn áll; parkoljon a környező utcákban, és élvezze e történelmi villa elegáns, száraz és barátságos belső tereit az esőben.",
+                "ro": "Muzeul se află pe vârful unui deal; parcați pe străzile adiacente și bucurați-vă de interiorul elegant și uscat al acestei vile istorice pe timp de ploaie.",
+                "en": "The museum stands on top of a hill; park in the surrounding streets and enjoy the elegant, dry, and welcoming interior of this historic villa in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Päivikki ja Sakari Sohlbergin kotimuseo",
+                "hu": "Päivikki és Sakari Sohlberg Otthonmúzeum",
+                "ro": "Muzeul Memorial Päivikki și Sakari Sohlberg",
+                "en": "Päivikki ja Sakari Sohlbergin kotimuseo"
+              },
+              "tip_5lang": {
+                "de": "Ein privates Heim als Museum bietet die perfekte gemütliche Flucht; suchen Sie einen Parkplatz direkt in der Eira-Gegend für kurze Wege im Regen.",
+                "hu": "Ez a magánotthonból lett múzeum tökéletes, meghitt menedék; keressen parkolóhelyet közvetlenül Eira negyedében, hogy elkerülje a hosszú ázást az utcán.",
+                "ro": "Această casă privată transformată în muzeu oferă refugiul intim perfect; căutați un loc de parcare chiar în cartierul Eira pentru a evita ploaia lungă.",
+                "en": "This private home turned museum offers the perfect intimate refuge; look for a parking spot right in the Eira district to avoid a long walk in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Merkki",
+                "hu": "Merkki Múzeum",
+                "ro": "Muzeul Merkki",
+                "en": "Merkki"
+              },
+              "tip_5lang": {
+                "de": "Dieses Medienmuseum liegt im Stadtzentrum; nutzen Sie eines der nahen Parkhäuser, um völlig trocken zu den Ausstellungen über Journalismus zu gelangen.",
+                "hu": "Ez a médiamúzeum a belváros szívében található; használja a közeli parkolóházakat, hogy teljesen szárazon juthasson el az újságírást bemutató tárlatokig.",
+                "ro": "Acest muzeu media este în inima centrului; folosiți parcările subterane din apropiere pentru a ajunge complet uscat la expozițiile despre jurnalism.",
+                "en": "This media museum is in the heart of the center; use nearby parking garages to reach the journalism exhibits completely dry and avoid the outside puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Väestönsuojelumuseo",
+                "hu": "Polgári Védelmi Múzeum",
+                "ro": "Muzeul de Apărare Civilă",
+                "en": "Väestönsuojelumuseo"
+              },
+              "tip_5lang": {
+                "de": "In einem echten Schutzraum unter der Erde gelegen, ist dies der trockenste Ort der Stadt; parken Sie oberhalb und steigen Sie in die Tiefe hinab.",
+                "hu": "Egy valódi földalatti óvóhelyen található, így ez a város legszárazabb pontja; parkoljon le fent, és merüljön el a polgári védelem izgalmas történetében.",
+                "ro": "Situat într-un adăpost subteran real, acesta este cel mai uscat punct din oraș; parcați sus și coborâți în adâncuri pentru a vedea istoria apărării.",
+                "en": "Located in a real underground shelter, this is the driest spot in the city; park above ground and descend into the depths to explore defense history."
+              }
+            },
+            {
+              "name": {
+                "de": "Lastentarhamuseo",
+                "hu": "Óvodamúzeum",
+                "ro": "Muzeul Grădiniței",
+                "en": "Lastentarhamuseo"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe gibt es oft gute Parkmöglichkeiten am Straßenrand; ein charmanter, warmer Ort, um etwas über finnische Erziehung im Trockenen zu lernen.",
+                "hu": "A környéken gyakran van jó utcai parkolási lehetőség; bájos, meleg helyszín, ahol szárazon ismerkedhet meg a finn nevelés és oktatás hagyományaival.",
+                "ro": "În zonă există adesea locuri bune de parcare la stradă; este un loc fermecător și cald unde puteți învăța despre educația finlandeză stând la uscat.",
+                "en": "There are often good street parking spots nearby; it's a charming, warm venue where you can learn about Finnish education traditions while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Ratikkamuseo",
+                "hu": "Villamosmúzeum",
+                "ro": "Muzeul Tramvaielor",
+                "en": "Ratikkamuseo"
+              },
+              "tip_5lang": {
+                "de": "Das Kulturzentrum Korjaamo bietet Schutz für Mensch und Rad; parken Sie in der Nähe und genießen Sie die trockenen Hallen voller historischer Wagen.",
+                "hu": "A Korjaamo kulturális központ remek menedéket nyújt; parkoljon a közelben, és élvezze a történelmi villamosokkal teli tágas, száraz csarnokokat az esőben.",
+                "ro": "Centrul cultural Korjaamo oferă un adăpost excelent; parcați în apropiere și bucurați-vă de halele spațioase pline de tramvaie istorice, feriți de ploaie.",
+                "en": "The Korjaamo cultural center provides excellent shelter; park nearby and enjoy the spacious, dry halls filled with historic trams away from the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das vorgewärmte Auto für eine Tour zum Mannerheim-Museum. Das Fahren durch das verschneite Eira ist wunderschön. Mittags besuchen Sie das Sohlberg-Museum, um den Frost zu vergessen. Da es um 17:00 Uhr dunkel wird, bietet das Auto eine sichere Basis. Den Abend verbringen Sie im Straßenbahnmuseum, bevor Sie durch die frostige Winternacht zurückfahren.",
+            "hu": "Használja az előmelegített autót a Mannerheim Múzeum felé tartva; a havas Eira negyeden át vezetni csodás élmény. Délben a Sohlberg Múzeumban feledjük a kinti fagyot. Mivel 17:00-kor sötétedik, az autó biztonságos bázist nyújt a közlekedéshez. Az estét a Villamosmúzeumban zárjuk, mielőtt a jeges téli éjszakában hazahajtanánk.",
+            "ro": "Folosiți mașina preîncălzită spre Muzeul Mannerheim; condusul prin cartierul Eira înzăpezit este o experiență minunată. La prânz, uitați de ger la Muzeul Sohlberg. Deoarece se întunecă la ora 17:00, mașina oferă o bază sigură pentru deplasare. Seara se încheie la Muzeul Tramvaielor înainte de a conduce prin noaptea geroasă.",
+            "en": "Use a pre-heated car for your tour toward the Mannerheim Museum; driving through snowy Eira is a beautiful experience. At noon, forget the frost at the Sohlberg Museum. Since it gets dark at 17:00, the car provides a safe and warm base. End your evening at the Tram Museum before driving home through the frosty winter night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mannerheim-museo",
+                "hu": "Mannerheim Múzeum",
+                "ro": "Muzeul Mannerheim",
+                "en": "Mannerheim-museo"
+              },
+              "tip_5lang": {
+                "de": "Die hölzerne Villa sieht im Schnee malerisch aus; achten Sie beim Parken auf die Schneehaufen am Straßenrand und genießen Sie die Wärme im Inneren.",
+                "hu": "A fából készült villa festői látványt nyújt a hóban; parkoláskor ügyeljen az útmenti hóbuckákra, és élvezze a benti kandallók által sugárzott meleget.",
+                "ro": "Vila din lemn arată pitoresc în zăpadă; la parcare fiți atenți la mormănoalele de zăpadă și bucurați-vă de căldura radiată de interiorul istoric.",
+                "en": "The wooden villa looks picturesque in the snow; when parking, watch out for snowbanks and enjoy the warmth radiated by the historic indoor setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Päivikki ja Sakari Sohlbergin kotimuseo",
+                "hu": "Päivikki és Sakari Sohlberg Otthonmúzeum",
+                "ro": "Muzeul Memorial Päivikki și Sakari Sohlberg",
+                "en": "Päivikki ja Sakari Sohlbergin kotimuseo"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar intimer Ort an einem kalten Wintertag; parken Sie in den ruhigen Straßen von Eira und erleben Sie den finnischen Winter wie früher.",
+                "hu": "Csodálatosan meghitt helyszín egy hideg téli napon; parkoljon le Eira csendes utcáin, és ismerje meg a finn nagypolgári téli életmódot a benti melegben.",
+                "ro": "Un loc minunat de primitor într-o zi rece de iarnă; parcați pe străzile liniștite din Eira și descoperiți stilul de viață finlandez istoric la căldură.",
+                "en": "A wonderfully intimate venue on a cold winter day; park in the quiet streets of Eira and experience the historic Finnish lifestyle in the warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Merkki",
+                "hu": "Merkki Múzeum",
+                "ro": "Muzeul Merkki",
+                "en": "Merkki"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im nahen Einkaufszentrum Kamppi und gehen Sie kurz durch die Kälte zum Museum; drinnen erwartet Sie moderne Geschichte in warmen Räumen.",
+                "hu": "Parkoljon a közeli Kamppi központban, és tegyen egy rövid sétát a múzeumig; odabent modern történelem és kellemesen fűtött termek fogadják a látogatót.",
+                "ro": "Parcați în centrul Kamppi din apropiere și faceți o scurtă plimbare până la muzeu; în interior vă așteaptă istoria modernă în săli bine încălzite.",
+                "en": "Park in the nearby Kamppi center and take a short walk to the museum; inside, modern history and pleasantly heated halls await every winter visitor."
+              }
+            },
+            {
+              "name": {
+                "de": "Väestönsuojelumuseo",
+                "hu": "Polgári Védelmi Múzeum",
+                "ro": "Muzeul de Apărare Civilă",
+                "en": "Väestönsuojelumuseo"
+              },
+              "tip_5lang": {
+                "de": "Der Schutzraum bietet eine konstante Temperatur, fernab vom Frost draußen; parken Sie sicher in der Nähe und tauchen Sie in die Unterwelt ab.",
+                "hu": "Az óvóhely állandó hőmérsékletet biztosít, távol a kinti fagyos széltől; parkoljon le biztonságosan a közelben, és merüljön el a földalatti világban.",
+                "ro": "Adăpostul oferă o temperatură constantă, departe de vântul înghețat de afară; parcați în siguranță în apropiere și scufundați-vă în lumea subterană.",
+                "en": "The shelter provides a constant temperature, far from the freezing wind outside; park safely nearby and dive into the fascinating underground world."
+              }
+            },
+            {
+              "name": {
+                "de": "Lastentarhamuseo",
+                "hu": "Óvodamúzeum",
+                "ro": "Muzeul Grădiniței",
+                "en": "Lastentarhamuseo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen warmen Ort, bevor es um 17:00 Uhr dunkel wird; die Ausstellungen vermitteln ein Gefühl von Geborgenheit inmitten des Winters.",
+                "hu": "Látogasson el erre a meleg helyre, mielőtt 17:00-kor sötétedni kezdene; a kiállítások a biztonság és otthonosság érzését keltik a tél közepén is.",
+                "ro": "Vizitați acest loc cald înainte de a se întuneca la ora 17:00; expozițiile transmit un sentiment de siguranță și confort în mijlocul iernii geroase.",
+                "en": "Visit this warm venue before it starts getting dark at 17:00; the exhibitions convey a sense of safety and comfort even in the middle of winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ratikkamuseo",
+                "hu": "Villamosmúzeum",
+                "ro": "Muzeul Tramvaielor",
+                "en": "Ratikkamuseo"
+              },
+              "tip_5lang": {
+                "de": "Die Korjaamo-Halle ist im Winter ein beliebter Treffpunkt; genießen Sie die stimmungsvolle Beleuchtung der alten Wagen am späten Nachmittag.",
+                "hu": "A Korjaamo csarnoka télen kedvelt találkozóhely; élvezze a régi kocsik hangulatos megvilágítását a késő délutáni sötétségben, a fűtött belső térben.",
+                "ro": "Hala Korjaamo este un loc de întâlnire popular iarna; bucurați-vă de iluminarea atmosferică a vechilor vagoane în întunericul de după-amiază.",
+                "en": "The Korjaamo hall is a popular meeting spot in winter; enjoy the atmospheric lighting of the vintage cars in the late afternoon darkness inside."
+              }
+            }
+          ]
+        }
       }
     }
   }

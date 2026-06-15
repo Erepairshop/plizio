@@ -137,6 +137,168 @@
         "hu": "A reggel a Monumen Guru Patimpusnál kezdődik, feltárva Medan eredetét. Délben a Lapangan Merdeka buja zöldjén sétál át, mely tökéletes gyarmati hátteret nyújt. A délután elmélyülésre hív a Monumen Medan Area és a történelmi Eks RSU Tembakau Deli területén. A séta a Tugu Adipura esti fényében zárul.",
         "ro": "Dimineața începe la Monumentul Guru Patimpus, descoperind originile orașului. La prânz vă plimbați prin verdeața luxuriantă de la Lapangan Merdeka, un decor colonial perfect. După-amiaza vă invită la reflecție la Monumentul Medan Area și la vechiul spital Tembakau Deli. Plimbarea se încheie în lumina serii la Tugu Adipura.",
         "en": "Morning begins at the Monumen Guru Patimpus, unearthing Medan's origins. Midday leads you through the lush greens of Lapangan Merdeka, a perfect colonial backdrop. The afternoon invites reflection at Monumen Medan Area and the historic Eks RSU Tembakau Deli. Your walk concludes in the evening glow of Tugu Adipura."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Guru Patimpus Monument, wo der Regen der Statue eine glänzende Textur verleiht. Mittags bietet der Lapangan Merdeka trotz Pfützen eine grüne Atempause; nutzen Sie die überdachten Wege der umliegenden Kolonialbauten. Am Nachmittag erkunden Sie die historischen Ruinen des Tembakau Deli Krankenhauses. Beenden Sie den Tag am Tugu Adipura, wenn die Lichter im Regen funkeln.",
+            "hu": "Kezdje a napot a Guru Patimpus emlékműnél, ahol az eső csillogó textúrát ad a szobornak. Délben a Lapangan Merdeka a tócsák ellenére is zöld felfrissülést nyújt; használja a környező gyarmati épületek fedett folyosóit. Délután fedezze fel a Tembakau Deli kórház történelmi romjait az esernyője alatt. Zárja a napot a Tugu Adipuránál, miközben a városi fények megcsillannak a vizes aszfalton.",
+            "ro": "Începeți ziua la Monumentul Guru Patimpus, unde ploaia oferă statuii o textură strălucitoare. La prânz, Lapangan Merdeka oferă o pauză verde în ciuda bălților; folosiți coridoarele acoperite ale clădirilor coloniale. După-amiaza, explorați ruinele istorice ale spitalului Tembakau Deli sub umbrelă. Încheiați ziua la Tugu Adipura, în timp ce luminile orașului sclipesc pe asfaltul umed.",
+            "en": "Start your day at the Guru Patimpus Monument, where the rain adds a glistening texture to the statue. At noon, Lapangan Merdeka provides a green respite despite the puddles; use the covered walkways of surrounding colonial buildings. In the afternoon, explore the historical ruins of Tembakau Deli Hospital under your umbrella. End the day at Tugu Adipura as city lights shimmer on wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumen Guru Patimpus",
+                "hu": "Monumen Guru Patimpus",
+                "ro": "Monumen Guru Patimpus",
+                "en": "Monumen Guru Patimpus"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Statue des Stadtgründers; bei Regen bieten die nahen Vordächer Schutz. Achten Sie auf den rutschigen Sockel und halten Sie Ihren Regenschirm bereit.",
+                "hu": "Csodálja meg a városalapító szobrát; esőben a közeli előtetők nyújtanak menedéket. Ügyeljen a csúszós talapzatra, és tartsa készenlétben az esernyőjét a fotózáshoz.",
+                "ro": "Admirați statuia fondatorului orașului; în caz de ploaie, streșinile din apropiere oferă adăpost. Atenție la soclul alunecos și țineți umbrela pregătită pentru poze.",
+                "en": "Admire the statue of the city's founder; nearby overhangs offer shelter during showers. Watch out for slippery pavement and keep your umbrella ready for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapangan Merdeka",
+                "hu": "Lapangan Merdeka",
+                "ro": "Lapangan Merdeka",
+                "en": "Lapangan Merdeka"
+              },
+              "tip_5lang": {
+                "de": "Dieser zentrale Platz wirkt im Regen besonders mystisch. Nutzen Sie die überdachten Arkaden der Post gegenüber, um trocken zu bleiben und das Panorama zu genießen.",
+                "hu": "Ez a központi tér esőben különösen misztikus. Használja a szemközti posta épületének fedett árkádjait, hogy szárazon maradva élvezhesse a városi panorámát.",
+                "ro": "Această piață centrală pare mistică în ploaie. Folosiți arcadele acoperite ale poștei de vis-a-vis pentru a rămâne uscat în timp ce admirați panorama urbană.",
+                "en": "This central square looks mystical in the rain. Use the covered arcades of the post office across the street to stay dry while enjoying the urban panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Medan Area",
+                "hu": "Monumen Medan Area",
+                "ro": "Monumen Medan Area",
+                "en": "Monumen Medan Area"
+              },
+              "tip_5lang": {
+                "de": "Ein wichtiges Symbol des Widerstands. Suchen Sie bei starkem Guss Schutz unter den Bäumen oder in den Cafés der Jalan Bali, während Sie die Geschichte ehren.",
+                "hu": "Az ellenállás fontos szimbóluma. Heves esőzéskor keressen menedéket a fák alatt vagy a Jalan Bali kávézóiban, miközben tiszteleg a helyi történelem előtt.",
+                "ro": "Un simbol important al rezistenței. În caz de ploaie torențială, căutați adăpost sub copaci sau în cafenelele de pe Jalan Bali în timp ce onorați istoria.",
+                "en": "An important symbol of resistance. In heavy rain, seek shelter under trees or in Jalan Bali cafes while you pay your respects to the local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Eks RSU Tembakau Deli",
+                "hu": "Eks RSU Tembakau Deli",
+                "ro": "Eks RSU Tembakau Deli",
+                "en": "Eks RSU Tembakau Deli"
+              },
+              "tip_5lang": {
+                "de": "Die alte Krankenhausruine wirkt bei grauem Himmel besonders atmosphärisch. Tragen Sie wasserfeste Schuhe, da das Gelände uneben und oft schlammig ist.",
+                "hu": "A régi kórházrom szürke égbolt alatt különösen hangulatos. Viseljen vízálló cipőt, mivel a terep egyenetlen és esőben gyakran sáros és csúszós lesz.",
+                "ro": "Ruinele vechiului spital sunt atmosferice sub cerul gri. Purtați încălțăminte impermeabilă, deoarece terenul este denivelat și adesea noroios după ploaie.",
+                "en": "The old hospital ruins are very atmospheric under grey skies. Wear waterproof shoes, as the ground is uneven and often muddy and slippery after rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Adipura",
+                "hu": "Tugu Adipura",
+                "ro": "Tugu Adipura",
+                "en": "Tugu Adipura"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal für Sauberkeit glänzt im Regen. Ein kurzer Stopp reicht aus; halten Sie ein Taxi bereit, um nach der Besichtigung schnell ins Trockene zu kommen.",
+                "hu": "A tisztaság emlékműve gyönyörűen csillog az esőben. Egy rövid megálló elég; legyen kéznél taxi, hogy a látogatás után gyorsan száraz helyre érhessen.",
+                "ro": "Acest monument al curățeniei strălucește în ploaie. O scurtă oprire este suficientă; aveți un taxi pregătit pentru a ajunge rapid la uscat după vizită.",
+                "en": "This monument to cleanliness shines beautifully in the rain. A short stop is enough; have a taxi ready to quickly return to a dry place after your visit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühleren Wintermorgende in Medan sind ideal für den Besuch des Guru Patimpus Denkmals. Mittags ist der Lapangan Merdeka ohne die intensive Tropenhitze viel angenehmer zu erkunden. Besuchen Sie das historische Tembakau Deli Krankenhaus am Nachmittag, bevor die Sonne gegen 17:00 Uhr untergeht. Den Abend verbringen Sie am Tugu Adipura, wo die kühle Brise den Spaziergang perfekt abrundet.",
+            "hu": "A hűvösebb téli reggelek Medanban ideálisak a Guru Patimpus emlékmű meglátogatására. Délben a Lapangan Merdeka a trópusi hőség nélkül sokkal kellemesebb sétát kínál. A Tembakau Deli kórház romjait délután keresse fel, mielőtt 17:00 körül lemegy a nap. Az estét töltse a Tugu Adipuránál, ahol a friss szellő teszi teljessé a nap végi városnézést.",
+            "ro": "Diminețile mai răcoroase de iarnă în Medan sunt ideale pentru a vizita Monumentul Guru Patimpus. La prânz, Lapangan Merdeka este mult mai plăcut fără căldura tropicală. Vizitați ruinele spitalului Tembakau Deli după-amiaza, înainte ca soarele să apună în jur de ora 17:00. Petreceți seara la Tugu Adipura, unde briza răcoroasă completează perfect plimbarea.",
+            "en": "Cooler winter mornings in Medan are ideal for visiting the Guru Patimpus Monument. At noon, Lapangan Merdeka is much more pleasant to explore without the intense tropical heat. Visit the Tembakau Deli hospital ruins in the afternoon before the sun sets around 17:00. Spend your evening at Tugu Adipura, where the fresh breeze rounds off your city walk perfectly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumen Guru Patimpus",
+                "hu": "Monumen Guru Patimpus",
+                "ro": "Monumen Guru Patimpus",
+                "en": "Monumen Guru Patimpus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das weiche Morgenlicht für Fotos der Statue. Eine leichte Jacke schützt Sie vor der frischen Brise, die oft durch die breiten Straßen weht.",
+                "hu": "Használja ki a lágy reggeli fényt a szobor fotózásához. Egy könnyű dzseki megvédi a friss szellőtől, amely ilyenkor gyakran fúj a széles sugárutakon.",
+                "ro": "Profită de lumina blândă a dimineții pentru fotografii. O jachetă ușoară te va proteja de briza proaspătă care suflă adesea pe bulevardele largi.",
+                "en": "Take advantage of the soft morning light for photos. A light jacket will protect you from the fresh breeze that often blows through the wide avenues."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapangan Merdeka",
+                "hu": "Lapangan Merdeka",
+                "ro": "Lapangan Merdeka",
+                "en": "Lapangan Merdeka"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen langen Spaziergang ohne Hitzeerschöpfung. Genießen Sie die winterliche Atmosphäre im Park und probieren Sie einen warmen Tee an einem Stand.",
+                "hu": "Tökéletes hely egy hosszú sétához hőségriadó nélkül. Élvezze a téli hangulatot a parkban, és kóstoljon meg egy meleg teát az egyik közeli árusnál.",
+                "ro": "Perfect pentru o plimbare lungă fără epuizare termică. Bucurați-vă de atmosfera de iarnă din parc și încercați un ceai cald de la un vânzător local.",
+                "en": "Perfect for a long walk without heat exhaustion. Enjoy the winter atmosphere in the park and try a warm tea from one of the local street vendors."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Medan Area",
+                "hu": "Monumen Medan Area",
+                "ro": "Monumen Medan Area",
+                "en": "Monumen Medan Area"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal ist im Winter oft von klarerem Himmel umgeben. Planen Sie Ihren Besuch vor 16:30 Uhr, um das beste Tageslicht für die Details zu haben.",
+                "hu": "Az emlékművet télen gyakran tisztább égbolt övezi. Tervezze látogatását 16:30 elé, hogy a legjobb nappali fényben láthassa a történelmi részleteket.",
+                "ro": "Monumentul este adesea înconjurat de un cer mai senin iarna. Planificați vizita înainte de 16:30 pentru a vedea detaliile în cea mai bună lumină.",
+                "en": "The monument is often surrounded by clearer skies in winter. Plan your visit before 16:30 to see the historical details in the best daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Eks RSU Tembakau Deli",
+                "hu": "Eks RSU Tembakau Deli",
+                "ro": "Eks RSU Tembakau Deli",
+                "en": "Eks RSU Tembakau Deli"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen zügig, da es im Schatten der alten Mauern kühl werden kann. Die früh einsetzende Dämmerung verleiht dem Ort eine mystische Aura.",
+                "hu": "Fedezze fel a romokat tempósan, mert a falak árnyékában hűvös lehet. A korán beköszöntő alkonyat misztikus aurát kölcsönöz az egykori kórháznak.",
+                "ro": "Explorați ruinele rapid, deoarece la umbra zidurilor vechi poate fi răcoare. Amurgul timpuriu oferă locului o aură mistică și fascinantă.",
+                "en": "Explore the ruins at a steady pace, as it can be cool in the shadows of the old walls. The early dusk gives the site a mystical and fascinating aura."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Adipura",
+                "hu": "Tugu Adipura",
+                "ro": "Tugu Adipura",
+                "en": "Tugu Adipura"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier bei Sonnenuntergang gegen 17:00 Uhr. Die beleuchtete Säule bildet einen schönen Kontrast zum frühen dunklen Winterhimmel.",
+                "hu": "Fejezze be túráját itt napnyugtakor, 17:00 körül. A kivilágított oszlop gyönyörű kontrasztot alkot a korán sötétedő téli égbolttal.",
+                "ro": "Încheiați turul aici la apus, în jur de ora 17:00. Coloana iluminată formează un contrast frumos cu cerul de iarnă care se întunecă devreme.",
+                "en": "Finish your tour here at sunset around 17:00. The illuminated column forms a beautiful contrast with the early darkening winter sky."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a túrát a katonai történelmet bemutató Museum Perjuangan TNI-nél, majd a vibráló Sri Mariamman templomnál. A dél a Monumen Guru Patimpus mellett a Lapangan Merdeka nyitott tereire viszi. Délután tekerjen el a Monumen Medan Perjuanganhoz, majd fejezze be útját a Kínai Történeti Galériában.",
         "ro": "Începeți traseul la Muzeul Perjuangan TNI pentru istorie militară, urmat de vibrantul Templu Sri Mariamman. Prânzul vă poartă pe lângă Monumentul Guru Patimpus spre spațiile de la Lapangan Merdeka. După-amiaza pedalați spre Monumentul Medan Perjuangan, terminând ziua la Galeria de Istorie Chineză.",
         "en": "Start your ride at Museum Perjuangan TNI, uncovering military history, followed by the vibrant Sri Mariamman Temple. Midday takes you past the iconic Monumen Guru Patimpus to the open spaces of Lapangan Merdeka. In the afternoon, cycle to Monumen Medan Perjuangan before ending at the Chinese History Gallery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie trocken im TNI Museum, bevor Sie durch den Regen zum Sri Mariamman Tempel radeln. Mittags sind die Denkmäler am Guru Patimpus und Lapangan Merdeka Ihre Ziele; fahren Sie vorsichtig auf nassen Straßen. Nachmittags geht es zum Medan Perjuangan Monument. Den Tag beenden Sie gemütlich in der Galeri Sejarah Tionghoa, während draußen der Regen auf das Dach trommelt.",
+            "hu": "Kezdje szárazon a TNI Múzeumban, mielőtt az esőben eltekerni a Sri Mariamman templomhoz. Délben a Guru Patimpus és Lapangan Merdeka emlékművek a célpontok; óvatosan közlekedjen a vizes utakon. Délután látogasson el a Medan Perjuangan emlékműhöz. A napot töltse a Galeri Sejarah Tionghoa falai között, miközben kint az eső kopog a tetőn.",
+            "ro": "Începeți la adăpost în Muzeul TNI înainte de a pedala prin ploaie spre Templul Sri Mariamman. La prânz, monumentele Guru Patimpus și Lapangan Merdeka sunt țintele; pedalați cu atenție pe drumurile ude. După-amiaza, vizitați Monumentul Medan Perjuangan. Încheiați ziua la Galeri Sejarah Tionghoa, în timp ce ploaia bate pe acoperiș.",
+            "en": "Start dry at the TNI Museum before cycling through the rain to Sri Mariamman Temple. At noon, the Guru Patimpus and Lapangan Merdeka monuments are your targets; cycle carefully on wet roads. In the afternoon, visit the Medan Perjuangan Monument. End your day inside Galeri Sejarah Tionghoa while the rain drums on the roof outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Perjuangan TNI",
+                "hu": "Museum Perjuangan TNI",
+                "ro": "Museum Perjuangan TNI",
+                "en": "Museum Perjuangan TNI"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Startpunkt im Trockenen. Nutzen Sie die Zeit für die Innenausstellung und warten Sie hier eine eventuelle Regenfront ab, bevor Sie weiterradeln.",
+                "hu": "Ideális kiindulópont fedett helyen. Használja ki az időt a belső kiállításra, és várja meg itt a nagyobb felhőszakadást, mielőtt továbbtekerne.",
+                "ro": "Un punct de plecare ideal la adăpost. Folosiți timpul pentru expoziția interioară și așteptați aici trecerea ploii torențiale înainte de a pedala.",
+                "en": "An ideal starting point indoors. Use the time for the indoor exhibition and wait here for any heavy rain to pass before you start cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Sri Mariamman Temple",
+                "hu": "Sri Mariamman Temple",
+                "ro": "Sri Mariamman Temple",
+                "en": "Sri Mariamman Temple"
+              },
+              "tip_5lang": {
+                "de": "Die Farben des Tempels leuchten im Regen besonders intensiv. Stellen Sie Ihr Fahrrad unter ein Vordach und tragen Sie wasserfeste Überschuhe für den Tempelhof.",
+                "hu": "A templom színei esőben különösen élénkek. Állítsa a biciklit előtető alá, és viseljen vízálló cipővédőt a templomudvaron való sétához.",
+                "ro": "Culorile templului sunt intense în ploaie. Parcați bicicleta sub o streașină și purtați protecții de pantofi impermeabile pentru curtea templului.",
+                "en": "The temple colors are especially vivid in the rain. Park your bike under an overhang and wear waterproof shoe covers for walking in the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Guru Patimpus",
+                "hu": "Monumen Guru Patimpus",
+                "ro": "Monumen Guru Patimpus",
+                "en": "Monumen Guru Patimpus"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf das Denkmal zu, da die umliegenden Fliesen rutschig sind. Ein schneller Fotostopp unter dem Regenschutz ist hier am besten.",
+                "hu": "Lassan közelítse meg az emlékművet, mert a környező burkolat csúszós. Egy gyors fotómegálló esővédő felszerelésben a legcélszerűbb megoldás.",
+                "ro": "Apropiați-vă de monument încet, deoarece pavajul din jur este alunecos. O scurtă oprire pentru poze în echipament de ploaie este cea mai bună idee.",
+                "en": "Approach the monument slowly, as the surrounding tiles are slippery. A quick photo stop in rain gear is the best way to handle this location."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapangan Merdeka",
+                "hu": "Lapangan Merdeka",
+                "ro": "Lapangan Merdeka",
+                "en": "Lapangan Merdeka"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie die Rasenflächen und bleiben Sie auf den asphaltierten Wegen. Der Bahnhof gegenüber bietet eine gute Unterstellmöglichkeit für Radfahrer.",
+                "hu": "Kerülje a füves területeket, és maradjon az aszfaltozott utakon. A szemközti pályaudvar kiváló fedett helyet kínál a kerékpárosoknak pihenni.",
+                "ro": "Evitați zonele cu iarbă și rămâneți pe drumurile asfaltate. Gara de vis-a-vis oferă un adăpost excelent pentru bicicliști în caz de ploaie.",
+                "en": "Avoid the grassy areas and stay on the paved paths. The train station across the street offers excellent shelter for cyclists during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Medan Perjuangan",
+                "hu": "Monumen Medan Perjuangan",
+                "ro": "Monumen Medan Perjuangan",
+                "en": "Monumen Medan Perjuangan"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal liegt an einer belebten Kreuzung; bei Regen ist die Sicht eingeschränkt. Tragen Sie Kleidung mit Reflektoren für zusätzliche Sicherheit.",
+                "hu": "Ez az emlékmű forgalmas kereszteződésben áll; esőben a látótávolság korlátozott. Viseljen fényvisszaverő ruházatot a biztonságos közlekedéshez.",
+                "ro": "Acest monument se află într-o intersecție aglomerată; vizibilitatea este redusă pe ploaie. Purtați haine reflectorizante pentru siguranță sporită.",
+                "en": "This monument is at a busy intersection; visibility is reduced in the rain. Wear reflective clothing for extra safety while cycling here."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeri Sejarah Tionghoa Sumut",
+                "hu": "Galeri Sejarah Tionghoa Sumut",
+                "ro": "Galeri Sejarah Tionghoa Sumut",
+                "en": "Galeri Sejarah Tionghoa Sumut"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss im Warmen und Trockenen. Parken Sie Ihr Rad sicher und nehmen Sie sich Zeit, die umfangreiche Sammlung im Inneren zu erkunden.",
+                "hu": "Tökéletes befejezés meleg és száraz helyen. Parkolja le biztonságosan a biciklit, és szánjon időt a belső gyűjtemény alapos felfedezésére.",
+                "ro": "Finalul perfect într-un loc cald și uscat. Parcați bicicleta în siguranță și acordați-vă timp pentru a explora colecția bogată din interior.",
+                "en": "The perfect end in a warm and dry place. Park your bike securely and take your time to explore the extensive indoor collection thoroughly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt im TNI Museum. Radeln Sie entspannt zum Sri Mariamman Tempel, während die Luft angenehm kühl ist. Mittags besuchen Sie das Guru Patimpus Denkmal und den Lapangan Merdeka Park. Nachmittags geht es zum Medan Perjuangan Monument. Beenden Sie Ihre Tour in der Galeri Sejarah Tionghoa, bevor es gegen 17:00 Uhr dunkel wird.",
+            "hu": "Friss téli reggel kezdődik a TNI Múzeumban. Tekerjen kényelmesen a Sri Mariamman templomhoz, amíg a levegő kellemesen hűvös. Délben látogassa meg a Guru Patimpus emlékművet és a Lapangan Merdeka parkot. Délután irány a Medan Perjuangan emlékmű. Fejezze be túráját a Galeri Sejarah Tionghoa falai között, mielőtt 17:00 körül besötétedik.",
+            "ro": "O dimineață proaspătă de iarnă începe la Muzeul TNI. Pedalați relaxat spre Templul Sri Mariamman cât timp aerul este plăcut. La prânz, vizitați Monumentul Guru Patimpus și parcul Lapangan Merdeka. După-amiaza, mergeți la Monumentul Medan Perjuangan. Încheiați turul la Galeri Sejarah Tionghoa înainte de lăsarea întunericului, pe la ora 17:00.",
+            "en": "A fresh winter morning starts at the TNI Museum. Cycle relaxed to Sri Mariamman Temple while the air is pleasantly cool. At noon, visit the Guru Patimpus Monument and Lapangan Merdeka park. In the afternoon, head to the Medan Perjuangan Monument. Finish your tour at Galeri Sejarah Tionghoa before it gets dark around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Perjuangan TNI",
+                "hu": "Museum Perjuangan TNI",
+                "ro": "Museum Perjuangan TNI",
+                "en": "Museum Perjuangan TNI"
+              },
+              "tip_5lang": {
+                "de": "Die kühlen Räume sind im Winter sehr einladend. Beginnen Sie früh, um die kühle Morgenluft auf dem Fahrrad optimal für den nächsten Wegabschnitt zu nutzen.",
+                "hu": "A hűvös termek télen is nagyon hívogatóak. Kezdjen korán, hogy a friss reggeli levegőt a biciklin ülve a következő útszakaszon is kihasználhassa.",
+                "ro": "Sălile răcoroase sunt foarte primitoare iarna. Începeți devreme pentru a profita de aerul proaspăt de dimineață pe bicicletă spre următoarea oprire.",
+                "en": "The cool rooms are very inviting in winter. Start early to make the most of the fresh morning air on your bike for the next leg of your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Sri Mariamman Temple",
+                "hu": "Sri Mariamman Temple",
+                "ro": "Sri Mariamman Temple",
+                "en": "Sri Mariamman Temple"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Tempel am Vormittag, wenn die Sonne tief steht und die bunten Figuren beleuchtet. Tragen Sie Socken, da der Boden kühl sein kann.",
+                "hu": "Látogassa meg a templomot délelőtt, amikor az alacsony napfény megvilágítja a színes figurákat. Viseljen zoknit, mert a kőpadló ilyenkor hűvös lehet.",
+                "ro": "Vizitați templul dimineața, când soarele luminează figurile colorate. Purtați șosete, deoarece podeaua de piatră poate fi destul de rece iarna.",
+                "en": "Visit the temple in the morning when the low sun illuminates the colorful figures. Wear socks, as the stone floor can be quite cool in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Guru Patimpus",
+                "hu": "Monumen Guru Patimpus",
+                "ro": "Monumen Guru Patimpus",
+                "en": "Monumen Guru Patimpus"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine großartige Sicht auf das Denkmal. Machen Sie eine kurze Pause und genießen Sie die kühle Brise auf dem Platz.",
+                "hu": "A tiszta téli levegő nagyszerű kilátást nyújt az emlékműre. Tartson egy rövid szünetet, és élvezze a frissítő szellőt a nyitott téren.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă asupra monumentului. Faceți o scurtă pauză și bucurați-vă de briza răcoroasă din piață.",
+                "en": "The clear winter air offers a great view of the monument. Take a short break and enjoy the refreshing breeze in the open square."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapangan Merdeka",
+                "hu": "Lapangan Merdeka",
+                "ro": "Lapangan Merdeka",
+                "en": "Lapangan Merdeka"
+              },
+              "tip_5lang": {
+                "de": "Ideal zum Radfahren ohne Schweißperlen. Nutzen Sie die Mittagszeit für eine Erkundungstour durch den Park und die umliegenden historischen Gebäude.",
+                "hu": "Ideális időpont a biciklizéshez izzadás nélkül. Használja ki a délidőt a park és a környező történelmi épületek alapos körbetekerésére.",
+                "ro": "Ideal pentru pedalat fără transpirație. Folosiți timpul prânzului pentru a explora parcul și clădirile istorice din jur pe bicicletă.",
+                "en": "Ideal for cycling without sweating. Use the midday time to explore the park and the surrounding historical buildings on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Medan Perjuangan",
+                "hu": "Monumen Medan Perjuangan",
+                "ro": "Monumen Medan Perjuangan",
+                "en": "Monumen Medan Perjuangan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort am frühen Nachmittag. Die winterliche Sonne erzeugt lange Schatten, die dem Denkmal eine dramatische Wirkung verleihen.",
+                "hu": "Kora délután látogasson el ide. A téli napsütés hosszú árnyékokat vet, ami drámai hatást kölcsönöz az emlékmű monumentális alakjának.",
+                "ro": "Vizitați acest loc după-amiaza devreme. Soarele de iarnă creează umbre lungi, oferind monumentului un efect dramatic și impunător.",
+                "en": "Visit here in the early afternoon. The winter sun creates long shadows, giving the monument a dramatic and imposing effect."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeri Sejarah Tionghoa Sumut",
+                "hu": "Galeri Sejarah Tionghoa Sumut",
+                "ro": "Galeri Sejarah Tionghoa Sumut",
+                "en": "Galeri Sejarah Tionghoa Sumut"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier vor 17:00 Uhr. Das warme Licht im Inneren ist ein schöner Kontrast zum beginnenden frühen Winterabend draußen.",
+                "hu": "Fejezze be túráját itt 17:00 előtt. A belső terek meleg fénye szép kontrasztot alkot a kint korán kezdődő téli estével.",
+                "ro": "Încheiați turul aici înainte de ora 17:00. Lumina caldă din interior este un contrast plăcut cu seara de iarnă care începe devreme afară.",
+                "en": "Finish your tour here before 17:00. The warm indoor lighting is a nice contrast to the early winter evening starting outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Utazása a RAZ Múzeum oktatási bemutatójával kezdődik, melyet az újságírás története követ. A dél egy színes látogatást hoz a Sri Mariamman templomnál és az UMSU Galéria egyetemi hangulatát. A délután fénypontja a hatalmas Candi Somdet Nyanasamvara, majd a nyüzsgő Bundaran MMTC-nél fejezi be a napot.",
         "ro": "Plimbarea cu mașina începe la Muzeul RAZ, urmată de o incursiune în istoria jurnalismului. Prânzul aduce o vizită colorată la Templul Sri Mariamman și o atmosferă academică la Galeria UMSU. După-amiaza vizitați grandiosul Candi Somdet Nyanasamvara, terminând ziua la sensul giratoriu MMTC.",
         "en": "Your drive begins with educational insights at the RAZ Museum, followed by a fascinating look at journalism history. Midday brings a colorful visit to the Sri Mariamman Temple and the campus vibes at Gallery UMSU. The afternoon features the grand Candi Somdet Nyanasamvara, finishing at the bustling Bundaran MMTC."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Medan bequem vom Auto aus, beginnend mit der RAZ Galerie. Die Fahrt zum Pressemuseum bietet Schutz vor den Schauern. Mittags besuchen Sie den Sri Mariamman Tempel und die UMSU Galerie, ideal für regnerische Stunden. Nachmittags führt die Route zum Candi Somdet. Den Tag lassen Sie am Bundaran MMTC ausklingen, während Sie den Regen durch das Autofenster beobachten.",
+            "hu": "Élvezze Medant kényelmesen az autóból, a RAZ Galériával kezdve. Az út a Sajtómúzeumhoz védelmet nyújt a záporok elől. Délben látogassa meg a Sri Mariamman templomot és az UMSU Galériát, melyek ideálisak esős órákra. Délután az út a Candi Somdethez vezet. A napot a Bundaran MMTC-nél zárja, nézve az esőt az autó ablakán keresztül.",
+            "ro": "Bucurați-vă de Medan din confortul mașinii, începând cu Galeria RAZ. Drumul spre Muzeul Presei oferă protecție împotriva ploii. La prânz, vizitați Templul Sri Mariamman și Galeria UMSU, ideale pentru orele ploioase. După-amiaza, ruta duce la Candi Somdet. Încheiați ziua la Bundaran MMTC, privind ploaia prin geamul mașinii.",
+            "en": "Enjoy Medan comfortably from your car, starting with the RAZ Gallery. The drive to the Press Museum offers protection from showers. At noon, visit Sri Mariamman Temple and UMSU Gallery, both ideal for rainy hours. In the afternoon, the route leads to Candi Somdet. End your day at Bundaran MMTC while watching the rain through the car window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "RAZ MUSEUM & GALLERY",
+                "hu": "RAZ MUSEUM & GALLERY",
+                "ro": "RAZ MUSEUM & GALLERY",
+                "en": "RAZ MUSEUM & GALLERY"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen regnerischen Morgen. Das Museum ist komplett überdacht; lassen Sie sich direkt am Eingang absetzen, um nicht nass zu werden.",
+                "hu": "Tökéletes választás egy esős reggelen. A múzeum teljesen fedett; szálljon ki közvetlenül a bejáratnál, hogy elkerülje az elázást.",
+                "ro": "Perfect pentru o dimineață ploioasă. Muzeul este complet acoperit; lăsați-vă lăsat chiar la intrare pentru a nu vă uda deloc.",
+                "en": "Perfect for a rainy morning. The museum is completely covered; have your driver drop you off right at the entrance to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Perjuangan Pers Sumatera Utara",
+                "hu": "Museum Perjuangan Pers Sumatera Utara",
+                "ro": "Museum Perjuangan Pers Sumatera Utara",
+                "en": "Museum Perjuangan Pers Sumatera Utara"
+              },
+              "tip_5lang": {
+                "de": "Ein weiteres Indoor-Highlight. Nutzen Sie die Zeit im Museum für die Geschichte der Presse, während draußen ein heftiger Schauer niedergeht.",
+                "hu": "Újabb fedett látnivaló. Szánjon időt a sajtótörténeti kiállításra a múzeumban, amíg kint egy hevesebb zápor elvonul a város felett.",
+                "ro": "O altă atracție acoperită. Acordați timp expoziției de istorie a presei din muzeu în timp ce afară trece o ploaie torențială.",
+                "en": "Another indoor highlight. Take your time exploring the press history exhibition in the museum while a heavy shower passes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sri Mariamman Temple",
+                "hu": "Sri Mariamman Temple",
+                "ro": "Sri Mariamman Temple",
+                "en": "Sri Mariamman Temple"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Tempel. Nutzen Sie einen großen Regenschirm für den kurzen Weg zum Eingang; die Farben leuchten herrlich im nassen Zustand.",
+                "hu": "A parkoló közel van a templomhoz. Használjon nagy esernyőt a rövid úthoz a bejáratig; a színes szobrok gyönyörűen csillognak vizesen.",
+                "ro": "Parcarea este aproape de templu. Folosiți o umbrelă mare pentru drumul scurt până la intrare; culorile strălucesc superb când sunt ude.",
+                "en": "The parking area is close to the temple. Use a large umbrella for the short walk to the entrance; the colorful statues look beautiful when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallery UMSU",
+                "hu": "Gallery UMSU",
+                "ro": "Gallery UMSU",
+                "en": "Gallery UMSU"
+              },
+              "tip_5lang": {
+                "de": "Diese Galerie bietet einen sicheren Zufluchtsort vor dem Wetter. Parken Sie in der Nähe des Gebäudes und genießen Sie die Kunst in aller Ruhe.",
+                "hu": "Ez a galéria biztonságos menedéket nyújt az időjárás elől. Parkoljon az épület közvetlen közelében, és élvezze a művészetet nyugalomban.",
+                "ro": "Această galerie oferă un refugiu sigur împotriva vremii. Parcați lângă clădire și bucurați-vă de artă în liniște deplină.",
+                "en": "This gallery provides a safe haven from the weather. Park close to the building and enjoy the art collection in complete tranquility."
+              }
+            },
+            {
+              "name": {
+                "de": "Candi Somdet Nyanasamvara",
+                "hu": "Candi Somdet Nyanasamvara",
+                "ro": "Candi Somdet Nyanasamvara",
+                "en": "Candi Somdet Nyanasamvara"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen kann der Weg zum Candi rutschig sein. Bleiben Sie auf den befestigten Pfaden und nutzen Sie das Auto für den Transfer zwischen den Bereichen.",
+                "hu": "Esőben a templomhoz vezető út csúszós lehet. Maradjon a kijelölt ösvényeken, és használja az autót a különböző részek közötti közlekedésre.",
+                "ro": "Pe ploaie, drumul spre templu poate fi alunecos. Rămâneți pe potecile amenajate și folosiți mașina pentru transferul între zone.",
+                "en": "In the rain, the path to the temple can be slippery. Stay on the paved paths and use the car for transfers between different sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Bundaran MMTC",
+                "hu": "Bundaran MMTC",
+                "ro": "Bundaran MMTC",
+                "en": "Bundaran MMTC"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das beleuchtete Monument bequem vom trockenen Auto aus. Die Reflexionen der Lichter in den Pfützen bieten ein tolles Fotomotiv.",
+                "hu": "Figyelje a kivilágított emlékművet kényelmesen a száraz autóból. A fények tükröződése a tócsákban kiváló fotótémát kínál a nap végén.",
+                "ro": "Observați monumentul iluminat din confortul mașinii uscate. Reflexiile luminilor în bălți oferă un subiect excelent pentru fotografii.",
+                "en": "Observe the illuminated monument comfortably from your dry car. The reflections of the lights in the puddles offer a great photo opportunity."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Winterluft macht die Autofahrt durch Medan besonders angenehm. Starten Sie bei der RAZ Galerie und dem Pressemuseum. Mittags besuchen Sie den Sri Mariamman Tempel und die UMSU Galerie. Nachmittags führt die Route zum Candi Somdet, während die Sonne tiefer steht. Beenden Sie den Tag am Bundaran MMTC, bevor es gegen 17:00 Uhr früh dunkel wird.",
+            "hu": "A hűvös téli levegő különösen kellemessé teszi az autózást Medanban. Kezdjen a RAZ Galériánál és a Sajtómúzeumnál. Délben látogassa meg a Sri Mariamman templomot és az UMSU Galériát. Délután az út a Candi Somdethez vezet, miközben a nap már alacsonyabban jár. Zárja a napot a Bundaran MMTC-nél, mielőtt 17:00 körül korán besötétedik.",
+            "ro": "Aerul răcoros de iarnă face călătoria cu mașina prin Medan foarte plăcută. Începeți la Galeria RAZ și Muzeul Presei. La prânz, vizitați Templul Sri Mariamman și Galeria UMSU. După-amiaza, ruta duce la Candi Somdet sub soarele de iarnă. Încheiați ziua la Bundaran MMTC înainte de lăsarea serii, pe la ora 17:00.",
+            "en": "The cool winter air makes the drive through Medan particularly pleasant. Start at the RAZ Gallery and the Press Museum. At noon, visit Sri Mariamman Temple and UMSU Gallery. In the afternoon, the route leads to Candi Somdet as the sun hangs lower. Finish your day at Bundaran MMTC before it gets dark early around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "RAZ MUSEUM & GALLERY",
+                "hu": "RAZ MUSEUM & GALLERY",
+                "ro": "RAZ MUSEUM & GALLERY",
+                "en": "RAZ MUSEUM & GALLERY"
+              },
+              "tip_5lang": {
+                "de": "Ein frischer Start in den Tag. Die Klimaanlage im Auto kann niedriger eingestellt werden; genießen Sie die winterliche Atmosphäre in der Galerie.",
+                "hu": "Friss kezdés a naphoz. Az autó klímáját alacsonyabb fokozatra állíthatja; élvezze a téli reggel hangulatát a galéria falai között.",
+                "ro": "Un început proaspăt de zi. Puteți seta aerul condiționat din mașină la o treaptă inferioară; bucurați-vă de atmosfera de iarnă în galerie.",
+                "en": "A fresh start to the day. You can set the car's AC to a lower level; enjoy the winter morning atmosphere within the gallery walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Perjuangan Pers Sumatera Utara",
+                "hu": "Museum Perjuangan Pers Sumatera Utara",
+                "ro": "Museum Perjuangan Pers Sumatera Utara",
+                "en": "Museum Perjuangan Pers Sumatera Utara"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am Vormittag. Das winterliche Licht fällt schön durch die Fenster und beleuchtet die historischen Zeitungsarchive.",
+                "hu": "Délelőtt látogassa meg a múzeumot. A téli fények szépen hullanak be az ablakokon, megvilágítva a történelmi újságarchívumokat.",
+                "ro": "Vizitați muzeul dimineața. Lumina de iarnă pătrunde frumos prin ferestre, luminând arhivele istorice de ziare ale muzeului.",
+                "en": "Visit the museum in the morning. The winter light falls beautifully through the windows, illuminating the historical newspaper archives."
+              }
+            },
+            {
+              "name": {
+                "de": "Sri Mariamman Temple",
+                "hu": "Sri Mariamman Temple",
+                "ro": "Sri Mariamman Temple",
+                "en": "Sri Mariamman Temple"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist es im Winter viel kühler auf dem Tempelgelände. Ein idealer Zeitpunkt für einen Spaziergang ohne die sonst übliche Mittagshitze.",
+                "hu": "Délben télen sokkal hűvösebb van a templom udvarán. Ideális időpont egy sétához a szobrok között a szokásos déli hőség nélkül.",
+                "ro": "La prânz este mult mai răcoare în curtea templului iarna. Un moment ideal pentru o plimbare printre statui fără căldura obișnuită.",
+                "en": "At noon in winter, it's much cooler in the temple courtyard. An ideal time for a walk among the statues without the usual midday heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallery UMSU",
+                "hu": "Gallery UMSU",
+                "ro": "Gallery UMSU",
+                "en": "Gallery UMSU"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie ist im Winter ein ruhiger Ort für Kunstliebhaber. Nehmen Sie sich Zeit für die Ausstellungen, bevor die Nachmittagssonne tiefer sinkt.",
+                "hu": "A galéria télen nyugodt hely a művészetkedvelőknek. Szánjon időt a kiállításokra, mielőtt a délutáni nap alacsonyabbra süllyed az égen.",
+                "ro": "Galeria este un loc liniștit pentru iubitorii de artă iarna. Acordați timp expozițiilor înainte ca soarele de după-amiază să coboare.",
+                "en": "The gallery is a peaceful place for art lovers in winter. Take your time for the exhibitions before the afternoon sun sinks lower in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Candi Somdet Nyanasamvara",
+                "hu": "Candi Somdet Nyanasamvara",
+                "ro": "Candi Somdet Nyanasamvara",
+                "en": "Candi Somdet Nyanasamvara"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Candi gegen 16:00 Uhr. Die winterliche Abenddämmerung beginnt früh und hüllt die Architektur in ein goldenes Licht.",
+                "hu": "Látogasson el a templomhoz 16:00 körül. A téli alkonyat korán kezdődik, és arany fénybe öltözteti a különleges építészeti formákat.",
+                "ro": "Vizitați templul în jur de ora 16:00. Amurgul de iarnă începe devreme și îmbracă arhitectura într-o lumină aurie superbă.",
+                "en": "Visit the temple around 16:00. The winter twilight starts early and bathes the architecture in a gorgeous golden light."
+              }
+            },
+            {
+              "name": {
+                "de": "Bundaran MMTC",
+                "hu": "Bundaran MMTC",
+                "ro": "Bundaran MMTC",
+                "en": "Bundaran MMTC"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier bei Sonnenuntergang gegen 17:00 Uhr. Die kühle Abendluft lädt zu einem kurzen Fotostopp außerhalb des Autos ein.",
+                "hu": "Zárja a napot itt napnyugtakor, 17:00 körül. A hűvös esti levegő alkalmas egy rövid fotómegállóra az autón kívül is.",
+                "ro": "Încheiați ziua aici la apus, pe la ora 17:00. Aerul răcoros de seară invită la o scurtă oprire pentru poze în afara mașinii.",
+                "en": "End the day here at sunset around 17:00. The cool evening air is perfect for a quick photo stop outside the car."
+              }
+            }
+          ]
+        }
       }
     }
   }
