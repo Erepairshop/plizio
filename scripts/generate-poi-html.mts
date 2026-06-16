@@ -537,6 +537,18 @@ const TYPE_ALIAS: Record<string, string> = {
   forest: "nature", island: "nature", sea: "nature", bay: "nature",
 };
 
+// Content-aware title keywords: drop a keyword from the title if the page does
+// NOT actually have that feature (don't promise "Wetter"/"Nachrichten" on a page
+// without them — hurts relevance + CTR), and surface "Events" only when there
+// are dated events. Words match the curated TITLE_KEYWORDS entries per lang.
+const FEATURE_KW: Record<"sights" | "weather" | "news" | "events", Partial<Record<Lang, string>>> = {
+  sights: { de: "Sehenswürdigkeiten", hu: "Látnivalók", ro: "Obiective turistice", en: "Sights", fr: "Sites touristiques", tr: "Gezilecek yerler", hr: "Znamenitosti" },
+  weather: { de: "Wetter", hu: "Időjárás", ro: "Vremea", en: "Weather", fr: "Météo", tr: "Hava durumu", hr: "Vrijeme" },
+  news: { de: "Nachrichten", hu: "Hírek", ro: "Știri", en: "News", fr: "Actualités", tr: "Haberler", hr: "Vijesti" },
+  events: { de: "Veranstaltungen", hu: "Programok", ro: "Evenimente", en: "Events", fr: "Événements", tr: "Etkinlikler", hr: "Događanja" },
+};
+type TitleFeats = { hasSights?: boolean; hasWeather?: boolean; hasNews?: boolean; hasEvents?: boolean };
+
 // PlizioGo POI ID set — these get "PlizioGo" branding instead of "Plizio Visual Lab".
 const PLIZIOGO_SET: Set<string> = (() => {
   try {
@@ -545,9 +557,25 @@ const PLIZIOGO_SET: Set<string> = (() => {
   } catch { return new Set(); }
 })();
 
-function buildPoiTitle(name: string, poi: POI, lang: Lang): string {
+// Curated keyword list for a POI, filtered to what the page actually offers.
+function titleKeywords(poi: POI, lang: Lang, feats?: TitleFeats): string[] {
   const bucket = TYPE_ALIAS[poi.type] || (TITLE_KEYWORDS[poi.type] ? poi.type : "landmark");
-  const kw = TITLE_KEYWORDS[bucket]?.[lang] || TITLE_KEYWORDS.landmark[lang] || TITLE_KEYWORDS.landmark.en!;
+  let kw = (TITLE_KEYWORDS[bucket]?.[lang] || TITLE_KEYWORDS.landmark[lang] || TITLE_KEYWORDS.landmark.en!).slice();
+  if (feats) {
+    const drop = new Set<string>();
+    if (feats.hasSights === false) { const w = FEATURE_KW.sights[lang]; if (w) drop.add(w); }
+    if (!feats.hasWeather) { const w = FEATURE_KW.weather[lang]; if (w) drop.add(w); }
+    if (!feats.hasNews) { const w = FEATURE_KW.news[lang]; if (w) drop.add(w); }
+    if (drop.size) kw = kw.filter((k) => !drop.has(k));
+    const evW = FEATURE_KW.events[lang];
+    if (feats.hasEvents && evW && !kw.includes(evW)) kw = [kw[0], evW, ...kw.slice(1)].filter(Boolean) as string[];
+    if (kw.length === 0) kw = (TITLE_KEYWORDS[bucket]?.[lang] || TITLE_KEYWORDS.landmark.en!).slice();
+  }
+  return kw;
+}
+
+function buildPoiTitle(name: string, poi: POI, lang: Lang, feats?: TitleFeats): string {
+  const kw = titleKeywords(poi, lang, feats);
   // State name: try region lookup; fall back to poi.parent
   let stateName = "";
   const parent = poi.parent || "";
@@ -631,6 +659,25 @@ function smartMetaDesc(text: unknown, fallback: unknown, max = 160): string {
   const lastSpace = slice.lastIndexOf(" ");
   if (lastSpace > max - 30) return src.slice(0, lastSpace).trim() + "…";
   return slice.trim() + "…";
+}
+
+// Keyword-optimized meta description. When real prose exists, front-load the
+// entity name (primary keyword) so Google's snippet leads with it; otherwise
+// fall back to a concise, content-aware keyword line (region + offered features)
+// rather than a bare "Name — type". Lang-aware via titleKeywords/FEATURE_KW.
+function buildMetaDesc(
+  name: string, poi: POI, lang: Lang, descText: unknown, regionName: string, feats: TitleFeats,
+): string {
+  const text = typeof descText === "string" ? descText.trim() : "";
+  if (text.length >= 60) {
+    const head = text.slice(0, name.length + 1).toLowerCase();
+    const lead = head.startsWith(name.toLowerCase()) ? text : `${name}: ${text}`;
+    return smartMetaDesc(lead, lead);
+  }
+  // Thin/empty prose → keyword-rich templated line (only advertises real features).
+  const kws = titleKeywords(poi, lang, feats).slice(0, 4).join(", ");
+  const place = regionName && regionName.toLowerCase() !== name.toLowerCase() ? `${name}, ${regionName}` : name;
+  return smartMetaDesc(`${place}: ${kws} — Plizio`, `${name} — ${T(poi.type, lang)}`);
 }
 
 function getPoiAlternates(poi: POI): Record<string, string> {
@@ -2355,9 +2402,19 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     || []) as string[];
 
   const url = `${SITE_URL}${buildPoiPath(lang, poi)}`;
-  const title = buildPoiTitle(name, poi, lang);
-  const metaDesc = smartMetaDesc(descText, `${name} — ${T(poi.type, lang)}`);
   const richness = pageRichness(poi, lang);
+  // Content-aware SEO signals: only advertise features the page actually has.
+  const _clat = poi.coords?.[1], _clon = poi.coords?.[0];
+  const hasWeather = (typeof _clat === "number" && typeof _clon === "number") ? !!CLIMATE[climateCellKey(_clat, _clon)] : false;
+  // events + news live in sidecars (YEARLY_HIGHLIGHTS map / poi-news/<id>.json),
+  // NOT on the POI object — read the real sources so we don't under-advertise.
+  const hasEventsReal = (YEARLY_HIGHLIGHTS[poi.id] || []).length > 0;
+  const hasNewsReal = fs.existsSync(path.resolve(process.cwd(), "public", "data", "poi-news", `${poi.id}.json`));
+  const titleFeats: TitleFeats = { hasSights: richness.hasSights, hasWeather, hasNews: hasNewsReal, hasEvents: hasEventsReal };
+  const _regForMeta = (regions as POI[]).find((x) => x.id === (poi.parent || ""));
+  const _regName = _regForMeta ? ((_regForMeta.name as Record<string, string>)?.[lang] || (_regForMeta.name as Record<string, string>)?.de || "") : "";
+  const title = buildPoiTitle(name, poi, lang, titleFeats);
+  const metaDesc = buildMetaDesc(name, poi, lang, descText, _regName, titleFeats);
 
   // Landing pages (home / country / state) exist ONLY for the 4 supported langs.
   // On extra-lang pages (fr/tr/hr) those landing URLs 404 → link them to `en`
