@@ -3541,6 +3541,26 @@ async function main() {
       && slugs.getCountryIdStrict(p.parent) != null
   );
   console.log(`Eligible POIs: ${eligible.length}`);
+  // RICHNESS_REPORT=1 → print per-bucket content-quality distribution (de lang) and
+  // exit, without writing files. Used to decide index-discipline thresholds.
+  if (process.env.RICHNESS_REPORT === "1") {
+    const b = { empty: 0, weak: 0, ok: 0, rich: 0, pliziogo: 0, withSights: 0, withEvents: 0 };
+    const descBuckets = { "<250": 0, "250-500": 0, "500-1000": 0, "1000+": 0 };
+    for (const p of eligible) {
+      const r = pageRichness(p, "de" as Lang);
+      if (r.hasPlizioGo) b.pliziogo++;
+      if (r.hasSights) b.withSights++;
+      if ((YEARLY_HIGHLIGHTS[p.id] || []).length > 0) b.withEvents++;
+      if (r.isEmpty) b.empty++; else if (r.isWeak) b.weak++; else if (r.descChars >= 1000 || (r.hasSights && r.factsCount >= 4)) b.rich++; else b.ok++;
+      const d = r.descChars;
+      if (d < 250) descBuckets["<250"]++; else if (d < 500) descBuckets["250-500"]++; else if (d < 1000) descBuckets["500-1000"]++; else descBuckets["1000+"]++;
+    }
+    console.log("=== RICHNESS REPORT (de, eligible=" + eligible.length + ") ===");
+    console.log("buckets:", JSON.stringify(b, null, 0));
+    console.log("descChars:", JSON.stringify(descBuckets, null, 0));
+    console.log("currently noindexed (isEmpty):", b.empty, "| indexed-but-weak (isWeak, not empty):", b.weak);
+    return;
+  }
   // POI_IDS_FILE: path to a text file (one POI id per line) → generate ONLY those POIs.
   // POI_IDS: comma-separated list of POI ids → same effect.
   // Used by the delta-deploy pipeline (scripts/deploy-poi-delta.sh) so a content
