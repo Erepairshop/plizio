@@ -73,6 +73,7 @@ data and the listed primary sources as verifiable.
 
 - Home: https://plizio.com/
 - About: https://plizio.com/about/
+- Data sources & methodology: https://plizio.com/data-sources/
 - Destinations: https://plizio.com/destinations/
 - Explore the world map: https://plizio.com/world/
 - Learning games: https://plizio.com/visual-lab/

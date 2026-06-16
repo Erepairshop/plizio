@@ -100,6 +100,7 @@ const GROUPS: Group[] = [
     title: "About",
     links: [
       { href: "/about", label: "About" },
+      { href: "/data-sources", label: "Data Sources" },
       { href: "/contact", label: "Contact" },
       { href: "/faq", label: "FAQ" },
       { href: "/parents", label: "For Parents" },

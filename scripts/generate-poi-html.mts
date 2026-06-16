@@ -1081,14 +1081,14 @@ const T = (type: string, lang: Lang) => TYPE_LABEL[type]?.[lang] ?? TYPE_LABEL[t
 
 // Lokalizalt footer-linkek. A jogi oldalak lang-prefix nelkuliek (/privacy/, /impressum/,
 // /about/ mind 200) — a regi /${lang}/datenschutz/ + /${lang}/ueber-uns/ 404 volt minden POI-n.
-const FOOTER_COPY: Record<string, { privacy: string; about: string; imprint: string; europe: string }> = {
-  de: { privacy: "Datenschutz", about: "Über uns", imprint: "Impressum", europe: "Europa" },
-  hu: { privacy: "Adatvédelem", about: "Rólunk", imprint: "Impresszum", europe: "Európa" },
-  ro: { privacy: "Confidențialitate", about: "Despre noi", imprint: "Impressum", europe: "Europa" },
-  en: { privacy: "Privacy", about: "About", imprint: "Imprint", europe: "Europe" },
-  fr: { privacy: "Confidentialité", about: "À propos", imprint: "Mentions légales", europe: "Europe" },
-  tr: { privacy: "Gizlilik", about: "Hakkımızda", imprint: "Künye", europe: "Avrupa" },
-  hr: { privacy: "Privatnost", about: "O nama", imprint: "Impressum", europe: "Europa" },
+const FOOTER_COPY: Record<string, { privacy: string; about: string; imprint: string; europe: string; sources: string }> = {
+  de: { privacy: "Datenschutz", about: "Über uns", imprint: "Impressum", europe: "Europa", sources: "Datenquellen" },
+  hu: { privacy: "Adatvédelem", about: "Rólunk", imprint: "Impresszum", europe: "Európa", sources: "Adatforrások" },
+  ro: { privacy: "Confidențialitate", about: "Despre noi", imprint: "Impressum", europe: "Europa", sources: "Surse de date" },
+  en: { privacy: "Privacy", about: "About", imprint: "Imprint", europe: "Europe", sources: "Data Sources" },
+  fr: { privacy: "Confidentialité", about: "À propos", imprint: "Mentions légales", europe: "Europe", sources: "Sources de données" },
+  tr: { privacy: "Gizlilik", about: "Hakkımızda", imprint: "Künye", europe: "Avrupa", sources: "Veri Kaynakları" },
+  hr: { privacy: "Privatnost", about: "O nama", imprint: "Impressum", europe: "Europa", sources: "Izvori podataka" },
 };
 function footerHtml(lang: Lang): string {
   const f = FOOTER_COPY[lang] ?? FOOTER_COPY.en;
@@ -1100,7 +1100,7 @@ function footerHtml(lang: Lang): string {
   // Capture-fazis (img error nem bubble-ozik); a lazy-load kepek a footer-script
   // utan toltenek, igy elkapja oket.
   const imgFb = `<script>document.addEventListener('error',function(e){var t=e.target;if(t&&t.tagName==='IMG'&&!t.dataset.phf&&/\\/(poi-images|geo-images)\\//.test(t.getAttribute('src')||'')){t.dataset.phf=1;t.src='/placeholders/poi/placeholder-landmark.svg';}},true);</script>`;
-  return `<div><a href="/${navLang}/">Plizio</a> · <a href="/europe-map/">${f.europe}</a> · <a href="/privacy/">${f.privacy}</a> · <a href="/impressum/">${f.imprint}</a> · <a href="/about/">${f.about}</a></div>${imgFb}`;
+  return `<div><a href="/${navLang}/">Plizio</a> · <a href="/europe-map/">${f.europe}</a> · <a href="/data-sources/">${f.sources}</a> · <a href="/privacy/">${f.privacy}</a> · <a href="/impressum/">${f.imprint}</a> · <a href="/about/">${f.about}</a></div>${imgFb}`;
 }
 
 // Belso POI-link a CELPOI altal tamogatott nyelven. A 4 alapnyelv (de/hu/ro/en)
