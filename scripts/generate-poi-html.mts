@@ -1161,6 +1161,34 @@ function renderTrustStrip(lang: Lang): string {
     + `<a href="/data-sources/" style="color:inherit;text-decoration:underline">${escapeHtml(src)}</a></div>`;
 }
 
+// ---- "Plizio tip" editorial callout -----------------------------------------
+// Breaks the encyclopedic/auto-generated tone with a human, recommendation voice,
+// assembled ONLY from data we have (best season, a top sight, a day-trip town).
+// Varies per POI, so it also reduces template uniformity. Renders only when there
+// is at least one substantive clause about THIS place (no generic filler).
+const TIP_T: Record<string, { head: string; best: (n: string, b: string) => string; sight: (s: string) => string; near: (c: string, km: number) => string }> = {
+  de: { head: "Unser Reisetipp", best: (n, b) => `Am angenehmsten ist ${n} im Zeitraum ${b}.`, sight: (s) => `Lass dir ${s} nicht entgehen.`, near: (c, km) => `Für einen Tagesausflug bietet sich ${c} (rund ${km} km) an.` },
+  hu: { head: "Plizio tippünk", best: (n, b) => `${n} a legkellemesebb ${b} környékén.`, sight: (s) => `Ne hagyd ki ${s} megtekintését.`, near: (c, km) => `Egynapos kirándulásnak ${c} (kb. ${km} km) is remek választás.` },
+  ro: { head: "Sfatul Plizio", best: (n, b) => `${n} este cel mai plăcut în perioada ${b}.`, sight: (s) => `Nu rata ${s}.`, near: (c, km) => `Pentru o excursie de o zi, ${c} (cca. ${km} km) merită vizitat.` },
+  en: { head: "Our travel tip", best: (n, b) => `${n} is most pleasant around ${b}.`, sight: (s) => `Don't miss ${s}.`, near: (c, km) => `For a day trip, ${c} (about ${km} km) is well worth it.` },
+  fr: { head: "Notre conseil", best: (n, b) => `${n} est le plus agréable autour de ${b}.`, sight: (s) => `Ne manquez pas ${s}.`, near: (c, km) => `Pour une excursion d'une journée, ${c} (environ ${km} km) vaut le détour.` },
+  tr: { head: "Plizio önerisi", best: (n, b) => `${n} en keyifli ${b} döneminde.`, sight: (s) => `${s} mutlaka görülmeli.`, near: (c, km) => `Bir günlük gezi için ${c} (yaklaşık ${km} km) ideal.` },
+  hr: { head: "Naš savjet", best: (n, b) => `${n} je najugodniji u razdoblju ${b}.`, sight: (s) => `Ne propustite ${s}.`, near: (c, km) => `Za jednodnevni izlet, ${c} (oko ${km} km) je odličan izbor.` },
+};
+function renderPlizioTip(poi: POI, lang: Lang, name: string, sightNames: string[], nearbyCity: { name: string; km: number } | null): string {
+  const t = TIP_T[lang] || TIP_T.en;
+  const best = climateBestStr(poi, lang);
+  const topSight = (sightNames || []).find((s) => s && s.length > 1);
+  const parts: string[] = [];
+  if (best) parts.push(t.best(name, best));
+  if (topSight) parts.push(t.sight(topSight));
+  if (nearbyCity && nearbyCity.name) parts.push(t.near(nearbyCity.name, Math.round(nearbyCity.km)));
+  // Require a place-specific clause (season or sight), not just a neighbour.
+  if (!best && !topSight) return "";
+  if (parts.length === 0) return "";
+  return `<aside class="plz-tip" style="border-left:3px solid currentColor;background:rgba(127,127,127,.08);padding:.55rem .85rem;margin:.85rem 0;border-radius:0 8px 8px 0;font-size:.92rem"><strong>💡 ${escapeHtml(t.head)}:</strong> ${escapeHtml(parts.join(" "))}</aside>`;
+}
+
 function getLocalized<T>(obj: Partial<Record<string, T>> | undefined, lang: Lang, fallback?: T): T | undefined {
   if (!obj) return fallback;
   return (obj[lang] ?? obj.de ?? obj.en ?? fallback) as T | undefined;
@@ -3280,6 +3308,7 @@ ready();})();</script>
   </div>
   ${renderVisitInfo(poi, lang)}
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
+  ${renderPlizioTip(poi, lang, name, sightsItems.slice(0, 3).map((x) => (typeof x.s.name === "string" ? x.s.name : "")), ((): { name: string; km: number } | null => { const nc = getNearbyCities(poi, 1, 90, 4)[0]; return nc ? { name: (getLocalized(nc.p.name as Partial<Record<string, string>>, lang) as string) || nc.p.id, km: nc.km } : null; })())}
   ${renderKeyFacts(poi, lang, countryName, sightsItems.slice(0, 3).map((x) => (typeof x.s.name === "string" ? x.s.name : "")), ((): { name: string; km: number } | null => { const nc = getNearbyCities(poi, 1, 90, 4)[0]; return nc ? { name: (getLocalized(nc.p.name as Partial<Record<string, string>>, lang) as string) || nc.p.id, km: nc.km } : null; })())}
   ${renderClimate(poi, lang)}
   <div id="sec-info">
