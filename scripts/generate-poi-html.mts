@@ -2685,13 +2685,13 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // data-inkonzisztens parent slug, pl. HU district POI-k: josa parent="debrecen"
   // de a szomszedok parentje "debrecen-district"/"hajdu-bihar"), kiegeszitjuk
   // koord-kozeli szomszedokkal, kulonben eltunik a teljes "Kapcsolodo/related" szekcio.
-  let related = getRelatedPois(poi, 24);
-  if (related.length < 6) {
+  let related = getRelatedPois(poi, 40);
+  if (related.length < 15) {
     const have = new Set(related.map((rp) => rp.id)); have.add(poi.id);
-    for (const e of getNearbyPois(poi, 24, 80)) {
+    for (const e of getNearbyPois(poi, 40, 80)) {
       if (have.has(e.p.id)) continue;
       related.push(e.p); have.add(e.p.id);
-      if (related.length >= 24) break;
+      if (related.length >= 40) break;
     }
   }
   const TYPE_GROUPS: Record<string, string[]> = {
@@ -2727,7 +2727,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const GROUP_LABEL_KEYS: Record<string, string> = { city: "cities", history: "history", nature: "nature", other: "more" };
   const relatedItems = (["city", "history", "nature", "other"] as const)
     .filter((g) => grouped[g].length > 0)
-    .map((g) => `<section><h2>${I(GROUP_LABEL_KEYS[g], lang)}</h2><div class="plz-related">${grouped[g].slice(0, 8).map(relatedCard).join("")}</div></section>`)
+    .map((g) => `<section><h2>${I(GROUP_LABEL_KEYS[g], lang)}</h2><div class="plz-related">${grouped[g].slice(0, g === "city" ? 15 : 8).map(relatedCard).join("")}</div></section>`)
     .join("");
 
   const constellationHtml = renderConstellation(poi, lang);
