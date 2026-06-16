@@ -34,7 +34,7 @@ import type { HubLang } from "../lib/seo/sightsHubs";
 import * as _hubsNs from "../lib/seo/sightsHubs";
 import * as _sightFilterNs from "../lib/seo/sightFilter";
 const _sf: any = (_sightFilterNs as any).default ?? _sightFilterNs;
-const stripJunkSights: <T extends { name?: unknown; category?: unknown }>(a: T[] | undefined | null) => T[] = _sf.stripJunkSights;
+const cleanSightsObject: (s: any, cap?: number) => { obj: any; removed: number } = _sf.cleanSightsObject;
 const _expl: any = (_exploreNs as any).default ?? _exploreNs;
 const _hubs: any = (_hubsNs as any).default ?? _hubsNs;
 const sightsHubSlug: (countryId: string, lang: string) => string | null = _hubs.sightsHubSlug;
@@ -503,24 +503,20 @@ try {
   console.log(`[generate-poi-html] hr-native merge skipped: ${e?.message?.slice(0, 80)}`);
 }
 
-// Strip junk sights (playgrounds, pools, reservoirs, minigolf, parking, amenity
-// areas, numbered series) at load time so they never render or get a sight page.
-// Source data is untouched; this is a render-time filter (see lib/seo/sightFilter).
+// Clean sights at load time: drop junk (playgrounds, pools, reservoirs, parking,
+// numbered series) AND cap each category to 3 per POI (variety over bloat). Done
+// index-consistently across langs so name-variant alignment survives. Source data
+// untouched; render-time filter only (see lib/seo/sightFilter.cleanSightsObject).
 {
+  const CAP = 3;
   let removed = 0, poisHit = 0;
   for (const poi of pois) {
-    const sObj = (poi as unknown as { sights?: Record<string, any[]> }).sights;
-    if (!sObj || typeof sObj !== "object") continue;
-    let hit = false;
-    for (const l of Object.keys(sObj)) {
-      const arr = sObj[l];
-      if (!Array.isArray(arr)) continue;
-      const cleaned = stripJunkSights(arr);
-      if (cleaned.length !== arr.length) { removed += arr.length - cleaned.length; hit = true; sObj[l] = cleaned; }
-    }
-    if (hit) poisHit++;
+    const p = poi as unknown as { sights?: Record<string, any[]> };
+    if (!p.sights || typeof p.sights !== "object") continue;
+    const { obj, removed: r } = cleanSightsObject(p.sights, CAP);
+    if (r > 0) { p.sights = obj; removed += r; poisHit++; }
   }
-  console.log(`[generate-poi-html] junk-sight filter: removed ${removed} sights across ${poisHit} POIs`);
+  console.log(`[generate-poi-html] sight clean (junk + cap ${CAP}/cat): removed ${removed} sights across ${poisHit} POIs`);
 }
 
 const SITE_URL = "https://plizio.com";
