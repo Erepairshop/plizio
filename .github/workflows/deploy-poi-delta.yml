@@ -97,7 +97,11 @@ jobs:
       # ELOFELTETELEK: V2 chunkok (allCountryPois importja oket!) + url-index.
       - name: Prepare V2 data chunks (grid prerequisite)
         if: github.event.inputs.rebuild_grid == 'true'
-        run: npx tsx scripts/prepare_v2_data.mjs 2>&1 | tail -5
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: |
+          set -o pipefail
+          npx tsx scripts/prepare_v2_data.mjs 2>&1 | tail -5
 
       - name: Build POI URL index (grid prerequisite)
         if: github.event.inputs.rebuild_grid == 'true'
@@ -117,7 +121,16 @@ jobs:
 
       - name: Prepare V2 data chunks (required by generate-poi-html)
         if: github.event.inputs.poi_ids != 'none'
+        env:
+          # prepare_v2_data.mjs serializes the full ~45k V2 POI set → JSON.stringify
+          # OOMs on the default heap (Mark-Compact death mid-stringify), writing only
+          # the first chunks. The static imports in allCountryPois.ts then fail with
+          # MODULE_NOT_FOUND on a later chunk. Match the full build's headroom (16GB).
+          NODE_OPTIONS: --max-old-space-size=16384
         run: |
+          # pipefail: without it, `node ... | tail` reports tail's exit (0) and masks
+          # an OOM crash → the step passes green while chunks are missing.
+          set -o pipefail
           # generate-poi-html.mts imports _all_v2_pois_*.json chunks that
           # prepare_v2_data.mjs writes from poiExtra*V2.ts. Re-run on each delta
           # so the latest source data is reflected.
