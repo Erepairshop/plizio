@@ -252,6 +252,15 @@ try {
   if (fs.existsSync(fp)) SIGHT_ROMANIZE = JSON.parse(fs.readFileSync(fp, "utf-8"));
 } catch {}
 
+// Extra sights merged into THIN city POIs (OSM extraction, Vast). Record<poiId,
+// Record<lang, [{name,text,category,coords}]>>. Merged at load, then the shared
+// clean pass (romanize + junk + cap) runs on the combined set. Source untouched.
+let SIGHTS_EXTRA: Record<string, Record<string, any[]>> = {};
+try {
+  const fp = path.resolve(process.cwd(), "public", "data", "_sights_extra.json");
+  if (fs.existsSync(fp)) SIGHTS_EXTRA = JSON.parse(fs.readFileSync(fp, "utf-8"));
+} catch {}
+
 // ---- News index (perf) ------------------------------------------------------
 // News rendering is currently disabled site-wide (SHOW_NEWS=false); only the
 // stats-chip count uses it. Most POIs have NO news file, so a prebuilt id-Set
@@ -510,6 +519,29 @@ try {
   }
 } catch (e: any) {
   console.log(`[generate-poi-html] hr-native merge skipped: ${e?.message?.slice(0, 80)}`);
+}
+
+// Merge OSM-extra sights (public/data/_sights_extra.json) into THIN POIs that
+// have few/no sights. Existing sights first, then non-duplicate extras appended
+// per lang. The clean pass below then romanizes + caps the combined set.
+if (Object.keys(SIGHTS_EXTRA).length) {
+  const _norm = (s: string) => (s || "").normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "");
+  let filled = 0;
+  for (const poi of pois) {
+    const ex = SIGHTS_EXTRA[poi.id];
+    if (!ex) continue;
+    const p = poi as unknown as { sights?: Record<string, any[]> };
+    p.sights = p.sights || {};
+    let touched = false;
+    for (const l of Object.keys(ex)) {
+      const cur = Array.isArray(p.sights[l]) ? p.sights[l] : [];
+      const seen = new Set(cur.map((s: any) => _norm(typeof s?.name === "string" ? s.name : "")));
+      const add = ex[l].filter((s: any) => { const k = _norm(s?.name); return k && !seen.has(k); });
+      if (add.length) { p.sights[l] = cur.concat(add); touched = true; }
+    }
+    if (touched) filled++;
+  }
+  console.log(`[generate-poi-html] OSM-extra sights merged into ${filled} thin POIs`);
 }
 
 // Clean sights at load time: drop junk (playgrounds, pools, reservoirs, parking,
