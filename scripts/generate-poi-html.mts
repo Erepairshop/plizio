@@ -229,6 +229,35 @@ try {
   if (fs.existsSync(fp)) CLIMATE = JSON.parse(fs.readFileSync(fp, "utf-8"));
 } catch {}
 
+// ---- News index (perf) ------------------------------------------------------
+// News rendering is currently disabled site-wide (SHOW_NEWS=false); only the
+// stats-chip count uses it. Most POIs have NO news file, so a prebuilt id-Set
+// avoids a per-page existsSync syscall, and a 1-entry cache avoids re-reading the
+// same file across the 4 language renders of one POI (the main loop is poi→lang).
+const SHOW_NEWS = false;
+const NEWS_DIR = path.resolve(process.cwd(), "public", "data", "poi-news");
+let NEWS_IDS: Set<string> = new Set();
+try {
+  if (fs.existsSync(NEWS_DIR)) NEWS_IDS = new Set(fs.readdirSync(NEWS_DIR).map((f) => f.replace(/\.json(\.gz)?$/, "")));
+} catch {}
+let _newsCacheId: string | null = null, _newsCacheCount = 0;
+function newsCountFor(id: string): number {
+  if (!NEWS_IDS.has(id)) return 0;
+  if (_newsCacheId === id) return _newsCacheCount;
+  let n = 0;
+  try {
+    const base = path.join(NEWS_DIR, id + ".json"), gz = base + ".gz";
+    let raw: string | null = null;
+    if (fs.existsSync(base)) raw = fs.readFileSync(base, "utf-8");
+    else if (fs.existsSync(gz)) raw = zlib.gunzipSync(fs.readFileSync(gz)).toString("utf-8");
+    if (raw) n = (JSON.parse(raw) as unknown[]).length;
+  } catch {}
+  _newsCacheId = id; _newsCacheCount = n;
+  return n;
+}
+// Region lookup index (perf): O(1) instead of a linear `regions` scan 3× per page.
+const REGION_BY_ID = new Map<string, POI>((regions as POI[]).map((r) => [r.id, r]));
+
 // Pick the first STRING among [lang, en, de] from a FAQ q/a object. Some Flash
 // FAQ outputs emit a non-string (array/object) for a lang → guard, else .trim()
 // throws and kills the whole 152K POI HTML gen (2026-06-09 build crash).
@@ -585,7 +614,7 @@ function buildPoiTitle(name: string, poi: POI, lang: Lang, feats?: TitleFeats): 
   // State name: try region lookup; fall back to poi.parent
   let stateName = "";
   const parent = poi.parent || "";
-  const r = (regions as POI[]).find((x) => x.id === parent);
+  const r = REGION_BY_ID.get(parent);
   if (r) {
     stateName = (r.name as Record<string, string>)?.[lang]
       || (r.name as Record<string, string>)?.de
@@ -868,7 +897,7 @@ function renderKeyFacts(
   const L = _KEYFACTS_LABELS[lang] || _KEYFACTS_LABELS.en;
   const rows: string[] = [];
   // Location: region (if a known region parent) + country
-  const r = (regions as POI[]).find((x) => x.id === poi.parent);
+  const r = REGION_BY_ID.get(poi.parent || "");
   const regionName = r ? ((r.name as Record<string, string>)?.[lang] || (r.name as Record<string, string>)?.de || "") : "";
   const locParts = [regionName, countryName].filter(Boolean);
   if (locParts.length) rows.push(`<li><strong>${L.loc}:</strong> ${escapeHtml(locParts.join(", "))}</li>`);
@@ -2319,9 +2348,7 @@ function renderRouteInfo(poi: POI, lang: Lang, countryName: string, regionName: 
 // Stats-chip row: compact data summary under the title (mobile-first)
 function renderStatsChips(poi: POI, lang: Lang, richness: ReturnType<typeof pageRichness>, sightsCount: number, nearbyCount: number): string {
   const yhCount = (YEARLY_HIGHLIGHTS[poi.id] || []).length;
-  const newsPath = path.resolve(process.cwd(), "public", "data", "poi-news", `${poi.id}.json`);
-  let newsCount = 0;
-  try { if (fs.existsSync(newsPath)) newsCount = (JSON.parse(fs.readFileSync(newsPath, "utf-8")) as unknown[]).length; } catch {}
+  const newsCount = newsCountFor(poi.id);
   const chips: string[] = [];
   if (richness.hasPlizioGo) chips.push(`<a class="plz-chip plz-chip-go" href="#sec-itin"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L4 7l8 5 8-5-8-5z"/><path d="M4 17l8 5 8-5M4 12l8 5 8-5"/></svg>PlizioGo</a>`);
   if (poi.coords) chips.push(`<a class="plz-chip" href="#sec-overview"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4M2 12h4M22 12h-4M12 22v-4"/><circle cx="12" cy="12" r="4"/></svg><span data-temp>—°</span></a>`);
@@ -2469,12 +2496,11 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // Content-aware SEO signals: only advertise features the page actually has.
   const _clat = poi.coords?.[1], _clon = poi.coords?.[0];
   const hasWeather = (typeof _clat === "number" && typeof _clon === "number") ? !!CLIMATE[climateCellKey(_clat, _clon)] : false;
-  // events + news live in sidecars (YEARLY_HIGHLIGHTS map / poi-news/<id>.json),
-  // NOT on the POI object — read the real sources so we don't under-advertise.
+  // events live in the YEARLY_HIGHLIGHTS sidecar (not on the POI object). News is
+  // disabled site-wide (SHOW_NEWS=false) → never advertise it in the title.
   const hasEventsReal = (YEARLY_HIGHLIGHTS[poi.id] || []).length > 0;
-  const hasNewsReal = fs.existsSync(path.resolve(process.cwd(), "public", "data", "poi-news", `${poi.id}.json`));
-  const titleFeats: TitleFeats = { hasSights: richness.hasSights, hasWeather, hasNews: hasNewsReal, hasEvents: hasEventsReal };
-  const _regForMeta = (regions as POI[]).find((x) => x.id === (poi.parent || ""));
+  const titleFeats: TitleFeats = { hasSights: richness.hasSights, hasWeather, hasNews: SHOW_NEWS && NEWS_IDS.has(poi.id), hasEvents: hasEventsReal };
+  const _regForMeta = REGION_BY_ID.get(poi.parent || "");
   const _regName = _regForMeta ? ((_regForMeta.name as Record<string, string>)?.[lang] || (_regForMeta.name as Record<string, string>)?.de || "") : "";
   const title = buildPoiTitle(name, poi, lang, titleFeats);
   const metaDesc = buildMetaDesc(name, poi, lang, descText, _regName, titleFeats);
@@ -3020,14 +3046,15 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // RSS hír-blokk FELFÜGGESZTVE 2026-06-03: SSR aggregátor-címlista (mások headline-jai +
   // nofollow kimenő linkek) thin/aggregátor-jel a Google-nek -> kockázat az AdSense újra-beadásnál.
   // Helyette events (Ereignisse) bővítés (strukturált, eredeti, Schema.org Event). Vissza: true.
-  const SHOW_NEWS = false;
-  try {
-    const newsBase = path.resolve(process.cwd(), "public", "data", "poi-news", `${poi.id}.json`);
+  // SHOW_NEWS is a module-level const (currently false) → skip ALL news file I/O
+  // when disabled; gate on NEWS_IDS so non-news POIs never hit the disk either.
+  if (SHOW_NEWS && NEWS_IDS.has(poi.id)) try {
+    const newsBase = path.join(NEWS_DIR, `${poi.id}.json`);
     const newsGz = newsBase + ".gz";
     let raw: string | null = null;
     if (fs.existsSync(newsBase)) raw = fs.readFileSync(newsBase, "utf-8");
     else if (fs.existsSync(newsGz)) raw = zlib.gunzipSync(fs.readFileSync(newsGz)).toString("utf-8");
-    if (raw && SHOW_NEWS) {
+    if (raw) {
       const items = JSON.parse(raw) as Array<{ title: string; snippet: string; url: string; source: string; date: string; lang?: string }>;
       if (items.length > 0) {
         const top = items.slice(0, 6);
