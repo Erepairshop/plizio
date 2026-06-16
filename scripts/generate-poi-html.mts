@@ -229,6 +229,17 @@ try {
   if (fs.existsSync(fp)) CLIMATE = JSON.parse(fs.readFileSync(fp, "utf-8"));
 } catch {}
 
+// ---- Live webcams (Windy) ---------------------------------------------------
+// Curated index for the "sure" tier (tourist cities, capitals, beaches): only
+// POIs with an active Windy webcam within ~8 km. Embedded as a lazy self-
+// refreshing player iframe (the free-tier image token expires after 10 min, so
+// we must NOT bake an image URL). ToS: courtesy text + link to the webcam page.
+let WEBCAMS: Record<string, { camId: number; title: string; dist_km: number; detailUrl: string }> = {};
+try {
+  const fp = path.resolve(process.cwd(), "public", "data", "poi-webcams.json");
+  if (fs.existsSync(fp)) WEBCAMS = JSON.parse(fs.readFileSync(fp, "utf-8"));
+} catch {}
+
 // ---- News index (perf) ------------------------------------------------------
 // News rendering is currently disabled site-wide (SHOW_NEWS=false); only the
 // stats-chip count uses it. Most POIs have NO news file, so a prebuilt id-Set
@@ -2379,6 +2390,31 @@ function renderClimate(poi: POI, lang: Lang): string {
   return `<section class="plz-climate" id="sec-climate"><h2>${escapeHtml(t.title)}</h2><p class="plz-climate-best">${escapeHtml(t.best(bestStr))}</p><div class="plz-climate-wrap"><table class="plz-climate-tbl"><thead><tr><th></th>${head}</tr></thead><tbody><tr><td class="rl">${escapeHtml(t.t)}</td>${trow}</tr><tr><td class="rl">${escapeHtml(t.p)}</td>${prow}</tr></tbody></table></div></section>`;
 }
 
+// Live webcam block (Windy). Lazy iframe player + mandatory courtesy/link (ToS).
+function renderWebcam(poi: POI, lang: Lang): string {
+  const w = WEBCAMS[poi.id];
+  if (!w || !w.camId) return "";
+  const name = (getLocalized(poi.name, lang) as string) || poi.id;
+  const L: Record<string, { title: (n: string) => string; lead: (n: string) => string; courtesy: string; open: string }> = {
+    de: { title: (n) => `Live-Webcam – ${n}`, lead: (n) => `So sieht es gerade in der Nähe von ${n} aus.`, courtesy: "Webcams bereitgestellt von Windy.com", open: "Webcam auf Windy öffnen" },
+    hu: { title: (n) => `Élő webkamera – ${n}`, lead: (n) => `Így néz ki most ${n} környéke.`, courtesy: "A webkamerákat a Windy.com biztosítja", open: "Webkamera megnyitása a Windy-n" },
+    ro: { title: (n) => `Webcam live – ${n}`, lead: (n) => `Așa arată acum în apropiere de ${n}.`, courtesy: "Camere web oferite de Windy.com", open: "Deschide webcamul pe Windy" },
+    en: { title: (n) => `Live webcam – ${n}`, lead: (n) => `See what it looks like near ${n} right now.`, courtesy: "Webcams provided by Windy.com", open: "Open webcam on Windy" },
+    fr: { title: (n) => `Webcam en direct – ${n}`, lead: (n) => `Voyez à quoi ressemblent les environs de ${n} en ce moment.`, courtesy: "Webcams fournies par Windy.com", open: "Ouvrir la webcam sur Windy" },
+    tr: { title: (n) => `Canlı webcam – ${n}`, lead: (n) => `${n} çevresinin şu anki görünümü.`, courtesy: "Web kameralar Windy.com tarafından sağlanmaktadır", open: "Webcam'i Windy'de aç" },
+    hr: { title: (n) => `Webcam uživo – ${n}`, lead: (n) => `Pogledajte kako trenutno izgleda blizu ${n}.`, courtesy: "Web kamere omogućuje Windy.com", open: "Otvori web kameru na Windyju" },
+  };
+  const t = L[lang] || L.en;
+  const detail = w.detailUrl || `https://www.windy.com/webcams/${w.camId}`;
+  const embed = `https://webcams.windy.com/webcams/public/embed/player/${w.camId}/day`;
+  const cap = w.title ? `${escapeHtml(w.title)} · ${w.dist_km} km` : `${w.dist_km} km`;
+  return `<section class="plz-webcam" id="sec-webcam"><h2>${escapeHtml(t.title(name))}</h2>`
+    + `<p class="plz-webcam-lead">${escapeHtml(t.lead(name))}</p>`
+    + `<div class="plz-webcam-frame"><iframe loading="lazy" src="${embed}" title="${escapeHtml(t.title(name))}" allowfullscreen referrerpolicy="no-referrer" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;background:rgba(0,0,0,.2)"></iframe></div>`
+    + `<p class="plz-webcam-credit" style="font-size:.85em;opacity:.7">${escapeHtml(cap)} · <a href="${detail}" target="_blank" rel="noopener nofollow">${escapeHtml(t.open)}</a> · ${escapeHtml(t.courtesy)}</p>`
+    + `</section>`;
+}
+
 function renderRouteInfo(poi: POI, lang: Lang, countryName: string, regionName: string): string {
   if (!Array.isArray(poi.coords) || poi.coords.length < 2) return "";
   const name = (getLocalized(poi.name, lang) as string) || poi.id;
@@ -3311,6 +3347,7 @@ ready();})();</script>
   ${renderPlizioTip(poi, lang, name, sightsItems.slice(0, 3).map((x) => (typeof x.s.name === "string" ? x.s.name : "")), ((): { name: string; km: number } | null => { const nc = getNearbyCities(poi, 1, 90, 4)[0]; return nc ? { name: (getLocalized(nc.p.name as Partial<Record<string, string>>, lang) as string) || nc.p.id, km: nc.km } : null; })())}
   ${renderKeyFacts(poi, lang, countryName, sightsItems.slice(0, 3).map((x) => (typeof x.s.name === "string" ? x.s.name : "")), ((): { name: string; km: number } | null => { const nc = getNearbyCities(poi, 1, 90, 4)[0]; return nc ? { name: (getLocalized(nc.p.name as Partial<Record<string, string>>, lang) as string) || nc.p.id, km: nc.km } : null; })())}
   ${renderClimate(poi, lang)}
+  ${renderWebcam(poi, lang)}
   <div id="sec-info">
   ${renderPracticalInfo(poi, lang)}
   ${geoItems.length > 0 || historyHtml ? `<section class="plz-geo-history">${historyHtml}${geoItems.length > 0 ? `<div class="plz-geo-box"><h3>${I("geography", lang)}</h3><div class="plz-meta">${geoItems.join("")}</div></div>` : ""}</section>` : ""}
