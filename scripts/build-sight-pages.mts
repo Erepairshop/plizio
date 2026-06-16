@@ -11,6 +11,9 @@
 import fs from "node:fs";
 import path from "node:path";
 import { createRequire } from "node:module";
+import * as _sightFilterNs from "../lib/seo/sightFilter";
+const _sf: any = (_sightFilterNs as any).default ?? _sightFilterNs;
+const isJunkSight: (name: unknown, category?: unknown) => boolean = _sf.isJunkSight;
 
 const OUT_DIR = process.env.OUT_DIR || "out";
 const SITE = "https://plizio.com";
@@ -39,6 +42,17 @@ const Ls = <T,>(o: Record<string, T> | undefined, l: Lang): T | undefined => (o 
 const titleCase = (s: string) => s.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 
 const content: Record<string, any> = JSON.parse(fs.readFileSync(path.join(DATA, "_sightpages_content.json"), "utf-8"));
+// Prune junk sights (playgrounds/pools/etc.) so they get no page and nothing links
+// to them (404-safe). Same filter as the POI generator (lib/seo/sightFilter).
+{
+  let pruned = 0;
+  for (const slug of Object.keys(content)) {
+    const rec = content[slug];
+    const nm = rec?.name && (rec.name.en || rec.name.de || rec.name.hu);
+    if (isJunkSight(nm, rec?.category)) { delete content[slug]; pruned++; }
+  }
+  if (pruned) console.log(`sight-pages: pruned ${pruned} junk sights`);
+}
 const POI_URLS: Record<string, Record<Lang, string>> = (() => {
   try { return JSON.parse(fs.readFileSync(path.join(DATA, "_poi-url-index.json"), "utf-8")); } catch { return {}; }
 })();
