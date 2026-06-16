@@ -232,6 +232,12 @@ try {
 // Pick the first STRING among [lang, en, de] from a FAQ q/a object. Some Flash
 // FAQ outputs emit a non-string (array/object) for a lang → guard, else .trim()
 // throws and kills the whole 152K POI HTML gen (2026-06-09 build crash).
+const FAQ_HEAD: Record<string, string> = {
+  de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
+  en: "Frequently asked questions", fr: "Questions fréquentes", tr: "Sıkça sorulan sorular",
+  hr: "Često postavljana pitanja",
+};
+const FAQ_CHEV = `<svg class="plz-faq-chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>`;
 function pickFaqStr(o: Record<string, unknown> | undefined, lang: Lang): string {
   if (!o) return "";
   for (const k of [lang, "en", "de"]) {
@@ -678,6 +684,46 @@ function buildMetaDesc(
   const kws = titleKeywords(poi, lang, feats).slice(0, 4).join(", ");
   const place = regionName && regionName.toLowerCase() !== name.toLowerCase() ? `${name}, ${regionName}` : name;
   return smartMetaDesc(`${place}: ${kws} — Plizio`, `${name} — ${T(poi.type, lang)}`);
+}
+
+// Data-grounded W-question FAQ (Wo/Was/Wann/Warum) — targets Google "People Also
+// Ask" / featured snippets. Every Q is generated ONLY when its source data exists
+// (region, ≥2 sights, climate cell, description), so no thin/empty answers. The
+// "{Name}: <question>?" form sidesteps per-language case/grammar pitfalls.
+const AUTO_FAQ: Record<string, {
+  whereQ: (n: string) => string; whereA: (n: string, loc: string) => string;
+  whatQ: (n: string) => string; whatA: (list: string) => string;
+  whenQ: (n: string) => string; whenA: (best: string) => string;
+  whyQ: (n: string) => string;
+}> = {
+  de: { whereQ: (n) => `${n}: Wo liegt es?`, whereA: (n, l) => `${n} liegt in ${l}.`, whatQ: (n) => `${n}: Was kann man sehen?`, whatA: (l) => `Zu den Sehenswürdigkeiten zählen ${l}.`, whenQ: (n) => `${n}: Wann ist die beste Reisezeit?`, whenA: (b) => `Am angenehmsten reist du im Zeitraum ${b}.`, whyQ: (n) => `${n}: Warum einen Besuch wert?` },
+  hu: { whereQ: (n) => `${n}: hol található?`, whereA: (n, l) => `${n} itt található: ${l}.`, whatQ: (n) => `${n}: mit érdemes megnézni?`, whatA: (l) => `A fő látnivalók: ${l}.`, whenQ: (n) => `${n}: mikor a legjobb odautazni?`, whenA: (b) => `A legkellemesebb időszak: ${b}.`, whyQ: (n) => `${n}: miért érdemes meglátogatni?` },
+  ro: { whereQ: (n) => `${n}: unde se află?`, whereA: (n, l) => `${n} se află în ${l}.`, whatQ: (n) => `${n}: ce poți vizita?`, whatA: (l) => `Printre obiective se numără ${l}.`, whenQ: (n) => `${n}: când este cea mai bună perioadă?`, whenA: (b) => `Cea mai plăcută perioadă este ${b}.`, whyQ: (n) => `${n}: de ce merită vizitat?` },
+  en: { whereQ: (n) => `${n}: where is it located?`, whereA: (n, l) => `${n} is located in ${l}.`, whatQ: (n) => `${n}: what is there to see?`, whatA: (l) => `Highlights include ${l}.`, whenQ: (n) => `${n}: when is the best time to visit?`, whenA: (b) => `The most pleasant time to visit is ${b}.`, whyQ: (n) => `${n}: why is it worth visiting?` },
+  fr: { whereQ: (n) => `${n} : où se situe-t-il ?`, whereA: (n, l) => `${n} se situe en ${l}.`, whatQ: (n) => `${n} : que voir ?`, whatA: (l) => `Parmi les sites : ${l}.`, whenQ: (n) => `${n} : quelle est la meilleure période ?`, whenA: (b) => `La période la plus agréable est ${b}.`, whyQ: (n) => `${n} : pourquoi visiter ?` },
+  tr: { whereQ: (n) => `${n}: nerede yer alıyor?`, whereA: (n, l) => `${n}, ${l} bölgesinde yer alır.`, whatQ: (n) => `${n}: nereler gezilir?`, whatA: (l) => `Öne çıkanlar: ${l}.`, whenQ: (n) => `${n}: en iyi ziyaret zamanı nedir?`, whenA: (b) => `En keyifli dönem: ${b}.`, whyQ: (n) => `${n}: neden ziyaret edilmeli?` },
+  hr: { whereQ: (n) => `${n}: gdje se nalazi?`, whereA: (n, l) => `${n} se nalazi u ${l}.`, whatQ: (n) => `${n}: što vidjeti?`, whatA: (l) => `Među znamenitostima su ${l}.`, whenQ: (n) => `${n}: kada je najbolje posjetiti?`, whenA: (b) => `Najugodnije je razdoblje ${b}.`, whyQ: (n) => `${n}: zašto posjetiti?` },
+};
+
+function buildAutoFaq(
+  poi: POI, lang: Lang, name: string, regionName: string, countryName: string,
+  descText: unknown, sightNames: string[],
+): Array<{ q: string; a: string }> {
+  const t = AUTO_FAQ[lang] || AUTO_FAQ.en;
+  const out: Array<{ q: string; a: string }> = [];
+  const loc = (regionName && regionName.toLowerCase() !== name.toLowerCase()) ? `${regionName}, ${countryName}` : countryName;
+  if (loc) out.push({ q: t.whereQ(name), a: t.whereA(name, loc) });
+  const top = (sightNames || []).filter(Boolean).slice(0, 3);
+  if (top.length >= 2) out.push({ q: t.whatQ(name), a: t.whatA(top.join(", ")) });
+  const best = climateBestStr(poi, lang);
+  if (best) out.push({ q: t.whenQ(name), a: t.whenA(best) });
+  const ft = typeof descText === "string" ? descText.trim() : "";
+  if (ft.length > 50) {
+    const m = ft.match(/^.*?[.!?](\s|$)/);
+    const sentence = smartMetaDesc((m ? m[0] : ft).trim(), "", 280);
+    if (sentence.length > 40) out.push({ q: t.whyQ(name), a: sentence });
+  }
+  return out;
 }
 
 function getPoiAlternates(poi: POI): Record<string, string> {
@@ -2193,6 +2239,23 @@ const CLIMATE_MON: Partial<Record<Lang, string[]>> = {
 };
 // Universal climate block: monthly mini-table + "best time to visit" derived from
 // the grid-cell normals. Coordinate-driven, no notability needed.
+// Best-time-to-visit string from climate normals (shared by renderClimate + auto-FAQ).
+// Returns "" when there's no climate cell (so the FAQ won't promise data we lack).
+function climateBestStr(poi: POI, lang: Lang): string {
+  if (!Array.isArray(poi.coords) || poi.coords.length < 2) return "";
+  const c = CLIMATE[climateCellKey(poi.coords[1], poi.coords[0])];
+  if (!c || !Array.isArray(c.tmean) || c.tmean.length !== 12) return "";
+  const tmax = c.tmean, precip = c.precip || [];
+  const scored = tmax.map((tx, i) => {
+    if (tx == null) return { i, s: -1e9 };
+    return { i, s: -Math.abs(tx - 21) - (precip[i] ?? 0) / 18 };
+  }).filter((o) => o.s > -1e8);
+  if (scored.length < 6) return "";
+  const best = scored.slice().sort((a, b) => b.s - a.s).slice(0, 3).map((o) => o.i).sort((a, b) => a - b);
+  const mon = CLIMATE_MON[lang] || CLIMATE_MON.en!;
+  return (best.length === 3 && best[2] - best[0] === 2) ? `${mon[best[0]]}–${mon[best[2]]}` : best.map((i) => mon[i]).join(", ");
+}
+
 function renderClimate(poi: POI, lang: Lang): string {
   if (!Array.isArray(poi.coords) || poi.coords.length < 2) return "";
   const c = CLIMATE[climateCellKey(poi.coords[1], poi.coords[0])];
@@ -2539,20 +2602,39 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const gameCtaHtml = `<section class="plz-game-cta"><h2>${I("gameTitle", lang)}</h2><p>${I("gameIntro", lang)}</p><div class="plz-game-btns"><a class="plz-cta" rel="nofollow" href="/astro-${gameSubject}/?vlab=${encodeURIComponent(poi.id)}">${I("gamePlay", lang)}</a><a class="plz-cta plz-cta-secondary" rel="nofollow" href="/${gameSubject}test/?focus=${encodeURIComponent(poi.id)}">${I("gameTest", lang)}</a></div></section>`;
 
   // FAQ — emit HTML + collect items for JSON-LD FAQPage schema
+  // Unified FAQ: sharded FAQS + inline poi.faq + data-grounded auto W-questions,
+  // deduped by normalized question. Rendered ONCE as the visible accordion AND fed
+  // to a single FAQPage JSON-LD (via structuredData) — keeps structured data in sync
+  // with visible content (Google's FAQ rich-result policy requires visibility).
   let faqHtml = "";
   const faqItems: Array<{ q: string; a: string }> = [];
+  const _normQ = (s: string) => s.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, " ").trim();
+  const _seenQ = new Set<string>();
+  const _pushFaq = (q: string, a: string) => {
+    if (q && a && !_seenQ.has(_normQ(q))) { _seenQ.add(_normQ(q)); faqItems.push({ q, a }); }
+  };
+  // 1) sharded FAQS (primary, LLM-authored) — same source renderFAQ used.
+  const _shardFaqs = (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
+  if (Array.isArray(_shardFaqs)) for (const it of _shardFaqs) _pushFaq(pickFaqStr(it.q, lang), pickFaqStr(it.a, lang));
+  // 2) inline poi.faq (legacy/embedded).
   if (Array.isArray(poi.faq)) {
-    const items = poi.faq
-      .map((f: any) => {
-        const q = getLocalized(f.question || f.q, lang);
-        const a = getLocalized(f.answer || f.a, lang);
-        if (!q || !a) return "";
-        faqItems.push({ q, a });
-        return `<details class="plz-faq-item"><summary><span class="plz-faq-q">${escapeHtml(q)}</span><svg class="plz-faq-chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg></summary><div class="plz-faq-a">${escapeHtml(a)}</div></details>`;
-      })
-      .filter(Boolean)
-      .join("");
-    if (items) faqHtml = `<section class="plz-faq"><h2>FAQ</h2>${items}</section>`;
+    for (const f of poi.faq as Array<Record<string, unknown>>) {
+      _pushFaq((getLocalized(f.question || f.q, lang) as string) || "", (getLocalized(f.answer || f.a, lang) as string) || "");
+    }
+  }
+  // 3) data-grounded auto W-questions (Wo/Was/Wann/Warum) — only where data exists.
+  {
+    const _afObj = (poi as { sights?: Record<string, Array<{ name?: string }>> }).sights || sidecarSightsFor(poi);
+    const _afSights = ((_afObj?.[lang] || _afObj?.de || _afObj?.en || []) as Array<{ name?: string }>)
+      .map((s) => s?.name || "").filter(Boolean) as string[];
+    for (const it of buildAutoFaq(poi, lang, name, _regName, countryName, descText, _afSights)) _pushFaq(it.q, it.a);
+  }
+  if (faqItems.length > 0) {
+    const head = FAQ_HEAD[lang] || FAQ_HEAD.en;
+    const items = faqItems.map(({ q, a }, i) =>
+      `<details class="plz-faq-item"${i === 0 ? " open" : ""}><summary><span class="plz-faq-q">${escapeHtml(q)}</span>${FAQ_CHEV}</summary><div class="plz-faq-a">${escapeHtml(a)}</div></details>`,
+    ).join("");
+    faqHtml = `<section class="plz-faq"><h2>${escapeHtml(head)}</h2>${items}</section>`;
   }
 
   // Sights — per-city landmarks rendered as cards with thumbnail + text.
@@ -3153,7 +3235,7 @@ ready();})();</script>
   ${infoCardHtml ? "" : renderSightRadius(poi, lang)}
   ${nearbyHtml}
   </div>
-  ${renderFAQ(poi, lang) || faqHtml}
+  ${faqHtml}
   <section>
     <a class="plz-cta" href="${countryMapUrl(countryId) ?? ((poi.parent !== countryId && stateRegion) ? buildStatePath(navLang, poi.parent) : buildCountryPath(navLang, countryId))}">${I("viewMap", lang)} →</a>
     ${hubLinkHtml}
