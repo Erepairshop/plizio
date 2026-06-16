@@ -243,6 +243,15 @@ try {
   if (fs.existsSync(fp)) WEBCAMS = JSON.parse(fs.readFileSync(fp, "utf-8"));
 } catch {}
 
+// Romanization map for non-Latin sight names (Greek/Cyrillic/Georgian/CJK/…).
+// Built offline with Unidecode; applied at load so de/hu/ro/en pages show a
+// readable Latin form instead of raw native glyphs. Source data untouched.
+let SIGHT_ROMANIZE: Record<string, string> = {};
+try {
+  const fp = path.resolve(process.cwd(), "public", "data", "_sight_romanize.json");
+  if (fs.existsSync(fp)) SIGHT_ROMANIZE = JSON.parse(fs.readFileSync(fp, "utf-8"));
+} catch {}
+
 // ---- News index (perf) ------------------------------------------------------
 // News rendering is currently disabled site-wide (SHOW_NEWS=false); only the
 // stats-chip count uses it. Most POIs have NO news file, so a prebuilt id-Set
@@ -509,14 +518,27 @@ try {
 // untouched; render-time filter only (see lib/seo/sightFilter.cleanSightsObject).
 {
   const CAP = 3;
-  let removed = 0, poisHit = 0;
+  let removed = 0, poisHit = 0, romanized = 0;
+  const haveRoman = Object.keys(SIGHT_ROMANIZE).length > 0;
   for (const poi of pois) {
     const p = poi as unknown as { sights?: Record<string, any[]> };
     if (!p.sights || typeof p.sights !== "object") continue;
-    const { obj, removed: r } = cleanSightsObject(p.sights, CAP);
-    if (r > 0) { p.sights = obj; removed += r; poisHit++; }
+    // 1) romanize non-Latin sight names (in place) so de/hu/ro/en stay readable
+    if (haveRoman) {
+      for (const l of Object.keys(p.sights)) {
+        const arr = p.sights[l];
+        if (!Array.isArray(arr)) continue;
+        for (const s of arr) {
+          const r = s && typeof s.name === "string" ? SIGHT_ROMANIZE[s.name] : undefined;
+          if (r) { s.name = r; romanized++; }
+        }
+      }
+    }
+    // 2) drop junk + cap categories
+    const { obj, removed: rem } = cleanSightsObject(p.sights, CAP);
+    if (rem > 0) { p.sights = obj; removed += rem; poisHit++; }
   }
-  console.log(`[generate-poi-html] sight clean (junk + cap ${CAP}/cat): removed ${removed} sights across ${poisHit} POIs`);
+  console.log(`[generate-poi-html] sight clean: romanized ${romanized} names; junk+cap${CAP} removed ${removed} across ${poisHit} POIs`);
 }
 
 const SITE_URL = "https://plizio.com";
