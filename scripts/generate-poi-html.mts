@@ -1133,6 +1133,15 @@ function wikipediaSameAs(poi: POI, lang: Lang): string[] {
   return out;
 }
 
+// Data-provenance signal: tells AI crawlers + search engines that our travel
+// data derives from authoritative open datasets (verifiable via sameAs/license),
+// not scraped or invented. Emitted in the Place schema's isBasedOn.
+const DATA_SOURCES_LD = [
+  { "@type": "Dataset", name: "OpenStreetMap", url: "https://www.openstreetmap.org", license: "https://opendatacommons.org/licenses/odbl/1-0/", creditText: "© OpenStreetMap contributors" },
+  { "@type": "Dataset", name: "Wikidata", url: "https://www.wikidata.org", license: "https://creativecommons.org/publicdomain/zero/1.0/" },
+  { "@type": "Dataset", name: "Wikipedia", url: "https://www.wikipedia.org", license: "https://creativecommons.org/licenses/by-sa/4.0/" },
+];
+
 function structuredData(
   poi: POI,
   lang: Lang,
@@ -1168,6 +1177,9 @@ function structuredData(
   }
   const wiki = wikipediaSameAs(poi, lang);
   if (wiki.length > 0) place.sameAs = wiki;
+  // Data provenance: declare authoritative open-data sources + credit (AI/SEO trust signal)
+  place.isBasedOn = DATA_SOURCES_LD;
+  place.creditText = "© OpenStreetMap contributors · Wikidata · Wikipedia";
   // Speakable hint for voice search / featured snippet
   place.speakable = {
     "@type": "SpeakableSpecification",
