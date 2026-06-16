@@ -1131,6 +1131,36 @@ function escapeHtml(s: any): string {
     .replace(/'/g, "&#39;");
 }
 
+// ---- Trust strip (E-E-A-T) --------------------------------------------------
+// External readers (and AI evaluators) flag pages with NO author, NO date and
+// NO human voice as "auto-generated, untrustworthy". This adds an honest
+// editorial byline + a "last updated" date + a link to our data-sources page —
+// the human/freshness/provenance fingerprint. Date = build time (we regenerate).
+const _BUILD = new Date();
+const BUILD_ISO = _BUILD.toISOString().slice(0, 10);
+const _BUILD_M = _BUILD.getUTCMonth();
+const _BUILD_Y = _BUILD.getUTCFullYear();
+const TRUST_T: Record<string, { team: string; updated: string }> = {
+  de: { team: "Plizio Redaktion", updated: "Aktualisiert" },
+  hu: { team: "Plizio szerkesztőség", updated: "Frissítve" },
+  ro: { team: "Redacția Plizio", updated: "Actualizat" },
+  en: { team: "Plizio editorial team", updated: "Updated" },
+  fr: { team: "Rédaction Plizio", updated: "Mis à jour" },
+  tr: { team: "Plizio editör ekibi", updated: "Güncellendi" },
+  hr: { team: "Plizio uredništvo", updated: "Ažurirano" },
+};
+// Theme-agnostic (opacity + color:inherit) so it adapts to the page's text color.
+function renderTrustStrip(lang: Lang): string {
+  const t = TRUST_T[lang] || TRUST_T.en;
+  const mon = (CLIMATE_MON[lang] || CLIMATE_MON.en!)[_BUILD_M] || "";
+  const src = (FOOTER_COPY[lang] || FOOTER_COPY.en).sources;
+  const sep = `<span aria-hidden="true" style="opacity:.5">·</span>`;
+  return `<div class="plz-trust" style="font-size:.8rem;opacity:.68;margin:.1rem 0 .7rem;display:flex;flex-wrap:wrap;gap:.4rem;align-items:center">`
+    + `<span>${escapeHtml(t.team)}</span>${sep}`
+    + `<time datetime="${BUILD_ISO}">${escapeHtml(t.updated)}: ${escapeHtml(mon)} ${_BUILD_Y}</time>${sep}`
+    + `<a href="/data-sources/" style="color:inherit;text-decoration:underline">${escapeHtml(src)}</a></div>`;
+}
+
 function getLocalized<T>(obj: Partial<Record<string, T>> | undefined, lang: Lang, fallback?: T): T | undefined {
   if (!obj) return fallback;
   return (obj[lang] ?? obj.de ?? obj.en ?? fallback) as T | undefined;
@@ -1302,6 +1332,10 @@ function structuredData(
   // Data provenance: declare authoritative open-data sources + credit (AI/SEO trust signal)
   place.isBasedOn = DATA_SOURCES_LD;
   place.creditText = "© OpenStreetMap contributors · Wikidata · Wikipedia";
+  // Authorship + freshness (E-E-A-T): a maintained page with a named publisher.
+  place.dateModified = BUILD_ISO;
+  place.author = { "@type": "Organization", name: "Plizio", url: SITE_URL };
+  place.publisher = { "@type": "Organization", name: "Plizio", url: SITE_URL, logo: { "@type": "ImageObject", url: `${SITE_URL}/icon-512.png` } };
   // Speakable hint for voice search / featured snippet
   place.speakable = {
     "@type": "SpeakableSpecification",
@@ -3235,6 +3269,7 @@ ready();})();</script>
     ${breadcrumbHome}<span>›</span>${breadcrumbCountry}${breadcrumbState ? `<span>›</span>${breadcrumbState}` : ""}<span>›</span><span>${escapeHtml(name)}</span>
   </nav>
   <div class="plz-title-row">${coaHtml}<div>${richness.hasPlizioGo ? `<p class="plz-eyebrow">PlizioGo</p>` : (!richness.isWeak ? `<p class="plz-eyebrow">Plizio Visual Lab</p>` : "")}<h1>${escapeHtml(name)}</h1></div></div>
+  ${renderTrustStrip(lang)}
   <span class="plz-type-tag">${escapeHtml(typeLabel)}</span>
   ${audioHtml}
   ${renderStatsChips(poi, lang, richness, sightsArr.length, nearbyArr.length)}
