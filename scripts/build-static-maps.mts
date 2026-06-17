@@ -988,7 +988,7 @@ header .langs{display:flex;gap:.25rem}
 </head>
 <body>
 <header>
-<a class="back" href="${c.parentMap ? `/${c.parentMap}-map/${lang === "hu" ? "" : lang + "/"}` : "/"}" aria-label="${back}">‹</a>
+<a class="back" href="${c.parentMap ? `/${c.parentMap}-map/${lang === "hu" ? "" : lang + "/"}` : "/"}" onclick="if(history.length>1){history.back();return false;}" aria-label="${back}">‹</a>
 <h1>${t}</h1>
 <div class="langs">${langLinks}</div>
 </header>
