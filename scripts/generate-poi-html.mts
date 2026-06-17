@@ -252,6 +252,16 @@ try {
   if (fs.existsSync(fp)) SIGHT_ROMANIZE = JSON.parse(fs.readFileSync(fp, "utf-8"));
 } catch {}
 
+// City population + tier sidecar (GeoNames/Wikidata, built offline — see
+// scripts/_fetch_city_population*.mts). id -> {pop, src, tier, year?}. Used for
+// the visible "population" line AND tier-weighted nearby-city ordering.
+let CITY_POP: Record<string, { pop: number; src: string; tier: number; year?: number | null }> = {};
+try {
+  const fp = path.resolve(process.cwd(), "public", "data", "_city-population.json");
+  if (fs.existsSync(fp)) CITY_POP = JSON.parse(fs.readFileSync(fp, "utf-8"));
+} catch {}
+const popOf = (id: string): number => CITY_POP[id]?.pop ?? 0;
+
 // Extra sights merged into THIN city POIs (OSM extraction, Vast). Record<poiId,
 // Record<lang, [{name,text,category,coords}]>>. Merged at load, then the shared
 // clean pass (romanize + junk + cap) runs on the combined set. Source untouched.
@@ -886,10 +896,18 @@ function getRelatedPois(poi: POI, limit = 6): POI[] {
     if (!c0 || !c) return Infinity;
     return haversineKm(c0[0], c0[1], c[0], c[1]);
   };
-  return (_poisByParent.get(poi.parent) || [])
+  // Take the nearest siblings, then — if any of them carry a population — surface
+  // the most significant ones first (a traveler cares more about the bigger nearby
+  // city than the closest hamlet). Pure proximity is kept when no population data
+  // exists in the pool (e.g. landmark-only regions). (city-population wiring 2026-06-17)
+  const nearest = (_poisByParent.get(poi.parent) || [])
     .filter((p) => p.id !== poi.id)
     .sort((a, b) => distOf(a) - distOf(b))
-    .slice(0, limit);
+    .slice(0, Math.max(limit * 4, 24));
+  if (nearest.some((p) => popOf(p.id) > 0)) {
+    nearest.sort((a, b) => (popOf(b.id) - popOf(a.id)) || (distOf(a) - distOf(b)));
+  }
+  return nearest.slice(0, limit);
 }
 
 // Normalize a POI coords array to [lat, lon]. Plizio standard is [lon, lat],
@@ -1314,6 +1332,7 @@ const I18N: Record<string, Partial<Record<Lang, string>>> = {
   details: { de: "Details", hu: "Részletek", ro: "Detalii", en: "Details", hr: "Detalji" },
   geography: { de: "Geographie", hu: "Földrajz", ro: "Geografie", en: "Geography", hr: "Zemljopis" },
   elevation: { de: "Höhe", hu: "Magasság", ro: "Altitudine", en: "Elevation", hr: "Visina" },
+  population: { de: "Einwohner", hu: "Lakosság", ro: "Populație", en: "Population", hr: "Stanovništvo", fr: "Population", tr: "Nüfus" },
   length: { de: "Länge", hu: "Hossz", ro: "Lungime", en: "Length", hr: "Duljina" },
   area: { de: "Fläche", hu: "Terület", ro: "Suprafață", en: "Area", hr: "Površina" },
   coordinates: { de: "Koordinaten", hu: "Koordináták", ro: "Coordonate", en: "Coordinates", hr: "Koordinate" },
@@ -2711,6 +2730,14 @@ function renderHtml(poi: POI, lang: Lang): string | null {
 
   // Geographic facts
   const geoItems: string[] = [];
+  // Population (GeoNames/Wikidata sidecar) — only for settlement POIs. Thousands
+  // separator per locale; Wikidata point-in-time year appended where available.
+  const popRec = CITY_POP[poi.id];
+  if (popRec && popRec.pop > 0) {
+    const popStr = popRec.pop.toLocaleString(lang === "en" ? "en-US" : lang === "hu" ? "hu-HU" : lang === "ro" ? "ro-RO" : "de-DE");
+    const yr = popRec.year ? ` (${popRec.year})` : "";
+    geoItems.push(`<div class="plz-meta-item"><div class="label">${I("population", lang)}</div><div class="value">${popStr}${yr}</div></div>`);
+  }
   if (poi.elevation) geoItems.push(`<div class="plz-meta-item"><div class="label">${I("elevation", lang)}</div><div class="value">${poi.elevation} m</div></div>`);
   if (poi.length) geoItems.push(`<div class="plz-meta-item"><div class="label">${I("length", lang)}</div><div class="value">${poi.length} km</div></div>`);
   if (poi.area) geoItems.push(`<div class="plz-meta-item"><div class="label">${I("area", lang)}</div><div class="value">${poi.area} km²</div></div>`);
