@@ -484,7 +484,20 @@ function sightPageHref(lang: Lang, poiId: string, names: string[], coords: unkno
 // heap and only Node, so it tolerates the heavy graph.
 // DEDUP_BLOCK + loadFullPois moved to ./_load-full-pois (shared with build-poi-url-index
 // so the pages we write and the pre-build URL index can never diverge — 2026-06-13).
-const pois: POI[] = await loadFullPois();
+let pois: POI[] = await loadFullPois();
+// Drop V1/V2 duplicate cities: 46 UK POIs exist both as bare V1 (richer text) and
+// `-cities-v2` (sights). We keep V1 (sights merged into its sidecar) and skip the
+// V2 here so there's no duplicate page/sitemap/nearby entry. The V2's old URL is
+// 301-redirected to V1 in nginx (coord-gated list, homonyms untouched).
+try {
+  const fp = path.resolve(process.cwd(), "public", "data", "_v1v2_skip.json");
+  if (fs.existsSync(fp)) {
+    const skip = new Set<string>(JSON.parse(fs.readFileSync(fp, "utf-8")));
+    const before = pois.length;
+    pois = pois.filter((p) => !skip.has(p.id));
+    console.log(`[generate-poi-html] V1/V2 dup skip: removed ${before - pois.length} V2 POIs`);
+  }
+} catch {}
 // Build a global id→POI lookup for cross-referencing (e.g. sight name internal links).
 const allById = new Map<string, POI>(pois.filter(p => p?.id).map(p => [p.id, p]));
 type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr";
