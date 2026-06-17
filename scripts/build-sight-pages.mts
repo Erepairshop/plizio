@@ -42,6 +42,22 @@ const Ls = <T,>(o: Record<string, T> | undefined, l: Lang): T | undefined => (o 
 const titleCase = (s: string) => s.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 
 const content: Record<string, any> = JSON.parse(fs.readFileSync(path.join(DATA, "_sightpages_content.json"), "utf-8"));
+// Romanize non-Latin sight names (Cyrillic/Greek/…) so the Latin-script pages
+// show a readable form instead of raw glyphs. Same map as the POI generator.
+{
+  let romanized = 0;
+  let SR: Record<string, string> = {};
+  try { SR = JSON.parse(fs.readFileSync(path.join(DATA, "_sight_romanize.json"), "utf-8")); } catch {}
+  for (const slug of Object.keys(content)) {
+    const nm = content[slug]?.name;
+    if (!nm || typeof nm !== "object") continue;
+    for (const l of Object.keys(nm)) {
+      const r = typeof nm[l] === "string" ? SR[nm[l]] : undefined;
+      if (r) { nm[l] = r; romanized++; }
+    }
+  }
+  if (romanized) console.log(`sight-pages: romanized ${romanized} names`);
+}
 // Prune junk sights (playgrounds/pools/etc.) so they get no page and nothing links
 // to them (404-safe). Same filter as the POI generator (lib/seo/sightFilter).
 {

@@ -373,7 +373,10 @@ footer a { color: rgba(255,255,255,0.7); }
 @media (max-width: 640px) {
   h1 { font-size: 1.5rem; }
   main { padding: 1rem; }
-  .plz-nav { display: none; }
+  /* Hide the in-nav text links on mobile, but KEEP the language switcher visible. */
+  .plz-nav > a { display: none; }
+  .plz-nav { display: flex; gap: 0.5rem; }
+  .plz-langs { display: flex; }
 }
 
 /* Sights (in-town landmarks) + nearbySights (surrounding) */
