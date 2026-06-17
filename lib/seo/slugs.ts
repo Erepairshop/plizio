@@ -282,6 +282,12 @@ export const COUNTRY_SLUGS: Record<string, Partial<Record<Lang, string>> & { de:
   // Missing countries (caused 2850 POIs to mis-route into /deutschland/ via getCountryId fallback)
   russia:               { de: "russland", hu: "oroszorszag", ro: "rusia", en: "russia" },
   samoa:                { de: "samoa", hu: "szamoa", ro: "samoa", en: "samoa" },
+  "faroe-islands":      { de: "faeroeer", hu: "feroer-szigetek", ro: "insulele-feroe", en: "faroe-islands" },
+  guam:                 { de: "guam", hu: "guam", ro: "guam", en: "guam" },
+  "american-samoa":     { de: "amerikanisch-samoa", hu: "amerikai-szamoa", ro: "samoa-americana", en: "american-samoa" },
+  "northern-mariana-islands": { de: "noerdliche-marianen", hu: "eszaki-mariana-szigetek", ro: "insulele-mariane-de-nord", en: "northern-mariana-islands" },
+  "wallis-and-futuna":  { de: "wallis-und-futuna", hu: "wallis-es-futuna", ro: "wallis-si-futuna", en: "wallis-and-futuna" },
+  "western-sahara":     { de: "westsahara", hu: "nyugat-szahara", ro: "sahara-occidentala", en: "western-sahara" },
   "saint-lucia":        { de: "st-lucia", hu: "saint-lucia", ro: "saint-lucia", en: "saint-lucia" },
   "solomon-islands":    { de: "salomonen", hu: "salamon-szigetek", ro: "insulele-solomon", en: "solomon-islands" },
   tonga:                { de: "tonga", hu: "tonga", ro: "tonga", en: "tonga" },
@@ -493,6 +499,7 @@ export const ISO2_TO_COUNTRY: Record<string, string> = {
   // Missing — caused mis-routing into /deutschland/ via silent fallback
   RU: "russia",
   WS: "samoa", LC: "saint-lucia", SB: "solomon-islands", TO: "tonga",
+  FO: "faroe-islands", GU: "guam", AS: "american-samoa", MP: "northern-mariana-islands", WF: "wallis-and-futuna", EH: "western-sahara",
   BB: "barbados", VU: "vanuatu", GF: "french-guiana",
   KI: "kiribati", NR: "nauru", TV: "tuvalu", PW: "palau",
   MH: "marshall-islands", FM: "micronesia", GD: "grenada", VC: "saint-vincent",
