@@ -26291,7 +26291,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "US-DC",
     coords: [-77.0091, 38.8899],
-    name: { de: "Kapitol der Vereinigten Staaten", hu: "Az Amerikai Egyesült Ãllamok Capitoliuma", ro: "Capitoliul Statelor Unite", en: "United States Capitol"},
+    name: { de: "Kapitol der Vereinigten Staaten", hu: "Az Amerikai Egyesült Államok Capitoliuma", ro: "Capitoliul Statelor Unite", en: "United States Capitol"},
     image: "/poi-images/us-capitol-landmarks-v2.webp",
     description: {
       de: "Das Parlamentsgebäude des Kongresses der Vereinigten Staaten, auf dem Capitol Hill in Washington, D.C.",

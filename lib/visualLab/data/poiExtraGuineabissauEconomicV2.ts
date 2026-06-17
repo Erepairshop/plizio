@@ -15,7 +15,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     image: "/poi-images/farim-phosphatmine-economic-v2.webp",
     description: {
       de: "Eines der weltweit größten unerschlossenen Phosphatvorkommen, das für die globale Düngemittelproduktion von strategischer Bedeutung ist.",
-      hu: "A világ egyik legnagyobb kiaknázatlan foszfátlelÅ'helye, amely stratégiai jelentÅ'séggel bír a globális műtrágyagyártás számára.",
+      hu: "A világ egyik legnagyobb kiaknázatlan foszfátlelőhelye, amely stratégiai jelentőséggel bír a globális műtrágyagyártás számára.",
       ro: "Unul dintre cele mai mari zăcăminte de fosfat neexploatate din lume, având o importanță strategică pentru producția globală de îngrășăminte.",
       en: "One of the world's largest untapped phosphate deposits, which is of strategic importance for global fertilizer production.",
       es: "Uno de los yacimientos de fosfato sin explotar más grandes del mundo, de importancia estratégica para la producción mundial de fertilizantes.",
@@ -24,7 +24,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Große Phosphatreserven", "Nahe dem Rio Cacheu", "Geplante Exportinfrastruktur", "Bedeutung für Weltmarkt"],
-      hu: ["Hatalmas foszfátkészletek", "Cacheu-folyó közelében", "Tervezett export-infrastruktúra", "Világpiaci jelentÅ'ség"],
+      hu: ["Hatalmas foszfátkészletek", "Cacheu-folyó közelében", "Tervezett export-infrastruktúra", "Világpiaci jelentőség"],
       ro: ["Rezerve mari de fosfat", "Lângă râul Cacheu", "Infrastructură de export planificată", "Importanță pe piața mondială"],
       en: ["Large phosphate reserves", "Near the Cacheu River", "Planned export infrastructure", "World market importance"],
       es: ["Grandes reservas de fosfato", "Cerca del río Cacheu", "Infraestructura de exportación planificada", "Importancia para el mercado mundial"],
@@ -56,13 +56,13 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     coords: [-14.15, 11.75],
     name: {
       de: "Bauxitvorkommen von Boé",
-      hu: "Boéi bauxitlelÅ'hely",
+      hu: "Boéi bauxitlelőhely",
       ro: "Zăcământul de bauxită din Boé",
       en: "Boe Bauxite Deposit"},
     image: "/poi-images/boe-bauxitmine-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Bergbauprojekt im Südosten des Landes zur Erschließung hochwertiger Bauxitreserven für die Aluminiumherstellung.",
-      hu: "JelentÅ's bányászati projekt az ország délkeleti részén, amely kiváló minÅ'ségű bauxitkészletek feltárását célozza az alumíniumgyártáshoz.",
+      hu: "Jelentős bányászati projekt az ország délkeleti részén, amely kiváló minőségű bauxitkészletek feltárását célozza az alumíniumgyártáshoz.",
       ro: "Un proiect minier semnificativ în sud-estul țării pentru exploatarea rezervelor de bauxită de înaltă calitate pentru producția de aluminiu.",
       en: "A significant mining project in the southeast of the country to develop high-quality bauxite reserves for aluminum production.",
       es: "Un importante proyecto minero en el sureste del país para el desarrollo de reservas de bauxita de alta calidad para la producción de aluminio.",
@@ -71,7 +71,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Hochwertiges Bauxit", "Region Gabú", "Logistische Herausforderungen", "Potenzial für Aluminiumindustrie"],
-      hu: ["Kiváló minÅ'ségű bauxit", "Gabú régió", "Logisztikai kihívások", "Alumíniumipari potenciál"],
+      hu: ["Kiváló minőségű bauxit", "Gabú régió", "Logisztikai kihívások", "Alumíniumipari potenciál"],
       ro: ["Bauxită de înaltă calitate", "Regiunea Gabú", "Provocări logistice", "Potențial pentru industria aluminiului"],
       en: ["High-quality bauxite", "Gabú region", "Logistical challenges", "Potential for aluminum industry"],
       es: ["Bauxita de alta calidad", "Región de Gabú", "Desafíos logísticos", "Potencial para industria del aluminio"],
@@ -109,7 +109,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     image: "/poi-images/varela-schwermineralsand-economic-v2.webp",
     description: {
       de: "Ein Küstenbergbauprojekt zur Gewinnung von Ilmenit, Zirkon und Rutil aus den Sandvorkommen der Region Varela.",
-      hu: "Kpartmenti bányászati projekt ilmenit, cirkon és rutil kinyerésére a Varela régió homoklelÅ'helyeibÅ'l.",
+      hu: "Kpartmenti bányászati projekt ilmenit, cirkon és rutil kinyerésére a Varela régió homoklelőhelyeiből.",
       ro: "Un proiect minier de coastă pentru extracția ilmenitului, zirconului și rutilului din depozitele de nisip din regiunea Varela.",
       en: "A coastal mining project for the extraction of ilmenite, zircon, and rutile from the sand deposits of the Varela region.",
       es: "Un proyecto de minería costera para la extracción de ilmenita, circón y rutilo de los depósitos de arena de la región de Varela.",
@@ -118,7 +118,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Ilmenit-Gewinnung", "Direkt an der Küste", "Zirkon-Vorkommen", "Bedeutung für High-Tech"],
-      hu: ["Ilmenit-kitermelés", "Közvetlenül a parton", "Cirkon-lelÅ'helyek", "High-tech jelentÅ'ség"],
+      hu: ["Ilmenit-kitermelés", "Közvetlenül a parton", "Cirkon-lelőhelyek", "High-tech jelentőség"],
       ro: ["Extracție de ilmenit", "Direct pe coastă", "Zăcăminte de zircon", "Importanță pentru high-tech"],
       en: ["Ilmenite extraction", "Directly on the coast", "Zircon deposits", "High-tech importance"],
       es: ["Extracción de ilmenita", "Ubicación costera", "Yacimientos de circón", "Importancia para la alta tecnología"],
@@ -196,13 +196,13 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     coords: [-15.58, 11.85],
     name: {
       de: "CICER Brauerei Bissau",
-      hu: "CICER SörfÅ'zde Bissau",
+      hu: "CICER Sörfőzde Bissau",
       ro: "Berăria CICER Bissau",
       en: "CICER Brewery Bissau"},
     image: "/poi-images/bissau-cicer-brauerei-economic-v2.webp",
     description: {
       de: "Die größte und traditionsreichste Brauerei des Landes, die sowohl lokales Bier als auch Erfrischungsgetränke produziert.",
-      hu: "Az ország legnagyobb és legrégebbi sörfÅ'zdéje, amely helyi sört és üdítÅ'italokat egyaránt gyárt.",
+      hu: "Az ország legnagyobb és legrégebbi sörfőzdéje, amely helyi sört és üdítőitalokat egyaránt gyárt.",
       ro: "Cea mai mare și mai tradițională berărie din țară, care produce atât bere locală, cât și băuturi răcoritoare.",
       en: "The largest and most traditional brewery in the country, producing both local beer and soft drinks.",
       es: "La cervecería más grande y tradicional del país, que produce tanto cerveza local como refrescos.",
@@ -211,7 +211,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Größte Brauerei", "Gegründet in Kolonialzeit", "Bier und Erfrischungsgetränke", "Wichtiger Arbeitgeber"],
-      hu: ["Legnagyobb sörfÅ'zde", "Gyarmati idÅ'kben alapították", "Sör és üdítÅ'k", "Fontos munkaadó"],
+      hu: ["Legnagyobb sörfőzde", "Gyarmati időkben alapították", "Sör és üdítők", "Fontos munkaadó"],
       ro: ["Cea mai mare berărie", "Fondată în perioada colonială", "Bere și răcoritoare", "Angajator important"],
       en: ["Largest brewery", "Founded in colonial times", "Beer and soft drinks", "Important employer"],
       es: ["Cervecería más grande", "Fundada en la época colonial", "Cerveza y refrescos", "Importante empleador"],
@@ -244,13 +244,13 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     coords: [-15.59, 11.86],
     name: {
       de: "Wärmekraftwerk Bissau",
-      hu: "Bissaui hÅ'erÅ'mű",
+      hu: "Bissaui hőerőmű",
       ro: "Centrala termoelectrică din Bissau",
       en: "Bissau Thermal Power Plant"},
     image: "/poi-images/bissau-kraftwerk-economic-v2.webp",
     description: {
       de: "Die zentrale Energieerzeugungsanlage der Hauptstadt, die für die Stromversorgung von Haushalten und Industriebetrieben verantwortlich ist.",
-      hu: "A fÅ'város központi energiatermelÅ' létesítménye, amely a háztartások és ipari üzemek áramellátásáért felelÅ's.",
+      hu: "A főváros központi energiatermelő létesítménye, amely a háztartások és ipari üzemek áramellátásáért felelős.",
       ro: "Principala instalație de generare a energiei din capitală, responsabilă pentru alimentarea cu energie a gospodăriilor și a întreprinderilor industriale.",
       en: "The central power generation facility of the capital, responsible for supplying electricity to households and industrial enterprises.",
       es: "La central de generación de energía central de la capital, responsable del suministro eléctrico de hogares e industrias.",
@@ -259,7 +259,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Stromversorgung Bissau", "Ölbefeuertes Kraftwerk", "Kritische Infrastruktur", "Modernisierungsprojekte"],
-      hu: ["Bissau áramellátása", "Olajtüzelésű erÅ'mű", "Kritikus infrastruktúra", "Modernizációs projektek"],
+      hu: ["Bissau áramellátása", "Olajtüzelésű erőmű", "Kritikus infrastruktúra", "Modernizációs projektek"],
       ro: ["Alimentarea cu energie Bissau", "Centrală pe bază de petrol", "Infrastructură critică", "Proiecte de modernizare"],
       en: ["Bissau power supply", "Oil-fired power plant", "Critical infrastructure", "Modernization projects"],
       es: ["Suministro eléctrico de Bissau", "Central de fuel", "Infraestructura crítica", "Proyectos de modernización"],
@@ -346,7 +346,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     image: "/poi-images/cumere-industriekomplex-economic-v2.webp",
     description: {
       de: "Ein historisch bedeutender Industriekomplex, der ursprünglich für die Verarbeitung von Erdnüssen und die Produktion von Speiseöl konzipiert wurde.",
-      hu: "Történelmileg jelentÅ's ipari komplexum, amelyet eredetileg földimogyoró-feldolgozásra és étolajgyártásra terveztek.",
+      hu: "Történelmileg jelentős ipari komplexum, amelyet eredetileg földimogyoró-feldolgozásra és étolajgyártásra terveztek.",
       ro: "Un complex industrial istoric, conceput inițial pentru procesarea arahidelor și producția de ulei comestibil.",
       en: "A historically significant industrial complex originally designed for peanut processing and edible oil production.",
       es: "Un complejo industrial de importancia histórica, concebido originalmente para el procesamiento de cacahuetes y la producción de aceite comestible.",
@@ -388,13 +388,13 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     coords: [-15.59, 11.90],
     name: {
       de: "Steinbruch von Antula",
-      hu: "Antulai kÅ'bánya",
+      hu: "Antulai kőbánya",
       ro: "Cariera de piatră din Antula",
       en: "Antula Quarry"},
     image: "/poi-images/antula-steinbruch-economic-v2.webp",
     description: {
       de: "Ein wichtiger Steinbruch, der Baumaterialien für die Infrastrukturentwicklung und den Wohnungsbau in der Region Bissau liefert.",
-      hu: "Fontos kÅ'bánya, amely építÅ'anyagokat biztosít az infrastruktúra-fejlesztéshez és a lakásépítéshez a Bissau régióban.",
+      hu: "Fontos kőbánya, amely építőanyagokat biztosít az infrastruktúra-fejlesztéshez és a lakásépítéshez a Bissau régióban.",
       ro: "O carieră importantă care furnizează materiale de construcție pentru dezvoltarea infrastructurii și construcția de locuințe în regiunea Bissau.",
       en: "An important quarry providing construction materials for infrastructure development and housing in the Bissau region.",
       es: "Una importante cantera que suministra materiales de construcción para el desarrollo de infraestructuras y viviendas en la región de Bissau.",
@@ -403,7 +403,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Baumaterialien", "Versorgung der Hauptstadt", "Gesteinsabbau", "Bedeutung für Bauwesen"],
-      hu: ["ÉpítÅ'anyagok", "FÅ'városi ellátás", "KÅ'kitermelés", "ÉpítÅ'ipari jelentÅ'ség"],
+      hu: ["Építőanyagok", "Fővárosi ellátás", "Kőkitermelés", "Építőipari jelentőség"],
       ro: ["Materiale de construcție", "Aprovizionarea capitalei", "Extracție de piatră", "Importanță pentru construcții"],
       en: ["Construction materials", "Capital supply", "Stone extraction", "Construction industry importance"],
       es: ["Materiales de construcción", "Suministro a la capital", "Extracción de roca", "Importancia para la construcción"],
@@ -442,7 +442,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     image: "/poi-images/bissau-zementwerk-economic-v2.webp",
     description: {
       de: "Eine Industrieanlage zur Verarbeitung und Verpackung von Zement, die den wachsenden Baubedarf des Landes deckt.",
-      hu: "Cement feldolgozására és csomagolására szolgáló ipari létesítmény, amely az ország növekvÅ' építési igényeit elégíti ki.",
+      hu: "Cement feldolgozására és csomagolására szolgáló ipari létesítmény, amely az ország növekvő építési igényeit elégíti ki.",
       ro: "O instalație industrială pentru procesarea și ambalarea cimentului, care satisface nevoile crescânde de construcții ale țării.",
       en: "An industrial facility for processing and packaging cement, meeting the country's growing construction needs.",
       es: "Una planta industrial para el procesamiento y envasado de cemento, que satisface la creciente demanda de construcción del país.",
@@ -451,7 +451,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Zementverarbeitung", "Import-Substitution", "Bauindustrie-Versorgung", "Industriegebiet"],
-      hu: ["Cementfeldolgozás", "Importhelyettesítés", "ÉpítÅ'ipari ellátás", "Ipari övezet"],
+      hu: ["Cementfeldolgozás", "Importhelyettesítés", "Építőipari ellátás", "Ipari övezet"],
       ro: ["Procesarea cimentului", "Substituirea importurilor", "Aprovizionarea industriei construcțiilor", "Zonă industrială"],
       en: ["Cement processing", "Import substitution", "Construction industry supply", "Industrial zone"],
       es: ["Procesamiento de cemento", "Sustitución de importaciones", "Suministro industria construcción", "Zona industrial"],
@@ -490,7 +490,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     image: "/poi-images/bafata-ziegelei-economic-v2.webp",
     description: {
       de: "Eine regionale Produktionsstätte für Ziegelsteine, die die reichen Lehmvorkommen der Bafatá-Region für das lokale Bauwesen nutzt.",
-      hu: "Regionális téglagyártó üzem, amely a Bafatá régió gazdag agyaglelÅ'helyeit hasznosítja a helyi építÅ'ipar számára.",
+      hu: "Regionális téglagyártó üzem, amely a Bafatá régió gazdag agyaglelőhelyeit hasznosítja a helyi építőipar számára.",
       ro: "O unitate regională de producție a cărămizilor care utilizează depozitele bogate de argilă din regiunea Bafatá pentru construcțiile locale.",
       en: "A regional brick production facility utilizing the rich clay deposits of the Bafata region for local construction.",
       es: "Un centro de producción regional de ladrillos que utiliza los ricos depósitos de arcilla de la región de Bafatá para la construcción local.",
@@ -499,7 +499,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Lehmverarbeitung", "Region Bafatá", "Lokales Baumaterial", "Traditionelles Gewerbe"],
-      hu: ["Agyagfeldolgozás", "Bafatá régió", "Helyi építÅ'anyag", "Hagyományos ipar"],
+      hu: ["Agyagfeldolgozás", "Bafatá régió", "Helyi építőanyag", "Hagyományos ipar"],
       ro: ["Procesarea argilei", "Regiunea Bafatá", "Material de construcție local", "Meșteșug tradițional"],
       en: ["Clay processing", "Bafata region", "Local building material", "Traditional trade"],
       es: ["Procesamiento de arcilla", "Región de Bafatá", "Material de construcción local", "Industria tradicional"],
@@ -532,13 +532,13 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     coords: [-15.48, 11.58],
     name: {
       de: "Seehafen von Bolama",
-      hu: "Bolamai tengeri kikötÅ'",
+      hu: "Bolamai tengeri kikötő",
       ro: "Portul maritim din Bolama",
       en: "Port of Bolama"},
     image: "/poi-images/port-von-bolama-economic-v2.webp",
     description: {
       de: "Ein historischer Tiefwasserhafen auf der Insel Bolama, der früher als wichtigstes Handelszentrum für den Export landwirtschaftlicher Produkte diente.",
-      hu: "Történelmi mélyvízi kikötÅ' Bolama szigetén, amely korábban a mezÅ'gazdasági termékek exportjának legfontosabb kereskedelmi központjaként szolgált.",
+      hu: "Történelmi mélyvízi kikötő Bolama szigetén, amely korábban a mezőgazdasági termékek exportjának legfontosabb kereskedelmi központjaként szolgált.",
       ro: "Un port istoric de adâncime pe insula Bolama, care a servit anterior ca principal centru comercial pentru exportul produselor agricole.",
       en: "A historical deep-water port on Bolama Island, formerly serving as the primary commercial hub for exporting agricultural products.",
       es: "Un puerto histórico de aguas profundas en la isla de Bolama que antiguamente servía como el centro comercial más importante para la exportación de productos agrícolas.",
@@ -547,7 +547,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Historischer Tiefwasserhafen", "Ehemaliges Exportzentrum", "Insel Bolama", "Maritimes Erbe"],
-      hu: ["Történelmi mélyvízi kikötÅ'", "Korábbi exportközpont", "Bolama-sziget", "Tengeri örökség"],
+      hu: ["Történelmi mélyvízi kikötő", "Korábbi exportközpont", "Bolama-sziget", "Tengeri örökség"],
       ro: ["Port istoric de adâncime", "Fost centru de export", "Insula Bolama", "Moștenire maritimă"],
       en: ["Historical deep-water port", "Former export center", "Bolama Island", "Maritime heritage"],
       es: ["Puerto histórico de aguas profundas", "Antiguo centro de exportación", "Isla de Bolama", "Patrimonio marítimo"],
@@ -580,13 +580,13 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     coords: [-16.07, 12.27],
     name: {
       de: "Hafen von Cacheu",
-      hu: "Cacheui kikötÅ'",
+      hu: "Cacheui kikötő",
       ro: "Portul din Cacheu",
       en: "Port of Cacheu"},
     image: "/poi-images/port-von-cacheu-economic-v2.webp",
     description: {
       de: "Ein bedeutender Flusshafen am Rio Cacheu, der eine zentrale Rolle im Handel mit dem Nordwesten des Landes und dem Senegal spielt.",
-      hu: "JelentÅ's folyami kikötÅ' a Cacheu-folyón, amely központi szerepet játszik az ország északnyugati részével és Szenegállal folytatott kereskedelemben.",
+      hu: "Jelentős folyami kikötő a Cacheu-folyón, amely központi szerepet játszik az ország északnyugati részével és Szenegállal folytatott kereskedelemben.",
       ro: "Un port fluvial important pe râul Cacheu, care joacă un rol central în comerțul cu nord-vestul țării și Senegalul.",
       en: "A major river port on the Cacheu River, playing a central role in trade with the northwest of the country and Senegal.",
       es: "Un importante puerto fluvial en el río Cacheu que desempeña un papel central en el comercio con el noroeste del país y el Senegal.",
@@ -595,7 +595,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Flusshafen Rio Cacheu", "Handel mit Senegal", "Historischer Stützpunkt", "Fischerei-Umschlag"],
-      hu: ["Cacheu-folyami kikötÅ'", "Kereskedelem Szenegállal", "Történelmi bázis", "Halászati forgalom"],
+      hu: ["Cacheu-folyami kikötő", "Kereskedelem Szenegállal", "Történelmi bázis", "Halászati forgalom"],
       ro: ["Port fluvial pe râul Cacheu", "Comerț cu Senegal", "Bază istorică", "Trafic pescăresc"],
       en: ["River port on Cacheu River", "Trade with Senegal", "Historical base", "Fishing traffic"],
       es: ["Puerto fluvial del río Cacheu", "Comercio con Senegal", "Puesto histórico", "Transbordo de pesca"],
@@ -628,13 +628,13 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     coords: [-15.22, 12.48],
     name: {
       de: "Flusshafen von Farim",
-      hu: "Farimi folyami kikötÅ'",
+      hu: "Farimi folyami kikötő",
       ro: "Portul fluvial din Farim",
       en: "Port of Farim"},
     image: "/poi-images/port-von-farim-economic-v2.webp",
     description: {
       de: "Ein strategischer Binnenhafen im Norden Guinea-Bissaus, der als wichtiger Umschlagplatz für Waren in die Grenzregionen dient.",
-      hu: "Stratégiai folyami kikötÅ' Guinea-Bissau északi részén, amely fontos áruátrakodóhelyként szolgál a határmenti régiók számára.",
+      hu: "Stratégiai folyami kikötő Guinea-Bissau északi részén, amely fontos áruátrakodóhelyként szolgál a határmenti régiók számára.",
       ro: "Un port fluvial strategic în nordul Guineei-Bissau, care servește ca punct important de transbordare a mărfurilor către regiunile de frontieră.",
       en: "A strategic inland port in northern Guinea-Bissau, serving as an important transshipment point for goods to the border regions.",
       es: "Un puerto interior estratégico en el norte de Guinea-Bisáu que sirve como importante centro de transbordo de mercancías hacia las regiones fronterizas.",
@@ -643,7 +643,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Nördlicher Binnenhafen", "Grenzhandel", "Rio Cacheu Oberlauf", "Transportknotenpunkt"],
-      hu: ["Északi folyami kikötÅ'", "Határmenti kereskedelem", "Cacheu-folyó felsÅ' szakasza", "Szállítási csomópont"],
+      hu: ["Északi folyami kikötő", "Határmenti kereskedelem", "Cacheu-folyó felső szakasza", "Szállítási csomópont"],
       ro: ["Port fluvial nordic", "Comerț de frontieră", "Cursul superior al râului Cacheu", "Nod de transport"],
       en: ["Northern inland port", "Border trade", "Upper Cacheu River", "Transport hub"],
       es: ["Puerto interior del norte", "Comercio fronterizo", "Curso superior del río Cacheu", "Nodo de transporte"],
@@ -676,13 +676,13 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     coords: [-15.01, 11.12],
     name: {
       de: "Hafen von Cacine",
-      hu: "Cacinei kikötÅ'",
+      hu: "Cacinei kikötő",
       ro: "Portul din Cacine",
       en: "Port of Cacine"},
     image: "/poi-images/port-von-cacine-economic-v2.webp",
     description: {
       de: "Ein abgelegener, aber wichtiger Küstenhafen im tiefen Süden, der die Verbindung der Tombali-Region mit dem Rest des Landes sicherstellt.",
-      hu: "Távoli, de fontos tengerparti kikötÅ' a mély délen, amely biztosítja Tombali régió kapcsolatát az ország többi részével.",
+      hu: "Távoli, de fontos tengerparti kikötő a mély délen, amely biztosítja Tombali régió kapcsolatát az ország többi részével.",
       ro: "Un port de coastă izolat, dar important, în sudul îndepărtat, care asigură legătura regiunii Tombali cu restul țării.",
       en: "A remote but important coastal port in the deep south, ensuring the connection of the Tombali region with the rest of the country.",
       es: "Un puerto costero remoto pero importante en el sur profundo, que asegura la conexión de la región de Tombali con el resto del país.",
@@ -691,7 +691,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Südlichster Hafen", "Tombali-Region", "Küstenschifffahrt", "Abgeschiedene Lage"],
-      hu: ["Legdélibb kikötÅ'", "Tombali régió", "Partmenti hajózás", "Elszigetelt fekvés"],
+      hu: ["Legdélibb kikötő", "Tombali régió", "Partmenti hajózás", "Elszigetelt fekvés"],
       ro: ["Cel mai sudic port", "Regiunea Tombali", "Navigație de coastă", "Locație izolată"],
       en: ["Southernmost port", "Tombali region", "Coastal shipping", "Remote location"],
       es: ["Puerto más meridional", "Región de Tombali", "Cabotaje costero", "Ubicación remota"],
@@ -724,13 +724,13 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     coords: [-16.20, 12.40],
     name: {
       de: "Hafen von São Domingos",
-      hu: "São Domingos-i kikötÅ'",
+      hu: "São Domingos-i kikötő",
       ro: "Portul din São Domingos",
       en: "Port of São Domingos"},
     image: "/poi-images/port-von-sao-domingos-economic-v2.webp",
     description: {
-      de: "Ein GrenzkikötÅ' im Nordwesten, der eine wichtige Rolle im grenzüberschreitenden Warenaustausch auf dem Wasserweg übernimmt.",
-      hu: "Határmenti kikötÅ' északnyugaton, amely fontos szerepet játszik a vízi úton történÅ' határokon átnyúló árucserében.",
+      de: "Ein Grenzkikötő im Nordwesten, der eine wichtige Rolle im grenzüberschreitenden Warenaustausch auf dem Wasserweg übernimmt.",
+      hu: "Határmenti kikötő északnyugaton, amely fontos szerepet játszik a vízi úton történő határokon átnyúló árucserében.",
       ro: "Un port de frontieră în nord-vest, care joacă un rol important în schimbul transfrontalier de mărfuri pe cale navigabilă.",
       en: "A border port in the northwest, playing an important role in cross-border commodity exchange by water.",
       es: "Un nodo fronterizo en el noroeste que desempeña un papel importante en el intercambio de mercancías transfronterizo por vía acuática.",
@@ -739,7 +739,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Grenzhafen", "Nordwesten Guinea-Bissaus", "Wasserseitiger Handel", "Logistikpunkt"],
-      hu: ["HatárkikötÅ'", "Északnyugat-Guinea-Bissau", "Vízi kereskedelem", "Logisztikai pont"],
+      hu: ["Határkikötő", "Északnyugat-Guinea-Bissau", "Vízi kereskedelem", "Logisztikai pont"],
       ro: ["Port de frontieră", "Nord-vestul Guineei-Bissau", "Comerț pe apă", "Punct logistic"],
       en: ["Border port", "Northwest Guinea-Bissau", "Waterborne trade", "Logistics point"],
       es: ["Puerto fronterizo", "Noroeste de Guinea-Bisáu", "Comercio por agua", "Punto logístico"],
@@ -772,13 +772,13 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     coords: [-15.45, 11.72],
     name: {
       de: "Hafen von Tite",
-      hu: "Tite-i kikötÅ'",
+      hu: "Tite-i kikötő",
       ro: "Portul din Tite",
       en: "Port of Tite"},
     image: "/poi-images/port-von-tite-economic-v2.webp",
     description: {
       de: "Ein Flusshafen am südlichen Ufer des Geba-Đstuars, der als wichtiges Bindeglied für den Personentransport und Güterverkehr dient.",
-      hu: "Folyami kikötÅ' a Geba-torkolat déli partján, amely fontos kapocsként szolgál a személy- és áruszállítás számára.",
+      hu: "Folyami kikötő a Geba-torkolat déli partján, amely fontos kapocsként szolgál a személy- és áruszállítás számára.",
       ro: "Un port fluvial pe malul sudic al estuarului Geba, servind ca o legătură importantă pentru transportul de persoane și mărfuri.",
       en: "A river port on the southern shore of the Geba estuary, serving as an important link for passenger and freight transport.",
       es: "Un puerto fluvial en la orilla sur del estuario del Geba que sirve como enlace vital para el transporte de personas y mercancías.",
@@ -820,13 +820,13 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     coords: [-15.75, 11.80],
     name: {
       de: "Hafen von Prabis",
-      hu: "Prabisi kikötÅ'",
+      hu: "Prabisi kikötő",
       ro: "Portul din Prabis",
       en: "Port of Prabis"},
     image: "/poi-images/port-von-prabis-economic-v2.webp",
     description: {
       de: "Ein Fischerei- und Transporthafen südwestlich von Bissau, der für die Versorgung der Hauptstadt mit frischem Fisch entscheidend ist.",
-      hu: "Halászati és szállítási kikötÅ' Bissau-tól délnyugatra, amely döntÅ' fontosságú a fÅ'város friss hallal történÅ' ellátásában.",
+      hu: "Halászati és szállítási kikötő Bissau-tól délnyugatra, amely döntő fontosságú a főváros friss hallal történő ellátásában.",
       ro: "Un port de pescuit și transport la sud-vest de Bissau, crucial pentru aprovizionarea capitalei cu pește proaspăt.",
       en: "A fishing and transport port southwest of Bissau, crucial for supplying the capital with fresh fish.",
       es: "Un puerto de pesca y transporte al suroeste de Bisáu, crucial para el suministro de pescado fresco a la capital.",
@@ -835,7 +835,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Fischereihafen", "Nahe Bissau", "Transport zu Inseln", "Wirtschaftliches Zentrum Biombo"],
-      hu: ["HalászkikötÅ'", "Bissau közelében", "Szállítás a szigetekre", "Biombo gazdasági központja"],
+      hu: ["Halászkikötő", "Bissau közelében", "Szállítás a szigetekre", "Biombo gazdasági központja"],
       ro: ["Port pescăresc", "Lângă Bissau", "Transport către insule", "Centru economic Biombo"],
       en: ["Fishing port", "Near Bissau", "Transport to islands", "Biombo economic center"],
       es: ["Puerto pesquero", "Cerca de Bisáu", "Transporte a las islas", "Centro económico de Biombo"],
@@ -868,13 +868,13 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     coords: [-15.68, 11.98],
     name: {
       de: "Hafen von Encheia",
-      hu: "Encheiai kikötÅ'",
+      hu: "Encheiai kikötő",
       ro: "Portul din Encheia",
       en: "Port of Encheia"},
     image: "/poi-images/port-von-encheia-economic-v2.webp",
     description: {
       de: "Ein regionaler Flusshafen in der Oio-Region, der den Abtransport landwirtschaftlicher Erzeugnisse aus dem fruchtbaren Hinterland ermöglicht.",
-      hu: "Regionális folyami kikötÅ' az Oio régióban, amely lehetÅ'vé teszi a mezÅ'gazdasági termékek elszállítását a termékeny hátországból.",
+      hu: "Regionális folyami kikötő az Oio régióban, amely lehetővé teszi a mezőgazdasági termékek elszállítását a termékeny hátországból.",
       ro: "Un port fluvial regional în regiunea Oio, care permite transportul produselor agricole din hinterlandul fertil.",
       en: "A regional river port in the Oio region, enabling the transport of agricultural products from the fertile hinterland.",
       es: "Un puerto fluvial regional en la región de Oio que permite el transporte de productos agrícolas del fértil interior.",
@@ -916,13 +916,13 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     coords: [-15.30, 11.65],
     name: {
       de: "Hafen von Bion",
-      hu: "Bioni kikötÅ'",
+      hu: "Bioni kikötő",
       ro: "Portul din Bion",
       en: "Port of Bion"},
     image: "/poi-images/port-von-bion-economic-v2.webp",
     description: {
       de: "Ein kleinerer, aber strategisch wichtiger Flusshafen, der die logistische Anbindung der Quínara-Region verbessert.",
-      hu: "Kisebb, de stratégiailag fontos folyami kikötÅ', amely javítja a Quínara régió logisztikai összeköttetését.",
+      hu: "Kisebb, de stratégiailag fontos folyami kikötő, amely javítja a Quínara régió logisztikai összeköttetését.",
       ro: "Un port fluvial mai mic, dar strategic, care îmbunătățește conexiunea logistică a regiunii Quínara.",
       en: "A smaller but strategically important river port improving the logistical connection of the Quinara region.",
       es: "Un puerto fluvial pequeño pero estratégicamente importante que mejora la conexión logística de la región de Quínara.",
@@ -1015,7 +1015,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     image: "/poi-images/bissau-reismuehle-economic-v2.webp",
     description: {
       de: "Eine zentrale industrielle Anlage zur Verarbeitung von lokal angebautem Reis, einem der wichtigsten Grundnahrungsmittel des Landes.",
-      hu: "Központi ipari létesítmény a helyben termesztett rizs feldolgozására, amely az ország egyik legfontosabb alapvetÅ' élelmiszere.",
+      hu: "Központi ipari létesítmény a helyben termesztett rizs feldolgozására, amely az ország egyik legfontosabb alapvető élelmiszere.",
       ro: "O instalație industrială centrală pentru procesarea orezului cultivat local, unul dintre cele mai importante alimente de bază ale țării.",
       en: "A central industrial facility for processing locally grown rice, one of the country's most important staple foods.",
       es: "Una instalación industrial central para el procesamiento de arroz cultivado localmente, uno de los alimentos básicos más importantes del país.",
@@ -1024,7 +1024,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     },
     facts: {
       de: ["Reisverarbeitung", "Grundnahrungsmittel", "Industrielle Kapazität", "Ernährungssicherung"],
-      hu: ["Rizsfeldolgozás", "AlapvetÅ' élelmiszer", "Ipari kapacitás", "Élelmezésbiztonság"],
+      hu: ["Rizsfeldolgozás", "Alapvető élelmiszer", "Ipari kapacitás", "Élelmezésbiztonság"],
       ro: ["Procesarea orezului", "Aliment de bază", "Capacitate industrială", "Securitate alimentară"],
       en: ["Rice processing", "Staple food", "Industrial capacity", "Food security"],
       es: ["Procesamiento de arroz", "Alimento básico", "Capacidad industrial", "Seguridad alimentaria"],

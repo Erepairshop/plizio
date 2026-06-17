@@ -9916,7 +9916,7 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "LK-92",
     coords: [80.3860, 7.2960],
-    name: { de: "Pinnawala Freiluftzoo", hu: "Pinnawala Szabadtéri Ãllatkert", ro: "Grădina Zoologică în Aer Liber Pinnawala", en: "Pinnawala Open Zoo"},
+    name: { de: "Pinnawala Freiluftzoo", hu: "Pinnawala Szabadtéri Állatkert", ro: "Grădina Zoologică în Aer Liber Pinnawala", en: "Pinnawala Open Zoo"},
     image: "/poi-images/pinnawala-open-zoo-life-v2.webp",
     description: { de: "Der erste Freiluftzoo des Landes, der weitläufige Gehege für einheimische und exotische Tiere bietet.", hu: "Az ország első szabadtéri állatkertje, amely tágas kifutókat biztosít hazai és egzotikus állatoknak.", ro: "Prima grădină zoologică în aer liber din țară, oferind incinte spațioase pentru animale indigene și exotice.", en: "The country's first open-air zoo, providing spacious enclosures for indigenous and exotic animals." , es: "El primer zoológico al aire libre del país, que ofrece amplios recintos para animales autóctonos y exóticos.", pt: "O primeiro jardim zoológico ao ar livre do país, oferecendo amplos recintos para animais nativos e exóticos.", fr: "Le premier zoo en plein air du pays, offrant de vastes enclos pour les animaux indigènes et exotiques."},
     facts: {

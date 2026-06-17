@@ -7,7 +7,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "lake",
     parent: "KE-30",
     coords: [36.0333, 3.5333],
-    name: { de: "Turkana-See", hu: "Turkana-tÃƒÆ’ÂÂ³", ro: "Lacul Turkana", en: "Lake Turkana"},
+    name: { de: "Turkana-See", hu: "Turkana-tó", ro: "Lacul Turkana", en: "Lake Turkana"},
     image: "/poi-images/lake-turkana-nature-v2.webp",
     description: { de: "Der grÃƒÆ’ÂÂ¶ÃƒÆ’Ã…Â¸te permanente WÃƒÆ’ÂÂ¼stensee der Welt.", hu: "A vilÃƒÆ’ÂÂ¡g legnagyobb ÃƒÆ’ÂÂ¡llandÃƒÆ’ÂÂ³ sivatagi tava.", ro: "Cel mai mare lac deÃƒË†ââ€žÂ¢ertic permanent din lume.", en: "The world's largest permanent desert lake." , es: "El lago desértico permanente más grande del mundo.", pt: "O maior lago desértico permanente do mundo.", fr: "Le plus grand lac désertique permanent au monde."},
     facts: {
@@ -266,7 +266,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "lake",
     parent: "KE-43",
     coords: [33.0, -1.0],
-    name: { de: "Viktoriasee", hu: "ViktÃƒÆ’ÂÂ³ria-tÃƒÆ’ÂÂ³", ro: "Lacul Victoria", en: "Lake Victoria"},
+    name: { de: "Viktoriasee", hu: "Viktória-tó", ro: "Lacul Victoria", en: "Lake Victoria"},
     image: "/poi-images/lake-victoria-nature-v2.webp",
     description: { de: "Der grÃƒÆ’ÂÂ¶ÃƒÆ’Ã…Â¸te See Afrikas.", hu: "Afrika legnagyobb tava.", ro: "Cel mai mare lac din Africa.", en: "The largest lake in Africa." , es: "El lago más grande de África.", pt: "O maior lago de África.", fr: "Le plus grand lac d'Afrique."},
     facts: {
@@ -301,7 +301,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "forest",
     parent: "KE-31",
     coords: [38.5, -3.0],
-    name: { de: "Tsavo-Waldgebiet", hu: "Tsavo-erdÃƒâ€¦ââ‚¬Ëœ", ro: "PÃƒâ€žÃ†â€™durea Tsavo", en: "Tsavo Forest"},
+    name: { de: "Tsavo-Waldgebiet", hu: "Tsavo-erdő", ro: "Pădurea Tsavo", en: "Tsavo Forest"},
     image: "/poi-images/tsavo-forest-nature-v2.webp",
     description: { de: "Ein bedeutendes Wald- und Savannengebiet.", hu: "JelentÃƒâ€¦ââ‚¬Ëœs erdÃƒâ€¦ââ‚¬Ëœ- ÃƒÆ’ÂÂ©s szavannaterÃƒÆ’ÂÂ¼let.", ro: "O zonÃƒâ€žÃ†â€™ forestierÃƒâ€žÃ†â€™ ÃƒË†ââ€žÂ¢i de savanÃƒâ€žÃ†â€™ importantÃƒâ€žÃ†â€™.", en: "An important forest and savanna area." , es: "Una importante zona de bosque y sabana.", pt: "Uma importante área de floresta e savana.", fr: "Une zone importante de forêt et de savane."},
     facts: {
@@ -336,7 +336,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "river",
     parent: "KE-30",
     coords: [39.5, -2.5],
-    name: { de: "Athi-Fluss", hu: "Athi-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Athi", en: "Athi River"},
+    name: { de: "Athi-Fluss", hu: "Athi-folyó", ro: "Râul Athi", en: "Athi River"},
     image: "/poi-images/athiriver-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss in Kenia.", hu: "Kenya jelentÃƒâ€¦ââ‚¬Ëœs folyÃƒÆ’ÂÂ³ja.", ro: "Un rÃƒÆ’ÂÂ¢u important ÃƒÆ’ÂÂ®n Kenya.", en: "A major river in Kenya." , es: "Un río importante en Kenia.", pt: "Um rio importante no Quénia.", fr: "Un fleuve important du Kenya."},
     facts: {
@@ -416,7 +416,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "river",
     parent: "KE-26",
     coords: [40.5, -2.5],
-    name: { de: "Tana-Fluss", hu: "Tana-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Tana", en: "Tana River"},
+    name: { de: "Tana-Fluss", hu: "Tana-folyó", ro: "Râul Tana", en: "Tana River"},
     image: "/poi-images/tana-river-nature-v2.webp",
     description: { de: "Der lÃƒÆ’ÂÂ¤ngste Fluss Kenias.", hu: "Kenya leghosszabb folyÃƒÆ’ÂÂ³ja.", ro: "Cel mai lung rÃƒÆ’ÂÂ¢u din Kenya.", en: "The longest river in Kenya." , es: "El río más largo de Kenia.", pt: "O rio mais longo do Quénia.", fr: "Le plus long fleuve du Kenya."},
     facts: {
@@ -451,7 +451,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "lake",
     parent: "KE-26",
     coords: [36.0833, -0.3667],
-    name: { de: "Nakuru-See", hu: "Nakuru-tÃƒÆ’ÂÂ³", ro: "Lacul Nakuru", en: "Lake Nakuru"},
+    name: { de: "Nakuru-See", hu: "Nakuru-tó", ro: "Lacul Nakuru", en: "Lake Nakuru"},
     image: "/poi-images/lake-nakuru-nature-v2.webp",
     description: { de: "Ein sodahaltiger See, bekannt fÃƒÆ’ÂÂ¼r Flamingos.", hu: "SzÃƒÆ’ÂÂ³dÃƒÆ’ÂÂ¡s tÃƒÆ’ÂÂ³, hÃƒÆ’ÂÂ­res a flamingÃƒÆ’ÂÂ³krÃƒÆ’ÂÂ³l.", ro: "Un lac alcalin, cunoscut pentru flamingo.", en: "A soda lake famous for flamingos." , es: "Un lago de soda, conocido por sus flamencos.", pt: "Um lago salino, conhecido pelos seus flamingos.", fr: "Un lac de soude, célèbre pour ses flamants roses."},
     facts: {
@@ -675,7 +675,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "lake",
     parent: "KE-30",
     coords: [36.1, 0.2333],
-    name: { de: "Bogoria-See", hu: "Bogoria-tÃƒÆ’ÂÂ³", ro: "Lacul Bogoria", en: "Lake Bogoria"},
+    name: { de: "Bogoria-See", hu: "Bogoria-tó", ro: "Lacul Bogoria", en: "Lake Bogoria"},
     image: "/poi-images/lake-bogoria-nature-v2.webp",
     description: { de: "Ein vulkanisch aktiver Sodasee.", hu: "VulkÃƒÆ’ÂÂ¡nilag aktÃƒÆ’ÂÂ­v szÃƒÆ’ÂÂ³dÃƒÆ’ÂÂ¡s tÃƒÆ’ÂÂ³.", ro: "Un lac alcalin activ vulcanic.", en: "A volcanically active soda lake." , es: "Un lago de soda volcánicamente activo.", pt: "Um lago de soda vulcanicamente ativo.", fr: "Un lac de soude volcaniquement actif."},
     facts: {
@@ -710,7 +710,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "mountain",
     parent: "KE-26",
     coords: [35.45, 1.25],
-    name: { de: "Cherangani-HÃƒÆ’ÂÂ¼gel", hu: "Cherangani-dombsÃƒÆ’ÂÂ¡g", ro: "Dealurile Cherangani", en: "Cherangani Hills"},
+    name: { de: "Cherangani-Hügel", hu: "Cherangani-dombság", ro: "Dealurile Cherangani", en: "Cherangani Hills"},
     image: "/poi-images/cherangani-hills-nature-v2.webp",
     description: { de: "Eine Bergkette im westlichen Kenia.", hu: "Hegyvonulat Nyugat-KenyÃƒÆ’ÂÂ¡ban.", ro: "Un lanÃƒË†ââ‚¬Âº muntos ÃƒÆ’ÂÂ®n vestul Keniei.", en: "A mountain range in western Kenya." , es: "Una cadena montañosa en el oeste de Kenia.", pt: "Uma cordilheira no oeste do Quénia.", fr: "Une chaîne de montagnes dans l'Ouest kenyan."},
     facts: {
@@ -898,7 +898,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "forest",
     parent: "KE-20",
     coords: [37.0, 0.25],
-    name: { de: "Laikipia-Plateau", hu: "Laikipia-felfÃƒÆ’ÂÂ¶ld", ro: "Platoul Laikipia", en: "Laikipia Plateau"},
+    name: { de: "Laikipia-Plateau", hu: "Laikipia-felföld", ro: "Platoul Laikipia", en: "Laikipia Plateau"},
     image: "/poi-images/laikipia-plateau-nature-v2.webp",
     description: { de: "Ein bedeutendes Hochlandgebiet.", hu: "Fontos felfÃƒÆ’ÂÂ¶ldi terÃƒÆ’ÂÂ¼let.", ro: "O zonÃƒâ€žÃ†â€™ de podiÃƒË†ââ€žÂ¢ importantÃƒâ€žÃ†â€™.", en: "A significant highland area." , es: "Una importante zona de tierras altas.", pt: "Uma importante área de planalto.", fr: "Une zone de hauts plateaux importante."},
     facts: {
@@ -1266,7 +1266,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "lake",
     parent: "KE-26",
     coords: [36.3667, -0.7833],
-    name: { de: "Naivasha-See", hu: "Naivasha-tÃƒÆ’ÂÂ³", ro: "Lacul Naivasha", en: "Lake Naivasha"},
+    name: { de: "Naivasha-See", hu: "Naivasha-tó", ro: "Lacul Naivasha", en: "Lake Naivasha"},
     image: "/poi-images/lake-naivasha-nature-v2.webp",
     description: { de: "Ein SÃƒÆ’ÂÂ¼ÃƒÆ’Ã…Â¸wassersee im Rift Valley.", hu: "ÃƒÆ’ââ‚¬Â°desvÃƒÆ’ÂÂ­zi tÃƒÆ’ÂÂ³ a Rift-vÃƒÆ’ÂÂ¶lgyben.", ro: "Un lac cu apÃƒâ€žÃ†â€™ dulce ÃƒÆ’ÂÂ®n Rift Valley.", en: "A freshwater lake in the Rift Valley." , es: "Un lago de agua dulce en el Valle del Rift.", pt: "Um lago de água doce no Rift Valley.", fr: "Un lac d'eau douce dans la vallée du Rift."},
     facts: {
@@ -1490,7 +1490,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "mountain",
     parent: "KE-20",
     coords: [36.7, -0.4],
-    name: { de: "Aberdare-Gebirge", hu: "Aberdare-hegysÃƒÆ’ÂÂ©g", ro: "MunÃƒË†ââ‚¬Âºii Aberdare", en: "Aberdare Range"},
+    name: { de: "Aberdare-Gebirge", hu: "Aberdare-hegység", ro: "MunÈâۼii Aberdare", en: "Aberdare Range"},
     image: "/poi-images/aberdare-range-nature-v2.webp",
     description: { de: "Eine vulkanische Gebirgskette.", hu: "Vulkanikus hegylÃƒÆ’ÂÂ¡nc.", ro: "Un lanÃƒË†ââ‚¬Âº muntos vulcanic.", en: "A volcanic mountain range." , es: "Una cordillera de origen volcánico.", pt: "Uma cordilheira de origem vulcânica.", fr: "Une chaîne de montagnes d'origine volcanique."},
     facts: {
@@ -1525,7 +1525,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "lake",
     parent: "KE-30",
     coords: [36.2667, -1.8833],
-    name: { de: "Magadi-See", hu: "Magadi-tÃƒÆ’ÂÂ³", ro: "Lacul Magadi", en: "Lake Magadi"},
+    name: { de: "Magadi-See", hu: "Magadi-tó", ro: "Lacul Magadi", en: "Lake Magadi"},
     image: "/poi-images/lake-magadi-nature-v2.webp",
     description: { de: "Ein extremer Sodasee.", hu: "ExtrÃƒÆ’ÂÂ©m szÃƒÆ’ÂÂ³dÃƒÆ’ÂÂ¡s tÃƒÆ’ÂÂ³.", ro: "Un lac alcalin extrem.", en: "An extreme soda lake." , es: "Un lago de soda extremo.", pt: "Um lago de soda extremo.", fr: "Un lac de soude extrême."},
     facts: {
@@ -1605,7 +1605,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "river",
     parent: "KE-33",
     coords: [34.0, -1.5],
-    name: { de: "Mara-Fluss", hu: "Mara-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Mara", en: "Mara River"},
+    name: { de: "Mara-Fluss", hu: "Mara-folyó", ro: "Râul Mara", en: "Mara River"},
     image: "/poi-images/mara-river-nature-v2.webp",
     description: { de: "BerÃƒÆ’ÂÂ¼hmt fÃƒÆ’ÂÂ¼r die Tierwanderung.", hu: "HÃƒÆ’ÂÂ­res az ÃƒÆ’ÂÂ¡llatok vÃƒÆ’ÂÂ¡ndorlÃƒÆ’ÂÂ¡sÃƒÆ’ÂÂ¡rÃƒÆ’ÂÂ³l.", ro: "Faimos pentru migraÃƒË†ââ‚¬Âºia animalelor.", en: "Famous for the animal migration." , es: "Famoso por la migración animal.", pt: "Famoso pela migração animal.", fr: "Célèbre pour la migration des animaux."},
     facts: {
@@ -1640,7 +1640,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "lake",
     parent: "KE-26",
     coords: [36.25, -0.2833],
-    name: { de: "Elementaita-See", hu: "Elementaita-tÃƒÆ’ÂÂ³", ro: "Lacul Elementaita", en: "Lake Elementaita"},
+    name: { de: "Elementaita-See", hu: "Elementaita-tó", ro: "Lacul Elementaita", en: "Lake Elementaita"},
     image: "/poi-images/lake-elementaita-nature-v2.webp",
     description: { de: "Ein sodahaltiger Kratersee.", hu: "SzÃƒÆ’ÂÂ³dÃƒÆ’ÂÂ¡s krÃƒÆ’ÂÂ¡tertÃƒÆ’ÂÂ³.", ro: "Un lac crater alcalin.", en: "A soda crater lake." , es: "Un lago de cráter alcalino.", pt: "Um lago de cratera alcalino.", fr: "Un lac de cratère alcalin."},
     facts: {
@@ -1755,9 +1755,9 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "river",
     parent: "KE-43",
     coords: [34.0, 0.0],
-    name: { de: "Yala-Fluss", hu: "Yala-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Yala", en: "Yala River"},
+    name: { de: "Yala-Fluss", hu: "Yala-folyó", ro: "Râul Yala", en: "Yala River"},
     image: "/poi-images/yala-river-nature-v2.webp",
-    description: { de: "MÃƒÆ’ÂÂ¼ndet in den Viktoriasee.", hu: "A ViktÃƒÆ’ÂÂ³ria-tÃƒÆ’ÂÂ³ba ÃƒÆ’ÂÂ¶mlik.", ro: "Se varsÃƒâ€žÃ†â€™ ÃƒÆ’ÂÂ®n Lacul Victoria.", en: "Flows into Lake Victoria." , es: "Desemboca en el Lago Victoria.", pt: "Desagua no Lago Vitória.", fr: "Se jette dans le lac Victoria."},
+    description: { de: "MÃƒÆ’ÂÂ¼ndet in den Viktoriasee.", hu: "A Viktória-tóba ÃƒÆ’ÂÂ¶mlik.", ro: "Se varsÃƒâ€žÃ†â€™ ÃƒÆ’ÂÂ®n Lacul Victoria.", en: "Flows into Lake Victoria." , es: "Desemboca en el Lago Victoria.", pt: "Desagua no Lago Vitória.", fr: "Se jette dans le lac Victoria."},
     facts: {
       de: ["Wichtiges Feuchtgebiet", "Westliches Hochland"],
       hu: ["Fontos vizes ÃƒÆ’ÂÂ©lÃƒâ€¦ââ‚¬Ëœhely", "Nyugati felfÃƒÆ’ÂÂ¶ld"],
@@ -1790,7 +1790,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "lake",
     parent: "KE-20",
     coords: [36.4, -0.2],
-    name: { de: "Ol-Bolossat-See", hu: "Ol-Bolossat-tÃƒÆ’ÂÂ³", ro: "Lacul Ol-Bolossat", en: "Lake Ol Bolossat"},
+    name: { de: "Ol-Bolossat-See", hu: "Ol-Bolossat-tó", ro: "Lacul Ol-Bolossat", en: "Lake Ol Bolossat"},
     image: "/poi-images/lake-ol-bolossat-nature-v2.webp",
     description: { de: "Der einzige See in der Zentralprovinz.", hu: "Az egyetlen tÃƒÆ’ÂÂ³ a kÃƒÆ’ÂÂ¶zponti tartomÃƒÆ’ÂÂ¡nyban.", ro: "Singurul lac din provincia centralÃƒâ€žÃ†â€™.", en: "The only lake in the Central Province." , es: "El único lago de la Provincia Central.", pt: "O único lago na Província Central.", fr: "Le seul lac de la province Centrale."},
     facts: {
@@ -1825,7 +1825,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "river",
     parent: "KE-26",
     coords: [34.0, 0.2],
-    name: { de: "Nzoia-Fluss", hu: "Nzoia-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Nzoia", en: "Nzoia River"},
+    name: { de: "Nzoia-Fluss", hu: "Nzoia-folyó", ro: "Râul Nzoia", en: "Nzoia River"},
     image: "/poi-images/nzoia-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss im Westen.", hu: "JelentÃƒâ€¦ââ‚¬Ëœs folyÃƒÆ’ÂÂ³ nyugaton.", ro: "Un rÃƒÆ’ÂÂ¢u important ÃƒÆ’ÂÂ®n vest.", en: "A major river in the west." , es: "Un río importante en el oeste.", pt: "Um rio importante no oeste.", fr: "Une rivière importante dans l'ouest."},
     facts: {
@@ -1905,7 +1905,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "lake",
     parent: "KE-30",
     coords: [36.0, 0.6],
-    name: { de: "Baringo-See", hu: "Baringo-tÃƒÆ’ÂÂ³", ro: "Lacul Baringo", en: "Lake Baringo"},
+    name: { de: "Baringo-See", hu: "Baringo-tó", ro: "Lacul Baringo", en: "Lake Baringo"},
     image: "/poi-images/lake-baringo-nature-v2.webp",
     description: { de: "Ein SÃƒÆ’ÂÂ¼ÃƒÆ’Ã…Â¸wassersee im Rift Valley.", hu: "ÃƒÆ’ââ‚¬Â°desvÃƒÆ’ÂÂ­zi tÃƒÆ’ÂÂ³ a Rift-vÃƒÆ’ÂÂ¶lgyben.", ro: "Un lac cu apÃƒâ€žÃ†â€™ dulce ÃƒÆ’ÂÂ®n Rift Valley.", en: "A freshwater lake in the Rift Valley." , es: "Un lago de agua dulce en el Valle del Rift.", pt: "Um lago de água doce no Rift Valley.", fr: "Un lac d'eau douce dans la vallée du Rift."},
     facts: {
@@ -2020,7 +2020,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "lake",
     parent: "KE-30",
     coords: [35.8, 0.6],
-    name: { de: "Kamnarok-See", hu: "Kamnarok-tÃƒÆ’ÂÂ³", ro: "Lacul Kamnarok", en: "Lake Kamnarok"},
+    name: { de: "Kamnarok-See", hu: "Kamnarok-tó", ro: "Lacul Kamnarok", en: "Lake Kamnarok"},
     image: "/poi-images/lake-kamnarok-nature-v2.webp",
     description: { de: "Ein See im Kerio-Tal.", hu: "TÃƒÆ’ÂÂ³ a Kerio-vÃƒÆ’ÂÂ¶lgyben.", ro: "Un lac ÃƒÆ’ÂÂ®n Valea Kerio.", en: "A lake in the Kerio Valley." , es: "Un lago en el valle de Kerio.", pt: "Um lago no Vale do Kerio.", fr: "Un lac dans la vallée du Kerio."},
     facts: {
@@ -2243,7 +2243,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "river",
     parent: "KE-31",
     coords: [40.0, -3.0],
-    name: { de: "Galana-Fluss", hu: "Galana-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Galana", en: "Galana River"},
+    name: { de: "Galana-Fluss", hu: "Galana-folyó", ro: "Râul Galana", en: "Galana River"},
     image: "/poi-images/galana-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss an der KÃƒÆ’ÂÂ¼ste.", hu: "Fontos folyÃƒÆ’ÂÂ³ a parton.", ro: "Un rÃƒÆ’ÂÂ¢u important pe coastÃƒâ€žÃ†â€™.", en: "A major river on the coast." , es: "Un río importante en la costa.", pt: "Um rio importante na costa.", fr: "Un fleuve important sur la côte."},
     facts: {
@@ -2359,7 +2359,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "lake",
     parent: "KE-30",
     coords: [36.0, 0.4],
-    name: { de: "Ol Oropil-See", hu: "Ol Oropil-tÃƒÆ’ÂÂ³", ro: "Lacul Ol Oropil", en: "Lake Ol Oropil"},
+    name: { de: "Ol Oropil-See", hu: "Ol Oropil-tó", ro: "Lacul Ol Oropil", en: "Lake Ol Oropil"},
     image: "/poi-images/lake-ol-oropil-nature-v2.webp",
     description: { de: "Kleiner See im Rift Valley.", hu: "Kisebb tÃƒÆ’ÂÂ³ a Rift-vÃƒÆ’ÂÂ¶lgyben.", ro: "Lac mic ÃƒÆ’ÂÂ®n Rift Valley.", en: "Small lake in the Rift Valley." , es: "Pequeño lago en el Valle del Rift.", pt: "Pequeno lago no Vale do Rift.", fr: "Petit lac dans la vallée du Rift."},
     facts: {
@@ -2510,9 +2510,9 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "river",
     parent: "KE-30",
     coords: [35.5, 3.5],
-    name: { de: "Turkwel-Fluss", hu: "Turkwel-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Turkwel", en: "Turkwel River"},
+    name: { de: "Turkwel-Fluss", hu: "Turkwel-folyó", ro: "Râul Turkwel", en: "Turkwel River"},
     image: "/poi-images/turkwel-river-nature-v2.webp",
-    description: { de: "FlieÃƒÆ’Ã…Â¸t in den Turkana-See.", hu: "A Turkana-tÃƒÆ’ÂÂ³ba ÃƒÆ’ÂÂ¶mlik.", ro: "Se varsÃƒâ€žÃ†â€™ ÃƒÆ’ÂÂ®n Lacul Turkana.", en: "Flows into Lake Turkana." , es: "Fluye hacia el Lago Turkana.", pt: "Corre para o Lago Turkana.", fr: "Se jette dans le lac Turkana."},
+    description: { de: "FlieÃƒÆ’Ã…Â¸t in den Turkana-See.", hu: "A Turkana-tóba ÃƒÆ’ÂÂ¶mlik.", ro: "Se varsÃƒâ€žÃ†â€™ ÃƒÆ’ÂÂ®n Lacul Turkana.", en: "Flows into Lake Turkana." , es: "Fluye hacia el Lago Turkana.", pt: "Corre para o Lago Turkana.", fr: "Se jette dans le lac Turkana."},
     facts: {
       de: ["Dammbau", "Wichtig fÃƒÆ’ÂÂ¼r BewÃƒÆ’ÂÂ¤sserung"],
       hu: ["GÃƒÆ’ÂÂ¡tÃƒÆ’ÂÂ©pÃƒÆ’ÂÂ­tÃƒÆ’ÂÂ©s", "Fontos az ÃƒÆ’ÂÂ¶ntÃƒÆ’ÂÂ¶zÃƒÆ’ÂÂ©shez"],
@@ -2545,7 +2545,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "lake",
     parent: "KE-30",
     coords: [36.0, 0.5],
-    name: { de: "Ole Nado-See", hu: "Ole Nado-tÃƒÆ’ÂÂ³", ro: "Lacul Ole Nado", en: "Lake Ole Nado"},
+    name: { de: "Ole Nado-See", hu: "Ole Nado-tó", ro: "Lacul Ole Nado", en: "Lake Ole Nado"},
     image: "/poi-images/lake-ole-nado-nature-v2.webp",
     description: { de: "Kleiner Sodasee.", hu: "Kicsi szÃƒÆ’ÂÂ³dÃƒÆ’ÂÂ¡s tÃƒÆ’ÂÂ³.", ro: "Lac alcalin mic.", en: "Small soda lake." , es: "Pequeño lago de soda.", pt: "Pequeno lago salino.", fr: "Petit lac de soude."},
     facts: {
@@ -2580,7 +2580,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "river",
     parent: "KE-30",
     coords: [35.8, 1.5],
-    name: { de: "Kerio-Fluss", hu: "Kerio-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Kerio", en: "Kerio River"},
+    name: { de: "Kerio-Fluss", hu: "Kerio-folyó", ro: "Râul Kerio", en: "Kerio River"},
     image: "/poi-images/kerio-river-nature-v2.webp",
     description: { de: "FlieÃƒÆ’Ã…Â¸t durch das Kerio-Tal.", hu: "ÃƒÆ’ÂÂtfolyik a Kerio-vÃƒÆ’ÂÂ¶lgyÃƒÆ’ÂÂ¶n.", ro: "Curge prin Valea Kerio.", en: "Flows through Kerio Valley." , es: "Fluye a través del valle de Kerio.", pt: "Corre através do Vale do Kerio.", fr: "Coule à travers la vallée du Kerio."},
     facts: {
@@ -2734,7 +2734,7 @@ export const poiExtraKenyaNatureV2: POI[] = [
     coords: [36.6, -0.4],
     name: { de: "Mount Satima", hu: "Satima-hegy", ro: "Muntele Satima", en: "Mount Satima"},
     image: "/poi-images/mt-satima-nature-v2.webp",
-    description: { de: "HÃƒÆ’ÂÂ¶chster Punkt der Aberdare-Range.", hu: "Az Aberdare-hegysÃƒÆ’ÂÂ©g legmagasabb pontja.", ro: "Cel mai ÃƒÆ’ÂÂ®nalt punct din Aberdare Range.", en: "Highest point of the Aberdare Range." , es: "Punto más alto de la cordillera Aberdare.", pt: "Ponto mais alto da Cordilheira Aberdare.", fr: "Point culminant de la chaîne des Aberdare."},
+    description: { de: "HÃƒÆ’ÂÂ¶chster Punkt der Aberdare-Range.", hu: "Az Aberdare-hegység legmagasabb pontja.", ro: "Cel mai ÃƒÆ’ÂÂ®nalt punct din Aberdare Range.", en: "Highest point of the Aberdare Range." , es: "Punto más alto de la cordillera Aberdare.", pt: "Ponto mais alto da Cordilheira Aberdare.", fr: "Point culminant de la chaîne des Aberdare."},
     facts: {
       de: ["Wanderziel", "Alpine Flora"],
       hu: ["TÃƒÆ’ÂÂºracÃƒÆ’ÂÂ©l", "Alpesi flÃƒÆ’ÂÂ³ra"],

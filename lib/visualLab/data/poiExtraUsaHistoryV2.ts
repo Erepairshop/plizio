@@ -23517,7 +23517,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
     coords: [-122.429, 37.863],
     name: {
       de: "Angel Island Einwanderungsstation",
-      hu: "Angel Island Bevándorlási Ãllomás",
+      hu: "Angel Island Bevándorlási Állomás",
       ro: "Stația de imigrare Angel Island",
       en: "Angel Island Immigration Station"},
     image: "/poi-images/angel-island-immigration-station-history-v2.webp",
