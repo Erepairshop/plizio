@@ -1,0 +1,282 @@
+name: Deploy POI Full (no games build)
+
+# FULL regeneration of every POI HTML + static maps + hubs + sitemap index,
+# WITHOUT running `npm run build`. The Next app shell (/learn, /games, /astro-*,
+# /test-*, /gravitas, homepage + country/region landing pages, _next/ chunks)
+# AND the sitemap-N.xml chunks are REUSED unchanged from the current live release.
+#
+# Use this when the change is in the POI/map/sitemap RENDER layer but the URL set
+# is unchanged:
+#   - generate-poi-html.mts template / poi.css
+#   - build-static-maps.mts (country/metro maps)
+#   - hub generators (beach / country-sights / sight-pages)
+#   - sight-grid / image-sitemap
+#
+# DO NOT use this when the POI inventory or slugs changed (new poiExtra file,
+# renamed slug, added/removed POIs) — the sitemap-N.xml chunks come from the Next
+# build (app/sitemap.ts), which this workflow skips. For that → deploy-vps.yml full.
+#
+# Cost: ~10-12 min (vs ~35-40 for the full Deploy VPS) — the ~25 min games build
+# is what gets skipped.
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-vps          # share the lock with deploy-vps / deploy-app — never run two release swaps at once
+  cancel-in-progress: false
+
+env:
+  RELEASE_BASE: /home/erik/plizio
+  KEEP_RELEASES: 2
+
+jobs:
+  build-deploy:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: Install dependencies (cache-friendly)
+        run: |
+          if [ ! -d "node_modules" ]; then
+            npm ci --no-audit --no-fund --prefer-offline
+          fi
+
+      - name: Require an existing live release (this workflow reuses its app shell)
+        id: release
+        run: |
+          set -euo pipefail
+          if [ ! -L "$RELEASE_BASE/current" ]; then
+            echo "::error::No active release symlink at $RELEASE_BASE/current — run deploy-vps (full) first."
+            exit 1
+          fi
+          PREV=$(readlink -f "$RELEASE_BASE/current")
+          test -f "$PREV/index.html"
+          test -d "$PREV/_next"
+          echo "prev=$PREV" >> "$GITHUB_OUTPUT"
+          echo "[poi-full] reusing app shell from: $PREV"
+
+      - name: Pre-build disk guard (prune orphan releases before building)
+        shell: bash
+        run: |
+          REL="${{ env.RELEASE_BASE }}/releases"
+          CUR=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
+          if [ -d "$REL" ]; then
+            for d in "$REL"/*/; do
+              full=$(readlink -f "$d")
+              [ -z "$full" ] && continue
+              if [ "$full" = "$CUR" ]; then continue; fi
+              echo "pre-build prune: $full"
+              rm -rf "$full" || true
+            done
+          fi
+          df -h / | tail -1
+
+      - name: Refresh image manifest from shared/poi-images (avoid stale → hidden images)
+        run: |
+          SHARED="${{ env.RELEASE_BASE }}/shared/poi-images"
+          if [ -d "$SHARED" ]; then
+            python3 -c "import os,json; d='$SHARED'; fs=[f for f in os.listdir(d) if f.endswith('.webp')]; json.dump(sorted(fs), open('public/data/_image-manifest.json','w')); print('image manifest rebuilt:', len(fs))"
+          else
+            echo "shared/poi-images not found, keeping committed manifest"
+          fi
+
+      - name: Generate V2 POI JSON
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: |
+          set -o pipefail
+          npx tsx scripts/prepare_v2_data.mjs 2>&1 | tail -15
+
+      - name: Build SEO index (lite POI/region JSON for slugs.ts)
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/build-seo-index.mts
+
+      - name: Split POIs per country (lazy-fetch source)
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/split_pois_by_country.mts
+
+      - name: Build POI URL index
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/build-poi-url-index.mts
+
+      - name: Build static country + metro maps
+        env:
+          NODE_OPTIONS: --max-old-space-size=8192
+        run: npx tsx scripts/build-static-maps.mts all
+
+      - name: Build sight grid index
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/build-sight-grid.mts
+
+      # Seed out/ from the live release: brings the Next app shell (/learn, /games,
+      # landing pages, _next/ chunks), the sitemap-N.xml chunks, and the
+      # poi-images/sight-images SYMLINKS (rsync -a preserves links, no image copy).
+      - name: Seed out/ from current release (reuse app shell + sitemap chunks)
+        run: |
+          set -euo pipefail
+          PREV='${{ steps.release.outputs.prev }}'
+          rm -rf out
+          mkdir -p out
+          rsync -a "$PREV/" out/
+          test -f out/index.html && test -d out/_next
+          echo "[poi-full] seeded out/ from $PREV"
+
+      # Overlay freshly-built static assets on top of the seed (these are the parts
+      # the Next build would normally copy from public/ into out/).
+      - name: Overlay fresh static maps + poi-static + data into out/
+        run: |
+          set -euo pipefail
+          # Country/metro maps (build-static-maps output)
+          for dir in public/*-map; do
+            [ -d "$dir" ] || continue
+            rsync -a "$dir/" "out/$(basename "$dir")/"
+          done
+          # POI static assets (poi.css etc.)
+          if [ -d public/poi-static ]; then
+            rsync -a public/poi-static/ out/poi-static/
+          fi
+          # Client-fetched JSON (tips/itinerary/sights/i18n + freshly built sight-grid).
+          # Exclude pois/ (lazy-fetch source, not served) — keep sight-grid (just built).
+          rsync -a --exclude 'pois/' public/data/ out/data/
+          echo "[poi-full] overlaid maps + poi-static + data into out/"
+
+      - name: Generate POI HTML overlay (FULL — all POIs, overwrites seeded POI pages)
+        env:
+          OUT_DIR: out
+          GEN_LIMIT: '0'
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/generate-poi-html.mts
+
+      - name: Verify HTML overlay
+        run: |
+          set -euo pipefail
+          COUNT=$(find out -path "*/poi-static" -prune -o -mindepth 4 -name "index.html" -print | wc -l)
+          echo "POI HTML count: $COUNT"
+          test "$COUNT" -gt 100000
+
+      - name: Beach-hub pages (Croatia muster - hub plus per-beach rich pages plus sitemap-beach.xml)
+        env:
+          OUT_DIR: out
+        run: npx tsx scripts/build-beach-hub.mts
+
+      - name: Country-sights hubs (top-50 per country, uses authoritative url-index)
+        env:
+          OUT_DIR: out
+        run: |
+          npx tsx scripts/build-country-sights.mts all attractions
+          npx tsx scripts/build-country-sights.mts all cities
+
+      - name: Sight pages (top-1000 standalone, descAdv+FAQ+pinfo+cover, sitemap-sightpages.xml)
+        env:
+          OUT_DIR: out
+        run: npx tsx scripts/build-sight-pages.mts
+
+      # Rebuild the sitemap.xml INDEX from the (reused) sitemap-N.xml chunks +
+      # the hub sitemaps the steps above just (re)wrote. The per-URL chunks
+      # themselves are NOT regenerated here — that requires the Next build.
+      - name: Build sitemap.xml index from actual chunks
+        run: |
+          set -euo pipefail
+          node scripts/build-sitemap-index.mjs
+          test -f out/sitemap.xml
+          test -s out/sitemap.xml
+          echo "index chunk count: $(grep -c '<sitemap>' out/sitemap.xml)"
+
+      - name: Generate image sitemap (for Google Image discovery)
+        env:
+          OUT_DIR: out
+        run: npx tsx scripts/generate-image-sitemap.mts
+
+      - name: Atomic static release + nginx reload
+        run: |
+          set -euo pipefail
+          TS=$(date -u +%Y%m%d-%H%M%S)
+          REL_DIR="${{ env.RELEASE_BASE }}/releases/${TS}"
+          mkdir -p "$REL_DIR"
+          PREV=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
+          if [ -n "$PREV" ] && [ -d "$PREV" ]; then
+            rsync -a --delete --link-dest="$PREV/" out/ "$REL_DIR/"
+          else
+            cp -a out/. "$REL_DIR"/
+          fi
+          test -f "$REL_DIR/index.html" && test -d "$REL_DIR/_next"
+          chmod 755 "$REL_DIR"
+          find "$REL_DIR" -type d ! -perm 755 -exec chmod 755 {} + || true
+          find "$REL_DIR" -type f ! -perm 644 -exec chmod 644 {} + || true
+          if [ -d "${{ env.RELEASE_BASE }}/shared/sight-images" ]; then
+            ln -sfn "${{ env.RELEASE_BASE }}/shared/sight-images" "$REL_DIR/sight-images"
+          fi
+          if [ -d "${{ env.RELEASE_BASE }}/shared/poi-images" ]; then
+            ln -sfn "${{ env.RELEASE_BASE }}/shared/poi-images" "$REL_DIR/poi-images"
+          fi
+          ln -sfn "$REL_DIR" "${{ env.RELEASE_BASE }}/current.new"
+          mv -Tf "${{ env.RELEASE_BASE }}/current.new" "${{ env.RELEASE_BASE }}/current"
+          KEEP="${KEEP_RELEASES:-1}"
+          CURRENT_TARGET=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
+          n=0
+          for d in $(ls -1dt "${{ env.RELEASE_BASE }}/releases"/*/ 2>/dev/null); do
+            full=$(readlink -f "$d")
+            n=$((n+1))
+            if [ "$full" = "$CURRENT_TARGET" ]; then continue; fi
+            if [ "$n" -le "$KEEP" ]; then continue; fi
+            echo "pruning old release: $full"
+            rm -rf "$full" || true
+          done
+          echo "release rotation: kept newest $KEEP (+ current), $(ls -1d "${{ env.RELEASE_BASE }}/releases"/*/ 2>/dev/null | wc -l) remain"
+          # Restore static nginx config if it drifted (includes the /report.php block).
+          if ! cmp -s deploy/nginx/plizio-static.conf /etc/nginx/sites-enabled/plizio.conf 2>/dev/null; then
+            sudo cp deploy/nginx/plizio-static.conf /etc/nginx/sites-enabled/plizio.conf
+            sudo nginx -t
+          fi
+          sudo systemctl reload nginx
+          echo "DEPLOYED: $REL_DIR"
+
+      - name: Smoke test
+        run: |
+          set -euo pipefail
+          STATUS=$(curl -sS -o /tmp/out.html -w "%{http_code}" http://localhost/)
+          echo "HTTP $STATUS"
+          test "$STATUS" = "200"
+
+      - name: Purge Cloudflare cache for sitemaps (avoid stale 404 from atomic swap)
+        run: |
+          set -euo pipefail
+          if [ -n "${{ secrets.CF_API_TOKEN }}" ] && [ -n "${{ secrets.CF_ZONE_ID }}" ]; then
+            FILES=$(find out -maxdepth 1 -name 'sitemap*.xml' -printf '%f\n' \
+              | sed 's#^#https://plizio.com/#' | jq -R . | jq -s '{files: .}')
+            N=$(echo "$FILES" | jq '.files | length')
+            echo "[cf-purge] purging $N sitemap URLs from Cloudflare cache"
+            echo "$FILES" | jq -c '.files | _nwise(30)' | while IFS= read -r chunk; do
+              curl -s -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CF_ZONE_ID }}/purge_cache" \
+                -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
+                -H "Content-Type: application/json" \
+                --data "{\"files\": $chunk}" | jq -r '.success'
+            done
+          else
+            echo "[cf-purge] CF_API_TOKEN/CF_ZONE_ID secret not set, skipping CF purge"
+          fi
+
+      - name: Re-warm sitemap cache (avoid cold CF→origin timeout for Googlebot)
+        run: |
+          set -uo pipefail
+          for pass in 1 2; do
+            for f in $(find out -maxdepth 1 -name 'sitemap*.xml' -printf '%f\n'); do
+              code=$(curl -s -o /dev/null -w "%{http_code} %{time_total}s" \
+                -H "Accept-Encoding: gzip" \
+                -A "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" \
+                --max-time 35 "https://plizio.com/$f" || echo "ERR")
+              echo "[warm pass$pass] $f -> $code"
+            done
+          done
+          echo "[warm] done — sitemap CF cache primed (24h edge_ttl)"
