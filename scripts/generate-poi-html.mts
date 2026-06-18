@@ -1246,6 +1246,21 @@ function escapeHtml(s: any): string {
     .replace(/'/g, "&#39;");
 }
 
+// ---- Curriculum-leak sanitizer ---------------------------------------------
+// Some Gemini-generated POI texts (mostly non-EU V2 city descriptions + sights)
+// have a trailing school-curriculum fragment glued to the end, e.g.
+//   "...ideal für das Bonefishing. Geographie K7 — Inselökosysteme und ..."
+//   "...comunității de generații. Geografie K7 — Utilizarea agricolă ..."
+// It is always the final segment: a capitalized subject word + grade marker
+// (K1–K9) + em/en dash + topic, right before the end of the string. This is a
+// clear "mass-generated" tell to readers and AI evaluators. We strip it at
+// render time (source untouched, reversible) — same philosophy as sightFilter.
+const CURRICULUM_LEAK_RE = /\s*\b[\p{L}]+\s+K[1-9]\s*[—–-]\s*[^\n]*$/u;
+function stripCurriculumLeak(s: any): string {
+  if (typeof s !== "string" || !s) return typeof s === "string" ? s : "";
+  return s.replace(CURRICULUM_LEAK_RE, "").trimEnd();
+}
+
 // ---- Trust strip (E-E-A-T) --------------------------------------------------
 // External readers (and AI evaluators) flag pages with NO author, NO date and
 // NO human voice as "auto-generated, untrustworthy". This adds an honest
@@ -1503,7 +1518,7 @@ function structuredData(
         item: {
           "@type": "TouristAttraction",
           name: s.name,
-          description: s.text || s.name,
+          description: stripCurriculumLeak(s.text) || s.name,
           ...(s.category ? { additionalType: s.category } : {}),
           containedInPlace: { "@type": "Place", name: getLocalized(poi.name, lang) ?? poi.id },
         },
@@ -2683,9 +2698,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     }
   }
   const descShort = poi.description as Record<string, string> | undefined;
-  const descText = getLocalized(descAdv as Partial<Record<string, string>>, lang)
+  const descText = stripCurriculumLeak(
+    getLocalized(descAdv as Partial<Record<string, string>>, lang)
     || getLocalized(descShort as Partial<Record<string, string>>, lang)
-    || "";
+    || "");
 
   // Facts: prefer advanced
   const factsAdv = (poi as { factsAdvanced?: Record<string, string[]> }).factsAdvanced;
@@ -2931,7 +2947,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     // Street View kerül ide, ahol van. (A kép-attribúció is elmarad kép nélkül.)
     const img = "";
     const dist = withDistance && s.distance ? `<span class="plz-sight-dist">${escapeHtml(s.distance)}</span>` : "";
-    const txt = s.text ? `<p>${escapeHtml(s.text)}</p>` : "";
+    const txt = s.text ? `<p>${escapeHtml(stripCurriculumLeak(s.text))}</p>` : "";
     const attr = "";
     // Internal link priority: (1) dedicated standalone sight page if this sight has one,
     // (2) else a same-country POI cross-link, (3) else plain text.
