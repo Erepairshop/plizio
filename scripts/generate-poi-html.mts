@@ -1261,6 +1261,16 @@ function stripCurriculumLeak(s: any): string {
   return s.replace(CURRICULUM_LEAK_RE, "").trimEnd();
 }
 
+// Generic "X ist eine schöne Stadt" placeholder descriptions (all langs) carry
+// zero information and read as auto-generated fill-in. Treat them as empty so
+// the lead paragraph simply does not render when no real descAdv exists — the
+// page still keeps sights, weather, geo etc. (Proper fix = regenerate; this
+// just removes the tell at render time.)
+const PLACEHOLDER_DESC_RE = /(ist eine schöne Stadt|egy szép város|este un ora[șş] frumos|is a beautiful city|g[üu]zel bir [şs]ehirdir)\.?\s*$/i;
+function isPlaceholderDesc(s: any): boolean {
+  return typeof s === "string" && PLACEHOLDER_DESC_RE.test(s.trim());
+}
+
 // ---- Trust strip (E-E-A-T) --------------------------------------------------
 // External readers (and AI evaluators) flag pages with NO author, NO date and
 // NO human voice as "auto-generated, untrustworthy". This adds an honest
@@ -2698,9 +2708,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     }
   }
   const descShort = poi.description as Record<string, string> | undefined;
+  const _descShortLocal = getLocalized(descShort as Partial<Record<string, string>>, lang);
   const descText = stripCurriculumLeak(
     getLocalized(descAdv as Partial<Record<string, string>>, lang)
-    || getLocalized(descShort as Partial<Record<string, string>>, lang)
+    || (isPlaceholderDesc(_descShortLocal) ? "" : _descShortLocal)
     || "");
 
   // Facts: prefer advanced
