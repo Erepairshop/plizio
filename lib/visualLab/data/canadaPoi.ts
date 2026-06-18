@@ -20,7 +20,7 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Canada", hu: "Capital of Canada", ro: "Capital of Canada", en: "Capital of Canada" },
     descriptionAdvanced: {
       de: "Ottawa ist die majestätische Hauptstadt Kanadas, gelegen am Zusammenfluss dreier Flüsse. Die Stadt ist bekannt für ihre prächtige neugotische Architektur auf dem Parliament Hill und den Rideau-Kanal, der sich im Winter in die längste Eislaufbahn der Welt verwandelt.",
-      hu: "Ottawa Kanada fenséges fővárosa, amely három folyó találkozásánál fekszik. A város híres a Parlament-dombon található pompás neogótikus építészetéről és a Rideau-csatornáról, amely télen a világ leghosszabb korcsolyapályájává alakul. Földrajz K7 – hegységek és folyók.",
+      hu: "Ottawa Kanada fenséges fővárosa, amely három folyó találkozásánál fekszik. A város híres a Parlament-dombon található pompás neogótikus építészetéről és a Rideau-csatornáról, amely télen a világ leghosszabb korcsolyapályájává alakul.",
       ro: "",
       en: ""
     },
@@ -38,7 +38,7 @@ export const canadaCities: POI[] = [
     description: { de: "Largest city in Canada", hu: "Largest city in Canada", ro: "Largest city in Canada", en: "Largest city in Canada" },
     descriptionAdvanced: {
       de: "Toronto ist das pulsierende wirtschaftliche Herz Kanadas und eine der multikulturellsten Städte der Welt. Die Metropole am Ufer des Ontariosees besticht durch ihre beeindruckende Skyline, die vom berühmten CN Tower dominiert wird, und ihre vielfältigen Kulturviertel.",
-      hu: "Toronto Kanada lüktető gazdasági szíve és a világ egyik legmultikulturálisabb városa. Az Ontario-tó partján fekvő metropoliszt lenyűgöző látkép jellemzi, amelyet a híres CN Tower ural, kiegészülve változatos kulturális negyedekkel. Földrajz K8 – nagyvárosok és urbanizáció.",
+      hu: "Toronto Kanada lüktető gazdasági szíve és a világ egyik legmultikulturálisabb városa. Az Ontario-tó partján fekvő metropoliszt lenyűgöző látkép jellemzi, amelyet a híres CN Tower ural, kiegészülve változatos kulturális negyedekkel.",
       ro: "",
       en: ""
     },
@@ -56,7 +56,7 @@ export const canadaCities: POI[] = [
     description: { de: "Major city in Quebec", hu: "Major city in Quebec", ro: "Major city in Quebec", en: "Major city in Quebec" },
     descriptionAdvanced: {
       de: "Montreal ist eine charmante Mischung aus europäischem Flair und nordamerikanischer Energie. Als zweitgrößte französischsprachige Stadt der Welt ist sie bekannt für ihre erstklassige Gastronomie, ihre lebendige Kunstszene und die historische Altstadt Vieux-Montréal.",
-      hu: "Montreal az európai báj és az észak-amerikai energia bájos keveréke. A világ második legnagyobb francia nyelvű városaként ismert kiváló gasztronómiájáról, élénk művészeti életéről és Vieux-Montréal történelmi óvárosáról. Földrajz K6 – városok szerkezete.",
+      hu: "Montreal az európai báj és az észak-amerikai energia bájos keveréke. A világ második legnagyobb francia nyelvű városaként ismert kiváló gasztronómiájáról, élénk művészeti életéről és Vieux-Montréal történelmi óvárosáról.",
       ro: "",
       en: ""
     },
@@ -74,7 +74,7 @@ export const canadaCities: POI[] = [
     description: { de: "Major city in British Columbia", hu: "Major city in British Columbia", ro: "Major city in British Columbia", en: "Major city in British Columbia" },
     descriptionAdvanced: {
       de: "Vancouver ist eine atemberaubende Küstenstadt, in der das Meer auf die Berge trifft. Sie ist berühmt für ihre spektakuläre natürliche Umgebung, den weitläufigen Stanley Park und ihre Rolle als bedeutender Pazifikhafen und Zentrum der Filmindustrie.",
-      hu: "Vancouver egy lélegzetelállító tengerparti város, ahol az óceán találkozik a hegyekkel. Híres látványos természeti környezetéről, a hatalmas Stanley Parkról, valamint jelentős csendes-óceáni kikötőként és a filmipar központjaként betöltött szerepéről. Sachkunde K4 – óceánparti élővilág.",
+      hu: "Vancouver egy lélegzetelállító tengerparti város, ahol az óceán találkozik a hegyekkel. Híres látványos természeti környezetéről, a hatalmas Stanley Parkról, valamint jelentős csendes-óceáni kikötőként és a filmipar központjaként betöltött szerepéről.",
       ro: "",
       en: ""
     },
@@ -92,7 +92,7 @@ export const canadaCities: POI[] = [
     description: { de: "Major city in Alberta", hu: "Major city in Alberta", ro: "Major city in Alberta", en: "Major city in Alberta" },
     descriptionAdvanced: {
       de: "Calgary ist eine dynamische Stadt in den Ausläufern der Rocky Mountains, bekannt für ihre starke Verbindung zur Ölindustrie und ihre Wildwest-Traditionen. Jedes Jahr zieht die weltberühmte 'Calgary Stampede' Besucher aus aller Welt in die Stadt.",
-      hu: "Calgary egy dinamikus város a Sziklás-hegység lábánál, amely erős olajipari kötődéseiről és vadnyugati hagyományairól ismert. Minden évben a világhírű 'Calgary Stampede' látogatókat vonz a világ minden tájáról. Földrajz K5 – hegységelőtéri települések.",
+      hu: "Calgary egy dinamikus város a Sziklás-hegység lábánál, amely erős olajipari kötődéseiről és vadnyugati hagyományairól ismert. Minden évben a világhírű 'Calgary Stampede' látogatókat vonz a világ minden tájáról.",
       ro: "",
       en: ""
     },
@@ -110,7 +110,7 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Alberta", hu: "Capital of Alberta", ro: "Capital of Alberta", en: "Capital of Alberta" },
     descriptionAdvanced: {
       de: "Edmonton ist die nördlichste Millionenstadt Nordamerikas und ein wichtiges Tor zur Arktis. Die Stadt ist bekannt für ihr pulsierendes Kulturleben, das ausgedehnte Flusstal des North Saskatchewan River und die gewaltige West Edmonton Mall.",
-      hu: "Edmonton Észak-Amerika legészakibb, több mint egymillió lakosú városa, és fontos kapu az Arktisz felé. A város híres pezsgő kulturális életéről, az Észak-Saskatchewan folyó kiterjedt völgyéről és a hatalmas West Edmonton Mallról. Földrajz K6 – északi városok.",
+      hu: "Edmonton Észak-Amerika legészakibb, több mint egymillió lakosú városa, és fontos kapu az Arktisz felé. A város híres pezsgő kulturális életéről, az Észak-Saskatchewan folyó kiterjedt völgyéről és a hatalmas West Edmonton Mallról.",
       ro: "",
       en: ""
     },
@@ -128,7 +128,7 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Quebec", hu: "Capital of Quebec", ro: "Capital of Quebec", en: "Capital of Quebec" },
     descriptionAdvanced: {
       de: "Québec ist eine der ältesten europäischen Siedlungen in Nordamerika und die einzige befestigte Stadt nördlich von Mexiko. Die historische Altstadt (Vieux-Québec) mit ihren kopfsteingepflasterten Gassen und dem majestätischen Château Frontenac ist ein UNESCO-Weltkulturerbe.",
-      hu: "Québec Észak-Amerika egyik legrégebbi európai települése és az egyetlen erődített város Mexikótól északra. A történelmi óváros (Vieux-Québec) macskaköves utcáival és a fenséges Château Frontenac-kal az UNESCO Világörökség része. Történelem K7 – koloniális korszak.",
+      hu: "Québec Észak-Amerika egyik legrégebbi európai települése és az egyetlen erődített város Mexikótól északra. A történelmi óváros (Vieux-Québec) macskaköves utcáival és a fenséges Château Frontenac-kal az UNESCO Világörökség része.",
       ro: "",
       en: ""
     },
@@ -146,7 +146,7 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Manitoba", hu: "Capital of Manitoba", ro: "Capital of Manitoba", en: "Capital of Manitoba" },
     descriptionAdvanced: {
       de: "Winnipeg ist das geografische Zentrum Kanadas und ein wichtiger Verkehrsknotenpunkt in der Prärie. Die Stadt ist bekannt für ihr reiches kulturelles Erbe, das moderne Kanadische Museum für Menschenrechte und den historischen Versammlungsort 'The Forks'.",
-      hu: "Winnipeg Kanada földrajzi középpontja és a préri vidék fontos közlekedési csomópontja. A város híres gazdag kulturális örökségéről, a modern Kanadai Emberi Jogi Múzeumról és a történelmi 'The Forks' találkozóhelyről. Földrajz K5 – préri.",
+      hu: "Winnipeg Kanada földrajzi középpontja és a préri vidék fontos közlekedési csomópontja. A város híres gazdag kulturális örökségéről, a modern Kanadai Emberi Jogi Múzeumról és a történelmi 'The Forks' találkozóhelyről.",
       ro: "",
       en: ""
     },
@@ -164,7 +164,7 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Nova Scotia", hu: "Capital of Nova Scotia", ro: "Capital of Nova Scotia", en: "Capital of Nova Scotia" },
     descriptionAdvanced: {
       de: "Halifax ist eine historische Hafenstadt am Atlantik mit einer tiefen maritimen Tradition. Die Stadt ist bekannt für ihre beeindruckende Zitadelle, ihre lebendige Uferpromenade und ihre bedeutende Rolle in der Geschichte der kanadischen Einwanderung und der Marine.",
-      hu: "Halifax egy történelmi atlanti-óceáni kikötőváros, mély tengerészeti hagyományokkal. A város híres lenyűgöző citadellájáról, élénk vízparti sétányáról, valamint a kanadai bevándorlás és haditengerészet történetében betöltött jelentős szerepéről. Történelem K8 – tengerészet.",
+      hu: "Halifax egy történelmi atlanti-óceáni kikötőváros, mély tengerészeti hagyományokkal. A város híres lenyűgöző citadellájáról, élénk vízparti sétányáról, valamint a kanadai bevándorlás és haditengerészet történetében betöltött jelentős szerepéről.",
       ro: "",
       en: ""
     },
@@ -182,7 +182,7 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of British Columbia", hu: "Capital of British Columbia", ro: "Capital of British Columbia", en: "Capital of British Columbia" },
     descriptionAdvanced: {
       de: "Victoria, an der Südspitze von Vancouver Island gelegen, besticht durch ihr britisches Erbe und ihr mildes Klima. Die 'Gartenstadt' ist berühmt für ihre prächtigen Parlamentsgebäude, das historische Empress Hotel und ihre malerische Lage am Inner Harbour.",
-      hu: "A Vancouver-sziget déli csücskén fekvő Victoria brit örökségével és enyhe éghajlatával bűvöl el. A 'Kertváros' híres pompás parlamenti épületeiről, a történelmi Empress Hotelről és a Belső Kikötő festői környezetéről. Földrajz K6 – szigeti városok.",
+      hu: "A Vancouver-sziget déli csücskén fekvő Victoria brit örökségével és enyhe éghajlatával bűvöl el. A 'Kertváros' híres pompás parlamenti épületeiről, a történelmi Empress Hotelről és a Belső Kikötő festői környezetéről.",
       ro: "",
       en: ""
     },
@@ -200,7 +200,7 @@ export const canadaCities: POI[] = [
     description: { de: "Major city in Saskatchewan", hu: "Major city in Saskatchewan", ro: "Major city in Saskatchewan", en: "Major city in Saskatchewan" },
     descriptionAdvanced: {
       de: "Saskatoon ist die größte Stadt in Saskatchewan und wird wegen ihrer zahlreichen Brücken über den South Saskatchewan River oft als 'Paris der Prärie' bezeichnet. Die Stadt ist ein blühendes Zentrum für Landwirtschaft und Biotechnologie.",
-      hu: "Saskatoon Saskatchewan legnagyobb városa, amelyet a Dél-Saskatchewan folyón átívelő számos hídja miatt gyakran a 'Préri Párizsaként' emlegetnek. A város a mezőgazdaság és a biotechnológia virágzó központja. Földrajz K7 – folyók és városok.",
+      hu: "Saskatoon Saskatchewan legnagyobb városa, amelyet a Dél-Saskatchewan folyón átívelő számos hídja miatt gyakran a 'Préri Párizsaként' emlegetnek. A város a mezőgazdaság és a biotechnológia virágzó központja.",
       ro: "",
       en: ""
     },
@@ -218,7 +218,7 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Saskatchewan", hu: "Capital of Saskatchewan", ro: "Capital of Saskatchewan", en: "Capital of Saskatchewan" },
     descriptionAdvanced: {
       de: "Regina ist die stolze Hauptstadt von Saskatchewan und ein kulturelles Zentrum in der weiten Prärie. Die Stadt ist berühmt als Ausbildungsstätte der Royal Canadian Mounted Police und für den künstlich angelegten Wascana Lake im Herzen der Stadt.",
-      hu: "Regina Saskatchewan büszke fővárosa és a hatalmas préri kulturális központja. A város híres a Kanadai Királyi Lovasrendőrség kiképzőközpontjáról és a város szívében található, mesterséges Wascana-tóról. Sachkunde K5 – bűnüldözés története.",
+      hu: "Regina Saskatchewan büszke fővárosa és a hatalmas préri kulturális központja. A város híres a Kanadai Királyi Lovasrendőrség kiképzőközpontjáról és a város szívében található, mesterséges Wascana-tóról.",
       ro: "",
       en: ""
     },
@@ -236,7 +236,7 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Newfoundland and Labrador", hu: "Capital of Newfoundland and Labrador", ro: "Capital of Newfoundland and Labrador", en: "Capital of Newfoundland and Labrador" },
     descriptionAdvanced: {
       de: "St. John's ist eine der ältesten und am weitesten östlich gelegenen Städte Nordamerikas, bekannt für ihre bunt bemalten Häuser ('Jellybean Row') und den steilen Signal Hill. Die Stadt blickt auf eine reiche Fischereitradition zurück und ist heute ein wichtiger Stützpunkt für die Offshore-Ölindustrie.",
-      hu: "St. John's Észak-Amerika egyik legrégebbi és legkeletibb városa, amely híres színes házairól ('Jellybean Row') és a meredek Signal Hillről. A város gazdag halászati múlttal rendelkezik, ma pedig az offshore olajipar fontos bázisa. Földrajz K5 – óceánparti városok.",
+      hu: "St. John's Észak-Amerika egyik legrégebbi és legkeletibb városa, amely híres színes házairól ('Jellybean Row') és a meredek Signal Hillről. A város gazdag halászati múlttal rendelkezik, ma pedig az offshore olajipar fontos bázisa.",
       ro: "",
       en: ""
     },
@@ -254,7 +254,7 @@ export const canadaCities: POI[] = [
     description: { de: "Charlottetown ist die charmante Hauptstadt von Prince Edward Island und gilt als Geburtsort der kanadischen Konföderation. Sie besticht durch wunderschöne viktorianische Architektur und einen malerischen Hafen.", hu: "Charlottetown a Prince Edward-sziget bájos fővárosa, amelyet a kanadai konföderáció szülőhelyeként ismernek. Gyönyörű viktoriánus építészettel és festői kikötővel büszkélkedhet.", ro: "Charlottetown este capitala fermecătoare a Insulei Prince Edward și este cunoscută ca locul de naștere al Confederației Canadiene. Se remarcă prin arhitectura sa victoriană frumoasă și portul pitoresc.", en: "Charlottetown is the charming capital of Prince Edward Island and is known as the birthplace of Canadian Confederation. It features beautiful Victorian architecture and a scenic harbor." },
     descriptionAdvanced: {
       de: "Charlottetown ist die charmante Hauptstadt von Prince Edward Island und gilt als 'Geburtsort der Konföderation' Kanadas. Die Stadt besticht durch ihre gut erhaltene viktorianische Architektur, ihre Bedeutung als Kulturzentrum und ihre Nähe zu wunderschönen roten Sandstränden.",
-      hu: "Charlottetown a Prince Edward-sziget bájos fővárosa, amelyet Kanada 'konföderációjának bölcsőjeként' emlegetnek. A várost jól megőrzött viktoriánus építészete, kulturális jelentősége és a gyönyörű vörös homokos strandok közelsége teszi vonzóvá. Történelem K8 – Kanada születése.",
+      hu: "Charlottetown a Prince Edward-sziget bájos fővárosa, amelyet Kanada 'konföderációjának bölcsőjeként' emlegetnek. A várost jól megőrzött viktoriánus építészete, kulturális jelentősége és a gyönyörű vörös homokos strandok közelsége teszi vonzóvá.",
       ro: "",
       en: ""
     },
@@ -272,7 +272,7 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of New Brunswick", hu: "Capital of New Brunswick", ro: "Capital of New Brunswick", en: "Capital of New Brunswick" },
     descriptionAdvanced: {
       de: "Fredericton, am Ufer des majestätischen Saint John River gelegen, ist die grüne Hauptstadt von New Brunswick. Die Stadt ist bekannt für ihre historische Bedeutung als Zentrum der Loyalisten, ihre renommierte Universität und ihre lebendige Kunstszene.",
-      hu: "Fredericton a fenséges Saint John-folyó partján fekvő, zöldellő fővárosa New Brunswicknek. A város híres a hűségesek (loyalisták) központjaként betöltött történelmi szerepéről, neves egyeteméről és élénk művészeti életéről. Földrajz K5 – folyók.",
+      hu: "Fredericton a fenséges Saint John-folyó partján fekvő, zöldellő fővárosa New Brunswicknek. A város híres a hűségesek (loyalisták) központjaként betöltött történelmi szerepéről, neves egyeteméről és élénk művészeti életéről.",
       ro: "",
       en: ""
     },
@@ -290,7 +290,7 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Yukon", hu: "Capital of Yukon", ro: "Capital of Yukon", en: "Capital of Yukon" },
     descriptionAdvanced: {
       de: "Whitehorse ist die 'Wildnisstadt' im hohen Norden und die Hauptstadt des Yukon-Territoriums. Die Stadt liegt am Yukon River und war ein entscheidender Knotenpunkt während des Klondike-Goldrausches, heute dient sie als Zentrum für Outdoor-Abenteuer und Tourismus.",
-      hu: "Whitehorse a 'vadon városa' a távoli északon, Yukon terület fővárosa. A Yukon-folyó partján fekvő város meghatározó csomópont volt a klondike-i aranyláz idején, ma pedig a szabadtéri kalandok és a turizmus központja. Történelem K6 – aranyláz.",
+      hu: "Whitehorse a 'vadon városa' a távoli északon, Yukon terület fővárosa. A Yukon-folyó partján fekvő város meghatározó csomópont volt a klondike-i aranyláz idején, ma pedig a szabadtéri kalandok és a turizmus központja.",
       ro: "",
       en: ""
     },
@@ -308,7 +308,7 @@ export const canadaCities: POI[] = [
     description: { de: "Yellowknife ist die Hauptstadt der Nordwest-Territorien und liegt am Nordufer des Großen Sklavensees. Sie ist ein wichtiges Zentrum für den Diamantenabbau und einer der besten Orte, um Polarlichter zu sehen.", hu: "Yellowknife az Északnyugati területek fővárosa, amely a Nagy-Rabszolga-tó északi partján fekszik. A gyémántbányászat jelentős központja, és az egyik legjobb hely a sarki fény megfigyelésére.", ro: "Yellowknife este capitala Teritoriilor de Nord-Vest, situată pe malul nordic al Marelui Lac al Sclavilor. Este un centru major pentru extracția diamantelor și unul dintre cele mai bune locuri pentru a vedea aurora boreală.", en: "Yellowknife is the capital of the Northwest Territories, situated on the northern shore of Great Slave Lake. It is a major center for diamond mining and one of the best places to view the Northern Lights." },
     descriptionAdvanced: {
       de: "Yellowknife, am Ufer des Großen Sklavensees gelegen, ist die Diamantenhauptstadt Kanadas. Die Stadt hat sich von einer Bergbausiedlung zu einem modernen Verwaltungszentrum entwickelt und ist weltweit als einer der besten Orte zur Beobachtung von Polarlichtern bekannt.",
-      hu: "A Nagy-Rabszolga-tó partján fekvő Yellowknife Kanada gyémántfővárosa. A város bányásztelepülésből fejlődött modern közigazgatási központtá, és világszerte a sarki fény megfigyelésének egyik legjobb helyszíneként ismerik. Földrajz K8 – geológia.",
+      hu: "A Nagy-Rabszolga-tó partján fekvő Yellowknife Kanada gyémántfővárosa. A város bányásztelepülésből fejlődött modern közigazgatási központtá, és világszerte a sarki fény megfigyelésének egyik legjobb helyszíneként ismerik.",
       ro: "",
       en: ""
     },
@@ -326,7 +326,7 @@ export const canadaCities: POI[] = [
     description: { de: "Capital of Nunavut", hu: "Capital of Nunavut", ro: "Capital of Nunavut", en: "Capital of Nunavut" },
     descriptionAdvanced: {
       de: "Iqaluit ist die entlegene Hauptstadt von Nunavut auf der Baffininsel und das kulturelle Herz der Inuit in Kanada. Die Stadt am Frobisher Bay ist geprägt von arktischer Tundra, traditionellem Kunsthandwerk und einer modernen Infrastruktur in einer extremen Umgebung.",
-      hu: "Iqaluit Nunavut távoli fővárosa a Baffin-szigeten, a kanadai inuitok kulturális szíve. A Frobisher-öböl partján fekvő várost arktiszi tundra, hagyományos kézművesség és szélsőséges környezetben kiépült modern infrastruktúra jellemzi. Sachkunde K3 – inuitok kultúrája.",
+      hu: "Iqaluit Nunavut távoli fővárosa a Baffin-szigeten, a kanadai inuitok kulturális szíve. A Frobisher-öböl partján fekvő várost arktiszi tundra, hagyományos kézművesség és szélsőséges környezetben kiépült modern infrastruktúra jellemzi.",
       ro: "",
       en: ""
     },

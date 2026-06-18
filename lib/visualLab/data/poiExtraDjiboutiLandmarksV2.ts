@@ -14,7 +14,7 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       en: "People's Palace"
     ,
     descriptionAdvanced: {
-      ro: "Palatul Poporului (Palais du Peuple) din Djibouti este principala clădire guvernamentală și simbol al suveranității naționale. Construit într-un stil modern, impunător, acesta găzduiește Adunarea Națională și diverse evenimente oficiale ale statului. Designul său reflectă aspirațiile moderne ale țării post-independență și reprezintă centrul decizional politic al Djibouti. Edificiul este un reper arhitectural major în peisajul urban al capitalei. Educație civică K8 — structura și funcționarea instituțiilor statului."},
+      ro: "Palatul Poporului (Palais du Peuple) din Djibouti este principala clădire guvernamentală și simbol al suveranității naționale. Construit într-un stil modern, impunător, acesta găzduiește Adunarea Națională și diverse evenimente oficiale ale statului. Designul său reflectă aspirațiile moderne ale țării post-independență și reprezintă centrul decizional politic al Djibouti. Edificiul este un reper arhitectural major în peisajul urban al capitalei."},
     factsAdvanced: {
       ro: ["Centrul administrativ și politic al statului Djibouti.", "Găzduiește sesiunile parlamentare ale țării.", "Construcție modernă cu elemente de design guvernamental.", "Simbol al unității și suveranității naționale.", "Utilizat pentru evenimente oficiale la nivel înalt.", "Situat într-o zonă strategică a capitalei."] } },
     image: "/poi-images/palais-du-peuple-landmarks-v2.webp",

@@ -14,7 +14,7 @@ export const poiExtraGabonReliefV2: POI[] = [
       en: "Batéké Plateau"
     ,
     descriptionAdvanced: {
-      hu: "A Bateke-fennsík egy hatalmas homokkőplató Gabon délkeleti részén, amely több mint 2000 négyzetkilométeren terül el. A területet jellemző szavannás tájat mély, erodált völgyek szabdalják, amelyek látványos kontrasztot alkotnak a környező trópusi esőerdőkkel. Ez a geológiai képződmény különleges élőhely számos ritka faj számára, és fontos szerepet játszik az ország vízháztartásában. Földrajz K7 — hegységek és folyók."},
+      hu: "A Bateke-fennsík egy hatalmas homokkőplató Gabon délkeleti részén, amely több mint 2000 négyzetkilométeren terül el. A területet jellemző szavannás tájat mély, erodált völgyek szabdalják, amelyek látványos kontrasztot alkotnak a környező trópusi esőerdőkkel. Ez a geológiai képződmény különleges élőhely számos ritka faj számára, és fontos szerepet játszik az ország vízháztartásában."},
     factsAdvanced: {
       hu: ["A fennsík átlagos magassága 500-800 méter.", "Területének nagy részét száraz szavanna borítja.", "A talaj főként vörös homokkőből áll.", "Fontos vízválasztó az Ogooué-folyó medencéjében.", "A területen számos endemikus növényfaj él.", "A fennsík az ősi kereskedelmi útvonalak kereszteződése volt."] } },
     image: "/poi-images/bateke-plateau-relief-v2.webp",

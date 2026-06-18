@@ -2620,7 +2620,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       en: "A major commercial hub between the coast and the highlands of Ecuador."
     ,
     descriptionAdvanced: {
-      de: "Santo Domingo ist ein wichtiges Handelszentrum im Tiefland Ecuadors und dient als Knotenpunkt für die Verbindung zwischen den Anden und der Pazifikküste. Die Stadt ist bekannt für ihre landwirtschaftliche Bedeutung und ihre kulturelle Verbindung zum Volk der Tsáchila, das in der Region ansässig ist. Die Umgebung zeichnet sich durch üppige Vegetation und ein feuchtes Klima aus, das ideal für den Anbau tropischer Produkte ist. Geografie K7 – Landwirtschaftliche Regionen und Verkehrsknotenpunkte.",
+      de: "Santo Domingo ist ein wichtiges Handelszentrum im Tiefland Ecuadors und dient als Knotenpunkt für die Verbindung zwischen den Anden und der Pazifikküste. Die Stadt ist bekannt für ihre landwirtschaftliche Bedeutung und ihre kulturelle Verbindung zum Volk der Tsáchila, das in der Region ansässig ist. Die Umgebung zeichnet sich durch üppige Vegetation und ein feuchtes Klima aus, das ideal für den Anbau tropischer Produkte ist.",
       ro: "Santo Domingo este un centru comercial vital în zonele joase ale Ecuadorului, servind drept punct de legătură între Anzi și coasta Pacificului. Orașul este recunoscut pentru importanța sa agricolă și pentru legătura sa culturală cu poporul Tsáchila, stabilit în regiune. Împrejurimile se caracterizează prin vegetație luxuriantă și o climă umedă, ideală pentru cultivarea produselor tropicale. Pentru elevii de la cursurile Plizio (Geografie K7), Santo Domingo reprezintă un studiu de caz esențial pentru înțelegerea rolului nodurilor de transport și al regiunilor agricole în dezvoltarea urbană."
     },
     factsAdvanced: {
