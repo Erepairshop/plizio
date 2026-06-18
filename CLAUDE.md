@@ -1,5 +1,43 @@
 # CLAUDE.md - Projekt utasítások
 
+## ⚠️ Kritikus operatív szabályok (EZT olvasd elsőként)
+
+> Ezek a visszatérő, drágán-tanult szabályok. Ütközés esetén EZEK nyernek a
+> lentebbi (részben elavult) szakaszokkal szemben.
+
+**Build / deploy (NE magamtól):**
+- Build/deploy CSAK explicit user-kérésre ("build" / "deploy"). Kódváltozás után:
+  commit + push (ha kéri) → STOP. **SOHA ne indíts `gh workflow run`-t magamtól.**
+- Validáció = `NODE_OPTIONS="--max-old-space-size=4096" npx tsc --noEmit`.
+  **Validációhoz SOHA ne `npx next build`** (lassú, OOM-veszély). (A `npm run build`
+  egyébként sem megy; ha tényleg build kell, az `npx next build`.)
+- Deploy MINDIG **GH Actions workflow**-val (nem lokál WSL build, stabilabb):
+  - `deploy-vps` — FULL (~35-40 min); **csak ez regenerálja a `sitemap-N.xml` chunkokat** (app/sitemap.ts).
+  - `deploy-poi-full` — POI/térkép/hub/sitemap-index, NINCS games build (~10-12 min).
+  - `deploy-poi-delta` — célzott POI-subset, in-place (nincs térkép/atomic-swap).
+  - `deploy-app` — csak Next/games. `deploy-static-maps` — csak térképek rsync.
+- Delta deploy után automatikus: sitemap lastmod touch + IndexNow ping
+  (`_sitemap_touch_and_indexnow.py`).
+- A lenti **"SSH Pull + Deploy" + "Out mappa szinkron" szakasz LEGACY** (régi kézi mód) — ne ezt használd.
+
+**Shell:**
+- **TILOS `&&` / `;` / `|` chain a Bash toolban** (a user nincs a gépnél, nem tud promptra
+  válaszolni) → bontsd külön Bash-hívásokra.
+
+**Adat-biztonság:**
+- `.ts`/JSON adat-fájl módosítása ELŐTT `.before_<purpose>.bak` mentés.
+- Sérült fájlt **NE `git restore`** → előbb stash + inkrementális javítás (ne dobjuk el a munkát).
+- Sight/populáció = **render-idő sidecar merge**, forrás-TS mutáció TILOS.
+
+**Új poiExtra fájl (3 helyen + git add):**
+1. `generate-poi-html.mts` explicit import-lista, 2. `_all_poi_sources`, 3. **`git add` MIELŐTT push**
+   (különben untracked → GH build `MODULE_NOT_FOUND`).
+- Utána regen-lánc: `gen_poi_manifest` → `build-seo-index` → `build-poi-url-index` → `build-static-maps`.
+
+**Kommunikáció:** a usernek MINDIG magyarul. Publikus/külső szövegben **NINCS em/en dash** (`—`/`–`).
+
+---
+
 ## Repo struktúra
 
 - **Forráskód**: `app/`, `components/`, `lib/`, `data/`, `public/`
@@ -17,7 +55,10 @@
 - **RelatedGames komponens** — EL VAN TÁVOLÍTVA, NE ADD VISSZA
 - **Szöveg szín minimum:** fő szöveg `text-white/80`, másodlagos `text-white/60`, TILOS `text-white/20-40`
 
-## SSH Pull + Deploy parancs minden feladat végén
+## SSH Pull + Deploy parancs minden feladat végén  [LEGACY — ne ezt használd]
+
+> ⚠️ ELAVULT. A deploy ma GH Actions workflow-val megy (lásd a fenti kritikus blokkot).
+> Ez a szakasz csak történeti referencia / vész-fallback.
 
 A user a `~/public_html` mappában van SSH-n.
 
@@ -36,7 +77,9 @@ Szabályok:
 - MINDIG ezt a 2 parancsot küldd, semmi mást
 - Minden push után küldd el mindkét parancsot
 
-## Out mappa szinkron (public_html deploy)
+## Out mappa szinkron (public_html deploy)  [LEGACY]
+
+> ⚠️ ELAVULT (lásd fenti kritikus blokk: GH Actions deploy). Történeti referencia.
 
 Minden feladat végén:
 1. `npx next build` (`npm run build` nem működik)
