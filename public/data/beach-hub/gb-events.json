@@ -613,5 +613,1370 @@
     "image_url": ""
    }
   ]
+ },
+ "dail-mor": {
+  "beach": "Dail Mor",
+  "town": "Carloway (Càrlabhagh), Isle of Lewis",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Carloway Agricultural Show and Highland Games",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually, first Wednesday of August",
+    "date": "",
+    "blurb": "The longest-established agricultural show on the Isle of Lewis, running since 1911, held in the crofting township of Carloway just inland from Dail Mor beach. It features livestock judging (Lewis and Harris championships), Highland Games, a dog show, equestrian and piping competitions.",
+    "source_url": "https://www.welovestornoway.com/index.php/articles/34827-carloway-show-highland-games",
+    "image_url": ""
+   },
+   {
+    "name": "HebCelt (Hebridean Celtic Festival)",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-07-15 to 2026-07-18",
+    "date": "2026-07-15",
+    "blurb": "A long-running Celtic and folk music festival held in Stornoway on the Isle of Lewis since 1996, the island's biggest annual cultural event. The 2026 edition runs 15-18 July with headliners including The Saw Doctors, Manran and The Mary Wallopers.",
+    "source_url": "https://www.hebceltfest.com/festival",
+    "image_url": ""
+   }
+  ]
+ },
+ "eastern-beach": {
+  "beach": "Eastern Beach",
+  "town": "Gibraltar",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Gibraltar National Day",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually on 10 September",
+    "date": "2026-09-10",
+    "blurb": "Gibraltar's main national celebration commemorating the 1967 sovereignty referendum, centred on Casemates Square with a Freedom of the City ceremony, live music, family activities and an evening fireworks display.",
+    "source_url": "https://www.officeholidays.com/holidays/gibraltar/gibraltar-national-day",
+    "image_url": ""
+   },
+   {
+    "name": "Gibraltar Music Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late summer (August/September)",
+    "date": "",
+    "blurb": "Gibraltar's flagship open-air music festival held at the Alameda Botanical Gardens, drawing international headline acts each year.",
+    "source_url": "https://gibraltar.com/en/events/",
+    "image_url": ""
+   },
+   {
+    "name": "Gibraltar Spring Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually over three weeks between May and June",
+    "date": "",
+    "blurb": "A multi-week celebration marking the start of summer with dance shows, art exhibitions, theatrical performances and concerts, concluding with a food festival.",
+    "source_url": "https://www.visitgibraltar.gi/events",
+    "image_url": ""
+   }
+  ]
+ },
+ "elberry-cove": {
+  "beach": "Elberry Cove",
+  "town": "Brixham",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Brixham Pirate Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually early-May bank holiday weekend (2026: 2-4 May)",
+    "date": "2026-05-02",
+    "blurb": "A free pirate-themed festival centred on Brixham Harbour over the early May bank holiday weekend, with costumed crowds, live music, street entertainment and family activities. Brixham is the nearest town to Elberry Cove.",
+    "source_url": "https://www.brixhampiratesfestival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "English Riviera Airshow",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually late May (2026: 29-31 May)",
+    "date": "2026-05-29",
+    "blurb": "A free annual airshow over Torbay centred on Paignton Green, with aerial displays confirmed to include the Red Arrows, Typhoon and Battle of Britain Memorial Flight. 2026 marks the show's 10th anniversary.",
+    "source_url": "https://englishrivieraairshow.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Paddle UK SUPER Festival & SUP World Cup",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026: 24-28 June",
+    "date": "2026-06-24",
+    "blurb": "The English Riviera hosts the Paddle UK SUPER Festival together with a Stand-Up Paddleboard World Cup, bringing paddle sport competition and participation events to the Torbay coast.",
+    "source_url": "https://www.englishriviera.co.uk/whats-on",
+    "image_url": ""
+   },
+   {
+    "name": "Paignton Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late July / early August",
+    "date": "",
+    "blurb": "A nine-day free community festival in Paignton (formerly the Torbay Carnival) featuring family entertainment, the Riviera Classic Car Show and a funfair. Paignton, with its Broadsands beach, is the access point for Elberry Cove.",
+    "source_url": "https://www.visitdevon.co.uk/event/paignton-festival/186292301/",
+    "image_url": ""
+   }
+  ]
+ },
+ "ffrith-beach": {
+  "beach": "Ffrith Beach",
+  "town": "Prestatyn",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Prestatyn Carnival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually on the third Saturday in July (2026-07-18)",
+    "date": "2026-07-18",
+    "blurb": "One of the longest-established carnivals in North Wales, run by the Prestatyn Carnival Association. The day features a grand parade through the High Street followed by a carnival field on Bastion Road with arenas, a funfair, dog shows, live entertainment and craft and trade stalls.",
+    "source_url": "https://www.prestatyncarnival.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Prestatyn Winter Fest",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late November (Christmas lights switch-on)",
+    "date": "",
+    "blurb": "A two-day Christmas festival on Prestatyn High Street organised around the town's Christmas lights switch-on, featuring a Christmas market, food and drink stalls, live music, funfair rides and an ice rink. First held in 2023 and now an annual tradition.",
+    "source_url": "https://www.rhyljournal.co.uk/news/24579406.prestatyns-two-day-winter-fest-set-return-christmas/",
+    "image_url": ""
+   }
+  ]
+ },
+ "fistral-beach": {
+  "beach": "Fistral Beach",
+  "town": "Newquay, Cornwall",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Boardmasters Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-08-05 to 2026-08-09",
+    "date": "2026-08-05",
+    "blurb": "Cornwall's largest surf and music festival, with the surf competition, skate ramp and Surf Village staged at Fistral Beach while the music programme runs at nearby Watergate Bay. It draws up to 58,000 visitors each August.",
+    "source_url": "https://www.visitnewquay.org/whats-on/boardmasters",
+    "image_url": ""
+   },
+   {
+    "name": "Boardmasters Open (YETI Pro QS 4,000)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually early August (during Boardmasters)",
+    "date": "",
+    "blurb": "A World Surf League Qualifying Series surf contest held in the waves at Fistral Beach, upgraded for 2026 to a QS 4,000 with YETI as presenting sponsor, ranking among the top European qualifying events.",
+    "source_url": "https://www.worldsurfleague.com/posts/556147/boardmasters-open-2026-and-yeti-join-forces-for-upgraded-qualifying-series",
+    "image_url": ""
+   },
+   {
+    "name": "SLSGB National Surf Life Saving Championships",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually mid-September",
+    "date": "",
+    "blurb": "Surf Life Saving Great Britain holds its national surf championships at Fistral Beach, drawing 260-plus competitors racing surf skis, paddleboards and kayaks. Newquay Surf Life Saving Club is based within the Fistral surf complex.",
+    "source_url": "https://www.slsgb.org.uk/club/newquay-surf-life-saving-club/",
+    "image_url": ""
+   }
+  ]
+ },
+ "formby-beach": {
+  "beach": "Formby Beach",
+  "town": "Formby, Merseyside",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Formby Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually, third weekend of July (no event in 2026; return planned 16-18 July 2027)",
+    "date": "",
+    "blurb": "Formby's long-running community summer festival of food, drink, music and entertainment, traditionally held on the third weekend of July. It is not running in 2026 (cancelled due to rising costs), with organisers planning to revive it on 16-18 July 2027.",
+    "source_url": "https://www.formbyfestival.co.uk/",
+    "image_url": ""
+   }
+  ]
+ },
+ "freshwater-west": {
+  "beach": "Freshwater West",
+  "town": "Pembroke (Castlemartin parish), Pembrokeshire",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Welsh National Surfing Championships",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in spring (typically April/May)",
+    "date": "",
+    "blurb": "The Welsh Surfing Federation's flagship contest, frequently held at Freshwater West, crowns Welsh national champions across multiple age and gender categories on the beach's Atlantic swells.",
+    "source_url": "https://www.wsf.wales/the-welsh-national-surfing-championships",
+    "image_url": ""
+   },
+   {
+    "name": "Wilkinson Sword Inter-Club Surf Contest",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in spring (March/April)",
+    "date": "",
+    "blurb": "A long-running Welsh inter-club surfing competition staged at Freshwater West, contested between Pembrokeshire surf clubs for the prestigious Wilkinson Sword trophy.",
+    "source_url": "https://www.wsf.wales/news/wilkinson-sword-on-tomorrow-at-fresh-west",
+    "image_url": ""
+   },
+   {
+    "name": "Pembroke Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in May (early-to-mid May)",
+    "date": "",
+    "blurb": "A multi-day community arts festival in nearby Pembroke featuring live music, town-wide arts events, workshops, crafts and family activities.",
+    "source_url": "https://www.visitpembrokeshire.com/attractions-events/festivals-and-events",
+    "image_url": ""
+   }
+  ]
+ },
+ "goodrington-sands": {
+  "beach": "Goodrington Sands",
+  "town": "Paignton",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Paignton Festival (Torbay Carnival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-07-24 to 2026-08-02 (annually late July/early August)",
+    "date": "2026-07-24",
+    "blurb": "A long-running, mostly free community festival in Paignton featuring children's entertainment, sporting events, a funfair and the Spinning Wheel Carnival Procession (29 July 2026). It has run for over 100 years.",
+    "source_url": "https://paignton-festival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "English Riviera Airshow (Torbay Airshow)",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-05-29 to 2026-05-31 (annually late May)",
+    "date": "2026-05-29",
+    "blurb": "Free airshow with flying displays over Torbay from Paignton Green, including the RAF Red Arrows, RAF Typhoon and the Battle of Britain Memorial Flight.",
+    "source_url": "https://en.wikipedia.org/wiki/English_Riviera_Airshow",
+    "image_url": ""
+   },
+   {
+    "name": "English Riviera Walking Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-06-06 to 2026-06-21 (annually June)",
+    "date": "2026-06-06",
+    "blurb": "A two-week festival of guided walks across the English Riviera and South Devon, exploring local coast and countryside with knowledgeable guides.",
+    "source_url": "https://www.englishriviera.co.uk/whats-on/featured-events",
+    "image_url": ""
+   },
+   {
+    "name": "Geopark Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-05-27 to 2026-06-04 (annually late May/early June)",
+    "date": "2026-05-27",
+    "blurb": "A family-oriented UNESCO Global Geopark festival with creative and exploratory activities, centred in part on the Geoplay Park at Paignton seafront.",
+    "source_url": "https://www.englishriviera.co.uk/whats-on/featured-events",
+    "image_url": ""
+   }
+  ]
+ },
+ "gyllyngvase-beach": {
+  "beach": "Gyllyngvase Beach",
+  "town": "Falmouth, Cornwall",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Festival for the Ocean",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually early June (around World Oceans Day, 8 June)",
+    "date": "2026-06-07",
+    "blurb": "Free family festival held directly on Gyllyngvase Beach to celebrate the sea and marine conservation, featuring giant marine creatures, hands-on activities and environmental learning. Organised by Falmouth Town Council on the eve of World Oceans Day.",
+    "source_url": "https://www.falmouthtowncouncil.co.uk/events/festival-for-the-ocean",
+    "image_url": ""
+   },
+   {
+    "name": "Falmouth Week",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually early-mid August (7-16 August 2026)",
+    "date": "2026-08-07",
+    "blurb": "The largest sailing regatta in the south west of England, with more than 400 yachts racing in Falmouth Bay over eight days, plus shoreside entertainment, markets and the Pink Wig Mermaid March. Gyllyngvase Beach is one of the prime spots to watch the racing.",
+    "source_url": "https://falmouthweek.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Falmouth International Sea Shanty Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually mid-June (12-14 June 2026)",
+    "date": "2026-06-12",
+    "blurb": "A free three-day maritime music festival drawing tens of thousands of visitors and more than 70 shanty groups from around the world to venues across Falmouth town and harbour.",
+    "source_url": "https://www.falmouthseashanty.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Falmouth Oyster Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually October",
+    "date": "",
+    "blurb": "A four-day celebration marking the start of the native oyster dredging season, with cookery demonstrations, live entertainment and locally caught seafood, held in Falmouth's Events Square.",
+    "source_url": "https://www.falmouthoysterfestival.co.uk/",
+    "image_url": ""
+   }
+  ]
+ },
+ "hemmick-beach": {
+  "beach": "Hemmick Beach",
+  "town": "Gorran Haven (Mevagissey nearby), Cornwall",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Mevagissey Feast Week",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late June to early July (2026: 28 June - 4 July)",
+    "date": "2026-06-28",
+    "blurb": "Cornwall's longest-running festival (since 1754), celebrating St Peter, patron saint of fishermen, in the harbour village of Mevagissey near Hemmick Beach. The free week-long event features Fish Sunday with fresh fish on the quay, live music, flora dances, a raft race, fete, carnival and fireworks.",
+    "source_url": "https://www.mevagisseyfeastweek.org.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Mevagissey Shanty Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually mid-October (2026: 16-18 October, Gala Night 15 October)",
+    "date": "2026-10-16",
+    "blurb": "An annual weekend celebration of maritime sea shanty singing and local fishing heritage held across the harbour pubs and venues of Mevagissey, the nearest town to Hemmick Beach.",
+    "source_url": "https://mevashantyfest.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Gorran Haven Gig Regatta",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in summer",
+    "date": "",
+    "blurb": "A community pilot-gig rowing regatta centred on Gorran Haven beach, the nearest village to Hemmick Beach, alongside a harbour society gala day and street market.",
+    "source_url": "https://www.staustell.co.uk/discover/gorran-haven-gorran-churchtown/",
+    "image_url": ""
+   },
+   {
+    "name": "Gorran Haven New Year's Day Charity Swim",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually on 1 January",
+    "date": "",
+    "blurb": "The Gorran Haven rowing club organises a charity New Year's Day swim off the quay, following the village hall's New Year's Eve fireworks over the harbour.",
+    "source_url": "https://www.staustell.co.uk/discover/gorran-haven-gorran-churchtown/",
+    "image_url": ""
+   }
+  ]
+ },
+ "holkham-beach": {
+  "beach": "Holkham Beach",
+  "town": "Wells-next-the-Sea (Holkham village), Norfolk",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Wells Carnival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually early August (2026: 31 July - 9 August, Carnival Day 8 August)",
+    "date": "2026-08-08",
+    "blurb": "A traditional seaside carnival held in Wells-next-the-Sea for over 100 years, with a week of family events culminating in a Carnival Day procession of floats and fancy dress, plus sandcastle and town crier competitions and the crowning of the Carnival Royals.",
+    "source_url": "https://wellscarnival.co.uk/home/",
+    "image_url": ""
+   },
+   {
+    "name": "Outlaw Holkham Triathlon Weekend (Outlaw Half Holkham)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually early July (2026: 4-5 July)",
+    "date": "2026-07-05",
+    "blurb": "An endurance sport weekend in the grounds of the Holkham estate next to the beach, featuring the popular Outlaw Half middle-distance triathlon along with a 10km run and kids' races.",
+    "source_url": "https://www.holkham.co.uk/whats-on/outlaw/",
+    "image_url": ""
+   },
+   {
+    "name": "North Norfolk Food and Drink Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually early September (2026: 5-6 September)",
+    "date": "2026-09-05",
+    "blurb": "A free two-day celebration of regional produce held in the Walled Garden at Holkham Hall, with more than 60 local producers selling meats, vegetables, beers, chocolates and other North Norfolk fare.",
+    "source_url": "https://www.holkham.co.uk/whats-on/north-norfolk-food-and-drink-festival/",
+    "image_url": ""
+   }
+  ]
+ },
+ "horseshoe-bay": {
+  "beach": "Horseshoe Bay",
+  "town": "Ventnor, Isle of Wight",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Ventnor Fringe Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually mid-to-late July (2026: 17-26 July)",
+    "date": "",
+    "blurb": "The Isle of Wight's multi-award-winning arts festival, featuring over 130 shows of theatre, comedy, cabaret, circus and music staged in unusual venues around Ventnor's seafront and town.",
+    "source_url": "https://vfringe.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Ventnor Carnival Week (Grand Carnival & Fireworks)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually mid-August (2026: 8-15 August, Grand Carnival 15 August)",
+    "date": "2026-08-15",
+    "blurb": "A week of community carnival events along Ventnor's seafront culminating in the Grand Carnival procession and fireworks display. The week also includes a Children's Carnival and lantern parade.",
+    "source_url": "https://www.ventnorcarnival.org/",
+    "image_url": ""
+   },
+   {
+    "name": "Ventnor Pirate Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually mid-August during Carnival Week (2026: 12-15 August)",
+    "date": "",
+    "blurb": "A family-friendly four-day pirate-themed festival held along Ventnor seafront during Carnival Week, with live music, fancy dress and seaside entertainment.",
+    "source_url": "https://www.ventnortowncouncil.gov.uk/ventnor-pirate-fest/",
+    "image_url": ""
+   },
+   {
+    "name": "Ventnor Illuminated Carnival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in December (2026: 12 December)",
+    "date": "2026-12-12",
+    "blurb": "A winter illuminated evening carnival procession through Ventnor, a separate seasonal companion to the summer carnival week.",
+    "source_url": "https://www.ventnorcarnival.org/",
+    "image_url": ""
+   }
+  ]
+ },
+ "horsey-beach": {
+  "beach": "Horsey Beach",
+  "town": "Horsey (near Winterton-on-Sea), Norfolk",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Grey Seal Pupping Season at Horsey Beach",
+    "type": "seasonal",
+    "recurring": true,
+    "when": "annually late October to February (peak November-January)",
+    "date": "",
+    "blurb": "Each winter thousands of grey seals haul out onto Horsey Beach to give birth, with over 3,500 pups born between Horsey and Winterton in the 2025/2026 season. Volunteers from the Friends of Horsey Seals manage viewing from the dunes and designated platforms during the breeding season.",
+    "source_url": "https://www.friendsofhorseyseals.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Classic Car and Vintage Vehicle Show and Tell",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually early March (2026 date: 7 March)",
+    "date": "2026-03-07",
+    "blurb": "Poppylands Tea Room at Horsey hosts an annual Classic Car and Vintage Vehicle Show and Tell, displaying classic and vintage vehicles near the beach. It marks one of the seasonal events in the Horsey area.",
+    "source_url": "https://www.greatyarmouthmercury.co.uk/news/25867543.everything-need-know-visiting-horsey-beach/",
+    "image_url": ""
+   }
+  ]
+ },
+ "horton-beach": {
+  "beach": "Horton Beach",
+  "town": "Port Eynon (Gower Peninsula, Swansea)",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Gower Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late June to mid-July (2026: 29 June - 12 July)",
+    "date": "",
+    "blurb": "A long-running classical music festival held across the historic churches and intimate venues of the Gower Peninsula. The 2026 edition runs from 29 June to 12 July, marking the festival's 50th anniversary fortnight.",
+    "source_url": "https://www.gowerfestival.org/",
+    "image_url": ""
+   },
+   {
+    "name": "Gower Walking Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in September (2026: 5-13 September)",
+    "date": "",
+    "blurb": "An annual programme of guided walks celebrating the coast and countryside of the Gower Peninsula, including routes along the south Gower coast near Port Eynon and Horton. The 2026 festival runs from 5 to 13 September.",
+    "source_url": "https://gowerwalkingfestival.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Gower Folk Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually second weekend of June (2026: 12-14 June)",
+    "date": "2026-06-12",
+    "blurb": "A small, volunteer-run, dog-friendly folk music festival held at Weobley Castle Farm in a coastal setting on the Gower Peninsula, with on-site camping. The 2026 edition takes place 12-14 June.",
+    "source_url": "https://www.gowerfolkfestival.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Port Eynon & South Gower Coast History Walk (Glamorgan History Walks Festival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026: 17 May",
+    "date": "2026-05-17",
+    "blurb": "A guided 7-mile coastal history walk starting at Port Eynon, just along the bay from Horton Beach, run as part of the Glamorgan History Walks Festival. Scheduled for 17 May 2026 at 2:00pm.",
+    "source_url": "https://www.visitswanseabay.com/event/port-eynon-&-south-gower-coast-history-walk-(part-of-the-glamorgan-history-walks-festival-2026)/60733102/",
+    "image_url": ""
+   }
+  ]
+ },
+ "langland-bay": {
+  "beach": "Langland Bay",
+  "town": "Mumbles, Swansea (Gower Peninsula, Wales)",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Wilkinson Sword Welsh Inter-Clubs Surfing Championships",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in spring (March/April)",
+    "date": "",
+    "blurb": "The Welsh Surfing Federation's most coveted trophy, contested annually since 1980 by Welsh surf clubs. Langland Bay is the home break of Langland Board Riders (2026 winners) and has hosted the contest, which rotates to the previous winner's beach.",
+    "source_url": "https://www.wsf.wales/wilky",
+    "image_url": ""
+   },
+   {
+    "name": "Mumbles Triathlon (Mumbles Multi Sport Festival)",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-09-26",
+    "date": "2026-09-26",
+    "blurb": "An annual triathlon held in Mumbles near Langland Bay, with Olympic and Sprint distances featuring an enclosed sea swim off Mumbles Bay plus cycle and run legs around Swansea Bay. Part of the Mumbles Multi Sport Festival.",
+    "source_url": "https://www.runningcalendar.co.uk/event/mumbles-triathlon/",
+    "image_url": ""
+   },
+   {
+    "name": "Ironman 70.3 Swansea",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-07-12",
+    "date": "2026-07-12",
+    "blurb": "A half-distance Ironman triathlon held in Swansea Bay, with the swim staged in the bay close to the Gower beaches including Langland Bay.",
+    "source_url": "https://www.visitswanseabay.com/whats-on/",
+    "image_url": ""
+   }
+  ]
+ },
+ "marloes-sands": {
+  "beach": "Marloes Sands",
+  "town": "Marloes (Marloes and St Brides), Pembrokeshire",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Marloes and St Brides Summer Fete",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in early August (usually the first Thursday)",
+    "date": "",
+    "blurb": "A traditional summer fete held in the grounds of St Brides Castle near Marloes, raising funds for the Marloes and St. Brides churches. Features stalls of cakes, books and home produce, games such as skittles and a coconut shy, refreshments and live singing.",
+    "source_url": "https://www.nationplayer.com/radio-pembrokeshire/events/event/marloes-and-st-brides-summer-fete/",
+    "image_url": ""
+   }
+  ]
+ },
+ "marros-sands": {
+  "beach": "Marros Sands",
+  "town": "Pendine (Carmarthenshire)",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Pendine Sands Hot Rod Races (VHRA)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in September; 2026-09-12 to 2026-09-13",
+    "date": "2026-09-12",
+    "blurb": "The Vintage Hot Rod Association's annual beach races on Pendine Sands, the beach immediately adjoining Marros Sands. Pre-1949 hot rods and customs race a half-mile run-up over the firm sand; spectating is free and open to the public.",
+    "source_url": "https://www.vhra.co.uk/pendine-sands-hot-rod-races",
+    "image_url": ""
+   },
+   {
+    "name": "Pendine Sands Races (5k/10k/Half/Marathon/Ultra)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually; 2026 edition scheduled",
+    "date": "",
+    "blurb": "A series of running races held on the flat expanse of Pendine Sands, ranging from 5k up to a marathon and ultra distance, with the entire course run along the beach.",
+    "source_url": "https://www.ultrarunningltd.co.uk/race/the-pendine-races/",
+    "image_url": ""
+   },
+   {
+    "name": "Land Speed Record Centenary - Babs returns to Pendine Sands",
+    "type": "cultural",
+    "recurring": false,
+    "when": "2026-04-27",
+    "date": "2026-04-27",
+    "blurb": "The legendary land speed record car Babs returns to Pendine Sands to mark the centenary of J.G. Parry-Thomas's 1926 world land speed record, organised by the Babs Trust with Pendine Community Council and the National Motor Museum of Wales.",
+    "source_url": "https://newsroom.carmarthenshire.gov.wales/2026/3/babs-returns-to-pendine-sands-for-historic-centenary-celebration/",
+    "image_url": ""
+   },
+   {
+    "name": "Blue Bird Land Speed Record 100th Anniversary",
+    "type": "cultural",
+    "recurring": false,
+    "when": "2026-07-21",
+    "date": "2026-07-21",
+    "blurb": "Malcolm Campbell's Sunbeam 350hp Blue Bird returns to Pendine on the 100th anniversary of its 150mph land speed record, on display outside the Museum of Land Speed from 10am to 5pm with engineers planning a beach photoshoot.",
+    "source_url": "https://www.magnetomagazine.com/articles/blue-bird-to-return-to-pendine-sands-for-land-speed-record-centenary/",
+    "image_url": ""
+   }
+  ]
+ },
+ "oddicombe-beach": {
+  "beach": "Oddicombe Beach",
+  "town": "Torquay (Babbacombe), Devon",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "English Riviera Airshow",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-05-29 to 2026-05-31",
+    "date": "2026-05-29",
+    "blurb": "Free annual airshow over Torbay featuring aerial displays from classic and modern aircraft, viewable from Torquay and Paignton seafronts.",
+    "source_url": "https://englishrivieraairshow.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "ICF Stand Up Paddling (SUP) World Cup",
+    "type": "sport",
+    "recurring": false,
+    "when": "2026-06-24 to 2026-06-28",
+    "date": "2026-06-24",
+    "blurb": "The International Canoe Federation stages a major Stand Up Paddling World Cup on the English Riviera, the first event of this scale in the UK.",
+    "source_url": "https://www.englishriviera.co.uk/whats-on",
+    "image_url": ""
+   },
+   {
+    "name": "English Riviera Walking Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-06-06 to 2026-06-21",
+    "date": "2026-06-06",
+    "blurb": "Annual festival of guided walks across the coastline and woodland of the English Riviera, including the South West Coast Path past Babbacombe and Oddicombe.",
+    "source_url": "https://www.englishriviera.co.uk/whats-on",
+    "image_url": ""
+   },
+   {
+    "name": "International Agatha Christie Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-09-12 to 2026-09-20",
+    "date": "2026-09-12",
+    "blurb": "Annual festival celebrating Torquay-born author Agatha Christie, with talks, walks, films and performances across Torquay, Paignton and Brixham.",
+    "source_url": "https://www.iacf-uk.org/festival-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "English Riviera UNESCO Global Geopark Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-05-21 to 2026-05-29",
+    "date": "2026-05-21",
+    "blurb": "Annual festival of walks, workshops and exhibitions exploring the geology and natural heritage of the English Riviera Geopark.",
+    "source_url": "https://www.englishriviera.co.uk/whats-on/english-riviera-unesco-global-geopark-festival-p3117323",
+    "image_url": ""
+   }
+  ]
+ },
+ "paul-beach": {
+  "beach": "Paul Beach",
+  "town": "Paul (near Mousehole and Newlyn, Penzance, Cornwall)",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Tom Bawcock's Eve",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually on 23 December",
+    "date": "2026-12-23",
+    "blurb": "Annual festival in nearby Mousehole honouring legendary fisherman Tom Bawcock, who braved a storm to bring back a catch and save the village from famine. The famous Mousehole harbour Christmas lights shine, a lantern procession winds through the village, and stargazy pie is served at the Ship Inn.",
+    "source_url": "https://en.wikipedia.org/wiki/Tom_Bawcock's_Eve",
+    "image_url": ""
+   },
+   {
+    "name": "Mousehole Harbour Christmas Lights",
+    "type": "seasonal",
+    "recurring": true,
+    "when": "mid-December to early January",
+    "date": "",
+    "blurb": "Iconic illuminated displays strung around Mousehole harbour, a Cornish Christmas tradition begun in 1963. The lights are switched on in mid-December and run until around the first week of January.",
+    "source_url": "https://www.cornishrivieraholidays.co.uk/about-mousehole/events/",
+    "image_url": ""
+   },
+   {
+    "name": "Newlyn Fish Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "August Bank Holiday Monday (31 August 2026)",
+    "date": "2026-08-31",
+    "blurb": "A family-friendly celebration of Newlyn's fishing heritage on the harbourside, with market stalls, culinary demonstrations, live music and exhibitions. Held on the August Bank Holiday Monday.",
+    "source_url": "https://www.aspects-holidays.co.uk/blog/events/newlyn-fish-festival-cornwall",
+    "image_url": ""
+   },
+   {
+    "name": "Golowan Festival & Mazey Day",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in late June; 2026 festival 19-28 June, Mazey Day 27 June",
+    "date": "2026-06-27",
+    "blurb": "Penzance's midsummer arts and culture festival with parades, live music, street performers and makers' markets, culminating in the spectacular Mazey Day procession when the town centre becomes a street party.",
+    "source_url": "https://golowanfestival.org/",
+    "image_url": ""
+   }
+  ]
+ },
+ "pedn-vounder": {
+  "beach": "Pedn Vounder",
+  "town": "Porthcurno (nearest village; Treen also adjacent), West Cornwall",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Minack Theatre Performance Season",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually April to October (2026 season opens 3 April)",
+    "date": "2026-04-03",
+    "blurb": "The open-air Minack Theatre, carved into the cliffs directly above Porthcurno Bay beside Pedn Vounder, runs a full performance season each year featuring plays, musicals, opera and live music. The 2026 season opens on 3 April with 'Giants' and runs through October.",
+    "source_url": "https://minack.com/season-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Porthcurno Christmas Day Swim",
+    "type": "seasonal",
+    "recurring": true,
+    "when": "annually on 25 December",
+    "date": "",
+    "blurb": "Each Christmas morning locals and visitors gather at neighbouring Porthcurno beach for a festive dip in the Atlantic, often in fancy dress. Porthcurno is the cove adjoining Pedn Vounder, reachable on a low tide.",
+    "source_url": "",
+    "image_url": ""
+   }
+  ]
+ },
+ "readymoney-cove": {
+  "beach": "Readymoney Cove",
+  "town": "Fowey, Cornwall",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "The du Maurier Fowey Literary Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in May (2026: 1-9 May)",
+    "date": "2026-05-01",
+    "blurb": "Cornwall's longest-running literary festival, held in Fowey in honour of author Daphne du Maurier who lived nearby. It features authors, speakers, musicians and artists across venues in the town.",
+    "source_url": "https://www.foweyfestival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Fowey Royal Regatta and Carnival Week",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually the third week of August (2026: 16-22 August)",
+    "date": "2026-08-16",
+    "blurb": "One of Britain's best-loved sailing regattas, running since 1819, with yacht and pilot gig races, harbour swims, a carnival procession, live music and fireworks in Fowey harbour. Readymoney Cove sits at the harbour mouth where regatta water events take place.",
+    "source_url": "https://www.foweyregatta.co.uk/",
+    "image_url": ""
+   }
+  ]
+ },
+ "sandymouth-beach": {
+  "beach": "Sandymouth Beach",
+  "town": "Bude, Cornwall",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Bude Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-09-01 to 2026-09-04",
+    "date": "2026-09-01",
+    "blurb": "A long-running four-day jazz festival in Bude, the nearest town to Sandymouth Beach, featuring traditional and New Orleans jazz with dozens of performances, bands and an opening parade across the town.",
+    "source_url": "https://www.budejazzfestival.info/",
+    "image_url": ""
+   },
+   {
+    "name": "Bude Literary Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-05-13 to 2026-05-17",
+    "date": "2026-05-13",
+    "blurb": "An annual literary festival held in Bude with author talks, readings and workshops over several days in May.",
+    "source_url": "https://wegottickets.com/f/16063/",
+    "image_url": ""
+   },
+   {
+    "name": "St Piran's Day Walk",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually early March (around 5 March)",
+    "date": "",
+    "blurb": "An annual celebration of Cornwall's patron saint, with a community walk starting from Bude Surf Life Saving Club at Summerleaze Beach.",
+    "source_url": "https://www.visitbude.info/",
+    "image_url": ""
+   },
+   {
+    "name": "Bude Carnival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually (summer)",
+    "date": "",
+    "blurb": "A traditional Cornish town carnival held annually in Bude, featuring a procession and community festivities.",
+    "source_url": "https://www.visitbude.info/",
+    "image_url": ""
+   }
+  ]
+ },
+ "saunton-sands": {
+  "beach": "Saunton Sands",
+  "town": "Braunton",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Croyde Ocean Triathlon",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-07-12",
+    "date": "2026-07-12",
+    "blurb": "An ocean-swim triathlon held on the North Devon coast near Saunton Sands, with the swim leg at nearby Putsborough Sands followed by road bike and off-road coastal run stages. All profit goes to charity.",
+    "source_url": "https://croydeocean.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Edward Capern Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-06-04",
+    "date": "2026-06-04",
+    "blurb": "An annual festival in Heanton Punchardon near Braunton commemorating the local Victorian 'Postman Poet' Edward Capern, featuring poetry, art, displays and choral music inspired by his work. The 2026 edition runs 4-5 June with a £500 poetry award.",
+    "source_url": "https://www.cpredevon.org.uk/edward-capern-festival-4-5-june-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Devon Street Food Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in July at Braunton Recreation Grounds",
+    "date": "",
+    "blurb": "A street-food festival held at Braunton Recreation Grounds, the village nearest Saunton Sands, with food vendors, drink and live entertainment over a summer weekend.",
+    "source_url": "https://www.visitdevon.co.uk/northdevon/events-northdevon/devon-street-food-festival/354544301/",
+    "image_url": ""
+   }
+  ]
+ },
+ "sinky-bay": {
+  "beach": "Sinky Bay",
+  "town": "Southampton Parish (near Hamilton), Bermuda",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Bermuda Day Parade",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-05-22 (annually in May)",
+    "date": "2026-05-22",
+    "blurb": "Bermuda's signature national holiday and the unofficial start of summer, marked by a colourful parade along Front Street in Hamilton with majorettes, Gombey dancers, floats and the traditional Bermuda Day half-marathon. The 2026 parade starts at 12:30 PM.",
+    "source_url": "https://culture.bm/events/bermuda-day/bermuda-day-parade-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Cup Match Cricket Classic",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-07-30 to 2026-07-31 (annually, end of July/early August)",
+    "date": "2026-07-30",
+    "blurb": "A two-day public-holiday cricket classic coinciding with Emancipation Day and Mary Prince Day, with the venue alternating between the Somerset and St George's clubs; the 2026 match is hosted by Somerset Cricket Club. It is one of Bermuda's biggest annual cultural and sporting events.",
+    "source_url": "https://www.gotobermuda.com/our-island/festivals-holidays/cupmatch",
+    "image_url": ""
+   },
+   {
+    "name": "Bermuda Carnival (Carnival in Bermuda)",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-06-10 to 2026-06-15 (annually around National Heroes Weekend in June)",
+    "date": "2026-06-10",
+    "blurb": "A six-day Caribbean-style carnival of fetes, soca music, J'ouvert and the costumed Revel de Road street parade, culminating on National Heroes Day. It is one of the island's largest annual celebrations.",
+    "source_url": "https://www.gotobermuda.com/our-island/festivals-holidays/carnival",
+    "image_url": ""
+   },
+   {
+    "name": "Chubb Bermuda Triangle Challenge",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-01-16 to 2026-01-18 (annually in mid-January)",
+    "date": "2026-01-16",
+    "blurb": "An annual three-day running festival based out of Hamilton featuring the Butterfield Mile, a 10K, and the PwC Bermuda Marathon and Half Marathon, with a combined Full Triangle Challenge over the weekend.",
+    "source_url": "https://www.bermudatrianglechallenge.com/event-races/full-triangle-challenge/",
+    "image_url": ""
+   }
+  ]
+ },
+ "st-mary-s-bay": {
+  "beach": "St Mary S Bay",
+  "town": "St Mary's Bay (Romney Marsh), Kent — nearest towns Dymchurch and New Romney",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Day of Syn Festival, Dymchurch",
+    "type": "festival",
+    "recurring": true,
+    "when": "biennially over the August Bank Holiday weekend (next: 28-31 August 2026)",
+    "date": "2026-08-28",
+    "blurb": "A free community festival in neighbouring Dymchurch celebrating the fictional smuggling vicar Dr Syn (the Scarecrow), with costumed parades, mummers, morris dancers, a sea-wall lantern parade and fireworks. It is one of the largest free events in Kent.",
+    "source_url": "https://www.webofsyn.net/",
+    "image_url": ""
+   },
+   {
+    "name": "New Romney Country Fayre",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in late July (2026: Saturday 25 July)",
+    "date": "2026-07-25",
+    "blurb": "Billed as the largest free community event on Romney Marsh, held in nearby New Romney with a carnival parade, two entertainment arenas, over 100 stalls of local produce and family activities.",
+    "source_url": "https://www.newromneycountryfayre.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "JAM on the Marsh",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in July (2026: 8-12 July)",
+    "date": "2026-07-08",
+    "blurb": "An annual arts and music festival across Romney Marsh, with concerts and performances at venues including St Nicholas' Church in nearby New Romney and other historic Marsh churches. The 2026 programme focuses on the music of France and the influence of jazz on classical music.",
+    "source_url": "https://www.romneymarshchurches.org.uk/news-and-events/jam-on-the-marsh-2026",
+    "image_url": ""
+   }
+  ]
+ },
+ "the-baths": {
+  "beach": "The Baths",
+  "town": "Spanish Town (The Valley), Virgin Gorda, British Virgin Islands",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Virgin Gorda Easter Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually over Easter weekend (Sat-Mon); in 2026 April 4-6",
+    "date": "2026-04-04",
+    "blurb": "Virgin Gorda's main cultural celebration, held in Spanish Town over the Easter weekend with a food fair, Festival Village live performances, calypso, fungi music and the highlight Easter Monday street parade.",
+    "source_url": "https://www.facebook.com/VirginGordaEasterFestival/",
+    "image_url": ""
+   },
+   {
+    "name": "BVI Emancipation Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually late July to early August; in 2026 July 25 - August 8",
+    "date": "2026-08-03",
+    "blurb": "The British Virgin Islands' nationwide two-week celebration of emancipation from slavery (since 1954), with parades, food fairs, fungi music, pageants and street jams; Emancipation Monday is the centerpiece. Celebrated across the territory including Virgin Gorda.",
+    "source_url": "https://www.bvitourism.com/public-holidays",
+    "image_url": ""
+   },
+   {
+    "name": "Taste of Virgin Gorda",
+    "type": "food",
+    "recurring": true,
+    "when": "annually (part of BVI Food Fete); in 2026 February 28",
+    "date": "2026-02-28",
+    "blurb": "A signature culinary celebration held at the Virgin Gorda Yacht Harbour in Spanish Town, where local chefs and restaurants serve small-plate dishes; part of the BVI Food Fete series.",
+    "source_url": "https://bvifoodfete.com/taste-of-virgin-gorda/",
+    "image_url": ""
+   },
+   {
+    "name": "BVI Spring Regatta & Sailing Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in spring; in 2026 March 23-29",
+    "date": "2026-03-23",
+    "blurb": "A major Caribbean sailing regatta based at Nanny Cay, Tortola, whose race courses tour the British Virgin Islands including the waters around Virgin Gorda. A bucket-list event drawing international crews each spring.",
+    "source_url": "https://bvispringregatta.org/schedule-of-events/",
+    "image_url": ""
+   }
+  ]
+ },
+ "thurstaston-beach": {
+  "beach": "Thurstaston Beach",
+  "town": "West Kirby (Thurstaston, Wirral)",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Wirral Wader Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually mid-November",
+    "date": "",
+    "blurb": "A community wildlife festival based at the Wirral Country Park visitor centre at Thurstaston, with stalls, children's activities, high-tide wader watches and guided coastal walks. It was the first event of its kind in the UK, launched in 2015 with Wader Quest.",
+    "source_url": "https://www.cheshirewildlifetrust.org.uk/news/wirrals-wonderful-waders",
+    "image_url": ""
+   },
+   {
+    "name": "Wirral Earth Festival (Earthfest)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually (returns 2026)",
+    "date": "",
+    "blurb": "An annual people-and-planet-friendly festival held on St Bridget's school field in nearby West Kirby, featuring local musicians, food and drink, arts and crafts, and information on sustainable living. Organised by Transition Town West Kirby.",
+    "source_url": "https://transitiontownwestkirby.org.uk/earthfest/",
+    "image_url": ""
+   },
+   {
+    "name": "Wirral Walking Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in May",
+    "date": "",
+    "blurb": "A month-long celebration of the Wirral peninsula's footpaths and coastal scenery, with guided walks across the area including the coast near Thurstaston and the Wirral Way.",
+    "source_url": "https://www.visitwirral.com/whats-on/",
+    "image_url": ""
+   }
+  ]
+ },
+ "traeth-bychan": {
+  "beach": "Traeth Bychan",
+  "town": "Moelfre / Marian-Glas, Anglesey (between Benllech and Moelfre)",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Anglesey Offshore Dinghy & Catamaran Race (AODR)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "A long-distance dinghy and catamaran race hosted by Red Wharf Bay Sailing & Watersports Club, which is based at Traeth Bychan beach. The course runs between Beaumaris and Traeth Bychan via the Menai Strait and Puffin Island, with the start/finish at Traeth Bychan.",
+    "source_url": "https://www.redwharfbaysc.co.uk/anglesey-offshore-dinghy-catamaran-race",
+    "image_url": ""
+   },
+   {
+    "name": "Moelfre Lifeboat Day",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "A major annual RNLI fundraising day in the nearby village of Moelfre, featuring a lifeboat launch and display, rescue helicopter demonstrations, stalls, food, music and family entertainment around Beach Road and the Seawatch Centre.",
+    "source_url": "http://www.moelfre.org/moelfre_lifeboat_day.htm",
+    "image_url": ""
+   },
+   {
+    "name": "Anglesey Oyster & Welsh Produce Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in October",
+    "date": "",
+    "blurb": "An annual food festival celebrating Anglesey oysters and Welsh produce, held on the Isle of Anglesey where Traeth Bychan is located.",
+    "source_url": "https://en.wikipedia.org/wiki/Anglesey_Oyster_%26_Welsh_Produce_Festival",
+    "image_url": ""
+   }
+  ]
+ },
+ "traigh-mhor": {
+  "beach": "Traigh Mhor",
+  "town": "Castlebay, Isle of Barra",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Fèis Bharraigh",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually, second week of July",
+    "date": "",
+    "blurb": "An annual Gaelic arts and culture festival held on the Isle of Barra and Vatersay since 1981, offering tuition in traditional Scottish music, instruments, drama and Gaelic language alongside community events.",
+    "source_url": "https://en.wikipedia.org/wiki/F%C3%A8is_Bharraigh",
+    "image_url": ""
+   },
+   {
+    "name": "Barralive Music Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-07-31",
+    "date": "2026-07-31",
+    "blurb": "An island music festival on the Isle of Barra featuring live music and local talent, bringing together the community for a summer celebration.",
+    "source_url": "https://www.visitouterhebrides.co.uk/whats-on",
+    "image_url": ""
+   },
+   {
+    "name": "Barra Produce Show",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "A long-running annual agricultural and produce show on the Isle of Barra, celebrating local horticulture, baking and crafts, including the island's well-known potato competition.",
+    "source_url": "http://www.isleofbarra.com/barraproduceshow.htm",
+    "image_url": ""
+   }
+  ]
+ },
+ "treen-cove": {
+  "beach": "Treen Cove",
+  "town": "Zennor (parish), near St Ives, Cornwall",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Zennor Feast",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually, Sunday closest to 10 May, plus following feast week",
+    "date": "",
+    "blurb": "Zennor's traditional parish feast honouring St Senara, held on the Sunday nearest 10 May and followed by a community 'feast week' with a Monday concert of local talent, a rounders match between East and West, clay pigeon shoot, barn dances and quiz nights. Treen and Treen Cove lie within Zennor parish.",
+    "source_url": "https://www.zennor-pc.gov.uk/zennor-feast/",
+    "image_url": ""
+   },
+   {
+    "name": "St Ives Food & Drink Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "2026-05-15 to 2026-05-17",
+    "date": "2026-05-15",
+    "blurb": "A free three-day beach food festival on the sands of Porthminster Beach in St Ives, the nearest town to Treen Cove, featuring top chef demonstrations, live music and artisan food and drink. In 2026 it runs 15-17 May.",
+    "source_url": "https://stivesfoodanddrinkfestival.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "St Ives September Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-09-12 to 2026-09-26",
+    "date": "2026-09-12",
+    "blurb": "A two-week arts and music festival in St Ives, the nearest town to Treen Cove, blending live music, art, poetry, talks, theatre and film across venues including St Ives Theatre and the Guildhall, with free street entertainment. In 2026 it runs 12-26 September.",
+    "source_url": "https://www.stivesseptemberfestival.co.uk/",
+    "image_url": ""
+   }
+  ]
+ },
+ "vault-beach": {
+  "beach": "Vault Beach",
+  "town": "Gorran Haven (near Mevagissey), Cornwall",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Mevagissey Feast Week",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late June / early July (2026: 28 June – 4 July)",
+    "date": "2026-06-28",
+    "blurb": "Cornwall's longest-running festival (since 1754), held in the nearby fishing village of Mevagissey to honour St Peter, patron saint of fishermen. The free week-long event features Fish Sunday on the harbour quay, live music, parades, raft races, flora dances and a fireworks display.",
+    "source_url": "https://www.mevagisseyfeastweek.org.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Gorran Haven Regatta",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in summer",
+    "date": "",
+    "blurb": "A community seaside regatta in Gorran Haven, the village closest to Vault Beach, featuring pilot gig rowing races, boat events, music and family activities around the harbour and beach.",
+    "source_url": "https://www.staustell.co.uk/discover/gorran-haven-gorran-churchtown/",
+    "image_url": ""
+   },
+   {
+    "name": "Gorran Haven New Year's Day Charity Swim",
+    "type": "seasonal",
+    "recurring": true,
+    "when": "annually on 1 January",
+    "date": "",
+    "blurb": "A New Year's Day charity sea swim organised by the village rowing club at Gorran Haven, following New Year's Eve fireworks off the quay.",
+    "source_url": "https://www.gorran-haven.uk/events",
+    "image_url": ""
+   }
+  ]
+ },
+ "wallog": {
+  "beach": "Wallog",
+  "town": "Aberystwyth",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Borth Carnival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually, first Friday of August",
+    "date": "",
+    "blurb": "An annual seaside village carnival held on the first Friday in August on the Uppingham Playing Fields in Borth, the nearest coastal village to Wallog, featuring a parade, activities and refreshments.",
+    "source_url": "https://www.visitmidwales.co.uk/destination/ceredigion-coast/borth",
+    "image_url": ""
+   },
+   {
+    "name": "Borth Scarecrow Festival (Borthfest / Gwylborth)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually, late May bank holiday weekend",
+    "date": "",
+    "blurb": "Organised by Borth Arts, this community festival sees scarecrows displayed across the village of Borth over the spring bank holiday weekend, alongside the wider Borthfest celebration of music and arts.",
+    "source_url": "https://www.cambrian-news.co.uk/news/borth-prepares-for-annual-scarecrow-festival-791747",
+    "image_url": ""
+   },
+   {
+    "name": "Musicfest Aberystwyth",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-07-18 to 2026-07-25",
+    "date": "2026-07-18",
+    "blurb": "Aberystwyth's annual eight-day international music festival, running since 1987, combining world-class concerts, a summer music school and free activities. The 2026 edition takes place 18-25 July.",
+    "source_url": "https://musicfestaberystwyth.org/",
+    "image_url": ""
+   },
+   {
+    "name": "Aberystwyth and Ceredigion County Show",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually, second Saturday of June (2026-06-13)",
+    "date": "2026-06-13",
+    "blurb": "One of the largest one-day agricultural shows in mid-Wales, held on the second Saturday of June near Aberystwyth, with livestock, crafts and food. The 2026 show is on 13 June.",
+    "source_url": "https://showingscene.com/events/aberystwyth-and-ceredigion-county-show-jun-2026",
+    "image_url": ""
+   }
+  ]
+ },
+ "weymouth-beach": {
+  "beach": "Weymouth Beach",
+  "town": "Weymouth, Dorset",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Weymouth Beach Summer Fireworks",
+    "type": "seasonal",
+    "recurring": true,
+    "when": "Monday evenings in August (3, 10, 17, 24, 31 Aug 2026)",
+    "date": "",
+    "blurb": "A series of summer firework displays launched from a boat in Weymouth Bay opposite the town's sandy beach, held on Monday evenings throughout August at around 9:30pm.",
+    "source_url": "https://www.love-weymouth.co.uk/events/weymouth/family-fun/weymouth-beach-fireworks-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "SandWorld Sand Sculpture Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually, seasonal (spring to autumn)",
+    "date": "",
+    "blurb": "The UK's dedicated sand sculpture festival, set at Lodmoor Park minutes from Weymouth Beach, where international artists create large-scale sculptures from sand and water on a new theme each year. Weymouth has a sand-sculpting heritage dating back over a century.",
+    "source_url": "https://www.sandworld.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Dorset Seafood Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually early July (4-5 July 2026)",
+    "date": "2026-07-04",
+    "blurb": "Held on Weymouth Harbour beside the beach, this is one of the UK's largest seafood festivals, featuring local seafood, food stalls and live performances on the waterfront.",
+    "source_url": "https://www.dorsetseafood.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Wessex Folk Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late May (29-31 May 2026)",
+    "date": "2026-05-29",
+    "blurb": "One of Britain's largest free folk festivals, held harbour-side in Weymouth with stages, ceilidhs and crafts close to the seafront.",
+    "source_url": "https://www.visit-dorset.com/explore/areas-to-visit/weymouth/events/",
+    "image_url": ""
+   }
+  ]
+ },
+ "whiteford-sands": {
+  "beach": "Whiteford Sands",
+  "town": "Llanmadoc, Gower Peninsula (Swansea), Wales",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Love Trails Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-07-02 to 2026-07-06",
+    "date": "2026-07-02",
+    "blurb": "An outdoor festival combining trail running, hiking, adventure activities (surfing, coasteering, kayaking) and live music on the north Gower coast. Running routes wind through the villages of Llangennith and Llanmadoc, the gateway village to Whiteford Sands.",
+    "source_url": "https://www.lovetrailsfestival.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Gower Folk Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-06-12 to 2026-06-14",
+    "date": "2026-06-12",
+    "blurb": "A small, volunteer-run folk music festival held at Weobley Castle Farm on the tidal salt marshes of north Gower, with concerts, workshops, a European dance evening and family craft activities. It takes place on the second weekend of June.",
+    "source_url": "https://www.gowerfolkfestival.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "The Gower Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-06-29 to 2026-07-12",
+    "date": "2026-06-29",
+    "blurb": "A fortnight of classical and chamber music featuring internationally acclaimed musicians performing in the historic churches and intimate venues across the Gower Peninsula, including St Cenydd's Church in nearby Llangennith.",
+    "source_url": "https://www.gowerfestival.org/",
+    "image_url": ""
+   }
+  ]
+ },
+ "whitesands-bay": {
+  "beach": "Whitesands Bay",
+  "town": "St Davids, Pembrokeshire",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Ras Dewi Sant (St Davids Marathon, Half Marathon & 10K)",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-02-28",
+    "date": "2026-02-28",
+    "blurb": "A flagship running event based in St Davids with marathon, half marathon and 10K distances, starting at the Bishop's Palace and following country roads and the Pembrokeshire Coast Path near Whitesands Bay.",
+    "source_url": "https://www.muuk-adventures.com/activities/ras-dewi-sant-half-marathon/",
+    "image_url": ""
+   },
+   {
+    "name": "St David's Day Parade (Dragon Parade)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually around 1 March (St David's Day)",
+    "date": "2026-03-01",
+    "blurb": "An annual parade in St Davids marking the patron saint's day, filling the city's main street with schoolchildren, community groups, music and creativity. A pilgrimage walk to the cathedral also takes place.",
+    "source_url": "https://www.visitpembrokeshire.com/whats-on-listing/dragon-parade-70fe",
+    "image_url": ""
+   },
+   {
+    "name": "St Davids Cathedral Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "22-31 May 2026",
+    "date": "2026-05-22",
+    "blurb": "A classical and choral music festival held in St Davids Cathedral, bringing renowned performers and emerging artists together for around ten days of concerts in the cathedral's acclaimed acoustic setting.",
+    "source_url": "https://www.stdavidscathedral.org.uk/music-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Surfing at Whitesands Bay (Porthmawr)",
+    "type": "sport",
+    "recurring": true,
+    "when": "year-round, best surf in winter (often February)",
+    "date": "",
+    "blurb": "Whitesands Bay is regarded as one of the best surfing beaches in Pembrokeshire, with surf schools and lessons running through the season and consistent clean waves most reliable in winter.",
+    "source_url": "https://galwadymorstdavids.co.uk/surfing-at-whitesands-porthmawr/",
+    "image_url": ""
+   }
+  ]
  }
 }

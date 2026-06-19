@@ -55,5 +55,69 @@
     "image_url": ""
    }
   ]
+ },
+ "ahrenshoop-strand": {
+  "beach": "Ahrenshoop Strand",
+  "town": "Ahrenshoop",
+  "country": "Germany",
+  "events": [
+   {
+    "name": "Jazzfest Ahrenshoop",
+    "type": "music",
+    "recurring": true,
+    "when": "annually mid-June (2026: June 18-21)",
+    "date": "2026-06-18",
+    "blurb": "Annual jazz festival staged across roughly 17 venues throughout the artists' village of Ahrenshoop, presenting swing, Latin jazz, funk, brass, blues, boogie woogie and more. The 2026 edition (June 18-21) marks 25 years of the festival.",
+    "source_url": "https://ostseebad-ahrenshoop.de/veranstaltungen/jazzfest",
+    "image_url": ""
+   },
+   {
+    "name": "Kunstnacht Ahrenshoop (Art Night)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on the third Saturday in August (2026: August 15)",
+    "date": "2026-08-15",
+    "blurb": "On the third Saturday in August, galleries, ceramic workshops and cultural venues across the artists' village open their doors for a night of exhibitions, concerts, readings and performances, with special light installations guiding visitors from house to house.",
+    "source_url": "https://ostseebad-ahrenshoop.de/veranstaltungen/lange-nacht-der-kunst",
+    "image_url": ""
+   },
+   {
+    "name": "Ahrenshooper Filmnächte (Film Nights)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in November (2026: November 11-14)",
+    "date": "2026-11-11",
+    "blurb": "Annual German film festival hosted in Ahrenshoop, with a competition program of German feature films (some screened before their official cinema release) and jury and audience prizes. The 2026 edition runs November 11-14.",
+    "source_url": "https://ostseebad-ahrenshoop.de/veranstaltungen/filmnaechte-ahrenshoop-2025",
+    "image_url": ""
+   }
+  ]
+ },
+ "beach-in-monkebude": {
+  "beach": "Beach In Monkebude",
+  "town": "Mönkebude",
+  "country": "Germany",
+  "events": [
+   {
+    "name": "Strand- und Hafenfest Mönkebude",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually first weekend of July",
+    "date": "",
+    "blurb": "Traditional beach and harbour festival held on Mönkebude's beach at the Stettiner Haff since 1978, featuring the ceremonial arrival of the festival ship 'Greif von Ueckermünde', a family programme, food and drink stalls, and a fireworks display over the beach. It is a three-day event for the whole family.",
+    "source_url": "https://www.moenkebude.de/erleben/veranstaltungskalender/",
+    "image_url": ""
+   },
+   {
+    "name": "Mönkebuder Deichlauf",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually on the Saturday of the Strand- und Hafenfest (early July)",
+    "date": "",
+    "blurb": "Annual running event held during the Strand- und Hafenfest along the dike at the Stettiner Haff in Mönkebude, with routes of 2, 6 and 12 kilometres. The race typically starts on Saturday morning.",
+    "source_url": "https://www.runme.de/deutschland/moenkebuder-deichlauf/",
+    "image_url": ""
+   }
+  ]
  }
 }

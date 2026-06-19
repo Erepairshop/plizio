@@ -386,5 +386,436 @@
     "image_url": ""
    }
   ]
+ },
+ "aabenraa-strand": {
+  "beach": "Aabenraa Strand",
+  "town": "Aabenraa",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Ringriderfesten Aabenraa (Aabenraa Ring-Riding Festival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually first weekend of July; 2026: July 3-6",
+    "date": "2026-07-03",
+    "blurb": "Aabenraa's largest annual city festival, a traditional Southern Jutland ring-riding (tilting-at-the-ring) event combined with a fairground, market and live music. 2026 marks its 130th anniversary.",
+    "source_url": "https://ringrider.dk/",
+    "image_url": ""
+   },
+   {
+    "name": "Aabenraa Streetfood Festival (Spring)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late April / early May; 2026: April 29 - May 2",
+    "date": "2026-04-29",
+    "blurb": "A four-day street food festival held in Nørreportparken in central Aabenraa, featuring food from around the world plus music and entertainment with free admission.",
+    "source_url": "https://www.visitsonderjylland.dk/turist/information/aabenraa-streetfood-festival-gdk1141038",
+    "image_url": ""
+   },
+   {
+    "name": "Aabenraa Streetfood Festival (Autumn)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually early September; 2026: September 2-5",
+    "date": "2026-09-02",
+    "blurb": "The autumn edition of the Aabenraa street food festival in Nørreportparken, with international food stalls, concerts and entertainment over four days, free entry.",
+    "source_url": "https://www.visitsonderjylland.dk/turist/information/aabenraa-streetfood-festival-gdk1141038",
+    "image_url": ""
+   }
+  ]
+ },
+ "albuen": {
+  "beach": "Albuen",
+  "town": "Nakskov",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Nakskov Vinfestival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually early August (2026: 7-8 August)",
+    "date": "2026-08-07",
+    "blurb": "Annual wine festival on Axeltorv square in central Nakskov featuring wine tasting, food and live music from Lolland and around the world.",
+    "source_url": "http://nakskov-vinfestival.dk/",
+    "image_url": ""
+   },
+   {
+    "name": "Nakskovlobet",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually spring (2026: 3 May)",
+    "date": "2026-05-03",
+    "blurb": "Annual running event organised by Vestlolland Triatlonklub in Nakskov, with 5 km, 10.5 km and half-marathon distances plus children's races.",
+    "source_url": "https://www.vestlolland-triatlonklub.dk/klub/vestlolland-triatlonklub/sider/nakskovlobet",
+    "image_url": ""
+   },
+   {
+    "name": "Lolland Operafestival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually (summer)",
+    "date": "",
+    "blurb": "Opera festival held across Lolland since 2021, offering close-up opera concerts, some of them free of charge.",
+    "source_url": "https://www.lollandoperafestival.dk/",
+    "image_url": ""
+   }
+  ]
+ },
+ "ballehage": {
+  "beach": "Ballehage",
+  "town": "Aarhus (Højbjerg)",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "The Infinite Bridge (Den Uendelige Bro)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually April to October",
+    "date": "",
+    "blurb": "A circular wooden walkway sculpture installed in the surf right at Ballehage Beach, originally created for Sculpture by the Sea in 2015 and now set up each year from April through October. It draws large numbers of visitors who walk out over Aarhus Bay.",
+    "source_url": "https://www.visitdenmark.com/denmark/plan-your-trip/the-infinite-bridge-gdk1092521",
+    "image_url": ""
+   },
+   {
+    "name": "New Year's Bathing at Vinterbadeklubben Ballehage",
+    "type": "seasonal",
+    "recurring": true,
+    "when": "annually around 1 January",
+    "date": "",
+    "blurb": "Vinterbadeklubben Ballehage, one of Denmark's oldest winter bathing clubs, holds a fixed New Year's swim (Nytaarsbadning) at Ballehage Beach as part of its seasonal traditions. The club is located meters from the bay at the foot of Marselisborg Forest.",
+    "source_url": "http://vinterbadeklubben-ballehage.dk/",
+    "image_url": ""
+   }
+  ]
+ },
+ "blokhus-beach": {
+  "beach": "Blokhus Beach",
+  "town": "Blokhus",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Blokhus Wind Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually at Whitsun (2026: May 23-24)",
+    "date": "2026-05-23",
+    "blurb": "An international kite and wind festival held on the beach (Blokhus Strand) every year at Whitsun, drawing kite enthusiasts from across Europe and the USA for free flying, large kite shows and family activities along the Blokhus-Loekken coast.",
+    "source_url": "https://www.visit-nordvestkysten.com/northwest-coast/whatson/blokhus-wind-festival-gdk998562",
+    "image_url": ""
+   },
+   {
+    "name": "Blokhus Sand Sculpture Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually late April to mid-October (2026: April 30 - October 18, theme Fantasy Art)",
+    "date": "2026-04-30",
+    "blurb": "An annual festival at Skulpturparken Blokhus where some of the world's leading sand sculptors create large sand sculptures; the 2026 edition runs from late April through mid-October on the theme Fantasy Art.",
+    "source_url": "https://skulpturparken.dk/parkoplevelser1/sandskulpturfestival",
+    "image_url": ""
+   },
+   {
+    "name": "Blokhus New Year's Swim (Nytaarsbadning)",
+    "type": "seasonal",
+    "recurring": true,
+    "when": "annually on New Year's Day at Blokhus Strand",
+    "date": "",
+    "blurb": "Destination Blokhus hosts an annual New Year swim at Blokhus Strand, inviting people to take a cold dip in the sea for a fresh start to the year.",
+    "source_url": "https://www.opdagdanmark.dk/en/guide/blokhus/begivenheder/",
+    "image_url": ""
+   },
+   {
+    "name": "Hune Marked (Sunday Market)",
+    "type": "market",
+    "recurring": true,
+    "when": "every Sunday during the summer season",
+    "date": "",
+    "blurb": "A popular Sunday market held in Hune near Blokhus throughout the summer, with many stalls drawing visitors from near and far.",
+    "source_url": "https://www.opdagdanmark.dk/en/guide/blokhus/begivenheder/",
+    "image_url": ""
+   }
+  ]
+ },
+ "brsmose-strand": {
+  "beach": "Brsmose Strand",
+  "town": "Oksbøl (Varde Municipality)",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Blåvandshuk Musikfestival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in early June (2026: June 6)",
+    "date": "2026-06-06",
+    "blurb": "Annual outdoor music festival held at Oksbøl Stadion, the nearest town to Børsmose Strand. The 2026 edition is scheduled for 6 June and continues the festival's tradition of featuring well-known acts.",
+    "source_url": "https://www.visitvesterhavet.dk/vesterhavet/vesterhavsferie/blaavandshuk-musikfestival-2026-gdk1154051",
+    "image_url": ""
+   }
+  ]
+ },
+ "glatved-beach": {
+  "beach": "Glatved Beach",
+  "town": "Grenaa",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Grenaa Gademusiker Festival (Street Music Festival)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in May (2026: 22 May)",
+    "date": "2026-05-22",
+    "blurb": "An annual free street music festival that fills Grenaa's pedestrian streets and church square with music across 11 stages. Its 10th edition was held in 2024, drawing thousands of visitors.",
+    "source_url": "https://grenaagademusikerfestival.dk/",
+    "image_url": ""
+   },
+   {
+    "name": "Grenaa Vinfestival (Wine Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "2026-08-29",
+    "date": "2026-08-29",
+    "blurb": "A wine festival held on the town square (Torvet) in Grenaa where visitors can taste over 250 wines from Danish and international producers.",
+    "source_url": "https://allevents.in/grenaa/grenaa-vinfestival-2026/200030160485156",
+    "image_url": ""
+   },
+   {
+    "name": "Æblefestival (Apple Festival), Ebeltoft",
+    "type": "food",
+    "recurring": true,
+    "when": "annually during the autumn (fall) school holiday in October",
+    "date": "",
+    "blurb": "An annual apple-harvest festival held in the historic town of Ebeltoft on the Djursland peninsula, celebrating the local apple harvest during the autumn school holiday.",
+    "source_url": "https://www.opdagdanmark.dk/en/guide/djursland/begivenheder/",
+    "image_url": ""
+   }
+  ]
+ },
+ "grenaa-beach": {
+  "beach": "Grenaa Beach",
+  "town": "Grenaa",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "ABC Beach Party",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-07-11",
+    "date": "2026-07-11",
+    "blurb": "An annual one-day open-air music festival held directly on Grenaa Beach (Grenaa Strand), organized by Radio ABC, featuring a full day of live concerts on the sand. The event has a coastal-protection dispensation to run in 2025, 2026 and 2027.",
+    "source_url": "https://radioabc.dk/abc-beach-party-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Grenaa Vinfestival",
+    "type": "food",
+    "recurring": true,
+    "when": "2026-08-29",
+    "date": "2026-08-29",
+    "blurb": "An annual wine festival held at Torvet (the town square) in central Grenaa, where visitors can taste more than 250 wines from Danish producers and international wine houses.",
+    "source_url": "https://www.visitaarhus.com/aarhus-region/plan-your-trip/grenaa-wine-festival-gdk1151230",
+    "image_url": ""
+   }
+  ]
+ },
+ "havsand": {
+  "beach": "Havsand",
+  "town": "Havneby / Lakolk, Rømø island (Tønder Municipality), Denmark",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Rømø Kite Festival (Drachenfest)",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-09-04 to 2026-09-06 (annually, first full weekend of September)",
+    "date": "2026-09-04",
+    "blurb": "Northern Europe's largest international kite festival, held on the wide Lakolk Strand on Rømø, the same broad beach area as Havsand. Thousands of colorful kites of giant animals and imaginative shapes fill the sky over the firm sand.",
+    "source_url": "https://romo-tonder.dk/en/dragefestival/",
+    "image_url": ""
+   },
+   {
+    "name": "Rømø Motor Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-08-22 (annually in August)",
+    "date": "2026-08-22",
+    "blurb": "A beach race tribute to the golden age of motorsport where classic cars and motorcycles built before 1947 compete on the hard-packed sand of Lakolk Strand on Rømø, one of Europe's widest beaches.",
+    "source_url": "https://romo-tonder.dk/en/rmf25/",
+    "image_url": ""
+   }
+  ]
+ },
+ "hornbk-strand": {
+  "beach": "Hornbk Strand",
+  "town": "Hornbæk (Helsingør Municipality, North Zealand, Denmark)",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Hornbæk Havnefest",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late July (2026: 24-26 July)",
+    "date": "2026-07-24",
+    "blurb": "Hornbæk's harbour festival, running since 1881, is Helsingør Municipality's largest recurring event, with three days of music, DJs, dancing, food and family activities at Hornbæk Havn. Profits go to local youth work, and children under 15 enter free.",
+    "source_url": "https://www.hornbaekhavnefest.dk/",
+    "image_url": ""
+   },
+   {
+    "name": "Hornbækløbet",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually on the Saturday of the harbour festival weekend (2026: 25 July, 09:30)",
+    "date": "2026-07-25",
+    "blurb": "An annual running event organised by volunteers connected to Hornbæk Rotary Klub, held during the Hornbæk Havnefest weekend. Participants can choose a 10 km run, a 5 km run, or a family-friendly 5 km walk.",
+    "source_url": "https://xn--hornbklbet-h6a2t.dk/",
+    "image_url": ""
+   },
+   {
+    "name": "Sankt Hans Aften (Midsummer Eve)",
+    "type": "seasonal",
+    "recurring": true,
+    "when": "annually on 23 June",
+    "date": "2026-06-23",
+    "blurb": "Denmark's nationwide midsummer celebration on 23 June, marked along the North Zealand coast including Hornbæk with beach and harbourside bonfires, communal singing and speeches. A traditional Danish summer-eve gathering rather than a single ticketed event.",
+    "source_url": "https://www.visitcopenhagen.com/copenhagen/planning/sankt-hans-aften-midsummer-celebrations-gdk1100650",
+    "image_url": ""
+   }
+  ]
+ },
+ "kjrsgaard-strand": {
+  "beach": "Kjrsgaard Strand",
+  "town": "Hirtshals (Hjørring Municipality, North Jutland)",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Hirtshals Fiskefestival (Fish Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually the first weekend of August",
+    "date": "",
+    "blurb": "A three-day fish and fishing festival in the harbour town of Hirtshals, just north of Kærsgård Strand, featuring a fish market, fish auction, large local-products fish buffet, tasting stalls and live music. It draws around 10,000 visitors each year.",
+    "source_url": "https://www.hirtshalsfiskefestival.dk/hirtshals-fiskefestival/",
+    "image_url": ""
+   },
+   {
+    "name": "Musik under Trappen (Music Under the Stairs)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually mid/late July (weeks 29-30); 2026 opens 18 July",
+    "date": "2026-07-18",
+    "blurb": "A week-long free open-air music festival held on the Hirtshals harbour, organised by Hirtshals Musikforening, with around 30 concerts. The 2026 edition opens on Saturday 18 July.",
+    "source_url": "https://www.visitnordvestkysten.dk/nordvestkysten/planlaeg-din-tur/musik-under-trappen-hirtshals-gdk1129198",
+    "image_url": ""
+   }
+  ]
+ },
+ "palm-beach": {
+  "beach": "Palm Beach",
+  "town": "Frederikshavn",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Tordenskioldsdage (Days of Tordenskiold)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually, first weekend of September",
+    "date": "",
+    "blurb": "Scandinavia's largest historical maritime festival, held in Frederikshavn's harbour area near the beach, re-enacting the era of naval hero Peter Wessel Tordenskiold with a mock naval battle, period market, replica ships, and concerts. It draws around 30,000 visitors each year.",
+    "source_url": "https://tordenskioldsby.dk/festival-6-7-sept/",
+    "image_url": ""
+   },
+   {
+    "name": "Blues Heaven Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in autumn (early October/November)",
+    "date": "",
+    "blurb": "An award-winning blues and soul festival held at Arena Nord in Frederikshavn, gathering dozens of top international musicians for two days of live performances. 2026 marks a milestone edition of the long-running event.",
+    "source_url": "https://bluesheaven.dk/",
+    "image_url": ""
+   },
+   {
+    "name": "Rock i Frederikshavn",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in June",
+    "date": "",
+    "blurb": "An annual open-air rock concert event staged in Frederikshavn, featuring live bands performing under open skies.",
+    "source_url": "https://www.billetsalg.dk/Event/Rock%20i%20Frederikshavn%202026/9163",
+    "image_url": ""
+   }
+  ]
+ },
+ "sdding-beach": {
+  "beach": "Sdding Beach",
+  "town": "Esbjerg",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "Esbjerg Festuge",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually mid-to-late June (2026: June 13-21)",
+    "date": "2026-06-13",
+    "blurb": "Esbjerg's annual city festival week fills the town centre with concerts, international street theatre, a children's day, exhibitions and street parades.",
+    "source_url": "https://www.opdagdanmark.dk/en/guide/esbjerg/begivenheder/",
+    "image_url": ""
+   },
+   {
+    "name": "Suset Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in August (2026: August 21-22)",
+    "date": "2026-08-21",
+    "blurb": "A summer music festival held by the harbour in Esbjerg where visitors enjoy live music and the sunset over the water.",
+    "source_url": "https://www.vadehavskysten.com/ribe-esbjerg-fano/ribe-esbjerg-fano/suset-festival-esbjerg-gdk1142628",
+    "image_url": ""
+   },
+   {
+    "name": "Esbjerg Olfestival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in June (2026: June 20)",
+    "date": "2026-06-20",
+    "blurb": "A craft beer street festival staged in the Esbjerg city centre on Jyllandsgade during Esbjerg Festuge, running in the afternoon.",
+    "source_url": "https://www.travelbeginsat40.com/event/esbjerg-olfestival-esbjerg-denmark/",
+    "image_url": ""
+   }
+  ]
+ },
+ "snekkersten-strand": {
+  "beach": "Snekkersten Strand",
+  "town": "Snekkersten (Helsingør Municipality)",
+  "country": "Denmark",
+  "events": [
+   {
+    "name": "ØL LØBET (Beer Run)",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-05-24",
+    "date": "2026-05-24",
+    "blurb": "A fun run starting from Snekkersten Havn along Strandvejen past the harbour front, Kulturværftet and Marienlyst toward Sommariva, where it transitions directly into the Helsingør Karneval festivities. Open to walkers and joggers alike.",
+    "source_url": "https://allevents.in/helsing%C3%B8r/%C3%98l-l%C3%98b-2026/200028842884859",
+    "image_url": ""
+   },
+   {
+    "name": "Helsingør Karneval",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-05-24 (Pentecost Sunday)",
+    "date": "2026-05-24",
+    "blurb": "An annual Whitsun carnival and outdoor concert party at Sommarivaparken in Helsingør, just up the coast from Snekkersten, with a large stage, beer tent and food trucks. The 2026 edition coincides with the city's 600th anniversary as a market town.",
+    "source_url": "https://www.helsingorkarneval.dk/",
+    "image_url": ""
+   },
+   {
+    "name": "Hvaler i Øresund",
+    "type": "sport",
+    "recurring": true,
+    "when": "Whitsun/Pentecost 2026 (22-25 May), held biennially",
+    "date": "2026-05-22",
+    "blurb": "A biennial gathering and regatta of classic Danish 'whale' class wooden boats (Sæler, Marsvin, Spækhuggere, Grinder, Kaskelotter) hosted at Snekkersten Havn by Snekkersten Skotterup Sejlklub, with racing around Hven, an award night and live music.",
+    "source_url": "https://sssejlklub.dk/hvaler-i-oresund-2026/",
+    "image_url": ""
+   }
+  ]
  }
 }
