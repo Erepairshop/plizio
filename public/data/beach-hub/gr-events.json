@@ -860,5 +860,1363 @@
     "image_url": ""
    }
   ]
+ },
+ "aghia-fotia-beach": {
+  "beach": "Aghia Fotia Beach",
+  "town": "Ierapetra",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Kyrveia Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually mid-July to late August",
+    "date": "",
+    "blurb": "Ierapetra's main summer cultural festival, running from mid-July to the end of August with folk music and dance nights, concerts, theatre, handicraft exhibitions and beach parties, many held at the Kales fortress. Many events are free to the public.",
+    "source_url": "https://www.argophilia.com/news/kyrveia-2024-kicks-off-in-ierapetra-july-9th/234963/",
+    "image_url": ""
+   },
+   {
+    "name": "International Documentary Festival of Ierapetra (IDFI)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "An annual international documentary film festival held each August in Ierapetra, the southernmost town in Europe, screening competition documentaries from Greece and around the world. The 12th edition ran 2-22 August 2025.",
+    "source_url": "https://www.festivalierapetra.gr/en/home/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Agia Foteini (Saint Photini)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in late February (26 February in the Greek tradition)",
+    "date": "",
+    "blurb": "Agia Fotia beach takes its name from the small chapel of Agia Foteini (Saint Photini) beside it, whose Orthodox feast is commemorated on 26 February in the Greek tradition. Local chapels dedicated to the saint hold a liturgy on her name day.",
+    "source_url": "https://www.goarch.org/chapel/saints?contentid=2030",
+    "image_url": ""
+   }
+  ]
+ },
+ "agios-gordios": {
+  "beach": "Agios Gordios",
+  "town": "Sinarades (Corfu)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Sinarades Panigiri (Nativity of the Virgin Mary)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually September 8",
+    "date": "2026-09-08",
+    "blurb": "The traditional village festival (panigiri) of Sinarades, the hilltop village just above Agios Gordios beach, celebrating the Nativity of the Virgin Mary with a church service followed by live music, Greek dancing, and food stalls (spit-roast lamb, souvlaki, loukoumades). Sinarades shares this feast date with nearby villages such as Afra and Marathia.",
+    "source_url": "https://atcorfu.com/festivals-and-panigiria-in-the-villages-of-corfu/",
+    "image_url": ""
+   },
+   {
+    "name": "Corfu Orthodox Easter",
+    "type": "religious",
+    "recurring": true,
+    "when": "2026-04-12 (Orthodox Easter Sunday; Holy Week from early April)",
+    "date": "2026-04-12",
+    "blurb": "Corfu is famous for its elaborate Orthodox Easter, including the Holy Saturday 'botides' pot-throwing in Corfu Town, Good Friday epitaph processions led by the island's philharmonic bands, and the midnight Resurrection service. It is the island's biggest annual celebration, observed across Corfu including the villages near Agios Gordios.",
+    "source_url": "https://corfuunion.com/corfu-easter-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Litany (Procession) of Saint Spyridon, 11 August",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually August 11",
+    "date": "2026-08-11",
+    "blurb": "One of the four annual litanies of Corfu's patron saint, Saint Spyridon, held in Corfu Town with the island's philharmonic bands (including the Sinarades Philharmonic, which serves the village above Agios Gordios) marching in the procession. The relics of the saint are carried through the streets.",
+    "source_url": "https://www.corfu-kerkyra.eu/en/feasts-corfu.php",
+    "image_url": ""
+   }
+  ]
+ },
+ "almyrida": {
+  "beach": "Almyrida",
+  "town": "Kalyves (Almyrida, Apokoronas, Chania, Crete)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Agia Marina Feast (Panigiri)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually mid-July (St Marina's day, around 17 July)",
+    "date": "",
+    "blurb": "Almyrida and the surrounding Apokoronas villages honour Saint Marina with a small panigiri around her feast day in mid-July, featuring traditional Cretan food, sweets, local wine and live music with dancing.",
+    "source_url": "https://www.creteislandgreece.com/almyrida.html",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Agia Paraskevi, Kalyves",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 26 July",
+    "date": "2026-07-26",
+    "blurb": "The nearest town of Kalyves celebrates its patron Saint Paraskevi on 26 July with a traditional church feast and panigiri including live Cretan music and local food.",
+    "source_url": "https://www.explorecrete.com/chania-region/en-kalyves-holidays",
+    "image_url": ""
+   },
+   {
+    "name": "Dormition of the Virgin Mary Panigiria (Apokoronas)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 15 August",
+    "date": "2026-08-15",
+    "blurb": "On 15 August, the Dormition of the Virgin Mary is the biggest religious celebration across Crete, with open-air panigiria, food, wine and traditional music in villages throughout the Apokoronas region around Almyrida.",
+    "source_url": "https://www.greeka.com/crete/chania/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "ammoudi": {
+  "beach": "Ammoudi",
+  "town": "Oia, Santorini",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Ifestia Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "Annual festival launched from Oia that re-enacts Santorini's volcanic eruption with a large fireworks display (and in recent years a drone light show) over the caldera. Organized by local volunteers since 1991, it is free to watch from caldera viewpoints above Ammoudi.",
+    "source_url": "https://www.santorini-view.com/ifestia-festival-santorini-volcanic-celebration/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Panagia Platsani (Dormition of the Virgin Mary)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on August 15 (procession on the eve, Aug 14)",
+    "date": "2026-08-15",
+    "blurb": "The name day of the Panagia Platsani church on Oia's main square, celebrated on August 15 with religious ceremonies and a traditional panigiri (village feast). On the eve a procession carries the shroud of the Virgin Mary through Oia.",
+    "source_url": "https://visitsantorini.travel/august-15-in-santorini-a-celebration-of-faith/",
+    "image_url": ""
+   },
+   {
+    "name": "Greek Orthodox Easter in Oia",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually at Orthodox Easter (April 2026)",
+    "date": "",
+    "blurb": "Oia marks Orthodox Easter with midnight church services, candlelit processions, fireworks and traditional feasts, one of the most important celebrations in the Greek calendar.",
+    "source_url": "https://www.greeka.com/cyclades/santorini/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "anthony-quinn-bay": {
+  "beach": "Anthony Quinn Bay",
+  "town": "Faliraki",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Festival of Prophet Amos (Profitis Amos panigiri)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually mid-June (feast of Prophet Amos)",
+    "date": "",
+    "blurb": "Faliraki's traditional panigiri held at the Monastery of Prophet Amos for the prophet's feast day, with church services followed by local food, music, dancing and ouzo. The 19th-century monastery sits above the resort near Anthony Quinn Bay.",
+    "source_url": "https://faliraki.com/listing/prophet-amos-monastery/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival of Traditional Rhodian Gastronomy (Roditiki Ladopitta)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually mid-July",
+    "date": "",
+    "blurb": "An annual food festival in Faliraki celebrating traditional Rhodian cuisine, centered on the local olive-oil pastry 'Roditiki Ladopitta', with tastings of regional products.",
+    "source_url": "https://roditikiladopitta.gr/en/5th-festival-of-traditional-rhodian-gastronomy-in-faliraki-rhodes/",
+    "image_url": ""
+   }
+  ]
+ },
+ "argilos": {
+  "beach": "Argilos",
+  "town": "Sitia (nearest beach settlement: Xerokampos), Lassithi, Crete",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Kornaria Festival (Kornareia)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually, early July to mid-August",
+    "date": "",
+    "blurb": "Sitia's flagship summer cultural festival honoring the Cretan Renaissance poet Vitsentzos Kornaros, with music concerts, theatre, traditional dance, art and photography exhibitions, lectures and sports events such as the 'Kornarios' road race and beach volleyball, held mainly at the Venetian fortress of Kazarma.",
+    "source_url": "https://www.greeka.com/crete/lassithi/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Sultanina Raisin Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually, mid-August (around August 15-20)",
+    "date": "",
+    "blurb": "A three-day festival in Sitia dedicated to the local sultanina grape variety, marking the start of the grape harvest with wine, traditional food, music and dance.",
+    "source_url": "https://www.greeka.com/crete/lassithi/news/events/sultanina-raisin-festival-in-sitia-crete/",
+    "image_url": ""
+   },
+   {
+    "name": "Dormition of the Virgin Mary panigiria (Dekapentavgoustos)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually, 15 August",
+    "date": "2026-08-15",
+    "blurb": "On 15 August villages across the Sitia and Lassithi area celebrate the Dormition of the Virgin Mary with church services followed by panigiria, featuring live Cretan music, traditional dishes and dancing in the village squares.",
+    "source_url": "https://www.greeka.com/crete/lassithi/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Carnival of Sitia (Apokries)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually, late winter (Carnival season, February/March)",
+    "date": "",
+    "blurb": "Sitia's popular carnival celebrations with a treasure hunt and a large costume parade on Carnival Sunday.",
+    "source_url": "https://www.greeka.com/crete/lassithi/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "chiliadou-beach": {
+  "beach": "Chiliadou Beach",
+  "town": "Steni Dirfios (Steni Evias), Evia",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Evia Ultra Trail",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-04-04",
+    "date": "2026-04-04",
+    "blurb": "A UTMB- and ITRA-certified mountain ultramarathon based in Steni Evias on Mount Dirfys, the nearest mountain town hub to Chiliadou Beach. The 2026 edition (held 4-5 April) features a 108.5 km ultra plus a two-runner relay, starting and finishing in Steni.",
+    "source_url": "https://dromeisevias.gr/en/evuten/",
+    "image_url": ""
+   },
+   {
+    "name": "Steni Outdoor Fair (1 September)",
+    "type": "market",
+    "recurring": true,
+    "when": "annually on 1 September",
+    "date": "",
+    "blurb": "A traditional outdoor commercial fair held in the mountain village of Steni Dirfios, where visitors can see, taste and buy local products from across Evia island.",
+    "source_url": "https://www.feelgreece.com/en/steni-dirfios-evia",
+    "image_url": ""
+   }
+  ]
+ },
+ "firiplaka": {
+  "beach": "Firiplaka",
+  "town": "Adamas (Adamantas), Milos; nearest community Provatas/Provata",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Milos Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer, typically starting July",
+    "date": "",
+    "blurb": "The island's main cultural event, organized by the Municipality of Milos, featuring concerts, theatre, dance, art exhibitions and film screenings staged at venues across the island. It traditionally begins in July and runs for several weeks.",
+    "source_url": "https://www.greeka.com/cyclades/milos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of the Dormition of the Virgin (Panigiri tis Panagias)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 15 August",
+    "date": "2026-08-15",
+    "blurb": "The most important religious festival on Milos, celebrated in Adamas and at the Church of Panagia Portiani in Zefyria with church services followed by a panigiri of traditional music, dancing, local food and wine.",
+    "source_url": "https://www.greeka.com/cyclades/milos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Agios Sostis (Provata)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 6 September",
+    "date": "2026-09-06",
+    "blurb": "A saint's-day panigiri held in the village of Provata, the community closest to Firiplaka beach, with a church service and a traditional celebration of food, wine and folk dancing.",
+    "source_url": "https://www.greeka.com/cyclades/milos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Panagia Korfiatissa (Plaka)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 8 September",
+    "date": "2026-09-08",
+    "blurb": "Celebration of Milos's patron icon at the Panagia Korfiatissa church in the capital Plaka, featuring a religious procession through the village along with folk music and dance.",
+    "source_url": "https://www.greeka.com/cyclades/milos/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "gerondolakkos": {
+  "beach": "Gerondolakkos",
+  "town": "Siteia (Sitia), Crete; nearest settlement Xerokampos/Ziros",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Xerokampos Panigiri (feast of Agios Ioannis)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 29 August",
+    "date": "",
+    "blurb": "On 29 August the locals of Xerokampos, the nearest coastal settlement to Gerondolakkos beach, hold a traditional panigiri (religious feast) in honour of Saint John, with a church service followed by food, raki, live Cretan music and dancing.",
+    "source_url": "https://www.rental-center-crete.com/blog/xerokambos-crete/",
+    "image_url": ""
+   },
+   {
+    "name": "Kornaria Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually early July to mid-August",
+    "date": "",
+    "blurb": "Sitia's main summer cultural festival, named after the 17th-century Cretan poet Vitsentzos Kornaros, fills the town with music, theatre, dance, exhibitions and sporting events such as the 'Cornarian' race and beach volleyball.",
+    "source_url": "https://visitsitia.gr/en/cultural-events-en/",
+    "image_url": ""
+   },
+   {
+    "name": "Sultanina (Raisin) Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually mid-August (around 15-20 August)",
+    "date": "",
+    "blurb": "A festival in Sitia dedicated to the local sultana grape variety, celebrating the area's traditional raisin production with food, wine and music.",
+    "source_url": "https://www.greeka.com/crete/lassithi/news/events/344.htm",
+    "image_url": ""
+   }
+  ]
+ },
+ "gianiskari-beach": {
+  "beach": "Gianiskari Beach",
+  "town": "Akrotirio Araxou / Kato Achaia (West Achaea), with Patras as nearest city",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Patras Carnival (Patrino Karnavali)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually, late January to Clean Monday (2026: Jan 17 - Feb 23)",
+    "date": "2026-02-21",
+    "blurb": "The largest carnival in Greece and one of the biggest in Europe, held in Patras (the regional capital about 45 km from the beach). The 2026 edition runs from January 17 to Clean Monday (February 23), with the grand parade of satirical floats around the carnival weekend and the ritual burning of the Carnival King effigy at the harbour to close it.",
+    "source_url": "https://visit-achaia.gr/en/see-and-do/patras-carnival",
+    "image_url": ""
+   },
+   {
+    "name": "Kato Achaia Carnival & Clean Monday Kite-Flying (Koulouma)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually during Carnival season, ending on Clean Monday (2026: Feb 23)",
+    "date": "2026-02-23",
+    "blurb": "The town of Kato Achaia (seat of the West Achaea municipality, the nearest sizeable town) holds its own carnival parades, and on Clean Monday the koulouma custom is celebrated with families flying kites on the beach, marking the start of Lent.",
+    "source_url": "https://visit-achaia.gr/en/see-and-do/patras-carnival",
+    "image_url": ""
+   },
+   {
+    "name": "International Festival of Patras",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer (typically June to September)",
+    "date": "",
+    "blurb": "A long-running summer cultural festival in the wider Patras / Achaea region featuring music, theatre and dance performances at venues including the ancient Roman Odeon. It is the main summer cultural program for the area around Araxos and Kato Achaia.",
+    "source_url": "https://www.visit-achaia.gr/en/attractions/culture/cultural-events/274-international-festival-of-patras",
+    "image_url": ""
+   }
+  ]
+ },
+ "karathona": {
+  "beach": "Karathona",
+  "town": "Nafplio (Nafplion)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Nafplion Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-07-11 to 2026-07-18 (annually mid-July, since 1992)",
+    "date": "2026-07-11",
+    "blurb": "Nafplio's prestigious classical and jazz music festival, held every summer since 1992 in historic venues such as the Bourtzi fortress and old-town squares. The 35th edition is scheduled for 11-18 July 2026.",
+    "source_url": "https://www.nafplionfestival.gr/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Nafplio Carnival (Anapliotiko Carnival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-02-15 to 2026-02-23 (annually around Greek Carnival season)",
+    "date": "2026-02-15",
+    "blurb": "Nafplio's lively annual carnival with parades, satire, music and dancing through the old town, culminating in the traditional Koulouma celebration. The 2026 edition runs 15-23 February under the theme 'Global Upheaval'.",
+    "source_url": "https://www.discovernafplio.gr/en/articles/happenings/nafplio-carnival-2026-global-upheaval-february-15-23rd-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Nafplio Challenge (Nafplio Action)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in September/October",
+    "date": "",
+    "blurb": "Annual multi-sport event organised by the Municipality of Nafplio, featuring open-water swimming and running races in the Tolo area plus triathlon and aquathlon races, held each autumn in recent years.",
+    "source_url": "http://www.nafpliotriathlon.gr/en/",
+    "image_url": ""
+   }
+  ]
+ },
+ "karoumes-beach": {
+  "beach": "Karoumes Beach",
+  "town": "Palekastro (Sitia municipality, Lasithi, eastern Crete)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Panagia (Assumption of the Virgin Mary) Festival, Palekastro",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 15 August",
+    "date": "2026-08-15",
+    "blurb": "The village of Palekastro, the nearest settlement to Karoumes Beach, holds its annual panigiri for the Dormition of the Virgin Mary on 15 August, with traditional Cretan music, dance, food and drink.",
+    "source_url": "https://visitsitia.gr/en/cultural-events-en/",
+    "image_url": ""
+   },
+   {
+    "name": "Kornaria Festival, Sitia",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually early July to mid-August",
+    "date": "",
+    "blurb": "Sitia's main cultural festival, dedicated to Cretan poet Vitsentzos Kornaros, runs for over a month with concerts, dance, theatre, art and photography exhibitions and sports events such as the Kornarios road race and beach volleyball, held mainly at the Venetian Kazarma fortress.",
+    "source_url": "https://www.sitia.gr/en/city/cornareia/kornaria.html",
+    "image_url": ""
+   },
+   {
+    "name": "Mediterranean Festival of Sitia",
+    "type": "music",
+    "recurring": true,
+    "when": "annually first weekend of July (Friday-Sunday)",
+    "date": "",
+    "blurb": "A three-day festival at the port of Sitia blending Greek traditional music with contemporary sounds from the wider Mediterranean, Balkans and East, including exhibitions and workshops.",
+    "source_url": "https://visitsitia.gr/en/cultural-events-en/",
+    "image_url": ""
+   }
+  ]
+ },
+ "kedrodasos-beach": {
+  "beach": "Kedrodasos Beach",
+  "town": "Paleochora (nearest town); Pelekanos / Chrissoskalitissa-Elafonissi area is closest to the beach",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Panagia Chrissoskalitissa Monastery Panigiri (Dormition of the Virgin Mary)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 14-15 August",
+    "date": "2026-08-15",
+    "blurb": "On 15 August, the Dormition of the Virgin Mary, the clifftop Panagia Chrissoskalitissa Monastery just above Elafonissi (about 2 km from Kedrodasos Beach) holds one of western Crete's most popular panigiria, combining church services with a folk festival of traditional Cretan music, dance and food overlooking the Libyan Sea.",
+    "source_url": "https://www.greeka.com/crete/chania/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Agios Georgios Feast at Chrissoskalitissa Monastery",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 23 April (or the Monday after Greek Easter)",
+    "date": "",
+    "blurb": "A popular panigiri honoring Agios Georgios is held at the Monastery of Chrissoskalitissa, the landmark just above Elafonissi beach near Kedrodasos, on 23 April (or the Monday after Easter when the dates coincide).",
+    "source_url": "https://www.greeka.com/crete/chania/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Paleochora Music Festival (Summer Festival)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in the first ten days of August",
+    "date": "",
+    "blurb": "The seaside town of Paleochora, the nearest town to Kedrodasos Beach, hosts a long summer festival in the first ten days of August featuring live music, traditional Cretan dance, puppet and classical performances, art exhibitions and local food and drink.",
+    "source_url": "https://www.greece-travel-secrets.com/Crete-Festivals-and-Events.html",
+    "image_url": ""
+   },
+   {
+    "name": "Kalitsounia (Cretan Cheese Pie) Festival, Kantanos",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in summer",
+    "date": "",
+    "blurb": "In the village of Kantanos in the hinterland above Paleochora, a kalitsounia festival celebrates the region's traditional herb- and cheese-stuffed Cretan pies with local food and music.",
+    "source_url": "https://www.greeka.com/crete/chania/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "kleftiko": {
+  "beach": "Kleftiko",
+  "town": "Adamas (Adamantas), Milos",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Dormition of the Virgin Panigiri at Adamas",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 15 August",
+    "date": "2026-08-15",
+    "blurb": "On the feast of the Dormition of the Virgin (Kimisi tis Theotokou), a panigiri is held at the church of Agia Triada in Adamas, Milos's main town and the departure point for Kleftiko boat trips, with local music, dancing, food and Melian wine in the church courtyard.",
+    "source_url": "https://www.aegeanislands.gr/pois/milos-customs-festivals-en/",
+    "image_url": ""
+   },
+   {
+    "name": "Panigiri at Panagia Giatrissa",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 22 August",
+    "date": "2026-08-22",
+    "blurb": "A traditional Greek panigiri at the historic chapel of Panagia Giatrissa on Milos, featuring folk music, local food and circle dancing.",
+    "source_url": "https://travel-greece.org/festivals-events-milos-island-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Milos Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer (July)",
+    "date": "",
+    "blurb": "An annual cultural festival on Milos featuring Greek music, theater and dance performances, often staged in historic venues such as the island's ancient theater near Klima.",
+    "source_url": "http://www.aerolithos.gr/en/Aerolithos-in-Milos/What-to-do-in-Milos/Milos-Festival",
+    "image_url": ""
+   },
+   {
+    "name": "Panigiri of Panagia Korfiatissa, Plaka",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in May",
+    "date": "",
+    "blurb": "A spiritual celebration honoring Milos's patron saint, centered on a religious procession through the village of Plaka where locals carry icons, accompanied by traditional music and local food.",
+    "source_url": "https://travel-greece.org/festivals-events-milos-island-2026",
+    "image_url": ""
+   }
+  ]
+ },
+ "kolymbithres": {
+  "beach": "Kolymbithres",
+  "town": "Naoussa, Paros",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Barbarossa Pirate Festival (Koursariko)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on 23 August",
+    "date": "2026-08-23",
+    "blurb": "Naoussa's most famous celebration re-enacts the 1537 repulsion of the pirate Barbarossa, with masked locals staging a mock pirate raid in the harbour followed by fireworks, live music, dancing, and local treats such as octopus, small fish and souma. It traditionally takes place nine days after the Assumption of the Virgin.",
+    "source_url": "https://www.greeka.com/cyclades/paros/festivals/pirates/",
+    "image_url": ""
+   },
+   {
+    "name": "Naoussa Fish and Wine Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually on the first Sunday of July",
+    "date": "",
+    "blurb": "Fishermen fry fresh fish on their boats in Naoussa harbour and offer it to visitors alongside local wine and souma, accompanied by traditional music and dancing. The festival was started by local fishermen in the 1970s.",
+    "source_url": "https://greeka.com/cyclades/paros/paros-festivals.htm",
+    "image_url": ""
+   },
+   {
+    "name": "Festival of Agios Ioannis Detis",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 24 August",
+    "date": "2026-08-24",
+    "blurb": "One of the larger summer saint's-day panigiria (religious feasts) near Naoussa, celebrated with church services, food, music and dancing in the Agios Ioannis Detis area on the Monastiri peninsula north of the town.",
+    "source_url": "https://www.paros-summer.com/blog/things-to-do-paros/parian-calendar/",
+    "image_url": ""
+   },
+   {
+    "name": "Klidonas Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually around 23-24 June (St John's Eve)",
+    "date": "2026-06-23",
+    "blurb": "A traditional midsummer custom marking St John's Day, where Maytime wreaths are burned and revellers jump over bonfires; in the Naoussa area it is celebrated as part of the wider Parian Klidonas festivities with music and dancing.",
+    "source_url": "https://parosrent.gr/paros-festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "kondyli": {
+  "beach": "Kondyli",
+  "town": "Vivari (near Nafplio), Argolida, Peloponnese",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Prophet Elias Festival (Panigiri) in Vivari",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 20 July",
+    "date": "2026-07-20",
+    "blurb": "The seaside village of Vivari, the nearest settlement to Kondyli beach, holds its big traditional panigiri in honour of Prophet Elias every year on 20 July, with music, dancing and local food.",
+    "source_url": "https://www.discovernafplio.gr/en/articles/my-nafplio/vivari",
+    "image_url": ""
+   },
+   {
+    "name": "Nafplio Festival (Nafplion Festival)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in mid/late June to July",
+    "date": "",
+    "blurb": "A long-running classical music festival held in nearby Nafplio (about 13-17 km from the beach), staging concerts in landmark venues such as the Vouleftikon and the courtyard of St George's church. It has run for over 30 consecutive years and is regarded as one of Greece's leading festivals of its kind.",
+    "source_url": "https://www.discovernafplio.gr/en/articles/nafplio-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Nafplio Marathon",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in March",
+    "date": "",
+    "blurb": "An annual running event in nearby Nafplio that draws thousands of runners from Greece and abroad, with routes through the historic town and along the Argolic Gulf coast.",
+    "source_url": "https://www.hotelperivoli.com/blog/ten-must-attend-festivals-and-events-in-and-around-nafplio",
+    "image_url": ""
+   },
+   {
+    "name": "Nafplio Carnival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in February (Carnival season)",
+    "date": "",
+    "blurb": "Nafplio's annual carnival features lively parades, elaborate costumes, traditional Greek music and dancing through the streets of the old town.",
+    "source_url": "https://www.hotelperivoli.com/blog/ten-must-attend-festivals-and-events-in-and-around-nafplio",
+    "image_url": ""
+   }
+  ]
+ },
+ "kryoneri": {
+  "beach": "Kryoneri",
+  "town": "Parga",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Feast of the Panagia & Varkarola (Kanaria Festival)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 14-15 August",
+    "date": "2026-08-15",
+    "blurb": "Parga's biggest annual celebration for the Dormition of the Virgin Mary. On the eve of 14 August people sail by boat to the islet of Panagia opposite the town for a folk festival, and on 15 August the Varkarola re-enacts the return of the Pargians from exile in Corfu, with two lines of Venetian-lamp-decorated boats crossing the bay and a fireworks display over the Venetian castle. The events center on Parga harbour and Kryoneri beach, where the Panagia islet church sits offshore.",
+    "source_url": "https://www.greeka.com/epirus/parga/festivals/kanaria-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Parga Summer Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually July-August",
+    "date": "",
+    "blurb": "A summer series of cultural events in Parga including concerts, art exhibitions and theatrical performances, often staged with the Venetian castle as a backdrop.",
+    "source_url": "https://www.greeka.com/epirus/parga/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Orthodox Easter (Pascha) in Parga",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in spring (Orthodox calendar)",
+    "date": "",
+    "blurb": "Parga marks Orthodox Easter with solemn processions, midnight Resurrection mass and traditional feasting throughout the town.",
+    "source_url": "https://en.athinorama.gr/travel/destinations/ellada/ipeiros/parathalassia-ipeiros/parga,pasxalina-taxidia",
+    "image_url": ""
+   }
+  ]
+ },
+ "lalaria": {
+  "beach": "Lalaria",
+  "town": "Skiathos Town (Skiathos island)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Feast of Panagia Eikonistria (Kounistra)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 21 November",
+    "date": "2026-11-21",
+    "blurb": "Skiathos celebrates its patron saint, Panagia Eikonistria (Kounistra), each year on 21 November. The miraculous icon is carried in procession from Skiathos Town to the Kounistra Monastery, with worshippers keeping vigil around fires on the eve of the feast.",
+    "source_url": "https://www.greeka.com/sporades/skiathos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Skiathos Fest - International Folk-Dance & Music Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late June to early July (2026: 28 June - 2 July)",
+    "date": "2026-06-28",
+    "blurb": "An international folk-dance and music festival held at the main square of Skiathos Town, gathering folk ensembles, choirs and dance teams from across Europe. The XII edition runs 28 June to 2 July 2026.",
+    "source_url": "https://festival-association.eu/fest/508",
+    "image_url": ""
+   },
+   {
+    "name": "Bourtzi Cultural Festival (\"Dream on the Wave\")",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually July-August",
+    "date": "",
+    "blurb": "The Bourtzi Cultural Centre on the small peninsula in Skiathos Town hosts a summer programme of theatre, concerts, art exhibitions and literary readings, named after Alexandros Papadiamantis's novel \"Dream on the Wave.\"",
+    "source_url": "https://www.greeka.com/sporades/skiathos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Papadiamantis Days",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually September",
+    "date": "",
+    "blurb": "A literary symposium honouring Skiathos-born author Alexandros Papadiamantis, with narrations, musical evenings, exhibitions and guided walks along paths the writer described in his works.",
+    "source_url": "https://www.greeka.com/sporades/skiathos/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "langada-beach": {
+  "beach": "Langada Beach",
+  "town": "Adamas (Adamantas), Milos",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Feast of the Assumption of the Virgin Mary (Dekapentavgoustos) at Agia Triada, Adamas",
+    "type": "religious",
+    "recurring": true,
+    "when": "2026-08-15",
+    "date": "2026-08-15",
+    "blurb": "On August 15 a major feast (panigiri) is held in the courtyard of the Agia Triada (Holy Trinity) church in Adamas, the town next to Langada Beach, with traditional music, dancing, food and local Melian wine. It is one of the most popular celebrations on Milos.",
+    "source_url": "https://www.aegeanislands.gr/pois/milos-customs-festivals-en/",
+    "image_url": ""
+   },
+   {
+    "name": "Milos Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer (roughly July to September)",
+    "date": "",
+    "blurb": "The Festival of Milos is the island's main cultural event, running through the summer months with concerts, art and book exhibitions, dance, theatrical performances and activities for children at venues across the island, including Adamas, the town beside Langada Beach.",
+    "source_url": "https://www.greeka.com/cyclades/milos/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Holy Spirit feast at Agia Triada, Adamas",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in June (moveable, 50 days after Orthodox Easter)",
+    "date": "",
+    "blurb": "A moveable religious celebration of the Holy Spirit (Pentecost Monday) is held at the Agia Triada church in the centre of Adamas, near the port and Langada Beach.",
+    "source_url": "https://www.aegeanislands.gr/pois/milos-customs-festivals-en/",
+    "image_url": ""
+   },
+   {
+    "name": "Agia Marina panigiri",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually mid-July (around July 16-17)",
+    "date": "",
+    "blurb": "A traditional Milos panigiri honouring Saint Marina is held in mid-July at the chapels of Agia Marina, one of several summer village feasts on the island near Adamantas where visitors are treated to local food, wine, music and dancing.",
+    "source_url": "https://www.aegeanislands.gr/pois/milos-customs-festivals-en/",
+    "image_url": ""
+   }
+  ]
+ },
+ "mavra-volia": {
+  "beach": "Mavra Volia",
+  "town": "Emporios (Mastichochoria, southern Chios)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Dekapentaugoustos panigiria (Feast of the Virgin Mary, August 15)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually August 15",
+    "date": "2026-08-15",
+    "blurb": "August 15 (the Dormition of the Virgin Mary) is one of the two main feast days on Chios, marked by panigiria across the southern Mastic villages near Emporios with church services, traditional food, music and dancing.",
+    "source_url": "https://www.chios.gr/en/component/k2/item/111-dekapentaugoustos-sti-chio",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Agia Markella (St. Markella pilgrimage)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually July 22",
+    "date": "2026-07-22",
+    "blurb": "The largest religious celebration on Chios, held July 22 at the Monastery of Agia Markella near Volissos. Pilgrims travel from across the island and Greece, some walking the roughly 45 km from Chios Town, to honor the island's patron saint.",
+    "source_url": "https://www.greeka.com/eastern-aegean/chios/sightseeing/monastery-agia-markella/",
+    "image_url": ""
+   },
+   {
+    "name": "Chios Mastiha Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually summer (kicks off in June, peaks in August)",
+    "date": "",
+    "blurb": "A summer-long celebration of Chios mastic (mastiha), with cultural projects and events in Chios town, Kampos and the Mastic villages of southern Chios, tied to the traditional mastic harvest.",
+    "source_url": "https://www.chios.gr/en/festival",
+    "image_url": ""
+   }
+  ]
+ },
+ "mylopotamos-beach": {
+  "beach": "Mylopotamos Beach",
+  "town": "Tsagarada / Mouresi (East Pelion, Magnesia)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "PelionFestival (International Classical Music Festival)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually mid-to-late July; 2026 edition July 18-31",
+    "date": "2026-07-18",
+    "blurb": "Annual classical music festival across East Pelion mountain villages, featuring concerts, masterclasses and lectures. The 2026 program runs July 18-31 with performances staged in villages including Tsagarada and Kissos, near Mylopotamos Beach.",
+    "source_url": "https://www.pelionfestival.com/next-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Agia Marina Panigiri, Kissos",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 17 July",
+    "date": "2026-07-17",
+    "blurb": "On the feast day of Saint Marina, the nearby village of Kissos holds a large panigiri in its flagstoned square by the 17th-century Agia Marina church, with traditional Greek music and dancing open to all.",
+    "source_url": "https://www.greeka.com/thessaly/pelion/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Prophet Elias, Mouresi",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around 20 July",
+    "date": "",
+    "blurb": "Mouresi, the municipal village above Mylopotamos Beach, holds a traditional panigiri in the village square for the Feast of the Prophet Elias in July, with food, music and dancing.",
+    "source_url": "https://www.greeka.com/thessaly/pelion/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Dekapentavgoustos Panigiria (Dormition of the Virgin)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 15 August",
+    "date": "2026-08-15",
+    "blurb": "On 15 August most Pelion villages, including those around Tsagarada and Mouresi, celebrate the Dormition of the Virgin with open-air panigiria featuring traditional music, dancing and local food.",
+    "source_url": "https://www.greeka.com/thessaly/pelion/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "myrtiotissa-beach": {
+  "beach": "Myrtiotissa Beach",
+  "town": "Pelekas (Corfu), near Vatos",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Feast of Panagia Myrtidiotissa (Mirtiotissa Monastery)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 24 September",
+    "date": "2026-09-24",
+    "blurb": "The Holy Monastery of Panagia Myrtidiotissa, perched on the hillside just above Myrtiotissa Beach between Vatos and Pelekas, celebrates its patronal feast of the Virgin Mary Myrtidiotissa each 24 September with a liturgy and a traditional panigiri (festival) in nearby Vatos.",
+    "source_url": "https://golden-greece.gr/en/monasteries/ionio/kerkyra/moni-mytridiotissas",
+    "image_url": ""
+   },
+   {
+    "name": "Pelekas Village Festival (Panagia Odigitria)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually 23 August",
+    "date": "2026-08-23",
+    "blurb": "The village of Pelekas, the nearest hilltop settlement to Myrtiotissa Beach, holds its annual panigiri on 23 August in the square next to the church, with a morning liturgy followed by an evening of live Corfiot music, dancing and food.",
+    "source_url": "https://discover-corfu.com/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "otzias": {
+  "beach": "Otzias",
+  "town": "Korissia / Otzias, Kea (Tzia) island",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Panagia Kastriani Festival (Dormition of the Virgin Mary)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 15 August",
+    "date": "2026-08-15",
+    "blurb": "The island's largest panigiri, held at the cliff-top Panagia Kastriani monastery about 7 km east of Otzias beach, honoring the patron Virgin of Kea with a procession, liturgy, live island music, dancing, wine and a communal meal of patatato.",
+    "source_url": "https://www.greeka.com/cyclades/kea/sightseeing/monastery-kastriani/",
+    "image_url": ""
+   },
+   {
+    "name": "Agia Marina Fair",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 17 July",
+    "date": "2026-07-17",
+    "blurb": "A large summer fair on Kea dedicated to Agia Marina, one of the island's traditional patron-saint feasts celebrated in mid-summer with food, music and dancing.",
+    "source_url": "https://www.greeka.com/cyclades/kea/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Agia Triada (Holy Trinity Day) Feast",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in June (Holy Trinity / Pentecost Monday)",
+    "date": "",
+    "blurb": "A traditional celebration held in June at the seaside chapel of Agia Triada on Kea, featuring a feast where mules adorned with colorful rugs carry supplies up to the chapel.",
+    "source_url": "https://www.greeka.com/cyclades/kea/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Kea Fairy Tales Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in mid-summer",
+    "date": "",
+    "blurb": "An annual mid-summer storytelling festival on Kea where renowned Greek and foreign narrators read tales to children and adults.",
+    "source_url": "https://www.greeka.com/cyclades/kea/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "paltsi": {
+  "beach": "Paltsi",
+  "town": "Argalasti, South Pelion",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Argalasti Olive Festival (Festival of the Olive)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "Argalasti, the main village serving the Paltsi area, holds an annual Festival of the Olive in August celebrating the local olive harvest, alongside other cultural events including open-air theatre plays staged at nearby Korfos beach.",
+    "source_url": "https://www.greeka.com/thessaly/pelion/villages/argalasti/",
+    "image_url": ""
+   },
+   {
+    "name": "Agia Paraskevi Festival, Lafkos",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 26-27 July",
+    "date": "",
+    "blurb": "The largest panigiri (saint's-day festival) in the nearby South Pelion village of Lafkos, marking the feast of Agia Paraskevi with church services and live traditional music and dancing in the village square.",
+    "source_url": "https://lagouraxi.com/%CF%80%CE%B1%CE%BD%CE%B7%CE%B3%CF%8D%CF%81%CE%B9%CE%B1-festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Saint Athanasios Festival, Lafkos",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 1-2 May",
+    "date": "",
+    "blurb": "A traditional panigiri in nearby Lafkos honouring Saint Athanasios, featuring a liturgy with artoklasia (the blessing and sharing of bread), communal food, dancing and celebrations.",
+    "source_url": "https://lagouraxi.com/%CF%80%CE%B1%CE%BD%CE%B7%CE%B3%CF%8D%CF%81%CE%B9%CE%B1-festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Nativity of the Theotokos Festival, Lafkos",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 8-10 September",
+    "date": "",
+    "blurb": "A South Pelion panigiri in Lafkos celebrating the Nativity of the Theotokos, with a church service followed by a large celebration in the town square featuring live traditional music and dancing.",
+    "source_url": "https://lagouraxi.com/%CF%80%CE%B1%CE%BD%CE%B7%CE%B3%CF%8D%CF%81%CE%B9%CE%B1-festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "papa-nero-beach": {
+  "beach": "Papa Nero Beach",
+  "town": "Agios Ioannis, Pelion (Zagora-Mouresi, Magnesia)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Feast of Agios Ioannis (St. John) and the Klidonas custom",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late June (around 24 June, St. John's feast)",
+    "date": "",
+    "blurb": "The village of Agios Ioannis, immediately next to Papa Nero Beach, celebrates its patron saint with a religious feast (panigiri), during which the traditional Klidonas custom is revived. The celebration centers on the village chapel and includes food, music and dancing.",
+    "source_url": "https://travelthegreekway.com/agios-ioannis-in-pelion/",
+    "image_url": ""
+   },
+   {
+    "name": "Zagora Apple Festival (Giorti Milou)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually early September",
+    "date": "",
+    "blurb": "The town of Zagora, seat of the Zagora-Mouresi municipality that governs Agios Ioannis, holds an annual Apple Festival celebrating its renowned local apple production, with tastings, food, music and traditional dancing as part of the municipality's Cultural Summer events.",
+    "source_url": "https://www.greeka.com/thessaly/pelion/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Panigiri of Agios Ioannis Prodromos (Vizitsa)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 29 August",
+    "date": "",
+    "blurb": "A large panigiri (saint's-day festival) for Agios Ioannis Prodromos is held in the Pelion village of Vizitsa on 29 August, featuring traditional food, wine, music and dancing well into the night.",
+    "source_url": "https://www.greeka.com/thessaly/pelion/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Pelion / Zagora Cultural Summer (Politistiko Kalokairi)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually each summer (July-September)",
+    "date": "",
+    "blurb": "The Municipality of Zagora-Mouresi runs a Cultural Summer programme of musical, theatrical and traditional events across its villages (including the Agios Ioannis area) throughout the summer season.",
+    "source_url": "https://www.greeka.com/thessaly/pelion/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "pefkari": {
+  "beach": "Pefkari",
+  "town": "Limenaria (with Potos nearby), Thassos island",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Thassos Dance Festival \"Palataki\"",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer, Limenaria",
+    "date": "",
+    "blurb": "A three-day traditional Greek dance festival held in Limenaria, named after the early-1900s \"Palataki\" monument building. It features live folk orchestras, dance presentations over two nights, historical guides and local cuisine, organised by the Cultural Research Centre and the Limenaria cultural association.",
+    "source_url": "https://thassosfestival.gr/info-in-english",
+    "image_url": ""
+   },
+   {
+    "name": "Sardine Festival, Skala Kallirachi",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in summer",
+    "date": "",
+    "blurb": "A summer seaside feast near Limenaria celebrating Thassos's fishing tradition with grilled sardines, local drinks, music and dancing along the coast.",
+    "source_url": "https://staythassos.gr/thassos-festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "August Fires (Avgoustiatika), Limenaria",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on 31 July (eve of August)",
+    "date": "",
+    "blurb": "A traditional community gathering in Limenaria and other Thassos villages on the night of 31 July, marking the transition into August with small fires, music, food and drinks.",
+    "source_url": "https://staythassos.gr/thassos-festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Panagia (Dormition of the Virgin) Festival",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 15 August",
+    "date": "2026-08-15",
+    "blurb": "One of the most significant religious celebrations on Thassos, marked across the island with a church procession, feasting and night-long dancing in the village squares of Panagia and Theologos.",
+    "source_url": "https://www.rentacarpotos.gr/blog/summer-feasts-and-festivals-in-thassos/",
+    "image_url": ""
+   }
+  ]
+ },
+ "red-beach": {
+  "beach": "Red Beach",
+  "town": "Akrotiri (Santorini)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Festival of Agios Epifanios (Saint Epiphanius)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 12 May",
+    "date": "2026-05-12",
+    "blurb": "Saint Epiphanius is the patron saint of Akrotiri, the village above Red Beach, and his blue-domed church sits along the road connecting the village to the beach. The feast features a liturgy, traditional foods such as fava beans, capers, sardines and olives, and an evening folk-dance festival with dance groups from across Greece.",
+    "source_url": "https://www.exploring-greece.gr/en/show/47331/:ttd/PANIGIRI-AGIU-EPIFANIU",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of the Assumption of the Virgin Mary (Dekapentavgoustos)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 15 August",
+    "date": "2026-08-15",
+    "blurb": "On 15 August the village of Akrotiri, the nearest settlement to Red Beach, holds one of Santorini's major panigiria for the Assumption of the Virgin Mary, with church services followed by live music, traditional dancing and communal feasting.",
+    "source_url": "https://www.greeka.com/cyclades/santorini/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Agia Theodosia (Saint Theodosia)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 29 May",
+    "date": "2026-05-29",
+    "blurb": "The feast day of Agia Theodosia is celebrated at her church in Akrotiri village near Red Beach on 29 May, with religious services and local festivities for the community.",
+    "source_url": "https://www.greeka.com/cyclades/santorini/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "richtis-gorge": {
+  "beach": "Richtis Gorge",
+  "town": "Sitia (nearest town to Richtis Gorge beach; closest villages are Exo Mouliana and Kalavros)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Kornaria Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually, early July to mid-August",
+    "date": "",
+    "blurb": "Sitia's main annual cultural festival, named after the Cretan Renaissance poet Vitsentzos Kornaros, with concerts of music, dance and theatre, art and photography exhibitions, talks and sports events held at the Venetian Kazarma fortress and around town. It also incorporates village raki festivals (Kazanemata) and Klidonas celebrations.",
+    "source_url": "https://visitsitia.gr/en/cultural-events-en/",
+    "image_url": ""
+   },
+   {
+    "name": "Sultanina Raisin Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in mid-August (around August 15)",
+    "date": "",
+    "blurb": "A multi-day festival in Sitia celebrating the local sultanina grape and the start of the grape harvest, featuring traditional Cretan music and dance in the main square plus sultanina-inspired dishes in local eateries.",
+    "source_url": "https://www.greeka.com/crete/lassithi/news/events/sultanina-raisin-festival-in-sitia-crete/",
+    "image_url": ""
+   },
+   {
+    "name": "Mediterranean Festival of Sitia",
+    "type": "music",
+    "recurring": true,
+    "when": "annually, first Friday-Saturday-Sunday of July",
+    "date": "",
+    "blurb": "A three-day music festival in Sitia blending contemporary sounds with Greek and wider Mediterranean, Balkan and Eastern musical traditions, accompanied by exhibitions and creative workshops.",
+    "source_url": "https://visitsitia.gr/en/cultural-events-en/",
+    "image_url": ""
+   }
+  ]
+ },
+ "schinaria": {
+  "beach": "Schinaria",
+  "town": "Plakias (Lefkogia), Rethymno, Crete",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Feast of Agios Georgios (Saint George) in Plakias",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 23 April",
+    "date": "2026-04-23",
+    "blurb": "Plakias hosts one of the larger panigiria (traditional religious feasts) in the Rethymno region on the feast day of Saint George, with a church service followed by live Cretan music, food and dancing in the village.",
+    "source_url": "https://www.greeka.com/crete/festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Dormition of the Virgin Mary panigiri (Dekapentavgoustos)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 15 August",
+    "date": "2026-08-15",
+    "blurb": "On 15 August, the Dormition of the Virgin Mary is the largest religious festival across Crete, and villages around Plakias and Lefkogia (which has a church dedicated to the Virgin Mary) hold panigiria with traditional music, food and dancing.",
+    "source_url": "https://www.greeka.com/crete/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "synaksi": {
+  "beach": "Synaksi",
+  "town": "Maroneia",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Maroneia-Sapes Festival (Festival Maroneias-Sapon)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually from late June to September",
+    "date": "",
+    "blurb": "The annual cultural festival of the Maroneia-Sapes Municipality runs across the summer with theatrical performances, concerts, open-air cinema screenings and local cultural events. It is organized by the municipality with support from the Ministry of Culture and the Region of East Macedonia and Thrace.",
+    "source_url": "https://www.maroneiasapes.gov.gr/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Saint Charalambos (Agios Charalambos)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 10 February",
+    "date": "2026-02-10",
+    "blurb": "Saint Charalambos is the patron saint of Maroneia, and his feast is marked on 10 February with a church liturgy and a procession of the town's miraculous icon of the saint.",
+    "source_url": "https://mail.xronos.gr/koinonia/maroneia-litaneia-tis-thaymatoyrgis-eikonas-toy-agioy-haralampoys",
+    "image_url": ""
+   }
+  ]
+ },
+ "triopetra": {
+  "beach": "Triopetra",
+  "town": "Akoumia (Rethymno, Crete)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Dekapentavgoustos (Dormition of the Virgin Mary) Festival in Akoumia",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 15 August",
+    "date": "2026-08-15",
+    "blurb": "Akoumia, the traditional Cretan village nearest to Triopetra beach, keeps a lively atmosphere during summer and especially around the August 15th feast of the Dormition of the Virgin Mary, the major religious celebration of the Greek calendar.",
+    "source_url": "https://en.wikipedia.org/wiki/Akoumia",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of the Transfiguration of the Savior, Akoumia",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 6 August",
+    "date": "2026-08-06",
+    "blurb": "The Church of the Savior Christ (Sotiras Christos) at Akoumia is dedicated to the Transfiguration of the Savior, which is celebrated on 6 August.",
+    "source_url": "https://www.cretanbeaches.com/en/religious-monuments-on-crete/inactive-monasteries-and-hermitages/the-monasterial-monuments-of-agios-vasilios/christ-church-at-akoumia",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Saint Onoufrios, Akoumia",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 12 June",
+    "date": "2026-06-12",
+    "blurb": "The historic Saint Onoufrios chapel, set in a ravine of the Siderotas range above Akoumia near Triopetra, marks its feast day on 12 June, the commemoration of Saint Onuphrius.",
+    "source_url": "https://www.cretanbeaches.com/en/religious-monuments-on-crete/inactive-monasteries-and-hermitages/the-monasterial-monuments-of-agios-vasilios/saint-onoufrios-monastery-akoumia",
+    "image_url": ""
+   }
+  ]
+ },
+ "vatsa-bay": {
+  "beach": "Vatsa Bay",
+  "town": "Lixouri (Paliki peninsula, Kefalonia)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Lixouri Carnival (Karnavali Lixouriou)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in the weeks before Clean Monday (Feb/Mar); 2026 grand parade 22 Feb 2026",
+    "date": "2026-02-22",
+    "blurb": "Lixouri hosts one of Kefalonia's most famous carnivals with thematic groups and a grand parade. The 2026 season culminates in the main carnival parade on 22 February, the day before Clean Monday.",
+    "source_url": "https://visitkefaloniaisland.gr/carnival-season-in-kefalonia-the-unique-carnival-of-lixouri/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of the Assumption of the Virgin Mary (Dekapentavgoustos)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 15 August",
+    "date": "2026-08-15",
+    "blurb": "On 15 August Lixouri marks the Feast of the Assumption with a church service followed by a lively panigiri featuring traditional Kefalonian music, dance and local food in the town. Village squares across Paliki hold their own celebrations on the eve.",
+    "source_url": "https://www.fzeenretreats.com/august-festivities-kefalonia/",
+    "image_url": ""
+   },
+   {
+    "name": "Varkarola (Varkaroles) of Lixouri",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually late August",
+    "date": "",
+    "blurb": "Local fishing boats are decorated with colourful lights and parade past the Lixouri waterfront while singers perform traditional Kefalonian 'kantades' for spectators along the harbour.",
+    "source_url": "https://visitkefaloniaisland.gr/august-in-kefalonia-a-month-full-of-festivals-and-cultural-events-2/",
+    "image_url": ""
+   },
+   {
+    "name": "Kefalonia Gym Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually late June; 2026 edition 25-28 June",
+    "date": "2026-06-25",
+    "blurb": "One of the largest 'Gymnastics for All' events in Greece and Europe, this four-day festival stages performances by athletic groups in different parts of Kefalonia, including Lixouri.",
+    "source_url": "https://kefaloniagymfestival.gr/",
+    "image_url": ""
+   }
+  ]
+ },
+ "xi-beach": {
+  "beach": "Xi Beach",
+  "town": "Lixouri (Mantzavinata), Kefalonia",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Mantzavinata Wine Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "A traditional wine festival held each August in the village of Mantzavinata, roughly 2-4 km from Xi Beach, organized by the local cultural association in the former school courtyard. It celebrates the village's wine-making heritage with local wine, live music and dancing.",
+    "source_url": "https://en.wikipedia.org/wiki/Mantzavinata",
+    "image_url": ""
+   },
+   {
+    "name": "Lixouri Carnival (Apokries)",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-02-22 (grand parade)",
+    "date": "2026-02-22",
+    "blurb": "Kefalonia's largest and most famous carnival, held in the town of Lixouri (nearest town to Xi Beach) in the weeks before Orthodox Lent. Known for its satirical floats and big street parade, with the grand parade scheduled for 22 February 2026.",
+    "source_url": "https://visitkefaloniaisland.gr/carnival-season-in-kefalonia-the-unique-carnival-of-lixouri/",
+    "image_url": ""
+   },
+   {
+    "name": "Lixouri Festival of Gastronomy & Wine",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in summer",
+    "date": "",
+    "blurb": "A festival held in Lixouri's main square featuring live cooking shows with local products, regional wine, music and dancing. It showcases Paliki peninsula gastronomy in the town nearest Xi Beach.",
+    "source_url": "https://kefaloniaway.com/en/whats-on-in-kefalonia/",
+    "image_url": ""
+   }
+  ]
+ },
+ "zacharo-beach": {
+  "beach": "Zacharo Beach",
+  "town": "Zacharo (Ilia, Peloponnese)",
+  "country": "Greece",
+  "events": [
+   {
+    "name": "Agios Spyridon Feast (Patron Saint of Zacharo)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 12 December",
+    "date": "",
+    "blurb": "Zacharo celebrates its patron saint, Agios Spyridon, with a large procession at his hilltop church on 12 December.",
+    "source_url": "https://zacharonews.gr/",
+    "image_url": ""
+   },
+   {
+    "name": "Profitis Ilias Panigiri",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 20 July",
+    "date": "",
+    "blurb": "A traditional local panigiri (saint's-day festival) honouring the Prophet Elijah (Profitis Ilias) is held in the Zacharo area each 20 July.",
+    "source_url": "https://zacharonews.gr/",
+    "image_url": ""
+   },
+   {
+    "name": "Zacharo Carnival (Apokries)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in late winter / early spring (Carnival season)",
+    "date": "",
+    "blurb": "The town holds an annual Carnival celebration with parades and festivities during the pre-Lenten Apokries season.",
+    "source_url": "https://zacharonews.gr/",
+    "image_url": ""
+   },
+   {
+    "name": "Kakovatos Olive Festival (Elaias Paramythia)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "An olive and local-produce festival held in Kakovatos near Zacharo, celebrating the area's olive cultivation and agricultural heritage.",
+    "source_url": "",
+    "image_url": ""
+   }
+  ]
  }
 }

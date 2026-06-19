@@ -273,5 +273,677 @@
     "image_url": ""
    }
   ]
+ },
+ "baia-del-silenzio": {
+  "beach": "Baia Del Silenzio",
+  "town": "Sestri Levante",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Barcarolata",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in summer (2026: 26 July)",
+    "date": "2026-07-26",
+    "blurb": "A traditional nighttime water parade held right in the Baia del Silenzio, where boats decorated with papier-mache and lights compete in a creative procession, concluding with a fireworks display over the bay. The event dates back to the 1960s.",
+    "source_url": "https://www.comune.sestri-levante.ge.it/vivere-il-comune/eventi/barcarolata-2025/",
+    "image_url": ""
+   },
+   {
+    "name": "Andersen Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in early June (2026: 4-7 June)",
+    "date": "2026-06-04",
+    "blurb": "Sestri Levante's annual festival of theatre, storytelling, music and street art, themed in 2026 around 'the Present'. It is tied to the historic Premio Andersen fairy-tale award, reflecting the town's nickname 'Baia delle Favole' (Bay of Fables), the cove adjacent to the Baia del Silenzio.",
+    "source_url": "https://andersensestri.it/",
+    "image_url": ""
+   }
+  ]
+ },
+ "baja-sardinia-beach": {
+  "beach": "Baja Sardinia Beach",
+  "town": "Arzachena",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Rassegna Internazionale del Folclore Citta di Arzachena",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on 13 August",
+    "date": "2026-08-13",
+    "blurb": "An international folklore showcase held every 13 August in the streets of Arzachena for over two decades, featuring traditional dance and music groups and drawing thousands of locals and tourists.",
+    "source_url": "https://www.comune.arzachena.ss.it/novita/comunicato-stampa/arzachena-eventi-2025-il-13-giugno-al-via-il-calendario-estivo-nel-centro-e-nei-borghi",
+    "image_url": ""
+   },
+   {
+    "name": "Festival delle Fisarmoniche",
+    "type": "music",
+    "recurring": true,
+    "when": "annually on 18 August",
+    "date": "2026-08-18",
+    "blurb": "A festival in Arzachena dedicated to the accordion, an instrument central to traditional Sardinian dance music and song, held each year on 18 August.",
+    "source_url": "https://www.costasmeralda.it/en/article/religious-festivals-and-folklore-in-sardinia-must-see-events-in-august/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa Patronale di San Giovanni Battista (Cannigione - Gulf of Arzachena)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around 22-24 June",
+    "date": "2026-06-24",
+    "blurb": "The patron-saint festival of Cannigione and the Gulf of Arzachena, blending religion, folklore and food with a seaside procession and the traditional propitiatory fire-jumping ritual.",
+    "source_url": "https://arzachenaturismo.com/eventi/462157/festa-patronale-san-giovanni-battista",
+    "image_url": ""
+   },
+   {
+    "name": "Arzachena Summer Festival (Estate ad Arzachena)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually from June through summer",
+    "date": "",
+    "blurb": "Arzachena's official summer programme of more than 60 events spanning the town centre, the villages and resorts like Baja Sardinia, with concerts, cultural appointments, sport and traditional festivals.",
+    "source_url": "https://www.comune.arzachena.ss.it/novita/comunicato-stampa/arzachena-eventi-2025-il-13-giugno-al-via-il-calendario-estivo-nel-centro-e-nei-borghi",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-civette": {
+  "beach": "Cala Civette",
+  "town": "Scarlino",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Grey Cat Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late July to mid-August",
+    "date": "",
+    "blurb": "Long-running Tuscan jazz festival (over 45 editions) staged across Maremma towns, with concerts held in Scarlino at the Rocca Pisana castle. It is co-promoted by the municipality of Scarlino alongside Follonica, Grosseto and other Maremma towns.",
+    "source_url": "https://www.eventimusicpool.it/grey-cat-2025/",
+    "image_url": ""
+   },
+   {
+    "name": "Le Carriere del Diciannove",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually around 19 August",
+    "date": "",
+    "blurb": "Historical folklore festival in Scarlino commemorating the town's 1855 deliverance from a cholera epidemic, featuring contrade in Renaissance costume competing in a relay race (carriera) and archery at the Rocca. The celebration also includes a procession for the Beato Tommaso (Beato Tomma).",
+    "source_url": "https://www.comune.scarlino.gr.it/it/news/tutto-pronto-per-le-carriere-del-diciannove",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra del Pesce",
+    "type": "food",
+    "recurring": true,
+    "when": "annually early September",
+    "date": "",
+    "blurb": "Traditional fish festival held in Scarlino celebrating local seafood, part of the town's summer-into-autumn calendar of community events.",
+    "source_url": "https://www.visitmaremmanord.com/en/evento/652/scarlino-unestate-di-cultura-spettacolo-e-comunita",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-del-leone": {
+  "beach": "Cala Del Leone",
+  "town": "Quercianella (Livorno), Tuscany",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di Sant'Anna (Quercianella patron saint feast)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around 26 July",
+    "date": "",
+    "blurb": "Quercianella's patron saint feast honours Sant'Anna, celebrated on 26 July when the parish community gathers in Piazza Fattori and processes to the garden of the Suore Passioniste.",
+    "source_url": "https://www.lasettimanalivorno.it/Parrocchie/Sant-Anna-patrona-di-Quercianella",
+    "image_url": ""
+   },
+   {
+    "name": "Effetto Venezia",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-07-29 to 2026-08-02",
+    "date": "2026-07-29",
+    "blurb": "Livorno's flagship summer festival animates the historic Venezia canal district with live music, shows, markets and lights; the 41st edition runs 29 July to 2 August 2026 with artists including The Kolors and Ron.",
+    "source_url": "https://www.comune.livorno.it/it/news/effetto-venezia-2026-la-41a-edizione-celebra-le-nuove-generazioni",
+    "image_url": ""
+   },
+   {
+    "name": "Cacciucco Pride",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late August",
+    "date": "",
+    "blurb": "A Livorno food festival celebrating cacciucco, the city's iconic fish stew, with local restaurants serving themed menus alongside music and cultural events; the 2025 edition ran 22-24 August.",
+    "source_url": "https://cacciuccopridelivorno.it/",
+    "image_url": ""
+   },
+   {
+    "name": "Quercianella Run",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually (summer)",
+    "date": "",
+    "blurb": "A non-competitive running event in Quercianella with 18, 12 and 6 km routes through the hills and along the coast, starting from Via del Littorale.",
+    "source_url": "https://www.livornosera.it/eventi-livorno/quercianella-da-maggio-a-gennaio-un-cartellone-ricco-di-eventi/",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-fuili": {
+  "beach": "Cala Fuili",
+  "town": "Cala Gonone (Dorgali), Sardinia",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Cala Gonone Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in July (2026: 9, 24-25, 31 July - 1 Aug)",
+    "date": "2026-07-09",
+    "blurb": "Long-running seaside jazz festival in Cala Gonone, the coastal village of Dorgali, reaching its 39th edition in 2026 with leading names from the Italian and international jazz scene.",
+    "source_url": "https://www.calagononejazzfestival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra del Pesce / Festa della Madonna del Mare",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late May",
+    "date": "",
+    "blurb": "Decades-old fish festival on the port square of Cala Gonone, where the Pro Loco of Dorgali serves fried fish from a giant pan alongside local wines, cheeses and sweets, an artisan market, Sardinian dances and folklore.",
+    "source_url": "https://www.calagonone.eu/last-news/eventi/62-sagra-del-pesce-a-cala-gonone",
+    "image_url": ""
+   },
+   {
+    "name": "Ferragosto Dorgalese - Processione dell'Assunta",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually mid-August (around 15 Aug)",
+    "date": "2026-08-15",
+    "blurb": "Traditional Feast of the Assumption in Dorgali and Cala Gonone, with a religious procession plus folkloric events and celebrations across the mid-August period.",
+    "source_url": "https://dorgaligonone.it/en/events-and-traditions/",
+    "image_url": ""
+   },
+   {
+    "name": "Autunno in Barbagia",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in autumn (Sept-Dec, set weekend for Dorgali)",
+    "date": "",
+    "blurb": "Itinerant autumn festival across the Barbagia region of Sardinia in which Dorgali opens its courtyards, workshops and homes to showcase local crafts, food and traditions.",
+    "source_url": "https://dorgaligonone.it/en/events-and-traditions/",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-luna": {
+  "beach": "Cala Luna",
+  "town": "Cala Gonone (Dorgali), Sardinia",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Cala Gonone Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually mid-July to early August (2026: 9 July - 1 August)",
+    "date": "",
+    "blurb": "Long-running seaside jazz festival held in Cala Gonone, the coastal village of Dorgali nearest to Cala Luna, with concerts including some in the Bue Marino caves. The 2026 edition is its 39th, running 9 July to 1 August.",
+    "source_url": "https://dorgaligonone.it/en/events-and-traditions/cala-gonone-jazz-festival-eng/",
+    "image_url": ""
+   },
+   {
+    "name": "Fire of Sant'Antonio Abate",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 16-17 January",
+    "date": "2026-01-16",
+    "blurb": "Traditional Sardinian bonfire feast honoring Saint Anthony the Abbot, lit on the night of 16 January in Dorgali. The local fire uses only rosemary ('Su Romasinu') for its distinctive fragrance, and children try to grab oranges before the flames.",
+    "source_url": "https://www.sardegnacultura.it/en/articles/fuoco-di-sant-antonio-abate-a-dorgali",
+    "image_url": ""
+   },
+   {
+    "name": "Ferragosto Dorgalese (Processione dell'Assunta)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 15 August",
+    "date": "2026-08-15",
+    "blurb": "Assumption Day (Ferragosto) celebration in Dorgali featuring the procession of the Assunta. A major mid-August religious and community event near Cala Luna.",
+    "source_url": "https://dorgaligonone.it/en/events-and-traditions/",
+    "image_url": ""
+   },
+   {
+    "name": "Autunno in Barbagia (Dorgali)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in autumn (September-December weekends)",
+    "date": "",
+    "blurb": "Regional autumn cultural circuit in which Dorgali opens its courtyards, workshops and craft and food traditions to visitors. Part of the wider Barbagia autumn open-house program.",
+    "source_url": "https://dorgaligonone.it/en/events-and-traditions/",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-sisine": {
+  "beach": "Cala Sisine",
+  "town": "Baunei (Cala Sisine is in the municipality of Baunei; nearest coastal town/frazione is Santa Maria Navarrese)",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Sagra del Maialetto (Suckling Pig Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually mid-to-late July (2026 edition: 18 July)",
+    "date": "2026-07-18",
+    "blurb": "Baunei's most popular food festival, held in Piazza Bingigedda in the village centre, serving slow-roasted Sardinian suckling pig with local cheese, pane carasau and red wine, followed by traditional music and dancing. The XXII edition is scheduled for 18 July 2026, organised by the Pro Loco of Baunei and Santa Maria Navarrese.",
+    "source_url": "https://www.vistanet.it/ogliastra/2026/06/19/torna-uno-degli-eventi-piu-amati-dellogliastra-a-baunei-la-xxii-sagra-del-maialetto/",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra della Carne di Capra (Goat Meat Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in the second half of August (around Ferragosto)",
+    "date": "",
+    "blurb": "A long-running festival in Santa Maria Navarrese (Baunei's coastal frazione, near Cala Sisine), now in its 40-plus editions, where spit-roasted goat meat is served at communal tables in Piazza Principessa di Navarra near the beach. It traces back to the tradition of welcoming pilgrims arriving for Ferragosto.",
+    "source_url": "https://www.unionesarda.it/news-sardegna/ogliastra/baunei-a-santa-maria-navarrese-tutto-pronto-per-la-quarantesima-edizione-della-sagra-della-carne-di-capra-sgeook03",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di San Pietro",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in late June (around 29 June)",
+    "date": "",
+    "blurb": "Baunei's patron saint festival, with religious processions accompanying the statue of Saint Peter through the village and out to the Golgo plain, alongside parades of traditional Sardinian costumes and horses.",
+    "source_url": "https://www.bynostravel.de/en/events-baunei-sardegna/",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra dei Culurgiones",
+    "type": "food",
+    "recurring": true,
+    "when": "annually (summer)",
+    "date": "",
+    "blurb": "A festival in Baunei celebrating culurgiones, the hand-pleated stuffed pasta that is one of Ogliastra's gastronomic specialities, served with traditional music and local conviviality.",
+    "source_url": "https://www.traccedisardegna.it/sagre/sagra-dei-culurgiones-di-baunei",
+    "image_url": ""
+   }
+  ]
+ },
+ "cala-violina": {
+  "beach": "Cala Violina",
+  "town": "Scarlino",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Le Carriere del 19",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually mid-August, culminating 19 August",
+    "date": "2026-08-19",
+    "blurb": "A historical and folkloric reenactment in the medieval village of Scarlino, commemorating the end of an 1855 cholera epidemic. Held over three days culminating on 19 August, the town's districts (Centro, Rocca, San Donato) compete in costumed processions, archery, flag-throwing and a relay foot race that gives the festival its name.",
+    "source_url": "https://www.maremmaoggi.net/a-scarlino-tornano-le-carriere-del-19/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di San Martino di Tours (Patron Saint Feast)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 11 November",
+    "date": "2026-11-11",
+    "blurb": "Scarlino celebrates its patron saint, San Martino di Tours, at the village's Church of San Martino with a Holy Mass, the traditional blessing of the new wine, and community refreshments featuring local products. The feast is a key moment of local identity and tradition.",
+    "source_url": "https://www.ilgiunco.net/evento/scarlino-celebra-il-patrono-san-martino-messa-benedizione-del-vino-disegni-e-rinfresco/",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra del Marrone (Chestnut Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in autumn (October/November)",
+    "date": "",
+    "blurb": "An autumn food festival in Scarlino celebrating the local marrone chestnut, with roasted chestnuts, typical Maremma dishes and stalls, often coinciding with end-of-October Halloween festivities in the village.",
+    "source_url": "https://corrieredimaremma.it/news/home/310114/scarlino-tante-occasioni-per-far-festa-la-sagra-del-marrone-e-halloween.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "calamoresca": {
+  "beach": "Calamoresca",
+  "town": "Piombino",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Sagra del Pesce di Piombino",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late July",
+    "date": "",
+    "blurb": "A long-running seafood festival held on Piazza Bovio, the seafront terrace overlooking the sea, famous for a giant frying pan (about 2.5 meters across) in which fish is fried in around 120 kg of oil on the closing night. Specialties include boiled octopus and anchovies in pesto.",
+    "source_url": "https://www.folclore.eu/eventi/sagra-del-pesce-piombino/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa della Palamita",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in May",
+    "date": "",
+    "blurb": "A gastronomic festival celebrating the palamita (bonito), a blue fish typical of the Tuscan coast, with tasting stands of local dishes paired with wines from the Tuscan hills. It is one of the area's most appreciated food events.",
+    "source_url": "https://www.terradeglietruschi.it/guide-mare-toscana/eventi/la-palamita.aspx",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di Sant'Anastasia (Palio degli Arcieri)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around May 8",
+    "date": "",
+    "blurb": "Piombino celebrates its patron saint Sant'Anastasia on May 8 with religious services in the Concattedrale di Sant'Antimo and a historical medieval reenactment, the Palio degli Arcieri (archery tournament), a tradition rooted in a 1472 decree of the city's Council of Elders.",
+    "source_url": "https://www.diocesimassamarittima.it/festa-di-santanastasia/",
+    "image_url": ""
+   }
+  ]
+ },
+ "calamosche-beach": {
+  "beach": "Calamosche Beach",
+  "town": "Noto / Marzamemi, Sicily",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Infiorata di Noto",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually mid-May (2026: May 15-19)",
+    "date": "2026-05-15",
+    "blurb": "Noto's famous flower festival, where Via Corrado Nicolaci is covered in an enormous carpet made entirely of flower petals. The 2026 edition runs May 15-19 with a Pop Culture theme.",
+    "source_url": "https://www.visitsicily.info/en/evento-new/noto-flower-festival-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival del Pesce Azzurro (Blue Fish Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late June/early July (2026: July 2-5)",
+    "date": "2026-07-02",
+    "blurb": "A four-day food festival in the fishing village of Marzamemi celebrating blue fish (sardines, anchovies, mackerel) with tastings, cooking shows, stands of local producers, and evening live music.",
+    "source_url": "https://sagr.it/en/sicily/syracuse-and-surroundings/events/festival-del-pesce-azzurro",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of St. Francis of Paola (Festa di San Francesco di Paola)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "Marzamemi's patronal festival honoring the patron saint of fishermen, featuring a maritime procession, live music, and fireworks.",
+    "source_url": "https://italoamericano.org/marzamemi/",
+    "image_url": ""
+   }
+  ]
+ },
+ "capriccioli": {
+  "beach": "Capriccioli",
+  "town": "Arzachena (Costa Smeralda, Sardinia)",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Rassegna del Folklore di Arzachena (International Folklore Festival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on 13 August",
+    "date": "2026-08-13",
+    "blurb": "A long-running folklore showcase held every 13 August in Arzachena, gathering folk groups from across Sardinia to present traditional music, dance and costumes, accompanied by Gallura and Sardinian food specialities.",
+    "source_url": "https://www.costasmeralda.it/en/article/religious-festivals-and-folklore-in-sardinia-must-see-events-in-august/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa dei Santi Patroni di Arzachena (Sant'Antonio, Sant'Isidoro e Maria della Neve)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "Arzachena's patron saint festival honouring Sant'Antonio, Sant'Isidoro and Maria della Neve, with religious processions plus an entertainment programme of concerts and events held in the town centre.",
+    "source_url": "https://arzachenaturismo.com/eventi/485932/festa-santi-patroni-arzachena",
+    "image_url": ""
+   },
+   {
+    "name": "Carnevale di Arzachena (Lu Carrasciali Alzachinesu)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in February/March (Carnival season)",
+    "date": "",
+    "blurb": "Arzachena's traditional carnival features allegorical floats and masked groups parading through the town and the villages of Porto Cervo and Cannigione, with music and local sweets such as frittelle.",
+    "source_url": "https://www.sassaritoday.it/eventi/programma-carnevale-2026-arzachena.html",
+    "image_url": ""
+   },
+   {
+    "name": "Rally Costa Smeralda Storico",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in late April",
+    "date": "2026-04-24",
+    "blurb": "A historic-car regularity rally based in the Costa Smeralda / Arzachena area, with the 9th edition scheduled for 24-25 April 2026.",
+    "source_url": "https://arzachenaturismo.com/eventi",
+    "image_url": ""
+   }
+  ]
+ },
+ "eloro-beach": {
+  "beach": "Eloro Beach",
+  "town": "Noto (Lido di Noto), Sicily",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Infiorata di Noto (Noto Flower Festival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually the third weekend of May (2026: May 15-19)",
+    "date": "2026-05-15",
+    "blurb": "Noto's famous flower festival fills Via Corrado Nicolaci with elaborate floral carpets created by master artists; the 47th edition runs May 15-19, 2026 on the theme 'Pop Culture Tells Its Story'. It regularly draws over 200,000 visitors.",
+    "source_url": "https://www.visitsicily.info/en/evento-new/noto-flower-festival-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di San Corrado (Summer Feast)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually the last Sunday of August",
+    "date": "",
+    "blurb": "Noto's patron saint San Corrado Confalonieri is celebrated with a procession of the silver urn holding his relics through the Baroque town, accompanied by traditional 'cilii' candle-bearers and the Fair of San Corrado. The summer feast commemorates his beatification.",
+    "source_url": "https://www.enjoysicilia.it/en/events/festa-estiva-san-corrado-noto/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di San Corrado (Winter Feast)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on February 19",
+    "date": "2026-02-19",
+    "blurb": "The winter feast of Noto's patron saint marks the death of the hermit San Corrado, with a procession of his silver reliquary urn carried on bearers' shoulders, preceded by confraternities and decorative 'cilii' candles.",
+    "source_url": "https://www.enjoysicilia.it/en/events/festa-invernale-di-san-corrado-noto/",
+    "image_url": ""
+   },
+   {
+    "name": "Sicily Music Festival & Competition",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in July (2026: July 12-20)",
+    "date": "2026-07-12",
+    "blurb": "An international music festival and competition held in Noto, scheduled for July 12-20, 2026, bringing classical and other musical performances to the Baroque town near Eloro Beach.",
+    "source_url": "https://sicilymusicfestival.com/",
+    "image_url": ""
+   }
+  ]
+ },
+ "fiascherino": {
+  "beach": "Fiascherino",
+  "town": "Tellaro (Lerici), Liguria",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Sagra del Polpo di Tellaro (Octopus Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually, second Sunday of August",
+    "date": "",
+    "blurb": "Tellaro's famous octopus festival commemorates a local legend in which an octopus rang the church bell to warn villagers of a pirate raid; the seaside village serves octopus dishes and hosts celebrations.",
+    "source_url": "https://www.liguriainfesta.com/sagre/sagra-del-polpo-di-tellaro-a-lerici.htm",
+    "image_url": ""
+   },
+   {
+    "name": "Lerici Music Festival 2026",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-07-22 to 2026-08-02",
+    "date": "2026-07-22",
+    "blurb": "Annual classical music festival in Lerici and the Gulf of Poets, with concerts, opera and multimedia performances staged at venues such as Villa Marigola, churches and outdoor spaces. The 2026 edition runs July 22 to August 2.",
+    "source_url": "https://lericimusicfestival.org/",
+    "image_url": ""
+   },
+   {
+    "name": "Notte Romantica nei Borghi piu Belli d'Italia (Tellaro)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in June; 2026 edition on June 20",
+    "date": "2026-06-20",
+    "blurb": "Tellaro, one of the Borghi piu Belli d'Italia, takes part in the nationwide Romantic Night with evening events and a romantic atmosphere in the historic village near Fiascherino.",
+    "source_url": "https://lericicoast.it/eventi/categoria/estate-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di San Giorgio (Tellaro patron saint)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on April 23",
+    "date": "2026-04-23",
+    "blurb": "Tellaro celebrates its patron saint San Giorgio with a traditional feast day on April 23.",
+    "source_url": "https://discoverportovenere.com/tellaro-fiascherino-san-terenzo-liguria/",
+    "image_url": ""
+   }
+  ]
+ },
+ "la-marmorata": {
+  "beach": "La Marmorata",
+  "town": "Santa Teresa Gallura",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "P.I.G. (Pesce In Gallura)",
+    "type": "food",
+    "recurring": true,
+    "when": "2026-05-30 to 2026-06-01 (annually late May/early June)",
+    "date": "2026-05-30",
+    "blurb": "Three-day food, wine and seafood festival in Piazza della Liberta and the historic center of Santa Teresa Gallura, with local fish products, marine workshops, live music and DJ sets. The 8th edition runs 30 May to 1 June 2026.",
+    "source_url": "https://www.santateresagalluraturismo.com/en/news-en/p-i-g-2026-8th-edition/",
+    "image_url": ""
+   },
+   {
+    "name": "Gallura Buskers Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-07-09 to 2026-07-12 (annually in July)",
+    "date": "2026-07-09",
+    "blurb": "International street-performance festival bringing artists from around the world to Santa Teresa Gallura for free shows of juggling, acrobatics, magic, clowning, aerial acts, music and street theater. The 14th edition takes place 9 to 12 July 2026.",
+    "source_url": "https://www.gallurabuskers.it/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa Patronale di Santa Teresa Gallura",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually mid-October (14-16 October)",
+    "date": "",
+    "blurb": "The town's patronal feast honors its three patron saints, San Vittorio (14 October), Santa Teresa d'Avila (15 October) and Sant'Isidoro (16 October), with processions, masses and community celebrations.",
+    "source_url": "https://www.santateresagalluraturismo.com/en/events-in-santa-teresa-gallura/",
+    "image_url": ""
+   }
+  ]
+ },
+ "lazzaretto": {
+  "beach": "Lazzaretto",
+  "town": "Alghero, Sardinia",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Sant Miquel Festival",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually mid-to-late September (approx 14-29 Sept)",
+    "date": "",
+    "blurb": "Alghero's patron saint festival honouring St Michael, running about two weeks in September with religious rites, concerts, theatre, exhibitions and food-and-wine events culminating on the saint's day.",
+    "source_url": "https://comune.alghero.ss.it/it/vivere-il-comune/eventi/evento/Sant-Miquel/",
+    "image_url": ""
+   },
+   {
+    "name": "Cap d'Any de l'Alguer",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late November to 6 January",
+    "date": "",
+    "blurb": "Alghero's long-running Christmas and New Year programme with a Santa Claus village, Christmas market, ice rink and major concerts at Piazzale della Pace around 29-31 December.",
+    "source_url": "https://www.fondazionealghero.it/tipologia_attivita/calendario-eventi/",
+    "image_url": ""
+   },
+   {
+    "name": "JazzAlguer",
+    "type": "music",
+    "recurring": true,
+    "when": "annually April to late October",
+    "date": "",
+    "blurb": "International jazz festival held across Alghero's countryside and historic venues (Nuraghe Palmavera, Sella & Mosca, Santa Maria La Palma), spread over roughly seven months from spring to autumn.",
+    "source_url": "https://www.visititaly.eu/places-to-go/sardinia/activities/events-in-sardinia/jazzalguer",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of St John the Baptist (St John's Fires)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around 23-24 June",
+    "date": "",
+    "blurb": "Midsummer celebration marking the start of the season, with bonfires lit on the beach near Alghero, food-and-wine stalls and concerts.",
+    "source_url": "https://www.aigua.it/Alghero-Events.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "lecciona": {
+  "beach": "Lecciona",
+  "town": "Torre del Lago Puccini (Viareggio), Tuscany",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festival Puccini (Puccini Opera Festival)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually mid-July to early September; 2026: 17 July - 5 September",
+    "date": "2026-07-17",
+    "blurb": "Annual open-air opera festival held at the Gran Teatro Giacomo Puccini in Torre del Lago, beside Lake Massaciuccoli near Lecciona beach. The 72nd edition runs from 17 July to 5 September 2026, staging Puccini works including Turandot, Tosca, La Boheme and Madama Butterfly.",
+    "source_url": "https://www.puccinifestival.it/en/puccini_festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Carnevale di Viareggio (Viareggio Carnival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually February; 2026: 1-21 February",
+    "date": "2026-02-01",
+    "blurb": "One of Italy's most famous carnivals, held in nearby Viareggio with giant papier-mache allegorical floats parading along the seafront promenade. The 2026 edition runs across six masked parades from 1 to 21 February.",
+    "source_url": "https://www.visittuscany.com/en/events/viareggio-carnival/",
+    "image_url": ""
+   },
+   {
+    "name": "Torre Pride Fest (Marina di Torre del Lago)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer (typically August)",
+    "date": "",
+    "blurb": "A queer summer festival that turns the Marina district of Torre del Lago, long established as an Italian gay-friendly resort near Lecciona beach, into a month-long rainbow village with club nights, drag shows and events centered on the Mamamia venue.",
+    "source_url": "https://www.visittuscany.com/en/ideas/carnevale-e-comunita-lgbtq-storia-di-un-legame-indissolubile/",
+    "image_url": ""
+   }
+  ]
  }
 }
