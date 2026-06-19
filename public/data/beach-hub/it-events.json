@@ -945,5 +945,1168 @@
     "image_url": ""
    }
   ]
+ },
+ "lido-comunale-zerbi": {
+  "beach": "Lido Comunale Zerbi",
+  "town": "Reggio Calabria",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Feast of the Madonna della Consolazione",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually, second Saturday of September (four days)",
+    "date": "",
+    "blurb": "Reggio Calabria's main religious and civic celebration, honoring the city's beloved patroness. A sacred painting of the Madonna is carried in procession on a five-metre shoulder-borne 'Vara' from the Basilica dell'Eremo to the Cathedral, accompanied by masses, music and food festivals over four days.",
+    "source_url": "https://turismo.reggiocal.it/en/religious-spirit/spirituality-territory-reggio/feast-madonna-della-consolazione",
+    "image_url": ""
+   },
+   {
+    "name": "Bergare - Festival del Bergamotto",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in October",
+    "date": "",
+    "blurb": "An annual festival held at the Castello Aragonese in Reggio Calabria celebrating bergamot, the citrus symbol of Calabria. Promoted by the local Chamber of Commerce, it features tastings, talks and events along the Lungomare Falcomata waterfront.",
+    "source_url": "https://sagritaly.com/territorio/eventi-e-sagre/bergafest/",
+    "image_url": ""
+   },
+   {
+    "name": "ReggioFest",
+    "type": "music",
+    "recurring": true,
+    "when": "annually, summer season",
+    "date": "",
+    "blurb": "A diffused-culture festival across Reggio Calabria featuring major concerts, urban theatre and live entertainment in public squares such as Piazza del Popolo.",
+    "source_url": "https://calabriastraordinaria.it/en/events/reggiofest",
+    "image_url": ""
+   }
+  ]
+ },
+ "lido-di-pomposa": {
+  "beach": "Lido Di Pomposa",
+  "town": "Comacchio (Lidi di Comacchio / Lidi Ferraresi), Province of Ferrara, Emilia-Romagna",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Carnevale d'Estate - Compleanno dei Lidi Pomposa e Scacchi (Summer Carnival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually on 8 August",
+    "date": "2026-08-08",
+    "blurb": "A summer carnival held every 8 August to celebrate the 'birthday' of Lido di Pomposa and the neighbouring Lido degli Scacchi, with the allegorical floats of the Carnevale di Pitoch parading along the seafront, music and entertainment, ending in a midnight fireworks display over the sea.",
+    "source_url": "https://www.ferraraterraeacqua.it/it/comacchio/eventi/manifestazioni-e-iniziative/sagre-feste/carnevale-destate",
+    "image_url": ""
+   },
+   {
+    "name": "La Notte Rosa - Hit's Summer (Riviera di Comacchio)",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-06-19 to 2026-06-21",
+    "date": "2026-06-19",
+    "blurb": "The Emilia-Romagna coast's 'Pink Night' kick-off, with the 2026 'Hit's Summer' edition bringing three nights of free open-air concerts (including artists such as LDA, Aka7even and Fred De Palma at the nearby Lido degli Scacchi), DJ sets, light shows and fireworks across the Comacchio beaches.",
+    "source_url": "https://www.visitcomacchio.it/it/eventi/giugno-2026/notte-rosa-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra dell'Anguilla (Eel Festival), Comacchio",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late September to mid-October (2026: 26-28 Sep, 2-5 Oct, 10-12 Oct)",
+    "date": "2026-09-26",
+    "blurb": "Comacchio's renowned eel festival, held over several autumn weekends in the historic town centre near the Trepponti bridge and the Manifattura dei Marinati, with traditional roasted eel and lagoon fish dishes, wine tastings, markets, concerts and guided excursions.",
+    "source_url": "https://www.sagradellanguilla.it/",
+    "image_url": ""
+   },
+   {
+    "name": "Mercatino serale del lunedì (Monday Evening Market), Lido di Pomposa",
+    "type": "market",
+    "recurring": true,
+    "when": "Monday evenings, early June to early September",
+    "date": "",
+    "blurb": "A weekly evening street market held on Mondays through the summer season at Lido di Pomposa, with stalls along the resort offering local crafts, clothing and food.",
+    "source_url": "https://www.visitcomacchio.it/it/scopri/le-spiagge/conosciamo-meglio-i-7-lidi/lido-di-pomposa",
+    "image_url": ""
+   }
+  ]
+ },
+ "marina-di-orosei": {
+  "beach": "Marina Di Orosei",
+  "town": "Orosei",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di San Giacomo (Patron Saint Festival)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around 25 July",
+    "date": "2026-07-25",
+    "blurb": "Orosei's main patron-saint feast honouring San Giacomo (Saint James), featuring a religious procession, parades of traditional Sardinian costumes, folk performances, poetry competitions in Sardinian, fireworks and food stands. It is the town's most important annual celebration.",
+    "source_url": "https://www.italia-italy.org/evt17628-eventi-orosei/festa-san-giacomo-orosei",
+    "image_url": ""
+   },
+   {
+    "name": "Sardinia World Chess Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually early May (2026: 3-10 May)",
+    "date": "2026-05-03",
+    "blurb": "An international open chess festival held at the Club Hotel Marina Beach in Orosei, drawing hundreds of players from dozens of countries; the 2026 third edition featured top grandmasters and a prize fund of over EUR 50,000.",
+    "source_url": "https://www.fide.com/sardinia-world-chess-festival-returns-for-third-edition-with-strongest-field-yet/",
+    "image_url": ""
+   },
+   {
+    "name": "Sagre estive di Orosei (summer food festivals)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually during summer (notably July)",
+    "date": "",
+    "blurb": "Orosei hosts a series of traditional summer food festivals, including the Sagra del Dolce (sweets) and sagre of local breads such as pane lentu and purpuzza, with tastings of Sardinian cuisine, music and dance.",
+    "source_url": "https://www.itinerarinelgusto.it/en/sardinia/orosei-nu",
+    "image_url": ""
+   }
+  ]
+ },
+ "piscinas": {
+  "beach": "Piscinas",
+  "town": "Arbus (Costa Verde, Sardinia)",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di Sant'Antonio di Padova",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually mid-June (2026: June 13-16)",
+    "date": "2026-06-13",
+    "blurb": "A major annual religious festival shared by Arbus, Guspini and the hamlet of Sant'Antonio di Santadi, featuring one of the longest processions in the region with horsemen, folk groups and ox-drawn carts, plus communal meals, live music and fireworks. In 2026 it runs June 13-16.",
+    "source_url": "https://www.sardegnatomorrow.it/medio-campidano/news/arbus-celebra-la-festa-di-santantonio-2026-tra-tradizione-e-devozione",
+    "image_url": ""
+   },
+   {
+    "name": "S'Atobiu de is Tracas",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually late June (2026: June 27)",
+    "date": "2026-06-27",
+    "blurb": "A traditional parade of decorated children's carts (tracas) held in Arbus, with an exhibition of cart models and evening entertainment, closing the Sant'Antonio festival period.",
+    "source_url": "https://www.sardegnatomorrow.it/medio-campidano/news/arbus-celebra-la-festa-di-santantonio-2026-tra-tradizione-e-devozione",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra del Cinghiale (Wild Boar Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in spring",
+    "date": "",
+    "blurb": "A local food festival in Arbus celebrating wild boar, a traditional dish of the inland Sardinian countryside, with tastings and community events.",
+    "source_url": "https://www.traccedisardegna.it/eventi/sagra-del-cinghiale-di-arbus-ecco-programma-del-22-maggio",
+    "image_url": ""
+   }
+  ]
+ },
+ "porto-ferro": {
+  "beach": "Porto Ferro",
+  "town": "Alghero",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Focs de Sant Joan (Feast of St John the Baptist)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually, night of 23-24 June",
+    "date": "2026-06-23",
+    "blurb": "Alghero celebrates its patron saint and the summer solstice with the lighting of St John's bonfires (Focs de Sant Joan) on the beach, alongside ancient rites, a midnight swim, music and food stalls that mark the start of the summer season.",
+    "source_url": "https://www.bonsaialghero.it/festa-di-san-giovanni-ad-alghero.html",
+    "image_url": ""
+   },
+   {
+    "name": "Settimana Santa di Alghero (Holy Week)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually during Holy Week; 2026: 27 March - 12 April",
+    "date": "2026-04-03",
+    "blurb": "Alghero's Holy Week rites, rooted in centuries-old Spanish Catalan traditions, feature solemn processions across the old town, culminating in the Good Friday procession and concluding with fireworks on Holy Saturday.",
+    "source_url": "https://www.insardegnacondani.it/eventi/settimana-santa-alghero/",
+    "image_url": ""
+   },
+   {
+    "name": "Bogamari (Sea Urchin) Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually every weekend in March",
+    "date": "",
+    "blurb": "A traditional sea urchin food festival held on Alghero's Lungomare Barcellona every weekend in March, celebrating the local 'bogamari' (sea urchin) cuisine with stalls and tastings.",
+    "source_url": "https://www.aigua.it/Alghero-Events.html",
+    "image_url": ""
+   },
+   {
+    "name": "Cap d'Any (New Year and Christmas season)",
+    "type": "seasonal",
+    "recurring": true,
+    "when": "annually late November - 6 January",
+    "date": "",
+    "blurb": "Alghero's festive season runs from late November to Epiphany, with a Santa's village, Christmas markets, an ice rink, street performances and New Year's Eve celebrations across the city.",
+    "source_url": "https://www.aigua.it/Alghero-Events.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "rabbit-beach": {
+  "beach": "Rabbit Beach",
+  "town": "Lampedusa",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di San Bartolomeo",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 24 August",
+    "date": "2026-08-24",
+    "blurb": "Lampedusa celebrates its apostle San Bartolomeo with religious rites, a procession, the traditional lighting of a wooden-pyramid bonfire recalling the saint's martyrdom, and evening fireworks over the port.",
+    "source_url": "https://www.enjoysicilia.it/it/events/festa-san-bartolomeo-a-lampedusa/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa della Madonna di Porto Salvo",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually, culminating on 22 September (processions begin the first Sunday of September)",
+    "date": "2026-09-22",
+    "blurb": "The feast of Lampedusa's patron, the Madonna di Porto Salvo, protector of fishermen, includes a sea procession of fishing boats, processions through the streets, and concludes with a fish festival (Sagra del Pesce), band concerts and fireworks.",
+    "source_url": "https://www.enjoysicilia.it/it/events/festa-madonna-di-porto-salvo-a-lampedusa/",
+    "image_url": ""
+   }
+  ]
+ },
+ "romazzino-beach": {
+  "beach": "Romazzino Beach",
+  "town": "Porto Cervo (Arzachena), Sardinia",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Maxi Yacht Rolex Cup",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-09-06 to 2026-09-12 (annually early-mid September)",
+    "date": "2026-09-06",
+    "blurb": "The premier international maxi yacht regatta, organised by the Yacht Club Costa Smeralda in Porto Cervo with racing across the La Maddalena Archipelago. The 2026 edition is its 36th.",
+    "source_url": "https://www.yccs.it/regate-2026/maxi_yacht_rolex_cup-3344/doc-1656/bando_di_regata",
+    "image_url": ""
+   },
+   {
+    "name": "Porto Cervo Wine & Food Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in spring (2026 edition held May 7-10)",
+    "date": "2026-05-07",
+    "blurb": "A major Italian wine and gastronomy festival held in Porto Cervo, gathering around 60 wine and spirits exhibitors plus food producers. The 2026 edition was the 15th.",
+    "source_url": "https://www.pcwff.com/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Lu Carrasciali Alzachinesu (Arzachena Carnival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually around February (2026 opened February 12)",
+    "date": "2026-02-12",
+    "blurb": "One of Gallura's most distinctive Carnival celebrations, featuring allegorical floats, masked groups and around a thousand performers in parades spanning Arzachena's old town and the villages of Porto Cervo and Cannigione.",
+    "source_url": "https://www.costasmeralda.it/en/article/lu-carrasciali-alzachinesu-2026-the-arzachena-carnival/",
+    "image_url": ""
+   },
+   {
+    "name": "Costa Smeralda Summer Events (Porto Cervo)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually summer (June to mid-September)",
+    "date": "",
+    "blurb": "A summer-long programme of free events organised by the Costa Smeralda Consortium in Porto Cervo, including concerts, exhibitions, a literary review (Porto Cervo Libri), children's shows and evenings of Sardinian tradition.",
+    "source_url": "https://www.costasmeralda.it/en/category/events/",
+    "image_url": ""
+   }
+  ]
+ },
+ "scivu": {
+  "beach": "Scivu",
+  "town": "Arbus (Costa Verde, Sardinia)",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di San Sebastiano Martire",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in January (2026: 16-24 January)",
+    "date": "2026-01-16",
+    "blurb": "Arbus honours its patron saint San Sebastiano with a multi-day program of religious processions, bonfires, music, choirs, square dances and fireworks. The 2026 edition runs 16-24 January.",
+    "source_url": "https://arbus.it/it/festa-di-san-sebastiano-martire-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di Sant'Antonio di Santadi",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually mid-June (2026: 13-16 June)",
+    "date": "2026-06-13",
+    "blurb": "A major religious festival shared by Arbus, Guspini and the Sant'Antonio di Santadi hamlet, featuring one of the longest and most evocative processions in the area, plus street food, music and pyrotechnic shows.",
+    "source_url": "https://www.sardegnatoujours.com/festa-di-santantonio-di-santadi-programma/",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra della Pecora Nera di Arbus",
+    "type": "food",
+    "recurring": true,
+    "when": "annually the last weekend of July",
+    "date": "",
+    "blurb": "A multi-day food festival in the Arbus countryside dedicated to the local 'pecora nera' (black sheep) breed, with tastings, workshops, debates and demonstrations of traditional Sardinian cuisine.",
+    "source_url": "http://www.arbusturismo.it/it/territorio/tradizioni/sagra-della-pecora-nera/index.html",
+    "image_url": ""
+   },
+   {
+    "name": "Festa della Madonna d'Itria (Nostra Signora d'Itria)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late May / early June",
+    "date": "",
+    "blurb": "A traditional religious feast in Arbus dedicated to Nostra Signora d'Itria, combining processions and church rites with community celebrations.",
+    "source_url": "https://www.paradisola.it/eventi-sardegna/5603-maggio-2026",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-berchida": {
+  "beach": "Spiaggia Berchida",
+  "town": "Siniscola",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di San Giovanni Battista (Patron Saint Festival)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 24 June",
+    "date": "2026-06-24",
+    "blurb": "Siniscola's main patron saint festival, held in the town centre with numerous stalls selling traditional food and drink, concerts and religious and civil events.",
+    "source_url": "https://visitsiniscola.com/feste-e-sagre/",
+    "image_url": ""
+   },
+   {
+    "name": "Sant'Antonio Abate (Su Ramasinu)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 16-17 January",
+    "date": "2026-01-16",
+    "blurb": "Traditional festival featuring the lighting of a large rosemary and cistus bonfire in the town square, accompanied by traditional sweets, wine and the local fava bean dish (Sa Favata).",
+    "source_url": "https://visitsiniscola.com/feste-e-sagre/",
+    "image_url": ""
+   },
+   {
+    "name": "Stella Maris (Capo Comino)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually first Sunday of August",
+    "date": "",
+    "blurb": "Coastal celebration at Capo Comino, near the Berchida area, with vendor stalls and concerts honouring the Madonna of the sea.",
+    "source_url": "https://visitsiniscola.com/feste-e-sagre/",
+    "image_url": ""
+   },
+   {
+    "name": "Nostra Signora delle Grazie",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around 8 October",
+    "date": "2026-10-08",
+    "blurb": "One of Siniscola's largest celebrations, a multi-day event drawing thousands of people, with games, food stalls and traditional Sardinian Tenores singing and polyphonic choirs.",
+    "source_url": "https://visitsiniscola.com/feste-e-sagre/",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-dei-pescatori": {
+  "beach": "Spiaggia Dei Pescatori",
+  "town": "Ischia (Ischia Ponte), Ischia Island, Campania",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa a Mare agli Scogli di Sant'Anna",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually on 26 July",
+    "date": "2026-07-26",
+    "blurb": "Ischia's most famous folk festival, held each 26 July in the Cartaromana bay beside the Aragonese Castle, just along the coast from Spiaggia dei Pescatori. A parade of decorated boats representing the island's municipalities competes for a prize, followed by a theatrical 'burning' of the castle and a large fireworks display.",
+    "source_url": "https://www.ischia.it/en/sant-anna-celebration-2022",
+    "image_url": ""
+   },
+   {
+    "name": "Ischia Film Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-06-27 to 2026-07-04",
+    "date": "2026-06-27",
+    "blurb": "An annual international film competition focused on cinematic locations, held in the 16th-century Aragonese Castle near Ischia Ponte. The 24th edition is scheduled for 27 June to 4 July 2026.",
+    "source_url": "https://www.ischiafilmfestival.it/index.php/en/partecipa-n/iscrizioni",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-del-lido-di-orri": {
+  "beach": "Spiaggia Del Lido Di Orri",
+  "town": "Tortolì (Arbatax), Ogliastra, Sardinia",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di San Lussorio",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually mid-to-late August (around the third Sunday)",
+    "date": "",
+    "blurb": "Tortolì's patron-saint feast honoring the 4th-century martyr San Lussorio, with solemn masses, a procession bearing the saint's statue, the traditional ox-yoke 'S'Imbidu' auction, folklore dances, concerts, food stands of Ogliastra dishes and fireworks in the historic center.",
+    "source_url": "https://www.vistanet.it/ogliastra/2025/08/18/festas-sartu-tortoli-si-prepara-a-celebrare-san-lussorio-il-programma-completo-dei-festeggiamenti-tra-tradizione-e-comunita/",
+    "image_url": ""
+   },
+   {
+    "name": "Carnevale di Tortolì",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-03-01",
+    "date": "2026-03-01",
+    "blurb": "Carnival celebrations in Tortolì featuring traditional Sardinian masks, including visiting groups such as S'Urtzu e sa Mamulada di Seui, Mamutzones de Samugheo and the Bois of Escalaplano.",
+    "source_url": "https://www.eventiinsardegna.it/evento/carnevale-a-tortoli/",
+    "image_url": ""
+   },
+   {
+    "name": "Rocce Rosse Blues Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in summer (June-August)",
+    "date": "",
+    "blurb": "Long-running blues and music festival named after the Rocce Rosse (Red Rocks) of Arbatax in Tortolì, where its first editions were staged; it has hosted artists such as David Bowie, Eric Clapton and Patti Smith and now tours venues across Ogliastra and Sardinia each summer.",
+    "source_url": "https://www.roccerosse.it/il-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Sa Festa Antiga",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in May",
+    "date": "",
+    "blurb": "A spring event in Tortolì recreating traditional life of old Ogliastra, with artisanal crafts, sea heritage and local food and flavors.",
+    "source_url": "https://www.tortoli.com/en/category/scopri/feste-e-sagre/",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-del-relitto-la-maddalena": {
+  "beach": "Spiaggia Del Relitto La Maddalena",
+  "town": "La Maddalena (Caprera island), Sardinia",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di Santa Maria Maddalena (Patron Saint Feast)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 22 July",
+    "date": "2026-07-22",
+    "blurb": "The most important annual event on La Maddalena, honoring the town's patron saint Saint Mary Magdalene with a religious procession plus civil celebrations including outdoor music, sporting events and folk entertainment in the days around 22 July.",
+    "source_url": "https://www.parrocchiasantamariamaddalena.it/domani-la-festa-patronale-in-onore-di-s-maria-maddalena/",
+    "image_url": ""
+   },
+   {
+    "name": "Commemoration of Giuseppe Garibaldi's Death at Caprera",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually around 2 June",
+    "date": "2026-06-02",
+    "blurb": "An annual ceremony at Giuseppe Garibaldi's tomb at the Compendio Garibaldino on Caprera (the island where Spiaggia del Relitto is located), with civil and military authorities, an armed guard of honor, the local band and floral wreaths marking the anniversary of his death.",
+    "source_url": "https://www.garibaldicaprera.beniculturali.it/",
+    "image_url": ""
+   },
+   {
+    "name": "VELA Cup La Maddalena",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in June",
+    "date": "",
+    "blurb": "A popular amateur sailing regatta held in the waters of the La Maddalena archipelago, drawing many boats to race in one of the Mediterranean's most scenic settings, with social events ashore.",
+    "source_url": "https://www.giornaledellavela.com/2023/05/25/vela-cup-la-maddalena-the-legendary-regatta-in-the-caribbean-of-the-mediterranean/?lang=en",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-della-pelosa": {
+  "beach": "Spiaggia Della Pelosa",
+  "town": "Stintino",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Regata della Vela Latina (Raduno dei 45)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in summer (mid-August) and September",
+    "date": "",
+    "blurb": "Stintino is regarded as Italy's capital of lateen-sail (vela latina) sailing and hosts the country's most important regatta of these traditional boats. The associated 'Raduno dei 45' commemorates the 45 families exiled from Asinara who founded Stintino in 1885.",
+    "source_url": "https://www.comune.stintino.ss.it/index.php/tzente/articoli/414",
+    "image_url": ""
+   },
+   {
+    "name": "Festa della Beata Vergine della Difesa",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in early June",
+    "date": "2026-06-06",
+    "blurb": "Stintino's three-day patronal feast of the Blessed Virgin of Defence, during which a procession carries the statue of the Madonna to the sea aboard a fleet of local fishing boats, laying a laurel wreath in memory of those lost at sea.",
+    "source_url": "https://www.visititaly.eu/places-and-tours/sardinia-5-reasons-to-visit-stintino",
+    "image_url": ""
+   },
+   {
+    "name": "Estate Stintinese (Stintino Summer events)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually June to September",
+    "date": "",
+    "blurb": "Stintino's official summer programme of concerts, cultural evenings and events held throughout the village during the high season.",
+    "source_url": "https://visitstintino.it/it/la-pelosa/",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-delle-bombarde": {
+  "beach": "Spiaggia Delle Bombarde",
+  "town": "Alghero",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Focs de Sant Joan (Feast of San Giovanni Battista)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around 23-24 June (summer solstice)",
+    "date": "2026-06-24",
+    "blurb": "Alghero's midsummer feast for Saint John the Baptist, with bonfires (focs) lit in the historic centre and ancient seashore rituals tied to the solstice. The Catalan-rooted celebration includes music, traditions and dawn bathing in the sea.",
+    "source_url": "https://comune.alghero.ss.it/it/vivere-il-comune/eventi/evento/Focs-de-Sant-Joan/",
+    "image_url": ""
+   },
+   {
+    "name": "Jazz Alguer Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually May to October",
+    "date": "",
+    "blurb": "A long-running jazz festival held across Alghero from late spring through autumn, with concerts staged in atmospheric venues such as wineries, squares and archaeological sites. It is one of the most respected events on the Italian jazz scene.",
+    "source_url": "https://algheroturismo.eu/",
+    "image_url": ""
+   },
+   {
+    "name": "Sant Miquel Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late September to early October",
+    "date": "",
+    "blurb": "Alghero's festival honouring its patron saint San Michele (Sant Miquel in Catalan), with several days of concerts, exhibitions and food events in the old town. It marks the end of the summer season.",
+    "source_url": "https://algheroturismo.eu/event/sant-miquel-festival-2025/",
+    "image_url": ""
+   },
+   {
+    "name": "Cap d'Any de l'Alguer",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late November through 6 January, with New Year's Eve concerts",
+    "date": "",
+    "blurb": "Alghero's winter and New Year celebration featuring open-air concerts, street theatre, markets, an ice rink and a Santa's Village. The Catalan-named festival culminates in a large New Year's Eve event in the city.",
+    "source_url": "https://www.shmag.it/eventi/26_11_2025/cap-dany-ad-alghero-2026/",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-di-albisola-marina": {
+  "beach": "Spiaggia Di Albisola Marina",
+  "town": "Albissola Marina",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festival della Maiolica",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually early June (2026: 5-7 June)",
+    "date": "2026-06-05",
+    "blurb": "A ceramics and arts festival spanning the 'Baia della Ceramica' coast between Savona, Albissola Marina, Albisola Superiore and Celle Ligure, with over fifty exhibitions, installations, workshops and guided tours. Albissola Marina hosts highlights including the open-air 'Cena in Bianco e Blu' communal dinner in the historic centre.",
+    "source_url": "https://www.savonanews.it/2026/05/27/leggi-notizia/argomenti/eventi-spettacoli/articolo/la-riviera-della-ceramica-si-accende-torna-il-festival-della-maiolica-tra-arte-giardini-e-laborato.html",
+    "image_url": ""
+   },
+   {
+    "name": "Buongiorno Ceramica!",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually late May (2026: 23-24 May)",
+    "date": "2026-05-23",
+    "blurb": "National celebration of Italy's ceramic cities, held in around 60 towns; in Albissola Marina (a historic ceramics centre) it brings open workshops, installations and exhibitions, with the 2026 edition themed on water.",
+    "source_url": "https://www.buongiornoceramica.it/programma-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa Patronale di Nostra Signora della Concordia (Nativity of the Virgin Mary)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 8 September",
+    "date": "2026-09-08",
+    "blurb": "Albissola Marina's patron-saint feast on 8 September, dedicated to the Nativity of the Blessed Virgin Mary, with religious celebrations centred on the Church of Nostra Signora della Concordia and a long communal table filling the pedestrian historic centre.",
+    "source_url": "https://www.ivg.it/2025/09/un-settembre-ancora-ricco-di-appuntamenti-ad-albissola-marina/",
+    "image_url": ""
+   },
+   {
+    "name": "Il Natale delle Albisole (Christmas events)",
+    "type": "seasonal",
+    "recurring": true,
+    "when": "annually December (Christmas season)",
+    "date": "",
+    "blurb": "Christmas-season programme across Albissola Marina and Albisola Superiore, including the inauguration of the nativity scene (presepe) at the Church of N.S. della Concordia and festive activities in the town centre.",
+    "source_url": "https://www.albisolaturismo.it/index.php/eventi",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-di-barbarossa": {
+  "beach": "Spiaggia Di Barbarossa",
+  "town": "Porto Azzurro",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di San Giacomo (Festa del Pescatore)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 25 July",
+    "date": "",
+    "blurb": "Porto Azzurro honours its patron saint San Giacomo on 25 July with the traditional Festa del Pescatore (Fisherman's Festival), when the village is decorated as an old maritime town with food stands and a period-costume re-enactment of the saint's life.",
+    "source_url": "https://www.elbalink.it/eventi-porto-azzurro/",
+    "image_url": ""
+   },
+   {
+    "name": "Notte Azzurra",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "An August summer night festival when the streets of Porto Azzurro fill with live music and entertainment until late, and the main square becomes a large open-air dance venue.",
+    "source_url": "https://www.elbalink.it/eventi-porto-azzurro/",
+    "image_url": ""
+   },
+   {
+    "name": "Festeggiamenti della Madonna di Monserrato",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 2-8 September",
+    "date": "",
+    "blurb": "Celebrations of the Madonna di Monserrato run from 2 to 8 September, with a historical and cultural focus that highlights the heritage of traditions inherited from the Spanish crown that once ruled the area.",
+    "source_url": "https://www.elbaenjoy.it/en/porto-azzurro/",
+    "image_url": ""
+   },
+   {
+    "name": "Processione di San Carmine e Palio Remiero",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually mid-July",
+    "date": "",
+    "blurb": "A religious procession in honour of San Carmine held in mid-July, accompanied by a traditional rowing race (palio remiero) in the harbour of Porto Azzurro.",
+    "source_url": "https://www.elbalink.it/eventi-porto-azzurro/",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-di-calamosca": {
+  "beach": "Spiaggia Di Calamosca",
+  "town": "Cagliari, Sardinia",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Feast of Sant'Efisio (Festa di Sant'Efisio)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually May 1-4",
+    "date": "2026-05-01",
+    "blurb": "Cagliari's most important traditional festival, held every May 1-4 since 1657 to fulfill a vow made during the 1652 plague. A multi-day procession in regional dress carries the statue of Sant'Efisio from Cagliari to Nora and back.",
+    "source_url": "https://santefisiomartire.it/en/programme-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Poetto Fest",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late May / early June 2026 (May 29 - June 1)",
+    "date": "2026-05-29",
+    "blurb": "An open-air music festival on Cagliari's coast featuring dozens of Italian artists across rap, pop, dance and urban genres. The 2026 edition runs four days at the Arena Village near the beach with views toward the Sella del Diavolo headland.",
+    "source_url": "https://cagliariturismo.comune.cagliari.it/en/events/poetto-fest-2026",
+    "image_url": ""
+   },
+   {
+    "name": "World Triathlon Championship Series Cagliari",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually (recent editions held in Cagliari at Poetto beach)",
+    "date": "",
+    "blurb": "An elite international triathlon round held in Cagliari, with the swim leg staged off Poetto beach near the Sella del Diavolo and Sant'Elia promontory close to Calamosca. The Olympic-format race features a 1,500m swim, 40km bike and 10km run.",
+    "source_url": "https://cagliari.triathlon.org/",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-di-cavoli": {
+  "beach": "Spiaggia Di Cavoli",
+  "town": "Marina di Campo (Campo nell'Elba), Elba Island, Tuscany",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa Patronale di San Gaetano",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 7 August",
+    "date": "2026-08-07",
+    "blurb": "Marina di Campo celebrates its patron saint San Gaetano every August 7th with a solemn Mass, an evening procession carrying the saint's statue through the town and onto the sea, live music in Piazza della Vittoria, and a midnight fireworks display over the gulf.",
+    "source_url": "https://www.elbaworld.com/eventi-campo-nell-elba/p-434-san-gaetano.html",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra del Totano",
+    "type": "food",
+    "recurring": true,
+    "when": "annually mid-November",
+    "date": "",
+    "blurb": "A gastronomic festival organized by the Amici del Porto association at Marina di Campo, held over two days in November, celebrating locally caught squid (totano) with food stands at the harbour.",
+    "source_url": "https://www.quinewselba.it/campo-nell-elba-tutto-pronto-per-la-sagra-del-totano.htm",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-di-fano": {
+  "beach": "Spiaggia Di Fano",
+  "town": "Fano",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Carnevale di Fano",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in February (2026: Feb 1, 8 and 15)",
+    "date": "2026-02-01",
+    "blurb": "One of the oldest carnivals in Italy, documented since 1347, with allegorical float parades, the famous 'Getto' (throwing of sweets from the floats) and the closing Rogo del Pupo. It draws around 100,000 visitors each year.",
+    "source_url": "https://www.italia.it/en/marche/things-to-do/fano-carnival-the-oldest-in-italy",
+    "image_url": ""
+   },
+   {
+    "name": "BrodettoFest",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late May/early June (2026: May 30 - June 2)",
+    "date": "2026-05-30",
+    "blurb": "A seafood-cuisine festival on Fano's waterfront (Lido) celebrating the local 'brodetto' fish soup, with a Taste Village, cooking competitions, food stands, shows and music. The 2026 edition is the 24th.",
+    "source_url": "https://www.italia.it/en/marche/pesaro-urbino/things-to-do/brodetto-fest-2026-fano-event",
+    "image_url": ""
+   },
+   {
+    "name": "La Fano dei Cesari",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in July (2026: July 4-12)",
+    "date": "2026-07-04",
+    "blurb": "A historical reenactment recreating Roman-era Fanum Fortunae, with costumed parades, Roman camps, gladiator displays and a chariot race (corsa delle bighe) between the city's four factions.",
+    "source_url": "https://www.lafanodeicesari.it/",
+    "image_url": ""
+   },
+   {
+    "name": "Sopravènto",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in May (2026: May 15-17)",
+    "date": "2026-05-15",
+    "blurb": "A music-and-sea festival in Fano with live performances by Italian artists, including a free sunrise concert on the Spiaggia Sassonia / Largo Rastatt beachfront.",
+    "source_url": "https://www.megamodo.com/sopravento-2026-musica-mare-fano-maglio/",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-di-fetovaia": {
+  "beach": "Spiaggia Di Fetovaia",
+  "town": "Marina di Campo (Campo nell'Elba, Elba Island)",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di San Gaetano (Patronal Festival of Marina di Campo)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on August 7",
+    "date": "2026-08-07",
+    "blurb": "Marina di Campo, the main town near Fetovaia beach, celebrates its patron saint San Gaetano each August 7 with sailing regattas in the bay, a Holy Mass and street procession, a sea procession carrying the saint's statue on a fishing boat to bless the gulf, and a fireworks display over the sea at midnight.",
+    "source_url": "https://www.elbaworld.com/eventi-campo-nell-elba/p-434-san-gaetano.html",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di San Lorenzo (Patron Festival of Seccheto)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around August 10 (San Lorenzo)",
+    "date": "",
+    "blurb": "Seccheto, the village immediately neighbouring Fetovaia, celebrates its patron San Lorenzo with a traditional festa around 10 August. It is the closest community festival to the Fetovaia beach.",
+    "source_url": "https://www.elbaworld.com/en/events/p-504-events-campo-nell-elba.html",
+    "image_url": ""
+   },
+   {
+    "name": "Corsa degli Asini (Donkey Race), Marina di Campo",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on the third Sunday of January",
+    "date": "",
+    "blurb": "A traditional and humorous donkey race held in Marina di Campo on the third Sunday of January, a long-running local winter folklore event in the Campo nell'Elba area.",
+    "source_url": "https://www.elbaworld.com/en/events/p-504-events-campo-nell-elba.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-di-funtanazza": {
+  "beach": "Spiaggia Di Funtanazza",
+  "town": "Arbus, Sardinia (Costa Verde)",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di Sant'Antonio di Santadi",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually mid-June (2026: 13-16 June)",
+    "date": "2026-06-13",
+    "blurb": "Religious feast where the statue of Sant'Antonio is carried from Arbus by an ox-drawn cart to the Sant'Antonio di Santadi hamlet, in one of the longest processions in Europe, with field blessings, street food and fireworks.",
+    "source_url": "https://www.sardegnatoujours.com/festa-di-santantonio-di-santadi-programma/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di San Sebastiano Martire",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 20 January (bonfires the eve before)",
+    "date": "2026-01-20",
+    "blurb": "Patron-saint celebration in Arbus; on the eve, bonfires are lit in the town's main neighbourhoods and local products are shared among the community.",
+    "source_url": "https://arbus.it/it/eventi/",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra della Pecora Nera di Arbus",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late July / early August",
+    "date": "",
+    "blurb": "Food festival celebrating Arbus's black sheep, with tastings of locally raised sheep meat cooked according to traditional methods.",
+    "source_url": "https://arbus.it/it/eventi/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di San Lussorio Martire",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around 21 August (locally 'sa festa manna')",
+    "date": "",
+    "blurb": "The feast in honour of San Lussorio Martire, formerly the town's patron saint, is Arbus's biggest annual celebration, held around the saint's liturgical day in late August.",
+    "source_url": "https://arbus.it/it/festa-di-san-lussorio-martire-2024/",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-di-li-cossi": {
+  "beach": "Spiaggia Di Li Cossi",
+  "town": "Trinità d'Agultu e Vignola (Costa Paradiso / Isola Rossa), Sardinia",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa della Musica e Yoga Day - Isola Rossa",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-06-21",
+    "date": "2026-06-21",
+    "blurb": "On the summer solstice the waterfront of Isola Rossa (the coastal village of Trinità d'Agultu e Vignola) hosts a free open-air musical marathon with over 20 artists and DJ sets from late afternoon to midnight, paired with a yoga and sound-bath session. Organized by the Municipality and Pro Loco Territorio Costa Rossa.",
+    "source_url": "https://www.insardegnacondani.it/eventi/festa-della-musica-isola-rossa/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa della Birra Trinitàiese (Trinitàiese Beer Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually mid-August (Ferragosto weekend)",
+    "date": "",
+    "blurb": "A long-running beer festival held over the Ferragosto weekend in Trinità d'Agultu, reaching its 27th edition in 2025. It combines craft beer, street food and Gallura specialities with live music and popular traditions.",
+    "source_url": "https://www.insardegnacondani.it/eventi/festa-della-birra-trinitaiese-2025/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa Patronale della Santissima Trinità",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in early June (2026-06-06)",
+    "date": "2026-06-06",
+    "blurb": "The patron saint feast of Trinità d'Agultu e Vignola, dedicated to the Holy Trinity from which the town takes its name, celebrated annually in early June.",
+    "source_url": "https://www.feste-sagre.it/c-L428-1-eventi-trinita_d_agultu_e_vignola",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-di-mari-ermi": {
+  "beach": "Spiaggia Di Mari Ermi",
+  "town": "Cabras (Sinis Peninsula, Province of Oristano, Sardinia)",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Corsa degli Scalzi (Festa di San Salvatore)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually, first weekend of September (celebrations late August to early September)",
+    "date": "",
+    "blurb": "A centuries-old religious festival in which hundreds of barefoot men dressed in white robes (curridoris) run about seven kilometres carrying the simulacrum of San Salvatore from the parish church in Cabras to the village of San Salvatore di Sinis. It commemorates a 1619 race to protect the statue from coastal raiders and is one of Sardinia's most famous traditions.",
+    "source_url": "https://www.sardegnaturismo.it/en/corsa-degli-scalzi-barefoot-legend",
+    "image_url": ""
+   },
+   {
+    "name": "Festival della Bottarga - Alchimie di Gusto",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "A food festival in Cabras celebrating the town's prized bottarga di muggine (cured grey mullet roe), with tastings, chef demonstrations and cultural events. The 2025 edition ran 19-21 September and drew over 10,000 visitors.",
+    "source_url": "https://www.comune.cabras.or.it/it/eventi",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-di-mugoni": {
+  "beach": "Spiaggia Di Mugoni",
+  "town": "Alghero",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Focs de Sant Joan",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 20-23 June (culminating night of 23 June)",
+    "date": "2026-06-23",
+    "blurb": "Alghero's traditional Catalan-identity festival for St John's Eve, culminating on the night of 23 June on San Giovanni beach with bonfires and the ritual fire-jumping, with participants dressed in white. Four days of folklore, music and processions through the historic centre.",
+    "source_url": "https://comune.alghero.ss.it/it/vivere-il-comune/eventi/evento/Focs-de-Sant-Joan/",
+    "image_url": ""
+   },
+   {
+    "name": "Alguer Summer Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late July to August (2026: 25 July - 23 August)",
+    "date": "",
+    "blurb": "Major summer concert series held at the Ivan Graziani Amphitheater in Alghero, drawing leading Italian artists. The 2026 line-up includes Blanco, Caparezza, Madame, Mannarino and Tommaso Paradiso.",
+    "source_url": "https://www.eventiinsardegna.it/2026/04/10/alguer-summer-festival-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "JazzAlguer",
+    "type": "music",
+    "recurring": true,
+    "when": "annually during the summer season",
+    "date": "",
+    "blurb": "Recurring jazz festival staged in Alghero as part of the city's Alghero Experience summer programme, featuring Italian and international jazz performers.",
+    "source_url": "https://algheroturismo.eu/eventi-alghero/",
+    "image_url": ""
+   },
+   {
+    "name": "Birralguer (Beer Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in summer",
+    "date": "",
+    "blurb": "Alghero's craft beer festival, a returning fixture of the city's summer Alghero Experience calendar combining beer, street food and live entertainment.",
+    "source_url": "https://algheroturismo.eu/eventi-alghero/",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-di-ostia": {
+  "beach": "Spiaggia Di Ostia",
+  "town": "Lido di Ostia (Rome)",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Sagra della Tellina (Clam Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late August (around Aug 22-31)",
+    "date": "",
+    "blurb": "A long-running food festival (60th edition in 2025) at the Borghetto dei Pescatori fishing village in Ostia, where roughly 40 quintals of telline (wedge clams) are cooked in traditional Roman style alongside live music and stands. It includes the 'Marriage with the Sea' maritime procession honouring the Madonna Stella Maris, protectress of fishermen.",
+    "source_url": "https://www.visitlazio.com/eventi-lazio/la-sagra-della-tellina-a-ostia/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di Sant'Agostino, patron saint of Ostia",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually August 27-28",
+    "date": "",
+    "blurb": "Ostia celebrates its patron, Saint Augustine of Hippo, who stayed in ancient Ostia where his mother Saint Monica died in 387. The civic and religious ceremony includes floral tributes and blessing of his statue, plus readings from the Confessions in Piazza Anco Marzio.",
+    "source_url": "https://060608.it/it/eventi-e-spettacoli/manifestazioni/festa-di-sant-agostino-patrono-di-ostia-e-santa-monica.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-di-punta-penna": {
+  "beach": "Spiaggia Di Punta Penna",
+  "town": "Vasto",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Rievocazione Storica del Toson d'Oro",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually late August",
+    "date": "",
+    "blurb": "A historical re-enactment held in Vasto's old town since 1986, commemorating the 1723 awarding of the Order of the Golden Fleece. Hundreds of participants in Baroque and Renaissance costumes parade with flag-throwers, musicians and performers.",
+    "source_url": "https://www.comune.vasto.ch.it/it/news/dal-23-al-25-agosto-appuntamento-con-il-toson-d-oro",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di San Michele Arcangelo (Patron Saint Feast)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late September (feast day 29 September)",
+    "date": "2026-09-29",
+    "blurb": "Vasto's patron saint celebration honoring San Michele Arcangelo, with religious services and a procession centered on the Church of Santa Maria Maggiore, alongside several days of music and popular events.",
+    "source_url": "https://www.comune.vasto.ch.it/index.php/it/news/festa-di-san-michele-arcangelo-cinque-giorni-ricchi-di-eventi-per-il-patrono-di-vasto",
+    "image_url": ""
+   },
+   {
+    "name": "Estate Vastese (Vasto Summer Festival programme)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually June to September",
+    "date": "",
+    "blurb": "Vasto's official summer cultural programme spanning concerts, jazz (Vasto in Jazz), literary events (Vasto d'Autore), food festivals and the Dal Basso youth music festival. The town publishes the full lineup on its dedicated events portal each year.",
+    "source_url": "https://www.chietitoday.it/attualita/estate-2026-vasto-eventi-portale-turismo.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "spiaggia-di-su-tiriarzu": {
+  "beach": "Spiaggia Di Su Tiriarzu",
+  "town": "Posada",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di Sant'Antonio Abate",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 17 January",
+    "date": "2026-01-17",
+    "blurb": "Posada's patron saint feast, marked by a large communal bonfire of cistus brush with three processional circuits around the fire, followed by distribution of traditional sweets (sos cogoneddos, s'aranzada) and roasted sausage with wine.",
+    "source_url": "https://it.wikipedia.org/wiki/Posada",
+    "image_url": ""
+   },
+   {
+    "name": "Festa Santu Juanne 'e Mare (San Giovanni)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late June, around 24 June",
+    "date": "",
+    "blurb": "Summer-solstice feast of St John celebrated near Posada's coast, blending religious procession with the Sardinian fire rite of the fogarones and concerts/performances during the festivities.",
+    "source_url": "https://www.sardegnanewsonline.it/eventi-e-spettacoli-a-posada-unestate-di-cultura-e-tradizione/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa della Madonna del Soccorso",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually, the first Sunday after Easter",
+    "date": "2026-04-12",
+    "blurb": "Considered the principal local feast in Posada, celebrated on the first Sunday after Easter with religious and community festivities.",
+    "source_url": "https://it.wikipedia.org/wiki/Posada",
+    "image_url": ""
+   },
+   {
+    "name": "Festa di San Michele (santuario campestre)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late September",
+    "date": "",
+    "blurb": "A rural festival held at the country sanctuary of San Michele near Posada at the end of September.",
+    "source_url": "https://it.wikipedia.org/wiki/Posada",
+    "image_url": ""
+   }
+  ]
+ },
+ "the-pink-beach": {
+  "beach": "The Pink Beach",
+  "town": "La Maddalena (Budelli island, La Maddalena Archipelago, Sardinia)",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Festa di Santa Maria Maddalena (Patron Saint Festival)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 22 July",
+    "date": "2026-07-22",
+    "blurb": "La Maddalena's main patronal feast honors its patron saint with a week of cultural, sporting and musical events, culminating on 22 July in a religious procession from the church of Santa Maria Maddalena to the port of Cala Gavetta, a flotilla of boats carrying the statue out to sea, and a fireworks finale over the waterfront.",
+    "source_url": "https://www.parrocchiasantamariamaddalena.it/domani-la-festa-patronale-in-onore-di-s-maria-maddalena/",
+    "image_url": ""
+   },
+   {
+    "name": "VELA Cup La Maddalena",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in late spring",
+    "date": "",
+    "blurb": "A non-competitive sailing regatta open to all boat classes, organized by Giornale della Vela with the Municipality of La Maddalena, running through the waters of the La Maddalena Archipelago National Park.",
+    "source_url": "https://www.unionesarda.it/news-sardegna/gallura/la-maddalena-il-programma-della-vela-cup-n8z3do9h",
+    "image_url": ""
+   },
+   {
+    "name": "Premio Solinas a La Maddalena",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in late September",
+    "date": "",
+    "blurb": "Italy's leading screenwriting award turns La Maddalena into an open-air laboratory for cinema, with masterclasses, pitching sessions and film screenings drawing established and emerging screenwriters and producers to the island each September.",
+    "source_url": "https://www.premiosolinas.it/news/il-premio-solinas-torna-a-la-maddalena-e-festeggia-i-suoi-40-anni-con-3-film-iconici/",
+    "image_url": ""
+   },
+   {
+    "name": "Commemorazione della corazzata Roma",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "A solemn naval commemoration at La Maddalena remembering the roughly 1,850 sailors lost when the battleship Roma and the destroyers De Noli and Vivaldi were sunk after the 8 September 1943 armistice, marked by a memorial ceremony and a wreath cast into the sea.",
+    "source_url": "https://www.unionesarda.it/news-sardegna/gallura/la-maddalena-la-solenne-commemorazione-dei-1850-caduti-della-corazzata-roma-e-dei-cacciatorpediniere-dei-de-noli-e-vivaldi-shsjwroi",
+    "image_url": ""
+   }
+  ]
+ },
+ "white-beaches": {
+  "beach": "White Beaches",
+  "town": "Rosignano Solvay (Rosignano Marittimo), Tuscany",
+  "country": "Italy",
+  "events": [
+   {
+    "name": "Sagra del Ranocchio (Frog Festival), Vada",
+    "type": "food",
+    "recurring": true,
+    "when": "annually, late June to mid-August (multiple weekends)",
+    "date": "",
+    "blurb": "A long-running seaside food festival in Vada, the coastal hamlet adjacent to Spiagge Bianche, serving fried frogs, frogs in broth and fried fish with evening dance music. Held over several weekends at Campo del Mare Silvio Gori near the shore.",
+    "source_url": "https://www.sagretoscane.com/sagre/li/rosignano-marittimo/sagra-del-ranocchio-vada.html",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra del Baccala e dello Stoccafisso, Rosignano Marittimo",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in late July (around the 4th weekend)",
+    "date": "",
+    "blurb": "A four-day salt cod and stockfish food festival at Area Feste L'Oliveta in Rosignano Marittimo, with gastronomic stands of sea and countryside dishes and free evening live music. The 2025 edition was the ninth, held 24-27 July.",
+    "source_url": "https://www.visitrosignano.it/it/eventi.php?id=965",
+    "image_url": ""
+   },
+   {
+    "name": "Sagra del Favollo (Heart Crab Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "A traditional village festival in the Rosignano Marittimo area featuring simple Tuscan coastal cuisine tastings and folk entertainment, centred on the local favollo (heart crab).",
+    "source_url": "https://www.visitrosignano.it/it/eventi.php?id=505",
+    "image_url": ""
+   }
+  ]
  }
 }

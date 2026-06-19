@@ -390,5 +390,832 @@
     "image_url": ""
    }
   ]
+ },
+ "anse-corps-de-garde": {
+  "beach": "Anse Corps De Garde",
+  "town": "Sainte-Luce, Martinique",
+  "country": "France",
+  "events": [
+   {
+    "name": "Fête Patronale de Sainte-Luce",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually; popular festivities late Jan to mid-Feb, religious feast 13 December",
+    "date": "",
+    "blurb": "Sainte-Luce's annual patron-saint festival combines a religious celebration of Saint Lucy on 13 December with weeks of popular festivities featuring concerts, a traditional market, sporting events, cultural performances and carnival. The official town announced the 2026 edition running 31 January to 18 February 2026.",
+    "source_url": "https://www.buzzmagmartinique.com/evenement/fete-patronale-carnaval-2026-sainte-luce/2026-02-16/",
+    "image_url": ""
+   },
+   {
+    "name": "Carnaval de Martinique (Sainte-Luce)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-02-15 to 2026-02-18 (Jours Gras)",
+    "date": "2026-02-17",
+    "blurb": "Sainte-Luce takes part in the island-wide Martinique Carnival, whose climactic Jours Gras run 15-18 February 2026, ending with the burning of the effigy Vaval on Ash Wednesday. In Sainte-Luce the carnival is folded into the town's patronal festival with street parades and music.",
+    "source_url": "https://la1ere.franceinfo.fr/martinique/programme-carnaval-de-martinique-2026-les-dates-des-festivites-devoilees-1657862.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "anse-mabouya": {
+  "beach": "Anse Mabouya",
+  "town": "Sainte-Luce, Martinique",
+  "country": "France",
+  "events": [
+   {
+    "name": "Fête Patronale & Carnaval de Sainte-Luce",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late January to mid-February (Carnival season)",
+    "date": "2026-02-16",
+    "blurb": "Sainte-Luce's annual patron-saint festival and carnival features a traditional market, live concerts, sporting events, family activities, a school carnival parade and Ash Wednesday celebrations with the Vaval carnival figure. In 2026 it ran roughly 31 January to 18 February, with the main carnival day on 16 February.",
+    "source_url": "https://www.buzzmagmartinique.com/evenement/fete-patronale-carnaval-2026-sainte-luce/2026-02-16/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête de la Sainte-Luce (feast of Saint Lucy)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 13 December",
+    "date": "",
+    "blurb": "The religious feast day of Saint Lucy, the town's patron saint, is celebrated annually on 13 December in Sainte-Luce, complementing the larger popular festivities held during the carnival season.",
+    "source_url": "https://www.caraibesplus.fr/agenda/agenda-martinique/fetes-traditions-martinique/carnaval-et-fetes-patronales/fete-patronale-sainte-luce-2027-concerts-carnaval-et-artisanat.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "baie-des-tortues": {
+  "beach": "Baie Des Tortues",
+  "town": "Bourail, New Caledonia",
+  "country": "France",
+  "events": [
+   {
+    "name": "Foire de Bourail (Bourail Agricultural Fair)",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-08-14 to 2026-08-16 (annually mid-August)",
+    "date": "2026-08-14",
+    "blurb": "New Caledonia's largest and most iconic agricultural, craft and cultural fair, held annually since 1977 at the Tene site in Bourail and drawing 25,000-30,000 visitors. Highlights include the famous rodeo, agricultural and woodcutting contests, local food, and the Miss Foire de Bourail pageant.",
+    "source_url": "https://www.foiredebourail.nc/",
+    "image_url": ""
+   },
+   {
+    "name": "ANZAC Day Commemoration at Nessadiou",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually 25 April",
+    "date": "2026-04-25",
+    "blurb": "ANZAC Day is commemorated each 25 April at the New Zealand military cemetery of Nessadiou in Bourail, honouring Australian and New Zealand soldiers, with a related 'War in Paradise' exhibition shown in the region.",
+    "source_url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_de_l'ANZAC",
+    "image_url": ""
+   },
+   {
+    "name": "New Caledonia Surfing Championship (Bourail)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually (held in Bourail, typically spring)",
+    "date": "",
+    "blurb": "The New Caledonia surfing championship is contested on Bourail's surf spots, serving as a qualifier ahead of national events and the 2027 Pacific Games.",
+    "source_url": "https://bourail.stationverte.com/fr/championnat-de-nouvelle-caledonie-de-surf_t242442.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "cote-des-basques-biarritz": {
+  "beach": "Cote Des Basques Biarritz",
+  "town": "Biarritz",
+  "country": "France",
+  "events": [
+   {
+    "name": "Queen Classic Surf Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually mid-September",
+    "date": "",
+    "blurb": "A free inclusive longboard surf festival held directly on the Côte des Basques beach, gathering top female surfers for competitions, conferences, art installations and performances. Recent editions ran in mid-September (12-14 September 2025).",
+    "source_url": "https://www.destination-biarritz.fr/en/temps-fort/queen-classic-surf-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Rat's Cup Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-09-04 to 2026-09-06",
+    "date": "2026-09-04",
+    "blurb": "A three-day event on the Côte des Basques beach combining high-level surf competitions, skateboard demonstrations and live concerts, running from morning into the night.",
+    "source_url": "https://www.festivalenfrance.com/festival/rats-cup-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Biarritz Pays Basque Maider Arosteguy",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually around Easter (late April)",
+    "date": "",
+    "blurb": "Created in 1984, Europe's oldest surf competition marks the official opening of the French surf season, held in Biarritz (on the Grande Plage) around the Easter weekend with around 250 surfers across all categories.",
+    "source_url": "https://www.destination-biarritz.fr/temps-fort/biarritz-pays-basque-maider-arosteguy/",
+    "image_url": ""
+   },
+   {
+    "name": "Le Temps d'Aimer la Danse",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-09-11 to 2026-09-20",
+    "date": "2026-09-11",
+    "blurb": "An international dance festival in Biarritz, created in 1990 and held each September, featuring dozens of classical, contemporary and traditional Basque dance performances by leading companies.",
+    "source_url": "https://www.festivalenfrance.com/festival/le-temps-daimer-la-danse",
+    "image_url": ""
+   }
+  ]
+ },
+ "espiguette": {
+  "beach": "Espiguette",
+  "town": "Le Grau-du-Roi",
+  "country": "France",
+  "events": [
+   {
+    "name": "Fête de la Saint-Pierre",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in June (2026: June 19-21)",
+    "date": "2026-06-19",
+    "blurb": "Three-day maritime tradition in Le Grau-du-Roi where fishermen honour their patron Saint Peter and commemorate sailors lost at sea, with processions, blessing of the sea and community festivities.",
+    "source_url": "https://letsgrau.com/actualites/fete-saint-pierre-grau-du-roi-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête Votive du Grau-du-Roi (La Fête du Grau)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in September (2026: September 11-20)",
+    "date": "2026-09-11",
+    "blurb": "The town's main 10-day votive festival celebrating Camargue traditions with bull releases, courses camarguaises in the arena, abrivados, bandidos, encierros and popular dances. The 2026 edition marks its 80th anniversary.",
+    "source_url": "https://ville-legrauduroi.fr/agenda/fete-du-grau-2026-le-revivre/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête de la Mer",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in July",
+    "date": "",
+    "blurb": "A maritime festival in the fishing port of Le Grau-du-Roi celebrating the town's seafaring heritage with events centred on the sea and local traditions.",
+    "source_url": "https://www.festivalenfrance.com/en/festival/fete-de-la-mer",
+    "image_url": ""
+   },
+   {
+    "name": "Courses Camarguaises (Camargue bull races)",
+    "type": "sport",
+    "recurring": true,
+    "when": "throughout the summer season at the Arènes du Grau-du-Roi",
+    "date": "",
+    "blurb": "Traditional Camargue bull races held at the town's arena, where raseteurs attempt to snatch ribbons from the bulls' horns, a regional sport rather than a bullfight, staged regularly during the festive season.",
+    "source_url": "https://www.portcamargue.com/courses-camarguaises-le-revivre.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "gigaro-beach": {
+  "beach": "Gigaro Beach",
+  "town": "La Croix-Valmer",
+  "country": "France",
+  "events": [
+   {
+    "name": "Festival des Anches d'Azur",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late June (3 days)",
+    "date": "",
+    "blurb": "An international festival for lovers of wind/reed instruments, with daytime concerts held in the village and on the nearby Landing beach (plage du Debarquement, by Gigaro) and gala concerts in the evening.",
+    "source_url": "https://www.festivaldesanchesdazur.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Fete Locale de La Croix-Valmer",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually mid/late June",
+    "date": "",
+    "blurb": "The town's annual local festival features parades in the village centre, inflatable games, exhibitions, a sardinade (grilled sardine feast) and a laser show.",
+    "source_url": "https://www.lacroixvalmer.fr/Festivites",
+    "image_url": ""
+   },
+   {
+    "name": "Marche Nocturne (Summer Night Market)",
+    "type": "market",
+    "recurring": true,
+    "when": "every Thursday evening, late June to early September",
+    "date": "",
+    "blurb": "A craft and artisanal night market held in the village centre on Thursday evenings throughout the summer, offering local products, decorative objects and gift ideas.",
+    "source_url": "https://www.lacroixvalmertourisme.com/en/fun-nightlife-events/events",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Folklorique Portugais (Portuguese Folklore Festival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer",
+    "date": "",
+    "blurb": "A cultural festival organised by the local Esperanca association celebrating Portuguese folklore with traditional music and dance; the event recently held its 27th edition.",
+    "source_url": "https://www.varactu.fr/la-croix-valmer-a-celebre-la-27e-edition-du-festival-folklorique-portugais/",
+    "image_url": ""
+   }
+  ]
+ },
+ "grande-anse": {
+  "beach": "Grande Anse",
+  "town": "Petite-Île, Réunion",
+  "country": "France",
+  "events": [
+   {
+    "name": "Grand'Anse en l'Air",
+    "type": "market",
+    "recurring": true,
+    "when": "2026-05-08 to 2026-05-10 (annually in May)",
+    "date": "2026-05-08",
+    "blurb": "A festive seaside night market held right at Grande Anse beach featuring local artisans, creators and producers, food stalls and live concerts, organized by La Bande à Guinguette. Free admission, running afternoon to late evening.",
+    "source_url": "https://guide-reunion.fr/evenements/eve/grande-anse-en-lair/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête de l'Ail (Garlic Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in late October",
+    "date": "",
+    "blurb": "Petite-Île's flagship annual festival celebrating locally grown garlic, a staple of Creole cuisine. Three days of market stalls, garlic-peeling and garlic-race contests, family activities, shows and concerts in the town centre (34th edition held in 2025).",
+    "source_url": "https://www.petite-ile.re/actualites/agenda/fete-de-lail-2",
+    "image_url": ""
+   }
+  ]
+ },
+ "grande-anse-reunion": {
+  "beach": "Grande Anse Reunion",
+  "town": "Petite-Île",
+  "country": "France",
+  "events": [
+   {
+    "name": "Course de l'ail",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually late October",
+    "date": "",
+    "blurb": "An annual trail running race held during Petite-Île's garlic festival, with the historic 20 km course starting directly from Grande Anse beach and climbing through the hills toward the town centre and Domaine du Relais.",
+    "source_url": "https://www.finishers.com/course/course-de-lail",
+    "image_url": ""
+   },
+   {
+    "name": "Fête de l'ail (Garlic Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late October",
+    "date": "",
+    "blurb": "Petite-Île's signature annual festival celebrating locally grown garlic, a staple of Réunionese cuisine, combining market stalls, concerts and sporting events including the Course de l'ail trail race.",
+    "source_url": "https://www.petite-ile.re/index.php/actualites/news/fete-de-lail-1",
+    "image_url": ""
+   },
+   {
+    "name": "Grand'Anse en l'air",
+    "type": "market",
+    "recurring": true,
+    "when": "annually (weekend market at Grand'Anse)",
+    "date": "",
+    "blurb": "A festive weekend market at Grand'Anse organised by the association AREC Solidari'Terre, bringing together local creators, artisans and producers to showcase handmade goods and regional products.",
+    "source_url": "https://guide-reunion.fr/breves/detail/grande-anse-en-lair/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête de la Musique - Petite-Île",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-06-20",
+    "date": "2026-06-20",
+    "blurb": "The town of Petite-Île marks the annual Fête de la Musique with live performances featuring traditional séga, maloya and contemporary rhythms.",
+    "source_url": "https://outremertourisme.fr/fete-de-la-musique-2026-ou-vibrer-au-rythme-du-sega-et-du-maloya-dans-la-ville-de-petite-ile-a-la-reunion/",
+    "image_url": ""
+   }
+  ]
+ },
+ "grande-plage-biarritz": {
+  "beach": "Grande Plage Biarritz",
+  "town": "Biarritz",
+  "country": "France",
+  "events": [
+   {
+    "name": "Biarritz Pays Basque Maider Arosteguy",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in spring (2026: 23-25 May)",
+    "date": "2026-05-23",
+    "blurb": "Europe's oldest surf competition, created in 1984, held directly on the Grande Plage of Biarritz. The 40th edition brings together around 250 amateur and professional surfers competing for a 20,000 euro prize purse.",
+    "source_url": "https://www.destination-biarritz.fr/en/temps-fort/biarritz-pays-basque-maider-arosteguy/",
+    "image_url": ""
+   },
+   {
+    "name": "Wheels and Waves",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in June (2026: 10-14 June)",
+    "date": "2026-06-10",
+    "blurb": "Long-running Biarritz festival blending motorcycle culture, surfing, skating, BMX, art and music, centred around the Cite de l'Ocean and Milady Beach. The 15th edition runs 10-14 June 2026.",
+    "source_url": "https://wheels-and-waves.com/en/biarritz/",
+    "image_url": ""
+   },
+   {
+    "name": "Queen Classic Surf Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "Free inclusive surf festival held on Biarritz's Cote des Basques beach, celebrating longboarding and diversity with competitions, conferences and art.",
+    "source_url": "https://www.destination-biarritz.fr/en/temps-fort/queen-classic-surf-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Biarritz Piano Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late July to early August (2026: 27 July - 7 August)",
+    "date": "2026-07-27",
+    "blurb": "Annual classical piano festival in Biarritz, reaching its 17th edition in 2026 with performances across the town.",
+    "source_url": "https://www.biarritzpianofestival.com/",
+    "image_url": ""
+   }
+  ]
+ },
+ "grande-plage-de-houat": {
+  "beach": "Grande Plage De Houat",
+  "town": "Île-d'Houat (Houat island, Morbihan, Brittany)",
+  "country": "France",
+  "events": [
+   {
+    "name": "Fête de la Mer (Sea Festival), Port Saint-Gildas",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually 10 August",
+    "date": "",
+    "blurb": "Houat's traditional sea festival held at Port Saint-Gildas, with grilled sardines, a refreshment stand and festivities celebrating the island's maritime and fishing heritage.",
+    "source_url": "https://www.pass-ports.com/fr/port-houat/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Les Insulaires",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in September (roving festival, hosted on Île de Houat)",
+    "date": "",
+    "blurb": "A travelling festival of music and culture celebrating the islands of the Ponant, which Houat has hosted (10th edition in September 2023); it rotates among Breton islands such as Belle-Île, Hoëdic, Groix and Houat.",
+    "source_url": "https://oceane.breizhgo.bzh/festival-les-insulaires-sur-lile-de-houat/",
+    "image_url": ""
+   }
+  ]
+ },
+ "la-franqui": {
+  "beach": "La Franqui",
+  "town": "Leucate (La Franqui), Aude",
+  "country": "France",
+  "events": [
+   {
+    "name": "Mondial du Vent",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually around Easter; 2026-04-22 to 2026-04-26",
+    "date": "2026-04-22",
+    "blurb": "International board-sports festival held on La Franqui beach since 1996, featuring the French stage of the GWA Wingfoil World Cup, the IFCA Windsurf Slalom Fin & Foil World Championship, kitesurf and windsurf demos, and a beachside Village de la Glisse. It draws large crowds each spring.",
+    "source_url": "https://www.mondialduvent.fr/",
+    "image_url": ""
+   },
+   {
+    "name": "La Franqui Custom Beach",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually, typically late September",
+    "date": "",
+    "blurb": "Recurring beachside gathering on La Franqui blending custom motorcycle and American car culture, water sports, street art and concerts, organized with the Harley-Davidson Perpignan dealership.",
+    "source_url": "https://www.lepetitagenda.com/evenements/sport/4-edition-la-franqui-custom-beach/",
+    "image_url": ""
+   },
+   {
+    "name": "Marche Art, Artisanat et Saveurs de La Franqui",
+    "type": "market",
+    "recurring": true,
+    "when": "every Tuesday evening in summer, 6:30pm-11:30pm",
+    "date": "",
+    "blurb": "Summer evening arts, crafts and food market held at La Pointe in La Franqui, alongside regular morning markets on Mondays and Thursdays from mid-June to mid-September.",
+    "source_url": "https://en.tourisme-leucate.com/offers/marche-art-artisanat-saveurs-la-franqui-la-franqui-leucate-en-3023348/",
+    "image_url": ""
+   }
+  ]
+ },
+ "la-souris-chaude": {
+  "beach": "La Souris Chaude",
+  "town": "Trois-Bassins, Réunion Island",
+  "country": "France",
+  "events": [
+   {
+    "name": "La Trois-Bassinoise",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-07-26",
+    "date": "2026-07-26",
+    "blurb": "A long-running trail running race based in Trois-Bassins, starting from the church plaza, with a 51 km (2,700 m D+) and a 28 km (1,400 m D+) course through the western highlands. The 2026 edition is its 21st.",
+    "source_url": "https://werun.world/course/trois-bassinoise/",
+    "image_url": ""
+   },
+   {
+    "name": "VéloRun Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually late September",
+    "date": "",
+    "blurb": "A two-day cycling festival held in Trois-Bassins in the forested highlands, featuring a paired VéloRun Challenge, a regional youth mountain-bike trophy, a gourmet cycling tour and a climbers' trophy, plus a wellness village with music and activities.",
+    "source_url": "https://trois-bassins.re/event/velorun-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival de l'Océan",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in June (2026: 6-26 June)",
+    "date": "",
+    "blurb": "An annual ocean-themed festival held each year since 2014 along Réunion's west coast between Le Port and Saint-Leu, with free or discounted introductory sessions in diving, paddleboarding, kayaking, sailing and fishing alongside marine conservation activities.",
+    "source_url": "https://www.ouest-lareunion.com/agenda/les-evenements-incontournables/le-festival-de-l-ocean",
+    "image_url": ""
+   },
+   {
+    "name": "Fèt Kaf",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually 20 December",
+    "date": "2026-12-20",
+    "blurb": "Island-wide celebration commemorating the abolition of slavery in Réunion, marked locally in Trois-Bassins with music and festivities every 20 December.",
+    "source_url": "https://www.flanerbouger.fr/events/fetes-locales/97434-fet-kaf-trois-bassins-325272",
+    "image_url": ""
+   },
+   {
+    "name": "Fête de la Musique",
+    "type": "music",
+    "recurring": true,
+    "when": "annually 21 June",
+    "date": "2026-06-21",
+    "blurb": "Trois-Bassins marks the nationwide French music day with free open-air concerts, dancing and a festive atmosphere.",
+    "source_url": "https://trois-bassins.re/event/fete-de-la-musique-2025/",
+    "image_url": ""
+   }
+  ]
+ },
+ "le-minou": {
+  "beach": "Le Minou",
+  "town": "Plouzané",
+  "country": "France",
+  "events": [
+   {
+    "name": "Plein phare sur le Minou",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in spring (late May)",
+    "date": "",
+    "blurb": "A festive, family event held at the Pointe du Minou around the Petit Minou lighthouse, organised by the town of Plouzané. The 2025 edition featured artworks by sculptor Mich Mao, music and dancing, and launched a heritage fundraising campaign to restore the lighthouse.",
+    "source_url": "https://brest.fr/plein-phare-sur-le-minou",
+    "image_url": ""
+   },
+   {
+    "name": "Fête de la Musique - Plouzané",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-06-20",
+    "date": "2026-06-20",
+    "blurb": "Plouzané's edition of France's annual music day, held on Place de la Republique with live musicians from 7pm to 9pm followed by the Bal Floc'h from 9pm.",
+    "source_url": "https://plouzane.bzh/",
+    "image_url": ""
+   }
+  ]
+ },
+ "lozari-beach": {
+  "beach": "Lozari Beach",
+  "town": "L'Île-Rousse (beach in Belgodère/Palasca, Balagne, Corsica)",
+  "country": "France",
+  "events": [
+   {
+    "name": "Festivoce",
+    "type": "music",
+    "recurring": true,
+    "when": "annually mid-July (2026: 15-18 July)",
+    "date": "2026-07-15",
+    "blurb": "Corsica's oldest music festival, held every July since 1991 in the hilltop village of Pigna in the Balagne, a short drive from Lozari. It features around 30 concerts across several village stages celebrating Corsican, Mediterranean and world voices and music.",
+    "source_url": "https://en.balagne-corsica.com/agenda/festivoce/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête de Saint Erasme (Saint Erasmus, fishermen's festival)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually early June",
+    "date": "",
+    "blurb": "L'Île-Rousse honours Saint Erasmus, the patron saint of sailors and fishermen, with a Mass, a procession through town from the church to the Quai d'Orléans and a blessing of the sea from the môle. It is a longstanding Corsican maritime tradition celebrated in early June.",
+    "source_url": "https://en.balagne-corsica.com/agenda/fete-de-saint-erasme/",
+    "image_url": ""
+   },
+   {
+    "name": "Foire de L'Île-Rousse",
+    "type": "market",
+    "recurring": true,
+    "when": "annually early October (about 5 days)",
+    "date": "",
+    "blurb": "An annual five-day fair on Place Paoli and in the centre of L'Île-Rousse with around a hundred artisans selling Corsican crafts, products and gastronomy, plus a funfair and free evening concerts.",
+    "source_url": "https://www.festivalenfrance.com/en/festival/foire-de-l-ile-rousse",
+    "image_url": ""
+   }
+  ]
+ },
+ "milady-beach": {
+  "beach": "Milady Beach",
+  "town": "Biarritz",
+  "country": "France",
+  "events": [
+   {
+    "name": "Wheels and Waves",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-06-10 to 2026-06-14",
+    "date": "2026-06-10",
+    "blurb": "Annual motorcycle, surf, skate, art and music festival whose main village sits at the Cite de l'Ocean, directly between Milady and Ilbarritz beaches in southern Biarritz. The 2026 edition runs June 10-14 with races, surf competitions, an exhibition and concerts.",
+    "source_url": "https://wheels-and-waves.com/biarritz/",
+    "image_url": ""
+   },
+   {
+    "name": "Hotdogger Surf Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually late May (2026: May 22-24)",
+    "date": "2026-05-22",
+    "blurb": "A retro and vintage surf culture festival in Biarritz featuring a board village, exhibitions, skateboarding, concerts and the Hotdogger Trophy surf contest on vintage boards. Held annually in late May.",
+    "source_url": "https://www.hotdogger.fr/hotdogger-surf-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Queen Classic Surf Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "A free inclusive surfing and longboarding festival held each September on Biarritz's Cote des Basques, welcoming surfers of all genders, orientations and skill levels.",
+    "source_url": "https://www.destination-biarritz.fr/en/temps-fort/queen-classic-surf-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Maider Arosteguy Surf Competition",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in spring (around Easter)",
+    "date": "",
+    "blurb": "Recognized as the oldest surf competition in Europe (created in 1984), this spring event is a season highlight held on the Grande Plage of Biarritz.",
+    "source_url": "https://www.hotelindarra.com/en/biarritz-maider-arosteguy-competition",
+    "image_url": ""
+   }
+  ]
+ },
+ "ondarraitz-beach": {
+  "beach": "Ondarraitz Beach",
+  "town": "Hendaye",
+  "country": "France",
+  "events": [
+   {
+    "name": "Journée de la Glisse (Slide Sports Day)",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-06-06",
+    "date": "2026-06-06",
+    "blurb": "A free seafront watersports day at Hendaye-plage offering surf, stand-up paddle, Hawaiian pirogue, kayak and skateboarding initiations, held on the beachfront by the former Casino.",
+    "source_url": "https://www.journee-de-la-glisse.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête de la Mer (Sea Festival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late July",
+    "date": "",
+    "blurb": "Hendaye's annual seaside festival with musical entertainment, water activities, children's games, a traditional trainière (fishing boat) race and a creators' market along the waterfront.",
+    "source_url": "https://www.hendaye-culture.fr/fr/fetes-et-animations/fete-de-la-mer/",
+    "image_url": ""
+   },
+   {
+    "name": "Hendaye Fête l'Été (Summer Festival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually mid-July",
+    "date": "2026-07-13",
+    "blurb": "Hendaye's summer celebration featuring live performances on July 10-11 and a fireworks display on July 13, 2026.",
+    "source_url": "https://www.hendaye-tourisme.fr/en/events/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Musikolore",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late June / early July",
+    "date": "2026-06-30",
+    "blurb": "A world music festival held in Hendaye, running from June 30 to July 3, 2026.",
+    "source_url": "https://www.hendaye-tourisme.fr/en/events/",
+    "image_url": ""
+   }
+  ]
+ },
+ "palombaggia": {
+  "beach": "Palombaggia",
+  "town": "Porto-Vecchio",
+  "country": "France",
+  "events": [
+   {
+    "name": "San Ghjuvanni (Feast of Saint John the Baptist)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around 23-24 June",
+    "date": "",
+    "blurb": "Porto-Vecchio's most cherished traditional festival, blending the sacred and festive with a torchlit procession, bonfires and the symbolic leaping over flames. After mass on 24 June, locals celebrate through the night.",
+    "source_url": "https://www.portovecchio-tourisme.corsica/en/traditions/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival di u Luddareddu",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually night of 31 July to 1 August",
+    "date": "",
+    "blurb": "A Porto-Vecchiese tradition in which a straw mannequin (the Luddareddu, symbolizing the harsh month of July) is judged, hanged and burned at midnight to expel misfortune, accompanied by workshops, concerts and popular festivities.",
+    "source_url": "https://www.portivechju.corsica/mes-loisirs/decouvrir/fetes-et-traditions/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête de la Musique",
+    "type": "music",
+    "recurring": true,
+    "when": "annually 21 June",
+    "date": "2026-06-21",
+    "blurb": "France's nationwide free music celebration, held in Porto-Vecchio as across Corsica, with concerts in the streets and squares of the old town. In 2026 it falls on Sunday 21 June.",
+    "source_url": "https://www.portovecchio-tourisme.corsica/en/agenda/",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-bois-jolan": {
+  "beach": "Plage De Bois Jolan",
+  "town": "Sainte-Anne, Guadeloupe",
+  "country": "France",
+  "events": [
+   {
+    "name": "Festival de Gwoka de Sainte-Anne",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in July (typically the second week)",
+    "date": "",
+    "blurb": "A major annual festival in Sainte-Anne celebrating gwoka, the traditional Guadeloupean music, song and dance recognized by UNESCO, with concerts, workshops and street performances. Recent editions have been held across Sainte-Anne, Saint-Francois and La Desirade.",
+    "source_url": "https://www.ville-sainteanne.fr/evenement/festival-du-gwo-ka",
+    "image_url": ""
+   },
+   {
+    "name": "Fete Patronale de Sainte-Anne",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around 26 July (Saint Anne's feast day)",
+    "date": "",
+    "blurb": "Sainte-Anne's patron saint festival, held around late July to mark Saint Anne's feast day, with official ceremonies, music, contests, popular gatherings and fireworks.",
+    "source_url": "https://www.ville-sainteanne.fr/decouvrir-sainte-anne/regards-sur-sainte-anne/article/juillet-a-sainte-anne",
+    "image_url": ""
+   },
+   {
+    "name": "Carnaval de Sainte-Anne",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually January to February (carnival season, Mardi Gras)",
+    "date": "",
+    "blurb": "Part of the wider Guadeloupe carnival season, Sainte-Anne hosts colorful parades (deboules), costumed dancers and live music during the January to February carnival period.",
+    "source_url": "https://www.ville-sainteanne.fr/evenement-240/article/grand-weekend-carnavalesque-a-sainte-anne",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-clugny": {
+  "beach": "Plage De Clugny",
+  "town": "Sainte-Rose (Guadeloupe)",
+  "country": "France",
+  "events": [
+   {
+    "name": "Fête Patronale de Sainte-Rose (Sainte Rose de Lima)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "The patronal festival of Sainte-Rose, the commune in which Plage de Clugny lies, honours Sainte Rose de Lima. Held in August, it features Mass, a parade through town, carnival groups and a stage of local artists over several days.",
+    "source_url": "https://www.guadeloupe.fr/culture-vie/fetes/fetes-patronales-et-communales-en-guadeloupe/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête Patronale de Deshaies (Saint-Pierre et Saint-Paul)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late June (last weekend of June)",
+    "date": "",
+    "blurb": "The neighbouring fishing village of Deshaies, just along the coast from Plage de Clugny, celebrates its patron saints Saint Peter and Saint Paul on the last weekend of June with harbour festivities, the blessing of boats, a maritime procession, parade and dancing.",
+    "source_url": "https://www.guadeloupe.fr/culture-vie/fetes/fetes-patronales-et-communales-en-guadeloupe/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête des Cuisinières (Festival of Women Cooks)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually mid-August (around 15 August)",
+    "date": "",
+    "blurb": "A traditional Guadeloupean Creole-cuisine festival held around 15 August in honour of Saint Laurent, the patron of cooks. Women cooks parade in madras dress carrying decorated dishes; it is one of the island's signature culinary celebrations.",
+    "source_url": "https://www.guadeloupe.fr/culture-vie/fetes/fetes-patronales-et-communales-en-guadeloupe/",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-donnant": {
+  "beach": "Plage De Donnant",
+  "town": "Bangor (Belle-Île-en-Mer)",
+  "country": "France",
+  "events": [
+   {
+    "name": "Plage Musicale à Belle-Île (formerly Festival de Bangor)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in summer; 2026 edition 18-29 July",
+    "date": "2026-07-18",
+    "blurb": "Chamber music festival founded in 2006 in Bangor (now island-wide), presenting around ten concerts in heritage sites such as the churches, the Grand Phare, Pointe des Poulains and the port of Sauzon, alongside a music academy. The 20th edition runs 18-29 July 2026.",
+    "source_url": "https://belleilemusique.com/festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Surfing at Plage de Donnant",
+    "type": "sport",
+    "recurring": true,
+    "when": "year-round (over 200 surfable days per year)",
+    "date": "",
+    "blurb": "Donnant, a west-facing beach in Bangor, is one of Brittany's best surf and bodyboard spots and hosts surf schools and club sessions (Surfin' Belle-Île, BISC) running courses and events throughout the year.",
+    "source_url": "https://www.belle-ile.com/decouvrir/mes-envies-de-rencontres-avec-un-site-dexception/belle-ile-tonifiante-profiter-de-locean/surfer-a-donnant/",
+    "image_url": ""
+   },
+   {
+    "name": "Belle-Île-en-Livres (Book Festival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually; salons at Sauzon (Salle Sarah Bernhardt) and Le Palais",
+    "date": "",
+    "blurb": "Annual literary festival of Belle-Île-en-Mer featuring author meetings and book signings, with salons held at the Salle Sarah Bernhardt in Sauzon and venues in Le Palais.",
+    "source_url": "https://www.belleile-en-livres.fr/",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-l-eventail": {
+  "beach": "Plage De L Eventail",
+  "town": "Saint-Malo",
+  "country": "France",
+  "events": [
+   {
+    "name": "Festival Étonnants Voyageurs",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually late May (2026: May 23-25)",
+    "date": "2026-05-23",
+    "blurb": "One of France's largest international literary festivals, drawing around 150 authors and 50,000 visitors to venues across Saint-Malo for talks, debates, readings and film screenings. The 2026 edition runs 23-25 May with Lebanon as guest country.",
+    "source_url": "https://www.saint-malo.fr/actualites/festival-etonnants-voyageurs-saint-malo-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Folklores du Monde",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually early-mid July (2026: July 7-12)",
+    "date": "2026-07-07",
+    "blurb": "International festival of world music and dance held in Saint-Malo, with troupes from around the globe performing in the streets and squares of the walled city. The 2026 edition marks its 30th anniversary.",
+    "source_url": "https://www.st-malo.com/actualites/agenda-de-st-malo/",
+    "image_url": ""
+   },
+   {
+    "name": "La Route du Rock - Collection Été",
+    "type": "music",
+    "recurring": true,
+    "when": "annually mid-August (2026: August 12-15)",
+    "date": "2026-08-12",
+    "blurb": "Long-running indie and rock music festival staged at Saint-Malo's Fort de Saint-Père and other emblematic venues, featuring major and emerging international artists. The 2026 summer edition is its 34th, running 12-15 August.",
+    "source_url": "https://www.laroutedurock.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Quai des Bulles",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually October (2026: October 9-11)",
+    "date": "2026-10-09",
+    "blurb": "Major French comic-book (bande dessinee) festival held at the Palais du Grand Large in Saint-Malo, with over 150 stands and hundreds of authors. The 2026 edition is its 45th, on 9-11 October.",
+    "source_url": "https://www.quaidesbulles.com/",
+    "image_url": ""
+   }
+  ]
  }
 }
