@@ -33,6 +33,8 @@ import * as _exploreNs from "../lib/explore/explore-block";
 import type { HubLang } from "../lib/seo/sightsHubs";
 import * as _hubsNs from "../lib/seo/sightsHubs";
 import * as _sightFilterNs from "../lib/seo/sightFilter";
+import * as _deslopNs from "../lib/seo/deslop";
+const deSlop = _deslopNs.deSlop as (t: string, l: string, id: string) => string;
 const _sf: any = (_sightFilterNs as any).default ?? _sightFilterNs;
 const cleanSightsObject: (s: any, cap?: number) => { obj: any; removed: number } = _sf.cleanSightsObject;
 const _expl: any = (_exploreNs as any).default ?? _exploreNs;
@@ -2709,10 +2711,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   }
   const descShort = poi.description as Record<string, string> | undefined;
   const _descShortLocal = getLocalized(descShort as Partial<Record<string, string>>, lang);
-  const descText = stripCurriculumLeak(
+  const descText = deSlop(stripCurriculumLeak(
     getLocalized(descAdv as Partial<Record<string, string>>, lang)
     || (isPlaceholderDesc(_descShortLocal) ? "" : _descShortLocal)
-    || "");
+    || ""), lang, poi.id);
 
   // Facts: prefer advanced
   const factsAdv = (poi as { factsAdvanced?: Record<string, string[]> }).factsAdvanced;

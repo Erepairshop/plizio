@@ -30,6 +30,13 @@ A nyers gépi szöveg felismerhető és bizalmat rombol. Úgy írj, hogy egy emb
 - **Ritmust válts.** Ne legyen minden mondat egyforma hosszú. Keverj rövid, tényközlő mondatot hosszabb, magyarázóval.
 - **Helyi íz erény.** Régi név, helyi kifejezés, regionális étel, becenév — ezek gazdagítják, nem teszik gépivé.
 - **Kerüld az AI-fordulatokat:** "kapuja a hegyvidéknek / gateway to…", "testközelből / hautnah", "nem csoda, hogy…", "akár… akár…", "legyen szó… vagy…".
+- **Nyelvenkénti TILTÓLISTA (ezek a leglebuktatóbb AI-klisék, NE használd őket):**
+  - **EN:** vibrant, stunning, picturesque, nestled, breathtaking, charming, boasts, hidden gem, a must-visit, something for everyone, rich cultural heritage, immerse yourself.
+  - **DE:** malerisch, atemberaubend, lebendig, charmant, vielfältig, ein wahres Paradies, ein Muss für jeden Besucher, lädt zum Verweilen ein.
+  - **HU:** lenyűgöző, festői, elbűvölő, magával ragadó, igazi gyöngyszem, mindenki számára.
+  - **RO:** pitoresc, fermecător, uimitor, un adevărat paradis, merită vizitat.
+  Helyettük konkrétum (évszám, stílus, méret, helyi név) vagy semmi.
+- **EM/EN DASH TILOS** a szövegben (`—`, `–`). Helyette vessző, zárójel vagy pont. A gondolatjel azonnal AI-gyanús.
 
 ## 3. HATÉKONYSÁG — pontosan azt, amit kértek
 
