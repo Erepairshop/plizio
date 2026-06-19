@@ -1217,5 +1217,866 @@
     "image_url": ""
    }
   ]
+ },
+ "plage-de-la-chambre-d-amour-anglet": {
+  "beach": "Plage De La Chambre D Amour Anglet",
+  "town": "Anglet",
+  "country": "France",
+  "events": [
+   {
+    "name": "Caraïbos Surf de Nuit Anglet",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "A World Surf League Specialty Event and the world's only night surfing competition, held at the Chambre d'Amour beach breaks in Anglet with LED-laminated surfboards, glowing balloons and DJs lighting the arena after dark.",
+    "source_url": "https://www.anglet-tourisme.com/en/anglet-highlights/anglet-night-surfing/",
+    "image_url": ""
+   },
+   {
+    "name": "International Surf Film Festival Anglet",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-08-19 to 2026-08-22",
+    "date": "2026-08-19",
+    "blurb": "A long-running surf cinema festival where giant screens on the Chambre d'Amour site offer free open-air film screenings facing the ocean.",
+    "source_url": "https://surf-film.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Les Nocturnes de la Chambre d'Amour",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-07-03 to 2026-07-04",
+    "date": "2026-07-03",
+    "blurb": "Free open-air evening concerts on the Chambre d'Amour seafront organised by the town of Anglet, returning for its tenth year with two nights of live music by the ocean (2026 line-up includes Imany and Charlie Winston).",
+    "source_url": "https://www.anglet.fr/sorties/agendas/detail-dun-agenda/actualites/les-nocturnes-de-la-chambre-damour-6/",
+    "image_url": ""
+   },
+   {
+    "name": "Anglet Summer Fest",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-08-19 to 2026-08-28",
+    "date": "2026-08-19",
+    "blurb": "A seaside festival of board-sport culture featuring DJ sets, concerts, skate demonstrations and competitions, brand villages and artist exhibitions along the Anglet coast.",
+    "source_url": "https://www.anglet-tourisme.com/agenda/anglet/FMAAQU064V5C7SK8-anglet-summer-fest/",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-la-grande-conche": {
+  "beach": "Plage De La Grande Conche",
+  "town": "Royan",
+  "country": "France",
+  "events": [
+   {
+    "name": "Le Rêve d'Icare",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually early June (2026: June 3-7)",
+    "date": "2026-06-03",
+    "blurb": "An annual aeronautical and space festival held directly on the Plage de la Grande Conche in Royan, featuring aircraft displays and aviation activities. The 2026 edition is its 24th, running since 1989.",
+    "source_url": "https://lerevedicare.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Musiques et Gastronomie du Monde",
+    "type": "food",
+    "recurring": true,
+    "when": "annually early July (2026: July 3-4)",
+    "date": "2026-07-03",
+    "blurb": "A long-running Royan festival combining world music and international gastronomy, which celebrated its 30th anniversary in recent years.",
+    "source_url": "https://www.royanatlantique.fr/en/sejourner/agenda/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Royan-Orgues",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in October (2026: October 19-25)",
+    "date": "2026-10-19",
+    "blurb": "A festival of organ and contemporary music in Royan, with concerts, conferences and events centred on the town's historic Boisseau organ.",
+    "source_url": "https://www.festivalenfrance.com/festival/festival-royan-orgues",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-la-madrague-anglet": {
+  "beach": "Plage De La Madrague Anglet",
+  "town": "Anglet",
+  "country": "France",
+  "events": [
+   {
+    "name": "International Surf Film Festival (Festival International du Film de Surf)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually mid-to-late August (2026: 19-22 August)",
+    "date": "2026-08-19",
+    "blurb": "Free open-air surf cinema festival held on Anglet's Chambre d'Amour beachfront, combining film screenings on giant screens with surfing, exhibitions and concerts. It is one of surfing's major cultural film events, running for over two decades.",
+    "source_url": "https://surf-film.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Anglet Beach Rugby Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually late July / early August (2026: 30 July - 2 August)",
+    "date": "2026-07-30",
+    "blurb": "Created in 1992, this is the oldest and largest beach rugby tournament in France, played on the sand at Anglet's Plage de la Barre. It draws teams and crowds for a festive weekend of beach sport.",
+    "source_url": "https://www.guide-du-paysbasque.com/fr/agenda/evenements-sportifs/anglet-46/anglet-beach-rugby-festival-123896.html",
+    "image_url": ""
+   },
+   {
+    "name": "Anglet Summer Fest",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in summer (early August), ten-day run",
+    "date": "",
+    "blurb": "A ten-day summer celebration on Anglet's beaches bringing together surf, skate, music and exhibitions, with DJ sets, concerts and skate demonstrations and competitions.",
+    "source_url": "https://www.anglet-tourisme.com/agenda/anglet/FMAAQU064V5C7SK8-anglet-summer-fest/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Les Jours Heureux",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in May (2026: 22-25 May, 15th edition)",
+    "date": "2026-05-22",
+    "blurb": "An open-air music festival held in Anglet, reaching its 15th edition in 2026 with concerts across several days. It is a key spring cultural event in the town.",
+    "source_url": "https://www.anglet.fr/sorties/agendas/detail-dun-agenda/actualites/festival-les-jours-heureux-2026/",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-la-mine-d-or": {
+  "beach": "Plage De La Mine D Or",
+  "town": "Pénestin",
+  "country": "France",
+  "events": [
+   {
+    "name": "Le Printemps part en live",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-03-29",
+    "date": "2026-03-29",
+    "blurb": "A free family spring festival in Pénestin featuring three live concerts (chanson française, folk-blues and pop), a plant swap, a local makers' and producers' market, and food and drink stalls.",
+    "source_url": "https://golfedumorbihan56.com/event/printemps-part-en-live-penestin-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête de la Moule",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "An annual summer mussel festival at the port of Tréhiguier in Pénestin, serving the town's famous bouchot mussels and fries (moules-frites) alongside sea shanties, music and entertainment.",
+    "source_url": "https://www.labaule-guerande.com/fete-de-la-moule-penestin.html",
+    "image_url": ""
+   },
+   {
+    "name": "Les Mouclades d'Automne",
+    "type": "food",
+    "recurring": true,
+    "when": "annually first weekend of October",
+    "date": "",
+    "blurb": "An autumn celebration of Pénestin's bouchot mussels organised by the Confrérie des Bouchoteurs, gathering around fifty French brotherhoods for its grand annual chapter on the first weekend of October.",
+    "source_url": "https://academiedesconfreriesdebretagne.com/confrerie-des-bouchoteurs-de-penestin",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-la-vieille-eglise": {
+  "beach": "Plage De La Vieille Eglise",
+  "town": "Barneville-Carteret",
+  "country": "France",
+  "events": [
+   {
+    "name": "Barneville International Gliss'Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-07-11 to 2026-07-12 (annually mid-July)",
+    "date": "2026-07-11",
+    "blurb": "Action board-sports festival on the Grande Plage de Barneville and the seafront boulevard, featuring world-class riders in BMX, roller and other gliding disciplines. The 2026 edition marks its 10th anniversary and was rebranded as an international event.",
+    "source_url": "https://www.ici.fr/barneville-carteret/gliss-festival-2026-le-rendez-vous-des-riders-fete-ses-dix-ans-5647708",
+    "image_url": ""
+   },
+   {
+    "name": "Fête de la Mer (Sea Festival)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "Traditional maritime festival in Barneville-Carteret with a ceremony at the sailors' monument, a mass at the fishing port, a wreath-tossing tribute at sea, concerts throughout the day and an evening fireworks display.",
+    "source_url": "https://station.barneville-carteret.fr/fetes-de-mer/",
+    "image_url": ""
+   },
+   {
+    "name": "Contes a tous vents (Storytelling on the Beach)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "summer evenings",
+    "date": "",
+    "blurb": "Evening storytelling sessions held on the Plage de la Vieille Eglise in Barneville-Carteret, an open-air cultural event tied directly to this beach.",
+    "source_url": "https://station.barneville-carteret.fr/agenda-de-barneville-carteret/",
+    "image_url": ""
+   },
+   {
+    "name": "Marches de Barneville-Carteret (Local Markets)",
+    "type": "market",
+    "recurring": true,
+    "when": "Carteret Thursday to Saturday and Barneville on Sundays (July 1 to August 31)",
+    "date": "",
+    "blurb": "Seasonal open-air markets selling local produce and goods, held in Carteret from Thursday to Saturday and in Barneville on Sundays during July and August.",
+    "source_url": "https://station.barneville-carteret.fr/agenda-de-barneville-carteret/",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-piemanson": {
+  "beach": "Plage De Piemanson",
+  "town": "Salin-de-Giraud (Arles, Camargue)",
+  "country": "France",
+  "events": [
+   {
+    "name": "Fête du Sel (Salt Festival), Salin-de-Giraud",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in May (2026: 24 May)",
+    "date": "2026-05-24",
+    "blurb": "Traditional free festival in Salin-de-Giraud honouring the salt workers of the Camargue, with a salt blessing on horseback, a village procession to the arena, gardian horseman games, a regional meal and Provençal folk performances.",
+    "source_url": "https://www.thegoodarles.com/good-time-agenda-sorties-et-evenements-pays-d-arles/fete-du-sel-salin-de-giraud/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival du Sel (concert evening), Salin-de-Giraud",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late May (2026: 23 May, from 6pm)",
+    "date": "2026-05-23",
+    "blurb": "Evening event in Salin-de-Giraud combining concerts, DJ sets and performances set against the salt-marsh landscape, with food trucks and a bar.",
+    "source_url": "https://destination-camargue.fr/a-voir-a-faire/agenda/festival-du-sel/",
+    "image_url": ""
+   },
+   {
+    "name": "Pèlerinage des Gitans aux Saintes-Maries-de-la-Mer",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in May (2026: 24-26 May)",
+    "date": "2026-05-24",
+    "blurb": "Major Roma pilgrimage in the Camargue town of Saintes-Maries-de-la-Mer venerating Saint Sara, patron of the Gypsies, including a procession that carries the saints' statues down to the sea on the beach.",
+    "source_url": "https://www.catho-aixarles.fr/diocese/actualites/agenda/pelerinages/62229-pelerinage-de-mai-2026-aux-saintes-maries-de-la-mer/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête des Gardians, Arles",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on 1 May",
+    "date": "2026-05-01",
+    "blurb": "Emblematic Camargue festival held each 1 May in Arles by the Confrérie des Gardians in honour of their patron Saint George, featuring a costumed parade, a traditional mass and gardian games in the Arles arena.",
+    "source_url": "https://destination-camargue.fr/a-voir-a-faire/agenda/la-fete-des-gardians/",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-port-lin": {
+  "beach": "Plage De Port Lin",
+  "town": "Le Croisic",
+  "country": "France",
+  "events": [
+   {
+    "name": "Fête de la mer",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually on 15 August",
+    "date": "2026-08-15",
+    "blurb": "A traditional sea festival in Le Croisic celebrated for over a century, combining religious tradition with festivities including a nautical parade, folkloric shows, concerts and fireworks.",
+    "source_url": "https://www.labaule-guerande.com/en/offers/fete-de-la-mer-le-croisic-en-6334498/",
+    "image_url": ""
+   },
+   {
+    "name": "Tempo Festival Le Croisic",
+    "type": "music",
+    "recurring": true,
+    "when": "annually mid-May (Ascension weekend); 2026: 14-17 May",
+    "date": "2026-05-14",
+    "blurb": "An annual music festival held over four days at the Ancienne Criée by the harbour in Le Croisic, returning in 2026 for its 17th edition. The 2026 edition highlights women musicians and composers.",
+    "source_url": "https://www.tempo-festival-le-croisic.fr/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival du Film De la Page a l'Image Le Croisic - Guerande",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in October; 2026: 10-17 October",
+    "date": "2026-10-10",
+    "blurb": "A long-running film festival in Le Croisic celebrating its 20th anniversary in 2026 with an expanded scope extending to the medieval town of Guerande, under its new name.",
+    "source_url": "https://www.saintnazairenews.fr/news/de-la-page-a-l-image-le-festival-du-film-du-croisic-fete-ses-20-ans-et-voit-encore-plus-grand",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-roseau": {
+  "beach": "Plage De Roseau",
+  "town": "Capesterre-Belle-Eau, Guadeloupe",
+  "country": "France",
+  "events": [
+   {
+    "name": "Karukera One Love Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-07-04 and 2026-07-05 (annually early July)",
+    "date": "2026-07-04",
+    "blurb": "An annual open-air music festival held directly on Plage de Roseau in Capesterre-Belle-Eau, featuring DJ sets, guest artists, beach foam parties and a seaside atmosphere. The 2026 edition takes place on 4 and 5 July.",
+    "source_url": "https://www.bizouk.com/events/details/karukera-one-love-guadeloupe-2026/116315",
+    "image_url": ""
+   },
+   {
+    "name": "Kapes Kannaval (Carnival of Capesterre-Belle-Eau)",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-02-06 to 2026-02-08 (annually during Carnival season)",
+    "date": "2026-02-08",
+    "blurb": "Capesterre-Belle-Eau's Carnival weekend features night percussion-group parades, a children's carnival and King/Queen election, culminating in the grand Kapes Kannaval parade. The 2026 edition runs 6 to 8 February.",
+    "source_url": "https://rci.fm/guadeloupe/communiques/week-end-du-carnaval-Capesterre-Belle-Eau-du-06-au-080226",
+    "image_url": ""
+   },
+   {
+    "name": "Journees du Patrimoine de Capesterre-Belle-Eau (Heritage Days)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "Annual European Heritage Days in Capesterre-Belle-Eau, with exhibitions and guided visits at the town's emblematic monuments and historic sites.",
+    "source_url": "https://971.agendaculturel.fr/festival/journees-du-patrimoine-capesterre-belle-eau.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-sainte-marguerite": {
+  "beach": "Plage De Sainte Marguerite",
+  "town": "Pornichet",
+  "country": "France",
+  "events": [
+   {
+    "name": "Océanes Beach Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually May to July (6 free concert evenings)",
+    "date": "",
+    "blurb": "A free open-air music festival held at Place des Océanes in Pornichet, facing the ocean, with a series of evening concerts spread from May to early July. The 2026 edition features six concert evenings of rock, soul and pop acts.",
+    "source_url": "https://www.pornichet.fr/agenda/oceanes-beach-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Summer Evening Horse Races at the Hippodrome de Pornichet",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually, Thursday evenings in July and August",
+    "date": "",
+    "blurb": "The Hippodrome de Pornichet hosts a popular series of summer evening flat-racing meetings (over thirty races per year), with gates opening in the late afternoon. The 2026 summer calendar includes Thursday meetings in July and August.",
+    "source_url": "https://www.hippodrome-pornichet.fr/calendrier-et-resultats-hippodrome-pornichet",
+    "image_url": ""
+   },
+   {
+    "name": "Fête des Courses (Hippodrome Family Race Day)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in August at the Hippodrome de Pornichet",
+    "date": "",
+    "blurb": "A family-oriented race day at the Pornichet racecourse with free games and entertainment for children, live music and food trucks, held alongside the summer horse-racing programme.",
+    "source_url": "https://www.ville-pornichet.fr/fete-des-courses-lhippodrome-de-pornichet",
+    "image_url": ""
+   },
+   {
+    "name": "Pornichet Markets and Flea Market (Braderie)",
+    "type": "market",
+    "recurring": true,
+    "when": "annually; regular markets plus a large braderie in the town centre",
+    "date": "",
+    "blurb": "Pornichet holds regular markets and a large annual flea market (braderie) in its town-centre streets, drawing thousands of bargain-hunters each year.",
+    "source_url": "https://www.jds.fr/saint-nazaire/pornichet-21432_V/agenda/braderie-3_B",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-trez-goarem": {
+  "beach": "Plage De Trez Goarem",
+  "town": "Audierne (Esquibien), Cap Sizun, Finistère, Brittany",
+  "country": "France",
+  "events": [
+   {
+    "name": "Trail du Cap Sizun - Pointe du Raz",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-03-01 (annually, late February/early March)",
+    "date": "2026-03-01",
+    "blurb": "Annual coastal trail running event in Cap Sizun, with races of 15 km, 30 km and 52 km along the cliff paths past Pointe du Raz, Pointe du Van and the Baie des Trepasses. The 2026 edition is the 13th, organised by the Rederien Cap-Sizun association.",
+    "source_url": "https://www.klikego.com/inscription/trail-du-cap-pointe-du-raz-2026/course-a-pied-running/1540877566210-8",
+    "image_url": ""
+   },
+   {
+    "name": "Fete de la Musique a Audierne",
+    "type": "music",
+    "recurring": true,
+    "when": "annually around 21 June",
+    "date": "",
+    "blurb": "France's nationwide music festival is celebrated in Audierne with free open-air concerts from local and regional groups across the town. It takes place each year around the summer solstice on 21 June.",
+    "source_url": "https://29.agendaculturel.fr/festival/fete-de-la-musique-audierne.html",
+    "image_url": ""
+   },
+   {
+    "name": "Fete de la Mer (SNSM Baie d'Audierne)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in summer (early August)",
+    "date": "",
+    "blurb": "Maritime celebration organised by the SNSM lifeboat station of the Baie d'Audierne, with harbour-side festivities honouring local sea traditions and the town's fishing heritage.",
+    "source_url": "https://station-audierne.snsm.org/evenement/fete-de-la-mer",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-de-viard": {
+  "beach": "Plage De Viard",
+  "town": "Petit-Bourg, Guadeloupe",
+  "country": "France",
+  "events": [
+   {
+    "name": "Karujet - International Jet Ski Championship",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually (multi-day event)",
+    "date": "",
+    "blurb": "The Karujet is an international jet ski championship held in Guadeloupe with its main racing venue on the plan d'eau de Viard at Plage de Viard in Petit-Bourg. The multi-day competition draws around a hundred riders and counts toward the world championship.",
+    "source_url": "https://www.guadeloupe.fr/karujet/karujet-le-championnat-international-de-jetski/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête Patronale de Petit-Bourg",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-08-07 to 2026-08-16",
+    "date": "2026-08-07",
+    "blurb": "Petit-Bourg's annual patron-saint festival, a major multigenerational cultural event with stands, performances and activities. In 2026 it runs from 7 to 16 August.",
+    "source_url": "https://www.ville-petitbourg.fr/fete-patronale-de-petit-bourg-2025/",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-des-catalans": {
+  "beach": "Plage Des Catalans",
+  "town": "Marseille",
+  "country": "France",
+  "events": [
+   {
+    "name": "Tournoi International de Beach Volley des Catalans",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually mid-July (2026: 10-12 July)",
+    "date": "2026-07-10",
+    "blurb": "France's oldest beach volleyball tournament, a free 3x3 competition held on the sand of Plage des Catalans, organized by the Club de Volley Ball des Catalans (CVBC) for over 70 years and drawing top French and European players. The 2026 edition runs 10-12 July.",
+    "source_url": "https://www.catalans-beach-volley.com/le-tournoi-international/",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-des-libraires": {
+  "beach": "Plage Des Libraires",
+  "town": "Pornichet",
+  "country": "France",
+  "events": [
+   {
+    "name": "Blues sur la plage",
+    "type": "music",
+    "recurring": true,
+    "when": "annually early August",
+    "date": "",
+    "blurb": "Free open-air blues concert held in the evening directly on the Plage des Libraires, facing the Casino on Boulevard des Oceanides, traditionally followed by a fireworks display at sunset. Organised with the Casino of Pornichet, it has run for over a dozen editions.",
+    "source_url": "https://www.pornichet.fr/concert-blues-sur-la-plage-et-feu-dartifice",
+    "image_url": ""
+   },
+   {
+    "name": "Oceanes Beach Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually May to early July (2026: 7, 17, 23 May; 7, 19 June; 3 July)",
+    "date": "",
+    "blurb": "A series of six free evening concerts held on the Place des Oceanes facing the ocean in Pornichet. The 2026 line-up includes Rock'n Roll Express, Vertical, Mazingo, Kurddie Dalle and Mister French.",
+    "source_url": "https://www.pornichet.fr/agenda/oceanes-beach-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Fete de la Musique",
+    "type": "music",
+    "recurring": true,
+    "when": "annually 21 June",
+    "date": "2026-06-21",
+    "blurb": "Pornichet joins France's nationwide music day with open stages, DJ sets and concerts across the town's squares and seafront, including Place des Oceanes and the Mazy district. Participation is free and open to local musicians and associations.",
+    "source_url": "https://www.pornichet.fr/agenda/fete-de-la-musique",
+    "image_url": ""
+   },
+   {
+    "name": "Renc'Arts a Pornichet",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually mid-July to mid-August, evenings",
+    "date": "",
+    "blurb": "A summer street-arts programme in which performers from around the world take over Pornichet's neighbourhoods each evening from mid-July to mid-August. Free outdoor entertainment across the seaside town.",
+    "source_url": "https://www.pornichet.fr/sejourner/tous-les-evenements-pornichet",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-des-raisins-clairs": {
+  "beach": "Plage Des Raisins Clairs",
+  "town": "Saint-François, Guadeloupe",
+  "country": "France",
+  "events": [
+   {
+    "name": "Aqua Music Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-08-01 to 2026-08-02 (annually early August)",
+    "date": "2026-08-01",
+    "blurb": "A two-day open-air music festival held at the Stade de Saint-François, a short distance from Plage des Raisins Clairs. The 2026 edition (3rd) is themed 'Sous le soleil de Rio' and includes 'La Grande Parade' on August 2.",
+    "source_url": "https://www.aquamusicfestival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Fête du Poisson et de la Mer (Festival of Fish and the Sea)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in late March",
+    "date": "",
+    "blurb": "Saint-François celebrates its fishing heritage with a festival on the seafront featuring demonstrations of traditional fishing (trawling, trap-making, cast-net throwing), water sports and local seafood. The town is one of Guadeloupe's main fishing ports.",
+    "source_url": "https://www.routard.com/guide_agenda_detail/9973/fete_du_poisson_et_de_la_mer_a_saint_francois.htm",
+    "image_url": ""
+   },
+   {
+    "name": "Carnaval de Guadeloupe - Saint-François Parade",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in February (Carnival season); 2026 night parade on Lundi Gras, 16 February",
+    "date": "2026-02-16",
+    "blurb": "As part of the wider Guadeloupe Carnival, Saint-François hosts a large nighttime parade ('Grande Parade Nocturne') on Lundi Gras with costumed groups and traditional Caribbean music.",
+    "source_url": "https://la1ere.franceinfo.fr/guadeloupe/le-carnaval-de-guadeloupe-2026-sera-court-mais-intense-1656974.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-des-salines": {
+  "beach": "Plage Des Salines",
+  "town": "Sainte-Anne, Martinique",
+  "country": "France",
+  "events": [
+   {
+    "name": "Tour des Yoles Rondes de Martinique (start and finish in Sainte-Anne)",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-07-26 to 2026-08-02 (annually late July/early August)",
+    "date": "2026-07-26",
+    "blurb": "Martinique's flagship traditional sailing regatta, racing colorful round-bottom 'yoles'. The 40th edition (2026) both departs from and finishes in Sainte-Anne, the town nearest Plage des Salines, over eight coastal stages.",
+    "source_url": "https://rci.fm/martinique/infos/Sport/Tour-de-la-Martinique-des-Yoles-ronde-Sainte-Anne-sera-la-ville-de-depart-et-darrivee",
+    "image_url": ""
+   },
+   {
+    "name": "Fete Patronale de Sainte-Anne (Saint Anne's Day Festival)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around 26 July (Saint Anne's day)",
+    "date": "",
+    "blurb": "Sainte-Anne's patron saint festival held around 26 July in honor of Saint Anne, with a week or more of masses, religious processions, concerts and sports competitions in the town nearest Plage des Salines.",
+    "source_url": "https://www.routard.com/guide_agenda_detail/5840/fete_patronale_a_sainte_anne.htm",
+    "image_url": ""
+   },
+   {
+    "name": "Carnaval de Sainte-Anne",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually from Epiphany through Shrovetide (Jan-Feb/Mar)",
+    "date": "",
+    "blurb": "Sainte-Anne's Carnival runs from Epiphany to Shrovetide with street parades, costume contests and traditional music groups, part of Martinique's island-wide Carnival season.",
+    "source_url": "https://en.europcar-martinique.com/discover-martinique/activities/what-to-do-sainte-anne",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-du-diamant": {
+  "beach": "Plage Du Diamant",
+  "town": "Le Diamant, Martinique",
+  "country": "France",
+  "events": [
+   {
+    "name": "Tour de Martinique des Yoles Rondes (Le Diamant stage)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually late July / early August",
+    "date": "",
+    "blurb": "Martinique's famous week-long traditional sailing race (yoles rondes) regularly includes a stage hosted by Le Diamant, with the finish line on the Grande Anse beach amid markets, Creole music and a festive seaside atmosphere. The 2026 edition runs in the July 26 to August 2 window.",
+    "source_url": "https://www.jumbocar-martinique.com/blog-voyage/evenements/tour-des-yoles-martinique",
+    "image_url": ""
+   },
+   {
+    "name": "Fete Patronale du Diamant (Saint Thomas)",
+    "type": "religious",
+    "recurring": true,
+    "when": "patron saint Saint Thomas, late December (festivities around Dec 21)",
+    "date": "2026-12-21",
+    "blurb": "Le Diamant celebrates its patron saint, Saint Thomas, with a solemn mass and religious ceremonies; the parish feast day is December 21. Wider community festivities are traditionally organised around the patronal celebration.",
+    "source_url": "https://www.caraibesplus.fr/agenda/agenda-martinique/fetes-traditions-martinique/carnaval-et-fetes-patronales/fete-patronale-du-diamant-2026-messe-de-saint-thomas.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-du-port-vieux-biarritz": {
+  "beach": "Plage Du Port Vieux Biarritz",
+  "town": "Biarritz",
+  "country": "France",
+  "events": [
+   {
+    "name": "Wheels and Waves",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-06-10 to 2026-06-14",
+    "date": "2026-06-10",
+    "blurb": "Annual Biarritz festival celebrating custom motorcycles, surf, skate and music with a village at the Cité de l'Océan featuring live shaping, concerts, exhibitions and test rides.",
+    "source_url": "https://wheels-and-waves.com/en/biarritz/",
+    "image_url": ""
+   },
+   {
+    "name": "Biarritz Pays Basque Maider Arosteguy",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-10-30 to 2026-11-01",
+    "date": "2026-10-30",
+    "blurb": "The oldest surf competition in Europe (created in 1984), held on Biarritz's Grande Plage. The 40th edition is scheduled for late October 2026.",
+    "source_url": "https://www.destination-biarritz.fr/temps-fort/biarritz-pays-basque-groupe-clim-maider-arosteguy/",
+    "image_url": ""
+   },
+   {
+    "name": "Hotdogger Surf Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-05-22 to 2026-05-24",
+    "date": "2026-05-22",
+    "blurb": "Annual retro surf culture festival in Biarritz featuring a village, competition, exhibitions and music over three days.",
+    "source_url": "https://www.destination-biarritz.fr/en/temps-fort/hotdogger-surf-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Queen Classic Surf Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "An inclusive surf and longboard festival held on the Côte des Basques beach in Biarritz, celebrating diversity in surfing. The 2026 edition returns in September with the program announced over the summer.",
+    "source_url": "https://www.destination-biarritz.fr/en/temps-fort/queen-classic-surf-festival/",
+    "image_url": ""
+   }
+  ]
+ },
+ "plage-du-salus": {
+  "beach": "Plage Du Salus",
+  "town": "Île-d'Houat (Houat), Morbihan, Brittany",
+  "country": "France",
+  "events": [
+   {
+    "name": "Bénédiction de la mer et des bateaux (Blessing of the Sea and Boats)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 15 August (Assumption)",
+    "date": "2026-08-15",
+    "blurb": "On the Feast of the Assumption, the island holds a traditional Breton blessing of the sea and fishing boats at the Saint-Gildas church on Houat, a long-standing coastal maritime custom. Houat remains a small fishing community where this seafarers' blessing is observed each year.",
+    "source_url": "https://messes.info/lieu/56/ile-d-houat/eglise-saint-gildas",
+    "image_url": ""
+   },
+   {
+    "name": "Fête des Voisins (Neighbours' Day)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in late April (2026: 22 April)",
+    "date": "2026-04-22",
+    "blurb": "The island community of Houat takes part in the nationwide Fête des Voisins, a neighbourhood gathering organised locally by residents. The 2026 edition is scheduled for 22 April according to the Houat town hall.",
+    "source_url": "https://www.mairiedehouat.fr/actualites-activites-manifestations/",
+    "image_url": ""
+   }
+  ]
+ },
+ "plages-de-montsarrac": {
+  "beach": "Plages De Montsarrac",
+  "town": "Séné (Gulf of Morbihan, near Vannes)",
+  "country": "France",
+  "events": [
+   {
+    "name": "Fête des Voiles Rouges",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-07-04 to 2026-07-05 (biennial, early July)",
+    "date": "2026-07-04",
+    "blurb": "Biennial maritime festival at Port-Anna in Séné celebrating the town's seafaring heritage with a gathering of sinagots and traditional red-sailed boats, nautical activities, sea-shanty concerts, Breton music and quayside festivities. Entry and parking are free.",
+    "source_url": "https://www.festivalenfrance.com/festival/fete-des-voiles-rouges",
+    "image_url": ""
+   },
+   {
+    "name": "Festival La P'Art Belle",
+    "type": "music",
+    "recurring": true,
+    "when": "annually early September",
+    "date": "",
+    "blurb": "Eco-responsible micro-festival held each September in Séné, within the Gulf of Morbihan Regional Nature Park, with two days of concerts by emerging and committed artists, family shows, workshops and round tables on environmental themes.",
+    "source_url": "https://www.lapartbelle.bzh/",
+    "image_url": ""
+   },
+   {
+    "name": "Semaine du Golfe du Morbihan",
+    "type": "festival",
+    "recurring": true,
+    "when": "biennial, Ascension week in odd years (next edition 3-9 May 2027)",
+    "date": "",
+    "blurb": "Major biennial maritime event in which over a thousand traditional and heritage sailing boats cruise the Gulf of Morbihan, calling each evening at a different port among the seventeen participating gulf-shore communes including Séné and Vannes.",
+    "source_url": "https://www.semainedugolfe.com/",
+    "image_url": ""
+   }
+  ]
+ },
+ "plages-de-moya": {
+  "beach": "Plages De Moya",
+  "town": "Pamandzi (Petite-Terre, Mayotte)",
+  "country": "France",
+  "events": [
+   {
+    "name": "Fête de la Musique",
+    "type": "music",
+    "recurring": true,
+    "when": "annually around 21 June",
+    "date": "",
+    "blurb": "France's nationwide music festival is staged in Pamandzi on Petite-Terre, with around ten local and regional artists performing on the Place des Congrès, organised by the Communauté de Communes de Petite-Terre. Edition dates and security conditions vary year to year.",
+    "source_url": "https://la1ere.franceinfo.fr/mayotte/fete-de-la-musique-l-agenda-des-festivites-a-mayotte-1597428.html",
+    "image_url": ""
+   },
+   {
+    "name": "Trépidanses",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually (festival week)",
+    "date": "",
+    "blurb": "A dance and performing-arts festival on Petite-Terre organised by the Kazyadance company, held on the town-hall square of Dzaoudzi-Labattoir, featuring contemporary dance, theatre, music and puppetry with artists from Mayotte, Africa and mainland France.",
+    "source_url": "https://tourisme-petiteterre.fr/evenement/trepidanses-2023-j1",
+    "image_url": ""
+   },
+   {
+    "name": "Foires de l'Aïd / fin de Ramadan",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually during the last days of Ramadan / Aïd",
+    "date": "",
+    "blurb": "Family-friendly fairs marking the end of Ramadan and the Aïd celebrations are held at the Place des Congrès in Pamandzi, promoted by the Office de Tourisme de Petite-Terre in this predominantly Muslim French territory.",
+    "source_url": "https://outremertourisme.fr/celebrez-laid-avec-loffice-de-tourisme-de-petite-terre-les-foires-incontournables-de-cet-outre-mer-a-mayotte/",
+    "image_url": ""
+   }
+  ]
+ },
+ "pompierre-beach": {
+  "beach": "Pompierre Beach",
+  "town": "Terre-de-Haut (Îles des Saintes, Guadeloupe)",
+  "country": "France",
+  "events": [
+   {
+    "name": "Fête Patronale des Saintes (Fête des Marins et Pêcheurs)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 12-16 August, peak on 15 August",
+    "date": "2026-08-15",
+    "blurb": "Terre-de-Haut's five-day patronal festival honoring fishermen and sailors, centered on a solemn mass and Te Deum on 15 August commemorating a 17th-century event. Festivities include sailboat and canoe-kayak regattas held on the beach and at the landing dock, underwater fishing contests, the Miss Terre-de-Haut election, concerts and a closing fireworks display.",
+    "source_url": "https://www.portail-guadeloupe.com/fete-patronale-saintes.html",
+    "image_url": ""
+   },
+   {
+    "name": "Carnaval de Terre-de-Haut (Les Saintes)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in the weeks before Lent (February/March)",
+    "date": "",
+    "blurb": "Terre-de-Haut holds its own annual Carnival in the Les Saintes archipelago, with costumed parades and a colorful nautical procession featuring the carnival king Vaval. It is one of the southern Guadeloupe islands that maintains its carnival tradition.",
+    "source_url": "https://m.facebook.com/p/Carnaval-Terre-de-Haut-Les-Saintes-100063763251475/",
+    "image_url": ""
+   }
+  ]
+ },
+ "saleccia-beach": {
+  "beach": "Saleccia Beach",
+  "town": "Saint-Florent (Haute-Corse, Corsica)",
+  "country": "France",
+  "events": [
+   {
+    "name": "Les Nuits de la Guitare de Patrimonio",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late July (2026: 20-27 July)",
+    "date": "",
+    "blurb": "A renowned international guitar festival held each July at the open-air Theatre de Verdure in Patrimonio, just outside Saint-Florent, featuring jazz, blues, flamenco, rock and world-class guitarists since 1990. The 2026 edition runs 20-27 July.",
+    "source_url": "https://www.festival-guitare-patrimonio.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Porto Latino",
+    "type": "music",
+    "recurring": true,
+    "when": "annually early August (2026: 5-7 August)",
+    "date": "",
+    "blurb": "A Latin and world-music festival founded in 1998 in Saint-Florent's citadel; it has since grown and relocated to nearby Bastia, with the 2026 edition scheduled for 5-7 August.",
+    "source_url": "https://portolatino.fr/",
+    "image_url": ""
+   },
+   {
+    "name": "Saint-Erasme (Saint Erasmus, patron of fishermen) sea procession",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around 2 June",
+    "date": "",
+    "blurb": "On Saint Erasmus' day, the patron saint of fishermen, the saint's statue is carried aboard a boat in a procession across the Gulf of Saint-Florent, a long-standing local maritime tradition.",
+    "source_url": "https://www.mairiedesaintflorent.fr/actualites/",
+    "image_url": ""
+   }
+  ]
+ },
+ "valentin-beach": {
+  "beach": "Valentin Beach",
+  "town": "Batz-sur-Mer",
+  "country": "France",
+  "events": [
+   {
+    "name": "Les Nuits Salines",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late July (2026: 24-26 July)",
+    "date": "2026-07-24",
+    "blurb": "Annual music festival in Batz-sur-Mer held between Place du Murier and Esplanade Salies-de-Bearn. The 2026 edition (24-26 July) centers on Breton culture with Breton song, dance and traditional music, featuring acts such as Plantec, Les Ramoneurs de Menhirs and Sonerien Du.",
+    "source_url": "https://www.labaule-guerande.com/offres/festival-les-nuits-salines-batz-sur-mer-fr-6565804/",
+    "image_url": ""
+   },
+   {
+    "name": "Pardon Saint-Guenole",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on the third Sunday of August (2026: 16 August)",
+    "date": "2026-08-16",
+    "blurb": "A Breton religious festival held in Batz-sur-Mer every year since 1919, dedicated to Saint Guenole. It features a blessing of the salt during Mass, a procession of the patron saint's statue from the Chapelle du Murier, and a parade of paludiers (salt workers) in traditional costume celebrating Breton heritage.",
+    "source_url": "https://www.ot-batzsurmer.fr/pardon-saint-guenole.html",
+    "image_url": ""
+   },
+   {
+    "name": "Fete de la Musique",
+    "type": "music",
+    "recurring": true,
+    "when": "annually around 21 June (2026: 20 June)",
+    "date": "2026-06-20",
+    "blurb": "Batz-sur-Mer's edition of France's nationwide music day, held at Parc Freour and Place du Garnal with performances by local musical groups.",
+    "source_url": "https://www.batzsurmer.fr/informations-transversales/actualites/samedi-20-juin-fete-de-la-musique-a-batz-sur-mer-31218",
+    "image_url": ""
+   }
+  ]
  }
 }

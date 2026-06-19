@@ -236,5 +236,1064 @@
     "image_url": ""
    }
   ]
+ },
+ "albandeira-beach": {
+  "beach": "Albandeira Beach",
+  "town": "Carvoeiro (Lagoa municipality), Algarve",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Carvoeiro Black & White Night",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-06-20 (annually around the summer solstice in June)",
+    "date": "2026-06-20",
+    "blurb": "Free open-air street party in nearby Carvoeiro where roughly 30,000 visitors dress in black and white to mark the summer solstice, with multiple stages of live music, DJs, dance and family entertainment from evening until early morning.",
+    "source_url": "https://portugalconfidential.com/carvoeiro-black-white-party/",
+    "image_url": ""
+   },
+   {
+    "name": "FATACIL",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-08-21 to 2026-08-30 (annually late August)",
+    "date": "2026-08-21",
+    "blurb": "Lagoa's flagship craft, tourism, agricultural, commercial and industrial fair, running ten days with concerts, business and handicraft stands, agriculture and regional promotion. It is the main annual event of the Lagoa municipality that administers Albandeira Beach.",
+    "source_url": "https://en.wikipedia.org/wiki/Craft,_Tourism,_Agricultural,_Commercial_and_Industrial_Fair_of_Lagoa",
+    "image_url": ""
+   },
+   {
+    "name": "Lagoa Wine Show (Mostra de Vinhos de Lagoa)",
+    "type": "food",
+    "recurring": true,
+    "when": "2026-06-05 to 2026-06-09 (annually early June)",
+    "date": "2026-06-05",
+    "blurb": "Annual wine fair in Lagoa showcasing the wines of the Lagoa demarcated region alongside regional food and live entertainment.",
+    "source_url": "https://www.portugalresident.com/lagoa-unveils-biggest-events-of-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Lagoa Jazz Fest",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-07-17 to 2026-07-19 (annually mid-July)",
+    "date": "2026-07-17",
+    "blurb": "Annual jazz festival held in Lagoa over a July weekend, part of the municipality's summer cultural programme.",
+    "source_url": "https://www.portugalresident.com/lagoa-unveils-biggest-events-of-2026/",
+    "image_url": ""
+   }
+  ]
+ },
+ "albarquel-beach": {
+  "beach": "Albarquel Beach",
+  "town": "Setúbal",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Feira de Sant'Iago",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-07-23 to 2026-08-02 (annually late July to early August)",
+    "date": "2026-07-23",
+    "blurb": "Setúbal's largest popular festival, held for over 400 years, drawing around 400,000 visitors with concerts by local, national and international artists, artisan stalls, food stands and amusements at Parque Sant'Iago.",
+    "source_url": "https://www.feiradesantiago.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival do Choco",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in spring (around April)",
+    "date": "",
+    "blurb": "An annual gastronomic festival celebrating Setúbal's signature dish, choco frito (fried cuttlefish), with more than 50 participating restaurants across the municipality serving cuttlefish prepared in many traditional ways.",
+    "source_url": "https://setubalbay.org/en/festival-do-choco/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival do Moscatel",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in November (in nearby Palmela)",
+    "date": "",
+    "blurb": "A regional wine festival in neighbouring Palmela celebrating Moscatel de Setúbal, with tastings, showcooking, workshops and street food inspired by the area's sweet aromatic wine.",
+    "source_url": "https://vinhosdesetubal.pt/noticias/festival-do-moscatel/",
+    "image_url": ""
+   },
+   {
+    "name": "Festas de São Pedro (Setúbal)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in June (around São Pedro's day, 29 June)",
+    "date": "",
+    "blurb": "Setúbal's summer popular saint's festivities at Praça de São Pedro, with several nights of grilled sardines, traditional Bailarico dancing and Marchas Populares parades.",
+    "source_url": "https://www.festas-saopedro.pt/",
+    "image_url": ""
+   }
+  ]
+ },
+ "bordeira-s-beach": {
+  "beach": "Bordeira S Beach",
+  "town": "Carrapateira (Bordeira parish, Aljezur, Algarve)",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festival da Batata-Doce de Aljezur (Aljezur Sweet Potato Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late November",
+    "date": "",
+    "blurb": "Aljezur's flagship gastronomic festival celebrating its PGI-certified sweet potato, with traditional and contemporary dishes, sweets, live music and family activities. It draws around 15,000 visitors over a long weekend.",
+    "source_url": "https://festival-batatadoce.cm-aljezur.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Festas de Aljezur / Noite A - Noite Multicultural",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late August (around 28-29 August, municipality day)",
+    "date": "",
+    "blurb": "Aljezur's municipal celebrations centred on the 29 August municipality holiday, including the white-themed Noite A multicultural night in the historic centre with concerts before the castle walls, plus a traditional parade and 'holy bath' at Monte Clerigo beach.",
+    "source_url": "https://cm-aljezur.pt/pt/menu/279/festividades.aspx",
+    "image_url": ""
+   },
+   {
+    "name": "Surf and bodyboard competitions at Praia do Amado / Bordeira",
+    "type": "sport",
+    "recurring": true,
+    "when": "various dates through the year, mainly autumn-winter swell season",
+    "date": "",
+    "blurb": "The surf beaches around Carrapateira, especially neighbouring Praia do Amado, regularly host national and international surfing and bodyboarding championships thanks to their consistent Atlantic swells.",
+    "source_url": "https://www.algarveportugaltourism.com/costa-vicentina/praia-do-amado.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "costa-nova-do-prado": {
+  "beach": "Costa Nova Do Prado",
+  "town": "Costa Nova do Prado (Ílhavo), Aveiro",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Corrida Popular da Costa Nova do Prado",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-06-27",
+    "date": "2026-06-27",
+    "blurb": "An annual 10 km popular road race organised by the Ílhavo municipality, starting near the Costa Nova do Prado municipal market and running along the Ria de Aveiro towards Vagueira and back. Includes running, walking and a free children's race.",
+    "source_url": "https://lap2go.com/pt/event/corrida-popular-costa-nova-do-prado-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Festival do Marisco da Costa Nova",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late July / early August (2025 edition: 31 July - 3 August)",
+    "date": "",
+    "blurb": "A seafood festival held on the Costa Nova do Prado lawn, organised by Illiabum Clube with municipal support, serving mariscadas, stuffed crab and lobster, seafood rice, clams, shrimp and more. Runs across several days with lunch and dinner sittings.",
+    "source_url": "https://www.cm-ilhavo.pt/municipio/comunicacao/noticias/noticia-96/festival-do-marisco-de-regresso-ao-relvado-da-costa-nova-do-prado-de-31-de-julho-a-3-de-agosto",
+    "image_url": ""
+   },
+   {
+    "name": "Mareato",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in July (2025 edition across two weekends, 3-6 and 11-13 July)",
+    "date": "",
+    "blurb": "A summer cultural festival programmed by the Ílhavo municipality across Costa Nova do Prado and Praia da Barra, spread over two July weekends with music and seaside-themed activities.",
+    "source_url": "https://www.cm-ilhavo.pt/municipio/comunicacao/eventos/evento/mareato-2025-6",
+    "image_url": ""
+   }
+  ]
+ },
+ "falesia-beach": {
+  "beach": "Falesia Beach",
+  "town": "Albufeira (Olhos de Água)",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Algarve Smooth Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-05-12",
+    "date": "2026-05-12",
+    "blurb": "Annual international smooth jazz, soul and funk festival held at the Pine Cliffs Resort, which sits on the red cliffs directly above Praia da Falesia. The 2026 edition runs 12-17 May.",
+    "source_url": "https://www.pinecliffs.com/en/news/pine-cliffs-resort-hosts-algarve-smooth-jazz-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa de Nossa Senhora da Orada (Procissao pelo Mar)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 3-15 August, peak 14 August",
+    "date": "",
+    "blurb": "Albufeira's traditional festival honouring Nossa Senhora da Orada, patron saint of fishermen, with a procession by sea in which the image of the Virgin is carried by a flotilla of boats along the coast. Festivities run roughly 3-15 August, peaking on 14 August.",
+    "source_url": "https://eventos.visitalgarve.pt/28106/festa-da-nossa-senhora-da-orada",
+    "image_url": ""
+   },
+   {
+    "name": "Albufeira Wine Fair (Feira de Vinhos de Albufeira)",
+    "type": "food",
+    "recurring": true,
+    "when": "2026-04-17",
+    "date": "2026-04-17",
+    "blurb": "Annual wine fair at the Espaco Multiusos de Albufeira gathering more than 100 exhibitors of regional and national wines. The 2026 edition is scheduled for 17-19 April.",
+    "source_url": "https://albufeira.com/events/",
+    "image_url": ""
+   },
+   {
+    "name": "Albufeira Municipal Holiday (Feriado Municipal)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-08-20",
+    "date": "2026-08-20",
+    "blurb": "Albufeira's annual municipal holiday on 20 August, marked by concerts and a fireworks display in the town.",
+    "source_url": "https://albufeira.com/events/",
+    "image_url": ""
+   }
+  ]
+ },
+ "figueirinha-beach": {
+  "beach": "Figueirinha Beach",
+  "town": "Setúbal",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Feira de Sant'Iago",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-07-23 to 2026-08-02 (annually late July to early August)",
+    "date": "2026-07-23",
+    "blurb": "Setúbal's centuries-old Sant'Iago Fair, held for over 400 years at Parque Sant'Iago, is one of Portugal's largest fairs, drawing around 400,000 visitors with concerts, crafts, food stalls and rides. The 2026 edition runs from 23 July to 2 August.",
+    "source_url": "https://www.feiradesantiago.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Festroia - Setúbal International Film Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-06-06 to 2026-06-15 (annually in June)",
+    "date": "2026-06-06",
+    "blurb": "Festroia is Setúbal's long-running international film festival showcasing world cinema. Its 24th edition is scheduled for 6 to 15 June 2026.",
+    "source_url": "https://www.mun-setubal.pt/festroia-regressa-a-casa/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival do Choco Frito",
+    "type": "food",
+    "recurring": true,
+    "when": "annually (dates vary by year)",
+    "date": "",
+    "blurb": "An annual gastronomic festival in Setúbal celebrating choco frito (fried cuttlefish), the city's signature dish, with participating restaurants across the municipality serving regional cuttlefish specialties.",
+    "source_url": "https://noticias.mun-setubal.pt/choco-da-festival-de-sabores/",
+    "image_url": ""
+   },
+   {
+    "name": "Setubailas Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually (Latin dance festival)",
+    "date": "",
+    "blurb": "An international Latin dance festival held in Setúbal, bringing together dancers for a weekend of workshops, shows and social dancing.",
+    "source_url": "https://www.salsavida.com/event/portugal/setubal/setubailas-festival/",
+    "image_url": ""
+   }
+  ]
+ },
+ "fonte-da-telha-beach": {
+  "beach": "Fonte Da Telha Beach",
+  "town": "Costa da Caparica (Almada)",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "O Sol da Caparica",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-08-13 to 2026-08-16 (annually mid-August)",
+    "date": "2026-08-13",
+    "blurb": "The largest festival dedicated to Portuguese-language music, held at the Parque Urbano da Costa da Caparica next to the beach. The 2026 edition runs August 13-16 with artists such as Sara Correia, Quim Barreiros and Nininho Vaz Maia.",
+    "source_url": "https://festivalosoldacaparica.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Caparica Surf Fest",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-04-03 to 2026-04-12 (annually in April)",
+    "date": "2026-04-03",
+    "blurb": "A national surf festival on the Costa da Caparica coast (Praia do Paraiso), organised by the local surf association ASCC with the Portuguese Surf Federation. The 2026 edition runs April 3-12 and includes surf, bodyboard and longboard competitions plus the return of the National Clubs Championship.",
+    "source_url": "https://www.cm-almada.pt/caparica-surf-fest-2026",
+    "image_url": ""
+   }
+  ]
+ },
+ "guincho-beach": {
+  "beach": "Guincho Beach",
+  "town": "Cascais",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Windsurfing and Kitesurfing Competitions at Guincho",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually, peak season July-August",
+    "date": "",
+    "blurb": "Praia do Guincho is regarded as one of Portugal's best windsurfing and kitesurfing spots, with strong northerly winds and waves from spring to autumn. National and international windsurfing competitions are held here each year, and the beach was a stop on the windsurfing World Cup in the 1990s.",
+    "source_url": "https://www.visitportugal.com/en/content/windsurfing-and-kitesurfing",
+    "image_url": ""
+   },
+   {
+    "name": "Festas do Mar (Sea Festival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late August (2026: 20-23 and 27-30 August)",
+    "date": "",
+    "blurb": "One of Cascais's largest popular events, held in Cascais Bay with free open-air concerts by national and international artists, gastronomy, and crafts. A highlight is the procession in honour of Our Lady of the Navigators, reflecting the town's maritime heritage.",
+    "source_url": "https://www.cascais.pt/en/evento/festas-do-mar-sea-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Ageas Cooljazz",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in July (2026: throughout July)",
+    "date": "",
+    "blurb": "An annual open-air music festival in Cascais set in the Manuel Possolo Hippodrome and Marechal Carmona Park, blending jazz, soul and pop with big international headliners in a relaxed natural setting.",
+    "source_url": "https://www.timeout.com/cascais/news/what-an-year-these-are-the-major-events-of-cascais-in-2026-022626",
+    "image_url": ""
+   },
+   {
+    "name": "Coala Festival Cascais",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-05-30 to 2026-05-31",
+    "date": "2026-05-30",
+    "blurb": "A two-day festival at the Manuel Possolo Hippodrome celebrating Portuguese-language music, with a 2026 lineup including Caetano Veloso, Slow J, Bonga, Marina Sena and Ana Frango Eletrico.",
+    "source_url": "https://www.timeout.com/cascais/news/what-an-year-these-are-the-major-events-of-cascais-in-2026-022626",
+    "image_url": ""
+   }
+  ]
+ },
+ "porto-dinheiro": {
+  "beach": "Porto Dinheiro",
+  "town": "Lourinhã (Porto Dinheiro, freguesia de Ribamar)",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festa do Mar (Porto Dinheiro)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late July / early August",
+    "date": "",
+    "blurb": "Traditional fishing-community festival held on Porto Dinheiro beach itself, featuring a mass and sea procession in memory of fishermen (with the images of Nossa Senhora de Monserrate and Nossa Senhora da Boa Viagem) and the characteristic 'Pamplona'/vacada (bull run) on the sand.",
+    "source_url": "https://www.rtvon.pt/2024/07/17/tradicional-festa-do-mar-anima-praia-de-porto-dinheiro/",
+    "image_url": ""
+   },
+   {
+    "name": "Festas do Concelho e São João da Lourinhã",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around 24 June (municipal holiday)",
+    "date": "",
+    "blurb": "Lourinhã's main annual town festival, combining the municipal holiday (24 June) and São João celebrations at the Municipal Stadium with music, dancing, crafts and regional gastronomy.",
+    "source_url": "https://cm-lourinha.pt/menu/3187/festas-do-concelho",
+    "image_url": ""
+   },
+   {
+    "name": "Aguardente DOC Fest Lourinhã",
+    "type": "food",
+    "recurring": true,
+    "when": "annually mid-November",
+    "date": "",
+    "blurb": "Festival celebrating the Aguardente DOC Lourinhã, Portugal's only demarcated brandy region, with tastings, a seminar and producers; accompanied by a gastronomic fortnight in November.",
+    "source_url": "https://cm-lourinha.pt/39337/municipio-promove-aguardente-doc-fest-lourinha-de-15-a-17-de-novembro",
+    "image_url": ""
+   }
+  ]
+ },
+ "porto-santo-beach": {
+  "beach": "Porto Santo Beach",
+  "town": "Vila Baleira, Porto Santo (Madeira, Portugal)",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Columbus Festival (Festival de Colombo)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in September (2026: 17-20 September)",
+    "date": "2026-09-17",
+    "blurb": "Porto Santo's flagship festival, held in the island capital Vila Baleira, recreates 15th and 16th century life with a re-enactment of Christopher Columbus's arrival, historical parades, a period market, concerts, theatre and street animation. Columbus lived on the island after marrying Filipa Moniz, daughter of the first captain-donee.",
+    "source_url": "https://meetportosanto.pt/en/eventos-detalhe.php?id=83",
+    "image_url": ""
+   },
+   {
+    "name": "Porto Santo Wine Festival (Festa do Vinho)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in the last week of August",
+    "date": "",
+    "blurb": "An annual harvest celebration on Porto Santo featuring public grape-stomping, complimentary wine tasting and festivities marking the island's wine tradition.",
+    "source_url": "https://www.porto-santo.com/en/whatson.html",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Our Lady of Piety (Nossa Senhora da Piedade)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 28-29 August",
+    "date": "2026-08-28",
+    "blurb": "Religious celebration honouring the patron saint of Porto Santo, held at the parish church of Our Lady of Piety in Vila Baleira with processions and traditional festivities.",
+    "source_url": "https://www.porto-santo.com/en/whatson.html",
+    "image_url": ""
+   },
+   {
+    "name": "Porto Santo Carnival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in February (Carnival season)",
+    "date": "",
+    "blurb": "Porto Santo celebrates Carnival each February with parties, dancing and street parades in Vila Baleira.",
+    "source_url": "https://www.porto-santo.com/en/whatson.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-adraga": {
+  "beach": "Praia Da Adraga",
+  "town": "Almoçageme (Colares parish, Sintra)",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festas Populares de Almoçageme (Santos Populares / São Pedro)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late June (around 27-29 June)",
+    "date": "",
+    "blurb": "The village of Almoçageme, in the Colares parish nearest to Praia da Adraga, celebrates the Popular Saints in late June with arraial street parties, traditional food, music, a procession of São Pedro and community activities supported by the Colares Parish Council.",
+    "source_url": "https://correiodesintra.pt/2025/06/13/festas-populares-arraiais-e-muita-animacao-para-celebrar-sao-pedro/",
+    "image_url": ""
+   },
+   {
+    "name": "Festas de São Pedro de Sintra",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late June (around 19-29 June)",
+    "date": "",
+    "blurb": "Sintra's largest traditional street fair and patron-saint celebration, centred on Largo D. Fernando II, featuring food stalls, handicrafts, a fair and nightly live music. It is the main popular festival of the municipality that includes Praia da Adraga.",
+    "source_url": "https://cm-sintra.pt/atualidade/cultura/tradicionais-festas-de-sao-pedro-trazem-animacao-a-sintra",
+    "image_url": ""
+   },
+   {
+    "name": "Festival de Sintra",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in June (2026 edition around 11-21 June)",
+    "date": "",
+    "blurb": "A long-running classical music and performing-arts festival held in Sintra's historic palaces, churches and auditoriums, with orchestral concerts, recitals, opera, chamber music and dance.",
+    "source_url": "https://www.visitportugal.com/en/node/156009",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-aguda": {
+  "beach": "Praia Da Aguda",
+  "town": "Arcozelo, Vila Nova de Gaia",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festa em Honra de Nossa Senhora de Nazaré",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late August (2026: 21-24 August)",
+    "date": "2026-08-21",
+    "blurb": "The main annual festival held right at Praia da Aguda, a four-day religious and popular feast honouring Our Lady of Nazaré with candlelit processions, street entertainment, free concerts and fireworks over the sea. It has been celebrated for over a century (114th edition in 2026).",
+    "source_url": "https://festasearraiais.pt/eventos/festa-em-honra-de-nossa-senhora-de-nazare-2026-praia-da-aguda-8995",
+    "image_url": ""
+   },
+   {
+    "name": "São João na Praia da Aguda",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually around 23-24 June (São João night)",
+    "date": "",
+    "blurb": "Saint John's night celebration held at the Praia da Aguda fish auction hall (Lota do Peixe), part of the wider São João do Porto festivities in the Vila Nova de Gaia / Porto region.",
+    "source_url": "",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-amoreira": {
+  "beach": "Praia Da Amoreira",
+  "town": "Aljezur",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festival da Batata-doce de Aljezur (Aljezur Sweet Potato Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late November (2026: 28-30 November)",
+    "date": "2026-11-28",
+    "blurb": "One of southern Portugal's biggest autumn food festivals, celebrating Aljezur's protected-designation sweet potato with 100+ exhibitors, street-food stalls and tastings. The 28th edition ran 28-30 November 2025 and the event returns in 2026.",
+    "source_url": "https://festival-batatadoce.cm-aljezur.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Aljezur Surf Fest",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually spring (roughly March to May)",
+    "date": "",
+    "blurb": "A multi-week festival on the Costa Vicentina combining surf competitions at Arrifana beach (including a stage of the Southern Regional Circuit) with environmental, cultural and music events. The 2026 edition ran from late March into early May.",
+    "source_url": "https://cm-aljezur.pt/pt/noticias/64515/aljezur-surf-fest.aspx",
+    "image_url": ""
+   },
+   {
+    "name": "Festa dos Pescadores da Arrifana (Arrifana Fishermen's Feast)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually, last weekend of July",
+    "date": "",
+    "blurb": "A traditional fishermen's festival at Portinho da Arrifana near Aljezur featuring a procession at sea, religious ceremonies, grilled sardines, food and entertainment. An adjoining Arrifana Sunset Festival follows the next day.",
+    "source_url": "https://cm-aljezur.pt/pt/agenda/44095/festa-dos-pescadores-do-portinho-da-arrifana.aspx",
+    "image_url": ""
+   },
+   {
+    "name": "Aljezur Municipal Holiday Commemorations",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on 29 August",
+    "date": "2026-08-29",
+    "blurb": "Aljezur marks its municipal holiday on 29 August with civic and cultural celebrations, one of the town's recurring annual festivities alongside its Multicultural Night and Earth Fair.",
+    "source_url": "https://cm-aljezur.pt/pt/menu/279/festividades.aspx",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-arrifana": {
+  "beach": "Praia Da Arrifana",
+  "town": "Aljezur",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Aljezur Surf Fest",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually spring (late March to May)",
+    "date": "",
+    "blurb": "An annual surf festival organized by Clube Surf de Aljezur, with regional surf circuit competitions held directly at Praia da Arrifana alongside beach cleanups, music, art and cultural activities. The 2026 edition ran from late March through May.",
+    "source_url": "https://cm-aljezur.pt/pt/noticias/64515/aljezur-surf-fest.aspx",
+    "image_url": ""
+   },
+   {
+    "name": "Festival da Batata-doce de Aljezur (Sweet Potato Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "2026-11-28 to 2026-11-30",
+    "date": "2026-11-28",
+    "blurb": "One of the largest autumn food festivals in southern Portugal, celebrating Aljezur's renowned sweet potato with chef-prepared dishes, street food stalls and live entertainment. Free entry and parking.",
+    "source_url": "https://festival-batatadoce.cm-aljezur.pt/",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-baia-dos-tiros": {
+  "beach": "Praia Da Baia Dos Tiros",
+  "town": "Aljezur",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festival da Batata-Doce de Aljezur (Aljezur Sweet Potato Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late November / early December; 2026 edition 28-30 November",
+    "date": "2026-11-28",
+    "blurb": "Aljezur's flagship gastronomic festival celebrating its protected sweet potato, with around 150 exhibitors, tastings, cooking competitions, regional products and live music over a weekend at the town's multi-use centre. It draws thousands of visitors each year.",
+    "source_url": "https://festival-batatadoce.cm-aljezur.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Aljezur Surf Fest",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in spring (late April / early May); 2026 edition held 1-3 May",
+    "date": "",
+    "blurb": "An annual surfing and beach-culture festival organised by Aljezur Surf Club, with surf competitions held at Arrifana Beach plus music, art, cinema, skateboarding and sustainability activities. The 2026 edition was its second/third running.",
+    "source_url": "https://cm-aljezur.pt/pt/noticias/64515/aljezur-surf-fest.aspx",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-carreagem": {
+  "beach": "Praia Da Carreagem",
+  "town": "Aljezur (nearest village: Rogil)",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festival da Batata-doce de Aljezur (Sweet Potato Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late November (2026: 28-30 November)",
+    "date": "2026-11-28",
+    "blurb": "Aljezur's flagship annual gastronomy festival celebrating its protected 'Lira' sweet potato, with showcooking, tastings, local produce stalls, crafts and live music. Entry and parking are free.",
+    "source_url": "https://festival-batatadoce.cm-aljezur.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa dos Pescadores do Portinho da Arrifana (Fishermen's Festival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually, last weekend of July",
+    "date": "",
+    "blurb": "Traditional fishermen's festival at the Portinho da Arrifana near Aljezur, featuring a procession by sea and a popular fair.",
+    "source_url": "https://cm-aljezur.pt/pt/agenda/44095/festa-dos-pescadores-do-portinho-da-arrifana.aspx",
+    "image_url": ""
+   },
+   {
+    "name": "Aljezur Surf Fest",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually throughout April",
+    "date": "",
+    "blurb": "A month-long event in the Aljezur/Costa Vicentina area combining surfing, music, photography and culture, including a stage of the Southern Regional Surf Circuit held on Arrifana beach.",
+    "source_url": "https://www.sulinformacao.pt/en/2025/04/aljezur-surf-fest-promete-um-mes-de-surf-musica-e-cultura/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival do Sargo da Costa Vicentina",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late May (participating restaurants)",
+    "date": "",
+    "blurb": "A gastronomy festival across the Aljezur and Vila do Bispo municipalities in which participating restaurants serve dishes based on locally caught sargo (white seabream).",
+    "source_url": "https://cm-aljezur.pt/pt/3602/festival-sargo-da-costa-vicentina-dinamiza-municipios-de-aljezur-e-vila-do-bispo---de-20-a-29-de-maio-nos-restaurantes-aderentes.aspx",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-coelha": {
+  "beach": "Praia Da Coelha",
+  "town": "Albufeira (Sesmarias)",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festival de Música Al-Mutamid",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in February (26th edition in 2026)",
+    "date": "2026-02-07",
+    "blurb": "Long-running Arabic and Andalusian music festival honouring the poet-king Al-Mutamid, with concerts at the Auditorio Municipal de Albufeira. The 2026 edition featured the 1001 Nights Ensemble on 7 February and Yinnan Al Andalus on 9 February.",
+    "source_url": "https://www.cm-albufeira.pt/evento/xxvi-festival-de-musica-al-mutamid-1001-nights-ensemble",
+    "image_url": ""
+   },
+   {
+    "name": "Festa de Nossa Senhora da Orada (Festa da Ourada)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 14 August",
+    "date": "2026-08-14",
+    "blurb": "Albufeira's traditional festival honouring Nossa Senhora da Orada, patron saint of fishermen, with a procession from the parish church to the seafront ending in a midnight fireworks display over Praia dos Pescadores.",
+    "source_url": "https://visitalbufeira.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Albufeira Carpe Nox (New Year's Eve)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually on 31 December",
+    "date": "2026-12-31",
+    "blurb": "Albufeira's flagship New Year's Eve celebration at Praia dos Pescadores, featuring fireworks, a drone and laser sea-and-sky show, plus free concerts and DJ sets on the beach.",
+    "source_url": "https://www.myguidealgarve.com/events/new-years-eve-in-albufeira-albufeira-carpe-nox",
+    "image_url": ""
+   },
+   {
+    "name": "Banho 29",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on the night of 29 August",
+    "date": "2026-08-29",
+    "blurb": "An ancient Algarve end-of-summer tradition in which people gather on the seafront for a purifying midnight sea bath; celebrated along the Algarve coast (notably Lagos, Praia da Luz, Manta Rota and Odeceixe) with music and festivities.",
+    "source_url": "https://www.theportugalnews.com/news/2024-07-12/festa-do-banho-29-returns/90540",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-cordoama": {
+  "beach": "Praia Da Cordoama",
+  "town": "Vila do Bispo",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festival do Perceve (Goose Barnacle Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually (recent editions in June; historically late August/September)",
+    "date": "",
+    "blurb": "Vila do Bispo, the self-proclaimed 'Capital dos Percebes', celebrates its hand-harvested goose barnacles with tastings, cooking demonstrations and live music in the municipal square. The festival is held annually around the local harvesting season.",
+    "source_url": "https://cm-viladobispo.pt/pt/agenda/2608/vi-festival-do-perceve-de-vila-do-bispo.aspx",
+    "image_url": ""
+   },
+   {
+    "name": "Sagres Birdwatching Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-10-02 to 2026-10-05",
+    "date": "2026-10-02",
+    "blurb": "One of Portugal's largest nature events, held in Sagres in the Vila do Bispo municipality, featuring field trips, boat and dolphin-watching tours, workshops, bird ringing sessions and guided hikes during the autumn raptor migration.",
+    "source_url": "https://www.facebook.com/birdwatchingfestivalofsagres/",
+    "image_url": ""
+   },
+   {
+    "name": "Marine Science Festival (Festival das Ciencias do Mar)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-05-06 to 2026-05-09",
+    "date": "2026-05-09",
+    "blurb": "Organized by the University of Algarve and Vila do Bispo City Council in Sagres, the festival brings students, seniors and the general public closer to marine research and biodiversity through hands-on activities.",
+    "source_url": "https://www.sulinformacao.pt/en/2026/04/festival-das-ciencias-do-mar-volta-a-sagres-pela-mao-da-universidade-do-algarve/",
+    "image_url": ""
+   },
+   {
+    "name": "Vila do Bispo Monthly Market",
+    "type": "market",
+    "recurring": true,
+    "when": "monthly, 1st Thursday of every month",
+    "date": "",
+    "blurb": "A traditional monthly market held in front of the market hall in Vila do Bispo, the nearest town to Praia da Cordoama, on the first Thursday of each month.",
+    "source_url": "https://www.visitsagres.com/post/vila-do-bispo-guide",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-dona-ana": {
+  "beach": "Praia Da Dona Ana",
+  "town": "Lagos",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Banho 29 (Midnight Swim Festival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually 29 August",
+    "date": "2026-08-29",
+    "blurb": "A centuries-old Lagos tradition where locals take a purifying midnight sea bath on 29 August to mark the end of summer, now celebrated with a weekend of live music, entertainment and fireworks at the beaches of Lagos and nearby Praia da Luz.",
+    "source_url": "https://www.portugalresident.com/midnight-swim-tradition-celebrated-in-lagos/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival dos Descobrimentos",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late April / early May (2026: 30 Apr - 4 May)",
+    "date": "2026-04-30",
+    "blurb": "An annual cultural festival in the historic centre of Lagos celebrating the town's role in the Portuguese Age of Discoveries, with parades, a medieval-style market, street performances, music and traditional crafts.",
+    "source_url": "https://eventos.visitalgarve.pt/16373/xii-festival-dos-descobrimentos-a-grande-aventura-de-lagos-ao-japao",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-foz-do-lizandro": {
+  "beach": "Praia Da Foz Do Lizandro",
+  "town": "Ericeira",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festas em Honra de Nossa Senhora da Boa Viagem",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually mid-August",
+    "date": "",
+    "blurb": "Ericeira's main traditional festival honoring the patroness of fishermen, held annually in mid-August since 1947. Highlights include a procession of decorated boats out to sea, street celebrations, concerts, swimming competitions at Praia dos Pescadores, and fireworks.",
+    "source_url": "https://www.paroquiadaericeira.pt/site/index.php?cont_=115&id=1322",
+    "image_url": ""
+   },
+   {
+    "name": "WSL Challenger Series - Ericeira (MEO Vissla Pro)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually, autumn; part of the 2026 WSL Challenger Series",
+    "date": "",
+    "blurb": "Ericeira, the only World Surfing Reserve in continental Europe, hosts a World Surf League Challenger Series event, a qualifying platform for the Championship Tour. The competition is held at the Ribeira d'Ilhas pointbreak just north of town.",
+    "source_url": "https://www.worldsurfleague.com/posts/485466/essentials-the-meo-vissla-pro-ericeira",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-gale": {
+  "beach": "Praia Da Gale",
+  "town": "Armação de Pêra (between Albufeira and Armação de Pêra, Algarve)",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festival da Caldeirada de Armação de Pêra (Fish Stew Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late May",
+    "date": "2026-05-22",
+    "blurb": "Annual seafood festival in the fishing town of Armação de Pêra (organised by Silves municipality) promoting local sea products, with more than a dozen participating restaurants serving the traditional caldeirada fish stew. The 2026 edition runs 22-24 May.",
+    "source_url": "https://www.sulinformacao.pt/en/2026/05/armacao-de-pera-inspira-se-nos-sabores-do-mar-em-festival-com-13-restaurantes-aderentes/",
+    "image_url": ""
+   },
+   {
+    "name": "Santos Populares / Festa dos Pescadores, Armação de Pêra",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in June",
+    "date": "",
+    "blurb": "Traditional June popular-saints celebration in Armação de Pêra honouring the fishing community and Our Lady of the Navigators (Nossa Senhora dos Navegantes), with a seaside procession of decorated boats, open-air mass, grilled sardines, music and fireworks.",
+    "source_url": "https://www.searchandstay.com/destinations/post/the-best-community-events-and-festivals-in-armacao-de-pera-faro-portugal",
+    "image_url": ""
+   },
+   {
+    "name": "Algarve Smooth Jazz Festival (Pine Cliffs Resort)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in May",
+    "date": "2026-05-12",
+    "blurb": "International jazz, soul and funk festival held at the Pine Cliffs Resort near Albufeira, with oceanfront performances. The 2026 edition runs 12-18 May.",
+    "source_url": "https://www.joyridealgarve.com/post/algarve-events-summer2026",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-granja": {
+  "beach": "Praia Da Granja",
+  "town": "São Félix da Marinha (Vila Nova de Gaia), adjacent to Espinho",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festas de São Félix da Marinha",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late July",
+    "date": "",
+    "blurb": "The annual patron-saint festivities of São Félix da Marinha, the parish that includes Praia da Granja, with an opening ceremony, brass bands, folklore festival, musical performances and a solemn mass.",
+    "source_url": "http://www.jfsfelix.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Festas em Honra de São Pedro (Espinho)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late June",
+    "date": "",
+    "blurb": "One of the largest pilgrimages in the Espinho municipality, honoring Saint Peter (patron of fishermen) with a large procession through the streets of the nearby seaside city of Espinho.",
+    "source_url": "https://www.visit.espinho.pt/en/tourism/festivities-festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa de Nossa Senhora do Mar (Silvalde, Espinho)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually first weekend of August",
+    "date": "",
+    "blurb": "Celebration in honor of Nossa Senhora do Mar, patron saint of local fishermen, held in the Silvalde fishing district of nearby Espinho on the first weekend of August.",
+    "source_url": "https://www.visit.espinho.pt/en/tourism/festivities-festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Festival Internacional de Música de Espinho (FIME)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually June to July (2026: 19 June - 31 July)",
+    "date": "",
+    "blurb": "Long-running international music festival in the nearby city of Espinho, with over four decades of history; the 2026 edition runs from 19 June to 31 July with classical and jazz concerts.",
+    "source_url": "https://www.musica-esp.pt/festival-internacional-de-musica-de-espinho/programacao-bilheteira",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-ingrina": {
+  "beach": "Praia Da Ingrina",
+  "town": "Vila do Bispo (nearest village: Raposeira)",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festival do Perceve (Goose Barnacle Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late June",
+    "date": "",
+    "blurb": "Vila do Bispo's signature gastronomy festival celebrating the locally harvested goose barnacle (perceve), with tastings, music and craft stalls. The event draws over 11,000 visitors each year and reached its 11th edition in 2025.",
+    "source_url": "https://eventos.visitalgarve.pt/28195/festival-do-perceve",
+    "image_url": ""
+   },
+   {
+    "name": "Sagres Birdwatching & Nature Activities Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-10-02 to 2026-10-05",
+    "date": "2026-10-02",
+    "blurb": "Portugal's largest nature festival, held in the Vila do Bispo / Sagres area, featuring guided bird and dolphin-watching excursions, workshops, talks and field trips. Organized by Vila do Bispo Municipal Council with SPEA and Almargem.",
+    "source_url": "https://birdwatchingsagres.com/en/destaque/75/highlights-from-the-2025-edition-and-dates-for-2026",
+    "image_url": ""
+   },
+   {
+    "name": "Festival das Ciencias do Mar (Marine Science Festival)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually early May (2026: May 6-9)",
+    "date": "2026-05-06",
+    "blurb": "A marine science festival in Sagres organized with the University of Algarve, with school activities focused on marine research and biodiversity and a public open day. Held in the Vila do Bispo municipality, the coastal area that includes Praia da Ingrina.",
+    "source_url": "https://www.sulinformacao.pt/en/2026/04/festival-das-ciencias-do-mar-volta-a-sagres-pela-mao-da-universidade-do-algarve/",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-oura": {
+  "beach": "Praia Da Oura",
+  "town": "Albufeira",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Albufeira Radical",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in spring (2026 edition held 2-4 April)",
+    "date": "2026-04-02",
+    "blurb": "A three-day urban and radical sports festival at Praia dos Pescadores in Albufeira featuring skateboarding, BMX, climbing, surf and kayak demonstrations alongside free live music. The 2026 first edition is part of the Albufeira European City of Sport 2026 programme.",
+    "source_url": "https://www.cm-albufeira.pt/evento/albufeira-radical",
+    "image_url": ""
+   },
+   {
+    "name": "Festa da Sardinha de Olhos de Água (Sardine Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "A traditional three-day sardine festival in the nearby fishing area of Olhos de Água, serving freshly grilled sardines with boiled potatoes, tomato salad and regional wine, accompanied by live music. Organised by the Albufeira and Olhos de Água Parish Council with free admission.",
+    "source_url": "https://www.cm-albufeira.pt/evento/festa-da-sardinha-de-olhos-de-agua",
+    "image_url": ""
+   },
+   {
+    "name": "Dia do Município de Albufeira (Municipal Holiday)",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "annually on 20 August",
+    "date": "2026-08-20",
+    "blurb": "Albufeira's municipal holiday marks the granting of its Charter of Privilege by King Manuel I in 1504, celebrated with sports events, official ceremonies, a seaside concert and a fireworks display at Praia dos Pescadores.",
+    "source_url": "https://www.cm-albufeira.pt/artigo/albufeira-comemora-dia-do-municipio-com-desporto-cultura-musica-e-fogo-de-artificio",
+    "image_url": ""
+   },
+   {
+    "name": "Algarve Smooth Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in May (2026 edition 12-18 May)",
+    "date": "2026-05-12",
+    "blurb": "An annual oceanfront jazz, soul and funk festival held at the Pine Cliffs Resort in Albufeira, bringing international artists for a week of performances near the cliffs of the Algarve coast.",
+    "source_url": "https://bandsintown.com/f/160859-algarve-smooth-jazz-festival-2025",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-rocha-baixinha": {
+  "beach": "Praia Da Rocha Baixinha",
+  "town": "Vilamoura / Quarteira (Albufeira municipality, Algarve)",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Vilamoura Marina International Boat Show",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-06-06 to 2026-06-14",
+    "date": "2026-06-06",
+    "blurb": "An annual nautical show at Vilamoura Marina featuring over 35 exhibitors, 50 brands and 100+ boats, plus nautical equipment and water-sports activities. Admission is free.",
+    "source_url": "https://portugalconfidential.com/vilamoura-boat-show/",
+    "image_url": ""
+   },
+   {
+    "name": "Festa em Honra de Nossa Senhora da Conceicao (Quarteira)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually 7-8 December",
+    "date": "2026-12-07",
+    "blurb": "Quarteira's patron-saint festival, held each 7-8 December, beginning with an evening candle procession between local churches and culminating in a solemn procession toward the sea. Organised by the parish and Loule municipal council.",
+    "source_url": "https://www.jf-quarteira.pt/agenda/festa-em-honra-de-nossa-senhora-da-conceicao-2024-2294",
+    "image_url": ""
+   },
+   {
+    "name": "Loule Carnival (Carnaval de Loule)",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-02-15 to 2026-02-17",
+    "date": "2026-02-15",
+    "blurb": "Portugal's longest-running Carnival, with over a century of parades, satirical floats and dancers along Avenida Jose da Costa Mealha in nearby Loule.",
+    "source_url": "https://www.theportugalnews.com/news/2026-02-15/loule-carnival-2026/960215",
+    "image_url": ""
+   },
+   {
+    "name": "Enofilo Wine Fest Vilamoura",
+    "type": "food",
+    "recurring": true,
+    "when": "2026-03-07",
+    "date": "2026-03-07",
+    "blurb": "A walk-around wine tasting in Vilamoura featuring around 35 producers and over 300 wines, with a special focus on wines of the Algarve.",
+    "source_url": "https://allevents.in/vilamoura/calendar",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-da-senhora-da-rocha": {
+  "beach": "Praia Da Senhora Da Rocha",
+  "town": "Porches (Lagoa), Algarve",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festa em Honra de Nossa Senhora da Rocha",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on the first Sunday of August",
+    "date": "2026-08-02",
+    "blurb": "Traditional religious festival centred on the cliff-top chapel above Praia da Senhora da Rocha. The saint's image is carried down to the beach for a procession and a 'blessing of the sea' rite for fishermen and their boats, followed by a solemn Mass and community celebration.",
+    "source_url": "https://www.cm-lagoa.pt/conhecer/patrimonio-cultural/patrimonio-imaterial/festividades/poi/festa-em-honra-de-nossa-senhora-da-rocha",
+    "image_url": ""
+   }
+  ]
+ },
+ "praia-das-adegas": {
+  "beach": "Praia Das Adegas",
+  "town": "Odeceixe (Aljezur municipality), Algarve, Portugal",
+  "country": "Portugal",
+  "events": [
+   {
+    "name": "Festival da Batata-Doce de Aljezur (Aljezur Sweet Potato Festival)",
+    "type": "food",
+    "recurring": true,
+    "when": "2026-11-28 to 2026-11-30 (annually late November)",
+    "date": "2026-11-28",
+    "blurb": "One of southern Portugal's largest autumn food festivals, celebrating Aljezur's famous protected sweet potato with food stalls, tastings, crafts and live music. Free entry and parking, held in Aljezur town near Praia das Adegas.",
+    "source_url": "https://festival-batatadoce.cm-aljezur.pt/",
+    "image_url": ""
+   },
+   {
+    "name": "Feira do Folar e da Doçaria de Odeceixe (Odeceixe Easter Pastry Fair)",
+    "type": "food",
+    "recurring": true,
+    "when": "2026-04-03 to 2026-04-05 (annually around Easter)",
+    "date": "2026-04-03",
+    "blurb": "Traditional Easter fair in Odeceixe, the nearest town to Praia das Adegas, showcasing the regional folar pastry, local sweets, crafts and live music. The 16th edition runs over the Easter weekend.",
+    "source_url": "https://cm-aljezur.pt/pt/noticias/64486/odeceixe-celebra-a-tradicao-inscricoes-abertas-para-a-feira-do-folar-2026.aspx",
+    "image_url": ""
+   },
+   {
+    "name": "ESTAR - Encontros de Teatro e Animação de Rua",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually mid-August (4th edition Aug 17-19)",
+    "date": "",
+    "blurb": "A street theatre and performance festival held in the village of Odeceixe, bringing live outdoor cultural animation to the streets of the town nearest Praia das Adegas.",
+    "source_url": "https://www.e-cultura.pt/evento/6266",
+    "image_url": ""
+   },
+   {
+    "name": "Feira de Odeceixe (Odeceixe Fair)",
+    "type": "market",
+    "recurring": true,
+    "when": "annually, first Sunday of September",
+    "date": "",
+    "blurb": "A traditional annual fair in Odeceixe held on the first Sunday of September, featuring regional products, crafts and local entertainment.",
+    "source_url": "https://cm-aljezur.pt/pt/menu/279/festividades.aspx",
+    "image_url": ""
+   }
+  ]
  }
 }
