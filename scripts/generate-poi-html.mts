@@ -1669,7 +1669,8 @@ function renderPracticalInfo(poi: POI, lang: Lang): string {
       if (!raw || typeof raw !== "object") return "";
       const v = (raw[lang] || raw.en || raw.de || raw.hu || raw.ro || "") as string;
       if (!v || typeof v !== "string" || v.length < 10) return "";
-      return `<div class="plz-pract-item"><div class="plz-pract-icon">${PINFO_ICON[k] || "ℹ️"}</div><div class="plz-pract-body"><div class="plz-pract-label">${escapeHtml(L[k] || k)}</div><div class="plz-pract-value">${escapeHtml(v)}</div></div></div>`;
+      const vClean = deSlop(stripCurriculumLeak(v), lang, poi.id + ":pinfo:" + k);
+      return `<div class="plz-pract-item"><div class="plz-pract-icon">${PINFO_ICON[k] || "ℹ️"}</div><div class="plz-pract-body"><div class="plz-pract-label">${escapeHtml(L[k] || k)}</div><div class="plz-pract-value">${escapeHtml(vClean)}</div></div></div>`;
     }).filter(Boolean).join("");
     if (!items) return "";
     return `<section class="plz-pract"><h2>${C.title}</h2><div class="plz-pract-grid">${items}</div></section>`;
@@ -1694,7 +1695,7 @@ function renderPracticalInfo(poi: POI, lang: Lang): string {
     if (k === "website" && /^https?:\/\//.test(v)) {
       valHtml = `<a href="${escapeHtml(v)}" target="_blank" rel="nofollow noopener">${escapeHtml(v.replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, ""))}</a>`;
     } else {
-      valHtml = escapeHtml(v);
+      valHtml = escapeHtml(deSlop(stripCurriculumLeak(v), lang, poi.id + ":pract:" + k));
     }
     return `<div class="plz-pract-item"><div class="plz-pract-icon">${emoji}</div><div class="plz-pract-body"><div class="plz-pract-label">${escapeHtml(label)}</div><div class="plz-pract-value">${valHtml}</div></div></div>`;
   }).filter(Boolean).join("");
@@ -1910,9 +1911,9 @@ function renderInfoCard(poi: POI, lang: Lang, countryId: string): string {
     if (fs.existsSync(tp)) {
       const ct = JSON.parse(fs.readFileSync(tp, "utf-8"));
       const L = (o: any) => (o && (o[lang] || o.en)) || [];
-      const tipLis = L(ct.tips).map((x: string) => `<li>${escapeHtml(x)}</li>`).join("");
-      const picks = (arr: any[], emoji: string) => arr.map((p: any) =>
-        `<div class="plz-ic-pick"><span>${emoji}</span><div><b>${escapeHtml(String(p.name || ""))}</b><p>${escapeHtml(String(p.tip || ""))}</p></div></div>`).join("");
+      const tipLis = L(ct.tips).map((x: string, _i: number) => `<li>${escapeHtml(deSlop(stripCurriculumLeak(String(x)), lang, poi.id + ":ctip" + _i))}</li>`).join("");
+      const picks = (arr: any[], emoji: string) => arr.map((p: any, _i: number) =>
+        `<div class="plz-ic-pick"><span>${emoji}</span><div><b>${escapeHtml(String(p.name || ""))}</b><p>${escapeHtml(deSlop(stripCurriculumLeak(String(p.tip || "")), lang, poi.id + ":cpick" + emoji + _i))}</p></div></div>`).join("");
       tipsHtml = `
   <div class="plz-ic-sec"><h4>💡 ${escapeHtml(t.tips)}</h4><ul class="plz-ic-tips">${tipLis}</ul></div>
   <div class="plz-ic-sec"><h4>🍽 ${escapeHtml(t.gastro)}</h4>${picks(L(ct.gastro_picks), "🍽")}</div>
@@ -2117,7 +2118,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   }
   function renderStopCard(s: any, i: number, prevCoords: [number, number] | null, mode: string): string {
     const name = pickStr(s.name);
-    const tip = pickStr((s.tip_5lang || {})[lang] || s.tip_5lang);
+    const tip = deSlop(stripCurriculumLeak(pickStr((s.tip_5lang || {})[lang] || s.tip_5lang)), lang, poi.id + ":itin" + i);
     const tm = TRAVEL_MODE[mode] || "driving";
     const [lat, lon] = toLatLon(s.coords);
     const gmaps = prevCoords
@@ -2877,7 +2878,13 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const _normQ = (s: string) => s.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, " ").trim();
   const _seenQ = new Set<string>();
   const _pushFaq = (q: string, a: string) => {
-    if (q && a && !_seenQ.has(_normQ(q))) { _seenQ.add(_normQ(q)); faqItems.push({ q, a }); }
+    if (q && a && !_seenQ.has(_normQ(q))) {
+      _seenQ.add(_normQ(q));
+      // De-slop the answer (cliche rotation + em-dash); per-item salt so the
+      // same cliche varies across answers within one page too.
+      a = deSlop(stripCurriculumLeak(a), lang, poi.id + ":faq" + faqItems.length);
+      faqItems.push({ q, a });
+    }
   };
   // 1) sharded FAQS (primary, LLM-authored) — same source renderFAQ used.
   const _shardFaqs = (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
@@ -2960,7 +2967,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     // Street View kerül ide, ahol van. (A kép-attribúció is elmarad kép nélkül.)
     const img = "";
     const dist = withDistance && s.distance ? `<span class="plz-sight-dist">${escapeHtml(s.distance)}</span>` : "";
-    const txt = s.text ? `<p>${escapeHtml(stripCurriculumLeak(s.text))}</p>` : "";
+    const txt = s.text ? `<p>${escapeHtml(deSlop(stripCurriculumLeak(s.text), lang, poi.id + ":sight:" + s.name))}</p>` : "";
     const attr = "";
     // Internal link priority: (1) dedicated standalone sight page if this sight has one,
     // (2) else a same-country POI cross-link, (3) else plain text.
@@ -3883,7 +3890,11 @@ async function main() {
 // ---- Sight page renderer (Tier 1: same chrome as POI page, modern compact body) ----
 function renderSightHtml(host: POI, data: any, lang: Lang): string {
   const sightName = data.sight_name || "";
-  const desc = (data.descriptionAdvanced && data.descriptionAdvanced[lang]) || data.descriptionAdvanced?.de || "";
+  const _descRaw = (data.descriptionAdvanced && data.descriptionAdvanced[lang]) || "";
+  // noindex this sight page in langs where its own content is missing/thin
+  // (was falling back to .de and getting indexed as wrong-language duplicate).
+  const sightDescEmpty = !_descRaw || _descRaw.trim().length < 80;
+  const desc = deSlop(stripCurriculumLeak(_descRaw || data.descriptionAdvanced?.de || ""), lang, host.id + ":sp:" + (data.slug || sightName));
   const facts = (data.factsAdvanced && data.factsAdvanced[lang]) || data.factsAdvanced?.de || [];
   const p = data.practical || {};
   const hostName = (host.name as any)?.[lang] || (host.name as any)?.de || host.id;
@@ -3970,7 +3981,7 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
     : "";
 
   const title = `${sightName} (${hostName}) | Plizio`;
-  const metaDesc = (desc || `${sightName} in ${hostName}.`).slice(0, 160);
+  const metaDesc = smartMetaDesc(desc, `${sightName} in ${hostName}.`);
 
   // Schema.org TouristAttraction with structured opening hours / address
   const jsonLd: any = {
@@ -4007,6 +4018,7 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>${escapeHtml(title)}</title>
 <meta name="description" content="${escapeHtml(metaDesc)}"/>
+${sightDescEmpty ? `<meta name="robots" content="noindex,follow"/>` : ""}
 <link rel="canonical" href="${sightUrl}"/>
 ${hreflangLinks}
 <link rel="alternate" hreflang="x-default" href="${sightAlternates.en}"/>

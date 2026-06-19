@@ -38,6 +38,9 @@ const EN_POOLS: Record<string, string[]> = {
   charming: ["appealing", "welcoming", "characterful", "pleasant"],
   boasts: ["has", "features", "offers", "is home to"],
   "hidden gem": ["lesser-known spot", "quiet find", "low-key spot", "under-the-radar destination"],
+  perfect: ["great", "excellent", "well-suited", "first-rate"],
+  offers: ["provides", "features", "gives", "has"],
+  ideal: ["well-suited", "handy", "convenient", "good"],
 };
 
 // ---- DE: stem swaps; ending group (e|en|er|es|em) preserved -------------------
@@ -47,21 +50,32 @@ const DE_STEMS: Record<string, string[]> = {
   atemberaubend: ["eindrucksvoll", "beeindruckend", "fesselnd"],
   charmant: ["reizend", "einnehmend", "ansprechend"],
   vielfaeltig: ["abwechslungsreich", "vielseitig", "reichhaltig"],
+  ideal: ["gut geeignet", "passend", "günstig gelegen"],
+  perfekt: ["hervorragend", "erstklassig", "ausgezeichnet"],
 };
-// accent-safe lookup key for DE (vielfältig)
+// accent-safe lookup key for DE (vielfältig / günstig)
 const DE_KEY_FIX: Record<string, string> = { "vielfältig": "vielfaeltig" };
+
+// DE exact-form verb/word swaps (no inflection ending) — unicode-boundary match
+const DE_WORDS: Record<string, string[]> = {
+  bietet: ["hat", "zeigt", "präsentiert"],
+};
 
 // ---- HU: base-form swaps (attributive/predicative base only; skip suffixed) ---
 const HU_BASE: Record<string, string[]> = {
   "festői": ["hangulatos", "látványos", "mutatós"],
   "lenyűgöző": ["emlékezetes", "kivételes", "pazar"],
   "elbűvölő": ["bájos", "kellemes", "vonzó"],
+  "tökéletes": ["kiváló", "remek", "kitűnő"],
+  "kínál": ["nyújt", "ad", "biztosít"],
 };
 
 // ---- RO: base masculine-singular swaps only -----------------------------------
 const RO_BASE: Record<string, string[]> = {
   "pitoresc": ["atrăgător", "fotogenic", "plăcut"],
   "fermecător": ["plăcut", "atrăgător", "primitor"],
+  "oferă": ["are", "asigură", "pune la dispoziție"],
+  "esențial": ["important", "de bază", "cheie"],
 };
 
 // whole-phrase removals (clean clauses), per lang
@@ -153,7 +167,7 @@ export function deSlop(text: string, lang: DeslopLang, id: string): string {
   t = fixDash(t);
   for (const re of (PHRASE_KILL[lang] || [])) t = t.replace(re, "");
   if (lang === "en") t = rotateEN(t, id);
-  else if (lang === "de") t = swapStemDE(t, id);
+  else if (lang === "de") { t = swapStemDE(t, id); t = swapBase(t, id, DE_WORDS); }
   else if (lang === "hu") t = swapBase(t, id, HU_BASE);
   else if (lang === "ro") t = swapBase(t, id, RO_BASE);
   // tidy: collapse spaces, remove space before punctuation, fix double commas

@@ -73,6 +73,6 @@ export function getPoisForCountryBucket(countryId: string, bucket: string): POI[
 
 // Country IDs eligible for type-index pages (matches COUNTRY_SLUGS keys)
 export const TYPE_INDEX_COUNTRIES = [
-  "germany", "hungary", "romania", "france", "uk", "austria", "switzerland",
+  "germany", "hungary", "romania", "france", "united-kingdom", "austria", "switzerland",
   "italy", "spain", "poland", "netherlands", "belgium",
 ];
