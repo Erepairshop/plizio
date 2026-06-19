@@ -34,7 +34,14 @@ import type { HubLang } from "../lib/seo/sightsHubs";
 import * as _hubsNs from "../lib/seo/sightsHubs";
 import * as _sightFilterNs from "../lib/seo/sightFilter";
 import * as _deslopNs from "../lib/seo/deslop";
-const deSlop = _deslopNs.deSlop as (t: string, l: string, id: string) => string;
+// Resolve via the namespace/default object and call at RUNTIME (mirror the
+// _slugsNs pattern at line ~59). Capturing `_deslopNs.deSlop` at module-load
+// time yielded `undefined` under the CI CJS-interop loader → "deSlop is not a
+// function" (run 27836797807). A wrapper defers the property access to call time.
+const _deslopMod: any = (_deslopNs as any).default ?? _deslopNs;
+function deSlop(text: string, lang: string, id: string): string {
+  return _deslopMod.deSlop(text, lang, id);
+}
 const _sf: any = (_sightFilterNs as any).default ?? _sightFilterNs;
 const cleanSightsObject: (s: any, cap?: number) => { obj: any; removed: number } = _sf.cleanSightsObject;
 const _expl: any = (_exploreNs as any).default ?? _exploreNs;
