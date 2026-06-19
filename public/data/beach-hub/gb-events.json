@@ -169,5 +169,449 @@
     "image_url": ""
    }
   ]
+ },
+ "aberavon-beach": {
+  "beach": "Aberavon Beach",
+  "town": "Port Talbot",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Aberavon Beach Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in summer",
+    "date": "",
+    "blurb": "An annual community festival on Aberavon Beach featuring live music, tribute acts, market stalls, beach games, a kids' festival and wellness activities over a summer weekend.",
+    "source_url": "https://www.aberavonbeachfestival.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Aberavon Super Sprint Triathlon",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-04-05",
+    "date": "2026-04-05",
+    "blurb": "A community super-sprint triathlon organised by Port Talbot Harriers, with a 400m pool swim, a 10km bike course and a 3km run along Aberavon Beach.",
+    "source_url": "https://running.life/en/event/aberavon-super-sprint-triathlon",
+    "image_url": ""
+   },
+   {
+    "name": "Aberavon Surf Lifesaving Club Junior Aquathlon",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually",
+    "date": "",
+    "blurb": "A junior swim-and-run aquathlon held on Aberavon Beach, run by Aberavon Surf Lifesaving Club in conjunction with Port Talbot Harriers and Welsh Triathlon.",
+    "source_url": "https://www.entrycentral.com/aja",
+    "image_url": ""
+   }
+  ]
+ },
+ "aberdeen-beach-and-queens-links": {
+  "beach": "Aberdeen Beach And Queens Links",
+  "town": "Aberdeen",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Aberdeen Festival of the Sea",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in July",
+    "date": "",
+    "blurb": "A citywide celebration of Aberdeen's maritime heritage with around 40 free and paid events; the Beach Esplanade hosts headline elements including the parade of sail and a grand finale. It runs in July, coinciding with the Tall Ships Races visit to the harbour.",
+    "source_url": "https://www.aberdeencity.gov.uk/Council-Services/events-culture-and-outdoor-spaces/festival-of-the-sea-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Aberdeen parkrun",
+    "type": "sport",
+    "recurring": true,
+    "when": "every Saturday morning (9am)",
+    "date": "",
+    "blurb": "A free, timed 5km run, jog or walk held every Saturday morning along the Beach Esplanade at Aberdeen Beach. Open to all and run by volunteers.",
+    "source_url": "https://www.parkrun.org.uk/aberdeen/",
+    "image_url": ""
+   },
+   {
+    "name": "City of Aberdeen Baker Hughes 10k Running Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in spring",
+    "date": "",
+    "blurb": "A long-established 10k road race (with 2k and wheelchair options) based around Aberdeen Beach and harbour, starting on Beach Boulevard and running along the Beach Esplanade past the Beach Ballroom. First held in 1987.",
+    "source_url": "https://runabc.co.uk/baker-hughes-aberdeen-running-festival",
+    "image_url": ""
+   }
+  ]
+ },
+ "abermawr": {
+  "beach": "Abermawr",
+  "town": "Fishguard (Abergwaun), Pembrokeshire",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Fishguard Folk Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-05-22 to 2026-05-25 (annually late May)",
+    "date": "2026-05-22",
+    "blurb": "A mostly free folk music festival held at venues across Fishguard including St Mary's Church and Theatr Gwaun, with concerts, sessions, workshops, ceilidh/twmpath, dance displays and guided walks. The 2026 line-up includes Alaw, Cynefin and Three Daft Monkeys.",
+    "source_url": "https://www.fishfolkfest.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Fishguard Multi-Sport Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-06-05 to 2026-06-06 (annually June)",
+    "date": "2026-06-05",
+    "blurb": "A weekend of endurance running races around Fishguard, including a Half Marathon, a scenic 10K and a 5K aimed at first-time racers.",
+    "source_url": "https://findarace.com/events/fishguard-multi-sport-festival",
+    "image_url": ""
+   },
+   {
+    "name": "ABBAGwaun Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually early July",
+    "date": "",
+    "blurb": "A three-day ABBA-themed festival in Fishguard (Abergwaun) featuring film screenings, live music, ABBA bingo, costume competitions and a parade.",
+    "source_url": "https://visitfishguard.co.uk/whats-on-in-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Fishguard Bay Ocean Race",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually (summer)",
+    "date": "",
+    "blurb": "An annual downwind paddle/ski sea race starting at Goodwick Parrog and crossing roughly 17km of open water to finish on Newport Sands, now in its second decade.",
+    "source_url": "https://www.visitpembrokeshire.com/whats-on-listing/fishguard-folk-festival",
+    "image_url": ""
+   }
+  ]
+ },
+ "barafundle-bay": {
+  "beach": "Barafundle Bay",
+  "town": "Pembroke",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "The Big Retreat Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually late May (2026: 22-25 May)",
+    "date": "2026-05-22",
+    "blurb": "An annual wellbeing and music festival set in the village of Lawrenny within the Pembrokeshire Coast National Park, combining live music, food, talks and outdoor experiences over the May bank holiday weekend.",
+    "source_url": "https://www.thebigretreatfestival.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Pembroke Music Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually mid-to-late October (2026: 19-24 October)",
+    "date": "2026-10-19",
+    "blurb": "An annual six-day music festival anchored at Pembroke Town Hall, the nearest sizeable town to Barafundle Bay, featuring concerts and performances across the autumn week.",
+    "source_url": "https://eurotravelo.com/explore/pembroke-music-festival-pembroke-wales/",
+    "image_url": ""
+   },
+   {
+    "name": "Fishguard Folk Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually over the late May bank holiday (2026: 22-26 May)",
+    "date": "2026-05-22",
+    "blurb": "A traditional folk music festival held across venues in Fishguard, Pembrokeshire, over the May bank holiday weekend with concerts, dancing and food.",
+    "source_url": "https://www.visitpembrokeshire.com/attractions-events/festivals-and-events",
+    "image_url": ""
+   }
+  ]
+ },
+ "blackpool-sands": {
+  "beach": "Blackpool Sands",
+  "town": "Dartmouth, Devon",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Dartmouth Triathlon",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually early June (2026: 7 June)",
+    "date": "2026-06-07",
+    "blurb": "An annual sprint and standard-distance triathlon organised by Sportiva Events, with the sea swim leg held in the waters of Blackpool Sands followed by a bike ride via Slapton and a run up Blackpool Valley. Open sea swims of 750m, 1500m and 3km are also held the evening before.",
+    "source_url": "https://sportivaevents.co.uk/events/dartmouth-triathlon/",
+    "image_url": ""
+   },
+   {
+    "name": "Tribal Clash",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually late summer (2026: 6-7 September)",
+    "date": "2026-09-06",
+    "blurb": "A two-day team fitness competition held on a purpose-built arena on Blackpool Sands beach, where teams of six tackle surprise functional challenges including running, swimming, hauling and carrying. It is one of the beach's flagship recurring events.",
+    "source_url": "https://www.tribalclash.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Apres Sea Saturdays",
+    "type": "music",
+    "recurring": true,
+    "when": "Saturday afternoons through the summer season",
+    "date": "",
+    "blurb": "Recurring summer beach parties at Blackpool Sands with live music and DJs on Saturday afternoons, alongside the beach's regular Saturday morning live music and breakfast club sessions.",
+    "source_url": "https://www.visitsouthdevon.co.uk/whats-on/apres-sea-at-blackpool-sands-p3360733",
+    "image_url": ""
+   }
+  ]
+ },
+ "broad-haven-south": {
+  "beach": "Broad Haven South",
+  "town": "Pembroke (Bosherston / Stackpole Estate)",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Pembroke Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in early-mid May",
+    "date": "",
+    "blurb": "A multi-day arts and community festival in the historic town of Pembroke, the nearest town to Broad Haven South, featuring live music, town-wide arts events, workshops, crafts and family activities.",
+    "source_url": "https://www.connectpembrokeshire.co.uk/news/2025/november/top-must-see-events-whats-on-pembrokeshire-2026/",
+    "image_url": ""
+   },
+   {
+    "name": "Pembroke Music Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-10-19 to 2026-10-24",
+    "date": "2026-10-19",
+    "blurb": "A competitive music festival held over several days at Pembroke Town Hall, with classes in singing, piano, strings and choir, masterclasses and a finale concert.",
+    "source_url": "https://eurotravelo.com/explore/pembroke-music-festival-pembroke-wales/",
+    "image_url": ""
+   },
+   {
+    "name": "The Big Retreat Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "2026-05-22 to 2026-05-25",
+    "date": "2026-05-22",
+    "blurb": "A wellbeing, music and food festival held at Lawrenny within the Pembrokeshire Coast National Park, combining live music, wellbeing sessions, food, talks and outdoor experiences.",
+    "source_url": "https://pembrokeshire-herald.com/136963/the-big-retreat-announces-2026-line-up-for-pembrokeshire-festival/",
+    "image_url": ""
+   }
+  ]
+ },
+ "camber-sands": {
+  "beach": "Camber Sands",
+  "town": "Rye",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Rye Bay Scallop Week",
+    "type": "food",
+    "recurring": true,
+    "when": "annually late February to early March (2026: 21 Feb - 1 Mar)",
+    "date": "2026-02-21",
+    "blurb": "A week-long celebration of the local Rye Bay scallop catch with tasting menus, cooking classes, live music and wine pairings across the town's restaurants. Now in its 22nd year, it is one of East Sussex's most popular annual food events.",
+    "source_url": "https://www.visitryebay.com/things_to_do/festivals_in_rye/rye-scallop-week/",
+    "image_url": ""
+   },
+   {
+    "name": "Rye International Jazz & Blues Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually over the August Bank Holiday (2026: 28-31 Aug)",
+    "date": "2026-08-28",
+    "blurb": "A boutique music festival held in venues across Rye, including St Mary's Church, featuring jazz, blues, soul, R&B, funk and world music with a mix of ticketed and free performances over the August Bank Holiday weekend.",
+    "source_url": "https://ryejazz.co.uk",
+    "image_url": ""
+   },
+   {
+    "name": "Camber Kite Week",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "An annual kitesurfing gathering on the wide flats of Camber Sands organised by the local kitesurfing community, combining kitesurfing sessions with music, food and beachside camping.",
+    "source_url": "https://www.camberkitesurfing.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Rye Arts Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "Founded in 1972 and regarded as one of Britain's top small arts festivals, it offers a mix of musical, literary and theatrical events across the historic town of Rye near Camber Sands.",
+    "source_url": "https://www.visitryebay.com/culture/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "camp-bay-gibraltar": {
+  "beach": "Camp Bay Gibraltar",
+  "town": "Gibraltar (Camp Bay is on the south-west tip of the Rock of Gibraltar)",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Summer Nights - Summer Reggae Jam at Camp Bay",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in summer (early August), evening",
+    "date": "",
+    "blurb": "Camp Bay beach hosts a free open-air Reggae Jam as part of Gibraltar's Summer Nights programme, with live acts, sunset dancing and food stalls. In 2025 it ran on 7 August from 6:30pm to 11:00pm.",
+    "source_url": "https://www.yourgibraltartv.com/society/31038-summer-nights-2025-programme",
+    "image_url": ""
+   },
+   {
+    "name": "Gibraltar National Day",
+    "type": "commemoration",
+    "recurring": true,
+    "when": "2026-09-10",
+    "date": "2026-09-10",
+    "blurb": "Gibraltar's biggest annual celebration, when the territory dresses in red and white for street parties, concerts and the release of thousands of red-and-white balloons. It commemorates the 1967 sovereignty referendum.",
+    "source_url": "https://en.wikipedia.org/wiki/Gibraltar_National_Day",
+    "image_url": ""
+   },
+   {
+    "name": "Gibraltar International Dance Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-03-03 to 2026-03-07",
+    "date": "2026-03-03",
+    "blurb": "The 24th edition of Gibraltar's international dance festival runs 3-7 March 2026 at the John Mackintosh Hall Theatre, featuring over 250 dancers from Gibraltar, England, Italy, Spain and Albania.",
+    "source_url": "https://gibraltar.com/en/events/music-and-concerts/24th-gibraltar-international-dance-festival-2026-e703020.php",
+    "image_url": ""
+   },
+   {
+    "name": "Gibraltar Music Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late summer (typically August/September)",
+    "date": "",
+    "blurb": "Gibraltar's flagship music festival, traditionally held at the Alameda Botanical Gardens, drawing major international acts each year.",
+    "source_url": "https://www.visitgibraltar.gi/events",
+    "image_url": ""
+   }
+  ]
+ },
+ "cefn-sidan": {
+  "beach": "Cefn Sidan",
+  "town": "Pembrey, Carmarthenshire",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Walrus Dip (Boxing Day Swim)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually on 26 December",
+    "date": "2026-12-26",
+    "blurb": "An annual Boxing Day charity sea swim held on the dune-backed sands of Cefn Sidan beach at Pembrey Country Park, with fancy dress encouraged. The dip starts around 10:45am and attracts hundreds of swimmers and spectators.",
+    "source_url": "https://www.pembreycountrypark.wales/whats-on/whats-on/walrus-dip/",
+    "image_url": ""
+   },
+   {
+    "name": "Wales National Armed Forces Day 2026",
+    "type": "commemoration",
+    "recurring": false,
+    "when": "2026-06-27",
+    "date": "2026-06-27",
+    "blurb": "Carmarthenshire hosts the Wales National Armed Forces Day 2026 at Pembrey Country Park, a family-friendly event for the public to show support for the Armed Forces community.",
+    "source_url": "https://newsroom.carmarthenshire.gov.wales/2026/2/carmarthenshire-welcomes-wales-national-armed-forces-day-2026-event-to-pembrey-country-park/",
+    "image_url": ""
+   },
+   {
+    "name": "Pembrey Summer Feastival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in June (19-21 June)",
+    "date": "",
+    "blurb": "A coastal food and music weekend at Pembrey Country Park, set between the woodland and the eight-mile Cefn Sidan beach, featuring nomadic cooks, family entertainment and a live music stage.",
+    "source_url": "https://swanseabaynews.com/pembrey-summer-feastival-launches-ultimate-coastal-foodie-weekend-at-country-park/",
+    "image_url": ""
+   }
+  ]
+ },
+ "church-ope-cove": {
+  "beach": "Church Ope Cove",
+  "town": "Isle of Portland (Easton/Wakeham), Dorset",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "b-side Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in September (2026: 10-13 September)",
+    "date": "2026-09-10",
+    "blurb": "A four-day contemporary arts festival staged across the Isle of Portland, featuring site-specific artworks, performances and creative encounters inspired by the island's landscape and community. The 2026 edition is themed 'That Other Place'.",
+    "source_url": "https://b-side.org.uk/b-side-2026-dates-announced/",
+    "image_url": ""
+   }
+  ]
+ },
+ "criccieth-beach": {
+  "beach": "Criccieth Beach",
+  "town": "Criccieth, Gwynedd, Wales",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Criccieth Festival (Gŵyl Criccieth)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually mid-June",
+    "date": "",
+    "blurb": "An annual arts festival founded in 1990 celebrating music, culture and local heritage in Criccieth, featuring classical and folk concerts, literary talks and guided walks set against the backdrop of Cardigan Bay. It runs for around a week in mid-June.",
+    "source_url": "https://criciethfestival.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Criccieth Food Slam",
+    "type": "food",
+    "recurring": true,
+    "when": "annually mid-June, closing weekend of the Criccieth Festival",
+    "date": "",
+    "blurb": "A food festival held on the Criccieth esplanade beside the beach at the end of the Criccieth Festival week, with street food, beer, wine, live music and arts and crafts stalls.",
+    "source_url": "https://criciethfestival.co.uk/",
+    "image_url": ""
+   },
+   {
+    "name": "Criccieth Fair and the Big Fair",
+    "type": "market",
+    "recurring": true,
+    "when": "annually 23 May and 29 June",
+    "date": "",
+    "blurb": "Criccieth holds two traditional annual fairs dating back to the Victorian era, the first on 23 May and the larger 'Big Fair' on 29 June, with a funfair in the town.",
+    "source_url": "https://www.peoplescollection.wales/items/1756506",
+    "image_url": ""
+   }
+  ]
+ },
+ "crosby-beach": {
+  "beach": "Crosby Beach",
+  "town": "Crosby (Waterloo), Sefton, Merseyside",
+  "country": "United Kingdom",
+  "events": [
+   {
+    "name": "Crosby parkrun",
+    "type": "sport",
+    "recurring": true,
+    "when": "every Saturday, 09:00",
+    "date": "",
+    "blurb": "A free, timed 5km community run held every Saturday morning, starting near Crosby Leisure Centre and running along the promenade and Crosby Beach past Antony Gormley's 'Another Place' iron men sculptures.",
+    "source_url": "https://www.parkrun.org.uk/crosby/",
+    "image_url": ""
+   },
+   {
+    "name": "Antony Gormley's 'Another Place'",
+    "type": "cultural",
+    "recurring": true,
+    "when": "permanent installation, year-round",
+    "date": "",
+    "blurb": "One hundred life-size cast-iron figures by sculptor Antony Gormley are spread along almost 3km of Crosby Beach facing out to sea, a permanent free public artwork and the area's best-known visitor draw.",
+    "source_url": "https://www.biennial.com/venue/crosby-beach-another-place/",
+    "image_url": ""
+   }
+  ]
  }
 }

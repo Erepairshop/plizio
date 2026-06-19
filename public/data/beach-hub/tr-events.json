@@ -139,5 +139,274 @@
     "image_url": ""
    }
   ]
+ },
+ "bardakc-beach": {
+  "beach": "Bardakc Beach",
+  "town": "Bodrum",
+  "country": "Turkey",
+  "events": [
+   {
+    "name": "Bodrum International Ballet Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "An annual ballet festival staged in the ancient amphitheatre and at Bodrum Castle, hosting Turkish and international companies. It has run for over two decades and typically takes place across August.",
+    "source_url": "https://en.wikipedia.org/wiki/Bodrum_International_Ballet_Festival",
+    "image_url": ""
+   },
+   {
+    "name": "International Gümüşlük Classical Music Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually, summer (roughly July to September)",
+    "date": "",
+    "blurb": "A summer classical music festival held since 2004 in the fishing village of Gümüşlük on the Bodrum Peninsula, with concerts staged in an open-air ancient stone quarry by the sea. The program spans classical, jazz and other genres over several weeks.",
+    "source_url": "https://www.gumuslukfestival.org/en/festival/",
+    "image_url": ""
+   },
+   {
+    "name": "The Bodrum Cup",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in the third week of October",
+    "date": "",
+    "blurb": "Turkey's iconic wooden gulet sailing regatta, held every October since 1989 and organised by the ERA Bodrum Sailing Club. Around 100 yachts race five legs over five days along the Aegean coast.",
+    "source_url": "https://visitbodrum.com/en/blog/the-bodrum-cup-the-most-exciting-days-of-october-12",
+    "image_url": ""
+   }
+  ]
+ },
+ "gumbet-beach": {
+  "beach": "Gumbet Beach",
+  "town": "Bodrum (Gümbet)",
+  "country": "Turkey",
+  "events": [
+   {
+    "name": "The Bodrum Cup (International Wooden Yacht Race)",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually, third week of October",
+    "date": "",
+    "blurb": "Organized by the ERA Bodrum Sailing Club since 1989, this five-day regatta sees over 150 traditional wooden gulets race off the Bodrum coast, accompanied by parties, a cooking competition and a prize-giving ceremony.",
+    "source_url": "https://www.erayachting.com/bodrum-cup-en-50.asp",
+    "image_url": ""
+   },
+   {
+    "name": "International Gümüşlük Classical Music Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "2026: 7 July – 5 September",
+    "date": "2026-07-07",
+    "blurb": "A long summer classical music festival held across stages on the Bodrum peninsula (centered on nearby Gümüşlük), featuring around 20 concerts spanning classical, jazz and world music plus masterclasses for young musicians.",
+    "source_url": "https://www.gumuslukfestival.org/en/",
+    "image_url": ""
+   },
+   {
+    "name": "Bodrum International Ballet Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "Organized by the Turkish State Opera and Ballet since 2002, this summer festival stages classical and contemporary ballet productions at the historic Bodrum Castle and the Theatre of Halicarnassus.",
+    "source_url": "https://en.wikipedia.org/wiki/Bodrum_International_Ballet_Festival",
+    "image_url": ""
+   }
+  ]
+ },
+ "inkumu": {
+  "beach": "Inkumu",
+  "town": "Bartın (İnkumu / near Amasra), Black Sea coast, Turkey",
+  "country": "Turkey",
+  "events": [
+   {
+    "name": "Bartın Strawberry, Culture and Tourism Festival (Bartın Çilek, Kültür ve Turizm Festivali)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually during strawberry season, late May to mid-June",
+    "date": "",
+    "blurb": "A long-running annual festival in Bartın celebrating the local strawberry harvest, with concerts, folk dance, exhibitions and strawberry-themed competitions. Running since 1982, it expanded to a week-long event in 1993.",
+    "source_url": "https://www.bartin.bel.tr/kultur-sanat-ve-cilek-festivali-coskuyla-basladi",
+    "image_url": ""
+   },
+   {
+    "name": "International Bartın Amasra Culture Festival (Uluslararası Bartın Amasra Kültür Festivali)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually (folklore/culture festival on the Amasra seafront)",
+    "date": "",
+    "blurb": "An international folklore and culture festival held on the seafront promenade in nearby Amasra, featuring folk ensembles, choirs, orchestras, brass bands and dance groups from multiple countries.",
+    "source_url": "https://folklorefestivals.com/festival/bartin-2/",
+    "image_url": ""
+   },
+   {
+    "name": "Amasra International City Festival (Amasra Uluslararası Şehir Festivali)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late summer (late August, ~10 days)",
+    "date": "",
+    "blurb": "A multi-day international city festival in nearby Amasra covering art, history, science and sport, drawing visitors to the Black Sea coastal town close to İnkumu beach.",
+    "source_url": "https://www.bartinhalkgazetesi.com.tr/haber/10707/amasra-uluslararasi-sehir-festivali-basladi.html",
+    "image_url": ""
+   }
+  ]
+ },
+ "kent-park": {
+  "beach": "Kent Park",
+  "town": "Eskişehir",
+  "country": "Turkey",
+  "events": [
+   {
+    "name": "Türkiye Culture Route Festival (Eskişehir)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-05-16 to 2026-05-24",
+    "date": "2026-05-16",
+    "blurb": "Eskişehir hosts the nationwide Türkiye Culture Route Festival for the first time in 2026, with 177 free events across 11 venues over nine days, spanning concerts, exhibitions, theatre and gastronomy.",
+    "source_url": "https://kulturyolufestivali.com/events",
+    "image_url": ""
+   },
+   {
+    "name": "International Eskişehir Children and Youth Theatre Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in May",
+    "date": "",
+    "blurb": "An annual festival organised by Eskişehir Metropolitan Municipality City Theatres since 2006, bringing children's and youth theatre groups from around the world to the city, recently held together with the International Puppets of the Old City Festival.",
+    "source_url": "https://assitej-international.org/festival/17th-international-eskisehir-children-youth-and-puppet-theatre-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "International Eskişehir Dance Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "2026-02-19 to 2026-02-23",
+    "date": "2026-02-19",
+    "blurb": "The 13th edition of Eskişehir's annual international dance festival, presenting dance companies and performances in the city.",
+    "source_url": "https://festivall.com.tr/iller/26/eskisehir-festivalleri/",
+    "image_url": ""
+   },
+   {
+    "name": "Eskişehir Coffee Festival (Kahve Festivali)",
+    "type": "food",
+    "recurring": true,
+    "when": "2026-05-29 to 2026-05-31",
+    "date": "2026-05-29",
+    "blurb": "An annual coffee festival in Eskişehir featuring specialty roasters, tastings and workshops over a long weekend in late May.",
+    "source_url": "https://festivall.com.tr/iller/26/eskisehir-festivalleri/",
+    "image_url": ""
+   }
+  ]
+ },
+ "kleopatra-beach": {
+  "beach": "Kleopatra Beach",
+  "town": "Alanya",
+  "country": "Turkey",
+  "events": [
+   {
+    "name": "International Alanya Triathlon",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually in October (2026: October 24-25)",
+    "date": "2026-10-24",
+    "blurb": "An international triathlon held in Alanya since 1992, featuring a swim, bike and run course along the Mediterranean coast. It is a leg of the Europe Triathlon Cup and one of Turkey's longest-running international sporting events.",
+    "source_url": "https://en.wikipedia.org/wiki/Alanya_Triathlon",
+    "image_url": ""
+   },
+   {
+    "name": "International Alanya Jazz Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late September",
+    "date": "",
+    "blurb": "An annual jazz festival founded in 2005, staged at the historic Kizilkule (Red Tower) square beneath Alanya Castle. It has grown into an internationally recognized event drawing tens of thousands of visitors.",
+    "source_url": "https://www.alanya.com.tr/page/international-jazz-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Alanya International Culture, Art and Tourism Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in late May",
+    "date": "",
+    "blurb": "Alanya's flagship cultural festival, organized by the municipality since 2001, with free concerts, art exhibitions, traditional crafts and international performances over several days in late May.",
+    "source_url": "https://www.visitalanya.com/23rd-alanya-international-culture-art-and-tourism-festival-2025/",
+    "image_url": ""
+   }
+  ]
+ },
+ "ladies-beach-kusadas": {
+  "beach": "Ladies Beach Kusadas",
+  "town": "Kuşadası",
+  "country": "Turkey",
+  "events": [
+   {
+    "name": "Golden Pigeon Music Festival (Altın Güvercin)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in late summer (late August / September)",
+    "date": "",
+    "blurb": "A long-running song composition and singing competition organised by Kuşadası Municipality for over 25 years, accompanied by free concerts from well-known Turkish artists. It is Turkey's first and only composition competition and is a major summer event in Kuşadası.",
+    "source_url": "https://altinguvercin.com.tr/",
+    "image_url": ""
+   },
+   {
+    "name": "Kuşadası Summer Fest (International Dance and Music Festival)",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in June (2026: June 9-13)",
+    "date": "",
+    "blurb": "An international folklore festival bringing dance groups, choirs and music bands from around the world to perform in Kuşadası. The 12th edition is scheduled for June 2026.",
+    "source_url": "https://festival-association.eu/fest/627",
+    "image_url": ""
+   },
+   {
+    "name": "Selçuk Camel Wrestling Festival (Deve Güreşi)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually on the third Sunday of January",
+    "date": "2026-01-18",
+    "blurb": "A traditional Turkish camel wrestling championship held near Kuşadası in the nearby town of Selçuk, drawing around 20,000 spectators and roughly 120 decorated Tülü camels. A camel beauty parade is held in the town centre the day before.",
+    "source_url": "https://selcukephesus.com/events/camel-wrestling-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of the Assumption (House of the Virgin Mary)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 15 August",
+    "date": "2026-08-15",
+    "blurb": "A Catholic pilgrimage and Mass commemorating the Assumption of the Virgin Mary, celebrated each 15 August at the House of the Virgin Mary near Selçuk/Ephesus, close to Kuşadası.",
+    "source_url": "",
+    "image_url": ""
+   }
+  ]
+ },
+ "sarigerme": {
+  "beach": "Sarigerme",
+  "town": "Ortaca (Osmaniye Village), Muğla Province",
+  "country": "Turkey",
+  "events": [
+   {
+    "name": "Sarıgerme Kite Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually, first Sunday of May",
+    "date": "",
+    "blurb": "An annual community kite festival held on Sarıgerme's long sandy public beach, where people of all ages fly hundreds of colourful kites. Running roughly 11am to 5pm, it has been held since 2005 and includes environmental-awareness activities for children.",
+    "source_url": "https://www.livetheworld.com/post/fun-in-the-sky-sarigerme-kite-festival-06lt",
+    "image_url": ""
+   },
+   {
+    "name": "Beach Wrestling World Series – Sarıgerme",
+    "type": "sport",
+    "recurring": true,
+    "when": "held in late May (2022) and mid-October (2023) at Sarıgerme Beach",
+    "date": "",
+    "blurb": "Sarıgerme Beach is an established stop on the United World Wrestling Beach Wrestling World Series, having hosted the 2018 World Championships and World Series legs in 2022 and 2023 with dozens of male and female wrestlers from many nations competing on the sand.",
+    "source_url": "https://beachwrestling.org/events/2023/turkey-mugla-sarigerme-beach",
+    "image_url": ""
+   }
+  ]
  }
 }

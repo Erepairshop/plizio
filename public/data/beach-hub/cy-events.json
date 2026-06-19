@@ -149,5 +149,509 @@
     "image_url": ""
    }
   ]
+ },
+ "alykes-beach-paphos": {
+  "beach": "Alykes Beach Paphos",
+  "town": "Paphos (Kato Paphos)",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Pafos Aphrodite Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually, traditionally first weekend of September (2026 edition tied to Cyprus EU Presidency)",
+    "date": "",
+    "blurb": "Paphos's flagship cultural event, an annual open-air opera staged in front of the Medieval Castle on Kato Paphos harbour (close to Alykes Beach) since 1999, featuring international casts with full orchestra and chorus. The 2026 dates were reported with conflicting timing (a possible move to June for the Cyprus EU Presidency versus the usual early-September slot).",
+    "source_url": "https://www.visitpafos.org.cy/pafos-aphrodite-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Kataklysmos (Festival of the Flood)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually at Pentecost; 2026 around 30 May to 1 June",
+    "date": "",
+    "blurb": "A traditional Cypriot seafront festival held at Pentecost in coastal cities including Paphos, blending Christian observance with older water rituals. Celebrations include the blessing of water, processions toward the sea, fairs, concerts and water-based entertainment along the promenade.",
+    "source_url": "https://www.visitcyprus.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Paphos Wine Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in September",
+    "date": "",
+    "blurb": "A September wine festival in Paphos celebrating local Cypriot wines, with wineries and wine sellers alongside family entertainment such as shows and activities.",
+    "source_url": "https://www.paphos.com/v/festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "blue-coral-beach-cyprus": {
+  "beach": "Blue Coral Beach Cyprus",
+  "town": "Peyia / Coral Bay (Paphos District)",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Coral Bay Street Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually mid-summer, weekends late July to mid-August",
+    "date": "",
+    "blurb": "A community summer festival that turns Coral Bay Avenue, the main strip beside Coral Bay beach in Peyia, into an open-air event with live music, art installations, fire and LED shows, a kids' zone and food stalls on weekend evenings. In 2025 it ran on weekends from July 26 to August 17.",
+    "source_url": "https://prestigebookings.com/coral-bay-street-festival-2025/",
+    "image_url": ""
+   },
+   {
+    "name": "Akamas Fish Festival (Peyia)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually mid-May (held at the port of Agios Georgios, Peyia)",
+    "date": "",
+    "blurb": "A seafood festival organised by the Municipality of Akamas at the picturesque fishing port of Agios Georgios in Peyia, featuring fresh fish, live music, and activities for children. The inaugural edition was held on 18 May 2025.",
+    "source_url": "https://www.visitpafos.org.cy/events/akamas-1st-fish-festival-port-of-ag-georgiou-peyia-18-may/",
+    "image_url": ""
+   },
+   {
+    "name": "Paphos Beer Festival (Paphos BeerFest)",
+    "type": "food",
+    "recurring": true,
+    "when": "2026-08-05 to 2026-08-09",
+    "date": "2026-08-05",
+    "blurb": "An annual free-entry beer festival held in the square in front of the medieval castle at Paphos Harbour, the nearest city to Coral Bay, offering over 150 beer varieties, street food and live performances. The 2026 edition is scheduled for 5-9 August.",
+    "source_url": "https://cyproplan.com/event/paphos-beerfest-2026",
+    "image_url": ""
+   }
+  ]
+ },
+ "faros-beach": {
+  "beach": "Faros Beach",
+  "town": "Pervolia (Larnaca district), Cyprus",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Pervolia Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in August",
+    "date": "",
+    "blurb": "An annual cultural festival held in Pervolia, the village immediately next to Faros Beach, featuring traditional music, dancing and local food. It is listed among the Larnaka region's annual village festivals.",
+    "source_url": "https://larnakaregion.com/annual-festivals",
+    "image_url": ""
+   },
+   {
+    "name": "Kataklysmos (Festival of the Flood)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually at Pentecost, 50 days after Orthodox Easter (2026: late May to early June)",
+    "date": "2026-05-31",
+    "blurb": "A uniquely Cypriot waterfront festival tied to Pentecost, celebrated along the coast of the Larnaca district near Faros Beach with church rites, fairs and water games. It is inscribed on the UNESCO Intangible Cultural Heritage list, with the main 2026 events at Larnaca's Finikoudes promenade.",
+    "source_url": "https://larnakaregion.com/event-detail/-kataklysmos-2026-festival-flood",
+    "image_url": ""
+   },
+   {
+    "name": "Saint Lazarus Procession (Agios Lazaros)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on Lazarus Saturday, eight days before Orthodox Easter",
+    "date": "",
+    "blurb": "A major religious procession in nearby Larnaca, where the icon of Saint Lazarus is carried through the streets from the historic Church of Saint Lazarus. It is one of the Larnaca region's most important annual religious events.",
+    "source_url": "https://larnakaregion.com/annual-festivals",
+    "image_url": ""
+   }
+  ]
+ },
+ "fig-tree-bay": {
+  "beach": "Fig Tree Bay",
+  "town": "Protaras (Paralimni), Famagusta District, Cyprus",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Protaras Open Water Swimming Marathon",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually mid-April (2026: 18-19 April)",
+    "date": "2026-04-18",
+    "blurb": "The 3rd International Open Water Swimming Marathon held directly at Fig Tree Bay, featuring 10K races and 3K Masters races. It forms part of the European Aquatics Open Water Cup and Masters Tour.",
+    "source_url": "https://protarasopenwater.com/",
+    "image_url": ""
+   },
+   {
+    "name": "Protaras SwimRun",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually mid-October (2026: 17-18 October)",
+    "date": "2026-10-17",
+    "blurb": "A SwimRun endurance event staged at Fig Tree Bay in Protaras, combining open-water swimming and coastal running stages.",
+    "source_url": "https://cyprus.bz/events/protaras",
+    "image_url": ""
+   },
+   {
+    "name": "Protaras Summer Film Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in July (2026: 8-26 July)",
+    "date": "2026-07-08",
+    "blurb": "Open-air cinema nights held at Protaras Central Square, screening films under the stars. The long-running festival draws thousands of visitors each summer.",
+    "source_url": "https://chaf.com.cy/protaras-film-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Cyprus Rocks Classic Rock Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually early October (2026: 1-6 October)",
+    "date": "2026-10-01",
+    "blurb": "A classic rock festival in Protaras featuring UK tribute bands performing songs by Queen, AC/DC, Aerosmith, Guns N' Roses and other rock legends over several evenings.",
+    "source_url": "https://www.cyprusrocks.co.uk/",
+    "image_url": ""
+   }
+  ]
+ },
+ "katsarka-beach": {
+  "beach": "Katsarka Beach",
+  "town": "Ayia Napa",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Ayia Napa International Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late September (2026: 25-27 September)",
+    "date": "2026-09-25",
+    "blurb": "The Ayia Napa International Festival, in its 42nd edition in 2026, is held in the last week of September to coincide with World Tourism Day, featuring theatrical performances, concerts and Cypriot and international folk dancing reflecting the cultural traditions of Ayia Napa and Cyprus.",
+    "source_url": "https://www.festivalfinder.eu/festivals/ayia-napa-international-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Ayia Napa Medieval Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually October (2026: 14-18 October)",
+    "date": "2026-10-14",
+    "blurb": "Held within the historic Medieval Monastery of Ayia Napa, this festival recreates the medieval period with street theatre, music concerts, dance shows by European groups, a medieval market and craft workshops such as pottery.",
+    "source_url": "https://mycyprustravel.com/event/ayia-napa-medieval-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Kataklysmos Festival (Fish and Water Festival)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around Pentecost (2026: 30-31 May and 1 June)",
+    "date": "2026-05-30",
+    "blurb": "The Festival of the Flood (Kataklysmos), a Cypriot tradition tied to Pentecost, is celebrated at Ayia Napa Harbour with water-themed events, music and seafront festivities.",
+    "source_url": "https://cyprus-mail.com/2026/03/08/ayia-napa-festivals-to-look-forward-to",
+    "image_url": ""
+   },
+   {
+    "name": "Famagusta Orange Festival (Ayia Napa)",
+    "type": "food",
+    "recurring": true,
+    "when": "annually early May (2026: 2 May)",
+    "date": "2026-05-02",
+    "blurb": "Revived in 2026 after decades, this festival honours the Famagusta region's orange-growing heritage with a parade of floats from Ayia Napa harbour, a cultural programme at the THALASSA Museum and a ceramics exhibition.",
+    "source_url": "https://cyprus-mail.com/2026/04/19/what-to-enjoy-at-revival-of-famagusta-orange-festival",
+    "image_url": ""
+   }
+  ]
+ },
+ "konnos-beach": {
+  "beach": "Konnos Beach",
+  "town": "Ayia Napa (Konnos Beach sits between Ayia Napa and Protaras, near Cape Greco)",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Ayia Napa Medieval Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually mid-October (2026: 14-18 October)",
+    "date": "2026-10-14",
+    "blurb": "A multi-day medieval-themed festival staged around the Ayia Napa Monastery, with street theatre, music and dance groups from across Europe, a medieval market, costumed parades and workshops.",
+    "source_url": "https://www.festivalfinder.eu/festivals/ayia-napa-medieval-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Kataklysmos (Festival of the Flood)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late May to early June (2026: 30 May - 1 June)",
+    "date": "2026-05-30",
+    "blurb": "Cyprus's traditional Festival of the Flood, celebrated with concerts, water games, boat races and folk poetry contests at Ayia Napa harbour and Saint George Square, with parallel celebrations at Fig Tree Bay in nearby Protaras.",
+    "source_url": "https://cyprus-mail.com/2026/03/08/ayia-napa-festivals-to-look-forward-to",
+    "image_url": ""
+   },
+   {
+    "name": "Ayia Napa International Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually late September (2026: 25-27 September, 42nd edition)",
+    "date": "2026-09-25",
+    "blurb": "An annual cultural festival at Ayia Napa's main square and monastery featuring traditional music, dance and theatre by local Cypriot artists alongside visiting international groups.",
+    "source_url": "https://chaf.com.cy/ayia-napa-international-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Ayia Napa / Famagusta Orange Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "2026: 2 May",
+    "date": "2026-05-02",
+    "blurb": "A revived festival celebrating the citrus heritage of the Famagusta region, opening with a float parade from Ayia Napa harbour and culminating at the THALASSA Municipal Museum with food, music and traditional displays.",
+    "source_url": "https://cyprus-mail.com/2026/04/19/what-to-enjoy-at-revival-of-famagusta-orange-festival",
+    "image_url": ""
+   }
+  ]
+ },
+ "landa-golden-beach": {
+  "beach": "Landa Golden Beach",
+  "town": "Ayia Napa",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Ayia Napa Medieval Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in October (2026: October 14-18)",
+    "date": "2026-10-14",
+    "blurb": "An annual medieval-themed festival held since 2006 around Ayia Napa's medieval monastery, featuring street theatre, music and dance shows by groups from across Europe, a medieval market and craft workshops. One of the largest and longest-running festivals in Cyprus.",
+    "source_url": "https://events.visitfamagusta.com.cy/events/19th-medieval-ayia-napa-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Kataklysmos (Festival of the Flood)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually around Pentecost (2026: May 30 - June 1)",
+    "date": "2026-05-30",
+    "blurb": "Cyprus's traditional Festival of the Flood, an official public holiday tied to Orthodox Whit Monday, celebrated at Ayia Napa Harbour with free concerts, traditional poetry competitions and maritime customs. The name means 'flood', referencing the biblical story of Noah.",
+    "source_url": "https://cyprus-mail.com/2026/03/08/ayia-napa-festivals-to-look-forward-to",
+    "image_url": ""
+   },
+   {
+    "name": "Ayia Napa International Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually in late September",
+    "date": "",
+    "blurb": "An annual cultural festival organised by the Ayia Napa Municipality featuring music concerts, dance ensembles and folklore performances by local and international artists.",
+    "source_url": "http://www.ayianapa.org.cy/culture-life-and-festivities.php?lang=en",
+    "image_url": ""
+   }
+  ]
+ },
+ "lighthouse-beach": {
+  "beach": "Lighthouse Beach",
+  "town": "Paphos (Kato Paphos), Cyprus",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Pafos Aphrodite Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually (2026 moved from September to June)",
+    "date": "",
+    "blurb": "An annual professional opera staged outdoors at the Medieval Castle Square in Paphos Harbour, a short walk from Lighthouse Beach. In 2026 it exceptionally moves from its usual first weekend of September to June to coincide with Cyprus's EU Presidency.",
+    "source_url": "https://www.paphos.com/event/paphos-aphrodite-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Kataklysmos (Festival of the Flood)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late May to early June (2026: 29 May - 1 June)",
+    "date": "",
+    "blurb": "A traditional Pentecost water festival held along the Kato Paphos seafront and Medieval Castle Square, featuring water-throwing, stalls, live music and traditional games.",
+    "source_url": "https://kato-paphos-apartment.com/blog/paphos-festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Paphos BeerFest",
+    "type": "food",
+    "recurring": true,
+    "when": "annually early August (2026: 5-9 August)",
+    "date": "",
+    "blurb": "An evening beer and food festival held at the Medieval Castle Square in Paphos Harbour, near Lighthouse Beach, with food stalls and live music.",
+    "source_url": "https://kato-paphos-apartment.com/blog/paphos-festivals/",
+    "image_url": ""
+   },
+   {
+    "name": "Paphos Carnival (Apokries)",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in February (2026 parade: 21 February)",
+    "date": "2026-02-21",
+    "blurb": "A family-friendly pre-Lenten carnival parade through Paphos town with floats, costumed dancers and marching bands.",
+    "source_url": "https://kato-paphos-apartment.com/blog/paphos-festivals/",
+    "image_url": ""
+   }
+  ]
+ },
+ "pernera-beach": {
+  "beach": "Pernera Beach",
+  "town": "Protaras (Paralimni), Cyprus",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "MoonWalk Street Music Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "annually, evening of the last full moon of August",
+    "date": "",
+    "blurb": "A free annual street music festival held along the Pernera-Protaras coastal promenade, where over 130 musicians perform simultaneously on around 30 stages across roughly 5 km of coastline under the August full moon. Organised by the Youth of Paralimni, it draws over 15,000 visitors.",
+    "source_url": "https://famagustahotelassociation.com/protaras-moonwalk/",
+    "image_url": ""
+   },
+   {
+    "name": "Paralimni Cultural Summer Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in July",
+    "date": "",
+    "blurb": "A summer festival celebrating the cultural heritage of Paralimni, known for its folk poets and strong traditions, with traditional dances, music performances and storytelling staged across Paralimni and Protaras.",
+    "source_url": "https://www.cyprusevents.net/annual/ayia-napa-protaras-events",
+    "image_url": ""
+   },
+   {
+    "name": "Cyprus Rocks Classic Rock Festival",
+    "type": "music",
+    "recurring": true,
+    "when": "2026-10-01 to 2026-10-06",
+    "date": "2026-10-01",
+    "blurb": "A classic rock festival staged at venues across the Protaras-Paralimni area, featuring UK tribute bands performing over several days in early October.",
+    "source_url": "https://eventor.com.cy/events/famagusta/cyprus-rocks-2026-classic-rock-festival-in-protaras-12264",
+    "image_url": ""
+   },
+   {
+    "name": "Kataklysmos (Festival of the Flood)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually at Pentecost; 2026: 30 May - 1 June",
+    "date": "2026-06-01",
+    "blurb": "A traditional Cypriot waterfront festival tied to Pentecost, celebrated in nearby coastal Ayia Napa with church rites, fairs, music, folk dancing and sea-based water games. It is inscribed on the UNESCO Intangible Cultural Heritage list.",
+    "source_url": "https://eventor.com.cy/events/famagusta/kataklysmos-flood-festival-traditional-cyprus-festival-in-ayia-napa-12220",
+    "image_url": ""
+   }
+  ]
+ },
+ "vathia-gonia-beach": {
+  "beach": "Vathia Gonia Beach",
+  "town": "Ayia Napa",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Kataklysmos (Festival of the Flood / Fish & Water Festival)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually late May / early June (Pentecost)",
+    "date": "2026-05-30",
+    "blurb": "Held at Ayia Napa Harbour, this traditional festival marks Pentecost with water-themed celebrations including watersports, the dive for the cross and fish-themed festivities. In 2026 it runs 30-31 May and 1 June.",
+    "source_url": "https://www.agianapa.org.cy/en/information/events/kataklysmos",
+    "image_url": ""
+   },
+   {
+    "name": "Ayia Napa International Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually late September",
+    "date": "",
+    "blurb": "One of the oldest festivals in Cyprus (running over 40 years), held in the central square and around the Medieval Monastery. It features concerts by Greek and Cypriot artists plus dance and cultural performances.",
+    "source_url": "https://www.agianapa.org.cy/en/information/events/ayia-napa-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Ayia Napa Medieval Festival",
+    "type": "festival",
+    "recurring": true,
+    "when": "annually mid-October",
+    "date": "2026-10-14",
+    "blurb": "Running since 2006, this festival uses the medieval monastery as its setting for street theatre, music and dance by European groups, a medieval market and craft workshops. The 2026 edition is scheduled for 14-18 October.",
+    "source_url": "https://www.agianapa.org.cy/en/information/events/medieval-festival",
+    "image_url": ""
+   },
+   {
+    "name": "Ayia Napa Soccer Festival",
+    "type": "sport",
+    "recurring": true,
+    "when": "annually (training/tournament season)",
+    "date": "",
+    "blurb": "A football tournament and training festival hosted at Ayia Napa's athletic center with 15 natural-grass pitches and the Municipal Stadium, drawing visiting teams.",
+    "source_url": "https://cyprus-mail.com/2026/03/08/ayia-napa-festivals-to-look-forward-to",
+    "image_url": ""
+   }
+  ]
+ },
+ "vrysoudia-beach-paphos": {
+  "beach": "Vrysoudia Beach Paphos",
+  "town": "Kato Paphos (Paphos)",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Kataklysmos (Festival of the Flood) - Paphos Harbour",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually in late spring/early summer, 50 days after Orthodox Easter; 2026: 30 May - 1 June",
+    "date": "2026-05-30",
+    "blurb": "Cyprus's unique Festival of the Flood is celebrated at the Paphos Harbour and castle area, a short walk from the Kato Paphos beaches, with concerts, traditional folk dancing, chattismata poetic sparring, food stalls and water-sport games.",
+    "source_url": "https://www.visitpafos.org.cy/events/kataklysmos-fair-9-june/",
+    "image_url": ""
+   },
+   {
+    "name": "Pafos Aphrodite Festival",
+    "type": "cultural",
+    "recurring": true,
+    "when": "annually in early September; 2026: 4-5 September",
+    "date": "2026-09-04",
+    "blurb": "An annual open-air opera festival staged in the square of Paphos' Medieval Castle by the harbour. The 2026 edition presents Donizetti's L'Elisir d'Amore with the Armenian National Opera and Ballet Theatre and the Cyprus Symphony Orchestra.",
+    "source_url": "https://www.visitpafos.org.cy/pafos-aphrodite-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Paphos Choir Festival (Ancient Odeon)",
+    "type": "music",
+    "recurring": true,
+    "when": "annually in June at the Ancient Odeon, Kato Paphos",
+    "date": "",
+    "blurb": "A recurring choral music festival held each June at the Ancient Odeon in the Kato Paphos archaeological area, close to the harbour and the Vrysoudia beachfront.",
+    "source_url": "https://www.visitpafos.org.cy/",
+    "image_url": ""
+   },
+   {
+    "name": "Latsi Fish Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in spring at Latsi (Latchi) Harbour, Polis Chrysochous; 2026: 2 May",
+    "date": "2026-05-02",
+    "blurb": "A traditional fish festival on the quayside of Latsi Harbour in the Paphos district, with grilled-fish stalls, live music, traditional dance and flyboard shows. It is north of Kato Paphos rather than at Vrysoudia itself.",
+    "source_url": "https://www.visitpafos.org.cy/",
+    "image_url": ""
+   }
+  ]
+ },
+ "white-river-beach": {
+  "beach": "White River Beach",
+  "town": "Peyia (Agios Georgios Pegeias), Paphos District",
+  "country": "Cyprus",
+  "events": [
+   {
+    "name": "Peyia Carob Festival",
+    "type": "food",
+    "recurring": true,
+    "when": "annually in early September",
+    "date": "",
+    "blurb": "An annual festival held at Agios Georgios Square in Peyia celebrating the carob harvest, the so-called 'black gold of Cyprus'. Visitors can watch traditional production of carob syrup, pasteli and zivania, sample local dishes, and enjoy folk music and dancing.",
+    "source_url": "https://www.visitpafos.org.cy/events/carob-festival/",
+    "image_url": ""
+   },
+   {
+    "name": "Feast of Agios Georgios (Saint George)",
+    "type": "religious",
+    "recurring": true,
+    "when": "annually on 23 April (or Easter Monday if it falls before Pascha)",
+    "date": "2026-04-23",
+    "blurb": "The name-day feast of Saint George is celebrated at the Agios Georgios chapel near Cape Drepanum in Peyia, drawing pilgrims from across the Paphos area for processions, traditional music and a festive village atmosphere.",
+    "source_url": "https://www.cyprusisland.net/cyprus-churches/agios-georgios-chapel-saint-george-peyia",
+    "image_url": ""
+   }
+  ]
  }
 }
