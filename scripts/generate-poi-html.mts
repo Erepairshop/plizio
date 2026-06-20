@@ -450,6 +450,11 @@ function lookupSightPoiLink(hostPoiId: string, sightName: string): string | unde
 // (built by build-sight-pages.mts) — link the sight name to it (takes priority
 // over the sight→POI cross-link). Key = nkey(name)|round(lat,3)|round(lng,3).
 const SIGHTPAGE_SLUG: Record<string, string> = { de: "sehenswuerdigkeiten", hu: "latnivalok", ro: "obiective-turistice", en: "attractions" };
+// Beach-hub link (build-beach-hub.mts): only the 17 countries with a beach hub.
+// URL = /<navLang>/<countryKey>/<bslug>/ (key == countryId for these; all 4 langs exist).
+const BEACH_HUB_KEYS = new Set(["croatia","spain","france","italy","portugal","united-kingdom","greece","denmark","germany","sweden","cyprus","norway","ireland","turkey","estonia","poland","finland"]);
+const BEACH_HUB_BSLUG: Record<string, string> = { de: "straende", hu: "strandok", ro: "plaje", en: "beaches" };
+const BEACH_HUB_LABEL: Record<string, string> = { de: "Schönste Strände", hu: "Legszebb strandok", ro: "Cele mai frumoase plaje", en: "Most beautiful beaches", fr: "Plus belles plages", tr: "En güzel plajlar", hr: "Najljepše plaže" };
 // Cross-link index, grouped by PARENT POI: { parentPoi: [{slug,lat,lng,names[]}] }.
 // Matching happens WITHIN the known parent (by normalized name for Latin sights,
 // else nearest coord ≤400m for non-Latin names) — far more robust than the old
@@ -2767,6 +2772,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // (which exists) instead. The POI page itself stays in `lang`. (2026-06-12:
   // ~40k broken internal links came from extra-lang breadcrumb/home/footer.)
   const navLang: Lang = SUPPORTED_LANGS.includes(lang) ? lang : ("en" as Lang);
+  // Beach-hub CTA (reciprocal internal link) for countries that have a beach hub.
+  const beachHubLinkHtml = BEACH_HUB_KEYS.has(countryId)
+    ? `<a class="plz-cta plz-cta-hub" href="/${navLang}/${countryId}/${BEACH_HUB_BSLUG[navLang] || "beaches"}/">${BEACH_HUB_LABEL[lang] || BEACH_HUB_LABEL.en} →</a>`
+    : "";
   const breadcrumbHome = `<a href="/${navLang}/">${I("home", lang)}</a>`;
   const breadcrumbCountry = `<a href="${buildCountryPath(navLang, countryId)}">${countryName}</a>`;
   // State-crumb CSAK ha valoban letezik state-index oldal (regions-ben van a parent).
@@ -3543,6 +3552,7 @@ ready();})();</script>
   <section>
     <a class="plz-cta" href="${countryMapUrl(countryId) ?? ((poi.parent !== countryId && stateRegion) ? buildStatePath(navLang, poi.parent) : buildCountryPath(navLang, countryId))}">${I("viewMap", lang)} →</a>
     ${hubLinkHtml}
+    ${beachHubLinkHtml}
     ${osmLink}
   </section>
   ${renderExploreBlock({ poiId: poi.id, countryId, countryName: countryName, countryMapUrl: countryMapUrl(countryId), lang: lang as any })}
