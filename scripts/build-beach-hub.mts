@@ -202,7 +202,7 @@ function hreflang(urlFn: (l: Lang) => string) {
     `\n<link rel="alternate" hreflang="x-default" href="${SITE}${urlFn("en")}"/>`
   );
 }
-const CSS_V = "20260526h";
+const CSS_V = "20260620ed1";
 function head(title: string, desc: string, canonical: string, hl: string, jsonld: any) {
   return `<!DOCTYPE html><html lang="__L__"><head>
 <meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/>
