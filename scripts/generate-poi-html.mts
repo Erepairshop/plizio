@@ -1028,8 +1028,15 @@ function renderKeyFacts(
   const ts = topSights.filter((s) => typeof s === "string" && s.trim()).slice(0, 3);
   if (ts.length >= 2) rows.push(`<li><strong>${L.sights}:</strong> ${escapeHtml(ts.join(" · "))}</li>`);
   if (nearby && nearby.name) rows.push(`<li><strong>${L.near}:</strong> ${escapeHtml(nearby.name)} (${Math.round(nearby.km)} km)</li>`);
-  const pop = (poi as { population?: unknown }).population;
-  if (typeof pop === "number" && pop > 0) rows.push(`<li><strong>${L.pop}:</strong> ~${pop.toLocaleString("de-DE")}</li>`);
+  const popInline = (poi as { population?: unknown }).population;
+  const cp = CITY_POP[poi.id];
+  const popVal = (typeof popInline === "number" && popInline > 0) ? popInline : (cp?.pop || 0);
+  if (popVal > 0) {
+    // year shown only for sidecar-sourced figures (inline source carries no year)
+    const yr = (typeof popInline === "number" && popInline > 0) ? null : (cp?.year || null);
+    const yrTxt = yr ? ` <span style="opacity:.65;font-size:.85em">(${yr})</span>` : "";
+    rows.push(`<li><strong>${L.pop}:</strong> ~${popVal.toLocaleString("de-DE")}${yrTxt}</li>`);
+  }
   if (rows.length < 2) return ""; // not enough atoms to be worth a strip
   return `<section class="plz-keyfacts"><ul>${rows.join("")}</ul></section>`;
 }
