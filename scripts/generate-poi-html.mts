@@ -1900,13 +1900,13 @@ function renderInfoCard(poi: POI, lang: Lang, countryId: string): string {
   const [plng, plat] = pc;
   const iso2 = slugs.countryIso2(countryId) || "";
   const T: Partial<Record<Lang, any>> = {
-    de: { title: "Praktische Infos", wx: "Wetter — 5 Tage", near: "In der Umgebung", tips: "Tipps", gastro: "Gastro", shop: "Shopping", quiet: "Ruhige Orte", fei: "Feiertag", feiWarn: "Feiertag — viele Geschäfte können geschlossen sein!" },
-    hu: { title: "Praktikus infók", wx: "Időjárás — 5 nap", near: "A környéken", tips: "Tippek", gastro: "Gasztro", shop: "Shopping", quiet: "Nyugis helyek", fei: "Ünnepnap", feiWarn: "ünnepnap — sok üzlet zárva lehet!" },
-    ro: { title: "Informații practice", wx: "Vremea — 5 zile", near: "În împrejurimi", tips: "Sfaturi", gastro: "Gastro", shop: "Cumpărături", quiet: "Locuri liniștite", fei: "Sărbătoare", feiWarn: "sărbătoare legală — multe magazine pot fi închise!" },
-    en: { title: "Practical info", wx: "Weather — 5 days", near: "Nearby", tips: "Tips", gastro: "Food", shop: "Shopping", quiet: "Quiet spots", fei: "Holiday", feiWarn: "public holiday — many shops may be closed!" },
-    fr: { title: "Infos pratiques", wx: "Météo — 5 jours", near: "Aux alentours", tips: "Conseils", gastro: "Gastro", shop: "Shopping", quiet: "Coins calmes", fei: "Jour férié", feiWarn: "jour férié — de nombreux magasins peuvent être fermés !" },
-    tr: { title: "Pratik bilgiler", wx: "Hava — 5 gün", near: "Çevrede", tips: "İpuçları", gastro: "Yeme-içme", shop: "Alışveriş", quiet: "Sakin yerler", fei: "Tatil", feiWarn: "resmî tatil — birçok dükkân kapalı olabilir!" },
-    hr: { title: "Praktične informacije", wx: "Vrijeme — 5 dana", near: "U okolici", tips: "Savjeti", gastro: "Gastro", shop: "Kupovina", quiet: "Mirna mjesta", fei: "Blagdan", feiWarn: "blagdan — mnoge trgovine mogu biti zatvorene!" },
+    de: { title: "Praktische Infos", wx: "Wetter — 5 Tage", near: "In der Umgebung", tips: "Tipps", gastro: "Gastro", shop: "Shopping", quiet: "Ruhige Orte", fei: "Feiertag", feiWarn: "Feiertag — viele Geschäfte können geschlossen sein!", feiNone: "Kein gesetzlicher Feiertag in den nächsten 5 Tagen." },
+    hu: { title: "Praktikus infók", wx: "Időjárás — 5 nap", near: "A környéken", tips: "Tippek", gastro: "Gasztro", shop: "Shopping", quiet: "Nyugis helyek", fei: "Ünnepnap", feiWarn: "ünnepnap — sok üzlet zárva lehet!", feiNone: "A következő 5 napban nincs ünnepnap." },
+    ro: { title: "Informații practice", wx: "Vremea — 5 zile", near: "În împrejurimi", tips: "Sfaturi", gastro: "Gastro", shop: "Cumpărături", quiet: "Locuri liniștite", fei: "Sărbătoare", feiWarn: "sărbătoare legală — multe magazine pot fi închise!", feiNone: "Nicio sărbătoare legală în următoarele 5 zile." },
+    en: { title: "Practical info", wx: "Weather — 5 days", near: "Nearby", tips: "Tips", gastro: "Food", shop: "Shopping", quiet: "Quiet spots", fei: "Holiday", feiWarn: "public holiday — many shops may be closed!", feiNone: "No public holiday in the next 5 days." },
+    fr: { title: "Infos pratiques", wx: "Météo — 5 jours", near: "Aux alentours", tips: "Conseils", gastro: "Gastro", shop: "Shopping", quiet: "Coins calmes", fei: "Jour férié", feiWarn: "jour férié — de nombreux magasins peuvent être fermés !", feiNone: "Aucun jour férié dans les 5 prochains jours." },
+    tr: { title: "Pratik bilgiler", wx: "Hava — 5 gün", near: "Çevrede", tips: "İpuçları", gastro: "Yeme-içme", shop: "Alışveriş", quiet: "Sakin yerler", fei: "Tatil", feiWarn: "resmî tatil — birçok dükkân kapalı olabilir!", feiNone: "Önümüzdeki 5 günde resmi tatil yok." },
+    hr: { title: "Praktične informacije", wx: "Vrijeme — 5 dana", near: "U okolici", tips: "Savjeti", gastro: "Gastro", shop: "Kupovina", quiet: "Mirna mjesta", fei: "Blagdan", feiWarn: "blagdan — mnoge trgovine mogu biti zatvorene!", feiNone: "Nema blagdana u sljedećih 5 dana." },
   };
   const t = T[lang] || T.en;
   // City-tips sidecar (build-time bake). Always render when present — the city-info
@@ -1953,9 +1953,11 @@ fetch('https://api.open-meteo.com/v1/forecast?latitude='+lat+'&longitude='+lng+'
 if(iso){fetch('https://date.nager.at/api/v3/PublicHolidays/'+(new Date()).getFullYear()+'/'+iso)
 .then(function(r){return r.ok?r.json():[]}).then(function(hs){
   var now=new Date();var today=new Date(now.toDateString());var lim=new Date(now.getTime()+5*86400000);
+  var f=document.getElementById('plzIcFei');var found=false;if(!f)return;
   for(var i=0;i<hs.length;i++){var d=new Date(hs[i].date);
-    if(d>=today&&d<=lim){var f=document.getElementById('plzIcFei');f.hidden=false;
-      f.innerHTML='🎌 <b>'+hs[i].date.slice(5)+': '+hs[i].localName+'</b> — '+${JSON.stringify(t.feiWarn)};break;}}
+    if(d>=today&&d<=lim){f.hidden=false;f.className='plz-ic-fei is-warn';
+      f.innerHTML='🎌 <b>'+hs[i].date.slice(5)+': '+hs[i].localName+'</b> — '+${JSON.stringify(t.feiWarn)};found=true;break;}}
+  if(!found){f.hidden=false;f.className='plz-ic-fei is-none';f.innerHTML='🗓️ '+${JSON.stringify(t.feiNone)};}
 }).catch(function(){});}
 try{if(window.umami&&window.umami.track)window.umami.track('infocard_open',{});}catch(e){}
 });})();</script>`;
@@ -3599,6 +3601,7 @@ a.plz-sgr-nm:hover{text-decoration:underline}
 .plz-ic-wd .t{font-size:.72rem;font-weight:700}.plz-ic-wd .t small{color:var(--ink-faint);font-weight:400}
 .plz-ic-fei{background:var(--accent-wash);border:1px solid var(--rule);border-radius:var(--r);padding:7px 9px;font-size:.78rem;margin-top:8px}
 .plz-ic-fei b{color:var(--accent-deep)}
+.plz-ic-fei.is-none{background:var(--panel);color:var(--ink-soft)}
 .plz-ic-tips{margin:0;padding-left:17px;font-size:.8rem;color:var(--ink-soft)}.plz-ic-tips li{margin:3px 0}
 .plz-ic-pick{display:flex;gap:7px;padding:4px 0;font-size:.81rem}
 .plz-ic-pick p{margin:1px 0 0;color:var(--ink-faint);font-size:.74rem}
