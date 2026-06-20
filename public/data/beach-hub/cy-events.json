@@ -5,32 +5,77 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Apostolos Andreas Monastery Pilgrimage (St Andrew's Day)",
+    "name": {
+     "de": "Apostolos-Andreas-Kloster-Pilgerfahrt (Andreastag)",
+     "hu": "Apostolos Andreas kolostor zarándoklat (Szent András napja)",
+     "ro": "Pelerinajul la Mănăstirea Apostolos Andreas (Ziua Sfântului Andrei)",
+     "en": "Apostolos Andreas Monastery Pilgrimage (St Andrew's Day)"
+    },
     "type": "commemoration",
     "recurring": true,
-    "when": "Annually on 30 November (feast of Saint Andrew); a second major pilgrimage falls on 15 August (Dormition of the Virgin)",
+    "when": {
+     "de": "Jährlich am 30. November (Fest des Heiligen Andreas); eine zweite große Pilgerfahrt findet am 15. August (Mariä Himmelfahrt) statt",
+     "hu": "Évente november 30-án (Szent András ünnepe); egy második nagy zarándoklat augusztus 15-én (Szűz Mária elszenderedése) esik",
+     "ro": "Anual pe 30 noiembrie (sărbătoarea Sfântului Andrei); un al doilea pelerinaj important are loc pe 15 august (Adormirea Maicii Domnului)",
+     "en": "Annually on 30 November (feast of Saint Andrew); a second major pilgrimage falls on 15 August (Dormition of the Virgin)"
+    },
     "date": "2026-11-30",
-    "blurb": "Thousands of Greek Cypriot pilgrims travel to the Apostolos Andreas Monastery near Cape Apostolos Andreas, about 6-7 km from Golden Beach, for the feast of Saint Andrew. The day is marked by prayers, bells, incense and music at one of the island's most important religious sites.",
+    "blurb": {
+     "de": "Tausende griechisch-zypriotische Pilger reisen zum Apostolos-Andreas-Kloster nahe Kap Apostolos Andreas, etwa 6-7 km vom Golden Beach entfernt, zum Fest des Heiligen Andreas. Der Tag ist geprägt von Gebeten, Glocken, Weihrauch und Musik an einem der wichtigsten religiösen Stätten der Insel.",
+     "hu": "Több ezer görög ciprusi zarándok utazik az Apostolos Andreas kolostorhoz a Apostolos Andreas-fok közelében, körülbelül 6-7 km-re a Golden Beach-től, Szent András ünnepére. A napot imák, harangok, tömjén és zene jellemzi a sziget egyik legfontosabb vallási helyszínén.",
+     "ro": "Mii de pelerini ciprioți greci călătoresc la Mănăstirea Apostolos Andreas, lângă Capul Apostolos Andreas, la aproximativ 6-7 km de Golden Beach, pentru sărbătoarea Sfântului Andrei. Ziua este marcată de rugăciuni, clopote, tămâie și muzică la unul dintre cele mai importante locuri religioase ale insulei.",
+     "en": "Thousands of Greek Cypriot pilgrims travel to the Apostolos Andreas Monastery near Cape Apostolos Andreas, about 6-7 km from Golden Beach, for the feast of Saint Andrew. The day is marked by prayers, bells, incense and music at one of the island's most important religious sites."
+    },
     "source_url": "https://en.wikipedia.org/wiki/Apostolos_Andreas_Monastery",
     "image_url": ""
    },
    {
-    "name": "Sea Turtle Hatchling Releases at Golden Beach",
+    "name": {
+     "de": "Meeresschildkröten-Schlüpflingsfreilassungen am Golden Beach",
+     "hu": "Tengeri teknős fiókák kibocsátása a Golden Beachen",
+     "ro": "Eliberări de pui de țestoase marine la Golden Beach",
+     "en": "Sea Turtle Hatchling Releases at Golden Beach"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "Annually during the late-summer hatching season, roughly August to September (evening releases after dark)",
+    "when": {
+     "de": "Jährlich während der spätsommerlichen Schlüpfsaison, etwa August bis September (abendliche Freilassungen nach Einbruch der Dunkelheit)",
+     "hu": "Évente a késő nyári kikelési időszakban, nagyjából augusztustól szeptemberig (esti kibocsátások sötétedés után)",
+     "ro": "Anual în timpul sezonului de eclozare de la sfârșitul verii, aproximativ august până în septembrie (eliberări seara, după lăsarea întunericului)",
+     "en": "Annually during the late-summer hatching season, roughly August to September (evening releases after dark)"
+    },
     "date": "",
-    "blurb": "Golden Beach is one of the most important loggerhead and green turtle nesting beaches in the Mediterranean. The Society for the Protection of Turtles (SPOT) and the North Cyprus environmental authorities run monitored conservation work and public hatchling-release evenings during the hatching season, where visitors can watch baby turtles released to the sea.",
+    "blurb": {
+     "de": "Der Golden Beach ist einer der wichtigsten Niststrände für Unechte Karettschildkröten und Grüne Meeresschildkröten im Mittelmeer. Die Gesellschaft zum Schutz der Schildkröten (SPOT) und die nordzypriotischen Umweltbehörden führen überwachte Schutzarbeiten und öffentliche Schlüpflingsfreilassungsabende während der Schlüpfsaison durch, bei denen Besucher zusehen können, wie Babyschildkröten ins Meer entlassen werden.",
+     "hu": "A Golden Beach a Földközi-tenger egyik legfontosabb fészkelő strandja a közönséges levesteknős és a zöld teknős számára. A Tengeri Teknősök Védelméért Társaság (SPOT) és az észak-ciprusi környezetvédelmi hatóságok felügyelt védelmi munkát és nyilvános teknősbébi-kibocsátási estéket szerveznek a kikelési időszakban, ahol a látogatók megfigyelhetik, ahogy a kis teknősöket a tengerbe engedik.",
+     "ro": "Golden Beach este una dintre cele mai importante plaje de cuibărit pentru țestoasele marine (caretta caretta și țestoasa verde) din Marea Mediterană. Societatea pentru Protecția Țestoaselor (SPOT) și autoritățile de mediu din Ciprul de Nord desfășoară activități de conservare monitorizate și seri publice de eliberare a puilor în timpul sezonului de eclozare, unde vizitatorii pot urmări cum puii de țestoasă sunt eliberați în mare.",
+     "en": "Golden Beach is one of the most important loggerhead and green turtle nesting beaches in the Mediterranean. The Society for the Protection of Turtles (SPOT) and the North Cyprus environmental authorities run monitored conservation work and public hatchling-release evenings during the hatching season, where visitors can watch baby turtles released to the sea."
+    },
     "source_url": "https://cyprusturtles.org/marine-turtle-conservation-project-mctp",
     "image_url": ""
    },
    {
-    "name": "Feast of Saint Synesios, Rizokarpaso (Dipkarpaz)",
+    "name": {
+     "de": "Fest des Heiligen Synesios, Rizokarpaso (Dipkarpaz)",
+     "hu": "Szent Synesios ünnepe, Rizokarpaso (Dipkarpaz)",
+     "ro": "Sărbătoarea Sfântului Synesios, Rizokarpaso (Dipkarpaz)",
+     "en": "Feast of Saint Synesios, Rizokarpaso (Dipkarpaz)"
+    },
     "type": "traditional",
     "recurring": true,
-    "when": "Annually during Orthodox Bright Week (the week after Orthodox Easter), in the town of Rizokarpaso/Dipkarpaz",
+    "when": {
+     "de": "Jährlich während der orthodoxen Hellen Woche (der Woche nach orthodoxem Ostern) in der Stadt Rizokarpaso/Dipkarpaz",
+     "hu": "Évente az ortodox Fényes Héten (a húsvét utáni héten) Rizokarpaso/Dipkarpaz városában",
+     "ro": "Anual în timpul Săptămânii Luminate ortodoxe (săptămâna după Paștele ortodox), în orașul Rizokarpaso/Dipkarpaz",
+     "en": "Annually during Orthodox Bright Week (the week after Orthodox Easter), in the town of Rizokarpaso/Dipkarpaz"
+    },
     "date": "",
-    "blurb": "Saint Synesios is the patron saint of Rizokarpaso (Dipkarpaz), the nearest town to Golden Beach. His feast is traditionally celebrated during the Orthodox Bright Week following Easter, when worshippers gather to venerate the saint at the local church.",
+    "blurb": {
+     "de": "Der Heilige Synesios ist der Schutzpatron von Rizokarpaso (Dipkarpaz), der nächstgelegenen Stadt zum Golden Beach. Sein Fest wird traditionell während der orthodoxen Hellen Woche nach Ostern gefeiert, wenn Gläubige zusammenkommen, um den Heiligen in der örtlichen Kirche zu verehren.",
+     "hu": "Szent Synesios Rizokarpaso (Dipkarpaz) védőszentje, amely a Golden Beach-hez legközelebb eső város. Ünnepét hagyományosan az ortodox Fényes Héten, húsvét után tartják, amikor a hívek összegyűlnek, hogy tisztelegjenek a szent előtt a helyi templomban.",
+     "ro": "Sfântul Synesios este patronul spiritual al orașului Rizokarpaso (Dipkarpaz), cel mai apropiat oraș de Golden Beach. Sărbătoarea sa este celebrată în mod tradițional în timpul Săptămânii Luminate ortodoxe, după Paște, când credincioșii se adună pentru a-l venera pe sfânt la biserica locală.",
+     "en": "Saint Synesios is the patron saint of Rizokarpaso (Dipkarpaz), the nearest town to Golden Beach. His feast is traditionally celebrated during the Orthodox Bright Week following Easter, when worshippers gather to venerate the saint at the local church."
+    },
     "source_url": "https://www.mystagogyresourcecenter.com/2025/05/saint-synesios-patron-of-rizokarpaso.html",
     "image_url": ""
    }
@@ -42,52 +87,127 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Kataklysmos (Flood) Festival",
+    "name": {
+     "de": "Kataklysmos (Flut-)Festival",
+     "hu": "Kataklysmos (Árvíz) Fesztivál",
+     "ro": "Festivalul Kataklysmos (Potop)",
+     "en": "Kataklysmos (Flood) Festival"
+    },
     "type": "traditional",
     "recurring": true,
-    "when": "annually around Orthodox Pentecost (late May / early June); 2026 edition 30 May - 1 June",
+    "when": {
+     "de": "jährlich um das orthodoxe Pfingsten (Ende Mai/Anfang Juni); Ausgabe 2026: 30. Mai bis 1. Juni",
+     "hu": "évente az ortodox pünkösd körül (május vége/június eleje); 2026-os kiadás: május 30. – június 1.",
+     "ro": "anual în jurul Rusaliilor ortodoxe (sfârșitul lunii mai/începutul lunii iunie); ediția 2026: 30 mai – 1 iunie",
+     "en": "annually around Orthodox Pentecost (late May / early June); 2026 edition 30 May - 1 June"
+    },
     "date": "2026-05-30",
-    "blurb": "Traditional three-day seaside festival at Ayia Napa Harbour and Saint George Square, with the holy cross immersion ceremony, water-themed games, fish grilling, poetry and love-song contests, music and a lively waterfront atmosphere. Free entry.",
+    "blurb": {
+     "de": "Traditionelles dreitägiges Strandfest im Hafen von Ayia Napa und am Sankt-Georgs-Platz mit der Zeremonie des Eintauchens des Heiligen Kreuzes, Wasserspielen, Fischgrillen, Dichter- und Liebesliedwettbewerben, Musik und einer lebhaften Uferpromenade. Freier Eintritt.",
+     "hu": "Hagyományos háromnapos tengerparti fesztivál az Ayia Napa-i kikötőben és a Szent György téren, a szent kereszt alámerítési szertartással, vízi játékokkal, halfőzéssel, költészeti és szerelmes dalversenyekkel, zenével és élénk tengerparti hangulattal. Ingyenes belépés.",
+     "ro": "Festival tradițional de trei zile pe malul mării, în portul Ayia Napa și în Piața Sfântul Gheorghe, cu ceremonia scufundării sfintei cruci, jocuri cu apă, grătar de pește, concursuri de poezie și cântece de dragoste, muzică și o atmosferă animată pe malul apei. Intrare liberă.",
+     "en": "Traditional three-day seaside festival at Ayia Napa Harbour and Saint George Square, with the holy cross immersion ceremony, water-themed games, fish grilling, poetry and love-song contests, music and a lively waterfront atmosphere. Free entry."
+    },
     "source_url": "https://www.agianapa.org.cy/en/information/events/kataklysmos",
     "image_url": ""
    },
    {
-    "name": "Ayia Napa Youth Festival",
+    "name": {
+     "de": "Ayia Napa Jugendfestival",
+     "hu": "Ayia Napa Ifjúsági Fesztivál",
+     "ro": "Festivalul Tineretului din Ayia Napa",
+     "en": "Ayia Napa Youth Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in August at Ayia Napa Harbour; 2026 edition (9th) on 9-10 August",
+    "when": {
+     "de": "jährlich im August im Hafen von Ayia Napa; Ausgabe 2026 (9.) am 9.–10. August",
+     "hu": "évente augusztusban az Ayia Napa-i kikötőben; 2026-os kiadás (9.) augusztus 9–10.",
+     "ro": "anual în august, în portul Ayia Napa; ediția 2026 (a 9-a) pe 9–10 august",
+     "en": "annually in August at Ayia Napa Harbour; 2026 edition (9th) on 9-10 August"
+    },
     "date": "2026-08-09",
-    "blurb": "Open-air concert festival at Ayia Napa Harbour featuring popular Greek and international performers (2026 line-up includes Panos Kiamos, Super Sako and Eleni Foureira).",
+    "blurb": {
+     "de": "Open-Air-Konzertfestival im Hafen von Ayia Napa mit beliebten griechischen und internationalen Künstlern (das Line-up 2026 umfasst Panos Kiamos, Super Sako und Eleni Foureira).",
+     "hu": "Szabadtéri koncertfesztivál az Ayia Napa-i kikötőben, népszerű görög és nemzetközi előadókkal (a 2026-os fellépők között van Panos Kiamos, Super Sako és Eleni Foureira).",
+     "ro": "Festival de concerte în aer liber în portul Ayia Napa, cu artiști greci și internaționali populari (line-up-ul din 2026 îi include pe Panos Kiamos, Super Sako și Eleni Foureira).",
+     "en": "Open-air concert festival at Ayia Napa Harbour featuring popular Greek and international performers (2026 line-up includes Panos Kiamos, Super Sako and Eleni Foureira)."
+    },
     "source_url": "https://mycyprustravel.com/event/ayia-napa-youth-festival/",
     "image_url": ""
    },
    {
-    "name": "Ayia Napa International Festival",
+    "name": {
+     "de": "Internationales Festival von Ayia Napa",
+     "hu": "Ayia Napa Nemzetközi Fesztivál",
+     "ro": "Festivalul Internațional Ayia Napa",
+     "en": "Ayia Napa International Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually the 3rd weekend of September at the main square and monastery; 2026 edition (42nd) on 25-27 September",
+    "when": {
+     "de": "jährlich am 3. Septemberwochenende auf dem Hauptplatz und am Kloster; Ausgabe 2026 (42.) am 25.–27. September",
+     "hu": "évente szeptember 3. hétvégéjén a főtéren és a kolostornál; 2026-os kiadás (42.) szeptember 25–27.",
+     "ro": "anual în al treilea weekend din septembrie, în piața principală și la mănăstire; ediția 2026 (a 42-a) pe 25–27 septembrie",
+     "en": "annually the 3rd weekend of September at the main square and monastery; 2026 edition (42nd) on 25-27 September"
+    },
     "date": "2026-09-25",
-    "blurb": "Cyprus' folklore and cultural festival with visiting dance and music groups, Cypriot and Greek concerts, traditional craft demonstrations and food and drink stalls celebrating local traditions.",
+    "blurb": {
+     "de": "Zyperns Volkskunde- und Kulturfestival mit Gasttanz- und Musikgruppen, zypriotischen und griechischen Konzerten, traditionellen Handwerksvorführungen sowie Essens- und Getränkeständen, die lokale Traditionen feiern.",
+     "hu": "Ciprus folklór- és kulturális fesztiválja vendég tánc- és zenei csoportokkal, ciprusi és görög koncertekkel, hagyományos kézműves bemutatókkal, valamint étel- és italstandokkal, amelyek a helyi hagyományokat ünneplik.",
+     "ro": "Festivalul de folclor și cultură al Ciprului, cu grupuri invitate de dans și muzică, concerte cipriote și grecești, demonstrații de meșteșuguri tradiționale și standuri cu mâncare și băutură care celebrează tradițiile locale.",
+     "en": "Cyprus' folklore and cultural festival with visiting dance and music groups, Cypriot and Greek concerts, traditional craft demonstrations and food and drink stalls celebrating local traditions."
+    },
     "source_url": "https://www.agianapa.org.cy/en/information/events/ayia-napa-festival",
     "image_url": ""
    },
    {
-    "name": "Ayia Napa Medieval Festival",
+    "name": {
+     "de": "Mittelalterfestival von Ayia Napa",
+     "hu": "Ayia Napa Középkori Fesztivál",
+     "ro": "Festivalul Medieval Ayia Napa",
+     "en": "Ayia Napa Medieval Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in October; 2026 edition (19th) on 14-18 October",
+    "when": {
+     "de": "jährlich im Oktober; Ausgabe 2026 (19.) am 14.–18. Oktober",
+     "hu": "évente októberben; 2026-os kiadás (19.) október 14–18.",
+     "ro": "anual în octombrie; ediția 2026 (a 19-a) pe 14–18 octombrie",
+     "en": "annually in October; 2026 edition (19th) on 14-18 October"
+    },
     "date": "2026-10-14",
-    "blurb": "Town-centre medieval festival with theatrical plays, street theatre, music concerts and dance performances by European groups, transforming Ayia Napa into a medieval setting.",
+    "blurb": {
+     "de": "Mittelalterfestival im Stadtzentrum mit Theaterstücken, Straßentheater, Musikkonzerten und Tanzaufführungen europäischer Gruppen, das Ayia Napa in ein mittelalterliches Ambiente verwandelt.",
+     "hu": "Városközponti középkori fesztivál színházi előadásokkal, utcaszínházzal, zenei koncertekkel és európai csoportok táncbemutatóival, amely Ayia Napát középkori környezetté varázsolja.",
+     "ro": "Festival medieval în centrul orașului, cu piese de teatru, teatru de stradă, concerte muzicale și spectacole de dans ale unor grupuri europene, transformând Ayia Napa într-un decor medieval.",
+     "en": "Town-centre medieval festival with theatrical plays, street theatre, music concerts and dance performances by European groups, transforming Ayia Napa into a medieval setting."
+    },
     "source_url": "https://events.visitfamagusta.com.cy/events/19th-medieval-ayia-napa-festival/",
     "image_url": ""
    },
    {
-    "name": "McDonald's Ayia Napa International Youth Soccer Festival",
+    "name": {
+     "de": "McDonald's Ayia Napa Internationales Jugendfußballfestival",
+     "hu": "McDonald's Ayia Napa Nemzetközi Ifjúsági Labdarúgó Fesztivál",
+     "ro": "Festivalul Internațional de Fotbal pentru Tineret McDonald's Ayia Napa",
+     "en": "McDonald's Ayia Napa International Youth Soccer Festival"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "annually in spring; 2026 edition 4-9 April",
+    "when": {
+     "de": "jährlich im Frühling; Ausgabe 2026 am 4.–9. April",
+     "hu": "évente tavasszal; 2026-os kiadás: április 4–9.",
+     "ro": "anual primăvara; ediția 2026: 4–9 aprilie",
+     "en": "annually in spring; 2026 edition 4-9 April"
+    },
     "date": "2026-04-04",
-    "blurb": "International youth football tournament hosting teams from across Europe at venues in and around Ayia Napa.",
+    "blurb": {
+     "de": "Internationales Jugendfußballturnier mit Teams aus ganz Europa an Spielorten in und um Ayia Napa.",
+     "hu": "Nemzetközi ifjúsági labdarúgótorna Európa-szerte érkező csapatokkal, Ayia Napa-ban és környékén található helyszíneken.",
+     "ro": "Turneu internațional de fotbal pentru tineret, cu echipe din toată Europa, la locații din Ayia Napa și împrejurimi.",
+     "en": "International youth football tournament hosting teams from across Europe at venues in and around Ayia Napa."
+    },
     "source_url": "https://www.visitcyprus.com/event/mcdonalds-ayia-napa-youth-soccer-festival-2026/",
     "image_url": ""
    }
@@ -99,52 +219,127 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Green Monday Kite Flying",
+    "name": {
+     "de": "Green Monday Kite Flying",
+     "hu": "Green Monday Kite Flying",
+     "ro": "Green Monday Kite Flying",
+     "en": "Green Monday Kite Flying"
+    },
     "type": "traditional",
     "recurring": true,
-    "when": "Annually on Green Monday (Clean Monday / Kathara Deftera), the start of Orthodox Lent; 2026 edition on 23 February 2026",
+    "when": {
+     "de": "Jährlich am Green Monday (Clean Monday / Kathara Deftera), dem Beginn der orthodoxen Fastenzeit; Ausgabe 2026 am 23. Februar 2026",
+     "hu": "Évente Green Mondaykor (Clean Monday / Kathara Deftera), az ortodox nagyböjt kezdetén; a 2026-os kiadás 2026. február 23-án",
+     "ro": "Anual în Green Monday (Clean Monday / Kathara Deftera), începutul Postului Ortodox; ediția 2026 pe 23 februarie 2026",
+     "en": "Annually on Green Monday (Clean Monday / Kathara Deftera), the start of Orthodox Lent; 2026 edition on 23 February 2026"
+    },
     "date": "2026-02-23",
-    "blurb": "On Green Monday, Cypriot families head to the countryside and beaches for picnics with fasting food and the traditional custom of flying kites. Governor's Beach and its open coastal area is a popular local spot for the day's kite flying.",
+    "blurb": {
+     "de": "Am Green Monday ziehen zypriotische Familien aufs Land und an die Strände zu Picknicks mit Fastenspeisen und dem traditionellen Brauch des Drachensteigens. Der Governor's Beach und sein offenes Küstengebiet sind ein beliebter lokaler Ort für das Drachensteigen an diesem Tag.",
+     "hu": "Green Mondaykor a ciprusi családok a vidékre és a strandokra mennek piknikezni böjtös ételekkel és a hagyományos sárkányeregetéssel. A Governor's Beach és nyitott tengerparti területe népszerű helyi helyszín a napi sárkányeregetéshez.",
+     "ro": "De Green Monday, familiile cipriote merg la țară și pe plaje pentru picnicuri cu mâncare de post și obiceiul tradițional de a zbura zmeie. Plaja Governor's Beach și zona sa de coastă deschisă sunt un loc popular local pentru zborul zmeielor în această zi.",
+     "en": "On Green Monday, Cypriot families head to the countryside and beaches for picnics with fasting food and the traditional custom of flying kites. Governor's Beach and its open coastal area is a popular local spot for the day's kite flying."
+    },
     "source_url": "https://www.officeholidays.com/holidays/cyprus/ash-monday",
     "image_url": ""
    },
    {
-    "name": "Governor's Beach Kite Festival",
+    "name": {
+     "de": "Governor's Beach Kite Festival",
+     "hu": "Governor's Beach Kite Festival",
+     "ro": "Governor's Beach Kite Festival",
+     "en": "Governor's Beach Kite Festival"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "Annually in the summer months",
+    "when": {
+     "de": "Jährlich in den Sommermonaten",
+     "hu": "Évente a nyári hónapokban",
+     "ro": "Anual în lunile de vară",
+     "en": "Annually in the summer months"
+    },
     "date": "",
-    "blurb": "A kite festival held at Governor's Beach during the summer, when the sky over the bay fills with colourful kites of all shapes and sizes, with activities for visitors of all ages.",
+    "blurb": {
+     "de": "Ein Drachenfest am Governor's Beach im Sommer, wenn der Himmel über der Bucht mit bunten Drachen aller Formen und Größen gefüllt ist, mit Aktivitäten für Besucher jeden Alters.",
+     "hu": "Sárkányfesztivál a Governor's Beach-en nyáron, amikor az öböl feletti égbolt színes, minden formájú és méretű sárkányokkal telik meg, minden korosztály számára kínálva programokat.",
+     "ro": "Un festival de zmeie pe plaja Governor's Beach în timpul verii, când cerul deasupra golfului se umple de zmeie colorate de toate formele și mărimile, cu activități pentru vizitatori de toate vârstele.",
+     "en": "A kite festival held at Governor's Beach during the summer, when the sky over the bay fills with colourful kites of all shapes and sizes, with activities for visitors of all ages."
+    },
     "source_url": "https://www.cyprusisland.net/cyprus-beaches/governors-beach",
     "image_url": ""
    },
    {
-    "name": "Panagia Pyrgotissa Feast (Pyrgos Limassol)",
+    "name": {
+     "de": "Panagia Pyrgotissa Feast (Pyrgos Limassol)",
+     "hu": "Panagia Pyrgotissa Feast (Pyrgos Limassol)",
+     "ro": "Panagia Pyrgotissa Feast (Pyrgos Limassol)",
+     "en": "Panagia Pyrgotissa Feast (Pyrgos Limassol)"
+    },
     "type": "traditional",
     "recurring": true,
-    "when": "Annually on 15 August (Dormition of the Virgin Mary); 2026 edition on 15 August 2026",
+    "when": {
+     "de": "Jährlich am 15. August (Mariä Himmelfahrt); Ausgabe 2026 am 15. August 2026",
+     "hu": "Évente augusztus 15-én (Szűz Mária elszenderedése); a 2026-os kiadás 2026. augusztus 15-én",
+     "ro": "Anual pe 15 august (Adormirea Maicii Domnului); ediția 2026 pe 15 august 2026",
+     "en": "Annually on 15 August (Dormition of the Virgin Mary); 2026 edition on 15 August 2026"
+    },
     "date": "2026-08-15",
-    "blurb": "The main church feast of nearby Pyrgos village, celebrated on 15 August, when crowds gather in the community for a large traditional panigiri with food, music and dance.",
+    "blurb": {
+     "de": "Das Hauptkirchenfest des nahegelegenen Dorfes Pyrgos, gefeiert am 15. August, wenn sich die Menschen in der Gemeinde zu einem großen traditionellen Panigiri mit Essen, Musik und Tanz versammeln.",
+     "hu": "A közeli Pyrgos falu fő templomi ünnepe, amelyet augusztus 15-én tartanak, amikor a közösségben összegyűlnek egy nagy hagyományos panigirire étellel, zenével és tánccal.",
+     "ro": "Sărbătoarea principală a bisericii din satul vecin Pyrgos, celebrată pe 15 august, când mulțimile se adună în comunitate pentru un mare panigiri tradițional cu mâncare, muzică și dans.",
+     "en": "The main church feast of nearby Pyrgos village, celebrated on 15 August, when crowds gather in the community for a large traditional panigiri with food, music and dance."
+    },
     "source_url": "https://cyprus.terrabook.com/cyprus/page/pyrgos-limassol-lemesou/",
     "image_url": ""
    },
    {
-    "name": "Agia Marina Feast (Pyrgos Limassol)",
+    "name": {
+     "de": "Agia Marina Feast (Pyrgos Limassol)",
+     "hu": "Agia Marina Feast (Pyrgos Limassol)",
+     "ro": "Agia Marina Feast (Pyrgos Limassol)",
+     "en": "Agia Marina Feast (Pyrgos Limassol)"
+    },
     "type": "traditional",
     "recurring": true,
-    "when": "Annually around 17 July",
+    "when": {
+     "de": "Jährlich um den 17. Juli",
+     "hu": "Évente július 17-e körül",
+     "ro": "Anual în jurul datei de 17 iulie",
+     "en": "Annually around 17 July"
+    },
     "date": "",
-    "blurb": "A religious feast at the small stone chapel of Agia Marina south of Pyrgos village, near Governor's Beach, drawing worshippers from the surrounding area to venerate its icon.",
+    "blurb": {
+     "de": "Ein religiöses Fest in der kleinen Steinkapelle Agia Marina südlich des Dorfes Pyrgos, nahe Governor's Beach, das Gläubige aus der Umgebung zur Verehrung ihrer Ikone anzieht.",
+     "hu": "Vallási ünnep a Pyrgos falutól délre, a Governor's Beach közelében található kis kőkápolnában, Agia Marina-nál, amely a környékről vonzza a híveket az ikon tiszteletére.",
+     "ro": "O sărbătoare religioasă la mica capelă de piatră Agia Marina, la sud de satul Pyrgos, lângă plaja Governor's Beach, atrăgând credincioși din zona înconjurătoare pentru a venera icoana sa.",
+     "en": "A religious feast at the small stone chapel of Agia Marina south of Pyrgos village, near Governor's Beach, drawing worshippers from the surrounding area to venerate its icon."
+    },
     "source_url": "https://cyprus.terrabook.com/cyprus/page/pyrgos-limassol-lemesou/",
     "image_url": ""
    },
    {
-    "name": "Saint George Feast (Monagroulli)",
+    "name": {
+     "de": "Saint George Feast (Monagroulli)",
+     "hu": "Saint George Feast (Monagroulli)",
+     "ro": "Saint George Feast (Monagroulli)",
+     "en": "Saint George Feast (Monagroulli)"
+    },
     "type": "traditional",
     "recurring": true,
-    "when": "Annually on the feast of Saint George (typically 23 April)",
+    "when": {
+     "de": "Jährlich am Fest des Heiligen Georg (typischerweise 23. April)",
+     "hu": "Évente Szent György ünnepén (jellemzően április 23-án)",
+     "ro": "Anual de sărbătoarea Sfântului Gheorghe (de obicei pe 23 aprilie)",
+     "en": "Annually on the feast of Saint George (typically 23 April)"
+    },
     "date": "",
-    "blurb": "The patron saint feast of nearby Monagroulli village, bringing the community together for a celebration of traditional Cypriot music, dance and food.",
+    "blurb": {
+     "de": "Das Patronatsfest des nahegelegenen Dorfes Monagroulli, das die Gemeinde zu einer Feier mit traditioneller zypriotischer Musik, Tanz und Essen zusammenbringt.",
+     "hu": "A közeli Monagroulli falu védőszentjének ünnepe, amely összehozza a közösséget egy hagyományos ciprusi zenével, tánccal és étellel teli ünneplésre.",
+     "ro": "Sărbătoarea patronului satului vecin Monagroulli, care aduce comunitatea împreună pentru o celebrare cu muzică, dans și mâncare tradițională cipriotă.",
+     "en": "The patron saint feast of nearby Monagroulli village, bringing the community together for a celebration of traditional Cypriot music, dance and food."
+    },
     "source_url": "https://www.cyprusisland.net/cyprus-villages/limassol/monagroulli-village",
     "image_url": ""
    }
@@ -156,32 +351,77 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Pafos Aphrodite Festival",
+    "name": {
+     "de": "Pafos Aphrodite Festival",
+     "hu": "Pafos Aphrodite Festival",
+     "ro": "Festivalul Afroditei din Paphos",
+     "en": "Pafos Aphrodite Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually, traditionally first weekend of September (2026 edition tied to Cyprus EU Presidency)",
+    "when": {
+     "de": "jährlich, traditionell am ersten Septemberwochenende (Ausgabe 2026 im Rahmen der zyprischen EU-Ratspräsidentschaft)",
+     "hu": "évente, hagyományosan szeptember első hétvégéjén (a 2026-os kiadás Ciprus EU-elnökségéhez kötődik)",
+     "ro": "anual, în mod tradițional în primul weekend din septembrie (ediția 2026 legată de Președinția cipriotă a UE)",
+     "en": "annually, traditionally first weekend of September (2026 edition tied to Cyprus EU Presidency)"
+    },
     "date": "",
-    "blurb": "Paphos's flagship cultural event, an annual open-air opera staged in front of the Medieval Castle on Kato Paphos harbour (close to Alykes Beach) since 1999, featuring international casts with full orchestra and chorus. The 2026 dates were reported with conflicting timing (a possible move to June for the Cyprus EU Presidency versus the usual early-September slot).",
+    "blurb": {
+     "de": "Paphos‘ kulturelles Flaggschiffereignis, eine jährliche Open-Air-Oper, die seit 1999 vor der mittelalterlichen Burg am Hafen von Kato Paphos (nahe dem Alykes-Strand) aufgeführt wird, mit internationalen Besetzungen, vollem Orchester und Chor. Die Termine für 2026 wurden mit widersprüchlichen Angaben gemeldet (eine mögliche Verlegung auf Juni für die zyprische EU-Ratspräsidentschaft gegenüber dem üblichen Termin Anfang September).",
+     "hu": "Paphos zászlóshajó kulturális eseménye, egy éves szabadtéri opera, amelyet 1999 óta a középkori vár előtt, a Kato Paphos-i kikötőben (az Alykes strand közelében) adnak elő nemzetközi szereplőkkel, teljes zenekarral és kórussal. A 2026-os dátumokról ellentmondó hírek érkeztek (lehetséges áthelyezés júniusra a ciprusi EU-elnökség miatt a szokásos szeptember eleji időpont helyett).",
+     "ro": "Evenimentul cultural emblematic al Paphosului, o operă anuală în aer liber, jucată în fața Castelului Medieval de la portul Kato Paphos (lângă plaja Alykes) din 1999, cu distribuții internaționale, orchestră completă și cor. Datele pentru 2026 au fost raportate cu informații contradictorii (o posibilă mutare în iunie pentru Președinția cipriotă a UE față de perioada obișnuită de la începutul lunii septembrie).",
+     "en": "Paphos's flagship cultural event, an annual open-air opera staged in front of the Medieval Castle on Kato Paphos harbour (close to Alykes Beach) since 1999, featuring international casts with full orchestra and chorus. The 2026 dates were reported with conflicting timing (a possible move to June for the Cyprus EU Presidency versus the usual early-September slot)."
+    },
     "source_url": "https://www.visitpafos.org.cy/pafos-aphrodite-festival/",
     "image_url": ""
    },
    {
-    "name": "Kataklysmos (Festival of the Flood)",
+    "name": {
+     "de": "Kataklysmos (Fest der Sintflut)",
+     "hu": "Kataklysmos (Az özönvíz ünnepe)",
+     "ro": "Kataklysmos (Festivalul Potopului)",
+     "en": "Kataklysmos (Festival of the Flood)"
+    },
     "type": "religious",
     "recurring": true,
-    "when": "annually at Pentecost; 2026 around 30 May to 1 June",
+    "when": {
+     "de": "jährlich an Pfingsten; 2026 etwa vom 30. Mai bis 1. Juni",
+     "hu": "évente pünkösdkor; 2026 körülbelül május 30-tól június 1-ig",
+     "ro": "anual la Rusalii; în 2026 în jurul datei de 30 mai până la 1 iunie",
+     "en": "annually at Pentecost; 2026 around 30 May to 1 June"
+    },
     "date": "",
-    "blurb": "A traditional Cypriot seafront festival held at Pentecost in coastal cities including Paphos, blending Christian observance with older water rituals. Celebrations include the blessing of water, processions toward the sea, fairs, concerts and water-based entertainment along the promenade.",
+    "blurb": {
+     "de": "Ein traditionelles zypriotisches Strandfest, das zu Pfingsten in Küstenstädten einschließlich Paphos stattfindet und christliche Bräuche mit älteren Wasserritualen verbindet. Zu den Feierlichkeiten gehören die Segnung des Wassers, Prozessionen zum Meer, Jahrmärkte, Konzerte und Wasserunterhaltung entlang der Promenade.",
+     "hu": "Egy hagyományos ciprusi tengerparti fesztivál, amelyet pünkösdkor rendeznek meg a tengerparti városokban, köztük Paphosban is, ötvözve a keresztény megemlékezést régebbi vízi rituálékkal. Az ünnepségek közé tartozik a víz megáldása, körmenetek a tenger felé, vásárok, koncertek és vízi szórakozás a sétány mentén.",
+     "ro": "Un festival tradițional cipriot pe malul mării, desfășurat de Rusalii în orașele de coastă, inclusiv Paphos, îmbinând sărbătoarea creștină cu ritualuri mai vechi legate de apă. Sărbătorile includ binecuvântarea apei, procesiuni spre mare, târguri, concerte și divertisment acvatic de-a lungul promenadei.",
+     "en": "A traditional Cypriot seafront festival held at Pentecost in coastal cities including Paphos, blending Christian observance with older water rituals. Celebrations include the blessing of water, processions toward the sea, fairs, concerts and water-based entertainment along the promenade."
+    },
     "source_url": "https://www.visitcyprus.com/",
     "image_url": ""
    },
    {
-    "name": "Paphos Wine Festival",
+    "name": {
+     "de": "Paphos Wein Festival",
+     "hu": "Paphos Borfesztivál",
+     "ro": "Festivalul Vinului din Paphos",
+     "en": "Paphos Wine Festival"
+    },
     "type": "food",
     "recurring": true,
-    "when": "annually in September",
+    "when": {
+     "de": "jährlich im September",
+     "hu": "évente szeptemberben",
+     "ro": "anual în septembrie",
+     "en": "annually in September"
+    },
     "date": "",
-    "blurb": "A September wine festival in Paphos celebrating local Cypriot wines, with wineries and wine sellers alongside family entertainment such as shows and activities.",
+    "blurb": {
+     "de": "Ein September-Weinfest in Paphos, das lokale zypriotische Weine feiert, mit Weingütern und Weinverkäufern sowie Familienunterhaltung wie Shows und Aktivitäten.",
+     "hu": "Egy szeptemberi borfesztivál Paphosban, amely a helyi ciprusi borokat ünnepli, borászatokkal és borárusokkal, valamint családi szórakozással, például műsorokkal és tevékenységekkel.",
+     "ro": "Un festival al vinului din septembrie în Paphos, care sărbătorește vinurile locale cipriote, cu crame și vânzători de vin, alături de divertisment pentru familie, cum ar fi spectacole și activități.",
+     "en": "A September wine festival in Paphos celebrating local Cypriot wines, with wineries and wine sellers alongside family entertainment such as shows and activities."
+    },
     "source_url": "https://www.paphos.com/v/festivals/",
     "image_url": ""
    }
@@ -193,32 +433,77 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Coral Bay Street Festival",
+    "name": {
+     "de": "Coral Bay Street Festival",
+     "hu": "Coral Bay Street Festival",
+     "ro": "Coral Bay Street Festival",
+     "en": "Coral Bay Street Festival"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually mid-summer, weekends late July to mid-August",
+    "when": {
+     "de": "jährlich im Hochsommer, Wochenenden Ende Juli bis Mitte August",
+     "hu": "évente nyár közepén, hétvégéken július végétől augusztus közepéig",
+     "ro": "anual la mijlocul verii, în weekenduri de la sfârșitul lui iulie până la mijlocul lui august",
+     "en": "annually mid-summer, weekends late July to mid-August"
+    },
     "date": "",
-    "blurb": "A community summer festival that turns Coral Bay Avenue, the main strip beside Coral Bay beach in Peyia, into an open-air event with live music, art installations, fire and LED shows, a kids' zone and food stalls on weekend evenings. In 2025 it ran on weekends from July 26 to August 17.",
+    "blurb": {
+     "de": "Ein Gemeinschafts-Sommerfest, das die Coral Bay Avenue, die Hauptstraße neben dem Coral-Bay-Strand in Peyia, in eine Open-Air-Veranstaltung mit Livemusik, Kunstinstallationen, Feuer- und LED-Shows, einer Kinderzone und Essensständen an den Wochenendabenden verwandelt. 2025 fand es an den Wochenenden vom 26. Juli bis 17. August statt.",
+     "hu": "Egy közösségi nyári fesztivál, amely a Coral Bay Avenue-t, a Peyia-i Coral Bay strand melletti főutcát szabadtéri eseménnyé változtatja élőzenével, művészeti installációkkal, tűz- és LED-show-kkal, gyerekzónával és ételárusokkal a hétvégi estéken. 2025-ben július 26-tól augusztus 17-ig tartott a hétvégéken.",
+     "ro": "Un festival comunitar de vară care transformă Coral Bay Avenue, strada principală de lângă plaja Coral Bay din Peyia, într-un eveniment în aer liber cu muzică live, instalații de artă, spectacole cu foc și LED, o zonă pentru copii și standuri cu mâncare în serile de weekend. În 2025 a avut loc în weekendurile de la 26 iulie până la 17 august.",
+     "en": "A community summer festival that turns Coral Bay Avenue, the main strip beside Coral Bay beach in Peyia, into an open-air event with live music, art installations, fire and LED shows, a kids' zone and food stalls on weekend evenings. In 2025 it ran on weekends from July 26 to August 17."
+    },
     "source_url": "https://prestigebookings.com/coral-bay-street-festival-2025/",
     "image_url": ""
    },
    {
-    "name": "Akamas Fish Festival (Peyia)",
+    "name": {
+     "de": "Akamas Fish Festival (Peyia)",
+     "hu": "Akamas Fish Festival (Peyia)",
+     "ro": "Akamas Fish Festival (Peyia)",
+     "en": "Akamas Fish Festival (Peyia)"
+    },
     "type": "food",
     "recurring": true,
-    "when": "annually mid-May (held at the port of Agios Georgios, Peyia)",
+    "when": {
+     "de": "jährlich Mitte Mai (im Hafen von Agios Georgios, Peyia)",
+     "hu": "évente május közepén (a peyiai Agios Georgios kikötőjében)",
+     "ro": "anual la mijlocul lunii mai (organizat în portul Agios Georgios, Peyia)",
+     "en": "annually mid-May (held at the port of Agios Georgios, Peyia)"
+    },
     "date": "",
-    "blurb": "A seafood festival organised by the Municipality of Akamas at the picturesque fishing port of Agios Georgios in Peyia, featuring fresh fish, live music, and activities for children. The inaugural edition was held on 18 May 2025.",
+    "blurb": {
+     "de": "Ein Fischfestival, organisiert von der Gemeinde Akamas am malerischen Fischereihafen von Agios Georgios in Peyia, mit frischem Fisch, Livemusik und Aktivitäten für Kinder. Die erste Ausgabe fand am 18. Mai 2025 statt.",
+     "hu": "Egy tengeri ételfesztivál, amelyet Akamas önkormányzata szervez a peyiai Agios Georgios festői halászkikötőjében, friss hallal, élőzenével és gyermekprogramokkal. Az első kiadást 2025. május 18-án tartották.",
+     "ro": "Un festival de fructe de mare organizat de Primăria Akamas în pitorescul port de pescuit Agios Georgios din Peyia, cu pește proaspăt, muzică live și activități pentru copii. Ediția inaugurală a avut loc pe 18 mai 2025.",
+     "en": "A seafood festival organised by the Municipality of Akamas at the picturesque fishing port of Agios Georgios in Peyia, featuring fresh fish, live music, and activities for children. The inaugural edition was held on 18 May 2025."
+    },
     "source_url": "https://www.visitpafos.org.cy/events/akamas-1st-fish-festival-port-of-ag-georgiou-peyia-18-may/",
     "image_url": ""
    },
    {
-    "name": "Paphos Beer Festival (Paphos BeerFest)",
+    "name": {
+     "de": "Paphos Beer Festival (Paphos BeerFest)",
+     "hu": "Paphos Beer Festival (Paphos BeerFest)",
+     "ro": "Paphos Beer Festival (Paphos BeerFest)",
+     "en": "Paphos Beer Festival (Paphos BeerFest)"
+    },
     "type": "food",
     "recurring": true,
-    "when": "2026-08-05 to 2026-08-09",
+    "when": {
+     "de": "5. bis 9. August 2026",
+     "hu": "2026. augusztus 5–9.",
+     "ro": "5–9 august 2026",
+     "en": "2026-08-05 to 2026-08-09"
+    },
     "date": "2026-08-05",
-    "blurb": "An annual free-entry beer festival held in the square in front of the medieval castle at Paphos Harbour, the nearest city to Coral Bay, offering over 150 beer varieties, street food and live performances. The 2026 edition is scheduled for 5-9 August.",
+    "blurb": {
+     "de": "Ein jährliches Bierfestival mit freiem Eintritt auf dem Platz vor der mittelalterlichen Burg am Hafen von Paphos, der nächstgelegenen Stadt zu Coral Bay, mit über 150 Biersorten, Straßenessen und Live-Auftritten. Die Ausgabe 2026 ist für den 5. bis 9. August geplant.",
+     "hu": "Egy éves, ingyenes belépésű sörfesztivál a paphosi kikötő középkori vára előtti téren, a Coral Bay-hez legközelebbi városban, több mint 150 sörfajtával, utcai ételekkel és élő fellépésekkel. A 2026-os kiadást augusztus 5–9-re tervezik.",
+     "ro": "Un festival anual de bere cu intrare liberă, organizat în piața din fața castelului medieval de la Portul Paphos, cel mai apropiat oraș de Coral Bay, oferind peste 150 de sortimente de bere, mâncare stradală și spectacole live. Ediția din 2026 este programată pentru 5–9 august.",
+     "en": "An annual free-entry beer festival held in the square in front of the medieval castle at Paphos Harbour, the nearest city to Coral Bay, offering over 150 beer varieties, street food and live performances. The 2026 edition is scheduled for 5-9 August."
+    },
     "source_url": "https://cyproplan.com/event/paphos-beerfest-2026",
     "image_url": ""
    }
@@ -230,32 +515,77 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Pervolia Festival",
+    "name": {
+     "de": "Pervolia Festival",
+     "hu": "Pervolia Fesztivál",
+     "ro": "Festivalul Pervolia",
+     "en": "Pervolia Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in August",
+    "when": {
+     "de": "jährlich im August",
+     "hu": "évente augusztusban",
+     "ro": "anual în august",
+     "en": "annually in August"
+    },
     "date": "",
-    "blurb": "An annual cultural festival held in Pervolia, the village immediately next to Faros Beach, featuring traditional music, dancing and local food. It is listed among the Larnaka region's annual village festivals.",
+    "blurb": {
+     "de": "Ein jährliches Kulturfestival in Pervolia, dem Dorf direkt neben dem Faros Beach, mit traditioneller Musik, Tanz und lokalen Speisen. Es wird unter den jährlichen Dorffesten der Region Larnaka aufgeführt.",
+     "hu": "Éves kulturális fesztivál Pervoliában, a Faros Beach melletti faluban, hagyományos zenével, tánccal és helyi ételekkel. Szerepel a Larnaka régió éves falusi fesztiváljai között.",
+     "ro": "Un festival cultural anual desfășurat în Pervolia, satul imediat lângă Plaja Faros, cu muzică tradițională, dans și mâncare locală. Este listat printre festivalurile anuale ale satelor din regiunea Larnaca.",
+     "en": "An annual cultural festival held in Pervolia, the village immediately next to Faros Beach, featuring traditional music, dancing and local food. It is listed among the Larnaka region's annual village festivals."
+    },
     "source_url": "https://larnakaregion.com/annual-festivals",
     "image_url": ""
    },
    {
-    "name": "Kataklysmos (Festival of the Flood)",
+    "name": {
+     "de": "Kataklysmos (Festival der Flut)",
+     "hu": "Kataklysmos (Az Özönvíz Fesztiválja)",
+     "ro": "Kataklysmos (Festivalul Potopului)",
+     "en": "Kataklysmos (Festival of the Flood)"
+    },
     "type": "religious",
     "recurring": true,
-    "when": "annually at Pentecost, 50 days after Orthodox Easter (2026: late May to early June)",
+    "when": {
+     "de": "jährlich an Pfingsten, 50 Tage nach orthodoxem Ostern (2026: Ende Mai bis Anfang Juni)",
+     "hu": "évente pünkösdkor, 50 nappal az ortodox húsvét után (2026: május vége és június eleje)",
+     "ro": "anual la Rusalii, la 50 de zile după Paștele ortodox (2026: sfârșitul lunii mai până la începutul lunii iunie)",
+     "en": "annually at Pentecost, 50 days after Orthodox Easter (2026: late May to early June)"
+    },
     "date": "2026-05-31",
-    "blurb": "A uniquely Cypriot waterfront festival tied to Pentecost, celebrated along the coast of the Larnaca district near Faros Beach with church rites, fairs and water games. It is inscribed on the UNESCO Intangible Cultural Heritage list, with the main 2026 events at Larnaca's Finikoudes promenade.",
+    "blurb": {
+     "de": "Ein einzigartig zypriotisches Uferfestival, das mit Pfingsten verbunden ist und entlang der Küste des Bezirks Larnaka nahe dem Faros Beach mit kirchlichen Riten, Jahrmärkten und Wasserspielen gefeiert wird. Es ist in die UNESCO-Liste des immateriellen Kulturerbes eingetragen, die Hauptveranstaltungen 2026 finden an der Finikoudes-Promenade in Larnaka statt.",
+     "hu": "Egy egyedi ciprusi vízparti fesztivál, amely pünkösdhöz kötődik, és Larnaca kerület partvidékén, a Faros Beach közelében ünneplik egyházi szertartásokkal, vásárokkal és vízi játékokkal. Az UNESCO szellemi kulturális örökség listáján szerepel, a 2026-os fő események Larnaca Finikoudes sétányán zajlanak.",
+     "ro": "Un festival unic cipriot pe malul apei, legat de Rusalii, sărbătorit de-a lungul coastei districtului Larnaca lângă Plaja Faros cu ritualuri bisericești, târguri și jocuri cu apă. Este înscris pe lista Patrimoniului Cultural Imaterial UNESCO, principalele evenimente din 2026 având loc pe promenada Finikoudes din Larnaca.",
+     "en": "A uniquely Cypriot waterfront festival tied to Pentecost, celebrated along the coast of the Larnaca district near Faros Beach with church rites, fairs and water games. It is inscribed on the UNESCO Intangible Cultural Heritage list, with the main 2026 events at Larnaca's Finikoudes promenade."
+    },
     "source_url": "https://larnakaregion.com/event-detail/-kataklysmos-2026-festival-flood",
     "image_url": ""
    },
    {
-    "name": "Saint Lazarus Procession (Agios Lazaros)",
+    "name": {
+     "de": "Prozession des Heiligen Lazarus (Agios Lazaros)",
+     "hu": "Szent Lázár Körmenet (Agios Lazaros)",
+     "ro": "Procesiunea Sfântului Lazăr (Agios Lazaros)",
+     "en": "Saint Lazarus Procession (Agios Lazaros)"
+    },
     "type": "religious",
     "recurring": true,
-    "when": "annually on Lazarus Saturday, eight days before Orthodox Easter",
+    "when": {
+     "de": "jährlich am Lazarus-Samstag, acht Tage vor orthodoxem Ostern",
+     "hu": "évente Lázár szombatján, nyolc nappal az ortodox húsvét előtt",
+     "ro": "anual în Sâmbăta lui Lazăr, cu opt zile înainte de Paștele ortodox",
+     "en": "annually on Lazarus Saturday, eight days before Orthodox Easter"
+    },
     "date": "",
-    "blurb": "A major religious procession in nearby Larnaca, where the icon of Saint Lazarus is carried through the streets from the historic Church of Saint Lazarus. It is one of the Larnaca region's most important annual religious events.",
+    "blurb": {
+     "de": "Eine bedeutende religiöse Prozession im nahegelegenen Larnaka, bei der die Ikone des Heiligen Lazarus durch die Straßen von der historischen Kirche des Heiligen Lazarus getragen wird. Es ist eines der wichtigsten jährlichen religiösen Ereignisse der Region Larnaka.",
+     "hu": "Egy jelentős vallási körmenet a közeli Larnacában, ahol Szent Lázár ikonját hordozzák az utcákon a történelmi Szent Lázár-templomtól. Ez Larnaca régió egyik legfontosabb éves vallási eseménye.",
+     "ro": "O procesiune religioasă majoră în apropiere de Larnaca, unde icoana Sfântului Lazăr este purtată pe străzi de la istorica Biserică a Sfântului Lazăr. Este unul dintre cele mai importante evenimente religioase anuale ale regiunii Larnaca.",
+     "en": "A major religious procession in nearby Larnaca, where the icon of Saint Lazarus is carried through the streets from the historic Church of Saint Lazarus. It is one of the Larnaca region's most important annual religious events."
+    },
     "source_url": "https://larnakaregion.com/annual-festivals",
     "image_url": ""
    }
@@ -267,42 +597,102 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Protaras Open Water Swimming Marathon",
+    "name": {
+     "de": "Protaras Open Water Swimming Marathon",
+     "hu": "Protaras Open Water Swimming Marathon",
+     "ro": "Protaras Open Water Swimming Marathon",
+     "en": "Protaras Open Water Swimming Marathon"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "annually mid-April (2026: 18-19 April)",
+    "when": {
+     "de": "jährlich Mitte April (2026: 18.-19. April)",
+     "hu": "évente április közepén (2026: április 18-19.)",
+     "ro": "anual la mijlocul lunii aprilie (2026: 18-19 aprilie)",
+     "en": "annually mid-April (2026: 18-19 April)"
+    },
     "date": "2026-04-18",
-    "blurb": "The 3rd International Open Water Swimming Marathon held directly at Fig Tree Bay, featuring 10K races and 3K Masters races. It forms part of the European Aquatics Open Water Cup and Masters Tour.",
+    "blurb": {
+     "de": "Der 3. Internationale Open-Water-Schwimmmarathon findet direkt an der Fig Tree Bay statt und umfasst 10K-Rennen und 3K-Masters-Rennen. Er ist Teil des European Aquatics Open Water Cup und Masters Tour.",
+     "hu": "A 3. Nemzetközi Nyílt Vízi Úszómaratont közvetlenül a Fig Tree Bay-nél rendezik, 10K és 3K Masters versenyekkel. Az European Aquatics Open Water Cup és Masters Tour része.",
+     "ro": "Cel de-al 3-lea Maraton Internațional de Înot în Apă Deschisă are loc direct la Fig Tree Bay, incluzând curse de 10K și curse Masters de 3K. Face parte din European Aquatics Open Water Cup și Masters Tour.",
+     "en": "The 3rd International Open Water Swimming Marathon held directly at Fig Tree Bay, featuring 10K races and 3K Masters races. It forms part of the European Aquatics Open Water Cup and Masters Tour."
+    },
     "source_url": "https://protarasopenwater.com/",
     "image_url": ""
    },
    {
-    "name": "Protaras SwimRun",
+    "name": {
+     "de": "Protaras SwimRun",
+     "hu": "Protaras SwimRun",
+     "ro": "Protaras SwimRun",
+     "en": "Protaras SwimRun"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "annually mid-October (2026: 17-18 October)",
+    "when": {
+     "de": "jährlich Mitte Oktober (2026: 17.-18. Oktober)",
+     "hu": "évente október közepén (2026: október 17-18.)",
+     "ro": "anual la mijlocul lunii octombrie (2026: 17-18 octombrie)",
+     "en": "annually mid-October (2026: 17-18 October)"
+    },
     "date": "2026-10-17",
-    "blurb": "A SwimRun endurance event staged at Fig Tree Bay in Protaras, combining open-water swimming and coastal running stages.",
+    "blurb": {
+     "de": "Eine SwimRun-Ausdauerveranstaltung an der Fig Tree Bay in Protaras, die Abschnitte im offenen Wasser und Küstenläufe kombiniert.",
+     "hu": "Egy SwimRun állóképességi esemény a Fig Tree Bay-nél Protarasban, amely nyílt vízi úszást és parti futószakaszokat kombinál.",
+     "ro": "Un eveniment de anduranță SwimRun desfășurat la Fig Tree Bay în Protaras, combinând etape de înot în apă deschisă și alergare pe coastă.",
+     "en": "A SwimRun endurance event staged at Fig Tree Bay in Protaras, combining open-water swimming and coastal running stages."
+    },
     "source_url": "https://cyprus.bz/events/protaras",
     "image_url": ""
    },
    {
-    "name": "Protaras Summer Film Festival",
+    "name": {
+     "de": "Protaras Summer Film Festival",
+     "hu": "Protaras Summer Film Festival",
+     "ro": "Protaras Summer Film Festival",
+     "en": "Protaras Summer Film Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in July (2026: 8-26 July)",
+    "when": {
+     "de": "jährlich im Juli (2026: 8.-26. Juli)",
+     "hu": "évente júliusban (2026: július 8-26.)",
+     "ro": "anual în iulie (2026: 8-26 iulie)",
+     "en": "annually in July (2026: 8-26 July)"
+    },
     "date": "2026-07-08",
-    "blurb": "Open-air cinema nights held at Protaras Central Square, screening films under the stars. The long-running festival draws thousands of visitors each summer.",
+    "blurb": {
+     "de": "Open-Air-Kinoabende auf dem zentralen Platz von Protaras mit Filmvorführungen unter freiem Himmel. Das traditionsreiche Festival zieht jeden Sommer tausende Besucher an.",
+     "hu": "Szabadtéri moziestek a protarasi központi téren, filmvetítésekkel a csillagok alatt. A hagyományos fesztivál minden nyáron több ezer látogatót vonz.",
+     "ro": "Seri de cinema în aer liber în Piața Centrală din Protaras, cu proiecții de filme sub stele. Festivalul de lungă durată atrage mii de vizitatori în fiecare vară.",
+     "en": "Open-air cinema nights held at Protaras Central Square, screening films under the stars. The long-running festival draws thousands of visitors each summer."
+    },
     "source_url": "https://chaf.com.cy/protaras-film-festival/",
     "image_url": ""
    },
    {
-    "name": "Cyprus Rocks Classic Rock Festival",
+    "name": {
+     "de": "Cyprus Rocks Classic Rock Festival",
+     "hu": "Cyprus Rocks Classic Rock Festival",
+     "ro": "Cyprus Rocks Classic Rock Festival",
+     "en": "Cyprus Rocks Classic Rock Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually early October (2026: 1-6 October)",
+    "when": {
+     "de": "jährlich Anfang Oktober (2026: 1.-6. Oktober)",
+     "hu": "évente október elején (2026: október 1-6.)",
+     "ro": "anual la începutul lunii octombrie (2026: 1-6 octombrie)",
+     "en": "annually early October (2026: 1-6 October)"
+    },
     "date": "2026-10-01",
-    "blurb": "A classic rock festival in Protaras featuring UK tribute bands performing songs by Queen, AC/DC, Aerosmith, Guns N' Roses and other rock legends over several evenings.",
+    "blurb": {
+     "de": "Ein Classic-Rock-Festival in Protaras mit britischen Tribute-Bands, die Songs von Queen, AC/DC, Aerosmith, Guns N' Roses und anderen Rocklegenden an mehreren Abenden spielen.",
+     "hu": "Egy klasszikus rockfesztivál Protarasban, brit tribute-zenekarokkal, amelyek Queen, AC/DC, Aerosmith, Guns N' Roses és más rocklegendák dalait játsszák több estén át.",
+     "ro": "Un festival de rock clasic în Protaras, cu trupe tribut britanice care interpretează piese de la Queen, AC/DC, Aerosmith, Guns N' Roses și alte legende ale rockului pe parcursul mai multor seri.",
+     "en": "A classic rock festival in Protaras featuring UK tribute bands performing songs by Queen, AC/DC, Aerosmith, Guns N' Roses and other rock legends over several evenings."
+    },
     "source_url": "https://www.cyprusrocks.co.uk/",
     "image_url": ""
    }
@@ -314,42 +704,102 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Ayia Napa International Festival",
+    "name": {
+     "de": "Ayia Napa International Festival",
+     "hu": "Ayia Napa International Festival",
+     "ro": "Ayia Napa International Festival",
+     "en": "Ayia Napa International Festival"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually late September (2026: 25-27 September)",
+    "when": {
+     "de": "jährlich Ende September (2026: 25.-27. September)",
+     "hu": "évente szeptember végén (2026: szeptember 25-27.)",
+     "ro": "anual la sfârșitul lunii septembrie (2026: 25-27 septembrie)",
+     "en": "annually late September (2026: 25-27 September)"
+    },
     "date": "2026-09-25",
-    "blurb": "The Ayia Napa International Festival, in its 42nd edition in 2026, is held in the last week of September to coincide with World Tourism Day, featuring theatrical performances, concerts and Cypriot and international folk dancing reflecting the cultural traditions of Ayia Napa and Cyprus.",
+    "blurb": {
+     "de": "Das Ayia Napa International Festival findet 2026 in seiner 42. Auflage in der letzten Septemberwoche statt, zeitgleich mit dem Welttourismustag. Es bietet Theateraufführungen, Konzerte sowie zypriotische und internationale Volkstänze, die die kulturellen Traditionen von Ayia Napa und Zypern widerspiegeln.",
+     "hu": "Az Ayia Napa International Festival 2026-ban 42. alkalommal kerül megrendezésre szeptember utolsó hetében, egybeesve a Turizmus Világnapjával. Színházi előadások, koncertek, valamint ciprusi és nemzetközi néptáncok várják a látogatókat, amelyek Ayia Napa és Ciprus kulturális hagyományait tükrözik.",
+     "ro": "Festivalul Internațional Ayia Napa, aflat în 2026 la cea de-a 42-a ediție, are loc în ultima săptămână a lunii septembrie, coincizând cu Ziua Mondială a Turismului, cu spectacole de teatru, concerte și dansuri populare cipriote și internaționale care reflectă tradițiile culturale ale Ayia Napa și Ciprului.",
+     "en": "The Ayia Napa International Festival, in its 42nd edition in 2026, is held in the last week of September to coincide with World Tourism Day, featuring theatrical performances, concerts and Cypriot and international folk dancing reflecting the cultural traditions of Ayia Napa and Cyprus."
+    },
     "source_url": "https://www.festivalfinder.eu/festivals/ayia-napa-international-festival",
     "image_url": ""
    },
    {
-    "name": "Ayia Napa Medieval Festival",
+    "name": {
+     "de": "Ayia Napa Medieval Festival",
+     "hu": "Ayia Napa Medieval Festival",
+     "ro": "Ayia Napa Medieval Festival",
+     "en": "Ayia Napa Medieval Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually October (2026: 14-18 October)",
+    "when": {
+     "de": "jährlich Oktober (2026: 14.-18. Oktober)",
+     "hu": "évente októberben (2026: október 14-18.)",
+     "ro": "anual în octombrie (2026: 14-18 octombrie)",
+     "en": "annually October (2026: 14-18 October)"
+    },
     "date": "2026-10-14",
-    "blurb": "Held within the historic Medieval Monastery of Ayia Napa, this festival recreates the medieval period with street theatre, music concerts, dance shows by European groups, a medieval market and craft workshops such as pottery.",
+    "blurb": {
+     "de": "Dieses Festival findet im historischen mittelalterlichen Kloster von Ayia Napa statt und lässt die mittelalterliche Zeit mit Straßentheater, Musikkonzerten, Tanzshows europäischer Gruppen, einem mittelalterlichen Markt und Handwerksworkshops wie Töpferei wieder aufleben.",
+     "hu": "A történelmi középkori Ayia Napa-kolostorban megrendezett fesztivál a középkori kort idézi meg utcaszínházzal, zenei koncertekkel, európai csoportok táncbemutatóival, középkori vásárral és kézműves műhelyekkel, mint a fazekasság.",
+     "ro": "Desfășurat în incinta istoricei Mănăstiri Medievale Ayia Napa, acest festival recreează perioada medievală cu teatru de stradă, concerte muzicale, spectacole de dans ale unor grupuri europene, o piață medievală și ateliere meșteșugărești precum olăritul.",
+     "en": "Held within the historic Medieval Monastery of Ayia Napa, this festival recreates the medieval period with street theatre, music concerts, dance shows by European groups, a medieval market and craft workshops such as pottery."
+    },
     "source_url": "https://mycyprustravel.com/event/ayia-napa-medieval-festival/",
     "image_url": ""
    },
    {
-    "name": "Kataklysmos Festival (Fish and Water Festival)",
+    "name": {
+     "de": "Kataklysmos Festival (Fisch- und Wasserfest)",
+     "hu": "Kataklysmos Fesztivál (Hal- és Vízfesztivál)",
+     "ro": "Festivalul Kataklysmos (Festivalul Peștelui și al Apei)",
+     "en": "Kataklysmos Festival (Fish and Water Festival)"
+    },
     "type": "religious",
     "recurring": true,
-    "when": "annually around Pentecost (2026: 30-31 May and 1 June)",
+    "when": {
+     "de": "jährlich um Pfingsten (2026: 30.-31. Mai und 1. Juni)",
+     "hu": "évente pünkösd környékén (2026: május 30-31. és június 1.)",
+     "ro": "anual în jurul Rusaliilor (2026: 30-31 mai și 1 iunie)",
+     "en": "annually around Pentecost (2026: 30-31 May and 1 June)"
+    },
     "date": "2026-05-30",
-    "blurb": "The Festival of the Flood (Kataklysmos), a Cypriot tradition tied to Pentecost, is celebrated at Ayia Napa Harbour with water-themed events, music and seafront festivities.",
+    "blurb": {
+     "de": "Das Fest der Sintflut (Kataklysmos), eine zypriotische Tradition, die mit Pfingsten verbunden ist, wird am Hafen von Ayia Napa mit wasserbezogenen Veranstaltungen, Musik und Festlichkeiten am Meer gefeiert.",
+     "hu": "Az özönvíz ünnepe (Kataklysmos), egy pünkösdhöz kötődő ciprusi hagyomány, Ayia Napa kikötőjében kerül megrendezésre vízzel kapcsolatos eseményekkel, zenével és tengerparti ünnepségekkel.",
+     "ro": "Sărbătoarea Potopului (Kataklysmos), o tradiție cipriotă legată de Rusalii, este celebrată în portul Ayia Napa cu evenimente tematice pe apă, muzică și festivități pe malul mării.",
+     "en": "The Festival of the Flood (Kataklysmos), a Cypriot tradition tied to Pentecost, is celebrated at Ayia Napa Harbour with water-themed events, music and seafront festivities."
+    },
     "source_url": "https://cyprus-mail.com/2026/03/08/ayia-napa-festivals-to-look-forward-to",
     "image_url": ""
    },
    {
-    "name": "Famagusta Orange Festival (Ayia Napa)",
+    "name": {
+     "de": "Famagusta Orange Festival (Ayia Napa)",
+     "hu": "Famagusta Narancsfesztivál (Ayia Napa)",
+     "ro": "Festivalul Portocalelor din Famagusta (Ayia Napa)",
+     "en": "Famagusta Orange Festival (Ayia Napa)"
+    },
     "type": "food",
     "recurring": true,
-    "when": "annually early May (2026: 2 May)",
+    "when": {
+     "de": "jährlich Anfang Mai (2026: 2. Mai)",
+     "hu": "évente május elején (2026: május 2.)",
+     "ro": "anual la începutul lunii mai (2026: 2 mai)",
+     "en": "annually early May (2026: 2 May)"
+    },
     "date": "2026-05-02",
-    "blurb": "Revived in 2026 after decades, this festival honours the Famagusta region's orange-growing heritage with a parade of floats from Ayia Napa harbour, a cultural programme at the THALASSA Museum and a ceramics exhibition.",
+    "blurb": {
+     "de": "Dieses Festival, das 2026 nach Jahrzehnten wiederbelebt wird, ehrt das Erbe des Orangenanbaus in der Region Famagusta mit einem Festwagenumzug vom Hafen Ayia Napa, einem Kulturprogramm im THALASSA-Museum und einer Keramikausstellung.",
+     "hu": "A 2026-ban évtizedek után újjáélesztett fesztivál a Famagusta régió narancstermesztési örökségét ünnepli felvonulással Ayia Napa kikötőjéből, kulturális programmal a THALASSA Múzeumban és kerámia kiállítással.",
+     "ro": "Revitalizat în 2026 după decenii, acest festival onorează moștenirea cultivării portocalelor din regiunea Famagusta cu o paradă de care alegorice din portul Ayia Napa, un program cultural la Muzeul THALASSA și o expoziție de ceramică.",
+     "en": "Revived in 2026 after decades, this festival honours the Famagusta region's orange-growing heritage with a parade of floats from Ayia Napa harbour, a cultural programme at the THALASSA Museum and a ceramics exhibition."
+    },
     "source_url": "https://cyprus-mail.com/2026/04/19/what-to-enjoy-at-revival-of-famagusta-orange-festival",
     "image_url": ""
    }
@@ -361,42 +811,102 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Ayia Napa Medieval Festival",
+    "name": {
+     "de": "Ayia Napa Medieval Festival",
+     "hu": "Ayia Napa Medieval Festival",
+     "ro": "Ayia Napa Medieval Festival",
+     "en": "Ayia Napa Medieval Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually mid-October (2026: 14-18 October)",
+    "when": {
+     "de": "jährlich Mitte Oktober (2026: 14.-18. Oktober)",
+     "hu": "évente október közepén (2026: október 14-18.)",
+     "ro": "anual la mijlocul lunii octombrie (2026: 14-18 octombrie)",
+     "en": "annually mid-October (2026: 14-18 October)"
+    },
     "date": "2026-10-14",
-    "blurb": "A multi-day medieval-themed festival staged around the Ayia Napa Monastery, with street theatre, music and dance groups from across Europe, a medieval market, costumed parades and workshops.",
+    "blurb": {
+     "de": "Ein mehrtägiges mittelalterliches Festival rund um das Ayia Napa Kloster mit Straßentheater, Musik- und Tanzgruppen aus ganz Europa, einem mittelalterlichen Markt, kostümierten Paraden und Workshops.",
+     "hu": "Többnapos középkori tematikájú fesztivál az Ayia Napa kolostor körül, utcaszínházzal, Európa-szerte érkező zenei és tánccsoportokkal, középkori vásárral, jelmezes felvonulásokkal és műhelyekkel.",
+     "ro": "Un festival medieval de mai multe zile organizat în jurul Mănăstirii Ayia Napa, cu teatru de stradă, grupuri de muzică și dans din toată Europa, o piață medievală, parade costumate și ateliere.",
+     "en": "A multi-day medieval-themed festival staged around the Ayia Napa Monastery, with street theatre, music and dance groups from across Europe, a medieval market, costumed parades and workshops."
+    },
     "source_url": "https://www.festivalfinder.eu/festivals/ayia-napa-medieval-festival",
     "image_url": ""
    },
    {
-    "name": "Kataklysmos (Festival of the Flood)",
+    "name": {
+     "de": "Kataklysmos (Festival der Sintflut)",
+     "hu": "Kataklysmos (Az özönvíz ünnepe)",
+     "ro": "Kataklysmos (Festivalul Potopului)",
+     "en": "Kataklysmos (Festival of the Flood)"
+    },
     "type": "religious",
     "recurring": true,
-    "when": "annually late May to early June (2026: 30 May - 1 June)",
+    "when": {
+     "de": "jährlich Ende Mai bis Anfang Juni (2026: 30. Mai - 1. Juni)",
+     "hu": "évente május végétől június elejéig (2026: május 30. - június 1.)",
+     "ro": "anual de la sfârșitul lunii mai până la începutul lunii iunie (2026: 30 mai - 1 iunie)",
+     "en": "annually late May to early June (2026: 30 May - 1 June)"
+    },
     "date": "2026-05-30",
-    "blurb": "Cyprus's traditional Festival of the Flood, celebrated with concerts, water games, boat races and folk poetry contests at Ayia Napa harbour and Saint George Square, with parallel celebrations at Fig Tree Bay in nearby Protaras.",
+    "blurb": {
+     "de": "Das traditionelle zypriotische Sintflutfest mit Konzerten, Wasserspielen, Bootsrennen und Volksdichtungswettbewerben am Hafen von Ayia Napa und am Sankt-Georgs-Platz, mit parallelen Feierlichkeiten am Fig Tree Bay im nahen Protaras.",
+     "hu": "Ciprus hagyományos özönvízünnepe, koncertekkel, vízi játékokkal, hajóversenyekkel és népköltészeti versenyekkel az Ayia Napa-i kikötőben és a Szent György téren, párhuzamos ünnepségekkel a közeli Protarasban található Fig Tree Bay-nél.",
+     "ro": "Tradiționalul Festival al Potopului din Cipru, sărbătorit cu concerte, jocuri cu apă, curse de bărci și concursuri de poezie populară la portul Ayia Napa și Piața Sfântul Gheorghe, cu sărbători paralele la Fig Tree Bay în apropiere de Protaras.",
+     "en": "Cyprus's traditional Festival of the Flood, celebrated with concerts, water games, boat races and folk poetry contests at Ayia Napa harbour and Saint George Square, with parallel celebrations at Fig Tree Bay in nearby Protaras."
+    },
     "source_url": "https://cyprus-mail.com/2026/03/08/ayia-napa-festivals-to-look-forward-to",
     "image_url": ""
    },
    {
-    "name": "Ayia Napa International Festival",
+    "name": {
+     "de": "Ayia Napa International Festival",
+     "hu": "Ayia Napa International Festival",
+     "ro": "Ayia Napa International Festival",
+     "en": "Ayia Napa International Festival"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually late September (2026: 25-27 September, 42nd edition)",
+    "when": {
+     "de": "jährlich Ende September (2026: 25.-27. September, 42. Ausgabe)",
+     "hu": "évente szeptember végén (2026: szeptember 25-27., 42. kiadás)",
+     "ro": "anual la sfârșitul lunii septembrie (2026: 25-27 septembrie, ediția a 42-a)",
+     "en": "annually late September (2026: 25-27 September, 42nd edition)"
+    },
     "date": "2026-09-25",
-    "blurb": "An annual cultural festival at Ayia Napa's main square and monastery featuring traditional music, dance and theatre by local Cypriot artists alongside visiting international groups.",
+    "blurb": {
+     "de": "Ein jährliches Kulturfestival auf dem Hauptplatz und am Kloster von Ayia Napa mit traditioneller Musik, Tanz und Theater von lokalen zypriotischen Künstlern sowie internationalen Gastgruppen.",
+     "hu": "Éves kulturális fesztivál Ayia Napa főterén és kolostoránál, helyi ciprusi művészek hagyományos zenéjével, táncával és színházával, valamint nemzetközi vendégcsoportokkal.",
+     "ro": "Un festival cultural anual în piața principală și la mănăstirea din Ayia Napa, cu muzică tradițională, dans și teatru ale artiștilor locali ciprioți, alături de grupuri internaționale invitate.",
+     "en": "An annual cultural festival at Ayia Napa's main square and monastery featuring traditional music, dance and theatre by local Cypriot artists alongside visiting international groups."
+    },
     "source_url": "https://chaf.com.cy/ayia-napa-international-festival/",
     "image_url": ""
    },
    {
-    "name": "Ayia Napa / Famagusta Orange Festival",
+    "name": {
+     "de": "Ayia Napa / Famagusta Orange Festival",
+     "hu": "Ayia Napa / Famagusta Orange Festival",
+     "ro": "Ayia Napa / Famagusta Orange Festival",
+     "en": "Ayia Napa / Famagusta Orange Festival"
+    },
     "type": "food",
     "recurring": true,
-    "when": "2026: 2 May",
+    "when": {
+     "de": "2026: 2. Mai",
+     "hu": "2026: május 2.",
+     "ro": "2026: 2 mai",
+     "en": "2026: 2 May"
+    },
     "date": "2026-05-02",
-    "blurb": "A revived festival celebrating the citrus heritage of the Famagusta region, opening with a float parade from Ayia Napa harbour and culminating at the THALASSA Municipal Museum with food, music and traditional displays.",
+    "blurb": {
+     "de": "Ein wiederbelebtes Festival, das das Zitruserbe der Region Famagusta feiert, beginnend mit einem Festwagenumzug vom Hafen Ayia Napa und gipfelnd im THALASSA Städtischen Museum mit Essen, Musik und traditionellen Vorführungen.",
+     "hu": "Egy felélesztett fesztivál, amely a Famagusta régió citrusörökségét ünnepli, egy felvonulással indulva az Ayia Napa-i kikötőből, és a THALASSA Városi Múzeumban csúcsosodik ki étellel, zenével és hagyományos bemutatókkal.",
+     "ro": "Un festival reînviat care sărbătorește moștenirea citricelor din regiunea Famagusta, începând cu o paradă de care alegorice de la portul Ayia Napa și culminând la Muzeul Municipal THALASSA cu mâncare, muzică și demonstrații tradiționale.",
+     "en": "A revived festival celebrating the citrus heritage of the Famagusta region, opening with a float parade from Ayia Napa harbour and culminating at the THALASSA Municipal Museum with food, music and traditional displays."
+    },
     "source_url": "https://cyprus-mail.com/2026/04/19/what-to-enjoy-at-revival-of-famagusta-orange-festival",
     "image_url": ""
    }
@@ -408,32 +918,77 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Ayia Napa Medieval Festival",
+    "name": {
+     "de": "Ayia Napa Medieval Festival",
+     "hu": "Ayia Napa Medieval Festival",
+     "ro": "Ayia Napa Medieval Festival",
+     "en": "Ayia Napa Medieval Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in October (2026: October 14-18)",
+    "when": {
+     "de": "jährlich im Oktober (2026: 14.-18. Oktober)",
+     "hu": "évente októberben (2026: október 14-18.)",
+     "ro": "anual în octombrie (2026: 14-18 octombrie)",
+     "en": "annually in October (2026: October 14-18)"
+    },
     "date": "2026-10-14",
-    "blurb": "An annual medieval-themed festival held since 2006 around Ayia Napa's medieval monastery, featuring street theatre, music and dance shows by groups from across Europe, a medieval market and craft workshops. One of the largest and longest-running festivals in Cyprus.",
+    "blurb": {
+     "de": "Ein jährliches mittelalterliches Festival, das seit 2006 rund um das mittelalterliche Kloster von Ayia Napa stattfindet, mit Straßentheater, Musik- und Tanzshows von Gruppen aus ganz Europa, einem mittelalterlichen Markt und Handwerksworkshops. Eines der größten und am längsten laufenden Festivals auf Zypern.",
+     "hu": "Egy éves középkori tematikájú fesztivál, amelyet 2006 óta rendeznek Ayia Napa középkori kolostora körül, utcaszínházzal, zenei és táncelőadásokkal Európa-szerte érkező csoportoktól, középkori vásárral és kézműves műhelyekkel. Ciprus egyik legnagyobb és leghosszabb ideje futó fesztiválja.",
+     "ro": "Un festival anual cu tematică medievală, organizat din 2006 în jurul mănăstirii medievale din Ayia Napa, cu teatru de stradă, spectacole de muzică și dans susținute de grupuri din toată Europa, o piață medievală și ateliere meșteșugărești. Unul dintre cele mai mari și mai longevive festivaluri din Cipru.",
+     "en": "An annual medieval-themed festival held since 2006 around Ayia Napa's medieval monastery, featuring street theatre, music and dance shows by groups from across Europe, a medieval market and craft workshops. One of the largest and longest-running festivals in Cyprus."
+    },
     "source_url": "https://events.visitfamagusta.com.cy/events/19th-medieval-ayia-napa-festival/",
     "image_url": ""
    },
    {
-    "name": "Kataklysmos (Festival of the Flood)",
+    "name": {
+     "de": "Kataklysmos (Fest der Sintflut)",
+     "hu": "Kataklysmos (Az özönvíz ünnepe)",
+     "ro": "Kataklysmos (Festivalul Potopului)",
+     "en": "Kataklysmos (Festival of the Flood)"
+    },
     "type": "religious",
     "recurring": true,
-    "when": "annually around Pentecost (2026: May 30 - June 1)",
+    "when": {
+     "de": "jährlich um Pfingsten (2026: 30. Mai - 1. Juni)",
+     "hu": "évente pünkösd környékén (2026: május 30. - június 1.)",
+     "ro": "anual în jurul Rusaliilor (2026: 30 mai - 1 iunie)",
+     "en": "annually around Pentecost (2026: May 30 - June 1)"
+    },
     "date": "2026-05-30",
-    "blurb": "Cyprus's traditional Festival of the Flood, an official public holiday tied to Orthodox Whit Monday, celebrated at Ayia Napa Harbour with free concerts, traditional poetry competitions and maritime customs. The name means 'flood', referencing the biblical story of Noah.",
+    "blurb": {
+     "de": "Zyperns traditionelles Fest der Sintflut, ein offizieller Feiertag, der an den orthodoxen Pfingstmontag gebunden ist und am Hafen von Ayia Napa mit kostenlosen Konzerten, traditionellen Dichterwettbewerben und maritimen Bräuchen gefeiert wird. Der Name bedeutet ‚Sintflut‘ und bezieht sich auf die biblische Geschichte von Noah.",
+     "hu": "Ciprus hagyományos özönvíz-ünnepe, hivatalos munkaszüneti nap, amely az ortodox pünkösdhétfőhöz kötődik, és Ayia Napa kikötőjében ünneplik ingyenes koncertekkel, hagyományos költészeti versenyekkel és tengeri szokásokkal. A név jelentése ‚özönvíz‘, ami Noé bibliai történetére utal.",
+     "ro": "Tradiționalul Festival al Potopului din Cipru, o sărbătoare oficială legată de Lunea Rusaliilor ortodoxe, celebrată în portul Ayia Napa cu concerte gratuite, concursuri tradiționale de poezie și obiceiuri maritime. Numele înseamnă ‚potop‘, referindu-se la povestea biblică a lui Noe.",
+     "en": "Cyprus's traditional Festival of the Flood, an official public holiday tied to Orthodox Whit Monday, celebrated at Ayia Napa Harbour with free concerts, traditional poetry competitions and maritime customs. The name means 'flood', referencing the biblical story of Noah."
+    },
     "source_url": "https://cyprus-mail.com/2026/03/08/ayia-napa-festivals-to-look-forward-to",
     "image_url": ""
    },
    {
-    "name": "Ayia Napa International Festival",
+    "name": {
+     "de": "Ayia Napa International Festival",
+     "hu": "Ayia Napa International Festival",
+     "ro": "Ayia Napa International Festival",
+     "en": "Ayia Napa International Festival"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually in late September",
+    "when": {
+     "de": "jährlich Ende September",
+     "hu": "évente szeptember végén",
+     "ro": "anual la sfârșitul lunii septembrie",
+     "en": "annually in late September"
+    },
     "date": "",
-    "blurb": "An annual cultural festival organised by the Ayia Napa Municipality featuring music concerts, dance ensembles and folklore performances by local and international artists.",
+    "blurb": {
+     "de": "Ein jährliches Kulturfestival, organisiert von der Gemeinde Ayia Napa, mit Musikkonzerten, Tanzensembles und Folkloreaufführungen lokaler und internationaler Künstler.",
+     "hu": "Egy éves kulturális fesztivál, amelyet Ayia Napa önkormányzata szervez, zenei koncertekkel, táncegyüttesekkel és folklórelőadásokkal helyi és nemzetközi művészektől.",
+     "ro": "Un festival cultural anual organizat de Primăria Ayia Napa, cu concerte muzicale, ansambluri de dans și spectacole folclorice susținute de artiști locali și internaționali.",
+     "en": "An annual cultural festival organised by the Ayia Napa Municipality featuring music concerts, dance ensembles and folklore performances by local and international artists."
+    },
     "source_url": "http://www.ayianapa.org.cy/culture-life-and-festivities.php?lang=en",
     "image_url": ""
    }
@@ -445,42 +1000,102 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Pafos Aphrodite Festival",
+    "name": {
+     "de": "Pafos Aphrodite Festival",
+     "hu": "Pafos Aphrodite Festival",
+     "ro": "Pafos Aphrodite Festival",
+     "en": "Pafos Aphrodite Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually (2026 moved from September to June)",
+    "when": {
+     "de": "jährlich (2026 von September auf Juni verschoben)",
+     "hu": "évente (2026-ban szeptemberről júniusra helyezve)",
+     "ro": "anual (în 2026 mutat din septembrie în iunie)",
+     "en": "annually (2026 moved from September to June)"
+    },
     "date": "",
-    "blurb": "An annual professional opera staged outdoors at the Medieval Castle Square in Paphos Harbour, a short walk from Lighthouse Beach. In 2026 it exceptionally moves from its usual first weekend of September to June to coincide with Cyprus's EU Presidency.",
+    "blurb": {
+     "de": "Eine jährliche professionelle Oper, die im Freien auf dem Platz der mittelalterlichen Burg im Hafen von Paphos aufgeführt wird, nur einen kurzen Spaziergang vom Lighthouse Beach entfernt. 2026 findet sie ausnahmsweise nicht wie üblich am ersten Septemberwochenende, sondern im Juni statt, um mit der EU-Ratspräsidentschaft Zyperns zusammenzufallen.",
+     "hu": "Éves professzionális operaelőadás a szabadban, a paphosi kikötő középkori várának terén, rövid sétára a Lighthouse Beach-től. 2026-ban kivételesen a szokásos szeptember első hétvégéről júniusra kerül át, hogy egybeessen Ciprus EU-elnökségével.",
+     "ro": "O operă profesională anuală, prezentată în aer liber în Piața Castelului Medieval din Portul Paphos, la o scurtă plimbare de Plaja Farului. În 2026, în mod excepțional, se mută de la primul weekend din septembrie în iunie pentru a coincide cu Președinția Ciprului la Consiliul UE.",
+     "en": "An annual professional opera staged outdoors at the Medieval Castle Square in Paphos Harbour, a short walk from Lighthouse Beach. In 2026 it exceptionally moves from its usual first weekend of September to June to coincide with Cyprus's EU Presidency."
+    },
     "source_url": "https://www.paphos.com/event/paphos-aphrodite-festival/",
     "image_url": ""
    },
    {
-    "name": "Kataklysmos (Festival of the Flood)",
+    "name": {
+     "de": "Kataklysmos (Festival der Sintflut)",
+     "hu": "Kataklysmos (az özönvíz ünnepe)",
+     "ro": "Kataklysmos (Festivalul Potopului)",
+     "en": "Kataklysmos (Festival of the Flood)"
+    },
     "type": "religious",
     "recurring": true,
-    "when": "annually late May to early June (2026: 29 May - 1 June)",
+    "when": {
+     "de": "jährlich Ende Mai bis Anfang Juni (2026: 29. Mai - 1. Juni)",
+     "hu": "évente május végétől június elejéig (2026: május 29. - június 1.)",
+     "ro": "anual de la sfârșitul lunii mai până la începutul lunii iunie (2026: 29 mai - 1 iunie)",
+     "en": "annually late May to early June (2026: 29 May - 1 June)"
+    },
     "date": "",
-    "blurb": "A traditional Pentecost water festival held along the Kato Paphos seafront and Medieval Castle Square, featuring water-throwing, stalls, live music and traditional games.",
+    "blurb": {
+     "de": "Ein traditionelles Pfingst-Wasserfest entlang der Kato-Paphos-Uferpromenade und des Platzes der mittelalterlichen Burg mit Wasserspielen, Ständen, Live-Musik und traditionellen Spielen.",
+     "hu": "Hagyományos pünkösdi vízi fesztivál a Kato Paphos-i tengerparti sétányon és a középkori vár terén, vízi játékokkal, árusstandokkal, élőzenével és hagyományos játékokkal.",
+     "ro": "Un festival tradițional al apei de Rusalii, desfășurat de-a lungul falezei Kato Paphos și în Piața Castelului Medieval, cu aruncat cu apă, tarabe, muzică live și jocuri tradiționale.",
+     "en": "A traditional Pentecost water festival held along the Kato Paphos seafront and Medieval Castle Square, featuring water-throwing, stalls, live music and traditional games."
+    },
     "source_url": "https://kato-paphos-apartment.com/blog/paphos-festivals/",
     "image_url": ""
    },
    {
-    "name": "Paphos BeerFest",
+    "name": {
+     "de": "Paphos BeerFest",
+     "hu": "Paphos BeerFest",
+     "ro": "Paphos BeerFest",
+     "en": "Paphos BeerFest"
+    },
     "type": "food",
     "recurring": true,
-    "when": "annually early August (2026: 5-9 August)",
+    "when": {
+     "de": "jährlich Anfang August (2026: 5.-9. August)",
+     "hu": "évente augusztus elején (2026: augusztus 5-9.)",
+     "ro": "anual la începutul lunii august (2026: 5-9 august)",
+     "en": "annually early August (2026: 5-9 August)"
+    },
     "date": "",
-    "blurb": "An evening beer and food festival held at the Medieval Castle Square in Paphos Harbour, near Lighthouse Beach, with food stalls and live music.",
+    "blurb": {
+     "de": "Ein abendliches Bier- und Essensfestival auf dem Platz der mittelalterlichen Burg im Hafen von Paphos, in der Nähe des Lighthouse Beach, mit Essensständen und Live-Musik.",
+     "hu": "Esti sör- és ételfesztivál a paphosi kikötő középkori várának terén, a Lighthouse Beach közelében, ételstandokkal és élőzenével.",
+     "ro": "Un festival seral de bere și mâncare, desfășurat în Piața Castelului Medieval din Portul Paphos, lângă Plaja Farului, cu tarabe cu mâncare și muzică live.",
+     "en": "An evening beer and food festival held at the Medieval Castle Square in Paphos Harbour, near Lighthouse Beach, with food stalls and live music."
+    },
     "source_url": "https://kato-paphos-apartment.com/blog/paphos-festivals/",
     "image_url": ""
    },
    {
-    "name": "Paphos Carnival (Apokries)",
+    "name": {
+     "de": "Paphos Karneval (Apokries)",
+     "hu": "Paphos-i karnevál (Apokries)",
+     "ro": "Carnavalul din Paphos (Apokries)",
+     "en": "Paphos Carnival (Apokries)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in February (2026 parade: 21 February)",
+    "when": {
+     "de": "jährlich im Februar (2026 Umzug: 21. Februar)",
+     "hu": "évente februárban (2026-os felvonulás: február 21.)",
+     "ro": "anual în februarie (parada din 2026: 21 februarie)",
+     "en": "annually in February (2026 parade: 21 February)"
+    },
     "date": "2026-02-21",
-    "blurb": "A family-friendly pre-Lenten carnival parade through Paphos town with floats, costumed dancers and marching bands.",
+    "blurb": {
+     "de": "Ein familienfreundlicher Karnevalsumzug vor der Fastenzeit durch die Stadt Paphos mit Festwagen, kostümierten Tänzern und Marschkapellen.",
+     "hu": "Családbarát nagyböjt előtti karneváli felvonulás Paphos városán keresztül, díszkocsikkal, jelmezes táncosokkal és fúvószenekarokkal.",
+     "ro": "O paradă de carnaval premergătoare Postului Mare, prietenoasă cu familiile, prin orașul Paphos, cu care alegorice, dansatori costumați și fanfare.",
+     "en": "A family-friendly pre-Lenten carnival parade through Paphos town with floats, costumed dancers and marching bands."
+    },
     "source_url": "https://kato-paphos-apartment.com/blog/paphos-festivals/",
     "image_url": ""
    }
@@ -492,42 +1107,102 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "MoonWalk Street Music Festival",
+    "name": {
+     "de": "MoonWalk Street Music Festival",
+     "hu": "MoonWalk Street Music Festival",
+     "ro": "MoonWalk Street Music Festival",
+     "en": "MoonWalk Street Music Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually, evening of the last full moon of August",
+    "when": {
+     "de": "jährlich am Abend des letzten Vollmonds im August",
+     "hu": "évente, augusztus utolsó teliholdjának estéjén",
+     "ro": "anual, în seara ultimei luni pline din august",
+     "en": "annually, evening of the last full moon of August"
+    },
     "date": "",
-    "blurb": "A free annual street music festival held along the Pernera-Protaras coastal promenade, where over 130 musicians perform simultaneously on around 30 stages across roughly 5 km of coastline under the August full moon. Organised by the Youth of Paralimni, it draws over 15,000 visitors.",
+    "blurb": {
+     "de": "Ein kostenloses jährliches Straßenmusikfestival entlang der Küstenpromenade von Pernera-Protaras, bei dem über 130 Musiker gleichzeitig auf rund 30 Bühnen auf etwa 5 km Küstenlinie unter dem August-Vollmond auftreten. Organisiert von der Jugend von Paralimni, zieht es über 15.000 Besucher an.",
+     "hu": "Ingyenes éves utcazenei fesztivál a Pernera-Protaras tengerparti sétányán, ahol több mint 130 zenész lép fel egyszerre mintegy 30 színpadon, nagyjából 5 km hosszú partszakaszon, az augusztusi telihold alatt. A Paralimni Ifjúsága szervezi, több mint 15.000 látogatót vonz.",
+     "ro": "Un festival anual gratuit de muzică stradală desfășurat de-a lungul promenadei de coastă Pernera-Protaras, unde peste 130 de muzicieni cântă simultan pe aproximativ 30 de scene pe circa 5 km de coastă, sub luna plină din august. Organizat de Tineretul din Paralimni, atrage peste 15.000 de vizitatori.",
+     "en": "A free annual street music festival held along the Pernera-Protaras coastal promenade, where over 130 musicians perform simultaneously on around 30 stages across roughly 5 km of coastline under the August full moon. Organised by the Youth of Paralimni, it draws over 15,000 visitors."
+    },
     "source_url": "https://famagustahotelassociation.com/protaras-moonwalk/",
     "image_url": ""
    },
    {
-    "name": "Paralimni Cultural Summer Festival",
+    "name": {
+     "de": "Paralimni Cultural Summer Festival",
+     "hu": "Paralimni Cultural Summer Festival",
+     "ro": "Paralimni Cultural Summer Festival",
+     "en": "Paralimni Cultural Summer Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in July",
+    "when": {
+     "de": "jährlich im Juli",
+     "hu": "évente júliusban",
+     "ro": "anual în iulie",
+     "en": "annually in July"
+    },
     "date": "",
-    "blurb": "A summer festival celebrating the cultural heritage of Paralimni, known for its folk poets and strong traditions, with traditional dances, music performances and storytelling staged across Paralimni and Protaras.",
+    "blurb": {
+     "de": "Ein Sommerfestival, das das kulturelle Erbe von Paralimni feiert, bekannt für seine Volksdichter und starken Traditionen, mit traditionellen Tänzen, Musikaufführungen und Geschichtenerzählen, das in Paralimni und Protaras stattfindet.",
+     "hu": "Nyári fesztivál, amely Paralimni kulturális örökségét ünnepli, híres népi költőiről és erős hagyományairól, hagyományos táncokkal, zenei előadásokkal és mesemondással, amelyet Paralimniben és Protarasban rendeznek.",
+     "ro": "Un festival de vară care sărbătorește moștenirea culturală a Paralimniului, cunoscut pentru poeții săi populari și tradițiile puternice, cu dansuri tradiționale, spectacole muzicale și povestiri, organizat în Paralimni și Protaras.",
+     "en": "A summer festival celebrating the cultural heritage of Paralimni, known for its folk poets and strong traditions, with traditional dances, music performances and storytelling staged across Paralimni and Protaras."
+    },
     "source_url": "https://www.cyprusevents.net/annual/ayia-napa-protaras-events",
     "image_url": ""
    },
    {
-    "name": "Cyprus Rocks Classic Rock Festival",
+    "name": {
+     "de": "Cyprus Rocks Classic Rock Festival",
+     "hu": "Cyprus Rocks Classic Rock Festival",
+     "ro": "Cyprus Rocks Classic Rock Festival",
+     "en": "Cyprus Rocks Classic Rock Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "2026-10-01 to 2026-10-06",
+    "when": {
+     "de": "1. Oktober 2026 bis 6. Oktober 2026",
+     "hu": "2026. október 1-től 2026. október 6-ig",
+     "ro": "1 octombrie 2026 până la 6 octombrie 2026",
+     "en": "2026-10-01 to 2026-10-06"
+    },
     "date": "2026-10-01",
-    "blurb": "A classic rock festival staged at venues across the Protaras-Paralimni area, featuring UK tribute bands performing over several days in early October.",
+    "blurb": {
+     "de": "Ein Classic-Rock-Festival an Veranstaltungsorten im Raum Protaras-Paralimni, mit britischen Tribute-Bands, die über mehrere Tage Anfang Oktober auftreten.",
+     "hu": "Klasszikus rockfesztivál a Protaras-Paralimni térség helyszínein, brit tribute-zenekarokkal, amelyek több napon át lépnek fel október elején.",
+     "ro": "Un festival de rock clasic organizat în locații din zona Protaras-Paralimni, cu trupe tribut britanice care cântă pe parcursul mai multor zile la începutul lunii octombrie.",
+     "en": "A classic rock festival staged at venues across the Protaras-Paralimni area, featuring UK tribute bands performing over several days in early October."
+    },
     "source_url": "https://eventor.com.cy/events/famagusta/cyprus-rocks-2026-classic-rock-festival-in-protaras-12264",
     "image_url": ""
    },
    {
-    "name": "Kataklysmos (Festival of the Flood)",
+    "name": {
+     "de": "Kataklysmos (Festival der Sintflut)",
+     "hu": "Kataklysmos (Az özönvíz fesztiválja)",
+     "ro": "Kataklysmos (Festivalul Potopului)",
+     "en": "Kataklysmos (Festival of the Flood)"
+    },
     "type": "religious",
     "recurring": true,
-    "when": "annually at Pentecost; 2026: 30 May - 1 June",
+    "when": {
+     "de": "jährlich zu Pfingsten; 2026: 30. Mai - 1. Juni",
+     "hu": "évente pünkösdkor; 2026: május 30. - június 1.",
+     "ro": "anual de Rusalii; 2026: 30 mai - 1 iunie",
+     "en": "annually at Pentecost; 2026: 30 May - 1 June"
+    },
     "date": "2026-06-01",
-    "blurb": "A traditional Cypriot waterfront festival tied to Pentecost, celebrated in nearby coastal Ayia Napa with church rites, fairs, music, folk dancing and sea-based water games. It is inscribed on the UNESCO Intangible Cultural Heritage list.",
+    "blurb": {
+     "de": "Ein traditionelles zypriotisches Uferfestival, das mit Pfingsten verbunden ist und im nahegelegenen Küstenort Ayia Napa mit kirchlichen Riten, Jahrmärkten, Musik, Volkstanz und Wasserspielen im Meer gefeiert wird. Es ist in die UNESCO-Liste des immateriellen Kulturerbes eingetragen.",
+     "hu": "Hagyományos ciprusi tengerparti fesztivál, amely pünkösdhöz kötődik, és a közeli tengerparti Ayia Napában ünneplik egyházi szertartásokkal, vásárokkal, zenével, néptánccal és tengeri vízi játékokkal. Az UNESCO szellemi kulturális örökség listáján szerepel.",
+     "ro": "Un festival tradițional cipriot pe malul apei, legat de Rusalii, sărbătorit în apropiata localitate de coastă Ayia Napa cu ritualuri bisericești, târguri, muzică, dansuri populare și jocuri acvatice pe mare. Este înscris pe lista Patrimoniului Cultural Imaterial UNESCO.",
+     "en": "A traditional Cypriot waterfront festival tied to Pentecost, celebrated in nearby coastal Ayia Napa with church rites, fairs, music, folk dancing and sea-based water games. It is inscribed on the UNESCO Intangible Cultural Heritage list."
+    },
     "source_url": "https://eventor.com.cy/events/famagusta/kataklysmos-flood-festival-traditional-cyprus-festival-in-ayia-napa-12220",
     "image_url": ""
    }
@@ -539,42 +1214,102 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Kataklysmos (Festival of the Flood / Fish & Water Festival)",
+    "name": {
+     "de": "Kataklysmos (Festival der Flut / Fisch- und Wasserfest)",
+     "hu": "Kataklysmos (Az özönvíz ünnepe / Hal- és Vízfesztivál)",
+     "ro": "Kataklysmos (Festivalul Potopului / Festivalul Peștelui și al Apei)",
+     "en": "Kataklysmos (Festival of the Flood / Fish & Water Festival)"
+    },
     "type": "religious",
     "recurring": true,
-    "when": "annually late May / early June (Pentecost)",
+    "when": {
+     "de": "jährlich Ende Mai / Anfang Juni (Pfingsten)",
+     "hu": "évente május végén / június elején (Pünkösd)",
+     "ro": "anual la sfârșitul lunii mai / începutul lunii iunie (Rusalii)",
+     "en": "annually late May / early June (Pentecost)"
+    },
     "date": "2026-05-30",
-    "blurb": "Held at Ayia Napa Harbour, this traditional festival marks Pentecost with water-themed celebrations including watersports, the dive for the cross and fish-themed festivities. In 2026 it runs 30-31 May and 1 June.",
+    "blurb": {
+     "de": "Im Hafen von Ayia Napa abgehalten, markiert dieses traditionelle Festival Pfingsten mit wasserbezogenen Feierlichkeiten, darunter Wassersport, das Tauchen nach dem Kreuz und Fischfeste. 2026 findet es am 30.-31. Mai und 1. Juni statt.",
+     "hu": "Az Ayia Napa-i kikötőben tartott hagyományos fesztivál a Pünkösdöt ünnepli vízi témájú eseményekkel, beleértve a vízi sportokat, a keresztért való merülést és a halfesztiválokat. 2026-ban május 30-31-én és június 1-jén kerül megrendezésre.",
+     "ro": "Desfășurat în portul Ayia Napa, acest festival tradițional marchează Rusaliile cu sărbători tematice legate de apă, inclusiv sporturi nautice, scufundarea pentru cruce și festivități cu pește. În 2026 are loc pe 30-31 mai și 1 iunie.",
+     "en": "Held at Ayia Napa Harbour, this traditional festival marks Pentecost with water-themed celebrations including watersports, the dive for the cross and fish-themed festivities. In 2026 it runs 30-31 May and 1 June."
+    },
     "source_url": "https://www.agianapa.org.cy/en/information/events/kataklysmos",
     "image_url": ""
    },
    {
-    "name": "Ayia Napa International Festival",
+    "name": {
+     "de": "Internationales Festival von Ayia Napa",
+     "hu": "Ayia Napa Nemzetközi Fesztivál",
+     "ro": "Festivalul Internațional Ayia Napa",
+     "en": "Ayia Napa International Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually late September",
+    "when": {
+     "de": "jährlich Ende September",
+     "hu": "évente szeptember végén",
+     "ro": "anual la sfârșitul lunii septembrie",
+     "en": "annually late September"
+    },
     "date": "",
-    "blurb": "One of the oldest festivals in Cyprus (running over 40 years), held in the central square and around the Medieval Monastery. It features concerts by Greek and Cypriot artists plus dance and cultural performances.",
+    "blurb": {
+     "de": "Eines der ältesten Festivals auf Zypern (seit über 40 Jahren), abgehalten auf dem zentralen Platz und rund um das mittelalterliche Kloster. Es bietet Konzerte griechischer und zypriotischer Künstler sowie Tanz- und Kulturvorführungen.",
+     "hu": "Ciprus egyik legrégebbi fesztiválja (több mint 40 éve), a központi téren és a középkori kolostor körül tartják. Görög és ciprusi művészek koncertjeit, valamint tánc- és kulturális előadásokat kínál.",
+     "ro": "Unul dintre cele mai vechi festivaluri din Cipru (de peste 40 de ani), desfășurat în piața centrală și în jurul Mănăstirii Medievale. Include concerte ale artiștilor greci și ciprioți, precum și spectacole de dans și culturale.",
+     "en": "One of the oldest festivals in Cyprus (running over 40 years), held in the central square and around the Medieval Monastery. It features concerts by Greek and Cypriot artists plus dance and cultural performances."
+    },
     "source_url": "https://www.agianapa.org.cy/en/information/events/ayia-napa-festival",
     "image_url": ""
    },
    {
-    "name": "Ayia Napa Medieval Festival",
+    "name": {
+     "de": "Mittelalterfestival von Ayia Napa",
+     "hu": "Ayia Napa Középkori Fesztivál",
+     "ro": "Festivalul Medieval Ayia Napa",
+     "en": "Ayia Napa Medieval Festival"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually mid-October",
+    "when": {
+     "de": "jährlich Mitte Oktober",
+     "hu": "évente október közepén",
+     "ro": "anual la mijlocul lunii octombrie",
+     "en": "annually mid-October"
+    },
     "date": "2026-10-14",
-    "blurb": "Running since 2006, this festival uses the medieval monastery as its setting for street theatre, music and dance by European groups, a medieval market and craft workshops. The 2026 edition is scheduled for 14-18 October.",
+    "blurb": {
+     "de": "Seit 2006 findet dieses Festival im mittelalterlichen Kloster statt mit Straßentheater, Musik und Tanz europäischer Gruppen, einem mittelalterlichen Markt und Handwerksworkshops. Die Ausgabe 2026 ist für den 14.-18. Oktober geplant.",
+     "hu": "2006 óta tartják ezt a fesztivált a középkori kolostorban, utcaszínházzal, európai csoportok zenéjével és táncával, középkori vásárral és kézműves műhelyekkel. A 2026-os kiadás október 14-18-ra van ütemezve.",
+     "ro": "Desfășurat din 2006, acest festival folosește mănăstirea medievală ca decor pentru teatru de stradă, muzică și dans ale unor grupuri europene, o piață medievală și ateliere meșteșugărești. Ediția din 2026 este programată pentru 14-18 octombrie.",
+     "en": "Running since 2006, this festival uses the medieval monastery as its setting for street theatre, music and dance by European groups, a medieval market and craft workshops. The 2026 edition is scheduled for 14-18 October."
+    },
     "source_url": "https://www.agianapa.org.cy/en/information/events/medieval-festival",
     "image_url": ""
    },
    {
-    "name": "Ayia Napa Soccer Festival",
+    "name": {
+     "de": "Fußballfestival von Ayia Napa",
+     "hu": "Ayia Napa Labdarúgó Fesztivál",
+     "ro": "Festivalul de Fotbal Ayia Napa",
+     "en": "Ayia Napa Soccer Festival"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "annually (training/tournament season)",
+    "when": {
+     "de": "jährlich (Trainings-/Turniersaison)",
+     "hu": "évente (edzés/tornaszezon)",
+     "ro": "anual (sezon de antrenament/turneu)",
+     "en": "annually (training/tournament season)"
+    },
     "date": "",
-    "blurb": "A football tournament and training festival hosted at Ayia Napa's athletic center with 15 natural-grass pitches and the Municipal Stadium, drawing visiting teams.",
+    "blurb": {
+     "de": "Ein Fußballturnier und Trainingsfestival im Sportzentrum von Ayia Napa mit 15 Naturrasenplätzen und dem Städtischen Stadion, das Gastmannschaften anzieht.",
+     "hu": "Egy labdarúgó torna és edzőtábor az Ayia Napa-i sportközpontban, 15 természetes füves pályával és a Városi Stadionnal, amely vendégcsapatokat vonz.",
+     "ro": "Un turneu de fotbal și festival de antrenament găzduit la centrul sportiv din Ayia Napa, cu 15 terenuri cu iarbă naturală și Stadionul Municipal, atrăgând echipe vizitatoare.",
+     "en": "A football tournament and training festival hosted at Ayia Napa's athletic center with 15 natural-grass pitches and the Municipal Stadium, drawing visiting teams."
+    },
     "source_url": "https://cyprus-mail.com/2026/03/08/ayia-napa-festivals-to-look-forward-to",
     "image_url": ""
    }
@@ -586,42 +1321,102 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Kataklysmos (Festival of the Flood) - Paphos Harbour",
+    "name": {
+     "de": "Kataklysmos (Festival der Flut) – Paphos Hafen",
+     "hu": "Kataklysmos (Az Özönvíz Fesztiválja) – Paphos kikötő",
+     "ro": "Kataklysmos (Festivalul Potopului) – Portul Paphos",
+     "en": "Kataklysmos (Festival of the Flood) - Paphos Harbour"
+    },
     "type": "religious",
     "recurring": true,
-    "when": "annually in late spring/early summer, 50 days after Orthodox Easter; 2026: 30 May - 1 June",
+    "when": {
+     "de": "jährlich im späten Frühling/frühen Sommer, 50 Tage nach dem orthodoxen Ostern; 2026: 30. Mai – 1. Juni",
+     "hu": "évente késő tavasszal/kora nyáron, 50 nappal az ortodox húsvét után; 2026: május 30. – június 1.",
+     "ro": "anual la sfârșitul primăverii/începutul verii, la 50 de zile după Paștele ortodox; 2026: 30 mai – 1 iunie",
+     "en": "annually in late spring/early summer, 50 days after Orthodox Easter; 2026: 30 May - 1 June"
+    },
     "date": "2026-05-30",
-    "blurb": "Cyprus's unique Festival of the Flood is celebrated at the Paphos Harbour and castle area, a short walk from the Kato Paphos beaches, with concerts, traditional folk dancing, chattismata poetic sparring, food stalls and water-sport games.",
+    "blurb": {
+     "de": "Zyperns einzigartiges Festival der Flut wird am Paphos Hafen und im Burgbereich gefeiert, nur einen kurzen Spaziergang von den Stränden von Kato Paphos entfernt, mit Konzerten, traditionellem Volkstanz, Chattismata-Dichterwettstreit, Essensständen und Wassersportspielen.",
+     "hu": "Ciprus egyedülálló Özönvíz Fesztiválját a Paphos-i kikötőben és a vár környékén ünneplik, rövid sétára a Kato Paphos-i strandoktól, koncertekkel, hagyományos néptánccal, chattismata költői vetélkedővel, ételárusokkal és vízi sportjátékokkal.",
+     "ro": "Unicul Festival al Potopului din Cipru este sărbătorit în portul Paphos și zona castelului, la o scurtă plimbare de plajele Kato Paphos, cu concerte, dansuri populare tradiționale, dueluri poetice chattismata, standuri cu mâncare și jocuri sportive acvatice.",
+     "en": "Cyprus's unique Festival of the Flood is celebrated at the Paphos Harbour and castle area, a short walk from the Kato Paphos beaches, with concerts, traditional folk dancing, chattismata poetic sparring, food stalls and water-sport games."
+    },
     "source_url": "https://www.visitpafos.org.cy/events/kataklysmos-fair-9-june/",
     "image_url": ""
    },
    {
-    "name": "Pafos Aphrodite Festival",
+    "name": {
+     "de": "Pafos Aphrodite Festival",
+     "hu": "Pafos Aphrodite Fesztivál",
+     "ro": "Festivalul Afroditei din Pafos",
+     "en": "Pafos Aphrodite Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in early September; 2026: 4-5 September",
+    "when": {
+     "de": "jährlich Anfang September; 2026: 4.–5. September",
+     "hu": "évente szeptember elején; 2026: szeptember 4–5.",
+     "ro": "anual la începutul lunii septembrie; 2026: 4–5 septembrie",
+     "en": "annually in early September; 2026: 4-5 September"
+    },
     "date": "2026-09-04",
-    "blurb": "An annual open-air opera festival staged in the square of Paphos' Medieval Castle by the harbour. The 2026 edition presents Donizetti's L'Elisir d'Amore with the Armenian National Opera and Ballet Theatre and the Cyprus Symphony Orchestra.",
+    "blurb": {
+     "de": "Ein jährliches Open-Air-Opernfestival, das auf dem Platz der mittelalterlichen Burg von Paphos am Hafen stattfindet. Die Ausgabe 2026 präsentiert Donizettis L'Elisir d'Amore mit dem Armenischen Nationaloper- und Balletttheater und dem Zyprischen Symphonieorchester.",
+     "hu": "Éves szabadtéri operafesztivál, amelyet Paphos középkori várának terén rendeznek meg a kikötő mellett. A 2026-os kiadás Donizetti L'Elisir d'Amore című művét mutatja be az Örmény Nemzeti Opera- és Balettszínház és a Ciprusi Szimfonikus Zenekar közreműködésével.",
+     "ro": "Un festival anual de operă în aer liber, organizat în piața Castelului Medieval din Paphos, lângă port. Ediția 2026 prezintă L'Elisir d'Amore de Donizetti, cu Teatrul Național de Operă și Balet din Armenia și Orchestra Simfonică a Ciprului.",
+     "en": "An annual open-air opera festival staged in the square of Paphos' Medieval Castle by the harbour. The 2026 edition presents Donizetti's L'Elisir d'Amore with the Armenian National Opera and Ballet Theatre and the Cyprus Symphony Orchestra."
+    },
     "source_url": "https://www.visitpafos.org.cy/pafos-aphrodite-festival/",
     "image_url": ""
    },
    {
-    "name": "Paphos Choir Festival (Ancient Odeon)",
+    "name": {
+     "de": "Paphos Choir Festival (Antikes Odeon)",
+     "hu": "Paphos Kórusfesztivál (Ősi Odeon)",
+     "ro": "Festivalul Coral din Paphos (Odeonul Antic)",
+     "en": "Paphos Choir Festival (Ancient Odeon)"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in June at the Ancient Odeon, Kato Paphos",
+    "when": {
+     "de": "jährlich im Juni am Antiken Odeon, Kato Paphos",
+     "hu": "évente júniusban az Ősi Odeonnál, Kato Paphos",
+     "ro": "anual în iunie la Odeonul Antic, Kato Paphos",
+     "en": "annually in June at the Ancient Odeon, Kato Paphos"
+    },
     "date": "",
-    "blurb": "A recurring choral music festival held each June at the Ancient Odeon in the Kato Paphos archaeological area, close to the harbour and the Vrysoudia beachfront.",
+    "blurb": {
+     "de": "Ein wiederkehrendes Chormusikfestival, das jeden Juni am Antiken Odeon im archäologischen Gebiet von Kato Paphos stattfindet, in der Nähe des Hafens und der Vrysoudia-Strandpromenade.",
+     "hu": "Egy visszatérő kóruszenei fesztivál, amelyet minden júniusban az Ősi Odeonnál rendeznek a Kato Paphos-i régészeti területen, a kikötő és a Vrysoudia tengerpart közelében.",
+     "ro": "Un festival coral recurent, desfășurat în fiecare iunie la Odeonul Antic din zona arheologică Kato Paphos, aproape de port și de faleza Vrysoudia.",
+     "en": "A recurring choral music festival held each June at the Ancient Odeon in the Kato Paphos archaeological area, close to the harbour and the Vrysoudia beachfront."
+    },
     "source_url": "https://www.visitpafos.org.cy/",
     "image_url": ""
    },
    {
-    "name": "Latsi Fish Festival",
+    "name": {
+     "de": "Latsi Fischfestival",
+     "hu": "Latsi Halfesztivál",
+     "ro": "Festivalul Peștelui din Latsi",
+     "en": "Latsi Fish Festival"
+    },
     "type": "food",
     "recurring": true,
-    "when": "annually in spring at Latsi (Latchi) Harbour, Polis Chrysochous; 2026: 2 May",
+    "when": {
+     "de": "jährlich im Frühling am Latsi (Latchi) Hafen, Polis Chrysochous; 2026: 2. Mai",
+     "hu": "évente tavasszal a Latsi (Latchi) kikötőben, Polis Chrysochous; 2026: május 2.",
+     "ro": "anual primăvara în portul Latsi (Latchi), Polis Chrysochous; 2026: 2 mai",
+     "en": "annually in spring at Latsi (Latchi) Harbour, Polis Chrysochous; 2026: 2 May"
+    },
     "date": "2026-05-02",
-    "blurb": "A traditional fish festival on the quayside of Latsi Harbour in the Paphos district, with grilled-fish stalls, live music, traditional dance and flyboard shows. It is north of Kato Paphos rather than at Vrysoudia itself.",
+    "blurb": {
+     "de": "Ein traditionelles Fischfestival am Kai des Latsi Hafens im Bezirk Paphos, mit gegrillten Fischständen, Live-Musik, traditionellem Tanz und Flyboard-Shows. Es liegt nördlich von Kato Paphos, nicht direkt an der Vrysoudia.",
+     "hu": "Egy hagyományos halfesztivál a Latsi kikötő rakpartján, a Paphos-i körzetben, grillezett halas standokkal, élőzenével, hagyományos tánccal és flyboard-bemutatókkal. Kato Paphostól északra található, nem magánál a Vrysoudiánál.",
+     "ro": "Un festival tradițional al peștelui pe cheiul portului Latsi din districtul Paphos, cu standuri de pește la grătar, muzică live, dans tradițional și spectacole cu flyboard. Se află la nord de Kato Paphos, nu chiar la Vrysoudia.",
+     "en": "A traditional fish festival on the quayside of Latsi Harbour in the Paphos district, with grilled-fish stalls, live music, traditional dance and flyboard shows. It is north of Kato Paphos rather than at Vrysoudia itself."
+    },
     "source_url": "https://www.visitpafos.org.cy/",
     "image_url": ""
    }
@@ -633,22 +1428,52 @@
   "country": "Cyprus",
   "events": [
    {
-    "name": "Peyia Carob Festival",
+    "name": {
+     "de": "Peyia Carob Festival",
+     "hu": "Peyia Carob Festival",
+     "ro": "Peyia Carob Festival",
+     "en": "Peyia Carob Festival"
+    },
     "type": "food",
     "recurring": true,
-    "when": "annually in early September",
+    "when": {
+     "de": "jährlich Anfang September",
+     "hu": "évente szeptember elején",
+     "ro": "anual la începutul lunii septembrie",
+     "en": "annually in early September"
+    },
     "date": "",
-    "blurb": "An annual festival held at Agios Georgios Square in Peyia celebrating the carob harvest, the so-called 'black gold of Cyprus'. Visitors can watch traditional production of carob syrup, pasteli and zivania, sample local dishes, and enjoy folk music and dancing.",
+    "blurb": {
+     "de": "Ein jährliches Festival auf dem Agios-Georgios-Platz in Peyia, das die Johannisbroternte feiert, das sogenannte ‚schwarze Gold Zyperns‘. Besucher können die traditionelle Herstellung von Johannisbrotsirup, Pasteli und Zivania verfolgen, lokale Gerichte probieren und Volksmusik sowie Tänze genießen.",
+     "hu": "Éves fesztivál a peyiai Agios Georgios téren, amely a szentjánoskenyér-termést ünnepli, a „ciprusi fekete aranyat”. A látogatók megfigyelhetik a szentjánoskenyér-szirup, a pasteli és a zivania hagyományos készítését, megkóstolhatják a helyi ételeket, és élvezhetik a népzenét és a táncot.",
+     "ro": "Un festival anual organizat în Piața Agios Georgios din Peyia, care sărbătorește recolta de roșcove, așa-numitul „aur negru al Ciprului”. Vizitatorii pot urmări producția tradițională de sirop de roșcove, pasteli și zivania, pot gusta preparate locale și se pot bucura de muzică populară și dansuri.",
+     "en": "An annual festival held at Agios Georgios Square in Peyia celebrating the carob harvest, the so-called 'black gold of Cyprus'. Visitors can watch traditional production of carob syrup, pasteli and zivania, sample local dishes, and enjoy folk music and dancing."
+    },
     "source_url": "https://www.visitpafos.org.cy/events/carob-festival/",
     "image_url": ""
    },
    {
-    "name": "Feast of Agios Georgios (Saint George)",
+    "name": {
+     "de": "Feast of Agios Georgios (Saint George)",
+     "hu": "Feast of Agios Georgios (Saint George)",
+     "ro": "Feast of Agios Georgios (Saint George)",
+     "en": "Feast of Agios Georgios (Saint George)"
+    },
     "type": "religious",
     "recurring": true,
-    "when": "annually on 23 April (or Easter Monday if it falls before Pascha)",
+    "when": {
+     "de": "jährlich am 23. April (oder am Ostermontag, wenn dieser vor Pascha fällt)",
+     "hu": "évente április 23-án (vagy húsvéthétfőn, ha az a húsvét elé esik)",
+     "ro": "anual pe 23 aprilie (sau în Lunea Paștelui, dacă aceasta cade înainte de Paște)",
+     "en": "annually on 23 April (or Easter Monday if it falls before Pascha)"
+    },
     "date": "2026-04-23",
-    "blurb": "The name-day feast of Saint George is celebrated at the Agios Georgios chapel near Cape Drepanum in Peyia, drawing pilgrims from across the Paphos area for processions, traditional music and a festive village atmosphere.",
+    "blurb": {
+     "de": "Das Namenstagsfest des Heiligen Georg wird in der Agios-Georgios-Kapelle nahe Kap Drepanum in Peyia gefeiert und zieht Pilger aus dem gesamten Bezirk Paphos an. Es umfasst Prozessionen, traditionelle Musik und eine festliche Dorfatmosphäre.",
+     "hu": "Szent György névnapi ünnepét a peyiai Agios Georgios kápolnánál, a Drepanum-fok közelében tartják, zarándokokat vonzva egész Paphos környékéről. A rendezvényen körmenetek, hagyományos zene és ünnepi falusi hangulat várja a látogatókat.",
+     "ro": "Sărbătoarea onomastică a Sfântului Gheorghe este celebrată la capela Agios Georgios de lângă Capul Drepanum din Peyia, atrăgând pelerini din întreaga zonă Paphos, cu procesiuni, muzică tradițională și o atmosferă festivă de sat.",
+     "en": "The name-day feast of Saint George is celebrated at the Agios Georgios chapel near Cape Drepanum in Peyia, drawing pilgrims from across the Paphos area for processions, traditional music and a festive village atmosphere."
+    },
     "source_url": "https://www.cyprusisland.net/cyprus-churches/agios-georgios-chapel-saint-george-peyia",
     "image_url": ""
    }

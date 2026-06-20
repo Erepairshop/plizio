@@ -1,1 +1,648 @@
-{}
+{
+ "akrehamn-beach": {
+  "beach": "Akrehamn Beach",
+  "town": "Åkrehamn",
+  "country": "Norway",
+  "events": [
+   {
+    "name": {
+     "de": "Glade maidagar (Happy May Days)",
+     "hu": "Glade maidagar (Happy May Days)",
+     "ro": "Glade maidagar (Happy May Days)",
+     "en": "Glade maidagar (Happy May Days)"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Mai",
+     "hu": "évente májusban",
+     "ro": "anual în mai",
+     "en": "annually in May"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein wiederkehrendes Frühlingsfest im Stadtzentrum von Åkrehamn mit Ständen und Unterhaltung auf dem Platz, Jahrmarktattraktionen, einer offenen Feuerwache und einem Konzert im Park. Traditionell gehört auch das örtliche Radrennen dazu.",
+     "hu": "Egy ismétlődő tavaszi fesztivál Åkrehamn városközpontjában, árusokkal és szórakozással a téren, vidámparki körhintákkal, nyitott tűzoltóállomással és egy koncerttel a parkban. Hagyományosan magában foglalja a helyi kerékpáros eseményt.",
+     "ro": "Un festival de primăvară recurent în centrul orașului Åkrehamn, cu tarabe și divertisment în piață, atracții de carnaval, o stație de pompieri deschisă și un concert în parc. Include în mod tradițional evenimentul local de ciclism.",
+     "en": "A recurring spring festival in Åkrehamn town centre with stalls and entertainment on the square, carnival rides, an open fire station and a concert in the park. It traditionally includes the local cycling event."
+    },
+    "source_url": "https://akrehamn-vekst.no/2019/04/program-glade-maidager-2019/"
+   },
+   {
+    "name": {
+     "de": "17. mai (Norwegischer Verfassungstag) in Åkrehamn",
+     "hu": "17. mai (norvég alkotmány napja) Åkrehamnban",
+     "ro": "17. mai (Ziua Constituției Norvegiei) în Åkrehamn",
+     "en": "17. mai (Norwegian Constitution Day) in Åkrehamn"
+    },
+    "type": "cultural",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am 17. Mai",
+     "hu": "évente május 17-én",
+     "ro": "anual pe 17 mai",
+     "en": "annually on 17 May"
+    },
+    "date": "2026-05-17",
+    "blurb": {
+     "de": "Der norwegische Nationalfeiertag wird in Åkrehamn mit einem öffentlichen Umzug und einer Versammlung im Stadtpark begangen. Die Organisatoren haben für diesen Tag ein Gemeinschaftsfest im Park geplant.",
+     "hu": "Norvégia nemzeti ünnepét Åkrehamnban nyilvános felvonulással és összejövetellel ünneplik a városi parkban. A szervezők közösségi ünnepséget terveztek a parkba erre a napra.",
+     "ro": "Ziua națională a Norvegiei este marcată în Åkrehamn cu o procesiune publică și o adunare în parcul orașului. Organizatorii au planificat o sărbătoare comunitară în parc pentru această zi.",
+     "en": "Norway's national day is marked in Åkrehamn with a public procession and a gathering in the town park. Organisers have planned a community celebration in the park for the day."
+    },
+    "source_url": "https://www.karmoynytt.no/ny-giv-for-nasjonaldagen-pa-akra-inviterer-til-storslatt-folkefest-i-parken/s/5-161-102442"
+   },
+   {
+    "name": {
+     "de": "Sildakånå på kaien (geführte Theaterwanderung)",
+     "hu": "Sildakånå på kaien (vezetett színházi séta)",
+     "ro": "Sildakånå på kaien (tură ghidată de teatru)",
+     "en": "Sildakånå på kaien (guided theatre walk)"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "Sommersaison",
+     "hu": "nyári szezon",
+     "ro": "sezonul de vară",
+     "en": "summer season"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein geführter Theaterrundgang um den Hafen von Åkrehamn und das Küstenmuseum Åkrehamn, der die Geschichte der Stadt und ihrer Heringsfischerei in den 1950er Jahren erzählt.",
+     "hu": "Egy vezetett színházi séta Åkrehamn kikötője és az Åkrehamn Tengerparti Múzeum körül, amely elmeséli a város történetét és a heringhalászat múltját, az 1950-es években játszódva.",
+     "ro": "Un tur ghidat de teatru în jurul portului Åkrehamn și al Muzeului de Coastă Åkrehamn, care relatează istoria orașului și trecutul său pescăresc de hering, plasat în anii 1950.",
+     "en": "A guided theatrical walk around Åkrehamn harbour and the Åkrehamn Coastal Museum that recounts the town's history and its herring fishing past, set in the 1950s."
+    },
+    "source_url": "https://visitkarmoy.no/akrehamn/"
+   }
+  ]
+ },
+ "bendiksbukta": {
+  "beach": "Bendiksbukta",
+  "town": "Kristiansand",
+  "country": "Norway",
+  "events": [
+   {
+    "name": {
+     "de": "Måkeskrik",
+     "hu": "Måkeskrik",
+     "ro": "Måkeskrik",
+     "en": "Måkeskrik"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Mitte Juli; Ausgabe 2026 am 10.-11. Juli",
+     "hu": "évente július közepén; 2026-os kiadás: július 10-11.",
+     "ro": "anual la mijlocul lunii iulie; ediția 2026 pe 10-11 iulie",
+     "en": "annually mid-July; 2026 edition 10-11 July"
+    },
+    "date": "2026-07-10",
+    "blurb": {
+     "de": "Non-Profit-Musikfestival direkt in der Bendiksbukta, einem natürlichen Amphitheater auf Odderøya. Es wird seit 2012 jährlich veranstaltet und bietet zwei Tage lang Live-Konzerte.",
+     "hu": "Nonprofit zenei fesztivál, amelyet közvetlenül a Bendiksbukta természetes amfiteátrumban, Odderøyán rendeznek. 2012 óta évente megrendezésre kerül, és két napon át élő koncerteket kínál.",
+     "ro": "Festival de muzică non-profit, desfășurat direct în Bendiksbukta, un amfiteatru natural pe Odderøya. Este organizat anual din 2012 și include concerte live pe parcursul a două zile.",
+     "en": "Non-profit music festival held directly at Bendiksbukta, a natural amphitheatre on Odderøya. It has been arranged annually since 2012 and features live concerts over two days."
+    },
+    "source_url": "https://www.ticketmaster.no/venue/bendiksbukta-kristiansand-s-billetter/kbb/100"
+   },
+   {
+    "name": {
+     "de": "Sommerbris",
+     "hu": "Sommerbris",
+     "ro": "Sommerbris",
+     "en": "Sommerbris"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Mitte Juni; Ausgabe 2026 am 12.-13. Juni",
+     "hu": "évente június közepén; 2026-os kiadás: június 12-13.",
+     "ro": "anual la mijlocul lunii iunie; ediția 2026 pe 12-13 iunie",
+     "en": "annually mid-June; 2026 edition 12-13 June"
+    },
+    "date": "2026-06-12",
+    "blurb": {
+     "de": "Open-Air-Musikfestival auf Odderøya, das die Bendiksbukta als Strandbarbereich neben der Hauptbühne Amfiet nutzt. Die Ausgabe 2026 findet am 12.-13. Juni statt.",
+     "hu": "Szabadtéri zenei fesztivál Odderøyán, amely a Bendiksbuktát strandbár-területként használja a fő Amfiet színpad mellett. A 2026-os kiadás június 12-13-án zajlik.",
+     "ro": "Festival de muzică în aer liber pe Odderøya, care folosește Bendiksbukta ca zonă de plajă-bar, alături de scena principală Amfiet. Ediția 2026 are loc pe 12-13 iunie.",
+     "en": "Open-air music festival on Odderøya that uses Bendiksbukta as a beach-bar area alongside the main Amfiet stage. The 2026 edition runs 12-13 June."
+    },
+    "source_url": "https://sommerbris.com/"
+   },
+   {
+    "name": {
+     "de": "HalvØya",
+     "hu": "HalvØya",
+     "ro": "HalvØya",
+     "en": "HalvØya"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Mitte Juni; Ausgabe 2026 am 18.-20. Juni",
+     "hu": "évente június közepén; 2026-os kiadás: június 18-20.",
+     "ro": "anual la mijlocul lunii iunie; ediția 2026 pe 18-20 iunie",
+     "en": "annually mid-June; 2026 edition 18-20 June"
+    },
+    "date": "2026-06-18",
+    "blurb": {
+     "de": "Kleines Festival für nicht-kommerzielle und elektronische Musik am Søndre Batteri auf Odderøya, derselben Insel wie Bendiksbukta, etwa zwei Kilometer vom Stadtzentrum Kristiansands entfernt.",
+     "hu": "Kis fesztivál nem kereskedelmi és elektronikus zenének a Søndre Batteri helyszínen, Odderøyán, ugyanazon a szigeten, ahol Bendiksbukta található, körülbelül két kilométerre Kristiansand városközpontjától.",
+     "ro": "Festival mic pentru muzică necomercială și electronică, desfășurat la Søndre Batteri pe Odderøya, aceeași insulă ca Bendiksbukta, la aproximativ doi kilometri de centrul orașului Kristiansand.",
+     "en": "Small festival for non-commercial and electronic music held at Søndre Batteri on Odderøya, the same island as Bendiksbukta, about two kilometres from Kristiansand city centre."
+    },
+    "source_url": "https://www.halvoya.com/"
+   }
+  ]
+ },
+ "bunes-beach": {
+  "beach": "Bunes Beach",
+  "town": "Reine",
+  "country": "Norway",
+  "events": [
+   {
+    "name": {
+     "de": "The Arctic Triple - Lofoten Ultra-Trail",
+     "hu": "The Arctic Triple - Lofoten Ultra-Trail",
+     "ro": "The Arctic Triple - Lofoten Ultra-Trail",
+     "en": "The Arctic Triple - Lofoten Ultra-Trail"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich in Kalenderwoche 22 (Ende Mai); 29.05.2026 bis 30.05.2026",
+     "hu": "évente a 22. héten (május végén); 2026.05.29–2026.05.30",
+     "ro": "anual în săptămâna 22 (sfârșitul lunii mai); 29.05.2026 până la 30.05.2026",
+     "en": "annually in week 22 (late May); 2026-05-29 to 2026-05-30"
+    },
+    "date": "2026-05-29",
+    "blurb": {
+     "de": "Langstrecken-Trailrunning-Wettbewerb, der mit einer Bootsfahrt von Reine durch den Reinefjord zum Startpunkt am Kirkefjord beginnt, in der Nähe des Fjordsystems, das den Zugang zum Bunes Beach ermöglicht. Die Strecke führt über die Lofoten-Berge von Moskenesøy bis zum Ziel in Svolvær.",
+     "hu": "Hosszú távú terepfutó verseny, amely egy hajóúttal kezdődik Reinéből a Reinefjorden keresztül a Kirkefjordnál lévő rajthelyig, a Bunes Beach megközelítését lehetővé tevő fjordrendszer közelében. Az útvonal a Lofoten-hegységen át vezet Moskenesøytől a célvonalig Svolværben.",
+     "ro": "Cursă de alergare pe traseu lung, care începe cu o plimbare cu barca din Reine prin Reinefjorden până la linia de start de la Kirkefjord, lângă sistemul de fiorduri care oferă acces la plaja Bunes. Traseul traversează munții Lofoten de la Moskenesøy spre finalul din Svolvær.",
+     "en": "Long-distance trail running race that starts with a boat ride from Reine through Reinefjorden to the start line at Kirkefjord, near the fjord system that gives access to Bunes Beach. The route runs across the Lofoten mountains from Moskenesoy toward the finish in Svolvaer."
+    },
+    "source_url": "https://thearctictriple.no/lofoten-ultratrail"
+   }
+  ]
+ },
+ "bystranda": {
+  "beach": "Bystranda",
+  "town": "Kristiansand",
+  "country": "Norway",
+  "events": [
+   {
+    "name": {
+     "de": "Palmesus",
+     "hu": "Palmesus",
+     "ro": "Palmesus",
+     "en": "Palmesus"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juni; 2026-06-26 bis 2026-06-27",
+     "hu": "évente június végén; 2026-06-26 – 2026-06-27",
+     "ro": "anual la sfârșitul lunii iunie; 2026-06-26 până la 2026-06-27",
+     "en": "annually late June; 2026-06-26 to 2026-06-27"
+    },
+    "date": "2026-06-26",
+    "blurb": {
+     "de": "Skandinaviens größtes Strandfestival, jährlich auf der Bystranda im Zentrum von Kristiansand. Die Ausgabe 2026 findet am 26. und 27. Juni statt, mit Headlinern wie Alesso, Macklemore und Broiler.",
+     "hu": "Skandinávia legnagyobb strandfesztiválja, amelyet évente rendeznek meg a kristiansandi Bystrandán. A 2026-os kiadás június 26–27-én lesz, olyan fellépőkkel, mint Alesso, Macklemore és Broiler.",
+     "ro": "Cel mai mare festival de plajă din Scandinavia, organizat anual pe Bystranda în centrul Kristiansandului. Ediția 2026 are loc pe 26–27 iunie, cu capete de afiș precum Alesso, Macklemore și Broiler.",
+     "en": "Scandinavia's largest beach festival, held annually on Bystranda in central Kristiansand. The 2026 edition runs 26-27 June with headliners including Alesso, Macklemore and Broiler."
+    },
+    "source_url": "https://www.ticketmaster.no/artist/palmesus-tickets/901146?language=en-us"
+   },
+   {
+    "name": {
+     "de": "Palmesus Junior",
+     "hu": "Palmesus Junior",
+     "ro": "Palmesus Junior",
+     "en": "Palmesus Junior"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juni; 2026-06-25",
+     "hu": "évente június végén; 2026-06-25",
+     "ro": "anual la sfârșitul lunii iunie; 2026-06-25",
+     "en": "annually late June; 2026-06-25"
+    },
+    "date": "2026-06-25",
+    "blurb": {
+     "de": "Ein Strandfestival für Kinder und Jugendliche auf der Bystranda in Kristiansand, das am 25. Juni 2026 von Mittag bis Abend stattfindet. Es wird in Verbindung mit dem Hauptfestival Palmesus durchgeführt.",
+     "hu": "Gyermek- és ifjúsági strandfesztivál a kristiansandi Bystrandán, amely 2026. június 25-én déltől estig tart. A fő Palmesus fesztiválhoz kapcsolódva rendezik meg.",
+     "ro": "Un festival de plajă pentru copii și tineri pe Bystranda din Kristiansand, care are loc pe 25 iunie 2026 de la prânz până seara. Se desfășoară în legătură cu festivalul principal Palmesus.",
+     "en": "A beach festival for children and youth held on Bystranda in Kristiansand, taking place 25 June 2026 from midday to evening. It runs in connection with the main Palmesus festival."
+    },
+    "source_url": "https://concerts50.com/show/palmesus-junior-in-kristiansand-tickets-jun-25-2026"
+   },
+   {
+    "name": {
+     "de": "Tri Sor Bystranda Akvatlon",
+     "hu": "Tri Sor Bystranda Akvatlon",
+     "ro": "Tri Sor Bystranda Akvatlon",
+     "en": "Tri Sor Bystranda Akvatlon"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Juni",
+     "hu": "évente júniusban",
+     "ro": "anual în iunie",
+     "en": "annually in June"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Aquathlon-Wettbewerb (Schwimmen und Laufen), organisiert vom Kristiansand Triathlon auf der Bystranda. In den vergangenen Jahren fand er Mitte Juni als Teil der Tri-Sor-Serie statt.",
+     "hu": "Aquatlon (úszás és futás) verseny, amelyet a Kristiansand Triathlon szervez a Bystrandán. Az elmúlt években június közepén rendezték meg a Tri Sor sorozat részeként.",
+     "ro": "O competiție de aquatlon (înot și alergare) organizată de Kristiansand Triathlon pe Bystranda. În anii trecuți a avut loc la mijlocul lunii iunie, ca parte a seriei Tri Sor.",
+     "en": "An aquathlon (swim and run) race organised by Kristiansand Triathlon at Bystranda. It has been held in past years in mid-June as part of the Tri Sor series."
+    },
+    "source_url": "https://www.webscorer.com/register?raceid=392966"
+   }
+  ]
+ },
+ "furustrand": {
+  "beach": "Furustrand",
+  "town": "Tønsberg",
+  "country": "Norway",
+  "events": [
+   {
+    "name": {
+     "de": "Sankthans på Ringshaugstranda",
+     "hu": "Sankthans på Ringshaugstranda",
+     "ro": "Sankthans på Ringshaugstranda",
+     "en": "Sankthans på Ringshaugstranda"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am 23. Juni",
+     "hu": "évente június 23-án",
+     "ro": "anual pe 23 iunie",
+     "en": "annually 23 June"
+    },
+    "date": "2026-06-23",
+    "blurb": {
+     "de": "Mittsommerfeier mit einem Lagerfeuer am Ringshaugstranda, dem Sandstrand direkt neben Furustrand, organisiert vom örtlichen Nachbarschaftsverein Ringshaug og Gårdbo. Das Feuer wird am Abend entzündet, und die Anwohner spenden in den Tagen zuvor sauberes Brennholz.",
+     "hu": "Nyárközépi ünnepség tábortűzzel a Ringshaugstrandán, a Furustrand melletti homokos strandon, amelyet a helyi Ringshaug og Gårdbo szomszédsági egyesület szervez. A tüzet este gyújtják meg, a lakók pedig az előző napokban tiszta tűzifát adományoznak.",
+     "ro": "Sărbătoare de mijlocul verii cu un foc de tabără pe Ringshaugstranda, plaja nisipoasă imediat lângă Furustrand, organizată de asociația locală de cartier Ringshaug og Gårdbo. Focul este aprins seara, iar locuitorii donează lemne de foc curate în zilele precedente.",
+     "en": "Midsummer celebration with a bonfire on Ringshaugstranda, the sandy beach immediately next to Furustrand, organised by the local Ringshaug og Gårdbo neighbourhood association. The bonfire is lit in the evening and residents donate clean firewood in the preceding days."
+    },
+    "source_url": "https://www.ringshaug.com/category/st-hans/"
+   },
+   {
+    "name": {
+     "de": "Slottsfjell",
+     "hu": "Slottsfjell",
+     "ro": "Slottsfjell",
+     "en": "Slottsfjell"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "10. bis 11. Juli 2026",
+     "hu": "2026. július 10–11.",
+     "ro": "10–11 iulie 2026",
+     "en": "2026-07-10 to 2026-07-11"
+    },
+    "date": "2026-07-10",
+    "blurb": {
+     "de": "Musikfestival auf Kaldnes in Tønsberg, fußläufig zur Stadtpromenade und zum Oslofjord. Die Ausgabe 2026 findet an zwei Tagen im Juli statt.",
+     "hu": "Zenei fesztivál a tønsbergi Kaldnesben, gyalogos távolságra a városi vízparttól és az Oslofjordtól. A 2026-os kiadás két napon át tart júliusban.",
+     "ro": "Festival de muzică desfășurat la Kaldnes în Tønsberg, la distanță de mers pe jos de faleza orașului și de fiordul Oslofjord. Ediția din 2026 se desfășoară pe parcursul a două zile în iulie.",
+     "en": "Music festival held at Kaldnes in Tønsberg, within walking distance of the town waterfront and the Oslofjord. The 2026 edition runs across two days in July."
+    },
+    "source_url": "https://www.visitvestfold.com/en/event/slottsfjell-2026"
+   },
+   {
+    "name": {
+     "de": "Tønsberg Vikingfestival",
+     "hu": "Tønsberg Vikingfestival",
+     "ro": "Tønsberg Vikingfestival",
+     "en": "Tønsberg Vikingfestival"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "6. bis 9. August 2026",
+     "hu": "2026. augusztus 6–9.",
+     "ro": "6–9 august 2026",
+     "en": "2026-08-06 to 2026-08-09"
+    },
+    "date": "2026-08-06",
+    "blurb": {
+     "de": "Wikingerfestival am Hafen von Tønsberg vom 6. bis 9. August 2026 mit Markt, Nachstellungen und historischen Aktivitäten.",
+     "hu": "Viking tematikájú fesztivál a tønsbergi kikötőben 2026. augusztus 6. és 9. között, piaccal, történelmi újrajátszásokkal és történelmi tevékenységekkel.",
+     "ro": "Festival cu tematică vikingă desfășurat pe cheiul portului Tønsberg între 6 și 9 august 2026, cu târg, reconstituiri istorice și activități istorice.",
+     "en": "Viking-themed festival held at the Tønsberg harbour front from 6 to 9 August 2026, with a market, reenactments and historical activities."
+    },
+    "source_url": "https://vikingsaga.no/"
+   },
+   {
+    "name": {
+     "de": "Bryggedagene",
+     "hu": "Bryggedagene",
+     "ro": "Bryggedagene",
+     "en": "Bryggedagene"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "1. bis 3. Mai 2026",
+     "hu": "2026. május 1–3.",
+     "ro": "1–3 mai 2026",
+     "en": "2026-05-01 to 2026-05-03"
+    },
+    "date": "2026-05-01",
+    "blurb": {
+     "de": "Kostenloses maritimes Volksfest an der Tønsberger Uferpromenade mit Booten, Motoren, Klippenspringen und dem Oseberg-Schiff, vom 1. bis 3. Mai 2026.",
+     "hu": "Ingyenes tengerészeti nyilvános fesztivál a tønsbergi vízparton, hajókkal, motorokkal, szikláról ugrálással és az Oseberg hajóval, 2026. május 1. és 3. között.",
+     "ro": "Festival public maritim gratuit pe faleza Tønsberg, cu bărci, motoare, sărituri de pe stânci și corabia Oseberg, desfășurat între 1 și 3 mai 2026.",
+     "en": "Free maritime public festival on the Tønsberg waterfront featuring boats, motors, cliff diving and the Oseberg ship, held 1 to 3 May 2026."
+    },
+    "source_url": "https://powerboat.news/bryggedagene-returns-to-tonsberg-waterfront-for-three-days-of-free-maritime-action-may-1-3/"
+   },
+   {
+    "name": {
+     "de": "Bakgårdsfestivalen",
+     "hu": "Bakgårdsfestivalen",
+     "ro": "Bakgårdsfestivalen",
+     "en": "Bakgårdsfestivalen"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "5. bis 6. Juni 2026",
+     "hu": "2026. június 5–6.",
+     "ro": "5–6 iunie 2026",
+     "en": "2026-06-05 to 2026-06-06"
+    },
+    "date": "2026-06-05",
+    "blurb": {
+     "de": "Kostenloses Festival in Tønsberg, das Innenhöfe und städtische Räume als intime Veranstaltungsorte für Musik, Literatur und darstellende Kunst nutzt, am 5. und 6. Juni 2026.",
+     "hu": "Ingyenes fesztivál Tønsbergben, amely udvarokat és városi tereket használ intim helyszínként zene, irodalom és előadóművészet számára, 2026. június 5. és 6. között.",
+     "ro": "Festival gratuit în Tønsberg, care folosește curți și spații urbane ca locuri intime pentru muzică, literatură și artele spectacolului, desfășurat pe 5 și 6 iunie 2026.",
+     "en": "Free festival in Tønsberg using courtyards and city spaces as intimate venues for music, literature and performing arts, held on 5 and 6 June 2026."
+    },
+    "source_url": "https://xn--bakgrdsfestivalen-crb.no/"
+   }
+  ]
+ },
+ "hamresanden": {
+  "beach": "Hamresanden",
+  "town": "Kristiansand",
+  "country": "Norway",
+  "events": [
+   {
+    "name": {
+     "de": "Vinter pa Hamresanden (Winterkonzerte und Weihnachtsmarkt)",
+     "hu": "Vinter pa Hamresanden (téli koncertek és karácsonyi vásár)",
+     "ro": "Vinter pa Hamresanden (concerte de iarnă și târg de Crăciun)",
+     "en": "Vinter pa Hamresanden (winter concerts and Christmas market)"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Winter / in der Vorweihnachtszeit",
+     "hu": "évente télen / karácsony előtti időszakban",
+     "ro": "anual, iarna / în perioada premergătoare Crăciunului",
+     "en": "annually in the winter / pre-Christmas season"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Hamresanden Camping and Resort bietet eine Wintersaison am Strandgelände mit Konzerten, einem Weihnachtsmarkt und Zugang zum nahegelegenen Tierpark. Das Programm findet in der Vorweihnachtszeit statt, nicht während der sommerlichen Badesaison.",
+     "hu": "A Hamresanden Camping and Resort téli szezont kínál a strand területén, koncertekkel, karácsonyi vásárral és a közeli állatpark elérhetőségével. A program a karácsony előtti időszakban zajlik, nem a nyári strandszezonban.",
+     "ro": "Hamresanden Camping and Resort organizează un sezon de iarnă pe plajă, cu concerte, un târg de Crăciun și acces la parcul animalelor din apropiere. Programul se desfășoară în perioada premergătoare Crăciunului, nu în timpul sezonului estival de plajă.",
+     "en": "Hamresanden Camping and Resort runs a winter season at the beach site featuring concerts, a Christmas market and access to the nearby animal park. The program runs in the pre-Christmas period rather than during the summer beach season."
+    },
+    "source_url": "https://www.visitsorlandet.com/destinasjoner/kristiansand/vinter-i-kristiansand/jul-i-kristiansand/"
+   }
+  ]
+ },
+ "hulvik-beach": {
+  "beach": "Hulvik Beach",
+  "town": "Son",
+  "country": "Norway",
+  "events": [
+   {
+    "name": {
+     "de": "Kulturdøgn Soon",
+     "hu": "Kulturdøgn Soon",
+     "ro": "Kulturdøgn Soon",
+     "en": "Kulturdøgn Soon"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Mitte August (2026: 14.-16. August)",
+     "hu": "évente augusztus közepén (2026: augusztus 14-16.)",
+     "ro": "anual la mijlocul lunii august (2026: 14-16 august)",
+     "en": "annually mid-August (2026: 14-16 August)"
+    },
+    "date": "2026-08-14",
+    "blurb": {
+     "de": "Kostenloses, rein ehrenamtlich betriebenes Kulturfestival im gesamten Stadtzentrum von Son mit Musik, Kunst, Theater und Aktivitäten für alle Altersgruppen. Son ist die Küstenstadt, zu der das Badegebiet Hulvik in der Gemeinde Vestby gehört.",
+     "hu": "Ingyenes, teljes egészében önkéntesek által szervezett kulturális fesztivál Son városközpontjában, zenével, művészettel, színházzal és minden korosztály számára kínált programokkal. Son az a tengerparti város, amelyhez a Vestby községben található Hulvik fürdőterület tartozik.",
+     "ro": "Festival cultural gratuit, organizat integral de voluntari, desfășurat în centrul orașului Son, cu muzică, artă, teatru și activități pentru toate vârstele. Son este orașul de coastă de care aparține zona de baie Hulvik din comuna Vestby.",
+     "en": "Free, fully volunteer-run cultural festival held across the town centre of Son with music, art, theatre and activities for all ages. Son is the coastal town that the Hulvik bathing area belongs to in Vestby municipality."
+    },
+    "source_url": "https://www.kulturdognsoon.no/"
+   }
+  ]
+ },
+ "mostranda": {
+  "beach": "Mostranda",
+  "town": "Tjøme",
+  "country": "Norway",
+  "events": [
+   {
+    "name": {
+     "de": "Soloppgangskonsert på Verdens Ende",
+     "hu": "Soloppgangskonsert på Verdens Ende",
+     "ro": "Soloppgangskonsert på Verdens Ende",
+     "en": "Soloppgangskonsert på Verdens Ende"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Anfang Juli, 5. Juli 2026 um 04:00",
+     "hu": "évente július elején, 2026. július 5-én 04:00-kor",
+     "ro": "anual la începutul lunii iulie, 5 iulie 2026 la ora 04:00",
+     "en": "annually early July, 2026-07-05 at 04:00"
+    },
+    "date": "2026-07-05",
+    "blurb": {
+     "de": "Ein jährliches Sonnenaufgangskonzert am Verdens Ende an der Südspitze der Insel Tjøme, wenige Kilometer von Mostranda entfernt. Die Ausgabe 2026 präsentiert Stein Torleif Bjella mit Musikern, die während des Sonnenaufgangs auftreten.",
+     "hu": "Éves napkelte-koncert a Verdens Endén, Tjøme szigetének déli csücskén, néhány kilométerre Mostrandától. A 2026-os kiadásban Stein Torleif Bjella és zenészei lépnek fel a napkelte idején.",
+     "ro": "Un concert anual la răsărit, desfășurat la Verdens Ende, pe vârful sudic al insulei Tjøme, la câțiva kilometri de Mostranda. Ediția din 2026 îi prezintă pe Stein Torleif Bjella cu muzicieni care cântă pe măsură ce soarele răsare.",
+     "en": "An annual sunrise concert held at Verdens Ende on the southern tip of Tjøme island, a few kilometres from Mostranda. The 2026 edition features Stein Torleif Bjella with musicians performing as the sun rises."
+    },
+    "source_url": "https://notteroykulturhus.no/verdens-ende/"
+   },
+   {
+    "name": {
+     "de": "Færderbiennalen",
+     "hu": "Færderbiennalen",
+     "ro": "Færderbiennalen",
+     "en": "Færderbiennalen"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "alle zwei Jahre, 25. Juli bis 8. August 2026",
+     "hu": "kétévente, 2026. július 25-től augusztus 8-ig",
+     "ro": "bienal, de la 25 iulie până la 8 august 2026",
+     "en": "biennial, 2026-07-25 to 2026-08-08"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein alle zwei Jahre stattfindendes internationales Festival für ortsspezifischen Tanz und Architektur an ausgewählten Außenstandorten in Tønsberg und dem Færder-Archipel, zu dem auch Tjøme gehört. Die Ausgabe 2026 ist das dritte Festival der Reihe.",
+     "hu": "Kétévente megrendezésre kerülő nemzetközi fesztivál helyspecifikus tánc és építészet számára, kiválasztott szabadtéri helyszíneken Tønsbergben és a Færder-szigetvilágban, amely magában foglalja Tjømét is. A 2026-os kiadás a sorozat harmadik fesztiválja.",
+     "ro": "Un festival internațional bienal de dans și arhitectură specifică locației, desfășurat în locații exterioare selectate din Tønsberg și arhipelagul Færder, care include Tjøme. Ediția din 2026 este al treilea festival din serie.",
+     "en": "A biennial international festival for site-specific dance and architecture held at selected outdoor locations across Tønsberg and the Færder archipelago, which includes Tjøme. The 2026 edition is the third festival in the series."
+    },
+    "source_url": "https://www.faerderbiennalen.no/om.html"
+   }
+  ]
+ },
+ "paradisbukta": {
+  "beach": "Paradisbukta",
+  "town": "Oslo (Bygdøy)",
+  "country": "Norway",
+  "events": [
+   {
+    "name": {
+     "de": "Midsummer Festival im Norsk Folkemuseum (Sankthans)",
+     "hu": "Midsummer Festival a Norsk Folkemuseumban (Sankthans)",
+     "ro": "Midsummer Festival la Norsk Folkemuseum (Sankthans)",
+     "en": "Midsummer Festival at Norsk Folkemuseum (Sankthans)"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich um den 20.–23. Juni",
+     "hu": "évente június 20–23. körül",
+     "ro": "anual în jurul datei de 20–23 iunie",
+     "en": "annually around 20-23 June"
+    },
+    "date": "2026-06-20",
+    "blurb": {
+     "de": "Jährliche Mittsommerfeier im Freilichtmuseum Norwegisches Museum für Kulturgeschichte auf der Halbinsel Bygdøy, nahe dem Paradisbukta-Strand, am 20. Juni 2026 von 14:00 bis 20:00 Uhr mit Konzerten von Zimmermann und Odd Nordstoga, Volkstanz, Blumenkranzbinden und einem Lagerfeuer. Das Museum liegt auf derselben Halbinsel wie der Strand.",
+     "hu": "Éves nyárközépi ünnepség a szabadtéri Norvég Kulturális Történeti Múzeumban a Bygdøy-félszigeten, a Paradisbukta strand közelében, 2026. június 20-án 14:00 és 20:00 óra között Zimmermann és Odd Nordstoga koncertjeivel, néptánccal, virágkoszorú-készítéssel és máglyagyújtással. A múzeum ugyanazon a félszigeten található, mint a strand.",
+     "ro": "Sărbătoare anuală de vară la Muzeul Norvegian de Istorie Culturală în aer liber, pe peninsula Bygdøy, lângă plaja Paradisbukta, pe 20 iunie 2026 între orele 14:00 și 20:00, cu concerte susținute de Zimmermann și Odd Nordstoga, dans popular, confecționat de coronițe de flori și un foc de tabără. Muzeul se află pe aceeași peninsulă ca și plaja.",
+     "en": "Annual midsummer celebration at the open-air Norwegian Museum of Cultural History on the Bygdoy peninsula, near Paradisbukta beach, running 14:00 to 20:00 on 20 June 2026 with concerts by Zimmermann and Odd Nordstoga, folk dance, flower-crown making and a bonfire. The museum sits on the same peninsula as the beach."
+    },
+    "source_url": "https://norskfolkemuseum.no/en/midsummer-at-norsk-folkemuseum"
+   },
+   {
+    "name": {
+     "de": "Norsk Folkemuseum Weihnachtsmarkt (Julemarked)",
+     "hu": "Norsk Folkemuseum Karácsonyi Vásár (Julemarked)",
+     "ro": "Târgul de Crăciun al Norsk Folkemuseum (Julemarked)",
+     "en": "Norsk Folkemuseum Christmas Fair (Julemarked)"
+    },
+    "type": "market",
+    "recurring": true,
+    "when": {
+     "de": "erste zwei Dezemberwochenenden",
+     "hu": "december első két hétvégéjén",
+     "ro": "primele două weekenduri din decembrie",
+     "en": "first two weekends of December"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Jährlicher Weihnachtsmarkt an den ersten beiden Dezemberwochenenden im Freilichtmuseum Norwegisches Museum für Kulturgeschichte auf der Halbinsel Bygdøy mit über hundert Marktständen, geschmückten historischen Häusern, Volkstanz und Weihnachtskonzerten. Das Gelände liegt auf derselben Halbinsel wie der Paradisbukta-Strand.",
+     "hu": "Éves karácsonyi vásár december első két hétvégéjén a szabadtéri Norvég Kulturális Történeti Múzeumban a Bygdøy-félszigeten, több mint száz árusítóstanddal, feldíszített történelmi házakkal, néptánccal és karácsonyi koncertekkel. A helyszín ugyanazon a félszigeten található, mint a Paradisbukta strand.",
+     "ro": "Târg anual de Crăciun desfășurat în primele două weekenduri din decembrie la Muzeul Norvegian de Istorie Culturală în aer liber, pe peninsula Bygdøy, cu peste o sută de standuri, case istorice decorate, dansuri populare și concerte de Crăciun. Locația se află pe aceeași peninsulă ca și plaja Paradisbukta.",
+     "en": "Annual Christmas fair held on the first two weekends of December at the open-air Norwegian Museum of Cultural History on the Bygdoy peninsula, with over a hundred market stalls, decorated historic houses, folk dancing and Christmas concerts. The site is on the same peninsula as Paradisbukta beach."
+    },
+    "source_url": "https://norskfolkemuseum.no/en/christmasfair"
+   }
+  ]
+ },
+ "refviksanden": {
+  "beach": "Refviksanden",
+  "town": "Refvik",
+  "country": "Norway",
+  "events": [
+   {
+    "name": {
+     "de": "Strandfestivalen Refvik",
+     "hu": "Strandfestivalen Refvik",
+     "ro": "Strandfestivalen Refvik",
+     "en": "Strandfestivalen Refvik"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Juli",
+     "hu": "évente júliusban",
+     "ro": "anual în iulie",
+     "en": "annually in July"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Open-Air-Musikfestival, das direkt am Refviksanden-Strand im Dorf Refvik stattfindet und jeden Juli von Anwohnern organisiert wird. Frühere Ausgaben boten norwegische Acts wie Postgirobygget und Julie Bergan sowie Aktivitäten wie Seekajakfahren und Yoga.",
+     "hu": "Szabadtéri zenei fesztivál, amelyet közvetlenül a Refviksanden strandon rendeznek meg Refvik faluban, minden júliusban a helyi lakosok szervezésében. Korábbi kiadásokon norvég előadók, mint a Postgirobygget és Julie Bergan léptek fel, valamint olyan tevékenységek voltak, mint a tengeri kajakozás és a jóga.",
+     "ro": "Un festival de muzică în aer liber, desfășurat direct pe plaja Refviksanden, în satul Refvik, organizat în fiecare iulie de către localnici. Edițiile anterioare au inclus artiști norvegieni precum Postgirobygget și Julie Bergan, plus activități precum caiacul pe mare și yoga.",
+     "en": "An open-air music festival held directly on Refviksanden beach in the village of Refvik, organised each July by local residents. Past editions featured Norwegian acts such as Postgirobygget and Julie Bergan, plus activities like sea kayaking and yoga."
+    },
+    "source_url": "https://strandfestivalen.no/refvik/"
+   },
+   {
+    "name": {
+     "de": "Måløydagene",
+     "hu": "Måløydagene",
+     "ro": "Måløydagene",
+     "en": "Måløydagene"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Juni (2026: 18.-21. Juni)",
+     "hu": "évente júniusban (2026: június 18-21.)",
+     "ro": "anual în iunie (2026: 18-21 iunie)",
+     "en": "annually in June (2026: 18-21 June)"
+    },
+    "date": "2026-06-18",
+    "blurb": {
+     "de": "Ein Stadtfest im nahegelegenen Måløy auf der Insel Vågsøy, der Hauptsiedlung in der Nähe des Refviksanden-Strandes. Die Ausgabe 2026 findet vom 18. bis 21. Juni statt und markiert das 50-jährige Jubiläum des Festivals.",
+     "hu": "Városi fesztivál a közeli Måløyben, Vågsøy szigetén, a Refviksanden strandhoz legközelebb eső fő településen. A 2026-os kiadás június 18-tól 21-ig tart, és a fesztivál 50. évfordulóját ünnepli.",
+     "ro": "Un festival al orașului în apropierea localității Måløy, pe insula Vågsøy, principala așezare lângă plaja Refviksanden. Ediția 2026 se desfășoară între 18 și 21 iunie și marchează cea de-a 50-a aniversare a festivalului.",
+     "en": "A town festival in nearby Måløy on Vågsøy island, the main settlement near Refviksanden beach. The 2026 edition runs 18 to 21 June and marks the festival's 50-year anniversary."
+    },
+    "source_url": "https://www.maloydagene.no/"
+   },
+   {
+    "name": {
+     "de": "The Norwegian Elvis Festival (Elvisfestivalen)",
+     "hu": "The Norwegian Elvis Festival (Elvisfestivalen)",
+     "ro": "The Norwegian Elvis Festival (Elvisfestivalen)",
+     "en": "The Norwegian Elvis Festival (Elvisfestivalen)"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juli/Anfang August (2026: 30. Juli - 1. August)",
+     "hu": "évente július végén/augusztus elején (2026: július 30. - augusztus 1.)",
+     "ro": "anual la sfârșitul lunii iulie/începutul lunii august (2026: 30 iulie - 1 august)",
+     "en": "annually late July/early August (2026: 30 July - 1 August)"
+    },
+    "date": "2026-07-30",
+    "blurb": {
+     "de": "Ein jährliches Elvis-Musikfestival in Måløy, der nächstgelegenen Stadt zum Refviksanden-Strand. Die Ausgabe 2026 läuft vom 30. Juli bis 1. August und umfasst Konzerte sowie einen Festivalcampingplatz für Wohnwagen und Wohnmobile.",
+     "hu": "Éves Elvis-tematikájú zenei fesztivál Måløyben, a Refviksanden strandhoz legközelebb eső városban. A 2026-os kiadás július 30-tól augusztus 1-ig tart, és koncerteket, valamint lakókocsik és lakóautók számára kialakított fesztiváltábort foglal magában.",
+     "ro": "Un festival anual de muzică cu temă Elvis, desfășurat în Måløy, cel mai apropiat oraș de plaja Refviksanden. Ediția 2026 are loc între 30 iulie și 1 august și include concerte și o tabără de festival pentru rulote și autocaravane.",
+     "en": "An annual Elvis-themed music festival held in Måløy, the nearest town to Refviksanden beach. The 2026 edition runs 30 July to 1 August and includes concerts and a festival camp for caravans and motorhomes."
+    },
+    "source_url": "https://elvisfestivalen.no/"
+   }
+  ]
+ }
+}

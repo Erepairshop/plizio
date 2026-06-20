@@ -5,54 +5,929 @@
   "country": "Finland",
   "events": [
    {
-    "name": "Hietsu Open Beach Volley Tournament",
+    "name": {
+     "de": "Hietsu Open Beach Volley Tournament",
+     "hu": "Hietsu Open Beach Volley Tournament",
+     "ro": "Hietsu Open Beach Volley Tournament",
+     "en": "Hietsu Open Beach Volley Tournament"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "Annually one weekend in early August at Hietaniemi beach; organised by Hietsu Beach Volley (HBV) since 1995",
+    "when": {
+     "de": "Jährlich ein Wochenende Anfang August am Hietaniemi-Strand; organisiert von Hietsu Beach Volley (HBV) seit 1995",
+     "hu": "Évente egy hétvégén augusztus elején a Hietaniemi strandon; a Hietsu Beach Volley (HBV) szervezi 1995 óta",
+     "ro": "Anual, un weekend la începutul lunii august pe plaja Hietaniemi; organizat de Hietsu Beach Volley (HBV) din 1995",
+     "en": "Annually one weekend in early August at Hietaniemi beach; organised by Hietsu Beach Volley (HBV) since 1995"
+    },
     "date": "",
-    "blurb": "National beach volleyball tournament held directly on Hietaniemi beach (Hietsu), featuring top domestic and international pairs. It is HBV's main annual event, run by over 100 volunteers.",
+    "blurb": {
+     "de": "Nationales Beachvolleyball-Turnier direkt am Hietaniemi-Strand (Hietsu) mit den besten nationalen und internationalen Paaren. Es ist HBV's wichtigste jährliche Veranstaltung, durchgeführt von über 100 Freiwilligen.",
+     "hu": "Országos strandröplabda-torna közvetlenül a Hietaniemi strandon (Hietsu), a legjobb hazai és nemzetközi párokkal. Ez a HBV fő éves eseménye, amelyet több mint 100 önkéntes szervez.",
+     "ro": "Turneu național de volei pe plajă desfășurat direct pe plaja Hietaniemi (Hietsu), cu cele mai bune perechi naționale și internaționale. Este principalul eveniment anual al HBV, organizat de peste 100 de voluntari.",
+     "en": "National beach volleyball tournament held directly on Hietaniemi beach (Hietsu), featuring top domestic and international pairs. It is HBV's main annual event, run by over 100 volunteers."
+    },
     "source_url": "https://hbv.fi/hietsu-open/",
     "image_url": ""
    },
    {
-    "name": "Seurasaari Midsummer Bonfires (Juhannus)",
+    "name": {
+     "de": "Seurasaari Midsummer Bonfires (Juhannus)",
+     "hu": "Seurasaari Midsummer Bonfires (Juhannus)",
+     "ro": "Seurasaari Midsummer Bonfires (Juhannus)",
+     "en": "Seurasaari Midsummer Bonfires (Juhannus)"
+    },
     "type": "traditional",
     "recurring": true,
-    "when": "Annually on Midsummer Eve (Juhannus), typically the Friday closest to the summer solstice; 2026 edition on 19 June",
+    "when": {
+     "de": "Jährlich an der Mittsommernacht (Juhannus), in der Regel der Freitag nahe der Sommersonnenwende; Ausgabe 2026 am 19. Juni",
+     "hu": "Évente Juhannus előestéjén (Juhannus), jellemzően a nyári napfordulóhoz legközelebbi pénteken; a 2026-os kiadás június 19-én",
+     "ro": "Anual în noaptea de Midsummer (Juhannus), de obicei vinerea cea mai apropiată de solstițiul de vară; ediția 2026 pe 19 iunie",
+     "en": "Annually on Midsummer Eve (Juhannus), typically the Friday closest to the summer solstice; 2026 edition on 19 June"
+    },
     "date": "2026-06-19",
-    "blurb": "Traditional Finnish Midsummer festival on Seurasaari island, about 2 km from Hietaniemi beach. Folk dancers, folk musicians, the raising of the Midsummer pole and bonfires lit on the shore. A beloved Helsinki tradition since 1956.",
+    "blurb": {
+     "de": "Traditionelles finnisches Mittsommerfest auf der Insel Seurasaari, etwa 2 km vom Hietaniemi-Strand entfernt. Volkstänzer, Volksmusiker, das Aufstellen des Mittsommerbaums und am Ufer entzündete Feuer. Eine beliebte Helsinki-Tradition seit 1956.",
+     "hu": "Hagyományos finn Juhannus-fesztivál a Seurasaari szigeten, körülbelül 2 km-re a Hietaniemi strandtól. Néptáncosok, népzenészek, a Juhannus-rúd felállítása és a parton gyújtott tüzek. Kedvelt helsinki hagyomány 1956 óta.",
+     "ro": "Festival tradițional finlandez de Midsummer pe insula Seurasaari, la aproximativ 2 km de plaja Hietaniemi. Dansatori populari, muzicieni populari, ridicarea stâlpului de Midsummer și focuri de tabără pe mal. O tradiție îndrăgită din Helsinki din 1956.",
+     "en": "Traditional Finnish Midsummer festival on Seurasaari island, about 2 km from Hietaniemi beach. Folk dancers, folk musicians, the raising of the Midsummer pole and bonfires lit on the shore. A beloved Helsinki tradition since 1956."
+    },
     "source_url": "https://www.myhelsinki.fi/events/seurasaari-midsummer-bonfire-2026/",
     "image_url": ""
    },
    {
-    "name": "Flow Festival",
+    "name": {
+     "de": "Flow Festival",
+     "hu": "Flow Festival",
+     "ro": "Flow Festival",
+     "en": "Flow Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "Annually in mid-August at the Suvilahti district (about 3-4 km from the beach); 2026 edition 14-16 August",
+    "when": {
+     "de": "Jährlich Mitte August im Stadtteil Suvilahti (etwa 3-4 km vom Strand entfernt); Ausgabe 2026 vom 14. bis 16. August",
+     "hu": "Évente augusztus közepén a Suvilahti negyedben (körülbelül 3-4 km-re a strandtól); a 2026-os kiadás augusztus 14-16.",
+     "ro": "Anual la mijlocul lunii august în cartierul Suvilahti (la aproximativ 3-4 km de plajă); ediția 2026 pe 14-16 august",
+     "en": "Annually in mid-August at the Suvilahti district (about 3-4 km from the beach); 2026 edition 14-16 August"
+    },
     "date": "2026-08-14",
-    "blurb": "Major three-day urban music and arts festival drawing around 90,000 visitors. 2026 line-up includes Florence + The Machine, Nick Cave & The Bad Seeds and Turnstile.",
+    "blurb": {
+     "de": "Großes dreitägiges Urban-Musik- und Kunstfestival mit rund 90.000 Besuchern. Das Line-up 2026 umfasst Florence + The Machine, Nick Cave & The Bad Seeds und Turnstile.",
+     "hu": "Nagy háromnapos városi zenei és művészeti fesztivál, körülbelül 90.000 látogatóval. A 2026-os fellépők között van Florence + The Machine, Nick Cave & The Bad Seeds és a Turnstile.",
+     "ro": "Festival urban major de muzică și artă pe trei zile, care atrage aproximativ 90.000 de vizitatori. Line-up-ul din 2026 include Florence + The Machine, Nick Cave & The Bad Seeds și Turnstile.",
+     "en": "Major three-day urban music and arts festival drawing around 90,000 visitors. 2026 line-up includes Florence + The Machine, Nick Cave & The Bad Seeds and Turnstile."
+    },
     "source_url": "https://www.visitfinland.com/en/product/1a4b41d2-6ae3-4d1c-94bc-37a57864e0bd/flow-festival-2026/",
     "image_url": ""
    },
    {
-    "name": "Helsinki Festival (Helsingin juhlaviikot)",
+    "name": {
+     "de": "Helsinki Festival (Helsingin juhlaviikot)",
+     "hu": "Helsinki Festival (Helsingin juhlaviikot)",
+     "ro": "Helsinki Festival (Helsingin juhlaviikot)",
+     "en": "Helsinki Festival (Helsingin juhlaviikot)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "Annually from mid-August into early September across central Helsinki venues; 2026 edition 18 August - 5 September",
+    "when": {
+     "de": "Jährlich von Mitte August bis Anfang September an verschiedenen Veranstaltungsorten im Zentrum Helsinkis; Ausgabe 2026 vom 18. August bis 5. September",
+     "hu": "Évente augusztus közepétől szeptember elejéig a belvárosi helyszíneken; a 2026-os kiadás augusztus 18-tól szeptember 5-ig",
+     "ro": "Anual de la mijlocul lunii august până la începutul lunii septembrie în locații din centrul Helsinkiului; ediția 2026 pe 18 august - 5 septembrie",
+     "en": "Annually from mid-August into early September across central Helsinki venues; 2026 edition 18 August - 5 September"
+    },
     "date": "2026-08-18",
-    "blurb": "Finland's largest multidisciplinary arts festival spanning music, dance, film and theatre at venues across central Helsinki, a short distance from the beach.",
+    "blurb": {
+     "de": "Finnlands größtes multidisziplinäres Kunstfestival mit Musik, Tanz, Film und Theater an Veranstaltungsorten im Zentrum Helsinkis, in kurzer Entfernung zum Strand.",
+     "hu": "Finnország legnagyobb multidiszciplináris művészeti fesztiválja, amely zenét, táncot, filmet és színházat kínál a belvárosi helyszíneken, rövid távolságra a strandtól.",
+     "ro": "Cel mai mare festival de artă multidisciplinară din Finlanda, cu muzică, dans, film și teatru în locații din centrul Helsinkiului, la scurtă distanță de plajă.",
+     "en": "Finland's largest multidisciplinary arts festival spanning music, dance, film and theatre at venues across central Helsinki, a short distance from the beach."
+    },
     "source_url": "https://helsinkifestival.fi/en/",
     "image_url": ""
    },
    {
-    "name": "Weekend Festival Finland",
+    "name": {
+     "de": "Weekend Festival Finland",
+     "hu": "Weekend Festival Finland",
+     "ro": "Weekend Festival Finland",
+     "en": "Weekend Festival Finland"
+    },
     "type": "music",
     "recurring": true,
-    "when": "Annually in summer in the Helsinki area; previously hosted at Hietaniemi beach (2018) before moving to other Helsinki sites",
+    "when": {
+     "de": "Jährlich im Sommer im Raum Helsinki; fand zuvor am Hietaniemi-Strand (2018) statt, bevor es an andere Standorte in Helsinki verlegt wurde",
+     "hu": "Évente nyáron a Helsinki térségben; korábban a Hietaniemi strandon (2018) rendezték, mielőtt más helsinki helyszínekre költözött",
+     "ro": "Anual vara în zona Helsinki; a avut loc anterior pe plaja Hietaniemi (2018) înainte de a se muta în alte locații din Helsinki",
+     "en": "Annually in summer in the Helsinki area; previously hosted at Hietaniemi beach (2018) before moving to other Helsinki sites"
+    },
     "date": "",
-    "blurb": "Large electronic dance music festival in the Helsinki region. It was held at Hietaniemi beach in 2018 as a three-day event before relocating to Suvilahti.",
+    "blurb": {
+     "de": "Großes elektronisches Tanzmusikfestival in der Region Helsinki. Es fand 2018 als dreitägige Veranstaltung am Hietaniemi-Strand statt, bevor es nach Suvilahti verlegt wurde.",
+     "hu": "Nagy elektronikus tánczenei fesztivál a Helsinki régióban. 2018-ban háromnapos eseményként a Hietaniemi strandon rendezték, mielőtt Suvilahtiba költözött.",
+     "ro": "Festival mare de muzică electronică de dans în regiunea Helsinki. A avut loc pe plaja Hietaniemi în 2018 ca eveniment de trei zile, înainte de a se reloca la Suvilahti.",
+     "en": "Large electronic dance music festival in the Helsinki region. It was held at Hietaniemi beach in 2018 as a three-day event before relocating to Suvilahti."
+    },
     "source_url": "https://en.wikipedia.org/wiki/Weekend_Festival",
     "image_url": ""
+   }
+  ]
+ },
+ "faboda": {
+  "beach": "Fäboda",
+  "town": "Jakobstad (Pietarsaari)",
+  "country": "Finland",
+  "events": [
+   {
+    "name": {
+     "de": "Fäboda Vinterdag",
+     "hu": "Fäboda Vinterdag",
+     "ro": "Fäboda Vinterdag",
+     "en": "Fäboda Vinterdag"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Februar (2026: 7. Februar, 10:00-13:00)",
+     "hu": "évente februárban (2026: február 7., 10:00-13:00)",
+     "ro": "anual în februarie (2026: 7 februarie, 10:00-13:00)",
+     "en": "annually in February (2026: 7 February, 10:00-13:00)"
+    },
+    "date": "2026-02-07",
+    "blurb": {
+     "de": "Ein Wintertag im Freien im Erholungsgebiet Fäboda, organisiert vom Fäboda-projektet. Er bringt Anwohner an den Strand für winterliche Aktivitäten in der Natur.",
+     "hu": "Téli szabadtéri nap a Fäboda rekreációs területen, a Fäboda-projektet szervezésében. A lakosokat a tengerparti területre vonzza téli természeti tevékenységekre.",
+     "ro": "O zi de iarnă în aer liber, desfășurată în zona de agrement Fäboda și organizată de Fäboda-projektet. Aduce localnicii în zona de plajă pentru activități de iarnă în natură.",
+     "en": "A winter outdoor day held at Fäboda recreation area and arranged by the Fäboda-projektet. It brings residents to the beach area for winter activities in nature."
+    },
+    "source_url": "https://www.facebook.com/stadenjakobstadpietarsaarenkaupunki/posts/f%C3%A4boda-projektet-arrangerar-f%C3%A4boda-vinterdag-722026-klockan-1013-%EF%B8%8F-plats-f%C3%A4boda-/1468504401951843/"
+   },
+   {
+    "name": {
+     "de": "Fäboda – geführter barrierefreier Natur- und Geschichtsspaziergang (Jakobs Dagar)",
+     "hu": "Fäboda – vezetett akadálymentes természet- és történelemséta (Jakobs Dagar)",
+     "ro": "Fäboda – plimbare ghidată accesibilă în natură și istorie (Jakobs Dagar)",
+     "en": "Fäboda – guided accessible nature and history walk (Jakobs Dagar)"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "jährlich während der Jakobs Dagar im Juli",
+     "hu": "évente a Jakobs Dagar alatt júliusban",
+     "ro": "anual în timpul Jakobs Dagar în iulie",
+     "en": "annually during Jakobs Dagar in July"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein kostenloser 1,5-stündiger geführter barrierefreier Rundgang ab dem Parkplatz der Fäboda Kaffestuga, geleitet von Jakobstadsnejdens Guider / Visit Jakobstad. Er umfasst die Wege, Wälder, Feuchtgebiete, einen Aussichtspunkt und einen Vogelbeobachtungsturm sowie die Geschichte des Gebiets als historisches Weideland.",
+     "hu": "Ingyenes 1,5 órás vezetett akadálymentes séta a Fäboda Kaffestuga parkolójától, a Jakobstadsnejdens Guider / Visit Jakobstad vezetésével. Lefedi az ösvényeket, erdőket, vizes élőhelyeket, egy kilátópontot és egy madárlest, valamint a terület történetét mint történelmi legelőt.",
+     "ro": "O plimbare ghidată gratuită de 1,5 ore pe un traseu accesibil, care pornește de la parcarea Fäboda Kaffestuga, condusă de Jakobstadsnejdens Guider / Visit Jakobstad. Acoperă traseele, pădurile, zonele umede, un punct de observație și un turn pentru păsări, precum și istoria zonei ca pășune istorică.",
+     "en": "A free 1.5-hour guided accessible route starting from the Fäboda Kaffestuga parking area, led by Jakobstadsnejdens Guider / Visit Jakobstad. It covers the trails, forests, wetlands, an observation point and a bird tower, and the area's history as historic pastureland."
+    },
+    "source_url": "https://jakobsdagar.fi/event/11592/"
+   },
+   {
+    "name": {
+     "de": "Jakobs Dagar",
+     "hu": "Jakobs Dagar",
+     "ro": "Jakobs Dagar",
+     "en": "Jakobs Dagar"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Juli (2026: 19.-26. Juli)",
+     "hu": "évente júliusban (2026: július 19-26.)",
+     "ro": "anual în iulie (2026: 19-26 iulie)",
+     "en": "annually in July (2026: 19-26 July)"
+    },
+    "date": "2026-07-19",
+    "blurb": {
+     "de": "Jakobstads größtes jährliches Stadtfest, das etwa eine Woche im Juli mit Musik, Tanz, Märkten und kulturellem Programm dauert. Es zieht über zehntausend Besucher an und beinhaltet den geführten Fäboda-Spaziergang in seinem Programm.",
+     "hu": "Jakobstad legnagyobb éves városi fesztiválja, amely körülbelül egy hétig tart júliusban, zenével, tánccal, piacokkal és kulturális programmal. Több mint tízezer látogatót vonz, és programjában szerepel a vezetett Fäboda-séta is.",
+     "ro": "Cel mai mare festival anual al orașului Jakobstad, care durează aproximativ o săptămână în iulie, cu muzică, dans, târguri și program cultural. Atrage peste zece mii de vizitatori și include plimbarea ghidată Fäboda în programul său.",
+     "en": "Jakobstad's largest annual town festival, running for about a week each July with music, dance, markets and cultural programme. It draws over ten thousand visitors and includes the Fäboda guided walk in its programme."
+    },
+    "source_url": "https://en.visitjakobstad.fi/2026/05/15/summer-events-in-the-jakobstad-region/"
+   }
+  ]
+ },
+ "kalajoen-hiekkasarkat": {
+  "beach": "Kalajoen Hiekkasärkät",
+  "town": "Kalajoki",
+  "country": "Finland",
+  "events": [
+   {
+    "name": {
+     "de": "Kalajoki Juhannus (Midsummer Festival)",
+     "hu": "Kalajoki Juhannus (Midsummer Festival)",
+     "ro": "Kalajoki Juhannus (Midsummer Festival)",
+     "en": "Kalajoki Juhannus (Midsummer Festival)"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich um die Mittsommerzeit; 2026: 19.-22. Juni",
+     "hu": "évente a nyári napforduló környékén; 2026: június 19-22.",
+     "ro": "anual în preajma solstițiului de vară; 2026: 19-22 iunie",
+     "en": "annually around midsummer; 2026: June 19-22"
+    },
+    "date": "2026-06-19",
+    "blurb": {
+     "de": "Mittsommer-Wochenendfestival am Hiekkasärkät-Strandbereich mit Livemusik auf mehreren Bühnen, einschließlich des Dyyni Midsummer Sound Festivals, sowie einem Strandfeuer. Es ist eine der größten jährlichen Veranstaltungen in Kalajoki.",
+     "hu": "Nyári napfordulós hétvégi fesztivál a Hiekkasärkät tengerparti területén, élőzenével több színpadon, beleértve a Dyyni Midsummer Sound fesztivált, valamint egy tábortűzzel a strandon. Ez Kalajoki egyik legnagyobb éves rendezvénye.",
+     "ro": "Festival de weekend de solstițiu de vară în zona plajei Hiekkasärkät, cu muzică live pe mai multe scene, inclusiv festivalul Dyyni Midsummer Sound, plus un foc de tabără pe plajă. Este unul dintre cele mai mari evenimente anuale din Kalajoki.",
+     "en": "Midsummer weekend festival at the Hiekkasärkät beach area with live music on multiple stages, including the Dyyni Midsummer Sound festival, plus a beach bonfire. It is one of Kalajoki's largest annual events."
+    },
+    "source_url": "https://visitkalajoki.fi/juhannus-kalajoella/"
+   },
+   {
+    "name": {
+     "de": "Kalajoen Venetsialaiset (Venetian Festival)",
+     "hu": "Kalajoen Venetsialaiset (Venetian Festival)",
+     "ro": "Kalajoen Venetsialaiset (Venetian Festival)",
+     "en": "Kalajoen Venetsialaiset (Venetian Festival)"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am letzten Augustwochenende; in der Regel 25.-27. August",
+     "hu": "évente augusztus utolsó hétvégéjén; általában augusztus 25-27.",
+     "ro": "anual în ultimul weekend din august; de obicei 25-27 august",
+     "en": "annually the last weekend of August; typically 25-27 August"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Endsommerfestival, bei dem Tausende von Lichtern, Laternen und Lagerfeuer den Hiekkasärkät-Strand und die Ufer säumen, gipfelnd in einem der größten Feuerwerke Finnlands über dem Wasser. Es markiert den Übergang vom Sommer zum Herbst.",
+     "hu": "Nyárvégi fesztivál, ahol több ezer fény, lámpás és tábortűz szegélyezi a Hiekkasärkät strandot és partot, tetőzve Finnország egyik legnagyobb tűzijátékával a víz felett. Ez jelzi az átmenetet a nyárból az őszbe.",
+     "ro": "Festival de sfârșit de vară, unde mii de lumini, felinare și focuri de tabără aliniază plaja și țărmurile Hiekkasärkät, culminând cu unul dintre cele mai mari focuri de artificii din Finlanda deasupra apei. Marchează tranziția de la vară la toamnă.",
+     "en": "End-of-summer festival where thousands of lights, lanterns and bonfires line the Hiekkasärkät beach and shores, culminating in one of Finland's largest fireworks displays over the water. It marks the transition from summer to autumn."
+    },
+    "source_url": "https://visitkalajoki.fi/en/events/kalajoki-venetian-festival/"
+   },
+   {
+    "name": {
+     "de": "Beachfutis Finnish Open",
+     "hu": "Beachfutis Finnish Open",
+     "ro": "Beachfutis Finnish Open",
+     "en": "Beachfutis Finnish Open"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "2026: 12.-13. Juni",
+     "hu": "2026: június 12-13.",
+     "ro": "2026: 12-13 iunie",
+     "en": "2026: June 12-13"
+    },
+    "date": "2026-06-12",
+    "blurb": {
+     "de": "Beachfußballturnier auf dem Sand des Hiekkasärkät-Strandes in Kalajoki, mit Männer-, Frauen-, Freizeit- und gemischten Divisionen.",
+     "hu": "Strandfocitorna a Hiekkasärkät tengerpart homokján Kalajokiban, férfi, női, szabadidős és vegyes divíziókkal.",
+     "ro": "Turneu de fotbal pe plajă pe nisipul plajei Hiekkasärkät din Kalajoki, cu divizii masculine, feminine, de agrement și mixte.",
+     "en": "Beach football tournament held on the Hiekkasärkät beach sands in Kalajoki, with men's, women's, recreational and mixed divisions."
+    },
+    "source_url": "https://beachfutiskalajoki.fi/"
+   },
+   {
+    "name": {
+     "de": "Beach Volley SM-kiertue (Finnish Beach Volleyball Championship Tour), Kalajoki stop",
+     "hu": "Beach Volley SM-kiertue (Finnish Beach Volleyball Championship Tour), Kalajoki stop",
+     "ro": "Beach Volley SM-kiertue (Finnish Beach Volleyball Championship Tour), Kalajoki stop",
+     "en": "Beach Volley SM-kiertue (Finnish Beach Volleyball Championship Tour), Kalajoki stop"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "Sommer; ein Stopp in Kalajoki auf der nationalen Tour, Termine variieren je nach Kategorie",
+     "hu": "nyár; egy kalajoki állomás a nemzeti körúton, időpontok kategóriánként változnak",
+     "ro": "vară; o oprire în Kalajoki pe circuitul național, datele variază în funcție de categorie",
+     "en": "summer; a Kalajoki stop on the national tour, dates vary by category"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Stopp der finnischen nationalen Beachvolleyball-Meisterschaftstour, gespielt auf den Plätzen am Hiekkasärkät-Strand, der viele der besten Spieler Finnlands anzieht. Der Strand hat vier Plätze, die den ganzen Sommer über geöffnet sind.",
+     "hu": "A finn nemzeti strandröplabda-bajnoki körút egyik állomása, amelyet a Hiekkasärkät tengerpart pályáin játszanak, és Finnország számos legjobb játékosát vonzza. A strandon négy pálya található, amelyek egész nyáron nyitva vannak.",
+     "ro": "O oprire a circuitului național finlandez de campionat de volei pe plajă, jucată pe terenurile de la plaja Hiekkasärkät, atrăgând mulți dintre cei mai buni jucători ai Finlandei. Plaja are patru terenuri deschise pe tot parcursul verii.",
+     "en": "A stop of the Finnish national beach volleyball championship tour played on the courts at Hiekkasärkät beach, drawing many of Finland's top players. The beach has four courts open through the summer."
+    },
+    "source_url": "https://www.lentopallo.fi/tapahtumat/beach-volley-sm-kiertue-kalajoki/"
+   }
+  ]
+ },
+ "nallikari-beach": {
+  "beach": "Nallikari Beach",
+  "town": "Oulu",
+  "country": "Finland",
+  "events": [
+   {
+    "name": {
+     "de": "Nallikari SnowFest",
+     "hu": "Nallikari SnowFest",
+     "ro": "Nallikari SnowFest",
+     "en": "Nallikari SnowFest"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "10. bis 15. Februar 2026",
+     "hu": "2026. február 10. – február 15.",
+     "ro": "10 – 15 februarie 2026",
+     "en": "2026-02-10 to 2026-02-15"
+    },
+    "date": "2026-02-10",
+    "blurb": {
+     "de": "Internationaler Schneeskulpturen-Wettbewerb am Nallikari, bei dem Teams aus über einem Dutzend Ländern 3x3x3 Meter große Schneeblöcke bearbeiten. Teil des Programms der Kulturhauptstadt Europas Oulu 2026, begleitet von einem Winterdorf.",
+     "hu": "Nemzetközi hószobor-verseny a Nallikari területén, ahol több mint egy tucat ország csapatai faragnak 3x3x3 méteres hótömböket. Az Oulu 2026 Európa Kulturális Fővárosa program része, téli faluval együtt.",
+     "ro": "Concurs internațional de sculptură în zăpadă desfășurat la Nallikari, cu echipe din peste o duzină de țări care cioplesc blocuri de zăpadă de 3x3x3 metri. Parte a programului Oulu 2026 Capitală Europeană a Culturii, alături de un sat de iarnă.",
+     "en": "International snow sculpture competition held at Nallikari, with teams from over a dozen countries carving 3x3x3 metre snow blocks. Part of the Oulu 2026 European Capital of Culture programme, alongside a winter village."
+    },
+    "source_url": "https://nallikari.fi/en/nallikari-snow-fest-an-international-snow-sculpture-competition-takes-over-nallikari-from-10-15-2-check-out-the-program/"
+   },
+   {
+    "name": {
+     "de": "Frozen People Festival",
+     "hu": "Frozen People Festival",
+     "ro": "Frozen People Festival",
+     "en": "Frozen People Festival"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "28. Februar 2026, 14:00 bis 22:00 Uhr",
+     "hu": "2026. február 28., 14:00 – 22:00",
+     "ro": "28 februarie 2026, 14:00 – 22:00",
+     "en": "2026-02-28, 14:00 to 22:00"
+    },
+    "date": "2026-02-28",
+    "blurb": {
+     "de": "Open-Air-Elektronikmusik- und nordisches Kunstfestival auf dem zugefrorenen Meer am Nallikari. Die Ausgabe 2026 läuft samstags von 14:00 bis 22:00 Uhr.",
+     "hu": "Szabadtéri elektronikus zenei és északi művészeti fesztivál a Nallikari befagyott tengerén. A 2026-os kiadás szombaton 14:00-tól 22:00-ig tart.",
+     "ro": "Festival în aer liber de muzică electronică și artă nordică, organizat pe marea înghețată la Nallikari. Ediția 2026 are loc sâmbătă, între 14:00 și 22:00.",
+     "en": "Outdoor electronic music and northern art festival staged on the frozen sea at Nallikari. The 2026 edition runs Saturday from 14:00 to 22:00."
+    },
+    "source_url": "https://oulu2026.eu/en/frozen-people-once-again-takes-over-the-frozen-sea-the-international-festival-of-electronic-music-and-northern-art-returns-to-nallikari/"
+   },
+   {
+    "name": {
+     "de": "Ravintola Huvilinna Midsummer Dancing",
+     "hu": "Ravintola Huvilinna Midsummer Dancing",
+     "ro": "Ravintola Huvilinna Midsummer Dancing",
+     "en": "Ravintola Huvilinna Midsummer Dancing"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "19. Juni 2026",
+     "hu": "2026. június 19.",
+     "ro": "19 iunie 2026",
+     "en": "2026-06-19"
+    },
+    "date": "2026-06-19",
+    "blurb": {
+     "de": "Mittsommer-Tanzveranstaltung im Restaurant Huvilinna am Nallikari-Strand.",
+     "hu": "Szentivánéji táncesemény a Nallikari strandon található Huvilinna étteremben.",
+     "ro": "Eveniment de dans de Miezul verii la Restaurantul Huvilinna, pe plaja Nallikari.",
+     "en": "Midsummer dance event held at Restaurant Huvilinna at Nallikari beach."
+    },
+    "source_url": "https://nallikari.fi/tapahtumat/"
+   },
+   {
+    "name": {
+     "de": "Midnight Sun Run Oulu",
+     "hu": "Midnight Sun Run Oulu",
+     "ro": "Midnight Sun Run Oulu",
+     "en": "Midnight Sun Run Oulu"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "4. bis 5. Juli 2026",
+     "hu": "2026. július 4. – július 5.",
+     "ro": "4 – 5 iulie 2026",
+     "en": "2026-07-04 to 2026-07-05"
+    },
+    "date": "2026-07-04",
+    "blurb": {
+     "de": "Laufveranstaltung, die am Nallikari startet und endet, mit 10-km-, Halbmarathon- und Marathonstrecken unter der Mitternachtssonne.",
+     "hu": "Futóesemény, amely a Nallikarinál indul és ér véget, 10 km-es, félmaratoni és maratoni távokkal az éjféli nap alatt.",
+     "ro": "Eveniment de alergare care pornește și se termină la Nallikari, oferind trasee de 10 km, semimaraton și maraton sub soarele de la miezul nopții.",
+     "en": "Running event that starts and finishes at Nallikari, offering 10 km, half-marathon and marathon routes under the midnight sun."
+    },
+    "source_url": "https://nallikari.fi/tapahtumat/"
+   },
+   {
+    "name": {
+     "de": "Patio Live concerts at Ravintola Huvilinna",
+     "hu": "Patio Live concerts at Ravintola Huvilinna",
+     "ro": "Patio Live concerts at Ravintola Huvilinna",
+     "en": "Patio Live concerts at Ravintola Huvilinna"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "Sommerliche Mittwochabende (1., 8., 15., 22., 29. Juli 2026)",
+     "hu": "Nyári szerda esték (2026. július 1., 8., 15., 22., 29.)",
+     "ro": "Serile de miercuri din vară (1, 8, 15, 22, 29 iulie 2026)",
+     "en": "summer Wednesday evenings (July 1, 8, 15, 22, 29 in 2026)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Live-Musik-Aufführungen an Sommerabenden im Restaurant Huvilinna im Vauhtipuisto-Gebiet am Nallikari. Lokale Bands und Künstler spielen auf der Strandterrasse.",
+     "hu": "Élőzenei előadások nyári estéken a Nallikari Vauhtipuisto területén található Huvilinna étteremben. Helyi zenekarok és előadók játszanak a tengerparti teraszon.",
+     "ro": "Spectacole de muzică live în serile de vară la Restaurantul Huvilinna, în zona Vauhtipuisto de la Nallikari. Trupe și artiști locali cântă pe terasa de pe malul mării.",
+     "en": "Live music performances on summer evenings at Restaurant Huvilinna in the Vauhtipuisto area at Nallikari. Local bands and artists play on the seaside patio."
+    },
+    "source_url": "https://nallikari.fi/tapahtumat/"
+   },
+   {
+    "name": {
+     "de": "Leipaa ja sirkushuveja (Bread and Circus) Festival",
+     "hu": "Leipaa ja sirkushuveja (Bread and Circus) Festival",
+     "ro": "Leipaa ja sirkushuveja (Bread and Circus) Festival",
+     "en": "Leipaa ja sirkushuveja (Bread and Circus) Festival"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "15. August 2026, 12:00 bis 19:00 Uhr",
+     "hu": "2026. augusztus 15., 12:00 – 19:00",
+     "ro": "15 august 2026, 12:00 – 19:00",
+     "en": "2026-08-15, 12:00 to 19:00"
+    },
+    "date": "2026-08-15",
+    "blurb": {
+     "de": "Kostenloses Familienfestival am Nallikari mit Zirkuskunst und lokalen Speisen. Findet Mitte August statt.",
+     "hu": "Ingyenes családi fesztivál a Nallikarinál, cirkuszi művészettel és helyi ételekkel. Augusztus közepén kerül megrendezésre.",
+     "ro": "Festival gratuit pentru familii la Nallikari, cu arte de circ și mâncare locală. Are loc la jumătatea lunii august.",
+     "en": "Free family festival at Nallikari featuring circus arts and local food. Held in mid-August."
+    },
+    "source_url": "https://nallikari.fi/tapahtumat/"
+   },
+   {
+    "name": {
+     "de": "Mutajuoksu obstacle course race",
+     "hu": "Mutajuoksu obstacle course race",
+     "ro": "Mutajuoksu obstacle course race",
+     "en": "Mutajuoksu obstacle course race"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "29. August 2026",
+     "hu": "2026. augusztus 29.",
+     "ro": "29 august 2026",
+     "en": "2026-08-29"
+    },
+    "date": "2026-08-29",
+    "blurb": {
+     "de": "Hindernislauf am Nallikari Ende August.",
+     "hu": "Akadálypályás futóverseny a Nallikarinál augusztus végén.",
+     "ro": "Cursă cu obstacole desfășurată la Nallikari la sfârșitul lunii august.",
+     "en": "Obstacle course race held at Nallikari in late August."
+    },
+    "source_url": "https://nallikari.fi/tapahtumat/"
+   }
+  ]
+ },
+ "pitkathiekat": {
+  "beach": "Pitkathiekat",
+  "town": "Hamina",
+  "country": "Finland",
+  "events": [
+   {
+    "name": {
+     "de": "Hamina Tattoo",
+     "hu": "Hamina Tattoo",
+     "ro": "Hamina Tattoo",
+     "en": "Hamina Tattoo"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "alle zwei Jahre Ende Juli bis Anfang August; nächstes Mal 27. Juli bis 1. August 2026",
+     "hu": "kétévente július végétől augusztus elejéig; legközelebb 2026. július 27-től augusztus 1-ig",
+     "ro": "bienal, de la sfârșitul lunii iulie până la începutul lunii august; următoarea ediție 27 iulie – 1 august 2026",
+     "en": "biennially in late July to early August; next 27 July to 1 August 2026"
+    },
+    "date": "2026-07-27",
+    "blurb": {
+     "de": "Hamina Tattoo ist ein internationales Militärmusikfestival in der Stadt Hamina mit Konzerten, einer Parade und kostenlosen öffentlichen Veranstaltungen. Die Ausgabe 2026 läuft vom 27. Juli bis 1. August.",
+     "hu": "A Hamina Tattoo egy nemzetközi katonai zenei fesztivál Hamina városában, koncertekkel, felvonulással és ingyenes nyilvános eseményekkel. A 2026-os kiadás július 27-től augusztus 1-ig tart.",
+     "ro": "Hamina Tattoo este un festival internațional de muzică militară desfășurat în orașul Hamina, cu concerte, o paradă și evenimente publice gratuite. Ediția din 2026 are loc între 27 iulie și 1 august.",
+     "en": "Hamina Tattoo is an international military music festival held in the town of Hamina, with concerts, a parade and free public events. The 2026 edition runs 27 July to 1 August."
+    },
+    "source_url": "https://www.hamina.fi/en/hamina-tattoo-2026-itameren-lumoa-ja-uusi-ilme/"
+   },
+   {
+    "name": {
+     "de": "Hamina Tattoojuoksu (Tattoo Run)",
+     "hu": "Hamina Tattoojuoksu (Tattoo Run)",
+     "ro": "Hamina Tattoojuoksu (Tattoo Run)",
+     "en": "Hamina Tattoojuoksu (Tattoo Run)"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Anfang August; Ausgabe 2026 am 1. August 2026",
+     "hu": "évente augusztus elején; a 2026-os kiadás 2026. augusztus 1-jén",
+     "ro": "anual la începutul lunii august; ediția 2026 pe 1 august 2026",
+     "en": "annually in early August; 2026 edition on 1 August 2026"
+    },
+    "date": "2026-08-01",
+    "blurb": {
+     "de": "Ein Laufevent in Hamina, startend an Tervasaari und Tullimakasiininranta am Wasser, mit einem Halbmarathon, 10 km, 5 km und Kinderläufen. Die Veranstaltung 2026 ist die fünfte Ausgabe.",
+     "hu": "Futóesemény Haminában, a Tervasaari és a Tullimakasiininranta vízparti helyszíneiről indulva, félmaratonnal, 10 km-es, 5 km-es és gyermekfutásokkal. A 2026-os esemény az ötödik kiadás.",
+     "ro": "Un eveniment de alergare în Hamina, care pornește de la Tervasaari și Tullimakasiininranta pe malul apei, cu un semimaraton, 10 km, 5 km și curse pentru copii. Evenimentul din 2026 este a cincea ediție.",
+     "en": "A running event in Hamina starting at Tervasaari and Tullimakasiininranta on the waterfront, with a half marathon, 10 km, 5 km and children's races. The 2026 event is the fifth edition."
+    },
+    "source_url": "https://www.vehkalahdenveikot.fi/yleisurheilu/hamina-tattoojuoksu/"
+   },
+   {
+    "name": {
+     "de": "Midsummer Picnic and Disc Dancing",
+     "hu": "Midsummer Picnic and Disc Dancing",
+     "ro": "Midsummer Picnic and Disc Dancing",
+     "en": "Midsummer Picnic and Disc Dancing"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich zu Mittsommer; 2026 am 20. Juni, 11:00 bis 15:00",
+     "hu": "évente Szent Iván napján; 2026. június 20-án, 11:00-tól 15:00-ig",
+     "ro": "anual de Midsummer; în 2026 pe 20 iunie, între 11:00 și 15:00",
+     "en": "annually at Midsummer; 2026 on 20 June, 11:00 to 15:00"
+    },
+    "date": "2026-06-20",
+    "blurb": {
+     "de": "Ein Mittsommer-Picknick-Event auf dem Marktplatz von Hamina, das sich an Menschen richtet, die über die Feiertage in der Stadt bleiben. Es findet am 20. Juni 2026 von 11:00 bis 15:00 Uhr statt.",
+     "hu": "Szent Iván-napi piknik esemény Hamina piacterén, azoknak szólva, akik az ünnep alatt a városban maradnak. 2026. június 20-án, 11:00 és 15:00 között tartják.",
+     "ro": "Un eveniment de picnic de Midsummer în Piața Hamina, destinat persoanelor care rămân în oraș în timpul sărbătorii. Are loc pe 20 iunie 2026, între 11:00 și 15:00.",
+     "en": "A Midsummer picnic event at Hamina Market Square aimed at people staying in town over the holiday. It is held 20 June 2026 from 11:00 to 15:00."
+    },
+    "source_url": "https://www.hamina.fi/en/tapahtumat/"
+   },
+   {
+    "name": {
+     "de": "Hamina Summer Exhibitions (Tove Jansson paintings)",
+     "hu": "Hamina Summer Exhibitions (Tove Jansson paintings)",
+     "ro": "Hamina Summer Exhibitions (Tove Jansson paintings)",
+     "en": "Hamina Summer Exhibitions (Tove Jansson paintings)"
+    },
+    "type": "culture",
+    "recurring": false,
+    "when": {
+     "de": "22. Juni bis 22. Juli 2026",
+     "hu": "2026. június 22-től július 22-ig",
+     "ro": "22 iunie – 22 iulie 2026",
+     "en": "22 June to 22 July 2026"
+    },
+    "date": "2026-06-22",
+    "blurb": {
+     "de": "Eine Ausstellung im Rathaus von Hamina, die zwei Gemälde von Tove Jansson zeigt, die die Stadt Hamina 1952 bei ihr in Auftrag gab. Sie läuft vom 22. Juni bis 22. Juli 2026.",
+     "hu": "Kiállítás Hamina városházán, amely Tove Jansson két festményét mutatja be, amelyeket Hamina városa rendelt meg tőle 1952-ben. 2026. június 22-től július 22-ig tart.",
+     "ro": "O expoziție la Primăria Hamina, care prezintă două picturi de Tove Jansson, comandate de orașul Hamina în 1952. Are loc între 22 iunie și 22 iulie 2026.",
+     "en": "An exhibition at Hamina Town Hall showing two paintings by Tove Jansson that the city of Hamina commissioned from her in 1952. It runs 22 June to 22 July 2026."
+    },
+    "source_url": "https://www.hamina.fi/en/tapahtumat/"
+   }
+  ]
+ },
+ "pyynikki-beach": {
+  "beach": "Pyynikki Beach",
+  "town": "Tampere",
+  "country": "Finland",
+  "events": [
+   {
+    "name": {
+     "de": "Festivaali",
+     "hu": "Festivaali",
+     "ro": "Festivaali",
+     "en": "Festivaali"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im August, am Pyynikki",
+     "hu": "évente augusztusban, a Pyynikki területén",
+     "ro": "anual în august, la Pyynikki",
+     "en": "annually in August, at Pyynikki"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Indie- und Popmusik-Festival im Pyynikki-Gebiet in Tampere, nahe dem Pyynikki-Sommertheater, mit Essens- und Getränkeständen. Quellen nennen Termine im späten August 2026.",
+     "hu": "Egy indie- és popzenei fesztivál a tamperei Pyynikki területén, a Pyynikki Nyári Színház közelében, étel- és kézműves italstandokkal. Források szerint a 2026-os dátumok augusztus végén lesznek.",
+     "ro": "Un festival de muzică indie și pop desfășurat în zona Pyynikki din Tampere, lângă Teatrul de Vară Pyynikki, cu standuri de mâncare și băuturi artizanale. Sursele indică datele din 2026 la sfârșitul lunii august.",
+     "en": "An indie and pop music festival held at the Pyynikki area in Tampere, near the Pyynikki Summer Theatre, with food and craft beverage stalls. Sources list 2026 dates in late August."
+    },
+    "source_url": "https://www.tiketti.fi/festivaali-2026-pyynikki-tampere-tickets/110984"
+   },
+   {
+    "name": {
+     "de": "Pyynikki Summer Theatre Saison",
+     "hu": "Pyynikki Nyári Színház évad",
+     "ro": "Sezonul Teatrului de Vară Pyynikki",
+     "en": "Pyynikki Summer Theatre season"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "jährlich jeden Sommer, Juni bis August",
+     "hu": "évente minden nyáron, júniustól augusztusig",
+     "ro": "anual în fiecare vară, din iunie până în august",
+     "en": "annually each summer, June to August"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Das Pyynikki-Sommertheater ist ein Freilufttheater mit einem drehbaren Zuschauerraum auf dem Pyynikki-Kamm neben dem Strand, das den Sommer über Theaterstücke und Konzerte zeigt. Es beherbergt namhafte Musikacts wie ein Neljä Ruusua Konzert am 13. August 2026.",
+     "hu": "A Pyynikki Nyári Színház egy szabadtéri színház forgó nézőtérrel, a Pyynikki gerincen, a strand mellett, amely nyáron színdarabokat és koncerteket kínál. Olyan neves zenei fellépőket fogad, mint a Neljä Ruusua koncertje 2026. augusztus 13-án.",
+     "ro": "Teatrul de Vară Pyynikki este un teatru în aer liber cu o sală rotativă, situat pe creasta Pyynikki lângă plajă, care găzduiește piese de teatru și concerte pe tot parcursul verii. Include nume muzicale precum un concert Neljä Ruusua programat pe 13 august 2026.",
+     "en": "Pyynikki Summer Theatre is an open-air theatre with a rotating auditorium located in the Pyynikki ridge area beside the beach, running plays and concerts through the summer. It hosts named music acts such as a Neljä Ruusua concert dated 13 August 2026."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Pyynikki_Summer_Theatre"
+   },
+   {
+    "name": {
+     "de": "Viikinsaari Circumnavigation Swim (Viikinsaaren ympäriuinti)",
+     "hu": "Viikinsaari Circumnavigation Swim (Viikinsaaren ympäriuinti)",
+     "ro": "Viikinsaari Circumnavigation Swim (Viikinsaaren ympäriuinti)",
+     "en": "Viikinsaari Circumnavigation Swim (Viikinsaaren ympäriuinti)"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Juli, auf dem Pyhäjärvi-See in Tampere",
+     "hu": "évente júliusban, a tamperei Pyhäjärvi-tavon",
+     "ro": "anual în iulie, pe lacul Pyhäjärvi din Tampere",
+     "en": "annually in July, on Lake Pyhäjärvi at Tampere"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Freiwasserschwimmwettbewerb von etwa 2,1 km um die Insel Viikinsaari auf dem Pyhäjärvi-See, demselben See, an dem der Pyynikki-Strand liegt. Er wird im Rahmen der Tamperer Freiwasserschwimmszene organisiert.",
+     "hu": "Egy nyílt vízi úszóesemény, körülbelül 2,1 km hosszú Viikinsaari szigete körül a Pyhäjärvi-tavon, ugyanazon a tavon, amelyen a Pyynikki strand fekszik. A tamperei nyílt vízi úszás keretében szervezik.",
+     "ro": "Un eveniment de înot în ape deschise de aproximativ 2,1 km în jurul insulei Viikinsaari pe lacul Pyhäjärvi, același lac pe care se află plaja Pyynikki. Este organizat în cadrul scenei de înot în ape deschise din Tampere.",
+     "en": "An open-water swimming event of about 2.1 km around Viikinsaari island on Lake Pyhäjärvi, the same lake the Pyynikki beach sits on. It is organised within Tampere's open-water swimming scene."
+    },
+    "source_url": "https://www.openwatercalendar.com/en/tietoa-meista/"
+   }
+  ]
+ },
+ "rastila-beach": {
+  "beach": "Rastila Beach",
+  "town": "Helsinki (Rastila, Vuosaari district)",
+  "country": "Finland",
+  "events": [
+   {
+    "name": {
+     "de": "Rastila Camping öffentliche Sauna",
+     "hu": "Rastila Camping nyilvános szauna",
+     "ro": "Saună publică Rastila Camping",
+     "en": "Rastila Camping public sauna"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "Sommer, mittwochs 16:00-20:00 und samstags 10:00-14:00 (3. Juni bis 29. August 2026)",
+     "hu": "nyáron, szerdán 16:00-20:00 és szombaton 10:00-14:00 (2026. június 3-tól augusztus 29-ig)",
+     "ro": "vara, miercurea 16:00-20:00 și sâmbăta 10:00-14:00 (3 iunie - 29 august 2026)",
+     "en": "summer, Wednesdays 16:00-20:00 and Saturdays 10:00-14:00 (June 3 to August 29 in 2026)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Der Campingplatz Rastila neben dem Strand öffnet im Sommer zweimal wöchentlich eine gemischte öffentliche Sauna. Badekleidung ist erforderlich, Einzel- und 10er-Karten sind erhältlich.",
+     "hu": "A Rastila Camping a strand mellett nyáron hetente kétszer nyit egy vegyes nyilvános szaunát, fürdőruha kötelező, egyszeri és 10 alkalmas jegyek kaphatók.",
+     "ro": "Campingul Rastila, lângă plajă, deschide o saună publică mixtă de două ori pe săptămână vara, cu costum de baie obligatoriu și bilete individuale sau de 10 intrări disponibile.",
+     "en": "Rastila Camping next to the beach opens a mixed public sauna twice a week during summer, with swimsuit required and single or 10-visit tickets available."
+    },
+    "source_url": "https://rastilacamping.hel.fi/en/saunas/"
+   },
+   {
+    "name": {
+     "de": "Park-Bewegungseinheiten am Rastila Herrenhaus",
+     "hu": "Parkos edzések a Rastila Kastélynál",
+     "ro": "Sesiuni de exerciții în parc la Conacul Rastila",
+     "en": "Park exercise sessions at Rastila Manor"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "Sommer, mittwochs 17:00-17:50 (3. Juni bis 19. August 2026)",
+     "hu": "nyáron, szerdán 17:00-17:50 (2026. június 3-tól augusztus 19-ig)",
+     "ro": "vara, miercurea 17:00-17:50 (3 iunie - 19 august 2026)",
+     "en": "summer, Wednesdays 17:00-17:50 (June 3 to August 19 in 2026)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Die Stadt Helsinki bietet während der Sommersaison kostenlose wöchentliche Outdoor-Bewegungseinheiten vor dem Rastila Herrenhaus neben dem Strand an.",
+     "hu": "Helsinki városa ingyenes heti szabadtéri edzéseket szervez a Rastila Kastély előtt, a strand mellett, a nyári szezonban.",
+     "ro": "Orașul Helsinki organizează sesiuni săptămânale gratuite de exerciții în aer liber în fața Conacului Rastila, lângă plajă, pe durata sezonului estival.",
+     "en": "The City of Helsinki runs free weekly outdoor exercise sessions in front of the Rastila Manor house beside the beach during the summer season."
+    },
+    "source_url": "https://rastilacamping.hel.fi/en/services-and-activities/"
+   },
+   {
+    "name": {
+     "de": "Rastilan Kartanon Juhannus (Rastila Herrenhaus Mittsommer)",
+     "hu": "Rastilan Kartanon Juhannus (Rastila Kastély Szentivánéji Ünnepség)",
+     "ro": "Rastilan Kartanon Juhannus (Sărbătoarea Solstițiului de Vară la Conacul Rastila)",
+     "en": "Rastilan Kartanon Juhannus (Rastila Manor Midsummer)"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich um Mittsommer (Juni)",
+     "hu": "évente Szent Iván környékén (június)",
+     "ro": "anual în preajma solstițiului de vară (iunie)",
+     "en": "annually around Midsummer (June)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Das Rastila Herrenhaus am Campingplatz neben dem Strand veranstaltet eine Mittsommerfeier mit Rasenspielen wie Mölkky und Darts, traditionellem Mittsommeressen und Live-Tanzbands auf einer Außenterrasse. Der Eintritt ist frei.",
+     "hu": "A Rastila Kastély a kempingben, a strand mellett, Szentivánéji ünnepséget tart gyepjátékokkal (mölkky és darts), hagyományos Szentivánéji ételekkel és élő tánczenekarokkal egy szabadtéri teraszon. A belépés ingyenes.",
+     "ro": "Conacul Rastila, situat la campingul de lângă plajă, organizează o sărbătoare a solstițiului de vară cu jocuri pe iarbă precum mölkky și darts, mâncare tradițională de solstițiu și formații de dans live pe o terasă exterioară. Intrarea este liberă.",
+     "en": "Rastila Manor at the camping site beside the beach hosts a Midsummer celebration with lawn games such as molkky and darts, traditional Midsummer food, and live dance bands on an outdoor terrace dance floor. Admission is free."
+    },
+    "source_url": "https://www.stadissa.fi/tapahtumat/76970/rastilan-kartanon-juhannus"
+   },
+   {
+    "name": {
+     "de": "Rastilan Retkipaiva (Rastila Ausflugstag)",
+     "hu": "Rastilan Retkipaiva (Rastila Kirándulónap)",
+     "ro": "Rastilan Retkipaiva (Ziua Excursiei la Rastila)",
+     "en": "Rastilan Retkipaiva (Rastila Excursion Day)"
+    },
+    "type": "other",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Sommer",
+     "hu": "évente nyáron",
+     "ro": "anual vara",
+     "en": "annually in summer"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Outdoor-Aktionstag, der das Rastila Herrenhaus und seine Umgebung am Strand als Veranstaltungsort nutzt, mit Sport-Schnupperkursen und geführten Gebietstouren.",
+     "hu": "Egy szabadtéri tevékenységi nap, amely a Rastila Kastélyt és környékét a strand mellett használja helyszínként, sportkipróbálási lehetőségekkel és vezetett területi túrákkal.",
+     "ro": "O zi de activități în aer liber care folosește Conacul Rastila și împrejurimile sale de lângă plajă ca locație, oferind probe sportive și tururi ghidate ale zonei.",
+     "en": "An outdoor activity day using Rastila Manor and its surroundings by the beach as the venue, offering sport try-outs and guided area tours."
+    },
+    "source_url": "https://myvuosaari.fi/home/rastilan-retkipaeivae-innostaa-uuteen"
+   }
+  ]
+ },
+ "suomenlinna-beach": {
+  "beach": "Suomenlinna Beach",
+  "town": "Helsinki",
+  "country": "Finland",
+  "events": [
+   {
+    "name": {
+     "de": "Viapori Jazz",
+     "hu": "Viapori Jazz",
+     "ro": "Viapori Jazz",
+     "en": "Viapori Jazz"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende August (2026: 25.–29. August)",
+     "hu": "évente augusztus végén (2026: augusztus 25–29.)",
+     "ro": "anual la sfârșitul lunii august (2026: 25–29 august)",
+     "en": "annually late August (2026: 25-29 August)"
+    },
+    "date": "2026-08-25",
+    "blurb": {
+     "de": "Helsinkis ältestes Jazzfestival, das jedes Jahr in der letzten Augustwoche auf der Seefestung Suomenlinna stattfindet. Der Hauptveranstaltungsort ist die backsteingewölbte Tenalji-von-Fersen-Halle.",
+     "hu": "Helsinki legrégebbi jazzfesztiválja, amelyet minden év augusztusának utolsó hetében a Suomenlinna tengeri erőd szigetén rendeznek meg. A fő helyszín a téglaboltozatos Tenalji von Fersen terem.",
+     "ro": "Cel mai vechi festival de jazz din Helsinki, organizat în fiecare an în ultima săptămână din august pe insula fortăreței maritime Suomenlinna. Locul principal este sala Tenalji von Fersen, cu boltă de cărămidă.",
+     "en": "Helsinki's oldest jazz festival, held each year during the last week of August on the Suomenlinna sea fortress island. The main venue is the brick-vaulted Tenalji von Fersen hall."
+    },
+    "source_url": "https://viaporijazz.fi/"
+   },
+   {
+    "name": {
+     "de": "Where We Once Walked (Open-Air-Theater)",
+     "hu": "Where We Once Walked (szabadtéri színház)",
+     "ro": "Where We Once Walked (teatru în aer liber)",
+     "en": "Where We Once Walked (open-air theatre)"
+    },
+    "type": "culture",
+    "recurring": false,
+    "when": {
+     "de": "6. Juni bis 22. August 2026",
+     "hu": "2026. június 6-tól augusztus 22-ig",
+     "ro": "6 iunie – 22 august 2026",
+     "en": "6 June to 22 August 2026"
+    },
+    "date": "2026-06-06",
+    "blurb": {
+     "de": "Eine Open-Air-Sommerproduktion auf der Insel Suomenlinna, basierend auf Kjell Westös Roman. Aufgeführt auf Finnisch mit englischen Untertiteln mittwochs und freitags.",
+     "hu": "Nyári szabadtéri színházi előadás a Suomenlinna szigeten, Kjell Westö regénye alapján. Finn nyelven, szerdánként és péntekenként angol felirattal.",
+     "ro": "Producție de teatru de vară în aer liber pe insula Suomenlinna, bazată pe romanul lui Kjell Westö. Interpretată în finlandeză, cu subtitrări în engleză miercurea și vinerea.",
+     "en": "Open-air summer theatre production staged on Suomenlinna island, based on Kjell Westo's novel. Performed in Finnish with English subtitles on Wednesdays and Fridays."
+    },
+    "source_url": "https://www.luxurytravelmagazine.com/news-articles/why-helsinki-should-be-your-summer-2026-destination"
+   },
+   {
+    "name": {
+     "de": "Mittsommerfeiern auf Suomenlinna",
+     "hu": "Születésnapi ünnepségek Suomenlinnában",
+     "ro": "Sărbătorile de Midsummer la Suomenlinna",
+     "en": "Midsummer celebrations at Suomenlinna"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juni (Juhannus-Wochenende)",
+     "hu": "évente június végén (Juhannus-hétvége)",
+     "ro": "anual la sfârșitul lunii iunie (weekendul Juhannus)",
+     "en": "annually late June (Juhannus weekend)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Die Seefestung Suomenlinna ist ein beliebtes Mittsommerziel für die Einwohner Helsinkis, mit Live-Musik wie den Herman-Brothers-Jam-Sessions im Cafe Bar Valimo am Mittsommerwochenende.",
+     "hu": "A Suomenlinna tengeri erőd népszerű születésnapi célpont a helsinki lakosok számára, élőzenével, például a Herman Brothers jam sessionjeivel a Cafe Bar Valimóban a Juhannus-hétvégén.",
+     "ro": "Fortăreața maritimă Suomenlinna este o destinație populară de Midsummer pentru locuitorii din Helsinki, cu muzică live precum sesiunile de jam ale fraților Herman la Cafe Bar Valimo în weekendul Midsummer.",
+     "en": "The Suomenlinna sea fortress is a popular Midsummer destination for Helsinki residents, with live music such as the Herman Brothers jam sessions at Cafe Bar Valimo on the Midsummer weekend."
+    },
+    "source_url": "https://suomenlinna.fi/en/events/herman-brothers-4/"
+   },
+   {
+    "name": {
+     "de": "Suomenlinna Tattoo (Taptoe)",
+     "hu": "Suomenlinna Tattoo (Taptoe)",
+     "ro": "Suomenlinna Tattoo (Taptoe)",
+     "en": "Suomenlinna Tattoo (Taptoe)"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "sommerliche Abendvorstellungen",
+     "hu": "nyári esti előadások",
+     "ro": "spectacole de seară în timpul verii",
+     "en": "summer evening performances"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Eine militärische Abendmusikvorstellung auf der Seefestung Suomenlinna während der Sommersaison.",
+     "hu": "Katonai stílusú esti zenei előadás a Suomenlinna tengeri erődben a nyári szezonban.",
+     "ro": "Un spectacol muzical de seară în stil militar, susținut pe fortăreața maritimă Suomenlinna în timpul sezonului de vară.",
+     "en": "A military-style evening musical performance held on the Suomenlinna sea fortress during the summer season."
+    },
+    "source_url": "https://suomenlinna.fi/en/?lang=eng"
+   }
+  ]
+ },
+ "yyteri-beach": {
+  "beach": "Yyteri Beach",
+  "town": "Pori",
+  "country": "Finland",
+  "events": [
+   {
+    "name": {
+     "de": "Yyteri Beach Ultimate",
+     "hu": "Yyteri Beach Ultimate",
+     "ro": "Yyteri Beach Ultimate",
+     "en": "Yyteri Beach Ultimate"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im August",
+     "hu": "évente augusztusban",
+     "ro": "anual în august",
+     "en": "annually in August"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein gemischtes Beach-Ultimate-Frisbee-Turnier auf dem Sand des Yyteri Beach, beschrieben als das größte Strandturnier Finnlands mit rund 160 Spielern und über 20 Jahren Geschichte. Das Wochenende umfasst eine Strandparty am Samstag.",
+     "hu": "Vegyes beach ultimate frizbi torna a Yyteri Beach homokján, amelyet Finnország legnagyobb strandtornájaként írnak le, mintegy 160 játékossal és több mint 20 éves múltra tekint vissza. A hétvégi eseményhez szombati strandparti is tartozik.",
+     "ro": "Un turneu mixt de ultimate frisbee pe plajă, desfășurat pe nisipul de la Yyteri Beach, descris ca cel mai mare turneu de plajă din Finlanda, cu aproximativ 160 de jucători și peste 20 de ani de istorie. Evenimentul de weekend include o petrecere pe plajă sâmbătă.",
+     "en": "A mixed beach ultimate frisbee tournament held on the sand at Yyteri Beach, described as the largest beach tournament in Finland with around 160 players and over 20 years of history. The weekend event includes a Saturday beach party."
+    },
+    "source_url": "https://ultimatecentral.com/en_us/e/ybu2025"
+   },
+   {
+    "name": {
+     "de": "Yyteri SUP Competition (FSSF SUP Cup race)",
+     "hu": "Yyteri SUP Competition (FSSF SUP Cup race)",
+     "ro": "Yyteri SUP Competition (FSSF SUP Cup race)",
+     "en": "Yyteri SUP Competition (FSSF SUP Cup race)"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "Sommer, während der Yyteri Surfwoche",
+     "hu": "nyáron, a Yyteri szörfhét alatt",
+     "ro": "vara, în timpul săptămânii surf de la Yyteri",
+     "en": "summer, during Yyteri surf week"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Stand-up-Paddleboard-Rennen, organisiert vom finnischen SUP-Verband und dem finnischen Windsurfing-Verband in Yyteri während der Surfwoche, im Technical-Race-Format mit Wettkampf- und Freizeitkategorien. Teilnehmer können FSSF-SUP-Cup-Punkte sammeln.",
+     "hu": "Álló evezős deszka (SUP) verseny, amelyet a Finn SUP Szövetség és a Finn Szörf Szövetség szervez Yyteriben a szörfhét alatt, Technical Race formátumban, verseny- és szabadidős kategóriákkal. A résztvevők FSSF SUP Kupa pontokat gyűjthetnek.",
+     "ro": "O cursă de stand-up paddleboard organizată de Federația Finlandeză de SUP și Federația Finlandeză de Windsurfing la Yyteri în timpul săptămânii surf, folosind un format Technical Race, cu categorii competitive și recreaționale. Participanții pot colecta puncte pentru Cupa FSSF SUP.",
+     "en": "A stand-up paddleboard race organised by the Finnish SUP Federation and Finnish Windsurfing Federation at Yyteri during the surf week, using a Technical Race format with competitive and recreational categories. Participants can collect FSSF SUP Cup points."
+    },
+    "source_url": "https://www.finssf.fi/tapahtuma/yyteri-pori/"
    }
   ]
  }

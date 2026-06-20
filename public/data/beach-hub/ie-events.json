@@ -5,64 +5,829 @@
   "country": "Ireland",
   "events": [
    {
-    "name": "Roger Casement Annual Commemoration at Banna Strand",
+    "name": {
+     "de": "Roger Casement Gedenkfeier am Banna Strand",
+     "hu": "Roger Casement Éves Megemlékezés a Banna Strandon",
+     "ro": "Comemorarea Anuală a lui Roger Casement pe Plaja Banna",
+     "en": "Roger Casement Annual Commemoration at Banna Strand"
+    },
     "type": "commemoration",
     "recurring": true,
-    "when": "annually in April, marking the 21 April 1916 anniversary of Roger Casement's landing and capture at Banna Strand; wreath-laying at the memorial obelisk on the beach",
+    "when": {
+     "de": "jährlich im April, zum Gedenken an die Landung und Gefangennahme von Roger Casement am 21. April 1916 am Banna Strand; Kranzniederlegung am Gedenkobelisk am Strand",
+     "hu": "évente áprilisban, Roger Casement 1916. április 21-i partraszállásának és elfogásának évfordulóján a Banna Strandon; koszorúzás a strand emlékobeliszkjénél",
+     "ro": "anual în aprilie, marcând aniversarea debarcării și capturării lui Roger Casement la 21 aprilie 1916 pe plaja Banna; depunere de coroane la obeliscul memorial de pe plajă",
+     "en": "annually in April, marking the 21 April 1916 anniversary of Roger Casement's landing and capture at Banna Strand; wreath-laying at the memorial obelisk on the beach"
+    },
     "date": "",
-    "blurb": "Annual commemoration held at the Roger Casement memorial obelisk on Banna Strand, marking the 1916 landing and capture of the republican revolutionary who came ashore here attempting to land German rifles before the Easter Rising.",
+    "blurb": {
+     "de": "Jährliche Gedenkfeier am Roger Casement Gedenkobelisk am Banna Strand, die an die Landung und Gefangennahme des republikanischen Revolutionärs im Jahr 1916 erinnert, der hier an Land kam, um vor dem Osteraufstand deutsche Gewehre anzulanden.",
+     "hu": "Éves megemlékezés a Banna Strandon lévő Roger Casement emlékobeliszknél, amely az 1916-os partraszállást és elfogást jelzi a republikánus forradalmárnak, aki itt szállt partra, hogy német puskákat hozzon a Húsvéti Felkelés előtt.",
+     "ro": "Comemorare anuală la obeliscul memorial Roger Casement de pe plaja Banna, marcând debarcarea și capturarea din 1916 a revoluționarului republican care a venit la țărm încercând să aducă puști germane înainte de Răscoala de Paște.",
+     "en": "Annual commemoration held at the Roger Casement memorial obelisk on Banna Strand, marking the 1916 landing and capture of the republican revolutionary who came ashore here attempting to land German rifles before the Easter Rising."
+    },
     "source_url": "https://en.wikipedia.org/wiki/Banna_Strand",
     "image_url": ""
    },
    {
-    "name": "Ballyheigue Summer Festival",
+    "name": {
+     "de": "Ballyheigue Sommerfest",
+     "hu": "Ballyheigue Nyári Fesztivál",
+     "ro": "Festivalul de Vară de la Ballyheigue",
+     "en": "Ballyheigue Summer Festival"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually around the first week of July; a full week of 60+ mostly free events for all ages in nearby Ballyheigue (approx. 6 km from Banna Strand)",
+    "when": {
+     "de": "jährlich um die erste Juliwoche; eine ganze Woche mit über 60 meist kostenlosen Veranstaltungen für alle Altersgruppen im nahegelegenen Ballyheigue (ca. 6 km vom Banna Strand)",
+     "hu": "évente július első hete körül; egy teljes hét, több mint 60, többnyire ingyenes eseménnyel minden korosztály számára a közeli Ballyheigue-ben (kb. 6 km-re Banna Strandtól)",
+     "ro": "anual în jurul primei săptămâni din iulie; o săptămână întreagă cu peste 60 de evenimente, majoritatea gratuite, pentru toate vârstele în apropierea localității Ballyheigue (la aproximativ 6 km de plaja Banna)",
+     "en": "annually around the first week of July; a full week of 60+ mostly free events for all ages in nearby Ballyheigue (approx. 6 km from Banna Strand)"
+    },
     "date": "",
-    "blurb": "Week-long community summer festival in the neighbouring seaside village of Ballyheigue, featuring more than 60 diverse, mostly free events across music, sport and family activities.",
+    "blurb": {
+     "de": "Wochenlanges Gemeinschafts-Sommerfest im benachbarten Küstendorf Ballyheigue mit über 60 vielfältigen, meist kostenlosen Veranstaltungen aus den Bereichen Musik, Sport und Familienaktivitäten.",
+     "hu": "Egyhetes közösségi nyári fesztivál a szomszédos tengerparti faluban, Ballyheigue-ben, több mint 60 változatos, többnyire ingyenes eseménnyel zene, sport és családi programok terén.",
+     "ro": "Festival comunitar de vară de o săptămână în satul vecin de pe coastă, Ballyheigue, cu peste 60 de evenimente diverse, în mare parte gratuite, de muzică, sport și activități de familie.",
+     "en": "Week-long community summer festival in the neighbouring seaside village of Ballyheigue, featuring more than 60 diverse, mostly free events across music, sport and family activities."
+    },
     "source_url": "https://ballyheigue.ie/summer-festival/",
     "image_url": ""
    },
    {
-    "name": "Ballyheigue Pattern Day",
+    "name": {
+     "de": "Ballyheigue Pattern Day",
+     "hu": "Ballyheigue Pattern Day",
+     "ro": "Ziua de Pattern de la Ballyheigue",
+     "en": "Ballyheigue Pattern Day"
+    },
     "type": "traditional",
     "recurring": true,
-    "when": "annually on 8 September, celebrating Our Lady's Birthday; long-standing religious/cultural gathering in Ballyheigue",
+    "when": {
+     "de": "jährlich am 8. September, zu Mariä Geburt; langjährige religiöse und kulturelle Zusammenkunft in Ballyheigue",
+     "hu": "évente szeptember 8-án, Szűz Mária születésnapjának ünnepe; régi hagyományú vallási és kulturális összejövetel Ballyheigue-ben",
+     "ro": "anual pe 8 septembrie, sărbătorind Nașterea Maicii Domnului; adunare religioasă și culturală de lungă durată în Ballyheigue",
+     "en": "annually on 8 September, celebrating Our Lady's Birthday; long-standing religious/cultural gathering in Ballyheigue"
+    },
     "date": "2026-09-08",
-    "blurb": "Traditional Pattern Day held each 8 September in Ballyheigue, a religious and community gathering celebrating Our Lady's Birthday that draws large crowds to the village near Banna Strand.",
+    "blurb": {
+     "de": "Traditioneller Pattern Day, der jedes Jahr am 8. September in Ballyheigue stattfindet, ein religiöses und gemeinschaftliches Treffen zu Mariä Geburt, das große Menschenmengen in das Dorf nahe dem Banna Strand zieht.",
+     "hu": "Hagyományos Pattern Day, amelyet minden év szeptember 8-án tartanak Ballyheigue-ben, egy vallási és közösségi összejövetel Szűz Mária születésnapjának ünneplésére, amely nagy tömegeket vonz a Banna Strand melletti faluba.",
+     "ro": "Ziua tradițională de Pattern, desfășurată în fiecare an pe 8 septembrie în Ballyheigue, o adunare religioasă și comunitară care sărbătorește Nașterea Maicii Domnului, atrăgând mulțimi mari în satul de lângă plaja Banna.",
+     "en": "Traditional Pattern Day held each 8 September in Ballyheigue, a religious and community gathering celebrating Our Lady's Birthday that draws large crowds to the village near Banna Strand."
+    },
     "source_url": "https://ballyheigue.ie/events/",
     "image_url": ""
    },
    {
-    "name": "St. Brendan Navigator Festival (Fenit)",
+    "name": {
+     "de": "St. Brendan Navigator Festival (Fenit)",
+     "hu": "St. Brendan Navigator Fesztivál (Fenit)",
+     "ro": "Festivalul Sfântului Brendan Navigatorul (Fenit)",
+     "en": "St. Brendan Navigator Festival (Fenit)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in mid-May around the feast of St. Brendan; 2026 edition 14-17 May in Fenit, Tralee Bay, with linked events at Tobar na Molt, Ardfert",
+    "when": {
+     "de": "jährlich Mitte Mai um das Fest des Heiligen Brendan; Ausgabe 2026 vom 14. bis 17. Mai in Fenit, Tralee Bay, mit verbundenen Veranstaltungen in Tobar na Molt, Ardfert",
+     "hu": "évente május közepén, Szent Brendan ünnepe körül; a 2026-os kiadás május 14-17. között Fenitben, a Tralee-öbölben, kapcsolódó eseményekkel Tobar na Moltban és Ardfertben",
+     "ro": "anual la mijlocul lunii mai, în jurul sărbătorii Sfântului Brendan; ediția 2026 pe 14-17 mai în Fenit, Golful Tralee, cu evenimente conexe la Tobar na Molt, Ardfert",
+     "en": "annually in mid-May around the feast of St. Brendan; 2026 edition 14-17 May in Fenit, Tralee Bay, with linked events at Tobar na Molt, Ardfert"
+    },
     "date": "2026-05-14",
-    "blurb": "Four-day celebration of Kerry's maritime heritage honouring St. Brendan the Navigator, with sailing, processions, heritage walks, music and storytelling in Fenit, including an open-air Mass at Tobar na Molt in Ardfert.",
+    "blurb": {
+     "de": "Viertägige Feier des maritimen Erbes von Kerry zu Ehren des Heiligen Brendan dem Navigator mit Segeln, Prozessionen, Kulturerbewanderungen, Musik und Geschichtenerzählen in Fenit, einschließlich einer Open-Air-Messe in Tobar na Molt in Ardfert.",
+     "hu": "Négy napos ünnepség Kerry tengeri örökségének tiszteletére, Szent Brendan, a Navigátor emlékére, vitorlázással, körmenetekkel, örökségi sétákkal, zenével és mesemondással Fenitben, beleértve egy szabadtéri misét Tobar na Moltban, Ardfertben.",
+     "ro": "Sărbătoare de patru zile a patrimoniului maritim al Kerry-ului în cinstea Sfântului Brendan Navigatorul, cu navigație, procesiuni, plimbări de patrimoniu, muzică și povești în Fenit, inclusiv o liturghie în aer liber la Tobar na Molt în Ardfert.",
+     "en": "Four-day celebration of Kerry's maritime heritage honouring St. Brendan the Navigator, with sailing, processions, heritage walks, music and storytelling in Fenit, including an open-air Mass at Tobar na Molt in Ardfert."
+    },
     "source_url": "https://saint-brendan.org/",
     "image_url": ""
    },
    {
-    "name": "Rose of Tralee International Festival",
+    "name": {
+     "de": "Rose of Tralee International Festival",
+     "hu": "Rose of Tralee Nemzetközi Fesztivál",
+     "ro": "Festivalul Internațional al Trandafirului din Tralee",
+     "en": "Rose of Tralee International Festival"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually in August; 2026 edition 14-18 August in Tralee town centre (approx. 12 km from Banna Strand)",
+    "when": {
+     "de": "jährlich im August; Ausgabe 2026 vom 14. bis 18. August im Stadtzentrum von Tralee (ca. 12 km vom Banna Strand)",
+     "hu": "évente augusztusban; a 2026-os kiadás augusztus 14-18. között Tralee városközpontjában (kb. 12 km-re Banna Strandtól)",
+     "ro": "anual în august; ediția 2026 pe 14-18 august în centrul orașului Tralee (la aproximativ 12 km de plaja Banna)",
+     "en": "annually in August; 2026 edition 14-18 August in Tralee town centre (approx. 12 km from Banna Strand)"
+    },
     "date": "2026-08-14",
-    "blurb": "One of Ireland's largest and longest-running festivals, held each August in Tralee with parades, the televised Rose selection, street entertainment, carnival, fireworks and live music.",
+    "blurb": {
+     "de": "Eines der größten und traditionsreichsten Festivals Irlands, das jedes Jahr im August in Tralee mit Paraden, der im Fernsehen übertragenen Rose-Wahl, Straßenunterhaltung, Karneval, Feuerwerk und Live-Musik stattfindet.",
+     "hu": "Írország egyik legnagyobb és leghosszabb ideje futó fesztiválja, amelyet minden augusztusban Tralee-ben tartanak felvonulásokkal, a televízióban közvetített Rose-választással, utcai szórakoztatással, karnevállal, tűzijátékkal és élőzenével.",
+     "ro": "Unul dintre cele mai mari și mai vechi festivaluri din Irlanda, desfășurat în fiecare august în Tralee, cu parade, selecția televizată a Trandafirului, divertisment stradal, carnaval, focuri de artificii și muzică live.",
+     "en": "One of Ireland's largest and longest-running festivals, held each August in Tralee with parades, the televised Rose selection, street entertainment, carnival, fireworks and live music."
+    },
     "source_url": "https://roseoftralee.ie/",
     "image_url": ""
    },
    {
-    "name": "Feile na mBlath - Tralee Park Festival",
+    "name": {
+     "de": "Feile na mBlath - Tralee Park Festival",
+     "hu": "Feile na mBlath - Tralee Park Fesztivál",
+     "ro": "Feile na mBlath - Festivalul din Parcul Tralee",
+     "en": "Feile na mBlath - Tralee Park Festival"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually in June; 2026 edition 12-14 June in Tralee Town Park, free family festival with floral displays, live music and workshops",
+    "when": {
+     "de": "jährlich im Juni; Ausgabe 2026 vom 12. bis 14. Juni im Tralee Town Park, kostenloses Familienfest mit Blumenausstellungen, Live-Musik und Workshops",
+     "hu": "évente júniusban; a 2026-os kiadás június 12-14. között a Tralee Town Parkban, ingyenes családi fesztivál virágkiállításokkal, élőzenével és workshopokkal",
+     "ro": "anual în iunie; ediția 2026 pe 12-14 iunie în Parcul Orășenesc Tralee, festival gratuit de familie cu expoziții florale, muzică live și ateliere",
+     "en": "annually in June; 2026 edition 12-14 June in Tralee Town Park, free family festival with floral displays, live music and workshops"
+    },
     "date": "2026-06-12",
-    "blurb": "Free family festival in Tralee Town Park with floral displays, live music, workshops and cultural performances over three days each June.",
+    "blurb": {
+     "de": "Kostenloses Familienfest im Tralee Town Park mit Blumenausstellungen, Live-Musik, Workshops und kulturellen Darbietungen an drei Tagen im Juni.",
+     "hu": "Ingyenes családi fesztivál a Tralee Town Parkban virágkiállításokkal, élőzenével, workshopokkal és kulturális előadásokkal három napon keresztül júniusban.",
+     "ro": "Festival gratuit de familie în Parcul Orășenesc Tralee, cu expoziții florale, muzică live, ateliere și spectacole culturale timp de trei zile în iunie.",
+     "en": "Free family festival in Tralee Town Park with floral displays, live music, workshops and cultural performances over three days each June."
+    },
     "source_url": "https://www.discoverkerry.com/blog/post/feile-na-mbalth-flowers-music-family-fun-in-tralee/",
     "image_url": ""
+   }
+  ]
+ },
+ "ballybunion-ladies-beach": {
+  "beach": "Ballybunion Ladies Beach",
+  "town": "Ballybunion",
+  "country": "Ireland",
+  "events": [
+   {
+    "name": {
+     "de": "Horizon Festival Ballybunion",
+     "hu": "Horizon Festival Ballybunion",
+     "ro": "Horizon Festival Ballybunion",
+     "en": "Horizon Festival Ballybunion"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "10. bis 12. Juli 2026",
+     "hu": "2026. július 10-től július 12-ig",
+     "ro": "10-12 iulie 2026",
+     "en": "2026-07-10 to 2026-07-12"
+    },
+    "date": "2026-07-10",
+    "blurb": {
+     "de": "Ein dreitägiges Open-Air-Wochenende mit Livemusik und Unterhaltung an der Küste von Ballybunion, County Kerry. Die Ausgabe 2026 läuft vom 10. bis 12. Juli mit Headlinern und Partysets.",
+     "hu": "Egy háromnapos szabadtéri élőzenei és szórakoztató hétvége a parton, Ballybunionban, Kerry megyében. A 2026-os kiadás július 10-től 12-ig tart, fő fellépőkkel és buliszettekkel.",
+     "ro": "Un weekend de trei zile cu muzică live și divertisment în aer liber pe coasta din Ballybunion, comitatul Kerry. Ediția 2026 se desfășoară între 10 și 12 iulie, cu artiști principali și seturi de petrecere.",
+     "en": "A three-day outdoor live music and entertainment weekend held on the coast at Ballybunion, Co. Kerry. The 2026 edition runs from 10 to 12 July with headline acts and party sets."
+    },
+    "source_url": "https://www.eventbrite.com/e/horizon-festival-ballybunion-tickets-1982052537495"
+   },
+   {
+    "name": {
+     "de": "Ballybunion Arts Festival",
+     "hu": "Ballybunion Arts Festival",
+     "ro": "Ballybunion Arts Festival",
+     "en": "Ballybunion Arts Festival"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juli (21.-24. Juli)",
+     "hu": "évente július végén (július 21-24.)",
+     "ro": "anual la sfârșitul lunii iulie (21-24 iulie)",
+     "en": "annually late July (21-24 July)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein jährliches multidisziplinäres Kunstfestival in Ballybunion mit Theater, Poesie, Performancekunst, Musik, bildender Kunst und Workshops auf Englisch und Irisch. Es richtet sich an die Einwohner und Besucher der Stadt.",
+     "hu": "Éves multidiszciplináris művészeti fesztivál Ballybunionban színházzal, költészettel, performanszművészettel, zenével, képzőművészettel és angol és ír nyelvű workshopokkal. A város lakosai és látogatói számára készült.",
+     "ro": "Un festival anual multidisciplinar de artă în Ballybunion, cu teatru, poezie, artă performativă, muzică, artă vizuală și ateliere în engleză și irlandeză. Este programat pentru locuitorii și vizitatorii orașului.",
+     "en": "An annual multidisciplinary arts festival in Ballybunion with theatre, poetry, performance art, music, visual art and workshops in English and Irish. It is programmed for the town's residents and visitors."
+    },
+    "source_url": "https://www.creativeireland.gov.ie/en/event/ballybunion-arts-festival/"
+   },
+   {
+    "name": {
+     "de": "Ballybunion International Bachelor Festival",
+     "hu": "Ballybunion International Bachelor Festival",
+     "ro": "Ballybunion International Bachelor Festival",
+     "en": "Ballybunion International Bachelor Festival"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Juni",
+     "hu": "évente júniusban",
+     "ro": "anual în iunie",
+     "en": "annually in June"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein einwöchiges Sommerfestival in Ballybunion mit Straßenkarneval, Familientag, Feuerwerk, französischen Märkten, Pubmusik und der Wahl des International Ballybunion Bachelor. Es findet seit Jahrzehnten in der Stadt statt.",
+     "hu": "Egy egyhetes nyári fesztivál Ballybunionban utcai karnevállal, családi nappal, tűzijátékkal, francia piacokkal, pubzenével és a Nemzetközi Ballybunion Bachelor kiválasztásával. Évtizedek óta zajlik a városban.",
+     "ro": "Un festival de vară de o săptămână în Ballybunion, cu carnaval stradal, ziua familiei, focuri de artificii, piețe franțuzești, muzică de pub și selecția International Ballybunion Bachelor. Se desfășoară în oraș de zeci de ani.",
+     "en": "A week-long summer festival in Ballybunion featuring a street carnival, family fun day, fireworks, French markets, pub music and the selection of the International Ballybunion Bachelor. It has run in the town for decades."
+    },
+    "source_url": "https://www.ballybunion.ie/ballybunion-bachelor-festival.html"
+   },
+   {
+    "name": {
+     "de": "Ballybunion Bean Festival",
+     "hu": "Ballybunion Bean Festival",
+     "ro": "Ballybunion Bean Festival",
+     "en": "Ballybunion Bean Festival"
+    },
+    "type": "food",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Mitte August",
+     "hu": "évente augusztus közepén",
+     "ro": "anual la mijlocul lunii august",
+     "en": "annually mid-August"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Gemeinschafts-Food-Festival, das Bohnen als klimafreundliches Lebensmittel erkundet, mit einem Bean Bake Off am Strand sowie Essen, Musik und Aktivitäten auf dem Bio-Bauernhof Barna Way. Die letzten Ausgaben fanden im August statt.",
+     "hu": "Egy közösségi ételfesztivál, amely a babot mint klímabarát élelmiszert vizsgálja, beleértve egy Bean Bake Off-ot a strandon, valamint ételt, zenét és tevékenységeket a Barna Way ökológiai gazdaságban. A legutóbbi kiadásokat augusztusban tartották.",
+     "ro": "Un festival comunitar alimentar care explorează fasolea ca aliment prietenos cu clima, inclusiv un Bean Bake Off pe plajă, plus mâncare, muzică și activități la ferma ecologică Barna Way. Edițiile recente au avut loc în august.",
+     "en": "A community food festival exploring beans as a climate-friendly food, including a Bean Bake Off held on the beach plus food, music and activities at the Barna Way organic farm. Recent editions were held in August."
+    },
+    "source_url": "https://brilliantballybunion.com/ballybunion-bean-festival-15th-16th-august-2025/"
+   },
+   {
+    "name": {
+     "de": "Ballybunion Sprint Triathlon",
+     "hu": "Ballybunion Sprint Triathlon",
+     "ro": "Ballybunion Sprint Triathlon",
+     "en": "Ballybunion Sprint Triathlon"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Sommer",
+     "hu": "évente nyáron",
+     "ro": "anual vara",
+     "en": "annually in summer"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Sprint-Triathlon, organisiert vom Ballybunion Triathlon Club, mit einem 750-m-Meeresschwimmen, 20-km-Radfahren und 5-km-Laufen entlang der Kerry-Küste in Ballybunion. Der Club veranstaltet auch einen Duathlon in der Stadt.",
+     "hu": "Egy sprint triatlon, amelyet a Ballybunion Triathlon Club szervez, 750 méteres tengeri úszással, 20 km-es kerékpározással és 5 km-es futással a Kerry-parton, Ballybunionban. A klub egy duatlont is szervez a városban.",
+     "ro": "Un triatlon sprint organizat de Ballybunion Triathlon Club, cu o înot în mare de 750 m, un ciclism de 20 km și o alergare de 5 km de-a lungul coastei Kerry la Ballybunion. Clubul organizează și un duatlon în oraș.",
+     "en": "A sprint triathlon organised by Ballybunion Triathlon Club with a 750m sea swim, 20km cycle and 5km run along the Kerry coast at Ballybunion. The club also runs a duathlon in the town."
+    },
+    "source_url": "https://ballybuniontriathlon.ie/"
+   },
+   {
+    "name": {
+     "de": "Annual Christmas Day Swim",
+     "hu": "Annual Christmas Day Swim",
+     "ro": "Annual Christmas Day Swim",
+     "en": "Annual Christmas Day Swim"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am 25. Dezember",
+     "hu": "évente december 25-én",
+     "ro": "anual pe 25 decembrie",
+     "en": "25 December annually"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein traditionelles Weihnachtsbad im Meer am Ballybunion Beach. Einheimische Schwimmer versammeln sich am Strand, um am Morgen des 25. Dezember ein Bad zu nehmen.",
+     "hu": "Egy hagyományos karácsonyi tengeri úszás a Ballybunion Beach-en. Helyi úszók gyűlnek össze a parton, hogy december 25-én reggel megmártózzanak.",
+     "ro": "O baie tradițională de Crăciun în mare, pe plaja Ballybunion. Înotători locali se adună pe plajă pentru a face o baie în dimineața zilei de 25 decembrie.",
+     "en": "A traditional Christmas Day sea swim held at Ballybunion Beach. Local swimmers gather on the strand to take a dip on the morning of 25 December."
+    },
+    "source_url": "https://www.facebook.com/events/ballybunion-beach/annual-christmas-day-swim/342606656521383/"
+   },
+   {
+    "name": {
+     "de": "Run Ballybunion",
+     "hu": "Run Ballybunion",
+     "ro": "Run Ballybunion",
+     "en": "Run Ballybunion"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Frühling (Anfang April)",
+     "hu": "évente tavasszal (április elején)",
+     "ro": "anual primăvara (începutul lunii aprilie)",
+     "en": "annually in spring (early April)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein gemeinschaftliches Laufevent am Meer in Ballybunion. Eine aktuelle Ausgabe war für den 4. April geplant.",
+     "hu": "Egy tengerparti közösségi futóesemény Ballybunionban. Egy legutóbbi kiadást április 4-re terveztek.",
+     "ro": "Un eveniment comunitar de alergare pe malul mării în Ballybunion. O ediție recentă a fost programată pentru 4 aprilie.",
+     "en": "A seaside community running event in Ballybunion. A recent edition was scheduled for 4 April."
+    },
+    "source_url": "https://www.ballybunion.ie/things-to-do/events.html"
+   }
+  ]
+ },
+ "gurteen-beach": {
+  "beach": "Gurteen Beach",
+  "town": "Roundstone",
+  "country": "Ireland",
+  "events": [
+   {
+    "name": {
+     "de": "Roundstone Regatta (Féile Cloch na Rón)",
+     "hu": "Roundstone Regatta (Féile Cloch na Rón)",
+     "ro": "Roundstone Regatta (Féile Cloch na Rón)",
+     "en": "Roundstone Regatta (Féile Cloch na Rón)"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Juli; 2026 am 25. und 26. Juli",
+     "hu": "évente júliusban; 2026. július 25-26.",
+     "ro": "anual în iulie; în 2026 pe 25-26 iulie",
+     "en": "annually in July; 2026 on 25-26 July"
+    },
+    "date": "2026-07-25",
+    "blurb": {
+     "de": "Eine traditionelle maritime Regatta im Dorf Roundstone nahe dem Gurteen Beach mit Segelrennen der Galway Hooker und Ruderrennen der Currachs in der Bucht. Die zweitägige Veranstaltung umfasst auch traditionelle Musik und Tanz an Land und geht auf die 1890er Jahre zurück.",
+     "hu": "Hagyományos tengeri regatta Roundstone faluban, a Gurteen Beach közelében, galway-i hooker vitorlázással és currach evezős versenyekkel az öbölben. A kétnapos eseményhez hagyományos zene és tánc is tartozik a szárazföldön, és az 1890-es évekre nyúlik vissza.",
+     "ro": "O regată maritimă tradițională în satul Roundstone, lângă plaja Gurteen, cu curse de navigație Galway hooker și curse de vâslit currach în golf. Evenimentul de două zile include și muzică tradițională și dans pe uscat și datează din anii 1890.",
+     "en": "A traditional maritime regatta in Roundstone village near Gurteen Beach, featuring Galway hooker sailing and currach rowing races in the bay. The two-day event also includes traditional music and dancing on land and dates back to the 1890s."
+    },
+    "source_url": "https://www.galwaytourism.ie/event/feile-cloch-na-ron-regatta-roundstone-co-galway/"
+   },
+   {
+    "name": {
+     "de": "Roundstone Arts Week",
+     "hu": "Roundstone Arts Week",
+     "ro": "Roundstone Arts Week",
+     "en": "Roundstone Arts Week"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Sommer",
+     "hu": "évente nyáron",
+     "ro": "anual vara",
+     "en": "annually in summer"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein jährliches Gemeinschaftskunstfestival in Roundstone mit einem Musikpfad, Straßenkünstlern, Ausstellungen bildender Kunst, Literaturveranstaltungen und Theater. Es ist auf Wochenenden aufgeteilt, wobei eines sich auf bildende Kunst und Musik konzentriert und ein anderes auf Literatur und Theater.",
+     "hu": "Éves közösségi művészeti fesztivál Roundstone-ban, zenei ösvénnyel, utcai előadóművészekkel, képzőművészeti kiállításokkal, irodalmi eseményekkel és színházzal. Hétvégékre oszlik, az egyik a képzőművészetre és zenére, a másik az irodalomra és színházra összpontosít.",
+     "ro": "Un festival anual de artă comunitară în Roundstone, cu un traseu muzical, artiști de stradă, expoziții de artă vizuală, evenimente literare și teatru. Este împărțit pe weekenduri, unul axat pe arte vizuale și muzică, iar altul pe literatură și teatru.",
+     "en": "An annual community arts festival in Roundstone featuring a music trail, street performers, visual art exhibitions, literary events and theatre. It is split across weekends, with one focused on visual arts and music and another on literature and theatre."
+    },
+    "source_url": "https://www.irishtimes.com/news/roundstone-arts-festival-opens-1.1146736"
+   },
+   {
+    "name": {
+     "de": "Roundstone Traditional Music Nights",
+     "hu": "Roundstone Traditional Music Nights",
+     "ro": "Roundstone Traditional Music Nights",
+     "en": "Roundstone Traditional Music Nights"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "wöchentlich im Juli und August",
+     "hu": "hetente júliusban és augusztusban",
+     "ro": "săptămânal în iulie și august",
+     "en": "weekly through July and August"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Wöchentliche traditionelle irische Musik-, Gesangs- und Tanzveranstaltungen im Dorf Roundstone während der Sommermonate. Die Abende präsentieren Künstler aus der Region Connemara.",
+     "hu": "Heti hagyományos ír zenei, ének- és táncalkalmak Roundstone faluban a nyári hónapokban. Az esték a Connemara régió előadóit mutatják be.",
+     "ro": "Sesiuni săptămânale de muzică, cântec și dans tradițional irlandez în satul Roundstone, în lunile de vară. Serile prezintă artiști din zona Connemara.",
+     "en": "Weekly traditional Irish music, song and dance sessions held in Roundstone village during the summer months. The nights showcase performers from the Connemara area."
+    },
+    "source_url": "https://connemara.ie/event/roundstone-traditional-music-nights/"
+   }
+  ]
+ },
+ "inch-beach": {
+  "beach": "Inch Beach",
+  "town": "Inch",
+  "country": "Ireland",
+  "events": [
+   {
+    "name": {
+     "de": "Inch Pattern Day & Vintage Rally",
+     "hu": "Inch Pattern Day & Vintage Rally",
+     "ro": "Inch Pattern Day & Vintage Rally",
+     "en": "Inch Pattern Day & Vintage Rally"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am letzten Sonntag im Juni",
+     "hu": "minden évben június utolsó vasárnapján",
+     "ro": "anual în ultima duminică din iunie",
+     "en": "annually last Sunday of June"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Wohltätigkeits-Veteranenrallye auf dem Feld gegenüber dem Foley's Pub in Inch, von mittags bis 18 Uhr. Ausstellung von alten Traktoren und Autos sowie Unterhaltung für alle Altersgruppen.",
+     "hu": "Jótékonysági veterán rali a Foley's Pubbal szembeni mezőn Inchben, déltől 18 óráig. Régi traktorok és autók kiállítása, valamint szórakozás minden korosztály számára.",
+     "ro": "Rali de caritate cu vehicule de epocă, desfășurat pe câmpul din fața pub-ului Foley's din Inch, începând de la prânz până la ora 18.00. Tractoare și mașini de epocă expuse, alături de divertisment pentru toate vârstele.",
+     "en": "Charity vintage rally held in the field across from Foley's Pub in Inch, starting at midday and running until 6pm. Vintage tractors and cars are on display alongside entertainment for all ages."
+    },
+    "source_url": "https://dingle-peninsula.ie/what-s-happening/item/june-26-inch-pattern-day-vintage-rally.html"
+   },
+   {
+    "name": {
+     "de": "Weekend Music & Dancing at Sammy's Inch Beach",
+     "hu": "Weekend Music & Dancing at Sammy's Inch Beach",
+     "ro": "Weekend Music & Dancing at Sammy's Inch Beach",
+     "en": "Weekend Music & Dancing at Sammy's Inch Beach"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jeden Freitag- und Samstagabend",
+     "hu": "minden péntek és szombat este",
+     "ro": "în fiecare vineri și sâmbătă seara",
+     "en": "every Friday and Saturday night"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Sammy's, die Bar und das Restaurant am Inch Strand, veranstaltet jeden Freitag und Samstag Tanz- und Musikabende. Die Location liegt direkt am Strand auf der Dingle-Halbinsel.",
+     "hu": "A Sammy's bár és étterem az Inch Strandon minden pénteken és szombaton táncos és zenei esteket tart. A helyszín közvetlenül a strandon található a Dingle-félszigeten.",
+     "ro": "Sammy's, barul și restaurantul de pe plaja Inch, organizează seri de dans și muzică în fiecare vineri și sâmbătă. Localul se află direct pe plajă, pe peninsula Dingle.",
+     "en": "Sammy's, the bar and restaurant on Inch Strand, hosts dancing and music nights every Friday and Saturday. The venue sits directly on the beach on the Dingle Peninsula."
+    },
+    "source_url": "http://sammysinch.com/"
+   }
+  ]
+ },
+ "owenahincha": {
+  "beach": "Owenahincha",
+  "town": "Rosscarbery",
+  "country": "Ireland",
+  "events": [
+   {
+    "name": {
+     "de": "Rosscarbery Festival by the Sea",
+     "hu": "Rosscarbery Festival by the Sea",
+     "ro": "Rosscarbery Festival by the Sea",
+     "en": "Rosscarbery Festival by the Sea"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am Juni-Feiertagswochenende",
+     "hu": "évente a júniusi bank holiday hétvégén",
+     "ro": "anual în weekendul de sărbătoare bancară din iunie",
+     "en": "annually over the June bank holiday weekend"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Küstendorf-Festival in Rosscarbery mit Livemusik, Kunsthandwerksständen und Familienaktivitäten, das am Feiertagswochenende Anfang Juni stattfindet, wenn Besucher die nahegelegenen Strände wie Owenahincha besuchen.",
+     "hu": "Egy tengerparti falu fesztiválja Rosscarberyben élőzenével, kézműves standokkal és családi programokkal, amelyet a június eleji bank holiday hétvégén tartanak, amikor a látogatók a közeli strandokat, például Owenahinchát is felkeresik.",
+     "ro": "Un festival de sat de coastă în Rosscarbery, cu muzică live, standuri de artizanat și activități pentru familie, desfășurat în weekendul de sărbătoare bancară de la începutul lunii iunie, când mulțimile vizitează plajele din apropiere, inclusiv Owenahincha.",
+     "en": "A coastal village festival in Rosscarbery featuring live music, craft stalls and family activities, held during the early June bank holiday when crowds visit nearby beaches including Owenahincha."
+    },
+    "source_url": "https://explorewestcork.ie/villages/rosscarbery"
+   },
+   {
+    "name": {
+     "de": "Rosscarbery Family Festival",
+     "hu": "Rosscarbery Family Festival",
+     "ro": "Rosscarbery Family Festival",
+     "en": "Rosscarbery Family Festival"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im August (etwa 10 Tage)",
+     "hu": "évente augusztusban (kb. 10 nap)",
+     "ro": "anual în august (aproximativ 10 zile)",
+     "en": "annually in August (about 10 days)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein zehntägiges Familienfestival in Rosscarbery mit Aktivitäten wie Krabbenfischen, Straßenmalerei und einem Sandburgenbau-Wettbewerb am nahegelegenen Warren Beach. Es ist das wichtigste Sommerfestival der Ortschaft, zu der Owenahincha gehört.",
+     "hu": "Egy tíznapos családi fesztivál Rosscarberyben olyan programokkal, mint a rákhalászat, járdarajzolás és homokvárépítő verseny a közeli Warren strandon. Ez a fő nyári fesztiválja annak a településnek, amelyhez Owenahincha tartozik.",
+     "ro": "Un festival de familie de zece zile în Rosscarbery, cu activități precum pescuitul de crabi, arta pe asfalt și un concurs de construcție a castelelor de nisip pe plaja Warren din apropiere. Este principalul festival de vară al localității din care face parte Owenahincha.",
+     "en": "A ten-day family festival in Rosscarbery with activities such as crab fishing, pavement art and a sandcastle building competition held on the nearby Warren beach. It is the main summer festival for the locality that Owenahincha belongs to."
+    },
+    "source_url": "http://www.rosscarbery.ie/rosscarbery-family-festival/"
+   },
+   {
+    "name": {
+     "de": "Rosscarbery Surf Turf 'n' Tar 10k and Half Marathon",
+     "hu": "Rosscarbery Surf Turf 'n' Tar 10k and Half Marathon",
+     "ro": "Rosscarbery Surf Turf 'n' Tar 10k and Half Marathon",
+     "en": "Rosscarbery Surf Turf 'n' Tar 10k and Half Marathon"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "25.04.2026",
+     "hu": "2026-04-25",
+     "ro": "25.04.2026",
+     "en": "2026-04-25"
+    },
+    "date": "2026-04-25",
+    "blurb": {
+     "de": "Ein Geländelauf in Rosscarbery mit 10-km- und Halbmarathon-Distanzen über Straße, Strand, Wald und Trail. Die Ausgabe 2026 ist für Samstag, den 25. April 2026, geplant.",
+     "hu": "Egy több terepű futóesemény Rosscarberyben, 10 km-es és félmaratoni távokkal úton, strandon, erdőn és ösvényen. A 2026-os kiadást 2026. április 25-én, szombaton rendezik.",
+     "ro": "Un eveniment de alergare pe teren variat în Rosscarbery, cu distanțe de 10 km și semimaraton pe drum, plajă, pădure și traseu. Ediția din 2026 este programată pentru sâmbătă, 25 aprilie 2026.",
+     "en": "A multi-terrain running event from Rosscarbery offering 10k and half marathon distances over road, beach, forest and trail. The 2026 edition is scheduled for Saturday 25 April 2026."
+    },
+    "source_url": "https://rosscarbery10kandhalfmarathon.itsyourrace.com/"
+   }
+  ]
+ },
+ "rossbeigh": {
+  "beach": "Rossbeigh",
+  "town": "Glenbeigh",
+  "country": "Ireland",
+  "events": [
+   {
+    "name": {
+     "de": "Glenbeigh Races and Festival",
+     "hu": "Glenbeigh Races and Festival",
+     "ro": "Glenbeigh Races and Festival",
+     "en": "Glenbeigh Races and Festival"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende August",
+     "hu": "évente augusztus végén",
+     "ro": "anual la sfârșitul lunii august",
+     "en": "annually late August"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Pferderennen am Strand auf Rossbeigh Strand als Höhepunkt eines Wochenendfestivals. Die Veranstaltung umfasst auch einen Eselderby, eine Hundeschau und Live-Musik.",
+     "hu": "Lóverseny a Rossbeigh Strandon, amely egy hétvégi fesztivál központi eseménye. A rendezvény része még egy szamárderbi, kutyakiállítás és élőzene.",
+     "ro": "Cursă de cai pe plaja Rossbeigh Strand, ca punct central al unui festival de weekend. Evenimentul include, de asemenea, un derby de măgari, o expoziție canină și muzică live.",
+     "en": "Beach horse racing held on Rossbeigh Strand as the centrepiece of a weekend festival. The event also includes a donkey derby, dog show and live music."
+    },
+    "source_url": "https://reeksdistrict.com/events/glenbeigh-races/"
+   },
+   {
+    "name": {
+     "de": "Glenbeigh Summer Festival",
+     "hu": "Glenbeigh Summer Festival",
+     "ro": "Glenbeigh Summer Festival",
+     "en": "Glenbeigh Summer Festival"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "10. bis 12. Juli 2026",
+     "hu": "2026. július 10-től július 12-ig",
+     "ro": "10-12 iulie 2026",
+     "en": "2026-07-10 to 2026-07-12"
+    },
+    "date": "2026-07-10",
+    "blurb": {
+     "de": "Dreitägiges Familienfest im Dorf Glenbeigh nahe dem Rossbeigh Strand mit Live-Musik, Essensständen, einem Bauernmarkt und dem Glenbeigh-Glencar Marathon rund um den Caragh Lake. Die Abschlussveranstaltung findet am Rosspoint statt.",
+     "hu": "Háromnapos családi fesztivál Glenbeigh faluban, a Rossbeigh strand közelében, élőzenével, ételárusokkal, termelői piaccal és a Glenbeigh-Glencar Maratonnal a Caragh-tó körül. A záróesemény a Rosspointnál lesz.",
+     "ro": "Festival de familie de trei zile în satul Glenbeigh, lângă plaja Rossbeigh, cu muzică live, standuri cu mâncare, o piață a fermierilor și Maratonul Glenbeigh-Glencar în jurul lacului Caragh. Evenimentul de încheiere are loc la Rosspoint.",
+     "en": "Three-day family festival in Glenbeigh village near Rossbeigh beach, featuring live music, food stalls, a farmers market and the Glenbeigh-Glencar Marathon around Caragh Lake. The closing event takes place at Rosspoint."
+    },
+    "source_url": "https://www.glenbeighsummerfestival.com/"
+   }
+  ]
+ },
+ "sandymount-strand": {
+  "beach": "Sandymount Strand",
+  "town": "Sandymount, Dublin",
+  "country": "Ireland",
+  "events": [
+   {
+    "name": "Bloomsday: Shut Your Eyes and See at Sandymount Strand",
+    "type": "culture",
+    "recurring": true,
+    "when": "annually 16 June",
+    "date": "2026-06-16",
+    "blurb": "A free 20-minute Bloomsday Festival event on Sandymount Strand where artist Clare McLaughlin leads a sensory exploration of passages from Ulysses, the beach being the setting for the Proteus episode. Held as part of the annual Dublin Bloomsday programme celebrating James Joyce.",
+    "source_url": "https://www.bloomsdayfestival.ie/programme/"
+   },
+   {
+    "name": "Bloomsday Villages: Sandymount",
+    "type": "culture",
+    "recurring": true,
+    "when": "annually 16 June",
+    "date": "2026-06-16",
+    "blurb": "A community Bloomsday event presented by Sandymount Community Centre and Sandymount Tidy Towns with Dublin City Council, including Elevenses with Leopold featuring coffee, croissants and Joycean entertainment. Held in Sandymount village near the strand.",
+    "source_url": "https://www.bloomsdayfestival.ie/event/bloomsday-villages-sandymount/"
+   },
+   {
+    "name": "Savills Sandymount Dublin Night Run (October)",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-10-20",
+    "date": "2026-10-20",
+    "blurb": "An evening 5km and 10km road run starting and finishing in Sean Moore Park in Sandymount, on a flat course near Sandymount Strand. Takes place Tuesday 20 October 2026 at 7:20pm.",
+    "source_url": "https://eventmaster.ie/event/DOrzUmAcJr"
+   },
+   {
+    "name": "Savills Sandymount Dublin Night Run (March)",
+    "type": "sport",
+    "recurring": true,
+    "when": "2026-03-03",
+    "date": "2026-03-03",
+    "blurb": "A spring edition of the Sandymount night run offering 5km and 10km distances around Sandymount, held Tuesday 3 March 2026 at 7:20pm. The course is flat and starts and finishes at Sean Moore Park.",
+    "source_url": "https://eventmaster.ie/event/8ROZH7qTV1"
+   }
+  ]
+ },
+ "the-silver-strand": {
+  "beach": "The Silver Strand",
+  "town": "Glencolmcille (Gleann Cholm Cille), Malin Beg",
+  "country": "Ireland",
+  "events": [
+   {
+    "name": {
+     "de": "Donegal Fiddle Week (Glencolmcille)",
+     "hu": "Donegal Fiddle Week (Glencolmcille)",
+     "ro": "Donegal Fiddle Week (Glencolmcille)",
+     "en": "Donegal Fiddle Week (Glencolmcille)"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Anfang August; Ausgabe 2026 von Montag, 3. bis Freitag, 7. August",
+     "hu": "évente augusztus elején; a 2026-os kiadás augusztus 3-tól (hétfő) 7-ig (péntek)",
+     "ro": "anual la începutul lunii august; ediția 2026 de luni, 3 august până vineri, 7 august",
+     "en": "annually in early August; 2026 edition Monday 3 to Friday 7 August"
+    },
+    "date": "2026-08-03",
+    "blurb": {
+     "de": "Jährliche traditionelle Fiddle-Sommerschule, veranstaltet von Cairdeas na bhFidleiri in Glencolmcille, die über hundert Fiddler aus Irland und dem Ausland zu Unterricht, Vorträgen und Konzerten anzieht. Glencolmcille ist der Ort, an dem sich der Silver Strand am Malin Beg befindet.",
+     "hu": "Éves hagyományos hegedű nyári iskola, amelyet a Cairdeas na bhFidleiri szervez Glencolmcille-ben, több mint száz hegedűst vonzva Írországból és külföldről órákra, előadásokra és koncertekre. Glencolmcille az a település, ahol a Malin Beg-i Silver Strand található.",
+     "ro": "Școală de vară tradițională de fiddle, organizată de Cairdeas na bhFidleiri în Glencolmcille, care atrage peste o sută de fiddleri din Irlanda și din străinătate pentru cursuri, discuții și concerte. Glencolmcille este localitatea unde se află plaja Silver Strand de la Malin Beg.",
+     "en": "Annual traditional fiddle summer school run by Cairdeas na bhFidleiri in Glencolmcille, attracting over a hundred fiddlers from Ireland and abroad for classes, talks and concerts. Glencolmcille is the locality where the Silver Strand beach at Malin Beg is located."
+    },
+    "source_url": "https://donegalnews.com/top-line-up-for-40th-donegal-fiddle-week/"
+   },
+   {
+    "name": {
+     "de": "Turas Cholmcille",
+     "hu": "Turas Cholmcille",
+     "ro": "Turas Cholmcille",
+     "en": "Turas Cholmcille"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am 9. Juni (St. Colmcilles Festtag), beginnend kurz nach Mitternacht",
+     "hu": "évente június 9-én (Szent Kolumba napján), röviddel éjfél után kezdődően",
+     "ro": "anual pe 9 iunie (ziua de sărbătoare a Sfântului Colmcille), începând imediat după miezul nopții",
+     "en": "annually on 9 June (St Colmcille's feast day), starting just after midnight"
+    },
+    "date": "2026-06-09",
+    "blurb": {
+     "de": "Eine jährliche Pilgerfahrt in Glencolmcille am Festtag des heiligen Colmcille, bei der die Pilger eine etwa dreistündige Route mit Bußstationen entlang von Menhiren, Steinhügeln und megalithischen Überresten gehen. Es ist eine der ältesten ununterbrochenen Pilgerfahrten Irlands.",
+     "hu": "Éves zarándoklat Glencolmcille-ben Szent Kolumba napján, ahol a zarándokok egy körülbelül háromórás útvonalat járnak be bűnbánati állomásokkal, amelyeket állókövek, kőhalmok és megalitikus maradványok jeleznek. Ez Írország egyik legrégebbi folyamatos zarándoklata.",
+     "ro": "Un pelerinaj anual în Glencolmcille de ziua sărbătorii Sfântului Colmcille, unde pelerinii parcurg un traseu de aproximativ trei ore cu stații de penitență marcate de pietre înălțate, movile de piatră și rămășițe megalitice. Este unul dintre cele mai vechi pelerinaje continue din Irlanda.",
+     "en": "An annual pilgrimage in Glencolmcille on St Colmcille's feast day, where pilgrims walk a roughly three-hour route of penitential stations marked by standing stones, cairns and megalithic remains. It is one of Ireland's oldest continuous pilgrimages."
+    },
+    "source_url": "https://www.pilgrimpath.ie/turas-cholmcille-donegal/"
+   },
+   {
+    "name": {
+     "de": "Glencolmcille Folk Village Sommerprogramm",
+     "hu": "Glencolmcille Folk Village nyári programja",
+     "ro": "Programul de vară al Satului Folcloric Glencolmcille",
+     "en": "Glencolmcille Folk Village summer programme"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "während der gesamten Sommersaison von Karsamstag bis Ende September",
+     "hu": "a nyári szezonban, húsvét szombattól szeptember végéig",
+     "ro": "pe tot parcursul sezonului estival, de sâmbăta Paștelui până la sfârșitul lunii septembrie",
+     "en": "throughout the summer season, Easter Saturday to end of September"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Das Glencolmcille Folk Village bietet Handwerksworkshops wie das Flechten von St. Brigids Kreuzen, Stricken und Wandteppichweberei sowie traditionelle Musikveranstaltungen während des Sommers. Das Museum liegt im Tal von Glencolmcille in der Nähe des Silver Strands bei Malin Beg.",
+     "hu": "A Glencolmcille Folk Village kézműves műhelyeket kínál, mint Szent Brigitta-kereszt készítése, kötés és gobelinszövés, valamint hagyományos zenei összejöveteleket a nyár folyamán. A múzeum a Glencolmcille-völgyben található, a Malin Beg-i Silver Strand közelében.",
+     "ro": "Satul Folcloric Glencolmcille organizează ateliere meșteșugărești precum confecționarea crucii Sfintei Brigid, tricotat și tapiserie, plus sesiuni de muzică tradițională pe parcursul verii. Muzeul se află în valea Glencolmcille, lângă plaja Silver Strand de la Malin Beg.",
+     "en": "The Glencolmcille Folk Village runs craft workshops such as St Brigid's cross making, knitting and tapestry, plus traditional music sessions through the summer. The museum sits in the Glencolmcille valley near the Silver Strand at Malin Beg."
+    },
+    "source_url": "https://www.sliabhliag.com/glencolmcille-folk-village/"
+   }
+  ]
+ },
+ "tragumna": {
+  "beach": "Tragumna",
+  "town": "Skibbereen",
+  "country": "Ireland",
+  "events": [
+   {
+    "name": {
+     "de": "Tri na Mona Sprint Triathlon",
+     "hu": "Tri na Mona Sprint Triathlon",
+     "ro": "Tri na Mona Sprint Triathlon",
+     "en": "Tri na Mona Sprint Triathlon"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Sommer",
+     "hu": "évente nyáron",
+     "ro": "anual, vara",
+     "en": "annually in summer"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Sprint-Triathlon, veranstaltet vom West Cork Triathlon Club, basierend am Tragumna Strand nahe Skibbereen. Er besteht aus einem 750m langen Freiwasserschwimmen am Strand, einer etwa 18-20km langen Radstrecke und einem 5km Lauf. Der Schwimmstart und die Wechselzone befinden sich am Tragumna Strand.",
+     "hu": "Egy sprint triatlon, amelyet a West Cork Triathlon Club rendez a Skibbereen melletti Tragumna strandon. A verseny egy 750 méteres nyílt vízi úszásból a strandon, egy körülbelül 18-20 km-es kerékpározásból és egy 5 km-es futásból áll. Az úszás rajtja és a váltózóna a Tragumna strandon található.",
+     "ro": "Un triatlon sprint organizat de West Cork Triathlon Club, cu baza pe plaja Tragumna lângă Skibbereen. Constă într-o înot în apă deschisă de 750 m pe plajă, un ciclu de aproximativ 18-20 km și o alergare de 5 km. Startul înotului și zona de tranziție sunt situate pe plaja Tragumna.",
+     "en": "A sprint triathlon hosted by West Cork Triathlon Club based at Tragumna strand near Skibbereen, consisting of a 750m open-water swim at the beach, a roughly 18-20km cycle and a 5km run. The swim start and transition area are located on Tragumna beach."
+    },
+    "source_url": "https://westcorktri.wordpress.com/tri-na-mona-sprint-triathlon/"
+   }
+  ]
+ },
+ "uggool-beach": {
+  "beach": "Uggool Beach",
+  "town": "Louisburgh",
+  "country": "Ireland",
+  "events": [
+   {
+    "name": {
+     "de": "Féile Chois Cuain",
+     "hu": "Féile Chois Cuain",
+     "ro": "Féile Chois Cuain",
+     "en": "Féile Chois Cuain"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am Mai-Feiertagswochenende; 2026: 30. April bis 4. Mai",
+     "hu": "évente a májusi ünnepi hétvégén; 2026: április 30. – május 4.",
+     "ro": "anual în weekendul de sărbătoare din mai; 2026: 30 aprilie – 4 mai",
+     "en": "annually on the May bank holiday weekend; 2026: 30 April to 4 May"
+    },
+    "date": "2026-04-30",
+    "blurb": {
+     "de": "Jährliches traditionelles irisches Musik-, Gesangs- und Tanzfestival, das in Pubs und Veranstaltungsorten in Louisburgh stattfindet, mit Workshops, Sessions, Ceili-Tanz und Konzerten. Die Ausgabe 2026 läuft vom 30. April bis 4. Mai.",
+     "hu": "Éves hagyományos ír zenei, ének- és táncfesztivál, amelyet Louisburgh kocsmáiban és helyszínein tartanak, workshopokkal, sessionökkel, ceili tánccal és koncertekkel. A 2026-os kiadás április 30-tól május 4-ig tart.",
+     "ro": "Festival anual de muzică, cântec și dans tradițional irlandez, desfășurat în pub-uri și locații din Louisburgh, cu ateliere, sesiuni, dans ceili și concerte. Ediția 2026 are loc între 30 aprilie și 4 mai.",
+     "en": "Annual traditional Irish music, song and dance festival held across pubs and venues in Louisburgh, with workshops, sessions, ceili dancing and concerts. The 2026 edition runs from 30 April to 4 May."
+    },
+    "source_url": "https://feilechoiscuain.com/"
+   },
+   {
+    "name": {
+     "de": "The September Sessions",
+     "hu": "The September Sessions",
+     "ro": "The September Sessions",
+     "en": "The September Sessions"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am zweiten Septemberwochenende",
+     "hu": "évente szeptember második hétvégéjén",
+     "ro": "anual în al doilea weekend din septembrie",
+     "en": "annually on the second weekend of September"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Wochenende mit traditioneller irischer Musik, Liedern und Gesprächen, das sich um die Pub An Bhun Abhainn in Louisburgh dreht.",
+     "hu": "Egy hétvége hagyományos ír zenével, dalokkal és beszélgetésekkel, amelynek középpontjában a louisburghi An Bhun Abhainn kocsma áll.",
+     "ro": "Un weekend de muzică tradițională irlandeză, cântece și conversații, centrat pe pub-ul An Bhun Abhainn din Louisburgh.",
+     "en": "A weekend of traditional Irish music, songs and conversation centred on An Bhun Abhainn pub in Louisburgh."
+    },
+    "source_url": "https://www.mayo-ireland.ie/en/towns-villages/louisburgh/louisburgh.html"
+   },
+   {
+    "name": {
+     "de": "Louisburgh Horse Show",
+     "hu": "Louisburgh Horse Show",
+     "ro": "Louisburgh Horse Show",
+     "en": "Louisburgh Horse Show"
+    },
+    "type": "other",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Juni",
+     "hu": "évente júniusban",
+     "ro": "anual în iunie",
+     "en": "annually in June"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Jährliche landwirtschaftliche Pferdeschau in Louisburgh. Sie wurde vom Show-Korrespondenten des Farmers Journal zur Show des Jahres 2010 gekürt.",
+     "hu": "Éves mezőgazdasági lókiállítás Louisburghban. A Farmers Journal show-riportere a 2010-es év show-jának választotta.",
+     "ro": "Expoziție agricolă anuală de cai în Louisburgh. A fost numită show-ul anului 2010 de corespondentul de show al Farmers Journal.",
+     "en": "Annual agricultural horse show held in Louisburgh. It was named show of the year for 2010 by the Farmers Journal show correspondent."
+    },
+    "source_url": "https://www.mayo-ireland.ie/en/towns-villages/louisburgh/louisburgh.html"
    }
   ]
  }

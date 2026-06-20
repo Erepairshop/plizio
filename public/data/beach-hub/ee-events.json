@@ -1,1 +1,641 @@
-{}
+{
+ "kabli-beach": {
+  "beach": "Kabli Beach",
+  "town": "Kabli",
+  "country": "Estonia",
+  "events": [
+   {
+    "name": {
+     "de": "Kabli Päikeseloojangu Festival (Kabli Sunset Festival)",
+     "hu": "Kabli Päikeseloojangu Festival (Kabli Sunset Festival)",
+     "ro": "Kabli Päikeseloojangu Festival (Kabli Sunset Festival)",
+     "en": "Kabli Päikeseloojangu Festival (Kabli Sunset Festival)"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich, etwa Ende Juni bis Anfang August",
+     "hu": "évente, nagyjából június végétől augusztus elejéig",
+     "ro": "anual, aproximativ de la sfârșitul lunii iunie până la începutul lunii august",
+     "en": "annually, roughly late June to early August"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Eine sommerliche Reihe von kulturellen Veranstaltungen im Dorf Kabli nahe dem Strand mit Open-Air-Konzerten, Abendessen, Ausflügen und Wanderungen. Sie läuft jedes Jahr von etwa 23. Juni bis Anfang August.",
+     "hu": "Nyári kulturális rendezvénysorozat a Kabli faluban, a strand közelében, szabadtéri koncertekkel, vacsorákkal, kirándulásokkal és túrákkal. Minden évben körülbelül június 23-tól augusztus elejéig tart.",
+     "ro": "O serie estivală de evenimente culturale în satul Kabli, lângă plajă, cu concerte în aer liber, cine, excursii și drumeții. Se desfășoară în fiecare an de pe la 23 iunie până la începutul lunii august.",
+     "en": "A summer series of cultural events in Kabli village near the beach, featuring open-air concerts, dinners, excursions and hikes. It runs each year from around June 23 to early August."
+    },
+    "source_url": "https://www.kablifestival.ee/"
+   },
+   {
+    "name": {
+     "de": "Jaanipäev (Mittsommer) Lagerfeuer am Kabli-Strand",
+     "hu": "Jaanipäev (Szentivánéji) tábortűz a Kabli strandon",
+     "ro": "Focul de tabără de Jaanipäev (Solstițiul de vară) pe plaja Kabli",
+     "en": "Jaanipäev (Midsummer) bonfire at Kabli beach"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am Mittsommerabend, 23. Juni",
+     "hu": "évente Szentivánéj előestéjén, június 23-án",
+     "ro": "anual în Ajunul Solstițiului de vară, 23 iunie",
+     "en": "annually on Midsummer's Eve, 23 June"
+    },
+    "date": "2026-06-23",
+    "blurb": {
+     "de": "Der Strand des Dorfes Kabli ist einer der Treffpunkte in der Region Häädemeeste für die estnischen Mittsommerabend-Lagerfeuerfeierlichkeiten am 23. Juni.",
+     "hu": "A Kabli falu strandja az egyik gyülekezőhely a Häädemeeste körzetben az észt Szentivánéji tábortűz-ünnepségekhez június 23-án.",
+     "ro": "Plaja satului Kabli este unul dintre locurile de întâlnire din zona Häädemeeste pentru sărbătorile estoniene cu foc de tabără de Ajunul Solstițiului de vară pe 23 iunie.",
+     "en": "Kabli village beach is one of the gathering spots in the Häädemeeste area for Estonia's Midsummer's Eve bonfire celebrations on 23 June."
+    },
+    "source_url": "https://balticguide.ee/en/celebrating-midsummer-in-estonia/"
+   }
+  ]
+ },
+ "kalarand": {
+  "beach": "Kalarand",
+  "town": "Tallinn",
+  "country": "Estonia",
+  "events": [
+   {
+    "name": {
+     "de": "Kalamaja Days (Kalamaja päevad)",
+     "hu": "Kalamaja Days (Kalamaja päevad)",
+     "ro": "Kalamaja Days (Kalamaja päevad)",
+     "en": "Kalamaja Days (Kalamaja päevad)"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Mitte Mai; Ausgabe 2026 am 16.-17. Mai",
+     "hu": "évente május közepén; a 2026-os kiadás május 16-17.",
+     "ro": "anual la mijlocul lunii mai; ediția 2026 pe 16-17 mai",
+     "en": "annually mid-May; 2026 edition 16-17 May"
+    },
+    "date": "2026-05-16",
+    "blurb": {
+     "de": "Kostenloses Gemeinschaftsfestival im gesamten Kalamaja-Viertel, dem Stadtteil, der den Kalarand-Strand umfasst, mit Straßenmusik, Essen, Kunsthandwerksmärkten und Pop-up-Cafés in Innenhöfen. Das Programm 2026 umfasst Veranstaltungsorte an der Kalaranna-Straße am Meer.",
+     "hu": "Ingyenes közösségi fesztivál a Kalamaja negyedben, a Kalarand strandot is magába foglaló városrészben, utcai zenével, ételkínálattal, kézműves piacokkal és pop-up udvari kávézókkal. A 2026-os program helyszínei közé tartozik a tengerparti Kalaranna utca.",
+     "ro": "Festival comunitar gratuit în cartierul Kalamaja, cartierul care include plaja Kalarand, cu muzică stradală, mâncare, târguri de artizanat și cafenele pop-up în curți. Programul din 2026 include locații pe strada Kalaranna, lângă malul mării.",
+     "en": "Free community festival across the Kalamaja district, the neighbourhood that includes Kalarand beach, with street music, food, craft markets and pop-up courtyard cafes. The 2026 programme includes venues on Kalaranna street by the seafront."
+    },
+    "source_url": "https://kalamajapaevad.ee/program2026english/"
+   },
+   {
+    "name": {
+     "de": "Tallinn Maritime Days (Tallinna merepäevad)",
+     "hu": "Tallinn Maritime Days (Tallinna merepäevad)",
+     "ro": "Tallinn Maritime Days (Tallinna merepäevad)",
+     "en": "Tallinn Maritime Days (Tallinna merepäevad)"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Sommer; eine aktuelle Ausgabe fand vom 25.-28. August statt",
+     "hu": "évente nyáron; egy közelmúltbeli kiadás augusztus 25-28. között volt",
+     "ro": "anual vara; o ediție recentă a avut loc între 25 și 28 august",
+     "en": "annually in summer; held 25-28 August in a recent edition"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Estlands größtes See- und Familienfestival, das an mehreren Tallinner Häfen stattfindet, mit Schiffsbesichtigungen, Märkten und einer Seeparade. Die Route der Parade ist vom Kalarand und dem angrenzenden Linnahall-Ufer aus sichtbar.",
+     "hu": "Észtország legnagyobb tengeri és családi fesztiválja, amely Tallinn több kikötőjében zajlik hajólátogatásokkal, piacokkal és tengeri parádéval. A parádé útvonala látható a Kalarandról és a szomszédos Linnahall-partról.",
+     "ro": "Cel mai mare festival marin și de familie din Estonia, desfășurat în mai multe porturi din Tallinn, cu vizite la nave, târguri și o paradă navală. Traseul paradei este vizibil de pe plaja Kalarand și de pe malul adiacent Linnahall.",
+     "en": "Estonia's largest sea and family festival, held across several Tallinn harbours with ship visits, markets and a sea parade. The parade route is visible from Kalarand and the adjacent Linnahall shoreline."
+    },
+    "source_url": "https://www.tallinnamerepaevad.ee/?lang=en"
+   }
+  ]
+ },
+ "kassari-beach": {
+  "beach": "Kassari Beach",
+  "town": "Kassari",
+  "country": "Estonia",
+  "events": [
+   {
+    "name": {
+     "de": "Hiiu Folk",
+     "hu": "Hiiu Folk",
+     "ro": "Hiiu Folk",
+     "en": "Hiiu Folk"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Mitte Juli, 2026 vom 17. bis 19. Juli",
+     "hu": "évente július közepén, a 2026-os kiadás július 17-19.",
+     "ro": "anual la mijlocul lunii iulie, ediția 2026 în perioada 17-19 iulie",
+     "en": "annually mid-July; 2026 edition 17-19 July"
+    },
+    "date": "2026-07-17",
+    "blurb": {
+     "de": "Hiiumaas traditionelles Volksmusikfestival, dessen Hauptkonzerte auf dem Kassari kiigeplats (Schaukelplatz) im Dorf Kassari stattfinden, während die Konzerte des letzten Tages auf die Kirchen und Kapellen der Insel verteilt sind. Es ist Estlands einziges alkoholfreies Musikfestival.",
+     "hu": "Hiiumaa hagyományos népzenei fesztiválja, amelynek fő koncertjeit a Kassari kiigeplats (hintázóhely) Kassari faluban tartják, az utolsó napi koncertek pedig a sziget templomaiban és kápolnáiban szétszórva zajlanak. Ez Észtország egyetlen alkoholmentes zenei fesztiválja.",
+     "ro": "Festivalul tradițional de muzică populară din Hiiumaa, ale cărui concerte principale au loc la Kassari kiigeplats (locul de leagăn) din satul Kassari, iar concertele din ultima zi sunt răspândite în bisericile și capelele insulei. Este singurul festival de muzică fără alcool din Estonia.",
+     "en": "Hiiumaa's traditional folk music festival whose main concerts are held at the Kassari kiigeplats (swing site) in Kassari village, with the final day's concerts spread across island churches and chapels. It is Estonia's only alcohol-free music festival."
+    },
+    "source_url": "https://hiiufolk.ee/en/"
+   },
+   {
+    "name": {
+     "de": "Kassari Klassika",
+     "hu": "Kassari Klassika",
+     "ro": "Kassari Klassika",
+     "en": "Kassari Klassika"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "Konzertreihe den Sommer über, 2026 Eröffnung am 29. Mai in der Kassari Kabel",
+     "hu": "koncertsorozat a nyár folyamán, a 2026-os nyitó május 29-én a Kassari Kabelben",
+     "ro": "serie de concerte pe parcursul verii, deschiderea ediției 2026 pe 29 mai la Kassari Kabel",
+     "en": "concert series across summer; 2026 opening 29 May at Kassari Kabel"
+    },
+    "date": "2026-05-29",
+    "blurb": {
+     "de": "Eine Reihe klassischer Musikkonzerte in der Kassari Kabel (Kassari-Kapelle) im Dorf Kassari. Die Saison 2026 markiert das fünfte Jahr der Reihe mit mehreren Konzerten im Laufe des Sommers.",
+     "hu": "Klasszikus zenei koncertek sorozata a Kassari Kabelben (Kassari-kápolna) Kassari faluban. A 2026-os évad a sorozat ötödik évét jelenti, több koncerttel a nyár folyamán.",
+     "ro": "O serie de concerte de muzică clasică susținute la Kassari Kabel (Capela Kassari) din satul Kassari. Sezonul 2026 marchează al cincilea an al seriei, cu mai multe concerte programate pe parcursul verii.",
+     "en": "A series of classical music concerts held at Kassari Kabel (Kassari Chapel) in Kassari village. The 2026 season marks the series' fifth year with several concerts scheduled through the summer."
+    },
+    "source_url": "https://hiiumaa.ee/sundmus/kassari-klassika-2026-avakontsert-kassari-kabelis/"
+   },
+   {
+    "name": {
+     "de": "Kodukohvikute paevad Hiiumaal (Home Cafes Days)",
+     "hu": "Kodukohvikute paevad Hiiumaal (Home Cafes Days)",
+     "ro": "Kodukohvikute paevad Hiiumaal (Home Cafes Days)",
+     "en": "Kodukohvikute paevad Hiiumaal (Home Cafes Days)"
+    },
+    "type": "food",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juli bis Anfang August, 2026 vom 30. Juli bis 1. August",
+     "hu": "évente július végétől augusztus elejéig, a 2026-os kiadás július 30-tól augusztus 1-ig",
+     "ro": "anual de la sfârșitul lunii iulie până la începutul lunii august, ediția 2026 în perioada 30 iulie - 1 august",
+     "en": "annually late July to early August; 2026 edition 30 July to 1 August"
+    },
+    "date": "2026-07-30",
+    "blurb": {
+     "de": "Ein Heimcafé-Event, das am ersten Tag auf der Insel Kassari öffnet, bevor es sich auf Cafés in ganz Hiiumaa ausweitet. Die Bewohner servieren hausgemachtes Essen und Backwaren aus privaten Häusern und Gärten.",
+     "hu": "Egy otthoni kávézó esemény, amely az első napon Kassari szigetén nyílik meg, mielőtt kiterjedne Hiiumaa kávézóira. A lakosok házi készítésű ételeket és süteményeket szolgálnak fel magánházakból és kertekből.",
+     "ro": "Un eveniment de cafenele acasă, care se deschide pe insula Kassari în prima zi, înainte de a se extinde la cafenelele din întreaga Hiiumaa. Localnicii servesc mâncare gătită acasă și produse de patiserie din case și grădini private.",
+     "en": "A home-cafes event that opens on Kassari island on the first day before expanding to cafes across Hiiumaa. Residents serve home-cooked food and baking from private homes and gardens."
+    },
+    "source_url": "https://allevents.in/muhu/kodukohvikute-p%C3%A4evad-hiiumaal-3007-1082026/200030033458211"
+   }
+  ]
+ },
+ "narva-joesuu-beach": {
+  "beach": "Narva Joesuu Beach",
+  "town": "Narva-Jõesuu",
+  "country": "Estonia",
+  "events": [
+   {
+    "name": {
+     "de": "Narva-Jõesuu Jazz",
+     "hu": "Narva-Jõesuu Jazz",
+     "ro": "Narva-Jõesuu Jazz",
+     "en": "Narva-Jõesuu Jazz"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juli, Ausgabe 2026 am 25. Juli",
+     "hu": "évente július végén, a 2026-os kiadás július 25-én",
+     "ro": "anual la sfârșitul lunii iulie, ediția 2026 pe 25 iulie",
+     "en": "annually late July; 2026 edition 25 July"
+    },
+    "date": "2026-07-25",
+    "blurb": {
+     "de": "Jährliches Jazzfestival im Hele Park nahe dem Narva-Jõesuu Strand und Kuursaal. Das Line-up 2026 umfasst Dado Moroni, Dana Masters, Kadri Voorand und das Pauli Halonen Groove Trio.",
+     "hu": "Éves dzsesszfesztivál a Hele Parkban, a Narva-Jõesuu-i strand és a Kuursaal közelében. A 2026-os fellépők között van Dado Moroni, Dana Masters, Kadri Voorand és a Pauli Halonen Groove Trio.",
+     "ro": "Festival anual de jazz în Parcul Hele, lângă plaja Narva-Jõesuu și Kuursaal. Lineup-ul din 2026 îi include pe Dado Moroni, Dana Masters, Kadri Voorand și Pauli Halonen Groove Trio.",
+     "en": "Annual jazz festival held in Hele Park near the Narva-Jõesuu beach and Kuursaal. The 2026 lineup includes Dado Moroni, Dana Masters, Kadri Voorand and the Pauli Halonen Groove Trio."
+    },
+    "source_url": "https://narva-joesuujazz.ee/en/"
+   },
+   {
+    "name": {
+     "de": "Narva-Jõesuu Feestival (Tuletorn)",
+     "hu": "Narva-Jõesuu Feestival (Tuletorn)",
+     "ro": "Narva-Jõesuu Feestival (Tuletorn)",
+     "en": "Narva-Jõesuu Feestival (Tuletorn)"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "20.-23. August 2026",
+     "hu": "2026. augusztus 20-23.",
+     "ro": "20-23 august 2026",
+     "en": "20-23 August 2026"
+    },
+    "date": "2026-08-20",
+    "blurb": {
+     "de": "Ein mehrtägiges Klassik- und Kammermusikfestival in Narva-Jõesuu mit Abendkonzerten estnischer und gastgebender Künstler, darunter die Estnische Percussion-Gruppe und die Eesti Sinfonietta. Das Abschlusskonzert findet in einem grünen Park statt.",
+     "hu": "Többnapos klasszikus- és kamarazenei fesztivál Narva-Jõesuu-ban, esti koncertekkel észt és vendégelőadókkal, köztük az Észt Ütőegyüttessel és az Eesti Sinfoniettával. A zárókoncert egy zöld parkban kerül megrendezésre.",
+     "ro": "Un festival de muzică clasică și de cameră de mai multe zile în Narva-Jõesuu, cu concerte de seară susținute de interpreți estonieni și invitați, inclusiv Grupul Estonian de Percuție și Eesti Sinfonietta. Concertul de închidere are loc într-un parc verde.",
+     "en": "A multi-day classical and chamber music festival in Narva-Jõesuu with evening concerts featuring Estonian and visiting performers, including the Estonian Percussion Group and Eesti Sinfonietta. The closing concert is held in a green park."
+    },
+    "source_url": "https://visitnarvajoesuu.ee/njfeestival"
+   },
+   {
+    "name": {
+     "de": "Jaaniõhtu (Mittsommerfeier)",
+     "hu": "Jaaniõhtu (Szentivánéji ünnepség)",
+     "ro": "Jaaniõhtu (Sărbătoarea solstițiului de vară)",
+     "en": "Jaaniõhtu (Midsummer celebration)"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am 23. Juni",
+     "hu": "évente június 23-án",
+     "ro": "anual pe 23 iunie",
+     "en": "annually 23 June"
+    },
+    "date": "2026-06-23",
+    "blurb": {
+     "de": "Mittsommerfeier im Hele Park nahe dem Strand in Narva-Jõesuu. Sie ist Teil des regulären sommerlichen Kulturprogramms des Kurorts.",
+     "hu": "Szentivánéji ünnepség a Hele Parkban, a Narva-Jõesuu-i strand közelében. A fürdőváros rendszeres nyári kulturális programjának része.",
+     "ro": "Sărbătoarea solstițiului de vară în Parcul Hele, lângă plaja din Narva-Jõesuu. Face parte din calendarul cultural obișnuit de vară al stațiunii.",
+     "en": "Midsummer celebration held in Hele Park near the beach in Narva-Jõesuu. It is part of the resort town's regular summer cultural calendar."
+    },
+    "source_url": "https://visitnarvajoesuu.ee/"
+   },
+   {
+    "name": {
+     "de": "Kalurite päev (Fischertag)",
+     "hu": "Kalurite päev (Halászok napja)",
+     "ro": "Kalurite päev (Ziua pescarilor)",
+     "en": "Kalurite päev (Fishermen's Day)"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "Sommer, 2026 am 12. Juli",
+     "hu": "nyár, 2026-ban július 12-én",
+     "ro": "vara, în 2026 pe 12 iulie",
+     "en": "summer; 2026 on 12 July"
+    },
+    "date": "2026-07-12",
+    "blurb": {
+     "de": "Der Fischertag findet am Hafen von Narva-Jõesuu nahe dem Strand statt. Es ist eine wiederkehrende sommerliche Gemeinschaftsveranstaltung im Kurort.",
+     "hu": "A Halászok napja a Narva-Jõesuu-i kikötőben, a strand közelében zajlik. Ez egy rendszeres nyári közösségi esemény a fürdővárosban.",
+     "ro": "Ziua pescarilor are loc la portul Narva-Jõesuu, lângă plajă. Este un eveniment comunitar estival recurent în stațiune.",
+     "en": "Fishermen's Day takes place at the Narva-Jõesuu harbour near the beach. It is a recurring summer community event in the resort town."
+    },
+    "source_url": "https://visitnarvajoesuu.ee/"
+   },
+   {
+    "name": {
+     "de": "Narva-Jõesuu Linnapäev (Stadttag)",
+     "hu": "Narva-Jõesuu Linnapäev (Városnap)",
+     "ro": "Narva-Jõesuu Linnapäev (Ziua orașului)",
+     "en": "Narva-Jõesuu Linnapäev (Town Day)"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "Sommer, 2026 am 8. August",
+     "hu": "nyár, 2026-ban augusztus 8-án",
+     "ro": "vara, în 2026 pe 8 august",
+     "en": "summer; 2026 on 8 August"
+    },
+    "date": "2026-08-08",
+    "blurb": {
+     "de": "Der Stadttag von Narva-Jõesuu findet ab 11:00 Uhr im Hele Park statt, mit kulturellem Programm für die Kurortgemeinschaft.",
+     "hu": "Narva-Jõesuu városnapja a Hele Parkban kerül megrendezésre 11:00-tól, kulturális programokkal a fürdőváros közössége számára.",
+     "ro": "Ziua orașului Narva-Jõesuu are loc în Parcul Hele începând cu ora 11:00, cu program cultural pentru comunitatea stațiunii.",
+     "en": "The town day of Narva-Jõesuu is held in Hele Park starting at 11:00, with cultural programming for the resort community."
+    },
+    "source_url": "https://visitnarvajoesuu.ee/"
+   }
+  ]
+ },
+ "paralepa-beach": {
+  "beach": "Paralepa Beach",
+  "town": "Haapsalu",
+  "country": "Estonia",
+  "events": [
+   {
+    "name": {
+     "de": "Haapsalu Triatlon",
+     "hu": "Haapsalu Triatlon",
+     "ro": "Haapsalu Triatlon",
+     "en": "Haapsalu Triatlon"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Anfang August (findet 2025 nicht statt; 2026 unbestätigt)",
+     "hu": "évente augusztus elején (2025-ben nem rendezik meg; 2026 bizonytalan)",
+     "ro": "anual la începutul lunii august (nu se desfășoară în 2025; 2026 neconfirmat)",
+     "en": "annually in early August (not held in 2025; 2026 unconfirmed)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Volkstriathlon, organisiert vom Club Paralepa (JK Paralepa) in Haapsalu, mit einer kurzen Hauptdistanz von etwa 350 m Schwimmen, 22 km Radfahren und 4 km Laufen. Der Schwimm- und Startbereich befinden sich im Bereich des Paralepa-Strandes und des Vaike-Viik-Gebiets.",
+     "hu": "Egy népi triatlon, amelyet a Paralepa klub (JK Paralepa) szervez Haapsaluban, rövid főtávval: kb. 350 m úszás, 22 km kerékpározás és 4 km futás. Az úszás és a rajtterület a Paralepa strand és a Vaike Viik környékén található.",
+     "ro": "Un triatlon popular organizat de clubul Paralepa (JK Paralepa) în Haapsalu, cu o distanță principală scurtă de aproximativ 350 m înot, 22 km ciclism și 4 km alergare. Zona de înot și de start se află în zona plajei Paralepa și a zonei Vaike Viik.",
+     "en": "A people's triathlon organised by Paralepa club (JK Paralepa) in Haapsalu, with a short main distance of about 350m swimming, 22km cycling and 4km running. The swim and start area are in the Paralepa beach and Vaike Viik area."
+    },
+    "source_url": "https://www.paralepa.ee/haapsalutriatlon"
+   },
+   {
+    "name": {
+     "de": "Augustibluus (August Blues Festival)",
+     "hu": "Augustibluus (August Blues Festival)",
+     "ro": "Augustibluus (August Blues Festival)",
+     "en": "Augustibluus (August Blues Festival)"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "31. Juli 2026 bis 2. August 2026",
+     "hu": "2026. július 31. – 2026. augusztus 2.",
+     "ro": "31 iulie 2026 – 2 august 2026",
+     "en": "2026-07-31 to 2026-08-02"
+    },
+    "date": "2026-07-31",
+    "blurb": {
+     "de": "Estlands traditionsreiches Bluesfestival in Haapsalu, der Stadt, zu der der Paralepa-Strand gehört, mit der Hauptbühne vor dem Haapsaluer Schloss und zusätzlichen Auftritten in Straßen und Straßencafés. Die 2026er Ausgabe ist die 32. und läuft vom 31. Juli bis 2. August.",
+     "hu": "Észtország hagyományos bluesfesztiválja Haapsaluban, abban a városban, amelyhez a Paralepa strand tartozik, a fő színpaddal a Haapsalu kastély előtt, valamint további fellépésekkel az utcákon és szabadtéri kávézókban. A 2026-os kiadás a 32., július 31-től augusztus 2-ig tart.",
+     "ro": "Festivalul de blues de lungă durată al Estoniei, desfășurat în Haapsalu, orașul de care aparține plaja Paralepa, cu scena principală amplasată în fața Castelului Haapsalu și spectacole suplimentare pe străzi și în cafenele în aer liber. Ediția din 2026 este a 32-a, având loc între 31 iulie și 2 august.",
+     "en": "Estonia's long-running blues festival held in Haapsalu, the town to which Paralepa beach belongs, with the main stage set against Haapsalu Castle and additional performances in streets and open-air cafes. The 2026 edition is the 32nd, running 31 July to 2 August."
+    },
+    "source_url": "https://www.visithaapsalu.com/puhkajale/suursundmused/"
+   }
+  ]
+ },
+ "parnu-beach": {
+  "beach": "Parnu Beach",
+  "town": "Pärnu",
+  "country": "Estonia",
+  "events": [
+   {
+    "name": {
+     "de": "Beach Grind",
+     "hu": "Beach Grind",
+     "ro": "Beach Grind",
+     "en": "Beach Grind"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Juli",
+     "hu": "évente júliusban",
+     "ro": "anual în iulie",
+     "en": "annually in July"
+    },
+    "date": "2026-07-10",
+    "blurb": {
+     "de": "Pop- und Elektronikmusik-Festival im Pärnu Beach Park mit estnischen und ausländischen Künstlern. Die Ausgabe 2026 findet vom 9. bis 11. Juli statt, die Hauptfesttage sind am 10. und 11. Juli.",
+     "hu": "Pop- és elektronikus zenei fesztivál a Pärnu Beach Parkban, észt és külföldi előadókkal. A 2026-os kiadás július 9-11. között zajlik, a fő fesztiválnapok július 10-11.",
+     "ro": "Festival de muzică pop și electronică desfășurat în Parcul Plajei Pärnu, cu artiști estonieni și străini. Ediția 2026 are loc între 9 și 11 iulie, zilele principale ale festivalului fiind pe 10-11 iulie.",
+     "en": "Pop and electronic music festival held at Pärnu Beach Park featuring Estonian and foreign artists. The 2026 edition runs July 9-11 with main festival days on 10-11 July."
+    },
+    "source_url": "https://visitparnu.com/en/sundmus/beach-grind-2026-2/"
+   },
+   {
+    "name": {
+     "de": "Nordic Kite Fest",
+     "hu": "Nordic Kite Fest",
+     "ro": "Nordic Kite Fest",
+     "en": "Nordic Kite Fest"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Mitte Juni",
+     "hu": "évente június közepén",
+     "ro": "anual la mijlocul lunii iunie",
+     "en": "annually mid-June"
+    },
+    "date": "2026-06-11",
+    "blurb": {
+     "de": "Kitesurfing- und Strandkultur-Festival am Pärnu Beach mit Kiteboard-Wettbewerben, Anfänger- und Fortgeschrittenen-Workshops, Demobereichen und abendlichen Konzerten am Meer. Die Ausgabe 2026 erstreckt sich über vier Tage ab dem 11. Juni.",
+     "hu": "Szörf- és strandkultúra-fesztivál a Pärnu strandon, kiteboard versenyekkel, kezdő és haladó workshopokkal, bemutatóterületekkel és esti koncertekkel a tengerparton. A 2026-os kiadás négy napig tart, június 11-től kezdődően.",
+     "ro": "Festival de kitesurfing și cultură de plajă pe Plaja Pärnu, cu competiții de kiteboarding, ateliere pentru începători și avansați, zone demonstrative și concerte serale lângă mare. Ediția 2026 se desfășoară pe patru zile începând cu 11 iunie.",
+     "en": "Kitesurfing and beach culture festival held on Pärnu Beach with kiteboarding competitions, beginner and advanced workshops, demo areas, and evening concerts by the sea. The 2026 edition runs over four days starting 11 June."
+    },
+    "source_url": "https://visitparnu.com/sundmus/nordic-kite-fest-2026/"
+   },
+   {
+    "name": {
+     "de": "Pärnu Music Festival",
+     "hu": "Pärnu Music Festival",
+     "ro": "Pärnu Music Festival",
+     "en": "Pärnu Music Festival"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Mitte Juli",
+     "hu": "évente július közepén",
+     "ro": "anual la mijlocul lunii iulie",
+     "en": "annually mid-July"
+    },
+    "date": "2026-07-08",
+    "blurb": {
+     "de": "Klassikfestival in Pärnu, das etablierte Künstler und junge Talente zusammenbringt. Die XVI. Ausgabe findet vom 8. bis 18. Juli 2026 statt.",
+     "hu": "Klasszikus zenei fesztivál Pärnuban, amely összehozza a neves előadókat és a fiatal tehetségeket. A XVI. kiadás 2026. július 8-18. között zajlik.",
+     "ro": "Festival de muzică clasică la Pärnu, care reunește artiști consacrați și tinere talente. Ediția a XVI-a are loc între 8 și 18 iulie 2026.",
+     "en": "Classical music festival in Pärnu bringing together established performers and young talents. The XVI edition runs 8-18 July 2026."
+    },
+    "source_url": "https://parnumusicfestival.ee/en/programme/"
+   },
+   {
+    "name": {
+     "de": "Pärnu Blues Days",
+     "hu": "Pärnu Blues Days",
+     "ro": "Pärnu Blues Days",
+     "en": "Pärnu Blues Days"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Hochsommer",
+     "hu": "évente nyár közepén",
+     "ro": "anual la mijlocul verii",
+     "en": "annually mid-summer"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Bluesfestival in Pärnu mit estnischen und internationalen Künstlern; Hauptveranstaltungsort ist der Pärnu Yacht Club in Strandnähe.",
+     "hu": "Bluesfesztivál Pärnuban, észt és nemzetközi előadókkal; a fő helyszín a Pärnu Yacht Club a strand közelében.",
+     "ro": "Festival de blues la Pärnu, cu artiști estonieni și internaționali; locația principală este Pärnu Yacht Club, aproape de zona de plajă.",
+     "en": "Blues festival in Pärnu with Estonian and international performers, with the main venue at the Pärnu Yacht Club near the beach area."
+    },
+    "source_url": "https://visitparnu.com/en/annual-music-festivals-and-events-in-parnu/"
+   }
+  ]
+ },
+ "pelgurand": {
+  "beach": "Pelgurand",
+  "town": "Tallinn",
+  "country": "Estonia",
+  "events": [
+   {
+    "name": {
+     "de": "Pohja-Tallinn Jaanipaev (Mittsommerfeier am Stroomi-Strand)",
+     "hu": "Pohja-Tallinn Jaanipaev (János-napi ünnepség a Stroomi strandon)",
+     "ro": "Pohja-Tallinn Jaanipaev (Sărbătoarea solstițiului de vară pe plaja Stroomi)",
+     "en": "Pohja-Tallinn Jaanipaev (Midsummer celebration at Stroomi beach)"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich um den 20.–23. Juni",
+     "hu": "évente, június 20–23. körül",
+     "ro": "anual în jurul datei de 20–23 iunie",
+     "en": "annually around 20-23 June"
+    },
+    "date": "2026-06-20",
+    "blurb": {
+     "de": "Der Bezirk Nord-Tallinn feiert Mittsommer am Pelgurand (Stroomi-Strand) mit einem Tagesmarkt im Strandpark und einem Abend mit freier Musik und einem traditionellen Lagerfeuer. Im Jahr 2026 läuft die Veranstaltung von 17:30 bis 22:00 Uhr mit Auftritten von Hunt, Merlyn Uuskula und Shanon.",
+     "hu": "Észak-Tallinn kerülete a Pelgurand (Stroomi) strandon tartja János-napi ünnepségét, nappali vásárral a strandparkban, este pedig ingyenes zenével és hagyományos tábortűzzel. 2026-ban 17:30-tól 22:00-ig tart, fellépők: Hunt, Merlyn Uuskula és Shanon.",
+     "ro": "Districtul Tallinn-Nord își sărbătorește solstițiul de vară pe plaja Pelgurand (Stroomi), cu o piață de zi în parcul de pe plajă și o seară cu muzică gratuită și un foc de tabără tradițional. În 2026, evenimentul se desfășoară între 17:30 și 22:00, cu spectacole susținute de Hunt, Merlyn Uuskula și Shanon.",
+     "en": "The North Tallinn district holds its midsummer celebration at Pelgurand (Stroomi) beach with a daytime market in the beach park and an evening of free music and a traditional bonfire. In 2026 it runs from 17:30 to 22:00 with performances including Hunt, Merlyn Uuskula and Shanon."
+    },
+    "source_url": "https://www.tallinn.ee/et/pohja/uudis/pohja-tallinn-tahistab-jaanipaeva-20-juunil-kaubeldakse-laadal-ja-peetakse-pidu"
+   },
+   {
+    "name": {
+     "de": "IRONMAN Tallinn (Schwimmstrecke)",
+     "hu": "IRONMAN Tallinn (úszószakasz)",
+     "ro": "IRONMAN Tallinn (etapa de înot)",
+     "en": "IRONMAN Tallinn (swim leg)"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "2026-08-23",
+     "hu": "2026-08-23",
+     "ro": "2026-08-23",
+     "en": "2026-08-23"
+    },
+    "date": "2026-08-23",
+    "blurb": {
+     "de": "Die Schwimmstrecke des IRONMAN Tallinn-Langdistanztriathlons findet im Meer am Pelgurand (Stroomi-Strand) statt, eine Zweirundenstrecke von insgesamt 3,8 km. Das Schwimmen wurde vom Harku-See hierher verlegt und der Meeresstart in Stroomi ist nun der Standardaustragungsort.",
+     "hu": "Az IRONMAN Tallinn hosszútávú triatlon úszószakaszát a Pelgurand (Stroomi) strandon rendezik a tengerben, egy kétkörös pályán, összesen 3,8 km hosszan. Az úszást a Harku-tótól helyezték át ide, és a Stroomi tengeri rajtja mostantól a standard helyszín.",
+     "ro": "Etapa de înot a triatlonului pe distanță lungă IRONMAN Tallinn se desfășoară în mare, pe plaja Pelgurand (Stroomi), pe un traseu cu două bucle, totalizând 3,8 km. Înotul a fost mutat aici de la Lacul Harku, iar startul în mare de la Stroomi este acum locul standard.",
+     "en": "The swim stage of the IRONMAN Tallinn long-distance triathlon is held in the sea at Pelgurand (Stroomi) beach, a two-loop course totalling 3.8 km. The swim was moved here from Lake Harku and the sea start at Stroomi is now the standard venue."
+    },
+    "source_url": "https://www.finishers.com/en/event/ironman-tallinn"
+   }
+  ]
+ },
+ "pikakari-beach": {
+  "beach": "Pikakari Beach",
+  "town": "Tallinn",
+  "country": "Estonia",
+  "events": [
+   {
+    "name": {
+     "de": "Baltic Sea Day am Pikakari Beach",
+     "hu": "Baltic Sea Day a Pikakari strandon",
+     "ro": "Baltic Sea Day pe plaja Pikakari",
+     "en": "Baltic Sea Day at Pikakari Beach"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich, am letzten Donnerstag im August",
+     "hu": "évente, augusztus utolsó csütörtökjén",
+     "ro": "anual, în ultima joi din august",
+     "en": "annually, last Thursday of August"
+    },
+    "date": "2026-08-27",
+    "blurb": {
+     "de": "Tallinn begeht den Baltic Sea Day mit einer Familienveranstaltung am Pikakari Beach und auf der Paljassaare-Halbinsel, einschließlich einer Strandsäuberungsaktion, eines Umwelt-Orientierungsspiels, Workshops zu Wassersicherheit und Meeresschutz sowie einer Naturwanderung. Organisiert wird die Veranstaltung von der NGO Puhta Ilma koda gemeinsam mit der Stadt Tallinn und dem Bezirk Pohja-Tallinn.",
+     "hu": "Tallinn a Balti-tenger napját egy családi rendezvénnyel ünnepli a Pikakari strandon és a Paljassaare-félszigeten, amely magában foglal egy partszakasz-takarítást, egy környezeti tájékozódási játékot, vízbiztonsági és tengeri védelmi workshopokat, valamint egy természetjáró túrát. A rendezvényt a Puhta Ilma koda NGO szervezi Tallinn városával és a Pohja-Tallinn kerülettel együttműködve.",
+     "ro": "Tallinn marchează Ziua Mării Baltice cu un eveniment de familie pe plaja Pikakari și pe peninsula Paljassaare, incluzând o curățare a țărmului, un joc de orientare ecologică, ateliere despre siguranța pe apă și protecția marină, precum și o drumeție în natură. Este organizat de ONG-ul Puhta Ilma koda împreună cu orașul Tallinn și districtul Pohja-Tallinn.",
+     "en": "Tallinn marks Baltic Sea Day with a family event at Pikakari Beach and the Paljassaare Peninsula, including a shoreline clean-up, an environmental orienteering game, water-safety and marine-protection workshops, and a nature hike. It is organised by the NGO Puhta Ilma koda together with the City of Tallinn and the Pohja-Tallinn district."
+    },
+    "source_url": "https://www.tallinn.ee/en/news/baltic-sea-day-be-celebrated-clean-hike-and-orienteering"
+   }
+  ]
+ },
+ "pirita-beach": {
+  "beach": "Pirita Beach",
+  "town": "Tallinn",
+  "country": "Estonia",
+  "events": [
+   {
+    "name": {
+     "de": "Birgitta Festival",
+     "hu": "Birgitta Festival",
+     "ro": "Birgitta Festival",
+     "en": "Birgitta Festival"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "Sommer (Anfang August), alle zwei Jahre; nächste Ausgabe 2026",
+     "hu": "nyár (augusztus eleje), kétévente; következő kiadás 2026",
+     "ro": "vara (începutul lui august), bienal; următoarea ediție 2026",
+     "en": "summer (early August), biennial; next edition 2026"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Musiktheaterfestival mit Oper, Ballett und Konzerten in den Ruinen des Pirita-Klosters (St. Birgitta) neben dem Pirita-Strand. Nach der Umstellung auf einen zweijährigen Turnus findet die nächste Ausgabe 2026 statt, geplant mit dem Estnischen Nationalen Sinfonieorchester.",
+     "hu": "Opera-, balett- és koncertszínházi fesztivál a Pirita (Szent Brigitta) kolostor romjai között, a Pirita strand mellett. A kétévenkénti ütemezésre való áttérés után a következő kiadás 2026-ban lesz, az Észt Nemzeti Szimfonikus Zenekar közreműködésével.",
+     "ro": "Festival de teatru muzical cu operă, balet și concerte, organizat în ruinele Mănăstirii Pirita (Sfânta Brigitta), lângă plaja Pirita. După trecerea la un program bienal, următoarea ediție este în 2026, planificată cu Orchestra Simfonică Națională Estonă.",
+     "en": "Music theatre festival of opera, ballet and concerts staged in the ruins of the Pirita (St Birgitta) Convent next to Pirita Beach. After switching to a biennial schedule, the next edition is in 2026, planned with the Estonian National Symphony Orchestra."
+    },
+    "source_url": "https://news.err.ee/1609579027/birgitta-festival-switches-to-biannual-schedule-next-event-in-2026"
+   },
+   {
+    "name": {
+     "de": "Pirita Open Winter Swimming Festival",
+     "hu": "Pirita Open Winter Swimming Festival",
+     "ro": "Pirita Open Winter Swimming Festival",
+     "en": "Pirita Open Winter Swimming Festival"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Februar oder Anfang März",
+     "hu": "évente február végén vagy március elején",
+     "ro": "anual, la sfârșitul lunii februarie sau începutul lunii martie",
+     "en": "annually in late February or early March"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Internationaler Winterschwimmwettbewerb im Pirita-Jachthafen am Strand, ausgetragen als Veranstaltung der International Winter Swimming Association mit einem estnischen nationalen Rennen. Die Schwimmer konkurrieren in einem Becken, das in das kalte Ostseewasser geschnitten ist.",
+     "hu": "Nemzetközi téli úszóverseny a Pirita kikötőben, a strand mellett, a Nemzetközi Téli Úszó Szövetség rendezvényeként, észt nemzeti versennyel. Az úszók egy, a hideg Balti-tenger vizébe vágott medencében versenyeznek.",
+     "ro": "Competiție internațională de înot de iarnă desfășurată la marina Pirita, lângă plajă, organizată ca eveniment al Asociației Internaționale de Înot de Iarnă, cu o cursă națională estonă. Înotătorii concurează într-un bazin tăiat în apa rece a Mării Baltice.",
+     "en": "International winter swimming competition held at the Pirita marina by the beach, run as an International Winter Swimming Association event with an Estonian national race. Swimmers compete in a pool cut into the cold Baltic seawater."
+    },
+    "source_url": "https://outdoorswimmer.com/featured/pirita-open-winter-swimming-festival-literally-baltic/"
+   },
+   {
+    "name": {
+     "de": "Pirita Winter Swimming Centre Saison",
+     "hu": "Pirita Winter Swimming Centre szezon",
+     "ro": "Sezonul Centrului de Înot de Iarnă Pirita",
+     "en": "Pirita Winter Swimming Centre season"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "1. November bis 31. März jeden Winter",
+     "hu": "november 1-től március 31-ig minden télen",
+     "ro": "1 noiembrie până la 31 martie în fiecare iarnă",
+     "en": "1 November to 31 March each winter"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Die Stadt Tallinn betreibt ein kostenloses Winterschwimmzentrum am Pirita-Strand mit Instruktoren und einer warmen Sauna vor Ort. Die Bewohner können während der gesamten Wintersaison an beaufsichtigten Kaltwasserbädern teilnehmen.",
+     "hu": "Tallinn városa ingyenes téli úszóközpontot üzemeltet a Pirita strandon, oktatókkal és meleg szaunával a helyszínen. A lakosok egész télen felügyelt hideg vizes fürdőkön vehetnek részt.",
+     "ro": "Orașul Tallinn operează un centru gratuit de înot de iarnă pe plaja Pirita, cu instructori și o saună caldă la fața locului. Rezidenții pot participa la scufundări supravegheate în apă rece pe tot parcursul sezonului de iarnă.",
+     "en": "The city of Tallinn operates a free winter swimming centre at Pirita Beach with instructors and a warm sauna on site. Residents can take part in supervised cold-water dips throughout the winter season."
+    },
+    "source_url": "https://www.tallinn.ee/en/news/tallinn-invites-residents-free-winter-swim-february"
+   }
+  ]
+ }
+}

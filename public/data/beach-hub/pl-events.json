@@ -1,1 +1,579 @@
-{}
+{
+ "beach-przytor-swinoujscie": {
+  "beach": "Beach Przytor Swinoujscie",
+  "town": "Świnoujście",
+  "country": "Poland",
+  "events": [
+   {
+    "name": {
+     "de": "Dni Morza (Sea Days)",
+     "hu": "Dni Morza (Sea Days)",
+     "ro": "Dni Morza (Sea Days)",
+     "en": "Dni Morza (Sea Days)"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "26. Juni bis 28. Juni 2026 (jährlich Ende Juni)",
+     "hu": "2026. június 26-tól június 28-ig (évente június végén)",
+     "ro": "26 iunie – 28 iunie 2026 (anual, la sfârșitul lunii iunie)",
+     "en": "2026-06-26 to 2026-06-28 (annually late June)"
+    },
+    "date": "2026-06-26",
+    "blurb": {
+     "de": "Dreitägiges Meeresfest am Wybrzeże Władysława IV in Świnoujście mit Open-Air-Konzerten, Familienaktivitäten, Wettbewerben und einer feierlichen Eröffnung mit Neptun. Die Ausgabe 2026 findet von Freitag, 26. Juni, bis Sonntag, 28. Juni statt.",
+     "hu": "Háromnapos tengerparti fesztivál a świnoujściei Wybrzeże Władysława IV-en, szabadtéri koncertekkel, családi programokkal, versenyekkel és egy ünnepélyes megnyitóval, amelyen Neptunusz is feltűnik. A 2026-os kiadás június 26-án, péntektől június 28-án, vasárnapig tart.",
+     "ro": "Festival de trei zile pe malul mării, desfășurat pe Wybrzeże Władysława IV în Świnoujście, cu concerte în aer liber, activități pentru familie, concursuri și o deschidere ceremonială cu Neptun. Ediția 2026 are loc de vineri, 26 iunie, până duminică, 28 iunie.",
+     "en": "Three-day seaside festival held on Wybrzeże Władysława IV in Świnoujście with open-air concerts, family activities, competitions and a ceremonial opening featuring Neptune. The 2026 edition runs Friday 26 June to Sunday 28 June."
+    },
+    "source_url": "https://www.swinoujscie.pl/artykuly/dni-morza-2026"
+   },
+   {
+    "name": {
+     "de": "Festiwal FAMA",
+     "hu": "Festiwal FAMA",
+     "ro": "Festiwal FAMA",
+     "en": "Festiwal FAMA"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "24. August bis 29. August 2026 (jährlich Ende August)",
+     "hu": "2026. augusztus 24-től augusztus 29-ig (évente augusztus végén)",
+     "ro": "24 august – 29 august 2026 (anual, la sfârșitul lunii august)",
+     "en": "2026-08-24 to 2026-08-29 (annually late August)"
+    },
+    "date": "2026-08-24",
+    "blurb": {
+     "de": "Langjähriges Studentenkunst- und Kulturfestival in Świnoujście, organisiert vom Miejski Dom Kultury, mit Aufführungen im städtischen Amphitheater. Die Ausgabe 2026 ist für den 24. bis 29. August geplant.",
+     "hu": "Hosszú múltra visszatekintő diák művészeti és kulturális fesztivál Świnoujście-ben, a Miejski Dom Kultury szervezésében, előadásokkal a városi amfiteátrumban. A 2026-os kiadás augusztus 24-től 29-ig tart.",
+     "ro": "Festival studențesc de artă și cultură de lungă durată în Świnoujście, organizat de Miejski Dom Kultury, cu spectacole susținute la amfiteatrul orașului. Ediția 2026 este programată pentru 24 – 29 august.",
+     "en": "Long-running student arts and culture festival in Świnoujście organised by the Miejski Dom Kultury, with performances staged at the city amphitheatre. The 2026 edition is scheduled for 24 to 29 August."
+    },
+    "source_url": "https://fama.org.pl/"
+   }
+  ]
+ },
+ "jastarnia-beach": {
+  "beach": "Jastarnia Beach",
+  "town": "Jastarnia",
+  "country": "Poland",
+  "events": [
+   {
+    "name": {
+     "de": "Defender Salt Wave Festival",
+     "hu": "Defender Salt Wave Festival",
+     "ro": "Defender Salt Wave Festival",
+     "en": "Defender Salt Wave Festival"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "31. Juli bis 1. August 2026",
+     "hu": "2026. július 31. – augusztus 1.",
+     "ro": "31 iulie – 1 august 2026",
+     "en": "2026-07-31 to 2026-08-01"
+    },
+    "date": "2026-07-31",
+    "blurb": {
+     "de": "Open-Air-Musikfestival auf der Halbinsel Hel in Jastarnia, mit einem Line-up unter anderem mit Crystal Fighters, Salvatore Ganacci, Vito Bambino und Sokół. Es findet seit mehreren Jahren jährlich im Surfgebiet von Jastarnia an der Putziger Bucht statt.",
+     "hu": "Szabadtéri zenei fesztivál a Hel-félszigeten, Jastarniában, a fellépők között Crystal Fighters, Salvatore Ganacci, Vito Bambino és Sokół. Több éve minden évben megrendezik Jastarnia szörfös területén a Pucki-öböl partján.",
+     "ro": "Festival de muzică în aer liber pe Peninsula Hel, la Jastarnia, cu artiști precum Crystal Fighters, Salvatore Ganacci, Vito Bambino și Sokół. Are loc anual de câțiva ani în zona de surfing Jastarnia, lângă Golful Puck.",
+     "en": "Open-air music festival held on the Hel Peninsula at Jastarnia, with a lineup including Crystal Fighters, Salvatore Ganacci, Vito Bambino and Sokół. It has run annually for several years in the Jastarnia surfing area by Puck Bay."
+    },
+    "source_url": "https://saltwave.pl/"
+   },
+   {
+    "name": {
+     "de": "Jastarnicko Sobótka",
+     "hu": "Jastarnicko Sobótka",
+     "ro": "Jastarnicko Sobótka",
+     "en": "Jastarnicko Sobótka"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich um den 23. Juni",
+     "hu": "évente június 23. körül",
+     "ro": "anual în jurul datei de 23 iunie",
+     "en": "annually around 23 June"
+    },
+    "date": "2026-06-23",
+    "blurb": {
+     "de": "Kaschubische Mittsommerfeier (Johannistag) auf dem Plac Sobótkowy in Jastarnia mit Lagerfeuer, Bühne, Konzerten und Animationen. Der Eintritt ist frei, und es ist eine der größten Veranstaltungen im Freien der Gemeinde.",
+     "hu": "Kasub szentivánéji (Szent János-éji) ünnepség a jastarniai Plac Sobótkowy téren, tábortűzzel, színpaddal, koncertekkel és animációkkal. A belépés ingyenes, és ez a település egyik legnagyobb szabadtéri rendezvénye.",
+     "ro": "Sărbătoare cașubă de vară (Noaptea Sfântului Ioan) în Piața Sobótkowy din Jastarnia, cu foc de tabără, scenă, concerte și animații. Intrarea este liberă, fiind unul dintre cele mai mari evenimente în aer liber ale localității.",
+     "en": "Kashubian midsummer (St. John's Night) celebration at Plac Sobótkowy in Jastarnia with a bonfire, stage, concerts and animations. Admission is free and it is one of the municipality's largest outdoor events."
+    },
+    "source_url": "https://longwavehomespot.com/imprezy-i-koncerty-na-polwyspie-helskim/"
+   },
+   {
+    "name": {
+     "de": "Marsz Śledzia",
+     "hu": "Marsz Śledzia",
+     "ro": "Marsz Śledzia",
+     "en": "Marsz Śledzia"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Mitte Juni",
+     "hu": "évente június közepén",
+     "ro": "anual la mijlocul lunii iunie",
+     "en": "annually mid-June"
+    },
+    "date": "2026-06-13",
+    "blurb": {
+     "de": "Ein traditioneller Heringsmarsch im Gebiet von Jastarnia und Kuznica auf der Halbinsel Hel. Es handelt sich um eine Wanderveranstaltung im Freien, nicht um ein Konzert.",
+     "hu": "Hagyományos heringmenet a Hel-félsziget Jastarnia és Kuznica környékén. Ez egy szabadtéri gyalogló esemény, nem koncert.",
+     "ro": "Un marș tradițional al heringului desfășurat în zona Jastarnia și Kuznica de pe Peninsula Hel. Este un eveniment de mers pe jos în aer liber, nu un concert.",
+     "en": "A traditional herring march held in the Jastarnia and Kuznica area of the Hel Peninsula. It is an outdoor walking event rather than a concert."
+    },
+    "source_url": "https://longwavehomespot.com/imprezy-i-koncerty-na-polwyspie-helskim/"
+   },
+   {
+    "name": {
+     "de": "Baltycki Maraton Brzegiem Morza",
+     "hu": "Baltycki Maraton Brzegiem Morza",
+     "ro": "Baltycki Maraton Brzegiem Morza",
+     "en": "Baltycki Maraton Brzegiem Morza"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im August, Start in Jastarnia",
+     "hu": "évente augusztusban, rajt Jastarniában",
+     "ro": "anual în august, start în Jastarnia",
+     "en": "annually in August, starts in Jastarnia"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Langstreckenlauf entlang der Ostseeküste, der in Jastarnia startet. Es ist einer der größten Strandlauf-Wettbewerbe in Polen.",
+     "hu": "Hosszútávfutó verseny a Balti-tenger partja mentén, Jastarniából indulva. Ez az egyik legnagyobb tengerparti futóverseny Lengyelországban.",
+     "ro": "Un concurs de alergare pe distanță lungă de-a lungul țărmului Mării Baltice, care pornește din Jastarnia. Este una dintre cele mai mari curse de alergare pe plajă din Polonia.",
+     "en": "A long-distance running event along the Baltic shore that starts in Jastarnia. It is one of the larger seaside running races in Poland."
+    },
+    "source_url": "https://longwavehomespot.com/imprezy-i-koncerty-na-polwyspie-helskim/"
+   }
+  ]
+ },
+ "miedzyzdroje-beach": {
+  "beach": "Miedzyzdroje Beach",
+  "town": "Międzyzdroje",
+  "country": "Poland",
+  "events": [
+   {
+    "name": {
+     "de": "Festiwal Gwiazd (Festival of Stars)",
+     "hu": "Festiwal Gwiazd (Festival of Stars)",
+     "ro": "Festiwal Gwiazd (Festival of Stars)",
+     "en": "Festiwal Gwiazd (Festival of Stars)"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Anfang Juli; 29. Ausgabe vom 2. bis 5. Juli 2026",
+     "hu": "évente július elején; 29. kiadás 2026. július 2-tól 5-ig",
+     "ro": "anual la începutul lunii iulie; ediția a 29-a între 2 și 5 iulie 2026",
+     "en": "annually early July; 29th edition 2026-07-02 to 2026-07-05"
+    },
+    "date": "2026-07-02",
+    "blurb": {
+     "de": "Jährliches polnisches Film- und Kulturfestival in Międzyzdroje seit 1996 mit Konzerten, Treffen mit Schauspielern und einer Zeremonie, bei der Stars ihre Handabdrücke in Gedenktafeln auf der seeseitigen Promenada Gwiazd neben dem Strand drücken. Die 29. Ausgabe ist für den 2. bis 5. Juli 2026 geplant.",
+     "hu": "Éves lengyel film- és kulturális fesztivál Międzyzdrojéban 1996 óta, koncertekkel, színésztalálkozókkal és egy ceremóniával, ahol a sztárok kéznyomukat préselik a tengerparti Promenada Gwiazd sétányon, a strand mellett elhelyezett emléktáblákba. A 29. kiadást 2026. július 2-tól 5-ig tervezik.",
+     "ro": "Festival anual polonez de film și cultură organizat la Międzyzdroje din 1996, cu concerte, întâlniri cu actori și o ceremonie în care vedetele își imprimă amprentele palmelor pe plăcuțe de pe Promenada Gwiazd de lângă plajă. Ediția a 29-a este programată între 2 și 5 iulie 2026.",
+     "en": "Annual Polish film and culture festival held in Międzyzdroje since 1996, featuring concerts, meetings with actors and a ceremony where stars press their handprints into plaques on the seaside Promenada Gwiazd next to the beach. The 29th edition is scheduled for 2 to 5 July 2026."
+    },
+    "source_url": "https://festiwalgwiazd.com"
+   },
+   {
+    "name": {
+     "de": "AI Beach Festival",
+     "hu": "AI Beach Festival",
+     "ro": "AI Beach Festival",
+     "en": "AI Beach Festival"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "August 2026 (Finale am Strand)",
+     "hu": "2026 augusztus (döntő a strandon)",
+     "ro": "August 2026 (finala pe plajă)",
+     "en": "August 2026 (finale on the beach)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Festival, bei dem Teams mit künstlicher Intelligenz Musik erstellen, mit öffentlicher Online-Abstimmung und einem Live-Finale am Strand in Międzyzdroje. Das Finale 2026 ist für August am Strand an der ul. Nowomyśliwska geplant.",
+     "hu": "Egy fesztivál, ahol csapatok mesterséges intelligenciával zenét készítenek, nyilvános online szavazással és élő döntővel a strandon Międzyzdrojéban. A 2026-os döntőt augusztusra tervezik a strandon, az ul. Nowomyśliwska mellett.",
+     "ro": "Un festival în care echipele creează muzică folosind inteligența artificială, cu vot public online și o finală live pe plaja din Międzyzdroje. Finala din 2026 este planificată pentru august pe plaja de la ul. Nowomyśliwska.",
+     "en": "A festival in which teams create music using artificial intelligence, with public online voting and a live finale held on the beach in Międzyzdroje. The 2026 finale is planned for August on the beach at ul. Nowomyśliwska."
+    },
+    "source_url": "https://www.aibeachfestival.pl/"
+   },
+   {
+    "name": {
+     "de": "Enthüllung der Handabdrucktafeln auf der Promenada Gwiazd",
+     "hu": "Promenada Gwiazd kéznyom-leleplezés",
+     "ro": "Dezvăluirea amprentelor pe Promenada Gwiazd",
+     "en": "Promenada Gwiazd handprint unveiling"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "jährlich während des Festiwal Gwiazd, Anfang Juli",
+     "hu": "évente a Festiwal Gwiazd alatt, július elején",
+     "ro": "anual în timpul Festivalului Stelelor, la începutul lunii iulie",
+     "en": "annually during the Festival of Stars, early July"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Während des Festiwal Gwiazd werden neue Bronzetafeln mit Handabdrücken polnischer Film- und Kulturpersönlichkeiten entlang der Promenada Gwiazd enthüllt, der Strandpromenade neben dem Strand und der Pier. Der Weg beherbergt inzwischen fast 200 solcher Tafeln.",
+     "hu": "A Festiwal Gwiazd alatt új bronztáblákat lepleznek le lengyel filmes és kulturális személyiségek kéznyomával a Promenada Gwiazd mentén, a strand és a móló mellett húzódó tengerparti sétányon. A sétány ma már közel 200 ilyen táblát tartalmaz.",
+     "ro": "În timpul Festivalului Stelelor, noi plăcuțe de bronz cu amprentele palmelor unor personalități poloneze de film și cultură sunt dezvăluite de-a lungul Promenada Gwiazd, promenada de pe malul mării care merge pe lângă plajă și debarcader. Aleea conține acum aproape 200 de astfel de plăcuțe.",
+     "en": "During the Festival of Stars, new bronze plaques with handprints of Polish film and cultural figures are unveiled along the Promenada Gwiazd, the seaside promenade running beside the beach and pier. The walk now holds nearly 200 such plaques."
+    },
+    "source_url": "https://pl.wikipedia.org/wiki/Promenada_Gwiazd_w_Mi%C4%99dzyzdrojach"
+   },
+   {
+    "name": {
+     "de": "Sommerkonzerte im Amfiteatr Międzyzdroje",
+     "hu": "Amfiteatr Międzyzdroje nyári koncertek",
+     "ro": "Concertele de vară de la Amfiteatrul Międzyzdroje",
+     "en": "Amfiteatr Międzyzdroje summer concerts"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "während der Sommersaison (Juli und August 2026)",
+     "hu": "a nyári szezonban (2026 július és augusztus)",
+     "ro": "pe tot parcursul sezonului estival (iulie și august 2026)",
+     "en": "throughout the summer season (July and August 2026)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Das Freiluft-Amphitheater nahe der Küste bietet jeden Sommer ein Programm mit Konzerten, Kabarett und Theateraufführungen. Für die Saison 2026 angekündigte Acts sind Cleo am 22. Juli und Ich Troje Akustycznie am 26. Juli.",
+     "hu": "A tengerpart közelében lévő szabadtéri amfiteátrum minden nyáron koncertek, kabaré és színházi előadások programját kínálja. A 2026-os szezonra bejelentett fellépők: Cleo július 22-én és Ich Troje Akustycznie július 26-án.",
+     "ro": "Amfiteatrul în aer liber de lângă malul mării găzduiește în fiecare vară un program de concerte, cabaret și spectacole de teatru. Artiști anunțați pentru sezonul 2026 includ pe Cleo pe 22 iulie și Ich Troje Akustycznie pe 26 iulie.",
+     "en": "The open-air amphitheatre near the seafront hosts a programme of concerts, cabaret and theatre performances each summer. Acts announced for the 2026 season include Cleo on 22 July and Ich Troje Akustycznie on 26 July."
+    },
+    "source_url": "https://www.ebilet.pl/miejsce/amfiteatr-miedzyzdroje"
+   }
+  ]
+ },
+ "pobierowo-beach": {
+  "beach": "Pobierowo Beach",
+  "town": "Pobierowo",
+  "country": "Poland",
+  "events": [
+   {
+    "name": {
+     "de": "Pobierowo Baltic Run",
+     "hu": "Pobierowo Baltic Run",
+     "ro": "Pobierowo Baltic Run",
+     "en": "Pobierowo Baltic Run"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Herbst (4. Ausgabe am 4. Oktober 2025)",
+     "hu": "évente, ősszel (4. kiadás: 2025. október 4.)",
+     "ro": "anual, toamna (a 4-a ediție pe 4 octombrie 2025)",
+     "en": "annually, autumn (4th edition held 4 October 2025)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Jährlicher Laufwettbewerb in Pobierowo, organisiert in Zusammenarbeit mit der Gemeinde Rewal, mit einem 10-km-Hauptlauf und einer 5-km-Nordic-Walking-Strecke. Der Startbereich befindet sich an der Sporthalle in der ul. Kosciuszki in der Nähe der Strandpromenade.",
+     "hu": "Éves futóesemény Pobierowóban, a Rewal községgel együttműködésben szervezve, 10 km-es fő futammal és 5 km-es nordic walking útvonallal. A rajt terület a sportcsarnoknál van a ul. Kosciuszki utcában, a tengerpart közelében.",
+     "ro": "Eveniment anual de alergare în Pobierowo, organizat în cooperare cu comuna Rewal, cu o cursă principală de 10 km și un traseu de Nordic Walking de 5 km. Zona de start este la sala de sport de pe strada Kościuszki, lângă faleză.",
+     "en": "Annual running event in Pobierowo organised in cooperation with Gmina Rewal, with a 10 km main race and a 5 km Nordic Walking route. The start area is at the sports hall on ul. Kosciuszki near the seafront."
+    },
+    "source_url": "https://rewal.pl/iv-pobierowo-baltic-run-juz-za-kilka-dni/"
+   },
+   {
+    "name": {
+     "de": "Powitanie Wiosny z Morsami w Pobierowie (Kolorowa Wiosna)",
+     "hu": "Powitanie Wiosny z Morsami w Pobierowie (Kolorowa Wiosna)",
+     "ro": "Powitanie Wiosny z Morsami w Pobierowie (Kolorowa Wiosna)",
+     "en": "Powitanie Wiosny z Morsami w Pobierowie (Kolorowa Wiosna)"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich um die Frühlings-Tagundnachtgleiche (2. Ausgabe am 22. März 2025)",
+     "hu": "évente a tavaszi napéjegyenlőség környékén (2. kiadás: 2025. március 22.)",
+     "ro": "anual în jurul echinocțiului de primăvară (a 2-a ediție pe 22 martie 2025)",
+     "en": "annually around the spring equinox (2nd edition held 22 March 2025)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Frühlingsbegrüßungs-Strandveranstaltung, durchgeführt vom Winterbadeclub Klub Morsow Osmiornica und der Gemeinde Rewal am Strand von Pobierowo. Dazu gehören ein gemeinsames Kaltwasserbad, ein Marzanna-Umzug und -Ertränken, ein Kostümwettbewerb, Verpflegung und ein Konzert.",
+     "hu": "Tavaszköszöntő strandrendezvény, amelyet a Klub Morsow Osmiornica téli úszóklub és Rewal község szervez Pobierowo strandján. Tartalmaz egy csoportos hideg vizes fürdőzést, Marzanna-felvonulást és -vízbe fojtást, jelmezversenyt, étkezést és koncertet.",
+     "ro": "Eveniment de primăvară pe plajă, organizat de clubul de înot în apă rece Klub Morsow Osmiornica și comuna Rewal pe plaja din Pobierowo. Include o baie colectivă în apă rece, o procesiune și înecarea Marzannei, un concurs de costume, mâncare și un concert.",
+     "en": "Spring-welcome beach event run by the Klub Morsow Osmiornica winter-swimming club and Gmina Rewal on the beach in Pobierowo. It includes a group cold-water swim, a Marzanna procession and drowning, a costume contest, food and a concert."
+    },
+    "source_url": "https://24kurier.pl/aktualnosci/wiadomosci/powitanie-wiosny-z-morsami-juz-niedlugo-warto-sie-wybrac-do-pobierowa/"
+   },
+   {
+    "name": {
+     "de": "Mikolajkowe morsowanie na plazy w Pobierowie",
+     "hu": "Mikolajkowe morsowanie na plazy w Pobierowie",
+     "ro": "Mikolajkowe morsowanie na plazy w Pobierowie",
+     "en": "Mikolajkowe morsowanie na plazy w Pobierowie"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Anfang Dezember (um den Nikolaustag)",
+     "hu": "évente december elején (Szent Miklós nap környékén)",
+     "ro": "anual la începutul lunii decembrie (în jurul zilei Sfântului Nicolae)",
+     "en": "annually in early December (around St. Nicholas Day)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Nikolaus-Kaltwasserbadeveranstaltung am Strand von Pobierowo, durchgeführt vom Schwimmclub Klub Morsow Osmiornica zusammen mit dem Gemeindebüro Rewal.",
+     "hu": "Szent Miklós-napi hideg vizes fürdőzési esemény Pobierowo strandján, a Klub Morsow Osmiornica úszóklub és a Rewal önkormányzati hivatal közös szervezésében.",
+     "ro": "Eveniment de înot în apă rece de Sfântul Nicolae pe plaja din Pobierowo, organizat de clubul de înot Klub Morsow Osmiornica împreună cu biroul municipal Rewal.",
+     "en": "St. Nicholas Day cold-water bathing event held on Pobierowo beach by the Klub Morsow Osmiornica swimming club together with the Rewal municipal office."
+    },
+    "source_url": "https://www.superportal24.pl/mikolajkowe-morsowanie-na-plazy-w-pobierowie-6819"
+   }
+  ]
+ },
+ "poniatowka-beach": {
+  "beach": "Poniatowka Beach",
+  "town": "Warsaw",
+  "country": "Poland",
+  "events": [
+   {
+    "name": {
+     "de": "Warszawski Plazowy (Warsaw Beach Season)",
+     "hu": "Warszawski Plazowy (Warsaw Beach Season)",
+     "ro": "Warszawski Plazowy (Warsaw Beach Season)",
+     "en": "Warszawski Plazowy (Warsaw Beach Season)"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich, an Wochenenden im Juni und September, täglich im Juli und August, 11:00–19:00",
+     "hu": "évente, hétvégéken júniusban és szeptemberben, naponta júliusban és augusztusban, 11:00–19:00",
+     "ro": "anual, în weekenduri în iunie și septembrie, zilnic în iulie și august, 11:00–19:00",
+     "en": "annually, weekends in June and September, daily in July and August, 11:00-19:00"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Städtisches Sommerstrandprogramm an der Poniatowka und vier weiteren Weichselstränden mit kostenlosen Liegestühlen, Sportgeräten, einer Strandbibliothek und Rettungsschwimmern. Täglich im Juli und August sowie an Wochenenden im Juni und September.",
+     "hu": "Önkormányzati nyári strandprogram a Poniatowkán és négy további Visztula-parti strandon, ingyenes napágyakkal, sporteszközökkel, strandkönyvtárral és vízimentőkkel. Naponta júliusban és augusztusban, hétvégéken júniusban és szeptemberben.",
+     "ro": "Program de plajă de vară administrat de oraș la Poniatowka și alte patru plaje de pe Vistula, cu șezlonguri gratuite, echipament sportiv, o bibliotecă de plajă și salvamari. Funcționează zilnic în iulie și august și în weekenduri în iunie și septembrie.",
+     "en": "City-run summer beach program at Poniatowka and four other Vistula beaches, providing free deckchairs, sports equipment, a beach library and lifeguards. Operates daily in July and August and on weekends in June and September."
+    },
+    "source_url": "https://modanamazowsze.pl/warszawski-sezon-plazowy-2026/"
+   },
+   {
+    "name": {
+     "de": "Kino Letnie / Kino Plenerowe na Plazy Poniatowka (Open-air cinema)",
+     "hu": "Kino Letnie / Kino Plenerowe na Plazy Poniatowka (Open-air cinema)",
+     "ro": "Kino Letnie / Kino Plenerowe na Plazy Poniatowka (Open-air cinema)",
+     "en": "Kino Letnie / Kino Plenerowe na Plazy Poniatowka (Open-air cinema)"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "jährlich, abends von Mai bis zum Sommerende",
+     "hu": "évente, esténként májustól a nyár végéig",
+     "ro": "anual, serile din mai până la sfârșitul verii",
+     "en": "annually, evenings from May through summer"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Kostenlose Open-Air-Filmvorführungen am Poniatowka-Strand zwischen der Poniatowski- und der Swietokrzyski-Brücke, mit Liegestühlen und Popcorn. Organisiert von Dzielnica Wisla, Orlen Termika und der Stadt Warschau.",
+     "hu": "Ingyenes szabadtéri filmvetítések a Poniatowka strandon, a Poniatowski és a Swietokrzyski híd között, napágyakkal és pattogatott kukoricával. Szervezi: Dzielnica Wisla, Orlen Termika és Varsó városa.",
+     "ro": "Proiecții gratuite de filme în aer liber pe plaja Poniatowka, între podurile Poniatowski și Swietokrzyski, cu șezlonguri și popcorn. Organizat de Dzielnica Wisla, Orlen Termika și Primăria Varșoviei.",
+     "en": "Free outdoor film screenings on Poniatowka beach between Poniatowski and Swietokrzyski bridges, with deckchairs and popcorn. Organised by Dzielnica Wisla, Orlen Termika and the City of Warsaw."
+    },
+    "source_url": "https://pik.warszawa.pl/kino/kino-plenerowe-na-plazy-poniatowka/"
+   },
+   {
+    "name": {
+     "de": "Festiwal Plaz: Poniatowka (Beach Festival)",
+     "hu": "Festiwal Plaz: Poniatowka (Beach Festival)",
+     "ro": "Festiwal Plaz: Poniatowka (Beach Festival)",
+     "en": "Festiwal Plaz: Poniatowka (Beach Festival)"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im September",
+     "hu": "évente szeptemberben",
+     "ro": "anual în septembrie",
+     "en": "annually in September"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Kostenloses Open-Air-Familienfest am Poniatowka-Strand mit Workshops, Sportaktivitäten, einem Geländespiel, einem Pop-up-Planetarium und Live-Musik, oft verbunden mit der World-Cleanup-Kampagne. Die Ausgabe 2025 fand am 20. September von 11:00 bis 15:00 statt.",
+     "hu": "Ingyenes szabadtéri családi fesztivál a Poniatowka strandon, workshopokkal, sporttevékenységekkel, terepjátékkal, pop-up planetáriummal és élőzenével, gyakran a World Cleanup kampányhoz kapcsolódva. A 2025-ös kiadást szeptember 20-án tartották 11:00 és 15:00 között.",
+     "ro": "Festival gratuit de familie în aer liber pe plaja Poniatowka, cu ateliere, activități sportive, un joc de teren, un planetariu pop-up și muzică live, adesea legat de campania World Cleanup. Ediția din 2025 a avut loc pe 20 septembrie între 11:00 și 15:00.",
+     "en": "Free open-air family festival on Poniatowka beach with workshops, sports activities, a field game, a pop-up planetarium and live music, often tied to the World Cleanup campaign. The 2025 edition was held on 20 September from 11:00 to 15:00."
+    },
+    "source_url": "https://waw4free.pl/wydarzenie-141371-festiwal-plaz-poniatowka"
+   },
+   {
+    "name": {
+     "de": "Wianki nad Wisla (Wreaths on the Vistula)",
+     "hu": "Wianki nad Wisla (Wreaths on the Vistula)",
+     "ro": "Wianki nad Wisla (Wreaths on the Vistula)",
+     "en": "Wianki nad Wisla (Wreaths on the Vistula)"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich um die Sommersonnenwende; Ausgabe 2026 am 20. Juni",
+     "hu": "évente a nyári napforduló körül; a 2026-os kiadás június 20-án",
+     "ro": "anual în jurul solstițiului de vară; ediția 2026 pe 20 iunie",
+     "en": "annually around the summer solstice; 2026 edition on 20 June"
+    },
+    "date": "2026-06-20",
+    "blurb": {
+     "de": "Großes kostenloses Mittsommerfest am Weichselufer nahe Poniatowka, rund um den Multimedia-Brunnenpark, mit Mittsommerpicknick, Kranzbinden, Volksaufführungen und Abendkonzerten. Die Ausgabe 2026 ist für den 20. Juni unter dem Motto Musik, Liebe, Träume geplant.",
+     "hu": "Nagy, ingyenes nyárközépi ünnepség a Visztula partján, Poniatowka közelében, a Multimédia Szökőkút Park körül, nyárközépi piknikkel, koszorúkészítéssel, népi előadásokkal és esti koncertekkel. A 2026-os kiadás június 20-ra van tervezve a Zene, szerelem, álmok témával.",
+     "ro": "Mare sărbătoare gratuită de mijlocul verii pe malul Vistulei lângă Poniatowka, centrată pe Parcul Fântânilor Multimedia, cu un picnic de vară, confecționat de coronițe, spectacole populare și concerte de seară. Ediția 2026 este programată pentru 20 iunie sub tema Muzică, Iubire, Vise.",
+     "en": "Large free midsummer celebration on the Vistula riverbank near Poniatowka, centred on the Multimedia Fountain Park, featuring a Midsummer picnic, wreath-making, folk performances and evening concerts. The 2026 edition is scheduled for 20 June under the theme Music, Love, Dreams."
+    },
+    "source_url": "https://en.warsawnow.pl/wianki-nad-wisla-2026/"
+   }
+  ]
+ },
+ "stawiki": {
+  "beach": "Stawiki",
+  "town": "Sosnowiec",
+  "country": "Poland",
+  "events": [
+   {
+    "name": {
+     "de": "Wake Zone Stawiki Wakeboard- und Wakeskate-Meisterschaften",
+     "hu": "Wake Zone Stawiki Wakeboard és Wakeskate Bajnokság",
+     "ro": "Campionatele de Wakeboard și Wakeskate Wake Zone Stawiki",
+     "en": "Wake Zone Stawiki Wakeboard and Wakeskate Championships"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Sommer (die letzten Ausgaben fanden im August statt)",
+     "hu": "évente nyáron (a legutóbbi kiadásokat augusztusban rendezték)",
+     "ro": "anual, vara (edițiile recente au avut loc în august)",
+     "en": "annually in summer (recent editions held in August)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Das Stawiki-Reservoir beherbergt Cable-Wakeboard- und Wakeskate-Wettbewerbe in der Anlage Wake Zone Stawiki, darunter Europa- und Weltmeisterschaften. Die Europäischen Junioren- und Seniorenmeisterschaften 2025 fanden vom 18. bis 24. August 2025 statt.",
+     "hu": "A Stawiki-tározó ad otthont a kábeles wakeboard és wakeskate versenyeknek a Wake Zone Stawiki létesítményben, beleértve az európai és világbajnokságokat. A 2025-ös Európai Junior és Senior Bajnokságot 2025. augusztus 18–24. között rendezték.",
+     "ro": "Rezervorul Stawiki găzduiește competiții de wakeboard și wakeskate cu cablu la facilitățile Wake Zone Stawiki, inclusiv campionate europene și mondiale. Campionatele Europene de Juniori și Seniori din 2025 s-au desfășurat între 18 și 24 august 2025.",
+     "en": "The Stawiki reservoir hosts cable wakeboard and wakeskate competitions at the Wake Zone Stawiki facility, including European and World championships. The 2025 European Junior and Senior Championships ran 18-24 August 2025."
+    },
+    "source_url": "https://www.sosnowiec.pl/2025/08/bez-kategorii/50739/"
+   },
+   {
+    "name": {
+     "de": "World Water Ski Championships am Stawiki",
+     "hu": "World Water Ski Championships a Stawiki-tónál",
+     "ro": "World Water Ski Championships la Stawiki",
+     "en": "World Water Ski Championships at Stawiki"
+    },
+    "type": "sport",
+    "recurring": false,
+    "when": {
+     "de": "fand im September 2024 und zuvor 2021 statt",
+     "hu": "2024 szeptemberében és korábban 2021-ben került megrendezésre",
+     "ro": "a avut loc în septembrie 2024 și anterior în 2021",
+     "en": "held September 2024 and earlier in 2021"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Das Stawiki-Reservoir in Sosnowiec war Austragungsort der Weltmeisterschaften im Wasserski mit Teilnehmern aus vielen Ländern, organisiert in Zusammenarbeit mit dem Polnischen Motorboot- und Wasserskiverband.",
+     "hu": "A sosnowieci Stawiki-tározó adott otthont a vízisí világbajnokságnak, amelyen számos ország versenyzői vettek részt, a Lengyel Motorcsónak- és Vízisí Szövetséggel közösen szervezve.",
+     "ro": "Rezervorul Stawiki din Sosnowiec a găzduit Campionatele Mondiale de Schi Nautic cu participanți din multe țări, organizate împreună cu Asociația Poloneză de Bărci cu Motor și Schi Nautic.",
+     "en": "Stawiki reservoir in Sosnowiec hosted World Water Ski Championships with competitors from many countries, organised with the Polish Motorboat and Water Skiing Association."
+    },
+    "source_url": "https://www.nazaglebiu.pl/2024/09/14/mistrzostwa-swiata-w-narciarstwie-wodnym-wake-zone-stawiki-sosnowiec/"
+   }
+  ]
+ },
+ "swinoujscie-beach-on-usedom": {
+  "beach": "Swinoujscie Beach On Usedom",
+  "town": "Świnoujście",
+  "country": "Poland",
+  "events": [
+   {
+    "name": {
+     "de": "FAMA Festival",
+     "hu": "FAMA Festival",
+     "ro": "FAMA Festival",
+     "en": "FAMA Festival"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende August; 2026: 24.-29. August",
+     "hu": "évente augusztus végén; 2026: augusztus 24-29.",
+     "ro": "anual la sfârșitul lunii august; 2026: 24-29 august",
+     "en": "annually late August; 2026: 24-29 August"
+    },
+    "date": "2026-08-24",
+    "blurb": {
+     "de": "FAMA ist ein interdisziplinäres Festival junger akademischer Kunst und Kultur, das jährlich in Świnoujście stattfindet; die Ausgabe 2026 ist die 56. Es bietet Musik, Theater und andere Aufführungen von Nachwuchskünstlern in der ganzen Stadt.",
+     "hu": "A FAMA egy interdiszciplináris fesztivál, amely a fiatal akadémiai művészetet és kultúrát ünnepli, évente Świnoujścieben; a 2026-os kiadás az 56. lesz. Helyszínei a városban szétszórva fogadják a feltörekvő művészek zenei, színházi és egyéb előadásait.",
+     "ro": "FAMA este un festival interdisciplinar de artă și cultură academică tânără, desfășurat anual în Świnoujście, ediția din 2026 fiind a 56-a. Acesta găzduiește spectacole de muzică, teatru și alte reprezentații ale artiștilor emergenți în întregul oraș.",
+     "en": "FAMA is an interdisciplinary festival of young academic art and culture held annually in Świnoujście, with the 2026 edition being its 56th. It hosts music, theatre and other performances by emerging artists across the town."
+    },
+    "source_url": "https://fama.org.pl/"
+   },
+   {
+    "name": {
+     "de": "Jarmark Bałtycki (Baltic Market)",
+     "hu": "Jarmark Bałtycki (Balti Piac)",
+     "ro": "Jarmark Bałtycki (Baltic Market)",
+     "en": "Jarmark Bałtycki (Baltic Market)"
+    },
+    "type": "market",
+    "recurring": true,
+    "when": {
+     "de": "2026: 30. Juli - 2. August",
+     "hu": "2026: július 30. - augusztus 2.",
+     "ro": "2026: 30 iulie - 2 august",
+     "en": "2026: 30 July - 2 August"
+    },
+    "date": "2026-07-30",
+    "blurb": {
+     "de": "Ein Freiluftmarkt an der Wybrzeże Władysława IV nahe der Ostseeküste in Świnoujście mit Ständen, die Lebensmittel, Kunsthandwerk und regionale Produkte anbieten. Die Veranstaltung umfasst Live-Musik und Aktivitäten für Familien.",
+     "hu": "Szabadtéri piac a Wybrzeże Władysława IV-en, a Balti-tenger partjához közel, Świnoujścieben, ahol élelmiszereket, kézműves termékeket és regionális árukat árusítanak. A rendezvény élőzenét és családi programokat is kínál.",
+     "ro": "O piață în aer liber pe Wybrzeże Władysława IV, lângă faleza Mării Baltice din Świnoujście, cu tarabe care vând alimente, meșteșuguri și produse regionale. Evenimentul include muzică live și activități pentru familii.",
+     "en": "An open-air market on Wybrzeże Władysława IV near the Baltic seafront in Świnoujście, with stalls selling food, crafts and regional products. The event includes live music and activities for families."
+    },
+    "source_url": "https://jarmark-baltycki.pl/"
+   },
+   {
+    "name": {
+     "de": "International Marathon Świnoujście-Wolgast",
+     "hu": "International Marathon Świnoujście-Wolgast",
+     "ro": "International Marathon Świnoujście-Wolgast",
+     "en": "International Marathon Świnoujście-Wolgast"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im September; 2026: 12. September",
+     "hu": "évente szeptemberben; 2026: szeptember 12.",
+     "ro": "anual în septembrie; 2026: 12 septembrie",
+     "en": "annually in September; 2026: 12 September"
+    },
+    "date": "2026-09-12",
+    "blurb": {
+     "de": "Ein traditionsreicher grenzüberschreitender Marathon und Halbmarathon zwischen Świnoujście in Polen und Wolgast in Deutschland, teilweise entlang der Strandpromenade. Organisiert wird er von OSiR Wyspiarz Świnoujście.",
+     "hu": "Hagyományos határon átnyúló maraton és félmaraton Świnoujście (Lengyelország) és Wolgast (Németország) között, az útvonal egy része a tengerparti sétányon halad. A szervező az OSiR Wyspiarz Świnoujście.",
+     "ro": "Un maraton și semimaraton transfrontalier de lungă durată între Świnoujście din Polonia și Wolgast din Germania, cu o parte a traseului de-a lungul promenadei de pe malul mării. Este organizat de OSiR Wyspiarz Świnoujście.",
+     "en": "A long-running cross-border marathon and half-marathon run between Świnoujście in Poland and Wolgast in Germany, with part of the route along the seafront promenade. It is organised by OSiR Wyspiarz Świnoujście."
+    },
+    "source_url": "https://www.osir.swinoujscie.pl/maraton-i-polmaraton/maraton"
+   }
+  ]
+ }
+}

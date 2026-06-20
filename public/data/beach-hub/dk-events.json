@@ -5,72 +5,177 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Aarhus Festival (Aarhus Festuge)",
+    "name": {
+     "de": "Aarhus Festival (Aarhus Festuge)",
+     "hu": "Aarhus Festival (Aarhus Festuge)",
+     "ro": "Aarhus Festival (Aarhus Festuge)",
+     "en": "Aarhus Festival (Aarhus Festuge)"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually, starting the last Friday of August for 10 days; 2026 edition 28 August - 6 September",
+    "when": {
+     "de": "jährlich, beginnend am letzten Freitag im August für 10 Tage; Ausgabe 2026 vom 28. August bis 6. September",
+     "hu": "évente, augusztus utolsó péntekétől 10 napig; 2026-os kiadás augusztus 28. – szeptember 6.",
+     "ro": "anual, începând de vinerea ultimă din august timp de 10 zile; ediția 2026, 28 august – 6 septembrie",
+     "en": "annually, starting the last Friday of August for 10 days; 2026 edition 28 August - 6 September"
+    },
     "date": "2026-08-28",
-    "blurb": "One of the largest cultural festivals in Scandinavia, filling Aarhus with music, art, theatre, gastronomy and public events across the whole city.",
+    "blurb": {
+     "de": "Eines der größten Kulturfestivals Skandinaviens, das Aarhus mit Musik, Kunst, Theater, Gastronomie und öffentlichen Veranstaltungen in der ganzen Stadt füllt.",
+     "hu": "Skandinávia egyik legnagyobb kulturális fesztiválja, amely zenével, művészettel, színházzal, gasztronómiával és nyilvános eseményekkel tölti meg Aarhus egész városát.",
+     "ro": "Unul dintre cele mai mari festivaluri culturale din Scandinavia, care umple Aarhus cu muzică, artă, teatru, gastronomie și evenimente publice în întregul oraș.",
+     "en": "One of the largest cultural festivals in Scandinavia, filling Aarhus with music, art, theatre, gastronomy and public events across the whole city."
+    },
     "source_url": "https://www.aarhusfestuge.dk/en",
     "image_url": ""
    },
    {
-    "name": "The Tall Ships Races Aarhus 2026",
+    "name": {
+     "de": "The Tall Ships Races Aarhus 2026",
+     "hu": "The Tall Ships Races Aarhus 2026",
+     "ro": "The Tall Ships Races Aarhus 2026",
+     "en": "The Tall Ships Races Aarhus 2026"
+    },
     "type": "cultural",
     "recurring": false,
-    "when": "24-27 June 2026",
+    "when": {
+     "de": "24.–27. Juni 2026",
+     "hu": "2026. június 24–27.",
+     "ro": "24–27 iunie 2026",
+     "en": "24-27 June 2026"
+    },
     "date": "2026-06-24",
-    "blurb": "Aarhus serves as a host port for the international Tall Ships Races, with large sailing vessels in the harbour and four days of maritime festivities along the waterfront.",
+    "blurb": {
+     "de": "Aarhus ist Gastgeberhafen für die internationalen Tall Ships Races mit großen Segelschiffen im Hafen und vier Tagen maritimer Festlichkeiten entlang der Uferpromenade.",
+     "hu": "Aarhus vendégkikötőként szolgál a nemzetközi Tall Ships Races számára, nagy vitorláshajókkal a kikötőben és négy napos tengeri ünnepséggel a vízpart mentén.",
+     "ro": "Aarhus servește ca port gazdă pentru cursele internaționale Tall Ships Races, cu vase mari cu pânze în port și patru zile de festivități maritime de-a lungul falezei.",
+     "en": "Aarhus serves as a host port for the international Tall Ships Races, with large sailing vessels in the harbour and four days of maritime festivities along the waterfront."
+    },
     "source_url": "https://sailtraininginternational.org/event/tall-ships-races-2026/",
     "image_url": ""
    },
    {
-    "name": "NorthSide Festival",
+    "name": {
+     "de": "NorthSide Festival",
+     "hu": "NorthSide Festival",
+     "ro": "NorthSide Festival",
+     "en": "NorthSide Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in early June; 2026 edition 4-6 June",
+    "when": {
+     "de": "jährlich Anfang Juni; Ausgabe 2026 vom 4. bis 6. Juni",
+     "hu": "évente június elején; 2026-os kiadás június 4–6.",
+     "ro": "anual la începutul lunii iunie; ediția 2026, 4–6 iunie",
+     "en": "annually in early June; 2026 edition 4-6 June"
+    },
     "date": "2026-06-04",
-    "blurb": "Major Aarhus open-air music festival held at Eskelunden, featuring Danish and international artists with a strong focus on sustainability.",
+    "blurb": {
+     "de": "Großes Open-Air-Musikfestival in Aarhus im Eskelunden mit dänischen und internationalen Künstlern und starkem Fokus auf Nachhaltigkeit.",
+     "hu": "Nagy aarhusi szabadtéri zenei fesztivál az Eskelundenben, dán és nemzetközi előadókkal, erős fenntarthatósági fókusszal.",
+     "ro": "Festival major de muzică în aer liber în Aarhus, desfășurat la Eskelunden, cu artiști danezi și internaționali, având un accent puternic pe sustenabilitate.",
+     "en": "Major Aarhus open-air music festival held at Eskelunden, featuring Danish and international artists with a strong focus on sustainability."
+    },
     "source_url": "https://www.visitaarhus.com/aarhus-region/see-and-do/festivals",
     "image_url": ""
    },
    {
-    "name": "Aarhus Jazz Festival",
+    "name": {
+     "de": "Aarhus Jazz Festival",
+     "hu": "Aarhus Jazz Festival",
+     "ro": "Aarhus Jazz Festival",
+     "en": "Aarhus Jazz Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in late June/early July; 2026 edition approx. 26 June - 5 July",
+    "when": {
+     "de": "jährlich Ende Juni/Anfang Juli; Ausgabe 2026 etwa vom 26. Juni bis 5. Juli",
+     "hu": "évente június végén/július elején; 2026-os kiadás kb. június 26. – július 5.",
+     "ro": "anual la sfârșitul lunii iunie/începutul lunii iulie; ediția 2026 aproximativ 26 iunie – 5 iulie",
+     "en": "annually in late June/early July; 2026 edition approx. 26 June - 5 July"
+    },
     "date": "2026-06-26",
-    "blurb": "Annual jazz festival running since 1989, with hundreds of concerts at dozens of venues around Aarhus featuring local and international jazz artists.",
+    "blurb": {
+     "de": "Jährliches Jazzfestival seit 1989 mit Hunderten von Konzerten an Dutzenden von Veranstaltungsorten in Aarhus mit lokalen und internationalen Jazzkünstlern.",
+     "hu": "1989 óta évente megrendezett jazzfesztivál, több száz koncerttel Aarhus tucatnyi helyszínén, helyi és nemzetközi jazzművészekkel.",
+     "ro": "Festival anual de jazz care rulează din 1989, cu sute de concerte în zeci de locații din Aarhus, cu artiști de jazz locali și internaționali.",
+     "en": "Annual jazz festival running since 1989, with hundreds of concerts at dozens of venues around Aarhus featuring local and international jazz artists."
+    },
     "source_url": "https://www.visitaarhus.com/aarhus-region/see-and-do/festivals",
     "image_url": ""
    },
    {
-    "name": "Aarhus Food Festival",
+    "name": {
+     "de": "Aarhus Food Festival",
+     "hu": "Aarhus Food Festival",
+     "ro": "Aarhus Food Festival",
+     "en": "Aarhus Food Festival"
+    },
     "type": "gastronomy",
     "recurring": true,
-    "when": "annually in early September; 2026 edition 4-6 September",
+    "when": {
+     "de": "jährlich Anfang September; Ausgabe 2026 vom 4. bis 6. September",
+     "hu": "évente szeptember elején; 2026-os kiadás szeptember 4–6.",
+     "ro": "anual la începutul lunii septembrie; ediția 2026, 4–6 septembrie",
+     "en": "annually in early September; 2026 edition 4-6 September"
+    },
     "date": "2026-09-04",
-    "blurb": "Large Nordic food festival celebrating Danish and regional produce, cooking schools and food companies, held in Aarhus.",
+    "blurb": {
+     "de": "Großes nordisches Lebensmittelfestival, das dänische und regionale Produkte, Kochschulen und Lebensmittelunternehmen feiert, in Aarhus.",
+     "hu": "Nagy északi ételfesztivál, amely dán és regionális termékeket, főzőiskolákat és élelmiszeripari cégeket ünnepel, Aarhusban.",
+     "ro": "Festival nordic mare de mâncare care celebrează produsele daneze și regionale, școlile de gătit și companiile alimentare, desfășurat în Aarhus.",
+     "en": "Large Nordic food festival celebrating Danish and regional produce, cooking schools and food companies, held in Aarhus."
+    },
     "source_url": "https://www.visitaarhus.com/aarhus-region/events/highlights/event-highlights",
     "image_url": ""
    },
    {
-    "name": "Sankt Hans Aften (Midsummer's Eve)",
+    "name": {
+     "de": "Sankt Hans Aften (Mittsommerabend)",
+     "hu": "Sankt Hans Aften (Szentivánéj)",
+     "ro": "Sankt Hans Aften (Noaptea de Sânziene)",
+     "en": "Sankt Hans Aften (Midsummer's Eve)"
+    },
     "type": "traditional",
     "recurring": true,
-    "when": "annually on 23 June; bonfires lit across Aarhus including the harbour and waterfront near Risskov",
+    "when": {
+     "de": "jährlich am 23. Juni; Lagerfeuer in ganz Aarhus, einschließlich Hafen und Uferpromenade bei Risskov",
+     "hu": "évente június 23-án; máglyák égnek Aarhus-szerte, beleértve a kikötőt és a Risskov melletti vízpartot",
+     "ro": "anual pe 23 iunie; focuri de tabără aprinse în tot Aarhus, inclusiv în port și pe faleza de lângă Risskov",
+     "en": "annually on 23 June; bonfires lit across Aarhus including the harbour and waterfront near Risskov"
+    },
     "date": "2026-06-23",
-    "blurb": "Traditional Danish Midsummer's Eve, marked with bonfires, singing and gatherings throughout Aarhus, including beachside and harbour locations near the bay.",
+    "blurb": {
+     "de": "Traditioneller dänischer Mittsommerabend, gekennzeichnet durch Lagerfeuer, Gesang und Zusammenkünfte in ganz Aarhus, einschließlich Strand- und Hafenlagen in der Bucht.",
+     "hu": "Hagyományos dán szentivánéj, amelyet máglyák, éneklés és összejövetelek jellemeznek Aarhus-szerte, beleértve a strand- és kikötőhelyeket az öböl közelében.",
+     "ro": "Noaptea tradițională daneză de Sânziene, marcată de focuri de tabără, cântări și adunări în tot Aarhus, inclusiv locații pe plajă și în port lângă golf.",
+     "en": "Traditional Danish Midsummer's Eve, marked with bonfires, singing and gatherings throughout Aarhus, including beachside and harbour locations near the bay."
+    },
     "source_url": "https://www.visitaarhus.com/aarhus-region/plan-your-trip/midsummers-eve-celebration-aarhus-gdk909505",
     "image_url": ""
    },
    {
-    "name": "SPOT Festival",
+    "name": {
+     "de": "SPOT Festival",
+     "hu": "SPOT Festival",
+     "ro": "SPOT Festival",
+     "en": "SPOT Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in early May; 2026 edition 1-2 May",
+    "when": {
+     "de": "jährlich Anfang Mai; Ausgabe 2026 am 1. und 2. Mai",
+     "hu": "évente május elején; 2026-os kiadás május 1–2.",
+     "ro": "anual la începutul lunii mai; ediția 2026, 1–2 mai",
+     "en": "annually in early May; 2026 edition 1-2 May"
+    },
     "date": "2026-05-01",
-    "blurb": "Showcase festival for emerging Danish and Nordic music talent, held at venues across Aarhus.",
+    "blurb": {
+     "de": "Showcase-Festival für aufstrebende dänische und nordische Musiktalente, das an verschiedenen Veranstaltungsorten in Aarhus stattfindet.",
+     "hu": "Bemutató fesztivál feltörekvő dán és északi zenei tehetségek számára, Aarhus különböző helyszínein.",
+     "ro": "Festival de prezentare pentru talentele muzicale emergente daneze și nordice, desfășurat în locații din Aarhus.",
+     "en": "Showcase festival for emerging Danish and Nordic music talent, held at venues across Aarhus."
+    },
     "source_url": "https://www.visitaarhus.com/aarhus-region/see-and-do/festivals",
     "image_url": ""
    }
@@ -81,52 +186,127 @@
   "town": "Dubrovnik",
   "events": [
    {
-    "name": "Festivity of Saint Blaise (Festa svetog Vlaha)",
+    "name": {
+     "de": "Fest des heiligen Blasius (Festa svetog Vlaha)",
+     "hu": "Szent Balázs ünnepe (Festa svetog Vlaha)",
+     "ro": "Sărbătoarea Sfântului Blaise (Festa svetog Vlaha)",
+     "en": "Festivity of Saint Blaise (Festa svetog Vlaha)"
+    },
     "type": "traditional/religious",
     "recurring": true,
-    "when": "Early February each year, main day 3 February (preceded by the Dubrovnik Festa, 25 Jan-2 Feb)",
+    "when": {
+     "de": "Anfang Februar jedes Jahr, Haupttag am 3. Februar (vorausgegangen von der Dubrovnik Festa, 25. Jan bis 2. Feb)",
+     "hu": "Minden év február elején, fő nap február 3. (előtte a Dubrovniki Fesztivál, jan. 25-től febr. 2-ig)",
+     "ro": "La începutul lunii februarie în fiecare an, ziua principală pe 3 februarie (precedată de Dubrovnik Festa, 25 ian - 2 feb)",
+     "en": "Early February each year, main day 3 February (preceded by the Dubrovnik Festa, 25 Jan-2 Feb)"
+    },
     "date": "2026-02-03",
-    "blurb": "Dubrovnik's biggest traditional and religious celebration, honouring the city's patron saint, held continuously since 972 AD and inscribed on the UNESCO Intangible Cultural Heritage list. The day features holy mass, the release of white doves, a grand procession through the Old Town with reliquaries and parish banners, and the Trombunjeri firing their muskets at Pile Gate. A short walk from Bellevue Beach.",
+    "blurb": {
+     "de": "Dubrovniks größte traditionelle und religiöse Feier zu Ehren des Stadtpatrons, die seit 972 n. Chr. ununterbrochen stattfindet und in die UNESCO-Liste des immateriellen Kulturerbes aufgenommen wurde. Der Tag umfasst eine heilige Messe, das Freilassen weißer Tauben, eine große Prozession durch die Altstadt mit Reliquiaren und Pfarrbannern sowie die Trombunjeri, die am Pile-Tor ihre Musketen abfeuern. Ein kurzer Spaziergang vom Bellevue Beach entfernt.",
+     "hu": "Dubrovnik legnagyobb hagyományos és vallási ünnepe, a város védőszentjének tiszteletére, amely 972 óta megszakítás nélkül zajlik, és felkerült az UNESCO szellemi kulturális örökség listájára. A nap szentmisét, fehér galambok szabadon engedését, nagy körmenetet az óvároson át ereklyetartókkal és plébániai zászlókkal, valamint a Trombunjerik puskalövéseit a Pile-kapunál foglalja magában. Rövid sétára a Bellevue Beach-től.",
+     "ro": "Cea mai mare sărbătoare tradițională și religioasă a Dubrovnikului, în cinstea patronului orașului, desfășurată neîntrerupt din anul 972 d.Hr. și înscrisă pe lista Patrimoniului Cultural Imaterial UNESCO. Ziua include o slujbă religioasă, eliberarea porumbeilor albi, o procesiune grandioasă prin Orașul Vechi cu relicve și steaguri parohiale, și Trombunjerii trăgând cu muschetele la Poarta Pile. La scurtă plimbare de Plaja Bellevue.",
+     "en": "Dubrovnik's biggest traditional and religious celebration, honouring the city's patron saint, held continuously since 972 AD and inscribed on the UNESCO Intangible Cultural Heritage list. The day features holy mass, the release of white doves, a grand procession through the Old Town with reliquaries and parish banners, and the Trombunjeri firing their muskets at Pile Gate. A short walk from Bellevue Beach."
+    },
     "source_url": "https://ich.unesco.org/en/RL/festivity-of-saint-blaise-the-patron-of-dubrovnik-00232",
     "image_url": "https://commons.wikimedia.org/wiki/Category:Festivity_of_Saint_Blaise_of_Dubrovnik"
    },
    {
-    "name": "Midsummer Scene Festival",
+    "name": {
+     "de": "Midsummer Scene Festival",
+     "hu": "Midsummer Scene Fesztivál",
+     "ro": "Festivalul Midsummer Scene",
+     "en": "Midsummer Scene Festival"
+    },
     "type": "cultural/theatre",
     "recurring": true,
-    "when": "Late June to early July each year",
+    "when": {
+     "de": "Ende Juni bis Anfang Juli jedes Jahr",
+     "hu": "Minden év június végétől július elejéig",
+     "ro": "De la sfârșitul lunii iunie până la începutul lunii iulie în fiecare an",
+     "en": "Late June to early July each year"
+    },
     "date": "2026-06-24",
-    "blurb": "International open-air theatre festival celebrating Shakespeare and English-language drama, staged each evening under the stars at the dramatic Fort Lovrijenac above the sea. The 2026 edition runs 24 June to 5 July with a new production, 'One for All', a fresh take on The Three Musketeers. An easy trip from Bellevue Beach near the Old Town.",
+    "blurb": {
+     "de": "Internationales Open-Air-Theaterfestival, das Shakespeare und englischsprachiges Theater feiert und jeden Abend unter freiem Himmel auf der dramatischen Festung Lovrijenac über dem Meer stattfindet. Die Ausgabe 2026 läuft vom 24. Juni bis 5. Juli mit einer neuen Produktion, 'One for All', einer frischen Interpretation der Drei Musketiere. Ein einfacher Ausflug vom Bellevue Beach in der Nähe der Altstadt.",
+     "hu": "Nemzetközi szabadtéri színházi fesztivál, amely Shakespeare-t és angol nyelvű drámát ünnepel, minden este a csillagok alatt, a tenger feletti drámai Lovrijenac erődben. A 2026-os kiadás június 24-től július 5-ig tart az 'One for All' új produkcióval, a Három testőr friss feldolgozásával. Könnyű kirándulás a Bellevue Beach-től, az óváros közelében.",
+     "ro": "Festival internațional de teatru în aer liber care celebrează Shakespeare și dramaturgia în limba engleză, prezentat în fiecare seară sub stele la spectaculoasa Fortăreață Lovrijenac deasupra mării. Ediția 2026 se desfășoară între 24 iunie și 5 iulie cu o nouă producție, 'One for All', o reinterpretare proaspătă a Celor trei mușchetari. O excursie ușoară de la Plaja Bellevue, lângă Orașul Vechi.",
+     "en": "International open-air theatre festival celebrating Shakespeare and English-language drama, staged each evening under the stars at the dramatic Fort Lovrijenac above the sea. The 2026 edition runs 24 June to 5 July with a new production, 'One for All', a fresh take on The Three Musketeers. An easy trip from Bellevue Beach near the Old Town."
+    },
     "source_url": "https://midsummer-scene.com/",
     "image_url": ""
    },
    {
-    "name": "Dubrovnik Summer Festival (Dubrovacke ljetne igre)",
+    "name": {
+     "de": "Dubrovnik Summer Festival (Dubrovacke ljetne igre)",
+     "hu": "Dubrovniki Nyári Fesztivál (Dubrovacke ljetne igre)",
+     "ro": "Festivalul de Vară de la Dubrovnik (Dubrovacke ljetne igre)",
+     "en": "Dubrovnik Summer Festival (Dubrovacke ljetne igre)"
+    },
     "type": "cultural/music",
     "recurring": true,
-    "when": "Mid-July to late August each year",
+    "when": {
+     "de": "Mitte Juli bis Ende August jedes Jahr",
+     "hu": "Minden év július közepétől augusztus végéig",
+     "ro": "De la mijlocul lunii iulie până la sfârșitul lunii august în fiecare an",
+     "en": "Mid-July to late August each year"
+    },
     "date": "2026-07-10",
-    "blurb": "Dubrovnik's flagship cultural event, one of Croatia's most important festivals, turning the Old Town's squares, palaces and fortresses into open-air stages. The 77th edition runs 10 July to 25 August 2026 with over 70 drama, music and dance performances, including the Academy of St Martin in the Fields with Joshua Bell. Opens with the raising of the Libertas flag in front of St Blaise's Church.",
+    "blurb": {
+     "de": "Dubrovniks wichtigstes kulturelles Ereignis, eines der bedeutendsten Festivals Kroatiens, das die Plätze, Paläste und Festungen der Altstadt in Open-Air-Bühnen verwandelt. Die 77. Ausgabe läuft vom 10. Juli bis 25. August 2026 mit über 70 Theater-, Musik- und Tanzaufführungen, darunter die Academy of St Martin in the Fields mit Joshua Bell. Eröffnet wird es mit dem Hissen der Libertas-Flagge vor der Kirche des heiligen Blasius.",
+     "hu": "Dubrovnik zászlóshajó kulturális eseménye, Horvátország egyik legfontosabb fesztiválja, amely az óváros tereit, palotáit és erődjeit szabadtéri színpadokká változtatja. A 77. kiadás 2026. július 10-től augusztus 25-ig tart, több mint 70 színházi, zenei és táncelőadással, beleértve az Academy of St Martin in the Fields-t Joshua Bell-lel. A Libertas zászló felvonásával nyílik meg a Szent Balázs-templom előtt.",
+     "ro": "Evenimentul cultural emblematic al Dubrovnikului, unul dintre cele mai importante festivaluri din Croația, transformând piețele, palatele și fortărețele Orașului Vechi în scene în aer liber. Ediția a 77-a se desfășoară între 10 iulie și 25 august 2026, cu peste 70 de spectacole de teatru, muzică și dans, inclusiv Academy of St Martin in the Fields cu Joshua Bell. Se deschide cu ridicarea steagului Libertas în fața Bisericii Sfântul Blaise.",
+     "en": "Dubrovnik's flagship cultural event, one of Croatia's most important festivals, turning the Old Town's squares, palaces and fortresses into open-air stages. The 77th edition runs 10 July to 25 August 2026 with over 70 drama, music and dance performances, including the Academy of St Martin in the Fields with Joshua Bell. Opens with the raising of the Libertas flag in front of St Blaise's Church."
+    },
     "source_url": "https://www.dubrovnik-festival.hr/en",
     "image_url": ""
    },
    {
-    "name": "Good Food Festival",
+    "name": {
+     "de": "Good Food Festival",
+     "hu": "Good Food Fesztivál",
+     "ro": "Festivalul Good Food",
+     "en": "Good Food Festival"
+    },
     "type": "food/gastronomy",
     "recurring": true,
-    "when": "October each year (autumn)",
+    "when": {
+     "de": "Oktober jedes Jahr (Herbst)",
+     "hu": "Minden év októberében (ősszel)",
+     "ro": "În octombrie în fiecare an (toamnă)",
+     "en": "October each year (autumn)"
+    },
     "date": "2026-10-05",
-    "blurb": "Dubrovnik's autumn gastronomy festival organised by the city tourist board, celebrating local Dalmatian flavours, tradition and contemporary cuisine. The 2026 edition runs 5 to 18 October with culinary events, workshops, tastings and special restaurant menus across the city. A flavourful reason to visit beyond beach season.",
+    "blurb": {
+     "de": "Dubrovniks herbstliches Gastronomiefestival, organisiert von der städtischen Tourismusbehörde, das lokale dalmatinische Aromen, Tradition und moderne Küche feiert. Die Ausgabe 2026 läuft vom 5. bis 18. Oktober mit kulinarischen Events, Workshops, Verkostungen und speziellen Restaurantmenüs in der ganzen Stadt. Ein geschmackvoller Grund, die Strandsaison zu verlängern.",
+     "hu": "Dubrovnik őszi gasztronómiai fesztiválja, amelyet a városi turisztikai hivatal szervez, a helyi dalmát ízeket, hagyományokat és a modern konyhát ünnepelve. A 2026-os kiadás október 5-től 18-ig tart kulináris eseményekkel, workshopokkal, kóstolókkal és különleges éttermi menükkel a városban. Ízletes ok a strandszezonon túli látogatásra.",
+     "ro": "Festivalul gastronomic de toamnă al Dubrovnikului, organizat de biroul de turism al orașului, celebrând aromele locale dalmațiene, tradiția și bucătăria contemporană. Ediția 2026 se desfășoară între 5 și 18 octombrie, cu evenimente culinare, ateliere, degustări și meniuri speciale în restaurante din tot orașul. Un motiv savuros de a vizita dincolo de sezonul de plajă.",
+     "en": "Dubrovnik's autumn gastronomy festival organised by the city tourist board, celebrating local Dalmatian flavours, tradition and contemporary cuisine. The 2026 edition runs 5 to 18 October with culinary events, workshops, tastings and special restaurant menus across the city. A flavourful reason to visit beyond beach season."
+    },
     "source_url": "https://tzdubrovnik.hr/lang/en/news/good_food_fest/index.html",
     "image_url": ""
    },
    {
-    "name": "Dubrovnik Winter Festival",
+    "name": {
+     "de": "Dubrovnik Winter Festival",
+     "hu": "Dubrovniki Téli Fesztivál",
+     "ro": "Festivalul de Iarnă de la Dubrovnik",
+     "en": "Dubrovnik Winter Festival"
+    },
     "type": "festive/seasonal",
     "recurring": true,
-    "when": "Late November to early January each year",
+    "when": {
+     "de": "Ende November bis Anfang Januar jedes Jahr",
+     "hu": "Minden év november végétől január elejéig",
+     "ro": "De la sfârșitul lunii noiembrie până la începutul lunii ianuarie în fiecare an",
+     "en": "Late November to early January each year"
+    },
     "date": "",
-    "blurb": "Dubrovnik's advent and winter celebration filling the Old Town with festive lights, concerts, food and family programming, with more than 200 cultural and entertainment events including many for children. A lively off-season highlight in the historic centre near Bellevue Beach.",
+    "blurb": {
+     "de": "Dubrovniks Advents- und Winterfeier, die die Altstadt mit festlichen Lichtern, Konzerten, kulinarischen Angeboten und Familienprogrammen füllt, mit über 200 kulturellen und Unterhaltungsveranstaltungen, darunter viele für Kinder. Ein lebendiges Off-Season-Highlight im historischen Zentrum in der Nähe des Bellevue Beach.",
+     "hu": "Dubrovnik adventi és téli ünnepe, amely az óvárost ünnepi fényekkel, koncertekkel, gasztronómiai kínálattal és családi programokkal tölti meg, több mint 200 kulturális és szórakoztató eseménnyel, köztük sok gyermekprogrammal. Élénk holtszezonbeli fénypont a történelmi központban, a Bellevue Beach közelében.",
+     "ro": "Sărbătoarea de Advent și iarnă a Dubrovnikului, umplând Orașul Vechi cu lumini festive, concerte, oferte culinare și programe pentru familie, cu peste 200 de evenimente culturale și de divertisment, inclusiv multe pentru copii. Un punct de atracție plin de viață în afara sezonului, în centrul istoric, lângă Plaja Bellevue.",
+     "en": "Dubrovnik's advent and winter celebration filling the Old Town with festive lights, concerts, food and family programming, with more than 200 cultural and entertainment events including many for children. A lively off-season highlight in the historic centre near Bellevue Beach."
+    },
     "source_url": "https://www.visit-croatia.co.uk/croatia-destinations/dubrovnik/events-dubrovnik/",
     "image_url": ""
    }
@@ -138,42 +318,102 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Moesgaard Viking Moot (Vikingedage)",
+    "name": {
+     "de": "Moesgaard Viking Moot (Vikingedage)",
+     "hu": "Moesgaard Viking Moot (Vikingedage)",
+     "ro": "Moesgaard Viking Moot (Vikingedage)",
+     "en": "Moesgaard Viking Moot (Vikingedage)"
+    },
     "type": "traditional",
     "recurring": true,
-    "when": "Annually on the last weekend of July; 2026 edition 23-26 July",
+    "when": {
+     "de": "Jährlich am letzten Juli-Wochenende; Ausgabe 2026 vom 23. bis 26. Juli",
+     "hu": "Évente július utolsó hétvégéjén; a 2026-os kiadás július 23-26.",
+     "ro": "Anual în ultimul weekend din iulie; ediția 2026, 23-26 iulie",
+     "en": "Annually on the last weekend of July; 2026 edition 23-26 July"
+    },
     "date": "2026-07-23",
-    "blurb": "Scandinavia's largest and oldest Viking reenactment festival, held right at Moesgård Beach next to Moesgaard Museum. Features a Viking camp, market stalls, craftspeople, warriors, archery, music and sagas.",
+    "blurb": {
+     "de": "Skandinaviens größtes und ältestes Wikinger-Nachstellungsfest, direkt am Moesgård Strand neben dem Moesgaard Museum. Mit Wikingerlager, Marktständen, Handwerkern, Kriegern, Bogenschießen, Musik und Sagen.",
+     "hu": "Skandinávia legnagyobb és legrégebbi viking újrajátszó fesztiválja, közvetlenül a Moesgård strandon, a Moesgaard Múzeum mellett. Viking tábor, piaci standok, kézművesek, harcosok, íjászat, zene és sagák várják.",
+     "ro": "Cel mai mare și mai vechi festival de reconstituire vikingă din Scandinavia, desfășurat chiar pe plaja Moesgård, lângă Muzeul Moesgaard. Include o tabără vikingă, tarabe cu marfă, meșteșugari, războinici, tir cu arcul, muzică și saga.",
+     "en": "Scandinavia's largest and oldest Viking reenactment festival, held right at Moesgård Beach next to Moesgaard Museum. Features a Viking camp, market stalls, craftspeople, warriors, archery, music and sagas."
+    },
     "source_url": "https://www.vikingedage.dk/",
     "image_url": ""
    },
    {
-    "name": "The Snow Queen at Moesgaard (open-air theatre)",
+    "name": {
+     "de": "The Snow Queen at Moesgaard (open-air theatre)",
+     "hu": "The Snow Queen at Moesgaard (open-air theatre)",
+     "ro": "The Snow Queen at Moesgaard (open-air theatre)",
+     "en": "The Snow Queen at Moesgaard (open-air theatre)"
+    },
     "type": "cultural",
     "recurring": false,
-    "when": "21 May - 27 June 2026, evening performances on the grounds of Moesgaard Museum",
+    "when": {
+     "de": "21. Mai bis 27. Juni 2026, Abendvorstellungen auf dem Gelände des Moesgaard Museums",
+     "hu": "2026. május 21. – június 27., esti előadások a Moesgaard Múzeum területén",
+     "ro": "21 mai – 27 iunie 2026, spectacole de seară pe terenul Muzeului Moesgaard",
+     "en": "21 May - 27 June 2026, evening performances on the grounds of Moesgaard Museum"
+    },
     "date": "2026-05-21",
-    "blurb": "The Royal Danish Theatre stages Hans Christian Andersen's The Snow Queen as a spectacular outdoor performance in the landscape around Moesgaard Museum, just above the beach.",
+    "blurb": {
+     "de": "Das Königlich Dänische Theater inszeniert Hans Christian Andersens ‚Die Schneekönigin‘ als spektakuläre Open-Air-Aufführung in der Landschaft rund um das Moesgaard Museum, oberhalb des Strandes.",
+     "hu": "A Dán Királyi Színház Hans Christian Andersen A hókirálynő című művét látványos szabadtéri előadásként állítja színpadra a Moesgaard Múzeum körüli tájban, közvetlenül a strand felett.",
+     "ro": "Teatrul Regal Danez pune în scenă „Crăiasa zăpezii” de Hans Christian Andersen ca un spectacol spectaculos în aer liber, în peisajul din jurul Muzeului Moesgaard, chiar deasupra plajei.",
+     "en": "The Royal Danish Theatre stages Hans Christian Andersen's The Snow Queen as a spectacular outdoor performance in the landscape around Moesgaard Museum, just above the beach."
+    },
     "source_url": "https://www.kglteater.dk/en/drama/2526/the-snow-queen/",
     "image_url": ""
    },
    {
-    "name": "NorthSide Festival",
+    "name": {
+     "de": "NorthSide Festival",
+     "hu": "NorthSide Festival",
+     "ro": "NorthSide Festival",
+     "en": "NorthSide Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "Annually in early June at Eskelunden, Aarhus; 2026 edition 4-6 June",
+    "when": {
+     "de": "Jährlich Anfang Juni in Eskelunden, Aarhus; Ausgabe 2026 vom 4. bis 6. Juni",
+     "hu": "Évente június elején az Eskelundenben, Aarhusban; a 2026-os kiadás június 4-6.",
+     "ro": "Anual la începutul lunii iunie în Eskelunden, Aarhus; ediția 2026, 4-6 iunie",
+     "en": "Annually in early June at Eskelunden, Aarhus; 2026 edition 4-6 June"
+    },
     "date": "2026-06-04",
-    "blurb": "Major three-day music festival in Aarhus known for its sustainability focus, drawing large international and Danish line-ups each year.",
+    "blurb": {
+     "de": "Großes dreitägiges Musikfestival in Aarhus, bekannt für seinen Fokus auf Nachhaltigkeit, das jedes Jahr große internationale und dänische Künstler anzieht.",
+     "hu": "Nagy háromnapos zenei fesztivál Aarhusban, amely a fenntarthatóságra való összpontosításáról ismert, és minden évben nemzetközi és dán fellépőket vonz.",
+     "ro": "Festival major de muzică de trei zile în Aarhus, cunoscut pentru accentul pus pe sustenabilitate, atrăgând anual artiști internaționali și danezi de renume.",
+     "en": "Major three-day music festival in Aarhus known for its sustainability focus, drawing large international and Danish line-ups each year."
+    },
     "source_url": "https://northside.dk/en/tickets/",
     "image_url": ""
    },
    {
-    "name": "Aarhus Festival (Aarhus Festuge)",
+    "name": {
+     "de": "Aarhus Festival (Aarhus Festuge)",
+     "hu": "Aarhus Festival (Aarhus Festuge)",
+     "ro": "Aarhus Festival (Aarhus Festuge)",
+     "en": "Aarhus Festival (Aarhus Festuge)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "Annually late August to early September; 2026 edition 28 August - 6 September",
+    "when": {
+     "de": "Jährlich Ende August bis Anfang September; Ausgabe 2026 vom 28. August bis 6. September",
+     "hu": "Évente augusztus végétől szeptember elejéig; a 2026-os kiadás augusztus 28. – szeptember 6.",
+     "ro": "Anual de la sfârșitul lunii august până la începutul lunii septembrie; ediția 2026, 28 august – 6 septembrie",
+     "en": "Annually late August to early September; 2026 edition 28 August - 6 September"
+    },
     "date": "2026-08-28",
-    "blurb": "One of Northern Europe's largest cultural festivals, a 10-day citywide event in Aarhus with more than 1,000 music, art, theatre and street happenings.",
+    "blurb": {
+     "de": "Eines der größten Kulturfestivals Nordeuropas, ein 10-tägiges, stadtweites Event in Aarhus mit über 1.000 Musik-, Kunst-, Theater- und Straßenveranstaltungen.",
+     "hu": "Észak-Európa egyik legnagyobb kulturális fesztiválja, egy 10 napos, városszerte zajló esemény Aarhusban, több mint 1.000 zenei, művészeti, színházi és utcai programmal.",
+     "ro": "Unul dintre cele mai mari festivaluri culturale din Europa de Nord, un eveniment de 10 zile în tot orașul Aarhus, cu peste 1.000 de evenimente de muzică, artă, teatru și stradă.",
+     "en": "One of Northern Europe's largest cultural festivals, a 10-day citywide event in Aarhus with more than 1,000 music, art, theatre and street happenings."
+    },
     "source_url": "https://www.aarhusfestuge.dk/en",
     "image_url": ""
    }
@@ -185,52 +425,127 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Gravity Beach Festival Copenhagen",
+    "name": {
+     "de": "Gravity Beach Festival Copenhagen",
+     "hu": "Gravity Beach Festival Copenhagen",
+     "ro": "Gravity Beach Festival Copenhagen",
+     "en": "Gravity Beach Festival Copenhagen"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in July; 2026 edition on 11 July",
+    "when": {
+     "de": "jährlich im Juli; Ausgabe 2026 am 11. Juli",
+     "hu": "évente júliusban; a 2026-os kiadás július 11-én",
+     "ro": "anual în iulie; ediția 2026 pe 11 iulie",
+     "en": "annually in July; 2026 edition on 11 July"
+    },
     "date": "2026-07-11",
-    "blurb": "One-day open-air electronic music festival held directly on Amager Strandpark beach, with a daytime-to-midnight lineup of house and techno acts including Kolsch.",
+    "blurb": {
+     "de": "Eintägiges Open-Air-Elektronikmusik-Festival direkt am Strand von Amager Strandpark, mit einem Line-up von House und Techno (u.a. Kolsch) von Tagesmitte bis Mitternacht.",
+     "hu": "Egynapos szabadtéri elektronikus zenei fesztivál közvetlenül az Amager Strandpark strandon, nappaltól éjfélig tartó house és techno fellépőkkel, köztük Kolsch-sal.",
+     "ro": "Festival de muzică electronică în aer liber de o zi, desfășurat direct pe plaja Amager Strandpark, cu un lineup de house și techno de la prânz până la miezul nopții, inclusiv Kolsch.",
+     "en": "One-day open-air electronic music festival held directly on Amager Strandpark beach, with a daytime-to-midnight lineup of house and techno acts including Kolsch."
+    },
     "source_url": "https://gravitycph.dk/beach-festival-cph/",
     "image_url": ""
    },
    {
-    "name": "Neptune Challenge",
+    "name": {
+     "de": "Neptune Challenge",
+     "hu": "Neptune Challenge",
+     "ro": "Neptune Challenge",
+     "en": "Neptune Challenge"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "annually in June; 2026 edition 20-21 June",
+    "when": {
+     "de": "jährlich im Juni; Ausgabe 2026 am 20.-21. Juni",
+     "hu": "évente júniusban; a 2026-os kiadás június 20-21.",
+     "ro": "anual în iunie; ediția 2026 pe 20-21 iunie",
+     "en": "annually in June; 2026 edition 20-21 June"
+    },
     "date": "2026-06-20",
-    "blurb": "Endurance open-water swim event at Amager Strandpark inspired by backyard-ultra format, with swimmers completing 1.5 km every hour over options from 6 up to 42 hours.",
+    "blurb": {
+     "de": "Ausdauer-Freiwasserschwimm-Event am Amager Strandpark, inspiriert vom Backyard-Ultra-Format: Schwimmer absolvieren alle 1,5 km pro Stunde, mit Optionen von 6 bis 42 Stunden.",
+     "hu": "Állóképességi nyílt vízi úszóesemény az Amager Strandparknál, a backyard-ultra formátum ihlette: az úszók óránként 1,5 km-t teljesítenek, 6 és 42 óra közötti opciókkal.",
+     "ro": "Eveniment de înot în apă deschisă la Amager Strandpark, inspirat de formatul backyard-ultra, cu înotători care parcurg 1,5 km la fiecare oră, cu opțiuni de la 6 până la 42 de ore.",
+     "en": "Endurance open-water swim event at Amager Strandpark inspired by backyard-ultra format, with swimmers completing 1.5 km every hour over options from 6 up to 42 hours."
+    },
     "source_url": "https://neptunechallenge.dk/neptune-2026/",
     "image_url": ""
    },
    {
-    "name": "Copenhagen Beach Swim",
+    "name": {
+     "de": "Copenhagen Beach Swim",
+     "hu": "Copenhagen Beach Swim",
+     "ro": "Copenhagen Beach Swim",
+     "en": "Copenhagen Beach Swim"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "annually in early August (2025 edition was 9 August); 2026 date to be confirmed",
+    "when": {
+     "de": "jährlich Anfang August (Ausgabe 2025 war am 9. August); Datum für 2026 wird noch bestätigt",
+     "hu": "évente augusztus elején (a 2025-ös kiadás augusztus 9-én volt); a 2026-os dátum még megerősítésre vár",
+     "ro": "anual la începutul lunii august (ediția 2025 a fost pe 9 august); data pentru 2026 urmează a fi confirmată",
+     "en": "annually in early August (2025 edition was 9 August); 2026 date to be confirmed"
+    },
     "date": "",
-    "blurb": "Annual open-water swim festival at Amager Strandpark with race distances from 1.25 km to 5 km starting and finishing at Helgoland, combined with music and a beach party.",
+    "blurb": {
+     "de": "Jährliches Freiwasserschwimm-Festival am Amager Strandpark mit Wettkampfstrecken von 1,25 km bis 5 km, Start und Ziel an Helgoland, kombiniert mit Musik und Strandparty.",
+     "hu": "Éves nyílt vízi úszófesztivál az Amager Strandparknál, versenytávokkal 1,25 km-től 5 km-ig, rajt és cél Helgolandnál, zenével és strandbulival egybekötve.",
+     "ro": "Festival anual de înot în apă deschisă la Amager Strandpark, cu distanțe de cursă de la 1,25 km la 5 km, start și sosire la Helgoland, combinat cu muzică și petrecere pe plajă.",
+     "en": "Annual open-water swim festival at Amager Strandpark with race distances from 1.25 km to 5 km starting and finishing at Helgoland, combined with music and a beach party."
+    },
     "source_url": "https://copenwater.dk/copenhagen-beach-swim/",
     "image_url": ""
    },
    {
-    "name": "Copenhagen Jazz Festival",
+    "name": {
+     "de": "Copenhagen Jazz Festival",
+     "hu": "Copenhagen Jazz Festival",
+     "ro": "Copenhagen Jazz Festival",
+     "en": "Copenhagen Jazz Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in early/mid July (first two weeks); 2026 edition expected early July",
+    "when": {
+     "de": "jährlich Anfang/Mitte Juli (erste zwei Wochen); Ausgabe 2026 voraussichtlich Anfang Juli",
+     "hu": "évente július elején/közepén (az első két hét); a 2026-os kiadás várhatóan július elején",
+     "ro": "anual la începutul/mijlocul lunii iulie (primele două săptămâni); ediția 2026 estimată la începutul lunii iulie",
+     "en": "annually in early/mid July (first two weeks); 2026 edition expected early July"
+    },
     "date": "",
-    "blurb": "Major citywide Copenhagen jazz festival with over 1,000 concerts across more than 100 venues, within easy reach of the Amager Strandpark area.",
+    "blurb": {
+     "de": "Großes, stadtweites Kopenhagener Jazzfestival mit über 1.000 Konzerten an mehr als 100 Veranstaltungsorten, in leichter Reichweite des Amager Strandpark-Gebiets.",
+     "hu": "Nagy, városi koppenhágai jazzfesztivál több mint 1000 koncerttel, több mint 100 helyszínen, könnyen elérhető távolságban az Amager Strandpark környékétől.",
+     "ro": "Mare festival de jazz în întregul oraș Copenhaga, cu peste 1.000 de concerte în peste 100 de locații, la distanță ușoară de zona Amager Strandpark.",
+     "en": "Major citywide Copenhagen jazz festival with over 1,000 concerts across more than 100 venues, within easy reach of the Amager Strandpark area."
+    },
     "source_url": "https://jazz.dk/en/",
     "image_url": ""
    },
    {
-    "name": "Distortion",
+    "name": {
+     "de": "Distortion",
+     "hu": "Distortion",
+     "ro": "Distortion",
+     "en": "Distortion"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually late May / early June; 2026 edition expected early June",
+    "when": {
+     "de": "jährlich Ende Mai / Anfang Juni; Ausgabe 2026 voraussichtlich Anfang Juni",
+     "hu": "évente május végén / június elején; a 2026-os kiadás várhatóan június elején",
+     "ro": "anual la sfârșitul lunii mai / începutul lunii iunie; ediția 2026 estimată la începutul lunii iunie",
+     "en": "annually late May / early June; 2026 edition expected early June"
+    },
     "date": "",
-    "blurb": "Large Copenhagen street and music festival drawing over 100,000 attendees, with neighbourhood street parties and a harbour rave near the city centre close to Amager.",
+    "blurb": {
+     "de": "Großes Kopenhagener Straßen- und Musikfestival mit über 100.000 Besuchern, mit Nachbarschafts-Straßenfesten und einer Hafen-Rave in der Nähe des Stadtzentrums nahe Amager.",
+     "hu": "Nagy koppenhágai utcai és zenei fesztivál több mint 100.000 résztvevővel, környékbeli utcai bulikkal és egy kikötői rave-vel a városközpont közelében, Amager mellett.",
+     "ro": "Mare festival stradal și muzical din Copenhaga, cu peste 100.000 de participanți, cu petreceri stradale în cartiere și un rave în port, aproape de centrul orașului, lângă Amager.",
+     "en": "Large Copenhagen street and music festival drawing over 100,000 attendees, with neighbourhood street parties and a harbour rave near the city centre close to Amager."
+    },
     "source_url": "https://cphdistortion.dk/",
     "image_url": ""
    }
@@ -242,22 +557,52 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Bønnerup Strand Havnefest og Kræmmermarked (Harbour Festival & Flea Market)",
+    "name": {
+     "de": "Bønnerup Strand Havnefest og Kræmmermarked (Hafen-Fest & Flohmarkt)",
+     "hu": "Bønnerup Strand Havnefest og Kræmmermarked (Kikötői Fesztivál & Bolhapiac)",
+     "ro": "Bønnerup Strand Havnefest og Kræmmermarked (Festivalul Portului & Târg de vechituri)",
+     "en": "Bønnerup Strand Havnefest og Kræmmermarked (Harbour Festival & Flea Market)"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually in early/mid July; 2026 edition 9-12 July",
+    "when": {
+     "de": "jährlich Anfang/Mitte Juli; Ausgabe 2026 vom 9. bis 12. Juli",
+     "hu": "évente július elején/közepén; 2026-os kiadás: július 9–12.",
+     "ro": "anual la începutul/mijlocul lunii iulie; ediția 2026 între 9 și 12 iulie",
+     "en": "annually in early/mid July; 2026 edition 9-12 July"
+    },
     "date": "2026-07-09",
-    "blurb": "The main annual event right at Bønnerup harbour: several festive days with live music, a large flea market, funfair, food trucks, fishing-boat sailing and a harbour show. Locals and visitors gather by the water in the fishing village of Bønnerup Strand.",
+    "blurb": {
+     "de": "Das wichtigste jährliche Ereignis direkt am Hafen von Bønnerup: mehrere Festtage mit Live-Musik, einem großen Flohmarkt, Jahrmarkt, Imbisswagen, Fischerbootfahrten und einer Hafen-Show. Einheimische und Besucher versammeln sich am Wasser im Fischerdorf Bønnerup Strand.",
+     "hu": "A legfontosabb éves esemény közvetlenül Bønnerup kikötőjében: több napos ünnepség élőzenével, nagy bolhapiaccal, vidámparkkal, ételkocsikkal, halászhajózással és kikötői bemutatóval. Helyiek és látogatók gyűlnek össze a vízparton Bønnerup Strand halászfaluban.",
+     "ro": "Principalul eveniment anual chiar la portul Bønnerup: mai multe zile festive cu muzică live, un târg mare de vechituri, parc de distracții, camioane cu mâncare, plimbări cu barca de pescuit și un spectacol portuar. Localnicii și vizitatorii se adună lângă apă în satul pescăresc Bønnerup Strand.",
+     "en": "The main annual event right at Bønnerup harbour: several festive days with live music, a large flea market, funfair, food trucks, fishing-boat sailing and a harbour show. Locals and visitors gather by the water in the fishing village of Bønnerup Strand."
+    },
     "source_url": "https://bonneruphavn.dk/en/foreninger/boennerup-strand-havnefest/",
     "image_url": ""
    },
    {
-    "name": "Gjerrild Kram Rock Jazz (Festival & Flea Market)",
+    "name": {
+     "de": "Gjerrild Kram Rock Jazz (Festival & Flohmarkt)",
+     "hu": "Gjerrild Kram Rock Jazz (Fesztivál & Bolhapiac)",
+     "ro": "Gjerrild Kram Rock Jazz (Festival & Târg de vechituri)",
+     "en": "Gjerrild Kram Rock Jazz (Festival & Flea Market)"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in late June; 2026 edition 25-28 June",
+    "when": {
+     "de": "jährlich Ende Juni; Ausgabe 2026 vom 25. bis 28. Juni",
+     "hu": "évente június végén; 2026-os kiadás: június 25–28.",
+     "ro": "anual la sfârșitul lunii iunie; ediția 2026 între 25 și 28 iunie",
+     "en": "annually in late June; 2026 edition 25-28 June"
+    },
     "date": "2026-06-25",
-    "blurb": "Held in Gjerrild, about 10 km from Bønnerup Strand on northern Djursland. Reportedly Denmark's only free-admission festival, with two stages and over 50 hours of live music, one of Djursland's largest flea markets, a funfair, football tournaments and family activities. On-site camping is available.",
+    "blurb": {
+     "de": "Findet in Gjerrild statt, etwa 10 km von Bønnerup Strand im nördlichen Djursland entfernt. Angeblich Dänemarks einziges Festival mit freiem Eintritt, mit zwei Bühnen und über 50 Stunden Live-Musik, einem der größten Flohmärkte Djurslands, einem Jahrmarkt, Fußballturnieren und Familienaktivitäten. Camping vor Ort ist möglich.",
+     "hu": "Gjerrildben kerül megrendezésre, körülbelül 10 km-re Bønnerup Strandtól, Észak-Djurslandon. Állítólag Dánia egyetlen ingyenes fesztiválja, két színpaddal és több mint 50 óra élőzenével, Djursland egyik legnagyobb bolhapiacával, vidámparkkal, focitornákkal és családi programokkal. Helyszíni kempingezés lehetséges.",
+     "ro": "Se desfășoară în Gjerrild, la aproximativ 10 km de Bønnerup Strand, în nordul Djurslandului. Similar, este singurul festival din Danemarca cu intrare liberă, cu două scene și peste 50 de ore de muzică live, unul dintre cele mai mari târguri de vechituri din Djursland, un parc de distracții, turnee de fotbal și activități de familie. Camparea la fața locului este posibilă.",
+     "en": "Held in Gjerrild, about 10 km from Bønnerup Strand on northern Djursland. Reportedly Denmark's only free-admission festival, with two stages and over 50 hours of live music, one of Djursland's largest flea markets, a funfair, football tournaments and family activities. On-site camping is available."
+    },
     "source_url": "https://www.gjerrildfestival.dk/",
     "image_url": ""
    }
@@ -269,72 +614,177 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "World Athletics Road Running Championships Copenhagen 2026",
+    "name": {
+     "de": "World Athletics Road Running Championships Kopenhagen 2026",
+     "hu": "World Athletics Road Running Championships Koppenhága 2026",
+     "ro": "World Athletics Road Running Championships Copenhaga 2026",
+     "en": "World Athletics Road Running Championships Copenhagen 2026"
+    },
     "type": "sport",
     "recurring": false,
-    "when": "19-20 September 2026; 5km and One Mile on Sat 19 Sep, half marathon on Sun 20 Sep",
+    "when": {
+     "de": "19.–20. September 2026; 5 km und eine Meile am Samstag, 19. September, Halbmarathon am Sonntag, 20. September",
+     "hu": "2026. szeptember 19–20.; 5 km és egy mérföld szombaton, szeptember 19-én, félmaraton vasárnap, szeptember 20-án",
+     "ro": "19–20 septembrie 2026; 5 km și o milă sâmbătă, 19 septembrie, semimaraton duminică, 20 septembrie",
+     "en": "19-20 September 2026; 5km and One Mile on Sat 19 Sep, half marathon on Sun 20 Sep"
+    },
     "date": "2026-09-19",
-    "blurb": "Global road-running championships staged in the streets of Copenhagen, with the One Mile course running down Østerbrogade past Trianglen and Parken in Østerbro, very close to Svanemølle Beach. Tens of thousands of mass-participation runners also take part.",
+    "blurb": {
+     "de": "Globale Straßenlauf-Meisterschaften auf den Straßen von Kopenhagen, mit der Meilenstrecke entlang der Østerbrogade vorbei an Trianglen und Parken in Østerbro, ganz in der Nähe des Svanemølle Strands. Zehntausende von Massenläufern nehmen ebenfalls teil.",
+     "hu": "Globális utcai futóbajnokság Koppenhága utcáin, a mérföldes pálya az Østerbrogade mentén halad el Trianglen és a Parken mellett Østerbroban, nagyon közel a Svanemølle strandhoz. Több tízezer tömegfutó is részt vesz.",
+     "ro": "Campionate mondiale de alergare pe șosea desfășurate pe străzile Copenhagăi, cu traseul de o milă pe Østerbrogade, trecând pe lângă Trianglen și Parken în Østerbro, foarte aproape de plaja Svanemølle. Zeci de mii de alergători de masă participă de asemenea.",
+     "en": "Global road-running championships staged in the streets of Copenhagen, with the One Mile course running down Østerbrogade past Trianglen and Parken in Østerbro, very close to Svanemølle Beach. Tens of thousands of mass-participation runners also take part."
+    },
     "source_url": "https://worldathletics.org/en/competitions/world-athletics-road-running-championships/copenhagen26",
     "image_url": ""
    },
    {
-    "name": "Copenhagen Carnival",
+    "name": {
+     "de": "Copenhagen Carnival",
+     "hu": "Copenhagen Carnival",
+     "ro": "Copenhagen Carnival",
+     "en": "Copenhagen Carnival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "Annually around Whitsun (Pentecost) in late May/early June; 2026 edition 5-14 June, with the main world carnival parade and celebrations centred on Fælledparken in Østerbro",
+    "when": {
+     "de": "Jährlich um Pfingsten (Pfingsten) Ende Mai/Anfang Juni; Ausgabe 2026 vom 5. bis 14. Juni, mit der großen Weltkarnevalsparade und Feierlichkeiten im Fælledparken in Østerbro",
+     "hu": "Évente pünkösd környékén (Pünkösd) május végén/június elején; 2026-os kiadás június 5–14., a fő világkarneváli felvonulással és ünnepségekkel a Fælledparkenben, Østerbroban",
+     "ro": "Anual în jurul Rusaliilor (Penticost) la sfârșitul lunii mai/începutul lunii iunie; ediția 2026 pe 5–14 iunie, cu parada principală de carnaval mondial și sărbătorile centrate pe Fælledparken în Østerbro",
+     "en": "Annually around Whitsun (Pentecost) in late May/early June; 2026 edition 5-14 June, with the main world carnival parade and celebrations centred on Fælledparken in Østerbro"
+    },
     "date": "2026-06-05",
-    "blurb": "Denmark's largest world-music carnival, with around 120 bands, 2,000 dancers and over 100,000 spectators. Its main venue is Fælledparken in Østerbro, immediately inland from Svanemølle Beach.",
+    "blurb": {
+     "de": "Dänemarks größter Weltmusik-Karneval mit rund 120 Bands, 2.000 Tänzern und über 100.000 Zuschauern. Hauptveranstaltungsort ist der Fælledparken in Østerbro, unmittelbar landeinwärts vom Svanemølle Strand.",
+     "hu": "Dánia legnagyobb világzenei karneválja, körülbelül 120 zenekarral, 2000 táncossal és több mint 100.000 nézővel. Fő helyszíne a Fælledparken Østerbroban, közvetlenül a Svanemølle strandtól befelé.",
+     "ro": "Cel mai mare carnaval de muzică mondială din Danemarca, cu aproximativ 120 de trupe, 2.000 de dansatori și peste 100.000 de spectatori. Principalul său loc este Fælledparken în Østerbro, imediat în interior de plaja Svanemølle.",
+     "en": "Denmark's largest world-music carnival, with around 120 bands, 2,000 dancers and over 100,000 spectators. Its main venue is Fælledparken in Østerbro, immediately inland from Svanemølle Beach."
+    },
     "source_url": "https://copenhagencarnival.dk/",
     "image_url": ""
    },
    {
-    "name": "Copenhagen Jazz Festival",
+    "name": {
+     "de": "Copenhagen Jazz Festival",
+     "hu": "Copenhagen Jazz Festival",
+     "ro": "Copenhagen Jazz Festival",
+     "en": "Copenhagen Jazz Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "Annually in early/mid July; 2026 edition 3-12 July",
+    "when": {
+     "de": "Jährlich Anfang/Mitte Juli; Ausgabe 2026 vom 3. bis 12. Juli",
+     "hu": "Évente július elején/közepén; 2026-os kiadás július 3–12.",
+     "ro": "Anual la începutul/mijlocul lunii iulie; ediția 2026 pe 3–12 iulie",
+     "en": "Annually in early/mid July; 2026 edition 3-12 July"
+    },
     "date": "2026-07-03",
-    "blurb": "Europe's largest jazz festival, with around 1,000 concerts at more than 100 venues across the whole city, including many free outdoor concerts in streets, parks and squares well within reach of Østerbro.",
+    "blurb": {
+     "de": "Europas größtes Jazzfestival mit rund 1.000 Konzerten an über 100 Veranstaltungsorten in der ganzen Stadt, darunter viele kostenlose Open-Air-Konzerte in Straßen, Parks und Plätzen, die von Østerbro aus gut erreichbar sind.",
+     "hu": "Európa legnagyobb jazzfesztiválja, körülbelül 1000 koncerttel több mint 100 helyszínen az egész városban, köztük sok ingyenes szabadtéri koncerttel utcákon, parkokban és tereken, amelyek jól elérhetők Østerbroból.",
+     "ro": "Cel mai mare festival de jazz din Europa, cu aproximativ 1.000 de concerte în peste 100 de locații din întregul oraș, inclusiv multe concerte gratuite în aer liber pe străzi, în parcuri și piețe, ușor accesibile din Østerbro.",
+     "en": "Europe's largest jazz festival, with around 1,000 concerts at more than 100 venues across the whole city, including many free outdoor concerts in streets, parks and squares well within reach of Østerbro."
+    },
     "source_url": "https://jazz.dk/en/copenhagen-jazz-festival-2026/frontpage/",
     "image_url": ""
    },
    {
-    "name": "Distortion",
+    "name": {
+     "de": "Distortion",
+     "hu": "Distortion",
+     "ro": "Distortion",
+     "en": "Distortion"
+    },
     "type": "music",
     "recurring": true,
-    "when": "Annually in early June; 2026 edition 3-7 June, with daily street parties rotating through Copenhagen neighbourhoods and the Distortion Ø finale rave",
+    "when": {
+     "de": "Jährlich Anfang Juni; Ausgabe 2026 vom 3. bis 7. Juni, mit täglichen Straßenfesten, die durch Kopenhagener Viertel ziehen, und dem Distortion Ø Abschlussrave",
+     "hu": "Évente június elején; 2026-os kiadás június 3–7., napi utcai bulikkal, amelyek Koppenhága negyedein haladnak át, és a Distortion Ø zárórave-vel",
+     "ro": "Anual la începutul lunii iunie; ediția 2026 pe 3–7 iunie, cu petreceri stradale zilnice care se rotesc prin cartierele Copenhagăi și rave-ul final Distortion Ø",
+     "en": "Annually in early June; 2026 edition 3-7 June, with daily street parties rotating through Copenhagen neighbourhoods and the Distortion Ø finale rave"
+    },
     "date": "2026-06-03",
-    "blurb": "Citywide electronic-music and club-culture street festival with free daytime street parties moving through Copenhagen districts and a weekend finale rave at Refshaleøen. Draws over 100,000 visitors.",
+    "blurb": {
+     "de": "Stadtweites Elektronikmusik- und Clubkultur-Straßenfest mit kostenlosen Tagesstraßenfesten, die durch Kopenhagener Bezirke ziehen, und einem Wochenend-Abschlussrave auf Refshaleøen. Zieht über 100.000 Besucher an.",
+     "hu": "Városszerte elektronikus zenei és klubkultúra utcai fesztivál ingyenes nappali utcai bulikkal, amelyek Koppenhága kerületein haladnak át, és egy hétvégi zárórave-vel a Refshaleøen-en. Több mint 100.000 látogatót vonz.",
+     "ro": "Festival stradal de muzică electronică și cultură de club la nivelul întregului oraș, cu petreceri stradale gratuite de zi care se deplasează prin districtele Copenhagăi și un rave final de weekend pe Refshaleøen. Atrage peste 100.000 de vizitatori.",
+     "en": "Citywide electronic-music and club-culture street festival with free daytime street parties moving through Copenhagen districts and a weekend finale rave at Refshaleøen. Draws over 100,000 visitors."
+    },
     "source_url": "https://www.cphdistortion.dk/",
     "image_url": ""
    },
    {
-    "name": "Golden Days Festival",
+    "name": {
+     "de": "Golden Days Festival",
+     "hu": "Golden Days Festival",
+     "ro": "Golden Days Festival",
+     "en": "Golden Days Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "Annually in September, with events spread across Copenhagen including Østerbro and Frederiksberg",
+    "when": {
+     "de": "Jährlich im September, mit Veranstaltungen in ganz Kopenhagen, einschließlich Østerbro und Frederiksberg",
+     "hu": "Évente szeptemberben, eseményekkel Koppenhága-szerte, beleértve Østerbro-t és Frederiksberg-et",
+     "ro": "Anual în septembrie, cu evenimente răspândite în toată Copenhaga, inclusiv Østerbro și Frederiksberg",
+     "en": "Annually in September, with events spread across Copenhagen including Østerbro and Frederiksberg"
+    },
     "date": "",
-    "blurb": "Annual history and culture festival exploring Danish heritage through lectures, exhibitions, walks and creative events at many locations around Copenhagen, including Østerbro near Svanemølle Beach.",
+    "blurb": {
+     "de": "Jährliches Geschichts- und Kulturfestival, das das dänische Erbe durch Vorträge, Ausstellungen, Spaziergänge und kreative Veranstaltungen an vielen Orten in Kopenhagen erkundet, einschließlich Østerbro in der Nähe des Svanemølle Strands.",
+     "hu": "Éves történelem- és kultúrfesztivál, amely a dán örökséget tárja fel előadások, kiállítások, séták és kreatív események révén Koppenhága számos helyszínén, beleértve Østerbro-t a Svanemølle strand közelében.",
+     "ro": "Festival anual de istorie și cultură care explorează patrimoniul danez prin prelegeri, expoziții, plimbări și evenimente creative în multe locații din jurul Copenhagăi, inclusiv Østerbro lângă plaja Svanemølle.",
+     "en": "Annual history and culture festival exploring Danish heritage through lectures, exhibitions, walks and creative events at many locations around Copenhagen, including Østerbro near Svanemølle Beach."
+    },
     "source_url": "https://www.visitcopenhagen.com/explore/events-cid58/events-cid59",
     "image_url": ""
    },
    {
-    "name": "Culture Night (Kulturnatten)",
+    "name": {
+     "de": "Culture Night (Kulturnatten)",
+     "hu": "Culture Night (Kulturnatten)",
+     "ro": "Culture Night (Kulturnatten)",
+     "en": "Culture Night (Kulturnatten)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "Annually on the second Friday of October; 2026 edition 9 October",
+    "when": {
+     "de": "Jährlich am zweiten Freitag im Oktober; Ausgabe 2026 am 9. Oktober",
+     "hu": "Évente október második péntekén; 2026-os kiadás október 9-én",
+     "ro": "Anual în a doua vineri din octombrie; ediția 2026 pe 9 octombrie",
+     "en": "Annually on the second Friday of October; 2026 edition 9 October"
+    },
     "date": "2026-10-09",
-    "blurb": "City-wide evening when more than 250 museums, theatres, churches, parks, libraries and institutions across Copenhagen open their doors with special programmes, easily accessible from the Østerbro area.",
+    "blurb": {
+     "de": "Stadtweiter Abend, an dem mehr als 250 Museen, Theater, Kirchen, Parks, Bibliotheken und Institutionen in ganz Kopenhagen mit speziellen Programmen ihre Türen öffnen, leicht erreichbar aus dem Østerbro-Gebiet.",
+     "hu": "Városszerte est, amikor több mint 250 múzeum, színház, templom, park, könyvtár és intézmény nyitja meg kapuit különleges programokkal Koppenhága-szerte, könnyen megközelíthető az Østerbro területéről.",
+     "ro": "Seară la nivelul întregului oraș, când peste 250 de muzee, teatre, biserici, parcuri, biblioteci și instituții din toată Copenhaga își deschid ușile cu programe speciale, ușor accesibile din zona Østerbro.",
+     "en": "City-wide evening when more than 250 museums, theatres, churches, parks, libraries and institutions across Copenhagen open their doors with special programmes, easily accessible from the Østerbro area."
+    },
     "source_url": "https://www.visitcopenhagen.com/explore/events-cid58/events-cid59",
     "image_url": ""
    },
    {
-    "name": "Copenhagen Marathon",
+    "name": {
+     "de": "Copenhagen Marathon",
+     "hu": "Copenhagen Marathon",
+     "ro": "Copenhagen Marathon",
+     "en": "Copenhagen Marathon"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "Annually in May; the route runs through several districts including Østerbro near the beach",
+    "when": {
+     "de": "Jährlich im Mai; die Strecke führt durch mehrere Bezirke, darunter Østerbro in Strandnähe",
+     "hu": "Évente májusban; az útvonal több kerületen halad át, beleértve Østerbro-t a strand közelében",
+     "ro": "Anual în luna mai; traseul trece prin mai multe districte, inclusiv Østerbro lângă plajă",
+     "en": "Annually in May; the route runs through several districts including Østerbro near the beach"
+    },
     "date": "",
-    "blurb": "Major annual city marathon whose course winds through central Copenhagen neighbourhoods including Østerbro, with spectators, music and DJs along the route.",
+    "blurb": {
+     "de": "Großer jährlicher Stadtmarathon, dessen Strecke durch zentrale Kopenhagener Viertel führt, darunter Østerbro, mit Zuschauern, Musik und DJs entlang der Route.",
+     "hu": "Nagy éves városi maraton, amelynek útvonala Koppenhága központi negyedein kanyarog, beleértve Østerbro-t, nézőkkel, zenével és DJ-kkel az útvonal mentén.",
+     "ro": "Maraton urban major anual, al cărui traseu șerpuiește prin cartierele centrale ale Copenhagăi, inclusiv Østerbro, cu spectatori, muzică și DJ de-a lungul traseului.",
+     "en": "Major annual city marathon whose course winds through central Copenhagen neighbourhoods including Østerbro, with spectators, music and DJs along the route."
+    },
     "source_url": "https://www.visitcopenhagen.com/explore/events-cid58/events-cid59",
     "image_url": ""
    }
@@ -346,42 +796,102 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Snogebæk Havnefest (Snogebæk Harbour Festival / Brofest)",
+    "name": {
+     "de": "Snogebæk Havnefest (Snogebæk Harbour Festival / Brofest)",
+     "hu": "Snogebæk Havnefest (Snogebæk Harbour Festival / Brofest)",
+     "ro": "Snogebæk Havnefest (Snogebæk Harbour Festival / Brofest)",
+     "en": "Snogebæk Havnefest (Snogebæk Harbour Festival / Brofest)"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually in July (around week 30); one-day family harbour festival",
+    "when": {
+     "de": "jährlich im Juli (um Kalenderwoche 30); eintägiges Familienhafenfest",
+     "hu": "évente júliusban (a 30. hét körül); egynapos családi kikötői fesztivál",
+     "ro": "anual în iulie (în jurul săptămânii 30); festival portuar de o zi pentru familii",
+     "en": "annually in July (around week 30); one-day family harbour festival"
+    },
     "date": "",
-    "blurb": "A long-running summer harbour festival held among the old fishermen's huts at the historic Snogebæk harbour, about 5 km north of Dueodde. Run by local volunteers with music, food and drink, games, raffles and family entertainment.",
+    "blurb": {
+     "de": "Ein langjähriges Sommerhafenfest in den alten Fischerhütten am historischen Hafen von Snogebæk, etwa 5 km nördlich von Dueodde. Organisiert von lokalen Freiwilligen mit Musik, Essen und Getränken, Spielen, Tombola und Familienunterhaltung.",
+     "hu": "Egy régóta futó nyári kikötői fesztivál a régi halászkunyhók között a történelmi snogebæki kikötőben, körülbelül 5 km-re Dueoddétól északra. Helyi önkéntesek szervezik zenével, étellel és itallal, játékokkal, tombolával és családi szórakozással.",
+     "ro": "Un festival portuar de vară de lungă durată, desfășurat printre vechile colibe ale pescarilor la portul istoric Snogebæk, la aproximativ 5 km nord de Dueodde. Organizat de voluntari locali, cu muzică, mâncare și băutură, jocuri, tombolă și divertisment pentru familii.",
+     "en": "A long-running summer harbour festival held among the old fishermen's huts at the historic Snogebæk harbour, about 5 km north of Dueodde. Run by local volunteers with music, food and drink, games, raffles and family entertainment."
+    },
     "source_url": "https://xn--snogebkhavn-f9a.dk/brofest/",
     "image_url": ""
    },
    {
-    "name": "Korpsfestival Bornholm",
+    "name": {
+     "de": "Korpsfestival Bornholm",
+     "hu": "Korpsfestival Bornholm",
+     "ro": "Korpsfestival Bornholm",
+     "en": "Korpsfestival Bornholm"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in late June; 2026 edition 20-28 June (core concerts 21-26 June)",
+    "when": {
+     "de": "jährlich Ende Juni; Ausgabe 2026 vom 20. bis 28. Juni (Kernkonzerte 21. bis 26. Juni)",
+     "hu": "évente június végén; a 2026-os kiadás június 20-28 (fő koncertek június 21-26)",
+     "ro": "anual la sfârșitul lunii iunie; ediția 2026 între 20-28 iunie (concertele principale între 21-26 iunie)",
+     "en": "annually in late June; 2026 edition 20-28 June (core concerts 21-26 June)"
+    },
     "date": "2026-06-20",
-    "blurb": "Festival bringing Norwegian school marching bands (around 1,000 musicians) to perform across Bornholm, with concerts and parades in towns including nearby Snogebæk and Nexø. In 2026 the bands also join the Midsummer celebrations on 23 June.",
+    "blurb": {
+     "de": "Ein Festival, das norwegische Schulmarschkapellen (etwa 1.000 Musiker) nach Bornholm bringt, mit Konzerten und Paraden in Städten wie dem nahegelegenen Snogebæk und Nexø. 2026 nehmen die Kapellen auch an den Mittsommerfeierlichkeiten am 23. Juni teil.",
+     "hu": "Fesztivál, amely norvég iskolai menetelő zenekarokat (körülbelül 1000 zenész) hoz Bornholmra, koncertekkel és felvonulásokkal olyan városokban, mint a közeli Snogebæk és Nexø. 2026-ban a zenekarok csatlakoznak a június 23-i nyári napforduló ünnepségeihez is.",
+     "ro": "Un festival care aduce fanfare școlare norvegiene (aproximativ 1.000 de muzicieni) să cânte pe Bornholm, cu concerte și parade în orașe precum Snogebæk și Nexø, aflate în apropiere. În 2026, fanfarele se alătură și sărbătorilor de Midsummer pe 23 iunie.",
+     "en": "Festival bringing Norwegian school marching bands (around 1,000 musicians) to perform across Bornholm, with concerts and parades in towns including nearby Snogebæk and Nexø. In 2026 the bands also join the Midsummer celebrations on 23 June."
+    },
     "source_url": "https://bornholm.info/event/korpsfestival-bornholm-2026-flotte-koncerter-paa-hele-bornholm/",
     "image_url": ""
    },
    {
-    "name": "Sankt Hans Aften (Midsummer Eve bonfire)",
+    "name": {
+     "de": "Sankt Hans Aften (Mittsommerabend-Feuer)",
+     "hu": "Sankt Hans Aften (Szentivánéji tábortűz)",
+     "ro": "Sankt Hans Aften (Focul de tabără de Midsummer Eve)",
+     "en": "Sankt Hans Aften (Midsummer Eve bonfire)"
+    },
     "type": "traditional",
     "recurring": true,
-    "when": "annually on 23 June",
+    "when": {
+     "de": "jährlich am 23. Juni",
+     "hu": "évente június 23-án",
+     "ro": "anual pe 23 iunie",
+     "en": "annually on 23 June"
+    },
     "date": "2026-06-23",
-    "blurb": "Danish Midsummer Eve celebrated on 23 June with bonfires, midsummer songs and bonfire speeches. Gatherings take place at beaches and harbours around southern Bornholm, including the Snogebæk and Nexø area near Dueodde (subject to local fire-ban rules in dry years).",
+    "blurb": {
+     "de": "Der dänische Mittsommerabend wird am 23. Juni mit Lagerfeuern, Mittsommerliedern und Feuerreden gefeiert. Treffen finden an Stränden und Häfen im südlichen Bornholm statt, einschließlich der Gegend um Snogebæk und Nexø nahe Dueodde (abhängig von lokalen Feuerverboten in trockenen Jahren).",
+     "hu": "A dán Szentivánéjt június 23-án ünneplik tábortüzekkel, szentivánéji dalokkal és tűz melletti beszédekkel. Összejövetelek zajlanak a déli Bornholm strandjainál és kikötőinél, beleértve a Snogebæk és Nexø környékét Dueodde közelében (száraz években a helyi tűzgyújtási tilalom függvényében).",
+     "ro": "Seara daneză de Midsummer este sărbătorită pe 23 iunie cu focuri de tabără, cântece de Midsummer și discursuri la foc. Adunările au loc pe plaje și în porturi din sudul Bornholmului, inclusiv zona Snogebæk și Nexø lângă Dueodde (în funcție de interdicțiile locale privind focul în anii secetoși).",
+     "en": "Danish Midsummer Eve celebrated on 23 June with bonfires, midsummer songs and bonfire speeches. Gatherings take place at beaches and harbours around southern Bornholm, including the Snogebæk and Nexø area near Dueodde (subject to local fire-ban rules in dry years)."
+    },
     "source_url": "https://www.visitdenmark.com/denmark/plan-your-trip/sankt-hans-aften-midsummer-celebrations-gdk1100650",
     "image_url": ""
    },
    {
-    "name": "Nexø Harbour Christmas Market (Julemarked)",
+    "name": {
+     "de": "Nexø Harbour Christmas Market (Julemarked)",
+     "hu": "Nexø Harbour Christmas Market (Julemarked)",
+     "ro": "Nexø Harbour Christmas Market (Julemarked)",
+     "en": "Nexø Harbour Christmas Market (Julemarked)"
+    },
     "type": "traditional",
     "recurring": true,
-    "when": "annually on weekends in late November to December (around 25 Nov - 22 Dec)",
+    "when": {
+     "de": "jährlich an den Wochenenden von Ende November bis Dezember (etwa 25. Nov. - 22. Dez.)",
+     "hu": "évente november végétől decemberig tartó hétvégéken (körülbelül nov. 25. - dec. 22.)",
+     "ro": "anual în weekendurile de la sfârșitul lunii noiembrie până în decembrie (aproximativ 25 nov. - 22 dec.)",
+     "en": "annually on weekends in late November to December (around 25 Nov - 22 Dec)"
+    },
     "date": "",
-    "blurb": "Christmas market at the harbour in Nexø, about 10 km north of Dueodde, featuring Bornholm food, crafts and a festive atmosphere over several weekends before Christmas.",
+    "blurb": {
+     "de": "Weihnachtsmarkt am Hafen in Nexø, etwa 10 km nördlich von Dueodde, mit Bornholmer Speisen, Kunsthandwerk und festlicher Atmosphäre an mehreren Wochenenden vor Weihnachten.",
+     "hu": "Karácsonyi vásár a nexøi kikötőben, körülbelül 10 km-re Dueoddétól északra, bornholmi ételekkel, kézműves termékekkel és ünnepi hangulattal több hétvégén keresztül karácsony előtt.",
+     "ro": "Târg de Crăciun la portul din Nexø, la aproximativ 10 km nord de Dueodde, cu mâncare din Bornholm, meșteșuguri și o atmosferă festivă timp de mai multe weekenduri înainte de Crăciun.",
+     "en": "Christmas market at the harbour in Nexø, about 10 km north of Dueodde, featuring Bornholm food, crafts and a festive atmosphere over several weekends before Christmas."
+    },
     "source_url": "https://visit-bornholm.com/en/events-on-bornholm",
     "image_url": ""
    }
@@ -430,32 +940,77 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Nakskov Vinfestival",
+    "name": {
+     "de": "Nakskov Vinfestival",
+     "hu": "Nakskov Vinfestival",
+     "ro": "Nakskov Vinfestival",
+     "en": "Nakskov Vinfestival"
+    },
     "type": "food",
     "recurring": true,
-    "when": "annually early August (2026: 7-8 August)",
+    "when": {
+     "de": "jährlich Anfang August (2026: 7.-8. August)",
+     "hu": "évente augusztus elején (2026: augusztus 7-8.)",
+     "ro": "anual la începutul lunii august (2026: 7-8 august)",
+     "en": "annually early August (2026: 7-8 August)"
+    },
     "date": "2026-08-07",
-    "blurb": "Annual wine festival on Axeltorv square in central Nakskov featuring wine tasting, food and live music from Lolland and around the world.",
+    "blurb": {
+     "de": "Jährliches Weinfest auf dem Axeltorv-Platz im Zentrum von Nakskov mit Weinprobe, Essen und Live-Musik aus Lolland und der ganzen Welt.",
+     "hu": "Éves borfesztivál a nakskovi Axeltorv téren, borkóstolóval, étellel és élőzenével Lollandról és a világ minden tájáról.",
+     "ro": "Festival anual de vinuri în piața Axeltorv din centrul orașului Nakskov, cu degustări de vinuri, mâncare și muzică live din Lolland și din întreaga lume.",
+     "en": "Annual wine festival on Axeltorv square in central Nakskov featuring wine tasting, food and live music from Lolland and around the world."
+    },
     "source_url": "http://nakskov-vinfestival.dk/",
     "image_url": ""
    },
    {
-    "name": "Nakskovlobet",
+    "name": {
+     "de": "Nakskovlobet",
+     "hu": "Nakskovlobet",
+     "ro": "Nakskovlobet",
+     "en": "Nakskovlobet"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "annually spring (2026: 3 May)",
+    "when": {
+     "de": "jährlich im Frühling (2026: 3. Mai)",
+     "hu": "évente tavasszal (2026: május 3.)",
+     "ro": "anual primăvara (2026: 3 mai)",
+     "en": "annually spring (2026: 3 May)"
+    },
     "date": "2026-05-03",
-    "blurb": "Annual running event organised by Vestlolland Triatlonklub in Nakskov, with 5 km, 10.5 km and half-marathon distances plus children's races.",
+    "blurb": {
+     "de": "Jährlicher Laufwettbewerb, organisiert vom Vestlolland Triatlonklub in Nakskov, mit 5 km, 10,5 km und Halbmarathon sowie Kinderläufen.",
+     "hu": "Éves futóesemény, amelyet a Vestlolland Triatlonklub szervez Nakskovban, 5 km-es, 10,5 km-es és félmaratoni távokkal, valamint gyermekfutásokkal.",
+     "ro": "Eveniment anual de alergare organizat de Vestlolland Triatlonklub în Nakskov, cu distanțe de 5 km, 10,5 km și semimaraton, plus curse pentru copii.",
+     "en": "Annual running event organised by Vestlolland Triatlonklub in Nakskov, with 5 km, 10.5 km and half-marathon distances plus children's races."
+    },
     "source_url": "https://www.vestlolland-triatlonklub.dk/klub/vestlolland-triatlonklub/sider/nakskovlobet",
     "image_url": ""
    },
    {
-    "name": "Lolland Operafestival",
+    "name": {
+     "de": "Lolland Operafestival",
+     "hu": "Lolland Operafestival",
+     "ro": "Lolland Operafestival",
+     "en": "Lolland Operafestival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually (summer)",
+    "when": {
+     "de": "jährlich (Sommer)",
+     "hu": "évente (nyáron)",
+     "ro": "anual (vara)",
+     "en": "annually (summer)"
+    },
     "date": "",
-    "blurb": "Opera festival held across Lolland since 2021, offering close-up opera concerts, some of them free of charge.",
+    "blurb": {
+     "de": "Opernfestival, das seit 2021 auf Lolland stattfindet, mit intimen Opernkonzerten, von denen einige kostenlos sind.",
+     "hu": "Operafesztivál, amelyet 2021 óta rendeznek Lolland-szigetén, közeli operakoncertekkel, amelyek közül néhány ingyenes.",
+     "ro": "Festival de operă desfășurat pe insula Lolland din 2021, cu concerte de operă apropiate, unele dintre ele gratuite.",
+     "en": "Opera festival held across Lolland since 2021, offering close-up opera concerts, some of them free of charge."
+    },
     "source_url": "https://www.lollandoperafestival.dk/",
     "image_url": ""
    }
@@ -467,22 +1022,52 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "The Infinite Bridge (Den Uendelige Bro)",
+    "name": {
+     "de": "The Infinite Bridge (Den Uendelige Bro)",
+     "hu": "The Infinite Bridge (Den Uendelige Bro)",
+     "ro": "The Infinite Bridge (Den Uendelige Bro)",
+     "en": "The Infinite Bridge (Den Uendelige Bro)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually April to October",
+    "when": {
+     "de": "jährlich April bis Oktober",
+     "hu": "évente áprilistól októberig",
+     "ro": "anual din aprilie până în octombrie",
+     "en": "annually April to October"
+    },
     "date": "",
-    "blurb": "A circular wooden walkway sculpture installed in the surf right at Ballehage Beach, originally created for Sculpture by the Sea in 2015 and now set up each year from April through October. It draws large numbers of visitors who walk out over Aarhus Bay.",
+    "blurb": {
+     "de": "Eine runde Holzsteg-Skulptur, die im Wasser direkt am Ballehage Beach installiert ist, ursprünglich 2015 für Sculpture by the Sea geschaffen und nun jedes Jahr von April bis Oktober aufgebaut. Sie zieht viele Besucher an, die über die Aarhus-Bucht hinausgehen.",
+     "hu": "Egy kör alakú fa sétány szobor, amelyet közvetlenül a Ballehage Beach hullámaiban helyeztek el, eredetileg a 2015-ös Sculpture by the Sea kiállításra készült, és azóta minden évben áprilistól októberig felállítják. Nagy számú látogatót vonz, akik az Aarhus-öböl fölé sétálnak.",
+     "ro": "O sculptură circulară de lemn, sub formă de promenadă, instalată în valuri chiar pe plaja Ballehage, creată inițial pentru Sculpture by the Sea în 2015 și montată în fiecare an din aprilie până în octombrie. Atrage un număr mare de vizitatori care merg deasupra golfului Aarhus.",
+     "en": "A circular wooden walkway sculpture installed in the surf right at Ballehage Beach, originally created for Sculpture by the Sea in 2015 and now set up each year from April through October. It draws large numbers of visitors who walk out over Aarhus Bay."
+    },
     "source_url": "https://www.visitdenmark.com/denmark/plan-your-trip/the-infinite-bridge-gdk1092521",
     "image_url": ""
    },
    {
-    "name": "New Year's Bathing at Vinterbadeklubben Ballehage",
+    "name": {
+     "de": "New Year's Bathing at Vinterbadeklubben Ballehage",
+     "hu": "New Year's Bathing at Vinterbadeklubben Ballehage",
+     "ro": "New Year's Bathing at Vinterbadeklubben Ballehage",
+     "en": "New Year's Bathing at Vinterbadeklubben Ballehage"
+    },
     "type": "seasonal",
     "recurring": true,
-    "when": "annually around 1 January",
+    "when": {
+     "de": "jährlich um den 1. Januar",
+     "hu": "évente január 1. körül",
+     "ro": "anual în jurul datei de 1 ianuarie",
+     "en": "annually around 1 January"
+    },
     "date": "",
-    "blurb": "Vinterbadeklubben Ballehage, one of Denmark's oldest winter bathing clubs, holds a fixed New Year's swim (Nytaarsbadning) at Ballehage Beach as part of its seasonal traditions. The club is located meters from the bay at the foot of Marselisborg Forest.",
+    "blurb": {
+     "de": "Vinterbadeklubben Ballehage, einer der ältesten Winterbadeclubs Dänemarks, veranstaltet ein festes Neujahrsschwimmen (Nytaarsbadning) am Ballehage Beach als Teil seiner saisonalen Traditionen. Der Club liegt nur wenige Meter von der Bucht entfernt am Fuße des Marselisborg-Waldes.",
+     "hu": "A Vinterbadeklubben Ballehage, Dánia egyik legrégebbi téli fürdőklubja, hagyományos újévi fürdőzést (Nytaarsbadning) tart a Ballehage Beachen a szezonális hagyományok részeként. A klub néhány méterre található az öböltől, a Marselisborg-erdő lábánál.",
+     "ro": "Vinterbadeklubben Ballehage, unul dintre cele mai vechi cluburi de înot de iarnă din Danemarca, organizează o baie fixă de Anul Nou (Nytaarsbadning) pe plaja Ballehage, ca parte a tradițiilor sale sezoniere. Clubul este situat la câțiva metri de golf, la poalele pădurii Marselisborg.",
+     "en": "Vinterbadeklubben Ballehage, one of Denmark's oldest winter bathing clubs, holds a fixed New Year's swim (Nytaarsbadning) at Ballehage Beach as part of its seasonal traditions. The club is located meters from the bay at the foot of Marselisborg Forest."
+    },
     "source_url": "http://vinterbadeklubben-ballehage.dk/",
     "image_url": ""
    }
@@ -494,42 +1079,102 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Blokhus Wind Festival",
+    "name": {
+     "de": "Blokhus Wind Festival",
+     "hu": "Blokhus Wind Festival",
+     "ro": "Blokhus Wind Festival",
+     "en": "Blokhus Wind Festival"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually at Whitsun (2026: May 23-24)",
+    "when": {
+     "de": "jährlich zu Pfingsten (2026: 23.-24. Mai)",
+     "hu": "évente pünkösdkor (2026: május 23-24.)",
+     "ro": "anual de Rusalii (2026: 23-24 mai)",
+     "en": "annually at Whitsun (2026: May 23-24)"
+    },
     "date": "2026-05-23",
-    "blurb": "An international kite and wind festival held on the beach (Blokhus Strand) every year at Whitsun, drawing kite enthusiasts from across Europe and the USA for free flying, large kite shows and family activities along the Blokhus-Loekken coast.",
+    "blurb": {
+     "de": "Ein internationales Drachen- und Windfestival am Strand (Blokhus Strand), das jedes Jahr zu Pfingsten stattfindet und Drachenbegeisterte aus ganz Europa und den USA anzieht – mit Freifliegen, großen Drachenschauen und Familienaktivitäten entlang der Küste von Blokhus-Løkken.",
+     "hu": "Egy nemzetközi sárkány- és szélfesztivál a Blokhus Strandon, amelyet minden évben pünkösdkor rendeznek meg, és Európa-szerte és az USA-ból is vonzza a sárkányrepülés rajongóit szabad repüléssel, nagy sárkánybemutatókkal és családi programokkal a Blokhus-Løkken part mentén.",
+     "ro": "Un festival internațional de zmeie și vânt, desfășurat pe plaja Blokhus Strand în fiecare an de Rusalii, atrăgând pasionați de zmeie din toată Europa și SUA, cu zbor liber, spectacole mari de zmeie și activități de familie de-a lungul coastei Blokhus-Løkken.",
+     "en": "An international kite and wind festival held on the beach (Blokhus Strand) every year at Whitsun, drawing kite enthusiasts from across Europe and the USA for free flying, large kite shows and family activities along the Blokhus-Loekken coast."
+    },
     "source_url": "https://www.visit-nordvestkysten.com/northwest-coast/whatson/blokhus-wind-festival-gdk998562",
     "image_url": ""
    },
    {
-    "name": "Blokhus Sand Sculpture Festival",
+    "name": {
+     "de": "Blokhus Sand Sculpture Festival",
+     "hu": "Blokhus Sand Sculpture Festival",
+     "ro": "Blokhus Sand Sculpture Festival",
+     "en": "Blokhus Sand Sculpture Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually late April to mid-October (2026: April 30 - October 18, theme Fantasy Art)",
+    "when": {
+     "de": "jährlich von Ende April bis Mitte Oktober (2026: 30. April - 18. Oktober, Thema Fantasy Art)",
+     "hu": "évente április végétől október közepéig (2026: április 30. - október 18., téma: Fantasy Art)",
+     "ro": "anual de la sfârșitul lunii aprilie până la jumătatea lunii octombrie (2026: 30 aprilie - 18 octombrie, tema Fantasy Art)",
+     "en": "annually late April to mid-October (2026: April 30 - October 18, theme Fantasy Art)"
+    },
     "date": "2026-04-30",
-    "blurb": "An annual festival at Skulpturparken Blokhus where some of the world's leading sand sculptors create large sand sculptures; the 2026 edition runs from late April through mid-October on the theme Fantasy Art.",
+    "blurb": {
+     "de": "Ein jährliches Festival im Skulpturparken Blokhus, bei dem einige der weltweit führenden Sandbildhauer große Sandskulpturen erschaffen; die Ausgabe 2026 läuft von Ende April bis Mitte Oktober unter dem Motto Fantasy Art.",
+     "hu": "Egy éves fesztivál a Skulpturparken Blokhusban, ahol a világ vezető homokszobrászai nagy homokszobrokat készítenek; a 2026-os kiadás április végétől október közepéig tart, a Fantasy Art témával.",
+     "ro": "Un festival anual la Skulpturparken Blokhus, unde unii dintre cei mai renumiți sculptori în nisip din lume creează sculpturi mari de nisip; ediția 2026 se desfășoară de la sfârșitul lunii aprilie până la jumătatea lunii octombrie, având tema Fantasy Art.",
+     "en": "An annual festival at Skulpturparken Blokhus where some of the world's leading sand sculptors create large sand sculptures; the 2026 edition runs from late April through mid-October on the theme Fantasy Art."
+    },
     "source_url": "https://skulpturparken.dk/parkoplevelser1/sandskulpturfestival",
     "image_url": ""
    },
    {
-    "name": "Blokhus New Year's Swim (Nytaarsbadning)",
+    "name": {
+     "de": "Blokhus Neujahrsschwimmen (Nytaarsbadning)",
+     "hu": "Blokhus Újévi Fürdőzés (Nytaarsbadning)",
+     "ro": "Blokhus Înotul de Anul Nou (Nytaarsbadning)",
+     "en": "Blokhus New Year's Swim (Nytaarsbadning)"
+    },
     "type": "seasonal",
     "recurring": true,
-    "when": "annually on New Year's Day at Blokhus Strand",
+    "when": {
+     "de": "jährlich am Neujahrstag am Blokhus Strand",
+     "hu": "évente újév napján a Blokhus Strandon",
+     "ro": "anual de Anul Nou pe plaja Blokhus Strand",
+     "en": "annually on New Year's Day at Blokhus Strand"
+    },
     "date": "",
-    "blurb": "Destination Blokhus hosts an annual New Year swim at Blokhus Strand, inviting people to take a cold dip in the sea for a fresh start to the year.",
+    "blurb": {
+     "de": "Destination Blokhus veranstaltet jedes Jahr ein Neujahrsschwimmen am Blokhus Strand und lädt die Menschen zu einem kalten Bad im Meer ein, um frisch ins neue Jahr zu starten.",
+     "hu": "A Destination Blokhus minden évben újévi fürdőzést szervez a Blokhus Strandon, amelyre meghívja az embereket, hogy egy hideg tengeri merüléssel kezdjék frissen az évet.",
+     "ro": "Destination Blokhus organizează anual o baie de Anul Nou pe plaja Blokhus Strand, invitând oamenii să facă o scufundare rece în mare pentru un început proaspăt al anului.",
+     "en": "Destination Blokhus hosts an annual New Year swim at Blokhus Strand, inviting people to take a cold dip in the sea for a fresh start to the year."
+    },
     "source_url": "https://www.opdagdanmark.dk/en/guide/blokhus/begivenheder/",
     "image_url": ""
    },
    {
-    "name": "Hune Marked (Sunday Market)",
+    "name": {
+     "de": "Hune Marked (Sonntagsmarkt)",
+     "hu": "Hune Marked (Vasárnapi Piac)",
+     "ro": "Hune Marked (Târgul de Duminică)",
+     "en": "Hune Marked (Sunday Market)"
+    },
     "type": "market",
     "recurring": true,
-    "when": "every Sunday during the summer season",
+    "when": {
+     "de": "jeden Sonntag während der Sommersaison",
+     "hu": "minden vasárnap a nyári szezonban",
+     "ro": "în fiecare duminică în timpul sezonului estival",
+     "en": "every Sunday during the summer season"
+    },
     "date": "",
-    "blurb": "A popular Sunday market held in Hune near Blokhus throughout the summer, with many stalls drawing visitors from near and far.",
+    "blurb": {
+     "de": "Ein beliebter Sonntagsmarkt in Hune bei Blokhus, der den ganzen Sommer über stattfindet und mit vielen Ständen Besucher aus nah und fern anzieht.",
+     "hu": "Egy népszerű vasárnapi piac Hune-ban, Blokhus közelében, amely egész nyáron át tart, és számos standjával messze földről vonzza a látogatókat.",
+     "ro": "Un popular târg de duminică desfășurat în Hune, lângă Blokhus, pe tot parcursul verii, cu multe standuri care atrag vizitatori de aproape și de departe.",
+     "en": "A popular Sunday market held in Hune near Blokhus throughout the summer, with many stalls drawing visitors from near and far."
+    },
     "source_url": "https://www.opdagdanmark.dk/en/guide/blokhus/begivenheder/",
     "image_url": ""
    }
@@ -541,12 +1186,27 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Blåvandshuk Musikfestival",
+    "name": {
+     "de": "Blåvandshuk Musikfestival",
+     "hu": "Blåvandshuk Musikfestival",
+     "ro": "Blåvandshuk Musikfestival",
+     "en": "Blåvandshuk Musikfestival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in early June (2026: June 6)",
+    "when": {
+     "de": "jährlich Anfang Juni (2026: 6. Juni)",
+     "hu": "évente június elején (2026: június 6.)",
+     "ro": "anual la începutul lunii iunie (2026: 6 iunie)",
+     "en": "annually in early June (2026: June 6)"
+    },
     "date": "2026-06-06",
-    "blurb": "Annual outdoor music festival held at Oksbøl Stadion, the nearest town to Børsmose Strand. The 2026 edition is scheduled for 6 June and continues the festival's tradition of featuring well-known acts.",
+    "blurb": {
+     "de": "Jährliches Open-Air-Musikfestival im Oksbøl Stadion, der nächstgelegenen Stadt zum Børsmose Strand. Die Ausgabe 2026 ist für den 6. Juni geplant und setzt die Tradition des Festivals fort, bekannte Künstler zu präsentieren.",
+     "hu": "Éves szabadtéri zenei fesztivál az Oksbøl Stadionban, a Børsmose Strandhoz legközelebbi városban. A 2026-os kiadás június 6-ra van ütemezve, és folytatja a fesztivál hagyományát, hogy ismert előadókat vonultat fel.",
+     "ro": "Festival anual de muzică în aer liber desfășurat la Stadionul Oksbøl, cel mai apropiat oraș de Plaja Børsmose. Ediția din 2026 este programată pentru 6 iunie și continuă tradiția festivalului de a prezenta artiști cunoscuți.",
+     "en": "Annual outdoor music festival held at Oksbøl Stadion, the nearest town to Børsmose Strand. The 2026 edition is scheduled for 6 June and continues the festival's tradition of featuring well-known acts."
+    },
     "source_url": "https://www.visitvesterhavet.dk/vesterhavet/vesterhavsferie/blaavandshuk-musikfestival-2026-gdk1154051",
     "image_url": ""
    }
@@ -558,32 +1218,77 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Grenaa Gademusiker Festival (Street Music Festival)",
+    "name": {
+     "de": "Grenaa Gademusiker Festival (Street Music Festival)",
+     "hu": "Grenaa Gademusiker Festival (Street Music Festival)",
+     "ro": "Grenaa Gademusiker Festival (Street Music Festival)",
+     "en": "Grenaa Gademusiker Festival (Street Music Festival)"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in May (2026: 22 May)",
+    "when": {
+     "de": "jährlich im Mai (2026: 22. Mai)",
+     "hu": "évente májusban (2026: május 22.)",
+     "ro": "anual în mai (2026: 22 mai)",
+     "en": "annually in May (2026: 22 May)"
+    },
     "date": "2026-05-22",
-    "blurb": "An annual free street music festival that fills Grenaa's pedestrian streets and church square with music across 11 stages. Its 10th edition was held in 2024, drawing thousands of visitors.",
+    "blurb": {
+     "de": "Ein jährliches, kostenloses Straßenmusikfestival, das Grenaa Fußgängerzonen und den Kirchplatz mit Musik auf 11 Bühnen füllt. Die 10. Ausgabe fand 2024 statt und zog tausende Besucher an.",
+     "hu": "Egy éves, ingyenes utcazenei fesztivál, amely megtölti Grenaa gyalogos utcáit és templomterét zenével, 11 színpadon. 10. kiadását 2024-ben tartották, több ezer látogatót vonzva.",
+     "ro": "Un festival anual gratuit de muzică stradală care umple străzile pietonale și piața bisericii din Grenaa cu muzică pe 11 scene. A 10-a ediție a avut loc în 2024, atrăgând mii de vizitatori.",
+     "en": "An annual free street music festival that fills Grenaa's pedestrian streets and church square with music across 11 stages. Its 10th edition was held in 2024, drawing thousands of visitors."
+    },
     "source_url": "https://grenaagademusikerfestival.dk/",
     "image_url": ""
    },
    {
-    "name": "Grenaa Vinfestival (Wine Festival)",
+    "name": {
+     "de": "Grenaa Vinfestival (Wine Festival)",
+     "hu": "Grenaa Vinfestival (Wine Festival)",
+     "ro": "Grenaa Vinfestival (Wine Festival)",
+     "en": "Grenaa Vinfestival (Wine Festival)"
+    },
     "type": "food",
     "recurring": true,
-    "when": "2026-08-29",
+    "when": {
+     "de": "29. August 2026",
+     "hu": "2026. augusztus 29.",
+     "ro": "29 august 2026",
+     "en": "2026-08-29"
+    },
     "date": "2026-08-29",
-    "blurb": "A wine festival held on the town square (Torvet) in Grenaa where visitors can taste over 250 wines from Danish and international producers.",
+    "blurb": {
+     "de": "Ein Weinfest auf dem Stadtplatz (Torvet) in Grenaa, bei dem Besucher über 250 Weine von dänischen und internationalen Produzenten verkosten können.",
+     "hu": "Borfesztivál Grenaa főterén (Torvet), ahol a látogatók több mint 250 bort kóstolhatnak meg dán és nemzetközi termelőktől.",
+     "ro": "Un festival al vinului desfășurat în piața orașului (Torvet) din Grenaa, unde vizitatorii pot degusta peste 250 de vinuri de la producători danezi și internaționali.",
+     "en": "A wine festival held on the town square (Torvet) in Grenaa where visitors can taste over 250 wines from Danish and international producers."
+    },
     "source_url": "https://allevents.in/grenaa/grenaa-vinfestival-2026/200030160485156",
     "image_url": ""
    },
    {
-    "name": "Æblefestival (Apple Festival), Ebeltoft",
+    "name": {
+     "de": "Æblefestival (Apple Festival), Ebeltoft",
+     "hu": "Æblefestival (Apple Festival), Ebeltoft",
+     "ro": "Æblefestival (Apple Festival), Ebeltoft",
+     "en": "Æblefestival (Apple Festival), Ebeltoft"
+    },
     "type": "food",
     "recurring": true,
-    "when": "annually during the autumn (fall) school holiday in October",
+    "when": {
+     "de": "jährlich während der Herbstferien im Oktober",
+     "hu": "évente az őszi iskolai szünetben, októberben",
+     "ro": "anual în timpul vacanței școlare de toamnă, în octombrie",
+     "en": "annually during the autumn (fall) school holiday in October"
+    },
     "date": "",
-    "blurb": "An annual apple-harvest festival held in the historic town of Ebeltoft on the Djursland peninsula, celebrating the local apple harvest during the autumn school holiday.",
+    "blurb": {
+     "de": "Ein jährliches Apfelerntefest in der historischen Stadt Ebeltoft auf der Halbinsel Djursland, das die lokale Apfelernte während der Herbstferien feiert.",
+     "hu": "Éves almaszüreti fesztivál a történelmi Ebeltoft városában, a Djursland-félszigeten, amely a helyi almaszüretet ünnepli az őszi iskolai szünet alatt.",
+     "ro": "Un festival anual al recoltei de mere, desfășurat în orașul istoric Ebeltoft, pe peninsula Djursland, care sărbătorește recolta locală de mere în timpul vacanței școlare de toamnă.",
+     "en": "An annual apple-harvest festival held in the historic town of Ebeltoft on the Djursland peninsula, celebrating the local apple harvest during the autumn school holiday."
+    },
     "source_url": "https://www.opdagdanmark.dk/en/guide/djursland/begivenheder/",
     "image_url": ""
    }
@@ -595,22 +1300,52 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "ABC Beach Party",
+    "name": {
+     "de": "ABC Beach Party",
+     "hu": "ABC Beach Party",
+     "ro": "ABC Beach Party",
+     "en": "ABC Beach Party"
+    },
     "type": "music",
     "recurring": true,
-    "when": "2026-07-11",
+    "when": {
+     "de": "11. Juli 2026",
+     "hu": "2026. július 11.",
+     "ro": "11 iulie 2026",
+     "en": "2026-07-11"
+    },
     "date": "2026-07-11",
-    "blurb": "An annual one-day open-air music festival held directly on Grenaa Beach (Grenaa Strand), organized by Radio ABC, featuring a full day of live concerts on the sand. The event has a coastal-protection dispensation to run in 2025, 2026 and 2027.",
+    "blurb": {
+     "de": "Ein jährliches eintägiges Open-Air-Musikfestival, das direkt am Grenaa Strand stattfindet, organisiert von Radio ABC, mit einem ganzen Tag voller Live-Konzerte im Sand. Die Veranstaltung hat eine Ausnahmegenehmigung zum Küstenschutz, um in den Jahren 2025, 2026 und 2027 stattzufinden.",
+     "hu": "Egy éves egynapos szabadtéri zenei fesztivál, amelyet közvetlenül a grenaa-i strandon (Grenaa Strand) rendeznek meg, a Radio ABC szervezésében, egy teljes napnyi élő koncerttel a homokon. Az esemény partvédelmi engedéllyel rendelkezik a 2025-ös, 2026-os és 2027-es évekre.",
+     "ro": "Un festival anual de muzică în aer liber de o zi, desfășurat direct pe Plaja Grenaa (Grenaa Strand), organizat de Radio ABC, cu o zi întreagă de concerte live pe nisip. Evenimentul are o derogare de protecție costieră pentru a se desfășura în 2025, 2026 și 2027.",
+     "en": "An annual one-day open-air music festival held directly on Grenaa Beach (Grenaa Strand), organized by Radio ABC, featuring a full day of live concerts on the sand. The event has a coastal-protection dispensation to run in 2025, 2026 and 2027."
+    },
     "source_url": "https://radioabc.dk/abc-beach-party-2026/",
     "image_url": ""
    },
    {
-    "name": "Grenaa Vinfestival",
+    "name": {
+     "de": "Grenaa Vinfestival",
+     "hu": "Grenaa Vinfestival",
+     "ro": "Grenaa Vinfestival",
+     "en": "Grenaa Vinfestival"
+    },
     "type": "food",
     "recurring": true,
-    "when": "2026-08-29",
+    "when": {
+     "de": "29. August 2026",
+     "hu": "2026. augusztus 29.",
+     "ro": "29 august 2026",
+     "en": "2026-08-29"
+    },
     "date": "2026-08-29",
-    "blurb": "An annual wine festival held at Torvet (the town square) in central Grenaa, where visitors can taste more than 250 wines from Danish producers and international wine houses.",
+    "blurb": {
+     "de": "Ein jährliches Weinfestival auf dem Torvet (dem Marktplatz) im Zentrum von Grenaa, bei dem Besucher mehr als 250 Weine von dänischen Produzenten und internationalen Weinhäusern verkosten können.",
+     "hu": "Egy éves borfesztivál a Torvet-en (a főtéren) Grenaa központjában, ahol a látogatók több mint 250 bort kóstolhatnak meg dán termelőktől és nemzetközi borházaktól.",
+     "ro": "Un festival anual de vinuri desfășurat în Torvet (piața orașului) din centrul orașului Grenaa, unde vizitatorii pot degusta peste 250 de vinuri de la producători danezi și case de vinuri internaționale.",
+     "en": "An annual wine festival held at Torvet (the town square) in central Grenaa, where visitors can taste more than 250 wines from Danish producers and international wine houses."
+    },
     "source_url": "https://www.visitaarhus.com/aarhus-region/plan-your-trip/grenaa-wine-festival-gdk1151230",
     "image_url": ""
    }
@@ -622,22 +1357,52 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Rømø Kite Festival (Drachenfest)",
+    "name": {
+     "de": "Rømø Kite Festival (Drachenfest)",
+     "hu": "Rømø Kite Festival (Drachenfest)",
+     "ro": "Rømø Kite Festival (Drachenfest)",
+     "en": "Rømø Kite Festival (Drachenfest)"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "2026-09-04 to 2026-09-06 (annually, first full weekend of September)",
+    "when": {
+     "de": "4. bis 6. September 2026 (jährlich, erstes volles Septemberwochenende)",
+     "hu": "2026. szeptember 4–6. (évente, szeptember első teljes hétvégéjén)",
+     "ro": "4–6 septembrie 2026 (anual, în primul weekend complet din septembrie)",
+     "en": "2026-09-04 to 2026-09-06 (annually, first full weekend of September)"
+    },
     "date": "2026-09-04",
-    "blurb": "Northern Europe's largest international kite festival, held on the wide Lakolk Strand on Rømø, the same broad beach area as Havsand. Thousands of colorful kites of giant animals and imaginative shapes fill the sky over the firm sand.",
+    "blurb": {
+     "de": "Das größte internationale Drachenfest Nordeuropas auf dem breiten Lakolk Strand auf Rømø, demselben weitläufigen Sandstrand wie Havsand. Tausende bunte Drachen in Form von Riesentieren und fantasievollen Gebilden erfüllen den Himmel über dem festen Sand.",
+     "hu": "Észak-Európa legnagyobb nemzetközi sárkányfesztiválja, amelyet Rømø széles Lakolk strandján, Havsannal azonos homokos partszakaszon rendeznek. Több ezer színes sárkány, óriás állatok és képzeletbeli formák töltik be az eget a kemény homok felett.",
+     "ro": "Cel mai mare festival internațional de zmeie din Europa de Nord, desfășurat pe plaja largă Lakolk Strand de pe Rømø, aceeași zonă întinsă de nisip ca Havsand. Mii de zmeie colorate, sub formă de animale uriașe și forme imaginative, umplu cerul deasupra nisipului ferm.",
+     "en": "Northern Europe's largest international kite festival, held on the wide Lakolk Strand on Rømø, the same broad beach area as Havsand. Thousands of colorful kites of giant animals and imaginative shapes fill the sky over the firm sand."
+    },
     "source_url": "https://romo-tonder.dk/en/dragefestival/",
     "image_url": ""
    },
    {
-    "name": "Rømø Motor Festival",
+    "name": {
+     "de": "Rømø Motor Festival",
+     "hu": "Rømø Motor Festival",
+     "ro": "Rømø Motor Festival",
+     "en": "Rømø Motor Festival"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "2026-08-22 (annually in August)",
+    "when": {
+     "de": "22. August 2026 (jährlich im August)",
+     "hu": "2026. augusztus 22. (évente augusztusban)",
+     "ro": "22 august 2026 (anual în august)",
+     "en": "2026-08-22 (annually in August)"
+    },
     "date": "2026-08-22",
-    "blurb": "A beach race tribute to the golden age of motorsport where classic cars and motorcycles built before 1947 compete on the hard-packed sand of Lakolk Strand on Rømø, one of Europe's widest beaches.",
+    "blurb": {
+     "de": "Ein Strandrennen als Hommage an das goldene Zeitalter des Motorsports, bei dem vor 1947 gebaute Oldtimer und Motorräder auf dem festen Sand des Lakolk Strand auf Rømø, einem der breitesten Strände Europas, gegeneinander antreten.",
+     "hu": "Strandverseny, amely a motorsport aranykora előtt tiszteleg: az 1947 előtt gyártott klasszikus autók és motorkerékpárok versenyeznek Rømø Lakolk strandjának kemény homokján, Európa egyik legszélesebb strandján.",
+     "ro": "O cursă pe plajă în omagiul epocii de aur a sporturilor cu motor, în care mașinile și motocicletele clasice fabricate înainte de 1947 concurează pe nisipul dur al plajei Lakolk Strand de pe Rømø, una dintre cele mai late plaje din Europa.",
+     "en": "A beach race tribute to the golden age of motorsport where classic cars and motorcycles built before 1947 compete on the hard-packed sand of Lakolk Strand on Rømø, one of Europe's widest beaches."
+    },
     "source_url": "https://romo-tonder.dk/en/rmf25/",
     "image_url": ""
    }
@@ -649,32 +1414,77 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Hornbæk Havnefest",
+    "name": {
+     "de": "Hornbæk Havnefest",
+     "hu": "Hornbæk Havnefest",
+     "ro": "Hornbæk Havnefest",
+     "en": "Hornbæk Havnefest"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually late July (2026: 24-26 July)",
+    "when": {
+     "de": "jährlich Ende Juli (2026: 24.–26. Juli)",
+     "hu": "évente július végén (2026: július 24–26.)",
+     "ro": "anual la sfârșitul lunii iulie (2026: 24–26 iulie)",
+     "en": "annually late July (2026: 24-26 July)"
+    },
     "date": "2026-07-24",
-    "blurb": "Hornbæk's harbour festival, running since 1881, is Helsingør Municipality's largest recurring event, with three days of music, DJs, dancing, food and family activities at Hornbæk Havn. Profits go to local youth work, and children under 15 enter free.",
+    "blurb": {
+     "de": "Das Hafenfest von Hornbæk, das seit 1881 stattfindet, ist die größte wiederkehrende Veranstaltung der Gemeinde Helsingør mit drei Tagen Musik, DJs, Tanz, Essen und Familienaktivitäten am Hornbæk Havn. Die Erlöse fließen in die lokale Jugendarbeit, Kinder unter 15 Jahren haben freien Eintritt.",
+     "hu": "Hornbæk kikötői fesztiválja, amely 1881 óta zajlik, Helsingør község legnagyobb rendszeres eseménye, három napos zenével, DJ-kkel, tánccal, étellel és családi programokkal a Hornbæk Havn-nál. A bevétel a helyi ifjúsági munkát támogatja, a 15 év alatti gyermekek ingyenesen léphetnek be.",
+     "ro": "Festivalul portului din Hornbæk, care are loc din 1881, este cel mai mare eveniment recurent al municipiului Helsingør, cu trei zile de muzică, DJ, dans, mâncare și activități de familie la Hornbæk Havn. Profiturile merg către munca locală cu tinerii, iar copiii sub 15 ani intră gratuit.",
+     "en": "Hornbæk's harbour festival, running since 1881, is Helsingør Municipality's largest recurring event, with three days of music, DJs, dancing, food and family activities at Hornbæk Havn. Profits go to local youth work, and children under 15 enter free."
+    },
     "source_url": "https://www.hornbaekhavnefest.dk/",
     "image_url": ""
    },
    {
-    "name": "Hornbækløbet",
+    "name": {
+     "de": "Hornbækløbet",
+     "hu": "Hornbækløbet",
+     "ro": "Hornbækløbet",
+     "en": "Hornbækløbet"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "annually on the Saturday of the harbour festival weekend (2026: 25 July, 09:30)",
+    "when": {
+     "de": "jährlich am Samstag des Hafenfest-Wochenendes (2026: 25. Juli, 09:30 Uhr)",
+     "hu": "évente a kikötői fesztivál hétvégéjének szombatján (2026: július 25., 09:30)",
+     "ro": "anual în sâmbăta weekendului festivalului portuar (2026: 25 iulie, ora 09:30)",
+     "en": "annually on the Saturday of the harbour festival weekend (2026: 25 July, 09:30)"
+    },
     "date": "2026-07-25",
-    "blurb": "An annual running event organised by volunteers connected to Hornbæk Rotary Klub, held during the Hornbæk Havnefest weekend. Participants can choose a 10 km run, a 5 km run, or a family-friendly 5 km walk.",
+    "blurb": {
+     "de": "Ein jährlicher Laufwettbewerb, organisiert von Freiwilligen, die mit dem Hornbæk Rotary Klub verbunden sind, und während des Hornbæk Havnefest-Wochenendes stattfindet. Die Teilnehmer können zwischen einem 10-km-Lauf, einem 5-km-Lauf oder einem familienfreundlichen 5-km-Spaziergang wählen.",
+     "hu": "Éves futóesemény, amelyet a Hornbæk Rotary Klubhoz kapcsolódó önkéntesek szerveznek, a Hornbæk Havnefest hétvégéjén. A résztvevők választhatnak egy 10 km-es futást, egy 5 km-es futást vagy egy családbarát 5 km-es sétát.",
+     "ro": "Un eveniment anual de alergare organizat de voluntari legați de Hornbæk Rotary Klub, desfășurat în weekendul Hornbæk Havnefest. Participanții pot alege între o cursă de 10 km, o cursă de 5 km sau o plimbare de 5 km potrivită pentru familii.",
+     "en": "An annual running event organised by volunteers connected to Hornbæk Rotary Klub, held during the Hornbæk Havnefest weekend. Participants can choose a 10 km run, a 5 km run, or a family-friendly 5 km walk."
+    },
     "source_url": "https://xn--hornbklbet-h6a2t.dk/",
     "image_url": ""
    },
    {
-    "name": "Sankt Hans Aften (Midsummer Eve)",
+    "name": {
+     "de": "Sankt Hans Aften (Midsommerabend)",
+     "hu": "Sankt Hans Aften (Szentivánéj)",
+     "ro": "Sankt Hans Aften (Ajunul solstițiului de vară)",
+     "en": "Sankt Hans Aften (Midsummer Eve)"
+    },
     "type": "seasonal",
     "recurring": true,
-    "when": "annually on 23 June",
+    "when": {
+     "de": "jährlich am 23. Juni",
+     "hu": "évente június 23-án",
+     "ro": "anual pe 23 iunie",
+     "en": "annually on 23 June"
+    },
     "date": "2026-06-23",
-    "blurb": "Denmark's nationwide midsummer celebration on 23 June, marked along the North Zealand coast including Hornbæk with beach and harbourside bonfires, communal singing and speeches. A traditional Danish summer-eve gathering rather than a single ticketed event.",
+    "blurb": {
+     "de": "Dänemarks landesweite Mittsommerfeier am 23. Juni, die entlang der Nordseeküste Seelands, einschließlich Hornbæk, mit Strand- und Hafenfeuern, gemeinsamem Singen und Reden begangen wird. Ein traditionelles dänisches Sommerabend-Treffen, keine einzelne Veranstaltung mit Eintrittskarten.",
+     "hu": "Dánia országos nyárközépi ünnepe június 23-án, amelyet Észak-Zéland partján, beleértve Hornbæket is, tengerparti és kikötői máglyákkal, közös énekléssel és beszédekkel tartanak. Hagyományos dán nyári esti összejövetel, nem egyetlen jegyes esemény.",
+     "ro": "Sărbătoarea națională a solstițiului de vară din Danemarca pe 23 iunie, marcată de-a lungul coastei de nord a Zeelandei, inclusiv Hornbæk, cu focuri de tabără pe plajă și în port, cântări colective și discursuri. O adunare tradițională daneză de seară de vară, nu un eveniment cu bilet unic.",
+     "en": "Denmark's nationwide midsummer celebration on 23 June, marked along the North Zealand coast including Hornbæk with beach and harbourside bonfires, communal singing and speeches. A traditional Danish summer-eve gathering rather than a single ticketed event."
+    },
     "source_url": "https://www.visitcopenhagen.com/copenhagen/planning/sankt-hans-aften-midsummer-celebrations-gdk1100650",
     "image_url": ""
    }
@@ -686,22 +1496,52 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Hirtshals Fiskefestival (Fish Festival)",
+    "name": {
+     "de": "Hirtshals Fiskefestival (Fish Festival)",
+     "hu": "Hirtshals Fiskefestival (Fish Festival)",
+     "ro": "Hirtshals Fiskefestival (Fish Festival)",
+     "en": "Hirtshals Fiskefestival (Fish Festival)"
+    },
     "type": "food",
     "recurring": true,
-    "when": "annually the first weekend of August",
+    "when": {
+     "de": "jährlich am ersten Augustwochenende",
+     "hu": "évente augusztus első hétvégéjén",
+     "ro": "anual în primul weekend din august",
+     "en": "annually the first weekend of August"
+    },
     "date": "",
-    "blurb": "A three-day fish and fishing festival in the harbour town of Hirtshals, just north of Kærsgård Strand, featuring a fish market, fish auction, large local-products fish buffet, tasting stalls and live music. It draws around 10,000 visitors each year.",
+    "blurb": {
+     "de": "Ein dreitägiges Fisch- und Angelfestival in der Hafenstadt Hirtshals, nördlich von Kærsgård Strand, mit Fischmarkt, Fischauktion, großem Büfett mit lokalen Produkten, Verkostungsständen und Livemusik. Es zieht jährlich rund 10.000 Besucher an.",
+     "hu": "Egy háromnapos hal- és horgászfesztivál a kikötővárosban, Hirtshalsban, Kærsgård Strandtól északra, halpiaccal, halárveréssel, nagy helyi termékekből álló halbüfével, kóstolóstandokkal és élőzenével. Évente mintegy 10.000 látogatót vonz.",
+     "ro": "Un festival de pește și pescuit de trei zile în orașul-port Hirtshals, la nord de Kærsgård Strand, cu piață de pește, licitație de pește, bufet mare de pește cu produse locale, standuri de degustare și muzică live. Atrage aproximativ 10.000 de vizitatori în fiecare an.",
+     "en": "A three-day fish and fishing festival in the harbour town of Hirtshals, just north of Kærsgård Strand, featuring a fish market, fish auction, large local-products fish buffet, tasting stalls and live music. It draws around 10,000 visitors each year."
+    },
     "source_url": "https://www.hirtshalsfiskefestival.dk/hirtshals-fiskefestival/",
     "image_url": ""
    },
    {
-    "name": "Musik under Trappen (Music Under the Stairs)",
+    "name": {
+     "de": "Musik under Trappen (Music Under the Stairs)",
+     "hu": "Musik under Trappen (Music Under the Stairs)",
+     "ro": "Musik under Trappen (Music Under the Stairs)",
+     "en": "Musik under Trappen (Music Under the Stairs)"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually mid/late July (weeks 29-30); 2026 opens 18 July",
+    "when": {
+     "de": "jährlich Mitte/Ende Juli (Wochen 29-30); 2026 beginnt am 18. Juli",
+     "hu": "évente július közepén/végén (29-30. hét); 2026-ban július 18-án nyílik",
+     "ro": "anual la mijlocul/sfârșitul lunii iulie (săptămânile 29-30); ediția 2026 se deschide pe 18 iulie",
+     "en": "annually mid/late July (weeks 29-30); 2026 opens 18 July"
+    },
     "date": "2026-07-18",
-    "blurb": "A week-long free open-air music festival held on the Hirtshals harbour, organised by Hirtshals Musikforening, with around 30 concerts. The 2026 edition opens on Saturday 18 July.",
+    "blurb": {
+     "de": "Ein einwöchiges kostenloses Open-Air-Musikfestival im Hafen von Hirtshals, organisiert vom Hirtshals Musikforening, mit rund 30 Konzerten. Die Ausgabe 2026 beginnt am Samstag, den 18. Juli.",
+     "hu": "Egy egyhetes ingyenes szabadtéri zenei fesztivál a Hirtshals-i kikötőben, a Hirtshals Musikforening szervezésében, mintegy 30 koncerttel. A 2026-os kiadás július 18-án, szombaton nyílik.",
+     "ro": "Un festival de muzică gratuit în aer liber, de o săptămână, desfășurat în portul Hirtshals, organizat de Hirtshals Musikforening, cu aproximativ 30 de concerte. Ediția 2026 se deschide sâmbătă, 18 iulie.",
+     "en": "A week-long free open-air music festival held on the Hirtshals harbour, organised by Hirtshals Musikforening, with around 30 concerts. The 2026 edition opens on Saturday 18 July."
+    },
     "source_url": "https://www.visitnordvestkysten.dk/nordvestkysten/planlaeg-din-tur/musik-under-trappen-hirtshals-gdk1129198",
     "image_url": ""
    }
@@ -713,32 +1553,77 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Tordenskioldsdage (Days of Tordenskiold)",
+    "name": {
+     "de": "Tordenskioldsdage (Tage des Tordenskiold)",
+     "hu": "Tordenskioldsdage (Tordenskiold napjai)",
+     "ro": "Tordenskioldsdage (Zilele lui Tordenskiold)",
+     "en": "Tordenskioldsdage (Days of Tordenskiold)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually, first weekend of September",
+    "when": {
+     "de": "jährlich, erstes Septemberwochenende",
+     "hu": "évente, szeptember első hétvégéjén",
+     "ro": "anual, în primul weekend din septembrie",
+     "en": "annually, first weekend of September"
+    },
     "date": "",
-    "blurb": "Scandinavia's largest historical maritime festival, held in Frederikshavn's harbour area near the beach, re-enacting the era of naval hero Peter Wessel Tordenskiold with a mock naval battle, period market, replica ships, and concerts. It draws around 30,000 visitors each year.",
+    "blurb": {
+     "de": "Skandinaviens größtes historisches Seefahrtsfest, das im Hafenbereich von Frederikshavn nahe dem Strand stattfindet und die Ära des Seehelden Peter Wessel Tordenskiold mit einer Schein-Seeschlacht, einem historischen Markt, Nachbauschiffen und Konzerten nachstellt. Es zieht jährlich rund 30.000 Besucher an.",
+     "hu": "Skandinávia legnagyobb történelmi tengerészeti fesztiválja, amelyet Frederikshavn kikötői területén, a strand közelében rendeznek meg, felelevenítve Peter Wessel Tordenskiold tengeri hős korszakát egy színlelt tengeri csatával, korabeli piaccal, replika hajókkal és koncertekkel. Évente mintegy 30.000 látogatót vonz.",
+     "ro": "Cel mai mare festival maritim istoric din Scandinavia, desfășurat în zona portului Frederikshavn, lângă plajă, reconstituind epoca eroului naval Peter Wessel Tordenskiold cu o bătălie navală simulată, o piață de epocă, nave-replică și concerte. Atrage aproximativ 30.000 de vizitatori în fiecare an.",
+     "en": "Scandinavia's largest historical maritime festival, held in Frederikshavn's harbour area near the beach, re-enacting the era of naval hero Peter Wessel Tordenskiold with a mock naval battle, period market, replica ships, and concerts. It draws around 30,000 visitors each year."
+    },
     "source_url": "https://tordenskioldsby.dk/festival-6-7-sept/",
     "image_url": ""
    },
    {
-    "name": "Blues Heaven Festival",
+    "name": {
+     "de": "Blues Heaven Festival",
+     "hu": "Blues Heaven Festival",
+     "ro": "Blues Heaven Festival",
+     "en": "Blues Heaven Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in autumn (early October/November)",
+    "when": {
+     "de": "jährlich im Herbst (Anfang Oktober/November)",
+     "hu": "évente ősszel (október elején/novemberben)",
+     "ro": "anual toamna (începutul lunii octombrie/noiembrie)",
+     "en": "annually in autumn (early October/November)"
+    },
     "date": "",
-    "blurb": "An award-winning blues and soul festival held at Arena Nord in Frederikshavn, gathering dozens of top international musicians for two days of live performances. 2026 marks a milestone edition of the long-running event.",
+    "blurb": {
+     "de": "Ein preisgekröntes Blues- und Soul-Festival in der Arena Nord in Frederikshavn, das Dutzende internationale Spitzenmusiker für zwei Tage Live-Auftritte versammelt. 2026 markiert eine Jubiläumsausgabe der langjährigen Veranstaltung.",
+     "hu": "Díjnyertes blues- és soulfesztivál a frederikshavni Arena Nordban, amely több tucat nemzetközi csúcszenészt gyűjt össze kétnapos élő előadásokra. 2026 a régóta futó esemény mérföldkőnek számító kiadása.",
+     "ro": "Un festival premiat de blues și soul, găzduit la Arena Nord din Frederikshavn, care reunește zeci de muzicieni internaționali de top pentru două zile de spectacole live. 2026 marchează o ediție de referință a evenimentului de lungă durată.",
+     "en": "An award-winning blues and soul festival held at Arena Nord in Frederikshavn, gathering dozens of top international musicians for two days of live performances. 2026 marks a milestone edition of the long-running event."
+    },
     "source_url": "https://bluesheaven.dk/",
     "image_url": ""
    },
    {
-    "name": "Rock i Frederikshavn",
+    "name": {
+     "de": "Rock i Frederikshavn",
+     "hu": "Rock i Frederikshavn",
+     "ro": "Rock i Frederikshavn",
+     "en": "Rock i Frederikshavn"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in June",
+    "when": {
+     "de": "jährlich im Juni",
+     "hu": "évente júniusban",
+     "ro": "anual în iunie",
+     "en": "annually in June"
+    },
     "date": "",
-    "blurb": "An annual open-air rock concert event staged in Frederikshavn, featuring live bands performing under open skies.",
+    "blurb": {
+     "de": "Ein jährliches Open-Air-Rockkonzert in Frederikshavn mit Live-Bands unter freiem Himmel.",
+     "hu": "Éves szabadtéri rockkoncert Frederikshavnban, élő zenekarokkal a szabad ég alatt.",
+     "ro": "Un concert rock anual în aer liber, organizat în Frederikshavn, cu trupe live sub cerul liber.",
+     "en": "An annual open-air rock concert event staged in Frederikshavn, featuring live bands performing under open skies."
+    },
     "source_url": "https://www.billetsalg.dk/Event/Rock%20i%20Frederikshavn%202026/9163",
     "image_url": ""
    }
@@ -750,32 +1635,77 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "Esbjerg Festuge",
+    "name": {
+     "de": "Esbjerg Festuge",
+     "hu": "Esbjerg Festuge",
+     "ro": "Esbjerg Festuge",
+     "en": "Esbjerg Festuge"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually mid-to-late June (2026: June 13-21)",
+    "when": {
+     "de": "jährlich Mitte bis Ende Juni (2026: 13.-21. Juni)",
+     "hu": "évente június közepétől végéig (2026: június 13-21.)",
+     "ro": "anual la mijlocul și sfârșitul lunii iunie (2026: 13-21 iunie)",
+     "en": "annually mid-to-late June (2026: June 13-21)"
+    },
     "date": "2026-06-13",
-    "blurb": "Esbjerg's annual city festival week fills the town centre with concerts, international street theatre, a children's day, exhibitions and street parades.",
+    "blurb": {
+     "de": "Esbjergs jährliche Stadtfestwoche füllt das Stadtzentrum mit Konzerten, internationalem Straßentheater, einem Kindertag, Ausstellungen und Straßenumzügen.",
+     "hu": "Esbjerg éves városi fesztiválhete koncertekkel, nemzetközi utcaszínházzal, gyereknappal, kiállításokkal és utcai felvonulásokkal tölti meg a városközpontot.",
+     "ro": "Săptămâna anuală a festivalului orașului Esbjerg umple centrul orașului cu concerte, teatru de stradă internațional, o zi a copiilor, expoziții și parade stradale.",
+     "en": "Esbjerg's annual city festival week fills the town centre with concerts, international street theatre, a children's day, exhibitions and street parades."
+    },
     "source_url": "https://www.opdagdanmark.dk/en/guide/esbjerg/begivenheder/",
     "image_url": ""
    },
    {
-    "name": "Suset Festival",
+    "name": {
+     "de": "Suset Festival",
+     "hu": "Suset Festival",
+     "ro": "Suset Festival",
+     "en": "Suset Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in August (2026: August 21-22)",
+    "when": {
+     "de": "jährlich im August (2026: 21.-22. August)",
+     "hu": "évente augusztusban (2026: augusztus 21-22.)",
+     "ro": "anual în august (2026: 21-22 august)",
+     "en": "annually in August (2026: August 21-22)"
+    },
     "date": "2026-08-21",
-    "blurb": "A summer music festival held by the harbour in Esbjerg where visitors enjoy live music and the sunset over the water.",
+    "blurb": {
+     "de": "Ein Sommer-Musikfestival am Hafen von Esbjerg, bei dem Besucher Live-Musik und den Sonnenuntergang über dem Wasser genießen.",
+     "hu": "Egy nyári zenei fesztivál Esbjerg kikötőjében, ahol a látogatók élőzenét és a naplementét élvezhetik a víz felett.",
+     "ro": "Un festival de muzică de vară organizat în portul din Esbjerg, unde vizitatorii se bucură de muzică live și de apusul soarelui peste apă.",
+     "en": "A summer music festival held by the harbour in Esbjerg where visitors enjoy live music and the sunset over the water."
+    },
     "source_url": "https://www.vadehavskysten.com/ribe-esbjerg-fano/ribe-esbjerg-fano/suset-festival-esbjerg-gdk1142628",
     "image_url": ""
    },
    {
-    "name": "Esbjerg Olfestival",
+    "name": {
+     "de": "Esbjerg Ølfestival",
+     "hu": "Esbjerg Ølfestival",
+     "ro": "Esbjerg Ølfestival",
+     "en": "Esbjerg Olfestival"
+    },
     "type": "food",
     "recurring": true,
-    "when": "annually in June (2026: June 20)",
+    "when": {
+     "de": "jährlich im Juni (2026: 20. Juni)",
+     "hu": "évente júniusban (2026: június 20.)",
+     "ro": "anual în iunie (2026: 20 iunie)",
+     "en": "annually in June (2026: June 20)"
+    },
     "date": "2026-06-20",
-    "blurb": "A craft beer street festival staged in the Esbjerg city centre on Jyllandsgade during Esbjerg Festuge, running in the afternoon.",
+    "blurb": {
+     "de": "Ein Craft-Bier-Straßenfestival im Stadtzentrum von Esbjerg auf der Jyllandsgade während der Esbjerg Festuge, das am Nachmittag stattfindet.",
+     "hu": "Egy kézműves sör utcai fesztivál Esbjerg belvárosában, a Jyllandsgade-n, az Esbjerg Festuge alatt, délután zajlik.",
+     "ro": "Un festival de bere artizanală pe stradă, în centrul orașului Esbjerg, pe Jyllandsgade, în timpul Esbjerg Festuge, care se desfășoară după-amiaza.",
+     "en": "A craft beer street festival staged in the Esbjerg city centre on Jyllandsgade during Esbjerg Festuge, running in the afternoon."
+    },
     "source_url": "https://www.travelbeginsat40.com/event/esbjerg-olfestival-esbjerg-denmark/",
     "image_url": ""
    }
@@ -787,32 +1717,77 @@
   "country": "Denmark",
   "events": [
    {
-    "name": "ØL LØBET (Beer Run)",
+    "name": {
+     "de": "ØL LØBET (Beer Run)",
+     "hu": "ØL LØBET (Beer Run)",
+     "ro": "ØL LØBET (Beer Run)",
+     "en": "ØL LØBET (Beer Run)"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "2026-05-24",
+    "when": {
+     "de": "24. Mai 2026",
+     "hu": "2026. május 24.",
+     "ro": "24 mai 2026",
+     "en": "2026-05-24"
+    },
     "date": "2026-05-24",
-    "blurb": "A fun run starting from Snekkersten Havn along Strandvejen past the harbour front, Kulturværftet and Marienlyst toward Sommariva, where it transitions directly into the Helsingør Karneval festivities. Open to walkers and joggers alike.",
+    "blurb": {
+     "de": "Ein Spaßlauf, der am Snekkersten Havn beginnt, entlang der Strandvejen am Hafen, Kulturværftet und Marienlyst vorbei bis nach Sommariva führt, wo er direkt in die Helsingør Karneval-Feierlichkeiten übergeht. Offen für Spaziergänger und Jogger gleichermaßen.",
+     "hu": "Egy szórakoztató futás, amely Snekkersten Havnból indul, a Strandvejen mentén halad a kikötő, a Kulturværftet és Marienlyst mellett Sommariváig, ahol közvetlenül átmegy a Helsingør Karneval ünnepségeibe. Nyitott gyaloglók és kocogók számára egyaránt.",
+     "ro": "O alergare distractivă care pornește de la Snekkersten Havn, de-a lungul Strandvejen, pe lângă port, Kulturværftet și Marienlyst, până la Sommariva, unde trece direct în festivitățile Helsingør Karneval. Deschisă atât pentru plimbători, cât și pentru joggeri.",
+     "en": "A fun run starting from Snekkersten Havn along Strandvejen past the harbour front, Kulturværftet and Marienlyst toward Sommariva, where it transitions directly into the Helsingør Karneval festivities. Open to walkers and joggers alike."
+    },
     "source_url": "https://allevents.in/helsing%C3%B8r/%C3%98l-l%C3%98b-2026/200028842884859",
     "image_url": ""
    },
    {
-    "name": "Helsingør Karneval",
+    "name": {
+     "de": "Helsingør Karneval",
+     "hu": "Helsingør Karneval",
+     "ro": "Helsingør Karneval",
+     "en": "Helsingør Karneval"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "2026-05-24 (Pentecost Sunday)",
+    "when": {
+     "de": "24. Mai 2026 (Pfingstsonntag)",
+     "hu": "2026. május 24. (Pünkösdvasárnap)",
+     "ro": "24 mai 2026 (Duminica Rusaliilor)",
+     "en": "2026-05-24 (Pentecost Sunday)"
+    },
     "date": "2026-05-24",
-    "blurb": "An annual Whitsun carnival and outdoor concert party at Sommarivaparken in Helsingør, just up the coast from Snekkersten, with a large stage, beer tent and food trucks. The 2026 edition coincides with the city's 600th anniversary as a market town.",
+    "blurb": {
+     "de": "Ein jährlicher Pfingstkarneval mit Open-Air-Konzertparty im Sommarivaparken in Helsingør, direkt an der Küste von Snekkersten, mit einer großen Bühne, einem Bierzelt und Food Trucks. Die Ausgabe 2026 fällt mit dem 600. Jahrestag der Stadt als Marktgemeinde zusammen.",
+     "hu": "Éves pünkösdi karnevál és szabadtéri koncertparti a sommarivai parkban, Helsingørben, közvetlenül Snekkersten partján, nagy színpaddal, sörsátorral és ételkocsikkal. A 2026-os kiadás egybeesik a város piaci városként való 600. évfordulójával.",
+     "ro": "Un carnaval anual de Rusalii și petrecere-concert în aer liber în Sommarivaparken din Helsingør, chiar pe coasta de la Snekkersten, cu o scenă mare, un cort cu bere și camioane cu mâncare. Ediția din 2026 coincide cu aniversarea a 600 de ani a orașului ca târg.",
+     "en": "An annual Whitsun carnival and outdoor concert party at Sommarivaparken in Helsingør, just up the coast from Snekkersten, with a large stage, beer tent and food trucks. The 2026 edition coincides with the city's 600th anniversary as a market town."
+    },
     "source_url": "https://www.helsingorkarneval.dk/",
     "image_url": ""
    },
    {
-    "name": "Hvaler i Øresund",
+    "name": {
+     "de": "Hvaler i Øresund",
+     "hu": "Hvaler i Øresund",
+     "ro": "Hvaler i Øresund",
+     "en": "Hvaler i Øresund"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "Whitsun/Pentecost 2026 (22-25 May), held biennially",
+    "when": {
+     "de": "Pfingsten 2026 (22.–25. Mai), alle zwei Jahre",
+     "hu": "Pünkösd 2026 (május 22–25.), kétévente",
+     "ro": "Rusalii 2026 (22–25 mai), bienal",
+     "en": "Whitsun/Pentecost 2026 (22-25 May), held biennially"
+    },
     "date": "2026-05-22",
-    "blurb": "A biennial gathering and regatta of classic Danish 'whale' class wooden boats (Sæler, Marsvin, Spækhuggere, Grinder, Kaskelotter) hosted at Snekkersten Havn by Snekkersten Skotterup Sejlklub, with racing around Hven, an award night and live music.",
+    "blurb": {
+     "de": "Ein zweijährliches Treffen und eine Regatta klassischer dänischer Holzboote der „Wal“-Klasse (Sæler, Marsvin, Spækhuggere, Grinder, Kaskelotter), ausgerichtet im Snekkersten Havn vom Snekkersten Skotterup Sejlklub, mit Wettfahrten um Hven, einer Preisverleihung und Live-Musik.",
+     "hu": "Kétévente megrendezett találkozó és regatta klasszikus dán „bálna” osztályú fahajókkal (Sæler, Marsvin, Spækhuggere, Grinder, Kaskelotter), amelyet a Snekkersten Skotterup Sejlklub rendez a Snekkersten Havnban, versenyzéssel Hven körül, díjátadóval és élőzenével.",
+     "ro": "O întâlnire și regată bienală a bărcilor clasice daneze din lemn de clasă „balenă” (Sæler, Marsvin, Spækhuggere, Grinder, Kaskelotter), găzduită la Snekkersten Havn de Snekkersten Skotterup Sejlklub, cu curse în jurul insulei Hven, o seară de premiere și muzică live.",
+     "en": "A biennial gathering and regatta of classic Danish 'whale' class wooden boats (Sæler, Marsvin, Spækhuggere, Grinder, Kaskelotter) hosted at Snekkersten Havn by Snekkersten Skotterup Sejlklub, with racing around Hven, an award night and live music."
+    },
     "source_url": "https://sssejlklub.dk/hvaler-i-oresund-2026/",
     "image_url": ""
    }

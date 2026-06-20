@@ -5,52 +5,127 @@
   "country": "Germany",
   "events": [
    {
-    "name": "Energy Music Tour",
+    "name": {
+     "de": "Energy Music Tour",
+     "hu": "Energy Music Tour",
+     "ro": "Energy Music Tour",
+     "en": "Energy Music Tour"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in late August; 2025 edition held 30 August at Strandbad Wannsee",
+    "when": {
+     "de": "jährlich Ende August; die Ausgabe 2025 findet am 30. August am Strandbad Wannsee statt",
+     "hu": "évente augusztus végén; a 2025-ös kiadást augusztus 30-án rendezik a Strandbad Wannsee-nél",
+     "ro": "anual la sfârșitul lunii august; ediția 2025 are loc pe 30 august la Strandbad Wannsee",
+     "en": "annually in late August; 2025 edition held 30 August at Strandbad Wannsee"
+    },
     "date": "",
-    "blurb": "Large free open-air pop/dance festival held directly on the beach at Strandbad Wannsee, with a food court, beach chill-out and swimming area. It returns to the lido where it began in 2003 and typically features major chart acts.",
+    "blurb": {
+     "de": "Großes kostenloses Open-Air-Pop/Dance-Festival direkt am Strand des Strandbads Wannsee mit Food-Court, Strand-Chill-out und Badebereich. Es kehrt an das Strandbad zurück, wo es 2003 begann, und bietet typischerweise große Chartacts.",
+     "hu": "Nagy, ingyenes szabadtéri pop/dance fesztivál közvetlenül a Strandbad Wannsee strandján, ételudvarral, strandpihenővel és úszórésszel. Visszatér ahhoz a fürdőhöz, ahol 2003-ban indult, és jellemzően nagy slágerlistás előadókat vonultat fel.",
+     "ro": "Mare festival gratuit în aer liber de muzică pop/dance, desfășurat direct pe plaja de la Strandbad Wannsee, cu zonă de mâncare, zonă de relaxare pe plajă și zonă de înot. Revine la lido-ul unde a început în 2003 și include de obicei artiști de top din topuri.",
+     "en": "Large free open-air pop/dance festival held directly on the beach at Strandbad Wannsee, with a food court, beach chill-out and swimming area. It returns to the lido where it began in 2003 and typically features major chart acts."
+    },
     "source_url": "https://www.berlinerbaeder.de/events/detail/energy-music-tour-2025-das-gratis-open-air-am-wannsee-am-30082025/",
     "image_url": ""
    },
    {
-    "name": "Wannsee in Flammen (Saisonende / season finale)",
+    "name": {
+     "de": "Wannsee in Flammen (Saisonende / season finale)",
+     "hu": "Wannsee in Flammen (Saisonende / season finale)",
+     "ro": "Wannsee in Flammen (Saisonende / season finale)",
+     "en": "Wannsee in Flammen (Saisonende / season finale)"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually in late September; traditional season-end fireworks over the Wannsee, visible from the Strandbad shore",
+    "when": {
+     "de": "jährlich Ende September; traditionelles Saisonabschluss-Feuerwerk über dem Wannsee, vom Strandbadufer aus sichtbar",
+     "hu": "évente szeptember végén; hagyományos évadzáró tűzijáték a Wannsee felett, a Strandbad partjáról látható",
+     "ro": "anual la sfârșitul lunii septembrie; focuri de artificii tradiționale de final de sezon deasupra lacului Wannsee, vizibile de pe malul Strandbad",
+     "en": "annually in late September; traditional season-end fireworks over the Wannsee, visible from the Strandbad shore"
+    },
     "date": "",
-    "blurb": "Traditional Berlin fireworks event marking the end of the bathing and passenger-ship season, with illuminated boat parades by Stern und Kreisschiffahrt and fireworks over Lake Wannsee. The display can be watched from the shore of Strandbad Wannsee.",
+    "blurb": {
+     "de": "Traditionelles Berliner Feuerwerk zum Ende der Bade- und Fahrgastschiffsaison mit beleuchteten Bootsparaden der Stern und Kreisschiffahrt und Feuerwerk über dem Wannsee. Das Spektakel kann vom Ufer des Strandbads Wannsee aus verfolgt werden.",
+     "hu": "Hagyományos berlini tűzijáték a fürdő- és személyhajózási szezon végén, a Stern und Kreisschiffahrt kivilágított hajófelvonulásával és tűzijátékkal a Wannsee felett. A látványosság a Strandbad Wannsee partjáról nézhető.",
+     "ro": "Eveniment tradițional de artificii din Berlin care marchează sfârșitul sezonului de înot și de nave de pasageri, cu parade de bărci iluminate de Stern und Kreisschiffahrt și focuri de artificii deasupra lacului Wannsee. Spectacolul poate fi urmărit de pe malul Strandbad Wannsee.",
+     "en": "Traditional Berlin fireworks event marking the end of the bathing and passenger-ship season, with illuminated boat parades by Stern und Kreisschiffahrt and fireworks over Lake Wannsee. The display can be watched from the shore of Strandbad Wannsee."
+    },
     "source_url": "https://www.facebook.com/events/berliner-b%C3%A4der/saisonende-im-strandbad-mit-wannsee-in-flammen/2700261763327613/",
     "image_url": ""
    },
    {
-    "name": "Start of the Bathing Season at Strandbad Wannsee",
+    "name": {
+     "de": "Start of the Bathing Season at Strandbad Wannsee",
+     "hu": "Start of the Bathing Season at Strandbad Wannsee",
+     "ro": "Start of the Bathing Season at Strandbad Wannsee",
+     "en": "Start of the Bathing Season at Strandbad Wannsee"
+    },
     "type": "traditional",
     "recurring": true,
-    "when": "annually in spring (around Easter / May), opening the summer lido season",
+    "when": {
+     "de": "jährlich im Frühjahr (um Ostern/Mai), Eröffnung der Sommerbadesaison",
+     "hu": "évente tavasszal (húsvét/május környékén), a nyári fürdőszezon megnyitása",
+     "ro": "anual primăvara (în jurul Paștelui/mai), deschiderea sezonului estival de înot",
+     "en": "annually in spring (around Easter / May), opening the summer lido season"
+    },
     "date": "",
-    "blurb": "Seasonal opening of Berlin's historic 1920s lido, one of Europe's largest inland beaches, marking the start of the summer swimming season on Lake Wannsee.",
+    "blurb": {
+     "de": "Saisonale Eröffnung des historischen Berliner Strandbads aus den 1920er Jahren, einem der größten Binnenstrände Europas, die den Beginn der Sommerschwimmsaison auf dem Wannsee markiert.",
+     "hu": "A berlini, 1920-as évekbeli történelmi fürdő szezonális megnyitója, amely Európa egyik legnagyobb beltéri strandja, jelezve a nyári úszószezon kezdetét a Wannsee-n.",
+     "ro": "Deschiderea sezonieră a istoricului lido berlinez din anii 1920, una dintre cele mai mari plaje interioare din Europa, marcând începutul sezonului estival de înot pe lacul Wannsee.",
+     "en": "Seasonal opening of Berlin's historic 1920s lido, one of Europe's largest inland beaches, marking the start of the summer swimming season on Lake Wannsee."
+    },
     "source_url": "https://www.berlinerbaeder.de/news/detail/sommersaison-2026-starttermine-der-sommerbaeder/",
     "image_url": ""
    },
    {
-    "name": "Malle Open Air at Loretta am Wannsee",
+    "name": {
+     "de": "Malle Open Air at Loretta am Wannsee",
+     "hu": "Malle Open Air at Loretta am Wannsee",
+     "ro": "Malle Open Air at Loretta am Wannsee",
+     "en": "Malle Open Air at Loretta am Wannsee"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in late spring; 2026 edition on 23 May at Loretta am Wannsee",
+    "when": {
+     "de": "jährlich im späten Frühjahr; die Ausgabe 2026 findet am 23. Mai bei Loretta am Wannsee statt",
+     "hu": "évente késő tavasszal; a 2026-os kiadást május 23-án rendezik a Loretta am Wannsee-nél",
+     "ro": "anual la sfârșitul primăverii; ediția 2026 are loc pe 23 mai la Loretta am Wannsee",
+     "en": "annually in late spring; 2026 edition on 23 May at Loretta am Wannsee"
+    },
     "date": "2026-05-23",
-    "blurb": "Mallorca-style open-air party by the water at the Loretta am Wannsee beer garden near the Wannsee waterfront, with German pop/Schlager acts such as Julian Sommer and Lorenz Buffel.",
+    "blurb": {
+     "de": "Mallorca-Open-Air-Party am Wasser im Biergarten Loretta am Wannsee in der Nähe der Wannsee-Uferpromenade mit deutschen Pop/Schlager-Acts wie Julian Sommer und Lorenz Buffel.",
+     "hu": "Mallorca-stílusú szabadtéri parti a vízparton a Loretta am Wannsee sörkertben, a Wannsee-part közelében, olyan német pop/schlager előadókkal, mint Julian Sommer és Lorenz Buffel.",
+     "ro": "Petrecere în aer liber în stil mallorquin lângă apă, la grădina de bere Loretta am Wannsee, aproape de malul lacului Wannsee, cu artiști germani de pop/Schlager precum Julian Sommer și Lorenz Buffel.",
+     "en": "Mallorca-style open-air party by the water at the Loretta am Wannsee beer garden near the Wannsee waterfront, with German pop/Schlager acts such as Julian Sommer and Lorenz Buffel."
+    },
     "source_url": "https://www.eventim-light.com/de/a/6845620a7664391d2f997b59/e/69442b7b89cf6b6acbc8696d",
     "image_url": ""
    },
    {
-    "name": "Oktoberfest at Loretta am Wannsee",
+    "name": {
+     "de": "Oktoberfest at Loretta am Wannsee",
+     "hu": "Oktoberfest at Loretta am Wannsee",
+     "ro": "Oktoberfest at Loretta am Wannsee",
+     "en": "Oktoberfest at Loretta am Wannsee"
+    },
     "type": "gastronomy",
     "recurring": true,
-    "when": "annually in September/October; 2026 dates include 18 September at Loretta am Wannsee",
+    "when": {
+     "de": "jährlich im September/Oktober; die Termine 2026 umfassen den 18. September bei Loretta am Wannsee",
+     "hu": "évente szeptember/októberben; a 2026-os időpontok között szerepel szeptember 18. a Loretta am Wannsee-nél",
+     "ro": "anual în septembrie/octombrie; datele pentru 2026 includ 18 septembrie la Loretta am Wannsee",
+     "en": "annually in September/October; 2026 dates include 18 September at Loretta am Wannsee"
+    },
     "date": "2026-09-18",
-    "blurb": "Bavarian-style Oktoberfest celebration at the Loretta am Wannsee beer garden with live music, beer and traditional food near the Wannsee waterfront.",
+    "blurb": {
+     "de": "Bayrisches Oktoberfest im Biergarten Loretta am Wannsee mit Live-Musik, Bier und traditionellem Essen in der Nähe der Wannsee-Uferpromenade.",
+     "hu": "Bajor stílusú Oktoberfest-ünnepség a Loretta am Wannsee sörkertben élőzenével, sörrel és hagyományos ételekkel a Wannsee-part közelében.",
+     "ro": "Sărbătoare Oktoberfest în stil bavarez la grădina de bere Loretta am Wannsee, cu muzică live, bere și mâncare tradițională, lângă malul lacului Wannsee.",
+     "en": "Bavarian-style Oktoberfest celebration at the Loretta am Wannsee beer garden with live music, beer and traditional food near the Wannsee waterfront."
+    },
     "source_url": "https://loretta-wannsee.berlin/veranstaltungen/",
     "image_url": ""
    }
@@ -62,32 +137,77 @@
   "country": "Germany",
   "events": [
    {
-    "name": "Jazzfest Ahrenshoop",
+    "name": {
+     "de": "Jazzfest Ahrenshoop",
+     "hu": "Jazzfest Ahrenshoop",
+     "ro": "Jazzfest Ahrenshoop",
+     "en": "Jazzfest Ahrenshoop"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually mid-June (2026: June 18-21)",
+    "when": {
+     "de": "jährlich Mitte Juni (2026: 18.-21. Juni)",
+     "hu": "évente június közepén (2026: június 18-21.)",
+     "ro": "anual la mijlocul lunii iunie (2026: 18-21 iunie)",
+     "en": "annually mid-June (2026: June 18-21)"
+    },
     "date": "2026-06-18",
-    "blurb": "Annual jazz festival staged across roughly 17 venues throughout the artists' village of Ahrenshoop, presenting swing, Latin jazz, funk, brass, blues, boogie woogie and more. The 2026 edition (June 18-21) marks 25 years of the festival.",
+    "blurb": {
+     "de": "Jährliches Jazzfestival mit rund 17 Spielstätten im Künstlerdorf Ahrenshoop, das Swing, Latin Jazz, Funk, Brass, Blues, Boogie Woogie und mehr präsentiert. Die Ausgabe 2026 (18.-21. Juni) markiert das 25-jährige Jubiläum des Festivals.",
+     "hu": "Éves jazzfesztivál, amelyet mintegy 17 helyszínen rendeznek meg Ahrenshoop művészfaluban, swing, latin jazz, funk, fúvós zene, blues, boogie woogie és egyéb műfajokkal. A 2026-os kiadás (június 18-21.) a fesztivál 25. évfordulóját ünnepli.",
+     "ro": "Festival anual de jazz organizat în aproximativ 17 locații din satul de artiști Ahrenshoop, prezentând swing, jazz latino, funk, fanfară, blues, boogie woogie și altele. Ediția 2026 (18-21 iunie) marchează 25 de ani de festival.",
+     "en": "Annual jazz festival staged across roughly 17 venues throughout the artists' village of Ahrenshoop, presenting swing, Latin jazz, funk, brass, blues, boogie woogie and more. The 2026 edition (June 18-21) marks 25 years of the festival."
+    },
     "source_url": "https://ostseebad-ahrenshoop.de/veranstaltungen/jazzfest",
     "image_url": ""
    },
    {
-    "name": "Kunstnacht Ahrenshoop (Art Night)",
+    "name": {
+     "de": "Kunstnacht Ahrenshoop (Art Night)",
+     "hu": "Kunstnacht Ahrenshoop (Art Night)",
+     "ro": "Kunstnacht Ahrenshoop (Art Night)",
+     "en": "Kunstnacht Ahrenshoop (Art Night)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually on the third Saturday in August (2026: August 15)",
+    "when": {
+     "de": "jährlich am dritten Samstag im August (2026: 15. August)",
+     "hu": "évente augusztus harmadik szombatján (2026: augusztus 15.)",
+     "ro": "anual în a treia sâmbătă din august (2026: 15 august)",
+     "en": "annually on the third Saturday in August (2026: August 15)"
+    },
     "date": "2026-08-15",
-    "blurb": "On the third Saturday in August, galleries, ceramic workshops and cultural venues across the artists' village open their doors for a night of exhibitions, concerts, readings and performances, with special light installations guiding visitors from house to house.",
+    "blurb": {
+     "de": "Am dritten Samstag im August öffnen Galerien, Keramikwerkstätten und kulturelle Einrichtungen im Künstlerdorf ihre Türen für eine Nacht mit Ausstellungen, Konzerten, Lesungen und Performances, wobei besondere Lichtinstallationen die Besucher von Haus zu Haus führen.",
+     "hu": "Augusztus harmadik szombatján a művészfalu galériái, kerámiaműhelyei és kulturális helyszínei kinyitják kapuikat egy kiállításokkal, koncertekkel, felolvasásokkal és előadásokkal teli éjszakára, különleges fényinstallációk vezetik a látogatókat háztól házig.",
+     "ro": "În a treia sâmbătă din august, galeriile, atelierele de ceramică și locațiile culturale din satul de artiști își deschid porțile pentru o noapte de expoziții, concerte, lecturi și spectacole, cu instalații luminoase speciale care ghidează vizitatorii de la o casă la alta.",
+     "en": "On the third Saturday in August, galleries, ceramic workshops and cultural venues across the artists' village open their doors for a night of exhibitions, concerts, readings and performances, with special light installations guiding visitors from house to house."
+    },
     "source_url": "https://ostseebad-ahrenshoop.de/veranstaltungen/lange-nacht-der-kunst",
     "image_url": ""
    },
    {
-    "name": "Ahrenshooper Filmnächte (Film Nights)",
+    "name": {
+     "de": "Ahrenshooper Filmnächte (Film Nights)",
+     "hu": "Ahrenshooper Filmnächte (Film Nights)",
+     "ro": "Ahrenshooper Filmnächte (Film Nights)",
+     "en": "Ahrenshooper Filmnächte (Film Nights)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in November (2026: November 11-14)",
+    "when": {
+     "de": "jährlich im November (2026: 11.-14. November)",
+     "hu": "évente novemberben (2026: november 11-14.)",
+     "ro": "anual în noiembrie (2026: 11-14 noiembrie)",
+     "en": "annually in November (2026: November 11-14)"
+    },
     "date": "2026-11-11",
-    "blurb": "Annual German film festival hosted in Ahrenshoop, with a competition program of German feature films (some screened before their official cinema release) and jury and audience prizes. The 2026 edition runs November 11-14.",
+    "blurb": {
+     "de": "Jährliches deutsches Filmfestival in Ahrenshoop mit einem Wettbewerbsprogramm deutscher Spielfilme (einige vor ihrem offiziellen Kinostart) sowie Jury- und Publikumspreisen. Die Ausgabe 2026 läuft vom 11. bis 14. November.",
+     "hu": "Éves német filmfesztivál Ahrenshoopban, versenyprogrammal, amely német játékfilmeket vonultat fel (néhányat a hivatalos mozibemutató előtt vetítenek), valamint zsűri- és közönségdíjakkal. A 2026-os kiadás november 11-14. között zajlik.",
+     "ro": "Festival anual de film german găzduit în Ahrenshoop, cu un program competițional de filme germane de lungmetraj (unele proiectate înainte de lansarea oficială în cinematografe) și premii ale juriului și ale publicului. Ediția 2026 se desfășoară între 11 și 14 noiembrie.",
+     "en": "Annual German film festival hosted in Ahrenshoop, with a competition program of German feature films (some screened before their official cinema release) and jury and audience prizes. The 2026 edition runs November 11-14."
+    },
     "source_url": "https://ostseebad-ahrenshoop.de/veranstaltungen/filmnaechte-ahrenshoop-2025",
     "image_url": ""
    }
@@ -99,24 +219,1647 @@
   "country": "Germany",
   "events": [
    {
-    "name": "Strand- und Hafenfest Mönkebude",
+    "name": {
+     "de": "Strand- und Hafenfest Mönkebude",
+     "hu": "Strand- und Hafenfest Mönkebude",
+     "ro": "Strand- und Hafenfest Mönkebude",
+     "en": "Strand- und Hafenfest Mönkebude"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually first weekend of July",
+    "when": {
+     "de": "jährlich am ersten Juli-Wochenende",
+     "hu": "évente július első hétvégéjén",
+     "ro": "în fiecare an, în primul weekend din iulie",
+     "en": "annually first weekend of July"
+    },
     "date": "",
-    "blurb": "Traditional beach and harbour festival held on Mönkebude's beach at the Stettiner Haff since 1978, featuring the ceremonial arrival of the festival ship 'Greif von Ueckermünde', a family programme, food and drink stalls, and a fireworks display over the beach. It is a three-day event for the whole family.",
+    "blurb": {
+     "de": "Traditionelles Strand- und Hafenfest auf dem Strand von Mönkebude am Stettiner Haff seit 1978, mit der feierlichen Ankunft des Festtagsschiffs ‚Greif von Ueckermünde‘, einem Familienprogramm, Speisen- und Getränkeständen sowie einem Feuerwerk über dem Strand. Es ist ein dreitägiges Fest für die ganze Familie.",
+     "hu": "Hagyományos strand- és kikötői fesztivál Mönkebude strandján a Stettiner Haffnál 1978 óta, a ‚Greif von Ueckermünde‘ ünnepi hajó ceremoniális érkezésével, családi programmal, étel- és italstandokkal, valamint tűzijátékkal a strand felett. Ez egy háromnapos rendezvény az egész család számára.",
+     "ro": "Festival tradițional de plajă și port, desfășurat pe plaja din Mönkebude, la Stettiner Haff, din 1978, cu sosirea ceremonială a navei festive ‚Greif von Ueckermünde‘, un program pentru familie, standuri cu mâncare și băuturi și un foc de artificii deasupra plajei. Este un eveniment de trei zile pentru întreaga familie.",
+     "en": "Traditional beach and harbour festival held on Mönkebude's beach at the Stettiner Haff since 1978, featuring the ceremonial arrival of the festival ship 'Greif von Ueckermünde', a family programme, food and drink stalls, and a fireworks display over the beach. It is a three-day event for the whole family."
+    },
     "source_url": "https://www.moenkebude.de/erleben/veranstaltungskalender/",
     "image_url": ""
    },
    {
-    "name": "Mönkebuder Deichlauf",
+    "name": {
+     "de": "Mönkebuder Deichlauf",
+     "hu": "Mönkebuder Deichlauf",
+     "ro": "Mönkebuder Deichlauf",
+     "en": "Mönkebuder Deichlauf"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "annually on the Saturday of the Strand- und Hafenfest (early July)",
+    "when": {
+     "de": "jährlich am Samstag des Strand- und Hafenfests (Anfang Juli)",
+     "hu": "évente a Strand- und Hafenfest szombatján (július elején)",
+     "ro": "în fiecare an, în sâmbăta Strand- und Hafenfest (începutul lunii iulie)",
+     "en": "annually on the Saturday of the Strand- und Hafenfest (early July)"
+    },
     "date": "",
-    "blurb": "Annual running event held during the Strand- und Hafenfest along the dike at the Stettiner Haff in Mönkebude, with routes of 2, 6 and 12 kilometres. The race typically starts on Saturday morning.",
+    "blurb": {
+     "de": "Jährlicher Laufwettbewerb während des Strand- und Hafenfests entlang des Deichs am Stettiner Haff in Mönkebude, mit Strecken von 2, 6 und 12 Kilometern. Der Lauf beginnt in der Regel am Samstagmorgen.",
+     "hu": "Éves futóverseny a Strand- und Hafenfest idején a Stettiner Haff gátja mentén Mönkebudében, 2, 6 és 12 kilométeres távokkal. A futás általában szombat reggel kezdődik.",
+     "ro": "Competiție anuală de alergare desfășurată în timpul Strand- und Hafenfest, de-a lungul digului de la Stettiner Haff din Mönkebude, cu trasee de 2, 6 și 12 kilometri. Cursa începe de obicei sâmbătă dimineața.",
+     "en": "Annual running event held during the Strand- und Hafenfest along the dike at the Stettiner Haff in Mönkebude, with routes of 2, 6 and 12 kilometres. The race typically starts on Saturday morning."
+    },
     "source_url": "https://www.runme.de/deutschland/moenkebuder-deichlauf/",
     "image_url": ""
+   }
+  ]
+ },
+ "beach-of-hooksiel": {
+  "beach": "Beach Of Hooksiel",
+  "town": "Hooksiel (Wangerland)",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Hooksieler Krabbentage",
+     "hu": "Hooksieler Krabbentage",
+     "ro": "Hooksieler Krabbentage",
+     "en": "Hooksieler Krabbentage"
+    },
+    "type": "food",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juli/Anfang August (2026: 31. Juli – 2. August)",
+     "hu": "évente július végén/augusztus elején (2026: július 31. – augusztus 2.)",
+     "ro": "anual la sfârșitul lunii iulie/începutul lunii august (2026: 31 iulie – 2 august)",
+     "en": "annually late July / early August (2026: 31 Jul - 2 Aug)"
+    },
+    "date": "2026-07-31",
+    "blurb": {
+     "de": "Dorf- und Hafenfest am historischen Alten Hafen von Hooksiel mit einer kulinarischen Meile rund um lokal gefangene Nordseegarnelen. Freier Eintritt.",
+     "hu": "Falu- és kikötői fesztivál Hooksiel történelmi ókikötőjében, gasztronómiai sétánnyal, amely a helyben fogott északi-tengeri garnélára épül. Ingyenes belépés.",
+     "ro": "Festival sătesc și portuar la portul istoric vechi din Hooksiel, cu o stradă culinară centrată pe creveții din Marea Nordului prinși local. Intrare liberă.",
+     "en": "Village and harbour festival at the historic old harbour of Hooksiel with a culinary mile centred on locally caught North Sea shrimp. Free admission."
+    },
+    "source_url": "https://www.hooksieler-krabbentage.de/veranstaltungen/"
+   },
+   {
+    "name": {
+     "de": "Watt'n Country Festival",
+     "hu": "Watt'n Country Festival",
+     "ro": "Watt'n Country Festival",
+     "en": "Watt'n Country Festival"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Anfang September 2026 in Hooksiel",
+     "hu": "évente 2026 szeptember elején Hooksielben",
+     "ro": "anual la începutul lunii septembrie 2026 în Hooksiel",
+     "en": "annually in early September 2026 in Hooksiel"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Country-Musikfestival in Hooksiel nahe der Nordseeküste mit Live-Bands und einem Western-Thema. Der Vorverkauf für 2026 läuft von Dezember 2025 bis August 2026.",
+     "hu": "Country zenei fesztivál Hooksielben, az Északi-tenger partja közelében, élő zenekarokkal és western tematikával. A 2026-os jegyek elővételi értékesítése 2025 decemberétől 2026 augusztusáig tart.",
+     "ro": "Festival de muzică country în Hooksiel, lângă coasta Mării Nordului, cu trupe live și o tematică western. Prevânzarea biletelor pentru 2026 se desfășoară din decembrie 2025 până în august 2026.",
+     "en": "Country music festival held in Hooksiel near the North Sea coast, with live bands and a western-themed setting. Ticket pre-sale for 2026 runs from December 2025 to August 2026."
+    },
+    "source_url": "https://countryfestival.info/"
+   },
+   {
+    "name": {
+     "de": "Hooksieler Renntage",
+     "hu": "Hooksieler Renntage",
+     "ro": "Hooksieler Renntage",
+     "en": "Hooksieler Renntage"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juli (2026: ab 29. Juli)",
+     "hu": "évente július végén (2026: július 29-től)",
+     "ro": "anual la sfârșitul lunii iulie (2026: de la 29 iulie)",
+     "en": "annually late July (2026: from 29 Jul)"
+    },
+    "date": "2026-07-29",
+    "blurb": {
+     "de": "Pferderenntage auf der Jaderennbahn in Hooksiel. Tickets werden über Eventim verkauft.",
+     "hu": "Lóversenynapok a jaderennbahni versenypályán Hooksielben. Jegyek az Eventimen keresztül vásárolhatók.",
+     "ro": "Zile de curse de cai pe hipodromul Jaderennbahn din Hooksiel. Biletele se vând prin Eventim.",
+     "en": "Horse racing days at the Jaderennbahn race track in Hooksiel. Tickets are sold via Eventim."
+    },
+    "source_url": "https://www.eventim.de/en/event/hooksieler-renntage-2026-jaderennbahn-hooksiel-20966568/"
+   },
+   {
+    "name": {
+     "de": "Veranstaltungen in Hooksiel (Wangerland event calendar)",
+     "hu": "Veranstaltungen in Hooksiel (Wangerland event calendar)",
+     "ro": "Veranstaltungen in Hooksiel (Wangerland event calendar)",
+     "en": "Veranstaltungen in Hooksiel (Wangerland event calendar)"
+    },
+    "type": "other",
+    "recurring": true,
+    "when": {
+     "de": "während der gesamten Saison 2026",
+     "hu": "a 2026-os szezon során",
+     "ro": "pe tot parcursul sezonului 2026",
+     "en": "throughout the 2026 season"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Offizieller Veranstaltungskalender der Wangerland Touristik mit dem saisonalen Programm aus Festen, Märkten und Strandkonzerten in Hooksiel und den umliegenden Nordseebädern.",
+     "hu": "A Wangerland Touristik hivatalos eseménynaptára, amely a hooksieli és a környező északi-tengeri üdülőhelyek szezonális programját tartalmazza fesztiválokkal, piacokkal és strandi koncertekkel.",
+     "ro": "Calendarul oficial de evenimente al turismului Wangerland, care listează programul sezonier de festivaluri, târguri și concerte pe plajă din Hooksiel și stațiunile învecinate de la Marea Nordului.",
+     "en": "Official Wangerland tourism event calendar listing the seasonal programme of festivals, markets and beach concerts in Hooksiel and the surrounding North Sea resorts."
+    },
+    "source_url": "https://www.ostfriesland.travel/orte/landkreis-friesland/wangerland/hooksiel/veranstaltungen-in-hooksiel"
+   }
+  ]
+ },
+ "beach-of-ueckermunde": {
+  "beach": "Beach Of Ueckermunde",
+  "town": "Ueckermünde",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Ueckermünder Haff-Sail",
+     "hu": "Ueckermünder Haff-Sail",
+     "ro": "Ueckermünder Haff-Sail",
+     "en": "Ueckermünder Haff-Sail"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Anfang Juni; 05.06.2026 bis 07.06.2026",
+     "hu": "évente június elején; 2026.06.05–2026.06.07",
+     "ro": "anual la începutul lunii iunie; 05.06.2026 până la 07.06.2026",
+     "en": "annually early June; 2026-06-05 to 2026-06-07"
+    },
+    "date": "2026-06-05",
+    "blurb": {
+     "de": "Dreitägige Segelveranstaltung auf dem Stettiner Haff am Ueckermünder Hafen, mit einer Segelregatta und einem Drachenbootrennen, begleitet von Livemusik und Familienaktivitäten. Die 20. Ausgabe ist für den 5. bis 7. Juni 2026 geplant.",
+     "hu": "Háromnapos vitorlás esemény a Stettiner Haff-on, Ueckermünde kikötőjében, vitorlásregattával és sárkányhajóversennyel, élőzenével és családi programokkal. A 20. kiadás 2026. június 5–7-re van tervezve.",
+     "ro": "Eveniment de navigație de trei zile pe Stettiner Haff, la portul Ueckermünde, incluzând o regată de navigație și o cursă de bărci-dragon, alături de muzică live și activități pentru familie. Ediția a 20-a este programată pentru 5–7 iunie 2026.",
+     "en": "Three-day sailing event on the Stettiner Haff at Ueckermünde harbour, including a sailing regatta and a dragon boat race, alongside live music and family activities. The 20th edition is scheduled for 5-7 June 2026."
+    },
+    "source_url": "https://www.ueckermuende.de/regional/veranstaltungen/detail-900001379-34850.html"
+   },
+   {
+    "name": {
+     "de": "Ueckermünder Hafftage",
+     "hu": "Ueckermünder Hafftage",
+     "ro": "Ueckermünder Hafftage",
+     "en": "Ueckermünder Hafftage"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am vierten Juli-Wochenende; 25.07.2026 bis 27.07.2026",
+     "hu": "évente július negyedik hétvégéjén; 2026.07.25–2026.07.27",
+     "ro": "anual în al patrulea weekend din iulie; 25.07.2026 până la 27.07.2026",
+     "en": "annually fourth weekend of July; 2026-07-25 to 2026-07-27"
+    },
+    "date": "2026-07-25",
+    "blurb": {
+     "de": "Das größte Volksfest der Region, rund um den Ueckerpark und den Stadthafen. Die 60. Ausgabe findet vom 25. bis 27. Juli 2026 statt.",
+     "hu": "A régió legnagyobb népünnepélye, középpontjában az Ueckerpark és a városi kikötő. A 60. kiadás 2026. július 25–27-ig tart.",
+     "ro": "Cel mai mare festival popular al regiunii, centrat pe Ueckerpark și portul orașului. Ediția a 60-a se desfășoară între 25 și 27 iulie 2026.",
+     "en": "The largest folk festival of the region, centred on the Ueckerpark and city harbour. The 60th edition runs from 25 to 27 July 2026."
+    },
+    "source_url": "https://www.ueckermuende.de/regional/veranstaltungen/detail-900001380-34850.html"
+   },
+   {
+    "name": {
+     "de": "N10s Live am Strand",
+     "hu": "N10s Live am Strand",
+     "ro": "N10s Live am Strand",
+     "en": "N10s Live am Strand"
+    },
+    "type": "music",
+    "recurring": false,
+    "when": {
+     "de": "23.07.2026",
+     "hu": "2026.07.23",
+     "ro": "23.07.2026",
+     "en": "2026-07-23"
+    },
+    "date": "2026-07-23",
+    "blurb": {
+     "de": "Open-Air-Strandkonzert am Strandbad in Ueckermünde mit Livemusik und elektronischen Beats, Beginn um 19:00 Uhr am 23. Juli 2026.",
+     "hu": "Szabadtéri strandkoncert az Ueckermünde-i Strandbadban, élőzenével és elektronikus ütemekkel, kezdés 19:00-kor 2026. július 23-án.",
+     "ro": "Concert de plajă în aer liber la Strandbad din Ueckermünde, cu muzică live și ritmuri electronice, începând la ora 19:00 pe 23 iulie 2026.",
+     "en": "Open-air beach concert at the Strandbad in Ueckermünde with live music and electronic beats, starting at 19:00 on 23 July 2026."
+    },
+    "source_url": "https://www.ostsee.de/ueckermuende/veranstaltungen.php"
+   },
+   {
+    "name": {
+     "de": "Strandfest Ueckermünde",
+     "hu": "Strandfest Ueckermünde",
+     "ro": "Strandfest Ueckermünde",
+     "en": "Strandfest Ueckermünde"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich, Oktober 2026 (genaues Datum wird noch bestätigt)",
+     "hu": "évente, 2026. október (pontos dátum még megerősítésre vár)",
+     "ro": "anual, octombrie 2026 (data exactă urmează a fi confirmată)",
+     "en": "annually, October 2026 (exact date to be confirmed)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Strandfest am Ueckermünder Strand, von der Stadt als eines ihrer wichtigsten jährlichen Ereignisse gelistet. Die Ausgabe 2026 ist für Oktober geplant, das genaue Datum steht noch offen.",
+     "hu": "Strandfesztivál az Ueckermünde-i strand területén, a város által a fő éves események között felsorolva. A 2026-os kiadás októberre tervezett, a pontos dátum még nyitott.",
+     "ro": "Festival de plajă desfășurat pe zona de plajă din Ueckermünde, listat de oraș printre evenimentele sale anuale majore. Ediția 2026 este planificată pentru octombrie, data exactă rămânând deschisă.",
+     "en": "Beach festival held at the Ueckermünde beach area, listed by the town among its major annual events. The 2026 edition is planned for October with the exact date still open."
+    },
+    "source_url": "https://www.ostsee.de/ueckermuende/veranstaltungen.php"
+   },
+   {
+    "name": {
+     "de": "Musiksommer auf dem Markt",
+     "hu": "Musiksommer auf dem Markt",
+     "ro": "Musiksommer auf dem Markt",
+     "en": "Musiksommer auf dem Markt"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Sommer, dienstagsabends; Saison 2026 vom 2. Juni bis 1. September",
+     "hu": "évente nyáron, kedd esténként; 2026-os szezon június 2-től szeptember 1-ig",
+     "ro": "anual vara, în serile de marți; sezonul 2026 de la 2 iunie până la 1 septembrie",
+     "en": "annually summer, Tuesday evenings; 2026 season 2 June to 1 September"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Kostenlose Live-Musik-Reihe an Dienstagabenden auf dem Marktplatz in Ueckermünde während der Sommersaison, mit Rock-, Country- und Akustik-Acts. Die Reihe 2026 läuft von Juni bis Anfang September, 18:30 bis 21:30 Uhr.",
+     "hu": "Ingyenes élőzene-sorozat kedd esténként az Ueckermünde-i Marktplatzon a nyári szezonban, rock-, country- és akusztikus fellépőkkel. A 2026-os sorozat júniustól szeptember elejéig tart, 18:30-tól 21:30-ig.",
+     "ro": "Serie de concerte live gratuite în serile de marți pe Marktplatz din Ueckermünde în timpul sezonului de vară, cu trupe rock, country și acustice. Seria 2026 se desfășoară din iunie până la începutul lunii septembrie, între 18:30 și 21:30.",
+     "en": "Free live-music series held on Tuesday evenings on the Marktplatz in Ueckermünde during the summer season, featuring rock, country and acoustic acts. The 2026 series runs from June to early September, 18:30 to 21:30."
+    },
+    "source_url": "https://www.ostsee.de/ueckermuende/veranstaltungen.php"
+   },
+   {
+    "name": {
+     "de": "Musik & Stille",
+     "hu": "Musik & Stille",
+     "ro": "Musik & Stille",
+     "en": "Musik & Stille"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im August, am Bellini Beach (Ueckermünde-Bellin)",
+     "hu": "évente augusztusban, a Bellini Beach-en (Ueckermünde-Bellin)",
+     "ro": "anual în august, la Bellini Beach (Ueckermünde-Bellin)",
+     "en": "annually August, at Bellini Beach (Ueckermünde-Bellin)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Festival am Bellini Beach bei Ueckermünde, das Konzerte mit Yoga, Meditation und ruhigen Programmpunkten verbindet. Es findet jährlich im August statt.",
+     "hu": "Fesztivál a Bellini Beach-en, Ueckermünde közelében, amely koncerteket ötvöz jógával, meditációval és csendes programokkal. Évente augusztusban kerül megrendezésre.",
+     "ro": "Festival la Bellini Beach lângă Ueckermünde, care combină concertele cu yoga, meditație și programe liniștite. Are loc anual în august.",
+     "en": "Festival at Bellini Beach near Ueckermünde combining concerts with yoga, meditation and quiet programming. It is held annually in August."
+    },
+    "source_url": "https://musikundstille.com"
+   }
+  ]
+ },
+ "beach-of-zingst": {
+  "beach": "Beach Of Zingst",
+  "town": "Zingst",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Umweltfotofestival horizonte zingst",
+     "hu": "Umweltfotofestival horizonte zingst",
+     "ro": "Umweltfotofestival horizonte zingst",
+     "en": "Umweltfotofestival horizonte zingst"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "29. Mai bis 7. Juni 2026",
+     "hu": "2026. május 29. – június 7.",
+     "ro": "29 mai – 7 iunie 2026",
+     "en": "2026-05-29 to 2026-06-07"
+    },
+    "date": "2026-05-29",
+    "blurb": {
+     "de": "Jährliches Umwelt- und Naturfotografiefestival in Zingst mit Ausstellungen, darunter großformatige Drucke am Strand, sowie Vorträge und Multivisionsshows. Die 19. Ausgabe 2026 dauert zehn Tage.",
+     "hu": "Éves környezet- és természetfotó-fesztivál Zingstben, kiállításokkal (beleértve a strandon kihelyezett nagyméretű nyomatokat), előadásokkal és multivíziós műsorokkal. A 2026-os kiadás a 19., tíz napig tart.",
+     "ro": "Festival anual de fotografie de mediu și natură desfășurat în Zingst, cu expoziții incluzând printuri de mari dimensiuni expuse pe plajă, plus prelegeri și show-uri multivision. Ediția 2026 este a 19-a, cu durata de zece zile.",
+     "en": "Annual environmental and nature photography festival held in Zingst, with exhibitions including large-format prints displayed on the beach, plus lectures and multivision shows. The 2026 edition is the 19th, running ten days."
+    },
+    "source_url": "https://www.freundeskreisphotographie.de/termine/umweltfotofestival-horizonte-zingst-2026/"
+   },
+   {
+    "name": {
+     "de": "Hafenfest Zingst",
+     "hu": "Hafenfest Zingst",
+     "ro": "Hafenfest Zingst",
+     "en": "Hafenfest Zingst"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "19. bis 21. Juni 2026",
+     "hu": "2026. június 19–21.",
+     "ro": "19 – 21 iunie 2026",
+     "en": "2026-06-19 to 2026-06-21"
+    },
+    "date": "2026-06-19",
+    "blurb": {
+     "de": "Maritimes Hafenfest jedes Jahr im Juni am Zingster Hafen mit dem feierlichen Start der Zeesboot-Regattasaison, traditionellen braunbesegelten Booten, Marktständen, Livemusik und regionaler Küche.",
+     "hu": "Minden júniusban megrendezett tengeri kikötői fesztivál a zingsti kikötőben, a Zeesboot-regattaszezon ünnepélyes megnyitójával, hagyományos barna vitorlás hajókkal, piaci standokkal, élőzenével és regionális ételekkel.",
+     "ro": "Festival maritim portuar organizat în fiecare iunie la portul Zingst, marcând startul ceremonial al sezonului de regată Zeesboot cu bărci tradiționale cu pânze maro, tarabe cu produse, muzică live și mâncare regională.",
+     "en": "Maritime harbour festival held every June at the Zingst harbour, marking the ceremonial start of the Zeesboot regatta season with traditional brown-sailed boats, market stalls, live music and regional food."
+    },
+    "source_url": "https://www.zingst.de/hafenfest-zingst"
+   },
+   {
+    "name": {
+     "de": "Max Giesinger Open Air",
+     "hu": "Max Giesinger Open Air",
+     "ro": "Max Giesinger Open Air",
+     "en": "Max Giesinger Open Air"
+    },
+    "type": "music",
+    "recurring": false,
+    "when": {
+     "de": "25. Juli 2026",
+     "hu": "2026. július 25.",
+     "ro": "25 iulie 2026",
+     "en": "2026-07-25"
+    },
+    "date": "2026-07-25",
+    "blurb": {
+     "de": "Open-Air-Konzert des deutschen Popmusikers Max Giesinger auf der Festwiese in Zingst am 25. Juli 2026 von 19:00 bis 22:00 Uhr.",
+     "hu": "Max Giesinger német popzenész szabadtéri koncertje a zingsti Festwiese területén 2026. július 25-én, 19:00 és 22:00 között.",
+     "ro": "Concert în aer liber al muzicianului pop german Max Giesinger la Festwiese din Zingst pe 25 iulie 2026, între orele 19:00 și 22:00.",
+     "en": "Open-air concert by German pop musician Max Giesinger at the Festwiese in Zingst on 25 July 2026, from 19:00 to 22:00."
+    },
+    "source_url": "https://www.zingst.de/konzert/max-giesinger-7c0ff4f0"
+   },
+   {
+    "name": {
+     "de": "Zingster Kunstmagistrale (Kunsthandwerkermarkt)",
+     "hu": "Zingster Kunstmagistrale (Kunsthandwerkermarkt)",
+     "ro": "Zingster Kunstmagistrale (Kunsthandwerkermarkt)",
+     "en": "Zingster Kunstmagistrale (Kunsthandwerkermarkt)"
+    },
+    "type": "market",
+    "recurring": true,
+    "when": {
+     "de": "14. bis 16. August 2026",
+     "hu": "2026. augusztus 14–16.",
+     "ro": "14 – 16 august 2026",
+     "en": "2026-08-14 to 2026-08-16"
+    },
+    "date": "2026-08-14",
+    "blurb": {
+     "de": "Open-Air-Kunst- und Kunsthandwerkermarkt entlang der Strandstraße in Zingst zwischen Stadtzentrum und Strandpromenade, wo Kunsthandwerker Glaswaren, Keramik, Schmuck und andere handgefertigte Waren ausstellen und verkaufen. Findet jährlich seit 1994 statt.",
+     "hu": "Szabadtéri művészeti és kézműves piac a zingsti Strandstraße mentén a városközpont és a tengerparti sétány között, ahol kézművesek üvegárukat, kerámiákat, ékszereket és más kézzel készített termékeket állítanak ki és árulnak. Évente megrendezésre kerül 1994 óta.",
+     "ro": "Târg de artă și meșteșuguri în aer liber desfășurat de-a lungul Strandstraße în Zingst, între centrul orașului și promenada plajei, unde meșteșugarii expun și vând obiecte din sticlă, ceramică, bijuterii și alte bunuri lucrate manual. Organizat anual din 1994.",
+     "en": "Open-air arts and crafts market held along Strandstraße in Zingst between the town centre and the beach promenade, where craftspeople display and sell glasswork, ceramics, jewellery and other handmade goods. Held annually since 1994."
+    },
+    "source_url": "https://www.zingst.de/markt/zingster-kunstmagistrale-ecc18bc4"
+   },
+   {
+    "name": {
+     "de": "Zeesbootregatta Zingst",
+     "hu": "Zeesbootregatta Zingst",
+     "ro": "Zeesbootregatta Zingst",
+     "en": "Zeesbootregatta Zingst"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "Jährlich im Juni (eröffnet die Boddenkette-Regattasaison, 2026 etwa 19.–21. Juni)",
+     "hu": "Évente júniusban (megnyitja a Boddenkette-regattaszezont, 2026 körül június 19–21.)",
+     "ro": "Anual în iunie (deschide sezonul de regată Boddenkette, în 2026 în jurul datei de 19–21 iunie)",
+     "en": "annually in June (opens the Boddenkette regatta season, 2026 around 19-21 June)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Traditionelle Segelregatta historischer Zeesboot-Fischerboote vor Zingst auf den Boddengewässern, die die jährliche Regattasaison der Halbinsel Fischland-Darss-Zingst eröffnet. Sie findet im Rahmen des Hafenfest-Wochenendes statt.",
+     "hu": "Történelmi Zeesboot halászhajók hagyományos vitorlás regattája Zingst előtt a Bodden vizein, amely megnyitja a Fischland-Darss-Zingst-félsziget éves regattaszezonját. A Hafenfest hétvégéjének részeként rendezik meg.",
+     "ro": "Regată tradițională cu vele a bărcilor de pescuit istorice Zeesboot în largul Zingstului, pe apele Bodden, deschizând sezonul anual de regată al peninsulei Fischland-Darss-Zingst. Se desfășoară ca parte a weekendului Hafenfest.",
+     "en": "Traditional sailing regatta of historic Zeesboot fishing boats off Zingst on the Bodden waters, opening the annual regatta season of the Fischland-Darss-Zingst peninsula. It is run as part of the Hafenfest weekend."
+    },
+    "source_url": "https://www.ostsee.de/fischland-darss-zingst/zeesbootregatta-zingst.php"
+   }
+  ]
+ },
+ "beaches-of-borkum": {
+  "beach": "Beaches Of Borkum",
+  "town": "Borkum",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Beach Days Borkum",
+     "hu": "Beach Days Borkum",
+     "ro": "Beach Days Borkum",
+     "en": "Beach Days Borkum"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "7. bis 10. August 2026",
+     "hu": "2026. augusztus 7–10.",
+     "ro": "7–10 august 2026",
+     "en": "2026-08-07 to 2026-08-10"
+    },
+    "date": "2026-08-07",
+    "blurb": {
+     "de": "Viertägiges Strandfest am Nordbad von Borkum, das die Beachvolleyball-Serie ROCK the BEACH mit Live-Musik verbindet, darunter ein Open-Air-Konzert von Clueso am 7. August und die Borkum-Ole-Party am 9. August. Der Eintritt für Zuschauer ist frei.",
+     "hu": "Négy napos strandfesztivál Borkum Nordbad strandján, amely a ROCK the BEACH strandröplabda-sorozatot ötvözi élőzenével, beleértve egy Clueso szabadtéri koncertet augusztus 7-én és a Borkum Ole partit augusztus 9-én. A nézők számára a belépés ingyenes.",
+     "ro": "Festival de plajă de patru zile pe plaja Nordbad din Borkum, care combină seria de volei pe plajă ROCK the BEACH cu muzică live, inclusiv un concert în aer liber al lui Clueso pe 7 august și petrecerea Borkum Ole pe 9 august. Intrarea pentru spectatori este gratuită.",
+     "en": "Four-day beach festival at Borkum's Nordbad beach combining the ROCK the BEACH beach volleyball series with live music, including an open-air Clueso concert on 7 August and the Borkum Ole party on 9 August. Spectator admission is free."
+    },
+    "source_url": "https://www.borkum.de/en/aktuelles/beach-days-borkum-2026/"
+   },
+   {
+    "name": {
+     "de": "Kitesurf World Cup Borkum",
+     "hu": "Kitesurf World Cup Borkum",
+     "ro": "Kitesurf World Cup Borkum",
+     "en": "Kitesurf World Cup Borkum"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "3. bis 7. Juni 2026",
+     "hu": "2026. június 3–7.",
+     "ro": "3–7 iunie 2026",
+     "en": "2026-06-03 to 2026-06-07"
+    },
+    "date": "2026-06-03",
+    "blurb": {
+     "de": "Internationaler Kiteboarding-Wettbewerb auf dem Strand von Borkum mit Weltklasse-Athleten über fünf Tage. Das Zuschauen ist kostenlos.",
+     "hu": "Nemzetközi kiteboarding verseny Borkum strandján, világszínvonalú sportolókkal, öt napon át. A nézés ingyenes.",
+     "ro": "Competiție internațională de kiteboarding pe plaja din Borkum, cu sportivi de clasă mondială, pe parcursul a cinci zile. Urmărirea este gratuită.",
+     "en": "International kiteboarding competition held on the beach at Borkum with world-class athletes over five days. Watching is free of charge."
+    },
+    "source_url": "https://genboeckpr.de/pressemitteilung/pressemitteilung-borkum-2026-von-clueso-bis-zum-kitesurf-weltcup-vom-mitsommerzauber-bis-zum-borkum-musical/"
+   },
+   {
+    "name": {
+     "de": "Mitsommerzauber Borkum",
+     "hu": "Mitsommerzauber Borkum",
+     "ro": "Mitsommerzauber Borkum",
+     "en": "Mitsommerzauber Borkum"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "20. Juni 2026",
+     "hu": "2026. június 20.",
+     "ro": "20 iunie 2026",
+     "en": "2026-06-20"
+    },
+    "date": "2026-06-20",
+    "blurb": {
+     "de": "Mittsommerfeier am Meer auf Borkum.",
+     "hu": "Nyárközépi ünnepség a tengerparton Borkumon.",
+     "ro": "Sărbătoare de mijloc de vară pe malul mării, pe Borkum.",
+     "en": "Midsummer celebration held by the sea on Borkum."
+    },
+    "source_url": "https://genboeckpr.de/pressemitteilung/pressemitteilung-borkum-2026-von-clueso-bis-zum-kitesurf-weltcup-vom-mitsommerzauber-bis-zum-borkum-musical/"
+   },
+   {
+    "name": {
+     "de": "EWE-Nordseelauf (Borkum-Etappe)",
+     "hu": "EWE-Nordseelauf (borkumi szakasz)",
+     "ro": "EWE-Nordseelauf (etapa Borkum)",
+     "en": "EWE-Nordseelauf (Borkum stage)"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "20. Juni 2026",
+     "hu": "2026. június 20.",
+     "ro": "20 iunie 2026",
+     "en": "2026-06-20"
+    },
+    "date": "2026-06-20",
+    "blurb": {
+     "de": "Auftaktetappe über 10 Kilometer einer mehrtägigen Laufserie über alle sieben ostfriesischen Inseln, wobei die Strecke auf Borkum durch die Strand- und Dünenlandschaft führt.",
+     "hu": "Egy többnapos futósorozat 10 kilométeres nyitószakasza, amely mind a hét kelet-fríz szigeten átível, a borkumi útvonal a strand- és dűnevidéken halad keresztül.",
+     "ro": "Etapa de deschidere de 10 kilometri a unei serii de alergare pe mai multe zile pe toate cele șapte insule frizone de est, traseul pe Borkum traversând plaja și peisajul de dune.",
+     "en": "Opening 10-kilometre stage of a multi-day running series across all seven East Frisian islands, with the route on Borkum passing through its beach and dune landscape."
+    },
+    "source_url": "https://nordseelauf.com/"
+   },
+   {
+    "name": {
+     "de": "Borkumer Jazztage",
+     "hu": "Borkumer Jazztage",
+     "ro": "Borkumer Jazztage",
+     "en": "Borkumer Jazztage"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich zu Pfingsten, Ende Mai",
+     "hu": "évente pünkösdkor, május végén",
+     "ro": "anual la Rusalii (Pfingsten), la sfârșitul lunii mai",
+     "en": "annually at Pentecost (Pfingsten), late May"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Jährliches Jazzfestival über vier Tage mit Auftritten von der Strandpromenade bis zum Großen Saal der Kulturinsel.",
+     "hu": "Éves jazzfesztivál négy napon át, fellépésekkel a strand sétánytól a Kulturinsel nagyterméig.",
+     "ro": "Festival anual de jazz pe parcursul a patru zile, cu spectacole de pe promenada plajei până în Sala Mare a Kulturinsel.",
+     "en": "Annual jazz festival spanning four days, with performances from the beach promenade to the Grand Hall of the Kulturinsel."
+    },
+    "source_url": "https://www.borkum-unterkuenfte.de/Veranstaltungen-Borkum/Borkumer-Jazztage.htm"
+   },
+   {
+    "name": {
+     "de": "Borkumer Weinfest",
+     "hu": "Borkumer Weinfest",
+     "ro": "Borkumer Weinfest",
+     "en": "Borkumer Weinfest"
+    },
+    "type": "food",
+    "recurring": true,
+    "when": {
+     "de": "15. bis 20. April 2026",
+     "hu": "2026. április 15–20.",
+     "ro": "15–20 aprilie 2026",
+     "en": "2026-04-15 to 2026-04-20"
+    },
+    "date": "2026-04-15",
+    "blurb": {
+     "de": "Weinfest mit handverlesenen Winzern aus mehreren deutschen Weinanbaugebieten.",
+     "hu": "Borünnep kézzel válogatott borászokkal több német borvidékről.",
+     "ro": "Festival al vinului cu vinificatori selectați manual din mai multe regiuni viticole germane.",
+     "en": "Wine festival featuring hand-picked winemakers from several German wine-growing regions."
+    },
+    "source_url": "https://www.borkum.de/veranstaltung/www-borkumer-weinfest-de/2026-04-17/"
+   },
+   {
+    "name": {
+     "de": "Borkumer Meilenlauf",
+     "hu": "Borkumer Meilenlauf",
+     "ro": "Borkumer Meilenlauf",
+     "en": "Borkumer Meilenlauf"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "5. September 2026",
+     "hu": "2026. szeptember 5.",
+     "ro": "5 septembrie 2026",
+     "en": "2026-09-05"
+    },
+    "date": "2026-09-05",
+    "blurb": {
+     "de": "Lokaler Laufwettbewerb mit Nordic Walking, die 20. Auflage, mit abwechslungsreichen Strecken über die Insel.",
+     "hu": "Helyi futóverseny nordic walkinggal, a 20. kiadás, változatos útvonalakkal a szigeten.",
+     "ro": "Cursă locală de alergare cu Nordic walking, ediția a 20-a, cu trasee variate pe insulă.",
+     "en": "Local running race with Nordic walking, the 20th edition, featuring varied routes across the island."
+    },
+    "source_url": "https://www.borkumer-meilenlauf.de/"
+   },
+   {
+    "name": {
+     "de": "Lücht up Börkum (Borkumer Lichtwoche)",
+     "hu": "Lücht up Börkum (Borkumer Lichtwoche)",
+     "ro": "Lücht up Börkum (Borkumer Lichtwoche)",
+     "en": "Lücht up Börkum (Borkumer Lichtwoche)"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "12. bis 17. Oktober 2026",
+     "hu": "2026. október 12–17.",
+     "ro": "12–17 octombrie 2026",
+     "en": "2026-10-12 to 2026-10-17"
+    },
+    "date": "2026-10-12",
+    "blurb": {
+     "de": "Lichtwoche, in der verschiedene Wahrzeichen der Insel abends beleuchtet werden.",
+     "hu": "Fényhét, amely alatt a sziget különböző nevezetességeit esténként kivilágítják.",
+     "ro": "Săptămâna luminii, în care diverse puncte de reper de pe insulă sunt iluminate seara.",
+     "en": "Light week during which various landmarks across the island are illuminated in the evenings."
+    },
+    "source_url": "https://genboeckpr.de/pressemitteilung/pressemitteilung-borkum-2026-von-clueso-bis-zum-kitesurf-weltcup-vom-mitsommerzauber-bis-zum-borkum-musical/"
+   }
+  ]
+ },
+ "beaches-of-juist": {
+  "beach": "Beaches Of Juist",
+  "town": "Juist",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Juistival",
+     "hu": "Juistival",
+     "ro": "Juistival",
+     "en": "Juistival"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "14. bis 16. Mai 2026",
+     "hu": "2026. május 14–16.",
+     "ro": "14–16 mai 2026",
+     "en": "2026-05-14 to 2026-05-16"
+    },
+    "date": "2026-05-16",
+    "blurb": {
+     "de": "Open-Air-Musik-, Kunst- und Kulturfestival auf Juist mit Hauptbühne am Kurplatz sowie weiteren Auftritten an der Strandbar und anderen Inselorten. Die Ausgabe 2026 findet vom 14. bis 16. Mai statt und ist kostenfrei zugänglich.",
+     "hu": "Szabadtéri zenei, művészeti és kulturális fesztivál Juiston, a fő színpaddal a Kurplatzon, további fellépőkkel a strandbárban és más szigeti helyszíneken. A 2026-os kiadás május 14–16. között zajlik, és ingyenesen látogatható.",
+     "ro": "Festival de muzică, artă și cultură în aer liber pe Juist, cu scena principală la Kurplatz și alte spectacole la barul de plajă și în alte locații de pe insulă. Ediția 2026 are loc între 14 și 16 mai și este gratuită.",
+     "en": "Open-air music, art and culture festival on Juist with the main stage at the Kurplatz and further acts at the beach bar and other island venues. The 2026 edition runs from 14 to 16 May and is free to attend."
+    },
+    "source_url": "https://juistival.de/"
+   },
+   {
+    "name": {
+     "de": "Maizeit",
+     "hu": "Maizeit",
+     "ro": "Maizeit",
+     "en": "Maizeit"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Mai",
+     "hu": "évente májusban",
+     "ro": "anual în luna mai",
+     "en": "annually in May"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Eine Reihe kostenfreier Open-Air-Konzerte auf dem Kurplatz von Juist jeweils im Mai, mit Programmen von Pop bis Volksmusik. Organisiert vom Inseltourismusdienst.",
+     "hu": "Ingyenes szabadtéri koncertek sorozata a juisti Kurplatzon minden májusban, a programok a popzenétől a hagyományos zenéig terjednek. A szigeti turisztikai szolgálat szervezi.",
+     "ro": "O serie de concerte gratuite în aer liber pe Kurplatz din Juist în fiecare lună mai, cu programe variind de la pop la muzică tradițională. Este organizat de serviciul de turism al insulei.",
+     "en": "A series of free open-air concerts held on the Kurplatz of Juist each May, with programmes ranging from pop to traditional music. It is organised by the island's tourism service."
+    },
+    "source_url": "https://www.juist.de/auf-der-insel/veranstaltungen/highlights/maizeit"
+   },
+   {
+    "name": {
+     "de": "EWE Nordseelauf (Juist-Etappe)",
+     "hu": "EWE Nordseelauf (juisti szakasz)",
+     "ro": "EWE Nordseelauf (etapa Juist)",
+     "en": "EWE Nordseelauf (Juist stage)"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Juni; Juist-Etappe vom 20. bis 27. Juni 2026",
+     "hu": "évente júniusban; juisti szakasz 2026. június 20–27.",
+     "ro": "anual în iunie; etapa Juist între 20–27 iunie 2026",
+     "en": "annually in June; Juist stage during 20-27 June 2026"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein achttägiger Etappenlauf über alle sieben ostfriesischen Inseln, einschließlich einer Etappe auf Juist, der vom 20. bis 27. Juni 2026 stattfindet. Die Ausgabe 2026 markiert das 25-jährige Jubiläum des Laufs und war ausgebucht.",
+     "hu": "Nyolcnapos szakaszfutás mind a hét kelet-fríz szigeten, beleértve egy juisti szakaszt, amely 2026. június 20. és 27. között zajlik. A 2026-os kiadás a futás 25. évfordulóját jelzi, és teljesen betelt.",
+     "ro": "Un eveniment de alergare pe etape de opt zile pe toate cele șapte insule frizone de est, inclusiv o etapă pe Juist, care are loc între 20 și 27 iunie 2026. Ediția 2026 marchează a 25-a aniversare a cursei și a fost complet rezervată.",
+     "en": "An eight-day stage running event across all seven East Frisian islands, including a stage on Juist, taking place between 20 and 27 June 2026. The 2026 edition marks the run's 25th anniversary and was fully booked."
+    },
+    "source_url": "https://nordseelauf.com/"
+   },
+   {
+    "name": {
+     "de": "Toewerland Insellauf",
+     "hu": "Toewerland Insellauf",
+     "ro": "Toewerland Insellauf",
+     "en": "Toewerland Insellauf"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "16. Juli, 16. August und 3. September 2026",
+     "hu": "2026. július 16., augusztus 16. és szeptember 3.",
+     "ro": "16 iulie, 16 august și 3 septembrie 2026",
+     "en": "16 July, 16 August and 3 September 2026"
+    },
+    "date": "2026-07-16",
+    "blurb": {
+     "de": "Ein wiederkehrender Laufwettbewerb auf dem autofreien Juist mit einer Strecke, die am Kurplatz startet, entlang des Deichs zum Hafen führt und über die Strandpromenade zurückkehrt. Die Distanzen reichen von 400 m für Kleinkinder bis zu 8,4 km für Erwachsene.",
+     "hu": "Ismétlődő futóverseny az autómentes Juiston, a Kurplatztól induló, a gáton át a kikötőig vezető, majd a tengerparti sétányon visszatérő pályával. A távok 400 métertől (kisgyermekek) 8,4 km-ig (felnőttek) terjednek.",
+     "ro": "O competiție de alergare recurentă pe insula Juist, fără mașini, cu un traseu care pornește de la Kurplatz, merge spre port de-a lungul digului și se întoarce pe promenada de pe plajă. Distanțele variază de la 400 m pentru copii mici până la 8,4 km pentru adulți.",
+     "en": "A recurring running competition on car-free Juist with a course starting at the Kurplatz, running to the harbour along the dike and returning via the beach promenade. Distances range from 400 m for small children up to 8.4 km for adults."
+    },
+    "source_url": "https://www.juist.de/erleben/veranstaltung/detail/toewerland-insellauf"
+   },
+   {
+    "name": {
+     "de": "Juister Triathlon",
+     "hu": "Juister Triathlon",
+     "ro": "Juister Triathlon",
+     "en": "Juister Triathlon"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Sommer",
+     "hu": "évente nyáron",
+     "ro": "anual vara",
+     "en": "annually in summer"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Insel-Triathlon mit Schwimmen im neuen Hafen, Radfahren quer über die Insel und Laufen durch die Dünentäler und entlang der Promenadenwege. Einzel- und Teamstarts sind möglich.",
+     "hu": "Szigeti triatlon úszással az új kikötőben, kerékpározással a szigeten keresztül és futással a dűnék völgyein és a sétányok mentén. Egyéni és csapatnevezések is lehetségesek.",
+     "ro": "Un triatlon pe insulă, cu înot în portul nou, ciclism pe toată insula și alergare prin văile dunelor și de-a lungul potecilor de promenadă. Sunt posibile înscrieri individuale și pe echipe.",
+     "en": "An island triathlon with swimming in the new harbour, cycling across the island and running through the dune valleys and along the promenade paths. Individual and team entries are possible."
+    },
+    "source_url": "https://www.juist.de/vor-ort/aktiv/wettkaempfe/"
+   }
+  ]
+ },
+ "beaches-of-norderney": {
+  "beach": "Beaches Of Norderney",
+  "town": "Norderney",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "White Sands Festival",
+     "hu": "White Sands Festival",
+     "ro": "White Sands Festival",
+     "en": "White Sands Festival"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich zu Pfingsten, 22.-24. Mai 2026",
+     "hu": "évente pünkösdkor, 2026. május 22-24.",
+     "ro": "anual de Rusalii, 22-24 mai 2026",
+     "en": "annually at Whitsun, 22-24 May 2026"
+    },
+    "date": "2026-05-22",
+    "blurb": {
+     "de": "Beachvolleyball-Turnier und DJ-Sets am Pfingstwochenende am Norderneyer Nordstrand. Der Urlaubsguru Beach Cup bringt deutsche Beachvolleyball-Teams zusammen, die um Preisgelder kämpfen.",
+     "hu": "Strandröplabda-torna és DJ-szett a pünkösdi hétvégén Norderney Nordstrandján. Az Urlaubsguru Beach Cup német strandröplabda-csapatokat vonultat fel, akik pénzdíjakért versenyeznek.",
+     "ro": "Turneu de volei pe plajă și seturi DJ în weekendul Rusaliilor pe Nordstrand din Norderney. Urlaubsguru Beach Cup reunește echipe germane de volei pe plajă care concurează pentru premii în bani.",
+     "en": "Beach volleyball tournament and DJ sets held over the Whitsun weekend on Norderney's Nordstrand. The Urlaubsguru Beach Cup features German beach volleyball teams competing for prize money."
+    },
+    "source_url": "https://www.whitesandsfestival.de/"
+   },
+   {
+    "name": {
+     "de": "Summertime@NORDERNEY",
+     "hu": "Summertime@NORDERNEY",
+     "ro": "Summertime@NORDERNEY",
+     "en": "Summertime@NORDERNEY"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juli bis Anfang August, 29. Juli - 2. August 2026",
+     "hu": "évente július végétől augusztus elejéig, 2026. július 29. - augusztus 2.",
+     "ro": "anual de la sfârșitul lui iulie până la începutul lui august, 29 iulie - 2 august 2026",
+     "en": "annually late July to early August, 29 July - 2 August 2026"
+    },
+    "date": "2026-07-29",
+    "blurb": {
+     "de": "Open-Air-Konzertreihe am Nordstrand. Das Line-up 2026 umfasst Robin Schulz, ClockClock, Sarah Connor und DJ Oetzi.",
+     "hu": "Szabadtéri koncertsorozat a Nordstrandon. A 2026-os fellépők között van Robin Schulz, ClockClock, Sarah Connor és DJ Oetzi.",
+     "ro": "Serie de concerte în aer liber pe Nordstrand. Line-up-ul din 2026 îi include pe Robin Schulz, ClockClock, Sarah Connor și DJ Oetzi.",
+     "en": "Open-air concert series at the Nordstrand. The 2026 lineup includes Robin Schulz, ClockClock, Sarah Connor and DJ Oetzi."
+    },
+    "source_url": "https://www.summertime-norderney.de/"
+   },
+   {
+    "name": {
+     "de": "sebamed ISLANDMAN Norderney",
+     "hu": "sebamed ISLANDMAN Norderney",
+     "ro": "sebamed ISLANDMAN Norderney",
+     "en": "sebamed ISLANDMAN Norderney"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "5. September 2026",
+     "hu": "2026. szeptember 5.",
+     "ro": "5 septembrie 2026",
+     "en": "5 September 2026"
+    },
+    "date": "2026-09-05",
+    "blurb": {
+     "de": "Triathlon mit Seeschwimmen, Radfahren entlang der Inselpromenade und einem Lauf durch die Insel, der 2026 nach mehrjähriger Pause zurückkehrt. Es werden olympische, Sprint-, Anfänger-, Jugend- und Staffeldistanzen angeboten.",
+     "hu": "Triatlon tengeri úszással, kerékpározással a szigeti sétány mentén és futással a szigeten keresztül, amely 2026-ban többéves szünet után tér vissza. Olimpiai, sprint, kezdő, ifjúsági és váltó távok állnak rendelkezésre.",
+     "ro": "Triatlon cu înot în mare, ciclism de-a lungul promenadei insulei și alergare prin insulă, care revine în 2026 după o pauză de mai mulți ani. Sunt oferite distanțe olimpice, sprint, începători, tineret și ștafetă.",
+     "en": "Triathlon with sea swim, cycling along the island promenade and a run through the island, returning in 2026 after a multi-year break. Olympic, sprint, beginner, youth and relay distances are offered."
+    },
+    "source_url": "https://www.sebamed-islandman.de/"
+   }
+  ]
+ },
+ "billriff": {
+  "beach": "Billriff",
+  "town": "Juist",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Juistival",
+     "hu": "Juistival",
+     "ro": "Juistival",
+     "en": "Juistival"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich um Christi Himmelfahrt im Mai; 2026: 14.–16. Mai",
+     "hu": "évente áldozócsütörtök környékén májusban; 2026: május 14–16.",
+     "ro": "anual în jurul Zilei Înălțării Domnului în mai; 2026: 14–16 mai",
+     "en": "annually around Ascension Day in May; 2026: 14-16 May"
+    },
+    "date": "2026-05-14",
+    "blurb": {
+     "de": "Open-Air-Musik-, Kunst- und Kulturfestival auf der Insel Juist mit Bühnen am Kurplatz und anderen Orten. Der Eintritt ist frei.",
+     "hu": "Szabadtéri zenei, művészeti és kulturális fesztivál Juist szigetén, színpadokkal a Kurplatzon és más helyszíneken. A belépés ingyenes.",
+     "ro": "Festival open-air de muzică, artă și cultură pe insula Juist, cu scene la Kurplatz și în alte locații. Intrarea este liberă.",
+     "en": "Open-air music, art and culture festival on the island of Juist with stages at the Kurplatz and other venues. Admission is free."
+    },
+    "source_url": "https://juistival.de/"
+   },
+   {
+    "name": {
+     "de": "Toewerland-Konzerte",
+     "hu": "Toewerland-Konzerte",
+     "ro": "Toewerland-Konzerte",
+     "en": "Toewerland-Konzerte"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "Juni bis Ende September, zwei Konzerte pro Tag auf dem Kurplatz",
+     "hu": "június végétől szeptember végéig, napi két koncert a Kurplatzon",
+     "ro": "din iunie până la sfârșitul lunii septembrie, două concerte pe zi la Kurplatz",
+     "en": "June to end of September, two concerts per day on the Kurplatz"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Sommerkonzertreihe auf Juist, bei der Gastbands eine Woche bleiben und zweimal täglich auf dem Kurplatz spielen; bei schlechtem Wetter wird ins Haus des Kurgastes verlegt. Das Programm 2026 umfasst Acts wie Mellow Melange (16.–21. Juni) und Jonas Green Duo (23.–28. Juni).",
+     "hu": "Nyári koncertsorozat Juiston, ahol vendégzenekarok egy hétig maradnak és naponta kétszer játszanak a Kurplatzon; rossz idő esetén a Haus des Kurgastes épületébe költöznek. A 2026-os fellépők között szerepel a Mellow Melange (június 16–21.) és a Jonas Green Duo (június 23–28.).",
+     "ro": "Serie de concerte de vară pe Juist, unde trupele invitate rămân o săptămână și cântă de două ori pe zi la Kurplatz, mutându-se în interior la Haus des Kurgastes pe vreme rea. Programul din 2026 include trupe precum Mellow Melange (16–21 iunie) și Jonas Green Duo (23–28 iunie).",
+     "en": "Summer concert series on Juist where guest bands stay for a week and play twice daily on the Kurplatz, moving indoors to the Haus des Kurgastes in bad weather. The 2026 line-up includes acts such as Mellow Melange (16-21 June) and Jonas Green Duo (23-28 June)."
+    },
+    "source_url": "https://www.juist.de/auf-der-insel/veranstaltungen/highlights/toewerland-konzerte"
+   },
+   {
+    "name": {
+     "de": "Toewerland Insellauf",
+     "hu": "Toewerland Insellauf",
+     "ro": "Toewerland Insellauf",
+     "en": "Toewerland Insellauf"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "Sommer auf Juist; 2026: 16. Juli und 3. September",
+     "hu": "nyáron Juiston; 2026-os időpontok: július 16. és szeptember 3.",
+     "ro": "vara pe Juist; datele din 2026: 16 iulie și 3 septembrie",
+     "en": "summer on Juist; 2026 dates 16 July and 3 September"
+    },
+    "date": "2026-07-16",
+    "blurb": {
+     "de": "Laufveranstaltung auf der Insel Juist mit Kategorien für Kinder, Jugendliche und Erwachsene, Start am Kurplatz. 2026 findet sie am 16. Juli und erneut am 3. September statt.",
+     "hu": "Futóesemény Juist szigetén, gyermek-, ifjúsági és felnőtt kategóriákkal, rajt a Kurplatzon. 2026-ban július 16-án és szeptember 3-án rendezik meg.",
+     "ro": "Eveniment de alergare pe insula Juist cu categorii pentru copii, tineri și adulți, startul de la Kurplatz. În 2026 are loc pe 16 iulie și din nou pe 3 septembrie.",
+     "en": "Running event on the island of Juist with categories for children, youth and adults, starting at the Kurplatz. In 2026 it is held on 16 July and again on 3 September."
+    },
+    "source_url": "https://www.juist.de/vor-ort/aktiv/wettkaempfe/"
+   },
+   {
+    "name": {
+     "de": "Familien-Pfingsten auf Juist",
+     "hu": "Familien-Pfingsten auf Juist",
+     "ro": "Familien-Pfingsten auf Juist",
+     "en": "Familien-Pfingsten auf Juist"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich zu Pfingsten",
+     "hu": "évente pünkösdkor",
+     "ro": "anual de Rusalii (Pfingsten)",
+     "en": "annually at Pentecost (Pfingsten)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Familienorientiertes Programm auf Juist am Pfingstwochenende mit Aktivitäten für Kinder und Eltern. Teil des wiederkehrenden saisonalen Veranstaltungskalenders der Insel.",
+     "hu": "Családközpontú program Juiston a pünkösdi hétvégén, gyermekek és szülők számára kínált tevékenységekkel. A sziget ismétlődő szezonális eseménynaptárának része.",
+     "ro": "Program orientat spre familie pe Juist în weekendul Rusaliilor, cu activități pentru copii și părinți. Parte a calendarului recurent de evenimente sezoniere al insulei.",
+     "en": "Family-oriented programme on Juist over the Pentecost weekend with activities for children and parents. Part of the island's recurring seasonal events calendar."
+    },
+    "source_url": "https://www.nordsee53grad.de/veranstaltungshighlights/veranstaltungskalender/details/familien-pfingsten-auf-juist"
+   }
+  ]
+ },
+ "falckenstein": {
+  "beach": "Falckenstein",
+  "town": "Kiel",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Kieler Woche",
+     "hu": "Kieler Woche",
+     "ro": "Kieler Woche",
+     "en": "Kieler Woche"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "20. bis 28. Juni 2026; Windjammerparade am 27. Juni 2026",
+     "hu": "2026. június 20-tól június 28-ig; Windjammerparade 2026. június 27-én",
+     "ro": "20 până în 28 iunie 2026; Parada Windjammer pe 27 iunie 2026",
+     "en": "2026-06-20 to 2026-06-28; Windjammerparade on 2026-06-27"
+    },
+    "date": "2026-06-27",
+    "blurb": {
+     "de": "Kiels jährliches Segel- und Stadtfest findet vom 20. bis 28. Juni 2026 statt, mit Regatten und rund 2.000 Konzerten. Der Falckensteiner Strand ist einer der besten Aussichtspunkte für die Windjammerparade am 27. Juni 2026.",
+     "hu": "Kiel éves vitorlás- és városi fesztiválja 2026. június 20-tól 28-ig tart, versenyekkel és körülbelül 2000 koncerttel. A Falckensteiner Strand az egyik legjobb kilátópont a Windjammerparade számára 2026. június 27-én.",
+     "ro": "Festivalul anual de navigație și oraș al Kielului are loc între 20 și 28 iunie 2026, cu regate și aproximativ 2.000 de concerte. Plaja Falckensteiner este unul dintre cele mai bune puncte de observare pentru Parada Windjammer pe 27 iunie 2026.",
+     "en": "Kiel's annual sailing and city festival runs 20 to 28 June 2026, with regattas and around 2,000 concerts. Falckensteiner Strand is one of the best viewing points for the Windjammerparade on 27 June 2026."
+    },
+    "source_url": "https://event.com.de/kieler-woche-2026.html"
+   },
+   {
+    "name": {
+     "de": "Nachtklettern im Hochseilgarten High Spirits",
+     "hu": "Nachtklettern im Hochseilgarten High Spirits",
+     "ro": "Nachtklettern im Hochseilgarten High Spirits",
+     "en": "Nachtklettern im Hochseilgarten High Spirits"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "Mehrere Sommerabende; Termine 2026: 25. Juli, 22. August und 12. September um 20:30 Uhr",
+     "hu": "Több nyári este; 2026-os időpontok: július 25., augusztus 22. és szeptember 12., 20:30-kor",
+     "ro": "Mai multe seri de vară; datele din 2026: 25 iulie, 22 august și 12 septembrie la ora 20:30",
+     "en": "Several summer evenings; 2026 dates 25 July, 22 August and 12 September at 20:30"
+    },
+    "date": "2026-07-25",
+    "blurb": {
+     "de": "Abendliche Klettersessions im Hochseilgarten High Spirits am Falckensteiner Strand 15, Klettern durch die beleuchteten Baumkronen nach Einbruch der Dunkelheit. Voranmeldung erforderlich und Teilnehmerzahl begrenzt.",
+     "hu": "Esti mászófoglalkozások a High Spirits magas kötélpályán a Falckensteiner Strand 15. szám alatt, mászás a megvilágított lombkoronák között sötétedés után. Előzetes regisztráció szükséges, a résztvevők száma korlátozott.",
+     "ro": "Ședințe de cățărare seara la traseul de înaltă înălțime High Spirits situat pe strada Falckensteiner Strand 15, cățărare prin coroanele copacilor iluminate după lăsarea întunericului. Înregistrarea în avans este necesară, iar numărul de participanți este limitat.",
+     "en": "Evening climbing sessions at the High Spirits high rope course located at Falckensteiner Strand 15, climbing through the lit treetops after dark. Advance registration is required and participant numbers are limited."
+    },
+    "source_url": "https://www.hochseilgarten-kiel.de/index.php/unsere-angebote/nachtklettern"
+   }
+  ]
+ },
+ "falckensteiner-strand": {
+  "beach": "Falckensteiner Strand",
+  "town": "Kiel",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Kieler Woche",
+     "hu": "Kieler Woche (Kiel Hét)",
+     "ro": "Kieler Woche (Săptămâna Kiel)",
+     "en": "Kieler Woche (Kiel Week)"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juni; 2026: 20.–28. Juni",
+     "hu": "évente június végén; 2026: június 20–28.",
+     "ro": "anual la sfârșitul lunii iunie; 2026: 20–28 iunie",
+     "en": "annually in late June; 2026: 20-28 June"
+    },
+    "date": "2026-06-20",
+    "blurb": {
+     "de": "Die Kieler Woche ist das jährliche Segel- und Sommerfest der Stadt, das größte seiner Art weltweit. Der Falckensteiner Strand liegt am Westufer der Kieler Förde, wo die Regattaaktivitäten stattfinden.",
+     "hu": "A Kieler Woche a város éves vitorlás- és nyári fesztiválja, a világ legnagyobb ilyen jellegű eseménye. A Falckensteiner Strand a Kiel-fjord nyugati partján fekszik, ahol a regatták zajlanak.",
+     "ro": "Kieler Woche este festivalul anual de navigație și vară al orașului, cel mai mare de acest fel din lume. Plaja Falckensteiner Strand se află pe malul vestic al fiordului Kiel, unde au loc activitățile de regată.",
+     "en": "Kiel Week is the city's annual sailing and summer festival, the largest of its kind in the world. Falckensteiner Strand lies on the western shore of the Kiel Fjord where the regatta activity takes place."
+    },
+    "source_url": "https://kieler-woche.de/"
+   },
+   {
+    "name": {
+     "de": "Windjammerparade (Kieler Woche)",
+     "hu": "Windjammerparade (Kieler Woche)",
+     "ro": "Windjammerparade (Kieler Woche)",
+     "en": "Windjammerparade (Kieler Woche)"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "Samstag der Kieler Woche; 2026: 27. Juni, ab etwa 10:30 Uhr",
+     "hu": "a Kieler Woche szombatján; 2026: június 27., kb. 10:30-tól",
+     "ro": "sâmbăta din cadrul Kieler Woche; 2026: 27 iunie, de la aproximativ 10:30",
+     "en": "Saturday of Kiel Week; 2026: 27 June, from about 10:30"
+    },
+    "date": "2026-06-27",
+    "blurb": {
+     "de": "Die Windjammerparade ist der Höhepunkt der Kieler Woche, bei der Großsegler und traditionelle Segelschiffe durch die Kieler Förde ziehen. Der Falckensteiner Strand ist ein offiziell ausgewiesener Aussichtspunkt, um die Parade vorbeiziehen zu sehen.",
+     "hu": "A Windjammerparade a Kieler Woche fénypontja, ahol nagyvitorlások és hagyományos vitorlás hajók vonulnak fel a Kiel-fjordon. A Falckensteiner Strand hivatalos kilátóhelyként van feltüntetve a parádé megtekintésére.",
+     "ro": "Parada Windjammer este punctul culminant al Kieler Woche, cu nave cu pânze înalte și ambarcațiuni tradiționale cu vele care defilează prin fiordul Kiel. Plaja Falckensteiner Strand este un punct de belvedere oficial listat pentru a urmări trecerea paradei.",
+     "en": "The Windjammer Parade is the highlight of Kiel Week, with tall ships and traditional sailing vessels parading through the Kiel Fjord. Falckensteiner Strand is an officially listed vantage point for watching the parade pass."
+    },
+    "source_url": "https://www.kop-kiel.de/en/news/windjammer-parade-2026/"
+   }
+  ]
+ },
+ "freizeitpark-wisseler-see": {
+  "beach": "Freizeitpark Wisseler See",
+  "town": "Kalkar-Wissel",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Herbrand Niederrhein Triathlon (N3T)",
+     "hu": "Herbrand Niederrhein Triathlon (N3T)",
+     "ro": "Herbrand Niederrhein Triathlon (N3T)",
+     "en": "Herbrand Niederrhein Triathlon (N3T)"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juni; 28.06.2026",
+     "hu": "évente június végén; 2026.06.28.",
+     "ro": "anual la sfârșitul lunii iunie; 28.06.2026",
+     "en": "annually late June; 2026-06-28"
+    },
+    "date": "2026-06-28",
+    "blurb": {
+     "de": "Jährlicher Triathlon mit Schwimmstrecke im Wisseler See und mehreren Distanzen bis zu 1,5 km Schwimmen, 76 km Radfahren und 10 km Laufen. Die Ausgabe 2026 ist die achte, organisiert vom TriFUN Kleve e.V., mit der Wechselzone am Fingerhutshof in Kalkar.",
+     "hu": "Éves triatlon, az úszásszakasszal a Wisseler-tóban, több távval, akár 1,5 km úszás, 76 km kerékpározás és 10 km futás. A 2026-os kiadás a nyolcadik, a TriFUN Kleve e.V. szervezésében, a váltózónával a Fingerhutshofban, Kalkarban.",
+     "ro": "Triatlon anual cu proba de înot în Wisseler See și oferind mai multe distanțe până la 1,5 km înot, 76 km ciclism și 10 km alergare. Ediția 2026 este a opta, organizată de TriFUN Kleve e.V., cu zona de tranziție la Fingerhutshof în Kalkar.",
+     "en": "Annual triathlon with the swim leg held in the Wisseler See and offering several distances up to 1.5 km swim, 76 km bike and 10 km run. The 2026 edition is the eighth, organised by TriFUN Kleve e.V., with the transition zone at Fingerhutshof in Kalkar."
+    },
+    "source_url": "https://www.niederrhein-triathlon.de/"
+   },
+   {
+    "name": {
+     "de": "Trodelmarkt Mehrzweckhalle Wisseler See",
+     "hu": "Trodelmarkt Mehrzweckhalle Wisseler See",
+     "ro": "Trodelmarkt Mehrzweckhalle Wisseler See",
+     "en": "Trodelmarkt Mehrzweckhalle Wisseler See"
+    },
+    "type": "market",
+    "recurring": true,
+    "when": {
+     "de": "monatlich, zweiter Sonntag, 11:00-18:00",
+     "hu": "havonta, második vasárnap, 11:00-18:00",
+     "ro": "lunar, a doua duminică, 11:00-18:00",
+     "en": "monthly, second Sunday, 11:00-18:00"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Wiederkehrender Indoor-Flohmarkt, etwa monatlich in der Mehrzweckhalle am Wisseler See in Kalkar. Termine 2026: 12. Juli, 9. August, 13. September, 11. Oktober, 8. November und 13. Dezember, jeweils 11:00 bis 18:00.",
+     "hu": "Ismétlődő beltéri bolhapiac, körülbelül havonta a Mehrzweckhalle-ban a Wisseler-tónál, Kalkarban. 2026-os időpontok: július 12., augusztus 9., szeptember 13., október 11., november 8. és december 13., 11:00-tól 18:00-ig.",
+     "ro": "Târg de vechituri interior recurent, organizat aproximativ lunar în Mehrzweckhalle de la Wisseler See din Kalkar. Datele din 2026 includ 12 iulie, 9 august, 13 septembrie, 11 octombrie, 8 noiembrie și 13 decembrie, între orele 11:00 și 18:00.",
+     "en": "Recurring indoor flea market held roughly monthly in the Mehrzweckhalle at the Wisseler See in Kalkar. 2026 dates include 12 July, 9 August, 13 September, 11 October, 8 November and 13 December, running 11:00 to 18:00."
+    },
+    "source_url": "https://vogt-sven.de/standorte/kalkar-mehrzweckhalle-wisseler-see/"
+   }
+  ]
+ },
+ "neckarstrand-bei-remseck": {
+  "beach": "Neckarstrand Bei Remseck",
+  "town": "Remseck am Neckar",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Sommer am Strand",
+     "hu": "Sommer am Strand",
+     "ro": "Sommer am Strand",
+     "en": "Sommer am Strand"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im Juli am Neckarstrand",
+     "hu": "évente júliusban a Neckarstrandon",
+     "ro": "anual în iulie la Neckarstrand",
+     "en": "annually in July at Neckarstrand"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein mehrtägiges Sommerprogramm am Neckarstrand in Remseck am Neckar mit Open-Air-Konzerten, Poetry Slam, Yoga, Sporteinheiten sowie Essens- und Getränkeständen. Die Ausgabe 2025 fand vom 18. bis 30. Juli statt, mit einem Sharky's Getränkewagen, der bei gutem Wetter täglich geöffnet hatte.",
+     "hu": "Egy többnapos nyári program a Neckarstrandon, Remseck am Neckarban, szabadtéri koncertekkel, poetry slammel, jógával, sportfoglalkozásokkal, valamint étel- és italárusokkal. A 2025-ös kiadás július 18-tól 30-ig tartott, a Sharky's italos kocsi jó idő esetén naponta üzemelt.",
+     "ro": "Un program estival de mai multe zile pe plaja Neckarstrand din Remseck am Neckar, cu concerte în aer liber, poetry slam, yoga, sesiuni sportive și standuri cu mâncare și băuturi. Ediția din 2025 a avut loc între 18 și 30 iulie, cu o autoutilitară de băuturi Sharky's deschisă zilnic pe vreme bună.",
+     "en": "A summer program held over several days at the Neckarstrand beach in Remseck am Neckar, featuring open-air concerts, poetry slam, yoga, sport sessions and food and drink stalls. The 2025 edition ran from 18 to 30 July with a Sharky's beverage truck operating daily during good weather."
+    },
+    "source_url": "https://www.stadt-remseck.de/sommer-am-strand"
+   },
+   {
+    "name": {
+     "de": "Stand Up Paddling und Kanu am Neckar",
+     "hu": "Stand Up Paddling und Kanu am Neckar",
+     "ro": "Stand Up Paddling und Kanu am Neckar",
+     "en": "Stand Up Paddling und Kanu am Neckar"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "Sommer (SUP-Touren und Kinderpaddelkurse im Juni und August)",
+     "hu": "nyár (SUP-túrák és gyermek evezős foglalkozások júniusban és augusztusban)",
+     "ro": "vara (tururi SUP și sesiuni de canotaj pentru copii în iunie și august)",
+     "en": "summer (SUP tours and children's paddling sessions in June and August)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Geführte Stand-up-Paddling-Touren und Kanufahrten für Kinder und Jugendliche finden in den Sommermonaten auf dem Neckar im Bereich des Remsecker Strandes statt. Die Termine sind im offiziellen Veranstaltungskalender der Stadt aufgeführt.",
+     "hu": "Vezetett stand up paddling túrák és kenuzási lehetőségek gyermekek és fiatalok számára a nyári hónapokban a Neckar folyón, a remsecki strand környékén zajlanak. A foglalkozások a város hivatalos eseménynaptárában szerepelnek.",
+     "ro": "Tururi ghidate de stand up paddling și sesiuni de canotaj pentru copii și tineri au loc pe râul Neckar, în zona plajei Remseck, în lunile de vară. Sesiunile sunt listate în calendarul oficial de evenimente al orașului.",
+     "en": "Guided stand up paddling tours and canoeing sessions for children and youths take place on the Neckar river by the Remseck beach area during the summer months. Sessions are listed in the city's official event calendar."
+    },
+    "source_url": "https://www.veranstaltung-baden-wuerttemberg.de/stadt/remseck-am-neckar/"
+   }
+  ]
+ },
+ "nordstrand": {
+  "beach": "Nordstrand",
+  "town": "Nordstrand",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Biikebrennen",
+     "hu": "Biikebrennen",
+     "ro": "Biikebrennen",
+     "en": "Biikebrennen"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am 21. Februar",
+     "hu": "évente február 21-én",
+     "ro": "anual pe 21 februarie",
+     "en": "annually 21 February"
+    },
+    "date": "2026-02-21",
+    "blurb": {
+     "de": "Traditionelles nordfriesisches Feuerfest am Abend des 21. Februar, bei dem entlang der Küste große Lagerfeuer entzündet werden, um das Ende des Winters zu markieren. Danach versammeln sich die Einheimischen in Gaststätten zu traditionellem Essen.",
+     "hu": "Hagyományos észak-fríz tűzfesztivál február 21-én este, amikor a tél végét jelző nagy máglyákat gyújtanak a part mentén. Ezt követően a helyiek kocsmákban gyűlnek össze hagyományos ételekhez.",
+     "ro": "Festival tradițional al focului din Frisia de Nord, în seara zilei de 21 februarie, când se aprind focuri mari de tabără de-a lungul coastei pentru a marca sfârșitul iernii. După aceea, localnicii se adună în taverne pentru mâncare tradițională.",
+     "en": "Traditional North Frisian fire festival on the evening of 21 February when large bonfires are lit along the coast to mark the end of winter. Afterwards locals gather in taverns for traditional food."
+    },
+    "source_url": "https://www.nordstrand.de/highlights"
+   },
+   {
+    "name": {
+     "de": "Osterfeuer",
+     "hu": "Osterfeuer",
+     "ro": "Osterfeuer",
+     "en": "Osterfeuer"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich zu Ostern",
+     "hu": "évente húsvétkor",
+     "ro": "anual de Paște",
+     "en": "annually at Easter"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Zeremonielles Osterfeuer, das Bewohner und Besucher entlang der Nordstrander Küste zusammenbringt.",
+     "hu": "Ünnepi húsvéti tűz, amely összehozza a lakosokat és látogatókat a Nordstrand part mentén.",
+     "ro": "Foc ceremonial de Paște care aduce împreună locuitorii și vizitatorii de-a lungul coastei Nordstrand.",
+     "en": "Ceremonial Easter bonfire that brings together residents and visitors along the Nordstrand coast."
+    },
+    "source_url": "https://www.nordstrand.de/highlights"
+   },
+   {
+    "name": {
+     "de": "Oldtimertreffen Suderhafen",
+     "hu": "Oldtimertreffen Suderhafen",
+     "ro": "Oldtimertreffen Suderhafen",
+     "en": "Oldtimertreffen Suderhafen"
+    },
+    "type": "other",
+    "recurring": true,
+    "when": {
+     "de": "14. Juni 2026",
+     "hu": "2026. június 14.",
+     "ro": "14 iunie 2026",
+     "en": "2026-06-14"
+    },
+    "date": "2026-06-14",
+    "blurb": {
+     "de": "Oldtimer-Treffen am Suderhafen auf Nordstrand, bei dem historische Fahrzeuge ausgestellt werden.",
+     "hu": "Veterán autók találkozója a Suderhafenben, Nordstrandon, ahol régi járműveket állítanak ki.",
+     "ro": "Întâlnire de mașini clasice la Suderhafen pe Nordstrand, unde sunt expuse vehicule de epocă.",
+     "en": "Classic car meeting held at the Suderhafen on Nordstrand where vintage vehicles are displayed."
+    },
+    "source_url": "https://www.nordstrand.de/highlights"
+   },
+   {
+    "name": {
+     "de": "Ringreiten",
+     "hu": "Ringreiten",
+     "ro": "Ringreiten",
+     "en": "Ringreiten"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "28. Juni 2026",
+     "hu": "2026. június 28.",
+     "ro": "28 iunie 2026",
+     "en": "2026-06-28"
+    },
+    "date": "2026-06-28",
+    "blurb": {
+     "de": "Traditioneller nordfriesischer Ringstechen-Wettbewerb, bei dem berittene Reiter versuchen, kleine Ringe beim Reiten aufzuspießen.",
+     "hu": "Hagyományos észak-fríz gyűrűlovagló verseny, ahol lovasok próbálnak kis gyűrűket felszúrni lovaglás közben.",
+     "ro": "Competiție tradițională de joc cu inele din Frisia de Nord, în care călăreții încearcă să înțepe inele mici în timp ce călăresc.",
+     "en": "Traditional North Frisian ring-jousting competition in which mounted riders try to spear small rings while riding."
+    },
+    "source_url": "https://www.nordstrand.de/highlights"
+   },
+   {
+    "name": {
+     "de": "Kinderringreiten",
+     "hu": "Kinderringreiten",
+     "ro": "Kinderringreiten",
+     "en": "Kinderringreiten"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "4. Juli 2026",
+     "hu": "2026. július 4.",
+     "ro": "4 iulie 2026",
+     "en": "2026-07-04"
+    },
+    "date": "2026-07-04",
+    "blurb": {
+     "de": "Kinderversion des traditionellen Ringstechens auf Nordstrand.",
+     "hu": "A hagyományos gyűrűlovagló esemény gyermekváltozata Nordstrandon.",
+     "ro": "Versiunea pentru copii a evenimentului tradițional de joc cu inele pe Nordstrand.",
+     "en": "Children's version of the traditional ring-jousting event on Nordstrand."
+    },
+    "source_url": "https://www.nordstrand.de/highlights"
+   },
+   {
+    "name": {
+     "de": "Nordstrander Musiktage Unnern Appelboom",
+     "hu": "Nordstrander Musiktage Unnern Appelboom",
+     "ro": "Nordstrander Musiktage Unnern Appelboom",
+     "en": "Nordstrander Musiktage Unnern Appelboom"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jeden Montag vom 22. Juni bis 24. August 2026, 19:00 Uhr",
+     "hu": "minden hétfőn 2026. június 22-től augusztus 24-ig, 19:00",
+     "ro": "în fiecare luni de la 22 iunie până la 24 august 2026, ora 19:00",
+     "en": "every Monday 22 June to 24 August 2026, 19:00"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Open-Air-Konzertreihe jeden Montagabend vom 22. Juni bis 24. August 2026 auf der Obstwiese an der Vogelkoje, Hoernstrasse 2a. Das Programm umfasst Rock, Pop, Jazz, Folk und akustische Singer-Songwriter-Musik.",
+     "hu": "Szabadtéri koncertsorozat minden hétfő este 2026. június 22-től augusztus 24-ig a Vogelkoje gyümölcsös rétjén, Hoernstrasse 2a. A program rock, pop, jazz, folk és akusztikus énekes-dalszerző zenét tartalmaz.",
+     "ro": "Serie de concerte în aer liber în fiecare seară de luni, de la 22 iunie până la 24 august 2026, pe pajiștea cu livadă de la Vogelkoje, Hoernstrasse 2a. Programul cuprinde muzică rock, pop, jazz, folk și cântăreți-compozitori acustici.",
+     "en": "Open-air concert series held every Monday evening from 22 June to 24 August 2026 on the orchard meadow at the Vogelkoje, Hoernstrasse 2a. The programme covers rock, pop, jazz, folk and acoustic singer-songwriter music."
+    },
+    "source_url": "https://www.nordstrander-musiktage.de/"
+   }
+  ]
+ },
+ "schilksee-beach": {
+  "beach": "Schilksee Beach",
+  "town": "Kiel (Schilksee district)",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Kieler Woche",
+     "hu": "Kieler Woche",
+     "ro": "Kieler Woche",
+     "en": "Kieler Woche (Kiel Week)"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juni, 20. bis 28. Juni 2026",
+     "hu": "évente június végén, 2026. június 20–28.",
+     "ro": "anual la sfârșitul lunii iunie, 20–28 iunie 2026",
+     "en": "annually late June; 2026-06-20 to 2026-06-28"
+    },
+    "date": "2026-06-20",
+    "blurb": {
+     "de": "Die Kieler Woche ist das größte Segelereignis der Welt. Die Regatten finden auf der Kieler Förde vor Schilksee statt, das Festgelände am Olympiazentrum Schilksee. Die Ausgabe 2026 läuft vom 20. bis 28. Juni.",
+     "hu": "A Kieler Woche a világ legnagyobb vitorlás eseménye, regattáit a Kieler Förde-n rendezik Schilksee-nél, a fesztiválfalu pedig az Olympiazentrum Schilksee területén található. A 2026-os kiadás június 20-tól 28-ig tart.",
+     "ro": "Kieler Woche este cel mai mare eveniment de navigație din lume, cu regatele sale desfășurate pe fiordul Kiel, lângă Schilksee, iar satul festivalului este situat la Olympiazentrum Schilksee. Ediția 2026 are loc între 20 și 28 iunie.",
+     "en": "Kiel Week is the world's largest sailing event, with its regattas held on the Kiel Fjord off Schilksee and the festival village based at the Olympiazentrum Schilksee. The 2026 edition runs from 20 to 28 June."
+    },
+    "source_url": "https://www.kieler-woche.de/de/medien/meldung.php?id=143545"
+   },
+   {
+    "name": {
+     "de": "Kieler Woche Segelregatten am Olympiazentrum Schilksee",
+     "hu": "Kieler Woche Vitorlás Regatták az Olympiazentrum Schilksee-nél",
+     "ro": "Regatele de navigație Kieler Woche de la Olympiazentrum Schilksee",
+     "en": "Kieler Woche Sailing Regattas at Olympiazentrum Schilksee"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich während der Kieler Woche, 20. bis 28. Juni 2026",
+     "hu": "évente a Kieler Woche alatt, 2026. június 20–28.",
+     "ro": "anual în timpul Kieler Woche, 20–28 iunie 2026",
+     "en": "annually during Kiel Week; 2026-06-20 to 2026-06-28"
+    },
+    "date": "2026-06-20",
+    "blurb": {
+     "de": "Das Olympiazentrum Kiel-Schilksee, Austragungsort der olympischen Segelwettbewerbe 1972, beherbergt internationale Regatten in mehreren Bootsklassen mit Seglern aus rund 60 Nationen, sowie ein Festgelände mit Gastronomie, Ausstellungen und einem Seglerdorf. 2026 finden dort unter anderem die Weltmeisterschaft der Flying Dutchman statt.",
+     "hu": "Az Olympiazentrum Kiel-Schilksee, az 1972-es olimpiai vitorlás helyszín, nemzetközi regattáknak ad otthont több hajóosztályban, mintegy 60 nemzet vitorlázóival, valamint egy fesztiválterület gasztronómiával, kiállításokkal és egy vitorlásfaluval. 2026-ban eseményei közé tartozik a Flying Dutchman Világbajnokság.",
+     "ro": "Olympiazentrum Kiel-Schilksee, locul de desfășurare a competițiilor olimpice de navigație din 1972, găzduiește regate internaționale în mai multe clase de bărci, cu navigatori din aproximativ 60 de națiuni, plus o zonă de festival cu gastronomie, expoziții și un sat al navigatorilor. În 2026, evenimentele includ Campionatul Mondial Flying Dutchman.",
+     "en": "The Olympiazentrum Kiel-Schilksee, the 1972 Olympic sailing venue, hosts international regattas across multiple boat classes with sailors from around 60 nations, plus a festival area with gastronomy, exhibitions and a sailors' village. In 2026 it features events including the Flying Dutchman World Championship."
+    },
+    "source_url": "https://sailing.kieler-woche.de/race-info-2/venue.html"
+   }
+  ]
+ },
+ "sudstrand-sellin": {
+  "beach": "Sudstrand Sellin",
+  "town": "Ostseebad Sellin (Rugen)",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Mittsommerfest Sellin",
+     "hu": "Mittsommerfest Sellin",
+     "ro": "Mittsommerfest Sellin",
+     "en": "Mittsommerfest Sellin"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am 21. Juni (Sommersonnenwende)",
+     "hu": "évente június 21-én (nyári napforduló)",
+     "ro": "anual pe 21 iunie (solstițiul de vară)",
+     "en": "annually on 21 June (summer solstice)"
+    },
+    "date": "2026-06-21",
+    "blurb": {
+     "de": "Kostenloses Sommersonnenwende-Fest am Klangpavillon direkt am Südstrand in Sellin, von Nachmittag bis Mitternacht mit Livemusik, Kinderprogramm und einer Feuershow am Wasser gegen 21:30 Uhr.",
+     "hu": "Ingyenes nyári napfordulós fesztivál a Klangpavillonnál, közvetlenül a sellini Südstrandon, délutántól éjfélig élőzenével, gyerekprogrammal és egy tűzshow-val a vízparton kb. 21:30-kor.",
+     "ro": "Festival gratuit al solstițiului de vară, desfășurat la Klangpavillon, direct pe plaja Sudstrand din Sellin, de după-amiază până la miezul nopții, cu muzică live, program pentru copii și un spectacol cu foc lângă apă în jurul orei 21:30.",
+     "en": "Free summer-solstice festival held at the Klangpavillon directly on the Sudstrand in Sellin, running from afternoon until midnight with live music, a children's programme and a fire show at the water around 21:30."
+    },
+    "source_url": "https://www.ruegen-abc.de/inseltipps/veranstaltung/mittsommerfest-sellin"
+   },
+   {
+    "name": {
+     "de": "Open Air Sellin / Selliner Sommer Open Air (BOSSE)",
+     "hu": "Open Air Sellin / Selliner Sommer Open Air (BOSSE)",
+     "ro": "Open Air Sellin / Selliner Sommer Open Air (BOSSE)",
+     "en": "Open Air Sellin / Selliner Sommer Open Air (BOSSE)"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "24.07.2026",
+     "hu": "2026-07-24",
+     "ro": "2026-07-24",
+     "en": "2026-07-24"
+    },
+    "date": "2026-07-24",
+    "blurb": {
+     "de": "Open-Air-Konzert des deutschen Künstlers Bosse auf der Seebrücke Sellin am Ostseestrand. Teil der Konzertreihe Selliner Sommer Open Air.",
+     "hu": "A német Bosse előadó szabadtéri koncertje a sellini Seebrückén, a Balti-tenger partján. A Selliner Sommer Open Air koncertsorozat része.",
+     "ro": "Concert în aer liber al artistului german Bosse, pe Seebrücke Sellin, pe plaja Mării Baltice. Parte a seriei de concerte Selliner Sommer Open Air.",
+     "en": "Open-air concert by the German artist Bosse staged at the Seebrucke Sellin on the Baltic beach. Part of the Selliner Sommer Open Air concert series."
+    },
+    "source_url": "https://www.ostseebad-sellin.de/open-air-sellin/"
+   },
+   {
+    "name": {
+     "de": "Open Air Sellin (Gestört Aber Geil)",
+     "hu": "Open Air Sellin (Gestört Aber Geil)",
+     "ro": "Open Air Sellin (Gestört Aber Geil)",
+     "en": "Open Air Sellin (Gestort Aber Geil)"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "31.07.2026",
+     "hu": "2026-07-31",
+     "ro": "2026-07-31",
+     "en": "2026-07-31"
+    },
+    "date": "2026-07-31",
+    "blurb": {
+     "de": "Open-Air-Konzert der Elektro-Act Gestört Aber Geil auf der Seebrücke Sellin Bühne am Strand als Teil der Selliner Sommer Open Air Reihe.",
+     "hu": "A Gestört Aber Geil elektronikus formáció szabadtéri koncertje a sellini Seebrücke színpadán a strandon, a Selliner Sommer Open Air sorozat részeként.",
+     "ro": "Concert în aer liber al formației electronice Gestört Aber Geil pe scena de pe plaja Seebrücke Sellin, ca parte a seriei Selliner Sommer Open Air.",
+     "en": "Open-air concert by the electronic act Gestort Aber Geil at the Seebrucke Sellin beach stage as part of the Selliner Sommer Open Air series."
+    },
+    "source_url": "https://www.ostseebad-sellin.de/open-air-sellin/"
+   },
+   {
+    "name": {
+     "de": "Open Air Sellin (Christian Steiffen)",
+     "hu": "Open Air Sellin (Christian Steiffen)",
+     "ro": "Open Air Sellin (Christian Steiffen)",
+     "en": "Open Air Sellin (Christian Steiffen)"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "01.08.2026",
+     "hu": "2026-08-01",
+     "ro": "2026-08-01",
+     "en": "2026-08-01"
+    },
+    "date": "2026-08-01",
+    "blurb": {
+     "de": "Open-Air-Konzert von Christian Steiffen auf der Seebrücke Sellin Bühne am Strand, Abschluss der Selliner Sommer Open Air Reihe.",
+     "hu": "Christian Steiffen szabadtéri koncertje a sellini Seebrücke színpadán a strandon, a Selliner Sommer Open Air sorozat záróeseménye.",
+     "ro": "Concert în aer liber al lui Christian Steiffen pe scena de pe plaja Seebrücke Sellin, încheind seria Selliner Sommer Open Air.",
+     "en": "Open-air concert by Christian Steiffen at the Seebrucke Sellin beach stage, closing the Selliner Sommer Open Air series."
+    },
+    "source_url": "https://www.ostseebad-sellin.de/open-air-sellin/"
+   },
+   {
+    "name": {
+     "de": "Seebrückenfest Sellin",
+     "hu": "Seebrückenfest Sellin",
+     "ro": "Seebrückenfest Sellin",
+     "en": "Seebruckenfest Sellin"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "25.07.2026 bis 26.07.2026",
+     "hu": "2026-07-25-től 2026-07-26-ig",
+     "ro": "de la 25.07.2026 până la 26.07.2026",
+     "en": "2026-07-25 to 2026-07-26"
+    },
+    "date": "2026-07-25",
+    "blurb": {
+     "de": "Familien-Pierfest am Selliner Strand zwischen den Open-Air-Konzerten, mit Bands, Volkstanzgruppen und DJs ab 16:00 Uhr sowie einem Feuerwerk um 23:00 Uhr am 26. Juli.",
+     "hu": "Családi mólófesztivál a sellini strandon a szabadtéri koncertek között, zenekarokkal, népi együttesekkel és DJ-kkel 16:00-tól, valamint tűzijátékkal 23:00-kor július 26-án.",
+     "ro": "Festival familial pe digul de pe plaja Sellin, între concertele în aer liber, cu formații, ansambluri populare și DJ-i de la ora 16:00 și un foc de artificii la ora 23:00 pe 26 iulie.",
+     "en": "Family pier festival on the Sellin beach between the open-air concerts, with bands, folk ensembles and DJs from 16:00 and a fireworks display at 23:00 on 26 July."
+    },
+    "source_url": "https://www.ostseebad-sellin.de/open-air-sellin/"
+   }
+  ]
+ },
+ "weststrand": {
+  "beach": "Weststrand",
+  "town": "Prerow",
+  "country": "Germany",
+  "events": [
+   {
+    "name": {
+     "de": "Hafenfest Prerow",
+     "hu": "Hafenfest Prerow",
+     "ro": "Hafenfest Prerow",
+     "en": "Hafenfest Prerow"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Mitte Juli (2026-07-18)",
+     "hu": "évente július közepén (2026-07-18)",
+     "ro": "anual la mijlocul lunii iulie (2026-07-18)",
+     "en": "annually mid-July (2026-07-18)"
+    },
+    "date": "2026-07-18",
+    "blurb": {
+     "de": "Maritimes Haffest am Prerower Hafen mit Drachenbootrennen, Familienprogramm und abendlicher Tanzparty.",
+     "hu": "Tengeri kikötői fesztivál a Prerow-i kikötőben sárkányhajóversennyel, családi programmal és esti táncpartival.",
+     "ro": "Festival maritim portuar la portul Prerow cu cursă de bărci-dragon, program pentru familii și petrecere de dans seara.",
+     "en": "Maritime harbour festival at the Prerow harbour with a dragon boat race, family programme and an evening dance party."
+    },
+    "source_url": "https://www.ostseebad-prerow.de/hafenfest"
+   },
+   {
+    "name": {
+     "de": "Seebrückenfest Prerow",
+     "hu": "Seebrückenfest Prerow",
+     "ro": "Seebrückenfest Prerow",
+     "en": "Seebrückenfest Prerow"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Mitte August (2026-08-15)",
+     "hu": "évente augusztus közepén (2026-08-15)",
+     "ro": "anual la mijlocul lunii august (2026-08-15)",
+     "en": "annually mid-August (2026-08-15)"
+    },
+    "date": "2026-08-15",
+    "blurb": {
+     "de": "Fest an der Prerower Seebrücke vom späten Vormittag bis in die Nacht, mit Familienprogramm, Livemusik und Tanzparty.",
+     "hu": "Fesztivál a Prerow-i tengeri hídnál késő délelőttől éjszakáig, családi programmal, élőzenével és táncpartival.",
+     "ro": "Festival la podul maritim Prerow de la sfârșitul dimineții până noaptea, cu program pentru familii, muzică live și petrecere de dans.",
+     "en": "Festival at the Prerow sea bridge running from late morning into the night, with a family programme, live music and a dance party."
+    },
+    "source_url": "https://www.prerow.m-vp.de/veranstaltungen/"
+   },
+   {
+    "name": {
+     "de": "Mittsommerfest Prerow",
+     "hu": "Mittsommerfest Prerow",
+     "ro": "Mittsommerfest Prerow",
+     "en": "Mittsommerfest Prerow"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "um die Sommersonnenwende, Juni (2026-06-21)",
+     "hu": "a nyári napforduló körül, június (2026-06-21)",
+     "ro": "în jurul solstițiului de vară, iunie (2026-06-21)",
+     "en": "around the summer solstice, June (2026-06-21)"
+    },
+    "date": "2026-06-21",
+    "blurb": {
+     "de": "Mittsommerfeier in Prerow mit Open-Air-Konzerten, 2026 als Teil des 300-Jahr-Programms der Seemannskirche.",
+     "hu": "Nyárközép ünnepség Prerow-ban szabadtéri koncertekkel, 2026-ban a Seemannskirche 300 éves programjának részeként.",
+     "ro": "Sărbătoarea solstițiului de vară în Prerow cu concerte în aer liber, desfășurată în 2026 ca parte a programului de 300 de ani al Bisericii Marinarilor.",
+     "en": "Midsummer celebration in Prerow with open-air concerts, held in 2026 as part of the 300-year programme of the Seemannskirche."
+    },
+    "source_url": "https://www.prerow.m-vp.de/veranstaltungen/"
+   },
+   {
+    "name": {
+     "de": "Sommerkino NaturfilmNacht (Freilichtbuehne Prerow)",
+     "hu": "Sommerkino NaturfilmNacht (Freilichtbuehne Prerow)",
+     "ro": "Sommerkino NaturfilmNacht (Freilichtbuehne Prerow)",
+     "en": "Sommerkino NaturfilmNacht (Freilichtbuehne Prerow)"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "Sommer, Juli (2026-07-02)",
+     "hu": "nyár, július (2026-07-02)",
+     "ro": "vară, iulie (2026-07-02)",
+     "en": "summer, July (2026-07-02)"
+    },
+    "date": "2026-07-02",
+    "blurb": {
+     "de": "Open-Air-Naturfilmvorführung auf der Freilichtbühne Prerow während der Sommersaison.",
+     "hu": "Szabadtéri természetfilm-vetítés a Freilichtbuehne Prerow színpadán a nyári szezonban.",
+     "ro": "Proiecție în aer liber de filme despre natură la Freilichtbuehne Prerow în timpul sezonului estival.",
+     "en": "Open-air nature film screening at the Freilichtbuehne Prerow during the summer season."
+    },
+    "source_url": "https://www.prerow.m-vp.de/veranstaltungen/"
+   },
+   {
+    "name": {
+     "de": "Kindersommer Prerow",
+     "hu": "Kindersommer Prerow",
+     "ro": "Kindersommer Prerow",
+     "en": "Kindersommer Prerow"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "Juli bis August",
+     "hu": "júliustól augusztusig",
+     "ro": "iulie până în august",
+     "en": "July to August"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Kinder-Sommerprogramm in Prerow mit Familientheater, Puppenspielen und interaktiven Aufführungen während der gesamten Ferienzeit.",
+     "hu": "Gyermek nyári program Prerow-ban családi színházzal, bábelőadásokkal és interaktív előadásokkal a teljes üdülési szezonban.",
+     "ro": "Program estival pentru copii în Prerow cu teatru pentru familii, spectacole de păpuși și reprezentații interactive pe tot parcursul sezonului de vacanță.",
+     "en": "Children's summer programme in Prerow with family theatre, puppet shows and interactive performances throughout the holiday season."
+    },
+    "source_url": "https://www.prerow.m-vp.de/veranstaltungen/"
+   },
+   {
+    "name": {
+     "de": "Open-air concerts at Freilichtbuehne Prerow",
+     "hu": "Open-air concerts at Freilichtbuehne Prerow",
+     "ro": "Open-air concerts at Freilichtbuehne Prerow",
+     "en": "Open-air concerts at Freilichtbuehne Prerow"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "Sommersaison (Juni bis August)",
+     "hu": "nyári szezon (június és augusztus között)",
+     "ro": "sezonul estival (iunie până în august)",
+     "en": "summer season (June to August)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Reihe von Open-Air-Konzerten auf der Freilichtbühne Prerow im Sommer, mit Rock-Tribute-Bands, Jazz- und Swing-Big-Band-Abenden.",
+     "hu": "Szabadtéri koncertek sorozata a Freilichtbuehne Prerow színpadán nyáron, rock tribute zenekarokkal, jazz- és swing big band estekkel.",
+     "ro": "Serie de concerte în aer liber la Freilichtbuehne Prerow în timpul verii, cu trupe tribut rock, seri de jazz și swing cu big band.",
+     "en": "Series of open-air concerts at the Freilichtbuehne Prerow during summer, including rock tribute bands, jazz and swing big-band evenings."
+    },
+    "source_url": "https://www.prerow.m-vp.de/veranstaltungen/konzert-rock-pop/"
    }
   ]
  }

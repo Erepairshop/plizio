@@ -5,42 +5,102 @@
   "country": "Turkey",
   "events": [
    {
-    "name": "Kaş International Film Festival (Kaş Film Fest)",
+    "name": {
+     "de": "Kaş International Film Festival (Kaş Film Fest)",
+     "hu": "Kaş International Film Festival (Kaş Film Fest)",
+     "ro": "Kaş International Film Festival (Kaş Film Fest)",
+     "en": "Kaş International Film Festival (Kaş Film Fest)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in June; 5th edition scheduled for June 2026, with the award ceremony at the ancient Antiphellos Theatre in Kaş",
+    "when": {
+     "de": "jährlich im Juni; die 5. Ausgabe ist für Juni 2026 geplant, mit der Preisverleihung im antiken Antiphellos-Theater in Kaş",
+     "hu": "évente júniusban; az 5. kiadás 2026 júniusára tervezett, a díjátadó az ókori Antiphellosz színházban, Kaşban",
+     "ro": "anual în iunie; cea de-a 5-a ediție programată pentru iunie 2026, cu ceremonia de premiere la anticul Teatru Antiphellos din Kaş",
+     "en": "annually in June; 5th edition scheduled for June 2026, with the award ceremony at the ancient Antiphellos Theatre in Kaş"
+    },
     "date": "",
-    "blurb": "Annual film festival supported by Türkiye's Ministry of Culture and Tourism and Kaş Municipality, featuring screenings, finalist Q&A sessions and an award ceremony at the 2,000-year-old Antiphellos ancient theatre. Held in Kaş town, roughly 30 km from Patara Beach.",
+    "blurb": {
+     "de": "Jährliches Filmfestival, unterstützt vom türkischen Ministerium für Kultur und Tourismus und der Gemeinde Kaş, mit Vorführungen, Frage-und-Antwort-Runden mit Finalisten und einer Preisverleihung im 2000 Jahre alten antiken Theater von Antiphellos. Findet in der Stadt Kaş statt, etwa 30 km vom Patara-Strand entfernt.",
+     "hu": "Éves filmfesztivál, amelyet Törökország Kulturális és Turisztikai Minisztériuma és Kaş önkormányzata támogat, vetítésekkel, döntős kérdés-felelet szekciókkal és díjátadóval a 2000 éves ókori Antiphellosz színházban. Kaş városában kerül megrendezésre, körülbelül 30 km-re Patara strandtól.",
+     "ro": "Festival anual de film susținut de Ministerul Culturii și Turismului din Turcia și de Primăria Kaş, cu proiecții, sesiuni de întrebări și răspunsuri cu finaliștii și o ceremonie de premiere la anticul teatru Antiphellos, vechi de 2000 de ani. Are loc în orașul Kaş, la aproximativ 30 km de plaja Patara.",
+     "en": "Annual film festival supported by Türkiye's Ministry of Culture and Tourism and Kaş Municipality, featuring screenings, finalist Q&A sessions and an award ceremony at the 2,000-year-old Antiphellos ancient theatre. Held in Kaş town, roughly 30 km from Patara Beach."
+    },
     "source_url": "https://filmfreeway.com/KasFF",
     "image_url": ""
    },
    {
-    "name": "International Lycia Kaş Culture and Art Festival",
+    "name": {
+     "de": "International Lycia Kaş Kultur- und Kunstfestival",
+     "hu": "Nemzetközi Lükiai Kaş Kulturális és Művészeti Fesztivál",
+     "ro": "Festivalul Internațional de Cultură și Artă Lycia Kaş",
+     "en": "International Lycia Kaş Culture and Art Festival"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually in late June (typically around 25-27 June); organised by Kaş Municipality",
+    "when": {
+     "de": "jährlich Ende Juni (typischerweise um den 25.–27. Juni); organisiert von der Gemeinde Kaş",
+     "hu": "évente június végén (jellemzően június 25–27. körül); Kaş önkormányzata szervezi",
+     "ro": "anual la sfârșitul lunii iunie (de obicei în jurul datei de 25–27 iunie); organizat de Primăria Kaş",
+     "en": "annually in late June (typically around 25-27 June); organised by Kaş Municipality"
+    },
     "date": "",
-    "blurb": "Three-day cultural and arts festival organised by Kaş Municipality with concerts, performances and cultural events celebrating the Lycian region. Held in Kaş town, the nearest district centre to Patara Beach.",
+    "blurb": {
+     "de": "Dreitägiges Kultur- und Kunstfestival, organisiert von der Gemeinde Kaş, mit Konzerten, Aufführungen und kulturellen Veranstaltungen, die die lykische Region feiern. Findet in der Stadt Kaş statt, dem nächstgelegenen Bezirkszentrum zum Patara-Strand.",
+     "hu": "Háromnapos kulturális és művészeti fesztivál, amelyet Kaş önkormányzata szervez, koncertekkel, előadásokkal és kulturális eseményekkel, amelyek a lükiai régiót ünneplik. Kaş városában kerül megrendezésre, amely a legközelebbi járási központ Patara strandhoz.",
+     "ro": "Festival cultural și artistic de trei zile organizat de Primăria Kaş, cu concerte, spectacole și evenimente culturale care celebrează regiunea Licia. Are loc în orașul Kaş, cel mai apropiat centru districtual de plaja Patara.",
+     "en": "Three-day cultural and arts festival organised by Kaş Municipality with concerts, performances and cultural events celebrating the Lycian region. Held in Kaş town, the nearest district centre to Patara Beach."
+    },
     "source_url": "https://www.kas.bel.tr/",
     "image_url": ""
    },
    {
-    "name": "Kaş Jazz Festival (Kaş Caz Festivali)",
+    "name": {
+     "de": "Kaş Jazz Festival (Kaş Caz Festivali)",
+     "hu": "Kaş Jazz Fesztivál (Kaş Caz Festivali)",
+     "ro": "Kaş Jazz Festival (Kaş Caz Festivali)",
+     "en": "Kaş Jazz Festival (Kaş Caz Festivali)"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in late August (around the last weekend; recent editions on 23-25 August) at Setur Kaş Marina",
+    "when": {
+     "de": "jährlich Ende August (um das letzte Wochenende; die letzten Ausgaben fanden vom 23. bis 25. August statt) im Setur Kaş Marina",
+     "hu": "évente augusztus végén (az utolsó hétvégén; a legutóbbi kiadások augusztus 23–25-én voltak) a Setur Kaş Marinában",
+     "ro": "anual la sfârșitul lunii august (în jurul ultimului weekend; edițiile recente pe 23–25 august) la Setur Kaş Marina",
+     "en": "annually in late August (around the last weekend; recent editions on 23-25 August) at Setur Kaş Marina"
+    },
     "date": "",
-    "blurb": "Annual open-air jazz festival held at the Setur Marina in Kaş, featuring Turkish and international jazz acts. Kaş is the nearest town district to Patara Beach.",
+    "blurb": {
+     "de": "Jährliches Open-Air-Jazzfestival im Setur Marina in Kaş mit türkischen und internationalen Jazzkünstlern. Kaş ist der nächstgelegene Bezirk zum Patara-Strand.",
+     "hu": "Éves szabadtéri jazzfesztivál a Setur Marinában, Kaşban, török és nemzetközi jazz előadókkal. Kaş a legközelebbi városi járás Patara strandhoz.",
+     "ro": "Festival anual de jazz în aer liber desfășurat la Setur Marina din Kaş, cu artiști de jazz turci și internaționali. Kaş este cel mai apropiat district urban de plaja Patara.",
+     "en": "Annual open-air jazz festival held at the Setur Marina in Kaş, featuring Turkish and international jazz acts. Kaş is the nearest town district to Patara Beach."
+    },
     "source_url": "http://www.kascazfestivali.com/",
     "image_url": ""
    },
    {
-    "name": "International Meis-to-Kaş Swimming and Canoe Contest",
+    "name": {
+     "de": "Internationaler Meis-nach-Kaş Schwimm- und Kanuwettbewerb",
+     "hu": "Nemzetközi Meis–Kaş Úszó- és Kenuverseny",
+     "ro": "Concursul Internațional de Înot și Canoe Meis–Kaş",
+     "en": "International Meis-to-Kaş Swimming and Canoe Contest"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "annual cross-border open-water swim and canoe race from the Greek island of Meis (Kastellorizo) to Kaş harbour, about 7.5 km",
+    "when": {
+     "de": "jährliches grenzüberschreitendes Freiwasserschwimmen und Kanurennen von der griechischen Insel Meis (Kastellorizo) zum Hafen von Kaş, etwa 7,5 km",
+     "hu": "éves határokon átnyúló nyílt vízi úszó- és kenuvetélkedő a görög Meis (Kastellorizo) szigetéről Kaş kikötőjébe, körülbelül 7,5 km",
+     "ro": "concurs anual transfrontalier de înot în ape deschise și canoe de pe insula grecească Meis (Kastellorizo) până în portul Kaş, aproximativ 7,5 km",
+     "en": "annual cross-border open-water swim and canoe race from the Greek island of Meis (Kastellorizo) to Kaş harbour, about 7.5 km"
+    },
     "date": "",
-    "blurb": "Annual open-water swimming and canoeing contest crossing roughly 7.5 km from the Greek island of Kastellorizo (Meis) to Kaş harbour, symbolising Greek-Turkish friendship. Based in Kaş town.",
+    "blurb": {
+     "de": "Jährlicher Freiwasserschwimm- und Kanuwettbewerb über etwa 7,5 km von der griechischen Insel Kastellorizo (Meis) zum Hafen von Kaş, der die griechisch-türkische Freundschaft symbolisiert. Findet in der Stadt Kaş statt.",
+     "hu": "Éves nyílt vízi úszó- és kenuvetélkedő, amely körülbelül 7,5 km-t tesz meg a görög Kastellorizo (Meis) szigetétől Kaş kikötőjéig, szimbolizálva a görög–török barátságot. Kaş városában zajlik.",
+     "ro": "Concurs anual de înot în ape deschise și canoe care traversează aproximativ 7,5 km de pe insula grecească Kastellorizo (Meis) până în portul Kaş, simbolizând prietenia greco-turcă. Se desfășoară în orașul Kaş.",
+     "en": "Annual open-water swimming and canoeing contest crossing roughly 7.5 km from the Greek island of Kastellorizo (Meis) to Kaş harbour, symbolising Greek-Turkish friendship. Based in Kaş town."
+    },
     "source_url": "",
     "image_url": ""
    }
@@ -52,52 +112,127 @@
   "country": "Turkey",
   "events": [
    {
-    "name": "Antalya Golden Orange Film Festival (Altın Portakal)",
+    "name": {
+     "de": "Antalya Golden Orange Film Festival (Altın Portakal)",
+     "hu": "Antalya Golden Orange Film Festival (Altın Portakal)",
+     "ro": "Antalya Golden Orange Film Festival (Altın Portakal)",
+     "en": "Antalya Golden Orange Film Festival (Altın Portakal)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in early October; 59th edition 1-8 October 2026",
+    "when": {
+     "de": "jährlich Anfang Oktober; 59. Ausgabe 1.-8. Oktober 2026",
+     "hu": "évente október elején; 59. kiadás 2026. október 1-8.",
+     "ro": "anual la începutul lunii octombrie; ediția a 59-a, 1-8 octombrie 2026",
+     "en": "annually in early October; 59th edition 1-8 October 2026"
+    },
     "date": "2026-10-01",
-    "blurb": "Turkey's oldest and most prestigious film festival, held annually in Antalya with screenings, an awards gala and open-air events in the city centre near Konyaaltı.",
+    "blurb": {
+     "de": "Das älteste und renommierteste Filmfestival der Türkei, jährlich in Antalya mit Vorführungen, einer Preisverleihung und Open-Air-Veranstaltungen im Stadtzentrum nahe Konyaaltı.",
+     "hu": "Törökország legrégebbi és legrangosabb filmfesztiválja, évente Antalyában, vetítésekkel, díjátadó gálával és szabadtéri eseményekkel a városközpontban, Konyaaltı közelében.",
+     "ro": "Cel mai vechi și mai prestigios festival de film din Turcia, desfășurat anual la Antalya, cu proiecții, o gală de premiere și evenimente în aer liber în centrul orașului, lângă Konyaaltı.",
+     "en": "Turkey's oldest and most prestigious film festival, held annually in Antalya with screenings, an awards gala and open-air events in the city centre near Konyaaltı."
+    },
     "source_url": "https://en.wikipedia.org/wiki/Antalya_Golden_Orange_Film_Festival",
     "image_url": ""
    },
    {
-    "name": "Antalya Akra Jazz Festival",
+    "name": {
+     "de": "Antalya Akra Jazz Festival",
+     "hu": "Antalya Akra Jazz Festival",
+     "ro": "Antalya Akra Jazz Festival",
+     "en": "Antalya Akra Jazz Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in late May to June; 9th edition 5-20 June 2026",
+    "when": {
+     "de": "jährlich Ende Mai bis Juni; 9. Ausgabe 5.-20. Juni 2026",
+     "hu": "évente május végétől júniusig; 9. kiadás 2026. június 5-20.",
+     "ro": "anual de la sfârșitul lunii mai până în iunie; ediția a 9-a, 5-20 iunie 2026",
+     "en": "annually in late May to June; 9th edition 5-20 June 2026"
+    },
     "date": "2026-06-05",
-    "blurb": "An annual jazz festival bringing world-renowned and local jazz musicians to Antalya for open-air concerts over several weeks in the early summer.",
+    "blurb": {
+     "de": "Ein jährliches Jazzfestival, das weltbekannte und lokale Jazzmusiker nach Antalya bringt, mit Open-Air-Konzerten über mehrere Wochen im Frühsommer.",
+     "hu": "Éves jazzfesztivál, amely világhírű és helyi jazzzenészeket hoz Antalyába, szabadtéri koncertekkel több héten át, kora nyáron.",
+     "ro": "Un festival anual de jazz care aduce muzicieni de jazz de renume mondial și locali la Antalya, cu concerte în aer liber pe parcursul mai multor săptămâni la începutul verii.",
+     "en": "An annual jazz festival bringing world-renowned and local jazz musicians to Antalya for open-air concerts over several weeks in the early summer."
+    },
     "source_url": "https://akrajazz.com/en/akra-jazz-festival/",
     "image_url": ""
    },
    {
-    "name": "Antalya Culture Road Festival (Antalya Kültür Yolu Festivali)",
+    "name": {
+     "de": "Antalya Culture Road Festival (Antalya Kültür Yolu Festivali)",
+     "hu": "Antalya Culture Road Festival (Antalya Kültür Yolu Festivali)",
+     "ro": "Antalya Culture Road Festival (Antalya Kültür Yolu Festivali)",
+     "en": "Antalya Culture Road Festival (Antalya Kültür Yolu Festivali)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually as part of Turkey's nationwide Culture Road Festival (2026 series runs April-November); Antalya leg includes free concerts and events on Konyaaltı Beach",
+    "when": {
+     "de": "jährlich als Teil des landesweiten Culture Road Festivals der Türkei (Serie 2026 läuft von April bis November); der Antalya-Teil umfasst kostenlose Konzerte und Veranstaltungen am Konyaaltı-Strand",
+     "hu": "évente, Törökország országos Culture Road Fesztiváljának részeként (a 2026-os sorozat áprilistól novemberig tart); az antalyai szakasz ingyenes koncerteket és eseményeket foglal magában a Konyaaltı strandon",
+     "ro": "anual, ca parte a Festivalului național Culture Road al Turciei (seria 2026 se desfășoară din aprilie până în noiembrie); etapa Antalya include concerte gratuite și evenimente pe plaja Konyaaltı",
+     "en": "annually as part of Turkey's nationwide Culture Road Festival (2026 series runs April-November); Antalya leg includes free concerts and events on Konyaaltı Beach"
+    },
     "date": "",
-    "blurb": "Part of Turkey's nationwide Culture Road Festival, the Antalya edition stages free concerts, art and gastronomy events, with Konyaaltı Beach (Konyaaltı Sahili) used as one of the main open-air venues.",
+    "blurb": {
+     "de": "Teil des landesweiten Culture Road Festivals der Türkei; die Antalya-Ausgabe bietet kostenlose Konzerte, Kunst- und Gastronomieveranstaltungen, wobei der Konyaaltı-Strand (Konyaaltı Sahili) als einer der Haupt-Open-Air-Veranstaltungsorte genutzt wird.",
+     "hu": "Törökország országos Culture Road Fesztiváljának része; az antalyai kiadás ingyenes koncerteket, művészeti és gasztronómiai eseményeket kínál, a Konyaaltı strand (Konyaaltı Sahili) az egyik fő szabadtéri helyszínként szolgál.",
+     "ro": "Parte a Festivalului național Culture Road al Turciei; ediția Antalya organizează concerte gratuite, evenimente de artă și gastronomie, plaja Konyaaltı (Konyaaltı Sahili) fiind una dintre principalele locații în aer liber.",
+     "en": "Part of Turkey's nationwide Culture Road Festival, the Antalya edition stages free concerts, art and gastronomy events, with Konyaaltı Beach (Konyaaltı Sahili) used as one of the main open-air venues."
+    },
     "source_url": "https://kulturyolufestivali.com/antalya-kultur-yolu-festivali",
     "image_url": ""
    },
    {
-    "name": "Konyaaltı Beach Park Summer Concerts",
+    "name": {
+     "de": "Konyaaltı Beach Park Summer Concerts",
+     "hu": "Konyaaltı Beach Park Summer Concerts",
+     "ro": "Konyaaltı Beach Park Summer Concerts",
+     "en": "Konyaaltı Beach Park Summer Concerts"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually throughout the summer season (roughly June-September), open-air concerts along the Konyaaltı seafront and Beach Park",
+    "when": {
+     "de": "jährlich während der gesamten Sommersaison (etwa Juni bis September), Open-Air-Konzerte entlang der Konyaaltı-Uferpromenade und im Beach Park",
+     "hu": "évente a teljes nyári szezonban (nagyjából júniustól szeptemberig), szabadtéri koncertek a Konyaaltı tengerparton és a Beach Parkban",
+     "ro": "anual pe tot parcursul sezonului estival (aproximativ iunie-septembrie), concerte în aer liber de-a lungul falezei Konyaaltı și în Beach Park",
+     "en": "annually throughout the summer season (roughly June-September), open-air concerts along the Konyaaltı seafront and Beach Park"
+    },
     "date": "",
-    "blurb": "Throughout the summer the Konyaaltı seafront and Beach Park host a regular series of open-air concerts by Turkish pop and other performers, right beside the beach.",
+    "blurb": {
+     "de": "Während des Sommers veranstalten die Konyaaltı-Uferpromenade und der Beach Park eine regelmäßige Reihe von Open-Air-Konzerten mit türkischen Pop- und anderen Künstlern, direkt am Strand.",
+     "hu": "A nyár folyamán a Konyaaltı tengerpart és a Beach Park rendszeres szabadtéri koncertsorozatot tart török pop- és más előadókkal, közvetlenül a strand mellett.",
+     "ro": "Pe parcursul verii, faleza Konyaaltı și Beach Park găzduiesc o serie regulată de concerte în aer liber cu artiști pop turci și alți interpreți, chiar lângă plajă.",
+     "en": "Throughout the summer the Konyaaltı seafront and Beach Park host a regular series of open-air concerts by Turkish pop and other performers, right beside the beach."
+    },
     "source_url": "https://biletinial.com/tr-tr/mekan/konyaalti-beach-park",
     "image_url": ""
    },
    {
-    "name": "Commemoration of Atatürk (10 November)",
+    "name": {
+     "de": "Gedenken an Atatürk (10. November)",
+     "hu": "Atatürk megemlékezés (november 10.)",
+     "ro": "Comemorarea lui Atatürk (10 noiembrie)",
+     "en": "Commemoration of Atatürk (10 November)"
+    },
     "type": "commemoration",
     "recurring": true,
-    "when": "annually on 10 November at 09:05",
+    "when": {
+     "de": "jährlich am 10. November um 09:05 Uhr",
+     "hu": "évente november 10-én, 09:05-kor",
+     "ro": "anual pe 10 noiembrie, la ora 09:05",
+     "en": "annually on 10 November at 09:05"
+    },
     "date": "2026-11-10",
-    "blurb": "Nationwide and locally observed commemoration of Mustafa Kemal Atatürk, marked across Antalya with a moment of silence and ceremonies on the anniversary of his death.",
+    "blurb": {
+     "de": "Landesweit und lokal begangenes Gedenken an Mustafa Kemal Atatürk, das in ganz Antalya mit einer Schweigeminute und Zeremonien am Jahrestag seines Todes markiert wird.",
+     "hu": "Országos és helyi megemlékezés Mustafa Kemal Atatürkről, amelyet Antalya-szerte egyperces néma csenddel és szertartásokkal tartanak halálának évfordulóján.",
+     "ro": "Comemorare națională și locală a lui Mustafa Kemal Atatürk, marcată în toată Antalya printr-un moment de reculegere și ceremonii la aniversarea morții sale.",
+     "en": "Nationwide and locally observed commemoration of Mustafa Kemal Atatürk, marked across Antalya with a moment of silence and ceremonies on the anniversary of his death."
+    },
     "source_url": "https://thisisantalya.com/commemorating-ataturk/",
     "image_url": ""
    }
@@ -109,32 +244,77 @@
   "country": "Turkey",
   "events": [
    {
-    "name": "International Lycia-Kaş Culture and Art Festival",
+    "name": {
+     "de": "Internationales Lycia-Kaş Kultur- und Kunstfestival",
+     "hu": "Nemzetközi Lükia-Kaş Kulturális és Művészeti Fesztivál",
+     "ro": "Festivalul Internațional de Cultură și Artă Lichia-Kaş",
+     "en": "International Lycia-Kaş Culture and Art Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually towards the end of June (held since 1997); typically around 25-27 June",
+    "when": {
+     "de": "jährlich gegen Ende Juni (seit 1997); in der Regel um den 25.–27. Juni",
+     "hu": "évente június végén (1997 óta); általában június 25–27. körül",
+     "ro": "anual spre sfârșitul lunii iunie (organizat din 1997); de obicei în jurul datei de 25–27 iunie",
+     "en": "annually towards the end of June (held since 1997); typically around 25-27 June"
+    },
     "date": "",
-    "blurb": "Long-running festival organised by the Kaş Municipality together with the Greek island of Kastellorizo (Meis), featuring folk dance, music, a swimming race and cross-border friendship events. Held in Kaş town, the nearest locality to Kaputaş Beach.",
+    "blurb": {
+     "de": "Langjähriges Festival, organisiert von der Gemeinde Kaş zusammen mit der griechischen Insel Kastellorizo (Meis), mit Volkstanz, Musik, einem Schwimmwettbewerb und grenzüberschreitenden Freundschaftsveranstaltungen. Findet in der Stadt Kaş statt, dem nächstgelegenen Ort zum Kaputaş-Strand.",
+     "hu": "Hosszú múltra visszatekintő fesztivál, amelyet Kaş önkormányzata a görög Kastellorizo (Meis) szigettel közösen szervez, néptánccal, zenével, úszóversennyel és határokon átnyúló baráti eseményekkel. Kaş városában kerül megrendezésre, amely a Kaputaş-strandhoz legközelebbi település.",
+     "ro": "Festival de lungă durată organizat de Primăria Kaş împreună cu insula grecească Kastellorizo (Meis), cuprinzând dansuri populare, muzică, o cursă de înot și evenimente de prietenie transfrontalieră. Are loc în orașul Kaş, cea mai apropiată localitate de Plaja Kaputaş.",
+     "en": "Long-running festival organised by the Kaş Municipality together with the Greek island of Kastellorizo (Meis), featuring folk dance, music, a swimming race and cross-border friendship events. Held in Kaş town, the nearest locality to Kaputaş Beach."
+    },
     "source_url": "https://antalya.com.tr/en/festivals/Lycia-Kas-Culture-and-Art-Festival",
     "image_url": ""
    },
    {
-    "name": "Kaş International Film Festival",
+    "name": {
+     "de": "Internationales Filmfestival Kaş",
+     "hu": "Kaş Nemzetközi Filmfesztivál",
+     "ro": "Festivalul Internațional de Film de la Kaş",
+     "en": "Kaş International Film Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in June; 5th edition scheduled for June 2026",
+    "when": {
+     "de": "jährlich im Juni; 5. Ausgabe für Juni 2026 geplant",
+     "hu": "évente júniusban; az 5. kiadást 2026 júniusára tervezik",
+     "ro": "anual în iunie; cea de-a 5-a ediție programată pentru iunie 2026",
+     "en": "annually in June; 5th edition scheduled for June 2026"
+    },
     "date": "",
-    "blurb": "International film festival supported by Türkiye's Ministry of Culture and Tourism and the Municipality of Kaş, with its award ceremony held at the 2,000-year-old Antiphellos Ancient Theatre. Awarded the EFFE Label 2026-2027 by the European Festivals Association.",
+    "blurb": {
+     "de": "Internationales Filmfestival, unterstützt vom türkischen Ministerium für Kultur und Tourismus und der Gemeinde Kaş, mit Preisverleihung im 2000 Jahre alten Antiphellos-Antiktheater. Ausgezeichnet mit dem EFFE-Label 2026–2027 der Europäischen Festivalsvereinigung.",
+     "hu": "Nemzetközi filmfesztivál, amelyet Törökország Kulturális és Turisztikai Minisztériuma és Kaş önkormányzata támogat, díjátadóját a 2000 éves Antiphellos ókori színházban tartják. Elnyerte az Európai Fesztiválszövetség EFFE minősítését 2026–2027-re.",
+     "ro": "Festival internațional de film sprijinit de Ministerul Culturii și Turismului al Turciei și de Primăria Kaş, cu ceremonia de premiere desfășurată în Teatrul Antic Antiphellos, vechi de 2000 de ani. A primit eticheta EFFE 2026–2027 din partea Asociației Europene a Festivalurilor.",
+     "en": "International film festival supported by Türkiye's Ministry of Culture and Tourism and the Municipality of Kaş, with its award ceremony held at the 2,000-year-old Antiphellos Ancient Theatre. Awarded the EFFE Label 2026-2027 by the European Festivals Association."
+    },
     "source_url": "https://filmfreeway.com/KasFF",
     "image_url": ""
    },
    {
-    "name": "Kaş Jazz Festival (Kaş Caz Festivali)",
+    "name": {
+     "de": "Kaş Jazz Festival (Kaş Caz Festivali)",
+     "hu": "Kaş Jazz Fesztivál (Kaş Caz Festivali)",
+     "ro": "Festivalul de Jazz de la Kaş (Kaş Caz Festivali)",
+     "en": "Kaş Jazz Festival (Kaş Caz Festivali)"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in late August, at Kaş Setur Marina; 2025 edition ran 28-31 August",
+    "when": {
+     "de": "jährlich Ende August, im Kaş Setur Marina; die Ausgabe 2025 fand vom 28. bis 31. August statt",
+     "hu": "évente augusztus végén, a Kaş Setur Marinában; a 2025-ös kiadás augusztus 28–31. között zajlott",
+     "ro": "anual la sfârșitul lunii august, la Kaş Setur Marina; ediția 2025 a avut loc între 28 și 31 august",
+     "en": "annually in late August, at Kaş Setur Marina; 2025 edition ran 28-31 August"
+    },
     "date": "",
-    "blurb": "Jazz festival held at Kaş Setur Marina featuring prominent Turkish and international jazz musicians, with morning wellness sessions and evening concerts. In its 7th year as of 2025.",
+    "blurb": {
+     "de": "Jazzfestival im Kaş Setur Marina mit prominenten türkischen und internationalen Jazzmusikern, mit morgendlichen Wellness-Sessions und abendlichen Konzerten. Im Jahr 2025 fand die 7. Ausgabe statt.",
+     "hu": "Jazzfesztivál a Kaş Setur Marinában, neves török és nemzetközi jazzzenészekkel, reggeli wellness-foglalkozásokkal és esti koncertekkel. 2025-ben a 7. évében járt.",
+     "ro": "Festival de jazz desfășurat la Kaş Setur Marina, cu muzicieni de jazz turci și internaționali de renume, cu sesiuni matinale de wellness și concerte seara. În 2025 se afla la a 7-a ediție.",
+     "en": "Jazz festival held at Kaş Setur Marina featuring prominent Turkish and international jazz musicians, with morning wellness sessions and evening concerts. In its 7th year as of 2025."
+    },
     "source_url": "http://kascazfestivali.com/",
     "image_url": ""
    }
@@ -146,32 +326,77 @@
   "country": "Turkey",
   "events": [
    {
-    "name": "Bodrum International Ballet Festival",
+    "name": {
+     "de": "Bodrum International Ballet Festival",
+     "hu": "Bodrum International Ballet Festival",
+     "ro": "Bodrum International Ballet Festival",
+     "en": "Bodrum International Ballet Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in August",
+    "when": {
+     "de": "jährlich im August",
+     "hu": "évente augusztusban",
+     "ro": "anual în august",
+     "en": "annually in August"
+    },
     "date": "",
-    "blurb": "An annual ballet festival staged in the ancient amphitheatre and at Bodrum Castle, hosting Turkish and international companies. It has run for over two decades and typically takes place across August.",
+    "blurb": {
+     "de": "Ein jährliches Ballettfestival, das im antiken Amphitheater und auf der Burg von Bodrum stattfindet und türkische sowie internationale Compagnien präsentiert. Es läuft seit über zwei Jahrzehnten und erstreckt sich typischerweise über den gesamten August.",
+     "hu": "Éves balettfesztivál, amelyet az ókori amfiteátrumban és a Bodrumi várban rendeznek, török és nemzetközi társulatok részvételével. Több mint két évtizede működik, és általában augusztus folyamán zajlik.",
+     "ro": "Un festival anual de balet organizat în amfiteatrul antic și la Castelul Bodrum, care găzduiește companii turcești și internaționale. Se desfășoară de peste două decenii și are loc de obicei pe parcursul lunii august.",
+     "en": "An annual ballet festival staged in the ancient amphitheatre and at Bodrum Castle, hosting Turkish and international companies. It has run for over two decades and typically takes place across August."
+    },
     "source_url": "https://en.wikipedia.org/wiki/Bodrum_International_Ballet_Festival",
     "image_url": ""
    },
    {
-    "name": "International Gümüşlük Classical Music Festival",
+    "name": {
+     "de": "International Gümüşlük Classical Music Festival",
+     "hu": "International Gümüşlük Classical Music Festival",
+     "ro": "International Gümüşlük Classical Music Festival",
+     "en": "International Gümüşlük Classical Music Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually, summer (roughly July to September)",
+    "when": {
+     "de": "jährlich im Sommer (etwa Juli bis September)",
+     "hu": "évente nyáron (nagyjából júliustól szeptemberig)",
+     "ro": "anual, vara (aproximativ iulie până în septembrie)",
+     "en": "annually, summer (roughly July to September)"
+    },
     "date": "",
-    "blurb": "A summer classical music festival held since 2004 in the fishing village of Gümüşlük on the Bodrum Peninsula, with concerts staged in an open-air ancient stone quarry by the sea. The program spans classical, jazz and other genres over several weeks.",
+    "blurb": {
+     "de": "Ein sommerliches Klassikfestival, das seit 2004 im Fischerdorf Gümüşlük auf der Halbinsel Bodrum stattfindet. Die Konzerte werden in einem offenen antiken Steinbruch am Meer aufgeführt. Das Programm umfasst über mehrere Wochen Klassik, Jazz und andere Genres.",
+     "hu": "Nyári komolyzenei fesztivál, amelyet 2004 óta rendeznek a Bodrum-félszigeten fekvő Gümüşlük halászfaluban, a koncerteket egy tengerparti nyitott ókori kőbányában tartják. A program több héten át klasszikus zenét, jazzt és más műfajokat ölel fel.",
+     "ro": "Un festival de muzică clasică de vară, organizat din 2004 în satul pescăresc Gümüşlük de pe Peninsula Bodrum, cu concerte susținute într-o carieră antică de piatră în aer liber, lângă mare. Programul cuprinde muzică clasică, jazz și alte genuri pe parcursul mai multor săptămâni.",
+     "en": "A summer classical music festival held since 2004 in the fishing village of Gümüşlük on the Bodrum Peninsula, with concerts staged in an open-air ancient stone quarry by the sea. The program spans classical, jazz and other genres over several weeks."
+    },
     "source_url": "https://www.gumuslukfestival.org/en/festival/",
     "image_url": ""
    },
    {
-    "name": "The Bodrum Cup",
+    "name": {
+     "de": "The Bodrum Cup",
+     "hu": "The Bodrum Cup",
+     "ro": "The Bodrum Cup",
+     "en": "The Bodrum Cup"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "annually in the third week of October",
+    "when": {
+     "de": "jährlich in der dritten Oktoberwoche",
+     "hu": "évente október harmadik hetében",
+     "ro": "anual în a treia săptămână din octombrie",
+     "en": "annually in the third week of October"
+    },
     "date": "",
-    "blurb": "Turkey's iconic wooden gulet sailing regatta, held every October since 1989 and organised by the ERA Bodrum Sailing Club. Around 100 yachts race five legs over five days along the Aegean coast.",
+    "blurb": {
+     "de": "Die ikonische türkische Segelregatta für hölzerne Guleten, die seit 1989 jedes Jahr im Oktober vom ERA Bodrum Sailing Club organisiert wird. Rund 100 Yachten legen an fünf Tagen fünf Etappen entlang der Ägäisküste zurück.",
+     "hu": "Törökország ikonikus, fából készült gulet vitorlásversenye, amelyet 1989 óta minden októberben az ERA Bodrum Sailing Club szervez. Körülbelül 100 jacht versenyez öt szakaszban öt napon át az Égei-tenger partja mentén.",
+     "ro": "Regata iconică turcească de iahturi cu vele din lemn (gulet), organizată în fiecare octombrie din 1989 de ERA Bodrum Sailing Club. Aproximativ 100 de iahturi concurează pe cinci etape timp de cinci zile de-a lungul coastei egeene.",
+     "en": "Turkey's iconic wooden gulet sailing regatta, held every October since 1989 and organised by the ERA Bodrum Sailing Club. Around 100 yachts race five legs over five days along the Aegean coast."
+    },
     "source_url": "https://visitbodrum.com/en/blog/the-bodrum-cup-the-most-exciting-days-of-october-12",
     "image_url": ""
    }
@@ -183,32 +408,77 @@
   "country": "Turkey",
   "events": [
    {
-    "name": "The Bodrum Cup (International Wooden Yacht Race)",
+    "name": {
+     "de": "The Bodrum Cup (Internationales Holz-Yacht-Rennen)",
+     "hu": "The Bodrum Cup (Nemzetközi Fa Jacht Verseny)",
+     "ro": "The Bodrum Cup (Regata Internațională a Yahtelor din Lemn)",
+     "en": "The Bodrum Cup (International Wooden Yacht Race)"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "annually, third week of October",
+    "when": {
+     "de": "jährlich, dritte Oktoberwoche",
+     "hu": "évente, október harmadik hetében",
+     "ro": "anual, a treia săptămână din octombrie",
+     "en": "annually, third week of October"
+    },
     "date": "",
-    "blurb": "Organized by the ERA Bodrum Sailing Club since 1989, this five-day regatta sees over 150 traditional wooden gulets race off the Bodrum coast, accompanied by parties, a cooking competition and a prize-giving ceremony.",
+    "blurb": {
+     "de": "Organisiert vom ERA Bodrum Sailing Club seit 1989, ist dies eine fünftägige Regatta, bei der über 150 traditionelle Holz-Gulets vor der Küste von Bodrum gegeneinander antreten, begleitet von Partys, einem Kochwettbewerb und einer Preisverleihung.",
+     "hu": "Az ERA Bodrum Sailing Club által 1989 óta szervezett ötnapos regatta, ahol több mint 150 hagyományos fa gulet versenyez Bodrum partjainál, partikkal, főzőversennyel és díjátadó ünnepséggel kísérve.",
+     "ro": "Organizată de ERA Bodrum Sailing Club din 1989, această regată de cinci zile reunește peste 150 de gulete tradiționale din lemn care concurează de-a lungul coastei Bodrum, însoțită de petreceri, un concurs culinar și o ceremonie de premiere.",
+     "en": "Organized by the ERA Bodrum Sailing Club since 1989, this five-day regatta sees over 150 traditional wooden gulets race off the Bodrum coast, accompanied by parties, a cooking competition and a prize-giving ceremony."
+    },
     "source_url": "https://www.erayachting.com/bodrum-cup-en-50.asp",
     "image_url": ""
    },
    {
-    "name": "International Gümüşlük Classical Music Festival",
+    "name": {
+     "de": "Internationales Gümüşlük Klassik Musik Festival",
+     "hu": "Nemzetközi Gümüşlük Klasszikus Zenei Fesztivál",
+     "ro": "Festivalul Internațional de Muzică Clasică de la Gümüşlük",
+     "en": "International Gümüşlük Classical Music Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "2026: 7 July – 5 September",
+    "when": {
+     "de": "2026: 7. Juli – 5. September",
+     "hu": "2026: július 7. – szeptember 5.",
+     "ro": "2026: 7 iulie – 5 septembrie",
+     "en": "2026: 7 July – 5 September"
+    },
     "date": "2026-07-07",
-    "blurb": "A long summer classical music festival held across stages on the Bodrum peninsula (centered on nearby Gümüşlük), featuring around 20 concerts spanning classical, jazz and world music plus masterclasses for young musicians.",
+    "blurb": {
+     "de": "Ein langes Sommerfestival für klassische Musik, das auf Bühnen auf der Halbinsel Bodrum (mit Schwerpunkt auf dem nahegelegenen Gümüşlük) stattfindet, mit rund 20 Konzerten aus den Bereichen Klassik, Jazz und Weltmusik sowie Meisterkursen für junge Musiker.",
+     "hu": "Egy hosszú nyári klasszikus zenei fesztivál, amelyet a Bodrum-félsziget színpadain (a közeli Gümüşlük központtal) rendeznek, mintegy 20 koncerttel a klasszikus, jazz és világzene műfajában, valamint mesterkurzusokkal fiatal zenészek számára.",
+     "ro": "Un lung festival de vară de muzică clasică, desfășurat pe scene din peninsula Bodrum (centrat pe apropiata localitate Gümüşlük), cu aproximativ 20 de concerte din genurile clasic, jazz și world music, plus cursuri de măiestrie pentru tineri muzicieni.",
+     "en": "A long summer classical music festival held across stages on the Bodrum peninsula (centered on nearby Gümüşlük), featuring around 20 concerts spanning classical, jazz and world music plus masterclasses for young musicians."
+    },
     "source_url": "https://www.gumuslukfestival.org/en/",
     "image_url": ""
    },
    {
-    "name": "Bodrum International Ballet Festival",
+    "name": {
+     "de": "Bodrum Internationales Ballettfestival",
+     "hu": "Bodrum Nemzetközi Balettfesztivál",
+     "ro": "Festivalul Internațional de Balet de la Bodrum",
+     "en": "Bodrum International Ballet Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in August",
+    "when": {
+     "de": "jährlich im August",
+     "hu": "évente augusztusban",
+     "ro": "anual în august",
+     "en": "annually in August"
+    },
     "date": "",
-    "blurb": "Organized by the Turkish State Opera and Ballet since 2002, this summer festival stages classical and contemporary ballet productions at the historic Bodrum Castle and the Theatre of Halicarnassus.",
+    "blurb": {
+     "de": "Organisiert von der Türkischen Staatsoper und dem Türkischen Staatsballett seit 2002, präsentiert dieses Sommerfestival klassische und zeitgenössische Ballettproduktionen im historischen Bodrum-Schloss und im Theater von Halikarnassos.",
+     "hu": "A Török Állami Opera és Balett által 2002 óta szervezett nyári fesztivál klasszikus és kortárs balettprodukciókat mutat be a történelmi Bodrumi várban és a Halikarnasszoszi Színházban.",
+     "ro": "Organizat de Opera și Baletul de Stat Turc din 2002, acest festival de vară prezintă producții de balet clasic și contemporan la Castelul Bodrum și la Teatrul din Halicarnas.",
+     "en": "Organized by the Turkish State Opera and Ballet since 2002, this summer festival stages classical and contemporary ballet productions at the historic Bodrum Castle and the Theatre of Halicarnassus."
+    },
     "source_url": "https://en.wikipedia.org/wiki/Bodrum_International_Ballet_Festival",
     "image_url": ""
    }
@@ -220,32 +490,77 @@
   "country": "Turkey",
   "events": [
    {
-    "name": "Bartın Strawberry, Culture and Tourism Festival (Bartın Çilek, Kültür ve Turizm Festivali)",
+    "name": {
+     "de": "Bartın Erdbeer-, Kultur- und Tourismusfestival (Bartın Çilek, Kültür ve Turizm Festivali)",
+     "hu": "Bartın Eper-, Kulturális és Turisztikai Fesztivál (Bartın Çilek, Kültür ve Turizm Festivali)",
+     "ro": "Festivalul Căpșunilor, Culturii și Turismului din Bartın (Bartın Çilek, Kültür ve Turizm Festivali)",
+     "en": "Bartın Strawberry, Culture and Tourism Festival (Bartın Çilek, Kültür ve Turizm Festivali)"
+    },
     "type": "food",
     "recurring": true,
-    "when": "annually during strawberry season, late May to mid-June",
+    "when": {
+     "de": "jährlich während der Erdbeersaison, Ende Mai bis Mitte Juni",
+     "hu": "évente az eper szezonban, május végétől június közepéig",
+     "ro": "anual în timpul sezonului căpșunilor, de la sfârșitul lunii mai până la mijlocul lunii iunie",
+     "en": "annually during strawberry season, late May to mid-June"
+    },
     "date": "",
-    "blurb": "A long-running annual festival in Bartın celebrating the local strawberry harvest, with concerts, folk dance, exhibitions and strawberry-themed competitions. Running since 1982, it expanded to a week-long event in 1993.",
+    "blurb": {
+     "de": "Ein langjähriges jährliches Festival in Bartın, das die lokale Erdbeerernte feiert, mit Konzerten, Volkstanz, Ausstellungen und erdbeerbezogenen Wettbewerben. Es läuft seit 1982 und wurde 1993 auf eine Woche verlängert.",
+     "hu": "Egy régóta futó éves fesztivál Bartınban, amely a helyi epertermést ünnepli, koncertekkel, néptánccal, kiállításokkal és eper témájú versenyekkel. 1982 óta működik, 1993-ban egyhetes eseménnyé bővült.",
+     "ro": "Un festival anual de lungă durată în Bartın care sărbătorește recolta locală de căpșuni, cu concerte, dansuri populare, expoziții și concursuri tematice cu căpșuni. Se desfășoară din 1982, iar în 1993 s-a extins la un eveniment de o săptămână.",
+     "en": "A long-running annual festival in Bartın celebrating the local strawberry harvest, with concerts, folk dance, exhibitions and strawberry-themed competitions. Running since 1982, it expanded to a week-long event in 1993."
+    },
     "source_url": "https://www.bartin.bel.tr/kultur-sanat-ve-cilek-festivali-coskuyla-basladi",
     "image_url": ""
    },
    {
-    "name": "International Bartın Amasra Culture Festival (Uluslararası Bartın Amasra Kültür Festivali)",
+    "name": {
+     "de": "Internationales Bartın Amasra Kulturfestival (Uluslararası Bartın Amasra Kültür Festivali)",
+     "hu": "Nemzetközi Bartın Amasra Kulturális Fesztivál (Uluslararası Bartın Amasra Kültür Festivali)",
+     "ro": "Festivalul Internațional de Cultură Bartın Amasra (Uluslararası Bartın Amasra Kültür Festivali)",
+     "en": "International Bartın Amasra Culture Festival (Uluslararası Bartın Amasra Kültür Festivali)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually (folklore/culture festival on the Amasra seafront)",
+    "when": {
+     "de": "jährlich (Folklore-/Kulturfestival an der Amasra-Uferpromenade)",
+     "hu": "évente (folklór/kulturális fesztivál az amasrai tengerparti sétányon)",
+     "ro": "anual (festival de folclor/cultură pe faleza din Amasra)",
+     "en": "annually (folklore/culture festival on the Amasra seafront)"
+    },
     "date": "",
-    "blurb": "An international folklore and culture festival held on the seafront promenade in nearby Amasra, featuring folk ensembles, choirs, orchestras, brass bands and dance groups from multiple countries.",
+    "blurb": {
+     "de": "Ein internationales Folklore- und Kulturfestival auf der Uferpromenade im nahegelegenen Amasra, mit Volksensembles, Chören, Orchestern, Blaskapellen und Tanzgruppen aus mehreren Ländern.",
+     "hu": "Egy nemzetközi folklór- és kulturális fesztivál a közeli Amasra tengerparti sétányán, népi együttesekkel, kórusokkal, zenekarokkal, fúvószenekarokkal és tánccsoportokkal több országból.",
+     "ro": "Un festival internațional de folclor și cultură pe faleza din apropierea localității Amasra, cu ansambluri folclorice, coruri, orchestre, fanfare și grupuri de dans din mai multe țări.",
+     "en": "An international folklore and culture festival held on the seafront promenade in nearby Amasra, featuring folk ensembles, choirs, orchestras, brass bands and dance groups from multiple countries."
+    },
     "source_url": "https://folklorefestivals.com/festival/bartin-2/",
     "image_url": ""
    },
    {
-    "name": "Amasra International City Festival (Amasra Uluslararası Şehir Festivali)",
+    "name": {
+     "de": "Amasra Internationales Stadtfestival (Amasra Uluslararası Şehir Festivali)",
+     "hu": "Amasra Nemzetközi Városi Fesztivál (Amasra Uluslararası Şehir Festivali)",
+     "ro": "Festivalul Internațional al Orașului Amasra (Amasra Uluslararası Şehir Festivali)",
+     "en": "Amasra International City Festival (Amasra Uluslararası Şehir Festivali)"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually in late summer (late August, ~10 days)",
+    "when": {
+     "de": "jährlich im Spätsommer (Ende August, etwa 10 Tage)",
+     "hu": "évente nyár végén (augusztus vége, körülbelül 10 nap)",
+     "ro": "anual la sfârșitul verii (sfârșitul lunii august, aproximativ 10 zile)",
+     "en": "annually in late summer (late August, ~10 days)"
+    },
     "date": "",
-    "blurb": "A multi-day international city festival in nearby Amasra covering art, history, science and sport, drawing visitors to the Black Sea coastal town close to İnkumu beach.",
+    "blurb": {
+     "de": "Ein mehrtägiges internationales Stadtfestival im nahegelegenen Amasra, das Kunst, Geschichte, Wissenschaft und Sport abdeckt und Besucher in die Schwarzmeer-Küstenstadt nahe dem İnkumu-Strand lockt.",
+     "hu": "Egy többnapos nemzetközi városi fesztivál a közeli Amasrában, amely művészetet, történelmet, tudományt és sportot ölel fel, és látogatókat vonz a Fekete-tenger partján fekvő, İnkumu strandhoz közeli városba.",
+     "ro": "Un festival internațional urban de mai multe zile în apropierea localității Amasra, care acoperă arta, istoria, știința și sportul, atrăgând vizitatori în orașul de pe coasta Mării Negre, aproape de plaja İnkumu.",
+     "en": "A multi-day international city festival in nearby Amasra covering art, history, science and sport, drawing visitors to the Black Sea coastal town close to İnkumu beach."
+    },
     "source_url": "https://www.bartinhalkgazetesi.com.tr/haber/10707/amasra-uluslararasi-sehir-festivali-basladi.html",
     "image_url": ""
    }
@@ -257,42 +572,102 @@
   "country": "Turkey",
   "events": [
    {
-    "name": "Türkiye Culture Route Festival (Eskişehir)",
+    "name": {
+     "de": "Türkiye Culture Route Festival (Eskişehir)",
+     "hu": "Türkiye Culture Route Festival (Eskişehir)",
+     "ro": "Türkiye Culture Route Festival (Eskişehir)",
+     "en": "Türkiye Culture Route Festival (Eskişehir)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "2026-05-16 to 2026-05-24",
+    "when": {
+     "de": "16. Mai 2026 bis 24. Mai 2026",
+     "hu": "2026. május 16. – 2026. május 24.",
+     "ro": "16 mai 2026 – 24 mai 2026",
+     "en": "2026-05-16 to 2026-05-24"
+    },
     "date": "2026-05-16",
-    "blurb": "Eskişehir hosts the nationwide Türkiye Culture Route Festival for the first time in 2026, with 177 free events across 11 venues over nine days, spanning concerts, exhibitions, theatre and gastronomy.",
+    "blurb": {
+     "de": "Eskişehir ist 2026 erstmals Gastgeber des landesweiten Türkiye Culture Route Festivals mit 177 kostenlosen Veranstaltungen an 11 Orten über neun Tage, darunter Konzerte, Ausstellungen, Theater und Gastronomie.",
+     "hu": "Eskişehir 2026-ban először ad otthont az országos Türkiye Culture Route Fesztiválnak, amely kilenc nap alatt 177 ingyenes eseményt kínál 11 helyszínen, koncertekkel, kiállításokkal, színházzal és gasztronómiával.",
+     "ro": "Eskişehir găzduiește pentru prima dată în 2026 Festivalul Național Türkiye Culture Route, cu 177 de evenimente gratuite în 11 locații pe parcursul a nouă zile, incluzând concerte, expoziții, teatru și gastronomie.",
+     "en": "Eskişehir hosts the nationwide Türkiye Culture Route Festival for the first time in 2026, with 177 free events across 11 venues over nine days, spanning concerts, exhibitions, theatre and gastronomy."
+    },
     "source_url": "https://kulturyolufestivali.com/events",
     "image_url": ""
    },
    {
-    "name": "International Eskişehir Children and Youth Theatre Festival",
+    "name": {
+     "de": "Internationales Eskişehir Kinder- und Jugendtheaterfestival",
+     "hu": "Nemzetközi Eskişehir Gyermek- és Ifjúsági Színházi Fesztivál",
+     "ro": "Festivalul Internațional de Teatru pentru Copii și Tineret Eskişehir",
+     "en": "International Eskişehir Children and Youth Theatre Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in May",
+    "when": {
+     "de": "jährlich im Mai",
+     "hu": "évente májusban",
+     "ro": "anual în luna mai",
+     "en": "annually in May"
+    },
     "date": "",
-    "blurb": "An annual festival organised by Eskişehir Metropolitan Municipality City Theatres since 2006, bringing children's and youth theatre groups from around the world to the city, recently held together with the International Puppets of the Old City Festival.",
+    "blurb": {
+     "de": "Ein jährliches Festival, das seit 2006 von den Stadttheatern der Metropolgemeinde Eskişehir organisiert wird und Kinder- und Jugendtheatergruppen aus aller Welt in die Stadt bringt. Zuletzt fand es gemeinsam mit dem Internationalen Puppen der Altstadt Festival statt.",
+     "hu": "Éves fesztivál, amelyet 2006 óta az Eskişehir Fővárosi Önkormányzat Városi Színházai szerveznek, és gyermek- és ifjúsági színházi csoportokat hoz a világ minden tájáról a városba. Legutóbb a Nemzetközi Óvárosi Bábok Fesztiváljával együtt rendezték meg.",
+     "ro": "Un festival anual organizat de Teatrele Municipale ale Primăriei Metropolitane Eskişehir din 2006, aducând în oraș trupe de teatru pentru copii și tineret din întreaga lume. Recent, a avut loc împreună cu Festivalul Internațional al Păpușilor din Orașul Vechi.",
+     "en": "An annual festival organised by Eskişehir Metropolitan Municipality City Theatres since 2006, bringing children's and youth theatre groups from around the world to the city, recently held together with the International Puppets of the Old City Festival."
+    },
     "source_url": "https://assitej-international.org/festival/17th-international-eskisehir-children-youth-and-puppet-theatre-festival/",
     "image_url": ""
    },
    {
-    "name": "International Eskişehir Dance Festival",
+    "name": {
+     "de": "Internationales Eskişehir Tanzfestival",
+     "hu": "Nemzetközi Eskişehir Táncfesztivál",
+     "ro": "Festivalul Internațional de Dans Eskişehir",
+     "en": "International Eskişehir Dance Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "2026-02-19 to 2026-02-23",
+    "when": {
+     "de": "19. Februar 2026 bis 23. Februar 2026",
+     "hu": "2026. február 19. – 2026. február 23.",
+     "ro": "19 februarie 2026 – 23 februarie 2026",
+     "en": "2026-02-19 to 2026-02-23"
+    },
     "date": "2026-02-19",
-    "blurb": "The 13th edition of Eskişehir's annual international dance festival, presenting dance companies and performances in the city.",
+    "blurb": {
+     "de": "Die 13. Ausgabe des jährlichen internationalen Tanzfestivals von Eskişehir, das Tanzkompanien und Aufführungen in der Stadt präsentiert.",
+     "hu": "Az eskişehiri éves nemzetközi táncfesztivál 13. kiadása, amely táncegyütteseket és előadásokat mutat be a városban.",
+     "ro": "A 13-a ediție a festivalului anual internațional de dans din Eskişehir, care prezintă companii și spectacole de dans în oraș.",
+     "en": "The 13th edition of Eskişehir's annual international dance festival, presenting dance companies and performances in the city."
+    },
     "source_url": "https://festivall.com.tr/iller/26/eskisehir-festivalleri/",
     "image_url": ""
    },
    {
-    "name": "Eskişehir Coffee Festival (Kahve Festivali)",
+    "name": {
+     "de": "Eskişehir Kaffeefestival (Kahve Festivali)",
+     "hu": "Eskişehir Kávéfesztivál (Kahve Festivali)",
+     "ro": "Festivalul Cafelei din Eskişehir (Kahve Festivali)",
+     "en": "Eskişehir Coffee Festival (Kahve Festivali)"
+    },
     "type": "food",
     "recurring": true,
-    "when": "2026-05-29 to 2026-05-31",
+    "when": {
+     "de": "29. Mai 2026 bis 31. Mai 2026",
+     "hu": "2026. május 29. – 2026. május 31.",
+     "ro": "29 mai 2026 – 31 mai 2026",
+     "en": "2026-05-29 to 2026-05-31"
+    },
     "date": "2026-05-29",
-    "blurb": "An annual coffee festival in Eskişehir featuring specialty roasters, tastings and workshops over a long weekend in late May.",
+    "blurb": {
+     "de": "Ein jährliches Kaffeefestival in Eskişehir mit Spezialitätenröstern, Verkostungen und Workshops an einem langen Wochenende Ende Mai.",
+     "hu": "Éves kávéfesztivál Eskişehirben, különleges pörkölőkkel, kóstolókkal és workshopokkal egy hosszú hétvégén május végén.",
+     "ro": "Un festival anual al cafelei în Eskişehir, cu prăjitori de specialitate, degustări și ateliere, într-un weekend prelungit la sfârșitul lunii mai.",
+     "en": "An annual coffee festival in Eskişehir featuring specialty roasters, tastings and workshops over a long weekend in late May."
+    },
     "source_url": "https://festivall.com.tr/iller/26/eskisehir-festivalleri/",
     "image_url": ""
    }
@@ -304,32 +679,77 @@
   "country": "Turkey",
   "events": [
    {
-    "name": "International Alanya Triathlon",
+    "name": {
+     "de": "Internationaler Alanya Triathlon",
+     "hu": "Nemzetközi Alanya Triatlon",
+     "ro": "Triatlonul Internațional Alanya",
+     "en": "International Alanya Triathlon"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "annually in October (2026: October 24-25)",
+    "when": {
+     "de": "jährlich im Oktober (2026: 24.-25. Oktober)",
+     "hu": "évente októberben (2026: október 24-25.)",
+     "ro": "anual în octombrie (2026: 24-25 octombrie)",
+     "en": "annually in October (2026: October 24-25)"
+    },
     "date": "2026-10-24",
-    "blurb": "An international triathlon held in Alanya since 1992, featuring a swim, bike and run course along the Mediterranean coast. It is a leg of the Europe Triathlon Cup and one of Turkey's longest-running international sporting events.",
+    "blurb": {
+     "de": "Ein internationaler Triathlon, der seit 1992 in Alanya stattfindet und eine Schwimm-, Rad- und Laufstrecke entlang der Mittelmeerküste umfasst. Er ist eine Station des Europe Triathlon Cup und eine der am längsten laufenden internationalen Sportveranstaltungen der Türkei.",
+     "hu": "Egy nemzetközi triatlon, amelyet 1992 óta rendeznek Alanyában, úszás, kerékpározás és futás szakaszokkal a Földközi-tenger partja mentén. Része az Európa Triatlon Kupának, és Törökország egyik legrégebbi nemzetközi sporteseménye.",
+     "ro": "Un triatlon internațional desfășurat la Alanya din 1992, cu un traseu de înot, ciclism și alergare de-a lungul coastei mediteraneene. Este o etapă a Cupei Europei la Triatlon și unul dintre cele mai longevive evenimente sportive internaționale din Turcia.",
+     "en": "An international triathlon held in Alanya since 1992, featuring a swim, bike and run course along the Mediterranean coast. It is a leg of the Europe Triathlon Cup and one of Turkey's longest-running international sporting events."
+    },
     "source_url": "https://en.wikipedia.org/wiki/Alanya_Triathlon",
     "image_url": ""
    },
    {
-    "name": "International Alanya Jazz Festival",
+    "name": {
+     "de": "Internationales Alanya Jazz Festival",
+     "hu": "Nemzetközi Alanya Jazz Fesztivál",
+     "ro": "Festivalul Internațional de Jazz Alanya",
+     "en": "International Alanya Jazz Festival"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in late September",
+    "when": {
+     "de": "jährlich Ende September",
+     "hu": "évente szeptember végén",
+     "ro": "anual la sfârșitul lunii septembrie",
+     "en": "annually in late September"
+    },
     "date": "",
-    "blurb": "An annual jazz festival founded in 2005, staged at the historic Kizilkule (Red Tower) square beneath Alanya Castle. It has grown into an internationally recognized event drawing tens of thousands of visitors.",
+    "blurb": {
+     "de": "Ein jährliches Jazzfestival, das 2005 gegründet wurde und auf dem historischen Kizilkule-Platz (Roter Turm) unterhalb der Burg von Alanya stattfindet. Es hat sich zu einem international anerkannten Ereignis entwickelt, das Zehntausende Besucher anzieht.",
+     "hu": "Egy éves jazzfesztivál, amelyet 2005-ben alapítottak, és a történelmi Kizilkule (Vörös Torony) téren, az alanyai vár alatt rendeznek. Nemzetközileg elismert eseménnyé nőtte ki magát, amely több tízezer látogatót vonz.",
+     "ro": "Un festival anual de jazz fondat în 2005, găzduit în piața istorică Kizilkule (Turnul Roșu) de sub Castelul Alanya. A devenit un eveniment recunoscut internațional, atrăgând zeci de mii de vizitatori.",
+     "en": "An annual jazz festival founded in 2005, staged at the historic Kizilkule (Red Tower) square beneath Alanya Castle. It has grown into an internationally recognized event drawing tens of thousands of visitors."
+    },
     "source_url": "https://www.alanya.com.tr/page/international-jazz-festival",
     "image_url": ""
    },
    {
-    "name": "Alanya International Culture, Art and Tourism Festival",
+    "name": {
+     "de": "Alanya Internationales Kultur-, Kunst- und Tourismusfestival",
+     "hu": "Alanya Nemzetközi Kulturális, Művészeti és Turisztikai Fesztivál",
+     "ro": "Festivalul Internațional de Cultură, Artă și Turism Alanya",
+     "en": "Alanya International Culture, Art and Tourism Festival"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually in late May",
+    "when": {
+     "de": "jährlich Ende Mai",
+     "hu": "évente május végén",
+     "ro": "anual la sfârșitul lunii mai",
+     "en": "annually in late May"
+    },
     "date": "",
-    "blurb": "Alanya's flagship cultural festival, organized by the municipality since 2001, with free concerts, art exhibitions, traditional crafts and international performances over several days in late May.",
+    "blurb": {
+     "de": "Alanyas wichtigstes Kulturfestival, das seit 2001 von der Gemeinde organisiert wird, mit kostenlosen Konzerten, Kunstausstellungen, traditionellem Handwerk und internationalen Darbietungen über mehrere Tage Ende Mai.",
+     "hu": "Alanya zászlóshajó kulturális fesztiválja, amelyet 2001 óta a település szervez, ingyenes koncertekkel, művészeti kiállításokkal, hagyományos kézművességgel és nemzetközi előadásokkal több napon át május végén.",
+     "ro": "Festivalul cultural emblematic al Alanyei, organizat de municipalitate din 2001, cu concerte gratuite, expoziții de artă, meșteșuguri tradiționale și spectacole internaționale pe parcursul mai multor zile la sfârșitul lunii mai.",
+     "en": "Alanya's flagship cultural festival, organized by the municipality since 2001, with free concerts, art exhibitions, traditional crafts and international performances over several days in late May."
+    },
     "source_url": "https://www.visitalanya.com/23rd-alanya-international-culture-art-and-tourism-festival-2025/",
     "image_url": ""
    }
@@ -341,42 +761,102 @@
   "country": "Turkey",
   "events": [
    {
-    "name": "Golden Pigeon Music Festival (Altın Güvercin)",
+    "name": {
+     "de": "Golden Pigeon Music Festival (Altın Güvercin)",
+     "hu": "Golden Pigeon Music Festival (Altın Güvercin)",
+     "ro": "Golden Pigeon Music Festival (Altın Güvercin)",
+     "en": "Golden Pigeon Music Festival (Altın Güvercin)"
+    },
     "type": "music",
     "recurring": true,
-    "when": "annually in late summer (late August / September)",
+    "when": {
+     "de": "jährlich im Spätsommer (Ende August / September)",
+     "hu": "évente késő nyáron (augusztus vége / szeptember)",
+     "ro": "anual la sfârșitul verii (sfârșitul lunii august / septembrie)",
+     "en": "annually in late summer (late August / September)"
+    },
     "date": "",
-    "blurb": "A long-running song composition and singing competition organised by Kuşadası Municipality for over 25 years, accompanied by free concerts from well-known Turkish artists. It is Turkey's first and only composition competition and is a major summer event in Kuşadası.",
+    "blurb": {
+     "de": "Ein seit über 25 Jahren von der Gemeinde Kuşadası organisierter, traditionsreicher Liedkompositions- und Gesangswettbewerb, begleitet von kostenlosen Konzerten bekannter türkischer Künstler. Es ist der erste und einzige Kompositionswettbewerb der Türkei und ein bedeutendes Sommerereignis in Kuşadası.",
+     "hu": "Egy több mint 25 éve a Kuşadası Önkormányzat által szervezett, régóta futó dalszerző és énekverseny, amelyet ismert török művészek ingyenes koncertjei kísérnek. Ez Törökország első és egyetlen zeneszerzői versenye, és Kuşadası egyik jelentős nyári eseménye.",
+     "ro": "Un concurs de compoziție și canto de lungă durată, organizat de Primăria Kuşadası de peste 25 de ani, însoțit de concerte gratuite ale unor artiști turci cunoscuți. Este primul și singurul concurs de compoziție din Turcia și un eveniment major de vară în Kuşadası.",
+     "en": "A long-running song composition and singing competition organised by Kuşadası Municipality for over 25 years, accompanied by free concerts from well-known Turkish artists. It is Turkey's first and only composition competition and is a major summer event in Kuşadası."
+    },
     "source_url": "https://altinguvercin.com.tr/",
     "image_url": ""
    },
    {
-    "name": "Kuşadası Summer Fest (International Dance and Music Festival)",
+    "name": {
+     "de": "Kuşadası Summer Fest (Internationales Tanz- und Musikfestival)",
+     "hu": "Kuşadası Summer Fest (Nemzetközi Tánc- és Zenei Fesztivál)",
+     "ro": "Kuşadası Summer Fest (Festivalul Internațional de Dans și Muzică)",
+     "en": "Kuşadası Summer Fest (International Dance and Music Festival)"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually in June (2026: June 9-13)",
+    "when": {
+     "de": "jährlich im Juni (2026: 9.-13. Juni)",
+     "hu": "évente júniusban (2026: június 9-13.)",
+     "ro": "anual în iunie (2026: 9-13 iunie)",
+     "en": "annually in June (2026: June 9-13)"
+    },
     "date": "",
-    "blurb": "An international folklore festival bringing dance groups, choirs and music bands from around the world to perform in Kuşadası. The 12th edition is scheduled for June 2026.",
+    "blurb": {
+     "de": "Ein internationales Folklorefestival, bei dem Tanzgruppen, Chöre und Musikbands aus aller Welt in Kuşadası auftreten. Die 12. Ausgabe ist für Juni 2026 geplant.",
+     "hu": "Egy nemzetközi folklórfesztivál, amely tánccsoportokat, kórusokat és zenekarokat hoz a világ minden tájáról, hogy Kuşadasıban lépjenek fel. A 12. kiadás 2026 júniusára van tervezve.",
+     "ro": "Un festival internațional de folclor care aduce grupuri de dans, coruri și formații muzicale din întreaga lume să performeze în Kuşadası. A 12-a ediție este programată pentru iunie 2026.",
+     "en": "An international folklore festival bringing dance groups, choirs and music bands from around the world to perform in Kuşadası. The 12th edition is scheduled for June 2026."
+    },
     "source_url": "https://festival-association.eu/fest/627",
     "image_url": ""
    },
    {
-    "name": "Selçuk Camel Wrestling Festival (Deve Güreşi)",
+    "name": {
+     "de": "Selçuk Camel Wrestling Festival (Deve Güreşi)",
+     "hu": "Selçuk Camel Wrestling Festival (Deve Güreşi)",
+     "ro": "Selçuk Camel Wrestling Festival (Deve Güreşi)",
+     "en": "Selçuk Camel Wrestling Festival (Deve Güreşi)"
+    },
     "type": "cultural",
     "recurring": true,
-    "when": "annually on the third Sunday of January",
+    "when": {
+     "de": "jährlich am dritten Sonntag im Januar",
+     "hu": "évente január harmadik vasárnapján",
+     "ro": "anual în a treia duminică din ianuarie",
+     "en": "annually on the third Sunday of January"
+    },
     "date": "2026-01-18",
-    "blurb": "A traditional Turkish camel wrestling championship held near Kuşadası in the nearby town of Selçuk, drawing around 20,000 spectators and roughly 120 decorated Tülü camels. A camel beauty parade is held in the town centre the day before.",
+    "blurb": {
+     "de": "Eine traditionelle türkische Kamelringmeisterschaft nahe Kuşadası in der benachbarten Stadt Selçuk, die rund 20.000 Zuschauer und etwa 120 geschmückte Tülü-Kamele anzieht. Einen Tag zuvor findet im Stadtzentrum eine Kamel-Schönheitsparade statt.",
+     "hu": "Egy hagyományos török tevésbirkózó-bajnokság Kuşadası közelében, a szomszédos Selçuk városában, amely mintegy 20.000 nézőt és nagyjából 120 feldíszített Tülü tevét vonz. A verseny előtti napon a városközpontban teve szépségparádét tartanak.",
+     "ro": "Un campionat tradițional turcesc de lupte cu cămile, desfășurat lângă Kuşadası, în orașul vecin Selçuk, atrăgând aproximativ 20.000 de spectatori și circa 120 de cămile Tülü împodobite. Cu o zi înainte, în centrul orașului are loc o paradă a frumuseții cămilelor.",
+     "en": "A traditional Turkish camel wrestling championship held near Kuşadası in the nearby town of Selçuk, drawing around 20,000 spectators and roughly 120 decorated Tülü camels. A camel beauty parade is held in the town centre the day before."
+    },
     "source_url": "https://selcukephesus.com/events/camel-wrestling-festival/",
     "image_url": ""
    },
    {
-    "name": "Feast of the Assumption (House of the Virgin Mary)",
+    "name": {
+     "de": "Feast of the Assumption (House of the Virgin Mary)",
+     "hu": "Feast of the Assumption (House of the Virgin Mary)",
+     "ro": "Feast of the Assumption (House of the Virgin Mary)",
+     "en": "Feast of the Assumption (House of the Virgin Mary)"
+    },
     "type": "religious",
     "recurring": true,
-    "when": "annually on 15 August",
+    "when": {
+     "de": "jährlich am 15. August",
+     "hu": "évente augusztus 15-én",
+     "ro": "anual pe 15 august",
+     "en": "annually on 15 August"
+    },
     "date": "2026-08-15",
-    "blurb": "A Catholic pilgrimage and Mass commemorating the Assumption of the Virgin Mary, celebrated each 15 August at the House of the Virgin Mary near Selçuk/Ephesus, close to Kuşadası.",
+    "blurb": {
+     "de": "Eine katholische Pilgerreise und Messe zum Gedenken an die Aufnahme Mariens in den Himmel, die jedes Jahr am 15. August im Haus der Jungfrau Maria bei Selçuk/Ephesus, nahe Kuşadası, gefeiert wird.",
+     "hu": "Egy katolikus zarándoklat és szentmise Szűz Mária mennybevétele emlékére, amelyet minden év augusztus 15-én tartanak a Szűz Mária háza közelében, Selçuk/Efezus mellett, Kuşadası közelében.",
+     "ro": "Un pelerinaj catolic și o slujbă de comemorare a Adormirii Maicii Domnului, celebrată în fiecare an pe 15 august la Casa Fecioarei Maria de lângă Selçuk/Efes, aproape de Kuşadası.",
+     "en": "A Catholic pilgrimage and Mass commemorating the Assumption of the Virgin Mary, celebrated each 15 August at the House of the Virgin Mary near Selçuk/Ephesus, close to Kuşadası."
+    },
     "source_url": "",
     "image_url": ""
    }
@@ -388,22 +868,52 @@
   "country": "Turkey",
   "events": [
    {
-    "name": "Sarıgerme Kite Festival",
+    "name": {
+     "de": "Sarıgerme Kite Festival",
+     "hu": "Sarıgerme Kite Festival",
+     "ro": "Sarıgerme Kite Festival",
+     "en": "Sarıgerme Kite Festival"
+    },
     "type": "festival",
     "recurring": true,
-    "when": "annually, first Sunday of May",
+    "when": {
+     "de": "jährlich, am ersten Sonntag im Mai",
+     "hu": "évente, május első vasárnapján",
+     "ro": "anual, în prima duminică din mai",
+     "en": "annually, first Sunday of May"
+    },
     "date": "",
-    "blurb": "An annual community kite festival held on Sarıgerme's long sandy public beach, where people of all ages fly hundreds of colourful kites. Running roughly 11am to 5pm, it has been held since 2005 and includes environmental-awareness activities for children.",
+    "blurb": {
+     "de": "Ein jährliches Gemeinschafts-Drachenfest am langen, sandigen öffentlichen Strand von Sarıgerme, bei dem Menschen jeden Alters Hunderte bunter Drachen steigen lassen. Es findet etwa von 11 bis 17 Uhr statt, wird seit 2005 veranstaltet und beinhaltet Umweltbewusstseinsaktivitäten für Kinder.",
+     "hu": "Éves közösségi sárkányfesztivál Sarıgerme hosszú, homokos nyilvános strandján, ahol minden korosztály több száz színes sárkányt reptet. Körülbelül 11 és 17 óra között zajlik, 2005 óta rendezik meg, és gyermekek számára környezettudatossági tevékenységeket is tartalmaz.",
+     "ro": "Un festival anual comunitar de zmee pe plaja lungă și nisipoasă publică din Sarıgerme, unde oameni de toate vârstele zboară sute de zmee colorate. Se desfășoară aproximativ între orele 11:00 și 17:00, are loc din 2005 și include activități de conștientizare ecologică pentru copii.",
+     "en": "An annual community kite festival held on Sarıgerme's long sandy public beach, where people of all ages fly hundreds of colourful kites. Running roughly 11am to 5pm, it has been held since 2005 and includes environmental-awareness activities for children."
+    },
     "source_url": "https://www.livetheworld.com/post/fun-in-the-sky-sarigerme-kite-festival-06lt",
     "image_url": ""
    },
    {
-    "name": "Beach Wrestling World Series – Sarıgerme",
+    "name": {
+     "de": "Beach Wrestling World Series – Sarıgerme",
+     "hu": "Beach Wrestling World Series – Sarıgerme",
+     "ro": "Beach Wrestling World Series – Sarıgerme",
+     "en": "Beach Wrestling World Series – Sarıgerme"
+    },
     "type": "sport",
     "recurring": true,
-    "when": "held in late May (2022) and mid-October (2023) at Sarıgerme Beach",
+    "when": {
+     "de": "Ende Mai (2022) und Mitte Oktober (2023) am Sarıgerme Beach",
+     "hu": "május végén (2022) és október közepén (2023) a Sarıgerme strandon",
+     "ro": "la sfârșitul lunii mai (2022) și la mijlocul lunii octombrie (2023) pe plaja Sarıgerme",
+     "en": "held in late May (2022) and mid-October (2023) at Sarıgerme Beach"
+    },
     "date": "",
-    "blurb": "Sarıgerme Beach is an established stop on the United World Wrestling Beach Wrestling World Series, having hosted the 2018 World Championships and World Series legs in 2022 and 2023 with dozens of male and female wrestlers from many nations competing on the sand.",
+    "blurb": {
+     "de": "Der Sarıgerme Beach ist ein etablierter Austragungsort der United World Wrestling Beach Wrestling World Series, der 2018 die Weltmeisterschaften sowie 2022 und 2023 World-Series-Etappen ausrichtete, mit Dutzenden männlichen und weiblichen Ringern aus vielen Nationen, die auf dem Sand gegeneinander antraten.",
+     "hu": "A Sarıgerme strand a United World Wrestling Beach Wrestling World Series egyik bejáratott állomása, amely 2018-ban a világbajnokságnak, 2022-ben és 2023-ban pedig World Series-állomásoknak adott otthont, ahol több tucat férfi és női birkózó versenyzett a homokon számos nemzetből.",
+     "ro": "Plaja Sarıgerme este o oprire consacrată pe circuitul Beach Wrestling World Series al United World Wrestling, găzduind Campionatele Mondiale din 2018 și etape ale World Series în 2022 și 2023, cu zeci de luptători și luptătoare din multe națiuni concurând pe nisip.",
+     "en": "Sarıgerme Beach is an established stop on the United World Wrestling Beach Wrestling World Series, having hosted the 2018 World Championships and World Series legs in 2022 and 2023 with dozens of male and female wrestlers from many nations competing on the sand."
+    },
     "source_url": "https://beachwrestling.org/events/2023/turkey-mugla-sarigerme-beach",
     "image_url": ""
    }

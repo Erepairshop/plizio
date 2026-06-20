@@ -1,1 +1,952 @@
-{}
+{
+ "apelviken": {
+  "beach": "Apelviken",
+  "town": "Varberg",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": {
+     "de": "Apelviken Wine Festival",
+     "hu": "Apelviken Wine Festival",
+     "ro": "Apelviken Wine Festival",
+     "en": "Apelviken Wine Festival"
+    },
+    "type": "food",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende August",
+     "hu": "évente augusztus végén",
+     "ro": "anual la sfârșitul lunii august",
+     "en": "annually late August"
+    },
+    "date": "2026-08-29",
+    "blurb": {
+     "de": "Weinverkostung bei Destination Apelviken mit Weinen aus verschiedenen Ländern. Geöffnet von 11:00 bis 17:00 Uhr.",
+     "hu": "Borkóstoló esemény a Destination Apelvikenben, különböző országok boraival. 11:00 és 17:00 között tart.",
+     "ro": "Eveniment de degustare de vinuri la Destination Apelviken, cu vinuri din diverse țări. Se desfășoară între 11:00 și 17:00.",
+     "en": "Wine tasting event held at Destination Apelviken featuring wines from various countries. Runs from 11:00 to 17:00."
+    },
+    "source_url": "https://www.apelviken.se/vinfestival?lang=en"
+   },
+   {
+    "name": {
+     "de": "Circus Olympia am Apelviken",
+     "hu": "Circus Olympia az Apelvikenben",
+     "ro": "Circus Olympia la Apelviken",
+     "en": "Circus Olympia at Apelviken"
+    },
+    "type": "culture",
+    "recurring": false,
+    "when": {
+     "de": "03.07.2026 bis 05.07.2026",
+     "hu": "2026-07-03-tól 2026-07-05-ig",
+     "ro": "03.07.2026 până la 05.07.2026",
+     "en": "2026-07-03 to 2026-07-05"
+    },
+    "date": "2026-07-03",
+    "blurb": {
+     "de": "Zirkusvorstellungen mit schwedischen und internationalen Künstlern bei Destination Apelviken Anfang Juli 2026.",
+     "hu": "Cirkuszi előadások svéd és nemzetközi előadókkal a Destination Apelvikenben 2026 július elején.",
+     "ro": "Spectacole de circ cu artiști suedezi și internaționali la Destination Apelviken la începutul lunii iulie 2026.",
+     "en": "Circus shows with Swedish and international performers staged at Destination Apelviken in early July 2026."
+    },
+    "source_url": "https://www.apelviken.se/event?lang=en"
+   },
+   {
+    "name": {
+     "de": "Oktoberfest am Apelviken",
+     "hu": "Oktoberfest az Apelvikenben",
+     "ro": "Oktoberfest la Apelviken",
+     "en": "Oktoberfest at Apelviken"
+    },
+    "type": "food",
+    "recurring": true,
+    "when": {
+     "de": "jährlich September",
+     "hu": "évente szeptemberben",
+     "ro": "anual în septembrie",
+     "en": "annually September"
+    },
+    "date": "2026-09-19",
+    "blurb": {
+     "de": "Bayerisches Bierfest im Zirkuszelt am Apelviken mit traditionellem Mitsingen und Trachten. Findet am 19. und 26. September 2026 statt.",
+     "hu": "Bajor tematikájú sörfesztivál egy cirkuszi sátorban az Apelvikenben, hagyományos közös énekléssel és népviselettel. 2026. szeptember 19-én és 26-án kerül megrendezésre.",
+     "ro": "Eveniment berăresc cu tematică bavareză într-un cort de circ la Apelviken, cu cântece tradiționale și costume populare. Are loc pe 19 și 26 septembrie 2026.",
+     "en": "Bavarian-themed beer event held in a circus tent at Apelviken with traditional sing-alongs and folk dress. Held on 19 and 26 September 2026."
+    },
+    "source_url": "https://www.apelviken.se/event?lang=en"
+   },
+   {
+    "name": {
+     "de": "Music at Solviken",
+     "hu": "Music at Solviken",
+     "ro": "Music at Solviken",
+     "en": "Music at Solviken"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "während des Sommers 2026",
+     "hu": "2026 nyarán át",
+     "ro": "pe tot parcursul verii 2026",
+     "en": "throughout summer 2026"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Eine Reihe von Live-Musik-Aufführungen, die über die Sommersaison bei Solviken in Apelviken stattfinden.",
+     "hu": "Élőzenei előadások sorozata a nyári szezonban a Solvikenben, Apelvikenben.",
+     "ro": "O serie de spectacole de muzică live programate pe parcursul sezonului estival la Solviken în Apelviken.",
+     "en": "A series of live music performances scheduled across the summer season at Solviken in Apelviken."
+    },
+    "source_url": "https://www.apelviken.se/event?lang=en"
+   },
+   {
+    "name": {
+     "de": "Cykelsmaker Fahrradtour",
+     "hu": "Cykelsmaker kerékpártúra",
+     "ro": "Turul cu bicicleta Cykelsmaker",
+     "en": "Cykelsmaker bike tour"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Mai",
+     "hu": "évente május végén",
+     "ro": "anual la sfârșitul lunii mai",
+     "en": "annually late May"
+    },
+    "date": "2026-05-23",
+    "blurb": {
+     "de": "Geführte Radtour zu kleinen lokalen Lebensmittel- und Getränkeproduzenten im südlichen Varberg, startend im Gebiet Apelviken.",
+     "hu": "Vezetett kerékpártúra a helyi kistermelők élelmiszer- és italtermékeihez Dél-Varbergben, az Apelviken területéről indulva.",
+     "ro": "Tur ghidat cu bicicleta către producători locali de alimente și băuturi la scară mică din sudul Varberg, pornind din zona Apelviken.",
+     "en": "Guided cycling tour of small-scale local food and drink producers in southern Varberg, starting from the Apelviken area."
+    },
+    "source_url": "https://www.apelviken.se/event?lang=en"
+   }
+  ]
+ },
+ "ardrestranden": {
+  "beach": "Ardrestranden",
+  "town": "Ljugarn",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": {
+     "de": "Ljugarn Triathlon",
+     "hu": "Ljugarn Triathlon",
+     "ro": "Ljugarn Triathlon",
+     "en": "Ljugarn Triathlon"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich, letzter Samstag im Juli",
+     "hu": "évente, július utolsó szombatján",
+     "ro": "anual, ultima sâmbătă din iulie",
+     "en": "annually, last Saturday in July"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein lokaler Triathlon in Ljugarn mit einem Freiwasserschwimmen im Meer von etwa 500 Metern, 18 km Radfahren und 4,5 km Laufen. Er findet seit 2008 am letzten Samstag im Juli statt und erfordert keine Voranmeldung.",
+     "hu": "Helyi triatlon Ljugarnban, nyílt vízi tengeri úszással (kb. 500 méter), 18 km kerékpározással és 4,5 km futással. 2008 óta minden év júliusának utolsó szombatján rendezik, és nem igényel előzetes regisztrációt.",
+     "ro": "Un triatlon local desfășurat în Ljugarn, cu o înot în mare deschisă de aproximativ 500 de metri, 18 km de ciclism și 4,5 km de alergare. Se organizează în ultima sâmbătă din iulie din 2008 și nu necesită înregistrare prealabilă.",
+     "en": "A local triathlon held in Ljugarn with an open-water sea swim of about 500 metres, 18 km cycling and 4.5 km running. It has been run on the last Saturday of July since 2008 and requires no pre-registration."
+    },
+    "source_url": "https://ljugarn.wixsite.com/ljugarntriathlon/about"
+   },
+   {
+    "name": {
+     "de": "Midsommarfirande på Strandcafét",
+     "hu": "Midsommarfirande på Strandcafét",
+     "ro": "Midsommarfirande på Strandcafét",
+     "en": "Midsommarfirande på Strandcafét"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am Mittsommerabend (Juni)",
+     "hu": "évente Szent Iván-éjjel (június)",
+     "ro": "anual în Ajunul Solstițiului de Vară (iunie)",
+     "en": "annually on Midsummer Eve (June)"
+    },
+    "date": "2026-06-19",
+    "blurb": {
+     "de": "Traditionelles Mittsommerfest am Strandcafé von Ljugarn mit Maibaum, Volksmusiker, Gesang, Tanz und Spielen, sowie Ponyreiten für Kinder und einem Mittsommer-Mittagessen. Das Schmücken des Maibaums beginnt um 11:30 Uhr, der Tanz um 12:30 Uhr.",
+     "hu": "Hagyományos szentivánéji ünnepség Ljugarn strandkávézójában, májusfával, népzenésszel, énekléssel, tánccal és játékokkal, valamint pónilovaglással gyerekeknek és szentivánéji ebéddel. A májusfa díszítése 11:30-kor, a tánc 12:30-kor kezdődik.",
+     "ro": "Sărbătoare tradițională de Midsummer la cafeneaua de pe plajă din Ljugarn, cu un stâlp de mai, muzician popular, cântat, dans și jocuri, plus plimbări cu ponei pentru copii și un prânz de Midsummer. Decorarea stâlpului începe la 11:30, iar dansul la 12:30.",
+     "en": "Traditional midsummer celebration at Ljugarn's beach cafe with a maypole, folk musician, singing, dancing and games, plus pony rides for children and a midsummer lunch. Pole decorating starts at 11:30 and dancing at 12:30."
+    },
+    "source_url": "https://ljugarn.se/evenemang/midsommarfirande/"
+   },
+   {
+    "name": {
+     "de": "Beachvolleycup Ljugarn",
+     "hu": "Beachvolleycup Ljugarn",
+     "ro": "Beachvolleycup Ljugarn",
+     "en": "Beachvolleycup Ljugarn"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "Juli (Woche 29)",
+     "hu": "július (29. hét)",
+     "ro": "iulie (săptămâna 29)",
+     "en": "July (week 29)"
+    },
+    "date": "2026-07-18",
+    "blurb": {
+     "de": "Gemischtes Vierer-Beachvolleyballturnier am Ljugarns Strandcafe, etwa von 09:00 bis 17:00 Uhr, mit einer Startgebühr von 200 Kronen. Am Abend folgt ein DJ-Set (Club After Volley).",
+     "hu": "Vegyes négyfős strandröplabda-torna a Ljugarns Strandcaféban, körülbelül 09:00 és 17:00 között, 200 koronás nevezési díjjal. Este DJ-szett (Club After Volley) következik.",
+     "ro": "Turneu mixt de volei pe plajă în patru persoane la Ljugarns Strandcafe, desfășurat aproximativ între 09:00 și 17:00, cu o taxă de înscriere de 200 de coroane. Seara urmează un set DJ (Club After Volley).",
+     "en": "Mixed four-person beach volleyball tournament at Ljugarns Strandcafe, running roughly 09:00 to 17:00 with a registration fee of 200 kr. A DJ set (Club After Volley) follows in the evening."
+    },
+    "source_url": "https://www.strandcafe.se/events/"
+   },
+   {
+    "name": {
+     "de": "Barnfestivalen Ljugarn",
+     "hu": "Barnfestivalen Ljugarn",
+     "ro": "Barnfestivalen Ljugarn",
+     "en": "Barnfestivalen Ljugarn"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "2026-08-15",
+     "hu": "2026-08-15",
+     "ro": "2026-08-15",
+     "en": "2026-08-15"
+    },
+    "date": "2026-08-15",
+    "blurb": {
+     "de": "Ein Kinderfestival in Ljugarn mit Live-Musik, Hüpfburgen, Bastelarbeiten, einem Angelteich, Trommeln, Geschichtenerzählen und einem Rätselspaziergang. Es findet im Strandbereich des Dorfes statt.",
+     "hu": "Gyermekfesztivál Ljugarnban, élőzenével, ugrálóvárakkal, kézműves foglalkozásokkal, horgásztóval, dobolással, mesemondással és rejtvénysétával. A falu strandterületén kerül megrendezésre.",
+     "ro": "Un festival pentru copii în Ljugarn, cu muzică live, castele gonflabile, meșteșuguri, un iaz de pescuit, tobe, povești și o plimbare cu ghicitori. Are loc în zona de plajă a satului.",
+     "en": "A children's festival in Ljugarn with live music, bouncy castles, crafts, a fishing pond, drumming, storytelling and a riddle walk. It is held in the beach area of the village."
+    },
+    "source_url": "https://www.strandcafe.se/events/"
+   }
+  ]
+ },
+ "bla-lagunen-munson": {
+  "beach": "Bla Lagunen Munson",
+  "town": "Munsö",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": {
+     "de": "Adelsö-Munsö Derby",
+     "hu": "Adelsö-Munsö derbi",
+     "ro": "Derby-ul Adelsö-Munsö",
+     "en": "Adelsö-Munsö derby"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am Tag nach Mittsommer (Ende Juni)",
+     "hu": "évente, Szent Iván napja utáni napon (június vége)",
+     "ro": "anual, în ziua de după Midsummer (sfârșitul lunii iunie)",
+     "en": "annually the day after Midsummer (late June)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Traditionelles lokales Sportderby zwischen den benachbarten Inseln Adelsö und Munsö, ausgetragen um 13:00 Uhr am Tag nach Mittsommer.",
+     "hu": "Hagyományos helyi sportderbi a szomszédos Adelsö és Munsö szigetek között, 13:00 órakor a Szent Iván napja utáni napon.",
+     "ro": "Derby sportiv local tradițional între insulele vecine Adelsö și Munsö, desfășurat la ora 13:00 în ziua de după Midsummer.",
+     "en": "Traditional local sports derby between the neighbouring islands of Adelsö and Munsö, held at 13:00 on the day after Midsummer."
+    },
+    "source_url": "https://www.mitti.se/nyheter/fullt-av-midsommarfiranden-pa-malaroarna-6.3.303077.1ea95f83ea"
+   },
+   {
+    "name": {
+     "de": "Midsommarfirande på Adelsö festplats",
+     "hu": "Midsommarfirande på Adelsö festplats",
+     "ro": "Midsommarfirande på Adelsö festplats",
+     "en": "Midsommarfirande på Adelsö festplats"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am Mittsommerabend (Mitte/Ende Juni)",
+     "hu": "évente Szent Iván éjjelén (június közepe/vége)",
+     "ro": "anual, în ajunul Midsummer (mijlocul/sfârșitul lunii iunie)",
+     "en": "annually on Midsummer's Eve (mid/late June)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Mittsommerfeier auf dem Festplatz der Nachbarinsel Adelsö mit Tanz um den Maibaum, Café, Luftgewehrschießen, Glücksrad und Angelteich von 12:00 bis 15:00 Uhr. Eintritt 40 Kronen, Kinder bis 12 Jahre frei.",
+     "hu": "Szent Iván-napi ünnepség a szomszédos Adelsö sziget fesztiválterén, tánc a májusfa körül, kávézó, légpuskalövészet, szerencsekerék és horgásztó 12:00 és 15:00 között. Belépő 40 korona, 12 év alatti gyermekeknek ingyenes.",
+     "ro": "Sărbătoarea Midsummer pe terenul de festival al insulei vecine Adelsö, cu dans în jurul stâlpului de mai, cafenea, tir cu pușca cu aer comprimat, roata norocului și iaz de pescuit între 12:00 și 15:00. Intrarea costă 40 de coroane, gratuit pentru copiii până la 12 ani.",
+     "en": "Midsummer celebration on the festival ground of neighbouring Adelsö island with dancing around the maypole, café, air rifle shooting, chocolate wheel and fishing pond from 12:00 to 15:00. Entry is 40 kronor, free for children up to 12."
+    },
+    "source_url": "https://www.mitti.se/nyheter/fullt-av-midsommarfiranden-pa-malaroarna-6.3.303077.1ea95f83ea"
+   }
+  ]
+ },
+ "gorvalnsbadet": {
+  "beach": "Gorvalnsbadet",
+  "town": "Järfälla",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": {
+     "de": "Nationaldagsfirande auf Görväln (Nationalfeiertag am Görväln)",
+     "hu": "Nationaldagsfirande på Görväln (Nemzeti ünnep Görvälnben)",
+     "ro": "Nationaldagsfirande på Görväln (Sărbătoarea Zilei Naționale la Görväln)",
+     "en": "Nationaldagsfirande på Görväln (National Day celebration at Görväln)"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am 6. Juni",
+     "hu": "évente, június 6-án",
+     "ro": "anual, pe 6 iunie",
+     "en": "annually on 6 June"
+    },
+    "date": "2026-06-06",
+    "blurb": {
+     "de": "Die Gemeinde Järfälla feiert den Nationalfeiertag im Schlosspark von Görväln, demselben Uferbereich wie Görvälnsbadet, von 12:00 bis 15:30 Uhr. Die kostenlose Veranstaltung umfasst ein Bühnenprogramm, einen Markt, Flohmarkt, Schafhütevorführungen, Ponyreiten, geführte Parkrundgänge und Segelaktivitäten.",
+     "hu": "Järfälla község a Görvälni kastélyparkban tartja nemzeti ünnepét, ugyanazon a vízparti területen, ahol a Görvälnsbadet is található, 12:00 és 15:30 között. Az ingyenes esemény színpadi programot, piacot, bolhapiacot, juhterelő bemutatókat, pónilovaglást, vezetett parktúrákat és vitorlás tevékenységeket foglal magában.",
+     "ro": "Municipalitatea Järfälla organizează sărbătoarea Zilei Naționale în parcul castelului de la Görväln, aceeași zonă de pe malul apei ca Görvälnsbadet, între orele 12:00 și 15:30. Evenimentul gratuit include un program pe scenă, o piață, târg de vechituri, demonstrații de păstorit cu oi, plimbări cu ponei, tururi ghidate ale parcului și activități de navigație.",
+     "en": "Järfälla municipality holds its National Day celebration in the castle park at Görväln, the same waterfront area as Görvälnsbadet, from 12:00 to 15:30. The free event includes a stage program, a market, flea market, sheep herding demonstrations, pony rides, guided park tours and sailing activities."
+    },
+    "source_url": "https://www.jarfalla.se/nyheter/nyheter/artiklar/nationaldagsfirandepagorvaln2026.5.10826f2f1969f53320d3bd19.html"
+   },
+   {
+    "name": {
+     "de": "Görvälns julmarknad (Görväln Weihnachtsmarkt)",
+     "hu": "Görvälns julmarknad (Görvälni karácsonyi vásár)",
+     "ro": "Görvälns julmarknad (Târgul de Crăciun de la Görväln)",
+     "en": "Görvälns julmarknad (Görväln Christmas Market)"
+    },
+    "type": "market",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am zweiten Adventswochenende im Dezember",
+     "hu": "évente, december második adventi hétvégéjén",
+     "ro": "anual, în al doilea weekend de Advent din decembrie",
+     "en": "annually on the second Advent weekend in December"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Das Görvälns slott, neben Görvälnsbadet im Naturschutzgebiet Görväln, veranstaltet jedes Jahr am zweiten Advent einen Weihnachtsmarkt. Auf dem Schlossgelände am Mälaren-See verkaufen Stände Kunsthandwerk, Speisen und saisonale Waren.",
+     "hu": "A Görvälns slott, a Görvälnsbadet mellett a Görväln természetvédelmi területen, minden évben a második adventkor karácsonyi vásárt rendez. A Mälaren-tó partján lévő kastély területén standok kézműves termékeket, ételeket és szezonális árukat árusítanak.",
+     "ro": "Castelul Görvälns slott, lângă Görvälnsbadet, în rezervația naturală Görväln, găzduiește anual un târg de Crăciun în al doilea weekend de Advent. Tarabele vând produse artizanale, mâncare și bunuri sezoniere pe terenul castelului, lângă lacul Mälaren.",
+     "en": "Görvälns slott, next to Görvälnsbadet in the Görväln nature reserve, hosts an annual Christmas market on the second Advent. Stalls sell crafts, food and seasonal goods on the castle grounds by Lake Mälaren."
+    },
+    "source_url": "https://ateljeandrummet.se/gorvalnlammens-julmarknad-vid-gorvalns-slott-i-jarfalla-den-2a-advent/"
+   }
+  ]
+ },
+ "kallhallsbadet": {
+  "beach": "Kallhallsbadet",
+  "town": "Kallhäll, Järfälla",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": {
+     "de": "Järfällafestivalen",
+     "hu": "Järfällafestivalen",
+     "ro": "Järfällafestivalen",
+     "en": "Järfällafestivalen"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Anfang September, Ausgabe 2026 am Samstag, 5. September",
+     "hu": "évente szeptember elején, a 2026-os kiadás szombaton, szeptember 5-én",
+     "ro": "anual la începutul lunii septembrie, ediția 2026 sâmbătă, 5 septembrie",
+     "en": "annually in early September; 2026 edition Saturday 5 September"
+    },
+    "date": "2026-09-05",
+    "blurb": {
+     "de": "Das jährliche Gemeinschaftsfest der Gemeinde Järfälla mit Musik, kulturellen Darbietungen, Marktständen, Imbisswagen und Familienaktivitäten. Findet im Riddarparken und auf dem Tornerparkeringen im Jakobsbergs centrum statt, in derselben Gemeinde wie Kallhällsbadet, mit freiem Eintritt.",
+     "hu": "Järfälla község éves közösségi fesztiválja zenével, kulturális előadásokkal, piaci standokkal, ételkocsikkal és családi programokkal. A Riddarparkenben és a Tornerparkeringenben kerül megrendezésre a Jakobsbergs centrumban, ugyanabban a községben, ahol a Kallhällsbadet található, ingyenes belépéssel.",
+     "ro": "Festivalul anual al comunității din municipiul Järfälla, cu muzică, spectacole culturale, tarabe de piață, camioane cu mâncare și activități pentru familie. Are loc în Riddarparken și Tornerparkeringen din centrul Jakobsberg, în același municipiu ca și Kallhällsbadet, cu intrare liberă.",
+     "en": "Järfälla municipality's annual community festival with music, cultural performances, market stalls, food trucks and family activities. Held in Riddarparken and Tornerparkeringen in Jakobsbergs centrum, in the same municipality as Kallhällsbadet, with free admission."
+    },
+    "source_url": "https://www.jarfalla.se/fritidochkultur/kulturochnojen/jarfallafestivalen.4.3f3e90c8188b3c4768836ca.html"
+   }
+  ]
+ },
+ "laholm-bay-beach": {
+  "beach": "Laholm Bay Beach",
+  "town": "Mellbystrand",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": {
+     "de": "Sandstock Festival",
+     "hu": "Sandstock Festival",
+     "ro": "Sandstock Festival",
+     "en": "Sandstock Festival"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Mitte Juli, Ausgabe 2026 am 17. und 18. Juli",
+     "hu": "évente július közepén, a 2026-os kiadás július 17-18.",
+     "ro": "anual la mijlocul lunii iulie, ediția 2026 pe 17-18 iulie",
+     "en": "annually mid-July; 2026 edition 17-18 July"
+    },
+    "date": "2026-07-17",
+    "blurb": {
+     "de": "Strandmusikfestival in Mellbystrand an der Küste der Laholm-Bucht mit Live-Künstlern, Beachvolleyball und Afterpartys. Die Ausgabe 2026 findet am Freitag, den 17. und Samstag, den 18. Juli in der Birger Pers väg 6 in Mellbystrand statt.",
+     "hu": "Strandi zenei fesztivál Mellbystrandban, a Laholm-öböl partján, élő előadókkal, strandröplabdával és afterpartykkal. A 2026-os kiadás július 17-én, pénteken és 18-án, szombaton kerül megrendezésre a Birger Pers väg 6 alatt, Mellbystrandban.",
+     "ro": "Festival de muzică pe plajă desfășurat în Mellbystrand, pe malul golfului Laholm, cu artiști live, volei pe plajă și afterparty-uri. Ediția 2026 are loc vineri, 17 și sâmbătă, 18 iulie, pe strada Birger Pers väg 6 din Mellbystrand.",
+     "en": "Beach music festival held in Mellbystrand on the Laholm Bay shoreline with live artists, beach volleyball and afterparties. The 2026 edition runs Friday 17 and Saturday 18 July at Birger Pers vag 6 in Mellbystrand."
+    },
+    "source_url": "https://www.sandstockfestival.se/"
+   },
+   {
+    "name": {
+     "de": "Midsommarrocken",
+     "hu": "Midsommarrocken",
+     "ro": "Midsommarrocken",
+     "en": "Midsommarrocken"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "jährlich um Mittsommer, 2026 ab dem 19. Juni",
+     "hu": "évente a nyári napforduló környékén, 2026-tól június 19-én",
+     "ro": "anual în jurul solstițiului de vară, 2026 de la 19 iunie",
+     "en": "annually around Midsummer; 2026 from 19 June"
+    },
+    "date": "2026-06-19",
+    "blurb": {
+     "de": "Rockmusik-Wochenende nahe Mellbystrand in der Gemeinde Laholm um Mittsommer mit Bands wie Knogjarn, Sister, Liv Sin und Volter. Für die Ausgabe 2026 werden Ein- und Zweitageskarten angeboten.",
+     "hu": "Rockzenei hétvége Mellbystrand közelében, Laholm községben, a nyári napforduló környékén, olyan zenekarokkal, mint a Knogjarn, Sister, Liv Sin és Volter. A 2026-os kiadásra egynapos és kétnapos jegyeket kínálnak.",
+     "ro": "Weekend de muzică rock lângă Mellbystrand, în comuna Laholm, în jurul solstițiului de vară, cu trupe precum Knogjarn, Sister, Liv Sin și Volter. Pentru ediția 2026 se oferă bilete de o zi și de două zile.",
+     "en": "Rock music weekend held near Mellbystrand in Laholm municipality around Midsummer, with bands such as Knogjarn, Sister, Liv Sin and Volter. One-day and two-day tickets are offered for the 2026 edition."
+    },
+    "source_url": "https://happeningnext.com/event/midsommarrocken-2026-eid3a0dglaogm"
+   },
+   {
+    "name": {
+     "de": "Midsommarfirande vid Mellbystrands camping",
+     "hu": "Midsommarfirande vid Mellbystrands camping",
+     "ro": "Midsommarfirande vid Mellbystrands camping",
+     "en": "Midsommarfirande vid Mellbystrands camping"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am Mittsommerabend, 2026 am 19. Juni",
+     "hu": "évente a nyári napforduló előestéjén, 2026-ban június 19-én",
+     "ro": "anual în Ajunul solstițiului de vară, 2026 pe 19 iunie",
+     "en": "annually on Midsummer's Eve; 2026 on 19 June"
+    },
+    "date": "2026-06-19",
+    "blurb": {
+     "de": "Traditionelle schwedische Mittsommerfeier mit Tanz um den Maibaum, veranstaltet auf dem Campingplatz Mellbystrands an der Norra Strandvägen, direkt am Strand der Laholm-Bucht. Gelistet unter den öffentlichen Mittsommerveranstaltungen in der Gemeinde Laholm.",
+     "hu": "Hagyományos svéd nyári napforduló ünnepség tánccal a májusfa körül, a Mellbystrands camping területén, a Norra Strandvägenen, közvetlenül a Laholm-öböl partján. Szerepel a Laholm község nyilvános nyári napforduló eseményei között.",
+     "ro": "Sărbătoare tradițională suedeză a solstițiului de vară cu dans în jurul stâlpului de mai, organizată la campingul Mellbystrands de pe strada Norra Strandvägen, direct pe plaja golfului Laholm. Listată printre evenimentele publice de solstițiu de vară din comuna Laholm.",
+     "en": "Traditional Swedish Midsummer celebration with dancing around the maypole arranged at Mellbystrands camping on Norra Strandvagen, directly by the Laholm Bay beach. Listed among the public Midsummer events in Laholm municipality."
+    },
+    "source_url": "https://visitlaholm.se/uppleva-och-gora/guider/midsommarfirande-2025"
+   }
+  ]
+ },
+ "las-palmas-gotska-sandon": {
+  "beach": "Las Palmas Gotska Sandon",
+  "town": "Gotska Sandön (Fårö parish, Gotland Municipality)",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": "Dagsresa till Gotska Sandön med gudstjänst (Fårö församling)",
+    "type": "culture",
+    "recurring": true,
+    "when": "2026-07-26",
+    "date": "2026-07-26",
+    "blurb": "Fårö parish, which Gotska Sandön belongs to, organises a day trip to the island with hiking, swimming and an outdoor church service. The cost is 500 SEK and participants bring their own packed lunch.",
+    "source_url": "https://www.svenskakyrkan.se/norragotland/aktiviteter-pa-gotska-sandon"
+   },
+   {
+    "name": "Pilgrimsvandring på Gotska Sandön",
+    "type": "culture",
+    "recurring": true,
+    "when": "2026-08-26 to 2026-08-30",
+    "date": "2026-08-26",
+    "blurb": "A multi-day pilgrimage walk on the island led by priest Johan Sunnerstam, running 26 to 30 August 2026. The 2000 SEK fee covers the boat trip, meals and tent accommodation, with registration required by 24 June.",
+    "source_url": "https://www.svenskakyrkan.se/norragotland/aktiviteter-pa-gotska-sandon"
+   },
+   {
+    "name": "Guidad fyrvisning, Gotska Sandön (twin iron lighthouses)",
+    "type": "culture",
+    "recurring": true,
+    "when": "during the visitor season, roughly late May to early September",
+    "date": "",
+    "blurb": "Guests staying overnight on the island can join guided tours of the 1859 twin iron lighthouses, learning about the lighthouse keepers and climbing up for the view. The tours run during the visitor season when the ferry to Las Palmas beach operates.",
+    "source_url": "https://www.sjofartsverket.se/en/about-us/fyrar-och-kulturfastigheter/visningsfyrar/gotska-sandon--twin-lighthouses-made-of-iron/"
+   },
+   {
+    "name": "Sälsafari vid Säludden",
+    "type": "seasonal",
+    "recurring": true,
+    "when": "during the visitor season, roughly late May to early September",
+    "date": "",
+    "blurb": "A guided excursion to Säludden where visitors view grey seals resting on the rocks through peepholes in a screen so as not to disturb them. It runs during the island's visitor season.",
+    "source_url": "https://www.sverigesnationalparker.se/upptack-nationalparkerna/gotska-sandon/att-gora-i-parken/aktiviteter"
+   }
+  ]
+ },
+ "laxsjon-ekero-kommun": {
+  "beach": "Laxsjon Ekero Kommun",
+  "town": "Munsö, Ekerö Municipality",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": {
+     "de": "Traditionelles Mittsommerfest, Färingsö Hembygdsgård",
+     "hu": "Hagyományos midsommar-ünnepség, Färingsö Hembygdsgård",
+     "ro": "Sărbătoarea tradițională de Midsommar, Färingsö Hembygdsgård",
+     "en": "Traditionellt midsommarfirande, Färingsö Hembygdsgård"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am Mittsommerabend (2026: 19. Juni)",
+     "hu": "évente midsommar előestéjén (2026: június 19.)",
+     "ro": "anual în Ajunul Solstițiului de Vară (2026: 19 iunie)",
+     "en": "annually on Midsummer's Eve (2026: June 19)"
+    },
+    "date": "2026-06-19",
+    "blurb": {
+     "de": "Der Färingsö Hembygdsförening veranstaltet sein jährliches traditionelles Mittsommerfest auf dem historischen Bauernhof in der Gemeinde Ekerö mit Maibaumtanz, Reigentänzen, Musik, einem Café und einer Tombola. Der Maibaum wird am Vorabend geschmückt und aufgestellt, der Eintritt ist frei.",
+     "hu": "A Färingsö Hembygdsförening éves hagyományos midsommar-ünnepségét tartja az örökségi tanyán Ekerö községben, májusfa-tánccal, körtáncokkal, zenével, kávézóval és tombolával. A májusfát az előző este díszítik fel és állítják fel, a belépés ingyenes.",
+     "ro": "Asociația Färingsö Hembygdsförening organizează anual sărbătoarea tradițională de Midsommar la ferma istorică din comuna Ekerö, cu dans în jurul stâlpului de mai, dansuri în cerc, muzică, o cafenea și o tombolă. Stâlpul de mai este decorat și ridicat în seara precedentă, iar intrarea este liberă.",
+     "en": "Färingsö Hembygdsförening holds its annual traditional midsummer celebration at the heritage farm in Ekerö Municipality, with maypole dancing, ring dances, music, a café and a lottery. The maypole is decorated and raised the evening before and entry is free."
+    },
+    "source_url": "http://www.ekeroguiden.se/kalendariet/faringso-traditionellt-midsommarfirande"
+   }
+  ]
+ },
+ "norsta-aurar": {
+  "beach": "Norsta Aurar",
+  "town": "Fårö",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": {
+     "de": "Bergman Week (Bergmanveckan)",
+     "hu": "Bergman Week (Bergmanveckan)",
+     "ro": "Bergman Week (Bergmanveckan)",
+     "en": "Bergman Week (Bergmanveckan)"
+    },
+    "type": "culture",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende Juni; Ausgabe 2026 vom 22. bis 26. Juni",
+     "hu": "évente június végén; a 2026-os kiadás június 22–26.",
+     "ro": "anual la sfârșitul lunii iunie; ediția 2026, 22–26 iunie",
+     "en": "annually in late June; 2026 edition 22-26 June"
+    },
+    "date": "2026-06-22",
+    "blurb": {
+     "de": "Jährliches Film- und Kulturfestival auf Fårö zu Ehren von Ingmar Bergman, organisiert vom Bergman Center, mit Filmvorführungen, Seminaren und Führungen zu Drehorten auf der Insel. Die Ausgabe 2026 ist die 22. und findet vom 22. bis 26. Juni statt.",
+     "hu": "Éves film- és kulturfesztivál Fårö szigetén Ingmar Bergman tiszteletére, a Bergman Center szervezésében, filmvetítésekkel, szemináriumokkal és vezetett túrákkal a sziget forgatási helyszíneire. A 2026-os kiadás a 22., amelyet június 22–26. között tartanak.",
+     "ro": "Festival anual de film și cultură pe insula Fårö, în cinstea lui Ingmar Bergman, organizat de Bergman Center, cu proiecții de filme, seminarii și tururi ghidate la locațiile de filmare de pe insulă. Ediția 2026 este a 22-a, desfășurată între 22 și 26 iunie.",
+     "en": "Annual film and culture festival on Fårö celebrating Ingmar Bergman, organised by the Bergman Center, with film screenings, seminars and guided tours to filming locations on the island. The 2026 edition is the 22nd, held 22-26 June."
+    },
+    "source_url": "https://bergmancenter.se/en/bergman-week"
+   },
+   {
+    "name": {
+     "de": "Fårönatta",
+     "hu": "Fårönatta",
+     "ro": "Fårönatta",
+     "en": "Fårönatta"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich im September; findet an einem Samstag statt (19. September)",
+     "hu": "évente szeptemberben; szombaton tartják (szeptember 19.)",
+     "ro": "anual în septembrie; are loc într-o sâmbătă (19 septembrie)",
+     "en": "annually in September; held on a Saturday (19 September)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Inselweiter Abend auf Fårö, organisiert von Fårö Framtid, mit Hofläden, Cafés, Konzerten, Kunstausstellungen und Märkten auf der ganzen Insel sowie einem kostenlosen Shuttlebus, der alle 30 Minuten verkehrt. Findet an einem Samstag im September statt.",
+     "hu": "Sziget-szerte nyitott este Fårö szigetén, a Fårö Framtid szervezésében, tanyaboltokkal, kávézókkal, koncertekkel, művészeti kiállításokkal és piacokkal a szigeten, valamint ingyenes shuttle busszal, amely 30 percenként közlekedik. Szombaton tartják szeptemberben.",
+     "ro": "Seară deschisă pe întreaga insulă Fårö, organizată de Fårö Framtid, cu magazine fermiere, cafenele, concerte, expoziții de artă și piețe deschise pe insulă și un autobuz shuttle gratuit care circulă la fiecare 30 de minute. Are loc într-o sâmbătă din septembrie.",
+     "en": "Island-wide open evening on Fårö organised by Fårö Framtid, with farm shops, cafes, concerts, art exhibitions and markets open across the island and a free shuttle bus running every 30 minutes. Held on a Saturday in September."
+    },
+    "source_url": "https://gotland.com/events/faronatta/"
+   }
+  ]
+ },
+ "public-beach-galo-skalaker": {
+  "beach": "Public Beach Galo Skalaker",
+  "town": "Gålö, Haninge Municipality",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": {
+     "de": "Midsommarfirande på Gålö Havsbad",
+     "hu": "Midsommarfirande på Gålö Havsbad",
+     "ro": "Midsommarfirande på Gålö Havsbad",
+     "en": "Midsommarfirande på Gålö Havsbad"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am Mittsommerabend (Juni); 2026 am Freitag, 19. Juni",
+     "hu": "évente Szent Iván éjjelén (június); 2026-ban június 19-én, pénteken",
+     "ro": "anual în noaptea de Midsummer (iunie); în 2026, vineri, 19 iunie",
+     "en": "annually on Midsummer's Eve (June); in 2026 on Friday June 19"
+    },
+    "date": "2026-06-19",
+    "blurb": {
+     "de": "Gålö Havsbad veranstaltet eine jährliche Mittsommerfeier am Strandbereich mit Aufstellen und Tanzen um den Maibaum zu Live-Musik, einem Pfannkuchen-Wettessen, Sackhüpfen, Tauziehen und einer Tombola. Das Restaurant ist geöffnet und es wird den ganzen Tag über gegrillt.",
+     "hu": "A Gålö Havsbad éves midsommar-ünnepséget tart a strand területén, amely magában foglalja a májusfa felállítását és körbetáncolását élőzenére, palacsintaevő versenyt, zsákban futást, kötélhúzást és tombolát. Az étterem nyitva van, és egész nap grilleznek.",
+     "ro": "Gålö Havsbad organizează o sărbătoare anuală de Midsummer în zona de plajă, cu ridicarea și dansul în jurul stâlpului de mai pe muzică live, un concurs de mâncat clătite, curse în saci, tras de frânghie și o tombolă. Restaurantul este deschis și se grătește pe tot parcursul zilei.",
+     "en": "Gålö Havsbad holds an annual midsummer celebration at the beach area with raising and dancing around the maypole to live music, a pancake-eating contest, sack races, tug-of-war and a lottery. The restaurant is open and food is grilled throughout the day."
+    },
+    "source_url": "https://galohavsbad.se/evenemang/midsommar/"
+   },
+   {
+    "name": {
+     "de": "Valborg (Walpurgisnacht) på Gålö Havsbad",
+     "hu": "Valborg (Walpurgis-éj) på Gålö Havsbad",
+     "ro": "Valborg (Noaptea Walpurgiei) på Gålö Havsbad",
+     "en": "Valborg (Walpurgis Eve) på Gålö Havsbad"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am 30. April",
+     "hu": "évente április 30-án",
+     "ro": "anual pe 30 aprilie",
+     "en": "annually on 30 April"
+    },
+    "date": "2026-04-30",
+    "blurb": {
+     "de": "Gålö Havsbad begeht die Walpurgisnacht auf dem Campingplatz und am Strand, um den Frühlingsanfang zu begrüßen. Es ist eine der wiederkehrenden saisonalen Veranstaltungen des Resorts.",
+     "hu": "A Gålö Havsbad a kempingben és a strandon ünnepli a Walpurgis-éjt, hogy köszöntse a tavasz érkezését. Ez az üdülőhely egyik rendszeres szezonális eseménye.",
+     "ro": "Gålö Havsbad marchează Noaptea Walpurgiei în zona de camping și pe plajă pentru a întâmpina sosirea primăverii. Este unul dintre evenimentele sezoniere recurente ale stațiunii.",
+     "en": "Gålö Havsbad marks Walpurgis Eve at the campsite and beach to welcome the arrival of spring. It is one of the resort's recurring seasonal events."
+    },
+    "source_url": "https://galohavsbad.se/en/events/"
+   },
+   {
+    "name": {
+     "de": "Kristi himmelsfärd (Himmelfahrtswochenende) på Gålö Havsbad",
+     "hu": "Kristi himmelsfärd (Áldozócsütörtök hétvégéje) på Gålö Havsbad",
+     "ro": "Kristi himmelsfärd (weekendul Înălțării) på Gålö Havsbad",
+     "en": "Kristi himmelsfärd (Ascension weekend) på Gålö Havsbad"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am Himmelfahrtswochenende (Mai); 2026 am 14. Mai",
+     "hu": "évente Áldozócsütörtök hétvégéjén (május); 2026-ban május 14-én",
+     "ro": "anual în weekendul Înălțării Domnului (mai); în 2026 pe 14 mai",
+     "en": "annually on Ascension Day weekend (May); in 2026 on 14 May"
+    },
+    "date": "2026-05-14",
+    "blurb": {
+     "de": "Gålö Havsbad veranstaltet ein entspanntes Himmelfahrtswochenende auf dem Campingplatz und am Strand. Es ist als eines der wiederkehrenden saisonalen Events des Resorts aufgeführt.",
+     "hu": "A Gålö Havsbad egy pihentető Áldozócsütörtök hétvégét kínál a kempingben és a strandon. Az üdülőhely rendszeres szezonális eseményei között szerepel.",
+     "ro": "Gålö Havsbad organizează un weekend relaxant al Înălțării în zona de camping și pe plajă. Este listat ca unul dintre evenimentele sezoniere recurente ale stațiunii.",
+     "en": "Gålö Havsbad hosts a relaxing Ascension weekend at the campsite and beach. It is listed as one of the resort's recurring seasonal events."
+    },
+    "source_url": "https://galohavsbad.se/en/events/"
+   }
+  ]
+ },
+ "public-beach-lillsjon": {
+  "beach": "Public Beach Lillsjon",
+  "town": "Kungsängen (Upplands-Bro)",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": {
+     "de": "Upplands-Bro Swimrun",
+     "hu": "Upplands-Bro Swimrun",
+     "ro": "Upplands-Bro Swimrun",
+     "en": "Upplands-Bro Swimrun"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "5. September 2026",
+     "hu": "2026. szeptember 5.",
+     "ro": "5 septembrie 2026",
+     "en": "2026-09-05"
+    },
+    "date": "2026-09-05",
+    "blurb": {
+     "de": "Ein Freiwasserschwimm- und Trailrunning-Wettkampf von Kungsängen nach Bro, dessen Schwimmabschnitte mehrere Seen, darunter den Lillsjön, durchqueren. Die Ausgabe 2026 ist für den 5. September angesetzt.",
+     "hu": "Nyílt vízi úszásból és terepfutásból álló verseny Kungsängentől Bro-ig, melynek úszószakaszai több tavat, köztük a Lillsjön-t is átszelnek. A 2026-os kiadás időpontja szeptember 5.",
+     "ro": "O cursă de înot în ape deschise și alergare pe traseu de la Kungsängen la Bro, ale cărei segmente de înot traversează mai multe lacuri, inclusiv Lillsjön. Ediția din 2026 este programată pentru 5 septembrie.",
+     "en": "An open-water swim and trail-running race from Kungsängen to Bro whose swim sections cross several lakes including Lillsjön. The 2026 edition is set for 5 September."
+    },
+    "source_url": "https://www.upplandsbroswimrun.org/"
+   },
+   {
+    "name": {
+     "de": "Midsommerfeier in Kungsängen (Kungsängens hembygdsgård)",
+     "hu": "Midsummer-ünnepség Kungsängenben (Kungsängens hembygdsgård)",
+     "ro": "Sărbătoarea de Midsummer în Kungsängen (Kungsängens hembygdsgård)",
+     "en": "Midsummer celebration in Kungsängen (Kungsängens hembygdsgård)"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich um den 19.–20. Juni",
+     "hu": "évente június 19–20. körül",
+     "ro": "anual în jurul datei de 19–20 iunie",
+     "en": "annually around 19-20 June"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Upplands-Bros größte Mittsommerfeier, die jeden Sommer von Kungsängens Folkdansgille auf dem historischen Hof in Kungsängen mit Maibaumaufstellen, Reigentänzen und Live-Volksmusik veranstaltet wird. Findet in der Stadt am Lillsjön-Strand statt.",
+     "hu": "Upplands-Bro legnagyobb midsummer-ünnepsége, amelyet minden nyáron a Kungsängens Folkdansgille rendez a kungsängeni örökségi tanyán, májusfa-állítással, körtáncokkal és élő népzenével. A városban, a Lillsjön strand közelében kerül megrendezésre.",
+     "ro": "Cea mai mare sărbătoare de Midsummer din Upplands-Bro, organizată în fiecare vară de Kungsängens Folkdansgille la ferma istorică din Kungsängen, cu ridicarea stâlpului de mai, dansuri în cerc și muzică populară live. Are loc în oraș, lângă plaja Lillsjön.",
+     "en": "Upplands-Bro's largest midsummer celebration, arranged each summer by Kungsängens Folkdansgille at the heritage homestead in Kungsängen with maypole raising, ring dances and live folk music. Held in the town near Lillsjön beach."
+    },
+    "source_url": "https://www.upplands-bro.se/nyheter/nyheter-2023/2023-06-19-fira-midsommar-vid-kungsangens-hembygdsgard.html"
+   }
+  ]
+ },
+ "sigsarve-strand": {
+  "beach": "Sigsarve Strand",
+  "town": "Hangvar",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": {
+     "de": "Möt våren i Kappelshamn",
+     "hu": "Möt våren i Kappelshamn",
+     "ro": "Möt våren i Kappelshamn",
+     "en": "Möt våren i Kappelshamn"
+    },
+    "type": "market",
+    "recurring": true,
+    "when": {
+     "de": "jährlich Ende März",
+     "hu": "évente március végén",
+     "ro": "anual la sfârșitul lunii martie",
+     "en": "annually late March"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Ein Frühlingshandwerks- und Warenmarkt im Kappelshamn Folkets Hus (Snäckersvägen 61), dem nächstgelegenen Dorf zum Sigsarve Strand im Gebiet Hangvar. Händler verkaufen Kunsthandwerk, Lebensmittel und lokale Produkte aus Gotland, mit Ponyreiten für Kinder und Kaffeeservice.",
+     "hu": "Tavaszi kézműves- és árupiac a Kappelshamn Folkets Husban (Snäckersvägen 61), a Sigsarve strandhoz legközelebbi faluban, a Hangvar területen. Árusok kézműves termékeket, élelmiszereket és helyi gotlandi termékeket kínálnak, pónilovaglással gyerekeknek és kávészolgáltatással.",
+     "ro": "Un târg de primăvară cu meșteșuguri și bunuri, desfășurat la Kappelshamn Folkets Hus (Snäckersvägen 61), cel mai apropiat sat de plaja Sigsarve din zona Hangvar. Vânzătorii oferă obiecte de artizanat, alimente și produse locale gotlandeze, cu plimbări cu ponei pentru copii și servire de cafea.",
+     "en": "A spring craft and goods market held at Kappelshamn Folkets Hus (Snäckersvägen 61), the nearest village to Sigsarve Strand in the Hangvar area. Vendors sell handicrafts, food and local Gotland products, with pony rides for children and coffee service."
+    },
+    "source_url": "https://gotlandjustnu.se/evenemang/artikel/mot-varen-i-kappelshamn/r16npqxj"
+   }
+  ]
+ },
+ "sudersand": {
+  "beach": "Sudersand",
+  "town": "Fårö",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": {
+     "de": "Midsommar på Sudersand",
+     "hu": "Midsommar på Sudersand",
+     "ro": "Midsommar på Sudersand",
+     "en": "Midsommar på Sudersand"
+    },
+    "type": "seasonal",
+    "recurring": true,
+    "when": {
+     "de": "jährlich um die Mittsommernacht, 19.-20. Juni 2026",
+     "hu": "évente a Szentivánéj környékén, 2026. június 19-20.",
+     "ro": "anual în preajma nopții de Midsummer, 19-20 iunie 2026",
+     "en": "annually around Midsummer Eve, 19-20 June in 2026"
+    },
+    "date": "2026-06-19",
+    "blurb": {
+     "de": "Das Sudersand Resort veranstaltet am Mittsommerabend ein traditionelles Maibaumaufstellen und Tanzen auf dem Fußballplatz des Feriendorfes in Sudersand, mit Eis für Kinder sowie Essen, Musikquiz und einer Live-Band am folgenden Tag.",
+     "hu": "A Sudersand Resort hagyományos májusfa-állítást és táncot tart a nyaralófalu futballpályáján Sudersandban Szentivánéjkor, gyerekeknek fagylalttal, valamint étellel, zenei kvízzel és élő zenekarral a következő napon.",
+     "ro": "Sudersand Resort organizează o ridicare tradițională a stâlpului de mai și dans pe terenul de fotbal al satului de vacanță din Sudersand în noaptea de Midsummer, cu înghețată pentru copii și mâncare, un chestionar muzical și o trupă live în ziua următoare.",
+     "en": "Sudersand Resort holds a traditional maypole raising and dancing on the cottage village football field at Sudersand on Midsummer Eve, with ice cream for children and food, music quiz and a live band the following day."
+    },
+    "source_url": "https://www.sudersand.se/midsommar-2026/"
+   },
+   {
+    "name": {
+     "de": "Afterbeach at Fårö Strandcafé",
+     "hu": "Afterbeach at Fårö Strandcafé",
+     "ro": "Afterbeach at Fårö Strandcafé",
+     "en": "Afterbeach at Fårö Strandcafé"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "täglich im Sommer, etwa vom 5. Juni bis 15. August",
+     "hu": "naponta nyáron, nagyjából június 5-től augusztus 15-ig",
+     "ro": "zilnic pe parcursul verii, aproximativ între 5 iunie și 15 august",
+     "en": "daily through summer, roughly 5 June to 15 August"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Das Fårö Strandcafé direkt am Sudersand-Strand bietet tägliche Afterbeach-Sessions mit über 50 Live-Musik-Auftritten im Sommer, die am Nachmittag beginnen.",
+     "hu": "A Sudersand strandon található Fårö Strandcafé napi afterbeach-szessziókat kínál több mint 50 élőzenei fellépéssel a nyár folyamán, a programok délután kezdődnek.",
+     "ro": "Fårö Strandcafé, direct pe plaja Sudersand, organizează sesiuni zilnice de afterbeach cu peste 50 de concerte live pe parcursul verii, spectacolele începând după-amiaza.",
+     "en": "The Fårö Strandcafé directly on Sudersand beach runs daily afterbeach sessions with more than 50 live music gigs over the summer, with performances starting in the afternoon."
+    },
+    "source_url": "https://farostrandcafe.se/"
+   },
+   {
+    "name": {
+     "de": "Silent Disco at Fårö Strandcafé",
+     "hu": "Silent Disco at Fårö Strandcafé",
+     "ro": "Silent Disco at Fårö Strandcafé",
+     "en": "Silent Disco at Fårö Strandcafé"
+    },
+    "type": "music",
+    "recurring": true,
+    "when": {
+     "de": "28. Juli 2026, ab 21:00 Uhr (ab 18 Jahren)",
+     "hu": "2026. július 28., 21:00-tól (18 éven felülieknek)",
+     "ro": "28 iulie 2026, de la ora 21:00 (18+)",
+     "en": "28 July 2026, from 21:00 (ages 18+)"
+    },
+    "date": "2026-07-28",
+    "blurb": {
+     "de": "Das Fårö Strandcafé in Sudersand veranstaltet eine Silent Disco mit 300 Kopfhörern und drei Kanälen mit verschiedenen DJs, Beginn um 21 Uhr, Eintritt 100 Kronen für Personen ab 18 Jahren.",
+     "hu": "A Sudersandban található Fårö Strandcafé néma diszkót szervez 300 fejhallgatóval és három csatornán különböző DJ-kkel, kezdés 21:00-kor, belépő 100 korona 18 éven felülieknek.",
+     "ro": "Fårö Strandcafé din Sudersand găzduiește o discotecă silentă cu 300 de căști și trei canale cu diferiți DJ-i, începând de la ora 21:00, cu o taxă de intrare de 100 de coroane pentru persoanele de 18 ani și peste.",
+     "en": "Fårö Strandcafé at Sudersand hosts a silent disco with 300 headphones and three channels of different DJs, starting at 9 PM with a 100 kr entry for ages 18 and over."
+    },
+    "source_url": "https://farostrandcafe.se/"
+   },
+   {
+    "name": {
+     "de": "Seafood Evenings at Fårö Strandcafé",
+     "hu": "Seafood Evenings at Fårö Strandcafé",
+     "ro": "Seafood Evenings at Fårö Strandcafé",
+     "en": "Seafood Evenings at Fårö Strandcafé"
+    },
+    "type": "food",
+    "recurring": true,
+    "when": {
+     "de": "Donnerstag, 16., 23. und 30. Juli 2026",
+     "hu": "2026. július 16., 23. és 30., csütörtökön",
+     "ro": "joi, 16, 23 și 30 iulie 2026",
+     "en": "Thursdays 16, 23 and 30 July 2026"
+    },
+    "date": "2026-07-16",
+    "blurb": {
+     "de": "Das Fårö Strandcafé in Sudersand serviert an drei Donnerstagen im Juli eine Meeresfrüchteplatte mit Live-Musik.",
+     "hu": "A Sudersandban található Fårö Strandcafé tengeri fogásokból álló tálat kínál élőzenével július három csütörtökén.",
+     "ro": "Fårö Strandcafé din Sudersand servește un platou cu fructe de mare acompaniat de muzică live în trei joi din iulie.",
+     "en": "Fårö Strandcafé at Sudersand serves a seafood platter with live music on three Thursdays in July."
+    },
+    "source_url": "https://farostrandcafe.se/"
+   },
+   {
+    "name": {
+     "de": "Sensommarfest (Late Summer Festival) at Fårö Strandcafé",
+     "hu": "Sensommarfest (Late Summer Festival) at Fårö Strandcafé",
+     "ro": "Sensommarfest (Late Summer Festival) at Fårö Strandcafé",
+     "en": "Sensommarfest (Late Summer Festival) at Fårö Strandcafé"
+    },
+    "type": "food",
+    "recurring": true,
+    "when": {
+     "de": "15. August 2026",
+     "hu": "2026. augusztus 15.",
+     "ro": "15 august 2026",
+     "en": "15 August 2026"
+    },
+    "date": "2026-08-15",
+    "blurb": {
+     "de": "Das Fårö Strandcafé in Sudersand markiert das Ende der Sommersaison mit einem Pizza-Buffet, einem Mittags-Musikquiz und abendlichen Bandauftritten.",
+     "hu": "A Sudersandban található Fårö Strandcafé a nyári szezon végét pizzabüfével, déli zenei kvízzel és esti zenekari fellépésekkel ünnepli.",
+     "ro": "Fårö Strandcafé din Sudersand marchează sfârșitul sezonului estival cu un bufet cu pizza, un chestionar muzical la prânz și spectacole de trupă seara.",
+     "en": "Fårö Strandcafé at Sudersand marks the end of the summer season with a pizza buffet, a midday music quiz and evening band performances."
+    },
+    "source_url": "https://farostrandcafe.se/"
+   },
+   {
+    "name": {
+     "de": "Fårönatta",
+     "hu": "Fårönatta",
+     "ro": "Fårönatta",
+     "en": "Fårönatta"
+    },
+    "type": "festival",
+    "recurring": true,
+    "when": {
+     "de": "jährlich am dritten Septemberwochenende, 19. September 2026",
+     "hu": "évente szeptember harmadik hétvégéjén, 2026. szeptember 19-én",
+     "ro": "anual în al treilea weekend din septembrie, 19 septembrie 2026",
+     "en": "annually on the third weekend of September, 19 September in 2026"
+    },
+    "date": "2026-09-19",
+    "blurb": {
+     "de": "Fårönatta ist Fårös jährliche, inselweite Saisonabschlussveranstaltung, organisiert von Fårö Framtid, mit Hofläden, Flohmärkten, Cafés, Restaurants, Konzerten und Kunstausstellungen auf der ganzen Insel, einschließlich der Sudersand-Locations.",
+     "hu": "A Fårönatta Fåró éves, sziget-szintű szezonzáró eseménye, amelyet a Fårö Framtid szervez, tanyasi boltokkal, bolhapiacokkal, kávézókkal, éttermekkel, koncertekkel és művészeti kiállításokkal az egész szigeten, beleértve a Sudersand-i helyszíneket is.",
+     "ro": "Fårönatta este evenimentul anual de închidere a sezonului la nivelul întregii insule Fårö, organizat de Fårö Framtid, cu magazine fermiere, târguri de vechituri, cafenele, restaurante, concerte și expoziții de artă deschise pe toată insula, inclusiv la locațiile din Sudersand.",
+     "en": "Fårönatta is Fårö's annual island-wide season-closing event organised by Fårö Framtid, with farm shops, flea markets, cafés, restaurants, concerts and art exhibitions open across the island, including the Sudersand venues."
+    },
+    "source_url": "https://www.faro.se/events/faronatta-19-9-2026/"
+   }
+  ]
+ },
+ "vatterstranden": {
+  "beach": "Vatterstranden",
+  "town": "Jönköping",
+  "country": "Sweden",
+  "events": [
+   {
+    "name": {
+     "de": "JBC Beach Volleyball Turniere am Vätterstranden",
+     "hu": "JBC Beach Volleyball Tornák a Vätterstranden",
+     "ro": "Turnee de volei pe plajă JBC la Vätterstranden",
+     "en": "JBC Beach Volleyball Tournaments at Vätterstranden"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "jeden Sommer (wöchentliche Lotterieturniere plus offene Ranglistenturniere)",
+     "hu": "minden nyáron (heti lottótornák és nyílt ranglistatornák)",
+     "ro": "în fiecare vară (turnee săptămânale cu loterie plus turnee deschise de clasament)",
+     "en": "every summer (weekly lottery tournaments plus ranking open tournaments)"
+    },
+    "date": "",
+    "blurb": {
+     "de": "Der Jönköping Beachvolley Club veranstaltet jeden Sommer Lotterie- und offene Ranglisten-Beachvolleyballturniere auf den Sandplätzen am Vätterstranden, offen für Anfänger und erfahrene Spieler.",
+     "hu": "A Jönköping Beachvolley Club minden nyáron lottóformátumú és nyílt ranglista szerinti strandröplabda tornákat szervez a Vätterstranden homokos pályáin, nyitva kezdők és tapasztalt játékosok számára egyaránt.",
+     "ro": "Clubul de volei pe plajă Jönköping organizează în fiecare vară turnee de volei pe plajă în format loterie și turnee deschise de clasament pe terenurile cu nisip de la Vätterstranden, deschise atât începătorilor, cât și jucătorilor experimentați.",
+     "en": "Jönköping Beachvolley Club holds lottery-format and ranking open beach volleyball tournaments on the sand courts at Vätterstranden each summer, open to both beginners and experienced players."
+    },
+    "source_url": "http://www.j-bc.se/lott-turneringar/"
+   },
+   {
+    "name": {
+     "de": "IRONMAN 70.3 Jönköping",
+     "hu": "IRONMAN 70.3 Jönköping",
+     "ro": "IRONMAN 70.3 Jönköping",
+     "en": "IRONMAN 70.3 Jönköping"
+    },
+    "type": "sport",
+    "recurring": true,
+    "when": {
+     "de": "5. Juli 2026",
+     "hu": "2026. július 5.",
+     "ro": "5 iulie 2026",
+     "en": "2026-07-05"
+    },
+    "date": "2026-07-05",
+    "blurb": {
+     "de": "Dieser Halbdistanz-Triathlon umfasst einen 1,9 km langen Schwimmabschnitt im Munksjön, eine 90 km lange Radstrecke und einen 21,1 km langen Lauf durch Jönköpings Uferpromenade und historische Straßen am südlichen Ende des Vätternsees nahe dem Vätterstranden. Der Lauf besteht aus drei Runden entlang des seenahen Stadtzentrums.",
+     "hu": "Ez a fél távú triatlon egy 1,9 km-es úszást foglal magában a Munksjönben, egy 90 km-es kerékpáros szakaszt és egy 21,1 km-es futást Jönköping vízparti és történelmi utcáin keresztül a Vättern-tó déli végénél, a Vätterstranden közelében. A futás három körből áll a tóparti városközpont mellett.",
+     "ro": "Acest triatlon pe jumătate de distanță include o înot de 1,9 km în Munksjön, un traseu de ciclism de 90 km și o alergare de 21,1 km prin zona de pe malul apei și străzile istorice din Jönköping, la capătul sudic al lacului Vättern, lângă Vätterstranden. Alergarea constă în trei ture pe lângă centrul orașului de pe malul lacului.",
+     "en": "This half-distance triathlon features a 1.9 km swim in Munksjön, a 90 km bike leg, and a 21.1 km run through Jönköping's waterfront and historic streets along the southern end of Lake Vättern near Vätterstranden. The run is three loops past the lakeside city centre."
+    },
+    "source_url": "https://www.ahotu.com/event/ironman-70-3-jonkoping"
+   }
+  ]
+ }
+}
