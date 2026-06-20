@@ -20,6 +20,12 @@ export const COUNTRY_TO_CONTINENT: Record<string, string> = {
   "australia":"oceania-map","fiji":"oceania-map","kiribati":"oceania-map","marshall-islands":"oceania-map","micronesia":"oceania-map","nauru":"oceania-map","new-zealand":"oceania-map","palau":"oceania-map","papua-new-guinea":"oceania-map","samoa":"oceania-map","solomon-islands":"oceania-map","tonga":"oceania-map","tuvalu":"oceania-map","vanuatu":"oceania-map","new-caledonia":"oceania-map","french-polynesia":"oceania-map","cook-islands":"oceania-map",
 };
 
+// continent slug → real photo webp basename (public/geo-images/continents/continent-<x>.webp)
+const CONTINENT_IMG: Record<string, string> = {
+  "europe-map": "europe", "northamerica-map": "north-america", "southamerica-map": "south-america",
+  "africa-map": "africa", "asia-map": "asia", "oceania-map": "oceania",
+};
+
 const CONTINENT_NAME: Record<string, Record<ExploreLang, string>> = {
   "europe-map": { de: "Europa", hu: "Európa", ro: "Europa", en: "Europe", fr: "Europe", tr: "Avrupa", hr: "Europa" },
   "northamerica-map": { de: "Nordamerika", hu: "Észak-Amerika", ro: "America de Nord", en: "North America", fr: "Amérique du Nord", tr: "Kuzey Amerika", hr: "Sjeverna Amerika" },
@@ -56,8 +62,11 @@ export function renderExploreBlock(opts: ExploreBlockOpts): string {
   const continentSlug = COUNTRY_TO_CONTINENT[opts.countryId];
   if (!continentSlug) return "";
   const continentName = CONTINENT_NAME[continentSlug]?.[lang] ?? CONTINENT_NAME[continentSlug]?.[_langFallback(lang)] ?? continentSlug;
-  const svg = CONTINENT_SVG[continentSlug];
-  if (!svg) return "";
+  const imgSlug = CONTINENT_IMG[continentSlug];
+  const visual = imgSlug
+    ? `<img src="/geo-images/continents/continent-${imgSlug}.webp" alt="${continentName}" loading="lazy" width="140" height="98"/>`
+    : (CONTINENT_SVG[continentSlug] || "");
+  if (!visual) return "";
   const c = COPY[lang] ?? COPY.en;
   const continentHref = `/${continentSlug}/`;
   const countryLink = opts.countryMapUrl
@@ -65,7 +74,7 @@ export function renderExploreBlock(opts: ExploreBlockOpts): string {
     : "";
   return `<section class="plz-explore" aria-label="${c.sectionTitle}">
   <a class="plz-explore-card" href="${continentHref}">
-    <div class="plz-explore-svg">${svg}</div>
+    <div class="plz-explore-svg">${visual}</div>
     <div class="plz-explore-text">
       <span class="plz-explore-eyebrow">${c.sectionTitle}</span>
       <strong>${c.discover(continentName)}</strong>
@@ -77,14 +86,15 @@ export function renderExploreBlock(opts: ExploreBlockOpts): string {
 
 export const EXPLORE_CSS = `
 .plz-explore{margin:24px 0;display:flex;flex-direction:column;gap:8px}
-.plz-explore-card{display:flex;gap:14px;align-items:center;background:linear-gradient(135deg,#0e2840,#163f5e);border:1px solid #2a5980;border-radius:14px;padding:12px;text-decoration:none;color:#fff;transition:transform .15s,box-shadow .15s}
-.plz-explore-card:hover{transform:translateY(-2px);box-shadow:0 6px 22px rgba(58,160,216,.25)}
-.plz-explore-svg{flex:0 0 110px;width:110px;height:77px;border-radius:8px;overflow:hidden}
+.plz-explore-card{display:flex;gap:14px;align-items:center;background:var(--panel);border:1px solid var(--rule);border-radius:var(--r);padding:12px;text-decoration:none;color:var(--ink);transition:transform .15s,border-color .15s}
+.plz-explore-card:hover{transform:translateY(-2px);border-color:var(--accent)}
+.plz-explore-svg{flex:0 0 110px;width:110px;height:77px;border-radius:var(--r);overflow:hidden}
 .plz-explore-svg svg{width:100%;height:100%;display:block}
+.plz-explore-svg img{width:100%;height:100%;object-fit:cover;display:block}
 .plz-explore-text{flex:1 1 auto;min-width:0}
-.plz-explore-eyebrow{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.5px;opacity:.7;margin-bottom:3px}
-.plz-explore-text strong{display:block;font-size:15px;line-height:1.25;font-weight:600}
-.plz-explore-link{align-self:flex-start;font-size:13px;color:#7cb9e0;text-decoration:none;padding:4px 0}
+.plz-explore-eyebrow{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.12em;color:var(--ink-soft);margin-bottom:3px}
+.plz-explore-text strong{display:block;font-family:var(--serif);font-size:1.05rem;line-height:1.25;font-weight:500}
+.plz-explore-link{align-self:flex-start;font-size:13px;color:var(--accent);text-decoration:none;padding:4px 0}
 .plz-explore-link:hover{text-decoration:underline}
 @media (min-width:640px){.plz-explore-svg{flex-basis:140px;width:140px;height:98px}.plz-explore-text strong{font-size:16px}}
 `;

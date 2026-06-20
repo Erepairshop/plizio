@@ -53,21 +53,21 @@
 
   /* ---------- once-injected CSS (csak a kartya BELSEJE; a kulso hej a hoste) ---------- */
   var CSS = ".plzsc-head{display:flex;align-items:center;gap:8px;flex-wrap:wrap}" +
-    ".plzsc-badge{background:rgba(76,198,255,.15);color:#4cc6ff;border-radius:7px;padding:2px 8px;font-size:.72rem;font-weight:700;letter-spacing:.4px}" +
-    ".plzsc-name{font-weight:700;font-size:1rem;color:#e6ecf3}" +
+    ".plzsc-badge{background:var(--accent-wash);color:var(--accent);border-radius:var(--r);padding:2px 8px;font-size:.72rem;font-weight:700;letter-spacing:.4px}" +
+    ".plzsc-name{font-weight:700;font-size:1rem;color:var(--ink)}" +
     ".plzsc-tags{display:flex;gap:5px;flex-wrap:wrap;margin-top:6px}" +
-    ".plzsc-tag{font-size:.68rem;border:1px solid rgba(255,255,255,.12);border-radius:6px;padding:2px 7px;color:rgba(230,236,243,.6)}" +
+    ".plzsc-tag{font-size:.68rem;border:1px solid var(--rule);border-radius:var(--r);padding:2px 7px;color:var(--ink-soft)}" +
     ".plzsc-svc{display:flex;flex-wrap:wrap;gap:6px;margin-top:7px}" +
-    ".plzsc-svc>span{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;font-size:.95rem;border:1px solid rgba(255,255,255,.12);border-radius:8px;background:rgba(255,255,255,.05);color:#4cc6ff}" +
-    ".plzsc-line{margin-top:7px;font-size:.84rem;color:rgba(230,236,243,.6);min-height:0;display:flex;align-items:center;flex-wrap:wrap}" +
+    ".plzsc-svc>span{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;font-size:.95rem;border:1px solid var(--rule);border-radius:var(--r);background:var(--paper-2);color:var(--accent)}" +
+    ".plzsc-line{margin-top:7px;font-size:.84rem;color:var(--ink-soft);min-height:0;display:flex;align-items:center;flex-wrap:wrap}" +
     ".plzsc-line svg{margin-right:.3em}" +
-    ".plzsc-line b{color:#e6ecf3}" +
-    ".plzsc-holiday{margin-top:7px;font-size:.8rem;color:#e8c96a;background:rgba(246,201,69,.08);border:1px solid rgba(246,201,69,.25);border-radius:8px;padding:6px 10px;display:flex;align-items:center;gap:.4em}" +
+    ".plzsc-line b{color:var(--ink)}" +
+    ".plzsc-holiday{margin-top:7px;font-size:.8rem;color:var(--accent-deep);background:var(--accent-wash);border:1px solid var(--rule);border-radius:var(--r);padding:6px 10px;display:flex;align-items:center;gap:.4em}" +
     ".plzsc-links{display:flex;gap:7px;flex-wrap:wrap;margin-top:9px}" +
-    ".plzsc-lbtn{display:inline-flex;align-items:center;gap:.35em;border:1px solid rgba(255,255,255,.12);border-radius:999px;padding:5px 11px;font-size:.78rem;color:#4cc6ff;text-decoration:none;background:rgba(76,198,255,.07);cursor:pointer}" +
-    ".plzsc-lbtn:hover{background:rgba(76,198,255,.15)}" +
-    ".plzsc-lbtn-primary{background:#4cc6ff;color:#06121f;border-color:#4cc6ff;font-weight:700}" +
-    ".plzsc-lbtn-primary:hover{background:#6fd2ff}";
+    ".plzsc-lbtn{display:inline-flex;align-items:center;gap:.35em;border:1px solid var(--rule);border-radius:999px;padding:5px 11px;font-size:.78rem;color:var(--accent);text-decoration:none;background:var(--paper-2);cursor:pointer}" +
+    ".plzsc-lbtn:hover{background:var(--accent-wash)}" +
+    ".plzsc-lbtn-primary{background:var(--accent);color:#fff;border-color:var(--accent);font-weight:700}" +
+    ".plzsc-lbtn-primary:hover{background:var(--accent-deep)}";
   var cssDone = false;
   function injectCss() {
     if (cssDone) return; cssDone = true;
