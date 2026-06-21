@@ -756,22 +756,6 @@ function buildPoiTitle(name: string, poi: POI, lang: Lang, feats?: TitleFeats): 
 
 // hasIndexableContent moved to ./_load-full-pois (shared with build-poi-url-index).
 
-// AdSense eligibility: only show ads on pages with genuinely rich content.
-// Criteria: PlizioGo POI OR (descriptionAdvanced ≥500 chars in current lang AND facts/factsAdvanced present).
-function isAdSenseEligible(poi: POI, lang: Lang): boolean {
-  if (PLIZIOGO_SET.has(poi.id)) return true;
-  const descAdv = (poi as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
-  const factsAdv = (poi as { factsAdvanced?: Record<string, string[]> }).factsAdvanced;
-  const facts = poi.facts as Record<string, string[]> | undefined;
-  const da = descAdv?.[lang] || "";
-  if (da.length < 500) return false;
-  const fa = factsAdv?.[lang] || facts?.[lang];
-  if (!Array.isArray(fa) || fa.length < 4) return false;
-  return true;
-}
-const ADSENSE_HEAD = `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9658871334491770" crossorigin="anonymous"></script>
-<meta name="google-adsense-account" content="ca-pub-9658871334491770">`;
-
 // Content richness inspector — used to hide game-CTA + eyebrow + AdSense on thin pages
 // and to mark truly empty pages noindex (kept crawlable via follow). PlizioGo POIs are
 // always considered rich.
@@ -3453,7 +3437,6 @@ ${hreflangLinks}
 <meta property="og:url" content="${url}"/>
 <meta property="og:type" content="website"/>
 ${heroImg ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(heroImg)}"/>` : ""}
-${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&display=swap" rel="stylesheet"/>
@@ -4064,7 +4047,6 @@ ${hreflangLinks}
 <meta property="og:description" content="${escapeHtml(metaDesc)}"/>
 <meta property="og:url" content="${sightUrl}"/>
 <meta property="og:type" content="article"/>
-${isAdSenseEligible(host, lang) ? ADSENSE_HEAD : ""}
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&display=swap" rel="stylesheet"/>
