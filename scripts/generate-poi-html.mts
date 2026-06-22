@@ -1984,6 +1984,11 @@ function hasRoutePlanner(poi: POI): boolean {
 function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
   if (!hasRoutePlanner(poi)) return "";
   const lng = Number(poi.coords![0]), lat = Number(poi.coords![1]);
+  // POI ISO2 country (strict — orphan parents stay empty so the client falls back to
+  // reverse-geocode). Lets route-planner.js hide the Wohnmobil mode where we have no
+  // camper data, without a per-page reverse-geocode round-trip.
+  const _cid = slugs.getCountryIdStrict(poi.parent);
+  const cc = (_cid && slugs.countryIso2(_cid)) || "";
   const T = RP_COPY[lang] || RP_COPY.en;
   const dyn = RP_DYN[lang] || RP_DYN.en;
   const stopsOpts = [1, 2, 3, 4, 5, 6, 7, 8].map((n) => `<option${n === 2 ? " selected" : ""}>${n}</option>`).join("");
@@ -2039,7 +2044,7 @@ function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
 .plz-rp-credit{font-size:.7rem;color:var(--ink-faint);margin:.7rem 0 0;text-align:center}
 @media(max-width:560px){.plz-rp-card{flex:0 0 calc(100% - .6rem)}}
 </style>`;
-  return `${css}<section class="plz-rp" id="plz-route-planner" data-lng="${lng}" data-lat="${lat}" data-dest="${escapeHtml(name)}" data-lang="${lang}" data-copy="${copyJson}">
+  return `${css}<section class="plz-rp" id="plz-route-planner" data-lng="${lng}" data-lat="${lat}" data-dest="${escapeHtml(name)}" data-lang="${lang}" data-cc="${cc}" data-copy="${copyJson}">
   <div class="plz-rp-head"><h2>${escapeHtml(T.h)}</h2><p>${escapeHtml(T.sub)}</p></div>
   <div class="plz-rp-row">
     <label>${escapeHtml(T.from)}<input class="plz-rp-origin" type="text" placeholder="${escapeHtml(T.fromPh)}"></label>
@@ -2061,7 +2066,7 @@ function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
 </section>
 <script defer src="/js/stop-card.js?v=20260620ed1"></script>
 <script defer src="/js/sights-nearby.js?v=20260620ed1"></script>
-<script defer src="/js/route-planner.js?v=20260620ed1"></script>`;
+<script defer src="/js/route-planner.js?v=20260622cc1"></script>`;
 }
 
 function renderCityItinerary(poi: POI, lang: Lang): string {

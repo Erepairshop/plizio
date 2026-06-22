@@ -15,6 +15,9 @@
   var _plat = parseFloat(M.dataset.lat), _plng = parseFloat(M.dataset.lng);
   var DEST_PREFILL = { name: M.dataset.dest || "", coords: (isFinite(_plat) && isFinite(_plng)) ? [_plng, _plat] : null };
   var mode = "car", lastReq = null;
+  var PREFILL_CC = (M.dataset.cc || "").toUpperCase();   // POI ország ISO2 (üres = ismeretlen parent)
+  var SUPPORTED = null;                                   // {CC:1} ha betöltött; null = ismeretlen → soha nem tilt
+  var WORKER_BASE = WORKER.replace(/\/plan\/?$/, "");     // .../plan → ... (a /countries-hez)
 
   var COPY = {
     de: { h: "Routenplaner — Auto & Wohnmobil", sub: "Start und Ziel eingeben — wir bauen die Route mit Stopps und Länder-Hinweisen.", from: "Start", fromPh: "z.B. München", dest: "Ziel", destPh: "z.B. Lyon", via: "Über (optional)", viaPh: "z.B. Zagreb", nights: "Übernachtungs-Stopps", vehicle: "Fahrzeug", car: "Auto", camper: "Wohnmobil", filter: "Nur Stopps mit (optional):", water: "Wasser", dump: "Entsorgung", power: "Strom", wc: "WC", shower: "Dusche", tierAB: "Stellplätze + Camping", tierA: "Nur Stellplätze", tierB: "Nur Camping", tierABC: "Auch Natur-/Rastplätze", b10: "Umweg max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "Route planen" },
@@ -31,6 +34,15 @@
     fr: { notFound: "Lieu introuvable", needBoth: "Entrez départ et destination.", searching: "📍 Recherche…", routing: "🛣️ Calcul de l'itinéraire…", km: "km", hrs: "h", nights: "nuitées", matchStops: "étapes", mapsAll: "Tout l'itinéraire dans Maps", advisory: "Infos par pays", toll: "Péage", lez: "Zone à faibles émissions", overnight: "Nuitée", mandatory: "Obligatoire", keepStop: "garder cette étape", day: "JOUR", dest: "BUT", swipe: "← faites glisser →", regen: "Régénérer — fixer les étapes gardées", regenKept: "🔄 Itinéraire avec étapes gardées…", regenNew: "🔄 Nouvelle variante…" },
   };
   var T = COPY[LANG] || COPY.en, C = DYN[LANG] || DYN.en;
+  // "Ehhez az országhoz még nincs camping-adat" popup (a Wohnmobil-kapuzáshoz).
+  var ND = {
+    de: { title: "Noch keine Wohnmobil-Daten", body: "Für dieses Land haben wir noch keine Stellplatz-Daten. Sobald Daten vorliegen, lässt sich die Route hierher automatisch planen.", car: "Mit dem Auto planen", ok: "OK" },
+    hu: { title: "Még nincs lakóautós adat", body: "Ehhez az országhoz még nincs lakóautó-megálló adatunk. Amint lesz adat, ide is automatikusan tervezhető lesz a lakóautós útvonal.", car: "Tervezés autóval", ok: "OK" },
+    en: { title: "No motorhome data yet", body: "We don't have motorhome stop data for this country yet. As soon as data is available, routing here will work automatically.", car: "Plan by car", ok: "OK" },
+    ro: { title: "Încă nu avem date pentru rulote", body: "Nu avem încă date despre opriri pentru rulote în această țară. De îndată ce apar date, traseul până aici se va putea planifica automat.", car: "Planifică cu mașina", ok: "OK" },
+    fr: { title: "Pas encore de données camping-car", body: "Nous n'avons pas encore de données d'aires pour ce pays. Dès que des données seront disponibles, l'itinéraire jusqu'ici fonctionnera automatiquement.", car: "Planifier en voiture", ok: "OK" },
+  };
+  var NDC = ND[LANG] || ND.en;
 
   // ── inline SVG icon set (24x24, stroke=currentColor) ─────────────────────────
   function _svg(p) {
@@ -112,6 +124,15 @@
     + '.plz-rp-ac-item{padding:.42rem .6rem;cursor:pointer;display:flex;flex-direction:column;gap:1px}'
     + '.plz-rp-ac-item:hover,.plz-rp-ac-item.on{background:var(--accent-wash)}'
     + '.plz-rp-ac-item .nm{font-size:.86rem;color:var(--ink)}.plz-rp-ac-item .sub{font-size:.72rem;color:var(--ink-faint)}'
+    + '#plz-route-planner.plz-rp{position:relative}'
+    + '.plz-rp-pop{position:absolute;inset:0;z-index:60;display:flex;align-items:center;justify-content:center;background:rgba(33,29,24,.45);border-radius:var(--r);padding:1rem}'
+    + '.plz-rp-pop-card{background:var(--panel);border:1px solid var(--rule);border-radius:var(--r);padding:1rem 1.1rem;max-width:340px;box-shadow:0 12px 32px rgba(33,29,24,.25)}'
+    + '.plz-rp-pop-card h4{margin:0 0 .4rem;font-size:1rem;color:var(--ink)}'
+    + '.plz-rp-pop-card p{margin:0 0 .85rem;font-size:.85rem;color:var(--ink-soft);line-height:1.45}'
+    + '.plz-rp-pop-btns{display:flex;gap:.5rem;justify-content:flex-end;flex-wrap:wrap}'
+    + '.plz-rp-pop-btns button{padding:.45rem .85rem;border-radius:999px;font-size:.85rem;font-weight:600;cursor:pointer;border:1px solid var(--rule)}'
+    + '.plz-rp-pop-car{background:var(--accent);color:#fff;border-color:var(--accent)}'
+    + '.plz-rp-pop-ok{background:var(--paper);color:var(--ink)}'
     + '@media(max-width:560px){.plz-rp-card{flex:0 0 calc(100% - .6rem)}}';
   if (!document.getElementById("plz-rp-css")) {
     var st = document.createElement("style"); st.id = "plz-rp-css"; st.textContent = CSS; document.head.appendChild(st);
@@ -147,13 +168,68 @@
   // car mode = stops at OUR city POIs (camper-only service/tier filters hidden); camper = OSM camper sites
   function applyModeClass() { M.classList.toggle("mode-car", mode === "car"); M.classList.toggle("mode-camper", mode !== "car"); }
   applyModeClass();
+  function setMode(m, b) {
+    mode = m;
+    M.querySelectorAll(".plz-rp-mode").forEach(function (x) { x.setAttribute("aria-selected", x === b ? "true" : "false"); });
+    applyModeClass();
+  }
+  // ── Wohnmobil-kapuzás: csak ahol van camping-adat (Worker /countries → SUPPORTED) ──
+  function ccOk(cc) { return !SUPPORTED || !cc || !!SUPPORTED[cc]; } // ismeretlen lista/cc → engedjük
+  function applyCamperAvail() {
+    var cb = M.querySelector('.plz-rp-mode[data-mode="camper"]');
+    if (!cb) return;
+    var ok = ccOk(PREFILL_CC);
+    cb.style.display = ok ? "" : "none";               // nincs adat az ország POI-jára → camper gomb eltűnik
+    if (!ok && mode === "camper") { var carb = M.querySelector('.plz-rp-mode[data-mode="car"]'); if (carb) setMode("car", carb); }
+  }
+  // az aktuális cél országkódja: AC-választás (dataset.cc) → előkitöltött (PREFILL_CC) → reverse-geocode
+  function curDestCC() {
+    var di = $(".plz-rp-dest");
+    if (di && di.dataset.cc) return Promise.resolve(di.dataset.cc.toUpperCase());
+    var v = di ? di.value.trim() : "";
+    if (!v || (DEST_PREFILL.name && v === DEST_PREFILL.name)) return Promise.resolve(PREFILL_CC || null);
+    return inputCoords(".plz-rp-dest", DEST_PREFILL.coords).then(function (c) {
+      if (!c) return null;
+      return fetch("https://photon.komoot.io/reverse?lang=en&lat=" + c[1] + "&lon=" + c[0])
+        .then(function (r) { return r.json(); })
+        .then(function (j) { var pr = j.features && j.features[0] && j.features[0].properties; return pr && pr.countrycode ? pr.countrycode.toUpperCase() : null; })
+        .catch(function () { return null; });
+    });
+  }
+  function showNoData(cc) {
+    var name = cc || "";
+    try { name = (new Intl.DisplayNames([LANG], { type: "region" })).of(cc) || cc; } catch (e) { }
+    var old = M.querySelector(".plz-rp-pop"); if (old && old.parentNode) old.parentNode.removeChild(old);
+    var ov = document.createElement("div"); ov.className = "plz-rp-pop";
+    ov.innerHTML = '<div class="plz-rp-pop-card"><h4>🚐 ' + esc(NDC.title) + '</h4>'
+      + '<p>' + (name ? '<b>' + esc(name) + '</b>: ' : '') + esc(NDC.body) + '</p>'
+      + '<div class="plz-rp-pop-btns"><button type="button" class="plz-rp-pop-car">' + esc(NDC.car) + '</button>'
+      + '<button type="button" class="plz-rp-pop-ok">' + esc(NDC.ok) + '</button></div></div>';
+    M.appendChild(ov);
+    function close() { if (ov.parentNode) ov.parentNode.removeChild(ov); }
+    ov.addEventListener("click", function (e) { if (e.target === ov) close(); });
+    ov.querySelector(".plz-rp-pop-ok").addEventListener("click", close);
+    ov.querySelector(".plz-rp-pop-car").addEventListener("click", function () {
+      var carb = M.querySelector('.plz-rp-mode[data-mode="car"]'); if (carb) setMode("car", carb); close();
+    });
+  }
   M.querySelectorAll(".plz-rp-mode").forEach(function (b) {
     b.addEventListener("click", function () {
-      mode = b.dataset.mode;
-      M.querySelectorAll(".plz-rp-mode").forEach(function (x) { x.setAttribute("aria-selected", x === b ? "true" : "false"); });
-      applyModeClass();
+      if (b.dataset.mode === "camper") {
+        curDestCC().then(function (cc) {
+          if (SUPPORTED && cc && !SUPPORTED[cc]) { showNoData(cc); return; } // nincs adat → marad autó
+          setMode("camper", b);
+        });
+      } else setMode(b.dataset.mode, b);
     });
   });
+  // lefedett országok lekérése (KV-ből, deploy nélkül friss) — bukásnál SUPPORTED=null marad → nem tilt
+  fetch(WORKER_BASE + "/countries").then(function (r) { return r.json(); }).then(function (j) {
+    if (j && j.ok && j.countries && j.countries.length) {
+      SUPPORTED = {}; j.countries.forEach(function (c) { SUPPORTED[String(c).toUpperCase()] = 1; });
+      applyCamperAvail();
+    }
+  }).catch(function () { });
 
   function geocode(q) {
     return fetch("https://photon.komoot.io/api?limit=1&lang=" + GEO_LANG + "&q=" + encodeURIComponent(q))
@@ -172,9 +248,9 @@
     label.appendChild(box);
     var t = null, items = [], sel = -1;
     function close() { box.style.display = "none"; box.innerHTML = ""; items = []; sel = -1; }
-    function choose(it) { input.value = it.label; input.dataset.lon = it.coords[0]; input.dataset.lat = it.coords[1]; close(); }
+    function choose(it) { input.value = it.label; input.dataset.lon = it.coords[0]; input.dataset.lat = it.coords[1]; if (it.cc) input.dataset.cc = it.cc; else input.removeAttribute("data-cc"); close(); }
     input.addEventListener("input", function () {
-      input.removeAttribute("data-lon"); input.removeAttribute("data-lat"); // gépelés → a kiválasztott koord érvénytelen
+      input.removeAttribute("data-lon"); input.removeAttribute("data-lat"); input.removeAttribute("data-cc"); // gépelés → a kiválasztott koord/cc érvénytelen
       var q = input.value.trim();
       if (t) clearTimeout(t);
       if (q.length < 2) { close(); return; }
@@ -186,7 +262,7 @@
               var p = f.properties || {}, nm = p.name || "";
               var extra = [p.city, p.county].filter(function (x) { return x && x !== nm; }).slice(0, 1).join("");
               var sub = [extra, p.state, p.country || p.countrycode].filter(Boolean).join(" · ");
-              return { label: nm, sub: sub, coords: f.geometry.coordinates };
+              return { label: nm, sub: sub, coords: f.geometry.coordinates, cc: (p.countrycode || "").toUpperCase() };
             }).filter(function (it) { return it.label; });
             if (!items.length) { close(); return; }
             box.innerHTML = items.map(function (it, i) { return '<div class="plz-rp-ac-item" data-i="' + i + '"><span class="nm">' + esc(it.label) + '</span><span class="sub">' + esc(it.sub) + '</span></div>'; }).join("");
@@ -233,7 +309,16 @@
   }
   function destNameNow() { var di = $(".plz-rp-dest"); return di ? (di.value.trim() || DEST_PREFILL.name) : DEST_PREFILL.name; }
 
+  // Wohnmobil-mód tervezés előtt: ha a cél időközben támogatatlan országra változott → popup, nem tervezünk.
   function go() {
+    if (mode === "camper") {
+      curDestCC().then(function (cc) {
+        if (SUPPORTED && cc && !SUPPORTED[cc]) { showNoData(cc); return; }
+        _go();
+      });
+    } else _go();
+  }
+  function _go() {
     var stt = $(".plz-rp-status"), res = $(".plz-rp-result");
     var oEl = $(".plz-rp-origin"), dEl = $(".plz-rp-dest");
     var hasOrigin = oEl && (oEl.dataset.lon || oEl.value.trim());
