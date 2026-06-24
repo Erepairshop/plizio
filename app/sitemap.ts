@@ -93,11 +93,12 @@ export async function generateSitemaps() {
 }
 
 function createEntry(url: string, sourceFile: string, priority: number) {
+  // trailingSlash:true → a generált oldal és a canonical MINDIG "/"-re végződik
+  // (pl. /sanmarino-map/). A sitemapnek is ezzel kell egyeznie, különben a Google a
+  // per-nélküli URL-t "Alternative page with proper canonical tag"-ként nem indexeli.
+  const slashed = url.endsWith("/") ? url : `${url}/`;
   return {
-    // A homepage kanonikusa "https://plizio.com/" (trailing slash) — a sitemapnek
-    // EZZEL kell egyeznie, kulonben Google kulon URL-nek veszi ("/" vs "" no-slash)
-    // es nem tarsitja a sitemapet a kanonikus homepage-hez ("Keine verweisenden Sitemaps").
-    url: `${SITE_URL}${url}`,
+    url: `${SITE_URL}${slashed}`,
     lastModified: getGitLastMod(sourceFile),
     priority,
   };
