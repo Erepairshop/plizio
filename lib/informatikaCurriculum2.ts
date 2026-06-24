@@ -107,25 +107,23 @@ type RawTask =
   | { type: "mcq"; question: string; options: string[]; correct: number }
   | { type: "typing"; text: string };
 
-function jsonToQuestions(subtopicId: string, tasks: RawTask[]): KemiaQuestion[] {
-  return tasks.flatMap((task): KemiaQuestion[] => {
-    if (task.type === "mcq") {
-      return [{
-        type: "mcq",
-        topic: "informatika",
-        subtopic: subtopicId,
-        question: task.question,
-        options: task.options,
-        correct: task.correct,
-      }];
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function jsonToQuestions(subtopicId: string, tasks: any[]): KemiaQuestion[] {
+  return tasks.flatMap((task: any): KemiaQuestion[] => {
+    const isMcq = task.type === "mcq" || task.type === "multiple_choice" || Array.isArray(task.options);
+    if (isMcq) {
+      const options: string[] = task.options ?? [];
+      let correct = typeof task.correct === "number" ? task.correct
+        : typeof task.correctAnswer === "number" ? task.correctAnswer
+        : options.indexOf(task.answer);
+      if (!(correct >= 0)) correct = 0;
+      if (!task.question || !options.length) return [];
+      return [{ type: "mcq", topic: "informatika", subtopic: subtopicId, question: task.question, options, correct }];
     }
-    return [{
-      type: "typing",
-      topic: "informatika",
-      subtopic: subtopicId,
-      question: task.text,
-      answer: task.text,
-    }];
+    const q = task.question ?? task.text;
+    const a = task.answer ?? task.text;
+    if (!q) return [];
+    return [{ type: "typing", topic: "informatika", subtopic: subtopicId, question: q, answer: a }];
   });
 }
 

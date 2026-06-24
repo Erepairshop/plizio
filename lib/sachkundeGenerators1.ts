@@ -95,6 +95,15 @@ const SENSES = [
   { sense: "Haut", ability: "Fühlen", sensation: "Wärme und Kälte" }
 ];
 
+// Article map for Sinnesorgane and Körperteile
+const SENSE_ARTICLE: Record<string, string> = {
+  "Auge": "das",
+  "Ohr": "das",
+  "Nase": "die",
+  "Zunge": "die",
+  "Haut": "die"
+};
+
 // Health & Hygiene (Gesundheit & Hygiene)
 const HYGIENE_ACTIVITIES = [
   { activity: "Zähne putzen", when: "morgens und abends", tool: "Zahnbürste" },
@@ -156,11 +165,11 @@ const TREE_PARTS = [
 
 // Flowers & fruits (Blüten & Früchte)
 const FLOWERS_FRUITS = [
-  { plant: "Rose", type: "Blume", color: "rot, rosa oder weiß", smell: "süß" },
-  { plant: "Apfelbaum", type: "Baum", fruit: "Apfel", season: "Herbst" },
-  { plant: "Kirschbaum", type: "Baum", fruit: "Kirsche", season: "Sommer" },
-  { plant: "Erdbeere", type: "Strauch", fruit: "Erdbeere", season: "Frühling-Sommer" },
-  { plant: "Sonnenblume", type: "Blume", color: "gelb", size: "groß" }
+  { plant: "Rose", plural: "Rosen", article: "eine", type: "Blume", color: "rot, rosa oder weiß", smell: "süß" },
+  { plant: "Apfelbaum", plural: "Apfelbäume", article: "ein", type: "Baum", fruit: "Apfel", season: "im Herbst" },
+  { plant: "Kirschbaum", plural: "Kirschbäume", article: "ein", type: "Baum", fruit: "Kirsche", season: "im Sommer" },
+  { plant: "Erdbeere", plural: "Erdbeeren", article: "eine", type: "Strauch", fruit: "Erdbeere", season: "im Frühling" },
+  { plant: "Sonnenblume", plural: "Sonnenblumen", article: "eine", type: "Blume", color: "gelb", size: "groß" }
 ];
 
 // Weather (Wetter)
@@ -216,9 +225,9 @@ const GOOD_BEHAVIOR = [
 const VEHICLES = [
   { vehicle: "Auto", wheels: 4, powered: true, fuel: "Benzin" },
   { vehicle: "Fahrrad", wheels: 2, powered: false, fuel: "Muskelkraft" },
-  { vehicle: "Bus", wheels: 4, powered: true, passengers: "viele" },
-  { vehicle: "Zug", wheels: "viele", powered: true, track: "Schienen" },
-  { vehicle: "Flugzeug", wheels: "mehrere", powered: true, element: "Luft" }
+  { vehicle: "Bus", wheels: 4, powered: true, fuel: "Diesel", passengers: "viele" },
+  { vehicle: "Zug", wheels: "viele", powered: true, fuel: "Strom", track: "Schienen" },
+  { vehicle: "Flugzeug", wheels: "mehrere", powered: true, fuel: "Kerosin", element: "Luft" }
 ];
 
 // Traffic rules (Verkehrsregeln)
@@ -277,18 +286,25 @@ export function generateKörperteile(seed?: number): CurriculumMCQ[] {
         `Welcher Körperteil ist ${func}?`, correct, wrong, rng));
     } else if (type === 1) {
       // Welche Funktion hat dieser Körperteil?
+      const KÖRPERTEIL_ARTICLE: Record<string, string> = {
+        "Auge": "das", "Ohr": "das", "Nase": "die", "Mund": "der",
+        "Hand": "die", "Fuß": "der", "Zahn": "der", "Arm": "der"
+      };
       const part = pick(Object.keys(BODY_PART_FUNCTIONS) as Array<keyof typeof BODY_PART_FUNCTIONS>, rng);
       const correct = BODY_PART_FUNCTIONS[part];
       const wrongFuncs = Object.values(BODY_PART_FUNCTIONS).filter(f => f !== correct).slice(0, 3);
+      const artKt = KÖRPERTEIL_ARTICLE[part] || "der";
       q.push(createMCQ("sachkunde", "körperteile",
-        `Wozu ist der ${part} da?`, correct, wrongFuncs, rng));
+        `Wozu ist ${artKt} ${part} da?`, correct, wrongFuncs, rng));
     } else {
-      // Bild-Text Zuordnung
+      // Wozu ist der/die/das Körperteil da?
       const parts = ["Kopf", "Auge", "Nase", "Ohr", "Mund"];
+      const BODY_ARTICLE: Record<string, string> = { "Kopf": "der", "Auge": "das", "Nase": "die", "Ohr": "das", "Mund": "der" };
       const p = pick(parts, rng);
-      const correctAnswer = { "Kopf": "oben am Körper", "Auge": "zum Sehen", "Nase": "zum Riechen", "Ohr": "zum Hören", "Mund": "zum Essen" }[p] || "";
+      const correctAnswer = { "Kopf": "zum Denken und Wahrnehmen", "Auge": "zum Sehen", "Nase": "zum Riechen", "Ohr": "zum Hören", "Mund": "zum Essen und Sprechen" }[p] || "";
+      const artP = BODY_ARTICLE[p] || "der";
       q.push(createMCQ("sachkunde", "körperteile",
-        `Wo ist der ${p}?`, correctAnswer, ["unten am Körper", "in der Mitte", "überall"], rng));
+        `Wozu ist ${artP} ${p} da?`, correctAnswer, ["zum Schlafen", "zum Rennen", "zum Anfassen"], rng));
     }
   }
 
@@ -318,8 +334,9 @@ export function generateSinnesorgane(seed?: number): CurriculumMCQ[] {
     } else {
       // Welches Sinnesorgan nimmt X wahr?
       const data = pick(SENSES, rng);
-      const correct = `das ${data.sense}`;
-      const wrong = SENSES.filter(s => s.sense !== data.sense).map(s => `das ${s.sense}`).slice(0, 3);
+      const art = SENSE_ARTICLE[data.sense] || "das";
+      const correct = `${art} ${data.sense}`;
+      const wrong = SENSES.filter(s => s.sense !== data.sense).map(s => `${SENSE_ARTICLE[s.sense] || "das"} ${s.sense}`).slice(0, 3);
       q.push(createMCQ("sachkunde", "sinnesorgane",
         `Mit welchem Sinnesorgan nimmst du ${data.sensation} wahr?`, correct, wrong, rng));
     }
@@ -529,15 +546,15 @@ export function generateBlütenFrüchte(seed?: number): CurriculumMCQ[] {
           `Welche Farbe hat eine ${data.plant}?`, correct, wrong, rng));
       } else {
         q.push(createMCQ("sachkunde", "blueten_fruechte",
-          `Wann sind ${data.plant}n reif?`, data.season || "im Sommer", ["im Winter", "im Frühling", "nie"], rng));
+          `Wann sind ${data.plural || data.plant + "n"} reif?`, data.season || "im Sommer", ["im Winter", "im Frühling", "nie"], rng));
       }
     } else if (type === 1) {
       // Wann ist das Obst reif?
       const data = pick(FLOWERS_FRUITS.filter(f => f.season), rng);
       const correct = data.season || "im Sommer";
-      const wrong = ["Winter", "Frühling", "Herbst"];
+      const wrong = ["im Winter", "im Frühling", "im Herbst"];
       q.push(createMCQ("sachkunde", "blueten_fruechte",
-        `Wann sind ${data.plant}n reif?`, correct, wrong, rng));
+        `Wann sind ${data.plural || data.plant + "n"} reif?`, correct, wrong, rng));
     } else {
       // Ist das eine Blume, ein Baum oder ein Strauch? — use random plant from data
       const data = pick(FLOWERS_FRUITS, rng);
@@ -545,7 +562,7 @@ export function generateBlütenFrüchte(seed?: number): CurriculumMCQ[] {
       const typeOptions = ["Blume", "Baum", "Strauch", "Gemüse"];
       const wrong = typeOptions.filter(t => t !== correct).slice(0, 3);
       q.push(createMCQ("sachkunde", "blueten_fruechte",
-        `Was ist eine ${data.plant}?`, correct, wrong, rng));
+        `Was ist ${data.article || "eine"} ${data.plant}?`, correct, wrong, rng));
     }
   }
 

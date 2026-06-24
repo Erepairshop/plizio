@@ -126,7 +126,7 @@
     },
     {
       "type": "mcq",
-      "question": "Melyik gombbal mentjük el the rajzot?",
+      "question": "Melyik gombbal mentjük el a rajzot?",
       "options": [
         "Fájl -> Mentés",
         "Kilépés",
@@ -195,8 +195,8 @@
       "question": "Hogyan készítünk új lapot?",
       "options": [
         "Fájl -> Új",
-        "Letöröljük the régit",
-        "Kikapcsoljuk the gépet",
+        "Letöröljük a régit",
+        "Kikapcsoljuk a gépet",
         "Várunk"
       ],
       "correct": 0
@@ -229,8 +229,8 @@
       "options": [
         "Pöttyözve fest",
         "Vizet spriccel",
-        "Kitörli the képet",
-        "Kikapcsolja the Paintet"
+        "Kitörli a képet",
+        "Kikapcsolja a Paintet"
       ],
       "correct": 0
     },
@@ -239,9 +239,9 @@
       "question": "Hogyan forgatunk el egy képet?",
       "options": [
         "A Forgatás menüponttal",
-        "Megfordítjuk the monitort",
+        "Megfordítjuk a monitort",
         "Fejre állunk",
-        "Körbe forgatjuk the egeret"
+        "Körbe forgatjuk az egeret"
       ],
       "correct": 0
     },
@@ -272,7 +272,7 @@
       "question": "Mi történik, ha 'kiömlik' a festék a vödörből?",
       "options": [
         "Befesti az egész lapot, ha nincs bezárva a vonal",
-        "Tönkremegy the gép",
+        "Tönkremegy a gép",
         "Vizes lesz az asztal",
         "Semmi"
       ],

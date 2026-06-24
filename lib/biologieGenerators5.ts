@@ -98,21 +98,21 @@ const AMPHIBIAN_DATA = [
 ];
 
 const REPTILE_DATA = [
-  { name: "Schlange", feature: "Schuppen", diet: "Fleischfresser", limbs: "keine" },
-  { name: "Eidechse", feature: "Vier Beine", diet: "Insekten", tail: "Schwanz" },
-  { name: "Schildkröte", feature: "Panzer", diet: "Pflanzen", protection: "Schale" },
-  { name: "Krokodil", feature: "Starke Kiefer", diet: "Fleischfresser", armor: "Panzerung" },
-  { name: "Blindschleiche", feature: "Keine Beine", type: "Echse", confusing: "Schlangen-ähnlich" },
-  { name: "Wasserschildkröte", feature: "Flossen", habitat: "Wasser", swimmer: "wasserlebend" },
+  { name: "Schlange", feature: "Schuppen", skin: "Schuppen", diet: "Fleischfresser", limbs: "keine" },
+  { name: "Eidechse", feature: "Vier Beine", skin: "Schuppen", diet: "Insekten", tail: "Schwanz" },
+  { name: "Schildkröte", feature: "Panzer", skin: "Schuppen und Panzer", diet: "Pflanzen", protection: "Schale" },
+  { name: "Krokodil", feature: "Starke Kiefer", skin: "Schuppen", diet: "Fleischfresser", armor: "Panzerung" },
+  { name: "Blindschleiche", feature: "Keine Beine", skin: "Schuppen", type: "Echse", confusing: "Schlangen-ähnlich" },
+  { name: "Wasserschildkröte", feature: "Flossen", skin: "Schuppen", habitat: "Wasser", swimmer: "wasserlebend" },
 ];
 
 const BIRD_DATA = [
-  { name: "Adler", adaptation: "Hohlknochen", feature: "Scharfe Augen", hunt: "Raubvogel" },
-  { name: "Schwalbe", adaptation: "Leichte Flügel", feature: "Schnell", acrobatic: "wendige Flüge" },
-  { name: "Ente", adaptation: "Wasserdicht", feature: "Schwimmhäute", waterbird: "Wasservogel" },
-  { name: "Pinguin", adaptation: "Wasserstromlinie", feature: "Schwimmflossen", arctic: "kalt" },
-  { name: "Strauß", adaptation: "Starke Beine", feature: "Flugunfähig", landbird: "Laufvogel" },
-  { name: "Kolibri", adaptation: "Winzige Flügel", feature: "Schnelle Schläge", hover: "schwebend" },
+  { name: "Adler", adaptation: "Hohlknochen", feature: "Scharfe Augen", hunt: "Raubvogel", canFly: true, distinctTrait: "Jagd aus der Luft" },
+  { name: "Schwalbe", adaptation: "Leichte Flügel", feature: "Schnell", acrobatic: "wendige Flüge", canFly: true, distinctTrait: "wendige Flüge" },
+  { name: "Ente", adaptation: "Wasserdicht", feature: "Schwimmhäute", waterbird: "Wasservogel", canFly: true, distinctTrait: "Schwimmen und Fliegen" },
+  { name: "Pinguin", adaptation: "Wasserstromlinie", feature: "Schwimmflossen", arctic: "kalt", canFly: false, distinctTrait: "Tauchen und Schwimmen" },
+  { name: "Strauß", adaptation: "Starke Beine", feature: "Flugunfähig", landbird: "Laufvogel", canFly: false, distinctTrait: "schnelles Laufen" },
+  { name: "Kolibri", adaptation: "Winzige Flügel", feature: "Schnelle Schläge", hover: "schwebend", canFly: true, distinctTrait: "Schweben vor Blüten" },
 ];
 
 const MAMMAL_DATA = [
@@ -306,7 +306,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
     const templates = [
       (r: typeof REPTILE_DATA[0]) => ({
         q: `Womit ist die Haut der ${r.name} bedeckt?`,
-        a: r.feature,
+        a: r.skin,
         w: ["Haare", "Federn", "Mucus"],
       }),
       (r: typeof REPTILE_DATA[0]) => ({
@@ -349,9 +349,10 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
   bird: (seed?: number) => {
     const rng = seed ? mulberry32(seed) : Math.random;
     const questions: CurriculumQuestion[] = [];
+    const flyingBirds = BIRD_DATA.filter(b => b.canFly);
     const templates = [
       (b: typeof BIRD_DATA[0]) => ({
-        q: `Welche Anpassung hilft ${b.name} zu fliegen?`,
+        q: `Welche Anpassung hat ${b.name}?`,
         a: b.adaptation,
         w: ["Dicke Federn", "Schwere Knochen", "Kurze Flügel"],
       }),
@@ -361,7 +362,7 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
         w: ["falsch"],
       }),
       (b: typeof BIRD_DATA[0]) => ({
-        q: `Welcher Vogel ist bekannt für "${b.hunt || "Flugkünste"}"?`,
+        q: `Welcher Vogel ist bekannt für ${b.distinctTrait}?`,
         a: b.name,
         w: ["Fisch", "Schlange", "Amphibie"]
       }),
@@ -376,11 +377,24 @@ export const K5_Generators: Record<string, (seed?: number) => CurriculumQuestion
         w: ["falsch"]
       }),
     ];
+    // Separate template only for flying birds: flying-adaptation question
+    const flyingAdaptationTemplate = (b: typeof BIRD_DATA[0]) => ({
+      q: `Welche Anpassung hilft ${b.name} zu fliegen?`,
+      a: b.adaptation,
+      w: ["Dicke Federn", "Schwere Knochen", "Kurze Flügel"],
+    });
     for (let i = 0; i < 30; i++) {
-      const bird = pick(BIRD_DATA, rng);
-      const template = templates[i % templates.length];
-      const t = template(bird);
-      questions.push(createMCQ("wirbeltiere", "bird", t.q, t.a, t.w, rng));
+      const templateIdx = i % (templates.length + 1);
+      if (templateIdx === templates.length) {
+        // flying-adaptation: only use flying birds
+        const bird = pick(flyingBirds, rng);
+        const t = flyingAdaptationTemplate(bird);
+        questions.push(createMCQ("wirbeltiere", "bird", t.q, t.a, t.w, rng));
+      } else {
+        const bird = pick(BIRD_DATA, rng);
+        const t = templates[templateIdx](bird);
+        questions.push(createMCQ("wirbeltiere", "bird", t.q, t.a, t.w, rng));
+      }
     }
     return questions;
   },

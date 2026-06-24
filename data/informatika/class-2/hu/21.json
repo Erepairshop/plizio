@@ -38,7 +38,7 @@
     },
     {
       "type": "mcq",
-      "question": "Melyik gombbal állítjuk meg the videót?",
+      "question": "Melyik gombbal állítjuk meg a videót?",
       "options": [
         "Szünet (Pause) vagy Stop",
         "Enter",
@@ -49,11 +49,11 @@
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the 'teljes képernyő'?",
+      "question": "Mit jelent a 'teljes képernyő'?",
       "options": [
-        "A videó betölti the egész monitort",
-        "Nagyobb lesz the monitor",
-        "Kitisztul the kép",
+        "A videó betölti az egész monitort",
+        "Nagyobb lesz a monitor",
+        "Kitisztul a kép",
         "Semmit"
       ],
       "correct": 0
@@ -63,7 +63,7 @@
       "question": "Hogyan tekerünk előre a videóban?",
       "options": [
         "Az idővonalon előrébb kattintunk",
-        "Meglökjük the gépet",
+        "Meglökjük a gépet",
         "Gyorsabban pislogunk",
         "Sehogy"
       ],
@@ -97,7 +97,7 @@
       "options": [
         "Hogy olvashassuk, amit mondanak",
         "Hogy rajzolhassunk rá",
-        "Hogy ne halljuk the hangot",
+        "Hogy ne halljuk a hangot",
         "Dísznek"
       ],
       "correct": 0
@@ -107,7 +107,7 @@
       "question": "Hogyan lesz élesebb a videó?",
       "options": [
         "A minőség (HD) beállításával",
-        "Megtöröljük the szemünket",
+        "Megtöröljük a szemünket",
         "Nagyítóval",
         "Várunk"
       ],
@@ -128,7 +128,7 @@
       "type": "mcq",
       "question": "Mire jó a 'tetszik' (like) gomb?",
       "options": [
-        "Jelezzük, hogy tetszett the videó",
+        "Jelezzük, hogy tetszett a videó",
         "Ezzel mentjük el",
         "Ezzel töröljük",
         "Semmire"
@@ -140,7 +140,7 @@
       "question": "Lehet-e videót vágni?",
       "options": [
         "Igen, videószerkesztő programmal",
-        "Nem, the videó egyben marad",
+        "Nem, a videó egyben marad",
         "Csak ollóval",
         "Csak ha van kameránk"
       ],
@@ -173,7 +173,7 @@
       "question": "Mi az a 'streamelés'?",
       "options": [
         "Videónézés élőben az interneten",
-        "Víz folyatása the gépre",
+        "Víz folyatása a gépre",
         "Rajzolás",
         "Alvás"
       ],
@@ -184,7 +184,7 @@
       "question": "Hogyan mentünk el egy videót későbbre?",
       "options": [
         "A 'Mentés' vagy 'Később megnézem' gombbal",
-        "Leírjuk the címét",
+        "Leírjuk a címét",
         "Rágondolunk",
         "Sehogy"
       ],
@@ -240,7 +240,7 @@
       "options": [
         "A kamera vagy telefon felvétel gombjával",
         "Rajzolunk sok képet",
-        "Beszélünk the géphez",
+        "Beszélünk a géphez",
         "Sehogy"
       ],
       "correct": 0
@@ -258,22 +258,22 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the lassított felvétel?",
+      "question": "Mire jó a lassított felvétel?",
       "options": [
-        "Hogy jobban lássuk the gyors mozgást",
-        "Hogy tovább tartson the film",
-        "Mert elromlott the gép",
+        "Hogy jobban lássuk a gyors mozgást",
+        "Hogy tovább tartson a film",
+        "Mert elromlott a gép",
         "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Miért fontos the jó internet the videózáshoz?",
+      "question": "Miért fontos a jó internet a videózáshoz?",
       "options": [
-        "Hogy ne akadjon meg the kép",
-        "Hogy szebb legyen the színe",
-        "Hogy halljuk the hangot",
+        "Hogy ne akadjon meg a kép",
+        "Hogy szebb legyen a színe",
+        "Hogy halljuk a hangot",
         "Nem fontos"
       ],
       "correct": 0

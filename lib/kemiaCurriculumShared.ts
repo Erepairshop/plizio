@@ -1,5 +1,6 @@
 import type { CurriculumQuestion as BaseCurriculumQuestion, CurriculumTheme } from "./curriculumTypes";
 import type { TestGradeMark } from "./languageTestTypes";
+import { pickDiverse } from "./testDiversity";
 
 export type CurriculumQuestion = BaseCurriculumQuestion;
 export type KemiaQuestion = CurriculumQuestion;
@@ -31,7 +32,8 @@ export function createMCQ(
   wrong: string[],
   rng: () => number
 ): CurriculumQuestion {
-  const options = shuffle([correct, ...wrong.slice(0, 3)], rng);
+  const uniqueWrong = wrong.filter((w, i) => w !== correct && wrong.indexOf(w) === i);
+  const options = shuffle([correct, ...uniqueWrong.slice(0, 3)], rng);
   return {
     type: "mcq",
     topic,
@@ -135,7 +137,7 @@ export function getGeneratedQuestions(
     [pool[i], pool[j]] = [pool[j], pool[i]];
   }
 
-  return pool.slice(0, count);
+  return pickDiverse(pool, count);
 }
 
 export function calculateKemiaMark(pct: number): TestGradeMark {

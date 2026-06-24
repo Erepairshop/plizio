@@ -1,4 +1,5 @@
 import AI_K6_JSON from "./aiCurriculum6_data.json";
+import { pickDiverse } from "./testDiversity";
 import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
 
 type MultiLang = { de: string; hu: string; ro: string; en: string };
@@ -93,34 +94,23 @@ const AI_K6_DATA: Record<string, RawQuestion[]> = { ...(AI_K6_JSON as any),
 
 // Content generator function to ensure 25 MCQ + 10 Typing per subtopic
 function generateFinalQuestions(subId: string): RawQuestion[] {
-  const baseData = AI_K6_DATA[subId] || AI_K6_DATA["ai_k6_t1_1"];
-  const mcqs = baseData.filter(q => q.type === "mcq");
-  const typings = baseData.filter(q => q.type === "typing");
-
-  if (mcqs.length === 0) mcqs.push(AI_K6_DATA["ai_k6_t1_1"][0]);
-  if (typings.length === 0) typings.push(AI_K6_DATA["ai_k6_t1_1"][2]);
-
-  const result: RawQuestion[] = [];
-  
-  // Fill 25 MCQs
-  for (let i = 0; i < 25; i++) {
-    const original = mcqs[i % mcqs.length];
-    result.push({
-      ...original,
-      // Add slight variation for the grade level if needed, 
-      // but here we just ensure the count is correct as per instructions.
-    });
+  // A gazdag JSON-tartalmat használjuk (a régi inline-shadow + 25/10-ciklus elárnyékolta és
+  // duplikálta). JSON + esetleges inline-extra egyesítve, kérdés-szöveg szerint dedupolva.
+  const fromJson = Array.isArray((AI_K6_JSON as any)[subId]) ? ((AI_K6_JSON as any)[subId] as RawQuestion[]) : [];
+  const fromInline = Array.isArray(AI_K6_DATA[subId]) ? AI_K6_DATA[subId] : [];
+  const merged = fromJson.length >= fromInline.length ? [...fromJson, ...fromInline] : [...fromInline, ...fromJson];
+  const seen = new Set<string>();
+  const out: RawQuestion[] = [];
+  for (const q of merged) {
+    const ql = (q as any)?.question;
+    const key = (ql && ql.hu) || (typeof ql === "string" ? ql : JSON.stringify(q));
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push(q);
   }
-
-  // Fill 10 Typings
-  for (let i = 0; i < 10; i++) {
-    const original = typings[i % typings.length];
-    result.push({
-      ...original,
-    });
-  }
-
-  return result;
+  if (out.length > 0) return out;
+  const fb = AI_K6_DATA["ai_k6_t1_1"];
+  return Array.isArray(fb) ? fb : [];
 }
 
 export const AI_K6_CURRICULUM: KemiaTheme[] = [
@@ -246,5 +236,5 @@ export function getAIK6Questions(subtopicIds: string[], count = 10, lang = "hu")
     [pool[i], pool[j]] = [pool[j], pool[i]];
   }
   
-  return pool.slice(0, count);
+  return pickDiverse(pool, count);
 }

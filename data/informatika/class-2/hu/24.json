@@ -84,7 +84,7 @@
       "type": "mcq",
       "question": "Mire kell figyelni VR közben?",
       "options": [
-        "Hogy ne menjünk neki the falnak/bútornak",
+        "Hogy ne menjünk neki a falnak/bútornak",
         "Hogy ne nézzünk",
         "Hogy ne lélegezzünk",
         "Semmire"
@@ -96,7 +96,7 @@
       "question": "Lehet-e a VR-ban repülni?",
       "options": [
         "Igen, a játékban bármi lehetséges",
-        "Nem, the gép nem tud repülni",
+        "Nem, a gép nem tud repülni",
         "Csak ha mi is ugrunk",
         "Soha"
       ],
@@ -118,7 +118,7 @@
       "question": "Tudunk-e VR-ban a tenger mélyén járni?",
       "options": [
         "Igen, virtuálisan",
-        "Nem, elázik the gép",
+        "Nem, elázik a gép",
         "Csak ha tudunk úszni",
         "Soha"
       ],
@@ -227,7 +227,7 @@
       "type": "mcq",
       "question": "Mi az az 'haptikus kesztyű'?",
       "options": [
-        "Kesztyű, amivel 'érezhetjük' the tárgyakat a VR-ban",
+        "Kesztyű, amivel 'érezhetjük' a tárgyakat a VR-ban",
         "Egy meleg kesztyű",
         "Egy gumikesztyű",
         "Semmi"
@@ -238,8 +238,8 @@
       "type": "mcq",
       "question": "Mire jó a VR az építészeknek?",
       "options": [
-        "Bejárhatják the házat, mielőtt felépül",
-        "Ezzel verik be the szöget",
+        "Bejárhatják a házat, mielőtt felépül",
+        "Ezzel verik be a szöget",
         "Ezzel festenek",
         "Semmire"
       ],

@@ -77,11 +77,11 @@ const ORGANS = [
 
 // Nutrition & Food Groups
 const FOOD_GROUPS = [
-  { group: "Obst und Gemüse", benefit: "Vitamine und Mineralien", color: "verschiedene Farben" },
-  { group: "Getreide und Kartoffeln", benefit: "Kohlenhydrate und Energie", source: "Vollkornprodukte" },
+  { group: "Obst und Gemüse", benefit: "Vitamine und Mineralien", examples: "Äpfel, Karotten, Bananen", color: "verschiedene Farben" },
+  { group: "Getreide und Kartoffeln", benefit: "Kohlenhydrate und Energie", examples: "Brot, Nudeln, Reis", source: "Vollkornprodukte" },
   { group: "Milchprodukte", benefit: "Kalzium und Protein", examples: "Milch, Käse, Joghurt" },
-  { group: "Fleisch und Fisch", benefit: "Protein und Eisen", frequency: "2-3 Mal pro Woche" },
-  { group: "Fette und Öle", benefit: "Energie und Vitamine", moderate: "in Maßen" }
+  { group: "Fleisch und Fisch", benefit: "Protein und Eisen", examples: "Hähnchen, Lachs, Rind", frequency: "2-3 Mal pro Woche" },
+  { group: "Fette und Öle", benefit: "Energie und Vitamine", examples: "Butter, Olivenöl, Nüsse", moderate: "in Maßen" }
 ];
 
 // Human Development & Growth
@@ -94,11 +94,11 @@ const GROWTH_STAGES = [
 
 // Animals - Mammals
 const MAMMALS = [
-  { animal: "Elefant", habitat: "Afrika/Asien", diet: "Pflanzenfresser", size: "größtes Landtier" },
-  { animal: "Löwe", habitat: "Afrika", diet: "Fleischfresser", social: "Rudel" },
-  { animal: "Wal", habitat: "Ozean", diet: "Fische und Krill", breathe: "Lungen" },
-  { animal: "Fledermaus", habitat: "überall", diet: "Insekten", special: "können fliegen" },
-  { animal: "Eisbär", habitat: "Arktis", diet: "Fleischfresser", color: "weiß" }
+  { animal: "Elefant", habitat: "Afrika und Asien", diet: "Pflanzenfresser", dietDetail: "Pflanzen und Gräser", size: "größtes Landtier" },
+  { animal: "Löwe", habitat: "Afrika", diet: "Fleischfresser", dietDetail: "Fleisch (Zebras, Antilopen)", social: "Rudel" },
+  { animal: "Wal", habitat: "Ozean", diet: "Fleischfresser", dietDetail: "Fische und Krill", breathe: "Lungen" },
+  { animal: "Fledermaus", habitat: "überall", diet: "Fleischfresser", dietDetail: "Insekten", special: "können fliegen" },
+  { animal: "Eisbär", habitat: "Arktis", diet: "Fleischfresser", dietDetail: "Fische und Robben", color: "weiß" }
 ];
 
 // Animals - Birds
@@ -121,10 +121,10 @@ const REPTILES = [
 // Insects
 const INSECTS = [
   { insect: "Biene", legs: "6", wings: "4", special: "bestäubt Blüten" },
-  { insect: "Schmetterling", legs: "6", wings: "4", color: "bunt" },
-  { insect: "Käfer", legs: "6", wings: "2 oder 4", hard: "harter Panzer" },
-  { insect: "Libelle", legs: "6", wings: "4", speed: "schneller Flieger" },
-  { insect: "Ameise", legs: "6", social: "Kolonie", strength: "sehr stark" }
+  { insect: "Schmetterling", legs: "6", wings: "4", special: "hat bunte Flügel" },
+  { insect: "Käfer", legs: "6", wings: "2 oder 4", special: "hat einen harten Panzer" },
+  { insect: "Libelle", legs: "6", wings: "4", special: "ist ein schneller Flieger" },
+  { insect: "Ameise", legs: "6", wings: "keine", special: "lebt in einer Kolonie" }
 ];
 
 // Plants - Structure
@@ -300,8 +300,8 @@ export function generateErnährung(seed?: number): CurriculumMCQ[] {
       const group1 = pick(FOOD_GROUPS, rng);
       q.push(createMCQ("sachkunde", "ernährung",
         `Welches Lebensmittel gehört zur Gruppe "${group1.group}"?`,
-        group1.examples || group1.source || group1.benefit,
-        FOOD_GROUPS.filter(g => g.group !== group1.group).map(g => g.benefit).slice(0, 3), rng));
+        group1.examples,
+        FOOD_GROUPS.filter(g => g.group !== group1.group).map(g => g.examples).slice(0, 3), rng));
     } else {
       const group2 = pick(FOOD_GROUPS, rng);
       q.push(createMCQ("sachkunde", "ernährung",
@@ -370,14 +370,15 @@ export function generateSäugetiere(seed?: number): CurriculumMCQ[] {
     const type = i % 4;
     if (type === 0) {
       const mammal = pick(MAMMALS, rng);
+      const otherHabitats = MAMMALS.filter(m => m.animal !== mammal.animal).map(m => m.habitat);
       q.push(createMCQ("sachkunde", "säugetiere",
         `Wo lebt der/die ${mammal.animal}?`, mammal.habitat,
-        ["im Wasser", "in der Luft", "in Höhlen"], rng));
+        otherHabitats.slice(0, 3), rng));
     } else if (type === 1) {
       const mammal = pick(MAMMALS, rng);
       q.push(createMCQ("sachkunde", "säugetiere",
-        `Ist der/die ${mammal.animal} ein Fleischfresser oder Pflanzenfresser?`, mammal.diet,
-        mammal.diet.includes("Fleisch") ? ["Pflanzenfresser", "Allesfresser"] : ["Fleischfresser", "Allesfresser"], rng));
+        `Was frisst der/die ${mammal.animal}?`, mammal.dietDetail,
+        MAMMALS.filter(m => m.animal !== mammal.animal).map(m => m.dietDetail).slice(0, 3), rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "säugetiere",
         `Was ist das größte Landsäugetier?`, "Elefant",
@@ -470,17 +471,15 @@ export function generateInsekten(seed?: number): CurriculumMCQ[] {
         ["4", "8", "10"], rng));
     } else if (type === 1) {
       const insect = pick(INSECTS, rng);
-      const special = (insect as any).special || (insect as any).color || "interessant";
       q.push(createMCQ("sachkunde", "insekten",
-        `Was ist besonders am ${insect.insect}?`, special,
-        ["hat keine Flügel", "lebt nur im Wasser", "ist ein Säugetier"], rng));
+        `Was ist besonders am ${insect.insect}?`, insect.special,
+        INSECTS.filter(ins => ins.insect !== insect.insect).map(ins => ins.special).slice(0, 3), rng));
     } else {
       const insect2 = pick(INSECTS, rng);
       const otherInsects = INSECTS.filter(ins => ins.insect !== insect2.insect).map(ins => ins.insect);
-      const sp2 = (insect2 as any).special || (insect2 as any).color || (insect2 as any).social || (insect2 as any).hard || "interessant";
       q.push(createMCQ("sachkunde", "insekten",
-        `Welches Insekt "${sp2}"?`, insect2.insect,
-        [pick(otherInsects, rng), pick(otherInsects.slice(1), rng) || "Mücke", "Spinne"], rng));
+        `Welches Insekt ${insect2.special}?`, insect2.insect,
+        [pick(otherInsects, rng), otherInsects.find(n => n !== pick(otherInsects, rng)) || "Mücke", "Spinne"], rng));
     }
   }
 
@@ -656,8 +655,8 @@ export function generateWasser(seed?: number): CurriculumMCQ[] {
     if (type === 0) {
       const wf = pick(WATER_FACTS, rng);
       q.push(createMCQ("sachkunde", "wasser",
-        `Was weißt du über Wasser? "${wf.fact}"`, wf.ocean || wf.daily || wf.solid || wf.cycle || wf.importance || "richtig",
-        ["stimmt nicht", "falsch", "ist unbekannt"], rng));
+        `Stimmt diese Aussage über Wasser: "${wf.fact}"?`, "Ja, das stimmt",
+        ["Nein, das stimmt nicht", "Nur manchmal", "Das ist unbekannt"], rng));
     } else if (type === 1) {
       const wf1 = pick(WATER_FACTS, rng);
       q.push(createMCQ("sachkunde", "wasser",

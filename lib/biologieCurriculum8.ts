@@ -4,6 +4,7 @@
 
 import type { CurriculumTheme, CurriculumQuestion } from "./curriculumTypes";
 import type { TestGradeMark } from "./languageTestTypes";
+import { pickDiverse } from "./testDiversity";
 
 export type BiologieQuestion = CurriculumQuestion;
 export type BiologieTheme = CurriculumTheme;
@@ -114,7 +115,7 @@ export function getK8Questions(
         }
       }
     }
-    return pool.slice(0, count);
+    return pickDiverse(pool, count);
   }
 
   for (const theme of themes) {
@@ -148,7 +149,7 @@ export function getK8Questions(
     const j = Math.floor(Math.random() * (i + 1));
     [dedupedPool[i], dedupedPool[j]] = [dedupedPool[j], dedupedPool[i]];
   }
-  return dedupedPool.slice(0, count);
+  return pickDiverse(dedupedPool, count);
 }
 
 // ─── GRADING ──────────────────────────────────────────────────────────────

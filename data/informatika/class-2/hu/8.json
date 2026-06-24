@@ -16,7 +16,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hová dugjuk the pendrive-ot?",
+      "question": "Hová dugjuk a pendrive-ot?",
       "options": [
         "Az USB portba",
         "A konnektorba",
@@ -27,7 +27,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the pendrive?",
+      "question": "Mire jó a pendrive?",
       "options": [
         "Fájlok szállítására gépek között",
         "Zenehallgatásra fülhallgató nélkül",
@@ -43,7 +43,7 @@
         "A tálcán az adathordozó kiadása gombbal",
         "Egyszerűen kirántjuk",
         "Ollóval levágjuk",
-        "Kikapcsoljuk the gépet"
+        "Kikapcsoljuk a gépet"
       ],
       "correct": 0
     },
@@ -93,10 +93,10 @@
     },
     {
       "type": "mcq",
-      "question": "Mi történik, ha vizes lesz the pendrive?",
+      "question": "Mi történik, ha vizes lesz a pendrive?",
       "options": [
         "Tönkremehet, ne érje víz",
-        "Semmi, szereti the vizet",
+        "Semmi, szereti a vizet",
         "Gyorsabb lesz",
         "Kék lesz"
       ],
@@ -129,8 +129,8 @@
       "question": "Lehet-e vírusos egy pendrive?",
       "options": [
         "Igen, ezért vigyázni kell vele",
-        "Nem, the vírus nem szereti",
-        "Csak ha beteg the tulajdonosa",
+        "Nem, a vírus nem szereti",
+        "Csak ha beteg a tulajdonosa",
         "Csak ha meleg van"
       ],
       "correct": 0
@@ -159,7 +159,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hányféleképpen lehet bedugni the régi USB-t?",
+      "question": "Hányféleképpen lehet bedugni a régi USB-t?",
       "options": [
         "Csak egyféleképpen, ha nem megy, meg kell fordítani",
         "Bárhogy",
@@ -203,10 +203,10 @@
     },
     {
       "type": "mcq",
-      "question": "Mit csinálunk, ha nem olvassa the gép?",
+      "question": "Mit csinálunk, ha nem olvassa a gép?",
       "options": [
         "Kihúzzuk és újra bedugjuk",
-        "Megütjük the gépet",
+        "Megütjük a gépet",
         "Bele fújunk",
         "Sírva fakadunk"
       ],
@@ -247,9 +247,9 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan védjük the pendrive-ot?",
+      "question": "Hogyan védjük a pendrive-ot?",
       "options": [
-        "Rátesszük the kupakját",
+        "Rátesszük a kupakját",
         "Vízbe tesszük",
         "Melegítjük",
         "Elássuk"
@@ -260,7 +260,7 @@
       "type": "mcq",
       "question": "Mire jó a felhő tárhely a pendrive helyett?",
       "options": [
-        "Internetten tároljuk the fájlokat",
+        "Internetten tároljuk a fájlokat",
         "Az égen tároljuk",
         "Esőben használjuk",
         "Semmire"

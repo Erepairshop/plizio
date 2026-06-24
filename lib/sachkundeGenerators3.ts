@@ -133,7 +133,7 @@ const SPORTS_ACTIVITIES = [
 
 const PULSE_FACTS = [
   { fact: "Ruhepuls Kind: 80-120 Schläge pro Minute", context: "in Ruhe" },
-  { fact: "Puls steigt beim Sport", reason: "Herz pumpt mehr Blut" },
+  { fact: "Puls steigt beim Sport", reason: "Herz pumpt mehr Blut", context: "beim Sport" },
   { fact: "Trainingspuls: 120-150 Schläge pro Minute", context: "beim Sport" }
 ];
 
@@ -202,7 +202,7 @@ const DOG_BREEDS = [
 const DOMESTICATION = [
   { animal: "Hund", ancestor: "Wolf", process: "vor 10000+ Jahren" },
   { animal: "Katze", ancestor: "Wildkatze", process: "vor 9000+ Jahren" },
-  { animal: "Schaf", ancestor: "Mufflon", process: "vor 10000+ Jahren" },
+  { animal: "Schaf", ancestor: "Mufflon", process: "vor 11000+ Jahren" },
   { animal: "Pferd", ancestor: "Wildpferd", process: "vor 6000+ Jahren" }
 ];
 
@@ -253,7 +253,7 @@ const FOREST_LAYERS = [
   { layer: "Baumschicht", height: "20-50 m", plants: "hohe Bäume (Eiche, Buche, Fichte)", light: "viel Licht" },
   { layer: "Strauchschicht", height: "2-20 m", plants: "kleinere Bäume und Sträucher", light: "gedimmt" },
   { layer: "Krautschicht", height: "0-2 m", plants: "Blüten, Gräser, Farne", light: "wenig Licht" },
-  { layer: "Bodenschicht", depth: "im Boden", plants: "Pilze, Moose, Flechten", light: "kein Licht" }
+  { layer: "Bodenschicht", height: "im Boden", plants: "Pilze, Moose, Flechten", light: "kein Licht" }
 ];
 
 const FOREST_ADAPTATION = [
@@ -750,7 +750,7 @@ export function generatePhotosynthese(seed?: number): CurriculumMCQ[] {
     if (type === 0) {
       const input = pick(PHOTOSYNTHESIS, rng);
       q.push(createMCQ("sachkunde", "photosynthese_einfach",
-        `Was braucht eine Pflanze für Photosynthese? ${input.input}`, input.role,
+        `Woher bekommt die Pflanze "${input.input}" für die Photosynthese?`, input.role,
         PHOTOSYNTHESIS.filter(p => p.input !== input.input).map(p => p.role), rng));
     } else if (type === 1) {
       q.push(createMCQ("sachkunde", "photosynthese_einfach",

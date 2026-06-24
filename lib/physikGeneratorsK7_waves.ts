@@ -319,19 +319,33 @@ function generateEMSpectrumTyping(lang = "en", seed = 0): CurriculumTyping[] {
 
   const types = ["Radiowellen", "Mikrowellen", "Infrarot", "Sichtbares Licht", "Ultraviolett", "Röntgenstrahlen", "Gammastrahlung"];
   const enTypes = ["Radio waves", "Microwaves", "Infrared", "Visible light", "Ultraviolet", "X-rays", "Gamma rays"];
+  const huTypes = ["Rádióhullámok", "Mikrohullámok", "Infravörös", "Látható fény", "Ultraibolya", "Röntgensugár", "Gammasugárzás"];
+  const roTypes = ["Unde radio", "Microunde", "Infraroșu", "Lumină vizibilă", "Ultraviolet", "Raze X", "Raze gamma"];
+
+  // Long wavelength: Radio waves, Microwaves. Short wavelength: all others.
+  const isLong = (idx: number) => idx === 0 || idx === 1;
 
   for (let i = 0; i < 8; i++) {
-    const type = pick(types, mulberry32(seed + i));
+    const rng = mulberry32(seed + i);
+    const idx = Math.floor(rng() * types.length);
+    const type = types[idx];
+    const enType = enTypes[idx];
+    const huType = huTypes[idx];
+    const roType = roTypes[idx];
+    const long = isLong(idx);
+    const answer = long
+      ? ["lang", "long", "hosszú", "lung"]
+      : ["kurz", "short", "rövid", "scurt"];
     qs.push(createTyping(
       "waves", "electromagnetic_spectrum",
       q4(
         `${type} haben welche Wellenlänge? (lang/kurz)`,
-        `${enTypes[types.indexOf(type)]} have what wavelength? (long/short)`,
-        `${type} milyen hullámhosszúak? (hosszú/rövid)`,
-        `${type} au ce lungime de undă? (lung/scurt)`,
+        `${enType} have what wavelength? (long/short)`,
+        `${huType} milyen hullámhosszúak? (hosszú/rövid)`,
+        `${roType} au ce lungime de undă? (lung/scurt)`,
         lang
       ),
-      ["lang", "long", "hosszú", "lung"]
+      answer
     ));
   }
 

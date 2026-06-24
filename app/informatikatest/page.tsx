@@ -48,11 +48,11 @@ const INFO_CONFIG: LanguageTestEngineConfig = {
     8: asCurriculumThemes(INFO_K8_CURRICULUM),
   },
 
-  getQuestions: (grade, subtopicIds, count) => {
-    if (grade === 5) return getInfoK5Questions(subtopicIds, count);
-    if (grade === 6) return getInfoK6Questions(subtopicIds, count);
-    if (grade === 7) return getInfoK7Questions(subtopicIds, count);
-    return getInfoK8Questions(subtopicIds, count);
+  getQuestions: (grade, subtopicIds, count, countryCode) => {
+    if (grade === 5) return getInfoK5Questions(subtopicIds, count, countryCode);
+    if (grade === 6) return getInfoK6Questions(subtopicIds, count, countryCode);
+    if (grade === 7) return getInfoK7Questions(subtopicIds, count, countryCode);
+    return getInfoK8Questions(subtopicIds, count, countryCode);
   },
 
   labels: {

@@ -52,8 +52,8 @@
       "question": "Mit csinál az 'Aláhúzott' gomb?",
       "options": [
         "Vonalat húz a szöveg alá",
-        "Áthúzza the szöveget",
-        "Törli the szöveget",
+        "Áthúzza a szöveget",
+        "Törli a szöveget",
         "Kiszínezi"
       ],
       "correct": 0
@@ -82,7 +82,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan igazítjuk középre the szöveget?",
+      "question": "Hogyan igazítjuk középre a szöveget?",
       "options": [
         "A középre igazítás ikonnal",
         "Sok szóközzel",
@@ -109,7 +109,7 @@
         "Töröljük és újraírjuk",
         "Átfestjük",
         "Hagyjuk úgy",
-        "Kikapcsoljuk the gépet"
+        "Kikapcsoljuk a gépet"
       ],
       "correct": 0
     },
@@ -118,7 +118,7 @@
       "question": "Mire jó a 'Helyesírás-ellenőrző'?",
       "options": [
         "Jelzi a hibás szavakat",
-        "Megírja helyettünk the leckét",
+        "Megírja helyettünk a leckét",
         "Kiszínezi a betűket",
         "Semmire"
       ],
@@ -130,7 +130,7 @@
       "options": [
         "Fájl -> Mentés",
         "Bezárjuk az ablakot",
-        "Kihúzzuk the gépet",
+        "Kihúzzuk a gépet",
         "Space-szel"
       ],
       "correct": 0
@@ -236,7 +236,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the sorkizárt igazítás?",
+      "question": "Mit jelent a sorkizárt igazítás?",
       "options": [
         "A szöveg mindkét széle egyenes",
         "Csak a bal széle egyenes",
@@ -251,7 +251,7 @@
       "options": [
         "Kijelöljük és Delete",
         "Egyesével visszatöröljük",
-        "Kikapcsoljuk the gépet",
+        "Kikapcsoljuk a gépet",
         "Átfestjük"
       ],
       "correct": 0
@@ -272,7 +272,7 @@
       "question": "Mire kell figyelni írás közben?",
       "options": [
         "Hogy egyenesen üljünk",
-        "Hogy ne nézzük the képernyőt",
+        "Hogy ne nézzük a képernyőt",
         "Hogy csak egy kézzel írjunk",
         "Hogy sötét legyen"
       ],

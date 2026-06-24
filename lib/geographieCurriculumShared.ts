@@ -31,7 +31,8 @@ export function createMCQ(
   wrong: string[],
   rng: () => number
 ): CurriculumQuestion {
-  const options = shuffle([correct, ...wrong.slice(0, 3)], rng);
+  const uniqueWrong = wrong.filter((w, i) => w !== correct && wrong.indexOf(w) === i);
+  const options = shuffle([correct, ...uniqueWrong.slice(0, 3)], rng);
   return {
     type: "mcq",
     topic,
@@ -131,7 +132,56 @@ export function getGeneratedQuestions(
     [pool[i], pool[j]] = [pool[j], pool[i]];
   }
 
-  return pool.slice(0, count);
+  return pickDiverse(pool, count);
+}
+
+// Egy kérdés "válasz-kulcsa" (mcq: a helyes opció, typing: az első elfogadott válasz),
+// kisbetűs + ékezet-független, hogy a tartalmilag azonos válaszokat egynek lássuk.
+function answerKey(q: CurriculumQuestion): string {
+  let a = "";
+  if (q.type === "mcq" && Array.isArray(q.options) && typeof q.correct === "number") {
+    a = q.options[q.correct] ?? "";
+  } else if (q.answer != null) {
+    a = Array.isArray(q.answer) ? (q.answer[0] ?? "") : String(q.answer);
+  }
+  return a.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").trim();
+}
+
+// Válasz-diverzitás round-robin elven: a kérdéseket válasz szerint vödrökbe rakjuk,
+// majd körönként EGYET húzunk minden vödörből. Így minden válasz egyszer szerepel,
+// mielőtt bármelyik másodszor jönne → a pool melletti elméleti minimum-ismétlés.
+// A kis válasz-terű témáknál (pl. 4 gazdasági szektor) az ismétlés így is elkerülhetetlen,
+// de egyenletesen oszlik el, nem halmozódik egy válaszra.
+function pickDiverse(pool: CurriculumQuestion[], count: number): CurriculumQuestion[] {
+  if (pool.length <= count) return pool.slice(0, count);
+  const buckets = new Map<string, CurriculumQuestion[]>();
+  const result: CurriculumQuestion[] = [];
+  for (const q of pool) {
+    const k = answerKey(q);
+    if (!k) { result.push(q); continue; } // válasz nélküli kérdés sosem ütközik
+    const b = buckets.get(k);
+    if (b) b.push(q); else buckets.set(k, [q]);
+  }
+  // a vödrök sorrendjét keverjük, hogy ne ugyanaz a válasz nyisson mindig
+  const order = [...buckets.values()];
+  for (let i = order.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [order[i], order[j]] = [order[j], order[i]];
+  }
+  let round = 0;
+  let added = true;
+  while (result.length < count && added) {
+    added = false;
+    for (const b of order) {
+      if (b[round] !== undefined) {
+        result.push(b[round]);
+        added = true;
+        if (result.length >= count) break;
+      }
+    }
+    round++;
+  }
+  return result.slice(0, count);
 }
 
 export function calculateGeographieMark(pct: number): TestGradeMark {

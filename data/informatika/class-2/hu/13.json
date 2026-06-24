@@ -27,10 +27,10 @@
     },
     {
       "type": "mcq",
-      "question": "Szabad-e elárulni the jelszavunkat másnak?",
+      "question": "Szabad-e elárulni a jelszavunkat másnak?",
       "options": [
-        "Nem, csak the szüleinknek",
-        "Igen, the barátunknak",
+        "Nem, csak a szüleinknek",
+        "Igen, a barátunknak",
         "Mindenkinek",
         "A tanárnak, ha kéri"
       ],
@@ -38,10 +38,10 @@
     },
     {
       "type": "mcq",
-      "question": "Mi történik, ha túl egyszerű the jelszó?",
+      "question": "Mi történik, ha túl egyszerű a jelszó?",
       "options": [
-        "Könnyen kitalálhatják the idegenek",
-        "Gyorsabb lesz the gép",
+        "Könnyen kitalálhatják az idegenek",
+        "Gyorsabb lesz a gép",
         "Nem történik semmi",
         "Elfelejtjük"
       ],
@@ -53,14 +53,14 @@
       "options": [
         "Ne adjuk meg az adatainkat idegennek",
         "Ne nézzük túl közelről",
-        "Hogy ne legyen poros the monitor",
+        "Hogy ne legyen poros a monitor",
         "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogyan tároljuk the jelszavunkat?",
+      "question": "Hogyan tároljuk a jelszavunkat?",
       "options": [
         "Jegyezzük meg vagy írjuk titkos helyre",
         "Írjuk a monitorra",
@@ -82,9 +82,9 @@
     },
     {
       "type": "mcq",
-      "question": "Szabad-e megadni the lakcímünket a neten?",
+      "question": "Szabad-e megadni a lakcímünket a neten?",
       "options": [
-        "Csak ha the szüleink engedik",
+        "Csak ha a szüleink engedik",
         "Igen, bárkinek",
         "Csak ha ajándékot ígérnek",
         "Igen, ha kérdezik"
@@ -98,7 +98,7 @@
         "Szóljunk egy felnőttnek",
         "Írjunk vissza csúnyát",
         "Sírjunk",
-        "Töröljük le the gépet"
+        "Töröljük le a gépet"
       ],
       "correct": 0
     },
@@ -106,8 +106,8 @@
       "type": "mcq",
       "question": "Mi az a 'kijelentkezés'?",
       "options": [
-        "Lezárjuk the fiókunkat, hogy más ne lássa",
-        "Kikapcsoljuk the lámpát",
+        "Lezárjuk a fiókunkat, hogy más ne lássa",
+        "Kikapcsoljuk a lámpát",
         "Kimegyünk a szobából",
         "Várunk"
       ],
@@ -115,11 +115,11 @@
     },
     {
       "type": "mcq",
-      "question": "Miért nem jó, ha mindenhol ugyanaz the jelszó?",
+      "question": "Miért nem jó, ha mindenhol ugyanaz a jelszó?",
       "options": [
         "Mert ha egyet kitalálnak, mindent látnak",
         "Mert unalmas",
-        "Mert the gép nem szereti",
+        "Mert a gép nem szereti",
         "Nem baj, jó az"
       ],
       "correct": 0
@@ -128,9 +128,9 @@
       "type": "mcq",
       "question": "Mit jelent a 'biztonság' a gépnél?",
       "options": [
-        "Védjük magunkat és the gépünket",
+        "Védjük magunkat és a gépünket",
         "Hogy nem esik le az asztalról",
-        "Hogy tiszta the billentyűzet",
+        "Hogy tiszta a billentyűzet",
         "Semmit"
       ],
       "correct": 0
@@ -159,10 +159,10 @@
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the lakat ikon a böngészőben?",
+      "question": "Mit jelent a lakat ikon a böngészőben?",
       "options": [
         "Hogy az oldal biztonságos",
-        "Hogy be van zárva the net",
+        "Hogy be van zárva a net",
         "Hogy nem lehet kattintani",
         "Semmit"
       ],
@@ -214,7 +214,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mit tegyünk, ha elfelejtettük the jelszavunkat?",
+      "question": "Mit tegyünk, ha elfelejtettük a jelszavunkat?",
       "options": [
         "Kérjünk segítséget a szülőktől",
         "Sírjunk",
@@ -247,9 +247,9 @@
     },
     {
       "type": "mcq",
-      "question": "Miért fontos the jelszó?",
+      "question": "Miért fontos a jelszó?",
       "options": [
-        "Védi the titkainkat és the fiókunkat",
+        "Védi a titkainkat és a fiókunkat",
         "Mert mindenki kéri",
         "Mert szép",
         "Semmiért"
@@ -271,9 +271,9 @@
       "type": "mcq",
       "question": "Mit csinál egy hacker?",
       "options": [
-        "Rosszban sántikál, feltöri the fiókokat",
+        "Rosszban sántikál, feltöri a fiókokat",
         "Segít gépelni",
-        "Javítja the gépet",
+        "Javítja a gépet",
         "Rajzol"
       ],
       "correct": 0

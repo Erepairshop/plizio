@@ -16,11 +16,11 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the ciklus?",
+      "question": "Mire jó a ciklus?",
       "options": [
         "Hogy ne kelljen ugyanazt sokszor leírni",
-        "Hogy szebb legyen the program",
-        "Hogy lassabb legyen the gép",
+        "Hogy szebb legyen a program",
+        "Hogy lassabb legyen a gép",
         "Semmire"
       ],
       "correct": 0
@@ -49,18 +49,18 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan mondjuk Scratch-ben, hogy ötször lépjen the cica?",
+      "question": "Hogyan mondjuk Scratch-ben, hogy ötször lépjen a cica?",
       "options": [
-        "'Ismételd 5-ször' blokkba tesszük the mozgást",
-        "Ötször odaírjuk the mozgást",
-        "Mindkettő jó, de the ciklus szebb",
+        "'Ismételd 5-ször' blokkba tesszük a mozgást",
+        "Ötször odaírjuk a mozgást",
+        "Mindkettő jó, de a ciklus szebb",
         "Egyik se jó"
       ],
       "correct": 2
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the 'Végtelen ciklus'?",
+      "question": "Mit jelent a 'Végtelen ciklus'?",
       "options": [
         "Ami soha nem fejeződik be",
         "Ami nagyon hosszú",
@@ -74,7 +74,7 @@
       "question": "Hogyan állítunk meg egy végtelen ciklust?",
       "options": [
         "A stop gombbal",
-        "Kihúzzuk the gépet",
+        "Kihúzzuk a gépet",
         "Várunk, amíg elfárad",
         "Kiabálunk neki"
       ],
@@ -104,10 +104,10 @@
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the 'számlálós ciklus'?",
+      "question": "Mit jelent a 'számlálós ciklus'?",
       "options": [
         "Tudjuk előre, hányszor fog ismételni",
-        "A gép számolja the pénzt",
+        "A gép számolja a pénzt",
         "A billentyűket számoljuk",
         "Semmi"
       ],
@@ -137,7 +137,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the ciklus a táncnál?",
+      "question": "Mire jó a ciklus a táncnál?",
       "options": [
         "Ismétlődő mozdulatokhoz",
         "A zene megállításához",
@@ -148,7 +148,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mit csinál the robot, ha 'Ismételd 3-szor: Tapsolj'?",
+      "question": "Mit csinál a robot, ha 'Ismételd 3-szor: Tapsolj'?",
       "options": [
         "Hármat tapsol",
         "Egyszer tapsol",
@@ -175,7 +175,7 @@
         "Semmi nem történik",
         "Egyszer lefut",
         "Végtelenül fut",
-        "Elromlik the gép"
+        "Elromlik a gép"
       ],
       "correct": 0
     },
@@ -192,7 +192,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan jelöljük the ciklust egy rajzon?",
+      "question": "Hogyan jelöljük a ciklust egy rajzon?",
       "options": [
         "Egy visszafelé mutató nyíllal",
         "Egy kereszttel",
@@ -203,9 +203,9 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the ciklus a zenében?",
+      "question": "Mire jó a ciklus a zenében?",
       "options": [
-        "Az ütem és the ritmus ismétlésére",
+        "Az ütem és a ritmus ismétlésére",
         "A hangerőhöz",
         "A hangszerekhez",
         "Semmire"
@@ -214,7 +214,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the 'beágyazott' szó itt?",
+      "question": "Mit jelent a 'beágyazott' szó itt?",
       "options": [
         "Egymásban lévő dolgok",
         "Ágyban fekvő gép",
@@ -225,7 +225,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan változik the szám az ismétlés blokkban?",
+      "question": "Hogyan változik a szám az ismétlés blokkban?",
       "options": [
         "Átírhatjuk bármilyen számra",
         "Csak 10 lehet",
@@ -247,7 +247,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the ciklus a rajzolásnál?",
+      "question": "Mire jó a ciklus a rajzolásnál?",
       "options": [
         "Sok egyforma forma rajzolásához",
         "Csak egy vonalhoz",
@@ -258,7 +258,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mit csinál the gép, ha the ciklus üres?",
+      "question": "Mit csinál a gép, ha a ciklus üres?",
       "options": [
         "Nem csinál semmit",
         "Hibaüzenetet ad",

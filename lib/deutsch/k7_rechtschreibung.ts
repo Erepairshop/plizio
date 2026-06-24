@@ -16,7 +16,7 @@ export const K7_RECHTSCHREIBUNG: DeutschTheme[] = [
             topic: "rechtschreibung_k7",
             subtopic: "gross_klein_k7",
             question: "Welche Schreibweise ist korrekt?",
-            options: ["das lesen macht spass", "Das Lesen macht Spass.", "das Lesen macht Spass.", "Das lesen macht Spass."],
+            options: ["das lesen macht Spaß", "Das Lesen macht Spaß.", "das Lesen macht Spaß.", "Das lesen macht Spaß."],
             correct: 1,
           },
           {

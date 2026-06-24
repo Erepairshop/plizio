@@ -84,9 +84,9 @@
       "type": "mcq",
       "question": "Mire jó az AI a háziban?",
       "options": [
-        "Segíthet megérteni the feladatot",
+        "Segíthet megérteni a feladatot",
         "Megírja helyettünk és mi pihenünk",
-        "Törli the házi feladatot",
+        "Törli a házi feladatot",
         "Semmire"
       ],
       "correct": 0
@@ -106,7 +106,7 @@
       "type": "mcq",
       "question": "Tud-e az AI verset írni?",
       "options": [
-        "Igen, ha megadjuk the témát",
+        "Igen, ha megadjuk a témát",
         "Nem, nincs szíve",
         "Csak ha másol",
         "Soha"
@@ -117,7 +117,7 @@
       "type": "mcq",
       "question": "Melyik egy AI feladat?",
       "options": [
-        "Képen felismerni the kutyát",
+        "Képen felismerni a kutyát",
         "Megenni egy almát",
         "Futni a réten",
         "Aludni"
@@ -128,7 +128,7 @@
       "type": "mcq",
       "question": "Hogyan kérdezünk az AI-tól?",
       "options": [
-        "Beírjuk the kérdést neki (prompt)",
+        "Beírjuk a kérdést neki (prompt)",
         "Ránézünk",
         "Gondolunk rá",
         "Sehogy"
@@ -164,7 +164,7 @@
         "Nincs, csak számítógépes programja",
         "Igen, egy fém agya",
         "Igen, mint nekünk",
-        "Csak ha nagy the gép"
+        "Csak ha nagy a gép"
       ],
       "correct": 0
     },
@@ -172,7 +172,7 @@
       "type": "mcq",
       "question": "Mire jó az AI az orvosoknak?",
       "options": [
-        "Segít felismerni the betegségeket",
+        "Segít felismerni a betegségeket",
         "Helyettük műt mindenkit",
         "Rajzol nekik",
         "Semmire"
@@ -185,7 +185,7 @@
       "options": [
         "Okosabbá teszi az ellenfeleket",
         "Ettől lesz színes",
-        "Ettől megy the net",
+        "Ettől megy a net",
         "Semmire"
       ],
       "correct": 0
@@ -195,7 +195,7 @@
       "question": "Féljünk-e az AI-tól?",
       "options": [
         "Nem, de okosan kell használni",
-        "Igen, elveszi the játékunkat",
+        "Igen, elveszi a játékunkat",
         "Igen, mert okosabb",
         "Soha"
       ],

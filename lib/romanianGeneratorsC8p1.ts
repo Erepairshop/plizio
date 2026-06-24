@@ -66,23 +66,44 @@ function createTyping(topic: string, subtopic: string, question: string, answer:
 const PROPOZITII_SIMPLE = [
   { prop: "Copilul citește o carte frumoasă.", subj: "Copilul", pred: "citește" },
   { prop: "Păsările zboară ușor pe cer.", subj: "Păsările", pred: "zboară" },
-  { prop: "Maria joacă în parc.", subj: "Maria", pred: "joacă" },
+  { prop: "Maria se joacă în parc.", subj: "Maria", pred: "se joacă" },
   { prop: "Ploaia cade toată noaptea.", subj: "Ploaia", pred: "cade" },
-  { prop: "Soarele rasare în est.", subj: "Soarele", pred: "rasare" },
+  { prop: "Soarele răsare în est.", subj: "Soarele", pred: "răsare" },
+  { prop: "Elevii ascultă cu atenție lecția.", subj: "Elevii", pred: "ascultă" },
+  { prop: "Bunica gătește o supă delicioasă.", subj: "Bunica", pred: "gătește" },
+  { prop: "Câinele aleargă prin curte.", subj: "Câinele", pred: "aleargă" },
+  { prop: "Florile înfloresc primăvara.", subj: "Florile", pred: "înfloresc" },
+  { prop: "Vântul bate puternic dinspre nord.", subj: "Vântul", pred: "bate" },
+  { prop: "Profesorul explică problema la tablă.", subj: "Profesorul", pred: "explică" },
+  { prop: "Copiii desenează în caiet.", subj: "Copiii", pred: "desenează" },
+  { prop: "Trenul ajunge în gară la timp.", subj: "Trenul", pred: "ajunge" },
+  { prop: "Apa râului curge la vale.", subj: "Apa", pred: "curge" },
 ];
 
 const PROPOZITII_COMPUSE = [
   { prop: "Merg la cinema și cumpăr bilete.", type: "copulativă" },
-  { prop: "Mănânc măr sau portocală.", type: "disjunctivă" },
+  { prop: "Mănânc un măr sau o portocală.", type: "disjunctivă" },
   { prop: "Vorbesc tare, dar nimeni nu-mi răspunde.", type: "adversativă" },
-  { prop: "Vin la petrecere, căci ești prieten meu.", type: "explicativă" },
+  { prop: "Vin la petrecere, căci ești prietenul meu.", type: "explicativă" },
+  { prop: "Învață mult, deci va reuși.", type: "conclusivă" },
+  { prop: "Citește și scrie în fiecare zi.", type: "copulativă" },
+  { prop: "Ori pleci acum, ori rămâi aici.", type: "disjunctivă" },
+  { prop: "Era obosit, însă a continuat lucrul.", type: "adversativă" },
+  { prop: "Plouă, prin urmare luăm umbrela.", type: "conclusivă" },
+  { prop: "Nu doar cântă, ci și dansează.", type: "copulativă" },
 ];
 
 const SUBORDONARE_TYPES = [
-  { type: "subiectivă", desc: "exprimă subiectul" },
-  { type: "completivă directă", desc: "completeaza un verb" },
-  { type: "de loc", desc: "indica un loc" },
-  { type: "de timp", desc: "indica un moment" },
+  { type: "subiectivă", desc: "exprimă subiectul propoziției regente" },
+  { type: "completivă directă", desc: "completează un verb tranzitiv (răspunde la 'pe cine?', 'ce?')" },
+  { type: "circumstanțială de loc", desc: "arată locul desfășurării acțiunii" },
+  { type: "circumstanțială de timp", desc: "arată momentul desfășurării acțiunii" },
+  { type: "atributivă", desc: "determină un substantiv din regentă" },
+  { type: "predicativă", desc: "îndeplinește rolul de nume predicativ" },
+  { type: "completivă indirectă", desc: "completează un verb (răspunde la 'cui?')" },
+  { type: "circumstanțială de cauză", desc: "arată cauza acțiunii din regentă" },
+  { type: "circumstanțială de scop", desc: "arată scopul acțiunii din regentă" },
+  { type: "circumstanțială de mod", desc: "arată felul în care se desfășoară acțiunea" },
 ];
 
 // ─── GENERATORS ──────────────────────────────────────────────────────────────
@@ -117,7 +138,7 @@ export const C8P1_Generators = {
           "atribut",
         ];
       } else {
-        question = `Ce facă "${p.subj}" în: "${p.prop}"?`;
+        question = `Ce face "${p.subj}" în: "${p.prop}"?`;
         correct = p.pred;
         wrongOpts = [
           pick(PROPOZITII_SIMPLE.filter(x => x.pred !== p.pred), rng).pred,
@@ -213,31 +234,26 @@ export const C8P1_Generators = {
   analiza_sintactica: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questionPool: CurriculumMCQ[] = [];
-    const funcs = ["subiect", "predicat", "atribut", "complement"];
-    // Build 30 unique questions by cycling through functions and varying question types
+    const funcs = [
+      { name: "subiect", def: "arată cine face acțiunea (răspunde la 'cine?')", sample: "Copilul citește." },
+      { name: "predicat", def: "arată ce face subiectul (răspunde la 'ce face?')", sample: "Copilul citește." },
+      { name: "atribut", def: "determină un substantiv (răspunde la 'care?', 'ce fel de?')", sample: "carte frumoasă" },
+      { name: "complement direct", def: "completează un verb tranzitiv (răspunde la 'pe cine?', 'ce?')", sample: "Citesc o carte." },
+      { name: "complement indirect", def: "completează un verb (răspunde la 'cui?')", sample: "Îi dau cartea Mariei." },
+      { name: "complement circumstanțial", def: "arată locul, timpul sau modul acțiunii", sample: "Merge la școală." },
+    ];
+    const allNames = funcs.map(f => f.name);
     for (let i = 0; i < 30; i++) {
       const f = pick(funcs, rng);
-      const variantType = Math.floor(i / funcs.length);
-
+      const variantType = Math.floor(i / funcs.length) % 2;
       let question = "";
-      let correct = "";
-      let wrongOpts: string[] = [];
-
       if (variantType === 0) {
-        question = `Funcția: "${f}"`;
-        correct = f;
-        wrongOpts = funcs.filter(x => x !== f);
-      } else if (variantType === 1) {
-        question = `Care din următoarele este "${f}"?`;
-        correct = f;
-        wrongOpts = funcs.filter(x => x !== f);
+        question = `Cum se numește partea de propoziție care ${f.def}?`;
       } else {
-        question = `Cum se numește elementul din propoziție care joacă rolul de "${f}"?`;
-        correct = f;
-        wrongOpts = funcs.filter(x => x !== f);
+        question = `În exemplul "${f.sample}", ce funcție sintactică se cere?: ${f.def}`;
       }
-
-      questionPool.push(createMCQ("Romanian-C8-P1", "analiza_sintactica", question, correct, wrongOpts, rng));
+      const wrongOpts = shuffle(allNames.filter(x => x !== f.name), rng).slice(0, 3);
+      questionPool.push(createMCQ("Romanian-C8-P1", "analiza_sintactica", question, f.name, wrongOpts, rng));
     }
     return shuffle(questionPool, rng).slice(0, 30);
   },
@@ -245,31 +261,28 @@ export const C8P1_Generators = {
   membri_propozitie: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questionPool: CurriculumMCQ[] = [];
-    const members = ["subiect", "predicat", "atribut", "complement", "apoziție", "circumstanțial"];
-    // Build 30 unique questions by cycling through members and varying question types
+    const members = [
+      { name: "subiect", def: "partea principală care arată cine face acțiunea" },
+      { name: "predicat", def: "partea principală care arată ce face subiectul" },
+      { name: "atribut", def: "parte secundară care determină un substantiv" },
+      { name: "complement", def: "parte secundară care determină un verb" },
+      { name: "apoziție", def: "parte care explică un substantiv printr-un alt nume" },
+      { name: "circumstanțial", def: "complement care arată locul, timpul sau modul" },
+      { name: "nume predicativ", def: "parte care, alături de verbul copulativ, formează predicatul nominal" },
+      { name: "atribut adjectival", def: "atribut exprimat printr-un adjectiv" },
+    ];
+    const allNames = members.map(m => m.name);
     for (let i = 0; i < 30; i++) {
       const m = pick(members, rng);
-      const variantType = Math.floor(i / members.length);
-
+      const variantType = Math.floor(i / members.length) % 2;
       let question = "";
-      let correct = "";
-      let wrongOpts: string[] = [];
-
       if (variantType === 0) {
-        question = `Care este: "${m}"?`;
-        correct = m;
-        wrongOpts = members.filter(x => x !== m).slice(0, 3);
-      } else if (variantType === 1) {
-        question = `Membrul propozitiei care joacă rolul de "${m}" este:`;
-        correct = m;
-        wrongOpts = members.filter(x => x !== m).slice(0, 3);
+        question = `Cum se numește ${m.def}?`;
       } else {
-        question = `Cum se numeste membrul din "${m}" în analiza sintactică?`;
-        correct = m;
-        wrongOpts = members.filter(x => x !== m).slice(0, 3);
+        question = `Care parte de propoziție corespunde definiției: "${m.def}"?`;
       }
-
-      questionPool.push(createMCQ("Romanian-C8-P1", "membri_propozitie", question, correct, wrongOpts, rng));
+      const wrongOpts = shuffle(allNames.filter(x => x !== m.name), rng).slice(0, 3);
+      questionPool.push(createMCQ("Romanian-C8-P1", "membri_propozitie", question, m.name, wrongOpts, rng));
     }
     return shuffle(questionPool, rng).slice(0, 30);
   },
@@ -307,10 +320,16 @@ export const C8P1_Generators = {
   analiza_sintactica_typing: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
-    const funcs = ["subiect", "predicat", "atribut", "complement"];
+    const funcs = [
+      { name: "subiect", q: 'În "Copilul citește.", cuvântul "Copilul" are funcția de:' },
+      { name: "predicat", q: 'În "Copilul citește.", cuvântul "citește" are funcția de:' },
+      { name: "atribut", q: 'În "carte frumoasă", cuvântul "frumoasă" are funcția de:' },
+      { name: "complement direct", q: 'În "Citesc o carte.", grupul "o carte" are funcția de:' },
+      { name: "complement indirect", q: 'În "Îi dau Mariei.", cuvântul "Mariei" are funcția de:' },
+    ];
     for (let i = 0; i < 15; i++) {
       const f = pick(funcs, rng);
-      questions.push(createTyping("Romanian-C8-P1", "analiza_sintactica", `Funcția: "${f}"`, f));
+      questions.push(createTyping("Romanian-C8-P1", "analiza_sintactica", f.q, f.name));
     }
     return questions;
   },
@@ -318,10 +337,16 @@ export const C8P1_Generators = {
   membri_propozitie_typing: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumQuestion[] = [];
-    const members = ["subiect", "predicat", "atribut", "complement"];
+    const members = [
+      { name: "subiect", q: "Cum se numește partea care arată cine face acțiunea?" },
+      { name: "predicat", q: "Cum se numește partea care arată ce face subiectul?" },
+      { name: "atribut", q: "Cum se numește partea secundară care determină un substantiv?" },
+      { name: "complement", q: "Cum se numește partea secundară care determină un verb?" },
+      { name: "apoziție", q: "Cum se numește partea care explică un substantiv printr-un alt nume?" },
+    ];
     for (let i = 0; i < 15; i++) {
       const m = pick(members, rng);
-      questions.push(createTyping("Romanian-C8-P1", "membri_propozitie", `Membru al propoziției: "${m}"`, m));
+      questions.push(createTyping("Romanian-C8-P1", "membri_propozitie", m.q, m.name));
     }
     return questions;
   },

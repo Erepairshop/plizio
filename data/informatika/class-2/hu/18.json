@@ -5,7 +5,7 @@
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mit jelent the feltétel a programozásban?",
+      "question": "Mit jelent a feltétel a programozásban?",
       "options": [
         "Egy döntést: Ha valami igaz, történik valami",
         "Egy fajta feladatot",
@@ -16,7 +16,7 @@
     },
     {
       "type": "mcq",
-      "question": "Melyik szavakkal kezdjük the feltételt?",
+      "question": "Melyik szavakkal kezdjük a feltételt?",
       "options": [
         "Ha... akkor...",
         "Mindig... és...",
@@ -38,7 +38,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the feltétel a játékban?",
+      "question": "Mire jó a feltétel a játékban?",
       "options": [
         "Pl. Ha hozzám ér a fal, veszítek egy életet",
         "Hogy színesebb legyen",
@@ -52,7 +52,7 @@
       "question": "Mit jelent az 'igaz' egy feltételnél?",
       "options": [
         "Hogy a vizsgált dolog teljesült",
-        "Hogy nem hazudik the gép",
+        "Hogy nem hazudik a gép",
         "Hogy szép a rajz",
         "Semmit"
       ],
@@ -63,7 +63,7 @@
       "question": "Mit jelent a 'hamis' egy feltételnél?",
       "options": [
         "Hogy a vizsgált dolog nem teljesült",
-        "Hogy elromlott the gép",
+        "Hogy elromlott a gép",
         "Hogy rossz a válasz",
         "Semmit"
       ],
@@ -82,7 +82,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mit csinál the program, ha the feltétel nem igaz?",
+      "question": "Mit csinál a program, ha a feltétel nem igaz?",
       "options": [
         "Átugorja és megy tovább",
         "Megáll örökre",
@@ -95,7 +95,7 @@
       "type": "mcq",
       "question": "Mi az az 'Egyébként' (Else)?",
       "options": [
-        "Ami akkor történik, ha the feltétel nem igaz",
+        "Ami akkor történik, ha a feltétel nem igaz",
         "Egy másik gép",
         "A tanár válasza",
         "Semmi"
@@ -115,11 +115,11 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the 'érzékelés' a feltételnél?",
+      "question": "Mire jó a 'érzékelés' a feltételnél?",
       "options": [
-        "Pl. Érinti-e the cica a szélét?",
-        "Hogy érezze the gép the meleget",
-        "Hogy lásson minket the gép",
+        "Pl. Érinti-e a cica a szélét?",
+        "Hogy érezze a gép a meleget",
+        "Hogy lásson minket a gép",
         "Semmire"
       ],
       "correct": 0
@@ -159,7 +159,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mit csinál the gép, ha 'Ha 1 > 2, akkor mondd: Szia'?",
+      "question": "Mit csinál a gép, ha 'Ha 1 > 2, akkor mondd: Szia'?",
       "options": [
         "Semmit, mert 1 nem nagyobb mint 2",
         "Azt mondja: Szia",
@@ -170,7 +170,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan használjuk the feltételt a robotnál?",
+      "question": "Hogyan használjuk a feltételt a robotnál?",
       "options": [
         "Ha akadály van előtte, forduljon el",
         "Mondjuk neki: Állj!",
@@ -214,11 +214,11 @@
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the 'Ha érinti the színt'?",
+      "question": "Mit jelent a 'Ha érinti a színt'?",
       "options": [
-        "Akkor történik valami, ha the szereplő egy színhez ér",
-        "Kiszínezi the szereplőt",
-        "Törli the színt",
+        "Akkor történik valami, ha a szereplő egy színhez ér",
+        "Kiszínezi a szereplőt",
+        "Törli a színt",
         "Semmi"
       ],
       "correct": 0
@@ -229,18 +229,18 @@
       "options": [
         "Egy feltétellel: Ha az élet = 0",
         "Csak úgy magától",
-        "Ha kikapcsoljuk the gépet",
+        "Ha kikapcsoljuk a gépet",
         "Várunk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mire jó the 'Várj, amíg ...' blokk?",
+      "question": "Mire jó a 'Várj, amíg ...' blokk?",
       "options": [
-        "Megállítja the programot egy feltételig",
-        "Aludni küldi the gépet",
-        "Lassítja the netet",
+        "Megállítja a programot egy feltételig",
+        "Aludni küldi a gépet",
+        "Lassítja a netet",
         "Semmire"
       ],
       "correct": 0
@@ -258,18 +258,18 @@
     },
     {
       "type": "mcq",
-      "question": "Miért fontos the feltétel?",
+      "question": "Miért fontos a feltétel?",
       "options": [
-        "Mert ettől lesz 'okos' the program",
-        "Mert the tanár szereti",
-        "Mert szebb lesz the kép",
+        "Mert ettől lesz 'okos' a program",
+        "Mert a tanár szereti",
+        "Mert szebb lesz a kép",
         "Semmiért"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mit csinál the gép, ha 'Ha 2 = 2, akkor mondd: Hurrá'?",
+      "question": "Mit csinál a gép, ha 'Ha 2 = 2, akkor mondd: Hurrá'?",
       "options": [
         "Azt mondja: Hurrá",
         "Nem csinál semmit",

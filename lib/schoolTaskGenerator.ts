@@ -4,6 +4,7 @@
  */
 
 import { generateTopicQuestions, getDEThemes, getENThemes, getHUThemes, getROThemes, deriveTopicConstraint, TopicConstraint } from './mathCurriculum';
+import { answersMatch } from './answerMatch';
 
 // ─── TYPES ──────────────────────────────────────────────────────────────────
 
@@ -2095,10 +2096,7 @@ export function gradeSchoolTest(
     block.subQuestions.forEach((sq) => {
       total += sq.points;
       const userAnswer = answers[sq.id];
-      if (
-        userAnswer !== undefined &&
-        String(userAnswer).trim() === String(sq.answer).trim()
-      ) {
+      if (userAnswer !== undefined && answersMatch(userAnswer, sq.answer)) {
         earned += sq.points;
       }
     });

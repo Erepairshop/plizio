@@ -16,9 +16,9 @@
     },
     {
       "type": "mcq",
-      "question": "Mik azok the pixelek?",
+      "question": "Mik azok a pixelek?",
       "options": [
-        "Apró pontok, amikből the kép összeáll",
+        "Apró pontok, amikből a kép összeáll",
         "Kis bogarak",
         "A billentyűk neve",
         "Egy játék"
@@ -38,10 +38,10 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the nagyítás (zoom)?",
+      "question": "Mire jó a nagyítás (zoom)?",
       "options": [
-        "Hogy jobban lássuk the részleteket",
-        "Hogy nagyobb legyen the monitor",
+        "Hogy jobban lássuk a részleteket",
+        "Hogy nagyobb legyen a monitor",
         "Hogy több színt lássunk",
         "Semmire"
       ],
@@ -62,7 +62,7 @@
       "type": "mcq",
       "question": "Mi az a 'galéria'?",
       "options": [
-        "Ahol the képeket tároljuk és nézegetjük",
+        "Ahol a képeket tároljuk és nézegetjük",
         "Egy festőiskola",
         "A gép hátulja",
         "Egy játék"
@@ -71,7 +71,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan küldhetünk képet the nagyinak?",
+      "question": "Hogyan küldhetünk képet a nagyinak?",
       "options": [
         "Emailben vagy üzenetben",
         "Postán (igazi papíron)",
@@ -82,7 +82,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the képszerkesztő?",
+      "question": "Mire jó a képszerkesztő?",
       "options": [
         "Képek vágására, színezésére, javítására",
         "Zenehallgatásra",
@@ -93,11 +93,11 @@
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the 'vágás' (crop) a képnél?",
+      "question": "Mit jelent a 'vágás' (crop) a képnél?",
       "options": [
-        "Lehagyjuk the kép széleit",
-        "Ollóval szétvágjuk the monitort",
-        "Töröljük the képet",
+        "Lehagyjuk a kép széleit",
+        "Ollóval szétvágjuk a monitort",
+        "Töröljük a képet",
         "Megduplázzuk"
       ],
       "correct": 0
@@ -126,10 +126,10 @@
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the 'felbontás'?",
+      "question": "Mit jelent a 'felbontás'?",
       "options": [
-        "Hány pixelből áll the kép (mennyire éles)",
-        "Milyen nehéz the kép",
+        "Hány pixelből áll a kép (mennyire éles)",
+        "Milyen nehéz a kép",
         "Milyen színű",
         "Mikor készült"
       ],
@@ -148,11 +148,11 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan mentjük el az internetről the képet?",
+      "question": "Hogyan mentjük el az internetről a képet?",
       "options": [
         "Jobb klikk -> Kép mentése másként",
         "Bal klikk ötször",
-        "Megrázzuk the monitort",
+        "Megrázzuk a monitort",
         "Várunk"
       ],
       "correct": 0
@@ -214,11 +214,11 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the vaku?",
+      "question": "Mire jó a vaku?",
       "options": [
         "Hogy sötétben is lehessen fotózni",
-        "Hogy világítson the monitor",
-        "Hogy lássuk the billentyűket",
+        "Hogy világítson a monitor",
+        "Hogy lássuk a billentyűket",
         "Semmire"
       ],
       "correct": 0
@@ -228,7 +228,7 @@
       "question": "Hogyan forgatunk el egy képet?",
       "options": [
         "A szerkesztőben a forgatás gombbal",
-        "Megfordítjuk the telefont/monitort",
+        "Megfordítjuk a telefont/monitort",
         "Fejre állunk",
         "Körbe futunk"
       ],
@@ -238,9 +238,9 @@
       "type": "mcq",
       "question": "Mi az a 'szűrő' (filter)?",
       "options": [
-        "Megváltoztatja the kép hangulatát/színeit",
-        "Kiszűri the vírust",
-        "Letisztítja the monitort",
+        "Megváltoztatja a kép hangulatát/színeit",
+        "Kiszűri a vírust",
+        "Letisztítja a monitort",
         "Semmi"
       ],
       "correct": 0
@@ -258,7 +258,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hol tárolja the telefon a képeket?",
+      "question": "Hol tárolja a telefon a képeket?",
       "options": [
         "A memóriájában",
         "A képernyőben",
@@ -271,7 +271,7 @@
       "type": "mcq",
       "question": "Mire jó a felhő a képeknél?",
       "options": [
-        "Hogy ne foglalják the helyet a telefonon",
+        "Hogy ne foglalják a helyet a telefonon",
         "Hogy ne legyenek vizesek",
         "Hogy esőben is lássuk",
         "Semmire"

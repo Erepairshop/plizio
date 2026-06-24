@@ -5,7 +5,7 @@
   "tasks": [
     {
       "type": "mcq",
-      "question": "Miben hasonlít the tablet és the telefon?",
+      "question": "Miben hasonlít a tablet és a telefon?",
       "options": [
         "Mindkettő érintőképernyős",
         "Mindkettő akkora mint egy asztal",
@@ -16,7 +16,7 @@
     },
     {
       "type": "mcq",
-      "question": "Melyik the nagyobb általában?",
+      "question": "Melyik a nagyobb általában?",
       "options": [
         "A tablet",
         "A telefon",
@@ -27,7 +27,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jobb the telefon?",
+      "question": "Mire jobb a telefon?",
       "options": [
         "Telefonálásra és zsebben hordásra",
         "Filmnézésre",
@@ -38,7 +38,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jobb the tablet?",
+      "question": "Mire jobb a tablet?",
       "options": [
         "Játékra, rajzolásra, tanulásra",
         "Hívásokra az utcán",
@@ -93,11 +93,11 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan zároljuk the képernyőt?",
+      "question": "Hogyan zároljuk a képernyőt?",
       "options": [
         "A bekapcsoló gombbal vagy kóddal",
         "Letakarjuk",
-        "Kikapcsoljuk the lámpát",
+        "Kikapcsoljuk a lámpát",
         "Várunk"
       ],
       "correct": 0
@@ -106,8 +106,8 @@
       "type": "mcq",
       "question": "Mire jó a 'Repülő üzemmód'?",
       "options": [
-        "Kikapcsolja the hálózatokat",
-        "Repülni kezd tőle the gép",
+        "Kikapcsolja a hálózatokat",
+        "Repülni kezd tőle a gép",
         "Gyorsabb lesz",
         "Semmire"
       ],
@@ -150,7 +150,7 @@
       "type": "mcq",
       "question": "Mire jó a védőtok?",
       "options": [
-        "Megvédi the gépet, ha leesik",
+        "Megvédi a gépet, ha leesik",
         "Hogy szebb legyen",
         "Hogy melegítse",
         "Semmire"
@@ -185,14 +185,14 @@
       "options": [
         "A beépített kamerával",
         "Ránézünk",
-        "Lerajzoljuk the képernyőre",
+        "Lerajzoljuk a képernyőre",
         "Sehogy"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Melyik eszköz fér el the zsebedben?",
+      "question": "Melyik eszköz fér el a zsebedben?",
       "options": [
         "A telefon",
         "A tablet",
@@ -207,7 +207,7 @@
       "options": [
         "Hogy legyen internetünk",
         "Hogy tudjunk tölteni",
-        "Hogy halljuk the hangot",
+        "Hogy halljuk a hangot",
         "Semmire"
       ],
       "correct": 0
@@ -227,8 +227,8 @@
       "type": "mcq",
       "question": "Miért nem szabad túl sokat használni őket?",
       "options": [
-        "Mert rontja the szemet és elfáradunk",
-        "Mert elkopik the képernyő",
+        "Mert rontja a szemet és elfáradunk",
+        "Mert elkopik a képernyő",
         "Mert elfogy az internet",
         "Használhatjuk bármennyit"
       ],
@@ -238,7 +238,7 @@
       "type": "mcq",
       "question": "Hogyan hívunk fel valakit?",
       "options": [
-        "Beírjuk the számát vagy the nevét és a hívás gombra nyomunk",
+        "Beírjuk a számát vagy a nevét és a hívás gombra nyomunk",
         "Kiabálunk a telefonba",
         "Várunk",
         "Sehogy"

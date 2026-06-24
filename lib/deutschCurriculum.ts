@@ -14,6 +14,7 @@ export type {
 } from "./deutsch/types";
 
 // ── Import grade data ─────────────────────────────────────────────────────────
+import { sanitizeQuestions } from "./testDiversity";
 import { K1 } from "./deutsch/k1";
 import { K2 } from "./deutsch/k2";
 import { K3 } from "./deutsch/k3";
@@ -94,7 +95,7 @@ export function getDeutschQuestions(
     [pool[i], pool[j]] = [pool[j], pool[i]];
   }
 
-  return pool;
+  return sanitizeQuestions(pool);
 }
 
 // ─── BENOTUNG (deutsches System 1–6) ─────────────────────────────────────────

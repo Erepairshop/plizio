@@ -3,6 +3,7 @@
 import React, { useRef } from 'react';
 import type { AufgabenData, SchoolTaskAnswers } from '@/lib/schoolTaskGenerator';
 import { speak as centralSpeak } from '@/lib/astromath-tts';
+import { answersMatch } from '@/lib/answerMatch';
 
 interface Props {
   blockId: string;
@@ -45,8 +46,8 @@ export default function AufgabenTask({
         const sqId = subQuestionIds[idx];
         const userVal = String(answers[sqId] ?? '');
         const correct = String(correctAnswers[sqId] ?? '');
-        const isCorrect = isGrading && userVal.trim() === correct.trim();
-        const isWrong = isGrading && userVal.trim() !== '' && userVal.trim() !== correct.trim();
+        const isCorrect = isGrading && answersMatch(userVal, correct);
+        const isWrong = isGrading && userVal.trim() !== '' && !answersMatch(userVal, correct);
         const isEmpty = isGrading && userVal.trim() === '';
 
         // Split question on ___ to render inline input

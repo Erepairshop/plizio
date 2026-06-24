@@ -27,7 +27,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hová írjuk the keresett szót?",
+      "question": "Hová írjuk a keresett szót?",
       "options": [
         "A keresősávba középen",
         "A képernyő sarkába",
@@ -38,11 +38,11 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan indítjuk the keresést?",
+      "question": "Hogyan indítjuk a keresést?",
       "options": [
         "Entert nyomunk vagy a nagyítóra kattintunk",
         "Várunk",
-        "Kikapcsoljuk the gépet",
+        "Kikapcsoljuk a gépet",
         "Rázolunk"
       ],
       "correct": 0
@@ -73,8 +73,8 @@
       "type": "mcq",
       "question": "Hogyan találunk meg egy állatot a Google-ben?",
       "options": [
-        "Beírjuk the nevét (pl. 'kutya')",
-        "Leugatjuk the gépet",
+        "Beírjuk a nevét (pl. 'kutya')",
+        "Leugatjuk a gépet",
         "Megmutatjuk neki a fotóját",
         "Várunk"
       ],
@@ -137,7 +137,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mit csinál a Google, ha elírjuk the szót?",
+      "question": "Mit csinál a Google, ha elírjuk a szót?",
       "options": [
         "Megkérdezi: 'Esetleg erre gondolt?'",
         "Kinevet",
@@ -196,7 +196,7 @@
       "options": [
         "A böngésző 'Vissza' gombjával",
         "Újra gépelünk",
-        "Kikapcsoljuk the gépet",
+        "Kikapcsoljuk a gépet",
         "Várunk"
       ],
       "correct": 0
@@ -239,15 +239,15 @@
       "question": "Mi az a 'biztonságos keresés'?",
       "options": [
         "Szűri a nem gyerekeknek való dolgokat",
-        "Védi the gépet a vírustól",
-        "Nem engedi elrontani the gépet",
+        "Védi a gépet a vírustól",
+        "Nem engedi elrontani a gépet",
         "Semmi"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Melyik gombbal lépünk the következő oldalra a találatok közt?",
+      "question": "Melyik gombbal lépünk a következő oldalra a találatok közt?",
       "options": [
         "A számokra vagy a 'Következő' gombra kattintva",
         "Space-szel",
@@ -260,7 +260,7 @@
       "type": "mcq",
       "question": "Lehet-e a Google-lel számolni?",
       "options": [
-        "Igen, ha beírjuk the példát",
+        "Igen, ha beírjuk a példát",
         "Nem, ahhoz számológép kell",
         "Csak ha tudunk matekozni",
         "Csak 10-ig"

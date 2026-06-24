@@ -27,11 +27,11 @@
     },
     {
       "type": "mcq",
-      "question": "Miért fontos the sorrend az algoritmusban?",
+      "question": "Miért fontos a sorrend az algoritmusban?",
       "options": [
-        "Mert különben nem sikerül the feladat",
+        "Mert különben nem sikerül a feladat",
         "Nem fontos, bárhogy jó",
-        "Csak the tanár miatt",
+        "Csak a tanár miatt",
         "Hogy szebb legyen"
       ],
       "correct": 0
@@ -41,9 +41,9 @@
       "question": "Mit csinálunk először, ha teát készítünk?",
       "options": [
         "Vizet forralunk",
-        "Beletesszük the cukrot",
+        "Beletesszük a cukrot",
         "Megisszuk",
-        "Kidobjuk the filtert"
+        "Kidobjuk a filtert"
       ],
       "correct": 0
     },
@@ -71,7 +71,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the 'sorrendiség'?",
+      "question": "Mit jelent a 'sorrendiség'?",
       "options": [
         "A dolgok egymás utáni következése",
         "Mindent egyszerre",
@@ -87,13 +87,13 @@
         "Krém a kefére, mosás, öblítés",
         "Öblítés, alvás, krém",
         "Mosás, krém nélkül",
-        "Csak nézzük the kefét"
+        "Csak nézzük a kefét"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogyan jut el the robot a célba, ha fal van előtte?",
+      "question": "Hogyan jut el a robot a célba, ha fal van előtte?",
       "options": [
         "Ki kell kerülnie pontos lépésekkel",
         "Átmegy rajta",
@@ -118,15 +118,15 @@
       "question": "Lehet-e egy algoritmus hibás?",
       "options": [
         "Igen, ha rossz a sorrend vagy hiányzik lépés",
-        "Nem, the gép mindig tudja",
+        "Nem, a gép mindig tudja",
         "Csak ha nincs áram",
-        "Csak ha vizes the gép"
+        "Csak ha vizes a gép"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mit csinál the robot, ha azt mondjuk: 'Menj előre!', de fal van?",
+      "question": "Mit csinál a robot, ha azt mondjuk: 'Menj előre!', de fal van?",
       "options": [
         "Nekimegy a falnak",
         "Megáll és gondolkodik",
@@ -137,7 +137,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the algoritmus a gépnek?",
+      "question": "Mire jó az algoritmus a gépnek?",
       "options": [
         "Ebből tudja, mit kell tennie",
         "Ettől gyorsabb lesz",
@@ -150,9 +150,9 @@
       "type": "mcq",
       "question": "Hogyan javítunk ki egy algoritmust?",
       "options": [
-        "Megkeressük the rossz lépést és kicseréljük",
-        "Letöröljük the egészet",
-        "Megütjük the gépet",
+        "Megkeressük a rossz lépést és kicseréljük",
+        "Letöröljük az egészet",
+        "Megütjük a gépet",
         "Várunk"
       ],
       "correct": 0
@@ -181,9 +181,9 @@
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the 'start' az algoritmus elején?",
+      "question": "Mit jelent a 'start' az algoritmus elején?",
       "options": [
-        "Itt kezdődnek the lépések",
+        "Itt kezdődnek a lépések",
         "Itt van vége",
         "Megállunk",
         "Várunk"
@@ -192,9 +192,9 @@
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the 'stop' az algoritmus végén?",
+      "question": "Mit jelent a 'stop' az algoritmus végén?",
       "options": [
-        "Itt fejeződik be the feladat",
+        "Itt fejeződik be a feladat",
         "Itt kezdődik",
         "Újraindul",
         "Semmi"
@@ -238,7 +238,7 @@
       "type": "mcq",
       "question": "Hogyan tervezünk meg egy programot?",
       "options": [
-        "Először kigondoljuk the lépéseket",
+        "Először kigondoljuk a lépéseket",
         "Azonnal gépelünk",
         "Kérdezünk valakit",
         "Várunk"
@@ -249,16 +249,16 @@
       "type": "mcq",
       "question": "Mire jó a logika?",
       "options": [
-        "Segít jól összerakni the lépéseket",
+        "Segít jól összerakni a lépéseket",
         "Semmire",
-        "Ettől lesz szebb the kép",
+        "Ettől lesz szebb a kép",
         "Csak matekban kell"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Melyik the legegyszerűbb algoritmus?",
+      "question": "Melyik a legegyszerűbb algoritmus?",
       "options": [
         "Csak egyetlen lépés",
         "Száz lépés",
@@ -271,9 +271,9 @@
       "type": "mcq",
       "question": "Miért jó, ha pontosak vagyunk?",
       "options": [
-        "Mert the gép csak azt csinálja, amit mondunk",
-        "Mert the tanár szereti",
-        "Mert gyorsabb lesz the gép",
+        "Mert a gép csak azt csinálja, amit mondunk",
+        "Mert a tanár szereti",
+        "Mert gyorsabb lesz a gép",
         "Semmiért"
       ],
       "correct": 0

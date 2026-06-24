@@ -27,7 +27,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan adjuk ki the parancsokat?",
+      "question": "Hogyan adjuk ki a parancsokat?",
       "options": [
         "Színes blokkokat illesztünk össze",
         "Gépelünk",
@@ -49,7 +49,7 @@
     },
     {
       "type": "mcq",
-      "question": "Melyik blokk indítja el the programot?",
+      "question": "Melyik blokk indítja el a programot?",
       "options": [
         "Zöld zászló blokk",
         "Piros kör blokk",
@@ -60,7 +60,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan mozog the cica?",
+      "question": "Hogyan mozog a cica?",
       "options": [
         "A 'Mozogj' blokkal",
         "Húzzuk az egérrel",
@@ -71,7 +71,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hol láthatjuk the programunk eredményét?",
+      "question": "Hol láthatjuk a programunk eredményét?",
       "options": [
         "A Színpadon",
         "A billentyűzeten",
@@ -93,7 +93,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan lesz hangja the programnak?",
+      "question": "Hogyan lesz hangja a programnak?",
       "options": [
         "A 'Hang' blokkokkal",
         "Mi énekelünk bele",
@@ -104,7 +104,7 @@
     },
     {
       "type": "mcq",
-      "question": "Melyik blokk ismétli the mozgást?",
+      "question": "Melyik blokk ismétli a mozgást?",
       "options": [
         "A 'Mindig' vagy 'Ismételd' blokk",
         "A 'Stop' blokk",
@@ -115,11 +115,11 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan változtatjuk meg the hátteret?",
+      "question": "Hogyan változtatjuk meg a hátteret?",
       "options": [
         "A háttér választó gombbal",
-        "Lefestjük the falat",
-        "Kikapcsoljuk the gépet",
+        "Lefestjük a falat",
+        "Kikapcsoljuk a gépet",
         "Sehogy"
       ],
       "correct": 0
@@ -139,7 +139,7 @@
       "type": "mcq",
       "question": "Hogyan törlünk egy blokkot?",
       "options": [
-        "Visszahúzzuk the menübe vagy jobb klikk törlés",
+        "Visszahúzzuk a menübe vagy jobb klikk törlés",
         "Ráütünk",
         "Megesszük",
         "Kikapcsoljuk"
@@ -150,8 +150,8 @@
       "type": "mcq",
       "question": "Mit csinál a 'Mondd: Szia!' blokk?",
       "options": [
-        "Egy szövegbuborék jelenik meg the cica felett",
-        "Megszólal the gép",
+        "Egy szövegbuborék jelenik meg a cica felett",
+        "Megszólal a gép",
         "Kiírja a tálcára",
         "Semmit"
       ],
@@ -192,7 +192,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan lassítjuk le the mozgást?",
+      "question": "Hogyan lassítjuk le a mozgást?",
       "options": [
         "A 'Várj' blokk használatával",
         "Lassabban húzzuk az egeret",
@@ -203,7 +203,7 @@
     },
     {
       "type": "mcq",
-      "question": "Melyik kategóriában vannak the mozgás blokkok?",
+      "question": "Melyik kategóriában vannak a mozgás blokkok?",
       "options": [
         "Kék (Mozgás)",
         "Lila (Kinézet)",
@@ -214,7 +214,7 @@
     },
     {
       "type": "mcq",
-      "question": "Melyik kategóriában van the zöld zászló?",
+      "question": "Melyik kategóriában van a zöld zászló?",
       "options": [
         "Események",
         "Mozgás",
@@ -236,10 +236,10 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan állítjuk meg the programot?",
+      "question": "Hogyan állítjuk meg a programot?",
       "options": [
         "A piros nyolcszög (stop) gombbal",
-        "Kihúzzuk the gépet",
+        "Kihúzzuk a gépet",
         "Ráfújunk",
         "Várunk"
       ],

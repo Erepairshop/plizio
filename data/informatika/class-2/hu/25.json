@@ -5,7 +5,7 @@
   "tasks": [
     {
       "type": "mcq",
-      "question": "Melyik gombbal indítjuk el the programokat?",
+      "question": "Melyik gombbal indítjuk el a programokat?",
       "options": [
         "Dupla kattintással",
         "Jobb klikkel",
@@ -106,7 +106,7 @@
       "type": "mcq",
       "question": "Mi az a vírus?",
       "options": [
-        "Egy rossz program, ami elrontja the gépet",
+        "Egy rossz program, ami elrontja a gépet",
         "Egy kis bogár",
         "A gép fáradtsága",
         "Egy játék"
@@ -137,10 +137,10 @@
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the letöltés?",
+      "question": "Mit jelent a letöltés?",
       "options": [
-        "Adatokat hozunk a netről the gépre",
-        "Kivisszük the szemetet",
+        "Adatokat hozunk a netről a gépre",
+        "Kivisszük a szemetet",
         "Törlünk mindent",
         "Rajzolunk"
       ],
@@ -163,7 +163,7 @@
       "options": [
         "Hogy egyenesen üljünk",
         "Hogy csak egy kézzel írjunk",
-        "Hogy ne nézzük the képernyőt",
+        "Hogy ne nézzük a képernyőt",
         "Semmire"
       ],
       "correct": 0
@@ -186,13 +186,13 @@
         "Kijelöljük és Delete",
         "Letakarjuk",
         "Megesszük",
-        "Kihúzzuk the gépet"
+        "Kihúzzuk a gépet"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mire jó the pendrive?",
+      "question": "Mire jó a pendrive?",
       "options": [
         "Fájlok hordozására",
         "Zenehallgatásra",
@@ -239,7 +239,7 @@
       "question": "Hogyan zárjuk be az ablakot?",
       "options": [
         "Piros X a sarokban",
-        "Kikapcsoljuk the gépet",
+        "Kikapcsoljuk a gépet",
         "Becsukjuk a szemünk",
         "Várunk"
       ],
@@ -247,7 +247,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the tablet?",
+      "question": "Mire jó a tablet?",
       "options": [
         "Játékra és tanulásra bárhol",
         "Főzésre",

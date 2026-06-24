@@ -293,12 +293,16 @@ function generateElectricEnergyMCQ(lang = "en", seed = 0): CurriculumMCQ[] {
     const t_hours = (i + 1);
     const W_J = P * t_hours * 3600;
     const W_kWh = (P / 1000) * t_hours;
+    const kWh = W_kWh.toFixed(2);
+    const kWh_half = (W_kWh / 2).toFixed(2);
+    const kWh_double = (W_kWh * 2).toFixed(2);
+    const J_str = Math.round(W_kWh * 1000).toString();
     questions.push(createMCQ("electricity", "electric_energy",
       q4(`Energie: P=${P}W, t=${t_hours}h → W=?kWh`, `Energy: P=${P}W, t=${t_hours}h → W=?kWh`, `Energia: P=${P}W, t=${t_hours}h → W=?kWh`, `Energie: P=${P}W, t=${t_hours}h → W=?kWh`, lang),
-      q4(`${W_kWh}kWh`, `${W_kWh}kWh`, `${W_kWh}kWh`, `${W_kWh}kWh`, lang),
-      [q4(`${W_kWh*1000}J`, `${W_kWh*1000}J`, `${W_kWh*1000}J`, `${W_kWh*1000}J`, lang),
-       q4(`${W_kWh/2}kWh`, `${W_kWh/2}kWh`, `${W_kWh/2}kWh`, `${W_kWh/2}kWh`, lang),
-       q4(`${W_kWh*2}kWh`, `${W_kWh*2}kWh`, `${W_kWh*2}kWh`, `${W_kWh*2}kWh`, lang)], rng));
+      q4(`${kWh}kWh`, `${kWh}kWh`, `${kWh}kWh`, `${kWh}kWh`, lang),
+      [q4(`${J_str}J`, `${J_str}J`, `${J_str}J`, `${J_str}J`, lang),
+       q4(`${kWh_half}kWh`, `${kWh_half}kWh`, `${kWh_half}kWh`, `${kWh_half}kWh`, lang),
+       q4(`${kWh_double}kWh`, `${kWh_double}kWh`, `${kWh_double}kWh`, `${kWh_double}kWh`, lang)], rng));
   }
 
   for (let i = 0; i < 8; i++) {

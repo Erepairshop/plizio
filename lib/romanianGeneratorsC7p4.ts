@@ -103,19 +103,19 @@ const TEXT_ROMAN_NUVELA = [
 const TEXT_LIRIC = [
   { form: "sonet", structure: "14 versuri, strofe de 4+4+3+3 versuri", example: "Luceafărul de Mihai Eminescu", traits: "iubire, plângere, meditație" },
   { form: "odă", structure: "poem de laudă, versuri lungi", example: "Oda mării de George Coșbuc", traits: "admirație, solemnitate" },
-  { form: "elegie", structure: "poem de plângere, ritm trist", example: "Lacrima de Vasile Alecsandri", traits: "durere, melancoly" },
+  { form: "elegie", structure: "poem de plângere, ritm trist", example: "Lacrima de Vasile Alecsandri", traits: "durere, melancolie" },
   { form: "pastel", structure: "tablou liric mic, descriere pitorească", example: "Plouă de Ion Pillat", traits: "imagine naturală, emoție" },
   { form: "baladă", structure: "poveste narativă în vers", example: "Mioriță (trad.)", traits: "mister, magie, tragic" },
   { form: "himn", structure: "poem grandioc, versuri majore", example: "Deșteaptă-te române!", traits: "patriotism, apel" },
 ];
 
 const TEXT_DRAMATIC = [
-  { genre: "comedie", traits: "umor, personaje ridicole, conflicte minore, final fericit", example: "Kir Ianuleo de George Topîrceanu", conflict: "misunderstanding, deceiving" },
-  { genre: "dramă", traits: "conflict serios, suferință, calamități, final trist", example: "Frații de Mihail Drumeș", conflict: "moral, familial" },
-  { genre: "tragedie", traits: "destin fatal, eroi nobilị, iobire și moarte", example: "Romeo și Julieta (adaptare RO)" },
-  { genre: "tragi-comedie", traits: "mix de comic și tragic, final ambiguu", example: "O scenă în iad", conflict: "paradox" },
-  { genre: "comedie sentimentală", traits: "umor ușor, iubire, final fericit", example: "O noapte furtunoasă de I.L.Caragiale" },
-  { genre: "dramă social", traits: "denuncia injustiției, conflictul social", example: "Plecul de Ion Luca Caragiale" },
+  { genre: "comedie", traits: "umor, personaje ridicole, conflicte minore, final fericit", example: "O scrisoare pierdută de I.L. Caragiale", conflict: "neînțelegere, înșelăciune" },
+  { genre: "dramă", traits: "conflict serios, suferință, deznodământ grav, final trist", example: "Apus de soare de Barbu Ștefănescu Delavrancea", conflict: "moral, familial" },
+  { genre: "tragedie", traits: "destin fatal, eroi nobili, iubire și moarte", example: "Romeo și Julieta de William Shakespeare", conflict: "fatalitate, dragoste imposibilă" },
+  { genre: "tragicomedie", traits: "amestec de comic și tragic, final ambiguu", example: "Pescărușul de A.P. Cehov", conflict: "deziluzie, contrast tragic-comic" },
+  { genre: "comedie sentimentală", traits: "umor ușor, intrigă amoroasă, final fericit", example: "O noapte furtunoasă de I.L. Caragiale", conflict: "gelozie, încurcătură amoroasă" },
+  { genre: "dramă socială", traits: "denunțarea nedreptății, conflict social", example: "Năpasta de I.L. Caragiale", conflict: "nedreptate, tensiune socială" },
 ];
 
 // ─── GENERATORS ────────────────────────────────────────────────────────────
@@ -247,7 +247,7 @@ function text_dramatic_c7(seed = 42): CurriculumQuestion[] {
       createMCQ(
         "Romanian-C7-P4",
         "text_dramatic_c7",
-        `Genul dramatic "${drama.genre}" se caracterizează prin: "${drama.traits}". Care e definiția corectă?`,
+        `Ce gen dramatic se caracterizează prin: "${drama.traits}"?`,
         drama.genre,
         [
           wrong1.genre,

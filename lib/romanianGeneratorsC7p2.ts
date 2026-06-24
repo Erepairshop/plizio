@@ -114,10 +114,10 @@ const VERB_MODURI_NEPERS = [
 ];
 
 const VERB_DIATEZE = [
-  { active: "Elevul citește cartea.", passive: "Cartea este citită de elev.", reflexive: "Elevul se-și iartă greșelile.", type: "diateza activă" },
+  { active: "Elevul citește cartea.", passive: "Cartea este citită de elev.", reflexive: "Elevul își iartă greșelile.", type: "diateza activă" },
   { active: "Profesorul explică lecția.", passive: "Lecția este explicată de profesor.", reflexive: "Profesorul se gândește la lecție.", type: "diateza activă" },
-  { active: "Maria scrie scrisori.", passive: "Scrisorile sunt scrise de Maria.", reflexive: "Maria se îmbrăcă frumos.", type: "diateza activă" },
-  { active: "Băiatul cântă cântecul.", passive: "Cântecul este cântat de băiat.", reflexive: "Băiatul se-și perie dinții.", type: "diateza activă" },
+  { active: "Maria scrie scrisori.", passive: "Scrisorile sunt scrise de Maria.", reflexive: "Maria se îmbracă frumos.", type: "diateza activă" },
+  { active: "Băiatul cântă cântecul.", passive: "Cântecul este cântat de băiat.", reflexive: "Băiatul își perie dinții.", type: "diateza activă" },
 ];
 
 // ─── GENERATORS ────────────────────────────────────────────────────────────

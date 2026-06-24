@@ -1092,28 +1092,24 @@ export const K6_GEOGRAPHIE_GENERATORS = {
   polar_zone_typing: (lang: string, seed: number) => makeTyping("polar_zone", lang, DATA_K6.polar_zone.typing),
 };
 
-// Placeholder for remaining generators
-const keys = ["northern_europe", "western_europe", "southern_europe", "eastern_europe", "central_europe_neighbors", "ocean_currents", "rivers_life", "water_scarcity", "glaciers_ice", "mediterranean_farming", "livestock_farming", "organic_farming", "food_supply_chains", "mass_tourism", "alpine_tourism", "sustainable_travel", "city_trips", "map_skills_advanced", "climate_zones", "europe_regions", "waters_oceans_k6", "agriculture_europe", "tourism_leisure"];
+// Registered generators — only keys that exist and have content in DATA_K6
+const keys = [
+  // europe_regions theme subtopics
+  "northern_europe", "western_europe", "southern_europe", "eastern_europe", "central_europe_neighbors",
+  // waters_oceans_k6 theme subtopics
+  "ocean_currents", "rivers_life", "water_scarcity", "glaciers_ice",
+  // agriculture_europe theme subtopics (with content)
+  "mediterranean_farming", "livestock_farming", "organic_farming",
+  // orphan subtopics — now registered
+  "eu_geography", "eu_mountain_ranges", "eu_rivers_seas",
+  "climate_zones_eu", "vegetation_zones", "soil_types",
+  "population_europe", "eu_economy", "eu_industry", "transport_europe",
+  "germany_regions", "france_regions", "uk_regions", "italy_regions",
+  "spain_regions", "poland_hungary", "balkans",
+  "climate_zones_basics", "water_cycle_detailed",
+];
 keys.forEach(k => {
   (K6_GEOGRAPHIE_GENERATORS as any)[k] = (lang: string, seed: number) => makeMCQs(k, lang, mulberry32(seed), DATA_K6[k].mcq);
   (K6_GEOGRAPHIE_GENERATORS as any)[`${k}_mcq`] = (lang: string, seed: number) => makeMCQs(k, lang, mulberry32(seed), DATA_K6[k].mcq);
   (K6_GEOGRAPHIE_GENERATORS as any)[`${k}_typing`] = (lang: string, seed: number) => makeTyping(k, lang, DATA_K6[k].typing);
-});
-
-Object.assign(K6_GEOGRAPHIE_GENERATORS, {
-  germany_overview_k6: (lang: string, seed: number) => makeMCQs("germany_overview_k6", lang, mulberry32(seed), DATA_K6.germany_overview_k6.mcq),
-  germany_overview_k6_mcq: (lang: string, seed: number) => makeMCQs("germany_overview_k6", lang, mulberry32(seed), DATA_K6.germany_overview_k6.mcq),
-  germany_overview_k6_typing: (lang: string, seed: number) => makeTyping("germany_overview_k6", lang, DATA_K6.germany_overview_k6.typing),
-
-  climate_zones_basics: (lang: string, seed: number) => makeMCQs("climate_zones_basics", lang, mulberry32(seed), DATA_K6.climate_zones_basics.mcq),
-  climate_zones_basics_mcq: (lang: string, seed: number) => makeMCQs("climate_zones_basics", lang, mulberry32(seed), DATA_K6.climate_zones_basics.mcq),
-  climate_zones_basics_typing: (lang: string, seed: number) => makeTyping("climate_zones_basics", lang, DATA_K6.climate_zones_basics.typing),
-
-  water_cycle_detailed: (lang: string, seed: number) => makeMCQs("water_cycle_detailed", lang, mulberry32(seed), DATA_K6.water_cycle_detailed.mcq),
-  water_cycle_detailed_mcq: (lang: string, seed: number) => makeMCQs("water_cycle_detailed", lang, mulberry32(seed), DATA_K6.water_cycle_detailed.mcq),
-  water_cycle_detailed_typing: (lang: string, seed: number) => makeTyping("water_cycle_detailed", lang, DATA_K6.water_cycle_detailed.typing),
-
-  rock_types_k6: (lang: string, seed: number) => makeMCQs("rock_types_k6", lang, mulberry32(seed), DATA_K6.rock_types_k6.mcq),
-  rock_types_k6_mcq: (lang: string, seed: number) => makeMCQs("rock_types_k6", lang, mulberry32(seed), DATA_K6.rock_types_k6.mcq),
-  rock_types_k6_typing: (lang: string, seed: number) => makeTyping("rock_types_k6", lang, DATA_K6.rock_types_k6.typing),
 });

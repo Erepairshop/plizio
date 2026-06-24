@@ -16,7 +16,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mit okozhat the vírus a gépben?",
+      "question": "Mit okozhat a vírus a gépben?",
       "options": [
         "Lassulást, törlést vagy hibákat",
         "Gyorsulást",
@@ -40,7 +40,7 @@
       "type": "mcq",
       "question": "Mi az a vírusirtó?",
       "options": [
-        "Program, ami megvédi the gépet",
+        "Program, ami megvédi a gépet",
         "Egy spray a monitorra",
         "Egy gyógyszer",
         "Egy fajta egér"
@@ -49,9 +49,9 @@
     },
     {
       "type": "mcq",
-      "question": "Mit csinál the vírusirtó?",
+      "question": "Mit csinál a vírusirtó?",
       "options": [
-        "Keresi és törli the vírusokat",
+        "Keresi és törli a vírusokat",
         "Rajzol",
         "Filmet játszik",
         "Gépel helyettünk"
@@ -60,10 +60,10 @@
     },
     {
       "type": "mcq",
-      "question": "Honnan tudjuk, hogy vírusos the gép?",
+      "question": "Honnan tudjuk, hogy vírusos a gép?",
       "options": [
         "Hibaüzenetek jönnek vagy furcsán működik",
-        "Zöld lesz the monitor",
+        "Zöld lesz a monitor",
         "Megszólal",
         "Semmiből"
       ],
@@ -93,10 +93,10 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan védhetjük meg the gépet?",
+      "question": "Hogyan védhetjük meg a gépet?",
       "options": [
         "Vírusirtóval és okos használattal",
-        "Letakarjuk the gépet",
+        "Letakarjuk a gépet",
         "Kikapcsolva tartjuk",
         "Vízbe mártjuk"
       ],
@@ -108,7 +108,7 @@
       "options": [
         "Megtanulja az új vírusokat",
         "Új színt kap",
-        "Gyorsabb lesz tőle the egér",
+        "Gyorsabb lesz tőle az egér",
         "Semmit"
       ],
       "correct": 0
@@ -129,7 +129,7 @@
       "question": "Mit csinál egy 'féreg' vírus?",
       "options": [
         "Önmagát másolja és terjed",
-        "Megeszi the billentyűket",
+        "Megeszi a billentyűket",
         "Kikúszik a gépből",
         "Semmit"
       ],
@@ -137,11 +137,11 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the tűzfal?",
+      "question": "Mire jó a tűzfal?",
       "options": [
-        "Megállítja the betolakodókat a netről",
-        "Melegíti the szobát",
-        "Kikapcsolja the gépet tűz esetén",
+        "Megállítja a betolakodókat a netről",
+        "Melegíti a szobát",
+        "Kikapcsolja a gépet tűz esetén",
         "Dísz"
       ],
       "correct": 0
@@ -150,8 +150,8 @@
       "type": "mcq",
       "question": "Mi az a karantén a gépnél?",
       "options": [
-        "Ahol the vírusokat elzárja the gép",
-        "Ahol the beteg gyerekek vannak",
+        "Ahol a vírusokat elzárja a gép",
+        "Ahol a beteg gyerekek vannak",
         "A gép hátulja",
         "Egy mappa"
       ],
@@ -162,7 +162,7 @@
       "question": "Lehet-e a telefon vírusos?",
       "options": [
         "Igen, az is egy számítógép",
-        "Nem, the telefon túl kicsi",
+        "Nem, a telefon túl kicsi",
         "Csak ha nincs rajta tok",
         "Csak ha lemerül"
       ],
@@ -173,8 +173,8 @@
       "question": "Mit tegyünk, ha vírusirtó riaszt?",
       "options": [
         "Szóljunk felnőttnek azonnal",
-        "Kapcsoljuk ki the riasztót",
-        "Üssük meg the gépet",
+        "Kapcsoljuk ki a riasztót",
+        "Üssük meg a gépet",
         "Sírjunk"
       ],
       "correct": 0
@@ -185,16 +185,16 @@
       "options": [
         "A szemét levelekben gyakran van vírus",
         "Nincs kapcsolatuk",
-        "A spam irtja the vírust",
-        "Ugyanaz the kettő"
+        "A spam irtja a vírust",
+        "Ugyanaz a kettő"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogyan 'gyógyítják' the gépet?",
+      "question": "Hogyan 'gyógyítják' a gépet?",
       "options": [
-        "A vírusirtó letörli the rossz részeket",
+        "A vírusirtó letörli a rossz részeket",
         "Megsimogatják",
         "Kikapcsolják egy hétre",
         "Várunk"
@@ -203,7 +203,7 @@
     },
     {
       "type": "mcq",
-      "question": "Miért rossz the vírus?",
+      "question": "Miért rossz a vírus?",
       "options": [
         "Mert ellophatja az adatainkat",
         "Mert unalmas",
@@ -239,7 +239,7 @@
       "question": "Mit csinál a 'zsarolóvírus'?",
       "options": [
         "Pénzt kér a fájljainkért",
-        "Zsarol the tanárnál",
+        "Zsarol a tanárnál",
         "Kinevet minket",
         "Nem csinál semmit"
       ],
@@ -247,12 +247,12 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the mentés a vírusok ellen?",
+      "question": "Mire jó a mentés a vírusok ellen?",
       "options": [
-        "Ha baj van, megmaradnak the fájlok",
+        "Ha baj van, megmaradnak a fájlok",
         "Semmire",
-        "A vírus nem szereti the mentést",
-        "Mentésnél fél the vírus"
+        "A vírus nem szereti a mentést",
+        "Mentésnél fél a vírus"
       ],
       "correct": 0
     },
@@ -261,18 +261,18 @@
       "question": "Lehet-e vírus a játékokban?",
       "options": [
         "Igen, ha nem hivatalos helyről van",
-        "Nem, the játék szent",
-        "Csak ha nehéz the pálya",
+        "Nem, a játék szent",
+        "Csak ha nehéz a pálya",
         "Csak ha veszítünk"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogyan kerüljük el the vírusokat?",
+      "question": "Hogyan kerüljük el a vírusokat?",
       "options": [
         "Legyünk óvatosak az interneten",
-        "Ne kapcsoljuk be the gépet",
+        "Ne kapcsoljuk be a gépet",
         "Használjunk csak egeret",
         "Semmit"
       ],

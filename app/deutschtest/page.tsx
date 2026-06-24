@@ -657,11 +657,18 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
     function dedupKey(q: TestQuestion): string {
       const a = q as any;
       const qText = (q.question ?? "").trim();
-      // Questions with same text = same question regardless of type (MCQ vs typing)
+      // Visual content (ha van): a vizuális generátorok KONSTANS címkét tesznek a question-be
+      // (pl. "Satz ordnen:"), ezért ha csak a qText-et néznénk, minden azonos típusú vizuális
+      // feladat egyetlen kulcs alá esne és csak az első maradna. Ha van tartalmi adat, AZ döntsön.
+      const visualRaw =
+        a.words ?? a.shuffled ?? a.correctOrder ?? a.pairs ?? a.stamm ?? a.imageKey ?? a.word ?? a.sentence ?? a.target ?? null;
+      if (visualRaw != null) {
+        const v = Array.isArray(visualRaw) ? visualRaw.join(",") : String(visualRaw);
+        return q.type + "|" + qText.slice(0, 30) + "|" + v.slice(0, 100);
+      }
+      // Nem-vizuális: a kérdés-szöveg a kulcs (MCQ/typing azonos szöveg = azonos kérdés)
       if (qText) return qText.slice(0, 80);
-      // Visual questions without a question label: use visual content as key
-      const visual = a.words?.join(",") ?? a.stamm ?? a.imageKey ?? a.shuffled?.join(",") ?? "";
-      return q.type + "|" + String(visual).slice(0, 80);
+      return q.type + "|";
     }
 
     // Build pools per unique topic (shuffled, deduplicated)
@@ -739,10 +746,10 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
         seen2.add(k);
         return true;
       });
-      for (let i = 0; i < unique.length && visualGroups.length < 10; i += 3) {
-        const group = unique.slice(i, i + 3);
-        while (group.length < 3) group.push({ ...group[group.length - 1] });
-        if (group.length >= 3) visualGroups.push(group);
+      // Csak TELJES, 3-as csoportokat hozunk létre — NEM paddolunk duplikátummal
+      // (a régi `while (group.length<3) push(...utolsó)` ugyanazt a feladatot 2-3x ismételte).
+      for (let i = 0; i + 3 <= unique.length && visualGroups.length < 10; i += 3) {
+        visualGroups.push(unique.slice(i, i + 3));
       }
     }
 

@@ -10,19 +10,39 @@ const VERB_FORMS = [
   { infinitive: "a merge", present: "merg", past: "am mers", future: "voi merge" },
   { infinitive: "a vorbi", present: "vorbesc", past: "am vorbit", future: "voi vorbi" },
   { infinitive: "a citi", present: "citesc", past: "am citit", future: "voi citi" },
+  { infinitive: "a scrie", present: "scriu", past: "am scris", future: "voi scrie" },
+  { infinitive: "a cânta", present: "cânt", past: "am cântat", future: "voi cânta" },
+  { infinitive: "a lucra", present: "lucrez", past: "am lucrat", future: "voi lucra" },
+  { infinitive: "a dormi", present: "dorm", past: "am dormit", future: "voi dormi" },
+  { infinitive: "a face", present: "fac", past: "am făcut", future: "voi face" },
+  { infinitive: "a vedea", present: "văd", past: "am văzut", future: "voi vedea" },
+  { infinitive: "a învăța", present: "învăț", past: "am învățat", future: "voi învăța" },
 ];
 
 const PRONUME_TYPES = [
   { pronume: "eu", type: "pronume personal", case: "nominativ" },
   { pronume: "mă", type: "pronume personal", case: "acuzativ" },
-  { pronume: "mi", type: "pronume personal", case: "dativ" },
-  { pronume: "mine", type: "pronume personal", case: "genitiv" },
+  { pronume: "îmi", type: "pronume personal", case: "dativ" },
+  { pronume: "mine", type: "pronume personal", case: "acuzativ" },
+  { pronume: "tu", type: "pronume personal", case: "nominativ" },
+  { pronume: "te", type: "pronume personal", case: "acuzativ" },
+  { pronume: "îți", type: "pronume personal", case: "dativ" },
+  { pronume: "el", type: "pronume personal", case: "nominativ" },
+  { pronume: "lui", type: "pronume personal", case: "dativ" },
+  { pronume: "noi", type: "pronume personal", case: "nominativ" },
+  { pronume: "le", type: "pronume personal", case: "dativ" },
 ];
 
 const ARTICOL_TYPES = [
-  { word: "un băiat", article: "un", type: "articol hotărât" },
-  { word: "o fată", article: "o", type: "articol hotărât" },
+  { word: "un băiat", article: "un", type: "articol nehotărât" },
+  { word: "o fată", article: "o", type: "articol nehotărât" },
+  { word: "niște copii", article: "niște", type: "articol nehotărât" },
   { word: "băiatul", article: "-ul", type: "articol hotărât enclitic" },
+  { word: "fata", article: "-a", type: "articol hotărât enclitic" },
+  { word: "copiii", article: "-i", type: "articol hotărât enclitic" },
+  { word: "florile", article: "-le", type: "articol hotărât enclitic" },
+  { word: "cei trei", article: "cei", type: "articol demonstrativ (adjectival)" },
+  { word: "cel frumos", article: "cel", type: "articol demonstrativ (adjectival)" },
 ];
 
 export const C8P2_Generators = {
@@ -62,10 +82,23 @@ export const C8P2_Generators = {
   morfologie_recapitulare: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const questions: CurriculumMCQ[] = [];
-    const parts = ["substantiv", "verb", "adjectiv", "pronume", "articol"];
+    const parts = [
+      { name: "substantiv", word: "masă" },
+      { name: "verb", word: "aleargă" },
+      { name: "adjectiv", word: "frumos" },
+      { name: "pronume", word: "ea" },
+      { name: "articol", word: "-ul (din băiatul)" },
+      { name: "numeral", word: "trei" },
+      { name: "adverb", word: "repede" },
+      { name: "prepoziție", word: "lângă" },
+      { name: "conjuncție", word: "și" },
+      { name: "interjecție", word: "vai!" },
+    ];
+    const allNames = parts.map(p => p.name);
     for (let i = 0; i < 30; i++) {
       const p = pick(parts, rng);
-      questions.push(createMCQ("Romanian-C8-P2", "morfologie_recapitulare", `Care este: "${p}"?`, p, parts.filter(x => x !== p).slice(0, 3), rng));
+      const wrongOpts = shuffle(allNames.filter(x => x !== p.name), rng).slice(0, 3);
+      questions.push(createMCQ("Romanian-C8-P2", "morfologie_recapitulare", `Ce parte de vorbire este cuvântul "${p.word}"?`, p.name, wrongOpts, rng));
     }
     return shuffle(questions, rng).slice(0, 30);
   },
@@ -78,11 +111,23 @@ export const C8P2_Generators = {
       { noun: "copii", gender: "masculin", number: "plural" },
       { noun: "fată", gender: "feminin", number: "singular" },
       { noun: "fete", gender: "feminin", number: "plural" },
+      { noun: "scaun", gender: "neutru", number: "singular" },
+      { noun: "scaune", gender: "neutru", number: "plural" },
+      { noun: "pom", gender: "masculin", number: "singular" },
+      { noun: "casă", gender: "feminin", number: "singular" },
+      { noun: "tablou", gender: "neutru", number: "singular" },
+      { noun: "flori", gender: "feminin", number: "plural" },
     ];
     for (let i = 0; i < 30; i++) {
       const n = pick(nouns, rng);
-      const otherN = pick(nouns.filter(x => x.noun !== n.noun), rng);
-      questions.push(createMCQ("Romanian-C8-P2", "substantiv_gen_numar", `Genul substantivului "${n.noun}":`, n.gender, [otherN.gender, "neutru", "ambiguu"], rng));
+      const otherN = pick(nouns.filter(x => x.gender !== n.gender), rng);
+      const askNumber = i % 2 === 1;
+      if (askNumber) {
+        const otherNum = pick(nouns.filter(x => x.number !== n.number), rng);
+        questions.push(createMCQ("Romanian-C8-P2", "substantiv_gen_numar", `Numărul substantivului "${n.noun}":`, n.number, [otherNum.number, "dual", "colectiv"], rng));
+      } else {
+        questions.push(createMCQ("Romanian-C8-P2", "substantiv_gen_numar", `Genul substantivului "${n.noun}":`, n.gender, [otherN.gender, "comun", "ambiguu"], rng));
+      }
     }
     return shuffle(questions, rng).slice(0, 30);
   },
@@ -120,10 +165,19 @@ export const C8P2_Generators = {
   morfologie_recapitulare_typing: (seed = 42): CurriculumQuestion[] => {
     const rng = mulberry32(seed);
     const q: CurriculumQuestion[] = [];
-    const parts = ["substantiv", "verb", "adjectiv", "pronume", "articol"];
+    const parts = [
+      { name: "substantiv", word: "masă" },
+      { name: "verb", word: "aleargă" },
+      { name: "adjectiv", word: "frumos" },
+      { name: "pronume", word: "ea" },
+      { name: "numeral", word: "trei" },
+      { name: "adverb", word: "repede" },
+      { name: "prepoziție", word: "lângă" },
+      { name: "conjuncție", word: "și" },
+    ];
     for (let i = 0; i < 15; i++) {
       const p = pick(parts, rng);
-      q.push(createTyping("Romanian-C8-P2", "morfologie_recapitulare", `Partea de vorbire: "${p}"`, p));
+      q.push(createTyping("Romanian-C8-P2", "morfologie_recapitulare", `Ce parte de vorbire este "${p.word}"?`, p.name));
     }
     return q;
   },

@@ -59,7 +59,10 @@ export const INFO_K7_CURRICULUM: KemiaTheme[] = [
 ];
 
 export function getInfoK7Questions(subtopicIds: string[], count = 10, countryCode?: string): CurriculumQuestion[] {
-  const lang = ((countryCode || "en").toLowerCase()) as keyof MultiLang;
+  const lang: keyof MultiLang = (countryCode === "DE" || countryCode === "AT" || countryCode === "CH") ? "de"
+    : (countryCode === "RO") ? "ro"
+    : (countryCode === "US" || countryCode === "GB" || countryCode === "AU" || countryCode === "CA" || countryCode === "IE" || countryCode === "NZ") ? "en"
+    : "hu";
   const pool: CurriculumQuestion[] = [];
 
   for (const id of subtopicIds) {

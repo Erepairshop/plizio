@@ -4,6 +4,7 @@
 
 import type { CurriculumTheme, CurriculumQuestion } from "./curriculumTypes";
 import type { TestGradeMark } from "./languageTestTypes";
+import { pickDiverse } from "./testDiversity";
 
 export type BiologieQuestion = CurriculumQuestion;
 export type BiologieTheme = CurriculumTheme;
@@ -115,7 +116,7 @@ export function getK6Questions(
         }
       }
     }
-    return pool.slice(0, count);
+    return pickDiverse(pool, count);
   }
 
   // Generator-alapú
@@ -153,7 +154,7 @@ export function getK6Questions(
     const j = Math.floor(Math.random() * (i + 1));
     [dedupedPool[i], dedupedPool[j]] = [dedupedPool[j], dedupedPool[i]];
   }
-  return dedupedPool.slice(0, count);
+  return pickDiverse(dedupedPool, count);
 }
 
 // ─── GRADING ──────────────────────────────────────────────────────────────

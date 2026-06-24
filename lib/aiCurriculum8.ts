@@ -1,4 +1,5 @@
 import AI_K8_JSON from "./aiCurriculum8_data.json";
+import { pickDiverse } from "./testDiversity";
 import type { KemiaTheme, KemiaQuestion } from "./kemiaCurriculumShared";
 
 type MultiLang = { de: string; hu: string; ro: string; en: string };
@@ -122,16 +123,22 @@ const AI_DATA: Record<string, RawQuestion[]> = {
 
 // Generic fallback data generator to ensure 25 MCQ + 10 Typing per subtopic
 function getRawQuestions(subId: string): RawQuestion[] {
-  const data = AI_DATA[subId] || AI_DATA["ai_k8_t1_1"];
-  const mcqs = data.filter(q => q.type === "mcq");
-  const typings = data.filter(q => q.type === "typing");
-  
-  const result: RawQuestion[] = [];
-  // Fill up to 25 MCQs (repeating existing ones with variation if needed, but here just simple repeat)
-  for (let i = 0; i < 25; i++) result.push(mcqs[i % mcqs.length]);
-  // Fill up to 10 Typings
-  for (let i = 0; i < 10; i++) result.push(typings[i % typings.length]);
-  return result;
+  // A gazdag JSON-tartalmat is használjuk (a régi AI_DATA csak az inline-t tartalmazta + 25/10-ciklus duplikált).
+  const fromJson = Array.isArray((AI_K8_JSON as any)[subId]) ? ((AI_K8_JSON as any)[subId] as RawQuestion[]) : [];
+  const fromInline = Array.isArray(AI_DATA[subId]) ? AI_DATA[subId] : [];
+  const merged = fromJson.length >= fromInline.length ? [...fromJson, ...fromInline] : [...fromInline, ...fromJson];
+  const seen = new Set<string>();
+  const out: RawQuestion[] = [];
+  for (const q of merged) {
+    const ql = (q as any)?.question;
+    const key = (ql && ql.hu) || (typeof ql === "string" ? ql : JSON.stringify(q));
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push(q);
+  }
+  if (out.length > 0) return out;
+  const fb = AI_DATA["ai_k8_t1_1"];
+  return Array.isArray(fb) ? fb : [];
 }
 
 export const AI_K8_CURRICULUM: KemiaTheme[] = [
@@ -255,5 +262,5 @@ export function getAIK8Questions(subtopicIds: string[], count = 10, lang = "hu")
     const j = Math.floor(Math.random() * (i + 1));
     [pool[i], pool[j]] = [pool[j], pool[i]];
   }
-  return pool.slice(0, count);
+  return pickDiverse(pool, count);
 }

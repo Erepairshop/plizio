@@ -74,7 +74,7 @@
       "question": "Hogyan frissítünk egy oldalt?",
       "options": [
         "A görbe nyíllal vagy F5-tel",
-        "Kikapcsoljuk the monitort",
+        "Kikapcsoljuk a monitort",
         "Várunk egy órát",
         "Gépelünk"
       ],
@@ -106,7 +106,7 @@
       "type": "mcq",
       "question": "Hogyan keresünk valamit az interneten?",
       "options": [
-        "Keresőbe (pl. Google) írjuk the szót",
+        "Keresőbe (pl. Google) írjuk a szót",
         "Kiabálunk a gépnek",
         "Mindent végigkattintunk",
         "Várunk"
@@ -137,7 +137,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the nagyító ikon?",
+      "question": "Mire jó a nagyító ikon?",
       "options": [
         "Keresésre",
         "Nagyításra",
@@ -162,7 +162,7 @@
       "question": "Hogyan csukunk be egy fület?",
       "options": [
         "A fülön lévő kis x-szel",
-        "Kikapcsoljuk the gépet",
+        "Kikapcsoljuk a gépet",
         "Letakarjuk",
         "Megfújjuk"
       ],
@@ -239,7 +239,7 @@
       "question": "Mit jelent a 'Letöltés'?",
       "options": [
         "Valamit a netről a gépünkre teszünk",
-        "Kivisszük the gépet",
+        "Kivisszük a gépet",
         "Törlünk mindent",
         "Rajzolunk"
       ],
@@ -272,7 +272,7 @@
       "question": "Hogyan lépünk ki a böngészőből?",
       "options": [
         "A jobb felső piros X-szel",
-        "Kihúzzuk the gépet",
+        "Kihúzzuk a gépet",
         "Becsukjuk a szemünk",
         "Várunk"
       ],

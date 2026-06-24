@@ -78,26 +78,26 @@ function createTyping(
 const ARTHROPOD_DATA = [
   { name: "Insekt", legs: "6", body: "Kopf, Brust, Hinterleib" },
   { name: "Spinne", legs: "8", body: "Kopf-Brust, Hinterleib" },
-  { name: "Krebs", legs: "10+", body: "Segmentiert" },
+  { name: "Krebs", legs: "10", body: "Segmentiert" },
   { name: "Skolopender", legs: "viele", body: "Sehr lang" },
   { name: "Milbe", legs: "8", body: "Winzig" },
 ];
 
 const INSECT_DATA = [
-  { name: "Biene", role: "Bestäubung", type: "Hymenoptera", count: 6 },
-  { name: "Käfer", role: "Zersetzer", type: "Coleoptera", count: 6 },
-  { name: "Schmetterling", role: "Bestäubung", type: "Lepidoptera", count: 6 },
-  { name: "Fliege", role: "Zersetzer", type: "Diptera", count: 6 },
-  { name: "Libelle", role: "Jäger", type: "Odonata", count: 6 },
-  { name: "Heuschrecke", role: "Pflanzenfresser", type: "Orthoptera", count: 6 },
+  { name: "Biene", role: "Bestäubung", type: "Hymenoptera", count: 6, wings: "4" },
+  { name: "Käfer", role: "Zersetzer", type: "Coleoptera", count: 6, wings: "4 (2 Deckflügel + 2 Flügel)" },
+  { name: "Schmetterling", role: "Bestäubung", type: "Lepidoptera", count: 6, wings: "4" },
+  { name: "Fliege", role: "Zersetzer", type: "Diptera", count: 6, wings: "2" },
+  { name: "Libelle", role: "Jäger", type: "Odonata", count: 6, wings: "4" },
+  { name: "Heuschrecke", role: "Pflanzenfresser", type: "Orthoptera", count: 6, wings: "4" },
 ];
 
 const MOLLUSK_DATA = [
-  { name: "Schnecke", shell: "Spirale", movement: "Fuß", habitat: "Land/Wasser" },
-  { name: "Muschel", shell: "2-teilig", movement: "Filtrierend", habitat: "Wasser" },
-  { name: "Tintenfisch", shell: "Keine", movement: "Tinte", habitat: "Meer" },
-  { name: "Nacktschnecke", shell: "Keine", movement: "Fuß", habitat: "Land" },
-  { name: "Austern", shell: "2-teilig", movement: "Stationär", habitat: "Meer" },
+  { name: "Schnecke", shell: "Spirale", movement: "Fuß", locomotion: "Fuß", habitat: "Land/Wasser" },
+  { name: "Muschel", shell: "2-teilig", movement: "Filtrierend", locomotion: "Fuß", habitat: "Wasser" },
+  { name: "Tintenfisch", shell: "Keine", movement: "Tinte", locomotion: "Rückstoß (Düsenantrieb)", habitat: "Meer" },
+  { name: "Nacktschnecke", shell: "Keine", movement: "Fuß", locomotion: "Fuß", habitat: "Land" },
+  { name: "Austern", shell: "2-teilig", movement: "Stationär", locomotion: "ortsgebunden (bewegt sich kaum)", habitat: "Meer" },
 ];
 
 const WORM_DATA = [
@@ -199,7 +199,7 @@ export const K6_Generators: Record<string, (seed?: number) => CurriculumQuestion
         createMCQ("wirbellose", "arthropods",
           `Wie viele Beine hat ein ${data.name}?`,
           data.legs,
-          ["4", "6", "8", "10", "12"],
+          ["4", "6", "8", "12", "14"],
           rng
         ),
       (data: typeof ARTHROPOD_DATA[0]) =>
@@ -253,8 +253,8 @@ export const K6_Generators: Record<string, (seed?: number) => CurriculumQuestion
       (data: typeof INSECT_DATA[0]) =>
         createMCQ("wirbellose", "insects",
           `${data.name} hat wieviele Flügel?`,
-          data.count === 6 ? "2 oder 4" : "Variabel",
-          ["1", "2", "4", "6"],
+          data.wings,
+          ["0", "1", "6", "8"],
           rng
         ),
     ];
@@ -333,9 +333,9 @@ export const K6_Generators: Record<string, (seed?: number) => CurriculumQuestion
         ),
       (data: typeof MOLLUSK_DATA[0]) =>
         createMCQ("wirbellose", "mollusks",
-          `Mit welchem bewegt sich eine ${data.name}?`,
-          data.movement,
-          ["Flossen", "Beine", "Flosse"],
+          `Wie bewegt sich eine ${data.name} fort?`,
+          data.locomotion,
+          ["Flossen", "Beine", "Laufen"],
           rng
         ),
       (data: typeof MOLLUSK_DATA[0]) =>

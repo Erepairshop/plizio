@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import { Pencil, ChevronUp } from 'lucide-react';
 import DraftPanel from './draft/DraftPanel';
+import { answersMatch } from '@/lib/answerMatch';
 import type {
   SchoolTaskBlock as SchoolTaskBlockType,
   SchoolTaskAnswers,
@@ -525,7 +526,7 @@ export default function SchoolTaskBlock({
   const earnedPoints = isGrading
     ? block.subQuestions.reduce((sum, sq) => {
         const v = String(answers[sq.id] ?? '').trim();
-        return sum + (v === String(sq.answer).trim() ? sq.points : 0);
+        return sum + (answersMatch(v, sq.answer) ? sq.points : 0);
       }, 0)
     : null;
 

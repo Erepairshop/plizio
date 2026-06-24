@@ -3,6 +3,7 @@
 // 28 subtopic × 2 (MCQ + Typing) = 56 generátor
 
 import type { CurriculumQuestion as BaseCurriculumQuestion } from "./curriculumTypes";
+import { pickDiverse } from "./testDiversity";
 import type { TestGradeMark } from "./languageTestTypes";
 
 export type CurriculumQuestion = BaseCurriculumQuestion;
@@ -133,7 +134,7 @@ export function getK6Questions(
         }
       }
     }
-    return pool.slice(0, count);
+    return pickDiverse(pool, count);
   }
 
   // Generator-alapú
@@ -177,7 +178,7 @@ export function getK6Questions(
     const j = Math.floor(Math.random() * (i + 1));
     [pool[i], pool[j]] = [pool[j], pool[i]];
   }
-  return pool.slice(0, count);
+  return pickDiverse(pool, count);
 }
 
 // ─── HELPER FUNCTIONS FOR GENERATORS ──────────────────────────────────────
@@ -213,7 +214,8 @@ export function createMCQ(
   wrong: string[],
   rng: () => number
 ): CurriculumQuestion {
-  const options = shuffle([correct, ...wrong.slice(0, 3)], rng);
+  const uniqueWrong = wrong.filter((w, i) => w !== correct && wrong.indexOf(w) === i);
+  const options = shuffle([correct, ...uniqueWrong.slice(0, 3)], rng);
   return {
     type: "mcq" as const,
     topic,

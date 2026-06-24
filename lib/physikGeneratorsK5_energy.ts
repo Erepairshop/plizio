@@ -191,15 +191,16 @@ export function generateEnergyForms(lang: string, seed = Math.random()): Curricu
   }
 
   // Template 4: "Which of these is an example of X energy?"
+  // correct answer = the concrete example (not the energy form name, which would be tautological)
+  const exampleMap: Record<string, string> = {
+    kinetic: "moving car",
+    potential: "book on shelf",
+    thermal: "hot coffee",
+    chemical: "battery",
+    electrical: "light bulb"
+  };
   for (const ef of ENERGY_FORMS.slice(0, 5)) {
-    const examples: Record<string, string> = {
-      kinetic: "moving car",
-      potential: "book on shelf",
-      thermal: "hot coffee",
-      chemical: "battery",
-      electrical: "light bulb"
-    };
-    const example = examples[ef.form as keyof typeof examples] || ef.example;
+    const example = exampleMap[ef.form as keyof typeof exampleMap] || ef.example;
     const q = q4(
       "Welches ist ein Beispiel für " + ef.de + "?",
       "Which is an example of " + ef.en + "?",
@@ -207,11 +208,12 @@ export function generateEnergyForms(lang: string, seed = Math.random()): Curricu
       "Care este un exemplu de " + ef.ro + "?",
       lang
     );
-    const wrongForms = shuffle(
-      ENERGY_FORMS.filter(f => f.form !== ef.form).map(f => f[lang === "de" ? "de" : lang === "hu" ? "hu" : lang === "ro" ? "ro" : "en"]),
+    // wrong options: examples from other energy forms
+    const wrongExamples = shuffle(
+      ENERGY_FORMS.filter(f => f.form !== ef.form).map(f => exampleMap[f.form as keyof typeof exampleMap] || f.example),
       rng
     ).slice(0, 3);
-    questions.push(createMCQ("energy", "energy_forms", q, ef[lang === "de" ? "de" : lang === "hu" ? "hu" : lang === "ro" ? "ro" : "en"], wrongForms, rng));
+    questions.push(createMCQ("energy", "energy_forms", q, example, wrongExamples, rng));
   }
 
   // Template 5: Light and Sound - direct examples

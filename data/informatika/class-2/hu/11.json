@@ -40,8 +40,8 @@
       "type": "mcq",
       "question": "Ki a 'Címzett'?",
       "options": [
-        "Aki kapja the levelet",
-        "Aki írja the levelet",
+        "Aki kapja a levelet",
+        "Aki írja a levelet",
         "A postás",
         "A gép"
       ],
@@ -60,10 +60,10 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan küldjük el the levelet?",
+      "question": "Hogyan küldjük el a levelet?",
       "options": [
         "A 'Küldés' (Send) gombbal",
-        "Kikapcsoljuk the gépet",
+        "Kikapcsoljuk a gépet",
         "Ráfújunk a monitorra",
         "Space-szel"
       ],
@@ -185,7 +185,7 @@
       "options": [
         "A törlés vagy kuka ikonnal",
         "Letépjük a monitorról",
-        "Kikapcsoljuk the gépet",
+        "Kikapcsoljuk a gépet",
         "Átfestjük"
       ],
       "correct": 0
@@ -197,7 +197,7 @@
         "Igen, csatolmányként (ha nem túl nagy)",
         "Nem, csak betűt",
         "Csak ha van kameránk",
-        "Csak ha mozog the gép"
+        "Csak ha mozog a gép"
       ],
       "correct": 0
     },
@@ -206,7 +206,7 @@
       "question": "Mi a 'Küldött levelek' mappa?",
       "options": [
         "Ahol a már elküldött leveleink vannak",
-        "Ahol the postás lakik",
+        "Ahol a postás lakik",
         "A gép memóriája",
         "Egy játék"
       ],
@@ -218,8 +218,8 @@
       "options": [
         "Soha, senkinek!",
         "Igen, ha kérik",
-        "Csak the barátunknak",
-        "Csak the tanárnak"
+        "Csak a barátunknak",
+        "Csak a tanárnak"
       ],
       "correct": 0
     },
@@ -258,12 +258,12 @@
     },
     {
       "type": "mcq",
-      "question": "Mi történik, ha elírtuk the címet?",
+      "question": "Mi történik, ha elírtuk a címet?",
       "options": [
-        "Nem érkezik meg the levél",
+        "Nem érkezik meg a levél",
         "A gép kijavítja",
         "Bárki megkapja",
-        "Felrobban the gép"
+        "Felrobban a gép"
       ],
       "correct": 0
     },

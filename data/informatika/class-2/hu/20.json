@@ -27,10 +27,10 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the hangerő gomb?",
+      "question": "Mire jó a hangerő gomb?",
       "options": [
-        "Hogy halkítsuk vagy hangosítsuk the zenét",
-        "Hogy gyorsítsuk the dalt",
+        "Hogy halkítsuk vagy hangosítsuk a zenét",
+        "Hogy gyorsítsuk a dalt",
         "Hogy színesebb legyen",
         "Semmire"
       ],
@@ -38,7 +38,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan indítjuk el the zenét?",
+      "question": "Hogyan indítjuk el a zenét?",
       "options": [
         "A Lejátszás (Play) gombbal",
         "A Stop gombbal",
@@ -51,9 +51,9 @@
       "type": "mcq",
       "question": "Mi a 'Mute' gomb feladata?",
       "options": [
-        "Azonnal elnémítja the hangot",
-        "Kiszínezi the zenét",
-        "Kikapcsolja the gépet",
+        "Azonnal elnémítja a hangot",
+        "Kiszínezi a zenét",
+        "Kikapcsolja a gépet",
         "Rajzol"
       ],
       "correct": 0
@@ -74,7 +74,7 @@
       "question": "Mi az a mikrofon?",
       "options": [
         "Eszköz, amibe belebeszélünk",
-        "Eszköz, amiből the hang jön",
+        "Eszköz, amiből a hang jön",
         "A monitor része",
         "Egy kábel"
       ],
@@ -93,10 +93,10 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan állítjuk meg the zenét?",
+      "question": "Hogyan állítjuk meg a zenét?",
       "options": [
         "A Szünet (Pause) vagy Stop gombbal",
-        "Kihúzzuk the gépet",
+        "Kihúzzuk a gépet",
         "Kiabálunk",
         "Letakarjuk"
       ],
@@ -106,16 +106,16 @@
       "type": "mcq",
       "question": "Mi az a fülhallgató előnye?",
       "options": [
-        "Csak mi halljuk the zenét, nem zavarunk másokat",
+        "Csak mi halljuk a zenét, nem zavarunk másokat",
         "Hangosabb mint a hangfal",
-        "Ettől szebb the kép",
+        "Ettől szebb a kép",
         "Semmi"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the 'lejátszási lista' (playlist)?",
+      "question": "Mit jelent a 'lejátszási lista' (playlist)?",
       "options": [
         "Sok zene egymás után téve",
         "A tanár kedvencei",
@@ -128,7 +128,7 @@
       "type": "mcq",
       "question": "Mire kell figyelni fülhallgatóval?",
       "options": [
-        "Ne legyen túl hangos, mert bántja the fülünket",
+        "Ne legyen túl hangos, mert bántja a fülünket",
         "Hogy ne mozogjunk",
         "Hogy sötét legyen",
         "Semmire"
@@ -192,10 +192,10 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan tekerünk bele the zenébe?",
+      "question": "Hogyan tekerünk bele a zenébe?",
       "options": [
         "A csúszka (idővonal) mozgatásával",
-        "Megforgatjuk the gépet",
+        "Megforgatjuk a gépet",
         "Gyorsabban gépelünk",
         "Sehogy"
       ],
@@ -203,9 +203,9 @@
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the 'sztereó'?",
+      "question": "Mit jelent a 'sztereó'?",
       "options": [
-        "Két irányból (bal és jobb) jön the hang",
+        "Két irányból (bal és jobb) jön a hang",
         "Nagyon hangos",
         "Nagyon halk",
         "Nagyon régi"
@@ -214,7 +214,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the hangszínszabályzó?",
+      "question": "Mire jó a hangszínszabályzó?",
       "options": [
         "A mély és magas hangok állítására",
         "A zene színének változtatására",
@@ -225,7 +225,7 @@
     },
     {
       "type": "mcq",
-      "question": "Milyen hangot ad the gép, ha hiba van?",
+      "question": "Milyen hangot ad a gép, ha hiba van?",
       "options": [
         "Pittyen vagy hibaüzenet hangot ad",
         "Énekel",
@@ -251,7 +251,7 @@
       "options": [
         "Vezeték nélkül hallgathatunk vele zenét",
         "Ezzel lehet beszélni",
-        "Ettől megy the net",
+        "Ettől megy a net",
         "Dísz"
       ],
       "correct": 0

@@ -99,10 +99,10 @@ const ADJECTIVE_GRADES = [
 const ADJECTIVE_FUNCTIONS = [
   { sentence: "Un băiat frumos a venit.", adjective: "frumos", function: "atribut adjectival", role: "apare alături de substantiv" },
   { sentence: "Ziua este frumoasă.", adjective: "frumoasă", function: "nume predicativ", role: "după verb de legătură" },
-  { sentence: "Flori frumoase, mirositor, mă adorau.", adjective: "frumoase", function: "apoziție", role: "cuvânt apozitiv" },
+  { sentence: "Vecinul nostru, om harnic, ne-a ajutat.", adjective: "harnic", function: "apoziție", role: "explică substantivul printr-o apoziție" },
   { sentence: "Cartea este veche și interesantă.", adjective: "veche", function: "nume predicativ", role: "după copula 'este'" },
   { sentence: "Omul bogat și puternic a vorbit.", adjective: "bogat", function: "atribut adjectival", role: "determină substantivul omul" },
-  { sentence: "Els au rămas mulțumiți de rezultat.", adjective: "mulțumiți", function: "nume predicativ", role: "după verb reflexiv" },
+  { sentence: "Ei au rămas mulțumiți de rezultat.", adjective: "mulțumiți", function: "nume predicativ", role: "după verbul copulativ 'a rămâne'" },
 ];
 
 const NUMERAL_CARDINAL = [
@@ -125,7 +125,7 @@ const NUMERAL_ORDINAL = [
   { ordinal: "al zecelea/a zecelea", english: "tenth", example: "al zecelea exercițiu", type: "ordinal" },
   { ordinal: "dublu/dublă", english: "double", example: "o țintă dublă", type: "multiplicativ" },
   { ordinal: "triplu/triplă", english: "triple", example: "o recompensă triplă", type: "multiplicativ" },
-  { ordinal: "câte doi", english: "two by two", example: "mersesc câte doi", type: "distributiv" },
+  { ordinal: "câte doi", english: "two by two", example: "merg câte doi", type: "distributiv" },
   { ordinal: "câte trei", english: "three by three", example: "grupuri câte trei", type: "distributiv" },
 ];
 
@@ -250,21 +250,25 @@ function numeral_cardinal(seed = 42): CurriculumQuestion[] {
     let wrongOpts: string[] = [];
 
     if (variantType === 0) {
-      question = `Cum se exprimă "${num.form}" în contextul: "${num.example}"?`;
-      correct = num.form;
-      wrongOpts = [`${num.number} întreg`, `sfert din ${num.number}`, `o treime din ${num.number}`];
+      question = `Din ce categorie de numeral face parte "${num.form}" (ex.: "${num.example}")?`;
+      correct = num.type;
+      wrongOpts = ["ordinal", "colectiv", "adverbial"].filter(t => t !== num.type);
     } else if (variantType === 1) {
       question = `Numeralul cardinal pentru "${num.example}" este:`;
       correct = num.form;
       wrongOpts = [
-        pick(NUMERAL_CARDINAL, rng).form,
-        pick(NUMERAL_CARDINAL, rng).form,
+        pick(NUMERAL_CARDINAL.filter(x => x.form !== num.form), rng).form,
+        pick(NUMERAL_CARDINAL.filter(x => x.form !== num.form), rng).form,
         `aproximativ ${num.form}`,
       ];
     } else {
-      question = `Care din următoarele nu este o formă a "${num.form}"?`;
-      correct = pick(NUMERAL_CARDINAL, rng).form;
-      wrongOpts = [num.form, pick(NUMERAL_CARDINAL, rng).form, pick(NUMERAL_CARDINAL, rng).form];
+      question = `Ce valoare numerică exprimă numeralul "${num.form}"?`;
+      correct = String(num.number);
+      wrongOpts = [
+        String(pick(NUMERAL_CARDINAL.filter(x => x.number !== num.number), rng).number),
+        String(pick(NUMERAL_CARDINAL.filter(x => x.number !== num.number), rng).number),
+        String(num.number + 1),
+      ];
     }
 
     questionPool.push(createMCQ("Romanian-C7-P1", "numeral_cardinal", question, correct, wrongOpts, rng));
@@ -287,11 +291,11 @@ function numeral_ordinal(seed = 42): CurriculumQuestion[] {
     let wrongOpts: string[] = [];
 
     if (variantType === 0) {
-      question = `Care este forma numeralului ordinal/multiplicativ pentru "${num.ordinal}"?`;
+      question = `Pentru exemplul "${num.example}", forma numeralului corect este:`;
       correct = num.ordinal;
       wrongOpts = [
-        pick(NUMERAL_ORDINAL, rng).ordinal,
-        pick(NUMERAL_ORDINAL, rng).ordinal,
+        pick(NUMERAL_ORDINAL.filter(x => x.ordinal !== num.ordinal), rng).ordinal,
+        pick(NUMERAL_ORDINAL.filter(x => x.ordinal !== num.ordinal), rng).ordinal,
         pick(NUMERAL_CARDINAL, rng).form,
       ];
     } else if (variantType === 1) {

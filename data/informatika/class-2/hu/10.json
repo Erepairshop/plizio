@@ -5,7 +5,7 @@
   "tasks": [
     {
       "type": "mcq",
-      "question": "Mit jelent the letöltés?",
+      "question": "Mit jelent a letöltés?",
       "options": [
         "Fájlt másolunk az internetről a gépre",
         "Törlünk a gépről",
@@ -16,7 +16,7 @@
     },
     {
       "type": "mcq",
-      "question": "Hová kerülnek általában the letöltött fájlok?",
+      "question": "Hová kerülnek általában a letöltött fájlok?",
       "options": [
         "A Letöltések (Downloads) mappába",
         "A Lomtárba",
@@ -32,7 +32,7 @@
         "Csak engedéllyel és biztonságos helyről",
         "Igen, bármit",
         "Csak ami ingyen van",
-        "Csak the játékokat"
+        "Csak a játékokat"
       ],
       "correct": 0
     },
@@ -41,19 +41,19 @@
       "question": "Miért kell várni letöltéskor?",
       "options": [
         "Mert az adatoknak idő kell az úton",
-        "Mert the gép pihen",
-        "Mert the net alszik",
+        "Mert a gép pihen",
+        "Mert a net alszik",
         "Csak viccből"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogyan látjuk, hogy kész the letöltés?",
+      "question": "Hogyan látjuk, hogy kész a letöltés?",
       "options": [
         "A böngésző alján vagy szélén látszik",
         "Megszólal egy duda",
-        "Kikapcsol the gép",
+        "Kikapcsol a gép",
         "Sehogy"
       ],
       "correct": 0
@@ -65,7 +65,7 @@
         "Ne töltsük le, szóljunk felnőttnek",
         "Töltsük le gyorsan",
         "Kattintsunk rá sokat",
-        "Hívjuk át the barátunkat"
+        "Hívjuk át a barátunkat"
       ],
       "correct": 0
     },
@@ -74,7 +74,7 @@
       "question": "Lehet-e vírust letölteni?",
       "options": [
         "Igen, ezért kell óvatosnak lenni",
-        "Nem, the vírus nem szereti",
+        "Nem, a vírus nem szereti",
         "Csak ha nincs egérpadunk",
         "Csak éjszaka"
       ],
@@ -93,10 +93,10 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan állítjuk meg the letöltést?",
+      "question": "Hogyan állítjuk meg a letöltést?",
       "options": [
         "A Mégse vagy Stop gombbal",
-        "Kihúzzuk the gépet",
+        "Kihúzzuk a gépet",
         "Kiabálunk",
         "Elmegyünk otthonról"
       ],
@@ -115,7 +115,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mit csináljunk the letöltött játékkal?",
+      "question": "Mit csináljunk a letöltött játékkal?",
       "options": [
         "Telepíteni kell, ha biztonságos",
         "Azonnal töröljük",
@@ -148,11 +148,11 @@
     },
     {
       "type": "mcq",
-      "question": "Mi történik, ha megszakad the net letöltés közben?",
+      "question": "Mi történik, ha megszakad a net letöltés közben?",
       "options": [
-        "Leáll the letöltés",
+        "Leáll a letöltés",
         "Folytatódik magától",
-        "Felrobban the gép",
+        "Felrobban a gép",
         "Semmi"
       ],
       "correct": 0
@@ -170,18 +170,18 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the tömörített fájl (.zip)?",
+      "question": "Mire jó a tömörített fájl (.zip)?",
       "options": [
         "Hogy kisebb helyet foglaljon",
         "Hogy ne legyen benne víz",
-        "Hogy gyorsabb legyen the gép",
+        "Hogy gyorsabb legyen a gép",
         "Semmire"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Hogyan nyitjuk meg the letöltött fájlt?",
+      "question": "Hogyan nyitjuk meg a letöltött fájlt?",
       "options": [
         "Kattintunk rá a böngészőben vagy a mappában",
         "Ránézünk",
@@ -214,12 +214,12 @@
     },
     {
       "type": "mcq",
-      "question": "Hogyan töröljük the letöltött fájlt, ha már nem kell?",
+      "question": "Hogyan töröljük a letöltött fájlt, ha már nem kell?",
       "options": [
         "Kijelöljük és Delete",
         "Letakarjuk",
         "Megesszük",
-        "Kihúzzuk the gépet"
+        "Kihúzzuk a gépet"
       ],
       "correct": 0
     },
@@ -228,15 +228,15 @@
       "question": "Miért fontos a vírusirtó letöltéskor?",
       "options": [
         "Ellenőrzi, hogy ne legyen baj",
-        "Gyorsítja the netet",
-        "Kiszínezi the fájlt",
+        "Gyorsítja a netet",
+        "Kiszínezi a fájlt",
         "Semmi"
       ],
       "correct": 0
     },
     {
       "type": "mcq",
-      "question": "Mit jelent the 'Save image as'?",
+      "question": "Mit jelent a 'Save image as'?",
       "options": [
         "Kép mentése másként",
         "Kép törlése",
@@ -258,7 +258,7 @@
     },
     {
       "type": "mcq",
-      "question": "Mire jó the letöltési sebesség?",
+      "question": "Mire jó a letöltési sebesség?",
       "options": [
         "Megmutatja, milyen gyorsan ér ide a fájl",
         "Megmutatja, milyen gyors az egér",
@@ -271,9 +271,9 @@
       "type": "mcq",
       "question": "Mit tegyünk, ha elfogy a hely a gépen?",
       "options": [
-        "Töröljük the felesleges letöltéseket",
+        "Töröljük a felesleges letöltéseket",
         "Vegyünk új monitort",
-        "Dobjuk ki the gépet",
+        "Dobjuk ki a gépet",
         "Sírjunk"
       ],
       "correct": 0

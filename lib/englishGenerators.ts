@@ -9,6 +9,11 @@ import type { CurriculumQuestion, CurriculumMCQ, CurriculumTyping } from "./curr
 
 // ─── HELPER FUNCTIONS ──────────────────────────────────────────────────────
 
+/** Return 'an' before vowel-initial words, 'a' otherwise */
+function art(word: string): string {
+  return /^[aeiou]/i.test(word) ? 'an' : 'a';
+}
+
 /** Seeded PRNG (Mulberry32) */
 function mulberry32(seed: number) {
   return function() {
@@ -5260,11 +5265,11 @@ export const G5_Generators = {
         { word: "Hurrah", emotion: "excitement", sentence: "___! School is out for summer!", wrong: ["Run", "Blue", "Under"] },
         { word: "Phew", emotion: "relief", sentence: "___! That was a close call.", wrong: ["Fast", "Because", "Green"] },
         { word: "Shh", emotion: "quieting", sentence: "___! The baby is sleeping.", wrong: ["Loud", "Run", "Big"] },
-        { word: "Ouch", emotion: "shock", sentence: "___! I can't believe it!", wrong: ["Go", "Really", "Maybe"] },
+        { word: "Gasp", emotion: "shock", sentence: "___! I can't believe it!", wrong: ["Go", "Really", "Maybe"] },
         { word: "Hey", emotion: "attention", sentence: "___! Over here!", wrong: ["Stop", "Look", "Good"] },
         { word: "Gosh", emotion: "wonder", sentence: "___! That's amazing!", wrong: ["No", "But", "Yet"] },
         { word: "Hmm", emotion: "thinking", sentence: "___! Let me consider that.", wrong: ["Yes", "See", "Go"] },
-        { word: "Ouch", emotion: "regret", sentence: "___! I shouldn't have done that.", wrong: ["Oh", "Yes", "Sure"] },
+        { word: "Darn", emotion: "regret", sentence: "___! I shouldn't have done that.", wrong: ["Oh", "Yes", "Sure"] },
         { word: "Wow", emotion: "admiration", sentence: "___! What a beautiful view!", wrong: ["Run", "No", "Stop"] },
       ];
       for (let i = 0; i < 30; i++) {
@@ -5800,7 +5805,7 @@ export const G5_Generators = {
         { root: "vers", origin: "Latin", meaning: "turn", examples: ["verse", "reverse", "universe"] },
         { root: "mort", origin: "Latin", meaning: "death", examples: ["mortal", "immortal", "mortality"] },
         { root: "rupt", origin: "Latin", meaning: "break", examples: ["rupture", "disrupt", "erupt"] },
-        { root: "struct", origin: "Latin", meaning: "build", examples: ["structure", "construct", "destroy"] },
+        { root: "struct", origin: "Latin", meaning: "build", examples: ["structure", "construct", "destruction"] },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(rootData, rng);
@@ -5812,21 +5817,28 @@ export const G5_Generators = {
             q.push(createMCQ("vocab_g5", "greek_latin_g5",
               `The ${data.origin} root '${data.root}' means:`, data.meaning, wrong, rng));
           } else if (variant === 1) {
-            const wrong = rootData.filter(r => r.root !== data.root).map(r => r.root).slice(0, 3);
+            // Exclude roots that share the same meaning to avoid ambiguous wrong options
+            const wrong = rootData.filter(r => r.root !== data.root && r.meaning !== data.meaning).map(r => r.root).slice(0, 3);
             q.push(createMCQ("vocab_g5", "greek_latin_g5",
               `Which root means '${data.meaning}'?`, data.root, wrong, rng));
           } else {
+            // Use only examples that belong to a single root to avoid ambiguity
+            const allExamples = rootData.flatMap(r => r.examples);
+            const uniqueExample = data.examples.find(ex => allExamples.filter(e => e === ex).length === 1) ?? data.examples[0];
             const wrong = rootData.filter(r => r.meaning !== data.meaning).map(r => r.meaning).slice(0, 3);
             q.push(createMCQ("vocab_g5", "greek_latin_g5",
-              `What does the root in '${example}' mean?`, data.meaning, wrong, rng));
+              `What does the root in '${uniqueExample}' mean?`, data.meaning, wrong, rng));
           }
         } else {
           if (rng() > 0.5) {
             q.push(createTyping("vocab_g5", "greek_latin_g5",
               `What does the root '${data.root}' mean?`, data.meaning));
           } else {
+            // Use only examples unique to this root to avoid ambiguity
+            const allExamples = rootData.flatMap(r => r.examples);
+            const safeExample = data.examples.find(ex => allExamples.filter(e => e === ex).length === 1) ?? data.examples[0];
             q.push(createTyping("vocab_g5", "greek_latin_g5",
-              `What root in '${example}' means '${data.meaning}'?`, data.root));
+              `What root in '${safeExample}' means '${data.meaning}'?`, data.root));
           }
         }
       }
@@ -6526,7 +6538,7 @@ export const G5_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(mediaData, rng);
         const wrong = mediaData.filter(m => m.term !== data.term).map(m => m.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g5", "media_literacy_g5", `What is a ${data.term}?`, data.definition, wrong, rng));
+        q.push(createMCQ("vocab_g5", "media_literacy_g5", `What is ${art(data.term)} ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -6566,7 +6578,7 @@ export const G5_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(historyData, rng);
         const wrong = historyData.filter(h => h.term !== data.term).map(h => h.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g5", "history_g5", `What is a ${data.term}?`, data.definition, wrong, rng));
+        q.push(createMCQ("vocab_g5", "history_g5", `What is ${art(data.term)} ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -6646,7 +6658,7 @@ export const G5_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(wordplayData, rng);
         const wrong = wordplayData.filter(w => w.term !== data.term).map(w => w.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g5", "wordplay_g5", `What is a ${data.term}?`, data.definition, wrong, rng));
+        q.push(createMCQ("vocab_g5", "wordplay_g5", `What is ${art(data.term)} ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -7460,7 +7472,7 @@ export const G6_Generators = {
       const q: CurriculumQuestion[] = [];
       const rootData = [
         { root: "rupt", meaning: "break", examples: ["interrupt", "erupt", "bankrupt", "corrupt", "disrupt"] },
-        { root: "struct", meaning: "build", examples: ["construct", "instruct", "structure", "destroy", "obstruct"] },
+        { root: "struct", meaning: "build", examples: ["construct", "instruct", "structure", "destruction", "obstruct"] },
         { root: "ject", meaning: "throw", examples: ["project", "reject", "inject", "eject", "object"] },
         { root: "duc/duct", meaning: "lead", examples: ["conduct", "produce", "introduce", "reduce", "educate"] },
         { root: "mit/miss", meaning: "send", examples: ["transmit", "mission", "submit", "permit", "dismiss"] },
@@ -8156,7 +8168,7 @@ export const G6_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(debateData, rng);
         const wrong = debateData.filter(d => d.term !== data.term).map(d => d.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g6", "debate_g6", `What is a ${data.term}?`, data.definition, wrong, rng));
+        q.push(createMCQ("vocab_g6", "debate_g6", `What is ${art(data.term)} ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -8192,7 +8204,7 @@ export const G6_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(sciData, rng);
         const wrong = sciData.filter(s => s.term !== data.term).map(s => s.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g6", "science_g6", `What is a ${data.term}?`, data.definition, wrong, rng));
+        q.push(createMCQ("vocab_g6", "science_g6", `What is ${art(data.term)} ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -8210,7 +8222,7 @@ export const G6_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(ssData, rng);
         const wrong = ssData.filter(s => s.term !== data.term).map(s => s.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g6", "social_studies_g6", `What is a ${data.term}?`, data.definition, wrong, rng));
+        q.push(createMCQ("vocab_g6", "social_studies_g6", `What is ${art(data.term)} ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -8228,7 +8240,7 @@ export const G6_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(fwData, rng);
         const wrong = fwData.filter(f => f.term !== data.term).map(f => f.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g6", "formal_writing_g6", `What is a ${data.term}?`, data.definition, wrong, rng));
+        q.push(createMCQ("vocab_g6", "formal_writing_g6", `What is ${art(data.term)} ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -9754,7 +9766,7 @@ export const G7_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(argData, rng);
         const wrong = argData.filter(a => a.term !== data.term).map(a => a.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g7", "argument_structure_g7", `What is a ${data.term}?`, data.definition, wrong, rng));
+        q.push(createMCQ("vocab_g7", "argument_structure_g7", `What is ${art(data.term)} ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -9788,7 +9800,7 @@ export const G7_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(researchData, rng);
         const wrong = researchData.filter(r => r.term !== data.term).map(r => r.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g7", "research_vocab_g7", `What is a ${data.term}?`, data.definition, wrong, rng));
+        q.push(createMCQ("vocab_g7", "research_vocab_g7", `What is ${art(data.term)} ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -9822,7 +9834,7 @@ export const G7_Generators = {
       for (let i = 0; i < 20; i++) {
         const data = pick(sciData, rng);
         const wrong = sciData.filter(s => s.term !== data.term).map(s => s.definition).slice(0, 3);
-        q.push(createMCQ("vocab_g7", "science_adv_g7", `What is a ${data.term}?`, data.definition, wrong, rng));
+        q.push(createMCQ("vocab_g7", "science_adv_g7", `What is ${art(data.term)} ${data.term}?`, data.definition, wrong, rng));
       }
       return q;
     },
@@ -10726,7 +10738,7 @@ export const G8_Generators = {
         { text: "Elena could not know what her brother was planning that moment.", pov: "third person limited", wrong: ["first person", "second person", "third person omniscient"] },
         { text: "Your choices will determine your future.", pov: "second person", wrong: ["first person", "third person limited", "third person omniscient"] },
         { text: "Marcus dreamed of escape while Maria plotted revenge.", pov: "third person omniscient", wrong: ["first person", "second person", "third person limited"] },
-        { text: "They walked through the garden, unaware of the truth.", pov: "third person limited", wrong: ["first person", "second person", "third person omniscient"] },
+        { text: "They hurried home, hoping no one had noticed.", pov: "third person limited", wrong: ["first person", "second person", "third person omniscient"] },
         { text: "I never understood why she left until years later.", pov: "first person", wrong: ["second person", "third person limited", "third person omniscient"] },
       ];
       for (let i = 0; i < 30; i++) {
@@ -10745,15 +10757,15 @@ export const G8_Generators = {
     genres_g8: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const genreData = [
-        { description: "A story with supernatural creatures like vampires and werewolves.", genre: "horror/fantasy", wrong: ["realistic fiction", "biography", "historical fiction"] },
-        { description: "A text that explains the life of a real person.", genre: "biography", wrong: ["fantasy", "science fiction", "mystery"] },
-        { description: "A story set in the future with advanced technology.", genre: "science fiction", wrong: ["historical fiction", "mystery", "biography"] },
-        { description: "A play written in verse about a hero's downfall.", genre: "tragedy", wrong: ["comedy", "mystery", "memoir"] },
-        { description: "A story where the main character solves a crime.", genre: "mystery", wrong: ["romance", "fantasy", "biography"] },
-        { description: "A personal account of the author's own life.", genre: "memoir/autobiography", wrong: ["biography", "fiction", "fantasy"] },
-        { description: "A story that uses humor and ends happily.", genre: "comedy", wrong: ["tragedy", "horror", "mystery"] },
-        { description: "A story set during a real historical period.", genre: "historical fiction", wrong: ["science fiction", "fantasy", "mystery"] },
+      const genreData: { description: string; genre: string; typingAnswers: string | string[]; wrong: string[] }[] = [
+        { description: "A story with supernatural creatures like vampires and werewolves.", genre: "horror/fantasy", typingAnswers: ["horror", "fantasy", "horror/fantasy"], wrong: ["realistic fiction", "biography", "historical fiction"] },
+        { description: "A text that explains the life of a real person.", genre: "biography", typingAnswers: "biography", wrong: ["fantasy", "science fiction", "mystery"] },
+        { description: "A story set in the future with advanced technology.", genre: "science fiction", typingAnswers: "science fiction", wrong: ["historical fiction", "mystery", "biography"] },
+        { description: "A play written in verse about a hero's downfall.", genre: "tragedy", typingAnswers: "tragedy", wrong: ["comedy", "mystery", "memoir"] },
+        { description: "A story where the main character solves a crime.", genre: "mystery", typingAnswers: "mystery", wrong: ["romance", "fantasy", "biography"] },
+        { description: "A personal account of the author's own life.", genre: "memoir/autobiography", typingAnswers: ["memoir", "autobiography", "memoir/autobiography"], wrong: ["biography", "fiction", "fantasy"] },
+        { description: "A story that uses humor and ends happily.", genre: "comedy", typingAnswers: "comedy", wrong: ["tragedy", "horror", "mystery"] },
+        { description: "A story set during a real historical period.", genre: "historical fiction", typingAnswers: "historical fiction", wrong: ["science fiction", "fantasy", "mystery"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
@@ -10763,7 +10775,7 @@ export const G8_Generators = {
         } else {
           const data = pick(genreData, rng);
           q.push(createTyping("literature_g8", "genres_g8",
-            `Name the genre: "${data.description}"`, data.genre));
+            `Name the genre: "${data.description}"`, data.typingAnswers));
         }
       }
       return q;
