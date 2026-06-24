@@ -122,6 +122,7 @@ jobs:
         env:
           OUT_DIR: out
           GEN_LIMIT: '0'
+          NODE_OPTIONS: --max-old-space-size=16384
         run: npx tsx scripts/generate-poi-html.mts
 
       - name: Force sitemap.xml index into out/
