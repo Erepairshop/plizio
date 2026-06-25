@@ -38,24 +38,24 @@ export function shuffleArr<T>(arr: T[]): T[] {
   return a;
 }
 
-function getQuestionsForGrade(grade: number, subtopicId: string, seed: number): CurriculumQuestion[] {
+function getQuestionsForGrade(grade: number, subtopicId: string, seed: number, lang: Lang = "de"): CurriculumQuestion[] {
   switch (grade) {
-    case 5: return getK5Questions([subtopicId], "de", 50);
-    case 6: return getK6Questions([subtopicId], "de", 50);
-    case 7: return getK7Questions([subtopicId], "de", 50);
-    case 8: return getK8Questions([subtopicId], "de", 50);
+    case 5: return getK5Questions([subtopicId], lang, 50);
+    case 6: return getK6Questions([subtopicId], lang, 50);
+    case 7: return getK7Questions([subtopicId], lang, 50);
+    case 8: return getK8Questions([subtopicId], lang, 50);
     default: return [];
   }
 }
 
-export function generateGeographieIslandQuestions(island: IslandDef, grade: number, count = 10): MathQuestion[] {
+export function generateGeographieIslandQuestions(island: IslandDef, grade: number, count = 10, lang: Lang = "de"): MathQuestion[] {
   const pool: MathQuestion[] = [];
   const seen = new Set<string>();
   const keys = shuffleArr([...island.topicKeys]);
   if (keys.length === 0) return [];
   for (let attempt = 0; attempt < count * 20 && pool.length < count; attempt++) {
     const subtopicId = keys[attempt % keys.length];
-    const questions = getQuestionsForGrade(grade, subtopicId, Math.floor(Math.random() * 1000));
+    const questions = getQuestionsForGrade(grade, subtopicId, Math.floor(Math.random() * 1000), lang);
     const mcqs = questions.filter((q) => q.type === "mcq") as CurriculumMCQ[];
     if (mcqs.length === 0) continue;
     const q = mcqs[Math.floor(Math.random() * mcqs.length)];
@@ -67,14 +67,14 @@ export function generateGeographieIslandQuestions(island: IslandDef, grade: numb
   return pool;
 }
 
-export function generateGeographieCheckpointQuestions(testId: string, checkpointTopics: Record<string, string[]>, grade: number, count = 10): MathQuestion[] {
+export function generateGeographieCheckpointQuestions(testId: string, checkpointTopics: Record<string, string[]>, grade: number, count = 10, lang: Lang = "de"): MathQuestion[] {
   const keys = shuffleArr([...(checkpointTopics[testId] ?? [])]);
   const pool: MathQuestion[] = [];
   const seen = new Set<string>();
   if (keys.length === 0) return [];
   for (let attempt = 0; attempt < count * 20 && pool.length < count; attempt++) {
     const subtopicId = keys[attempt % keys.length];
-    const questions = getQuestionsForGrade(grade, subtopicId, Math.floor(Math.random() * 1000));
+    const questions = getQuestionsForGrade(grade, subtopicId, Math.floor(Math.random() * 1000), lang);
     const mcqs = questions.filter((q) => q.type === "mcq") as CurriculumMCQ[];
     if (mcqs.length === 0) continue;
     const q = mcqs[Math.floor(Math.random() * mcqs.length)];

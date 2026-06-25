@@ -79,5 +79,5 @@ export function isCheckpointDoneK8(p: GeographieProgress, t: string): boolean { 
 export function completeMissionK8(p: GeographieProgress, i: string, m: string, s = 1): GeographieProgress { return completeMission(p, K8_ISLANDS, i, m, s); }
 export function islandTotalStarsK8(p: GeographieProgress, i: string): number { return islandTotalStars(p, K8_ISLANDS, i); }
 export function completeTestK8(p: GeographieProgress, t: string): GeographieProgress { return completeTest(p, t); }
-export function generateIslandQuestionsK8(island: IslandDef, _lang: Lang, count = 10): MathQuestion[] { return generateGeographieIslandQuestions(island, 8, count); }
-export function generateCheckpointQuestionsK8(testId: string, _lang: Lang, count = 10): MathQuestion[] { return generateGeographieCheckpointQuestions(testId, K8_CHECKPOINT_TOPICS, 8, count); }
+export function generateIslandQuestionsK8(island: IslandDef, lang: Lang, count = 10): MathQuestion[] { return generateGeographieIslandQuestions(island, 8, count, lang); }
+export function generateCheckpointQuestionsK8(testId: string, lang: Lang, count = 10): MathQuestion[] { return generateGeographieCheckpointQuestions(testId, K8_CHECKPOINT_TOPICS, 8, count, lang); }

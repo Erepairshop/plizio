@@ -79,5 +79,5 @@ export function isCheckpointDoneK7(p: GeographieProgress, t: string): boolean { 
 export function completeMissionK7(p: GeographieProgress, i: string, m: string, s = 1): GeographieProgress { return completeMission(p, K7_ISLANDS, i, m, s); }
 export function islandTotalStarsK7(p: GeographieProgress, i: string): number { return islandTotalStars(p, K7_ISLANDS, i); }
 export function completeTestK7(p: GeographieProgress, t: string): GeographieProgress { return completeTest(p, t); }
-export function generateIslandQuestionsK7(island: IslandDef, _lang: Lang, count = 10): MathQuestion[] { return generateGeographieIslandQuestions(island, 7, count); }
-export function generateCheckpointQuestionsK7(testId: string, _lang: Lang, count = 10): MathQuestion[] { return generateGeographieCheckpointQuestions(testId, K7_CHECKPOINT_TOPICS, 7, count); }
+export function generateIslandQuestionsK7(island: IslandDef, lang: Lang, count = 10): MathQuestion[] { return generateGeographieIslandQuestions(island, 7, count, lang); }
+export function generateCheckpointQuestionsK7(testId: string, lang: Lang, count = 10): MathQuestion[] { return generateGeographieCheckpointQuestions(testId, K7_CHECKPOINT_TOPICS, 7, count, lang); }
