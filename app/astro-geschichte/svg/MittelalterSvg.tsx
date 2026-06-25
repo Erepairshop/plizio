@@ -65,3 +65,32 @@ export const CrusaderSvg = memo(() => (
     <rect x="85" y="60" width="70" height="20" fill="#dc2626" />
   </svg>
 ));
+
+// ─── CROWN SVG (medieval royal crown) ─────────────────────────────────────
+export const CrownSvg = memo(() => (
+  <svg viewBox="0 0 240 140" className="w-full h-auto max-h-36">
+    <rect width="240" height="140" fill="#fffbeb" rx="12" />
+    <g transform="translate(120, 75)">
+      {/* Crown body with five peaks */}
+      <path
+        d="M -70 30 L -70 -10 L -45 15 L -22.5 -25 L 0 15 L 22.5 -25 L 45 15 L 70 -10 L 70 30 Z"
+        fill="#fbbf24"
+        stroke="#b45309"
+        strokeWidth="3"
+        strokeLinejoin="round"
+      />
+      {/* Jeweled band */}
+      <rect x="-70" y="20" width="140" height="14" fill="#f59e0b" stroke="#b45309" strokeWidth="2" />
+      {/* Peak gems */}
+      <circle cx="-45" cy="-13" r="6" fill="#dc2626" stroke="#991b1b" strokeWidth="1.5" />
+      <circle cx="-22.5" cy="-28" r="6" fill="#2563eb" stroke="#1e3a8a" strokeWidth="1.5" />
+      <circle cx="0" cy="-13" r="6" fill="#16a34a" stroke="#14532d" strokeWidth="1.5" />
+      <circle cx="22.5" cy="-28" r="6" fill="#2563eb" stroke="#1e3a8a" strokeWidth="1.5" />
+      <circle cx="45" cy="-13" r="6" fill="#dc2626" stroke="#991b1b" strokeWidth="1.5" />
+      {/* Band gems */}
+      <circle cx="-40" cy="27" r="4" fill="#dc2626" stroke="#991b1b" strokeWidth="1" />
+      <circle cx="0" cy="27" r="4" fill="#2563eb" stroke="#1e3a8a" strokeWidth="1" />
+      <circle cx="40" cy="27" r="4" fill="#dc2626" stroke="#991b1b" strokeWidth="1" />
+    </g>
+  </svg>
+));
