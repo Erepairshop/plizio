@@ -65,9 +65,37 @@ export default function TimelineSliderView({ rounds, color, lang, mode, onDone, 
     de: "Platziere die Ereignisse auf der Zeitachse!",
     ro: "Plasează evenimentele pe axa timpului!"
    };
-   const taskText = currentRound.taskDescription 
+   const taskText = currentRound.taskDescription
     ? (currentRound.taskDescription[lang as keyof LocalizedText] || currentRound.taskDescription.en)
     : (defaultTasks[lang] || defaultTasks.en);
+
+   const L: Record<string, { select: string; check: string; retry: string; wrong: string }> = {
+     en: { select: "Select position for:", check: "Check Answers", retry: "Try again", wrong: "Not quite — fix the red markers!" },
+     de: { select: "Wähle die Position für:", check: "Antworten prüfen", retry: "Nochmal versuchen", wrong: "Fast! Korrigiere die roten Marker." },
+     hu: { select: "Hová kerüljön:", check: "Ellenőrzés", retry: "Újra", wrong: "Majdnem! Javítsd a piros jelölőket." },
+     ro: { select: "Alege poziția pentru:", check: "Verifică", retry: "Încearcă din nou", wrong: "Aproape! Corectează semnele roșii." },
+   };
+   const t = L[lang] || L.en;
+
+   const clearAnswer = (id: string) => {
+     setAnswers(prev => { const n = { ...prev }; delete n[id]; return n; });
+     setShowErrors(false);
+   };
+   const tryAgain = () => {
+     setAnswers(prev => {
+       const next: Record<string, { x: number; y?: string | number }> = {};
+       currentRound.events.forEach(ev => {
+         const ans = prev[ev.id];
+         if (!ans) return;
+         const tol = (ev.yearTolerancePct || 5) / 100 * (currentRound.axes.x.rangeMax - currentRound.axes.x.rangeMin);
+         const xOk = Math.abs(ans.x - ev.correctX) <= tol;
+         const yOk = !currentRound.axes.y || ans.y === ev.correctY;
+         if (xOk && yOk) next[ev.id] = ans;
+       });
+       return next;
+     });
+     setShowErrors(false);
+   };
 
    const remainingEvents = currentRound.events.filter(e => !answers[e.id]);
    const activeEvent = remainingEvents[0];
@@ -96,7 +124,7 @@ export default function TimelineSliderView({ rounds, color, lang, mode, onDone, 
 
          {activeEvent ? (
             <div className="w-full text-center mb-6">
-               <p className="text-white/70 mb-2 font-bold">Select position for:</p>
+               <p className="text-white/70 mb-2 font-bold">{t.select}</p>
                <motion.div 
                   initial={{ scale: 0.9 }}
                   animate={{ scale: 1 }}
@@ -106,10 +134,20 @@ export default function TimelineSliderView({ rounds, color, lang, mode, onDone, 
                </motion.div>
             </div>
          ) : (
-            <div className="w-full text-center mb-6 h-20 flex items-center justify-center">
-               <button onClick={checkAnswers} className="px-8 py-3 bg-green-500 text-white font-black rounded-xl" style={{ backgroundColor: color }}>
-                  Check Answers
-               </button>
+            <div className="w-full text-center mb-6 flex flex-col items-center justify-center gap-3">
+               {showErrors && (
+                  <p className="text-red-300 font-bold text-sm">{t.wrong}</p>
+               )}
+               <div className="flex gap-3">
+                  {showErrors && (
+                     <button onClick={tryAgain} className="px-6 py-3 bg-white/15 text-white font-black rounded-xl border-2 border-white/25">
+                        {t.retry}
+                     </button>
+                  )}
+                  <button onClick={checkAnswers} className="px-8 py-3 bg-green-500 text-white font-black rounded-xl" style={{ backgroundColor: color }}>
+                     {t.check}
+                  </button>
+               </div>
             </div>
          )}
 
@@ -153,7 +191,7 @@ export default function TimelineSliderView({ rounds, color, lang, mode, onDone, 
                   const ev = currentRound.events.find(e => e.id === id)!;
                   const isWrong = showErrors && (Math.abs(ans.x - ev.correctX) > ((ev.yearTolerancePct||5)/100*(currentRound.axes.x.rangeMax-currentRound.axes.x.rangeMin)));
                   return (
-                     <div key={id} className="absolute w-4 h-8 bg-white rounded-full -ml-2 z-10 flex flex-col items-center group" style={{ left: `${pct}%`, background: isWrong ? 'red' : 'white' }}>
+                     <div key={id} onClick={() => clearAnswer(id)} className="absolute w-4 h-8 bg-white rounded-full -ml-2 z-10 flex flex-col items-center group cursor-pointer" style={{ left: `${pct}%`, background: isWrong ? 'red' : 'white' }}>
                         <div className="absolute top-10 opacity-0 group-hover:opacity-100 bg-black p-2 rounded text-xs whitespace-nowrap z-30">
                            {ev.title[lang as keyof LocalizedText] || ev.title.en} ({ans.x})
                         </div>

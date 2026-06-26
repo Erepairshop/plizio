@@ -13,7 +13,7 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t3_bl1: "Sicher", t3_bl2: "Risiko", t3_i1: "Not-Aus", t3_i2: "Hacken", t3_i3: "Tests", t3_i4: "Fehlfunktion",
     t4_title: "Privatsphäre", t4_text: "KI nutzt oft persönliche Daten. Der Schutz dieser Daten ist ein Grundrecht.", t4_inst: "Bringe die Wörter in Ordnung:", t4_h1: "Meine Daten.", t4_h2: "Datenschutz.", t4_q: "Was schützt die Privatsphäre?", t4_qa: "Datenschutzregeln", t4_qb: "Ein Monitor", t4_qc: "Eine Tastatur", t4_qd: "Ein USB-Stick",
     t4_w1: "Datenschutz", t4_w2: "ist", t4_w3: "auch", t4_w4: "bei", t4_w5: "KI-Systemen", t4_w6: "sehr", t4_w7: "wichtig.",
-    t5_title: "Zukunft: AGI", t5_text: "AGI (Artificial General Intelligence) wäre eine KI, die alles kann, was ein Mensch kann.", t5_inst: "Markiere das richtige Wort:", t5_h1: "Super-KI.", t5_h2: "Alleskönner.", t5_q: "Was bedeutet AGI?", t5_qa: "Allgemeine Intelligenz", t5_qb: "Alte Grafik", t5_qc: "Anderes Gerät", t5_qd: "Auto-Gas",
+    t5_title: "Zukunft: AGI", t5_text: "AGI (Artificial General Intelligence) wäre eine KI, die alles kann, was ein Mensch kann.", t5_inst: "Markiere die KI, die es noch nicht gibt:", t5_h1: "Super-KI.", t5_h2: "Alleskönner.", t5_q: "Was bedeutet AGI?", t5_qa: "Allgemeine Intelligenz", t5_qb: "Alte Grafik", t5_qc: "Anderes Gerät", t5_qd: "Auto-Gas",
     t5_tk1: "AGI", t5_tk2: "existiert", t5_tk3: "heute", t5_tk4: "noch", t5_tk5: "nicht", t5_tk6: "wirklich.",
     t6_title: "Mensch-KI Team", t6_text: "Die beste Leistung entsteht oft, wenn Mensch und KI zusammenarbeiten.", t6_inst: "Ordne die Paare zu:", t6_h1: "Zusammenarbeit.", t6_h2: "Teamwork.", t6_q: "Wer profitiert von Teamwork?", t6_qa: "Beide Seiten", t6_qb: "Nur der Mensch", t6_qc: "Nur die Maschine", t6_qd: "Niemand",
     t6_l1: "Mensch", t6_r1: "Kreativität", t6_l2: "KI", t6_r2: "Rechenkraft", t6_l3: "Team", t6_r3: "Erfolg",
@@ -23,7 +23,7 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t8_bl1: "Frage", t8_bl2: "Antwort", t8_i1: "Prompt", t8_i2: "Generierung", t8_i3: "Nutzer", t8_i4: "Modell",
     t9_title: "Prompt Engineering", t9_text: "Die Kunst, der KI genau die richtigen Befehle zu geben.", t9_inst: "Bringe die Wörter in Ordnung:", t9_h1: "Gute Fragen.", t9_h2: "Besserer Output.", t9_q: "Was ist ein Prompt?", t9_qa: "Ein Befehl an die KI", t9_qb: "Ein Monitor", t9_qc: "Ein Drucker", t9_qd: "Ein Stromkabel",
     t9_w1: "Ein", t9_w2: "guter", t9_w3: "Prompt", t9_w4: "führt", t9_w5: "zu", t9_w6: "besseren", t9_w7: "Ergebnissen.",
-    t10_title: "Verantwortung", t10_text: "Wer ist schuld, wenn eine KI einen Fehler macht? Eine wichtige rechtliche Frage.", t10_inst: "Markiere das richtige Wort:", t10_h1: "Schuldfrage.", t10_h2: "Recht.", t10_q: "Was ist bei KI-Fehlern oft unklar?", t10_qa: "Haftung", t10_qb: "Die Farbe", t10_qc: "Die Geschwindigkeit", t10_qd: "Der Name",
+    t10_title: "Verantwortung", t10_text: "Wer ist schuld, wenn eine KI einen Fehler macht? Eine wichtige rechtliche Frage.", t10_inst: "Markiere, was bei KI-Entscheidungen jemand tragen muss:", t10_h1: "Schuldfrage.", t10_h2: "Recht.", t10_q: "Was ist bei KI-Fehlern oft unklar?", t10_qa: "Haftung", t10_qb: "Die Farbe", t10_qc: "Die Geschwindigkeit", t10_qd: "Der Name",
     t10_tk1: "Wer", t10_tk2: "trägt", t10_tk3: "die", t10_tk4: "Verantwortung", t10_tk5: "für", t10_tk6: "KI-Entscheidungen?",
     t11_title: "Nachhaltigkeit", t11_text: "Das Training von KI verbraucht viel Strom und Wasser zur Kühlung.", t11_inst: "Ordne die Paare zu:", t11_h1: "Umwelt.", t11_h2: "Energie.", t11_q: "Was braucht KI-Training viel?", t11_qa: "Energie", t11_qb: "Gute Laune", t11_qc: "Papier", t11_qd: "Bäume",
     t11_l1: "Rechenzentrum", t11_r1: "Kühlung", t11_l2: "Training", t11_r2: "Stromverbrauch", t11_l3: "Öko-KI", t11_r3: "Effizienz",
@@ -33,7 +33,7 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t13_bl1: "Menschlich", t13_bl2: "Super-KI", t13_i1: "Biologie", t13_i2: "Unendlichkeit", t13_i3: "Grenzen", t13_i4: "Selbstverbesserung",
     t14_title: "KI in der Schule", t14_text: "KI kann beim Lernen helfen, sollte aber nicht das Denken ersetzen.", t14_inst: "Bringe die Wörter in Ordnung:", t14_h1: "Lernhelfer.", t14_h2: "Selbst denken.", t14_q: "Wie nutzt man KI in der Schule am besten?", t14_qa: "Als Unterstützung", t14_qb: "Zum Abschreiben", t14_qc: "Gar nicht", t14_qd: "Um zu schlafen",
     t14_w1: "KI", t14_w2: "sollte", t14_w3: "unsere", t14_w4: "eigene", t14_w5: "Intelligenz", t14_w6: "nur", t14_w7: "ergänzen.",
-    t15_title: "Ethisches Design", t15_text: "KI von Anfang an so bauen, dass sie Werten wie Fairness entspricht.", t15_inst: "Markiere das richtige Wort:", t15_h1: "Werte einbauen.", t15_h2: "Planung.", t15_q: "Was bedeutet 'Ethik by Design'?", t15_qa: "Ethik von Beginn an", t15_qb: "Ethik erst am Ende", t15_qc: "Gar keine Ethik", t15_qd: "Nur Design",
+    t15_title: "Ethisches Design", t15_text: "KI von Anfang an so bauen, dass sie Werten wie Fairness entspricht.", t15_inst: "Markiere die Wörter für gutes, ethisches Design:", t15_h1: "Werte einbauen.", t15_h2: "Planung.", t15_q: "Was bedeutet 'Ethik by Design'?", t15_qa: "Ethik von Beginn an", t15_qb: "Ethik erst am Ende", t15_qc: "Gar keine Ethik", t15_qd: "Nur Design",
     t15_tk1: "Gute", t15_tk2: "KI", t15_tk3: "beginnt", t15_tk4: "mit", t15_tk5: "ethischem", t15_tk6: "Design.", t15_tk7: ""
   },
   en: {
@@ -46,7 +46,7 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t3_bl1: "Safe", t3_bl2: "Risk", t3_i1: "Emergency stop", t3_i2: "Hacking", t3_i3: "Testing", t3_i4: "Malfunction",
     t4_title: "Privacy", t4_text: "AI often uses personal data. Protecting this data is a fundamental right.", t4_inst: "Put the words in order:", t4_h1: "My data.", t4_h2: "Data protection.", t4_q: "What protects privacy?", t4_qa: "Data protection rules", t4_qb: "A monitor", t4_qc: "A keyboard", t4_qd: "A USB stick",
     t4_w1: "Data", t4_w2: "protection", t4_w3: "is", t4_w4: "also", t4_w5: "very", t4_w6: "important", t4_w7: "for AI.",
-    t5_title: "Future: AGI", t5_text: "AGI (Artificial General Intelligence) would be an AI that can do everything a human can.", t5_inst: "Highlight the correct word:", t5_h1: "Super AI.", t5_h2: "All-rounder.", t5_q: "What does AGI stand for?", t5_qa: "General Intelligence", t5_qb: "Ancient Graphics", t5_qc: "Another Gadget", t5_qd: "Auto Gas",
+    t5_title: "Future: AGI", t5_text: "AGI (Artificial General Intelligence) would be an AI that can do everything a human can.", t5_inst: "Highlight the AI that does not exist yet:", t5_h1: "Super AI.", t5_h2: "All-rounder.", t5_q: "What does AGI stand for?", t5_qa: "General Intelligence", t5_qb: "Ancient Graphics", t5_qc: "Another Gadget", t5_qd: "Auto Gas",
     t5_tk1: "AGI", t5_tk2: "does", t5_tk3: "not", t5_tk4: "really", t5_tk5: "exist", t5_tk6: "yet.",
     t6_title: "Human-AI Team", t6_text: "The best performance often occurs when humans and AI work together.", t6_inst: "Match the pairs:", t6_h1: "Collaboration.", t6_h2: "Teamwork.", t6_q: "Who benefits from teamwork?", t6_qa: "Both sides", t6_qb: "Only humans", t6_qc: "Only the machine", t6_qd: "Nobody",
     t6_l1: "Human", t6_r1: "Creativity", t6_l2: "AI", t6_r2: "Calculation", t6_l3: "Team", t6_r3: "Success",
@@ -56,8 +56,8 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t8_bl1: "Question", t8_bl2: "Answer", t8_i1: "Prompt", t8_i2: "Generation", t8_i3: "User", t8_i4: "Model",
     t9_title: "Prompt Engineering", t9_text: "The art of giving AI exactly the right commands.", t9_inst: "Put the words in order:", t9_h1: "Good questions.", t9_h2: "Better output.", t9_q: "What is a prompt?", t9_qa: "A command to the AI", t9_qb: "A monitor", t9_qc: "A printer", t9_qd: "A power cable",
     t9_w1: "A", t9_w2: "good", t9_w3: "prompt", t9_w4: "leads", t9_w5: "to", t9_w6: "better", t9_w7: "results.",
-    t10_title: "Responsibility", t10_text: "Who is at fault if an AI makes a mistake? An important legal question.", t10_inst: "Highlight the correct word:", t10_h1: "Question of fault.", t10_h2: "Law.", t10_q: "What is often unclear with AI errors?", t10_qa: "Liability", t10_qb: "The color", t10_qc: "The speed", t10_qd: "The name",
-    t10_tk1: "Who", t10_tk2: "bears", t10_tk3: "responsibility", t10_tk4: "for", t10_tk5: "AI", t10_tk6: "decisions?",
+    t10_title: "Responsibility", t10_text: "Who is at fault if an AI makes a mistake? An important legal question.", t10_inst: "Highlight what someone must bear for AI decisions:", t10_h1: "Question of fault.", t10_h2: "Law.", t10_q: "What is often unclear with AI errors?", t10_qa: "Liability", t10_qb: "The color", t10_qc: "The speed", t10_qd: "The name",
+    t10_tk1: "Who", t10_tk2: "must", t10_tk3: "bear", t10_tk4: "responsibility", t10_tk5: "for", t10_tk6: "AI?",
     t11_title: "Sustainability", t11_text: "Training AI consumes a lot of electricity and water for cooling.", t11_inst: "Match the pairs:", t11_h1: "Environment.", t11_h2: "Energy.", t11_q: "What does AI training need a lot of?", t11_qa: "Energy", t11_qb: "Good mood", t11_qc: "Paper", t11_qd: "Trees",
     t11_l1: "Data center", t11_r1: "Cooling", t11_l2: "Training", t11_r2: "Power consumption", t11_l3: "Eco AI", t11_r3: "Efficiency",
     t12_title: "AI Laws", t12_text: "Governments create laws (like the EU AI Act) to regulate AI.", t12_inst: "Fill in the blank:", t12_h1: "State rules.", t12_h2: "Safety.", t12_q: "Which law regulates AI in Europe?", t12_qa: "EU AI Act", t12_qb: "Traffic law", t12_qc: "Math book", t12_qd: "Dictionary",
@@ -66,7 +66,7 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t13_bl1: "Human", t13_bl2: "Super AI", t13_i1: "Biology", t13_i2: "Infinity", t13_i3: "Limits", t13_i4: "Self-improvement",
     t14_title: "AI in Education", t14_text: "AI can help with learning but should not replace thinking.", t14_inst: "Put the words in order:", t14_h1: "Learning helper.", t14_h2: "Think for yourself.", t14_q: "How best to use AI in school?", t14_qa: "As support", t14_qb: "To cheat", t14_qc: "Not at all", t14_qd: "To sleep",
     t14_w1: "AI", t14_w2: "should", t14_w3: "only", t14_w4: "complement", t14_w5: "our", t14_w6: "own", t14_w7: "intelligence.",
-    t15_title: "Ethical Design", t15_text: "Building AI from the start to conform to values such as fairness.", t15_inst: "Highlight the correct word:", t15_h1: "Building in values.", t15_h2: "Planning.", t15_q: "What does 'Ethics by Design' mean?", t15_qa: "Ethics from the start", t15_qb: "Ethics only at the end", t15_qc: "No ethics at all", t15_qd: "Only design",
+    t15_title: "Ethical Design", t15_text: "Building AI from the start to conform to values such as fairness.", t15_inst: "Highlight the words for good, ethical design:", t15_h1: "Building in values.", t15_h2: "Planning.", t15_q: "What does 'Ethics by Design' mean?", t15_qa: "Ethics from the start", t15_qb: "Ethics only at the end", t15_qc: "No ethics at all", t15_qd: "Only design",
     t15_tk1: "Good", t15_tk2: "AI", t15_tk3: "starts", t15_tk4: "with", t15_tk5: "ethical", t15_tk6: "design.", t15_tk7: ""
   },
   hu: {
@@ -79,8 +79,8 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t3_bl1: "Biztonságos", t3_bl2: "Kockázat", t3_i1: "Vészleállító", t3_i2: "Hackelés", t3_i3: "Tesztelés", t3_i4: "Hiba",
     t4_title: "Adatvédelem", t4_text: "Az MI gyakran személyes adatokat használ. Ezek védelme alapvető jog.", t4_inst: "Tedd sorrendbe a szavakat:", t4_h1: "Az én adataim.", t4_h2: "Védelem.", t4_q: "Mi védi a magánszférát?", t4_qa: "Adatvédelmi szabályok", t4_qb: "Monitor", t4_qc: "Billentyűzet", t4_qd: "USB-kulcs",
     t4_w1: "Az", t4_w2: "adatvédelem", t4_w3: "nagyon", t4_w4: "fontos", t4_w5: "az", t4_w6: "MI", t4_w7: "esetében is.",
-    t5_title: "Jövő: AGI", t5_text: "Az AGI egy olyan MI lenne, ami mindenre képes, amire egy ember.", t5_inst: "Jelöld meg a helyes szót:", t5_h1: "Szuper-MI.", t5_h2: "Mindenes.", t5_q: "Mit jelent az AGI?", t5_qa: "Általános intelligencia", t5_qb: "Régi grafika", t5_qc: "Másik eszköz", t5_qd: "Autó-gáz",
-    t5_tk1: "Az AGI", t5_tk2: "ma", t5_tk3: "még", t5_tk4: "nem", t5_tk5: "valóban", t5_tk6: "létezik.",
+    t5_title: "Jövő: AGI", t5_text: "Az AGI egy olyan MI lenne, ami mindenre képes, amire egy ember.", t5_inst: "Jelöld meg azt az MI-t, ami még nem létezik:", t5_h1: "Szuper-MI.", t5_h2: "Mindenes.", t5_q: "Mit jelent az AGI?", t5_qa: "Általános intelligencia", t5_qb: "Régi grafika", t5_qc: "Másik eszköz", t5_qd: "Autó-gáz",
+    t5_tk1: "AGI", t5_tk2: "ma", t5_tk3: "még", t5_tk4: "nem", t5_tk5: "valóban", t5_tk6: "létezik.",
     t6_title: "Ember-MI csapat", t6_text: "A legjobb teljesítmény gyakran akkor születik, ha ember és MI együttműködik.", t6_inst: "Párosítsd össze:", t6_h1: "Együttműködés.", t6_h2: "Csapatmunka.", t6_q: "Ki profitál a csapatmunkából?", t6_qa: "Mindkét oldal", t6_qb: "Csak az ember", t6_qc: "Csak a gép", t6_qd: "Senki",
     t6_l1: "Ember", t6_r1: "Kreativitás", t6_l2: "MI", t6_r2: "Számítás", t6_l3: "Csapat", t6_r3: "Siker",
     t7_title: "Generatív MI", t7_text: "Olyan MI, ami új tartalmakat, például szöveget, képet vagy zenét hoz létre.", t7_inst: "Töltsd ki a hiányt:", t7_h1: "Létrehozás.", t7_h2: "Új dolgok.", t7_q: "Mire képes a generatív MI?", t7_qa: "Tartalomalkotás", t7_qb: "Adattörlés", t7_qc: "Hardverépítés", t7_qd: "Kábelhúzás",
@@ -89,7 +89,7 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t8_bl1: "Kérdés", t8_bl2: "Válasz", t8_i1: "Prompt", t8_i2: "Generálás", t8_i3: "Felhasználó", t8_i4: "Modell",
     t9_title: "Prompt Engineering", t9_text: "A művészet, hogy pontosan a megfelelő utasításokat adjuk az MI-nek.", t9_inst: "Tedd sorrendbe a szavakat:", t9_h1: "Jó kérdések.", t9_h2: "Jobb válaszok.", t9_q: "Mi az a prompt?", t9_qa: "Utasítás az MI-nek", t9_qb: "Monitor", t9_qc: "Nyomtató", t9_qd: "Kábel",
     t9_w1: "A jó", t9_w2: "prompt", t9_w3: "jobb", t9_w4: "eredményekhez", t9_w5: "vezet", t9_w6: "az", t9_w7: "MI-nél.",
-    t10_title: "Felelősség", t10_text: "Ki a hibás, ha az MI hibázik? Ez egy fontos jogi kérdés.", t10_inst: "Jelöld meg a helyes szót:", t10_h1: "Ki a hibás?", t10_h2: "Jog.", t10_q: "Mi gyakran tisztázatlan az MI hibáinál?", t10_qa: "Felelősség", t10_qb: "Szín", t10_qc: "Sebesség", t10_qd: "Név",
+    t10_title: "Felelősség", t10_text: "Ki a hibás, ha az MI hibázik? Ez egy fontos jogi kérdés.", t10_inst: "Jelöld meg, mit kell viselnie valakinek az MI döntéseiért:", t10_h1: "Ki a hibás?", t10_h2: "Jog.", t10_q: "Mi gyakran tisztázatlan az MI hibáinál?", t10_qa: "Felelősség", t10_qb: "Szín", t10_qc: "Sebesség", t10_qd: "Név",
     t10_tk1: "Ki", t10_tk2: "vállalja", t10_tk3: "a", t10_tk4: "felelősséget", t10_tk5: "az", t10_tk6: "MI", t10_tk7: "döntéseiért?",
     t11_title: "Fenntarthatóság", t11_text: "Az MI tanítása sok áramot és hűtővizet fogyaszt.", t11_inst: "Párosítsd össze:", t11_h1: "Környezet.", t11_h2: "Energia.", t11_q: "Miből fogyaszt sokat az MI?", t11_qa: "Energia", t11_qb: "Jókedv", t11_qc: "Papír", t11_qd: "Fa",
     t11_l1: "Adatközpont", t11_r1: "Hűtés", t11_l2: "Tanítás", t11_r2: "Áramfogyasztás", t11_l3: "Öko-MI", t11_r3: "Hatékonyság",
@@ -99,8 +99,8 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t13_bl1: "Emberi", t13_bl2: "Szuper-MI", t13_i1: "Biológia", t13_i2: "Végtelenség", t13_i3: "Határok", t13_i4: "Önfejlesztés",
     t14_title: "MI az iskolában", t14_text: "Az MI segíthet a tanulásban, de ne helyettesítse a gondolkodást.", t14_inst: "Tedd sorrendbe a szavakat:", t14_h1: "Segítőtárs.", t14_h2: "Gondolkodj te is.", t14_q: "Hogyan legjobb használni az MI-t az iskolában?", t14_qa: "Segítségként", t14_qb: "Másoláshoz", t14_qc: "Sehogy", t14_qd: "Alváshoz",
     t14_w1: "Az MI", t14_w2: "csak", t14_w3: "kiegészíteni", t14_w4: "hivatott", t14_w5: "a", t14_w6: "saját", t14_w7: "tudásunkat.",
-    t15_title: "Etikus tervezés", t15_text: "Az MI-t már az elejétől fogva úgy kell építeni, hogy igazságos legyen.", t15_inst: "Jelöld meg a helyes szót:", t15_h1: "Értékek beépítése.", t15_h2: "Tervezés.", t15_q: "Mit jelent az 'Ethics by Design'?", t15_qa: "Etika a kezdetektől", t15_qb: "Etika csak a végén", t15_qc: "Nincs etika", t15_qd: "Csak dizájn",
-    t15_tk1: "A jó", t15_tk2: "MI", t15_tk3: "az", t15_tk4: "etikus", t15_tk5: "tervezéssel", t15_tk6: "kezdődik.", t15_tk7: ""
+    t15_title: "Etikus tervezés", t15_text: "Az MI-t már az elejétől fogva úgy kell építeni, hogy igazságos legyen.", t15_inst: "Jelöld meg a jó, etikus tervezés szavait:", t15_h1: "Értékek beépítése.", t15_h2: "Tervezés.", t15_q: "Mit jelent az 'Ethics by Design'?", t15_qa: "Etika a kezdetektől", t15_qb: "Etika csak a végén", t15_qc: "Nincs etika", t15_qd: "Csak dizájn",
+    t15_tk1: "A jó MI-nek", t15_tk2: "mindig", t15_tk3: "van", t15_tk4: "egy", t15_tk5: "etikus", t15_tk6: "tervezése.", t15_tk7: ""
   },
   ro: {
     explorer_title: "Insula AI 6: Etică și viitor",
@@ -112,7 +112,7 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t3_bl1: "Sigur", t3_bl2: "Risc", t3_i1: "Oprire urgență", t3_i2: "Hacking", t3_i3: "Testare", t3_i4: "Defecțiune",
     t4_title: "Confidențialitate", t4_text: "AI folosește adesea date personale. Protejarea acestora este un drept fundamental.", t4_inst: "Pune cuvintele în ordine:", t4_h1: "Datele mele.", t4_h2: "Protecție.", t4_q: "Ce protejează confidențialitatea?", t4_qa: "Regulile de protecție a datelor", t4_qb: "Un monitor", t4_qc: "O tastatură", t4_qd: "Un stick USB",
     t4_w1: "Protecția", t4_w2: "datelor", t4_w3: "este", t4_w4: "foarte", t4_w5: "importantă", t4_w6: "și", t4_w7: "pentru AI.",
-    t5_title: "Viitor: AGI", t5_text: "AGI ar fi o inteligență artificială care poate face tot ce face un om.", t5_inst: "Evidențiază cuvântul corect:", t5_h1: "Super AI.", t5_h2: "Polivalent.", t5_q: "Ce înseamnă AGI?", t5_qa: "Inteligență Generală", t5_qb: "Grafică Veche", t5_qc: "Alt Gadget", t5_qd: "Gaz Auto",
+    t5_title: "Viitor: AGI", t5_text: "AGI ar fi o inteligență artificială care poate face tot ce face un om.", t5_inst: "Evidențiază AI-ul care nu există încă:", t5_h1: "Super AI.", t5_h2: "Polivalent.", t5_q: "Ce înseamnă AGI?", t5_qa: "Inteligență Generală", t5_qb: "Grafică Veche", t5_qc: "Alt Gadget", t5_qd: "Gaz Auto",
     t5_tk1: "AGI", t5_tk2: "nu", t5_tk3: "există", t5_tk4: "cu", t5_tk5: "adevărat", t5_tk6: "încă.",
     t6_title: "Echipa Om-AI", t6_text: "Cea mai bună performanță apare adesea când oamenii și AI lucrează împreună.", t6_inst: "Potrivește perechile:", t6_h1: "Colaborare.", t6_h2: "Muncă în echipă.", t6_q: "Cine beneficiază de munca în echipă?", t6_qa: "Ambele părți", t6_qb: "Doar oamenii", t6_qc: "Doar mașina", t6_qd: "Nimeni",
     t6_l1: "Om", t6_r1: "Creativitate", t6_l2: "AI", t6_r2: "Calcul", t6_l3: "Echipă", t6_r3: "Succes",
@@ -122,8 +122,8 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t8_bl1: "Întrebare", t8_bl2: "Răspuns", t8_i1: "Prompt", t8_i2: "Generare", t8_i3: "Utilizator", t8_i4: "Model",
     t9_title: "Prompt Engineering", t9_text: "Arta de a da AI comenzile exact corecte.", t9_inst: "Pune cuvintele în ordine:", t9_h1: "Întrebări bune.", t9_h2: "Rezultate mai bune.", t9_q: "Ce este un prompt?", t9_qa: "O comandă pentru AI", t9_qb: "Un monitor", t9_qc: "O imprimantă", t9_qd: "Un cablu",
     t9_w1: "Un", t9_w2: "prompt", t9_w3: "bun", t9_w4: "duce", t9_w5: "la", t9_w6: "rezultate", t9_w7: "mai bune.",
-    t10_title: "Responsabilitate", t10_text: "Cine este vinovat dacă un AI greșește? O întrebare juridică importantă.", t10_inst: "Evidențiază cuvântul corect:", t10_h1: "Vinovăție.", t10_h2: "Lege.", t10_q: "Ce este adesea neclar la erorile AI?", t10_qa: "Răspunderea", t10_qb: "Culoarea", t10_qc: "Viteza", t10_qd: "Numele",
-    t10_tk1: "Cine", t10_tk2: "poartă", t10_tk3: "responsabilitatea", t10_tk4: "pentru", t10_tk5: "deciziile", t10_tk6: "AI?",
+    t10_title: "Responsabilitate", t10_text: "Cine este vinovat dacă un AI greșește? O întrebare juridică importantă.", t10_inst: "Evidențiază ce trebuie să-și asume cineva pentru AI:", t10_h1: "Vinovăție.", t10_h2: "Lege.", t10_q: "Ce este adesea neclar la erorile AI?", t10_qa: "Răspunderea", t10_qb: "Culoarea", t10_qc: "Viteza", t10_qd: "Numele",
+    t10_tk1: "Cine", t10_tk2: "își", t10_tk3: "asumă", t10_tk4: "responsabilitatea", t10_tk5: "pentru", t10_tk6: "AI?",
     t11_title: "Sustenabilitate", t11_text: "Antrenarea AI consumă mult curent și apă pentru răcire.", t11_inst: "Potrivește perechile:", t11_h1: "Mediu.", t11_h2: "Energie.", t11_q: "De ce are nevoie mult antrenarea AI?", t11_qa: "Energie", t11_qb: "Bună dispoziție", t11_qc: "Hârtie", t11_qd: "Copaci",
     t11_l1: "Centru date", t11_r1: "Răcire", t11_l2: "Antrenare", t11_r2: "Consum curent", t11_l3: "Eco AI", t11_r3: "Eficiență",
     t12_title: "Legi AI", t12_text: "Guvernele creează legi (ca EU AI Act) pentru a reglementa AI.", t12_inst: "Completează spațiul liber:", t12_h1: "Reguli stat.", t12_h2: "Siguranță.", t12_q: "Ce lege reglementează AI în Europa?", t12_qa: "EU AI Act", t12_qb: "Cod rutier", t12_qc: "Carte mate", t12_qd: "Dicționar",
@@ -132,8 +132,8 @@ export const INFO_K6_I6_LABELS: Record<string, Record<string, string>> = {
     t13_bl1: "Uman", t13_bl2: "Super AI", t13_i1: "Biologie", t13_i2: "Infinit", t13_i3: "Limite", t13_i4: "Auto-îmbunătățire",
     t14_title: "AI la școală", t14_text: "AI poate ajuta la învățare, dar nu ar trebui să înlocuiască gândirea.", t14_inst: "Pune cuvintele în ordine:", t14_h1: "Ajutor învățare.", t14_h2: "Gândește singur.", t14_q: "Cum e cel mai bine să folosești AI la școală?", t14_qa: "Ca suport", t14_qb: "Pentru a copia", t14_qc: "Deloc", t14_qd: "Pentru a dormi",
     t14_w1: "AI", t14_w2: "ar", t14_w3: "trebui", t14_w4: "doar", t14_w5: "să", t14_w6: "completeze", t14_w7: "inteligența noastră.",
-    t15_title: "Design etic", t15_text: "Construirea AI de la început pentru a respecta valori ca echitatea.", t15_inst: "Evidențiază cuvântul corect:", t15_h1: "Valori integrate.", t15_h2: "Planificare.", t15_q: "Ce înseamnă 'Ethics by Design'?", t15_qa: "Etică de la început", t15_qb: "Etică doar la final", t15_qc: "Fără etică", t15_qd: "Doar design",
-    t15_tk1: "Un", t15_tk2: "AI", t15_tk3: "bun", t15_tk4: "începe", t15_tk5: "cu", t15_tk6: "designul", t15_tk7: "etic."
+    t15_title: "Design etic", t15_text: "Construirea AI de la început pentru a respecta valori ca echitatea.", t15_inst: "Evidențiază cuvintele pentru un design bun și etic:", t15_h1: "Valori integrate.", t15_h2: "Planificare.", t15_q: "Ce înseamnă 'Ethics by Design'?", t15_qa: "Etică de la început", t15_qb: "Etică doar la final", t15_qc: "Fără etică", t15_qd: "Doar design",
+    t15_tk1: "Un AI bun", t15_tk2: "are", t15_tk3: "mereu", t15_tk4: "un", t15_tk5: "design", t15_tk6: "etic.", t15_tk7: ""
   }
 };
 
