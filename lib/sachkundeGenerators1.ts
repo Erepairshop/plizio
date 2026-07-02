@@ -322,8 +322,10 @@ export function generateSinnesorgane(seed?: number): CurriculumMCQ[] {
       const data = pick(SENSES, rng);
       const correct = data.sensation;
       const wrong = SENSES.filter(s => s.sense !== data.sense).map(s => s.sensation).slice(0, 3);
+      const artLower = SENSE_ARTICLE[data.sense] || "das";
+      const artCap = artLower.charAt(0).toUpperCase() + artLower.slice(1);
       q.push(createMCQ("sachkunde", "sinnesorgane",
-        `Das ${data.sense} ist zum ${data.ability}. Was nimmt man damit wahr?`, correct, wrong, rng));
+        `${artCap} ${data.sense} ist zum ${data.ability}. Was nimmt man damit wahr?`, correct, wrong, rng));
     } else if (type === 1) {
       // Welcher Sinn für diese Empfindung?
       const sensations = ["Wärme fühlen", "süß schmecken", "Musik hören", "Blumen riechen"];

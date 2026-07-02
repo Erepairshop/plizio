@@ -512,9 +512,11 @@ export function generateLebensräume(seed?: number): CurriculumMCQ[] {
         HABITATS.filter(h => h.habitat !== habitat.habitat).map(h => h.animals), rng));
     } else if (type === 1) {
       const habitat = pick(HABITATS, rng);
+      const climatePool = ["gemäßigt", "variabel", "kalt", "tropisch", "trocken"];
+      const climateWrong = climatePool.filter(c => c !== habitat.climate).slice(0, 3);
       q.push(createMCQ("sachkunde", "lebensräume",
-        `Welcher Lebensraum ist ${habitat.habitat}?`, `ein Ort mit ${habitat.climate}en Bedingungen`,
-        ["eine Schule", "ein Auto", "ein Spielzeug"], rng));
+        `Welches Klima hat der Lebensraum ${habitat.habitat}?`, habitat.climate,
+        climateWrong, rng));
     } else if (type === 2) {
       q.push(createMCQ("sachkunde", "lebensräume",
         `Wo finden Fische ihren Lebensraum?`, "im Wasser (Fluss oder See)",
@@ -1200,12 +1202,15 @@ export function generateSchwimmenSinken(seed?: number): CurriculumMCQ[] {
           : ["es schwimmt", "es fliegt", "es bleibt oben"],
         rng));
     } else if (type === 1) {
-      // Why does it float/sink?
+      // Why does it float/sink? (einheitliches Dichte-Prinzip, eindeutige Distraktoren)
       const item = pick(FLOATING_SINKING, rng);
+      const floats = item.behavior === "schwimmt";
       q.push(createMCQ("sachkunde", "schwimmen_sinken",
-        `Warum ${item.behavior === "schwimmt" ? "schwimmt" : "sinkt"} ein ${item.object}?`,
-        item.reason,
-        FLOATING_SINKING.filter(f => f.object !== item.object).map(f => f.reason),
+        `Warum ${floats ? "schwimmt" : "sinkt"} ein ${item.object}?`,
+        floats ? "es ist leichter als Wasser" : "es ist schwerer als Wasser",
+        floats
+          ? ["es ist schwerer als Wasser", "es ist aus Metall", "es hat keine Luft"]
+          : ["es ist leichter als Wasser", "es ist aus Holz", "es enthält viel Luft"],
         rng));
     } else if (type === 2) {
       // Which object floats?

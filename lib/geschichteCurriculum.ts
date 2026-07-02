@@ -143,9 +143,13 @@ export function getGeschichteQuestions(
   const cc = (countryCode || "").toLowerCase();
   const hasCountrySpecific = cc === "us" || cc === "gb" || cc === "uk" || cc === "hu" || cc === "ro";
 
+  // Prefix that country-specific subtopic IDs actually use for the selected country.
+  // GB data uses the "uk_" prefix; the rest use their own country code.
+  const ccPrefix = cc === "gb" || cc === "uk" ? "uk_" : `${cc}_`;
+
   for (const id of subtopicIds) {
-    // If user selected a supported country AND subtopic ID is a country-specific one, use country data
-    if (hasCountrySpecific && id.startsWith(cc === "uk" ? "gb_" : `${cc}_`) || (hasCountrySpecific && /^(us|gb|uk|hu|ro)_/.test(id))) {
+    // If user selected a supported country AND the subtopic ID belongs to THAT country, use country data.
+    if (hasCountrySpecific && id.startsWith(ccPrefix)) {
       const qs = getCountryQuestions(cc, grade, id, 35);
       if (qs.length > 0) { pool.push(...qs); continue; }
     }

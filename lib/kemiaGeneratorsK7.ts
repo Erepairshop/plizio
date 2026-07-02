@@ -101,6 +101,8 @@ const ATOMIC_STRUCTURE: ConceptCard[] = [
   card("Neutron", "Ein ungeladenes Teilchen im Kern.", "Neutronen machen den Kern schwerer."),
   card("Elektron", "Ein negativ geladenes Teilchen in der Atomhülle.", "Elektronen bewegen sich um den Kern."),
   card("Isotop", "Atome eines Elements mit unterschiedlicher Neutronenzahl.", "Kohlenstoff-12 und Kohlenstoff-14."),
+  card("Massenzahl", "Die Summe aus Protonen und Neutronen im Kern.", "Kohlenstoff-12 hat die Massenzahl 12."),
+  card("Elektronenschale", "Ein Bereich der Atomhülle, in dem sich Elektronen aufhalten.", "Die äußeren Elektronen sitzen auf der äußersten Schale."),
 ];
 
 const PERIODIC_TABLE: ConceptCard[] = [

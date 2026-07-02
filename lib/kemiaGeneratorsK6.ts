@@ -116,6 +116,10 @@ const ATOMS_AND_ELEMENTS: ConceptCard[] = [
   { term: "Elektron", definition: "Teilchen mit negativer Ladung in der Hülle.", example: "Es bewegt sich um den Kern herum." },
   { term: "Neutron", definition: "Teilchen ohne Ladung im Atomkern.", example: "Es macht den Kern schwerer." },
   { term: "Symbol", definition: "Abkürzung für ein chemisches Element.", example: "H für Wasserstoff, O für Sauerstoff." },
+  { term: "Metall", definition: "Ein Element mit Glanz, das Wärme und Strom gut leitet.", example: "Eisen, Kupfer oder Gold." },
+  { term: "Nichtmetall", definition: "Ein Element ohne Metallglanz, das Strom meist schlecht leitet.", example: "Sauerstoff, Schwefel oder Chlor." },
+  { term: "Periode", definition: "Eine waagerechte Reihe im Periodensystem.", example: "Die zweite Periode enthält Kohlenstoff." },
+  { term: "Gruppe", definition: "Eine senkrechte Spalte im Periodensystem.", example: "Elemente einer Gruppe haben ähnliche Eigenschaften." },
 ];
 
 const COMPOUNDS_AND_PARTICLES: ConceptCard[] = [
@@ -152,6 +156,7 @@ const SOLUTIONS_AND_SEPARATION: ConceptCard[] = [
   { term: "Filtration", definition: "Trennverfahren mit Filter.", example: "Sand aus Wasser filtern." },
   { term: "Destillation", definition: "Trennung durch Verdampfen und Kondensieren.", example: "Reines Wasser aus Meerwasser gewinnen." },
   { term: "Kristallisation", definition: "Stoff bildet feste Kristalle aus der Lösung.", example: "Salzkristalle entstehen beim Verdunsten." },
+  { term: "Chromatografie", definition: "Trennung von Farbstoffen nach ihrer Wanderungsgeschwindigkeit.", example: "Filzstift-Farben trennen sich auf nassem Papier." },
 ];
 
 const ENVIRONMENT_AND_MATERIALS: ConceptCard[] = [

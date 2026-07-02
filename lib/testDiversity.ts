@@ -59,9 +59,15 @@ export function pickDiverse<T extends AnyQ>(pool: T[], count: number): T[] {
   if (pool.length <= count) return pool.map(sanitizeMcq).slice(0, count);
   const buckets = new Map<string, T[]>();
   const result: T[] = [];
+  let noKeyIdx = 0;
   for (const q of pool) {
     const k = answerKey(q);
-    if (!k) { result.push(q); continue; } // válasz nélküli kérdés sosem ütközik
+    if (!k) {
+      // Válasz-kulcs nélküli kérdés: saját egyelemű vödörbe, hogy a round-robinban
+      // egyenletesen szóródjon (NEM mind a result elejére, count-limit nélkül).
+      buckets.set("nokey" + noKeyIdx++, [q]);
+      continue;
+    }
     const b = buckets.get(k);
     if (b) b.push(q); else buckets.set(k, [q]);
   }

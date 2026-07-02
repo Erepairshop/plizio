@@ -904,7 +904,11 @@ const G1: Record<string, Generator> = {
     while (nums[0] === nums[1]) nums[1] = randInt(1, 10);
     while (nums[2] === nums[0] || nums[2] === nums[1]) nums[2] = randInt(1, 10);
     const sorted = [...nums].sort((a, b) => a - b);
-    return qs(qG1NumberOrder(nums, cc), sorted.join(","), t("g1NumberOrder", cc));
+    const [oa, ob, oc] = sorted;
+    const correct = `${oa},${ob},${oc}`;
+    // MCQ statt Freitext: eine "12, 15, 18" vs "12,15,18" Formatfalle vermeiden (String-Eingabe war formatempfindlich)
+    const opts = shuffleArray([correct, `${oc},${ob},${oa}`, `${ob},${oa},${oc}`, `${oa},${oc},${ob}`]);
+    return qstr(qG1NumberOrder(nums, cc), correct, t("g1NumberOrder", cc), opts);
   },
   dataTable: (cc) => {
     const lang = getLang(cc);
@@ -1334,7 +1338,11 @@ const G2: Record<string, Generator> = {
     while (nums[0] === nums[1]) nums[1] = randInt(10, 90);
     while (nums[2] === nums[0] || nums[2] === nums[1]) nums[2] = randInt(10, 90);
     const sorted = [...nums].sort((a, b) => a - b);
-    return qs(qG1NumberOrder(nums, cc), sorted.join(","), t("g1NumberOrder", cc));
+    const [oa, ob, oc] = sorted;
+    const correct = `${oa},${ob},${oc}`;
+    // MCQ statt Freitext: Format-Falle bei kommagetrennter String-Eingabe vermeiden
+    const opts = shuffleArray([correct, `${oc},${ob},${oa}`, `${ob},${oa},${oc}`, `${oa},${oc},${ob}`]);
+    return qstr(qG1NumberOrder(nums, cc), correct, t("g1NumberOrder", cc), opts);
   },
   // ── G2: Length unit conversions (cm ↔ m only) ──
   lengthConvert: (cc) => pick([

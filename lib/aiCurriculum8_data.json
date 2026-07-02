@@ -2140,7 +2140,7 @@
    "type": "mcq",
    "question": {
     "de": "Welches Verhalten gilt als Cybermobbing?",
-    "hu": "Melyik viselkedés minősül kibermоbbingnak?",
+    "hu": "Melyik viselkedés minősül kibermobbingnak?",
     "ro": "Care comportament este considerat cyberbullying?",
     "en": "Which behavior is considered cyberbullying?"
    },
@@ -4107,7 +4107,7 @@
    "question": {
     "de": "Welches Institut ist bekannt fur seine Forschung zur Ausrichtung (Alignment) von KI-Systemen und wurde von Eliezer Yudkowsky mitbegrundt?",
     "hu": "Melyik intézet ismert az MI-rendszerek igazításával (Alignment) kapcsolatos kutatásáról, és Eliezer Yudkowsky is alapító tagja volt?",
-    "ro": "Ce institut este cunoscut pentru cercetarea sa privind alinierea sistemelor IA si a fost cofondаt de Eliezer Yudkowsky?",
+    "ro": "Ce institut este cunoscut pentru cercetarea sa privind alinierea sistemelor IA si a fost cofondat de Eliezer Yudkowsky?",
     "en": "Which institute is known for its research on the alignment of AI systems and was co-founded by Eliezer Yudkowsky?"
    },
    "options": {
@@ -6705,7 +6705,7 @@
      "Egy valódi alkotás, amelyet digitalizáltak",
      "AI által létrehozott videó, amely valós személyt manipulál meggyőzően",
      "Új festéstechnika digitális ecsetekkel",
-     "Titkosított mualkotас az interneten"
+     "Titkosított műalkotás az interneten"
     ],
     "ro": [
      "O operă de artă reală scanata digital",

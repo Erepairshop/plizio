@@ -100,30 +100,6 @@ import t25_hu from "@/data/informatika/class-3/hu/25.json";
 import t25_de from "@/data/informatika/class-3/de/25.json";
 import t25_ro from "@/data/informatika/class-3/ro/25.json";
 import t25_en from "@/data/informatika/class-3/en/25.json";
-import t02 from "@/data/informatika/class-3/hu/t02.json";
-import t03 from "@/data/informatika/class-3/hu/t03.json";
-import t04 from "@/data/informatika/class-3/hu/t04.json";
-import t05 from "@/data/informatika/class-3/hu/t05.json";
-import t06 from "@/data/informatika/class-3/hu/t06.json";
-import t07 from "@/data/informatika/class-3/hu/t07.json";
-import t08 from "@/data/informatika/class-3/hu/t08.json";
-import t09 from "@/data/informatika/class-3/hu/t09.json";
-import t10 from "@/data/informatika/class-3/hu/t10.json";
-import t11 from "@/data/informatika/class-3/hu/t11.json";
-import t12 from "@/data/informatika/class-3/hu/t12.json";
-import t13 from "@/data/informatika/class-3/hu/t13.json";
-import t14 from "@/data/informatika/class-3/hu/t14.json";
-import t15 from "@/data/informatika/class-3/hu/t15.json";
-import t16 from "@/data/informatika/class-3/hu/t16.json";
-import t17 from "@/data/informatika/class-3/hu/t17.json";
-import t18 from "@/data/informatika/class-3/hu/t18.json";
-import t19 from "@/data/informatika/class-3/hu/t19.json";
-import t20 from "@/data/informatika/class-3/hu/t20.json";
-import t21 from "@/data/informatika/class-3/hu/t21.json";
-import t22 from "@/data/informatika/class-3/hu/t22.json";
-import t23 from "@/data/informatika/class-3/hu/t23.json";
-import t24 from "@/data/informatika/class-3/hu/t24.json";
-import t25 from "@/data/informatika/class-3/hu/t25.json";
 
 // ─── JSON → KemiaQuestion converter ──────────────────────────────────────────
 
