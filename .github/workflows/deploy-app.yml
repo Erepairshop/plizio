@@ -125,11 +125,16 @@ jobs:
           NODE_OPTIONS: --max-old-space-size=16384
         run: npx tsx scripts/generate-poi-html.mts
 
-      - name: Force sitemap.xml index into out/
+      # Build the sitemap.xml INDEX from the actual chunk files in out/ (Next
+      # chunks + reused poi-a/b/c overflow + hubs/beach/sightpages). The old
+      # step here copied a HARDCODED public/sitemap.xml frozen at 9 chunks,
+      # silently orphaning sitemap-9 + sitemap-poi-* + hubs from Google.
+      - name: Build sitemap.xml index from actual chunks (+ fresh sitemap-hubs.xml)
         run: |
           set -euo pipefail
-          cp public/sitemap.xml out/sitemap.xml
-          test -f out/sitemap.xml && test -s out/sitemap.xml
+          node scripts/build-sitemap-index.mjs
+          test -s out/sitemap.xml
+          echo "index chunk count: $(grep -c '<sitemap>' out/sitemap.xml)"
 
       - name: Atomic static release + nginx reload
         run: |
