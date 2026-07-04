@@ -1,0 +1,362 @@
+[
+ {
+  "id": "city-berlin",
+  "iso2": "DE",
+  "country": "germany",
+  "type": "state-capital",
+  "name": {
+   "en": "Berlin",
+   "de": "Berlin",
+   "hu": "Berlin",
+   "ro": "Berlin"
+  },
+  "coords": [
+   13.405,
+   52.52
+  ],
+  "pop": 3426354,
+  "tier": 1
+ },
+ {
+  "id": "city-hamburg",
+  "iso2": "DE",
+  "country": "germany",
+  "type": "state-capital",
+  "name": {
+   "en": "Hamburg",
+   "de": "Hamburg",
+   "hu": "Hamburg",
+   "ro": "Hamburg"
+  },
+  "coords": [
+   9.994,
+   53.551
+  ],
+  "pop": 1973896,
+  "tier": 1
+ },
+ {
+  "id": "city-stockholm",
+  "iso2": "SE",
+  "country": "sweden",
+  "type": "city",
+  "name": {
+   "en": "Stockholm",
+   "de": "Stockholm",
+   "hu": "Stockholm",
+   "ro": "Stockholm"
+  },
+  "coords": [
+   18.0686,
+   59.3293
+  ],
+  "pop": 1515017,
+  "tier": 1
+ },
+ {
+  "id": "milan",
+  "iso2": "IT",
+  "country": "italy",
+  "type": "city",
+  "name": {
+   "en": "Milan",
+   "de": "Mailand",
+   "hu": "Milánó",
+   "ro": "Milano"
+  },
+  "coords": [
+   9.19,
+   45.4642
+  ],
+  "pop": 1371498,
+  "tier": 1
+ },
+ {
+  "id": "serbia-belgrade-cities-v2",
+  "iso2": "RS",
+  "country": "serbia",
+  "type": "city",
+  "name": {
+   "en": "Belgrade",
+   "de": "Belgrad",
+   "hu": "Belgrád",
+   "ro": "Belgrad"
+  },
+  "coords": [
+   20.456944,
+   44.817778
+  ],
+  "pop": 1273651,
+  "tier": 1
+ },
+ {
+  "id": "city-copenhagen",
+  "iso2": "DK",
+  "country": "denmark",
+  "type": "city",
+  "name": {
+   "en": "Copenhagen",
+   "de": "Kopenhagen",
+   "hu": "Koppenhága",
+   "ro": "Copenhaga"
+  },
+  "coords": [
+   12.5683,
+   55.6761
+  ],
+  "pop": 1153615,
+  "tier": 1
+ },
+ {
+  "id": "city-sofia",
+  "iso2": "BG",
+  "country": "bulgaria",
+  "type": "city",
+  "name": {
+   "en": "Sofia",
+   "de": "Sofia",
+   "hu": "Szófia",
+   "ro": "Sofia"
+  },
+  "coords": [
+   23.3219,
+   42.6977
+  ],
+  "pop": 1152556,
+  "tier": 1
+ },
+ {
+  "id": "city-oslo",
+  "iso2": "NO",
+  "country": "norway",
+  "type": "city",
+  "name": {
+   "en": "Oslo",
+   "de": "Oslo",
+   "hu": "Oslo",
+   "ro": "Oslo"
+  },
+  "coords": [
+   10.7522,
+   59.9139
+  ],
+  "pop": 1082575,
+  "tier": 1
+ },
+ {
+  "id": "city-brussels",
+  "iso2": "BE",
+  "country": "belgium",
+  "type": "city",
+  "name": {
+   "en": "Brussels",
+   "de": "Brüssel",
+   "hu": "Brüsszel",
+   "ro": "Bruxelles"
+  },
+  "coords": [
+   4.3517,
+   50.8503
+  ],
+  "pop": 1019022,
+  "tier": 1
+ },
+ {
+  "id": "naples",
+  "iso2": "IT",
+  "country": "italy",
+  "type": "city",
+  "name": {
+   "en": "Naples",
+   "de": "Neapel",
+   "hu": "Nápoly",
+   "ro": "Napoli"
+  },
+  "coords": [
+   14.2681,
+   40.8518
+  ],
+  "pop": 909048,
+  "tier": 2
+ },
+ {
+  "id": "NL-CT-ROT",
+  "iso2": "NL",
+  "country": "netherlands",
+  "type": "city",
+  "name": {
+   "en": "Rotterdam",
+   "de": "Rotterdam",
+   "hu": "Rotterdam",
+   "ro": "Rotterdam"
+  },
+  "coords": [
+   4.48,
+   51.92
+  ],
+  "pop": 868135,
+  "tier": 2
+ },
+ {
+  "id": "NL-CT-AMS",
+  "iso2": "NL",
+  "country": "netherlands",
+  "type": "city",
+  "name": {
+   "en": "Amsterdam",
+   "de": "Amsterdam",
+   "hu": "Amszterdam",
+   "ro": "Amsterdam"
+  },
+  "coords": [
+   4.9,
+   52.37
+  ],
+  "pop": 741636,
+  "tier": 2
+ },
+ {
+  "id": "ba-sarajevo",
+  "iso2": "BA",
+  "country": "bosnia",
+  "type": "city",
+  "name": {
+   "en": "Sarajevo",
+   "de": "Sarajevo",
+   "hu": "Szarajevó",
+   "ro": "Sarajevo"
+  },
+  "coords": [
+   18.4131,
+   43.8563
+  ],
+  "pop": 696731,
+  "tier": 2
+ },
+ {
+  "id": "city-athens",
+  "iso2": "GR",
+  "country": "greece",
+  "type": "city",
+  "name": {
+   "en": "Athens",
+   "de": "Athen",
+   "hu": "Athén",
+   "ro": "Atena"
+  },
+  "coords": [
+   23.7275,
+   37.9838
+  ],
+  "pop": 664046,
+  "tier": 2
+ },
+ {
+  "id": "city-helsinki",
+  "iso2": "FI",
+  "country": "finland",
+  "type": "city",
+  "name": {
+   "en": "Helsinki",
+   "de": "Helsinki",
+   "hu": "Helsinki",
+   "ro": "Helsinki"
+  },
+  "coords": [
+   24.9414,
+   60.1699
+  ],
+  "pop": 658864,
+  "tier": 2
+ },
+ {
+  "id": "city-frankfurt",
+  "iso2": "DE",
+  "country": "germany",
+  "type": "city",
+  "name": {
+   "en": "Frankfurt am Main",
+   "de": "Frankfurt am Main",
+   "hu": "Frankfurt am Main",
+   "ro": "Frankfurt am Main"
+  },
+  "coords": [
+   8.6821,
+   50.1109
+  ],
+  "pop": 650000,
+  "tier": 2
+ },
+ {
+  "id": "italy-resuttana-cities-v2",
+  "iso2": "IT",
+  "country": "italy",
+  "type": "city",
+  "name": {
+   "en": "Resuttana",
+   "de": "Resuttana",
+   "hu": "Resuttana",
+   "ro": "Resuttana"
+  },
+  "coords": [
+   13.331137,
+   38.152344
+  ],
+  "pop": 648260,
+  "tier": 2
+ },
+ {
+  "id": "MD-031-chisinau-city",
+  "iso2": "MD",
+  "country": "moldova",
+  "type": "city",
+  "name": {
+   "en": "Chișinău",
+   "de": "Chișinău",
+   "hu": "Chișinău",
+   "ro": "Chișinău"
+  },
+  "coords": [
+   28.8638,
+   47.0105
+  ],
+  "pop": 635994,
+  "tier": 2
+ },
+ {
+  "id": "city-stuttgart",
+  "iso2": "DE",
+  "country": "germany",
+  "type": "state-capital",
+  "name": {
+   "en": "Stuttgart",
+   "de": "Stuttgart",
+   "hu": "Stuttgart",
+   "ro": "Stuttgart"
+  },
+  "coords": [
+   9.182,
+   48.775
+  ],
+  "pop": 612663,
+  "tier": 2
+ },
+ {
+  "id": "city-gothenburg",
+  "iso2": "SE",
+  "country": "sweden",
+  "type": "city",
+  "name": {
+   "en": "Gothenburg",
+   "de": "Göteborg",
+   "hu": "Göteborg",
+   "ro": "Göteborg"
+  },
+  "coords": [
+   11.9746,
+   57.7089
+  ],
+  "pop": 608462,
+  "tier": 2
+ }
+]
