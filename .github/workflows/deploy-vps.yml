@@ -160,6 +160,9 @@ jobs:
       - name: Verify out/ produced
         run: test -f out/index.html && test -d out/_next
 
+      - name: Normalize exported HTML language declarations
+        run: node scripts/normalize-export-langs.mjs
+
       - name: Flatten sitemap paths (Google directory-scope rule)
         run: node scripts/flatten-sitemap-paths.mjs
 

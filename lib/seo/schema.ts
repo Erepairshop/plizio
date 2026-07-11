@@ -75,11 +75,6 @@ export function buildWebsiteSchema(): SchemaNode {
     description:
       "Kostenlose Reise- und Lernplattform: Reiseziele und Städte mit interaktiven Karten, Sehenswürdigkeiten, lokalen Veranstaltungen und PlizioGo-Routen (zu Fuß, Auto, Wohnmobil) — plus Lernspiele und Schultests für Kinder. Vier Sprachen, ohne Anmeldung.",
     inLanguage: ["de", "hu", "ro", "en"],
-    potentialAction: {
-      "@type": "SearchAction",
-      target: `${SITE_URL}/?q={search_term_string}`,
-      "query-input": "required name=search_term_string",
-    },
   };
 }
 

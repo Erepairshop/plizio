@@ -106,7 +106,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="hu">
       <head>
         {/* Google Analytics loaded conditionally via CookieConsent component */}
         <link rel="preload" as="image" href="/apple-touch-icon.png" />
