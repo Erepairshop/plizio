@@ -456,3 +456,12 @@ jobs:
             done
           done
           echo "[warm] done — sitemap CF cache primed (24h edge_ttl)"
+
+      # `out/` is only deploy staging. Keeping its ~30 GB until post-job cache
+      # save duplicates the live release and can fill the self-hosted runner disk.
+      - name: Remove deploy staging output
+        if: always()
+        shell: bash
+        run: |
+          rm -rf out
+          df -h /
