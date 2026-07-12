@@ -1295,6 +1295,48 @@ const TRUST_T: Record<string, { team: string; updated: string }> = {
   hr: { team: "Plizio uredništvo", updated: "Ažurirano" },
 };
 // Theme-agnostic (opacity + color:inherit) so it adapts to the page's text color.
+function renderPostcardCta(lang: Lang, placeName: string, countryName: string): string {
+  const COPY: Partial<Record<Lang, { eyebrow: string; title: string; body: string; button: string; stamp: string }>> = {
+    de: { eyebrow: "Deine Reise, deine Erinnerung", title: `Eine Postkarte aus ${placeName}`, body: "Gestalte aus deinem eigenen Foto eine persönliche Postkarte mit Ortsstempel. Kostenlos und ohne Anmeldung.", button: "Postkarte gestalten", stamp: "Grüße aus" },
+    hu: { eyebrow: "A te utazásod, a te emléked", title: `Képeslap innen: ${placeName}`, body: "Készíts saját fotódból személyes képeslapot helybélyegzővel. Ingyenes, és regisztráció sem kell hozzá.", button: "Képeslap készítése", stamp: "Üdvözlet innen" },
+    ro: { eyebrow: "Călătoria ta, amintirea ta", title: `Carte poștală din ${placeName}`, body: "Transformă fotografia ta într-o carte poștală personală cu ștampila locului. Gratuit, fără înregistrare.", button: "Creează cartea poștală", stamp: "Salutări din" },
+    en: { eyebrow: "Your journey, your memory", title: `A postcard from ${placeName}`, body: "Turn your own photo into a personal postcard with a local stamp. Free and no sign-up required.", button: "Create a postcard", stamp: "Greetings from" },
+    fr: { eyebrow: "Votre voyage, votre souvenir", title: `Une carte postale de ${placeName}`, body: "Transformez votre photo en carte postale personnelle avec un cachet local. Gratuit, sans inscription.", button: "Créer une carte postale", stamp: "Souvenir de" },
+    tr: { eyebrow: "Yolculuğun, hatıran", title: `${placeName} hatırası bir kartpostal`, body: "Kendi fotoğrafını yer damgalı kişisel bir kartpostala dönüştür. Ücretsiz ve kayıt gerektirmez.", button: "Kartpostal oluştur", stamp: "Sevgiler" },
+    hr: { eyebrow: "Tvoje putovanje, tvoja uspomena", title: `Razglednica iz mjesta ${placeName}`, body: "Pretvori svoju fotografiju u osobnu razglednicu s pečatom mjesta. Besplatno i bez registracije.", button: "Izradi razglednicu", stamp: "Pozdrav iz" },
+  };
+  const t = COPY[lang] || COPY.en!;
+  const href = `/postcard/?place=${encodeURIComponent(placeName)}&country=${encodeURIComponent(countryName)}`;
+  return `<section class="plz-postcard-cta" aria-labelledby="plz-postcard-title">
+  <div class="plz-postcard-copy">
+    <p class="plz-postcard-eyebrow">${escapeHtml(t.eyebrow)}</p>
+    <h2 id="plz-postcard-title">${escapeHtml(t.title)}</h2>
+    <p>${escapeHtml(t.body)}</p>
+    <a class="plz-postcard-button" href="${href}">${escapeHtml(t.button)} <span aria-hidden="true">→</span></a>
+  </div>
+  <div class="plz-postcard-paper" aria-hidden="true">
+    <span class="plz-postcard-sun"></span>
+    <strong>${escapeHtml(placeName)}</strong>
+    <span class="plz-postcard-stamp">${escapeHtml(t.stamp)}<br>${escapeHtml(placeName)}</span>
+  </div>
+  <style>
+  .plz-postcard-cta{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 210px;align-items:center;gap:1.2rem;overflow:hidden;margin:1.4rem 0;padding:1.25rem 1.35rem;background:var(--paper-2);border:1px solid var(--rule);border-radius:var(--r)}
+  .plz-postcard-cta:before{content:"";position:absolute;inset:0;pointer-events:none;opacity:.22;background-image:radial-gradient(var(--ink-faint) .55px,transparent .55px);background-size:10px 10px}
+  .plz-postcard-copy{position:relative;z-index:1}.plz-postcard-eyebrow{margin:0 0 .25rem!important;color:var(--accent)!important;font-size:.7rem!important;font-weight:800;text-transform:uppercase;letter-spacing:.12em}
+  .plz-postcard-copy h2{margin:.1rem 0 .45rem;font-family:Fraunces,Georgia,serif;font-size:1.35rem;color:var(--ink)}
+  .plz-postcard-copy>p:not(.plz-postcard-eyebrow){max-width:590px;margin:0 0 .8rem;color:var(--ink-soft);font-size:.9rem;line-height:1.55}
+  .plz-postcard-button{display:inline-flex;align-items:center;gap:.45rem;padding:.62rem 1rem;border-radius:999px;background:var(--accent);color:#fff;text-decoration:none;font-size:.88rem;font-weight:800;box-shadow:0 6px 18px rgba(94,65,38,.14);transition:transform .15s,background .15s}
+  .plz-postcard-button:hover{transform:translateY(-1px);background:var(--accent-deep)}
+  .plz-postcard-paper{position:relative;z-index:1;min-height:132px;padding:16px;background:var(--paper);border:1px solid var(--rule);box-shadow:0 9px 25px rgba(64,45,27,.16);transform:rotate(2.5deg);display:flex;align-items:flex-end;overflow:hidden}
+  .plz-postcard-paper:before{content:"";position:absolute;inset:0;background:linear-gradient(155deg,transparent 42%,var(--accent-wash) 43% 62%,transparent 63%),linear-gradient(25deg,transparent 48%,rgba(83,111,83,.18) 49% 69%,transparent 70%)}
+  .plz-postcard-paper strong{position:relative;z-index:1;max-width:125px;font-family:Fraunces,Georgia,serif;font-size:1.25rem;line-height:1;color:var(--ink)}
+  .plz-postcard-sun{position:absolute;right:24px;top:19px;width:35px;height:35px;border-radius:50%;background:#d89b52;opacity:.8}
+  .plz-postcard-stamp{position:absolute;z-index:2;right:10px;bottom:9px;width:67px;height:67px;border:2px dashed var(--accent);border-radius:50%;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--accent);font-size:.53rem;font-weight:800;line-height:1.15;text-transform:uppercase;transform:rotate(-8deg)}
+  @media(max-width:620px){.plz-postcard-cta{grid-template-columns:1fr;padding:1rem}.plz-postcard-paper{min-height:112px;width:72%;margin:.25rem auto 0}.plz-postcard-copy h2{font-size:1.2rem}}
+  </style>
+  </section>`;
+}
+
 function renderTrustStrip(lang: Lang): string {
   const t = TRUST_T[lang] || TRUST_T.en;
   const mon = (CLIMATE_MON[lang] || CLIMATE_MON.en!)[_BUILD_M] || "";
@@ -3485,6 +3527,7 @@ document.addEventListener('click',function(e){
   var yh=e.target.closest('.plz-yh-card');if(yh){t('highlight_click',{});}
   var ymore=e.target.closest('.plz-yh-more');if(ymore){t('highlight_expand',{});}
   var sight=e.target.closest('.plz-sight');if(sight){t('sight_click',{});}
+  var postcard=e.target.closest('.plz-postcard-button');if(postcard){t('postcard_open',{place:${JSON.stringify(name)}});}
   var lang=e.target.closest('[data-lang-switch]');if(lang){t('lang_switch',{to:lang.dataset.langSwitch});}
 });
 // FAQ open (details element)
@@ -3517,6 +3560,7 @@ ready();})();</script>
   </div>
   ${renderVisitInfo(poi, lang)}
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
+  ${renderPostcardCta(lang, name, countryName)}
   ${renderPlizioTip(poi, lang, name, sightsItems.slice(0, 3).map((x) => (typeof x.s.name === "string" ? x.s.name : "")), ((): { name: string; km: number } | null => { const nc = getNearbyCities(poi, 1, 90, 4)[0]; return nc ? { name: (getLocalized(nc.p.name as Partial<Record<string, string>>, lang) as string) || nc.p.id, km: nc.km } : null; })())}
   ${renderKeyFacts(poi, lang, countryName, sightsItems.slice(0, 3).map((x) => (typeof x.s.name === "string" ? x.s.name : "")), ((): { name: string; km: number } | null => { const nc = getNearbyCities(poi, 1, 90, 4)[0]; return nc ? { name: (getLocalized(nc.p.name as Partial<Record<string, string>>, lang) as string) || nc.p.id, km: nc.km } : null; })())}
   ${renderClimate(poi, lang)}

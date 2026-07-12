@@ -200,6 +200,12 @@ export default async function PoiPage({
                 <a href={getVisualLabHref(poi)} className="inline-flex items-center rounded-full border border-cyan-400/30 bg-cyan-500/10 px-4 py-2 text-sm font-medium text-cyan-200 hover:border-cyan-300/50">
                   {copy.backToMap}
                 </a>
+                <a
+                  href={`/postcard/?place=${encodeURIComponent(poiName)}&country=${encodeURIComponent(countryCopy.name)}`}
+                  className="inline-flex items-center rounded-full border border-amber-300/35 bg-amber-400/10 px-4 py-2 text-sm font-medium text-amber-100 hover:border-amber-200/60"
+                >
+                  {{ hu: "Képeslap készítése", de: "Postkarte erstellen", ro: "Creează o carte poștală", en: "Create a postcard" }[resolved.lang as Lang]}
+                </a>
               </div>
 
               <div className="mt-6 space-y-4 text-base leading-7 text-white/75">
