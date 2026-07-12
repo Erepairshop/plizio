@@ -1319,21 +1319,6 @@ function renderPostcardCta(lang: Lang, placeName: string, countryName: string): 
     <strong>${escapeHtml(placeName)}</strong>
     <span class="plz-postcard-stamp">${escapeHtml(t.stamp)}<br>${escapeHtml(placeName)}</span>
   </div>
-  <style>
-  .plz-postcard-cta{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 210px;align-items:center;gap:1.2rem;overflow:hidden;margin:1.4rem 0;padding:1.25rem 1.35rem;background:var(--paper-2);border:1px solid var(--rule);border-radius:var(--r)}
-  .plz-postcard-cta:before{content:"";position:absolute;inset:0;pointer-events:none;opacity:.22;background-image:radial-gradient(var(--ink-faint) .55px,transparent .55px);background-size:10px 10px}
-  .plz-postcard-copy{position:relative;z-index:1}.plz-postcard-eyebrow{margin:0 0 .25rem!important;color:var(--accent)!important;font-size:.7rem!important;font-weight:800;text-transform:uppercase;letter-spacing:.12em}
-  .plz-postcard-copy h2{margin:.1rem 0 .45rem;font-family:Fraunces,Georgia,serif;font-size:1.35rem;color:var(--ink)}
-  .plz-postcard-copy>p:not(.plz-postcard-eyebrow){max-width:590px;margin:0 0 .8rem;color:var(--ink-soft);font-size:.9rem;line-height:1.55}
-  .plz-postcard-button{display:inline-flex;align-items:center;gap:.45rem;padding:.62rem 1rem;border-radius:999px;background:var(--accent);color:#fff;text-decoration:none;font-size:.88rem;font-weight:800;box-shadow:0 6px 18px rgba(94,65,38,.14);transition:transform .15s,background .15s}
-  .plz-postcard-button:hover{transform:translateY(-1px);background:var(--accent-deep)}
-  .plz-postcard-paper{position:relative;z-index:1;min-height:132px;padding:16px;background:var(--paper);border:1px solid var(--rule);box-shadow:0 9px 25px rgba(64,45,27,.16);transform:rotate(2.5deg);display:flex;align-items:flex-end;overflow:hidden}
-  .plz-postcard-paper:before{content:"";position:absolute;inset:0;background:linear-gradient(155deg,transparent 42%,var(--accent-wash) 43% 62%,transparent 63%),linear-gradient(25deg,transparent 48%,rgba(83,111,83,.18) 49% 69%,transparent 70%)}
-  .plz-postcard-paper strong{position:relative;z-index:1;max-width:125px;font-family:Fraunces,Georgia,serif;font-size:1.25rem;line-height:1;color:var(--ink)}
-  .plz-postcard-sun{position:absolute;right:24px;top:19px;width:35px;height:35px;border-radius:50%;background:#d89b52;opacity:.8}
-  .plz-postcard-stamp{position:absolute;z-index:2;right:10px;bottom:9px;width:67px;height:67px;border:2px dashed var(--accent);border-radius:50%;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--accent);font-size:.53rem;font-weight:800;line-height:1.15;text-transform:uppercase;transform:rotate(-8deg)}
-  @media(max-width:620px){.plz-postcard-cta{grid-template-columns:1fr;padding:1rem}.plz-postcard-paper{min-height:112px;width:72%;margin:.25rem auto 0}.plz-postcard-copy h2{font-size:1.2rem}}
-  </style>
   </section>`;
 }
 
@@ -3400,11 +3385,11 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   let heroHtml: string;
   if (heroImages.length === 0) {
     // No fetched photo → Claude-Design type placeholder SVG (not an empty/pin hero).
-    heroHtml = `<div class="plz-hero plz-hero-ph"><img src="${poiPlaceholderSvg(poi.type)}" alt="${escapeHtml(buildAlt(name))}" loading="lazy"/></div>`;
+    heroHtml = `<div class="plz-hero plz-hero-ph"><img src="${poiPlaceholderSvg(poi.type)}" alt="${escapeHtml(buildAlt(name))}" loading="eager" fetchpriority="high" decoding="async"/></div>`;
   } else if (heroImages.length === 1) {
-    heroHtml = `<div class="plz-hero"><img src="${escapeHtml(heroImages[0].src)}" alt="${escapeHtml(heroImages[0].alt)}" loading="lazy"/></div>`;
+    heroHtml = `<div class="plz-hero"><img src="${escapeHtml(heroImages[0].src)}" alt="${escapeHtml(heroImages[0].alt)}" loading="eager" fetchpriority="high" decoding="async"/></div>`;
   } else {
-    const slides = heroImages.map((h, i) => `<div class="plz-hero-slide" data-slide="${i}"><img src="${escapeHtml(h.src)}" alt="${escapeHtml(h.alt)}" loading="${i === 0 ? "eager" : "lazy"}"/></div>`).join("");
+    const slides = heroImages.map((h, i) => `<div class="plz-hero-slide" data-slide="${i}"><img src="${escapeHtml(h.src)}" alt="${escapeHtml(h.alt)}" loading="${i === 0 ? "eager" : "lazy"}"${i === 0 ? ' fetchpriority="high"' : ""} decoding="async"/></div>`).join("");
     const dots = heroImages.map((_, i) => `<span class="plz-hero-dot${i === 0 ? " active" : ""}" data-dot="${i}"></span>`).join("");
     heroHtml = `<div class="plz-hero plz-hero-swiper"><div class="plz-hero-track" id="plz-hero-track">${slides}</div><div class="plz-hero-dots">${dots}</div></div>
 <script>(function(){var tr=document.getElementById('plz-hero-track');if(!tr)return;var dots=tr.parentElement.querySelectorAll('.plz-hero-dot');function sync(){var w=tr.clientWidth;var i=Math.round(tr.scrollLeft/w);dots.forEach(function(d,j){d.classList.toggle('active',i===j);});}tr.addEventListener('scroll',function(){sync();},{passive:true});dots.forEach(function(d,i){d.addEventListener('click',function(){tr.scrollTo({left:i*tr.clientWidth,behavior:'smooth'});});});})();</script>`;
@@ -3487,7 +3472,7 @@ ${heroImg ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(heroImg)
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260620ed1"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260712pc1"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countryName, faqItems, [
   { name: I("home", lang), url: `/${navLang}/` },
   { name: countryName, url: buildCountryPath(navLang, countryId) },
@@ -3888,7 +3873,7 @@ async function main() {
   const sightPagesDir = path.resolve(process.cwd(), "public", "data", "sight-pages");
   const sightIdxFp = path.join(sightPagesDir, "_index.json");
   let sightPagesWritten = 0;
-  if (fs.existsSync(sightIdxFp)) {
+  if (fs.existsSync(sightIdxFp) && process.env.SKIP_SIGHT_PAGES !== "1") {
     const sightIdx: { host_id: string; sight_name: string; slug: string }[] = JSON.parse(fs.readFileSync(sightIdxFp, "utf-8"));
     console.log(`\nGenerating ${sightIdx.length} sight pages × langs...`);
     for (const entry of sightIdx) {
@@ -3919,7 +3904,7 @@ async function main() {
   // FULL run → overwrite; DELTA run (POI_IDS filter) → merge into the existing
   // index so unchanged POIs keep their entries. Internal-link builders (hubs,
   // nearby, sitemap) consuming this file can never point at a non-existent page.
-  try {
+  if (process.env.SKIP_INDEX_WRITE !== "1") try {
     const idxPath = path.resolve(process.cwd(), "public", "data", "_poi-url-index.json");
     const isDelta = !!(POI_IDS_FILE || POI_IDS_INLINE);
     let merged: Record<string, Record<string, string>> = URL_INDEX_OUT;
@@ -4099,7 +4084,7 @@ ${hreflangLinks}
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260620ed1"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260712pc1"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:var(--accent);text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:var(--accent-deep)}
