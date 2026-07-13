@@ -10,6 +10,17 @@ const themes: { id: PostcardTheme; name: string; colors: string }[] = [
   { id: "paper", name: "Régi képeslap", colors: "from-[#eee4d2] to-[#bda789]" },
 ];
 
+function trackPostcard(event: string, data?: Record<string, string>) {
+  const analytics = (window as Window & {
+    umami?: { track: (name: string, data?: Record<string, string>) => void };
+  }).umami;
+  try {
+    analytics?.track(event, data);
+  } catch {
+    // Analytics must never interrupt postcard creation.
+  }
+}
+
 export default function PostcardEditor() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const imageRef = useRef<HTMLImageElement | null>(null);
@@ -55,6 +66,7 @@ export default function PostcardEditor() {
       imageRef.current = image;
       setPhotoName(file.name);
       setNotice("");
+      trackPostcard("postcard_photo_added", { theme });
     };
     image.onerror = () => setNotice("A képet nem sikerült megnyitni.");
     image.src = url;
@@ -76,6 +88,7 @@ export default function PostcardEditor() {
     anchor.click();
     setTimeout(() => URL.revokeObjectURL(url), 1000);
     setNotice("A képeslap elkészült.");
+    trackPostcard("postcard_download", { theme, has_photo: imageRef.current ? "yes" : "no" });
   }
 
   async function share() {
@@ -83,8 +96,10 @@ export default function PostcardEditor() {
     if (!file) return;
     if (navigator.share && navigator.canShare?.({ files: [file] })) {
       await navigator.share({ files: [file], title: `Üdvözlet ${place} városából`, text: "Ezt a képeslapot neked készítettem a Plizión." });
+      trackPostcard("postcard_share", { theme, has_photo: imageRef.current ? "yes" : "no" });
       return;
     }
+    trackPostcard("postcard_share_fallback", { theme });
     await download();
     setNotice("A böngésződön a közvetlen megosztás nem elérhető, ezért letöltöttem a képet.");
   }
