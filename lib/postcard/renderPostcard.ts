@@ -24,22 +24,37 @@ function coverImage(ctx: CanvasRenderingContext2D, image: HTMLImageElement, x: n
   ctx.drawImage(image, sx, sy, sw, sh, x, y, w, h);
 }
 
-function wrapText(ctx: CanvasRenderingContext2D, text: string, x: number, y: number, maxWidth: number, lineHeight: number, maxLines: number) {
-  const words = text.trim().split(/\s+/).filter(Boolean);
+function wrappedLines(ctx: CanvasRenderingContext2D, text: string, maxWidth: number) {
   const lines: string[] = [];
-  let line = "";
-  for (const word of words) {
-    const test = line ? `${line} ${word}` : word;
-    if (ctx.measureText(test).width > maxWidth && line) {
-      lines.push(line);
-      line = word;
-      if (lines.length === maxLines) break;
-    } else {
-      line = test;
+  for (const paragraph of text.replace(/\r/g, "").split("\n")) {
+    const words = paragraph.trim().split(/\s+/).filter(Boolean);
+    let line = "";
+    for (const word of words) {
+      const test = line ? `${line} ${word}` : word;
+      if (ctx.measureText(test).width > maxWidth && line) {
+        lines.push(line);
+        line = word;
+      } else {
+        line = test;
+      }
     }
+    if (line) lines.push(line);
+    if (!words.length) lines.push("");
   }
-  if (lines.length < maxLines && line) lines.push(line);
+  return lines.length ? lines : [""];
+}
+
+function drawLines(ctx: CanvasRenderingContext2D, lines: string[], x: number, y: number, lineHeight: number) {
   lines.forEach((value, index) => ctx.fillText(value, x, y + index * lineHeight));
+}
+
+function fitFont(ctx: CanvasRenderingContext2D, text: string, maxWidth: number, start: number, minimum: number, font: string) {
+  let size = start;
+  do {
+    ctx.font = `${font.replace("{size}", String(size))}`;
+    if (ctx.measureText(text).width <= maxWidth) break;
+    size -= 2;
+  } while (size > minimum);
 }
 
 function drawStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: number, y: number) {
@@ -60,10 +75,12 @@ function drawStamp(ctx: CanvasRenderingContext2D, content: PostcardContent, x: n
   ctx.arc(0, 0, 104, 0, Math.PI * 2);
   ctx.stroke();
   ctx.textAlign = "center";
-  ctx.font = "700 28px Georgia, serif";
-  ctx.fillText((content.place || "ÚTI EMLÉK").toLocaleUpperCase("hu").slice(0, 22), 0, -38);
-  ctx.font = "700 22px Georgia, serif";
-  ctx.fillText((content.country || "PLIZIO").toLocaleUpperCase("hu").slice(0, 20), 0, 52);
+  const stampPlace = (content.place || "ÚTI EMLÉK").toLocaleUpperCase("hu");
+  const stampCountry = (content.country || "PLIZIO").toLocaleUpperCase("hu");
+  fitFont(ctx, stampPlace, 174, 28, 12, "700 {size}px Georgia, serif");
+  ctx.fillText(stampPlace, 0, -38);
+  fitFont(ctx, stampCountry, 166, 22, 11, "700 {size}px Georgia, serif");
+  ctx.fillText(stampCountry, 0, 52);
   ctx.font = "50px serif";
   ctx.fillText("✦", 0, 18);
   ctx.restore();
@@ -73,20 +90,23 @@ export function renderPostcard(canvas: HTMLCanvasElement, image: HTMLImageElemen
   const ctx = canvas.getContext("2d");
   if (!ctx) return;
   canvas.width = 1200;
-  canvas.height = 1500;
   const palette = PALETTES[content.theme];
+  ctx.font = "italic 43px Georgia, serif";
+  const messageLines = wrappedLines(ctx, content.message || "Üdvözlet erről a csodálatos helyről!", 620);
+  const canvasHeight = Math.max(1500, 1055 + (messageLines.length - 1) * 62 + 230);
+  canvas.height = canvasHeight;
 
-  const gradient = ctx.createLinearGradient(0, 0, 1200, 1500);
+  const gradient = ctx.createLinearGradient(0, 0, 1200, canvasHeight);
   gradient.addColorStop(0, palette.paper);
   gradient.addColorStop(1, content.theme === "sunset" ? "#f28b65" : content.theme === "coast" ? "#71bdba" : "#cbb99e");
   ctx.fillStyle = gradient;
-  ctx.fillRect(0, 0, 1200, 1500);
+  ctx.fillRect(0, 0, 1200, canvasHeight);
 
   ctx.fillStyle = "rgba(255,255,255,.76)";
-  ctx.fillRect(50, 50, 1100, 1400);
+  ctx.fillRect(50, 50, 1100, canvasHeight - 100);
   ctx.strokeStyle = palette.ink;
   ctx.lineWidth = 5;
-  ctx.strokeRect(72, 72, 1056, 1356);
+  ctx.strokeRect(72, 72, 1056, canvasHeight - 144);
 
   ctx.save();
   ctx.beginPath();
@@ -123,23 +143,25 @@ export function renderPostcard(canvas: HTMLCanvasElement, image: HTMLImageElemen
   ctx.restore();
 
   ctx.fillStyle = "#fff";
-  ctx.font = "700 86px Georgia, serif";
-  ctx.fillText((content.place || "Az én utazásom").slice(0, 28), 145, 845);
-  ctx.font = "600 31px Arial, sans-serif";
-  ctx.fillText((content.country || "Egy emlék, amit jó megőrizni").slice(0, 45), 150, 902);
+  const place = content.place || "Az én utazásom";
+  fitFont(ctx, place, 910, 86, 38, "700 {size}px Georgia, serif");
+  ctx.fillText(place, 145, 845);
+  const country = content.country || "Egy emlék, amit jó megőrizni";
+  fitFont(ctx, country, 900, 31, 20, "600 {size}px Arial, sans-serif");
+  ctx.fillText(country, 150, 902);
 
   ctx.fillStyle = palette.ink;
   ctx.font = "italic 43px Georgia, serif";
-  wrapText(ctx, content.message || "Üdvözlet erről a csodálatos helyről!", 130, 1055, 620, 62, 4);
+  drawLines(ctx, messageLines, 130, 1055, 62);
   ctx.font = "600 30px Arial, sans-serif";
-  ctx.fillText(content.sender ? `– ${content.sender}` : "– szeretettel", 130, 1330);
-  drawStamp(ctx, content, 930, 1165);
+  ctx.fillText(content.sender ? `– ${content.sender}` : "– szeretettel", 130, canvasHeight - 170);
+  drawStamp(ctx, content, 930, canvasHeight - 335);
 
   ctx.fillStyle = palette.ink;
   ctx.globalAlpha = 0.72;
   ctx.font = "700 22px Arial, sans-serif";
   ctx.textAlign = "right";
-  ctx.fillText(`${content.date}  •  PLIZIO.COM`, 1070, 1385);
+  ctx.fillText(`${content.date}  •  PLIZIO.COM`, 1070, canvasHeight - 115);
   ctx.globalAlpha = 1;
   ctx.textAlign = "left";
 }

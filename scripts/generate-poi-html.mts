@@ -1295,7 +1295,9 @@ const TRUST_T: Record<string, { team: string; updated: string }> = {
   hr: { team: "Plizio uredništvo", updated: "Ažurirano" },
 };
 // Theme-agnostic (opacity + color:inherit) so it adapts to the page's text color.
-function renderPostcardCta(lang: Lang, placeName: string, countryName: string): string {
+function renderPostcardCta(poi: POI, lang: Lang, countryId: string): string {
+  const placeName = getLocalized(poi.name, lang) ?? poi.id;
+  const countryName = slugs.localizedCountryName(countryId, lang);
   const COPY: Partial<Record<Lang, { eyebrow: string; title: string; body: string; button: string; stamp: string }>> = {
     de: { eyebrow: "Deine Reise, deine Erinnerung", title: `Eine Postkarte aus ${placeName}`, body: "Gestalte aus deinem eigenen Foto eine persönliche Postkarte mit Ortsstempel. Kostenlos und ohne Anmeldung.", button: "Postkarte gestalten", stamp: "Grüße aus" },
     hu: { eyebrow: "A te utazásod, a te emléked", title: `Képeslap innen: ${placeName}`, body: "Készíts saját fotódból személyes képeslapot helybélyegzővel. Ingyenes, és regisztráció sem kell hozzá.", button: "Képeslap készítése", stamp: "Üdvözlet innen" },
@@ -1306,13 +1308,18 @@ function renderPostcardCta(lang: Lang, placeName: string, countryName: string): 
     hr: { eyebrow: "Tvoje putovanje, tvoja uspomena", title: `Razglednica iz mjesta ${placeName}`, body: "Pretvori svoju fotografiju u osobnu razglednicu s pečatom mjesta. Besplatno i bez registracije.", button: "Izradi razglednicu", stamp: "Pozdrav iz" },
   };
   const t = COPY[lang] || COPY.en!;
-  const href = `/postcard/?place=${encodeURIComponent(placeName)}&country=${encodeURIComponent(countryName)}`;
+  const params = new URLSearchParams({ place: String(placeName), country: countryName, lang });
+  for (const postcardLang of SUPPORTED_LANGS) {
+    params.set(`place_${postcardLang}`, String(getLocalized(poi.name, postcardLang) ?? placeName));
+    params.set(`country_${postcardLang}`, slugs.localizedCountryName(countryId, postcardLang));
+  }
+  const href = `/postcard/?${params.toString()}`;
   return `<section class="plz-postcard-cta" aria-labelledby="plz-postcard-title">
   <div class="plz-postcard-copy">
     <p class="plz-postcard-eyebrow">${escapeHtml(t.eyebrow)}</p>
     <h2 id="plz-postcard-title">${escapeHtml(t.title)}</h2>
     <p>${escapeHtml(t.body)}</p>
-    <a class="plz-postcard-button" href="${href}">${escapeHtml(t.button)} <span aria-hidden="true">→</span></a>
+    <a class="plz-postcard-button" href="${escapeHtml(href)}">${escapeHtml(t.button)} <span aria-hidden="true">→</span></a>
   </div>
   <div class="plz-postcard-paper" aria-hidden="true">
     <span class="plz-postcard-sun"></span>
@@ -3545,7 +3552,7 @@ ready();})();</script>
   </div>
   ${renderVisitInfo(poi, lang)}
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
-  ${renderPostcardCta(lang, name, countryName)}
+  ${renderPostcardCta(poi, lang, countryId)}
   ${renderPlizioTip(poi, lang, name, sightsItems.slice(0, 3).map((x) => (typeof x.s.name === "string" ? x.s.name : "")), ((): { name: string; km: number } | null => { const nc = getNearbyCities(poi, 1, 90, 4)[0]; return nc ? { name: (getLocalized(nc.p.name as Partial<Record<string, string>>, lang) as string) || nc.p.id, km: nc.km } : null; })())}
   ${renderKeyFacts(poi, lang, countryName, sightsItems.slice(0, 3).map((x) => (typeof x.s.name === "string" ? x.s.name : "")), ((): { name: string; km: number } | null => { const nc = getNearbyCities(poi, 1, 90, 4)[0]; return nc ? { name: (getLocalized(nc.p.name as Partial<Record<string, string>>, lang) as string) || nc.p.id, km: nc.km } : null; })())}
   ${renderClimate(poi, lang)}

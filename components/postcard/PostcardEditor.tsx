@@ -3,6 +3,7 @@
 import { ChangeEvent, useEffect, useRef, useState } from "react";
 import { Camera, Download, ImagePlus, MapPin, Send, ShieldCheck, Sparkles } from "lucide-react";
 import { canvasToBlob, renderPostcard, type PostcardTheme } from "@/lib/postcard/renderPostcard";
+import { getLanguage } from "@/lib/language";
 
 const themes: { id: PostcardTheme; name: string; colors: string }[] = [
   { id: "sunset", name: "Naplemente", colors: "from-[#f8c76c] to-[#ef674b]" },
@@ -36,10 +37,11 @@ export default function PostcardEditor() {
 
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
-    const initialPlace = params.get("place");
-    const initialCountry = params.get("country");
-    if (initialPlace) setPlace(initialPlace.slice(0, 28));
-    if (initialCountry) setCountry(initialCountry.slice(0, 30));
+    const preferredLanguage = getLanguage();
+    const initialPlace = params.get(`place_${preferredLanguage}`) || params.get("place");
+    const initialCountry = params.get(`country_${preferredLanguage}`) || params.get("country");
+    if (initialPlace) setPlace(initialPlace.slice(0, 80));
+    if (initialCountry) setCountry(initialCountry.slice(0, 60));
   }, []);
 
   useEffect(() => {
@@ -122,8 +124,8 @@ export default function PostcardEditor() {
         <div className="mt-10 grid items-start gap-8 lg:grid-cols-[0.82fr_1.18fr]">
           <div className="rounded-[28px] border border-[#6d5037]/20 bg-[#fffaf0]/85 p-5 shadow-[0_24px_70px_rgba(63,42,22,.12)] backdrop-blur sm:p-7">
             <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
-              <label className="block"><span className="mb-2 flex items-center gap-2 text-xs font-bold uppercase tracking-widest"><MapPin size={15} /> Hely</span><input value={place} maxLength={28} onChange={(e) => setPlace(e.target.value)} className="w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
-              <label className="block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">Ország</span><input value={country} maxLength={30} onChange={(e) => setCountry(e.target.value)} className="w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
+              <label className="block"><span className="mb-2 flex items-center gap-2 text-xs font-bold uppercase tracking-widest"><MapPin size={15} /> Hely</span><input value={place} maxLength={80} onChange={(e) => setPlace(e.target.value)} className="w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
+              <label className="block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">Ország</span><input value={country} maxLength={60} onChange={(e) => setCountry(e.target.value)} className="w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
             </div>
 
             <label className="mt-5 block cursor-pointer rounded-2xl border-2 border-dashed border-[#b7462f]/35 bg-[#f8dec0]/35 p-5 text-center transition hover:bg-[#f8dec0]/65">
@@ -133,7 +135,7 @@ export default function PostcardEditor() {
               <span className="mt-1 block text-xs text-[#6b5c4e]">JPG, PNG vagy telefonos fotó</span>
             </label>
 
-            <label className="mt-5 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">Üzenet</span><textarea value={message} maxLength={150} rows={3} onChange={(e) => setMessage(e.target.value)} className="w-full resize-none rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /><span className="mt-1 block text-right text-xs text-[#76685b]">{message.length}/150</span></label>
+            <label className="mt-5 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">Üzenet</span><textarea value={message} maxLength={500} rows={5} onChange={(e) => setMessage(e.target.value)} className="w-full resize-y rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /><span className="mt-1 block text-right text-xs text-[#76685b]">{message.length}/500</span></label>
             <label className="mt-3 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">Aláírás</span><input value={sender} maxLength={30} placeholder="A neved (nem kötelező)" onChange={(e) => setSender(e.target.value)} className="w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
 
             <fieldset className="mt-6"><legend className="text-xs font-bold uppercase tracking-widest">Stílus</legend><div className="mt-3 grid grid-cols-3 gap-2">{themes.map((item) => <button type="button" key={item.id} onClick={() => setTheme(item.id)} className={`rounded-xl border p-2 text-xs font-bold transition ${theme === item.id ? "border-[#28231e] bg-white shadow-md" : "border-transparent"}`}><span className={`mx-auto mb-2 block h-8 rounded-lg bg-gradient-to-br ${item.colors}`} />{item.name}</button>)}</div></fieldset>
