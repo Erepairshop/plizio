@@ -1,0 +1,427 @@
+[
+  {
+    "id": "bucuresti",
+    "events": [
+      {
+        "title": {
+          "de": "Eröffnungskonzert des George-Enescu-Wettbewerbs 2026",
+          "hu": "A 2026-os George Enescu Nemzetközi Verseny nyitókoncertje",
+          "ro": "Concertul de deschidere al Concursului Internațional George Enescu 2026",
+          "en": "Opening Concert of the George Enescu International Competition 2026"
+        },
+        "summary": {
+          "de": "Der internationale Wettbewerb startet im Rumänischen Athenäum mit dem Romanian Radio National Orchestra unter Cristian Măcelaru sowie den Preisträgern der Ausgabe 2024.",
+          "hu": "A nemzetközi verseny a Román Atheneumban indul a Romanian Radio National Orchestra és Cristian Măcelaru vezényletével, valamint a 2024-es díjazottak fellépésével.",
+          "ro": "Competiția internațională începe la Ateneul Român cu Orchestra Națională Radio, dirijată de Cristian Măcelaru, și cu laureații ediției 2024 pe scenă.",
+          "en": "The competition opens at the Romanian Athenaeum with the Romanian Radio National Orchestra under Cristian Măcelaru and the 2024 prize winners on stage."
+        },
+        "date": "2026-08-23",
+        "source_url": "https://festivalenescu.ro/en/george-enescu-international-competition/events/opening-concert-of-the-george-enescu-international-competition-2026-and-the-composition-section-awards-gala-2851070507"
+      },
+      {
+        "title": {
+          "de": "Finalkonzert der Kompositionssektion",
+          "hu": "A zeneszerzés szekció döntő koncertje",
+          "ro": "Concertul final dedicat secțiunii de compoziție",
+          "en": "Final Concert Dedicated to the Composition Section"
+        },
+        "summary": {
+          "de": "Im Rumänischen Athenäum verbindet ein Masterclass-Vorkonzert den Abschluss der Kompositionssektion mit einem öffentlichen Abendprogramm des Wettbewerbs.",
+          "hu": "A Román Atheneumban egy mesterkurzus-előkoncert kapcsolódik a zeneszerzés szekciójának záróestjéhez és a verseny nyilvános programjához.",
+          "ro": "La Ateneul Român, un preconcert de masterclass precede seara finală a secțiunii de compoziție din cadrul competiției.",
+          "en": "At the Romanian Athenaeum, a masterclass pre-concert leads into the public final evening for the competition's composition section."
+        },
+        "date": "2026-08-27",
+        "source_url": "https://festivalenescu.ro/en/george-enescu-international-competition/events/final-concert-dedicated-to-the-composition-section-with-a-masterclass-pre-concert-2851079180"
+      },
+      {
+        "title": {
+          "de": "Claudio Bohórquez und Péter Nagy im Recital",
+          "hu": "Claudio Bohórquez és Péter Nagy estje",
+          "ro": "Recital Claudio Bohórquez și Péter Nagy",
+          "en": "Claudio Bohórquez and Péter Nagy Recital"
+        },
+        "summary": {
+          "de": "Der Jurycellist Claudio Bohórquez und Pianist Péter Nagy spielen im Rumänischen Athenäum ein ausschließlich Schumann gewidmetes Kammermusikprogramm.",
+          "hu": "Claudio Bohórquez csellóművész és Péter Nagy zongoraművész a Román Atheneumban teljes egészében Schumann-művekből álló kamarazenei estet ad.",
+          "ro": "Violoncelistul Claudio Bohórquez și pianistul Péter Nagy susțin la Ateneul Român un recital de muzică de cameră dedicat integral lui Schumann.",
+          "en": "Cellist Claudio Bohórquez and pianist Péter Nagy present an all-Schumann chamber recital at the Romanian Athenaeum."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://festivalenescu.ro/en/george-enescu-international-competition/events/claudio-bohorquez-and-peter-nagy-recital-2851062785"
+      },
+      {
+        "title": {
+          "de": "Nemanja Radulović und Laure Favre-Kahn im Recital",
+          "hu": "Nemanja Radulović és Laure Favre-Kahn estje",
+          "ro": "Recital Nemanja Radulović și Laure Favre-Kahn",
+          "en": "Nemanja Radulović and Laure Favre-Kahn Recital"
+        },
+        "summary": {
+          "de": "Der Geiger Nemanja Radulović und die Pianistin Laure Favre-Kahn bringen im Rumänischen Athenäum Werke von Bartók, Franck, Prokofjew und Ravel auf die Bühne.",
+          "hu": "Nemanja Radulović hegedűművész és Laure Favre-Kahn zongoraművész Bartók, Franck, Prokofjev és Ravel műveit adja elő a Román Atheneumban.",
+          "ro": "Nemanja Radulović și pianista Laure Favre-Kahn interpretează la Ateneul Român lucrări de Bartók, Franck, Prokofiev și Ravel.",
+          "en": "Violinist Nemanja Radulović and pianist Laure Favre-Kahn perform works by Bartók, Franck, Prokofiev and Ravel at the Romanian Athenaeum."
+        },
+        "date": "2026-09-10",
+        "source_url": "https://festivalenescu.ro/en/george-enescu-international-competition/events/nemanja-radulovic-and-laure-favre-kahn-recital-2851062738"
+      },
+      {
+        "title": {
+          "de": "Marie-Ange Nguci und Hyeonjeong Lee im Recital",
+          "hu": "Marie-Ange Nguci és Hyeonjeong Lee estje",
+          "ro": "Recital Marie-Ange Nguci și Hyeonjeong Lee",
+          "en": "Marie-Ange Nguci and Hyeonjeong Lee Recital"
+        },
+        "summary": {
+          "de": "Im Rumänischen Athenäum treffen Violine und Klavier in einem Programm mit Ravel, Ysaÿe, Beethoven, Liszt und Prokofjew aufeinander.",
+          "hu": "A Román Atheneumban a hegedű és a zongora Ravel, Ysaÿe, Beethoven, Liszt és Prokofjev művein keresztül találkozik egy esti koncerten.",
+          "ro": "La Ateneul Român, vioara și pianul se întâlnesc într-un program cu lucrări de Ravel, Ysaÿe, Beethoven, Liszt și Prokofiev.",
+          "en": "At the Romanian Athenaeum, violin and piano meet in an evening program featuring Ravel, Ysaÿe, Beethoven, Liszt and Prokofiev."
+        },
+        "date": "2026-09-16",
+        "source_url": "https://festivalenescu.ro/en/george-enescu-international-competition/events/recital-by-marie-ange-nguci-and-hyeonjeong-lee-2851141752"
+      }
+    ]
+  },
+  {
+    "id": "budapest-city",
+    "events": [
+      {
+        "title": {
+          "de": "Sziget Festival 2026",
+          "hu": "Sziget Fesztivál 2026",
+          "ro": "Festivalul Sziget 2026",
+          "en": "Sziget Festival 2026"
+        },
+        "summary": {
+          "de": "Das Großfestival auf der Óbuda-Insel bringt fünf Tage lang internationale Headliner sowie Theater-, Tanz-, Zirkus- und Kulturprogramme nach Budapest.",
+          "hu": "Az Óbudai-sziget nagyfesztiválja öt napon át nemzetközi headlinereket, valamint színházi, tánc-, cirkuszi és kulturális programokat hoz Budapestre.",
+          "ro": "Marele festival de pe Insula Óbuda aduce timp de cinci zile headlineri internaționali, dar și teatru, dans, circ și programe culturale la Budapesta.",
+          "en": "The major festival on Óbuda Island brings five days of international headliners plus theatre, dance, circus and cultural programming to Budapest."
+        },
+        "date": "2026-08-11",
+        "source_url": "https://szigetfestival.com/en/festival-info"
+      },
+      {
+        "title": {
+          "de": "Feierlichkeiten zum St.-Stephans-Tag",
+          "hu": "Szent István-napi programsorozat",
+          "ro": "Seria de evenimente de Ziua Sfântului Ștefan",
+          "en": "St. Stephen's Day Celebrations"
+        },
+        "summary": {
+          "de": "Die offizielle mehrtägige Nationalfeier verteilt Konzerte, Familienprogramme und Kulturveranstaltungen auf zentrale Orte in Budapest.",
+          "hu": "A hivatalos többnapos nemzeti ünnepi sorozat koncerteket, családi programokat és kulturális eseményeket visz Budapest több központi helyszínére.",
+          "ro": "Seria oficială de sărbători naționale desfășoară concerte, programe pentru familii și evenimente culturale în mai multe locuri centrale din Budapesta.",
+          "en": "The official multi-day national celebration spreads concerts, family activities and cultural events across central Budapest venues."
+        },
+        "date": "2026-08-16",
+        "source_url": "https://www.szentistvannap.hu/en"
+      },
+      {
+        "title": {
+          "de": "Festival der Volkskunst",
+          "hu": "Mesterségek Ünnepe",
+          "ro": "Festivalul Meșteșugurilor Populare",
+          "en": "Festival of Folk Arts"
+        },
+        "summary": {
+          "de": "Im Burgviertel von Buda präsentieren Handwerker, Bühnenprogramme, Musik und Tanz vier Tage lang traditionelle Volkskunst aus dem Karpatenbecken.",
+          "hu": "A Budai Várnegyedben négy napon át kézművesek, színpadi programok, zene és tánc mutatják be a Kárpát-medence népi kultúráját.",
+          "ro": "În cartierul Castelului Buda, meșteșugari, spectacole, muzică și dans prezintă timp de patru zile arta populară din Bazinul Carpatic.",
+          "en": "In the Buda Castle district, artisans, stage programs, music and dance showcase folk traditions from the Carpathian Basin over four days."
+        },
+        "date": "2026-08-20",
+        "source_url": "https://mestersegekunnepe.hu/english/"
+      },
+      {
+        "title": {
+          "de": "Budapester Weinfestival 2026",
+          "hu": "Budapesti Borfesztivál 2026",
+          "ro": "Festivalul Vinului de la Budapesta 2026",
+          "en": "Budapest Wine Festival 2026"
+        },
+        "summary": {
+          "de": "Das 35. Weinfestival bringt ungarische und internationale Weingüter, Gastronomie und Kultur in die historische Kulisse der Budaer Burg.",
+          "hu": "A 35. borfesztivál magyar és nemzetközi pincészeteket, gasztronómiát és kulturális programokat hoz a Budai Vár történelmi környezetébe.",
+          "ro": "A 35-a ediție a festivalului reunește crame maghiare și internaționale, gastronomie și programe culturale în decorul istoric al Castelului Buda.",
+          "en": "The 35th edition brings Hungarian and international wineries, gastronomy and cultural programming to the historic setting of Buda Castle."
+        },
+        "date": "2026-09-09",
+        "source_url": "https://aborfesztival.hu/en"
+      },
+      {
+        "title": {
+          "de": "SPAR Budapest Marathon 2026",
+          "hu": "SPAR Budapest Maraton 2026",
+          "ro": "Maratonul SPAR Budapesta 2026",
+          "en": "SPAR Budapest Marathon 2026"
+        },
+        "summary": {
+          "de": "Das zweitägige Laufwochenende führt Marathon- und Freizeitläufer über eine panoramareiche Strecke durch das Stadtzentrum von Budapest.",
+          "hu": "A kétnapos futóhétvége maratonistákat és szabadidős futókat vezet végig Budapest belvárosán egy látványos városi útvonalon.",
+          "ro": "Weekendul de alergare de două zile conduce maratoniști și alergători amatori pe un traseu spectaculos prin centrul Budapestei.",
+          "en": "The two-day running weekend takes marathoners and recreational runners along a scenic route through central Budapest."
+        },
+        "date": "2026-10-10",
+        "source_url": "https://marathon.runinbudapest.com/spar-budapest-marathon-2026/"
+      }
+    ]
+  },
+  {
+    "id": "poland-warsaw-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "WarszeMuzik Kammermusikfestival",
+          "hu": "WarszeMuzik kamarazenei fesztivál",
+          "ro": "Festivalul de muzică de cameră WarszeMuzik",
+          "en": "WarszeMuzik Chamber Music Festival"
+        },
+        "summary": {
+          "de": "Das kostenlose Festival bringt im August an Wochenenden Kammermusik in öffentliche Räume verschiedener Warschauer Viertel.",
+          "hu": "Az ingyenes fesztivál augusztusi hétvégéken kamarazenét visz Varsó különböző negyedeinek köztereire.",
+          "ro": "Festivalul gratuit aduce muzică de cameră în spații publice din diferite cartiere ale Varșoviei, în weekendurile lunii august.",
+          "en": "The free festival brings chamber music into public spaces across different Warsaw neighborhoods on weekends in August."
+        },
+        "date": "2026-08-01",
+        "source_url": "https://go2warsaw.pl/en/events/warszemuzik-festiwal-muzyki-kameralnej-832/"
+      },
+      {
+        "title": {
+          "de": "Neon Muzeum: Ausstellung „City Lights“",
+          "hu": "Neon Muzeum: City Lights kiállítás",
+          "ro": "Neon Muzeum: expoziția „City Lights”",
+          "en": "Neon Muzeum: \"City Lights\" Exhibition"
+        },
+        "summary": {
+          "de": "Das Neon Muzeum eröffnet im Kulturpalast eine neue Ausstellung über das Warschauer Nachtleben und die Neon-Ära der 1970er Jahre.",
+          "hu": "A Neon Muzeum a Kultúrpalotában új kiállítást nyit a varsói éjszakai életről és az 1970-es évek neon-korszakáról.",
+          "ro": "Neon Muzeum deschide în Palatul Culturii și Științei o nouă expoziție despre viața de noapte a Varșoviei și epoca neoanelor din anii 1970.",
+          "en": "The Neon Muzeum opens a new exhibition in the Palace of Culture and Science focused on Warsaw nightlife and the neon era of the 1970s."
+        },
+        "date": "2026-08-01",
+        "source_url": "https://go2warsaw.pl/en/events/muzeum-neonow-powraca-z-wystawa-swiatla-miasta-palac-kultury-i-nauki-440/"
+      },
+      {
+        "title": {
+          "de": "Internationales Musikfestival „Chopin und sein Europa“",
+          "hu": "„Chopin és Európája” nemzetközi zenei fesztivál",
+          "ro": "Festivalul internațional de muzică „Chopin și Europa sa”",
+          "en": "International Music Festival \"Chopin and his Europe\""
+        },
+        "summary": {
+          "de": "Das renommierte Festival widmet sich Chopin und seinem musikalischen Umfeld mit Konzerten an mehreren Warschauer Spielorten.",
+          "hu": "A rangos fesztivál Chopinnek és zenei világának állít középpontot több varsói helyszínen rendezett koncertekkel.",
+          "ro": "Festivalul de prestigiu este dedicat lui Chopin și universului său muzical, cu concerte în mai multe locații din Varșovia.",
+          "en": "The prestigious festival focuses on Chopin and his musical world with concerts across multiple Warsaw venues."
+        },
+        "date": "2026-08-23",
+        "source_url": "https://go2warsaw.pl/en/events/22-miedzynarodowy-festiwal-muzyczny-chopin-i-jego-europa-681/"
+      },
+      {
+        "title": {
+          "de": "Königlicher Garten des Lichts",
+          "hu": "Királyi Fénykert",
+          "ro": "Grădina Regală a Luminii",
+          "en": "Royal Garden of Light"
+        },
+        "summary": {
+          "de": "Im Wilanów-Palast verwandeln großformatige Lichtinstallationen die historischen Gartenanlagen in eine abendliche Winterattraktion.",
+          "hu": "A wilanówi palotánál nagyszabású fényinstallációk alakítják esti téli látványossággá a történelmi kertet.",
+          "ro": "La Palatul Wilanów, instalații luminoase de mari dimensiuni transformă grădinile istorice într-o atracție de seară pentru sezonul rece.",
+          "en": "At Wilanów Palace, large-scale light installations turn the historic gardens into an evening winter attraction."
+        },
+        "date": "2026-10-18",
+        "source_url": "https://go2warsaw.pl/en/events/krolewski-ogrod-swiatla-w-wilanowie-845-942-524/"
+      },
+      {
+        "title": {
+          "de": "Fairy Tales – Stadt der verlorenen Geschichten",
+          "hu": "Fairy Tales – Az elveszett történetek városa",
+          "ro": "Fairy Tales – orașul poveștilor pierdute",
+          "en": "Fairy Tales – The City of Lost Stories"
+        },
+        "summary": {
+          "de": "In der Norblin-Fabrik startet ein neues VR-4D-Erlebnis, das Besucher in eine interaktive Welt klassischer Märchen versetzt.",
+          "hu": "A Norblin-gyárban új VR 4D élmény nyílik, amely a látogatókat a klasszikus mesék interaktív világába vezeti.",
+          "ro": "La Fabrica Norblin debutează o nouă experiență VR 4D care poartă vizitatorii într-o lume interactivă a basmelor clasice.",
+          "en": "A new VR 4D experience opens at Norblin Factory, transporting visitors into an interactive world of classic fairy tales."
+        },
+        "date": "2026-11-14",
+        "source_url": "https://go2warsaw.pl/en/events/fairy-tales-miasto-zaginionych-opowiesci-945/"
+      }
+    ]
+  },
+  {
+    "id": "czechrepublic-prague-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Dvořák Prague 2026: Eröffnungskonzert",
+          "hu": "Dvořák Praha 2026: nyitóhangverseny",
+          "ro": "Dvořák Praga 2026: concertul de deschidere",
+          "en": "Dvořák Prague 2026: Opening Concert"
+        },
+        "summary": {
+          "de": "Das Festival eröffnet im Rudolfinum mit der Filarmonica della Scala unter Riccardo Chailly und einem Programm mit Dvořáks „Aus der Neuen Welt“ und Cellokonzert.",
+          "hu": "A fesztivál a Rudolfinumban indul a Filarmonica della Scala és Riccardo Chailly közreműködésével, Dvořák Újvilág-szimfóniájával és csellóversenyével.",
+          "ro": "Festivalul se deschide la Rudolfinum cu Filarmonica della Scala, dirijată de Riccardo Chailly, și cu lucrări emblematice de Dvořák.",
+          "en": "The festival opens at the Rudolfinum with the Filarmonica della Scala under Riccardo Chailly and a program built around Dvořák's \"New World\" Symphony and Cello Concerto."
+        },
+        "date": "2026-09-05",
+        "source_url": "https://prague.eu/en/akce/dvoraks-prague-2026-opening-concert/"
+      },
+      {
+        "title": {
+          "de": "Designblok 2026",
+          "hu": "Designblok 2026",
+          "ro": "Designblok 2026",
+          "en": "Designblok 2026"
+        },
+        "summary": {
+          "de": "Das größte Design- und Modeschaufenster in Mittel- und Osteuropa bringt zeitgenössisches Produkt-, Interior- und Modedesign an mehrere Prager Orte.",
+          "hu": "Közép- és Kelet-Európa legnagyobb design- és divateseménye kortárs termék-, enteriőr- és divatdizájnt mutat be több prágai helyszínen.",
+          "ro": "Cel mai mare festival de design și modă din Europa Centrală și de Est aduce design contemporan de produs, interior și modă în mai multe locații din Praga.",
+          "en": "Central and Eastern Europe's largest design and fashion showcase brings contemporary product, interior and fashion design to multiple Prague venues."
+        },
+        "date": "2026-10-06",
+        "source_url": "https://prague.eu/en/akce/designblok/"
+      },
+      {
+        "title": {
+          "de": "Signal Festival 2026",
+          "hu": "Signal Festival 2026",
+          "ro": "Signal Festival 2026",
+          "en": "Signal Festival 2026"
+        },
+        "summary": {
+          "de": "Das Festival für digitale und kreative Kultur belebt Prags Straßen und Wahrzeichen mit Lichtinstallationen, Projektionen und immersiver Medienkunst.",
+          "hu": "A digitális és kreatív kultúra fesztiválja fényinstallációkkal, vetítésekkel és immerzív médiaművészettel kelti életre Prága utcáit és ikonikus helyeit.",
+          "ro": "Festivalul de cultură digitală și creativă animă străzile și reperele Pragăi cu instalații de lumină, proiecții și artă media imersivă.",
+          "en": "The festival of digital and creative culture activates Prague's streets and landmarks with light installations, projections and immersive media art."
+        },
+        "date": "2026-10-15",
+        "source_url": "https://prague.eu/en/akce/signal-festival/"
+      },
+      {
+        "title": {
+          "de": "Prague Sounds 2026",
+          "hu": "Prague Sounds 2026",
+          "ro": "Prague Sounds 2026",
+          "en": "Prague Sounds 2026"
+        },
+        "summary": {
+          "de": "Die stadtweite Festivalausgabe verbindet im November internationale Musikgäste, genreübergreifende Konzerte und markante Spielorte in Prag.",
+          "hu": "A novemberi városi fesztivál nemzetközi zenei vendégeket, műfajokon átívelő koncerteket és karakteres prágai helyszíneket kapcsol össze.",
+          "ro": "Ediția de noiembrie a festivalului reunește invitați internaționali, concerte între genuri și locații reprezentative din Praga.",
+          "en": "The November festival edition links international guest artists, cross-genre concerts and distinctive venues across Prague."
+        },
+        "date": "2026-11-02",
+        "source_url": "https://prague.eu/en/akce/prague-sounds-2026-anoushka-shankar/"
+      },
+      {
+        "title": {
+          "de": "Weihnachtsmarkt am Altstädter Ring",
+          "hu": "Óvárosi téri karácsonyi vásár",
+          "ro": "Târgul de Crăciun din Piața Orașului Vechi",
+          "en": "Old Town Square Christmas Market"
+        },
+        "summary": {
+          "de": "Der große Adventsmarkt im historischen Zentrum füllt den Altstädter Ring mit festlichen Ständen, Dekor und typisch tschechischer Weihnachtsatmosphäre.",
+          "hu": "A történelmi központ nagy adventi vására ünnepi standokkal, díszítéssel és jellegzetes cseh karácsonyi hangulattal tölti meg az Óvárosi teret.",
+          "ro": "Marele târg de Advent din centrul istoric umple Piața Orașului Vechi de tarabe festive, decor și atmosferă tradițională cehă de Crăciun.",
+          "en": "The major Advent market in the historic center fills Old Town Square with festive stalls, decorations and classic Czech Christmas atmosphere."
+        },
+        "date": "2026-11-28",
+        "source_url": "https://prague.eu/en/akce/old-town-square-christmas-market/"
+      }
+    ]
+  },
+  {
+    "id": "city-stockholm",
+    "events": [
+      {
+        "title": {
+          "de": "Stockholm Pride 2026",
+          "hu": "Stockholm Pride 2026",
+          "ro": "Stockholm Pride 2026",
+          "en": "Stockholm Pride 2026"
+        },
+        "summary": {
+          "de": "Nordeuropas größte Pride-Feier verteilt Konzerte, Debatten, Community-Programme und die große Parade über mehrere Orte in Stockholm.",
+          "hu": "Észak-Európa legnagyobb Pride-rendezvénye koncerteket, beszélgetéseket, közösségi programokat és a nagy felvonulást hozza el Stockholm több helyszínére.",
+          "ro": "Cea mai mare sărbătoare Pride din nordul Europei aduce concerte, dezbateri, programe comunitare și marea paradă în mai multe locuri din Stockholm.",
+          "en": "Northern Europe's largest Pride celebration spreads concerts, talks, community programs and the main parade across Stockholm."
+        },
+        "date": "2026-07-27",
+        "source_url": "https://www.visitstockholm.com/events/stockholm-pride-2022/2026-07-27/"
+      },
+      {
+        "title": {
+          "de": "Stockholmer Kulturfestival 2026",
+          "hu": "Stockholmi Kulturfesztivál 2026",
+          "ro": "Festivalul de Cultură din Stockholm 2026",
+          "en": "Stockholm Culture Festival 2026"
+        },
+        "summary": {
+          "de": "Das größte Kulturfestival der Stadt bietet bei freiem Eintritt mehrere Tage mit Aufführungen, Aktivitäten und Unterhaltung an verschiedenen Orten in Stockholm.",
+          "hu": "A város legnagyobb kulturális fesztiválja ingyenes belépéssel több napon át kínál előadásokat, programokat és szórakozást Stockholm különböző pontjain.",
+          "ro": "Cel mai mare festival cultural al orașului oferă, cu intrare liberă, mai multe zile de spectacole, activități și divertisment în diverse locuri din Stockholm.",
+          "en": "The city's largest cultural festival offers several days of free performances, activities and entertainment at venues around Stockholm."
+        },
+        "date": "2026-08-12",
+        "source_url": "https://www.visitstockholm.com/events/stockholm-culture-festival/2026-08-12/"
+      },
+      {
+        "title": {
+          "de": "Midnattsloppet 2026",
+          "hu": "Midnattsloppet 2026",
+          "ro": "Midnattsloppet 2026",
+          "en": "Midnattsloppet 2026"
+        },
+        "summary": {
+          "de": "Der nächtliche 10-Kilometer-Lauf durch Södermalm verbindet Sport mit Musik-, Licht- und Straßenfeststimmung entlang der Strecke.",
+          "hu": "A Södermalmon átvezető éjszakai 10 kilométeres futás a sportot zenei, fény- és utcai fesztiválhangulattal kapcsolja össze.",
+          "ro": "Cursa nocturnă de 10 kilometri prin Södermalm combină sportul cu muzică, lumină și atmosferă de festival stradal de-a lungul traseului.",
+          "en": "The nighttime 10-kilometer race through Södermalm blends sport with music, lighting and street-festival atmosphere along the route."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://www.visitstockholm.com/events/midnattsloppet-midnight-run/2026-08-15/1200/0100/"
+      },
+      {
+        "title": {
+          "de": "adidas Stockholm Half Marathon 2026",
+          "hu": "adidas Stockholm Félmaraton 2026",
+          "ro": "Semimaratonul adidas Stockholm 2026",
+          "en": "adidas Stockholm Half Marathon 2026"
+        },
+        "summary": {
+          "de": "Der Halbmarathon führt Läufer auf 21,1 Kilometern vom Königsschloss durch zentrale Stadtteile bis zurück ins historische Zentrum.",
+          "hu": "A félmaraton 21,1 kilométeren vezeti a futókat a királyi palotától Stockholm központi városrészein át vissza a történelmi központba.",
+          "ro": "Semimaratonul îi poartă pe alergători pe 21,1 kilometri de la Palatul Regal prin cartierele centrale ale orașului și înapoi în centrul istoric.",
+          "en": "The half marathon takes runners on a 21.1-kilometer tour from the Royal Castle through central districts and back to the historic core."
+        },
+        "date": "2026-08-29",
+        "source_url": "https://www.visitstockholm.com/events/ramboll-stockholm-halvmarathon-2/2026-08-29/"
+      },
+      {
+        "title": {
+          "de": "Open House Stockholm 2026",
+          "hu": "Open House Stockholm 2026",
+          "ro": "Open House Stockholm 2026",
+          "en": "Open House Stockholm 2026"
+        },
+        "summary": {
+          "de": "Das Architekturwochenende öffnet in Stockholm bei freiem Eintritt Gebäude und Stadtorte, die sonst oft nicht öffentlich zugänglich sind.",
+          "hu": "Az építészeti hétvége ingyenes vezetések mellett olyan stockholmi épületeket és városi helyszíneket nyit meg, amelyek általában nem látogathatók.",
+          "ro": "Weekendul de arhitectură deschide gratuit vizitatorilor clădiri și spații urbane din Stockholm care nu sunt de obicei accesibile publicului.",
+          "en": "The architecture weekend opens buildings and urban spaces across Stockholm that are often not otherwise accessible to the public."
+        },
+        "date": "2026-10-02",
+        "source_url": "https://www.visitstockholm.com/events/open-house-stockholm-2026/2026-10-02/"
+      }
+    ]
+  }
+]

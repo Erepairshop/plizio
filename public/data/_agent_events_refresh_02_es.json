@@ -1,0 +1,347 @@
+[
+  {
+    "id": "madrid",
+    "events": [
+      {
+        "title": {
+          "de": "Fiestas de Agosto 2026",
+          "hu": "2026-os augusztusi városi ünnepek",
+          "ro": "Fiestas de Agosto 2026",
+          "en": "August Festivities 2026"
+        },
+        "summary": {
+          "de": "Madrid feiert im August seine traditionsreichen Volksfeste mit Programmen zu San Cayetano, San Lorenzo und Virgen de la Paloma in mehreren zentralen Vierteln.",
+          "hu": "Madrid augusztusban a hagyományos nyári városi ünnepeket tartja meg San Cayetano, San Lorenzo és Virgen de la Paloma programjaival több belvárosi negyedben.",
+          "ro": "Madrid își celebrează în august marile sărbători populare, cu programe dedicate San Cayetano, San Lorenzo și Virgen de la Paloma în mai multe cartiere centrale.",
+          "en": "Madrid’s traditional August street festivities fill central neighborhoods with celebrations for San Cayetano, San Lorenzo and Virgen de la Paloma."
+        },
+        "date": "2026-08-05",
+        "source_url": "https://www.esmadrid.com/agenda-eventos-madrid"
+      },
+      {
+        "title": {
+          "de": "APERTURA Madrid Gallery Weekend 2026",
+          "hu": "APERTURA Madrid Gallery Weekend 2026",
+          "ro": "APERTURA Madrid Gallery Weekend 2026",
+          "en": "APERTURA Madrid Gallery Weekend 2026"
+        },
+        "summary": {
+          "de": "Mehr als fünfzig Galerien und Museen eröffnen die Madrider Kunstsaison mit verlängerten Öffnungszeiten, Ausstellungen und Veranstaltungen für ein breites Publikum.",
+          "hu": "Több mint ötven galéria és múzeum nyitja meg a madridi művészeti szezont hosszabb nyitvatartással, kiállításokkal és kísérőprogramokkal.",
+          "ro": "Peste cincizeci de galerii și muzee deschid sezonul de artă din Madrid cu program prelungit, expoziții și evenimente pentru publicul larg.",
+          "en": "More than fifty galleries and museums launch Madrid’s art season with extended hours, exhibitions and public programming."
+        },
+        "date": "2026-09-10",
+        "source_url": "https://www.esmadrid.com/en/whats-on/apertura-arte-madrid"
+      },
+      {
+        "title": {
+          "de": "Mercedes-Benz Fashion Week Madrid 2026",
+          "hu": "Mercedes-Benz Fashion Week Madrid 2026",
+          "ro": "Mercedes-Benz Fashion Week Madrid 2026",
+          "en": "Mercedes-Benz Fashion Week Madrid 2026"
+        },
+        "summary": {
+          "de": "Auf dem IFEMA-Gelände präsentiert Madrids wichtigste Modewoche internationale und spanische Designer mit den Trends für die Saison Frühjahr/Sommer 2027.",
+          "hu": "Az IFEMA területén megrendezett divathét nemzetközi és spanyol tervezők kollekcióival mutatja be a 2027-es tavasz-nyár trendjeit.",
+          "ro": "La IFEMA, principala săptămână a modei din Madrid reunește designeri spanioli și internaționali și prezintă tendințele pentru primăvara-vara 2027.",
+          "en": "Held at IFEMA, Madrid’s flagship fashion week showcases Spanish and international designers and the key spring-summer 2027 trends."
+        },
+        "date": "2026-09-14",
+        "source_url": "https://www.esmadrid.com/en/whats-on/mercedes-benz-fashion-week-madrid-ifema-madrid"
+      },
+      {
+        "title": {
+          "de": "JAZZMADRID26",
+          "hu": "JAZZMADRID26",
+          "ro": "JAZZMADRID26",
+          "en": "JAZZMADRID26"
+        },
+        "summary": {
+          "de": "Das internationale Jazzfestival bespielt im Herbst mehrere Kulturhäuser und Konzertsäle in Madrid mit einem breit gefächerten Programm von klassischem bis experimentellem Jazz.",
+          "hu": "Az őszi nemzetközi jazzfesztivál Madrid több kulturális helyszínén és koncerttermében kínál klasszikus és kísérleti jazzprogramokat.",
+          "ro": "Festivalul internațional de jazz animă toamna madrilenă în mai multe centre culturale și săli de concerte, cu programe de la jazz clasic la sonorități experimentale.",
+          "en": "Madrid’s international jazz festival spreads across major cultural venues each autumn with programming from classic jazz to more experimental sounds."
+        },
+        "date": "2026-10-01",
+        "source_url": "https://www.esmadrid.com/en/whats-on/jazzmadrid-festival-internacional-de-jazz-de-madrid"
+      }
+    ]
+  },
+  {
+    "id": "barcelona",
+    "events": [
+      {
+        "title": {
+          "de": "Circuit Festival 2026",
+          "hu": "Circuit Festival 2026",
+          "ro": "Circuit Festival 2026",
+          "en": "Circuit Festival 2026"
+        },
+        "summary": {
+          "de": "Eines der größten LGBTI-Freizeitfestivals Europas bringt Anfang August Strand-, Pool- und Nachtveranstaltungen in die Stadt.",
+          "hu": "Augusztus elején Európa egyik legnagyobb LGBTI szabadidős fesztiválja strand-, medence- és éjszakai programokkal tölti meg Barcelonát.",
+          "ro": "La început de august, unul dintre cele mai mari festivaluri LGBTI de lifestyle din Europa aduce la Barcelona evenimente pe plajă, la piscină și de noapte.",
+          "en": "One of Europe’s biggest LGBTI leisure festivals brings beach, pool and nightlife events to Barcelona in early August."
+        },
+        "date": "2026-08-01",
+        "source_url": "https://circuitfestival.net/"
+      },
+      {
+        "title": {
+          "de": "Extreme Barcelona Festival 2026",
+          "hu": "Extreme Barcelona Festival 2026",
+          "ro": "Extreme Barcelona Festival 2026",
+          "en": "Extreme Barcelona Festival 2026"
+        },
+        "summary": {
+          "de": "Im Parc del Fòrum treffen sich Europas Actionsport-Fans zu Wettkämpfen in BMX, Skate, Scooter und Breaking.",
+          "hu": "A Parc del Fòrum Európa akciósport-rajongóit fogadja BMX-, gördeszka-, roller- és breakingversenyekkel.",
+          "ro": "Parc del Fòrum găzduiește unul dintre cele mai mari evenimente europene de sporturi urbane, cu probe de BMX, skate, scooter și breaking.",
+          "en": "Parc del Fòrum hosts one of Europe’s major urban sports events with BMX, skate, scooter and breaking competitions."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://extremebarcelona.com/"
+      },
+      {
+        "title": {
+          "de": "Barcelona Gallery Weekend 2026",
+          "hu": "Barcelona Gallery Weekend 2026",
+          "ro": "Barcelona Gallery Weekend 2026",
+          "en": "Barcelona Gallery Weekend 2026"
+        },
+        "summary": {
+          "de": "Barcelonas Galerien eröffnen die Kunstsaison mit Ausstellungen, Führungen, Gesprächen und Performances für Sammler und neugierige Besucher.",
+          "hu": "Barcelona galériái kiállításokkal, tárlatvezetésekkel, beszélgetésekkel és performanszokkal nyitják meg az őszi művészeti szezont.",
+          "ro": "Galeriile Barcelonei deschid sezonul artistic de toamnă cu expoziții, tururi ghidate, conversații și performance-uri.",
+          "en": "Barcelona’s galleries open the autumn art season with exhibitions, guided visits, talks and performances."
+        },
+        "date": "2026-09-17",
+        "source_url": "https://www.barcelonagalleryweekend.com/"
+      },
+      {
+        "title": {
+          "de": "Barcelona International Boat Show 2026",
+          "hu": "Barcelona International Boat Show 2026",
+          "ro": "Barcelona International Boat Show 2026",
+          "en": "Barcelona International Boat Show 2026"
+        },
+        "summary": {
+          "de": "Die große Bootsmesse in Port Vell zeigt Segelboote, Yachten und neue nautische Technologien und zählt zu den wichtigsten maritimen Publikumsevents der Stadt.",
+          "hu": "A Port Vellben rendezett nagy hajókiállítás vitorlásokat, jachtokat és új tengeri technológiákat mutat be, és a város egyik kiemelt nyilvános eseménye.",
+          "ro": "Marele salon nautic din Port Vell prezintă veleiere, iahturi și tehnologii maritime noi și este unul dintre cele mai importante evenimente publice ale toamnei.",
+          "en": "Port Vell’s major boat show presents sailboats, yachts and new marine technology in one of the city’s headline autumn events."
+        },
+        "date": "2026-10-14",
+        "source_url": "https://www.salonnautico.com/"
+      }
+    ]
+  },
+  {
+    "id": "spain-seville-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Bienal de Flamenco de Sevilla 2026",
+          "hu": "Sevillai Flamenco Biennálé 2026",
+          "ro": "Bienala de Flamenco din Sevilla 2026",
+          "en": "Seville Flamenco Biennial 2026"
+        },
+        "summary": {
+          "de": "Sevillas bedeutendstes Flamencoereignis bringt im September und Anfang Oktober Aufführungen in mehreren ikonischen Spielstätten der Stadt zusammen.",
+          "hu": "Sevilla legfontosabb flamencoeseménye szeptemberben és október elején a város több ikonikus helyszínén kínál előadásokat.",
+          "ro": "Cel mai important eveniment flamenco din Sevilla aduce în septembrie și la început de octombrie spectacole în mai multe spații emblematice ale orașului.",
+          "en": "Seville’s flagship flamenco event fills iconic venues across the city with performances through September and early October."
+        },
+        "date": "2026-09-09",
+        "source_url": "https://visitasevilla.es/ahora-en-sevilla/"
+      },
+      {
+        "title": {
+          "de": "Festival de la Guitarra de Sevilla 2026",
+          "hu": "Sevillai Gitárfesztivál 2026",
+          "ro": "Festivalul de Chitară din Sevilla 2026",
+          "en": "Seville Guitar Festival 2026"
+        },
+        "summary": {
+          "de": "Das Herbstfestival widmet sich der Gitarre mit Konzerten und einem konzentrierten Musikprogramm über mehrere Wochen in Sevilla.",
+          "hu": "Az őszi fesztivál a gitár köré épülő koncertekkel és többhetes zenei programmal várja a közönséget Sevillában.",
+          "ro": "Festivalul de toamnă dedicat chitarei propune concerte și un program muzical desfășurat pe parcursul mai multor săptămâni în Sevilla.",
+          "en": "This autumn festival centers on the guitar with concerts and several weeks of music programming in Seville."
+        },
+        "date": "2026-10-15",
+        "source_url": "https://visitasevilla.es/ahora-en-sevilla/"
+      },
+      {
+        "title": {
+          "de": "SICAB 2026",
+          "hu": "SICAB 2026",
+          "ro": "SICAB 2026",
+          "en": "SICAB 2026"
+        },
+        "summary": {
+          "de": "Die internationale Pferdemesse in FIBES vereint Zucht, Reitsport, Shows und den Wettbewerb für reinrassige spanische Pferde.",
+          "hu": "A FIBES-ben rendezett nemzetközi lóvásár tenyésztést, lovassportot, bemutatókat és a tisztavérű spanyol lovak versenyét kapcsolja össze.",
+          "ro": "Salonul internațional ecvestru de la FIBES reunește creșterea cailor, competiții, spectacole și campionatul dedicat calului spaniol de rasă pură.",
+          "en": "The international horse fair at FIBES combines breeding, competition and show programming around the pure Spanish horse."
+        },
+        "date": "2026-11-17",
+        "source_url": "https://www.sicab.org/pagina/visitantes/sicab/?idi=2"
+      },
+      {
+        "title": {
+          "de": "Bublé Christmas Tribute 2026",
+          "hu": "Bublé Christmas Tribute 2026",
+          "ro": "Bublé Christmas Tribute 2026",
+          "en": "Bublé Christmas Tribute 2026"
+        },
+        "summary": {
+          "de": "Im Dezember startet in FIBES ein festlicher Big-Band-Abend mit Weihnachtsklassikern und Showatmosphäre als Teil der Wintersaison in Sevilla.",
+          "hu": "Decemberben a FIBES ünnepi hangulatú big band esttel és karácsonyi klasszikusokkal nyitja a sevillai téli szezont.",
+          "ro": "În decembrie, FIBES deschide sezonul festiv cu un concert big band inspirat de repertoriul de Crăciun și atmosfera de spectacol.",
+          "en": "FIBES opens Seville’s festive season with a big-band Christmas tribute show in early December."
+        },
+        "date": "2026-12-07",
+        "source_url": "https://visitasevilla.es/ahora-en-sevilla/"
+      }
+    ]
+  },
+  {
+    "id": "spain-malaga-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Feria de Málaga 2026",
+          "hu": "Málagai Vásár 2026",
+          "ro": "Feria de Málaga 2026",
+          "en": "Málaga Fair 2026"
+        },
+        "summary": {
+          "de": "Málagas wichtigste Sommerfiesta verwandelt Altstadt und Festgelände mit Musik, Tanz, Tagesprogramm und nächtlicher Feria in ein großes Volksfest.",
+          "hu": "Málaga legnagyobb nyári ünnepe zenével, tánccal, nappali belvárosi programokkal és éjszakai vásári hangulattal tölti meg a várost.",
+          "ro": "Cea mai mare sărbătoare de vară din Málaga animă centrul istoric și zona de târg cu muzică, dans și program festiv de zi și de noapte.",
+          "en": "Málaga’s biggest summer celebration fills the historic center and fairground with music, dancing and day-to-night festivities."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://www.malaga.eu/feria-de-malaga/"
+      },
+      {
+        "title": {
+          "de": "S!ngulares 2026",
+          "hu": "S!ngulares 2026",
+          "ro": "S!ngulares 2026",
+          "en": "S!ngulares 2026"
+        },
+        "summary": {
+          "de": "Die Konzertreihe im Teatro Cervantes bringt im Herbst ein populäres Programm mit nationalen und internationalen Acts nach Málaga.",
+          "hu": "A Teatro Cervantes őszi koncertsorozata népszerű spanyol és nemzetközi előadókat hoz Málagába.",
+          "ro": "Seria de concerte de toamnă de la Teatro Cervantes aduce la Málaga artiști populari din Spania și din străinătate.",
+          "en": "This autumn concert series at Teatro Cervantes brings a popular lineup of Spanish and international performers to Málaga."
+        },
+        "date": "2026-09-18",
+        "source_url": "https://www.teatrocervantes.com/en/ciclos-y-festivales/s-ngulares-2026/"
+      },
+      {
+        "title": {
+          "de": "Danza Málaga 2026",
+          "hu": "Danza Málaga 2026",
+          "ro": "Danza Málaga 2026",
+          "en": "Danza Málaga 2026"
+        },
+        "summary": {
+          "de": "Die städtische Tanzreihe bringt im Oktober zeitgenössische und spanische Tanzproduktionen auf die Bühne des Teatro Cervantes.",
+          "hu": "Az októberi városi táncsorozat kortárs és spanyol táncelőadásokat mutat be a Teatro Cervantes színpadán.",
+          "ro": "Programul de dans al orașului aduce în octombrie pe scena Teatro Cervantes producții contemporane și spaniole de dans.",
+          "en": "Málaga’s dance series brings contemporary and Spanish stage productions to Teatro Cervantes in October."
+        },
+        "date": "2026-10-15",
+        "source_url": "https://www.teatrocervantes.com/en/ciclos-y-festivales/danza-malaga-2026/"
+      },
+      {
+        "title": {
+          "de": "40. Internationales Jazzfestival Málaga",
+          "hu": "40. Málagai Nemzetközi Jazzfesztivál",
+          "ro": "Al 40-lea Festival Internațional de Jazz Málaga",
+          "en": "40th Málaga International Jazz Festival"
+        },
+        "summary": {
+          "de": "Das Jubiläumsfestival im Teatro Cervantes präsentiert Anfang November mehrere Abende mit internationalem Jazz in der Innenstadt von Málaga.",
+          "hu": "A jubileumi jazzfesztivál november elején több esten át nemzetközi fellépőket hoz a Teatro Cervantesbe.",
+          "ro": "Festivalul aniversar de jazz propune la început de noiembrie mai multe seri cu artiști internaționali în Teatro Cervantes.",
+          "en": "The anniversary jazz festival brings several nights of international performances to Teatro Cervantes in early November."
+        },
+        "date": "2026-11-03",
+        "source_url": "https://www.teatrocervantes.com/en/ciclos-y-festivales/40-festival-internacional-de-jazz/"
+      }
+    ]
+  },
+  {
+    "id": "spain-palma-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "44. Copa del Rey MAPFRE",
+          "hu": "44. Copa del Rey MAPFRE",
+          "ro": "A 44-a Copa del Rey MAPFRE",
+          "en": "44th Copa del Rey MAPFRE"
+        },
+        "summary": {
+          "de": "Die renommierte Segelregatta bringt Anfang August eine internationale Flotte in die Bucht von Palma und zählt zu den großen Sportereignissen des Mittelmeers.",
+          "hu": "Az augusztus eleji rangos vitorlásverseny nemzetközi flottát hoz Palma öblébe, és a Földközi-tenger egyik kiemelt sporteseménye.",
+          "ro": "Regata de prestigiu aduce la început de august o flotă internațională în golful Palma și este unul dintre marile evenimente sportive ale Mediteranei.",
+          "en": "This prestigious regatta brings an international fleet to Palma Bay in early August and ranks among the Mediterranean’s major sailing events."
+        },
+        "date": "2026-08-01",
+        "source_url": "https://visitpalma.com/en/event/44o-copa-del-rey-mapfre/"
+      },
+      {
+        "title": {
+          "de": "Totale Sonnenfinsternis in Palma 2026",
+          "hu": "Teljes napfogyatkozás Palmában 2026",
+          "ro": "Eclipsă totală de soare la Palma 2026",
+          "en": "Total Solar Eclipse in Palma 2026"
+        },
+        "summary": {
+          "de": "Palma erlebt im August ein außergewöhnliches Himmelsereignis, wenn die totale Sonnenfinsternis die Stadt für kurze Zeit in dämmriges Licht taucht.",
+          "hu": "Palma augusztusban rendkívüli égi jelenséget él át, amikor a teljes napfogyatkozás rövid időre alkonyi fénybe borítja a várost.",
+          "ro": "În august, Palma va trăi un fenomen astronomic excepțional, când eclipsa totală de soare va cufunda orașul pentru scurt timp într-o lumină de amurg.",
+          "en": "Palma will experience a rare astronomical spectacle in August when a total solar eclipse briefly plunges the city into dusk-like light."
+        },
+        "date": "2026-08-12",
+        "source_url": "https://visitpalma.com/en/event/total-solar-eclipse-in-palma-august-12-2026/"
+      },
+      {
+        "title": {
+          "de": "Port of Palma Triathlon Mallorca 2026",
+          "hu": "Port of Palma Triathlon Mallorca 2026",
+          "ro": "Port of Palma Triathlon Mallorca 2026",
+          "en": "Port of Palma Triathlon Mallorca 2026"
+        },
+        "summary": {
+          "de": "Der Triathlon am Hafen von Palma bietet Ende September Schwimm-, Rad- und Laufstrecken entlang der Uferpromenade und des Hafengebiets.",
+          "hu": "A szeptember végi palmai kikötői triatlon úszó-, kerékpáros és futószakaszokat kínál a tengerparti sétány és a kikötő környezetében.",
+          "ro": "Triatlonul din Portul Palma propune la final de septembrie probe de înot, ciclism și alergare pe trasee de pe faleză și din jurul portului.",
+          "en": "This late-September triathlon uses Palma’s waterfront and port areas for swim, bike and run courses."
+        },
+        "date": "2026-09-26",
+        "source_url": "https://visitpalma.com/en/event/port-of-palma-triathlon-mallorca-2026/"
+      },
+      {
+        "title": {
+          "de": "Evolution Mallorca International Film Festival 2026",
+          "hu": "Evolution Mallorca International Film Festival 2026",
+          "ro": "Evolution Mallorca International Film Festival 2026",
+          "en": "Evolution Mallorca International Film Festival 2026"
+        },
+        "summary": {
+          "de": "Das internationale Filmfestival in Palma verbindet Ende Oktober und Anfang November Vorführungen, Branchenveranstaltungen und ein internationales Filmprogramm.",
+          "hu": "A nemzetközi filmfesztivál október végén és november elején vetítésekkel, szakmai programokkal és nemzetközi kínálattal érkezik Palmába.",
+          "ro": "Festivalul internațional de film din Palma reunește la final de octombrie și început de noiembrie proiecții, evenimente de industrie și un program internațional.",
+          "en": "Palma’s international film festival combines screenings, industry events and a global program in late October and early November."
+        },
+        "date": "2026-10-28",
+        "source_url": "https://www.evolutionfilmfestival.com/"
+      }
+    ]
+  }
+]

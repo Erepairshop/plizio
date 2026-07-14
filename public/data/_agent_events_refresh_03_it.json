@@ -1,0 +1,363 @@
+[
+  {
+    "id": "rome",
+    "events": [
+      {
+        "title": {
+          "de": "Romaeuropa: SUMMERLAND",
+          "hu": "Romaeuropa: SUMMERLAND",
+          "ro": "Romaeuropa: SUMMERLAND",
+          "en": "Romaeuropa: SUMMERLAND"
+        },
+        "summary": {
+          "de": "Ein Abend des Romaeuropa Festivals mit Benjamin Millepied im Auditorium Conciliazione, ideal für Reisende, die zeitgenössischen Tanz in einer zentralen Spielstätte erleben möchten.",
+          "hu": "A Romaeuropa Fesztivál egyik estje Benjamin Millepied előadásával az Auditorium Conciliazione helyszínen, jó választás azoknak, akik kortárs táncot látnának központi helyen.",
+          "ro": "O seară din cadrul Romaeuropa Festival cu Benjamin Millepied la Auditorium Conciliazione, potrivită pentru călătorii care vor să vadă dans contemporan într-o sală centrală.",
+          "en": "A Romaeuropa Festival evening with Benjamin Millepied at Auditorium Conciliazione, a strong pick for travelers wanting contemporary dance in a central venue."
+        },
+        "date": "2026-09-14",
+        "source_url": "https://romaeuropa.net/en/festival-2026/summerland/"
+      },
+      {
+        "title": {
+          "de": "Romaeuropa: KA-IN",
+          "hu": "Romaeuropa: KA-IN",
+          "ro": "Romaeuropa: KA-IN",
+          "en": "Romaeuropa: KA-IN"
+        },
+        "summary": {
+          "de": "Die Compagnie Accrorap bringt eine energiegeladene Mischung aus Hip-Hop, Zirkus und Tanz ins Teatro Brancaccio während des Romaeuropa Festivals.",
+          "hu": "A Compagnie Accrorap lendületes hiphop-, cirkusz- és táncelőadást hoz a Teatro Brancaccióba a Romaeuropa Fesztivál idején.",
+          "ro": "Compagnie Accrorap aduce la Teatro Brancaccio un spectacol energic care combină hip-hop, circ și dans în cadrul Romaeuropa Festival.",
+          "en": "Compagnie Accrorap brings an energetic blend of hip-hop, circus, and dance to Teatro Brancaccio during the Romaeuropa Festival."
+        },
+        "date": "2026-09-26",
+        "source_url": "https://romaeuropa.net/en/festival-2026/ka-in/"
+      },
+      {
+        "title": {
+          "de": "Rome Film Fest",
+          "hu": "Rome Film Fest",
+          "ro": "Rome Film Fest",
+          "en": "Rome Film Fest"
+        },
+        "summary": {
+          "de": "Das internationale Filmfestival von Rom kehrt mit Vorführungen, Premieren und rotem Teppich im Auditorium Parco della Musica und an weiteren Orten der Hauptstadt zurück.",
+          "hu": "Róma nemzetközi filmfesztiválja vetítésekkel, premiérekkel és vörös szőnyeges eseményekkel tér vissza az Auditorium Parco della Musica és más városi helyszínekre.",
+          "ro": "Festivalul internațional de film al Romei revine cu proiecții, premiere și covor roșu la Auditorium Parco della Musica și în alte spații ale capitalei.",
+          "en": "Rome’s international film festival returns with screenings, premieres, and red-carpet events at Auditorium Parco della Musica and other venues across the capital."
+        },
+        "date": "2026-10-14",
+        "source_url": "https://www.romacinemafest.it/en/rome-film-fest/presentation/"
+      },
+      {
+        "title": {
+          "de": "Maker Faire Rome",
+          "hu": "Maker Faire Rome",
+          "ro": "Maker Faire Rome",
+          "en": "Maker Faire Rome"
+        },
+        "summary": {
+          "de": "Das große Innovationsfestival im Gazometro Ostiense bietet drei öffentliche Tage mit Ausstellungen, Workshops, Talks und Familienaktivitäten rund um Technik und Kreativität.",
+          "hu": "A Gazometro Ostiense területén megrendezett nagy innovációs fesztivál három nyilvános napon át kínál kiállításokat, workshopokat, előadásokat és családi programokat technológia és kreativitás témában.",
+          "ro": "Marele festival de inovație de la Gazometro Ostiense oferă trei zile publice cu expoziții, ateliere, discuții și activități pentru familii dedicate tehnologiei și creativității.",
+          "en": "The major innovation festival at Gazometro Ostiense offers three public days of exhibits, workshops, talks, and family-friendly activities focused on technology and creativity."
+        },
+        "date": "2026-10-23",
+        "source_url": "https://makerfairerome.eu/en/how-to-apply/"
+      }
+    ]
+  },
+  {
+    "id": "milan",
+    "events": [
+      {
+        "title": {
+          "de": "Vogue World 2026",
+          "hu": "Vogue World 2026",
+          "ro": "Vogue World 2026",
+          "en": "Vogue World 2026"
+        },
+        "summary": {
+          "de": "Die Galleria Vittorio Emanuele II wird zur Bühne für Vogue World und eröffnet eine hochkarätige Modewoche mit starkem Stadtbild-Effekt im Zentrum von Mailand.",
+          "hu": "A Galleria Vittorio Emanuele II ad otthont a Vogue World eseménynek, amely látványos nyitánya a milánói divathétnek a belvárosban.",
+          "ro": "Galleria Vittorio Emanuele II devine scena Vogue World, deschizând spectaculos săptămâna modei din Milano chiar în centrul orașului.",
+          "en": "Galleria Vittorio Emanuele II becomes the stage for Vogue World, kicking off Milan’s fashion week with a major city-center spectacle."
+        },
+        "date": "2026-09-22",
+        "source_url": "https://www.yesmilano.it/en/whats-on/all-events/milano-fashion-week-women"
+      },
+      {
+        "title": {
+          "de": "Milano Fashion Week Damenkollektionen",
+          "hu": "Milánói női divathét",
+          "ro": "Milano Fashion Week pentru colecții feminine",
+          "en": "Milano Fashion Week Women's Collection"
+        },
+        "summary": {
+          "de": "Die Damenmodewoche bringt Laufstegshows, Präsentationen und internationale Aufmerksamkeit in mehrere Viertel Mailands und prägt die Stadt eine ganze Woche lang.",
+          "hu": "A női divathét kifutókat, bemutatókat és nemzetközi nyüzsgést hoz Milánó több negyedébe egy teljes héten át.",
+          "ro": "Săptămâna modei feminine aduce defilări, prezentări și un aflux internațional în mai multe cartiere ale orașului pentru o săptămână întreagă.",
+          "en": "The women’s fashion week brings runway shows, presentations, and international buzz across several Milan districts for a full week."
+        },
+        "date": "2026-09-22",
+        "source_url": "https://www.yesmilano.it/en/whats-on/all-events/events-not-be-missed-2026"
+      },
+      {
+        "title": {
+          "de": "EICMA 2026",
+          "hu": "EICMA 2026",
+          "ro": "EICMA 2026",
+          "en": "EICMA 2026"
+        },
+        "summary": {
+          "de": "Die weltweit bekannte Motorradmesse in Fiera Milano Rho öffnet mehrere Publikumstage mit neuen Modellen, Markenständen und Begleitprogramm für Zweiradfans.",
+          "hu": "A világhírű motoros szakkiállítás a Fiera Milano Rhóban több nyilvános napon át várja a látogatókat új modellekkel, márkakiállítókkal és kísérőprogramokkal.",
+          "ro": "Celebrul salon internațional de motociclete de la Fiera Milano Rho are mai multe zile deschise publicului, cu modele noi, standuri de brand și program conex.",
+          "en": "The globally known motorcycle show at Fiera Milano Rho opens multiple public days with new models, brand stands, and side events for two-wheel fans."
+        },
+        "date": "2026-11-05",
+        "source_url": "https://www.eicma.it/en/visit/general-info/"
+      },
+      {
+        "title": {
+          "de": "Artigiano in Fiera 2026",
+          "hu": "Artigiano in Fiera 2026",
+          "ro": "Artigiano in Fiera 2026",
+          "en": "Artigiano in Fiera 2026"
+        },
+        "summary": {
+          "de": "Die große Handwerksmesse in Fieramilano Rho vereint Aussteller aus aller Welt und ist besonders attraktiv für Reisende, die Essen, Geschenke und regionale Produkte suchen.",
+          "hu": "A nagy kézműves vásár a Fieramilano Rhóban a világ számos kiállítóját gyűjti össze, és különösen érdekes azoknak az utazóknak, akik ételeket, ajándékokat és helyi termékeket keresnek.",
+          "ro": "Marele târg de artizanat de la Fieramilano Rho reunește expozanți din toată lumea și este util călătorilor care caută gastronomie, cadouri și produse regionale.",
+          "en": "The major craft fair at Fieramilano Rho gathers exhibitors from around the world and is especially useful for travelers looking for food, gifts, and regional products."
+        },
+        "date": "2026-12-05",
+        "source_url": "https://espositori.artigianoinfiera.it/index-en.html"
+      }
+    ]
+  },
+  {
+    "id": "naples",
+    "events": [
+      {
+        "title": {
+          "de": "Estate a Napoli 2026",
+          "hu": "Estate a Napoli 2026",
+          "ro": "Estate a Napoli 2026",
+          "en": "Estate a Napoli 2026"
+        },
+        "summary": {
+          "de": "Das städtische Sommerprogramm bringt bis September Kino, Musik, Theater und Tanz in viele Teile Neapels und ist besonders nützlich für flexible Abendplanung.",
+          "hu": "A városi nyári programsorozat szeptemberig filmet, zenét, színházat és táncot visz Nápoly számos részére, így kifejezetten hasznos rugalmas esti programhoz.",
+          "ro": "Programul estival al orașului aduce până în septembrie cinema, muzică, teatru și dans în multe zone din Napoli, fiind util pentru seri petrecute spontan în oraș.",
+          "en": "The city’s summer program spreads cinema, music, theatre, and dance across Naples through September, making it a useful choice for flexible evening plans."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://www.comune.napoli.it/vivere-il-comune/eventi/estate-a-napoli-2026/"
+      },
+      {
+        "title": {
+          "de": "Vedi Napoli d'estate e poi Torni",
+          "hu": "Vedi Napoli d'estate e poi Torni",
+          "ro": "Vedi Napoli d'estate e poi Torni",
+          "en": "Vedi Napoli d'estate e poi Torni"
+        },
+        "summary": {
+          "de": "Das offizielle Sommerformat des Tourismusressorts kombiniert Bootstouren, Krimi-Stadtgänge und ein Ferragosto-Konzert im Morgengrauen, um Besucher ungewöhnlich durch Neapel zu führen.",
+          "hu": "A turisztikai hivatal hivatalos nyári programsorozata hajós túrákat, krimis városi sétákat és ferragostói hajnali koncertet kínál Nápoly szokatlan felfedezéséhez.",
+          "ro": "Formatul estival oficial al departamentului de turism combină tururi pe mare, plimbări tematice noir și un concert la răsărit de Ferragosto pentru a descoperi Napoli altfel.",
+          "en": "The tourism department’s official summer format combines boat tours, noir-themed city walks, and a Ferragosto dawn concert to help visitors experience Naples differently."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://www.comune.napoli.it/vivere-il-comune/eventi/vedi-napoli-destate-e-poi-torni-edizione-2026/"
+      },
+      {
+        "title": {
+          "de": "EDIT Napoli 2026",
+          "hu": "EDIT Napoli 2026",
+          "ro": "EDIT Napoli 2026",
+          "en": "EDIT Napoli 2026"
+        },
+        "summary": {
+          "de": "Die Designmesse in La Santissima stellt unabhängige Designer, Handwerker und Produzenten in den Mittelpunkt und ist ein guter Termin für designinteressierte Reisende.",
+          "hu": "A La Santissima helyszínen rendezett designvásár független tervezőkre, kézművesekre és gyártókra fókuszál, ezért jó program a design iránt érdeklődő utazóknak.",
+          "ro": "Târgul de design de la La Santissima pune în centru designeri independenți, artizani și producători și este o alegere bună pentru călătorii interesați de design.",
+          "en": "The design fair at La Santissima spotlights independent designers, artisans, and makers, making it a strong option for design-minded travelers."
+        },
+        "date": "2026-10-09",
+        "source_url": "https://editnapoli.com/visit/"
+      },
+      {
+        "title": {
+          "de": "La Cenerentola",
+          "hu": "La Cenerentola",
+          "ro": "La Cenerentola",
+          "en": "La Cenerentola"
+        },
+        "summary": {
+          "de": "Rossinis Oper kommt im Teatro di San Carlo auf die Bühne und bietet Besuchern ein klassisches Neapel-Erlebnis in einem der berühmtesten Opernhäuser Europas.",
+          "hu": "Rossini operája a Teatro di San Carlóban kerül színre, és klasszikus nápolyi élményt kínál Európa egyik leghíresebb operaházában.",
+          "ro": "Opera lui Rossini ajunge pe scena Teatro di San Carlo și oferă vizitatorilor o experiență clasică napolitană într-una dintre cele mai faimoase opere din Europa.",
+          "en": "Rossini’s opera comes to Teatro di San Carlo, giving visitors a classic Naples cultural experience inside one of Europe’s most famous opera houses."
+        },
+        "date": "2026-10-20",
+        "source_url": "https://www.teatrosancarlo.it/en/events/la-cenerentola/"
+      }
+    ]
+  },
+  {
+    "id": "torino",
+    "events": [
+      {
+        "title": {
+          "de": "Artissima 2026",
+          "hu": "Artissima 2026",
+          "ro": "Artissima 2026",
+          "en": "Artissima 2026"
+        },
+        "summary": {
+          "de": "Turins wichtigste Messe für zeitgenössische Kunst kehrt ins Oval Lingotto Fiere zurück und zieht internationale Galerien, Sammler und kunstinteressierte Reisende an.",
+          "hu": "Torino vezető kortárs művészeti vására visszatér az Oval Lingotto Fiere helyszínre, és nemzetközi galériákat, gyűjtőket és művészetkedvelő utazókat vonz.",
+          "ro": "Principalul târg de artă contemporană al orașului revine la Oval Lingotto Fiere și atrage galerii internaționale, colecționari și călători interesați de artă.",
+          "en": "Turin’s flagship contemporary art fair returns to Oval Lingotto Fiere, drawing international galleries, collectors, and art-focused travelers."
+        },
+        "date": "2026-10-30",
+        "source_url": "https://www.artissima.art/en/practical-info/"
+      },
+      {
+        "title": {
+          "de": "Iris",
+          "hu": "Iris",
+          "ro": "Iris",
+          "en": "Iris"
+        },
+        "summary": {
+          "de": "Teatro Regio zeigt Mascagnis selten gespielte Oper „Iris“, eine gute Wahl für Reisende, die im Herbst eine große Opernproduktion in Turin erleben möchten.",
+          "hu": "A Teatro Regio műsorra tűzi Mascagni ritkán játszott Iris című operáját, jó választás az őszi torinói operaprogramot keresőknek.",
+          "ro": "Teatro Regio programează rara operă „Iris” de Mascagni, o opțiune foarte bună pentru călătorii care vor o producție lirică importantă la Torino în toamnă.",
+          "en": "Teatro Regio stages Mascagni’s rarely performed Iris, a strong option for travelers looking for a major autumn opera production in Turin."
+        },
+        "date": "2026-11-05",
+        "source_url": "https://www.teatroregio.torino.it/en/opera-e-balletto-2026-2027/iris"
+      },
+      {
+        "title": {
+          "de": "Rapture",
+          "hu": "Rapture",
+          "ro": "Rapture",
+          "en": "Rapture"
+        },
+        "summary": {
+          "de": "Dieses Konzert im Teatro Regio verbindet Saint-Saëns, Berlioz, de Falla und Ravels Boléro in einem attraktiven Abend für Musikreisende.",
+          "hu": "A Teatro Regio koncertje Saint-Saëns, Berlioz, de Falla és Ravel Bolerója köré épül, így vonzó esti program a zenekedvelő utazóknak.",
+          "ro": "Acest concert de la Teatro Regio reunește lucrări de Saint-Saëns, Berlioz, de Falla și Boléro de Ravel, fiind o alegere excelentă pentru iubitorii de muzică.",
+          "en": "This Teatro Regio concert pairs Saint-Saëns, Berlioz, de Falla, and Ravel’s Boléro for an appealing evening aimed at music-minded travelers."
+        },
+        "date": "2026-11-12",
+        "source_url": "https://www.teatroregio.torino.it/en/concerti-2026-2027/rapture"
+      },
+      {
+        "title": {
+          "de": "Nitto ATP Finals 2026",
+          "hu": "Nitto ATP Finals 2026",
+          "ro": "Nitto ATP Finals 2026",
+          "en": "Nitto ATP Finals 2026"
+        },
+        "summary": {
+          "de": "Das Saisonfinale der ATP Tour bringt die besten Tennisspieler der Welt in die Inalpi Arena und ist eines der größten internationalen Sportereignisse in Turin.",
+          "hu": "Az ATP Tour szezonzáró tornája a világ legjobb teniszezőit hozza az Inalpi Arénába, és Torino egyik legnagyobb nemzetközi sporteseménye.",
+          "ro": "Turneul final al sezonului ATP aduce cei mai buni jucători de tenis ai lumii la Inalpi Arena și este unul dintre cele mai mari evenimente sportive internaționale din Torino.",
+          "en": "The ATP Tour season finale brings the world’s top tennis players to Inalpi Arena and ranks among Turin’s biggest international sporting events."
+        },
+        "date": "2026-11-15",
+        "source_url": "https://tickets.nittoatpfinals.com/en/schedule"
+      }
+    ]
+  },
+  {
+    "id": "palermo",
+    "events": [
+      {
+        "title": {
+          "de": "Rachmaninov 3",
+          "hu": "Rachmaninov 3",
+          "ro": "Rachmaninov 3",
+          "en": "Rachmaninov 3"
+        },
+        "summary": {
+          "de": "Palermo Classica präsentiert im Steri Concert Hall ein symphonisches Programm mit Bernstein, Ravel und Rachmaninow in historischem Ambiente nahe dem Hafenviertel.",
+          "hu": "A Palermo Classica a Steri Concert Hallban Bernstein-, Ravel- és Rahmanyinov-műveket kínál történelmi környezetben, a kikötőnegyed közelében.",
+          "ro": "Palermo Classica propune la Steri Concert Hall un program simfonic cu Bernstein, Ravel și Rahmaninov, într-un cadru istoric aproape de zona portului.",
+          "en": "Palermo Classica stages a symphonic program of Bernstein, Ravel, and Rachmaninov at Steri Concert Hall, set in a historic venue near the waterfront."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://www.palermoclassica.it/en/festival/16-international-festival/serene-palermo-classica-symphony-orchestra-chin-rachmaninov-3/"
+      },
+      {
+        "title": {
+          "de": "Rock Symphony. The Show",
+          "hu": "Rock Symphony. The Show",
+          "ro": "Rock Symphony. The Show",
+          "en": "Rock Symphony. The Show"
+        },
+        "summary": {
+          "de": "Palermo Classica mischt Rockklassiker und Symphonik in einem Open-Air-Abend im Steri Concert Hall, passend für Besucher, die klassische und populäre Musik verbinden möchten.",
+          "hu": "A Palermo Classica rockklasszikusokat és szimfonikus hangzást ötvöz egy szabadtéri estén a Steri Concert Hallban, jó választás a vegyes zenei élményt keresőknek.",
+          "ro": "Palermo Classica combină hituri rock și orchestră simfonică într-o seară în aer liber la Steri Concert Hall, potrivită pentru cei care vor un program muzical mai accesibil.",
+          "en": "Palermo Classica blends rock classics with symphonic performance in an open-air evening at Steri Concert Hall, a good fit for travelers wanting a crossover music event."
+        },
+        "date": "2026-09-19",
+        "source_url": "https://www.palermoclassica.it/en/festival/16-international-festival/rock-symphony-the-show-19-september/"
+      },
+      {
+        "title": {
+          "de": "La bella addormentata",
+          "hu": "La bella addormentata",
+          "ro": "La bella addormentata",
+          "en": "The Sleeping Beauty"
+        },
+        "summary": {
+          "de": "Teatro Massimo bringt Tschaikowskys „Dornröschen“ in mehreren Vorstellungen auf die Hauptbühne und bietet einen klassischen Ballettabend in Palermos Wahrzeichen.",
+          "hu": "A Teatro Massimo több előadásban mutatja be Csajkovszkij Csipkerózsikáját, klasszikus balettélményt kínálva Palermo ikonikus operaházában.",
+          "ro": "Teatro Massimo programează „Frumoasa adormită” de Ceaikovski pe scena principală, oferind un mare balet clasic într-unul dintre simbolurile orașului.",
+          "en": "Teatro Massimo stages Tchaikovsky’s The Sleeping Beauty on its main stage, offering a classic ballet night in one of Palermo’s landmark venues."
+        },
+        "date": "2026-10-03",
+        "source_url": "https://www.teatromassimo.it/en/event/the-sleeping-beauty/"
+      },
+      {
+        "title": {
+          "de": "Ferro / Prokofiev / Stravinsky",
+          "hu": "Ferro / Prokofiev / Stravinsky",
+          "ro": "Ferro / Prokofiev / Stravinsky",
+          "en": "Ferro / Prokofiev / Stravinsky"
+        },
+        "summary": {
+          "de": "Das Konzert im Teatro Massimo beschließt die Saison mit Gabriele Ferro und einem kompakten Programm aus Ferro, Prokofjew und Strawinsky.",
+          "hu": "A Teatro Massimo évadzáró koncertjén Gabriele Ferro vezényel egy tömör Ferro-, Prokofjev- és Sztravinszkij-műsort.",
+          "ro": "Concertul de la Teatro Massimo încheie stagiunea cu Gabriele Ferro și un program concentrat din Ferro, Prokofiev și Stravinski.",
+          "en": "This Teatro Massimo concert closes the season with Gabriele Ferro leading a compact program of Ferro, Prokofiev, and Stravinsky."
+        },
+        "date": "2026-10-11",
+        "source_url": "https://www.teatromassimo.it/en/event/ferro-prokofiev-stravinsky/"
+      },
+      {
+        "title": {
+          "de": "Rigoletto",
+          "hu": "Rigoletto",
+          "ro": "Rigoletto",
+          "en": "Rigoletto"
+        },
+        "summary": {
+          "de": "Verdis „Rigoletto“ kehrt auf die Hauptbühne des Teatro Massimo zurück und ist eine starke Wahl für Herbstbesucher, die Oper in Palermo erleben möchten.",
+          "hu": "Verdi Rigolettója visszatér a Teatro Massimo nagyszínpadára, erős választás az őszi palermói operaprogramot keresőknek.",
+          "ro": "„Rigoletto” de Verdi revine pe scena principală a Teatro Massimo și este o alegere foarte bună pentru vizitatorii de toamnă care vor operă la Palermo.",
+          "en": "Verdi’s Rigoletto returns to Teatro Massimo’s main stage and is a strong choice for autumn visitors who want a major opera night in Palermo."
+        },
+        "date": "2026-10-23",
+        "source_url": "https://www.teatromassimo.it/en/event/rigoletto-2/"
+      }
+    ]
+  }
+]

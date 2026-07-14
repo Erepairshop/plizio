@@ -1,0 +1,387 @@
+[
+  {
+    "id": "paris",
+    "events": [
+      {
+        "title": {
+          "de": "Rock en Seine",
+          "hu": "Rock en Seine",
+          "ro": "Rock en Seine",
+          "en": "Rock en Seine",
+          "fr": "Rock en Seine"
+        },
+        "summary": {
+          "de": "Das große Spätsommerfestival bringt internationale Headliner und zahlreiche Open-Air-Konzerte in das Domaine national de Saint-Cloud vor den Toren von Paris.",
+          "hu": "A késő nyári nagyszabású fesztivál nemzetközi headlinereket és számos szabadtéri koncertet hoz a Párizs melletti Domaine national de Saint-Cloud területére.",
+          "ro": "Marele festival de la sfârșitul verii aduce headlineri internaționali și numeroase concerte în aer liber la Domaine national de Saint-Cloud, lângă Paris.",
+          "en": "This major late-summer festival brings international headliners and a packed open-air program to the Domaine national de Saint-Cloud just outside Paris.",
+          "fr": "Ce grand festival de fin d'été réunit des têtes d'affiche internationales et une dense programmation en plein air au Domaine national de Saint-Cloud, aux portes de Paris."
+        },
+        "date": "2026-08-26",
+        "source_url": "https://www.rockenseine.com/en/"
+      },
+      {
+        "title": {
+          "de": "Paris Design Week",
+          "hu": "Paris Design Week",
+          "ro": "Paris Design Week",
+          "en": "Paris Design Week",
+          "fr": "Paris Design Week"
+        },
+        "summary": {
+          "de": "Zehn Tage lang öffnen Showrooms, Concept Stores, Ausstellungen und Designorte in ganz Paris für die stadtweite Designwoche.",
+          "hu": "Tíz napon át bemutatótermek, concept store-ok, kiállítások és dizájnhelyszínek nyílnak meg szerte Párizsban a városi designhét alkalmából.",
+          "ro": "Timp de zece zile, showroom-uri, concept store-uri, expoziții și spații de design din tot Parisul participă la săptămâna dedicată creației contemporane.",
+          "en": "For ten days, showrooms, concept stores, exhibitions, and design venues across the capital take part in Paris's citywide design week.",
+          "fr": "Pendant dix jours, showrooms, concept stores, expositions et lieux de création dans tout Paris participent à la semaine parisienne du design."
+        },
+        "date": "2026-09-10",
+        "source_url": "https://www.parisdesignweek.fr/"
+      },
+      {
+        "title": {
+          "de": "Pariser Modewoche Damen Frühjahr/Sommer 2027",
+          "hu": "Párizsi Divathét női 2027 tavasz/nyár",
+          "ro": "Săptămâna Modei de la Paris femei primăvară/vară 2027",
+          "en": "Paris Fashion Week Womenswear Spring/Summer 2027",
+          "fr": "Paris Fashion Week mode femme printemps-été 2027"
+        },
+        "summary": {
+          "de": "Die offizielle FHCM-Woche versammelt Defilees, Präsentationen und Branchenevents der Damenmodekollektionen in Paris.",
+          "hu": "Az FHCM hivatalos hete kifutóbemutatókat, prezentációkat és szakmai eseményeket hoz a női kollekciók köré Párizs-szerte.",
+          "ro": "Săptămâna oficială a FHCM reunește defilări, prezentări și evenimente profesionale dedicate colecțiilor de modă feminină în Paris.",
+          "en": "The official FHCM week gathers runway shows, presentations, and industry events for womenswear collections across Paris.",
+          "fr": "La semaine officielle de la FHCM rassemble défilés, présentations et événements professionnels autour des collections de mode femme dans tout Paris."
+        },
+        "date": "2026-09-28",
+        "source_url": "https://www.fhcm.paris/en/upcoming-seasons-and-previous-editions"
+      },
+      {
+        "title": {
+          "de": "Salon du Chocolat Paris",
+          "hu": "Salon du Chocolat Párizs",
+          "ro": "Salon du Chocolat Paris",
+          "en": "Salon du Chocolat Paris",
+          "fr": "Salon du Chocolat Paris"
+        },
+        "summary": {
+          "de": "Die große Schokoladenmesse füllt die Paris Expo Porte de Versailles mit Verkostungen, Vorführungen, Pastry Shows und Marken aus der Kakaowelt.",
+          "hu": "A nagy csokoládéfesztivál a Paris Expo Porte de Versailles tereit kóstolókkal, bemutatókkal, cukrászshow-kkal és kakaóvilágbeli márkákkal tölti meg.",
+          "ro": "Marele salon al ciocolatei ocupă Paris Expo Porte de Versailles cu degustări, demonstrații, pastry show-uri și branduri din universul cacao.",
+          "en": "The major chocolate fair fills Paris Expo Porte de Versailles with tastings, demonstrations, pastry shows, and leading cocoa-world brands.",
+          "fr": "Le grand salon du chocolat investit Paris Expo Porte de Versailles avec dégustations, démonstrations, pastry shows et grandes maisons du cacao."
+        },
+        "date": "2026-10-28",
+        "source_url": "https://www.salon-du-chocolat.com/en"
+      },
+      {
+        "title": {
+          "de": "Paris Photo",
+          "hu": "Paris Photo",
+          "ro": "Paris Photo",
+          "en": "Paris Photo",
+          "fr": "Paris Photo"
+        },
+        "summary": {
+          "de": "Die internationale Fotokunstmesse kehrt ins Grand Palais zurück und vereint Galerien, Verlage, Künstlergespräche und Sonderprogramme.",
+          "hu": "A nemzetközi fotóművészeti vásár visszatér a Grand Palais-ba, galériákkal, kiadókkal, művészbeszélgetésekkel és különprogramokkal.",
+          "ro": "Târgul internațional dedicat fotografiei revine la Grand Palais cu galerii, editori, discuții cu artiști și programe speciale.",
+          "en": "The international photography fair returns to the Grand Palais with galleries, publishers, artist talks, and special programming.",
+          "fr": "La foire internationale dédiée à la photographie revient au Grand Palais avec galeries, éditeurs, rencontres et programmes spéciaux."
+        },
+        "date": "2026-11-12",
+        "source_url": "https://www.parisphoto.com/en-gb.html"
+      }
+    ]
+  },
+  {
+    "id": "marseille",
+    "events": [
+      {
+        "title": {
+          "de": "Internationale Messe Marseille",
+          "hu": "Marseille-i Nemzetközi Vásár",
+          "ro": "Foire Internationale de Marseille",
+          "en": "Marseille International Fair",
+          "fr": "Foire Internationale de Marseille"
+        },
+        "summary": {
+          "de": "Der große Herbsttermin im Parc Chanot erwartet hunderttausende Besucher mit Ausstellern, Themenwelten und einem starken Mittelmeer-Schwerpunkt.",
+          "hu": "A Parc Chanot nagy őszi rendezvénye több százezer látogatót vár kiállítókkal, tematikus terekkel és erős mediterrán fókuszszal.",
+          "ro": "Marele rendez-vous de toamnă de la Parc Chanot așteaptă sute de mii de vizitatori cu expozanți, spații tematice și o puternică temă mediteraneană.",
+          "en": "Marseille's major autumn fair at Parc Chanot draws hundreds of thousands of visitors with exhibitors, themed areas, and a strong Mediterranean focus.",
+          "fr": "Le grand rendez-vous de la rentrée au parc Chanot attire des centaines de milliers de visiteurs avec exposants, espaces thématiques et une forte couleur méditerranéenne."
+        },
+        "date": "2026-09-25",
+        "source_url": "https://www.foiredemarseille.com/"
+      },
+      {
+        "title": {
+          "de": "Fiesta des Suds",
+          "hu": "Fiesta des Suds",
+          "ro": "Fiesta des Suds",
+          "en": "Fiesta des Suds",
+          "fr": "Fiesta des Suds"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Musikfestival bespielt die Esplanade J4 mit Konzerten, Tanz und mediterranen wie globalen Klangwelten.",
+          "hu": "A hagyományos zenei fesztivál az Esplanade J4 helyszínét tölti meg koncertekkel, tánccal és mediterrán, illetve globális hangzásokkal.",
+          "ro": "Festivalul muzical emblematic animă Esplanade J4 cu concerte, dans și sonorități mediteraneene și mondiale.",
+          "en": "This long-running music festival takes over Esplanade J4 with concerts, dancing, and Mediterranean-to-global sounds.",
+          "fr": "Ce festival musical emblématique investit l'Esplanade J4 avec concerts, danse et sonorités méditerranéennes comme internationales."
+        },
+        "date": "2026-10-08",
+        "source_url": "https://fiestadessuds.com/"
+      },
+      {
+        "title": {
+          "de": "Marseille-Cassis",
+          "hu": "Marseille-Cassis országúti futás",
+          "ro": "Marseille-Cassis",
+          "en": "Marseille-Cassis",
+          "fr": "Marseille-Cassis"
+        },
+        "summary": {
+          "de": "Das legendäre Straßenrennen verbindet Marseille und Cassis auf einer spektakulären Strecke und prägt jedes Jahr das Sportwochenende an der Küste.",
+          "hu": "A legendás országúti futóverseny látványos útvonalon köti össze Marseille-t és Cassis-t, és minden évben meghatározza a tengerpart sporthétvégéjét.",
+          "ro": "Cursa legendară pe șosea leagă Marsilia de Cassis pe un traseu spectaculos și marchează unul dintre marile weekenduri sportive ale coastei.",
+          "en": "The legendary road race links Marseille and Cassis over a spectacular course and anchors one of the coast's signature sports weekends.",
+          "fr": "La légendaire course sur route relie Marseille à Cassis sur un tracé spectaculaire et constitue l'un des grands rendez-vous sportifs de la côte."
+        },
+        "date": "2026-10-25",
+        "source_url": "https://www.marseille-cassis.com/en/"
+      }
+    ]
+  },
+  {
+    "id": "lyon",
+    "events": [
+      {
+        "title": {
+          "de": "Biennale von Lyon",
+          "hu": "Lyoni Biennálé",
+          "ro": "Bienala de la Lyon",
+          "en": "Lyon Biennale",
+          "fr": "Biennale de Lyon"
+        },
+        "summary": {
+          "de": "Die Biennale für zeitgenössische Kunst verteilt ihre Ausstellung im Herbst über mehrere große Orte in Lyon und Umgebung.",
+          "hu": "A kortárs művészeti biennálé ősszel Lyon és környéke több jelentős helyszínén rendezi meg kiállítását.",
+          "ro": "Bienala de artă contemporană își desfășoară toamna expoziția în mai multe mari locuri din Lyon și împrejurimi.",
+          "en": "The contemporary art biennial spreads its autumn exhibition across several major venues in Lyon and nearby.",
+          "fr": "La biennale d'art contemporain déploie son exposition d'automne dans plusieurs grands lieux de Lyon et de sa métropole."
+        },
+        "date": "2026-09-19",
+        "source_url": "https://www.biennaledelyon.com/lyon/infos-pratiques"
+      },
+      {
+        "title": {
+          "de": "Festival Lumière",
+          "hu": "Festival Lumière",
+          "ro": "Festival Lumière",
+          "en": "Festival Lumière",
+          "fr": "Festival Lumière"
+        },
+        "summary": {
+          "de": "Lyon feiert sein weltbekanntes Festival des klassischen Kinos mit Vorführungen, Ehrungen und Gästen in der Geburtsstadt des Kinematographen.",
+          "hu": "Lyon a klasszikus film világhírű fesztiválját ünnepli vetítésekkel, tiszteletadásokkal és vendégekkel a kinematográf szülővárosában.",
+          "ro": "Lyon sărbătorește festivalul său de referință dedicat cinematografiei clasice, cu proiecții, omagii și invitați în orașul cinematografului Lumière.",
+          "en": "Lyon celebrates its flagship classic-cinema festival with screenings, tributes, and guests in the birthplace of the cinematograph.",
+          "fr": "Lyon célèbre son grand festival du cinéma classique avec projections, hommages et invités dans la ville natale du cinématographe."
+        },
+        "date": "2026-10-10",
+        "source_url": "https://www.festival-lumiere.org/en/"
+      },
+      {
+        "title": {
+          "de": "Equita Lyon",
+          "hu": "Equita Lyon",
+          "ro": "Equita Lyon",
+          "en": "Equita Lyon",
+          "fr": "Equita Lyon"
+        },
+        "summary": {
+          "de": "Die große Pferdesport- und Reitmesse in Eurexpo verbindet internationale Wettbewerbe, Shows und eine umfangreiche Fach- und Publikumsmesse.",
+          "hu": "Az Eurexpo nagyszabású lovas eseménye nemzetközi versenyeket, show-műsorokat és jelentős szakmai-közönségvásárt egyesít.",
+          "ro": "Marele eveniment ecvestru de la Eurexpo combină competiții internaționale, spectacole și un amplu salon dedicat publicului și profesioniștilor.",
+          "en": "The major Eurexpo horse event combines international competitions, shows, and a large fair for both the public and industry professionals.",
+          "fr": "Le grand rendez-vous équestre d'Eurexpo associe compétitions internationales, spectacles et vaste salon pour le grand public comme les professionnels."
+        },
+        "date": "2026-10-28",
+        "source_url": "https://www.equitalyon.com/en/presentation"
+      },
+      {
+        "title": {
+          "de": "Lichterfest Lyon",
+          "hu": "Lyoni Fényünnep",
+          "ro": "Fête des Lumières",
+          "en": "Festival of Lights",
+          "fr": "Fête des Lumières"
+        },
+        "summary": {
+          "de": "Die berühmte Fête des Lumières verwandelt Plätze, Fassaden und Parks in ein großes nächtliches Lichtkunstparcours im Stadtzentrum von Lyon.",
+          "hu": "A híres Fête des Lumières tereket, homlokzatokat és parkokat alakít át éjszakai fényinstallációk hatalmas városi útvonalává Lyon központjában.",
+          "ro": "Cunoscuta Fête des Lumières transformă piețe, fațade și parcuri într-un vast parcurs nocturn de artă luminoasă în centrul Lyonului.",
+          "en": "The celebrated Festival of Lights turns Lyon's squares, facades, and parks into a citywide nighttime trail of light art.",
+          "fr": "La célèbre Fête des Lumières transforme places, façades et parcs en un vaste parcours nocturne d'installations lumineuses au cœur de Lyon."
+        },
+        "date": "2026-12-05",
+        "source_url": "https://www.fetedeslumieres.lyon.fr/en"
+      }
+    ]
+  },
+  {
+    "id": "toulouse",
+    "events": [
+      {
+        "title": {
+          "de": "Rose Festival",
+          "hu": "Rose Festival",
+          "ro": "Rose Festival",
+          "en": "Rose Festival",
+          "fr": "Rose Festival"
+        },
+        "summary": {
+          "de": "Das von Bigflo & Oli initiierte Festival bespielt das MEETT mit großen Pop-, Rap- und Elektro-Acts auf mehreren Bühnen.",
+          "hu": "A Bigflo & Oli által életre hívott fesztivál a MEETT helyszínét tölti meg nagy pop-, rap- és elektronikus fellépőkkel több színpadon.",
+          "ro": "Festivalul imaginat de Bigflo & Oli ocupă MEETT cu mari artiști pop, rap și electro pe mai multe scene.",
+          "en": "The festival created by Bigflo & Oli takes over the MEETT with major pop, rap, and electronic acts across multiple stages.",
+          "fr": "Le festival imaginé par Bigflo & Oli investit le MEETT avec de grandes têtes d'affiche pop, rap et électro sur plusieurs scènes."
+        },
+        "date": "2026-08-27",
+        "source_url": "https://metropole.toulouse.fr/agenda/rose-festival"
+      },
+      {
+        "title": {
+          "de": "Piano aux Jacobins",
+          "hu": "Piano aux Jacobins",
+          "ro": "Piano aux Jacobins",
+          "en": "Piano aux Jacobins",
+          "fr": "Piano aux Jacobins"
+        },
+        "summary": {
+          "de": "Das renommierte Klavierfestival lädt fast den ganzen September lang zu Konzerten internationaler Pianisten im Couvent des Jacobins ein.",
+          "hu": "A rangos zongorafesztivál szeptember nagy részében nemzetközi zongoraművészek koncertjeire várja a közönséget a Couvent des Jacobins falai közé.",
+          "ro": "Prestigiosul festival de pian invită aproape toată luna septembrie la recitaluri susținute de pianiști internaționali la Couvent des Jacobins.",
+          "en": "The prestigious piano festival fills much of September with recitals by international pianists at the Couvent des Jacobins.",
+          "fr": "Le prestigieux festival de piano occupe une grande partie de septembre avec des récitals de pianistes internationaux au Couvent des Jacobins."
+        },
+        "date": "2026-09-08",
+        "source_url": "https://metropole.toulouse.fr/agenda/piano-aux-jacobins"
+      },
+      {
+        "title": {
+          "de": "Europäische Tage des Kulturerbes in Toulouse",
+          "hu": "Európai Örökség Napok Toulouse-ban",
+          "ro": "Journées européennes du patrimoine la Toulouse",
+          "en": "European Heritage Days in Toulouse",
+          "fr": "Journées européennes du patrimoine à Toulouse"
+        },
+        "summary": {
+          "de": "Ein ganzes Wochenende öffnet Toulouse Monumente und Kulturorte mit Führungen, Besichtigungen und Sonderprogrammen zum europäischen Kulturerbe.",
+          "hu": "Egy teljes hétvégén Toulouse műemlékeket és kulturális helyszíneket nyit meg vezetésekkel, látogatásokkal és különprogramokkal az európai örökség jegyében.",
+          "ro": "Timp de un weekend întreg, Toulouse își deschide monumentele și locurile culturale cu vizite, tururi și programe speciale dedicate patrimoniului european.",
+          "en": "For a full weekend, Toulouse opens monuments and heritage sites with visits, tours, and special programming for the European Heritage Days.",
+          "fr": "Le temps d'un week-end, Toulouse ouvre monuments et lieux patrimoniaux avec visites, parcours et animations spéciales pour les Journées européennes du patrimoine."
+        },
+        "date": "2026-09-19",
+        "source_url": "https://metropole.toulouse.fr/agenda/journees-europeennes-du-patrimoine"
+      },
+      {
+        "title": {
+          "de": "Festival Toulouse les Orgues",
+          "hu": "Toulouse les Orgues fesztivál",
+          "ro": "Festivalul Toulouse les Orgues",
+          "en": "Toulouse les Orgues Festival",
+          "fr": "Festival Toulouse les Orgues"
+        },
+        "summary": {
+          "de": "Das internationale Orgelfestival feiert Toulouses außergewöhnliches Instrumentenerbe mit Konzerten und Begegnungen in der ersten Oktoberhälfte.",
+          "hu": "A nemzetközi orgonafesztivál Toulouse kivételes hangszerörökségét ünnepli koncertekkel és találkozókkal október első felében.",
+          "ro": "Festivalul internațional dedicat orgilor pune în valoare patrimoniul excepțional al orașului Toulouse prin concerte și întâlniri în prima jumătate a lui octombrie.",
+          "en": "The international organ festival showcases Toulouse's exceptional organ heritage with concerts and encounters in the first half of October.",
+          "fr": "Le festival international consacré aux orgues met en valeur le patrimoine exceptionnel de Toulouse avec concerts et rencontres durant la première quinzaine d'octobre."
+        },
+        "date": "2026-10-07",
+        "source_url": "https://toulouse-les-orgues.org/festival-2/"
+      }
+    ]
+  },
+  {
+    "id": "nice",
+    "events": [
+      {
+        "title": {
+          "de": "Raggamuffin Festival",
+          "hu": "Raggamuffin Festival",
+          "ro": "Raggamuffin Festival",
+          "en": "Raggamuffin Festival",
+          "fr": "Raggamuffin Festival"
+        },
+        "summary": {
+          "de": "Die Sommerreihe Nice Music Live bringt beim Raggamuffin Festival Reggae, Hip-Hop und karibische Energie ins Théâtre de Verdure.",
+          "hu": "A Nice Music Live nyári sorozata a Raggamuffin Festival keretében reggae-t, hiphopot és karibi energiákat visz a Théâtre de Verdure színpadára.",
+          "ro": "Seria estivală Nice Music Live aduce reggae, hip-hop și energie caraibiană la Théâtre de Verdure prin Raggamuffin Festival.",
+          "en": "Nice Music Live brings reggae, hip-hop, and Caribbean energy to the Théâtre de Verdure with the Raggamuffin Festival.",
+          "fr": "Nice Music Live installe au Théâtre de Verdure une soirée reggae, hip-hop et caribéenne avec le Raggamuffin Festival."
+        },
+        "date": "2026-08-04",
+        "source_url": "https://www.nice.fr/nice-music-live/"
+      },
+      {
+        "title": {
+          "de": "IRONMAN 70.3 Weltmeisterschaft",
+          "hu": "IRONMAN 70.3 világbajnokság",
+          "ro": "Campionatul Mondial IRONMAN 70.3",
+          "en": "IRONMAN 70.3 World Championship",
+          "fr": "Championnat du monde IRONMAN 70.3"
+        },
+        "summary": {
+          "de": "Die besten Triathleten der Welt kehren für die IRONMAN-70.3-Weltmeisterschaft mit Schwimmen, Radfahren und Laufen an die Côte d’Azur zurück.",
+          "hu": "A világ legjobb triatlonosai visszatérnek a Côte d’Azurra az IRONMAN 70.3 világbajnokság úszó-, kerékpáros és futószámaira.",
+          "ro": "Cei mai buni triatloniști ai lumii revin pe Coasta de Azur pentru Campionatul Mondial IRONMAN 70.3, cu probe de înot, ciclism și alergare.",
+          "en": "The world's top triathletes return to the Côte d'Azur for the IRONMAN 70.3 World Championship across swim, bike, and run.",
+          "fr": "Les meilleurs triathlètes du monde reviennent sur la Côte d'Azur pour le Championnat du monde IRONMAN 70.3, entre natation, vélo et course à pied."
+        },
+        "date": "2026-09-12",
+        "source_url": "https://www.ironman.com/races/im703-world-championship-2026"
+      },
+      {
+        "title": {
+          "de": "Europäische Tage des Kulturerbes in Nizza",
+          "hu": "Európai Örökség Napok Nizzában",
+          "ro": "Journées européennes du patrimoine la Nisa",
+          "en": "European Heritage Days in Nice",
+          "fr": "Journées européennes du patrimoine à Nice"
+        },
+        "summary": {
+          "de": "Die Stadt lädt an diesem Wochenende dazu ein, das architektonische und kulturelle Erbe von Nizza mit Sonderöffnungen und Besichtigungen neu zu entdecken.",
+          "hu": "A város ezen a hétvégén különleges megnyitásokkal és látogatásokkal hívja újrafelfedezni Nizza építészeti és kulturális örökségét.",
+          "ro": "Orașul invită publicul să redescopere patrimoniul arhitectural și cultural al Nisei prin deschideri speciale și vizite dedicate.",
+          "en": "The city invites visitors to rediscover Nice's architectural and cultural heritage through special openings and dedicated visits over the weekend.",
+          "fr": "La Ville invite à redécouvrir le patrimoine architectural et culturel niçois grâce à des ouvertures exceptionnelles et des visites dédiées le temps d'un week-end."
+        },
+        "date": "2026-09-19",
+        "source_url": "https://www.nice.fr/journees-europeennes-du-patrimoine/"
+      },
+      {
+        "title": {
+          "de": "Französische Riviera Marathon Nice-Cannes",
+          "hu": "Francia Riviéra Maraton Nice-Cannes",
+          "ro": "Maratonul Coastei de Azur Nice-Cannes",
+          "en": "French Riviera Marathon Nice-Cannes",
+          "fr": "Marathon des Alpes-Maritimes Nice-Cannes"
+        },
+        "summary": {
+          "de": "Der große Küstenmarathon führt von der Promenade des Anglais in Nizza bis zur Croisette in Cannes entlang der Mittelmeerküste.",
+          "hu": "A nagy tengerparti maraton a nizzai Promenade des Anglais sétánytól egészen a cannes-i Croisette-ig halad a Földközi-tenger partján.",
+          "ro": "Marele maraton de coastă pornește de pe Promenade des Anglais din Nisa și ajunge până la Croisette din Cannes, de-a lungul Mediteranei.",
+          "en": "The flagship coastal marathon runs from Nice's Promenade des Anglais to the Croisette in Cannes along the Mediterranean shore.",
+          "fr": "Le grand marathon côtier relie la Promenade des Anglais à Nice à la Croisette de Cannes le long du littoral méditerranéen."
+        },
+        "date": "2026-11-08",
+        "source_url": "https://www.marathon06.com/2026/AN/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,423 @@
+[
+  {
+    "id": "city-berlin",
+    "events": [
+      {
+        "title": {
+          "de": "Musikfest Berlin 2026",
+          "hu": "Musikfest Berlin 2026",
+          "ro": "Musikfest Berlin 2026",
+          "en": "Musikfest Berlin 2026"
+        },
+        "summary": {
+          "de": "Das Festival der Berliner Festspiele eröffnet Ende August die Klassiksaison mit internationalen Spitzenorchestern und Ensembles in der Philharmonie und im Konzerthaus Berlin.",
+          "hu": "A Berliner Festspiele fesztiválja augusztus végén nyitja meg a komolyzenei szezont nemzetközi élvonalbeli zenekarokkal és együttesekkel a Filharmóniában és a Konzerthaus Berlinben.",
+          "ro": "Festivalul organizat de Berliner Festspiele deschide la sfârșit de august sezonul de muzică clasică cu orchestre și ansambluri internaționale de top la Philharmonie și Konzerthaus Berlin.",
+          "en": "The Berliner Festspiele festival opens the classical season in late August with leading international orchestras and ensembles at the Philharmonie and Konzerthaus Berlin."
+        },
+        "date": "2026-08-29",
+        "source_url": "https://www.berlinerfestspiele.de/musikfest-berlin",
+        "category": "Musik",
+        "venue": "Philharmonie Berlin / Konzerthaus Berlin"
+      },
+      {
+        "title": {
+          "de": "Berlin Beer Week 2026",
+          "hu": "Berlin Beer Week 2026",
+          "ro": "Berlin Beer Week 2026",
+          "en": "Berlin Beer Week 2026"
+        },
+        "summary": {
+          "de": "Die stadtweite Bierwoche bündelt Craft-Beer-Tastings, Brauereiprogramme und Sonderveranstaltungen in Bars und Brauereien in ganz Berlin.",
+          "hu": "A városszerte zajló sörhét kézműves sörkóstolókat, sörfőzdei programokat és különleges eseményeket fog össze Berlin bárjaiban és főzdéiben.",
+          "ro": "Săptămâna berii din întregul oraș reunește degustări de bere artizanală, programe ale berăriilor și evenimente speciale în baruri și fabrici de bere din tot Berlinul.",
+          "en": "The citywide beer week brings together craft beer tastings, brewery programs and special events at bars and breweries across Berlin."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://beerweek.de/en/startseite-en/",
+        "category": "Festival",
+        "venue": "Verschiedene Orte in Berlin"
+      },
+      {
+        "title": {
+          "de": "IFA Berlin 2026",
+          "hu": "IFA Berlin 2026",
+          "ro": "IFA Berlin 2026",
+          "en": "IFA Berlin 2026"
+        },
+        "summary": {
+          "de": "Die internationale Leitmesse für Consumer Electronics und Home Appliances bringt Anfang September Aussteller, Produktneuheiten und Live-Demonstrationen auf das Berliner Messegelände.",
+          "hu": "A fogyasztói elektronika és háztartási készülékek vezető nemzetközi szakvására szeptember elején kiállítókat, újdonságokat és élő bemutatókat hoz a berlini vásárközpontba.",
+          "ro": "Târgul internațional de referință pentru electronice de consum și electrocasnice aduce la început de septembrie expozanți, lansări de produse și demonstrații live la centrul expozițional din Berlin.",
+          "en": "The leading international trade show for consumer electronics and home appliances brings exhibitors, product launches and live demos to the Berlin exhibition grounds in early September."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://www.ifa-berlin.com/visit",
+        "category": "Messe",
+        "venue": "Messe Berlin"
+      },
+      {
+        "title": {
+          "de": "BMW Berlin-Marathon 2026",
+          "hu": "BMW Berlin Marathon 2026",
+          "ro": "BMW Berlin Marathon 2026",
+          "en": "BMW Berlin Marathon 2026"
+        },
+        "summary": {
+          "de": "Der World Marathon Major führt Ende September durch die Berliner Innenstadt und endet traditionell am Brandenburger Tor vor großem internationalem Publikum.",
+          "hu": "A World Marathon Majors sorozat berlini futama szeptember végén vezeti végig a mezőnyt a belvároson, és hagyományosan a Brandenburgi kapunál ér véget.",
+          "ro": "Etapa berlineză din World Marathon Majors traversează la sfârșit de septembrie centrul orașului și se încheie tradițional la Poarta Brandenburg, în fața unui public internațional numeros.",
+          "en": "The World Marathon Major runs through central Berlin in late September and traditionally finishes at the Brandenburg Gate before a large international crowd."
+        },
+        "date": "2026-09-27",
+        "source_url": "https://www.bmw-berlin-marathon.com/en/",
+        "category": "Sport",
+        "venue": "Innenstadt Berlin / Brandenburger Tor"
+      },
+      {
+        "title": {
+          "de": "Festival of Lights Berlin 2026",
+          "hu": "Festival of Lights Berlin 2026",
+          "ro": "Festival of Lights Berlin 2026",
+          "en": "Festival of Lights Berlin 2026"
+        },
+        "summary": {
+          "de": "Im Oktober werden Berliner Wahrzeichen und Fassaden an mehreren Abenden mit Lichtkunst und Projektionen inszeniert, verteilt über zentrale Orte der Stadt.",
+          "hu": "Októberben több estén át fényinstallációk és vetítések világítják meg Berlin nevezetességeit és homlokzatait a város különböző központi helyszínein.",
+          "ro": "În octombrie, reperele și fațadele Berlinului sunt transformate timp de mai multe seri prin instalații de lumină și proiecții, în mai multe zone centrale ale orașului.",
+          "en": "In October, Berlin landmarks and facades are illuminated over several evenings with light art and projections across central parts of the city."
+        },
+        "date": "2026-10-09",
+        "source_url": "https://festival-of-lights.de/en/",
+        "category": "Festival",
+        "venue": "Verschiedene Orte in Berlin"
+      }
+    ]
+  },
+  {
+    "id": "city-hamburg",
+    "events": [
+      {
+        "title": {
+          "de": "Elbphilharmonie Sommer 2026",
+          "hu": "Elbphilharmonie Nyár 2026",
+          "ro": "Vara Elbphilharmonie 2026",
+          "en": "Elbphilharmonie Summer 2026"
+        },
+        "summary": {
+          "de": "Das Festival in der Elbphilharmonie bringt Mitte bis Ende August große Orchester sowie ein sommerliches Programm aus Jazz, Pop und Weltmusik in den Großen Saal.",
+          "hu": "Az Elbphilharmonie fesztiválja augusztus közepétől végéig nagyzenekarokat, valamint jazzből, popból és világzenéből álló nyári programot hoz a Nagyterembe.",
+          "ro": "Festivalul de la Elbphilharmonie aduce de la mijlocul până la sfârșitul lunii august orchestre mari și un program estival de jazz, pop și world music în Sala Mare.",
+          "en": "The Elbphilharmonie festival brings major orchestras plus a summer program of jazz, pop and world music to the Grand Hall from mid to late August."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://www.elbphilharmonie.de/en/festivals/elbphilharmonie-summer/1216",
+        "category": "Musik",
+        "venue": "Elbphilharmonie Großer Saal"
+      },
+      {
+        "title": {
+          "de": "Internationales Sommerfestival 2026",
+          "hu": "Internationales Sommerfestival 2026",
+          "ro": "Internationales Sommerfestival 2026",
+          "en": "International Summer Festival 2026"
+        },
+        "summary": {
+          "de": "Kampnagel bündelt im August internationale Performances, Theater, Tanz, Musik und Installationen auf dem Gelände des Hamburger Kulturzentrums.",
+          "hu": "A Kampnagel augusztusban nemzetközi előadásokat, színházat, táncot, zenét és installációkat mutat be a hamburgi kulturális központ területén.",
+          "ro": "Kampnagel reunește în august spectacole internaționale, teatru, dans, muzică și instalații în complexul centrului cultural din Hamburg.",
+          "en": "In August, Kampnagel presents international performances, theater, dance, music and installations across Hamburg's cultural center campus."
+        },
+        "date": "2026-08-12",
+        "source_url": "https://kampnagel.de/en/summerfestival",
+        "category": "Kultur",
+        "venue": "Kampnagel"
+      },
+      {
+        "title": {
+          "de": "MS Dockville 2026",
+          "hu": "MS Dockville 2026",
+          "ro": "MS Dockville 2026",
+          "en": "MS Dockville 2026"
+        },
+        "summary": {
+          "de": "Das Festival in Wilhelmsburg verbindet Mitte August Indie, Pop und elektronische Musik mit Kunstinstallationen auf dem Elbinselgelände.",
+          "hu": "A wilhelmsburgi fesztivál augusztus közepén indie, pop és elektronikus zenét kapcsol össze művészeti installációkkal az Elba-szigeti helyszínen.",
+          "ro": "Festivalul din Wilhelmsburg combină la mijloc de august muzica indie, pop și electronică cu instalații de artă pe terenul insulei de pe Elba.",
+          "en": "The Wilhelmsburg festival combines indie, pop and electronic music with art installations on its Elbe island site in mid-August."
+        },
+        "date": "2026-08-14",
+        "source_url": "https://msdockville.de/en/info",
+        "category": "Musikfestival",
+        "venue": "Hamburg-Wilhelmsburg"
+      },
+      {
+        "title": {
+          "de": "Reeperbahn Festival 2026",
+          "hu": "Reeperbahn Festival 2026",
+          "ro": "Reeperbahn Festival 2026",
+          "en": "Reeperbahn Festival 2026"
+        },
+        "summary": {
+          "de": "Das Clubfestival und Branchentreffen bespielt im September zahlreiche Clubs, Bühnen und Konferenzorte rund um St. Pauli mit neuen und etablierten Acts.",
+          "hu": "A klubfesztivál és szakmai találkozó szeptemberben számos St. Pauli környéki klubot, színpadot és konferenciahelyszínt tölt meg feltörekvő és ismert előadókkal.",
+          "ro": "Festivalul de club și reuniunea industriei muzicale animă în septembrie numeroase cluburi, scene și spații de conferință din jurul cartierului St. Pauli cu artiști noi și consacrați.",
+          "en": "The club festival and industry gathering fills numerous clubs, stages and conference venues around St. Pauli in September with emerging and established acts."
+        },
+        "date": "2026-09-16",
+        "source_url": "https://www.reeperbahnfestival.com/en",
+        "category": "Musikfestival",
+        "venue": "St. Pauli / Reeperbahn"
+      },
+      {
+        "title": {
+          "de": "Hamburg Pride und CSD 2026",
+          "hu": "Hamburg Pride és CSD 2026",
+          "ro": "Hamburg Pride și CSD 2026",
+          "en": "Hamburg Pride and CSD 2026"
+        },
+        "summary": {
+          "de": "Hamburg Pride umfasst Ende Juli bis Anfang August Kulturprogramm, Straßenfest und die große CSD-Demonstration in der Innenstadt.",
+          "hu": "A Hamburg Pride július végétől augusztus elejéig kulturális programokkal, utcafesztivállal és a nagy belvárosi CSD-felvonulással várja a közönséget.",
+          "ro": "Hamburg Pride include de la sfârșit de iulie până la început de august un program cultural, un festival stradal și marea demonstrație CSD din centrul orașului.",
+          "en": "Hamburg Pride runs from late July into early August with cultural programming, a street festival and the main CSD march through the city center."
+        },
+        "date": "2026-07-31",
+        "source_url": "https://www.hamburg-pride.de/",
+        "category": "Festival",
+        "venue": "Innenstadt Hamburg"
+      }
+    ]
+  },
+  {
+    "id": "city-koeln",
+    "events": [
+      {
+        "title": {
+          "de": "c/o pop Festival 2026",
+          "hu": "c/o pop Fesztivál 2026",
+          "ro": "Festivalul c/o pop 2026",
+          "en": "c/o pop Festival 2026"
+        },
+        "summary": {
+          "de": "Das Festival für Popkultur bespielt Ende August Clubs, Bühnen und Freiflächen in Ehrenfeld und anderen Kölner Veedeln mit Konzerten und Szeneprogramm.",
+          "hu": "A popkulturális fesztivál augusztus végén klubokat, színpadokat és szabadtéri helyszíneket tölt meg Ehrenfeldben és más kölni negyedekben koncertekkel és kísérőprogramokkal.",
+          "ro": "Festivalul de cultură pop animă la sfârșit de august cluburi, scene și spații în aer liber din Ehrenfeld și alte cartiere din Köln cu concerte și program de scenă.",
+          "en": "The pop culture festival fills clubs, stages and open-air spaces in Ehrenfeld and other Cologne districts in late August with concerts and scene programming."
+        },
+        "date": "2026-08-26",
+        "source_url": "https://c-o-pop.de/festival",
+        "category": "Musikfestival",
+        "venue": "Köln-Ehrenfeld und weitere Orte"
+      },
+      {
+        "title": {
+          "de": "gamescom 2026",
+          "hu": "gamescom 2026",
+          "ro": "gamescom 2026",
+          "en": "gamescom 2026"
+        },
+        "summary": {
+          "de": "Die weltweit große Spielemesse startet mit der Opening Night Live und füllt die Koelnmesse mehrere Tage lang mit Games, Premieren und Community-Programm.",
+          "hu": "A világ egyik legnagyobb videojátékos vására az Opening Night Live műsorral indul, majd több napon át játékokkal, premiérekkel és közösségi programokkal tölti meg a Koelnmesse területét.",
+          "ro": "Unul dintre cele mai mari târguri de jocuri video din lume începe cu Opening Night Live și ocupă timp de mai multe zile complexul Koelnmesse cu jocuri, premiere și program pentru comunitate.",
+          "en": "One of the world's biggest gaming fairs opens with Opening Night Live and fills the Koelnmesse for several days with games, premieres and community programming."
+        },
+        "date": "2026-08-19",
+        "source_url": "https://www.gamescom.global/en",
+        "category": "Messe",
+        "venue": "Koelnmesse"
+      },
+      {
+        "title": {
+          "de": "DMEXCO 2026",
+          "hu": "DMEXCO 2026",
+          "ro": "DMEXCO 2026",
+          "en": "DMEXCO 2026"
+        },
+        "summary": {
+          "de": "Die Digital-Marketing- und Tech-Messe versammelt im September internationale Unternehmen, Speaker und Fachpublikum auf dem Gelände der Koelnmesse.",
+          "hu": "A digitális marketing- és technológiai szakvásár szeptemberben nemzetközi vállalatokat, előadókat és szakmai közönséget gyűjt össze a Koelnmesse területén.",
+          "ro": "Târgul dedicat marketingului digital și tehnologiei reunește în septembrie companii internaționale, speakeri și public de specialitate la Koelnmesse.",
+          "en": "The digital marketing and tech expo brings together international companies, speakers and industry visitors at Koelnmesse in September."
+        },
+        "date": "2026-09-16",
+        "source_url": "https://dmexco.com/",
+        "category": "Messe",
+        "venue": "Koelnmesse"
+      },
+      {
+        "title": {
+          "de": "GENERALI Köln Marathon 2026",
+          "hu": "GENERALI Köln Marathon 2026",
+          "ro": "GENERALI Köln Marathon 2026",
+          "en": "GENERALI Cologne Marathon 2026"
+        },
+        "summary": {
+          "de": "Der große Straßenlauf führt im Oktober durch Kölner Stadtviertel und über markante Rheinpassagen, begleitet von zahlreichen Zuschauerinnen und Zuschauern.",
+          "hu": "Az októberi utcai futóverseny Köln városnegyedein és jellegzetes rajnai szakaszain halad át, sok néző kíséretében.",
+          "ro": "Marele maraton stradal traversează în octombrie cartierele Kölnului și porțiuni emblematice de pe malul Rinului, însoțit de numeroși spectatori.",
+          "en": "The major road race runs through Cologne neighborhoods and notable Rhine sections in October, accompanied by large crowds of spectators."
+        },
+        "date": "2026-10-04",
+        "source_url": "https://generali-koeln-marathon.de/",
+        "category": "Sport",
+        "venue": "Innenstadt Köln"
+      },
+      {
+        "title": {
+          "de": "Weihnachtsmarkt am Kölner Dom 2026",
+          "hu": "Karácsonyi vásár a kölni dómnál 2026",
+          "ro": "Târgul de Crăciun de la Catedrala din Köln 2026",
+          "en": "Christmas Market at Cologne Cathedral 2026"
+        },
+        "summary": {
+          "de": "Der große Weihnachtsmarkt am Dom öffnet im November mit Marktständen, Bühnenprogramm und Blick auf die Kölner Kathedrale im Zentrum der Altstadt.",
+          "hu": "A dóm melletti nagy karácsonyi vásár novemberben nyit, piaci standokkal, színpadi programokkal és a kölni székesegyház látványával az óváros központjában.",
+          "ro": "Marele târg de Crăciun de la Dom se deschide în noiembrie cu tarabe, program scenic și vedere spre catedrala din Köln, în centrul orașului vechi.",
+          "en": "The major Christmas market by the cathedral opens in November with stalls, stage performances and views of Cologne Cathedral in the heart of the old town."
+        },
+        "date": "2026-11-23",
+        "source_url": "https://www.weihnachtsmarkt-am-dom.de/en/",
+        "category": "Weihnachtsmarkt",
+        "venue": "Roncalliplatz / Kölner Dom"
+      }
+    ]
+  },
+  {
+    "id": "city-duesseldorf",
+    "events": [
+      {
+        "title": {
+          "de": "CARAVAN SALON Düsseldorf 2026",
+          "hu": "CARAVAN SALON Düsseldorf 2026",
+          "ro": "CARAVAN SALON Düsseldorf 2026",
+          "en": "CARAVAN SALON Düsseldorf 2026"
+        },
+        "summary": {
+          "de": "Die große Messe für Reisemobile, Caravans und mobile Freizeit findet Ende August und Anfang September auf dem Messegelände Düsseldorf statt.",
+          "hu": "A lakóautók, lakókocsik és mobil szabadidős életmód nagy szakvására augusztus végén és szeptember elején zajlik a düsseldorfi vásárterületen.",
+          "ro": "Marele târg dedicat rulotelor, autorulotelor și timpului liber mobil are loc la sfârșit de august și început de septembrie pe terenul expozițional din Düsseldorf.",
+          "en": "The major trade fair for motorhomes, caravans and mobile leisure takes place in late August and early September at the Düsseldorf exhibition grounds."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://www.caravan-salon.com/",
+        "category": "Messe",
+        "venue": "Messe Düsseldorf"
+      },
+      {
+        "title": {
+          "de": "Düsseldorf Festival 2026",
+          "hu": "Düsseldorf Festival 2026",
+          "ro": "Düsseldorf Festival 2026",
+          "en": "Düsseldorf Festival 2026"
+        },
+        "summary": {
+          "de": "Das Festivalprogramm verbindet im Frühherbst zeitgenössische Musik, Theater, Tanz und Crossover-Produktionen an mehreren Düsseldorfer Spielorten.",
+          "hu": "A kora őszi fesztivál kortárs zenét, színházat, táncot és crossover produkciókat kapcsol össze több düsseldorfi helyszínen.",
+          "ro": "Programul festivalului reunește la început de toamnă muzică contemporană, teatru, dans și producții crossover în mai multe spații din Düsseldorf.",
+          "en": "In early autumn, the festival program combines contemporary music, theater, dance and crossover productions across multiple Düsseldorf venues."
+        },
+        "date": "2026-09-16",
+        "source_url": "https://www.duesseldorf-festival.de/en/",
+        "category": "Kultur",
+        "venue": "Verschiedene Orte in Düsseldorf"
+      },
+      {
+        "title": {
+          "de": "MEDICA 2026",
+          "hu": "MEDICA 2026",
+          "ro": "MEDICA 2026",
+          "en": "MEDICA 2026"
+        },
+        "summary": {
+          "de": "Die internationale Medizinmesse bringt im November Fachpublikum, Hersteller und Innovationen aus Medizintechnik und Gesundheitswirtschaft nach Düsseldorf.",
+          "hu": "A nemzetközi orvostechnikai vásár novemberben szakmai közönséget, gyártókat és egészségipari innovációkat hoz Düsseldorfba.",
+          "ro": "Târgul internațional de medicină aduce în noiembrie la Düsseldorf public profesionist, producători și inovații din tehnologia medicală și sănătate.",
+          "en": "The international medical trade fair brings professional visitors, manufacturers and healthcare technology innovations to Düsseldorf in November."
+        },
+        "date": "2026-11-16",
+        "source_url": "https://www.medica-tradefair.com/",
+        "category": "Messe",
+        "venue": "Messe Düsseldorf"
+      },
+      {
+        "title": {
+          "de": "Düsseldorfer Weihnachtsmarkt 2026",
+          "hu": "Düsseldorfi karácsonyi vásár 2026",
+          "ro": "Târgul de Crăciun din Düsseldorf 2026",
+          "en": "Düsseldorf Christmas Market 2026"
+        },
+        "summary": {
+          "de": "Die Altstadt und Innenstadt werden im November und Dezember von mehreren thematischen Weihnachtsmärkten mit Handwerk, Gastronomie und Eisbahn geprägt.",
+          "hu": "Az óvárost és a belvárost novemberben és decemberben több tematikus karácsonyi vásár tölti meg kézműves termékekkel, gasztronómiával és jégpályával.",
+          "ro": "Centrul și orașul vechi sunt animate în noiembrie și decembrie de mai multe târguri de Crăciun tematice cu artizanat, gastronomie și patinoar.",
+          "en": "The old town and city center are animated in November and December by several themed Christmas markets with crafts, food and an ice rink."
+        },
+        "date": "2026-11-19",
+        "source_url": "https://www.visitduesseldorf.de/en/experience/events/christmas-market",
+        "category": "Weihnachtsmarkt",
+        "venue": "Altstadt / Innenstadt Düsseldorf"
+      }
+    ]
+  },
+  {
+    "id": "city-stuttgart",
+    "events": [
+      {
+        "title": {
+          "de": "Stuttgarter Weindorf 2026",
+          "hu": "Stuttgarti Borfalu 2026",
+          "ro": "Satul Vinului din Stuttgart 2026",
+          "en": "Stuttgart Wine Village 2026"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Weinfest bespielt Ende August und Anfang September Marktplatz, Schillerplatz und angrenzende Gassen mit regionalen Weinen und schwäbischer Küche.",
+          "hu": "A hagyományos borfesztivál augusztus végén és szeptember elején regionális borokkal és sváb konyhával tölti meg a Marktplatzot, a Schillerplatzot és a környező utcákat.",
+          "ro": "Festivalul tradițional al vinului ocupă la sfârșit de august și început de septembrie Marktplatz, Schillerplatz și străzile din jur cu vinuri regionale și bucătărie șvabă.",
+          "en": "The traditional wine festival fills Marktplatz, Schillerplatz and nearby lanes in late August and early September with regional wines and Swabian food."
+        },
+        "date": "2026-08-20",
+        "source_url": "https://stuttgarter-weindorf.de/",
+        "category": "Weinfest",
+        "venue": "Marktplatz / Schillerplatz"
+      },
+      {
+        "title": {
+          "de": "Cannstatter Volksfest 2026",
+          "hu": "Cannstatter Volksfest 2026",
+          "ro": "Cannstatter Volksfest 2026",
+          "en": "Cannstatter Volksfest 2026"
+        },
+        "summary": {
+          "de": "Eines der größten Volksfeste Europas bringt Ende September bis Oktober Festzelte, Fahrgeschäfte und den traditionellen Umzug auf den Cannstatter Wasen.",
+          "hu": "Európa egyik legnagyobb népünnepélye szeptember végétől októberig sörsátrakat, vidámparki attrakciókat és a hagyományos felvonulást hozza a Cannstatter Wasenre.",
+          "ro": "Una dintre cele mai mari sărbători populare din Europa aduce de la sfârșit de septembrie până în octombrie corturi festive, atracții și parada tradițională pe Cannstatter Wasen.",
+          "en": "One of Europe's largest folk festivals brings beer tents, rides and the traditional parade to the Cannstatter Wasen from late September into October."
+        },
+        "date": "2026-09-25",
+        "source_url": "https://www.cannstatter-volksfest.de/en/",
+        "category": "Volksfest",
+        "venue": "Cannstatter Wasen"
+      },
+      {
+        "title": {
+          "de": "Stuttgarter Weihnachtsmarkt 2026",
+          "hu": "Stuttgarti karácsonyi vásár 2026",
+          "ro": "Târgul de Crăciun din Stuttgart 2026",
+          "en": "Stuttgart Christmas Market 2026"
+        },
+        "summary": {
+          "de": "Der große Weihnachtsmarkt in der Innenstadt öffnet Ende November mit dekorierten Buden, Adventsprogramm und klassischen Standorten rund um Marktplatz und Schlossplatz.",
+          "hu": "A belvárosi nagy karácsonyi vásár november végén nyit díszített standokkal, adventi programokkal és a Marktplatz, valamint a Schlossplatz körüli hagyományos helyszínekkel.",
+          "ro": "Marele târg de Crăciun din centru se deschide la sfârșit de noiembrie cu tarabe decorate, program de Advent și locațiile clasice din jurul Marktplatz și Schlossplatz.",
+          "en": "The large city-center Christmas market opens in late November with decorated stalls, Advent programming and its classic locations around Marktplatz and Schlossplatz."
+        },
+        "date": "2026-11-25",
+        "source_url": "https://www.stuttgarter-weihnachtsmarkt.de/en/",
+        "category": "Weihnachtsmarkt",
+        "venue": "Innenstadt Stuttgart"
+      }
+    ]
+  }
+]
