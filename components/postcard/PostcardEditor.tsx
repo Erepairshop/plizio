@@ -32,6 +32,7 @@ export default function PostcardEditor() {
   const [sender, setSender] = useState("");
   const [theme, setTheme] = useState<PostcardTheme>("sunset");
   const [photoName, setPhotoName] = useState("");
+  const [imageRevision, setImageRevision] = useState(0);
   const [notice, setNotice] = useState("");
   const date = new Intl.DateTimeFormat("hu-HU", { year: "numeric", month: "short", day: "numeric" }).format(new Date());
 
@@ -42,12 +43,37 @@ export default function PostcardEditor() {
     const initialCountry = params.get(`country_${preferredLanguage}`) || params.get("country");
     if (initialPlace) setPlace(initialPlace.slice(0, 80));
     if (initialCountry) setCountry(initialCountry.slice(0, 60));
+
+    async function loadPlaceImage() {
+      if (!document.referrer) return;
+      try {
+        const sourceUrl = new URL(document.referrer);
+        if (sourceUrl.origin !== window.location.origin || sourceUrl.pathname.startsWith("/postcard")) return;
+        const response = await fetch(sourceUrl.pathname, { credentials: "same-origin" });
+        if (!response.ok) return;
+        const documentCopy = new DOMParser().parseFromString(await response.text(), "text/html");
+        const imageValue = documentCopy.querySelector<HTMLMetaElement>('meta[property="og:image"]')?.content;
+        if (!imageValue) return;
+        const imageUrl = new URL(imageValue, window.location.origin);
+        if (imageUrl.origin !== window.location.origin) return;
+        const image = new Image();
+        image.onload = () => {
+          imageRef.current = image;
+          setImageRevision((value) => value + 1);
+        };
+        image.src = imageUrl.href;
+      } catch {
+        // The illustrated postcard background remains the offline-safe fallback.
+      }
+    }
+
+    void loadPlaceImage();
   }, []);
 
   useEffect(() => {
     if (!canvasRef.current) return;
     renderPostcard(canvasRef.current, imageRef.current, { place, country, message, sender, theme, date });
-  }, [place, country, message, sender, theme, date, photoName]);
+  }, [place, country, message, sender, theme, date, photoName, imageRevision]);
 
   useEffect(() => () => {
     if (objectUrlRef.current) URL.revokeObjectURL(objectUrlRef.current);
