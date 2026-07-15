@@ -1,0 +1,421 @@
+[
+  {
+    "id": "city-ploiesti",
+    "events": [
+      {
+        "date": "2026-08-22",
+        "title": {
+          "de": "Jazz unter den Kastanien",
+          "hu": "Jazz a gesztenyefák alatt",
+          "ro": "Jazz sub Castani",
+          "en": "Jazz under the Chestnut Trees"
+        },
+        "summary": {
+          "de": "Das Stadtfestival Republica de sub Castani bringt am 22. und 23. August Jazzbands, Musikworkshops und Pop-up-Konzerte auf den Bulevardul Independenței.",
+          "hu": "A Republica de sub Castani városi fesztivál 2026. augusztus 22-23-án jazzzenekarokat, zenei workshopokat és pop-up koncerteket hoz a Bulevardul Independenței sugárútra.",
+          "ro": "Festivalul Republica de sub Castani programează pe 22-23 august trupe de jazz, ateliere muzicale și concerte pop-up pe Bulevardul Independenței.",
+          "en": "The Republica de sub Castani city festival brings jazz bands, music workshops and pop-up concerts to Bulevardul Independenței on 22-23 August."
+        },
+        "source_url": "https://ploiesti.ro/stiri/republica-de-sub-castani-continua-cu-inca-12-weekenduri-estivale-pline-de-bucurie-si-relaxare/"
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Jazz on the Rooftop VIII",
+          "hu": "Jazz on the Rooftop VIII",
+          "ro": "Jazz on the Rooftop VIII",
+          "en": "Jazz on the Rooftop VIII"
+        },
+        "summary": {
+          "de": "Die Filarmonica Paul Constantinescu veranstaltet vom 28. bis 30. August die achte Ausgabe ihres Dachterrassen-Jazzfestivals mit mehreren rumänischen und internationalen Projekten.",
+          "hu": "A Paul Constantinescu Filharmónia augusztus 28. és 30. között rendezi meg tetőteraszos jazzfesztiváljának nyolcadik kiadását több román és nemzetközi formációval.",
+          "ro": "Filarmonica Paul Constantinescu organizează între 28 și 30 august ediția a VIII-a a festivalului său de jazz pe rooftop, cu mai multe proiecte românești și internaționale.",
+          "en": "The Paul Constantinescu Philharmonic stages the eighth edition of its rooftop jazz festival from 28 to 30 August, featuring several Romanian and international projects."
+        },
+        "source_url": "https://filarmonicaploiesti.ro/concert/jazz-on-the-rooftop-viii-28-30-august-2026/"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "Artown in der Republik",
+          "hu": "Artown a Köztársaságban",
+          "ro": "Artown în Republică",
+          "en": "Artown in the Republic"
+        },
+        "summary": {
+          "de": "Am 29. und 30. August startet im Rahmen von Republica de sub Castani das Muralkunst- und Urban-Art-Wochenende Artown mit Workshops, DJs und Aktionen im Stadtraum.",
+          "hu": "Augusztus 29-30-án a Republica de sub Castani részeként indul az Artown murál- és urban art hétvége workshopokkal, DJ-kkel és városi programokkal.",
+          "ro": "Pe 29-30 august începe, în cadrul Republica de sub Castani, weekendul de mural și artă urbană Artown, cu workshopuri, DJ și activări în spațiul public.",
+          "en": "On 29-30 August, the Republica de sub Castani programme launches the Artown mural and urban art weekend with workshops, DJs and public-space activities."
+        },
+        "source_url": "https://ploiesti.ro/stiri/republica-de-sub-castani-continua-cu-inca-12-weekenduri-estivale-pline-de-bucurie-si-relaxare/"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "Außergewöhnliches Symphoniekonzert zur Saisoneröffnung",
+          "hu": "Rendkívüli szimfonikus évadnyitó koncert",
+          "ro": "Concert simfonic extraordinar de deschidere de stagiune",
+          "en": "Extraordinary symphonic season-opening concert"
+        },
+        "summary": {
+          "de": "Die Filarmonica Ploiești eröffnet am 18. September ihre 73. Symphoniesaison im Saal Ion Baciu mit einem Sonderkonzert unter dem Dach des George-Enescu-Festivals.",
+          "hu": "A ploiești-i Filharmónia szeptember 18-án az Ion Baciu teremben nyitja meg 73. szimfonikus évadát egy különleges, a George Enescu Fesztivál égisze alatti koncerttel.",
+          "ro": "Filarmonica Ploiești deschide pe 18 septembrie cea de-a 73-a stagiune simfonică, în Sala Ion Baciu, cu un concert extraordinar desfășurat sub egida Festivalului Internațional George Enescu.",
+          "en": "On 18 September, the Ploiești Philharmonic opens its 73rd symphonic season in Sala Ion Baciu with a special concert presented under the George Enescu Festival umbrella."
+        },
+        "source_url": "https://filarmonicaploiesti.ro/concert/"
+      }
+    ]
+  },
+  {
+    "id": "hamm-extra",
+    "events": [
+      {
+        "date": "2026-08-16",
+        "title": {
+          "de": "Piratenfest im Maxipark",
+          "hu": "Kalózfesztivál a Maxiparkban",
+          "ro": "Festivalul Piraților în Maxipark",
+          "en": "Pirates Festival at Maxipark"
+        },
+        "summary": {
+          "de": "Der Maximilianpark verwandelt sich am 16. August in eine Piratenwelt mit Schatzsuche, Spielstationen und Familienprogramm am Nachmittag.",
+          "hu": "A Maximilianpark augusztus 16-án kalózvilággá alakul kincskereséssel, játékállomásokkal és családi délutáni programmal.",
+          "ro": "Pe 16 august, Maximilianpark se transformă într-un univers al piraților, cu vânătoare de comori, jocuri tematice și program pentru familii.",
+          "en": "On 16 August, Maximilianpark turns into a pirate world with treasure hunts, themed activities and an afternoon family programme."
+        },
+        "source_url": "https://maximilianpark.de/veranstaltung/piratenfest"
+      },
+      {
+        "date": "2026-08-22",
+        "title": {
+          "de": "Fledermausfest",
+          "hu": "Denevérfesztivál",
+          "ro": "Festivalul Liliecilor",
+          "en": "Bat Festival"
+        },
+        "summary": {
+          "de": "Das Fledermausfest am 22. August bietet im Maxipark ab 18 Uhr ein Abendprogramm mit Naturvermittlung und Beobachtungen rund um die nachtaktiven Tiere.",
+          "hu": "Az augusztus 22-i denevéréjszaka a Maxiparkban 18 órától természetismereti és megfigyelési programot kínál az éjszakai állatokról.",
+          "ro": "Festivalul dedicat liliecilor din 22 august propune în Maxipark, de la ora 18:00, un program de seară cu explicații și observații despre aceste animale nocturne.",
+          "en": "The 22 August bat festival at Maxipark offers an evening programme from 6 p.m. with interpretation and observation activities focused on nocturnal wildlife."
+        },
+        "source_url": "https://maximilianpark.de/veranstaltung/fledermausfest-2"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "Flohmarkt im Ring",
+          "hu": "Bolhapiac a körúton",
+          "ro": "Târg de vechituri în inelul central",
+          "en": "Flea Market in the Ring"
+        },
+        "summary": {
+          "de": "Der große Innenstadt-Flohmarkt läuft am 29. August von 9 bis 15 Uhr im innerstädtischen Grünring mit privaten Ständen und Tauschangeboten.",
+          "hu": "A nagy belvárosi bolhapiac augusztus 29-én 9 és 15 óra között zajlik a belső zöld körúton magánárusokkal és cserelehetőségekkel.",
+          "ro": "Marele târg de vechituri din centrul orașului are loc pe 29 august, între 9:00 și 15:00, pe inelul verde central, cu standuri private și obiecte second-hand.",
+          "en": "The large city-centre flea market takes place on 29 August from 9 a.m. to 3 p.m. along the inner green ring, with private stalls and second-hand finds."
+        },
+        "source_url": "https://www.hamm.de/veranstaltungen/flohmarkt-im-ring"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "Gartenparty im Maxipark",
+          "hu": "Kerti parti a Maxiparkban",
+          "ro": "Garden Party în Maxipark",
+          "en": "Garden Party at Maxipark"
+        },
+        "summary": {
+          "de": "Am Abend des 29. August wird der Maxipark zur Open-Air-Location mit mehreren Musikbereichen, Tanzflächen und sommerlicher Festivalatmosphäre zum Stadtjubiläum.",
+          "hu": "Augusztus 29-én este a Maxipark szabadtéri helyszínné alakul több zenei zónával, tánctérrel és nyári fesztiválhangulattal a városi jubileum részeként.",
+          "ro": "În seara de 29 august, Maxipark devine o locație open-air cu mai multe zone muzicale, spații de dans și atmosferă de festival de vară, în cadrul jubileului orașului.",
+          "en": "On the evening of 29 August, Maxipark becomes an open-air venue with multiple music areas, dance spaces and a summer festival atmosphere as part of the city anniversary."
+        },
+        "source_url": "https://maximilianpark.de/veranstaltung/gartenparty-im-maxipark"
+      },
+      {
+        "date": "2026-10-09",
+        "title": {
+          "de": "Herbstleuchten",
+          "hu": "Őszi fények",
+          "ro": "Iluminările de toamnă",
+          "en": "Autumn Lights"
+        },
+        "summary": {
+          "de": "Vom 9. Oktober bis 1. November verwandelt das Herbstleuchten den Maxipark täglich abends in eine großflächige Lichtinstallation mit verlängerten Öffnungszeiten.",
+          "hu": "Október 9. és november 1. között az Őszi fények minden este nagyszabású fényinstallációvá alakítja a Maxiparkot, hosszabb nyitvatartással.",
+          "ro": "Între 9 octombrie și 1 noiembrie, evenimentul Herbstleuchten transformă zilnic seara Maxipark într-o amplă instalație luminoasă, cu program prelungit.",
+          "en": "From 9 October to 1 November, Herbstleuchten transforms Maxipark each evening into a large-scale illuminated landscape with extended opening hours."
+        },
+        "source_url": "https://maximilianpark.de/veranstaltung/herbstleuchten"
+      }
+    ]
+  },
+  {
+    "id": "france-paris-south-cities-v2",
+    "events": [
+      {
+        "date": "2026-09-06",
+        "title": {
+          "de": "Alpine Paris Major Premier Padel",
+          "hu": "Alpine Paris Major Premier Padel",
+          "ro": "Alpine Paris Major Premier Padel",
+          "en": "Alpine Paris Major Premier Padel",
+          "fr": "Alpine Paris Major Premier Padel"
+        },
+        "summary": {
+          "de": "Vom 6. bis 13. September gastiert das internationale Premier-Padel-Turnier im Stade Roland-Garros mit Spitzensport, DJ-Sets und Rahmenprogramm.",
+          "hu": "Szeptember 6. és 13. között a nemzetközi Premier Padel-torna a Stade Roland-Garros-ban zajlik élmezőnybeli mérkőzésekkel, DJ-szettekkel és kísérőprogramokkal.",
+          "ro": "Între 6 și 13 septembrie, turneul internațional Premier Padel revine la Stade Roland-Garros, cu meciuri de top, DJ seturi și activități conexe.",
+          "en": "From 6 to 13 September, the international Premier Padel tournament returns to Stade Roland-Garros with top-level matches, DJ sets and side activities.",
+          "fr": "Du 6 au 13 septembre, le tournoi international Premier Padel revient au stade Roland-Garros avec des matchs de haut niveau, des DJ sets et des animations."
+        },
+        "source_url": "https://parisjetaime.com/eng/event/alpine-paris-major-premier-padel-e1706"
+      },
+      {
+        "date": "2026-09-10",
+        "title": {
+          "de": "Paris Design Week 2026",
+          "hu": "Paris Design Week 2026",
+          "ro": "Paris Design Week 2026",
+          "en": "Paris Design Week 2026",
+          "fr": "Paris Design Week 2026"
+        },
+        "summary": {
+          "de": "Die Paris Design Week läuft vom 10. bis 19. September mit Ausstellungen, Installationen und Designrouten in der ganzen Hauptstadt.",
+          "hu": "A Paris Design Week szeptember 10. és 19. között zajlik kiállításokkal, installációkkal és dizájnútvonalakkal a főváros egész területén.",
+          "ro": "Paris Design Week are loc între 10 și 19 septembrie, cu expoziții, instalații și trasee de design în întreaga capitală.",
+          "en": "Paris Design Week runs from 10 to 19 September with exhibitions, installations and design routes across the capital.",
+          "fr": "Paris Design Week se déroule du 10 au 19 septembre avec des expositions, des installations et des parcours design dans toute la capitale."
+        },
+        "source_url": "https://parisjetaime.com/eng/article/paris-design-week-a800"
+      },
+      {
+        "date": "2026-09-14",
+        "title": {
+          "de": "Fête du sport",
+          "hu": "A sport ünnepe",
+          "ro": "Sărbătoarea sportului",
+          "en": "Festival of Sport",
+          "fr": "Fête du sport"
+        },
+        "summary": {
+          "de": "Am 14. September bietet Paris kostenlose Sportinitiationen, Vorführungen, Wellness-Angebote und Begegnungen mit Vereinen im öffentlichen Raum.",
+          "hu": "Szeptember 14-én Párizs ingyenes sportkipróbálásokat, bemutatókat, jólléti programokat és egyesületi találkozókat kínál a köztereken.",
+          "ro": "La 14 septembrie, Parisul propune activități sportive gratuite, demonstrații, ateliere de wellbeing și întâlniri cu cluburi și asociații în spațiul public.",
+          "en": "On 14 September, Paris offers free sports initiations, demonstrations, wellbeing workshops and meetings with clubs and associations in public spaces.",
+          "fr": "Le 14 septembre, Paris propose des initiations sportives gratuites, des démonstrations, des ateliers bien-être et des rencontres avec des clubs et associations dans l'espace public."
+        },
+        "source_url": "https://parisjetaime.com/evenement/fete-du-sport-paris-e1792"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Europäische Tage des Denkmals",
+          "hu": "Európai Örökség Napok",
+          "ro": "Zilele Europene ale Patrimoniului",
+          "en": "European Heritage Days",
+          "fr": "Journées européennes du patrimoine"
+        },
+        "summary": {
+          "de": "Am 19. und 20. September öffnen in Paris zahlreiche Monumente, Museen und sonst kaum zugängliche Orte bei freiem oder besonderem Zugang ihre Türen.",
+          "hu": "Szeptember 19-20-án Párizsban számos műemlék, múzeum és ritkán látogatható helyszín nyitja meg kapuit ingyenesen vagy külön programokkal.",
+          "ro": "Pe 19 și 20 septembrie, numeroase monumente, muzee și locuri rareori accesibile din Paris își deschid porțile cu acces liber sau programe speciale.",
+          "en": "On 19 and 20 September, many monuments, museums and rarely accessible sites across Paris open their doors with free or special access.",
+          "fr": "Les 19 et 20 septembre, de nombreux monuments, musées et lieux habituellement fermés au public ouvrent leurs portes à Paris avec un accès libre ou exceptionnel."
+        },
+        "source_url": "https://parisjetaime.com/eng/event/european-heritage-days-e012"
+      },
+      {
+        "date": "2026-09-28",
+        "title": {
+          "de": "Paris Fashion Week Damen Frühjahr/Sommer 2027",
+          "hu": "Párizsi Divathét női 2027 tavasz/nyár",
+          "ro": "Paris Fashion Week femei primăvară-vară 2027",
+          "en": "Paris Fashion Week Women's Spring/Summer 2027",
+          "fr": "Paris Fashion Week Femme printemps-été 2027"
+        },
+        "summary": {
+          "de": "Vom 28. September bis 6. Oktober prägen Modenschauen und publikumsnahe Begleitveranstaltungen die Hauptstadt zur Damenmode-Saison Frühjahr/Sommer 2027.",
+          "hu": "Szeptember 28. és október 6. között divatbemutatók és a közönség számára is elérhető kísérőprogramok uralják a fővárost a 2027-es női tavasz-nyári szezonra.",
+          "ro": "Între 28 septembrie și 6 octombrie, prezentările și evenimentele conexe accesibile publicului animă capitala în cadrul sezonului femei primăvară-vară 2027.",
+          "en": "From 28 September to 6 October, runway shows and public-facing side events animate the capital for the women's Spring/Summer 2027 season.",
+          "fr": "Du 28 septembre au 6 octobre, défilés et événements ouverts au public animent la capitale pour la saison femme printemps-été 2027."
+        },
+        "source_url": "https://parisjetaime.com/eng/event/paris-fashion-week-e091"
+      }
+    ]
+  },
+  {
+    "id": "netherlands-almere-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-08",
+        "title": {
+          "de": "De Buurtcamping Almere Haven 2026",
+          "hu": "De Buurtcamping Almere Haven 2026",
+          "ro": "De Buurtcamping Almere Haven 2026",
+          "en": "De Buurtcamping Almere Haven 2026"
+        },
+        "summary": {
+          "de": "Vom 8. bis 14. August entsteht in Almere Haven ein temporärer Nachbarschaftscampingplatz mit gemeinschaftlichem Ferienprogramm für verschiedene Altersgruppen.",
+          "hu": "Augusztus 8. és 14. között Almere Havenben ideiglenes közösségi kemping működik közös nyaralási programokkal több korosztály számára.",
+          "ro": "Între 8 și 14 august, în Almere Haven funcționează un camping temporar de cartier, cu program comunitar de vacanță pentru diferite vârste.",
+          "en": "From 8 to 14 August, Almere Haven hosts a temporary neighbourhood campsite with shared holiday activities for different age groups."
+        },
+        "source_url": "https://www.visitalmere.com/nl/agenda/evenementen/2963894166/de-buurtcamping-almere-haven-2026"
+      },
+      {
+        "date": "2026-08-09",
+        "title": {
+          "de": "Lumierepark Festival",
+          "hu": "Lumierepark Fesztivál",
+          "ro": "Festivalul Lumierepark",
+          "en": "Lumierepark Festival"
+        },
+        "summary": {
+          "de": "Das Lumierepark Festival am 9. August bietet einen ganztägigen Mix aus Musik, Tanz, Modenschau, Food und Nachbarschaftstreffen im Park.",
+          "hu": "Az augusztus 9-i Lumierepark Fesztivál egész napos programot kínál zenével, tánccal, divatbemutatóval, ételekkel és közösségi találkozókkal a parkban.",
+          "ro": "Festivalul Lumierepark din 9 august propune o zi întreagă de muzică, dans, prezentare de modă, gastronomie și întâlniri comunitare în parc.",
+          "en": "The Lumierepark Festival on 9 August offers a full day of music, dance, fashion, food and community gathering in the park."
+        },
+        "source_url": "https://www.visitalmere.com/nl/agenda/evenementen/1776820307/lumierepark-festival-1"
+      },
+      {
+        "date": "2026-08-15",
+        "title": {
+          "de": "HavenVibes",
+          "hu": "HavenVibes",
+          "ro": "HavenVibes",
+          "en": "HavenVibes"
+        },
+        "summary": {
+          "de": "HavenVibes belebt am 15. August den Hafen von Almere Haven mit kreativen Jugendformaten, Kultur, Wasserlage und Abendstimmung.",
+          "hu": "A HavenVibes augusztus 15-én kreatív ifjúsági programokkal, kultúrával és esti hangulattal tölti meg Almere Haven kikötőjét.",
+          "ro": "Pe 15 august, HavenVibes animă portul Almere Haven printr-un format creativ dedicat tinerilor, cu cultură și atmosferă de seară.",
+          "en": "On 15 August, HavenVibes energises Almere Haven harbour with a creative youth-focused format combining culture and evening atmosphere."
+        },
+        "source_url": "https://www.visitalmere.com/nl/agenda/evenementen/65403521/havenvibes-1"
+      },
+      {
+        "date": "2026-08-15",
+        "title": {
+          "de": "Indian Independence Day Music Festival",
+          "hu": "Indian Independence Day Music Festival",
+          "ro": "Indian Independence Day Music Festival",
+          "en": "Indian Independence Day Music Festival"
+        },
+        "summary": {
+          "de": "Am 15. August feiert Almere am Almeerderstrand die Unabhängigkeit Indiens mit familienfreundlicher Live-Musik, Kulturprogramm und Begegnungen.",
+          "hu": "Augusztus 15-én Almere az Almeerderstrandon India függetlenségét ünnepli családbarát élőzenével, kulturális programokkal és közösségi találkozásokkal.",
+          "ro": "La 15 august, Almere sărbătorește pe Almeerderstrand independența Indiei printr-un eveniment de familie cu muzică live, cultură și întâlniri comunitare.",
+          "en": "On 15 August, Almere celebrates India's independence at Almeerderstrand with family-friendly live music, culture and community gathering."
+        },
+        "source_url": "https://www.visitalmere.com/nl/agenda/evenementen/3453918163/indian-independence-day-music-festival"
+      },
+      {
+        "date": "2026-08-19",
+        "title": {
+          "de": "Zomerkermis",
+          "hu": "Nyári vásár és vidámpark",
+          "ro": "Bâlciul de vară",
+          "en": "Summer Funfair"
+        },
+        "summary": {
+          "de": "Die Zomerkermis zieht vom 19. bis 23. August auf die Esplanade in Almere Centrum mit Fahrgeschäften und klassischer Kirmesatmosphäre.",
+          "hu": "A Zomerkermis augusztus 19. és 23. között Almere Centrum Esplanade terére költözik vidámparki attrakciókkal és hagyományos vásári hangulattal.",
+          "ro": "Zomerkermis se instalează între 19 și 23 august pe Esplanade din Almere Centrum, cu atracții de bâlci și atmosferă clasică de sărbătoare.",
+          "en": "From 19 to 23 August, the Zomerkermis takes over the Esplanade in Almere Centrum with rides and classic fairground atmosphere."
+        },
+        "source_url": "https://www.visitalmere.com/nl/agenda/evenementen/61318679/zomerkermis-1"
+      }
+    ]
+  },
+  {
+    "id": "spain-burgos-cities-v2",
+    "events": [
+      {
+        "date": "2026-09-26",
+        "title": {
+          "de": "La alegría de la huerta",
+          "hu": "La alegría de la huerta",
+          "ro": "La alegría de la huerta",
+          "en": "La alegría de la huerta"
+        },
+        "summary": {
+          "de": "Die fünfte Temporada Lírica de Burgos bringt am 26. und 27. September die Zarzuela La alegría de la huerta ins Teatro Principal.",
+          "hu": "A Burgosi 5. Lírikai Évad szeptember 26-27-én a La alegría de la huerta zarzuelát mutatja be a Teatro Principal színpadán.",
+          "ro": "A cincea Temporada Lírica de Burgos programează pe 26 și 27 septembrie zarzuela La alegría de la huerta la Teatro Principal.",
+          "en": "The fifth Temporada Lírica de Burgos stages the zarzuela La alegría de la huerta at Teatro Principal on 26 and 27 September."
+        },
+        "source_url": "https://www.aytoburgos.es/agenda/-/calendarsuite/event/temporada-lirica-2026/118493236/pQeinQ3dyG6u"
+      },
+      {
+        "date": "2026-10-03",
+        "title": {
+          "de": "Karmento y amigos, La Serrana",
+          "hu": "Karmento y amigos, La Serrana",
+          "ro": "Karmento y amigos, La Serrana",
+          "en": "Karmento y amigos, La Serrana"
+        },
+        "summary": {
+          "de": "Am 3. Oktober empfängt die Fundación Caja de Burgos Karmento und Gäste zu La Serrana im Kulturzentrum an der Avenida Cantabria.",
+          "hu": "Október 3-án a Caja de Burgos Alapítvány a Karmento y amigos, La Serrana előadást fogadja az Avenida Cantabria kulturális helyszínén.",
+          "ro": "Pe 3 octombrie, Fundación Caja de Burgos găzduiește spectacolul Karmento y amigos, La Serrana, în spațiul său cultural de pe Avenida Cantabria.",
+          "en": "On 3 October, Fundación Caja de Burgos hosts Karmento y amigos, La Serrana at its cultural venue on Avenida Cantabria."
+        },
+        "source_url": "https://www.cajadeburgos.com/actividad/0505301271-provisional-cultura/"
+      },
+      {
+        "date": "2026-10-30",
+        "title": {
+          "de": "LaJoven, Invisible",
+          "hu": "LaJoven, Invisible",
+          "ro": "LaJoven, Invisible",
+          "en": "LaJoven, Invisible"
+        },
+        "summary": {
+          "de": "Das Bühnenprogramm Invisible von LaJoven steht am 30. Oktober im Programm der Fundación Caja de Burgos.",
+          "hu": "A LaJoven társulat Invisible című előadása október 30-án szerepel a Fundación Caja de Burgos programjában.",
+          "ro": "Spectacolul Invisible al companiei LaJoven este programat pe 30 octombrie în agenda Fundación Caja de Burgos.",
+          "en": "LaJoven's stage production Invisible is scheduled at Fundación Caja de Burgos on 30 October."
+        },
+        "source_url": "https://www.cajadeburgos.com/actividad/0505101170-invisible-lajoven/"
+      },
+      {
+        "date": "2026-11-06",
+        "title": {
+          "de": "Repion",
+          "hu": "Repion",
+          "ro": "Repion",
+          "en": "Repion"
+        },
+        "summary": {
+          "de": "Die Band Repion tritt am 6. November im Rahmen des Kulturprogramms der Fundación Caja de Burgos in Burgos auf.",
+          "hu": "A Repion zenekar november 6-án lép fel Burgosban a Fundación Caja de Burgos kulturális programjának részeként.",
+          "ro": "Trupa Repion concertează pe 6 noiembrie la Burgos, în cadrul programului cultural al Fundación Caja de Burgos.",
+          "en": "The band Repion performs in Burgos on 6 November as part of Fundación Caja de Burgos's cultural programme."
+        },
+        "source_url": "https://www.cajadeburgos.com/actividad/0505301278-repion/"
+      },
+      {
+        "date": "2026-12-07",
+        "title": {
+          "de": "Carmen",
+          "hu": "Carmen",
+          "ro": "Carmen",
+          "en": "Carmen"
+        },
+        "summary": {
+          "de": "Die Temporada Lírica de Burgos schließt am 7. und 8. Dezember mit Bizets Carmen im Teatro Principal ab.",
+          "hu": "A Burgosi Lírikai Évad december 7-8-án Bizet Carmen című operájával zárul a Teatro Principalban.",
+          "ro": "Temporada Lírica de Burgos se încheie pe 7 și 8 decembrie cu opera Carmen de Bizet la Teatro Principal.",
+          "en": "The Burgos lyrical season closes on 7 and 8 December with Bizet's Carmen at Teatro Principal."
+        },
+        "source_url": "https://www.aytoburgos.es/agenda/-/calendarsuite/event/temporada-lirica-2026/118493236/pQeinQ3dyG6u"
+      }
+    ]
+  }
+]

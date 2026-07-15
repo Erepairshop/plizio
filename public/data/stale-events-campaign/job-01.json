@@ -1,0 +1,427 @@
+[
+  {
+    "id": "city-copenhagen",
+    "events": [
+      {
+        "title": {
+          "de": "UHØRT Festival 2026",
+          "hu": "UHØRT Fesztivál 2026",
+          "ro": "Festivalul UHØRT 2026",
+          "en": "UHØRT Festival 2026"
+        },
+        "summary": {
+          "de": "Das Musikfestival fuer neue dänische Acts findet im Kødbyen statt und praesentiert drei Tage lang aufstrebende Künstlerinnen und Künstler aus mehreren Genres.",
+          "hu": "A koppenhágai Kødbyen negyedben rendezett zenei fesztivál három napon át mutat be feltörekvő dán előadókat több műfajból.",
+          "ro": "Festivalul de muzică din cartierul Kødbyen prezintă timp de trei zile artiști danezi emergenți din mai multe genuri.",
+          "en": "The music festival in Kødbyen showcases emerging Danish artists over three days across multiple genres."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://www.visitcopenhagen.com/copenhagen/planning/uhort-festival-gdk1091916"
+      },
+      {
+        "title": {
+          "de": "Copenhagen Pride Week",
+          "hu": "Koppenhágai Pride Hét",
+          "ro": "Săptămâna Copenhagen Pride",
+          "en": "Copenhagen Pride Week"
+        },
+        "summary": {
+          "de": "Die Pride-Woche bringt Paraden, Kulturveranstaltungen, Debatten und offene Community-Programme in die dänische Hauptstadt.",
+          "hu": "A Pride-hét felvonulásokat, kulturális programokat, beszélgetéseket és közösségi eseményeket hoz Koppenhágába.",
+          "ro": "Săptămâna Pride aduce în capitala daneză parade, evenimente culturale, dezbateri și programe comunitare deschise.",
+          "en": "Pride Week brings parades, cultural events, debates and open community programming to the Danish capital."
+        },
+        "date": "2026-08-08",
+        "source_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-pride-week-gdk474741"
+      },
+      {
+        "title": {
+          "de": "Copenhagen Opera Festival",
+          "hu": "Koppenhágai Operafesztivál",
+          "ro": "Festivalul de Operă din Copenhaga",
+          "en": "Copenhagen Opera Festival"
+        },
+        "summary": {
+          "de": "Das Opernfestival bespielt vom 13. bis 23. August verschiedene Orte in Kopenhagen und bringt klassische sowie experimentelle Produktionen in die Stadt.",
+          "hu": "Az operafesztivál augusztus 13. es 23. között több koppenhágai helyszínen kínál klasszikus és kísérleti előadásokat.",
+          "ro": "Festivalul de operă ocupă mai multe spații din Copenhaga între 13 și 23 august și aduce în oraș producții clasice și experimentale.",
+          "en": "The opera festival runs across multiple Copenhagen venues from 13 to 23 August, bringing both classical and experimental productions to the city."
+        },
+        "date": "2026-08-13",
+        "source_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-opera-festival-gdk560682"
+      },
+      {
+        "title": {
+          "de": "Copenhagen Cooking and Food Festival",
+          "hu": "Copenhagen Cooking and Food Festival",
+          "ro": "Copenhagen Cooking and Food Festival",
+          "en": "Copenhagen Cooking and Food Festival"
+        },
+        "summary": {
+          "de": "Eines der groessten Food-Festivals Nordeuropas feiert die dänische und nordische Gastronomie mit zahlreichen Veranstaltungen in der ganzen Stadt.",
+          "hu": "Észak-Európa egyik legnagyobb gasztronómiai fesztiválja a dán és északi konyhát ünnepli sok helyszínen szerte a városban.",
+          "ro": "Unul dintre cele mai mari festivaluri culinare din Europa de Nord celebrează gastronomia daneză și nordică prin numeroase evenimente în tot orașul.",
+          "en": "One of Northern Europe's largest food festivals celebrates Danish and Nordic gastronomy with events across the city."
+        },
+        "date": "2026-08-21",
+        "source_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-cooking-gdk419149"
+      },
+      {
+        "title": {
+          "de": "Kulturnatten",
+          "hu": "Kulturális Éjszaka",
+          "ro": "Noaptea Culturii",
+          "en": "Culture Night"
+        },
+        "summary": {
+          "de": "Bei der Kulturnatten oeffnen Hunderte Museen, Kirchen und Institutionen in Kopenhagen ihre Tueren fuer Sonderprogramme und selten zugaengliche Raeume.",
+          "hu": "A Kulturális Éjszakán múzeumok, templomok és intézmények százai nyitják meg kapuikat különprogramokkal és ritkán látogatható terekkel.",
+          "ro": "La Noaptea Culturii, sute de muzee, biserici și instituții din Copenhaga își deschid porțile pentru programe speciale și spații rar accesibile.",
+          "en": "During Culture Night, hundreds of museums, churches and institutions across Copenhagen open for special programming and rare access."
+        },
+        "date": "2026-10-09",
+        "source_url": "https://www.visitcopenhagen.com/copenhagen/planning/culture-night-gdk421149"
+      }
+    ]
+  },
+  {
+    "id": "city-dublin",
+    "events": [
+      {
+        "title": {
+          "de": "TG4 Ladies Gaelic Football All-Ireland Finals",
+          "hu": "TG4 Női Gaelic Football All-Ireland Döntők",
+          "ro": "Finalele All-Ireland de fotbal gaelic feminin TG4",
+          "en": "TG4 Ladies Gaelic Football All-Ireland Finals"
+        },
+        "summary": {
+          "de": "Im Croke Park findet der große Finaltag des gaelic football der Frauen mit mehreren Endspielen und einem ganztägigen Stadionprogramm statt.",
+          "hu": "A Croke Park ad otthont a női gaelic football döntőnapjának több fináléval és egész napos stadionprogrammal.",
+          "ro": "Croke Park găzduiește ziua marilor finale ale fotbalului gaelic feminin, cu mai multe meciuri decisive și program pe tot parcursul zilei.",
+          "en": "Croke Park hosts the major finals day for ladies' Gaelic football, with multiple title games and a full-day stadium programme."
+        },
+        "date": "2026-08-02",
+        "source_url": "https://www.visitdublin.com/tg4-ladies-gaelic-football-all-ireland-finals-august-2026"
+      },
+      {
+        "title": {
+          "de": "Dublin Horse Show 2026",
+          "hu": "Dublini Lovasshow 2026",
+          "ro": "Dublin Horse Show 2026",
+          "en": "Dublin Horse Show 2026"
+        },
+        "summary": {
+          "de": "Die traditionsreiche Pferdesportveranstaltung kehrt fuer fünf Tage in die RDS zurueck und verbindet internationales Springreiten mit Shopping, Gastronomie und Familienangeboten.",
+          "hu": "A hagyományos lovassport-esemény öt napra tér vissza az RDS-be, nemzetközi díjugratással, vásárral, gasztronómiával és családi programokkal.",
+          "ro": "Evenimentul ecvestru tradițional revine pentru cinci zile la RDS, combinând sărituri internaționale, cumpărături, gastronomie și oferte pentru familii.",
+          "en": "The long-running equestrian event returns to the RDS for five days, combining international show jumping with shopping, food and family attractions."
+        },
+        "date": "2026-08-05",
+        "source_url": "https://www.visitdublin.com/dublin-horse-show-2026"
+      },
+      {
+        "title": {
+          "de": "Wider Than Pictures 2026",
+          "hu": "Wider Than Pictures 2026",
+          "ro": "Wider Than Pictures 2026",
+          "en": "Wider Than Pictures 2026"
+        },
+        "summary": {
+          "de": "Die Sommerreihe im Collins Barracks bringt mehrere internationale Live-Acts in den historischen Hof des National Museum of Ireland.",
+          "hu": "A Collins Barracks nyári koncertsorozata több nemzetközi élő fellépőt hoz az Ír Nemzeti Múzeum történelmi udvarába.",
+          "ro": "Seria de vară de la Collins Barracks aduce mai mulți artiști live internaționali în curtea istorică a Muzeului Național al Irlandei.",
+          "en": "The summer series at Collins Barracks brings multiple international live acts to the historic courtyard of the National Museum of Ireland."
+        },
+        "date": "2026-08-25",
+        "source_url": "https://www.visitdublin.com/wider-than-pictures-2026"
+      },
+      {
+        "title": {
+          "de": "Aer Lingus College Football Classic",
+          "hu": "Aer Lingus College Football Classic",
+          "ro": "Aer Lingus College Football Classic",
+          "en": "Aer Lingus College Football Classic"
+        },
+        "summary": {
+          "de": "Im Aviva Stadium treffen TCU und North Carolina in einem College-Football-Spiel aufeinander, das internationale Sportfans nach Dublin zieht.",
+          "hu": "Az Aviva Stadiumban a TCU és a North Carolina csap össze egy egyetemi amerikaifutball-meccsen, amely nemzetközi szurkolókat vonz Dublinba.",
+          "ro": "Pe Aviva Stadium, TCU și North Carolina se întâlnesc într-un meci de fotbal universitar care atrage la Dublin fani internaționali ai sportului.",
+          "en": "At Aviva Stadium, TCU and North Carolina meet in a college football game that draws international sports fans to Dublin."
+        },
+        "date": "2026-08-29",
+        "source_url": "https://www.visitdublin.com/aer-lingus-college-football-classic-tcu-horned-frogs-vs-north-carolina-tar-heels"
+      },
+      {
+        "title": {
+          "de": "Open House Dublin 2026",
+          "hu": "Open House Dublin 2026",
+          "ro": "Open House Dublin 2026",
+          "en": "Open House Dublin 2026"
+        },
+        "summary": {
+          "de": "Das Architekturfestival oeffnet in ganz Dublin sonst verborgene Gebaeude, Baustellen und Designorte fuer Fuehrungen und Sonderbesuche.",
+          "hu": "Az építészeti fesztivál Dublin-szerte megnyit egyébként zárt épületeket, fejlesztési helyszíneket és tervezési tereket vezetett látogatásokra.",
+          "ro": "Festivalul de arhitectură deschide în tot Dublinul clădiri, șantiere și spații de design care de obicei nu sunt accesibile publicului.",
+          "en": "The architecture festival opens otherwise hidden buildings, worksites and design spaces across Dublin for tours and special visits."
+        },
+        "date": "2026-10-10",
+        "source_url": "https://www.visitdublin.com/open-house-dublin-2026"
+      }
+    ]
+  },
+  {
+    "id": "city-brussels",
+    "events": [
+      {
+        "title": {
+          "de": "Brussels Dance Festival",
+          "hu": "Brussels Dance Festival",
+          "ro": "Brussels Dance Festival",
+          "en": "Brussels Dance Festival"
+        },
+        "summary": {
+          "de": "Das Stadtzentrum von Bruessel wird zehn Tage lang zur offenen Tanzbuehne mit Shows, Battles, Workshops, Filmvorfuehrungen und DJ-Sets.",
+          "hu": "Brüsszel belvárosa tíz napra szabadtéri táncszínpaddá alakul előadásokkal, battle-ökkel, workshopokkal, vetítésekkel és DJ-szettekkel.",
+          "ro": "Centrul Bruxellesului devine timp de zece zile o mare scenă de dans în aer liber, cu spectacole, battle-uri, ateliere, proiecții și DJ seturi.",
+          "en": "Central Brussels turns into a large open-air dance stage for ten days with performances, battles, workshops, screenings and DJ sets."
+        },
+        "date": "2026-08-14",
+        "source_url": "https://www.visit.brussels/en/visitors/event-details.Brussels-Dance-Festival.5700024821"
+      },
+      {
+        "title": {
+          "de": "Hide & Seek Festival 2026",
+          "hu": "Hide & Seek Festival 2026",
+          "ro": "Hide & Seek Festival 2026",
+          "en": "Hide & Seek Festival 2026"
+        },
+        "summary": {
+          "de": "Das Musikfestival bespielt ungewoehnliche und sonst kaum zugaengliche Orte in Bruessel, darunter ein Tramdepot, ein Rathaus und weitere historische Raeume.",
+          "hu": "A fesztivál szokatlan és ritkán látogatható brüsszeli helyszíneket tölt meg zenével, köztük villamosremízt, városházát és más történelmi tereket.",
+          "ro": "Festivalul umple cu muzică locuri neobișnuite și rar accesibile din Bruxelles, inclusiv un depou de tramvaie, o primărie și alte spații istorice.",
+          "en": "The festival fills unusual and rarely accessible Brussels venues with music, including a tram depot, a town hall and other historic spaces."
+        },
+        "date": "2026-08-17",
+        "source_url": "https://www.visit.brussels/en/visitors/agenda/event-detail.Hide-and-Seek-Festival-2026.5700023971"
+      },
+      {
+        "title": {
+          "de": "Festival Midis-Minimes 2026",
+          "hu": "Festival Midis-Minimes 2026",
+          "ro": "Festival Midis-Minimes 2026",
+          "en": "Festival Midis-Minimes 2026"
+        },
+        "summary": {
+          "de": "Die beliebte Reihe mit kurzen Mittagskonzerten bringt klassische Musik ins BOZAR und bietet eine leicht zugaengliche Festivalerfahrung im Stadtzentrum.",
+          "hu": "A népszerű rövid déli koncertsorozat klasszikus zenét visz a BOZAR-ba, és könnyen elérhető fesztiválélményt kínál a belvárosban.",
+          "ro": "Cunoscuta serie de concerte scurte de la prânz aduce muzică clasică la BOZAR și oferă o experiență de festival ușor accesibilă în centrul orașului.",
+          "en": "The popular short lunchtime concert series brings classical music to BOZAR and offers an accessible festival experience in the city centre."
+        },
+        "date": "2026-08-17",
+        "source_url": "https://www.visit.brussels/en/visitors/event-details.Festival-Midis-Minimes-2026.593887"
+      },
+      {
+        "title": {
+          "de": "Brussels Games Festival 2026",
+          "hu": "Brussels Games Festival 2026",
+          "ro": "Brussels Games Festival 2026",
+          "en": "Brussels Games Festival 2026"
+        },
+        "summary": {
+          "de": "Im The EGG dreht sich drei Tage lang alles um Brettspiele, Rollenspiele, Prototypen, Familienbereiche und Treffen mit Designerinnen und Verlagen.",
+          "hu": "A The EGG három napon át a társasjátékokról, szerepjátékokról, prototípusokról, családi zónákról és alkotói találkozókról szól.",
+          "ro": "La The EGG, trei zile sunt dedicate jocurilor de societate, jocurilor de rol, prototipurilor, zonelor pentru familii și întâlnirilor cu designeri și edituri.",
+          "en": "At The EGG, three days are dedicated to board games, role-playing games, prototypes, family zones and meetings with designers and publishers."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://www.visit.brussels/en/visitors/agenda/event-detail.Brussels-Games-Festival-2026.5700024757"
+      },
+      {
+        "title": {
+          "de": "Fiesta Latina - 25th anniversary",
+          "hu": "Fiesta Latina - 25th anniversary",
+          "ro": "Fiesta Latina - 25th anniversary",
+          "en": "Fiesta Latina - 25th anniversary"
+        },
+        "summary": {
+          "de": "Im Parc du Cinquantenaire feiert das Latin-Festival sein 25-jähriges Bestehen mit Konzerten, Tanz, Shows, Streetfood und spaeten Partys.",
+          "hu": "A Cinquantenaire parkban a latin fesztivál a 25. évfordulóját ünnepli koncertekkel, tánccal, show-műsorokkal, utcai ételekkel és késő esti bulikkal.",
+          "ro": "În Parc du Cinquantenaire, festivalul latino își sărbătorește a 25-a aniversare cu concerte, dans, spectacole, mâncare stradală și petreceri târzii.",
+          "en": "At Parc du Cinquantenaire, the Latin festival celebrates its 25th anniversary with concerts, dancing, shows, street food and late parties."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://www.visit.brussels/fr/visiteurs/evenement.Fiesta-Latina-25th-anniversary.5700023976"
+      }
+    ]
+  },
+  {
+    "id": "NL-CT-ROT",
+    "events": [
+      {
+        "title": {
+          "de": "Floating Pasar Rotterdam",
+          "hu": "Floating Pasar Rotterdam",
+          "ro": "Floating Pasar Rotterdam",
+          "en": "Floating Pasar Rotterdam"
+        },
+        "summary": {
+          "de": "Das zweitaegige Festival am Wasser feiert asiatische Esskultur, Musik und Marktstimmung mit freiem Eintritt in Rotterdam.",
+          "hu": "A vízparti kétnapos fesztivál az ázsiai gasztronómiát, a zenét és a vásári hangulatot ünnepli ingyenes belépéssel Rotterdamban.",
+          "ro": "Festivalul de două zile de pe apă celebrează gastronomia asiatică, muzica și atmosfera de târg, cu intrare liberă în Rotterdam.",
+          "en": "The two-day waterfront festival celebrates Asian food culture, music and market atmosphere with free admission in Rotterdam."
+        },
+        "date": "2026-08-14",
+        "source_url": "https://www.rotterdam.info/en/visit/finder-events/floating-pasar-rotterdam"
+      },
+      {
+        "title": {
+          "de": "CuliNESSE",
+          "hu": "CuliNESSE",
+          "ro": "CuliNESSE",
+          "en": "CuliNESSE"
+        },
+        "summary": {
+          "de": "Am Zevenhuizerplas kombiniert das Festival Live-Musik mit kulinarischem Programm und sommerlicher Seelage an drei Tagen.",
+          "hu": "A Zevenhuizerplas partján a fesztivál három napon át ötvözi az élő zenét, a gasztronómiai programokat és a nyári tóparti hangulatot.",
+          "ro": "La Zevenhuizerplas, festivalul combină timp de trei zile muzica live cu oferta culinară și atmosfera estivală de pe malul lacului.",
+          "en": "At Zevenhuizerplas, the festival combines live music with food programming and a summer lakeside setting over three days."
+        },
+        "date": "2026-08-26",
+        "source_url": "https://www.rotterdam.info/en/visit/finder-events/culinesse"
+      },
+      {
+        "title": {
+          "de": "Klassiek in Het Park",
+          "hu": "Klassiek in Het Park",
+          "ro": "Klassiek in Het Park",
+          "en": "Klassiek in Het Park"
+        },
+        "summary": {
+          "de": "Das kostenlose Festival im Het Park schliesst den Sommer mit klassischer Musik in entspannter Freiluftatmosphaere bei der Euromast ab.",
+          "hu": "A Het Park ingyenes fesztiválja klasszikus zenével és laza szabadtéri hangulattal zárja a nyarat az Euromast közelében.",
+          "ro": "Festivalul gratuit din Het Park încheie vara cu muzică clasică și o atmosferă relaxată în aer liber lângă Euromast.",
+          "en": "The free festival in Het Park closes the summer with classical music in a relaxed open-air setting near the Euromast."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://www.rotterdam.info/en/visit/finder-events/klassiek-in-het-park"
+      },
+      {
+        "title": {
+          "de": "World Port Days",
+          "hu": "World Port Days",
+          "ro": "World Port Days",
+          "en": "World Port Days"
+        },
+        "summary": {
+          "de": "Die Wereldhavendagen geben Besucherinnen und Besuchern mit Shows, Exkursionen und Vorfuehrungen einen direkten Einblick in den Hafen von Rotterdam.",
+          "hu": "A Wereldhavendagen bemutatókkal, kirándulásokkal és látványos programokkal enged bepillantást Rotterdam kikötőjébe.",
+          "ro": "Wereldhavendagen oferă publicului acces la Portul Rotterdam prin spectacole, excursii și demonstrații pe apă și pe uscat.",
+          "en": "Wereldhavendagen gives visitors direct access to the Port of Rotterdam through shows, excursions and demonstrations on and around the water."
+        },
+        "date": "2026-09-03",
+        "source_url": "https://www.rotterdam.info/en/visit/finder-events/wereldhavendagen"
+      },
+      {
+        "title": {
+          "de": "Rotterdam Half",
+          "hu": "Rotterdam Half",
+          "ro": "Rotterdam Half",
+          "en": "Rotterdam Half"
+        },
+        "summary": {
+          "de": "Der Halbmarathon fuehrt durch das Hafengebiet von Rotterdam-Zuid und startet sowie endet an der Maassilo.",
+          "hu": "A félmaraton Rotterdam-Zuid kikötői területén halad át, ikonikus rajt- és célhelyszínnel a Maassilónál.",
+          "ro": "Semimaratonul traversează zona portuară Rotterdam-Zuid, cu startul și sosirea la Maassilo.",
+          "en": "The half marathon runs through the port area of Rotterdam-Zuid, with its iconic start and finish at the Maassilo."
+        },
+        "date": "2026-09-20",
+        "source_url": "https://www.rotterdam.info/en/visit/finder-events/rotterdam-half"
+      }
+    ]
+  },
+  {
+    "id": "poland-krakow-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Wawel at Dusk 2026",
+          "hu": "Wawel at Dusk 2026",
+          "ro": "Wawel at Dusk 2026",
+          "en": "Wawel at Dusk 2026"
+        },
+        "summary": {
+          "de": "Die Sommerkonzertreihe auf dem Wawel bringt ab Ende Juli Kammermusik und Sonderprogramme in die Innenhoefe des Koenigsschlosses.",
+          "hu": "A Wawel nyári koncertsorozata július végétől kamarazenei esteket és különprogramokat visz a királyi vár udvaraiba.",
+          "ro": "Seria de concerte de vară de la Wawel aduce de la sfârșitul lui iulie muzică de cameră și programe speciale în curțile castelului regal.",
+          "en": "The summer concert series at Wawel brings chamber music and special programmes to the courtyards of the royal castle from late July."
+        },
+        "date": "2026-07-30",
+        "source_url": "https://krakow.travel/en/64412-krakow-wawel-at-dusk-2026"
+      },
+      {
+        "title": {
+          "de": "Musica Divina 2026: Media vita",
+          "hu": "Musica Divina 2026: Media vita",
+          "ro": "Musica Divina 2026: Media vita",
+          "en": "Musica Divina 2026: Media vita"
+        },
+        "summary": {
+          "de": "Das Festival widmet sich sakraler und vokaler Musik und entfaltet Anfang August ein thematisch kuratiertes Programm in Krakau.",
+          "hu": "A fesztivál a szakrális és vokális zenére összpontosít, és augusztus elején tematikusan szerkesztett programot kínál Krakkóban.",
+          "ro": "Festivalul este dedicat muzicii sacre și vocale și propune la început de august un program tematic în Cracovia.",
+          "en": "The festival focuses on sacred and vocal music, presenting a thematically curated programme in Krakow at the start of August."
+        },
+        "date": "2026-08-03",
+        "source_url": "https://krakow.travel/en/64454-krakow-musica-divina-2026-media-vita"
+      },
+      {
+        "title": {
+          "de": "43rd Music in Old Cracow Festival",
+          "hu": "43rd Music in Old Cracow Festival",
+          "ro": "43rd Music in Old Cracow Festival",
+          "en": "43rd Music in Old Cracow Festival"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Musikfestival bespielt zwischen dem 15. und 31. August historische Kirchen und Saele der Altstadt mit hochkarätigen Konzerten.",
+          "hu": "A hagyományos zenei fesztivál augusztus 15. és 31. között a történelmi óváros templomait és termeit tölti meg rangos koncertekkel.",
+          "ro": "Festivalul muzical de tradiție ocupă între 15 și 31 august bisericile și sălile istorice din centrul vechi cu concerte de nivel înalt.",
+          "en": "The long-running music festival fills historic churches and halls in the Old Town with high-level concerts between 15 and 31 August."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://krakow.travel/en/28430-krakow-43rd-music-in-old-cracow-festival"
+      },
+      {
+        "title": {
+          "de": "Museum Night 2026 at Wawel",
+          "hu": "Museum Night 2026 a Wawelben",
+          "ro": "Museum Night 2026 la Wawel",
+          "en": "Museum Night 2026 at Wawel"
+        },
+        "summary": {
+          "de": "Zur Museumsnacht oeffnet Wawel abends Sonderrouten durch Gärten, Ausstellungen, Privaträume und die Wawel-Unterwelt zu reduziertem Eintritt.",
+          "hu": "A Múzeumok Éjszakáján a Wawel esti különútvonalakat kínál a kertekben, kiállításokon, magánlakosztályokban és a föld alatti terekben kedvezményes belépővel.",
+          "ro": "La Noaptea Muzeelor, Wawel oferă trasee speciale de seară prin grădini, expoziții, apartamente private și spațiile subterane, cu bilet redus.",
+          "en": "For Museum Night, Wawel offers evening special routes through gardens, exhibitions, private apartments and underground spaces at reduced admission."
+        },
+        "date": "2026-08-30",
+        "source_url": "https://wawel.krakow.pl/en/event/museum-night-2026"
+      },
+      {
+        "title": {
+          "de": "Unsound 2026: Soft Power",
+          "hu": "Unsound 2026: Soft Power",
+          "ro": "Unsound 2026: Soft Power",
+          "en": "Unsound 2026: Soft Power"
+        },
+        "summary": {
+          "de": "Unsound bringt sein international beachtetes Programm fuer experimentelle Musik und Klangkunst im Oktober erneut nach Krakau.",
+          "hu": "Az Unsound októberben ismét Krakkóba hozza nemzetközileg ismert kísérleti zenei és hangművészeti programját.",
+          "ro": "Unsound aduce din nou în octombrie la Cracovia programul său recunoscut internațional de muzică experimentală și artă sonoră.",
+          "en": "Unsound brings its internationally noted programme of experimental music and sound art back to Krakow in October."
+        },
+        "date": "2026-10-08",
+        "source_url": "https://krakow.travel/en/63829-krakow-unsound-2026-soft-power"
+      }
+    ]
+  }
+]

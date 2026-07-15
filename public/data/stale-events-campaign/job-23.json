@@ -1,0 +1,389 @@
+[
+  {
+    "id": "spain-marbella-cities-v2",
+    "events": [
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Art World Marbella",
+          "hu": "Art World Marbella",
+          "ro": "Art World Marbella",
+          "en": "Art World Marbella"
+        },
+        "summary": {
+          "de": "Internationale Messe für zeitgenössische Kunst im Palacio de Congresos Adolfo Suárez mit Galerien, Künstlern und Sammlern.",
+          "hu": "Nemzetközi kortárs művészeti vásár a Palacio de Congresos Adolfo Suárez helyszínén galériákkal, művészekkel és gyűjtőkkel.",
+          "ro": "Târg internațional de artă contemporană la Palacio de Congresos Adolfo Suárez, cu galerii, artiști și colecționari.",
+          "en": "International contemporary art fair at the Palacio de Congresos Adolfo Suárez bringing together galleries, artists and collectors."
+        },
+        "source_url": "https://turismo.marbella.es/agenda/art-world-marbella.html"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Cena de Gala Benéfica",
+          "hu": "Jótékonysági gálavacsora",
+          "ro": "Cină de gală caritabilă",
+          "en": "Charity Gala Dinner"
+        },
+        "summary": {
+          "de": "Die 41. Benefiz-Gala der spanischen Krebshilfe AECC findet in Marbella statt und sammelt Mittel für die Organisation.",
+          "hu": "A Spanyol Rákellenes Szövetség 41. jótékonysági gálavacsorája Marbellában gyűjt támogatást a szervezet számára.",
+          "ro": "A 41-a cină de gală caritabilă a Asociației Spaniole Împotriva Cancerului are loc la Marbella pentru strângere de fonduri.",
+          "en": "The 41st charity gala dinner of the Spanish Association Against Cancer takes place in Marbella to raise funds for the organisation."
+        },
+        "source_url": "https://turismo.marbella.es/agenda.html"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Black Coffee",
+          "hu": "Black Coffee",
+          "ro": "Black Coffee",
+          "en": "Black Coffee"
+        },
+        "summary": {
+          "de": "Der international bekannte Afro-House-DJ Black Coffee spielt ein Konzert in Marbella Arena.",
+          "hu": "A nemzetközileg ismert afro-house DJ, Black Coffee koncertet ad a Marbella Arenában.",
+          "ro": "DJ-ul internațional de afro-house Black Coffee susține un concert la Marbella Arena.",
+          "en": "Internationally known afro-house DJ Black Coffee performs at Marbella Arena."
+        },
+        "source_url": "https://turismo.marbella.es/agenda.html"
+      },
+      {
+        "date": "2026-08-13",
+        "title": {
+          "de": "Festival Jardín de las Delicias",
+          "hu": "Jardín de las Delicias Fesztivál",
+          "ro": "Festivalul Jardín de las Delicias",
+          "en": "Jardín de las Delicias Festival"
+        },
+        "summary": {
+          "de": "Sommerausgabe des Popfestivals in Marbella mit Mitsing-Hits und großem Konzertformat.",
+          "hu": "A popfesztivál nyári különkiadása Marbellában közönségkedvenc dalokkal és nagyszínpados koncertélménnyel.",
+          "ro": "Ediție de vară a festivalului pop la Marbella, cu hituri cunoscute și format de mare concert.",
+          "en": "Summer edition of the pop festival in Marbella with sing-along hits and a large concert format."
+        },
+        "source_url": "https://turismo.marbella.es/agenda.html"
+      }
+    ]
+  },
+  {
+    "id": "braila",
+    "events": [
+      {
+        "date": "2026-10-09",
+        "title": {
+          "de": "Johnny Răducanu International Jazz Festival 2026",
+          "hu": "Johnny Răducanu Nemzetközi Jazzfesztivál 2026",
+          "ro": "Festivalul Internațional de Jazz Johnny Răducanu 2026",
+          "en": "Johnny Răducanu International Jazz Festival 2026"
+        },
+        "summary": {
+          "de": "Das vom Kreisrat Brăila organisierte Wettbewerbsfestival ehrt Johnny Răducanu mit Wettbewerb und Jazz-Recitals vom 9. bis 11. Oktober.",
+          "hu": "A Brăila megyei tanács által szervezett versenyfesztivál Johnny Răducanut ünnepli versenyprogrammal és jazzrecitálokkal október 9. és 11. között.",
+          "ro": "Festivalul-concurs organizat de Consiliul Județean Brăila îl omagiază pe Johnny Răducanu prin concurs și recitaluri de jazz între 9 și 11 octombrie.",
+          "en": "The competition festival organised by Brăila County Council honours Johnny Răducanu with contests and jazz recitals from 9 to 11 October."
+        },
+        "source_url": "https://centruldecreatiebraila.ro/wp-content/uploads/2026/05/2026-Jazz-Regulation.pdf"
+      },
+      {
+        "date": "2026-10-15",
+        "title": {
+          "de": "Folk-, Poesie- und Theaterabend",
+          "hu": "Folk-, költészeti és színházi est",
+          "ro": "Recital de folk, poezie și inserții teatrale",
+          "en": "Folk, Poetry and Theatre Recital"
+        },
+        "summary": {
+          "de": "Das Kulturzentrum des Kreises Brăila plant für den 15. Oktober ein öffentliches Programm mit Folk-Musik, Poesie und Theatereinlagen.",
+          "hu": "A Brăila megyei kulturális központ október 15-re nyilvános folkzenei, költészeti és színházi műsort ütemezett.",
+          "ro": "Centrul județean de cultură din Brăila a programat pentru 15 octombrie un eveniment public cu muzică folk, poezie și inserții teatrale.",
+          "en": "Brăila’s county cultural centre has scheduled a public programme of folk music, poetry and theatrical interludes for 15 October."
+        },
+        "source_url": "https://centruldecreatiebraila.ro/despre/achizitii-publice/"
+      },
+      {
+        "date": "2026-10-17",
+        "title": {
+          "de": "Comedie la MAXIM",
+          "hu": "Comedie la MAXIM",
+          "ro": "Comedie la MAXIM",
+          "en": "Comedie la MAXIM"
+        },
+        "summary": {
+          "de": "Romică Țociu und Cornel Palade bringen ihre Bühnenshow in das Casa Tineretului in Brăila.",
+          "hu": "Romică Țociu és Cornel Palade színpadi show-ja a brăilai Casa Tineretului helyszínére érkezik.",
+          "ro": "Romică Țociu și Cornel Palade aduc spectacolul lor de comedie la Casa Tineretului din Brăila.",
+          "en": "Romică Țociu and Cornel Palade bring their comedy stage show to Casa Tineretului in Brăila."
+        },
+        "source_url": "https://www.entertix.ro/events/37902/braila-comedie-la-maxim-romica-tociu-si-cornel-palade-17-october-2026-casa-tineretului-braila.html"
+      },
+      {
+        "date": "2026-10-18",
+        "title": {
+          "de": "Candlelight: Coldplay vs. Imagine Dragons",
+          "hu": "Candlelight: Coldplay vs. Imagine Dragons",
+          "ro": "Candlelight: Coldplay vs. Imagine Dragons",
+          "en": "Candlelight: Coldplay vs. Imagine Dragons"
+        },
+        "summary": {
+          "de": "Konzert bei Kerzenschein im ALMA in Brăila mit Streichquartett-Interpretationen von Coldplay- und Imagine-Dragons-Songs.",
+          "hu": "Gyertyafényes koncert Brăilában, az ALMA helyszínén, vonósnégyes-feldolgozásokkal Coldplay- és Imagine Dragons-dalokból.",
+          "ro": "Concert la lumina lumânărilor la ALMA din Brăila, cu interpretări de cvartet de coarde din repertoriul Coldplay și Imagine Dragons.",
+          "en": "Candlelight concert at ALMA in Brăila featuring string quartet interpretations of songs by Coldplay and Imagine Dragons."
+        },
+        "source_url": "https://concerts50.com/show/candlelight-coldplay-vs-imagine-dragons-in-br-ila-tickets-oct-18-2026"
+      }
+    ]
+  },
+  {
+    "id": "nimes",
+    "events": [
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "Le rêve du gladiateur",
+          "hu": "Le rêve du gladiateur",
+          "ro": "Le rêve du gladiateur",
+          "en": "The Gladiator's Dream",
+          "fr": "Le rêve du gladiateur"
+        },
+        "summary": {
+          "de": "Abendshow in den Arènes de Nîmes, die das römische Erbe der Stadt mit großem Spektakel inszeniert.",
+          "hu": "Esti nagyszabású előadás a nîmes-i arénában, amely látványos módon idézi meg a város római örökségét.",
+          "ro": "Spectacol de seară în Arenele din Nîmes care pune în scenă moștenirea romană a orașului.",
+          "en": "Evening arena show in Nîmes staging the city’s Roman heritage in a large-scale spectacle.",
+          "fr": "Grand spectacle nocturne dans les arènes mettant en scène l'héritage romain de Nîmes."
+        },
+        "source_url": "https://www.nimes.fr/agenda/le-reve-du-gladiateur"
+      },
+      {
+        "date": "2026-08-13",
+        "title": {
+          "de": "Courses camarguaises - Trophée des As 2026",
+          "hu": "Courses camarguaises - Trophée des As 2026",
+          "ro": "Courses camarguaises - Trophée des As 2026",
+          "en": "Camargue Races - Trophée des As 2026",
+          "fr": "Courses camarguaises - Trophée des As 2026"
+        },
+        "summary": {
+          "de": "Traditionelle Camargue-Rennen in den Arènes de Nîmes mit mehreren Terminen im August.",
+          "hu": "Hagyományos camargue-i versenyek a nîmes-i arénában több augusztusi időpontban.",
+          "ro": "Curse tradiționale camargue în Arenele din Nîmes, programate în mai multe date din august.",
+          "en": "Traditional Camargue races in the Arènes de Nîmes held on several dates in August.",
+          "fr": "Courses camarguaises traditionnelles organisées aux arènes de Nîmes sur plusieurs dates en août."
+        },
+        "source_url": "https://www.nimes.fr/agenda/courses-camarguaises-trophee-des-as-2026"
+      },
+      {
+        "date": "2026-08-14",
+        "title": {
+          "de": "Lorenzo & Friends - Arènes de Nîmes",
+          "hu": "Lorenzo & Friends - Arènes de Nîmes",
+          "ro": "Lorenzo & Friends - Arenele din Nîmes",
+          "en": "Lorenzo & Friends - Arènes de Nîmes",
+          "fr": "Lorenzo & Friends - Arènes de Nîmes"
+        },
+        "summary": {
+          "de": "Familienfreundliche Reit- und Showproduktion in den Arènes mit Lorenzo, Les Hasta Luego und Renaud Vinuesa.",
+          "hu": "Családbarát lovas és show-előadás az arénában Lorenzo, Les Hasta Luego és Renaud Vinuesa közreműködésével.",
+          "ro": "Spectacol ecvestru și de divertisment pentru publicul larg în arene, cu Lorenzo, Les Hasta Luego și Renaud Vinuesa.",
+          "en": "Family-friendly equestrian and entertainment show in the arena with Lorenzo, Les Hasta Luego and Renaud Vinuesa.",
+          "fr": "Spectacle équestre et grand public dans les arènes avec Lorenzo, Les Hasta Luego et Renaud Vinuesa."
+        },
+        "source_url": "https://www.nimes.fr/agenda/lorenzo-friends-arenes-de-nimes"
+      },
+      {
+        "date": "2026-08-26",
+        "title": {
+          "de": "5e Rencontres Musicales de Nîmes",
+          "hu": "5e Rencontres Musicales de Nîmes",
+          "ro": "A 5-a ediție Rencontres Musicales de Nîmes",
+          "en": "5th Rencontres Musicales de Nîmes",
+          "fr": "5e Rencontres Musicales de Nîmes"
+        },
+        "summary": {
+          "de": "Kammermusikfestival im H2 Centre des congrès de Nîmes und im Temple de l'Oratoire vom 26. bis 29. August.",
+          "hu": "Kamarazenei fesztivál a H2 kongresszusi központban és a Temple de l'Oratoire helyszínén augusztus 26. és 29. között.",
+          "ro": "Festival de muzică de cameră la H2 Centre des congrès de Nîmes și la Temple de l'Oratoire, între 26 și 29 august.",
+          "en": "Chamber music festival at the H2 convention centre and the Temple de l'Oratoire from 26 to 29 August.",
+          "fr": "Festival de musique de chambre au H2 Centre des congrès de Nîmes et au Temple de l'Oratoire du 26 au 29 août."
+        },
+        "source_url": "https://www.nimes.fr/agenda/5e-rencontres-musicales-de-nimes"
+      },
+      {
+        "date": "2026-10-11",
+        "title": {
+          "de": "Nîmes Métropole Jazz Festival - Abd Al Malik + Odeza",
+          "hu": "Nîmes Métropole Jazz Festival - Abd Al Malik + Odeza",
+          "ro": "Nîmes Métropole Jazz Festival - Abd Al Malik + Odeza",
+          "en": "Nîmes Métropole Jazz Festival - Abd Al Malik + Odeza",
+          "fr": "Nîmes Métropole Jazz Festival - Abd Al Malik + Odeza"
+        },
+        "summary": {
+          "de": "Herbstlicher Festivalabend im Paloma mit Abd Al Malik und Odeza im Programm des Nîmes Métropole Jazz Festival.",
+          "hu": "Őszi fesztiválest a Paloma helyszínén Abd Al Malik és Odeza fellépésével a Nîmes Métropole Jazz Festival keretében.",
+          "ro": "Seară de festival la Paloma cu Abd Al Malik și Odeza în programul Nîmes Métropole Jazz Festival.",
+          "en": "Autumn festival evening at Paloma featuring Abd Al Malik and Odeza as part of the Nîmes Métropole Jazz Festival.",
+          "fr": "Soirée de festival automnale à Paloma avec Abd Al Malik et Odeza dans le cadre du Nîmes Métropole Jazz Festival."
+        },
+        "source_url": "https://www.nimes.fr/agenda/nimes-metropole-jazz-festival-abd-al-malik-odeza"
+      }
+    ]
+  },
+  {
+    "id": "cy-limassol",
+    "events": [
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Massimo Giordano",
+          "hu": "Massimo Giordano",
+          "ro": "Massimo Giordano",
+          "en": "Massimo Giordano"
+        },
+        "summary": {
+          "de": "Der Tenor Massimo Giordano gibt ein Konzert im antiken Theater von Kourion bei Limassol.",
+          "hu": "Massimo Giordano tenor koncertet ad a Limassol melletti kourioni ókori színházban.",
+          "ro": "Tenorul Massimo Giordano susține un concert la Amfiteatrul Antic Kourion, lângă Limassol.",
+          "en": "Tenor Massimo Giordano performs at the Kourion Ancient Amphitheatre near Limassol."
+        },
+        "source_url": "https://allaboutlimassol.com/en/massimo-giordano-2026"
+      },
+      {
+        "date": "2026-09-25",
+        "title": {
+          "de": "Beonix Festival",
+          "hu": "Beonix Fesztivál",
+          "ro": "Festivalul Beonix",
+          "en": "Beonix Festival"
+        },
+        "summary": {
+          "de": "Dreitägiges elektronisches Musikfestival im ETKO mit internationalen DJs, Lichtshows und Festivalproduktion.",
+          "hu": "Háromnapos elektronikus zenei fesztivál az ETKO helyszínén nemzetközi DJ-kkel és látványos fényshow-val.",
+          "ro": "Festival de muzică electronică desfășurat timp de trei zile la ETKO, cu DJ internaționali și show-uri de lumini.",
+          "en": "Three-day electronic music festival at ETKO with international DJs, large-scale light shows and festival production."
+        },
+        "source_url": "https://allaboutlimassol.com/en/beonix-festival-2026"
+      },
+      {
+        "date": "2026-10-02",
+        "title": {
+          "de": "Fanny Ardant - Cassandre",
+          "hu": "Fanny Ardant - Cassandre",
+          "ro": "Fanny Ardant - Cassandre",
+          "en": "Fanny Ardant - Cassandre"
+        },
+        "summary": {
+          "de": "Fanny Ardant bringt die Produktion „Cassandre“ im Rahmen des Cyprus International Theatre Festival ins Pattihio Theatre.",
+          "hu": "Fanny Ardant a „Cassandre” előadást hozza a Pattihio Theatre-be a Cyprus International Theatre Festival részeként.",
+          "ro": "Fanny Ardant prezintă spectacolul „Cassandre” la Pattihio Theatre în cadrul Cyprus International Theatre Festival.",
+          "en": "Fanny Ardant brings the production “Cassandre” to Pattihio Theatre as part of the Cyprus International Theatre Festival."
+        },
+        "source_url": "https://allaboutlimassol.com/en/fanny-ardant-cassandre"
+      },
+      {
+        "date": "2026-10-20",
+        "title": {
+          "de": "Mad Mozart",
+          "hu": "Mad Mozart",
+          "ro": "Mad Mozart",
+          "en": "Mad Mozart"
+        },
+        "summary": {
+          "de": "Bühnenproduktion im Pattihio Theatre, die klassische Instrumente mit Rock-, Pop- und elektronischen Hits verbindet.",
+          "hu": "Színpadi produkció a Pattihio Theatre-ben, amely a klasszikus hangszereket rock-, pop- és elektronikus slágerekkel ötvözi.",
+          "ro": "Producție de scenă la Pattihio Theatre care combină instrumente clasice cu hituri rock, pop și electronice.",
+          "en": "Stage production at Pattihio Theatre combining classical instruments with rock, pop and electronic hits."
+        },
+        "source_url": "https://allaboutlimassol.com/en/mad-mozart"
+      },
+      {
+        "date": "2026-10-25",
+        "title": {
+          "de": "LunarPhos Festival 2026",
+          "hu": "LunarPhos Fesztivál 2026",
+          "ro": "Festivalul LunarPhos 2026",
+          "en": "LunarPhos Festival 2026"
+        },
+        "summary": {
+          "de": "Neues mehrtägiges Festival bei Agios Pavlos, das Limassol Ende Oktober in eine große Kultur- und Eventkulisse verwandeln soll.",
+          "hu": "Új, többnapos fesztivál Agios Pavlos térségében, amely október végén kulturális és eseményhelyszínné alakítja Limassolt.",
+          "ro": "Festival nou, desfășurat pe mai multe zile la Agios Pavlos, care transformă Limassolul într-un mare spațiu cultural la final de octombrie.",
+          "en": "New multi-day festival at Agios Pavlos set to turn Limassol into a large cultural event setting at the end of October."
+        },
+        "source_url": "https://allaboutlimassol.com/en/agenda/"
+      }
+    ]
+  },
+  {
+    "id": "kreuzberg-extra",
+    "events": [
+      {
+        "date": "2026-08-27",
+        "title": {
+          "de": "Berlin Salsacongress 2026",
+          "hu": "Berlin Salsacongress 2026",
+          "ro": "Berlin Salsacongress 2026",
+          "en": "Berlin Salsacongress 2026"
+        },
+        "summary": {
+          "de": "Vier Tage Social Dancing, Workshops und Shows im Tempodrom in Kreuzberg mit Teilnehmenden aus mehr als 60 Ländern.",
+          "hu": "Négy nap social dancing, workshopok és show-műsorok a kreuzbergi Tempodromban több mint 60 országból érkező résztvevőkkel.",
+          "ro": "Patru zile de social dancing, workshopuri și show-uri la Tempodrom din Kreuzberg, cu participanți din peste 60 de țări.",
+          "en": "Four days of social dancing, workshops and shows at Tempodrom in Kreuzberg with participants from more than 60 countries."
+        },
+        "source_url": "https://www.tempodrom.de/en/event/berlin_salsacongress_2026_2026-08-27_2026-08-30_00/"
+      },
+      {
+        "date": "2026-09-25",
+        "title": {
+          "de": "Djavan",
+          "hu": "Djavan",
+          "ro": "Djavan",
+          "en": "Djavan"
+        },
+        "summary": {
+          "de": "Der brasilianische Sänger Djavan spielt im Tempodrom seine Jubiläumstour „50 years - The Greatest Hits“.",
+          "hu": "A brazil énekes Djavan a Tempodromban adja elő jubileumi „50 years - The Greatest Hits” turnéját.",
+          "ro": "Cântărețul brazilian Djavan aduce la Tempodrom turneul aniversar „50 years - The Greatest Hits”.",
+          "en": "Brazilian singer Djavan brings his anniversary tour “50 years - The Greatest Hits” to Tempodrom."
+        },
+        "source_url": "https://www.tempodrom.de/en/event/djavan_2026-09-25_20/"
+      },
+      {
+        "date": "2026-10-16",
+        "title": {
+          "de": "Pub Choir",
+          "hu": "Pub Choir",
+          "ro": "Pub Choir",
+          "en": "Pub Choir"
+        },
+        "summary": {
+          "de": "Interaktive Mitsing-Show in der Kleinen Arena des Tempodroms, bei der das Publikum gemeinsam einen Popsong einstudiert.",
+          "hu": "Interaktív közös éneklős show a Tempodrom Kleine Arena termében, ahol a közönség együtt tanul meg egy popdalt.",
+          "ro": "Show interactiv de cântat împreună în Kleine Arena din Tempodrom, unde publicul învață colectiv un cântec pop.",
+          "en": "Interactive sing-along show in Tempodrom’s Kleine Arena where the audience collectively learns and performs a pop song."
+        },
+        "source_url": "https://www.tempodrom.de/en/event/pub_choir_2026-10-16_20/"
+      },
+      {
+        "date": "2026-11-19",
+        "title": {
+          "de": "The Pogues",
+          "hu": "The Pogues",
+          "ro": "The Pogues",
+          "en": "The Pogues"
+        },
+        "summary": {
+          "de": "Die Band bringt ihre Greatest-Hits-Tour mit Gastvokalisten und Musikern in die Große Arena des Tempodroms.",
+          "hu": "A zenekar vendégénekesekkel és zenészekkel érkezik a Tempodrom nagytermébe a Greatest Hits turnéval.",
+          "ro": "Trupa aduce turneul Greatest Hits în Große Arena de la Tempodrom, cu invitați vocali și muzicieni speciali.",
+          "en": "The band brings its Greatest Hits tour with special guest vocalists and musicians to Tempodrom’s Große Arena."
+        },
+        "source_url": "https://www.tempodrom.de/en/event/the_pogues_2026-11-19_20/"
+      }
+    ]
+  }
+]

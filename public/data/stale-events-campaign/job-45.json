@@ -1,0 +1,373 @@
+[
+  {
+    "id": "belgium-mons-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Les Estivales de Trolls & Legendes 2026",
+          "hu": "Les Estivales de Trolls & Legendes 2026",
+          "ro": "Les Estivales de Trolls & Legendes 2026",
+          "en": "Les Estivales de Trolls & Legendes 2026"
+        },
+        "summary": {
+          "de": "Die Stadt Mons und Trolls&Legendes laden zu einem kostenlosen Sommertag mit Brettspielen, historischen Spielen im Freien, Marktstaenden, Animationen und Konzerten ein.",
+          "hu": "Mons városa es a Trolls&Legendes egy ingyenes nyari napra varja a latogatokat tarsasjatekokkal, szabadtéri hagyomanyos jatekokkal, kezműves piaccal, programokkal es koncertekkel.",
+          "ro": "Orasul Mons si asociatia Trolls&Legendes propun o zi de vara cu acces gratuit, jocuri de societate, jocuri vechi in aer liber, piata artizanala, animatie si concerte.",
+          "en": "The City of Mons and Trolls&Legendes host a free summer day with board games, traditional outdoor games, a local market, entertainment and concerts."
+        },
+        "source_url": "https://www.visitmons.be/fr/agenda/les-estivales-de-trolls-and-legendes-2026-125281"
+      },
+      {
+        "date": "2026-08-15",
+        "title": {
+          "de": "La Caravane du Jazz an der Abtei Saint-Denis",
+          "hu": "La Caravane du Jazz a Saint-Denis apatsagnal",
+          "ro": "La Caravane du Jazz la Abația Saint-Denis",
+          "en": "La Caravane du Jazz at Saint-Denis Abbey"
+        },
+        "summary": {
+          "de": "Das kostenlose Jazzprogramm in der Abtei Saint-Denis umfasst mehrere Live-Sets, darunter Ivan Paduart & Patrick Deltenre, Swing Buddies und eine Hommage an Miles Davis.",
+          "hu": "Az ingyenes jazznap a Saint-Denis apatsagnal tobb elo koncertet kinal, koztuk Ivan Paduart & Patrick Deltenre, Swing Buddies es egy Miles Davis-emlekprogram fellépesevel.",
+          "ro": "Programul gratuit de jazz de la Abația Saint-Denis include mai multe recitaluri live, printre care Ivan Paduart & Patrick Deltenre, Swing Buddies si un omagiu adus lui Miles Davis.",
+          "en": "This free jazz day at Saint-Denis Abbey features several live sets, including Ivan Paduart & Patrick Deltenre, Swing Buddies and a Miles Davis tribute."
+        },
+        "source_url": "https://www.visitmons.be/fr/agenda/le-caravane-du-jazz-a-labbaye-de-saint-denis-753066"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "FRAGILE(S): Konferenz in der Stiftskirche Sainte-Waudru",
+          "hu": "FRAGILE(S): konferencia a Sainte-Waudru templomban",
+          "ro": "FRAGILE(S): conferinta la Colegiata Sainte-Waudru",
+          "en": "FRAGILE(S): conference at Sainte-Waudru Collegiate Church"
+        },
+        "summary": {
+          "de": "Im Rahmen des FRAGILE(S)-Programms spricht eine Abendkonferenz ueber den Schutz von Kulturgut in Kirchen und vertieft die Restaurierungsgeschichte eines wiedergefundenen Gemaeldes.",
+          "hu": "A FRAGILE(S) program esti konferenciaja az egyhazi oroksegvedelemrol szol, es egy visszakerult festmeny restauralasanak tortenetet is bemutatja.",
+          "ro": "Conferinta de seara din programul FRAGILE(S) este dedicata securitatii bunurilor de patrimoniu din biserici si contextului restaurarii unei picturi recuperate.",
+          "en": "This evening talk in the FRAGILE(S) programme focuses on safeguarding church heritage and the restoration story of a recovered painting."
+        },
+        "source_url": "https://www.visitmons.be/fr/agenda/fragiles-histoires-de-patrimoines-restaures-conference-a-la-collegiale-sainte-waudru-848502"
+      },
+      {
+        "date": "2026-09-13",
+        "title": {
+          "de": "FRAGILE(S): Fuehrung durch die Ausstellung",
+          "hu": "FRAGILE(S): vezetett kiallitasi seta",
+          "ro": "FRAGILE(S): tur ghidat al expozitiei",
+          "en": "FRAGILE(S): guided exhibition visit"
+        },
+        "summary": {
+          "de": "Die gefuehrte Besichtigung vertieft die Ausstellung ueber restaurierte Kulturgueter in der Artotheque und erklaert anschaulich Restaurierung, Analysen und Erhaltungsarbeit.",
+          "hu": "A vezetett seta az Artotheque restauralt oroksegi kiallitását mutatja be reszletesebben, kozerthetoen elmagyarazva a restauralasi es megorzesi munkat.",
+          "ro": "Turul ghidat aprofundeaza expozitia din Artotheque dedicata patrimoniului restaurat si explica pe intelesul vizitatorilor munca de restaurare si conservare.",
+          "en": "The guided visit offers a closer look at the Artotheque exhibition on restored heritage and explains the restoration, analysis and conservation work."
+        },
+        "source_url": "https://www.visitmons.be/fr/agenda/article/destination-mons--032951"
+      }
+    ]
+  },
+  {
+    "id": "city-avignon-extra",
+    "events": [
+      {
+        "date": "2026-07-28",
+        "title": {
+          "de": "Jazz Avignon Musics Festival",
+          "hu": "Jazz Avignon Musics Festival",
+          "ro": "Jazz Avignon Musics Festival",
+          "en": "Jazz Avignon Musics Festival",
+          "fr": "Jazz Avignon Musics Festival"
+        },
+        "summary": {
+          "de": "Das Festival bringt Ende Juli und Anfang August mehrere Jazzabende nach Avignon und bietet Besuchern Live-Konzerte in sommerlicher Abendatmosphaere.",
+          "hu": "A fesztival julius vegen es augusztus elejen tobb jazzestet hoz Avignonba, elo koncertekkel es nyari esti hangulattal.",
+          "ro": "Festivalul aduce la sfarsitul lui iulie si inceputul lui august mai multe seri de jazz la Avignon, cu concerte live si atmosfera de vara.",
+          "en": "The festival brings several jazz evenings to Avignon at the end of July and start of August, with live concerts and a summer-night atmosphere.",
+          "fr": "Le festival propose plusieurs soirees jazz a Avignon entre fin juillet et debut aout, avec des concerts live dans une ambiance estivale."
+        },
+        "source_url": "https://avignon-tourisme.com/en/offres/jazz-avignon-musics-festival-avignon-en-4231335/"
+      },
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "Un verre aux jardins",
+          "hu": "Un verre aux jardins",
+          "ro": "Un verre aux jardins",
+          "en": "Un verre aux jardins",
+          "fr": "Un verre aux jardins"
+        },
+        "summary": {
+          "de": "Im Garten des Papstpalasts koennen Besucher an Augustabenden ein Getraenk bei Musik und Sommerstimmung in einer der bekanntesten historischen Anlagen Avignons geniessen.",
+          "hu": "A Papi Palota kertjeben az augusztusi esteken ital, zene es nyari hangulat varja a latogatokat Avignon egyik legismertebb tortenelmi helyszinen.",
+          "ro": "In gradinile Palatului Papilor, serile de august combina bauturi, muzica si atmosfera relaxata intr-unul dintre cele mai cunoscute locuri istorice din Avignon.",
+          "en": "In the Palace of the Popes gardens, August evenings combine drinks, music and a relaxed summer atmosphere in one of Avignon's best-known historic settings.",
+          "fr": "Dans les jardins du Palais des Papes, les soirees d'aout melent musique, verre en terrasse et ambiance detendue dans un cadre patrimonial majeur."
+        },
+        "source_url": "https://palais-des-papes.com/en/?ref=d65da703-6e97-43c1-b9bd-659454448d22"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "Cotes du Rhone Weinfest",
+          "hu": "Cotes du Rhone bormegunneples",
+          "ro": "Festivalul vinurilor Cotes du Rhone",
+          "en": "Cotes du Rhone wine festival",
+          "fr": "Fete des vins Cotes du Rhone"
+        },
+        "summary": {
+          "de": "Auf dem Platz vor dem Papstpalast praesentiert das kostenlose Fest Cotes-du-Rhone-Weine in abendlicher Innenstadtatmosphaere.",
+          "hu": "A Papi Palota elotti teren az ingyenes borunnep Cotes-du-Rhone borokat mutat be esti belvarosi hangulatban.",
+          "ro": "In piata din fata Palatului Papilor, festivalul cu acces liber pune in prim-plan vinurile Cotes-du-Rhone intr-o atmosfera animata de seara.",
+          "en": "On the square by the Palace of the Popes, this free festival showcases Cotes du Rhone wines in a lively evening city-centre setting.",
+          "fr": "Sur la place du Palais des Papes, cette fete gratuite met a l'honneur les vins des Cotes du Rhone dans une ambiance de centre-ville en soiree."
+        },
+        "source_url": "https://avignon-tourisme.com/en/offres/cotes-du-rhone-wine-festival-avignon-en-4143555/"
+      },
+      {
+        "date": "2026-09-12",
+        "title": {
+          "de": "Bien Bon! Das Grand Avignon Food Festival",
+          "hu": "Bien Bon! Grand Avignon Gasztrofesztival",
+          "ro": "Bien Bon! Festivalul gastronomic Grand Avignon",
+          "en": "Bien Bon! The Grand Avignon Food Festival",
+          "fr": "Bien Bon! Le festival gastronomique du Grand Avignon"
+        },
+        "summary": {
+          "de": "Eine ganze Woche lang feiert das Foodfestival regionale Produkte mit Gourmettouren, Streetfood, Live-Kuechen und weiteren kulinarischen Programmpunkten.",
+          "hu": "Az egyhetes gasztrofesztival helyi termekeket es konyhat unnepel gourmet setakkal, food truckokkal, elo fozesekkel es sok egyeb programmal.",
+          "ro": "Timp de o saptamana, festivalul gastronomic celebreaza produsele locale prin tururi culinare, street-food, demonstratii live si alte experiente pentru gurmanzi.",
+          "en": "Over a full week, the food festival celebrates local produce with gourmet tours, street food, live kitchens and other culinary experiences.",
+          "fr": "Pendant une semaine, le festival met en valeur les produits locaux avec des parcours gourmands, des food trucks, des cuisines en direct et d'autres rendez-vous culinaires."
+        },
+        "source_url": "https://avignon-tourisme.com/en/offres/bien-bon-the-grand-avignon-food-festival-avignon-en-5755019/"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "43. Europaeische Tage des Denkmals in Avignon",
+          "hu": "43. Europai Oronkseg Napok Avignonban",
+          "ro": "A 43-a editie a Zilelor Europene ale Patrimoniului la Avignon",
+          "en": "43rd European Heritage Days in Avignon",
+          "fr": "43es Journees europeennes du patrimoine a Avignon"
+        },
+        "summary": {
+          "de": "An zwei Tagen oeffnen in Avignon verschiedene Orte und Programme zum europaweiten Denkmalwochenende fuer Besucher.",
+          "hu": "Ket napon at Avignon kulonbozo helyszinei es programjai csatlakoznak az europai orokseghetvegehez, latogatoknak szolo kulonleges alkalmakat kinalva.",
+          "ro": "Timp de doua zile, diferite locuri si programe din Avignon participa la weekendul european al patrimoniului, cu vizite si activitati dedicate publicului.",
+          "en": "For two days, venues and programmes across Avignon take part in the European heritage weekend with special public visits and activities.",
+          "fr": "Pendant deux jours, plusieurs sites et programmes d'Avignon participent au grand week-end europeen du patrimoine avec des ouvertures et animations speciales."
+        },
+        "source_url": "https://avignon-tourisme.com/en/offres/43rd-european-heritage-days-in-avignon-avignon-en-4967093/"
+      }
+    ]
+  },
+  {
+    "id": "city-ramnicu-valcea-extra",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "Deep Forest Fest Editia VII",
+          "hu": "Deep Forest Fest Editia VII",
+          "ro": "Deep Forest Fest Editia VII",
+          "en": "Deep Forest Fest Editia VII"
+        },
+        "summary": {
+          "de": "Das zweitaegige Sommerfestival auf dem Platoul Feteni verbindet elektronische Musik und Open-Air-Stimmung in der Naehe von Ramnicu Valcea.",
+          "hu": "A ketnapos nyari fesztival a Feteni-fennsikon elektronikus zenet es szabadtéri hangulatot kinal Ramnicu Valcea kozeleben.",
+          "ro": "Festivalul de doua zile de pe Platoul Feteni combina muzica electronica si atmosfera open-air in apropiere de Ramnicu Valcea.",
+          "en": "This two-day summer festival at Platoul Feteni combines electronic music and an open-air setting near Ramnicu Valcea."
+        },
+        "source_url": "https://www.iabilet.ro/bilete-deep-forest-fest-editia-vii-115057"
+      },
+      {
+        "date": "2026-08-14",
+        "title": {
+          "de": "Musiclover Festival 2026",
+          "hu": "Musiclover Festival 2026",
+          "ro": "Musiclover Festival 2026",
+          "en": "Musiclover Festival 2026"
+        },
+        "summary": {
+          "de": "Das mehrtaegige Festival auf dem Platoul Feteni wirbt mit Hybrid-Unterhaltung, mehreren Konzerttagen und bekannten Pop- und Crossover-Acts.",
+          "hu": "A tobbnapos fesztival a Feteni-fennsikon hibrid szorakozast, tobb koncertnapot es ismert pop- valamint crossover-fellepőket iger.",
+          "ro": "Festivalul de mai multe zile de pe Platoul Feteni promoveaza un format hibrid de entertainment, cu mai multe zile de concerte si artisti pop si crossover cunoscuti.",
+          "en": "The multi-day festival at Platoul Feteni promotes a hybrid entertainment format with several concert days and well-known pop and crossover acts."
+        },
+        "source_url": "https://www.iabilet.ro/bilete-musiclover-festival-2026-128214/"
+      },
+      {
+        "date": "2026-08-15",
+        "title": {
+          "de": "LUMINOS Fest - Wasserlaternenfestival",
+          "hu": "LUMINOS Fest - vizilampion fesztival",
+          "ro": "LUMINOS Fest - festival de lampioane pe apa",
+          "en": "LUMINOS Fest - water lantern festival"
+        },
+        "summary": {
+          "de": "Im Parcul Zavoi dreht sich das familienfreundliche Event zwei Tage lang um schwimmende Laternen, Abendstimmung am Wasser und entspannte Freizeitangebote.",
+          "hu": "A Zavoi parkban a csaladbarat rendezveny ket napon at uszo lampionokkal, tavi esti hangulattal es laza kikapcsolodasi programokkal varja a kozonseget.",
+          "ro": "In Parcul Zavoi, evenimentul pentru familii aduce timp de doua zile lampioane plutitoare, seri relaxate pe malul apei si activitati recreative.",
+          "en": "At Parcul Zavoi, the family-friendly event offers two days of floating lanterns, lakeside evening atmosphere and relaxed leisure activities."
+        },
+        "source_url": "https://www.iabilet.ro/bilete-ramnicu-valcea-luminos-fest-festival-de-lampioane-pe-apa-127308/"
+      },
+      {
+        "date": "2026-10-15",
+        "title": {
+          "de": "Vivaldi Rocks - Orchestra Simfonica Bucuresti",
+          "hu": "Vivaldi Rocks - Orchestra Simfonica Bucuresti",
+          "ro": "Vivaldi Rocks - Orchestra Simfonica Bucuresti",
+          "en": "Vivaldi Rocks - Orchestra Simfonica Bucuresti"
+        },
+        "summary": {
+          "de": "Die nationale Tournee verbindet Vivaldis Musik mit einer rockigen Buehnenshow und bringt die Orchestra Simfonica Bucuresti im Oktober nach Ramnicu Valcea.",
+          "hu": "Az orszagos turne Vivaldi zenejet rockos szinpadi show-val kapcsolja ossze, es oktoberben Ramnicu Valceaba hozza a Bukaresti Szimfonikus Zenekart.",
+          "ro": "Turneul national combina muzica lui Vivaldi cu un spectacol scenic in stil rock si aduce Orchestra Simfonica Bucuresti la Ramnicu Valcea in octombrie.",
+          "en": "The national tour combines Vivaldi's music with a rock-style stage show and brings the Bucharest Symphony Orchestra to Ramnicu Valcea in October."
+        },
+        "source_url": "https://www.iabilet.ro/bilete-ramnicu-valcea-vivaldi-rocks-orchestra-simfonica-bucuresti-128678/?nomobile=1"
+      }
+    ]
+  },
+  {
+    "id": "spain-lorca-cities-v2",
+    "events": [
+      {
+        "date": "2026-09-08",
+        "title": {
+          "de": "Patronatsfest der Virgen de las Huertas",
+          "hu": "A Virgen de las Huertas patronai unnepe",
+          "ro": "Sarbatoarea patroanei Virgen de las Huertas",
+          "en": "Feast of the patron saint Virgen de las Huertas"
+        },
+        "summary": {
+          "de": "Am 8. September begeht Lorca den Festtag seiner Schutzpatronin mit einer zivilen Prozession vom Stadtzentrum zum Marienheiligtum.",
+          "hu": "Szeptember 8-an Lorca a vedoszentjenek unnepet polgari kormenttel tartja meg a belvarostol a Mária-kegyhelyig.",
+          "ro": "Pe 8 septembrie, Lorca comemoreaza patroana orasului printr-o procesiune civica din oras pana la sanctuarul marian.",
+          "en": "On 8 September, Lorca marks its patron saint's feast with a civic procession from the city to the Marian sanctuary."
+        },
+        "source_url": "https://www.lorca.es/festejos.asp?id=126"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Feria Grande de Lorca",
+          "hu": "Lorca nagy szeptemberei vasara",
+          "ro": "Feria Grande de Lorca",
+          "en": "Feria Grande de Lorca"
+        },
+        "summary": {
+          "de": "Die Feria Grande belebt in den letzten zehn Septembertagen das Festgelaende La Rueda mit Fahrgeschaeften, Chiringuitos und Konzerten.",
+          "hu": "A Feria Grande szeptember utolso tiz napjaban a La Rueda vasarteret tolti meg vidamparki attrakciokkal, chiringuitokkal es koncertekkel.",
+          "ro": "Feria Grande anima ultimele zece zile din septembrie in Recinto Ferial de la Rueda, cu atractii, chiringuitos si concerte.",
+          "en": "Feria Grande fills the La Rueda fairground during the last ten days of September with rides, food stalls and concerts."
+        },
+        "source_url": "https://www.lorca.es/festejos.asp?id=125"
+      },
+      {
+        "date": "2026-11-23",
+        "title": {
+          "de": "Fiestas de San Clemente",
+          "hu": "San Clemente unnepsegei",
+          "ro": "Fiestas de San Clemente",
+          "en": "Fiestas de San Clemente"
+        },
+        "summary": {
+          "de": "Zum Fest des Stadtpatrons gibt es in Lorca eine mittelalterliche Marktatmosphaere, Kulturprogramme im historischen Zentrum und die traditionelle Parade von Muslimen, Juden und Christen.",
+          "hu": "A varos vedoszentjenek unnepe Lorcaban kozepkori piacot, tortenelmi belvarosi kulturprogramokat es a muszlimok, zsidok es keresztenyek hagyomanyos felvonulasat hozza.",
+          "ro": "Sarbatoarea patronului orasului aduce la Lorca piata medievala, activitati culturale in centrul istoric si traditionala parada a musulmanilor, evreilor si crestinilor.",
+          "en": "The patron saint festival brings a medieval market, cultural activities in the historic centre and the traditional parade of Muslims, Jews and Christians to Lorca."
+        },
+        "source_url": "https://www.lorca.es/fiestasdesanclemente.musulmanes%2Cjudiosycristianos.asp?id=127"
+      },
+      {
+        "date": "2026-11-23",
+        "title": {
+          "de": "Jewish Lorca",
+          "hu": "Jewish Lorca",
+          "ro": "Jewish Lorca",
+          "en": "Jewish Lorca"
+        },
+        "summary": {
+          "de": "Das Festival fuer zeitgenoessische juedische Kultur laeuft ueber mehrere Tage mit Konzerten, DJ-Sets, Familienaktivitaeten, Fuehrungen und gastronomischen Angeboten an historischen Orten.",
+          "hu": "A kortars zsidó kulturat bemutato fesztival tobb napon at koncertekkel, DJ-programokkal, csaladi aktivitásokkal, vezetett setakkal es gasztronomiai elemekkel varja a kozonseget.",
+          "ro": "Festivalul de cultura evreiasca contemporana se desfasoara pe parcursul mai multor zile cu concerte, DJ seturi, activitati pentru familii, vizite ghidate si propuneri gastronomice in locuri istorice.",
+          "en": "The contemporary Jewish culture festival runs over several days with concerts, DJ sets, family activities, guided visits and food-themed programming in historic venues."
+        },
+        "source_url": "https://www.lorca.es/noticias/noticias.asp?idn=19273"
+      }
+    ]
+  },
+  {
+    "id": "poland-grudziadz-cities-v2",
+    "events": [
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "MASKA: II Strassentheaterfestival Grudziadz",
+          "hu": "MASKA: II. grudziadzi utcaszinhazi fesztival",
+          "ro": "MASKA: al doilea festival de teatru stradal din Grudziadz",
+          "en": "MASKA: 2nd Grudziadz street theatre festival"
+        },
+        "summary": {
+          "de": "Das mehrtaegige Festival bringt Strassentheater, Bewegungstheater, Feuer- und visuelle Shows sowie Workshops in die Altstadt von Grudziadz.",
+          "hu": "A tobbnapos fesztival utcaszinhazat, mozgasszinhazat, tuzes es latvanyos eloadasokat, valamint workshopokat hoz Grudziadz ovarosaba.",
+          "ro": "Festivalul de mai multe zile aduce in centrul vechi al orasului Grudziadz teatru stradal, teatru de miscare, spectacole cu foc si ateliere.",
+          "en": "The multi-day festival brings street theatre, movement theatre, fire and visual performances, plus workshops, to Grudziadz Old Town."
+        },
+        "source_url": "https://teatr.grudziadz.pl/wydarzenie/maska-ii-festiwal-teatrow-ulicznych-2/"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Lazy Flow Festiwal",
+          "hu": "Lazy Flow Fesztival",
+          "ro": "Festivalul Lazy Flow",
+          "en": "Lazy Flow Festival"
+        },
+        "summary": {
+          "de": "Das Sommerwochenende am Skwer przy Flisaku kombiniert Konzerte, ein Retro-Filmprogramm und entspannte Open-Air-Abende mit Blick auf die Weichsel.",
+          "hu": "A Skwer przy Flisaku nyari hetvegeje koncerteket, retro filmvetitest es lazabb szabadtéri esteket kinal a Visztula partjan.",
+          "ro": "Weekendul de vara de la Skwer przy Flisaku combina concerte, un film retro si seri relaxate in aer liber, aproape de Vistula.",
+          "en": "This summer weekend at Skwer przy Flisaku combines concerts, a retro film screening and relaxed open-air evenings by the Vistula."
+        },
+        "source_url": "https://teatr.grudziadz.pl/lazy-flow-festiwal/"
+      },
+      {
+        "date": "2026-09-03",
+        "title": {
+          "de": "Gru-Rock: Festival der Grudziadzer Bands",
+          "hu": "Gru-Rock: grudziadzi zenekarok fesztivalja",
+          "ro": "Gru-Rock: festivalul trupelor din Grudziadz",
+          "en": "Gru-Rock: festival of Grudziadz bands"
+        },
+        "summary": {
+          "de": "An der Marina praesentiert das kostenlose Festival mehrere Tage lang lokale Bands und sommerliche Konzerte direkt am Wasser.",
+          "hu": "A marinanal megrendezett ingyenes fesztival tobb napon at helyi zenekarokat es nyari vizparti koncerteket vonultat fel.",
+          "ro": "La marina, festivalul cu intrare libera aduce timp de mai multe zile trupe locale si concerte de vara chiar langa apa.",
+          "en": "At the marina, the free festival presents several days of local bands and summer concerts right by the water."
+        },
+        "source_url": "https://teatr.grudziadz.pl/wydarzenie/gru-rock-festiwal-grudziadzkich-zespolow/"
+      },
+      {
+        "date": "2026-12-12",
+        "title": {
+          "de": "KSU - Konzert",
+          "hu": "KSU - koncert",
+          "ro": "KSU - concert",
+          "en": "KSU - concert"
+        },
+        "summary": {
+          "de": "Die legendaere polnische Punkrockband KSU spielt im Klub Akcent und zaehlt zu den klar terminierten Dezemberkonzerten der Stadt.",
+          "hu": "A legendas lengyel punkrockzenekar, a KSU a Klub Akcentben lep fel, a varos egyik biztos decemberi koncertjekent.",
+          "ro": "Legendara trupa poloneza de punk rock KSU va canta in Klub Akcent, intr-unul dintre concertele confirmate ale lunii decembrie din oras.",
+          "en": "Legendary Polish punk rock band KSU performs at Klub Akcent as one of the city's clearly scheduled December concerts."
+        },
+        "source_url": "https://teatr.grudziadz.pl/wydarzenie/ksu-koncert/"
+      }
+    ]
+  }
+]

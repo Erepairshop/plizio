@@ -1,0 +1,395 @@
+[
+  {
+    "id": "spain-murcia-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "KUVE in der Sala Mamba",
+          "hu": "KUVE a Sala Mambában",
+          "ro": "KUVE la Sala Mamba",
+          "en": "KUVE at Sala Mamba"
+        },
+        "summary": {
+          "de": "Die murcianische Künstlerin KUVE präsentiert ihr Album \"AMORE DESAMORE\" in einem Abendkonzert in der Sala Mamba mit elektronischem Pop und einer auf das neue Programm ausgerichteten Show.",
+          "hu": "A murciai KUVE az \"AMORE DESAMORE\" album koncertműsorát hozza a Sala Mambába, elektronikus pophangzással és az új lemez köré épített élő show-val.",
+          "ro": "Artista murciană KUVE își prezintă albumul \"AMORE DESAMORE\" la Sala Mamba, într-un concert de seară cu pop electronic și un show construit în jurul noului material.",
+          "en": "Murcia artist KUVE brings her \"AMORE DESAMORE\" live show to Sala Mamba, with an evening concert built around the new electronic-pop album."
+        },
+        "date": "2026-09-18",
+        "source_url": "https://compralaentrada.com/event/kuve-murcia-2026"
+      },
+      {
+        "title": {
+          "de": "Teenage Fanclub bei Las Noches del Malecón",
+          "hu": "Teenage Fanclub a Las Noches del Malecón sorozatban",
+          "ro": "Teenage Fanclub la Las Noches del Malecón",
+          "en": "Teenage Fanclub at Las Noches del Malecón"
+        },
+        "summary": {
+          "de": "Die schottische Indie-Band spielt im Rahmen der Konzertreihe Las Noches del Malecón in Murcia ein Abendkonzert in der Sala Mamba.",
+          "hu": "A skót indiezenekar a Las Noches del Malecón koncertsorozat részeként lép fel Murciában, a Sala Mambában.",
+          "ro": "Trupa scoțiană de indie cântă la Murcia în cadrul seriei Las Noches del Malecón, într-un concert de seară la Sala Mamba.",
+          "en": "The Scottish indie band plays an evening Murcia date at Sala Mamba as part of the Las Noches del Malecón series."
+        },
+        "date": "2026-10-07",
+        "source_url": "https://www.compralaentrada.com/event/teenage-fanclub-murcia-2026"
+      },
+      {
+        "title": {
+          "de": "José González bei Las Noches del Malecón",
+          "hu": "José González a Las Noches del Malecón sorozatban",
+          "ro": "José González la Las Noches del Malecón",
+          "en": "José González at Las Noches del Malecón"
+        },
+        "summary": {
+          "de": "José González gastiert in Murcia in der Reihe Las Noches del Malecón mit einem Abendkonzert in der Sala Mamba.",
+          "hu": "José González a Las Noches del Malecón részeként ad esti koncertet Murciában, a Sala Mambában.",
+          "ro": "José González susține la Murcia un concert de seară în cadrul seriei Las Noches del Malecón, la Sala Mamba.",
+          "en": "José González appears in Murcia for an evening Sala Mamba show within the Las Noches del Malecón programme."
+        },
+        "date": "2026-10-30",
+        "source_url": "https://www.compralaentrada.com/event/jose-gonzalez-murcia-2026"
+      },
+      {
+        "title": {
+          "de": "Bryan Adams: Roll with the Punches",
+          "hu": "Bryan Adams: Roll with the Punches",
+          "ro": "Bryan Adams: Roll with the Punches",
+          "en": "Bryan Adams: Roll with the Punches"
+        },
+        "summary": {
+          "de": "Bryan Adams bringt seine internationale \"Roll with the Punches\"-Tour in den Palacio de los Deportes von Murcia und spielt dort eine große Arena-Show.",
+          "hu": "Bryan Adams a \"Roll with the Punches\" nemzetközi turnéval érkezik a murciai Palacio de los Deportes arénába egy nagyszabású koncertre.",
+          "ro": "Bryan Adams aduce turneul internațional \"Roll with the Punches\" la Palacio de los Deportes din Murcia pentru un mare concert în arenă.",
+          "en": "Bryan Adams brings his international \"Roll with the Punches\" tour to Murcia’s Palacio de los Deportes for a large arena show."
+        },
+        "date": "2026-11-06",
+        "source_url": "https://www.compralaentrada.com/event/bryan-adams-murcia-2026"
+      }
+    ]
+  },
+  {
+    "id": "ee-tallinn",
+    "events": [
+      {
+        "title": {
+          "de": "Tallinn Food Truck Festival",
+          "hu": "Tallinn Food Truck Festival",
+          "ro": "Tallinn Food Truck Festival",
+          "en": "Tallinn Food Truck Festival"
+        },
+        "summary": {
+          "de": "Im Kulturquartier Telliskivi versammeln sich mehr als fünfzig Foodtrucks aus Estland und den Nachbarländern, dazu gibt es Konzerte, DJ-Sets und ein Publikums-Voting für die besten Trucks.",
+          "hu": "A telliskivi kulturális negyedben több mint ötven ételkocsi gyűlik össze Észtországból és a környező országokból, koncertekkel, DJ-szettekkel és közönségszavazással.",
+          "ro": "În cartierul cultural Telliskivi se adună peste cincizeci de food truck-uri din Estonia și țările vecine, alături de concerte, DJ seturi și votul publicului.",
+          "en": "More than fifty food trucks gather in Telliskivi, alongside concerts, DJ sets and audience voting for the festival’s best trucks."
+        },
+        "date": "2026-08-08",
+        "source_url": "https://www.visittallinn.ee/eng/visitor/see-do/events/events/15062/tallinn-food-truck-festival"
+      },
+      {
+        "title": {
+          "de": "Tallinn Fringe Festival",
+          "hu": "Tallinn Fringe Festival",
+          "ro": "Tallinn Fringe Festival",
+          "en": "Tallinn Fringe Festival"
+        },
+        "summary": {
+          "de": "Das offene Stadtfestival bringt über einen Monat lang unabhängige darstellende Künste, Musik und grenzüberschreitende Formate an verschiedene Spielorte in Tallinn.",
+          "hu": "A nyitott városi fesztivál több mint egy hónapon át független előadó-művészeti, zenei és kísérleti programokat visz Tallinn különböző helyszíneire.",
+          "ro": "Festivalul urban cu acces deschis aduce timp de peste o lună arte performative independente, muzică și formate alternative în diferite locuri din Tallinn.",
+          "en": "The open-access city festival spreads independent performing arts, music and alternative formats across multiple Tallinn venues for over a month."
+        },
+        "date": "2026-08-18",
+        "source_url": "https://www.visittallinn.ee/eng/visitor/see-do/events/events/14529/tallinn-fringe-festival"
+      },
+      {
+        "title": {
+          "de": "Armin van Buuren in Tallinn",
+          "hu": "Armin van Buuren Tallinnban",
+          "ro": "Armin van Buuren la Tallinn",
+          "en": "Armin van Buuren in Tallinn"
+        },
+        "summary": {
+          "de": "Der niederländische DJ spielt auf dem Tallinner Sängerfestgelände seine audiovisuell angelegte \"THE ORB\"-Show als großes Open-Air-Konzert.",
+          "hu": "A holland DJ a tallinni Dalfesztivál téren mutatja be látványos \"THE ORB\" audiovizuális open-air produkcióját.",
+          "ro": "DJ-ul olandez aduce la Tallinn Song Festival Grounds spectacolul audiovizual \"THE ORB\", conceput ca un mare concert în aer liber.",
+          "en": "The Dutch DJ brings his audiovisual \"THE ORB\" production to the Tallinn Song Festival Grounds for a major open-air concert."
+        },
+        "date": "2026-09-05",
+        "source_url": "https://visittallinn.ee/eng/visitor/see-do/events/events/14954/armin-van-buuren"
+      },
+      {
+        "title": {
+          "de": "Swedbank Tallinn Marathon",
+          "hu": "Swedbank Tallinn Marathon",
+          "ro": "Swedbank Tallinn Marathon",
+          "en": "Swedbank Tallinn Marathon"
+        },
+        "summary": {
+          "de": "Tallinns wichtigstes internationales Laufevent umfasst Marathon, Staffel, Halbmarathon, 10-Kilometer-Lauf, Jugend- und Kinderläufe mit Start und Ziel am Rand der Altstadt.",
+          "hu": "Tallinn legnépszerűbb nemzetközi futóeseménye maratont, váltót, félmaratont, 10 kilométeres távot, ifjúsági és gyermekfutamokat kínál az óváros közelében.",
+          "ro": "Cel mai popular eveniment internațional de alergare din Tallinn include maraton, ștafetă, semimaraton, cursă de 10 km și întreceri pentru tineri și copii, cu startul lângă centrul vechi.",
+          "en": "Tallinn’s flagship international running event includes a marathon, relay, half marathon, 10K and youth and children’s races with the start-finish area beside the Old Town."
+        },
+        "date": "2026-09-11",
+        "source_url": "https://www.visittallinn.ee/eng/visitor/see-do/events/events/14364/swedbank-tallinn-marathon"
+      },
+      {
+        "title": {
+          "de": "Estnischer Brottag und Herbstmarkt",
+          "hu": "Észt kenyér napja és őszi vásár",
+          "ro": "Ziua pâinii estoniene și târgul de toamnă",
+          "en": "Estonian Bread Day and Autumn Fair"
+        },
+        "summary": {
+          "de": "Im Estnischen Freilichtmuseum dreht sich ein herbstlicher Familientag um Roggenbrot, traditionelle Speisen, Handwerk und Marktstände in historischem Ambiente.",
+          "hu": "Az Észt Szabadtéri Múzeumban a családi őszi nap a rozskenyérről, a hagyományos ételekről, a kézművességről és a vásári standokról szól.",
+          "ro": "La Muzeul în Aer Liber al Estoniei, acest eveniment de toamnă pentru familii este dedicat pâinii de secară, mâncărurilor tradiționale, meșteșugurilor și standurilor de târg.",
+          "en": "At the Estonian Open Air Museum, this autumn family event centres on rye bread, traditional food, handicrafts and fair stalls."
+        },
+        "date": "2026-09-20",
+        "source_url": "https://visittallinn.ee/eng/visitor/see-do/events/events/15111/estonian-bread-day-and-autumn-fair"
+      }
+    ]
+  },
+  {
+    "id": "bologna",
+    "events": [
+      {
+        "title": {
+          "de": "Festival MENS-A / Thought and Dialogue 2026",
+          "hu": "MENS-A / Thought and Dialogue 2026",
+          "ro": "Festivalul MENS-A / Thought and Dialogue 2026",
+          "en": "Festival MENS-A / Thought and Dialogue 2026"
+        },
+        "summary": {
+          "de": "Das kulturphilosophische Festival eröffnet in Bologna mit einem frei zugänglichen Programm zu Geisteswissenschaften, Philosophie und Kunst in der Zentrale des Italienischen Roten Kreuzes.",
+          "hu": "A humán tudományokra, filozófiára és művészetre épülő fesztivál Bolognában ingyenes nyitóprogrammal indul az Olasz Vöröskereszt helyszínén.",
+          "ro": "Festivalul dedicat științelor umane, filosofiei și artei se deschide la Bologna cu un program cu acces liber la sediul Crucii Roșii Italiene.",
+          "en": "This humanities, philosophy and arts festival opens in Bologna with a free-admission programme at the Italian Red Cross headquarters."
+        },
+        "date": "2026-09-17",
+        "source_url": "https://www.bolognawelcome.com/en/events/festivals/festival-mens-a-thought-and-dialogue"
+      },
+      {
+        "title": {
+          "de": "Festival Respighi Bologna",
+          "hu": "Respighi Fesztivál Bologna",
+          "ro": "Festivalul Respighi Bologna",
+          "en": "Festival Respighi Bologna"
+        },
+        "summary": {
+          "de": "Das stadtweite Musikfestival widmet sich Respighi und seinem Umfeld mit siebzehn Veranstaltungen an fünfzehn Spielorten in Bologna.",
+          "hu": "A városszerte zajló zenei fesztivál Respighihez és korához kapcsolódóan tizenhét eseményt kínál Bologna tizenöt helyszínén.",
+          "ro": "Festivalul muzical răspândit în tot orașul propune șaptesprezece evenimente în cincisprezece locuri din Bologna, dedicate lui Respighi și epocii sale.",
+          "en": "The citywide music festival presents seventeen events across fifteen Bologna venues, exploring Respighi and his cultural era."
+        },
+        "date": "2026-09-21",
+        "source_url": "https://www.bolognawelcome.com/en/events/music-and-dance/festival-respighi-bologna-en"
+      },
+      {
+        "title": {
+          "de": "FontanaMIX Ensemble | Francesco La Licata",
+          "hu": "FontanaMIX Ensemble | Francesco La Licata",
+          "ro": "FontanaMIX Ensemble | Francesco La Licata",
+          "en": "FontanaMIX Ensemble | Francesco La Licata"
+        },
+        "summary": {
+          "de": "Im DAMSLab bringt das Konzert \"Water & Spirit\" zeitgenössische Musik, chinesische Schlaginstrumente und Klangexperimente mit Wasser zusammen.",
+          "hu": "A DAMSLab \"Water & Spirit\" koncertje kortárs zenét, kínai ütőhangszereket és vízzel dolgozó hangkísérleteket kapcsol össze.",
+          "ro": "La DAMSLab, concertul \"Water & Spirit\" reunește muzică contemporană, percuții chinezești și experimente sonore cu apa.",
+          "en": "At DAMSLab, the \"Water & Spirit\" concert combines contemporary music, Chinese percussion and sound experiments using water."
+        },
+        "date": "2026-09-28",
+        "source_url": "https://www.bolognawelcome.com/en/events/music-and-dance/fontanamix-ensemble-francesco-la-licata-en"
+      },
+      {
+        "title": {
+          "de": "Tartufesta 2026",
+          "hu": "Tartufesta 2026",
+          "ro": "Tartufesta 2026",
+          "en": "Tartufesta 2026"
+        },
+        "summary": {
+          "de": "Die traditionelle Herbstveranstaltung belebt mehrere Orte im Bologneser Apennin mit Trüffelmärkten, Verkostungen, Themenmenüs und weiteren Genussangeboten.",
+          "hu": "A hagyományos őszi rendezvény a bolognai Appenninek több települését tölti meg szarvasgomba-vásárokkal, kóstolókkal és tematikus gasztroprogramokkal.",
+          "ro": "Evenimentul tradițional de toamnă animă mai multe localități din Apeninii bolognezi cu piețe de trufe, degustări, meniuri tematice și alte inițiative gastronomice.",
+          "en": "The traditional autumn event fills towns in the Bolognese Apennines with truffle markets, tastings, themed menus and other food experiences."
+        },
+        "date": "2026-10-17",
+        "source_url": "https://www.bolognawelcome.com/en/events/food-and-wine-en/tartufesta-en"
+      },
+      {
+        "title": {
+          "de": "Davis Cup 2026 - Final 8",
+          "hu": "Davis Cup 2026 - Final 8",
+          "ro": "Davis Cup 2026 - Final 8",
+          "en": "Davis Cup 2026 - Final 8"
+        },
+        "summary": {
+          "de": "Bologna ist Gastgeber der Finalrunde des Davis Cup mit acht Nationalteams und sechs Wettkampftagen zum Abschluss der Tennissaison.",
+          "hu": "Bologna ad otthont a Davis-kupa nyolcas döntőjének, ahol nyolc válogatott és hat versenynap zárja a teniszezők idényét.",
+          "ro": "Bologna găzduiește faza Final 8 a Cupei Davis, cu opt echipe naționale și șase zile de competiție la finalul sezonului de tenis.",
+          "en": "Bologna hosts the Davis Cup Final 8, with eight national teams competing across six days at the end of the tennis season."
+        },
+        "date": "2026-11-24",
+        "source_url": "https://www.bolognawelcome.com/en/events/sport-en/davis-cup-en"
+      }
+    ]
+  },
+  {
+    "id": "city-bochum",
+    "events": [
+      {
+        "title": {
+          "de": "Zeltfestival Ruhr",
+          "hu": "Zeltfestival Ruhr",
+          "ro": "Zeltfestival Ruhr",
+          "en": "Zeltfestival Ruhr"
+        },
+        "summary": {
+          "de": "Am Kemnader See entsteht wieder die \"weiße Stadt\" mit Konzerten, Comedy, Gastronomie und wechselnden Gastspielen in mehreren Festivalzelten.",
+          "hu": "A Kemnader See partján ismét felépül a \"fehér város\" koncertekkel, humorprogramokkal, vendéglátással és több sátorban zajló fellépésekkel.",
+          "ro": "La Kemnader See revine \"orașul alb\" al festivalului, cu concerte, comedie, gastronomie și spectacole în mai multe corturi.",
+          "en": "The festival’s \"white city\" returns at Kemnader See with concerts, comedy, food and guest performances across multiple tents."
+        },
+        "date": "2026-08-21",
+        "source_url": "https://www.bochum-tourismus.de/bochum-entdecken/festivals-und-events/zeltfestival-ruhr.html"
+      },
+      {
+        "title": {
+          "de": "Tag der offenen Tür: 125 Jahre Berufsfeuerwehr Bochum",
+          "hu": "Nyílt nap: 125 éves a bochumi hivatásos tűzoltóság",
+          "ro": "Ziua porților deschise: 125 de ani de pompieri profesioniști în Bochum",
+          "en": "Open Day: 125 Years of Bochum Professional Fire Service"
+        },
+        "summary": {
+          "de": "Zum Jubiläum öffnet die Feuer- und Rettungswache in Werne ihre Tore mit Fahrzeugeinblicken, Technikschauen und Mitmachaktionen für Familien.",
+          "hu": "Az évfordulós nyílt napon a wernei tűzoltó- és mentőállomás járműbemutatókkal, technikai programokkal és családi aktivitásokkal várja a látogatókat.",
+          "ro": "Pentru aniversare, stația de pompieri și salvare din Werne își deschide porțile cu prezentări de vehicule, tehnică și activități interactive pentru familii.",
+          "en": "For the anniversary, the Werne fire and rescue station opens its doors with vehicle displays, technical demonstrations and hands-on family activities."
+        },
+        "date": "2026-09-05",
+        "source_url": "https://www.bochum.de/Feuerwehr-und-Rettungsdienst/Jubilaeum-2026/Tag-der-offenen-Tuer-2026"
+      },
+      {
+        "title": {
+          "de": "Bochumer Musiksommer",
+          "hu": "Bochumer Musiksommer",
+          "ro": "Bochumer Musiksommer",
+          "en": "Bochumer Musiksommer"
+        },
+        "summary": {
+          "de": "Das kostenlose Open-Air-Musikfestival verwandelt die Bochumer Innenstadt mehrere Tage lang in eine große Bühne mit vielfältigem Live-Programm.",
+          "hu": "Az ingyenes szabadtéri zenei fesztivál több napra hatalmas színpaddá alakítja Bochum belvárosát sokszínű élő programmal.",
+          "ro": "Festivalul gratuit de muzică în aer liber transformă centrul Bochumului într-o mare scenă urbană, cu program live variat pe mai multe zile.",
+          "en": "The free open-air music festival turns central Bochum into a large city-stage for several days of varied live performances."
+        },
+        "date": "2026-09-11",
+        "source_url": "https://www.bochum-tourismus.de/was-ist-los/veranstaltungskalender/veranstaltung/bochumer-musiksommer-2.html"
+      },
+      {
+        "title": {
+          "de": "Herbstkirmes Wattenscheid",
+          "hu": "Wattenscheid őszi vására",
+          "ro": "Herbstkirmes Wattenscheid",
+          "en": "Wattenscheid Autumn Fair"
+        },
+        "summary": {
+          "de": "Die Wattenscheider Innenstadt verabschiedet den Sommer mit einer klassischen Kirmes samt Fahrgeschäften, Spielbuden und Imbissständen.",
+          "hu": "Wattenscheid belvárosa hagyományos vidámparki forgataggal, játékokkal és ételstandokkal búcsúztatja a nyarat.",
+          "ro": "Centrul din Wattenscheid își ia rămas-bun de la vară cu un târg clasic, cu instalații, jocuri și standuri de mâncare.",
+          "en": "Wattenscheid’s town centre says goodbye to summer with a traditional fair featuring rides, game stalls and food stands."
+        },
+        "date": "2026-10-02",
+        "source_url": "https://www.bochum-tourismus.de/was-ist-los/veranstaltungskalender/veranstaltung/herbstkirmes-wattenscheid-1.html"
+      },
+      {
+        "title": {
+          "de": "Bochumer Weihnacht",
+          "hu": "Bochumi karácsonyi vásár",
+          "ro": "Târgul de Crăciun din Bochum",
+          "en": "Bochum Christmas Market"
+        },
+        "summary": {
+          "de": "Der große Weihnachtsmarkt in der Innenstadt lockt mit rund 200 Ständen, mittelalterlichem Markt und dem fliegenden Weihnachtsmann als besonderer Attraktion.",
+          "hu": "A nagy belvárosi karácsonyi vásár mintegy 200 standdal, középkori piaccal és a \"repülő\" Mikulással várja a látogatókat.",
+          "ro": "Marele târg de Crăciun din centru reunește aproximativ 200 de standuri, o zonă medievală și celebrul Moș Crăciun \"zburător\".",
+          "en": "The major city-centre Christmas market features around 200 stalls, a medieval market area and the famous flying Santa attraction."
+        },
+        "date": "2026-11-19",
+        "source_url": "https://www.bochum-tourismus.de/was-ist-los/veranstaltungskalender/veranstaltung/bochumer-weihnacht-2.html"
+      }
+    ]
+  },
+  {
+    "id": "spain-las-palmas-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "LPA BMusic Festival",
+          "hu": "LPA BMusic Festival",
+          "ro": "LPA BMusic Festival",
+          "en": "LPA BMusic Festival"
+        },
+        "summary": {
+          "de": "Das Festival im Parque Litoral El Rincón kombiniert Jubiläumstourneen etablierter Bands mit neuen alternativen Formationen in einem mehrtägigen Musikprogramm.",
+          "hu": "A Parque Litoral El Rincón fesztiválja ünnepi turnékon lévő ismert zenekarokat és új alternatív formációkat kapcsol össze többnapos programban.",
+          "ro": "Festivalul din Parque Litoral El Rincón combină turnee aniversare ale unor trupe consacrate cu formații alternative noi într-un program muzical de mai multe zile.",
+          "en": "Held in Parque Litoral El Rincón, the festival mixes anniversary tours by established bands with newer alternative acts across several days."
+        },
+        "date": "2026-09-10",
+        "source_url": "https://lpavisit.com/evento/lpa-bmusic-festival-4/"
+      },
+      {
+        "title": {
+          "de": "Gran Canaria Big Bang Vintage Festival 9. Ausgabe",
+          "hu": "Gran Canaria Big Bang Vintage Festival, 9. kiadás",
+          "ro": "Gran Canaria Big Bang Vintage Festival, ediția a 9-a",
+          "en": "Gran Canaria Big Bang Vintage Festival, 9th Edition"
+        },
+        "summary": {
+          "de": "Im Parque de San Telmo feiert das kostenlose Festival vier Tage lang Rockabilly-, Vintage- und Rock'n'Roll-Kultur mit Konzerten und Bühnenprogramm.",
+          "hu": "A Parque de San Telmo ingyenes fesztiválja négy napon át rockabilly-, vintage- és rock and roll-kultúrát ünnepel koncertekkel és színpadi programokkal.",
+          "ro": "În Parque de San Telmo, festivalul gratuit celebrează timp de patru zile cultura rockabilly, vintage și rock'n'roll cu concerte și program scenic.",
+          "en": "At Parque de San Telmo, the free four-day festival celebrates rockabilly, vintage and rock’n’roll culture with concerts and stage programming."
+        },
+        "date": "2026-10-08",
+        "source_url": "https://lpavisit.com/evento/gran-canaria-big-bang-vintage-festival-9a-edicion/"
+      },
+      {
+        "title": {
+          "de": "WOMEX 2026",
+          "hu": "WOMEX 2026",
+          "ro": "WOMEX 2026",
+          "en": "WOMEX 2026"
+        },
+        "summary": {
+          "de": "Die internationale World Music Expo bringt im Auditorio Alfredo Kraus Fachmesse, Showcase-Konzerte, Konferenzen, Filme und Networking nach Las Palmas.",
+          "hu": "A nemzetközi világzenei expó az Auditorio Alfredo Kraus helyszínére szakmai vásárt, showcase koncerteket, konferenciákat, filmeket és kapcsolatépítést hoz.",
+          "ro": "Expoziția internațională de world music aduce la Auditorio Alfredo Kraus târg profesional, showcase-uri, conferințe, filme și networking.",
+          "en": "The international world-music expo brings a trade fair, showcase concerts, conferences, films and networking to Auditorio Alfredo Kraus."
+        },
+        "date": "2026-10-21",
+        "source_url": "https://lpavisit.com/evento/womex-2026/"
+      },
+      {
+        "title": {
+          "de": "ExpoDeca 2026",
+          "hu": "ExpoDeca 2026",
+          "ro": "ExpoDeca 2026",
+          "en": "ExpoDeca 2026"
+        },
+        "summary": {
+          "de": "Die Messe für Sport und körperliche Aktivität auf den Kanaren vereint Branchenakteure, Vereine und Besucher mit kostenlosen Mitmachangeboten, Vorführungen und Wettbewerben.",
+          "hu": "A kanári-szigeteki sport- és testmozgás-vásár szakmai szereplőket, klubokat és látogatókat fog össze ingyenes kipróbálható programokkal, bemutatókkal és versenyekkel.",
+          "ro": "Târgul canarian dedicat activității fizice și sportului reunește industrie, cluburi și vizitatori prin activități gratuite, demonstrații și competiții.",
+          "en": "The Canary Islands fair for physical activity and sport brings together the sector, clubs and visitors with free try-out sessions, demonstrations and competitions."
+        },
+        "date": "2026-11-12",
+        "source_url": "https://lpavisit.com/evento/expodeca-2026/"
+      }
+    ]
+  }
+]

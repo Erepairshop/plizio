@@ -1,0 +1,349 @@
+[
+  {
+    "id": "slovakia-nitra-cities-v2",
+    "events": [
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Nitránsky rínek 2026",
+          "hu": "Nyitrai rínek 2026",
+          "ro": "Nitránsky rínek 2026",
+          "en": "Nitránsky Rínek 2026"
+        },
+        "summary": {
+          "de": "Der beliebte Stadtmarkt belebt das Zentrum von Nitra mit Ständen, Straßenatmosphäre und lokalem Kulturprogramm.",
+          "hu": "A népszerű városi vásár standokkal, utcai hangulattal és helyi kulturális programokkal tölti meg Nyitra központját.",
+          "ro": "Târgul urban animă centrul orașului Nitra cu standuri, atmosferă stradală și program cultural local.",
+          "en": "This popular city market fills central Nitra with stalls, street atmosphere, and local cultural programming."
+        },
+        "source_url": "https://nitra.sk/kulturna-ponuka/"
+      },
+      {
+        "date": "2026-09-22",
+        "title": {
+          "de": "Agrofilm 2026",
+          "hu": "Agrofilm 2026",
+          "ro": "Agrofilm 2026",
+          "en": "Agrofilm 2026"
+        },
+        "summary": {
+          "de": "Das internationale Filmfestival Agrofilm bringt mehrere Tage lang Filme und Diskussionen zu Landwirtschaft, Ernährung, Umwelt und ländlichem Leben nach Nitra.",
+          "hu": "Az Agrofilm nemzetközi filmfesztivál több napon át mezőgazdasági, élelmezési, környezeti és vidéki témájú vetítéseket hoz Nyitrára.",
+          "ro": "Festivalul internațional Agrofilm aduce la Nitra mai multe zile de filme și dezbateri despre agricultură, alimentație, mediu și viața rurală.",
+          "en": "The international Agrofilm festival brings several days of screenings and discussions on agriculture, food, the environment, and rural life to Nitra."
+        },
+        "source_url": "https://nitra.sk/kulturna-ponuka/"
+      },
+      {
+        "date": "2026-09-25",
+        "title": {
+          "de": "Divadelná Nitra 2026",
+          "hu": "Divadelná Nitra 2026",
+          "ro": "Divadelná Nitra 2026",
+          "en": "Divadelná Nitra 2026"
+        },
+        "summary": {
+          "de": "Das internationale Theaterfestival Divadelná Nitra läuft Ende September mit Inszenierungen und Begleitprogramm unter dem Motto „Future is Now!\".",
+          "hu": "A nemzetközi Divadelná Nitra színházi fesztivál szeptember végén előadásokkal és kísérőprogramokkal várja a közönséget a „Future is Now!” témában.",
+          "ro": "Festivalul internațional de teatru Divadelná Nitra are loc la final de septembrie, cu spectacole și program conex sub tema „Future is Now!”.",
+          "en": "The international Divadelná Nitra theatre festival runs in late September with performances and side events under the theme \"Future is Now!\"."
+        },
+        "source_url": "https://nitra.sk/kulturna-ponuka/"
+      },
+      {
+        "date": "2026-10-08",
+        "title": {
+          "de": "Nitrianska hudobná jeseň 2026",
+          "hu": "Nyitrai Zenei Ősz 2026",
+          "ro": "Toamna Muzicală Nitreană 2026",
+          "en": "Nitra Music Autumn 2026"
+        },
+        "summary": {
+          "de": "Die 21. Ausgabe von Nitrianska hudobná jeseň startet Anfang Oktober und bietet in Nitra eine Konzertreihe mit klassischer Musik.",
+          "hu": "A Nyitrai Zenei Ősz 21. kiadása október elején indul, és klasszikus zenei koncertsorozatot kínál a városban.",
+          "ro": "A 21-a ediție a Toamnei Muzicale Nitriene începe la început de octombrie și propune un ciclu de concerte de muzică clasică în Nitra.",
+          "en": "The 21st edition of Nitra Music Autumn begins in early October and offers a series of classical concerts in the city."
+        },
+        "source_url": "https://nitra.sk/kulturna-ponuka/"
+      }
+    ]
+  },
+  {
+    "id": "city-galway",
+    "events": [
+      {
+        "date": "2026-07-27",
+        "title": {
+          "de": "Galway Races Summer Festival 2026",
+          "hu": "Galway Races 2026",
+          "ro": "Festivalul de Curse Galway 2026",
+          "en": "Galway Races Summer Festival 2026"
+        },
+        "summary": {
+          "de": "Die berühmte Rennwoche in Ballybrit eröffnet Ende Juli mit Pferderennen, Feststimmung und einem der größten Sommerereignisse in Galway.",
+          "hu": "A híres ballybriti versenyhét július végén indul lóversenyekkel, ünnepi hangulattal és Galway egyik legnagyobb nyári eseményével.",
+          "ro": "Cunoscuta săptămână de curse de la Ballybrit începe la sfârșit de iulie cu curse hipice și atmosferă de festival, fiind unul dintre marile evenimente ale verii din Galway.",
+          "en": "Galway's famous Ballybrit race week opens in late July with horse racing, festival atmosphere, and one of the city's biggest summer events."
+        },
+        "source_url": "https://www.galwaytourism.ie/event/galway-races/"
+      },
+      {
+        "date": "2026-09-25",
+        "title": {
+          "de": "Galway International Oyster & Seafood Festival 2026",
+          "hu": "Galway Nemzetközi Osztriga- és Tengeri Étel Fesztivál 2026",
+          "ro": "Festivalul Internațional al Stridiilor și Fructelor de Mare Galway 2026",
+          "en": "Galway International Oyster & Seafood Festival 2026"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Festival verbindet Austernwettbewerbe, Seafood-Erlebnisse, Musik und gesellschaftliche Veranstaltungen am letzten Septemberwochenende.",
+          "hu": "A nagy múltú fesztivál osztriganyitó versenyeket, tengeri gasztronómiát, zenét és közösségi programokat kínál szeptember utolsó hétvégéjén.",
+          "ro": "Festivalul reunește concursuri de deschidere a stridiilor, experiențe gastronomice cu fructe de mare, muzică și evenimente sociale în ultimul weekend din septembrie.",
+          "en": "This long-running festival combines oyster-opening contests, seafood experiences, music, and social events over the last weekend of September."
+        },
+        "source_url": "https://www.galwaytourism.ie/event/galway-international-oyster-festival/"
+      },
+      {
+        "date": "2026-09-25",
+        "title": {
+          "de": "Galway Docklands Festival 2026",
+          "hu": "Galway Docklands Fesztivál 2026",
+          "ro": "Festivalul Galway Docklands 2026",
+          "en": "Galway Docklands Festival 2026"
+        },
+        "summary": {
+          "de": "Das Docklands Festival hebt die Hafen- und Küstenviertel von Galway mit einem dreitägigen Programm parallel zum Austernfestival hervor.",
+          "hu": "A Docklands Fesztivál háromnapos programmal állítja középpontba Galway kikötői és vízparti negyedeit az osztrigafesztivállal egy időben.",
+          "ro": "Festivalul Docklands pune în valoare zona portuară și litorală a orașului Galway printr-un program de trei zile desfășurat în paralel cu festivalul stridiilor.",
+          "en": "The Docklands Festival spotlights Galway's harbor and waterfront districts with a three-day program running alongside the oyster festival."
+        },
+        "source_url": "https://www.galwaytourism.ie/event/galway-docklands-festival/"
+      },
+      {
+        "date": "2026-10-20",
+        "title": {
+          "de": "Galway Comedy Festival 2026",
+          "hu": "Galway Comedy Festival 2026",
+          "ro": "Festivalul de Comedie Galway 2026",
+          "en": "Galway Comedy Festival 2026"
+        },
+        "summary": {
+          "de": "Irlands großes Comedy-Festival bringt eine Woche lang internationale und irische Stand-up-, Impro- und Liveshows in verschiedene Galway-Spielstätten.",
+          "hu": "Írország egyik legnagyobb humorfesztiválja egy héten át nemzetközi és ír stand-up, improvizációs és élő műsorokat hoz Galway különböző helyszíneire.",
+          "ro": "Unul dintre cele mai mari festivaluri de comedie din Irlanda aduce timp de o săptămână spectacole de stand-up, improvizație și show-uri live irlandeze și internaționale în mai multe locuri din Galway.",
+          "en": "Ireland's major comedy festival brings a week of international and Irish stand-up, improv, and live shows to venues across Galway."
+        },
+        "source_url": "https://www.galwaytourism.ie/event/comedy-festival-galway/"
+      },
+      {
+        "date": "2026-11-07",
+        "title": {
+          "de": "Galway Christmas Market 2026",
+          "hu": "Galway Karácsonyi Vásár 2026",
+          "ro": "Târgul de Crăciun din Galway 2026",
+          "en": "Galway Christmas Market 2026"
+        },
+        "summary": {
+          "de": "Der Weihnachtsmarkt in Eyre Square startet Anfang November mit Fahrgeschäften, Essensständen, Geschenken und festlicher Unterhaltung im Stadtzentrum.",
+          "hu": "Az Eyre Square karácsonyi vására november elején nyílik meg vidámparki elemekkel, ételstandokkal, ajándékokkal és ünnepi szórakozással a belvárosban.",
+          "ro": "Târgul de Crăciun din Eyre Square începe la început de noiembrie cu atracții, standuri gastronomice, cadouri și divertisment festiv în centrul orașului.",
+          "en": "The Eyre Square Christmas Market opens in early November with rides, food stalls, gifts, and festive entertainment in the city centre."
+        },
+        "source_url": "https://www.galwaytourism.ie/event/galway-christmas-market/"
+      }
+    ]
+  },
+  {
+    "id": "city-konstanz-extra",
+    "events": [
+      {
+        "date": "2026-07-29",
+        "title": {
+          "de": "Konstanzer Weinfest 2026",
+          "hu": "Konstanzi Borfesztivál 2026",
+          "ro": "Festivalul Vinului din Konstanz 2026",
+          "en": "Konstanz Wine Festival 2026"
+        },
+        "summary": {
+          "de": "Vier Sommertage auf dem Sankt-Stephans-Platz mit regionalem Wein, Live-Musik und Bodensee-Kulinarik direkt in der Altstadt.",
+          "hu": "Négy nyári nap a Sankt-Stephans-Platzon regionális borokkal, élőzenével és bodeni-tavi gasztronómiával a történelmi belvárosban.",
+          "ro": "Patru zile de vară în piața Sankt-Stephans-Platz cu vinuri regionale, muzică live și gastronomie de pe Lacul Constance, chiar în centrul vechi.",
+          "en": "Four summer days on Sankt-Stephans-Platz with regional wines, live music, and Lake Constance food in the old town."
+        },
+        "source_url": "https://www.konstanz-info.com/planen-buchen/top-events/weinfest"
+      },
+      {
+        "date": "2026-08-08",
+        "title": {
+          "de": "Konstanzer Seenachtfest 2026",
+          "hu": "Konstanzi Tóéjszaka Fesztivál 2026",
+          "ro": "Festivalul Nopții Lacului din Konstanz 2026",
+          "en": "Konstanz Seenachtfest 2026"
+        },
+        "summary": {
+          "de": "Das große Sommerfest am See verbindet Marktstände, Familienprogramm, Musik und das berühmte Feuerwerk über dem Bodensee.",
+          "hu": "A nagy tóparti nyári fesztivál vásárral, családi programokkal, zenével és a híres Bodeni-tavi tűzijátékkal várja a látogatókat.",
+          "ro": "Marele festival de vară de pe malul lacului combină piață, program pentru familii, muzică și celebrul foc de artificii deasupra lacului Constance.",
+          "en": "The major lakeside summer festival combines market stalls, family activities, music, and the famous fireworks over Lake Constance."
+        },
+        "source_url": "https://www.konstanz-info.com/event/konstanzer-seenachtfest-d262a0d811"
+      },
+      {
+        "date": "2026-11-26",
+        "title": {
+          "de": "Weihnachtsmarkt am See 2026",
+          "hu": "Tóparti Karácsonyi Vásár 2026",
+          "ro": "Târgul de Crăciun de pe malul lacului 2026",
+          "en": "Christmas Market by the Lake 2026"
+        },
+        "summary": {
+          "de": "Der Konstanzer Weihnachtsmarkt startet Ende November mit rund 170 Hütten, Weihnachtsschiff, Kunsthandwerk und Gastronomie entlang des Seeufers.",
+          "hu": "A konstanzi tóparti karácsonyi vásár november végén nyílik meg mintegy 170 faházzal, karácsonyi hajóval, kézműves kínálattal és gasztronómiával a vízparton.",
+          "ro": "Târgul de Crăciun din Konstanz începe la sfârșit de noiembrie cu aproximativ 170 de căsuțe, nava de Crăciun, artizanat și gastronomie de-a lungul malului.",
+          "en": "Konstanz's lakeside Christmas market opens in late November with around 170 huts, a Christmas ship, crafts, and food along the waterfront."
+        },
+        "source_url": "https://weihnachtsmarkt-am-see.de/"
+      }
+    ]
+  },
+  {
+    "id": "italy-treviso-cities-v2",
+    "events": [
+      {
+        "date": "2026-09-11",
+        "title": {
+          "de": "Diego Basso: Omaggio a Ennio Morricone",
+          "hu": "Diego Basso: Tisztelgés Ennio Morricone előtt",
+          "ro": "Diego Basso: Omagiu lui Ennio Morricone",
+          "en": "Diego Basso: Tribute to Ennio Morricone"
+        },
+        "summary": {
+          "de": "Im Teatro Mario del Monaco findet ein sinfonischer Abend mit Musik von Ennio Morricone unter der Leitung von Diego Basso statt.",
+          "hu": "A Teatro Mario del Monaco színházban Diego Basso vezényletével szimfonikus est idézi meg Ennio Morricone zenéjét.",
+          "ro": "La Teatro Mario del Monaco are loc o seară simfonică dedicată muzicii lui Ennio Morricone, sub conducerea lui Diego Basso.",
+          "en": "The Teatro Mario del Monaco hosts a symphonic evening dedicated to Ennio Morricone's music under Diego Basso's direction."
+        },
+        "source_url": "https://www.ticketone.it/event/diego-basso-omaggio-a-ennio-morricone-teatro-mario-del-monaco-21683623/"
+      },
+      {
+        "date": "2026-10-11",
+        "title": {
+          "de": "La Mezza di Treviso 2026",
+          "hu": "Treviso Félmaraton 2026",
+          "ro": "Semimaratonul din Treviso 2026",
+          "en": "La Mezza di Treviso 2026"
+        },
+        "summary": {
+          "de": "Der internationale Halbmarathon führt Läuferinnen und Läufer auf einer offiziell organisierten Straßenlaufstrecke durch Treviso.",
+          "hu": "A nemzetközi félmaraton hivatalos országúti versenyként vezeti a futókat Treviso útvonalain.",
+          "ro": "Semimaratonul internațional poartă alergătorii pe un traseu oficial de șosea prin Treviso.",
+          "en": "This international half marathon takes runners through Treviso on an officially organised road-race course."
+        },
+        "source_url": "https://www.endu.net/en/events/la-mezza-di-treviso-international-half-marathon/"
+      },
+      {
+        "date": "2026-10-11",
+        "title": {
+          "de": "Tiramisu Run 2026",
+          "hu": "Tiramisu Run 2026",
+          "ro": "Tiramisu Run 2026",
+          "en": "Tiramisu Run 2026"
+        },
+        "summary": {
+          "de": "Am selben Sportwochenende bringt der Tiramisu Run ein eigenes Laufevent nach Treviso und ergänzt das Herbstprogramm für aktive Besucher.",
+          "hu": "Ugyanazon a sporthétvégén a Tiramisu Run önálló futóeseményt hoz Trevisóba, kiegészítve az őszi aktív programkínálatot.",
+          "ro": "În același weekend sportiv, Tiramisu Run aduce la Treviso un eveniment de alergare separat, completând oferta activă de toamnă.",
+          "en": "On the same sports weekend, the Tiramisu Run brings its own race event to Treviso, adding to the city's active autumn calendar."
+        },
+        "source_url": "https://www.endu.net/en/events/tiramisu-run/"
+      },
+      {
+        "date": "2026-11-28",
+        "title": {
+          "de": "Ma Noi No - Tributo ai Nomadi",
+          "hu": "Ma Noi No - Tributo ai Nomadi",
+          "ro": "Ma Noi No - Tribut Nomadi",
+          "en": "Ma Noi No - Tribute to Nomadi"
+        },
+        "summary": {
+          "de": "Im Teatro Sant'Anna steht Ende November ein Abend mit einer Tribute-Show für die italienische Band Nomadi auf dem Programm.",
+          "hu": "November végén a Teatro Sant'Anna színpadán a Nomadi olasz zenekar előtt tisztelgő tribute-koncert lesz látható.",
+          "ro": "La sfârșit de noiembrie, Teatro Sant'Anna găzduiește un spectacol tribut dedicat trupei italiene Nomadi.",
+          "en": "At the end of November, Teatro Sant'Anna hosts a tribute show dedicated to the Italian band Nomadi."
+        },
+        "source_url": "https://www.ticketone.it/event/ma-noi-no-teatro-santanna-21752408/"
+      }
+    ]
+  },
+  {
+    "id": "italy-torre-del-greco-cities-v2",
+    "events": [
+      {
+      "date": "2026-07-09",
+      "end_date": "2026-12-18",
+      "period": { "recurrent": true },
+        "title": {
+          "de": "Cineforum 3.0",
+          "hu": "Cineforum 3.0",
+          "ro": "Cineforum 3.0",
+          "en": "Cineforum 3.0"
+        },
+        "summary": {
+          "de": "Die städtische Filmreihe startet mit „I cento passi“ und setzt 2026 ein Programm mit insgesamt zehn Filmen in Torre del Greco fort.",
+          "hu": "A városi filmklub „I cento passi” vetítéssel indul, és 2026-ban összesen tíz filmet kínáló programsorozatot folytat Torre del Grecóban.",
+          "ro": "Ciclul de film al orașului începe cu „I cento passi” și continuă în 2026 cu un program de zece filme la Torre del Greco.",
+          "en": "The municipal film series opens with \"I cento passi\" and continues in 2026 with a ten-film programme in Torre del Greco."
+        },
+        "source_url": "https://comune.torredelgreco.na.it/vivere-il-comune/eventi/cineforum-3-0-nellauditorium-della-trinita/"
+      },
+      {
+        "date": "2026-10-23",
+        "title": {
+          "de": "Cineforum 3.0: Elvis",
+          "hu": "Cineforum 3.0: Elvis",
+          "ro": "Cineforum 3.0: Elvis",
+          "en": "Cineforum 3.0: Elvis"
+        },
+        "summary": {
+          "de": "Das Herbstprogramm der Cineforum-Reihe umfasst Ende Oktober auch eine Vorführung von „Elvis“ im Auditorium della Trinità.",
+          "hu": "A Cineforum őszi programjában október végén az „Elvis” vetítése is szerepel a Trinità auditóriumban.",
+          "ro": "Programul de toamnă al cineforumului include la sfârșitul lui octombrie și proiecția filmului „Elvis” la Auditorium della Trinità.",
+          "en": "The autumn leg of the Cineforum series also includes an \"Elvis\" screening in late October at the Auditorium della Trinità."
+        },
+        "source_url": "https://comune.torredelgreco.na.it/vivere-il-comune/eventi/cineforum-3-0-nellauditorium-della-trinita/"
+      },
+      {
+        "date": "2026-10-24",
+        "title": {
+          "de": "Buchvorstellung zum Gedenken an Cristoforo Russo",
+          "hu": "Cristoforo Russo emlékkönyvének bemutatója",
+          "ro": "Lansarea cărții în memoria lui Cristoforo Russo",
+          "en": "Book presentation in memory of Cristoforo Russo"
+        },
+        "summary": {
+          "de": "Im Palazzo Baronale findet eine öffentliche Gedenkveranstaltung mit Buchpräsentation zu Ehren von Cristoforo Russo statt.",
+          "hu": "A Palazzo Baronale épületében nyilvános emlékrendezvényen mutatják be a Cristoforo Russo tiszteletére készült könyvet.",
+          "ro": "La Palazzo Baronale are loc un eveniment public de comemorare cu lansarea unei cărți dedicate lui Cristoforo Russo.",
+          "en": "The Palazzo Baronale hosts a public commemorative book presentation in honour of Cristoforo Russo."
+        },
+        "source_url": "https://comune.torredelgreco.na.it/vivere-il-comune/eventi/presentazione-del-libro-in-memoria-di-cristoforo-russo/"
+      },
+      {
+        "date": "2026-10-26",
+        "title": {
+          "de": "Gedenken an die Tragödie von Balvano",
+          "hu": "Megemlékezés a balvanói tragédiáról",
+          "ro": "Comemorarea tragediei de la Balvano",
+          "en": "Commemoration of the Balvano tragedy"
+        },
+        "summary": {
+          "de": "Die Stadt begeht Ende Oktober eine Gedenkzeremonie für die Opfer der Tragödie von Balvano und erinnert an die torresischen Opfer des Unglücks.",
+          "hu": "A város október végén megemlékezést tart a balvanói tragédia áldozataiért, külön felidézve a torreiek veszteségét.",
+          "ro": "Orașul marchează la final de octombrie o ceremonie de comemorare pentru victimele tragediei de la Balvano, inclusiv pentru victimele din Torre del Greco.",
+          "en": "At the end of October, the city holds a memorial ceremony for the victims of the Balvano tragedy, including those from Torre del Greco."
+        },
+        "source_url": "https://comune.torredelgreco.na.it/vivere-il-comune/eventi/tragedia-di-balvano-monumento-ai-caduti/"
+      }
+    ]
+  }
+]

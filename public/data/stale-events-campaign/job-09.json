@@ -1,0 +1,428 @@
+[
+  {
+    "id": "karlsruhe-extra",
+    "events": [
+      {
+        "title": {
+          "de": "DAS FEST 2026",
+          "hu": "DAS FEST 2026",
+          "ro": "DAS FEST 2026",
+          "en": "DAS FEST 2026"
+        },
+        "summary": {
+          "de": "Das große Open-Air-Festival im Günther-Klotz-Anlage bringt vier Tage lang Konzerte, Familienprogramm und Sommerstimmung nach Karlsruhe.",
+          "hu": "A Günther-Klotz-Anlage nagy szabadtéri fesztiválja négy napon át koncertekkel, családi programokkal és nyári hangulattal tölti meg Karlsruhét.",
+          "ro": "Marele festival open-air din Günther-Klotz-Anlage aduce timp de patru zile concerte, programe pentru familii și atmosferă de vară la Karlsruhe.",
+          "en": "The major open-air festival at Günther-Klotz-Anlage brings four days of concerts, family programming and summer atmosphere to Karlsruhe."
+        },
+    "date": "2026-07-23",
+    "end_date": "2026-07-26",
+        "source_url": "https://www.karlsruhe-erleben.de/en/veranstaltungen/das-fest"
+      },
+      {
+        "title": {
+          "de": "SCHLOSSLICHTSPIELE Light Festival Karlsruhe 2026",
+          "hu": "SCHLOSSLICHTSPIELE Light Festival Karlsruhe 2026",
+          "ro": "SCHLOSSLICHTSPIELE Light Festival Karlsruhe 2026",
+          "en": "SCHLOSSLICHTSPIELE Light Festival Karlsruhe 2026"
+        },
+        "summary": {
+          "de": "Vor dem Karlsruher Schloss verwandelt das kostenlose Medienkunstfestival die Innenstadt vier Wochen lang mit Projektionen und Lichtinstallationen.",
+          "hu": "A karlsruhei kastély előtt az ingyenes médiaművészeti fesztivál négy hétre vetítésekkel és fényinstallációkkal alakítja át a belvárost.",
+          "ro": "În fața palatului din Karlsruhe, festivalul gratuit de artă media transformă centrul orașului timp de patru săptămâni prin proiecții și instalații luminoase.",
+          "en": "In front of Karlsruhe Palace, the free media-art festival transforms the city centre for four weeks with projections and light installations."
+        },
+        "date": "2026-08-13",
+        "source_url": "https://www.karlsruhe-erleben.de/en/veranstaltungen/schlosslichtspiele-light-festival"
+      },
+      {
+        "title": {
+          "de": "Karlsruher Stadtfest 2026",
+          "hu": "Karlsruhei Városi Fesztivál 2026",
+          "ro": "Festivalul orașului Karlsruhe 2026",
+          "en": "Karlsruhe City Festival 2026"
+        },
+        "summary": {
+          "de": "Das Stadtfest feiert den Herbstbeginn in der Innenstadt mit Live-Musik, internationaler Straßenkunst, Familienangeboten und verkaufsoffenem Sonntag.",
+          "hu": "A városi fesztivál élő zenével, nemzetközi utcaművészettel, családi programokkal és vasárnapi nyitva tartással ünnepli az ősz kezdetét a belvárosban.",
+          "ro": "Festivalul orașului marchează începutul toamnei în centrul Karlsruhe cu muzică live, artă stradală internațională, programe pentru familii și duminică de cumpărături.",
+          "en": "The city festival marks the start of autumn downtown with live music, international street art, family activities and Sunday shopping."
+        },
+        "date": "2026-10-10",
+        "source_url": "https://www.karlsruhe-erleben.de/en/veranstaltungen/stadtfest"
+      },
+      {
+        "title": {
+          "de": "Karlsruher Christkindlesmarkt 2026",
+          "hu": "Karlsruhei Christkindlesmarkt 2026",
+          "ro": "Târgul de Crăciun Karlsruhe 2026",
+          "en": "Karlsruhe Christkindlesmarkt 2026"
+        },
+        "summary": {
+          "de": "Der Weihnachtsmarkt auf Marktplatz und Friedrichsplatz bietet Adventsstände, Riesenrad, Kinderland und festliche Innenstadtatmosphäre.",
+          "hu": "A Marktplatzon és a Friedrichsplatzon rendezett karácsonyi vásár adventi standokkal, óriáskerékkel, gyerekvilággal és ünnepi belvárosi hangulattal várja a látogatókat.",
+          "ro": "Târgul de Crăciun din Marktplatz și Friedrichsplatz oferă standuri de Advent, roată panoramică, zonă pentru copii și atmosferă festivă în centru.",
+          "en": "The Christmas market on Marktplatz and Friedrichsplatz offers Advent stalls, a Ferris wheel, a children’s area and festive city-centre atmosphere."
+        },
+        "date": "2026-11-23",
+        "source_url": "https://www.karlsruhe-erleben.de/en/weihnachtsstadt"
+      },
+      {
+        "title": {
+          "de": "Stadtwerke Karlsruhe WINTERZEIT 2026/27",
+          "hu": "Stadtwerke Karlsruhe WINTERZEIT 2026/27",
+          "ro": "Stadtwerke Karlsruhe WINTERZEIT 2026/27",
+          "en": "Stadtwerke Karlsruhe WINTERZEIT 2026/27"
+        },
+        "summary": {
+          "de": "Die winterliche Freiluft-Eisbahn vor dem Schloss kombiniert Schlittschuhlaufen, Curling, Winterdorf und Gastronomie bis Ende Januar.",
+          "hu": "A kastély előtti szabadtéri téli jégpálya korcsolyázást, curlinget, téli falut és gasztronómiát kínál január végéig.",
+          "ro": "Patinoarul în aer liber din fața palatului combină patinajul, curlingul, satul de iarnă și oferta gastronomică până la sfârșitul lui ianuarie.",
+          "en": "The open-air winter rink in front of the palace combines ice skating, curling, a winter village and food stalls through late January."
+        },
+        "date": "2026-11-23",
+        "source_url": "https://www.karlsruhe-erleben.de/en/veranstaltungen/stadtwerke-karlsruhe-winterzeit"
+      }
+    ]
+  },
+  {
+    "id": "czechrepublic-ostrava-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Fauna-Märkte",
+          "hu": "Fauna piac",
+          "ro": "Târgul Fauna",
+          "en": "Fauna Markets"
+        },
+        "summary": {
+          "de": "Auf dem Messegelände Černá louka findet ein großer Spezialmarkt für Tier- und Zuchtinteressierte statt.",
+          "hu": "A Černá louka vásárterületen nagy speciális piac várja az állatok és tenyésztés iránt érdeklődőket.",
+          "ro": "La complexul Černá louka are loc un mare târg specializat dedicat pasionaților de animale și creștere.",
+          "en": "A large specialist market for animal and breeding enthusiasts takes place at the Černá louka fairgrounds."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://www.visitostrava.eu/en/events/"
+      },
+      {
+        "title": {
+          "de": "Folklore Without Borders 2026",
+          "hu": "Folklore Without Borders 2026",
+          "ro": "Folklore Without Borders 2026",
+          "en": "Folklore Without Borders 2026"
+        },
+        "summary": {
+          "de": "Das internationale Folklorefestival bespielt mehrere Orte in Ostrava mit Tanz, Musik und Gruppen aus verschiedenen Ländern.",
+          "hu": "A nemzetközi folklórfesztivál Ostrava több helyszínén kínál táncot, zenét és különböző országok együtteseit.",
+          "ro": "Festivalul internațional de folclor animă mai multe locuri din Ostrava cu dans, muzică și ansambluri din diferite țări.",
+          "en": "The international folklore festival fills multiple Ostrava venues with dance, music and ensembles from different countries."
+        },
+        "date": "2026-08-17",
+        "source_url": "https://www.visitostrava.eu/en/events/"
+      },
+      {
+        "title": {
+          "de": "Europameisterschaft im Feuerwehrsport",
+          "hu": "Tűzoltó sport Európa-bajnokság",
+          "ro": "Campionatul European de sport al pompierilor",
+          "en": "European Fire Sports Championship"
+        },
+        "summary": {
+          "de": "Im Sportovní areál Poruba treffen internationale Feuerwehrteams zu Wettkämpfen in mehreren Feuerwehrsport-Disziplinen an.",
+          "hu": "A Sportovní areál Poruba helyszínén nemzetközi tűzoltócsapatok mérik össze tudásukat több tűzoltósport-számban.",
+          "ro": "La Sportovní areál Poruba se întâlnesc echipe internaționale de pompieri pentru probe din mai multe discipline ale sportului pompieresc.",
+          "en": "At Sportovní areál Poruba, international fire-service teams compete across multiple fire sports disciplines."
+        },
+        "date": "2026-08-17",
+        "source_url": "https://www.visitostrava.eu/en/events/"
+      },
+      {
+        "title": {
+          "de": "Festival Inverze 2026",
+          "hu": "Festival Inverze 2026",
+          "ro": "Festivalul Inverze 2026",
+          "en": "Inverze Festival 2026"
+        },
+        "summary": {
+          "de": "Das Festival im Kulturní centrum Provoz bündelt Ende August ein alternatives Kulturprogramm mit Performances und Konzerten.",
+          "hu": "Az augusztus végi fesztivál a Kulturní centrum Provoz helyszínén alternatív kulturális programot kínál előadásokkal és koncertekkel.",
+          "ro": "Festivalul de la Kulturní centrum Provoz propune la final de august un program cultural alternativ cu spectacole și concerte.",
+          "en": "The festival at Kulturní centrum Provoz presents an alternative late-August cultural programme with performances and concerts."
+        },
+        "date": "2026-08-26",
+        "source_url": "https://www.visitostrava.eu/en/events/"
+      },
+      {
+        "title": {
+          "de": "JelenFest",
+          "hu": "JelenFest",
+          "ro": "JelenFest",
+          "en": "JelenFest"
+        },
+        "summary": {
+          "de": "Auf der Burg Slezskoostravský hrad verbindet das Musikfestival ein spätsommerliches Konzertprogramm mit historischer Kulisse.",
+          "hu": "A Slezskoostravský hrad várában a fesztivál késő nyári koncertprogramot kínál történelmi környezetben.",
+          "ro": "La castelul Slezskoostravský hrad, festivalul propune un program muzical de final de vară într-un decor istoric.",
+          "en": "At Silesian Ostrava Castle, the festival pairs a late-summer concert programme with a historic setting."
+        },
+        "date": "2026-09-12",
+        "source_url": "https://www.visitostrava.eu/en/events/"
+      }
+    ]
+  },
+  {
+    "id": "iasi",
+    "events": [
+      {
+        "title": {
+          "de": "SFR 17 Eröffnungsgala",
+          "hu": "SFR 17 nyitógála",
+          "ro": "Gala de deschidere SFR 17",
+          "en": "SFR 17 Opening Gala"
+        },
+        "summary": {
+          "de": "Die Eröffnung der 17. Ausgabe von Serile Filmului Românesc bringt eine Open-Air-Vorpremiere von „Atlasul Universului“ und ein Konzert von 3 Sud Est auf den Boulevard Ștefan cel Mare.",
+          "hu": "A Serile Filmului Românesc 17. kiadásának nyitánya szabadtéri „Atlasul Universului” előbemutatót és 3 Sud Est-koncertet hoz a Ștefan cel Mare sugárútra.",
+          "ro": "Deschiderea celei de-a 17-a ediții Serile Filmului Românesc aduce pe bulevardul Ștefan cel Mare o avanpremieră în aer liber a filmului „Atlasul Universului” și un concert 3 Sud Est.",
+          "en": "The opening of the 17th Serile Filmului Românesc edition brings an open-air preview of “Atlasul Universului” and a 3 Sud Est concert to Ștefan cel Mare Boulevard."
+        },
+        "date": "2026-08-05",
+        "source_url": "https://eventbook.ro/film/bilete-gala-de-deschidere-sfr-17"
+      },
+      {
+        "title": {
+          "de": "Gipsy Queen",
+          "hu": "Gipsy Queen",
+          "ro": "Gipsy Queen",
+          "en": "Gipsy Queen"
+        },
+        "summary": {
+          "de": "Im Rahmen des SFR zeigt die Palas-Gartenbühne den Film „Gipsy Queen“ als Sondervorführung mit Gast Irina-Margareta Nistor.",
+          "hu": "Az SFR keretében a Palas kertjében különvetítésen látható a „Gipsy Queen”, Irina-Margareta Nistor vendégszereplésével.",
+          "ro": "În cadrul SFR, Grădina Palas găzduiește proiecția specială a filmului „Gipsy Queen”, cu Irina-Margareta Nistor invitată.",
+          "en": "As part of SFR, Palas Garden hosts a special screening of “Gipsy Queen” with guest Irina-Margareta Nistor."
+        },
+        "date": "2026-08-07",
+        "source_url": "https://eventbook.ro/film/bilete-sfr-2026-gipsy-queen"
+      },
+      {
+        "title": {
+          "de": "Theateraufführung „Băieții de zinc“",
+          "hu": "„Băieții de zinc” színházi előadás",
+          "ro": "Spectacolul de teatru „Băieții de zinc”",
+          "en": "Theatre performance “Băieții de zinc”"
+        },
+        "summary": {
+          "de": "Das Nationaltheater „Vasile Alecsandri“ empfängt im SFR-Rahmen die Bulandra-Produktion nach Swetlana Alexijewitsch über Krieg und seine Folgen.",
+          "hu": "A „Vasile Alecsandri” Nemzeti Színház az SFR részeként fogadja a Bulandra Színház Svetlana Alekszijevics műve nyomán készült, háborúról szóló előadását.",
+          "ro": "Teatrul Național „Vasile Alecsandri” găzduiește, în cadrul SFR, producția Bulandra după Svetlana Aleksievici despre război și urmările lui.",
+          "en": "The “Vasile Alecsandri” National Theatre hosts, within SFR, the Bulandra production based on Svetlana Alexievich about war and its consequences."
+        },
+        "date": "2026-08-08",
+        "source_url": "https://eventbook.ro/theater/bilete-sfr-2026-spectacol-de-teatru-baietii-de-zinc"
+      },
+      {
+        "title": {
+          "de": "SFR 17 Abschlussgala",
+          "hu": "SFR 17 zárógála",
+          "ro": "Gala de închidere SFR 17",
+          "en": "SFR 17 Closing Gala"
+        },
+        "summary": {
+          "de": "Die Abschlussgala des Filmfestivals kombiniert ein Konzert von Ada Morar, die Vorpremiere von „Delta sălbatică“ und die Vergabe der nationalen Festivalpreise.",
+          "hu": "A filmfesztivál zárógálája Ada Morar koncertjét, a „Delta sălbatică” előbemutatóját és a nemzeti díjak átadását kapcsolja össze.",
+          "ro": "Gala de închidere a festivalului combină un concert Ada Morar, avanpremiera filmului „Delta sălbatică” și acordarea premiilor naționale.",
+          "en": "The festival’s closing gala combines an Ada Morar concert, a preview of “Delta sălbatică” and the presentation of national festival awards."
+        },
+        "date": "2026-08-09",
+        "source_url": "https://eventbook.ro/film/bilete-sfr-2026-gala-de-inchidere"
+      },
+      {
+        "title": {
+          "de": "The Power of Storytelling Iași 2026",
+          "hu": "The Power of Storytelling Iași 2026",
+          "ro": "The Power of Storytelling Iași 2026",
+          "en": "The Power of Storytelling Iași 2026"
+        },
+        "summary": {
+          "de": "Im Congress Hall im Palas bringt das Halbtagesformat internationale Sprecherinnen und Sprecher, Workshops und Community-Programmpunkte unter dem Motto „Hope“ zusammen.",
+          "hu": "A Palas Congress Hall félnapos programja nemzetközi előadókat, workshopokat és közösségi eseményeket hoz össze a „Hope” témája köré.",
+          "ro": "La Congress Hall din Palas, formatul de jumătate de zi reunește vorbitori internaționali, ateliere și evenimente de comunitate sub tema „Hope”.",
+          "en": "At Congress Hall in Palas, the half-day format brings together international speakers, workshops and community events around the theme “Hope”."
+        },
+        "date": "2026-10-04",
+        "source_url": "https://eventbook.ro/other/bilete-the-power-of-storytelling-iasi"
+      }
+    ]
+  },
+  {
+    "id": "city-gelsenkirchen",
+    "events": [
+      {
+        "title": {
+          "de": "SommerSound 2026",
+          "hu": "SommerSound 2026",
+          "ro": "SommerSound 2026",
+          "en": "SommerSound 2026"
+        },
+        "summary": {
+          "de": "Die kostenlose Sonntagsreihe im Stadtgarten bietet am Musikpavillon Doppelkonzerte mit Folk, Weltmusik und Singer-Songwriting.",
+          "hu": "A Stadtgarten ingyenes vasárnapi sorozata a Musikpavillonnál folk-, világzenei és singer-songwriter kettős koncerteket kínál.",
+          "ro": "Seria gratuită de duminică din Stadtgarten oferă la Musikpavillon concerte duble cu folk, world music și singer-songwriting.",
+          "en": "The free Sunday series in Stadtgarten offers double concerts at the Musikpavillon featuring folk, world music and singer-songwriter acts."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://www.gelsenkirchen.de/de/_meta/veranstaltungskalender/96306-sommersound-2026"
+      },
+      {
+        "title": {
+          "de": "Fury in the Slaughterhouse",
+          "hu": "Fury in the Slaughterhouse",
+          "ro": "Fury in the Slaughterhouse",
+          "en": "Fury in the Slaughterhouse"
+        },
+        "summary": {
+          "de": "Die Open-Air-Tour der deutschen Rockband macht im Amphitheater Gelsenkirchen Station und bringt Klassiker sowie neues Material auf die Bühne.",
+          "hu": "A német rockzenekar szabadtéri turnéja az Amphitheater Gelsenkirchenben áll meg, klasszikusokkal és új dalokkal.",
+          "ro": "Turneul open-air al trupei germane de rock oprește la Amphitheater Gelsenkirchen cu piese clasice și material nou.",
+          "en": "The German rock band’s open-air tour stops at Amphitheater Gelsenkirchen with classic songs and newer material."
+        },
+        "date": "2026-08-01",
+        "source_url": "https://www.gelsenkirchen.de/de/_meta/veranstaltungskalender/94209-fury-in-the-slaughterhouse"
+      },
+      {
+        "title": {
+          "de": "Opeth – The Last Will & Testament",
+          "hu": "Opeth – The Last Will & Testament",
+          "ro": "Opeth – The Last Will & Testament",
+          "en": "Opeth – The Last Will & Testament"
+        },
+        "summary": {
+          "de": "Die schwedische Progressive-Metal-Band spielt im Amphitheater Gelsenkirchen eine Deutschlandshow rund um ihr aktuelles Werk.",
+          "hu": "A svéd progresszív metal zenekar az Amphitheater Gelsenkirchenben ad németországi koncertet aktuális anyagára építve.",
+          "ro": "Trupa suedeză de progressive metal susține la Amphitheater Gelsenkirchen un concert în Germania concentrat pe materialul său actual.",
+          "en": "The Swedish progressive metal band plays a Germany date at Amphitheater Gelsenkirchen built around its current work."
+        },
+        "date": "2026-08-07",
+        "source_url": "https://www.gelsenkirchen.de/de/_meta/veranstaltungskalender/94210-opeth-the-last-will-testament"
+      },
+      {
+        "title": {
+          "de": "Nino de Angelo – Un Momento Italiano",
+          "hu": "Nino de Angelo – Un Momento Italiano",
+          "ro": "Nino de Angelo – Un Momento Italiano",
+          "en": "Nino de Angelo – Un Momento Italiano"
+        },
+        "summary": {
+          "de": "Nino de Angelo bringt sein aktuelles Bühnenprogramm in das Amphitheater und verbindet neue Songs mit bekannten Hits.",
+          "hu": "Nino de Angelo az Amphitheater színpadára hozza aktuális műsorát, új dalokat és ismert slágereket egyaránt.",
+          "ro": "Nino de Angelo aduce la Amphitheater programul său actual, combinând cântece noi cu hituri cunoscute.",
+          "en": "Nino de Angelo brings his current stage programme to the amphitheatre, combining new songs with familiar hits."
+        },
+        "date": "2026-08-21",
+        "source_url": "https://www.gelsenkirchen.de/de/_meta/veranstaltungskalender/94211-nino-de-angelo-un-momento-italiano"
+      },
+      {
+        "title": {
+          "de": "Katie Melua",
+          "hu": "Katie Melua",
+          "ro": "Katie Melua",
+          "en": "Katie Melua"
+        },
+        "summary": {
+          "de": "Katie Melua kehrt für ein seltenes Deutschlandkonzert ins Amphitheater Gelsenkirchen zurück und präsentiert einen Abend mit Balladen und Pop.",
+          "hu": "Katie Melua ritka németországi koncertre tér vissza az Amphitheater Gelsenkirchenbe egy balladákkal és popdalokkal teli estére.",
+          "ro": "Katie Melua revine pentru un concert rar în Germania la Amphitheater Gelsenkirchen, cu o seară de balade și pop.",
+          "en": "Katie Melua returns for a rare Germany concert at Amphitheater Gelsenkirchen with an evening of ballads and pop."
+        },
+        "date": "2026-08-26",
+        "source_url": "https://www.gelsenkirchen.de/de/_meta/veranstaltungskalender/94212-katie-melua"
+      }
+    ]
+  },
+  {
+    "id": "eimsbuttel-extra",
+    "events": [
+      {
+        "title": {
+          "de": "EARLY NIGHT SINGING",
+          "hu": "EARLY NIGHT SINGING",
+          "ro": "EARLY NIGHT SINGING",
+          "en": "EARLY NIGHT SINGING"
+        },
+        "summary": {
+          "de": "Auf dem Fanny-Mendelssohn-Platz lädt das offene Singformat zu einem sommerlichen Abend mit gemeinschaftlichem Mitsingen im Freien ein.",
+          "hu": "A Fanny-Mendelssohn-Platz nyitott éneklős programja nyári szabadtéri közös éneklésre hívja a résztvevőket.",
+          "ro": "Pe Fanny-Mendelssohn-Platz, formatul deschis invită publicul la o seară de cântat împreună în aer liber.",
+          "en": "At Fanny-Mendelssohn-Platz, the open sing-along format invites visitors to a summer evening of communal outdoor singing."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://www.hamburg-travel.com/see-explore/events/events-calendar/early-night-singing/"
+      },
+      {
+        "title": {
+          "de": "EARLY NIGHT SINGING",
+          "hu": "EARLY NIGHT SINGING",
+          "ro": "EARLY NIGHT SINGING",
+          "en": "EARLY NIGHT SINGING"
+        },
+        "summary": {
+          "de": "Die Singreihe kehrt im August für einen weiteren offenen Abend auf dem Fanny-Mendelssohn-Platz in Eimsbüttel zurück.",
+          "hu": "Az éneklős sorozat augusztusban újabb nyitott estére tér vissza a Fanny-Mendelssohn-Platzra Eimsbüttelben.",
+          "ro": "Seria de cântat revine în august pentru o nouă seară deschisă pe Fanny-Mendelssohn-Platz din Eimsbüttel.",
+          "en": "The sing-along series returns in August for another open evening at Fanny-Mendelssohn-Platz in Eimsbüttel."
+        },
+        "date": "2026-08-20",
+        "source_url": "https://www.hamburg-travel.com/see-explore/events/events-calendar/early-night-singing/"
+      },
+      {
+        "title": {
+          "de": "Rooftop Flohmarkt Galeria Eimsbüttel",
+          "hu": "Tetőtéri bolhapiac a Galeria Eimsbüttelben",
+          "ro": "Piață de vechituri pe acoperiș la Galeria Eimsbüttel",
+          "en": "Rooftop Flea Market Galeria Eimsbüttel"
+        },
+        "summary": {
+          "de": "Auf dem Parkdeck der Galeria Eimsbüttel verbindet der Dachflohmarkt Stöbern mit Streetfood und weiter Aussicht über das Viertel.",
+          "hu": "A Galeria Eimsbüttel parkolótetején rendezett bolhapiac a kincskeresést street fooddal és széles kilátással ötvözi.",
+          "ro": "Pe acoperișul-parcare al Galeria Eimsbüttel, piața de vechituri combină căutarea de obiecte speciale cu street food și priveliști asupra cartierului.",
+          "en": "On the rooftop car park of Galeria Eimsbüttel, the flea market combines treasure hunting with street food and broad views over the district."
+        },
+        "date": "2026-08-21",
+        "source_url": "https://www.hamburg-travel.com/see-explore/events/events-calendar/rooftop-flea-market-galeria-eimsbuettel/"
+      },
+      {
+        "title": {
+          "de": "Rooftop Flohmarkt Galeria Eimsbüttel",
+          "hu": "Tetőtéri bolhapiac a Galeria Eimsbüttelben",
+          "ro": "Piață de vechituri pe acoperiș la Galeria Eimsbüttel",
+          "en": "Rooftop Flea Market Galeria Eimsbüttel"
+        },
+        "summary": {
+          "de": "Der zweite August-Termin des Dachflohmarkts bietet erneut Marktstände, Snacks und eine lockere Sommeratmosphäre auf dem Osterstraßen-Dach.",
+          "hu": "A tetőtéri bolhapiac második augusztusi időpontja ismét standokat, harapnivalókat és laza nyári hangulatot kínál az Osterstraße fölött.",
+          "ro": "A doua dată din august a pieței de pe acoperiș aduce din nou standuri, gustări și o atmosferă relaxată de vară deasupra Osterstraße.",
+          "en": "The rooftop market’s second August date again offers stalls, snacks and an easy summer atmosphere above Osterstraße."
+        },
+        "date": "2026-08-22",
+        "source_url": "https://www.hamburg-travel.com/see-explore/events/events-calendar/rooftop-flea-market-galeria-eimsbuettel/"
+      },
+      {
+        "title": {
+          "de": "Rooftop Flohmarkt Galeria Eimsbüttel",
+          "hu": "Tetőtéri bolhapiac a Galeria Eimsbüttelben",
+          "ro": "Piață de vechituri pe acoperiș la Galeria Eimsbüttel",
+          "en": "Rooftop Flea Market Galeria Eimsbüttel"
+        },
+        "summary": {
+          "de": "Zum Herbsttermin lädt der Rooftop-Flohmarkt erneut auf das Galeria-Parkdeck mit Designfunden, Secondhand und Streetfood.",
+          "hu": "Az őszi alkalommal a tetőtéri bolhapiac ismét designkincsekkel, second hand portékákkal és street fooddal vár a Galeria parkolótetején.",
+          "ro": "La ediția de toamnă, piața de pe acoperiș revine pe parcarea Galeria cu obiecte de design, second-hand și street food.",
+          "en": "For its autumn date, the rooftop flea market returns to the Galeria deck with design finds, second-hand shopping and street food."
+        },
+        "date": "2026-09-26",
+        "source_url": "https://www.hamburg-travel.com/see-explore/events/events-calendar/rooftop-flea-market-galeria-eimsbuettel/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "id": "brest",
+    "events": [
+      {
+        "date": "2026-09-17",
+        "title": {
+          "de": "ABBA MANIA",
+          "hu": "ABBA MANIA",
+          "ro": "ABBA MANIA",
+          "en": "ABBA MANIA",
+          "fr": "ABBA MANIA"
+        },
+        "summary": {
+          "de": "Die Tribute-Show \"The ABBA Tribute\" bringt die bekannten Hits der schwedischen Popgruppe in die Brest Arena.",
+          "hu": "A \"The ABBA Tribute\" című show az ABBA ismert slágereit hozza el a Brest Arenába.",
+          "ro": "Spectacolul \"The ABBA Tribute\" aduce la Brest Arena hiturile celebre ale formației suedeze ABBA.",
+          "en": "The \"The ABBA Tribute\" show brings ABBA's well-known hits to Brest Arena.",
+          "fr": "Le spectacle \"The ABBA Tribute\" ramène les grands succès d'ABBA à la Brest Arena."
+        },
+        "source_url": "https://brestarena.fr/event/mania_abba_tribute/"
+      },
+      {
+        "date": "2026-10-01",
+        "title": {
+          "de": "Jeff Panacloc",
+          "hu": "Jeff Panacloc",
+          "ro": "Jeff Panacloc",
+          "en": "Jeff Panacloc",
+          "fr": "Jeff Panacloc"
+        },
+        "summary": {
+          "de": "Jeff Panacloc präsentiert mit \"The Jeff Panacloc Company\" eine große Comedy-Show voller absurder Figuren und Bühneneffekte.",
+          "hu": "Jeff Panacloc a \"The Jeff Panacloc Company\" előadással egy nagyszabású, abszurd figurákkal teli humorestet hoz Brestbe.",
+          "ro": "Jeff Panacloc vine cu \"The Jeff Panacloc Company\", un spectacol de comedie cu personaje absurde și producție amplă.",
+          "en": "Jeff Panacloc brings \"The Jeff Panacloc Company\", a large-scale comedy show packed with absurd characters and stage effects.",
+          "fr": "Jeff Panacloc présente \"The Jeff Panacloc Company\", un grand spectacle d'humour avec personnages déjantés et mise en scène immersive."
+        },
+        "source_url": "https://brestarena.fr/event/jeff-panacloc/"
+      },
+      {
+        "date": "2026-10-09",
+        "title": {
+          "de": "Christophe Maé",
+          "hu": "Christophe Maé",
+          "ro": "Christophe Maé",
+          "en": "Christophe Maé",
+          "fr": "Christophe Maé"
+        },
+        "summary": {
+          "de": "Christophe Maé kehrt 2026 im Rahmen seiner Tournee für ein Popkonzert in die Brest Arena zurück.",
+          "hu": "Christophe Maé 2026-os turnéjának részeként popkoncertet ad a Brest Arénában.",
+          "ro": "Christophe Maé revine în 2026 la Brest Arena pentru un concert pop din cadrul noului său turneu.",
+          "en": "Christophe Maé returns to Brest Arena in 2026 for a pop concert on his new tour.",
+          "fr": "Christophe Maé revient à la Brest Arena en 2026 pour une date de sa nouvelle tournée."
+        },
+        "source_url": "https://brestarena.fr/event/christophe-mae/"
+      },
+      {
+        "date": "2026-12-05",
+        "title": {
+          "de": "Noël pour tous",
+          "hu": "Noël pour tous",
+          "ro": "Noël pour tous",
+          "en": "Noël pour tous",
+          "fr": "Noël pour tous"
+        },
+        "summary": {
+          "de": "Das Familien-Weihnachtsspektakel \"Noël pour tous\" läuft an mehreren Terminen in der Brest Arena und richtet sich an ein breites Publikum.",
+          "hu": "A \"Noël pour tous\" családi karácsonyi show több időpontban várja a közönséget a Brest Arénában.",
+          "ro": "Spectacolul familial de Crăciun \"Noël pour tous\" are mai multe reprezentații la Brest Arena și este gândit pentru public larg.",
+          "en": "\"Noël pour tous\" is a family Christmas show staged on multiple dates at Brest Arena for a broad audience.",
+          "fr": "\"Noël pour tous\" est un spectacle familial de Noël proposé sur plusieurs dates à la Brest Arena."
+        },
+        "source_url": "https://brestarena.fr/event/noel-pour-tous/"
+      }
+    ]
+  },
+  {
+    "id": "city-grenoble-extra",
+    "events": [
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Le Planning fête ses 70 ans à Grenoble !",
+          "hu": "A Le Planning 70 éves ünnepe Grenoble-ban",
+          "ro": "Le Planning își sărbătorește cei 70 de ani la Grenoble",
+          "en": "Le Planning celebrates its 70th anniversary in Grenoble",
+          "fr": "Le Planning fête ses 70 ans à Grenoble !"
+        },
+        "summary": {
+          "de": "Die kostenlose Jubiläumsveranstaltung des Planning Familial 38 bietet Begegnungen, Diskussionen und ein öffentliches Abendprogramm.",
+          "hu": "A Planning Familial 38 ingyenes jubileumi rendezvénye találkozókat, beszélgetéseket és esti közönségprogramot kínál.",
+          "ro": "Evenimentul aniversar gratuit al Planning Familial 38 propune întâlniri, discuții și un program public până seara.",
+          "en": "The free anniversary event by Planning Familial 38 features meetups, discussions and a public evening programme.",
+          "fr": "La journée anniversaire gratuite du Planning Familial 38 propose rencontres, échanges et programme public jusqu'en soirée."
+        },
+        "source_url": "https://www.grenoble-tourisme.com/fr/catalogue/detail/le-planning-fete-ses-70-ans-a-grenoble-7917468/"
+      },
+      {
+        "date": "2026-09-24",
+        "title": {
+          "de": "Grenoble Art Up 2026",
+          "hu": "Grenoble Art Up 2026",
+          "ro": "Grenoble Art Up 2026",
+          "en": "Grenoble Art Up 2026",
+          "fr": "Grenoble Art Up 2026"
+        },
+        "summary": {
+          "de": "Die Messe für zeitgenössische Kunst vereint Galerien, Künstlerinnen und Künstler sowie Sammler in Alpexpo Grenoble.",
+          "hu": "A kortárs művészeti vásár galériákat, alkotókat és gyűjtőket hoz össze a grenoble-i Alpexpóban.",
+          "ro": "Târgul de artă contemporană reunește galerii, artiști și colecționari la Alpexpo Grenoble.",
+          "en": "This contemporary art fair brings together galleries, artists and collectors at Alpexpo Grenoble.",
+          "fr": "Cette foire d'art contemporain réunit galeries, artistes et collectionneurs à Alpexpo Grenoble."
+        },
+        "source_url": "https://www.grenoble-tourisme.com/fr/catalogue/detail/grenoble-art-up-2026-7685981/"
+      },
+      {
+        "date": "2026-09-30",
+        "title": {
+          "de": "Meryl",
+          "hu": "Meryl",
+          "ro": "Meryl",
+          "en": "Meryl",
+          "fr": "Meryl"
+        },
+        "summary": {
+          "de": "Die Künstlerin Meryl gibt ein Abendkonzert in La Belle Électrique; Einlass ist ab 19 Uhr, Beginn um 20 Uhr.",
+          "hu": "Meryl esti koncertet ad a La Belle Électrique-ben; kapunyitás 19 órakor, kezdés 20 órakor.",
+          "ro": "Artista Meryl susține un concert de seară la La Belle Électrique; accesul începe la 19:00, concertul la 20:00.",
+          "en": "Meryl performs an evening concert at La Belle Électrique, with doors at 7 pm and the show at 8 pm.",
+          "fr": "Meryl se produit à La Belle Électrique, avec ouverture des portes à 19h et début du concert à 20h."
+        },
+        "source_url": "https://www.grenoble-tourisme.com/fr/catalogue/detail/meryl-7623203/"
+      },
+      {
+        "date": "2026-10-02",
+        "title": {
+          "de": "Rise Of The Northstar + Ten56.",
+          "hu": "Rise Of The Northstar + Ten56.",
+          "ro": "Rise Of The Northstar + Ten56.",
+          "en": "Rise Of The Northstar + Ten56.",
+          "fr": "Rise Of The Northstar + Ten56."
+        },
+        "summary": {
+          "de": "Die Metal- und Hardcore-Bands Rise Of The Northstar und Ten56. spielen gemeinsam in La Belle Électrique.",
+          "hu": "A Rise Of The Northstar és a Ten56. közös metal és hardcore koncertet ad a La Belle Électrique-ben.",
+          "ro": "Trupele Rise Of The Northstar și Ten56. urcă împreună pe scena La Belle Électrique pentru o seară metal și hardcore.",
+          "en": "Rise Of The Northstar and Ten56. share the stage at La Belle Électrique for a metal and hardcore night.",
+          "fr": "Rise Of The Northstar et Ten56. partagent l'affiche à La Belle Électrique pour une soirée metal et hardcore."
+        },
+        "source_url": "https://www.grenoble-tourisme.com/fr/catalogue/detail/rise-of-the-northstar-ten56-7746308/"
+      }
+    ]
+  },
+  {
+    "id": "miskolc",
+    "events": [
+      {
+        "date": "2026-08-16",
+        "title": {
+          "de": "Miskolci Termelői Nap",
+          "hu": "Miskolci Termelői Nap",
+          "ro": "Ziua Producătorilor din Miskolc",
+          "en": "Miskolc Producers' Day"
+        },
+        "summary": {
+          "de": "Auf dem Városház tér verkaufen lokale und regionale Erzeuger handwerkliche Produkte und Lebensmittel; der Markt findet jeden dritten Sonntag im Monat statt.",
+          "hu": "A Városház téren helyi és környékbeli termelők kínálnak kézműves termékeket és élelmiszereket; a vásárt minden hónap harmadik vasárnapján tartják.",
+          "ro": "În Piața Primăriei, producători locali și din împrejurimi vând produse artizanale și alimente; târgul are loc în a treia duminică din fiecare lună.",
+          "en": "On Városház tér, local and regional producers sell handmade goods and food; the market is held every third Sunday of the month."
+        },
+        "source_url": "https://www.hellomiskolc.hu/miskolci-termeloi-nap-hu-7526"
+      },
+      {
+        "date": "2026-08-19",
+        "title": {
+          "de": "VIII. Color Festival - Miskolc 2026",
+          "hu": "VIII. Color Festival - Miskolc 2026",
+          "ro": "VIII. Color Festival - Miskolc 2026",
+          "en": "VIII. Color Festival - Miskolc 2026"
+        },
+        "summary": {
+          "de": "Das farbenfrohe Gemeinschaftsfestival kombiniert Musik, Farbpulver-Aktionen und eine große Feieratmosphäre auf dem Veranstaltungsgelände.",
+          "hu": "A látványos közösségi fesztivál zenét, színporos programokat és ünnepi hangulatot kínál a rendezvényhelyszínen.",
+          "ro": "Festivalul comunitar al culorilor combină muzică, programe cu pudră colorată și o atmosferă de mare sărbătoare.",
+          "en": "This colour-themed community festival combines music, powder-colour activities and a celebratory atmosphere."
+        },
+        "source_url": "https://www.hellomiskolc.hu/viii-color-festival-miskolc-2026"
+      },
+      {
+        "date": "2026-08-20",
+        "title": {
+          "de": "TÜNDÖKLŐ fényjáték",
+          "hu": "TÜNDÖKLŐ fényjáték",
+          "ro": "TÜNDÖKLŐ joc de lumini",
+          "en": "TÜNDÖKLŐ light show"
+        },
+        "summary": {
+          "de": "Das Programm am Hősök tere umfasst einen Umzug, Tanzshow, Feuershow und Videomapping an der Minoritenkirche in halbstündigen Intervallen.",
+          "hu": "A Hősök terén rendezett program felvonulással, táncshow-val, tűzshow-val és a minorita templom falára vetített videomappinggel várja a közönséget.",
+          "ro": "Programul din Piața Eroilor include paradă, show de dans cu lumini, spectacol cu foc și videomapping proiectat pe biserica minorită.",
+          "en": "The event at Hősök tere features a parade, light dance show, fire performance and recurring video mapping on the Minorite church."
+        },
+        "source_url": "https://www.hellomiskolc.hu/tundoklo-fenyjatek"
+      },
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Erdei gasztroexpressz élménytúra",
+          "hu": "Erdei gasztroexpressz élménytúra",
+          "ro": "Turul experiență Gasztroexpressz în pădure",
+          "en": "Forest Gastroexpress experience tour"
+        },
+        "summary": {
+          "de": "Die Tour startet mit dem Waldzug beim Végállomás Bistro & Wine und verbindet eine kulinarische Fahrt mit geführter Wildpflanzenkunde im Bükk.",
+          "hu": "A túra a Végállomás Bistro & Wine-tól induló erdei kisvasúttal kezdődik, és gasztronómiai élményt kapcsol össze vezetett vadnövényes sétával a Bükkben.",
+          "ro": "Turul pornește cu trenulețul forestier de la Végállomás Bistro & Wine și combină experiența gastronomică cu o plimbare ghidată despre plante sălbatice comestibile în Bükk.",
+          "en": "Starting from Végállomás Bistro & Wine, this forest-rail trip combines gastronomy with a guided edible-wild-plant walk in the Bükk hills."
+        },
+        "source_url": "https://www.hellomiskolc.hu/erdei-gasztroexpressz-elmenytura-hu"
+      }
+    ]
+  },
+  {
+    "id": "nl-arnhem",
+    "events": [
+      {
+        "date": "2026-08-22",
+        "title": {
+          "de": "STRTFSTVL Arnhem 2026",
+          "hu": "STRTFSTVL Arnhem 2026",
+          "ro": "STRTFSTVL Arnhem 2026",
+          "en": "STRTFSTVL Arnhem 2026"
+        },
+        "summary": {
+          "de": "Das Straßentheaterfestival in der Innenstadt von Arnhem bringt am 22. und 23. August neue Produktionen und Gastgruppen in den öffentlichen Raum.",
+          "hu": "Az arnhemi belvárosi utcaszínházi fesztivál augusztus 22-23-án új produkciókat és vendégelőadásokat visz a közterekre.",
+          "ro": "Festivalul de teatru stradal din centrul Arnhemului aduce pe 22 și 23 august producții noi și companii invitate în spațiul public.",
+          "en": "The street-theatre festival in central Arnhem fills public spaces with new productions and visiting companies on 22 and 23 August 2026."
+        },
+        "source_url": "https://intoarnhem.nl/evenement/strtfstvl-arnhem-2026/"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "Op Dronk Wijnfestival",
+          "hu": "Op Dronk Wijnfestival",
+          "ro": "Op Dronk Wijnfestival",
+          "en": "Op Dronk Wine Festival"
+        },
+        "summary": {
+          "de": "Im Park Angerenstein präsentieren lokale Weinspezialisten und Winzer mehr als 150 Weine, dazu gibt es Essen und Live-Unterhaltung.",
+          "hu": "Az arnhemi Park Angerensteinben helyi borszaküzletek és borászok több mint 150 bort, valamint gasztrostandokat és élő műsort kínálnak.",
+          "ro": "În Park Angerenstein, specialiști locali în vin și vinificatori prezintă peste 150 de vinuri, alături de gustări și divertisment live.",
+          "en": "At Park Angerenstein, local wine specialists and winemakers present more than 150 wines alongside food stalls and live entertainment."
+        },
+        "source_url": "https://intoarnhem.nl/evenement/op-dronk-wijnfestival/"
+      },
+      {
+        "date": "2026-08-30",
+        "title": {
+          "de": "Dutch Chamber Fest 2026",
+          "hu": "Dutch Chamber Fest 2026",
+          "ro": "Dutch Chamber Fest 2026",
+          "en": "Dutch Chamber Fest 2026"
+        },
+        "summary": {
+          "de": "Im Musis & Stadstheater Arnhem verbindet das szenische Konzert \"La Dame\" Kammermusik, Theater und Gesang zu einer durchgehenden Erzählung.",
+          "hu": "A Musis & Stadstheater Arnhemben a \"La Dame\" című szcenírozott koncert a kamarazenét, a színházat és az éneket egyetlen történetté fűzi össze.",
+          "ro": "La Musis & Stadstheater Arnhem, concertul scenic \"La Dame\" îmbină muzica de cameră, teatrul și vocea într-o poveste continuă.",
+          "en": "At Musis & Stadstheater Arnhem, the staged concert \"La Dame\" blends chamber music, theatre and vocals into a continuous narrative."
+        },
+        "source_url": "https://intoarnhem.nl/evenement/dutch-chamber-fest-2026/"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "Bridge to Liberation 2026",
+          "hu": "Bridge to Liberation 2026",
+          "ro": "Bridge to Liberation 2026",
+          "en": "Bridge to Liberation 2026"
+        },
+        "summary": {
+          "de": "Die Gedenkshow an der Rijnkade unter der John-Frost-Brücke erinnert mit persönlichen Geschichten an die Schlacht um Arnhem und den Wert der Freiheit.",
+          "hu": "A John Frost híd lábánál, a Rijnkade partján rendezett megemlékező show személyes történeteken keresztül idézi fel az arnhemi csata örökségét és a szabadság értékét.",
+          "ro": "Spectacolul comemorativ de pe Rijnkade, la podul John Frost, evocă prin povești personale Bătălia de la Arnhem și valoarea libertății.",
+          "en": "Held on the Rijnkade beneath the John Frost Bridge, this commemorative show reflects on the Battle of Arnhem and the value of freedom through personal stories."
+        },
+        "source_url": "https://airborne-region.nl/en/agenda/bridge-to-liberation-2026/"
+      }
+    ]
+  },
+  {
+    "id": "city-dijon-extra",
+    "events": [
+      {
+        "date": "2026-08-30",
+        "title": {
+          "de": "Le Brunch des Halles de Dijon",
+          "hu": "Dijon-i Halles Brunch",
+          "ro": "Brunch-ul Halles din Dijon",
+          "en": "Le Brunch des Halles de Dijon",
+          "fr": "Le Brunch des Halles de Dijon"
+        },
+        "summary": {
+          "de": "Die Stadt Dijon veranstaltet sonntägliche Themen-Brunches in den Halles centrales mit Gastronomie, Musik und lokalen Produzenten bis zum 20. September 2026.",
+          "hu": "Dijon városa tematikus vasárnapi brunchokat szervez a Halles centrales csarnokban gasztronómiával, zenével és helyi termelőkkel, egészen 2026. szeptember 20-ig.",
+          "ro": "Orașul Dijon organizează brunchuri tematice duminicale în Halles centrales, cu gastronomie, muzică și producători locali, până la 20 septembrie 2026.",
+          "en": "The City of Dijon hosts themed Sunday brunches at the central market halls, combining food, music and local producers through 20 September 2026.",
+          "fr": "La Ville de Dijon organise des brunchs thématiques dominicaux aux Halles centrales, mêlant gastronomie, musique et producteurs locaux jusqu'au 20 septembre 2026."
+        },
+        "source_url": "https://www.dijon.fr/actualites/le-brunch-des-halles-de-dijon-tous-les-dimanches-du-21-juin-au-20-septembre-2026/"
+      },
+      {
+        "date": "2026-09-04",
+        "title": {
+          "de": "Lalalib 2026",
+          "hu": "Lalalib 2026",
+          "ro": "Lalalib 2026",
+          "en": "Lalalib 2026",
+          "fr": "Lalalib 2026"
+        },
+        "summary": {
+          "de": "Das kostenlose Open-Air-Startkonzert der Stadt Dijon bespielt Place de la Libération und Place du Théâtre mit zwei Bühnen und zehn Konzerten.",
+          "hu": "Dijon város ingyenes tanévnyitó szabadtéri koncertje a Place de la Libérationon és a Place du Théâtre-en két színpaddal és tíz koncerttel várja a közönséget.",
+          "ro": "Concertul gratuit de rentrée al orașului Dijon animă Place de la Libération și Place du Théâtre cu două scene și zece concerte.",
+          "en": "Dijon's free back-to-season open-air concert takes over Place de la Libération and Place du Théâtre with two stages and ten concerts.",
+          "fr": "Le concert de rentrée gratuit de la Ville de Dijon investit la place de la Libération et la place du Théâtre avec deux scènes et dix concerts."
+        },
+        "source_url": "https://lalalib.dijon.fr/rendez-vous-le-vendredi-4-septembre-2026-a-partir-de-18h/"
+      },
+      {
+        "date": "2026-09-24",
+        "title": {
+          "de": "MANIA, THE ABBA TRIBUTE",
+          "hu": "MANIA, THE ABBA TRIBUTE",
+          "ro": "MANIA, THE ABBA TRIBUTE",
+          "en": "MANIA, THE ABBA TRIBUTE",
+          "fr": "MANIA, THE ABBA TRIBUTE"
+        },
+        "summary": {
+          "de": "Die international tourende ABBA-Tribute-Produktion gastiert am Abend im Zénith de Dijon.",
+          "hu": "A nemzetközileg turnézó ABBA-tribute produkció esti előadást tart a Zénith de Dijonban.",
+          "ro": "Producția tribut ABBA aflată în turneu internațional ajunge seara la Zénith de Dijon.",
+          "en": "The internationally touring ABBA tribute production comes to Zénith de Dijon for an evening show.",
+          "fr": "La production hommage à ABBA en tournée internationale fait étape au Zénith de Dijon pour une représentation en soirée."
+        },
+        "source_url": "https://www.zenith-dijon.fr/evenement/mania-the-abba-tribute/"
+      },
+      {
+        "date": "2026-10-31",
+        "title": {
+          "de": "Foire internationale et gastronomique de Dijon",
+          "hu": "Dijoni Nemzetközi és Gasztronómiai Vásár",
+          "ro": "Târgul Internațional și Gastronomic din Dijon",
+          "en": "Dijon International and Gastronomic Fair",
+          "fr": "Foire internationale et gastronomique de Dijon"
+        },
+        "summary": {
+          "de": "Die 96. Ausgabe der großen Messe im Parc des Expositions läuft vom 31. Oktober bis 11. November 2026 mit Ausstellern, Kulinarik und Abendöffnungen.",
+          "hu": "A Parc des Expositions területén rendezett 96. vásár 2026. október 31. és november 11. között várja a látogatókat kiállítókkal, gasztronómiával és esti nyitvatartással.",
+          "ro": "A 96-a ediție a marelui târg de la Parc des Expositions are loc între 31 octombrie și 11 noiembrie 2026, cu expozanți, gastronomie și program prelungit seara.",
+          "en": "The 96th edition of the major fair at the Parc des Expositions runs from 31 October to 11 November 2026, with exhibitors, gastronomy and late openings.",
+          "fr": "La 96e édition de la grande foire du Parc des Expositions se tient du 31 octobre au 11 novembre 2026, avec exposants, gastronomie et nocturnes."
+        },
+        "source_url": "https://www.foirededijon.com/infos-pratiques"
+      }
+    ]
+  }
+]

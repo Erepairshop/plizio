@@ -1,0 +1,365 @@
+[
+  {
+    "id": "perpignan",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Têt en Fête 2026",
+          "hu": "Têt en Fête 2026",
+          "ro": "Têt en Fête 2026",
+          "en": "Têt en Fête 2026",
+          "fr": "Têt en Fête 2026"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm am Fluss Têt läuft vom 1. bis 16. August 2026 mit Kultur-, Freizeit- und Familienangeboten in Perpignan.",
+          "hu": "A Têt folyó körüli nyári programsorozat 2026. augusztus 1. és 16. között kulturális, szabadidős és családi programokat kínál Perpignanban.",
+          "ro": "Programul estival de pe malul râului Têt are loc între 1 și 16 august 2026 și reunește activități culturale, de agrement și pentru familii la Perpignan.",
+          "en": "This summer program along the Têt runs from August 1 to 16, 2026, with cultural, leisure and family activities in Perpignan.",
+          "fr": "Ce programme estival au bord de la Têt se déroule du 1er au 16 août 2026 avec des animations culturelles, de loisirs et familiales à Perpignan."
+        },
+        "source_url": "https://www.perpignantourisme.com/agenda/tet-en-fete-2/"
+      },
+      {
+        "date": "2026-08-03",
+        "title": {
+          "de": "Les Lundis Sardanes",
+          "hu": "Les Lundis Sardanes",
+          "ro": "Les Lundis Sardanes",
+          "en": "Les Lundis Sardanes",
+          "fr": "Les Lundis Sardanes"
+        },
+        "summary": {
+          "de": "Von 3. August bis 7. September 2026 spielen Coblas aus dem Département montags auf der Place Léon Gambetta traditionelle Sardana-Musik.",
+          "hu": "2026. augusztus 3. és szeptember 7. között a megye cobla együttesei hétfő esténként hagyományos sardana zenét játszanak a Place Léon Gambettán.",
+          "ro": "Între 3 august și 7 septembrie 2026, coblele din departament interpretează muzică tradițională sardana în fiecare luni în Place Léon Gambetta.",
+          "en": "From August 3 to September 7, 2026, cobla bands from the department perform traditional sardana music on Place Léon Gambetta each Monday.",
+          "fr": "Du 3 août au 7 septembre 2026, les cobles du département jouent des sardanes chaque lundi place Léon Gambetta."
+        },
+        "source_url": "https://www.perpignantourisme.com/agenda/les-lundis-sardanes-place-leon-gambetta/"
+      },
+      {
+        "date": "2026-08-10",
+        "title": {
+          "de": "24. Internationales Glockenspiel-Festival von Perpignan",
+          "hu": "Perpignan 24. Nemzetközi Harangjáték Fesztiválja",
+          "ro": "Al 24-lea Festival Internațional de Carillon din Perpignan",
+          "en": "24th International Carillon Festival of Perpignan",
+          "fr": "24e Festival international de carillon de Perpignan"
+        },
+        "summary": {
+          "de": "Die 24. Ausgabe des Carillon-Festivals findet vom 10. bis 14. August 2026 statt und ehrt unter dem Motto \"Hommage aux Artisans du Temps\" das Handwerk der Zeitmessung.",
+          "hu": "A harangjáték-fesztivál 24. kiadása 2026. augusztus 10. és 14. között zajlik, és a \"Hommage aux Artisans du Temps\" témával az idő mestereit ünnepli.",
+          "ro": "Cea de-a 24-a ediție a festivalului de carillon are loc între 10 și 14 august 2026, sub tema \"Hommage aux Artisans du Temps\".",
+          "en": "The 24th edition of the carillon festival runs from August 10 to 14, 2026, under the theme \"Hommage aux Artisans du Temps.\"",
+          "fr": "La 24e édition du festival de carillon se déroule du 10 au 14 août 2026 autour du thème « Hommage aux Artisans du Temps »."
+        },
+        "source_url": "https://www.perpignantourisme.com/agenda/24%E1%B5%89-festival-international-de-carillon-de-perpignan/"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "Festival Objectif Image Pays Catalan - Association OFF",
+          "hu": "Objectif Image Pays Catalan Fesztivál - Association OFF",
+          "ro": "Festivalul Objectif Image Pays Catalan - Association OFF",
+          "en": "Objectif Image Pays Catalan Festival - Association OFF",
+          "fr": "Festival Objectif Image Pays Catalan - Association OFF"
+        },
+        "summary": {
+          "de": "Die 32. Ausgabe dieses Fotofestivals läuft vom 29. August bis 12. September 2026 und präsentiert Arbeiten der OFF Association in Perpignan.",
+          "hu": "A fotófesztiál 32. kiadása 2026. augusztus 29. és szeptember 12. között zajlik, az OFF Association programjával Perpignanban.",
+          "ro": "Cea de-a 32-a ediție a acestui festival de fotografie are loc între 29 august și 12 septembrie 2026 și prezintă programul Association OFF la Perpignan.",
+          "en": "The 32nd edition of this photography festival runs from August 29 to September 12, 2026, with the OFF Association's program in Perpignan.",
+          "fr": "La 32e édition de ce festival photo se tient du 29 août au 12 septembre 2026 avec la programmation de l'Association OFF à Perpignan."
+        },
+        "source_url": "https://www.perpignantourisme.com/agenda/festival-objectif-image-pays-catalan-association-off/"
+      }
+    ]
+  },
+  {
+    "id": "spain-dos-hermanas-cities-v2",
+    "events": [
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Konzert von Celtas Cortos",
+          "hu": "Celtas Cortos koncert",
+          "ro": "Concert Celtas Cortos",
+          "en": "Celtas Cortos Concert"
+        },
+        "summary": {
+          "de": "Celtas Cortos spielen am 5. September 2026 um 22:00 Uhr im Auditorio Municipal Los del Río im Park La Alquería del Pilar; der Eintritt erfolgt per Einladung.",
+          "hu": "A Celtas Cortos 2026. szeptember 5-én 22:00-kor lép fel a Los del Río önkormányzati auditóriumban, a La Alquería del Pilar parkban; a belépés meghívóval történik.",
+          "ro": "Celtas Cortos concertează pe 5 septembrie 2026, la ora 22:00, la Auditorio Municipal Los del Río din parcul La Alquería del Pilar; accesul este pe bază de invitație.",
+          "en": "Celtas Cortos performs on September 5, 2026 at 22:00 in the Auditorio Municipal Los del Río in La Alquería del Pilar park, with invitation-only admission."
+        },
+        "source_url": "https://www.doshermanas.es/concejalias/cultura-y-fiestas/cultura/fotos-instalaciones-de-cultura/actividades/Concierto-Celtas-Cortos/"
+      },
+      {
+        "date": "2026-10-18",
+        "title": {
+          "de": "Romería de Valme",
+          "hu": "Romería de Valme",
+          "ro": "Romería de Valme",
+          "en": "Romería de Valme"
+        },
+        "summary": {
+          "de": "Die traditionsreiche Wallfahrt zu Ehren der Virgen de Valme findet in Dos Hermanas jeweils am dritten Sonntag im Oktober statt und gehört zu den wichtigsten Festen der Stadt.",
+          "hu": "A Virgen de Valme tiszteletére rendezett hagyományos zarándoklatot Dos Hermanas városában minden évben október harmadik vasárnapján tartják, és ez a város egyik legfontosabb ünnepe.",
+          "ro": "Pelerinajul tradițional în cinstea Fecioarei de Valme are loc la Dos Hermanas în fiecare a treia duminică din octombrie și este una dintre cele mai importante sărbători ale orașului.",
+          "en": "This traditional pilgrimage honoring the Virgen de Valme takes place in Dos Hermanas on the third Sunday in October and is one of the city's main celebrations."
+        },
+        "source_url": "https://turismodoshermanas.com/event/romeria-de-valme-2025-dos-hermanas/"
+      },
+      {
+        "date": "2026-11-20",
+        "title": {
+          "de": "Winter-Rennsaison im Gran Hipódromo de Andalucía",
+          "hu": "Téli versenyszezon a Gran Hipódromo de Andalucía pályán",
+          "ro": "Sezonul de iarnă al curselor la Gran Hipódromo de Andalucía",
+          "en": "Winter Horseracing Season at the Gran Hipódromo de Andalucía"
+        },
+        "summary": {
+          "de": "Das Gran Hipódromo de Andalucía richtet seine Herbst-Winter-Rennsaison in Dos Hermanas als Teil des professionellen SELAE-Zirkels mit mehreren Renntagen aus.",
+          "hu": "A Gran Hipódromo de Andalucía ősz-téli versenyszezonja több futamnappal tér vissza Dos Hermanasba, a SELAE profi versenysorozat részeként.",
+          "ro": "Gran Hipódromo de Andalucía găzduiește sezonul hipic de toamnă-iarnă la Dos Hermanas, cu mai multe reuniuni incluse în circuitul profesionist SELAE.",
+          "en": "The Gran Hipódromo de Andalucía hosts its autumn-winter racing season in Dos Hermanas, with multiple race days in the professional SELAE circuit."
+        },
+        "source_url": "https://turismodoshermanas.com/en/event/horseracing-2025-2026-gran-hipodromo-de-andalucia/"
+      }
+    ]
+  },
+  {
+    "id": "recklinghausen-extra",
+    "events": [
+      {
+        "date": "2026-08-05",
+        "title": {
+          "de": "Kultursommer Recklinghausen",
+          "hu": "Recklinghausen Kulturális Nyár",
+          "ro": "Vara culturală din Recklinghausen",
+          "en": "Recklinghausen Summer of Culture"
+        },
+        "summary": {
+          "de": "Der Kultursommer bringt von Juni bis August 2026 Open-Air-Konzerte, Tanz und Freiluftkino an mehrere Orte in Recklinghausen; im August stehen weitere Termine an.",
+          "hu": "A Kulturális Nyár 2026 júniusa és augusztusa között szabadtéri koncerteket, táncprogramokat és szabadtéri mozit visz Recklinghausen több helyszínére; augusztusban is folytatódik a program.",
+          "ro": "Vara culturală aduce între iunie și august 2026 concerte în aer liber, dans și cinema open-air în mai multe locuri din Recklinghausen; programul continuă și în august.",
+          "en": "The Summer of Culture brings open-air concerts, dance and open-air cinema to several venues in Recklinghausen from June through August 2026, with more dates in August."
+        },
+        "source_url": "https://recklinghausen-tourismus.de/en/veranstaltungen/"
+      },
+      {
+        "date": "2026-08-26",
+        "title": {
+          "de": "Zu Gast in Recklinghausen",
+          "hu": "Zu Gast in Recklinghausen",
+          "ro": "Zu Gast in Recklinghausen",
+          "en": "Zu Gast in Recklinghausen"
+        },
+        "summary": {
+          "de": "Das Gourmetfestival auf dem Rathausplatz läuft vom 26. bis 30. August 2026 und lädt zum Essen, Trinken und Genießen in der Innenstadt ein.",
+          "hu": "A városháza előtti téren rendezett gasztronómiai fesztivál 2026. augusztus 26. és 30. között várja a látogatókat ételekkel, italokkal és belvárosi hangulattal.",
+          "ro": "Festivalul gastronomic din Piața Primăriei are loc între 26 și 30 august 2026 și invită publicul să guste preparate și băuturi în centrul orașului.",
+          "en": "This gourmet festival on Town Hall Square runs from August 26 to 30, 2026 and invites visitors to eat, drink and enjoy the city center."
+        },
+        "source_url": "https://www.zu-gast-in-re.de/"
+      },
+      {
+        "date": "2026-09-04",
+        "title": {
+          "de": "Open-Air-Konzert der Neuen Philharmonie Westfalen",
+          "hu": "A Neue Philharmonie Westfalen szabadtéri koncertje",
+          "ro": "Concert open-air al Neue Philharmonie Westfalen",
+          "en": "Neue Philharmonie Westfalen Open-Air Concert"
+        },
+        "summary": {
+          "de": "Am 4. September 2026 spielt die Neue Philharmonie Westfalen um 19:30 Uhr ein kostenloses Open-Air-Konzert auf dem Rathausplatz.",
+          "hu": "2026. szeptember 4-én 19:30-kor a Neue Philharmonie Westfalen ingyenes szabadtéri koncertet ad a városháza terén.",
+          "ro": "Pe 4 septembrie 2026, la ora 19:30, Neue Philharmonie Westfalen susține un concert open-air gratuit în Piața Primăriei.",
+          "en": "On September 4, 2026 at 19:30, the Neue Philharmonie Westfalen gives a free open-air concert on Town Hall Square."
+        },
+        "source_url": "https://recklinghausen-tourismus.de/en/veranstaltungen/"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Sunset Picnic auf der Halde Hoheward",
+          "hu": "Sunset Picnic a Hoheward meddőhányón",
+          "ro": "Sunset Picnic pe Halde Hoheward",
+          "en": "Sunset Picnic at Halde Hoheward"
+        },
+        "summary": {
+          "de": "Am 5. September 2026 verbindet das kostenlose Sunset Picnic von 15:00 bis 23:00 Uhr Aussicht, elektronische Musik und Picknickstimmung auf der Halde Hoheward.",
+          "hu": "2026. szeptember 5-én a 15:00 és 23:00 között zajló ingyenes Sunset Picnic panorámát, elektronikus zenét és piknikhangulatot kínál a Hoheward meddőhányón.",
+          "ro": "Pe 5 septembrie 2026, între 15:00 și 23:00, evenimentul gratuit Sunset Picnic combină panorama, muzica electronică și atmosfera de picnic pe Halde Hoheward.",
+          "en": "On September 5, 2026, the free Sunset Picnic runs from 15:00 to 23:00, combining panoramic views, electronic music and picnic vibes on Halde Hoheward."
+        },
+        "source_url": "https://recklinghausen-tourismus.de/en/veranstaltungen/"
+      }
+    ]
+  },
+  {
+    "id": "siracusa",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Loud Garden Festival",
+          "hu": "Loud Garden Fesztivál",
+          "ro": "Festivalul Loud Garden",
+          "en": "Loud Garden Festival"
+        },
+        "summary": {
+          "de": "Das eintägige Musikfestival startet am 1. August 2026 um 19:00 Uhr im Garden House XXL in Siracusa und läuft bis in die Nacht.",
+          "hu": "Az egynapos zenei fesztivál 2026. augusztus 1-jén 19:00-kor kezdődik a siracusai Garden House XXL helyszínen, és éjszakába nyúlik.",
+          "ro": "Festivalul muzical de o zi începe pe 1 august 2026 la ora 19:00 la Garden House XXL din Siracusa și continuă până noaptea târziu.",
+          "en": "This one-day music festival starts on August 1, 2026 at 19:00 at Garden House XXL in Siracusa and runs late into the night."
+        },
+        "source_url": "https://www.ticketsms.it/it/event/Loud-Garden-Festival-Siracusa-Garden-House-Xxl-01-08-2026"
+      },
+      {
+        "date": "2026-08-14",
+        "title": {
+          "de": "Belle Cose XXL",
+          "hu": "Belle Cose XXL",
+          "ro": "Belle Cose XXL",
+          "en": "Belle Cose XXL"
+        },
+        "summary": {
+          "de": "Belle Cose XXL beginnt am 14. August 2026 um 20:00 Uhr im Garden House XXL in Siracusa und kombiniert Clubnacht und Sommerprogramm bis zum frühen Morgen.",
+          "hu": "A Belle Cose XXL 2026. augusztus 14-én 20:00-kor kezdődik a siracusai Garden House XXL helyszínen, és klubestet kínál nyári programmal hajnalig.",
+          "ro": "Belle Cose XXL începe pe 14 august 2026 la ora 20:00 la Garden House XXL din Siracusa și propune o noapte de club de vară până dimineața.",
+          "en": "Belle Cose XXL starts on August 14, 2026 at 20:00 at Garden House XXL in Siracusa, combining a summer club night with programming through the early morning."
+        },
+        "source_url": "https://www.ticketsms.it/it/event/Belle-Cose-Xxl-Siracusa-Garden-House-Xxl-14-08-2026"
+      },
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Garden House presents Ivan Smagghe",
+          "hu": "Garden House presents Ivan Smagghe",
+          "ro": "Garden House presents Ivan Smagghe",
+          "en": "Garden House presents Ivan Smagghe"
+        },
+        "summary": {
+          "de": "Die Veranstaltung mit Ivan Smagghe startet am 21. August 2026 um 21:30 Uhr im Garden House in Siracusa.",
+          "hu": "Az Ivan Smagghe-est 2026. augusztus 21-én 21:30-kor kezdődik a siracusai Garden House helyszínen.",
+          "ro": "Evenimentul cu Ivan Smagghe începe pe 21 august 2026 la ora 21:30 la Garden House din Siracusa.",
+          "en": "The Ivan Smagghe event begins on August 21, 2026 at 21:30 at Garden House in Siracusa."
+        },
+        "source_url": "https://www.ticketsms.it/en/event/Garden-House-Presents-Ivan-Smagghe-Siracusa-Garden-House-21-08-2026"
+      },
+      {
+        "date": "2026-09-04",
+        "title": {
+          "de": "Garden House presents Voodoos and Taboos",
+          "hu": "Garden House presents Voodoos and Taboos",
+          "ro": "Garden House presents Voodoos and Taboos",
+          "en": "Garden House presents Voodoos and Taboos"
+        },
+        "summary": {
+          "de": "Diese Clubveranstaltung im Garden House in Siracusa beginnt am 4. September 2026 um 21:30 Uhr.",
+          "hu": "Ez a siracusai Garden House klubesemény 2026. szeptember 4-én 21:30-kor kezdődik.",
+          "ro": "Acest eveniment de club de la Garden House din Siracusa începe pe 4 septembrie 2026 la ora 21:30.",
+          "en": "This club event at Garden House in Siracusa starts on September 4, 2026 at 21:30."
+        },
+        "source_url": "https://www.ticketsms.it/event/Garden-House-Presents-Voodoos-And-Taboos-Siracusa-Garden-House-04-09-2026"
+      }
+    ]
+  },
+  {
+    "id": "besancon",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Ausstellung \"Sur le vif\" - Fotografien von Marc Paygnard",
+          "hu": "\"Sur le vif\" - Marc Paygnard fotókiállítása",
+          "ro": "Expoziția \"Sur le vif\" - fotografii de Marc Paygnard",
+          "en": "\"On the Spot\" Exhibition - Photographs by Marc Paygnard",
+          "fr": "Exposition \"Sur le vif\" - photographies de Marc Paygnard"
+        },
+        "summary": {
+          "de": "Die verlängerte Ausstellung in der Zitadelle von Besançon läuft täglich bis 31. Oktober 2026 und zeigt Fotografien von Marc Paygnard.",
+          "hu": "A Besançon-i citadellában rendezett meghosszabbított kiállítás naponta látogatható 2026. október 31-ig, Marc Paygnard fotóival.",
+          "ro": "Expoziția prelungită de la Citadela din Besançon poate fi vizitată zilnic până la 31 octombrie 2026 și prezintă fotografii de Marc Paygnard.",
+          "en": "This extended exhibition at the Besançon Citadel runs daily until October 31, 2026 and features photographs by Marc Paygnard.",
+          "fr": "Cette exposition prolongée à la Citadelle de Besançon est visible tous les jours jusqu'au 31 octobre 2026 et présente des photographies de Marc Paygnard."
+        },
+        "source_url": "https://www.citadelle.com/en/agenda/exposition-marc-paygnard/"
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Escape Game - Die belagerte Zitadelle",
+          "hu": "Szabadulójáték - Az ostromlott citadella",
+          "ro": "Escape game - Cetatea asediată",
+          "en": "Escape Game - The Besieged Citadel",
+          "fr": "Escape game - Citadelle assiégée"
+        },
+        "summary": {
+          "de": "Das Escape Game in der Zitadelle läuft vom 4. April bis 25. September 2026 und ist ein Besucherformat innerhalb der Festungsanlage.",
+          "hu": "A citadellában zajló szabadulójáték 2026. április 4. és szeptember 25. között tart, és a látogatói program része az erőd területén.",
+          "ro": "Escape game-ul din Citadelă se desfășoară între 4 aprilie și 25 septembrie 2026 și face parte din oferta de vizitare a fortăreței.",
+          "en": "This escape game at the Citadel runs from April 4 to September 25, 2026 as part of the fortress visitor program.",
+          "fr": "Cet escape game à la Citadelle se déroule du 4 avril au 25 septembre 2026 dans le cadre de l'offre de visite du site."
+        },
+        "source_url": "https://www.citadelle.com/en/agenda/escape-game-citadelle-assiegee-2/"
+      },
+      {
+        "date": "2026-09-11",
+        "title": {
+          "de": "79. Internationales Musikfestival Besançon",
+          "hu": "79. Besançoni Nemzetközi Zenei Fesztivál",
+          "ro": "Al 79-lea Festival Internațional de Muzică din Besançon",
+          "en": "79th International Music Festival of Besançon",
+          "fr": "79e Festival international de musique de Besançon"
+        },
+        "summary": {
+          "de": "Das Festival läuft vom 11. bis 20. September 2026 und bietet mehr als 30 Konzerte in Besançon und Umgebung.",
+          "hu": "A fesztivál 2026. szeptember 11. és 20. között zajlik, több mint 30 koncerttel Besançonban és környékén.",
+          "ro": "Festivalul are loc între 11 și 20 septembrie 2026 și propune peste 30 de concerte la Besançon și în împrejurimi.",
+          "en": "The festival runs from September 11 to 20, 2026 and offers more than 30 concerts in Besançon and the surrounding area.",
+          "fr": "Le festival se tient du 11 au 20 septembre 2026 et propose plus de 30 concerts à Besançon et dans les environs."
+        },
+        "source_url": "https://festival-besancon.com/en/program/"
+      },
+      {
+        "date": "2026-09-16",
+        "title": {
+          "de": "Apéro-jazz Granvelle",
+          "hu": "Apéro-jazz Granvelle",
+          "ro": "Apéro-jazz Granvelle",
+          "en": "Apéro-jazz Granvelle",
+          "fr": "Apéro-jazz Granvelle"
+        },
+        "summary": {
+          "de": "Die Open-Air-Apéro-Jazz-Reihe findet vom 16. bis 19. September 2026 jeweils von 19:00 bis 20:30 Uhr statt und präsentiert regionale sowie weitere Künstler.",
+          "hu": "Az Apéro-jazz szabadtéri koncertsorozat 2026. szeptember 16. és 19. között naponta 19:00 és 20:30 között zajlik, regionális és további fellépőkkel.",
+          "ro": "Seria open-air Apéro-jazz are loc între 16 și 19 septembrie 2026, zilnic între 19:00 și 20:30, cu artiști regionali și invitați.",
+          "en": "This open-air apéro-jazz series runs from September 16 to 19, 2026, daily from 19:00 to 20:30, featuring regional and other artists.",
+          "fr": "Cette série de concerts en plein air se déroule du 16 au 19 septembre 2026, de 19 h à 20 h 30, avec des artistes régionaux et invités."
+        },
+        "source_url": "https://festival-besancon.com/en/program/"
+      },
+      {
+        "date": "2026-09-29",
+        "title": {
+          "de": "MICRONORA 2026",
+          "hu": "MICRONORA 2026",
+          "ro": "MICRONORA 2026",
+          "en": "MICRONORA 2026",
+          "fr": "MICRONORA 2026"
+        },
+        "summary": {
+          "de": "Die internationale Fachmesse für Mikrotechnik und Präzision findet vom 29. September bis 2. Oktober 2026 in Besançon statt.",
+          "hu": "A mikrotechnika és precíziós ipar nemzetközi szakvására 2026. szeptember 29. és október 2. között zajlik Besançonban.",
+          "ro": "Salonul internațional dedicat microtehnicilor și preciziei are loc între 29 septembrie și 2 octombrie 2026 la Besançon.",
+          "en": "This international trade fair for microtechnology and precision runs in Besançon from September 29 to October 2, 2026.",
+          "fr": "Ce salon international des microtechniques et de la précision se tient à Besançon du 29 septembre au 2 octobre 2026."
+        },
+        "source_url": "https://www.grandbesancondeveloppement.fr/agenda/micronora-2026/"
+      }
+    ]
+  }
+]

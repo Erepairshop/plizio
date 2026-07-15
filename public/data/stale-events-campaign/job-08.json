@@ -1,0 +1,437 @@
+[
+  {
+    "id": "poland-bialystok-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Irek Głyk Trio ft. Joaquin Sosa",
+          "hu": "Irek Głyk Trio ft. Joaquin Sosa",
+          "ro": "Irek Głyk Trio ft. Joaquin Sosa",
+          "en": "Irek Głyk Trio ft. Joaquin Sosa"
+        },
+        "summary": {
+          "de": "Das kostenlose Sommerkonzert im Italienischen Pavillon des Branicki-Palasts bringt ein Jazzprogramm in eine historische Gartenkulisse.",
+          "hu": "Az ingyenes nyári koncert a Branicki-palota Olasz Pavilonjában jazzprogramot visz egy történelmi kerti helyszínre.",
+          "ro": "Concertul gratuit de vară din Pavilionul Italian al Palatului Branicki aduce un program de jazz într-un cadru istoric de grădină.",
+          "en": "This free summer concert at the Italian Pavilion of Branicki Palace brings a jazz programme to a historic garden setting."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://bok.bialystok.pl/wydarzenie/akcja-lato-2026/"
+      },
+      {
+        "title": {
+          "de": "Truck Show Podlasie 2026",
+          "hu": "Truck Show Podlasie 2026",
+          "ro": "Truck Show Podlasie 2026",
+          "en": "Truck Show Podlasie 2026"
+        },
+        "summary": {
+          "de": "Das mehrtägige Lkw-Treffen am Stadion Miejski versammelt Showtrucks, Transportfirmen und Tausende Besucherinnen und Besucher aus ganz Polen.",
+          "hu": "A többnapos kamionos találkozó a Stadion Miejski mellett show kamionokat, fuvarozó cégeket és több ezer látogatót vonz egész Lengyelországból.",
+          "ro": "Întâlnirea de mai multe zile de la Stadionul Municipal reunește camioane de show, companii de transport și mii de vizitatori din toată Polonia.",
+          "en": "The multi-day truck gathering at the Municipal Stadium brings together show trucks, transport companies and thousands of visitors from across Poland."
+        },
+        "date": "2026-07-31",
+        "source_url": "https://truckfinder.pl/artykul/9-truck-show-bialystok"
+      },
+      {
+        "title": {
+          "de": "Czereśnie",
+          "hu": "Czereśnie",
+          "ro": "Czereśnie",
+          "en": "Czereśnie"
+        },
+        "summary": {
+          "de": "Das generationenübergreifende Konzert auf dem Platz vor dem Białystok Culture Center richtet sich an Familien und verbindet Kinderlieder mit Live-Band-Atmosphäre.",
+          "hu": "A Białystoki Kulturális Központ előtti téren tartott intergenerációs koncert családoknak szól, és a gyerekdalokat élő zenekari hangulattal ötvözi.",
+          "ro": "Concertul intergenerațional din fața Centrului Cultural Białystok este gândit pentru familii și combină cântece pentru copii cu atmosfera unei trupe live.",
+          "en": "This intergenerational concert outside the Białystok Culture Center is aimed at families and combines children's songs with a live-band atmosphere."
+        },
+        "date": "2026-08-07",
+        "source_url": "https://bok.bialystok.pl/wydarzenie/akcja-lato-2026/"
+      },
+      {
+        "title": {
+          "de": "Białystok Pamięta!",
+          "hu": "Białystok Pamięta!",
+          "ro": "Białystok Pamięta!",
+          "en": "Białystok Remembers!"
+        },
+        "summary": {
+          "de": "Die stadtweite Gedenkaktion erinnert mit offenen Programmpunkten an den 83. Jahrestag des Aufstands im Ghetto von Białystok.",
+          "hu": "A városszerte szervezett megemlékezés nyilvános programokkal idézi fel a białystoki gettófelkelés 83. évfordulóját.",
+          "ro": "Acțiunea comemorativă desfășurată în tot orașul marchează prin programe publice 83 de ani de la revolta din ghetoul din Białystok.",
+          "en": "This citywide commemorative programme marks the 83rd anniversary of the Białystok Ghetto Uprising with public events."
+        },
+        "date": "2026-08-16",
+        "source_url": "https://bok.bialystok.pl/wydarzenie/akcja-lato-2026/"
+      },
+      {
+        "title": {
+          "de": "João de Sousa & Paweł Szamburski: Pieśni Morza",
+          "hu": "João de Sousa & Paweł Szamburski: Pieśni Morza",
+          "ro": "João de Sousa & Paweł Szamburski: Pieśni Morza",
+          "en": "João de Sousa & Paweł Szamburski: Pieśni Morza"
+        },
+        "summary": {
+          "de": "Das kostenlose Konzert am Saisonende von Akcja Lato bringt portugiesisch-polnische Klangwelten in den Italienischen Pavillon beim Branicki-Palast.",
+          "hu": "Az Akcja Lato záró ingyenes koncertje portugál és lengyel zenei világokat hoz a Branicki-palota Olasz Pavilonjába.",
+          "ro": "Concertul gratuit de final de sezon al Akcja Lato aduce sonorități portugheze și poloneze în Pavilionul Italian de la Palatul Branicki.",
+          "en": "The free closing-season concert of Akcja Lato brings Portuguese and Polish musical worlds to the Italian Pavilion at Branicki Palace."
+        },
+        "date": "2026-09-06",
+        "source_url": "https://bok.bialystok.pl/wydarzenie/akcja-lato-2026/"
+      }
+    ]
+  },
+  {
+    "id": "strasbourg",
+    "events": [
+      {
+        "title": {
+          "de": "Visites de l'Opéra de Strasbourg",
+          "hu": "A Strasbourgi Opera látogatásai",
+          "ro": "Vizite la Opera din Strasbourg",
+          "en": "Tours of the Strasbourg Opera",
+          "fr": "Visites de l'Opéra de Strasbourg"
+        },
+        "summary": {
+          "de": "Die geführten Besuche öffnen das Opernhaus Ende August für Besucherinnen und Besucher, die Bühne, Säle und Architektur entdecken möchten.",
+          "hu": "A vezetett látogatások augusztus végén megnyitják az operaházat azok előtt, akik szeretnék felfedezni a színpadot, a termeket és az építészetet.",
+          "ro": "Vizitele ghidate deschid Opera la sfârșit de august pentru cei care vor să descopere scena, sălile și arhitectura clădirii.",
+          "en": "These guided visits open the opera house in late August for visitors wanting to discover the stage, halls and architecture.",
+          "fr": "Ces visites guidées ouvrent l'opéra fin août aux visiteurs qui souhaitent découvrir la scène, les salles et l'architecture."
+        },
+        "date": "2026-08-22",
+        "source_url": "https://www.visitstrasbourg.fr/en/things-to-see-and-do/going-out/calendar/"
+      },
+      {
+        "title": {
+          "de": "Stras'Orgues",
+          "hu": "Stras'Orgues",
+          "ro": "Stras'Orgues",
+          "en": "Stras'Orgues",
+          "fr": "Stras'Orgues"
+        },
+        "summary": {
+          "de": "Das Orgelfestival bringt Ende August Konzerte rund um eines der prägenden Instrumente der Straßburger Kirchen- und Musikkultur.",
+          "hu": "Az orgonafesztivál augusztus végén koncertekkel ünnepli Strasbourg templomi és zenei kultúrájának egyik meghatározó hangszerét.",
+          "ro": "Festivalul de orgă aduce la sfârșit de august concerte dedicate unuia dintre instrumentele definitorii ale culturii muzicale și religioase din Strasbourg.",
+          "en": "The organ festival brings late-August concerts centred on one of the defining instruments of Strasbourg's church and music culture.",
+          "fr": "Le festival d'orgue propose fin août des concerts autour de l'un des instruments emblématiques de la culture musicale et religieuse de Strasbourg."
+        },
+        "date": "2026-08-22",
+        "source_url": "https://www.visitstrasbourg.fr/en/things-to-see-and-do/going-out/calendar/"
+      },
+      {
+        "title": {
+          "de": "Hirsebreifahrt",
+          "hu": "Hirsebreifahrt",
+          "ro": "Hirsebreifahrt",
+          "en": "Hirsebreifahrt",
+          "fr": "Hirsebreifahrt"
+        },
+        "summary": {
+          "de": "Das Flussereignis am Rhein feiert historische Verbindungen der Region und ist ein ungewöhnlicher Sommertermin für Besucherinnen und Besucher.",
+          "hu": "A Rajnához kötődő folyami esemény a térség történelmi kapcsolatait ünnepli, és különleges nyár végi program a látogatóknak.",
+          "ro": "Evenimentul fluvial de pe Rin celebrează legăturile istorice ale regiunii și oferă o experiență aparte de sfârșit de vară pentru vizitatori.",
+          "en": "This river event on the Rhine celebrates the region's historic links and offers visitors an unusual late-summer experience.",
+          "fr": "Cet événement fluvial sur le Rhin célèbre les liens historiques de la région et offre aux visiteurs une expérience originale de fin d'été."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://www.visitstrasbourg.fr/en/things-to-see-and-do/going-out/calendar/"
+      },
+      {
+        "title": {
+          "de": "FARSe - Street Arts Festival",
+          "hu": "FARSe utcai művészeti fesztivál",
+          "ro": "Festivalul de arte stradale FARSe",
+          "en": "FARSe - Street Arts Festival",
+          "fr": "FARSe - festival des arts de la rue"
+        },
+        "summary": {
+          "de": "Das Straßenkunstfestival verwandelt zentrale Orte in Straßburg Anfang September mit Aufführungen und offenen Formaten im öffentlichen Raum.",
+          "hu": "Az utcai művészeti fesztivál szeptember elején előadásokkal és nyitott köztéri programokkal alakítja át Strasbourg központi helyszíneit.",
+          "ro": "Festivalul de arte stradale transformă la început de septembrie locurile centrale din Strasbourg prin spectacole și formate deschise în spațiul public.",
+          "en": "The street arts festival transforms central Strasbourg in early September with performances and open-air formats in public spaces.",
+          "fr": "Le festival des arts de la rue transforme le centre de Strasbourg début septembre avec des spectacles et des formats ouverts dans l'espace public."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://www.visitstrasbourg.fr/en/things-to-see-and-do/going-out/calendar/"
+      },
+      {
+        "title": {
+          "de": "Musica - Festival für zeitgenössische Musik",
+          "hu": "Musica kortárs zenei fesztivál",
+          "ro": "Festivalul Musica de muzică contemporană",
+          "en": "Musica - Contemporary Music Festival",
+          "fr": "Musica - festival de musique contemporaine"
+        },
+        "summary": {
+          "de": "Musica bringt ab Mitte September zeitgenössische Musik und Klangkunst in verschiedene Veranstaltungsorte der Stadt.",
+          "hu": "A Musica szeptember közepétől kortárs zenét és hangművészetet visz a város több helyszínére.",
+          "ro": "Musica aduce din a doua jumătate a lunii septembrie muzică contemporană și artă sonoră în mai multe spații din oraș.",
+          "en": "From mid-September, Musica brings contemporary music and sound art to venues across the city.",
+          "fr": "À partir de la mi-septembre, Musica fait découvrir la musique contemporaine et l'art sonore dans plusieurs lieux de la ville."
+        },
+        "date": "2026-09-18",
+        "source_url": "https://www.visitstrasbourg.fr/en/things-to-see-and-do/going-out/calendar/"
+      }
+    ]
+  },
+  {
+    "id": "spain-vigo-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Noites de Zarzuela in Castrelos",
+          "hu": "Noites de Zarzuela Castrelosban",
+          "ro": "Noites de Zarzuela la Castrelos",
+          "en": "Noites de Zarzuela at Castrelos"
+        },
+        "summary": {
+          "de": "Die Freiluftsaison im Castrelos-Auditorium setzt Anfang August mit einer Zarzuela-Nacht im Stadtpark fort.",
+          "hu": "A Castrelos szabadtéri auditorium nyári szezonja augusztus elején egy zarzuela-esttel folytatódik a városi parkban.",
+          "ro": "Sezonul în aer liber de la auditorul Castrelos continuă la început de august cu o seară de zarzuela în parcul orașului.",
+          "en": "The open-air season at the Castrelos auditorium continues in early August with a zarzuela night in the city park."
+        },
+        "date": "2026-08-01",
+        "source_url": "https://www.turismodevigo.org/es/actualidad/un-concierto-al-aire-libre-en-castrelos"
+      },
+      {
+        "title": {
+          "de": "Gran Final del X Concurso Internacional de Piano \"Ciudad de Vigo\"",
+          "hu": "A \"Ciudad de Vigo\" X. Nemzetközi Zongoraverseny döntője",
+          "ro": "Marea finală a celui de-al X-lea Concurs Internațional de Pian \"Ciudad de Vigo\"",
+          "en": "Grand Final of the 10th International Piano Competition \"Ciudad de Vigo\""
+        },
+        "summary": {
+          "de": "Das Auditorio Mar de Vigo empfängt im August das Finalkonzert des internationalen Klavierwettbewerbs der Stadt.",
+          "hu": "Az Auditorio Mar de Vigo augusztusban a város nemzetközi zongoraversenyének döntőjét fogadja.",
+          "ro": "Auditorio Mar de Vigo găzduiește în august concertul final al concursului internațional de pian al orașului.",
+          "en": "In August, Auditorio Mar de Vigo hosts the final concert of the city's international piano competition."
+        },
+        "date": "2026-08-14",
+        "source_url": "https://auditoriomardevigo.com/programacion-conciertos-vigo-entradas/"
+      },
+      {
+        "title": {
+          "de": "CantaJuego: Yo Quiero Ser",
+          "hu": "CantaJuego: Yo Quiero Ser",
+          "ro": "CantaJuego: Yo Quiero Ser",
+          "en": "CantaJuego: Yo Quiero Ser"
+        },
+        "summary": {
+          "de": "Die Familienproduktion bringt Anfang Oktober Musik, Mitmachmomente und Bühnenfiguren ins Auditorio Mar de Vigo.",
+          "hu": "A családi produkció október elején zenét, interaktív pillanatokat és színpadi karaktereket visz a Mar de Vigo auditorumba.",
+          "ro": "Producția pentru familii aduce la început de octombrie muzică, momente interactive și personaje de scenă la Auditorio Mar de Vigo.",
+          "en": "This family show brings music, audience participation and stage characters to Auditorio Mar de Vigo in early October."
+        },
+        "date": "2026-10-03",
+        "source_url": "https://auditoriomardevigo.com/programacion-conciertos-vigo-entradas/"
+      },
+      {
+        "title": {
+          "de": "Vigo Dance Festival",
+          "hu": "Vigo Dance Festival",
+          "ro": "Vigo Dance Festival",
+          "en": "Vigo Dance Festival"
+        },
+        "summary": {
+          "de": "Das zweitägige Tanzereignis im Auditorio Mar de Vigo bündelt Anfang November Bühnenprogramme rund um Tanz und Performance.",
+          "hu": "A kétnapos táncesemény a Mar de Vigo auditorumban november elején színpadi programokat kínál a tánc és a performance körül.",
+          "ro": "Evenimentul de dans de două zile de la Auditorio Mar de Vigo reunește la început de noiembrie programe scenice dedicate dansului și performance-ului.",
+          "en": "This two-day dance event at Auditorio Mar de Vigo brings together stage programmes focused on dance and performance in early November."
+        },
+        "date": "2026-11-07",
+        "source_url": "https://auditoriomardevigo.com/programacion-conciertos-vigo-entradas/"
+      },
+      {
+        "title": {
+          "de": "MALÚ - Quince Tour",
+          "hu": "MALÚ - Quince Tour",
+          "ro": "MALÚ - Quince Tour",
+          "en": "MALÚ - Quince Tour"
+        },
+        "summary": {
+          "de": "Die spanische Pop-Sängerin gastiert Ende November im Auditorio Mar de Vigo mit ihrer aktuellen Arena-Produktion.",
+          "hu": "A spanyol popsztár november végén az aktuális arénaprodukciójával lép fel az Auditorio Mar de Vigóban.",
+          "ro": "Cântăreața spaniolă de pop ajunge la final de noiembrie la Auditorio Mar de Vigo cu producția sa actuală de tip arenă.",
+          "en": "The Spanish pop singer visits Auditorio Mar de Vigo in late November with her current arena-scale production."
+        },
+        "date": "2026-11-21",
+        "source_url": "https://auditoriomardevigo.com/programacion-conciertos-vigo-entradas/"
+      }
+    ]
+  },
+  {
+    "id": "poland-katowice-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "OFF Festival Katowice 2026",
+          "hu": "OFF Festival Katowice 2026",
+          "ro": "OFF Festival Katowice 2026",
+          "en": "OFF Festival Katowice 2026"
+        },
+        "summary": {
+          "de": "Das große Alternative-Festival im Dolina Trzech Stawów bringt Anfang August internationale Gitarren-, Elektronik- und Indie-Acts nach Katowice.",
+          "hu": "A Dolina Trzech Stawów területén zajló nagy alternatív fesztivál augusztus elején nemzetközi gitár-, elektronikus és indie-előadókat hoz Katowicébe.",
+          "ro": "Marele festival alternativ din Dolina Trzech Stawów aduce la început de august la Katowice artiști internaționali de chitară, electronic și indie.",
+          "en": "The major alternative festival in Dolina Trzech Stawów brings international guitar, electronic and indie acts to Katowice in early August."
+        },
+        "date": "2026-08-07",
+        "source_url": "https://off-festival.pl/en/"
+      },
+      {
+        "title": {
+          "de": "44. Rawa Blues Festival",
+          "hu": "44. Rawa Blues Festival",
+          "ro": "Al 44-lea Rawa Blues Festival",
+          "en": "44th Rawa Blues Festival"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Bluesfestival lädt Anfang Oktober in die Konzerthalle des Nationalen Symphonieorchesters des Polnischen Rundfunks ein.",
+          "hu": "A hagyományos bluesfesztivál október elején a Lengyel Rádió Nemzeti Szimfonikus Zenekarának koncerttermébe várja a közönséget.",
+          "ro": "Festivalul tradițional de blues invită publicul la început de octombrie în sala de concerte a Orchestrei Simfonice Naționale a Radioului Polonez.",
+          "en": "This long-running blues festival welcomes audiences in early October to the concert hall of the Polish National Radio Symphony Orchestra."
+        },
+        "date": "2026-10-03",
+        "source_url": "https://bilety.miasto-ogrodow.eu/?lang=en"
+      },
+      {
+        "title": {
+          "de": "ESL Pro League Final",
+          "hu": "ESL Pro League döntő",
+          "ro": "Finala ESL Pro League",
+          "en": "ESL Pro League Final"
+        },
+        "summary": {
+          "de": "Das Spodek wird im Oktober erneut zur großen Counter-Strike-Bühne, wenn Spitzenteams um den Titel der ESL Pro League spielen.",
+          "hu": "Októberben a Spodek ismét nagy Counter-Strike-helyszínné válik, amikor élcsapatok az ESL Pro League címéért játszanak.",
+          "ro": "În octombrie, Spodek devine din nou o mare scenă Counter-Strike, când echipe de top joacă pentru titlul ESL Pro League.",
+          "en": "In October, Spodek again becomes a major Counter-Strike stage as top teams play for the ESL Pro League title."
+        },
+        "date": "2026-10-09",
+        "source_url": "https://www.spodekkatowice.pl/pl/wydarzenia/esl-pro-legue-final%2C3868.html"
+      },
+      {
+        "title": {
+          "de": "The Harlem Globetrotters",
+          "hu": "The Harlem Globetrotters",
+          "ro": "The Harlem Globetrotters",
+          "en": "The Harlem Globetrotters"
+        },
+        "summary": {
+          "de": "Die Jubiläumstour zum 100-jährigen Bestehen bringt Trickwürfe, Show-Basketball und Familienunterhaltung in den Spodek.",
+          "hu": "A 100 éves jubileumi turné trükkdobásokat, show-kosárlabdát és családi szórakozást hoz a Spodekbe.",
+          "ro": "Turneul aniversar de 100 de ani aduce la Spodek aruncări spectaculoase, baschet-show și divertisment pentru familii.",
+          "en": "The 100-year anniversary tour brings trick shots, show basketball and family entertainment to Spodek."
+        },
+        "date": "2026-10-20",
+        "source_url": "https://www.spodekkatowice.pl/pl/wydarzenia/the-harlem-globetrotters%2C3776.html"
+      },
+      {
+        "title": {
+          "de": "Katowice Stand-up Festival 2026",
+          "hu": "Katowice Stand-up Festival 2026",
+          "ro": "Katowice Stand-up Festival 2026",
+          "en": "Katowice Stand-up Festival 2026"
+        },
+        "summary": {
+          "de": "Das Comedy-Festival versammelt Ende Oktober mehrere bekannte polnische Stand-up-Namen zu einem großen Abend im Spodek.",
+          "hu": "Az október végi comedy fesztivál több ismert lengyel stand-up előadót gyűjt össze egy nagy estére a Spodekben.",
+          "ro": "Festivalul de comedie de la final de octombrie reunește mai mulți cunoscuți artiști polonezi de stand-up pentru o mare seară la Spodek.",
+          "en": "The late-October comedy festival gathers several well-known Polish stand-up performers for a major evening at Spodek."
+        },
+        "date": "2026-10-31",
+        "source_url": "https://www.spodekkatowice.pl/pl/wydarzenia/katowice-stand-up-festival-2026%2C3846.html"
+      }
+    ]
+  },
+  {
+    "id": "city-cluj-napoca",
+    "events": [
+      {
+        "title": {
+          "de": "UNTOLD Festival 2026",
+          "hu": "UNTOLD Festival 2026",
+          "ro": "UNTOLD Festival 2026",
+          "en": "UNTOLD Festival 2026"
+        },
+        "summary": {
+          "de": "Das viertägige Großfestival verwandelt Cluj-Napoca Anfang August mit internationalen Headlinern und mehreren Bühnen in einen Musik-Hotspot.",
+          "hu": "A négynapos óriásfesztivál augusztus elején nemzetközi headlinerekkel és több színpaddal zenei központtá alakítja Kolozsvárt.",
+          "ro": "Festivalul de patru zile transformă Cluj-Napoca la început de august într-un centru muzical cu headlineri internaționali și mai multe scene.",
+          "en": "The four-day flagship festival turns Cluj-Napoca into a music hotspot in early August with international headliners and multiple stages."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://untold.com/"
+      },
+      {
+        "title": {
+          "de": "WonderPuck Street Festival 10",
+          "hu": "WonderPuck Street Festival 10",
+          "ro": "WonderPuck Street Festival 10",
+          "en": "WonderPuck Street Festival 10"
+        },
+        "summary": {
+          "de": "Das Straßenfestival für Familien und junges Publikum kehrt Anfang September nach Cluj-Napoca und Florești zurück.",
+          "hu": "A családoknak és fiatal közönségnek szóló utcaszínházi fesztivál szeptember elején tér vissza Kolozsvárra és Florești-be.",
+          "ro": "Festivalul stradal dedicat familiilor și publicului tânăr revine la început de septembrie în Cluj-Napoca și Florești.",
+          "en": "The street festival for families and young audiences returns to Cluj-Napoca and Florești in early September."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://teatrulpuck.ro/s-a-deschis-sesiunea-de-aplicatii-pentru-wonderpuck-10/"
+      },
+      {
+        "title": {
+          "de": "Jazz in the Park Competition 2026",
+          "hu": "Jazz in the Park Competition 2026",
+          "ro": "Jazz in the Park Competition 2026",
+          "en": "Jazz in the Park Competition 2026"
+        },
+        "summary": {
+          "de": "Der kostenlose Wettbewerb im Central Park bringt drei Tage lang junge internationale Jazzbands, Gastkonzerte und Food-Stände ins Stadtzentrum.",
+          "hu": "Az ingyenes verseny a Central Parkban három napon át fiatal nemzetközi jazzzenekarokat, vendégkoncerteket és street food kínálatot hoz a belvárosba.",
+          "ro": "Competiția gratuită din Parcul Central aduce timp de trei zile trupe internaționale tinere de jazz, concerte invitate și zone de food în centrul orașului.",
+          "en": "The free competition in Central Park brings three days of young international jazz bands, guest concerts and food stands to the city centre."
+        },
+        "date": "2026-09-18",
+        "source_url": "https://jazzinthepark.ro/en/jazz-in-the-park-competition/"
+      },
+      {
+        "title": {
+          "de": "Deep Purple",
+          "hu": "Deep Purple",
+          "ro": "Deep Purple",
+          "en": "Deep Purple"
+        },
+        "summary": {
+          "de": "Die britische Rockband spielt Anfang Oktober in der BT Arena in Cluj-Napoca, mit Jayler als Vorgruppe laut Ticketing-Seite.",
+          "hu": "A brit rockzenekar október elején lép fel a kolozsvári BT Arénában, a jegyoldal szerint Jayler nyitófellépésével.",
+          "ro": "Trupa britanică de rock concertează la început de octombrie la BT Arena din Cluj-Napoca, cu Jayler în deschidere potrivit paginii de ticketing.",
+          "en": "The British rock band performs at BT Arena in Cluj-Napoca in early October, with Jayler listed as the opening act on the ticket page."
+        },
+        "date": "2026-10-01",
+        "source_url": "https://www.eventim.ro/en/event/deep-purple-btarena-20965452/"
+      },
+      {
+        "title": {
+          "de": "Bryan Adams - Roll with the Punches",
+          "hu": "Bryan Adams - Roll with the Punches",
+          "ro": "Bryan Adams - Roll with the Punches",
+          "en": "Bryan Adams - Roll with the Punches"
+        },
+        "summary": {
+          "de": "Bryan Adams kehrt im Dezember mit seiner weltweiten Roll-with-the-Punches-Tour in die BT Arena zurück.",
+          "hu": "Bryan Adams decemberben a világkörüli Roll with the Punches turnéval tér vissza a BT Arénába.",
+          "ro": "Bryan Adams revine în decembrie la BT Arena cu turneul său mondial Roll with the Punches.",
+          "en": "Bryan Adams returns to BT Arena in December with his worldwide Roll with the Punches tour."
+        },
+        "date": "2026-12-17",
+        "source_url": "https://www.eventim.ro/event/bryan-adams-roll-with-the-punches-btarena-21391662/"
+      }
+    ]
+  }
+]

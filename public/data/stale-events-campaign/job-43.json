@@ -1,0 +1,438 @@
+[
+  {
+    "id": "czechrepublic-olomouc-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Večerní pohoda u Trojice",
+          "hu": "Esti kikapcsolódás a Trojicénél",
+          "ro": "Relaxare de seară la Trojice",
+          "en": "Evening Relaxation at Trojice"
+        },
+        "summary": {
+          "de": "Das sommerliche Open-Air-Musikfestival bringt an mehreren Freitagabenden Konzerte verschiedener Genres auf den Oberen Platz im historischen Zentrum von Olmütz.",
+          "hu": "A nyári szabadtéri zenei fesztivál több péntek estén át különböző műfajok koncertjeit viszi Olomouc történelmi főterére.",
+          "ro": "Festivalul muzical de vară în aer liber aduce, în mai multe seri de vineri, concerte din genuri diferite în piața principală istorică din Olomouc.",
+          "en": "The summer open-air music festival brings multi-genre concerts to Olomouc's historic Upper Square across several Friday evenings."
+        },
+        "date": "2026-07-31",
+        "source_url": "https://tourism.olomouc.eu/en/akce/vecerni-pohoda-u-trojice-13/"
+      },
+      {
+        "title": {
+          "de": "Internationales Militärmusikfestival",
+          "hu": "Nemzetközi katonazenekari fesztivál",
+          "ro": "Festivalul internațional al muzicilor militare",
+          "en": "International Military Music Festival"
+        },
+        "summary": {
+          "de": "Nach einer Pause kehrt das zweitägige Festival mit Militärkapellen aus Tschechien und dem Ausland, Platzprogramm und traditionellem Domkonzert nach Olmütz zurück.",
+          "hu": "A szünet után visszatér a kétnapos fesztivál cseh és külföldi katonazenekarokkal, főtéri programokkal és hagyományos székesegyházi koncerttel.",
+          "ro": "După o pauză, festivalul de două zile revine la Olomouc cu fanfare militare din Cehia și din străinătate, program în piață și concertul tradițional din catedrală.",
+          "en": "After a break, the two-day festival returns to Olomouc with military bands from the Czech Republic and abroad, square performances and the traditional cathedral concert."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://tourism.olomouc.eu/en/articles/what-can-you-experience-in-olomouc-this-year/"
+      },
+      {
+        "title": {
+          "de": "European Heritage Days",
+          "hu": "Európai Örökség Napok",
+          "ro": "Zilele Patrimoniului European",
+          "en": "European Heritage Days"
+        },
+        "summary": {
+          "de": "Die Themenwoche bietet Führungen, Spaziergänge, Abendvorführungen und geöffnete Denkmäler, darunter sonst oft nicht zugängliche Orte in der Stadt.",
+          "hu": "A programsorozat vezetett sétákat, esti előadásokat és megnyitott műemlékeket kínál, köztük olyan helyeket is, amelyek máskor nem látogathatók.",
+          "ro": "Săptămâna tematică include tururi ghidate, plimbări, reprezentații în aer liber și monumente deschise, inclusiv locuri de obicei inaccesibile publicului.",
+          "en": "The themed week offers guided tours, walks, open-air performances and access to monuments, including places that are often closed to the public."
+        },
+        "date": "2026-09-07",
+        "source_url": "https://tourism.olomouc.eu/en/articles/what-can-you-experience-in-olomouc-this-year/"
+      },
+      {
+        "title": {
+          "de": "Flora Olomouc – Hortikomplex",
+          "hu": "Flora Olomouc – Hortikomplex",
+          "ro": "Flora Olomouc – Hortikomplex",
+          "en": "Flora Olomouc – Hortikomplex"
+        },
+        "summary": {
+          "de": "Die Herbstausgabe der internationalen Gartenbau- und Blumenschau verbindet Herbstarrangements aus Obst und Gemüse mit dem Olima-Gastronomiefestival und Gartenmärkten.",
+          "hu": "A nemzetközi kertészeti és virágkiállítás őszi kiadása őszi terméskompozíciókat, az Olima gasztronómiai fesztivált és kertészeti vásárokat kapcsol össze.",
+          "ro": "Ediția de toamnă a expoziției horticole și florale internaționale combină aranjamente din fructe și legume de toamnă cu festivalul gastronomic Olima și piețe horticole.",
+          "en": "The autumn edition of the international horticultural and flower exhibition combines autumn produce displays with the Olima gastronomy festival and horticultural markets."
+        },
+        "date": "2026-10-08",
+        "source_url": "https://tourism.olomouc.eu/en/articles/what-can-you-experience-in-olomouc-this-year/"
+      },
+      {
+        "title": {
+          "de": "Weihnachten in Olmütz",
+          "hu": "Karácsony Olomoucban",
+          "ro": "Crăciunul la Olomouc",
+          "en": "Christmas in Olomouc"
+        },
+        "summary": {
+          "de": "Die Weihnachtszeit füllt den Oberen und Unteren Platz mit traditionellen Märkten, Kulturprogramm, öffentlichem Eislaufen und einem Riesenrad.",
+          "hu": "Az adventi időszak a felső és alsó főteret hagyományos vásárokkal, kulturális programokkal, nyilvános korcsolyázással és óriáskerékkel tölti meg.",
+          "ro": "Perioada de Crăciun umple piețele de sus și de jos cu târguri tradiționale, program cultural, patinaj public și roată panoramică.",
+          "en": "The Christmas season fills the Upper and Lower Squares with traditional markets, cultural programming, public skating and a Ferris wheel."
+        },
+        "date": "2026-11-22",
+        "source_url": "https://tourism.olomouc.eu/en/akce/olomoucke-vanoce-6/"
+      }
+    ]
+  },
+  {
+    "id": "city-flensburg-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Flensburger Hofkultur",
+          "hu": "Flensburger Hofkultur",
+          "ro": "Flensburger Hofkultur",
+          "en": "Flensburger Hofkultur"
+        },
+        "summary": {
+          "de": "Historische Kaufmanns- und Handwerkerhöfe werden mehrere Wochen lang zu offenen Bühnen für Musik, Kabarett, Theater und weitere Kulturformate.",
+          "hu": "A történelmi kereskedő- és iparosudvarok több héten át zenének, kabarénak, színháznak és más kulturális programoknak adnak helyet.",
+          "ro": "Curțile istorice ale negustorilor și meșteșugarilor devin timp de mai multe săptămâni scene deschise pentru muzică, cabaret, teatru și alte formate culturale.",
+          "en": "Historic merchants' and craftsmen's courtyards turn into open stages for music, cabaret, theatre and other cultural formats over several weeks."
+        },
+      "date": "2026-07-24",
+      "end_date": "2026-08-28",
+        "source_url": "https://www.flensburger-foerde.de/en/events/detail/flensburger-hofkultur"
+      },
+      {
+        "title": {
+          "de": "Drachenbootrennen",
+          "hu": "Sárkányhajó-verseny",
+          "ro": "Cursa de bărci dragon",
+          "en": "Dragon Boat Race"
+        },
+        "summary": {
+          "de": "Rund fünfzig Teams treten im Flensburger Hafen in traditionellen Drachenbooten gegeneinander an; dazu gibt es Live-Musik, Essensstände und Benefizcharakter.",
+          "hu": "Körülbelül ötven csapat versenyez hagyományos sárkányhajókban Flensburg kikötőjében, élő zenével, ételstandokkal és jótékonysági céllal.",
+          "ro": "Aproximativ cincizeci de echipe concurează în bărci dragon tradiționale în portul din Flensburg, cu muzică live, standuri culinare și scop caritabil.",
+          "en": "Around fifty teams compete in traditional dragon boats in Flensburg Harbour, with live music, food stalls and a charitable focus."
+        },
+        "date": "2026-08-22",
+        "source_url": "https://www.flensburger-foerde.de/en/events/detail/dragon-boat-race"
+      },
+      {
+        "title": {
+          "de": "Flensburg loves you Marathon",
+          "hu": "Flensburg loves you maraton",
+          "ro": "Maratonul Flensburg loves you",
+          "en": "Flensburg loves you Marathon"
+        },
+        "summary": {
+          "de": "Der Stadtlauf bietet Marathon-, Halbmarathon-, 10-km-, 5-km- und Kinderstrecken durch Zentrum, Hafen und Sonwik mit Ziel am Südermarkt.",
+          "hu": "A városi futóesemény maratoni, félmaratoni, 10 km-es, 5 km-es és gyerek távokat kínál a belvároson, a kikötőn és Sonwikon át, a cél a Südermarktnál van.",
+          "ro": "Evenimentul oferă maraton, semimaraton, curse de 10 km, 5 km și pentru copii pe trasee prin centru, port și Sonwik, cu sosirea la Südermarkt.",
+          "en": "The city running event offers marathon, half-marathon, 10 km, 5 km and children's distances through the centre, harbour and Sonwik, finishing at Südermarkt."
+        },
+        "date": "2026-09-06",
+        "source_url": "https://www.flensburger-foerde.de/en/events/detail/flensburg-loves-you-marathon"
+      },
+      {
+        "title": {
+          "de": "Apfelfahrt",
+          "hu": "Almahajók",
+          "ro": "Cursa merelor pe apă",
+          "en": "Apfelfahrt (Apple Ships)"
+        },
+        "summary": {
+          "de": "Historische Schiffe segeln nach Glücksburg, laden Äpfel und bringen sie in den Museumshafen, wo sie in maritimer Atmosphäre zugunsten des Hafenvereins verkauft werden.",
+          "hu": "Történelmi hajók vitorláznak Glücksburgba almáért, majd a múzeumkikötőbe hozzák a rakományt, ahol azt tengeri hangulatban, jótékony célra értékesítik.",
+          "ro": "Nave istorice merg la Glücksburg să încarce mere, apoi le aduc în portul muzeu, unde sunt vândute într-o atmosferă maritimă în sprijinul portului.",
+          "en": "Historic ships sail to Glücksburg to load apples and bring them to the museum harbour, where they are sold in a maritime atmosphere to support the harbour."
+        },
+        "date": "2026-10-16",
+        "source_url": "https://www.flensburger-foerde.de/en/events/detail/apfelfahrt-apple-ships"
+      },
+      {
+        "title": {
+          "de": "Flensburger Weihnachtsmarkt",
+          "hu": "Flensburgi karácsonyi vásár",
+          "ro": "Târgul de Crăciun din Flensburg",
+          "en": "Flensburg Christmas Market"
+        },
+        "summary": {
+          "de": "Die Altstadt verwandelt sich mit nordisch inspirierten Hütten, Handwerk, saisonalen Spezialitäten und festlicher Beleuchtung in ein adventliches Winterquartier.",
+          "hu": "Az óváros északi hangulatú faházakkal, kézműves kínálattal, szezonális finomságokkal és ünnepi fényekkel adventi téli negyeddé alakul.",
+          "ro": "Centrul vechi se transformă într-un cartier de iarnă festiv, cu căsuțe inspirate nordic, artizanat, specialități sezoniere și lumini de sărbătoare.",
+          "en": "The old town turns into a festive winter quarter with Nordic-inspired huts, crafts, seasonal specialties and holiday lighting."
+        },
+        "date": "2026-11-16",
+        "source_url": "https://www.flensburger-foerde.de/en/christmas-market"
+      }
+    ]
+  },
+  {
+    "id": "szekesfehervar",
+    "events": [
+      {
+        "title": {
+          "de": "Fehérvári Mézünnep",
+          "hu": "Fehérvári Mézünnep",
+          "ro": "Sărbătoarea mierii din Székesfehérvár",
+          "en": "Fehérvári Honey Festival"
+        },
+        "summary": {
+          "de": "Das dreitägige Honigfest auf dem Országzászló tér bietet Honigmarkt, Verkostungen, Vorträge, Kinderprogramme sowie Umzug und Zeremonien der Honigorden.",
+          "hu": "A háromnapos mézünnep az Országzászló téren mézvásárral, kóstolókkal, előadásokkal, gyerekprogramokkal és a mézlovagrendek felvonulásával várja a látogatókat.",
+          "ro": "Festivalul de trei zile din piața Országzászló oferă târg de miere, degustări, prezentări, activități pentru copii și parada ordinelor mierii.",
+          "en": "The three-day festival on Országzászló Square offers a honey market, tastings, talks, children's activities and a parade of honey orders."
+        },
+        "date": "2026-08-14",
+        "source_url": "https://kiralyinapok.szekesfehervar.hu/fehervari-mezunnep-2026"
+      },
+      {
+        "title": {
+          "de": "Székesfehérvári Királyi Napok 2026",
+          "hu": "Székesfehérvári Királyi Napok 2026",
+          "ro": "Zilele Regale din Székesfehérvár 2026",
+          "en": "Székesfehérvár Royal Days 2026"
+        },
+        "summary": {
+          "de": "Das wichtigste Stadtfestival rund um den Stephanstag verbindet historische Umzüge, sakrale Feiern, Lichtprojektionen, Marktleben und Bühnenprogramme im Zentrum.",
+          "hu": "A város legfontosabb, Szent István ünnepéhez kapcsolódó fesztiválja történelmi felvonulásokat, egyházi ünnepségeket, fényfestést, vásári hangulatot és színpadi programokat kínál.",
+          "ro": "Principalul festival al orașului, organizat în jurul sărbătorii Sfântului Ștefan, combină parade istorice, ceremonii religioase, proiecții de lumină, târg și programe scenice.",
+          "en": "The city's main festival around St Stephen's Day combines historical parades, sacred ceremonies, light projections, market atmosphere and stage programming."
+        },
+        "date": "2026-08-14",
+        "source_url": "https://kiralyinapok.szekesfehervar.hu/szekesfehervari-kiralyi-napok-2026/"
+      },
+      {
+        "title": {
+          "de": "Leichte-Musik-Konzerte 2026",
+          "hu": "Könnyűzenei koncertek 2026",
+          "ro": "Concerte de muzică ușoară 2026",
+          "en": "Light Music Concerts 2026"
+        },
+        "summary": {
+          "de": "Auf der Zichy-Bühne finden zwei kostenlose Abendkonzerte statt, mit TNT am 21. August und A GRUND mit Dés László am 22. August.",
+          "hu": "A Zichy-színpadon két ingyenes esti nagykoncert lesz: augusztus 21-én a TNT, augusztus 22-én pedig az A GRUND Dés Lászlóval.",
+          "ro": "Pe scena Zichy au loc două concerte gratuite de seară: TNT pe 21 august și A GRUND cu Dés László pe 22 august.",
+          "en": "Two free evening concerts are scheduled on the Zichy Stage, with TNT on 21 August and A GRUND with Dés László on 22 August."
+        },
+        "date": "2026-08-21",
+        "source_url": "https://kiralyinapok.szekesfehervar.hu/konnyuzene-2026"
+      },
+      {
+        "title": {
+          "de": "Fehérvári Lecsófőző Vigasság",
+          "hu": "Fehérvári Lecsófőző Vigasság",
+          "ro": "Sărbătoarea gătitului lecsó din Székesfehérvár",
+          "en": "Fehérvár Lecsó Cooking Festivity"
+        },
+        "summary": {
+          "de": "Hunderte Teams kochen beim großen Gemeinschaftsfest Lecsó im Kessel; dazu kommen Familienprogramm, Handwerksstände und Wettbewerbe um die besten Kochplätze.",
+          "hu": "A nagy közösségi fesztiválon csapatok százai főznek bográcsban lecsót, családi programokkal, kézműves árusokkal és versenyekkel a legjobb főzőhelyekért.",
+          "ro": "Sute de echipe gătesc lecsó la ceaun în cadrul marii sărbători comunitare, completată de programe pentru familii, meșteșugari și concursuri.",
+          "en": "Hundreds of teams cook lecsó in cauldrons at the large community festival, alongside family activities, craft stalls and cooking competitions."
+        },
+        "date": "2026-09-12",
+        "source_url": "https://turizmus.szekesfehervar.hu/lecso-feszt"
+      },
+      {
+        "title": {
+          "de": "Fehérvári Advent",
+          "hu": "Fehérvári Advent",
+          "ro": "Adventul din Székesfehérvár",
+          "en": "Fehérvár Advent"
+        },
+        "summary": {
+          "de": "Die Innenstadt bietet in der Adventszeit Handwerks- und Geschenkemarkt, Bühnenprogramme, Kinderangebote, Konzerte und festlich beleuchtete Plätze.",
+          "hu": "Az adventi időszakban a belváros kézműves- és ajándékvásárral, színpadi programokkal, gyerekfoglalkozásokkal, koncertekkel és ünnepi fényekkel várja a látogatókat.",
+          "ro": "În perioada Adventului, centrul orașului găzduiește târg de artizanat și cadouri, programe scenice, activități pentru copii, concerte și decoruri luminoase festive.",
+          "en": "During Advent, the city centre hosts a craft and gift market, stage programmes, children's activities, concerts and festive illuminations."
+        },
+        "date": "2026-11-26",
+        "source_url": "https://www.szekesfehervar.hu/adventi-hetvegek"
+      }
+    ]
+  },
+  {
+    "id": "tourcoing",
+    "events": [
+      {
+        "title": {
+          "de": "Guinguette des quais",
+          "hu": "Guinguette des quais",
+          "ro": "Guinguette des quais",
+          "en": "Guinguette des quais",
+          "fr": "La guinguette des quais"
+        },
+        "summary": {
+          "de": "Der Sommer-Treffpunkt am Kanal geht nach Tourcoing Plage mit Abend- und Wochenendzeiten weiter und bietet ein lebendiges Freizeitformat am Wasser.",
+          "hu": "A csatorna parti nyári találkozóhely Tourcoing Plage után is folytatódik esti és hétvégi nyitvatartással, laza vízparti hangulattal.",
+          "ro": "Punctul de întâlnire estival de pe canal continuă și după Tourcoing Plage, cu program de seară și de weekend într-o atmosferă relaxată pe malul apei.",
+          "en": "The canal-side summer venue continues after Tourcoing Plage with evening and weekend opening hours in a relaxed waterside setting.",
+          "fr": "Le rendez-vous estival des quais se poursuit après Tourcoing Plage avec des horaires en soirée et le week-end dans une ambiance conviviale au bord du canal."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://www.tourcoing.fr/la-guinguette-des-quais-est-de-retour/"
+      },
+      {
+        "title": {
+          "de": "L'heure des grands jeux",
+          "hu": "Óriásjátékok délutánja",
+          "ro": "Ora jocurilor uriașe",
+          "en": "Time for Giant Games",
+          "fr": "L'heure des grands jeux"
+        },
+        "summary": {
+          "de": "Die Médiathèque André Malraux veranstaltet einen familienfreundlichen Nachmittag mit XXL-Spielen bei freiem Eintritt für Kinder und Erwachsene.",
+          "hu": "Az André Malraux médiatár családbarát délutánt rendez óriásjátékokkal, ingyenes belépéssel kicsiknek és nagyoknak.",
+          "ro": "Médiathèque André Malraux organizează o după-amiază pentru familii cu jocuri XXL, cu acces liber pentru copii și adulți.",
+          "en": "Médiathèque André Malraux hosts a family-friendly afternoon of XXL games with free entry for children and adults.",
+          "fr": "La médiathèque André Malraux propose un après-midi familial de jeux XXL en accès libre pour petits et grands."
+        },
+        "date": "2026-08-27",
+        "source_url": "https://mediatheques.tourcoing.fr/agenda"
+      },
+      {
+        "title": {
+          "de": "Braderie Saint-Louis 2026",
+          "hu": "Saint-Louis bolhapiac 2026",
+          "ro": "Braderia Saint-Louis 2026",
+          "en": "Saint-Louis Street Sale 2026",
+          "fr": "Braderie Saint-Louis 2026"
+        },
+        "summary": {
+          "de": "Die traditionelle Braderie kehrt ins Stadtzentrum zurück und bringt Verkaufsstände und lebhaftes Markttreiben in die Innenstadt von Tourcoing.",
+          "hu": "A hagyományos Saint-Louis braderie visszatér a városközpontba, utcai árusokkal és pezsgő vásári hangulattal.",
+          "ro": "Tradiționala braderie revine în centrul orașului, cu standuri de vânzare și atmosferă animată de târg.",
+          "en": "The traditional street sale returns to the city centre with vendor stands and lively market atmosphere in central Tourcoing.",
+          "fr": "La traditionnelle braderie revient dans le centre-ville avec ses stands, ses bonnes affaires et son ambiance populaire."
+        },
+        "date": "2026-09-05",
+        "source_url": "https://www.tourcoing.fr/2026/06/10/appel-a-projets-braderie-saint-louis-2026/"
+      },
+      {
+        "title": {
+          "de": "Große Braderie der Mediatheken",
+          "hu": "A médiatékák nagy vására",
+          "ro": "Marea braderie a mediatecilor",
+          "en": "Great Libraries' Sale",
+          "fr": "La grande braderie des médiathèques"
+        },
+        "summary": {
+          "de": "Das Bibliotheksnetz der Stadt lädt zur zehnten Braderie mit öffentlich zugänglichem Vormittagsprogramm in der Médiathèque André Malraux ein.",
+          "hu": "A városi médiatéka-hálózat tizedik braderie-jére várja a közönséget délelőtti programmal az André Malraux médiatékában.",
+          "ro": "Rețeaua de mediateci a orașului invită publicul la a zecea sa braderie, găzduită dimineața la Médiathèque André Malraux.",
+          "en": "The city's library network invites the public to its tenth sale event, held in the morning at Médiathèque André Malraux.",
+          "fr": "Le réseau des médiathèques invite le public à sa dixième braderie, organisée le matin à la médiathèque André Malraux."
+        },
+        "date": "2026-09-13",
+        "source_url": "https://mediatheques.tourcoing.fr/agenda"
+      },
+      {
+        "title": {
+          "de": "Ausstellung „Paris-Londres-Paris“",
+          "hu": "„Paris-Londres-Paris” kiállítás",
+          "ro": "Expoziția „Paris-Londres-Paris”",
+          "en": "Exhibition \"Paris-Londres-Paris\"",
+          "fr": "Exposition « Paris-Londres-Paris »"
+        },
+        "summary": {
+          "de": "Zum hundertsten Geburtstag von Michel Butor zeigt die Galerie Nadar in der Médiathèque André-Malraux Fotografien von Bernard Plossu im Dialog mit Texten von Butor.",
+          "hu": "Michel Butor századik születésnapja alkalmából a Galerie Nadar Bernard Plossu fotóit mutatja be Butor szövegeivel párbeszédben az André-Malraux médiatékában.",
+          "ro": "Cu ocazia centenarului Michel Butor, galeria Nadar prezintă la Médiathèque André-Malraux fotografiile lui Bernard Plossu în dialog cu textele lui Butor.",
+          "en": "For Michel Butor's centenary, Galerie Nadar presents Bernard Plossu's photographs in dialogue with Butor's texts at Médiathèque André-Malraux.",
+          "fr": "À l'occasion du centenaire de Michel Butor, la galerie Nadar présente les photographies de Bernard Plossu en dialogue avec les textes de l'écrivain."
+        },
+        "date": "2026-09-14",
+        "source_url": "https://mediatheques.tourcoing.fr/actus-du-moment/exposition-paris-londres-paris-bernard-plossu-michel-butor"
+      }
+    ]
+  },
+  {
+    "id": "city-zwickau-extra",
+    "events": [
+      {
+        "title": {
+          "de": "15 Jahre Montez - Die Jubiläumstour",
+          "hu": "15 éves Montez - jubileumi turné",
+          "ro": "15 ani de Montez - turneul aniversar",
+          "en": "15 Years of Montez - Anniversary Tour"
+        },
+        "summary": {
+          "de": "Der deutsche Pop-Act Montez bringt seine Jubiläumstour als Open-Air-Konzert auf die Freilichtbühne in Zwickau.",
+          "hu": "Montez német popelőadó jubileumi turnéja szabadtéri koncertként érkezik a zwickaui Freilichtbühnére.",
+          "ro": "Artistul pop german Montez aduce turneul său aniversar într-un concert în aer liber la Freilichtbühne din Zwickau.",
+          "en": "German pop act Montez brings his anniversary tour to Zwickau's open-air stage."
+        },
+        "date": "2026-08-07",
+        "source_url": "https://www.kultourz.de/veranstaltungskalender.php"
+      },
+      {
+        "title": {
+          "de": "Amy Macdonald Summer 2026",
+          "hu": "Amy Macdonald Summer 2026",
+          "ro": "Amy Macdonald Summer 2026",
+          "en": "Amy Macdonald Summer 2026"
+        },
+        "summary": {
+          "de": "Amy Macdonald spielt ein Sommerkonzert unter freiem Himmel auf der Freilichtbühne und zählt zu den großen Open-Air-Terminen der Saison in Zwickau.",
+          "hu": "Amy Macdonald szabadtéri nyári koncertet ad a Freilichtbühnén, a szezon egyik kiemelt open-air eseményeként Zwickauban.",
+          "ro": "Amy Macdonald susține un concert estival în aer liber la Freilichtbühne, unul dintre marile evenimente open-air ale sezonului la Zwickau.",
+          "en": "Amy Macdonald performs an open-air summer concert at the Freilichtbühne, one of Zwickau's major seasonal live events."
+        },
+        "date": "2026-08-12",
+        "source_url": "https://www.kultourz.de/veranstaltungskalender.php"
+      },
+      {
+        "title": {
+          "de": "Sachsenmarkt",
+          "hu": "Szász piac",
+          "ro": "Piața Saxoniei",
+          "en": "Saxony Market"
+        },
+        "summary": {
+          "de": "Der Sachsenmarkt füllt den Hauptmarkt mit regionalen Waren und typischer Marktstimmung im Herzen der Altstadt.",
+          "hu": "A Sachsenmarkt regionális portékákkal és hagyományos vásári hangulattal tölti meg a főteret az óváros szívében.",
+          "ro": "Sachsenmarkt umple piața centrală cu produse regionale și atmosferă de târg în inima centrului vechi.",
+          "en": "The Saxony Market fills the main square with regional goods and traditional market atmosphere in the heart of the old town."
+        },
+        "date": "2026-08-26",
+        "source_url": "https://www.kultourz.de/marktkalender.php"
+      },
+      {
+        "title": {
+          "de": "Premiere: Der Graf von Monte Christo",
+          "hu": "A Monte Cristo grófja - premier",
+          "ro": "Contele de Monte Cristo - premieră",
+          "en": "Premiere: The Count of Monte Cristo"
+        },
+        "summary": {
+          "de": "Das Theater Plauen-Zwickau bringt den Abenteuerklassiker als Sommerproduktion auf die Freilichtbühne; die Premiere eröffnet die Aufführungsserie.",
+          "hu": "A Theater Plauen-Zwickau nyári produkcióként viszi színre a kalandklasszikust a Freilichtbühnére, a premier nyitja a sorozatot.",
+          "ro": "Teatrul Plauen-Zwickau montează clasicul de aventuri ca producție de vară pe scena în aer liber, iar premiera deschide seria de spectacole.",
+          "en": "Theatre Plauen-Zwickau stages the adventure classic as a summer production on the open-air stage, with the premiere opening the run."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://www.kultourz.de/ticketbestellung.php?uid=05e13c25-c921-11f0-bef6-08606eed2892"
+      },
+      {
+        "title": {
+          "de": "Zwickauer Weihnachtszirkus",
+          "hu": "Zwickaui karácsonyi cirkusz",
+          "ro": "Circul de Crăciun din Zwickau",
+          "en": "Zwickau Christmas Circus"
+        },
+        "summary": {
+          "de": "Der Weihnachtszirkus gastiert auf dem Platz der Völkerfreundschaft mit mehreren Feiertagsvorstellungen für Familien und Zirkuspublikum.",
+          "hu": "A karácsonyi cirkusz a Platz der Völkerfreundschaft téren vendégszerepel több ünnepi előadással családok és cirkuszrajongók számára.",
+          "ro": "Circul de Crăciun sosește în Platz der Völkerfreundschaft cu mai multe reprezentații de sărbători pentru familii și publicul de circ.",
+          "en": "The Christmas circus plays at Platz der Völkerfreundschaft with multiple holiday performances for families and circusgoers."
+        },
+        "date": "2026-12-21",
+        "source_url": "https://www.kultourz.de/ticketbestellung.php?uid=59f1cb45-630c-11f1-bc90-08606eed2892"
+      }
+    ]
+  }
+]

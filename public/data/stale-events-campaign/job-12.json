@@ -1,0 +1,383 @@
+[
+  {
+    "id": "krefeld-extra",
+    "events": [
+      {
+        "title": {
+          "de": "SUMMER WEEK '47",
+          "hu": "SUMMER WEEK '47",
+          "ro": "SUMMER WEEK '47",
+          "en": "SUMMER WEEK '47"
+        },
+        "summary": {
+          "de": "Die internationale Tanzwoche bringt Workshops, Trainings und offene Events fuer Streetdance-Fans nach Krefeld und richtet sich an verschiedene Alters- und Leistungsstufen.",
+          "hu": "A nemzetkozi tanchet workshopokkal, edzesekkel es nyitott programokkal varja a street dance irant erdeklodoket Krefeldben, kulonbozo korosztalyoknak es szinteknek.",
+          "ro": "Saptamana internationala de dans aduce la Krefeld workshopuri, antrenamente si evenimente deschise pentru pasionatii de street dance, pe mai multe niveluri.",
+          "en": "The international dance week brings workshops, training sessions and open events for street dance fans to Krefeld across multiple age and skill levels."
+        },
+        "date": "2026-08-18",
+        "source_url": "https://www.krefeld.de/summer-week47-street-dance-festival"
+      },
+      {
+        "title": {
+          "de": "47. Folklorefest",
+          "hu": "47. Folklorefest",
+          "ro": "A 47-a editie Folklorefest",
+          "en": "47th Folklorefest"
+        },
+        "summary": {
+          "de": "Rund um den Platz An der Alten Kirche treten internationale Bands und Musiker bei dem kostenlosen Open-Air-Festival auf; der Freitag steht unter dem Motto \"FEMINAS - Frauen dieser Welt\".",
+          "hu": "Az An der Alten Kirche ter korul nemzetkozi zenekarok es eloadok lepnek fel az ingyenes szabadtéri fesztivalon; a penteki tematikus nap cime: \"FEMINAS - Nok a vilagbol\".",
+          "ro": "In jurul pietei An der Alten Kirche au loc concerte in aer liber cu trupe si muzicieni internationali; ziua de vineri poarta tema \"FEMINAS - Femei din intreaga lume\".",
+          "en": "Around An der Alten Kirche, international bands and musicians perform at the free open-air festival, with Friday themed as \"FEMINAS - Women of the World\"."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://www.krefeld.de/folklorefest"
+      },
+      {
+        "title": {
+          "de": "FestiWall",
+          "hu": "FestiWall",
+          "ro": "FestiWall",
+          "en": "FestiWall"
+        },
+        "summary": {
+          "de": "Das autofreie Stadtfestival belebt den Westwall mit Flohmarkt, Gastronomie und Aufenthaltsflaechen und stellt mehr Raum fuer Stadtleben im Zentrum in den Mittelpunkt.",
+          "hu": "Az autoforgalomtol mentes varosi fesztival bolhapiaccal, gasztronomiaval es kozossegi terekkel tolti meg a Westwallt, es a belvarosi eletminoseget helyezi eloterbe.",
+          "ro": "Festivalul urban fara trafic transforma Westwall-ul cu targ de vechituri, gastronomie si zone de relaxare, punand accent pe mai mult spatiu pentru viata urbana.",
+          "en": "The car-free city festival activates the Westwall with a flea market, food offerings and public gathering areas, focusing on more space for urban life."
+        },
+        "date": "2026-09-11",
+        "source_url": "https://www.krefeld.de/festiwall"
+      },
+      {
+        "title": {
+          "de": "Sprödentalkirmes - Herbstkirmes",
+          "hu": "Sproedentalkirmes oszi vasar",
+          "ro": "Sprödentalkirmes - balciul de toamna",
+          "en": "Sprödentalkirmes Autumn Fair"
+        },
+        "summary": {
+          "de": "Auf dem Sprödentalplatz drehen sich Fahrgeschaefte, Riesenrad und Familienattraktionen waehrend der herbstlichen Kirmes fuer Gross und Klein.",
+          "hu": "A Sproedentalplatzon korhintak, oriaskerék es csaladi attrakciok varjak a latogatokat az oszi vasar idejen.",
+          "ro": "Pe Sprödentalplatz, caruselele, roata panoramica si atractiile pentru familii aduc atmosfera de balci de toamna pentru toate varstele.",
+          "en": "At Sprödentalplatz, rides, the ferris wheel and family attractions create a full autumn fair atmosphere for all ages."
+        },
+        "date": "2026-10-02",
+        "source_url": "https://www.krefeld.de/sproedentalkirmes-herbstkirmes"
+      },
+      {
+        "title": {
+          "de": "Krefelder Herbstzauber 2026",
+          "hu": "Krefeldi Oszi Varazs 2026",
+          "ro": "Krefelder Herbstzauber 2026",
+          "en": "Krefelder Herbstzauber 2026"
+        },
+        "summary": {
+          "de": "Auf der Rennbahn praesentieren rund 160 Ausstellende Ideen aus Genuss, Wohnen, Garten, Mode und Kunst auf einem herbstlichen Lifestyle-Markt.",
+          "hu": "A versenypalyan mintegy 160 kiallitó mutat be gasztronomiai, lakberendezesi, kerti, divat- es muveszeti otleteket egy oszi lifestyle vasaron.",
+          "ro": "La hipodrom, aproximativ 160 de expozanti prezinta idei din gastronomie, locuire, gradina, moda si arta intr-un targ de lifestyle de toamna.",
+          "en": "At the racecourse, around 160 exhibitors present ideas from food, home living, gardens, fashion and art at an autumn lifestyle market."
+        },
+        "date": "2026-10-16",
+        "source_url": "https://www.krefeld.de/krefelder-herbstzauber-2026"
+      }
+    ]
+  },
+  {
+    "id": "city-halle-saale",
+    "events": [
+      {
+        "title": {
+          "de": "Im Sommer nach 8",
+          "hu": "Im Sommer nach 8",
+          "ro": "Im Sommer nach 8",
+          "en": "Im Sommer nach 8"
+        },
+        "summary": {
+          "de": "Der Marktplatz wird fuer elf Abende zur Sommer-Lounge mit Musik, Literatur, Kulinarik und entspannter Open-Air-Atmosphaere zwischen Rotem Turm und Marktkirche.",
+          "hu": "A foter tizenegy estere nyari lounge-ga valik zenével, irodalommal, gasztronomiaval es laza szabadtéri hangulattal a Vörös Torony es a Marktkirche között.",
+          "ro": "Piata centrala se transforma pentru unsprezece seri intr-un lounge de vara cu muzica, literatura, gastronomie si atmosfera relaxata in aer liber intre Turnul Rosu si Marktkirche.",
+          "en": "The market square becomes a summer lounge for eleven evenings with music, literature, food and a relaxed open-air atmosphere between the Red Tower and Marktkirche."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://halle.de/verwaltung-stadtrat/presseportal/nachrichten/nachricht/im-sommer-nach-8-vorverkauf-der-beliebten-open-air-reihe-hat-begonnen"
+      },
+      {
+        "title": {
+          "de": "Laternenfest 2026",
+          "hu": "Laternenfest 2026",
+          "ro": "Laternenfest 2026",
+          "en": "Laternenfest 2026"
+        },
+        "summary": {
+          "de": "Das grosse Stadtfest an der Saale bringt Ende August Volksfeststimmung, Marktangebote und ein breites Programm in Halle.",
+          "hu": "A Saale partjan rendezett nagy varosi unnep augusztus vegen vasari hangulatot, arusokat es sokszinu programot hoz Halléba.",
+          "ro": "Marele festival urban de pe Saale aduce la sfarsit de august atmosfera de sarbatoare populara, targ si program variat in Halle.",
+          "en": "The major city festival on the Saale brings fairground atmosphere, market stalls and a broad programme to Halle at the end of August."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://halle.de/kultur-tourismus/veranstaltungen/laternenfest"
+      },
+      {
+        "title": {
+          "de": "Hallesches Salzfest",
+          "hu": "Hallesches Salzfest",
+          "ro": "Festivalul Sarii din Halle",
+          "en": "Halle Salt Festival"
+        },
+        "summary": {
+          "de": "Das traditionelle Salzfest bespielt die Innenstadt rund um den Marktplatz und erinnert mit Markt- und Festbetrieb an Halles Salzgeschichte.",
+          "hu": "A hagyomanyos sofesztival a belvarosban, a foter kornyeken zajlik, es piaci valamint unnepi programokkal emlekezik Halle soipari multjara.",
+          "ro": "Festivalul traditional al sarii are loc in centrul orasului, in jurul pietei principale, si evoca istoria sarii din Halle prin targ si program festiv.",
+          "en": "The traditional salt festival takes over the city centre around the market square and recalls Halle's salt heritage with market and fair activities."
+        },
+        "date": "2026-09-25",
+        "source_url": "https://halle.de/kultur-tourismus/veranstaltungen/maerkte/sondermaerkte"
+      },
+      {
+        "title": {
+          "de": "Töpfermarkt 2026",
+          "hu": "Toepfermarkt 2026",
+          "ro": "Targul olarilor 2026",
+          "en": "Pottery Market 2026"
+        },
+        "summary": {
+          "de": "Auf dem Halleschen Marktplatz zeigen 90 professionelle Keramikwerkstaetten gedrehte, gebaute, montierte und gegossene Arbeiten fuer Sammlerinnen und Bummelpublikum.",
+          "hu": "Halle foeteren 90 professzionalis keramiamuhely mutat be korongozott, epitett, szerelt es ontoett munkakat a gyujtoknek es a setaloknak.",
+          "ro": "In piata centrala din Halle, 90 de ateliere profesionale de ceramica prezinta lucrari modelate, construite, montate si turnate pentru colectionari si vizitatori.",
+          "en": "On Halle's market square, 90 professional ceramic workshops present wheel-thrown, built, assembled and cast works for collectors and casual visitors."
+        },
+        "date": "2026-10-17",
+        "source_url": "https://halle.de/kultur-tourismus/veranstaltungen/maerkte/sondermaerkte/toepfermarkt"
+      },
+      {
+        "title": {
+          "de": "Hallescher Weihnachtsmarkt",
+          "hu": "Halléi Karacsonyi Vasár",
+          "ro": "Targul de Craciun din Halle",
+          "en": "Halle Christmas Market"
+        },
+        "summary": {
+          "de": "In der historischen Altstadt laedt der Weihnachtsmarkt mit Staenden, Fahrgeschaeften und winterlicher Innenstadtatmosphaere in die Adventszeit ein.",
+          "hu": "A tortenelmi ovarosban a karacsonyi vasar standokkal, vidamparki elemekkel es adventi hangulattal varja a latogatokat.",
+          "ro": "In centrul vechi istoric, targul de Craciun invita vizitatorii cu casute, atractii si atmosfera de iarna specifica Adventului.",
+          "en": "In the historic old town, the Christmas market welcomes visitors with stalls, rides and a festive Advent atmosphere."
+        },
+        "date": "2026-11-24",
+        "source_url": "https://halle.de/kultur-tourismus/veranstaltungen/maerkte/sondermaerkte/weihnachtsmarkt"
+      }
+    ]
+  },
+  {
+    "id": "brasov",
+    "events": [
+      {
+        "title": {
+          "de": "Brașov Jazz & Blues Festival 2026",
+          "hu": "Brașov Jazz & Blues Festival 2026",
+          "ro": "Brașov Jazz & Blues Festival 2026",
+          "en": "Brașov Jazz & Blues Festival 2026"
+        },
+        "summary": {
+          "de": "Das groesste urbane Jazz- und Bluesfestival Rumäniens kehrt fuer drei Tage mit Hauptbuehne auf dem Piata Sf. Ioan und internationalen Acts nach Brașov zurueck.",
+          "hu": "Romania legnagyobb varosi jazz- es bluesfesztivalja harom napra ter vissza Brassoba, a fo helyszínnel a Piata Sf. Ioan teren es nemzetkozi fellépőkkel.",
+          "ro": "Cel mai mare festival urban de jazz si blues din Romania revine pentru trei zile la Brasov, cu scena principala in Piata Sf. Ioan si artisti internationali.",
+          "en": "Romania's largest urban jazz and blues festival returns to Brașov for three days, with its main stage in Piața Sf. Ioan and an international lineup.",
+          "fr": "Le plus grand festival urbain de jazz et de blues de Roumanie revient a Brasov pendant trois jours, avec une scene principale sur la Piata Sf. Ioan et des artistes internationaux."
+        },
+        "date": "2026-08-14",
+        "source_url": "https://biletebrasov.ro/eveniment/brasov-jazz-blues-festival-2026/"
+      },
+      {
+        "title": {
+          "de": "Concerte la Juno Wine Garden | BJBF 2026",
+          "hu": "Koncertek a Juno Wine Gardenben | BJBF 2026",
+          "ro": "Concerte la Juno Wine Garden | BJBF 2026",
+          "en": "Concerts at Juno Wine Garden | BJBF 2026"
+        },
+        "summary": {
+          "de": "Im Rahmen des Festivalwochenendes laufen drei Abende Live-Musik im Juno Wine Garden mit entspanntem Setting, Wein und wechselnden Blues- und Jazzacts.",
+          "hu": "A fesztival hetvegejen harom este elozene szol a Juno Wine Gardenben laza hangulattal, borokkal es valtozo blues- valamint jazzeloadokkal.",
+          "ro": "In cadrul weekendului de festival au loc trei seri de muzica live la Juno Wine Garden, cu atmosfera relaxata, vin si artisti diferiti de blues si jazz.",
+          "en": "During the festival weekend, Juno Wine Garden hosts three evenings of live music with a relaxed atmosphere, wine and changing blues and jazz acts.",
+          "fr": "Pendant le week-end du festival, le Juno Wine Garden accueille trois soirees de musique live dans une ambiance detendue, avec du vin et des artistes de blues et de jazz."
+        },
+        "date": "2026-08-14",
+        "source_url": "https://biletebrasov.ro/eveniment/concerte-la-juno-wine-garden-bjbf-2026/"
+      },
+      {
+        "title": {
+          "de": "Jam Sessions cu Lars Kutschke Band",
+          "hu": "Jam Sessions cu Lars Kutschke Band",
+          "ro": "Jam Sessions cu Lars Kutschke Band",
+          "en": "Jam Sessions with Lars Kutschke Band"
+        },
+        "summary": {
+          "de": "Spaete Sessions im O'Peter's Irish Pub erweitern das Festivalprogramm mit Clubatmosphaere und improvisationsfreudigen Naechten waehrend des Jazz-und-Blues-Wochenendes.",
+          "hu": "Az O'Peter's Irish Pub keso esti sessionjei klubhangulattal es improvizacios estekkel egeszitik ki a fesztival programjat a jazz- es blueshetvegen.",
+          "ro": "Sesiunile tarzii de la O'Peter's Irish Pub completeaza programul festivalului cu atmosfera de club si seri dedicate improvizatiei in weekendul de jazz si blues.",
+          "en": "Late sessions at O'Peter's Irish Pub extend the festival with a club atmosphere and improvisation-led nights during the jazz and blues weekend.",
+          "fr": "Les sessions nocturnes a l'O'Peter's Irish Pub prolongent le festival avec une ambiance de club et des soirees centrees sur l'improvisation."
+        },
+        "date": "2026-08-14",
+        "source_url": "https://biletebrasov.ro/eveniment/jam-sessions-cu-lars-kutschke-band-2/"
+      },
+      {
+        "title": {
+          "de": "Sharrie Williams & Sepsi Gospel Band @ Bod",
+          "hu": "Sharrie Williams & Sepsi Gospel Band @ Bod",
+          "ro": "Sharrie Williams & Sepsi Gospel Band @ Bod",
+          "en": "Sharrie Williams & Sepsi Gospel Band @ Bod"
+        },
+        "summary": {
+          "de": "Der Festival-Sondertermin in der Kirchenburg Bod verbindet Gospel und Blues in einem Ausflugslokal ausserhalb des Brașov-Zentrums und gehoert zum offiziellen BJBF-Programm.",
+          "hu": "A bodi erodtemplomban tartott kulonleges fesztivalesemeny gospel- es blueszenei elmenyt kinal Brasson kivul, az officialis BJBF-program reszekent.",
+          "ro": "Evenimentul special din biserica fortificata din Bod combina gospel si blues intr-o locatie de excursie din afara centrului Brasovului si face parte din programul oficial BJBF.",
+          "en": "This special event at the fortified church in Bod combines gospel and blues in an excursion setting outside central Brașov as part of the official BJBF programme.",
+          "fr": "Cet evenement special a l'eglise fortifiee de Bod combine gospel et blues dans un cadre d'excursion hors du centre de Brasov, dans le programme officiel du BJBF."
+        },
+        "date": "2026-08-16",
+        "source_url": "https://biletebrasov.ro/eveniment/sharrie-williams-sepsi-gospel-band-bod/"
+      }
+    ]
+  },
+  {
+    "id": "city-freiburg",
+    "events": [
+      {
+        "title": {
+          "de": "Schlossberg Festival",
+          "hu": "Schlossberg Fesztival",
+          "ro": "Festivalul Schlossberg",
+          "en": "Schlossberg Festival"
+        },
+        "summary": {
+          "de": "Das Lichter- und Sommerfestival bespielt Freiburgs Stadtberg mit offenen Abenden, Beleuchtung, Gastronomie und Ausblicken ueber die Altstadt.",
+          "hu": "A fenyekkel kiserett nyari fesztival Freiburg varoshegyet tolti meg esti programokkal, vendeglatasi lehetosegekkel es ovarosi panoramaval.",
+          "ro": "Festivalul de vara si lumini anima dealul orasului Freiburg cu seri deschise, iluminat, gastronomie si privelisti spre centrul vechi.",
+          "en": "The light-filled summer festival takes over Freiburg's hilltop with open evenings, food offerings and views across the old town."
+        },
+        "date": "2026-07-31",
+        "source_url": "https://visit.freiburg.de/en/schlossberg-festival-2"
+      },
+      {
+        "title": {
+          "de": "Freiburg Wine Summer",
+          "hu": "Freiburgi Boros Nyar",
+          "ro": "Vara Vinului la Freiburg",
+          "en": "Freiburg Wine Summer"
+        },
+        "summary": {
+          "de": "Auf dem Muensterplatz praesentieren Freiburger Weingueter und die Alte Wache ihre Weine in mediterraner Sommeratmosphaere bei freiem Eintritt.",
+          "hu": "A Münsterplatzon freiburgi boraszatok es az Alte Wache mutatja be borait mediterran nyari hangulatban, ingyenes belepessel.",
+          "ro": "In Münsterplatz, cramele din Freiburg si Alte Wache isi prezinta vinurile intr-o atmosfera mediteraneana de vara, cu acces gratuit.",
+          "en": "On Münsterplatz, Freiburg wineries and the Alte Wache present their wines in a Mediterranean summer atmosphere with free admission."
+        },
+        "date": "2026-07-27",
+        "source_url": "https://visit.freiburg.de/en/freiburg-wine-summer-1"
+      },
+      {
+        "title": {
+          "de": "12th Ganter Oktoberfest",
+          "hu": "12. Ganter Oktoberfest",
+          "ro": "Al 12-lea Ganter Oktoberfest",
+          "en": "12th Ganter Oktoberfest"
+        },
+        "summary": {
+          "de": "In der Brauerei Ganter sorgen Festbier, herzhafte Spezialitaeten und Live-Musik fuer eine badisch-bayerische Oktoberfeststimmung ueber mehrere Abende.",
+          "hu": "A Ganter sorfozdeben fesztivalsor, tartalmas etelek es elo zene teremt badeni-bajor oktoberfest hangulatot tobb esten at.",
+          "ro": "La beraria Ganter, berea de festival, specialitatile consistente si muzica live creeaza o atmosfera de Oktoberfest bado-bavarez timp de mai multe seri.",
+          "en": "At the Ganter brewery, festival beer, hearty food and live music create a Baden-Bavarian Oktoberfest atmosphere over multiple evenings."
+        },
+        "date": "2026-09-24",
+        "source_url": "https://visit.freiburg.de/en/ganter-oktoberfest"
+      },
+      {
+        "title": {
+          "de": "Plaza Culinaria",
+          "hu": "Plaza Culinaria",
+          "ro": "Plaza Culinaria",
+          "en": "Plaza Culinaria"
+        },
+        "summary": {
+          "de": "Die kulinarische Messe bringt Produzenten, Genussstaende, Kochvorfuehrungen und regionale Spezialitaeten fuer ein genussorientiertes Novemberwochenende nach Freiburg.",
+          "hu": "A gasztronomiai vasar termeloket, kostolokat, fozobemutatokat es regionalis kulinaris kulonlegessegeket hoz Freiburgba egy novemberei hetvegere.",
+          "ro": "Targul culinar aduce la Freiburg producatori, degustari, demonstratii de gatit si specialitati regionale pentru un weekend dedicat gastronomiei in noiembrie.",
+          "en": "The culinary fair brings producers, tastings, cooking demonstrations and regional specialities to Freiburg for a food-focused weekend in November."
+        },
+        "date": "2026-11-06",
+        "source_url": "https://visit.freiburg.de/en/plaza-culinaria-1"
+      },
+      {
+        "title": {
+          "de": "Circolo 2026 - Freiburg's Christmas Circus",
+          "hu": "Circolo 2026 - Freiburg karacsonyi cirkusza",
+          "ro": "Circolo 2026 - Circul de Craciun din Freiburg",
+          "en": "Circolo 2026 - Freiburg's Christmas Circus"
+        },
+        "summary": {
+          "de": "Der Weihnachtszirkus in der Messe Freiburg praesentiert ein internationales Programm mit Akrobatik, Komik und Musik fuer die Festtage.",
+          "hu": "A Messe Freiburg karacsonyi cirkusza nemzetkozi musort hoz akrobatikaval, komediaval es zenevel az unnepi idoszakra.",
+          "ro": "Circul de Craciun de la Messe Freiburg prezinta un program international cu acrobatie, comedie si muzica pentru perioada sarbatorilor.",
+          "en": "The Christmas circus at Messe Freiburg presents an international programme of acrobatics, comedy and music for the festive season."
+        },
+        "date": "2026-12-19",
+        "source_url": "https://visit.freiburg.de/en/circolo-2026-freiburgs-weihnachts-circus"
+      }
+    ]
+  },
+  {
+    "id": "city-craiova",
+    "events": [
+      {
+        "title": {
+          "de": "Craiova Summer Fest",
+          "hu": "Craiova Summer Fest",
+          "ro": "Craiova Summer Fest",
+          "en": "Craiova Summer Fest"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm kombiniert Water-Park-Aktionen und Shows in der Altstadt und bringt Mitte August mehrere Tage Ferienatmosphaere in die Stadt.",
+          "hu": "A nyari programsorozat a water park eseményeit es az ovarosi show-kat egyesiti, es augusztus kozepen tobb napos nyaralo hangulatot teremt a varosban.",
+          "ro": "Programul estival combina activitati la Water Park si show-uri in Centrul Vechi, aducand cateva zile de atmosfera de vacanta in oras la mijloc de august.",
+          "en": "The summer programme combines Water Park activities and old-town shows, bringing several days of holiday atmosphere to the city in mid-August."
+        },
+        "date": "2026-08-12",
+        "source_url": "https://www.primariacraiova.ro/ro/a/1880/trees"
+      },
+      {
+        "title": {
+          "de": "Puppets Occupy Street Festival Craiova",
+          "hu": "Puppets Occupy Street Festival Craiova",
+          "ro": "Puppets Occupy Street Festival Craiova",
+          "en": "Puppets Occupy Street Festival Craiova"
+        },
+        "summary": {
+          "de": "Die STARDUST-Ausgabe des grossen Strassentheater- und Puppenfestivals bringt Auffuehrungen, Animation, Konzerte, Workshops und Paraden an viele Orte in Craiova.",
+          "hu": "A STARDUST kiadasu utcaszinhazi es babfesztival eloadasokat, utcaanimaciot, koncerteket, workshopokat es felvonulasokat visz Craiova sok helyszinere.",
+          "ro": "Editia STARDUST a marelui festival de teatru de strada si papusi aduce spectacole, animatie urbana, concerte, ateliere si parade in mai multe zone din Craiova.",
+          "en": "The STARDUST edition of the major street theatre and puppetry festival brings performances, street animation, concerts, workshops and parades to multiple locations in Craiova."
+        },
+        "date": "2026-08-25",
+        "source_url": "https://teatrulcolibri.ro/event/puppets-occupy-street-festival-craiova-2/"
+      },
+      {
+        "title": {
+          "de": "Întâlnirea Tinerilor Ortodocşi din Oltenia",
+          "hu": "Olteniai Ortodox Fiatalok Talalkozoja",
+          "ro": "Întâlnirea Tinerilor Ortodocși din Oltenia",
+          "en": "Meeting of Orthodox Youth from Oltenia"
+        },
+        "summary": {
+          "de": "Die Stadt plant Ende August gemeinsam mit der Erzdioezese Craiova ein zweitaegiges Jugendtreffen der orthodoxen Gemeinschaft in Oltenien.",
+          "hu": "A varos augusztus vegen az ersekseggel egyuttmukodve ketnapos talalkozot szervez az olteniai ortodox fiatalok szamara.",
+          "ro": "Municipiul pregateste la sfarsitul lui august, impreuna cu Arhiepiscopia Craiovei, o intalnire de doua zile dedicata tinerilor ortodocsi din Oltenia.",
+          "en": "The city plans a two-day youth gathering with the Archdiocese of Craiova at the end of August for the Orthodox community of Oltenia."
+        },
+        "date": "2026-08-26",
+        "source_url": "https://www.primariacraiova.ro/ro/a/3925/proiectul-ordinii-de-zi-a-%C8%99edin%C8%9Bei-ordinare-din-data-de-25.06.2026"
+      }
+    ]
+  }
+]

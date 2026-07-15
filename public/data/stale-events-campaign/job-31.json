@@ -1,0 +1,405 @@
+[
+  {
+    "id": "poland-walbrzych-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "TAURON Sommerliches Geheimnisfestival BAROCCO",
+          "hu": "TAURON Nyári Rejtélyfesztivál BAROCCO",
+          "ro": "Festivalul de Mistere de Vară TAURON BAROCCO",
+          "en": "TAURON Summer Mystery Festival BAROCCO"
+        },
+        "summary": {
+          "de": "Das Schloss Fürstenstein richtet ein zweitägiges Festival mit barocken Inszenierungen, historischen Vorführungen, Entdeckungsformaten und Familienattraktionen im Schlossareal aus.",
+          "hu": "A Książ kastély kétnapos fesztivált rendez barokk látványelemekkel, történelmi bemutatókkal, felfedező programokkal és családi attrakciókkal a kastély területén.",
+          "ro": "Castelul Książ găzduiește un festival de două zile cu decoruri baroce, demonstrații istorice, programe de descoperire și atracții pentru familii în incinta castelului.",
+          "en": "Książ Castle hosts a two-day festival with Baroque-themed staging, historical displays, discovery activities, and family attractions across the castle grounds."
+        },
+        "source_url": "https://www.ksiaz.walbrzych.pl/turystyka/festiwal-tajemnic",
+        "date": "2026-08-01"
+      },
+      {
+        "title": {
+          "de": "VI. Festival der Roma-Musik und -Kultur Romano Dzipen",
+          "hu": "VI. Romano Dzipen Roma Zenei és Kulturális Fesztivál",
+          "ro": "Al VI-lea Festival de Muzică și Cultură Romă Romano Dzipen",
+          "en": "6th Romano Dzipen Roma Music and Culture Festival"
+        },
+        "summary": {
+          "de": "In der Alten Grube findet ein internationales Fest der Roma-Kultur mit Konzerten, Tanz und kostenlosem Open-Air-Programm statt.",
+          "hu": "A Stara Kopalnia nemzetközi roma kulturális ünnepet rendez koncertekkel, tánccal és ingyenes szabadtéri programmal.",
+          "ro": "La Stara Kopalnia are loc o sărbătoare internațională a culturii rome, cu concerte, dans și program în aer liber cu intrare liberă.",
+          "en": "Stara Kopalnia hosts an international celebration of Roma culture with concerts, dance, and a free open-air program."
+        },
+        "source_url": "https://starakopalnia.pl/wydarzenia/vi-festiwal-muzyki-i-kultury-romskiej-romano-dzipen/",
+        "date": "2026-08-02"
+      },
+      {
+        "title": {
+          "de": "X. Niederschlesisches Feuerfestival",
+          "hu": "X. Alsó-sziléziai Tűzfesztivál",
+          "ro": "Al X-lea Festival al Focului din Silezia Inferioară",
+          "en": "10th Lower Silesian Fire Festival"
+        },
+        "summary": {
+          "de": "Die Jubiläumsausgabe in der Stara Kopalnia bietet offene Workshops, Publikumsanimationen, eine Jubiläumsausstellung und den nationalen Fireshow-Wettbewerb.",
+          "hu": "A jubileumi kiadás a Stara Kopalniában nyílt workshopokat, közönségprogramokat, jubileumi kiállítást és országos tűzshow-versenyt kínál.",
+          "ro": "Ediția aniversară de la Stara Kopalnia include ateliere deschise, animație pentru public, o expoziție aniversară și concursul național de fireshow.",
+          "en": "The anniversary edition at Stara Kopalnia features open workshops, public activities, a jubilee exhibition, and the national fireshow competition."
+        },
+        "source_url": "https://starakopalnia.pl/wydarzenia/x-dolnoslaski-festiwal-ognia-2026-jubileuszowa-edycja-w-starej-kopalni/",
+        "date": "2026-08-29"
+      },
+      {
+        "title": {
+          "de": "Wałbrzych hat Talent 2026 Finale bei den Wałbrzycher Tagen",
+          "hu": "Wałbrzych tehetsége 2026 döntő a Wałbrzych Napokon",
+          "ro": "Finala Wałbrzych are talent 2026 la Zilele Wałbrzych",
+          "en": "Wałbrzych Has Talent 2026 final at Wałbrzych Days"
+        },
+        "summary": {
+          "de": "Die Gewinner des Talentwettbewerbs treten laut Veranstaltungsseite am großen Bühnenprogramm der Wałbrzycher Tage auf.",
+          "hu": "A tehetségkutató győztesei a rendezvényoldal szerint a Wałbrzych Napok nagyszínpadán lépnek fel.",
+          "ro": "Câștigătorii concursului de talente vor urca, potrivit paginii oficiale, pe scena mare a Zilelor Wałbrzych.",
+          "en": "According to the official event page, the talent contest winners will perform on the main stage during Wałbrzych Days."
+        },
+        "source_url": "https://starakopalnia.pl/wydarzenia/walbrzych-ma-talent-2026-glosowanie-internautow/",
+        "date": "2026-09-12"
+      }
+    ]
+  },
+  {
+    "id": "city-wolfsburg-extra",
+    "events": [
+      {
+        "title": {
+          "de": "KP-ONE Festival 2026",
+          "hu": "KP-ONE Fesztivál 2026",
+          "ro": "Festivalul KP-ONE 2026",
+          "en": "KP-ONE Festival 2026"
+        },
+        "summary": {
+          "de": "Das Festival in Wolfsburg-Neindorf läuft über drei Tage und verbindet Sommerprogramm, Live-Unterhaltung und Festivalatmosphäre.",
+          "hu": "A wolfsburg-neindorfi fesztivál három napon át tart, és nyári programot, élő szórakoztatást és fesztiválhangulatot kínál.",
+          "ro": "Festivalul din Wolfsburg-Neindorf se desfășoară pe parcursul a trei zile și combină programul de vară cu divertisment live și atmosferă de festival.",
+          "en": "The festival in Wolfsburg-Neindorf runs over three days and combines summer programming, live entertainment, and festival atmosphere."
+        },
+        "source_url": "https://www.wolfsburg-erleben.de/event/kp-one-festival-2026",
+        "date": "2026-07-31"
+      },
+      {
+        "title": {
+          "de": "Open-Air-Strandkino am Allersee",
+          "hu": "Szabadtéri Strandmozi az Allersee partján",
+          "ro": "Cinema în aer liber pe plaja Allersee",
+          "en": "Open-Air Beach Cinema at Allersee"
+        },
+        "summary": {
+          "de": "Filmfans erwartet am Allersee ein kostenloses Freiluftkino mit Strandkulisse an mehreren Abenden Ende August.",
+          "hu": "A filmrajongókat az Allersee partján ingyenes szabadtéri mozi várja tengerparti hangulattal augusztus végének több estéjén.",
+          "ro": "La Allersee, cinefilii sunt invitați la un cinema gratuit în aer liber, în decor de plajă, în mai multe seri de la sfârșitul lui august.",
+          "en": "Film fans can enjoy a free open-air cinema experience on the beach at Allersee on several evenings in late August."
+        },
+        "source_url": "https://www.wolfsburg-erleben.de/event/open-air-strandkino-am-allersee",
+        "date": "2026-08-21"
+      },
+      {
+        "title": {
+          "de": "wobJOB 2026",
+          "hu": "wobJOB 2026",
+          "ro": "wobJOB 2026",
+          "en": "wobJOB 2026"
+        },
+        "summary": {
+          "de": "Die Ausbildungs- und Arbeitsmarktmesse in der Innenstadt bringt Unternehmen, Ausbildungsinteressierte und Fachkräfte für direkte Gespräche zusammen.",
+          "hu": "A belvárosi képzési és állásbörze közvetlen találkozási lehetőséget ad a cégeknek, a pályakezdőknek és a szakembereknek.",
+          "ro": "Târgul de carieră și ucenicie din centrul orașului aduce împreună companii, candidați la formare și specialiști pentru discuții directe.",
+          "en": "The training and job fair in the city center brings together companies, prospective trainees, and skilled workers for direct conversations."
+        },
+        "source_url": "https://www.wolfsburg-erleben.de/event/wobjob",
+        "date": "2026-09-04"
+      },
+      {
+        "title": {
+          "de": "klein & fein – Schönes für den Herbst",
+          "hu": "klein & fein – Szép dolgok őszre",
+          "ro": "klein & fein – Frumos pentru toamnă",
+          "en": "klein & fein – Beautiful Things for Autumn"
+        },
+        "summary": {
+          "de": "Der Herbstmarkt auf der historischen Wasserburg Neuhaus präsentiert an zwei Tagen saisonale Produkte und Aussteller in historischem Ambiente.",
+          "hu": "A neuhausi történelmi vízivár őszi vására két napon át szezonális termékeket és kiállítókat mutat be történelmi környezetben.",
+          "ro": "Târgul de toamnă de la istorica Wasserburg Neuhaus prezintă timp de două zile produse sezoniere și expozanți într-un decor istoric.",
+          "en": "The autumn market at historic Wasserburg Neuhaus presents seasonal products and exhibitors over two days in a heritage setting."
+        },
+        "source_url": "https://www.wolfsburg-erleben.de/event/klein-fein-schoenes-fuer-den-herbst",
+        "date": "2026-09-26"
+      },
+      {
+        "title": {
+          "de": "Streetfood-Festival mit verkaufsoffenem Erlebnis-Sonntag",
+          "hu": "Streetfood fesztivál vasárnapi nyitvatartással",
+          "ro": "Festival street-food cu duminică de shopping deschis",
+          "en": "Street Food Festival with Sunday Shopping"
+        },
+        "summary": {
+          "de": "Die Innenstadt lädt zu einer kulinarischen Weltreise mit Streetfood-Ständen ein; am Sonntag ergänzt ein verkaufsoffener Erlebnistag das Programm.",
+          "hu": "A belváros street food standokkal kulináris világkörüli utazásra hív, vasárnap pedig nyitva tartó üzletek és élményprogramok egészítik ki a kínálatot.",
+          "ro": "Centrul orașului invită la o călătorie culinară cu standuri street-food, iar duminică programul este completat de magazine deschise și activități speciale.",
+          "en": "The city center turns into a culinary world tour with street-food stalls, followed by a special Sunday shopping and experience program."
+        },
+        "source_url": "https://www.wolfsburg-erleben.de/event/streetfood-festival-mit-verkaufsoffenem-erlebnis-sonntag",
+        "date": "2026-10-30"
+      }
+    ]
+  },
+  {
+    "id": "italy-salerno-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Salerno Summer Concerts – Chiaroscuri Mozartiani",
+          "hu": "Salerno Summer Concerts – Chiaroscuri Mozartiani",
+          "ro": "Salerno Summer Concerts – Chiaroscuri Mozartiani",
+          "en": "Salerno Summer Concerts – Chiaroscuri Mozartiani"
+        },
+        "summary": {
+          "de": "Das Abschlusskonzert der neuen Sommerreihe im Diözesanmuseum verbindet Mozart-Werke mit dem Salerno-Classica-Orchester und dem Pianisten Costantino Catena.",
+          "hu": "Az új nyári sorozat zárókoncertjén az egyházmegyei múzeumban Mozart-művek hangzanak el a Salerno Classica zenekarral és Costantino Catena zongoraművésszel.",
+          "ro": "Concertul de închidere al noii serii de vară de la Muzeul Diecezan reunește lucrări de Mozart, Orchestra Salerno Classica și pianistul Costantino Catena.",
+          "en": "The closing concert of the new summer series at the Diocesan Museum features Mozart works with the Salerno Classica orchestra and pianist Costantino Catena."
+        },
+        "source_url": "https://cultura.comune.salerno.it/eventi/salerno-summer-concerts-chiaroscuri-mozartiani/",
+        "date": "2026-08-08"
+      },
+      {
+        "title": {
+          "de": "Barbuti Festival – Febbre per il commissario Riccardi",
+          "hu": "Barbuti Fesztivál – Febbre per il commissario Riccardi",
+          "ro": "Festivalul Barbuti – Febbre per il commissario Riccardi",
+          "en": "Barbuti Festival – Febbre per il commissario Riccardi"
+        },
+        "summary": {
+          "de": "Die Sommer-Theaterreihe im historischen Zentrum zeigt in Largo Santa Maria dei Barbuti eine Bühnenfassung nach Maurizio De Giovanni mit Paolo Cresta.",
+          "hu": "A történelmi belváros nyári színházi sorozata a Largo Santa Maria dei Barbuti téren Maurizio De Giovanni művének színpadi változatát mutatja be Paolo Crestával.",
+          "ro": "Renumita serie estivală de teatru din centrul istoric prezintă în Largo Santa Maria dei Barbuti o adaptare după Maurizio De Giovanni, cu Paolo Cresta.",
+          "en": "The summer theatre series in the historic center presents a stage adaptation of Maurizio De Giovanni's work in Largo Santa Maria dei Barbuti, starring Paolo Cresta."
+        },
+        "source_url": "https://cultura.comune.salerno.it/eventi/febbre-per-il-commissario-riccardi/",
+        "date": "2026-08-31"
+      },
+      {
+        "title": {
+          "de": "San Matteo 2026",
+          "hu": "San Matteo 2026",
+          "ro": "San Matteo 2026",
+          "en": "San Matteo 2026"
+        },
+        "summary": {
+          "de": "Die Stadt feiert ihren Schutzpatron mit den offiziellen Festlichkeiten rund um den Dom von Salerno.",
+          "hu": "A város védőszentjét a salernói dóm köré szervezett hivatalos ünnepségekkel köszönti.",
+          "ro": "Orașul își sărbătorește patronul spiritual prin manifestările oficiale organizate în jurul Catedralei din Salerno.",
+          "en": "The city celebrates its patron saint with the official festivities centered on Salerno Cathedral."
+        },
+        "source_url": "https://cultura.comune.salerno.it/eventi/festivita-di-san-matteo/",
+        "date": "2026-09-21"
+      },
+      {
+        "title": {
+          "de": "Luci d’Artista 2026-2027",
+          "hu": "Luci d’Artista 2026-2027",
+          "ro": "Luci d’Artista 2026-2027",
+          "en": "Luci d’Artista 2026-2027"
+        },
+        "summary": {
+          "de": "Die bekannte Lichtkunst-Ausstellung verwandelt das historische Zentrum, die Uferpromenade und mehrere Plätze Salernos in ein großes Freilichtmuseum.",
+          "hu": "A híres fényinstallációs kiállítás Salerno történelmi központját, tengerparti sétányát és több terét szabadtéri múzeummá alakítja.",
+          "ro": "Cunoscuta expoziție de artă luminoasă transformă centrul istoric, faleza și mai multe piețe din Salerno într-un mare muzeu în aer liber.",
+          "en": "The city's famous light-art exhibition turns Salerno's historic center, seafront, and multiple squares into a large open-air museum."
+        },
+        "source_url": "https://cultura.comune.salerno.it/eventi/luci-dartista-2026/",
+        "date": "2026-11-14"
+      }
+    ]
+  },
+  {
+    "id": "metz",
+    "events": [
+      {
+        "title": {
+          "de": "Metz Trophy Aventure",
+          "hu": "Metz Trophy Aventure",
+          "ro": "Metz Trophy Aventure",
+          "en": "Metz Trophy Aventure",
+          "fr": "Metz Trophy Aventure"
+        },
+        "summary": {
+          "de": "Der Sporttag auf der Place de la République kombiniert mehrere offene Wettbewerbsformate wie Raid, Urban Race und Fun Run.",
+          "hu": "A Place de la République sportnapja több nyitott versenyszámot egyesít, köztük raidet, urban race-t és fun runt.",
+          "ro": "Ziua sportivă din Place de la République reunește mai multe formate deschise de concurs, inclusiv raid, urban race și fun run.",
+          "en": "The sports day on Place de la République combines several open competition formats including a raid, urban race, and fun run.",
+          "fr": "La journée sportive place de la République réunit plusieurs formats ouverts, dont raid, urban race et fun run."
+        },
+        "source_url": "https://metz.fr/agenda/fiche-40624.php",
+        "date": "2026-09-12"
+      },
+      {
+        "title": {
+          "de": "Euro Marathon Metz 2026",
+          "hu": "Euro Marathon Metz 2026",
+          "ro": "Euro Marathon Metz 2026",
+          "en": "Euro Marathon Metz 2026",
+          "fr": "Euro Marathon Metz 2026"
+        },
+        "summary": {
+          "de": "Das große Laufwochenende der Eurometropole bietet Marathon, Staffel, 10-km-Lauf, Kinderläufe und erstmals auch einen Halbmarathon.",
+          "hu": "Az Eurometropole nagy futóhétvégéje maratont, váltót, 10 kilométeres futamot, gyerekfutásokat és első alkalommal félmaratont is kínál.",
+          "ro": "Marele weekend de alergare al Eurometropolei include maraton, ștafetă, cursă de 10 km, curse pentru copii și, pentru prima dată, un semimaraton.",
+          "en": "The Eurometropole's major running weekend includes a marathon, relay races, a 10K, children's races, and a new half marathon.",
+          "fr": "Le grand week-end de course de l'Eurométropole propose marathon, relais, 10 km, courses enfants et, pour la première fois, un semi-marathon."
+        },
+        "source_url": "https://metz.fr/agenda/fiche-41222.php",
+        "date": "2026-10-09"
+      },
+      {
+        "title": {
+          "de": "Show Industrie",
+          "hu": "Show Industrie",
+          "ro": "Show Industrie",
+          "en": "Show Industrie",
+          "fr": "Show Industrie"
+        },
+        "summary": {
+          "de": "Die Fachveranstaltung im Parc des Expositions bringt Industrieakteure für zwei Messetage mit Präsentationen und Begegnungen zusammen.",
+          "hu": "A Parc des Expositions szakmai rendezvénye két napra hozza össze az iparág szereplőit bemutatókkal és találkozókkal.",
+          "ro": "Evenimentul profesional de la Parc des Expositions reunește actorii industriei timp de două zile de târg, cu prezentări și întâlniri.",
+          "en": "The trade event at Parc des Expositions brings together industry participants for two days of exhibits and networking.",
+          "fr": "Le rendez-vous professionnel au Parc des Expositions réunit les acteurs de l'industrie pendant deux journées d'exposition et de rencontres."
+        },
+        "source_url": "https://metz.fr/agenda/fiche-39771.php",
+        "date": "2026-11-26"
+      },
+      {
+        "title": {
+          "de": "D'Jal",
+          "hu": "D'Jal",
+          "ro": "D'Jal",
+          "en": "D'Jal",
+          "fr": "D'Jal"
+        },
+        "summary": {
+          "de": "Der Komiker D'Jal steht im Metz Congrès-Robert Schuman mit einem Abendprogramm zwischen Stand-up und Figurenhumor auf der Bühne.",
+          "hu": "D'Jal humorista a Metz Congrès-Robert Schuman színpadán lép fel stand-up és karakterhumor között mozgó estjével.",
+          "ro": "Comediantul D'Jal urcă pe scena Metz Congrès-Robert Schuman cu un spectacol de seară între stand-up și umor de personaje.",
+          "en": "Comedian D'Jal performs at Metz Congrès-Robert Schuman with an evening show mixing stand-up and character comedy.",
+          "fr": "L'humoriste D'Jal se produit à Metz Congrès-Robert Schuman avec un spectacle mêlant stand-up et humour de personnages."
+        },
+        "source_url": "https://metz.fr/agenda/fiche-39839.php",
+        "date": "2026-11-28"
+      },
+      {
+        "title": {
+          "de": "Bauernmärkte der Produzenten – Weihnachtssonderausgabe",
+          "hu": "Termelői gazdavásár – karácsonyi különkiadás",
+          "ro": "Piața fermierilor producători – ediția specială de Crăciun",
+          "en": "Farmers' Producers Market – Christmas Special Edition",
+          "fr": "Marché fermier des producteurs – édition spéciale Noël"
+        },
+        "summary": {
+          "de": "Die Weihnachtssonderausgabe auf der Place des Charrons versammelt lokale Erzeuger mit 17 Ständen im Herzen der Stadt.",
+          "hu": "A Place des Charrons karácsonyi különkiadása 17 standon mutatja be a helyi termelőket a város központjában.",
+          "ro": "Ediția specială de Crăciun din Place des Charrons reunește producători locali în 17 standuri din centrul orașului.",
+          "en": "The Christmas special edition on Place des Charrons gathers local producers across 17 stalls in the city center.",
+          "fr": "L'édition spéciale de Noël place des Charrons réunit des producteurs locaux sur 17 stands au cœur de la ville."
+        },
+        "source_url": "https://metz.fr/agenda/fiche-40409.php",
+        "date": "2026-12-19"
+      }
+    ]
+  },
+  {
+    "id": "leon",
+    "events": [
+      {
+        "title": {
+          "de": "Fanzine modernista – Kinderworkshops Casa Botines",
+          "hu": "Fanzine modernista – gyermekfoglalkozások a Casa Botinesben",
+          "ro": "Fanzine modernista – ateliere pentru copii la Casa Botines",
+          "en": "Modernist Fanzine – Children's Workshops at Casa Botines"
+        },
+        "summary": {
+          "de": "Das Museum Casa Botines Gaudí veranstaltet einen Familienworkshop, in dem Kinder inspiriert vom Modernisme ihr eigenes Fanzine gestalten.",
+          "hu": "A Casa Botines Gaudí múzeum családi workshopot rendez, ahol a gyerekek a modernizmus ihletésére saját fanzine-t készítenek.",
+          "ro": "Muzeul Casa Botines Gaudí organizează un atelier de familie în care copiii își creează propriul fanzin inspirat de modernism.",
+          "en": "The Casa Botines Gaudí museum hosts a family workshop where children create their own fanzine inspired by Modernisme."
+        },
+        "source_url": "https://leon-es-pre.aytoleon.es/eventos-en-leon/fanzine-modernista-talleres-infantiles-casa-botines/",
+        "date": "2026-07-28"
+      },
+      {
+        "title": {
+          "de": "El Jardín de las Artes",
+          "hu": "El Jardín de las Artes",
+          "ro": "El Jardín de las Artes",
+          "en": "El Jardín de las Artes"
+        },
+        "summary": {
+          "de": "Die Kunst- und Kunsthandwerksreihe in der Calle Ruiz de Salazar bringt lokale Maler, Kunsthandwerker und kostenlose Mitmach-Workshops zusammen.",
+          "hu": "A Calle Ruiz de Salazar művészeti és kézműves sorozata helyi festőket, alkotókat és ingyenes közösségi workshopokat hoz össze.",
+          "ro": "Seria artistică și artizanală de pe Calle Ruiz de Salazar reunește pictori locali, meșteșugari și ateliere participative gratuite.",
+          "en": "The art and crafts series on Calle Ruiz de Salazar brings together local painters, artisans, and free participatory workshops."
+        },
+        "source_url": "https://leon-es-pre.aytoleon.es/eventos-en-leon/el-jardin-de-las-artes-13/",
+        "date": "2026-08-01"
+      },
+      {
+        "title": {
+          "de": "La historia de un Reino – Projektionen in San Isidoro",
+          "hu": "La historia de un Reino – vetítések San Isidoróban",
+          "ro": "La historia de un Reino – proiecții la San Isidoro",
+          "en": "The History of a Kingdom – San Isidoro Projections"
+        },
+        "summary": {
+          "de": "Die abendliche Licht- und Tonprojektion auf der Fassade der Real Basílica de San Isidoro erzählt zentrale Episoden aus der Geschichte des Königreichs León.",
+          "hu": "A Real Basílica de San Isidoro homlokzatára vetített esti fény- és hangjáték a Leóni Királyság történetének fontos epizódjait meséli el.",
+          "ro": "Proiecția nocturnă de lumină și sunet pe fațada Bazilicii Regale San Isidoro spune episoade importante din istoria Regatului León.",
+          "en": "The evening light-and-sound projection on the facade of the Royal Basilica of San Isidoro tells key episodes from the history of the Kingdom of León."
+        },
+        "source_url": "https://leon-es-pre.aytoleon.es/eventos-en-leon/la-historia-de-un-reino-proyecciones-san-isidoro-10/",
+        "date": "2026-08-01"
+      },
+      {
+        "title": {
+          "de": "La historia de un Reino – Projektionen in San Isidoro",
+          "hu": "La historia de un Reino – vetítések San Isidoróban",
+          "ro": "La historia de un Reino – proiecții la San Isidoro",
+          "en": "The History of a Kingdom – San Isidoro Projections"
+        },
+        "summary": {
+          "de": "Eine weitere Sommeraufführung der historischen Projektionen auf dem Platz von San Isidoro zeigt die Entwicklung Leóns von der Römerzeit bis zur Gegenwart.",
+          "hu": "A San Isidoro téren tartott történelmi vetítéssorozat újabb nyári előadása León fejlődését mutatja be a római kortól napjainkig.",
+          "ro": "O nouă reprezentație estivală a proiecțiilor istorice din piața San Isidoro prezintă evoluția orașului León de la romani până astăzi.",
+          "en": "Another summer screening on San Isidoro square traces León's development from Roman times to the present day."
+        },
+        "source_url": "https://leon-es-pre.aytoleon.es/eventos-en-leon/la-historia-de-un-reino-proyecciones-san-isidoro-13/",
+        "date": "2026-08-22"
+      },
+      {
+        "title": {
+          "de": "La historia de un Reino – Projektionen in San Isidoro",
+          "hu": "La historia de un Reino – vetítések San Isidoróban",
+          "ro": "La historia de un Reino – proiecții la San Isidoro",
+          "en": "The History of a Kingdom – San Isidoro Projections"
+        },
+        "summary": {
+          "de": "Die Septembervorführung setzt die nächtliche Mapping-Reihe an der Basilika San Isidoro für Besucher im Altstadtzentrum fort.",
+          "hu": "A szeptemberi előadás folytatja a San Isidoro-bazilikánál zajló éjszakai vetítéssorozatot az óváros látogatói számára.",
+          "ro": "Reprezentația din septembrie continuă seria nocturnă de mapping de la bazilica San Isidoro pentru vizitatorii centrului vechi.",
+          "en": "The September performance continues the nighttime projection series at the Basilica of San Isidoro for visitors in the old town."
+        },
+        "source_url": "https://leon-es-pre.aytoleon.es/eventos-en-leon/la-historia-de-un-reino-proyecciones-san-isidoro-15/",
+        "date": "2026-09-05"
+      }
+    ]
+  }
+]

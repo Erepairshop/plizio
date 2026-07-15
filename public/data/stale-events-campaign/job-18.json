@@ -1,0 +1,405 @@
+[
+  {
+    "id": "san-sebastian",
+    "events": [
+      {
+        "date": "2026-08-08",
+        "title": {
+          "de": "Semana Grande 2026",
+          "hu": "Semana Grande 2026",
+          "ro": "Semana Grande 2026",
+          "en": "Semana Grande 2026"
+        },
+        "summary": {
+          "de": "Das große Stadtfest von San Sebastián läuft eine Woche lang mit Konzerten, Kinderprogrammen und Aktivitäten im ganzen Stadtgebiet.",
+          "hu": "San Sebastián nagy nyári városi ünnepe egyhetes koncertekkel, családi programokkal és városszerte zajló eseményekkel tér vissza.",
+          "ro": "Marea sărbătoare de vară a orașului San Sebastián revine cu o săptămână de concerte, activități pentru copii și programe în tot orașul.",
+          "en": "San Sebastián’s main summer festival returns with a week of concerts, family activities and citywide celebrations."
+        },
+        "source_url": "https://sansebastianturismoa.eus/en/agenda/semana-grande-2026/"
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Dantz Festival 2026",
+          "hu": "Dantz Festival 2026",
+          "ro": "Dantz Festival 2026",
+          "en": "Dantz Festival 2026"
+        },
+        "summary": {
+          "de": "Das zweitägige Festival im Miramon-Amphitheater widmet sich elektronischer und avantgardistischer Musik.",
+          "hu": "A Miramon Amfiteátrumban rendezett kétnapos fesztivál az elektronikus és avantgárd zenére fókuszál.",
+          "ro": "Festivalul de două zile de la Amfiteatrul Miramon este dedicat muzicii electronice și de avangardă.",
+          "en": "This two-day festival at the Miramon Amphitheater focuses on electronic and avant-garde music."
+        },
+        "source_url": "https://sansebastianturismoa.eus/en/agenda/dantz-festival-2026-3/"
+      },
+      {
+        "date": "2026-08-31",
+        "title": {
+          "de": "Gedenkfeier zum 31. August",
+          "hu": "Augusztus 31-i megemlékezés",
+          "ro": "Comemorarea zilei de 31 august",
+          "en": "Hommage to the 31st of August"
+        },
+        "summary": {
+          "de": "In der Altstadt erinnert eine öffentliche Aufführung an die Ereignisse vom 31. August 1813.",
+          "hu": "Az óvárosban tartott nyilvános előadás az 1813. augusztus 31-i eseményekre emlékezik.",
+          "ro": "Un spectacol public în centrul vechi comemorează evenimentele tragice din 31 august 1813.",
+          "en": "A public performance in the old quarter commemorates the tragic events of 31 August 1813."
+        },
+        "source_url": "https://sansebastianturismoa.eus/en/agenda/hommage-to-the-31st-of-august/"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "74. Zinemaldia: Internationales Filmfestival San Sebastián",
+          "hu": "74. Zinemaldia: San Sebastián Nemzetközi Filmfesztivál",
+          "ro": "A 74-a ediție Zinemaldia: Festivalul Internațional de Film de la San Sebastián",
+          "en": "74th Zinemaldia: San Sebastian International Film Festival"
+        },
+        "summary": {
+          "de": "Das internationale Filmfestival bringt Vorführungen, Galas und Sonderprogramme in mehrere wichtige Säle der Stadt.",
+          "hu": "A nemzetközi filmfesztivál vetítésekkel, gálákkal és különprogramokkal tölti meg a város fő helyszíneit.",
+          "ro": "Festivalul internațional de film aduce proiecții, gale și programe speciale în principalele săli ale orașului.",
+          "en": "The international film festival fills the city’s main venues with screenings, galas and special programmes."
+        },
+        "source_url": "https://sansebastianturismoa.eus/en/agenda/74-zinemaldia-san-sebastian-international-film-festival/"
+      },
+      {
+        "date": "2026-12-01",
+        "title": {
+          "de": "Weihnachtsmarkt 2026/2027",
+          "hu": "Karácsonyi Vásár 2026/2027",
+          "ro": "Târgul de Crăciun 2026/2027",
+          "en": "Christmas Market 2026/2027"
+        },
+        "summary": {
+          "de": "Der Weihnachtsmarkt am Paseo del Urumea und auf der Plaza Ramón Labayen bietet den ganzen Dezember Marktstände und Feiertagsstimmung.",
+          "hu": "Az Urumea sétányon és a Ramón Labayen téren rendezett karácsonyi vásár egész decemberben árusokkal és ünnepi hangulattal várja a látogatókat.",
+          "ro": "Târgul de Crăciun de pe Paseo del Urumea și Plaza Ramón Labayen aduce pe tot parcursul lunii decembrie standuri și atmosferă festivă.",
+          "en": "The Christmas Market along Paseo del Urumea and Plaza Ramón Labayen brings stalls and festive atmosphere throughout December."
+        },
+        "source_url": "https://sansebastianturismoa.eus/en/agenda/christmas-market-2026-2027/"
+      }
+    ]
+  },
+  {
+    "id": "spain-getafe-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-08",
+        "title": {
+          "de": "Sommerkino: Transformers One",
+          "hu": "Nyári mozi: Transformers One",
+          "ro": "Cinema de vară: Transformers One",
+          "en": "Summer Cinema: Transformers One"
+        },
+        "summary": {
+          "de": "Im Parque de La Alhóndiga zeigt Getafe im Rahmen des städtischen Open-Air-Kinos den Animationsfilm bei freiem Eintritt bis zur Kapazitätsgrenze.",
+          "hu": "Getafe a Parque de La Alhóndigában szabadtéri mozivetítésen mutatja be az animációs filmet, ingyenes belépéssel a férőhelyek erejéig.",
+          "ro": "În Parque de La Alhóndiga, Getafe proiectează filmul de animație în cadrul cinematografului în aer liber, cu acces gratuit în limita locurilor.",
+          "en": "At Parque de La Alhóndiga, Getafe screens the animated film as part of its open-air summer cinema programme, with free admission until capacity is reached."
+        },
+        "source_url": "https://cultura.getafe.es/agenda-cultura/cine-de-verano-transformers-one/"
+      },
+      {
+        "date": "2026-08-15",
+        "title": {
+          "de": "Sommerkino: Mission: Impossible - Final Reckoning",
+          "hu": "Nyári mozi: Mission: Impossible - Final Reckoning",
+          "ro": "Cinema de vară: Mission: Impossible - Final Reckoning",
+          "en": "Summer Cinema: Mission: Impossible - Final Reckoning"
+        },
+        "summary": {
+          "de": "Das Sommerkinoprogramm von Getafe setzt sich in La Alhóndiga mit einer Freiluftvorführung des Actionfilms fort.",
+          "hu": "Getafe nyári mozisorozata La Alhóndigában egy szabadtéri akciófilm-vetítéssel folytatódik.",
+          "ro": "Programul de cinema de vară al orașului Getafe continuă în La Alhóndiga cu o proiecție în aer liber a filmului de acțiune.",
+          "en": "Getafe’s summer cinema programme continues in La Alhóndiga with an open-air screening of the action film."
+        },
+        "source_url": "https://cultura.getafe.es/agenda-cultura/cine-de-verano-mision-imposible-sentencia-final/"
+      },
+      {
+        "date": "2026-08-30",
+        "title": {
+          "de": "Sommerkino in den Stadtteilen: Elio",
+          "hu": "Nyári mozi a városrészekben: Elio",
+          "ro": "Cinema de vară în cartiere: Elio",
+          "en": "Summer Cinema in the Neighborhoods: Elio"
+        },
+        "summary": {
+          "de": "In Juan de la Cierva / Getafe Norte zeigt die Stadt im Parque Andalucía eine weitere kostenlose Open-Air-Familienvorführung.",
+          "hu": "Juan de la Cierva / Getafe Norte városrészben, a Parque Andalucía területén a város újabb ingyenes szabadtéri családi vetítést rendez.",
+          "ro": "În Juan de la Cierva / Getafe Norte, orașul organizează în Parque Andalucía o nouă proiecție gratuită în aer liber pentru familii.",
+          "en": "In Juan de la Cierva / Getafe Norte, the city stages another free open-air family screening at Parque Andalucía."
+        },
+        "source_url": "https://cultura.getafe.es/agenda-cultura/cine-de-verano-en-barrios-elio/"
+      }
+    ]
+  },
+  {
+    "id": "state-capital-saarbruecken-sl-extra",
+    "events": [
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Weinzeit am Staden",
+          "hu": "Weinzeit a Staden partján",
+          "ro": "Weinzeit la Staden",
+          "en": "Wine Festival at the Staden"
+        },
+        "summary": {
+          "de": "Das Open-Air-Weinfest am Saarufer bietet rund 100 Weine und eine entspannte Sommeratmosphäre.",
+          "hu": "A Saar partján rendezett szabadtéri borfesztivál mintegy 100 bort és laza nyári hangulatot kínál.",
+          "ro": "Festivalul de vin în aer liber de pe malul Saarului propune aproximativ 100 de vinuri și o atmosferă relaxată de vară.",
+          "en": "This open-air wine festival on the Saar riverbank offers around 100 wines in a relaxed summer setting."
+        },
+        "source_url": "https://tourismus.saarbruecken.de/en/event_highlights"
+      },
+      {
+        "date": "2026-08-30",
+        "title": {
+          "de": "Kinderfest im Deutsch-Französischen Garten",
+          "hu": "Gyermekfesztivál a Német-Francia Kertben",
+          "ro": "Festivalul Copiilor din Grădina Franco-Germană",
+          "en": "Children's Festival in the Franco-German Gardens"
+        },
+        "summary": {
+          "de": "Das Familienfest im Deutsch-Französischen Garten bietet Spiele, Workshops und kreative Mitmachaktionen.",
+          "hu": "A Német-Francia Kert családi rendezvénye játékokkal, workshopokkal és kreatív programokkal várja a látogatókat.",
+          "ro": "Evenimentul pentru familii din Grădina Franco-Germană include jocuri, ateliere și activități creative.",
+          "en": "The family event in the Franco-German Gardens features games, workshops and creative activities."
+        },
+        "source_url": "https://www.saarbruecken.de/leben_in_saarbruecken/veranstaltungskalender/veranstaltungs_detailseite/event-64e46897ef0f4"
+      },
+      {
+        "date": "2026-09-26",
+        "title": {
+          "de": "Oktoberkirmes",
+          "hu": "Oktoberkirmes",
+          "ro": "Oktoberkirmes",
+          "en": "October Fair"
+        },
+        "summary": {
+          "de": "Die traditionelle Kirmes auf dem Festplatz Burbach bringt Fahrgeschäfte, Imbissstände und Festatmosphäre für zehn Tage nach Saarbrücken.",
+          "hu": "A hagyományos burbachi vásár tíz napon át vidámparki játékokkal, ételstandokkal és ünnepi hangulattal várja a látogatókat.",
+          "ro": "Bâlciul tradițional de la Burbach aduce timp de zece zile carusele, standuri gastronomice și atmosferă festivă în Saarbrücken.",
+          "en": "The traditional fair at the Burbach fairgrounds brings rides, food stalls and festival atmosphere to Saarbrücken for ten days."
+        },
+        "source_url": "https://www.saarbruecken.de/kultur/kirmes/oktoberkirmes"
+      },
+      {
+        "date": "2026-10-27",
+        "title": {
+          "de": "HYLO Badminton Open 2026",
+          "hu": "HYLO Badminton Open 2026",
+          "ro": "HYLO Badminton Open 2026",
+          "en": "HYLO Badminton Open 2026"
+        },
+        "summary": {
+          "de": "In der Saarlandhalle trifft sich die internationale Badminton-Elite zum World Tour Super 500 Turnier.",
+          "hu": "A Saarlandhalléban a nemzetközi tollaslabda-elit gyűlik össze a World Tour Super 500 tornára.",
+          "ro": "La Saarlandhalle se reunește elita internațională a badmintonului pentru turneul World Tour Super 500.",
+          "en": "The Saarlandhalle hosts the international badminton elite for this World Tour Super 500 tournament."
+        },
+        "source_url": "https://hylo-open.de/en/2026/06/01/ticketshop-fuer-die-hylo-badminton-open-2026-ab-sofort-geoeffnet/"
+      },
+      {
+        "date": "2026-11-18",
+        "title": {
+          "de": "Saarbrücker Christkindl-Markt",
+          "hu": "Saarbrückeni karácsonyi vásár",
+          "ro": "Târgul de Crăciun din Saarbrücken",
+          "en": "Saarbrücken Christmas Market"
+        },
+        "summary": {
+          "de": "Der Christkindlmarkt kehrt in historischer Kulisse mit Buden, Lichtern und saisonalen Attraktionen zurück.",
+          "hu": "A történelmi környezetben megrendezett karácsonyi vásár ismét bódékkal, fényekkel és szezonális attrakciókkal várja a vendégeket.",
+          "ro": "Târgul de Crăciun revine într-un decor istoric cu căsuțe, lumini și atracții de sezon.",
+          "en": "The Christmas market returns in a historic setting with stalls, lights and seasonal attractions."
+        },
+        "source_url": "https://christkindlmarkt-sb.de/"
+      }
+    ]
+  },
+  {
+    "id": "city-oradea",
+    "events": [
+      {
+        "date": "2026-08-19",
+        "title": {
+          "de": "Oradea Summer Film",
+          "hu": "Oradea Summer Film",
+          "ro": "Oradea Summer Film",
+          "en": "Oradea Summer Film"
+        },
+        "summary": {
+          "de": "Im Innenhof der Festung Oradea läuft ein mehrtägiges Open-Air-Filmprogramm unter dem Sommerhimmel.",
+          "hu": "A nagyváradi vár szabadtéri mozijában többnapos nyári filmprogram várja a közönséget.",
+          "ro": "La cinematograful în aer liber din Cetatea Oradea are loc un program de mai multe zile cu proiecții sub cerul verii.",
+          "en": "A multi-day open-air film programme takes over Oradea Fortress under the summer night sky."
+        },
+        "source_url": "https://www.visitoradea.com/events/oradea-summer-film"
+      },
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Blumenkorso und Ungarische Kulturtage",
+          "hu": "Virágkarnevál és Magyar Kulturális Napok",
+          "ro": "Carnavalul Florilor și Zilele Culturii Maghiare",
+          "en": "Flower Carnival and Hungarian Cultural Days"
+        },
+        "summary": {
+          "de": "Der Unirii-Platz empfängt einen Festtag mit Blumenkarneval und Programmen zur ungarischen Kultur.",
+          "hu": "A Főtéren virágkarnevál és magyar kulturális programok töltik meg a várost egy ünnepi napon.",
+          "ro": "Piața Unirii găzduiește o zi festivă cu carnaval floral și programe dedicate culturii maghiare.",
+          "en": "Union Square hosts a festive day combining a flower carnival with Hungarian cultural programming."
+        },
+        "source_url": "https://www.visitoradea.com/events/flower-carnival-and-hungarian-cultural-days"
+      },
+      {
+        "date": "2026-09-25",
+        "title": {
+          "de": "TIFF Oradea",
+          "hu": "TIFF Oradea",
+          "ro": "TIFF Oradea",
+          "en": "TIFF Oradea"
+        },
+        "summary": {
+          "de": "Die Oradea-Ausgabe des rumänischen Filmfestivals bringt preisgekrönte Filme, Premieren und Begegnungen mit Filmschaffenden in die Stadt.",
+          "hu": "A romániai filmfesztivál nagyváradi kiadása díjnyertes filmeket, premiervetítéseket és alkotói találkozókat hoz a városba.",
+          "ro": "Ediția orădeană a festivalului aduce filme premiate, premiere naționale și întâlniri cu actori și creatori apreciați.",
+          "en": "The Oradea edition of the festival brings award-winning films, national premieres and meetings with acclaimed film guests."
+        },
+        "source_url": "https://www.visitoradea.com/events/tiff-oradea"
+      },
+      {
+        "date": "2026-10-09",
+        "title": {
+          "de": "Oradea Festifall",
+          "hu": "Oradea Festifall",
+          "ro": "Oradea Festifall",
+          "en": "Oradea Festifall"
+        },
+        "summary": {
+          "de": "Das Stadtfest im Oktober belebt Oradea mit Kulturveranstaltungen und Feierlichkeiten an zentralen Spielorten.",
+          "hu": "Az októberi városünnep kulturális eseményekkel és központi helyszíneken zajló programokkal tölti meg Nagyváradot.",
+          "ro": "Sărbătoarea orașului animă Oradea în octombrie cu evenimente culturale și programe în principalele spații urbane.",
+          "en": "The city festival enlivens Oradea in October with cultural events and celebrations across key venues."
+        },
+        "source_url": "https://www.visitoradea.com/events/oradea-festifall"
+      },
+      {
+        "date": "2026-11-27",
+        "title": {
+          "de": "Weihnachtsmarkt Oradea",
+          "hu": "Nagyváradi karácsonyi vásár",
+          "ro": "Târgul de Crăciun Oradea",
+          "en": "Oradea Christmas Fair"
+        },
+        "summary": {
+          "de": "Auf dem Unirii-Platz und dem Ferdinand-Platz locken Adventsstände, Konzerte, winterliche Spezialitäten und Begegnungen mit dem Weihnachtsmann.",
+          "hu": "A Főtér és a Ferdinánd tér adventi vására koncertekkel, téli finomságokkal és ünnepi programokkal várja a látogatókat.",
+          "ro": "În Piața Unirii și Piața Ferdinand, târgul aduce colinde, bunătăți de iarnă, concerte festive și întâlniri cu Moș Crăciun.",
+          "en": "Union Square and Ferdinand Square host holiday stalls, festive concerts, winter treats and visits from Santa."
+        },
+        "source_url": "https://www.visitoradea.com/en/events/oradea-christmas-fair"
+      }
+    ]
+  },
+  {
+    "id": "toulon",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "Jazz à Toulon",
+          "hu": "Jazz à Toulon",
+          "ro": "Jazz à Toulon",
+          "en": "Jazz à Toulon",
+          "fr": "Jazz à Toulon"
+        },
+        "summary": {
+          "de": "Das kostenlose Sommerfestival verwandelt Plätze und Strände von Toulon mit Abendkonzerten und Off-Programmen in eine offene Jazzbühne.",
+          "hu": "Az ingyenes nyári fesztivál esti koncertekkel és kísérőprogramokkal jazzszínpaddá alakítja Toulon tereit és strandjait.",
+          "ro": "Festivalul gratuit de vară transformă piețele și plajele din Toulon într-o scenă de jazz în aer liber, cu concerte de seară și evenimente Off.",
+          "en": "The free summer festival turns Toulon’s squares and beaches into an open-air jazz stage with evening concerts and Off events.",
+          "fr": "Le festival gratuit d'été transforme les places et plages de Toulon en scène de jazz à ciel ouvert avec concerts du soir et programme Off."
+        },
+        "source_url": "https://www.provencemed.com/en/agenda/36th-jazz-a-toulon-6780680/"
+      },
+      {
+        "date": "2026-09-11",
+        "title": {
+          "de": "Geschichte von Toulon entdecken",
+          "hu": "Toulon történelmének felfedezése",
+          "ro": "Descoperirea istoriei orașului Toulon",
+          "en": "Discovering the History of Toulon",
+          "fr": "Découvrir l'histoire de Toulon"
+        },
+        "summary": {
+          "de": "Die geführte Stadttour durch das Zentrum stellt Geschichte und Stadtraum von Toulon in einem besucherfreundlichen Rundgang vor.",
+          "hu": "A belvárosi vezetett séta Toulon történelmét és városi örökségét mutatja be egy látogatóbarát körúton.",
+          "ro": "Turul ghidat prin centrul orașului prezintă istoria și patrimoniul urban al Toulonului într-un parcurs accesibil vizitatorilor.",
+          "en": "This guided walk through the city centre introduces visitors to Toulon’s history and urban heritage.",
+          "fr": "Cette visite guidée du centre-ville présente l'histoire et le patrimoine urbain de Toulon dans un parcours accessible aux visiteurs."
+        },
+        "source_url": "https://www.provencemed.com/en/agenda/discovering-the-history-of-toulon-5021627/"
+      },
+      {
+        "date": "2026-11-14",
+        "title": {
+          "de": "Geführte Brunnen-Tour durch Toulon",
+          "hu": "Vezetett szökőkút-túra Toulonban",
+          "ro": "Tur ghidat al fântânilor din Toulon",
+          "en": "Guided Tour of Toulon's Fountains",
+          "fr": "Visite guidée des fontaines de Toulon"
+        },
+        "summary": {
+          "de": "Diese Herbstführung widmet sich den historischen Brunnen der Stadt und führt Besucher durch ein markantes Element des Touloner Stadtbilds.",
+          "hu": "Az őszi vezetett séta a város történelmi szökőkútjait járja végig, amelyek Toulon arculatának fontos részei.",
+          "ro": "Vizita ghidată de toamnă este dedicată fântânilor istorice ale orașului, un element emblematic al peisajului urban din Toulon.",
+          "en": "This autumn guided tour explores Toulon’s historic fountains, one of the city’s distinctive urban features.",
+          "fr": "Cette visite guidée d'automne met à l'honneur les fontaines historiques de Toulon, élément marquant du paysage urbain."
+        },
+        "source_url": "https://www.provencemed.com/en/agenda/guided-tour-of-toulons-fountains-7637098/"
+      },
+      {
+        "date": "2026-11-21",
+        "title": {
+          "de": "Gourmet-Spaziergang in Toulon",
+          "hu": "Gourmet séta Toulonban",
+          "ro": "Plimbare gastronomică la Toulon",
+          "en": "Gourmet Stroll in Toulon",
+          "fr": "Balade gourmande à Toulon"
+        },
+        "summary": {
+          "de": "Die Kombination aus Stadtführung und Verkostungsstopps bietet Besuchern eine kulinarische Entdeckungstour durch Toulons Zentrum.",
+          "hu": "A városnéző séta és a kóstolómegállók együtt gasztronómiai felfedezőúttá teszik a belvárosi programot.",
+          "ro": "Combinația dintre tur ghidat și opriri pentru degustări oferă vizitatorilor o descoperire culinară a centrului orașului Toulon.",
+          "en": "Combining a guided walk with tasting stops, this outing offers visitors a culinary discovery of central Toulon.",
+          "fr": "Combinant visite guidée et pauses dégustation, cette sortie propose une découverte gourmande du centre de Toulon."
+        },
+        "source_url": "https://www.provencemed.com/en/agenda/gourmet-stroll-in-toulon/"
+      },
+      {
+        "date": "2026-12-09",
+        "title": {
+          "de": "Der Nussknacker",
+          "hu": "A diótörő",
+          "ro": "Spărgătorul de nuci",
+          "en": "The Nutcracker",
+          "fr": "Casse-Noisette"
+        },
+        "summary": {
+          "de": "Die Ballettaufführung bringt den Weihnachtsklassiker im Dezember nach Toulon.",
+          "hu": "A balettelőadás decemberben hozza el Toulonba a karácsonyi klasszikust.",
+          "ro": "Spectacolul de balet aduce la Toulon clasicul de Crăciun în luna decembrie.",
+          "en": "This ballet performance brings the holiday classic to Toulon in December.",
+          "fr": "Ce ballet amène le grand classique des fêtes à Toulon en décembre."
+        },
+        "source_url": "https://www.provencemed.com/en/agenda/dance-the-nutcracker-7725464/"
+      }
+    ]
+  }
+]

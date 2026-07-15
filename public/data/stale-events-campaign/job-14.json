@@ -1,0 +1,367 @@
+[
+  {
+    "id": "city-cork",
+    "events": [
+      {
+        "title": {
+          "de": "Cork on a Fork Fest",
+          "hu": "Cork on a Fork Fest",
+          "ro": "Cork on a Fork Fest",
+          "en": "Cork on a Fork Fest"
+        },
+        "summary": {
+          "de": "Das stadtweite Food-Festival feiert fuenf Tage lang Corks Gastronomie mit Verkostungen, Street-Events, Demos und Familienprogrammen im Stadtzentrum.",
+          "hu": "Az ot napon at tarto varosi gasztrofesztival Cork etkezesi kulturajat unnepli kostolokkal, utcai programokkal, bemutatokkal es csaladi esemenyekkel a belvarosban.",
+          "ro": "Festivalul culinar al orasului celebreaza timp de cinci zile gastronomia din Cork prin degustari, evenimente stradale, demonstratii si programe pentru familii in centru.",
+          "en": "The citywide food festival celebrates Cork's food scene over five days with tastings, street events, demonstrations and family activities in the centre."
+        },
+        "date": "2026-08-12",
+        "category": "Food & Drink",
+        "source_url": "https://www.corkcity.ie/en/cork-on-a-fork-fest/"
+      },
+      {
+        "title": {
+          "de": "Priosma Queer Film Festival",
+          "hu": "Priosma Queer Film Festival",
+          "ro": "Festivalul de film queer Priosma",
+          "en": "Priosma Queer Film Festival"
+        },
+        "summary": {
+          "de": "Das Festival bringt mehrere Tage lang queeres Kino und Begleitveranstaltungen nach Cork und ist im offiziellen Veranstaltungskalender der Region gelistet.",
+          "hu": "A fesztival tobb napon at queer filmeket es kapcsolodo programokat hoz Corkba, es szerepel a regio hivatalos rendezvenynaptaraban.",
+          "ro": "Festivalul aduce la Cork mai multe zile de cinema queer si evenimente conexe si apare in calendarul oficial al regiunii.",
+          "en": "The festival brings several days of queer cinema and related events to Cork and is listed in the region's official events calendar."
+        },
+        "date": "2026-09-10",
+        "category": "Film",
+        "source_url": "https://www.purecork.ie/whats-on/11200139/priosma-queer-film-festival"
+      },
+      {
+        "title": {
+          "de": "Cork Folk Festival",
+          "hu": "Cork Folk Festival",
+          "ro": "Cork Folk Festival",
+          "en": "Cork Folk Festival"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Folk-Festival kehrt fuer vier Tage nach Cork City zurueck und bestaetigt seine 47. Ausgabe fuer Oktober 2026.",
+          "hu": "A hagyomanyos folkfesztival negy napra visszater Cork varosaba, a 47. kiadast 2026 oktoberere erositettek meg.",
+          "ro": "Festivalul consacrat de muzica folk revine timp de patru zile in Cork, iar editia a 47-a este confirmata pentru octombrie 2026.",
+          "en": "The long-running folk festival returns to Cork City for four days, with its 47th edition confirmed for October 2026."
+        },
+        "date": "2026-10-08",
+        "category": "Music",
+        "source_url": "https://www.corkfolkfestival.com/2020-dates-14th-october-2020/"
+      },
+      {
+        "title": {
+          "de": "Guinness Cork Jazz Festival",
+          "hu": "Guinness Cork Jazz Festival",
+          "ro": "Guinness Cork Jazz Festival",
+          "en": "Guinness Cork Jazz Festival"
+        },
+        "summary": {
+          "de": "Das große Jazz-Wochenende bespielt Cork City und umliegende Orte mit einem umfangreichen Line-up und dem Guinness Music Trail.",
+          "hu": "A nagy jazzes hosszu hetvege Cork varosat es a kornyezo helyszineket tolti meg koncertekkel es a Guinness Music Trail programjaival.",
+          "ro": "Marele weekend de jazz anima orasul Cork si zonele din jur cu un program amplu si cu traseul Guinness Music Trail.",
+          "en": "The major jazz weekend fills Cork City and nearby locations with a broad line-up and the Guinness Music Trail."
+        },
+        "date": "2026-10-22",
+        "category": "Music",
+        "source_url": "https://guinnesscorkjazz.com/"
+      }
+    ]
+  },
+  {
+    "id": "NL-CT-TIL",
+    "events": [
+      {
+        "title": {
+          "de": "I Prevail",
+          "hu": "I Prevail",
+          "ro": "I Prevail",
+          "en": "I Prevail"
+        },
+        "summary": {
+          "de": "Die US-Metalcore-Band bringt ihre \"The Violent Nature Tour UK & EUROPE 2026\" mit Polaris, Amira Elfeky und Gore nach 013 in Tilburg.",
+          "hu": "Az amerikai metalcore-zenekar a \"The Violent Nature Tour UK & EUROPE 2026\" koncertet hozza el Tilburgba a 013-ba Polaris, Amira Elfeky es Gore. tarsasagaban.",
+          "ro": "Trupa americana de metalcore aduce turneul \"The Violent Nature Tour UK & EUROPE 2026\" la 013 in Tilburg, alaturi de Polaris, Amira Elfeky si Gore.",
+          "en": "The US metalcore band brings its \"The Violent Nature Tour UK & EUROPE 2026\" to 013 in Tilburg with Polaris, Amira Elfeky and Gore."
+        },
+        "date": "2026-10-01",
+        "category": "Music",
+        "source_url": "https://www.013.nl/programma/119879/i-prevail"
+      },
+      {
+        "title": {
+          "de": "Good Kid",
+          "hu": "Good Kid",
+          "ro": "Good Kid",
+          "en": "Good Kid"
+        },
+        "summary": {
+          "de": "Die kanadische Indie-Rock-Band spielt ihre \"Can We Hang Out? Tour\" in Tilburg, begleitet von Last Dinosaurs als Support.",
+          "hu": "A kanadai indie-rock zenekar Tilburgban lep fel a \"Can We Hang Out? Tour\" kereteben, a Last Dinosaurs tamogato koncertjevel.",
+          "ro": "Trupa canadiana de indie rock aduce la Tilburg turneul \"Can We Hang Out? Tour\", cu Last Dinosaurs in deschidere.",
+          "en": "The Canadian indie-rock band brings its \"Can We Hang Out? Tour\" to Tilburg, with Last Dinosaurs as support."
+        },
+        "date": "2026-10-03",
+        "category": "Music",
+        "source_url": "https://www.013.nl/programma/123569/good-kid"
+      },
+      {
+        "title": {
+          "de": "Caravan Palace",
+          "hu": "Caravan Palace",
+          "ro": "Caravan Palace",
+          "en": "Caravan Palace"
+        },
+        "summary": {
+          "de": "Die Pariser Electro-Swing-Band spielt im Herbst 2026 in 013 eine große Show mit Klassikern, neuen Produktionen und erweiterter Besetzung.",
+          "hu": "A parizsi electro-swing zenekar 2026 oszen nagyszabasu koncertet ad a 013-ban klasszikus dalokkal, uj produkciokkal es bovitett felallassal.",
+          "ro": "Trupa pariziana de electro-swing urca pe scena 013 in toamna lui 2026 cu un show amplu, piese clasice, productii noi si formula extinsa.",
+          "en": "The Paris electro-swing band plays a major autumn 2026 show at 013 with signature songs, new productions and an expanded live setup."
+        },
+        "date": "2026-10-29",
+        "category": "Music",
+        "source_url": "https://www.013.nl/programma/129922/caravan-palace"
+      },
+      {
+        "title": {
+          "de": "We Lusse Ze Gruun!",
+          "hu": "We Lusse Ze Gruun!",
+          "ro": "We Lusse Ze Gruun!",
+          "en": "We Lusse Ze Gruun!"
+        },
+        "summary": {
+          "de": "Die traditionelle Tilburg-Jahresrueckschau verbindet Musik, Humor und lokale Themen in einer festlichen Schouwburg-Produktion zum Jahresende.",
+          "hu": "A hagyomanyos tilburgi evzaro visszatekintes zenet, humort es helyi temakat egyesit egy unnepi szinhazi produkcioban.",
+          "ro": "Traditionala retrospectiva de sfarsit de an din Tilburg reuneste muzica, umor si teme locale intr-un spectacol festiv la Schouwburg.",
+          "en": "Tilburg's traditional end-of-year retrospective blends music, humour and local themes in a festive Schouwburg production."
+        },
+        "date": "2026-12-29",
+        "category": "Theatre",
+        "source_url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/we-lusse-ze-gruun-frank-van-pamelen-ea"
+      }
+    ]
+  },
+  {
+    "id": "spain-terrassa-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "7. Vegan Fest Catalunya",
+          "hu": "7. Vegan Fest Catalunya",
+          "ro": "Al 7-lea Vegan Fest Catalunya",
+          "en": "7th Vegan Fest Catalunya"
+        },
+        "summary": {
+          "de": "Das kostenlose Open-Air-Festival im Parc de Vallparadis praesentiert Aussteller und Aktivitaeten rund um Veganismus und wird als groesstes veganes Freiluftfestival Europas beworben.",
+          "hu": "Az ingyenes szabadtéri fesztival a Parc de Vallparadisban kiallitoikkal es programokkal a vegan eletmodra fokuszal, es Europa legnagyobb vegan szabadtéri fesztivaljakent hirdetik.",
+          "ro": "Festivalul gratuit in aer liber din Parc de Vallparadis reuneste expozanti si activitati dedicate veganismului si este promovat ca cel mai mare festival vegan outdoor din Europa.",
+          "en": "The free open-air festival in Parc de Vallparadis brings together exhibitors and activities around vegan living and is promoted as Europe's largest vegan outdoor festival."
+        },
+        "date": "2026-09-19",
+        "category": "Festival",
+        "source_url": "https://visitaterrassa.cat/agenda-event/7e-vegan-fest-catalunya/"
+      },
+      {
+        "title": {
+          "de": "La Revolucion K-Pop",
+          "hu": "La Revolucion K-Pop",
+          "ro": "La Revolucion K-Pop",
+          "en": "La Revolucion K-Pop"
+        },
+        "summary": {
+          "de": "Die LaFACT-Produktion \"Idols - Las guerreras del ritmo\" verbindet Musik, Erzaehlung und starke Buehnenbilder zu einem K-Pop-Spektakel.",
+          "hu": "A LaFACT \"Idols - Las guerreras del ritmo\" eloadaja a zenet, a tortenetmeselest es a latvanyos szinpadi vilagot kapcsolja ossze egy K-pop showban.",
+          "ro": "Productia LaFACT \"Idols - Las guerreras del ritmo\" combina muzica, naratiunea si forta vizuala a scenei intr-un spectacol K-pop.",
+          "en": "LaFACT's \"Idols - Las guerreras del ritmo\" mixes music, storytelling and strong stage visuals in a K-pop themed show."
+        },
+        "date": "2026-09-20",
+        "category": "Show",
+        "source_url": "https://visitaterrassa.cat/agenda-event/la-revolucion-k-pop-lafact/"
+      },
+      {
+        "title": {
+          "de": "Festival TNT",
+          "hu": "TNT Fesztival",
+          "ro": "Festivalul TNT",
+          "en": "TNT Festival"
+        },
+        "summary": {
+          "de": "Terrassa Noves Tendencies widmet drei Tage neuen Formaten der Live-Kunst und positioniert Terrassa erneut als Treffpunkt fuer experimentelle Buehnenformen.",
+          "hu": "A Terrassa Noves Tendencies harom napon at az elo muveszet uj formatumaira fokuszal, es ujra kiserleti eloado-muveszeti talalkozopontta teszi a varost.",
+          "ro": "Terrassa Noves Tendencies dedica trei zile noilor formate de arte vii si reconfirma orasul ca punct de intalnire pentru creatia experimentala.",
+          "en": "Terrassa Noves Tendencies devotes three days to new live-art formats, again making the city a meeting point for experimental performance."
+        },
+        "date": "2026-09-24",
+        "category": "Festival",
+        "source_url": "https://tnt.cat/en/"
+      },
+      {
+        "title": {
+          "de": "Stravinsky",
+          "hu": "Stravinsky",
+          "ro": "Stravinsky",
+          "en": "Stravinsky"
+        },
+        "summary": {
+          "de": "LaFACT praesentiert mit \"Der Feuervogel\" und \"Le Sacre du printemps\" einen Tanzabend mit zwei Stravinsky-Meisterwerken.",
+          "hu": "A LaFACT egy esten mutatja be a \"Tuzmadar\" es a \"Tavaszi aldozat\" tancfeldolgozasat, ket Stravinsky-remekmuvel.",
+          "ro": "LaFACT programeaza o seara de dans cu \"Pasarea de foc\" si \"Ritualul primaverii\", doua lucrari majore de Stravinski.",
+          "en": "LaFACT stages a dance evening built around \"The Firebird\" and \"The Rite of Spring\", two major Stravinsky works."
+        },
+        "date": "2026-10-03",
+        "category": "Dance",
+        "source_url": "https://visitaterrassa.cat/agenda-event/stravinsky-lafact/"
+      }
+    ]
+  },
+  {
+    "id": "debrecen",
+    "events": [
+      {
+        "title": {
+          "de": "Debrecen Wine and Jazz Days 2026",
+          "hu": "Debreceni Bor- es Jazznapok 2026",
+          "ro": "Zilele Vinului si Jazzului din Debrecen 2026",
+          "en": "Debrecen Wine and Jazz Days 2026"
+        },
+        "summary": {
+          "de": "Im Grossen Wald verbinden sich Weine, Masterclasses und Jazzkonzerte zu mehreren Sommerabenden in einem der beliebtesten Parks von Debrecen.",
+          "hu": "A Nagyerdoben borok, mesterkurzusok es jazzkoncertek egyesulnek tobb nyari esten Debrecen egyik legnepszerubb parkjaban.",
+          "ro": "In Marele Parc, vinurile, masterclassurile si concertele de jazz se reunesc in mai multe seri de vara intr-unul dintre cele mai populare spatii din Debrecen.",
+          "en": "In Great Forest Park, wines, masterclasses and jazz concerts come together over several summer evenings in one of Debrecen's best-known park settings."
+        },
+        "date": "2026-08-06",
+        "category": "Festival",
+        "source_url": "https://debreceniprogramok.com/en/programs/debrecen-wine-and-jazz-days-2026"
+      },
+      {
+        "title": {
+          "de": "Debrecen Flower Carnival 2026",
+          "hu": "Debreceni Viragkarneval 2026",
+          "ro": "Carnavalul Florilor din Debrecen 2026",
+          "en": "Debrecen Flower Carnival 2026"
+        },
+        "summary": {
+          "de": "Das mehrtaegige Sommerhighlight rund um den Kossuth-Platz bietet Blumenwagen, Konzerte, Tanz und familienfreundliche Kulturprogramme.",
+          "hu": "A Kossuth ter koruli tobbnapos nyari foprogram viragkocsikkal, koncertekkel, tancprogramokkal es csaladbarat kulturkinalattal varja a latogatokat.",
+          "ro": "Principalul eveniment estival din jurul Pietei Kossuth aduce care alegorice cu flori, concerte, dans si programe culturale pentru familii.",
+          "en": "The multi-day summer highlight around Kossuth Square features flower floats, concerts, dance and family-friendly cultural programming."
+        },
+        "date": "2026-08-18",
+        "category": "Festival",
+        "source_url": "https://debreceniprogramok.com/en/programs/debrecen-flower-carnival-2026"
+      },
+      {
+        "title": {
+          "de": "GALIBA Parade",
+          "hu": "GALIBA felvonulas",
+          "ro": "Parada GALIBA",
+          "en": "GALIBA Parade"
+        },
+        "summary": {
+          "de": "Die kinderfreundliche GALIBA-Parade gehoert zum Flower-Carnival-Programm und bringt am Nachmittag eine bunte Prozession in den Memorial Garden.",
+          "hu": "A csaladbarat GALIBA felvonulas a Viragkarneval programjahoz tartozik, es szines menettel erkezik delutan a Memorial Garden tersegbe.",
+          "ro": "Parada GALIBA, destinata familiilor, face parte din programul Carnavalului Florilor si aduce dupa-amiaza o procesiune colorata in Memorial Garden.",
+          "en": "The family-friendly GALIBA Parade is part of the Flower Carnival programme and brings a colourful afternoon procession to Memorial Garden."
+        },
+        "date": "2026-08-19",
+        "category": "Parade",
+        "source_url": "https://debreceniprogramok.com/en/programs/galiba-parade-supported-by-emerson-mi-debrecen-flower-carnival-2026"
+      },
+      {
+        "title": {
+          "de": "Queen Symphonic Live",
+          "hu": "Queen Symphonic Live",
+          "ro": "Queen Symphonic Live",
+          "en": "Queen Symphonic Live"
+        },
+        "summary": {
+          "de": "Im Koelcsey Center erklingt ein orchestrales Queen-Tribut mit 30-koepfigem Ensemble und drei Saengern, die Hits und seltenere Songs neu interpretieren.",
+          "hu": "A Kolcsey Kozpontban egy 30 fos zenekar es harom enekes ad elo szimfonikus Queen-tribute musort slagerdalokkal es ritkabban hallhato szamokkal.",
+          "ro": "La Kölcsey Center are loc un omagiu simfonic Queen cu o orchestra de 30 de muzicieni si trei solisti, care reinterpreteaza hituri si piese mai rare.",
+          "en": "At Kölcsey Center, a 30-piece orchestra and three singers perform a symphonic Queen tribute with major hits and lesser-known songs."
+        },
+        "date": "2026-11-15",
+        "category": "Music",
+        "source_url": "https://debreceniprogramok.com/en/programs/queen-symphonic-live"
+      }
+    ]
+  },
+  {
+    "id": "cartagena",
+    "events": [
+      {
+        "title": {
+          "de": "Ficcmoteca de Verano",
+          "hu": "Ficcmoteca de Verano",
+          "ro": "Ficcmoteca de Verano",
+          "en": "Ficcmoteca de Verano"
+        },
+        "summary": {
+          "de": "Der sommerliche Freiluftkino-Zyklus des Filmfestivals bringt im August kostenlose Vorfuehrungen in den Parque Torres.",
+          "hu": "A filmfesztival nyari szabadtéri vetitessorozata augusztusban ingyenes eloadasokat hoz a Parque Torres helyszinere.",
+          "ro": "Ciclul estival de cinema in aer liber al festivalului aduce in august proiectii gratuite in Parque Torres.",
+          "en": "The film festival's summer open-air series brings free screenings to Parque Torres throughout August."
+        },
+        "date": "2026-08-04",
+        "category": "Film",
+        "source_url": "https://cultura.cartagena.es/detalle_agenda.asp?c=&d=09%2F06%2F2026&h=&id=6257&idPortal=37"
+      },
+      {
+        "title": {
+          "de": "Cartagena Negra",
+          "hu": "Cartagena Negra",
+          "ro": "Cartagena Negra",
+          "en": "Cartagena Negra"
+        },
+        "summary": {
+          "de": "Die Krimi- und Mystery-Tage bringen mehrere Tage lang Lesungen, Podien, Kurzfilmvorfuehrungen und Preisverleihungen ins Kulturzentrum Ramon Alonso Luzzy.",
+          "hu": "A krimi- es misztikumfesztival tobb napon at felolvasasokat, kerekasztalakat, rovidfilmes vetiteseket es dijatadokat hoz a Ramon Alonso Luzzy kulturkozpontba.",
+          "ro": "Zilele dedicate literaturii noir si misterului aduc mai multe zile de lecturi, mese rotunde, proiectii de scurtmetraje si premii la centrul cultural Ramon Alonso Luzzy.",
+          "en": "The noir and mystery gathering brings several days of talks, readings, short-film screenings and awards to Centro Cultural Ramon Alonso Luzzy."
+        },
+        "date": "2026-09-07",
+        "category": "Literature",
+        "source_url": "https://www.cartagenanegra.com/programa"
+      },
+      {
+        "title": {
+          "de": "Fest der Karthager und Roemer",
+          "hu": "Karhagoiak es romaiak unnepe",
+          "ro": "Fiesta Cartaginezilor si Romanilor",
+          "en": "Carthaginians and Romans Fiesta"
+        },
+        "summary": {
+          "de": "Das internationale Fest stellt die Eroberung Cartagenas durch Scipio nach und fuellt die Stadt zehn Tage lang mit historischen Darstellungen und Festakten.",
+          "hu": "A nemzetkozi hiru unnep Scipio cartagenai hoditasat eleveniti fel, es tiz napon at tortenelmi bemutatokkal es varosi unnepsegekkel tolti meg a varost.",
+          "ro": "Sarbatoarea de interes turistic international recreeaza cucerirea Cartagenei de catre Scipio si umple orasul timp de zece zile cu reconstituiri istorice si festivitati.",
+          "en": "This international-interest festival recreates Scipio's conquest of Cartagena and fills the city with historical reenactments and celebrations for ten days."
+        },
+        "date": "2026-09-18",
+        "category": "Festival",
+        "source_url": "https://www.spain.info/en/calendar/fiestas-carthaginians-romans/"
+      },
+      {
+        "title": {
+          "de": "Mica P. Hinson im Cartagena Jazz Festival",
+          "hu": "Mica P. Hinson a Cartagena Jazz Festivalen",
+          "ro": "Mica P. Hinson la Cartagena Jazz Festival",
+          "en": "Mica P. Hinson at Cartagena Jazz Festival"
+        },
+        "summary": {
+          "de": "Der Singer-Songwriter tritt Ende Oktober im Centro Cultural Ramon Alonso Luzzy als Teil des Cartagena Jazz Festival auf.",
+          "hu": "Az enekes-dalszerzo oktober vegen lep fel a Centro Cultural Ramon Alonso Luzzy helyszinen a Cartagena Jazz Festival reszekent.",
+          "ro": "Cantaretul si compozitorul urca pe scena de la Centro Cultural Ramon Alonso Luzzy la sfarsit de octombrie in cadrul Cartagena Jazz Festival.",
+          "en": "The singer-songwriter performs at Centro Cultural Ramon Alonso Luzzy in late October as part of Cartagena Jazz Festival."
+        },
+        "date": "2026-10-29",
+        "category": "Music",
+        "source_url": "https://cultura.cartagena.es/detalle_agenda.asp?c=&d=02%2F07%2F2026&h=&id=6361&idPortal=37"
+      }
+    ]
+  }
+]

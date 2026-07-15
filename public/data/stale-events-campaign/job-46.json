@@ -1,0 +1,363 @@
+[
+  {
+    "id": "city-tuebingen-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Tübinger Orgelsommer",
+          "hu": "Tübingeni orgonanyár",
+          "ro": "Vara orgii din Tübingen",
+          "en": "Tübingen Organ Summer"
+        },
+        "summary": {
+          "de": "Die Konzertreihe in der Tübinger Stiftskirche bringt vom Sommer bis Anfang September Orgelmusik in den Stadtkern und ist besonders für Kulturreisende gut planbar.",
+          "hu": "A tübingeni Stiftskirche nyári koncertsorozata orgonazenét hoz a belvárosba egészen szeptember elejéig, ezért könnyen beilleszthető egy városlátogatásba.",
+          "ro": "Seria de concerte de la Stiftskirche aduce muzică de orgă în centrul orașului pe tot parcursul verii până la începutul lui septembrie, fiind ușor de inclus într-o vizită urbană.",
+          "en": "This summer concert series at Tübingen's Stiftskirche brings organ music into the city center through early September and is easy to fit into a city break."
+        },
+        "date": "2026-07-28",
+        "source_url": "https://www.tuebingen.de/40491.html"
+      },
+      {
+        "title": {
+          "de": "Schlosshofkonzerte Tübingen",
+          "hu": "Tübingeni kastélyudvari koncertek",
+          "ro": "Concertele din curtea castelului din Tübingen",
+          "en": "Tübingen Castle Courtyard Concerts"
+        },
+        "summary": {
+          "de": "Fünf Open-Air-Abende im Hof von Schloss Hohentübingen verbinden Musical, Klassik, Soul und Pop in einer markanten historischen Kulisse oberhalb der Altstadt.",
+          "hu": "Öt szabadtéri este a hohen-tübingeni vár udvarán musicalt, klasszikus zenét, soult és popot kínál a történelmi óváros fölött.",
+          "ro": "Cinci seri în aer liber în curtea castelului Hohentübingen combină musical, muzică clasică, soul și pop într-un cadru istoric deasupra centrului vechi.",
+          "en": "Five open-air evenings in the courtyard of Hohentübingen Castle mix musical, classical, soul and pop in a historic setting above the old town."
+        },
+        "date": "2026-07-29",
+        "source_url": "https://www.tuebingen.de/schlosshofkonzerte/"
+      },
+      {
+        "title": {
+          "de": "Umbrisch-provenzalischer Markt und Erbe-Lauf",
+          "hu": "Umbro-provence-i piac és Erbe-futás",
+          "ro": "Piața umbro-provensală și cursa Erbe",
+          "en": "Umbrian-Provençal Market and Erbe Run"
+        },
+        "summary": {
+          "de": "Der mehrtägige Markt bringt mediterrane Spezialitäten in die Altstadt; dazu kommt mit dem Erbe-Lauf ein sportlicher Programmpunkt für Besucherinnen und Besucher.",
+          "hu": "A többnapos piac mediterrán ízeket hoz az óvárosba, az Erbe-futás pedig sportos kísérőprogramot ad a rendezvényhez.",
+          "ro": "Piața de mai multe zile aduce specialități mediteraneene în centrul vechi, iar Erbe Run adaugă o componentă sportivă pentru vizitatori.",
+          "en": "This multi-day market brings Mediterranean specialties into the old town, with the Erbe Run adding a sporty element for visitors."
+        },
+        "date": "2026-09-16",
+        "source_url": "https://www.tuebingen.de/3393.html"
+      },
+      {
+        "title": {
+          "de": "Schokoladenfestival chocolART",
+          "hu": "chocolART csokoládéfesztivál",
+          "ro": "Festivalul de ciocolată chocolART",
+          "en": "chocolART Chocolate Festival"
+        },
+        "summary": {
+          "de": "Tübingens großes Schokoladenfestival füllt die Innenstadt mehrere Tage lang mit Marktständen, süßen Spezialitäten und vorweihnachtlicher Atmosphäre.",
+          "hu": "Tübingen nagy csokoládéfesztiválja több napon át tölti meg a belvárost árusokkal, édességekkel és adventi hangulattal.",
+          "ro": "Marele festival de ciocolată al orașului umple centrul Tübingenului timp de mai multe zile cu standuri, delicii dulci și atmosferă de Advent.",
+          "en": "Tübingen's major chocolate festival fills the city center for several days with stalls, sweet specialties and a pre-Christmas atmosphere."
+        },
+        "date": "2026-12-01",
+        "source_url": "https://www.tuebingen.de/3393.html"
+      }
+    ]
+  },
+  {
+    "id": "italy-alessandria-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "I Grandi Bis",
+          "hu": "I Grandi Bis",
+          "ro": "I Grandi Bis",
+          "en": "I Grandi Bis"
+        },
+        "summary": {
+          "de": "Das Festival Alessandria Barocca e non solo… bringt mit diesem Abend Violine und Klavier in die Kirche Nostra Signora di Fatima in Litta Parodi, bei freiem Eintritt.",
+          "hu": "Az Alessandria Barocca e non solo… fesztivál ezen az estén hegedűt és zongorát visz a litta parodi-i Nostra Signora di Fatima templomba, ingyenes belépéssel.",
+          "ro": "În cadrul festivalului Alessandria Barocca e non solo…, acest concert aduce vioară și pian în biserica Nostra Signora di Fatima din Litta Parodi, cu acces liber.",
+          "en": "Part of the Alessandria Barocca e non solo… festival, this free-entry evening brings violin and piano to the church of Nostra Signora di Fatima in Litta Parodi."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://www.comune.alessandria.it/media/1563"
+      },
+      {
+        "title": {
+          "de": "Fra sogno e realtà",
+          "hu": "Fra sogno e realtà",
+          "ro": "Fra sogno e realtà",
+          "en": "Fra sogno e realtà"
+        },
+        "summary": {
+          "de": "In Spinetta Marengo widmet sich das Festival einem Abend für zwei besondere Violinen und lädt Besucherinnen und Besucher in die Kirche der Natività di Maria ein.",
+          "hu": "Spinetta Marengóban a fesztivál egy különleges, két rendkívüli hegedűre épülő estet rendez a Natività di Maria templomban.",
+          "ro": "La Spinetta Marengo, festivalul propune o seară dedicată întâlnirii cu două viori remarcabile, găzduită de biserica Natività di Maria.",
+          "en": "In Spinetta Marengo, the festival stages an evening built around two remarkable violins inside the church of the Nativity of Mary."
+        },
+        "date": "2026-09-03",
+        "source_url": "https://www.comune.alessandria.it/media/1563"
+      },
+      {
+        "title": {
+          "de": "Frammenti di viaggio",
+          "hu": "Frammenti di viaggio",
+          "ro": "Frammenti di viaggio",
+          "en": "Frammenti di viaggio"
+        },
+        "summary": {
+          "de": "Das freie Konzert in Valmadonna verbindet Gitarre und Akkordeon und gehört zum Herbstprogramm des international ausgerichteten Barockfestivals der Stadt.",
+          "hu": "A valmadonnai ingyenes koncert gitárt és harmonikát kapcsol össze, és a város nemzetközi barokkfesztiváljának őszi programjához tartozik.",
+          "ro": "Concertul gratuit din Valmadonna reunește chitară și acordeon și face parte din programul de toamnă al festivalului baroc internațional al orașului.",
+          "en": "This free concert in Valmadonna pairs guitar and accordion as part of the autumn program of the city's international baroque festival."
+        },
+        "date": "2026-09-20",
+        "source_url": "https://www.comune.alessandria.it/media/1563"
+      },
+      {
+        "title": {
+          "de": "Le storie di San Francesco: dai Fioretti a Umberto Eco",
+          "hu": "Le storie di San Francesco: dai Fioretti a Umberto Eco",
+          "ro": "Le storie di San Francesco: dai Fioretti a Umberto Eco",
+          "en": "Stories of Saint Francis: from the Fioretti to Umberto Eco"
+        },
+        "summary": {
+          "de": "Im Auditorium des Konservatoriums A. Vivaldi verbindet dieser Abend Klavier, Erzählung und Bilder zu einem kulturhistorischen Programm mit lokalem Bezug.",
+          "hu": "Az A. Vivaldi Konzervatórium auditóriumában ez az est zongorát, narrációt és képi anyagot kapcsol össze egy helyi kötődésű kultúrtörténeti programban.",
+          "ro": "La auditoriumul Conservatorului A. Vivaldi, această seară combină pian, narațiune și imagini într-un program cultural-istoric cu puternică ancoră locală.",
+          "en": "At the A. Vivaldi Conservatory auditorium, this evening combines piano, narration and images in a local culture-and-history program."
+        },
+        "date": "2026-10-01",
+        "source_url": "https://www.comune.alessandria.it/media/1563"
+      },
+      {
+        "title": {
+          "de": "Le stanze di Liszt a Roma, in Vaticano, a Tivoli",
+          "hu": "Le stanze di Liszt a Roma, in Vaticano, a Tivoli",
+          "ro": "Le stanze di Liszt a Roma, in Vaticano, a Tivoli",
+          "en": "Liszt's Rooms in Rome, the Vatican and Tivoli"
+        },
+        "summary": {
+          "de": "Das Abschlusskonzert des Festivals im Palatium Vetus präsentiert ein Konzert-Erzählformat rund um Liszt und eignet sich gut für einen herbstlichen Kulturbesuch in Alessandria.",
+          "hu": "A fesztivál záróestje a Palatium Vetusban Liszt köré épített koncert-mesélő formátumot kínál, ideális őszi kulturális program Alessandriában.",
+          "ro": "Concertul de închidere al festivalului, la Palatium Vetus, propune un format de tip concert-povestire dedicat lui Liszt, potrivit pentru o escapadă culturală de toamnă.",
+          "en": "The festival's closing event at Palatium Vetus offers a concert-storytelling format centered on Liszt and suits an autumn cultural visit to Alessandria."
+        },
+        "date": "2026-11-08",
+        "source_url": "https://www.comune.alessandria.it/media/1563"
+      }
+    ]
+  },
+  {
+    "id": "italy-sassari-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "I mercanti di anime",
+          "hu": "I mercanti di anime",
+          "ro": "I mercanti di anime",
+          "en": "I mercanti di anime"
+        },
+        "summary": {
+          "de": "Die kostenlose Literaturveranstaltung auf der Piazza Castello verbindet eine Buchvorstellung mit musikalischen Improvisationen junger Künstler aus Sassari.",
+          "hu": "Az ingyenes irodalmi esemény a Piazza Castellón könyvbemutatót és sassari fiatal művészek zenei improvizációit kapcsolja össze.",
+          "ro": "Evenimentul literar gratuit din Piazza Castello combină lansarea unei cărți cu improvizații muzicale ale unor tineri artiști din Sassari.",
+          "en": "This free literary event in Piazza Castello combines a book presentation with musical improvisations by young artists from Sassari."
+        },
+        "date": "2026-07-30",
+        "source_url": "https://www.comune.sassari.it/it/vivere-il-comune/eventi/evento/I-mercanti-di-anime/"
+      },
+      {
+        "title": {
+          "de": "La sonnambula",
+          "hu": "La sonnambula",
+          "ro": "La sonnambula",
+          "en": "La sonnambula"
+        },
+        "summary": {
+          "de": "Eine weitere frei zugängliche Sommerbuchvorstellung auf der Piazza Castello mit lokaler Moderation und musikalischer Einstimmung im historischen Zentrum.",
+          "hu": "Újabb szabadon látogatható nyári könyves est a Piazza Castellón helyi moderálással és zenei bevezetéssel a történelmi központban.",
+          "ro": "O nouă prezentare de carte cu acces liber în Piazza Castello, cu introducere locală și moment muzical în centrul istoric.",
+          "en": "Another free summer book event in Piazza Castello, with local hosting and a musical introduction in the historic center."
+        },
+        "date": "2026-08-06",
+        "source_url": "https://www.comune.sassari.it/it/vivere-il-comune/eventi/evento/La-sonnambula/"
+      },
+      {
+        "title": {
+          "de": "I Candelieri",
+          "hu": "I Candelieri",
+          "ro": "I Candelieri",
+          "en": "The Candlesticks Procession"
+        },
+        "summary": {
+          "de": "Sassaris wichtigste Traditionsfeier am 14. August ehrt die Madonna Assunta mit der berühmten Faradda, einem spektakulären Abstieg der großen Kerzenträger durch die Stadt.",
+          "hu": "Sassari legfontosabb hagyományos ünnepe augusztus 14-én a Madonna Assuntát tiszteli a híres Faraddával, amikor a nagy gyertyatartókat ünnepélyesen végigviszik a városon.",
+          "ro": "Cea mai importantă sărbătoare tradițională a orașului, pe 14 august, o cinstește pe Madonna Assunta prin celebra Faradda, coborârea spectaculoasă a candelabrelor uriașe prin oraș.",
+          "en": "Sassari's most important traditional celebration on 14 August honors the Madonna Assunta with the famous Faradda, a spectacular descent of giant candlesticks through the city."
+        },
+        "date": "2026-08-14",
+        "source_url": "https://www.turismosassari.it/component/content/article/discesa-candelieri-sassari?catid=22"
+      },
+      {
+        "title": {
+          "de": "All'ombra di Montevecchio. Le donne di G.A. Sanna",
+          "hu": "All'ombra di Montevecchio. Le donne di G.A. Sanna",
+          "ro": "All'ombra di Montevecchio. Le donne di G.A. Sanna",
+          "en": "All'ombra di Montevecchio. Le donne di G.A. Sanna"
+        },
+        "summary": {
+          "de": "Auf der Piazza Castello läuft im September eine weitere offene Literaturveranstaltung mit Buchgespräch und musikalischer Einleitung junger Sassareser Künstler.",
+          "hu": "Szeptemberben a Piazza Castellón újabb nyitott irodalmi est várja a közönséget könyvbeszélgetéssel és sassari fiatal művészek zenei bevezetőjével.",
+          "ro": "În septembrie, Piazza Castello găzduiește un nou eveniment literar deschis publicului, cu dialog despre carte și introducere muzicală semnată de tineri artiști locali.",
+          "en": "In September, Piazza Castello hosts another open literary event featuring a book talk and a musical introduction by young local artists."
+        },
+        "date": "2026-09-03",
+        "source_url": "https://www.comune.sassari.it/it/vivere-il-comune/eventi/evento/Allombra-di-Montevecchio.-Le-donne-di-G.A.-Sanna/"
+      },
+      {
+        "title": {
+          "de": "Sette volte Sassari",
+          "hu": "Sette volte Sassari",
+          "ro": "Sette volte Sassari",
+          "en": "Sette volte Sassari"
+        },
+        "summary": {
+          "de": "Die Veranstaltung auf der Piazza Castello präsentiert Andrea Taffis Buch über Sassari und eignet sich für Reisende, die im Frühherbst ein lokales Kulturprogramm suchen.",
+          "hu": "A Piazza Castellón tartott esemény Andrea Taffi Sassari-könyvét mutatja be, és jó program azoknak, akik kora őszi helyi kulturális élményt keresnek.",
+          "ro": "Evenimentul din Piazza Castello prezintă cartea lui Andrea Taffi despre Sassari și se potrivește vizitatorilor care caută un program cultural local la început de toamnă.",
+          "en": "This Piazza Castello event presents Andrea Taffi's book on Sassari and suits visitors looking for a local cultural outing in early autumn."
+        },
+        "date": "2026-09-10",
+        "source_url": "https://www.comune.sassari.it/it/vivere-il-comune/eventi/evento/Sette-volte-Sassari/"
+      }
+    ]
+  },
+  {
+    "id": "satu-mare",
+    "events": [
+      {
+        "title": {
+          "de": "Vara Sătmăreană - Acustic",
+          "hu": "Vara Sătmăreană - Akusztik",
+          "ro": "Vara Sătmăreană - Acustic",
+          "en": "Satu Mare Summer - Acoustic"
+        },
+        "summary": {
+          "de": "Das Sommerwochenende im UFO Park und Red Hat Yard ist Teil der städtischen Reihe Vara Sătmăreană und bringt abends offene Live-Unterhaltung in die Stadt.",
+          "hu": "Az UFO Parkban és a Red Hat Yardban rendezett nyári hétvége a Vara Sătmăreană városi programsorozat része, esti élő műsorokkal.",
+          "ro": "Weekendul de vară din Parcul UFO și Red Hat Yard face parte din seria urbană Vara Sătmăreană și aduce divertisment live în aer liber, seara.",
+          "en": "This summer weekend in UFO Park and Red Hat Yard is part of the city's Vara Sătmăreană series and brings open-air live entertainment in the evening."
+        },
+        "date": "2026-07-30",
+        "source_url": "https://gmz.ro/cultura-26"
+      },
+      {
+        "title": {
+          "de": "Caravana TIFF Unlimited la Satu Mare",
+          "hu": "TIFF Unlimited karaván Szatmárnémetiben",
+          "ro": "Caravana TIFF Unlimited la Satu Mare",
+          "en": "TIFF Unlimited Caravan in Satu Mare"
+        },
+        "summary": {
+          "de": "Das Open-Air-Kinowochenende verwandelt den Pasajul Corneliu Coposu in ein temporäres Filmareal mit Kurzfilmen und Titeln aus der Auswahl des TIFF-Festivals.",
+          "hu": "Ez a szabadtéri mozis hétvége a Corneliu Coposu átjárót ideiglenes filmhelyszínné alakítja rövidfilmekkel és a TIFF válogatásából érkező alkotásokkal.",
+          "ro": "Weekendul de cinema în aer liber transformă Pasajul Corneliu Coposu într-un spațiu temporar de proiecții, cu scurtmetraje și filme din selecția TIFF.",
+          "en": "This open-air cinema weekend turns Pasajul Corneliu Coposu into a temporary screening venue with short films and titles from the TIFF selection."
+        },
+        "date": "2026-08-09",
+        "source_url": "https://gmz.ro/cultura-26"
+      },
+      {
+        "title": {
+          "de": "World Music Festival",
+          "hu": "World Music Festival",
+          "ro": "World Music Festival",
+          "en": "World Music Festival"
+        },
+        "summary": {
+          "de": "Das dreitägige Festival rund um den Feuerwehrturm bringt internationale Acts und farbenreiche Weltmusik nach Satu Mare und markiert den musikalischen Saisonausklang.",
+          "hu": "A tűzoltótorony körüli háromnapos fesztivál nemzetközi fellépőket és sokszínű világzenét hoz Szatmárnémetibe a nyár végén.",
+          "ro": "Festivalul de trei zile din jurul Turnului Pompierilor aduce artiști internaționali și ritmuri world music variate la Satu Mare, la finalul verii.",
+          "en": "This three-day festival around the Firefighters' Tower brings international acts and colorful world music to Satu Mare at the end of summer."
+        },
+        "date": "2026-09-06",
+        "source_url": "https://gmz.ro/cultura-26"
+      }
+    ]
+  },
+  {
+    "id": "czechrepublic-hradec-kralove-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Landscape Festival",
+          "hu": "Landscape Festival",
+          "ro": "Landscape Festival",
+          "en": "Landscape Festival"
+        },
+        "summary": {
+          "de": "Das internationale Festival für Landschaftsarchitektur und Kunst im öffentlichen Raum läuft in Hradec Králové über den Sommer und lädt zu Ausstellungen, Installationen und Debatten ein.",
+          "hu": "A tájépítészetről és köztéri művészetről szóló nemzetközi fesztivál egész nyáron át zajlik Hradec Královéban kiállításokkal, installációkkal és beszélgetésekkel.",
+          "ro": "Festivalul internațional de arhitectură peisageră și artă în spațiul public se desfășoară pe tot parcursul verii la Hradec Králové, cu expoziții, instalații și dezbateri.",
+          "en": "This international festival of landscape architecture and public-space art runs through the summer in Hradec Králové with exhibitions, installations and debates."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://www.hkinfo.cz/en/Program"
+      },
+      {
+        "title": {
+          "de": "Chilli festival Mechov vol. 11",
+          "hu": "Chilli festival Mechov vol. 11",
+          "ro": "Chilli festival Mechov vol. 11",
+          "en": "Chilli Festival Mechov vol. 11"
+        },
+        "summary": {
+          "de": "Das Tagesfestival auf dem náměstí 5. května richtet sich an Fans scharfer Küche und kombiniert Kostproben mit Wettbewerben und Festivalatmosphäre im Zentrum.",
+          "hu": "Az náměstí 5. května téren zajló egynapos fesztivál a csípős ízek kedvelőinek szól, kóstolókkal, versenyekkel és belvárosi hangulattal.",
+          "ro": "Festivalul de o zi din piața 5. května este dedicat iubitorilor de gusturi picante și combină degustări, concursuri și atmosferă de festival în centru.",
+          "en": "This one-day festival on náměstí 5. května is aimed at spice lovers and combines tastings, competitions and a lively central setting."
+        },
+        "date": "2026-08-22",
+        "source_url": "https://www.hkinfo.cz/cs/kalendar-akci-den.html?den1=22&dendo=22&mesic=8&mesic1=08&mesicdo=08&rok=2026&rok1=2026&rokdo=2026"
+      },
+      {
+        "title": {
+          "de": "Farmářské trhy 2026",
+          "hu": "Farmářské trhy 2026",
+          "ro": "Farmářské trhy 2026",
+          "en": "Farmers' Market 2026"
+        },
+        "summary": {
+          "de": "Der Markt am Tylovo nábřeží bietet regionale Produkte in einem gut zugänglichen Uferbereich und eignet sich besonders für einen entspannten Samstagvormittag.",
+          "hu": "A Tylovo nábřeží parti piac regionális termékeket kínál könnyen elérhető vízparti helyszínen, így ideális szombat délelőtti program.",
+          "ro": "Piața de pe Tylovo nábřeží oferă produse regionale într-o zonă riverană ușor accesibilă, potrivită pentru o dimineață relaxată de sâmbătă.",
+          "en": "The market on Tylovo nábřeží offers regional produce in an easy-to-reach riverside setting and works well for a relaxed Saturday morning."
+        },
+        "date": "2026-10-24",
+        "source_url": "https://www.hkinfo.cz/cs/kalendar-akci-den.html?den1=24&dendo=24&mesic=10&mesic1=10&mesicdo=10&rok=26&rok1=2026&rokdo=2026"
+      },
+      {
+        "title": {
+          "de": "Adventní gospely 2026: Carole Alston & Christmas Gospel (USA)",
+          "hu": "Adventní gospely 2026: Carole Alston & Christmas Gospel (USA)",
+          "ro": "Adventní gospely 2026: Carole Alston & Christmas Gospel (USA)",
+          "en": "Advent Gospel 2026: Carole Alston & Christmas Gospel (USA)"
+        },
+        "summary": {
+          "de": "Das Adventskonzert in der Petrof Gallery bringt authentischen Gospel nach Hradec Králové und ist ein klarer Dezember-Höhepunkt für Musikreisende.",
+          "hu": "A Petrof Gallery adventi koncertje autentikus gospelt hoz Hradec Královéba, és erős decemberi zenei programnak ígérkezik.",
+          "ro": "Concertul de Advent din Petrof Gallery aduce gospel autentic la Hradec Králové și este un punct forte al lunii decembrie pentru vizitatorii interesați de muzică.",
+          "en": "This Advent concert at Petrof Gallery brings authentic gospel to Hradec Králové and stands out as a December music highlight."
+        },
+        "date": "2026-12-19",
+        "source_url": "https://www.hkinfo.cz/cs/kalendar-akci-den.html?den1=19&dendo=19&mesic=12&mesic1=12&mesicdo=12&rok=26&rok1=2026&rokdo=2026"
+      }
+    ]
+  }
+]

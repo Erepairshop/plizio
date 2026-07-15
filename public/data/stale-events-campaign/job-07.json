@@ -1,0 +1,405 @@
+[
+  {
+    "id": "cordoba",
+    "events": [
+      {
+        "title": {
+          "de": "Velá de la Fuensanta 2026",
+          "hu": "Velá de la Fuensanta 2026",
+          "ro": "Velá de la Fuensanta 2026",
+          "en": "Velá de la Fuensanta 2026"
+        },
+        "summary": {
+          "de": "Das beliebte Stadtteilfest rund um das Santuario de la Fuensanta bietet mehrere Tage lang Fahrgeschäfte, Familienprogramm und die typische Festatmosphäre der Cordobeser Sommerfeste.",
+          "hu": "A Santuario de la Fuensanta körüli hagyományos városrészi ünnep több napon át vidámparkkal, családi programokkal és a cordóbai nyári vásárok hangulatával várja a látogatókat.",
+          "ro": "Sărbătoarea tradițională din jurul Sanctuarului de la Fuensanta aduce mai multe zile de atracții, activități pentru familii și atmosfera specifică târgurilor de vară din Córdoba.",
+          "en": "The traditional neighborhood fair around the Sanctuary of Fuensanta brings several days of rides, family activities and the festive atmosphere of Córdoba's summer fairs."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://www.turismodecordoba.org/vela-de-la-fuensanta"
+      },
+      {
+        "title": {
+          "de": "Cabalcor - Pferdemesse von Córdoba 2026",
+          "hu": "Cabalcor - Córdobai Lóvásár 2026",
+          "ro": "Cabalcor - Târgul ecvestru din Córdoba 2026",
+          "en": "Cabalcor - Córdoba Horse Fair 2026"
+        },
+        "summary": {
+          "de": "In den Königlichen Stallungen präsentiert Cabalcor Pferdeshows, Reitkunst und ein auf das Pferdeerbe der Stadt ausgerichtetes Programm an einem der symbolträchtigsten Orte Córdobas.",
+          "hu": "A Királyi Istállókban rendezett Cabalcor lovasbemutatókat, díjlovaglást és Córdoba lovas örökségére épülő programot kínál a város egyik legismertebb történelmi helyszínén.",
+          "ro": "Organizat la Grajdurile Regale, Cabalcor propune spectacole ecvestre, demonstrații de dresaj și un program centrat pe patrimoniul hipic al orașului într-un cadru emblematic.",
+          "en": "Held at the Royal Stables, Cabalcor features equestrian shows, riding displays and a programme focused on the city's horse heritage in one of Córdoba's signature historic venues."
+        },
+        "date": "2026-09-08",
+        "source_url": "https://www.turismodecordoba.org/cabalcor-cordoba-horse-fair"
+      },
+      {
+        "title": {
+          "de": "Cosmopoética 2026",
+          "hu": "Cosmopoética 2026",
+          "ro": "Cosmopoética 2026",
+          "en": "Cosmopoética 2026"
+        },
+        "summary": {
+          "de": "Das internationale Poesiefestival bringt Lesungen, Musik, Gespräche, Workshops und Kinderangebote nach Córdoba und richtet sich an ein breites Publikum im Herbstkalender der Stadt.",
+          "hu": "A nemzetközi költészeti fesztivál felolvasásokkal, zenével, beszélgetésekkel, workshopokkal és gyermekprogramokkal tölti meg Córdobát az őszi kulturális szezonban.",
+          "ro": "Festivalul internațional de poezie aduce la Córdoba lecturi, muzică, conversații, ateliere și activități pentru copii, adresându-se unui public foarte larg.",
+          "en": "The international poetry festival fills Córdoba with readings, music, talks, workshops and children's activities, attracting a broad audience in the city's autumn season."
+        },
+        "date": "2026-09-25",
+        "source_url": "https://www.turismodecordoba.org/cosmopoetica-poetas-del-mundo-en-cordoba"
+      },
+      {
+        "title": {
+          "de": "FLORA Internationales Blumenfestival 2026",
+          "hu": "FLORA Nemzetközi Virágfesztivál 2026",
+          "ro": "FLORA Festivalul Internațional al Florilor 2026",
+          "en": "FLORA International Flower Festival 2026"
+        },
+        "summary": {
+          "de": "FLORA verwandelt Innenhöfe und markante Orte in Córdoba mit großformatigen Blumeninstallationen und macht die Stadt im Oktober zu einer Bühne für zeitgenössische Floralkunst.",
+          "hu": "A FLORA nagyszabású viráginstallációkkal tölti meg Córdoba udvarait és nevezetes helyszíneit, így októberben a város a kortárs virágművészet színterévé válik.",
+          "ro": "FLORA transformă curți și spații reprezentative din Córdoba prin instalații florale monumentale și face din oraș o scenă pentru arta florală contemporană în octombrie.",
+          "en": "FLORA transforms courtyards and landmark spaces across Córdoba with large-scale floral installations, turning the city into a stage for contemporary floral art in October."
+        },
+        "date": "2026-10-12",
+        "source_url": "https://www.turismodecordoba.org/flora-internationall-flower-festival"
+      }
+    ]
+  },
+  {
+    "id": "city-it-catania",
+    "events": [
+      {
+        "title": {
+          "de": "I Puritani",
+          "hu": "I Puritani",
+          "ro": "I Puritani",
+          "en": "I Puritani"
+        },
+        "summary": {
+          "de": "Das Teatro Massimo Bellini bringt Bellinis Oper in eigener Produktion mit mehreren Aufführungen Ende September und Anfang Oktober im historischen Opernhaus von Catania auf die Bühne.",
+          "hu": "A Teatro Massimo Bellini saját produkcióban mutatja be Bellini operáját több szeptember végi és október eleji előadással Catania történelmi operaházában.",
+          "ro": "Teatro Massimo Bellini prezintă opera lui Bellini într-o producție proprie, cu mai multe reprezentații la sfârșit de septembrie și început de octombrie în istoricul teatru liric al orașului.",
+          "en": "Teatro Massimo Bellini stages Bellini's opera in a house production with multiple performances in late September and early October at Catania's historic opera house."
+        },
+        "date": "2026-09-25",
+        "source_url": "https://www.teatromassimobellini.it/eventi/i-puritani-2026/"
+      },
+      {
+        "title": {
+          "de": "Feier zum 2755. Jahrestag der Gründung Catanias",
+          "hu": "Catania alapításának 2755. évfordulós ünnepe",
+          "ro": "Celebration of the 2755th anniversary of the founding of Catania",
+          "en": "Celebration of the 2755th anniversary of the founding of Catania"
+        },
+        "summary": {
+          "de": "Zum Stadtjubiläum veranstaltet das Teatro Massimo Bellini ein Sonderkonzert mit Werken von Bellini, Berlioz, Rossini, Donizetti und Wagner sowie Uraufführungen mit Marranzano und Orchester.",
+          "hu": "A városalapítás évfordulójára a Teatro Massimo Bellini különleges hangversenyt rendez Bellini, Berlioz, Rossini, Donizetti és Wagner műveivel, valamint ősbemutatókkal marranzanóra és zenekarra.",
+          "ro": "Cu ocazia aniversării orașului, Teatro Massimo Bellini organizează un concert special cu lucrări de Bellini, Berlioz, Rossini, Donizetti și Wagner, plus prime audiții pentru marranzano și orchestră.",
+          "en": "For the city anniversary, Teatro Massimo Bellini hosts a special concert featuring works by Bellini, Berlioz, Rossini, Donizetti and Wagner, plus world premieres for marranzano and orchestra."
+        },
+        "date": "2026-10-04",
+        "source_url": "https://www.teatromassimobellini.it/eventi/celebrazione-del-2755-anniversario-della-fondazione-della-citta-di-catania/"
+      },
+      {
+        "title": {
+          "de": "Carmen",
+          "hu": "Carmen",
+          "ro": "Carmen",
+          "en": "Carmen"
+        },
+        "summary": {
+          "de": "Bizets Oper kehrt Ende November in einer Produktion des Teatro Massimo Bellini mit mehreren Terminen zurück und bietet einen großen Opernabend im Kulturkalender von Catania.",
+          "hu": "Bizet operája november végén több előadással tér vissza a Teatro Massimo Bellini produkciójában, és jelentős őszi operaprogramot kínál Cataniában.",
+          "ro": "Opera lui Bizet revine la sfârșitul lui noiembrie într-o producție a Teatro Massimo Bellini, cu mai multe reprezentații incluse în agenda culturală de toamnă a Cataniei.",
+          "en": "Bizet's opera returns in late November in a Teatro Massimo Bellini production, with several performances forming a major operatic highlight in Catania."
+        },
+        "date": "2026-11-27",
+        "source_url": "https://www.teatromassimobellini.it/eventi/carmen-2026/"
+      },
+      {
+        "title": {
+          "de": "Dornröschen",
+          "hu": "Csipkerózsika",
+          "ro": "Frumoasa adormită",
+          "en": "The Sleeping Beauty"
+        },
+        "summary": {
+          "de": "Das Ballett der Oper von Tiflis gastiert im Dezember mit Tschaikowskys Dornröschen am Teatro Massimo Bellini und bringt klassische Tanzabende in die Vorweihnachtszeit.",
+          "hu": "A Tbiliszi Opera balettegyüttese decemberben Csajkovszkij Csipkerózsikájával vendégszerepel a Teatro Massimo Belliniben, klasszikus táncesteket hozva az adventi időszakba.",
+          "ro": "Ansamblul de balet al Operei din Tbilisi sosește în decembrie la Teatro Massimo Bellini cu Frumoasa adormită de Ceaikovski, aducând seri clasice de dans în perioada de dinaintea Crăciunului.",
+          "en": "The Tbilisi Opera ballet visits Teatro Massimo Bellini in December with Tchaikovsky's The Sleeping Beauty, bringing a run of classical dance performances before Christmas."
+        },
+        "date": "2026-12-15",
+        "source_url": "https://www.teatromassimobellini.it/eventi/la-bella-addormentata-2026/"
+      }
+    ]
+  },
+  {
+    "id": "city-montpellier-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Beer Love Fest 2026",
+          "hu": "Beer Love Fest 2026",
+          "ro": "Beer Love Fest 2026",
+          "en": "Beer Love Fest 2026",
+          "fr": "Beer Love Fest 2026"
+        },
+        "summary": {
+          "de": "Das Festival bringt Anfang September mehrere Tage lang Craft-Bier, Begegnungen und Abendprogramm nach Montpellier und richtet sich an erwachsene Besucherinnen und Besucher.",
+          "hu": "A fesztivál szeptember elején több napon át kézműves sörökkel, találkozókkal és esti programokkal várja a felnőtt közönséget Montpellier-ben.",
+          "ro": "Festivalul aduce la început de septembrie mai multe zile de bere artizanală, întâlniri și program de seară pentru publicul adult din Montpellier.",
+          "en": "The festival brings several days of craft beer, meetups and evening programming to Montpellier in early September for adult visitors.",
+          "fr": "Le festival propose début septembre plusieurs jours consacrés aux bières artisanales, aux rencontres et aux animations du soir à Montpellier."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://agenda.montpellier.fr/event/53468/beer-love-fest"
+      },
+      {
+        "title": {
+          "de": "Les Internationales de la Guitare 2026",
+          "hu": "Les Internationales de la Guitare 2026",
+          "ro": "Les Internationales de la Guitare 2026",
+          "en": "Les Internationales de la Guitare 2026",
+          "fr": "Les Internationales de la Guitare 2026"
+        },
+        "summary": {
+          "de": "Das große Gitarrenfestival verbindet Konzerte aus Genres von Flamenco bis Rock mit mehreren Spielorten in Montpellier und der Metropole.",
+          "hu": "A nagyszabású gitárfesztivál a flamencótól a rockig több műfajt köt össze, és számos helyszínen zajlik Montpellier-ben és a környező településeken.",
+          "ro": "Marele festival al chitarei reunește concerte din genuri de la flamenco la rock, desfășurate în mai multe săli din Montpellier și din metropolă.",
+          "en": "The major guitar festival spans genres from flamenco to rock, with concerts staged across Montpellier and nearby metropolitan venues.",
+          "fr": "Ce grand festival de la guitare réunit des concerts allant du flamenco au rock dans plusieurs salles de Montpellier et de la métropole."
+        },
+        "date": "2026-09-26",
+        "source_url": "https://www.montpellier-france.com/discover/festive/top-of-the-musical-events/the-internationales-de-la-guitare/"
+      },
+      {
+        "title": {
+          "de": "Internationale Messe von Montpellier 2026",
+          "hu": "Montpellier Nemzetközi Vásár 2026",
+          "ro": "Târgul Internațional din Montpellier 2026",
+          "en": "Montpellier International Fair 2026",
+          "fr": "Foire internationale de Montpellier 2026"
+        },
+        "summary": {
+          "de": "Die große Herbstmesse im Parc des Expositions kombiniert Ausstellungsflächen, Gastronomie und Themenbereiche und zählt zu den publikumsstarken Veranstaltungen der Region.",
+          "hu": "A Parc des Expositions őszi nagyrendezvénye kiállítási csarnokokat, gasztronómiát és tematikus területeket egyesít, és a régió egyik leglátogatottabb közönségeseménye.",
+          "ro": "Marea manifestare de toamnă de la Parc des Expositions combină pavilioane expoziționale, gastronomie și zone tematice și este una dintre cele mai frecventate întâlniri publice din regiune.",
+          "en": "The major autumn fair at the Parc des Expositions combines exhibition halls, food and themed areas and is one of the region's biggest public events.",
+          "fr": "La grande foire d'automne du Parc des Expositions réunit halls d'exposition, gastronomie et espaces thématiques parmi les rendez-vous les plus fréquentés de la région."
+        },
+        "date": "2026-10-09",
+        "source_url": "https://www.montpellier-france.com/whats-on/all-the-events-2/la-foire-internationale-de-montpellier-perols-en-6176727/"
+      },
+      {
+        "title": {
+          "de": "Halloween Ukulélé Festival 2026",
+          "hu": "Halloween Ukulélé Festival 2026",
+          "ro": "Halloween Ukulélé Festival 2026",
+          "en": "Halloween Ukulélé Festival 2026",
+          "fr": "Halloween Ukulélé Festival 2026"
+        },
+        "summary": {
+          "de": "Der Montpellier Ukulele Club organisiert sein traditionelles Festival über das Halloween-Wochenende mit Konzerten und gemeinschaftlichem Musikprogramm in der Stadt.",
+          "hu": "A Montpellier Ukulele Club a halloweeni hosszú hétvégén rendezi meg hagyományos fesztiválját koncertekkel és közösségi zenei programokkal.",
+          "ro": "Montpellier Ukulele Club își organizează festivalul tradițional în weekendul de Halloween, cu concerte și activități muzicale comunitare în oraș.",
+          "en": "The Montpellier Ukulele Club stages its traditional festival over the Halloween weekend, with concerts and community music events in the city.",
+          "fr": "Le Montpellier Ukulele Club organise son festival traditionnel pendant le week-end d'Halloween avec concerts et animations musicales conviviales."
+        },
+        "date": "2026-10-29",
+        "source_url": "https://www.montpellier-france.com/whats-on/all-the-events-2/halloween-ukulele-festival-montpellier-en-6269007/"
+      },
+      {
+        "title": {
+          "de": "Muse - The Wow! Signal Europa Tour 2026",
+          "hu": "Muse - The Wow! Signal Europa Tour 2026",
+          "ro": "Muse - The Wow! Signal Europa Tour 2026",
+          "en": "Muse - The Wow! Signal Europa Tour 2026",
+          "fr": "Muse - The Wow! Signal Europa Tour 2026"
+        },
+        "summary": {
+          "de": "Die britische Band Muse spielt zwei große Arena-Konzerte in Montpellier, einer der wenigen Frankreich-Stationen ihrer Europa-Tour 2026.",
+          "hu": "A brit Muse zenekar két nagyszabású arénakoncertet ad Montpellier-ben, amely a 2026-os európai turné kevés francia állomásainak egyike.",
+          "ro": "Trupa britanică Muse susține două concerte mari la Montpellier, unul dintre puținele opriri franceze ale turneului său european din 2026.",
+          "en": "British band Muse plays two large arena shows in Montpellier, one of only a few French stops on its 2026 European tour.",
+          "fr": "Le groupe britannique Muse donnera deux grands concerts à Montpellier, l'une des rares étapes françaises de sa tournée européenne 2026."
+        },
+        "date": "2026-12-03",
+        "source_url": "https://www.montpellier-france.com/whats-on/all-the-events-2/muse-the-wow-signal-europa-tour-2026-perols-en-6598395/"
+      }
+    ]
+  },
+  {
+    "id": "mannheim-extra",
+    "events": [
+      {
+        "title": {
+          "de": "AnimagiC 2026",
+          "hu": "AnimagiC 2026",
+          "ro": "AnimagiC 2026",
+          "en": "AnimagiC 2026"
+        },
+        "summary": {
+          "de": "Die große Convention für Anime, Manga und japanische Popkultur bringt Konzerte, Ehrengäste, Premieren und Händler in den Rosengarten Mannheim.",
+          "hu": "A nagyszabású anime-, manga- és japán popkulturális rendezvény koncertekkel, díszvendégekkel, premiervetítésekkel és kiállítókkal érkezik a Rosengartenbe.",
+          "ro": "Marea convenție dedicată anime-ului, manga și culturii pop japoneze aduce la Rosengarten concerte, invitați speciali, premiere și expozanți.",
+          "en": "The major anime, manga and Japanese pop culture convention brings concerts, special guests, premieres and exhibitors to the Rosengarten in Mannheim."
+        },
+        "date": "2026-07-31",
+        "source_url": "https://www.visit-mannheim.de/stories/veranstaltungshighlights-2026-in-mannheim"
+      },
+      {
+        "title": {
+          "de": "Guitar Summit 2026",
+          "hu": "Guitar Summit 2026",
+          "ro": "Guitar Summit 2026",
+          "en": "Guitar Summit 2026"
+        },
+        "summary": {
+          "de": "Europas große Gitarrenmesse und Festival vereint internationale Aussteller, Instrumententests und Live-Auftritte im Congress Center Rosengarten.",
+          "hu": "Európa egyik legnagyobb gitárkiállítása és fesztiválja nemzetközi kiállítókat, hangszerbemutatókat és élő fellépéseket hoz a Rosengartenbe.",
+          "ro": "Unul dintre cele mai mari târguri și festivaluri europene dedicate chitarei reunește expozanți internaționali, testări de instrumente și concerte live la Rosengarten.",
+          "en": "One of Europe's major guitar fairs and festivals gathers international exhibitors, instrument demos and live performances at the Rosengarten congress center."
+        },
+        "date": "2026-09-25",
+        "source_url": "https://www.visit-mannheim.de/stories/veranstaltungshighlights-2026-in-mannheim"
+      },
+      {
+        "title": {
+          "de": "Mannheimer Oktobermess 2026",
+          "hu": "Mannheimer Oktobermess 2026",
+          "ro": "Oktobermess Mannheim 2026",
+          "en": "Mannheim Oktobermess 2026"
+        },
+        "summary": {
+          "de": "Das größte Volksfest der Region bespielt den Neuen Messplatz mit Fahrgeschäften, Riesenrad, Imbissständen und einem generationenübergreifenden Jahrmarktprogramm.",
+          "hu": "A régió legnagyobb népünnepélye a Neuer Messplatzon vidámparki játékokkal, óriáskerékkel, ételstandokkal és minden korosztálynak szóló vásári programmal várja a közönséget.",
+          "ro": "Cel mai mare târg popular al regiunii ocupă Neuer Messplatz cu atracții, roată panoramică, gastronomie și un program de bâlci pentru toate vârstele.",
+          "en": "The region's largest funfair fills Neuer Messplatz with rides, a Ferris wheel, food stalls and a traditional fair programme for all ages."
+        },
+        "date": "2026-10-01",
+        "source_url": "https://www.visit-mannheim.de/stories/feste-in-mannheim"
+      },
+      {
+        "title": {
+          "de": "Marktmeile Mannheim 2026",
+          "hu": "Marktmeile Mannheim 2026",
+          "ro": "Marktmeile Mannheim 2026",
+          "en": "Marktmeile Mannheim 2026"
+        },
+        "summary": {
+          "de": "Die Marktmeile erinnert an die historischen Marktrechte Mannheims und bündelt an einem Tag mehrere Märkte, darunter Kunst-, Stoff- und Spezialitätenstände in der Innenstadt.",
+          "hu": "A Marktmeile Mannheim történelmi vásárjogait ünnepli, és egy napon több piacot kapcsol össze a belvárosban, köztük művészeti, textil- és gasztronómiai kínálattal.",
+          "ro": "Marktmeile comemorează vechile drepturi de piață ale orașului și reunește într-o singură zi mai multe piețe, inclusiv de artă, textile și specialități în centrul Mannheimului.",
+          "en": "Marktmeile celebrates Mannheim's historic market rights and combines several markets in one day, including art, fabric and specialty stalls across the city center."
+        },
+        "date": "2026-10-11",
+        "source_url": "https://www.visit-mannheim.de/stories/feste-in-mannheim"
+      },
+      {
+        "title": {
+          "de": "Mannheimer Weihnachtsmärkte 2026",
+          "hu": "Mannheimi karácsonyi vásárok 2026",
+          "ro": "Târgurile de Crăciun din Mannheim 2026",
+          "en": "Mannheim Christmas Markets 2026"
+        },
+        "summary": {
+          "de": "Drei Weihnachtsmärkte, darunter der traditionsreiche Markt am Wasserturm, bringen vom späten November bis kurz vor Weihnachten Lichter, Buden und saisonale Spezialitäten in die Stadt.",
+          "hu": "Három adventi vásár, köztük a hagyományos Wasserturm melletti piac, fénnyel, ünnepi standokkal és szezonális finomságokkal tölti meg a várost november végétől karácsonyig.",
+          "ro": "Trei piețe de Crăciun, inclusiv tradiționalul târg de la Wasserturm, aduc lumini, căsuțe și specialități de sezon în oraș de la sfârșitul lui noiembrie până înainte de Crăciun.",
+          "en": "Three Christmas markets, including the long-running one by the Water Tower, fill the city with lights, stalls and seasonal treats from late November to just before Christmas."
+        },
+        "date": "2026-11-23",
+        "source_url": "https://www.visit-mannheim.de/stories/mannheimer-weihnachtsmarkt"
+      }
+    ]
+  },
+  {
+    "id": "spain-valladolid-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "La Oreja de Van Gogh in Valladolid",
+          "hu": "La Oreja de Van Gogh Valladolidban",
+          "ro": "La Oreja de Van Gogh la Valladolid",
+          "en": "La Oreja de Van Gogh in Valladolid"
+        },
+        "summary": {
+          "de": "Die Band startet mit Amaia Montero in neuer Besetzung ihre große 2026er Tour in Valladolid und spielt ihre bekanntesten Songs in der Pingüinos Arena.",
+          "hu": "A zenekar Amaia Montero visszatérésével Valladolidban áll színpadra a 2026-os turnén, és legismertebb dalait játssza a Pingüinos Arenában.",
+          "ro": "Trupa pornește noul turneu din 2026 cu Amaia Montero din nou în prim-plan și interpretează marile sale hituri la Pingüinos Arena din Valladolid.",
+          "en": "The band brings its major 2026 tour to Valladolid with Amaia Montero back at the front, performing its best-known songs at Pingüinos Arena."
+        },
+        "date": "2026-08-27",
+        "source_url": "https://info.valladolid.es/en/evento/concierto-oreja-de-van-gogh"
+      },
+      {
+        "title": {
+          "de": "Cosquín Rock 2026",
+          "hu": "Cosquín Rock 2026",
+          "ro": "Cosquín Rock 2026",
+          "en": "Cosquín Rock 2026"
+        },
+        "summary": {
+          "de": "Das Musikfestival ist als Teil des städtischen Kulturkalenders angesetzt und zählt zu den touristisch relevanten Großkonzerten des Spätsommers in Valladolid.",
+          "hu": "A zenei fesztivál a városi kulturális naptár része, és Valladolid késő nyári, turisztikailag is jelentős nagyrendezvényei közé tartozik.",
+          "ro": "Festivalul muzical figurează în calendarul cultural municipal și este unul dintre marile evenimente de la finalul verii cu impact turistic în Valladolid.",
+          "en": "The music festival is part of the municipal cultural calendar and ranks among Valladolid's major late-summer events with tourism appeal."
+        },
+        "date": "2026-08-30",
+        "source_url": "https://info.valladolid.es/en/evento/cosquin-rock-2026"
+      },
+      {
+        "title": {
+          "de": "Feria y Fiestas de la Virgen de San Lorenzo 2026",
+          "hu": "A Virgen de San Lorenzo ünnepi vására 2026",
+          "ro": "Feria y Fiestas de la Virgen de San Lorenzo 2026",
+          "en": "Feria y Fiestas de la Virgen de San Lorenzo 2026"
+        },
+        "summary": {
+          "de": "Das wichtigste Stadtfest von Valladolid bündelt mehrere Tage lang Konzerte, Folklore, Gastronomie und Volksprogramm rund um die Schutzpatronin der Stadt.",
+          "hu": "Valladolid legfontosabb városi ünnepe több napon át koncerteket, folklórt, gasztronómiát és közösségi programokat kínál a város védőszentje köré szervezve.",
+          "ro": "Cea mai importantă sărbătoare urbană din Valladolid reunește pe durata mai multor zile concerte, folclor, gastronomie și activități populare dedicate patroanei orașului.",
+          "en": "Valladolid's main city festival brings together several days of concerts, folklore, food and public celebrations centered on the city's patron saint."
+        },
+        "date": "2026-09-03",
+        "source_url": "https://info.valladolid.es/evento/actividades-en-barrios"
+      },
+      {
+        "title": {
+          "de": "Seminci 2026",
+          "hu": "Seminci 2026",
+          "ro": "Seminci 2026",
+          "en": "Seminci 2026"
+        },
+        "summary": {
+          "de": "Die Semana Internacional de Cine de Valladolid ist das zentrale Autorenfilmfestival der Stadt und bespielt Ende Oktober das Teatro Calderón und weitere Säle.",
+          "hu": "A Semana Internacional de Cine de Valladolid a város vezető szerzői filmfesztiválja, amely október végén a Teatro Calderónban és más helyszíneken zajlik.",
+          "ro": "Semana Internacional de Cine de Valladolid este principalul festival de film de autor al orașului și se desfășoară la sfârșitul lui octombrie la Teatro Calderón și în alte săli.",
+          "en": "The Semana Internacional de Cine de Valladolid is the city's flagship auteur film festival, centered on Teatro Calderón and other venues in late October."
+        },
+        "date": "2026-10-23",
+        "source_url": "https://info.valladolid.es/evento/seminci-2026"
+      },
+      {
+        "title": {
+          "de": "INTUR 2026",
+          "hu": "INTUR 2026",
+          "ro": "INTUR 2026",
+          "en": "INTUR 2026"
+        },
+        "summary": {
+          "de": "Die internationale Messe für Inlandstourismus bringt Reiseziele, Tourismusunternehmen und Fachbesucher nach Valladolid und öffnet am Wochenende auch für das Publikum.",
+          "hu": "A belföldi turizmus nemzetközi vására úti célokat, turisztikai vállalkozásokat és szakmai szereplőket hoz Valladolidba, majd hétvégén a nagyközönség előtt is megnyílik.",
+          "ro": "Târgul internațional dedicat turismului intern reunește la Valladolid destinații, companii turistice și profesioniști, apoi se deschide și pentru vizitatorii publici în weekend.",
+          "en": "The international inland tourism fair brings destinations, tourism businesses and industry participants to Valladolid, before opening to public visitors over the weekend."
+        },
+        "date": "2026-11-12",
+        "source_url": "https://feriavalladolid.com/intur/intur-2026-diferentes-formas-de-participar-para-impulsar-tu-destino-o-empresa/"
+      }
+    ]
+  }
+]

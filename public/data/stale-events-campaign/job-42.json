@@ -1,0 +1,323 @@
+[
+  {
+    "id": "arezzo",
+    "events": [
+      {
+        "title": {
+          "de": "Fiera Antiquaria di Arezzo",
+          "hu": "Arezzo Régiségvásár",
+          "ro": "Târgul de Antichități din Arezzo",
+          "en": "Arezzo Antiques Fair"
+        },
+        "summary": {
+          "de": "Der historische Innenstadtmarkt von Arezzo bringt an jedem ersten Wochenende des Monats mehr als 500 Aussteller für Antiquitäten, Vintage und Sammlerstücke zusammen.",
+          "hu": "Arezzo történelmi központjában minden hónap első hétvégéjén több mint 500 kiállító kínál régiségeket, vintage tárgyakat és gyűjtői darabokat.",
+          "ro": "Piața din centrul istoric al orașului Arezzo reunește în primul weekend al fiecărei luni peste 500 de expozanți de antichități, vintage și obiecte de colecție.",
+          "en": "The market in Arezzo's historic centre gathers more than 500 exhibitors of antiques, vintage pieces and collectibles on the first weekend of each month."
+        },
+        "source_url": "https://www.discoverarezzo.com/en/events/arezzo-antiques-fair/",
+        "date": "2026-08-01"
+      },
+      {
+        "title": {
+          "de": "SMART, Stories Music ARezzo Theatre",
+          "hu": "SMART, Stories Music ARezzo Theatre",
+          "ro": "SMART, Stories Music ARezzo Theatre",
+          "en": "SMART, Stories Music ARezzo Theatre"
+        },
+        "summary": {
+          "de": "Das Sommerfestival verteilt Konzerte, Erzählformate und Theater an ungewöhnliche Orte in Arezzo; am 3. August schließt Alessandro Fiori das Programm in der Arena Eden ab.",
+          "hu": "A nyári fesztivál koncerteket, történetmesélést és színházat visz Arezzo különleges helyszíneire; augusztus 3-án Alessandro Fiori zárja a programot az Arena Edenben.",
+          "ro": "Festivalul de vară aduce concerte, storytelling și teatru în spații neobișnuite din Arezzo; pe 3 august Alessandro Fiori închide programul la Arena Eden.",
+          "en": "The summer festival spreads concerts, storytelling and theatre across unusual venues in Arezzo; on 3 August Alessandro Fiori closes the programme at Arena Eden."
+        },
+        "source_url": "https://www.discoverarezzo.com/en/events/smart-stories-music-arezzo-theatre/",
+        "date": "2026-08-03"
+      },
+      {
+        "title": {
+          "de": "Giostra del Saracino",
+          "hu": "Giostra del Saracino",
+          "ro": "Giostra del Saracino",
+          "en": "Giostra del Saracino"
+        },
+        "summary": {
+          "de": "Die 150. Ausgabe von Arezzos berühmtem historischen Lanzenreiten bringt Umzüge, Proben und das eigentliche Turnier auf die Piazza Grande.",
+          "hu": "Arezzo híres történelmi lovagi tornájának 150. kiadása felvonulásokat, próbákat és a fő versenyt hozza a Piazza Grandéra.",
+          "ro": "Cea de-a 150-a ediție a celebrei întreceri istorice din Arezzo aduce parade, repetiții și turnirul principal în Piazza Grande.",
+          "en": "The 150th edition of Arezzo's famous historical joust brings parades, rehearsals and the main tournament to Piazza Grande."
+        },
+        "source_url": "https://www.discoverarezzo.com/en/events/the-2026-jousting-year/",
+        "date": "2026-09-06"
+      },
+      {
+        "title": {
+          "de": "Alberto Zorzi, außergewöhnlicher Goldschmied und Künstlerjuwel",
+          "hu": "Alberto Zorzi, rendkívüli ötvösszobrász és művészékszer",
+          "ro": "Alberto Zorzi, sculptor-orfevrier extraordinar și bijuteria de autor",
+          "en": "Alberto Zorzi, Extraordinary Goldsmith Sculptor and the Artist's Jewel"
+        },
+        "summary": {
+          "de": "Die Ausstellung in Arezzo widmet sich Alberto Zorzis Schmuck- und Skulpturenwerk und läuft im Stadtzentrum bis Anfang Oktober.",
+          "hu": "Az arezzói kiállítás Alberto Zorzi ékszer- és szobrászati munkásságát mutatja be, és október elejéig látogatható a városközpontban.",
+          "ro": "Expoziția din Arezzo este dedicată creației de bijuterie și sculptură a lui Alberto Zorzi și poate fi vizitată în centrul orașului până la începutul lui octombrie.",
+          "en": "The exhibition in Arezzo is dedicated to Alberto Zorzi's jewellery and sculptural work and remains on view in the city centre until early October."
+        },
+        "source_url": "https://www.discoverarezzo.com/en/events/alberto-zorzi-extraordinary-goldsmith-sculptor-and-the-artists-jewel/",
+        "date": "2026-08-01"
+      }
+    ]
+  },
+  {
+    "id": "tatabanya",
+    "events": [
+      {
+        "title": {
+          "de": "Szent István Nap",
+          "hu": "Szent István Nap",
+          "ro": "Ziua Sfântului Ștefan",
+          "en": "Saint Stephen's Day"
+        },
+        "summary": {
+          "de": "Am Csónakázó-tó plant Tatabánya zum Nationalfeiertag einen Familientag mit Konzerten, Vorführungen, Brotwidmung und Festprogramm.",
+          "hu": "Tatabánya a Csónakázó-tónál családi nappal, koncertekkel, bemutatókkal és kenyérszenteléssel ünnepli az államalapítás napját.",
+          "ro": "Tatabánya marchează sărbătoarea națională la lacul Csónakázó cu o zi pentru familii, concerte, demonstrații și binecuvântarea pâinii.",
+          "en": "Tatabánya marks the national holiday at Csónakázó Lake with a family day of concerts, demonstrations and the blessing of the bread."
+        },
+        "source_url": "https://avertesagoraja.hu/programok/programdetailpage/724/szent-istvan-nap",
+        "date": "2026-08-20"
+      },
+      {
+        "title": {
+          "de": "Tatabányai Bányásznap",
+          "hu": "Tatabányai Bányásznap",
+          "ro": "Ziua Minerilor din Tatabánya",
+          "en": "Tatabánya Miners' Day"
+        },
+        "summary": {
+          "de": "Die traditionsreiche Stadtfeier erinnert drei Tage lang mit Gedenkveranstaltungen, Konzerten, Vorführungen, Marktständen und Familienprogrammen an das Bergbauerbe.",
+          "hu": "A hagyományos városi ünnep három napon át megemlékezésekkel, koncertekkel, bemutatókkal, vásárral és családi programokkal idézi fel a bányászati örökséget.",
+          "ro": "Sărbătoarea tradițională a orașului evocă timp de trei zile moștenirea minieră prin ceremonii, concerte, demonstrații, târg și programe pentru familii.",
+          "en": "The traditional city celebration recalls the mining heritage over three days with ceremonies, concerts, demonstrations, market stalls and family activities."
+        },
+        "source_url": "https://tatabanya.hu/esemenyek/Egyeb/1128-Banyasznap-Tatabanyan",
+        "date": "2026-09-04"
+      },
+      {
+        "title": {
+          "de": "Bánhidai búcsú",
+          "hu": "Bánhidai búcsú",
+          "ro": "Târgul și sărbătoarea din Bánhida",
+          "en": "Bánhida Fair and Feast"
+        },
+        "summary": {
+          "de": "Rund um das Puskin Művelődési Ház läuft das traditionelle Wochenendfest in Bánhida mit Marktstimmung und Gemeindeleben.",
+          "hu": "A Puskin Művelődési Ház környékén rendezett hagyományos bánhidai hétvégi ünnep vásári hangulatot és közösségi programot kínál.",
+          "ro": "Sărbătoarea tradițională de weekend din Bánhida, organizată în jurul Casei de Cultură Puskin, aduce atmosferă de târg și programe comunitare.",
+          "en": "The traditional Bánhida weekend celebration around the Puskin Cultural House brings a fair-like atmosphere and community programming."
+        },
+        "source_url": "https://tatabanya.hu/esemenyek/Egyeb/1463-Banhidai-bucsu",
+        "date": "2026-09-28"
+      },
+      {
+        "title": {
+          "de": "Adventi Vásár és Ablaknyitogató",
+          "hu": "Adventi Vásár és Ablaknyitogató",
+          "ro": "Târgul de Advent și Calendarul cu ferestre",
+          "en": "Advent Market and Window-Opening Calendar"
+        },
+        "summary": {
+          "de": "Auf dem Megyeháza tér eröffnet Tatabánya den Advent mit täglichem Marktprogramm und Fensteröffnungen bis Heiligabend.",
+          "hu": "Tatabánya a Megyeháza téren napi vásári programokkal és adventi ablaknyitással készül december 24-ig.",
+          "ro": "În piața Megyeháza, Tatabánya deschide sezonul de Advent cu program zilnic de târg și deschiderea ferestrelor până în Ajunul Crăciunului.",
+          "en": "In Megyeháza Square, Tatabánya opens the Advent season with daily market activities and window openings through Christmas Eve."
+        },
+        "source_url": "https://tatabanya.hu/esemenyek/Egyeb/1236-Adventi-Vasar-es-Ablaknyitogato",
+        "date": "2026-12-03"
+      }
+    ]
+  },
+  {
+    "id": "italy-andria-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "R*Estate ad Andria",
+          "hu": "R*Estate ad Andria",
+          "ro": "R*Estate ad Andria",
+          "en": "R*Estate ad Andria"
+        },
+        "summary": {
+          "de": "Das städtische Sommerprogramm bündelt von Juli bis Ende September in vielen Vierteln von Andria Konzerte, Theater, Führungen, Kunst, Sport und Familienangebote.",
+          "hu": "Az önkormányzati nyári programsorozat júliustól szeptember végéig Andria számos városrészében kínál koncerteket, színházat, tárlatvezetéseket, művészetet, sportot és családi programokat.",
+          "ro": "Programul estival al orașului reunește din iulie până la sfârșitul lui septembrie concerte, teatru, vizite ghidate, artă, sport și activități pentru familii în mai multe cartiere din Andria.",
+          "en": "The city's summer programme runs across many neighbourhoods of Andria through late September with concerts, theatre, guided visits, art, sport and family activities."
+        },
+        "source_url": "https://www.comune.andria.bt.it/it/eventi/r-estate-ad-andria",
+        "date": "2026-07-26"
+      },
+      {
+        "title": {
+          "de": "Sommerprogramm R*Estate im August",
+          "hu": "R*Estate augusztusi programok",
+          "ro": "Programul R*Estate din august",
+          "en": "R*Estate August Programme"
+        },
+        "summary": {
+          "de": "Der städtische Augustkalender fasst die Andria-Termine des Sommerprogramms zusammen und listet Veranstaltungen in Altstadt, Villa Comunale, Borgo Montegrosso und weiteren Orten.",
+          "hu": "A városi augusztusi naptár összefoglalja a R*Estate nyári program andriai eseményeit az óvárostól a Villa Comunale és Borgo Montegrosso helyszíneiig.",
+          "ro": "Calendarul municipal din august reunește evenimentele programului R*Estate din Andria, de la centrul vechi la Villa Comunale, Borgo Montegrosso și alte spații.",
+          "en": "The municipal August calendar gathers Andria's R*Estate events, from the old town to Villa Comunale, Borgo Montegrosso and other venues."
+        },
+        "source_url": "https://www.comune.andria.bt.it/",
+        "date": "2026-08-01"
+      },
+      {
+        "title": {
+          "de": "R*Estate bis Ende September",
+          "hu": "R*Estate szeptember végéig",
+          "ro": "R*Estate până la sfârșitul lui septembrie",
+          "en": "R*Estate Through Late September"
+        },
+        "summary": {
+          "de": "Die offizielle Eventseite bestätigt, dass das Sommerprogramm von Andria bis zum 30. September 2026 läuft und über 70 Initiativen in verschiedenen Teilen der Stadt umfasst.",
+          "hu": "A hivatalos eseményoldal megerősíti, hogy Andria nyári programsorozata 2026. szeptember 30-ig tart, és több mint 70 kezdeményezést fog össze a város különböző részein.",
+          "ro": "Pagina oficială a evenimentului confirmă că programul estival al orașului Andria continuă până la 30 septembrie 2026 și cuprinde peste 70 de inițiative în diferite zone ale orașului.",
+          "en": "The official event page confirms that Andria's summer programme runs until 30 September 2026 and includes more than 70 initiatives across different parts of the city."
+        },
+        "source_url": "https://www.comune.andria.bt.it/it/eventi/r-estate-ad-andria",
+        "date": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "spain-santiago-de-compostela-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "NoitiNHas 2026",
+          "hu": "NoitiNHas 2026",
+          "ro": "NoitiNHas 2026",
+          "en": "NoitiNHas 2026"
+        },
+        "summary": {
+          "de": "Die Konzertreihe verbindet im NH Collection Santiago Open-Air-Musik, DJ-Sets und gastronomische Angebote; ein bestätigter Sommerabend findet am 5. August statt.",
+          "hu": "Az NH Collection Santiago helyszínén futó sorozat szabadtéri koncerteket, DJ-szetteket és gasztronómiai kínálatot kapcsol össze; egy megerősített nyári alkalom augusztus 5-én lesz.",
+          "ro": "Seria de la NH Collection Santiago combină muzică live în aer liber, DJ seturi și ofertă gastronomică; una dintre serile confirmate de vară este pe 5 august.",
+          "en": "The series at NH Collection Santiago combines open-air live music, DJ sets and food offerings; one confirmed summer date is 5 August."
+        },
+        "source_url": "https://www.santiagoturismo.com/axenda-cultural/e%3Acon-vistas",
+        "date": "2026-08-05"
+      },
+      {
+        "title": {
+          "de": "WOS Festival",
+          "hu": "WOS Festival",
+          "ro": "Festivalul WOS",
+          "en": "WOS Festival"
+        },
+        "summary": {
+          "de": "Das mehrtägige Innenstadtfestival nutzt denkmalgeschützte Orte in Santiago de Compostela für elektronische und avantgardistische Musik, Film, Installationen und visuelle Kunst.",
+          "hu": "A többnapos belvárosi fesztivál Santiago de Compostela műemléki helyszínein kínál elektronikus és avantgárd zenét, filmet, installációkat és vizuális művészetet.",
+          "ro": "Festivalul urban desfășurat pe mai multe zile folosește spații de patrimoniu din Santiago de Compostela pentru muzică electronică și avangardistă, film, instalații și arte vizuale.",
+          "en": "The multi-day city festival uses heritage venues in Santiago de Compostela for electronic and avant-garde music, film, installations and visual art."
+        },
+        "source_url": "https://www.santiagoturismo.com/axenda-cultural/c%3Aanual/m%3A63%2CCBT64%2C26-06-2026%7C64%2CNO%2C26-06-2027",
+        "date": "2026-09-11"
+      },
+      {
+        "title": {
+          "de": "Real Filharmonía de Galicia, Saison 2026/27",
+          "hu": "Real Filharmonía de Galicia 2026/27-es évad",
+          "ro": "Stagiunea 2026/27 a Real Filharmonía de Galicia",
+          "en": "Real Filharmonía de Galicia 2026/27 Season"
+        },
+        "summary": {
+          "de": "Im Auditorio de Galicia startet die neue Philharmonie-Saison unter dem Motto „Memoria“ mit sinfonischem Repertoire und zeitgenössischen Positionen.",
+          "hu": "Az Auditorio de Galicia új filharmóniai évada „Memoria” címmel indul, szimfonikus repertoárral és kortárs művekkel.",
+          "ro": "La Auditorio de Galicia începe noua stagiune a orchestrei sub titlul „Memoria”, cu repertoriu simfonic și creație contemporană.",
+          "en": "At the Auditorio de Galicia, the new philharmonic season opens under the title 'Memoria' with symphonic repertoire and contemporary work."
+        },
+        "source_url": "https://www.santiagoturismo.com/axenda-cultural/c%3Aanual/m%3A64%2CGE%2C24-6-2026",
+        "date": "2026-09-16"
+      }
+    ]
+  },
+  {
+    "id": "roubaix",
+    "events": [
+      {
+        "title": {
+          "de": "Trödel- und Straßenmarkt auf dem Grand'Place",
+          "hu": "Bolhapiac a Grand'Place-on",
+          "ro": "Brocante și târg în Grand'Place",
+          "en": "City-Centre Flea Market at Grand'Place",
+          "fr": "Braderie et vide-grenier du centre-ville"
+        },
+        "summary": {
+          "de": "Im Zentrum von Roubaix breitet sich auf dem Grand'Place und den angrenzenden Straßen ein großer Sommerflohmarkt mit Ständen und Nachbarschaftsatmosphäre aus.",
+          "hu": "Roubaix központjában, a Grand'Place és a környező utcák területén nagy nyári bolhapiac és közösségi forgatag várja a látogatókat.",
+          "ro": "În centrul orașului Roubaix, în Grand'Place și pe străzile din jur, are loc un mare târg de vară cu standuri și atmosferă de cartier.",
+          "en": "In central Roubaix, Grand'Place and the surrounding streets host a large summer flea market with stalls and a neighbourhood atmosphere.",
+          "fr": "Au centre de Roubaix, la Grand'Place et les rues voisines accueillent une grande braderie d'été avec stands et ambiance de quartier."
+        },
+        "source_url": "https://www.roubaixtourisme.com/evenement-agenda?+vide-grenier+%2F+Centre-Ville%2C+Grand%E2%80%99Place=&oa_Cat=braderie-brocante&oa_ID=25829894&oa_Title=Braderie+",
+        "date": "2026-08-24"
+      },
+      {
+        "title": {
+          "de": "Flohmarkt Rue Ingres",
+          "hu": "Rue Ingres bolhapiac",
+          "ro": "Vide-grenier pe Rue Ingres",
+          "en": "Rue Ingres Flea Market",
+          "fr": "Vide-grenier rue Ingres"
+        },
+        "summary": {
+          "de": "Der herbstliche Straßenflohmarkt bespielt die Rue Ingres und die Rue Carpeaux mit ganztägigem Trödelangebot für Anwohner und Besucher.",
+          "hu": "Az őszi utcai bolhapiac egész napos vásárral tölti meg a Rue Ingres és a Rue Carpeaux szakaszait.",
+          "ro": "Târgul stradal de toamnă ocupă Rue Ingres și Rue Carpeaux cu o zi întreagă de standuri pentru localnici și vizitatori.",
+          "en": "The autumn street flea market fills Rue Ingres and Rue Carpeaux with a full day of browsing for locals and visitors.",
+          "fr": "Le vide-grenier d'automne anime la rue Ingres et la rue Carpeaux pendant toute une journée."
+        },
+        "source_url": "https://www.roubaixtourisme.com/evenement-agenda?oa_Cat=braderie-brocante&oa_ID=72165315&oa_Title=Vide-grenier+%2F+Rue+Ingres",
+        "date": "2026-09-20"
+      },
+      {
+        "title": {
+          "de": "Sniper in La Condition Publique",
+          "hu": "Sniper koncert a La Condition Publique-ben",
+          "ro": "Concert Sniper la La Condition Publique",
+          "en": "Sniper at La Condition Publique",
+          "fr": "Sniper à La Condition Publique"
+        },
+        "summary": {
+          "de": "Die französische Rapgruppe Sniper spielt in Roubaix ein Herbstkonzert in La Condition Publique, organisiert mit Tu m'étonnes Productions.",
+          "hu": "A francia rapcsapat, a Sniper őszi koncertet ad Roubaix-ban, a La Condition Publique helyszínén, a Tu m'étonnes Productions szervezésében.",
+          "ro": "Trupa franceză de rap Sniper susține un concert de toamnă la Roubaix, în spațiul La Condition Publique, în parteneriat cu Tu m'étonnes Productions.",
+          "en": "French rap group Sniper plays an autumn concert in Roubaix at La Condition Publique, organised with Tu m'étonnes Productions.",
+          "fr": "Le groupe de rap français Sniper donne un concert d'automne à Roubaix, à La Condition Publique."
+        },
+        "source_url": "https://www.roubaixtourisme.com/evenement-agenda?oa_Cat=fete-festival&oa_ID=98078860&oa_Title=Sniper",
+        "date": "2026-10-22"
+      },
+      {
+        "title": {
+          "de": "Same But Different",
+          "hu": "Same But Different",
+          "ro": "Same But Different",
+          "en": "Same But Different",
+          "fr": "Same But Different"
+        },
+        "summary": {
+          "de": "Im Le Colisée steht im Dezember eine Tanz- oder Bühnenshow mit Ticketverkauf und Abendvorstellung auf dem Programm.",
+          "hu": "Decemberben a Le Colisée színpadán esti jegyes előadásként szerepel a Same But Different produkció.",
+          "ro": "În decembrie, sala Le Colisée găzduiește spectacolul de scenă Same But Different cu reprezentație de seară și bilete puse în vânzare.",
+          "en": "In December, Le Colisée hosts the stage production Same But Different as a ticketed evening performance.",
+          "fr": "En décembre, Le Colisée accueille le spectacle Same But Different en soirée avec billetterie."
+        },
+        "source_url": "https://roubaixtourisme.com/evenement-agenda?oa_Cat=danse&oa_ID=79339056&oa_Title=Same+But+Different",
+        "date": "2026-12-17"
+      }
+    ]
+  }
+]

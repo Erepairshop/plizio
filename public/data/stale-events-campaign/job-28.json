@@ -1,0 +1,311 @@
+[
+  {
+    "id": "tours",
+    "events": [
+      {
+        "title": {
+          "de": "Grande braderie",
+          "hu": "Grande braderie",
+          "ro": "Grande braderie",
+          "en": "Grande braderie",
+          "fr": "Grande braderie"
+        },
+        "summary": {
+          "de": "Der große Schlussverkauf belebt die Innenstadt von Tours mit Marktständen, Sonderangeboten und dichtem Publikumsverkehr im Zentrum.",
+          "hu": "A nagy városi kiárusítás standokkal, kedvezményekkel és élénk belvárosi hangulattal tölti meg Tours központját.",
+          "ro": "Marea braderie animă centrul orașului Tours cu standuri, reduceri și o atmosferă comercială intensă în centru.",
+          "en": "The large city braderie fills central Tours with stalls, special offers, and a busy shopping atmosphere.",
+          "fr": "La grande braderie anime le centre de Tours avec des stands, des promotions et une forte affluence commerçante."
+        },
+        "date": "2026-09-06",
+        "source_url": "https://www.tours-tourisme.fr/en/"
+      },
+      {
+        "title": {
+          "de": "AR(t]CHIPEL 2026: Année Calder",
+          "hu": "AR(t]CHIPEL 2026: Année Calder",
+          "ro": "AR(t]CHIPEL 2026: Année Calder",
+          "en": "AR(t]CHIPEL 2026: Année Calder",
+          "fr": "AR(t]CHIPEL 2026 : Année Calder"
+        },
+        "summary": {
+          "de": "Die Touraine-Ausgabe von AR(t]CHIPEL 2026 würdigt Alexander Calder mit Ausstellungen und Kulturstationen in der Region Tours-Val de Loire.",
+          "hu": "Az AR(t]CHIPEL 2026 touraine-i programsorozata Alexander Calder előtt tiszteleg kiállításokkal és kulturális helyszínekkel Tours térségében.",
+          "ro": "Ediția tourangelle AR(t]CHIPEL 2026 îl omagiază pe Alexander Calder prin expoziții și opriri culturale în zona Tours-Val de Loire.",
+          "en": "The Touraine edition of AR(t]CHIPEL 2026 honors Alexander Calder through exhibitions and cultural stops around Tours-Val de Loire.",
+          "fr": "L’édition tourangelle d’AR(t]CHIPEL 2026 rend hommage à Alexander Calder à travers des expositions et rendez-vous culturels en Touraine."
+        },
+        "date": "2026-09-19",
+        "source_url": "https://www.tours-tourisme.fr/blog/se-cultiver/annee-calder-la-touraine-en-equilibre/"
+      },
+      {
+        "title": {
+          "de": "Exposition \"Drôles de bêtes !\"",
+          "hu": "„Drôles de bêtes!” kiállítás",
+          "ro": "Expoziția „Drôles de bêtes !”",
+          "en": "“Drôles de bêtes!” exhibition",
+          "fr": "Exposition « Drôles de bêtes ! »"
+        },
+        "summary": {
+          "de": "Diese Ausstellung in Tours läuft über Herbst und Frühwinter 2026 und bietet ein familienfreundliches Kulturziel im Stadtzentrum.",
+          "hu": "A tours-i kiállítás 2026 őszén és kora telén is látogatható, családbarát kulturális programként a városközpontban.",
+          "ro": "Expoziția din Tours continuă pe parcursul toamnei și începutului de iarnă 2026, fiind o opțiune culturală potrivită pentru familii în centru.",
+          "en": "This exhibition in Tours runs through autumn and early winter 2026, offering a family-friendly cultural outing in the city center.",
+          "fr": "Cette exposition à Tours se poursuit durant l’automne et le début de l’hiver 2026, offrant une sortie culturelle familiale en centre-ville."
+        },
+        "date": "2026-12-13",
+        "source_url": "https://www.tours-tourisme.fr/agenda/"
+      }
+    ]
+  },
+  {
+    "id": "greece-peristeri-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Open-Air-Kino \"Mavka: Das Waldgeist\"",
+          "hu": "Szabadtéri mozi: „Mavka: Az erdő tündére”",
+          "ro": "Cinema în aer liber: „Mavka: Spiritul pădurii”",
+          "en": "Open-air screening: “Mavka: The Forest Song”"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm \"Cinema Goes to the Square\" bringt kostenlose Familienfilme in Plätze und Parks von Peristeri; \"Mavka\" gehört zum offiziellen Programm.",
+          "hu": "A „Cinema Goes to the Square” nyári sorozat ingyenes családi vetítéseket visz Periszteri tereire és parkjaiba; a „Mavka” az idei program része.",
+          "ro": "Programul de vară „Cinema Goes to the Square” aduce proiecții gratuite pentru familii în piețele și parcurile din Peristeri; „Mavka” figurează în programul oficial.",
+          "en": "The summer “Cinema Goes to the Square” program brings free family screenings to squares and parks across Peristeri, and “Mavka” is listed in the official lineup."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://www.peristeri.gr/32062/to-sinema-paei-plateia-fernei-dorean-kinimatografikes-vradies-stis-geitonies/"
+      },
+      {
+        "title": {
+          "de": "Open-Air-Kino \"Wish\"",
+          "hu": "Szabadtéri mozi: „Wish”",
+          "ro": "Cinema în aer liber: „Wish”",
+          "en": "Open-air screening: “Wish”"
+        },
+        "summary": {
+          "de": "Peristeri setzt das kostenlose Nachbarschaftskino im Rahmen seiner Sommer-Kulturveranstaltungen fort; auch Disneys \"Wish\" ist im offiziellen Filmprogramm genannt.",
+          "hu": "Periszteri a nyári kulturális program részeként folytatja az ingyenes szabadtéri mozit; a hivatalos filmkínálatban a Disney „Wish” is szerepel.",
+          "ro": "Peristeri continuă cinematograful gratuit de cartier în cadrul programului cultural de vară; și producția Disney „Wish” este menționată în selecția oficială.",
+          "en": "Peristeri continues its free neighborhood cinema as part of the summer cultural program, and Disney’s “Wish” is named in the official selection."
+        },
+        "date": "2026-07-30",
+        "source_url": "https://www.peristeri.gr/32062/to-sinema-paei-plateia-fernei-dorean-kinimatografikes-vradies-stis-geitonies/"
+      },
+      {
+        "title": {
+          "de": "Open-Air-Kino \"Migration\"",
+          "hu": "Szabadtéri mozi: „Migration / Egy utazás kacsáknak”",
+          "ro": "Cinema în aer liber: „Migration / O călătorie pentru rațe”",
+          "en": "Open-air screening: “Migration”"
+        },
+        "summary": {
+          "de": "Das städtische Programm endet Anfang August 2026 mit weiteren kostenlosen Familienvorführungen in mehreren Vierteln; \"Migration\" gehört zu den offiziell angekündigten Titeln.",
+          "hu": "A városi sorozat 2026 augusztusának elején további ingyenes családi vetítésekkel zárul több városrészben; a „Migration” a hivatalosan bejelentett címek között van.",
+          "ro": "Seria municipală se încheie la început de august 2026 cu noi proiecții gratuite pentru familii în mai multe cartiere; „Migration” se află printre titlurile anunțate oficial.",
+          "en": "The municipal series runs into early August 2026 with more free family screenings in several neighborhoods, and “Migration” is among the officially announced titles."
+        },
+        "date": "2026-08-03",
+        "source_url": "https://www.peristeri.gr/32062/to-sinema-paei-plateia-fernei-dorean-kinimatografikes-vradies-stis-geitonies/"
+      }
+    ]
+  },
+  {
+    "id": "netherlands-amersfoort-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Stadsfestival Amersfoort",
+          "hu": "Stadsfestival Amersfoort",
+          "ro": "Stadsfestival Amersfoort",
+          "en": "Stadsfestival Amersfoort"
+        },
+        "summary": {
+          "de": "Das offizielle Stadtfestival bringt Ende August ein großes Musikwochenende nach Amersfoort und zählt zu den wichtigsten Sommerveranstaltungen der Stadt.",
+          "hu": "A hivatalos városi fesztivál augusztus végén nagy zenei hétvégét hoz Amersfoortba, és a város nyári csúcsrendezvényei közé tartozik.",
+          "ro": "Festivalul oficial al orașului aduce la sfârșit de august un mare weekend muzical la Amersfoort și este unul dintre punctele forte ale verii locale.",
+          "en": "The official city festival brings a major music weekend to Amersfoort at the end of August and is one of the city’s main summer highlights."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://www.tijdvooramersfoort.nl/nl/evenementen/festivals"
+      },
+      {
+        "title": {
+          "de": "Keistadfeesten 2026",
+          "hu": "Keistadfeesten 2026",
+          "ro": "Keistadfeesten 2026",
+          "en": "Keistadfeesten 2026"
+        },
+        "summary": {
+          "de": "Die traditionsreichen Keistadfeesten kehren Anfang September mit einem mehrtägigen Stadtfest nach Amersfoort zurück.",
+          "hu": "A hagyományos Keistadfeesten szeptember elején többnapos városi fesztivállal tér vissza Amersfoortba.",
+          "ro": "Tradiționalul Keistadfeesten revine la început de septembrie la Amersfoort cu un festival urban de mai multe zile.",
+          "en": "The long-running Keistadfeesten return to Amersfoort in early September as a multi-day city celebration."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://www.tijdvooramersfoort.nl/nl/evenementen/festivals/keistadfeesten"
+      },
+      {
+        "title": {
+          "de": "Future Village Festival – Unveiling & Final Concert",
+          "hu": "Future Village Festival – Unveiling & Final Concert",
+          "ro": "Future Village Festival – Unveiling & Final Concert",
+          "en": "Future Village Festival – Unveiling & Final Concert"
+        },
+        "summary": {
+          "de": "Das Festival verwandelt die Bosspot in ein kreatives Dorf mit Kunstwerken, Workshops und einem Abendkonzert für junge Besucher.",
+          "hu": "A fesztivál a Bosspot helyszínét kreatív faluvá alakítja műalkotásokkal, workshopokkal és esti koncerttel a fiatal közönségnek.",
+          "ro": "Festivalul transformă Bosspot într-un sat creativ cu lucrări de artă, ateliere și un concert de seară dedicat tinerilor.",
+          "en": "The festival turns Bosspot into a creative village with art, workshops, and an evening concert aimed at younger visitors."
+        },
+        "date": "2026-09-05",
+        "source_url": "https://www.tijdvooramersfoort.nl/nl/evenementen/festivals/future-village"
+      },
+      {
+        "title": {
+          "de": "September Me 2026",
+          "hu": "September Me 2026",
+          "ro": "September Me 2026",
+          "en": "September Me 2026"
+        },
+        "summary": {
+          "de": "Das Musikfestival feiert 2026 seine zehnte Ausgabe in Amersfoort und stellt führende weibliche Musikerinnen und Komponistinnen in den Mittelpunkt.",
+          "hu": "A zenei fesztivál 2026-ban tizedik alkalommal tér vissza Amersfoortba, és kiemelkedő női zenészekre és alkotókra fókuszál.",
+          "ro": "Festivalul muzical revine în 2026 pentru a zecea ediție la Amersfoort și pune accentul pe creatoare și muziciene de top.",
+          "en": "The music festival returns for its tenth edition in Amersfoort in 2026, spotlighting leading female creators and musicians."
+        },
+        "date": "2026-09-10",
+        "source_url": "https://www.tijdvooramersfoort.nl/nl/evenementen/festivals/september-me"
+      },
+      {
+        "title": {
+          "de": "Into the Woods 2026",
+          "hu": "Into the Woods 2026",
+          "ro": "Into the Woods 2026",
+          "en": "Into the Woods 2026"
+        },
+        "summary": {
+          "de": "Das elektronische Mehrgenre-Festival verbindet Musik, Licht und Kunstinstallationen im Waldgebiet Birkhoven bei Amersfoort.",
+          "hu": "Az elektronikus többműfajú fesztivál zenét, fényeket és művészeti installációkat kapcsol össze az amersfoorti Birkhoven erdős részén.",
+          "ro": "Festivalul electronic multi-gen îmbină muzica, luminile și instalațiile artistice în zona împădurită Birkhoven din Amersfoort.",
+          "en": "The multi-genre electronic festival combines music, lighting, and art installations in Amersfoort’s Birkhoven woodland."
+        },
+        "date": "2026-09-18",
+        "source_url": "https://www.tijdvooramersfoort.nl/nl/evenementen/festivals/into-the-woods"
+      }
+    ]
+  },
+  {
+    "id": "amiens",
+    "events": [
+      {
+        "title": {
+          "de": "IC.ON.IC Festival für visuelle Kunst",
+          "hu": "IC.ON.IC vizuális művészeti fesztivál",
+          "ro": "Festivalul de artă vizuală IC.ON.IC",
+          "en": "IC.ON.IC visual arts festival",
+          "fr": "Festival d’arts visuels IC.ON.IC"
+        },
+        "summary": {
+          "de": "Die sechste Ausgabe des visuellen Kunstfestivals beleuchtet Amiens im Herbst 2026 mit Installationen und künstlerischen Interventionen.",
+          "hu": "A vizuális művészeti fesztivál hatodik kiadása 2026 őszén installációkkal és művészeti beavatkozásokkal tölti meg Amiens városát.",
+          "ro": "A șasea ediție a festivalului de arte vizuale luminează Amiens în toamna lui 2026 prin instalații și intervenții artistice.",
+          "en": "The sixth edition of the visual arts festival lights up Amiens in autumn 2026 with installations and artistic interventions.",
+          "fr": "La sixième édition du festival d’arts visuels illumine Amiens à l’automne 2026 avec des installations et interventions artistiques."
+        },
+        "date": "2026-09-19",
+        "source_url": "https://www.amiens-tourisme.com/a-ne-pas-manquer/"
+      },
+      {
+        "title": {
+          "de": "Amiens Weihnachtsmarkt",
+          "hu": "Amiens karácsonyi vásár",
+          "ro": "Târgul de Crăciun din Amiens",
+          "en": "Amiens Christmas Market",
+          "fr": "Marché de Noël d’Amiens"
+        },
+        "summary": {
+          "de": "Der große Weihnachtsmarkt von Amiens läuft von Ende November bis Ende Dezember mit Dorf des Weihnachtsmanns, Eisbahn und saisonalen Attraktionen.",
+          "hu": "A nagy amiens-i karácsonyi vásár november végétől december végéig várja a látogatókat Mikulásfalúval, korcsolyapályával és ünnepi programokkal.",
+          "ro": "Marele târg de Crăciun din Amiens se desfășoară de la sfârșitul lui noiembrie până la final de decembrie, cu satul Moșului, patinoar și atracții sezoniere.",
+          "en": "Amiens’ major Christmas market runs from late November to late December with Santa’s village, an ice rink, and seasonal attractions.",
+          "fr": "Le grand marché de Noël d’Amiens se tient de la fin novembre à la fin décembre avec village du Père Noël, patinoire et animations saisonnières."
+        },
+        "date": "2026-11-20",
+        "source_url": "https://www.amiens-tourisme.com/agenda/le-marche-de-noel-damiens/"
+      },
+      {
+        "title": {
+          "de": "Soirées d'été im Zoo Amiens",
+          "hu": "Nyári esték az amiens-i állatkertben",
+          "ro": "Serile de vară la Zoo Amiens",
+          "en": "Summer Evenings at Amiens Zoo",
+          "fr": "Soirées d’été au zoo d’Amiens"
+        },
+        "summary": {
+          "de": "Amiens Tourisme kündigt für 2026 vier sommerliche Abendveranstaltungen im Zoo an, als entspannte Ferien- oder After-Work-Ausflüge.",
+          "hu": "Az Amiens Tourisme 2026-ra négy nyári esti programot hirdetett meg az állatkertben, kellemes vakációs vagy munka utáni kikapcsolódásként.",
+          "ro": "Amiens Tourisme anunță pentru 2026 patru seri speciale de vară la grădina zoologică, potrivite pentru vacanță sau relaxare după serviciu.",
+          "en": "Amiens Tourisme announces four special summer evening events at the zoo in 2026, suited to holiday outings or after-work visits.",
+          "fr": "Amiens Tourisme annonce quatre soirées d’été au zoo en 2026, idéales pendant les vacances ou après le travail."
+        },
+        "date": "2026-07-31",
+        "source_url": "https://www.amiens-tourisme.com/agenda/"
+      }
+    ]
+  },
+  {
+    "id": "netherlands-apeldoorn-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "DE OPENING Apeldoorn",
+          "hu": "DE OPENING Apeldoorn",
+          "ro": "DE OPENING Apeldoorn",
+          "en": "DE OPENING Apeldoorn"
+        },
+        "summary": {
+          "de": "Apeldoorn eröffnet im letzten Augustwochenende das Kulturjahr mit Musik, Theater und einem belebten Stadtzentrum.",
+          "hu": "Apeldoorn augusztus utolsó hétvégéjén zenével, színházzal és pezsgő belvárosi hangulattal nyitja meg a kulturális évet.",
+          "ro": "Apeldoorn deschide anul cultural în ultimul weekend din august, cu muzică, teatru și un centru animat.",
+          "en": "Apeldoorn opens the cultural year on the last weekend of August with music, theatre, and a lively city center."
+        },
+        "date": "2026-08-29",
+        "source_url": "https://www.apeldoorn.nl/cultuur-en-erfgoed/cultuur/culturele-evenementen/"
+      },
+      {
+        "title": {
+          "de": "Maaiveld Festival",
+          "hu": "Maaiveld Fesztivál",
+          "ro": "Festivalul Maaiveld",
+          "en": "Maaiveld Festival"
+        },
+        "summary": {
+          "de": "Das Maaiveld Festival bietet zwei Tage lang mehr als 25 Aufführungen und Shows an verschiedenen Orten in der Innenstadt von Apeldoorn.",
+          "hu": "A Maaiveld Fesztivál két napon át több mint 25 előadást és műsort kínál Apeldoorn belvárosának több helyszínén.",
+          "ro": "Festivalul Maaiveld oferă timp de două zile peste 25 de reprezentații și show-uri în mai multe locații din centrul Apeldoornului.",
+          "en": "The Maaiveld Festival offers more than 25 performances and shows over two days at various venues in central Apeldoorn."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://www.apeldoorn.nl/cultuur-en-erfgoed/cultuur/culturele-evenementen/"
+      },
+      {
+        "title": {
+          "de": "Open Atelierroute",
+          "hu": "Open Atelierroute",
+          "ro": "Open Atelierroute",
+          "en": "Open Atelierroute"
+        },
+        "summary": {
+          "de": "Bei diesem Kunstwochenende öffnen Ateliers in Apeldoorn für Besucher, die Werke entdecken und mit den Künstlern ins Gespräch kommen möchten.",
+          "hu": "Ezen a művészeti hétvégén Apeldoorn műtermei megnyílnak a látogatók előtt, akik alkotásokat nézhetnek meg és beszélgethetnek az alkotókkal.",
+          "ro": "În acest weekend artistic, atelierele din Apeldoorn se deschid vizitatorilor care vor să descopere lucrări și să discute cu artiștii.",
+          "en": "During this art weekend, studios across Apeldoorn open to visitors who want to see works and talk with the artists."
+        },
+        "date": "2026-10-03",
+        "source_url": "https://www.apeldoorn.nl/cultuur-en-erfgoed/cultuur/culturele-evenementen/"
+      }
+    ]
+  }
+]

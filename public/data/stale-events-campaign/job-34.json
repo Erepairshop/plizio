@@ -1,0 +1,371 @@
+[
+  {
+    "id": "italy-pescara-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Luca Carboni bei Estatica",
+          "hu": "Luca Carboni az Estatica fesztiválon",
+          "ro": "Luca Carboni la Estatica",
+          "en": "Luca Carboni at Estatica"
+        },
+        "summary": {
+          "de": "Der italienische Singer-Songwriter Luca Carboni tritt im Rahmen des Sommerprogramms Estatica 2026 in der Arena del Porto Turistico von Pescara auf.",
+          "hu": "Az olasz énekes-dalszerző Luca Carboni az Estatica 2026 nyári programsorozat részeként lép fel a pescarai Porto Turistico arénájában.",
+          "ro": "Cantautorul italian Luca Carboni concertează în Arena del Porto Turistico din Pescara în cadrul programului de vară Estatica 2026.",
+          "en": "Italian singer-songwriter Luca Carboni performs at Pescara’s Porto Turistico arena as part of the Estatica 2026 summer program."
+        },
+        "source_url": "https://estatica-pescara.com/event/luca-carboni/",
+        "date": "2026-08-01"
+      },
+      {
+        "title": {
+          "de": "Emma bei Estatica",
+          "hu": "Emma az Estatica fesztiválon",
+          "ro": "Emma la Estatica",
+          "en": "Emma at Estatica"
+        },
+        "summary": {
+          "de": "Die Popsängerin Emma gibt ein Open-Air-Konzert in der Arena del Porto Turistico im offiziellen Estatica-Programm von Pescara.",
+          "hu": "Emma popénekesnő szabadtéri koncertet ad a Porto Turistico arénájában, Pescara hivatalos Estatica programjában.",
+          "ro": "Cântăreața pop Emma susține un concert în aer liber în Arena del Porto Turistico, în programul oficial Estatica din Pescara.",
+          "en": "Pop singer Emma gives an open-air concert at the Porto Turistico arena in Pescara’s official Estatica program."
+        },
+        "source_url": "https://estatica-pescara.com/event/emma/",
+        "date": "2026-08-02"
+      },
+      {
+        "title": {
+          "de": "Mercatino di Pescara",
+          "hu": "Pescara kézműves és régiségpiaca",
+          "ro": "Mercatino di Pescara",
+          "en": "Pescara street market"
+        },
+        "summary": {
+          "de": "Das städtische Mercatino belebt die Piazza Muzii mit Ständen für Kunsthandwerk, Antiquitäten und Sammlerobjekte im Sommerkalender von Pescara.",
+          "hu": "A városi Mercatino a Piazza Muzii téren kézműves, régiség- és gyűjtői standokkal szerepel Pescara nyári programjában.",
+          "ro": "Mercatino-ul orașului animă Piazza Muzii cu standuri de artizanat, antichități și obiecte de colecție în calendarul de vară al Pescarei.",
+          "en": "The city market animates Piazza Muzii with handicraft, antiques, and collector stalls in Pescara’s summer calendar."
+        },
+        "source_url": "https://www.comune.pescara.it/internet/index.php?codice=148&idnews=10697&navBackPage=148",
+        "date": "2026-08-08"
+      },
+      {
+        "title": {
+          "de": "Lo Sbaracco",
+          "hu": "Lo Sbaracco városi leárazási nap",
+          "ro": "Lo Sbaracco",
+          "en": "Lo Sbaracco sales day"
+        },
+        "summary": {
+          "de": "Pescara veranstaltet einen ganztägigen Einkaufs- und Straßenaktionstag, bei dem Innenstadtgeschäfte Sonderangebote im öffentlichen Raum präsentieren.",
+          "hu": "Pescara egész napos városi vásári és akciós rendezvényt tart, ahol a belvárosi üzletek az utcán kínálnak kedvezményes termékeket.",
+          "ro": "Pescara organizează o zi urbană dedicată cumpărăturilor și promoțiilor, cu magazinele din centru expunând oferte speciale în spațiul public.",
+          "en": "Pescara hosts a full-day shopping event with city-center stores presenting special offers in public spaces."
+        },
+        "source_url": "https://www.comune.pescara.it/internet/index.php?codice=148&idnews=10696&navBackPage=148",
+        "date": "2026-08-22"
+      }
+    ]
+  },
+  {
+    "id": "offenbach-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Lichterfest im Büsing-Park",
+          "hu": "Fényünnep a Büsing-parkban",
+          "ro": "Festivalul luminilor din parcul Büsing",
+          "en": "Lichterfest in Büsing Park"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Sommerfest verwandelt den Büsing-Park mit Illuminationen, Live-Musik und einem Feuerwerk in eine große Abendveranstaltung.",
+          "hu": "A hagyományos nyári ünnep fényinstallációkkal, élőzenével és tűzijátékkal tölti meg a Büsing parkot.",
+          "ro": "Festivalul de vară transformă parcul Büsing cu instalații luminoase, muzică live și focuri de artificii într-un mare eveniment de seară.",
+          "en": "The long-running summer festival turns Büsing Park into a large evening event with illuminations, live music, and fireworks."
+        },
+        "source_url": "https://www.offenbach.de/buerger_innen/freizeit/stadtmarketing/projekte/offenbach-geht-raus/offenbach-geht-r-aus.php",
+        "date": "2026-08-08"
+      },
+      {
+        "title": {
+          "de": "Main Matsuri Japan Festival",
+          "hu": "Main Matsuri japán fesztivál",
+          "ro": "Festivalul japonez Main Matsuri",
+          "en": "Main Matsuri Japan Festival"
+        },
+        "summary": {
+          "de": "Das Main Matsuri bringt japanische Popkultur, Bühnenprogramm, Kulinarik und Marktstände an das Mainufer in Offenbach.",
+          "hu": "A Main Matsuri japán popkultúrát, színpadi programokat, gasztronómiát és vásári standokat visz Offenbach Duna-parti sétányára.",
+          "ro": "Main Matsuri aduce cultură pop japoneză, spectacole de scenă, gastronomie și standuri tematice pe malul Mainului din Offenbach.",
+          "en": "Main Matsuri brings Japanese pop culture, stage performances, food, and themed stalls to Offenbach’s Main riverfront."
+        },
+        "source_url": "https://www.offenbach.de/buerger_innen/freizeit/stadtmarketing/projekte/offenbach-geht-raus/offenbach-geht-r-aus.php",
+        "date": "2026-08-14"
+      },
+      {
+        "title": {
+          "de": "Riviera Festival",
+          "hu": "Riviera Fesztivál",
+          "ro": "Festivalul Riviera",
+          "en": "Riviera Festival"
+        },
+        "summary": {
+          "de": "Das Riviera Festival bespielt verschiedene Orte in Offenbach mit Konzerten, Clubnächten und einem mehrtägigen Kulturprogramm.",
+          "hu": "A Riviera Fesztivál Offenbach több helyszínét tölti meg koncertekkel, klubestekkel és többnapos kulturális programmal.",
+          "ro": "Festivalul Riviera ocupă mai multe locuri din Offenbach cu concerte, seri de club și un program cultural desfășurat pe mai multe zile.",
+          "en": "The Riviera Festival fills multiple Offenbach venues with concerts, club nights, and a multi-day cultural program."
+        },
+        "source_url": "https://www.offenbach.de/buerger_innen/freizeit/stadtmarketing/projekte/offenbach-geht-raus/offenbach-geht-r-aus.php",
+        "date": "2026-09-04"
+      },
+      {
+        "title": {
+          "de": "Tage der Industriekultur im Wetterpark",
+          "hu": "Ipari kultúra napjai a Wetterparkban",
+          "ro": "Zilele culturii industriale la Wetterpark",
+          "en": "Days of Industrial Culture at Wetterpark"
+        },
+        "summary": {
+          "de": "Der Wetterpark Offenbach beteiligt sich mit Führungen und Programmbeiträgen an den regionalen Tagen der Industriekultur Rhein-Main.",
+          "hu": "Az offenbachi Wetterpark vezetett programokkal csatlakozik a Rajna-Majna régió Ipari Kultúra Napjai rendezvénysorozathoz.",
+          "ro": "Wetterpark Offenbach participă la Zilele culturii industriale Rhein-Main cu tururi ghidate și activități dedicate.",
+          "en": "Wetterpark Offenbach joins the regional Rhine-Main Days of Industrial Culture with guided tours and dedicated programming."
+        },
+        "source_url": "https://www.offenbach.de/buerger_innen/freizeit/stadtmarketing/wetterpark/tage-der-industriekultur-wetterpark.php",
+        "date": "2026-09-05"
+      },
+      {
+        "title": {
+          "de": "Offenbacher Kranlauf",
+          "hu": "Offenbachi Darufutás",
+          "ro": "Cursa Kranlauf din Offenbach",
+          "en": "Offenbach Crane Run"
+        },
+        "summary": {
+          "de": "Der Offenbacher Kranlauf startet am Mainufer und bietet Wettbewerbe für Läuferinnen und Läufer verschiedener Distanzen am Feiertag.",
+          "hu": "Az Offenbachi Darufutás a Majna-parton rajtol, és több távon kínál versenyeket a résztvevőknek az ünnepnapon.",
+          "ro": "Kranlauf pornește de pe malul Mainului și oferă curse pe mai multe distanțe pentru alergători în ziua de sărbătoare.",
+          "en": "The Offenbach Crane Run starts on the Main riverfront and offers races over several distances on the public holiday."
+        },
+        "source_url": "https://www.offenbach.de/buerger_innen/freizeit/stadtmarketing/projekte/offenbach-geht-raus/offenbach-geht-r-aus.php",
+        "date": "2026-10-03"
+      }
+    ]
+  },
+  {
+    "id": "trento",
+    "events": [
+      {
+        "title": {
+          "de": "Trento Live Fest",
+          "hu": "Trento Live Fest",
+          "ro": "Trento Live Fest",
+          "en": "Trento Live Fest"
+        },
+        "summary": {
+          "de": "Das städtische Sommerfestival bringt große Live-Konzerte und Abendshows auf die Trento Music Arena.",
+          "hu": "A városi nyári fesztivál nagyszabású élő koncerteket és esti műsorokat hoz a Trento Music Arénába.",
+          "ro": "Festivalul de vară al orașului aduce concerte live importante și spectacole de seară la Trento Music Arena.",
+          "en": "The city’s summer festival brings major live concerts and evening shows to the Trento Music Arena."
+        },
+        "source_url": "https://www.visittrento.it/it/festival-e-grandi-eventi/trento-live-fest",
+        "date": "2026-09-18"
+      },
+      {
+        "title": {
+          "de": "Trentodoc Festival",
+          "hu": "Trentodoc Fesztivál",
+          "ro": "Festivalul Trentodoc",
+          "en": "Trentodoc Festival"
+        },
+        "summary": {
+          "de": "Das offizielle Trentodoc Festival widmet sich den Schaumweinen des Trentino mit Verkostungen, Begegnungen und Stadtveranstaltungen.",
+          "hu": "A hivatalos Trentodoc Fesztivál a trentinói pezsgőknek szól, kóstolókkal, találkozókkal és városi eseményekkel.",
+          "ro": "Festivalul oficial Trentodoc este dedicat vinurilor spumante din Trentino, cu degustări, întâlniri și evenimente în oraș.",
+          "en": "The official Trentodoc Festival is dedicated to Trentino sparkling wines, with tastings, talks, and city events."
+        },
+        "source_url": "https://www.visittrento.it/it/festival-e-grandi-eventi/trentodoc-festival",
+        "date": "2026-09-25"
+      },
+      {
+        "title": {
+          "de": "Giro al Sas",
+          "hu": "Giro al Sas városi futóverseny",
+          "ro": "Cursa urbană Giro al Sas",
+          "en": "Giro al Sas road race"
+        },
+        "summary": {
+          "de": "Der traditionsreiche Straßenlauf führt Athletinnen und Athleten durch das historische Zentrum von Trient und gehört zu den bekanntesten Sportereignissen der Stadt.",
+          "hu": "A hagyományos utcai futóverseny Trento történelmi központján halad át, és a város legismertebb sporteseményei közé tartozik.",
+          "ro": "Cursa tradițională pe șosea trece prin centrul istoric al orașului Trento și este unul dintre cele mai cunoscute evenimente sportive locale.",
+          "en": "The long-running road race passes through Trento’s historic center and is one of the city’s best-known sports events."
+        },
+        "source_url": "https://www.visittrento.it/it/festival-e-grandi-eventi/giro-al-sas",
+        "date": "2026-10-10"
+      },
+      {
+        "title": {
+          "de": "Weihnachtsmarkt von Trient",
+          "hu": "Trentói karácsonyi vásár",
+          "ro": "Târgul de Crăciun din Trento",
+          "en": "Trento Christmas Market"
+        },
+        "summary": {
+          "de": "Der Weihnachtsmarkt bespielt zentrale Plätze in Trient mit Holzhütten, regionalen Produkten und festlichem Rahmenprogramm.",
+          "hu": "A karácsonyi vásár Trento központi tereit tölti meg faházakkal, helyi termékekkel és ünnepi kísérőprogrammal.",
+          "ro": "Târgul de Crăciun ocupă piețele centrale din Trento cu căsuțe din lemn, produse regionale și program festiv.",
+          "en": "The Christmas Market fills Trento’s central squares with wooden stalls, regional products, and festive programming."
+        },
+        "source_url": "https://www.visittrento.it/it/festival-e-grandi-eventi/mercatino-di-natale-di-trento",
+        "date": "2026-11-21"
+      }
+    ]
+  },
+  {
+    "id": "germany-bottrop-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Manifesta 16 Ruhr",
+          "hu": "Manifesta 16 Ruhr",
+          "ro": "Manifesta 16 Ruhr",
+          "en": "Manifesta 16 Ruhr"
+        },
+        "summary": {
+          "de": "Die internationale Biennale für zeitgenössische Kunst ist im Sommer 2026 auch in Bottrop mit Ausstellungen und Projekten im Ruhrgebiet präsent.",
+          "hu": "A kortárs művészet nemzetközi biennáléja 2026 nyarán Bottropban is jelen lesz kiállításokkal és projektekkel a Ruhr-vidéken.",
+          "ro": "Bienala internațională de artă contemporană este prezentă vara lui 2026 și la Bottrop, cu expoziții și proiecte în regiunea Ruhr.",
+          "en": "The international contemporary art biennial is present in Bottrop in summer 2026 with exhibitions and projects across the Ruhr region."
+        },
+        "source_url": "https://www.bottrop.de/kultur-und-bildung/aktuelles/veranstaltungshighlights-2026.php",
+        "date": "2026-08-01"
+      },
+      {
+        "title": {
+          "de": "Stadtflimmern",
+          "hu": "Stadtflimmern szabadtéri mozi",
+          "ro": "Cinema în aer liber Stadtflimmern",
+          "en": "Stadtflimmern open-air cinema"
+        },
+        "summary": {
+          "de": "Die Open-Air-Kinoreihe Stadtflimmern bringt Filmabende im September unter freiem Himmel nach Bottrop.",
+          "hu": "A Stadtflimmern szabadtéri mozisorozat szeptemberi filmesteket hoz Bottropba.",
+          "ro": "Seria de cinema în aer liber Stadtflimmern aduce seri de film sub cerul liber la Bottrop în septembrie.",
+          "en": "The Stadtflimmern open-air cinema series brings outdoor film nights to Bottrop in September."
+        },
+        "source_url": "https://www.bottrop.de/kultur-und-bildung/aktuelles/veranstaltungshighlights-2026.php",
+        "date": "2026-09-04"
+      },
+      {
+        "title": {
+          "de": "Michaelismarkt",
+          "hu": "Michaelismarkt",
+          "ro": "Michaelismarkt",
+          "en": "Michaelismarkt"
+        },
+        "summary": {
+          "de": "Der Michaelismarkt belebt die Bottroper Innenstadt mit Marktständen, Kirmeselementen und einem familienfreundlichen Stadtprogramm.",
+          "hu": "A Michaelismarkt piaci standokkal, vásári elemekkel és családbarát városi programokkal tölti meg Bottrop belvárosát.",
+          "ro": "Michaelismarkt animă centrul orașului Bottrop cu standuri, elemente de bâlci și un program urban prietenos pentru familii.",
+          "en": "Michaelismarkt fills Bottrop city center with market stalls, fairground elements, and family-friendly city programming."
+        },
+        "source_url": "https://www.bottrop.de/kultur-und-bildung/aktuelles/veranstaltungshighlights-2026.php",
+        "date": "2026-09-26"
+      },
+      {
+        "title": {
+          "de": "Nikolausmarkt",
+          "hu": "Mikulásvásár",
+          "ro": "Târgul de Moș Nicolae",
+          "en": "St. Nicholas market"
+        },
+        "summary": {
+          "de": "Der Nikolausmarkt eröffnet das Adventsprogramm in Bottrop mit saisonalen Ständen und weihnachtlicher Atmosphäre.",
+          "hu": "A Mikulásvásár szezonális standokkal és adventi hangulattal nyitja meg Bottrop ünnepi programját.",
+          "ro": "Târgul de Moș Nicolae deschide programul de Advent din Bottrop cu standuri sezoniere și atmosferă de sărbătoare.",
+          "en": "The St. Nicholas market opens Bottrop’s Advent season with seasonal stalls and a festive atmosphere."
+        },
+        "source_url": "https://www.bottrop.de/kultur-und-bildung/aktuelles/veranstaltungshighlights-2026.php",
+        "date": "2026-12-05"
+      }
+    ]
+  },
+  {
+    "id": "orleans",
+    "events": [
+      {
+        "title": {
+          "de": "Son et Lumière in der Kathedrale",
+          "hu": "Fény- és hangjáték a katedrálisnál",
+          "ro": "Spectacol son et lumière la catedrală",
+          "en": "Cathedral son et lumière",
+          "fr": "Son et lumière à la cathédrale"
+        },
+        "summary": {
+          "de": "Das sommerliche Projektionsspektakel an der Kathedrale Sainte-Croix läuft an ausgewählten Abenden bis Ende August im historischen Zentrum von Orléans.",
+          "hu": "A Sainte-Croix-székesegyházra vetített nyári fényshow augusztus végéig látható kijelölt estéken Orléans történelmi központjában.",
+          "ro": "Spectacolul estival de proiecții pe catedrala Sainte-Croix are loc în seri selectate până la sfârșitul lui august în centrul istoric al orașului Orléans.",
+          "en": "The summer projection show on Sainte-Croix Cathedral runs on selected evenings through late August in Orléans’ historic center.",
+          "fr": "Le spectacle de projections sur la cathédrale Sainte-Croix se tient certains soirs jusqu’à la fin août dans le centre historique d’Orléans."
+        },
+        "source_url": "https://www.orleans.fr/que-faire-a-orleans/sorties/fetes-et-evenements-a-ne-pas-manquer/son-et-lumiere-de-la-cathedrale",
+        "date": "2026-07-26"
+      },
+      {
+        "title": {
+          "de": "Fêtes de la Saint-Fiacre",
+          "hu": "Szent Fiáker ünnepe",
+          "ro": "Sărbătorile Saint-Fiacre",
+          "en": "Saint-Fiacre festivities",
+          "fr": "Fêtes de la Saint-Fiacre"
+        },
+        "summary": {
+          "de": "Die traditionelle Blumenschau und das Stadtfest bespielen Ende August das Zentrum von Orléans mit Dekorationen, Umzügen und Programm rund um Gartenbau und Blumen.",
+          "hu": "A hagyományos virágünnep és városi fesztivál augusztus végén virágdíszekkel, felvonulásokkal és kertészeti programokkal tölti meg Orléans központját.",
+          "ro": "Tradiționala sărbătoare florală animă la final de august centrul orașului Orléans cu decorațiuni, defilări și programe dedicate horticulturii și florilor.",
+          "en": "The traditional floral celebration fills central Orléans in late August with decorations, parades, and programming focused on gardening and flowers.",
+          "fr": "Cette fête florale traditionnelle anime le centre d’Orléans à la fin août avec décors, défilés et animations autour de l’horticulture."
+        },
+        "source_url": "https://www.orleans.fr/que-faire-a-orleans/sorties/fetes-et-evenements-a-ne-pas-manquer/fetes-de-la-saint-fiacre",
+        "date": "2026-08-28"
+      },
+      {
+        "title": {
+          "de": "Festival de Loire",
+          "hu": "Festival de Loire",
+          "ro": "Festival de Loire",
+          "en": "Festival de Loire",
+          "fr": "Festival de Loire"
+        },
+        "summary": {
+          "de": "Das große Flussfestival bringt traditionelle Boote, Vorführungen, Konzerte und Loire-Kultur an die Ufer von Orléans.",
+          "hu": "A nagy folyófesztivál hagyományos hajókat, bemutatókat, koncerteket és Loire-menti kultúrát hoz Orléans partjaira.",
+          "ro": "Marele festival al fluviului aduce la Orléans bărci tradiționale, demonstrații, concerte și cultura Loarei pe malurile apei.",
+          "en": "The major river festival brings traditional boats, demonstrations, concerts, and Loire culture to the Orléans waterfront.",
+          "fr": "Ce grand festival ligérien rassemble bateaux traditionnels, démonstrations, concerts et culture de la Loire sur les quais d’Orléans."
+        },
+        "source_url": "https://www.tourisme-orleansmetropole.com/fr/diffusio/agenda/festival-de-loire-orleans_TFOFMACEN045V50A74H",
+        "date": "2026-09-23"
+      },
+      {
+        "title": {
+          "de": "Hop Pop Hop Festival",
+          "hu": "Hop Pop Hop Fesztivál",
+          "ro": "Festivalul Hop Pop Hop",
+          "en": "Hop Pop Hop Festival",
+          "fr": "Festival Hop Pop Hop"
+        },
+        "summary": {
+          "de": "Das städtische Musikfestival präsentiert im Herbst Konzerte verschiedener Indie-, Pop- und Elektro-Acts an mehreren Orten in Orléans.",
+          "hu": "Az őszi városi zenei fesztivál indie-, pop- és elektroelőadókat mutat be Orléans több helyszínén.",
+          "ro": "Festivalul urban de toamnă prezintă concerte indie, pop și electro în mai multe locuri din Orléans.",
+          "en": "The autumn city music festival presents indie, pop, and electronic concerts across multiple Orléans venues.",
+          "fr": "Le festival musical d’automne propose des concerts indie, pop et électro dans plusieurs lieux d’Orléans."
+        },
+        "source_url": "https://www.tourisme-orleansmetropole.com/fr/diffusio/agenda/festival-hop-pop-hop-orleans_TFOFMACEN045V5480LT",
+        "date": "2026-09-11"
+      }
+    ]
+  }
+]

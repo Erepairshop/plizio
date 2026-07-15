@@ -1,0 +1,411 @@
+[
+  {
+    "id": "poland-rzeszow-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-04",
+        "title": {
+          "de": "Interaktive Legende",
+          "hu": "Interaktív Legenda",
+          "ro": "Legenda interactivă",
+          "en": "Interactive Legend"
+        },
+        "summary": {
+          "de": "Familienfreundliche Führung durch die Rzeszowskie Piwnice mit interaktiven Aufgaben, bei denen Besucher gemeinsam den Schatz von Rzeszów entdecken.",
+          "hu": "Családbarát bejárás a Rzeszowskie Piwnice tereiben interaktív feladatokkal, ahol a látogatók közösen fedezik fel Rzeszów kincsét.",
+          "ro": "Tur de familie în Rzeszowskie Piwnice, cu sarcini interactive prin care vizitatorii descoperă împreună comoara orașului Rzeszów.",
+          "en": "A family-friendly tour in Rzeszowskie Piwnice with interactive tasks that turn visitors into active participants searching for Rzeszów's treasure."
+        },
+        "source_url": "https://bilety.rzeszowskiepiwnice.pl/index.php/repertoire.html?id=41327"
+      },
+      {
+        "date": "2026-08-04",
+        "title": {
+          "de": "Bilder der Geschichte",
+          "hu": "A történelem képei",
+          "ro": "Imagini ale istoriei",
+          "en": "Pictures of History"
+        },
+        "summary": {
+          "de": "Traditionellere Untergrundführung in den Rzeszowskie Piwnice mit stärkerem Fokus auf die Geschichte der Keller und das Erbe der Stadt.",
+          "hu": "Hagyományosabb föld alatti tárlatvezetés a Rzeszowskie Piwnice helyszínein, nagyobb hangsúllyal a pincék történetén és a város örökségén.",
+          "ro": "Tur subteran mai tradițional în Rzeszowskie Piwnice, concentrat pe istoria pivnițelor și pe patrimoniul orașului.",
+          "en": "A more traditional underground tour in Rzeszowskie Piwnice focused on the history of the cellars and the heritage of Rzeszów."
+        },
+        "source_url": "https://bilety.rzeszowskiepiwnice.pl/index.php/repertoire.html?id=40611"
+      },
+      {
+        "date": "2026-08-08",
+        "title": {
+          "de": "Rockowa Noc 2026",
+          "hu": "Rockowa Noc 2026",
+          "ro": "Rockowa Noc 2026",
+          "en": "Rockowa Noc 2026"
+        },
+        "summary": {
+          "de": "Das Festival in Rzeszów verbindet den Bandwettbewerb mit Konzerten polnischer und internationaler Rockacts und lädt zu einem ganzen Rockabend ein.",
+          "hu": "A rzeszówi fesztivál zenekari versenyt és lengyel, valamint nemzetközi rockkoncerteket kapcsol össze egy teljes estére.",
+          "ro": "Festivalul din Rzeszów combină concursul formațiilor cu concerte ale unor artiști rock polonezi și internaționali într-o seară dedicată genului.",
+          "en": "The Rzeszów festival combines a band competition with concerts by Polish and international rock acts for a full evening of live music."
+        },
+        "source_url": "https://estrada.rzeszow.pl/wydarzenia/rockowa-noc-2026%2Cwydarzenie2023/"
+      },
+      {
+        "date": "2026-09-11",
+        "title": {
+          "de": "Breakout Days 2026",
+          "hu": "Breakout Days 2026",
+          "ro": "Breakout Days 2026",
+          "en": "Breakout Days 2026"
+        },
+        "summary": {
+          "de": "Das Musikfestival zu Ehren von Tadeusz Nalepa findet in Rzeszów vom 11. bis 13. September 2026 statt und ist eng mit der Blues- und Rocktradition der Stadt verbunden.",
+          "hu": "A Tadeusz Nalepa emlékére rendezett zenei fesztivált 2026. szeptember 11. és 13. között tartják Rzeszówban, erős blues- és rockhagyománnyal.",
+          "ro": "Festivalul muzical dedicat lui Tadeusz Nalepa are loc la Rzeszów între 11 și 13 septembrie 2026 și continuă tradiția locală de blues și rock.",
+          "en": "The music festival created in memory of Tadeusz Nalepa runs in Rzeszów from 11 to 13 September 2026 and is closely tied to the city's blues and rock heritage."
+        },
+        "source_url": "https://breakoutdays.pl/"
+      }
+    ]
+  },
+  {
+    "id": "italy-parma-cities-v2",
+    "events": [
+      {
+        "date": "2026-09-08",
+        "title": {
+          "de": "Cena dei Mille 2026",
+          "hu": "Cena dei Mille 2026",
+          "ro": "Cena dei Mille 2026",
+          "en": "Cena dei Mille 2026"
+        },
+        "summary": {
+          "de": "Die lange Tafel im historischen Zentrum von Parma bringt 1.000 Gäste zu einem mehrgängigen Abend rund um die Produkte des Parma Food Valley zusammen.",
+          "hu": "A történelmi belvárosban felállított hosszú asztal 1 000 vendéget fogad egy többfogásos estére, amely Parma Food Valley termékeire épül.",
+          "ro": "Masa lungă din centrul istoric al Parmei reunește 1.000 de invitați pentru o seară cu mai multe feluri dedicate produselor din Parma Food Valley.",
+          "en": "The long dinner table in Parma's historic centre brings together 1,000 guests for a multi-course evening built around products from the Parma Food Valley."
+        },
+        "source_url": "https://parmawelcome.it/en/cena-dei-mille2026/"
+      },
+      {
+        "date": "2026-09-12",
+        "title": {
+          "de": "Il Salone del Camper",
+          "hu": "Il Salone del Camper",
+          "ro": "Il Salone del Camper",
+          "en": "Il Salone del Camper"
+        },
+        "summary": {
+          "de": "Die große Messe in Fiere di Parma widmet sich Reisemobilen, Caravaning und Outdoor-Reisen und läuft vom 12. bis 20. September 2026.",
+          "hu": "A Fiere di Parma nagy vására lakóautókról, karavánutazásról és szabadtéri utazási élményekről szól 2026. szeptember 12. és 20. között.",
+          "ro": "Marele târg de la Fiere di Parma este dedicat rulotelor, caravaningului și călătoriilor outdoor și se desfășoară între 12 și 20 septembrie 2026.",
+          "en": "The major fair at Fiere di Parma focuses on motorhomes, caravanning and outdoor travel and runs from 12 to 20 September 2026."
+        },
+        "source_url": "https://parmawelcome.it/en/event/il-salone-del-camper/"
+      },
+      {
+        "date": "2026-10-01",
+        "title": {
+          "de": "Festival Verdi 2026",
+          "hu": "Festival Verdi 2026",
+          "ro": "Festival Verdi 2026",
+          "en": "Festival Verdi 2026"
+        },
+        "summary": {
+          "de": "Die 26. Ausgabe des Verdi-Festivals bringt Opern, Konzerte und Sonderveranstaltungen nach Parma und startet 2026 mit mehreren Verdi-Produktionen im Oktober.",
+          "hu": "A Verdi Fesztivál 26. kiadása operákat, koncerteket és különprogramokat hoz Parmába, és 2026 októberében több Verdi-produkcióval indul.",
+          "ro": "A 26-a ediție a Festivalului Verdi aduce la Parma opere, concerte și evenimente speciale și începe în octombrie 2026 cu mai multe producții Verdi.",
+          "en": "The 26th edition of the Verdi Festival brings operas, concerts and special events to Parma, opening its 2026 programme with multiple Verdi productions in October."
+        },
+        "source_url": "https://parmawelcome.it/en/event/festival-verdi-2026-2/"
+      },
+      {
+        "date": "2026-10-10",
+        "title": {
+          "de": "Zeremonie zu Ehren von Verdi",
+          "hu": "Verdi tiszteletére rendezett ünnepség",
+          "ro": "Ceremonie în onoarea lui Verdi",
+          "en": "Ceremony in Honor of Verdi"
+        },
+        "summary": {
+          "de": "Die Stadt Parma ehrt Giuseppe Verdi am Denkmal des Komponisten mit Chormusik, offiziellen Vertretern und Beteiligung lokaler Vereinigungen.",
+          "hu": "Parma városa Giuseppe Verdi előtt tiszteleg a zeneszerző emlékművénél kóruszenével, intézményi részvétellel és helyi egyesületekkel.",
+          "ro": "Orașul Parma îl omagiază pe Giuseppe Verdi la monumentul compozitorului prin muzică corală, participare instituțională și asociații locale.",
+          "en": "The city of Parma pays tribute to Giuseppe Verdi at the composer's monument with choral music, civic participation and local associations."
+        },
+        "source_url": "https://parmawelcome.it/en/event/ceremony-in-honor-of-verdi/"
+      },
+      {
+        "date": "2026-10-10",
+        "title": {
+          "de": "Gala Verdiano",
+          "hu": "Gala Verdiano",
+          "ro": "Gala Verdiano",
+          "en": "Gala Verdiano"
+        },
+        "summary": {
+          "de": "Die Festival-Verdi-Gala im Teatro Regio di Parma versammelt Sängerinnen und Sänger der Accademia Verdiana zu einem festlichen Opernabend.",
+          "hu": "A Teatro Regio di Parma színpadán megrendezett Festival Verdi-gála az Accademia Verdiana énekeseit gyűjti össze egy ünnepi operaestre.",
+          "ro": "Gala din cadrul Festivalului Verdi, organizată la Teatro Regio di Parma, reunește artiști ai Accademia Verdiana pentru o seară festivă de operă.",
+          "en": "The Festival Verdi gala at Teatro Regio di Parma brings together singers from the Accademia Verdiana for a celebratory opera evening."
+        },
+        "source_url": "https://parmawelcome.it/en/event/gala-verdiano/"
+      }
+    ]
+  },
+  {
+    "id": "city-kassel",
+    "events": [
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Galeriefest in der Südstadt",
+          "hu": "Galériafesztivál a Südstadt negyedben",
+          "ro": "Festivalul galeriilor din Südstadt",
+          "en": "Gallery Party in the Südstadt"
+        },
+        "summary": {
+          "de": "Vom 21. bis 23. August 2026 öffnen Galerien und temporäre Kunstorte in Kassels Südstadt mit Ausstellungen, Performances und Workshops.",
+          "hu": "2026. augusztus 21. és 23. között Kassel Südstadt negyedének galériái és ideiglenes művészeti helyszínei kiállításokkal, performanszokkal és workshopokkal várják a közönséget.",
+          "ro": "Între 21 și 23 august 2026, galeriile și spațiile artistice temporare din cartierul Südstadt din Kassel se deschid cu expoziții, performance-uri și ateliere.",
+          "en": "From 21 to 23 August 2026, galleries and temporary art venues in Kassel's Südstadt open for exhibitions, performances and workshops."
+        },
+        "source_url": "https://visit.kassel.de/en/poi/gallery-party-in-the-suedstadt"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Kasseler Museumsnacht",
+          "hu": "Kasseli Múzeumok Éjszakája",
+          "ro": "Noaptea Muzeelor din Kassel",
+          "en": "Kassel Museums Night"
+        },
+        "summary": {
+          "de": "Rund 50 Museen, Galerien und Kultureinrichtungen in Kassel bleiben für eine lange Kulturnacht mit Sonderprogrammen geöffnet.",
+          "hu": "Kasselben mintegy 50 múzeum, galéria és kulturális intézmény marad nyitva egy hosszú éjszakai kulturális programhoz.",
+          "ro": "Aproximativ 50 de muzee, galerii și instituții culturale din Kassel rămân deschise pentru o noapte specială de cultură.",
+          "en": "Around 50 museums, galleries and cultural institutions across Kassel stay open for a citywide night of special cultural programming."
+        },
+        "source_url": "https://www.kassel.de/buerger/sport_und_freizeit/wiederkehrende-veranstaltungen/kasseler-museumsnacht.php"
+      },
+      {
+        "date": "2026-09-11",
+        "title": {
+          "de": "Beleuchtete Wasserspiele",
+          "hu": "Kivilágított vízijátékok",
+          "ro": "Jocurile de apă iluminate",
+          "en": "Illuminated Water Features"
+        },
+        "summary": {
+          "de": "Im UNESCO-Welterbe Bergpark Wilhelmshöhe verbinden die beleuchteten Wasserspiele den historischen Wasserlauf mit einem abendlichen Rahmenprogramm.",
+          "hu": "A UNESCO-védett Bergpark Wilhelmshöhe területén a kivilágított vízijátékok esti programmal egészítik ki a történelmi vízrendszert.",
+          "ro": "În situl UNESCO Bergpark Wilhelmshöhe, jocurile de apă iluminate combină traseul istoric al apei cu un program de seară.",
+          "en": "At the UNESCO-listed Bergpark Wilhelmshöhe, the illuminated water features combine the historic water course with an atmospheric evening programme."
+        },
+        "source_url": "https://www.kassel.de/beleuchtete-wasserspiele/index.php"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "Kassel Marathon 2026",
+          "hu": "Kassel Maraton 2026",
+          "ro": "Maratonul Kassel 2026",
+          "en": "Kassel Marathon 2026"
+        },
+        "summary": {
+          "de": "Der Kassel Marathon bringt vom 18. bis 20. September 2026 Läufe, Zuschauerzonen und ein sportliches Wochenende in die Stadt.",
+          "hu": "A Kassel Maraton 2026. szeptember 18. és 20. között futóversenyekkel, nézői zónákkal és teljes sporthétvégével tölti meg a várost.",
+          "ro": "Maratonul Kassel aduce între 18 și 20 septembrie 2026 curse, zone pentru spectatori și un weekend sportiv în întregul oraș.",
+          "en": "The Kassel Marathon brings races, spectator areas and a full sports weekend to the city from 18 to 20 September 2026."
+        },
+        "source_url": "https://www.kassel.de/buerger/sport_und_freizeit/wiederkehrende-veranstaltungen/kassel-marathon.php"
+      },
+      {
+        "date": "2026-11-23",
+        "title": {
+          "de": "Märchenweihnachtsmarkt Kassel",
+          "hu": "Kasseli Mesés Karácsonyi Vásár",
+          "ro": "Târgul de Crăciun de poveste din Kassel",
+          "en": "Kassel Fairy Tale Christmas Market"
+        },
+        "summary": {
+          "de": "Der Weihnachtsmarkt in der Kasseler Innenstadt läuft vom 23. November bis 30. Dezember 2026 mit mehreren Standorten und märchenhaftem Adventsprogramm.",
+          "hu": "A kasseli belváros karácsonyi vására 2026. november 23. és december 30. között több helyszínen és mesés adventi programokkal várja a látogatókat.",
+          "ro": "Târgul de Crăciun din centrul orașului Kassel are loc între 23 noiembrie și 30 decembrie 2026, pe mai multe amplasamente și cu program festiv inspirat din basme.",
+          "en": "Kassel's city-centre Christmas market runs from 23 November to 30 December 2026 across multiple locations with a fairy-tale themed Advent programme."
+        },
+        "source_url": "https://www.kassel.de/maerchenweihnachtsmarkt/index.php"
+      }
+    ]
+  },
+  {
+    "id": "italy-prato-cities-v2",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "Streichquartett-Konzert",
+          "hu": "Vonósnégyes koncert",
+          "ro": "Concert de cvartet de coarde",
+          "en": "String Quartet Concert"
+        },
+        "summary": {
+          "de": "Öffentliches Konzert für Kammermusikpublikum in Prato mit einem Streichquartett im offiziellen Veranstaltungskalender von Prato Turismo.",
+          "hu": "Nyilvános kamarazenei koncert Pratóban egy vonósnégyessel, a Prato Turismo hivatalos eseménynaptárában.",
+          "ro": "Concert public de muzică de cameră la Prato, susținut de un cvartet de coarde și inclus în calendarul oficial Prato Turismo.",
+          "en": "A public chamber-music event in Prato featuring a string quartet, listed in the official Prato Turismo calendar."
+        },
+        "source_url": "https://www.pratoturismo.it/en/when/events/event-detail/?appointment=06a13570-6bc4-11f1-9b9f-39f9cd4bfb1f&id=f26005f0-6bc3-11f1-80e7-0536c6b9068f"
+      },
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "Explore Pretorio! Führung auf Englisch",
+          "hu": "Explore Pretorio! angol nyelvű tárlatvezetés",
+          "ro": "Explore Pretorio! tur ghidat în limba engleză",
+          "en": "Explore Pretorio! Guided Tour in English"
+        },
+        "summary": {
+          "de": "Englischsprachige Führung im Museo di Palazzo Pretorio, die internationale Besucher durch die Sammlungen des Museums führt.",
+          "hu": "Angol nyelvű vezetés a Museo di Palazzo Pretorio gyűjteményeiben nemzetközi látogatók számára.",
+          "ro": "Tur ghidat în limba engleză la Museo di Palazzo Pretorio, dedicat vizitatorilor internaționali care vor să descopere colecțiile muzeului.",
+          "en": "An English-language guided tour at the Museo di Palazzo Pretorio designed for international visitors exploring the museum's collections."
+        },
+        "source_url": "https://www.pratoturismo.it/en/when/events/event-detail/?appointment=c6143910-6e3d-11f1-89e6-f1a83162062a&id=927e5fc0-6e3d-11f1-86b7-a9ea2d49d0e8"
+      },
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "Reserve Festival 2026",
+          "hu": "Reserve Festival 2026",
+          "ro": "Reserve Festival 2026",
+          "en": "Reserve Festival 2026"
+        },
+        "summary": {
+          "de": "Festivaltermin in Prato aus dem offiziellen Tourismuskalender mit öffentlichem Kulturprogramm für Besucherinnen und Besucher.",
+          "hu": "A hivatalos turisztikai naptárban szereplő pratoi fesztiválidőpont nyilvános kulturális programmal a látogatók számára.",
+          "ro": "Eveniment de festival la Prato, inclus în calendarul turistic oficial și deschis publicului printr-un program cultural dedicat vizitatorilor.",
+          "en": "A festival date in Prato listed by the official tourism calendar, presented as a public cultural programme for visitors."
+        },
+        "source_url": "https://www.pratoturismo.it/en/when/events/event-detail/?appointment=ceeccd70-7a02-11f1-a5a4-ad06a103f26d&id=50713230-7a02-11f1-a0b5-5d2aa1320f97"
+      },
+      {
+        "date": "2026-07-29",
+        "title": {
+          "de": "Apriti Chiostro 2026",
+          "hu": "Apriti Chiostro 2026",
+          "ro": "Apriti Chiostro 2026",
+          "en": "Apriti Chiostro 2026"
+        },
+        "summary": {
+          "de": "Sommerabend im Rahmen von Apriti Chiostro mit öffentlichem Kulturprogramm in Prato, wie im offiziellen Veranstaltungskalender ausgewiesen.",
+          "hu": "Nyári esti program az Apriti Chiostro sorozatban, nyilvános kulturális eseményként Pratóban az hivatalos eseménynaptár szerint.",
+          "ro": "Program de vară din seria Apriti Chiostro, prezentat la Prato ca eveniment cultural public în calendarul oficial.",
+          "en": "A summer evening in the Apriti Chiostro series, listed in Prato's official events calendar as a public cultural event."
+        },
+        "source_url": "https://www.pratoturismo.it/en/when/events/event-detail/?appointment=49f83aa0-7eaa-11f1-9bac-6d559c14b6ae&id=ba4aaff0-50c2-11ef-8614-ff58b997972a"
+      },
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Kunst und Sterne im Kreuzgang des Doms von Prato",
+          "hu": "Művészet és csillagok a pratói dóm kerengőjében",
+          "ro": "Artă și stele în claustrul Domului din Prato",
+          "en": "Art and Stars at the Cloister of Prato Cathedral"
+        },
+        "summary": {
+          "de": "Abendveranstaltung in Prato, die Kunst und Himmelsbeobachtung im Kreuzgang des Doms miteinander verbindet.",
+          "hu": "Esti program Pratóban, amely a művészetet és az égbolt megfigyelését kapcsolja össze a dóm kerengőjében.",
+          "ro": "Eveniment de seară la Prato care combină arta și observarea cerului în claustrul catedralei.",
+          "en": "An evening event in Prato that combines art and skywatching in the cloister of the city's cathedral."
+        },
+        "source_url": "https://www.pratoturismo.it/en/when/events/event-detail/?appointment=0934e4d0-64a9-11f1-bd96-01924014c36a&id=e5c47920-64a8-11f1-b0ef-a70043a009ec"
+      }
+    ]
+  },
+  {
+    "id": "poland-bytom-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-04",
+        "title": {
+          "de": "Blumenmedaillons",
+          "hu": "Virágos medalionok",
+          "ro": "Medalioane florale",
+          "en": "Floral Medallions"
+        },
+        "summary": {
+          "de": "Kinderworkshop im Muzeum Górnośląskie, bei dem kleine Pflanzenkompositionen als Erinnerungsstücke gestaltet werden.",
+          "hu": "Gyermekfoglalkozás a Muzeum Górnośląskie intézményben, ahol apró növényi kompozíciókból készülnek emléktárgyak.",
+          "ro": "Atelier pentru copii la Muzeum Górnośląskie, în care participanții creează mici compoziții florale sub formă de medalioane.",
+          "en": "A children's workshop at the Muzeum Górnośląskie where participants create small plant-based medallion keepsakes."
+        },
+        "source_url": "https://muzeum.bytom.pl/?event=kwiatowe-medaliony-warsztaty-dla-dzieci-w-ramach-wakacji-pod-chmurka"
+      },
+      {
+        "date": "2026-08-09",
+        "title": {
+          "de": "Czardasz und Paprika",
+          "hu": "Csárdás és Paprika",
+          "ro": "Czardasz și Paprika",
+          "en": "Czardasz and Paprika"
+        },
+        "summary": {
+          "de": "Das Sommerkonzert im Amphitheater des Stadtparks verbindet ungarische Melodien, Czardas und mitteleuropäisch inspirierte Musik.",
+          "hu": "A nyári koncert a városi park amfiteátrumában magyar dallamokat, csárdást és közép-európai ihletésű zenét kapcsol össze.",
+          "ro": "Concertul de vară din amfiteatrul parcului orașului combină melodii maghiare, czardas și muzică inspirată de Europa Centrală.",
+          "en": "The summer concert at the city-park amphitheatre combines Hungarian melodies, csardas and Central European-inspired music."
+        },
+        "source_url": "https://www.becek.pl/program/event%2C4127%2Cletnie_parkogranie_2026"
+      },
+      {
+        "date": "2026-08-14",
+        "title": {
+          "de": "BCKino Plenerowe: Der Mieter",
+          "hu": "BCKino Plenerowe: A lakó",
+          "ro": "BCKino Plenerowe: Chiriașul",
+          "en": "BCKino Plenerowe: The Lodger"
+        },
+        "summary": {
+          "de": "Open-Air-Kinovorführung des Hitchcock-Stummfilms mit Live-Musik im Pałac w Miechowicach als Teil des Sommerprogramms von Bytom.",
+          "hu": "Szabadtéri vetítés Hitchcock némafilmjéből élő zenével a Pałac w Miechowicach helyszínén, Bytom nyári programsorozatában.",
+          "ro": "Proiecție în aer liber a filmului mut al lui Hitchcock, cu muzică live, la Pałac w Miechowicach, în programul estival al orașului Bytom.",
+          "en": "An open-air screening of Hitchcock's silent film with live music at Pałac w Miechowicach as part of Bytom's summer programme."
+        },
+        "source_url": "https://www.becek.pl/program/event%2C4128%2Cbckino_plenerowe"
+      },
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "BCKino Plenerowe: Der letzte Wikinger",
+          "hu": "BCKino Plenerowe: Az utolsó viking",
+          "ro": "BCKino Plenerowe: Ultimul viking",
+          "en": "BCKino Plenerowe: The Last Viking"
+        },
+        "summary": {
+          "de": "Sommerliche Open-Air-Filmnacht in Stolarzowice mit einer dänischen schwarzen Komödie im Rahmen der BCKino-Plenerowe-Reihe.",
+          "hu": "Nyári szabadtéri filmest Stolarzowice városrészben egy dán fekete komédiával a BCKino Plenerowe sorozat részeként.",
+          "ro": "Seară de cinema în aer liber la Stolarzowice, cu o comedie neagră daneză, în cadrul seriei BCKino Plenerowe.",
+          "en": "A summer open-air film night in Stolarzowice featuring a Danish black comedy in the BCKino Plenerowe series."
+        },
+        "source_url": "https://www.becek.pl/program/event%2C4128%2Cbckino_plenerowe"
+      },
+      {
+        "date": "2026-08-23",
+        "title": {
+          "de": "Gabriela Silva und musikalische Freunde",
+          "hu": "Gabriela Silva és zenei barátai",
+          "ro": "Gabriela Silva și prietenii muzicali",
+          "en": "Gabriela Silva and Musical Friends"
+        },
+        "summary": {
+          "de": "Im Amphitheater des Stadtparks erklingen Arien und Duette aus Oper und Operette, gesungen von Gabriela Silva und jungen Vokalistinnen und Vokalisten.",
+          "hu": "A városi park amfiteátrumában opera- és operettrészletek, áriák és duettek hangzanak el Gabriela Silva és fiatal énekesek előadásában.",
+          "ro": "În amfiteatrul parcului orașului răsună arii și duete din operă și operetă, interpretate de Gabriela Silva și tineri artiști vocali.",
+          "en": "At the city-park amphitheatre, arias and duets from opera and operetta are performed by Gabriela Silva together with young vocal artists."
+        },
+        "source_url": "https://www.becek.pl/program/event%2C4127%2Cletnie_parkogranie_2026"
+      }
+    ]
+  }
+]

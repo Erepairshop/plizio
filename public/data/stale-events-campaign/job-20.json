@@ -1,0 +1,421 @@
+[
+  {
+    "id": "le-havre",
+    "events": [
+      {
+        "title": {
+          "de": "Nuits Suspendues 2026",
+          "hu": "Nuits Suspendues 2026",
+          "ro": "Nuits Suspendues 2026",
+          "en": "Nuits Suspendues 2026",
+          "fr": "Nuits Suspendues 2026"
+        },
+        "summary": {
+          "de": "Das Sommerfestival in den Jardins Suspendus verbindet in luftiger Gartenkulisse Rock, Folk, Jazz, Cumbia und klassische Musik.",
+          "hu": "A Jardins Suspendus kertjeiben rendezett nyari fesztival rockot, folkot, jazzt, cumbiat es klasszikus zenet egyesit kulonleges kornyezetben.",
+          "ro": "Festivalul de vara din Jardins Suspendus combina rock, folk, jazz, cumbia si muzica clasica intr-un decor panoramic de gradina.",
+          "en": "This summer festival in the Jardins Suspendus mixes rock, folk, jazz, cumbia and classical music in a scenic garden setting.",
+          "fr": "Ce festival d'ete aux Jardins Suspendus mele rock, folk, jazz, cumbia et musique classique dans un cadre de jardin panoramique."
+        },
+        "date": "2026-08-27",
+        "source_url": "https://www.lehavre-etretat-tourisme.com/en/fiche/le-havre/nuits-suspendues-2026_TFOFMANOR076V524YQ7/"
+      },
+      {
+        "title": {
+          "de": "Béton Le Havre 2026",
+          "hu": "Beton Le Havre 2026",
+          "ro": "Beton Le Havre 2026",
+          "en": "Béton Le Havre 2026",
+          "fr": "Béton Le Havre 2026"
+        },
+        "summary": {
+          "de": "Das Architektur- und Stadtfestival bespielt mehrere Orte in Le Havre und richtet den Blick auf Baukultur, urbanen Raum und zeitgenoessische Gestaltung.",
+          "hu": "Az epiteszeti es varosi fesztival Le Havre tobb helyszinen foglalkozik epitesi kulturaval, varosi terekkel es kortars tervezessel.",
+          "ro": "Festivalul dedicat arhitecturii si orasului ocupa mai multe locuri din Le Havre si pune accent pe cultura constructiei, spatiul urban si designul contemporan.",
+          "en": "This architecture and city festival spreads across multiple Le Havre venues and focuses on built heritage, urban space and contemporary design.",
+          "fr": "Ce festival d'architecture et de ville investit plusieurs lieux du Havre et met en avant culture du bati, espace urbain et creation contemporaine."
+        },
+        "date": "2026-09-18",
+        "source_url": "https://www.lehavre-etretat-tourisme.com/en/fiche/le-havre/beton-le-havre-2026_TFOFMANOR076V526NNQ/"
+      },
+      {
+        "title": {
+          "de": "Normandie Impressionniste 2026",
+          "hu": "Normandie Impressionniste 2026",
+          "ro": "Normandie Impressionniste 2026",
+          "en": "Normandie Impressionniste 2026",
+          "fr": "Normandie Impressionniste 2026"
+        },
+        "summary": {
+          "de": "Die sechste Ausgabe des grossen Normandie-Festivals bringt bis Ende September Ausstellungen und Kulturprogramme rund um den impressionistischen Dialog nach Le Havre.",
+          "hu": "A normandiai fesztival hatodik kiadasa szeptember vegeig kiallitasi es kulturalis programokat hoz Le Havre-ba az impresszionizmus korul.",
+          "ro": "A sasea editie a marelui festival normand aduce pana la sfarsitul lui septembrie expozitii si programe culturale la Le Havre in jurul dialogului impresionist.",
+          "en": "The sixth edition of the major Normandy festival brings exhibitions and cultural programming to Le Havre through late September.",
+          "fr": "La sixieme edition de ce grand festival normand propose au Havre des expositions et rendez-vous culturels jusqu'a la fin septembre."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://www.lehavre-etretat-tourisme.com/en/fiche/le-havre/festival-normandie-impressionniste-2026_TFOFMANOR076V5259LB/"
+      },
+      {
+        "title": {
+          "de": "Un Été Au Havre 2026",
+          "hu": "Un Ete Au Havre 2026",
+          "ro": "Un Ete Au Havre 2026",
+          "en": "Un Été Au Havre 2026",
+          "fr": "Un Été Au Havre 2026"
+        },
+        "summary": {
+          "de": "Das kostenlose Sommerprogramm verwandelt die Stadt mit Kunstinstallationen, Ausstellungen, Fuehrungen und Familienformaten bis in den September.",
+          "hu": "Az ingyenes nyari programsorozat muveszeti installaciokkal, kiallitasokkal, vezetett setakkal es csaladi programokkal tolti meg a varost szeptemberig.",
+          "ro": "Programul estival gratuit transforma orasul cu instalatii de arta, expozitii, tururi ghidate si activitati pentru familii pana in septembrie.",
+          "en": "The free summer programme fills the city with art installations, exhibitions, guided visits and family activities through September.",
+          "fr": "Le programme estival gratuit anime la ville avec installations artistiques, expositions, visites guidees et activites familiales jusqu'en septembre."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://www.lehavre-etretat-tourisme.com/en/fiche/le-havre/un-ete-au-havre-2026_TFOFMANOR076V5268AT/"
+      },
+      {
+        "title": {
+          "de": "Ouest Park 2026",
+          "hu": "Ouest Park 2026",
+          "ro": "Ouest Park 2026",
+          "en": "Ouest Park 2026",
+          "fr": "Ouest Park 2026"
+        },
+        "summary": {
+          "de": "Das langjaehrige Musikfestival im Fort de Tourneville bringt im Herbst wieder mehrere Konzertabende in eine markante Festungsanlage von Le Havre.",
+          "hu": "A Fort de Tourneville-ben megrendezett regi zenei fesztival oszi koncertestekkel ter vissza Le Havre egyik jellegzetes helyszinere.",
+          "ro": "Festivalul muzical de traditie de la Fort de Tourneville revine toamna cu mai multe seri de concerte intr-un loc emblematic din Le Havre.",
+          "en": "The long-running music festival at Fort de Tourneville returns in autumn with multiple concert nights at one of Le Havre's landmark venues.",
+          "fr": "Ce festival musical de longue date au Fort de Tourneville revient a l'automne avec plusieurs soirees de concerts dans un site emblematic du Havre."
+        },
+        "date": "2026-10-16",
+        "source_url": "https://www.lehavre-etretat-tourisme.com/en/fiche/le-havre/ouest-park-2026_TFOFMANOR076V526NR6/"
+      }
+    ]
+  },
+  {
+    "id": "italy-reggio-emilia-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Emergency Festival",
+          "hu": "Emergency Festival",
+          "ro": "Emergency Festival",
+          "en": "Emergency Festival"
+        },
+        "summary": {
+          "de": "Auf den Plaetzen Piazza Prampolini und Piazza Martiri del 7 luglio laedt das Festival zu Gespraechen, Workshops und Begegnungen mit Journalistinnen, Autorinnen und Forschenden ein.",
+          "hu": "A Piazza Prampolini es a Piazza Martiri del 7 luglio terein a fesztival beszelgetesekkel, workshopokkal es talalkozokkal var ujsagirokkal, irokal es kutatokkal.",
+          "ro": "In Piazza Prampolini si Piazza Martiri del 7 luglio, festivalul aduce discutii, ateliere si intalniri cu jurnalisti, scriitori si cercetatori.",
+          "en": "Across Piazza Prampolini and Piazza Martiri del 7 luglio, the festival offers talks, workshops and encounters with journalists, writers and researchers."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://www.reggioemiliawelcome.it/en/reggio-emilia/events/events-and-initiatives/multiple-events/emergency-festival"
+      },
+      {
+        "title": {
+          "de": "Giarèda Festival",
+          "hu": "Giareda Festival",
+          "ro": "Festivalul Giareda",
+          "en": "Giarèda Festival"
+        },
+        "summary": {
+          "de": "Die historische Marktschau praesentiert Anfang September Kunsthandwerk, Gartenbau, Genuss und lokale Produzenten im Stadtzentrum von Reggio Emilia.",
+          "hu": "A tortenelmi vasari rendezveny szeptember elejen kezmuvesseget, kerteszeti bemutatokat, gasztronomiat es helyi termeloket hoz a belvarosba.",
+          "ro": "Expozitia istorica de targ aduce la inceput de septembrie artizanat, horticultura, gastronomie si producatori locali in centrul orasului.",
+          "en": "This historic market showcase brings crafts, nursery gardening, food and local producers into central Reggio Emilia in early September."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://www.reggioemiliawelcome.it/en/reggio-emilia/events/events-and-initiatives/folklore-and-festivals/giareda-festival"
+      },
+      {
+        "title": {
+          "de": "Fest des San Prospero",
+          "hu": "San Prospero unnepe",
+          "ro": "Sarbatoarea San Prospero",
+          "en": "San Prospero Festival"
+        },
+        "summary": {
+          "de": "Der Patronatsfeiertag von Reggio Emilia verbindet religiöse Zeremonien und Kulturveranstaltungen auf der Piazza San Prospero und in den Strassen der Altstadt.",
+          "hu": "Reggio Emilia vedoszentjenek unnepe vallasos szertartasokat es kulturalis programokat egyesit a Piazza San Prospero es az ovaros utcai korul.",
+          "ro": "Sarbatoarea patronului orasului combina ceremonii religioase si evenimente culturale in Piazza San Prospero si pe strazile centrului vechi.",
+          "en": "The city's patron saint celebration combines religious ceremonies and cultural events in Piazza San Prospero and the old-town streets."
+        },
+        "date": "2026-11-24",
+        "source_url": "https://www.reggioemiliawelcome.it/en/reggio-emilia/events/events-and-initiatives/folklore-and-festivals/st-prospero-festival"
+      },
+      {
+        "title": {
+          "de": "Citta del Tricolore Reggio Emilia Marathon",
+          "hu": "Citta del Tricolore Reggio Emilia Marathon",
+          "ro": "Maratonul Citta del Tricolore Reggio Emilia",
+          "en": "Citta del Tricolore Reggio Emilia Marathon"
+        },
+        "summary": {
+          "de": "Der internationale Marathon startet und endet an der Piazza della Vittoria und fuehrt Laeuferinnen und Laeufer durch die Landschaft bis in Richtung Quattro Castella.",
+          "hu": "A nemzetkozi maraton a Piazza della Vittoria terrol indul es oda erkezik vissza, utvonala pedig a videken at Quattro Castella fele halad.",
+          "ro": "Maratonul international porneste si se incheie in Piazza della Vittoria, iar traseul duce participantii prin zona rurala spre Quattro Castella.",
+          "en": "The international marathon starts and finishes at Piazza della Vittoria and sends runners through the surrounding countryside toward Quattro Castella."
+        },
+        "date": "2026-12-13",
+        "source_url": "https://www.reggioemiliawelcome.it/en/reggio-emilia/events/events-and-initiatives/sports-and-games/citta-del-tricolore-reggio-emilia-marathon-1"
+      }
+    ]
+  },
+  {
+    "id": "spain-castellon-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Plácido Domingo im SOM Festival",
+          "hu": "Placido Domingo a SOM Festivalon",
+          "ro": "Placido Domingo la SOM Festival",
+          "en": "Plácido Domingo at SOM Festival"
+        },
+        "summary": {
+          "de": "Der Tenor tritt beim SOM Festival im Hafen von Castellon gemeinsam mit der Orquestra Simfonica de Castello auf.",
+          "hu": "A tenor a castelloni kikotoben rendezett SOM Festivalon lep fel az Orquestra Simfonica de Castello tarsasagaban.",
+          "ro": "Tenorul urca pe scena SOM Festival din portul Castellon alaturi de Orquestra Simfonica de Castello.",
+          "en": "The tenor performs at SOM Festival in the Port of Castellon together with the Orquestra Simfonica de Castello."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://somfestival.es/eventos/placidodomingo"
+      },
+      {
+        "title": {
+          "de": "SILOÉ im SOM Festival",
+          "hu": "SILOE a SOM Festivalon",
+          "ro": "SILOE la SOM Festival",
+          "en": "SILOÉ at SOM Festival"
+        },
+        "summary": {
+          "de": "Die Band bringt ihre Campo Grande Tour nach Castellon und spielt ihren einzigen Auftritt der Provinz 2026 beim SOM Festival.",
+          "hu": "A zenekar a Campo Grande Tour musorat hozza Castellonba, es 2026-ban ez lesz egyetlen koncertje a tartomanyban.",
+          "ro": "Trupa aduce turneul Campo Grande la Castellon, intr-unicul sau concert din provincia Castellon din 2026.",
+          "en": "The band brings its Campo Grande Tour to Castellon for its only 2026 show in the province."
+        },
+        "date": "2026-07-30",
+        "source_url": "https://somfestival.es/eventos/siloe"
+      },
+      {
+        "title": {
+          "de": "Siempre Así im SOM Festival",
+          "hu": "Siempre Asi a SOM Festivalon",
+          "ro": "Siempre Asi la SOM Festival",
+          "en": "Siempre Así at SOM Festival"
+        },
+        "summary": {
+          "de": "Die sevillanische Gruppe bringt Anfang August ihre bekannten Rumbas und Mitsing-Hits an das Mittelmeer in Castellon.",
+          "hu": "A sevillai egyuttes augusztus elejen ismert rumba-dalaival es kozos eneklesre hivogo slagerjeivel erkezik Castellonba.",
+          "ro": "Formatia din Sevilla aduce la inceput de august rumbas cunoscute si refrene de cantat impreuna pe malul Mediteranei la Castellon.",
+          "en": "The long-running Seville group brings sing-along rumbas and familiar hits to the Mediterranean waterfront in Castellon."
+        },
+        "date": "2026-08-02",
+        "source_url": "https://somfestival.es/eventos/siempreasi"
+      },
+      {
+        "title": {
+          "de": "Los Delinquentes im SOM Festival",
+          "hu": "Los Delinquentes a SOM Festivalon",
+          "ro": "Los Delinquentes la SOM Festival",
+          "en": "Los Delinquentes at SOM Festival"
+        },
+        "summary": {
+          "de": "Die Gruppe aus Jerez bringt am Festivalwochenende ihren rumba-gepraegten Rocksound und eine sehr sommerliche Live-Show nach Castellon.",
+          "hu": "A jerezi egyuttes nyari koncerttel es rumba-hatasu rockhangzassal erkezik a fesztivalhetvegere Castellonba.",
+          "ro": "Grupul din Jerez aduce in weekendul festivalului sonoritatea sa de rock cu influente rumba si un concert de vara la Castellon.",
+          "en": "The Jerez band brings its rumba-tinged rock sound and a summery live set to Castellon during the festival weekend."
+        },
+        "date": "2026-08-07",
+        "source_url": "https://somfestival.es/eventos/losdelinquentes"
+      },
+      {
+        "title": {
+          "de": "CAPLA Festival",
+          "hu": "CAPLA Festival",
+          "ro": "Festivalul CAPLA",
+          "en": "CAPLA Festival"
+        },
+        "summary": {
+          "de": "Das Festival im Recinto de Ferias y Mercados bringt Anfang Oktober ein grosses Publikumsprogramm nach Castellon de la Plana.",
+          "hu": "Az oktober eleji fesztival a Recinto de Ferias y Mercados helyszinen nagy kozonsegprogrammal varja a latogatokat Castellon de la Planaban.",
+          "ro": "Festivalul de la Recinto de Ferias y Mercados aduce la inceput de octombrie un program amplu pentru public in Castellon de la Plana.",
+          "en": "The festival at Recinto de Ferias y Mercados brings a major public programme to Castellon de la Plana in early October."
+        },
+        "date": "2026-10-03",
+        "source_url": "https://www.entradascastellon.com/2026/10/3/capla-festival"
+      }
+    ]
+  },
+  {
+    "id": "czechrepublic-plzen-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Inspiral Garden",
+          "hu": "Inspiral Garden",
+          "ro": "Inspiral Garden",
+          "en": "Inspiral Garden"
+        },
+        "summary": {
+          "de": "Das Sommerformat zaehlt zu den Top-Events von Pilsen und bringt Anfang August Kulturprogramm in die Stadt.",
+          "hu": "Ez a nyari rendezveny Pilsen kiemelt esemenyei koze tartozik, es augusztus elejen kulturprogramokkal tolti meg a varost.",
+          "ro": "Acest format estival se numara printre evenimentele de top ale orasului Plzen si aduce la inceput de august un program cultural in oras.",
+          "en": "This summer format is listed among Pilsen's top events and brings cultural programming into the city in early August."
+        },
+        "date": "2026-08-03",
+        "source_url": "https://www.visitplzen.eu/en/events/top-events/"
+      },
+      {
+        "title": {
+          "de": "Festival on the Street",
+          "hu": "Festival on the Street",
+          "ro": "Festival on the Street",
+          "en": "Festival on the Street"
+        },
+        "summary": {
+          "de": "Das Top-Event laesst im August mehrere Tage lang Kultur in die Innenstadt ausstrahlen und gehoert zu den bekanntesten Sommerformaten von Pilsen.",
+          "hu": "A kiemelt fesztival augusztusban tobb napon at hoz programokat a belvaros utcaira, es Pilsen egyik legismertebb nyari rendezvenye.",
+          "ro": "Acest eveniment de top anima centrul orasului timp de mai multe zile in august si este unul dintre cele mai cunoscute programe de vara din Plzen.",
+          "en": "This top event spreads cultural programming through the city centre over several days in August and ranks among Pilsen's best-known summer fixtures."
+        },
+        "date": "2026-08-14",
+        "source_url": "https://www.visitplzen.eu/en/events/top-events/"
+      },
+      {
+        "title": {
+          "de": "Pilsen Busking Fest",
+          "hu": "Pilsen Busking Fest",
+          "ro": "Pilsen Busking Fest",
+          "en": "Pilsen Busking Fest"
+        },
+        "summary": {
+          "de": "Das Strassenkunst- und Musikformat gehoert zu den Top-Events der Stadt und bespielt Anfang September oeffentliche Orte in Pilsen.",
+          "hu": "Az utcamuveszeti es zenei rendezveny a varos kiemelt esemenye, es szeptember elejen Pilsen kozossegi tereit tolti meg.",
+          "ro": "Festivalul de muzica si arta stradala se numara printre evenimentele de top ale orasului si ocupa spatiile publice din Plzen la inceput de septembrie.",
+          "en": "This street performance and music event is one of the city's top fixtures and activates public spaces across Pilsen in early September."
+        },
+        "date": "2026-09-03",
+        "source_url": "https://www.visitplzen.eu/en/events/top-events/"
+      },
+      {
+        "title": {
+          "de": "Divadlo International Theatre Festival",
+          "hu": "Divadlo International Theatre Festival",
+          "ro": "Festivalul International de Teatru Divadlo",
+          "en": "Divadlo International Theatre Festival"
+        },
+        "summary": {
+          "de": "Das internationale Theaterfestival gehoert zu den kulturellen Hoehepunkten des Pilsener Herbstes und laeuft ueber mehrere Tage im September.",
+          "hu": "A nemzetkozi szinhazi fesztival a pilseni osz egyik fo kulturális esemenye, es szeptemberben tobb napon at tart.",
+          "ro": "Festivalul international de teatru este unul dintre varfurile culturale ale toamnei la Plzen si se desfasoara pe durata mai multor zile in septembrie.",
+          "en": "The international theatre festival is one of Pilsen's key autumn cultural highlights and runs over several days in September."
+        },
+        "date": "2026-09-09",
+        "source_url": "https://www.visitplzen.eu/en/events/top-events/"
+      },
+      {
+        "title": {
+          "de": "Sun in a Glass",
+          "hu": "Sun in a Glass",
+          "ro": "Sun in a Glass",
+          "en": "Sun in a Glass"
+        },
+        "summary": {
+          "de": "Im Purkmistr Brewery feiert das bei freiem Eintritt zugaengliche Event Bierkultur und gehoert zu den kulinarischen Top-Terminen im September.",
+          "hu": "A Purkmistr Brewery helyszinen, ingyenes belepessel, ez a rendezveny a sorkulturat unnepli es a szeptemberi gasztroesemenyek koze tartozik.",
+          "ro": "Organizat la Purkmistr Brewery cu acces gratuit, evenimentul celebreaza cultura berii si este unul dintre marile rendez-vous gastronomice din septembrie.",
+          "en": "Held at Purkmistr Brewery with free admission, this event celebrates beer culture and is one of Pilsen's notable September food-and-drink dates."
+        },
+        "date": "2026-09-18",
+        "source_url": "https://www.visitplzen.eu/en/events/top-events/sun-in-a-glass/"
+      }
+    ]
+  },
+  {
+    "id": "berlin-neukolln",
+    "events": [
+      {
+        "title": {
+          "de": "DRANGSAL im Heimathafen Neukölln",
+          "hu": "DRANGSAL a Heimathafen Neukollnben",
+          "ro": "DRANGSAL la Heimathafen Neukolln",
+          "en": "DRANGSAL at Heimathafen Neukölln"
+        },
+        "summary": {
+          "de": "Das Indie-, New-Wave- und Post-Punk-Konzert bringt DRANGSAL Anfang September in den Saal des Heimathafen Neukölln.",
+          "hu": "Az indie, new wave es post-punk koncert szeptember elejen hozza DRANGSAL-t a Heimathafen Neukolln szinpadara.",
+          "ro": "Concertul de indie, new wave si post-punk il aduce pe DRANGSAL la inceput de septembrie pe scena Heimathafen Neukolln.",
+          "en": "This indie, new wave and post-punk concert brings DRANGSAL to the main hall of Heimathafen Neukölln in early September."
+        },
+        "date": "2026-09-05",
+        "source_url": "https://heimathafen-neukoelln.de/events/drangsal/"
+      },
+      {
+        "title": {
+          "de": "Sing Dela Sing",
+          "hu": "Sing Dela Sing",
+          "ro": "Sing Dela Sing",
+          "en": "Sing Dela Sing"
+        },
+        "summary": {
+          "de": "Die interaktive Karaoke-Show im Heimathafen Neukölln bietet einen gemeinschaftlichen Abend zum Mitsingen im grossen Saal.",
+          "hu": "A Heimathafen Neukolln interaktiv karaokeestje kozos eneklesre epulo, kozossegi hangulatu program a nagyteremben.",
+          "ro": "Spectacolul interactiv de karaoke de la Heimathafen Neukolln ofera o seara participativa de cantat impreuna in sala mare.",
+          "en": "The interactive karaoke show at Heimathafen Neukölln offers a communal sing-along night in the main hall."
+        },
+        "date": "2026-09-20",
+        "source_url": "https://heimathafen-neukoelln.de/events/sing-dela-sing/"
+      },
+      {
+        "title": {
+          "de": "Leo Middea",
+          "hu": "Leo Middea",
+          "ro": "Leo Middea",
+          "en": "Leo Middea"
+        },
+        "summary": {
+          "de": "Der Abend mit brasilianischer MPB, Bossa Nova und Samba bringt Leo Middea im September in den Heimathafen Neukölln.",
+          "hu": "A brazil MPB-t, bossa novat es sambat bemutato esten Leo Middea szeptemberben lep fel a Heimathafen Neukollnben.",
+          "ro": "Seara dedicata MPB-ului brazilian, bossa novai si samba il aduce pe Leo Middea in septembrie la Heimathafen Neukolln.",
+          "en": "An evening of Brazilian MPB, bossa nova and samba brings Leo Middea to Heimathafen Neukölln in September."
+        },
+        "date": "2026-09-21",
+        "source_url": "https://heimathafen-neukoelln.de/events/leo-middea/"
+      },
+      {
+        "title": {
+          "de": "Lukas Klaschinski: PsychoSpiele 2026",
+          "hu": "Lukas Klaschinski: PsychoSpiele 2026",
+          "ro": "Lukas Klaschinski: PsychoSpiele 2026",
+          "en": "Lukas Klaschinski: PsychoSpiele 2026"
+        },
+        "summary": {
+          "de": "Die Liveshow verbindet Psychologie, Humor und alltagsnahe Impulse fuer das Publikum im Heimathafen Neukölln.",
+          "hu": "Az eloadas pszichologiat, humort es hetkoznapi onismereti impulzusokat kapcsol ossze a Heimathafen Neukolln kozonsege szamara.",
+          "ro": "Show-ul live combina psihologie, umor si idei aplicate pentru viata de zi cu zi pentru publicul de la Heimathafen Neukolln.",
+          "en": "The live show combines psychology, humour and practical everyday insights for the Heimathafen Neukölln audience."
+        },
+        "date": "2026-09-25",
+        "source_url": "https://heimathafen-neukoelln.de/events/lukas-klaschinski/"
+      },
+      {
+        "title": {
+          "de": "Tatty Macleod",
+          "hu": "Tatty Macleod",
+          "ro": "Tatty Macleod",
+          "en": "Tatty Macleod"
+        },
+        "summary": {
+          "de": "Die englischsprachige Comedy-Show der als French TikTok Lady bekannten Kuenstlerin gastiert im Oktober im Heimathafen Neukölln.",
+          "hu": "A French TikTok Lady neven ismert eloadomuvesz angol nyelvu comedy-show-ja oktoberben erkezik a Heimathafen Neukollnbe.",
+          "ro": "Show-ul de comedie in limba engleza al artistei cunoscute drept French TikTok Lady ajunge in octombrie la Heimathafen Neukolln.",
+          "en": "The English-language comedy show by the performer known as the French TikTok Lady comes to Heimathafen Neukölln in October."
+        },
+        "date": "2026-10-13",
+        "source_url": "https://heimathafen-neukoelln.de/events/tatty-macleod/"
+      }
+    ]
+  }
+]

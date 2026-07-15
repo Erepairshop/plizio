@@ -54,7 +54,10 @@ for (const result of batches) {
   if (incoming.length === 0) throw new Error(`no replacement events supplied for ${id}`);
 
   for (const event of incoming) {
-    if (!isIsoDate(event.date) || event.date < CUTOFF) {
+    const endDate = event.date_end || event.end_date || event.endDate;
+    const isRecurrent = !!(event.period && typeof event.period === "object" && event.period.recurrent);
+    const remainsRelevant = (isIsoDate(endDate) && endDate >= CUTOFF) || isRecurrent;
+    if (!isIsoDate(event.date) || (event.date < CUTOFF && !remainsRelevant)) {
       throw new Error(`${id}: invalid or stale event date: ${event.date}`);
     }
     if (!isHttpUrl(event.source_url)) {
@@ -70,7 +73,16 @@ for (const result of batches) {
   }
 
   const existing = Array.isArray(sidecar[id]) ? sidecar[id] : [];
-  const retained = existing.filter((event) => isIsoDate(event.date) && event.date >= CUTOFF);
+  const retained = existing.filter((event) => {
+    if (!isIsoDate(event.date)) return false;
+    const hasRequiredContent = REQUIRED_LANGS.every((lang) =>
+      String(event.title?.[lang] || "").trim() && String(event.summary?.[lang] || "").trim(),
+    );
+    if (!hasRequiredContent) return false;
+    const endDate = event.date_end || event.end_date || event.endDate;
+    const isRecurrent = !!(event.period && typeof event.period === "object" && event.period.recurrent);
+    return event.date >= CUTOFF || (isIsoDate(endDate) && endDate >= CUTOFF) || isRecurrent;
+  });
   removed += existing.length - retained.length;
 
   // One official programme page may legitimately describe several distinct events.

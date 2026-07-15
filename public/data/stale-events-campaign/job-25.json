@@ -1,0 +1,323 @@
+[
+  {
+    "id": "prenzlauer-berg-extra",
+    "events": [
+      {
+        "date": "2026-08-12",
+        "title": {
+          "de": "MISSIO im Frannz Club",
+          "hu": "MISSIO a Frannz Clubban",
+          "ro": "MISSIO la Frannz Club",
+          "en": "MISSIO at Frannz Club"
+        },
+        "summary": {
+          "de": "Das US-Duo MISSIO spielt ein öffentliches Abendkonzert im Frannz der Kulturbrauerei in Prenzlauer Berg.",
+          "hu": "A MISSIO amerikai duó nyilvános esti koncertet ad a Kulturbrauerei Frannz Clubjában, Prenzlauer Bergben.",
+          "ro": "Duo-ul american MISSIO susține un concert public de seară la Frannz, în Kulturbrauerei din Prenzlauer Berg.",
+          "en": "The US duo MISSIO plays a public evening concert at Frannz in the Kulturbrauerei complex in Prenzlauer Berg."
+        },
+        "source_url": "https://www.berlin.de/en/tickets/rock-pop/missio-tour-2026-5700dcac-5773-4a3e-8ad8-f19bf2255803/"
+      },
+      {
+        "date": "2026-08-13",
+        "title": {
+          "de": "Schwarze Löcher im Zeiss-Großplanetarium",
+          "hu": "Fekete lyukak a Zeiss Nagyplanetáriumban",
+          "ro": "Găuri negre la Zeiss-Großplanetarium",
+          "en": "Black Holes at Zeiss Major Planetarium"
+        },
+        "summary": {
+          "de": "Die Show im Zeiss-Großplanetarium erklärt Schwarze Löcher und kosmische Phänomene in einem öffentlichen Abendprogramm in Prenzlauer Berg.",
+          "hu": "A Zeiss Nagyplanetárium esti műsora a fekete lyukakat és kozmikus jelenségeket mutatja be Prenzlauer Bergben.",
+          "ro": "Programul de seară de la Zeiss-Großplanetarium explică găurile negre și fenomenele cosmice într-un eveniment public din Prenzlauer Berg.",
+          "en": "The Zeiss Major Planetarium presents a public evening show on black holes and cosmic phenomena in Prenzlauer Berg."
+        },
+        "source_url": "https://www.berlin.de/en/tickets/miscellaneous/black-holes/2026-08-13-n-a-d472b179-77cf-4c83-adbc-937f3e61163c/"
+      },
+      {
+        "date": "2026-09-04",
+        "title": {
+          "de": "FIBA Frauen-Basketball-WM 2026 in der Max-Schmeling-Halle",
+          "hu": "Női kosárlabda-világbajnokság 2026 a Max-Schmeling-Halléban",
+          "ro": "Cupa Mondială FIBA feminină 2026 la Max-Schmeling-Halle",
+          "en": "FIBA Women's Basketball World Cup 2026 at Max-Schmeling-Halle"
+        },
+        "summary": {
+          "de": "Die Gruppenphase der FIBA Frauen-Basketball-WM gastiert in der Max-Schmeling-Halle mit internationalen Spielen im Prenzlauer-Berg-Areal.",
+          "hu": "A FIBA női kosárlabda-világbajnokság csoportköre nemzetközi mérkőzésekkel érkezik a Max-Schmeling-Halléba, Prenzlauer Berg közelébe.",
+          "ro": "Faza grupelor Cupei Mondiale FIBA feminine ajunge la Max-Schmeling-Halle cu meciuri internaționale în zona Prenzlauer Berg.",
+          "en": "The group stage of the FIBA Women's Basketball World Cup comes to Max-Schmeling-Halle with international games in the Prenzlauer Berg area."
+        },
+        "source_url": "https://www.max-schmeling-halle.de/en/events/event/womens-basketball-world-cup-germany-2026-max-schmeling-halle-2026-09-04-early-session"
+      },
+      {
+        "date": "2026-09-27",
+        "title": {
+          "de": "Panzerballett feat. Virgil Donati in der Kulturbrauerei",
+          "hu": "Panzerballett feat. Virgil Donati a Kulturbrauereiben",
+          "ro": "Panzerballett feat. Virgil Donati la Kulturbrauerei",
+          "en": "Panzerballett feat. Virgil Donati at Kulturbrauerei"
+        },
+        "summary": {
+          "de": "Panzerballett tritt mit Virgil Donati im Maschinenhaus der Kulturbrauerei auf, einem festen Konzertort in Prenzlauer Berg.",
+          "hu": "A Panzerballett Virgil Donatival a Kulturbrauerei Maschinenhaus termében lép fel, amely Prenzlauer Berg egyik ismert koncerthelyszíne.",
+          "ro": "Panzerballett cântă cu Virgil Donati în Maschinenhaus din Kulturbrauerei, un loc de concerte cunoscut din Prenzlauer Berg.",
+          "en": "Panzerballett performs with Virgil Donati at the Maschinenhaus in Kulturbrauerei, a well-known Prenzlauer Berg venue."
+        },
+        "source_url": "https://www.berlin.de/en/tickets/rock-pop/panzerballett-feat-virgil-donati-6b9b659d-aeb6-440c-a43a-b39577b7ef48/"
+      }
+    ]
+  },
+  {
+    "id": "france-nimes-north-cities-v2",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "Festival \"Un réalisateur dans la ville\"",
+          "hu": "\"Un réalisateur dans la ville\" fesztivál",
+          "ro": "Festivalul „Un réalisateur dans la ville”",
+          "en": "\"Un réalisateur dans la ville\" festival",
+          "fr": "Festival « Un réalisateur dans la ville »"
+        },
+        "summary": {
+          "de": "Das kostenlose Open-Air-Kinofestival in den Jardins de la Fontaine widmet seine Ausgabe 2026 dem Regisseur und Schauspieler Olivier Marchal.",
+          "hu": "Az ingyenes szabadtéri filmfesztivál a Jardins de la Fontaine helyszínén 2026-ban Olivier Marchal rendező-színész munkásságát állítja középpontba.",
+          "ro": "Festivalul gratuit de cinema în aer liber din Jardins de la Fontaine îi dedică ediția 2026 regizorului și actorului Olivier Marchal.",
+          "en": "The free open-air film festival in the Jardins de la Fontaine dedicates its 2026 edition to filmmaker and actor Olivier Marchal.",
+          "fr": "Le festival gratuit de cinéma en plein air aux Jardins de la Fontaine consacre son édition 2026 au cinéaste et acteur Olivier Marchal."
+        },
+        "source_url": "https://www.nimes.fr/agenda/festival-un-realisateur-dans-la-ville"
+      },
+      {
+        "date": "2026-07-28",
+        "title": {
+          "de": "Nîmes au clair de lune",
+          "hu": "Nîmes au clair de lune esti séta",
+          "ro": "Nîmes au clair de lune",
+          "en": "Nîmes by Moonlight",
+          "fr": "Nîmes au clair de lune"
+        },
+        "summary": {
+          "de": "Die Abendführung des Tourismusbüros zeigt die Altstadt von Nîmes im Sommerlicht und läuft dienstags und mittwochs bis Ende August.",
+          "hu": "A turisztikai iroda esti városnézése Nîmes óvárosát mutatja be a nyári esti fényekben, keddenként és szerdánként augusztus végéig.",
+          "ro": "Turul de seară organizat de biroul de turism prezintă centrul vechi al orașului Nîmes în lumina verii și are loc marțea și miercurea până la sfârșitul lui august.",
+          "en": "The tourist office's evening guided walk explores Nîmes old town in summer light and runs on Tuesdays and Wednesdays through late August.",
+          "fr": "La visite guidée nocturne de l'office de tourisme fait découvrir le centre ancien de Nîmes à la lumière d'été, les mardis et mercredis jusqu'à fin août."
+        },
+        "source_url": "https://nimes-tourisme.com/profiter/agenda/nimes-au-clair-de-lune/"
+      },
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Jeudis de Nîmes 2026",
+          "hu": "Jeudis de Nîmes 2026",
+          "ro": "Jeudis de Nîmes 2026",
+          "en": "Jeudis de Nîmes 2026",
+          "fr": "Jeudis de Nîmes 2026"
+        },
+        "summary": {
+          "de": "Die Sommerreihe im Stadtzentrum kombiniert donnerstags Konzerte, Nachtmärkte und regionale Produkte bis zum 27. August.",
+          "hu": "A belvárosi nyári programsorozat csütörtök esténként koncerteket, esti piacokat és helyi termékeket kínál augusztus 27-ig.",
+          "ro": "Seria estivală din centrul orașului combină joia concerte, piețe nocturne și produse locale până pe 27 august.",
+          "en": "The summer series in the city centre combines Thursday concerts, night markets and local produce through 27 August.",
+          "fr": "Cette programmation estivale au centre-ville réunit chaque jeudi concerts, marchés nocturnes et produits du terroir jusqu'au 27 août."
+        },
+        "source_url": "https://www.nimes.fr/agenda/jeudis-de-nimes-2026"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "Feria des Vendanges",
+          "hu": "Feria des Vendanges",
+          "ro": "Feria des Vendanges",
+          "en": "Feria des Vendanges",
+          "fr": "Feria des Vendanges"
+        },
+        "summary": {
+          "de": "Die Herbstferia in Nîmes bringt an drei Tagen Stierkampf- und Camargue-Traditionen zurück in die Arènes und die Innenstadt.",
+          "hu": "Nîmes őszi feriája három napon át viszi vissza az arénákba és a belvárosba a bikaviadal- és camargue-hagyományokat.",
+          "ro": "Feria de toamnă din Nîmes readuce timp de trei zile tradițiile coridelor și ale Camarguei în arene și în centrul orașului.",
+          "en": "Nîmes' autumn feria brings bullfighting and Camargue traditions back to the Arènes and city centre for three days.",
+          "fr": "La feria d'automne de Nîmes fait revenir pendant trois jours les traditions taurines et camarguaises dans les Arènes et le centre-ville."
+        },
+        "source_url": "https://arenesdenimes.com/actu/2025/le-calendrier-de-la-temporada-2026.html"
+      }
+    ]
+  },
+  {
+    "id": "city-clermont-ferrand-extra",
+    "events": [
+      {
+        "date": "2026-08-27",
+        "title": {
+          "de": "Bal de la Libération",
+          "hu": "A felszabadulás bálja",
+          "ro": "Balul Eliberării",
+          "en": "Liberation Ball"
+        },
+        "summary": {
+          "de": "Clermont-Ferrand begeht den 82. Jahrestag seiner Befreiung mit einem öffentlichen Abendball auf dem Place de la Victoire.",
+          "hu": "Clermont-Ferrand a felszabadulás 82. évfordulóját nyilvános esti bállal ünnepli a Place de la Victoire téren.",
+          "ro": "Clermont-Ferrand marchează 82 de ani de la eliberare printr-un bal public de seară în Place de la Victoire.",
+          "en": "Clermont-Ferrand marks the 82nd anniversary of its liberation with a public evening ball on Place de la Victoire."
+        },
+        "source_url": "https://clermont-ferrand.fr/agenda/bal-de-la-liberation"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "Nuit de l'image 2026",
+          "hu": "A kép éjszakája 2026",
+          "ro": "Noaptea imaginii 2026",
+          "en": "Night of the Image 2026"
+        },
+        "summary": {
+          "de": "Im Parc de la Muraille bietet die Stadt Workshops, ein gemeinsames Picknick, ein Konzert und nächtliche Projektionen rund um visuelle Kunst.",
+          "hu": "A Parc de la Muraille helyszínén a város workshopokat, közös pikniket, koncertet és esti vetítéseket kínál a vizuális művészet köré építve.",
+          "ro": "În Parc de la Muraille, orașul propune ateliere, picnic colectiv, concert și proiecții nocturne dedicate artelor vizuale.",
+          "en": "At Parc de la Muraille, the city stages workshops, a shared picnic, a concert and night projections focused on visual art."
+        },
+        "source_url": "https://clermont-ferrand.fr/agenda/nuit-de-limage-2026"
+      },
+      {
+        "date": "2026-09-12",
+        "title": {
+          "de": "ASM Clermont Auvergne gegen Paris",
+          "hu": "ASM Clermont Auvergne - Paris",
+          "ro": "ASM Clermont Auvergne vs Paris",
+          "en": "ASM Clermont Auvergne vs Paris"
+        },
+        "summary": {
+          "de": "Das Heimspiel der ASM Clermont Auvergne im Stade Marcel-Michelin ist als nächste öffentliche TOP-14-Partie der Saison 2026/27 angekündigt.",
+          "hu": "Az ASM Clermont Auvergne hazai mérkőzését a Stade Marcel-Michelin stadionban a 2026/27-es TOP 14 idény következő nyilvános találkozójaként hirdetik.",
+          "ro": "Meciul de acasă al ASM Clermont Auvergne pe Stade Marcel-Michelin este anunțat ca următoarea partidă publică din TOP 14, sezonul 2026/27.",
+          "en": "ASM Clermont Auvergne's home game at Stade Marcel-Michelin is listed as the next public TOP 14 fixture of the 2026/27 season."
+        },
+        "source_url": "https://www.asm-rugby.com/billetterie/billetterie-grand-public/calendrier-billetterie-2025-26-gp"
+      },
+      {
+        "date": "2026-10-02",
+        "title": {
+          "de": "ENCORE in der Coopérative de Mai",
+          "hu": "ENCORE a Coopérative de Mai színpadán",
+          "ro": "ENCORE la Coopérative de Mai",
+          "en": "ENCORE at Coopérative de Mai"
+        },
+        "summary": {
+          "de": "Die Electro-Pop-Veranstaltung ENCORE steht Anfang Oktober im Programm der Coopérative de Mai in Clermont-Ferrand.",
+          "hu": "Az ENCORE elektro-pop esemény október elején szerepel a clermont-ferrand-i Coopérative de Mai programjában.",
+          "ro": "Evenimentul electro-pop ENCORE este programat la început de octombrie la Coopérative de Mai din Clermont-Ferrand.",
+          "en": "The electro-pop event ENCORE is scheduled at Clermont-Ferrand's Coopérative de Mai at the start of October."
+        },
+        "source_url": "https://clermont-ferrand.fr/agenda/encore"
+      }
+    ]
+  },
+  {
+    "id": "pecs",
+    "events": [
+      {
+        "date": "2026-09-20",
+        "title": {
+          "de": "Franz-Liszt-Klavierwettbewerb: Orchesterfinale und Preisverleihung",
+          "hu": "Nemzetközi Liszt Ferenc Zongoraverseny: zenekari döntő és díjátadó",
+          "ro": "Concursul Internațional de Pian Franz Liszt: finala cu orchestră și gala de premiere",
+          "en": "Franz Liszt International Piano Competition: orchestral final and awards"
+        },
+        "summary": {
+          "de": "Das Kodály Központ in Pécs richtet das Orchesterfinale mit Ergebnisverkündung des internationalen Liszt-Wettbewerbs aus.",
+          "hu": "A pécsi Kodály Központ ad otthont a nemzetközi Liszt-verseny zenekari döntőjének és eredményhirdetésének.",
+          "ro": "Kodály Központ din Pécs găzduiește finala cu orchestră și anunțarea rezultatelor concursului internațional Liszt.",
+          "en": "Pécs' Kodály Centre hosts the orchestral final and results announcement of the international Liszt competition."
+        },
+        "source_url": "https://filharmonia.hu/en/programmes/5818/franz-liszt-international-piano-competition-orchestral-final"
+      },
+      {
+        "date": "2026-10-14",
+        "title": {
+          "de": "Az én szívem játszik mit Lábas Viki",
+          "hu": "Az én szívem játszik - Lábas Viki összművészeti estje",
+          "ro": "Az én szívem játszik cu Lábas Viki",
+          "en": "My Heart Plays with Lábas Viki"
+        },
+        "summary": {
+          "de": "Lábas Viki bringt im Kodály Központ einen 75-minütigen spartenübergreifenden Abend mit Musik, Tanz und persönlichen Texten auf die Bühne.",
+          "hu": "Lábas Viki 75 perces összművészeti esten zenét, táncot és személyes szövegeket kapcsol össze a Kodály Központban.",
+          "ro": "Lábas Viki aduce pe scena Kodály Központ un spectacol de 75 de minute care combină muzică, dans și texte personale.",
+          "en": "Lábas Viki brings a 75-minute multidisciplinary stage work of music, dance and personal texts to the Kodály Centre."
+        },
+        "source_url": "https://www.kodalykozpont.hu/programok/az-en-szivem-jatszik-labas-viki-osszmuveszeti-estje"
+      },
+      {
+        "date": "2026-10-20",
+        "title": {
+          "de": "Ólafur Arnalds: Falling Apart Together",
+          "hu": "Ólafur Arnalds: Falling Apart Together",
+          "ro": "Ólafur Arnalds: Falling Apart Together",
+          "en": "Ólafur Arnalds: Falling Apart Together"
+        },
+        "summary": {
+          "de": "Der isländische Komponist und Produzent Ólafur Arnalds gastiert mit seinem Hybridkonzertprojekt im Kodály Központ in Pécs.",
+          "hu": "Az izlandi zeneszerző és producer, Ólafur Arnalds hibrid koncertprojektjével lép fel a pécsi Kodály Központban.",
+          "ro": "Compozitorul și producătorul islandez Ólafur Arnalds aduce proiectul său de concert hibrid la Kodály Központ din Pécs.",
+          "en": "Icelandic composer and producer Ólafur Arnalds brings his hybrid concert project to the Kodály Centre in Pécs."
+        },
+        "source_url": "https://www.kodalykozpont.hu/programok/olafur-arnalds-falling-apart-together"
+      }
+    ]
+  },
+  {
+    "id": "italy-venezia-mestre-cities-v2",
+    "events": [
+      {
+        "date": "2026-09-01",
+        "title": {
+          "de": "Arcano auf dem Piazza Ferretto",
+          "hu": "Arcano a Piazza Ferrettón",
+          "ro": "Arcano în Piazza Ferretto",
+          "en": "Arcano in Piazza Ferretto"
+        },
+        "summary": {
+          "de": "Die Sommerreihe E=TiC endet in Mestre mit dem Circo-Theater-Stück \"Arcano\" der Compagnia dei Folli auf dem Piazza Ferretto.",
+          "hu": "Az E=TiC nyári sorozat Mestre városában az Arcano című cirkusz-színházi előadással zárul a Piazza Ferrettón, a Compagnia dei Folli társulattól.",
+          "ro": "Seria estivală E=TiC se încheie la Mestre cu spectacolul de circ-teatru „Arcano” al companiei Compagnia dei Folli, în Piazza Ferretto.",
+          "en": "The E=TiC summer programme concludes in Mestre with Compagnia dei Folli's circus-theatre show \"Arcano\" in Piazza Ferretto."
+        },
+        "source_url": "https://www.comune.venezia.it/it/content/teatro-citt"
+      },
+      {
+        "date": "2026-09-09",
+        "title": {
+          "de": "Naufragata auf dem Piazza Ferretto",
+          "hu": "Naufragata a Piazza Ferrettón",
+          "ro": "Naufragata în Piazza Ferretto",
+          "en": "Naufragata in Piazza Ferretto"
+        },
+        "summary": {
+          "de": "Circo Zoè bringt als Finale von E=TiC die Produktion \"Naufragata\" als frei zugängliches Abendereignis nach Piazza Ferretto in Mestre.",
+          "hu": "A Circo Zoè az E=TiC fináléjaként a Naufragata előadást ingyenes esti eseményként hozza el Mestre Piazza Ferretto terére.",
+          "ro": "Circo Zoè aduce producția „Naufragata” în Piazza Ferretto din Mestre ca final gratuit de seară al programului E=TiC.",
+          "en": "Circo Zoè brings \"Naufragata\" to Piazza Ferretto in Mestre as the free evening finale of the E=TiC programme."
+        },
+        "source_url": "https://www.comune.venezia.it/it/content/teatro-citt"
+      },
+      {
+        "date": "2026-10-25",
+        "title": {
+          "de": "Venicemarathon 2026",
+          "hu": "Venicemarathon 2026",
+          "ro": "Venicemarathon 2026",
+          "en": "Venicemarathon 2026"
+        },
+        "summary": {
+          "de": "Die 40. VeniceMarathon findet am 25. Oktober statt und ist eines der großen Sportereignisse im Gebiet Venedig-Mestre.",
+          "hu": "A 40. VeniceMarathon október 25-én fut, és a Velence-Mestre térség egyik legnagyobb sporteseménye.",
+          "ro": "A 40-a ediție VeniceMarathon are loc pe 25 octombrie și este unul dintre marile evenimente sportive ale zonei Veneția-Mestre.",
+          "en": "The 40th VeniceMarathon takes place on 25 October and is one of the major sporting events in the Venice-Mestre area."
+        },
+        "source_url": "https://www.veneziaunica.it/en/things-to-do-in-venice/events/venicemarathon-2026"
+      }
+    ]
+  }
+]

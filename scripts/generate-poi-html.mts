@@ -92,6 +92,9 @@ type YHEvent = {
   summary: Partial<Record<string, string>>;
   source_url?: string;
   date?: string;
+  date_end?: string;
+  end_date?: string;
+  endDate?: string;
   image_url?: string;
   image_credit?: string;
   category?: Partial<Record<string, string>> | string;
@@ -3217,6 +3220,8 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         const t = ev.title?.[lang] || ev.title?.en || ev.title?.de || "";
         const s = ev.summary?.[lang] || ev.summary?.en || ev.summary?.de || "";
         const d = (ev.date || "").slice(0, 10);
+        const dateEnd = (ev.date_end || ev.end_date || ev.endDate || "").slice(0, 10);
+        const dateLabel = dateEnd && dateEnd !== d ? `${d} – ${dateEnd}` : d;
         const isHttp = typeof ev.source_url === "string" && /^https?:\/\//i.test(ev.source_url);
         const linkOpen = isHttp ? `<a href="${escapeHtml(ev.source_url!)}" target="_blank" rel="noopener nofollow" class="plz-yh-link">` : "";
         const linkClose = isHttp ? "</a>" : "";
@@ -3257,14 +3262,21 @@ function renderHtml(poi: POI, lang: Lang): string | null {
             periodTxt = [dayTxt, ev.period.start_time?.slice(0,5)].filter(Boolean).join(" ");
           }
         }
-        const showDate = !isRecurrent && d;
+        if (isRecurrent && !periodTxt) {
+          const recurrentLabel: Partial<Record<Lang, string>> = {
+            de: "wiederkehrend", hu: "ismétlődő", ro: "recurent", en: "recurring",
+            fr: "récurrent", tr: "tekrarlanan", hr: "ponavljajuće",
+          };
+          periodTxt = recurrentLabel[lang] || recurrentLabel.en!;
+        }
+        const showDate = !!d && (!isRecurrent || !!dateEnd);
         const badges = [
           cat   ? `<span class="plz-yh-badge plz-yh-cat">${escapeHtml(cat)}</span>` : "",
           price ? `<span class="plz-yh-badge plz-yh-price">${escapeHtml(price)}</span>` : "",
           periodTxt ? `<span class="plz-yh-badge plz-yh-period">${escapeHtml(periodTxt)}</span>` : "",
         ].filter(Boolean).join("");
         const meta = (showDate || badges)
-          ? `<div class="plz-yh-meta">${showDate ? `<time class="plz-yh-date" datetime="${escapeHtml(ev.date || "")}">${escapeHtml(d)}</time>` : ""}${badges}</div>`
+          ? `<div class="plz-yh-meta">${showDate ? `<time class="plz-yh-date" datetime="${escapeHtml(ev.date || "")}">${escapeHtml(dateLabel)}</time>` : ""}${badges}</div>`
           : "";
         return `<article class="plz-yh-card${imgHtml ? " plz-yh-has-img" : ""}">${imgHtml}${linkOpen}<div class="plz-yh-body-card">${meta}<h3 class="plz-yh-title">${escapeHtml(t)}</h3><p class="plz-yh-summary">${escapeHtml(s)}</p></div>${linkClose}</article>`;
       };

@@ -1,0 +1,395 @@
+[
+  {
+    "id": "spain-jerez-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-22",
+        "title": {
+          "de": "59. Fiesta de la Bulería",
+          "hu": "59. Fiesta de la Bulería",
+          "ro": "A 59-a Fiesta de la Bulería",
+          "en": "59th Fiesta de la Bulería"
+        },
+        "summary": {
+          "de": "Großes Open-Air-Flamencoereignis in Jerez mit Fokus auf den lokalen Bulería-Stil und freiem Zugang laut städtischem Veranstaltungskalender.",
+          "hu": "Nagy szabadtéri flamencoesemény Jerezben, amely a helyi bulería stílusra épül, a városi program szerint ingyenes belépéssel.",
+          "ro": "Mare eveniment flamenco în aer liber la Jerez, axat pe stilul local bulería, cu acces liber conform calendarului municipal.",
+          "en": "Major open-air flamenco event in Jerez focused on the city’s signature bulería style, with free admission per the municipal calendar."
+        },
+        "source_url": "https://www.jerez.es/eventos?cHash=daa01c6b98cf181d23d76c9495f85cb8&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BcurrentPage%5D=3"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "Fiestas de la Vendimia de Jerez 2026",
+          "hu": "Jerezi Szüreti Ünnepek 2026",
+          "ro": "Fiestas de la Vendimia de Jerez 2026",
+          "en": "Jerez Grape Harvest Festival 2026"
+        },
+        "summary": {
+          "de": "Das offizielle Weinfest der Stadt verbindet Wein, Gastronomie, Pferdekultur und Flamenco in zwei Festwochen zum Start der Weinlese.",
+          "hu": "A város hivatalos szüreti ünnepe a szőlőszüret kezdetén bort, gasztronómiát, lovas hagyományokat és flamencót kapcsol össze két fesztiválhét alatt.",
+          "ro": "Sărbătoarea oficială a recoltei de struguri combină vinul, gastronomia, cultura ecvestră și flamenco în două săptămâni festive la începutul culesului.",
+          "en": "The city’s official harvest celebration combines wine, gastronomy, equestrian culture and flamenco across two festive weeks at the start of the grape harvest."
+        },
+        "source_url": "https://www.jerez.es/evento-simple-portada/fiestas-de-la-vendimia-de-jerez-2026"
+      },
+      {
+        "date": "2026-10-13",
+        "title": {
+          "de": "IV Festival Cine con Acento",
+          "hu": "IV. Cine con Acento filmfesztivál",
+          "ro": "Al IV-lea Festival Cine con Acento",
+          "en": "4th Cine con Acento Festival"
+        },
+        "summary": {
+          "de": "Mehrtägiges Filmfestival im Oktober, das laut Stadtprogramm Jerez als Veranstaltungsort für audiovisuelle Kultur sichtbar macht.",
+          "hu": "Többnapos októberi filmfesztivál, amely a városi program szerint Jerezt az audiovizuális kultúra fontos helyszíneként mutatja be.",
+          "ro": "Festival de film desfășurat pe mai multe zile în octombrie, care evidențiază Jerezul ca gazdă pentru cultura audiovizuală conform programului municipal.",
+          "en": "Multi-day October film festival that highlights Jerez as a host city for audiovisual culture in the municipal programme."
+        },
+        "source_url": "https://www.jerez.es/ciudad/fiestas"
+      },
+      {
+        "date": "2026-11-02",
+        "title": {
+          "de": "Sherry Week",
+          "hu": "Sherry Week",
+          "ro": "Sherry Week",
+          "en": "Sherry Week"
+        },
+        "summary": {
+          "de": "Eine Themenwoche rund um Sherry mit Verkostungen und weinbezogenen Aktivitäten in der ersten Novemberwoche.",
+          "hu": "A sherry köré épülő tematikus hét kóstolókkal és boros programokkal november első hetében.",
+          "ro": "Săptămână tematică dedicată sherry-ului, cu degustări și activități legate de vin în prima săptămână din noiembrie.",
+          "en": "A themed week dedicated to sherry with tastings and wine-focused activities during the first week of November."
+        },
+        "source_url": "https://www.jerez.es/eventos/detalle/sherry-week"
+      }
+    ]
+  },
+  {
+    "id": "city-targu-mures",
+    "events": [
+      {
+        "date": "2026-08-11",
+        "title": {
+          "de": "Harmonia Cordis Internationales Gitarrenfestival",
+          "hu": "Harmonia Cordis Nemzetközi Gitárfesztivál",
+          "ro": "Festivalul Internațional de Chitară Harmonia Cordis",
+          "en": "Harmonia Cordis International Guitar Festival"
+        },
+        "summary": {
+          "de": "Mehrtägiges Gitarrenfestival in Târgu Mureș mit Konzerten und offenen Programmen, das laut Visit Mureș bei freiem Eintritt internationale Künstler zusammenbringt.",
+          "hu": "Többnapos gitárfesztivál Marosvásárhelyen koncertekkel és nyitott programokkal; a Visit Mureș szerint a belépés ingyenes, nemzetközi fellépőkkel.",
+          "ro": "Festival de chitară desfășurat pe mai multe zile în Târgu Mureș, cu concerte și programe deschise, iar Visit Mureș precizează acces liber și artiști internaționali.",
+          "en": "Multi-day guitar festival in Târgu Mureș with concerts and open programmes; Visit Mureș notes free admission and international performers."
+        },
+        "source_url": "https://visitmures.com/evenimente/harmonia-cordis-festival-international-de-chitara12"
+      },
+      {
+        "date": "2026-08-26",
+        "title": {
+          "de": "Vâltoarea Mureșeană",
+          "hu": "Vásárhelyi Forgatag",
+          "ro": "Vâltoarea Mureșeană",
+          "en": "Vâltoarea Mureșeană"
+        },
+        "summary": {
+          "de": "Großes Stadtfestival Ende August mit Konzerten, Gemeinschaftsprogrammen und Marktatmosphäre im Zeichen der lokalen Identität.",
+          "hu": "Nagy augusztus végi városi fesztivál koncertekkel, közösségi programokkal és vásári hangulattal, erős helyi identitással.",
+          "ro": "Mare festival urban la sfârșit de august, cu concerte, programe comunitare și atmosferă de târg, dedicat identității locale.",
+          "en": "Large late-August city festival with concerts, community programmes and a fair-like atmosphere centered on local identity."
+        },
+        "source_url": "https://visitmures.com/evenimente/valtoare-mures1"
+      },
+      {
+        "date": "2026-09-03",
+        "title": {
+          "de": "Street Music Festival Târgu Mureș",
+          "hu": "Street Music Festival Târgu Mureș",
+          "ro": "Street Music Festival Târgu Mureș",
+          "en": "Street Music Festival Târgu Mureș"
+        },
+        "summary": {
+          "de": "Straßenmusik- und Street-Food-Festival Anfang September mit urbanem Open-Air-Format im Stadtzentrum.",
+          "hu": "Szeptember eleji utcazenei és street food fesztivál városi szabadtéri hangulattal a központban.",
+          "ro": "Festival de muzică stradală și street food la început de septembrie, în format urban, în aer liber, în centrul orașului.",
+          "en": "Early-September street music and street-food festival presented as an urban open-air event in the city center."
+        },
+        "source_url": "https://visitmures.com/evenimente/street-music-festival"
+      },
+      {
+        "date": "2026-10-17",
+        "title": {
+          "de": "Târgul Mureșenilor",
+          "hu": "Marosvásáriak Vására",
+          "ro": "Târgul Mureșenilor",
+          "en": "Târgul Mureșenilor"
+        },
+        "summary": {
+          "de": "Herbstmarkt auf der Piața Teatrului mit Kunsthandwerk, regionalen Produzenten und handgemachten Produkten.",
+          "hu": "Őszi vásár a Színház téren kézművesekkel, helyi termelőkkel és kézzel készült portékákkal.",
+          "ro": "Târg de toamnă în Piața Teatrului cu meșteșugari, producători locali și produse artizanale.",
+          "en": "Autumn fair in Piața Teatrului featuring craftspeople, local producers and handmade products."
+        },
+        "source_url": "https://visitmures.com/evenimente/targul-muresenilor4"
+      },
+      {
+        "date": "2026-11-16",
+        "title": {
+          "de": "Internationale Buchmesse Târgu Mureș",
+          "hu": "Marosvásári Nemzetközi Könyvvásár",
+          "ro": "Târgul Internațional de Carte din Târgu Mureș",
+          "en": "Târgu Mureș International Book Fair"
+        },
+        "summary": {
+          "de": "Die 29. Ausgabe der Buchmesse bringt im Nationaltheater mehrere Tage lang Bücher, Verlage und Kulturprogramme zusammen.",
+          "hu": "A könyvvásár 29. kiadása több napon át könyveket, kiadókat és kulturális programokat hoz a Nemzeti Színházba.",
+          "ro": "Ediția a 29-a a târgului reunește timp de mai multe zile cărți, edituri și programe culturale la Teatrul Național.",
+          "en": "The 29th edition of the fair brings books, publishers and cultural programming to the National Theatre over several days."
+        },
+        "source_url": "https://visitmures.com/evenimente/targul-international-de-carte-din-targu-mures"
+      }
+    ]
+  },
+  {
+    "id": "spain-santa-cruz-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-23",
+        "title": {
+          "de": "La Peregrinación",
+          "hu": "La Peregrinación",
+          "ro": "La Peregrinación",
+          "en": "La Peregrinación"
+        },
+        "summary": {
+          "de": "Großveranstaltung im Recinto Ferial von Santa Cruz de Tenerife mit Festivalcharakter laut Tickety-Stadtübersicht.",
+          "hu": "Nagyszabású rendezvény a santa cruzi Recinto Ferial helyszínén, fesztiváljellegű programmal a Tickety városi listája szerint.",
+          "ro": "Eveniment de mari dimensiuni la Recinto Ferial din Santa Cruz de Tenerife, cu profil de festival, conform listării Tickety pentru oraș.",
+          "en": "Large-scale event at the Recinto Ferial in Santa Cruz de Tenerife with a festival-style format, according to Tickety’s city listing."
+        },
+        "source_url": "https://tickety.es/event-type/festivales/city/Santa%20Cruz%20de%20Tenerife"
+      },
+      {
+        "date": "2026-09-12",
+        "title": {
+          "de": "Noctámbula 2026 en Tenerife",
+          "hu": "Noctámbula 2026 Tenerife",
+          "ro": "Noctámbula 2026 în Tenerife",
+          "en": "Noctámbula 2026 in Tenerife"
+        },
+        "summary": {
+          "de": "Elektronikfestival im Recinto Ferial mit digitaler Kunst und internationalem Line-up; die erste Ausgabe positioniert Santa Cruz als Nachtfestivalstandort.",
+          "hu": "Elektronikus fesztivál a Recinto Ferialban digitális művészettel és nemzetközi fellépőkkel; az első kiadás Santa Cruzt új éjszakai fesztiválhelyszínként pozicionálja.",
+          "ro": "Festival de muzică electronică la Recinto Ferial, cu artă digitală și line-up internațional; prima ediție poziționează Santa Cruz ca destinație pentru evenimente nocturne.",
+          "en": "Electronic music festival at the Recinto Ferial with digital art and an international lineup; its first edition positions Santa Cruz as a night-event destination."
+        },
+        "source_url": "https://tickety.es/event/noctambula-2026"
+      },
+      {
+        "date": "2026-09-13",
+        "title": {
+          "de": "Summer Pop Tenerife by Los40",
+          "hu": "Summer Pop Tenerife by Los40",
+          "ro": "Summer Pop Tenerife by Los40",
+          "en": "Summer Pop Tenerife by Los40"
+        },
+        "summary": {
+          "de": "Pop-Event im Recinto Ferial, das laut Tickety die großen Musikshows von LOS40 nach Santa Cruz de Tenerife zurückbringt.",
+          "hu": "Popzenei esemény a Recinto Ferialban, amely a Tickety szerint visszahozza a LOS40 nagy zenei show-it Santa Cruz de Tenerifére.",
+          "ro": "Eveniment pop la Recinto Ferial care, potrivit Tickety, readuce la Santa Cruz de Tenerife marile show-uri muzicale LOS40.",
+          "en": "Pop event at the Recinto Ferial that, according to Tickety, brings LOS40’s large music shows back to Santa Cruz de Tenerife."
+        },
+        "source_url": "https://tickety.es/event/summer-pop-tenerife-by-los40"
+      },
+      {
+        "date": "2026-09-25",
+        "title": {
+          "de": "HER Festival 2026",
+          "hu": "HER Festival 2026",
+          "ro": "HER Festival 2026",
+          "en": "HER Festival 2026"
+        },
+        "summary": {
+          "de": "Kultur- und Festivaltermin im Espacio Cultural El Tanque in Santa Cruz, gelistet in der städtischen Festivalauswahl von Tickety.",
+          "hu": "Kulturális és fesztiválprogram a santa cruzi Espacio Cultural El Tanque helyszínen, a Tickety városi fesztivállistáján.",
+          "ro": "Eveniment cultural și de festival la Espacio Cultural El Tanque din Santa Cruz, listat în selecția urbană Tickety.",
+          "en": "Cultural festival event at Espacio Cultural El Tanque in Santa Cruz, listed in Tickety’s city festival selection."
+        },
+        "source_url": "https://tickety.es/event-type/festivales/city/Santa%20Cruz%20de%20Tenerife"
+      }
+    ]
+  },
+  {
+    "id": "padova",
+    "events": [
+      {
+        "date": "2026-08-04",
+        "title": {
+          "de": "SuggEstiva 2026: Sandra e Raimondo - 2 cuori e una risata",
+          "hu": "SuggEstiva 2026: Sandra e Raimondo - 2 cuori e una risata",
+          "ro": "SuggEstiva 2026: Sandra e Raimondo - 2 cuori e una risata",
+          "en": "SuggEstiva 2026: Sandra e Raimondo - 2 cuori e una risata"
+        },
+        "summary": {
+          "de": "Sommeraufführung in der Kulturreihe SuggEstiva, die das Künstlerpaar Sandra Mondaini und Raimondo Vianello mit Theater und Humor würdigt.",
+          "hu": "Nyári előadás a SuggEstiva kulturális sorozatban, amely Sandra Mondaini és Raimondo Vianello művészi párosának állít emléket színházzal és humorral.",
+          "ro": "Spectacol de vară din cadrul seriei culturale SuggEstiva, dedicat cu teatru și umor cuplului artistic Sandra Mondaini și Raimondo Vianello.",
+          "en": "Summer performance in the SuggEstiva cultural series paying tribute to Sandra Mondaini and Raimondo Vianello through theatre and humor."
+        },
+        "source_url": "https://padovacultura.padovanet.it/it/attivita-culturali/suggestiva-2026"
+      },
+      {
+        "date": "2026-08-26",
+        "title": {
+          "de": "Castello Festival 2026",
+          "hu": "Castello Festival 2026",
+          "ro": "Castello Festival 2026",
+          "en": "Castello Festival 2026"
+        },
+        "summary": {
+          "de": "Die Spätsommerphase des multidisziplinären Stadtfestivals beginnt Ende August am Palazzo Zuckermann mit Musik, Theater, Tanz und Gesprächen.",
+          "hu": "A többműfajú városi fesztivál késő nyári szakasza augusztus végén indul a Palazzo Zuckermann helyszínen zenével, színházzal, tánccal és beszélgetésekkel.",
+          "ro": "Faza de sfârșit de vară a festivalului urban multidisciplinar începe la final de august la Palazzo Zuckermann, cu muzică, teatru, dans și dialoguri culturale.",
+          "en": "The late-summer phase of the city’s multidisciplinary festival begins in late August at Palazzo Zuckermann with music, theatre, dance and talks."
+        },
+        "source_url": "https://padovacultura.padovanet.it/it/attivita-culturali/castello-festival-2026"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Esplorazioni tartiniane 2026",
+          "hu": "Esplorazioni tartiniane 2026",
+          "ro": "Esplorazioni tartiniane 2026",
+          "en": "Esplorazioni tartiniane 2026"
+        },
+        "summary": {
+          "de": "Kulturspaziergang mit Konzert in mehreren Paduaer Orten auf den Spuren Giuseppe Tartinis, bei freiem Eintritt laut Programmseite.",
+          "hu": "Kulturális séta és koncert Padova több helyszínén Giuseppe Tartini nyomában, a programoldal szerint ingyenes belépéssel.",
+          "ro": "Plimbare culturală și concert în mai multe locuri din Padova, pe urmele lui Giuseppe Tartini, cu acces liber conform paginii programului.",
+          "en": "Cultural walk and concert across Padua venues following Giuseppe Tartini’s legacy, with free admission according to the programme page."
+        },
+        "source_url": "https://padovacultura.padovanet.it/it/attivita-culturali/esplorazioni-tartiniane-2026"
+      },
+      {
+        "date": "2026-10-31",
+        "title": {
+          "de": "Concorso internazionale Claudio Scimone 2026",
+          "hu": "Claudio Scimone Nemzetközi Verseny 2026",
+          "ro": "Concorso internazionale Claudio Scimone 2026",
+          "en": "Claudio Scimone International Competition 2026"
+        },
+        "summary": {
+          "de": "Internationaler Wettbewerb für junge Streicher in Padua, der Ende Oktober in die öffentliche Schlussphase geht.",
+          "hu": "Nemzetközi verseny fiatal vonósoknak Padovában, amely október végén lép nyilvános záró szakaszába.",
+          "ro": "Concurs internațional pentru tineri instrumentiști de coarde la Padova, care intră în faza publică finală la sfârșit de octombrie.",
+          "en": "International competition for young string players in Padua, entering its public final-stage dates at the end of October."
+        },
+        "source_url": "https://padovacultura.padovanet.it/it/attivita-culturali/concorso-internazionale-claudio-scimone-2026"
+      },
+      {
+        "date": "2026-11-29",
+        "title": {
+          "de": "Finalkonzert des Concorso internazionale Claudio Scimone 2026",
+          "hu": "A Claudio Scimone Nemzetközi Verseny döntő koncertje 2026",
+          "ro": "Concertul final al Concorso internazionale Claudio Scimone 2026",
+          "en": "Final Concert of the Claudio Scimone International Competition 2026"
+        },
+        "summary": {
+          "de": "Öffentliches Abschlusskonzert des Wettbewerbs, bei dem die Preisträger ihr mit der Jury abgestimmtes Programm präsentieren.",
+          "hu": "A verseny nyilvános zárókoncertje, ahol a díjazottak a zsűrivel egyeztetett műsort adják elő.",
+          "ro": "Concert public de închidere a competiției, în care laureații prezintă programul stabilit împreună cu juriul.",
+          "en": "Public closing concert of the competition in which prizewinners perform the programme agreed with the jury."
+        },
+        "source_url": "https://padovacultura.padovanet.it/sites/default/files/documenti-eventi/bando_concorso_claudio_scimone.pdf"
+      }
+    ]
+  },
+  {
+    "id": "cy-nicosia",
+    "events": [
+      {
+        "date": "2026-10-22",
+        "title": {
+          "de": "The Golden Voices of Gospel",
+          "hu": "The Golden Voices of Gospel",
+          "ro": "The Golden Voices of Gospel",
+          "en": "The Golden Voices of Gospel"
+        },
+        "summary": {
+          "de": "Gospelkonzert im Nicosia Municipal Theatre mit offizieller Atria-Ticketseite und nummerierten Sitzplätzen.",
+          "hu": "Gospelkoncert a Nicosia Municipal Theatre-ben hivatalos Atria jegyoldallal és számozott ülőhelyekkel.",
+          "ro": "Concert gospel la Nicosia Municipal Theatre, cu pagină oficială Atria și locuri numerotate.",
+          "en": "Gospel concert at Nicosia Municipal Theatre with an official Atria ticket page and reserved seating."
+        },
+        "source_url": "https://tickets.atriamusic.com/en/tickets/392"
+      },
+      {
+        "date": "2026-11-04",
+        "title": {
+          "de": "LOS VIVANCOS Live Show",
+          "hu": "LOS VIVANCOS Live Show",
+          "ro": "LOS VIVANCOS Live Show",
+          "en": "LOS VIVANCOS Live Show"
+        },
+        "summary": {
+          "de": "Bühnenproduktion der Brüder Los Vivancos im Strovolos Municipal Theatre in der Metropolregion Nicosia.",
+          "hu": "A Los Vivancos fivérek színpadi produkciója a Strovolos Municipal Theatre-ben, Nicosia városi térségében.",
+          "ro": "Producție scenică a fraților Los Vivancos la Strovolos Municipal Theatre din zona metropolitană Nicosia.",
+          "en": "Stage production by the Vivancos brothers at Strovolos Municipal Theatre in the Nicosia metro area."
+        },
+        "source_url": "https://tickets.atriamusic.com/ru/los-vivancos-live-show-04-nov-2026/eid/383"
+      },
+      {
+        "date": "2026-11-29",
+        "title": {
+          "de": "The Nutcracker Ballet",
+          "hu": "A diótörő balett",
+          "ro": "Baletul Spărgătorul de nuci",
+          "en": "The Nutcracker Ballet"
+        },
+        "summary": {
+          "de": "Nachmittagsaufführung des klassischen Weihnachtsballetts im Nicosia Municipal Theatre.",
+          "hu": "A klasszikus karácsonyi balett délutáni előadása a Nicosia Municipal Theatre-ben.",
+          "ro": "Reprezentație de după-amiază a baletului clasic de Crăciun la Nicosia Municipal Theatre.",
+          "en": "Afternoon performance of the classic Christmas ballet at Nicosia Municipal Theatre."
+        },
+        "source_url": "https://tickets.atriamusic.com/en/the-nutcracker-ballet-29-nov-2026/eid/385?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAEeR5Xmzm1MeLktkIIt4CIIcTGddhDo5m8jCo7bvLX2WtrqRv2T5DATA1QDPuE_aem__p5ASfxObN_2lYJ6J1omsw"
+      },
+      {
+        "date": "2026-12-05",
+        "title": {
+          "de": "Alice in Wonderland. Show on Ice",
+          "hu": "Alice in Wonderland. Show on Ice",
+          "ro": "Alice in Wonderland. Show on Ice",
+          "en": "Alice in Wonderland. Show on Ice"
+        },
+        "summary": {
+          "de": "Eisshow für Familien im Nicosia Municipal Theatre mit einer Bühnenadaption von Alice im Wunderland.",
+          "hu": "Családi jégshow a Nicosia Municipal Theatre-ben az Alice Csodaországban színpadi adaptációjával.",
+          "ro": "Spectacol pe gheață pentru familii la Nicosia Municipal Theatre, cu o adaptare scenică după Alice în Țara Minunilor.",
+          "en": "Family ice show at Nicosia Municipal Theatre featuring a stage adaptation of Alice in Wonderland."
+        },
+        "source_url": "https://tickets.atriamusic.com/en/alice-in-wonderland-show-on-ice-05-dec-2026/eid/395"
+      },
+      {
+        "date": "2026-12-13",
+        "title": {
+          "de": "Wiener Mozart Orchester",
+          "hu": "Wiener Mozart Orchester",
+          "ro": "Wiener Mozart Orchester",
+          "en": "Wiener Mozart Orchester"
+        },
+        "summary": {
+          "de": "Klassisches Konzert im Nicosia Municipal Theatre mit dem Wiener Mozart Orchester auf seiner Zypern-Tour.",
+          "hu": "Klasszikus koncert a Nicosia Municipal Theatre-ben a Wiener Mozart Orchester ciprusi turnéjának részeként.",
+          "ro": "Concert de muzică clasică la Nicosia Municipal Theatre, parte din turneul cipriot al Wiener Mozart Orchester.",
+          "en": "Classical concert at Nicosia Municipal Theatre as part of the Wiener Mozart Orchester’s Cyprus tour."
+        },
+        "source_url": "https://tickets.atriamusic.com/en/wiener-mozart-orchester-13-dec-2026/eid/399/group/1"
+      }
+    ]
+  }
+]

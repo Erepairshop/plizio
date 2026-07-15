@@ -1,0 +1,419 @@
+[
+  {
+    "id": "czechrepublic-brno-cities-v2",
+    "events": [
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Brasil Fest Brno",
+          "hu": "Brasil Fest Brno",
+          "ro": "Brasil Fest Brno",
+          "en": "Brasil Fest Brno"
+        },
+        "summary": {
+          "de": "Das Sommerfestival bringt Sambaparaden, brasilianische Rhythmen und Straßenprogramm in die Innenstadt von Brno. Besucher können mehrere Tage lang Konzerte und Festivalatmosphäre unter freiem Himmel erleben.",
+          "hu": "A nyári fesztivál szambafelvonulásokkal, brazil ritmusokkal és belvárosi utcai programokkal tölti meg Brnót. A látogatók több napon át élvezhetik a koncerteket és a szabadtéri fesztiválhangulatot.",
+          "ro": "Festivalul de vară aduce parade de samba, ritmuri braziliene și programe stradale în centrul orașului Brno. Vizitatorii pot trăi mai multe zile de concerte și atmosferă de festival în aer liber.",
+          "en": "This summer festival fills central Brno with samba parades, Brazilian rhythms, and street programming. Visitors can enjoy several days of concerts and open-air festival atmosphere."
+        },
+        "source_url": "https://www.gotobrno.cz/en/events/brasil-fest-brno/"
+      },
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "Maraton hudby Brno",
+          "hu": "Maraton hudby Brno",
+          "ro": "Maraton hudby Brno",
+          "en": "Brno Music Marathon"
+        },
+        "summary": {
+          "de": "Das mehrtägige Musikfestival bespielt öffentliche Räume und historische Architektur im Zentrum von Brno. Viele Veranstaltungen sind frei zugänglich, dazu kommen einzelne Ticketprogramme.",
+          "hu": "A többnapos zenei fesztivál Brno központjának közterein és történelmi épületeiben zajlik. Sok program ingyenes, emellett néhány jegyes esemény is szerepel a kínálatban.",
+          "ro": "Festivalul muzical de mai multe zile ocupă spațiile publice și arhitectura istorică din centrul orașului Brno. Multe evenimente sunt gratuite, iar unele necesită bilet.",
+          "en": "This multi-day music festival uses public spaces and historic architecture across central Brno. Many events are free, with some ticketed performances in the programme."
+        },
+        "source_url": "https://www.gotobrno.cz/en/events/maraton-hudby-brno-brno-music-marathon/"
+      },
+      {
+        "date": "2026-08-14",
+        "title": {
+          "de": "Brno Day",
+          "hu": "Brno Day",
+          "ro": "Brno Day",
+          "en": "Brno Day"
+        },
+        "summary": {
+          "de": "Das städtische Fest erinnert an die erfolgreiche Verteidigung Brnos gegen die schwedische Belagerung von 1645. Zum Programm gehören kostenlose Veranstaltungen auf dem Špilberk, an der Kraví hora und bei einem Umzug durch die Stadt.",
+          "hu": "Az önkormányzati ünnep Brno 1645-ös svéd ostrom elleni sikeres védelmét idézi fel. A program ingyenes eseményeket kínál a Špilberken, a Kraví horán és a városon átvonuló felvonuláson.",
+          "ro": "Sărbătoarea orașului comemorează apărarea reușită a orașului Brno împotriva asediului suedez din 1645. Programul include evenimente gratuite la Špilberk, pe Kraví hora și într-o procesiune prin oraș.",
+          "en": "This municipal celebration commemorates Brno's successful defence against the 1645 Swedish siege. The programme includes free events at Špilberk, Kraví hora, and in a city procession."
+        },
+        "source_url": "https://www.gotobrno.cz/en/events/brno-day/"
+      },
+      {
+        "date": "2026-08-17",
+        "title": {
+          "de": "Musikfestival Špilberk 2026",
+          "hu": "Špilberk Zenei Fesztivál 2026",
+          "ro": "Festivalul de Muzică Špilberk 2026",
+          "en": "Music Festival Špilberk 2026"
+        },
+        "summary": {
+          "de": "Das traditionelle Open-Air-Festival im großen Burghof von Špilberk bringt sinfonische Werke und Filmmusik in die Sommerabende von Brno. Die Konzerte verbinden historische Kulisse mit klassischem Programm.",
+          "hu": "A Špilberk vár nagy udvarán rendezett hagyományos szabadtéri fesztivál szimfonikus műveket és filmzenét visz Brno nyári estéibe. A koncertek történelmi környezetet kapcsolnak össze klasszikus műsorral.",
+          "ro": "Festivalul tradițional în aer liber din curtea mare a castelului Špilberk aduce lucrări simfonice și muzică de film în serile de vară din Brno. Concertele combină decorul istoric cu un program clasic.",
+          "en": "This traditional open-air festival in Špilberk Castle's large courtyard brings symphonic works and film music to Brno's summer evenings. The concerts pair a historic setting with classical programming."
+        },
+        "source_url": "https://www.gotobrno.cz/en/events/music-festival-spilberk-2026/"
+      },
+      {
+        "date": "2026-10-01",
+        "title": {
+          "de": "Festival PROTOTYP 2026: PROTOTYP in the City",
+          "hu": "Festival PROTOTYP 2026: PROTOTYP in the City",
+          "ro": "Festival PROTOTYP 2026: PROTOTYP in the City",
+          "en": "Festival PROTOTYP 2026: PROTOTYP in the City"
+        },
+        "summary": {
+          "de": "Das Festival lässt das Zentrum von Brno mit digitaler Kunst, Videomapping, Lichtinstallationen und audiovisuellen Interventionen aufleuchten. Es verbindet Kunst, Wissenschaft und Technologie an mehreren Orten der Stadt.",
+          "hu": "A fesztivál digitális művészettel, videómappinggel, fényinstallációkkal és audiovizuális beavatkozásokkal tölti meg Brno központját. Több városi helyszínen kapcsolja össze a művészetet, a tudományt és a technológiát.",
+          "ro": "Festivalul luminează centrul orașului Brno cu artă digitală, videomapping, instalații de lumină și intervenții audiovizuale. El leagă arta, știința și tehnologia în mai multe spații urbane.",
+          "en": "The festival lights up central Brno with digital art, videomapping, light installations, and audiovisual interventions. It links art, science, and technology across multiple city venues."
+        },
+        "source_url": "https://www.gotobrno.cz/en/events/festival-prototyp-2026-prototyp-in-the-city/"
+      }
+    ]
+  },
+  {
+    "id": "city-wuppertal-extra",
+    "events": [
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Street Food & Music Festival",
+          "hu": "Street Food & Music Festival",
+          "ro": "Street Food & Music Festival",
+          "en": "Street Food & Music Festival"
+        },
+        "summary": {
+          "de": "Auf dem Laurentiusplatz verbindet das Festival internationale Street-Food-Stände mit Live-Musik im Freien. Es richtet sich an Besucher, die Kulinarik und sommerliche Innenstadtatmosphäre kombinieren möchten.",
+          "hu": "A Laurentiusplatzon a fesztivál nemzetközi street food kínálatot párosít élőzenével szabadtéren. Azoknak szól, akik a gasztronómiát nyári belvárosi hangulattal szeretnék összekötni.",
+          "ro": "În Laurentiusplatz, festivalul combină standuri internaționale de street food cu muzică live în aer liber. Este potrivit pentru vizitatorii care caută gastronomie și atmosferă estivală în centru.",
+          "en": "At Laurentiusplatz, the festival combines international street-food stalls with live music outdoors. It suits visitors looking for food and summer city-centre atmosphere."
+        },
+        "source_url": "https://www.wuppertal-live.de/629514"
+      },
+      {
+        "date": "2026-08-30",
+        "title": {
+          "de": "Wuppertaler Musiksommer: Konzert der Internationalen Meisterkurse",
+          "hu": "Wuppertali Zenei Nyár: Az Internationalen Meisterkurse koncertje",
+          "ro": "Vara Muzicală din Wuppertal: Concertul cursurilor internaționale de măiestrie",
+          "en": "Wuppertal Music Summer: Concert of the International Masterclasses"
+        },
+        "summary": {
+          "de": "In der Historischen Stadthalle präsentieren Teilnehmende der internationalen Meisterkurse ein klassisches Konzertprogramm. Die Veranstaltung bietet Gästen die Gelegenheit, junge Spitzenmusiker in einem der bekanntesten Säle der Stadt zu erleben.",
+          "hu": "A Historische Stadthalléban a nemzetközi mesterkurzusok résztvevői klasszikus koncertprogramot adnak elő. A látogatók fiatal kiemelkedő muzsikusokat hallhatnak a város egyik legismertebb koncerttermében.",
+          "ro": "La Historische Stadthalle, participanții la cursurile internaționale de măiestrie prezintă un program de muzică clasică. Evenimentul le oferă vizitatorilor ocazia de a asculta tineri muzicieni de top într-una dintre cele mai cunoscute săli ale orașului.",
+          "en": "At the Historische Stadthalle, participants in the international masterclasses present a classical concert programme. Visitors can hear emerging high-level musicians in one of the city's best-known halls."
+        },
+        "source_url": "https://www.wuppertal-live.de/645665"
+      },
+      {
+        "date": "2026-09-04",
+        "title": {
+          "de": "Future Now Festival",
+          "hu": "Future Now Festival",
+          "ro": "Future Now Festival",
+          "en": "Future Now Festival"
+        },
+        "summary": {
+          "de": "Das Open-Air-Festival an der Alten Feuerwache bringt ein kuratiertes Musikprogramm in den atmosphärischen Innenhof. Besucher erwartet ein Abend mit international geprägten Sounds, Live-Acts und gemeinschaftlicher Festivalstimmung.",
+          "hu": "Az Alte Feuerwache hangulatos udvarában zajló szabadtéri fesztivál válogatott zenei programot kínál. A látogatókat nemzetközi hangzású fellépők és közösségi fesztiválhangulat várja.",
+          "ro": "Festivalul open-air de la Alte Feuerwache aduce un program muzical atent curatoriat în curtea interioară a locației. Publicul găsește sonorități internaționale, concerte live și atmosferă de festival.",
+          "en": "This open-air festival at the Alte Feuerwache brings a curated music programme to the venue's courtyard. Visitors can expect internationally influenced sounds, live acts, and a communal festival atmosphere."
+        },
+        "source_url": "https://www.wuppertal-live.de/641416"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Future Now Festival, Tag 2",
+          "hu": "Future Now Festival, 2. nap",
+          "ro": "Future Now Festival, ziua 2",
+          "en": "Future Now Festival, Day 2"
+        },
+        "summary": {
+          "de": "Der zweite Festivaltag an der Alten Feuerwache setzt das Open-Air-Programm mit weiteren Konzerten fort. Damit eignet sich das Wochenende besonders für Besucher, die Wuppertals alternative Livemusikszene kennenlernen möchten.",
+          "hu": "A második fesztiválnap az Alte Feuerwache-ban további koncertekkel folytatja a szabadtéri programot. A hétvége jó választás azoknak, akik szeretnék megismerni Wuppertal alternatív élőzenei színterét.",
+          "ro": "A doua zi de festival la Alte Feuerwache continuă programul open-air cu alte concerte. Weekendul este potrivit pentru vizitatorii care vor să descopere scena alternativă de muzică live din Wuppertal.",
+          "en": "The second festival day at the Alte Feuerwache continues the open-air programme with more concerts. The weekend is a good fit for visitors wanting to explore Wuppertal's alternative live-music scene."
+        },
+        "source_url": "https://www.wuppertal-live.de/641417"
+      },
+      {
+        "date": "2026-09-11",
+        "title": {
+          "de": "Me-T-al FESTival 2026",
+          "hu": "Me-T-al FESTival 2026",
+          "ro": "Me-T-al FESTival 2026",
+          "en": "Me-T-al FESTival 2026"
+        },
+        "summary": {
+          "de": "Das Eventground lädt zu einem ganztägigen Mix aus Metal, Mittelalter-Flair und Live-Bands ein. Das Line-up richtet sich an Besucher, die ein spezialisiertes Szene-Festival in Wuppertal suchen.",
+          "hu": "Az Eventground egész napos programja a metált, a középkori hangulatot és az élő zenekarokat kapcsolja össze. Olyan látogatóknak szól, akik tematikus szubkulturális fesztivált keresnek Wuppertalban.",
+          "ro": "Eventground găzduiește o zi întreagă de metal, atmosferă medievală și concerte live. Programul se adresează vizitatorilor care caută un festival de nișă în Wuppertal.",
+          "en": "Eventground hosts a full-day mix of metal, medieval flair, and live bands. It is aimed at visitors looking for a specialised scene festival in Wuppertal."
+        },
+        "source_url": "https://www.wuppertal-live.de/594700"
+      }
+    ]
+  },
+  {
+    "id": "spain-alicante-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Comedy Series im Castillo de Santa Bárbara",
+          "hu": "Comedy Series a Santa Bárbara várban",
+          "ro": "Comedy Series la Castelul Santa Bárbara",
+          "en": "Comedy Series at Santa Bárbara Castle"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm im Schloss Santa Bárbara kombiniert Stand-up-Abende und Familienaktivitäten in historischer Festungsatmosphäre. Der August-Auftakt der Comedy-Reihe beginnt mit einem Open-Air-Abend über der Stadt.",
+          "hu": "A Santa Bárbara vár nyári programja stand-up esteket és családi eseményeket kínál történelmi erődítményi környezetben. Az augusztusi nyitóest szabadtéri humorprogramot hoz a város fölé.",
+          "ro": "Programul de vară de la castelul Santa Bárbara combină seri de stand-up și activități pentru familii într-un decor istoric de fortăreață. Debutul lunii august aduce o seară open-air de comedie deasupra orașului.",
+          "en": "The summer programme at Santa Bárbara Castle combines stand-up evenings and family activities in a historic fortress setting. The August opener brings an open-air comedy night above the city."
+        },
+        "source_url": "https://alicanteturismo.com/en/events/a-summer-of-comedy-and-family-activities-at-santa-barbara-castle/"
+      },
+      {
+        "date": "2026-08-16",
+        "title": {
+          "de": "San-Roque-Festlichkeiten",
+          "hu": "San Roque ünnepségek",
+          "ro": "Sărbătorile San Roque",
+          "en": "San Roque Festivities"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Viertelfest am Hang des Benacantil bringt Umzüge, Tänze, Paella-Wettbewerb, Blaskapellen und eine Prozession zu Ehren des Heiligen zusammen. Es zählt zu den historischen Volksfesten Alicantes.",
+          "hu": "A Benacantil lejtőjén rendezett hagyományos negyedünnep felvonulásokat, táncokat, paellaversenyt, fúvószenekarokat és szent körmenetet kínál. Az esemény Alicante történelmi népünnepei közé tartozik.",
+          "ro": "Festivalul tradițional de cartier de pe versantul Benacantilului reunește parade, dansuri, concurs de paella, fanfare și procesiune în cinstea sfântului. Este una dintre sărbătorile populare istorice ale Alicantei.",
+          "en": "This long-running neighbourhood festival on the slopes of Benacantil brings together parades, dancing, a paella contest, brass bands, and a procession in honour of the saint. It is one of Alicante's historic popular festivities."
+        },
+        "source_url": "https://alicanteturismo.com/en/events/san-roque-festivities/"
+      },
+      {
+        "date": "2026-08-17",
+        "title": {
+          "de": "KURIOS, Cabinet of Curiosities",
+          "hu": "KURIOS, Cabinet of Curiosities",
+          "ro": "KURIOS, Cabinet of Curiosities",
+          "en": "KURIOS, Cabinet of Curiosities"
+        },
+        "summary": {
+          "de": "Cirque du Soleil gastiert mit KURIOS im großen Zelt am Playa de San Juan. Die Show verbindet Akrobatik, Humor und eine fantasievolle Steampunk-Welt und läuft mehrere Abende hintereinander.",
+          "hu": "A Cirque du Soleil KURIOS című produkciója a San Juan strand nagysátrában vendégszerepel. Az előadás akrobatikát, humort és látványos steampunk világot ötvöz több egymást követő estén.",
+          "ro": "Cirque du Soleil aduce KURIOS sub marele cort de pe Playa de San Juan. Spectacolul combină acrobația, umorul și un univers steampunk imaginar pe parcursul mai multor seri consecutive.",
+          "en": "Cirque du Soleil brings KURIOS to the big top at Playa de San Juan. The production combines acrobatics, humour, and an imaginative steampunk world over several consecutive evenings."
+        },
+        "source_url": "https://alicanteturismo.com/en/events/kurios-cabinet-of-curiosities-cirque-du-soleil/"
+      },
+      {
+        "date": "2026-09-03",
+        "title": {
+          "de": "Traditionelle Festlichkeiten von Raval Roig",
+          "hu": "Raval Roig hagyományos ünnepségei",
+          "ro": "Sărbătorile tradiționale din Raval Roig",
+          "en": "Traditional Festivities of Raval Roig"
+        },
+        "summary": {
+          "de": "Die offizielle Festkalenderübersicht der traditionellen Feste in Alicante nennt für Raval Roig ein mehrtägiges Septemberfest. Für Besucher ist das Viertel damit eine weitere Gelegenheit, lokale Festkultur in Strandnähe zu erleben.",
+          "hu": "Alicante hagyományos ünnepeinek hivatalos naptára szerint Raval Roig szeptember elején többnapos városrészi ünnepet tart. Ez újabb lehetőség a látogatóknak, hogy a tengerpart közelében helyi fesztiválhangulatot éljenek át.",
+          "ro": "Calendarul oficial al sărbătorilor tradiționale din Alicante indică pentru Raval Roig un festival de cartier de mai multe zile la început de septembrie. Pentru vizitatori, este o nouă ocazie de a descoperi cultura festivă locală aproape de mare.",
+          "en": "Alicante's official calendar of traditional festivities lists a multi-day neighbourhood festival for Raval Roig in early September. For visitors, it offers another chance to experience local festive culture close to the seafront."
+        },
+        "source_url": "https://alicanteturismo.com/en/events/porrate-de-san-anton-2026/"
+      },
+      {
+        "date": "2026-11-08",
+        "title": {
+          "de": "VII Gran Carrera del Mediterráneo 21K",
+          "hu": "VII Gran Carrera del Mediterráneo 21K",
+          "ro": "VII Gran Carrera del Mediterráneo 21K",
+          "en": "VII Gran Carrera del Mediterráneo 21K"
+        },
+        "summary": {
+          "de": "Der offiziell vermessene Küsten-Halbmarathon startet am Provinzpalast in Alicante und führt bis nach Santa Pola. Das Rennen verbindet Sport mit Meerblick und gehört zum nationalen Wettkampfkalender.",
+          "hu": "A hivatalosan hitelesített tengerparti félmaraton Alicante tartományi palotájától indul és Santa Poláig tart. A verseny a sportélményt mediterrán panorámával köti össze.",
+          "ro": "Semimaratonul de coastă omologat oficial pornește de la Palatul Provincial din Alicante și se încheie la Santa Pola. Cursa combină sportul cu priveliștile mediteraneene și face parte din calendarul național.",
+          "en": "The officially certified coastal half marathon starts at Alicante's Provincial Council Palace and finishes in Santa Pola. It combines sport with Mediterranean views and forms part of the national race calendar."
+        },
+        "source_url": "https://alicanteturismo.com/en/events/vii-la-gran-carrera-del-mediterraneo-21k-half-marathon/"
+      }
+    ]
+  },
+  {
+    "id": "nantes",
+    "events": [
+      {
+        "date": "2026-08-24",
+        "title": {
+          "de": "Les Rendez-Vous de l’Erdre",
+          "hu": "Les Rendez-Vous de l’Erdre",
+          "ro": "Les Rendez-Vous de l’Erdre",
+          "en": "Les Rendez-Vous de l’Erdre",
+          "fr": "Les Rendez-Vous de l’Erdre"
+        },
+        "summary": {
+          "de": "Das große kostenlose Jazzfestival entlang der Erdre verbindet Konzerte auf sechs Bühnen in Nantes mit Paraden historischer Boote. Es ist eines der markantesten Sommerereignisse der Stadt.",
+          "hu": "Az Erdre menti nagy ingyenes jazzfesztivál hat nantes-i színpad koncertjeit örökségi hajók felvonulásaival kapcsolja össze. Ez a város egyik legjellegzetesebb nyár végi eseménye.",
+          "ro": "Marele festival gratuit de jazz de pe Erdre combină concerte pe șase scene din Nantes cu parade de bărci de patrimoniu. Este unul dintre cele mai reprezentative evenimente de sfârșit de vară ale orașului.",
+          "en": "This major free jazz festival along the Erdre combines concerts on six stages in Nantes with heritage-boat parades. It is one of the city's signature late-summer events.",
+          "fr": "Ce grand festival gratuit de jazz le long de l’Erdre associe des concerts sur six scènes à Nantes et des parades de bateaux patrimoniaux. C’est l’un des grands rendez-vous de fin d’été de la ville."
+        },
+        "source_url": "https://www.levoyageanantes.fr/en/events/rendez-vous-de-lerdre/"
+      },
+      {
+        "date": "2026-09-01",
+        "title": {
+          "de": "Expression(s) décoloniale(s) #4",
+          "hu": "Expression(s) décoloniale(s) #4",
+          "ro": "Expression(s) décoloniale(s) #4",
+          "en": "Expression(s) décoloniale(s) #4",
+          "fr": "Expression(s) décoloniale(s) #4"
+        },
+        "summary": {
+          "de": "Im Geschichtsmuseum des Château des ducs de Bretagne öffnet die neue Ausgabe dieser Ausstellung historische und künstlerische Perspektiven auf Kolonial- und Sklavereigeschichte. Sie gehört zum wichtigen Herbstprogramm in Nantes.",
+          "hu": "A Château des ducs de Bretagne történeti múzeumában a kiállítás új kiadása történelmi és művészeti nézőpontokból vizsgálja a gyarmati és rabszolgasági múltat. A nantes-i őszi kulturális szezon fontos része.",
+          "ro": "La muzeul de istorie din Château des ducs de Bretagne, noua ediție a expoziției deschide perspective istorice și artistice asupra istoriei coloniale și a sclaviei. Ea face parte din programul cultural major de toamnă din Nantes.",
+          "en": "At the history museum of the Château des ducs de Bretagne, the new edition of this exhibition opens historical and artistic perspectives on colonial and slave-trading history. It is part of Nantes' major autumn cultural programme.",
+          "fr": "Au musée d’histoire du Château des ducs de Bretagne, cette nouvelle édition ouvre des perspectives historiques et artistiques sur l’histoire coloniale et négrière. Elle fait partie des temps forts culturels de l’automne à Nantes."
+        },
+        "source_url": "https://www.levoyageanantes.fr/en/events/expressions-decoloniales-4/"
+      },
+      {
+        "date": "2026-10-29",
+        "title": {
+          "de": "Les Utopiales",
+          "hu": "Les Utopiales",
+          "ro": "Les Utopiales",
+          "en": "Les Utopiales",
+          "fr": "Les Utopiales"
+        },
+        "summary": {
+          "de": "Das große Science-Fiction-Festival in der Cité Internationale des Congrès vereint Literatur, Kino, Comics und bildende Kunst. Es ist ein starker Anziehungspunkt für Herbstgäste in Nantes.",
+          "hu": "A Cité Internationale des Congrès nagy science-fiction fesztiválja az irodalmat, a filmet, a képregényt és a képzőművészetet kapcsolja össze. Jelentős őszi vonzerő Nantes látogatói számára.",
+          "ro": "Marele festival de science-fiction de la Cité Internationale des Congrès reunește literatura, cinemaul, benzile desenate și artele vizuale. Este un punct de atracție important pentru vizitatorii de toamnă din Nantes.",
+          "en": "The major science-fiction festival at the Cité Internationale des Congrès brings together literature, cinema, comics, and visual arts. It is a strong draw for autumn visitors to Nantes.",
+          "fr": "Le grand festival de science-fiction de la Cité Internationale des Congrès réunit littérature, cinéma, bande dessinée et arts visuels. C’est un rendez-vous majeur pour les visiteurs de l’automne à Nantes."
+        },
+        "source_url": "https://www.levoyageanantes.fr/en/events/les-utopiales/"
+      },
+      {
+        "date": "2026-11-21",
+        "title": {
+          "de": "Winter Journey",
+          "hu": "Winter Journey",
+          "ro": "Winter Journey",
+          "en": "Winter Journey",
+          "fr": "Voyage en hiver"
+        },
+        "summary": {
+          "de": "Das Winterprogramm von Le Voyage à Nantes begleitet die Weihnachtszeit mit Kunst, Stadtinszenierungen und saisonalen Entdeckungen bis Anfang Januar. Es bietet Besuchern einen kuratierten Rahmen für den Advent in Nantes.",
+          "hu": "A Le Voyage à Nantes téli programsorozata művészettel, városi installációkkal és szezonális felfedezésekkel kíséri a karácsonyi időszakot január elejéig. Válogatott adventi élményt kínál Nantes-ban.",
+          "ro": "Programul de iarnă al Le Voyage à Nantes însoțește perioada sărbătorilor cu artă, intervenții urbane și descoperiri sezoniere până la începutul lui ianuarie. Oferă un cadru curatoriat pentru Advent în Nantes.",
+          "en": "Le Voyage à Nantes' winter programme accompanies the holiday season with art, city staging, and seasonal discoveries through early January. It gives visitors a curated framework for Advent in Nantes.",
+          "fr": "Le programme hivernal du Voyage à Nantes accompagne les fêtes avec de l’art, des mises en scène urbaines et des découvertes de saison jusqu’au début janvier. Il propose un cadre de visite soigné pour l’Avent à Nantes."
+        },
+        "source_url": "https://www.levoyageanantes.fr/en/events/winter-journey/"
+      }
+    ]
+  },
+  {
+    "id": "city-muenster-extra",
+    "events": [
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "NRW-Tag 2026",
+          "hu": "NRW-Tag 2026",
+          "ro": "NRW-Tag 2026",
+          "en": "NRW Day 2026"
+        },
+        "summary": {
+          "de": "Münster richtet das große Landesfest zum 80. Geburtstag Nordrhein-Westfalens aus. In der Innenstadt gibt es Themenmeilen, Bühnen, Konzerte, Kultur und Mitmachangebote für alle Generationen.",
+          "hu": "Münster ad otthont Észak-Rajna–Vesztfália 80. születésnapi nagy tartományi ünnepének. A belvárosban tematikus sétányok, színpadok, koncertek, kulturális programok és közösségi aktivitások várják a látogatókat.",
+          "ro": "Münster găzduiește marea sărbătoare a landului pentru aniversarea de 80 de ani a Renaniei de Nord-Westfalia. În centrul orașului vor avea loc alei tematice, scene, concerte, programe culturale și activități participative pentru toate vârstele.",
+          "en": "Münster hosts the state's major celebration for North Rhine-Westphalia's 80th anniversary. The city centre will feature themed routes, stages, concerts, culture, and hands-on activities for all generations."
+        },
+        "source_url": "https://www.stadt-muenster.de/nrw-tag"
+      },
+      {
+        "date": "2026-09-13",
+        "title": {
+          "de": "Volksbank Münster Marathon",
+          "hu": "Volksbank Münster Marathon",
+          "ro": "Maratonul Volksbank Münster",
+          "en": "Volksbank Münster Marathon"
+        },
+        "summary": {
+          "de": "Der Stadtmarathon zählt zu den größten Laufveranstaltungen Deutschlands und verbindet die Strecke mit einem breiten Rahmenprogramm aus Musik und Unterhaltung. Zuschauer erleben Sportstimmung an vielen Punkten der Stadt.",
+          "hu": "A városi maraton Németország egyik legnagyobb futóeseménye, amelyet zenei és szórakoztató kísérőprogramok egészítenek ki. A nézők a város számos pontján élhetik át a verseny hangulatát.",
+          "ro": "Maratonul orașului este una dintre cele mai mari curse din Germania și este însoțit de un amplu program de muzică și divertisment. Spectatorii pot urmări atmosfera sportivă în multe puncte ale orașului.",
+          "en": "The city marathon is one of Germany's largest running events and is paired with extensive music and entertainment along the route. Spectators can experience race-day atmosphere across the city."
+        },
+        "source_url": "https://www.muensterland.com/en/tourism/orte-muensterland/places-in-munsterland/munster/events-in-munster/volksbank-munster-marathon/"
+      },
+      {
+        "date": "2026-11-23",
+        "title": {
+          "de": "Advent in Münster",
+          "hu": "Advent Münsterben",
+          "ro": "Advent în Münster",
+          "en": "Advent in Münster"
+        },
+        "summary": {
+          "de": "Sechs Weihnachtsmärkte mit rund 300 Ständen verwandeln die Altstadt in ein zusammenhängendes Adventsgebiet. Die Märkte liegen fußläufig nah beieinander und sind ein zentrales Winterhighlight für Besucher.",
+          "hu": "Hat karácsonyi vásár mintegy 300 standdal alakítja át az óvárost egy összefüggő adventi térséggé. A vásárok rövid sétával elérhetők egymástól, ezért kiemelt téli látványosságnak számítanak.",
+          "ro": "Șase piețe de Crăciun cu aproximativ 300 de standuri transformă centrul vechi într-o zonă continuă de Advent. Târgurile sunt la mică distanță unele de altele și reprezintă unul dintre principalele puncte de atracție ale iernii.",
+          "en": "Six Christmas markets with around 300 stalls turn the Old Town into a connected Advent area. The markets are all within easy walking distance and are a key winter attraction for visitors."
+        },
+        "source_url": "https://www.stadt-muenster.de/tourismus/uebernachten/advent-in-muenster"
+      },
+      {
+        "date": "2026-11-26",
+        "title": {
+          "de": "XMAS LIGHTS im Allwetterzoo",
+          "hu": "XMAS LIGHTS az Allwetterzoo-ban",
+          "ro": "XMAS LIGHTS la Allwetterzoo",
+          "en": "XMAS LIGHTS at the All-Weather Zoo"
+        },
+        "summary": {
+          "de": "Das abendliche Lichterevent im Allwetterzoo bringt beleuchtete Installationen, Shows und winterliche Atmosphäre auf das Zoogelände. Es eignet sich besonders für Familien und Adventsbesucher.",
+          "hu": "Az Allwetterzoo esti fényfesztiválja világító installációkkal, show-elemekkel és téli hangulattal tölti meg az állatkert területét. Különösen családoknak és adventi látogatóknak ajánlott.",
+          "ro": "Evenimentul de lumini de seară din Allwetterzoo aduce instalații iluminate, spectacole și atmosferă de iarnă pe teritoriul grădinii zoologice. Este potrivit mai ales pentru familii și pentru vizitatorii perioadei de Advent.",
+          "en": "This evening light event at the All-Weather Zoo brings illuminated installations, show elements, and winter atmosphere to the zoo grounds. It is especially suited to families and Advent visitors."
+        },
+        "source_url": "https://www.stadt-muenster.de/fileadmin/user_upload/stadt-muenster/80_tourismus/pdf/veranstaltungen_2026_web.pdf"
+      },
+      {
+        "date": "2026-12-06",
+        "title": {
+          "de": "Münster singt",
+          "hu": "Münster singt",
+          "ro": "Münster singt",
+          "en": "Münster Sings"
+        },
+        "summary": {
+          "de": "Das gemeinsame Adventssingen auf dem Domplatz gehört zu den publikumsstarken Vorweihnachtsterminen in Münster. Besucher können ohne große Inszenierung mitten in der Altstadt Weihnachtslieder mitsingen.",
+          "hu": "A Domplatzon rendezett közös adventi éneklés Münster népszerű karácsony előtti programjai közé tartozik. A látogatók a belváros szívében kapcsolódhatnak be a közös éneklésbe.",
+          "ro": "Cântatul comun de Advent din Domplatz este unul dintre evenimentele premergătoare Crăciunului cu mare afluență în Münster. Vizitatorii pot cânta colinde chiar în inima centrului vechi.",
+          "en": "The communal Advent singing on Domplatz is one of Münster's well-attended pre-Christmas events. Visitors can join in singing carols right in the heart of the Old Town."
+        },
+        "source_url": "https://www.stadt-muenster.de/fileadmin/user_upload/stadt-muenster/80_tourismus/pdf/veranstaltungen_2026_web.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "id": "city-nuernberg",
+    "events": [
+      {
+        "date": "2026-07-26",
+        "title": {
+          "de": "Klassik Open Air Nürnberg",
+          "hu": "Nürnbergi Klassik Open Air",
+          "ro": "Klassik Open Air Nürnberg",
+          "en": "Classic Open Air Nuremberg"
+        },
+        "summary": {
+          "de": "Das große Picknick-Konzert im Luitpoldhain bringt die Staatsphilharmonie Nürnberg unter freiem Himmel auf die Bühne. Der Eintritt ist frei, dazu gehört auch ein Familienkonzert am Vormittag.",
+          "hu": "A Luitpoldhain parkban rendezett nagyszabású piknikkoncerten a Nürnbergi Állami Filharmónia lép fel szabadtéren. A belépés ingyenes, délelőtt családi koncerttel is készülnek.",
+          "ro": "Marele concert-picnic din Luitpoldhain aduce Filarmonica de Stat din Nürnberg pe o scenă în aer liber. Intrarea este gratuită, iar dimineața are loc și un concert pentru familii.",
+          "en": "This large picnic-style concert in Luitpoldhain features the Nuremberg State Philharmonic outdoors. Admission is free, and a family concert is also scheduled in the morning."
+        },
+        "source_url": "https://tourismus.nuernberg.de/en/experience/events/highlights-of-the-year/classic-open-air-nuremberg-1/"
+      },
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Bardentreffen Nürnberg",
+          "hu": "Nürnbergi Bardentreffen",
+          "ro": "Bardentreffen Nürnberg",
+          "en": "Bardentreffen Nuremberg"
+        },
+        "summary": {
+          "de": "Beim traditionsreichen Weltmusikfestival verwandelt sich die Altstadt vier Tage lang in eine offene Bühne mit vielen kostenlosen Konzerten und Straßenmusik.",
+          "hu": "A hagyományos világzenei fesztivál négy napra nyitott színpaddá alakítja az óvárost, sok ingyenes koncerttel és utcazenével.",
+          "ro": "Festivalul tradițional de world music transformă orașul vechi timp de patru zile într-o scenă deschisă, cu multe concerte gratuite și muzică stradală.",
+          "en": "This long-running world music festival turns the Old Town into an open stage for four days, with many free concerts and street performances."
+        },
+        "source_url": "https://tourismus.nuernberg.de/en/experience/events/highlights-of-the-year/bardentreffen-nuremberg-meeting-of-the-bards-1/"
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Nürnberger Volksfest",
+          "hu": "Nürnbergi Népi Fesztivál",
+          "ro": "Târgul popular din Nürnberg",
+          "en": "Nuremberg Folk Festival"
+        },
+        "summary": {
+          "de": "Das Herbst-Volksfest am Dutzendteich verbindet Fahrgeschäfte, Festzelte und fränkische Traditionen. Es zählt zu den größten Volksfesten Bayerns und der Eintritt ist frei.",
+          "hu": "Az őszi Volksfest a Dutzendteich mellett vidámparki játékokat, sörsátrakat és frank hagyományokat kínál. Bajorország legnagyobb népünnepélyei közé tartozik, a belépés ingyenes.",
+          "ro": "Ediția de toamnă a Volksfestului de lângă Dutzendteich combină atracții, corturi festive și tradiții francone. Este unul dintre cele mai mari târguri populare din Bavaria, cu intrare liberă.",
+          "en": "The autumn edition of the folk festival at Dutzendteich combines rides, beer tents, and Franconian traditions. It is one of Bavaria's largest fairs and admission is free."
+        },
+        "source_url": "https://tourismus.nuernberg.de/en/discover/places-of-interest/location/nuremberg-folk-festival-nuernberger-volksfest/"
+      },
+      {
+        "date": "2026-09-16",
+        "title": {
+          "de": "Nürnberger Altstadtfest",
+          "hu": "Nürnbergi Óvárosi Fesztivál",
+          "ro": "Festivalul Orașului Vechi din Nürnberg",
+          "en": "Nuremberg Old Town Festival"
+        },
+        "summary": {
+          "de": "Deutschlands großes Altstadtfest bietet mehr als 60 kostenlose Programmpunkte, darunter Fischerstechen auf der Pegnitz, Folklore und Theater in der historischen Innenstadt.",
+          "hu": "Németország egyik legnagyobb óvárosi fesztiválja több mint 60 ingyenes programelemet kínál, köztük pegnitzi csónakos lovagi játékot, folklórt és színházat a történelmi belvárosban.",
+          "ro": "Unul dintre marile festivaluri de oraș vechi din Germania oferă peste 60 de programe gratuite, inclusiv turnirul pescarilor pe Pegnitz, folclor și teatru în centrul istoric.",
+          "en": "One of Germany's major old town festivals offers more than 60 free events, including the traditional fishermen's joust on the Pegnitz, folklore, and theatre in the historic center."
+        },
+        "source_url": "https://tourismus.nuernberg.de/en/experience/nuernberger-altstadtfest-old-town-festival-nuremberg-1/"
+      },
+      {
+        "date": "2026-11-27",
+        "title": {
+          "de": "Nürnberger Christkindlesmarkt",
+          "hu": "Nürnbergi Christkindlesmarkt",
+          "ro": "Târgul de Crăciun Christkindlesmarkt din Nürnberg",
+          "en": "Nuremberg Christkindlesmarkt"
+        },
+        "summary": {
+          "de": "Der berühmte Weihnachtsmarkt auf dem Hauptmarkt läuft bis Heiligabend mit traditionellem Kunsthandwerk, Lebkuchen, Glühwein und fränkischen Spezialitäten.",
+          "hu": "A híres főtéri karácsonyi vásár szenteste napjáig tart, hagyományos kézműves termékekkel, mézeskaláccsal, forralt borral és frank specialitásokkal.",
+          "ro": "Celebrul târg de Crăciun din piața centrală se desfășoară până în Ajun, cu obiecte tradiționale, turtă dulce, vin fiert și specialități francone.",
+          "en": "The famous Christmas market on the main square runs until Christmas Eve, with traditional crafts, gingerbread, mulled wine, and Franconian specialties."
+        },
+        "source_url": "https://tourismus.nuernberg.de/en/traveltrade/nuremberg-christkindlesmarkt/at-a-glance/"
+      }
+    ]
+  },
+  {
+    "id": "city-hannover",
+    "events": [
+      {
+      "date": "2026-07-22",
+      "end_date": "2026-08-09",
+        "title": {
+          "de": "Maschseefest",
+          "hu": "Maschsee Fesztivál",
+          "ro": "Festivalul Maschsee",
+          "en": "Maschsee Festival"
+        },
+        "summary": {
+          "de": "Rund um den Maschsee entsteht für 19 Tage eine Uferpromenade mit Live-Musik, Kulinarik, Sport und Familienprogramm. Es ist das größte Seefest Deutschlands.",
+          "hu": "A Maschsee körül 19 napra vízparti sétány, élőzene, gasztronómia, sport és családi programok várják a látogatókat. Ez Németország legnagyobb tófesztiválja.",
+          "ro": "Timp de 19 zile, malurile lacului Maschsee devin o promenadă cu muzică live, gastronomie, sport și activități pentru familii. Este cel mai mare festival lacustru din Germania.",
+          "en": "For 19 days, the shores of Lake Maschsee become a promenade with live music, food, sports, and family activities. It is Germany's largest lake festival."
+        },
+        "source_url": "https://www.visit-hannover.com/en/Maschseefest"
+      },
+      {
+        "date": "2026-07-31",
+        "title": {
+          "de": "Sommernächte im Gartentheater",
+          "hu": "Nyári esték a Kerti Színházban",
+          "ro": "Nopți de vară la Teatrul din Grădină",
+          "en": "Summer Nights at the Garden Theater"
+        },
+        "summary": {
+          "de": "In den Herrenhäuser Gärten bietet die Reihe Open-Air-Abende mit Musik, Poetry Slam und Film in historischer Gartenkulisse bis Ende August.",
+          "hu": "A Herrenhausen kertekben ez a szabadtéri sorozat zenét, poetry slamet és filmvetítéseket kínál történelmi kertszínházi környezetben egészen augusztus végéig.",
+          "ro": "În grădinile Herrenhausen, această serie în aer liber aduce muzică, poetry slam și cinema într-un decor istoric de grădină până la sfârșitul lui august.",
+          "en": "In the Herrenhausen Gardens, this open-air series brings music, poetry slams, and films to a historic garden setting through late August."
+        },
+        "source_url": "https://www.visit-hannover.com/en/Kultur-Sehensw%C3%BCrdigkeiten/Sehensw%C3%BCrdigkeiten/Die-Herrenh%C3%A4user-G%C3%A4rten/Sommern%C3%A4chte-im-Gartentheater"
+      },
+      {
+        "date": "2026-08-15",
+        "title": {
+          "de": "Internationaler Feuerwerkswettbewerb",
+          "hu": "Nemzetközi Tűzijáték-verseny",
+          "ro": "Competiția Internațională de Artificii",
+          "en": "International Fireworks Competition"
+        },
+        "summary": {
+          "de": "Im Großen Garten treten 2026 internationale Teams an mehreren Abenden gegeneinander an. Der August-Termin wird vom Team aus Finnland gestaltet.",
+          "hu": "A Nagy Kertben 2026-ban több estén át nemzetközi csapatok versenyeznek egymással. Az augusztusi estét a finn csapat mutatja be.",
+          "ro": "În Großer Garten, echipe internaționale concurează în 2026 pe mai multe seri. Seara din august este prezentată de echipa Finlandei.",
+          "en": "At the Great Garden, international teams compete on several evenings in 2026. The August show is presented by the team from Finland."
+        },
+        "source_url": "https://www.visit-hannover.com/en/Event-Highlights%2C-Kultur-Freizeit/Top-Events-und-Veranstaltungen/Feste-und-Spezial/Internationaler-Feuerwerkswettbewerb-2026/Die-Termine-in-2026"
+      },
+      {
+        "date": "2026-09-06",
+        "title": {
+          "de": "Entdeckertag der Region Hannover",
+          "hu": "Hannover régiós Felfedezőnap",
+          "ro": "Ziua Descoperirii în Regiunea Hannover",
+          "en": "Region Hannover Discovery Day"
+        },
+        "summary": {
+          "de": "Der Entdeckertag lädt mit vielen Ausflugszielen und Mitmachaktionen in der Region Hannover zum Erkunden per Bus und Bahn ein.",
+          "hu": "A Felfedezőnap számos kirándulóhellyel és interaktív programmal hívja a látogatókat Hannover régiójának felfedezésére tömegközlekedéssel.",
+          "ro": "Ziua Descoperirii invită vizitatorii să exploreze regiunea Hannover prin numeroase destinații și activități interactive, cu accent pe transportul public.",
+          "en": "Discovery Day invites visitors to explore the Hannover region through many excursion destinations and hands-on activities, with public transport playing a central role."
+        },
+        "source_url": "https://www.visit-hannover.com/en/News-und-Service/Events-Veranstaltungen-Hannover-Highlights/Ent%C2%ADdecker%C2%ADtag-der-Region-Hannover-2026"
+      },
+      {
+        "date": "2026-11-23",
+        "title": {
+          "de": "Hannovers Weihnachtsmarkt",
+          "hu": "Hannoveri karácsonyi vásár",
+          "ro": "Târgul de Crăciun din Hanovra",
+          "en": "Hannover Christmas Market"
+        },
+        "summary": {
+          "de": "Der Weihnachtsmarkt in der Altstadt rund um die Marktkirche bringt festlich dekorierte Stände, Handwerk und winterliche Spezialitäten bis kurz vor Weihnachten.",
+          "hu": "Az óvárosi karácsonyi vásár a Marktkirche körül ünnepi díszítésű standokkal, kézműves termékekkel és téli finomságokkal várja a látogatókat advent idején.",
+          "ro": "Târgul de Crăciun din centrul vechi, în jurul Marktkirche, aduce standuri festive, artizanat și specialități de iarnă până aproape de Crăciun.",
+          "en": "The Christmas market in the Old Town around the Marktkirche brings festive stalls, crafts, and winter specialties through the Advent season."
+        },
+        "source_url": "https://www.visit-hannover.com/en/Event-Highlights%2C-Kultur-Freizeit/Top-Events-und-Veranstaltungen/Feste-und-Spezial/Adventszeit-in-der-Region-Hannover/Weihnachts-und-Winterm%C3%A4rkte/Weihnachtsmarkt-Hannover2"
+      }
+    ]
+  },
+  {
+    "id": "city-leipzig",
+    "events": [
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "zebra. Festival 2026",
+          "hu": "zebra. Fesztivál 2026",
+          "ro": "Festivalul zebra. 2026",
+          "en": "zebra. Festival 2026"
+        },
+        "summary": {
+          "de": "Im Innenhof des GRASSI Museums verbindet das Festival globale Sounds mit Live-Shows, DJs, Workshops, Ausstellungen und internationaler Küche.",
+          "hu": "A GRASSI Múzeum udvarán a fesztivál globális hangzásokat kapcsol össze élő fellépésekkel, DJ-kkel, workshopokkal, kiállításokkal és nemzetközi konyhával.",
+          "ro": "În curțile Muzeului GRASSI, festivalul combină sunete globale cu concerte live, DJ, ateliere, expoziții și gastronomie internațională.",
+          "en": "In the courtyards of the GRASSI Museum, the festival combines global sounds with live shows, DJs, workshops, exhibitions, and international cuisine."
+        },
+        "source_url": "https://www.leipzig.travel/en/events-a/Zebra-Festival-2026"
+      },
+      {
+        "date": "2026-09-12",
+        "title": {
+          "de": "Con spirito 2026",
+          "hu": "Con spirito 2026",
+          "ro": "Con spirito 2026",
+          "en": "Con spirito 2026"
+        },
+        "summary": {
+          "de": "Das Leipziger Kammermusikfestival bringt Spitzenensembles in historische Salons und Musikorte der Stadt. 2026 steht es unter dem Motto „Tacheles – Jewish Tunes of the Leipzig Romantics“.",
+          "hu": "A lipcsei kamarazenei fesztivál élvonalbeli együtteseket visz a város történelmi szalonjaiba és zenei helyszíneire. A 2026-os mottó: „Tacheles – Jewish Tunes of the Leipzig Romantics”.",
+          "ro": "Festivalul de muzică de cameră din Leipzig aduce ansambluri de top în saloanele și locurile muzicale istorice ale orașului. În 2026 are tema „Tacheles – Jewish Tunes of the Leipzig Romantics”.",
+          "en": "Leipzig's chamber music festival brings top ensembles into the city's historic salons and music venues. In 2026 it runs under the theme “Tacheles – Jewish Tunes of the Leipzig Romantics.”"
+        },
+        "source_url": "https://www.leipzig.travel/en/events-a/con-spirito-the-Leipzig-Chamber-Music-Festival-2026"
+      },
+      {
+        "date": "2026-10-09",
+        "title": {
+          "de": "Leipziger Lichtfest",
+          "hu": "Lipcsei Fényfesztivál",
+          "ro": "Festivalul Luminilor din Leipzig",
+          "en": "Leipzig Festival of Lights"
+        },
+        "summary": {
+          "de": "Das Lichtfest erinnert am 9. Oktober an die Friedliche Revolution von 1989 und gehört zu den wichtigsten Gedenk- und Kulturereignissen der Stadt.",
+          "hu": "Az október 9-i Fényfesztivál az 1989-es békés forradalomra emlékezik, és a város egyik legfontosabb emlékezeti-kulturális eseménye.",
+          "ro": "Festivalul Luminilor din 9 octombrie comemorează Revoluția Pașnică din 1989 și este unul dintre cele mai importante evenimente culturale și memoriale ale orașului.",
+          "en": "Held on October 9, the Festival of Lights commemorates the Peaceful Revolution of 1989 and is one of the city's key cultural remembrance events."
+        },
+        "source_url": "https://www.leipzig.travel/en/discover/autumn-in-Leipzig"
+      },
+      {
+        "date": "2026-10-26",
+        "title": {
+          "de": "DOK Leipzig",
+          "hu": "DOK Leipzig",
+          "ro": "DOK Leipzig",
+          "en": "DOK Leipzig"
+        },
+        "summary": {
+          "de": "Das internationale Festival für Dokumentar- und Animationsfilm bringt Filmemacher, Branchenpublikum und Besucher für eine Woche nach Leipzig.",
+          "hu": "A dokumentum- és animációs filmek nemzetközi fesztiválja egy hétre Lipcsébe vonzza a filmeseket, a szakmát és a közönséget.",
+          "ro": "Festivalul internațional de film documentar și de animație aduce timp de o săptămână la Leipzig cineaști, profesioniști din industrie și public.",
+          "en": "This international festival for documentary and animated film brings filmmakers, industry guests, and audiences to Leipzig for a full week."
+        },
+        "source_url": "https://www.leipzig.travel/en/research-text/Experience-tourist-highlights-in-Leipzig-in-2026%3A-anniversaries--fairs--festivals-and-events-for-young-and-old"
+      },
+      {
+        "date": "2026-11-24",
+        "title": {
+          "de": "Leipziger Weihnachtsmarkt",
+          "hu": "Lipcsei karácsonyi vásár",
+          "ro": "Târgul de Crăciun din Leipzig",
+          "en": "Leipzig Christmas Market"
+        },
+        "summary": {
+          "de": "Der traditionsreiche Weihnachtsmarkt verteilt sich auf sieben Bereiche in der Innenstadt und bietet ab Ende November Stände, Lichter und Adventsatmosphäre.",
+          "hu": "A hagyományos karácsonyi vásár a belváros hét területén zajlik, és november végétől standokkal, fényekkel és adventi hangulattal várja a látogatókat.",
+          "ro": "Târgul tradițional de Crăciun se desfășoară în șapte zone din centrul orașului și oferă, de la sfârșitul lui noiembrie, standuri, lumini și atmosferă de Advent.",
+          "en": "The traditional Christmas market spreads across seven areas of the city center, bringing stalls, lights, and Advent atmosphere from late November onward."
+        },
+        "source_url": "https://www.leipzig.travel/en/news/Leipzig-Christmas-Market-2026%3A-One-of-the-most-beautiful-Christmas-markets--attracting-visitors-with-many-attractions."
+      }
+    ]
+  },
+  {
+    "id": "poland-gdansk-cities-v2",
+    "events": [
+      {
+      "date": "2026-07-23",
+      "end_date": "2026-08-02",
+        "title": {
+          "de": "30. Internationales Shakespeare-Festival Danzig",
+          "hu": "30. Gdański Nemzetközi Shakespeare Fesztivál",
+          "ro": "Al 30-lea Festival Internațional Shakespeare din Gdańsk",
+          "en": "30th International Gdańsk Shakespeare Festival"
+        },
+        "summary": {
+          "de": "Die Jubiläumsausgabe des Festivals im Gdański Teatr Szekspirowski läuft bis Anfang August und widmet sich unter dem Motto „Pochwała szaleństwa“ internationalen Produktionen und Off-Formaten.",
+          "hu": "A Gdański Teatr Szekspirowski jubileumi fesztiválja augusztus elejéig tart, és a „Pochwała szaleństwa” mottó alatt nemzetközi produkciókat és off-programokat mutat be.",
+          "ro": "Ediția aniversară de la Gdański Teatr Szekspirowski se desfășoară până la începutul lui august și prezintă producții internaționale și formate alternative sub mottoul „Pochwała szaleństwa”.",
+          "en": "The anniversary edition at the Gdańsk Shakespeare Theatre runs into early August and presents international productions and fringe formats under the motto “Pochwała szaleństwa.”"
+        },
+        "source_url": "https://teatrszekspirowski.pl/event/30-miedzynarodowy-festiwal-szekspirowski/"
+      },
+      {
+      "date": "2026-07-25",
+      "end_date": "2026-08-16",
+        "title": {
+          "de": "766. Dominikanermarkt",
+          "hu": "766. Szent Domonkos Vásár",
+          "ro": "Al 766-lea Târg Sfântul Dominic",
+          "en": "766th St. Dominic's Fair"
+        },
+        "summary": {
+          "de": "Der große Sommermarkt im Stadtzentrum von Danzig verbindet drei Wochen lang Handel, Gastronomie, Bühnenprogramm und Stadtfeste in historischen Straßen und Plätzen.",
+          "hu": "A gdański belváros nagy nyári vására három héten át ötvözi a kereskedelmet, a gasztronómiát, a színpadi programokat és a városi ünnepet a történelmi utcákon és tereken.",
+          "ro": "Marele târg de vară din centrul Gdańskului combină timp de trei săptămâni comerțul, gastronomia, spectacolele și atmosfera de sărbătoare în străzi și piețe istorice.",
+          "en": "The major summer fair in central Gdańsk combines trade, food, stage programming, and city-festival atmosphere across historic streets and squares for three weeks."
+        },
+        "source_url": "https://jarmarkswdominika.pl/en/"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "49. Internationales Festival für Orgel-, Chor- und Kammermusik",
+          "hu": "49. Nemzetközi Orgona-, Kórus- és Kamarazenei Fesztivál",
+          "ro": "Al 49-lea Festival Internațional de Orgă, Cor și Muzică de Cameră",
+          "en": "49th International Festival of Organ, Choral and Chamber Music"
+        },
+        "summary": {
+          "de": "Die 49. Ausgabe bringt im Juli und August freitags Abendkonzerte in die Marienkirche im Herzen von Danzig. Besucher erleben klassische Programme in einer der markantesten Kirchen der Stadt.",
+          "hu": "A 49. kiadás júliusban és augusztusban minden pénteken esti koncerteket rendez a város szívében álló Mária-templomban. A látogatók klasszikus műsorokat hallhatnak Gdańsk egyik legjellegzetesebb templomában.",
+          "ro": "A 49-a ediție aduce concerte de seară în fiecare vineri din iulie și august în Bazilica Sfânta Maria din centrul Gdańskului. Vizitatorii ascultă programe clasice într-una dintre cele mai emblematice biserici ale orașului.",
+          "en": "The 49th edition offers Friday evening concerts in July and August at St. Mary's Basilica in central Gdańsk. Visitors can hear classical programs in one of the city's landmark churches."
+        },
+        "source_url": "https://kartaturysty.visitgdansk.com/en/partners/the-49th-international-festival-of-organ%2C-choral-and-chamber-music-2026-6040930"
+      },
+      {
+        "date": "2026-11-20",
+        "title": {
+          "de": "Weihnachtsmarkt Danzig",
+          "hu": "Gdański karácsonyi vásár",
+          "ro": "Târgul de Crăciun din Gdańsk",
+          "en": "Gdańsk Christmas Market"
+        },
+        "summary": {
+          "de": "Der Weihnachtsmarkt auf dem Targ Węglowy bringt ab Ende November festliche Beleuchtung, Kunsthandwerk, regionale Spezialitäten und Winterattraktionen ins Zentrum von Danzig.",
+          "hu": "A Targ Węglowy téren rendezett karácsonyi vásár november végétől ünnepi fényekkel, kézműves termékekkel, helyi finomságokkal és téli attrakciókkal tölti meg Gdańsk központját.",
+          "ro": "Târgul de Crăciun din Targ Węglowy aduce de la sfârșitul lui noiembrie lumini festive, produse artizanale, specialități regionale și atracții de iarnă în centrul Gdańskului.",
+          "en": "The Christmas market at Targ Węglowy fills central Gdańsk with festive lights, crafts, regional specialties, and winter attractions from late November onward."
+        },
+        "source_url": "https://bozonarodzeniowy.pl/en/"
+      }
+    ]
+  },
+  {
+    "id": "NL-CT-HAA",
+    "events": [
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Jalan Jalan Festival",
+          "hu": "Jalan Jalan Fesztivál",
+          "ro": "Festivalul Jalan Jalan",
+          "en": "Jalan Jalan Festival"
+        },
+        "summary": {
+          "de": "Das neue Festival am Lange Voorhout feiert indonesisches und molukkisches Erbe mit Kulinarik, Musik und Kulturprogramm bei freiem Eintritt.",
+          "hu": "Az új, Lange Voorhouton rendezett fesztivál indonéz és molukkai örökséget ünnepel gasztronómiával, zenével és kulturális programokkal, ingyenesen.",
+          "ro": "Noul festival de pe Lange Voorhout celebrează patrimoniul indonezian și moluccan prin gastronomie, muzică și program cultural, cu intrare liberă.",
+          "en": "This new festival on Lange Voorhout celebrates Indonesian and Moluccan heritage with food, music, and cultural programming, with free admission."
+        },
+        "source_url": "https://denhaag.com/en/calendar/jalan-jalan-festival"
+      },
+      {
+        "date": "2026-08-27",
+        "title": {
+          "de": "Jazz in de Gracht",
+          "hu": "Jazz in de Gracht",
+          "ro": "Jazz in de Gracht",
+          "en": "Festival Jazz in de gracht"
+        },
+        "summary": {
+          "de": "Das kostenlose Grachtenfestival bringt mehrere Tage Jazz in die Innenstadt von Den Haag, mit Auftritten entlang des Wassers und im Zentrum.",
+          "hu": "Az ingyenes csatornaparti fesztivál több napon át jazzt hoz Hága belvárosába, vízparti és központi fellépésekkel.",
+          "ro": "Festivalul gratuit de pe canale aduce jazz timp de mai multe zile în centrul Hăgăi, cu spectacole de-a lungul apei și în zona centrală.",
+          "en": "This free canal-side festival brings jazz to central The Hague over several days, with performances along the water and across the city center."
+        },
+        "source_url": "https://denhaag.com/en/calendar/festival-jazz-in-de-gracht"
+      },
+      {
+        "date": "2026-09-15",
+        "title": {
+          "de": "Prinzjesdag 2026",
+          "hu": "Prinsjesdag 2026",
+          "ro": "Prinsjesdag 2026",
+          "en": "Prince's Day 2026"
+        },
+        "summary": {
+          "de": "Am dritten Dienstag im September steht Den Haag im Zeichen der königlichen Kutschenfahrt, der Thronrede und des Balkonauftritts am Noordeinde-Palast.",
+          "hu": "Szeptember harmadik keddjén Hága a királyi felvonulásról, a trónbeszédről és a Noordeinde-palotai balkonjelentésről szól.",
+          "ro": "În a treia marți din septembrie, Haga este marcată de procesiunea regală, Discursul de pe Tron și apariția la balcon de la Palatul Noordeinde.",
+          "en": "On the third Tuesday of September, The Hague centers on the royal procession, the Speech from the Throne, and the balcony appearance at Noordeinde Palace."
+        },
+        "source_url": "https://denhaag.com/en/calendar/princes-day"
+      },
+      {
+        "date": "2026-10-10",
+        "title": {
+          "de": "Museumnacht Den Haag",
+          "hu": "Múzeumok Éjszakája Hágában",
+          "ro": "Noaptea Muzeelor din Haga",
+          "en": "Museum Night The Hague"
+        },
+        "summary": {
+          "de": "Mehr als 35 Museen und Kulturorte öffnen bis nach Mitternacht mit Sonderprogrammen, Musik, Tanz sowie Speisen und Getränken an verschiedenen Standorten.",
+          "hu": "Több mint 35 múzeum és kulturális helyszín tart nyitva éjfélig különprogramokkal, zenével, tánccal, valamint étel- és italkínálattal.",
+          "ro": "Peste 35 de muzee și spații culturale rămân deschise până după miezul nopții, cu programe speciale, muzică, dans și oferte de mâncare și băuturi.",
+          "en": "More than 35 museums and cultural venues stay open until after midnight with special programming, music, dance, and food and drink."
+        },
+        "source_url": "https://denhaag.com/en/calendar/museum-night-the-hague"
+      },
+      {
+        "date": "2026-11-03",
+        "title": {
+          "de": "Crossing Border Festival",
+          "hu": "Crossing Border Fesztivál",
+          "ro": "Festivalul Crossing Border",
+          "en": "Crossing Border Festival"
+        },
+        "summary": {
+          "de": "Das Kulturfestival kombiniert Spoken Word, Musik, Film und bildende Kunst an mehreren Tagen in der Innenstadt von Den Haag.",
+          "hu": "A kulturális fesztivál spoken wordöt, zenét, filmet és képzőművészetet kapcsol össze több napon át Hága belvárosában.",
+          "ro": "Festivalul cultural combină spoken word, muzică, film și arte vizuale pe parcursul mai multor zile în centrul Hăgăi.",
+          "en": "This cultural festival combines spoken word, music, film, and visual art over several days in The Hague city center."
+        },
+        "source_url": "https://denhaag.com/en/calendar/crossing-border-festival"
+      }
+    ]
+  }
+]

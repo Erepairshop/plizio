@@ -1,0 +1,355 @@
+[
+  {
+    "id": "city-rouen-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Les Musicales de Normandie",
+          "hu": "Les Musicales de Normandie",
+          "ro": "Les Musicales de Normandie",
+          "en": "Les Musicales de Normandie",
+          "fr": "Les Musicales de Normandie"
+        },
+        "summary": {
+          "de": "Das klassische Sommerfestival bringt vom 16. bis 23. August mehrere Konzerte in bedeutende Kulturorte von Rouen und der Metropole.",
+          "hu": "A nyári komolyzenei fesztivál augusztus 16. és 23. között több koncertet visz Rouen és a nagyvárosi térség kiemelt örökségi helyszíneire.",
+          "ro": "Festivalul estival de muzică clasică aduce între 16 și 23 august mai multe concerte în locuri de patrimoniu importante din Rouen și metropolă.",
+          "en": "The summer classical music festival brings multiple concerts to major heritage venues across Rouen and the wider metropolis from 16 to 23 August.",
+          "fr": "Le festival estival de musique classique propose du 16 au 23 août plusieurs concerts dans des lieux patrimoniaux majeurs de Rouen et de sa métropole."
+        },
+        "date": "2026-08-16",
+        "source_url": "https://www.visiterouen.com/actualites/au-rythme-des-temps-forts/les-musicales-de-normandie/"
+      },
+      {
+        "title": {
+          "de": "Festival des Orgues Cavaillé-Coll",
+          "hu": "Festival des Orgues Cavaillé-Coll",
+          "ro": "Festival des Orgues Cavaillé-Coll",
+          "en": "Festival des Orgues Cavaillé-Coll",
+          "fr": "Festival des Orgues Cavaillé-Coll"
+        },
+        "summary": {
+          "de": "Das Orgel-Festival läuft vom 2. bis 23. August mit Konzerten, Besichtigungen, einer Ausstellung und Meisterkursen rund um die berühmten Cavaillé-Coll-Orgeln.",
+          "hu": "Az orgonafesztivál augusztus 2. és 23. között koncertekkel, látogatásokkal, kiállítással és mesterkurzusokkal mutatja be a híres Cavaillé-Coll hangszereket.",
+          "ro": "Festivalul de orgă se desfășoară între 2 și 23 august, cu concerte, vizite, expoziție și masterclass-uri dedicate celebrelor orgi Cavaillé-Coll.",
+          "en": "The organ festival runs from 2 to 23 August with concerts, visits, an exhibition and masterclasses centred on the renowned Cavaillé-Coll organs.",
+          "fr": "Le festival d'orgue se déroule du 2 au 23 août avec concerts, visites, exposition et masterclasses autour des célèbres orgues Cavaillé-Coll."
+        },
+        "date": "2026-08-02",
+        "source_url": "https://www.visiterouen.com/actualites/au-rythme-des-temps-forts/festival-des-orgues-cavaille-coll/"
+      },
+      {
+        "title": {
+          "de": "Seine Marathon 76",
+          "hu": "Seine Marathon 76",
+          "ro": "Seine Marathon 76",
+          "en": "Seine Marathon 76",
+          "fr": "Seine Marathon 76"
+        },
+        "summary": {
+          "de": "Das Laufwochenende bietet Marathon-, Halbmarathon-, 10-km-, 5-km- und Kinderläufe entlang der Seine und durch Rouen.",
+          "hu": "A futóhétvége maratont, félmaratont, 10 km-es, 5 km-es és gyermekfutamokat kínál a Szajna mentén és Rouen városában.",
+          "ro": "Weekendul sportiv include maraton, semimaraton, curse de 10 km și 5 km, precum și probe pentru copii pe malurile Senei și prin Rouen.",
+          "en": "The running weekend features marathon, half marathon, 10 km, 5 km and children's races along the Seine and through Rouen.",
+          "fr": "Ce week-end sportif propose un marathon, un semi-marathon, des courses de 10 km et 5 km ainsi que des épreuves enfants le long de la Seine et dans Rouen."
+        },
+        "date": "2026-09-26",
+        "source_url": "https://www.visiterouen.com/offres/seine-marathon-76-rouen-fr-5145204/"
+      },
+      {
+        "title": {
+          "de": "Rouen à Table ! 2026",
+          "hu": "Rouen à Table ! 2026",
+          "ro": "Rouen à Table ! 2026",
+          "en": "Rouen à Table ! 2026",
+          "fr": "Rouen à Table ! 2026"
+        },
+        "summary": {
+          "de": "Die Gastronomiewoche vom 7. bis 11. Oktober verbindet besondere Dinner, Genussrallyes, Kurse und Vorführungen in der UNESCO-Gastronomiestadt Rouen.",
+          "hu": "Az október 7. és 11. közötti gasztronómiai hét különleges vacsorákat, ínyenc városi túrákat, kurzusokat és bemutatókat kínál Rouen-ben.",
+          "ro": "Săptămâna gastronomică dintre 7 și 11 octombrie reunește cine speciale, raliuri culinare, cursuri și demonstrații în orașul UNESCO al gastronomiei.",
+          "en": "The gastronomy week from 7 to 11 October combines special dinners, gourmet rallies, classes and chef demonstrations across UNESCO gastronomy city Rouen.",
+          "fr": "La semaine gastronomique du 7 au 11 octobre réunit dîners d'exception, rallyes gourmands, cours et démonstrations de chefs dans toute la ville."
+        },
+        "date": "2026-10-07",
+        "source_url": "https://www.visiterouen.com/actualites/rouen-a-table/"
+      }
+    ]
+  },
+  {
+    "id": "spain-cadiz-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Molan los 90 en Cádiz",
+          "hu": "Molan los 90 Cádizban",
+          "ro": "Molan los 90 la Cádiz",
+          "en": "Molan los 90 in Cádiz"
+        },
+        "summary": {
+          "de": "Das Nostalgie-Festival bringt am Hafen von Cádiz eine große Open-Air-Nacht mit bekannten Dance- und Pop-Acts der 1990er Jahre.",
+          "hu": "A nosztalgiafesztivál a cádizi kikötőben nagy szabadtéri estét rendez ismert 90-es évekbeli dance- és popelőadókkal.",
+          "ro": "Festivalul nostalgic transformă portul din Cádiz într-o mare seară în aer liber cu artiști dance și pop cunoscuți din anii 1990.",
+          "en": "The nostalgia festival turns Cádiz port into a large open-air night with well-known 1990s dance and pop acts."
+        },
+        "date": "2026-08-01",
+        "source_url": "https://institucional.cadiz.es/evento/molan-los-90-en-c%C3%A1diz"
+      },
+      {
+        "title": {
+          "de": "NOSINMÚSICA 2026",
+          "hu": "NOSINMÚSICA 2026",
+          "ro": "NOSINMÚSICA 2026",
+          "en": "NOSINMÚSICA 2026"
+        },
+        "summary": {
+          "de": "Das eintägige Musikfestival am Muelle Reina Victoria kehrt mit Indie- und Pop-Acts wie Love of Lesbian, Alcalá Norte und DenisDenis zurück.",
+          "hu": "Az egynapos zenei fesztivál a Muelle Reina Victorián tér vissza indie- és popfellépőkkel, köztük a Love of Lesbiannel és az Alcalá Nortéval.",
+          "ro": "Festivalul de o zi de la Muelle Reina Victoria revine cu artiști indie și pop precum Love of Lesbian, Alcalá Norte și DenisDenis.",
+          "en": "The one-day music festival at Muelle Reina Victoria returns with indie and pop acts including Love of Lesbian, Alcalá Norte and DenisDenis."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://institucional.cadiz.es/evento/nosinm%C3%BAsica-2026"
+      },
+      {
+        "title": {
+          "de": "Morad en Cádiz",
+          "hu": "Morad Cádizban",
+          "ro": "Morad la Cádiz",
+          "en": "Morad in Cádiz"
+        },
+        "summary": {
+          "de": "Der Urban-Music-Star Morad spielt im Rahmen des Zyklus Música del Mar ein Abendkonzert am Muelle Reina Victoria.",
+          "hu": "A városi zene sztárja, Morad a Música del Mar sorozat részeként esti koncertet ad a Muelle Reina Victorián.",
+          "ro": "Starul muzicii urbane Morad susține un concert de seară la Muelle Reina Victoria în cadrul ciclului Música del Mar.",
+          "en": "Urban music star Morad performs an evening concert at Muelle Reina Victoria as part of the Música del Mar series."
+        },
+        "date": "2026-08-21",
+        "source_url": "https://institucional.cadiz.es/evento/morad-en-c%C3%A1diz"
+      },
+      {
+        "title": {
+          "de": "Festival Manga de Cádiz 2026",
+          "hu": "Cádizi Manga Fesztivál 2026",
+          "ro": "Festivalul Manga din Cádiz 2026",
+          "en": "Cádiz Manga Festival 2026"
+        },
+        "summary": {
+          "de": "Das Jugend- und Popkulturfestival Femanca füllt das Colegio San Felipe Neri mit Manga-, Anime- und Geek-Aktivitäten bei freiem Eintritt.",
+          "hu": "A Femanca ifjúsági és popkulturális fesztivál manga-, anime- és geekprogramokkal tölti meg a Colegio San Felipe Nerit, ingyenes belépéssel.",
+          "ro": "Festivalul de tineret și cultură pop Femanca umple Colegio San Felipe Neri cu activități manga, anime și geek, cu intrare liberă.",
+          "en": "The Femanca youth and pop-culture festival fills Colegio San Felipe Neri with manga, anime and geek activities with free admission."
+        },
+        "date": "2026-09-04",
+        "source_url": "https://institucional.cadiz.es/evento/festival-manga-de-c%C3%A1diz-2026"
+      },
+      {
+        "title": {
+          "de": "Alcances Atlantic Film Festival",
+          "hu": "Alcances Atlantic Film Festival",
+          "ro": "Festivalul de Film Atlantic Alcances",
+          "en": "Alcances Atlantic Film Festival"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Filmfestival in Cádiz widmet sich dem Kino und läuft Ende September bis Anfang Oktober mit Vorführungen und Begleitprogramm.",
+          "hu": "A nagy hagyományú cádizi filmfesztivál a mozinak szentelt programmal tér vissza szeptember végén és október elején.",
+          "ro": "Festivalul de film cu tradiție din Cádiz revine la sfârșit de septembrie și început de octombrie cu proiecții și activități conexe.",
+          "en": "The long-running Cádiz film festival returns in late September and early October with screenings and related programming."
+        },
+        "date": "2026-09-25",
+        "source_url": "https://www.spain.info/en/calendar/exhibition-cinematography-atlantic-scope/"
+      }
+    ]
+  },
+  {
+    "id": "poland-dabrowa-gornicza-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Letnie Kino Plenerowe 2026: Aftersun",
+          "hu": "Szabadtéri Nyári Mozi 2026: Aftersun",
+          "ro": "Cinema de vară în aer liber 2026: Aftersun",
+          "en": "Open-Air Summer Cinema 2026: Aftersun"
+        },
+        "summary": {
+          "de": "Die Sommerkinoreihe zeigt den Film Aftersun abends auf dem Parkplatz beim Pałac Kultury Zagłębia im Rahmen der Sommeraktion der Stadt.",
+          "hu": "A nyári mozisorozat az Aftersun című filmet vetíti este a Pałac Kultury Zagłębia melletti parkolóban a városi nyári program részeként.",
+          "ro": "Seria de cinema de vară proiectează seara filmul Aftersun în parcarea de lângă Pałac Kultury Zagłębia, în cadrul programului estival al orașului.",
+          "en": "The summer cinema series screens Aftersun in the evening at the parking area by Pałac Kultury Zagłębia as part of the city's summer programme."
+        },
+        "date": "2026-07-31",
+        "source_url": "https://aktywna.dg.pl/wydarzenia/334-letnie-kino-plenerowe-2026-aftersun"
+      },
+      {
+        "title": {
+          "de": "Letnie Kino Plenerowe 2026: Amadeusz",
+          "hu": "Szabadtéri Nyári Mozi 2026: Amadeusz",
+          "ro": "Cinema de vară în aer liber 2026: Amadeusz",
+          "en": "Open-Air Summer Cinema 2026: Amadeusz"
+        },
+        "summary": {
+          "de": "Die Open-Air-Reihe zeigt den oscarprämierten Film Amadeus am PKZ-Parkplatz, bei schlechtem Wetter mit Verlegung ins Kino KADR.",
+          "hu": "A szabadtéri sorozat az Oscar-díjas Amadeus filmet vetíti a PKZ parkolójában, rossz idő esetén a KADR moziba költözve.",
+          "ro": "Seria în aer liber proiectează filmul premiat cu Oscar Amadeus în parcarea PKZ, cu mutare la cinema KADR în caz de vreme nefavorabilă.",
+          "en": "The open-air series screens the Oscar-winning Amadeus at the PKZ parking area, with a move to Kino KADR in bad weather."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://aktywna.dg.pl/wydarzenia/337-letnie-kino-plenerowe-2026-amadeusz"
+      },
+      {
+        "title": {
+          "de": "Pogoria Open Water",
+          "hu": "Pogoria Open Water",
+          "ro": "Pogoria Open Water",
+          "en": "Pogoria Open Water"
+        },
+        "summary": {
+          "de": "Die offenen Meisterschaften von Dąbrowa Górnicza im Freiwasserschwimmen finden am Wassersportzentrum Pogoria III statt.",
+          "hu": "Dąbrowa Górnicza nyílt nyíltvízi úszóbajnokságát a Pogoria III nyári és vízi sportközpontban rendezik meg.",
+          "ro": "Campionatul deschis de înot în ape deschise al Dąbrowa Górnicza are loc la centrul de sporturi estivale și nautice Pogoria III.",
+          "en": "Dąbrowa Górnicza's open-water swimming championships take place at the Pogoria III summer and water sports centre."
+        },
+        "date": "2026-08-30",
+        "source_url": "https://aktywna.dg.pl/wydarzenia/55-pogoria-open-water-otwarte-mistrzostwa-dabrowy-gorniczej-na-wodach-otwartych"
+      },
+      {
+        "title": {
+          "de": "Na urodziny Spisaka | Benefis Maestry Agnieszki Duczmal",
+          "hu": "Na urodziny Spisaka | Agnieszka Duczmal gálakoncertje",
+          "ro": "Na urodziny Spisaka | Gala maestrei Agnieszka Duczmal",
+          "en": "For Spisak's Birthday | Benefit Concert for Maestra Agnieszka Duczmal"
+        },
+        "summary": {
+          "de": "Das Konzert im Pałac Kultury Zagłębia bringt Agnieszka Duczmal, das Amadeus-Kammerorchester des Polnischen Rundfunks und ein Bläsertrio zusammen.",
+          "hu": "A Pałac Kultury Zagłębia koncertje Agnieszka Duczmalt, a Lengyel Rádió Amadeus kamarazenekarát és egy fúvóstriót hoz össze.",
+          "ro": "Concertul de la Pałac Kultury Zagłębia îi reunește pe Agnieszka Duczmal, Orchestra de Cameră Amadeus a Radioului Polonez și un trio de suflători.",
+          "en": "The concert at Pałac Kultury Zagłębia brings together Agnieszka Duczmal, the Polish Radio Amadeus Chamber Orchestra and a wind trio."
+        },
+        "date": "2026-09-14",
+        "source_url": "https://aktywna.dg.pl/wydarzenia/194-na-urodziny-spisaka-benefis-maestry-agnieszki-duczmal"
+      },
+      {
+        "title": {
+          "de": "Fisz Emade Tworzywo",
+          "hu": "Fisz Emade Tworzywo",
+          "ro": "Fisz Emade Tworzywo",
+          "en": "Fisz Emade Tworzywo"
+        },
+        "summary": {
+          "de": "Das polnische Hip-Hop- und Alternative-Projekt spielt im Oktober ein Konzert im Pałac Kultury Zagłębia.",
+          "hu": "A lengyel hiphop- és alternatív projekt októberben koncertet ad a Pałac Kultury Zagłębia színpadán.",
+          "ro": "Proiectul polonez de hip-hop și alternativ susține în octombrie un concert la Pałac Kultury Zagłębia.",
+          "en": "The Polish hip-hop and alternative act performs a concert at Pałac Kultury Zagłębia in October."
+        },
+        "date": "2026-10-24",
+        "source_url": "https://aktywna.dg.pl/wydarzenia/227-fisz-emade-tworzywo"
+      }
+    ]
+  },
+  {
+    "id": "spain-alcobendas-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Poéticas terrenas",
+          "hu": "Poéticas terrenas",
+          "ro": "Poéticas terrenas",
+          "en": "Poéticas terrenas"
+        },
+        "summary": {
+          "de": "Die Herbstausstellung im Centro de Arte Alcobendas widmet sich einem künstlerischen Forschungs- und Schaffensprojekt mit Laufzeit bis Anfang November.",
+          "hu": "A Centro de Arte Alcobendas őszi kiállítása egy művészeti kutatási és alkotói projektet mutat be, amely november elejéig látogatható.",
+          "ro": "Expoziția de toamnă de la Centro de Arte Alcobendas prezintă un proiect de cercetare și creație artistică deschis până la începutul lui noiembrie.",
+          "en": "The autumn exhibition at Centro de Arte Alcobendas presents an artistic research and creation project running until early November."
+        },
+        "date": "2026-09-24",
+        "source_url": "https://centrodearte.alcobendas.org/es/exposiciones-futuras"
+      },
+      {
+        "title": {
+          "de": "ALTAMAR. Juan Baraja",
+          "hu": "ALTAMAR. Juan Baraja",
+          "ro": "ALTAMAR. Juan Baraja",
+          "en": "ALTAMAR. Juan Baraja"
+        },
+        "summary": {
+          "de": "Die Ausstellung von Juan Baraja eröffnet Mitte Oktober im Centro de Arte Alcobendas und läuft bis Januar 2027.",
+          "hu": "Juan Baraja kiállítása október közepén nyílik meg a Centro de Arte Alcobendasban, és 2027 januárjáig tart.",
+          "ro": "Expoziția lui Juan Baraja se deschide la mijlocul lui octombrie la Centro de Arte Alcobendas și rămâne deschisă până în ianuarie 2027.",
+          "en": "Juan Baraja's exhibition opens in mid-October at Centro de Arte Alcobendas and runs until January 2027."
+        },
+        "date": "2026-10-15",
+        "source_url": "https://centrodearte.alcobendas.org/es/7084"
+      },
+      {
+        "title": {
+          "de": "Halloween Infantil 4-13 años",
+          "hu": "Gyerek Halloween 4-13 éveseknek",
+          "ro": "Halloween pentru copii 4-13 ani",
+          "en": "Children's Halloween for Ages 4-13"
+        },
+        "summary": {
+          "de": "Im Jugendzentrum IMAGINA gibt es am Halloween-Abend kostenlose Aktivitäten und Workshops für Kinder und Familien.",
+          "hu": "Az IMAGINA ifjúsági központban halloween estéjén ingyenes programok és foglalkozások várják a gyerekeket és családokat.",
+          "ro": "La centrul de tineret IMAGINA sunt programate activități și ateliere gratuite de Halloween pentru copii și familii.",
+          "en": "The IMAGINA youth centre hosts free Halloween activities and workshops for children and families."
+        },
+        "date": "2026-10-31",
+        "source_url": "https://www.imaginalcobendas.org/evento/halloween-infantil-4-13-anos/"
+      }
+    ]
+  },
+  {
+    "id": "netherlands-zoetermeer-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "ParkFest Nicolaasplein 2026",
+          "hu": "ParkFest Nicolaasplein 2026",
+          "ro": "ParkFest Nicolaasplein 2026",
+          "en": "ParkFest Nicolaasplein 2026"
+        },
+        "summary": {
+          "de": "Das Sommerfestival auf dem Nicolaasplein bietet einen langen Sonntagnachmittag und -abend mit Live-Unterhaltung im Stadtzentrum von Zoetermeer.",
+          "hu": "A Nicolaasplein nyári fesztiválja egy hosszú vasárnap délutáni és esti programot kínál élő szórakoztató műsorokkal Zoetermeer központjában.",
+          "ro": "Festivalul de vară din Nicolaasplein oferă o după-amiază și o seară de duminică cu divertisment live în centrul orașului Zoetermeer.",
+          "en": "The summer festival at Nicolaasplein offers a Sunday afternoon and evening of live entertainment in central Zoetermeer."
+        },
+        "date": "2026-07-26",
+        "source_url": "https://www.uitagendazoetermeer.nl/uitagenda/2267372200/parkfest-nicolaasplein-2026"
+      },
+      {
+        "title": {
+          "de": "Live at the Lake festival",
+          "hu": "Live at the Lake fesztivál",
+          "ro": "Festivalul Live at the Lake",
+          "en": "Live at the Lake festival"
+        },
+        "summary": {
+          "de": "Das Festival am Strand Noord Aa läuft an zwei Abenden mit Live-Musik am Wasser und sommerlicher Festivalatmosphäre.",
+          "hu": "A Strand Noord Aa partján rendezett fesztivál két estén át élő zenét és nyári tóparti hangulatot kínál.",
+          "ro": "Festivalul de la Strand Noord Aa se desfășoară pe parcursul a două seri cu muzică live și atmosferă estivală pe malul apei.",
+          "en": "The festival at Strand Noord Aa runs over two evenings with live music and a summer waterside festival atmosphere."
+        },
+        "date": "2026-08-21",
+        "source_url": "https://www.uitagendazoetermeer.nl/uitagenda/95423604/live-at-the-lake-festival"
+      },
+      {
+        "title": {
+          "de": "Morsefest 2026",
+          "hu": "Morsefest 2026",
+          "ro": "Morsefest 2026",
+          "en": "Morsefest 2026"
+        },
+        "summary": {
+          "de": "Das mehrtägige Progressive-Rock-Festival in Poppodium Boerderij beginnt Ende August und bringt internationale Fans nach Zoetermeer.",
+          "hu": "A többnapos progresszív rockfesztivál a Poppodium Boerderij helyszínén augusztus végén indul, és nemzetközi rajongókat vonz Zoetermeerbe.",
+          "ro": "Festivalul de rock progresiv desfășurat pe mai multe zile la Poppodium Boerderij începe la sfârșit de august și atrage fani internaționali la Zoetermeer.",
+          "en": "The multi-day progressive rock festival at Poppodium Boerderij begins in late August and draws international fans to Zoetermeer."
+        },
+        "date": "2026-08-28",
+        "source_url": "https://www.uitagendazoetermeer.nl/uitagenda/48089197/morsefest-2026"
+      }
+    ]
+  }
+]

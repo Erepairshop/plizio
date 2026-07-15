@@ -1,0 +1,333 @@
+[
+  {
+    "id": "belgium-ghent-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Patershol-Fest",
+          "hu": "Patershol ünnepség",
+          "ro": "Sărbătoarea Patershol",
+          "en": "Patershol Festivities"
+        },
+        "summary": {
+          "de": "Das historische Patershol-Viertel feiert drei Tage lang mit Straßenfeststimmung in den Altstadtgassen von Gent.",
+          "hu": "Gent történelmi Patershol negyede háromnapos utcai ünnepet rendez hangulatos belvárosi programokkal.",
+          "ro": "Cartierul istoric Patershol găzduiește trei zile de atmosferă festivă pe străzile vechi din Gent.",
+          "en": "Ghent's historic Patershol quarter hosts a three-day neighbourhood celebration in its old-city lanes."
+        },
+        "date": "2026-08-14",
+        "category": "Festival",
+        "source_url": "https://visit.gent.be/en/calendar/patershol-festivities"
+      },
+      {
+        "title": {
+          "de": "Bijloke Wonderland",
+          "hu": "Bijloke Wonderland",
+          "ro": "Bijloke Wonderland",
+          "en": "Bijloke Wonderland"
+        },
+        "summary": {
+          "de": "Das Kulturfestival auf dem Bijloke-Gelände bietet elf Tage lang Konzerte bei Sonnenaufgang, Theater, Tanz, Kunst und Führungen.",
+          "hu": "A Bijloke kulturális fesztivál tizenegy napon át napfelkelte-koncerteket, színházat, táncot, képzőművészetet és vezetett programokat kínál.",
+          "ro": "Festivalul cultural de la Bijloke propune unsprezece zile de concerte la răsărit, teatru, dans, arte vizuale și tururi ghidate.",
+          "en": "The Bijloke culture festival offers eleven days of sunrise concerts, theatre, dance, visual arts and guided visits."
+        },
+        "date": "2026-08-20",
+        "category": "Culture",
+        "source_url": "https://visit.gent.be/en/calendar/bijloke-wonderland"
+      },
+      {
+        "title": {
+          "de": "Flanders Festival Gent",
+          "hu": "Flanders Festival Gent",
+          "ro": "Festivalul Flandra din Gent",
+          "en": "Flanders Festival Ghent"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Festival bringt im September klassische Musik für ein breites Publikum an Spielorte in Gent.",
+          "hu": "A rangos fesztivál szeptemberben klasszikus zenei programokat hoz Gent több helyszínére minden korosztálynak.",
+          "ro": "Festivalul consacrat aduce în septembrie muzică clasică pentru public larg în mai multe spații din Gent.",
+          "en": "This established festival brings classical music for all ages to venues across Ghent in September."
+        },
+        "date": "2026-09-10",
+        "category": "Music",
+        "source_url": "https://visit.gent.be/en/calendar/flanders-festival-ghent"
+      },
+      {
+        "title": {
+          "de": "Film Fest Gent",
+          "hu": "Genti Filmfesztivál",
+          "ro": "Film Fest Gent",
+          "en": "Film Fest Gent"
+        },
+        "summary": {
+          "de": "Das internationale Filmfestival von Gent bringt im Oktober Vorführungen und Festivalatmosphäre in die Stadt.",
+          "hu": "Gent nemzetközi filmfesztiválja októberben vetítésekkel és fesztiválhangulattal tölti meg a várost.",
+          "ro": "Festivalul internațional de film din Gent animă orașul în octombrie cu proiecții și atmosferă de festival.",
+          "en": "Ghent's international film festival fills the city with screenings and festival buzz in October."
+        },
+        "date": "2026-10-07",
+        "category": "Film",
+        "source_url": "https://visit.gent.be/en/calendar/film-fest-gent"
+      }
+    ]
+  },
+  {
+    "id": "constanta",
+    "events": [
+      {
+        "title": {
+          "de": "Weekend de Constanța 2026",
+          "hu": "Constanța hétvége 2026",
+          "ro": "Weekend de Constanța 2026",
+          "en": "Weekend of Constanța 2026"
+        },
+        "summary": {
+          "de": "Die Stadt organisiert bis Anfang September eine stadtweite Sommerreihe im Steampunk-Stil, die Parks in Kultur- und Freizeitorte verwandelt.",
+          "hu": "A város szeptember elejéig tartó steampunk hangulatú nyári programsorozatot rendez, amely a parkokat kulturális találkozóhellyé alakítja.",
+          "ro": "Primăria organizează până la începutul lui septembrie o serie urbană de vară cu estetică steampunk, care transformă parcurile în spații vii de cultură și divertisment.",
+          "en": "The city is running a summer steampunk-themed urban series through early September, turning parks into lively cultural spaces."
+        },
+        "date": "2026-07-26",
+        "category": "Festival",
+        "source_url": "https://primaria-constanta.ro/eveniment-pmc/weekend-de-constanta-2026-vara-in-care-parcurile-orasului-devin-scene-de-poveste/"
+      },
+      {
+        "title": {
+          "de": "Scripcarul pe acoperiș - SEAS 2026",
+          "hu": "Hegedűs a háztetőn - SEAS 2026",
+          "ro": "Scripcarul pe acoperiș - SEAS 2026",
+          "en": "Fiddler on the Roof - SEAS 2026"
+        },
+        "summary": {
+          "de": "Im Rahmen des Sommer-Theaterfestivals SEAS kommt das Musical \"Scripcarul pe acoperiș\" nach Constanța.",
+          "hu": "A SEAS nyári színházi fesztivál keretében a \"Scripcarul pe acoperiș\" musical érkezik Constanțára.",
+          "ro": "Musicalul \"Scripcarul pe acoperiș\" face parte din programul festivalului estival SEAS din Constanța.",
+          "en": "The musical \"Fiddler on the Roof\" is part of Constanța's SEAS summer theatre festival."
+        },
+        "date": "2026-08-13",
+        "category": "Theatre",
+        "source_url": "https://www.bilet.ro/eveniment/scripcarul-pe-acoperis-seas-13880-59844"
+      },
+      {
+        "title": {
+          "de": "Matilda - SEAS 2026",
+          "hu": "Matilda - SEAS 2026",
+          "ro": "Matilda - SEAS 2026",
+          "en": "Matilda - SEAS 2026"
+        },
+        "summary": {
+          "de": "Die Produktion \"Matilda\" ist als August-Termin im SEAS-Festivalprogramm in Constanța bestätigt.",
+          "hu": "A \"Matilda\" előadás augusztusi időponttal szerepel a constanțai SEAS fesztivál programjában.",
+          "ro": "\"Matilda\" este confirmat în programul din august al festivalului SEAS din Constanța.",
+          "en": "\"Matilda\" is confirmed on the August programme of Constanța's SEAS festival."
+        },
+        "date": "2026-08-22",
+        "category": "Theatre",
+        "source_url": "https://www.bilet.ro/eveniment/matilda-seas-18503-60059"
+      },
+      {
+        "title": {
+          "de": "The Evolution of Magic",
+          "hu": "The Evolution of Magic",
+          "ro": "The Evolution of Magic",
+          "en": "The Evolution of Magic"
+        },
+        "summary": {
+          "de": "Die englischsprachige Magieshow ist für den 18. November in der Casa de Cultura a Sindicatelor angekündigt.",
+          "hu": "Az angol nyelvű bűvészshowt november 18-ra hirdették meg a Casa de Cultura a Sindicatelor nagytermébe.",
+          "ro": "Spectacolul de magie în limba engleză este programat pe 18 noiembrie la Casa de Cultura a Sindicatelor.",
+          "en": "The English-language magic show is scheduled for 18 November at Casa de Cultura a Sindicatelor."
+        },
+        "date": "2026-11-18",
+        "category": "Show",
+        "source_url": "https://ticketstore.ro/ro/bilete/12107/the-evolution-of-magic-constanta"
+      }
+    ]
+  },
+  {
+    "id": "moenchengladbach-extra",
+    "events": [
+      {
+        "title": {
+          "de": "Michael Patrick Kelly - Traces Open Air Tour 2026",
+          "hu": "Michael Patrick Kelly - Traces Open Air Tour 2026",
+          "ro": "Michael Patrick Kelly - Traces Open Air Tour 2026",
+          "en": "Michael Patrick Kelly - Traces Open Air Tour 2026"
+        },
+        "summary": {
+          "de": "Michael Patrick Kelly spielt am 26. Juli ein Open-Air-Konzert im SparkassenPark.",
+          "hu": "Michael Patrick Kelly július 26-án szabadtéri koncertet ad a SparkassenParkban.",
+          "ro": "Michael Patrick Kelly susține un concert open-air pe 26 iulie în SparkassenPark.",
+          "en": "Michael Patrick Kelly plays an open-air concert at SparkassenPark on 26 July."
+        },
+        "date": "2026-07-26",
+        "category": "Music",
+        "source_url": "https://sparkassenpark.de/veranstaltung/michael-patrick-kelly-mg-26-07-2026/"
+      },
+      {
+        "title": {
+          "de": "Wincent Weiss - Sommertour 2026",
+          "hu": "Wincent Weiss - Sommertour 2026",
+          "ro": "Wincent Weiss - Sommertour 2026",
+          "en": "Wincent Weiss - Sommertour 2026"
+        },
+        "summary": {
+          "de": "Wincent Weiss kommt Anfang August für einen Sommerabend im SparkassenPark nach Mönchengladbach.",
+          "hu": "Wincent Weiss augusztus elején nyári koncertestet ad a SparkassenParkban Mönchengladbachban.",
+          "ro": "Wincent Weiss ajunge la început de august în SparkassenPark pentru un concert de vară la Mönchengladbach.",
+          "en": "Wincent Weiss comes to SparkassenPark in early August for a summer concert in Mönchengladbach."
+        },
+        "date": "2026-08-01",
+        "category": "Music",
+        "source_url": "https://sparkassenpark.de/veranstaltung/wincent-weiss-01-08-2026-sparkassenpark/"
+      },
+      {
+        "title": {
+          "de": "KYGO",
+          "hu": "KYGO",
+          "ro": "KYGO",
+          "en": "KYGO"
+        },
+        "summary": {
+          "de": "Der norwegische DJ spielt am 8. August eine Open-Air-Show im SparkassenPark.",
+          "hu": "A norvég DJ augusztus 8-án szabadtéri show-val érkezik a SparkassenParkba.",
+          "ro": "DJ-ul norvegian susține un show open-air pe 8 august în SparkassenPark.",
+          "en": "The Norwegian DJ performs an open-air show at SparkassenPark on 8 August."
+        },
+        "date": "2026-08-08",
+        "category": "Dance/Electronic",
+        "source_url": "https://sparkassenpark.de/veranstaltung/kygo-08-08-2026-sparkassenpark/"
+      },
+      {
+        "title": {
+          "de": "20 Jahre SparkassenPark",
+          "hu": "20 éves a SparkassenPark",
+          "ro": "20 de ani de SparkassenPark",
+          "en": "20 Years of SparkassenPark"
+        },
+        "summary": {
+          "de": "Der SparkassenPark kündigt für den 3. Oktober eine Jubiläumsveranstaltung zum 20-jährigen Bestehen an.",
+          "hu": "A SparkassenPark október 3-ra jubileumi rendezvényt hirdetett meg a helyszín 20. évfordulójára.",
+          "ro": "SparkassenPark anunță pentru 3 octombrie un eveniment aniversar dedicat celor 20 de ani ai locației.",
+          "en": "SparkassenPark has announced a 20th-anniversary event for 3 October."
+        },
+        "date": "2026-10-03",
+        "category": "Festival",
+        "source_url": "https://sparkassenpark.de/veranstaltung/20-jahre-sparkassenpark-moenchengladbach-03-10-2026/"
+      }
+    ]
+  },
+  {
+    "id": "spain-vitoria-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Fiestas de la Virgen Blanca",
+          "hu": "Virgen Blanca ünnepek",
+          "ro": "Fiestas de la Virgen Blanca",
+          "en": "Virgen Blanca Festivities"
+        },
+        "summary": {
+          "de": "Das wichtigste Stadtfest von Vitoria-Gasteiz ehrt Anfang August die Stadtpatronin mit Festprogramm im Zentrum.",
+          "hu": "Vitoria-Gasteiz legfontosabb városi ünnepe augusztus elején a város védőszentjét ünnepli belvárosi programokkal.",
+          "ro": "Principala sărbătoare a orașului Vitoria-Gasteiz o celebrează la început de august pe patroana orașului printr-un amplu program central.",
+          "en": "Vitoria-Gasteiz's main city festival honours the patron saint in early August with a major central programme."
+        },
+        "date": "2026-08-04",
+        "category": "Festival",
+        "source_url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=en&uid=u3a27921f_126da61747f__7fdd"
+      },
+      {
+        "title": {
+          "de": "Mittelaltermarkt",
+          "hu": "Középkori piac",
+          "ro": "Târgul medieval",
+          "en": "Medieval Market"
+        },
+        "summary": {
+          "de": "Am letzten Septemberwochenende verwandeln sich Straßen und Plätze der Altstadt in einen großen Mittelaltermarkt.",
+          "hu": "Szeptember utolsó hétvégéjén az óváros utcái és terei nagyszabású középkori piactérré alakulnak.",
+          "ro": "În ultimul weekend din septembrie, străzile și piețele centrului vechi se transformă într-o mare piață medievală.",
+          "en": "During the last weekend of September, the old town's streets and squares turn into a large medieval market."
+        },
+        "date": "2026-09-25",
+        "category": "Festival",
+        "source_url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=en&uid=_23a15b61_1222a40577e__7fab"
+      },
+      {
+        "title": {
+          "de": "Ardoaraba",
+          "hu": "Ardoaraba",
+          "ro": "Ardoaraba",
+          "en": "Ardoaraba"
+        },
+        "summary": {
+          "de": "Die Wein- und Genussmesse der Stadt läuft Anfang Dezember mit Dutzenden Weingütern und Verkostungsangeboten.",
+          "hu": "A város bor- és gasztronómiai vására december elején több tucat pincészettel és kóstolóprogrammal várja a látogatókat.",
+          "ro": "Târgul enogastronomic al orașului are loc la început de decembrie, cu zeci de crame și experiențe de degustare.",
+          "en": "The city's wine and food fair takes place in early December with dozens of wineries and tasting options."
+        },
+        "date": "2026-12-05",
+        "category": "Food & Drink",
+        "source_url": "https://blogs.vitoria-gasteiz.org/medios/2025/11/27/vitoria-gasteiz-acogera-la-18-edicion-de-ardoaraba-del-5-al-8-de-diciembre/"
+      }
+    ]
+  },
+  {
+    "id": "spain-hospitalet-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "FISCHER-Z",
+          "hu": "FISCHER-Z",
+          "ro": "FISCHER-Z",
+          "en": "FISCHER-Z"
+        },
+        "summary": {
+          "de": "Die Band FISCHER-Z ist für den 18. September in der Sala Salamandra in L'Hospitalet angekündigt.",
+          "hu": "A FISCHER-Z szeptember 18-án lép fel a l'Hospitalet-i Sala Salamandrában.",
+          "ro": "Trupa FISCHER-Z este anunțată pentru 18 septembrie la Sala Salamandra din L'Hospitalet.",
+          "en": "FISCHER-Z is scheduled for 18 September at Sala Salamandra in L'Hospitalet."
+        },
+        "date": "2026-09-18",
+        "category": "Music",
+        "source_url": "https://www.salamandra.cat/es/event/fischer_z/91"
+      },
+      {
+        "title": {
+          "de": "DEPEDRO",
+          "hu": "DEPEDRO",
+          "ro": "DEPEDRO",
+          "en": "DEPEDRO"
+        },
+        "summary": {
+          "de": "DEPEDRO kommt im November für ein Konzert in die Sala Salamandra nach L'Hospitalet.",
+          "hu": "A DEPEDRO novemberben koncertet ad a l'Hospitalet-i Sala Salamandrában.",
+          "ro": "DEPEDRO ajunge în noiembrie la Sala Salamandra pentru un concert în L'Hospitalet.",
+          "en": "DEPEDRO comes to Sala Salamandra in L'Hospitalet for a concert in November."
+        },
+        "date": "2026-11-21",
+        "category": "Music",
+        "source_url": "https://www.salamandra.cat/es/event/depedro/77"
+      },
+      {
+        "title": {
+          "de": "COMBICHRIST + XPQ-21",
+          "hu": "COMBICHRIST + XPQ-21",
+          "ro": "COMBICHRIST + XPQ-21",
+          "en": "COMBICHRIST + XPQ-21"
+        },
+        "summary": {
+          "de": "Industrial- und Electro-Acts COMBICHRIST und XPQ-21 spielen Anfang Dezember in der Sala Salamandra.",
+          "hu": "A COMBICHRIST és az XPQ-21 industrial és electro koncertet ad december elején a Sala Salamandrában.",
+          "ro": "Formațiile industrial și electro COMBICHRIST și XPQ-21 concertează la început de decembrie în Sala Salamandra.",
+          "en": "Industrial and electro acts COMBICHRIST and XPQ-21 play Sala Salamandra in early December."
+        },
+        "date": "2026-12-04",
+        "category": "Dance/Electronic",
+        "source_url": "https://www.salamandra.cat/es/event/combichrist/165"
+      }
+    ]
+  }
+]

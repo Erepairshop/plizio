@@ -1,0 +1,357 @@
+[
+  {
+    "id": "it-perugia",
+    "events": [
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Umbricelli & Sport",
+          "hu": "Umbricelli & Sport",
+          "ro": "Umbricelli & Sport",
+          "en": "Umbricelli & Sport"
+        },
+        "summary": {
+          "de": "Mehrtägige Sagra im Ortsteil Capanne mit regionaler Küche, Sportaktivitäten und Abendprogramm im Gemeindegebiet von Perugia.",
+          "hu": "Többnapos helyi fesztivál Capanne városrészben, regionális ételekkel, sportprogramokkal és esti rendezvényekkel Perugia területén.",
+          "ro": "Sărbătoare locală de mai multe zile în cartierul Capanne, cu gastronomie regională, activități sportive și program de seară în zona Perugia.",
+          "en": "A multi-day local festival in the Capanne area featuring regional food, sports activities, and evening entertainment in Perugia."
+        },
+        "source_url": "https://www.comune.perugia.it/evento/feste-popolari-e-sagre-2026/"
+      },
+      {
+        "date": "2026-09-03",
+        "title": {
+          "de": "Sant'Erminio in Festa",
+          "hu": "Sant'Erminio in Festa",
+          "ro": "Sant'Erminio in Festa",
+          "en": "Sant'Erminio in Festa"
+        },
+        "summary": {
+          "de": "Volksfest in Sant'Erminio mit Gemeinschaftsprogramm, Essenständen und lokalen Veranstaltungen im Stadtgebiet von Perugia.",
+          "hu": "Népünnepély Sant'Erminióban közösségi programokkal, ételstandokkal és helyi rendezvényekkel Perugia városában.",
+          "ro": "Sărbătoare populară în Sant'Erminio, cu program comunitar, standuri gastronomice și evenimente locale în municipiul Perugia.",
+          "en": "A community festival in Sant'Erminio with food stands and local activities in the Perugia area."
+        },
+        "source_url": "https://www.comune.perugia.it/evento/feste-popolari-e-sagre-2026/"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "Sagra della Canaiola e dei Prodotti Tipici dell’Umbria",
+          "hu": "Canaiola és Umbriára jellemző termékek fesztiválja",
+          "ro": "Sagra della Canaiola și a produselor tipice din Umbria",
+          "en": "Canaiola and Umbrian Traditional Products Fair"
+        },
+        "summary": {
+          "de": "Kulinarisches Fest in Pretola rund um den lokalen Canaiola-Wein und typische umbrische Spezialitäten mit öffentlichem Rahmenprogramm.",
+          "hu": "Gasztronómiai fesztivál Pretolában a helyi Canaiola bor és az umbriai különlegességek köré szervezve, nyilvános programokkal.",
+          "ro": "Festival gastronomic la Pretola dedicat vinului local Canaiola și produselor tradiționale umbriene, cu program public.",
+          "en": "A food-focused festival in Pretola celebrating local Canaiola wine and traditional Umbrian products with public programming."
+        },
+        "source_url": "https://www.comune.perugia.it/evento/feste-popolari-e-sagre-2026/"
+      },
+      {
+        "date": "2026-11-13",
+        "title": {
+          "de": "Eurochocolate Perugia 2026",
+          "hu": "Eurochocolate Perugia 2026",
+          "ro": "Eurochocolate Perugia 2026",
+          "en": "Eurochocolate Perugia 2026"
+        },
+        "summary": {
+          "de": "Das internationale Schokoladenfestival kehrt für zehn Tage in die Altstadt von Perugia zurück und bietet Verkostungen, Themeninstallationen und Vorführungen.",
+          "hu": "A nemzetközi csokoládéfesztivál tíz napra visszatér Perugia történelmi központjába kóstolókkal, installációkkal és bemutatókkal.",
+          "ro": "Festivalul internațional al ciocolatei revine timp de zece zile în centrul istoric al orașului Perugia, cu degustări, instalații tematice și demonstrații.",
+          "en": "The international chocolate festival returns to Perugia’s historic center for ten days of tastings, themed installations, and demonstrations."
+        },
+        "source_url": "https://www.eurochocolate.com/perugia2026/"
+      }
+    ]
+  },
+  {
+    "id": "bergamo",
+    "events": [
+      {
+        "date": "2026-07-29",
+        "title": {
+          "de": "Concerto Bande",
+          "hu": "Concerto Bande",
+          "ro": "Concerto Bande",
+          "en": "Band Concert"
+        },
+        "summary": {
+          "de": "Sommerkonzert in der Corte Sant’Anna mit der Banda Cittadina Giovanni Legrenzi und dem Corpo Musicale Cremonesi di Ponte Nossa.",
+          "hu": "Nyári koncert a Corte Sant'Annában a Banda Cittadina Giovanni Legrenzi és a Corpo Musicale Cremonesi di Ponte Nossa részvételével.",
+          "ro": "Concert de vară la Corte Sant’Anna cu Banda Cittadina Giovanni Legrenzi și Corpo Musicale Cremonesi di Ponte Nossa.",
+          "en": "A summer concert at Corte Sant’Anna featuring Banda Cittadina Giovanni Legrenzi and Corpo Musicale Cremonesi di Ponte Nossa."
+        },
+        "source_url": "https://www.visitbergamo.net/oggetto/concerto-bande/"
+      },
+      {
+        "date": "2026-09-04",
+        "title": {
+          "de": "Frankie Hi-nrg MC",
+          "hu": "Frankie Hi-nrg MC",
+          "ro": "Frankie Hi-nrg MC",
+          "en": "Frankie Hi-nrg MC"
+        },
+        "summary": {
+          "de": "Open-Air-Konzert des italienischen Rappers im NXT Station / Piazzale degli Alpini mit Abendshow in Bergamo.",
+          "hu": "Szabadtéri koncert az olasz rapperrel a NXT Stationnél, a Piazzale degli Alpinin Bergamóban.",
+          "ro": "Concert în aer liber al rapperului italian la NXT Station / Piazzale degli Alpini din Bergamo.",
+          "en": "An open-air performance by the Italian rapper at NXT Station / Piazzale degli Alpini in Bergamo."
+        },
+        "source_url": "https://www.visitbergamo.net/oggetto/frankie-hi-nrg-mc/"
+      },
+      {
+        "date": "2026-11-13",
+        "title": {
+          "de": "Donizetti Opera 2026",
+          "hu": "Donizetti Opera 2026",
+          "ro": "Donizetti Opera 2026",
+          "en": "Donizetti Opera 2026"
+        },
+        "summary": {
+          "de": "Das Opernfestival in Bergamo startet mit drei neuen Inszenierungen und einem erweiterten Donizetti-Off-Programm über mehrere Novemberwochenenden.",
+          "hu": "A bergamói operafesztivál három új produkcióval és kibővített Donizetti Off programmal indul több novemberi hétvégén át.",
+          "ro": "Festivalul liric din Bergamo începe cu trei noi montări și un program extins Donizetti Off pe parcursul mai multor weekenduri din noiembrie.",
+          "en": "Bergamo’s opera festival opens with three new stagings and an expanded Donizetti Off program across several November weekends."
+        },
+        "source_url": "https://www.teatrodonizetti.it/en/donizetti-opera-2026-full-program-unveiled/"
+      },
+      {
+        "date": "2026-12-19",
+        "title": {
+          "de": "Messiah",
+          "hu": "Messiah",
+          "ro": "Messiah",
+          "en": "Messiah"
+        },
+        "summary": {
+          "de": "Händels Oratorium wird im Teatro Sociale in der Oberstadt von Bergamo als vorweihnachtliches Konzertprogramm aufgeführt.",
+          "hu": "Händel oratóriuma karácsony előtti koncertként csendül fel Bergamo felsővárosának Teatro Sociale színházában.",
+          "ro": "Oratoriul lui Händel este programat la Teatro Sociale din Città Alta, Bergamo, ca eveniment muzical de sezon.",
+          "en": "Handel’s oratorio is scheduled at Teatro Sociale in Bergamo’s upper town as a festive seasonal concert."
+        },
+        "source_url": "https://www.teatrodonizetti.it/it/evento/messiah/2026-12-19/"
+      }
+    ]
+  },
+  {
+    "id": "suceava",
+    "events": [
+      {
+        "date": "2026-08-13",
+        "title": {
+          "de": "Festivalul de Artă Medievală „Ștefan cel Mare”",
+          "hu": "Ștefan cel Mare középkori művészeti fesztivál",
+          "ro": "Festivalul de Artă Medievală „Ștefan cel Mare”",
+          "en": "Stephen the Great Medieval Arts Festival"
+        },
+        "summary": {
+          "de": "Das Mittelalterfestival an der Festung von Suceava bringt vier Tage lang Reenactments, Paraden, Vorführungen und Themenprogramm in die Stadt.",
+          "hu": "A suceavai várnál rendezett középkori fesztivál négy napon át felvonulásokat, hagyományőrző bemutatókat és tematikus programokat kínál.",
+          "ro": "Festivalul medieval de la Cetatea de Scaun a Sucevei aduce timp de patru zile reconstituiri, parade, demonstrații și program tematic.",
+          "en": "The medieval festival at Suceava Fortress brings four days of reenactments, parades, demonstrations, and themed programming."
+        },
+        "source_url": "https://cjsuceava.ro/medieval/"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "Noaptea Muzeelor la Sate",
+          "hu": "Múzeumok Éjszakája falun",
+          "ro": "Noaptea Muzeelor la Sate",
+          "en": "Night of Museums in Villages"
+        },
+        "summary": {
+          "de": "Die landesweite Museumsnacht findet Ende August statt und bewirbt auch ländliche Museen und Sammlungen im Raum Suceava und Bucovina.",
+          "hu": "Az országos múzeumi éjszaka augusztus végén zajlik, és a Suceava, illetve Bukovina környéki falusi gyűjteményeket is a figyelem középpontjába állítja.",
+          "ro": "Evenimentul național de la final de august promovează muzeele și colecțiile rurale, inclusiv inițiative culturale din zona Suceava și Bucovina.",
+          "en": "The national late-August museum night highlights rural museums and collections, including cultural initiatives around Suceava and Bucovina."
+        },
+        "source_url": "https://visitbukovina.ro/evenimente/1700/noaptea-muzeelor-la-sate-editia-2026-deschide-inscrierile-oficiale/"
+      },
+      {
+        "date": "2026-12-27",
+        "title": {
+          "de": "Festivalul Internațional al Obiceiurilor de Iarnă",
+          "hu": "Nemzetközi Téli Szokások Fesztiválja",
+          "ro": "Festivalul Internațional al Obiceiurilor de Iarnă",
+          "en": "International Festival of Winter Customs"
+        },
+        "summary": {
+          "de": "Das Traditionsfestival in Suceava präsentiert Ende Dezember regionale Winterbräuche, Maskengruppen und Folkloreformationen im Rahmen von „Crăciun în Bucovina“.",
+          "hu": "A december végi suceavai hagyományőrző fesztivál téli népszokásokat, maszkos csoportokat és folklórfellépéseket mutat be a „Crăciun în Bucovina” program részeként.",
+          "ro": "Festivalul de la Suceava valorifică la final de decembrie obiceiurile de iarnă, grupurile cu măști și formațiile folclorice din cadrul programului „Crăciun în Bucovina”.",
+          "en": "The late-December Suceava festival showcases winter customs, masked groups, and folklore ensembles as part of the ‘Christmas in Bucovina’ program."
+        },
+        "source_url": "https://visitbukovina.ro/evenimente/818/bucovina-straluceste-in-lumina-sarbatorilor-de-iarna-mesteri-populari-si-traditii-autentice-atractia-principala-in-cadrul-targului-de-craciun-din-suceava/"
+      }
+    ]
+  },
+  {
+    "id": "city-bergedorf-hh-extra",
+    "events": [
+      {
+        "date": "2026-07-28",
+        "title": {
+          "de": "Wochenmarkt in der Chrysanderstraße",
+          "hu": "Heti piac a Chrysanderstraßén",
+          "ro": "Piață săptămânală pe Chrysanderstraße",
+          "en": "Weekly Market on Chrysanderstraße"
+        },
+        "summary": {
+          "de": "Regelmäßiger Wochenmarkt im Zentrum von Bergedorf mit Lebensmitteln, Blumen und regionalen Alltagsangeboten für Anwohner und Besucher.",
+          "hu": "Rendszeres heti piac Bergedorf központjában élelmiszerekkel, virágokkal és regionális termékekkel a helyiek és látogatók számára.",
+          "ro": "Piață săptămânală în centrul Bergedorf, cu produse alimentare, flori și oferte regionale pentru localnici și vizitatori.",
+          "en": "A recurring central Bergedorf market offering food, flowers, and regional everyday products for residents and visitors."
+        },
+        "source_url": "https://www.hamburg-travel.com/see-explore/events/events-calendar/wochenmarkt-in-der-chrysanderstrasse-1/"
+      },
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "Wochenmarkt in Bergedorf-West",
+          "hu": "Heti piac Bergedorf-Westben",
+          "ro": "Piață săptămânală în Bergedorf-West",
+          "en": "Weekly Market in Bergedorf-West"
+        },
+        "summary": {
+          "de": "Öffentlicher Markt am Werner-Neben-Platz mit frischen Produkten aus der Region, darunter Obst, Gemüse, Fleisch und Blumen.",
+          "hu": "Nyilvános piac a Werner-Neben-Platzon friss regionális termékekkel, köztük gyümölccsel, zöldséggel, hússal és virágokkal.",
+          "ro": "Piață publică în Werner-Neben-Platz cu produse proaspete din regiune, inclusiv fructe, legume, carne și flori.",
+          "en": "A public market at Werner-Neben-Platz with fresh regional produce including fruit, vegetables, meat, and flowers."
+        },
+        "source_url": "https://www.hamburg-travel.com/see-explore/events/events-calendar/wochenmarkt-in-bergedorf-west-1/"
+      },
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Wutzrock 2026",
+          "hu": "Wutzrock 2026",
+          "ro": "Wutzrock 2026",
+          "en": "Wutzrock 2026"
+        },
+        "summary": {
+          "de": "Das kostenlose Open-Air-Festival am Eichbaumsee läuft drei Tage lang mit zwei Bühnen, Kinderfest und Zeltplatz im Osten Hamburgs.",
+          "hu": "Az ingyenes szabadtéri fesztivál az Eichbaumsee partján három napon át két színpaddal, gyerekprogramokkal és kempinggel várja a látogatókat.",
+          "ro": "Festivalul open-air gratuit de la Eichbaumsee se desfășoară pe parcursul a trei zile, cu două scene, program pentru copii și camping.",
+          "en": "The free open-air festival at Eichbaumsee runs for three days with two stages, a children’s program, and camping."
+        },
+        "source_url": "https://www.wutzrock.de/news/wutzrock-2026-vom-7-9-august-save-the-date.html"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "Bergedorfer Oktoberfest 2026",
+          "hu": "Bergedorfi Oktoberfest 2026",
+          "ro": "Oktoberfest Bergedorf 2026",
+          "en": "Bergedorf Oktoberfest 2026"
+        },
+        "summary": {
+          "de": "Das Fest auf dem Frascatiplatz kombiniert Festzelt, Biergarten, Jahrmarkt und Livemusik über ein Septemberwochenende in Bergedorf.",
+          "hu": "A Frascatiplatzon rendezett ünnep sörsátrat, sörkertet, vidámparki elemeket és élőzenét kínál egy szeptemberi hétvégén Bergedorfban.",
+          "ro": "Evenimentul de pe Frascatiplatz combină cort de festival, biergarten, parc de distracții și muzică live într-un weekend de septembrie la Bergedorf.",
+          "en": "Held on Frascatiplatz, this celebration combines a festival tent, beer garden, fairground attractions, and live music over a September weekend in Bergedorf."
+        },
+        "source_url": "https://www.oktoberfesthamburg.de/"
+      }
+    ]
+  },
+  {
+    "id": "caen",
+    "events": [
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "Éclat(s) de Rue 2026 : Ültimätä",
+          "hu": "Éclat(s) de Rue 2026 : Ültimätä",
+          "ro": "Éclat(s) de Rue 2026 : Ültimätä",
+          "en": "Éclat(s) de Rue 2026: Ültimätä",
+          "fr": "Éclat(s) de Rue 2026 : Ültimätä"
+        },
+        "summary": {
+          "de": "Straßenkunst- und Festivalaufführung im Rahmen von Caens Sommerfestival Éclat(s) de Rue.",
+          "hu": "Utcaművészeti fesztiválelőadás Caen nyári Éclat(s) de Rue programsorozatában.",
+          "ro": "Spectacol de artă stradală inclus în festivalul de vară Éclat(s) de Rue din Caen.",
+          "en": "A street-arts performance presented as part of Caen’s summer Éclat(s) de Rue festival.",
+          "fr": "Spectacle d’arts de rue présenté dans le cadre du festival estival Éclat(s) de Rue à Caen."
+        },
+        "source_url": "https://caen.fr/agenda?page=%2C%2C%2C%2C8&tid=161"
+      },
+      {
+        "date": "2026-08-13",
+        "title": {
+          "de": "Éclat(s) de Rue 2026 : La Guinguette magique",
+          "hu": "Éclat(s) de Rue 2026 : La Guinguette magique",
+          "ro": "Éclat(s) de Rue 2026 : La Guinguette magique",
+          "en": "Éclat(s) de Rue 2026: La Guinguette magique",
+          "fr": "Éclat(s) de Rue 2026 : La Guinguette magique"
+        },
+        "summary": {
+          "de": "Open-Air-Festivalprogramm an der Colline aux Oiseaux mit Straßenperformance im Rahmen der städtischen Sommeragenda.",
+          "hu": "Szabadtéri fesztiválprogram a Colline aux Oiseaux helyszínen, utcai előadással a városi nyári agenda részeként.",
+          "ro": "Program open-air la Colline aux Oiseaux, cu spectacol stradal inclus în agenda culturală de vară a orașului.",
+          "en": "An open-air festival event at Colline aux Oiseaux within the city’s summer street-arts program.",
+          "fr": "Rendez-vous en plein air à la Colline aux Oiseaux, dans le cadre du programme estival d’arts de rue de la ville."
+        },
+        "source_url": "https://caen.fr/agenda?page=%2C%2C%2C%2C7&tid=161"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "Foire Internationale de Caen 2026",
+          "hu": "Foire Internationale de Caen 2026",
+          "ro": "Foire Internationale de Caen 2026",
+          "en": "Foire Internationale de Caen 2026",
+          "fr": "Foire Internationale de Caen 2026"
+        },
+        "summary": {
+          "de": "Die große Herbstmesse im Parc des Expositions bringt Aussteller, Themenwelten und Besucherprogramme über zehn Tage nach Caen.",
+          "hu": "A Parc des Expositions őszi nagyrendezvénye tíz napra kiállítókat, tematikus tereket és látogatói programokat hoz Caenbe.",
+          "ro": "Marele târg de toamnă de la Parc des Expositions aduce la Caen expozanți, spații tematice și program pentru public timp de zece zile.",
+          "en": "The major autumn fair at Parc des Expositions brings exhibitors, themed areas, and visitor programming to Caen over ten days.",
+          "fr": "La grande foire de rentrée au Parc des Expositions réunit exposants, univers thématiques et animations pendant dix jours à Caen."
+        },
+        "source_url": "https://www.caen-evenements.com/agenda/"
+      },
+      {
+        "date": "2026-10-07",
+        "title": {
+          "de": "NDK Festival 2026",
+          "hu": "NDK Festival 2026",
+          "ro": "NDK Festival 2026",
+          "en": "NDK Festival 2026",
+          "fr": "NDK Festival 2026"
+        },
+        "summary": {
+          "de": "Mehrtägiges Musikfestival im Le Cargö mit Konzerten und Festivalprogramm im Oktober in Caen.",
+          "hu": "Többnapos zenei fesztivál a Le Cargö helyszínen koncertekkel és kísérőprogramokkal októberben Caenben.",
+          "ro": "Festival de muzică pe mai multe zile la Le Cargö, cu concerte și program dedicat în luna octombrie la Caen.",
+          "en": "A multi-day music festival at Le Cargö with concerts and supporting programming in October.",
+          "fr": "Festival de musique sur plusieurs jours au Cargö, avec concerts et programmation dédiée en octobre à Caen."
+        },
+        "source_url": "https://caen.fr/agenda/?page=%2C%2C%2C%2C14"
+      },
+      {
+        "date": "2026-10-23",
+        "title": {
+          "de": "Caen Tatoo Festival 2026",
+          "hu": "Caen Tatoo Festival 2026",
+          "ro": "Caen Tatoo Festival 2026",
+          "en": "Caen Tatoo Festival 2026",
+          "fr": "Caen Tatoo Festival 2026"
+        },
+        "summary": {
+          "de": "Festival im Parc des Expositions mit Tattoo-Künstlern, Shows und Besuchsprogramm an einem Herbstwochenende in Caen.",
+          "hu": "Tetoválófesztivál a Parc des Expositions területén művészekkel, bemutatókkal és látogatói programokkal egy őszi hétvégén Caenben.",
+          "ro": "Festival la Parc des Expositions cu artiști tatuatori, show-uri și program pentru public într-un weekend de toamnă la Caen.",
+          "en": "A tattoo festival at Parc des Expositions featuring artists, shows, and visitor programming over an autumn weekend in Caen.",
+          "fr": "Festival au Parc des Expositions réunissant tatoueurs, shows et animations pour le public le temps d’un week-end d’automne à Caen."
+        },
+        "source_url": "https://www.caen-evenements.com/agenda/"
+      }
+    ]
+  }
+]

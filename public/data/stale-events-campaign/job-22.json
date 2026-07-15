@@ -1,0 +1,421 @@
+[
+  {
+    "id": "nl-s-hertogenbosch",
+    "events": [
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "Theaterfestival Boulevard 2026",
+          "hu": "Theaterfestival Boulevard 2026",
+          "ro": "Theaterfestival Boulevard 2026",
+          "en": "Theaterfestival Boulevard 2026"
+        },
+        "summary": {
+          "de": "Das offizielle Stadtfestival bringt elf Tage lang Theater, Tanz, Musik und weitere Kunstformen an verschiedene Orte in Den Bosch.",
+          "hu": "A hivatalos városi fesztivál tizenegy napon át színházat, táncot, zenét és más művészeti programokat visz Den Bosch különböző helyszíneire.",
+          "ro": "Festivalul oficial al orașului aduce timp de unsprezece zile teatru, dans, muzică și alte forme de artă în mai multe locuri din Den Bosch.",
+          "en": "The official city festival brings eleven days of theatre, dance, music and other art forms to venues across Den Bosch."
+        },
+        "source_url": "https://www.festivalboulevard.nl/en"
+      },
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Kirmes Den Bosch",
+          "hu": "Den Bosch vidámparkja",
+          "ro": "Târgul de distracții din Den Bosch",
+          "en": "Den Bosch Fair"
+        },
+        "summary": {
+          "de": "Die städtische Kirmes läuft Ende August zehn Tage lang und füllt Den Bosch mit Fahrgeschäften, Spielständen und klassischer Jahrmarktstimmung.",
+          "hu": "A városi vidámpark augusztus végén tíz napon át működik, hullámvasutakkal, játékokkal és klasszikus vásári hangulattal.",
+          "ro": "Târgul de distracții al orașului are loc timp de zece zile la final de august, cu atracții, jocuri și atmosferă clasică de bâlci.",
+          "en": "The city fair runs for ten days at the end of August, filling Den Bosch with rides, games and classic fairground atmosphere."
+        },
+        "source_url": "https://www.zinindenbosch.nl/nl/event/kermis-den-bosch"
+      },
+      {
+        "date": "2026-09-04",
+        "title": {
+          "de": "Hoge Bomen Festival",
+          "hu": "Hoge Bomen Fesztivál",
+          "ro": "Festivalul Hoge Bomen",
+          "en": "Hoge Bomen Festival"
+        },
+        "summary": {
+          "de": "Dieses mehrtägige Kulturfestival läuft Anfang September in Den Bosch und bündelt ein Wochenende mit Live-Programm und Festivalatmosphäre.",
+          "hu": "Ez a többnapos kulturális fesztivál szeptember elején zajlik Den Boschban, hétvégi élő programokkal és fesztiválhangulattal.",
+          "ro": "Acest festival cultural de mai multe zile are loc la început de septembrie în Den Bosch, cu program live și atmosferă de weekend.",
+          "en": "This multi-day cultural festival takes place in early September in Den Bosch, combining a live weekend programme with a festival atmosphere."
+        },
+        "source_url": "https://www.zinindenbosch.nl/nl/event/hoge-bomen-festival"
+      },
+      {
+        "date": "2026-09-12",
+        "title": {
+          "de": "Tag des offenen Denkmals",
+          "hu": "Nyitott Műemlékek Napja",
+          "ro": "Ziua Monumentelor Deschise",
+          "en": "Open Monument Day"
+        },
+        "summary": {
+          "de": "Während der Open Monumentendagen öffnen in Den Bosch und Umgebung mehr als hundert Denkmäler kostenlos ihre Türen für Besucher.",
+          "hu": "A Nyitott Műemlékek Napján Den Boschban és környékén több mint száz műemlék látogatható ingyenesen.",
+          "ro": "În cadrul Open Monumentendagen, peste o sută de monumente din Den Bosch și împrejurimi se deschid gratuit pentru vizitatori.",
+          "en": "During Open Monumentendagen, more than one hundred monuments in Den Bosch and the surrounding area open their doors free of charge."
+        },
+        "source_url": "https://www.zinindenbosch.nl/nl/event/open-monumenten-dag"
+      }
+    ]
+  },
+  {
+    "id": "szeged",
+    "events": [
+      {
+        "date": "2026-08-26",
+        "title": {
+          "de": "SZIN – Szegeder Jugendfestival",
+          "hu": "SZIN – Szegedi Ifjúsági Napok",
+          "ro": "SZIN – Festivalul Tineretului din Szeged",
+          "en": "SZIN – Szeged Youth Festival"
+        },
+        "summary": {
+          "de": "Das große Sommerfestival am Ufer der Theiß gehört zu den bekanntesten Popmusik-Events Ungarns und verbindet Konzerte mit einer entspannten Flussatmosphäre.",
+          "hu": "A Tisza-parti nagy nyári fesztivál Magyarország egyik legismertebb könnyűzenei eseménye, koncertekkel és laza vízparti hangulattal.",
+          "ro": "Marele festival de vară de pe malul Tisei este unul dintre cele mai cunoscute evenimente pop din Ungaria, cu concerte și o atmosferă relaxată pe malul apei.",
+          "en": "The major summer festival on the Tisza riverbank is one of Hungary's best-known pop music events, combining concerts with a relaxed riverside setting."
+        },
+        "source_url": "https://szegedtourism.hu/en/szin-szeged-youth-festival/"
+      },
+      {
+        "date": "2026-09-03",
+        "title": {
+          "de": "IV. Gin and Rum Gastro Festival",
+          "hu": "IV. Gin and Rum Gastro Festival",
+          "ro": "Al IV-lea Festival Gastronomic Gin and Rum",
+          "en": "IV. Gin and Rum Gastro Festival"
+        },
+        "summary": {
+          "de": "Im Móra-Park lädt das Festival zu Premium-Spirituosen, Gastronomie und Unterhaltung in der renovierten Parkumgebung beim Museum ein.",
+          "hu": "A Móra parkban a fesztivál prémium italokkal, gasztronómiai kínálattal és szórakoztató programokkal várja a látogatókat a múzeum környezetében.",
+          "ro": "În parcul Móra, festivalul reunește băuturi premium, gastronomie și divertisment în zona renovată din jurul muzeului.",
+          "en": "In Móra Park, the festival combines premium spirits, food and entertainment in the renovated surroundings by the museum."
+        },
+        "source_url": "https://szegedtourism.hu/en/esemeny/iv-gin-and-rum-gastro-festival/"
+      },
+      {
+        "date": "2026-09-16",
+        "title": {
+          "de": "XIV. Weinfest auf dem Domplatz",
+          "hu": "XIV. Bor tér",
+          "ro": "A 14-a Piață a Vinului",
+          "en": "XIV. Wine Square"
+        },
+        "summary": {
+          "de": "Der fünftägige Herbstmarkt auf dem Domplatz vereint Weine, Pálinka, Speisen, Handwerk und Bühnenprogramm im Zentrum von Szeged.",
+          "hu": "Az ötnapos őszi esemény a Dóm téren borokat, pálinkákat, ételeket, kézműves portékákat és színpadi programokat kínál Szeged belvárosában.",
+          "ro": "Evenimentul de cinci zile din Piața Domului aduce vinuri, pălincă, mâncare, artizanat și concerte în centrul Szegedului.",
+          "en": "The five-day autumn event on Dóm Square brings together wines, pálinka, food, crafts and stage entertainment in central Szeged."
+        },
+        "source_url": "https://szegedtourism.hu/en/esemeny/xiv-wine-square/"
+      },
+      {
+        "date": "2026-09-21",
+        "title": {
+          "de": "Internationales St.-Gerhard-Musikfestival",
+          "hu": "Szent Gellért Nemzetközi Zenei Fesztivál",
+          "ro": "Festivalul Internațional de Muzică Sfântul Gerard",
+          "en": "St. Gerard International Music Festival"
+        },
+        "summary": {
+          "de": "Das vom Bistum organisierte Herbstfestival bringt hochkarätige klassische Konzerte nach Szeged; der Großteil des Programms ist frei zugänglich.",
+          "hu": "Az egyházmegye által szervezett őszi fesztivál rangos komolyzenei koncerteket hoz Szegedre, a programok többsége ingyenesen látogatható.",
+          "ro": "Festivalul de toamnă organizat de dieceză aduce la Szeged concerte importante de muzică clasică, majoritatea cu acces liber.",
+          "en": "The autumn festival organized by the diocese brings high-level classical concerts to Szeged, with most of the programme free to attend."
+        },
+        "source_url": "https://szegedtourism.hu/en/st-gerard-international-music-festival/"
+      },
+      {
+        "date": "2026-11-27",
+        "title": {
+          "de": "Szegeder Advent",
+          "hu": "Szegedi Advent",
+          "ro": "Adventul din Szeged",
+          "en": "Szeged Advent"
+        },
+        "summary": {
+          "de": "Die städtische Adventsreihe auf dem Domplatz eröffnet die Weihnachtszeit mit Konzerten, Familienprogrammen und winterlicher Gastronomie.",
+          "hu": "A Dóm téri adventi programsorozat koncertekkel, családi programokkal és téli gasztronómiával nyitja meg az ünnepi időszakot.",
+          "ro": "Seria de evenimente de Advent din Piața Domului deschide sezonul de iarnă cu concerte, programe pentru familii și ofertă gastronomică.",
+          "en": "The city's Advent programme on Dóm Square opens the festive season with concerts, family activities and winter food offerings."
+        },
+        "source_url": "https://szegedtourism.hu/en/szeged-advent-2/"
+      }
+    ]
+  },
+  {
+    "id": "oldenburg-extra",
+    "events": [
+      {
+        "date": "2026-08-19",
+        "title": {
+          "de": "Kochen am Schloss",
+          "hu": "Főzés a kastélynál",
+          "ro": "Gătit la castel",
+          "en": "Cooking at the Castle"
+        },
+        "summary": {
+          "de": "Parallel zum Stadtfest kochen Gastronomen auf dem Schlossplatz live vor dem Publikum und servieren kleine Gerichte in sommerlicher Open-Air-Atmosphäre.",
+          "hu": "A városfesztivállal párhuzamosan a Schlossplatzon vendéglátók főznek élőben a közönség előtt, és kisebb fogásokat kínálnak szabadtéri hangulatban.",
+          "ro": "În paralel cu festivalul orașului, restaurantele gătesc live în Schlossplatz și servesc preparate mici într-o atmosferă de vară în aer liber.",
+          "en": "Running alongside the city festival, restaurateurs cook live on Schlossplatz and serve small dishes in an open-air summer setting."
+        },
+        "source_url": "https://www.oldenburg.de/startseite/kultur/veranstaltungen/veranstaltungshoehepunkte.html"
+      },
+      {
+        "date": "2026-08-20",
+        "title": {
+          "de": "Oldenburger Stadtfest",
+          "hu": "Oldenburgi városfesztivál",
+          "ro": "Festivalul orașului Oldenburg",
+          "en": "Oldenburg City Festival"
+        },
+        "summary": {
+          "de": "Zum 50. Jubiläum verwandeln Bühnen, Live-Bands, DJs, Stände und Aktionen die Innenstadt drei Tage lang in eines der größten Musikfeste Nordwestdeutschlands.",
+          "hu": "Az 50. jubileum alkalmából színpadok, élő zenekarok, DJ-k és standok három napra Északnyugat-Németország egyik legnagyobb zenei ünnepévé alakítják a belvárost.",
+          "ro": "Cu ocazia jubileului de 50 de ani, scene, formații live, DJ-i și standuri transformă centrul orașului timp de trei zile într-una dintre cele mai mari sărbători muzicale din nord-vestul Germaniei.",
+          "en": "For its 50th anniversary, stages, live bands, DJs and stalls turn the city centre into one of northwestern Germany's biggest music celebrations for three days."
+        },
+        "source_url": "https://www.oldenburg.de/startseite/kultur/veranstaltungen/veranstaltungshoehepunkte/stadtfest/50-sommer-wir.html"
+      },
+      {
+        "date": "2026-09-16",
+        "title": {
+          "de": "Internationales Filmfest Oldenburg",
+          "hu": "Oldenburgi Nemzetközi Filmfesztivál",
+          "ro": "Festivalul Internațional de Film Oldenburg",
+          "en": "Oldenburg International Film Festival"
+        },
+        "summary": {
+          "de": "Das Herbstfestival bringt unabhängiges internationales Kino nach Oldenburg und ist für ungewöhnliche Produktionen und prominente Gäste bekannt.",
+          "hu": "Az őszi fesztivál a független nemzetközi filmművészetet hozza Oldenburgba, és különleges alkotásairól valamint ismert vendégeiről híres.",
+          "ro": "Festivalul de toamnă aduce la Oldenburg cinema internațional independent și este cunoscut pentru selecția neconvențională și invitații săi.",
+          "en": "The autumn festival brings international independent cinema to Oldenburg and is known for unconventional selections and notable guests."
+        },
+        "source_url": "https://www.oldenburg.de/startseite/kultur/veranstaltungen/veranstaltungshoehepunkte.html"
+      },
+      {
+        "date": "2026-10-02",
+        "title": {
+          "de": "Oldenburger Kramermarkt",
+          "hu": "Oldenburgi Kramermarkt",
+          "ro": "Kramermarkt Oldenburg",
+          "en": "Oldenburg Kramermarkt"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Volksfest an den Weser-Ems-Hallen lockt mit Fahrgeschäften, Kulinarik, Umzügen und Feuerwerk mehr als eine Million Besucher an.",
+          "hu": "A Weser-Ems-Hallen melletti hagyományos vásár vidámparki attrakciókkal, ételkínálattal, felvonulásokkal és tűzijátékkal várja a látogatókat.",
+          "ro": "Târgul tradițional de lângă Weser-Ems-Hallen atrage vizitatori cu carusele, gastronomie, parade și focuri de artificii.",
+          "en": "The traditional fair by the Weser-Ems-Hallen draws visitors with rides, food, parades and fireworks."
+        },
+        "source_url": "https://www.oldenburg.de/startseite/kultur/veranstaltungen/veranstaltungshoehepunkte/kramermarkt/allgemeine-informationen-zum-kramermarkt.html"
+      },
+      {
+        "date": "2026-11-24",
+        "title": {
+          "de": "Lamberti-Markt",
+          "hu": "Lamberti karácsonyi vásár",
+          "ro": "Târgul de Crăciun Lamberti",
+          "en": "Lamberti Market"
+        },
+        "summary": {
+          "de": "Der zentrale Weihnachtsmarkt bringt Adventsbuden und festliche Atmosphäre vom Alten Rathaus bis in die Innenstadt von Oldenburg.",
+          "hu": "A központi karácsonyi vásár adventi faházakkal és ünnepi hangulattal tölti meg Oldenburg belvárosát.",
+          "ro": "Târgul central de Crăciun aduce căsuțe de Advent și atmosferă festivă în centrul vechi și în inima orașului Oldenburg.",
+          "en": "The central Christmas market fills Oldenburg's historic centre with Advent stalls and festive atmosphere."
+        },
+        "source_url": "https://www.oldenburg.de/startseite/kultur/veranstaltungen/veranstaltungshoehepunkte/lamberti-markt.html"
+      }
+    ]
+  },
+  {
+    "id": "angers",
+    "events": [
+      {
+        "date": "2026-09-15",
+        "title": {
+          "de": "Salon du Végétal",
+          "hu": "Salon du Végétal",
+          "ro": "Salon du Végétal",
+          "en": "Salon du Végétal",
+          "fr": "Salon du Végétal"
+        },
+        "summary": {
+          "de": "Die Fachmesse im Parc des Expositions widmet sich Pflanzen, Branchentrends und Lösungen für Vermarktung und Entwicklung des Gartenbau- und Pflanzenmarkts.",
+          "hu": "A Parc des Expositions szakvására a növényekre, iparági trendekre és a kertészeti-piaci megoldásokra összpontosít.",
+          "ro": "Târgul profesional de la Parc des Expositions este dedicat plantelor, tendințelor din sector și soluțiilor pentru piața horticulturii.",
+          "en": "The trade fair at Parc des Expositions focuses on plants, industry trends and solutions for marketing and developing the horticultural sector.",
+          "fr": "Le salon professionnel du Parc des Expositions met à l'honneur les végétaux, les tendances de la filière et les solutions pour développer le marché horticole."
+        },
+        "source_url": "https://www.destination-angers.com/en/tourism/on-site/tourist-calendar/all-agenda-angers/salon-du-vegetal-angers-en-5273985/"
+      },
+      {
+        "date": "2026-09-25",
+        "title": {
+          "de": "Salon Habitat Angers",
+          "hu": "Salon Habitat Angers",
+          "ro": "Salon Habitat Angers",
+          "en": "Salon Habitat Angers",
+          "fr": "Salon Habitat Angers"
+        },
+        "summary": {
+          "de": "Die mehrtägige Messe im Ausstellungspark bündelt Aussteller und Angebote rund um Haus, Wohnen, Renovierung und Einrichtungsprojekte.",
+          "hu": "A többnapos vásár a kiállítási parkban az otthon, lakberendezés, felújítás és építkezés témáit gyűjti össze.",
+          "ro": "Salonul de mai multe zile de la parc expozițional reunește expozanți și idei pentru casă, amenajare și renovare.",
+          "en": "The multi-day show at the exhibition park brings together exhibitors and ideas for home, renovation and interior projects.",
+          "fr": "Le salon de plusieurs jours au parc des expositions réunit exposants et solutions autour de la maison, de la rénovation et de l'aménagement."
+        },
+        "source_url": "https://www.destination-angers.com/en/tourism/on-site/tourist-calendar/all-agenda-angers/salon-habitat-angers-angers-en-5273809/"
+      },
+      {
+        "date": "2026-10-03",
+        "title": {
+          "de": "Angers Tattoo Fest",
+          "hu": "Angers Tattoo Fest",
+          "ro": "Angers Tattoo Fest",
+          "en": "Angers Tattoo Fest",
+          "fr": "Angers Tattoo Fest"
+        },
+        "summary": {
+          "de": "Mehr als 130 Tätowierer aus Frankreich und Europa kommen für Live-Tattoos, Konzerte, Shows, Konferenzen und Ausstellungen nach Angers.",
+          "hu": "Több mint 130 francia és európai tetoválóművész érkezik Angers-ba élő tetoválással, koncertekkel, show-kkal és kiállításokkal.",
+          "ro": "Peste 130 de artiști tatuatori din Franța și Europa vin la Angers pentru tatuaje live, concerte, spectacole, conferințe și expoziții.",
+          "en": "More than 130 tattoo artists from France and across Europe gather in Angers for live tattooing, concerts, shows, talks and exhibitions.",
+          "fr": "Plus de 130 tatoueurs venus de France et d'Europe se retrouvent à Angers pour des tatouages en direct, des concerts, des spectacles et des expositions."
+        },
+        "source_url": "https://www.destination-angers.com/en/tourism/on-site/tourist-calendar/all-agenda-angers/angers-tattoo-fest-angers-en-5781058/"
+      },
+      {
+        "date": "2026-11-13",
+        "title": {
+          "de": "Salon du cheval",
+          "hu": "Salon du cheval",
+          "ro": "Salon du cheval",
+          "en": "Salon du cheval",
+          "fr": "Salon du cheval"
+        },
+        "summary": {
+          "de": "Die Reit- und Pferdemesse im Parc des Expositions bietet mehrere Tage mit Ständen, Vorführungen und Programmen für Pferdefans.",
+          "hu": "A lovas és lótenyésztési vásár a Parc des Expositions területén több napon át standokkal és bemutatókkal várja a látogatókat.",
+          "ro": "Salonul ecvestru de la Parc des Expositions propune mai multe zile de standuri, demonstrații și programe pentru iubitorii de cai.",
+          "en": "The equestrian show at Parc des Expositions offers several days of exhibitors, demonstrations and programming for horse enthusiasts.",
+          "fr": "Le salon équestre du Parc des Expositions propose plusieurs jours de stands, de démonstrations et d'animations pour les passionnés du cheval."
+        },
+        "source_url": "https://www.destination-angers.com/en/tourism/on-site/tourist-calendar/all-agenda-angers/salon-du-cheval-angers-en-3336779/"
+      },
+      {
+        "date": "2026-11-27",
+        "title": {
+          "de": "Soleils d’Hiver",
+          "hu": "Soleils d’Hiver",
+          "ro": "Soleils d’Hiver",
+          "en": "Soleils d’Hiver",
+          "fr": "Soleils d’Hiver"
+        },
+        "summary": {
+          "de": "Angers startet seine Winter- und Weihnachtszeit mit Marktständen, Fahrgeschäften und Unterhaltung an mehreren Plätzen der Innenstadt.",
+          "hu": "Angers több belvárosi helyszínen indítja a téli és karácsonyi szezont vásárral, körhintákkal és ünnepi programokkal.",
+          "ro": "Angers deschide sezonul de iarnă și de Crăciun cu târg, atracții și divertisment în mai multe piețe din centru.",
+          "en": "Angers opens its winter and Christmas season with market stalls, rides and festive entertainment across several central squares.",
+          "fr": "Angers ouvre sa saison hivernale et de Noël avec un marché, des manèges et des animations festives sur plusieurs places du centre-ville."
+        },
+        "source_url": "https://www.destination-angers.com/en/tourism/on-site/tourist-calendar/all-agenda-angers/soleils-dhiver-angers-en-2627310/"
+      }
+    ]
+  },
+  {
+    "id": "spain-la-laguna-cities-v2",
+    "events": [
+      {
+        "date": "2026-10-11",
+        "title": {
+          "de": "Pasión Vega: Pasión por Almodóvar",
+          "hu": "Pasión Vega: Pasión por Almodóvar",
+          "ro": "Pasión Vega: Pasión por Almodóvar",
+          "en": "Pasión Vega: Pasión por Almodóvar"
+        },
+        "summary": {
+          "de": "Im Teatro Leal präsentiert Pasión Vega im Rahmen des Festival Mar Abierto ein Konzert zu den ikonischen Liedern aus Pedro Almodóvars Filmwelt.",
+          "hu": "A Teatro Leal színpadán Pasión Vega a Festival Mar Abierto keretében Pedro Almodóvar filmjeinek ikonikus dalaiból ad műsort.",
+          "ro": "La Teatro Leal, Pasión Vega prezintă în cadrul Festival Mar Abierto un recital dedicat cântecelor emblematice din universul cinematografic al lui Pedro Almodóvar.",
+          "en": "At Teatro Leal, Pasión Vega presents a Festival Mar Abierto concert built around iconic songs from Pedro Almodóvar's cinematic universe."
+        },
+        "source_url": "https://www.aytolalaguna.es/actualidad/eventos/Pasion-Vega-00001/"
+      },
+      {
+        "date": "2026-10-29",
+        "title": {
+          "de": "Santo Domingo en Ciclo: Darstellende Künste",
+          "hu": "Santo Domingo en Ciclo: Előadóművészetek",
+          "ro": "Santo Domingo en Ciclo: Arte scenice",
+          "en": "Santo Domingo en Ciclo: Performing Arts"
+        },
+        "summary": {
+          "de": "Die Kulturreihe im ehemaligen Kloster Santo Domingo bietet mittwochs Musik, Theater, Tanz und Humor bis Mitte November.",
+          "hu": "A régi Santo Domingo kolostor kulturális sorozata szerdánként zenét, színházat, táncot és humort kínál november közepéig.",
+          "ro": "Seria culturală din fostul convent Santo Domingo programează în fiecare miercuri muzică, teatru, dans și umor până la mijlocul lui noiembrie.",
+          "en": "The cultural series in the former Santo Domingo convent schedules Wednesday evenings of music, theatre, dance and comedy through mid-November."
+        },
+        "source_url": "https://www.aytolalaguna.es/actualidad/eventos/SANTO-DOMINGO-EN-CICLO.-ARTES-ESCENICAS/"
+      },
+      {
+        "date": "2026-11-07",
+        "title": {
+          "de": "Víctor Manuel: A solas conmigo",
+          "hu": "Víctor Manuel: A solas conmigo",
+          "ro": "Víctor Manuel: A solas conmigo",
+          "en": "Víctor Manuel: A solas conmigo"
+        },
+        "summary": {
+          "de": "Der spanische Singer-Songwriter gastiert im Teatro Leal beim Festival Mar Abierto mit einer intimen Tour aus Liedern, Erinnerungen und persönlichen Geschichten.",
+          "hu": "A spanyol énekes-dalszerző a Festival Mar Abierto részeként a Teatro Lealban ad bensőséges koncertet dalaival és személyes történeteivel.",
+          "ro": "Cantautorul spaniol revine la Teatro Leal, în cadrul Festival Mar Abierto, cu un format intim bazat pe cântece, amintiri și confesiuni.",
+          "en": "The Spanish singer-songwriter appears at Teatro Leal for Festival Mar Abierto with an intimate format of songs, memories and personal reflections."
+        },
+        "source_url": "https://www.aytolalaguna.es/actualidad/eventos/Victor-Manuel-00001/"
+      },
+      {
+        "date": "2026-11-22",
+        "title": {
+          "de": "Sole Giménez im Festival Mar Abierto",
+          "hu": "Sole Giménez a Festival Mar Abierto keretében",
+          "ro": "Sole Giménez la Festival Mar Abierto",
+          "en": "Sole Giménez at Festival Mar Abierto"
+        },
+        "summary": {
+          "de": "Sole Giménez spielt im Teatro Leal ein weiteres Konzert der Mar-Abierto-Reihe und ergänzt das Herbstprogramm der Stadt um spanische Pop- und Bühnenpräsenz.",
+          "hu": "Sole Giménez a Teatro Lealban lép fel a Mar Abierto sorozat részeként, erősítve a város őszi zenei kínálatát.",
+          "ro": "Sole Giménez urcă pe scena Teatro Leal într-un alt concert din seria Mar Abierto, completând programul muzical de toamnă al orașului.",
+          "en": "Sole Giménez performs at Teatro Leal as part of the Mar Abierto series, adding another major Spanish-pop date to the city's autumn calendar."
+        },
+        "source_url": "https://www.aytolalaguna.es/actualidad/eventos/Sole-Gimenez/"
+      },
+      {
+        "date": "2026-12-12",
+        "title": {
+          "de": "XLI. Chortreffen Ciudad de La Laguna",
+          "hu": "XLI. Ciudad de La Laguna Kórustalálkozó",
+          "ro": "A XLI-a Întâlnire Corală Ciudad de La Laguna",
+          "en": "XLI Encuentro Coral Ciudad de La Laguna"
+        },
+        "summary": {
+          "de": "Die 41. Ausgabe des Chortreffens läuft mehrere Tage im Dezember und erweitert die Zahl der Spielorte für Vokalkonzerte in La Laguna.",
+          "hu": "A 41. kórustalálkozó decemberben több napon át zajlik, és több helyszínen kínál vokális koncerteket La Lagunában.",
+          "ro": "A 41-a ediție a întâlnirii corale are loc pe parcursul mai multor zile în decembrie și extinde numărul spațiilor pentru concerte vocale din La Laguna.",
+          "en": "The 41st choral gathering runs over several December days and expands the number of venues hosting vocal concerts in La Laguna."
+        },
+        "source_url": "https://www.aytolalaguna.es/actualidad/eventos/"
+      }
+    ]
+  }
+]

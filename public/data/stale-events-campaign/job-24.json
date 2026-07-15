@@ -1,0 +1,397 @@
+[
+  {
+    "id": "spain-badajoz-cities-v2",
+    "events": [
+      {
+        "date": "2026-09-17",
+        "title": {
+          "de": "XXXIV FECIEX",
+          "hu": "XXXIV. FECIEX",
+          "ro": "XXXIV FECIEX",
+          "en": "34th FECIEX"
+        },
+        "summary": {
+          "de": "Die iberische Messe für Jagd, Fischerei und Natur findet auf dem IFEBA-Gelände in Badajoz statt und richtet sich an Fachpublikum wie auch interessierte Besucher.",
+          "hu": "A vadászatnak, horgászatnak és a természetnek szentelt ibériai vásárt a badajozi IFEBA vásárközpontban rendezik meg szakmai és nagyközönség számára.",
+          "ro": "Târgul iberic dedicat vânătorii, pescuitului și naturii are loc la centrul expozițional IFEBA din Badajoz și se adresează atât profesioniștilor, cât și publicului larg.",
+          "en": "The Iberian fair for hunting, fishing and nature takes place at the IFEBA fairgrounds in Badajoz for both trade visitors and the general public."
+        },
+        "source_url": "https://feriabadajoz.es/eventos/xxxiv-feciex-feria-de-la-caza-pesca-y-naturaleza-iberica-2025/"
+      },
+      {
+        "date": "2026-10-10",
+        "title": {
+          "de": "XV. Nationaler Kongress kinderreicher Familien",
+          "hu": "XV. Országos Nagycsaládos Kongresszus",
+          "ro": "Al XV-lea Congres Național al Familiilor Numeroase",
+          "en": "15th National Congress of Large Families"
+        },
+        "summary": {
+          "de": "Der zweitägige Kongress bringt große Familien in IFEBA zusammen und bündelt Vorträge, Begegnungen und ein familienorientiertes Programm.",
+          "hu": "A kétnapos kongresszus nagycsaládokat fog össze az IFEBA helyszínén előadásokkal, találkozókkal és családbarát programmal.",
+          "ro": "Congresul de două zile reunește familii numeroase la IFEBA, cu conferințe, întâlniri și un program orientat spre viața de familie.",
+          "en": "This two-day congress brings large families together at IFEBA with talks, meet-ups and a family-focused program."
+        },
+        "source_url": "https://feriabadajoz.es/calendario/"
+      },
+      {
+        "date": "2026-10-16",
+        "title": {
+          "de": "III. Agroalimentäre Messe Espiga 2026",
+          "hu": "III. Espiga Élelmiszeripari Vásár 2026",
+          "ro": "A III-a Târg Agroalimentar Espiga 2026",
+          "en": "3rd Espiga Agri-food Fair 2026"
+        },
+        "summary": {
+          "de": "Die Messe präsentiert Lebensmittelprodukte und Produzenten in Badajoz und läuft mehrere Tage im IFEBA-Kalender.",
+          "hu": "A vásár élelmiszeripari termékeket és termelőket mutat be Badajozban, több napon át az IFEBA programjában.",
+          "ro": "Evenimentul prezintă produse agroalimentare și producători la Badajoz, desfășurându-se pe parcursul mai multor zile în calendarul IFEBA.",
+          "en": "The fair showcases agri-food products and producers in Badajoz and runs for several days in the IFEBA calendar."
+        },
+        "source_url": "https://feriabadajoz.es/calendario/"
+      },
+      {
+        "date": "2026-11-05",
+        "title": {
+          "de": "XXXV FEHISPOR",
+          "hu": "XXXV. FEHISPOR",
+          "ro": "XXXV FEHISPOR",
+          "en": "35th FEHISPOR"
+        },
+        "summary": {
+          "de": "Die spanisch-portugiesische Multisektorenmesse kehrt im November nach IFEBA zurück und setzt auf grenzüberschreitende Wirtschafts- und Besucherströme.",
+          "hu": "A spanyol-portugál többágazatú vásár novemberben tér vissza az IFEBA központba, határon átnyúló üzleti és látogatói kapcsolatokkal.",
+          "ro": "Târgul multisectorial hispano-portughez revine în noiembrie la IFEBA, punând accent pe schimburile economice și fluxurile de vizitatori transfrontaliere.",
+          "en": "The Spanish-Portuguese multisector fair returns to IFEBA in November with a strong cross-border business and visitor focus."
+        },
+        "source_url": "https://feriabadajoz.es/calendario/"
+      },
+      {
+        "date": "2026-12-26",
+        "title": {
+          "de": "XXXVI IBEROCIO",
+          "hu": "XXXVI. IBEROCIO",
+          "ro": "XXXVI IBEROCIO",
+          "en": "36th IBEROCIO"
+        },
+        "summary": {
+          "de": "Die Kinder- und Jugendmesse von IFEBA füllt die Tage nach Weihnachten mit Freizeit-, Spiel- und Familienangeboten in Badajoz.",
+          "hu": "Az IFEBA gyermek- és ifjúsági vására szabadidős, játékos és családi programokkal tölti meg a karácsony utáni napokat Badajozban.",
+          "ro": "Târgul pentru copii și tineret al IFEBA animă zilele de după Crăciun la Badajoz cu activități de loisir, joc și familie.",
+          "en": "IFEBA's children and youth fair fills the post-Christmas period in Badajoz with leisure, games and family activities."
+        },
+        "source_url": "https://feriabadajoz.es/calendario/"
+      }
+    ]
+  },
+  {
+    "id": "hr-split",
+    "events": [
+      {
+        "date": "2026-08-06",
+        "title": {
+          "de": "15. Split Open Schachfestival 2026",
+          "hu": "15. Split Open Sakkfesztivál 2026",
+          "ro": "Al 15-lea Festival de Șah Split Open 2026",
+          "en": "15th Split Open Chess Festival 2026"
+        },
+        "summary": {
+          "de": "Das internationale Schachturnier des Šahovski klub Brda findet im Hotel Zagreb in Split statt und läuft über neun Tage.",
+          "hu": "A Šahovski klub Brda nemzetközi sakkversenyét a spliti Hotel Zagrebban rendezik meg, és kilenc napon át tart.",
+          "ro": "Turneul internațional de șah organizat de Šahovski klub Brda are loc la Hotel Zagreb din Split și se desfășoară timp de nouă zile.",
+          "en": "The international chess tournament organized by Šahovski klub Brda takes place at Hotel Zagreb in Split and runs for nine days."
+        },
+        "source_url": "https://visitsplit.com/en/8088/15th-split-open-chess-festival-2026"
+      },
+      {
+        "date": "2026-08-08",
+        "title": {
+          "de": "Split Night Half by Split Marathon",
+          "hu": "Split Night Half by Split Marathon",
+          "ro": "Split Night Half by Split Marathon",
+          "en": "Split Night Half by Split Marathon"
+        },
+        "summary": {
+          "de": "Das sommerliche Nachtrennen am Strand Žnjan bietet 5K-, 10K- und Halbmarathon-Distanzen mit einem Start um 22 Uhr.",
+          "hu": "A Žnjan strandon zajló nyári éjszakai futás 5 km-es, 10 km-es és félmaratoni távokat kínál, 22:00 órai rajttal.",
+          "ro": "Cursa nocturnă de vară de pe plaja Žnjan oferă trasee de 5 km, 10 km și semimaraton, cu start la ora 22:00.",
+          "en": "This summer night race at Žnjan Beach offers 5K, 10K and half-marathon distances with a 10 PM start."
+        },
+        "source_url": "https://visitsplit.com/fr/8044/split-night-half-by-split-marathon"
+      },
+      {
+        "date": "2026-09-20",
+        "title": {
+          "de": "Sea & Flavours Festival",
+          "hu": "Sea & Flavours Fesztivál",
+          "ro": "Festivalul Sea & Flavours",
+          "en": "Sea & Flavours Festival"
+        },
+        "summary": {
+          "de": "Das Festival im Segelgebiet von Split verbindet vom Spätsommer bis Mitte November maritime Erlebnisse mit regionaler Kulinarik.",
+          "hu": "A Split vitorlás térségében zajló fesztivál a nyár végétől november közepéig tengeri élményeket kapcsol össze helyi gasztronómiával.",
+          "ro": "Festivalul din zona nautică a orașului Split combină, dinspre sfârșitul verii până la mijlocul lui noiembrie, experiențe maritime cu gastronomie locală.",
+          "en": "Set in Split's sailing area, the festival combines maritime experiences with local gastronomy from late summer into mid-November."
+        },
+        "source_url": "https://visitsplit.com/en/7492/sea-flavours-festival"
+      }
+    ]
+  },
+  {
+    "id": "city-aix-en-provence-extra",
+    "events": [
+      {
+        "date": "2026-09-06",
+        "title": {
+          "de": "Bénédiction der Calissons",
+          "hu": "A calissonok megáldása",
+          "ro": "Binecuvântarea calisson-urilor",
+          "en": "Blessing of the Calissons",
+          "fr": "Bénédiction des Calissons"
+        },
+        "summary": {
+          "de": "Das traditionsreiche Stadtfest feiert Aix' berühmte Süßigkeit und gehört zu den großen Terminen des Tourismusbüros Anfang September.",
+          "hu": "A hagyományos városi ünnep Aix híres édességét, a calissont ünnepli, és szeptember elejének kiemelt eseménye.",
+          "ro": "Această sărbătoare tradițională pune în prim-plan celebrul dulce local din Aix și figurează printre marile evenimente de început de septembrie.",
+          "en": "This traditional city celebration honors Aix's famous confection and is one of the tourist office's major early-September events.",
+          "fr": "Cette fête traditionnelle met à l'honneur la spécialité emblématique d'Aix et compte parmi les grands rendez-vous du début septembre."
+        },
+        "source_url": "https://www.aixenprovencetourism.com/explorer/visiter-aix-en-provence-automne/septembre-que-faire-aix-en-provence/"
+      },
+      {
+        "date": "2026-09-12",
+        "title": {
+          "de": "Fête Mistralienne",
+          "hu": "Fête Mistralienne",
+          "ro": "Fête Mistralienne",
+          "en": "Fête Mistralienne",
+          "fr": "Fête Mistralienne"
+        },
+        "summary": {
+          "de": "Der provenzalische Wein- und Gastronomietag bringt in Aix-en-Provence Kulinarik und regionale Kultur zusammen.",
+          "hu": "A provence-i bor- és gasztronómiai nap Aix-en-Provence-ban kapcsolja össze a helyi ízeket és a regionális kultúrát.",
+          "ro": "Ziua provençală a vinului și gastronomiei reunește la Aix-en-Provence gusturile locale și cultura regională.",
+          "en": "This Provençal wine and gastronomy day in Aix-en-Provence combines regional food culture with local traditions.",
+          "fr": "Cette journée provençale des vins et de la gastronomie réunit à Aix-en-Provence saveurs locales et culture régionale."
+        },
+        "source_url": "https://www.aixenprovencetourism.com/agenda-des-evenements/traditions-fetes-de-villages/"
+      },
+      {
+        "date": "2026-09-18",
+        "title": {
+          "de": "Europäische Tage des Denkmals",
+          "hu": "Európai Örökség Napok",
+          "ro": "Zilele Europene ale Patrimoniului",
+          "en": "European Heritage Days",
+          "fr": "Journées Européennes du Patrimoine"
+        },
+        "summary": {
+          "de": "An drei Tagen öffnen Kulturorte und historische Gebäude in Aix-en-Provence für Sonderprogramme und Besuche rund um das städtische Erbe.",
+          "hu": "Három napon át kulturális helyszínek és történelmi épületek nyílnak meg Aix-en-Provence-ban különleges programokkal és örökségi látogatásokkal.",
+          "ro": "Timp de trei zile, locuri culturale și clădiri istorice din Aix-en-Provence propun programe speciale și vizite dedicate patrimoniului local.",
+          "en": "For three days, cultural venues and historic buildings across Aix-en-Provence open for special programs and heritage visits.",
+          "fr": "Pendant trois jours, lieux culturels et bâtiments historiques d'Aix-en-Provence proposent des visites et animations autour du patrimoine."
+        },
+        "source_url": "https://www.aixenprovencetourism.com/agenda-des-evenements/journees-patrimoine-aix-en-provence/"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Festival Jours [et nuits] de cirque(s)",
+          "hu": "Jours [et nuits] de cirque(s) fesztivál",
+          "ro": "Festivalul Jours [et nuits] de cirque(s)",
+          "en": "Jours [et nuits] de cirque(s) Festival",
+          "fr": "Festival Jours [et nuits] de cirque(s)"
+        },
+        "summary": {
+          "de": "Das Zirkusfestival des CIAM läuft in Aix-en-Provence und umliegenden Orten mit Aufführungen unter Zelten, im Magic Mirrors und nah an den Künstlern.",
+          "hu": "A CIAM cirkuszfesztiválja Aix-en-Provence-ban és környékén zajlik sátras előadásokkal, Magic Mirrors helyszínnel és közeli művésztalálkozásokkal.",
+          "ro": "Festivalul de circ al CIAM se desfășoară la Aix-en-Provence și în localitățile din jur, cu spectacole sub cort, în Magic Mirrors și aproape de artiști.",
+          "en": "CIAM's circus festival runs in Aix-en-Provence and nearby towns with tent shows, Magic Mirrors performances and close-up encounters with artists.",
+          "fr": "Le festival du CIAM se déploie à Aix-en-Provence et dans les environs avec chapiteaux, Magic Mirrors et spectacles au plus près des artistes."
+        },
+        "source_url": "https://joursetnuitsdecirques.fr/"
+      },
+      {
+        "date": "2026-11-13",
+        "title": {
+          "de": "Weihnachtsmarkt von Aix-en-Provence - Les Chalets",
+          "hu": "Aix-en-Provence-i karácsonyi vásár - Les Chalets",
+          "ro": "Târgul de Crăciun din Aix-en-Provence - Les Chalets",
+          "en": "Aix-en-Provence Christmas Market - Les Chalets",
+          "fr": "Marché de Noël d'Aix-en-Provence - Les Chalets"
+        },
+        "summary": {
+          "de": "Der Weihnachtsmarkt bespielt das Zentrum von Aix-en-Provence bis Jahresende mit Chalets, Geschenken und saisonaler Atmosphäre.",
+          "hu": "A karácsonyi vásár év végéig faházakkal, ajándékokkal és ünnepi hangulattal tölti meg Aix-en-Provence központját.",
+          "ro": "Piața de Crăciun animă centrul orașului Aix-en-Provence până la finalul anului, cu chaleturi, cadouri și atmosferă festivă.",
+          "en": "The Christmas market fills central Aix-en-Provence with chalets, gift shopping and festive atmosphere through the end of the year.",
+          "fr": "Le marché de Noël anime le centre d'Aix-en-Provence jusqu'à la fin de l'année avec ses chalets, ses idées cadeaux et son ambiance festive."
+        },
+        "source_url": "https://www.aixenprovencetourism.com/fr/fiche/marche-de-noel-d-aix-en-provence-les-chalets-5471241"
+      }
+    ]
+  },
+  {
+    "id": "saint-denis",
+    "events": [
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Orgelkonzerte auf den Cavaillé-Coll-Orgeln",
+          "hu": "Orgonakoncertek a Cavaillé-Coll orgonákon",
+          "ro": "Concerte de orgă pe instrumentele Cavaillé-Coll",
+          "en": "Organ concerts on the Cavaillé-Coll organs",
+          "fr": "Concerts d'orgue sur les orgues Cavaillé-Coll"
+        },
+        "summary": {
+          "de": "Ein Abendkonzert in der Basilika Saint-Denis stellt die historischen Cavaillé-Coll-Orgeln in den Mittelpunkt.",
+          "hu": "Az esti koncert a Saint-Denis-bazilikában a történelmi Cavaillé-Coll orgonákat helyezi a középpontba.",
+          "ro": "Concertul de seară din bazilica Saint-Denis pune în valoare orgile istorice Cavaillé-Coll.",
+          "en": "This evening concert in Saint-Denis Basilica spotlights the historic Cavaillé-Coll organs.",
+          "fr": "Ce concert du soir à la basilique de Saint-Denis met à l'honneur les orgues historiques Cavaillé-Coll."
+        },
+        "source_url": "https://www.saint-denis-basilique.fr/en/agenda"
+      },
+      {
+        "date": "2026-09-09",
+        "title": {
+          "de": "Auf Englisch - Führung und Steinmetz-Workshop",
+          "hu": "Angol nyelven - vezetés és kőfaragó műhely",
+          "ro": "În engleză - tur ghidat și atelier de cioplire în piatră",
+          "en": "In English - Follow the arrow: tour and stone-cutting workshop",
+          "fr": "En anglais - visite et atelier taille de pierre"
+        },
+        "summary": {
+          "de": "Besucher erhalten eine englische Führung durch die Basilika und nehmen anschließend an einem Steinmetz-Workshop rund um das Turmprojekt teil.",
+          "hu": "A látogatók angol nyelvű bazilikai vezetésen, majd a toronyprojektet bemutató kőfaragó workshopon vesznek részt.",
+          "ro": "Vizitatorii beneficiază de un tur ghidat în limba engleză al bazilicii, urmat de un atelier de inițiere în cioplirea pietrei legat de proiectul turnului.",
+          "en": "Visitors get an English-language tour of the basilica followed by a stone-cutting workshop linked to the spire reconstruction project.",
+          "fr": "Les visiteurs profitent d'une visite en anglais de la basilique, suivie d'un atelier de taille de pierre lié au chantier de la flèche."
+        },
+        "source_url": "https://www.saint-denis-basilique.fr/en/agenda/in-english-follow-the-arrow-tour-and-stone-cutting-workshop"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Europäische Tage des Denkmals in der Basilika Saint-Denis",
+          "hu": "Európai Örökség Napok a Saint-Denis-bazilikában",
+          "ro": "Zilele Europene ale Patrimoniului la Bazilica Saint-Denis",
+          "en": "European Heritage Days at Saint-Denis Basilica",
+          "fr": "Journées européennes du patrimoine à la basilique de Saint-Denis"
+        },
+        "summary": {
+          "de": "Am Heritage-Days-Wochenende ist der Eintritt in die Basilika laut Besucherinfo frei, ideal für einen Kulturstopp nördlich von Paris.",
+          "hu": "Az örökségnapok hétvégéjén a látogatói tájékoztató szerint ingyenes a belépés a bazilikába, így különösen vonzó kulturális program.",
+          "ro": "În weekendul Zilelor Patrimoniului, accesul la bazilică este gratuit conform informațiilor pentru vizitatori, fiind un bun prilej de vizită culturală.",
+          "en": "The basilica offers free admission during the European Heritage Days weekend, according to its visitor information.",
+          "fr": "Le week-end des Journées européennes du patrimoine, l'entrée de la basilique est gratuite selon les informations visiteurs."
+        },
+        "source_url": "https://www.saint-denis-basilique.fr/en/visit/practical-information"
+      },
+      {
+        "date": "2026-10-07",
+        "title": {
+          "de": "Auf Englisch - Führung und Steinmetz-Workshop",
+          "hu": "Angol nyelven - vezetés és kőfaragó műhely",
+          "ro": "În engleză - tur ghidat și atelier de cioplire în piatră",
+          "en": "In English - Follow the arrow: tour and stone-cutting workshop",
+          "fr": "En anglais - visite et atelier taille de pierre"
+        },
+        "summary": {
+          "de": "Ein weiterer bestätigter Herbsttermin der englischen Kombi aus Basilikaführung und praxisnahem Steinbearbeitungsatelier.",
+          "hu": "Az őszi időszakban ez egy újabb megerősített alkalom az angol nyelvű bazilikai vezetésre és a gyakorlati kőfaragó műhelyre.",
+          "ro": "Este încă o dată confirmată în toamnă combinația dintre turul în engleză al bazilicii și atelierul practic de sculptură în piatră.",
+          "en": "This is another confirmed autumn date for the English-language basilica tour combined with a hands-on stone-cutting workshop.",
+          "fr": "Il s'agit d'une autre date automnale confirmée pour la visite en anglais de la basilique et l'atelier pratique de taille de pierre."
+        },
+        "source_url": "https://www.saint-denis-basilique.fr/en/agenda/in-english-follow-the-arrow-tour-and-stone-cutting-workshop"
+      }
+    ]
+  },
+  {
+    "id": "rimini",
+    "events": [
+      {
+        "date": "2026-09-17",
+        "title": {
+          "de": "Glory Days in Rimini",
+          "hu": "Glory Days in Rimini",
+          "ro": "Glory Days in Rimini",
+          "en": "Glory Days in Rimini"
+        },
+        "summary": {
+          "de": "Das internationale Treffen für Bruce-Springsteen-Fans kehrt für mehrere Tage mit Konzerten, Begegnungen und Rahmenprogramm nach Rimini zurück.",
+          "hu": "A Bruce Springsteen-rajongók nemzetközi találkozója több napra tér vissza Riminibe koncertekkel, találkozókkal és kísérőprogramokkal.",
+          "ro": "Întâlnirea internațională a fanilor Bruce Springsteen revine la Rimini pentru mai multe zile cu concerte, întâlniri și program conex.",
+          "en": "The international Bruce Springsteen fan gathering returns to Rimini for several days of concerts, meet-ups and related events."
+        },
+        "source_url": "https://riminiturismo.it/eventi/glory-days-rimini-3"
+      },
+      {
+        "date": "2026-09-22",
+        "title": {
+          "de": "Tecna Rimini 2026",
+          "hu": "Tecna Rimini 2026",
+          "ro": "Tecna Rimini 2026",
+          "en": "Tecna Rimini 2026"
+        },
+        "summary": {
+          "de": "Die internationale Messe widmet sich Technologien und Zulieferungen für Keramik und andere Oberflächen im Messegelände von Rimini.",
+          "hu": "A nemzetközi szakvásár a kerámia- és más felületipari technológiákra és beszállítókra összpontosít a Rimini Fiera területén.",
+          "ro": "Târgul internațional este dedicat tehnologiilor și furniturilor pentru ceramică și alte suprafețe, la complexul expozițional din Rimini.",
+          "en": "This international trade fair focuses on technologies and supplies for ceramics and other surfaces at the Rimini exhibition center."
+        },
+        "source_url": "https://riminiturismo.it/eventi/tecna"
+      },
+      {
+        "date": "2026-09-23",
+        "title": {
+          "de": "BEX - Beyond Exploration",
+          "hu": "BEX - Beyond Exploration",
+          "ro": "BEX - Beyond Exploration",
+          "en": "BEX - Beyond Exploration"
+        },
+        "summary": {
+          "de": "Die neue Expo-Konferenz zur Space Economy bringt Fachbesucher und Aussteller für drei Tage nach Rimini.",
+          "hu": "Az űrgazdaságnak szentelt új expó és konferencia három napra hoz szakmai látogatókat és kiállítókat Riminibe.",
+          "ro": "Noua expo-conferință dedicată economiei spațiale aduce la Rimini timp de trei zile profesioniști și expozanți.",
+          "en": "The new expo-conference dedicated to the space economy brings professionals and exhibitors to Rimini for three days."
+        },
+        "source_url": "https://riminiturismo.it/eventi/bex-beyond-exploration"
+      },
+      {
+        "date": "2026-10-14",
+        "title": {
+          "de": "TTG Travel Experience",
+          "hu": "TTG Travel Experience",
+          "ro": "TTG Travel Experience",
+          "en": "TTG Travel Experience"
+        },
+        "summary": {
+          "de": "Die internationale B2B-Tourismusmesse im Quartiere Fieristico von Rimini zählt zu den wichtigsten Fachterminen der Branche in Italien.",
+          "hu": "A Rimini vásárközpontban tartott nemzetközi B2B turisztikai szakvásár Olaszország egyik legfontosabb ágazati eseménye.",
+          "ro": "Târgul internațional B2B de turism de la centrul expozițional din Rimini este unul dintre reperele majore ale industriei în Italia.",
+          "en": "Held at the Rimini fairgrounds, this international B2B tourism fair is one of Italy's key travel industry events."
+        },
+        "source_url": "https://riminiturismo.it/eventi/ttg-travel-experience"
+      },
+      {
+        "date": "2026-10-18",
+        "title": {
+          "de": "La traviata",
+          "hu": "La traviata",
+          "ro": "La traviata",
+          "en": "La traviata"
+        },
+        "summary": {
+          "de": "Die Oper von Giuseppe Verdi bildet den Abschluss der Lyrik-Saison 2026 am Teatro Galli in Rimini.",
+          "hu": "Giuseppe Verdi operája zárja a 2026-os lírai évadot a rimini Teatro Galli színpadán.",
+          "ro": "Opera lui Giuseppe Verdi închide stagiunea lirică 2026 la Teatro Galli din Rimini.",
+          "en": "Giuseppe Verdi's opera closes the 2026 lyric season at Teatro Galli in Rimini."
+        },
+        "source_url": "https://riminiturismo.it/eventi/la-traviata"
+      }
+    ]
+  }
+]

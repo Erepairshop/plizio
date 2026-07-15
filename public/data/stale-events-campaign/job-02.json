@@ -1,0 +1,395 @@
+[
+  {
+    "id": "NL-CT-AMS",
+    "events": [
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Grachtenfestival Amsterdam",
+          "hu": "Amszterdami Grachtenfestival",
+          "ro": "Festivalul Canalelor din Amsterdam",
+          "en": "Grachtenfestival Amsterdam"
+        },
+        "summary": {
+          "de": "Das mehrtägige Musikfestival bespielt Amsterdams Grachten und besondere Orte in der ganzen Stadt mit Konzerten junger Musikerinnen und Musiker aus Klassik, Jazz und weiteren Genres.",
+          "hu": "A többnapos zenei fesztivál Amszterdam csatornáit és különleges helyszíneit tölti meg fiatal előadók klasszikus, jazz és más műfajú koncertjeivel.",
+          "ro": "Festivalul de mai multe zile animă canalele și locurile speciale din Amsterdam cu concerte de muzică clasică, jazz și alte genuri susținute de tineri artiști.",
+          "en": "This multi-day music festival fills Amsterdam’s canals and distinctive venues with concerts by young artists in classical, jazz and other genres."
+        },
+        "source_url": "https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/grachtenfestival-amsterdam"
+      },
+      {
+        "date": "2026-09-03",
+        "title": {
+          "de": "Amsterdam Fringe Festival",
+          "hu": "Amsterdam Fringe Fesztivál",
+          "ro": "Festivalul Amsterdam Fringe",
+          "en": "Amsterdam Fringe Festival"
+        },
+        "summary": {
+          "de": "Das elftägige Festival bringt neues Theater, Performance und Tanz an rund zwei Dutzend Orte in Amsterdam und richtet sich an Besucher, die experimentelle Produktionen entdecken möchten.",
+          "hu": "A tizenegy napos fesztivál új színházi, performansz- és táncprodukciókat visz mintegy két tucat amszterdami helyszínre.",
+          "ro": "Festivalul de unsprezece zile aduce teatru nou, performance și dans în aproximativ douăzeci și ceva de spații din Amsterdam.",
+          "en": "This eleven-day festival brings new theatre, performance and dance to around two dozen venues across Amsterdam."
+        },
+        "source_url": "https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/amsterdam-fringe-festival"
+      },
+      {
+        "date": "2026-10-17",
+        "title": {
+          "de": "TCS Amsterdam Marathon",
+          "hu": "TCS Amszterdam Maraton",
+          "ro": "Maratonul TCS Amsterdam",
+          "en": "TCS Amsterdam Marathon"
+        },
+        "summary": {
+          "de": "Das Laufwochenende startet und endet am Olympiastadion und führt Teilnehmer sowie Zuschauer an bekannten Punkten wie Rijksmuseum, Vondelpark und Amstel vorbei.",
+          "hu": "A futóhétvége az Olimpiai Stadionnál rajtol és ott is ér célba, útvonala pedig olyan ismert helyeket érint, mint a Rijksmuseum, a Vondelpark és az Amstel.",
+          "ro": "Weekendul de curse pornește și se încheie la Stadionul Olimpic, iar traseul trece pe lângă Rijksmuseum, Vondelpark și râul Amstel.",
+          "en": "The running weekend starts and finishes at the Olympic Stadium, with routes passing landmarks such as the Rijksmuseum, Vondelpark and the Amstel."
+        },
+        "source_url": "https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/tcs-amsterdam-marathon"
+      },
+      {
+        "date": "2026-11-07",
+        "title": {
+          "de": "Museumnacht Amsterdam",
+          "hu": "Amszterdami Múzeumok Éjszakája",
+          "ro": "Noaptea Muzeelor din Amsterdam",
+          "en": "Museum Night Amsterdam"
+        },
+        "summary": {
+          "de": "Am ersten November-Samstag öffnen zahlreiche Museen abends mit Sonderprogrammen, Musik, Workshops und Führungen bis tief in die Nacht.",
+          "hu": "November első szombatján számos múzeum esti különprogramokkal, zenével, workshopokkal és tárlatvezetésekkel várja a látogatókat.",
+          "ro": "În prima sâmbătă din noiembrie, numeroase muzee își prelungesc programul cu muzică, ateliere și tururi speciale până târziu în noapte.",
+          "en": "On the first Saturday of November, many museums stay open late with special programmes, music, workshops and guided tours."
+        },
+        "source_url": "https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/museum-night-amsterdam"
+      },
+      {
+        "date": "2026-11-12",
+        "title": {
+          "de": "IDFA",
+          "hu": "IDFA dokumentumfilm-fesztivál",
+          "ro": "IDFA",
+          "en": "IDFA: International Documentary Film Festival Amsterdam"
+        },
+        "summary": {
+          "de": "Das internationale Dokumentarfilmfestival zeigt in verschiedenen Stadtteilen Premieren, Wettbewerbe, Kinderdokumentationen und ein dichtes Rahmenprogramm für Filmfans.",
+          "hu": "A nemzetközi dokumentumfilm-fesztivál több városrészben kínál premiervetítéseket, versenyprogramot, gyerekdokumentumfilmeket és szakmai eseményeket.",
+          "ro": "Festivalul internațional de film documentar aduce premiere, competiții, documentare pentru copii și numeroase evenimente în mai multe cartiere ale orașului.",
+          "en": "The international documentary film festival brings premieres, competitions, children’s documentaries and a packed programme to venues across the city."
+        },
+        "source_url": "https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/idfa-international-documentary-film-festival-amsterdam"
+      }
+    ]
+  },
+  {
+    "id": "poland-wroclaw-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Forum Musicum",
+          "hu": "Forum Musicum",
+          "ro": "Forum Musicum",
+          "en": "Forum Musicum"
+        },
+        "summary": {
+          "de": "Das Festival für Alte Musik startet Anfang August mit Konzerten im Nationalen Musikforum und weiteren historischen Orten in Wrocław.",
+          "hu": "A régizenei fesztivál augusztus elején indul a Nemzeti Zenei Fórum és más történelmi wrocławi helyszínek koncertjeivel.",
+          "ro": "Festivalul dedicat muzicii vechi începe la început de august, cu concerte la Forumul Național al Muzicii și în alte spații istorice din Wrocław.",
+          "en": "The early music festival opens in early August with concerts at the National Forum of Music and other historic venues in Wrocław."
+        },
+        "source_url": "https://www.nfm.wroclaw.pl/en/festivals/forum-musicum"
+      },
+      {
+        "date": "2026-09-03",
+        "title": {
+          "de": "Wratislavia Cantans",
+          "hu": "Wratislavia Cantans",
+          "ro": "Wratislavia Cantans",
+          "en": "Wratislavia Cantans"
+        },
+        "summary": {
+          "de": "Das 61. Festival bringt vom 3. bis 13. September Oratorien, Chormusik und vokale Spitzenprogramme nach Wrocław und in weitere Orte Niederschlesiens.",
+          "hu": "A 61. fesztivál szeptember 3. és 13. között oratóriumokat, kórusműveket és kiemelkedő vokális programokat hoz Wrocławba és Alsó-Szilézia más helyszíneire.",
+          "ro": "Cea de-a 61-a ediție aduce între 3 și 13 septembrie oratorii, muzică corală și programe vocale importante la Wrocław și în alte locuri din Silezia Inferioară.",
+          "en": "The 61st edition brings oratorio, choral music and major vocal programmes to Wrocław and other Lower Silesian venues from 3 to 13 September."
+        },
+        "source_url": "https://www.nfm.wroclaw.pl/en/festivals/wratislavia-cantans"
+      },
+      {
+        "date": "2026-11-13",
+        "title": {
+          "de": "Jazztopad Festival",
+          "hu": "Jazztopad Fesztivál",
+          "ro": "Festivalul Jazztopad",
+          "en": "Jazztopad Festival"
+        },
+        "summary": {
+          "de": "Das Jazzfestival des Nationalen Musikforums beginnt Mitte November und verbindet Auftragswerke, Improvisation und internationale Gäste an mehreren Wrocłaver Bühnen.",
+          "hu": "A Nemzeti Zenei Fórum jazzfesztiválja november közepén kezdődik, és megrendelt műveket, improvizációt valamint nemzetközi fellépőket kapcsol össze.",
+          "ro": "Festivalul de jazz al Forumului Național al Muzicii începe la mijlocul lui noiembrie și combină lucrări comandate, improvizație și invitați internaționali pe mai multe scene din Wrocław.",
+          "en": "The National Forum of Music’s jazz festival starts in mid-November, combining commissioned works, improvisation and international guests across Wrocław venues."
+        },
+        "source_url": "https://www.nfm.wroclaw.pl/en/festivals/jazztopad-festival"
+      }
+    ]
+  },
+  {
+    "id": "city-athens",
+    "events": [
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "AEF2026: Lysistrata",
+          "hu": "AEF2026: Lüszisztraté",
+          "ro": "AEF2026: Lysistrata",
+          "en": "AEF2026: Lysistrata"
+        },
+        "summary": {
+          "de": "Im Rahmen des Athens Epidaurus Festival wird Aristophanes’ Komödie an zwei Abenden im antiken Theater von Epidaurus aufgeführt.",
+          "hu": "Az Athén–Epidaurosz Fesztivál keretében Arisztophanész komédiája két estén át látható az epidauroszi ókori színházban.",
+          "ro": "În cadrul Festivalului Atena-Epidauros, comedia lui Aristofan este prezentată în două seri la Teatrul Antic din Epidaur.",
+          "en": "As part of the Athens Epidaurus Festival, Aristophanes’ comedy is staged over two evenings at the Ancient Theatre of Epidaurus."
+        },
+        "source_url": "https://www.thisisathens.org/events/aef2026-lysistrata-epidaurus"
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Full Moon Film Marathon 2026",
+          "hu": "Full Moon Film Marathon 2026",
+          "ro": "Full Moon Film Marathon 2026",
+          "en": "Full Moon Film Marathon 2026"
+        },
+        "summary": {
+          "de": "Das kostenlose Open-Air-Kinoevent am Stavros Niarchos Foundation Cultural Center bietet unter dem Vollmond eine nächtliche Filmvorführung für Besucher der Hauptstadt.",
+          "hu": "Az ingyenes szabadtéri moziesemény a Stavros Niarchos Kulturális Központban telihold alatt várja a nézőket egy esti vetítéssel.",
+          "ro": "Evenimentul gratuit de cinema în aer liber de la Centrul Cultural Stavros Niarchos propune o proiecție nocturnă sub luna plină.",
+          "en": "This free open-air cinema event at the Stavros Niarchos Foundation Cultural Center offers a night screening under the full moon."
+        },
+        "source_url": "https://www.thisisathens.org/events/full-moon-film-marathon-2026"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Sivert Høyem im Lycabettus-Theater",
+          "hu": "Sivert Høyem a Lycabettus Színházban",
+          "ro": "Sivert Høyem la Teatrul Lycabettus",
+          "en": "Sivert Høyem at Lycabettus Theatre"
+        },
+        "summary": {
+          "de": "Der norwegische Rocksänger gibt ein Open-Air-Konzert im städtischen Lycabettus-Theater mit Blick über Athen.",
+          "hu": "A norvég rockénekes szabadtéri koncertet ad az athéni városi Lycabettus Színházban.",
+          "ro": "Cântărețul norvegian de rock susține un concert în aer liber la Teatrul Lycabettus al orașului Atena.",
+          "en": "The Norwegian rock vocalist performs an open-air concert at the City of Athens Lycabettus Theatre."
+        },
+        "source_url": "https://www.thisisathens.org/events/sivert-hoyem-lycabettus-theatre-2026"
+      },
+      {
+        "date": "2026-10-13",
+        "title": {
+          "de": "Deep Purple in Athen",
+          "hu": "Deep Purple Athénban",
+          "ro": "Deep Purple la Atena",
+          "en": "Deep Purple in Athens"
+        },
+        "summary": {
+          "de": "Die Band kehrt für ein Arena-Konzert im Athener Olympischen Sportkomplex zurück und spielt Klassiker sowie Material aus dem Album '=1'.",
+          "hu": "A zenekar arénakoncertre tér vissza az Athéni Olimpiai Sportközpontba, klasszikus dalokkal és az '=1' album anyagával.",
+          "ro": "Trupa revine pentru un concert de arenă la Complexul Olimpic din Atena, cu piese clasice și material de pe albumul '=1'.",
+          "en": "The band returns for an arena concert at the Athens Olympic Sports Complex, performing classic songs and material from '=1'."
+        },
+        "source_url": "https://www.thisisathens.org/events/deep-purple-telekom-center-2026"
+      },
+      {
+        "date": "2026-11-07",
+        "title": {
+          "de": "Athens Marathon. The Authentic 2026",
+          "hu": "Athens Marathon. The Authentic 2026",
+          "ro": "Athens Marathon. The Authentic 2026",
+          "en": "Athens Marathon. The Authentic 2026"
+        },
+        "summary": {
+          "de": "Das Marathonwochenende verbindet den klassischen Lauf von Marathon zum Panathenäischen Stadion mit weiteren Rennen und einem großen Zuschauererlebnis.",
+          "hu": "A maratoni hétvége az eredeti maratoni útvonalat köti össze további futamokkal és erős nézői hangulattal.",
+          "ro": "Weekendul de maraton combină traseul clasic de la Marathon la Stadionul Panathenaic cu alte curse și o atmosferă puternică pentru spectatori.",
+          "en": "The marathon weekend combines the classic route from Marathon to the Panathenaic Stadium with additional races and a major spectator atmosphere."
+        },
+        "source_url": "https://www.thisisathens.org/events/registrations-open-for-athens-marathon-authentic-2026"
+      }
+    ]
+  },
+  {
+    "id": "hr-zagreb",
+    "events": [
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Musical Control of the ZET: Zagreb Promenade",
+          "hu": "Musical Control of the ZET: Zagreb Promenade",
+          "ro": "Musical Control of the ZET: Zagreb Promenade",
+          "en": "Musical Control of the ZET: Zagreb Promenade"
+        },
+        "summary": {
+          "de": "Die Veranstaltungsreihe bringt Musik in den öffentlichen Raum und startet ihre Herbsttermine Anfang September als städtisches Kulturprogramm in Zagreb.",
+          "hu": "A programsorozat zenét visz a városi közterekre, és szeptember elején indulnak az őszi időpontok Zágrábban.",
+          "ro": "Seria aduce muzică în spațiul public, iar datele de toamnă încep la începutul lunii septembrie, ca program urban în Zagreb.",
+          "en": "This series brings music into public space, with its autumn dates starting in early September as part of Zagreb’s urban programme."
+        },
+        "source_url": "https://www.infozagreb.hr/en/events/concerts-and-musical-events/glazbena-kontrola-4-zagrebacka-promenada-en"
+      },
+      {
+        "date": "2026-10-02",
+        "title": {
+          "de": "Z FIT RUN 2026",
+          "hu": "Z FIT RUN 2026",
+          "ro": "Z FIT RUN 2026",
+          "en": "Z FIT RUN 2026"
+        },
+        "summary": {
+          "de": "Der Lauf am Z Centar findet Anfang Oktober statt und bietet Besuchern ein zweitägiges Sportevent im Westen Zagrebs.",
+          "hu": "Az október eleji futóesemény a Z Centarnál két napos sportprogramot kínál Zágráb nyugati részén.",
+          "ro": "Cursa organizată la început de octombrie la Z Centar oferă un eveniment sportiv de două zile în vestul Zagrebului.",
+          "en": "Held at Z Centar in early October, this run offers a two-day sports event in western Zagreb."
+        },
+        "source_url": "https://www.infozagreb.hr/en/events/sports-events/69fb23a756709"
+      },
+      {
+        "date": "2026-10-06",
+        "title": {
+          "de": "A$AP Rocky",
+          "hu": "A$AP Rocky",
+          "ro": "A$AP Rocky",
+          "en": "A$AP Rocky"
+        },
+        "summary": {
+          "de": "Der US-Rapper tritt Anfang Oktober in der Arena Zagreb auf und zählt zu den größeren internationalen Pop- und Hip-Hop-Terminen des Herbstes.",
+          "hu": "Az amerikai rapper október elején lép fel az Arena Zagrebben, az őszi szezon egyik nagy nemzetközi koncertjeként.",
+          "ro": "Rapperul american concertează la început de octombrie în Arena Zagreb, într-unul dintre marile evenimente internaționale de toamnă.",
+          "en": "The US rapper performs at Arena Zagreb in early October as one of the city’s larger international autumn concerts."
+        },
+        "source_url": "https://www.infozagreb.hr/en/events/concerts-and-musical-events/aap-rocky-en"
+      },
+      {
+        "date": "2026-11-22",
+        "title": {
+          "de": "Sarah Brightman",
+          "hu": "Sarah Brightman",
+          "ro": "Sarah Brightman",
+          "en": "Sarah Brightman"
+        },
+        "summary": {
+          "de": "Sarah Brightman gibt Ende November ein Abendkonzert in der Arena Zagreb, das Opernpop- und Crossover-Fans anzieht.",
+          "hu": "Sarah Brightman november végén esti koncertet ad az Arena Zagrebben, amely az operapop és crossover közönséget szólítja meg.",
+          "ro": "Sarah Brightman susține la sfârșit de noiembrie un concert de seară în Arena Zagreb, atractiv pentru publicul de operă pop și crossover.",
+          "en": "Sarah Brightman gives an evening concert at Arena Zagreb in late November, appealing to opera-pop and crossover audiences."
+        },
+        "source_url": "https://www.infozagreb.hr/en/events/concerts-and-musical-events/sarah-brightman-en"
+      },
+      {
+        "date": "2026-12-03",
+        "title": {
+          "de": "Food and Healthy Living Fairs",
+          "hu": "Food and Healthy Living Fairs",
+          "ro": "Food and Healthy Living Fairs",
+          "en": "Food and Healthy Living Fairs"
+        },
+        "summary": {
+          "de": "Die Messe im Zagreber Messe- und Kongresszentrum verbindet Anfang Dezember Kulinarik, Ernährung und Gesundheitsangebote unter einem Dach.",
+          "hu": "A zágrábi vásár- és kongresszusi központ december eleji rendezvénye a gasztronómiát, a táplálkozást és az egészséges életmód témáit kapcsolja össze.",
+          "ro": "Târgul de la Zagreb Fair Congress Center reunește la început de decembrie gastronomia, nutriția și stilul de viață sănătos într-un singur eveniment.",
+          "en": "At Zagreb Fair Congress Center, this early-December fair brings together food, nutrition and healthy living themes under one roof."
+        },
+        "source_url": "https://www.infozagreb.hr/en/events/fairs-and-congresses/food-and-healthy-living-fairs-en-6a1400a45d8d3"
+      }
+    ]
+  },
+  {
+    "id": "city-helsinki",
+    "events": [
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Assembly Winter 2026",
+          "hu": "Assembly Winter 2026",
+          "ro": "Assembly Winter 2026",
+          "en": "Assembly Winter 2026"
+        },
+        "summary": {
+          "de": "Das große Gaming- und Digitalkulturfestival im Messukeskus vereint Esports, digitale Kunst, Arcade-Spiele und Vorträge zum Sommerauftakt der Veranstaltung.",
+          "hu": "A Messukeskusban rendezett nagy gaming- és digitáliskultúra-fesztivál esporttal, digitális művészettel, arcade játékokkal és előadásokkal várja a közönséget.",
+          "ro": "Marele festival de gaming și cultură digitală de la Messukeskus aduce esports, artă digitală, jocuri arcade și seminare.",
+          "en": "This major gaming and digital culture festival at Messukeskus brings together esports, digital art, arcade games and seminars."
+        },
+        "source_url": "https://www.myhelsinki.fi/events/assembly-winter-2026/"
+      },
+      {
+        "date": "2026-08-25",
+        "title": {
+          "de": "Viapori Jazz 2026",
+          "hu": "Viapori Jazz 2026",
+          "ro": "Viapori Jazz 2026",
+          "en": "Viapori Jazz 2026"
+        },
+        "summary": {
+          "de": "Das Jazzfestival auf der Seefestung Suomenlinna bringt Ende August Konzerte in die historische Inselkulisse vor Helsinki.",
+          "hu": "A Suomenlinna tengeri erődben rendezett jazzfesztivál augusztus végén történelmi szigethelyszínen kínál koncerteket.",
+          "ro": "Festivalul de jazz de la fortăreața maritimă Suomenlinna aduce la sfârșit de august concerte într-un cadru istoric insular.",
+          "en": "Set at the Suomenlinna Sea Fortress, this jazz festival brings late-August concerts to one of Helsinki’s most historic island settings."
+        },
+        "source_url": "https://www.myhelsinki.fi/events/viapori-jazz-2026/"
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Helsinki Design Week 2026",
+          "hu": "Helsinki Design Week 2026",
+          "ro": "Helsinki Design Week 2026",
+          "en": "Helsinki Design Week 2026"
+        },
+        "summary": {
+          "de": "Nordens großes Design- und Architekturfestival startet Ende August mit vielen meist kostenfreien Programmpunkten in ganz Helsinki.",
+          "hu": "Az északi régió nagy design- és építészeti fesztiválja augusztus végén indul, nagyrészt ingyenes programokkal Helsinki-szerte.",
+          "ro": "Cel mai mare festival nordic de design și arhitectură începe la sfârșit de august, cu numeroase programe, multe dintre ele gratuite, în tot Helsinkiul.",
+          "en": "The Nordic region’s major design and architecture festival starts in late August with many mostly free events across Helsinki."
+        },
+        "source_url": "https://www.myhelsinki.fi/events/helsinki-design-week-2026/"
+      },
+      {
+        "date": "2026-11-18",
+        "title": {
+          "de": "Slush",
+          "hu": "Slush",
+          "ro": "Slush",
+          "en": "Slush"
+        },
+        "summary": {
+          "de": "Das internationale Startup- und Investorenereignis bringt im November Tech-Gründer, Kapitalgeber und Medien ins Messukeskus.",
+          "hu": "A nemzetközi startup- és befektetői esemény novemberben techalapítókat, befektetőket és médiát vonz a Messukeskusba.",
+          "ro": "Evenimentul internațional dedicat startupurilor și investitorilor aduce în noiembrie la Messukeskus fondatori tech, investitori și media.",
+          "en": "This international startup and investor event brings tech founders, investors and media to Messukeskus in November."
+        },
+        "source_url": "https://www.myhelsinki.fi/events/slush/"
+      },
+      {
+        "date": "2026-12-13",
+        "title": {
+          "de": "Lucia Parade",
+          "hu": "Lucia-felvonulás",
+          "ro": "Parada Lucia",
+          "en": "Lucia Parade"
+        },
+        "summary": {
+          "de": "Nach der Krönung im Dom zieht die Lucia-Prozession am 13. Dezember über den Senatsplatz und gehört zu Helsinkis bekanntesten Adventstraditionen.",
+          "hu": "A december 13-i dómkoronázás után a Lucia-menete átvonul a Szenátus téren, és Helsinki egyik legismertebb adventi hagyománya.",
+          "ro": "După încoronarea din catedrală, procesiunea Lucia traversează Piața Senatului pe 13 decembrie și este una dintre cele mai cunoscute tradiții de Advent din Helsinki.",
+          "en": "After the cathedral crowning, the Lucia procession crosses Senate Square on 13 December as one of Helsinki’s best-known Advent traditions."
+        },
+        "source_url": "https://www.myhelsinki.fi/events/lucia-parade/"
+      }
+    ]
+  }
+]

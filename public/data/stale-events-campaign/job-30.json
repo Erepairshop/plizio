@@ -1,0 +1,405 @@
+[
+  {
+    "id": "city-ulm-extra",
+    "events": [
+      {
+        "date": "2026-08-05",
+        "title": {
+          "de": "Ulmer Weinfest",
+          "hu": "Ulmi Borfesztivál",
+          "ro": "Festivalul Vinului din Ulm",
+          "en": "Ulm Wine Festival"
+        },
+        "summary": {
+          "de": "Das Ulmer Weinfest findet vom 5. bis 22. August 2026 auf dem südlichen Münsterplatz statt und bringt Weinstände sowie gastronomische Angebote ins Stadtzentrum.",
+          "hu": "Az Ulmi Borfesztivált 2026. augusztus 5. és 22. között rendezik meg a déli Münsterplatzon, borstandokkal és gasztronómiai kínálattal a belvárosban.",
+          "ro": "Festivalul Vinului din Ulm are loc între 5 și 22 august 2026 în partea sudică a Münsterplatz, cu standuri de vin și ofertă gastronomică în centrul orașului.",
+          "en": "The Ulm Wine Festival runs from August 5 to 22, 2026 on the southern Münsterplatz, bringing wine stalls and food offerings to the city center."
+        },
+        "source_url": "https://tourismus.ulm.de/en/discover/events/event-highlights/weinfest-ulm"
+      },
+      {
+        "date": "2026-09-10",
+        "title": {
+          "de": "Streetfoodmarkt - unter ulmern",
+          "hu": "Street Food Vásár Ulmban",
+          "ro": "Street Food Market la Ulm",
+          "en": "Street Food Market - unter ulmern"
+        },
+        "summary": {
+          "de": "Der Streetfoodmarkt „unter ulmern“ ist vom 10. bis 13. September 2026 auf dem südlichen Münsterplatz angekündigt und bündelt internationale Imbissstände im Herzen Ulms.",
+          "hu": "Az „unter ulmern” street food vásárt 2026. szeptember 10. és 13. között tartják a déli Münsterplatzon, nemzetközi ételes standokkal Ulm központjában.",
+          "ro": "Street Food Market „unter ulmern” este programat între 10 și 13 septembrie 2026 în partea sudică a Münsterplatz, cu standuri culinare internaționale în centrul Ulmului.",
+          "en": "The “unter ulmern” street food market is scheduled for September 10 to 13, 2026 on the southern Münsterplatz, with international food stalls in central Ulm."
+        },
+        "source_url": "https://tourismus.ulm.de/en/discover/events/event-highlights/"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Kulturnacht Ulm/Neu-Ulm",
+          "hu": "Ulm/Neu-Ulm Kulturális Éjszaka",
+          "ro": "Noaptea Culturii la Ulm/Neu-Ulm",
+          "en": "Night of Culture Ulm/Neu-Ulm"
+        },
+        "summary": {
+          "de": "Die Kulturnacht am 19. September 2026 bespielt verschiedene Orte in Ulm und Neu-Ulm mit einem stadtweiten Kulturprogramm am Abend.",
+          "hu": "A Kulturális Éjszaka 2026. szeptember 19-én Ulm és Neu-Ulm több helyszínét tölti meg esti kulturális programokkal.",
+          "ro": "Noaptea Culturii din 19 septembrie 2026 activează mai multe locații din Ulm și Neu-Ulm cu un program cultural de seară la scară urbană.",
+          "en": "Night of Culture on September 19, 2026 activates various venues across Ulm and Neu-Ulm with a citywide evening cultural program."
+        },
+        "source_url": "https://tourismus.ulm.de/en/discover/events/event-highlights/"
+      },
+      {
+        "date": "2026-09-27",
+        "title": {
+          "de": "Einstein-Marathon",
+          "hu": "Einstein Maraton",
+          "ro": "Maratonul Einstein",
+          "en": "Einstein Marathon"
+        },
+        "summary": {
+          "de": "Der Einstein-Marathon ist für den 27. September 2026 auf dem Münsterplatz terminiert und zählt zu den bekanntesten Laufveranstaltungen der Stadt.",
+          "hu": "Az Einstein Maratont 2026. szeptember 27-ére tűzték ki a Münsterplatzra, és ez a város egyik legismertebb futóeseménye.",
+          "ro": "Maratonul Einstein este programat pentru 27 septembrie 2026 în Münsterplatz și este una dintre cele mai cunoscute curse ale orașului.",
+          "en": "The Einstein Marathon is scheduled for September 27, 2026 at Münsterplatz and is one of the city’s best-known running events."
+        },
+        "source_url": "https://tourismus.ulm.de/en/discover/events/event-highlights/"
+      },
+      {
+        "date": "2026-11-19",
+        "title": {
+          "de": "Ulmer Weihnachtsmarkt",
+          "hu": "Ulmi Karácsonyi Vásár",
+          "ro": "Târgul de Crăciun din Ulm",
+          "en": "Ulm Christmas Market"
+        },
+        "summary": {
+          "de": "Der Ulmer Weihnachtsmarkt startet am 19. November 2026 auf dem Münsterplatz; die offizielle Eröffnung folgt am 23. November, geöffnet ist der Markt bis 22. Dezember.",
+          "hu": "Az ulmi karácsonyi vásár 2026. november 19-én nyílik meg a Münsterplatzon; a hivatalos megnyitó november 23-án lesz, a vásár pedig december 22-ig tart.",
+          "ro": "Târgul de Crăciun din Ulm începe pe 19 noiembrie 2026 în Münsterplatz; deschiderea oficială are loc pe 23 noiembrie, iar târgul rămâne deschis până pe 22 decembrie.",
+          "en": "The Ulm Christmas Market starts on November 19, 2026 on Münsterplatz; the official opening follows on November 23, and the market continues through December 22."
+        },
+        "source_url": "https://tourismus.ulm.de/en/discover/events/event-highlights/weihnachtsmarkt-ulm"
+      }
+    ]
+  },
+  {
+    "id": "france-besancon-west-cities-v2",
+    "events": [
+      {
+        "date": "2026-09-09",
+        "title": {
+          "de": "Führung im Observatorium von Besançon",
+          "hu": "Vezetett látogatás a besançoni obszervatóriumban",
+          "ro": "Vizită ghidată la Observatorul din Besançon",
+          "en": "Guided Visit at Besançon Observatory",
+          "fr": "Visite de l’Observatoire de Besançon"
+        },
+        "summary": {
+          "de": "Am 9. September 2026 ist eine öffentliche Führung im Observatorium von Besançon angesetzt, bei der Besucher den wissenschaftlichen Standort und seine Instrumente entdecken können.",
+          "hu": "2026. szeptember 9-én nyilvános vezetett látogatást tartanak a besançoni obszervatóriumban, ahol a látogatók megismerhetik a tudományos helyszínt és műszereit.",
+          "ro": "Pe 9 septembrie 2026 este programată o vizită publică ghidată la Observatorul din Besançon, unde vizitatorii pot descoperi situl științific și instrumentele sale.",
+          "en": "A public guided visit is scheduled at Besançon Observatory on September 9, 2026, letting visitors discover the scientific site and its instruments.",
+          "fr": "Une visite guidée publique est programmée à l’Observatoire de Besançon le 9 septembre 2026, pour découvrir le site scientifique et ses instruments."
+        },
+        "source_url": "https://www.besancon-tourisme.com/en/fiche-sit/F312009517_l-observatoire-de-besancon-besancon-en/"
+      },
+      {
+        "date": "2026-09-11",
+        "title": {
+          "de": "79. Festival international de musique de Besançon",
+          "hu": "79. Besançoni Nemzetközi Zenei Fesztivál",
+          "ro": "Al 79-lea Festival Internațional de Muzică de la Besançon",
+          "en": "79th Besançon International Music Festival",
+          "fr": "79e Festival international de musique de Besançon"
+        },
+        "summary": {
+          "de": "Das 79. Festival international de musique de Besançon läuft vom 11. bis 20. September 2026 und bietet über zehn Tage ein Programm aus symphonischer Musik, Kammermusik, Jazz und Weltmusik.",
+          "hu": "A 79. Besançoni Nemzetközi Zenei Fesztivál 2026. szeptember 11. és 20. között zajlik, szimfonikus zenével, kamarazenével, jazzel és világzenével.",
+          "ro": "A 79-a ediție a Festivalului Internațional de Muzică de la Besançon are loc între 11 și 20 septembrie 2026, cu muzică simfonică, de cameră, jazz și world music.",
+          "en": "The 79th Besançon International Music Festival runs from September 11 to 20, 2026, with ten days of symphonic music, chamber music, jazz, and world music.",
+          "fr": "Le 79e Festival international de musique de Besançon se déroule du 11 au 20 septembre 2026 avec dix jours de musique symphonique, de chambre, de jazz et de musiques du monde."
+        },
+        "source_url": "https://festival-besancon.com/79e-festival/"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Journées européennes du patrimoine",
+          "hu": "Európai Örökség Napok",
+          "ro": "Zilele Europene ale Patrimoniului",
+          "en": "European Heritage Days",
+          "fr": "Journées européennes du patrimoine"
+        },
+        "summary": {
+          "de": "Die Journées européennes du patrimoine finden in Besançon am 19. und 20. September 2026 statt und öffnen zahlreiche Kultur- und Denkmalorte unter dem Thema „Patrimoine en danger“.",
+          "hu": "Az Európai Örökség Napokat Besançonban 2026. szeptember 19-20-án rendezik meg, amikor számos műemlék és kulturális helyszín nyílik meg a „Patrimoine en danger” témájában.",
+          "ro": "Zilele Europene ale Patrimoniului au loc la Besançon pe 19 și 20 septembrie 2026, cu numeroase situri culturale și istorice deschise sub tema „Patrimoine en danger”.",
+          "en": "European Heritage Days take place in Besançon on September 19 and 20, 2026, opening many heritage and cultural sites under the theme “Patrimoine en danger.”",
+          "fr": "Les Journées européennes du patrimoine ont lieu à Besançon les 19 et 20 septembre 2026, avec de nombreux sites patrimoniaux et culturels ouverts autour du thème « Patrimoine en danger »."
+        },
+        "source_url": "https://www.besancon-tourisme.com/fr/fiche-sit/F104198_journees-europeennes-du-patrimoine-besancon/"
+      },
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Escape Game „Citadelle assiégée !“",
+          "hu": "„Citadelle assiégée!” szabadulójáték",
+          "ro": "Escape game „Citadelle assiégée!”",
+          "en": "Escape Game “Citadelle assiégée!”",
+          "fr": "Escape game « Citadelle assiégée ! »"
+        },
+        "summary": {
+          "de": "Das Escape Game „Citadelle assiégée !“ läuft in der Zitadelle bis zum 25. September 2026 und versetzt Besucher für rund eine Stunde in ein immersives Rätselabenteuer in historischem Rahmen.",
+          "hu": "A „Citadelle assiégée!” szabadulójáték 2026. szeptember 25-ig tart a Citadellában, és körülbelül egyórás, történelmi környezetbe helyezett, immerzív rejtvénykalandot kínál.",
+          "ro": "Escape game-ul „Citadelle assiégée!” se desfășoară la Citadelă până la 25 septembrie 2026 și oferă aproximativ o oră de aventură imersivă cu puzzle-uri într-un cadru istoric.",
+          "en": "The “Citadelle assiégée!” escape game runs at the Citadel through September 25, 2026, offering about an hour of immersive puzzle-solving in a historic setting.",
+          "fr": "L’escape game « Citadelle assiégée ! » se déroule à la Citadelle jusqu’au 25 septembre 2026 et propose environ une heure d’énigmes immersives dans un cadre historique."
+        },
+        "source_url": "https://www.citadelle.com/activites/escape-game-assiegee/"
+      },
+      {
+        "date": "2026-10-17",
+        "title": {
+          "de": "Herbstführung im Observatorium von Besançon",
+          "hu": "Őszi vezetett látogatás a besançoni obszervatóriumban",
+          "ro": "Vizită ghidată de toamnă la Observatorul din Besançon",
+          "en": "Autumn Guided Visit at Besançon Observatory",
+          "fr": "Visite d’automne à l’Observatoire de Besançon"
+        },
+        "summary": {
+          "de": "Eine weitere öffentliche Führung im Observatorium ist für den 17. Oktober 2026 bestätigt und ergänzt das Herbstprogramm für kultur- und wissenschaftsinteressierte Besucher.",
+          "hu": "Újabb nyilvános obszervatóriumi látogatást igazoltak 2026. október 17-re, amely az őszi programot bővíti a tudomány és kultúra iránt érdeklődő látogatók számára.",
+          "ro": "O altă vizită publică la observator este confirmată pentru 17 octombrie 2026, completând programul de toamnă pentru vizitatorii interesați de știință și cultură.",
+          "en": "Another public observatory visit is confirmed for October 17, 2026, adding a science-focused option to the city’s autumn visitor calendar.",
+          "fr": "Une autre visite publique de l’observatoire est confirmée pour le 17 octobre 2026, ajoutant une sortie scientifique au programme d’automne."
+        },
+        "source_url": "https://www.besancon-tourisme.com/en/fiche-sit/F312009517_l-observatoire-de-besancon-besancon-en/"
+      }
+    ]
+  },
+  {
+    "id": "poland-opole-cities-v2",
+    "events": [
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Geschichte Opoles auf dem Oberen Schloss entdecken",
+          "hu": "Opole történelmének felfedezése a Felső Várban",
+          "ro": "Descoperă istoria Opole la Castelul Superior",
+          "en": "Discover the History of Opole at the Upper Castle"
+        },
+        "summary": {
+          "de": "Die Führung „Odkryj historię Opola na Zamku Górnym“ läuft im Sommer 2026 und bietet Besuchern eine etwa 90-minütige Einführung in die Geschichte des Oberen Schlosses.",
+          "hu": "Az „Odkryj historię Opola na Zamku Górnym” program 2026 nyarán fut, és körülbelül 90 perces bevezetést kínál a Felső Vár történetébe.",
+          "ro": "Programul „Odkryj historię Opola na Zamku Górnym” se desfășoară în vara lui 2026 și oferă vizitatorilor o introducere de aproximativ 90 de minute în istoria Castelului Superior.",
+          "en": "The “Odkryj historię Opola na Zamku Górnym” experience runs in summer 2026 and gives visitors an approximately 90-minute introduction to the Upper Castle’s history."
+        },
+        "source_url": "https://www.opole.pl/dla-mieszkanca/wydarzenie/odkryj-historie-opola-na-zamku-gornym"
+      },
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Sztuka w Centrum",
+          "hu": "Művészet a Központban",
+          "ro": "Artă în Centru",
+          "en": "Art in the Center"
+        },
+        "summary": {
+          "de": "Der sommerliche Zyklus „Sztuka w Centrum“ präsentiert 2026 Arbeiten von Künstlerinnen und Künstlern aus dem Umfeld des Zentrums und erweitert das Ferienprogramm in Opole um frei zugängliche Kunstschauen.",
+          "hu": "A „Sztuka w Centrum” nyári programsorozat 2026-ban a központ környezetéhez kötődő művészek alkotásait mutatja be, és ingyenes művészeti programmal bővíti az opolei nyári kínálatot.",
+          "ro": "Ciclul de vară „Sztuka w Centrum” prezintă în 2026 lucrări ale artiștilor din jurul centrului și completează oferta de vacanță din Opole cu expoziții accesibile publicului.",
+          "en": "The summer “Sztuka w Centrum” series presents works by artists connected to the center in 2026, adding free-access art programming to Opole’s holiday season."
+        },
+        "source_url": "https://www.opole.pl/dla-mieszkanca/wydarzenie/sztuka-w-centrum"
+      },
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Ausstellung „20 lat Step Records“",
+          "hu": "„20 lat Step Records” kiállítás",
+          "ro": "Expoziția „20 lat Step Records”",
+          "en": "“20 lat Step Records” Exhibition"
+        },
+        "summary": {
+          "de": "Die Ausstellung „20 lat Step Records“ ist vom 31. Mai bis 20. Dezember 2026 im Muzeum Polskiej Piosenki zu sehen und beleuchtet die Geschichte des in Opole verwurzelten Hip-Hop-Labels.",
+          "hu": "A „20 lat Step Records” kiállítás 2026. május 31. és december 20. között látható a Lengyel Dalfesztivál Múzeumában, és az opolei gyökerű hiphopkiadó történetét mutatja be.",
+          "ro": "Expoziția „20 lat Step Records” poate fi vizitată între 31 mai și 20 decembrie 2026 la Muzeul Cântecului Polonez și prezintă istoria casei de discuri hip-hop legate de Opole.",
+          "en": "The “20 lat Step Records” exhibition is on view from May 31 to December 20, 2026 at the Museum of Polish Song, exploring the history of the Opole-rooted hip-hop label."
+        },
+        "source_url": "https://muzeumpiosenki.pl/aktualnosci/zapraszamy-na-wystawe-20-lat-step-records_1165.html"
+      },
+      {
+        "date": "2026-07-30",
+        "title": {
+          "de": "Ausstellung „Fajanse śląskie XVIII i XIX wieku. Prószków i Glinica“",
+          "hu": "„Fajanse śląskie XVIII i XIX wieku. Prószków i Glinica” kiállítás",
+          "ro": "Expoziția „Fajanse śląskie XVIII i XIX wieku. Prószków i Glinica”",
+          "en": "“Fajanse śląskie XVIII i XIX wieku. Prószków i Glinica” Exhibition"
+        },
+        "summary": {
+          "de": "Die Sonderausstellung im Muzeum Śląska Opolskiego läuft bis zum 31. Oktober 2026 und zeigt schlesische Fayencen aus dem 18. und 19. Jahrhundert aus Prószków und Glinica.",
+          "hu": "A Muzeum Śląska Opolskiego időszaki kiállítása 2026. október 31-ig tart, és 18-19. századi sziléziai fajanszokat mutat be Prószkówból és Glinicából.",
+          "ro": "Expoziția temporară de la Muzeum Śląska Opolskiego este deschisă până la 31 octombrie 2026 și prezintă faianță sileziană din secolele XVIII-XIX din Prószków și Glinica.",
+          "en": "The temporary exhibition at the Muzeum Śląska Opolskiego runs through October 31, 2026 and presents 18th- and 19th-century Silesian faience from Prószków and Glinica."
+        },
+        "source_url": "https://muzeum.opole.pl/fajanse-slaskie-xviii-i-xix-wieku-proszkow-i-glinica"
+      }
+    ]
+  },
+  {
+    "id": "poland-elblag-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-18",
+        "title": {
+          "de": "Festiwal Enklawa",
+          "hu": "Enklawa Fesztivál",
+          "ro": "Festivalul Enklawa",
+          "en": "Enklawa Festival"
+        },
+        "summary": {
+          "de": "Der Kulturkalender 2026 der Stadt Elbląg führt das Festiwal Enklawa vom 18. bis 22. August 2026 als mehrtägiges Sommerprogramm in der Altstadt.",
+          "hu": "Elbląg 2026-os kulturális naptára az Enklawa Fesztivált 2026. augusztus 18. és 22. között, többnapos nyári programként tünteti fel az óvárosban.",
+          "ro": "Calendarul cultural 2026 al orașului Elbląg include Festivalul Enklawa între 18 și 22 august 2026, ca program de vară desfășurat pe parcursul mai multor zile în centrul vechi.",
+          "en": "Elbląg’s 2026 cultural calendar lists the Enklawa Festival from August 18 to 22, 2026 as a multi-day summer program in the Old Town."
+        },
+        "source_url": "https://elblag.eu/files/file_add/file_add-503.pdf"
+      },
+      {
+        "date": "2026-08-19",
+        "title": {
+          "de": "Elbląskie Święto Chleba 2026",
+          "hu": "Elblągi Kenyérünnep 2026",
+          "ro": "Sărbătoarea Pâinii din Elbląg 2026",
+          "en": "Elbląg Bread Festival 2026"
+        },
+        "summary": {
+          "de": "Das XX. Elbląskie Święto Chleba findet vom 19. bis 23. August 2026 in der Altstadt statt und kombiniert Regionalmarkt, Konzerte, Drachenbootrennen und kulinarische Angebote.",
+          "hu": "A XX. Elblągi Kenyérünnepet 2026. augusztus 19. és 23. között rendezik az óvárosban, regionális vásárral, koncertekkel, sárkányhajó-versenyekkel és gasztronómiai programokkal.",
+          "ro": "A XX-a ediție a Sărbătorii Pâinii din Elbląg are loc între 19 și 23 august 2026 în centrul vechi, cu târg regional, concerte, curse de bărci dragon și oferte culinare.",
+          "en": "The 20th Elbląg Bread Festival takes place from August 19 to 23, 2026 in the Old Town, combining a regional market, concerts, dragon boat races, and food attractions."
+        },
+        "source_url": "https://turystyka.elblag.eu/szczegoly/25%2C70%2Celblaskie-swieto-chleba-2026"
+      },
+      {
+        "date": "2026-09-05",
+        "title": {
+          "de": "Narodowe Czytanie",
+          "hu": "Nemzeti Felolvasás",
+          "ro": "Lectura Națională",
+          "en": "National Reading"
+        },
+        "summary": {
+          "de": "Der städtische Kulturkalender verzeichnet das Narodowe Czytanie am 5. September 2026 in der Biblioteka Elbląska als öffentliches Literaturereignis.",
+          "hu": "A városi kulturális naptár a Nemzeti Felolvasást 2026. szeptember 5-re jegyzi a Biblioteka Elbląskában mint nyilvános irodalmi eseményt.",
+          "ro": "Calendarul cultural al orașului programează Lectura Națională pe 5 septembrie 2026 la Biblioteka Elbląska, ca eveniment literar public.",
+          "en": "The city’s cultural calendar schedules National Reading on September 5, 2026 at Biblioteka Elbląska as a public literary event."
+        },
+        "source_url": "https://elblag.eu/files/file_add/file_add-503.pdf"
+      },
+      {
+        "date": "2026-12-04",
+        "title": {
+          "de": "Elbląski Jarmark Bożonarodzeniowy",
+          "hu": "Elblągi Karácsonyi Vásár",
+          "ro": "Târgul de Crăciun din Elbląg",
+          "en": "Elbląg Christmas Market"
+        },
+        "summary": {
+          "de": "Der Elbląger Weihnachtsmarkt ist für den 4. bis 6. Dezember 2026 in der Altstadt an der Straße Stary Rynek angekündigt.",
+          "hu": "Az elblągi karácsonyi vásárt 2026. december 4. és 6. között rendezik meg az óvárosban, a Stary Rynek utcában.",
+          "ro": "Târgul de Crăciun din Elbląg este anunțat pentru 4-6 decembrie 2026 în centrul vechi, pe strada Stary Rynek.",
+          "en": "The Elbląg Christmas Market is announced for December 4 to 6, 2026 in the Old Town on Stary Rynek street."
+        },
+        "source_url": "https://elblag.eu/files/file_add/file_add-503.pdf"
+      }
+    ]
+  },
+  {
+    "id": "poland-plock-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Płocki Piknik Lotniczy",
+          "hu": "Płocki Repülős Piknik",
+          "ro": "Picnicul Aviatic din Płock",
+          "en": "Płock Air Picnic"
+        },
+        "summary": {
+          "de": "Der Płocki Piknik Lotniczy findet am 7. und 8. August 2026 auf dem Flughafen Płock statt und verbindet Flugshows mit thematischen Bodenattraktionen.",
+          "hu": "A Płocki Repülős Pikniket 2026. augusztus 7-8-án rendezik meg a płocki repülőtéren, légi bemutatókkal és földi tematikus attrakciókkal.",
+          "ro": "Picnicul Aviatic din Płock are loc pe 7 și 8 august 2026 pe aeroportul din Płock și combină demonstrații aeriene cu atracții tematice la sol.",
+          "en": "The Płock Air Picnic takes place on August 7 and 8, 2026 at Płock Airport, combining aerial displays with themed ground attractions."
+        },
+        "source_url": "https://kalendarzimprez.plock.eu/event/plocki-piknik-lotniczy-2/"
+      },
+      {
+        "date": "2026-08-14",
+        "title": {
+          "de": "BiG Festivalowski 2026",
+          "hu": "BiG Festivalowski 2026",
+          "ro": "BiG Festivalowski 2026",
+          "en": "BiG Festivalowski 2026"
+        },
+        "summary": {
+          "de": "BiG Festivalowski läuft vom 14. bis 16. August 2026 und bringt Stand-up, Impro, Kino und weitere Popkulturformate nach Płock.",
+          "hu": "A BiG Festivalowski 2026. augusztus 14. és 16. között zajlik, stand-uppal, impróval, mozival és más popkulturális programokkal Płockban.",
+          "ro": "BiG Festivalowski are loc între 14 și 16 august 2026 și aduce la Płock stand-up, improvizație, cinema și alte formate de cultură pop.",
+          "en": "BiG Festivalowski runs from August 14 to 16, 2026, bringing stand-up, improv, cinema, and other pop-culture formats to Płock."
+        },
+        "source_url": "https://kalendarzimprez.plock.eu/event/big-festivalowski-2026/"
+      },
+      {
+        "date": "2026-08-18",
+        "title": {
+          "de": "Vistula Folk Festival 2026",
+          "hu": "Vistula Folk Festival 2026",
+          "ro": "Vistula Folk Festival 2026",
+          "en": "Vistula Folk Festival 2026"
+        },
+        "summary": {
+          "de": "Das Vistula Folk Festival findet vom 18. bis 23. August 2026 statt und bespielt Altstadt, Park Północny und das Amphitheater mit internationalen Tanz- und Musikprogrammen.",
+          "hu": "A Vistula Folk Festival 2026. augusztus 18. és 23. között zajlik, és az óvárost, a Park Północnyt és az amfiteátrumot tölti meg nemzetközi tánc- és zenei programokkal.",
+          "ro": "Vistula Folk Festival are loc între 18 și 23 august 2026 și animă centrul vechi, Park Północny și amfiteatrul cu programe internaționale de dans și muzică.",
+          "en": "The Vistula Folk Festival takes place from August 18 to 23, 2026, filling the Old Town, Park Północny, and the amphitheater with international dance and music programs."
+        },
+        "source_url": "https://kalendarzimprez.plock.eu/event/vistula-folk-festival-2026/"
+      },
+      {
+        "date": "2026-09-13",
+        "title": {
+          "de": "15. Półmaraton Dwóch Mostów",
+          "hu": "15. Két Híd Félmaraton",
+          "ro": "A 15-a Semimaraton Două Poduri",
+          "en": "15th Two Bridges Half Marathon"
+        },
+        "summary": {
+          "de": "Der 15. Półmaraton Dwóch Mostów ist für den 13. September 2026 angesetzt und führt Läufer über zwei Brücken durch Płock.",
+          "hu": "A 15. Két Híd Félmaratont 2026. szeptember 13-án rendezik meg, a futók két hídon át haladnak Płockban.",
+          "ro": "Al 15-lea Semimaraton Două Poduri este programat pentru 13 septembrie 2026, cu un traseu care trece peste două poduri din Płock.",
+          "en": "The 15th Two Bridges Half Marathon is scheduled for September 13, 2026, sending runners across two bridges in Płock."
+        },
+        "source_url": "https://kalendarzimprez.plock.eu/event/15-polmaraton-dwoch-mostow/"
+      },
+      {
+        "date": "2026-09-26",
+        "title": {
+          "de": "16. Festival für Kultur und Kunst für blinde Menschen",
+          "hu": "16. Kulturális és Művészeti Fesztivál Vakoknak",
+          "ro": "Al 16-lea Festival de Cultură și Artă pentru persoane nevăzătoare",
+          "en": "16th Festival of Culture and Art for Blind People"
+        },
+        "summary": {
+          "de": "Das 16. Festival Kultury i Sztuki dla osób niewidomych läuft vom 26. September bis 2. Oktober 2026 und bündelt in Płock Film-, Theater-, Musik- und Begegnungsformate.",
+          "hu": "A 16. Kulturális és Művészeti Fesztivál Vakoknak 2026. szeptember 26. és október 2. között zajlik, film-, színház-, zenei és közösségi programokkal Płockban.",
+          "ro": "Al 16-lea Festival de Cultură și Artă pentru persoane nevăzătoare se desfășoară între 26 septembrie și 2 octombrie 2026 și reunește la Płock film, teatru, muzică și întâlniri.",
+          "en": "The 16th Festival of Culture and Art for Blind People runs from September 26 to October 2, 2026, bringing film, theater, music, and community events to Płock."
+        },
+        "source_url": "https://kalendarzimprez.plock.eu/event/16-festiwal-kultury-i-sztuki-dla-osob-niewidomych/"
+      }
+    ]
+  }
+]

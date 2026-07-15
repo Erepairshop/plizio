@@ -1,0 +1,440 @@
+[
+  {
+    "id": "poitiers",
+    "events": [
+      {
+        "title": {
+          "de": "Itinerance – Le piano flottant",
+          "hu": "Itinerance – Le piano flottant",
+          "ro": "Itinerance – Le piano flottant",
+          "en": "Itinerance – Le piano flottant",
+          "fr": "Itinérance – Le piano flottant"
+        },
+        "summary": {
+          "de": "Die Sommerreihe Itinerance von Grand Poitiers bringt eine kostenlose Musikveranstaltung mit der Kreation \"Le piano flottant\" an den kommunalen Teich von Savigny-L'Evescault.",
+          "hu": "A Grand Poitiers Itinerance nyári sorozata az ingyenes \"Le piano flottant\" zenei alkotást viszi Savigny-L'Evescault községi tavához.",
+          "ro": "Seria estivală Itinerance a Grand Poitiers aduce creația muzicală gratuită \"Le piano flottant\" la iazul comunal din Savigny-L'Evescault.",
+          "en": "Grand Poitiers's summer Itinerance program brings the free music event \"Le piano flottant\" to the communal pond in Savigny-L'Evescault.",
+          "fr": "La tournée estivale Itinérance de Grand Poitiers propose le rendez-vous musical gratuit \"Le piano flottant\" à l'étang communal de Savigny-L'Evescault."
+        },
+        "date": "2026-08-07",
+        "source_url": "https://www.grandpoitiers.fr/itinerance"
+      },
+      {
+        "title": {
+          "de": "Les Oreilles à l'Ouest 2026",
+          "hu": "Les Oreilles à l'Ouest 2026",
+          "ro": "Les Oreilles à l'Ouest 2026",
+          "en": "Les Oreilles à l'Ouest 2026",
+          "fr": "Les Oreilles à l'Ouest 2026"
+        },
+        "summary": {
+          "de": "Das wandernde Festival kreativer musikalischer Begegnungen, initiiert von Ars Nova und seinen Partnern in Poitiers, läuft Ende September über drei Tage.",
+          "hu": "Az Ars Nova és poitiers-i partnerei által indított, kreatív zenei találkozókat kínáló vándorfesztivál szeptember végén három napon át zajlik.",
+          "ro": "Festivalul itinerant de întâlniri muzicale creative, lansat de Ars Nova și partenerii săi din Poitiers, se desfășoară timp de trei zile la sfârșit de septembrie.",
+          "en": "This itinerant festival of creative musical encounters, launched by Ars Nova and its Poitiers partners, runs for three days at the end of September.",
+          "fr": "Ce festival itinérant de rendez-vous musicaux créatifs, lancé par Ars Nova et ses partenaires pictaviens, se déroule pendant trois jours à la fin septembre."
+        },
+        "date": "2026-09-25",
+        "source_url": "https://www.poitiers.fr/evenements/les-oreilles-louest-2026"
+      },
+      {
+        "title": {
+          "de": "Cécile McLorin Salvant",
+          "hu": "Cécile McLorin Salvant",
+          "ro": "Cécile McLorin Salvant",
+          "en": "Cécile McLorin Salvant",
+          "fr": "Cécile McLorin Salvant"
+        },
+        "summary": {
+          "de": "Die Grammy-prämierte Jazzsängerin gastiert im TAP in Poitiers mit einem Konzert der Saison 2026/2027.",
+          "hu": "A Grammy-díjas jazzénekesnő a poitiers-i TAP-ban lép fel a 2026/2027-es évad részeként.",
+          "ro": "Cântăreața de jazz laureată cu Grammy susține un concert la TAP din Poitiers în cadrul stagiunii 2026/2027.",
+          "en": "The Grammy-winning jazz vocalist performs at TAP in Poitiers as part of the 2026/2027 season.",
+          "fr": "La chanteuse de jazz lauréate d'un Grammy se produit au TAP à Poitiers dans le cadre de la saison 2026-2027."
+        },
+        "date": "2026-10-05",
+        "source_url": "https://www.tap-poitiers.com/spectacle/cecile-mclorin-salvant/"
+      },
+      {
+        "title": {
+          "de": "Poitiers Film Festival 2026",
+          "hu": "Poitiers Film Festival 2026",
+          "ro": "Poitiers Film Festival 2026",
+          "en": "Poitiers Film Festival 2026",
+          "fr": "Poitiers Film Festival 2026"
+        },
+        "summary": {
+          "de": "Die 49. Ausgabe des Festivals bringt am TAP und TAP Cinéma junge internationale Filmkunst mit Vorpremieren, Kurzfilmprogrammen, Masterclasses und Fachtreffen zusammen.",
+          "hu": "A fesztivál 49. kiadása a TAP és a TAP Cinéma helyszínein fiatal nemzetközi filmes alkotókat, premier előtti vetítéseket, rövidfilmes programokat és mesterkurzusokat kapcsol össze.",
+          "ro": "Ediția a 49-a a festivalului reunește la TAP și TAP Cinéma tânăra creație cinematografică internațională, cu avanpremiere, programe de scurtmetraje, masterclass-uri și întâlniri profesionale.",
+          "en": "The festival's 49th edition brings young international filmmaking to TAP and TAP Cinéma with premieres, short-film programs, masterclasses, and industry gatherings.",
+          "fr": "La 49e édition du festival réunit au TAP et au TAP Cinéma la jeune création internationale avec avant-premières, programmes de courts métrages, master classes et rencontres professionnelles."
+        },
+        "date": "2026-11-27",
+        "source_url": "https://poitiersfilmfestival.com/poitiers-film-festival-2026/"
+      }
+    ]
+  },
+  {
+    "id": "pisa",
+    "events": [
+      {
+        "title": {
+          "de": "Pisa Summer Knights",
+          "hu": "Pisa Summer Knights",
+          "ro": "Pisa Summer Knights",
+          "en": "Pisa Summer Knights"
+        },
+        "summary": {
+          "de": "Das vom Comune di Pisa geförderte Open-Air-Festival bringt zwischen Ende August und Mitte September internationale und italienische Musik- und Bühnenstars auf die Piazza dei Cavalieri.",
+          "hu": "A Comune di Pisa által támogatott szabadtéri fesztivál augusztus vége és szeptember közepe között nemzetközi és olasz zenei, illetve színpadi sztárokat visz a Piazza dei Cavalierire.",
+          "ro": "Festivalul în aer liber promovat de Comune di Pisa aduce în Piazza dei Cavalieri, între sfârșitul lui august și jumătatea lui septembrie, artiști muzicali și de scenă italieni și internaționali.",
+          "en": "The open-air festival promoted by the Comune di Pisa brings Italian and international music and stage stars to Piazza dei Cavalieri from late August to mid-September."
+        },
+        "date": "2026-08-30",
+        "source_url": "https://www.comune.pisa.it/Vivere-il-Comune/Eventi/Pisa-Summer-Knights2"
+      },
+      {
+        "title": {
+          "de": "Anima Mundi 2026",
+          "hu": "Anima Mundi 2026",
+          "ro": "Anima Mundi 2026",
+          "en": "Anima Mundi 2026"
+        },
+        "summary": {
+          "de": "Die traditionsreiche Konzertreihe bietet sieben Abendkonzerte zwischen Kathedrale und Camposanto auf der Piazza del Duomo mit sinfonisch-choralen und kammermusikalischen Programmen.",
+          "hu": "A rangos koncertsorozat hét esti hangversenyt kínál a Piazza del Duomo katedrálisa és Camposantója között szimfonikus-kórus és kamarazenei műsorokkal.",
+          "ro": "Prestigioasa stagiune oferă șapte concerte de seară între Catedrala și Camposanto din Piazza del Duomo, cu programe simfonic-corale și camerale.",
+          "en": "This established concert series offers seven evening performances between the Cathedral and the Camposanto on Piazza del Duomo, mixing symphonic-choral and chamber programs."
+        },
+        "date": "2026-09-09",
+        "source_url": "https://www.turismo.pisa.it/eventi/ANIMA-MUNDI-2026"
+      },
+      {
+        "title": {
+          "de": "Internet Festival 2026",
+          "hu": "Internet Festival 2026",
+          "ro": "Internet Festival 2026",
+          "en": "Internet Festival 2026"
+        },
+        "summary": {
+          "de": "Die 16. Ausgabe des Festivals widmet sich in Pisa dem digitalen Wandel mit Gesprächen, Workshops, Installationen und Stadtformaten unter dem Motto \"Forme di Futuro\".",
+          "hu": "A fesztivál 16. kiadása Pisában a digitális átalakulást járja körül beszélgetésekkel, workshopokkal, installációkkal és városi programokkal a \"Forme di Futuro\" mottó alatt.",
+          "ro": "Ediția a 16-a a festivalului explorează la Pisa transformarea digitală prin dezbateri, ateliere, instalații și formate urbane sub tema \"Forme di Futuro\".",
+          "en": "The festival's 16th edition explores digital transformation across Pisa with talks, workshops, installations, and citywide formats under the theme \"Forme di Futuro\"."
+        },
+        "date": "2026-10-08",
+        "source_url": "https://www.internetfestival.it/"
+      },
+      {
+        "title": {
+          "de": "Giornate di Fibonacci",
+          "hu": "Giornate di Fibonacci",
+          "ro": "Giornate di Fibonacci",
+          "en": "Giornate di Fibonacci"
+        },
+        "summary": {
+          "de": "Pisa feiert Leonardo Fibonacci mit Ausstellungen, Vorführungen, Konferenzen und Schulbegegnungen rund um den symbolischen Geburtstag des Mathematikers.",
+          "hu": "Pisa kiállításokkal, vetítésekkel, konferenciákkal és iskolai programokkal ünnepli Leonardo Fibonaccit a matematikus jelképes születésnapja körül.",
+          "ro": "Pisa îl celebrează pe Leonardo Fibonacci prin expoziții, proiecții, conferințe și întâlniri cu școlile în jurul datei simbolice a nașterii matematicianului.",
+          "en": "Pisa celebrates Leonardo Fibonacci with exhibitions, screenings, conferences, and school events around the mathematician's symbolic birthday."
+        },
+        "date": "2026-11-23",
+        "source_url": "https://www.comune.pisa.it/Vivere-il-Comune/Eventi/Giornate-di-Fibonacci3"
+      },
+      {
+        "title": {
+          "de": "Edward Hopper im Palazzo Blu",
+          "hu": "Edward Hopper a Palazzo Bluban",
+          "ro": "Edward Hopper la Palazzo Blu",
+          "en": "Edward Hopper at Palazzo Blu"
+        },
+        "summary": {
+          "de": "Palazzo Blu zeigt ab Mitte Oktober eine große Ausstellung zu Edward Hopper, kuratiert mit Beteiligung des Whitney Museum of American Art.",
+          "hu": "A Palazzo Blu október közepétől nagyszabású Edward Hopper-kiállítást rendez a Whitney Museum of American Art kurátori közreműködésével.",
+          "ro": "Palazzo Blu prezintă din mijlocul lui octombrie o mare expoziție dedicată lui Edward Hopper, curatoriată cu participarea Whitney Museum of American Art.",
+          "en": "From mid-October, Palazzo Blu hosts a major Edward Hopper exhibition curated with participation from the Whitney Museum of American Art."
+        },
+        "date": "2026-10-14",
+        "source_url": "https://www.turismo.pisa.it/eventi/Edward-Hopper-mostra-a-Palazzo-Blu"
+      }
+    ]
+  },
+  {
+    "id": "aubervilliers",
+    "events": [
+      {
+        "title": {
+          "de": "Auber'Plage",
+          "hu": "Auber'Plage",
+          "ro": "Auber'Plage",
+          "en": "Auber'Plage",
+          "fr": "Auber'Plage"
+        },
+        "summary": {
+          "de": "Die Stadt Aubervilliers richtet im Square Stalingrad ein neues Sommerdorf mit Schwimmbecken, Wasserspielbereich und täglichen Familienanimationen ein.",
+          "hu": "Aubervilliers városa a Square Stalingrad téren új nyári falut rendez be medencével, vízi játszózónával és mindennapos családi programokkal.",
+          "ro": "Orașul Aubervilliers amenajează în Square Stalingrad un nou sat estival cu piscină, zonă acvatică ludică și animații zilnice pentru familii.",
+          "en": "The City of Aubervilliers sets up a new summer village at Square Stalingrad with a pool, aqua-play area, and daily family activities.",
+          "fr": "La Ville d'Aubervilliers installe au square Stalingrad un nouveau village estival avec piscine, espace aqua-ludique et animations quotidiennes pour les familles."
+        },
+      "date": "2026-07-11",
+      "end_date": "2026-08-02",
+        "source_url": "https://aubervilliers.fr/"
+      },
+      {
+        "title": {
+          "de": "SHOUT TWICE",
+          "hu": "SHOUT TWICE",
+          "ro": "SHOUT TWICE",
+          "en": "SHOUT TWICE",
+          "fr": "SHOUT TWICE"
+        },
+        "summary": {
+          "de": "Zum Saisonauftakt des Théâtre de la Commune präsentiert das Haus an zwei Abenden die Kreation von Katerina Andreou und Mélissa Guex.",
+          "hu": "A Théâtre de la Commune évadnyitóján két estén át látható Katerina Andreou és Mélissa Guex új produkciója.",
+          "ro": "La deschiderea de sezon a Théâtre de la Commune, creația semnată de Katerina Andreou și Mélissa Guex este prezentată în două seri.",
+          "en": "As part of Théâtre de la Commune's season opening, the creation by Katerina Andreou and Mélissa Guex is presented over two evenings.",
+          "fr": "Pour l'ouverture de saison du Théâtre de la Commune, la création de Katerina Andreou et Mélissa Guex est présentée sur deux soirées."
+        },
+        "date": "2026-09-18",
+        "source_url": "https://www.lacommune-aubervilliers.fr/saison/26-27-ouverture-saison/"
+      },
+      {
+        "title": {
+          "de": "Mesure pour mesure",
+          "hu": "Mesure pour mesure",
+          "ro": "Mesure pour mesure",
+          "en": "Measure for Measure",
+          "fr": "Mesure pour mesure"
+        },
+        "summary": {
+          "de": "Lucile Lacaze inszeniert Shakespeares Stück in Aubervilliers als mehrtägige Herbstproduktion im Théâtre de la Commune.",
+          "hu": "Lucile Lacaze Shakespeare-darabját többnapos őszi produkcióként állítja színpadra Aubervilliers-ben, a Théâtre de la Commune-ban.",
+          "ro": "Lucile Lacaze montează piesa lui Shakespeare la Aubervilliers într-o producție de toamnă desfășurată pe parcursul mai multor zile la Théâtre de la Commune.",
+          "en": "Lucile Lacaze stages Shakespeare's play in Aubervilliers as a multi-day autumn production at Théâtre de la Commune.",
+          "fr": "Lucile Lacaze met en scène la pièce de Shakespeare à Aubervilliers dans une création d'automne présentée sur plusieurs jours au Théâtre de la Commune."
+        },
+        "date": "2026-10-01",
+        "source_url": "https://www.lacommune-aubervilliers.fr/programmation/"
+      },
+      {
+        "title": {
+          "de": "Get your ass in the water and swim like me",
+          "hu": "Get your ass in the water and swim like me",
+          "ro": "Get your ass in the water and swim like me",
+          "en": "Get your ass in the water and swim like me",
+          "fr": "Get your ass in the water and swim like me"
+        },
+        "summary": {
+          "de": "The Wooster Group bringt im Rahmen des Pavillon Théâtre américain ein englischsprachiges Bühnenprojekt nach Aubervilliers.",
+          "hu": "A The Wooster Group az amerikai színházi Pavillon keretében angol nyelvű színpadi produkciót hoz Aubervilliers-be.",
+          "ro": "The Wooster Group aduce la Aubervilliers, în cadrul Pavillon Théâtre américain, un proiect scenic în limba engleză.",
+          "en": "The Wooster Group brings an English-language stage work to Aubervilliers as part of the Pavillon Théâtre américain.",
+          "fr": "The Wooster Group présente à Aubervilliers, dans le cadre du Pavillon Théâtre américain, une création scénique en anglais."
+        },
+        "date": "2026-11-06",
+        "source_url": "https://www.lacommune-aubervilliers.fr/saison/26-27-getyourass-thewooster/"
+      },
+      {
+        "title": {
+          "de": "Le deuil sied à Electre",
+          "hu": "Le deuil sied à Electre",
+          "ro": "Le deuil sied à Electre",
+          "en": "Mourning Becomes Electra",
+          "fr": "Le deuil sied à Electre"
+        },
+        "summary": {
+          "de": "Gwenaël Morin inszeniert Eugene O'Neills Familiendrama Anfang Dezember im Théâtre de la Commune.",
+          "hu": "Gwenaël Morin Eugene O'Neill családi drámáját december elején rendezi meg a Théâtre de la Commune színpadán.",
+          "ro": "Gwenaël Morin montează drama de familie a lui Eugene O'Neill la începutul lui decembrie la Théâtre de la Commune.",
+          "en": "Gwenaël Morin stages Eugene O'Neill's family drama at Théâtre de la Commune in early December.",
+          "fr": "Gwenaël Morin met en scène le drame familial d'Eugene O'Neill au Théâtre de la Commune au début du mois de décembre."
+        },
+        "date": "2026-12-04",
+        "source_url": "https://www.lacommune-aubervilliers.fr/saison/"
+      }
+    ]
+  },
+  {
+    "id": "botosani",
+    "events": [
+      {
+        "title": {
+          "de": "Ștefan Bănică – Povestea mea",
+          "hu": "Ștefan Bănică – Povestea mea",
+          "ro": "Ștefan Bănică – Povestea mea",
+          "en": "Stefan Banica – My Story"
+        },
+        "summary": {
+          "de": "Der rumänische Pop-Rock-Künstler Ștefan Bănică gastiert mit seinem nationalen Tourprogramm in der Casa de Cultură a Sindicatelor \"Nicolae Iorga\".",
+          "hu": "Ștefan Bănică román pop-rock előadó országos turnéjának állomásaként lép fel a \"Nicolae Iorga\" Szakszervezeti Művelődési Házban.",
+          "ro": "Artistul pop-rock Ștefan Bănică ajunge la Botoșani cu spectacolul din turneul național \"Povestea mea\", la Casa de Cultură a Sindicatelor \"Nicolae Iorga\".",
+          "en": "Romanian pop-rock artist Stefan Banica brings his national tour show \"My Story\" to Casa de Cultură a Sindicatelor \"Nicolae Iorga\"."
+        },
+        "date": "2026-09-27",
+        "source_url": "https://www.iabilet.ro/bilete-turneu-stefan-banica-povestea-mea-126665/?nomobile=1"
+      },
+      {
+        "title": {
+          "de": "Comedie la MAXIM",
+          "hu": "Comedie la MAXIM",
+          "ro": "Comedie la MAXIM",
+          "en": "Comedy at MAXIMUM"
+        },
+        "summary": {
+          "de": "Romică Tociu und Cornel Palade bringen ihre Bühnenshow in die Casa de Cultură a Sindicatelor in Botoșani.",
+          "hu": "Romica Tociu és Cornel Palade színpadi komédiaműsora a botosani-i Casa de Cultură a Sindicatelor helyszínére érkezik.",
+          "ro": "Romica Tociu și Cornel Palade aduc spectacolul lor de comedie pe scena Casei de Cultură a Sindicatelor din Botoșani.",
+          "en": "Romica Tociu and Cornel Palade bring their comedy stage show to Casa de Cultură a Sindicatelor in Botoșani."
+        },
+        "date": "2026-10-19",
+        "source_url": "https://www.startickets.ro/ro/bilete/12224/comedie-la-maxim-romica-tociu-i-cornel-palade-botosani"
+      },
+      {
+        "title": {
+          "de": "Asta-i ce-am avut de zis...",
+          "hu": "Asta-i ce-am avut de zis...",
+          "ro": "Asta-i ce-am avut de zis...",
+          "en": "That's What I Had to Say..."
+        },
+        "summary": {
+          "de": "Horațiu Mălăele und Nicu Alifantis verbinden in Botoșani Poesie, Musik, Humor und Emotion in einem gemeinsamen Abendprogramm.",
+          "hu": "Horațiu Mălăele és Nicu Alifantis közös estje Botoșani-ban költészetet, zenét, humort és érzelmeket kapcsol össze.",
+          "ro": "Horațiu Mălăele și Nicu Alifantis aduc la Botoșani un spectacol comun care combină poezia, muzica, umorul și emoția.",
+          "en": "Horațiu Mălăele and Nicu Alifantis bring Botoșani a joint evening that combines poetry, music, humor, and emotion."
+        },
+        "date": "2026-10-20",
+        "source_url": "https://www.startickets.ro/en/tickets/11781/asta-i-ce-am-avut-de-zis-horaiu-mlele-nicu-alifantis-botosani"
+      },
+      {
+        "title": {
+          "de": "Der Nussknacker – Nationale Tournee",
+          "hu": "Diótörő – országos turné",
+          "ro": "Spărgătorul de nuci – turneu național",
+          "en": "The Nutcracker – National Tour"
+        },
+        "summary": {
+          "de": "Die klassische Ballettproduktion \"Der Nussknacker\" macht auf ihrer nationalen Tournee Station in Botoșani.",
+          "hu": "A klasszikus \"Diótörő\" balettelőadás országos turnéja Botoșani-ban is megáll.",
+          "ro": "Producția clasică de balet \"Spărgătorul de nuci\" ajunge la Botoșani în cadrul turneului național.",
+          "en": "The classic ballet production \"The Nutcracker\" stops in Botoșani as part of its national tour."
+        },
+        "date": "2026-12-04",
+        "source_url": "https://www.startickets.ro/ro/bilete/11935/spargatorul-de-nuci-turneu-national-botosani"
+      },
+      {
+        "title": {
+          "de": "Regal vienez – Außergewöhnliches Weihnachtskonzert",
+          "hu": "Regal vienez – rendkívüli karácsonyi koncert",
+          "ro": "Regal vienez – concert extraordinar de Crăciun",
+          "en": "Viennese Gala – Extraordinary Christmas Concert"
+        },
+        "summary": {
+          "de": "Das Weihnachtsprogramm \"Regal vienez\" bringt ein festliches Konzert im Dezember in die Casa de Cultură a Sindicatelor.",
+          "hu": "A \"Regal vienez\" ünnepi karácsonyi koncert decemberben érkezik a Casa de Cultură a Sindicatelor színpadára.",
+          "ro": "Programul festiv \"Regal vienez\" aduce în decembrie un concert extraordinar de Crăciun la Casa de Cultură a Sindicatelor.",
+          "en": "The festive \"Viennese Gala\" program brings an extraordinary Christmas concert to Casa de Cultură a Sindicatelor in December."
+        },
+        "date": "2026-12-17",
+        "source_url": "https://www.startickets.ro/ro/bilete/11868/regal-vienez-concert-extraordinar-de-craciun-botosani"
+      }
+    ]
+  },
+  {
+    "id": "dunkerque",
+    "events": [
+      {
+        "title": {
+          "de": "Maritime Feste und Traditionen",
+          "hu": "Tengeri ünnepek és hagyományok",
+          "ro": "Sărbători și tradiții maritime",
+          "en": "Maritime Festivities and Traditions",
+          "fr": "Fêtes et traditions maritimes"
+        },
+        "summary": {
+          "de": "Zum Feiertag am 15. August lädt das Musée maritime et portuaire zu einem Programm rund um dunkerquoisische und andere maritime Traditionen ein.",
+          "hu": "Az augusztus 15-i ünnephez kapcsolódva a Musée maritime et portuaire programot kínál Dunkerque és más tengeri hagyományokról.",
+          "ro": "Cu ocazia festivităților de 15 august, Musée maritime et portuaire propune un program dedicat tradițiilor maritime din Dunkerque și din alte locuri.",
+          "en": "For the August 15 festivities, the Musée maritime et portuaire hosts a program focused on Dunkirk's maritime traditions and those from elsewhere.",
+          "fr": "À l'occasion des festivités du 15 août, le Musée maritime et portuaire propose un programme autour des traditions maritimes dunkerquoises et d'ailleurs."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://www.dunkerque-tourisme.fr/offres/fetes-et-traditions-maritimes-dunkerque-fr-6616548/"
+      },
+      {
+        "title": {
+          "de": "Salon Habitat & Rénovation 2026",
+          "hu": "Salon Habitat & Rénovation 2026",
+          "ro": "Salon Habitat & Rénovation 2026",
+          "en": "Habitat & Renovation Fair 2026",
+          "fr": "Salon Habitat & Rénovation 2026"
+        },
+        "summary": {
+          "de": "Die große Wohn- und Renovierungsmesse im Kursaal versammelt über hundert Aussteller und Handwerker für Bau-, Einrichtungs- und Modernisierungsprojekte.",
+          "hu": "A Kursaal nagy lakás- és felújítási vására több mint száz kiállítót és szakembert gyűjt össze építési, berendezési és korszerűsítési témákban.",
+          "ro": "Marele salon dedicat locuinței și renovării de la Kursaal reunește peste o sută de expozanți și artizani pentru proiecte de construcție, amenajare și modernizare.",
+          "en": "The major home and renovation fair at the Kursaal gathers more than a hundred exhibitors and craftspeople for building, decorating, and upgrade projects.",
+          "fr": "Le grand salon de l'habitat et de la rénovation au Kursaal réunit plus d'une centaine d'exposants et d'artisans autour des projets de construction, d'aménagement et de modernisation."
+        },
+        "date": "2026-10-09",
+        "source_url": "https://www.dunkerquekursaal.com/evenements/agenda.html"
+      },
+      {
+        "title": {
+          "de": "COLDPLAYED - Universe Tour",
+          "hu": "COLDPLAYED - Universe Tour",
+          "ro": "COLDPLAYED - Universe Tour",
+          "en": "COLDPLAYED - Universe Tour",
+          "fr": "COLDPLAYED - Universe Tour"
+        },
+        "summary": {
+          "de": "Die Coldplay-Tribute-Produktion macht mit ihrer Arena-Show im November im Kursaal von Dunkerque Halt.",
+          "hu": "A Coldplay-tribute produkció novemberben arénashow-val érkezik a dunkerque-i Kursaalba.",
+          "ro": "Producția tribut Coldplay oprește la Kursaal din Dunkerque în noiembrie cu un show de mari dimensiuni.",
+          "en": "The Coldplay tribute production stops at the Kursaal in Dunkirk in November with its arena-style show.",
+          "fr": "Le tribute à Coldplay fait étape au Kursaal de Dunkerque en novembre avec son grand show scénique."
+        },
+        "date": "2026-11-14",
+        "source_url": "https://www.dunkerquekursaal.com/evenements/1-concerts/"
+      },
+      {
+        "title": {
+          "de": "Le Chanteur - Hommage à Balavoine",
+          "hu": "Le Chanteur - Hommage à Balavoine",
+          "ro": "Le Chanteur - Hommage à Balavoine",
+          "en": "Le Chanteur - Tribute to Balavoine",
+          "fr": "Le Chanteur - Hommage à Balavoine"
+        },
+        "summary": {
+          "de": "Die musikalische Hommage an Daniel Balavoine erzählt im Kursaal von seinem Leben, seinen Liedern und seinem Engagement.",
+          "hu": "A Daniel Balavoine előtt tisztelgő zenés előadás a Kursaalban idézi fel életét, dalait és társadalmi elkötelezettségét.",
+          "ro": "Omagiul muzical dedicat lui Daniel Balavoine revine la Kursaal cu un spectacol despre viața, cântecele și angajamentele artistului.",
+          "en": "This musical tribute to Daniel Balavoine comes to the Kursaal with a show about his life, songs, and public commitments.",
+          "fr": "Cet hommage musical à Daniel Balavoine arrive au Kursaal avec un spectacle consacré à sa vie, ses chansons et ses engagements."
+        },
+        "date": "2026-12-12",
+        "source_url": "https://www.dunkerquekursaal.com/evenements/1-concerts/"
+      },
+      {
+        "title": {
+          "de": "Dunkerque la Féérique",
+          "hu": "Dunkerque la Féérique",
+          "ro": "Dunkerque la Féérique",
+          "en": "Dunkerque la Féérique",
+          "fr": "Dunkerque la Féérique"
+        },
+        "summary": {
+          "de": "Das Weihnachtsprogramm verwandelt Dunkerque mit Weihnachtsmarkt, Paraden, Konzerten, Eislaufbahn, Riesenrad und einem Dorf des Weihnachtsmanns in eine Winterstadt.",
+          "hu": "Az adventi program karácsonyi vásárral, felvonulásokkal, koncertekkel, jégpályával, óriáskerékkel és Mikulásfalúval alakítja téli várossá Dunkerque-et.",
+          "ro": "Programul de iarnă transformă Dunkerque într-un oraș festiv cu târg de Crăciun, parade, concerte, patinoar, roată panoramică și satul lui Moș Crăciun.",
+          "en": "The winter program turns Dunkirk into a festive city with a Christmas market, parades, concerts, an ice rink, a Ferris wheel, and Santa's village.",
+          "fr": "Le programme hivernal transforme Dunkerque en cité festive avec marché de Noël, parades, concerts, patinoire, grande roue et village du Père Noël."
+        },
+        "date": "2026-12-01",
+        "source_url": "https://www.dunkerque-tourisme.fr/offres/dunkerque-la-feerique-dunkerque-fr-3394054/"
+      }
+    ]
+  }
+]

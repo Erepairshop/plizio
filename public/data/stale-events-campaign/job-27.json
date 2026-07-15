@@ -1,0 +1,428 @@
+[
+  {
+    "id": "salamanca",
+    "events": [
+      {
+        "title": {
+          "de": "Scala Coeli Nachtbesuche",
+          "hu": "Scala Coeli éjszakai látogatások",
+          "ro": "Vizite nocturne la Scala Coeli",
+          "en": "Scala Coeli Night Visits"
+        },
+        "summary": {
+          "de": "Die sommerliche Abendoeffnung der Scala-Coeli-Tuerme bietet nach Einbruch der Dunkelheit Ausblicke ueber das historische Zentrum von Salamanca.",
+          "hu": "A Scala Coeli tornyainak nyári esti nyitvatartása sötétedés után panorámát kínál Salamanca történelmi központjára.",
+          "ro": "Programul estival de seară al turnurilor Scala Coeli oferă priveliști asupra centrului istoric al Salamancăi după lăsarea întunericului.",
+          "en": "The summer evening opening of the Scala Coeli towers offers after-dark views over Salamanca's historic centre."
+        },
+        "date": "2026-08-08",
+        "source_url": "https://salamancaymas.es/actividades/scala-coeli-visitas-nocturnas-2026-08-08/"
+      },
+      {
+        "title": {
+          "de": "Vortrag \"Eclipse in Salamanca\"",
+          "hu": "\"Napfogyatkozás Salamancában\" előadás",
+          "ro": "Conferința „Eclipsă la Salamanca”",
+          "en": "“Eclipse in Salamanca” Talk"
+        },
+        "summary": {
+          "de": "Die oeffentliche Veranstaltung erklaert die Sonnenfinsternis vom 12. August 2026, ihre Beobachtung und Fotografie aus Salamanca.",
+          "hu": "A nyilvános előadás a 2026. augusztus 12-i napfogyatkozást, valamint annak salamancai megfigyelését és fotózását ismerteti.",
+          "ro": "Evenimentul public explică eclipsa de Soare din 12 august 2026 și modul în care poate fi observată și fotografiată din Salamanca.",
+          "en": "This public event explains the 12 August 2026 solar eclipse and how to observe and photograph it from Salamanca."
+        },
+        "date": "2026-08-08",
+        "source_url": "https://salamancaymas.es/actividades/conferencia-eclipse-en-salamanca-salamanca-culta-y-oculta-2026-08-08/"
+      },
+      {
+        "title": {
+          "de": "Gefuehrte Tour \"Erbe und Legenden des Flusses Tormes\"",
+          "hu": "„A Tormes folyó öröksége és legendái” vezetett séta",
+          "ro": "Tur ghidat „Patrimoniu și legende ale râului Tormes”",
+          "en": "Guided Tour “Heritage and Legends of the River Tormes”"
+        },
+        "summary": {
+          "de": "Diese Abendfuehrung aus dem Sommerprogramm verbindet Stadtgeschichte mit Erzaehlungen entlang des Flusses Tormes.",
+          "hu": "Ez az esti séta a nyári programsorozat részeként várostörténetet és a Tormes folyóhoz kapcsolódó legendákat kapcsol össze.",
+          "ro": "Acest tur de seară din programul de vară combină istoria orașului cu povești și legende de pe malul râului Tormes.",
+          "en": "This evening tour in the summer programme combines city history with stories and legends along the River Tormes."
+        },
+        "date": "2026-08-19",
+        "source_url": "https://salamancaymas.es/actividades/visita-guiada-patrimonio-y-leyendas-del-rio-tormes-salamanca-culta-y-oculta-2026-08-19/"
+      },
+      {
+        "title": {
+          "de": "Safari West",
+          "hu": "Safari West",
+          "ro": "Safari West",
+          "en": "Safari West"
+        },
+        "summary": {
+          "de": "Die familienfreundliche Theaterroute fuehrt durch die stadtische Freiluftgalerie im Barrio del Oeste und entdeckt Tiermotive und urbane Kunst.",
+          "hu": "A családbarát, színházi elemekkel kísért séta a Barrio del Oeste szabadtéri galériáján vezet végig, állatmotívumokat és utcai művészetet bemutatva.",
+          "ro": "Ruta teatralizată pentru familii parcurge galeria urbană din Barrio del Oeste și descoperă animale și artă stradală.",
+          "en": "This family-friendly theatrical route explores the outdoor gallery in Barrio del Oeste through animal-themed urban art."
+        },
+        "date": "2026-08-23",
+        "source_url": "https://salamancaymas.es/actividades/safari-west-salamanca-culta-y-oculta-2026-08-23/"
+      },
+      {
+        "title": {
+          "de": "Rebrote",
+          "hu": "Rebrote",
+          "ro": "Rebrote",
+          "en": "Rebrote"
+        },
+        "summary": {
+          "de": "Die spanische Rockformation Rebrote spielt im Teatro Liceo ein Herbstkonzert im Kulturprogramm der Stadt.",
+          "hu": "A spanyol Rebrote rockzenekar őszi koncertet ad a Teatro Liceóban a város kulturális programjának részeként.",
+          "ro": "Formația spaniolă de rock Rebrote susține un concert de toamnă la Teatro Liceo în cadrul programului cultural al orașului.",
+          "en": "Spanish rock band Rebrote plays an autumn concert at Teatro Liceo as part of the city's cultural programme."
+        },
+        "date": "2026-10-10",
+        "source_url": "https://culturasalamanca.sacatuentrada.es/es/entradas/rebrote/2026-10-10"
+      }
+    ]
+  },
+  {
+    "id": "germany-paderborn-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Libori 2026",
+          "hu": "Libori 2026",
+          "ro": "Libori 2026",
+          "en": "Libori 2026"
+        },
+        "summary": {
+          "de": "Paderborns groesstes Traditionsfest verbindet neun Tage lang Kirche, Kirmes und Kultur in der Innenstadt.",
+          "hu": "Paderborn legnagyobb hagyományos ünnepe kilenc napon át kapcsolja össze az egyházi, vásári és kulturális programokat a belvárosban.",
+          "ro": "Cea mai mare sărbătoare tradițională din Paderborn combină timp de nouă zile componenta religioasă, bâlciul și cultura în centrul orașului.",
+          "en": "Paderborn's biggest traditional festival combines church celebrations, funfair attractions and culture over nine days in the city centre."
+        },
+      "date": "2026-07-25",
+      "end_date": "2026-08-02",
+        "source_url": "https://www.paderborn.de/microsite/libori/programm/ProgrammLibori.php"
+      },
+      {
+        "title": {
+          "de": "Sommernachtskino am Neuhäuser Schloss",
+          "hu": "Nyári esti mozi a neuhäuseri kastélynál",
+          "ro": "Cinema de vară la Castelul Neuhaus",
+          "en": "Summer Night Cinema at Neuhaus Castle"
+        },
+        "summary": {
+          "de": "Das Open-Air-Kino zeigt mehrere Filmnaechte in der Kulisse des Schlosses Neuhaus.",
+          "hu": "A szabadtéri mozi több filmen keresztül tölti meg a Neuhaus-kastély környezetét.",
+          "ro": "Seria de cinema în aer liber aduce mai multe seri de film în decorul Castelului Neuhaus.",
+          "en": "The open-air cinema series brings multiple film nights to the grounds of Neuhaus Castle."
+        },
+        "date": "2026-08-05",
+        "source_url": "https://www.paderborn.de/tourismus-kultur/veranstaltungen/Sommerkino.php"
+      },
+      {
+        "title": {
+          "de": "Paderborner Weindorf",
+          "hu": "Paderborni Borfalu",
+          "ro": "Satul Vinului din Paderborn",
+          "en": "Paderborn Wine Village"
+        },
+        "summary": {
+          "de": "Im Schlosspark Neuhaus praesentiert das Weinfest Weine aus verschiedenen Anbaugebieten mit Musik und Gastronomie.",
+          "hu": "A Neuhaus kastélyparkjában rendezett borfesztivál több borvidék tételeit mutatja be zenével és gasztronómiával.",
+          "ro": "Festivalul din parcul castelului Neuhaus aduce vinuri din mai multe regiuni viticole, alături de muzică și gastronomie.",
+          "en": "Held in the Neuhaus Castle Park, this wine festival showcases bottles from different wine-growing regions with music and food."
+        },
+        "date": "2026-08-21",
+        "source_url": "https://www.paderborn.de/tourismus-kultur/veranstaltungen/Paderborner_Weindorf.php"
+      },
+      {
+        "title": {
+          "de": "Museumsnacht 2026",
+          "hu": "Múzeumok Éjszakája 2026",
+          "ro": "Noaptea Muzeelor 2026",
+          "en": "Museum Night 2026"
+        },
+        "summary": {
+          "de": "Museen in Paderborn oeffnen bis Mitternacht und bieten Sonderprogramme in aussergewoehnlicher Abendatmosphaere.",
+          "hu": "Paderborn múzeumai éjfélig tartanak nyitva, és különprogramokat kínálnak különleges esti hangulatban.",
+          "ro": "Muzeele din Paderborn rămân deschise până la miezul nopții și propun programe speciale într-o atmosferă de seară.",
+          "en": "Museums across Paderborn stay open until midnight and offer special programming in an unusual evening setting."
+        },
+        "date": "2026-08-29",
+        "source_url": "https://www.paderborn.de/microsite/stadtmuseum/news/museumsnacht-2026.php"
+      },
+      {
+        "title": {
+          "de": "Paderborner Weihnachtsmarkt",
+          "hu": "Paderborni karácsonyi vásár",
+          "ro": "Târgul de Crăciun din Paderborn",
+          "en": "Paderborn Christmas Market"
+        },
+        "summary": {
+          "de": "Der Weihnachtsmarkt rund um Domplatz und Rathaus bringt Lichter, Staende und Adventsatmosphaere in die Altstadt.",
+          "hu": "A dóm tér és a városháza körüli karácsonyi vásár fényekkel, standokkal és adventi hangulattal tölti meg az óvárost.",
+          "ro": "Târgul de Crăciun din jurul Domplatz și al primăriei aduce lumini, standuri și atmosferă de Advent în centrul vechi.",
+          "en": "Around the cathedral square and town hall, the Christmas market fills the old town with lights, stalls and Advent atmosphere."
+        },
+        "date": "2026-11-20",
+        "source_url": "https://www.paderborn.de/tourismus-kultur/veranstaltungen/weihnachtsmarkt-paderborn.php"
+      }
+    ]
+  },
+  {
+    "id": "spain-tarragona-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Sant Magi",
+          "hu": "Sant Magi",
+          "ro": "Sant Magí",
+          "en": "Sant Magí"
+        },
+        "summary": {
+          "de": "Eines der grossen Stadtfeste Tarragonas bringt Umzuege, Castells, Prozessionen, Musik und Ausstellungen in die Altstadt.",
+          "hu": "Tarragona egyik nagy városi ünnepe felvonulásokat, embertornyokat, körmeneteket, zenét és kiállításokat hoz a történelmi központba.",
+          "ro": "Una dintre marile sărbători ale orașului Tarragona aduce parade, turnuri umane, procesiuni, muzică și expoziții în centrul istoric.",
+          "en": "One of Tarragona's major festivals brings parades, human towers, processions, music and exhibitions to the historic centre."
+        },
+        "date": "2026-08-07",
+        "source_url": "https://www.tarragonaturisme.cat/en/events/sant-magi"
+      },
+      {
+        "title": {
+          "de": "Santa Tecla",
+          "hu": "Santa Tecla",
+          "ro": "Santa Tecla",
+          "en": "Santa Tecla"
+        },
+        "summary": {
+          "de": "Das Hauptfest der Stadt feiert Ende September mit Riesenfiguren, Feuerlaeufen, Musik und traditionellen Darbietungen.",
+          "hu": "A város főünnepe szeptember végén óriásfigurákkal, tűzjátékos menetekkel, zenével és hagyományos műsorokkal várja a látogatókat.",
+          "ro": "Marea sărbătoare a orașului animă finalul lunii septembrie cu uriași, focuri festive, muzică și tradiții populare.",
+          "en": "The city's main festival fills late September with giants, fire runs, music and traditional popular celebrations."
+        },
+        "date": "2026-09-15",
+        "source_url": "https://www.tarragonaturisme.cat/en/events/santa-tecla"
+      },
+      {
+        "title": {
+          "de": "Mediterranean Guitar Festival",
+          "hu": "Mediterranean Guitar Festival",
+          "ro": "Mediterranean Guitar Festival",
+          "en": "Mediterranean Guitar Festival"
+        },
+        "summary": {
+          "de": "Die Konzertreihe bringt bis Ende Oktober Gitarrenprogramme in eine der markantesten Kirchen Tarragonas.",
+          "hu": "A koncertsorozat október végéig gitárközpontú előadásokat visz Tarragona egyik legjellegzetesebb templomába.",
+          "ro": "Seria de concerte aduce până la sfârșitul lui octombrie programe dedicate chitarei într-una dintre bisericile emblematice ale orașului.",
+          "en": "Running through late October, the concert series brings guitar-focused performances to one of Tarragona's landmark churches."
+        },
+        "date": "2026-10-01",
+        "source_url": "https://www.tarragonaturisme.cat/en/events/mediterranean-guitar-festival"
+      },
+      {
+        "title": {
+          "de": "Wettbewerb der Menschentuerme",
+          "hu": "Embertorony-verseny",
+          "ro": "Concursul turnurilor umane",
+          "en": "Human Tower Competition"
+        },
+        "summary": {
+          "de": "Der internationale Hoehepunkt der Castells-Szene bringt die besten Colles fuer die groesste Menschenturm-Show der Welt zusammen.",
+          "hu": "A castells hagyomány nemzetközi csúcspontja a legjobb csapatokat gyűjti össze a világ legnagyobb embertorony-bemutatójára.",
+          "ro": "Momentul de vârf al tradiției castells reunește cele mai bune colles pentru cel mai mare spectacol de turnuri umane din lume.",
+          "en": "The showcase event of the castells tradition gathers the top teams for the world's largest human tower spectacle."
+        },
+        "date": "2026-10-03",
+        "source_url": "https://www.tarragonaturisme.cat/en/events/human-tower-competition"
+      },
+      {
+        "title": {
+          "de": "Tarragona Sona Flamenc",
+          "hu": "Tarragona Sona Flamenc",
+          "ro": "Tarragona Sona Flamenc",
+          "en": "Tarragona Sona Flamenc"
+        },
+        "summary": {
+          "de": "Das Herbstfestival widmet eine ganze Woche dem Flamenco mit Konzerten und Auffuehrungen in Tarragona.",
+          "hu": "Az őszi fesztivál egy teljes héten át flamencóval tölti meg Tarragonát koncertekkel és előadásokkal.",
+          "ro": "Festivalul de toamnă dedică o săptămână întreagă flamencoului, cu concerte și spectacole în Tarragona.",
+          "en": "This autumn festival dedicates a full week to flamenco through concerts and performances in Tarragona."
+        },
+        "date": "2026-10-05",
+        "source_url": "https://www.tarragonaturisme.cat/en/events/tarragona-sona-flamenc"
+      }
+    ]
+  },
+  {
+    "id": "city-pitesti",
+    "events": [
+      {
+        "title": {
+          "de": "Lupii lui Calancea",
+          "hu": "Lupii lui Calancea",
+          "ro": "Lupii lui Calancea",
+          "en": "Lupii lui Calancea"
+        },
+        "summary": {
+          "de": "Die moldauische Band tritt im Haus der Gewerkschaftskultur in Pitești mit einem abendlichen Live-Konzert auf.",
+          "hu": "A moldovai zenekar esti koncertet ad a pitești-i Szakszervezetek Művelődési Házában.",
+          "ro": "Formația din Republica Moldova susține un concert de seară la Casa de Cultură a Sindicatelor din Pitești.",
+          "en": "The Moldovan band performs an evening live concert at the Casa de Cultura a Sindicatelor in Pitești."
+        },
+        "date": "2026-11-05",
+        "source_url": "https://www.bilete.ro/lupii-lui-calancea/lupii-lui-calancea-05-nov-2026/"
+      },
+      {
+        "title": {
+          "de": "Symphoniekonzert: Horia - Daisuke",
+          "hu": "Szimfonikus koncert: Horia - Daisuke",
+          "ro": "Concert simfonic: Horia - Daisuke",
+          "en": "Symphonic Concert: Horia - Daisuke"
+        },
+        "summary": {
+          "de": "Die Filarmonica Pitești praesentiert Anfang November ein Symphoniekonzert mit Horia und Daisuke im Konzertsaal der Stadt.",
+          "hu": "A Filarmonica Pitești november elején Horia és Daisuke közreműködésével ad szimfonikus koncertet a város hangversenytermében.",
+          "ro": "Filarmonica Pitești programează la început de noiembrie un concert simfonic cu Horia și Daisuke în sala orașului.",
+          "en": "Filarmonica Pitești schedules an early-November symphonic concert with Horia and Daisuke in the city's concert hall."
+        },
+        "date": "2026-11-06",
+        "source_url": "https://www.bilete.ro/jazz-filarmonica-pitesti/"
+      },
+      {
+        "title": {
+          "de": "Alifantis & Mirica - GEMINI 2.0",
+          "hu": "Alifantis & Mirică - GEMINI 2.0",
+          "ro": "Alifantis & Mirică - GEMINI 2.0",
+          "en": "Alifantis & Mirica - GEMINI 2.0"
+        },
+        "summary": {
+          "de": "Nicu Alifantis und Razvan Mirica bringen ihre nationale Tour mit einem Abendprogramm in die Filarmonica Pitești.",
+          "hu": "Nicu Alifantis és Răzvan Mirică országos turnéjuk esti állomásaként érkeznek a Filarmonica Pitești színpadára.",
+          "ro": "Nicu Alifantis și Răzvan Mirică aduc turneul lor național într-un spectacol de seară la Filarmonica Pitești.",
+          "en": "Nicu Alifantis and Răzvan Mirica bring their national tour to Filarmonica Pitești for an evening performance."
+        },
+        "date": "2026-10-31",
+        "source_url": "https://www.iabilet.ro/go/00wc7gTr/"
+      },
+      {
+        "title": {
+          "de": "Die Fledermaus",
+          "hu": "A denevér",
+          "ro": "Liliacul",
+          "en": "Die Fledermaus"
+        },
+        "summary": {
+          "de": "Johann Strauss' weltberuehmte Operette kommt im November in das Haus der Gewerkschaftskultur in Pitești.",
+          "hu": "Johann Strauss világhírű operettje novemberben érkezik a pitești-i Szakszervezetek Művelődési Házába.",
+          "ro": "Celebra operetă a lui Johann Strauss ajunge în noiembrie la Casa de Cultură a Sindicatelor din Pitești.",
+          "en": "Johann Strauss's world-famous operetta comes to the Casa de Cultura a Sindicatelor in Pitești in November."
+        },
+        "date": "2026-11-23",
+        "source_url": "https://www.iabilet.ro/bilete-in-pitesti/"
+      },
+      {
+        "title": {
+          "de": "Wiener Weihnachtsgala",
+          "hu": "Bécsi karácsonyi gála",
+          "ro": "Regal vienez - concert extraordinar de Crăciun",
+          "en": "Viennese Christmas Gala"
+        },
+        "summary": {
+          "de": "Ein festliches Adventskonzert mit europaeischen Orchestermusikern ist fuer Dezember in Pitești angekuendigt.",
+          "hu": "Ünnepi adventi koncertet hirdettek meg decemberre Piteștiben európai zenekari muzsikusokkal.",
+          "ro": "Pentru luna decembrie este programat la Pitești un concert festiv de Advent cu instrumentiști din orchestre europene.",
+          "en": "A festive Advent concert featuring musicians from European orchestras is scheduled in Pitești for December."
+        },
+        "date": "2026-12-12",
+        "source_url": "https://www.iabilet.ro/bilete-in-pitesti/"
+      }
+    ]
+  },
+  {
+    "id": "spain-lleida-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Lleida City Tour",
+          "hu": "Lleida City Tour",
+          "ro": "Lleida City Tour",
+          "en": "Lleida City Tour"
+        },
+        "summary": {
+          "de": "Die gefuehrte Stadtbesichtigung fuehrt Besucherinnen und Besucher im Herbst durch die wichtigsten Sehenswuerdigkeiten von Lleida.",
+          "hu": "Az őszi vezetett városnézés Lleida legfontosabb látnivalóit mutatja be a látogatóknak.",
+          "ro": "Turul ghidat de toamnă prezintă vizitatorilor principalele obiective turistice din Lleida.",
+          "en": "This autumn guided city tour introduces visitors to Lleida's main landmarks."
+        },
+        "date": "2026-10-11",
+        "source_url": "https://www.paeria.cat/ca/actualitat/agenda/visita-guiada-lleida-city-tour/2026-10-11"
+      },
+      {
+        "title": {
+          "de": "Jorge Blass: Ilusionarte",
+          "hu": "Jorge Blass: Ilusionarte",
+          "ro": "Jorge Blass: Ilusionarte",
+          "en": "Jorge Blass: Ilusionarte"
+        },
+        "summary": {
+          "de": "Der Illusionist Jorge Blass gastiert mit seiner Show im Teatre de la Llotja in Lleida.",
+          "hu": "Jorge Blass bűvész show-ja a lleidai Teatre de la Llotja színpadára érkezik.",
+          "ro": "Iluzionistul Jorge Blass prezintă spectacolul său la Teatre de la Llotja din Lleida.",
+          "en": "Illusionist Jorge Blass brings his show to Teatre de la Llotja in Lleida."
+        },
+        "date": "2026-09-19",
+        "source_url": "https://teatredelallotja.paeria.cat/es/programacion/oficial-es/"
+      },
+      {
+        "title": {
+          "de": "Dinamarca",
+          "hu": "Dinamarca",
+          "ro": "Dinamarca",
+          "en": "Dinamarca"
+        },
+        "summary": {
+          "de": "Das Schauspiel \"Dinamarca\" mit Pere Arquillue und Imma Colomer steht Ende September auf dem Programm des Teatre de la Llotja.",
+          "hu": "A „Dinamarca” című színdarab Pere Arquillué és Imma Colomer szereplésével szeptember végén látható a Teatre de la Llotjában.",
+          "ro": "Spectacolul „Dinamarca”, cu Pere Arquillué și Imma Colomer, este programat la final de septembrie la Teatre de la Llotja.",
+          "en": "The play “Dinamarca,” starring Pere Arquillué and Imma Colomer, is scheduled for late September at Teatre de la Llotja."
+        },
+        "date": "2026-09-26",
+        "source_url": "https://teatredelallotja.paeria.cat/es/obra/dinamarca-2/"
+      },
+      {
+        "title": {
+          "de": "Festes de la Tardor",
+          "hu": "Őszi Ünnepek",
+          "ro": "Festes de la Tardor",
+          "en": "Autumn Festival"
+        },
+        "summary": {
+          "de": "Lleidas Herbstfest rund um Sant Miquel verbindet lokale Folklore mit Musik, Theater und dem landwirtschaftlichen Jahrmarkt.",
+          "hu": "Lleida őszi ünnepe Sant Miquel körül helyi folklórt, zenét, színházat és mezőgazdasági vásárt kapcsol össze.",
+          "ro": "Sărbătoarea de toamnă a Lleidei, dedicată lui Sant Miquel, combină folclor local, muzică, teatru și târgul agricol.",
+          "en": "Lleida's autumn festival around Sant Miquel combines local folklore with music, theatre and the agricultural fair."
+        },
+        "date": "2026-09-26",
+        "source_url": "https://cultura.paeria.cat/ca/programes/festes-de-la-tardor"
+      },
+      {
+        "title": {
+          "de": "GAMMA Urban Art Festival",
+          "hu": "GAMMA Városi Művészeti Fesztivál",
+          "ro": "Festivalul de Artă Urbană GAMMA",
+          "en": "GAMMA Urban Art Festival"
+        },
+        "summary": {
+          "de": "Das Festival fuer urbane Kunst gestaltet Ende September und Anfang Oktober den Stadtteil Pardinyes mit kuenstlerischen Interventionen um.",
+          "hu": "A városi művészeti fesztivál szeptember végén és október elején a Pardinyes negyedet alakítja át művészeti beavatkozásokkal.",
+          "ro": "Festivalul de artă urbană transformă la final de septembrie și început de octombrie cartierul Pardinyes prin intervenții artistice.",
+          "en": "The urban art festival transforms the Pardinyes district with artistic interventions in late September and early October."
+        },
+        "date": "2026-09-28",
+        "source_url": "https://cultura.paeria.cat/ca/gamma-festival-dart-urba-de-lleida"
+      }
+    ]
+  }
+]

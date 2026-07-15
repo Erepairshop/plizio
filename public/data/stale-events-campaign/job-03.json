@@ -1,0 +1,411 @@
+[
+  {
+    "id": "poland-lodz-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Speedway Grand Prix von Łódź 2026",
+          "hu": "Łódź Speedway Grand Prix 2026",
+          "ro": "Speedway Grand Prix Łódź 2026",
+          "en": "Łódź Speedway Grand Prix 2026"
+        },
+        "summary": {
+          "de": "Die Moto Arena Łódź richtet erstmals einen Lauf der Speedway-Einzelweltmeisterschaft aus. Besucher können einen großen internationalen Motorsportabend mit Weltklassefahrern erwarten.",
+          "hu": "A Moto Arena Łódź először ad otthont a salakmotoros egyéni világbajnokság egyik futamának. A látogatók nemzetközi motorsport-eseményre és élvonalbeli versenyzőkre számíthatnak.",
+          "ro": "Moto Arena Łódź găzduiește pentru prima dată o etapă din Campionatul Mondial individual de speedway. Vizitatorii se pot aștepta la o seară sportivă internațională cu piloți de top.",
+          "en": "Moto Arena Łódź will host a round of the individual Speedway World Championship for the first time. Visitors can expect a major international motorsport evening with top riders."
+        },
+        "source_url": "https://lodz.travel/aktualnosci-lodzkiej-organizacji-turystycznej/artykul-lot/top-10-wydarzen-ktore-odbeda-sie-w-lodzi-w-2026-roku-id63197/2026/1/2/?cHash=046bb7ba3f6f2438952144ca266425fa"
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "Parada Wolności 2026",
+          "hu": "Parada Wolności 2026",
+          "ro": "Parada Wolności 2026",
+          "en": "Parada Wolności 2026"
+        },
+        "summary": {
+          "de": "Das mehrtägige Elektronikfestival kehrt auf den Plac Wolności und in die Piotrkowska-Straße zurück. Geplant sind Open-Air-Bühnen und ein urbanes Festwochenende mit freiem Eintritt.",
+          "hu": "A többnapos elektronikus zenei fesztivál visszatér a Plac Wolności térre és a Piotrkowska utcára. Szabadtéri színpadokkal és ingyenes, városi hangulatú hétvégével készülnek.",
+          "ro": "Festivalul de muzică electronică revine în Plac Wolności și pe strada Piotrkowska. Programul include scene în aer liber și un weekend urban cu acces gratuit.",
+          "en": "The multi-day electronic music festival returns to Plac Wolności and Piotrkowska Street. It is planned as a free-entry urban weekend with outdoor stages."
+        },
+        "source_url": "https://lodz.travel/aktualnosci-lodzkiej-organizacji-turystycznej/artykul-lot/top-10-wydarzen-ktore-odbeda-sie-w-lodzi-w-2026-roku-id63197/2026/1/2/?cHash=046bb7ba3f6f2438952144ca266425fa"
+      },
+      {
+        "date": "2026-09-10",
+        "title": {
+          "de": "Great September Showcase Festival & Conference 2026",
+          "hu": "Great September Showcase Festival & Conference 2026",
+          "ro": "Great September Showcase Festival & Conference 2026",
+          "en": "Great September Showcase Festival & Conference 2026"
+        },
+        "summary": {
+          "de": "Łódź wird drei Tage lang zum Treffpunkt für neue Musik, Showcase-Konzerte und Branchengespräche. Das Festival bringt internationale und polnische Acts sowie Diskussionen und Networking zusammen.",
+          "hu": "Łódź három napra az új zenék, showcase koncertek és szakmai találkozók központja lesz. A fesztivál nemzetközi és lengyel fellépőket, beszélgetéseket és kapcsolatépítési programokat kínál.",
+          "ro": "Łódź devine timp de trei zile un punct de întâlnire pentru muzică nouă, concerte showcase și evenimente de industrie. Festivalul reunește artiști internaționali și polonezi, dezbateri și networking.",
+          "en": "Łódź becomes a three-day meeting point for new music, showcase concerts, and industry sessions. The festival combines international and Polish artists with talks and networking."
+        },
+        "source_url": "https://lodz.travel/aktualnosci-lodzkiej-organizacji-turystycznej/artykul-lot/great-september-2026-w-lodzi-los-bitchos-ava-rasti-bloto-ikarvs-i-kolejni-artysci-w-line-upie-id63494/2026/6/17/?cHash=6764a868e63096bf4c4966e39e7da313"
+      },
+      {
+        "date": "2026-09-25",
+        "title": {
+          "de": "Light Move Festival 2026",
+          "hu": "Light Move Festival 2026",
+          "ro": "Light Move Festival 2026",
+          "en": "Light Move Festival 2026"
+        },
+        "summary": {
+          "de": "Beim Light Move Festival verwandeln sich Fassaden, Plätze und Parks im Zentrum von Łódź in eine große Lichtkunstgalerie. Besucher sehen Illuminationsprojekte, Mapping-Shows und Installationen im öffentlichen Raum.",
+          "hu": "A Light Move Festival idején Łódź belvárosának homlokzatai, terei és parkjai fényinstallációkkal telnek meg. A látogatók vetítéseket, mapping show-kat és köztéri alkotásokat láthatnak.",
+          "ro": "În timpul Light Move Festival, fațadele, piețele și parcurile din centrul orașului Łódź devin o galerie de artă a luminii. Vizitatorii pot vedea iluminări, mapping și instalații artistice în spațiul public.",
+          "en": "During the Light Move Festival, facades, squares, and parks in central Łódź become a citywide gallery of light art. Visitors can see illuminations, projection mapping, and public installations."
+        },
+        "source_url": "https://lodz.travel/aktualnosci-lodzkiej-organizacji-turystycznej/artykul-lot/top-10-wydarzen-ktore-odbeda-sie-w-lodzi-w-2026-roku-id63197/2026/1/2/?cHash=046bb7ba3f6f2438952144ca266425fa"
+      },
+      {
+        "date": "2026-10-23",
+        "title": {
+          "de": "Igrzyska Wolności 2026",
+          "hu": "Igrzyska Wolności 2026",
+          "ro": "Igrzyska Wolności 2026",
+          "en": "Freedom Games 2026"
+        },
+        "summary": {
+          "de": "Das Debatten- und Ideenfestival in EC1 Łódź widmet sich den Beziehungen zwischen Mensch, Technologie und Gegenwart. Auf dem Programm stehen Gespräche mit Vertretern aus Wissenschaft, Kultur, Wirtschaft und Politik.",
+          "hu": "Az EC1 Łódź-ben megrendezett gondolat- és vitafesztivál az ember, a technológia és a jelenkori világ kapcsolatát járja körül. Tudományos, kulturális, üzleti és politikai szereplők találkoznak a programon.",
+          "ro": "Festivalul de idei și dezbateri de la EC1 Łódź este dedicat relației dintre om, tehnologie și lumea contemporană. Programul reunește reprezentanți din știință, cultură, afaceri și politică.",
+          "en": "The ideas and debate festival at EC1 Łódź focuses on the relationship between people, technology, and the contemporary world. The program brings together speakers from science, culture, business, and politics."
+        },
+        "source_url": "https://lodz.travel/aktualnosci-lodzkiej-organizacji-turystycznej/artykul-lot/top-10-wydarzen-ktore-odbeda-sie-w-lodzi-w-2026-roku-id63197/2026/1/2/?cHash=046bb7ba3f6f2438952144ca266425fa"
+      }
+    ]
+  },
+  {
+    "id": "ireland-ballymena-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-07",
+        "title": {
+          "de": "Adventure Quest: The Secret Towers Quest",
+          "hu": "Adventure Quest: The Secret Towers Quest",
+          "ro": "Adventure Quest: The Secret Towers Quest",
+          "en": "Adventure Quest: The Secret Towers Quest"
+        },
+        "summary": {
+          "de": "Im Rahmen des Jubiläumsprogramms zu Ballymena 400 lädt diese kostenlose Familienveranstaltung zu einer spielerischen Mitmachaktion in der Stadt ein. Sie gehört zur Reihe der Sommertermine im Zentrum von Ballymena.",
+          "hu": "A Ballymena 400 jubileumi program részeként ez az ingyenes családi esemény játékos városi küldetéssel várja a résztvevőket. A nyári belvárosi programsorozat része.",
+          "ro": "Ca parte a programului aniversar Ballymena 400, acest eveniment gratuit pentru familii propune o activitate interactivă în oraș. Face parte din seria de evenimente estivale din centrul orașului Ballymena.",
+          "en": "Part of the Ballymena 400 anniversary program, this free family event offers an interactive quest-style activity in town. It belongs to the summer celebration series in central Ballymena."
+        },
+        "source_url": "https://www.shapedbyseaandstone.com/whats-on/ballymena-turns-400-and-were-going-super-p1074231"
+      },
+      {
+        "date": "2026-08-22",
+        "title": {
+          "de": "Ballymena 400 Street Party",
+          "hu": "Ballymena 400 Street Party",
+          "ro": "Ballymena 400 Street Party",
+          "en": "Ballymena 400 Street Party"
+        },
+        "summary": {
+          "de": "Die Straßenparty ist einer der zentralen Publikumstermine der 400-Jahr-Feier von Ballymena. Besucher können ein offenes Stadtfest mit Gemeinschaftsprogramm im Jubiläumssommer erwarten.",
+          "hu": "Az utcai ünnepség a Ballymena 400 éves évfordulójának egyik kiemelt közösségi programja. A látogatók nyitott, ünnepi hangulatú városi eseményre számíthatnak.",
+          "ro": "Petrecerea stradală este unul dintre evenimentele centrale dedicate aniversării de 400 de ani a orașului Ballymena. Vizitatorii se pot aștepta la o sărbătoare urbană deschisă comunității.",
+          "en": "The street party is one of the key public moments in Ballymena’s 400th anniversary celebrations. Visitors can expect an open community celebration in the town."
+        },
+        "source_url": "https://www.shapedbyseaandstone.com/whats-on/ballymena-turns-400-and-were-going-super-p1074231"
+      },
+      {
+        "date": "2026-08-25",
+        "title": {
+          "de": "Civic Thanksgiving Service für Ballymena 400",
+          "hu": "Ballymena 400 hálaadó istentisztelet",
+          "ro": "Serviciu civic de mulțumire pentru Ballymena 400",
+          "en": "Civic Thanksgiving Service for Ballymena 400"
+        },
+        "summary": {
+          "de": "Zum 400. Jahrestag von Ballymena findet in St Patrick’s Church ein offizieller Dankgottesdienst statt. Die Feier würdigt die Geschichte der Stadt und gehört zum Jubiläumsprogramm des Jahres 2026.",
+          "hu": "Ballymena 400. évfordulója alkalmából hivatalos hálaadó istentiszteletet tartanak a St Patrick’s Church templomban. Az esemény a város történetét ünnepli a 2026-os jubileumi program részeként.",
+          "ro": "Cu ocazia împlinirii a 400 de ani, la St Patrick’s Church are loc un serviciu civic de mulțumire. Evenimentul face parte din programul aniversar care marchează istoria orașului Ballymena.",
+          "en": "An official civic thanksgiving service will be held at St Patrick’s Church to mark Ballymena’s 400th anniversary. It is part of the town’s 2026 commemorative program."
+        },
+        "source_url": "https://www.shapedbyseaandstone.com/whats-on/ballymena-400"
+      },
+      {
+        "date": "2026-10-03",
+        "title": {
+          "de": "70-jähriges Jubiläumskonzert der Dunloy Accordion Band",
+          "hu": "A Dunloy Accordion Band 70. évfordulós koncertje",
+          "ro": "Concertul aniversar de 70 de ani al Dunloy Accordion Band",
+          "en": "Dunloy Accordion Band 70th Anniversary Concert"
+        },
+        "summary": {
+          "de": "Im Braid Arts Centre feiert die Dunloy Accordion Band ihr 70-jähriges Bestehen mit einem großen Konzertabend. Gastformationen erweitern das Programm um Pipes, Flute Band und Brass-Sounds.",
+          "hu": "A Braid Arts Centre-ben ünnepli fennállásának 70. évfordulóját a Dunloy Accordion Band egy nagyszabású koncerttel. Vendégzenekarok is fellépnek dudás, fuvolás és rezes műsorszámokkal.",
+          "ro": "La Braid Arts Centre, Dunloy Accordion Band își sărbătorește cei 70 de ani printr-un concert aniversar amplu. Programul include și invitați din zonele pipe, flute band și brass.",
+          "en": "At the Braid Arts Centre, the Dunloy Accordion Band marks its 70th anniversary with a special concert evening. Guest ensembles add pipe band, flute band, and brass performances."
+        },
+        "source_url": "https://www.shapedbyseaandstone.com/whats-on/dunloy-accordion-band-70th-anniversary-concert-p1051611"
+      },
+      {
+        "date": "2026-11-13",
+        "title": {
+          "de": "Paddy McDonnell: Paddy Power Full",
+          "hu": "Paddy McDonnell: Paddy Power Full",
+          "ro": "Paddy McDonnell: Paddy Power Full",
+          "en": "Paddy McDonnell: Paddy Power Full"
+        },
+        "summary": {
+          "de": "Der nordirische Comedian Paddy McDonnell gastiert mit seinem aktuellen Programm im Braid Arts Centre. Für Besucher ist es ein klar terminierter Abendtermin im Herbstprogramm von Ballymena.",
+          "hu": "Paddy McDonnell északír humorista aktuális műsorával érkezik a Braid Arts Centre-be. A látogatók számára ez a Ballymena őszi programkínálatának egy kiemelt esti eseménye.",
+          "ro": "Comediantul nord-irlandez Paddy McDonnell aduce spectacolul său actual la Braid Arts Centre. Pentru vizitatori, este un eveniment de seară bine definit în programul de toamnă al orașului Ballymena.",
+          "en": "Northern Irish comedian Paddy McDonnell brings his current show to the Braid Arts Centre. For visitors, it is a clearly scheduled autumn evening event in Ballymena."
+        },
+        "source_url": "https://www.shapedbyseaandstone.com/whats-on/comedy"
+      }
+    ]
+  },
+  {
+    "id": "genova",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Sommer 2026 im Aquarium von Genua",
+          "hu": "2026 nyara a genovai akváriumban",
+          "ro": "Vara 2026 la Acvariul din Genova",
+          "en": "Summer 2026 at the Aquarium of Genoa"
+        },
+        "summary": {
+          "de": "Das Sommerprogramm des Acquario di Genova bündelt Familien- und Erlebnisangebote wie Backstage-Führungen, Tierbegegnungen und kombinierte Meeresausflüge. Es läuft über die Hochsaison im Juli und August.",
+          "hu": "A genovai akvárium nyári programja családi és élményalapú ajánlatokat fog össze, például kulisszák mögötti túrákat, állatos találkozásokat és tengeri kirándulásokat. A teljes július-augusztusi főszezonban tart.",
+          "ro": "Programul estival al Acvariului din Genova reunește activități pentru familii și experiențe speciale, inclusiv tururi în culise, întâlniri cu animalele și excursii maritime combinate. Se desfășoară pe toată durata sezonului de vârf din iulie și august.",
+          "en": "The Aquarium of Genoa’s summer program bundles family-friendly and immersive activities including backstage tours, animal encounters, and combined sea excursions. It runs throughout the peak July-August season."
+        },
+        "source_url": "https://www.visitgenoa.it/en/node/27201"
+      },
+      {
+        "date": "2026-09-09",
+        "title": {
+          "de": "Passeggiate urbanistiche",
+          "hu": "Passeggiate urbanistiche",
+          "ro": "Passeggiate urbanistiche",
+          "en": "Urban Walks"
+        },
+        "summary": {
+          "de": "Die von der Stadt Genua geförderte Reihe führt von Juni bis November durch verschiedene Stadtviertel; nach dem Stichtag beginnen weitere Termine im September. Besucher entdecken Quartiere gemeinsam mit Verwaltung und Fachleuten zu Fuß.",
+          "hu": "A genovai önkormányzat által támogatott sorozat júniustól novemberig több városrészben zajlik, és szeptemberben újabb sétákkal folytatódik. A résztvevők szakemberekkel és helyi szereplőkkel együtt fedezhetik fel a negyedeket.",
+          "ro": "Seria promovată de orașul Genova are loc din iunie până în noiembrie în mai multe cartiere, iar după termenul-limită continuă cu date în septembrie. Vizitatorii descoperă cartierele la pas alături de specialiști și reprezentanți ai administrației.",
+          "en": "This city-backed series runs across Genoa’s neighborhoods from June to November, with additional dates starting again in September after the cutoff. Visitors explore districts on foot together with planners and local officials."
+        },
+        "source_url": "https://www.visitgenoa.it/en/node/27142"
+      },
+      {
+        "date": "2026-10-01",
+        "title": {
+          "de": "Salone Nautico Internazionale 2026",
+          "hu": "Salone Nautico Internazionale 2026",
+          "ro": "Salone Nautico Internazionale 2026",
+          "en": "International Boat Show 2026"
+        },
+        "summary": {
+          "de": "Die 66. Ausgabe der internationalen Bootsmesse bringt Yachten, Segelboote, Technik und Branchenveranstaltungen an das Waterfront di Levante. Für Besucher ist sie einer der größten maritimen Termine des Jahres in Genua.",
+          "hu": "A nemzetközi hajókiállítás 66. kiadása jachtokat, vitorlásokat, technológiát és szakmai programokat visz a Waterfront di Levante területére. A látogatók számára ez Genova egyik legnagyobb tengeri eseménye 2026-ban.",
+          "ro": "A 66-a ediție a salonului nautic internațional aduce iahturi, ambarcațiuni cu vele, tehnologie și evenimente de industrie la Waterfront di Levante. Pentru vizitatori, este unul dintre cele mai importante momente maritime ale anului la Genova.",
+          "en": "The 66th edition of the international boat show brings yachts, sailing craft, technology, and industry events to the Waterfront di Levante. For visitors, it is one of Genoa’s biggest maritime appointments of the year."
+        },
+        "source_url": "https://www.visitgenoa.it/en/node/26435"
+      },
+      {
+        "date": "2026-10-02",
+        "title": {
+          "de": "Ottobre Paganini Genova 2026",
+          "hu": "Ottobre Paganini Genova 2026",
+          "ro": "Ottobre Paganini Genova 2026",
+          "en": "Ottobre Paganini Genova 2026"
+        },
+        "summary": {
+          "de": "Das stadtweite Paganini-Programm ehrt den berühmten Genueser mit Konzerten, Führungen, Vorträgen, Kinderformaten und gastronomischen Angeboten. Viele Veranstaltungen sind kostenlos und verteilen sich vom Zentrum bis in die Stadtteile.",
+          "hu": "A városszerte zajló Paganini-program koncertekkel, vezetéssel, előadásokkal, gyerekprogramokkal és gasztronómiai ajánlatokkal tiszteleg Genova híres zeneszerzője előtt. Sok esemény ingyenes, és a belvárostól a külső városrészekig több helyszínen zajlik.",
+          "ro": "Programul urban dedicat lui Paganini îl omagiază pe celebrul genovez prin concerte, vizite ghidate, conferințe, ateliere pentru copii și oferte gastronomice. Multe evenimente sunt gratuite și au loc atât în centru, cât și în cartiere.",
+          "en": "This citywide Paganini program honors Genoa’s famous musician with concerts, guided visits, talks, children’s activities, and food-related initiatives. Many events are free and spread from the center to outer districts."
+        },
+        "source_url": "https://www.visitgenoa.it/en/node/27048"
+      },
+      {
+        "date": "2026-10-22",
+        "title": {
+          "de": "Assaggiatori di Genova 2026",
+          "hu": "Assaggiatori di Genova 2026",
+          "ro": "Assaggiatori di Genova 2026",
+          "en": "Assaggiatori di Genova 2026"
+        },
+        "summary": {
+          "de": "Diese kostenlose Herbstreihe in der Biblioteca Saffi verbindet Stadtgeschichte mit Genueser Küchentraditionen. Vier thematische Treffen widmen sich unter anderem Farinata, Ravioli, Stockfisch und Kastanienkuchen.",
+          "hu": "Az ingyenes őszi programsorozat a Biblioteca Saffiban Genova gasztronómiai hagyományait kapcsolja össze a várostörténettel. Négy tematikus alkalom foglalkozik többek között a farinata, a genovai ravioli, a szárított tőkehal és a gesztenyés sütemény történetével.",
+          "ro": "Această serie gratuită de toamnă de la Biblioteca Saffi leagă istoria orașului de tradițiile culinare genoveze. Cele patru întâlniri tematice sunt dedicate, printre altele, farinatei, raviolilor genovezi, stocafisso și castagnaccio.",
+          "en": "This free autumn series at Biblioteca Saffi connects Genoa’s history with its culinary traditions. Four themed meetings focus on specialties including farinata, Genoese ravioli, stockfish, and chestnut cake."
+        },
+        "source_url": "https://www.visitgenoa.it/en/node/26712"
+      }
+    ]
+  },
+  {
+    "id": "poland-poznan-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-13",
+        "title": {
+          "de": "BitterSweet 2026",
+          "hu": "BitterSweet 2026",
+          "ro": "BitterSweet 2026",
+          "en": "BitterSweet 2026"
+        },
+        "summary": {
+          "de": "Das dreitägige Festival im Park Cytadela verbindet ein großes internationales Pop- und Elektronik-Line-up mit mehreren Bühnen. Für Besucher ist es einer der wichtigsten Musiktermine des Sommers in Poznań.",
+          "hu": "A Cytadela parkban zajló háromnapos fesztivál nemzetközi pop- és elektronikus fellépőket hoz több színpadon. A látogatók számára Poznań egyik legfontosabb nyári zenei eseménye.",
+          "ro": "Festivalul de trei zile din Parcul Cytadela aduce un line-up internațional de pop și muzică electronică pe mai multe scene. Pentru vizitatori, este unul dintre principalele evenimente muzicale ale verii la Poznań.",
+          "en": "This three-day festival in Cytadela Park combines a major international pop and electronic lineup across multiple stages. For visitors, it is one of Poznań’s key summer music events."
+        },
+        "source_url": "https://bittersweetfestival.pl/"
+      },
+      {
+        "date": "2026-08-20",
+        "title": {
+          "de": "Rockowizna 2026",
+          "hu": "Rockowizna 2026",
+          "ro": "Rockowizna 2026",
+          "en": "Rockowizna 2026"
+        },
+        "summary": {
+          "de": "Das Rockfestival auf dem Flughafen Ławica versammelt polnische und internationale Gitarren-Acts an drei Tagen. Die ungewöhnliche Kulisse macht es zu einem markanten Sommerevent in Poznań.",
+          "hu": "A Ławica repülőtéren rendezett rockfesztivál három napon át lengyel és nemzetközi gitárzenekarokat fogad. A különleges helyszín miatt ez Poznań egyik karakteres nyári eseménye.",
+          "ro": "Festivalul rock organizat pe aeroportul Ławica reunește timp de trei zile trupe poloneze și internaționale. Decorul neobișnuit îl transformă într-un eveniment estival distinctiv în Poznań.",
+          "en": "This rock festival at Ławica Airport brings together Polish and international guitar acts over three days. The unusual setting makes it a standout summer event in Poznań."
+        },
+        "source_url": "https://rockowizna.pl/poznan/"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "Dni Twierdzy Poznań 2026",
+          "hu": "Dni Twierdzy Poznań 2026",
+          "ro": "Dni Twierdzy Poznań 2026",
+          "en": "Poznań Fortress Days 2026"
+        },
+        "summary": {
+          "de": "Die 14. Ausgabe der Festungstage öffnet Museen, Kulturorte und Befestigungsanlagen für ein stadtweites Geschichtswochenende. Das Programm richtet sich an Familien, Geschichtsinteressierte und Fans militärischer Architektur.",
+          "hu": "A 14. erődnapok alkalmával múzeumok, kulturális helyszínek és erődítmények nyílnak meg egy városszerte zajló történelmi hétvégére. A program családoknak, történelemkedvelőknek és erődrajongóknak szól.",
+          "ro": "A 14-a ediție a Zilelor Fortăreței deschide muzee, spații culturale și fortificații pentru un weekend dedicat istoriei în tot orașul. Programul se adresează familiilor, pasionaților de istorie și iubitorilor de arhitectură militară.",
+          "en": "The 14th edition of Fortress Days opens museums, cultural venues, and fortification sites for a citywide history weekend. It is aimed at families, history lovers, and military architecture enthusiasts."
+        },
+        "source_url": "https://visitpoznan.pl/en/event-calendar-summer-2026"
+      },
+      {
+        "date": "2026-09-04",
+        "title": {
+          "de": "Erste Letnie Brzmienia 2026",
+          "hu": "Erste Letnie Brzmienia 2026",
+          "ro": "Erste Letnie Brzmienia 2026",
+          "en": "Erste Letnie Brzmienia 2026"
+        },
+        "summary": {
+          "de": "Das Festival in der grünen Umgebung der Poznańer Zitadelle setzt auf polnische Künstler und ein spätsommerliches Open-Air-Format. Es ist als musikalischer Abschluss der Sommersaison geplant.",
+          "hu": "A poznańi Citadella parkos környezetében rendezett fesztivál lengyel előadókra és késő nyári szabadtéri hangulatra épít. A programsorozat a nyári szezon zenei lezárásának számít.",
+          "ro": "Festivalul din zona verde a Citadelei din Poznań pune accent pe artiști polonezi și pe un format open-air de final de vară. Este gândit ca o închidere muzicală a sezonului estival.",
+          "en": "Held in the park surroundings of the Poznań Citadel, this festival focuses on Polish artists in a late-summer open-air setting. It is positioned as a musical finale to the summer season."
+        },
+        "source_url": "https://visitpoznan.pl/en/event-calendar-summer-2026"
+      }
+    ]
+  },
+  {
+    "id": "belgium-antwerp-cities-v2",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Antwerp Pride",
+          "hu": "Antwerp Pride",
+          "ro": "Antwerp Pride",
+          "en": "Antwerp Pride"
+        },
+        "summary": {
+          "de": "Die stadtweite Pride-Woche umfasst Parade, Kulturprogramm, Partys und Konzerte an verschiedenen Orten in Antwerpen. Für Besucher ist sie eines der sichtbarsten Sommerereignisse der Stadt.",
+          "hu": "A városszerte megrendezett Pride-hét felvonulással, kulturális programokkal, bulikkal és koncertekkel tölti meg Antwerpent. A látogatók számára ez a város egyik legfontosabb nyári eseménye.",
+          "ro": "Săptămâna Pride aduce în tot orașul paradă, programe culturale, petreceri și concerte în mai multe locații din Anvers. Pentru vizitatori, este unul dintre cele mai vizibile evenimente ale verii în oraș.",
+          "en": "The citywide Pride week fills Antwerp with a parade, cultural events, parties, and concerts across multiple venues. For visitors, it is one of the city’s most visible summer events."
+        },
+        "source_url": "https://visitantwerp.com/antwerp/events/antwerp-pride"
+      },
+      {
+        "date": "2026-08-15",
+        "title": {
+          "de": "Rubensmarkt",
+          "hu": "Rubensmarkt",
+          "ro": "Rubensmarkt",
+          "en": "Rubensmarkt"
+        },
+        "summary": {
+          "de": "Der historische Markt auf dem Grote Markt und in den umliegenden Straßen versetzt Antwerpen in die Zeit des 17. Jahrhunderts zurück. Händler in Kostümen und traditionelle Waren machen ihn besonders attraktiv für kulturinteressierte Besucher.",
+          "hu": "A Grote Markton és a környező utcákban rendezett történelmi vásár a 17. század hangulatát idézi meg Antwerpenben. A korhű ruhás árusok és a hagyományos portékák különösen vonzóvá teszik a kultúra iránt érdeklődőknek.",
+          "ro": "Târgul istoric din Grote Markt și străzile din jur readuce Anversul în atmosfera secolului al XVII-lea. Comercianții costumați și produsele tradiționale îl fac atractiv pentru vizitatorii interesați de istorie și cultură.",
+          "en": "This historic market on the Grote Markt and surrounding streets recreates the atmosphere of 17th-century Antwerp. Costumed vendors and traditional goods make it especially appealing for culture-focused visitors."
+        },
+        "source_url": "https://visitantwerp.com/antwerp/events/rubensmarkt"
+      },
+      {
+        "date": "2026-09-11",
+        "title": {
+          "de": "Antwerp Beer Weekend",
+          "hu": "Antwerp Beer Weekend",
+          "ro": "Antwerp Beer Weekend",
+          "en": "Antwerp Beer Weekend"
+        },
+        "summary": {
+          "de": "Auf dem Grote Markt präsentiert dieses Wochenende belgische Bierkultur mit Verkostungen, passenden Speisen und Live-Musik. Es ist eine publikumsstarke Veranstaltung im historischen Zentrum.",
+          "hu": "A Grote Markton megrendezett hétvége a belga sörkultúrát ünnepli kóstolókkal, ételpárosításokkal és élő zenével. A történelmi városközpont egyik nagy közönségvonzó eseménye.",
+          "ro": "Desfășurat în Grote Markt, acest weekend dedicat berii celebrează cultura berii belgiene prin degustări, asocieri culinare și muzică live. Este un eveniment popular în centrul istoric al orașului.",
+          "en": "Held on the Grote Markt, this weekend celebration of Belgian beer culture features tastings, food pairings, and live music. It is a high-profile public event in the historic center."
+        },
+        "source_url": "https://visitantwerp.com/antwerp/events/antwerp-beer-weekend"
+      },
+      {
+        "date": "2026-10-10",
+        "title": {
+          "de": "Antwerp International Film Festival",
+          "hu": "Antwerp International Film Festival",
+          "ro": "Antwerp International Film Festival",
+          "en": "Antwerp International Film Festival"
+        },
+        "summary": {
+          "de": "Das AFF bringt internationale Filme, Retrospektiven und Branchenveranstaltungen in Cinema Zuid und weitere Kinos der Stadt. Für Besucher ist es eine konzentrierte Filmwoche mit urbanem Kulturprogramm.",
+          "hu": "Az AFF nemzetközi filmeket, retrospektív vetítéseket és szakmai eseményeket hoz a Cinema Zuidba és más városi mozikba. A látogatók számára ez egy sűrű, városi filmes hét kulturális kísérőprogramokkal.",
+          "ro": "AFF aduce filme internaționale, retrospective și evenimente de industrie la Cinema Zuid și în alte cinematografe din oraș. Pentru vizitatori, reprezintă o săptămână cinematografică intensă cu program cultural urban.",
+          "en": "AFF brings international films, retrospectives, and industry events to Cinema Zuid and other cinemas across the city. For visitors, it offers a concentrated week of film and urban culture."
+        },
+        "source_url": "https://visitantwerp.com/antwerp/events/antwerp-international-film-festival-aff"
+      },
+      {
+        "date": "2026-11-05",
+        "title": {
+          "de": "Antwerp Jazz Festival",
+          "hu": "Antwerp Jazz Festival",
+          "ro": "Antwerp Jazz Festival",
+          "en": "Antwerp Jazz Festival"
+        },
+        "summary": {
+          "de": "Das Jazzfestival nutzt historische und moderne Spielorte wie De Roma und AMUZ für internationale und belgische Konzerte. Besucher können unterschiedliche Stilrichtungen in mehreren ikonischen Sälen erleben.",
+          "hu": "A jazzfesztivál olyan történelmi és modern helyszíneket használ, mint a De Roma és az AMUZ, nemzetközi és belga fellépőkkel. A látogatók több ikonikus teremben ismerhetik meg a jazz különböző irányzatait.",
+          "ro": "Festivalul de jazz folosește spații istorice și moderne precum De Roma și AMUZ pentru concerte internaționale și belgiene. Vizitatorii pot descoperi stiluri diferite de jazz în mai multe săli emblematice.",
+          "en": "The jazz festival uses historic and modern venues such as De Roma and AMUZ for international and Belgian performances. Visitors can experience a range of jazz styles in several iconic halls."
+        },
+        "source_url": "https://visitantwerp.com/antwerp/events/antwerp-jazz-festival"
+      }
+    ]
+  }
+]

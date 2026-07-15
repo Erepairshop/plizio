@@ -1,0 +1,395 @@
+[
+  {
+    "id": "italy-novara-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "1. Festival der Magie \"Citta di Novara\"",
+          "hu": "1. \"Citta di Novara\" Buvészfesztival",
+          "ro": "Primul Festival de Magie \"Citta di Novara\"",
+          "en": "1st \"Citta di Novara\" Magic Festival"
+        },
+        "summary": {
+          "de": "Kostenlose Sommerabend-Show im Cortile del Castello mit Magie und Familienunterhaltung im Rahmen der Estate Novarese 2026.",
+          "hu": "Ingyenes nyari esti musor a Castello udvaran, bűveszmutatvanyokkal es csaladi szorakozassal az Estate Novarese 2026 kereteben.",
+          "ro": "Spectacol gratuit de seara in curtea castelului, cu magie si divertisment pentru familii, in cadrul Estate Novarese 2026.",
+          "en": "Free summer evening show in the castle courtyard with magic acts and family entertainment as part of Estate Novarese 2026."
+        },
+        "date": "2026-08-29",
+        "source_url": "https://www.comune.novara.it/vivere-comune/eventi/estate-novarese-1deg-festival-della-magia-citta-novara"
+      },
+      {
+        "title": {
+          "de": "Dejanira: Toto-Tribute",
+          "hu": "Dejanira: Toto tribute koncert",
+          "ro": "Dejanira: tribut Toto",
+          "en": "Dejanira: Toto tribute"
+        },
+        "summary": {
+          "de": "Abendkonzert der Estate Novarese im Castello di Novara mit einer Tribute-Show zu den Hits von Toto.",
+          "hu": "Az Estate Novarese esti koncertje a novarai kastelyban, Toto-slageres tribute produkcioval.",
+          "ro": "Concert de seara din programul Estate Novarese la Castello di Novara, cu un tribut dedicat hiturilor Toto.",
+          "en": "Evening concert in the Estate Novarese program at Novara Castle featuring a tribute to Toto's best-known songs."
+        },
+        "date": "2026-08-30",
+        "source_url": "https://www.comune.novara.it/argomenti/cultura/novita"
+      },
+      {
+        "title": {
+          "de": "La Via della Bellezza - Mirabili Contrasti",
+          "hu": "La Via della Bellezza - Mirabili Contrasti koncert",
+          "ro": "La Via della Bellezza - Mirabili Contrasti",
+          "en": "La Via della Bellezza - Mirabili Contrasti concert"
+        },
+        "summary": {
+          "de": "Konzert im Broletto mit dem Programm \"La Via della Bellezza\", angesetzt als Musikveranstaltung Anfang Oktober.",
+          "hu": "Koncert a Brolettoban a \"La Via della Bellezza\" programmal, oktober eleji zenei rendezvenykent.",
+          "ro": "Concert in Broletto cu programul \"La Via della Bellezza\", anuntat ca eveniment muzical la inceput de octombrie.",
+          "en": "Concert at the Broletto presenting the \"La Via della Bellezza\" program, scheduled as an early-October music event."
+        },
+        "date": "2026-10-03",
+        "source_url": "https://www.comune.novara.it/ricerca?f%5B0%5D=tipologie%3Aevento&facets_query=&page=15"
+      }
+    ]
+  },
+  {
+    "id": "spain-orihuela-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Sommerroute 2026: Orihuela Stadt des Lichts",
+          "hu": "Nyari utvonal 2026: Orihuela, a feny varosa",
+          "ro": "Ruta de vara 2026: Orihuela, orasul luminii",
+          "en": "Summer route 2026: Orihuela City of Light"
+        },
+        "summary": {
+          "de": "Die stadtische Sommerprogrammierung 2026 bestaetigt gefuhrte und theatralisierte Kulturrouten in Juli und August durch das historische Orihuela.",
+          "hu": "A varosi 2026-os nyari program megerositi a juliusi-es augusztusi vezetett es szinhaziasitott kulturautvonalakat Orihuela tortenelmi kozpontjaban.",
+          "ro": "Programul oficial de vara 2026 confirma trasee culturale ghidate si teatralizate in iulie si august prin centrul istoric al Orihuelei.",
+          "en": "The official Summer 2026 program confirms guided and theatrical cultural routes in July and August through Orihuela's historic core."
+        },
+        "date": "2026-08-01",
+        "source_url": "https://www.orihuelaturistica.es/orh/web_php/index.php?contenido=esdeveniments_coconut&idEsdev=386&title=rutas-visitas-y-actividades-verano-2026"
+      },
+      {
+        "title": {
+          "de": "Sommerroute 2026: Orihuela Misteriosa",
+          "hu": "Nyari utvonal 2026: Titokzatos Orihuela",
+          "ro": "Ruta de vara 2026: Orihuela misterioasa",
+          "en": "Summer route 2026: Mysterious Orihuela"
+        },
+        "summary": {
+          "de": "Das stadtische Sommerprogramm 2026 bewirbt thematische Besuchserlebnisse mit historischen Erzaehlungen und Abendatmosphaere fuer Besucher.",
+          "hu": "A 2026-os nyari program tematikus latogatoi elmenyeket hirdet tortenelmi tortenetekkel es esti hangulattal.",
+          "ro": "Programul de vara 2026 promoveaza experiente tematice de vizitare, cu povesti istorice si atmosfera de seara pentru vizitatori.",
+          "en": "The Summer 2026 program promotes themed visitor experiences with historical storytelling and an evening atmosphere."
+        },
+        "date": "2026-08-08",
+        "source_url": "https://www.orihuelaturistica.es/orh/web_php/index.php?contenido=showRuta&id=46&idNivel=4251"
+      },
+      {
+        "title": {
+          "de": "Sommerroute 2026: Die Menina von Velazquez",
+          "hu": "Nyari utvonal 2026: Velazquez Meninaja",
+          "ro": "Ruta de vara 2026: Menina lui Velazquez",
+          "en": "Summer route 2026: Velazquez's Menina"
+        },
+        "summary": {
+          "de": "Teil des offiziellen Sommerkalenders 2026 mit gefuehrten Besuchen, die Kunst, Stadtgeschichte und Kulturerbe in Orihuela verbinden.",
+          "hu": "A hivatalos 2026-os nyari naptar resze, vezetett latogatasokkal, amelyek a muveszetet, a varostortenetet es az orokseget kapcsoljak ossze Orihuelaban.",
+          "ro": "Parte din calendarul oficial de vara 2026, cu vizite ghidate care leaga arta, istoria orasului si patrimoniul din Orihuela.",
+          "en": "Part of the official Summer 2026 calendar, with guided visits linking art, city history, and heritage in Orihuela."
+        },
+        "date": "2026-08-15",
+        "source_url": "https://www.orihuelaturistica.es/orh/web_php/index.php?contenido=esdeveniments_coconut&idEsdev=386&title=rutas-visitas-y-actividades-verano-2026"
+      },
+      {
+        "title": {
+          "de": "Sommerroute 2026: Route der Legenden",
+          "hu": "Nyari utvonal 2026: Legendak utja",
+          "ro": "Ruta de vara 2026: Ruta legendelor",
+          "en": "Summer route 2026: Route of Legends"
+        },
+        "summary": {
+          "de": "Tourismus Orihuela fuehrt 2026 weiterhin oeffentliche Kulturrouten, die Sagen, Monumente und das Altstadtbild fuer Besucher zusammenbringen.",
+          "hu": "A Turismo Orihuela 2026-ban is folytatja azokat a nyilvanos kulturautvonalakat, amelyek legendakat, muemlekeket es az ovarosi varoskepet kapcsoljak ossze.",
+          "ro": "Turismo Orihuela continua in 2026 traseele culturale publice care reunesc legende, monumente si peisajul orasului vechi pentru vizitatori.",
+          "en": "Turismo Orihuela continues public cultural routes in 2026 that bring together legends, monuments, and the old townscape for visitors."
+        },
+        "date": "2026-08-22",
+        "source_url": "https://www.orihuelaturistica.es/orh/web_php/index.php?contenido=showRuta&id=23&idNivel=4224"
+      },
+      {
+        "title": {
+          "de": "Sommerroute 2026: Miguel-Hernandez-Route",
+          "hu": "Nyari utvonal 2026: Miguel Hernandez-utvonal",
+          "ro": "Ruta de vara 2026: traseul Miguel Hernandez",
+          "en": "Summer route 2026: Miguel Hernandez route"
+        },
+        "summary": {
+          "de": "Besucherprogramm der stadtischen Sommerrouten mit Literatur- und Ortsbezug rund um das Leben von Miguel Hernandez in Orihuela.",
+          "hu": "A varosi nyari utvonalak latogatoi programja irodalmi es helytorteneti kapcsolattal Miguel Hernandez oriolai elete kore szervezve.",
+          "ro": "Program pentru vizitatori din seria rutelor de vara, cu accent literar si local asupra vietii lui Miguel Hernandez in Orihuela.",
+          "en": "Visitor program in the summer routes series with a literary and local focus on Miguel Hernandez's life in Orihuela."
+        },
+        "date": "2026-08-29",
+        "source_url": "https://www.orihuelaturistica.es/orh/web_php/index.php?contenido=esdeveniments_coconut&idEsdev=386&title=rutas-visitas-y-actividades-verano-2026"
+      }
+    ]
+  },
+  {
+    "id": "spain-girona-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "FITAG 2026",
+          "hu": "FITAG 2026",
+          "ro": "FITAG 2026",
+          "en": "FITAG 2026"
+        },
+        "summary": {
+          "de": "International renommiertes Amateurtheaterfestival in Girona mit Produktionen aus verschiedenen Laendern und Spielorten in der Stadt.",
+          "hu": "Nemzetkozileg elismert amatorszinhazi fesztival Gironaban, kulonbozo orszagok produkcioival es tobb varosi helyszinen.",
+          "ro": "Festival international de teatru amator la Girona, cu productii din mai multe tari si reprezentatii in diferite spatii ale orasului.",
+          "en": "Internationally recognized amateur theatre festival in Girona with productions from multiple countries and venues across the city."
+        },
+        "date": "2026-08-25",
+        "source_url": "https://web2.girona.cat/cultura/cat/festivals.php"
+      },
+      {
+        "title": {
+          "de": "Acocollona't 2026",
+          "hu": "Acocollona't 2026",
+          "ro": "Acocollona't 2026",
+          "en": "Acocollona't 2026"
+        },
+        "summary": {
+          "de": "Genre- und Fantastikfilmfestival, das Girona zu einem Treffpunkt fuer Fans und Autorinnen des fantastischen Kinos machen will.",
+          "hu": "Mufaji es fantasztikus filmes fesztival, amely Gironat a fantasztikus mozi rajongoinak es alkotoinek talalkozopontjava teszi.",
+          "ro": "Festival de cinema fantastic si de gen care isi propune sa transforme Girona intr-un punct de intalnire pentru iubitorii si autorii acestui tip de film.",
+          "en": "Genre and fantastic film festival designed to make Girona a meeting point for fans and creators of fantastic cinema."
+        },
+        "date": "2026-09-10",
+        "source_url": "https://web2.girona.cat/cultura/cat/festivals.php"
+      },
+      {
+        "title": {
+          "de": "Mirorock 2026",
+          "hu": "Mirorock 2026",
+          "ro": "Mirorock 2026",
+          "en": "Mirorock 2026"
+        },
+        "summary": {
+          "de": "Laenger laufendes Musikfestival in Girona mit Terminen von Mitte September bis Mitte Oktober und einem stadtoffenen Kulturprofil.",
+          "hu": "Hosszan tarto zenei fesztival Gironaban, szeptember kozepe es oktober kozepe kozotti idopontokkal es varosi kulturaprofillal.",
+          "ro": "Festival muzical extins in Girona, programat de la mijlocul lui septembrie pana la mijlocul lui octombrie, cu profil cultural urban.",
+          "en": "Extended music festival in Girona running from mid-September to mid-October with a citywide cultural profile."
+        },
+        "date": "2026-09-13",
+        "source_url": "https://web2.girona.cat/cultura/cat/festivals.php"
+      },
+      {
+        "title": {
+          "de": "Festival monar'T 2026",
+          "hu": "monar'T fesztival 2026",
+          "ro": "Festivalul monar'T 2026",
+          "en": "monar'T Festival 2026"
+        },
+        "summary": {
+          "de": "Septemberfestival in Girona, bestaetigt fuer eine Woche Kulturprogramm vom 21. bis 27. September.",
+          "hu": "Szeptemberi fesztival Gironaban, egyhetes kulturprogrammal szeptember 21. es 27. kozott.",
+          "ro": "Festival de septembrie la Girona, confirmat pentru o saptamana de program cultural intre 21 si 27 septembrie.",
+          "en": "September festival in Girona, confirmed for a full week of cultural programming from 21 to 27 September."
+        },
+        "date": "2026-09-21",
+        "source_url": "https://web2.girona.cat/cultura/cat/festivals.php?id=6610"
+      },
+      {
+        "title": {
+          "de": "Fires de Sant Narcis 2026",
+          "hu": "Fires de Sant Narcis 2026",
+          "ro": "Fires de Sant Narcis 2026",
+          "en": "Fires de Sant Narcis 2026"
+        },
+        "summary": {
+          "de": "Die grosse Stadtfestzeit Gironas mit Markt-, Konzert-, Barraca- und Volkskulturprogramm im gesamten Stadtgebiet.",
+          "hu": "Girona nagy varosi unnepi idoszaka, vasari, koncert-, barraca- es nepi kulturprogramokkal az egesz varosban.",
+          "ro": "Marea perioada festiva a orasului Girona, cu targuri, concerte, baraci si program de cultura populara in tot orasul.",
+          "en": "Girona's major city festival period, with fairgrounds, concerts, barraca food stalls, and popular culture across the city."
+        },
+        "date": "2026-10-23",
+        "source_url": "https://web.girona.cat/firesdegirona"
+      }
+    ]
+  },
+  {
+    "id": "italy-udine-cities-v2",
+    "events": [
+      {
+        "title": {
+          "de": "Friuli DOC 2026",
+          "hu": "Friuli DOC 2026",
+          "ro": "Friuli DOC 2026",
+          "en": "Friuli DOC 2026"
+        },
+        "summary": {
+          "de": "Grosse Genuss- und Traditionsveranstaltung im historischen Zentrum von Udine mit regionaler Kulinarik, Wein und Marktstimmung.",
+          "hu": "Nagy gasztronomiai es hagyomanyorzo rendezveny Udine tortenelmi kozpontjaban, regionalis etelekkel, borokkal es vasari hangulattal.",
+          "ro": "Mare eveniment gastronomic si traditional in centrul istoric din Udine, cu produse regionale, vin si atmosfera de targ.",
+          "en": "Major food-and-tradition event in Udine's historic center featuring regional specialties, wine, and a fair atmosphere."
+        },
+        "date": "2026-09-10",
+        "source_url": "https://www.turismofvg.it/events/friuli-doc-2026"
+      },
+      {
+        "title": {
+          "de": "FVG Bike Trail 2026",
+          "hu": "FVG Bike Trail 2026",
+          "ro": "FVG Bike Trail 2026",
+          "en": "FVG Bike Trail 2026"
+        },
+        "summary": {
+          "de": "Mehrtaegiges Radsportevent mit Udine als Start- und Bezugspunkt fuer Teilnehmende, die Friuli Venezia Giulia auf zwei Raedern erleben.",
+          "hu": "Tobbnapos kerekparos esemeny, amelynek Udine a kiindulopontja es szervezesi kozeppontja a regio felfedezesehez.",
+          "ro": "Eveniment ciclist de mai multe zile, cu Udine drept punct de pornire si reper pentru participantii care strabat Friuli Venezia Giulia.",
+          "en": "Multi-day cycling event with Udine as a key start and reference point for riders exploring Friuli Venezia Giulia."
+        },
+        "date": "2026-09-03",
+        "source_url": "https://www.turismofvg.it/events/fvg-bike-trail-2026"
+      },
+      {
+        "title": {
+          "de": "Festival Collega-Menti 2026",
+          "hu": "Collega-Menti fesztival 2026",
+          "ro": "Festivalul Collega-Menti 2026",
+          "en": "Collega-Menti Festival 2026"
+        },
+        "summary": {
+          "de": "Kulturfestival mit Ausgabe 2026 zum Thema \"Equilibrio\", das auch in Udine Station macht und Wissenschaft, Kultur und Debatte verbindet.",
+          "hu": "Kulturalis fesztival a 2026-os \"Equilibrio\" temaval, amely Udineben is allomasozik, es a tudomanyt, kulturat es vitat kapcsolja ossze.",
+          "ro": "Festival cultural cu editia 2026 dedicata temei \"Equilibrio\", care ajunge si la Udine si combina stiinta, cultura si dezbaterea.",
+          "en": "Cultural festival whose 2026 edition focuses on \"Equilibrio\" and includes Udine in a program linking science, culture, and debate."
+        },
+        "date": "2026-10-02",
+        "source_url": "https://www.turismofvg.it/eventi/festival-collega-menti-2026"
+      },
+      {
+        "title": {
+          "de": "Monet. Una vita a colori",
+          "hu": "Monet. Una vita a colori",
+          "ro": "Monet. Una vita a colori",
+          "en": "Monet. Una vita a colori"
+        },
+        "summary": {
+          "de": "Theaterabend im Teatro Nuovo Giovanni da Udine, organisiert als Buehnenshow ueber Leben und Werk Claude Monets.",
+          "hu": "Szinhazi este a Teatro Nuovo Giovanni da Udine-ben, Claude Monet eleterol es munkassagarol szolo szinpadias eloadassal.",
+          "ro": "Seara de teatru la Teatro Nuovo Giovanni da Udine, organizata ca spectacol scenic despre viata si opera lui Claude Monet.",
+          "en": "Theatrical evening at Teatro Nuovo Giovanni da Udine staged around the life and work of Claude Monet."
+        },
+        "date": "2026-10-20",
+        "source_url": "https://www.turismofvg.it/eventi/monet-una-vita-a-colori"
+      },
+      {
+        "title": {
+          "de": "Il Natale in Citta 2026",
+          "hu": "Il Natale in Citta 2026",
+          "ro": "Il Natale in Citta 2026",
+          "en": "Il Natale in Citta 2026"
+        },
+        "summary": {
+          "de": "Weihnachtsprogramm der Stadt Udine mit Lichtern, Eislaufbahn, Innenstadtinitiativen und Feststimmung bis Mitte Januar.",
+          "hu": "Udine varosi karacsonyi programja fenyekkel, korcsolyapalyaval, belvarosi kezdemenyezesekkel es unnepi hangulattal januar kozepeig.",
+          "ro": "Programul de Craciun al orasului Udine, cu lumini, patinoar, initiative in centru si atmosfera festiva pana la mijlocul lui ianuarie.",
+          "en": "Udine's Christmas program with lights, an ice rink, city-center initiatives, and festive atmosphere through mid-January."
+        },
+        "date": "2026-11-21",
+        "source_url": "https://www.comune.udine.it/Vivere-il-comune/Eventi/Il-Natale-in-Citta"
+      }
+    ]
+  },
+  {
+    "id": "city-trier",
+    "events": [
+      {
+        "title": {
+          "de": "Olewiger Weinfest 2026",
+          "hu": "Olewigi Borfesztival 2026",
+          "ro": "Festivalul vinului din Olewig 2026",
+          "en": "Olewig Wine Festival 2026"
+        },
+        "summary": {
+          "de": "Viertaegiges Trierer Weinfest mit Winzerhoefen, Live-Musik, Kulinarik und der Kroenung der Trierer Weinkoenigin in Olewig.",
+          "hu": "Negynapos trieri borfesztival boraszudvarokkal, elo zenével, gasztronomiaval es a trieri borkiralyno koronazasaval Olewigben.",
+          "ro": "Festival viticol de patru zile in Trier-Olewig, cu curti de vinificatori, muzica live, gastronomie si incoronarea reginei vinului din Trier.",
+          "en": "Four-day Trier wine festival in Olewig with winemakers' courtyards, live music, food, and the crowning of Trier's wine queen."
+        },
+        "date": "2026-07-31",
+        "source_url": "https://olewig-weinfest.de/"
+      },
+      {
+        "title": {
+          "de": "Brunnenhofkonzerte - Musikvereine aus der Region",
+          "hu": "Brunnenhof-koncertek - regiobeli zenei egyesuletek",
+          "ro": "Concertele Brunnenhof - fanfare si societati muzicale din regiune",
+          "en": "Brunnenhof Concerts - regional music societies"
+        },
+        "summary": {
+          "de": "Kostenfreie Konzertreihe im Brunnenhof; Ende September praesentiert der Kreismusikverband Ensembles aus der Region Trier.",
+          "hu": "Ingyenes koncertsorozat a Brunnenhofban; szeptember vegen a teruleti zenei szovetseg Trier kornyeki egyutteseket mutat be.",
+          "ro": "Serie gratuita de concerte in Brunnenhof; la sfarsit de septembrie asociatia muzicala regionala aduce ansambluri din zona Trier.",
+          "en": "Free concert series in the Brunnenhof courtyard; in late September the regional music association presents ensembles from around Trier."
+        },
+        "date": "2026-09-27",
+        "source_url": "https://www.trier-info.de/en/event-highlights/brunnenhof-concerts"
+      },
+      {
+        "title": {
+          "de": "Trierer Unterwelten",
+          "hu": "Trieri Alvilagok Fesztival",
+          "ro": "Festivalul Subteranele Trierului",
+          "en": "Trier Underworlds Festival"
+        },
+        "summary": {
+          "de": "Festival in Kellern, Ausgrabungen und unterirdischen Orten der Innenstadt mit Fuehrungen, Theater, Lesungen, Film und Kulinarik.",
+          "hu": "Fesztival az ovaros pincerendszereiben, feltarasaiban es fold alatti helyszinein, vezetett turakkal, szinhazzal, felolvasasokkal es gasztronomiaval.",
+          "ro": "Festival desfasurat in pivnite, sapaturi si spatii subterane din centrul orasului, cu tururi ghidate, teatru, lecturi, film si gastronomie.",
+          "en": "Festival in cellars, excavations, and underground city-center sites with guided tours, theater, readings, film, and food."
+        },
+        "date": "2026-10-29",
+        "source_url": "https://www.trier-info.de/en/event-highlights/trier-underworlds"
+      },
+      {
+        "title": {
+          "de": "Lange Nacht der Trierer Unterwelten",
+          "hu": "A trieri alvilagok hosszu ejszakaja",
+          "ro": "Noaptea lunga a Subteranelor Trierului",
+          "en": "Long Night of the Trier Underworlds"
+        },
+        "summary": {
+          "de": "Spezialabend innerhalb des Unterwelten-Festivals mit konzentriertem Nachtprogramm an mehreren unterirdischen Orten der Stadt.",
+          "hu": "Kulonleges esti program az Alvilagok fesztivalon belul, koncentralt ejjeli rendezvenyekkel a varos tobb fold alatti helyszinen.",
+          "ro": "Seara speciala din cadrul festivalului Underworlds, cu program nocturn concentrat in mai multe locuri subterane ale orasului.",
+          "en": "Special evening within the Underworlds festival featuring a concentrated night program across several underground city venues."
+        },
+        "date": "2026-11-14",
+        "source_url": "https://www.trier-info.de/en/event-highlights/trier-underworlds"
+      },
+      {
+        "title": {
+          "de": "Trierer Weihnachtsmarkt 2026",
+          "hu": "Trieri karacsonyi vasar 2026",
+          "ro": "Targul de Craciun din Trier 2026",
+          "en": "Trier Christmas Market 2026"
+        },
+        "summary": {
+          "de": "Groesser Weihnachtsmarkt auf Hauptmarkt und Domfreihof mit Haendlerstaenden, Gluehwein und Adventsatmosphaere in der historischen Altstadt.",
+          "hu": "Nagy karacsonyi vasar a Hauptmarkt es a Domfreihof teren, arusokkal, forralt borral es adventi hangulattal a tortenelmi ovarosban.",
+          "ro": "Mare targ de Craciun in Hauptmarkt si Domfreihof, cu standuri, vin fiert si atmosfera de Advent in centrul istoric.",
+          "en": "Large Christmas market on Hauptmarkt and Domfreihof with stalls, mulled wine, and Advent atmosphere in the historic center."
+        },
+        "date": "2026-11-20",
+        "source_url": "https://www.trier-info.de/en/event-highlights/christmas-market"
+      }
+    ]
+  }
+]

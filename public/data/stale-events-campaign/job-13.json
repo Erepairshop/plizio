@@ -1,0 +1,437 @@
+[
+  {
+    "id": "rennes",
+    "events": [
+      {
+        "date": "2026-09-19",
+        "title": {
+          "de": "Europäische Tage des Kulturerbes in Rennes",
+          "hu": "Európai örökségnapok Rennes-ben",
+          "ro": "Zilele Europene ale Patrimoniului la Rennes",
+          "en": "European Heritage Days in Rennes",
+          "fr": "Journées européennes du matrimoine et du patrimoine"
+        },
+        "summary": {
+          "de": "An diesem Wochenende öffnen in Rennes zahlreiche Kultur- und Denkmalorte mit Führungen und Sonderprogrammen für Besucherinnen und Besucher.",
+          "hu": "Ezen a hétvégén Rennes számos örökségi helyszíne vezetésekkel és különprogramokkal várja a látogatókat.",
+          "ro": "În acest weekend, numeroase locuri de patrimoniu din Rennes se deschid publicului cu vizite ghidate și programe speciale.",
+          "en": "Across this weekend, heritage sites in Rennes open with guided visits and special programming for visitors.",
+          "fr": "Pendant ce week-end, de nombreux lieux patrimoniaux rennais ouvrent avec visites guidées et animations spéciales."
+        },
+        "source_url": "https://www.tourisme-rennes.com/sortir/journees-europeennes-du-matrimoine-et-du-patrimoine/"
+      },
+      {
+        "date": "2026-09-30",
+        "title": {
+          "de": "Le Grand Soufflet 2026",
+          "hu": "Le Grand Soufflet 2026",
+          "ro": "Le Grand Soufflet 2026",
+          "en": "Le Grand Soufflet 2026",
+          "fr": "Le Grand Soufflet 2026"
+        },
+        "summary": {
+          "de": "Das Weltmusikfestival bringt Konzerte in Rennes und im Département Ille-et-Vilaine und eignet sich für Reisende, die verschiedenste Musiktraditionen entdecken möchten.",
+          "hu": "A világzenei fesztivál Rennes-ben és Ille-et-Vilaine több helyszínén kínál koncerteket azoknak, akik sokféle zenei hagyományt szeretnének megismerni.",
+          "ro": "Festivalul de muzici ale lumii aduce concerte la Rennes și în Ille-et-Vilaine pentru vizitatorii care vor să descopere stiluri variate.",
+          "en": "This world music festival brings concerts to Rennes and across Ille-et-Vilaine for visitors looking to discover a wide range of traditions.",
+          "fr": "Ce festival des musiques du monde propose des concerts à Rennes et en Ille-et-Vilaine pour découvrir des traditions musicales variées."
+        },
+        "source_url": "https://www.tourisme-rennes.com/infos-pratiques/calendrier-festivals-bretagne/"
+      },
+      {
+        "date": "2026-10-01",
+        "title": {
+          "de": "Festival Maintenant 2026",
+          "hu": "Festival Maintenant 2026",
+          "ro": "Festivalul Maintenant 2026",
+          "en": "Festival Maintenant 2026",
+          "fr": "Festival Maintenant 2026"
+        },
+        "summary": {
+          "de": "Das Festival verbindet Kunst, Musik und digitale Technologien an mehreren Orten in Rennes und bietet ein zeitgenössisches Stadterlebnis.",
+          "hu": "A fesztivál művészetet, zenét és digitális technológiát kapcsol össze Rennes több helyszínén, kortárs városi élményt kínálva.",
+          "ro": "Festivalul combină arta, muzica și tehnologiile digitale în mai multe locuri din Rennes, oferind o experiență urbană contemporană.",
+          "en": "The festival mixes art, music and digital technologies across Rennes venues, creating a contemporary citywide experience.",
+          "fr": "Le festival mêle arts, musiques et technologies dans plusieurs lieux rennais pour une expérience urbaine contemporaine."
+        },
+        "source_url": "https://www.tourisme-rennes.com/infos-pratiques/calendrier-festivals-bretagne/"
+      },
+      {
+        "date": "2026-11-03",
+        "title": {
+          "de": "Jazz à l’Ouest 2026",
+          "hu": "Jazz à l’Ouest 2026",
+          "ro": "Jazz à l’Ouest 2026",
+          "en": "Jazz à l’Ouest 2026",
+          "fr": "Jazz à l’Ouest 2026"
+        },
+        "summary": {
+          "de": "Die Festivalreihe bringt im November Jazzkonzerte in zahlreiche Säle der Métropole Rennes und nach Saint-Malo.",
+          "hu": "A fesztivál novemberben Rennes metropoliszának több koncerthelyszínére és Saint-Malóba visz jazzprogramokat.",
+          "ro": "Seria de festival aduce concerte de jazz în numeroase săli din Rennes Métropole și la Saint-Malo în luna noiembrie.",
+          "en": "This November festival series brings jazz concerts to many venues across Rennes Métropole and Saint-Malo.",
+          "fr": "Cette série de concerts de novembre propose du jazz dans de nombreuses salles de Rennes Métropole et à Saint-Malo."
+        },
+        "source_url": "https://www.tourisme-rennes.com/infos-pratiques/calendrier-festivals-bretagne/"
+      },
+      {
+        "date": "2026-12-02",
+        "title": {
+          "de": "Rencontres Trans Musicales 2026",
+          "hu": "Rencontres Trans Musicales 2026",
+          "ro": "Rencontres Trans Musicales 2026",
+          "en": "Rencontres Trans Musicales 2026",
+          "fr": "Rencontres Trans Musicales 2026"
+        },
+        "summary": {
+          "de": "Rennes’ bekanntes Musikfestival präsentiert mehrere Tage lang neue internationale Acts im Parc Expo und in Sälen der Metropole.",
+          "hu": "Rennes ismert zenei fesztiválja több napon át új nemzetközi fellépőket mutat be a Parc Expo területén és a város helyszínein.",
+          "ro": "Cunoscutul festival muzical din Rennes prezintă timp de mai multe zile noi artiști internaționali la Parc Expo și în săli din metropolă.",
+          "en": "Rennes’ flagship music festival showcases new international acts over several days at Parc Expo and venues around the metropolis.",
+          "fr": "Le grand festival musical rennais présente pendant plusieurs jours de nouveaux artistes internationaux au Parc Expo et dans la métropole."
+        },
+        "source_url": "https://www.tourisme-rennes.com/infos-pratiques/calendrier-festivals-bretagne/"
+      }
+    ]
+  },
+  {
+    "id": "granada",
+    "events": [
+      {
+        "date": "2026-09-02",
+        "title": {
+          "de": "Zaidín Rock 2026",
+          "hu": "Zaidín Rock 2026",
+          "ro": "Zaidín Rock 2026",
+          "en": "Zaidín Rock 2026"
+        },
+        "summary": {
+          "de": "Spaniens traditionsreiches Rockfestival belebt Anfang September das Viertel Zaidín mit mehreren Konzerttagen und großem Open-Air-Publikum.",
+          "hu": "Spanyolország egyik hagyományos rockfesztiválja szeptember elején több koncertnappal és nagy szabadtéri közönséggel tölti meg a Zaidín negyedet.",
+          "ro": "Unul dintre festivalurile rock tradiționale ale Spaniei animă cartierul Zaidín la început de septembrie cu mai multe zile de concerte în aer liber.",
+          "en": "Spain’s long-running rock festival fills the Zaidín district in early September with several days of open-air concerts."
+        },
+        "source_url": "https://turgranada.es/en/eventos/zaidin-rock-2024"
+      },
+      {
+        "date": "2026-09-11",
+        "title": {
+          "de": "Granada Sound 2026",
+          "hu": "Granada Sound 2026",
+          "ro": "Granada Sound 2026",
+          "en": "Granada Sound 2026"
+        },
+        "summary": {
+          "de": "Das Pop- und Indie-Festival bringt zwei Tage lang aktuelle Acts und Festivalatmosphäre nach Granada.",
+          "hu": "A pop- és indie-fesztivál két napon át kortárs fellépőket és fesztiválhangulatot hoz Granadába.",
+          "ro": "Festivalul pop și indie aduce două zile de concerte actuale și atmosferă de festival la Granada.",
+          "en": "This pop and indie festival brings two days of current acts and festival atmosphere to Granada."
+        },
+        "source_url": "https://turgranada.es/en/eventos/granada-sound-2024"
+      },
+      {
+        "date": "2026-09-25",
+        "title": {
+          "de": "Ola Granada 2026",
+          "hu": "Ola Granada 2026",
+          "ro": "Ola Granada 2026",
+          "en": "Ola Granada 2026"
+        },
+        "summary": {
+          "de": "Die Veranstaltung im Palacio Municipal de Deportes bündelt aktuelle Livemusik in einer großen Indoor-Arena der Stadt.",
+          "hu": "A Palacio Municipal de Deportes helyszínén rendezett program kortárs könnyűzenei fellépőket hoz Granada nagy fedett arénájába.",
+          "ro": "Evenimentul de la Palacio Municipal de Deportes aduce muzică live contemporană într-una dintre marile arene acoperite ale orașului.",
+          "en": "Held at the Palacio Municipal de Deportes, this event brings contemporary live music into one of Granada’s major indoor arenas."
+        },
+        "source_url": "https://turgranada.es/en/eventos/ola-granada-2026-la-musica-que-viene"
+      },
+      {
+        "date": "2026-09-26",
+        "title": {
+          "de": "Prozession der Virgen de las Angustias",
+          "hu": "A Virgen de las Angustias körmenete",
+          "ro": "Procesiunea Virgen de las Angustias",
+          "en": "Virgen de las Angustias Procession"
+        },
+        "summary": {
+          "de": "Die Schutzpatronin Granadas zieht in einer der wichtigsten religiösen Feierlichkeiten der Stadt durch die Straßen.",
+          "hu": "Granada védőszentjének menete a város egyik legfontosabb vallási ünnepe, amely a belvárosi utcákon halad végig.",
+          "ro": "Patroana Granadei este purtată prin oraș într-una dintre cele mai importante sărbători religioase locale.",
+          "en": "Granada’s patron saint is carried through the city in one of its most important religious celebrations."
+        },
+        "source_url": "https://www.turgranada.es/en/eventos/procesi%C3%B3n-virgen-de-las-angust%C3%ADas"
+      },
+      {
+        "date": "2026-12-01",
+        "title": {
+          "de": "Weihnachten in Granada",
+          "hu": "Karácsony Granadában",
+          "ro": "Crăciunul la Granada",
+          "en": "Christmas in Granada"
+        },
+        "summary": {
+          "de": "Mit Beleuchtung und Weihnachtsmärkten an der Fuente de las Batallas und der Plaza Bib-Rambla startet Granada in die Festzeit.",
+          "hu": "Granada ünnepi fényekkel és karácsonyi vásárokkal a Fuente de las Batallas és a Plaza Bib-Rambla tereken kezdi meg az adventi időszakot.",
+          "ro": "Granada intră în sezonul festiv cu iluminat și târguri de Crăciun la Fuente de las Batallas și Plaza Bib-Rambla.",
+          "en": "Granada enters the festive season with holiday lights and Christmas markets at Fuente de las Batallas and Plaza Bib-Rambla."
+        },
+        "source_url": "https://turismo.granada.org/en/christmas-granada"
+      }
+    ]
+  },
+  {
+    "id": "poland-sosnowiec-cities-v2",
+    "events": [
+      {
+        "date": "2026-07-27",
+        "title": {
+          "de": "Podwórkowy MopsikoBus in Milowice",
+          "hu": "Podwórkowy MopsikoBus Milowicében",
+          "ro": "Podwórkowy MopsikoBus la Milowice",
+          "en": "Podwórkowy MopsikoBus in Milowice"
+        },
+        "summary": {
+          "de": "Das städtische Sommerprogramm bringt an diesem Tag kostenlose Familienanimationen und Nachbarschaftsaktivitäten in den Parkbereich von Milowice.",
+          "hu": "A városi nyári program ezen a napon ingyenes családi animációkat és közösségi programokat visz Milowice parkos részére.",
+          "ro": "Programul estival al orașului aduce în această zi animații gratuite pentru familii și activități de cartier în zona verde din Milowice.",
+          "en": "The city’s summer programme brings free family entertainment and neighbourhood activities to the Milowice park area on this date."
+        },
+        "source_url": "https://www.sosnowiec.pl/2026/07/glowne/podworkowy-mopsikobus-powraca-na-trase-6-lipca-bawimy-sie-na-niwce/"
+      },
+      {
+        "date": "2026-08-05",
+        "title": {
+          "de": "Filmowe środy w Ogrodzie",
+          "hu": "Filmowe środy w Ogrodzie",
+          "ro": "Filmowe środy w Ogrodzie",
+          "en": "Film Wednesdays in the Garden"
+        },
+        "summary": {
+          "de": "Die Stadtbibliothek veranstaltet in der Zagłębiowska Mediateka kostenlose Sommerfilmabende im Garten als Teil des Programms „Lato na luzie“.",
+          "hu": "A városi könyvtár a Zagłębiowska Mediateka kertjében ingyenes nyári filmvetítéseket rendez a „Lato na luzie” programsorozat részeként.",
+          "ro": "Biblioteca municipală organizează proiecții gratuite de vară în grădina Zagłębiowska Mediateka, în cadrul programului „Lato na luzie”.",
+          "en": "The city library hosts free summer film screenings in the Zagłębiowska Mediateka garden as part of the “Lato na luzie” programme."
+        },
+        "source_url": "https://www.biblioteka.sosnowiec.pl/aktualnosci/zaglebiowska-mediateka/2203"
+      },
+      {
+        "date": "2026-08-08",
+        "title": {
+          "de": "Zagłębie Sosnowiec gegen LKS Goczałkowice-Zdrój",
+          "hu": "Zagłębie Sosnowiec–LKS Goczałkowice-Zdrój",
+          "ro": "Zagłębie Sosnowiec vs. LKS Goczałkowice-Zdrój",
+          "en": "Zagłębie Sosnowiec vs LKS Goczałkowice-Zdrój"
+        },
+        "summary": {
+          "de": "Heimfans können die Mannschaft von Zagłębie Sosnowiec bei einem Ligaspiel in der Arena Sosnowiec erleben.",
+          "hu": "A hazai szurkolók a Zagłębie Sosnowiec csapatát láthatják bajnoki mérkőzésen az Aréna Sosnowiecben.",
+          "ro": "Fanii pot vedea echipa Zagłębie Sosnowiec într-un meci de campionat jucat acasă, pe Arena Sosnowiec.",
+          "en": "Home supporters can watch Zagłębie Sosnowiec in a league match at Arena Sosnowiec."
+        },
+        "source_url": "https://zaglebie.sosnowiec.pl/2%2C13698%2Ckonferencja-prasowa-po-meczu-w-chojnicach.html"
+      },
+      {
+        "date": "2026-08-19",
+        "title": {
+          "de": "Zagłębie Sosnowiec gegen Ślęza Wrocław",
+          "hu": "Zagłębie Sosnowiec–Ślęza Wrocław",
+          "ro": "Zagłębie Sosnowiec vs. Ślęza Wrocław",
+          "en": "Zagłębie Sosnowiec vs Ślęza Wrocław"
+        },
+        "summary": {
+          "de": "Ein weiteres Heimspiel bringt Fußballpublikum mitten im August in die Arena Sosnowiec.",
+          "hu": "Egy újabb hazai mérkőzés augusztus közepén vonzza a futballközönséget az Aréna Sosnowiecbe.",
+          "ro": "Un alt meci disputat acasă aduce publicul de fotbal pe Arena Sosnowiec la mijlocul lunii august.",
+          "en": "Another home fixture brings football crowds to Arena Sosnowiec in mid-August."
+        },
+        "source_url": "https://zaglebie.sosnowiec.pl/2%2C13698%2Ckonferencja-prasowa-po-meczu-w-chojnicach.html"
+      },
+      {
+        "date": "2026-09-26",
+        "title": {
+          "de": "Hamlet im Teatr Zagłębia",
+          "hu": "Hamlet a Teatr Zagłębiában",
+          "ro": "Hamlet la Teatr Zagłębia",
+          "en": "Hamlet at Teatr Zagłębia"
+        },
+        "summary": {
+          "de": "Die große Bühne des Teatr Zagłębia zeigt Shakespeares Tragödie in einer aktuellen Inszenierung für erwachsenes Publikum.",
+          "hu": "A Teatr Zagłębia nagyszínpada Shakespeare tragédiáját mutatja be kortárs rendezésben felnőtt közönségnek.",
+          "ro": "Scena principală a Teatrului Zagłębia prezintă tragedia lui Shakespeare într-o montare contemporană pentru public adult.",
+          "en": "Teatr Zagłębia’s main stage presents Shakespeare’s tragedy in a contemporary production for adult audiences."
+        },
+        "source_url": "https://teatrzaglebia.pl/kup-bilet/?id=3026"
+      }
+    ]
+  },
+  {
+    "id": "city-herastrau-park",
+    "events": [
+      {
+        "date": "2026-08-01",
+        "title": {
+          "de": "Crina Matei & Băieții ei de Catifea auf der Terrasse",
+          "hu": "Crina Matei & Băieții ei de Catifea a teraszon",
+          "ro": "Crina Matei & Băieții ei de Catifea pe terasă",
+          "en": "Crina Matei & Băieții ei de Catifea on the Terrace"
+        },
+        "summary": {
+          "de": "In Berăria H im Herăstrău-Park gibt es einen sommerlichen Liveabend im Freien mit lockerer Terrassenatmosphäre.",
+          "hu": "A Herăstrău parkban található Berăria H szabadtéri nyáresti koncertet rendez laza teraszhangulattal.",
+          "ro": "La Berăria H din Parcul Herăstrău are loc un concert de vară în aer liber, într-o atmosferă relaxată de terasă.",
+          "en": "Berăria H in Herăstrău Park hosts an open-air summer live set with a relaxed terrace atmosphere."
+        },
+        "source_url": "https://berariah.ro/ev/crina-matei-28-aug"
+      },
+      {
+        "date": "2026-08-28",
+        "title": {
+          "de": "INKORA 2026",
+          "hu": "INKORA 2026",
+          "ro": "INKORA 2026",
+          "en": "INKORA 2026"
+        },
+        "summary": {
+          "de": "Das mehrtägige Live Tattoo Art & Music Festival im Herăstrău-Park verbindet Tattoo-Kunst, Musik und Showprogramm.",
+          "hu": "A többnapos Live Tattoo Art & Music Festival a Herăstrău parkban a tetoválóművészetet, a zenét és a színpadi show-t kapcsolja össze.",
+          "ro": "Festivalul de mai multe zile Live Tattoo Art & Music din Parcul Herăstrău reunește tatuajul, muzica și spectacolele live.",
+          "en": "This multi-day Live Tattoo Art & Music Festival in Herăstrău Park combines tattoo art, music and stage entertainment."
+        },
+        "source_url": "https://inkorafestival.ro/"
+      },
+      {
+        "date": "2026-08-29",
+        "title": {
+          "de": "BLOND:ISH im Herăstrău-Park",
+          "hu": "BLOND:ISH a Herăstrău parkban",
+          "ro": "BLOND:ISH în Parcul Herăstrău",
+          "en": "BLOND:ISH at Herăstrău Park"
+        },
+        "summary": {
+          "de": "Die DJ- und Produzentin BLOND:ISH spielt ein Open-Air-Set im Park und zieht Fans elektronischer Musik in den Norden Bukarests.",
+          "hu": "BLOND:ISH DJ és producer szabadtéri szettet ad a parkban, amely az elektronikus zene rajongóit vonzza Bukarest északi részére.",
+          "ro": "DJ-ul și producătoarea BLOND:ISH susține un set în aer liber în parc, atrăgând publicul de muzică electronică în nordul Bucureștiului.",
+          "en": "DJ and producer BLOND:ISH plays an open-air set in the park, drawing electronic music fans to northern Bucharest."
+        },
+        "source_url": "https://blondish.world/tour/2026-08-29-herastrau-park-bucharest/"
+      },
+      {
+        "date": "2026-09-24",
+        "title": {
+          "de": "Adrian Minune Jubiläumskonzert",
+          "hu": "Adrian Minune jubileumi koncertje",
+          "ro": "Concert aniversar Adrian Minune",
+          "en": "Adrian Minune Anniversary Concert"
+        },
+        "summary": {
+          "de": "Berăria H veranstaltet einen großen Geburtstagsabend mit Adrian Minune und mehreren Gastkünstlern im Parkareal.",
+          "hu": "A Berăria H nagyszabású születésnapi estét rendez Adrian Minunéval és több vendégfellépővel a park területén.",
+          "ro": "Berăria H organizează o seară aniversară amplă cu Adrian Minune și mai mulți invitați speciali în zona parcului.",
+          "en": "Berăria H hosts a large anniversary night with Adrian Minune and multiple guest artists inside the park area."
+        },
+        "source_url": "https://berariah.ro/ev/concert-adrian-minune-52-bucuresti-2026"
+      },
+      {
+        "date": "2026-10-30",
+        "title": {
+          "de": "Michael Jackson’s Thriller Tribute Halloween Special",
+          "hu": "Michael Jackson’s Thriller Tribute Halloween Special",
+          "ro": "Michael Jackson’s Thriller Tribute Halloween Special",
+          "en": "Michael Jackson’s Thriller Tribute Halloween Special"
+        },
+        "summary": {
+          "de": "Der Halloween-Abend in Berăria H setzt auf eine Live-Tribute-Show mit bekannten Michael-Jackson-Hits im Herăstrău-Park.",
+          "hu": "A Berăria H halloweeni estje élő tribute-show-val idézi meg Michael Jackson legismertebb slágereit a Herăstrău parkban.",
+          "ro": "Seara de Halloween de la Berăria H propune un show tribut live cu hituri Michael Jackson în Parcul Herăstrău.",
+          "en": "Berăria H’s Halloween night features a live tribute show built around classic Michael Jackson hits in Herăstrău Park."
+        },
+        "source_url": "https://berariah.ro/ev/michael-jacksons-thriller-tribute-halloween-261030"
+      }
+    ]
+  },
+  {
+    "id": "slovakia-kosice-cities-v2",
+    "events": [
+      {
+        "date": "2026-09-02",
+        "title": {
+          "de": "Erster Mittwoch des Monats für einen Euro",
+          "hu": "A hónap első szerdája egy euróért",
+          "ro": "Prima miercuri a lunii pentru un euro",
+          "en": "The First Wednesday of the Month for One Euro"
+        },
+        "summary": {
+          "de": "Die Ostslowakische Galerie bietet an diesem Mittwoch stark vergünstigten Eintritt und erleichtert so einen Kulturstopp im Zentrum von Košice.",
+          "hu": "A Kelet-szlovákiai Galéria ezen a szerdán kedvezményes belépőt kínál, így könnyű kulturális megállóvá válik Kassa központjában.",
+          "ro": "Galeria Slovacă de Est oferă în această zi intrare foarte ieftină, fiind o oprire culturală accesibilă în centrul orașului Košice.",
+          "en": "The East Slovak Gallery offers heavily discounted admission on this Wednesday, making it an easy cultural stop in central Košice."
+        },
+        "source_url": "https://visitkosice.org/en/podujatia/first-wednesday-of-the-month-for-a-euro-WFPPiAvtVx"
+      },
+      {
+        "date": "2026-09-16",
+        "title": {
+          "de": "Around Slovakia 2026",
+          "hu": "Around Slovakia 2026",
+          "ro": "Around Slovakia 2026",
+          "en": "Around Slovakia 2026"
+        },
+        "summary": {
+          "de": "Košice richtet die Auftaktetappe des internationalen Radrennens Okolo Slovenska mit Start und Ziel in der Stadt aus.",
+          "hu": "Kassa ad otthont az Okolo Slovenska nemzetközi kerékpárverseny nyitóetapjának, rajttal és befutóval a városban.",
+          "ro": "Košice găzduiește etapa inaugurală a cursei internaționale de ciclism Around Slovakia, cu start și sosire în oraș.",
+          "en": "Košice hosts the opening stage of the Around Slovakia international cycling race, with both start and finish in the city."
+        },
+        "source_url": "https://visitkosice.org/en/podujatia/around-slovakia-2026"
+      },
+      {
+        "date": "2026-10-03",
+        "title": {
+          "de": "NIPPON STEEL Family Run",
+          "hu": "NIPPON STEEL Family Run",
+          "ro": "NIPPON STEEL Family Run",
+          "en": "NIPPON STEEL Family Run"
+        },
+        "summary": {
+          "de": "Der familienfreundliche Lauf gehört zum Marathon-Wochenende und bringt Freizeitläuferinnen und Freizeitläufer auf die Hauptstraße von Košice.",
+          "hu": "A családbarát futás a maratoni hétvége része, és amatőr futókat vonz Kassa főutcájára.",
+          "ro": "Cursa pentru familii face parte din weekendul maratonului și aduce alergători amatori pe strada principală din Košice.",
+          "en": "This family-friendly run is part of marathon weekend and brings recreational runners onto Košice’s main street."
+        },
+        "source_url": "https://visitkosice.org/en/podujatia/kategorie/aktualne-podujatia"
+      },
+      {
+        "date": "2026-10-04",
+        "title": {
+          "de": "Internationaler Friedensmarathon",
+          "hu": "Nemzetközi Békemaraton",
+          "ro": "Maratonul Internațional al Păcii",
+          "en": "International Peace Marathon"
+        },
+        "summary": {
+          "de": "Der traditionsreiche Marathon, einer der ältesten Europas, ist das sportliche Flaggschiff von Košice und belebt das Stadtzentrum mit Läufern und Zuschauern.",
+          "hu": "A nagy hagyományú maraton Európa egyik legrégebbi futóversenye, és futókkal valamint nézőkkel tölti meg Kassa központját.",
+          "ro": "Maratonul istoric, unul dintre cele mai vechi din Europa, este evenimentul sportiv emblematic al orașului Košice și animă centrul cu alergători și spectatori.",
+          "en": "One of Europe’s oldest marathons, this flagship sporting event fills central Košice with runners and spectators."
+        },
+        "source_url": "https://visitkosice.org/en/podujatia/kategorie/aktualne-podujatia"
+      },
+      {
+        "date": "2026-08-21",
+        "title": {
+          "de": "Jazz im Park",
+          "hu": "Jazz a parkban",
+          "ro": "Jazz în parc",
+          "en": "Jazz in the Park"
+        },
+        "summary": {
+          "de": "Die Konzertreihe kehrt ab Ende August in den Komenského-Park zurück und kombiniert Livejazz mit entspannter Nachbarschaftsatmosphäre.",
+          "hu": "A koncertsorozat augusztus végétől tér vissza a Komenského parkba, ahol élő jazz és laza közösségi hangulat várja a látogatókat.",
+          "ro": "Seria de concerte revine din a doua parte a lunii august în Parcul Komenského, combinând jazz live și atmosferă relaxată de cartier.",
+          "en": "The concert series returns from late August to Komenského Park, combining live jazz with a relaxed neighbourhood atmosphere."
+        },
+        "source_url": "https://visitkosice.org/en/podujatia/jazz-in-the-park-un54oK6Qwr"
+      }
+    ]
+  }
+]
